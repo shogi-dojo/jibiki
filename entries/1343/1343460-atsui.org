@@ -1,20 +1,22 @@
 #+TITLE: 暑い
 #+JMDICT_ID: 1343460
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あつい
 #+ROMAJI: atsui
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1343460-001
 :PROPERTIES:
 :TEXT: 暑い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -26,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -40,7 +41,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-003
 :PROPERTIES:
 :TEXT: あぢぃ
@@ -50,7 +50,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-004
 :PROPERTIES:
 :TEXT: あぢー
@@ -60,7 +59,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-005
 :PROPERTIES:
 :TEXT: あぢい
@@ -70,7 +68,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-006
 :PROPERTIES:
 :TEXT: あっつい
@@ -80,7 +77,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-007
 :PROPERTIES:
 :TEXT: アツイ
@@ -90,7 +86,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1343460-008
 :PROPERTIES:
 :TEXT: アツい
@@ -100,99 +95,45 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1343460-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: ac26b88cbd0443d5331279298615aa6e6457dc67dfcf631b3d5e8c10f9e87aa1
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
 *** Antonyms
 - 寒い・1
-*** Language sources
 ** English glosses
-*** en-s-1343460-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hot
-*** en-s-1343460-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: warm
-*** en-s-1343460-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sultry
-*** en-s-1343460-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: heated
+- hot
+- warm
+- sultry
+- heated
 ** Ukrainian glosses
 *** uk-s-1343460-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спекотний
 - qualifier :: про погоду
 *** uk-s-1343460-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: жаркий
 ** Russian reference
-*** ru-ref-1343460-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: жаркий; (как сказ.) жарко
+- 8 :: жаркий; (как сказ.) жарко
 ** Learner notes
 *** note-s-1343460-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Спекотний, жаркий (тільки про погоду або клімат). Для гарячих предметів чи води використовується 熱い.
@@ -201,11 +142,6 @@
 ** Examples
 *** ex-1343460-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -216,11 +152,6 @@
 - FOCUS :: 暑いです
 *** ex-1343460-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -231,11 +162,6 @@
 - FOCUS :: 暑い
 *** ex-1343460-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -250,67 +176,28 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: f9fea239f194c1edee83a99c9422ec2c938f3bae4ca870b3f8bb71fdd98924a5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1343460-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: passionate
-*** en-s-1343460-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: impassioned
-*** en-s-1343460-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: burning (desire, etc.)
+- passionate
+- impassioned
+- burning (desire, etc.)
 ** Ukrainian glosses
 *** uk-s-1343460-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: палкий
 *** uk-s-1343460-002-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гарячий
 - qualifier :: про почуття
@@ -320,63 +207,20 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 2a39a759adaa17c843abefa22ca7de090f0cc3fd6b38b06dfe376f55310c3d2f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1343460-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: on everybody's mind
-*** en-s-1343460-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: on the radar
-*** en-s-1343460-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: du jour
-*** en-s-1343460-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: interested (gaze, etc.)
+- on everybody's mind
+- on the radar
+- du jour
+- interested (gaze, etc.)
 ** Ukrainian glosses
 *** uk-s-1343460-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: у центрі уваги

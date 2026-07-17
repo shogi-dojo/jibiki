@@ -1,34 +1,32 @@
 #+TITLE: 貴方
 #+JMDICT_ID: 1223615
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あなた
 #+ROMAJI: anata
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1223615-001
 :PROPERTIES:
 :TEXT: 貴方
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1223615-002
 :PROPERTIES:
 :TEXT: 貴女
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1223615-003
 :PROPERTIES:
 :TEXT: 貴男
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1223615-001
 :PROPERTIES:
 :TEXT: あなた
@@ -45,69 +43,39 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 536483f722c458e793af14579d011c48b95dc81e174d0bdf7bde9def887d3431
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - trad. polite in ref. to someone of equal or lower status, now oft. regarded as rude or distant
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1223615-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: you
+- you
 ** Ukrainian glosses
 *** uk-s-1223615-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ти
 *** uk-s-1223615-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ви
 ** Russian reference
-*** ru-ref-1223615-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: вы (обращение между посторонними, женщинами-подругами и жены к мужу)
+- 7 :: вы (обращение между посторонними, женщинами-подругами и жены к мужу)
 ** Learner notes
 *** note-s-1223615-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Ти, ви. Зазвичай японці замість "аната" використовують ім'я співрозмовника.
@@ -116,11 +84,6 @@
 ** Examples
 *** ex-1223615-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -131,11 +94,6 @@
 - FOCUS :: あなたは
 *** ex-1223615-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -146,11 +104,6 @@
 - FOCUS :: あなたの
 *** ex-1223615-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -174,43 +127,21 @@
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - fam
 - uk
-*** Dialects
 *** Sense information
 - used by wives addressing their husbands
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1223615-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dear
-*** en-s-1223615-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: honey
+- dear
+- honey
 ** Ukrainian glosses
 *** uk-s-1223615-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: любий
 - qualifier :: звертання дружини до чоловіка

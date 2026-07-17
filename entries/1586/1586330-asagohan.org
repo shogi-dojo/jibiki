@@ -1,27 +1,28 @@
 #+TITLE: 朝ご飯
 #+JMDICT_ID: 1586330
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あさごはん
 #+ROMAJI: asagohan
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1586330-001
 :PROPERTIES:
 :TEXT: 朝ごはん
 :END:
-*** Information
 *** Priorities
 - spec1
 ** Written form wf-1586330-002
 :PROPERTIES:
 :TEXT: 朝ご飯
 :END:
-*** Information
 *** Priorities
 - spec1
 ** Written form wf-1586330-003
@@ -30,7 +31,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1586330-001
 :PROPERTIES:
 :TEXT: あさごはん
@@ -38,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - spec1
 
@@ -46,50 +45,25 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: be5775157572046e0a7fbf51479d08a4e948d6609e1c41dfad74c7d28a937e02
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1586330-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: breakfast
+- breakfast
 ** Ukrainian glosses
 *** uk-s-1586330-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сніданок
 ** Learner notes
 *** note-s-1586330-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Сніданок. Більш формальний синонім — 朝食 (ちょうしょく).
@@ -98,11 +72,6 @@
 ** Examples
 *** ex-1586330-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -113,11 +82,6 @@
 - FOCUS :: 朝ご飯
 *** ex-1586330-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -128,11 +92,6 @@
 - FOCUS :: 朝ご飯
 *** ex-1586330-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

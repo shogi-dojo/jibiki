@@ -1,19 +1,22 @@
 #+TITLE: お兄さん
 #+JMDICT_ID: 1001830
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おにいさん
 #+ROMAJI: oniisan
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1001830-001
 :PROPERTIES:
 :TEXT: お兄さん
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1001830-002
@@ -22,7 +25,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1001830-001
 :PROPERTIES:
 :TEXT: おにいさん
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -38,68 +39,33 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 9f33fcfe1dd7a68ce8090e05a6bc1fd12bed2f38e269dade8f1f43035f1c454a
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - hon
-*** Dialects
-*** Sense information
 *** Cross-references
 - 兄さん・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1001830-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: older brother
-*** en-s-1001830-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: elder brother
+- older brother
+- elder brother
 ** Ukrainian glosses
 *** uk-s-1001830-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: старший брат
 - qualifier :: шанобливо
 ** Russian reference
-*** ru-ref-1001830-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: старший брат
+- 6 :: старший брат
 ** Learner notes
 *** note-s-1001830-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Шанобливе звертання до старшого брата співрозмовника або третьої особи. Також може використовуватися для звертання до власного старшого брата.
 - LEVEL :: beginner
@@ -107,11 +73,6 @@
 ** Examples
 *** ex-1001830-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -122,11 +83,6 @@
 - FOCUS :: お兄さんは
 *** ex-1001830-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -137,11 +93,6 @@
 - FOCUS :: お兄さんは
 *** ex-1001830-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -156,89 +107,43 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 557f4b87837a20e0208c488c7c2cc3e51977f23a8efbe7954924d8b95b51717b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - fam
-*** Dialects
 *** Sense information
 - oft. vocative
 *** Cross-references
 - 兄さん・3
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1001830-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: young man
-*** en-s-1001830-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: buddy
-*** en-s-1001830-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: fella
-*** en-s-1001830-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: laddie
+- young man
+- buddy
+- fella
+- laddie
 ** Ukrainian glosses
 *** uk-s-1001830-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: молодий чоловік
 - qualifier :: звертання до незнайомця
 *** uk-s-1001830-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: хлопче
 *** uk-s-1001830-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: братику

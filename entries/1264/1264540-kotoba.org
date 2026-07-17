@@ -1,19 +1,22 @@
 #+TITLE: 言葉
 #+JMDICT_ID: 1264540
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ことば
 #+ROMAJI: kotoba
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1264540-001
 :PROPERTIES:
 :TEXT: 言葉
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,14 +27,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1264540-003
 :PROPERTIES:
 :TEXT: 辞
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1264540-001
 :PROPERTIES:
 :TEXT: ことば
@@ -39,7 +40,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -53,103 +53,46 @@
 - *
 *** Information
 - ok
-*** Priorities
-
 * Sense s-1264540-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 059c35a3271c2c11745ae18554ccd64c1c589cb5ba3bd2b639b913927cb45961
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 言語
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1264540-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: language
-*** en-s-1264540-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dialect
+- language
+- dialect
 ** Ukrainian glosses
 *** uk-s-1264540-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мова
 *** uk-s-1264540-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: діалект
 ** Russian reference
-*** ru-ref-1264540-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: слово
-*** ru-ref-1264540-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: язык
-*** ru-ref-1264540-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: 1) слово; слова
-*** ru-ref-1264540-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: 2) язык
-*** ru-ref-1264540-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: 3) диалект
+- 22 :: слово
+- 22 :: язык
+- 22 :: 1) слово; слова
+- 22 :: 2) язык
+- 22 :: 3) диалект
 ** Learner notes
 *** note-s-1264540-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Мова, слово, фраза.
 - LEVEL :: beginner
@@ -157,11 +100,6 @@
 ** Examples
 *** ex-1264540-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -172,11 +110,6 @@
 - FOCUS :: 言葉
 *** ex-1264540-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -187,11 +120,6 @@
 - FOCUS :: 言葉
 *** ex-1264540-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -206,86 +134,37 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 8b19948282f09b7fb4caa3f487d0c1ac8ae301f73ebb95e86bc4f16a5fb2e40f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1264540-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: word
-*** en-s-1264540-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: phrase
-*** en-s-1264540-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: expression
-*** en-s-1264540-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: term
+- word
+- phrase
+- expression
+- term
 ** Ukrainian glosses
 *** uk-s-1264540-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: слово
 *** uk-s-1264540-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: фраза
 *** uk-s-1264540-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вираз
 
@@ -294,67 +173,28 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 789101a1a24e5ee621aa1f78a6c51e078375bcb09ad0e3fe2115b70c88c5974a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1264540-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: speech
-*** en-s-1264540-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (manner of) speaking
-*** en-s-1264540-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (use of) language
+- speech
+- (manner of) speaking
+- (use of) language
 ** Ukrainian glosses
 *** uk-s-1264540-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розмова
 *** uk-s-1264540-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мовлення
 
@@ -363,75 +203,29 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 6a7878536ba87cedb149ba64f34fe63682bb46ba7c1e657eda15e925b4cbe7c7
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1264540-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: words
-*** en-s-1264540-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: remark
-*** en-s-1264540-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: statement
-*** en-s-1264540-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: comment
+- words
+- remark
+- statement
+- comment
 ** Ukrainian glosses
 *** uk-s-1264540-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: слова
 *** uk-s-1264540-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зауваження
 
@@ -440,47 +234,18 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 9fa4deee181fb4f4363fb23d6a9559ffd031970bab385106301bfdf661d21b99
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1264540-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: learning to speak
-*** en-s-1264540-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: language acquisition
+- learning to speak
+- language acquisition
 ** Ukrainian glosses
 *** uk-s-1264540-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: навчання говорити

@@ -1,19 +1,22 @@
 #+TITLE: 椅子
 #+JMDICT_ID: 1157070
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いす
 #+ROMAJI: isu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1157070-001
 :PROPERTIES:
 :TEXT: 椅子
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1157070-001
 :PROPERTIES:
 :TEXT: いす
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -44,104 +45,43 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1157070-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 9353bbd625818c4a748baf7dc018aa8a06b49781a6d3dccffe75de2da3f0123a
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1157070-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: chair
-*** en-s-1157070-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: seat
-*** en-s-1157070-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: stool
-*** en-s-1157070-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bench
+- chair
+- seat
+- stool
+- bench
 ** Ukrainian glosses
 *** uk-s-1157070-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: стілець
 *** uk-s-1157070-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: крісло
 ** Russian reference
-*** ru-ref-1157070-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: стул
-*** ru-ref-1157070-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: стул; (обр.) пост, место
+- 10 :: стул
+- 10 :: стул; (обр.) пост, место
 ** Learner notes
 *** note-s-1157070-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальна назва для стільця чи крісла.
 - LEVEL :: beginner
@@ -149,11 +89,6 @@
 ** Examples
 *** ex-1157070-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -164,11 +99,6 @@
 - FOCUS :: 椅子に
 *** ex-1157070-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -179,11 +109,6 @@
 - FOCUS :: 椅子は
 *** ex-1157070-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -198,74 +123,28 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 65981404ffc2da7cc70c9d391f9ee58c249d725a18f2e069be9eea2df3dd7753
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1157070-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: post
-*** en-s-1157070-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: position
-*** en-s-1157070-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: seat
-*** en-s-1157070-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: office
+- post
+- position
+- seat
+- office
 ** Ukrainian glosses
 *** uk-s-1157070-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: посада
 *** uk-s-1157070-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: місце

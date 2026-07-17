@@ -1,12 +1,16 @@
 #+TITLE: 此方
 #+JMDICT_ID: 1004500
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: こちら
 #+ROMAJI: kochira
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1004500-001
@@ -15,7 +19,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1004500-001
 :PROPERTIES:
 :TEXT: こちら
@@ -23,7 +26,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1004500-002
@@ -33,7 +35,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1004500-003
@@ -45,122 +46,55 @@
 - *
 *** Information
 - ok
-*** Priorities
-
 * Sense s-1004500-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: e5d6564935638b1af97e5a2666436f44355ceb2a03b2ce8d95ac7308b77308a7
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - direction close to the speaker or towards the speaker
 *** Cross-references
 - そちら・1
 - あちら・1
 - どちら・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1004500-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: this way
-*** en-s-1004500-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: this direction
+- this way
+- this direction
 ** Ukrainian glosses
 *** uk-s-1004500-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сюди
 *** uk-s-1004500-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: у цьому напрямку
 ** Russian reference
-*** ru-ref-1004500-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: (см.) こちら
-*** ru-ref-1004500-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: 1) здесь; эта сторона
-*** ru-ref-1004500-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: {～へ} сюда
-*** ru-ref-1004500-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: {～から} отсюда
-*** ru-ref-1004500-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: 2) я, мы
-*** ru-ref-1004500-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: 3): こちらさん вы
-*** ru-ref-1004500-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: 1) (см.) こちら
-*** ru-ref-1004500-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 26
-:END:
-- text :: 2) со времени
+- 26 :: (см.) こちら
+- 26 :: 1) здесь; эта сторона
+- 26 :: {～へ} сюда
+- 26 :: {～から} отсюда
+- 26 :: 2) я, мы
+- 26 :: 3): こちらさん вы
+- 26 :: 1) (см.) こちら
+- 26 :: 2) со времени
 ** Learner notes
 *** note-s-1004500-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Сюди, у цьому напрямку; цей (ввічливо). Зазвичай записується хіраганою як こちら.
 - LEVEL :: beginner
@@ -168,11 +102,6 @@
 ** Examples
 *** ex-1004500-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -183,11 +112,6 @@
 - FOCUS :: こちら
 *** ex-1004500-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -198,11 +122,6 @@
 - FOCUS :: こちら
 *** ex-1004500-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -217,42 +136,22 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: ffe01eda07961be584c2e658bf52ec0704f25733e2bc6b359c64b04a053475bd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - place close to the speaker or where the speaker is
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1004500-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: here
+- here
 ** Ukrainian glosses
 *** uk-s-1004500-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тут
 
@@ -261,42 +160,22 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 0c46e2b76de4d226b47af6df16984467062a09f82ff36bde940e2c2f754c76a6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - something physically close to the speaker
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1004500-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: this (one)
+- this (one)
 ** Ukrainian glosses
 *** uk-s-1004500-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: цей
 
@@ -305,76 +184,31 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: fafcd643a22307ad9fe8e6a976b06adac90df35c1cc2f93a30c5d1739e90a028
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1004500-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: I
-*** en-s-1004500-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: me
-*** en-s-1004500-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: we
-*** en-s-1004500-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: us
+- I
+- me
+- we
+- us
 ** Ukrainian glosses
 *** uk-s-1004500-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: я
 *** uk-s-1004500-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ми
 
@@ -391,33 +225,18 @@
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - someone physically close to the speaker and of equal or higher status
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1004500-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: this person
+- this person
 ** Ukrainian glosses
 *** uk-s-1004500-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ця людина

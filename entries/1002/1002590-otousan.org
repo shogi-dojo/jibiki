@@ -1,19 +1,22 @@
 #+TITLE: お父さん
 #+JMDICT_ID: 1002590
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おとうさん
 #+ROMAJI: otousan
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1002590-001
 :PROPERTIES:
 :TEXT: お父さん
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1002590-001
 :PROPERTIES:
 :TEXT: おとうさん
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -46,141 +47,59 @@
 - *
 *** Information
 - ok
-*** Priorities
-
 * Sense s-1002590-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: a1358710c56a11dff7dc923fb626ba883adc863e97b4b983b5c00be4d97c8832
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - hon
-*** Dialects
-*** Sense information
 *** Cross-references
 - 父さん
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002590-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: father
-*** en-s-1002590-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dad
-*** en-s-1002590-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: papa
-*** en-s-1002590-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pa
-*** en-s-1002590-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pop
-*** en-s-1002590-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: daddy
-*** en-s-1002590-001-007
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dada
+- father
+- dad
+- papa
+- pa
+- pop
+- daddy
+- dada
 ** Ukrainian glosses
 *** uk-s-1002590-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тато
 - qualifier :: шанобливо
 *** uk-s-1002590-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: батько
 *** uk-s-1002590-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: татусь
 ** Russian reference
-*** ru-ref-1002590-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: 1) отец, папа
-*** ru-ref-1002590-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: 2) ваш (его) отец
+- 8 :: 1) отец, папа
+- 8 :: 2) ваш (его) отец
 ** Learner notes
 *** note-s-1002590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Шанобливе звертання до батька співрозмовника або третьої особи. Також використовується для звертання до власного батька.
 - LEVEL :: beginner
@@ -188,11 +107,6 @@
 ** Examples
 *** ex-1002590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -203,11 +117,6 @@
 - FOCUS :: お父さんは
 *** ex-1002590-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -218,11 +127,6 @@
 - FOCUS :: お父さんは
 *** ex-1002590-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -237,41 +141,20 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 81f19aa1814d85b984c5195a87dcac1e3276e4a22434b07eefa5710bbd08c207
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - hon
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002590-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: husband
+- husband
 ** Ukrainian glosses
 *** uk-s-1002590-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чоловік
 - qualifier :: шанобливо; про подружжя
@@ -281,68 +164,30 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 2a7f6615bf61bd725b093521e2cdf115d0e60538f19ddd18eac093c2c391a0eb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - fam
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002590-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: you (of an elderly person older than the speaker)
-*** en-s-1002590-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: he
-*** en-s-1002590-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: him
+- you (of an elderly person older than the speaker)
+- he
+- him
 ** Ukrainian glosses
 *** uk-s-1002590-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ви
 - qualifier :: до літнього чоловіка, старшого за мовця
 *** uk-s-1002590-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: він

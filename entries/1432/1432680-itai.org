@@ -1,19 +1,22 @@
 #+TITLE: 痛い
 #+JMDICT_ID: 1432680
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いたい
 #+ROMAJI: itai
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1432680-001
 :PROPERTIES:
 :TEXT: 痛い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1432680-001
 :PROPERTIES:
 :TEXT: いたい
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -46,7 +47,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1432680-003
 :PROPERTIES:
 :TEXT: イタい
@@ -56,87 +56,41 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1432680-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: d5cf3ad5beb67312d68eddc15f50ed89ba1230feb270e35289d6310e7a577015
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1432680-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: painful
-*** en-s-1432680-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sore
+- painful
+- sore
 ** Ukrainian glosses
 *** uk-s-1432680-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: болючий
 *** uk-s-1432680-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: що болить
 ** Russian reference
-*** ru-ref-1432680-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 1) больно, болит
-*** ru-ref-1432680-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 2) болезненный, чувствительный
+- 12 :: 1) больно, болит
+- 12 :: 2) болезненный, чувствительный
 ** Learner notes
 *** note-s-1432680-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Болючий. Коли щось болить, кажуть [частина тіла] が 痛い (напр. 頭が痛い - болить голова).
 - LEVEL :: beginner
@@ -144,11 +98,6 @@
 ** Examples
 *** ex-1432680-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -159,11 +108,6 @@
 - FOCUS :: 痛いです
 *** ex-1432680-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -174,11 +118,6 @@
 - FOCUS :: 痛く
 *** ex-1432680-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -193,60 +132,29 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: d35505767c93d0ab81cf52854b6ccdea7802daab83165c22f9f038ebc1957c63
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - col
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1432680-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cringy
-*** en-s-1432680-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: embarrassing
+- cringy
+- embarrassing
 ** Ukrainian glosses
 *** uk-s-1432680-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: кринжовий
 - qualifier :: розмовне
 *** uk-s-1432680-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: що змушує ніяковіти

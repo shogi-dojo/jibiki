@@ -1,19 +1,22 @@
 #+TITLE: 有る
 #+JMDICT_ID: 1296400
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ある
 #+ROMAJI: aru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1296400-001
 :PROPERTIES:
 :TEXT: 有る
 :END:
-*** Information
 *** Priorities
 - news1
 - nf23
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 在る
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -34,7 +36,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -46,134 +47,59 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: fd79e39827f7f3075732fa6f6225f52388e65f85af07e61a80dea9ff59908de1
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r-i
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - usu. of inanimate objects
 *** Cross-references
 - 居る・いる・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be
-*** en-s-1296400-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to exist
-*** en-s-1296400-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to live
+- to be
+- to exist
+- to live
 ** Ukrainian glosses
 *** uk-s-1296400-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути
 *** uk-s-1296400-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: існувати
 *** uk-s-1296400-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: жити
 ** Russian reference
-*** ru-ref-1296400-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 1) быть, существовать, иметься; найтись, оказаться
-*** ru-ref-1296400-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: (ср.) あらぬ, あらんかぎり, ありそう, ありうる
-*** ru-ref-1296400-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 2) ((тж.) 在る) находиться (где-л.); содержаться (в чём-л.)
-*** ru-ref-1296400-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 3) происходить, случаться; состояться
-*** ru-ref-1296400-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 4) ((тж.) 在る) состоять, заключаться (в чём-л.); сводиться (к чему-л.)
-*** ru-ref-1296400-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 5) (при указании на количество:)
-*** ru-ref-1296400-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 6) ((чаще) ある):
-*** ru-ref-1296400-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: (ср.) あらざる, あらず, あろう, あるまいし
+- 14 :: 1) быть, существовать, иметься; найтись, оказаться
+- 14 :: (ср.) あらぬ, あらんかぎり, ありそう, ありうる
+- 14 :: 2) ((тж.) 在る) находиться (где-л.); содержаться (в чём-л.)
+- 14 :: 3) происходить, случаться; состояться
+- 14 :: 4) ((тж.) 在る) состоять, заключаться (в чём-л.); сводиться (к чему-л.)
+- 14 :: 5) (при указании на количество:)
+- 14 :: 6) ((чаще) ある):
+- 14 :: (ср.) あらざる, あらず, あろう, あるまいし
 ** Learner notes
 *** note-s-1296400-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Бути, існувати, знаходитися. Використовується для неживих предметів та рослин.
 - LEVEL :: beginner
@@ -181,11 +107,6 @@
 ** Examples
 *** ex-1296400-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -196,11 +117,6 @@
 - FOCUS :: あります
 *** ex-1296400-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -211,11 +127,6 @@
 - FOCUS :: ありません
 *** ex-1296400-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -230,42 +141,21 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: d79e26a237932be46564be5cb17fbeb7130147f7a6e9f295af591c6aa7a3ae40
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r-i
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have
+- to have
 ** Ukrainian glosses
 *** uk-s-1296400-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мати
 
@@ -274,53 +164,29 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 993e554e350be52ad03e6d8df43c71fe7fd7599a01523fd99305a11c4cc577c8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r-i
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be located
+- to be located
 ** Ukrainian glosses
 *** uk-s-1296400-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: знаходитися
 *** uk-s-1296400-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розташовуватися
 
@@ -329,42 +195,21 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: fe8496d8b296cc2400d3474c59753729cca4a0a4f457643e07bb47e5c5bccb38
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r-i
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be equipped with
+- to be equipped with
 ** Ukrainian glosses
 *** uk-s-1296400-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути обладнаним
 
@@ -373,61 +218,30 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 2f006a5482dee48d1441ed8c610fc0e2041bdb057d063655ddec5163e160fc4c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r-i
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to happen
-*** en-s-1296400-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to come about
+- to happen
+- to come about
 ** Ukrainian glosses
 *** uk-s-1296400-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: траплятися
 *** uk-s-1296400-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відбуватися
 
@@ -436,51 +250,24 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 76cd66988965d08ddc57310a8f790059f9c0ca032b571fee747809f9d04f230d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - aux-v
 - v5r-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - after the ～て form of a transitive verb
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1296400-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to exist (in a completed state)
-*** en-s-1296400-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be (something unchanged in its current state)
+- to exist (in a completed state)
+- to be (something unchanged in its current state)
 ** Ukrainian glosses
 *** uk-s-1296400-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути
 - qualifier :: у завершеному або незмінному стані

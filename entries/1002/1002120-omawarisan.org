@@ -1,19 +1,22 @@
 #+TITLE: お巡りさん
 #+JMDICT_ID: 1002120
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おまわりさん
 #+ROMAJI: omawarisan
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1002120-001
 :PROPERTIES:
 :TEXT: お巡りさん
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1002120-001
 :PROPERTIES:
 :TEXT: おまわりさん
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -42,61 +43,33 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: a155c9b6ff7c007e80214e6f2637172dad2ac7c9a8c2f526534e4dc09c70f16c
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - fam
 - uk
-*** Dialects
-*** Sense information
 *** Cross-references
 - 巡査
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002120-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: police officer
+- police officer
 ** Ukrainian glosses
 *** uk-s-1002120-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: поліцейський
 - qualifier :: фамільярно-ввічливо
 ** Russian reference
-*** ru-ref-1002120-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: (прост.) полицейский
+- 7 :: (прост.) полицейский
 ** Learner notes
 *** note-s-1002120-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Повсякденна та дружня назва поліцейського. Використовується переважно дітьми або в розмовній мові.
 - LEVEL :: beginner
@@ -104,11 +77,6 @@
 ** Examples
 *** ex-1002120-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -119,11 +87,6 @@
 - FOCUS :: お巡りさんに
 *** ex-1002120-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -134,11 +97,6 @@
 - FOCUS :: お巡りさんが
 *** ex-1002120-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

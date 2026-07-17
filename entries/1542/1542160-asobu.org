@@ -1,20 +1,22 @@
 #+TITLE: 遊ぶ
 #+JMDICT_ID: 1542160
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あそぶ
 #+ROMAJI: asobu
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1542160-001
 :PROPERTIES:
 :TEXT: 遊ぶ
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -26,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -40,120 +41,48 @@
 - *
 *** Information
 - ok
-*** Priorities
-
 * Sense s-1542160-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 976fc81a5af6abed3e5f312371d3f6ece61e316a8cfcc571940e611771762f80
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to play (games, sports)
-*** en-s-1542160-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to enjoy oneself
-*** en-s-1542160-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have a good time
+- to play (games, sports)
+- to enjoy oneself
+- to have a good time
 ** Ukrainian glosses
 *** uk-s-1542160-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: грати
 *** uk-s-1542160-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розважатися
 ** Russian reference
-*** ru-ref-1542160-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 1) играть (тж. и в какую-л. игру)
-*** ru-ref-1542160-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 2) развлекаться, забавляться; гулять
-*** ru-ref-1542160-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 3) вести весёлую (беспутную) жизнь, кутить
-*** ru-ref-1542160-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 4) гулять, ничего не делать, бездельничать
-*** ru-ref-1542160-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 5) быть без работы (о ком-л.); простаивать; не использоваться, оставаться без употребления (о чём-л.)
-*** ru-ref-1542160-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 6) совершить экскурсию; съездить, проехаться (куда-л.)
-*** ru-ref-1542160-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 7) учиться (не по месту жительства)
+- 29 :: 1) играть (тж. и в какую-л. игру)
+- 29 :: 2) развлекаться, забавляться; гулять
+- 29 :: 3) вести весёлую (беспутную) жизнь, кутить
+- 29 :: 4) гулять, ничего не делать, бездельничать
+- 29 :: 5) быть без работы (о ком-л.); простаивать; не использоваться, оставаться без употребления (о чём-л.)
+- 29 :: 6) совершить экскурсию; съездить, проехаться (куда-л.)
+- 29 :: 7) учиться (не по месту жительства)
 ** Learner notes
 *** note-s-1542160-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Грати, розважатися, проводити час. Це дієслово не використовується для гри на музичних інструментах (弾く) чи спортивних ігор (する).
@@ -162,11 +91,6 @@
 ** Examples
 *** ex-1542160-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -177,11 +101,6 @@
 - FOCUS :: 遊んでいます
 *** ex-1542160-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -192,11 +111,6 @@
 - FOCUS :: 遊びました
 *** ex-1542160-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -211,52 +125,27 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: c1c534df5e20df551955b87d595815e1eb943ed4280cd2a7f7aa85f9ef6fe3e5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to mess about (with alcohol, gambling, philandery, etc.)
+- to mess about (with alcohol, gambling, philandery, etc.)
 ** Ukrainian glosses
 *** uk-s-1542160-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пиячити
 *** uk-s-1542160-002-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розпусничати
 
@@ -265,57 +154,21 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 36c8f68bd110a5478d1350c2a2f328c84371217f9374d244dac5b52275bd029f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be idle
-*** en-s-1542160-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do nothing
-*** en-s-1542160-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be unused
+- to be idle
+- to do nothing
+- to be unused
 ** Ukrainian glosses
 *** uk-s-1542160-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: байдикувати
 
@@ -324,49 +177,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 6cbac998c95af93cc5fe30d89f5bcc56b1337e3ab9f55803ad12ff151ed26bcd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to meet up (with friends)
-*** en-s-1542160-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hang out
+- to meet up (with friends)
+- to hang out
 ** Ukrainian glosses
 *** uk-s-1542160-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зустрічатися
 - qualifier :: з друзями
@@ -376,41 +200,19 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: b987c84d12ae52cbd3e0a61b9ea55d01f22ccadf719ab20b78a416096dfb00e3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to give oneself up (to gambling, drinking, etc.)
+- to give oneself up (to gambling, drinking, etc.)
 ** Ukrainian glosses
 *** uk-s-1542160-005-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: віддаватися
 - qualifier :: азартним іграм тощо
@@ -420,42 +222,21 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 215086bdcd6ef0771b89a342d79cbe62db9d819acc5e086918e319d0d9bf3be8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - as 〜に遊ぶ
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to go to (for pleasure or for study)
+- to go to (for pleasure or for study)
 ** Ukrainian glosses
 *** uk-s-1542160-006-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відвідувати
 - qualifier :: з метою навчання чи розваги
@@ -465,50 +246,22 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 6994c8b44d2475f46f96c7a34ac5c96244e5d66bc9a2a4da5b29493520b1a696
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - もてあそぶ・2
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to tease (someone)
-*** en-s-1542160-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to play (with)
+- to tease (someone)
+- to play (with)
 ** Ukrainian glosses
 *** uk-s-1542160-007-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дражнити
 
@@ -517,42 +270,21 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 7918a4dc148e703288a3a78faad3536989322897cf902506c29da8633202844e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5b
 - vi
 *** Fields
 - baseb
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1542160-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to intentionally throw a ball to lower the batter's concentration
+- to intentionally throw a ball to lower the batter's concentration
 ** Ukrainian glosses
 *** uk-s-1542160-008-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: навмисно кидати м'яч
 - qualifier :: щоб знизити концентрацію відбиваючого

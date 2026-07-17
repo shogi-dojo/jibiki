@@ -1,19 +1,22 @@
 #+TITLE: 花瓶
 #+JMDICT_ID: 1194870
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かびん
 #+ROMAJI: kabin
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1194870-001
 :PROPERTIES:
 :TEXT: 花瓶
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1194870-001
 :PROPERTIES:
 :TEXT: かびん
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -44,8 +45,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
 ** Reading rd-1194870-003
 :PROPERTIES:
 :TEXT: かへい
@@ -53,65 +52,32 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1194870-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: f60a0b58de7d181d09d506ab2a81633888ff1e8d8324b26c7e5c2adb1064a0d6
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1194870-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (flower) vase
+- (flower) vase
 ** Ukrainian glosses
 *** uk-s-1194870-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ваза
 - qualifier :: для квітів
 ** Russian reference
-*** ru-ref-1194870-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: ваза (цветочная)
+- 6 :: ваза (цветочная)
 ** Learner notes
 *** note-s-1194870-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Ваза для квітів.
 - LEVEL :: beginner
@@ -119,11 +85,6 @@
 ** Examples
 *** ex-1194870-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -134,11 +95,6 @@
 - FOCUS :: 花瓶に
 *** ex-1194870-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -149,11 +105,6 @@
 - FOCUS :: 花瓶を
 *** ex-1194870-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

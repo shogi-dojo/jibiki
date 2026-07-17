@@ -1,19 +1,22 @@
 #+TITLE: 美味しい
 #+JMDICT_ID: 1486650
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おいしい
 #+ROMAJI: oishii
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1486650-001
 :PROPERTIES:
 :TEXT: 美味しい
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1486650-002
@@ -22,7 +25,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1486650-001
 :PROPERTIES:
 :TEXT: おいしい
@@ -43,88 +45,36 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1486650-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 2e02a0d1729f8c89acc570ec775257e6ad758313efcc68c86c264d37f3fb8398
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1486650-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: good(-tasting)
-*** en-s-1486650-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: nice
-*** en-s-1486650-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: delicious
-*** en-s-1486650-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tasty
+- good(-tasting)
+- nice
+- delicious
+- tasty
 ** Ukrainian glosses
 *** uk-s-1486650-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: смачний
 ** Russian reference
-*** ru-ref-1486650-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: вкусный
+- 8 :: вкусный
 ** Learner notes
 *** note-s-1486650-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Смачний.
 - LEVEL :: beginner
@@ -132,11 +82,6 @@
 ** Examples
 *** ex-1486650-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -147,11 +92,6 @@
 - FOCUS :: 美味しいです
 *** ex-1486650-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -162,11 +102,6 @@
 - FOCUS :: 美味しい
 *** ex-1486650-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -181,92 +116,33 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 41881edf7d2e8c86e18227215a7027d92d0b00731e2fcf667ff59ca8a4615e51
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1486650-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: attractive (offer, opportunity, etc.)
-*** en-s-1486650-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: appealing
-*** en-s-1486650-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: convenient
-*** en-s-1486650-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: favorable
-*** en-s-1486650-002-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: desirable
-*** en-s-1486650-002-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: profitable
+- attractive (offer, opportunity, etc.)
+- appealing
+- convenient
+- favorable
+- desirable
+- profitable
 ** Ukrainian glosses
 *** uk-s-1486650-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: привабливий
 - qualifier :: про пропозицію тощо
 *** uk-s-1486650-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вигідний

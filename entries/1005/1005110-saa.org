@@ -1,12 +1,16 @@
 #+TITLE: さあ
 #+JMDICT_ID: 1005110
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: さあ
 #+ROMAJI: saa
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Reading rd-1005110-001
@@ -16,7 +20,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1005110-002
@@ -26,7 +29,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - spec1
 ** Reading rd-1005110-003
@@ -38,119 +40,48 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1005110-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: e6405a071446e8c594b6b06cbc97079e086136d8e5f9848970d6eb0658b34355
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - int
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - used to urge or encourage others
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1005110-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: come (on)
-*** en-s-1005110-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: come now
-*** en-s-1005110-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: come along
-*** en-s-1005110-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: here
+- come (on)
+- come now
+- come along
+- here
 ** Ukrainian glosses
 *** uk-s-1005110-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ну
 *** uk-s-1005110-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ну ж бо
 ** Russian reference
-*** ru-ref-1005110-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: (межд.)
-*** ru-ref-1005110-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 1) ну[-ка]; ну [вот]
-*** ru-ref-1005110-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 2) да!, действительно!
-*** ru-ref-1005110-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 3) о!, ах!
-*** ru-ref-1005110-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 4) (выражение раздумья:)
+- 11 :: (межд.)
+- 11 :: 1) ну[-ка]; ну [вот]
+- 11 :: 2) да!, действительно!
+- 11 :: 3) о!, ах!
+- 11 :: 4) (выражение раздумья:)
 ** Learner notes
 *** note-s-1005110-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Ну, ну ж бо (вигук).
 - LEVEL :: beginner
@@ -158,11 +89,6 @@
 ** Examples
 *** ex-1005110-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -173,11 +99,6 @@
 - FOCUS :: さあ
 *** ex-1005110-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -188,11 +109,6 @@
 - FOCUS :: さあ
 *** ex-1005110-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -207,84 +123,32 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: cfb4cf4cb7edae2c4b65b7936313c93e30385d45d27ce755d8ba12c3c3256d29
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - int
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - indicates resolve
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1005110-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: all right
-*** en-s-1005110-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: right
-*** en-s-1005110-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: okay
-*** en-s-1005110-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: now
-*** en-s-1005110-002-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: here goes
+- all right
+- right
+- okay
+- now
+- here goes
 ** Ukrainian glosses
 *** uk-s-1005110-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: добре
 *** uk-s-1005110-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гаразд
 
@@ -293,85 +157,33 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: dea71dafc81f71315ef5187afaf8d1037b9ba64f967ca48c584d4bb1f527ce74
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - int
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - indicates uncertainty or hesitation
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1005110-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: well
-*** en-s-1005110-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hmm
-*** en-s-1005110-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: uh
-*** en-s-1005110-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: let's see
-*** en-s-1005110-003-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: I'm not sure
+- well
+- hmm
+- uh
+- let's see
+- I'm not sure
 ** Ukrainian glosses
 *** uk-s-1005110-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ну
 - qualifier :: якщо не впевнений
 *** uk-s-1005110-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гм
 
@@ -380,73 +192,24 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 726462827a95bf7dde3ef5aef8f55a5fff1386cb936df23a982bfafbec42d347
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - int
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - said when something arrives, starts, finishes, etc.
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1005110-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: here
-*** en-s-1005110-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: now
-*** en-s-1005110-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: there (we go)
-*** en-s-1005110-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: ah
-*** en-s-1005110-004-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: oh
+- here
+- now
+- there (we go)
+- ah
+- oh
 ** Ukrainian glosses
 *** uk-s-1005110-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ось
 
@@ -455,48 +218,20 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: d0891d1422ff712b89ae7ae78496c8d202ed548f0de840f3fff57294d3f95464
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - int
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - used when interrupting someone
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1005110-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: about that, ...
-*** en-s-1005110-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: actually, ...
+- about that, ...
+- actually, ...
 ** Ukrainian glosses
 *** uk-s-1005110-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: насправді

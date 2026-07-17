@@ -1,34 +1,34 @@
 #+TITLE: 開ける
 #+JMDICT_ID: 1202450
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あける
 #+ROMAJI: akeru
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1202450-001
 :PROPERTIES:
 :TEXT: 開ける
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1202450-002
 :PROPERTIES:
 :TEXT: 空ける
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1202450-003
 :PROPERTIES:
 :TEXT: 明ける
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1202450-001
@@ -38,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -46,6 +45,7 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 4bbd5c90ff65ea07b21190c5474102fa051fa7a36a38c3b413adb338d9fcb0ca
+:LEARNER_PRIORITY: primary
 :END:
 ** Applies to forms
 *** Written forms
@@ -56,112 +56,47 @@
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to open (a door, etc.)
-*** en-s-1202450-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to unwrap (e.g. parcel, package)
-*** en-s-1202450-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to unlock
+- to open (a door, etc.)
+- to unwrap (e.g. parcel, package)
+- to unlock
 ** Ukrainian glosses
 *** uk-s-1202450-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відчиняти
 - qualifier :: наприклад, двері
 *** uk-s-1202450-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розгортати
 - qualifier :: наприклад, пакунок
 *** uk-s-1202450-001-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відмикати
 ** Russian reference
-*** ru-ref-1202450-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: 1) открывать
-*** ru-ref-1202450-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: 2) освобождать (оставляя пустым)
-*** ru-ref-1202450-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: 3) ((тж.) 空ける) выливать, высыпать (и т. п. (опорожняя что-л.)
-*** ru-ref-1202450-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: (ср.) あな【穴】(を明ける)
-*** ru-ref-1202450-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: 1) [рас]светать; кончиться (о ночи); начинаться (о новом годе)
-*** ru-ref-1202450-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 41
-:END:
-- text :: 2) кончаться (о сроке)
+- 41 :: 1) открывать
+- 41 :: 2) освобождать (оставляя пустым)
+- 41 :: 3) ((тж.) 空ける) выливать, высыпать (и т. п. (опорожняя что-л.)
+- 41 :: (ср.) あな【穴】(を明ける)
+- 41 :: 1) [рас]светать; кончиться (о ночи); начинаться (о новом годе)
+- 41 :: 2) кончаться (о сроке)
 ** Learner notes
 *** note-s-1202450-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Дієслово 2-ї групи. Залежно від ієрогліфа має різні значення: 開ける (відчиняти, відкривати), 空ける (спорожнювати, звільняти), 明ける (світати, закінчуватися).
@@ -170,13 +105,8 @@
 ** Examples
 *** ex-1202450-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -200,32 +130,15 @@
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to open (for business, etc.)
+- to open (for business, etc.)
 ** Ukrainian glosses
 *** uk-s-1202450-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відкривати
 - qualifier :: наприклад, бізнес
@@ -235,99 +148,48 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: ae6310843e25c312e877681359ef8056e830392d63d157f2ca37486b798d1596
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 空ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to empty
-*** en-s-1202450-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to remove
-*** en-s-1202450-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make space
-*** en-s-1202450-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make room
+- to empty
+- to remove
+- to make space
+- to make room
 ** Ukrainian glosses
 *** uk-s-1202450-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спорожнювати
 *** uk-s-1202450-003-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прибирати
 *** uk-s-1202450-003-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: звільняти місце
 *** uk-s-1202450-003-004
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити місце
 
@@ -336,61 +198,30 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: bf9e034b5b904ca5bd196a1fc608135189fd0a435cda219009ada0ace1724eb6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 空ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to move out
-*** en-s-1202450-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to clear out
+- to move out
+- to clear out
 ** Ukrainian glosses
 *** uk-s-1202450-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: з'їжджати
 *** uk-s-1202450-004-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: звільняти
 - qualifier :: приміщення
@@ -400,62 +231,31 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 1662988aa534a04a1406d17f985314c0ec9c294d8f717d1b466a93fa0c5e9cd9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 空ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be away from (e.g. one's house)
-*** en-s-1202450-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to leave (temporarily)
+- to be away from (e.g. one's house)
+- to leave (temporarily)
 ** Ukrainian glosses
 *** uk-s-1202450-005-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути відсутнім
 - qualifier :: наприклад, удома
 *** uk-s-1202450-005-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: залишати
 - qualifier :: тимчасово
@@ -465,61 +265,30 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: d4710b7c6c4909b8ff6236dab8ae5c86272d70cb613d7fb87336e13539806b4b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 明ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to dawn
-*** en-s-1202450-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to grow light
+- to dawn
+- to grow light
 ** Ukrainian glosses
 *** uk-s-1202450-006-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: світати
 *** uk-s-1202450-006-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розвиднюватися
 
@@ -528,42 +297,21 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 2d15c084533b51b7990e9f4f9328051d0ec003474d889ab19652297b6e202f0b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 明ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to end (of a period, season)
+- to end (of a period, season)
 ** Ukrainian glosses
 *** uk-s-1202450-007-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: закінчуватися
 - qualifier :: про період, сезон
@@ -573,42 +321,21 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 6848c7a038613b4f45fb9482d61ed11493b59b2c9202995a7b607f585f91aa8f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 明ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to begin (of the New Year)
+- to begin (of the New Year)
 ** Ukrainian glosses
 *** uk-s-1202450-008-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: починатися
 - qualifier :: про Новий рік
@@ -618,62 +345,31 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: ef5ef073adc5ad181237e282ec621afe8118dbc5781761252443273964ca210c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 明ける
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to leave (one's schedule) open
-*** en-s-1202450-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make time (for)
+- to leave (one's schedule) open
+- to make time (for)
 ** Ukrainian glosses
 *** uk-s-1202450-009-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: залишати вільним
 - qualifier :: розклад
 *** uk-s-1202450-009-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: знаходити час
 - qualifier :: для
@@ -683,59 +379,27 @@
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: a3c17764134a37d9ce5f7a257b9213cff2b4da391d47f2325deed3a6f9d8104b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1202450-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make (a hole)
-*** en-s-1202450-010-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to open up (a hole)
+- to make (a hole)
+- to open up (a hole)
 ** Ukrainian glosses
 *** uk-s-1202450-010-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити отвір
 *** uk-s-1202450-010-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відкривати отвір

@@ -1,19 +1,22 @@
 #+TITLE: 作文
 #+JMDICT_ID: 1297960
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: さくぶん
 #+ROMAJI: sakubun
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1297960-001
 :PROPERTIES:
 :TEXT: 作文
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,90 +37,48 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 4788dc8558f5f31d5cdb8862d5d13da347a96d2ed0ad42f0a522a4ca38d8e682
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - vs
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 作文・さくもん
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1297960-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: writing (an essay, prose, etc.)
-*** en-s-1297960-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: composition
+- writing (an essay, prose, etc.)
+- composition
 ** Ukrainian glosses
 *** uk-s-1297960-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: твір
 *** uk-s-1297960-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: написання твору
 *** uk-s-1297960-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: есе
 ** Russian reference
-*** ru-ref-1297960-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: сочинение; (обр.) одни слова (а не дело)
+- 8 :: сочинение; (обр.) одни слова (а не дело)
 ** Learner notes
 *** note-s-1297960-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Твір, есе.
 - LEVEL :: beginner
@@ -126,11 +86,6 @@
 ** Examples
 *** ex-1297960-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -141,11 +96,6 @@
 - FOCUS :: 作文
 *** ex-1297960-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -156,11 +106,6 @@
 - FOCUS :: 作文
 *** ex-1297960-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -175,41 +120,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 454100144750168c2af6d53d5d7cecf3ee05d961475c66d0615e2c787407b430
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - vs
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1297960-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: formal writing with little real meaning
+- formal writing with little real meaning
 ** Ukrainian glosses
 *** uk-s-1297960-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: формальне написання без реального змісту

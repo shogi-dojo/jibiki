@@ -1,19 +1,22 @@
 #+TITLE: 一昨年
 #+JMDICT_ID: 1576060
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おととし
 #+ROMAJI: ototoshi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1576060-001
 :PROPERTIES:
 :TEXT: 一昨年
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,8 +25,6 @@
 :PROPERTIES:
 :TEXT: おと年
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1576060-001
 :PROPERTIES:
 :TEXT: おととし
@@ -31,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1576060-002
@@ -41,7 +41,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -51,79 +50,38 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: e5df417e37a6b4006dc39bc9443d0409e03388712beae96bbac0ccc87f2cb54f
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1576060-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: year before last
+- year before last
 ** Ukrainian glosses
 *** uk-s-1576060-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: позаторік
 *** uk-s-1576060-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: два роки тому
 ** Russian reference
-*** ru-ref-1576060-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 1. позапрошлый год
-*** ru-ref-1576060-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 2. в позапрошлом году
-*** ru-ref-1576060-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: позапрошлый год
+- 6 :: 1. позапрошлый год
+- 6 :: 2. в позапрошлом году
+- 6 :: позапрошлый год
 ** Learner notes
 *** note-s-1576060-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Позаторік (два роки тому). Найчастіше читається як おととし (записується хіраганою). В офіційному мовленні ієрогліфи 一昨年 читаються як いっさくねん.
 - LEVEL :: beginner
@@ -131,11 +89,6 @@
 ** Examples
 *** ex-1576060-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -146,11 +99,6 @@
 - FOCUS :: おととし
 *** ex-1576060-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -161,11 +109,6 @@
 - FOCUS :: おととし
 *** ex-1576060-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: formal
 :END:

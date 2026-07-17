@@ -1,19 +1,22 @@
 #+TITLE: 時間
 #+JMDICT_ID: 1315920
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: じかん
 #+ROMAJI: jikan
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1315920-001
 :PROPERTIES:
 :TEXT: 時間
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,72 +37,30 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 5d4160768e91ed270d9f2c1e47f50d01dcf736504d91098c9b9a79bca02528dd
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1315920-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: time
+- time
 ** Ukrainian glosses
 *** uk-s-1315920-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: час
 ** Russian reference
-*** ru-ref-1315920-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 1) час
-*** ru-ref-1315920-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 2) урок (в учебном заведении)
-*** ru-ref-1315920-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 3) часы, [определённое] время
-*** ru-ref-1315920-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: [時計の]時間を合わせる сверять часы
+- 14 :: 1) час
+- 14 :: 2) урок (в учебном заведении)
+- 14 :: 3) часы, [определённое] время
+- 14 :: [時計の]時間を合わせる сверять часы
 ** Learner notes
 *** note-s-1315920-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Час, година.
 - LEVEL :: beginner
@@ -108,11 +68,6 @@
 ** Examples
 *** ex-1315920-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -123,11 +78,6 @@
 - FOCUS :: 時間
 *** ex-1315920-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -138,11 +88,6 @@
 - FOCUS :: 時間
 *** ex-1315920-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -157,40 +102,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 6d201b68daf03ee4d7e12a93cd8ee0266f7d79a56bf2ea94881885a3c47a97d5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1315920-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hour
+- hour
 ** Ukrainian glosses
 *** uk-s-1315920-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: година
 
@@ -199,66 +122,27 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: dc6cf21f01d872d00eff49f36d0a72b53944bbf315f73726a10147200f654dc6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1315920-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: period
-*** en-s-1315920-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: class
-*** en-s-1315920-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lesson
+- period
+- class
+- lesson
 ** Ukrainian glosses
 *** uk-s-1315920-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: урок
 *** uk-s-1315920-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: заняття

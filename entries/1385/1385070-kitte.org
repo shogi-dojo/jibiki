@@ -1,19 +1,22 @@
 #+TITLE: 切手
 #+JMDICT_ID: 1385070
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: きって
 #+ROMAJI: kitte
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1385070-001
 :PROPERTIES:
 :TEXT: 切手
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,59 +37,31 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 6ad282eab8ddda69d81b671235fec623c6ceddd13faca2c858f0e46880be9ff2
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - abbr
-*** Dialects
-*** Sense information
 *** Cross-references
 - 郵便切手
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1385070-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: stamp (postage)
+- stamp (postage)
 ** Ukrainian glosses
 *** uk-s-1385070-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: поштова марка
 ** Russian reference
-*** ru-ref-1385070-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: [почтовая] марка
+- 8 :: [почтовая] марка
 ** Learner notes
 *** note-s-1385070-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Поштова марка. Використовується для наклеювання на листи.
 - LEVEL :: beginner
@@ -95,11 +69,6 @@
 ** Examples
 *** ex-1385070-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -110,11 +79,6 @@
 - FOCUS :: 切手
 *** ex-1385070-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -125,11 +89,6 @@
 - FOCUS :: 切手
 *** ex-1385070-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -144,41 +103,21 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: be52ba6d537c7145938ef591837bcac7e5f9510b8a00b4a05b369792e761f0d4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - abbr
-*** Dialects
-*** Sense information
 *** Cross-references
 - 商品切手
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1385070-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: merchandise certificate
+- merchandise certificate
 ** Ukrainian glosses
 *** uk-s-1385070-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: товарний сертифікат

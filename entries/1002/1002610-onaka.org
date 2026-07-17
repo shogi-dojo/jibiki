@@ -1,19 +1,22 @@
 #+TITLE: お腹
 #+JMDICT_ID: 1002610
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おなか
 #+ROMAJI: onaka
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1002610-001
 :PROPERTIES:
 :TEXT: お腹
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1002610-002
@@ -22,21 +25,18 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1002610-003
 :PROPERTIES:
 :TEXT: 御腹
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1002610-004
 :PROPERTIES:
 :TEXT: 御中
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1002610-001
 :PROPERTIES:
 :TEXT: おなか
@@ -44,7 +44,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -52,97 +51,48 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 13596543feb6b5845e0038d924f00b152648e36117ba9b5b0c429b47cfe59c29
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - pol
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002610-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: belly
-*** en-s-1002610-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: abdomen
-*** en-s-1002610-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: stomach
+- belly
+- abdomen
+- stomach
 ** Ukrainian glosses
 *** uk-s-1002610-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: живіт
 - qualifier :: ввічливо
 *** uk-s-1002610-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: черево
 *** uk-s-1002610-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: шлунок
 ** Russian reference
-*** ru-ref-1002610-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: (разг.) живот
+- 9 :: (разг.) живот
 ** Learner notes
 *** note-s-1002610-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальновживане слово для позначення живота. Складається з 腹 з додаванням ввічливого префікса お.
 - LEVEL :: beginner
@@ -150,11 +100,6 @@
 ** Examples
 *** ex-1002610-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -165,11 +110,6 @@
 - FOCUS :: お腹が
 *** ex-1002610-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -180,11 +120,6 @@
 - FOCUS :: お腹が
 *** ex-1002610-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

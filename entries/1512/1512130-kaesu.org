@@ -1,19 +1,22 @@
 #+TITLE: 返す
 #+JMDICT_ID: 1512130
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かえす
 #+ROMAJI: kaesu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1512130-001
 :PROPERTIES:
 :TEXT: 返す
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 反す
 :END:
-*** Information
 *** Priorities
 - news1
 - nf18
@@ -33,7 +35,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -44,99 +45,51 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 35174a8de724bcca2787ba99ad2301a235b6d970ea31bd5e2916386363329997
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 返す
 *** Cross-references
 - 帰す・かえす
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to return (something)
-*** en-s-1512130-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to restore
-*** en-s-1512130-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put back
+- to return (something)
+- to restore
+- to put back
 ** Ukrainian glosses
 *** uk-s-1512130-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повертати
 - qualifier :: щось
 *** uk-s-1512130-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: віддавати назад
 *** uk-s-1512130-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: класти на місце
 ** Russian reference
-*** ru-ref-1512130-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: возвращать
+- 17 :: возвращать
 ** Learner notes
 *** note-s-1512130-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Повертати, віддавати назад (предмети або гроші).
 - LEVEL :: beginner
@@ -144,11 +97,6 @@
 ** Examples
 *** ex-1512130-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -159,11 +107,6 @@
 - FOCUS :: 返します
 *** ex-1512130-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -174,11 +117,6 @@
 - FOCUS :: 返して
 *** ex-1512130-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -193,68 +131,29 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 48cf578bf85d6a7186dcfb10d1ddfa45755618db56326c7da5420eaefad77ba6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to turn over
-*** en-s-1512130-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to turn upside down
-*** en-s-1512130-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to overturn
+- to turn over
+- to turn upside down
+- to overturn
 ** Ukrainian glosses
 *** uk-s-1512130-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перевертати
 *** uk-s-1512130-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перекидати
 
@@ -263,69 +162,31 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 29d49998fd8be95f2ee607721e1e9237a625e8c027d52aade7d8e891825413e9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 返す
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pay back
-*** en-s-1512130-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to retaliate
-*** en-s-1512130-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to reciprocate
+- to pay back
+- to retaliate
+- to reciprocate
 ** Ukrainian glosses
 *** uk-s-1512130-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відплачувати
 *** uk-s-1512130-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відповідати тим самим
 
@@ -334,87 +195,38 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 395a22ef01a78ed5c3cbeb4b95224c26b790b6b7dfe99c2ded9d347eb463d26a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to respond (with)
-*** en-s-1512130-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to retort
-*** en-s-1512130-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to reply
-*** en-s-1512130-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to say back
+- to respond (with)
+- to retort
+- to reply
+- to say back
 ** Ukrainian glosses
 *** uk-s-1512130-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відповідати
 *** uk-s-1512130-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: заперечувати
 *** uk-s-1512130-004-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відказувати
 
@@ -423,42 +235,21 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 5e5e3d43606d258a77bca0cbc05af05bb9cf24cc45c2de0d9b2557355649e10a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - aux-v
 - v5s
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do ... back (e.g. speak back, throw back)
+- to do ... back (e.g. speak back, throw back)
 ** Ukrainian glosses
 *** uk-s-1512130-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зробити у відповідь
 - qualifier :: після форми на -масу
@@ -468,61 +259,30 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: f7db4dc6def859336b1df3814bcfbac005140ee4e277dbcf1353e7db0f81b6a9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - aux-v
 - v5s
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1512130-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do again
-*** en-s-1512130-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do repeatedly
+- to do again
+- to do repeatedly
 ** Ukrainian glosses
 *** uk-s-1512130-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зробити знову
 - qualifier :: після форми на -масу
 *** uk-s-1512130-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити повторно

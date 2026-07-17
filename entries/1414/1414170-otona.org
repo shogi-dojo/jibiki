@@ -1,19 +1,22 @@
 #+TITLE: 大人
 #+JMDICT_ID: 1414170
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おとな
 #+ROMAJI: otona
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1414170-001
 :PROPERTIES:
 :TEXT: 大人
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -36,93 +39,41 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 269817f2a26b39252bbc368ad1cef3f8d9b5a42aa9331c1af1f04ce5036ef823
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
 - adj-na
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1414170-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: adult
-*** en-s-1414170-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: grown-up
+- adult
+- grown-up
 ** Ukrainian glosses
 *** uk-s-1414170-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: доросла людина
 *** uk-s-1414170-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дорослий
 ** Russian reference
-*** ru-ref-1414170-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: (сущ.)
-*** ru-ref-1414170-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: 1) взрослый
-*** ru-ref-1414170-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: {～になる} стать взрослым; вырасти, возмужать
-*** ru-ref-1414170-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: 2) (см.) おとなしい
+- 7 :: (сущ.)
+- 7 :: 1) взрослый
+- 7 :: {～になる} стать взрослым; вырасти, возмужать
+- 7 :: 2) (см.) おとなしい
 ** Learner notes
 *** note-s-1414170-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Доросла людина, дорослий.
 - LEVEL :: beginner
@@ -130,11 +81,6 @@
 ** Examples
 *** ex-1414170-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -145,11 +91,6 @@
 - FOCUS :: 大人です
 *** ex-1414170-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -160,11 +101,6 @@
 - FOCUS :: 大人
 *** ex-1414170-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

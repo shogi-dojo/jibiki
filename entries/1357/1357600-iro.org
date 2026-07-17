@@ -1,19 +1,22 @@
 #+TITLE: 色
 #+JMDICT_ID: 1357600
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いろ
 #+ROMAJI: iro
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1357600-001
 :PROPERTIES:
 :TEXT: 色
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,154 +37,55 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: d522f510242105ba3f229be4ea68e24126d205200cfe89dfebe58ef9075bff0d
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: colour
-*** en-s-1357600-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: color
-*** en-s-1357600-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hue
-*** en-s-1357600-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tint
-*** en-s-1357600-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tinge
-*** en-s-1357600-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: shade
+- colour
+- color
+- hue
+- tint
+- tinge
+- shade
 ** Ukrainian glosses
 *** uk-s-1357600-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: колір
 *** uk-s-1357600-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відтінок
 *** uk-s-1357600-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тон
 ** Russian reference
-*** ru-ref-1357600-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 1) цвет, окраска; оттенок, тон
-*** ru-ref-1357600-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 2) краска
-*** ru-ref-1357600-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 3) цвет лица (кожи)
-*** ru-ref-1357600-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 4) выражение лица
-*** ru-ref-1357600-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 5) общий облик; [личное] обаяние
-*** ru-ref-1357600-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 6) сорт
-*** ru-ref-1357600-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 1) любовные дела; чувственные наслаждения; роман
-*** ru-ref-1357600-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 29
-:END:
-- text :: 2) (перен. прост.) возлюбленный, возлюбленная
+- 29 :: 1) цвет, окраска; оттенок, тон
+- 29 :: 2) краска
+- 29 :: 3) цвет лица (кожи)
+- 29 :: 4) выражение лица
+- 29 :: 5) общий облик; [личное] обаяние
+- 29 :: 6) сорт
+- 29 :: 1) любовные дела; чувственные наслаждения; роман
+- 29 :: 2) (перен. прост.) возлюбленный, возлюбленная
 ** Learner notes
 *** note-s-1357600-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Колір.
 - LEVEL :: beginner
@@ -190,11 +93,6 @@
 ** Examples
 *** ex-1357600-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -205,11 +103,6 @@
 - FOCUS :: 色
 *** ex-1357600-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -220,11 +113,6 @@
 - FOCUS :: 色が
 *** ex-1357600-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -239,67 +127,28 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 9b9c357b27cc03b64d4bfa7d0ea5e94c107521f520c7ad50eb656872e97f75d8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: complexion
-*** en-s-1357600-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: skin colour
-*** en-s-1357600-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: skin color
+- complexion
+- skin colour
+- skin color
 ** Ukrainian glosses
 *** uk-s-1357600-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: колір обличчя
 *** uk-s-1357600-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: колір шкіри
 
@@ -308,48 +157,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: c6a916219cb7670bcfc67f75863a19380f16b5dd30e6a5869c15cfb3469d7d1f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: look (on one's face)
-*** en-s-1357600-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: expression
+- look (on one's face)
+- expression
 ** Ukrainian glosses
 *** uk-s-1357600-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вираз обличчя
 
@@ -358,67 +178,28 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 58d2dcd618c46625d3f9318299368244b49d1a4da153eab5e6148840318d84f1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: appearance
-*** en-s-1357600-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: air
-*** en-s-1357600-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: feeling
+- appearance
+- air
+- feeling
 ** Ukrainian glosses
 *** uk-s-1357600-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вигляд
 *** uk-s-1357600-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: настрій
 
@@ -427,59 +208,27 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: a0da6144f1e97d569bb62796b05271abe7643c57e1eaf7c53f7f17df4d9a5ca1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: personality
-*** en-s-1357600-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: character
+- personality
+- character
 ** Ukrainian glosses
 *** uk-s-1357600-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: характер
 *** uk-s-1357600-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вдача
 
@@ -488,76 +237,30 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 9e182a10d9335b3d2888ee8e2aa1f0733ab96e26b997f8b4de711a47a6052f72
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tone (of one's voice, etc.)
-*** en-s-1357600-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tune
-*** en-s-1357600-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sound
-*** en-s-1357600-006-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: ring
+- tone (of one's voice, etc.)
+- tune
+- sound
+- ring
 ** Ukrainian glosses
 *** uk-s-1357600-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тон
 - qualifier :: голосу тощо
 *** uk-s-1357600-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: звучання
 
@@ -566,87 +269,39 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 8496237e66661234d8f83bffb9ac574d780f1b18c121dc0809cdb0b19454fbc5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 色仕掛け
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: love
-*** en-s-1357600-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lust
-*** en-s-1357600-007-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sensuality
-*** en-s-1357600-007-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: love affair
+- love
+- lust
+- sensuality
+- love affair
 ** Ukrainian glosses
 *** uk-s-1357600-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: кохання
 *** uk-s-1357600-007-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пристрасть
 *** uk-s-1357600-007-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: любовний зв'язок
 
@@ -655,59 +310,27 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: b96d7c9ddb3cc2a0edc0529692b7c0ecef4c5374da9818443edbcbdbf9598916
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lover
-*** en-s-1357600-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: paramour
+- lover
+- paramour
 ** Ukrainian glosses
 *** uk-s-1357600-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: коханець
 *** uk-s-1357600-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: коханка
 
@@ -716,67 +339,28 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: ecc74d52b86c1ae2e418e74a6333f25d1279c392a0112a32e4074b728529f6ba
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: beauty
-*** en-s-1357600-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sexiness
-*** en-s-1357600-009-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: physical appeal
+- beauty
+- sexiness
+- physical appeal
 ** Ukrainian glosses
 *** uk-s-1357600-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: краса
 *** uk-s-1357600-009-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: привабливість
 
@@ -785,78 +369,37 @@
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: 632d793e83ceade8fb855939440536dd03fd8482bfc926e1ce8d8854e7490b94
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also written 種
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1357600-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: kind
-*** en-s-1357600-010-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: type
-*** en-s-1357600-010-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: variety
+- kind
+- type
+- variety
 ** Ukrainian glosses
 *** uk-s-1357600-010-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вид
 *** uk-s-1357600-010-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тип
 *** uk-s-1357600-010-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різновид

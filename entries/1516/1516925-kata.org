@@ -1,19 +1,22 @@
 #+TITLE: 方
 #+JMDICT_ID: 1516925
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かた
 #+ROMAJI: kata
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1516925-001
 :PROPERTIES:
 :TEXT: 方
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1516925-001
@@ -23,7 +26,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -31,112 +33,45 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 05ed96b394e5acd948322b94b71be67a356f28701ce471918660c08ff60bdb98
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also ほう
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: direction
-*** en-s-1516925-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: way
+- direction
+- way
 ** Ukrainian glosses
 *** uk-s-1516925-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: напрямок
 *** uk-s-1516925-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бік
 ** Russian reference
-*** ru-ref-1516925-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 1) способ, манера
-*** ru-ref-1516925-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 2) сторона
-*** ru-ref-1516925-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 3) работник
-*** ru-ref-1516925-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 4) (после имени на адресе) для передачи (такому-то)
-*** ru-ref-1516925-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 1) направление
-*** ru-ref-1516925-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: 2) (вежл.) человек, лицо
-*** ru-ref-1516925-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: Kという方 господин по имени K
-*** ru-ref-1516925-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: (ср.) …かた【…方】
+- 19 :: 1) способ, манера
+- 19 :: 2) сторона
+- 19 :: 3) работник
+- 19 :: 4) (после имени на адресе) для передачи (такому-то)
+- 19 :: 1) направление
+- 19 :: 2) (вежл.) человек, лицо
+- 19 :: Kという方 господин по имени K
+- 19 :: (ср.) …かた【…方】
 ** Learner notes
 *** note-s-1516925-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Шанобливе слово для позначення особи (людини) або вказівки на напрямок/спосіб. Часто вживається як この方, その方, あの方.
 - LEVEL :: beginner
@@ -144,11 +79,6 @@
 ** Examples
 *** ex-1516925-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: polite
 :END:
@@ -159,11 +89,6 @@
 - FOCUS :: 方
 *** ex-1516925-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: polite
 :END:
@@ -174,11 +99,6 @@
 - FOCUS :: 方
 *** ex-1516925-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -193,80 +113,39 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: ccb41f91e9ed3908cf942b4943b0375969913fcd65a4452c84d89db93785efac
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - hon
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: person
-*** en-s-1516925-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lady
-*** en-s-1516925-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: gentleman
+- person
+- lady
+- gentleman
 ** Ukrainian glosses
 *** uk-s-1516925-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: особа
 - qualifier :: шанобливо
 *** uk-s-1516925-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пан
 *** uk-s-1516925-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пані
 
@@ -275,68 +154,29 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: ccbf7ed4a842f0f4d51fa99b27cea5f0d27c78cffbc61978ac4ee2a9bff12450
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - n-suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: method of
-*** en-s-1516925-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: manner of
-*** en-s-1516925-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: way of
+- method of
+- manner of
+- way of
 ** Ukrainian glosses
 *** uk-s-1516925-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спосіб
 *** uk-s-1516925-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: метод
 
@@ -345,40 +185,18 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 09d3debd166c292802925fb839e3d862b30797052c51dfc71ee4db53251246d5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n-suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: care of ...
+- care of ...
 ** Ukrainian glosses
 *** uk-s-1516925-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: на адресу
 - qualifier :: у поштовій адресі
@@ -388,41 +206,20 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 6fe481772573f7fb375e6ac906806fc505e20db96e4c9cc6be726aacbabf5a3f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n-suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also がた
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: person in charge of ...
+- person in charge of ...
 ** Ukrainian glosses
 *** uk-s-1516925-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відповідальний за
 
@@ -431,41 +228,20 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 628b8e082724ecc9f05bc2391a7c4ed9e694905acfd9ff4fedab8517709bf319
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n-suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also がた
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1516925-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: side (e.g. "on my mother's side")
+- side (e.g. "on my mother's side")
 ** Ukrainian glosses
 *** uk-s-1516925-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: з боку
 - qualifier :: напр. з материного боку

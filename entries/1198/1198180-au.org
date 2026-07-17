@@ -1,19 +1,22 @@
 #+TITLE: 会う
 #+JMDICT_ID: 1198180
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あう
 #+ROMAJI: au
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-1
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1198180-001
 :PROPERTIES:
 :TEXT: 会う
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -22,14 +25,12 @@
 :PROPERTIES:
 :TEXT: 逢う
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1198180-003
 :PROPERTIES:
 :TEXT: 遭う
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -40,7 +41,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1198180-001
 :PROPERTIES:
 :TEXT: あう
@@ -48,7 +48,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -59,108 +58,46 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 1915238981599cbac47c431abeca8d588cadf80713900edd9d1a6bed89aa1786
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1198180-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to meet
-*** en-s-1198180-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to encounter
-*** en-s-1198180-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to see
+- to meet
+- to encounter
+- to see
 ** Ukrainian glosses
 *** uk-s-1198180-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-1
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зустрічатися
 - qualifier :: з кимось (частка に)
 *** uk-s-1198180-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-1
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бачитися
 - qualifier :: з кимось (частка に)
 ** Russian reference
-*** ru-ref-1198180-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: встречать
-*** ru-ref-1198180-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: встречаться
-*** ru-ref-1198180-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: видеться
-*** ru-ref-1198180-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) (に) [по]встречаться (с кем-л.); видеться (с кем-л.)
-*** ru-ref-1198180-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: [居ないといって]人に会わない не принять (кого-л.) [сказавшись отсутствующим]
+- 17 :: встречать
+- 17 :: встречаться
+- 17 :: видеться
+- 17 :: 1) (に) [по]встречаться (с кем-л.); видеться (с кем-л.)
+- 17 :: [居ないといって]人に会わない не принять (кого-л.) [сказавшись отсутствующим]
 ** Learner notes
 *** note-s-1198180-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: codex-agent-1
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Дієслово 会う (зустрічатися) є неперехідним і керує відмінком з часткою に для позначення особи, з якою зустрічаються (наприклад, 友達に会う — зустрітися з другом). Для спільної взаємної дії також може вживатися частка と (友達と会う — зустрічатися з другом). Для розрізнення відтінків значення на письмі вживають різні кандзі: 会う — нейтральний варіант для зустрічі з людьми; 遭う — для неприємних чи небажаних подій (наприклад, 事故に遭う — потрапити в аварію); 逢う — для доленосних чи емоційно важливих зустрічей; 遇う — для випадкових зустрічей.
 - LEVEL :: beginner
@@ -168,13 +105,8 @@
 ** Examples
 *** ex-1198180-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-1
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -188,83 +120,45 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 5fcfbdc6f76bcb82fbca51f10e95774e17e2f7edba1fe755b7cd276691e885a5
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vi
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - esp. 遭う when in kanji
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1198180-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have an accident
-*** en-s-1198180-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have a bad experience
+- to have an accident
+- to have a bad experience
 ** Ukrainian glosses
 *** uk-s-1198180-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-1
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: потрапляти
 - qualifier :: в аварію, халепу тощо (частка に)
 *** uk-s-1198180-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-1
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зазнавати
 - qualifier :: лиха, труднощів тощо (частка に)
 ** Russian reference
-*** ru-ref-1198180-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) ((тж.) 遭う) встретить (что-л.); перенести, испытать (что-л.)
+- 17 :: 2) ((тж.) 遭う) встретить (что-л.); перенести, испытать (что-л.)
 ** Examples
 *** ex-1198180-002-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-1
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:

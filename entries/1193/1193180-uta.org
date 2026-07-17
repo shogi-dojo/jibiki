@@ -1,19 +1,22 @@
 #+TITLE: 歌
 #+JMDICT_ID: 1193180
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うた
 #+ROMAJI: uta
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1193180-001
 :PROPERTIES:
 :TEXT: 歌
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 唄
 :END:
-*** Information
 *** Priorities
 - news1
 - nf16
@@ -30,8 +32,6 @@
 :PROPERTIES:
 :TEXT: 詩
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1193180-001
 :PROPERTIES:
 :TEXT: うた
@@ -39,7 +39,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -50,6 +49,7 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: b343e987ee64127edb0d4163d602925e0535d2d5f598014a2e62086c40ffe3aa
+:LEARNER_PRIORITY: primary
 :END:
 ** Applies to forms
 *** Written forms
@@ -60,73 +60,34 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 唄 for folk songs and shamisen songs
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1193180-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: song
-*** en-s-1193180-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: singing
+- song
+- singing
 ** Ukrainian glosses
 *** uk-s-1193180-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пісня
 *** uk-s-1193180-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спів
 ** Russian reference
-*** ru-ref-1193180-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: песня, песенка
-*** ru-ref-1193180-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: стихотворение (в форме танка или нагаута)
+- 12 :: песня, песенка
+- 12 :: стихотворение (в форме танка или нагаута)
 ** Learner notes
 *** note-s-1193180-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Пісня.
 - LEVEL :: beginner
@@ -134,11 +95,6 @@
 ** Examples
 *** ex-1193180-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -149,11 +105,6 @@
 - FOCUS :: 歌が
 *** ex-1193180-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -164,11 +115,6 @@
 - FOCUS :: 歌を
 *** ex-1193180-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -191,33 +137,17 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 短歌
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1193180-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: classical Japanese poem (esp. tanka)
+- classical Japanese poem (esp. tanka)
 ** Ukrainian glosses
 *** uk-s-1193180-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: класичний японський вірш
 - qualifier :: особливо танка
@@ -236,31 +166,14 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1193180-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: modern poetry
+- modern poetry
 ** Ukrainian glosses
 *** uk-s-1193180-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сучасна поезія

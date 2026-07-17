@@ -1,19 +1,22 @@
 #+TITLE: 色々
 #+JMDICT_ID: 1587850
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いろいろ
 #+ROMAJI: iroiro
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1587850-001
 :PROPERTIES:
 :TEXT: 色々
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -22,15 +25,12 @@
 :PROPERTIES:
 :TEXT: 色色
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1587850-003
 :PROPERTIES:
 :TEXT: 色いろ
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1587850-001
 :PROPERTIES:
 :TEXT: いろいろ
@@ -38,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -48,115 +47,51 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: dc0a287eb44a75af2faa4072bfeb4c0b227cdd0a697e8f4f8a517ac466fe8fb6
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
 - adj-no
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587850-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: various
-*** en-s-1587850-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: a variety of
-*** en-s-1587850-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: all sorts of
-*** en-s-1587850-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: many (different)
+- various
+- a variety of
+- all sorts of
+- many (different)
 ** Ukrainian glosses
 *** uk-s-1587850-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різний
 *** uk-s-1587850-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різноманітний
 *** uk-s-1587850-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: усілякий
 ** Russian reference
-*** ru-ref-1587850-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: различный
-*** ru-ref-1587850-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: : {～な}, {～の} различные, всякие, всяческие, разные, всякого рода
-*** ru-ref-1587850-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: {～[に]} по-всякому, по-разному, всячески, разнообразно
+- 9 :: различный
+- 9 :: : {～な}, {～の} различные, всякие, всяческие, разные, всякого рода
+- 9 :: {～[に]} по-всякому, по-разному, всячески, разнообразно
 ** Learner notes
 *** note-s-1587850-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Різний, усілякий. Часто використовується як な-прикметник (色々な) або з часткою に для утворення прислівника (色々に).
 - LEVEL :: beginner
@@ -164,11 +99,6 @@
 ** Examples
 *** ex-1587850-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -179,11 +109,6 @@
 - FOCUS :: 色々な
 *** ex-1587850-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -194,11 +119,6 @@
 - FOCUS :: 色々
 *** ex-1587850-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -213,69 +133,31 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 431cf5f8f0dd0cce7a43359f04800c8c5e89b39ab590efcc4bcd5ccad3d7c334
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adv
 - adv-to
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587850-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: variously
-*** en-s-1587850-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: in various ways
-*** en-s-1587850-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: in many ways
+- variously
+- in various ways
+- in many ways
 ** Ukrainian glosses
 *** uk-s-1587850-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: по-різному
 *** uk-s-1587850-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різними способами
 
@@ -284,61 +166,31 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 0dd26bcc7f741b84bdf5dbc43f71b8a90ddb4b6b816e1aba14d7fc983e8cd19e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - as ...のいろいろ
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587850-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: various things
-*** en-s-1587850-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: this and that
+- various things
+- this and that
 ** Ukrainian glosses
 *** uk-s-1587850-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різне
 - qualifier :: як ...のいろいろ
 *** uk-s-1587850-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: те й се

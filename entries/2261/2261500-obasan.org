@@ -1,26 +1,26 @@
 #+TITLE: 伯母さん
 #+JMDICT_ID: 2261500
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おばさん
 #+ROMAJI: obasan
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-2261500-001
 :PROPERTIES:
 :TEXT: 伯母さん
 :END:
-*** Information
-*** Priorities
 ** Written form wf-2261500-002
 :PROPERTIES:
 :TEXT: 叔母さん
 :END:
-*** Information
-*** Priorities
 ** Reading rd-2261500-001
 :PROPERTIES:
 :TEXT: おばさん
@@ -28,69 +28,38 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-2261500-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: da7e1116de886a8b09db29aa65d321eae7467e90f1bf64fe5fbe2116aa237199
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - hon
 - fam
 - uk
-*** Dialects
 *** Sense information
 - 伯母さん is older than one's parent and 叔母さん is younger
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-2261500-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: aunt
+- aunt
 ** Ukrainian glosses
 *** uk-s-2261500-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тітка
 - qualifier :: шанобливо; молодша сестра батька чи матері
 ** Russian reference
-*** ru-ref-2261500-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: тётя
+- 7 :: тётя
 ** Learner notes
 *** note-s-2261500-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Тітка. Використовується для звернення до власної або чужої тітки. Також може використовуватися для шанобливого звернення до жінки середнього віку. Ієрогліф 伯母さん вказує на тітку, яка старша за батька/матір, а 叔母さん — на ту, що молодша.
 - LEVEL :: beginner
@@ -98,11 +67,6 @@
 ** Examples
 *** ex-2261500-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -113,11 +77,6 @@
 - FOCUS :: おばさん
 *** ex-2261500-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -128,11 +87,6 @@
 - FOCUS :: おばさん
 *** ex-2261500-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

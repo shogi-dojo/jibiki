@@ -1,19 +1,22 @@
 #+TITLE: 困る
 #+JMDICT_ID: 1289590
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: こまる
 #+ROMAJI: komaru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1289590-001
 :PROPERTIES:
 :TEXT: 困る
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -35,124 +37,44 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 0c0ddcd22820e16fc8f86bf72b6dab4ff3a1bdd380cc516e8e8234c743f763c3
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1289590-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be troubled
-*** en-s-1289590-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have difficulty
-*** en-s-1289590-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be in a fix
-*** en-s-1289590-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be at a loss
-*** en-s-1289590-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be stumped
-*** en-s-1289590-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be embarrassed
+- to be troubled
+- to have difficulty
+- to be in a fix
+- to be at a loss
+- to be stumped
+- to be embarrassed
 ** Ukrainian glosses
 *** uk-s-1289590-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мати труднощі
 *** uk-s-1289590-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути в скруті
 ** Russian reference
-*** ru-ref-1289590-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) находиться в затруднении (затруднительном положении); затрудняться (в чём-л., что-л. сделать); испытывать неудобства; чувствовать неловкость
-*** ru-ref-1289590-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) страдать (какой-л. болезнью, от чего-л.)
-*** ru-ref-1289590-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 3) нуждаться
-*** ru-ref-1289590-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: (ср.) こまった
+- 17 :: 1) находиться в затруднении (затруднительном положении); затрудняться (в чём-л., что-л. сделать); испытывать неудобства; чувствовать неловкость
+- 17 :: 2) страдать (какой-л. болезнью, от чего-л.)
+- 17 :: 3) нуждаться
+- 17 :: (ср.) こまった
 ** Learner notes
 *** note-s-1289590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Бути в скруті, мати труднощі.
 - LEVEL :: beginner
@@ -160,11 +82,6 @@
 ** Examples
 *** ex-1289590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -175,11 +92,6 @@
 - FOCUS :: 困りました
 *** ex-1289590-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -190,11 +102,6 @@
 - FOCUS :: 困っています
 *** ex-1289590-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -209,68 +116,29 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 6a114f6f4b88a34c565855aff6318cc9e9e9c51bf9d9a6e2b472385dc99bb04d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1289590-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be bothered
-*** en-s-1289590-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be inconvenienced
-*** en-s-1289590-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be annoyed
+- to be bothered
+- to be inconvenienced
+- to be annoyed
 ** Ukrainian glosses
 *** uk-s-1289590-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відчувати незручності
 *** uk-s-1289590-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути стурбованим
 
@@ -279,67 +147,28 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 04bceb6e35b3c9d3751437fe830a41cfca5d989513fba17a1e6e3f3d4c318874
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1289590-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be badly off
-*** en-s-1289590-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be hard up
-*** en-s-1289590-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be in straitened circumstances
+- to be badly off
+- to be hard up
+- to be in straitened circumstances
 ** Ukrainian glosses
 *** uk-s-1289590-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бідувати
 *** uk-s-1289590-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути в скрутному матеріальному становищі

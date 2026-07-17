@@ -1,19 +1,22 @@
 #+TITLE: 買う
 #+JMDICT_ID: 1473740
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かう
 #+ROMAJI: kau
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1473740-001
 :PROPERTIES:
 :TEXT: 買う
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,87 +37,39 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: c40fc0ecff9cb63511a2225687e169b890c40fd3ea75657bee6131b33a3bff24
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473740-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to buy
-*** en-s-1473740-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to purchase
+- to buy
+- to purchase
 ** Ukrainian glosses
 *** uk-s-1473740-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: купувати
 *** uk-s-1473740-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: придбавати
 ** Russian reference
-*** ru-ref-1473740-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 1) покупать; приобретать
-*** ru-ref-1473740-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 2) навлекать [на себя] (чьи-л. чувства, действия)
-*** ru-ref-1473740-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 3) (разг.) ценить, признавать; быть высокого мнения (о ком-чём-л.)
+- 12 :: 1) покупать; приобретать
+- 12 :: 2) навлекать [на себя] (чьи-л. чувства, действия)
+- 12 :: 3) (разг.) ценить, признавать; быть высокого мнения (о ком-чём-л.)
 ** Learner notes
 *** note-s-1473740-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Перехідне дієслово: куплене позначається часткою を. Крім прямого «купувати», має переносні значення — «високо цінувати» (努力を買う) і «накликати» щось небажане (怒りを買う).
 - LEVEL :: beginner
@@ -123,13 +77,8 @@
 ** Examples
 *** ex-1473740-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -140,13 +89,8 @@
 - FOCUS :: 買いました
 *** ex-1473740-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -157,13 +101,8 @@
 - FOCUS :: 買いたい
 *** ex-1473740-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -178,95 +117,39 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 90172e82b1b02cee7d6b02283685c986b9c84476982260129b9d1dd677e8f28b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473740-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to value (highly)
-*** en-s-1473740-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to think highly of
-*** en-s-1473740-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to have a high opinion of
-*** en-s-1473740-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to appreciate
-*** en-s-1473740-002-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to recognize
+- to value (highly)
+- to think highly of
+- to have a high opinion of
+- to appreciate
+- to recognize
 ** Ukrainian glosses
 *** uk-s-1473740-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: високо цінувати
 *** uk-s-1473740-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути високої думки
 *** uk-s-1473740-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: визнавати
 
@@ -275,105 +158,42 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 354f106278b87a22c415ea15b5318ee51046b069e0faf7c2a543a1351b1b9cf1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473740-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to incur (someone's anger, displeasure, etc.)
-*** en-s-1473740-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to elicit (e.g. sneers)
-*** en-s-1473740-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to invite (e.g. scorn)
-*** en-s-1473740-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to evoke
-*** en-s-1473740-003-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to arouse
-*** en-s-1473740-003-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to win (someone's favour)
+- to incur (someone's anger, displeasure, etc.)
+- to elicit (e.g. sneers)
+- to invite (e.g. scorn)
+- to evoke
+- to arouse
+- to win (someone's favour)
 ** Ukrainian glosses
 *** uk-s-1473740-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: накликати
 - qualifier :: чийсь гнів, невдоволення тощо
 *** uk-s-1473740-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: викликати
 - qualifier :: напр. глузування
 *** uk-s-1473740-003-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: здобувати
 - qualifier :: чиюсь прихильність
@@ -383,68 +203,29 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 356a723357201aa64a3bd70a72a7a9e354ea1a3fce872a27aff4333fc8d748d4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473740-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to accept
-*** en-s-1473740-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to take on
-*** en-s-1473740-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to take up
+- to accept
+- to take on
+- to take up
 ** Ukrainian glosses
 *** uk-s-1473740-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: приймати
 *** uk-s-1473740-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: брати на себе
 
@@ -453,41 +234,19 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 02ec0051ef94c80eb0c88faef473e9400c95ec8a42bfed24c29f2255ee3583f1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473740-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pay for (a prostitute, geisha, etc.)
+- to pay for (a prostitute, geisha, etc.)
 ** Ukrainian glosses
 *** uk-s-1473740-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: платити
 - qualifier :: повії, ґейші тощо

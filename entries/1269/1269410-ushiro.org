@@ -1,19 +1,22 @@
 #+TITLE: 後ろ
 #+JMDICT_ID: 1269410
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うしろ
 #+ROMAJI: ushiro
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1269410-001
 :PROPERTIES:
 :TEXT: 後ろ
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - io
-*** Priorities
 ** Reading rd-1269410-001
 :PROPERTIES:
 :TEXT: うしろ
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -42,127 +43,58 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: fc393c79b4e12ff6e257b9c676e9f9540d04ff849f813e105f0ecfb22d9db550
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269410-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: back
-*** en-s-1269410-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: behind
-*** en-s-1269410-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: rear
+- back
+- behind
+- rear
 ** Ukrainian glosses
 *** uk-s-1269410-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: задня частина
 *** uk-s-1269410-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: позаду
 *** uk-s-1269410-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ззаду
 *** uk-s-1269410-001-004
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тил
 ** Russian reference
-*** ru-ref-1269410-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: : {～に} сзади, позади
-*** ru-ref-1269410-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: {…の～に} за (чем-л.), позади (чего-л.)
-*** ru-ref-1269410-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: {…を～に} на фоне (чего-л.); перед (чем-л.)
-*** ru-ref-1269410-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: {～から} сзади (напр. выглянуть)
-*** ru-ref-1269410-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: {～へ} назад
+- 14 :: : {～に} сзади, позади
+- 14 :: {…の～に} за (чем-л.), позади (чего-л.)
+- 14 :: {…を～に} на фоне (чего-л.); перед (чем-л.)
+- 14 :: {～から} сзади (напр. выглянуть)
+- 14 :: {～へ} назад
 ** Learner notes
 *** note-s-1269410-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Позаду, ззаду.
 - LEVEL :: beginner
@@ -170,11 +102,6 @@
 ** Examples
 *** ex-1269410-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -185,11 +112,6 @@
 - FOCUS :: 後ろに
 *** ex-1269410-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -200,11 +122,6 @@
 - FOCUS :: 後ろを
 *** ex-1269410-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

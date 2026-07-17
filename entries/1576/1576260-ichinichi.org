@@ -1,26 +1,28 @@
 #+TITLE: 一日
 #+JMDICT_ID: 1576260
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いちにち
 #+ROMAJI: ichinichi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1576260-001
 :PROPERTIES:
 :TEXT: 一日
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1576260-002
 :PROPERTIES:
 :TEXT: １日
 :END:
-*** Information
 *** Priorities
 - spec1
 ** Reading rd-1576260-001
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - spec1
@@ -41,90 +42,37 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1576260-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 4fe0746d196b7836e478700be1be7143708ad97ec61b53145ec7735701cfd52f
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1576260-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: one day
+- one day
 ** Ukrainian glosses
 *** uk-s-1576260-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: один день
 ** Russian reference
-*** ru-ref-1576260-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: 1) [один] день; в день
-*** ru-ref-1576260-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: {～の} однодневный
-*** ru-ref-1576260-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: 2) целый (весь) день
-*** ru-ref-1576260-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: 3) однажды; как-нибудь
-*** ru-ref-1576260-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: 4) первое [число] (месяца)
-*** ru-ref-1576260-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 24
-:END:
-- text :: (см.) いちにち
+- 24 :: 1) [один] день; в день
+- 24 :: {～の} однодневный
+- 24 :: 2) целый (весь) день
+- 24 :: 3) однажды; как-нибудь
+- 24 :: 4) первое [число] (месяца)
+- 24 :: (см.) いちにち
 ** Learner notes
 *** note-s-1576260-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Один день (як проміжок часу). Зверніть увагу, що перше число місяця пишеться так само (一日), але читається як ついたち.
 - LEVEL :: beginner
@@ -132,11 +80,6 @@
 ** Examples
 *** ex-1576260-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -147,11 +90,6 @@
 - FOCUS :: 一日
 *** ex-1576260-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -162,11 +100,6 @@
 - FOCUS :: 一日
 *** ex-1576260-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -190,59 +123,25 @@
 *** Parts of speech
 - adv
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1576260-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: all day (long)
-*** en-s-1576260-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: the whole day
-*** en-s-1576260-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: from morning till night
+- all day (long)
+- the whole day
+- from morning till night
 ** Ukrainian glosses
 *** uk-s-1576260-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: цілий день
 *** uk-s-1576260-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: весь день
 - qualifier :: з ранку до вечора
@@ -252,40 +151,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 49b1415466594aaa05f0eb5982d4410ec72cff7105d9e443bc47ba9ab4ee0443
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - １日・ついたち
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1576260-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: first day of the month
+- first day of the month
 ** Ukrainian glosses
 *** uk-s-1576260-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перше число місяця

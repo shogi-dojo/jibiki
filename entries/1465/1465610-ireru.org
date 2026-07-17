@@ -1,19 +1,22 @@
 #+TITLE: 入れる
 #+JMDICT_ID: 1465610
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いれる
 #+ROMAJI: ireru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1465610-001
 :PROPERTIES:
 :TEXT: 入れる
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1465610-002
@@ -22,14 +25,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1465610-003
 :PROPERTIES:
 :TEXT: 函れる
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1465610-001
 :PROPERTIES:
 :TEXT: いれる
@@ -37,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -45,184 +45,68 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 51d1420e7f6b9fce8fb453c4bcc76e509a05134a2f242d4b4e0aac07039dd686
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put in
-*** en-s-1465610-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to let in
-*** en-s-1465610-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to take in
-*** en-s-1465610-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to bring in
-*** en-s-1465610-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to insert
-*** en-s-1465610-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to install (e.g. software)
-*** en-s-1465610-001-007
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to set (a jewel, etc.)
-*** en-s-1465610-001-008
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to ink in (e.g. tattoo)
+- to put in
+- to let in
+- to take in
+- to bring in
+- to insert
+- to install (e.g. software)
+- to set (a jewel, etc.)
+- to ink in (e.g. tattoo)
 ** Ukrainian glosses
 *** uk-s-1465610-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: класти
 - qualifier :: всередину
 *** uk-s-1465610-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: впускати
 *** uk-s-1465610-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вставляти
 *** uk-s-1465610-001-004
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: встановлювати
 - qualifier :: напр. програму
 ** Russian reference
-*** ru-ref-1465610-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 1) класть (во что-л.), вкладывать, вставлять, вводить; вносить; вливать; впускать; помещать
-*** ru-ref-1465610-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: S君は自分の部屋にだれも入れたがらない г-н С. не хочет (не любит) никого пускать к себе в комнату
-*** ru-ref-1465610-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 2) вмещать
-*** ru-ref-1465610-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 3) нанимать, приглашать [на службу]
-*** ru-ref-1465610-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 4) ((тж.) 容れる) внимать (совету, просьбе); принимать (предложение)
-*** ru-ref-1465610-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 5) включать
-*** ru-ref-1465610-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 6) вносить, платить
-*** ru-ref-1465610-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 38
-:END:
-- text :: 7) (прост.) голосовать
+- 38 :: 1) класть (во что-л.), вкладывать, вставлять, вводить; вносить; вливать; впускать; помещать
+- 38 :: S君は自分の部屋にだれも入れたがらない г-н С. не хочет (не любит) никого пускать к себе в комнату
+- 38 :: 2) вмещать
+- 38 :: 3) нанимать, приглашать [на службу]
+- 38 :: 4) ((тж.) 容れる) внимать (совету, просьбе); принимать (предложение)
+- 38 :: 5) включать
+- 38 :: 6) вносить, платить
+- 38 :: 7) (прост.) голосовать
 ** Learner notes
 *** note-s-1465610-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Класти всередину, вставляти.
 - LEVEL :: beginner
@@ -230,11 +114,6 @@
 ** Examples
 *** ex-1465610-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -245,11 +124,6 @@
 - FOCUS :: 入れます
 *** ex-1465610-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -260,11 +134,6 @@
 - FOCUS :: 入れて
 *** ex-1465610-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -279,77 +148,31 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: b80f212f99eff15b4712ef9ae8ed1b11917de8b363c1be54967e4b51de677578
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to admit
-*** en-s-1465610-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to accept
-*** en-s-1465610-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to employ
-*** en-s-1465610-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hire
+- to admit
+- to accept
+- to employ
+- to hire
 ** Ukrainian glosses
 *** uk-s-1465610-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: приймати
 - qualifier :: до закладу, на роботу
 *** uk-s-1465610-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: наймати
 
@@ -358,113 +181,44 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: b26b7aa6b4cc6cfb790612691a52bbd75fffd9331949bebf834bc5e03f0d8422
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 容れる
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to accept
-*** en-s-1465610-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to comply
-*** en-s-1465610-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to grant
-*** en-s-1465610-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to adopt (a policy, etc.)
-*** en-s-1465610-003-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to take (advice, etc.)
-*** en-s-1465610-003-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to listen to
-*** en-s-1465610-003-007
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pay attention to
+- to accept
+- to comply
+- to grant
+- to adopt (a policy, etc.)
+- to take (advice, etc.)
+- to listen to
+- to pay attention to
 ** Ukrainian glosses
 *** uk-s-1465610-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: приймати
 - qualifier :: пораду, вимогу
 *** uk-s-1465610-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: погоджуватися
 *** uk-s-1465610-003-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прислухатися
 
@@ -473,52 +227,27 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 4b63774303236eacd0d0e07cd0a36d12b07b60282efd7c3efe909d1658d0f847
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to include
+- to include
 ** Ukrainian glosses
 *** uk-s-1465610-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: включати
 *** uk-s-1465610-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: враховувати
 
@@ -527,53 +256,28 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 27047dcc5d80b3789fa161bd6c677e70588ce0b2bac85c1e2e0a06e9e0f544da
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pay (one's rent, etc.)
+- to pay (one's rent, etc.)
 ** Ukrainian glosses
 *** uk-s-1465610-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: платити
 - qualifier :: оренду тощо
 *** uk-s-1465610-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вносити
 
@@ -582,53 +286,28 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 811e730500f35b86456ffb011181ce7dc20daec24a452dfc895e8cab1115572f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cast (a vote)
+- to cast (a vote)
 ** Ukrainian glosses
 *** uk-s-1465610-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: віддавати
 - qualifier :: голос
 *** uk-s-1465610-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: голосувати
 
@@ -637,42 +316,21 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 2ab1fdbd2921734425b2458f7bdf2ffdec54529055b4019dcc81d5ae18e3b7b3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 淹れる
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make (tea, coffee, etc.)
+- to make (tea, coffee, etc.)
 ** Ukrainian glosses
 *** uk-s-1465610-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: заварювати
 - qualifier :: чай, каву
@@ -682,41 +340,19 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: fed235792c02a52daff2aff3fe49a53159aecb8c3241f79e591c4a99fef90ee4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to turn on (a switch, etc.)
+- to turn on (a switch, etc.)
 ** Ukrainian glosses
 *** uk-s-1465610-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вмикати
 - qualifier :: перемикач тощо
@@ -726,60 +362,28 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: e7fc1886d59c9b3d4164c39ce6118b1f2bef37d9490246183f35fa490b6fe580
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1465610-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to send (a fax)
-*** en-s-1465610-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to call
+- to send (a fax)
+- to call
 ** Ukrainian glosses
 *** uk-s-1465610-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: надсилати
 - qualifier :: факс
 *** uk-s-1465610-009-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: телефонувати

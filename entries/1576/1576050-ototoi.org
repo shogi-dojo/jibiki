@@ -1,19 +1,22 @@
 #+TITLE: 一昨日
 #+JMDICT_ID: 1576050
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おととい
 #+ROMAJI: ototoi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1576050-001
 :PROPERTIES:
 :TEXT: 一昨日
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -38,7 +41,6 @@
 - *
 *** Information
 - gikun
-*** Priorities
 ** Reading rd-1576050-003
 :PROPERTIES:
 :TEXT: いっさくじつ
@@ -46,7 +48,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - news2
 - nf40
@@ -55,73 +56,31 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 18e1d4fe5ea273f41bc64a8082a961ac7f5a2d54246ea36ef84cac2e8b432c36
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1576050-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: day before yesterday
+- day before yesterday
 ** Ukrainian glosses
 *** uk-s-1576050-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: позавчора
 ** Russian reference
-*** ru-ref-1576050-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: 1. позапрошлый день
-*** ru-ref-1576050-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: 2. позавчера, третьего дня
-*** ru-ref-1576050-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: позавчера, третьего дня
-*** ru-ref-1576050-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: позавчера
+- 8 :: 1. позапрошлый день
+- 8 :: 2. позавчера, третьего дня
+- 8 :: позавчера, третьего дня
+- 8 :: позавчера
 ** Learner notes
 *** note-s-1576050-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Позавчора. Це слово зазвичай пишеться хіраганою (おととい). Ієрогліфічне написання 一昨日 часто читається як いっさくじつ в офіційному мовленні.
 - LEVEL :: beginner
@@ -129,11 +88,6 @@
 ** Examples
 *** ex-1576050-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -144,11 +98,6 @@
 - FOCUS :: おととい
 *** ex-1576050-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -159,11 +108,6 @@
 - FOCUS :: おととい
 *** ex-1576050-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

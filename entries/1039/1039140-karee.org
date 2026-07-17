@@ -1,12 +1,16 @@
 #+TITLE: カレー
 #+JMDICT_ID: 1039140
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: カレー
 #+ROMAJI: karee
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1039140-001
@@ -15,14 +19,12 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1039140-002
 :PROPERTIES:
 :TEXT: 咖喱
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1039140-001
 :PROPERTIES:
 :TEXT: カレー
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - gai1
 - ichi1
@@ -43,59 +44,32 @@
 - *
 *** Information
 - rk
-*** Priorities
-
 * Sense s-1039140-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 15e54dc3e52cc249c6e8e6a5d3d8d453ef88ba6eef2e5326d140c258dcc7b6fe
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 *** Fields
 - food
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1039140-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: curry (esp. Japanese curry)
+- curry (esp. Japanese curry)
 ** Ukrainian glosses
 *** uk-s-1039140-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: карі
 - qualifier :: особливо японське карі
 ** Learner notes
 *** note-s-1039140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальна назва для карі (переважно японського). Походить від англійського "curry".
 - LEVEL :: beginner
@@ -103,11 +77,6 @@
 ** Examples
 *** ex-1039140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -118,11 +87,6 @@
 - FOCUS :: カレーは
 *** ex-1039140-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -133,11 +97,6 @@
 - FOCUS :: カレーを
 *** ex-1039140-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -152,11 +111,6 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 685c75b0887c8d0beb6265c86d1bc9313b30854c39f6e01c9efac491879f76ea
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
@@ -164,31 +118,17 @@
 - food
 *** Miscellaneous and register
 - abbr
-*** Dialects
-*** Sense information
 *** Cross-references
 - カレーライス
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1039140-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: rice and curry
+- rice and curry
 ** Ukrainian glosses
 *** uk-s-1039140-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рис із карі
 - qualifier :: скорочення

@@ -1,19 +1,22 @@
 #+TITLE: 言う
 #+JMDICT_ID: 1587040
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いう
 #+ROMAJI: iu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1587040-001
 :PROPERTIES:
 :TEXT: 言う
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,14 +27,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1587040-003
 :PROPERTIES:
 :TEXT: 謂う
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1587040-001
 :PROPERTIES:
 :TEXT: いう
@@ -39,7 +40,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -51,7 +51,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -59,115 +58,44 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 96e974f093bd0dfe7350a54cdad8d7912cfdbff2b0d2772fe74234e3f10d083a
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587040-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to say
-*** en-s-1587040-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to utter
-*** en-s-1587040-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to declare
+- to say
+- to utter
+- to declare
 ** Ukrainian glosses
 *** uk-s-1587040-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: говорити
 *** uk-s-1587040-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: казати
 ** Russian reference
-*** ru-ref-1587040-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: говорить
-*** ru-ref-1587040-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: сказать
-*** ru-ref-1587040-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: называться
-*** ru-ref-1587040-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: (см.) いう【言う】
-*** ru-ref-1587040-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: (уст.) 謂う
-*** ru-ref-1587040-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: 1) говорить; сказать, заметить; заявить
-*** ru-ref-1587040-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 22
-:END:
-- text :: 2) называть; называться
+- 22 :: говорить
+- 22 :: сказать
+- 22 :: называться
+- 22 :: (см.) いう【言う】
+- 22 :: (уст.) 謂う
+- 22 :: 1) говорить; сказать, заметить; заявить
+- 22 :: 2) называть; называться
 ** Learner notes
 *** note-s-1587040-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Говорити, казати. Зазвичай записується ієрогліфом (言う), але часто зустрічається і запис хіраганою (いう).
 - LEVEL :: beginner
@@ -175,11 +103,6 @@
 ** Examples
 *** ex-1587040-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -190,11 +113,6 @@
 - FOCUS :: 言いました
 *** ex-1587040-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -205,11 +123,6 @@
 - FOCUS :: 言いました
 *** ex-1587040-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: formal
 :END:
@@ -224,49 +137,20 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: f1f2f763e498fc380b856e163e332e43be82d1d6d144b1108f6cfc3001d44bda
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587040-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to name
-*** en-s-1587040-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to call
+- to name
+- to call
 ** Ukrainian glosses
 *** uk-s-1587040-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: називати
 
@@ -284,50 +168,23 @@
 *** Parts of speech
 - v5u
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1587040-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to go (e.g. "the alarm went ping")
-*** en-s-1587040-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make a noise
+- to go (e.g. "the alarm went ping")
+- to make a noise
 ** Ukrainian glosses
 *** uk-s-1587040-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: звучати
 *** uk-s-1587040-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: видавати звук

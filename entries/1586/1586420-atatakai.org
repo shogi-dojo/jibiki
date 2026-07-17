@@ -1,27 +1,28 @@
 #+TITLE: 温かい
 #+JMDICT_ID: 1586420
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あたたかい
 #+ROMAJI: atatakai
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1586420-001
 :PROPERTIES:
 :TEXT: 暖かい
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1586420-002
 :PROPERTIES:
 :TEXT: 温かい
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -32,7 +33,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1586420-001
 :PROPERTIES:
 :TEXT: あたたかい
@@ -40,7 +40,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -52,8 +51,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
 ** Reading rd-1586420-003
 :PROPERTIES:
 :TEXT: あったけー
@@ -63,84 +60,36 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1586420-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 9337203716cbf2a5fb307982dd776878aa505d70ca612833b5cea6cb4014632f
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 暖かい usu. refers to air temperature
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1586420-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: warm
-*** en-s-1586420-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mild
-*** en-s-1586420-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (pleasantly) hot
+- warm
+- mild
+- (pleasantly) hot
 ** Ukrainian glosses
 *** uk-s-1586420-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: теплий
 ** Russian reference
-*** ru-ref-1586420-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 13
-:END:
-- text :: тёплый (о погоде, воздухе)
-*** ru-ref-1586420-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 13
-:END:
-- text :: (прям. и перен.) тёплый
+- 13 :: тёплый (о погоде, воздухе)
+- 13 :: (прям. и перен.) тёплый
 ** Learner notes
 *** note-s-1586420-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Теплий. Якщо йдеться про погоду чи температуру повітря, використовується ієрогліф 暖 (暖かい). Якщо ж ідеться про температуру предметів (наприклад, супу чи напою) або про людське тепло/ставлення, використовується ієрогліф 温 (温かい).
@@ -149,11 +98,6 @@
 ** Examples
 *** ex-1586420-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -164,11 +108,6 @@
 - FOCUS :: 暖かい
 *** ex-1586420-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -179,11 +118,6 @@
 - FOCUS :: 温かい
 *** ex-1586420-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -206,60 +140,26 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1586420-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: considerate
-*** en-s-1586420-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: kind
-*** en-s-1586420-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: genial
+- considerate
+- kind
+- genial
 ** Ukrainian glosses
 *** uk-s-1586420-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: теплий
 - qualifier :: про ставлення
 *** uk-s-1586420-002-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чуйний
 
@@ -276,40 +176,16 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1586420-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: warm (of a colour)
-*** en-s-1586420-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mellow
+- warm (of a colour)
+- mellow
 ** Ukrainian glosses
 *** uk-s-1586420-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: теплий
 - qualifier :: про колір
@@ -327,31 +203,14 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1586420-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: having enough money
+- having enough money
 ** Ukrainian glosses
 *** uk-s-1586420-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: заможний

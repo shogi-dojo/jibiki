@@ -1,20 +1,22 @@
 #+TITLE: 厚い
 #+JMDICT_ID: 1275320
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あつい
 #+ROMAJI: atsui
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1275320-001
 :PROPERTIES:
 :TEXT: 厚い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -23,8 +25,6 @@
 :PROPERTIES:
 :TEXT: 篤い
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1275320-001
 :PROPERTIES:
 :TEXT: あつい
@@ -32,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -42,6 +41,7 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: f71502508929cbecd8f8f57ac4c3ffd8abf0b53afe450b2cab0a8bd97f497b3d
+:LEARNER_PRIORITY: primary
 :END:
 ** Applies to forms
 *** Written forms
@@ -51,84 +51,29 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275320-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: thick
-*** en-s-1275320-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: deep
-*** en-s-1275320-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: heavy
+- thick
+- deep
+- heavy
 ** Ukrainian glosses
 *** uk-s-1275320-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: товстий
 - qualifier :: про плоскі предмети
 ** Russian reference
-*** ru-ref-1275320-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) толстый (о предметах)
-*** ru-ref-1275320-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) ((тж.) 篤い) сердечный; заботливый, тёплый
-*** ru-ref-1275320-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) серьёзный (о болезни)
-*** ru-ref-1275320-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) (に) сердечный, участливый (по отношению к кому-л.)
-*** ru-ref-1275320-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: (ср.) あつい【厚い】2
+- 17 :: 1) толстый (о предметах)
+- 17 :: 2) ((тж.) 篤い) сердечный; заботливый, тёплый
+- 17 :: 1) серьёзный (о болезни)
+- 17 :: 2) (に) сердечный, участливый (по отношению к кому-л.)
+- 17 :: (ср.) あつい【厚い】2
 ** Learner notes
 *** note-s-1275320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Товстий (про плоскі предмети, наприклад, книгу, стіну).
@@ -137,11 +82,6 @@
 ** Examples
 *** ex-1275320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -152,11 +92,6 @@
 - FOCUS :: 厚い
 *** ex-1275320-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -167,11 +102,6 @@
 - FOCUS :: 厚い
 *** ex-1275320-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -186,83 +116,30 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 340a0aecd1e7cf1332e43c67aaad7b06b37f3843446f386bc0a00feb78530a32
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275320-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: kind
-*** en-s-1275320-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cordial
-*** en-s-1275320-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hospitable
-*** en-s-1275320-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: warm
-*** en-s-1275320-002-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: faithful
+- kind
+- cordial
+- hospitable
+- warm
+- faithful
 ** Ukrainian glosses
 *** uk-s-1275320-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: щирий
 *** uk-s-1275320-002-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сердечний
 
@@ -279,32 +156,15 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275320-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: serious (of an illness)
+- serious (of an illness)
 ** Ukrainian glosses
 *** uk-s-1275320-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: серйозний
 - qualifier :: про хворобу
@@ -322,31 +182,14 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275320-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: abundant
+- abundant
 ** Ukrainian glosses
 *** uk-s-1275320-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рясний

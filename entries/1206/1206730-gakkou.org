@@ -1,19 +1,22 @@
 #+TITLE: 学校
 #+JMDICT_ID: 1206730
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: がっこう
 #+ROMAJI: gakkou
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1206730-001
 :PROPERTIES:
 :TEXT: 学校
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1206730-001
 :PROPERTIES:
 :TEXT: がっこう
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -42,62 +43,28 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: c181cb67b241c6eff06bad84a5875f638c98dcdffb211612fda7cf4ac6f835f3
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1206730-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: school
+- school
 ** Ukrainian glosses
 *** uk-s-1206730-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: школа
 ** Russian reference
-*** ru-ref-1206730-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 1) школа, училище; учебное заведение
-*** ru-ref-1206730-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 2) (перен.) занятия (в учебном заведении)
+- 6 :: 1) школа, училище; учебное заведение
+- 6 :: 2) (перен.) занятия (в учебном заведении)
 ** Learner notes
 *** note-s-1206730-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальна назва навчального закладу — від початкової школи до вишу. З дієсловами руху вживається з часткою へ або に: 学校へ行く.
 - LEVEL :: beginner
@@ -105,13 +72,8 @@
 ** Examples
 *** ex-1206730-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -122,13 +84,8 @@
 - FOCUS :: 学校
 *** ex-1206730-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -139,13 +96,8 @@
 - FOCUS :: 学校へ
 *** ex-1206730-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

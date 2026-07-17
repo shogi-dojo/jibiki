@@ -1,19 +1,22 @@
 #+TITLE: 上着
 #+JMDICT_ID: 1580340
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うわぎ
 #+ROMAJI: uwagi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1580340-001
 :PROPERTIES:
 :TEXT: 上着
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,15 +25,12 @@
 :PROPERTIES:
 :TEXT: 上衣
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1580340-003
 :PROPERTIES:
 :TEXT: 表着
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1580340-001
 :PROPERTIES:
 :TEXT: うわぎ
@@ -38,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -50,107 +49,50 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1580340-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 2b694aac586dbe254dc8541220ea91a6f9ef4c278eace58af145d2f4f92f7b72
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1580340-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: coat
-*** en-s-1580340-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: jacket
-*** en-s-1580340-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: outerwear
+- coat
+- jacket
+- outerwear
 ** Ukrainian glosses
 *** uk-s-1580340-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піджак
 *** uk-s-1580340-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: куртка
 *** uk-s-1580340-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: верхній одяг
 ** Russian reference
-*** ru-ref-1580340-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 1) пиджак; жакет; тужурка, китель
-*** ru-ref-1580340-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 2) одежда; верхнее кимоно
+- 10 :: 1) пиджак; жакет; тужурка, китель
+- 10 :: 2) одежда; верхнее кимоно
 ** Learner notes
 *** note-s-1580340-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Верхній одяг, піджак, куртка. Протилежність — 下着 (したぎ) "спідня білизна".
 - LEVEL :: beginner
@@ -158,11 +100,6 @@
 ** Examples
 *** ex-1580340-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -173,11 +110,6 @@
 - FOCUS :: 上着
 *** ex-1580340-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -188,11 +120,6 @@
 - FOCUS :: 上着
 *** ex-1580340-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -207,47 +134,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 5c6cfc16940fcfeedabd3c5e749a0c3bae31c131ed9a25524b17375c506a9ea4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1580340-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: top
-*** en-s-1580340-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: upper-body garment
+- top
+- upper-body garment
 ** Ukrainian glosses
 *** uk-s-1580340-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: одяг для верхньої частини тіла

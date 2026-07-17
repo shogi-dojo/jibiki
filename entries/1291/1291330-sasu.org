@@ -1,19 +1,22 @@
 #+TITLE: 差す
 #+JMDICT_ID: 1291330
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: さす
 #+ROMAJI: sasu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1291330-001
 :PROPERTIES:
 :TEXT: 差す
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -35,124 +37,43 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: b59fee4d4040067834689ad7624c720c57b15376a7a4552285bc6da23db97383
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 射す
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to shine
+- to shine
 ** Ukrainian glosses
 *** uk-s-1291330-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: світити
 ** Russian reference
-*** ru-ref-1291330-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: (неперех.)
-*** ru-ref-1291330-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 1) прибывать (о воде)
-*** ru-ref-1291330-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 2) проступать (о цвете)
-*** ru-ref-1291330-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: (перех., все значения связ.)
-*** ru-ref-1291330-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 1) ((тж.) 插す) втыкать (шпильки); вставлять (напр. иллюстрации)
-*** ru-ref-1291330-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 2): 水をさす а) налить воды; б) (обр.) обдать холодной водой, охладить пыл; в) (обр.) настроить друг против друга
-*** ru-ref-1291330-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 3) раскрывать над головой (зонтик)
-*** ru-ref-1291330-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 4) протягивать (руку)
-*** ru-ref-1291330-009
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 5) ((тж.) 献す) предлагать, протягивать (рюмку, чашку)
-*** ru-ref-1291330-010
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 6) ((тж.) 佩す) носить (меч за поясом)
-*** ru-ref-1291330-011
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 7) мерить (ткань)
-*** ru-ref-1291330-012
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 8) ходить, делать ход (в шахматах)
-*** ru-ref-1291330-013
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 9) подмешивать (краску)
-*** ru-ref-1291330-014
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 33
-:END:
-- text :: 10) ловить (птицу клейким шестом)
+- 33 :: (неперех.)
+- 33 :: 1) прибывать (о воде)
+- 33 :: 2) проступать (о цвете)
+- 33 :: (перех., все значения связ.)
+- 33 :: 1) ((тж.) 插す) втыкать (шпильки); вставлять (напр. иллюстрации)
+- 33 :: 2): 水をさす а) налить воды; б) (обр.) обдать холодной водой, охладить пыл; в) (обр.) настроить друг против друга
+- 33 :: 3) раскрывать над головой (зонтик)
+- 33 :: 4) протягивать (руку)
+- 33 :: 5) ((тж.) 献す) предлагать, протягивать (рюмку, чашку)
+- 33 :: 6) ((тж.) 佩す) носить (меч за поясом)
+- 33 :: 7) мерить (ткань)
+- 33 :: 8) ходить, делать ход (в шахматах)
+- 33 :: 9) подмешивать (краску)
+- 33 :: 10) ловить (птицу клейким шестом)
 ** Learner notes
 *** note-s-1291330-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Відкривати/тримати (парасолю), вказувати, світити.
 - LEVEL :: beginner
@@ -160,11 +81,6 @@
 ** Examples
 *** ex-1291330-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -175,11 +91,6 @@
 - FOCUS :: 差しました
 *** ex-1291330-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -190,11 +101,6 @@
 - FOCUS :: 差して
 *** ex-1291330-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -209,41 +115,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 483da8b28a748afbb184ecd753fa6ee3e8749d2bde99f5817fe19de1482777b6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be visible
+- to be visible
 ** Ukrainian glosses
 *** uk-s-1291330-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути видимим
 
@@ -252,41 +136,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 3e4ab3d373f51d67810a5c1c0c348d65d323d7f5d9a1b6348d34515c62f20ff1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be tinged with
+- to be tinged with
 ** Ukrainian glosses
 *** uk-s-1291330-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути забарвленим
 
@@ -295,49 +157,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 76b78014e29f45933bcb2cda3cf5ac4d9c2ee5103ef83d85003c07377533bcef
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to rise (of water levels)
-*** en-s-1291330-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to flow in
+- to rise (of water levels)
+- to flow in
 ** Ukrainian glosses
 *** uk-s-1291330-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: підніматися
 - qualifier :: про воду
@@ -347,51 +180,23 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 0c2a8071ed902d451c261c33e342d1ef0047b313111878ac1f32050a14f60477
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 気が差す
 - 魔が差す
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be felt (i.e. as an emotion)
-*** en-s-1291330-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to come over one
+- to be felt (i.e. as an emotion)
+- to come over one
 ** Ukrainian glosses
 *** uk-s-1291330-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відчуватися
 - qualifier :: про емоцію
@@ -401,57 +206,21 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 762ec90aff38f5704edd126b1bf4af8cb87d820f0b1b44c7738573b46f68d59a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hold up (an umbrella, etc.)
-*** en-s-1291330-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put up
-*** en-s-1291330-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise
+- to hold up (an umbrella, etc.)
+- to put up
+- to raise
 ** Ukrainian glosses
 *** uk-s-1291330-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тримати
 - qualifier :: парасолю
@@ -461,42 +230,21 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 03069df976fca3a6483ce453668313178a15d27816375b3294b2917521a2712c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 指す・5
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to extend one's arm straight ahead (in dance)
+- to extend one's arm straight ahead (in dance)
 ** Ukrainian glosses
 *** uk-s-1291330-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: витягнути руку вперед
 
@@ -505,50 +253,22 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 665e65a4481ed63d33a0449c95bc529281f25db696b379fcd086b84f952a294b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 挿す・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to insert
-*** en-s-1291330-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put in
+- to insert
+- to put in
 ** Ukrainian glosses
 *** uk-s-1291330-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вставляти
 
@@ -557,58 +277,23 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: e32ee55061ae91b2fca1673294e65952652e98ce1c7b39b00e15e21c7a5909f9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 挿す・4
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to wear (a sword) in one's belt
-*** en-s-1291330-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to wear at one's side
-*** en-s-1291330-009-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to carry under one's arm
+- to wear (a sword) in one's belt
+- to wear at one's side
+- to carry under one's arm
 ** Ukrainian glosses
 *** uk-s-1291330-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: носити
 - qualifier :: меч
@@ -618,42 +303,21 @@
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: d4da3b320fda37826f43364d1d587c1afe647bb8517c2178bdedd76c0c356f9c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
 *** Fields
 - sumo
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to insert one's arm under an opponent's arm
+- to insert one's arm under an opponent's arm
 ** Ukrainian glosses
 *** uk-s-1291330-010-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: просунути руку під пахву супротивника
 
@@ -662,42 +326,21 @@
 :SOURCE_SENSE_INDEX: 11
 :SOURCE_FINGERPRINT: 02b2b815be38f4e0cf4dc12561e853275b3bb291422d8c5839a691030e1ba9e3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 刺す・4
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-011-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pole (a boat)
+- to pole (a boat)
 ** Ukrainian glosses
 *** uk-s-1291330-011-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відштовхуватися жердиною
 - qualifier :: про човен
@@ -707,58 +350,23 @@
 :SOURCE_SENSE_INDEX: 12
 :SOURCE_FINGERPRINT: 7cbbaa989c474c008886be6f9c1ddd80c934f555a78bdeb7ed14c67209288cb4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 注す・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-012-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pour
-*** en-s-1291330-012-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to add (liquid)
-*** en-s-1291330-012-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to serve (drinks)
+- to pour
+- to add (liquid)
+- to serve (drinks)
 ** Ukrainian glosses
 *** uk-s-1291330-012-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: наливати
 
@@ -767,66 +375,24 @@
 :SOURCE_SENSE_INDEX: 13
 :SOURCE_FINGERPRINT: 8b26db6885ef54814dd309bc6b28cb88003420f63920dd99bc1831883bed02be
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 点す・2
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-013-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put on (lipstick, etc.)
-*** en-s-1291330-013-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to apply
-*** en-s-1291330-013-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to colour
-*** en-s-1291330-013-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to dye
+- to put on (lipstick, etc.)
+- to apply
+- to colour
+- to dye
 ** Ukrainian glosses
 *** uk-s-1291330-013-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: наносити
 - qualifier :: помаду
@@ -836,49 +402,20 @@
 :SOURCE_SENSE_INDEX: 14
 :SOURCE_FINGERPRINT: 9c9e1d6e58fad32e9642c81a7df0b807609679fa8582ca6e0ead799ab9694222
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-014-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to light (a fire)
-*** en-s-1291330-014-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to burn
+- to light (a fire)
+- to burn
 ** Ukrainian glosses
 *** uk-s-1291330-014-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: запалювати
 - qualifier :: вогонь
@@ -888,77 +425,32 @@
 :SOURCE_SENSE_INDEX: 15
 :SOURCE_FINGERPRINT: e2efecb815ad2cf42e19d81f18b260830af4d5bda2e4b5ee6a211340f63edc62
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5s
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 鎖す
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-015-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to shut
-*** en-s-1291330-015-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to close
-*** en-s-1291330-015-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to lock
-*** en-s-1291330-015-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to fasten
+- to shut
+- to close
+- to lock
+- to fasten
 ** Ukrainian glosses
 *** uk-s-1291330-015-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: закривати
 *** uk-s-1291330-015-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: замикати
 
@@ -967,50 +459,23 @@
 :SOURCE_SENSE_INDEX: 16
 :SOURCE_FINGERPRINT: 03f230829e66b5c76ee6b4529c531c1a4da9187ff8869b975376b6b490eb3257
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v5s
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
 *** Cross-references
 - 止す
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1291330-016-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to stop in the midst of
-*** en-s-1291330-016-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to leave undone
+- to stop in the midst of
+- to leave undone
 ** Ukrainian glosses
 *** uk-s-1291330-016-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зупинятися на півдорозі

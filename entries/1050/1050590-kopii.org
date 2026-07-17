@@ -1,12 +1,16 @@
 #+TITLE: コピー
 #+JMDICT_ID: 1050590
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: コピー
 #+ROMAJI: kopii
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Reading rd-1050590-001
@@ -16,7 +20,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - gai1
 - ichi1
@@ -25,78 +28,38 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 43e638078e255ae416c1fcfd5da1183c4e9267b02f90fa8c14eee9252fd27ed1
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - vs
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1050590-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: copy
-*** en-s-1050590-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: photocopy
+- copy
+- photocopy
 ** Ukrainian glosses
 *** uk-s-1050590-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: копія
 *** uk-s-1050590-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: фотокопія
 ** Russian reference
-*** ru-ref-1050590-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: (см.) コッピー
+- 15 :: (см.) コッピー
 ** Learner notes
 *** note-s-1050590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Копія, фотокопія.
 - LEVEL :: beginner
@@ -104,11 +67,6 @@
 ** Examples
 *** ex-1050590-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -119,11 +77,6 @@
 - FOCUS :: コピー
 *** ex-1050590-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -134,11 +87,6 @@
 - FOCUS :: コピー
 *** ex-1050590-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -153,40 +101,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 45bbb4c76e684d9e75ca4577117fccc6548a228f7a6498500b3b346084c14e9f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1050590-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: book jacket blurb
+- book jacket blurb
 ** Ukrainian glosses
 *** uk-s-1050590-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: анотація
 - qualifier :: на обкладинці книги
@@ -196,41 +122,21 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 3cafaedab7fb3f71645529e54dc1d42ebf5365f351c4de78396f94184335e0da
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - abbr
-*** Dialects
-*** Sense information
 *** Cross-references
 - キャッチコピー
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1050590-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (advertising) slogan
+- (advertising) slogan
 ** Ukrainian glosses
 *** uk-s-1050590-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рекламний слоган

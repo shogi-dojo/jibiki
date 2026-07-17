@@ -1,19 +1,22 @@
 #+TITLE: 川
 #+JMDICT_ID: 1390020
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かわ
 #+ROMAJI: kawa
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1390020-001
 :PROPERTIES:
 :TEXT: 川
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 河
 :END:
-*** Information
 *** Priorities
 - news1
 - nf10
@@ -33,7 +35,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -46,13 +47,11 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1390020-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 5512d1df188b0aa80a24153e47d25c4d3e305b11029a5d74220fc4d2da5933eb
+:LEARNER_PRIORITY: primary
 :END:
 ** Applies to forms
 *** Written forms
@@ -62,67 +61,31 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1390020-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: river
-*** en-s-1390020-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: stream
+- river
+- stream
 ** Ukrainian glosses
 *** uk-s-1390020-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: річка
 *** uk-s-1390020-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: потік
 ** Russian reference
-*** ru-ref-1390020-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: река
+- 7 :: река
 ** Learner notes
 *** note-s-1390020-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Річка.
 - LEVEL :: beginner
@@ -130,11 +93,6 @@
 ** Examples
 *** ex-1390020-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -145,11 +103,6 @@
 - FOCUS :: 川
 *** ex-1390020-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -160,11 +113,6 @@
 - FOCUS :: 川で
 *** ex-1390020-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -179,49 +127,21 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 66d9caf58e74903cdfd649ca3ab4d845c11d5900fb1e0a06de5353eb4f0bbd57
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - suffix used with the names of rivers
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1390020-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: River
-*** en-s-1390020-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: the ... river
+- River
+- the ... river
 ** Ukrainian glosses
 *** uk-s-1390020-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ріка
 - qualifier :: суфікс у назвах річок

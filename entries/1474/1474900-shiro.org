@@ -1,19 +1,22 @@
 #+TITLE: 白
 #+JMDICT_ID: 1474900
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: しろ
 #+ROMAJI: shiro
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1474900-001
 :PROPERTIES:
 :TEXT: 白
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,79 +37,38 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 3cd824f0f5800449d895bde98e1a3484a7d442262dd300e6f2cade3f1c6e0b51
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: white
+- white
 ** Ukrainian glosses
 *** uk-s-1474900-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: білий
 *** uk-s-1474900-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: білий колір
 ** Russian reference
-*** ru-ref-1474900-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 25
-:END:
-- text :: 1) белое; белые (напр. о команде)
-*** ru-ref-1474900-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 25
-:END:
-- text :: 2) белый камешек (при игре в го)
-*** ru-ref-1474900-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 25
-:END:
-- text :: 3) невиновность
+- 25 :: 1) белое; белые (напр. о команде)
+- 25 :: 2) белый камешек (при игре в го)
+- 25 :: 3) невиновность
 ** Learner notes
 *** note-s-1474900-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Білий (іменник). Для позначення кольору використовується як іменник, а як прикметник — 白い (しろい).
 - LEVEL :: beginner
@@ -115,11 +76,6 @@
 ** Examples
 *** ex-1474900-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -130,11 +86,6 @@
 - FOCUS :: 白
 *** ex-1474900-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -145,11 +96,6 @@
 - FOCUS :: 白
 *** ex-1474900-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -164,48 +110,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 64ae5cfe40a51139bbb9afb41c343e4064502070aae31afc8874949c152787b6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: innocence
-*** en-s-1474900-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: innocent person
+- innocence
+- innocent person
 ** Ukrainian glosses
 *** uk-s-1474900-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: невинність
 
@@ -214,40 +131,18 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: b26632f8250ffc09bcd423e872d6d0531fc1c08bf5ce09392c09d62933fd3621
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: blank space
+- blank space
 ** Ukrainian glosses
 *** uk-s-1474900-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: порожнє місце
 
@@ -256,41 +151,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 112a000f847dfd838871c80bff02699ab23b2d1c8fdb5e0e8ba38a10a35738f7
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 *** Fields
 - go
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: white stone
+- white stone
 ** Ukrainian glosses
 *** uk-s-1474900-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: білий камінь
 
@@ -299,42 +173,22 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 953184a5b92df7a546767b8cb1d88d11c83e744dbcfafbbdbb4c22fdedcc56c3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 *** Fields
 - mahj
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 白・はく・4
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: white dragon tile
+- white dragon tile
 ** Ukrainian glosses
 *** uk-s-1474900-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: білий дракон
 - qualifier :: у маджонгу
@@ -344,40 +198,19 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 79c11f743780cd384a07b8b2076e97acccea0a3db6f7a8083c641f77604a614e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 *** Fields
 - food
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1474900-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: skewered grilled pig intestine
+- skewered grilled pig intestine
 ** Ukrainian glosses
 *** uk-s-1474900-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: смажена свиняча кишка

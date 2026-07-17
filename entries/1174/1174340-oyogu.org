@@ -1,19 +1,22 @@
 #+TITLE: 泳ぐ
 #+JMDICT_ID: 1174340
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: およぐ
 #+ROMAJI: oyogu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1174340-001
 :PROPERTIES:
 :TEXT: 泳ぐ
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1174340-001
 :PROPERTIES:
 :TEXT: およぐ
@@ -32,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -42,79 +43,38 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 462e02592788107bf758d67b0d364716a50568289ba4dd2ccaf1713ccdd866e2
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5g
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1174340-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to swim
+- to swim
 ** Ukrainian glosses
 *** uk-s-1174340-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: плавати
 *** uk-s-1174340-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пливти
 ** Russian reference
-*** ru-ref-1174340-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) плавать, плыть (о человеке); купаться (в реке, в море)
-*** ru-ref-1174340-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) идти неверной (нетвёрдой) походкой, идти пошатываясь
-*** ru-ref-1174340-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 3) благоденствовать
+- 17 :: 1) плавать, плыть (о человеке); купаться (в реке, в море)
+- 17 :: 2) идти неверной (нетвёрдой) походкой, идти пошатываясь
+- 17 :: 3) благоденствовать
 ** Learner notes
 *** note-s-1174340-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Плавати.
 - LEVEL :: beginner
@@ -122,11 +82,6 @@
 ** Examples
 *** ex-1174340-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -137,11 +92,6 @@
 - FOCUS :: 泳ぎます
 *** ex-1174340-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -152,11 +102,6 @@
 - FOCUS :: 泳ぐのが
 *** ex-1174340-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -171,41 +116,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: c1725a6794790025ab84b00d24e81afe337eaa7b9b68d821ceddc54c0da92fc4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5g
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1174340-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to struggle through (a crowd)
+- to struggle through (a crowd)
 ** Ukrainian glosses
 *** uk-s-1174340-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: продиратися
 - qualifier :: крізь натовп
@@ -215,60 +138,28 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: ca3d8b5d9192bbb162e2cd14c66ad7550783fe3a8182f085e253cb5d06bdee36
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5g
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1174340-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make one's way through the world
-*** en-s-1174340-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to get along (in life)
+- to make one's way through the world
+- to get along (in life)
 ** Ukrainian glosses
 *** uk-s-1174340-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пробиватися в житті
 *** uk-s-1174340-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: давати собі раду
 
@@ -277,59 +168,27 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 384e77f9fe65b186068063bcdc1df275d73e8efaa449a3c425f999d6bbd06fe2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5g
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1174340-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to totter
-*** en-s-1174340-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to lose one's balance
+- to totter
+- to lose one's balance
 ** Ukrainian glosses
 *** uk-s-1174340-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: хитатися
 *** uk-s-1174340-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: втрачати рівновагу

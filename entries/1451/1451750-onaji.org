@@ -1,19 +1,22 @@
 #+TITLE: 同じ
 #+JMDICT_ID: 1451750
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おなじ
 #+ROMAJI: onaji
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1451750-001
 :PROPERTIES:
 :TEXT: 同じ
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -37,8 +39,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
 ** Reading rd-1451750-003
 :PROPERTIES:
 :TEXT: おんなし
@@ -48,150 +48,70 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1451750-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 26a9d5933d7c4a05240534fbd400ae99d45614addcf116e6cf75080e500bf76c
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-f
 - adj-na
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1451750-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: same
-*** en-s-1451750-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: identical
-*** en-s-1451750-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: equal
-*** en-s-1451750-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: alike
-*** en-s-1451750-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: equivalent
+- same
+- identical
+- equal
+- alike
+- equivalent
 ** Ukrainian glosses
 *** uk-s-1451750-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: однаковий
 *** uk-s-1451750-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: той самий
 *** uk-s-1451750-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ідентичний
 *** uk-s-1451750-001-004
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рівний
 *** uk-s-1451750-001-005
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: схожий
 ** Russian reference
-*** ru-ref-1451750-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 1) одинаковый, такой же самый
-*** ru-ref-1451750-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: {…と～} такой же как…
-*** ru-ref-1451750-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 2) тот же
+- 14 :: 1) одинаковый, такой же самый
+- 14 :: {…と～} такой же как…
+- 14 :: 2) тот же
 ** Learner notes
 *** note-s-1451750-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Однаковий. Може використовуватися перед іменником без часток (напр. 同じ服), або як присудок (напр. 色が同じです).
 - LEVEL :: beginner
@@ -199,11 +119,6 @@
 ** Examples
 *** ex-1451750-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -214,11 +129,6 @@
 - FOCUS :: 同じ
 *** ex-1451750-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -229,11 +139,6 @@
 - FOCUS :: 同じです
 *** ex-1451750-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -248,94 +153,39 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: f1f698035b3a998af65595ec4afad28f93670d48ac8bafe63c2d402c6fda41eb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - as 同じ...なら
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1451750-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: anyway
-*** en-s-1451750-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: in any case
-*** en-s-1451750-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: if one must ...
-*** en-s-1451750-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: if one has to ...
-*** en-s-1451750-002-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: as long as ...
+- anyway
+- in any case
+- if one must ...
+- if one has to ...
+- as long as ...
 ** Ukrainian glosses
 *** uk-s-1451750-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: все одно
 *** uk-s-1451750-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: у будь-якому разі
 *** uk-s-1451750-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: якщо вже доводиться

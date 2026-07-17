@@ -1,12 +1,16 @@
 #+TITLE: 可愛い
 #+JMDICT_ID: 1577200
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かわいい
 #+ROMAJI: kawaii
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1577200-001
@@ -26,7 +30,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -40,7 +43,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1577200-003
 :PROPERTIES:
 :TEXT: カワイい
@@ -50,7 +52,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1577200-004
 :PROPERTIES:
 :TEXT: かわいーい
@@ -60,7 +61,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1577200-005
 :PROPERTIES:
 :TEXT: かわーい
@@ -70,7 +70,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1577200-006
 :PROPERTIES:
 :TEXT: かわえー
@@ -80,7 +79,6 @@
 - *
 *** Information
 - sk
-*** Priorities
 ** Reading rd-1577200-007
 :PROPERTIES:
 :TEXT: カワいい
@@ -90,123 +88,54 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1577200-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 41c67c50d5d198d786c365430165ea1d0e07bb5d20c932691f53728301cf6ec1
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1577200-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cute
-*** en-s-1577200-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: adorable
-*** en-s-1577200-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: charming
-*** en-s-1577200-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lovely
-*** en-s-1577200-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pretty
+- cute
+- adorable
+- charming
+- lovely
+- pretty
 ** Ukrainian glosses
 *** uk-s-1577200-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: милий
 *** uk-s-1577200-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чарівний
 *** uk-s-1577200-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гарненький
 ** Russian reference
-*** ru-ref-1577200-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 1) милый, славный; миловидный, хорошенький, прелестный
-*** ru-ref-1577200-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 2) крошечный, маленький
+- 14 :: 1) милый, славный; миловидный, хорошенький, прелестный
+- 14 :: 2) крошечный, маленький
 ** Learner notes
 *** note-s-1577200-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Прикметник на -い. Зазвичай пишеться каною (かわいい), а не ієрогліфами. Означальна форма стоїть перед іменником (かわいい犬), а сполучна — かわいくて.
 - LEVEL :: beginner
@@ -214,13 +143,8 @@
 ** Examples
 *** ex-1577200-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -231,13 +155,8 @@
 - FOCUS :: かわいい
 *** ex-1577200-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -248,13 +167,8 @@
 - FOCUS :: かわいい
 *** ex-1577200-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -269,87 +183,39 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: afeba0e2894609c1a8fe706d64fc6aa29e62d82d67a0d34a8348419fca3a990c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1577200-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dear
-*** en-s-1577200-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: precious
-*** en-s-1577200-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: darling
-*** en-s-1577200-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pet
+- dear
+- precious
+- darling
+- pet
 ** Ukrainian glosses
 *** uk-s-1577200-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дорогий
 *** uk-s-1577200-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: любий
 *** uk-s-1577200-002-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: коханий
 
@@ -358,87 +224,39 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: a65990bfa90c4a6c01ba727e8a33735ecbcce26cf51eff9f1f0a1a041ba114a2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1577200-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: innocent
-*** en-s-1577200-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: childlike
-*** en-s-1577200-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: childish
-*** en-s-1577200-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lovable
+- innocent
+- childlike
+- childish
+- lovable
 ** Ukrainian glosses
 *** uk-s-1577200-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: невинний
 *** uk-s-1577200-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дитячий
 *** uk-s-1577200-003-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: простодушний
 
@@ -447,68 +265,30 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 6c572dd542f5f54cc184e53badceb772b2a2ad23bbe9a273856abf9fba424e5d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1577200-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dainty
-*** en-s-1577200-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: little
-*** en-s-1577200-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tiny
+- dainty
+- little
+- tiny
 ** Ukrainian glosses
 *** uk-s-1577200-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: маленький
 *** uk-s-1577200-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: крихітний
 
@@ -517,62 +297,32 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: f07f779418c0b0498953e13e0d4ac1f7c8c4445560006cfb5b3c8af8ebc4205e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - uk
 - id
-*** Dialects
 *** Sense information
 - usu. as 自分の首が～, etc.
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1577200-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: precious to oneself
-*** en-s-1577200-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: dear (to one)
+- precious to oneself
+- dear (to one)
 ** Ukrainian glosses
 *** uk-s-1577200-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дорогий собі
 - qualifier :: ідіома; зазвичай як 自分の首が〜
 *** uk-s-1577200-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: власний

@@ -1,19 +1,22 @@
 #+TITLE: 木
 #+JMDICT_ID: 1534520
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: き
 #+ROMAJI: ki
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1534520-001
 :PROPERTIES:
 :TEXT: 木
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,8 +25,6 @@
 :PROPERTIES:
 :TEXT: 樹
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1534520-001
 :PROPERTIES:
 :TEXT: き
@@ -31,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -41,109 +41,42 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 0798a282c851260499fa33a11193ee43f68aa353bdf8a93085b102b860914e33
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1534520-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tree
-*** en-s-1534520-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: shrub
-*** en-s-1534520-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bush
+- tree
+- shrub
+- bush
 ** Ukrainian glosses
 *** uk-s-1534520-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дерево
 *** uk-s-1534520-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: кущ
 ** Russian reference
-*** ru-ref-1534520-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: дерево
-*** ru-ref-1534520-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 1) дерево, деревцо
-*** ru-ref-1534520-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: {～の} древесный
-*** ru-ref-1534520-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: {～のない} безлесный
-*** ru-ref-1534520-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 2) дерево, лес (как материал)
-*** ru-ref-1534520-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: 3) [деревянные] била (в яп. театре)
+- 12 :: дерево
+- 12 :: 1) дерево, деревцо
+- 12 :: {～の} древесный
+- 12 :: {～のない} безлесный
+- 12 :: 2) дерево, лес (как материал)
+- 12 :: 3) [деревянные] била (в яп. театре)
 ** Learner notes
 *** note-s-1534520-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Дерево (як рослина), кущ. Для деревини (матеріалу) також використовується це слово (див. наступне значення).
 - LEVEL :: beginner
@@ -151,11 +84,6 @@
 ** Examples
 *** ex-1534520-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -166,11 +94,6 @@
 - FOCUS :: 木
 *** ex-1534520-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -181,11 +104,6 @@
 - FOCUS :: 木
 *** ex-1534520-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -208,51 +126,24 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1534520-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: wood
-*** en-s-1534520-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: timber
+- wood
+- timber
 ** Ukrainian glosses
 *** uk-s-1534520-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: деревина
 *** uk-s-1534520-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: древесина
 
@@ -269,33 +160,17 @@
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - usu. written as 柝
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1534520-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: wooden clappers (signalling the beginning or end of a performance)
+- wooden clappers (signalling the beginning or end of a performance)
 ** Ukrainian glosses
 *** uk-s-1534520-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дерев'яні калатала
 - qualifier :: зазвичай пишеться 柝; сигналізують початок або кінець вистави

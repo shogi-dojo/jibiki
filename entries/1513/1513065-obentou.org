@@ -1,19 +1,22 @@
 #+TITLE: お弁当
 #+JMDICT_ID: 1513065
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おべんとう
 #+ROMAJI: obentou
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1513065-001
 :PROPERTIES:
 :TEXT: お弁当
 :END:
-*** Information
 *** Priorities
 - spec1
 ** Written form wf-1513065-002
@@ -22,7 +25,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1513065-001
 :PROPERTIES:
 :TEXT: おべんとう
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - spec1
 
@@ -38,32 +39,15 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 391199e898f864dcc8382e714863f50e729239321f2fd9cbc1bcf228ee589d18
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 弁当
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1513065-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bento
+- bento
 *** en-s-1513065-001-002
 :PROPERTIES:
 :LANG: eng
@@ -75,34 +59,23 @@
 ** Ukrainian glosses
 *** uk-s-1513065-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бенто
 *** uk-s-1513065-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: японський обід у коробці
 ** Learner notes
 *** note-s-1513065-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Бенто, коробка з обідом, обід із собою. Слово 弁当 часто вживається з ввічливим префіксом お.
 - LEVEL :: beginner
@@ -110,11 +83,6 @@
 ** Examples
 *** ex-1513065-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -125,11 +93,6 @@
 - FOCUS :: お弁当
 *** ex-1513065-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -140,11 +103,6 @@
 - FOCUS :: お弁当
 *** ex-1513065-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

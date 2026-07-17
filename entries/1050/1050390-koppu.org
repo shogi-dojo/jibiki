@@ -1,12 +1,16 @@
 #+TITLE: 洋杯
 #+JMDICT_ID: 1050390
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: コップ
 #+ROMAJI: koppu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1050390-001
@@ -15,14 +19,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1050390-002
 :PROPERTIES:
 :TEXT: 洋盃
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1050390-003
 :PROPERTIES:
 :TEXT: 骨杯
@@ -30,7 +32,6 @@
 *** Information
 - ateji
 - rK
-*** Priorities
 ** Reading rd-1050390-001
 :PROPERTIES:
 :TEXT: コップ
@@ -38,7 +39,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - gai1
 - ichi1
@@ -51,66 +51,32 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1050390-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: e7766d06303525047be0b0ecc47ad876e32a3ad93e017ceb8df3992a50011fb8
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1050390-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: glass (drinking vessel)
-*** en-s-1050390-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tumbler
+- glass (drinking vessel)
+- tumbler
 ** Ukrainian glosses
 *** uk-s-1050390-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: склянка
 ** Learner notes
 *** note-s-1050390-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Склянка. Зазвичай використовується для холодних напоїв.
 - LEVEL :: beginner
@@ -118,11 +84,6 @@
 ** Examples
 *** ex-1050390-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -133,11 +94,6 @@
 - FOCUS :: コップ
 *** ex-1050390-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -148,11 +104,6 @@
 - FOCUS :: コップ
 *** ex-1050390-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -167,11 +118,6 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: eabfb530b2774ac9fddf2cae231e77eb2e9b49dc15f3a81cdec9462c9b8cf4e4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
@@ -179,31 +125,17 @@
 - cards
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - also written as コツフ
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1050390-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cups (suit)
+- cups (suit)
 ** Ukrainian glosses
 *** uk-s-1050390-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чирва
 - qualifier :: масть

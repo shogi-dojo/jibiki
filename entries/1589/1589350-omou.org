@@ -1,19 +1,22 @@
 #+TITLE: 思う
 #+JMDICT_ID: 1589350
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おもう
 #+ROMAJI: omou
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1589350-001
 :PROPERTIES:
 :TEXT: 思う
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,43 +25,36 @@
 :PROPERTIES:
 :TEXT: 想う
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1589350-003
 :PROPERTIES:
 :TEXT: 憶う
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1589350-004
 :PROPERTIES:
 :TEXT: 念う
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1589350-005
 :PROPERTIES:
 :TEXT: 懐う
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1589350-006
 :PROPERTIES:
 :TEXT: 惟う
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1589350-007
 :PROPERTIES:
 :TEXT: 意う
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1589350-001
 :PROPERTIES:
 :TEXT: おもう
@@ -66,7 +62,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -76,140 +71,56 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 41baf40fffd8e0c4c121b1bd99a10df05d171f70a9b5a025162d075fde1c5c48
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 想う has connotations of heart-felt
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to think
-*** en-s-1589350-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to consider
-*** en-s-1589350-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to believe
-*** en-s-1589350-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to reckon
+- to think
+- to consider
+- to believe
+- to reckon
 ** Ukrainian glosses
 *** uk-s-1589350-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: думати
 *** uk-s-1589350-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вважати
 *** uk-s-1589350-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гадати
 ** Russian reference
-*** ru-ref-1589350-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: 1) ((тж.) 想う) думать
-*** ru-ref-1589350-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: 2) думать, полагать, считать
-*** ru-ref-1589350-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: 3) думать, хотеть, надеяться; (после формы желательного накл. и буд. вр.) хотеть, намереваться, собираться (делать что-л.)
-*** ru-ref-1589350-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: 4) ((тж.) 想う) думать, представлять себе
-*** ru-ref-1589350-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: 5) думать, беспокоиться, заботиться; любить
-*** ru-ref-1589350-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: думать
-*** ru-ref-1589350-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: считать
-*** ru-ref-1589350-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 40
-:END:
-- text :: полагать
+- 40 :: 1) ((тж.) 想う) думать
+- 40 :: 2) думать, полагать, считать
+- 40 :: 3) думать, хотеть, надеяться; (после формы желательного накл. и буд. вр.) хотеть, намереваться, собираться (делать что-л.)
+- 40 :: 4) ((тж.) 想う) думать, представлять себе
+- 40 :: 5) думать, беспокоиться, заботиться; любить
+- 40 :: думать
+- 40 :: считать
+- 40 :: полагать
 ** Learner notes
 *** note-s-1589350-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Думати, вважати. Найпоширеніше слово для вираження думки або припущення. Часто використовується у конструкції 〜と思う (я думаю, що...).
 - LEVEL :: beginner
@@ -217,11 +128,6 @@
 ** Examples
 *** ex-1589350-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -232,11 +138,6 @@
 - FOCUS :: 思います
 *** ex-1589350-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -247,11 +148,6 @@
 - FOCUS :: 思います
 *** ex-1589350-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -266,60 +162,28 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: d6cac53757c1b14558308c431776a7140469d47ad22d1067aa54d38d4742ae19
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to think (of doing)
-*** en-s-1589350-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to plan (to do)
+- to think (of doing)
+- to plan (to do)
 ** Ukrainian glosses
 *** uk-s-1589350-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мати намір
 *** uk-s-1589350-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: збиратися
 - qualifier :: щось зробити
@@ -329,79 +193,37 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 13a250ad1bbb25376cd5fd3519a502357f45feb52669dd4fd923a96b194c569d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to judge
-*** en-s-1589350-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to assess
-*** en-s-1589350-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to regard
+- to judge
+- to assess
+- to regard
 ** Ukrainian glosses
 *** uk-s-1589350-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: судити
 *** uk-s-1589350-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: оцінювати
 *** uk-s-1589350-003-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розцінювати
 
@@ -410,79 +232,37 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 5a82bb51383c7f48ac52a24b2d4e9cc35cea76fa918196aa64736974aba395a9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to imagine
-*** en-s-1589350-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to suppose
-*** en-s-1589350-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to dream
+- to imagine
+- to suppose
+- to dream
 ** Ukrainian glosses
 *** uk-s-1589350-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: уявляти
 *** uk-s-1589350-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: припускати
 *** uk-s-1589350-004-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мріяти
 
@@ -491,60 +271,28 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: d7972c9cfe4484a1b947a7de6bac0c669c327b3c59c393787decc27dafacf9a5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to expect
-*** en-s-1589350-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to look forward to
+- to expect
+- to look forward to
 ** Ukrainian glosses
 *** uk-s-1589350-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: очікувати
 *** uk-s-1589350-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сподіватися
 
@@ -553,87 +301,38 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 58b8bfbab6c9fdd23dd798fa31257b5309f605afc94d9b2e4e2e1914057df469
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to feel
-*** en-s-1589350-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be (in a state of mind)
-*** en-s-1589350-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to desire
-*** en-s-1589350-006-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to want
+- to feel
+- to be (in a state of mind)
+- to desire
+- to want
 ** Ukrainian glosses
 *** uk-s-1589350-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: почуватися
 *** uk-s-1589350-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бажати
 *** uk-s-1589350-006-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: хотіти
 
@@ -642,88 +341,39 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: c956914556224256f15328dd411273253494e3c5f8e873b4fe7465b732b6e1c1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to care (deeply) for
-*** en-s-1589350-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to yearn for
-*** en-s-1589350-007-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to worry about
-*** en-s-1589350-007-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to love
+- to care (deeply) for
+- to yearn for
+- to worry about
+- to love
 ** Ukrainian glosses
 *** uk-s-1589350-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піклуватися
 - qualifier :: глибоко про когось
 *** uk-s-1589350-007-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тужити
 *** uk-s-1589350-007-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: кохати
 
@@ -732,59 +382,27 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: becda63aea3423b7aac57a5f3de8d9eaa64879275fe714385f0bc4ab5767e9e9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5u
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589350-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to recall
-*** en-s-1589350-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to remember
+- to recall
+- to remember
 ** Ukrainian glosses
 *** uk-s-1589350-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: згадувати
 *** uk-s-1589350-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: пам'ятати

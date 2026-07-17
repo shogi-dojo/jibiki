@@ -1,19 +1,22 @@
 #+TITLE: 下
 #+JMDICT_ID: 1184140
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: した
 #+ROMAJI: shita
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1184140-001
 :PROPERTIES:
 :TEXT: 下
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1184140-001
@@ -23,7 +26,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -31,143 +33,54 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: ec80e14770ac6cef8724a5bae3a3e0909511ee6e3120e03b02dfca5f24320cfd
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: below
-*** en-s-1184140-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: down
-*** en-s-1184140-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: under
-*** en-s-1184140-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: younger (e.g. daughter)
+- below
+- down
+- under
+- younger (e.g. daughter)
 ** Ukrainian glosses
 *** uk-s-1184140-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: низ
 *** uk-s-1184140-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: під
 *** uk-s-1184140-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: знизу
 ** Russian reference
-*** ru-ref-1184140-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: 1): {～に} внизу
-*** ru-ref-1184140-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: {…の～に} под (чем-л.)
-*** ru-ref-1184140-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: {～から} снизу; из-под (чего-л.)
-*** ru-ref-1184140-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: {～へ} вниз; под[о] (что-л.)
-*** ru-ref-1184140-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: {～の} находящийся внизу, нижний; находящийся под (чем-л.)
-*** ru-ref-1184140-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: 2) (перен.:)
-*** ru-ref-1184140-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: {～の} низший; подчинённый
-*** ru-ref-1184140-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: Kは私より二つ下です K моложе меня на два года
-*** ru-ref-1184140-009
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 23
-:END:
-- text :: 3) (связ.:)
+- 23 :: 1): {～に} внизу
+- 23 :: {…の～に} под (чем-л.)
+- 23 :: {～から} снизу; из-под (чего-л.)
+- 23 :: {～へ} вниз; под[о] (что-л.)
+- 23 :: {～の} находящийся внизу, нижний; находящийся под (чем-л.)
+- 23 :: 2) (перен.:)
+- 23 :: {～の} низший; подчинённый
+- 23 :: Kは私より二つ下です K моложе меня на два года
+- 23 :: 3) (связ.:)
 ** Learner notes
 *** note-s-1184140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Під, низ.
 - LEVEL :: beginner
@@ -175,11 +88,6 @@
 ** Examples
 *** ex-1184140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -190,11 +98,6 @@
 - FOCUS :: 下
 *** ex-1184140-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -205,11 +108,6 @@
 - FOCUS :: 下
 *** ex-1184140-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -224,40 +122,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 9e239f60b4eb1e864b14cd145d149a5c1e4029365f5a45fb5ec571725a42dd64
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bottom
+- bottom
 ** Ukrainian glosses
 *** uk-s-1184140-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дно
 
@@ -266,48 +142,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: f22755ced2cd232c546d8e33f4a1b343b4f8dd62ff6f6d264fc771bd9ffd8fdd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: beneath
-*** en-s-1184140-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: underneath
+- beneath
+- underneath
 ** Ukrainian glosses
 *** uk-s-1184140-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: під чимось
 
@@ -316,49 +163,21 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: cb7845e17d469b0905a40da55c1d4bdbda18e92616aa3b0cced2b71e164fbdc5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - as 下から, 下より, etc.
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: just after
-*** en-s-1184140-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: right after
+- just after
+- right after
 ** Ukrainian glosses
 *** uk-s-1184140-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відразу після
 
@@ -367,49 +186,20 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 6d97a480539060061fa8981369f1cdf3e7d760db2d4e74ec7c28dd55ce8152c4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: inferiority
-*** en-s-1184140-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: one's inferior (i.e. one's junior)
+- inferiority
+- one's inferior (i.e. one's junior)
 ** Ukrainian glosses
 *** uk-s-1184140-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нижчий
 - qualifier :: за статусом, віком
@@ -419,41 +209,20 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: dd74f1648d71cad934a4338f93cf4ca5901097c576f64b789501527d9b98ca4c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 下取り
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: trade-in
+- trade-in
 ** Ukrainian glosses
 *** uk-s-1184140-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: обмін з доплатою
 
@@ -462,48 +231,20 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 5f8891da71e7ebeb140cb6ddc0fc2e97aee8b899bcbd8f25e8064caa101efd6f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n-pref
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 下準備
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184140-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: preliminary
-*** en-s-1184140-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: preparatory
+- preliminary
+- preparatory
 ** Ukrainian glosses
 *** uk-s-1184140-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: попередній

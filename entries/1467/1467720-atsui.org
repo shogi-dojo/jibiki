@@ -1,20 +1,22 @@
 #+TITLE: 熱い
 #+JMDICT_ID: 1467720
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あつい
 #+ROMAJI: atsui
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1467720-001
 :PROPERTIES:
 :TEXT: 熱い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -26,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -40,70 +41,35 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1467720-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 0095b1bf5d4bf60fe8aa1abea272a76ffff6cea4234575facc6d229113fa1482
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
 *** Antonyms
 - 冷たい・1
-*** Language sources
 ** English glosses
-*** en-s-1467720-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hot (to the touch)
+- hot (to the touch)
 ** Ukrainian glosses
 *** uk-s-1467720-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гарячий
 - qualifier :: на дотик
 ** Russian reference
-*** ru-ref-1467720-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 20
-:END:
-- text :: 1) горячий
-*** ru-ref-1467720-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 20
-:END:
-- text :: 2) (прост.) пылкий (в чём-л.)
+- 20 :: 1) горячий
+- 20 :: 2) (прост.) пылкий (в чём-л.)
 ** Learner notes
 *** note-s-1467720-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Гарячий (на дотик). Використовується для речей (напр. чай, суп). Для погоди використовується 暑い.
 - LEVEL :: beginner
@@ -111,11 +77,6 @@
 ** Examples
 *** ex-1467720-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -126,11 +87,6 @@
 - FOCUS :: 熱い
 *** ex-1467720-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -141,11 +97,6 @@
 - FOCUS :: 熱いです
 *** ex-1467720-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -160,69 +111,31 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 9122ddc41ae96737177033c1691e6e602965ce7b6cab1737580d1aa08ae6a70a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
 *** Antonyms
 - 冷たい・2
-*** Language sources
 ** English glosses
-*** en-s-1467720-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: passionate (feelings, etc.)
-*** en-s-1467720-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: ardent
-*** en-s-1467720-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hot (e.g. gaze)
+- passionate (feelings, etc.)
+- ardent
+- hot (e.g. gaze)
 ** Ukrainian glosses
 *** uk-s-1467720-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: палкий
 - qualifier :: про почуття
 *** uk-s-1467720-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гарячий
 - qualifier :: про погляд
@@ -232,40 +145,18 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: e9cc58997d1f9298853887d9027d50d55b975d9de8cb8bc2c3050967e751ea5f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1467720-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hot (e.g. temper)
+- hot (e.g. temper)
 ** Ukrainian glosses
 *** uk-s-1467720-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гарячий
 - qualifier :: про характер
@@ -275,67 +166,28 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: e7420c586fb3e8b067296847fad6436ba11d2fedf9496d5611d277cf192e2cca
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1467720-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: zealous
-*** en-s-1467720-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: enthusiastic
-*** en-s-1467720-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: fired up
+- zealous
+- enthusiastic
+- fired up
 ** Ukrainian glosses
 *** uk-s-1467720-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: завзятий
 *** uk-s-1467720-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: запальний
 
@@ -344,56 +196,20 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 521a097c19cd1a6f5ffdcc06f1e6e47be327ed2b1a7f1bf82300532855561498
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1467720-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: intense
-*** en-s-1467720-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: severe
-*** en-s-1467720-005-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: extreme
+- intense
+- severe
+- extreme
 ** Ukrainian glosses
 *** uk-s-1467720-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сильний
 - qualifier :: про відчуття
@@ -403,47 +219,18 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: e10c241e9491ceb3d1054e6a764494c12a2036fb4093dd8962dced87aa8285c2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1467720-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hot (topic)
-*** en-s-1467720-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: of interest
+- hot (topic)
+- of interest
 ** Ukrainian glosses
 *** uk-s-1467720-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: гаряча тема

@@ -1,19 +1,22 @@
 #+TITLE: 下さい
 #+JMDICT_ID: 1184270
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ください
 #+ROMAJI: kudasai
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1184270-001
 :PROPERTIES:
 :TEXT: 下さい
 :END:
-*** Information
 *** Priorities
 - news1
 - nf13
@@ -24,7 +27,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - news1
 - nf13
@@ -33,56 +35,33 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 7be96412f125590b1a8933aed410c78a82e0f7de1286b34122fe0200d722a8f5
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - exp
-*** Fields
 *** Miscellaneous and register
 - uk
 - hon
-*** Dialects
 *** Sense information
 - irregular imperative of くださる
 *** Cross-references
 - くださる・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184270-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: please (give me)
+- please (give me)
 ** Ukrainian glosses
 *** uk-s-1184270-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: будь ласка
 - qualifier :: дайте мені
 ** Learner notes
 *** note-s-1184270-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Будь ласка. Використовується при проханнях (дайте мені або зробіть для мене).
 - LEVEL :: beginner
@@ -90,11 +69,6 @@
 ** Examples
 *** ex-1184270-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -105,11 +79,6 @@
 - FOCUS :: 下さい
 *** ex-1184270-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -120,11 +89,6 @@
 - FOCUS :: 下さい
 *** ex-1184270-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -139,43 +103,23 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 051c2083746ec3bda9117258f67f77bbda8e0537a60dda926439729b86e800bc
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - exp
-*** Fields
 *** Miscellaneous and register
 - uk
 - hon
-*** Dialects
 *** Sense information
 - after te-form of a verb or a noun prefixed with o- or go-
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1184270-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: please (do for me)
+- please (do for me)
 ** Ukrainian glosses
 *** uk-s-1184270-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: будь ласка
 - qualifier :: зробіть для мене

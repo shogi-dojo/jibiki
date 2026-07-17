@@ -1,19 +1,22 @@
 #+TITLE: 売る
 #+JMDICT_ID: 1473950
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うる
 #+ROMAJI: uru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1473950-001
 :PROPERTIES:
 :TEXT: 売る
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,63 +37,29 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: aefc30b89052bd91aed0cc5c191dd7b22d28d6a31566660076047c316c47a799
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473950-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to sell
+- to sell
 ** Ukrainian glosses
 *** uk-s-1473950-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: продавати
 ** Russian reference
-*** ru-ref-1473950-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 1) продавать
-*** ru-ref-1473950-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 2) предавать (напр. друга); изменять (напр. родине)
+- 15 :: 1) продавать
+- 15 :: 2) предавать (напр. друга); изменять (напр. родине)
 ** Learner notes
 *** note-s-1473950-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Продавати.
 - LEVEL :: beginner
@@ -99,11 +67,6 @@
 ** Examples
 *** ex-1473950-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -114,11 +77,6 @@
 - FOCUS :: 売りました
 *** ex-1473950-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -129,11 +87,6 @@
 - FOCUS :: 売って
 *** ex-1473950-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -148,62 +101,31 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 6d075e00e13b57bcca932d8a22b6518a572356ae1c986c56059d62cc7966bc7b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 国を売る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473950-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to betray
-*** en-s-1473950-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to sell out (one's friend, country, etc.)
+- to betray
+- to sell out (one's friend, country, etc.)
 ** Ukrainian glosses
 *** uk-s-1473950-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зраджувати
 - qualifier :: друга, країну тощо
 *** uk-s-1473950-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: продавати
 - qualifier :: когось
@@ -213,61 +135,30 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 366952a3b65a210b20de16e98f2c1653c3bfbf7676b5a662414655e6f45531fc
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 名を売る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473950-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make (oneself) known
-*** en-s-1473950-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to establish (a reputation) for oneself
+- to make (oneself) known
+- to establish (a reputation) for oneself
 ** Ukrainian glosses
 *** uk-s-1473950-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити собі ім'я
 *** uk-s-1473950-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: здобувати репутацію
 
@@ -276,70 +167,32 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 46387172d8d076bc31c2b565980e8bae3dba37f567bdceb4bcd381a548de4bdf
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 喧嘩を売る
 - 恩を売る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1473950-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pick (a fight, quarrel, etc.)
-*** en-s-1473950-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to provoke
-*** en-s-1473950-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to force on someone
+- to pick (a fight, quarrel, etc.)
+- to provoke
+- to force on someone
 ** Ukrainian glosses
 *** uk-s-1473950-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: провокувати
 - qualifier :: сварку, бійку
 *** uk-s-1473950-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нав'язувати

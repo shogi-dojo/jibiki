@@ -1,19 +1,22 @@
 #+TITLE: 兄弟
 #+JMDICT_ID: 1249960
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: きょうだい
 #+ROMAJI: kyoudai
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1249960-001
 :PROPERTIES:
 :TEXT: 兄弟
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,71 +37,31 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 5d305e9a88757fbd3a0765be565de5bb94ae199556de409bd0bf253daf58fcf4
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - ご兄弟
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1249960-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: brothers and sisters
-*** en-s-1249960-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: siblings
+- brothers and sisters
+- siblings
 ** Ukrainian glosses
 *** uk-s-1249960-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: брати і сестри
 ** Russian reference
-*** ru-ref-1249960-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 13
-:END:
-- text :: брат; братья; собратья; ((тж.) 姉妹) сестра; сёстры
-*** ru-ref-1249960-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 13
-:END:
-- text :: {～の} братский; сестринский
+- 13 :: брат; братья; собратья; ((тж.) 姉妹) сестра; сёстры
+- 13 :: {～の} братский; сестринский
 ** Learner notes
 *** note-s-1249960-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Брати і сестри. Використовується як загальний термін для рідних братів і сестер, незалежно від їхньої статі.
 - LEVEL :: beginner
@@ -107,11 +69,6 @@
 ** Examples
 *** ex-1249960-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -122,11 +79,6 @@
 - FOCUS :: 兄弟
 *** ex-1249960-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -137,11 +89,6 @@
 - FOCUS :: 兄弟
 *** ex-1249960-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -156,56 +103,20 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 36b68a7230b2b14c8b2ebbb812896dc7dff01dfbbc1beda3aab0e7522f9b5e5f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1249960-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: half-siblings
-*** en-s-1249960-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: step-siblings
-*** en-s-1249960-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: siblings by marriage or adoption
+- half-siblings
+- step-siblings
+- siblings by marriage or adoption
 ** Ukrainian glosses
 *** uk-s-1249960-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зведені брати і сестри
 
@@ -214,60 +125,29 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 10c4071c61dc990cd3512a4374255fc11c1a7adf108640e603fe242d7270ba66
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - fam
 - male
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1249960-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mate
-*** en-s-1249960-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: friend
+- mate
+- friend
 ** Ukrainian glosses
 *** uk-s-1249960-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: товариш
 *** uk-s-1249960-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: друг

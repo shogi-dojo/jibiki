@@ -1,26 +1,28 @@
 #+TITLE: 聞く
 #+JMDICT_ID: 1591110
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: きく
 #+ROMAJI: kiku
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1591110-001
 :PROPERTIES:
 :TEXT: 聞く
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1591110-002
 :PROPERTIES:
 :TEXT: 聴く
 :END:
-*** Information
 *** Priorities
 - spec1
 ** Reading rd-1591110-001
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - spec1
@@ -39,93 +40,35 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: a8770234e5a2280344a11b789beb81c39557e7976b1e8abe50570bd0396488cd
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hear
+- to hear
 ** Ukrainian glosses
 *** uk-s-1591110-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чути
 ** Russian reference
-*** ru-ref-1591110-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: слушать
-*** ru-ref-1591110-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: слышать
-*** ru-ref-1591110-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: спрашивать
-*** ru-ref-1591110-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 1) слышать; слушать, выслушивать
-*** ru-ref-1591110-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: (ср.) きかれる【聞かれる】, きかす【聞かす】
-*** ru-ref-1591110-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 2) слышать, узнавать
-*** ru-ref-1591110-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 3) спрашивать, осведомляться, узнавать
-*** ru-ref-1591110-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 4) слушать[ся]; следовать (совету), внимать (просьбе), соглашаться (с требованием)
+- 18 :: слушать
+- 18 :: слышать
+- 18 :: спрашивать
+- 18 :: 1) слышать; слушать, выслушивать
+- 18 :: (ср.) きかれる【聞かれる】, きかす【聞かす】
+- 18 :: 2) слышать, узнавать
+- 18 :: 3) спрашивать, осведомляться, узнавать
+- 18 :: 4) слушать[ся]; следовать (совету), внимать (просьбе), соглашаться (с требованием)
 ** Learner notes
 *** note-s-1591110-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Чути, слухати, запитувати. Дуже поширене дієслово з кількома основними значеннями залежно від контексту.
 - LEVEL :: beginner
@@ -133,11 +76,6 @@
 ** Examples
 *** ex-1591110-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -148,11 +86,6 @@
 - FOCUS :: 聞きます
 *** ex-1591110-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -163,11 +96,6 @@
 - FOCUS :: 聞きましょう
 *** ex-1591110-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -182,42 +110,21 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: b3904e38acf60a58feeab19207816381322c4522b753541fafe7192aedc8ad34
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 聴く
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to listen (e.g. to music)
+- to listen (e.g. to music)
 ** Ukrainian glosses
 *** uk-s-1591110-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: слухати
 - qualifier :: напр. музику
@@ -227,69 +134,31 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: a7e9e22c1a6558a37f2a98a0e2ec683dd1f4fc18aece603763a5ad43d5eaed77
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 聴く is used in legal and official contexts
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to ask
-*** en-s-1591110-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to enquire
-*** en-s-1591110-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to query
+- to ask
+- to enquire
+- to query
 ** Ukrainian glosses
 *** uk-s-1591110-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: запитувати
 *** uk-s-1591110-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дізнаватися
 
@@ -298,69 +167,30 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: fe3a2e0179b66c6e81437ab196b6cba171e6d9a7dac9eba41f0dd8d683ade096
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hear about
-*** en-s-1591110-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hear of
-*** en-s-1591110-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to learn of
+- to hear about
+- to hear of
+- to learn of
 ** Ukrainian glosses
 *** uk-s-1591110-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чути
 - qualifier :: про щось
 *** uk-s-1591110-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дізнаватися
 
@@ -369,77 +199,31 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 0c899802c7d859442efc9c74f9aeb0eb1444f631ea61c466e00e794160025178
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to follow (advice, order, etc.)
-*** en-s-1591110-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to obey
-*** en-s-1591110-005-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to listen to
-*** en-s-1591110-005-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to comply with
+- to follow (advice, order, etc.)
+- to obey
+- to listen to
+- to comply with
 ** Ukrainian glosses
 *** uk-s-1591110-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: слухатися
 - qualifier :: поради, наказу
 *** uk-s-1591110-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прислухатися
 
@@ -448,77 +232,31 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: de55d3a2bf52a9f99e03d9d4555746b892dd78a6eb48352024907eaeb7341bbd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hear (e.g. a plea)
-*** en-s-1591110-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to grant (a request)
-*** en-s-1591110-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to accept (e.g. an argument)
-*** en-s-1591110-006-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to give consideration to
+- to hear (e.g. a plea)
+- to grant (a request)
+- to accept (e.g. an argument)
+- to give consideration to
 ** Ukrainian glosses
 *** uk-s-1591110-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прислухатися
 - qualifier :: до прохання
 *** uk-s-1591110-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: задовольняти
 - qualifier :: прохання
@@ -528,50 +266,22 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 8ca86da61c867da967705e40961be0cf81d3a4bc35d326eabbf58bfc58bdfe11
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 香を聞く
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to smell (esp. incense)
-*** en-s-1591110-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to sample (a fragrance)
+- to smell (esp. incense)
+- to sample (a fragrance)
 ** Ukrainian glosses
 *** uk-s-1591110-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нюхати
 - qualifier :: особливо пахощі
@@ -581,61 +291,30 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 68999adf7804fb1bce03f4833769bebdcfa9525eca80ac301f858a4b7227007e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5k
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also 利く
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1591110-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to taste (alcohol)
-*** en-s-1591110-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to try
+- to taste (alcohol)
+- to try
 ** Ukrainian glosses
 *** uk-s-1591110-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: куштувати
 - qualifier :: алкоголь
 *** uk-s-1591110-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: дегустувати

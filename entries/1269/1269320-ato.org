@@ -1,20 +1,22 @@
 #+TITLE: 後
 #+JMDICT_ID: 1269320
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あと
 #+ROMAJI: ato
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1269320-001
 :PROPERTIES:
 :TEXT: 後
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -26,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -36,151 +37,48 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 6db9c36b9d8135a68de6f56e5bd1bc35ba55c615c9477d4644ab554449606dcd
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 後ずさり
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: behind
-*** en-s-1269320-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: rear
+- behind
+- rear
 ** Ukrainian glosses
 *** uk-s-1269320-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: позаду
 ** Russian reference
-*** ru-ref-1269320-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 1) позади
-*** ru-ref-1269320-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～から} сзади (при движении)
-*** ru-ref-1269320-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {…の～に} за (чем-л.), позади (чего-л.)
-*** ru-ref-1269320-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～の} а) задний, последний; б) следующий
-*** ru-ref-1269320-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～へ} назад
-*** ru-ref-1269320-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～になる} остаться позади, отстать
-*** ru-ref-1269320-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 2) раньше (на какое-л. время)
-*** ru-ref-1269320-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 3): {～で} после, затем
-*** ru-ref-1269320-009
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～から} потом, позже
-*** ru-ref-1269320-010
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 4) следующее
-*** ru-ref-1269320-011
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: {～の} следующий
-*** ru-ref-1269320-012
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 5) последующее, будущее
-*** ru-ref-1269320-013
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 6) последствия
-*** ru-ref-1269320-014
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 7) остальное, остаток
-*** ru-ref-1269320-015
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 8) потомок
-*** ru-ref-1269320-016
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 9) преемник
-*** ru-ref-1269320-017
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: A氏が私の後へすわる меня заменит (моим преемником будет) г-н А
-*** ru-ref-1269320-018
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 28
-:END:
-- text :: 10) (связ.) после смерти
+- 28 :: 1) позади
+- 28 :: {～から} сзади (при движении)
+- 28 :: {…の～に} за (чем-л.), позади (чего-л.)
+- 28 :: {～の} а) задний, последний; б) следующий
+- 28 :: {～へ} назад
+- 28 :: {～になる} остаться позади, отстать
+- 28 :: 2) раньше (на какое-л. время)
+- 28 :: 3): {～で} после, затем
+- 28 :: {～から} потом, позже
+- 28 :: 4) следующее
+- 28 :: {～の} следующий
+- 28 :: 5) последующее, будущее
+- 28 :: 6) последствия
+- 28 :: 7) остальное, остаток
+- 28 :: 8) потомок
+- 28 :: 9) преемник
+- 28 :: A氏が私の後へすわる меня заменит (моим преемником будет) г-н А
+- 28 :: 10) (связ.) после смерти
 ** Learner notes
 *** note-s-1269320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Позаду, після, потім.
@@ -189,11 +87,6 @@
 ** Examples
 *** ex-1269320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -204,11 +97,6 @@
 - FOCUS :: 後
 *** ex-1269320-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -219,11 +107,6 @@
 - FOCUS :: 後で
 *** ex-1269320-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -238,61 +121,30 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 11250be8af33c0787d8f6154d45a6a909c92025b9ef0a008497b8b6416ccde9e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - その後
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: after
-*** en-s-1269320-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: later
+- after
+- later
 ** Ukrainian glosses
 *** uk-s-1269320-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: після
 *** uk-s-1269320-002-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: потім
 
@@ -301,60 +153,28 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 46dbcffec8bc72466ce18713fdf380ea78d99185ab84142980cc78bc67fce3dd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: remainder
-*** en-s-1269320-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: the rest
+- remainder
+- the rest
 ** Ukrainian glosses
 *** uk-s-1269320-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: решта
 *** uk-s-1269320-003-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: залишок
 
@@ -363,49 +183,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: b90f6326a4f2b74b4075fd12464b8c69b04f103a32241c0d284de2e06ccd3c53
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: more (e.g. five more minutes)
-*** en-s-1269320-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: left
+- more (e.g. five more minutes)
+- left
 ** Ukrainian glosses
 *** uk-s-1269320-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ще
 - qualifier :: напр. ще п'ять хвилин
@@ -415,60 +206,28 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 59263eeb587e76c2d7c769c8e44f249df63f3877bb74b9a18c52179a699c078f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: also
-*** en-s-1269320-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: in addition
+- also
+- in addition
 ** Ukrainian glosses
 *** uk-s-1269320-005-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: також
 *** uk-s-1269320-005-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: на додаток
 
@@ -477,68 +236,29 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 92d8f8d70d13a0176cf7972c978c9ae33a6dd856011737a9aff7f1480b1294a9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: descendant
-*** en-s-1269320-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: successor
-*** en-s-1269320-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: heir
+- descendant
+- successor
+- heir
 ** Ukrainian glosses
 *** uk-s-1269320-006-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нащадок
 *** uk-s-1269320-006-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спадкоємець
 
@@ -547,41 +267,19 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 264d08fe4aa71cb2cb7422379b97fe1aefcf2b35e3298cc2ca3cdf06c4c8586c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: after one's death
+- after one's death
 ** Ukrainian glosses
 *** uk-s-1269320-007-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: після чиєїсь смерти
 
@@ -590,49 +288,21 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 24ca6309a8d8fe953ddb2c6143defb043fe76150101322cf5e987b2e30b75127
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adj-no
-*** Fields
 *** Miscellaneous and register
 - arch
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1269320-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: past
-*** en-s-1269320-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: previous
+- past
+- previous
 ** Ukrainian glosses
 *** uk-s-1269320-008-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: минуле

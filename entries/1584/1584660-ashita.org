@@ -1,20 +1,22 @@
 #+TITLE: 明日
 #+JMDICT_ID: 1584660
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あした
 #+ROMAJI: ashita
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1584660-001
 :PROPERTIES:
 :TEXT: 明日
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -48,7 +50,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -58,82 +59,33 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: ca828660724e789e2ace04790e2d6f2c7285309d39144422fa4451cd16ffe5c8
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584660-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tomorrow
+- tomorrow
 ** Ukrainian glosses
 *** uk-s-1584660-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: завтра
 ** Russian reference
-*** ru-ref-1584660-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: завтрашний день; завтра
-*** ru-ref-1584660-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: (ср.) あす
-*** ru-ref-1584660-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: завтра
-*** ru-ref-1584660-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: (ср.) あした【明日】
-*** ru-ref-1584660-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: 1. завтрашний день
-*** ru-ref-1584660-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: 2. завтра
+- 9 :: завтрашний день; завтра
+- 9 :: (ср.) あす
+- 9 :: завтра
+- 9 :: (ср.) あした【明日】
+- 9 :: 1. завтрашний день
+- 9 :: 2. завтра
 ** Learner notes
 *** note-s-1584660-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Завтра. У розмовному мовленні читається як あした. Інше читання, あす, є трохи більш формальним або поетичним. В офіційному мовленні ієрогліфи 明日 читаються як みょうにち.
@@ -142,11 +94,6 @@
 ** Examples
 *** ex-1584660-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -157,11 +104,6 @@
 - FOCUS :: 明日
 *** ex-1584660-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -172,11 +114,6 @@
 - FOCUS :: 明日
 *** ex-1584660-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: formal
 :END:
@@ -200,31 +137,14 @@
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584660-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: near future
+- near future
 ** Ukrainian glosses
 *** uk-s-1584660-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: найближче майбутнє

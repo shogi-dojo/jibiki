@@ -1,20 +1,22 @@
 #+TITLE: 青い
 #+JMDICT_ID: 1381390
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あおい
 #+ROMAJI: aoi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-3
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1381390-001
 :PROPERTIES:
 :TEXT: 青い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -23,15 +25,12 @@
 :PROPERTIES:
 :TEXT: 蒼い
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1381390-003
 :PROPERTIES:
 :TEXT: 碧い
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1381390-001
 :PROPERTIES:
 :TEXT: あおい
@@ -39,7 +38,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -49,76 +47,36 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 928385ac6f3f7631e49b0ea54e2448ef7e1166ab2eac0f788d4a3e148f00e011
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381390-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: blue
-*** en-s-1381390-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: azure
+- blue
+- azure
 ** Ukrainian glosses
 *** uk-s-1381390-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: синій
 *** uk-s-1381390-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: блакитний
 ** Russian reference
-*** ru-ref-1381390-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 16
-:END:
-- text :: 1) ((тж.) 蒼い) синий, голубой
+- 16 :: 1) ((тж.) 蒼い) синий, голубой
 ** Learner notes
 *** note-s-1381390-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: codex-agent-3
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Прикметник い-типу. Описує синій або блакитний колір: 青い空 (синє небо), 青い海 (синє море). Як і з іменником 青, деякі зелені об'єкти традиційно називають 青い: наприклад, 青いリンゴ (зелене яблуко).
 - LEVEL :: beginner
@@ -126,13 +84,8 @@
 ** Examples
 *** ex-1381390-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-3
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -147,51 +100,25 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 29bb0861e196c6eb4ab139c4a9f2385ab59dcfb1576211de0c437d98d27491dc
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - mostly archaic or in ref. to fruits, vegetables and traffic lights
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381390-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: green
+- green
 ** Ukrainian glosses
 *** uk-s-1381390-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зелений
 - qualifier :: здебільшого застаріле; у сучасній мові вживається щодо фруктів, овочів і зеленого сигналу світлофора
 ** Russian reference
-*** ru-ref-1381390-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 16
-:END:
-- text :: 2) зелёный; (ср.) みどり
-
+- 16 :: 2) зелёный; (ср.) みどり
 * Sense s-1381390-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -206,60 +133,26 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381390-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pale (facial color)
-*** en-s-1381390-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: gray
-*** en-s-1381390-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: grey
+- pale (facial color)
+- gray
+- grey
 ** Ukrainian glosses
 *** uk-s-1381390-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: блідий
 - qualifier :: про колір обличчя
 *** uk-s-1381390-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сірий
 - qualifier :: про колір обличчя
@@ -278,58 +171,27 @@
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381390-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: unripe
-*** en-s-1381390-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: inexperienced
+- unripe
+- inexperienced
 ** Ukrainian glosses
 *** uk-s-1381390-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: незрілий
 - qualifier :: про плоди; пряме значення
 *** uk-s-1381390-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: недосвідчений
 - qualifier :: про людину; переносне значення
 ** Russian reference
-*** ru-ref-1381390-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 16
-:END:
-- text :: 3) зелёный, незрелый
+- 16 :: 3) зелёный, незрелый

@@ -1,19 +1,22 @@
 #+TITLE: 買い物
 #+JMDICT_ID: 1589730
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かいもの
 #+ROMAJI: kaimono
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1589730-001
 :PROPERTIES:
 :TEXT: 買い物
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 買物
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1589730-003
@@ -31,14 +33,12 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1589730-004
 :PROPERTIES:
 :TEXT: 買いもん
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1589730-001
 :PROPERTIES:
 :TEXT: かいもの
@@ -46,7 +46,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -58,105 +57,46 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1589730-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 0123d0e30bfd935e6a04bcdfbf4fd76e69017687653a0cec81efb165dc10900d
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - vs
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1589730-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: shopping
-*** en-s-1589730-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: purchased goods
+- shopping
+- purchased goods
 ** Ukrainian glosses
 *** uk-s-1589730-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: покупки
 *** uk-s-1589730-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: придбані товари
 ** Russian reference
-*** ru-ref-1589730-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: покупки
-*** ru-ref-1589730-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 1) покупка (действие)
-*** ru-ref-1589730-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～をする} делать покупки
-*** ru-ref-1589730-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 2) покупка (купленная вещь)
-*** ru-ref-1589730-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 3) выгодная сделка
+- 6 :: покупки
+- 6 :: 1) покупка (действие)
+- 6 :: {～をする} делать покупки
+- 6 :: 2) покупка (купленная вещь)
+- 6 :: 3) выгодная сделка
 ** Learner notes
 *** note-s-1589730-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Покупки. З дієсловом する означає "робити покупки" (買い物をする). Часто використовується з дієсловом 行く: 買い物に行く (йти за покупками).
 - LEVEL :: beginner
@@ -164,11 +104,6 @@
 ** Examples
 *** ex-1589730-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -179,11 +114,6 @@
 - FOCUS :: 買い物
 *** ex-1589730-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -194,11 +124,6 @@
 - FOCUS :: 買い物
 *** ex-1589730-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

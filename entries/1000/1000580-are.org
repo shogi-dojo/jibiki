@@ -1,12 +1,16 @@
 #+TITLE: 彼
 #+JMDICT_ID: 1000580
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あれ
 #+ROMAJI: are
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1000580-001
@@ -15,14 +19,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1000580-002
 :PROPERTIES:
 :TEXT: 彼れ
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1000580-001
 :PROPERTIES:
 :TEXT: あれ
@@ -30,7 +32,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1000580-002
@@ -42,92 +43,49 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1000580-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: e79739690a9d6c327c62c9aa821914cbb3ef9dbee8a9c2a33ccd49b63defab09
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly
 *** Cross-references
 - これ・1
 - それ・1
 - どれ・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: that
-*** en-s-1000580-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: that thing
+- that
+- that thing
 ** Ukrainian glosses
 *** uk-s-1000580-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: те
 *** uk-s-1000580-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: та річ
 ** Russian reference
-*** ru-ref-1000580-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 1) [вон] то; это
-*** ru-ref-1000580-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 14
-:END:
-- text :: 2) (прост.) он, она
+- 14 :: 1) [вон] то; это
+- 14 :: 2) (прост.) он, она
 ** Learner notes
 *** note-s-1000580-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Вказівний займенник, який вказує на предмет, віддалений як від мовця, так і від співрозмовника.
 - LEVEL :: beginner
@@ -135,11 +93,6 @@
 ** Examples
 *** ex-1000580-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -150,11 +103,6 @@
 - FOCUS :: あれは
 *** ex-1000580-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -165,11 +113,6 @@
 - FOCUS :: あれは
 *** ex-1000580-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -184,42 +127,22 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 82161445a8996f6baada2f960d9626eb038a7c7272fe03752f160a03359abb44
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - used to refer to one's equals or inferiors
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: that person
+- that person
 ** Ukrainian glosses
 *** uk-s-1000580-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: та людина
 
@@ -228,60 +151,29 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 31de513f7812b94579fa3eaf61ae4ae0a31ee528b06ea3ef0fc957f7f35311f3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: then
-*** en-s-1000580-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: that time
+- then
+- that time
 ** Ukrainian glosses
 *** uk-s-1000580-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тоді
 *** uk-s-1000580-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: той час
 
@@ -290,41 +182,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: cb1ba7b48d5f6372cdfc44d204a5357f0b9c85440b818f38abfeef185b769c93
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - pn
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: that place (over there)
+- that place (over there)
 ** Ukrainian glosses
 *** uk-s-1000580-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: те місце
 - qualifier :: там
@@ -334,44 +205,24 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 3029cf3c27c30263dfed1cbf89aef19fe16b1f008f98a61353992079000f5dc4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - col
 - euph
 - uk
-*** Dialects
 *** Sense information
 - oft. written as アレ
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: down there (i.e. one's genitals)
+- down there (i.e. one's genitals)
 ** Ukrainian glosses
 *** uk-s-1000580-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: статеві органи
 
@@ -380,51 +231,24 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: f46a3e605637731e063a56bbc59ba1138e2c41463f8c9a724ff9b34b8c67eb0d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
 *** Miscellaneous and register
 - col
 - euph
 - uk
-*** Dialects
 *** Sense information
 - oft. written as アレ
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1000580-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: period
-*** en-s-1000580-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: menses
+- period
+- menses
 ** Ukrainian glosses
 *** uk-s-1000580-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: менструація

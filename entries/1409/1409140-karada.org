@@ -1,19 +1,22 @@
 #+TITLE: 体
 #+JMDICT_ID: 1409140
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: からだ
 #+ROMAJI: karada
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1409140-001
 :PROPERTIES:
 :TEXT: 体
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,36 +25,30 @@
 :PROPERTIES:
 :TEXT: 身体
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1409140-003
 :PROPERTIES:
 :TEXT: 躯
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1409140-004
 :PROPERTIES:
 :TEXT: 躰
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1409140-005
 :PROPERTIES:
 :TEXT: 體
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1409140-006
 :PROPERTIES:
 :TEXT: 軀
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1409140-001
 :PROPERTIES:
 :TEXT: からだ
@@ -59,7 +56,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -69,69 +65,33 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: ca5e220ca71a1b270ed2d7a9a6b10c9e697c32b588ef761bf4616d19dced1252
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - からだ is a gikun reading of 身体
 *** Cross-references
 - 身体・しんたい
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1409140-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: body
+- body
 ** Ukrainian glosses
 *** uk-s-1409140-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тіло
 ** Russian reference
-*** ru-ref-1409140-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 1) тело; телосложение, фигура
-*** ru-ref-1409140-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 2) (перен.) здоровье
-*** ru-ref-1409140-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 3) (замещает понятия сам, человек:)
+- 10 :: 1) тело; телосложение, фигура
+- 10 :: 2) (перен.) здоровье
+- 10 :: 3) (замещает понятия сам, человек:)
 ** Learner notes
 *** note-s-1409140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Тіло, здоров'я.
 - LEVEL :: beginner
@@ -139,11 +99,6 @@
 ** Examples
 *** ex-1409140-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -154,11 +109,6 @@
 - FOCUS :: 体に
 *** ex-1409140-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -169,11 +119,6 @@
 - FOCUS :: 体を
 *** ex-1409140-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -188,59 +133,27 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 01784156099748b913502d98e02c6e693be059d883b8387215de87340a919bb6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1409140-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: torso
-*** en-s-1409140-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: trunk
+- torso
+- trunk
 ** Ukrainian glosses
 *** uk-s-1409140-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тулуб
 *** uk-s-1409140-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: торс
 
@@ -249,86 +162,37 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 95bbb2d940b09651380e27c58680768fd5ad64aed72fe7a63e41d15c6db9d22c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1409140-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: build
-*** en-s-1409140-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: physique
-*** en-s-1409140-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: frame
-*** en-s-1409140-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: figure
+- build
+- physique
+- frame
+- figure
 ** Ukrainian glosses
 *** uk-s-1409140-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: статура
 *** uk-s-1409140-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: будова тіла
 *** uk-s-1409140-003-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: постать
 
@@ -337,58 +201,26 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: a225aa81e0e366b8e4050b5d27d546641d6cabdcfa6c839b8ebb4cedb56b56e8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1409140-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: health
-*** en-s-1409140-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: constitution
+- health
+- constitution
 ** Ukrainian glosses
 *** uk-s-1409140-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: здоров'я
 *** uk-s-1409140-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: організм

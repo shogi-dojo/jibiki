@@ -1,19 +1,22 @@
 #+TITLE: 醤油
 #+JMDICT_ID: 1595020
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: しょうゆ
 #+ROMAJI: shouyu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1595020-001
 :PROPERTIES:
 :TEXT: 醤油
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -24,7 +27,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1595020-003
 :PROPERTIES:
 :TEXT: 正油
@@ -32,14 +34,12 @@
 *** Information
 - ateji
 - rK
-*** Priorities
 ** Written form wf-1595020-004
 :PROPERTIES:
 :TEXT: しょう油
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1595020-001
 :PROPERTIES:
 :TEXT: しょうゆ
@@ -47,7 +47,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -61,84 +60,34 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1595020-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 85d044b2b293c0ae426f22b84a58a69e761207b2d1566c40d28e84d99cb69b70
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1595020-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: soy sauce
-*** en-s-1595020-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: soya sauce
-*** en-s-1595020-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: shoyu
+- soy sauce
+- soya sauce
+- shoyu
 ** Ukrainian glosses
 *** uk-s-1595020-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: соєвий соус
 ** Russian reference
-*** ru-ref-1595020-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 5
-:END:
-- text :: соевый соус
-*** ru-ref-1595020-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 5
-:END:
-- text :: соя (соус, приправа)
+- 5 :: соевый соус
+- 5 :: соя (соус, приправа)
 ** Learner notes
 *** note-s-1595020-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Соєвий соус.
 - LEVEL :: beginner
@@ -146,11 +95,6 @@
 ** Examples
 *** ex-1595020-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -161,11 +105,6 @@
 - FOCUS :: 醤油
 *** ex-1595020-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -176,11 +115,6 @@
 - FOCUS :: 醤油
 *** ex-1595020-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

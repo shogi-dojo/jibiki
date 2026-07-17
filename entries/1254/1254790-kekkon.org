@@ -1,19 +1,22 @@
 #+TITLE: 結婚
 #+JMDICT_ID: 1254790
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: けっこん
 #+ROMAJI: kekkon
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1254790-001
 :PROPERTIES:
 :TEXT: 結婚
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,90 +37,41 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 5f6ecd782fd79bdf362d7388abb7f34cce9ee6b3bfde61ac3d8125b1559f9b22
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - vs
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1254790-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: marriage
+- marriage
 ** Ukrainian glosses
 *** uk-s-1254790-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: шлюб
 *** uk-s-1254790-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: одруження
 ** Russian reference
-*** ru-ref-1254790-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: брак, женитьба, замужество
-*** ru-ref-1254790-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～の} брачный; свадебный
-*** ru-ref-1254790-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～する} вступать в брак, жениться, выходить замуж
-*** ru-ref-1254790-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～している} состоять в браке, быть женатым, быть замужем (замужней женщиной)
-*** ru-ref-1254790-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～させる} женить, выдать замуж
+- 6 :: брак, женитьба, замужество
+- 6 :: {～の} брачный; свадебный
+- 6 :: {～する} вступать в брак, жениться, выходить замуж
+- 6 :: {～している} состоять в браке, быть женатым, быть замужем (замужней женщиной)
+- 6 :: {～させる} женить, выдать замуж
 ** Learner notes
 *** note-s-1254790-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Шлюб, одруження.
 - LEVEL :: beginner
@@ -126,11 +79,6 @@
 ** Examples
 *** ex-1254790-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -141,11 +89,6 @@
 - FOCUS :: 結婚
 *** ex-1254790-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -156,11 +99,6 @@
 - FOCUS :: 結婚
 *** ex-1254790-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

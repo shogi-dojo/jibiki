@@ -1,20 +1,22 @@
 #+TITLE: 余り
 #+JMDICT_ID: 1584930
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あまり
 #+ROMAJI: amari
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1584930-001
 :PROPERTIES:
 :TEXT: 余り
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,14 +27,12 @@
 :END:
 *** Information
 - oK
-*** Priorities
 ** Written form wf-1584930-003
 :PROPERTIES:
 :TEXT: 剰り
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1584930-001
 :PROPERTIES:
 :TEXT: あまり
@@ -40,7 +40,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -52,7 +51,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -60,6 +58,7 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 0ad0f0929ee61adecba9582f6bffdf58ee7298abeb56811e74af92c8d82acdf0
+:LEARNER_PRIORITY: primary
 :END:
 ** Applies to forms
 *** Written forms
@@ -70,134 +69,49 @@
 *** Parts of speech
 - n
 - adj-no
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: remainder
-*** en-s-1584930-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: remnant
-*** en-s-1584930-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: rest
-*** en-s-1584930-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: balance
-*** en-s-1584930-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: surplus
-*** en-s-1584930-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: remains (of a meal)
-*** en-s-1584930-001-007
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: leftovers
+- remainder
+- remnant
+- rest
+- balance
+- surplus
+- remains (of a meal)
+- leftovers
 ** Ukrainian glosses
 *** uk-s-1584930-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: залишок
 *** uk-s-1584930-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: решта
 *** uk-s-1584930-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: надлишок
 ** Russian reference
-*** ru-ref-1584930-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: : {～[に]} слишком, чересчур, очень
-*** ru-ref-1584930-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: излишек, избыток; остаток
-*** ru-ref-1584930-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: {～の} излишний, избыточный
-*** ru-ref-1584930-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 19
-:END:
-- text :: свыше, более, с лишним
+- 19 :: : {～[に]} слишком, чересчур, очень
+- 19 :: излишек, избыток; остаток
+- 19 :: {～の} излишний, избыточный
+- 19 :: свыше, более, с лишним
 ** Learner notes
 *** note-s-1584930-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Залишок, решта.
 - LEVEL :: beginner
@@ -205,11 +119,6 @@
 ** Examples
 *** ex-1584930-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -220,11 +129,6 @@
 - FOCUS :: 余り
 *** ex-1584930-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -235,11 +139,6 @@
 - FOCUS :: 余り
 *** ex-1584930-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -254,61 +153,31 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 100c7d0d971bdba681b5fff900525a6ad684e213442157e5bb35c48a7488db84
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adv
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - with neg. sentence
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (not) very
-*** en-s-1584930-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (not) much
+- (not) very
+- (not) much
 ** Ukrainian glosses
 *** uk-s-1584930-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: не дуже
 *** uk-s-1584930-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: не зовсім
 
@@ -317,71 +186,35 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: aaa9956e66c774d614f6ef69d8e6cf7bd7981eb908f7e24e0deb1fc849169313
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adv
-*** Fields
 *** Miscellaneous and register
 - uk
-*** Dialects
 *** Sense information
 - esp. as あまりに(も)
 *** Cross-references
 - あまりに
 - の余り・のあまり
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: too much
-*** en-s-1584930-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: excessively
-*** en-s-1584930-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: overly
+- too much
+- excessively
+- overly
 ** Ukrainian glosses
 *** uk-s-1584930-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: занадто
 *** uk-s-1584930-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: надмірно
 
@@ -390,84 +223,31 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 45f39df0e7346e9e89ef0008a07b205043bdc729d9124a8a45e8edb9fedeee57
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: extreme
-*** en-s-1584930-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: great
-*** en-s-1584930-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: severe
-*** en-s-1584930-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: tremendous
-*** en-s-1584930-004-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: terrible
+- extreme
+- great
+- severe
+- tremendous
+- terrible
 ** Ukrainian glosses
 *** uk-s-1584930-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: надзвичайний
 *** uk-s-1584930-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: сильний
 
@@ -476,69 +256,32 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 44feb46a6c6cf30a4eb7a690bb0d1458f893b9ee8f431646ddb73e37f6d3f660
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
-*** Fields
 *** Miscellaneous and register
 - col
-*** Dialects
 *** Sense information
 - sometimes as あまり…
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: not very good
-*** en-s-1584930-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: so-so
-*** en-s-1584930-005-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mediocre
+- not very good
+- so-so
+- mediocre
 ** Ukrainian glosses
 *** uk-s-1584930-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: не дуже хороший
 *** uk-s-1584930-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: посередній
 
@@ -555,50 +298,23 @@
 ** JMdict metadata
 *** Parts of speech
 - n-suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1584930-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: more than
-*** en-s-1584930-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: over
+- more than
+- over
 ** Ukrainian glosses
 *** uk-s-1584930-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: більше ніж
 *** uk-s-1584930-006-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: понад

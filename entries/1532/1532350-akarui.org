@@ -1,20 +1,22 @@
 #+TITLE: 明るい
 #+JMDICT_ID: 1532350
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あかるい
 #+ROMAJI: akarui
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-6
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1532350-001
 :PROPERTIES:
 :TEXT: 明るい
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1532350-001
 :PROPERTIES:
 :TEXT: あかるい
@@ -33,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -43,102 +43,46 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 09c0b3076c66904e96198d8225f6966ef05849ee859e4ff7b09a124db0799c88
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: light
-*** en-s-1532350-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bright
-*** en-s-1532350-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: well-lit
-*** en-s-1532350-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: well-lighted
+- light
+- bright
+- well-lit
+- well-lighted
 ** Ukrainian glosses
 *** uk-s-1532350-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: світлий
 *** uk-s-1532350-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: яскравий
 *** uk-s-1532350-001-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: добре освітлений
 ** Russian reference
-*** ru-ref-1532350-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 1) (прям. и перен.) светлый
+- 17 :: 1) (прям. и перен.) светлый
 ** Learner notes
 *** note-s-1532350-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: codex-agent-6
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Прикметник い-типу. Основне значення — наявність великої кількості світла, наприклад, світла кімната чи надворі.
@@ -147,13 +91,8 @@
 ** Examples
 *** ex-1532350-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-6
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -168,40 +107,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 784a37f8ad19244df1a3e49df46474aaf7913596568a903675f342ea727d02c4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bright (colour)
+- bright (colour)
 ** Ukrainian glosses
 *** uk-s-1532350-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: яскравий
 - qualifier :: про колір
@@ -211,87 +128,38 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 47f6829e7c354ef99214e95ce5cc915ad8617c98cb4beeb3a49d1bf796d21b6a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cheerful
-*** en-s-1532350-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bright
-*** en-s-1532350-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: spirited
-*** en-s-1532350-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sunny (e.g. disposition)
+- cheerful
+- bright
+- spirited
+- sunny (e.g. disposition)
 ** Ukrainian glosses
 *** uk-s-1532350-003-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: життєрадісний
 - qualifier :: наприклад, про характер
 *** uk-s-1532350-003-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: веселий
 *** uk-s-1532350-003-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: світлий
 
@@ -300,76 +168,30 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 5ce0ec6445fff87476af8f49973c9170bedd116c9cc6dd5eba944a08f9be0946
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bright (future, prospects, etc.)
-*** en-s-1532350-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: rosy
-*** en-s-1532350-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: encouraging
-*** en-s-1532350-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: promising
+- bright (future, prospects, etc.)
+- rosy
+- encouraging
+- promising
 ** Ukrainian glosses
 *** uk-s-1532350-004-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: світлий
 - qualifier :: про майбутнє, перспективи тощо
 *** uk-s-1532350-004-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: багатообіцяючий
 
@@ -378,164 +200,72 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 5365ca1b68df3dd69a7a86c4426f6013a98d5d33529981ef2e09ba3c48e6e3bd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - as ...に明るい
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: knowledgeable (about)
-*** en-s-1532350-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: familiar (with)
-*** en-s-1532350-005-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: well versed (in)
-*** en-s-1532350-005-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: well acquainted (with)
+- knowledgeable (about)
+- familiar (with)
+- well versed (in)
+- well acquainted (with)
 ** Ukrainian glosses
 *** uk-s-1532350-005-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: обізнаний
 - qualifier :: у чомусь
 *** uk-s-1532350-005-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: добре знайомий
 - qualifier :: з чимось
 ** Russian reference
-*** ru-ref-1532350-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 17
-:END:
-- text :: 2) сведущий (в чём-л.)
-
+- 17 :: 2) сведущий (в чём-л.)
 * Sense s-1532350-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 0648c9aec56abb1e414c5a74d26ccce39ac96bda985d102b4e4e3dad9e90cbb1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1532350-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: fair (e.g. politics)
-*** en-s-1532350-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: clean
-*** en-s-1532350-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: impartial
+- fair (e.g. politics)
+- clean
+- impartial
 ** Ukrainian glosses
 *** uk-s-1532350-006-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чесний
 - qualifier :: наприклад, про політику
 *** uk-s-1532350-006-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прозорий
 *** uk-s-1532350-006-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-6
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: неупереджений

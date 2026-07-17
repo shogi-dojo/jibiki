@@ -1,19 +1,22 @@
 #+TITLE: 口
 #+JMDICT_ID: 1275640
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: くち
 #+ROMAJI: kuchi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1275640-001
 :PROPERTIES:
 :TEXT: 口
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -35,117 +37,39 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 776a4efb9d587bc47cc8a411f7b23cb8fbd177a3a87e0fd70484d87a522f3cfa
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mouth
+- mouth
 ** Ukrainian glosses
 *** uk-s-1275640-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рот
 ** Russian reference
-*** ru-ref-1275640-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 1) рот; уста, губы
-*** ru-ref-1275640-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: {～にする} брать (класть) в рот; есть, пить; (ср. то же) 2
-*** ru-ref-1275640-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 2) язык, речь; слова
-*** ru-ref-1275640-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: {～にする} говорить (о чём-л.), упоминать (что-л.; ср. то же) 1
-*** ru-ref-1275640-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 3) вкус
-*** ru-ref-1275640-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 4) (перен.) едок
-*** ru-ref-1275640-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 5) отверстие; горлышко (напр. бутылки); носик (напр. чайника); выпускное отверстие; наконечник (напр. шланга)
-*** ru-ref-1275640-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 6) пробка, втулка
-*** ru-ref-1275640-009
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 7) вход, выход; ход (куда-л.); место начала подъёма (на гору)
-*** ru-ref-1275640-010
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 8) начало
-*** ru-ref-1275640-011
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 9) место (служба); вакансия; предложение работы
-*** ru-ref-1275640-012
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 10) доля, пай; (ср.) ひとくち
-*** ru-ref-1275640-013
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 46
-:END:
-- text :: 11) сорт, партия (товара)
+- 46 :: 1) рот; уста, губы
+- 46 :: {～にする} брать (класть) в рот; есть, пить; (ср. то же) 2
+- 46 :: 2) язык, речь; слова
+- 46 :: {～にする} говорить (о чём-л.), упоминать (что-л.; ср. то же) 1
+- 46 :: 3) вкус
+- 46 :: 4) (перен.) едок
+- 46 :: 5) отверстие; горлышко (напр. бутылки); носик (напр. чайника); выпускное отверстие; наконечник (напр. шланга)
+- 46 :: 6) пробка, втулка
+- 46 :: 7) вход, выход; ход (куда-л.); место начала подъёма (на гору)
+- 46 :: 8) начало
+- 46 :: 9) место (служба); вакансия; предложение работы
+- 46 :: 10) доля, пай; (ср.) ひとくち
+- 46 :: 11) сорт, партия (товара)
 ** Learner notes
 *** note-s-1275640-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Рот. Також означає отвір, вхід/вихід або вакансію.
 - LEVEL :: beginner
@@ -153,11 +77,6 @@
 ** Examples
 *** ex-1275640-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -168,11 +87,6 @@
 - FOCUS :: 口
 *** ex-1275640-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -183,11 +97,6 @@
 - FOCUS :: 口
 *** ex-1275640-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -202,75 +111,29 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: d9ce5671a2f82b6892d08d3c385e7d881cf222a395719961bf6df4835c1ca05f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: opening
-*** en-s-1275640-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: hole
-*** en-s-1275640-002-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: gap
-*** en-s-1275640-002-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: orifice
+- opening
+- hole
+- gap
+- orifice
 ** Ukrainian glosses
 *** uk-s-1275640-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: отвір
 *** uk-s-1275640-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: діра
 
@@ -279,75 +142,29 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 15624eca10b17e5789f46ccabfd697959581c73943969d784556d41be215753c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mouth (of a bottle)
-*** en-s-1275640-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: spout
-*** en-s-1275640-003-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: nozzle
-*** en-s-1275640-003-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mouthpiece
+- mouth (of a bottle)
+- spout
+- nozzle
+- mouthpiece
 ** Ukrainian glosses
 *** uk-s-1275640-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: горлечко пляшки
 *** uk-s-1275640-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: носик
 
@@ -356,86 +173,37 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 3ee7f50dc2e3126f8dcd6b1298c392f63422f90ddb6949c463cfc84703635d6b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: gate
-*** en-s-1275640-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: door
-*** en-s-1275640-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: entrance
-*** en-s-1275640-004-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: exit
+- gate
+- door
+- entrance
+- exit
 ** Ukrainian glosses
 *** uk-s-1275640-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вхід
 *** uk-s-1275640-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вихід
 *** uk-s-1275640-004-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: двері
 
@@ -444,68 +212,30 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 36d0be59ab77253c843fac69b26f1950abb8225725cdda15a60d7ff306a33392
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 口を利く・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: speaking
-*** en-s-1275640-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: speech
-*** en-s-1275640-005-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: talk (i.e. gossip)
+- speaking
+- speech
+- talk (i.e. gossip)
 ** Ukrainian glosses
 *** uk-s-1275640-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розмова
 *** uk-s-1275640-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: плітки
 
@@ -514,49 +244,21 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 7c0a10ababcbfeff0b0c15b0d93a6356363d42913d6764566ff1baa215b45325
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 口に合う
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: taste
-*** en-s-1275640-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: palate
+- taste
+- palate
 ** Ukrainian glosses
 *** uk-s-1275640-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: смак
 
@@ -565,40 +267,18 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 79add752aee343698e7bceef20dfb24d84ce10b5e3b8e915767781d4b290f73a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: mouth (to feed)
+- mouth (to feed)
 ** Ukrainian glosses
 *** uk-s-1275640-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: рот
 - qualifier :: у контексті годування
@@ -608,60 +288,29 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 7440f764fddb1a2909b01f3e420241efa410f3da82856e55fd9e21470f6f9340
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 働き口
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: opening (i.e. vacancy)
-*** en-s-1275640-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: available position
+- opening (i.e. vacancy)
+- available position
 ** Ukrainian glosses
 *** uk-s-1275640-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вакансія
 *** uk-s-1275640-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вільне місце
 
@@ -670,49 +319,21 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: 5693b8243bc7905050f18b81bc1f448fe9f7a4f6df937428806f24e98d5fd26a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 口がかかる・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: invitation
-*** en-s-1275640-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: summons
+- invitation
+- summons
 ** Ukrainian glosses
 *** uk-s-1275640-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: запрошення
 
@@ -721,67 +342,28 @@
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: 83a919b2e7626d0f4870e6fe18469a0e5aa014a4e784df6d7b799e896f739a4e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: kind
-*** en-s-1275640-010-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: sort
-*** en-s-1275640-010-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: type
+- kind
+- sort
+- type
 ** Ukrainian glosses
 *** uk-s-1275640-010-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вид
 *** uk-s-1275640-010-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тип
 
@@ -790,40 +372,18 @@
 :SOURCE_SENSE_INDEX: 11
 :SOURCE_FINGERPRINT: 712615391d5efe36bc1e889d20df02e3655ee9cb4b797308d4e5096b4d869a7f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-011-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: opening (i.e. beginning)
+- opening (i.e. beginning)
 ** Ukrainian glosses
 *** uk-s-1275640-011-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: початок
 
@@ -832,41 +392,19 @@
 :SOURCE_SENSE_INDEX: 12
 :SOURCE_FINGERPRINT: 52a37a25fc396ae283ba47061aeb1ef95a07e9c214920efcd172553d9ced1ca8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - ctr
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-012-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: counter for mouthfuls, shares (of money) and stove burners
+- counter for mouthfuls, shares (of money) and stove burners
 ** Ukrainian glosses
 *** uk-s-1275640-012-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: лічильний суфікс для ковтків
 
@@ -875,42 +413,22 @@
 :SOURCE_SENSE_INDEX: 13
 :SOURCE_FINGERPRINT: 11be7238aa16ef3308b8dcccd28ccd45b1af7c603b084cbac7244de9067bb533
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - ctr
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - often read ふり in museum, etc. contexts
 *** Cross-references
 - 振り・ふり・8
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1275640-013-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: counter for swords, blades, etc.
+- counter for swords, blades, etc.
 ** Ukrainian glosses
 *** uk-s-1275640-013-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: лічильний суфікс для мечів

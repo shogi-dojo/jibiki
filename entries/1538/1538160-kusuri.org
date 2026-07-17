@@ -1,19 +1,22 @@
 #+TITLE: 薬
 #+JMDICT_ID: 1538160
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: くすり
 #+ROMAJI: kusuri
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1538160-001
 :PROPERTIES:
 :TEXT: 薬
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -37,145 +39,50 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1538160-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 15422432ab7f4038d9c08c5637a8c14d72f8a282f968bd34edc18bb353ae8725
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1538160-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: medicine
-*** en-s-1538160-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pharmaceuticals
-*** en-s-1538160-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (legal) drugs
-*** en-s-1538160-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: pill
-*** en-s-1538160-001-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: ointment
-*** en-s-1538160-001-006
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: salve
+- medicine
+- pharmaceuticals
+- (legal) drugs
+- pill
+- ointment
+- salve
 ** Ukrainian glosses
 *** uk-s-1538160-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ліки
 *** uk-s-1538160-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: медикаменти
 ** Russian reference
-*** ru-ref-1538160-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 1) лекарство; медикамент; средство
-*** ru-ref-1538160-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: {～の} лечебный
-*** ru-ref-1538160-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 2) (перен.) польза
-*** ru-ref-1538160-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: {～の} полезный, благотворный
-*** ru-ref-1538160-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 3) глазурь
-*** ru-ref-1538160-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 4) (перен.) порох
-*** ru-ref-1538160-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 18
-:END:
-- text :: 5) крошка
+- 18 :: 1) лекарство; медикамент; средство
+- 18 :: {～の} лечебный
+- 18 :: 2) (перен.) польза
+- 18 :: {～の} полезный, благотворный
+- 18 :: 3) глазурь
+- 18 :: 4) (перен.) порох
+- 18 :: 5) крошка
 ** Learner notes
 *** note-s-1538160-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Ліки, медикаменти.
 - LEVEL :: beginner
@@ -183,11 +90,6 @@
 ** Examples
 *** ex-1538160-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -198,11 +100,6 @@
 - FOCUS :: 薬
 *** ex-1538160-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -213,11 +110,6 @@
 - FOCUS :: 薬
 *** ex-1538160-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -232,40 +124,18 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 9b8815bedd3db8beb448dccfdef10b3105ccc8efe369411f9fe31562b9cadd64
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1538160-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: efficacious chemical (gunpowder, pesticide, etc.)
+- efficacious chemical (gunpowder, pesticide, etc.)
 ** Ukrainian glosses
 *** uk-s-1538160-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: хімікати
 
@@ -274,40 +144,18 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 67592e2ff178ca873ce789de3e5774aabbb40b3375568cfc151dcfebf18e99e6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1538160-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (pottery) glaze
+- (pottery) glaze
 ** Ukrainian glosses
 *** uk-s-1538160-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: глазур
 - qualifier :: для кераміки
@@ -317,50 +165,23 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 7abf7bd871b352b809440be5c41d4480a1d3d9c56452e5af406899ed85395361
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. クスリ
 *** Cross-references
 - 薬・やく
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1538160-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (illegal) drug
-*** en-s-1538160-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: narcotic
+- (illegal) drug
+- narcotic
 ** Ukrainian glosses
 *** uk-s-1538160-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: наркотик
 
@@ -369,40 +190,19 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: d6841322f95f15e0122839d55eb4bd6051bdf0c694b0cc6ec389ca5e718f7636
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 鼻薬・2
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1538160-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: small bribe
+- small bribe
 ** Ukrainian glosses
 *** uk-s-1538160-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: невеликий хабар

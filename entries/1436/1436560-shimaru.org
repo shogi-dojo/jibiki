@@ -1,19 +1,22 @@
 #+TITLE: 閉まる
 #+JMDICT_ID: 1436560
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: しまる
 #+ROMAJI: shimaru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1436560-001
 :PROPERTIES:
 :TEXT: 閉まる
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -22,7 +25,6 @@
 :PROPERTIES:
 :TEXT: 締まる
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -33,7 +35,6 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Reading rd-1436560-001
 :PROPERTIES:
 :TEXT: しまる
@@ -41,7 +42,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -52,101 +52,43 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 9cbe1619978d75f486ff479dde8f5b1e1c53f077ae75d4e887f5cfae4f9ac8ad
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 閉まる
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1436560-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be shut
-*** en-s-1436560-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to close
-*** en-s-1436560-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be closed
+- to be shut
+- to close
+- to be closed
 ** Ukrainian glosses
 *** uk-s-1436560-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути закритим
 *** uk-s-1436560-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зачинятися
 ** Russian reference
-*** ru-ref-1436560-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 1) быть закрытым (запертым)
-*** ru-ref-1436560-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 2) быть сжатым; быть тесным; быть напряжённым; (ср.) しまった【締まった】
-*** ru-ref-1436560-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 3) остепениться; исправиться
-*** ru-ref-1436560-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 15
-:END:
-- text :: 4) скупиться; быть прижимистым; копить
+- 15 :: 1) быть закрытым (запертым)
+- 15 :: 2) быть сжатым; быть тесным; быть напряжённым; (ср.) しまった【締まった】
+- 15 :: 3) остепениться; исправиться
+- 15 :: 4) скупиться; быть прижимистым; копить
 ** Learner notes
 *** note-s-1436560-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Бути закритим, зачинятися (неперехідне дієслово).
 - LEVEL :: beginner
@@ -154,11 +96,6 @@
 ** Examples
 *** ex-1436560-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -169,11 +106,6 @@
 - FOCUS :: 閉まります
 *** ex-1436560-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -184,11 +116,6 @@
 - FOCUS :: 閉まります
 *** ex-1436560-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -212,40 +139,16 @@
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1436560-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be firm (of a body, face, etc.)
-*** en-s-1436560-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be well-knit
+- to be firm (of a body, face, etc.)
+- to be well-knit
 ** Ukrainian glosses
 *** uk-s-1436560-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути твердим
 
@@ -254,41 +157,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 9d5e87e81a26ae2ca24c9c0c1822e659257296e2933342c7a2019634e18ceb82
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1436560-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be locked
+- to be locked
 ** Ukrainian glosses
 *** uk-s-1436560-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути замкненим
 
@@ -297,49 +178,20 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 09267d68d7e4d51085863a4c7083ada8571a2cee01252cd6d0d638b07a7ed7e9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1436560-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to tighten
-*** en-s-1436560-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be tightened
+- to tighten
+- to be tightened
 ** Ukrainian glosses
 *** uk-s-1436560-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: затягуватися
 
@@ -348,48 +200,19 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 1d7f3c4aec9163e4b675e1461d6eaabcd4406f27fb4c048bb7fee126d6fb213a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1436560-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to become sober
-*** en-s-1436560-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to become tense
+- to become sober
+- to become tense
 ** Ukrainian glosses
 *** uk-s-1436560-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: напружуватися

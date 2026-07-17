@@ -1,20 +1,22 @@
 #+TITLE: 秋
 #+JMDICT_ID: 1332650
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あき
 #+ROMAJI: aki
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-7
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1332650-001
 :PROPERTIES:
 :TEXT: 秋
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -26,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -36,75 +37,31 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 59125c983eafac5117241a1add81be1fd88873b78c56e45210a009881839627d
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 - adv
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1332650-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: autumn
-*** en-s-1332650-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: fall
+- autumn
+- fall
 ** Ukrainian glosses
 *** uk-s-1332650-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-7
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: осінь
 ** Russian reference
-*** ru-ref-1332650-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 1) осень
-*** ru-ref-1332650-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: {～の} осенний
-*** ru-ref-1332650-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 6
-:END:
-- text :: 2) (перен.) время, период
+- 6 :: 1) осень
+- 6 :: {～の} осенний
+- 6 :: 2) (перен.) время, период
 ** Learner notes
 *** note-s-1332650-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: codex-agent-7
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Іменник, що позначає осінь. Також може функціонувати як прислівник (восени).
@@ -113,13 +70,8 @@
 ** Examples
 *** ex-1332650-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-7
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:

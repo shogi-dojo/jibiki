@@ -1,34 +1,34 @@
 #+TITLE: お手洗い
 #+JMDICT_ID: 1002100
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おてあらい
 #+ROMAJI: otearai
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1002100-001
 :PROPERTIES:
 :TEXT: お手洗い
 :END:
-*** Information
 *** Priorities
 - ichi1
 ** Written form wf-1002100-002
 :PROPERTIES:
 :TEXT: 御手洗
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1002100-003
 :PROPERTIES:
 :TEXT: 御手洗い
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1002100-001
 :PROPERTIES:
 :TEXT: おてあらい
@@ -36,7 +36,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 
@@ -44,97 +43,39 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: abb5c2be384cd33f89f35e30ef1c95b1e2193fa68009c4ac090f011589c14d9b
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1002100-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: toilet
-*** en-s-1002100-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: restroom
-*** en-s-1002100-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: lavatory
-*** en-s-1002100-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bathroom
+- toilet
+- restroom
+- lavatory
+- bathroom
 ** Ukrainian glosses
 *** uk-s-1002100-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: туалет
 *** uk-s-1002100-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вбиральня
 ** Russian reference
-*** ru-ref-1002100-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: туалет
-*** ru-ref-1002100-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 9
-:END:
-- text :: уборная
+- 9 :: туалет
+- 9 :: уборная
 ** Learner notes
 *** note-s-1002100-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Ввічливий спосіб сказати «туалет». Складається зі слова «мити руки» (手洗い) з додаванням ввічливого префікса お.
 - LEVEL :: beginner
@@ -142,11 +83,6 @@
 ** Examples
 *** ex-1002100-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -157,11 +93,6 @@
 - FOCUS :: お手洗いは
 *** ex-1002100-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -172,11 +103,6 @@
 - FOCUS :: お手洗いです
 *** ex-1002100-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

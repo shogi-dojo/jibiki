@@ -1,12 +1,16 @@
 #+TITLE: カップ
 #+JMDICT_ID: 1037670
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: カップ
 #+ROMAJI: kappu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Reading rd-1037670-001
@@ -16,7 +20,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - gai1
 - ichi1
@@ -25,95 +28,48 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: f6ebb91ac925269011779ae24827220e40501921d197ffe07dd318acb7508574
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - コップ・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1037670-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: cup (drinking vessel, measure, brassiere, prize, etc.)
+- cup (drinking vessel, measure, brassiere, prize, etc.)
 ** Ukrainian glosses
 *** uk-s-1037670-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чашка
 *** uk-s-1037670-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: кубок
 *** uk-s-1037670-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мірна склянка
 ** Russian reference
-*** ru-ref-1037670-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: ((англ.) cup) чаша, кубок
-*** ru-ref-1037670-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: ((англ.) cup)
-*** ru-ref-1037670-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 1) (спорт.) кубок
-*** ru-ref-1037670-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 2) чашка; бокал
+- 11 :: ((англ.) cup) чаша, кубок
+- 11 :: ((англ.) cup)
+- 11 :: 1) (спорт.) кубок
+- 11 :: 2) чашка; бокал
 ** Learner notes
 *** note-s-1037670-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальна назва для чашки, що має ручку (зазвичай для кави чи чаю), або мірної склянки чи спортивного кубка. Походить від англійського "cup".
 - LEVEL :: beginner
@@ -121,11 +77,6 @@
 ** Examples
 *** ex-1037670-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -136,11 +87,6 @@
 - FOCUS :: カップを
 *** ex-1037670-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -151,11 +97,6 @@
 - FOCUS :: カップを
 *** ex-1037670-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

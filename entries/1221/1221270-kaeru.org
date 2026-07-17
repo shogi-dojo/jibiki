@@ -1,19 +1,22 @@
 #+TITLE: 帰る
 #+JMDICT_ID: 1221270
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かえる
 #+ROMAJI: kaeru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1221270-001
 :PROPERTIES:
 :TEXT: 帰る
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -22,22 +25,18 @@
 :PROPERTIES:
 :TEXT: 還る
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1221270-003
 :PROPERTIES:
 :TEXT: 歸る
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1221270-004
 :PROPERTIES:
 :TEXT: 復る
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1221270-001
 :PROPERTIES:
 :TEXT: かえる
@@ -45,7 +44,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -55,134 +53,53 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: b029ba1e06c0a5092a8a5bdfa90bb980f6ba70b0af325a73b8d1e60d4edc3ae7
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1221270-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to return
-*** en-s-1221270-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to come home
-*** en-s-1221270-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to go home
-*** en-s-1221270-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to go back
+- to return
+- to come home
+- to go home
+- to go back
 ** Ukrainian glosses
 *** uk-s-1221270-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повертатися
 *** uk-s-1221270-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вертатися додому
 *** uk-s-1221270-001-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: іти додому
 ** Russian reference
-*** ru-ref-1221270-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: возвращаться
-*** ru-ref-1221270-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: уходить
-*** ru-ref-1221270-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: уезжать
-*** ru-ref-1221270-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: приходить (домой, к прежнему состоянию)
-*** ru-ref-1221270-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 1) возвращаться, приходить [домой]; уходить (уезжать) [домой]; поворачивать (приходить) назад
-*** ru-ref-1221270-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 2) ((чаще) 返る, 復る) возвращаться (к чему-л.)
-*** ru-ref-1221270-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 10
-:END:
-- text :: 3) возвращаться (о чём-л.)
+- 10 :: возвращаться
+- 10 :: уходить
+- 10 :: уезжать
+- 10 :: приходить (домой, к прежнему состоянию)
+- 10 :: 1) возвращаться, приходить [домой]; уходить (уезжать) [домой]; поворачивать (приходить) назад
+- 10 :: 2) ((чаще) 返る, 復る) возвращаться (к чему-л.)
+- 10 :: 3) возвращаться (о чём-л.)
 ** Learner notes
 *** note-s-1221270-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Повертатися (додому тощо).
 - LEVEL :: beginner
@@ -190,11 +107,6 @@
 ** Examples
 *** ex-1221270-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -205,11 +117,6 @@
 - FOCUS :: 帰ります
 *** ex-1221270-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -220,11 +127,6 @@
 - FOCUS :: 帰りますか
 *** ex-1221270-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -239,53 +141,28 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: cb434f11c6cdb5111587361d61cc29b43ef8ef4f2d447e1fb470363d1aa5a3d2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1221270-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to leave (of a guest, customer, etc.)
+- to leave (of a guest, customer, etc.)
 ** Ukrainian glosses
 *** uk-s-1221270-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: іти
 - qualifier :: про гостя, відвідувача тощо
 *** uk-s-1221270-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: залишати
 
@@ -294,61 +171,30 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: c12bed1f47073ff01f998201442ce13af6ccb67e6dfaeb72c016ab6aeaa3d5f0
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vi
 *** Fields
 - baseb
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1221270-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to get home
-*** en-s-1221270-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to get to home plate
+- to get home
+- to get to home plate
 ** Ukrainian glosses
 *** uk-s-1221270-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повертатися на базу
 - qualifier :: у бейсболі
 *** uk-s-1221270-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перетинати домашню базу

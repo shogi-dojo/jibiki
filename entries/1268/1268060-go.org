@@ -1,19 +1,22 @@
 #+TITLE: 五
 #+JMDICT_ID: 1268060
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ご
 #+ROMAJI: go
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1268060-001
 :PROPERTIES:
 :TEXT: 五
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,14 +25,10 @@
 :PROPERTIES:
 :TEXT: ５
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1268060-003
 :PROPERTIES:
 :TEXT: 伍
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1268060-001
 :PROPERTIES:
 :TEXT: ご
@@ -37,7 +36,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -49,8 +47,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
 ** Reading rd-1268060-003
 :PROPERTIES:
 :TEXT: い
@@ -58,73 +54,34 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1268060-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 964104504b3e4307f514303ce68114f36265a6b27e48c7b8af86eed1b7c30431
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - num
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 伍 is used in legal documents
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1268060-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: five
-*** en-s-1268060-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: 5
+- five
+- 5
 ** Ukrainian glosses
 *** uk-s-1268060-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: п'ять
 ** Russian reference
-*** ru-ref-1268060-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 8
-:END:
-- text :: пять
+- 8 :: пять
 ** Learner notes
 *** note-s-1268060-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: П'ять (число).
 - LEVEL :: beginner
@@ -132,11 +89,6 @@
 ** Examples
 *** ex-1268060-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -147,11 +99,6 @@
 - FOCUS :: 五
 *** ex-1268060-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -162,11 +109,6 @@
 - FOCUS :: 五
 *** ex-1268060-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

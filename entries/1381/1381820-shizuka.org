@@ -1,19 +1,22 @@
 #+TITLE: 静か
 #+JMDICT_ID: 1381820
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: しずか
 #+ROMAJI: shizuka
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1381820-001
 :PROPERTIES:
 :TEXT: 静か
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -24,14 +27,12 @@
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1381820-003
 :PROPERTIES:
 :TEXT: 徐か
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1381820-001
 :PROPERTIES:
 :TEXT: しずか
@@ -39,7 +40,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -49,80 +49,31 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 685d5fc252bec9bda7b388fbd35562c23a77ed26cc878d2d56f36066a1c375de
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381820-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: quiet
-*** en-s-1381820-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: silent
+- quiet
+- silent
 ** Ukrainian glosses
 *** uk-s-1381820-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тихий
 ** Russian reference
-*** ru-ref-1381820-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: тихий
-*** ru-ref-1381820-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: спокойный
-*** ru-ref-1381820-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 1): {～な} тихий
-*** ru-ref-1381820-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 2): {～な} тихий, спокойный
+- 11 :: тихий
+- 11 :: спокойный
+- 11 :: 1): {～な} тихий
+- 11 :: 2): {～な} тихий, спокойный
 ** Learner notes
 *** note-s-1381820-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Тихий, спокійний. (На-прикметник)
 - LEVEL :: beginner
@@ -130,11 +81,6 @@
 ** Examples
 *** ex-1381820-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -145,11 +91,6 @@
 - FOCUS :: 静か
 *** ex-1381820-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -160,11 +101,6 @@
 - FOCUS :: 静かに
 *** ex-1381820-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -179,48 +115,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: ddc9a61bbee754e1bc1bc36b3b5dadc805bf3283c26623af2adf1bdce0963df1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381820-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: slow
-*** en-s-1381820-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: unhurried
+- slow
+- unhurried
 ** Ukrainian glosses
 *** uk-s-1381820-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повільний
 
@@ -229,58 +136,26 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 3cfaf87535861bd9515b2ca5f4a9a48e1f2404f064deba8a9b2dd988c0b2c948
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-na
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1381820-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: calm
-*** en-s-1381820-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: peaceful
+- calm
+- peaceful
 ** Ukrainian glosses
 *** uk-s-1381820-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спокійний
 *** uk-s-1381820-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: мирний

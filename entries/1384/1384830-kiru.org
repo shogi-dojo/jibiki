@@ -1,19 +1,22 @@
 #+TITLE: 切る
 #+JMDICT_ID: 1384830
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: きる
 #+ROMAJI: kiru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1384830-001
 :PROPERTIES:
 :TEXT: 切る
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -25,7 +28,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -39,126 +41,49 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1384830-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 6219169df1373669efdce8fe97ea43f2f7e3895b1ede7cc2dbda4d38457355fd
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cut
-*** en-s-1384830-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cut through
-*** en-s-1384830-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to perform (surgery)
+- to cut
+- to cut through
+- to perform (surgery)
 ** Ukrainian glosses
 *** uk-s-1384830-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різати
 *** uk-s-1384830-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нарізати
 ** Russian reference
-*** ru-ref-1384830-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: (как 2-й элемент сложн. гл. показывает, что действие доведено до конца:)
-*** ru-ref-1384830-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: ёмикиру 読み切る прочесть [до конца]
-*** ru-ref-1384830-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: (ср.) …きれない
-*** ru-ref-1384830-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: 1) ((тж.) 截る) резать; отрезать; разрезать; вырезывать; прорезывать; пилить; ((тж.) 伐る) рубить (дерево); ((тж.) 斬る) отрубать (голову); рубить (головы)
-*** ru-ref-1384830-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: 2) прерывать, разрывать, обрывать; разъединять (телефон)
-*** ru-ref-1384830-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: 3) пересекать (напр. дорогу)
-*** ru-ref-1384830-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: 4) (связ.) сбавлять (цену)
-*** ru-ref-1384830-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 48
-:END:
-- text :: (ср.) …きる, …きれない, きれる, …きっての
+- 48 :: (как 2-й элемент сложн. гл. показывает, что действие доведено до конца:)
+- 48 :: ёмикиру 読み切る прочесть [до конца]
+- 48 :: (ср.) …きれない
+- 48 :: 1) ((тж.) 截る) резать; отрезать; разрезать; вырезывать; прорезывать; пилить; ((тж.) 伐る) рубить (дерево); ((тж.) 斬る) отрубать (голову); рубить (головы)
+- 48 :: 2) прерывать, разрывать, обрывать; разъединять (телефон)
+- 48 :: 3) пересекать (напр. дорогу)
+- 48 :: 4) (связ.) сбавлять (цену)
+- 48 :: (ср.) …きる, …きれない, きれる, …きっての
 ** Learner notes
 *** note-s-1384830-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Різати. Також використовується в багатьох ідіомах, наприклад "класти слухавку" (電話を切る).
 - LEVEL :: beginner
@@ -166,11 +91,6 @@
 ** Examples
 *** ex-1384830-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -181,11 +101,6 @@
 - FOCUS :: 切ります
 *** ex-1384830-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -196,11 +111,6 @@
 - FOCUS :: 切って
 *** ex-1384830-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -215,42 +125,21 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: ada1e038bd0af85b4a91be15e9c76a78bbc22457ccd04c60c2479e6600b397c3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 縁を切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to sever (connections, ties)
+- to sever (connections, ties)
 ** Ukrainian glosses
 *** uk-s-1384830-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розривати
 - qualifier :: зв'язки
@@ -260,41 +149,19 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: f2c0596487c6c455b8872607a47d40210a5b71ff27964a0760070c2d6d854604
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to turn off (e.g. the light)
+- to turn off (e.g. the light)
 ** Ukrainian glosses
 *** uk-s-1384830-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вимикати
 - qualifier :: світло тощо
@@ -304,70 +171,32 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: c6b3794550159c9249f617d0d8d1fa58410b6636176e3e96e12c3b845ad53d2f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 電話を切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to terminate (e.g. a conversation)
-*** en-s-1384830-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to hang up (the phone)
-*** en-s-1384830-004-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to disconnect
+- to terminate (e.g. a conversation)
+- to hang up (the phone)
+- to disconnect
 ** Ukrainian glosses
 *** uk-s-1384830-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: завершувати
 - qualifier :: розмову
 *** uk-s-1384830-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: класти слухавку
 
@@ -376,61 +205,29 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: c0cacdef3d12d8e30e2220d67e3a4b85622c2c784a9f8082632eb5cdaec8a985
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to punch (a ticket)
-*** en-s-1384830-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to tear off (a stub)
+- to punch (a ticket)
+- to tear off (a stub)
 ** Ukrainian glosses
 *** uk-s-1384830-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: компостувати
 - qualifier :: квиток
 *** uk-s-1384830-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відривати
 - qualifier :: корінець
@@ -440,41 +237,19 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 590049374baba9927ccf4b6e695e48cc2fe4204f5b04106ac0fb4c124d9753e9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to open (something sealed)
+- to open (something sealed)
 ** Ukrainian glosses
 *** uk-s-1384830-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: відкривати
 - qualifier :: щось запечатане
@@ -484,41 +259,19 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 0c92c7553279cfeebc63f9904470a1de483b44d892ee93b701fb8a58cf8f6e77
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to start
+- to start
 ** Ukrainian glosses
 *** uk-s-1384830-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: починати
 
@@ -527,69 +280,30 @@
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 11ef8dd614bf7093be48de4c969c56e9896bf774dbe98a1732a7237c97dc0bb5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to set (a limit)
-*** en-s-1384830-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do (something) in less or within a certain time
-*** en-s-1384830-008-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to issue (cheques, vouchers, etc.)
+- to set (a limit)
+- to do (something) in less or within a certain time
+- to issue (cheques, vouchers, etc.)
 ** Ukrainian glosses
 *** uk-s-1384830-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: встановлювати
 - qualifier :: ліміт
 *** uk-s-1384830-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: видавати
 - qualifier :: чеки
@@ -599,80 +313,39 @@
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: d2154d384ea49e607f85b0d9225a7e53611b596d0259dc3fee99fec4fa6ac376
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 値切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to reduce
-*** en-s-1384830-009-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to decrease
-*** en-s-1384830-009-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to discount
+- to reduce
+- to decrease
+- to discount
 ** Ukrainian glosses
 *** uk-s-1384830-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зменшувати
 *** uk-s-1384830-009-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: знижувати
 *** uk-s-1384830-009-003
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити знижку
 
@@ -681,69 +354,30 @@
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: f6406c5fd03a0ca8ef22aed20c18726c4c7750108e64157afdde5703cfa2f5b6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to shake off (water, etc.)
-*** en-s-1384830-010-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to let drip-dry
-*** en-s-1384830-010-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to let drain
+- to shake off (water, etc.)
+- to let drip-dry
+- to let drain
 ** Ukrainian glosses
 *** uk-s-1384830-010-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: струшувати
 - qualifier :: воду
 *** uk-s-1384830-010-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: давати стекти
 
@@ -752,49 +386,20 @@
 :SOURCE_SENSE_INDEX: 11
 :SOURCE_FINGERPRINT: 7bb9d474b344646f85f76db71db7daa2f05ab6dd312d769ca595e74d470a3166
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-011-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cross
-*** en-s-1384830-011-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to traverse
+- to cross
+- to traverse
 ** Ukrainian glosses
 *** uk-s-1384830-011-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перетинати
 
@@ -803,41 +408,19 @@
 :SOURCE_SENSE_INDEX: 12
 :SOURCE_FINGERPRINT: 9cad49f41c5ac8e1e092f05d2ca1b846d8a81210ab3887c74118ba7b968ed1ec
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-012-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to criticize sharply
+- to criticize sharply
 ** Ukrainian glosses
 *** uk-s-1384830-012-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: різко критикувати
 
@@ -846,65 +429,22 @@
 :SOURCE_SENSE_INDEX: 13
 :SOURCE_FINGERPRINT: f49235c14a5bb2ef4cc601c75c7421e38bc4a251fe469866dc5a30cbc406a754
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-013-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to act decisively
-*** en-s-1384830-013-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do (something noticeable)
-*** en-s-1384830-013-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to go first
-*** en-s-1384830-013-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make (certain facial expressions, in kabuki)
+- to act decisively
+- to do (something noticeable)
+- to go first
+- to make (certain facial expressions, in kabuki)
 ** Ukrainian glosses
 *** uk-s-1384830-013-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: діяти рішуче
 
@@ -913,42 +453,21 @@
 :SOURCE_SENSE_INDEX: 14
 :SOURCE_FINGERPRINT: 5be60fe7cdeafad48ac2af1511d9d69519ebef8f986494518749189a8117603b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - ハンドルを切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-014-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to turn (vehicle, steering wheel, etc.)
+- to turn (vehicle, steering wheel, etc.)
 ** Ukrainian glosses
 *** uk-s-1384830-014-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повертати
 - qualifier :: кермо тощо
@@ -958,57 +477,21 @@
 :SOURCE_SENSE_INDEX: 15
 :SOURCE_FINGERPRINT: 4c4b4d70d03bfa4642bafa5581f43f91a6b231b0d8aed4d44e5c09f63266d9fb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-015-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to curl (a ball)
-*** en-s-1384830-015-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to bend
-*** en-s-1384830-015-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cut
+- to curl (a ball)
+- to bend
+- to cut
 ** Ukrainian glosses
 *** uk-s-1384830-015-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: закручувати
 - qualifier :: м'яч
@@ -1018,41 +501,19 @@
 :SOURCE_SENSE_INDEX: 16
 :SOURCE_FINGERPRINT: 59d076400eb75df396378f494faeac9ec0aea3970afd5e97a3bf4ecd832d235b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-016-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to shuffle (cards)
+- to shuffle (cards)
 ** Ukrainian glosses
 *** uk-s-1384830-016-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: тасувати
 - qualifier :: карти
@@ -1062,42 +523,21 @@
 :SOURCE_SENSE_INDEX: 17
 :SOURCE_FINGERPRINT: 879986cd31fc0b7dea429c21371ade2cd5946a07348a80b1befcd5cc954c8bbb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
 *** Fields
 - mahj
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-017-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to discard a tile
+- to discard a tile
 ** Ukrainian glosses
 *** uk-s-1384830-017-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: скидати тайл
 - qualifier :: у маджонгу
@@ -1107,84 +547,31 @@
 :SOURCE_SENSE_INDEX: 18
 :SOURCE_FINGERPRINT: e074fd9c39714d7a9ee2c1dbf932819eafd9fab836d39f0c524316a79e8cae4f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-018-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to dismiss
-*** en-s-1384830-018-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to sack
-*** en-s-1384830-018-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to let go
-*** en-s-1384830-018-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to expel
-*** en-s-1384830-018-005
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to excommunicate
+- to dismiss
+- to sack
+- to let go
+- to expel
+- to excommunicate
 ** Ukrainian glosses
 *** uk-s-1384830-018-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: звільняти
 *** uk-s-1384830-018-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: виганяти
 
@@ -1193,49 +580,20 @@
 :SOURCE_SENSE_INDEX: 19
 :SOURCE_FINGERPRINT: 3a88464d5d6add761003bf794753e303a33c530b0fdd3b9ae33f571b6f7ad474
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-019-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to dig (a groove)
-*** en-s-1384830-019-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cut (a stencil, on a mimeograph)
+- to dig (a groove)
+- to cut (a stencil, on a mimeograph)
 ** Ukrainian glosses
 *** uk-s-1384830-019-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: вирізати
 - qualifier :: трафарет
@@ -1245,42 +603,21 @@
 :SOURCE_SENSE_INDEX: 20
 :SOURCE_FINGERPRINT: d44d0baaa042e0eb882d299981f772d33950dd215421a7103c2c27109e9fe92b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 切り札・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-020-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to trump
+- to trump
 ** Ukrainian glosses
 *** uk-s-1384830-020-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бити козирем
 
@@ -1289,44 +626,25 @@
 :SOURCE_SENSE_INDEX: 21
 :SOURCE_FINGERPRINT: 13055ab33caf2099c425dcda43c477cd0a514aeef58bf082c9399c1ad484ba64
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
 *** Fields
 - go
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - sometimes キる
 *** Cross-references
 - キリ・7
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-021-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cut (the connection between two groups)
+- to cut (the connection between two groups)
 ** Ukrainian glosses
 *** uk-s-1384830-021-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розривати зв'язок
 - qualifier :: між групами
@@ -1336,42 +654,21 @@
 :SOURCE_SENSE_INDEX: 22
 :SOURCE_FINGERPRINT: 1c55f056996c9ef1d980fa6f0db32e6f58f9c748f402b3bc2593562de568f87d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - also written as 鑽る
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-022-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to start a fire (with wood-wood friction or by striking a metal against stone)
+- to start a fire (with wood-wood friction or by striking a metal against stone)
 ** Ukrainian glosses
 *** uk-s-1384830-022-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: добувати вогонь
 
@@ -1380,41 +677,19 @@
 :SOURCE_SENSE_INDEX: 23
 :SOURCE_FINGERPRINT: 1bd81a09c7febc4e77c4a3afdb828af171c6f3c6c4269ee7259811fcfee9157f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v5r
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-023-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to draw (a shape) in the air (with a sword, etc.)
+- to draw (a shape) in the air (with a sword, etc.)
 ** Ukrainian glosses
 *** uk-s-1384830-023-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: малювати
 - qualifier :: в повітрі мечем
@@ -1424,51 +699,24 @@
 :SOURCE_SENSE_INDEX: 24
 :SOURCE_FINGERPRINT: 3ce87295e45e321d23ad3bd5863c794526b9087c91c0f2377dda2bdd98f3c51d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v5r
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
 *** Cross-references
 - 使い切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-024-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do completely
-*** en-s-1384830-024-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to finish doing
+- to do completely
+- to finish doing
 ** Ukrainian glosses
 *** uk-s-1384830-024-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: повністю завершити
 
@@ -1477,59 +725,25 @@
 :SOURCE_SENSE_INDEX: 25
 :SOURCE_FINGERPRINT: fa1771fc9215166ca1bf2feac0b87df836fb5f1960df86971d6e20d0a43294e1
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v5r
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
 *** Cross-references
 - 疲れ切る
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-025-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be completely ...
-*** en-s-1384830-025-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be totally ...
-*** en-s-1384830-025-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to be terribly ...
+- to be completely ...
+- to be totally ...
+- to be terribly ...
 ** Ukrainian glosses
 *** uk-s-1384830-025-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: бути абсолютно
 - qualifier :: якимось
@@ -1539,69 +753,32 @@
 :SOURCE_SENSE_INDEX: 26
 :SOURCE_FINGERPRINT: c2a76b09772232304d06475919260c8845285c65a7cb5ab2b945cf169fed301b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v5r
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
 *** Cross-references
 - 言い切る・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1384830-026-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do clearly
-*** en-s-1384830-026-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do decisively
-*** en-s-1384830-026-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do firmly
+- to do clearly
+- to do decisively
+- to do firmly
 ** Ukrainian glosses
 *** uk-s-1384830-026-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити чітко
 *** uk-s-1384830-026-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: діяти рішуче

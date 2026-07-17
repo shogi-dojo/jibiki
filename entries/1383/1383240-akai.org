@@ -1,20 +1,22 @@
 #+TITLE: 赤い
 #+JMDICT_ID: 1383240
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あかい
 #+ROMAJI: akai
 #+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-5
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
 
 * Forms
 ** Written form wf-1383240-001
 :PROPERTIES:
 :TEXT: 赤い
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -23,36 +25,30 @@
 :PROPERTIES:
 :TEXT: 紅い
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1383240-003
 :PROPERTIES:
 :TEXT: 朱い
 :END:
 *** Information
 - rK
-*** Priorities
 ** Written form wf-1383240-004
 :PROPERTIES:
 :TEXT: 緋い
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1383240-005
 :PROPERTIES:
 :TEXT: 赭い
 :END:
 *** Information
 - sK
-*** Priorities
 ** Written form wf-1383240-006
 :PROPERTIES:
 :TEXT: 丹い
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1383240-001
 :PROPERTIES:
 :TEXT: あかい
@@ -60,7 +56,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -70,108 +65,49 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 58ef276b257091642a6b975fb758101b32ec6f83afd14598d6390c0e812fdafb
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - esp. 紅い for scarlet, 朱い for vermilion
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1383240-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: red
-*** en-s-1383240-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: crimson
-*** en-s-1383240-001-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: scarlet
-*** en-s-1383240-001-004
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: vermilion
+- red
+- crimson
+- scarlet
+- vermilion
 ** Ukrainian glosses
 *** uk-s-1383240-001-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-5
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: червоний
 *** uk-s-1383240-001-002
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-5
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: багряний
 *** uk-s-1383240-001-003
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-5
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: яскраво-червоний
 ** Russian reference
-*** ru-ref-1383240-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: красный
-*** ru-ref-1383240-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 1) красный, алый
+- 11 :: красный
+- 11 :: 1) красный, алый
 ** Learner notes
 *** note-s-1383240-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: codex-agent-5
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
 - UK :: Прикметник い-типу. Різні ієрогліфи передають відтінки: 赤い — загальне «червоний», 紅い — яскраво-червоний або багряний, 朱い — кіноварний. У повсякденному мовленні найчастіше вживається 赤い.
@@ -180,13 +116,8 @@
 ** Examples
 *** ex-1383240-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
 :SOURCE_ID:
 :SOURCE_URL:
-:AUTHOR_ID: codex-agent-5
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -201,55 +132,23 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 2fed6952a4bcb109b9c5c18ca7d236c150946ca000b1635035675c63128728f9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-i
-*** Fields
 *** Miscellaneous and register
 - col
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1383240-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: Red
-*** en-s-1383240-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: communist
+- Red
+- communist
 ** Ukrainian glosses
 *** uk-s-1383240-002-001
 :PROPERTIES:
-:STATUS: reviewed
 :TRANSLATOR_ID: codex-agent-5
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: червоний
 - qualifier :: тобто комуністичний
 ** Russian reference
-*** ru-ref-1383240-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 11
-:END:
-- text :: 2) (полит.) красный (напр. о коммунистах)
+- 11 :: 2) (полит.) красный (напр. о коммунистах)

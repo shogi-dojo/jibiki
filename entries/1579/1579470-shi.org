@@ -1,19 +1,22 @@
 #+TITLE: 四
 #+JMDICT_ID: 1579470
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: し
 #+ROMAJI: shi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1579470-001
 :PROPERTIES:
 :TEXT: 四
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -22,14 +25,10 @@
 :PROPERTIES:
 :TEXT: ４
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1579470-003
 :PROPERTIES:
 :TEXT: 肆
 :END:
-*** Information
-*** Priorities
 ** Reading rd-1579470-001
 :PROPERTIES:
 :TEXT: し
@@ -37,7 +36,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 ** Reading rd-1579470-002
@@ -47,7 +45,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news1
@@ -59,78 +56,35 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
-*** Priorities
-
 * Sense s-1579470-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 8fb66e467cad7ae566ca235972a7cd15763b02183eaba67951d9b8351da83f78
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - num
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 肆 is used in legal documents
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1579470-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: four
-*** en-s-1579470-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: 4
+- four
+- 4
 ** Ukrainian glosses
 *** uk-s-1579470-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: чотири
 ** Russian reference
-*** ru-ref-1579470-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: четыре
-*** ru-ref-1579470-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 7
-:END:
-- text :: четыре ((при отвлечённом счёте, ср.) ひ【一】, ふ【二】, み【三】)
+- 7 :: четыре
+- 7 :: четыре ((при отвлечённом счёте, ср.) ひ【一】, ふ【二】, み【三】)
 ** Learner notes
 *** note-s-1579470-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Чотири (число). Читається як "yon" або "shi".
 - LEVEL :: beginner
@@ -138,11 +92,6 @@
 ** Examples
 *** ex-1579470-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -153,11 +102,6 @@
 - FOCUS :: 四本
 *** ex-1579470-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -168,11 +112,6 @@
 - FOCUS :: 四人
 *** ex-1579470-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:

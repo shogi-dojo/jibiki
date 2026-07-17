@@ -1,20 +1,22 @@
 #+TITLE: 上げる
 #+JMDICT_ID: 1352320
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あげる
 #+ROMAJI: ageru
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
-#+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1352320-001
 :PROPERTIES:
 :TEXT: 上げる
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -25,7 +27,6 @@
 :END:
 *** Information
 - sK
-*** Priorities
 ** Reading rd-1352320-001
 :PROPERTIES:
 :TEXT: あげる
@@ -33,7 +34,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -47,160 +47,55 @@
 - *
 *** Information
 - sk
-*** Priorities
-
 * Sense s-1352320-001
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 944c262b4282c8b736fce016309c0946bb9c8dffd030e3160687184b065c35a9
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 手を上げる・1
 - 挙げる・9
 *** Antonyms
 - 下げる・2
-*** Language sources
 ** English glosses
-*** en-s-1352320-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise
-*** en-s-1352320-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to elevate
+- to raise
+- to elevate
 ** Ukrainian glosses
 *** uk-s-1352320-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піднімати
 ** Russian reference
-*** ru-ref-1352320-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 1) ((тж.) 揚げる, 挙げる) поднимать; повышать
-*** ru-ref-1352320-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: (ср.) こえ【声】(を上げて), な【名】(を上げる), ふうさい【風采】(を揚げる)
-*** ru-ref-1352320-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 2) давать, преподносить
-*** ru-ref-1352320-004
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: (ср.) ぜんりょく【全力】(を上げる)
-*** ru-ref-1352320-005
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 3) ((тж.) 揚げる) хвалить
-*** ru-ref-1352320-006
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 4) впускать (в комнату, в дом)
-*** ru-ref-1352320-007
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 5) заканчивать, кончать; (ср.) …あげる
-*** ru-ref-1352320-008
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 6) обходиться, стоить
-*** ru-ref-1352320-009
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 7) возлагать на алтарь
-*** ru-ref-1352320-010
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 8) арестовать, схватить (преступника)
-*** ru-ref-1352320-011
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 9) приводить (напр. пример); упоминать (напр. факт)
-*** ru-ref-1352320-012
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 10) ((тж.) 挙げる) проводить (обряд, церемонию)
-*** ru-ref-1352320-013
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 11) всасывать, впитывать
-*** ru-ref-1352320-014
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 12) вызывать (гейшу)
-*** ru-ref-1352320-015
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 13) ((тж.) 挙げる) родить (ребёнка)
-*** ru-ref-1352320-016
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 14) ((тк.) 揚げる) жарить
-*** ru-ref-1352320-017
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: 15) (как служ. гл. после деепр. показывает, что действие совершается 1-м лицом для 2-го или 3-го или низшим, в каком-л. смысле, для высшего:)
-*** ru-ref-1352320-018
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 72
-:END:
-- text :: (ср.) あげず
+- 72 :: 1) ((тж.) 揚げる, 挙げる) поднимать; повышать
+- 72 :: (ср.) こえ【声】(を上げて), な【名】(を上げる), ふうさい【風采】(を揚げる)
+- 72 :: 2) давать, преподносить
+- 72 :: (ср.) ぜんりょく【全力】(を上げる)
+- 72 :: 3) ((тж.) 揚げる) хвалить
+- 72 :: 4) впускать (в комнату, в дом)
+- 72 :: 5) заканчивать, кончать; (ср.) …あげる
+- 72 :: 6) обходиться, стоить
+- 72 :: 7) возлагать на алтарь
+- 72 :: 8) арестовать, схватить (преступника)
+- 72 :: 9) приводить (напр. пример); упоминать (напр. факт)
+- 72 :: 10) ((тж.) 挙げる) проводить (обряд, церемонию)
+- 72 :: 11) всасывать, впитывать
+- 72 :: 12) вызывать (гейшу)
+- 72 :: 13) ((тж.) 挙げる) родить (ребёнка)
+- 72 :: 14) ((тк.) 揚げる) жарить
+- 72 :: 15) (как служ. гл. после деепр. показывает, что действие совершается 1-м лицом для 2-го или 3-го или низшим, в каком-л. смысле, для высшего:)
+- 72 :: (ср.) あげず
 ** Learner notes
 *** note-s-1352320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Дуже багатозначне дієслово 2-ї групи. Основне значення - піднімати, підвищувати.
 - LEVEL :: beginner
@@ -208,11 +103,6 @@
 ** Examples
 *** ex-1352320-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -227,1367 +117,604 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 891767b52f4dd9fdf41c9d630bfaa11a723e4fcfe04b02f93caf12032bd170a3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to move something (to a higher place)
-*** en-s-1352320-002-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to put onto (e.g. a shelf)
+- to move something (to a higher place)
+- to put onto (e.g. a shelf)
 ** Ukrainian glosses
 *** uk-s-1352320-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: переміщати вище
 *** uk-s-1352320-002-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: ставити
 - qualifier :: наприклад, на полицю
-** Russian reference
-
 * Sense s-1352320-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: 3e4683d084a7efdc6a793f39e95e1d637e68fcf34b8e019fcd381ffd139993a6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - occ. 騰げる in ref. to price
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to increase (price, quality, status, etc.)
-*** en-s-1352320-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise (a wage)
+- to increase (price, quality, status, etc.)
+- to raise (a wage)
 ** Ukrainian glosses
 *** uk-s-1352320-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: підвищувати
 - qualifier :: ціну, якість тощо
-** Russian reference
-
 * Sense s-1352320-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 70220cb952d84f0910f99a23adc442a067c837641cb85de8d3d40c669e9c9b2d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to show someone (into a room)
-*** en-s-1352320-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to let in (e.g. a guest)
+- to show someone (into a room)
+- to let in (e.g. a guest)
 ** Ukrainian glosses
 *** uk-s-1352320-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: впускати
 - qualifier :: гостя
-** Russian reference
-
 * Sense s-1352320-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 4271d10debc0f8e4f6320706e6529b965295693c20bcab50d0dfd11336f1e82f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
 *** Miscellaneous and register
 - pol
 - uk
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to give
+- to give
 ** Ukrainian glosses
 *** uk-s-1352320-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: давати
-** Russian reference
-
 * Sense s-1352320-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 315417d8452cbc66832c6eba2f925cdb998016211c3d719e1f64a84faf8a99a3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to enrol (one's child in school)
-*** en-s-1352320-006-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to enroll
-*** en-s-1352320-006-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to send (one's child; e.g. to college)
+- to enrol (one's child in school)
+- to enroll
+- to send (one's child; e.g. to college)
 ** Ukrainian glosses
 *** uk-s-1352320-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: віддавати
 - qualifier :: до школи
-** Russian reference
-
 * Sense s-1352320-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 41b41e7c47ddfc559325e922383eb944f23e4d195d1e7d817cd3492d2c251740
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to develop (talent, skill, etc.)
-*** en-s-1352320-007-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to improve
+- to develop (talent, skill, etc.)
+- to improve
 ** Ukrainian glosses
 *** uk-s-1352320-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: розвивати
 - qualifier :: навички
 *** uk-s-1352320-007-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: покращувати
-** Russian reference
-
 * Sense s-1352320-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
 :SOURCE_FINGERPRINT: 3143392b79917ef400cccd5c2530fdeb81092a800e73d446e452a1312f4caad8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 挙げる・11
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-008-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to earn (something desirable)
-*** en-s-1352320-008-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to achieve (e.g. a good result)
-*** en-s-1352320-008-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to obtain
+- to earn (something desirable)
+- to achieve (e.g. a good result)
+- to obtain
 ** Ukrainian glosses
 *** uk-s-1352320-008-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: здобувати
 - qualifier :: бажане
 *** uk-s-1352320-008-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: досягати
-** Russian reference
-
 * Sense s-1352320-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
 :SOURCE_FINGERPRINT: 174b53e1b11a81b1c88dab49d9d53e0b6302b843ecfeb79bf32e95cfb55eb9ed
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-009-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to promote (someone)
+- to promote (someone)
 ** Ukrainian glosses
 *** uk-s-1352320-009-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: підвищувати
 - qualifier :: на посаді
-** Russian reference
-
 * Sense s-1352320-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
 :SOURCE_FINGERPRINT: 6ddeb609814b6baf8962fd39db9b11b19dd42b608673306fb88a3cf395150ef9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-010-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to complete
-*** en-s-1352320-010-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to finish
+- to complete
+- to finish
 ** Ukrainian glosses
 *** uk-s-1352320-010-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: закінчувати
-** Russian reference
-
 * Sense s-1352320-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
 :SOURCE_FINGERPRINT: 8d10f6e11fb847ff19e1aca11b1e658eeab5360ee9ba97d605b0b7ad8b35bbc6
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 声を上げる・1
 - 挙げる・10
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-011-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make (a loud sound)
-*** en-s-1352320-011-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise (one's voice)
+- to make (a loud sound)
+- to raise (one's voice)
 ** Ukrainian glosses
 *** uk-s-1352320-011-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: видавати
 - qualifier :: гучний звук
 *** uk-s-1352320-011-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: підвищувати голос
-** Russian reference
-
 * Sense s-1352320-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
 :SOURCE_FINGERPRINT: 0cb9339be047ec8cfa22f157f897871aa4272a14b7c104c049122d280ae55ffc
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-012-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise (one's gaze)
-*** en-s-1352320-012-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to lift up (one's face)
-*** en-s-1352320-012-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to look up
+- to raise (one's gaze)
+- to lift up (one's face)
+- to look up
 ** Ukrainian glosses
 *** uk-s-1352320-012-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піднімати погляд
 *** uk-s-1352320-012-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піднімати голову
-** Russian reference
-
 * Sense s-1352320-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
 :SOURCE_FINGERPRINT: fdfb3fd4007e0e4cf9cede0baa6eda56d250202a4e79821ece7601e0db61169d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - 髪を上げる
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-013-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do up (one's hair)
+- to do up (one's hair)
 ** Ukrainian glosses
 *** uk-s-1352320-013-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити зачіску
-** Russian reference
-
 * Sense s-1352320-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
 :SOURCE_FINGERPRINT: ab99b4c626fad0cd4bd4a12da44929507f77f34c687c1c1e2dfc6332e6176334
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-014-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)
+- to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)
 ** Ukrainian glosses
 *** uk-s-1352320-014-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: приносити
 - qualifier :: богам
-** Russian reference
-
 * Sense s-1352320-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
 :SOURCE_FINGERPRINT: f4cfcc386050f297d011a9506fcb6c21850bc16bc89ac484b55cce0caa29b7d7
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-015-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to praise
-*** en-s-1352320-015-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to commend
-*** en-s-1352320-015-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to flatter
+- to praise
+- to commend
+- to flatter
 ** Ukrainian glosses
 *** uk-s-1352320-015-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: хвалити
-** Russian reference
-
 * Sense s-1352320-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
 :SOURCE_FINGERPRINT: a1aef34aaa205515c9654d5d46d5cce1d4e7364a1f6603fc8846102a83ac67fd
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-016-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to make do (with less expenses than expected)
-*** en-s-1352320-016-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cover expenses (with a given amount)
-*** en-s-1352320-016-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to set costs
+- to make do (with less expenses than expected)
+- to cover expenses (with a given amount)
+- to set costs
 ** Ukrainian glosses
 *** uk-s-1352320-016-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: покривати витрати
-** Russian reference
-
 * Sense s-1352320-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
 :SOURCE_FINGERPRINT: 4e9e7124acc63503360495168dd185f12ecef1d89e9f1836e88899ce23abd6e5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-017-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to finish (one's studies)
-*** en-s-1352320-017-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to complete (a lesson)
-*** en-s-1352320-017-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to pass (e.g. a class)
+- to finish (one's studies)
+- to complete (a lesson)
+- to pass (e.g. a class)
 ** Ukrainian glosses
 *** uk-s-1352320-017-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: закінчувати
 - qualifier :: навчання
-** Russian reference
-
 * Sense s-1352320-018
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 18
 :SOURCE_FINGERPRINT: 313fc9f945e3bb13dbe70bdf4517bfc700a463f51129fabc88e72ffd30c1fbaf
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-018-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to upload (e.g. an image)
-*** en-s-1352320-018-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to publish (on the internet)
-*** en-s-1352320-018-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to post
+- to upload (e.g. an image)
+- to publish (on the internet)
+- to post
 ** Ukrainian glosses
 *** uk-s-1352320-018-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: завантажувати
 - qualifier :: в інтернет
-** Russian reference
-
 * Sense s-1352320-019
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 19
 :SOURCE_FINGERPRINT: 6913298606ecb250767aa9239659eb1c275d10f8b8d0f65f0f242a3ba12c3ac2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vt
-*** Fields
 *** Miscellaneous and register
 - col
-*** Dialects
 *** Sense information
 - esp. as アゲる
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-019-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to raise someone's spirits
-*** en-s-1352320-019-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to cheer someone up
-*** en-s-1352320-019-003
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to enhance a mood
+- to raise someone's spirits
+- to cheer someone up
+- to enhance a mood
 ** Ukrainian glosses
 *** uk-s-1352320-019-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: піднімати настрій
-** Russian reference
-
 * Sense s-1352320-020
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 20
 :SOURCE_FINGERPRINT: 018c001b2ecca24dc1b2029255e0efc94c1098d08dfe0068e9a5ea78491b9458
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-020-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: (of the tide) to come in
-*** en-s-1352320-020-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to rise
+- (of the tide) to come in
+- to rise
 ** Ukrainian glosses
 *** uk-s-1352320-020-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прибувати
 - qualifier :: про приплив
-** Russian reference
-
 * Sense s-1352320-021
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 21
 :SOURCE_FINGERPRINT: b4da6ad28bbe7a5e80f39aeb55ac9d8e9bfce8c4e09ab139605c2d4df31484d2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
 *** Fields
 - finc
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-021-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to increase (of market price)
-*** en-s-1352320-021-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to rise (of stock prices)
+- to increase (of market price)
+- to rise (of stock prices)
 ** Ukrainian glosses
 *** uk-s-1352320-021-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зростати
 - qualifier :: про ринкову ціну, курс акцій
-** Russian reference
-
 * Sense s-1352320-022
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 22
 :SOURCE_FINGERPRINT: 8aed0b5c9c56494ea469fd469d958cb63e4b7f4696568da8a0d4581e6b6b53f3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - v1
 - vi
 - vt
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-022-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to vomit
-*** en-s-1352320-022-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to throw up
+- to vomit
+- to throw up
 ** Ukrainian glosses
 *** uk-s-1352320-022-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: блювати
 - qualifier :: розмовне
-** Russian reference
-
 * Sense s-1352320-023
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 23
 :SOURCE_FINGERPRINT: 539274c15c9276d832a3d7108640636564bfb957f7c0d01313db076af939e23f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - aux-v
 - v1
-*** Fields
 *** Miscellaneous and register
 - uk
 - pol
-*** Dialects
 *** Sense information
 - after the -te form of a verb
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-023-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to do for (the sake of someone else)
+- to do for (the sake of someone else)
 ** Ukrainian glosses
 *** uk-s-1352320-023-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: робити (щось) для когось
 - qualifier :: допоміжне дієслово після -te форми; на користь іншої особи
-** Russian reference
-
 * Sense s-1352320-024
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 24
 :SOURCE_FINGERPRINT: 11420d72bed4eef6379f293b1beb3187726ab78067ccbf3f250e92092260c71f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v1
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - after the -masu stem of a verb
 *** Cross-references
 - 作り上げる・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-024-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to complete ...
+- to complete ...
 ** Ukrainian glosses
 *** uk-s-1352320-024-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: доводити до кінця
 - qualifier :: завершення дії; після -masu основи дієслова
-** Russian reference
-
 * Sense s-1352320-025
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 25
 :SOURCE_FINGERPRINT: 02168e5f62d367763a8eb87c3190d67633d9f81a0d135cdfc15c04d7057df10b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - suf
 - v1
-*** Fields
 *** Miscellaneous and register
 - hum
-*** Dialects
 *** Sense information
 - after the -masu stem of a humble verb to increase the level of humility
 *** Cross-references
 - 申し上げる・2
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1352320-025-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: to humbly do ...
+- to humbly do ...
 ** Ukrainian glosses
 *** uk-s-1352320-025-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: смиренно виконувати дію
 - qualifier :: виражає смиренність мовця; після -masu основи скромного дієслова
-** Russian reference
-
 * Sense s-1352320-026
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 26
 :SOURCE_FINGERPRINT: 12bbf6776d539de4f8d46e4770f993bc931fbedd3f81200bf5023b337092631c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-026-001
 :PROPERTIES:
@@ -1798,27 +925,13 @@
 :END:
 - text :: {顔を} opkijken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-027
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 27
 :SOURCE_FINGERPRINT: 62bdad6d3e80ad66cf63115ad5dc3a730c43d9ef374ed8cd479e476adb3a4315
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-027-001
 :PROPERTIES:
@@ -1869,27 +982,13 @@
 :END:
 - text :: hoog opgeven van
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-028
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 28
 :SOURCE_FINGERPRINT: d66114ac1f9fc8636eaaf2a723c95629beb10d055f7d3f824c886413a5092246
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-028-001
 :PROPERTIES:
@@ -1948,27 +1047,13 @@
 :END:
 - text :: {スピードを} vergroten
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-029
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 29
 :SOURCE_FINGERPRINT: cf49cf7d93d823889ead8f1f6c6c5ee7b0ffd2ddf4578836a707d75e8d4c3c6f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-029-001
 :PROPERTIES:
@@ -1987,27 +1072,13 @@
 :END:
 - text :: promoveren
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-030
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 30
 :SOURCE_FINGERPRINT: 72a51ac27bc0423f1aa751bf84f388ef082ae1a1f2eced9d8f86a086587435ef
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-030-001
 :PROPERTIES:
@@ -2066,27 +1137,13 @@
 :END:
 - text :: {gew.} opbrengen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-031
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 31
 :SOURCE_FINGERPRINT: 119cf15d27ca653826c286c288809c99a1e609b7fbad6c1e2bc3f8cc7afa58d5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-031-001
 :PROPERTIES:
@@ -2129,27 +1186,13 @@
 :END:
 - text :: geleiden
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-032
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 32
 :SOURCE_FINGERPRINT: de9b79187cae219ea48fcbf08b9d5465a1837cce784e23bda7cd15c0393658d3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-032-001
 :PROPERTIES:
@@ -2160,27 +1203,13 @@
 :END:
 - text :: {学校へ} op school doen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-033
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 33
 :SOURCE_FINGERPRINT: 54cdb4f32c4b51c17225e71893d1f9bbb0ce19833b83dab73f2dee4b07426213
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-033-001
 :PROPERTIES:
@@ -2239,27 +1268,13 @@
 :END:
 - text :: {娘を} wegschenken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-034
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 34
 :SOURCE_FINGERPRINT: fab91a4b3de8c8b46c85c5dc131b449878dcd6f4857fdf713e2d07d0435cf574
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-034-001
 :PROPERTIES:
@@ -2278,27 +1293,13 @@
 :END:
 - text :: ten offer brengen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-035
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 35
 :SOURCE_FINGERPRINT: 4b8e40c92d9e14ebf9b3b26dd639c9b7c0a822f957b8ac5c2ab40763239ee800
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-035-001
 :PROPERTIES:
@@ -2333,27 +1334,13 @@
 :END:
 - text :: overreiken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-036
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 36
 :SOURCE_FINGERPRINT: fcfd7b70775d4564918826b818bfa9194531a93c39b20a5b9f9edfe22ff817cb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-036-001
 :PROPERTIES:
@@ -2396,27 +1383,13 @@
 :END:
 - text :: voltooien
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-037
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 37
 :SOURCE_FINGERPRINT: 95cec2d6f183abd96b93a7bf80e7d586fece00dddd22c40105fbbb50b4082eb3
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-037-001
 :PROPERTIES:
@@ -2435,27 +1408,13 @@
 :END:
 - text :: gedaan weten te krijgen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-038
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 38
 :SOURCE_FINGERPRINT: 8d872db351e5674aba684e5bbfc324384879884ea1555c40d4c9c22fadd2e4ca
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-038-001
 :PROPERTIES:
@@ -2490,27 +1449,13 @@
 :END:
 - text :: fêteren
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-039
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 39
 :SOURCE_FINGERPRINT: eb11e05758a20e3ac74042f00a45d3cd5ba0345084ab3167ef71cac64600112c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-039-001
 :PROPERTIES:
@@ -2601,27 +1546,13 @@
 :END:
 - text :: opvissen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-040
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 40
 :SOURCE_FINGERPRINT: 6772ac1ac4b4b8248d456a20556424e9039da325b93b8f7b9b2dbc33f2ba48b2
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-040-001
 :PROPERTIES:
@@ -2656,27 +1587,13 @@
 :END:
 - text :: {父が} verwekken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-041
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 41
 :SOURCE_FINGERPRINT: bf0e9a94bc28fe14dc425d93b0518bbe02f772af803ba44f8e0e7dd018c2a40a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-041-001
 :PROPERTIES:
@@ -2703,27 +1620,13 @@
 :END:
 - text :: ontplooien
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-042
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 42
 :SOURCE_FINGERPRINT: 0349c8563c2e082f1f75dd6c45420555193ece5464063c126ab4860c7d263a57
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-042-001
 :PROPERTIES:
@@ -2758,27 +1661,13 @@
 :END:
 - text :: kappen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-043
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 43
 :SOURCE_FINGERPRINT: ab51aecf749da2ca79ed0627262c8a5851eb4d6a419f003ccf4b5232e70cb189
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-043-001
 :PROPERTIES:
@@ -2853,27 +1742,13 @@
 :END:
 - text :: arresteren
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-044
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 44
 :SOURCE_FINGERPRINT: 05505b0ae8ff8bcd0dea445629d5ea553af88ed86e6c73d99149647863c7b52c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-044-001
 :PROPERTIES:
@@ -2924,27 +1799,13 @@
 :END:
 - text :: engageren
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-045
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 45
 :SOURCE_FINGERPRINT: 5fda90a402ba23d4fd92d7c1b8506215e9c1448da9694f07593b43a1bff76b2c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-045-001
 :PROPERTIES:
@@ -2979,27 +1840,13 @@
 :END:
 - text :: {gew.} fritten
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-046
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 46
 :SOURCE_FINGERPRINT: 5aad31353b3d09635e67426c1bdd176fcc1a78bf74fc2beb446bee4344d08e2f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-046-001
 :PROPERTIES:
@@ -3042,27 +1889,13 @@
 :END:
 - text :: realiseren
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-047
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 47
 :SOURCE_FINGERPRINT: 25aa9d4e29cb359b5d64e6bb786c8450ea3719dd31b62cb067437631428d8f87
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-047-001
 :PROPERTIES:
@@ -3105,27 +1938,13 @@
 :END:
 - text :: lever (la main, la tête)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-048
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 48
 :SOURCE_FINGERPRINT: 3dacf04f686e51dc2c0824f6e96e531ca2c4fdf34afd692012e1d110d17fae50
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-048-001
 :PROPERTIES:
@@ -3144,27 +1963,13 @@
 :END:
 - text :: donner (un exemple)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-049
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 49
 :SOURCE_FINGERPRINT: 33a0c124920508ee5db3b0081cc500fdc4132ac4310979fba46fb33a439ec5e9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-049-001
 :PROPERTIES:
@@ -3175,27 +1980,13 @@
 :END:
 - text :: arrêter
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-050
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 50
 :SOURCE_FINGERPRINT: 2d3798e83615e89bc2b5dfef482b86a1a56855c28b96de9cbe558bcab56971da
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-050-001
 :PROPERTIES:
@@ -3206,27 +1997,13 @@
 :END:
 - text :: tenir (une cérémonie)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-051
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 51
 :SOURCE_FINGERPRINT: 376861001038bf538bf39f7c86a88152331da64ba614d0aafab910d1cdbfb47c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-051-001
 :PROPERTIES:
@@ -3269,27 +2046,13 @@
 :END:
 - text :: relever
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-052
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 52
 :SOURCE_FINGERPRINT: df8665e0e8aff73c9a44e753600e789478740711a137f751af91596737f02ebb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-052-001
 :PROPERTIES:
@@ -3300,27 +2063,13 @@
 :END:
 - text :: attraper (un voleur)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-053
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 53
 :SOURCE_FINGERPRINT: c445481c67a580180ded89a46b044b81eb19e4505de1dd0c5e239636583affdb
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-053-001
 :PROPERTIES:
@@ -3371,27 +2120,13 @@
 :END:
 - text :: hochhalten
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-054
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 54
 :SOURCE_FINGERPRINT: ad9e92680dbd515d63c60e3489291bde513ba7c0586c4e2d0d309a63444742b8
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-054-001
 :PROPERTIES:
@@ -3402,27 +2137,13 @@
 :END:
 - text :: hissen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-055
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 55
 :SOURCE_FINGERPRINT: 2e19bf53001c75260efb7d3de8a58946395a012eeb20b6121067a7d0e952cbaa
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-055-001
 :PROPERTIES:
@@ -3441,27 +2162,13 @@
 :END:
 - text :: anheben
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-056
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 56
 :SOURCE_FINGERPRINT: 853a5f22b5ec4bdb85064b689f56c9927eaa709b792fa1a31951fa995538ec00
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-056-001
 :PROPERTIES:
@@ -3472,27 +2179,13 @@
 :END:
 - text :: anheben (Gesicht, Blick)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-057
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 57
 :SOURCE_FINGERPRINT: aad65a96a980b30426a37d5dcf61b575416966453cb37ff9b88cb1280d8f90bf
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-057-001
 :PROPERTIES:
@@ -3503,27 +2196,13 @@
 :END:
 - text :: anführen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-058
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 58
 :SOURCE_FINGERPRINT: 18b2b44b91e01c184d271cf2823a555ce3bb6398a855f5e744613cb99ab4a7d9
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-058-001
 :PROPERTIES:
@@ -3542,27 +2221,13 @@
 :END:
 - text :: schenken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-059
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 59
 :SOURCE_FINGERPRINT: b8a0c56d3d11a9f73190c2104278adcc5307f1e37f65344c79128f0ffc8bc3c7
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-059-001
 :PROPERTIES:
@@ -3605,27 +2270,13 @@
 :END:
 - text :: bestellen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-060
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 60
 :SOURCE_FINGERPRINT: 43207d0c9cd3706d4b906674c495eabc7641990f86881ee7f8cc7f1ea2cc8541
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-060-001
 :PROPERTIES:
@@ -3636,27 +2287,13 @@
 :END:
 - text :: zur Schule schicken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-061
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 61
 :SOURCE_FINGERPRINT: ec79db4c01411538d7a06f1d9171e497e7b86c8b6a400c8c747631c876914c0e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-061-001
 :PROPERTIES:
@@ -3667,27 +2304,13 @@
 :END:
 - text :: auf eine höhere Schule wechseln lassen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-062
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 62
 :SOURCE_FINGERPRINT: ac2caee183cb4c50323af2ca3b21e7ef4a827b08307cfc2a02b170b1d9871116
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-062-001
 :PROPERTIES:
@@ -3698,27 +2321,13 @@
 :END:
 - text :: aufsteigen lassen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-063
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 63
 :SOURCE_FINGERPRINT: 3615ce7964f6a0dc32f7fefd93bf9ee1535198f7c513a641428f0d8ff4c7d205
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-063-001
 :PROPERTIES:
@@ -3729,27 +2338,13 @@
 :END:
 - text :: ausrufen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-064
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 64
 :SOURCE_FINGERPRINT: 0c0c23f3cbb534c87cee3da2f219b0ecc34d040a7ea21ee7b89734746fe0f67b
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-064-001
 :PROPERTIES:
@@ -3768,27 +2363,13 @@
 :END:
 - text :: verhaften
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-065
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 65
 :SOURCE_FINGERPRINT: d7123c16956769a1ffb77b7fa73face18e951b30776037db471aa6eb8b54d039
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-065-001
 :PROPERTIES:
@@ -3807,27 +2388,13 @@
 :END:
 - text :: preisen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-066
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 66
 :SOURCE_FINGERPRINT: cfe24774837ed4a9b7645d5a3a83db102dc4b9428ea5eb3c59c6f90a4694ed71
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-066-001
 :PROPERTIES:
@@ -3846,27 +2413,13 @@
 :END:
 - text :: erlangen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-067
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 67
 :SOURCE_FINGERPRINT: c737700e61bb64eb3edc42c91a8dd4d42e0ff9515d9bc3da2d76bbdaaeae6f8a
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-067-001
 :PROPERTIES:
@@ -3877,27 +2430,13 @@
 :END:
 - text :: beenden
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-068
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 68
 :SOURCE_FINGERPRINT: 844b0ef3b2b1f613a072f99735d7a68fd38b1d906071e9555d96cdd107fe1980
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-068-001
 :PROPERTIES:
@@ -3908,27 +2447,13 @@
 :END:
 - text :: opfern
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-069
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 69
 :SOURCE_FINGERPRINT: 87baeabf324b9be9e8236048afb703b14acdc2adf784e3050d542437ce120d65
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-069-001
 :PROPERTIES:
@@ -3939,27 +2464,13 @@
 :END:
 - text :: ins Bordell schicken
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-070
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 70
 :SOURCE_FINGERPRINT: 41ed7ac84bb5cbf22b85252d68488391873d0226d993aaa3ce00a4d99a40b2e4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-070-001
 :PROPERTIES:
@@ -3978,27 +2489,13 @@
 :END:
 - text :: erbrechen
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-071
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 71
 :SOURCE_FINGERPRINT: a22acbfd48143a5cc19003f2c8c5da7ff39d1b044121c346a1f524349e63d77d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-071-001
 :PROPERTIES:
@@ -4545,27 +3042,13 @@
 :END:
 - text :: megáll
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-072
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 72
 :SOURCE_FINGERPRINT: 80a35437db1da0367b20baaedf423ee71663c7299d5fd1633a3eace97f922e23
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-072-001
 :PROPERTIES:
@@ -4752,27 +3235,13 @@
 :END:
 - text :: (ср.) あげず
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-073
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 73
 :SOURCE_FINGERPRINT: 6dca2b5f1bf7a3ffae863a366789d39ddf92663d62742b5635e0b82d6ceb98d5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-073-001
 :PROPERTIES:
@@ -4799,27 +3268,13 @@
 :END:
 - text :: dati
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-074
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 74
 :SOURCE_FINGERPRINT: b3eccfd7f12f69dbabe64fc6d56cd6d6927d5d066a75425e7266276b9783d9db
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-074-001
 :PROPERTIES:
@@ -4838,27 +3293,13 @@
 :END:
 - text :: levantar
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-075
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 75
 :SOURCE_FINGERPRINT: 70cb5c37661dc3290d35e445cd341bdf1d2d61ce4fbfb2adcacdd22fe8f7fe49
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-075-001
 :PROPERTIES:
@@ -4869,27 +3310,13 @@
 :END:
 - text :: atarse (cabello)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-076
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 76
 :SOURCE_FINGERPRINT: 2ad9298f63252ff18bca4edf1e925ab1808806ca497ff25c4cddda511281f219
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-076-001
 :PROPERTIES:
@@ -4916,27 +3343,13 @@
 :END:
 - text :: subir a la superficie (ej. submarino)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-077
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 77
 :SOURCE_FINGERPRINT: 27351ceaa7006cf1968a0f4f6a15c7a1a8cd7938ab52dc13c298f3257cf38c62
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-077-001
 :PROPERTIES:
@@ -4947,27 +3360,13 @@
 :END:
 - text :: desembarcar
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-078
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 78
 :SOURCE_FINGERPRINT: 4aca2e9b7d844d8cc88b2b5ef5918e03a5df0db5938e88e23571677b66e5dc16
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-078-001
 :PROPERTIES:
@@ -4978,27 +3377,13 @@
 :END:
 - text :: mostrar a alguien (en una habitación)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-079
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 79
 :SOURCE_FINGERPRINT: e754768d09f3313d57581ce29d5078f8673193f7b4363fc9159aa14e810d8791
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-079-001
 :PROPERTIES:
@@ -5009,27 +3394,13 @@
 :END:
 - text :: enviar a alguien
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-080
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 80
 :SOURCE_FINGERPRINT: a9f7ff5212b3bc3beff2aca06c1deccbab2f41bad7c61818a18a487e4108bd0f
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-080-001
 :PROPERTIES:
@@ -5040,27 +3411,13 @@
 :END:
 - text :: matricular
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-081
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 81
 :SOURCE_FINGERPRINT: ceba4f0f8cf0afcf641944d0bbee57dde86434fe401c7ca70bc7d9fe275e6443
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-081-001
 :PROPERTIES:
@@ -5071,27 +3428,13 @@
 :END:
 - text :: subir (precio, calidad, estatus, voz)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-082
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 82
 :SOURCE_FINGERPRINT: 1f158e4e96df6a71d78b88fea3e37abb4cfd9da6615af69c4f163be787b0ae4d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-082-001
 :PROPERTIES:
@@ -5102,27 +3445,13 @@
 :END:
 - text :: hacer (un sonido agudo)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-083
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 83
 :SOURCE_FINGERPRINT: 952539479408292704877a2296e9692e9764c6d4031b874d5d28419a5ab12ca4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-083-001
 :PROPERTIES:
@@ -5133,27 +3462,13 @@
 :END:
 - text :: ganar (algo desagradable)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-084
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 84
 :SOURCE_FINGERPRINT: 74dc2e893733684a06e814c94630287f24a969fa4dff3c1063724cfaf30de84e
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-084-001
 :PROPERTIES:
@@ -5164,27 +3479,13 @@
 :END:
 - text :: alabar
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-085
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 85
 :SOURCE_FINGERPRINT: e42ff587b6f16fbcffc0b834f10048f90e8e6f5d2e0e5e52bb2f1cf67e308fd5
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-085-001
 :PROPERTIES:
@@ -5203,27 +3504,13 @@
 :END:
 - text :: citar
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-086
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 86
 :SOURCE_FINGERPRINT: 595a54ca7c818b8fde1dcf93a1d497557aa0ae719effeb12348045c37ba90375
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-086-001
 :PROPERTIES:
@@ -5234,27 +3521,13 @@
 :END:
 - text :: convocar (toda la energía de uno)
 ** Ukrainian glosses
-** Russian reference
-
 * Sense s-1352320-087
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 87
 :SOURCE_FINGERPRINT: b6652350a9118a820dff0f2741c5507f5de601247c5dda7d5f98a770aee9b554
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
 *** en-s-1352320-087-001
 :PROPERTIES:
@@ -5273,4 +3546,3 @@
 :END:
 - text :: höja upp
 ** Ukrainian glosses
-** Russian reference

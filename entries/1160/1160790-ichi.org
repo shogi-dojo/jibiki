@@ -1,19 +1,22 @@
 #+TITLE: 一
 #+JMDICT_ID: 1160790
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: いち
 #+ROMAJI: ichi
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1160790-001
 :PROPERTIES:
 :TEXT: 一
 :END:
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -22,27 +25,20 @@
 :PROPERTIES:
 :TEXT: １
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1160790-003
 :PROPERTIES:
 :TEXT: 壱
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1160790-004
 :PROPERTIES:
 :TEXT: 弌
 :END:
-*** Information
-*** Priorities
 ** Written form wf-1160790-005
 :PROPERTIES:
 :TEXT: 壹
 :END:
 *** Information
 - oK
-*** Priorities
 ** Reading rd-1160790-001
 :PROPERTIES:
 :TEXT: いち
@@ -50,7 +46,6 @@
 :END:
 *** Applies to written forms
 - *
-*** Information
 *** Priorities
 - ichi1
 - news2
@@ -60,88 +55,41 @@
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: 776b3044b74ffae4fe07c9fece6c64dee7be8257e638133c4a7436af32011ff8
+:LEARNER_PRIORITY: primary
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - num
 - pref
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - 壱, 弌 and 壹 are used in legal documents
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-001-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: one
-*** en-s-1160790-001-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: 1
+- one
+- 1
 ** Ukrainian glosses
 *** uk-s-1160790-001-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: один
 *** uk-s-1160790-001-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: одиниця
 ** Russian reference
-*** ru-ref-1160790-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: один
-*** ru-ref-1160790-002
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: один
-*** ru-ref-1160790-003
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 12
-:END:
-- text :: (ср.) いちに, いちかばちか
+- 12 :: один
+- 12 :: один
+- 12 :: (ср.) いちに, いちかばちか
 ** Learner notes
 *** note-s-1160790-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :END:
 - UK :: Загальновживане слово для позначення числа "один".
 - LEVEL :: beginner
@@ -149,11 +97,6 @@
 ** Examples
 *** ex-1160790-001-001
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -164,11 +107,6 @@
 - FOCUS :: 一人
 *** ex-1160790-001-002
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -179,11 +117,6 @@
 - FOCUS :: 一から
 *** ex-1160790-001-003
 :PROPERTIES:
-:SOURCE_TYPE: original
-:AUTHOR_ID: antigravity
-:LICENSE: CC-BY-SA-4.0
-:CREATED_AT: 2026-07-17
-:STATUS: draft
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -198,41 +131,19 @@
 :SOURCE_SENSE_INDEX: 2
 :SOURCE_FINGERPRINT: 4c96e119bbb09d3a105941050a95e3da34fa336ff01caf66639ab6a50516a629
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-no
 - suf
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-002-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: best
+- best
 ** Ukrainian glosses
 *** uk-s-1160790-002-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: найкращий
 
@@ -241,59 +152,27 @@
 :SOURCE_SENSE_INDEX: 3
 :SOURCE_FINGERPRINT: dc2261496b956273fbe12bb01f37c386ca918f22ad5adf104eb4dc9612cf623d
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - adj-no
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-003-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: first
-*** en-s-1160790-003-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: foremost
+- first
+- foremost
 ** Ukrainian glosses
 *** uk-s-1160790-003-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: перший
 *** uk-s-1160790-003-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: найперший
 
@@ -302,59 +181,27 @@
 :SOURCE_SENSE_INDEX: 4
 :SOURCE_FINGERPRINT: 0122d95bc7c9e4513ed0c515ff8691709d691db7eaa97bb2bc94883d11fe4c64
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-004-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: beginning
-*** en-s-1160790-004-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: start
+- beginning
+- start
 ** Ukrainian glosses
 *** uk-s-1160790-004-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: початок
 *** uk-s-1160790-004-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: старт
 
@@ -363,61 +210,30 @@
 :SOURCE_SENSE_INDEX: 5
 :SOURCE_FINGERPRINT: 7418056f448bcd6163204e2440adb3e4216b24d01b97542366a9e1d451f5ca53
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n-pref
-*** Fields
-*** Miscellaneous and register
-*** Dialects
 *** Sense information
 - before a noun
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-005-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: a (single)
-*** en-s-1160790-005-002
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: one (of many)
+- a (single)
+- one (of many)
 ** Ukrainian glosses
 *** uk-s-1160790-005-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: один
 - qualifier :: з багатьох, перед іменником
 *** uk-s-1160790-005-002
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: якийсь
 
@@ -426,42 +242,22 @@
 :SOURCE_SENSE_INDEX: 6
 :SOURCE_FINGERPRINT: 8011e5fb612d5d9cc03a12b45565e7878054d7834dcedf048686c9d3958998d4
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
 *** Fields
 - cards
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
 *** Cross-references
 - エース・1
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-006-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: ace
+- ace
 ** Ukrainian glosses
 *** uk-s-1160790-006-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: туз
 
@@ -470,40 +266,18 @@
 :SOURCE_SENSE_INDEX: 7
 :SOURCE_FINGERPRINT: 752c337df33cb3076f8a4196611603c23b5db99dbf609003c3b82f0035bb939c
 :END:
-** Applies to forms
-*** Written forms
-- *
-*** Readings
-- *
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ** English glosses
-*** en-s-1160790-007-001
-:PROPERTIES:
-:LANG: eng
-:TYPE: plain
-:GENDER: none
-:PRIMARY: false
-:END:
-- text :: bottom string (on a shamisen, etc.)
+- bottom string (on a shamisen, etc.)
 ** Ukrainian glosses
 *** uk-s-1160790-007-001
 :PROPERTIES:
-:STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
 :END:
 - text :: нижня струна
 - qualifier :: на сямісені тощо
