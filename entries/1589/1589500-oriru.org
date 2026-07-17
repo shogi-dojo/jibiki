@@ -154,7 +154,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Спускатися, сходити вниз. Використовується для руху з вищого місця на нижче (сходити з гори, спускатися сходами). Якщо йдеться про вихід з транспорту, зазвичай записується як 降りる.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -168,11 +168,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 階段を下りる。
+- READING :: かいだんをおりる。
+- UK :: Спускатися сходами.
+- EN :: Go down the stairs.
+- FOCUS :: 下りる
+*** ex-1589500-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: エレベーターで一階に下ります。
+- READING :: えれべーたーでいっかいにおります。
+- UK :: Я спущуся на перший поверх ліфтом.
+- EN :: I will go down to the first floor by elevator.
+- FOCUS :: 下ります
+*** ex-1589500-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山を下りるのは大変でした。
+- READING :: やまをおりるのはたいへんでした。
+- UK :: Спускатися з гори було важко.
+- EN :: It was hard going down the mountain.
+- FOCUS :: 下りる
 
 * Sense s-1589500-002
 :PROPERTIES:

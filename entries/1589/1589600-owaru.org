@@ -186,7 +186,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Закінчуватися, завершуватися. Використовується, коли щось добігає кінця або дія завершується.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -200,11 +200,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 授業が終わりました。
+- READING :: じゅぎょうがおわりました。
+- UK :: Урок закінчився.
+- EN :: The class has ended.
+- FOCUS :: 終わりました
+*** ex-1589600-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 仕事は何時に終わりますか。
+- READING :: しごとはなんじにおわりますか。
+- UK :: О котрій годині закінчується робота?
+- EN :: What time does work finish?
+- FOCUS :: 終わります
+*** ex-1589600-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 宿題がまだ終わっていません。
+- READING :: しゅくだいがまだおわっていません。
+- UK :: Я ще не закінчив домашнє завдання.
+- EN :: I haven't finished my homework yet.
+- FOCUS :: 終わって
 
 * Sense s-1589600-002
 :PROPERTIES:
