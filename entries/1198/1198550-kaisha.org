@@ -1,0 +1,196 @@
+#+TITLE: 会社
+#+JMDICT_ID: 1198550
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: かいしゃ
+#+ROMAJI: kaisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1198550-001
+:PROPERTIES:
+:TEXT: 会社
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1198550-002
+:PROPERTIES:
+:TEXT: 會社
+:END:
+*** Information
+- sK
+*** Priorities
+** Reading rd-1198550-001
+:PROPERTIES:
+:TEXT: かいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1198550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7b5881e87698018fd88676dad4b0570adac7b00640753a72e2e34d5968a6ce76
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1198550-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: company
+*** en-s-1198550-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corporation
+*** en-s-1198550-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: firm
+** Ukrainian glosses
+*** uk-s-1198550-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: компанія
+*** uk-s-1198550-001-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: фірма
+*** uk-s-1198550-001-003
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: підприємство
+** Russian reference
+*** ru-ref-1198550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:END:
+- text :: компания, общество, фирма
+** Learner notes
+*** note-s-1198550-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1198550-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 例
+- READING :: れい
+- UK :: Приклад.
+- EN :: Example.
+- FOCUS :: 例
+
+* Sense s-1198550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a1e6a06235c4be0f6c2881b9a99b7e7d39ecac9c5ffa1a62635f5a638a3994b2
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1198550-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: one's workplace
+** Ukrainian glosses
+*** uk-s-1198550-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: робота
+- qualifier :: місце роботи
