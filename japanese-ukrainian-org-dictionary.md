@@ -7,13 +7,19 @@ Create a new Japanese–Ukrainian dictionary from scratch in `/Users/mac/project
 
 ## Reproduce Steps
 1. `cd /Users/mac/projects/jisho`
-2. Run `git status --short --branch`; the working tree intentionally removes the previous Python/JSONL bootstrap.
-3. Read this document before adding files or dependencies.
-4. Inspect `origin/main` with `git ls-tree -r --name-only origin/main`; it is an empty initial branch.
-5. Treat the repository as a clean design and implementation start. Do not restore the removed Python code.
+2. Run `git status --short --branch` and preserve unrelated work.
+3. Read `README.md`, `docs/org-format.md`, and `docs/n5-entry-agent.md`.
+4. Run `rake -T` to inspect the supported Ruby workflow.
+5. Run `rake "sources:n5[<source-order>]"` to prepare one ignored source dossier.
+6. Run `rake` to test source parsing, validate every entry, and run Org lint.
 
-## Current Issue
-There is intentionally no implementation yet. The earlier agent created a Python/JSONL project before tooling and format were agreed; those files have been removed. The next agent must establish a small Ruby project and prove the Org schema on fixtures before building a large ingestion pipeline.
+## Current State
+The constrained Org schema, progressive quality profiles, three example
+entries, pronunciation/media model, source-aware validator, and Ruby source
+extraction workflow are implemented. JMdict, Warodai, the N5 queue, and other
+large or restricted sources remain ignored local inputs. Combined source
+dossiers are generated under ignored `tmp/` so agents can reconcile a word
+mechanically without publishing Warodai text.
 
 ## Non-negotiable Decisions
 - Ruby is the implementation language. Do not introduce Python, Node, or a second build system.
@@ -79,22 +85,24 @@ Specify a constrained, parseable Org subset based on this shape:
 
 Document exact rules for multiline text, escaping, empty sections, comments, repeated properties, ordering, Unicode normalization, editable versus generated fields, unknown future JMdict tags, and stable local IDs.
 
-## Plan
-1. Initialize a minimal Bundler project. Prefer Ruby's standard library and Minitest; justify every gem before adding it. Nokogiri may be appropriate for streaming large JMdict XML, and `sqlite3` may be appropriate only for generated app databases.
-2. Write `docs/org-format.md` before the parser. Add one simple and one complex `.org` fixture.
-3. Implement a strict Ruby parser and validator for the constrained Org subset with file, heading, and line diagnostics.
-4. Implement streaming JMdict XML → Org import/reconciliation without loading the entire dictionary into memory.
-5. Implement deterministic Org → normalized JSON export, followed later by SQLite export for Android.
-6. Add tests for forms, restrictions, multilingual glosses, polysemy, xrefs, source fingerprints, upstream sense changes, provenance, malformed Org, and byte-identical repeat exports.
-7. Only after fixtures round-trip correctly, add README, licences, contribution rules, CI, and bulk data generation.
+## Next Implementation Priorities
+1. Generate an Org Core scaffold from one unambiguous extracted JMdict object.
+2. Complete strict parsing and validation for every documented Org node and
+   property, including media and provenance.
+3. Implement deterministic Org → normalized JSON, followed later by SQLite for
+   Android.
+4. Add fixtures for restrictions, multilingual glosses, polysemy, xrefs,
+   upstream sense changes, malformed Org, and byte-identical repeat exports.
+5. Add CI after source-independent fixtures cover the local-source workflow.
 
 ## How to Verify
-- `bundle exec ruby -Itest -e 'Dir["test/**/*_test.rb"].sort.each { |f| require_relative f }'` passes after scaffolding.
-- A complex JMdict fixture round-trips through XML → Org → normalized Ruby objects without losing any supported field or sense association.
-- Two exports from unchanged Org sources are byte-identical.
-- Emacs folds, navigates, searches, and edits fixtures naturally; `org-lint` finds no structural errors.
-- Validation rejects duplicate IDs, malformed headings/properties, missing readings, invalid workflow state, stale fingerprints, and enrichments lacking provenance/licence.
-- Generated app records expose English and Ukrainian independently and contain no Warodai-derived text.
+- `rake test` passes without local source dependencies.
+- `rake "sources:n5[2]"` resolves `青 / あお` to JMdict `1381380` and Warodai
+  card `005-14-12` in an ignored dossier.
+- `rake entries:validate` checks every committed entry against local JMdict.
+- `rake org:lint` reports no structural warnings in entries or asset manifests.
+- `rake` runs the complete current quality gate.
+- Generated or committed public records contain no Warodai-derived text.
 
 ## Out of Scope
 - Translating the full dictionary during schema development.

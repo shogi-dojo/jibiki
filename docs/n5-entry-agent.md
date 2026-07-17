@@ -29,10 +29,12 @@ below.
 
 1. Read `docs/org-format.md` completely.
 2. Run `git status --short` and preserve all unrelated user or agent changes.
-3. Confirm these local ignored sources exist:
+3. Run `rake -T` and confirm these local ignored sources exist:
    - `sources/jlpt-n5/wiktionary-n5.tsv`
    - `sources/jmdict/JMdict.xml.gz`
+   - `sources/warodai/`
 4. Never stage or commit anything under `sources/`.
+5. Never stage or commit a generated dossier under `tmp/`.
 
 ## 2. Select and claim one candidate
 
@@ -53,25 +55,49 @@ When several agents share one workspace and no row was assigned:
 An empty-directory `mkdir` is the lock operation; checking and then creating a
 normal file is racy. This fallback works only in a shared filesystem.
 
-## 3. Reconcile the candidate with JMdict
+## 3. Extract and reconcile the source dossier
 
-Use the queue's `written`, `reading`, and English hint to locate the exact
-JMdict entry in `sources/jmdict/JMdict.xml.gz`.
+Do not parse the JMdict archive or scan Warodai manually. Run:
+
+```sh
+rake "sources:n5[<SOURCE_ORDER>]"
+```
+
+The command writes
+`tmp/source-extracts/n5-<six-digit-source-order>.json`. Read that complete JSON
+dossier before authoring. It contains the queue row, normalized JMdict
+metadata, source fingerprints, source checksums, and matching Warodai cards.
+
+Use the queue's `written`, `reading`, and English hint to choose the exact
+JMdict match in the dossier.
 
 - Require an exact reading match.
 - Match the written form when one is supplied; kana-only rows may match a
   reading-only entry.
+- Require `jmdict.match_count` to be exactly `1` for an unambiguous candidate.
 - If several JMdict entries match, choose only when the N5 meaning clearly
-  identifies one. Otherwise abandon the claim and select another word.
+  identifies one. Confirm an explicit choice with
+  `ruby scripts/extract_word.rb --source-order <N> --jmdict-id <ID>`.
+  Otherwise abandon the claim and select another word.
 - If the resolved `ent_seq` already has an entry file, select another word.
 - Preserve the entire resolved JMdict entry, not only the N5-relevant sense.
-- Recompute every source fingerprint according to section 13 of
-  `docs/org-format.md`; never invent a hash or copy one from another entry.
+- Use `sense_indexes_by_language.eng` to identify the semantic senses imported
+  into the Org entry. Other-language senses remain visible in the dossier for
+  audit; Russian-only senses may become `Russian reference` nodes with their
+  original source indexes.
+- Copy each `source_fingerprint` only from its exact extracted JMdict sense.
+  The extractor computes section 13's canonical hash; never invent or manually
+  edit it.
 
 The Wiktionary meaning and frequency are prioritization hints. Do not copy its
 English wording into the entry and do not translate that wording into
 Ukrainian. Translate the Japanese concept represented by each JMdict sense,
 using JMdict metadata as the semantic guide.
+
+Warodai is optional private comparison material. Its extracted header and body
+can help expose a possible coverage gap, but its CC BY-NC-ND licence forbids
+copying, translating, adapting, or publishing the text. Do not let Warodai
+wording, examples, or sense organization enter the Org file.
 
 ## 4. Create the Org entry
 
@@ -92,9 +118,10 @@ Write the required metadata in schema order, including:
 #+QUALITY_PROFILE: core
 ```
 
-Import all JMdict forms, readings, priorities, restrictions, senses, tags,
-language sources, references, antonyms, and English/Russian glosses without
-editorial rewriting. Attach every Ukrainian gloss to one exact JMdict sense.
+Import all forms, readings, priorities, restrictions, senses, tags, language
+sources, references, antonyms, and English/Russian glosses from the extracted
+JMdict object without editorial rewriting. Attach every Ukrainian gloss to one
+exact JMdict sense.
 
 For Ukrainian authored content:
 
@@ -133,13 +160,15 @@ full; those belong to later Enriched work.
 At minimum:
 
 1. Run `git diff --check`.
-2. Run Emacs `org-lint` on the new entry.
-3. Confirm UTF-8, NFC, LF line endings, no tabs, and no trailing whitespace.
-4. Check the directory, filename prefix, `JMDICT_ID`, primary reading, romaji,
-   stable IDs, source indexes, restrictions, and fingerprints against JMdict.
-5. Confirm every authored node has provenance and that no source-only file is
-   staged.
-6. Review the Ukrainian text for meaning, naturalness, and sense boundaries.
+2. Run `rake "entries:validate[<entry-path>]"`.
+3. Run `rake "entries:lint[<entry-path>]"`.
+4. Confirm UTF-8, NFC, LF line endings, no tabs, and no trailing whitespace.
+5. Check the directory, filename prefix, `JMDICT_ID`, primary reading, romaji,
+   stable IDs, source indexes, restrictions, and fingerprints against the
+   extracted dossier.
+6. Confirm every authored node has provenance and that neither `sources/` nor
+   `tmp/` has staged content.
+7. Review the Ukrainian text for meaning, naturalness, and sense boundaries.
 
 ### Pre-handoff lessons from reviewed entries
 
@@ -171,6 +200,7 @@ candidate as blocked and select another unambiguous row.
 Report:
 
 - N5 `source_order`, written form, and reading;
+- generated dossier path;
 - resolved JMdict `ent_seq`;
 - entry path and achieved quality profile;
 - validation performed;
@@ -181,7 +211,7 @@ if `COMMIT: true` was provided, stage that one entry and commit it alone with a
 semantic message such as:
 
 ```text
-feat: add au core dictionary entry
+feat: add <filename-romaji> core dictionary entry
 ```
 
 One agent task creates one entry. Do not bundle source downloads, schema edits,
