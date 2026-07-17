@@ -118,7 +118,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Вказівний займенник, який ставиться перед іменником, щоб вказати на предмет або людину, віддалену як від мовця, так і від співрозмовника.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -132,8 +132,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: あの人は誰ですか。
+- READING :: あのひとはだれですか。
+- UK :: Хто та людина?
+- EN :: Who is that person?
+- FOCUS :: あの
+*** ex-1000420-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あの犬は大きいです。
+- READING :: あのいぬはおおきいです。
+- UK :: Той собака великий.
+- EN :: That dog is big.
+- FOCUS :: あの
+*** ex-1000420-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あの映画はとても面白かったです。
+- READING :: あのえいがはとてもおもしろかったです。
+- UK :: Той фільм був дуже цікавим.
+- EN :: That movie was very interesting.
+- FOCUS :: あの
