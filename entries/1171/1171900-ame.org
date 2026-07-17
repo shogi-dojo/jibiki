@@ -123,6 +123,17 @@
 :REVIEWED_AT: 2026-07-17
 :END:
 - text :: дощова погода
+** Examples
+*** ex-1171900-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明日は雨だ。
+- READING :: あしたはあめだ。
+- UK :: Завтра буде дощовий день.
+- EN :: Tomorrow will be a rainy day.
+- FOCUS :: 雨
 
 * Sense s-1171900-003
 :PROPERTIES:
@@ -146,3 +157,15 @@
 :END:
 - text :: листопад
 - qualifier :: у ханафуді
+** Examples
+*** ex-1171900-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 雨の札。
+- READING :: あめのふだ。
+- UK :: Карта "листопад" (у грі ханафуда).
+- EN :: The November card.
+- FOCUS :: 雨
+
