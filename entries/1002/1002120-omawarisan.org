@@ -98,7 +98,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Повсякденна та дружня назва поліцейського. Використовується переважно дітьми або в розмовній мові.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -112,8 +112,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お巡りさんに道を聞きました。
+- READING :: おまわりさんにみちをききました。
+- UK :: Я запитав дорогу в поліцейського.
+- EN :: I asked a police officer for directions.
+- FOCUS :: お巡りさんに
+*** ex-1002120-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あそこにお巡りさんがいます。
+- READING :: あそこにおまわりさんがいます。
+- UK :: Там стоїть поліцейський.
+- EN :: There is a police officer over there.
+- FOCUS :: お巡りさんが
+*** ex-1002120-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 親切なお巡りさんが助けてくれました。
+- READING :: しんせつなおまわりさんがたすけてくれました。
+- UK :: Добрий поліцейський допоміг мені.
+- EN :: A kind police officer helped me.
+- FOCUS :: お巡りさんが
