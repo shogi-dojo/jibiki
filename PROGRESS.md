@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 274 |
+| `new` | 269 |
 | `changes-requested` | 0 |
 | `reviewed` | 6 |
-| `confirmed` | 11 |
+| `confirmed` | 16 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 280 |
+| Entry metadata still marked `draft` | 275 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -117,11 +117,11 @@ later agents do not mistake volume for completed bilingual review.
 | 18 | [明日](entries/1584/1584660-ashita.org) | あした | ashita | 1584660 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 19 | [彼処](entries/1000/1000320-asoko.org) | あそこ | asoko | 1000320 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 20 | [遊ぶ](entries/1542/1542160-asobu.org) | あそぶ | asobu | 1542160 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
-| 21–22 | [温かい](entries/1586/1586420-atatakai.org) | あたたかい | atatakai | 1586420 | learner | draft | **new** | Editorial review |
-| 23 | [頭](entries/1582/1582310-atama.org) | あたま | atama | 1582310 | learner | draft | **new** | Editorial review |
-| 24 | [新しい](entries/1361/1361490-atarashii.org) | あたらしい | atarashii | 1361490 | learner | draft | **new** | Editorial review |
-| 25 | [彼方](entries/1483/1483185-achira.org) | あちら | achira | 1483185 | learner | draft | **new** | Editorial review |
-| 26 | [暑い](entries/1343/1343460-atsui.org) | あつい | atsui | 1343460 | learner | draft | **new** | Editorial review |
+| 21–22 | [温かい](entries/1586/1586420-atatakai.org) | あたたかい | atatakai | 1586420 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 23 | [頭](entries/1582/1582310-atama.org) | あたま | atama | 1582310 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 24 | [新しい](entries/1361/1361490-atarashii.org) | あたらしい | atarashii | 1361490 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 25 | [彼方](entries/1483/1483185-achira.org) | あちら | achira | 1483185 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 26 | [暑い](entries/1343/1343460-atsui.org) | あつい | atsui | 1343460 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 27 | [熱い](entries/1467/1467720-atsui.org) | あつい | atsui | 1467720 | learner | draft | **new** | Editorial review |
 | 28 | [厚い](entries/1275/1275320-atsui.org) | あつい | atsui | 1275320 | learner | draft | **new** | Editorial review |
 | 29 | [後](entries/1269/1269320-ato.org) | あと | ato | 1269320 | learner | draft | **new** | Editorial review |

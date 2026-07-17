@@ -3,10 +3,11 @@
 #+SCHEMA_VERSION: 1
 #+PRIMARY_READING: あたらしい
 #+ROMAJI: atarashii
-#+ENTRY_STATUS: draft
+#+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
 
 * Forms
 ** Written form wf-1361490-001
@@ -118,11 +119,11 @@
 ** Ukrainian glosses
 *** uk-s-1361490-001-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -152,7 +153,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -167,7 +168,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -182,7 +183,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
