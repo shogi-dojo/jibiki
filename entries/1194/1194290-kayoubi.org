@@ -88,13 +88,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Дні тижня утворюються за схемою «стихія + 曜日»: 火 («вогонь») + 曜日. У розмові часто скорочують до 火曜.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1194290-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -102,8 +104,42 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 今日は火曜日です。
+- READING :: きょうはかようびです。
+- UK :: Сьогодні вівторок.
+- EN :: Today is Tuesday.
+- FOCUS :: 火曜日
+*** ex-1194290-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 火曜日に病院へ行きます。
+- READING :: かようびにびょういんへいきます。
+- UK :: У вівторок я піду до лікарні.
+- EN :: I am going to the hospital on Tuesday.
+- FOCUS :: 火曜日に
+*** ex-1194290-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎週火曜日は学校が休みなので、家で日本語を勉強しています。
+- READING :: まいしゅうかようびはがっこうがやすみなので、いえでにほんごをべんきょうしています。
+- UK :: Щовівторка в школі вихідний, тож я вчу японську вдома.
+- EN :: School is off every Tuesday, so I study Japanese at home.
+- FOCUS :: 火曜日は
