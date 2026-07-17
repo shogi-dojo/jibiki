@@ -98,13 +98,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Про власну родину кажуть 家族, про чужу шанобливо — ご家族. Рахують людьми: 四人家族 — «родина з чотирьох осіб».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1192150-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -112,8 +114,42 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 私の家族は四人です。
+- READING :: わたしのかぞくはよにんです。
+- UK :: Моя родина складається з чотирьох осіб.
+- EN :: My family has four people.
+- FOCUS :: 家族
+*** ex-1192150-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日曜日は家族と一緒に買い物へ行きます。
+- READING :: にちようびはかぞくといっしょにかいものへいきます。
+- UK :: У неділю я ходжу за покупками разом із родиною.
+- EN :: On Sundays I go shopping with my family.
+- FOCUS :: 家族と
+*** ex-1192150-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ご家族はお元気ですか。
+- READING :: ごかぞくはおげんきですか。
+- UK :: Як ся має ваша родина?
+- EN :: How is your family?
+- FOCUS :: ご家族
