@@ -129,7 +129,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Вказівний займенник, який вказує на предмет, віддалений як від мовця, так і від співрозмовника.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -143,11 +143,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: あれは何ですか。
+- READING :: あれはなんですか。
+- UK :: Що то таке?
+- EN :: What is that?
+- FOCUS :: あれは
+*** ex-1000580-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あれは私の車です。
+- READING :: あれはわたしのくるまです。
+- UK :: То моя машина.
+- EN :: That is my car.
+- FOCUS :: あれは
+*** ex-1000580-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あれは有名な日本の山です。
+- READING :: あれはゆうめいなにほんのやまです。
+- UK :: То відома японська гора.
+- EN :: That is a famous Japanese mountain.
+- FOCUS :: あれは
 
 * Sense s-1000580-002
 :PROPERTIES:
