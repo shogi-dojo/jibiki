@@ -567,7 +567,7 @@ recorded licence.
 :TARGET_ID: rd-1464530-001
 :SOURCE_ID: <source catalogue ID>
 :SOURCE_URL: <original asset URL>
-:FILE: assets/audio/<source>/<asset-id>.ogg
+:ASSET_PATH: assets/audio/<source>/<asset-id>.ogg
 :MIME: audio/ogg
 :LICENSE: <licence>
 :SPEAKER_ID: <speaker or voice ID>
@@ -592,7 +592,9 @@ recorded licence.
 or `tts`. Human recordings leave the TTS-only fields empty. TTS records must
 pin the engine, voice/model, generation input and date, distribution terms,
 and exact public credit. Audio `STATUS` is `draft`, `reviewed`, or `rejected`.
-A URL alone is not permission to redistribute.
+A URL alone is not permission to redistribute. `ASSET_PATH` is deliberately
+named instead of Org's special `FILE` property so `org-lint` does not interpret
+dictionary media metadata as deprecated Babel configuration.
 
 ### TTS choices and generation policy
 
