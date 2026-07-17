@@ -99,13 +99,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Нейтральне слово на позначення музики як мистецтва або звучання. Дієслово «слухати музику» — 音楽を聞く.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1183720-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -113,8 +115,42 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 音楽が好きです。
+- READING :: おんがくがすきです。
+- UK :: Я люблю музику.
+- EN :: I like music.
+- FOCUS :: 音楽
+*** ex-1183720-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎朝、音楽を聞きながら学校へ行きます。
+- READING :: まいあさ、おんがくをききながらがっこうへいきます。
+- UK :: Щоранку я йду до школи, слухаючи музику.
+- EN :: Every morning I go to school listening to music.
+- FOCUS :: 音楽を
+*** ex-1183720-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この映画は音楽がとてもきれいだと思います。
+- READING :: このえいがはおんがくがとてもきれいだとおもいます。
+- UK :: Мені здається, що музика в цьому фільмі дуже гарна.
+- EN :: I think the music in this film is very beautiful.
+- FOCUS :: 音楽が
