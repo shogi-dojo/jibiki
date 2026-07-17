@@ -141,6 +141,27 @@ At minimum:
    staged.
 6. Review the Ukrainian text for meaning, naturalness, and sense boundaries.
 
+### Pre-handoff lessons from reviewed entries
+
+Run these semantic checks even when the structural validator passes:
+
+- Compare every `READING` character by character with its `JA` sentence. Kana
+  lines must not contain visually accidental Cyrillic or Latin characters. For
+  example, Cyrillic `я` is not Japanese `や`.
+- Read each Ukrainian `text` value without its qualifier. It must still name
+  the same kind of thing as the JMdict sense; a qualifier may narrow a correct
+  equivalent but cannot repair the wrong referent. For example, a hanafuda
+  card depicting a blue ribbon is a `синя п’ятиочкова карта`, not merely a
+  `синя стрічка`.
+- Do not promote an extra meaning found only in an auxiliary Russian reference
+  into the Ukrainian glosses. If the English JMdict sense is a horse coat
+  colour, translate the coat colour; do not add “a black horse” unless that
+  meaning belongs to the reconciled source sense.
+- Recheck the filename romaji before reporting or committing. Use the exact
+  suffix in the commit subject (`ao`, not `au`).
+- Treat validator success as the start of editorial review, not proof that the
+  Japanese sentence, Ukrainian meaning, or commit wording is correct.
+
 Do not weaken the schema, fabricate missing data, or modify unrelated entries
 to make validation pass. If exact reconciliation is not possible, report the
 candidate as blocked and select another unambiguous row.

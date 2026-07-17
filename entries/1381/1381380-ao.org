@@ -147,7 +147,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 青は空や海の色です。
-- READING :: あおはそらяうみのいろです。
+- READING :: あおはそらやうみのいろです。
 - ROMAJI :: Ao wa sora ya umi no iro desu.
 - UK :: Синій — це колір неба та моря.
 - EN :: Blue is the color of the sky and the sea.
@@ -323,17 +323,6 @@
 :END:
 - text :: ворона масть
 - qualifier :: коней
-*** uk-s-1381380-004-002
-:PROPERTIES:
-:STATUS: draft
-:TRANSLATOR_ID: codex-agent-2
-:TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
-:END:
-- text :: вороний кінь
 ** Russian reference
 *** ru-ref-1381380-003
 :PROPERTIES:
@@ -389,8 +378,8 @@
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: синя стрічка
-- qualifier :: карта з синьою паперовою стрічкою в грі ханафуда
+- text :: синя п’ятиочкова карта
+- qualifier :: у ханафуда; із зображенням синьої стрічки
 
 * Sense s-1381380-006
 :PROPERTIES:

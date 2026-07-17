@@ -177,6 +177,10 @@ def validate_entry(filepath)
     if line.end_with?(' ') || line.end_with?("\t")
       errors << "Line #{line_num} has trailing whitespace"
     end
+
+    if line.match?(/^- (?:JA|READING) :: .*\p{Cyrillic}/)
+      errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
+    end
   end
 
   # Check file-level keywords
