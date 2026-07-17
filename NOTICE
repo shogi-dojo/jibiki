@@ -36,19 +36,19 @@ acknowledgement. EDRDG asks that no one claim copyright over the JMdict
 material; no copyright over JMdict material is claimed here. EDRDG places no
 restriction on commercial use provided its conditions are met.
 
-## Open JTalk audio (used, redistributed)
+## Open JTalk audio (generated locally; NOT redistributed)
 
-Generated pronunciation audio under `assets/audio/open-jtalk/` was synthesised
-with Open JTalk using the NIT ATR503 M001 HTS voice. Per-asset licence and
-credit metadata is recorded in `assets/audio/manifest.org`.
+Generated pronunciation audio is synthesised locally with Open JTalk using the
+NIT ATR503 M001 HTS voice. It lives under `assets/`, which is excluded from
+this repository via `.gitignore`, so no generated audio is distributed here.
 
-- Engine: Open JTalk — https://open-jtalk.sourceforge.net/
-- Voice model: nitech_jp_atr503_m001.htsvoice
+- Engine: Open JTalk — https://open-jtalk.sourceforge.net/ (Modified BSD)
+- Voice model: nitech_jp_atr503_m001.htsvoice (CC BY 3.0)
 
-Note: the licence recorded in the manifest for these assets has not been
-reconciled against the upstream Open JTalk and NIT voice-model terms, which
-are BSD-style rather than Creative Commons. Confirm before relying on the
-manifest's licence field or redistributing the audio.
+Entries reference audio by `ASSET_PATH` and record the engine, voice model,
+generation input, licence, and required credit in their `* Media` blocks. If
+you build or redistribute this audio, ship the attribution and licence notice
+those blocks record. See `docs/org-format.md` for the generation policy.
 
 ## Warodai (consulted privately; NOT redistributed)
 

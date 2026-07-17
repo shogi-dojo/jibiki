@@ -36,8 +36,8 @@ SOFTWARE.
 
 ## Dictionary content: CC BY-SA 4.0
 
-Applies to the dictionary data and prose: `entries/`, `docs/`,
-`japanese-ukrainian-org-dictionary.md`, and `assets/audio/manifest.org`.
+Applies to the dictionary data and prose: `entries/`, `docs/`, and
+`japanese-ukrainian-org-dictionary.md`.
 
 Copyright (c) 2026 Ihor and contributors.
 
@@ -56,14 +56,17 @@ here, and CC BY-SA 4.0 is selected to be compatible with it. Attribution
 requirements for JMdict and other upstream sources are set out in NOTICE, and
 must be preserved in redistribution.
 
-Individual assets under `assets/` may carry their own licences, recorded in
-their manifests. Where an asset's manifest states a licence, that licence
-governs the asset.
-
 ## Not covered by these licences
 
-The contents of `sources/` are third-party works. They are excluded from this
-repository (see `.gitignore`) and are not licensed or redistributed here. In
-particular, Warodai is CC BY-NC-ND 3.0, which forbids adaptations and
-commercial use; its text is not present in this repository and must not be
-copied, translated, or published as part of this project. See NOTICE.
+The contents of `sources/` and `assets/` are excluded from this repository
+(see `.gitignore`) and are not licensed or redistributed here.
+
+`sources/` holds third-party upstream works. In particular, Warodai is
+CC BY-NC-ND 3.0, which forbids adaptations and commercial use; its text is not
+present in this repository and must not be copied, translated, or published as
+part of this project. See NOTICE.
+
+`assets/` holds generated media, which is built locally rather than
+distributed here. Entries reference media by `ASSET_PATH` and record its
+licence and credit in their `* Media` blocks; anyone redistributing generated
+audio is responsible for meeting the terms recorded there. See NOTICE.

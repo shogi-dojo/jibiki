@@ -80,7 +80,7 @@ end
 namespace :org do
   desc 'Run Emacs org-lint on every tracked dictionary Org file'
   task :lint do
-    lint_org_files((Dir['entries/*/*.org'] + Dir['assets/**/*.org']).sort)
+    lint_org_files(Dir['entries/*/*.org'].sort)
   end
 end
 

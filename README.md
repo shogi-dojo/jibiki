@@ -76,7 +76,7 @@ rake
 ```
 
 The default task runs extractor unit tests, validates all entries against the
-local JMdict archive, and runs `org-lint` on entries and asset manifests.
+local JMdict archive, and runs `org-lint` on entries.
 
 ## Repository layout
 
@@ -84,7 +84,7 @@ local JMdict archive, and runs `org-lint` on entries and asset manifests.
 - `lib/dictionary_sources/` — reusable source readers and parsers
 - `scripts/` — command-line extraction and validation tools
 - `docs/` — Org schema and contributor/agent workflow
-- `assets/` — licensed media and manifests
+- `assets/` — ignored locally generated media and manifests
 - `sources/` — ignored upstream inputs
 - `tmp/source-extracts/` — ignored private source dossiers
 
