@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jmdict-ukrainian"
+version = "0.1.0"
+description = "Collaborative JMdict Russian-to-Ukrainian translation tooling"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Jisho contributors" }]
+
+[project.scripts]
+jisho-fetch = "scripts.fetch_jmdict:main"
+jisho-build = "scripts.build_catalog:main"
+jisho-validate = "scripts.validate:main"
+
+[tool.setuptools]
+packages = ["jisho_catalog", "scripts"]
+

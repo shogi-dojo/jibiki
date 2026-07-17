@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JMdict>
+  <entry>
+    <ent_seq>1000001</ent_seq>
+    <k_ele><keb>日本語</keb><ke_pri>ichi1</ke_pri></k_ele>
+    <r_ele><reb>にほんご</reb><re_pri>nf05</re_pri></r_ele>
+    <sense>
+      <pos>noun</pos>
+      <gloss>Japanese language</gloss>
+      <gloss xml:lang="rus">японский язык</gloss>
+    </sense>
+    <sense>
+      <gloss>untranslated sense</gloss>
+    </sense>
+  </entry>
+  <entry>
+    <ent_seq>1000002</ent_seq>
+    <r_ele><reb>あいさつ</reb></r_ele>
+    <sense>
+      <field>linguistics</field>
+      <misc>common expression</misc>
+      <stagr>あいさつ</stagr>
+      <gloss>greeting</gloss>
+      <gloss xml:lang="rus">приветствие</gloss>
+      <gloss xml:lang="rus">привет</gloss>
+    </sense>
+  </entry>
+</JMdict>
+
