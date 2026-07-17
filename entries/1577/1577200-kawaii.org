@@ -208,13 +208,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Прикметник на -い. Зазвичай пишеться каною (かわいい), а не ієрогліфами. Означальна форма стоїть перед іменником (かわいい犬), а сполучна — かわいくて.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1577200-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -222,11 +224,45 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: この犬はとてもかわいいです。
+- READING :: このいぬはとてもかわいいです。
+- UK :: Цей пес дуже милий.
+- EN :: This dog is very cute.
+- FOCUS :: かわいい
+*** ex-1577200-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 妹はかわいい帽子を買いました。
+- READING :: いもうとはかわいいぼうしをかいました。
+- UK :: Молодша сестра купила гарненький капелюшок.
+- EN :: My younger sister bought a cute hat.
+- FOCUS :: かわいい
+*** ex-1577200-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 子どものころに書いた絵を見ると、今でもかわいくて笑ってしまいます。
+- READING :: こどものころにかいたえをみると、いまでもかわいくてわらってしまいます。
+- UK :: Коли дивлюся на малюнки, зроблені в дитинстві, вони й досі здаються милими, і я мимоволі усміхаюся.
+- EN :: When I look at the pictures I drew as a child, they still seem so cute that I can't help smiling.
+- FOCUS :: かわいくて
 
 * Sense s-1577200-002
 :PROPERTIES:
