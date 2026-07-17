@@ -192,7 +192,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Небезпечний. Також використовується як вигук "Обережно!".
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -206,11 +206,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: ここは危ないです。
+- READING :: ここはあぶないです。
+- UK :: Тут небезпечно.
+- EN :: It is dangerous here.
+- FOCUS :: 危ないです
+*** ex-1218380-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 危ない！車が来ますよ。
+- READING :: あぶない！くるまがきますよ。
+- UK :: Обережно! Їде машина.
+- EN :: Look out! A car is coming.
+- FOCUS :: 危ない
+*** ex-1218380-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 危ないですから、黄色い線の内側に下がってください。
+- READING :: あぶないですから、きいろいせんのうちがわにさがってください。
+- UK :: Оскільки це небезпечно, будь ласка, відійдіть за жовту лінію.
+- EN :: Since it's dangerous, please step back behind the yellow line.
+- FOCUS :: 危ないですから
 
 * Sense s-1218380-002
 :PROPERTIES:

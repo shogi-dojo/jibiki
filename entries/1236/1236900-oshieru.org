@@ -124,7 +124,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Навчати, викладати. Також часто використовується в значенні "повідомляти/розповідати" інформацію.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -138,11 +138,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 学校で英語を教えています。
+- READING :: がっこうでえいごをおしえています。
+- UK :: Я викладаю англійську в школі.
+- EN :: I teach English at school.
+- FOCUS :: 教えています
+*** ex-1236900-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電話番号を教えてください。
+- READING :: でんわばんごうをおしえてください。
+- UK :: Будь ласка, скажіть (повідомте) мені номер телефону.
+- EN :: Please tell me your phone number.
+- FOCUS :: 教えて
+*** ex-1236900-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼にピアノの弾き方を教えました。
+- READING :: かれにピアノのひきかたをおしえました。
+- UK :: Я навчив його грати на піаніно.
+- EN :: I taught him how to play the piano.
+- FOCUS :: 教えました
 
 * Sense s-1236900-002
 :PROPERTIES:

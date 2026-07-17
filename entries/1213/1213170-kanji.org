@@ -106,7 +106,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Кандзі (китайські ієрогліфи, що використовуються в японській мові).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -120,8 +120,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 漢字を書きます。
+- READING :: かんじをかきます。
+- UK :: Я пишу кандзі.
+- EN :: I write kanji.
+- FOCUS :: 漢字を
+*** ex-1213170-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この漢字の読み方を教えてください。
+- READING :: このかんじのよみかたをおしえてください。
+- UK :: Будь ласка, навчіть мене, як читати цей кандзі.
+- EN :: Please teach me how to read this kanji.
+- FOCUS :: 漢字の
+*** ex-1213170-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎日、漢字を三つ覚えます。
+- READING :: まいにち、かんじをみっつおぼえます。
+- UK :: Щодня я запам'ятовую три кандзі.
+- EN :: I memorize three kanji every day.
+- FOCUS :: 漢字を
