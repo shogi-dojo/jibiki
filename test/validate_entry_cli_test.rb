@@ -49,6 +49,63 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_rejects_unedited_example_placeholders
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Examples
+        *** ex-1381380-001-001
+        - JA :: 例
+        - READING :: れい
+        - UK :: Приклад.
+        - EN :: Example.
+        - FOCUS :: 例
+      ORG
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?, 'placeholder examples must not validate'
+      assert_includes stdout, 'unedited JA placeholder'
+      assert_includes stdout, 'unedited UK placeholder'
+    end
+  end
+
+  def test_rejects_the_unedited_learner_note_stub
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Learner notes
+        *** note-s-1381380-001-001
+        - UK :: Basic word.
+        - LEVEL :: beginner
+      ORG
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, 'unedited UK placeholder'
+    end
+  end
+
+  def test_accepts_real_text_that_merely_contains_the_placeholder_word
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Examples
+        *** ex-1381380-001-001
+        - JA :: 例えば、青い空を見ました。
+        - READING :: たとえば、あおいそらをみました。
+        - UK :: Наприклад, я побачив блакитне небо.
+        - EN :: For example, I saw a blue sky.
+        - FOCUS :: 例文
+      ORG
+
+      _stdout, stderr, status = run_cli(jmdict, path)
+
+      assert status.success?, "a real sentence containing 例 must validate: #{stderr}"
+    end
+  end
+
   def test_reports_an_entry_missing_from_jmdict
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory)
@@ -92,11 +149,11 @@ class ValidateEntryCliTest < Minitest::Test
   end
 
   # Mirrors the on-disk layout the validator enforces: entries/<id[0,4]>/<id>-<romaji>.org
-  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil)
+  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil, examples: nil)
     fingerprint ||= source_fingerprint(jmdict, ent_seq)
     path = File.join(directory, 'entries', ent_seq[0, 4], "#{ent_seq}-ao.org")
     FileUtils.mkdir_p(File.dirname(path))
-    File.write(path, entry_body(ent_seq:, fingerprint:), encoding: Encoding::UTF_8)
+    File.write(path, entry_body(ent_seq:, fingerprint:, examples:), encoding: Encoding::UTF_8)
     path
   end
 
@@ -110,8 +167,8 @@ class ValidateEntryCliTest < Minitest::Test
     entry && entry[:senses].first[:source_fingerprint]
   end
 
-  def entry_body(ent_seq:, fingerprint:)
-    <<~ORG
+  def entry_body(ent_seq:, fingerprint:, examples: nil)
+    body = <<~ORG
       #+TITLE: 青
       #+JMDICT_ID: #{ent_seq}
       #+SCHEMA_VERSION: 1
@@ -181,5 +238,6 @@ class ValidateEntryCliTest < Minitest::Test
       :END:
       - text :: синій
     ORG
+    examples ? "#{body}#{examples}" : body
   end
 end

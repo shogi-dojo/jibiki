@@ -11,6 +11,17 @@ JMDICT_PATH = ENV.fetch(
 
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
+# Exact field values the batch generator emitted as placeholders. Matched whole,
+# never as substrings. 'Basic word.' is the learner-note stub; the rest are the
+# example stub.
+PLACEHOLDER_FIELDS = {
+  'JA' => ['例'],
+  'READING' => ['れい'],
+  'UK' => ['Приклад.', 'Basic word.'],
+  'EN' => ['Example.'],
+  'FOCUS' => ['例']
+}.freeze
+
 # Reading the gzipped archive dominates runtime, so keep one reader and one
 # cache per process: validating N entries must not mean N full archive scans.
 def jmdict
@@ -84,6 +95,17 @@ def validate_entry(filepath)
 
     if line.match?(/^- (?:JA|READING) :: .*\p{Cyrillic}/)
       errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
+    end
+
+    # The batch generator stamped a literal 例/Приклад./Basic word. template into
+    # every entry it produced. Those pass every structural check while carrying
+    # no content, so reject them by exact match: a real sentence may legitimately
+    # contain 例 (例えば, 例文), but never as the entire field.
+    PLACEHOLDER_FIELDS.each do |field, values|
+      value = values.find { |candidate| line == "- #{field} :: #{candidate}" }
+      next unless value
+
+      errors << "Line #{line_num} is an unedited #{field} placeholder: #{value}"
     end
   end
 
