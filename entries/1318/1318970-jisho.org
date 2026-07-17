@@ -1,0 +1,197 @@
+#+TITLE: 辞書
+#+JMDICT_ID: 1318970
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: じしょ
+#+ROMAJI: jisho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1318970-001
+:PROPERTIES:
+:TEXT: 辞書
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Written form wf-1318970-002
+:PROPERTIES:
+:TEXT: 辭書
+:END:
+*** Information
+- sK
+*** Priorities
+** Reading rd-1318970-001
+:PROPERTIES:
+:TEXT: じしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1318970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dbaa7af386a69286073fb34391f474a6337ada9b8518f3b30f06a80de8188d5d
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1318970-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dictionary
+*** en-s-1318970-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lexicon
+** Ukrainian glosses
+*** uk-s-1318970-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: словник
+** Russian reference
+*** ru-ref-1318970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:END:
+- text :: фонетический словарь
+** Learner notes
+*** note-s-1318970-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Словник.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1318970-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 分からない言葉は辞書で引きます。
+- READING :: わからないことばはじしょでひきます。
+- UK :: Незнайомі слова я шукаю у словнику.
+- EN :: I look up words I don't know in the dictionary.
+- FOCUS :: 辞書
+*** ex-1318970-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電子辞書を買いました。
+- READING :: でんしじしょをかいました。
+- UK :: Я купив електронний словник.
+- EN :: I bought an electronic dictionary.
+- FOCUS :: 辞書
+*** ex-1318970-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その辞書を貸してください。
+- READING :: そのじしょをかしてください。
+- UK :: Позичте мені цей словник, будь ласка.
+- EN :: Please lend me that dictionary.
+- FOCUS :: 辞書
+
+* Sense s-1318970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 34dc7886c49227bb4a47038d8fa1d54efa2b3bcd4bdda228368089991cfcaffc
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+- arch
+*** Dialects
+*** Sense information
+*** Cross-references
+- 辞表
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1318970-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letter of resignation
+** Ukrainian glosses
+*** uk-s-1318970-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: заява про звільнення
