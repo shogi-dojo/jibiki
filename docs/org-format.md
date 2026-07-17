@@ -490,7 +490,8 @@ Rules:
 ## 11. Pronunciation and pitch accent
 
 JMdict readings do not encode pitch accent. Accent data is optional and must
-have an independent source:
+have an independent source. The reading's kana is the spelling authority;
+accent records describe how that reading is pronounced in a named system.
 
 ```org
 * Pronunciation
@@ -501,17 +502,44 @@ have an independent source:
 :MORA_COUNT: 4
 :DROP_AFTER: 0
 :PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
 :SOURCE_ID: <source catalogue ID>
+:SOURCE_VERSION: <release or commit>
 :SOURCE_URL: <URL>
 :LICENSE: <licence>
+:STATUS: imported
 :VERIFIED_AT: 2026-07-17
 :END:
 ```
 
 `DROP_AFTER: 0` means no lexical drop (heiban). Accent can vary by region,
 speaker, compound context, and inflection, so multiple sourced patterns are
-allowed. Never infer an accent pattern from audio without marking it as an
-unreviewed analysis.
+allowed. `CONTEXT` is `lexical`, `isolated`, `with-particle`, `compound`, or
+`inflected`. A lexical noun record should be tested with a following particle
+because that distinguishes heiban from odaka. `MORA_PATTERN` is a
+learner-facing H/L summary, not a replacement for `DROP_AFTER`.
+
+Allowed `STATUS` values are `imported`, `cross-checked`, `reviewed`, and
+`conflict`; `unreviewed-analysis` is reserved for a provisional pattern
+measured from audio. Never infer the canonical pattern from TTS output. Such a
+provisional record must be checked against an accent source before promotion.
+
+### Accent source policy
+
+| Source | Project use | Licence / restriction |
+|---|---|---|
+| [Kanjium accents](https://github.com/mifunetoshiro/kanjium/blob/master/data/source_files/raw/accents.txt) | Default import source; pin a commit and join on written form plus reading | CC BY-SA 4.0; preserve attribution and ShareAlike notice |
+| [NINJAL UniDic](https://clrd.ninjal.ac.jp/unidic/en/download_en.html) | Independent structured cross-check, including accent type and pronunciation fields | Contemporary Written/Spoken Japanese releases are GPL/LGPL/New BSD triple-licensed; record the exact edition and version |
+| [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) | Manual learner/editor check for Tokyo accent, conjugation, and example audio | Education and academic research only; do not copy its database or audio into public releases |
+
+Kanjium's README identifies `accents.txt` as pitch locations for 124,137
+words and requests attribution for the pitch notation. UniDic represents an
+accent type by the mora count before the drop, with `0` for heiban. OJAD is
+especially useful when an inflected form or sentence prosody needs a human
+check, but its usage restriction makes it reference-only here. If sources
+disagree, retain each sourced record, mark them `conflict`, and do not silently
+choose one.
 
 ## 12. Audio and other media
 
@@ -534,7 +562,15 @@ recorded licence.
 :SPEAKER_ID: <speaker or voice ID>
 :SPEAKER_REGION: Tokyo
 :RECORDING_TYPE: human
+:ENGINE:
+:ENGINE_VERSION:
+:VOICE_MODEL:
+:VOICE_VERSION:
+:GENERATION_INPUT:
 :RECORDED_AT:
+:GENERATED_AT:
+:DISTRIBUTION_TERMS_URL:
+:CREDIT:
 :VERIFIED_AT: 2026-07-17
 :END:
 - text :: 日本語
@@ -542,8 +578,38 @@ recorded licence.
 ```
 
 `TARGET_TYPE` is `reading`, `example`, or `note`. `RECORDING_TYPE` is `human`
-or `tts`. For TTS, record engine name, model/version, voice, generation date,
-and distribution terms. A URL alone is not permission to redistribute.
+or `tts`. Human recordings leave the TTS-only fields empty. TTS records must
+pin the engine, voice/model, generation input and date, distribution terms,
+and exact public credit. Audio `STATUS` is `draft`, `reviewed`, or `rejected`.
+A URL alone is not permission to redistribute.
+
+### TTS choices and generation policy
+
+| Renderer | Recommendation | Distribution requirements |
+|---|---|---|
+| [Open JTalk](https://open-jtalk.sourceforge.net/) | Reproducible offline baseline and CI renderer; intelligible but noticeably synthetic | Engine is Modified BSD; the bundled NIT ATR503 M001/Mei voices are CC BY 3.0, so ship attribution and licence notice |
+| [VOICEVOX Nemo](https://voicevox.hiroshiba.jp/nemo/) | Preferred optional high-quality learner audio after editorial review | Generated audio may be used commercially or non-commercially with credit; current terms prohibit machine-learning use |
+
+Regular character voices in VOICEVOX can have additional character-specific
+terms, so the generic Nemo edition is easier to audit. The VOICEVOX API exposes
+an editable `AudioQuery`: generation tooling should inspect and, when needed,
+correct its accent phrases before synthesis. Store the query alongside build
+metadata when VOICEVOX is used.
+
+For a word recording:
+
+1. Resolve one exact JMdict reading; never send ambiguous kanji alone.
+2. Resolve the accent nucleus from an approved accent source.
+3. Synthesize the kana reading at a learner-friendly speed. For nouns, also
+   generate a private QA take with `が` so editors can hear heiban versus
+   odaka; the public asset may remain the isolated word.
+4. Check mora segmentation, devoicing, long vowels, gemination, and the accent
+   drop. TTS is allowed to realize the record, not to decide it.
+5. Normalize loudness, encode the public Ogg/Opus asset, and record SHA-256,
+   duration, engine, model, input, generation date, licence, and credit in the
+   asset manifest.
+6. Mark audio `reviewed` only after a human has listened to it. Until then it
+   remains a clearly labelled TTS draft.
 
 Allowed canonical audio formats are Ogg Vorbis/Opus and MP3. Exporters may
 transcode only when the source licence permits derivatives. Checksums belong in
@@ -714,8 +780,11 @@ Follow the modular pattern used by mature learner dictionaries:
 - KanjiVG: stroke order, subject to its licence;
 - Tatoeba or another corpus: examples, only with sentence-level attribution and
   compatible licences;
-- an approved accent source: pitch accent;
-- approved human recordings or redistributable TTS: audio;
+- Kanjium plus a pinned commit: importable Tokyo pitch accent;
+- UniDic: an independently licensed pronunciation/accent cross-check;
+- OJAD: reference-only accent and prosody review, never redistributed;
+- approved human recordings, Open JTalk, or VOICEVOX Nemo: audio, with
+  asset-level terms and attribution;
 - BCCWJ frequency tables: translation prioritization and frequency context,
   used according to their research/education and redistribution terms;
 - independently authored Ukrainian editorial content: the public learner layer.
