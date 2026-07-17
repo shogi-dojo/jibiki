@@ -93,7 +93,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Ні (як заперечення). Також використовується у значенні "нема за що" у відповідь на подяку.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -107,11 +107,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: いいえ、違います。
+- READING :: いいえ、ちがいます。
+- UK :: Ні, це не так.
+- EN :: No, that's wrong.
+- FOCUS :: いいえ
+*** ex-1583250-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 「ありがとうございます。」「いいえ。」
+- READING :: 「ありがとうございます。」「いいえ。」
+- UK :: "Дуже дякую." "Нема за що."
+- EN :: "Thank you very much." "You're welcome."
+- FOCUS :: いいえ
+*** ex-1583250-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: いいえ、私は学生ではありません。
+- READING :: いいえ、わたしはがくせいではありません。
+- UK :: Ні, я не студент.
+- EN :: No, I am not a student.
+- FOCUS :: いいえ
 
 * Sense s-1583250-002
 :PROPERTIES:

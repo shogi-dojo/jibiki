@@ -127,7 +127,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Бути, існувати, перебувати. Використовується для живих істот (людей, тварин). Для неживих предметів та рослин використовується ある.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -141,11 +141,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 部屋に猫がいます。
+- READING :: へやにねこがいます。
+- UK :: У кімнаті є кіт.
+- EN :: There is a cat in the room.
+- FOCUS :: います
+*** ex-1577980-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あそこに田中さんがいます。
+- READING :: あそこにたなかさんがいます。
+- UK :: Он там пан Танака.
+- EN :: Mr. Tanaka is over there.
+- FOCUS :: います
+*** ex-1577980-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 家族は日本にいます。
+- READING :: かぞくはにほんにいます。
+- UK :: Моя сім'я перебуває в Японії.
+- EN :: My family is in Japan.
+- FOCUS :: います
 
 * Sense s-1577980-002
 :PROPERTIES:

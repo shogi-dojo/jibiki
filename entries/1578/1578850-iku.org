@@ -188,7 +188,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Іти, їхати, направлятися (кудись). Використовується з частками に або へ.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -202,11 +202,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 明日、東京に行きます。
+- READING :: あした、とうきょうにいきます。
+- UK :: Завтра я їду в Токіо.
+- EN :: I am going to Tokyo tomorrow.
+- FOCUS :: 行きます
+*** ex-1578850-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 学校へ行く。
+- READING :: がっこうへいく。
+- UK :: Я йду до школи.
+- EN :: I'm going to school.
+- FOCUS :: 行く
+*** ex-1578850-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 友達と遊びに行きました。
+- READING :: ともだちとあそびにいきました。
+- UK :: Я ходив розважатися з друзями.
+- EN :: I went to hang out with my friends.
+- FOCUS :: 行きました
 
 * Sense s-1578850-002
 :PROPERTIES:
