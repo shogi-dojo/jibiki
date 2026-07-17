@@ -100,10 +100,11 @@ git add entries/yyyy/yyyyyyy-word2.org && git commit -m "feat: add word2 learner
 ```
 
 ## 6. Handoff state
-- Dictionary is at **151 entries**; the last completed batch covered source orders 137–156.
-- **Next batch starts at source order 157**. Extracts for orders 157–170 are already in `tmp/source-extracts/`; extract further (e.g. `rake "sources:n5_batch[171,190]"`) to reach 20 unique words.
-- Copy `scratch/gen_n5_part9.py` as the generator template (6-digit filename padding, correct for orders ≥100).
-- Always dedupe new candidates against the `#+JMDICT_ID:` of existing entries before generating. Past collisions: orders 133/134 (下りる/降りる) share JMdict 1589500.
+- Dictionary is at **171 entries**; the last completed batch covered source orders 157–176.
+- **Next batch starts at source order 177**. Extracts for orders 177–190 are already in `tmp/source-extracts/`; extract further (e.g. `rake "sources:n5_batch[191,210]"`) to reach 20 unique words.
+- Copy `scratch/gen_n5_part10.py` as the generator template (6-digit filename padding, correct for orders ≥100).
+- Always dedupe new candidates against the `#+JMDICT_ID:` of existing entries before generating. Past collisions: orders 133/134 (下りる/降りる) share JMdict 1589500; orders 180/181 (聞く/聴く) share 1591110 — author it once at order 180 and skip 181.
+- Keep tagged senses consistent with earlier entries. The `go` senses of 重い (1335750 s7) and 軽い (1252560 s7) are a matched pair — check the existing one before wording the other.
 - Two entries may share a romaji filename stem legitimately (e.g. 風 and 風邪 are both `kaze`); they differ by JMdict ID, so paths do not collide.
 - Sense counts vary wildly. 掛ける (1207610) has 25 senses and 掛かる (1207590) has 15, so a 20-word batch is not a fixed amount of work — size later batches by total senses, not word count.
 
