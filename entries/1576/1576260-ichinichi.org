@@ -1,0 +1,169 @@
+#+TITLE: 一日
+#+JMDICT_ID: 1576260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いちにち
+#+ROMAJI: ichinichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1576260-001
+:PROPERTIES:
+:TEXT: 一日
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1576260-002
+:PROPERTIES:
+:TEXT: １日
+:END:
+*** Priorities
+- spec1
+** Reading rd-1576260-001
+:PROPERTIES:
+:TEXT: いちにち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- spec1
+** Reading rd-1576260-002
+:PROPERTIES:
+:TEXT: いちじつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+* Sense s-1576260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4fe0746d196b7836e478700be1be7143708ad97ec61b53145ec7735701cfd52f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- one day
+** Ukrainian glosses
+*** uk-s-1576260-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: один день
+** Russian reference
+- 24 :: 1) [один] день; в день
+- 24 :: {～の} однодневный
+- 24 :: 2) целый (весь) день
+- 24 :: 3) однажды; как-нибудь
+- 24 :: 4) первое [число] (месяца)
+- 24 :: (см.) いちにち
+** Learner notes
+*** note-s-1576260-001-001
+:PROPERTIES:
+:END:
+- UK :: Один день (як проміжок часу). Зверніть увагу, що перше число місяця пишеться так само (一日), але читається як ついたち.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1576260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 一日休みます。
+- READING :: いちにちやすみます。
+- UK :: Я візьму один вихідний день.
+- EN :: I will take a day off.
+- FOCUS :: 一日
+*** ex-1576260-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本に一日だけいました。
+- READING :: にほんにいちにちだけいました。
+- UK :: Я був у Японії лише один день.
+- EN :: I was in Japan for just one day.
+- FOCUS :: 一日
+*** ex-1576260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 一日中、雨が降りました。
+- READING :: いちにちじゅう、あめがふりました。
+- UK :: Весь день йшов дощ.
+- EN :: It rained all day long.
+- FOCUS :: 一日中
+
+* Sense s-1576260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dd64fb49539ed3d02ced276bfaf81746921ad8fc63dd87b3ddfc30b8042d2e54
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- いちにち
+** JMdict metadata
+*** Parts of speech
+- adv
+- n
+** English glosses
+- all day (long)
+- the whole day
+- from morning till night
+** Ukrainian glosses
+*** uk-s-1576260-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: цілий день
+*** uk-s-1576260-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: весь день
+- qualifier :: з ранку до вечора
+
+* Sense s-1576260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 49b1415466594aaa05f0eb5982d4410ec72cff7105d9e443bc47ba9ab4ee0443
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- １日・ついたち
+** English glosses
+- first day of the month
+** Ukrainian glosses
+*** uk-s-1576260-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перше число місяця

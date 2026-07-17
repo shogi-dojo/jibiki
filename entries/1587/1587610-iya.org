@@ -1,0 +1,217 @@
+#+TITLE: 嫌
+#+JMDICT_ID: 1587610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いや
+#+ROMAJI: iya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1587610-001
+:PROPERTIES:
+:TEXT: 嫌
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Written form wf-1587610-002
+:PROPERTIES:
+:TEXT: 厭
+:END:
+*** Information
+- rK
+** Reading rd-1587610-001
+:PROPERTIES:
+:TEXT: いや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Reading rd-1587610-002
+:PROPERTIES:
+:TEXT: や
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1587610-003
+:PROPERTIES:
+:TEXT: イヤ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1587610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c4980baf44f4e4142aa85cc702091cbf410f0cbf0881b9d6891e19ad5309d25f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+** English glosses
+- disliking
+- not wanting
+- unwilling (to do)
+- reluctant
+** Ukrainian glosses
+*** uk-s-1587610-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: небажаний
+*** uk-s-1587610-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: що не подобається
+*** uk-s-1587610-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: неохочий
+- qualifier :: до якоїсь дії
+** Learner notes
+*** note-s-1587610-001-001
+:PROPERTIES:
+:END:
+- UK :: Неприємний, небажаний. Часто використовується для вираження відмови або небажання щось робити.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1587610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 野菜は嫌です。
+- READING :: やさいはいやです。
+- UK :: Я не хочу овочі.
+- EN :: I don't want vegetables.
+- FOCUS :: 嫌
+*** ex-1587610-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雨の日は嫌です。
+- READING :: あめのひはいやです。
+- UK :: Я не люблю дощові дні.
+- EN :: I dislike rainy days.
+- FOCUS :: 嫌
+*** ex-1587610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 嫌な予感がします。
+- READING :: いやなよかんがします。
+- UK :: У мене погане передчуття.
+- EN :: I have a bad feeling.
+- FOCUS :: 嫌な
+
+* Sense s-1587610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e7926d2902278d4dcefd590247f7b73165a08302e7f2ffc84f5448941a12ee53
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+** English glosses
+- unpleasant
+- disagreeable
+- nasty
+- horrible
+- disgusting
+- undesirable
+- unwelcome
+** Ukrainian glosses
+*** uk-s-1587610-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: неприємний
+*** uk-s-1587610-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: огидний
+*** uk-s-1587610-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: осоружний
+
+* Sense s-1587610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a281259fa13e69e061d2065e2c6e8693357bd9440134cd69a76902d6802ca2e7
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Miscellaneous and register
+- uk
+** English glosses
+- no!
+- quit it!
+- stop!
+** Ukrainian glosses
+*** uk-s-1587610-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ні!
+*** uk-s-1587610-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: припини!
+*** uk-s-1587610-003-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: годі!

@@ -1,0 +1,440 @@
+#+TITLE: 開く
+#+JMDICT_ID: 1586270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あく
+#+ROMAJI: aku
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-8
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-1586270-001
+:PROPERTIES:
+:TEXT: 開く
+:END:
+*** Priorities
+- spec1
+** Written form wf-1586270-002
+:PROPERTIES:
+:TEXT: 空く
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1586270-003
+:PROPERTIES:
+:TEXT: 明く
+:END:
+** Reading rd-1586270-001
+:PROPERTIES:
+:TEXT: あく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- spec1
+
+* Sense s-1586270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 838cd72a8cb45778d5de4bc82e70510fcf1fa907fa4f5b4850e9b9b013b9a074
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 開く
+** English glosses
+- to open (e.g. doors)
+** Ukrainian glosses
+*** uk-s-1586270-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: відчинятися
+- qualifier :: наприклад, про двері
+** Russian reference
+- 38 :: ((редко) 明く)
+- 38 :: 1) открываться, раскрываться
+- 38 :: 2) открываться (о начале чего-л.)
+- 38 :: (ср.) あく【空く】
+- 38 :: быть пустым
+- 38 :: быть свободным (о месте)
+- 38 :: 1) освобождаться, быть свободным
+- 38 :: 2) кончаться, истекать (о сроке)
+- 38 :: (ср.) あく【開く】
+** Learner notes
+*** note-s-1586270-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Неперехідне дієслово 1-ї групи. Залежно від ієрогліфа має різні значення: 開く (відчинятися), 空く (бути порожнім, вільним), 明く (закінчуватися).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1586270-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ドアが開きます。
+- READING :: ドアがあきます。
+- UK :: Двері відчиняються.
+- EN :: The door opens.
+- FOCUS :: 開き
+*** ex-1586270-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 窓が開いています。
+- READING :: まどがあいています。
+- UK :: Вікно відчинене.
+- EN :: The window is open.
+- FOCUS :: 開いて
+*** ex-1586270-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 風でドアが開きました。
+- READING :: かぜでドアがあきました。
+- UK :: Двері відчинилися від вітру.
+- EN :: The door opened because of the wind.
+- FOCUS :: 開きました
+
+* Sense s-1586270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 78c34979f14b6bfe6f60dba9717a6a28de295bd668e4808006b9055a7de4cc62
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 開く
+** English glosses
+- to open (e.g. business, etc.)
+** Ukrainian glosses
+*** uk-s-1586270-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: відкриватися
+- qualifier :: наприклад, про бізнес тощо
+
+* Sense s-1586270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 519fdc9138dc7216e7ff72911e82239e18d37c92fbbb1374135d8a03027c06ab
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 空く
+** English glosses
+- to be empty
+** Ukrainian glosses
+*** uk-s-1586270-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: бути порожнім
+** Examples
+*** ex-1586270-003-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: コップが空きました。
+- READING :: コップがあきました。
+- UK :: Склянка спорожніла.
+- EN :: The glass is empty now.
+- FOCUS :: 空きました
+*** ex-1586270-003-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 箱が空きましたから、捨ててもいいですか。
+- READING :: はこがあきましたから、すててもいいですか。
+- UK :: Коробка вже порожня — можна її викинути?
+- EN :: The box is empty now — may I throw it away?
+- FOCUS :: 空きました
+*** ex-1586270-003-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: コップが空いたら、お茶を入れましょう。
+- READING :: コップがあいたら、おちゃをいれましょう。
+- UK :: Коли склянка спорожніє, наллю чаю.
+- EN :: When your glass is empty, I will pour some tea.
+- FOCUS :: 空いたら
+
+* Sense s-1586270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9ad787824dcf25f30cec2097211b8dfb89fad5391f76aa9f7677c0fc23f955e9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 空く
+** English glosses
+- to be vacant
+- to be available
+- to be free
+** Ukrainian glosses
+*** uk-s-1586270-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: бути вільним
+*** uk-s-1586270-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: бути доступним
+** Examples
+*** ex-1586270-004-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この席は空いていますか。
+- READING :: このせきはあいていますか。
+- UK :: Це місце вільне?
+- EN :: Is this seat taken?
+- FOCUS :: 空いて
+*** ex-1586270-004-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明日の午後は空いていますか。
+- READING :: あしたのごごはあいていますか。
+- UK :: Ви вільні завтра по обіді?
+- EN :: Are you free tomorrow afternoon?
+- FOCUS :: 空いています
+*** ex-1586270-004-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電車で席が空いたので、座りました。
+- READING :: でんしゃでせきがあいたので、すわりました。
+- UK :: У поїзді звільнилося місце, тож я сів.
+- EN :: A seat opened up on the train, so I sat down.
+- FOCUS :: 席が空いた
+
+* Sense s-1586270-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f6953e14279fb49d55c158269f59f703e6fd42f9b74e731108253b8ec033896b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 明く
+** English glosses
+- to be open (e.g. neckline, etc.)
+** Ukrainian glosses
+*** uk-s-1586270-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: бути відкритим
+- qualifier :: наприклад, про виріз тощо
+
+* Sense s-1586270-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 22fa2bd9de41940c5f725610d0ab2e36be9688f37499cde3c3d90b93c2f55d0b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 明く
+** English glosses
+- to have been opened (of one's eyes, mouth, etc.)
+** Ukrainian glosses
+*** uk-s-1586270-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: розплющитися
+- qualifier :: про очі
+*** uk-s-1586270-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: відкритися
+- qualifier :: про рот тощо
+
+* Sense s-1586270-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4d8ec8086d64f0c7a4f580ba86628d858d38f402d27d05f6235ff28f676888a0
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Sense information
+- esp. 明く
+** English glosses
+- to come to an end
+** Ukrainian glosses
+*** uk-s-1586270-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: закінчуватися
+*** uk-s-1586270-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: добігати кінця
+
+* Sense s-1586270-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a5971189ca9e70d6b0e47549768610507eeffdad5cdfc3a30066e865a49ae70e
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+*** Sense information
+- esp. 明く
+** English glosses
+- to open (one's eyes, mouth, etc.)
+** Ukrainian glosses
+*** uk-s-1586270-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: розплющувати
+- qualifier :: очі
+*** uk-s-1586270-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: відкривати
+- qualifier :: рот тощо
+
+* Sense s-1586270-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: dc182808371d5022147a502c55d9a4a01fbd5a746eb543bf0f40b68064849c9d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Cross-references
+- 穴が開く
+** English glosses
+- to have a hole
+- to form a gap
+- to have an interval (between events)
+** Ukrainian glosses
+*** uk-s-1586270-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: мати отвір
+*** uk-s-1586270-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: утворювати проміжок
+*** uk-s-1586270-009-003
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-8
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: мати перерву
+- qualifier :: між подіями

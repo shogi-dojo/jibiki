@@ -1,0 +1,185 @@
+#+TITLE: 風
+#+JMDICT_ID: 1499720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かぜ
+#+ROMAJI: kaze
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1499720-001
+:PROPERTIES:
+:TEXT: 風
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1499720-001
+:PROPERTIES:
+:TEXT: かぜ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1499720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: db1b2043e004f1231e677cfc8df7d558a50e2b3da3270785dd3c8b6ea9f7ddb0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wind
+- breeze
+- draught
+- draft
+** Ukrainian glosses
+*** uk-s-1499720-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вітер
+*** uk-s-1499720-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вітерець
+*** uk-s-1499720-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: протяг
+** Russian reference
+- 12 :: ветер
+- 12 :: {～のある}, 風の強い ветреный
+- 12 :: {～のない} безветренный
+** Learner notes
+*** note-s-1499720-001-001
+:PROPERTIES:
+:END:
+- UK :: Значення «вітер» пишеться 風. Для «застуди» стандартне написання — 風邪; 風 у цьому значенні JMdict позначає як нестандартне.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1499720-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は風が強いです。
+- READING :: きょうはかぜがつよいです。
+- UK :: Сьогодні сильний вітер.
+- EN :: The wind is strong today.
+- FOCUS :: 風が
+*** ex-1499720-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 窓を開けると、涼しい風が入ってきました。
+- READING :: まどをあけると、すずしいかぜがはいってきました。
+- UK :: Коли я відчинив вікно, увійшов прохолодний вітерець.
+- EN :: When I opened the window, a cool breeze came in.
+- FOCUS :: 風が
+*** ex-1499720-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 春になると、暖かい風が南から吹いてきます。
+- READING :: はるになると、あたたかいかぜがみなみからふいてきます。
+- UK :: Коли настає весна, теплий вітер починає дути з півдня.
+- EN :: When spring comes, a warm wind blows from the south.
+- FOCUS :: 風が
+
+* Sense s-1499720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8d38160c6533489d6b71e609aa44d9b9cd028a401472c250febb6f86301b5adf
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-pref
+*** Cross-references
+- 風・ふう・1
+** English glosses
+- manner
+- behaviour
+- behavior
+** Ukrainian glosses
+*** uk-s-1499720-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: манера
+*** uk-s-1499720-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поведінка
+
+* Sense s-1499720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0343920a56ae305968685eb65fb2e0d1d1198a93fddc08ed04146e65dcda6a32
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- irreg. kanji form
+*** Cross-references
+- 風邪・かぜ
+** English glosses
+- cold
+- influenza
+** Ukrainian glosses
+*** uk-s-1499720-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: застуда
+- qualifier :: нестандартне написання
+*** uk-s-1499720-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: грип

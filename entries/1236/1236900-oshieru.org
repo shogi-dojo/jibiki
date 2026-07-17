@@ -1,0 +1,173 @@
+#+TITLE: 教える
+#+JMDICT_ID: 1236900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おしえる
+#+ROMAJI: oshieru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1236900-001
+:PROPERTIES:
+:TEXT: 教える
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf38
+** Written form wf-1236900-002
+:PROPERTIES:
+:TEXT: 訓える
+:END:
+*** Information
+- sK
+** Reading rd-1236900-001
+:PROPERTIES:
+:TEXT: おしえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf38
+
+* Sense s-1236900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c6ecfe219efe181c6a5da0667c2251e08f72c88dcc8f59668a77f1acf7c6bb57
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to teach
+- to instruct
+** Ukrainian glosses
+*** uk-s-1236900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: навчати
+*** uk-s-1236900-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: викладати
+** Russian reference
+- 12 :: 1) преподавать (что-л.); учить, обучать (чему-л.); наставлять (в чём-л.)
+- 12 :: 2) объяснять, показывать
+- 12 :: (ср.) おしわる, おしうる【教うる】
+** Learner notes
+*** note-s-1236900-001-001
+:PROPERTIES:
+:END:
+- UK :: Навчати, викладати. Також часто використовується в значенні "повідомляти/розповідати" інформацію.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1236900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 学校で英語を教えています。
+- READING :: がっこうでえいごをおしえています。
+- UK :: Я викладаю англійську в школі.
+- EN :: I teach English at school.
+- FOCUS :: 教えています
+*** ex-1236900-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電話番号を教えてください。
+- READING :: でんわばんごうをおしえてください。
+- UK :: Будь ласка, скажіть (повідомте) мені номер телефону.
+- EN :: Please tell me your phone number.
+- FOCUS :: 教えて
+*** ex-1236900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼にピアノの弾き方を教えました。
+- READING :: かれにピアノのひきかたをおしえました。
+- UK :: Я навчив його грати на піаніно.
+- EN :: I taught him how to play the piano.
+- FOCUS :: 教えました
+
+* Sense s-1236900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ac409d22833543b4d44b7f6c7c3f3970031c01adfaf9a4f6fb786c2562485cd6
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to tell
+- to inform
+- to show
+** Ukrainian glosses
+*** uk-s-1236900-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: повідомляти
+*** uk-s-1236900-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розповідати
+*** uk-s-1236900-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: показувати
+
+* Sense s-1236900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9645439f58ddba111debd356651891cc162e6a18ae3a50326777a26cc71d6a1d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to preach
+** Ukrainian glosses
+*** uk-s-1236900-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: проповідувати

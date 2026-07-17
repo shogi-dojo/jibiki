@@ -1,0 +1,201 @@
+#+TITLE: 洗う
+#+JMDICT_ID: 1390930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あらう
+#+ROMAJI: arau
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-1390930-001
+:PROPERTIES:
+:TEXT: 洗う
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf23
+** Reading rd-1390930-001
+:PROPERTIES:
+:TEXT: あらう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf23
+
+* Sense s-1390930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d74b07b631ff0e3a38f36e0e164fd3c012237d016a313bde537163c051911b2b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to wash
+- to cleanse
+- to rinse
+** Ukrainian glosses
+*** uk-s-1390930-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: мити
+*** uk-s-1390930-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: прати
+*** uk-s-1390930-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: вмиватися
+** Russian reference
+- 13 :: 1) мыть; умывать; промывать (напр. глаза); омывать (о волнах); стирать
+- 13 :: [手や]顔を洗う умываться
+- 13 :: 2) (перен.) проверять, расследовать, выяснять (напр. чьё-л. прошлое); доискиваться (напр. до причин чего-л.)
+** Learner notes
+*** note-s-1390930-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Мити, прати.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1390930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 手を洗います。
+- READING :: てをあらいます。
+- UK :: Я мию руки.
+- EN :: I wash my hands.
+- FOCUS :: 洗います
+*** ex-1390930-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 顔を洗ってください。
+- READING :: かおをあらってください。
+- UK :: Будь ласка, вмийте обличчя.
+- EN :: Please wash your face.
+- FOCUS :: 洗って
+*** ex-1390930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 服を洗いました。
+- READING :: ふくをあらいました。
+- UK :: Я виправ одяг.
+- EN :: I washed my clothes.
+- FOCUS :: 洗いました
+
+* Sense s-1390930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1896137345a5252abe7f225c591a2bc9fd6a907a819ff46554ed4f0edbb6bba1
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to inquire into
+- to investigate
+** Ukrainian glosses
+*** uk-s-1390930-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: досліджувати
+*** uk-s-1390930-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: розслідувати
+
+* Sense s-1390930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0d8168960a178d528d8d4db9ceae4af3fb4196973f72a196aa8c94ee68d84f20
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to purify (one's heart)
+** Ukrainian glosses
+*** uk-s-1390930-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: очищати
+- qualifier :: серце
+
+* Sense s-1390930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 58d203bf5544e5e447bde1f324b607061c4f92c62782901ff41dafce7aef4bc1
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to lave (e.g. shore)
+- to wash over (e.g. deck)
+- to sweep
+** Ukrainian glosses
+*** uk-s-1390930-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: омивати
+- qualifier :: про хвилі
+*** uk-s-1390930-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: захльостувати

@@ -1,0 +1,123 @@
+#+TITLE: 風邪
+#+JMDICT_ID: 1583720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かぜ
+#+ROMAJI: kaze
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1583720-001
+:PROPERTIES:
+:TEXT: 風邪
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1583720-001
+:PROPERTIES:
+:TEXT: かぜ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1583720-002
+:PROPERTIES:
+:TEXT: ふうじゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+* Sense s-1583720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04f04cc65c238f98c7f0b82f92a33eb5b1bef400121e7f4715d70e5461102945
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (common) cold
+- influenza
+- flu
+- ague
+- inflammatory respiratory system illness (in general)
+** Ukrainian glosses
+*** uk-s-1583720-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: застуда
+*** uk-s-1583720-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: грип
+*** uk-s-1583720-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запальне захворювання дихальних шляхів
+** Russian reference
+- 6 :: простуда
+** Learner notes
+*** note-s-1583720-001-001
+:PROPERTIES:
+:END:
+- UK :: Застуда. Найчастіше використовується у виразі 風邪を引く (застудитися).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1583720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 風邪を引きました。
+- READING :: かぜをひきました。
+- UK :: Я застудився.
+- EN :: I caught a cold.
+- FOCUS :: 風邪
+*** ex-1583720-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 風邪の薬を飲みます。
+- READING :: かぜのくすりをのみます。
+- UK :: Я приймаю ліки від застуди.
+- EN :: I'll take cold medicine.
+- FOCUS :: 風邪
+*** ex-1583720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昨日から風邪で休んでいます。
+- READING :: きのうからかぜでやすんでいます。
+- UK :: Я хворію на застуду і не ходжу на роботу (чи в школу) відучора.
+- EN :: I've been resting because of a cold since yesterday.
+- FOCUS :: 風邪

@@ -1,0 +1,171 @@
+#+TITLE: 書く
+#+JMDICT_ID: 1343950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かく
+#+ROMAJI: kaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1343950-001
+:PROPERTIES:
+:TEXT: 書く
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1343950-001
+:PROPERTIES:
+:TEXT: かく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1343950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7e6b12ba535dc652e1ee827f839edb29ae8bcd3d80c5eb843818bfc1b620de3b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+** English glosses
+- to write
+- to compose
+- to pen
+** Ukrainian glosses
+*** uk-s-1343950-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: писати
+*** uk-s-1343950-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: складати
+** Russian reference
+- 7 :: 1) писать
+- 7 :: 2) ((тж.) 描く) писать (картину); рисовать; чертить
+** Learner notes
+*** note-s-1343950-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово: те, що пишуть, позначається часткою を. Для значення «малювати» звичніше написання 描く, а 書く залишають для тексту та знаків.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1343950-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 名前をここに書いてください。
+- READING :: なまえをここにかいてください。
+- UK :: Напишіть, будь ласка, своє ім'я тут.
+- EN :: Please write your name here.
+- FOCUS :: 書いて
+*** ex-1343950-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎晩、日記を書きます。
+- READING :: まいばん、にっきをかきます。
+- UK :: Щовечора я пишу щоденник.
+- EN :: I write in my diary every night.
+- FOCUS :: 書きます
+*** ex-1343950-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 友だちに手紙を書こうと思っていますが、まだ書いていません。
+- READING :: ともだちにてがみをかこうとおもっていますが、まだかいていません。
+- UK :: Я збираюся написати листа другові, але ще не написав.
+- EN :: I am thinking of writing a letter to my friend, but I haven't written it yet.
+- FOCUS :: 書こう
+
+* Sense s-1343950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 56274c9e6b8f03722d9c779b625ca1962e5f0e6228f730b0714ec21cb66ff2cf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+*** Cross-references
+- 描く・かく・1
+** English glosses
+- to draw
+- to paint
+** Ukrainian glosses
+*** uk-s-1343950-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: малювати
+** Examples
+*** ex-1343950-002-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもが紙に絵を書いています。
+- READING :: こどもがかみにえをかいています。
+- UK :: Дитина малює на папері.
+- EN :: A child is drawing a picture on paper.
+- FOCUS :: 書いて
+*** ex-1343950-002-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 妹は花の絵を書くのが好きです。
+- READING :: いもうとははなのえをかくのがすきです。
+- UK :: Моя молодша сестра любить малювати квіти.
+- EN :: My younger sister likes drawing pictures of flowers.
+- FOCUS :: 書く
+*** ex-1343950-002-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地図を書いて、駅への道を教えました。
+- READING :: ちずをかいて、えきへのみちをおしえました。
+- UK :: Я намалював мапу і пояснив дорогу до станції.
+- EN :: I drew a map and showed the way to the station.
+- FOCUS :: 地図を書いて

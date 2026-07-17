@@ -1,0 +1,104 @@
+#+TITLE: お金
+#+JMDICT_ID: 1001820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おかね
+#+ROMAJI: okane
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1001820-001
+:PROPERTIES:
+:TEXT: お金
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Written form wf-1001820-002
+:PROPERTIES:
+:TEXT: 御金
+:END:
+** Reading rd-1001820-001
+:PROPERTIES:
+:TEXT: おかね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1001820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9fb59989e1077305a2389a614ab37acb4c128b9874aeeacd1cd31a074f76d73a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- pol
+*** Cross-references
+- 金・かね・1
+** English glosses
+- money
+** Ukrainian glosses
+*** uk-s-1001820-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гроші
+- qualifier :: ввічливо
+** Russian reference
+- 6 :: (разг. см.) かね【金】2
+** Learner notes
+*** note-s-1001820-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальна назва для грошей. Походить від слова 金 (かね) з додаванням ввічливого префікса お.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1001820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金がありません。
+- READING :: おかねがありません。
+- UK :: У мене немає грошей.
+- EN :: I have no money.
+- FOCUS :: お金が
+*** ex-1001820-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金が欲しいです。
+- READING :: おかねがほしいです。
+- UK :: Я хочу грошей.
+- EN :: I want money.
+- FOCUS :: お金が
+*** ex-1001820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 銀行でお金をおろします。
+- READING :: ぎんこうでおかねをおろします。
+- UK :: Я зніму гроші в банку.
+- EN :: I will withdraw money at the bank.
+- FOCUS :: お金を

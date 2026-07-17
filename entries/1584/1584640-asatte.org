@@ -1,0 +1,133 @@
+#+TITLE: 明後日
+#+JMDICT_ID: 1584640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あさって
+#+ROMAJI: asatte
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1584640-001
+:PROPERTIES:
+:TEXT: 明後日
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1584640-001
+:PROPERTIES:
+:TEXT: あさって
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+** Reading rd-1584640-002
+:PROPERTIES:
+:TEXT: みょうごにち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1584640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f4711ccaf0a2e1eccfde20406fa0a214219cae985bbf5969b64a3965e5d30ceb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- day after tomorrow
+** Ukrainian glosses
+*** uk-s-1584640-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: післязавтра
+** Russian reference
+- 7 :: послезавтра
+- 7 :: 1. послезавтра, через два дня
+- 7 :: 2. послезавтрашний день
+** Learner notes
+*** note-s-1584640-001-001
+:PROPERTIES:
+:END:
+- UK :: Післязавтра. Найчастіше читається як あさって. В офіційному мовленні ієрогліфи 明後日 читаються як みょうごにち.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1584640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明後日は日曜日です。
+- READING :: あさってはにちようびです。
+- UK :: Післязавтра — неділя.
+- EN :: The day after tomorrow is Sunday.
+- FOCUS :: 明後日
+*** ex-1584640-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明後日、海へ行きます。
+- READING :: あさって、うみへいきます。
+- UK :: Післязавтра я поїду на море.
+- EN :: I'm going to the sea the day after tomorrow.
+- FOCUS :: 明後日
+*** ex-1584640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 明後日の会議は中止になりました。
+- READING :: みょうごにちのかいぎはちゅうしになりました。
+- UK :: Нараду, заплановану на післязавтра, скасовано.
+- EN :: The meeting scheduled for the day after tomorrow has been canceled.
+- FOCUS :: 明後日
+
+* Sense s-1584640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff389c96f5e1269b281a448381e4273265fae36cfd528b3c1aab05f88d2b27a7
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- あさって
+** JMdict metadata
+*** Parts of speech
+- adj-no
+*** Cross-references
+- あさっての方を向く
+** English glosses
+- wrong (e.g. direction)
+** Ukrainian glosses
+*** uk-s-1584640-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: claude
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хибний
+- qualifier :: про напрямок; ідіоматичне (あさっての方を向く — дивитися не в той бік)

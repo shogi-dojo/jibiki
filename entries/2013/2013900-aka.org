@@ -1,0 +1,313 @@
+#+TITLE: 赤
+#+JMDICT_ID: 2013900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あか
+#+ROMAJI: aka
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-4
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-2013900-001
+:PROPERTIES:
+:TEXT: 赤
+:END:
+*** Priorities
+- spec1
+** Written form wf-2013900-002
+:PROPERTIES:
+:TEXT: 紅
+:END:
+** Written form wf-2013900-003
+:PROPERTIES:
+:TEXT: 朱
+:END:
+** Written form wf-2013900-004
+:PROPERTIES:
+:TEXT: 緋
+:END:
+*** Information
+- oK
+** Reading rd-2013900-001
+:PROPERTIES:
+:TEXT: あか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-2013900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b9452b524a00abda75d21f497793f1a91592e2123511ab3f2177099864a3c906
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- red
+- crimson
+- scarlet
+** Ukrainian glosses
+*** uk-s-2013900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: червоний
+*** uk-s-2013900-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: червоний колір
+** Russian reference
+- 41 :: 1) красное, красный цвет
+** Learner notes
+*** note-s-2013900-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Іменник, що позначає червоний колір. Також вживається як прикметник з часткою の: 赤の (червоний). Три варіанти ієрогліфів (赤, 紅, 朱) відповідають різним відтінкам червоного, але читання あか однакове для всіх.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-2013900-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤はわたしのすきないろです。
+- READING :: あかはわたしのすきないろです。
+- UK :: Червоний — мій улюблений колір.
+- EN :: Red is my favorite color.
+- FOCUS :: 赤
+*** ex-2013900-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: かばんは赤と黒があります。
+- READING :: かばんはあかとくろがあります。
+- UK :: Сумка буває в червоному та чорному кольорах.
+- EN :: The bag comes in red and black.
+- FOCUS :: 赤と
+*** ex-2013900-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 妹は、たくさんの色の中から赤をえらびました。
+- READING :: いもうとは、たくさんのいろのなかからあかをえらびました。
+- UK :: Молодша сестра з-поміж багатьох кольорів вибрала червоний.
+- EN :: My younger sister chose red from among many colors.
+- FOCUS :: 赤を
+
+* Sense s-2013900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c20d92f429623ee3e358df294d77d8e0e35c548e1f16d0c18bfe8da83901e458
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- red-containing colour (e.g. brown, pink, orange)
+** Ukrainian glosses
+*** uk-s-2013900-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: колір із червоним відтінком
+- qualifier :: коричневий, рожевий, помаранчевий тощо
+
+* Sense s-2013900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6105bd6e1315d49970c21d918d1117b9da7f277c2d90a071a9dbc00f2484a5a1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+*** Sense information
+- often written as アカ
+** English glosses
+- Red (i.e. communist)
+** Ukrainian glosses
+*** uk-s-2013900-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: червоний
+- qualifier :: тобто комуніст
+** Russian reference
+- 41 :: 2) (полит.) красный (напр. о коммунистах)
+* Sense s-2013900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4bf8bedd7b2c6bf24027ef049c0316b021ea369e464eff2f8977075c134dcbd6
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 赤信号・1
+** English glosses
+- red light (traffic)
+** Ukrainian glosses
+*** uk-s-2013900-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: червоне світло
+- qualifier :: скорочення від 赤信号
+
+* Sense s-2013900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8344bc02103906322398cf2856d2dc9d5a83ef2555a513b0178a23e75f288ee6
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 赤字・1
+- 赤字・2
+** English glosses
+- red ink (i.e. in finance or proof-reading)
+- (in) the red
+** Ukrainian glosses
+*** uk-s-2013900-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: збиток
+- qualifier :: скорочення від 赤字; фінансовий дефіцит або червоне чорнило для виправлень
+
+* Sense s-2013900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0eec610f1d52dadf8a379c43737bbf7dbc274c51bb264502f065900a8de6fa44
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+*** Cross-references
+- 赤の他人
+** English glosses
+- complete
+- total
+- perfect
+- obvious
+** Ukrainian glosses
+*** uk-s-2013900-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: цілковитий
+- qualifier :: як у 赤の他人 — абсолютно чужа людина
+*** uk-s-2013900-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: явний
+
+* Sense s-2013900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 24757c3bcc13be16af91da9fadda7cae4a81df69282fb0ce01de7be7cc4c8a7b
+:END:
+** Applies to forms
+*** Written forms
+- wf-2013900-001
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 銅・あかがね・1
+** English glosses
+- copper
+** Ukrainian glosses
+*** uk-s-2013900-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: мідь
+- qualifier :: скорочення від 銅 (あかがね)
+
+* Sense s-2013900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8b2fe6a5d636e756d5cb22b902167906fc505a3b5610c9e3e23f3fce1427463c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- hanaf
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- あかたん
+** English glosses
+- red 5-point card
+** Ukrainian glosses
+*** uk-s-2013900-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-4
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: червона п'ятибальна карта
+- qualifier :: карта з червоною паперовою стрічкою у грі ханафуда

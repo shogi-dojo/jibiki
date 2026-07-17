@@ -1,0 +1,157 @@
+#+TITLE: 交番
+#+JMDICT_ID: 1272500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうばん
+#+ROMAJI: kouban
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1272500-001
+:PROPERTIES:
+:TEXT: 交番
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf18
+** Reading rd-1272500-001
+:PROPERTIES:
+:TEXT: こうばん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf18
+
+* Sense s-1272500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 46d209988a7b821e93d3726f2e9f313c2400de25b781d6025f24d212dd92290b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- police box
+- koban
+*** en-s-1272500-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: small neighborhood police station
+** Ukrainian glosses
+*** uk-s-1272500-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поліцейський пост
+*** uk-s-1272500-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кобан
+- qualifier :: невелика поліцейська дільниця
+** Russian reference
+- 11 :: 1) посменное дежурство
+- 11 :: 2) (см.) こうばんしょ
+** Learner notes
+*** note-s-1272500-001-001
+:PROPERTIES:
+:END:
+- UK :: Поліцейський пост (кобан).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1272500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 交番で道を聞きました。
+- READING :: こうばんでみちをききました。
+- UK :: Я запитав дорогу на поліцейському посту.
+- EN :: I asked for directions at the police box.
+- FOCUS :: 交番
+*** ex-1272500-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の前に交番があります。
+- READING :: えきのまえにこうばんがあります。
+- UK :: Перед станцією є поліцейський пост.
+- EN :: There is a police box in front of the station.
+- FOCUS :: 交番
+*** ex-1272500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 財布を落としたので、交番へ行きました。
+- READING :: さいふをおとしたので、こうばんへいきました。
+- UK :: Я загубив гаманець, тому пішов до поліцейського поста.
+- EN :: I lost my wallet, so I went to the police box.
+- FOCUS :: 交番
+
+* Sense s-1272500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e84bac13acec0b3267490734f0812287644ee8c09b2341761876b492bd88386e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- alternation
+** Ukrainian glosses
+*** uk-s-1272500-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чергування
+
+* Sense s-1272500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f7e99b72b67d54d98ac4bcf3aedfccc9bf03aa47f4e680626130cdf7583c68f3
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-f
+*** Fields
+- physics
+** English glosses
+- alternating (current, stress, etc.)
+** Ukrainian glosses
+*** uk-s-1272500-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: змінний
+- qualifier :: струм тощо

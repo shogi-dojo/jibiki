@@ -1,0 +1,283 @@
+#+TITLE: 足
+#+JMDICT_ID: 1404630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あし
+#+ROMAJI: ashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1404630-001
+:PROPERTIES:
+:TEXT: 足
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1404630-002
+:PROPERTIES:
+:TEXT: 脚
+:END:
+*** Priorities
+- news1
+- nf10
+** Written form wf-1404630-003
+:PROPERTIES:
+:TEXT: 肢
+:END:
+** Reading rd-1404630-001
+:PROPERTIES:
+:TEXT: あし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+- nf10
+
+* Sense s-1404630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3bbcc14c829acae77dbe33b5b6d15071c8f2dab8afc06a38c1a32e4e024a482b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 足
+** English glosses
+- foot
+- paw
+- arm (of an octopus, squid, etc.)
+** Ukrainian glosses
+*** uk-s-1404630-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: стопа
+*** uk-s-1404630-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: claude
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лапа
+- qualifier :: тварини
+*** uk-s-1404630-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: claude
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: щупальце
+- qualifier :: восьминога, кальмара
+** Russian reference
+- 64 :: 1) ноги; (перен.) шаг
+- 64 :: 2) ((тж.) 脚) лапа; ласта; щупальце
+- 64 :: 3) ножка (мебели); подножие (горы); основание (вертикали)
+- 64 :: 4) осадка (судна)
+- 64 :: 5) (прост.) проценты
+- 64 :: 6) клейкость (теста, риса)
+- 64 :: а) обнаружить нехватку (денег)
+- 64 :: б) проболтаться; выдать себя
+** Learner notes
+*** note-s-1404630-001-001
+:PROPERTIES:
+:END:
+- UK :: JMdict розрізняє 足 (стопа, лапа, щупальце — значення 1) і 脚/肢 (нога, вся нижня кінцівка — значення 2). У повсякденній мові 足 часто позначає всю ногу, тому в прикладах нижче 足 передано як «нога».
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1404630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 足が痛いです。
+- READING :: あしがいたいです。
+- UK :: У мене болять ноги.
+- EN :: My legs hurt.
+- FOCUS :: 足が
+*** ex-1404630-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼の足は速いです。
+- READING :: かれのあしははやいです。
+- UK :: Він швидко бігає (у нього швидкі ноги).
+- EN :: He runs fast (his legs are fast).
+- FOCUS :: 足は
+*** ex-1404630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 右の足を出してください。
+- READING :: みぎのあしをだしてください。
+- UK :: Будь ласка, виставте праву ногу.
+- EN :: Please put your right foot forward.
+- FOCUS :: 足を
+
+* Sense s-1404630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df62541baad33b0c6be85fc3c0fff753db45cbf076dc04617a36a9b94066ea73
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 脚, 肢
+** English glosses
+- leg
+** Ukrainian glosses
+*** uk-s-1404630-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: нога
+
+* Sense s-1404630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e0d3048aa847c29a64ee48a19a855c03203b3f0cb0d1bb831fa807b80f48d352
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- gait
+** Ukrainian glosses
+*** uk-s-1404630-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: крок
+*** uk-s-1404630-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хода
+
+* Sense s-1404630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5013ee4a94b399cf79301193554f04316d237191b92e1a37bde2a2920ae8b556
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pace
+** Ukrainian glosses
+*** uk-s-1404630-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: темп ходи
+- qualifier :: швидкість пересування
+
+* Sense s-1404630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f66c089393f7f4fb1a159f6528b8919cc72e5d8ae92fc05dd16dd6c53b20b8bb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- usu. 脚
+** English glosses
+- lower radical of a kanji
+** Ukrainian glosses
+*** uk-s-1404630-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: нижня частина
+- qualifier :: ієрогліфа
+
+* Sense s-1404630-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: de607e8f778f6794f85c62992f6adb4ca156105e949b8fa26d49dfad17e18dde
+:END:
+** Applies to forms
+*** Written forms
+- 足
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- means of transportation
+- (one's) ride
+** Ukrainian glosses
+*** uk-s-1404630-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: засіб пересування
+
+* Sense s-1404630-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3544ddd6649cba373d688a71b9ae329deabfb35ff4acd61eff2e290f05406842
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+*** Sense information
+- usu お〜
+*** Cross-references
+- お足
+** English glosses
+- money
+- coin
+** Ukrainian glosses
+*** uk-s-1404630-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гроші

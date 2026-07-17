@@ -1,0 +1,200 @@
+#+TITLE: 彼処
+#+JMDICT_ID: 1000320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あそこ
+#+ROMAJI: asoko
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-1000320-001
+:PROPERTIES:
+:TEXT: 彼処
+:END:
+*** Information
+- rK
+** Written form wf-1000320-002
+:PROPERTIES:
+:TEXT: 彼所
+:END:
+*** Information
+- rK
+** Reading rd-1000320-001
+:PROPERTIES:
+:TEXT: あそこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1000320-002
+:PROPERTIES:
+:TEXT: あすこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1000320-003
+:PROPERTIES:
+:TEXT: かしこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1000320-004
+:PROPERTIES:
+:TEXT: アソコ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1000320-005
+:PROPERTIES:
+:TEXT: あしこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+* Sense s-1000320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2329ffc1ac38e601148cd757a2fa0de10b12b37594f0e379b19d9d08868b96e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- place physically distant from both speaker and listener
+*** Cross-references
+- どこ・1
+- ここ・1
+- そこ・1
+** English glosses
+- there
+- over there
+- that place
+- yonder
+- you-know-where
+** Ukrainian glosses
+*** uk-s-1000320-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: там
+** Russian reference
+- 12 :: : {～に} (уст.) там
+** Learner notes
+*** note-s-1000320-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Вказівний займенник для позначення місця, віддаленого як від мовця, так і від співрозмовника.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1000320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あそこは病院です。
+- READING :: あそこはびょういんです。
+- UK :: Там знаходиться лікарня.
+- EN :: That place over there is a hospital.
+- FOCUS :: あそこは
+*** ex-1000320-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友達はあそこにいます。
+- READING :: ともだちはあそこにいます。
+- UK :: Мій друг знаходиться там.
+- EN :: My friend is over there.
+- FOCUS :: あそこに
+*** ex-1000320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あそこのレストランはとてもおいしいです。
+- READING :: あそこのレストランはとてもおいしいです。
+- UK :: У тому ресторані дуже смачно.
+- EN :: That restaurant over there is very delicious.
+- FOCUS :: あそこの
+
+* Sense s-1000320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 47918c00a89d881ee36735dd2f0c0662c75c492aed2c4d6d04c978dcdbc4ee83
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- あそこ
+- あすこ
+- アソコ
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+- uk
+- euph
+** English glosses
+- genitals
+- private parts
+- nether regions
+** Ukrainian glosses
+*** uk-s-1000320-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: статеві органи
+
+* Sense s-1000320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0f5ed6fa3cacbc1b85bf83f19b2e2c27b53566ad0ea1e0b1933a6268d91f2e20
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Sense information
+- something psychologically distant from both speaker and listener
+*** Cross-references
+- あれほど
+** English glosses
+- that far
+- that much
+- that point
+** Ukrainian glosses
+*** uk-s-1000320-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: так далеко

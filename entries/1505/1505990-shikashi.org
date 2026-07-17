@@ -1,0 +1,125 @@
+#+TITLE: 然し
+#+JMDICT_ID: 1505990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しかし
+#+ROMAJI: shikashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1505990-001
+:PROPERTIES:
+:TEXT: 然し
+:END:
+*** Information
+- rK
+** Written form wf-1505990-002
+:PROPERTIES:
+:TEXT: 併し
+:END:
+*** Information
+- rK
+** Reading rd-1505990-001
+:PROPERTIES:
+:TEXT: しかし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1505990-002
+:PROPERTIES:
+:TEXT: しっかし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+* Sense s-1505990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9ebc98b5fe2a2d4880d76c3f8698d0ceda72d8105ac8ee94d8be163d70b97ae5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- conj
+*** Miscellaneous and register
+- uk
+** English glosses
+- however
+- but
+** Ukrainian glosses
+*** uk-s-1505990-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: однак
+*** uk-s-1505990-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: проте
+*** uk-s-1505990-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: але
+** Russian reference
+- 8 :: однако
+- 8 :: но
+** Learner notes
+*** note-s-1505990-001-001
+:PROPERTIES:
+:END:
+- UK :: Однак, проте, але. Часто пишеться хіраганою (しかし).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1505990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は勉強しました。しかし、テストに合格しませんでした。
+- READING :: かれはべんきょうしました。しかし、てすとにごうかくしませんでした。
+- UK :: Він вчився. Однак, тест він не склав.
+- EN :: He studied. However, he didn't pass the test.
+- FOCUS :: しかし
+*** ex-1505990-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 天気は悪いです。しかし、出かけます。
+- READING :: てんきはわるいです。しかし、でかけます。
+- UK :: Погода погана. Але я все одно вийду з дому.
+- EN :: The weather is bad. But I will go out.
+- FOCUS :: しかし
+*** ex-1505990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本語は難しいです。しかし、面白いです。
+- READING :: にほんごはむずかしいです。しかし、おもしろいです。
+- UK :: Японська мова складна. Проте вона цікава.
+- EN :: Japanese is difficult. However, it's interesting.
+- FOCUS :: しかし

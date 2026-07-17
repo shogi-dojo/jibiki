@@ -1,0 +1,179 @@
+#+TITLE: 歌
+#+JMDICT_ID: 1193180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うた
+#+ROMAJI: uta
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1193180-001
+:PROPERTIES:
+:TEXT: 歌
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Written form wf-1193180-002
+:PROPERTIES:
+:TEXT: 唄
+:END:
+*** Priorities
+- news1
+- nf16
+** Written form wf-1193180-003
+:PROPERTIES:
+:TEXT: 詩
+:END:
+** Reading rd-1193180-001
+:PROPERTIES:
+:TEXT: うた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+- nf16
+
+* Sense s-1193180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b343e987ee64127edb0d4163d602925e0535d2d5f598014a2e62086c40ffe3aa
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 歌
+- 唄
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 唄 for folk songs and shamisen songs
+** English glosses
+- song
+- singing
+** Ukrainian glosses
+*** uk-s-1193180-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пісня
+*** uk-s-1193180-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спів
+** Russian reference
+- 12 :: песня, песенка
+- 12 :: стихотворение (в форме танка или нагаута)
+** Learner notes
+*** note-s-1193180-001-001
+:PROPERTIES:
+:END:
+- UK :: Пісня.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1193180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本の歌が好きです。
+- READING :: にほんのうたがすきです。
+- UK :: Мені подобаються японські пісні.
+- EN :: I like Japanese songs.
+- FOCUS :: 歌が
+*** ex-1193180-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歌を歌いましょう。
+- READING :: うたをうたいましょう。
+- UK :: Давайте заспіваємо пісню.
+- EN :: Let's sing a song.
+- FOCUS :: 歌を
+*** ex-1193180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: カラオケで新しい歌を歌いました。
+- READING :: カラオケであたらしいうたをうたいました。
+- UK :: Я співав нову пісню в караоке.
+- EN :: I sang a new song at karaoke.
+- FOCUS :: 歌を
+
+* Sense s-1193180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ec13e13f5295e8e1e3fa337c84f26ad361a67850690e56b0b168a866048e2e06
+:END:
+** Applies to forms
+*** Written forms
+- 歌
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 短歌
+** English glosses
+- classical Japanese poem (esp. tanka)
+** Ukrainian glosses
+*** uk-s-1193180-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: класичний японський вірш
+- qualifier :: особливо танка
+
+* Sense s-1193180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c267ff4440ca76415fb09788d2ae0ab3e8dabe55bbdd876f34815ac00dc1dee7
+:END:
+** Applies to forms
+*** Written forms
+- 歌
+- 詩
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- modern poetry
+** Ukrainian glosses
+*** uk-s-1193180-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сучасна поезія

@@ -1,0 +1,222 @@
+#+TITLE: 会う
+#+JMDICT_ID: 1198180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あう
+#+ROMAJI: au
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: codex-agent-1
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1198180-001
+:PROPERTIES:
+:TEXT: 会う
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf26
+** Written form wf-1198180-002
+:PROPERTIES:
+:TEXT: 逢う
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1198180-003
+:PROPERTIES:
+:TEXT: 遭う
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf34
+** Written form wf-1198180-004
+:PROPERTIES:
+:TEXT: 遇う
+:END:
+*** Information
+- rK
+** Reading rd-1198180-001
+:PROPERTIES:
+:TEXT: あう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf26
+- nf34
+
+* Sense s-1198180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1915238981599cbac47c431abeca8d588cadf80713900edd9d1a6bed89aa1786
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+*** Sense information
+- 逢う is often used for close friends, etc. and may be associated with drama or pathos; 遭う may have an undesirable nuance
+** English glosses
+- to meet
+- to encounter
+- to see
+** Ukrainian glosses
+*** uk-s-1198180-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-1
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зустрічатися
+- qualifier :: з кимось (частка に)
+*** uk-s-1198180-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-1
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бачитися
+- qualifier :: з кимось (частка に)
+** Russian reference
+- 17 :: встречать
+- 17 :: встречаться
+- 17 :: видеться
+- 17 :: 1) (に) [по]встречаться (с кем-л.); видеться (с кем-л.)
+- 17 :: [居ないといって]人に会わない не принять (кого-л.) [сказавшись отсутствующим]
+** Learner notes
+*** note-s-1198180-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово 会う (зустрічатися) є неперехідним і керує відмінком з часткою に для позначення особи, з якою зустрічаються (наприклад, 友達に会う — зустрітися з другом). Для спільної взаємної дії також може вживатися частка と (友達と会う — зустрічатися з другом). Для розрізнення відтінків значення на письмі вживають різні кандзі: 会う — нейтральний варіант для зустрічі з людьми; 遭う — для неприємних чи небажаних подій (наприклад, 事故に遭う — потрапити в аварію); 逢う — для доленосних чи емоційно важливих зустрічей; 遇う — для випадкових зустрічей.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1198180-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨日、駅で友達に会いました。
+- READING :: きのう、えきでともだちにあいました。
+- ROMAJI :: Kinou, eki de tomodachi ni aimashita.
+- UK :: Учора я зустрівся з другом на станції.
+- EN :: Yesterday, I met a friend at the station.
+- FOCUS :: 友達に会いました
+*** ex-1198180-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明日、公園で友達と会います。
+- READING :: あした、こうえんでともだちとあいます。
+- ROMAJI :: Ashita, kouen de tomodachi to aimasu.
+- UK :: Завтра я зустрінуся з другом у парку.
+- EN :: Tomorrow I will meet my friend at the park.
+- FOCUS :: 友達と会います
+*** ex-1198180-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 先生に会うために、学校へ行きました。
+- READING :: せんせいにあうために、がっこうへいきました。
+- ROMAJI :: Sensei ni au tame ni, gakkou e ikimashita.
+- UK :: Я пішов до школи, щоб зустрітися з учителем.
+- EN :: I went to school to meet my teacher.
+- FOCUS :: 会うために
+* Sense s-1198180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5fcfbdc6f76bcb82fbca51f10e95774e17e2f7edba1fe755b7cd276691e885a5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+*** Miscellaneous and register
+- uk
+*** Sense information
+- esp. 遭う when in kanji
+** English glosses
+- to have an accident
+- to have a bad experience
+** Ukrainian glosses
+*** uk-s-1198180-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-1
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: потрапляти
+- qualifier :: в аварію, халепу тощо (частка に)
+*** uk-s-1198180-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex-agent-1
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зазнавати
+- qualifier :: лиха, труднощів тощо (частка に)
+** Russian reference
+- 17 :: 2) ((тж.) 遭う) встретить (что-л.); перенести, испытать (что-л.)
+** Examples
+*** ex-1198180-002-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の途中で雨に遭いました。
+- READING :: りょこうのとちゅうであめにあいました。
+- ROMAJI :: Ryokou no tochuu de ame ni aimashita.
+- UK :: Під час подорожі я потрапив під дощ.
+- EN :: I got caught in the rain during the trip.
+- FOCUS :: 雨に遭いました
+*** ex-1198180-002-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨日、事故に遭いました。
+- READING :: きのう、じこにあいました。
+- ROMAJI :: Kinou, jiko ni aimashita.
+- UK :: Учора я потрапив в аварію.
+- EN :: I had an accident yesterday.
+- FOCUS :: 事故に遭いました
+*** ex-1198180-002-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 旅行でひどい目に遭いましたが、今はいい思い出です。
+- READING :: りょこうでひどいめにあいましたが、いまはいいおもいでです。
+- ROMAJI :: Ryokou de hidoi me ni aimashita ga, ima wa ii omoide desu.
+- UK :: Під час подорожі я потрапив у халепу, але тепер це хороший спогад.
+- EN :: I had a terrible experience on the trip, but now it is a good memory.
+- FOCUS :: 目に遭いました

@@ -1,0 +1,160 @@
+#+TITLE: お茶
+#+JMDICT_ID: 1002430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おちゃ
+#+ROMAJI: ocha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1002430-001
+:PROPERTIES:
+:TEXT: お茶
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Written form wf-1002430-002
+:PROPERTIES:
+:TEXT: 御茶
+:END:
+*** Information
+- sK
+** Reading rd-1002430-001
+:PROPERTIES:
+:TEXT: おちゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1002430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3651ba4d2dc6670162cc6f32a709edfbcbfd601e550e64e823a1e7feea2597ad
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- pol
+*** Cross-references
+- 茶・1
+** English glosses
+- tea (esp. green or barley)
+** Ukrainian glosses
+*** uk-s-1002430-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чай
+- qualifier :: ввічливо; особливо зелений або ячмінний
+** Russian reference
+- 12 :: (разг.) чай
+- 12 :: (ср.) おちゃのこ
+** Learner notes
+*** note-s-1002430-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальна назва для чаю, найчастіше зеленого. Слово утворене від 茶 з додаванням ввічливого префікса お.
+- LEVEL :: beginner
+- REGISTER :: polite
+** Examples
+*** ex-1002430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お茶を飲みますか。
+- READING :: おちゃをのみますか。
+- UK :: Будете пити чай?
+- EN :: Will you drink tea?
+- FOCUS :: お茶を
+*** ex-1002430-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 温かいお茶をください。
+- READING :: あたたかいおちゃをください。
+- UK :: Дайте, будь ласка, гарячого чаю.
+- EN :: Please give me some hot tea.
+- FOCUS :: お茶を
+*** ex-1002430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎日、朝ごはんの時にお茶を飲みます。
+- READING :: まいにち、あさごはんのときにおちゃをのみます。
+- UK :: Я щодня п'ю чай під час сніданку.
+- EN :: I drink tea during breakfast every day.
+- FOCUS :: お茶を
+
+* Sense s-1002430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 36fd1c3b5cda363fbf748587b60c7142d7523ebff95a1b25b0669416d75e3d99
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- tea break
+- teatime
+** Ukrainian glosses
+*** uk-s-1002430-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чаювання
+*** uk-s-1002430-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перерва на чай
+
+* Sense s-1002430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d35ad19034f8ba1e87d706f700cbd1121856e95a79b75d8c75ed55044d4e4798
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 茶の湯
+** English glosses
+- tea ceremony
+** Ukrainian glosses
+*** uk-s-1002430-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чайна церемонія

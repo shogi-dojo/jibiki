@@ -1,0 +1,147 @@
+#+TITLE: 川
+#+JMDICT_ID: 1390020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわ
+#+ROMAJI: kawa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1390020-001
+:PROPERTIES:
+:TEXT: 川
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Written form wf-1390020-002
+:PROPERTIES:
+:TEXT: 河
+:END:
+*** Priorities
+- news1
+- nf10
+** Reading rd-1390020-001
+:PROPERTIES:
+:TEXT: かわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+- nf10
+** Reading rd-1390020-002
+:PROPERTIES:
+:TEXT: がわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+* Sense s-1390020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5512d1df188b0aa80a24153e47d25c4d3e305b11029a5d74220fc4d2da5933eb
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- かわ
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- river
+- stream
+** Ukrainian glosses
+*** uk-s-1390020-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: річка
+*** uk-s-1390020-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: потік
+** Russian reference
+- 7 :: река
+** Learner notes
+*** note-s-1390020-001-001
+:PROPERTIES:
+:END:
+- UK :: Річка.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1390020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この川はきれいです。
+- READING :: このかわはきれいです。
+- UK :: Ця річка чиста.
+- EN :: This river is clean.
+- FOCUS :: 川
+*** ex-1390020-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川で泳ぎます。
+- READING :: かわでおよぎます。
+- UK :: Я плаваю в річці.
+- EN :: I swim in the river.
+- FOCUS :: 川で
+*** ex-1390020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大きな川を渡りました。
+- READING :: おおきなかわをわたりました。
+- UK :: Я перейшов (переїхав) велику річку.
+- EN :: I crossed a large river.
+- FOCUS :: 川を
+
+* Sense s-1390020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 66d9caf58e74903cdfd649ca3ab4d845c11d5900fb1e0a06de5353eb4f0bbd57
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+*** Sense information
+- suffix used with the names of rivers
+** English glosses
+- River
+- the ... river
+** Ukrainian glosses
+*** uk-s-1390020-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ріка
+- qualifier :: суфікс у назвах річок

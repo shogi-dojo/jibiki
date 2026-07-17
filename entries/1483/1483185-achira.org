@@ -1,0 +1,198 @@
+#+TITLE: 彼方
+#+JMDICT_ID: 1483185
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あちら
+#+ROMAJI: achira
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-1483185-001
+:PROPERTIES:
+:TEXT: 彼方
+:END:
+*** Information
+- rK
+** Reading rd-1483185-001
+:PROPERTIES:
+:TEXT: あちら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf28
+** Reading rd-1483185-002
+:PROPERTIES:
+:TEXT: あっち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1483185-003
+:PROPERTIES:
+:TEXT: あち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+* Sense s-1483185-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4390555f554cf5485ea057ea42cafb59eaa2b7768b326aa564a903c79e2e63f5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- direction distant from both speaker and listener
+*** Cross-references
+- こちら・1
+- そちら・1
+- どちら・1
+** English glosses
+- that way
+- that direction
+- over there
+- yonder
+** Ukrainian glosses
+*** uk-s-1483185-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: там
+** Russian reference
+- 18 :: там (место удалённое от всех участников беседы)
+** Learner notes
+*** note-s-1483185-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Там, у тому напрямку. Ввічливіший варіант слова あっち.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1483185-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: トイレはあちらです。
+- READING :: トイレはあちらです。
+- UK :: Туалет там.
+- EN :: The toilet is over there.
+- FOCUS :: あちら
+*** ex-1483185-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あちらを見てください。
+- READING :: あちらをみてください。
+- UK :: Будь ласка, подивіться туди.
+- EN :: Please look over there.
+- FOCUS :: あちら
+*** ex-1483185-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あちらのお客様からです。
+- READING :: あちらのおきゃくさまからです。
+- UK :: Це від он того клієнта.
+- EN :: It's from that customer over there.
+- FOCUS :: あちら
+
+* Sense s-1483185-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2c7c8d1fcc8adaa058408e99a139d421992537ce6ca056091aee4e539c1a59b1
+:END:
+** JMdict metadata
+*** Parts of speech
+- pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- something physically distant from both speaker and listener, or something not visible but known by both speaker and listener
+** English glosses
+- that (one)
+** Ukrainian glosses
+*** uk-s-1483185-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: те
+- qualifier :: чи інше
+
+* Sense s-1483185-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 61023e985f05d4c2e2323d05cc1d4ab7249225c29fb02e6d75c7b7e3aca0a575
+:END:
+** JMdict metadata
+*** Parts of speech
+- pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- someone physically distant from both speaker and listener, or someone not present but known by both speaker and listener. あちら is polite
+** English glosses
+- that person
+** Ukrainian glosses
+*** uk-s-1483185-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: та людина
+
+* Sense s-1483185-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cbe26430bdeaf18ea83b5b0dc6a7521849bf8cfee2e92041cd11ec67095fb347
+:END:
+** JMdict metadata
+*** Parts of speech
+- pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- place distant from both speaker and listener
+** English glosses
+- there
+- over there
+- foreign country (esp. a Western nation)
+** Ukrainian glosses
+*** uk-s-1483185-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: там
+- qualifier :: у чужих краях

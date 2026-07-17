@@ -1,0 +1,113 @@
+#+TITLE: 階段
+#+JMDICT_ID: 1203090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいだん
+#+ROMAJI: kaidan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1203090-001
+:PROPERTIES:
+:TEXT: 階段
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Reading rd-1203090-001
+:PROPERTIES:
+:TEXT: かいだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+
+* Sense s-1203090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f16f782b21411473e43a217fa18af3d7e502f5a177e0a25af92b290eb8a766e7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stairs
+- stairway
+- staircase
+** Ukrainian glosses
+*** uk-s-1203090-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сходи
+*** uk-s-1203090-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: драбина
+*** uk-s-1203090-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сходовий марш
+** Russian reference
+- 7 :: лестница; лестничный марш; уступ (в открытых разработках)
+** Learner notes
+*** note-s-1203090-001-001
+:PROPERTIES:
+:END:
+- UK :: Сходи.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1203090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 階段を上がります。
+- READING :: かいだんをあがります。
+- UK :: Я піднімаюся сходами.
+- EN :: I go up the stairs.
+- FOCUS :: 階段を
+*** ex-1203090-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 階段を下ります。
+- READING :: かいだんをおります。
+- UK :: Я спускаюся сходами.
+- EN :: I go down the stairs.
+- FOCUS :: 階段を
+*** ex-1203090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: エレベーターが壊れているので、階段を使います。
+- READING :: エレベーターがこわれているので、かいだんをつかいます。
+- UK :: Оскільки ліфт не працює, я скористаюся сходами.
+- EN :: Since the elevator is broken, I will use the stairs.
+- FOCUS :: 階段を

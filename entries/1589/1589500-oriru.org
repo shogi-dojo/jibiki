@@ -1,0 +1,290 @@
+#+TITLE: 下りる
+#+JMDICT_ID: 1589500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おりる
+#+ROMAJI: oriru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1589500-001
+:PROPERTIES:
+:TEXT: 降りる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Written form wf-1589500-002
+:PROPERTIES:
+:TEXT: 下りる
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1589500-001
+:PROPERTIES:
+:TEXT: おりる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1589500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 50d6ddc6b936f240671e54948564f3e2410b195e714f355dbf48796b44e91968
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Sense information
+- esp. 下りる
+** English glosses
+- to descend (e.g. a mountain)
+- to go down
+- to come down
+** Ukrainian glosses
+*** uk-s-1589500-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спускатися
+- qualifier :: напр. з гори
+*** uk-s-1589500-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сходити вниз
+** Russian reference
+- 27 :: спускаться
+- 27 :: сходить
+- 27 :: выходить (из транспорта)
+- 27 :: 1) спускаться, сходить [вниз]
+- 27 :: 2) ((тж.) 降りる) сходить, выходить, высаживаться (из поезда, трамвая и т. п.)
+- 27 :: 3) садиться (о птицах, насекомых)
+- 27 :: 4) выкинуть, сделать выкидыш
+** Learner notes
+*** note-s-1589500-001-001
+:PROPERTIES:
+:END:
+- UK :: Спускатися, сходити вниз. Використовується для руху з вищого місця на нижче (сходити з гори, спускатися сходами). Якщо йдеться про вихід з транспорту, зазвичай записується як 降りる.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1589500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 階段を下りる。
+- READING :: かいだんをおりる。
+- UK :: Спускатися сходами.
+- EN :: Go down the stairs.
+- FOCUS :: 下りる
+*** ex-1589500-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: エレベーターで一階に下ります。
+- READING :: えれべーたーでいっかいにおります。
+- UK :: Я спущуся на перший поверх ліфтом.
+- EN :: I will go down to the first floor by elevator.
+- FOCUS :: 下ります
+*** ex-1589500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山を下りるのは大変でした。
+- READING :: やまをおりるのはたいへんでした。
+- UK :: Спускатися з гори було важко.
+- EN :: It was hard going down the mountain.
+- FOCUS :: 下りる
+
+* Sense s-1589500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 429947263036e38e49f85266172d12388d144923538a15afb7bdfccbc24c772d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Sense information
+- esp. 降りる
+** English glosses
+- to alight (e.g. from bus)
+- to get off
+- to disembark
+- to dismount
+** Ukrainian glosses
+*** uk-s-1589500-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виходити
+- qualifier :: з транспорту
+*** uk-s-1589500-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: висаджуватися
+*** uk-s-1589500-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: злазити
+
+* Sense s-1589500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 995f5ad0e687ffd44018cc5183d8854364a277b8286f7b94a62786c551ff3088
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to step down
+- to retire
+- to give up
+- to quit
+- to fold
+** Ukrainian glosses
+*** uk-s-1589500-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відходити
+- qualifier :: від справи
+*** uk-s-1589500-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: іти у відставку
+*** uk-s-1589500-003-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відмовлятися
+
+* Sense s-1589500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7c57cb78da0e26b6e7dc46e0a7fe54af316931d44ef68927fbf5cc571a2c148f
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Sense information
+- esp. 下りる
+** English glosses
+- to be granted
+- to be issued
+- to be given
+** Ukrainian glosses
+*** uk-s-1589500-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: надаватися
+*** uk-s-1589500-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: видаватися
+- qualifier :: про дозвіл, ліцензію тощо
+
+* Sense s-1589500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e4d6c3e062cc0d1afd87d421fad8baa1ae127839bcbbc549363afeecf6df6c7b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Sense information
+- esp. 降りる
+** English glosses
+- to form (of frost, dew, mist, etc.)
+** Ukrainian glosses
+*** uk-s-1589500-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: випадати
+- qualifier :: про іній, росу, туман тощо
+
+* Sense s-1589500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 24c3825f140498cc2ac4463ad4affe8e85c4a8e00524e54fd84d0be13f693959
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Sense information
+- esp. 下りる
+*** Cross-references
+- 下り物
+** English glosses
+- to be passed (from the body; e.g. of a roundworm)
+** Ukrainian glosses
+*** uk-s-1589500-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виходити
+- qualifier :: з організму, напр. про глистів

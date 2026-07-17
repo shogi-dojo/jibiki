@@ -1,0 +1,180 @@
+#+TITLE: 貸す
+#+JMDICT_ID: 1411160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かす
+#+ROMAJI: kasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1411160-001
+:PROPERTIES:
+:TEXT: 貸す
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf31
+** Written form wf-1411160-002
+:PROPERTIES:
+:TEXT: 藉す
+:END:
+*** Information
+- rK
+** Reading rd-1411160-001
+:PROPERTIES:
+:TEXT: かす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf31
+
+* Sense s-1411160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d53df878e9ecc25137171b3ecfeaf23a5e37e451e3b3d5eddffb85a7c8694dac
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to lend
+- to loan
+** Ukrainian glosses
+*** uk-s-1411160-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: позичати
+- qualifier :: комусь
+*** uk-s-1411160-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: давати в борг
+** Russian reference
+- 12 :: ((редко) 藉す)
+- 12 :: 1) давать в долг (взаймы), одалживать
+- 12 :: [その金を]もう少し貸しといてくれたまえ можно я ещё немного задержу эти (ваши) деньги?
+- 12 :: 2) сдавать внаём; давать напрокат; отдавать в аренду
+- 12 :: 3) предоставлять во временное пользование
+** Learner notes
+*** note-s-1411160-001-001
+:PROPERTIES:
+:END:
+- UK :: Давати в борг, позичати (комусь).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1411160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ペンを貸してください。
+- READING :: ペンをかしてください。
+- UK :: Будь ласка, позичте мені ручку.
+- EN :: Please lend me a pen.
+- FOCUS :: 貸して
+*** ex-1411160-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友達に本を貸しました。
+- READING :: ともだちにほんをかしました。
+- UK :: Я позичив книгу другові.
+- EN :: I lent a book to my friend.
+- FOCUS :: 貸しました
+*** ex-1411160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: お金を貸すことはできません。
+- READING :: おかねをかすことはできません。
+- UK :: Я не можу позичити тобі грошей.
+- EN :: I cannot lend you money.
+- FOCUS :: 貸す
+
+* Sense s-1411160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 51d67a20ab51689a7b1174808551f4f9c1c1525ba22d791ac80d9fa9e30d0357
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to rent out
+- to hire out
+** Ukrainian glosses
+*** uk-s-1411160-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: здавати в оренду
+*** uk-s-1411160-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: винаймати
+- qualifier :: комусь
+
+* Sense s-1411160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c57b484d9414ea605665f4ef3479828359758353003dcb2985785a52ce2bca6c
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Miscellaneous and register
+- col
+** English glosses
+- to hand (over)
+- to give
+** Ukrainian glosses
+*** uk-s-1411160-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: подавати
+- qualifier :: розмовне
+*** uk-s-1411160-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: давати

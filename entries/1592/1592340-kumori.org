@@ -1,0 +1,172 @@
+#+TITLE: 曇り
+#+JMDICT_ID: 1592340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くもり
+#+ROMAJI: kumori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1592340-001
+:PROPERTIES:
+:TEXT: 曇り
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Written form wf-1592340-002
+:PROPERTIES:
+:TEXT: 曇
+:END:
+** Reading rd-1592340-001
+:PROPERTIES:
+:TEXT: くもり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf20
+
+* Sense s-1592340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a45862f5e44e062763cc8fe36315e85551fff582c01529a3eddbcbbdd870e528
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cloudiness
+- cloudy weather
+** Ukrainian glosses
+*** uk-s-1592340-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хмарність
+*** uk-s-1592340-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похмура погода
+** Russian reference
+- 16 :: 1) облачность, небо в облаках; пасмурная (облачная) погода; пасмурность
+- 16 :: 2) тень; помутнение; потускнение; тусклость; (фото) вуаль; (обр.) а) уныние; б) подозрение; в) пятно (на репутации и т. п.)
+** Learner notes
+*** note-s-1592340-001-001
+:PROPERTIES:
+:END:
+- UK :: Хмарна погода, хмарність.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1592340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明日は曇りです。
+- READING :: あしたはくもりです。
+- UK :: Завтра буде хмарно.
+- EN :: It will be cloudy tomorrow.
+- FOCUS :: 曇り
+*** ex-1592340-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日の天気は曇りです。
+- READING :: きょうのてんきはくもりです。
+- UK :: Сьогоднішня погода похмура.
+- EN :: Today's weather is cloudy.
+- FOCUS :: 曇り
+*** ex-1592340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 曇りの日は涼しいです。
+- READING :: くもりのひはすずしいです。
+- UK :: У похмурі дні прохолодно.
+- EN :: It is cool on cloudy days.
+- FOCUS :: 曇り
+
+* Sense s-1592340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dc180208e39e3b008ec5ed2de8e6200ecc7016516861cf214419819d31f9d425
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fog (on a mirror, glasses, etc.)
+- cloud (e.g. in marble)
+- blur
+- mist
+- shadow
+- dimness
+** Ukrainian glosses
+*** uk-s-1592340-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запотівання
+- qualifier :: на склі
+*** uk-s-1592340-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: помутніння
+
+* Sense s-1592340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 07b5389b79bbbe88a8abcea8ebd4b0f5c51291c049bfff126218e613f7c563ec
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- gloom
+- dejection
+** Ukrainian glosses
+*** uk-s-1592340-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: смуток
+*** uk-s-1592340-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похмурість

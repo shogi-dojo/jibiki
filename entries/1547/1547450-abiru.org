@@ -1,0 +1,173 @@
+#+TITLE: 浴びる
+#+JMDICT_ID: 1547450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あびる
+#+ROMAJI: abiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1547450-001
+:PROPERTIES:
+:TEXT: 浴びる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1547450-001
+:PROPERTIES:
+:TEXT: あびる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf09
+
+* Sense s-1547450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 81b2d5e656046f4bc68b4770a6c0c2a1ad9be07a500e20223ff436a8dba5bc53
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to dash over oneself (e.g. water)
+- to take (e.g. shower)
+- to bask in (e.g. the sun)
+- to bathe in
+- to be flooded with (e.g. light)
+- to be covered in
+** Ukrainian glosses
+*** uk-s-1547450-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обливатися
+- qualifier :: водою
+*** uk-s-1547450-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приймати
+- qualifier :: душ
+*** uk-s-1547450-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: грітися
+- qualifier :: на сонці
+*** uk-s-1547450-001-004
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: купатися
+- qualifier :: в променях
+** Russian reference
+- 13 :: 1) обливаться (чем-л.)
+- 13 :: 2) быть облитым (залитым); (прям. и перен.) быть осыпанным
+** Learner notes
+*** note-s-1547450-001-001
+:PROPERTIES:
+:END:
+- UK :: Обливатися, приймати (душ), купатися (у променях). Найчастіше вживається у виразі シャワーを浴びる (приймати душ).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1547450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: シャワーを浴びます。
+- READING :: シャワーをあびます。
+- UK :: Я приймаю душ.
+- EN :: I take a shower.
+- FOCUS :: 浴びます
+*** ex-1547450-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎朝シャワーを浴びる。
+- READING :: まいあさシャワーをあびる。
+- UK :: Я приймаю душ щоранку.
+- EN :: I take a shower every morning.
+- FOCUS :: 浴びる
+*** ex-1547450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: シャワーを浴びてから寝ます。
+- READING :: シャワーをあびてからねます。
+- UK :: Я прийму душ, а потім ляжу спати.
+- EN :: I'll take a shower before going to bed.
+- FOCUS :: 浴びて
+
+* Sense s-1547450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bb60fbce066ffcc8ee4a58f452ea1d41ae3b6bee1f91e98e82076d9f888107bf
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to suffer (e.g. an attack)
+- to draw (e.g. criticism, attention, praise)
+- to have heaped upon
+- to be showered with
+** Ukrainian glosses
+*** uk-s-1547450-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зазнавати
+- qualifier :: критики, нападу тощо
+*** uk-s-1547450-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: привертати
+- qualifier :: увагу
+*** uk-s-1547450-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: отримувати
+- qualifier :: похвалу тощо

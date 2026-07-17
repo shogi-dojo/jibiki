@@ -1,0 +1,109 @@
+#+TITLE: 彼の
+#+JMDICT_ID: 1000420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あの
+#+ROMAJI: ano
+#+ENTRY_STATUS: reviewed
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: reviewed
+
+* Forms
+** Written form wf-1000420-001
+:PROPERTIES:
+:TEXT: 彼の
+:END:
+*** Information
+- rK
+** Reading rd-1000420-001
+:PROPERTIES:
+:TEXT: あの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+** Reading rd-1000420-002
+:PROPERTIES:
+:TEXT: あん
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+* Sense s-1000420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0037e179848e0ab399159d4d867876655309e4f3ab6aacb1afb231ed8712ce46
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener
+*** Cross-references
+- どの
+- この・1
+- その・1
+** English glosses
+- that
+- those
+- the
+** Ukrainian glosses
+*** uk-s-1000420-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:END:
+- text :: той
+** Russian reference
+- 5 :: [вон] тот
+- 5 :: (ср.) {あのよう(～な)}, あののち, あのひと
+** Learner notes
+*** note-s-1000420-001-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- UK :: Вказівний займенник, який ставиться перед іменником, щоб вказати на предмет або людину, віддалену як від мовця, так і від співрозмовника.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1000420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あの人は誰ですか。
+- READING :: あのひとはだれですか。
+- UK :: Хто та людина?
+- EN :: Who is that person?
+- FOCUS :: あの
+*** ex-1000420-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あの犬は大きいです。
+- READING :: あのいぬはおおきいです。
+- UK :: Той собака великий.
+- EN :: That dog is big.
+- FOCUS :: あの
+*** ex-1000420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あの映画はとても面白かったです。
+- READING :: あのえいがはとてもおもしろかったです。
+- UK :: Той фільм був дуже цікавим.
+- EN :: That movie was very interesting.
+- FOCUS :: あの

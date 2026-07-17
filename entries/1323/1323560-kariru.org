@@ -1,0 +1,198 @@
+#+TITLE: 借りる
+#+JMDICT_ID: 1323560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりる
+#+ROMAJI: kariru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1323560-001
+:PROPERTIES:
+:TEXT: 借りる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Written form wf-1323560-002
+:PROPERTIES:
+:TEXT: 貸りる
+:END:
+*** Information
+- sK
+** Reading rd-1323560-001
+:PROPERTIES:
+:TEXT: かりる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1323560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 63b959b849a51e7c2d05be632d7e1816600146605261754b727c047aa7662107
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to borrow
+** Ukrainian glosses
+*** uk-s-1323560-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: позичати
+- qualifier :: у когось
+*** uk-s-1323560-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: брати в борг
+** Russian reference
+- 13 :: 1) занимать, брать взаймы (в долг) (деньги); брать в кредит (покупку)
+- 13 :: 2) брать напрокат; снимать, арендовать
+- 13 :: 3) [вос]пользоваться (чьей-л. вещью); [по]заимствовать
+** Learner notes
+*** note-s-1323560-001-001
+:PROPERTIES:
+:END:
+- UK :: Позичати, брати в борг (у когось). Наприклад, брати книгу в бібліотеці.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1323560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 図書館で本を借りました。
+- READING :: としょかんでほんをかりました。
+- UK :: Я позичив книгу в бібліотеці.
+- EN :: I borrowed a book from the library.
+- FOCUS :: 借りました
+*** ex-1323560-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ペンを借りてもいいですか。
+- READING :: ペンをかりてもいいですか。
+- UK :: Можна позичити вашу ручку?
+- EN :: May I borrow your pen?
+- FOCUS :: 借りても
+*** ex-1323560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 友達からお金を借りました。
+- READING :: ともだちからおかねをかりました。
+- UK :: Я позичив гроші у друга.
+- EN :: I borrowed money from a friend.
+- FOCUS :: 借りました
+
+* Sense s-1323560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6a94425667e227557d39d8a147245013d2ff0e1b374af964046475e645bece20
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to rent
+- to hire
+** Ukrainian glosses
+*** uk-s-1323560-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: орендувати
+*** uk-s-1323560-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: винаймати
+
+* Sense s-1323560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd6154fd286d211caa5bff37e43ace36e7d04eb24032137977f99e01815c3c19
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to make use of (another's help, wisdom, etc.)
+- to obtain
+- to receive
+** Ukrainian glosses
+*** uk-s-1323560-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: користуватися
+- qualifier :: чиєюсь допомогою, мудрістю тощо
+*** uk-s-1323560-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: отримувати
+
+* Sense s-1323560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eac6f8d03324422baeb8e562a7f90d6ff84a3f66c7f60a26898aa5f64943aecd
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to use (for another purpose)
+- to put to a different use
+** Ukrainian glosses
+*** uk-s-1323560-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: використовувати
+- qualifier :: для іншої мети

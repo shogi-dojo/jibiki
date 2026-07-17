@@ -1,0 +1,183 @@
+#+TITLE: 此の
+#+JMDICT_ID: 1582920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: この
+#+ROMAJI: kono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1582920-001
+:PROPERTIES:
+:TEXT: 此の
+:END:
+*** Information
+- rK
+** Written form wf-1582920-002
+:PROPERTIES:
+:TEXT: 斯の
+:END:
+*** Information
+- rK
+** Reading rd-1582920-001
+:PROPERTIES:
+:TEXT: この
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1582920-002
+:PROPERTIES:
+:TEXT: こん
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+* Sense s-1582920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4759068de4e87c614e1d65e0c7a377376ae74ad2d300dad02b5aa5e124df0747
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- something or someone close to the speaker (including the speaker), or ideas expressed by the speaker
+*** Cross-references
+- その・1
+- あの
+- どの
+** English glosses
+- this
+** Ukrainian glosses
+*** uk-s-1582920-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: цей
+*** uk-s-1582920-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ця
+*** uk-s-1582920-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: це
+** Russian reference
+- 9 :: (ономат.)
+- 9 :: 1) бац
+- 9 :: 2) (связ.:) 狐がこんと鳴く тявкает лиса
+- 9 :: этот
+** Learner notes
+*** note-s-1582920-001-001
+:PROPERTIES:
+:END:
+- UK :: Цей (вказівний займенник). Використовується перед іменником.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1582920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この本は面白いです。
+- READING :: このほんはおもしろいです。
+- UK :: Ця книга цікава.
+- EN :: This book is interesting.
+- FOCUS :: この
+*** ex-1582920-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このペンを使ってください。
+- READING :: このぺんをつかってください。
+- UK :: Будь ласка, скористайтеся цією ручкою.
+- EN :: Please use this pen.
+- FOCUS :: この
+*** ex-1582920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この靴は私には大きすぎます。
+- READING :: このくつはわたしにはおおきすぎます。
+- UK :: Ці черевики для мене завеликі.
+- EN :: These shoes are too big for me.
+- FOCUS :: この
+
+* Sense s-1582920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4192b088eb927adb77a3fb48149543ebc5e4dea101d2f73e5e704113e25f106e
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- in ref. to a stretch of time or date
+** English glosses
+- last (couple of years, etc.)
+- these
+- past
+- this
+** Ukrainian glosses
+*** uk-s-1582920-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ці останні
+- qualifier :: роки тощо
+
+* Sense s-1582920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b17b3d61b04d3b428acec6c247aa23396223cd2972dab5bb7bbe9bcb97752fd0
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-pn
+*** Miscellaneous and register
+- uk
+*** Sense information
+- emphatic, accusatory, insulting
+** English glosses
+- you (as in "you liar")
+** Ukrainian glosses
+*** uk-s-1582920-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ти
+- qualifier :: при образі

@@ -1,0 +1,140 @@
+#+TITLE: 会社
+#+JMDICT_ID: 1198550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいしゃ
+#+ROMAJI: kaisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1198550-001
+:PROPERTIES:
+:TEXT: 会社
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1198550-002
+:PROPERTIES:
+:TEXT: 會社
+:END:
+*** Information
+- sK
+** Reading rd-1198550-001
+:PROPERTIES:
+:TEXT: かいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1198550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7b5881e87698018fd88676dad4b0570adac7b00640753a72e2e34d5968a6ce76
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- company
+- corporation
+- firm
+** Ukrainian glosses
+*** uk-s-1198550-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: компанія
+*** uk-s-1198550-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: фірма
+*** uk-s-1198550-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: підприємство
+** Russian reference
+- 8 :: компания, общество, фирма
+** Learner notes
+*** note-s-1198550-001-001
+:PROPERTIES:
+:END:
+- UK :: Компанія, фірма.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1198550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会社に行きます。
+- READING :: かいしゃにいきます。
+- UK :: Я йду в компанію (на роботу).
+- EN :: I go to the company (work).
+- FOCUS :: 会社に
+*** ex-1198550-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私の会社は東京にあります。
+- READING :: わたしのかいしゃはとうきょうにあります。
+- UK :: Моя компанія знаходиться в Токіо.
+- EN :: My company is in Tokyo.
+- FOCUS :: 会社は
+*** ex-1198550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎日、電車で会社へ通っています。
+- READING :: まいにち、でんしゃでかいしゃへかよっています。
+- UK :: Щодня я їжджу на роботу поїздом.
+- EN :: Every day, I commute to the company by train.
+- FOCUS :: 会社へ
+
+* Sense s-1198550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a1e6a06235c4be0f6c2881b9a99b7e7d39ecac9c5ffa1a62635f5a638a3994b2
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's workplace
+** Ukrainian glosses
+*** uk-s-1198550-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робота
+- qualifier :: місце роботи

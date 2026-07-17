@@ -1,0 +1,148 @@
+#+TITLE: 時間
+#+JMDICT_ID: 1315920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じかん
+#+ROMAJI: jikan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1315920-001
+:PROPERTIES:
+:TEXT: 時間
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1315920-001
+:PROPERTIES:
+:TEXT: じかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1315920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5d4160768e91ed270d9f2c1e47f50d01dcf736504d91098c9b9a79bca02528dd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- time
+** Ukrainian glosses
+*** uk-s-1315920-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: час
+** Russian reference
+- 14 :: 1) час
+- 14 :: 2) урок (в учебном заведении)
+- 14 :: 3) часы, [определённое] время
+- 14 :: [時計の]時間を合わせる сверять часы
+** Learner notes
+*** note-s-1315920-001-001
+:PROPERTIES:
+:END:
+- UK :: Час, година.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1315920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今、時間がありません。
+- READING :: いま、じかんがありません。
+- UK :: Зараз у мене немає часу.
+- EN :: I have no time now.
+- FOCUS :: 時間
+*** ex-1315920-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 約束の時間に遅れました。
+- READING :: やくそくのじかんにおくれました。
+- UK :: Я спізнився на призначений час.
+- EN :: I was late for the appointment time.
+- FOCUS :: 時間
+*** ex-1315920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 東京まで何時間かかりますか。
+- READING :: とうきょうまでなんじかんかかりますか。
+- UK :: Скільки годин займає дорога до Токіо?
+- EN :: How many hours does it take to Tokyo?
+- FOCUS :: 時間
+
+* Sense s-1315920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6d201b68daf03ee4d7e12a93cd8ee0266f7d79a56bf2ea94881885a3c47a97d5
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- hour
+** Ukrainian glosses
+*** uk-s-1315920-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: година
+
+* Sense s-1315920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dc6cf21f01d872d00eff49f36d0a72b53944bbf315f73726a10147200f654dc6
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- period
+- class
+- lesson
+** Ukrainian glosses
+*** uk-s-1315920-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: урок
+*** uk-s-1315920-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: заняття

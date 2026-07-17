@@ -1,0 +1,110 @@
+#+TITLE: 学生
+#+JMDICT_ID: 1206900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がくせい
+#+ROMAJI: gakusei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1206900-001
+:PROPERTIES:
+:TEXT: 学生
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1206900-002
+:PROPERTIES:
+:TEXT: 學生
+:END:
+*** Information
+- sK
+** Reading rd-1206900-001
+:PROPERTIES:
+:TEXT: がくせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1206900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 886d7e10135b8b30fe7e4bc65e7b5d93b6e533caadede9bc51e723962e3f78f1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- student (esp. a university student)
+** Ukrainian glosses
+*** uk-s-1206900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: студент
+- qualifier :: особливо університету
+*** uk-s-1206900-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: учень
+** Russian reference
+- 7 :: учащийся, студент; слушатель (курсов и т. п.)
+** Learner notes
+*** note-s-1206900-001-001
+:PROPERTIES:
+:END:
+- UK :: Студент, учень.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1206900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私は学生です。
+- READING :: わたしはがくせいです。
+- UK :: Я студент.
+- EN :: I am a student.
+- FOCUS :: 学生です
+*** ex-1206900-001-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 学生がたくさんいます。
+- READING :: がくせいがたくさんいます。
+- UK :: Тут багато студентів.
+- EN :: There are many students.
+- FOCUS :: 学生が
+*** ex-1206900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 学生時代はとても楽しかったです。
+- READING :: がくせいじだいはとてもたのしかったです。
+- UK :: Студентські роки були дуже веселими.
+- EN :: My student days were very fun.
+- FOCUS :: 学生
