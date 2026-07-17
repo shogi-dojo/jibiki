@@ -182,7 +182,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Шанобливе звертання до батька співрозмовника або третьої особи. Також використовується для звертання до власного батька.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -196,11 +196,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お父さんはお元気ですか。
+- READING :: おとうさんはおげんきですか。
+- UK :: Як здоров'я вашого батька?
+- EN :: How is your father doing?
+- FOCUS :: お父さんは
+*** ex-1002590-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私のお父さんは先生です。
+- READING :: わたしのおとうさんはせんせいです。
+- UK :: Мій батько — вчитель.
+- EN :: My father is a teacher.
+- FOCUS :: お父さんは
+*** ex-1002590-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 子供の時、お父さんとよく遊びました。
+- READING :: こどものとき、おとうさんとよくあそびました。
+- UK :: У дитинстві я часто грався з батьком.
+- EN :: I often played with my father when I was a child.
+- FOCUS :: お父さんと
 
 * Sense s-1002590-002
 :PROPERTIES:
