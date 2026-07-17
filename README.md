@@ -61,7 +61,9 @@ The source paths can be overridden with `JMDICT_PATH`, `WARODAI_PATH`, and
 
 ## Author and validate an entry
 
-Follow `docs/org-format.md` for the schema. Validate one entry with:
+Follow `docs/org-format.md` for the schema. Use `PROGRESS.md` to see the
+current queue coverage and editorial maturity, and update its row whenever an
+entry advances. Validate one entry with:
 
 ```sh
 rake "entries:validate[entries/1381/1381380-ao.org]"
@@ -79,6 +81,7 @@ local JMdict archive, and runs `org-lint` on entries.
 
 ## Repository layout
 
+- `PROGRESS.md` — merge-oriented inventory and editorial maturity ledger
 - `entries/` — canonical authored Org dictionary entries
 - `lib/dictionary_sources/` — reusable source readers and parsers
 - `scripts/` — command-line extraction and validation tools
