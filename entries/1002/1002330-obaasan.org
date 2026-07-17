@@ -127,7 +127,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Шанобливе звертання до бабусі співрозмовника або третьої особи. Також використовується для звертання до власної бабусі.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -141,11 +141,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: おばあさんは元気ですか。
+- READING :: おばあさんはげんきですか。
+- UK :: Як здоров'я вашої бабусі?
+- EN :: How is your grandmother doing?
+- FOCUS :: おばあさんは
+*** ex-1002330-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私のおばあさんは八十歳です。
+- READING :: わたしのおばあさんははちじゅっさいです。
+- UK :: Моїй бабусі вісімдесят років.
+- EN :: My grandmother is eighty years old.
+- FOCUS :: おばあさんは
+*** ex-1002330-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 週末に、おばあさんの家に行きます。
+- READING :: しゅうまつに、おばあさんのいえにいきます。
+- UK :: На вихідних я поїду до бабусиного дому.
+- EN :: I will go to my grandmother's house on the weekend.
+- FOCUS :: おばあさんの
 
 * Sense s-1002330-002
 :PROPERTIES:
