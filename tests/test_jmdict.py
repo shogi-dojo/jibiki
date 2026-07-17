@@ -7,7 +7,7 @@ import tempfile
 import unittest
 
 from jisho_catalog.catalog import write_catalog
-from jisho_catalog.jmdict import iter_translation_units
+from jisho_catalog.jmdict import calculate_source_fingerprint, iter_translation_units
 
 
 FIXTURE = Path(__file__).parent / "fixtures" / "jmdict-sample.xml"
@@ -43,6 +43,12 @@ class JmdictExtractionTests(unittest.TestCase):
         self.assertEqual(len(original), 64)
         self.assertEqual(record["source_fingerprint"], original)
         self.assertEqual(record["translation"]["status"], "untranslated")
+        self.assertEqual(
+            original,
+            calculate_source_fingerprint(
+                first.ent_seq, first.sense_index, first.japanese, first.source
+            ),
+        )
 
 
 class CatalogTests(unittest.TestCase):
@@ -79,4 +85,3 @@ class CatalogTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

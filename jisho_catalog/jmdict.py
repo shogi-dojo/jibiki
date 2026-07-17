@@ -46,16 +46,9 @@ class TranslationUnit:
 
     @property
     def source_fingerprint(self) -> str:
-        payload = {
-            "ent_seq": self.ent_seq,
-            "sense_index": self.sense_index,
-            "japanese": asdict(self.japanese),
-            "source": asdict(self.source),
-        }
-        encoded = json.dumps(
-            payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")
-        ).encode("utf-8")
-        return sha256(encoded).hexdigest()
+        return calculate_source_fingerprint(
+            self.ent_seq, self.sense_index, self.japanese, self.source
+        )
 
     def to_record(self) -> dict[str, object]:
         return {
@@ -80,6 +73,26 @@ class TranslationUnit:
             "source_fingerprint": self.source_fingerprint,
             "translation": {"uk": [], "status": "untranslated", "notes": ""},
         }
+
+
+def calculate_source_fingerprint(
+    ent_seq: int,
+    sense_index: int,
+    japanese: JapaneseForms,
+    source: SourceSense,
+) -> str:
+    """Return the canonical fingerprint shared by extraction and validation."""
+
+    payload = {
+        "ent_seq": ent_seq,
+        "sense_index": sense_index,
+        "japanese": asdict(japanese),
+        "source": asdict(source),
+    }
+    encoded = json.dumps(
+        payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")
+    ).encode("utf-8")
+    return sha256(encoded).hexdigest()
 
 
 def _texts(parent: ET.Element, path: str) -> tuple[str, ...]:
@@ -168,4 +181,3 @@ def iter_translation_units(
                     ),
                 )
             entry.clear()
-
