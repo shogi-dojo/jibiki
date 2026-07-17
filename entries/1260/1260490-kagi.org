@@ -1,0 +1,229 @@
+#+TITLE: 鍵
+#+JMDICT_ID: 1260490
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: かぎ
+#+ROMAJI: kagi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1260490-001
+:PROPERTIES:
+:TEXT: 鍵
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf18
+** Written form wf-1260490-002
+:PROPERTIES:
+:TEXT: 鑰
+:END:
+*** Information
+- rK
+*** Priorities
+** Reading rd-1260490-001
+:PROPERTIES:
+:TEXT: かぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf18
+** Reading rd-1260490-002
+:PROPERTIES:
+:TEXT: カギ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+
+* Sense s-1260490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 96d240d2901105de3c4b6f69037bf0708e9964d8dd43c5e71c5810e9afa590fd
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1260490-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: key
+** Ukrainian glosses
+*** uk-s-1260490-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: ключ
+** Russian reference
+*** ru-ref-1260490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:END:
+- text :: (прям. и перен.) ключ
+** Learner notes
+*** note-s-1260490-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1260490-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 例
+- READING :: れい
+- UK :: Приклад.
+- EN :: Example.
+- FOCUS :: 例
+
+* Sense s-1260490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ab1fb70d3e5d2e4aa3ae49863e2acb3362cb4d9c129940f99c33bd06f3f1e4fc
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+- 錠・1
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1260490-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lock
+** Ukrainian glosses
+*** uk-s-1260490-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: замок
+
+* Sense s-1260490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 23f72fb8ced64128457fc48b80e9e60efbbfb2680b940e0ab74420289112dbfc
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1260490-003-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: key (to a problem, success, etc.)
+*** en-s-1260490-003-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: clue
+** Ukrainian glosses
+*** uk-s-1260490-003-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: ключ
+- qualifier :: до проблеми, успіху тощо
+*** uk-s-1260490-003-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: розгадка
