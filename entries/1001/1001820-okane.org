@@ -96,7 +96,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Загальна назва для грошей. Походить від слова 金 (かね) з додаванням ввічливого префікса お.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -110,8 +110,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お金がありません。
+- READING :: おかねがありません。
+- UK :: У мене немає грошей.
+- EN :: I have no money.
+- FOCUS :: お金が
+*** ex-1001820-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金が欲しいです。
+- READING :: おかねがほしいです。
+- UK :: Я хочу грошей.
+- EN :: I want money.
+- FOCUS :: お金が
+*** ex-1001820-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 銀行でお金をおろします。
+- READING :: ぎんこうでおかねをおろします。
+- UK :: Я зніму гроші в банку.
+- EN :: I will withdraw money at the bank.
+- FOCUS :: お金を
