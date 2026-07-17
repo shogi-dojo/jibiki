@@ -164,7 +164,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Вказівний займенник для позначення місця, віддаленого як від мовця, так і від співрозмовника.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -178,11 +178,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: あそこは病院です。
+- READING :: あそこはびょういんです。
+- UK :: Там знаходиться лікарня.
+- EN :: That place over there is a hospital.
+- FOCUS :: あそこは
+*** ex-1000320-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友達はあそこにいます。
+- READING :: ともだちはあそこにいます。
+- UK :: Мій друг знаходиться там.
+- EN :: My friend is over there.
+- FOCUS :: あそこに
+*** ex-1000320-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あそこのレストランはとてもおいしいです。
+- READING :: あそこのレストランはとてもおいしいです。
+- UK :: У тому ресторані дуже смачно.
+- EN :: That restaurant over there is very delicious.
+- FOCUS :: あそこの
 
 * Sense s-1000320-002
 :PROPERTIES:
