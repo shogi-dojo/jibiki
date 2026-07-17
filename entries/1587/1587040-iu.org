@@ -169,7 +169,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Говорити, казати. Зазвичай записується ієрогліфом (言う), але часто зустрічається і запис хіраганою (いう).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -183,11 +183,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 彼は「こんにちは」と言いました。
+- READING :: かれは「こんにちは」といいました。
+- UK :: Він сказав "Добрий день".
+- EN :: He said, "Hello."
+- FOCUS :: 言いました
+*** ex-1587040-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 何と言いましたか。
+- READING :: なんといいましたか。
+- UK :: Що ви сказали?
+- EN :: What did you say?
+- FOCUS :: 言いました
+*** ex-1587040-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 社長は明日来ると言っていました。
+- READING :: しゃちょうはあしたくるといっていました。
+- UK :: Директор казав, що прийде завтра.
+- EN :: The president said he would come tomorrow.
+- FOCUS :: 言っていました
 
 * Sense s-1587040-002
 :PROPERTIES:
