@@ -112,7 +112,6 @@ Document exact rules for multiline text, escaping, empty sections, comments, rep
 
 ## Relevant Files
 - `/Users/mac/projects/jisho/japanese-ukrainian-org-dictionary.md` — this source-of-truth handoff.
-- `/Users/mac/projects/other/Houhou-SRS/android-app` — eventual consumer; keep it decoupled from Org authoring internals.
 
 ## Notes
 - JMdict DTD: https://www.edrdg.org/jmdict/jmdict_dtd_h.html
