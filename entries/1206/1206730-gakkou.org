@@ -99,13 +99,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Загальна назва навчального закладу — від початкової школи до вишу. З дієсловами руху вживається з часткою へ або に: 学校へ行く.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1206730-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -113,8 +115,42 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 学校は駅の近くにあります。
+- READING :: がっこうはえきのちかくにあります。
+- UK :: Школа розташована біля станції.
+- EN :: The school is near the station.
+- FOCUS :: 学校
+*** ex-1206730-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 妹は毎日、歩いて学校へ行きます。
+- READING :: いもうとはまいにち、あるいてがっこうへいきます。
+- UK :: Моя молодша сестра щодня ходить до школи пішки.
+- EN :: My younger sister walks to school every day.
+- FOCUS :: 学校へ
+*** ex-1206730-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 学校で習った漢字を、家でもう一度書いてみました。
+- READING :: がっこうでならったかんじを、いえでもういちどかいてみました。
+- UK :: Ієрогліфи, які вивчив у школі, я ще раз спробував написати вдома.
+- EN :: I tried writing the kanji I learned at school once more at home.
+- FOCUS :: 学校で
