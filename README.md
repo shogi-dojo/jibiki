@@ -59,11 +59,36 @@ ruby scripts/extract_warodai.rb --id 005-14-12
 The source paths can be overridden with `JMDICT_PATH`, `WARODAI_PATH`, and
 `N5_PATH` without editing repository files.
 
-## Author and validate an entry
+## Scaffold, author, and validate an entry
 
-Follow `docs/org-format.md` for the schema. Use `PROGRESS.md` to see the
-current queue coverage and editorial maturity, and update its row whenever an
-entry advances. Validate one entry with:
+Follow `docs/org-format.md` for the schema (currently schema version 2). Use
+`PROGRESS.md` to see the current queue coverage and editorial maturity, and
+update its row whenever an entry advances.
+
+Scaffold a complete entry from one N5 queue row instead of writing Org by
+hand or reaching for a one-off script:
+
+```sh
+rake "entries:scaffold[299,juu]"
+```
+
+This reads the same dossier sources as `rake sources:n5[N]` (JMdict plus the
+N5 queue row) and writes a full `entries/<dir>/<id>-<romaji>.org`: every
+derived section (forms, senses, POS, English glosses, Russian reference,
+fingerprints, `LEARNER_PRIORITY`) is filled in, and every authored slot
+(Ukrainian gloss, learner note, example) is pre-filled with the exact
+placeholder text the validator rejects — the gate stays red until the
+placeholders are replaced with genuine content. It refuses to overwrite an
+existing entry file. The `--romaji` value is chosen the same way it always
+has been: a human picks the filename's Modified Hepburn romanization: there
+is no automated transliterator.
+
+The intended flow is **scaffold → author payload → validate**, one agent, one
+pass, rather than generating many entries up front and backfilling debt
+later. Batch size guidance is therefore ~10 words authored to completion
+rather than 20 scaffolded with placeholders left in.
+
+Validate one entry with:
 
 ```sh
 rake "entries:validate[entries/1381/1381380-ao.org]"

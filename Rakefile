@@ -81,6 +81,13 @@ namespace :entries do
     paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
     sh RUBY, 'scripts/migrate_schema_v2.rb', *paths
   end
+
+  desc 'Scaffold a complete v2 entry from one N5 queue row: rake "entries:scaffold[299,juu]"'
+  task :scaffold, %i[source_order romaji] do |_task, args|
+    abort 'Provide source_order and romaji.' unless args[:source_order] && args[:romaji]
+
+    sh RUBY, 'scripts/scaffold_entry.rb', '--source-order', args[:source_order], '--romaji', args[:romaji]
+  end
 end
 
 namespace :org do
