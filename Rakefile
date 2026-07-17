@@ -75,6 +75,12 @@ namespace :entries do
     paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
     lint_org_files(paths)
   end
+
+  desc 'Migrate one entry path, or all entries when PATH is omitted, from schema v1 to v2'
+  task :migrate_v2, [:path] do |_task, args|
+    paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
+    sh RUBY, 'scripts/migrate_schema_v2.rb', *paths
+  end
 end
 
 namespace :org do
