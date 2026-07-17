@@ -8,7 +8,9 @@ Create a new Japanese–Ukrainian dictionary from scratch in `/Users/mac/project
 ## Reproduce Steps
 1. `cd /Users/mac/projects/jisho`
 2. Run `git status --short --branch` and preserve unrelated work.
-3. Read `README.md`, `docs/org-format.md`, and `docs/n5-entry-agent.md`.
+3. Read `README.md` and `docs/org-format.md`, plus `notes/n5-entry-agent.md` and
+   `notes/n5-batch-processing-guide.md` if present (`notes/` is local-only and
+   not committed).
 4. Run `rake -T` to inspect the supported Ruby workflow.
 5. Run `rake "sources:n5[<source-order>]"` to prepare one ignored source dossier.
 6. Run `rake` to test source parsing, validate every entry, and run Org lint.

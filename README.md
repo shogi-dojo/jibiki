@@ -61,8 +61,7 @@ The source paths can be overridden with `JMDICT_PATH`, `WARODAI_PATH`, and
 
 ## Author and validate an entry
 
-Follow `docs/n5-entry-agent.md` for the complete one-word workflow and
-`docs/org-format.md` for the schema. Validate one entry with:
+Follow `docs/org-format.md` for the schema. Validate one entry with:
 
 ```sh
 rake "entries:validate[entries/1381/1381380-ao.org]"
@@ -83,7 +82,7 @@ local JMdict archive, and runs `org-lint` on entries.
 - `entries/` — canonical authored Org dictionary entries
 - `lib/dictionary_sources/` — reusable source readers and parsers
 - `scripts/` — command-line extraction and validation tools
-- `docs/` — Org schema and contributor/agent workflow
+- `docs/` — Org schema
 - `assets/` — ignored locally generated media and manifests
 - `sources/` — ignored upstream inputs
 - `tmp/source-extracts/` — ignored private source dossiers
