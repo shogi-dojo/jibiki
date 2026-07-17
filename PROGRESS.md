@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 269 |
+| `new` | 264 |
 | `changes-requested` | 0 |
-| `reviewed` | 6 |
-| `confirmed` | 16 |
+| `reviewed` | 7 |
+| `confirmed` | 20 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 275 |
+| Entry metadata still marked `draft` | 271 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -84,6 +84,8 @@ later agents do not mistake volume for completed bilingual review.
     sense 2 (脚, leg) was glossed *стопа* (foot) — foot/leg swapped; sense 4
     ("pace") was glossed *опора меблів* (furniture leg). Corrected sense 1 to
     *стопа* (+ *лапа*, *щупальце*), sense 2 to *нога*, sense 4 to *темп ходи*.
+  - `熱い / あつい (1467720)`: sense 4 gloss *ентузіастичний* (non-standard
+    calque for "enthusiastic") replaced with *запальний*.
   Entries above are at `reviewed` and await independent bilingual confirmation.
 
 ## Maintenance rules
@@ -122,11 +124,11 @@ later agents do not mistake volume for completed bilingual review.
 | 24 | [新しい](entries/1361/1361490-atarashii.org) | あたらしい | atarashii | 1361490 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 25 | [彼方](entries/1483/1483185-achira.org) | あちら | achira | 1483185 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 26 | [暑い](entries/1343/1343460-atsui.org) | あつい | atsui | 1343460 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
-| 27 | [熱い](entries/1467/1467720-atsui.org) | あつい | atsui | 1467720 | learner | draft | **new** | Editorial review |
-| 28 | [厚い](entries/1275/1275320-atsui.org) | あつい | atsui | 1275320 | learner | draft | **new** | Editorial review |
-| 29 | [後](entries/1269/1269320-ato.org) | あと | ato | 1269320 | learner | draft | **new** | Editorial review |
-| 30 | [貴方](entries/1223/1223615-anata.org) | あなた | anata | 1223615 | learner | draft | **new** | Editorial review |
-| 31 | [兄](entries/1249/1249900-ani.org) | あに | ani | 1249900 | learner | draft | **new** | Editorial review |
+| 27 | [熱い](entries/1467/1467720-atsui.org) | あつい | atsui | 1467720 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 28 | [厚い](entries/1275/1275320-atsui.org) | あつい | atsui | 1275320 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 29 | [後](entries/1269/1269320-ato.org) | あと | ato | 1269320 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 30 | [貴方](entries/1223/1223615-anata.org) | あなた | anata | 1223615 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 31 | [兄](entries/1249/1249900-ani.org) | あに | ani | 1249900 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 32 | [姉](entries/1307/1307630-ane.org) | あね | ane | 1307630 | learner | draft | **new** | Editorial review |
 | 33–34 | [彼の](entries/1000/1000420-ano.org) | あの | ano | 1000420 | learner | draft | **new** | Editorial review |
 | 35 | [アパート](entries/1017/1017760-apaato.org) | アパート | apaato | 1017760 | learner | draft | **new** | Editorial review |
