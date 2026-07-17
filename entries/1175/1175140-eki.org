@@ -1,0 +1,226 @@
+#+TITLE: 駅
+#+JMDICT_ID: 1175140
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: えき
+#+ROMAJI: eki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1175140-001
+:PROPERTIES:
+:TEXT: 駅
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Written form wf-1175140-002
+:PROPERTIES:
+:TEXT: 驛
+:END:
+*** Information
+- oK
+*** Priorities
+** Reading rd-1175140-001
+:PROPERTIES:
+:TEXT: えき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1175140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1e975d65a8a7a3d7697669a310f10dde58daa80ddf5705b7123d06bf2d59666e
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1175140-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: railway station
+*** en-s-1175140-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: train station
+** Ukrainian glosses
+*** uk-s-1175140-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: залізнична станція
+*** uk-s-1175140-001-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: вокзал
+** Russian reference
+*** ru-ref-1175140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:END:
+- text :: 1) [железнодорожная] станция, вокзал
+*** ru-ref-1175140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:END:
+- text :: 2) (уст.) почтовая станция; постоялый двор
+** Learner notes
+*** note-s-1175140-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1175140-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 例
+- READING :: れい
+- UK :: Приклад.
+- EN :: Example.
+- FOCUS :: 例
+
+* Sense s-1175140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ca6473853edd2e06441aef2051221b0d24fc2b06770d7d199a5b52487ca43dd9
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+- hist
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1175140-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staging post on a highway (in pre-modern Japan)
+** Ukrainian glosses
+*** uk-s-1175140-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: поштова станція
+- qualifier :: у домодерній Японії
+
+* Sense s-1175140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0428ee8c38261c5dc57ccd6f5a7c4c5dee0f1e3683ec5acfd2ad5372694b671d
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- ctr
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1175140-003-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: counter for railway stations and bus stations
+** Ukrainian glosses
+*** uk-s-1175140-003-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: лічильне слово
+- qualifier :: для залізничних та автобусних станцій
