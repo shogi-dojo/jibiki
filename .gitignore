@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.coverage
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+
+# JMdict is downloaded and regenerated locally. Do not commit upstream dumps.
+data/raw/
+data/generated/
+
