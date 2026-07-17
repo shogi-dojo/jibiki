@@ -6,7 +6,13 @@ require 'rexml/document'
 require 'json'
 require 'digest'
 
-JMDICT_PATH = '/Users/mac/projects/jisho/sources/jmdict/JMdict.xml.gz'
+REPO_ROOT = File.expand_path('..', __dir__)
+JMDICT_PATH = ENV.fetch(
+  'JMDICT_PATH',
+  File.join(REPO_ROOT, 'sources', 'jmdict', 'JMdict.xml.gz')
+)
+
+STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
 def parse_entities(jmdict_path)
   entities = {}
@@ -24,7 +30,7 @@ end
 def find_entry_xml(jmdict_path, ent_seq)
   inside_entry = false
   current_entry_lines = []
-  
+
   Zlib::GzipReader.open(jmdict_path) do |gz|
     gz.each_line do |line|
       if line.include?('<entry>')
@@ -48,7 +54,7 @@ end
 def extract_element_texts(sense_el, tag, entities_map = nil)
   elements = sense_el.get_elements(tag)
   return [] if elements.empty?
-  
+
   elements.map do |el|
     text = el.text || ''
     if text =~ /^&(\S+);$/
@@ -63,7 +69,7 @@ end
 
 def compute_sense_fingerprint(ent_seq, sense_index, sense_el, entities_map)
   # Fields: ent_seq, sense_index, stagk, stagr, pos, xref, ant, field, misc, s_inf, lsource, dial, gloss, example
-  
+
   stagk = extract_element_texts(sense_el, 'stagk')
   stagr = extract_element_texts(sense_el, 'stagr')
   pos = extract_element_texts(sense_el, 'pos', entities_map)
@@ -73,7 +79,7 @@ def compute_sense_fingerprint(ent_seq, sense_index, sense_el, entities_map)
   misc = extract_element_texts(sense_el, 'misc', entities_map)
   s_inf = extract_element_texts(sense_el, 's_inf')
   dial = extract_element_texts(sense_el, 'dial', entities_map)
-  
+
   # lsource
   lsource = sense_el.get_elements('lsource').map do |el|
     {
@@ -83,7 +89,7 @@ def compute_sense_fingerprint(ent_seq, sense_index, sense_el, entities_map)
       'text' => el.text || ''
     }
   end
-  
+
   # gloss
   gloss = sense_el.get_elements('gloss').map do |el|
     {
@@ -94,7 +100,7 @@ def compute_sense_fingerprint(ent_seq, sense_index, sense_el, entities_map)
       'text' => el.text || ''
     }
   end
-  
+
   # example
   example = sense_el.get_elements('example').map do |el|
     # Default placeholder structure if examples exist in JMdict
@@ -137,7 +143,7 @@ def validate_entry(filepath)
 
   # Read file bytes
   content_bytes = File.binread(filepath)
-  
+
   # Check UTF-8 validity
   begin
     content = content_bytes.force_encoding('UTF-8')
@@ -180,9 +186,9 @@ def validate_entry(filepath)
     /^#\+SCHEMA_VERSION: 1$/,
     /^#\+PRIMARY_READING: (.*)$/,
     /^#\+ROMAJI: (.*)$/,
-    /^#\+ENTRY_STATUS: (.*)$/,
-    /^#\+QUALITY_PROFILE: (.*)$/,
-    /^#\+JMDICT_SOURCE_SHA256: (.*)$/
+    /^#\+ENTRY_STATUS: (untranslated|draft|reviewed)$/,
+    /^#\+QUALITY_PROFILE: (core|learner|enriched|gold)$/,
+    /^#\+JMDICT_SOURCE_SHA256: ([0-9a-f]{64})$/
   ]
 
   kw_index = 0
@@ -210,6 +216,28 @@ def validate_entry(filepath)
 
   ent_seq = headers[required_keywords[1]]
   romaji = headers[required_keywords[4]]
+  entry_status = headers[required_keywords[5]]
+  quality_profile = headers[required_keywords[6]]
+
+  if quality_profile == 'gold' && entry_status != 'reviewed'
+    errors << 'QUALITY_PROFILE gold requires ENTRY_STATUS reviewed'
+  end
+
+  if quality_profile == 'gold'
+    lines.each_with_index do |line, idx|
+      next unless line.match?(/^\*{3}\s+uk-s-/)
+
+      drawer_end = lines[(idx + 1)..].index { |candidate| candidate == ':END:' }
+      unless drawer_end
+        errors << "Ukrainian gloss at line #{idx + 1} has no complete property drawer"
+        next
+      end
+
+      drawer = lines[(idx + 1)..(idx + 1 + drawer_end)]
+      status = drawer.filter_map { |candidate| candidate[/^:STATUS:\s*(\S+)$/, 1] }.first
+      errors << "Gold entry has unreviewed Ukrainian gloss at line #{idx + 1}" unless status == 'reviewed'
+    end
+  end
 
   # Check path agreement
   if ent_seq
@@ -232,9 +260,8 @@ def validate_entry(filepath)
     line_num = idx + 1
     if line =~ /^(\*+)\s+(.*)$/
       stars, heading_title = $1, $2
-      # Search for ID pattern
-      if heading_title =~ /\b(wf|rd|s|en-s|uk-s|ru-ref|note-s|ex)-\d+-\d+(?:-\d+)?\b/
-        node_id = $&
+      if (match = heading_title.match(STABLE_ID_PATTERN))
+        node_id = match[:id]
         if ids.key?(node_id)
           errors << "Duplicate stable ID '#{node_id}' at lines #{ids[node_id]} and #{line_num}"
         else
@@ -269,22 +296,17 @@ def validate_entry(filepath)
     puts "Parsing DTD and looking up entry #{ent_seq} in JMdict..."
     entities_map = parse_entities(JMDICT_PATH)
     entry_xml = find_entry_xml(JMDICT_PATH, ent_seq)
-    
+
     if entry_xml.nil?
       errors << "JMdict entry #{ent_seq} not found in #{JMDICT_PATH}"
     else
       doc = REXML::Document.new(entry_xml)
       all_xml_senses = doc.get_elements('//sense')
-      
-      # We need to map English senses in the XML to the Org file senses
-      english_senses_xml = all_xml_senses.select do |s|
-        !s.get_elements("gloss[@xml:lang='eng']").empty? || s.get_elements("gloss").all? { |g| g.attribute('lang', 'xml')&.value == 'eng' || g.attribute('lang', 'xml').nil? }
-      end
-      
+
       senses.each_with_index do |(s_id, props), idx|
         sense_index = idx + 1
         source_sense_index = props['SOURCE_SENSE_INDEX']&.to_i
-        
+
         if source_sense_index.nil?
           errors << "Missing SOURCE_SENSE_INDEX property under sense #{s_id}"
           next
@@ -298,7 +320,7 @@ def validate_entry(filepath)
 
         expected_fp = compute_sense_fingerprint(ent_seq, sense_index, xml_sense_el, entities_map)
         actual_fp = props['SOURCE_FINGERPRINT']
-        
+
         if actual_fp != expected_fp
           errors << "Fingerprint mismatch for #{s_id}: expected #{expected_fp}, got #{actual_fp}"
         end
