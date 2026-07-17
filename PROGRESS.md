@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 288 |
-| `changes-requested` | 1 |
-| `reviewed` | 2 |
-| `confirmed` | 0 |
+| `new` | 284 |
+| `changes-requested` | 0 |
+| `reviewed` | 3 |
+| `confirmed` | 4 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 291 |
+| Entry metadata still marked `draft` | 287 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -71,10 +71,9 @@ later agents do not mistake volume for completed bilingual review.
 
 ## Open findings
 
-- **青い / あおい (1381390):** sense 2 currently makes the fruit, vegetable,
-  and traffic-light contexts sound archaic; sense 4 marks the literal
-  “unripe” gloss as figurative. Correct both qualifiers, then repeat the
-  editorial review.
+- None. The `青い / あおい (1381390)` sense 2 and sense 4 qualifier findings
+  were corrected on 2026-07-17 (editorial pass by `claude`); the entry now
+  awaits independent bilingual confirmation.
 
 ## Maintenance rules
 
@@ -92,11 +91,11 @@ later agents do not mistake volume for completed bilingual review.
 | ---: | --- | --- | --- | ---: | --- | --- | --- | --- |
 | 1 | [会う](entries/1198/1198180-au.org) | あう | au | 1198180 | learner | draft | **reviewed** | Independent bilingual confirmation |
 | 2 | [青](entries/1381/1381380-ao.org) | あお | ao | 1381380 | learner | draft | **reviewed** | Independent bilingual confirmation |
-| 3 | [青い](entries/1381/1381390-aoi.org) | あおい | aoi | 1381390 | learner | draft | **changes-requested** | Fix open sense 2/4 qualifiers; re-review |
-| 4 | [赤](entries/2013/2013900-aka.org) | あか | aka | 2013900 | learner | draft | **new** | Editorial review |
-| 5 | [赤い](entries/1383/1383240-akai.org) | あかい | akai | 1383240 | learner | draft | **new** | Editorial review |
-| 6 | [明るい](entries/1532/1532350-akarui.org) | あかるい | akarui | 1532350 | learner | draft | **new** | Editorial review |
-| 7 | [秋](entries/1332/1332650-aki.org) | あき | aki | 1332650 | learner | draft | **new** | Editorial review |
+| 3 | [青い](entries/1381/1381390-aoi.org) | あおい | aoi | 1381390 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 4 | [赤](entries/2013/2013900-aka.org) | あか | aka | 2013900 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 5 | [赤い](entries/1383/1383240-akai.org) | あかい | akai | 1383240 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 6 | [明るい](entries/1532/1532350-akarui.org) | あかるい | akarui | 1532350 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 7 | [秋](entries/1332/1332650-aki.org) | あき | aki | 1332650 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 8–10 | [開く](entries/1586/1586270-aku.org) | あく | aku | 1586270 | learner | draft | **new** | Editorial review |
 | 11–12 | [開ける](entries/1202/1202450-akeru.org) | あける | akeru | 1202450 | learner | draft | **new** | Editorial review |
 | 13 | [上げる](entries/1352/1352320-ageru.org) | あげる | ageru | 1352320 | learner | draft | **new** | Editorial review |

@@ -7,6 +7,7 @@
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
 
 * Forms
 ** Written form wf-1381390-001
@@ -177,13 +178,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: зелений
-- qualifier :: про фрукти, овочі, світлофор; переважно застаріле
+- qualifier :: здебільшого застаріле; у сучасній мові вживається щодо фруктів, овочів і зеленого сигналу світлофора
 ** Russian reference
 *** ru-ref-1381390-002
 :PROPERTIES:
@@ -307,24 +308,25 @@
 :STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: незрілий
-- qualifier :: переносне значення
+- qualifier :: про плоди; пряме значення
 *** uk-s-1381390-004-002
 :PROPERTIES:
 :STATUS: draft
 :TRANSLATOR_ID: codex-agent-3
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: недосвідчений
+- qualifier :: про людину; переносне значення
 ** Russian reference
 *** ru-ref-1381390-003
 :PROPERTIES:
