@@ -138,9 +138,9 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Шанобливе слово для позначення особи (людини) або вказівки на напрямок/спосіб. Часто вживається як この方, その方, あの方.
 - LEVEL :: beginner
-- REGISTER :: neutral
+- REGISTER :: polite
 ** Examples
 *** ex-1516925-001-001
 :PROPERTIES:
@@ -150,13 +150,43 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :LEVEL: beginner
+:REGISTER: polite
+:END:
+- JA :: あの方を知っていますか。
+- READING :: あのかたをしっていますか。
+- UK :: Ви знаєте ту людину?
+- EN :: Do you know that person?
+- FOCUS :: 方
+*** ex-1516925-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: polite
+:END:
+- JA :: この方は私の先生です。
+- READING :: このかたはわたしのせんせいです。
+- UK :: Ця людина — мій вчитель.
+- EN :: This person is my teacher.
+- FOCUS :: 方
+*** ex-1516925-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 漢字の読み方がわかりません。
+- READING :: かんじのよみかたがわかりません。
+- UK :: Я не знаю, як читати ці ієрогліфи (спосіб читання).
+- EN :: I don't know how to read these kanji.
+- FOCUS :: 読み方
 
 * Sense s-1516925-002
 :PROPERTIES:

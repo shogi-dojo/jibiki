@@ -151,7 +151,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Бути потрібним (необхідним). Завжди використовується з часткою が, напр. 〜が要る (щось потрібне).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -165,8 +165,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: ビザが要りますか。
+- READING :: ビザがいりますか。
+- UK :: Вам потрібна віза?
+- EN :: Do you need a visa?
+- FOCUS :: 要りますか
+*** ex-1546640-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金が要ります。
+- READING :: おかねがいります。
+- UK :: Потрібні гроші.
+- EN :: I need money.
+- FOCUS :: 要ります
+*** ex-1546640-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何も要りません。
+- READING :: なにもいりません。
+- UK :: Мені нічого не потрібно.
+- EN :: I don't need anything.
+- FOCUS :: 要りません
