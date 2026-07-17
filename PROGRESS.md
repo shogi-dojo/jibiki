@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 284 |
+| `new` | 279 |
 | `changes-requested` | 0 |
-| `reviewed` | 3 |
-| `confirmed` | 4 |
+| `reviewed` | 4 |
+| `confirmed` | 8 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 287 |
+| Entry metadata still marked `draft` | 283 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -71,9 +71,14 @@ later agents do not mistake volume for completed bilingual review.
 
 ## Open findings
 
-- None. The `青い / あおい (1381390)` sense 2 and sense 4 qualifier findings
-  were corrected on 2026-07-17 (editorial pass by `claude`); the entry now
-  awaits independent bilingual confirmation.
+- None open. Resolved on 2026-07-17 (editorial pass by `claude`):
+  - `青い / あおい (1381390)`: sense 2 and sense 4 qualifiers corrected.
+  - `上げる / あげる (1352320)`: senses 21–23 and 25 had misaligned/incorrect
+    Ukrainian glosses (21 "increase of market price" glossed as *блювати*,
+    22 "vomit" as *робити послугу*, 23 aux "for someone else" as *для себе*,
+    25 humble aux as *вказує на крайній стан*); all corrected and sense 24
+    completive gloss clarified.
+  Both entries are at `reviewed` and await independent bilingual confirmation.
 
 ## Maintenance rules
 
@@ -96,11 +101,11 @@ later agents do not mistake volume for completed bilingual review.
 | 5 | [赤い](entries/1383/1383240-akai.org) | あかい | akai | 1383240 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 6 | [明るい](entries/1532/1532350-akarui.org) | あかるい | akarui | 1532350 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 7 | [秋](entries/1332/1332650-aki.org) | あき | aki | 1332650 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
-| 8–10 | [開く](entries/1586/1586270-aku.org) | あく | aku | 1586270 | learner | draft | **new** | Editorial review |
-| 11–12 | [開ける](entries/1202/1202450-akeru.org) | あける | akeru | 1202450 | learner | draft | **new** | Editorial review |
-| 13 | [上げる](entries/1352/1352320-ageru.org) | あげる | ageru | 1352320 | learner | draft | **new** | Editorial review |
-| 14 | [朝](entries/1428/1428280-asa.org) | あさ | asa | 1428280 | learner | draft | **new** | Editorial review |
-| 15 | [朝ご飯](entries/1586/1586330-asagohan.org) | あさごはん | asagohan | 1586330 | learner | draft | **new** | Editorial review |
+| 8–10 | [開く](entries/1586/1586270-aku.org) | あく | aku | 1586270 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 11–12 | [開ける](entries/1202/1202450-akeru.org) | あける | akeru | 1202450 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 13 | [上げる](entries/1352/1352320-ageru.org) | あげる | ageru | 1352320 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 14 | [朝](entries/1428/1428280-asa.org) | あさ | asa | 1428280 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 15 | [朝ご飯](entries/1586/1586330-asagohan.org) | あさごはん | asagohan | 1586330 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 16 | [明後日](entries/1584/1584640-asatte.org) | あさって | asatte | 1584640 | learner | draft | **new** | Editorial review |
 | 17 | [足](entries/1404/1404630-ashi.org) | あし | ashi | 1404630 | learner | draft | **new** | Editorial review |
 | 18 | [明日](entries/1584/1584660-ashita.org) | あした | ashita | 1584660 | learner | draft | **new** | Editorial review |

@@ -7,6 +7,7 @@
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
 
 * Forms
 ** Written form wf-1352320-001
@@ -1362,12 +1363,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: блювати
+- text :: зростати
+- qualifier :: про ринкову ціну, курс акцій
 ** Russian reference
 
 * Sense s-1352320-022
@@ -1415,13 +1417,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: робити
-- qualifier :: послугу
+- text :: блювати
+- qualifier :: розмовне
 ** Russian reference
 
 * Sense s-1352320-023
@@ -1463,13 +1465,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: робити
-- qualifier :: для себе
+- text :: робити (щось) для когось
+- qualifier :: допоміжне дієслово після -te форми; на користь іншої особи
 ** Russian reference
 
 * Sense s-1352320-024
@@ -1510,12 +1512,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: повністю
+- text :: доводити до кінця
+- qualifier :: завершення дії; після -masu основи дієслова
 ** Russian reference
 
 * Sense s-1352320-025
@@ -1557,12 +1560,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: вказує на крайній стан
+- text :: смиренно виконувати дію
+- qualifier :: виражає смиренність мовця; після -masu основи скромного дієслова
 ** Russian reference
 
 * Sense s-1352320-026
