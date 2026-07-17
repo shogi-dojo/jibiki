@@ -1,0 +1,83 @@
+# Third-party attribution and provenance
+
+This file records the upstream sources used by the Japanese–Ukrainian Org
+dictionary and the attribution their licences require. It must be retained in
+redistributions. See LICENSE for the licences covering this project's own code
+and content.
+
+## JMdict (used, and redistributed in derived form)
+
+This project uses the JMdict dictionary file. Entries under `entries/` are
+derived from JMdict: entry identity (`ent_seq`), written forms, readings,
+sense divisions, part-of-speech and other structured tags, and English glosses
+originate from JMdict and are reproduced or restructured here.
+
+- Source: JMdict/EDICT Project
+  https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+- Copyright: James William Breen and The Electronic Dictionary Research and
+  Development Group (EDRDG)
+- Licence: Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0), per https://www.edrdg.org/edrdg/licence.html
+- Archive used: `JMdict.xml.gz`, downloaded 2026-07-17
+- SHA-256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+
+Each entry file records the archive digest it was built from in its
+`#+JMDICT_SOURCE_SHA256` header.
+
+Russian reference glosses that appear in `Russian reference` sections
+(`ru-ref-*`) are JMdict's own `xml:lang="rus"` glosses, reproduced from the
+archive above. They are not taken from any other Russian-language source.
+
+EDRDG asks that users acknowledge the usage and source of the files in
+documentation and publicity material, and that software acknowledge them
+within the application itself rather than only on a launch page. Downstream
+users and applications consuming this dictionary must carry this
+acknowledgement. EDRDG asks that no one claim copyright over the JMdict
+material; no copyright over JMdict material is claimed here. EDRDG places no
+restriction on commercial use provided its conditions are met.
+
+## Open JTalk audio (used, redistributed)
+
+Generated pronunciation audio under `assets/audio/open-jtalk/` was synthesised
+with Open JTalk using the NIT ATR503 M001 HTS voice. Per-asset licence and
+credit metadata is recorded in `assets/audio/manifest.org`.
+
+- Engine: Open JTalk — https://open-jtalk.sourceforge.net/
+- Voice model: nitech_jp_atr503_m001.htsvoice
+
+Note: the licence recorded in the manifest for these assets has not been
+reconciled against the upstream Open JTalk and NIT voice-model terms, which
+are BSD-style rather than Creative Commons. Confirm before relying on the
+manifest's licence field or redistributing the audio.
+
+## Warodai (consulted privately; NOT redistributed)
+
+Warodai is used only as a local, read-only reference for comparing coverage
+and editorial organisation. It is excluded from this repository via
+`.gitignore`, and no Warodai text is present in this repository or in any
+published entry.
+
+- Source: https://github.com/WarodaiProject/warodai-source
+- Snapshot commit: 96f796e6a5f7d37f84bca65e0760258fede036b1 (2026-06-30)
+- Licence: Creative Commons Attribution-NonCommercial-NoDerivatives 3.0
+  Unported (CC BY-NC-ND 3.0)
+
+The NoDerivatives term prohibits adaptations, and a translation is an
+adaptation. Warodai definitions, examples, and sense ordering must not be
+copied, translated, adapted, merged, or published as part of this project
+without separate written permission from its rights holders.
+
+## Bondarenko–Hino Ukrainian–Japanese dictionary (consulted privately; NOT redistributed)
+
+- Work: I. Bondarenko and T. Hino, *Ukrainian-Japanese Dictionary;
+  Japanese-Ukrainian Dictionary; Learner's Dictionary of Japanese Kanji*
+- Publisher: Alternatyvy, Kyiv, 1998. ISBN 966-7217-23-X
+- Status: all rights reserved; consulted privately only. No text from this
+  work is reproduced, translated, or published here.
+
+## Ukrainian content
+
+Ukrainian glosses, learner notes, and examples are independently authored for
+this project and are licensed CC BY-SA 4.0 (see LICENSE). Each carries
+`:SOURCE_TYPE:`, `:TRANSLATOR_ID:` or `:AUTHOR_ID:`, and `:LICENSE:` metadata
+recording its provenance.

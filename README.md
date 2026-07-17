@@ -5,6 +5,10 @@ entry identity and structured Japanese/English metadata; Ukrainian glosses,
 notes, and examples are authored independently. Ruby scripts make source
 lookup, extraction, fingerprinting, validation, and Org linting reproducible.
 
+This dictionary uses the JMdict dictionary file, copyright James William Breen
+and The [Electronic Dictionary Research and Development Group](https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project),
+used under CC BY-SA 4.0.
+
 ## Requirements
 
 - Ruby with Rake (the tools currently use only the standard library)
@@ -35,10 +39,12 @@ This writes an ignored dossier such as
 - exact Warodai header metadata and body lines for private comparison;
 - archive/file checksums for reconciliation.
 
-JMdict is authoritative. A normal candidate must resolve to exactly one JMdict
-entry before authoring begins. Warodai is CC BY-NC-ND 3.0 and is exposed only
-for local read-only comparison: never copy, translate, adapt, commit, or publish
-its text. Generated dossiers remain under ignored `tmp/` for the same reason.
+JMdict is authoritative (CC BY-SA 4.0; see `NOTICE`). A normal candidate must
+resolve to exactly one JMdict entry before authoring begins. Warodai is
+CC BY-NC-ND 3.0 and is exposed only for local read-only comparison: never copy,
+translate, adapt, commit, or publish its text — the NoDerivatives term makes a
+translation an infringing adaptation. Generated dossiers mix JMdict and Warodai
+material, so they remain under ignored `tmp/` and are never committed.
 
 For direct diagnostics:
 
@@ -81,3 +87,25 @@ local JMdict archive, and runs `org-lint` on entries and asset manifests.
 - `assets/` — licensed media and manifests
 - `sources/` — ignored upstream inputs
 - `tmp/source-extracts/` — ignored private source dossiers
+
+## Licensing
+
+Two licences apply; see `LICENSE` for the full terms and `NOTICE` for
+third-party attribution and provenance.
+
+- **Code** (`scripts/`, `lib/`, `Rakefile`, `test/`) — MIT.
+- **Dictionary content** (`entries/`, `docs/`) — CC BY-SA 4.0.
+
+Entries are derived from JMdict, which is CC BY-SA 4.0, so ShareAlike applies
+to the dictionary content: redistributions and adaptations must stay under
+CC BY-SA 4.0 and must preserve the attribution in `NOTICE`. Commercial use is
+permitted under both licences.
+
+If you build an application on this data, EDRDG asks that the JMdict
+acknowledgement appear **in the application itself**, not only in a repository
+or launch page. Carry the JMdict section of `NOTICE` into your product.
+
+Upstream sources in `sources/` are third-party works, are excluded from this
+repository, and are not licensed here. Warodai in particular is CC BY-NC-ND
+3.0: no Warodai text is present in this repository, and its content must not
+be copied, translated, or published as part of this project.

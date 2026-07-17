@@ -116,5 +116,9 @@ Document exact rules for multiline text, escaping, empty sections, comments, rep
 
 ## Notes
 - JMdict DTD: https://www.edrdg.org/jmdict/jmdict_dtd_h.html
+- JMdict licence: CC BY-SA 4.0, https://www.edrdg.org/edrdg/licence.html — entries
+  are derived works, so ShareAlike applies to `entries/` and the EDRDG
+  acknowledgement must reach consuming applications. See `NOTICE`.
 - Warodai structure reference only: https://github.com/WarodaiProject/warodai-source
 - Warodai licence: https://github.com/WarodaiProject/warodai-source/blob/master/LICENSE
+- Project licences: MIT for code, CC BY-SA 4.0 for dictionary content. See `LICENSE`.
