@@ -144,9 +144,9 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Загальновживане слово для позначення живота. Складається з 腹 з додаванням ввічливого префікса お.
 - LEVEL :: beginner
-- REGISTER :: neutral
+- REGISTER :: polite
 ** Examples
 *** ex-1002610-001-001
 :PROPERTIES:
@@ -158,8 +158,38 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お腹が痛いです。
+- READING :: おなかがいたいです。
+- UK :: Болить живіт.
+- EN :: My stomach hurts.
+- FOCUS :: お腹が
+*** ex-1002610-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お腹が空きました。
+- READING :: おなかがすきました。
+- UK :: Я зголоднів.
+- EN :: I got hungry.
+- FOCUS :: お腹が
+*** ex-1002610-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: たくさん食べたので、お腹がいっぱいです。
+- READING :: たくさんたべたので、おなかがいっぱいです。
+- UK :: Я багато з'їв, тому мій живіт повний.
+- EN :: I ate a lot, so my stomach is full.
+- FOCUS :: お腹が
