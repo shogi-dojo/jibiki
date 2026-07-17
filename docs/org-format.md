@@ -124,6 +124,7 @@ Every entry begins with these keywords in this order:
 #+PRIMARY_READING: にほんご
 #+ROMAJI: nihongo
 #+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: enriched
 #+JMDICT_SOURCE_SHA256: <64 lowercase hexadecimal characters>
 ```
 
@@ -137,6 +138,8 @@ Rules:
 - `ROMAJI` is generated from `PRIMARY_READING`, but is stored for convenient
   Emacs and shell searching. Validation must recompute it.
 - `ENTRY_STATUS` is `untranslated`, `draft`, or `reviewed`.
+- `QUALITY_PROFILE` is `core`, `learner`, `enriched`, or `gold`. It records the
+  minimum editorial depth already achieved, not the intended future depth.
 - `JMDICT_SOURCE_SHA256` identifies the complete imported JMdict archive used
   for reconciliation.
 
@@ -239,6 +242,11 @@ Required sense subsections, in order:
 ** JMdict metadata
 ** English glosses
 ** Ukrainian glosses
+```
+
+Optional sense subsections, when present, follow in this order:
+
+```org
 ** Russian reference
 ** Learner notes
 ** Collocations
@@ -248,8 +256,11 @@ Required sense subsections, in order:
 ** Examples
 ```
 
-All are present even when empty. This produces predictable folding in Emacs
-and prevents accidental placement of an enrichment under the wrong sense.
+Required subsections remain present when empty. Optional subsections should be
+omitted when empty, especially in Core entries; adding them later does not
+change the sense identity. Fixed ordering still provides predictable folding
+and prevents an enrichment from being placed under the wrong sense. An absent
+optional subsection means “not recorded,” never “verified absent.”
 
 ### 8.1 Sense restrictions
 
@@ -734,6 +745,7 @@ A strict validator must reject:
 - invalid UTF-8 or non-NFC text;
 - CRLF, tabs, trailing whitespace, and malformed headings;
 - a path that disagrees with `JMDICT_ID` or `ROMAJI`;
+- a missing or unknown `QUALITY_PROFILE`;
 - unknown or duplicated required headings/properties;
 - duplicate stable IDs;
 - missing readings or senses;
@@ -744,28 +756,84 @@ A strict validator must reject:
 - media without source and licence;
 - a stale source fingerprint;
 - unknown JMdict data that was discarded;
-- malformed locale codes, dates, hashes, MIME types, or asset paths.
+- malformed locale codes, dates, hashes, MIME types, or asset paths;
+- `QUALITY_PROFILE: gold` when the entry or any Ukrainian gloss is not
+  `reviewed`.
 
-Validation should warn, but not necessarily reject, when a common entry lacks
-learner notes, three varied examples, pitch accent, or audio. Content coverage
-quality and structural validity are different concerns.
+Validation should compare learner-content coverage with the declared profile.
+It must not warn that Core lacks examples or that Learner lacks audio. Content
+coverage quality and structural validity are different concerns.
 
-## 19. Recommended learner completeness
+## 19. Progressive quality profiles
 
-A high-quality common-word entry should eventually have:
+The schema describes the richest entry the project can represent; it is not a
+requirement to research every optional field before publishing a useful word.
+`QUALITY_PROFILE` makes editorial depth explicit and supports gradual work.
 
-- every JMdict form, reading, sense, restriction, and tag;
-- one or more reviewed Ukrainian glosses per sense;
-- a short Ukrainian distinction note where English glosses are ambiguous;
-- government/case patterns for verbs and adjectives;
-- two to five frequent collocations;
-- at least three independently authored or compatibly licensed examples;
-- readings and optional display romaji for beginner examples;
-- register and politeness guidance where relevant;
-- links to confusingly similar or contrasting words;
-- sourced Tokyo pitch accent when available;
-- at least one compatibly licensed human recording or clearly labelled TTS
-  recording when available.
+All profiles preserve the complete imported JMdict layer: every form, reading,
+sense, restriction, tag, source fingerprint, and English gloss. That layer is
+mechanical source fidelity, not recurring translation work. The profiles govern
+the Ukrainian learner layer.
+
+### 19.1 Core
+
+The minimum useful dictionary entry:
+
+- a resolved JMdict ID, primary spelling, reading, and part of speech;
+- the lossless JMdict structure required elsewhere in this document;
+- at least one concise, independently authored Ukrainian draft gloss for every
+  sense;
+- explicit qualifiers where otherwise identical Ukrainian glosses would be
+  misleading.
+
+Core does not require examples, notes, collocations, pitch accent, or audio.
+For a highly polysemous word that cannot be translated responsibly in the
+current task, leave it unclaimed rather than publishing guessed glosses.
+
+### 19.2 Learner
+
+Learner includes Core and adds practical help for the primary/common senses:
+
+- one short Ukrainian distinction or usage note where the gloss alone is not
+  enough;
+- essential government, case, conjugation, register, or politeness guidance
+  when relevant;
+- one or two independently authored examples with Japanese, reading, and
+  Ukrainian translation.
+
+Do not add a note merely to satisfy the profile when the word is already clear.
+
+### 19.3 Enriched
+
+Enriched includes Learner and adds the high-value material that is available
+and relevant, such as:
+
+- frequent collocations and constructions;
+- links to confusing, contrasting, or closely related words;
+- broader example coverage across important senses;
+- sourced Tokyo pitch accent;
+- compatibly licensed human audio or clearly labelled, reviewed TTS.
+
+Pitch and audio are not mandatory when no compatible, trustworthy source is
+available.
+
+### 19.4 Gold
+
+Gold is the highest editorial gate for especially important entries:
+
+- every Ukrainian sense and qualifier has been independently reviewed;
+- learner notes, grammar, register, and common collocations cover the material
+  distinctions a Ukrainian learner is likely to need;
+- examples are varied, natural, sourced, and reviewed;
+- all provenance, licences, cross-references, pronunciation records, and media
+  present in the entry have been checked.
+
+`QUALITY_PROFILE` measures breadth; `ENTRY_STATUS` measures review confidence.
+They are independent through Enriched: an entry may be Enriched and draft, or
+Core and carefully reviewed. Gold is the exception and requires reviewed entry
+and gloss states. Profiles only move upward during ordinary enrichment.
+Validation warnings must be calibrated to the declared profile rather than
+treating every absent optional section as unfinished work.
 
 “Complete” never means filling fields with guesses. A visible, tracked gap is
 better than unsourced data.
