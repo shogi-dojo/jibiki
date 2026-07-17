@@ -4,6 +4,14 @@ require 'rbconfig'
 require 'rake'
 require 'rake/testtask'
 
+# Ruby derives its default external encoding from the locale; when LANG is
+# unset or not UTF-8 (GUI-launched shells, CI), that default is US-ASCII and
+# reading the UTF-8 dictionary data fails. Pin it here once so every child
+# process (ruby scripts, emacs org-lint, the test task) inherits it and no
+# caller has to export LANG manually.
+ENV['LANG'] = 'en_US.UTF-8' unless ENV['LANG'].to_s.match?(/UTF-8/i)
+Encoding.default_external = Encoding::UTF_8
+
 RUBY = RbConfig.ruby
 ORG_LINT_EXPRESSION = <<~ELISP.lines.join(' ')
   (progn
