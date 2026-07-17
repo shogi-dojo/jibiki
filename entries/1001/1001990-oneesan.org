@@ -115,7 +115,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Шанобливе звертання до старшої сестри співрозмовника або третьої особи. Також використовується при звертанні до власної старшої сестри.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -129,11 +129,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お姉さんは学生ですか。
+- READING :: おねえさんはがくせいですか。
+- UK :: Ваша старша сестра студентка?
+- EN :: Is your older sister a student?
+- FOCUS :: お姉さんは
+*** ex-1001990-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私のお姉さんは会社員です。
+- READING :: わたしのおねえさんはかいしゃいんです。
+- UK :: Моя старша сестра — працівниця компанії.
+- EN :: My older sister is an office worker.
+- FOCUS :: お姉さんは
+*** ex-1001990-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 田中さんのお姉さんはとてもきれいです。
+- READING :: たなかさんのおねえさんはとてもきれいです。
+- UK :: Старша сестра Танаки дуже красива.
+- EN :: Tanaka's older sister is very beautiful.
+- FOCUS :: お姉さんは
 
 * Sense s-1001990-002
 :PROPERTIES:
