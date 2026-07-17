@@ -113,7 +113,7 @@ def validate_entry(filepath)
   required_keywords = [
     /^#\+TITLE: (.*)$/,
     /^#\+JMDICT_ID: (.*)$/,
-    /^#\+SCHEMA_VERSION: 1$/,
+    /^#\+SCHEMA_VERSION: 2$/,
     /^#\+PRIMARY_READING: (.*)$/,
     /^#\+ROMAJI: (.*)$/,
     /^#\+ENTRY_STATUS: (untranslated|draft|reviewed)$/,
@@ -123,7 +123,8 @@ def validate_entry(filepath)
 
   kw_index = 0
   headers = {}
-  lines.take(12).each_with_index do |line, idx|
+  file_defaults = {}
+  lines.take(16).each_with_index do |line, idx|
     line_num = idx + 1
     if line.start_with?('#+')
       if kw_index < required_keywords.length
@@ -136,6 +137,8 @@ def validate_entry(filepath)
         kw_index += 1
       elsif line =~ /^#\+CREATED_AT:\s*(.*)$/
         headers[:created_at] = $1
+      elsif line =~ /^#\+DEFAULT_(AUTHOR_ID|LICENSE|SOURCE_TYPE|STATUS):\s?(.*)$/
+        file_defaults[$1] = $2
       end
     end
   end
@@ -164,8 +167,58 @@ def validate_entry(filepath)
       end
 
       drawer = lines[(idx + 1)..(idx + 1 + drawer_end)]
-      status = drawer.filter_map { |candidate| candidate[/^:STATUS:\s*(\S+)$/, 1] }.first
+      status = drawer.filter_map { |candidate| candidate[/^:STATUS:\s*(\S+)$/, 1] }.first || file_defaults['STATUS']
       errors << "Gold entry has unreviewed Ukrainian gloss at line #{idx + 1}" unless status == 'reviewed'
+    end
+  end
+
+  # Schema v2 omit-when-empty (docs/org-format.md §15): a listed subsection
+  # heading is only ever allowed to appear when it has content: leaving it
+  # empty is a v1 pattern the migration removed everywhere.
+  omit_when_empty_headings = [
+    'Information', 'Priorities', 'Fields', 'Miscellaneous and register',
+    'Dialects', 'Sense information', 'Cross-references', 'Antonyms',
+    'Language sources', 'Russian reference', 'Learner notes', 'Collocations',
+    'Constructions and derivatives', 'Related words', 'Idioms and proverbs',
+    'Examples'
+  ].freeze
+
+  lines.each_with_index do |line, idx|
+    next unless line =~ /^(\*+)\s+(.*)$/
+
+    stars, heading_title = $1, $2
+    next unless omit_when_empty_headings.include?(heading_title)
+
+    level = stars.length
+    body = []
+    offset = idx + 1
+    while lines[offset] && !(lines[offset] =~ /^(\*+)\s+/ && $1.length <= level)
+      body << lines[offset]
+      offset += 1
+    end
+
+    has_content = body.any? { |l| l.start_with?('- ') } || body.any? { |l| l =~ /^\*{#{level + 1},}\s+/ }
+    errors << "Line #{idx + 1} '#{heading_title}' is empty and must be omitted (schema v2 §15)" unless has_content
+  end
+
+  # Schema v2 provenance defaults (§5/§9): a block's drawer must omit any
+  # property whose value equals the file's matching #+DEFAULT_* keyword.
+  defaultable_provenance_keys = %w[SOURCE_TYPE AUTHOR_ID LICENSE STATUS].freeze
+  lines.each_with_index do |line, idx|
+    next unless line =~ /^\*+\s+(?:uk-s-|note-s-|col-s-|con-s-|rel-s-|idiom-s-|ex-)/
+
+    drawer_end = lines[(idx + 1)..]&.index { |candidate| candidate.strip == ':END:' }
+    next unless drawer_end && lines[idx + 1]&.strip == ':PROPERTIES:'
+
+    drawer = lines[(idx + 2)..(idx + drawer_end)]
+    drawer.each_with_index do |prop_line, offset|
+      next unless prop_line =~ /^:([^:]+):\s?(.*)$/
+
+      key = $1
+      value = $2
+      next unless defaultable_provenance_keys.include?(key) && file_defaults[key] && value == file_defaults[key]
+
+      errors << "Line #{idx + 2 + offset} property #{key} redundantly repeats the file default and must be omitted (schema v2 §9)"
     end
   end
 
@@ -203,10 +256,12 @@ def validate_entry(filepath)
 
   # Check sense fingerprints
   senses = {}
+  sense_starts = []
   lines.each_with_index do |line, idx|
     if line =~ /^\*\s+Sense\s+(s-\d+-\d+)/
       current_sense = $1
       senses[current_sense] = {}
+      sense_starts << [current_sense, idx]
       if lines[idx + 1]&.strip == ':PROPERTIES:'
         offset = 2
         while lines[idx + offset] && lines[idx + offset].strip != ':END:'
@@ -217,6 +272,34 @@ def validate_entry(filepath)
           offset += 1
         end
       end
+    end
+  end
+
+  # Schema v2 LEARNER_PRIORITY example requirement (§10/§18): a sense marked
+  # primary needs at least 3 examples with a graded LEVEL mix, replacing the
+  # old informal "3 examples per common word" guidance with a structural gate.
+  sense_starts.each_with_index do |(s_id, start_idx), sense_index|
+    next unless senses[s_id]['LEARNER_PRIORITY'] == 'primary'
+
+    end_idx = sense_starts[sense_index + 1]&.last || lines.length
+    sense_lines = lines[start_idx...end_idx]
+
+    levels = []
+    sense_lines.each_with_index do |line, offset|
+      next unless line =~ /^\*+\s+ex-/
+
+      drawer_end = sense_lines[(offset + 1)..]&.index { |candidate| candidate.strip == ':END:' }
+      level =
+        if drawer_end && sense_lines[offset + 1]&.strip == ':PROPERTIES:'
+          sense_lines[(offset + 2)..(offset + 1 + drawer_end)].filter_map { |l| l[/^:LEVEL:\s*(\S+)$/, 1] }.first
+        end
+      levels << (level || 'beginner')
+    end
+
+    if levels.length < 3
+      errors << "Sense #{s_id} is LEARNER_PRIORITY primary but has only #{levels.length} example(s); at least 3 are required"
+    elsif !levels.include?('beginner') || !(levels.include?('intermediate') || levels.include?('neutral'))
+      errors << "Sense #{s_id} is LEARNER_PRIORITY primary but its examples are not graded (need at least one beginner and one neutral/intermediate LEVEL); got #{levels.inspect}"
     end
   end
 

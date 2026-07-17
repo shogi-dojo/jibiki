@@ -118,6 +118,112 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_omitted_empty_section_passes
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+
+      _stdout, stderr, status = run_cli(jmdict, path)
+
+      assert status.success?, "an entry with no empty optional sections must validate: #{stderr}"
+    end
+  end
+
+  def test_rejects_an_empty_section_that_should_be_omitted
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      content = File.read(path, encoding: Encoding::UTF_8)
+      content = content.sub("*** Parts of speech\n- n\n", "*** Parts of speech\n- n\n*** Fields\n")
+      File.write(path, content, encoding: Encoding::UTF_8)
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?, 'an empty listed subsection must be rejected, not left empty'
+      assert_includes stdout, "'Fields' is empty and must be omitted"
+    end
+  end
+
+  def test_rejects_a_provenance_property_that_redundantly_repeats_the_file_default
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      content = File.read(path, encoding: Encoding::UTF_8)
+      content = content.sub(':TRANSLATOR_ID: test', ":TRANSLATOR_ID: test\n:AUTHOR_ID: test")
+      File.write(path, content, encoding: Encoding::UTF_8)
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?, 'a property equal to the file default must be omitted, not repeated'
+      assert_includes stdout, 'redundantly repeats the file default'
+    end
+  end
+
+  def test_missing_examples_on_a_learner_priority_sense_fails
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      content = File.read(path, encoding: Encoding::UTF_8)
+      content = content.sub(":SOURCE_FINGERPRINT: #{source_fingerprint(jmdict, '1381380')}\n:END:",
+                             ":SOURCE_FINGERPRINT: #{source_fingerprint(jmdict, '1381380')}\n:LEARNER_PRIORITY: primary\n:END:")
+      File.write(path, content, encoding: Encoding::UTF_8)
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?, 'a LEARNER_PRIORITY primary sense with no examples must fail'
+      assert_includes stdout, 'LEARNER_PRIORITY primary but has only 0 example(s)'
+    end
+  end
+
+  def test_learner_priority_sense_with_graded_examples_passes
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Examples
+        *** ex-1381380-001-001
+        :PROPERTIES:
+        :LEVEL: beginner
+        :END:
+        - JA :: 青い空。
+        - READING :: あおいそら。
+        - UK :: Синє небо.
+        *** ex-1381380-001-002
+        :PROPERTIES:
+        :LEVEL: neutral
+        :END:
+        - JA :: 青い服を着ています。
+        - READING :: あおいふくをきています。
+        - UK :: Я ношу синій одяг.
+        *** ex-1381380-001-003
+        :PROPERTIES:
+        :LEVEL: intermediate
+        :END:
+        - JA :: 彼は青いシャツがとても似合うと思います。
+        - READING :: かれはあおいしゃつがとてもにあうとおもいます。
+        - UK :: Мені здається, що йому дуже личить синя сорочка.
+      ORG
+      content = File.read(path, encoding: Encoding::UTF_8)
+      content = content.sub(":SOURCE_FINGERPRINT: #{source_fingerprint(jmdict, '1381380')}\n:END:",
+                             ":SOURCE_FINGERPRINT: #{source_fingerprint(jmdict, '1381380')}\n:LEARNER_PRIORITY: primary\n:END:")
+      File.write(path, content, encoding: Encoding::UTF_8)
+
+      _stdout, stderr, status = run_cli(jmdict, path)
+
+      assert status.success?, "a LEARNER_PRIORITY primary sense with 3 graded examples must pass: #{stderr}"
+    end
+  end
+
+  def test_non_priority_sense_without_examples_passes
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+
+      _stdout, stderr, status = run_cli(jmdict, path)
+
+      assert status.success?, "a sense without LEARNER_PRIORITY must not require examples: #{stderr}"
+    end
+  end
+
   private
 
   def run_cli(jmdict, *paths)
@@ -171,21 +277,23 @@ class ValidateEntryCliTest < Minitest::Test
     body = <<~ORG
       #+TITLE: 青
       #+JMDICT_ID: #{ent_seq}
-      #+SCHEMA_VERSION: 1
+      #+SCHEMA_VERSION: 2
       #+PRIMARY_READING: あお
       #+ROMAJI: ao
       #+ENTRY_STATUS: draft
       #+QUALITY_PROFILE: learner
       #+JMDICT_SOURCE_SHA256: 0000000000000000000000000000000000000000000000000000000000000000
       #+CREATED_AT: 2026-07-17
+      #+DEFAULT_AUTHOR_ID: test
+      #+DEFAULT_LICENSE: CC-BY-SA-4.0
+      #+DEFAULT_SOURCE_TYPE: original
+      #+DEFAULT_STATUS: draft
 
       * Forms
       ** Written form wf-#{ent_seq}-001
       :PROPERTIES:
       :TEXT: 青
       :END:
-      *** Information
-      *** Priorities
       ** Reading rd-#{ent_seq}-001
       :PROPERTIES:
       :TEXT: あお
@@ -193,48 +301,24 @@ class ValidateEntryCliTest < Minitest::Test
       :END:
       *** Applies to written forms
       - *
-      *** Information
-      *** Priorities
 
       * Sense s-#{ent_seq}-001
       :PROPERTIES:
       :SOURCE_SENSE_INDEX: 1
       :SOURCE_FINGERPRINT: #{fingerprint}
       :END:
-      ** Applies to forms
-      *** Written forms
-      - *
-      *** Readings
-      - *
       ** JMdict metadata
       *** Parts of speech
       - n
-      *** Fields
-      *** Miscellaneous and register
-      *** Dialects
-      *** Sense information
-      *** Cross-references
-      *** Antonyms
-      *** Language sources
       ** English glosses
-      *** en-s-#{ent_seq}-001-001
-      :PROPERTIES:
-      :LANG: eng
-      :TYPE: plain
-      :GENDER: none
-      :PRIMARY: false
-      :END:
-      - text :: blue
+      - blue
       ** Ukrainian glosses
       *** uk-s-#{ent_seq}-001-001
       :PROPERTIES:
-      :STATUS: draft
       :TRANSLATOR_ID: test
       :TRANSLATED_AT: 2026-07-17
       :REVIEWER_ID:
       :REVIEWED_AT:
-      :SOURCE_TYPE: original
-      :LICENSE: CC-BY-SA-4.0
       :END:
       - text :: синій
     ORG
