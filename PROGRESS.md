@@ -23,8 +23,11 @@ primary` property with a structural 3-graded-example validator requirement
 `scripts/scaffold_entry.rb` (`rake "entries:scaffold[order,romaji]"`),
 replacing the old `scratch/gen_n5_part*.py` one-off scripts. Migration
 surfaced 11 entries (the `codex-agent-N` batch) whose `LEARNER_PRIORITY`
-sense now fails the new example-count gate — tracked in
-`notes/handoffs/n5-placeholder-examples.md`, not a migration regression.
+sense failed the new example-count gate; all 15 affected senses have since
+been brought to three graded examples and the full gate is green. One
+defective example was replaced in the process: 開く(あく) sense 3 carried
+お腹が空きました read すきました, which belongs to the separate JMdict entry
+空く(すく) and taught the wrong reading for あく.
 
 ## Snapshot
 
