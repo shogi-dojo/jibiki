@@ -1,0 +1,208 @@
+#+TITLE: 黄色い
+#+JMDICT_ID: 1182030
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: きいろい
+#+ROMAJI: kiiroi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1182030-001
+:PROPERTIES:
+:TEXT: 黄色い
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news2
+- nf41
+** Written form wf-1182030-002
+:PROPERTIES:
+:TEXT: 黄いろい
+:END:
+*** Information
+- sK
+*** Priorities
+** Reading rd-1182030-001
+:PROPERTIES:
+:TEXT: きいろい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news2
+- nf41
+
+* Sense s-1182030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 65bb1eb53641e4403e9ee106a5494e36cfd4f293ac46d84b1f5e16c39cc49fee
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1182030-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: yellow
+** Ukrainian glosses
+*** uk-s-1182030-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: жовтий
+** Russian reference
+*** ru-ref-1182030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:END:
+- text :: жёлтый, жёлтого цвета
+** Learner notes
+*** note-s-1182030-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Жовтий (прикметник). Також може означати пронизливий (про голос).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1182030-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 黄色いシャツを着ています。
+- READING :: きいろいしゃつをきています。
+- UK :: Я ношу жовту сорочку.
+- EN :: I am wearing a yellow shirt.
+- FOCUS :: 黄色い
+*** ex-1182030-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 黄色い花が咲きました。
+- READING :: きいろいはながさきました。
+- UK :: Розквітла жовта квітка.
+- EN :: A yellow flower bloomed.
+- FOCUS :: 黄色い
+*** ex-1182030-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼女は黄色い声を出しました。
+- READING :: かのじょはきいろいこえをだしました。
+- UK :: Вона видала пронизливий крик.
+- EN :: She let out a shrill cry.
+- FOCUS :: 黄色い声
+
+* Sense s-1182030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8b5b80761fa31d9d0f4996f2dd74ad42d0b362f5f4af3e741cbcd439fcebc5e2
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+- 黄色い声
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1182030-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: high-pitched (voice)
+*** en-s-1182030-002-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: shrill
+** Ukrainian glosses
+*** uk-s-1182030-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: пронизливий
+- qualifier :: про голос
+*** uk-s-1182030-002-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: верескливий
