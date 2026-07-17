@@ -78,7 +78,7 @@ module DictionarySources
       inside_entry = false
       entry_lines = []
 
-      Zlib::GzipReader.open(path) do |gzip|
+      Zlib::GzipReader.open(path, external_encoding: Encoding::UTF_8) do |gzip|
         gzip.each_line do |line|
           if line.include?('<entry>')
             inside_entry = true
@@ -241,7 +241,7 @@ module DictionarySources
     def entities
       @entities ||= begin
         result = {}
-        Zlib::GzipReader.open(path) do |gzip|
+        Zlib::GzipReader.open(path, external_encoding: Encoding::UTF_8) do |gzip|
           gzip.each_line.with_index do |line, index|
             break if index > 2_000
 
