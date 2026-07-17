@@ -87,6 +87,23 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_rejects_the_unedited_scaffolded_ukrainian_gloss
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        *** uk-s-1381380-001-002
+        :PROPERTIES:
+        :END:
+        - text :: Приклад.
+      ORG
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?, 'a scaffolded uk gloss left unedited must not validate'
+      assert_includes stdout, 'unedited text placeholder'
+    end
+  end
+
   def test_accepts_real_text_that_merely_contains_the_placeholder_word
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory)

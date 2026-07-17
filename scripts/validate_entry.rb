@@ -11,15 +11,16 @@ JMDICT_PATH = ENV.fetch(
 
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
-# Exact field values the batch generator emitted as placeholders. Matched whole,
-# never as substrings. 'Basic word.' is the learner-note stub; the rest are the
-# example stub.
+# Exact field values the generators emit as placeholders. Matched whole,
+# never as substrings. 'Basic word.' is the learner-note stub; 'text' is the
+# scaffolder's Ukrainian-gloss stub; the rest are the example stub.
 PLACEHOLDER_FIELDS = {
   'JA' => ['例'],
   'READING' => ['れい'],
   'UK' => ['Приклад.', 'Basic word.'],
   'EN' => ['Example.'],
-  'FOCUS' => ['例']
+  'FOCUS' => ['例'],
+  'text' => ['Приклад.']
 }.freeze
 
 # Reading the gzipped archive dominates runtime, so keep one reader and one
