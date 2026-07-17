@@ -138,7 +138,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Слово для вираження згоди. Використовується в розмовній мові, трохи менш формальне, ніж «はい».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -152,11 +152,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: ええ、そうです。
+- READING :: ええ、そうです。
+- UK :: Так, правильно.
+- EN :: Yes, that is right.
+- FOCUS :: ええ
+*** ex-1001140-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ええ、行きます。
+- READING :: ええ、いきます。
+- UK :: Так, я піду.
+- EN :: Yes, I will go.
+- FOCUS :: ええ
+*** ex-1001140-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ええ、もちろん手伝いますよ。
+- READING :: ええ、もちろんてつだいますよ。
+- UK :: Так, звісно я допоможу.
+- EN :: Yes, of course I will help.
+- FOCUS :: ええ
 
 * Sense s-1001140-002
 :PROPERTIES:
