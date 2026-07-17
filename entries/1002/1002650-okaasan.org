@@ -153,7 +153,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Шанобливе звертання до матері співрозмовника або третьої особи. Також використовується для звертання до власної матері.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -167,11 +167,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お母さんはどこですか。
+- READING :: おかあさんはどこですか。
+- UK :: Де ваша мати?
+- EN :: Where is your mother?
+- FOCUS :: お母さんは
+*** ex-1002650-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私のお母さんは料理が上手です。
+- READING :: わたしのおかあさんはりょうりがじょうずです。
+- UK :: Моя мати добре готує.
+- EN :: My mother is good at cooking.
+- FOCUS :: お母さんは
+*** ex-1002650-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎日、お母さんと電話で話します。
+- READING :: まいにち、おかあさんとでんわではなします。
+- UK :: Я щодня розмовляю з мамою по телефону.
+- EN :: I talk to my mother on the phone every day.
+- FOCUS :: お母さんと
 
 * Sense s-1002650-002
 :PROPERTIES:
