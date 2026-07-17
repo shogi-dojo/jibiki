@@ -1,6 +1,6 @@
 # Org format for the Japanese-Ukrainian dictionary
 
-Status: schema version 1 draft
+Status: schema version 2
 Canonical encoding: UTF-8, Unicode NFC, LF line endings
 
 This document defines the constrained Org Mode subset used for authored
@@ -120,7 +120,7 @@ Every entry begins with these keywords in this order:
 ```org
 #+TITLE: 日本語
 #+JMDICT_ID: 1464530
-#+SCHEMA_VERSION: 1
+#+SCHEMA_VERSION: 2
 #+PRIMARY_READING: にほんご
 #+ROMAJI: nihongo
 #+ENTRY_STATUS: draft
@@ -133,7 +133,7 @@ Rules:
 - `TITLE` is the preferred display form. Use the first JMdict written form; for
   a kana-only entry, use the primary reading.
 - `JMDICT_ID` is the decimal `ent_seq` and must match the filename prefix.
-- `SCHEMA_VERSION` is currently `1`.
+- `SCHEMA_VERSION` is currently `2`.
 - `PRIMARY_READING` selects one reading for display and filename generation.
 - `ROMAJI` is generated from `PRIMARY_READING`, but is stored for convenient
   Emacs and shell searching. Validation must recompute it.
@@ -148,10 +148,21 @@ Optional file keywords:
 ```org
 #+CREATED_AT: 2026-07-17
 #+UPDATED_AT: 2026-07-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
 ```
 
 Dates use ISO 8601. Generated exporters may replace `UPDATED_AT`; translators
 must not use it as a review record.
+
+`DEFAULT_AUTHOR_ID`, `DEFAULT_LICENSE`, `DEFAULT_SOURCE_TYPE`, and
+`DEFAULT_STATUS` set the file-wide provenance values that authored blocks
+(`uk-`, `note-`, `ex-`, and other learner enrichments) inherit when their own
+provenance drawer omits that property. `CREATED_AT` on an authored block
+defaults to the file's `#+CREATED_AT` in the same way. See §9 for how a block
+overrides a default.
 
 ## 6. Required top-level order
 
@@ -228,12 +239,16 @@ Each semantic sense is represented by a stable local sense heading:
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 1
 :SOURCE_FINGERPRINT: <sha256>
+:LEARNER_PRIORITY: primary
 :END:
 ```
 
 JMdict does not provide permanent sense IDs. The local ID remains stable during
 reconciliation. `SOURCE_SENSE_INDEX` records the current source position, while
-`SOURCE_FINGERPRINT` detects edits or reordering.
+`SOURCE_FINGERPRINT` detects edits or reordering. `LEARNER_PRIORITY` is
+optional; when present its only value is `primary`, marking the sense(s) a
+learner is most likely to need for a common word (see §10 for the example
+requirement this triggers). Absence means "not marked," not "not primary."
 
 Required sense subsections, in order:
 
@@ -256,11 +271,14 @@ Optional sense subsections, when present, follow in this order:
 ** Examples
 ```
 
-Required subsections remain present when empty. Optional subsections should be
-omitted when empty, especially in Core entries; adding them later does not
-change the sense identity. Fixed ordering still provides predictable folding
-and prevents an enrichment from being placed under the wrong sense. An absent
-optional subsection means “not recorded,” never “verified absent.”
+`Applies to forms`, `English glosses`, and `Ukrainian glosses` remain present
+even when empty, because their absence would be ambiguous with "not yet
+authored." `JMdict metadata` remains present as a heading, but its own child
+subsections follow the omit-when-empty rule in §8.2. All other subsections —
+required or optional — are omitted entirely when they contain no items,
+per §15. Fixed ordering still provides predictable folding and prevents an
+enrichment from being placed under the wrong sense when present. An absent
+subsection means "not recorded," never "verified absent."
 
 ### 8.1 Sense restrictions
 
@@ -274,6 +292,9 @@ optional subsection means “not recorded,” never “verified absent.”
 
 Use `*` when unrestricted. Otherwise list stable `wf-...` or `rd-...` IDs.
 These preserve JMdict `stagk` and `stagr` without copying fragile display text.
+`Applies to forms` is omitted entirely only when *both* `Written forms` and
+`Readings` would be the wildcard `- *`; if either list is restricted, the
+whole section is written out in full, including the unrestricted list.
 
 ### 8.2 JMdict metadata
 
@@ -281,14 +302,12 @@ These preserve JMdict `stagk` and `stagr` without copying fragile display text.
 ** JMdict metadata
 *** Parts of speech
 - n
-*** Fields
-*** Miscellaneous and register
-*** Dialects
-*** Sense information
-*** Cross-references
-*** Antonyms
-*** Language sources
 ```
+
+`Parts of speech` is the only child subsection that is effectively always
+present for a real sense. `Fields`, `Miscellaneous and register`, `Dialects`,
+`Sense information`, `Cross-references`, `Antonyms`, and `Language sources`
+are each omitted whenever they have no items.
 
 Raw JMdict codes are canonical. Human-readable Ukrainian labels are generated
 from a versioned tag catalogue and are not written into every entry.
@@ -321,22 +340,36 @@ to `false`, but the normalized Org form writes all three explicitly.
 
 ### 8.3 English glosses
 
-Every JMdict English gloss is independently addressable:
+An English gloss with default attributes (`LANG: eng`, `TYPE: plain`,
+`GENDER: none`) is a plain list item, not a heading:
 
 ```org
-*** en-s-1464530-001-001
+** English glosses
+- Japanese (language)
+```
+
+A gloss is only expanded to its own heading with a full drawer when it has a
+non-default `TYPE`, `GENDER`, or `LANG`:
+
+```org
+*** en-s-1464530-001-002
 :PROPERTIES:
 :LANG: eng
-:TYPE: plain
+:TYPE: fig
 :GENDER: none
 :PRIMARY: false
 :END:
-- text :: Japanese (language)
+- text :: figurative sense
 ```
 
 `TYPE` is `plain` when `g_type` is absent; otherwise preserve the JMdict value
 such as `lit`, `fig`, or `expl`. `GENDER` and `PRIMARY` preserve `g_gend` and
-nested `pri` information.
+nested `pri` information. The stable `en-...` local ID is not assigned to
+compact plain-list glosses: nothing references it, JMdict source order is
+preserved by list order, and `SOURCE_FINGERPRINT` covers the sense's complete
+gloss set, so no reconciliation signal is lost by dropping it. A gloss that
+gains a non-default attribute during reconciliation is promoted to a heading
+and assigned the next unused `en-` ID for that sense.
 
 ### 8.4 Ukrainian glosses
 
@@ -374,21 +407,23 @@ Rules:
 ### 8.5 Russian reference
 
 Russian JMdict glosses may be retained for translators but are never a source
-to be mechanically translated. A reference records its original JMdict sense:
+to be mechanically translated. Each reference is a plain list item recording
+its original JMdict sense index and text:
 
 ```org
-*** ru-ref-1464530-001
-:PROPERTIES:
-:SOURCE_SENSE_INDEX: 5
-:END:
-- text :: японский язык
+** Russian reference
+- 5 :: японский язык
 ```
 
+The `ru-ref-` heading form with its own `SOURCE_SENSE_INDEX` drawer is used
+only when a reference needs additional properties beyond the index; the
+compact `<source_sense_index> :: <text>` form is otherwise preferred.
 Applications may hide this section from ordinary learners.
 
 ## 9. Learner enrichments
 
-Every enrichment child heading has a stable ID and this provenance drawer:
+Every enrichment child heading has a stable ID and a provenance drawer. The
+full drawer form is:
 
 ```org
 :PROPERTIES:
@@ -399,6 +434,19 @@ Every enrichment child heading has a stable ID and this provenance drawer:
 :STATUS: draft
 :END:
 ```
+
+When the file declares `#+DEFAULT_AUTHOR_ID`, `#+DEFAULT_LICENSE`,
+`#+DEFAULT_SOURCE_TYPE`, and/or `#+DEFAULT_STATUS` (§5), a block's drawer
+omits any of `AUTHOR_ID`, `LICENSE`, `SOURCE_TYPE`, and `STATUS` whose value
+equals that default; `CREATED_AT` is likewise omitted when it equals the
+file's `#+CREATED_AT`. A property present in the block always overrides the
+file default — this is how one entry can mix ordinary authored content with,
+for example, a single `licensed-corpus` example. A drawer that would become
+empty after omitting defaulted properties is still written as `:PROPERTIES:`
+/ `:END:` with no lines between, never omitted outright, so the heading's
+stable ID and drawer position stay predictable. Properties with real
+per-block meaning — `LEVEL`, `REGISTER`, `SOURCE_ID`, `SOURCE_URL` — are kept
+whenever they are non-empty regardless of any file default.
 
 Allowed `SOURCE_TYPE` values are `original`, `licensed-corpus`, `public-domain`,
 and `external-reference`. An `external-reference` may link to information but
@@ -491,9 +539,13 @@ Rules:
   them; version 1 stores continuous kana.
 - `ROMAJI` is sentence-initially capitalized Modified Hepburn for display.
 - `FOCUS` gives the exact surface form demonstrated in the sentence.
-- At least three examples are recommended for common polyfunctional words: a
-  minimal beginner example, a typical neutral example, and a context-rich
-  intermediate example.
+- A sense marked `:LEARNER_PRIORITY: primary` (§8) requires at least three
+  examples with a graded mix of `LEVEL` values — at minimum one `beginner`,
+  one `neutral`- or `intermediate`-register example, and one further
+  `intermediate` example — so a learner sees a minimal case, a typical case,
+  and a context-rich case. This is a structural validation requirement (§18),
+  not just editorial guidance. Examples on a sense without `LEARNER_PRIORITY`
+  remain optional at every quality profile.
 - Corpus examples require the corpus sentence ID, URL when available, exact
   licence, and attribution. Audio licensing is tracked separately.
 - Do not assume a sentence licence also covers attached audio.
@@ -679,7 +731,21 @@ Unknown raw data is not exported as if it were a understood public field.
 - Comments may explain editorial decisions but are not application data.
 - A parser ignores lines beginning with `# `.
 - Comments must not be used to store translations, source IDs, or licences.
-- Required section headings remain present when empty.
+- Omit-when-empty is the default for list subsections: `Information`,
+  `Priorities`, `Fields`, `Miscellaneous and register`, `Dialects`, `Sense
+  information`, `Cross-references`, `Antonyms`, `Language sources`, and every
+  optional sense subsection in §8 (`Russian reference`, `Learner notes`,
+  `Collocations`, `Constructions and derivatives`, `Related words`, `Idioms
+  and proverbs`, `Examples`) are omitted entirely when they have no items.
+  Absence means "none recorded yet," exactly as an empty section meant in
+  schema version 1 — only the surface representation changed.
+- `Applies to forms`, `JMdict metadata`, `English glosses`, and `Ukrainian
+  glosses` remain present even when structurally empty, because a learner or
+  reconciliation tool must be able to tell "this sense has zero Ukrainian
+  glosses yet" from "this sense heading doesn't exist." `Applies to forms` is
+  the one exception within that group: it is omitted when both `Written
+  forms` and `Readings` are the unrestricted wildcard `- *` (§8.1), since that
+  is the overwhelmingly common case and carries no information.
 - Optional top-level `Pronunciation`, `Media`, and `Entry notes` headings may be
   omitted when they contain no data.
 - `STATUS: untranslated` is explicit workflow data and is not represented by an
@@ -698,6 +764,9 @@ Imported but not casually edited:
 
 - IDs, forms, readings, restrictions, JMdict metadata, English glosses,
   Russian reference, source indexes, and fingerprints.
+- Compact English-gloss and Russian-reference list items (§8.3, §8.5) are
+  imported data written in a terser surface syntax; they are exactly as
+  immutable by hand as the heading form they replace.
 
 Generated elsewhere:
 
@@ -760,7 +829,17 @@ A strict validator must reject:
 - unknown JMdict data that was discarded;
 - malformed locale codes, dates, hashes, MIME types, or asset paths;
 - `QUALITY_PROFILE: gold` when the entry or any Ukrainian gloss is not
-  `reviewed`.
+  `reviewed`;
+- a list subsection covered by the omit-when-empty rule (§15) that is present
+  but has no items — it must be omitted, not written empty;
+- a provenance property present in a block with the exact same value as the
+  file's matching `#+DEFAULT_*` keyword — it must be omitted from the block
+  and inherited instead;
+- a sense with `:LEARNER_PRIORITY: primary` that has fewer than three
+  examples, or whose examples do not include at least one `beginner` and one
+  `intermediate` (or `neutral`-plus-`intermediate`) `LEVEL` (§10). This rule
+  replaces the informal "three examples per common word" guidance with a
+  structural gate; senses without `LEARNER_PRIORITY` are not held to it.
 
 Validation should compare learner-content coverage with the declared profile.
 It must not warn that Core lacks examples or that Learner lacks audio. Content
@@ -794,14 +873,14 @@ current task, leave it unclaimed rather than publishing guessed glosses.
 
 ### 19.2 Learner
 
-Learner includes Core and adds practical help for the primary/common senses:
+Learner includes Core and adds practical help for senses marked
+`:LEARNER_PRIORITY: primary` (§8):
 
 - one short Ukrainian distinction or usage note where the gloss alone is not
   enough;
 - essential government, case, conjugation, register, or politeness guidance
   when relevant;
-- one or two independently authored examples with Japanese, reading, and
-  Ukrainian translation.
+- the graded example set §10 and §18 require on every `primary` sense.
 
 Do not add a note merely to satisfy the profile when the word is already clear.
 
