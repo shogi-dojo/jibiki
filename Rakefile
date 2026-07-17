@@ -8,14 +8,20 @@ RUBY = RbConfig.ruby
 ORG_LINT_EXPRESSION = <<~ELISP.lines.join(' ')
   (progn
     (require 'org)
-    (let ((issues (org-lint)))
-      (when issues
-        (prin1 issues)
-        (kill-emacs 1))))
+    (let ((failed nil))
+      (dolist (path command-line-args-left)
+        (with-current-buffer (find-file-noselect path)
+          (let ((issues (org-lint)))
+            (when issues
+              (princ (format "%s\\n" path))
+              (prin1 issues)
+              (princ "\\n")
+              (setq failed t)))))
+      (kill-emacs (if failed 1 0))))
 ELISP
 
 def lint_org_files(paths)
-  paths.each { |path| sh 'emacs', '--batch', path, '--eval', ORG_LINT_EXPRESSION }
+  sh 'emacs', '--batch', '--eval', ORG_LINT_EXPRESSION, *paths
 end
 
 namespace :sources do
@@ -47,6 +53,13 @@ namespace :sources do
     abort 'Provide an N5 source_order.' unless args[:source_order]
 
     sh RUBY, 'scripts/extract_word.rb', '--source-order', args[:source_order]
+  end
+
+  desc 'Create dossiers for a range of N5 rows in one pass: rake "sources:n5_batch[103,125]"'
+  task :n5_batch, %i[from to] do |_task, args|
+    abort 'Provide from and to N5 source_orders.' unless args[:from] && args[:to]
+
+    sh RUBY, 'scripts/extract_n5_batch.rb', '--from', args[:from], '--to', args[:to]
   end
 end
 

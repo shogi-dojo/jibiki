@@ -32,6 +32,34 @@ module DictionarySources
       end
     end
 
+    # Resolves many queries in a single pass over the archive. Takes an array
+    # of {written:, reading:, ent_seq:} hashes and returns an array of match
+    # arrays in the same order.
+    def lookup_many(queries)
+      queries = queries.map do |query|
+        {
+          written: normalize_query(query[:written]),
+          reading: normalize_query(query[:reading]),
+          ent_seq: query[:ent_seq]&.to_s
+        }
+      end
+      queries.each do |query|
+        raise ArgumentError, 'provide written, reading, or ent_seq' if query.values.all?(&:nil?)
+      end
+
+      results = Array.new(queries.length) { [] }
+      each_entry_xml do |xml|
+        candidates = queries.each_index.select { |i| candidate_xml?(xml, **queries[i]) }
+        next if candidates.empty?
+
+        entry = parse_entry(xml)
+        candidates.each do |i|
+          results[i] << entry if exact_match?(entry, **queries[i])
+        end
+      end
+      results
+    end
+
     def archive_sha256
       Digest::SHA256.file(path).hexdigest
     end

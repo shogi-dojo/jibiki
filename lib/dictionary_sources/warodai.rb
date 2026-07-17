@@ -27,6 +27,31 @@ module DictionarySources
       end
     end
 
+    # Resolves many queries in a single pass over the card files. Takes an
+    # array of {written:, reading:, card_id:} hashes and returns an array of
+    # match arrays in the same order.
+    def lookup_many(queries)
+      queries = queries.map do |query|
+        {
+          written: normalize_query(query[:written]),
+          reading: normalize_query(query[:reading]),
+          card_id: query[:card_id]&.to_s
+        }
+      end
+      queries.each do |query|
+        raise ArgumentError, 'provide written, reading, or card_id' if query.values.all?(&:nil?)
+      end
+
+      results = Array.new(queries.length) { [] }
+      candidate_paths(nil).each do |path|
+        entry = parse_file(path)
+        queries.each_with_index do |query, i|
+          results[i] << entry if matches?(entry, **query)
+        end
+      end
+      results
+    end
+
     def parse_file(path)
       content = File.binread(path).force_encoding(Encoding::UTF_8)
       raise ArgumentError, "invalid UTF-8 in #{path}" unless content.valid_encoding?
