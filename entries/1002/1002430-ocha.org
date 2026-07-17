@@ -1,0 +1,229 @@
+#+TITLE: お茶
+#+JMDICT_ID: 1002430
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: おちゃ
+#+ROMAJI: ocha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1002430-001
+:PROPERTIES:
+:TEXT: お茶
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Written form wf-1002430-002
+:PROPERTIES:
+:TEXT: 御茶
+:END:
+*** Information
+- sK
+*** Priorities
+** Reading rd-1002430-001
+:PROPERTIES:
+:TEXT: おちゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1002430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3651ba4d2dc6670162cc6f32a709edfbcbfd601e550e64e823a1e7feea2597ad
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+- pol
+*** Dialects
+*** Sense information
+*** Cross-references
+- 茶・1
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1002430-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tea (esp. green or barley)
+** Ukrainian glosses
+*** uk-s-1002430-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: чай
+- qualifier :: ввічливо; особливо зелений або ячмінний
+** Russian reference
+*** ru-ref-1002430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:END:
+- text :: (разг.) чай
+*** ru-ref-1002430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:END:
+- text :: (ср.) おちゃのこ
+** Learner notes
+*** note-s-1002430-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1002430-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 例
+- READING :: れい
+- UK :: Приклад.
+- EN :: Example.
+- FOCUS :: 例
+
+* Sense s-1002430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 36fd1c3b5cda363fbf748587b60c7142d7523ebff95a1b25b0669416d75e3d99
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1002430-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tea break
+*** en-s-1002430-002-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teatime
+** Ukrainian glosses
+*** uk-s-1002430-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: чаювання
+*** uk-s-1002430-002-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: перерва на чай
+
+* Sense s-1002430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d35ad19034f8ba1e87d706f700cbd1121856e95a79b75d8c75ed55044d4e4798
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+- 茶の湯
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1002430-003-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tea ceremony
+** Ukrainian glosses
+*** uk-s-1002430-003-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: чайна церемонія
