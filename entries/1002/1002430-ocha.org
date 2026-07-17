@@ -102,9 +102,9 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Загальна назва для чаю, найчастіше зеленого. Слово утворене від 茶 з додаванням ввічливого префікса お.
 - LEVEL :: beginner
-- REGISTER :: neutral
+- REGISTER :: polite
 ** Examples
 *** ex-1002430-001-001
 :PROPERTIES:
@@ -116,11 +116,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: お茶を飲みますか。
+- READING :: おちゃをのみますか。
+- UK :: Будете пити чай?
+- EN :: Will you drink tea?
+- FOCUS :: お茶を
+*** ex-1002430-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 温かいお茶をください。
+- READING :: あたたかいおちゃをください。
+- UK :: Дайте, будь ласка, гарячого чаю.
+- EN :: Please give me some hot tea.
+- FOCUS :: お茶を
+*** ex-1002430-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎日、朝ごはんの時にお茶を飲みます。
+- READING :: まいにち、あさごはんのときにおちゃをのみます。
+- UK :: Я щодня п'ю чай під час сніданку.
+- EN :: I drink tea during breakfast every day.
+- FOCUS :: お茶を
 
 * Sense s-1002430-002
 :PROPERTIES:
