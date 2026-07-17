@@ -1,10 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require 'zlib'
-require 'rexml/document'
-require 'json'
-require 'digest'
+require_relative '../lib/dictionary_sources/jmdict'
 
 REPO_ROOT = File.expand_path('..', __dir__)
 JMDICT_PATH = ENV.fetch(
@@ -13,124 +10,6 @@ JMDICT_PATH = ENV.fetch(
 )
 
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
-
-def parse_entities(jmdict_path)
-  entities = {}
-  Zlib::GzipReader.open(jmdict_path) do |gz|
-    gz.each_line.with_index do |line, idx|
-      break if idx > 2000
-      if line =~ /<!ENTITY\s+(\S+)\s+"([^"]+)"\s*>/
-        entities[$2] = $1
-      end
-    end
-  end
-  entities
-end
-
-def find_entry_xml(jmdict_path, ent_seq)
-  inside_entry = false
-  current_entry_lines = []
-
-  Zlib::GzipReader.open(jmdict_path) do |gz|
-    gz.each_line do |line|
-      if line.include?('<entry>')
-        inside_entry = true
-        current_entry_lines = [line]
-      elsif inside_entry
-        current_entry_lines << line
-        if line.include?('</entry>')
-          inside_entry = false
-          joined = current_entry_lines.join
-          if joined.include?("<ent_seq>#{ent_seq}</ent_seq>")
-            return joined
-          end
-        end
-      end
-    end
-  end
-  nil
-end
-
-def extract_element_texts(sense_el, tag, entities_map = nil)
-  elements = sense_el.get_elements(tag)
-  return [] if elements.empty?
-
-  elements.map do |el|
-    text = el.text || ''
-    if text =~ /^&(\S+);$/
-      $1
-    elsif entities_map
-      entities_map[text] || text
-    else
-      text
-    end
-  end
-end
-
-def compute_sense_fingerprint(ent_seq, sense_index, sense_el, entities_map)
-  # Fields: ent_seq, sense_index, stagk, stagr, pos, xref, ant, field, misc, s_inf, lsource, dial, gloss, example
-
-  stagk = extract_element_texts(sense_el, 'stagk')
-  stagr = extract_element_texts(sense_el, 'stagr')
-  pos = extract_element_texts(sense_el, 'pos', entities_map)
-  xref = extract_element_texts(sense_el, 'xref')
-  ant = extract_element_texts(sense_el, 'ant')
-  field = extract_element_texts(sense_el, 'field', entities_map)
-  misc = extract_element_texts(sense_el, 'misc', entities_map)
-  s_inf = extract_element_texts(sense_el, 's_inf')
-  dial = extract_element_texts(sense_el, 'dial', entities_map)
-
-  # lsource
-  lsource = sense_el.get_elements('lsource').map do |el|
-    {
-      'lang' => el.attribute('lang', 'xml')&.value || 'eng',
-      'type' => el.attribute('ls_type')&.value || 'full',
-      'wasei' => el.attribute('ls_wasei')&.value == 'y',
-      'text' => el.text || ''
-    }
-  end
-
-  # gloss
-  gloss = sense_el.get_elements('gloss').map do |el|
-    {
-      'lang' => el.attribute('lang', 'xml')&.value || 'eng',
-      'type' => el.attribute('g_type')&.value || 'plain',
-      'gender' => el.attribute('g_gend')&.value || 'none',
-      'primary' => false, # Default false
-      'text' => el.text || ''
-    }
-  end
-
-  # example
-  example = sense_el.get_elements('example').map do |el|
-    # Default placeholder structure if examples exist in JMdict
-    {
-      'db' => el.attribute('db')&.value || '',
-      'id' => el.attribute('id')&.value || '',
-      'text' => el.text || ''
-    }
-  end
-
-  data = {
-    'ent_seq' => ent_seq.to_s,
-    'sense_index' => sense_index.to_i,
-    'stagk' => stagk,
-    'stagr' => stagr,
-    'pos' => pos,
-    'xref' => xref,
-    'ant' => ant,
-    'field' => field,
-    'misc' => misc,
-    's_inf' => s_inf,
-    'lsource' => lsource,
-    'dial' => dial,
-    'gloss' => gloss,
-    'example' => example
-  }
-
-  json_str = JSON.generate(data)
-  Digest::SHA256.hexdigest(json_str)
-end
 
 def validate_entry(filepath)
   puts "Validating Org entry: #{filepath}"
@@ -297,18 +176,13 @@ def validate_entry(filepath)
   if senses.empty?
     errors << "No Sense headings found in file"
   else
-    puts "Parsing DTD and looking up entry #{ent_seq} in JMdict..."
-    entities_map = parse_entities(JMDICT_PATH)
-    entry_xml = find_entry_xml(JMDICT_PATH, ent_seq)
+    puts "Looking up entry #{ent_seq} in JMdict..."
+    source_entry = DictionarySources::Jmdict.new(JMDICT_PATH).lookup(ent_seq:).first
 
-    if entry_xml.nil?
+    if source_entry.nil?
       errors << "JMdict entry #{ent_seq} not found in #{JMDICT_PATH}"
     else
-      doc = REXML::Document.new(entry_xml)
-      all_xml_senses = doc.get_elements('//sense')
-
-      senses.each_with_index do |(s_id, props), idx|
-        sense_index = idx + 1
+      senses.each do |s_id, props|
         source_sense_index = props['SOURCE_SENSE_INDEX']&.to_i
 
         if source_sense_index.nil?
@@ -316,13 +190,13 @@ def validate_entry(filepath)
           next
         end
 
-        xml_sense_el = all_xml_senses[source_sense_index - 1]
-        if xml_sense_el.nil?
+        source_sense = source_entry[:senses][source_sense_index - 1]
+        if source_sense.nil?
           errors << "No XML sense at index #{source_sense_index} in JMdict entry"
           next
         end
 
-        expected_fp = compute_sense_fingerprint(ent_seq, sense_index, xml_sense_el, entities_map)
+        expected_fp = source_sense[:source_fingerprint]
         actual_fp = props['SOURCE_FINGERPRINT']
 
         if actual_fp != expected_fp
