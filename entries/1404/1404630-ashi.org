@@ -7,6 +7,7 @@
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
 
 * Forms
 ** Written form wf-1404630-001
@@ -98,12 +99,36 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: стопа
+*** uk-s-1404630-001-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: claude
+:TRANSLATED_AT: 2026-07-17
 :REVIEWER_ID:
 :REVIEWED_AT:
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: нога
+- text :: лапа
+- qualifier :: тварини
+*** uk-s-1404630-001-003
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: claude
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: щупальце
+- qualifier :: восьминога, кальмара
 ** Russian reference
 *** ru-ref-1404630-001
 :PROPERTIES:
@@ -154,7 +179,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Нога (від стопи до таза), стопа.
+- UK :: JMdict розрізняє 足 (стопа, лапа, щупальце — значення 1) і 脚/肢 (нога, вся нижня кінцівка — значення 2). У повсякденній мові 足 часто позначає всю ногу, тому в прикладах нижче 足 передано як «нога».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -240,23 +265,12 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: стопа
-*** uk-s-1404630-002-002
-:PROPERTIES:
-:STATUS: draft
-:TRANSLATOR_ID: antigravity
-:TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
-:SOURCE_TYPE: original
-:LICENSE: CC-BY-SA-4.0
-:END:
-- text :: лапа
+- text :: нога
 
 * Sense s-1404630-003
 :PROPERTIES:
@@ -346,13 +360,13 @@
 :STATUS: draft
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
-- text :: опора
-- qualifier :: меблів
+- text :: темп ходи
+- qualifier :: швидкість пересування
 
 * Sense s-1404630-005
 :PROPERTIES:

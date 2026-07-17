@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 279 |
+| `new` | 274 |
 | `changes-requested` | 0 |
-| `reviewed` | 4 |
-| `confirmed` | 8 |
+| `reviewed` | 6 |
+| `confirmed` | 11 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 283 |
+| Entry metadata still marked `draft` | 280 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -78,7 +78,13 @@ later agents do not mistake volume for completed bilingual review.
     22 "vomit" as *робити послугу*, 23 aux "for someone else" as *для себе*,
     25 humble aux as *вказує на крайній стан*); all corrected and sense 24
     completive gloss clarified.
-  Both entries are at `reviewed` and await independent bilingual confirmation.
+  - `明後日 / あさって (1584640)`: sense 2 ("wrong (e.g. direction)") had no
+    Ukrainian gloss; added *хибний* (idiomatic あさっての方を向く).
+  - `足 / あし (1404630)`: sense 1 (足, foot) was glossed *нога* (leg) and
+    sense 2 (脚, leg) was glossed *стопа* (foot) — foot/leg swapped; sense 4
+    ("pace") was glossed *опора меблів* (furniture leg). Corrected sense 1 to
+    *стопа* (+ *лапа*, *щупальце*), sense 2 to *нога*, sense 4 to *темп ходи*.
+  Entries above are at `reviewed` and await independent bilingual confirmation.
 
 ## Maintenance rules
 
@@ -106,11 +112,11 @@ later agents do not mistake volume for completed bilingual review.
 | 13 | [上げる](entries/1352/1352320-ageru.org) | あげる | ageru | 1352320 | learner | draft | **reviewed** | Independent bilingual confirmation |
 | 14 | [朝](entries/1428/1428280-asa.org) | あさ | asa | 1428280 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 15 | [朝ご飯](entries/1586/1586330-asagohan.org) | あさごはん | asagohan | 1586330 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
-| 16 | [明後日](entries/1584/1584640-asatte.org) | あさって | asatte | 1584640 | learner | draft | **new** | Editorial review |
-| 17 | [足](entries/1404/1404630-ashi.org) | あし | ashi | 1404630 | learner | draft | **new** | Editorial review |
-| 18 | [明日](entries/1584/1584660-ashita.org) | あした | ashita | 1584660 | learner | draft | **new** | Editorial review |
-| 19 | [彼処](entries/1000/1000320-asoko.org) | あそこ | asoko | 1000320 | learner | draft | **new** | Editorial review |
-| 20 | [遊ぶ](entries/1542/1542160-asobu.org) | あそぶ | asobu | 1542160 | learner | draft | **new** | Editorial review |
+| 16 | [明後日](entries/1584/1584640-asatte.org) | あさって | asatte | 1584640 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 17 | [足](entries/1404/1404630-ashi.org) | あし | ashi | 1404630 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 18 | [明日](entries/1584/1584660-ashita.org) | あした | ashita | 1584660 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 19 | [彼処](entries/1000/1000320-asoko.org) | あそこ | asoko | 1000320 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 20 | [遊ぶ](entries/1542/1542160-asobu.org) | あそぶ | asobu | 1542160 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 21–22 | [温かい](entries/1586/1586420-atatakai.org) | あたたかい | atatakai | 1586420 | learner | draft | **new** | Editorial review |
 | 23 | [頭](entries/1582/1582310-atama.org) | あたま | atama | 1582310 | learner | draft | **new** | Editorial review |
 | 24 | [新しい](entries/1361/1361490-atarashii.org) | あたらしい | atarashii | 1361490 | learner | draft | **new** | Editorial review |
