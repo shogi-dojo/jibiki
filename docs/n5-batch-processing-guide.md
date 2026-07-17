@@ -100,10 +100,12 @@ git add entries/yyyy/yyyyyyy-word2.org && git commit -m "feat: add word2 learner
 ```
 
 ## 6. Handoff state
-- Dictionary is at **131 entries**; the last completed batch covered source orders 116–136.
-- **Next batch starts at source order 137** (女). Extracts for orders 137–145 are already in `tmp/source-extracts/`.
-- Copy `scratch/gen_n5_part8.py` as the generator template (6-digit filename padding, correct for orders ≥100).
-- Note: orders 133/134 (下りる/降りる) both resolve to JMdict 1589500, which is already done — skip 134. Always dedupe new candidates against the `#+JMDICT_ID:` of existing entries before generating.
+- Dictionary is at **151 entries**; the last completed batch covered source orders 137–156.
+- **Next batch starts at source order 157**. Extracts for orders 157–170 are already in `tmp/source-extracts/`; extract further (e.g. `rake "sources:n5_batch[171,190]"`) to reach 20 unique words.
+- Copy `scratch/gen_n5_part9.py` as the generator template (6-digit filename padding, correct for orders ≥100).
+- Always dedupe new candidates against the `#+JMDICT_ID:` of existing entries before generating. Past collisions: orders 133/134 (下りる/降りる) share JMdict 1589500.
+- Two entries may share a romaji filename stem legitimately (e.g. 風 and 風邪 are both `kaze`); they differ by JMdict ID, so paths do not collide.
+- Sense counts vary wildly. 掛ける (1207610) has 25 senses and 掛かる (1207590) has 15, so a 20-word batch is not a fixed amount of work — size later batches by total senses, not word count.
 
 ## Reminders
 - Only refer to **JMdict** as authoritative. **Warodai** is for private reference only and its definitions should not be copied or heavily paraphrased.
