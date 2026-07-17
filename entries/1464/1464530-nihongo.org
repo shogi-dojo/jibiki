@@ -1,0 +1,287 @@
+#+TITLE: 日本語
+#+JMDICT_ID: 1464530
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: にほんご
+#+ROMAJI: nihongo
+#+ENTRY_STATUS: draft
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1464530-001
+:PROPERTIES:
+:TEXT: 日本語
+:END:
+*** Information
+*** Priorities
+- news1
+- nf02
+** Reading rd-1464530-001
+:PROPERTIES:
+:TEXT: にほんご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- news1
+- nf02
+** Reading rd-1464530-002
+:PROPERTIES:
+:TEXT: にっぽんご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+
+* Sense s-1464530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9c7f4aea316ee0c3625061345be9abc37fafcded9e57fadfd84ae4dd41a9d2ca
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1464530-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japanese (language)
+** Ukrainian glosses
+*** uk-s-1464530-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: японська мова
+- qualifier :: neutral
+** Russian reference
+*** ru-ref-1464530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:END:
+- text :: японский язык
+** Learner notes
+*** note-s-1464530-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Назва японської мови. Це іменник, тому в реченні після нього вживаються частки відповідно до ролі: 日本語は, 日本語を, 日本語で тощо.
+- LEVEL :: beginner
+- REGISTER :: neutral
+*** note-s-1464530-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: У конструкції 日本語で частка で позначає мову або засіб дії: «японською».
+- LEVEL :: beginner
+- REGISTER :: neutral
+*** note-s-1464530-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Читання にほんご є звичайним. Варіант にっぽんご існує, але JMdict не позначає його як пріоритетний.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Collocations
+*** col-s-1464530-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- JA :: 日本語を話す
+- READING :: にほんごをはなす
+- UK :: говорити японською
+- PATTERN :: 日本語を + verb
+- REGISTER :: neutral
+*** col-s-1464530-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- JA :: 日本語を勉強する
+- READING :: にほんごをべんきょうする
+- UK :: вивчати японську мову
+- PATTERN :: 日本語を + verb
+- REGISTER :: neutral
+*** col-s-1464530-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- JA :: 日本語で書く
+- READING :: にほんごでかく
+- UK :: писати японською
+- PATTERN :: 日本語で + verb
+- REGISTER :: neutral
+*** col-s-1464530-001-004
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- JA :: 自然な日本語
+- READING :: しぜんなにほんご
+- UK :: природна японська мова
+- PATTERN :: adjective + 日本語
+- REGISTER :: neutral
+** Constructions and derivatives
+*** con-s-1464530-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- RELATION :: derivative
+- TARGET :: 日本語学
+- TARGET_ID :: 2259010
+- READING :: にほんごがく
+- UK :: японське мовознавство
+** Related words
+*** rel-s-1464530-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- RELATION :: contrast
+- TARGET :: 国語
+- TARGET_ID :: 1286370
+- READING :: こくご
+- UK :: державна або національна мова
+- UK_CONTEXT :: у Японії — японська мова як шкільний предмет
+- NOTE :: 日本語 називає японську мову нейтрально, а 国語 часто подає її з внутрішньої японської перспективи або як навчальний предмет.
+** Idioms and proverbs
+** Examples
+*** ex-1464530-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本語を勉強しています。
+- READING :: にほんごをべんきょうしています。
+- ROMAJI :: Nihongo o benkyou shite imasu.
+- UK :: Я вивчаю японську мову.
+- EN :: I am studying Japanese.
+- FOCUS :: 日本語
+*** ex-1464530-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本語で話してもいいですか。
+- READING :: にほんごではなしてもいいですか。
+- ROMAJI :: Nihongo de hanashite mo ii desu ka.
+- UK :: Можна говорити японською?
+- EN :: May I speak in Japanese?
+- FOCUS :: 日本語で
+*** ex-1464530-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この説明は自然な日本語で書かれています。
+- READING :: このせつめいはしぜんなにほんごでかかれています。
+- ROMAJI :: Kono setsumei wa shizen na nihongo de kakarete imasu.
+- UK :: Це пояснення написано природною японською мовою.
+- EN :: This explanation is written in natural Japanese.
+- FOCUS :: 日本語で
+*** ex-1464530-001-004
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本語では、相手や場面に合わせて言葉遣いを変えることがあります。
+- READING :: にほんごではあいてやばめんにあわせてことばづかいをかえることがあります。
+- ROMAJI :: Nihongo de wa, aite ya bamen ni awasete kotobazukai o kaeru koto ga arimasu.
+- UK :: У японській мові добір слів іноді змінюють залежно від співрозмовника та ситуації.
+- EN :: In Japanese, word choice sometimes changes according to the listener and situation.
+- FOCUS :: 日本語では
+
+* Pronunciation
+
+* Media
+
+* Entry notes
+- Pitch accent and audio remain intentionally empty until a compatible source and asset-level licence are recorded.
+- The Bondarenko-Hino PDF privately corroborates the basic Ukrainian equivalent but is not a source for any published wording, example, or article structure.
