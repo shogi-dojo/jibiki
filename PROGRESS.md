@@ -16,12 +16,12 @@ Last reconciled with the entry tree: **2026-07-17** at entry commit
 | Canonical N5 entries | 290 |
 | N5 queue rows covered | 298 / 667 (44.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 264 |
+| `new` | 254 |
 | `changes-requested` | 0 |
-| `reviewed` | 7 |
-| `confirmed` | 20 |
+| `reviewed` | 9 |
+| `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 271 |
+| Entry metadata still marked `draft` | 263 |
 | Learner profile | 290 |
 | Enriched profile | 1 |
 
@@ -86,6 +86,11 @@ later agents do not mistake volume for completed bilingual review.
     *стопа* (+ *лапа*, *щупальце*), sense 2 to *нога*, sense 4 to *темп ходи*.
   - `熱い / あつい (1467720)`: sense 4 gloss *ентузіастичний* (non-standard
     calque for "enthusiastic") replaced with *запальний*.
+  - `浴びる / あびる (1547450)`: sense 2 gloss *засипати похвалою* ("to shower
+    someone with praise" — wrong valence; 浴びる is the receiver) replaced with
+    *отримувати похвалу*.
+  - `余り / あまり (1584930)`: example 1 UK translation *Отримати решту з решти*
+    (redundant/unclear) reworded to *Отримати залишок решти*.
   Entries above are at `reviewed` and await independent bilingual confirmation.
 
 ## Maintenance rules
@@ -129,16 +134,16 @@ later agents do not mistake volume for completed bilingual review.
 | 29 | [後](entries/1269/1269320-ato.org) | あと | ato | 1269320 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 30 | [貴方](entries/1223/1223615-anata.org) | あなた | anata | 1223615 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 31 | [兄](entries/1249/1249900-ani.org) | あに | ani | 1249900 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
-| 32 | [姉](entries/1307/1307630-ane.org) | あね | ane | 1307630 | learner | draft | **new** | Editorial review |
-| 33–34 | [彼の](entries/1000/1000420-ano.org) | あの | ano | 1000420 | learner | draft | **new** | Editorial review |
-| 35 | [アパート](entries/1017/1017760-apaato.org) | アパート | apaato | 1017760 | learner | draft | **new** | Editorial review |
-| 36 | [浴びる](entries/1547/1547450-abiru.org) | あびる | abiru | 1547450 | learner | draft | **new** | Editorial review |
-| 37 | [危ない](entries/1218/1218380-abunai.org) | あぶない | abunai | 1218380 | learner | draft | **new** | Editorial review |
-| 38 | [甘い](entries/1213/1213400-amai.org) | あまい | amai | 1213400 | learner | draft | **new** | Editorial review |
-| 39 | [余り](entries/1584/1584930-amari.org) | あまり | amari | 1584930 | learner | draft | **new** | Editorial review |
-| 40 | [雨](entries/1171/1171900-ame.org) | あめ | ame | 1171900 | learner | draft | **new** | Editorial review |
-| 41 | [飴](entries/1153/1153520-ame.org) | あめ | ame | 1153520 | learner | draft | **new** | Editorial review |
-| 42 | [洗う](entries/1390/1390930-arau.org) | あらう | arau | 1390930 | learner | draft | **new** | Editorial review |
+| 32 | [姉](entries/1307/1307630-ane.org) | あね | ane | 1307630 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 33–34 | [彼の](entries/1000/1000420-ano.org) | あの | ano | 1000420 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 35 | [アパート](entries/1017/1017760-apaato.org) | アパート | apaato | 1017760 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 36 | [浴びる](entries/1547/1547450-abiru.org) | あびる | abiru | 1547450 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 37 | [危ない](entries/1218/1218380-abunai.org) | あぶない | abunai | 1218380 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 38 | [甘い](entries/1213/1213400-amai.org) | あまい | amai | 1213400 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 39 | [余り](entries/1584/1584930-amari.org) | あまり | amari | 1584930 | learner | draft | **reviewed** | Independent bilingual confirmation |
+| 40 | [雨](entries/1171/1171900-ame.org) | あめ | ame | 1171900 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 41 | [飴](entries/1153/1153520-ame.org) | あめ | ame | 1153520 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
+| 42 | [洗う](entries/1390/1390930-arau.org) | あらう | arau | 1390930 | learner | reviewed | **confirmed** | Release-readiness audit for solid |
 | 43 | [有る](entries/1296/1296400-aru.org) | ある | aru | 1296400 | learner | draft | **new** | Editorial review |
 | 44 | [歩く](entries/1514/1514320-aruku.org) | あるく | aruku | 1514320 | learner | draft | **new** | Editorial review |
 | 45 | [彼](entries/1000/1000580-are.org) | あれ | are | 1000580 | learner | draft | **new** | Editorial review |

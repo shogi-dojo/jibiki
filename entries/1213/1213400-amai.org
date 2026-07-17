@@ -3,10 +3,11 @@
 #+SCHEMA_VERSION: 1
 #+PRIMARY_READING: あまい
 #+ROMAJI: amai
-#+ENTRY_STATUS: draft
+#+ENTRY_STATUS: reviewed
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
+#+UPDATED_AT: 2026-07-17
 
 * Forms
 ** Written form wf-1213400-001
@@ -87,11 +88,11 @@
 ** Ukrainian glosses
 *** uk-s-1213400-001-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -132,7 +133,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -147,7 +148,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
@@ -162,7 +163,7 @@
 :AUTHOR_ID: antigravity
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
-:STATUS: draft
+:STATUS: reviewed
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
@@ -212,11 +213,11 @@
 ** Ukrainian glosses
 *** uk-s-1213400-002-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -271,22 +272,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-003-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: прісний
 *** uk-s-1213400-003-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -356,22 +357,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-004-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: поблажливий
 *** uk-s-1213400-004-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -426,22 +427,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-005-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: наївний
 *** uk-s-1213400-005-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -487,22 +488,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-006-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: незавершений
 *** uk-s-1213400-006-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -564,22 +565,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-007-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: недостатній
 *** uk-s-1213400-007-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -617,11 +618,11 @@
 ** Ukrainian glosses
 *** uk-s-1213400-008-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
@@ -676,22 +677,22 @@
 ** Ukrainian glosses
 *** uk-s-1213400-009-001
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: спокусливий
 *** uk-s-1213400-009-002
 :PROPERTIES:
-:STATUS: draft
+:STATUS: reviewed
 :TRANSLATOR_ID: antigravity
 :TRANSLATED_AT: 2026-07-17
-:REVIEWER_ID:
-:REVIEWED_AT:
+:REVIEWER_ID: claude
+:REVIEWED_AT: 2026-07-17
 :SOURCE_TYPE: original
 :LICENSE: CC-BY-SA-4.0
 :END:
