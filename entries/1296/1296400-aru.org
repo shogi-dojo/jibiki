@@ -175,7 +175,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Бути, існувати, знаходитися. Використовується для неживих предметів та рослин.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -189,11 +189,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 机の上に本があります。
+- READING :: つくえのうえにほんがあります。
+- UK :: На столі є книга.
+- EN :: There is a book on the desk.
+- FOCUS :: あります
+*** ex-1296400-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金がありません。
+- READING :: おかねがありません。
+- UK :: У мене немає грошей.
+- EN :: I have no money.
+- FOCUS :: ありません
+*** ex-1296400-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明日、テストがあります。
+- READING :: あした、テストがあります。
+- UK :: Завтра буде тест.
+- EN :: I have a test tomorrow.
+- FOCUS :: あります
 
 * Sense s-1296400-002
 :PROPERTIES:
