@@ -114,7 +114,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Багато, численний. Використовується після іменника з часткою が (напр. 人が多い). Не ставиться безпосередньо перед іменником (не можна сказати 多い人).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -128,11 +128,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 今日は人が多いです。
+- READING :: きょうはひとがおおいです。
+- UK :: Сьогодні багато людей.
+- EN :: There are many people today.
+- FOCUS :: 多いです
+*** ex-1407460-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この町は車が多いです。
+- READING :: このまちわくるまがおおいです。
+- UK :: У цьому місті багато машин.
+- EN :: There are many cars in this town.
+- FOCUS :: 多いです
+*** ex-1407460-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 雨の日が多いです。
+- READING :: あめのひがおおいです。
+- UK :: Багато дощових днів.
+- EN :: There are many rainy days.
+- FOCUS :: 多いです
 
 * Sense s-1407460-002
 :PROPERTIES:
