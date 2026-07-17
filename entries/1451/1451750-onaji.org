@@ -193,7 +193,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Однаковий. Може використовуватися перед іменником без часток (напр. 同じ服), або як присудок (напр. 色が同じです).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -207,11 +207,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 同じ服を着ています。
+- READING :: おなじふくをきています。
+- UK :: Ми одягнені в однаковий одяг.
+- EN :: We are wearing the same clothes.
+- FOCUS :: 同じ
+*** ex-1451750-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 答えは同じです。
+- READING :: こたえはおなじです。
+- UK :: Відповідь однакова.
+- EN :: The answer is the same.
+- FOCUS :: 同じです
+*** ex-1451750-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 私は彼と同じクラスです。
+- READING :: わたしはかれとおなじクラスです。
+- UK :: Я з ним в одному класі.
+- EN :: I am in the same class as him.
+- FOCUS :: 同じ
 
 * Sense s-1451750-002
 :PROPERTIES:

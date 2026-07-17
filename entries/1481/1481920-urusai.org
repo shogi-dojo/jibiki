@@ -151,7 +151,7 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Гучний, галасливий. Також використовується в значенні "набридливий", коли шум заважає.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -165,11 +165,41 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 外がうるさいです。
+- READING :: そとがうるさいです。
+- UK :: Надворі галасливо.
+- EN :: It's noisy outside.
+- FOCUS :: うるさいです
+*** ex-1481920-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工事の音がうるさい。
+- READING :: こうじのおとがうるさい。
+- UK :: Шум від будівництва дуже гучний (набридливий).
+- EN :: The construction noise is loud.
+- FOCUS :: うるさい
+*** ex-1481920-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: antigravity
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: うるさいから静かにして。
+- READING :: うるさいからしずかにして。
+- UK :: Галасливо, тому будьте тихо.
+- EN :: It's noisy, so please be quiet.
+- FOCUS :: うるさい
 
 * Sense s-1481920-002
 :PROPERTIES:
