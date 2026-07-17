@@ -139,13 +139,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Значення «вітер» пишеться 風. Для «застуди» стандартне написання — 風邪; 風 у цьому значенні JMdict позначає як нестандартне.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1499720-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -153,11 +155,45 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 今日は風が強いです。
+- READING :: きょうはかぜがつよいです。
+- UK :: Сьогодні сильний вітер.
+- EN :: The wind is strong today.
+- FOCUS :: 風が
+*** ex-1499720-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 窓を開けると、涼しい風が入ってきました。
+- READING :: まどをあけると、すずしいかぜがはいってきました。
+- UK :: Коли я відчинив вікно, увійшов прохолодний вітерець.
+- EN :: When I opened the window, a cool breeze came in.
+- FOCUS :: 風が
+*** ex-1499720-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 春になると、暖かい風が南から吹いてきます。
+- READING :: はるになると、あたたかいかぜがみなみからふいてきます。
+- UK :: Коли настає весна, теплий вітер починає дути з півдня.
+- EN :: When spring comes, a warm wind blows from the south.
+- FOCUS :: 風が
 
 * Sense s-1499720-002
 :PROPERTIES:
