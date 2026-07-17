@@ -1,0 +1,222 @@
+#+TITLE: 痛い
+#+JMDICT_ID: 1432680
+#+SCHEMA_VERSION: 1
+#+PRIMARY_READING: いたい
+#+ROMAJI: itai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-17
+
+* Forms
+** Written form wf-1432680-001
+:PROPERTIES:
+:TEXT: 痛い
+:END:
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Written form wf-1432680-002
+:PROPERTIES:
+:TEXT: 甚い
+:END:
+*** Information
+- rK
+*** Priorities
+** Reading rd-1432680-001
+:PROPERTIES:
+:TEXT: いたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Reading rd-1432680-002
+:PROPERTIES:
+:TEXT: イタイ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+*** Priorities
+** Reading rd-1432680-003
+:PROPERTIES:
+:TEXT: イタい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+*** Priorities
+
+* Sense s-1432680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d5cf3ad5beb67312d68eddc15f50ed89ba1230feb270e35289d6310e7a577015
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Fields
+*** Miscellaneous and register
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1432680-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: painful
+*** en-s-1432680-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sore
+** Ukrainian glosses
+*** uk-s-1432680-001-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: болючий
+*** uk-s-1432680-001-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: що болить
+** Russian reference
+*** ru-ref-1432680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:END:
+- text :: 1) больно, болит
+*** ru-ref-1432680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:END:
+- text :: 2) болезненный, чувствительный
+** Learner notes
+*** note-s-1432680-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1432680-001-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 例
+- READING :: れい
+- UK :: Приклад.
+- EN :: Example.
+- FOCUS :: 例
+
+* Sense s-1432680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d35505767c93d0ab81cf52854b6ccdea7802daab83165c22f9f038ebc1957c63
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Fields
+*** Miscellaneous and register
+- col
+*** Dialects
+*** Sense information
+*** Cross-references
+*** Antonyms
+*** Language sources
+** English glosses
+*** en-s-1432680-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cringy
+*** en-s-1432680-002-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: embarrassing
+** Ukrainian glosses
+*** uk-s-1432680-002-001
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: кринжовий
+- qualifier :: розмовне
+*** uk-s-1432680-002-002
+:PROPERTIES:
+:STATUS: draft
+:TRANSLATOR_ID: codex-agent-11
+:TRANSLATED_AT: 2026-07-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:SOURCE_TYPE: original
+:LICENSE: CC-BY-SA-4.0
+:END:
+- text :: що змушує ніяковіти
