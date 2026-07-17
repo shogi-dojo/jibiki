@@ -116,13 +116,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Перехідне дієслово: те, що пишуть, позначається часткою を. Для значення «малювати» звичніше написання 描く, а 書く залишають для тексту та знаків.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1343950-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -130,11 +132,45 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 名前をここに書いてください。
+- READING :: なまえをここにかいてください。
+- UK :: Напишіть, будь ласка, своє ім'я тут.
+- EN :: Please write your name here.
+- FOCUS :: 書いて
+*** ex-1343950-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎晩、日記を書きます。
+- READING :: まいばん、にっきをかきます。
+- UK :: Щовечора я пишу щоденник.
+- EN :: I write in my diary every night.
+- FOCUS :: 書きます
+*** ex-1343950-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 友だちに手紙を書こうと思っていますが、まだ書いていません。
+- READING :: ともだちにてがみをかこうとおもっていますが、まだかいていません。
+- UK :: Я збираюся написати листа другові, але ще не написав.
+- EN :: I am thinking of writing a letter to my friend, but I haven't written it yet.
+- FOCUS :: 書こう
 
 * Sense s-1343950-002
 :PROPERTIES:
@@ -187,3 +223,21 @@
 :LICENSE: CC-BY-SA-4.0
 :END:
 - text :: малювати
+** Examples
+*** ex-1343950-002-001
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもが紙に絵を書いています。
+- READING :: こどもがかみにえをかいています。
+- UK :: Дитина малює на папері.
+- EN :: A child is drawing a picture on paper.
+- FOCUS :: 書いて
