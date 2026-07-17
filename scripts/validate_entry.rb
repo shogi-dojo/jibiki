@@ -11,6 +11,31 @@ JMDICT_PATH = ENV.fetch(
 
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
+# Reading the gzipped archive dominates runtime, so keep one reader and one
+# cache per process: validating N entries must not mean N full archive scans.
+def jmdict
+  @jmdict ||= DictionarySources::Jmdict.new(JMDICT_PATH)
+end
+
+def jmdict_entry(ent_seq)
+  @jmdict_entries ||= {}
+  @jmdict_entries.fetch(ent_seq) do
+    @jmdict_entries[ent_seq] = jmdict.lookup(ent_seq:).first
+  end
+end
+
+# Prime the cache for many entries in a single archive pass.
+def preload_jmdict_entries(ent_seqs)
+  ent_seqs = ent_seqs.compact.uniq
+  return if ent_seqs.length < 2
+
+  @jmdict_entries ||= {}
+  queries = ent_seqs.map { |seq| { ent_seq: seq } }
+  jmdict.lookup_many(queries).each_with_index do |matches, index|
+    @jmdict_entries[ent_seqs[index]] = matches.first
+  end
+end
+
 def validate_entry(filepath)
   puts "Validating Org entry: #{filepath}"
   errors = []
@@ -177,7 +202,7 @@ def validate_entry(filepath)
     errors << "No Sense headings found in file"
   else
     puts "Looking up entry #{ent_seq} in JMdict..."
-    source_entry = DictionarySources::Jmdict.new(JMDICT_PATH).lookup(ent_seq:).first
+    source_entry = jmdict_entry(ent_seq)
 
     if source_entry.nil?
       errors << "JMdict entry #{ent_seq} not found in #{JMDICT_PATH}"
@@ -211,17 +236,27 @@ end
 
 if __FILE__ == $PROGRAM_NAME
   if ARGV.empty?
-    puts "Usage: ruby validate_entry.rb <path_to_org_file>"
+    puts "Usage: ruby validate_entry.rb <path_to_org_file> [<path_to_org_file> ...]"
     exit 1
   end
 
-  errors = validate_entry(ARGV[0])
-  if errors.empty?
-    puts "Validation PASSED successfully!"
-    exit 0
-  else
-    puts "Validation FAILED with #{errors.length} errors:"
-    errors.each { |err| puts "- #{err}" }
-    exit 2
+  preload_jmdict_entries(ARGV.filter_map do |path|
+    next unless File.exist?(path)
+
+    File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
+  end)
+
+  failed = false
+  ARGV.each do |path|
+    errors = validate_entry(path)
+    if errors.empty?
+      puts "Validation PASSED successfully!"
+    else
+      puts "Validation FAILED with #{errors.length} errors:"
+      errors.each { |err| puts "- #{err}" }
+      failed = true
+    end
   end
+
+  exit(failed ? 2 : 0)
 end
