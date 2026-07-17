@@ -8,25 +8,43 @@ the automated JMdict and Org checks.
 Last reconciled with the entry tree: **2026-07-17** at entry commit
 `5b32241`.
 
+## Schema flag day (2026-07-17)
+
+All 291 entries were mechanically migrated from schema v1 to schema v2 in
+commit `2b8d5cc` (`scripts/migrate_schema_v2.rb`, with a built-in
+before/after content-preservation check — zero content loss across all 291
+files). Schema v2 (`docs/org-format.md`) adds omit-when-empty list
+subsections, file-level provenance defaults (`#+DEFAULT_*`), compact English
+gloss / Russian reference syntax, and a sense-level `:LEARNER_PRIORITY:
+primary` property with a structural 3-graded-example validator requirement
+(`9fd4201`). Total `entries/` line count dropped from 96,518 to 55,334
+(~43%); a typical entry is now roughly a third of its former size (e.g.
+音楽/ongaku 156→108 lines). The new canonical generator is
+`scripts/scaffold_entry.rb` (`rake "entries:scaffold[order,romaji]"`),
+replacing the old `scratch/gen_n5_part*.py` one-off scripts. Migration
+surfaced 11 entries (the `codex-agent-N` batch) whose `LEARNER_PRIORITY`
+sense now fails the new example-count gate — tracked in
+`notes/handoffs/n5-placeholder-examples.md`, not a migration regression.
+
 ## Snapshot
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 291 |
-| Canonical N5 entries | 290 |
-| N5 queue rows covered | 298 / 667 (44.7%) |
+| Canonical entry files | 292 |
+| Canonical N5 entries | 291 |
+| N5 queue rows covered | 299 / 667 (44.8%) |
 | Extra seed entries | 1 (`日本語`) |
 | `new` | 254 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 263 |
-| Learner profile | 290 |
+| Entry metadata still marked `draft` | 264 |
+| Learner profile | 291 |
 | Enriched profile | 1 |
 
-Queue rows 1–298 are represented without gaps. Eight queue aliases collapse
-into existing JMdict entries, which is why 298 queue rows produce 290 canonical
+Queue rows 1–299 are represented without gaps. Eight queue aliases collapse
+into existing JMdict entries, which is why 299 queue rows produce 291 canonical
 N5 entry files. The seed entry `日本語` is outside the N5 queue.
 
 ## Maturity workflow
@@ -397,5 +415,6 @@ later agents do not mistake volume for completed bilingual review.
 | 296 | [字引](entries/1315/1315140-jibiki.org) | じびき | jibiki | 1315140 | learner | draft | **new** | Editorial review |
 | 297 | [自分](entries/1318/1318610-jibun.org) | じぶん | jibun | 1318610 | learner | draft | **new** | Editorial review |
 | 298 | [じゃあ](entries/1005/1005900-jaa.org) | じゃあ | jaa | 1005900 | learner | draft | **new** | Editorial review |
+| 299 | [十](entries/1579/1579840-juu.org) | じゅう | juu | 1579840 | learner | draft | **new** | Editorial review |
 | seed | [日本語](entries/1464/1464530-nihongo.org) | にほんご | nihongo | 1464530 | enriched | draft | **new** | Editorial review |
 
