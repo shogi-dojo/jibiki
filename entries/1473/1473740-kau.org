@@ -117,13 +117,15 @@
 :CREATED_AT: 2026-07-17
 :STATUS: draft
 :END:
-- UK :: Basic word.
+- UK :: Перехідне дієслово: куплене позначається часткою を. Крім прямого «купувати», має переносні значення — «високо цінувати» (努力を買う) і «накликати» щось небажане (怒りを買う).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
 *** ex-1473740-001-001
 :PROPERTIES:
 :SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
 :AUTHOR_ID: codex-agent-11
 :LICENSE: CC-BY-SA-4.0
 :CREATED_AT: 2026-07-17
@@ -131,11 +133,45 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 例
-- READING :: れい
-- UK :: Приклад.
-- EN :: Example.
-- FOCUS :: 例
+- JA :: 駅の前でパンを買いました。
+- READING :: えきのまえでパンをかいました。
+- UK :: Я купив хліб перед станцією.
+- EN :: I bought bread in front of the station.
+- FOCUS :: 買いました
+*** ex-1473740-001-002
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい傘を買いたいです。
+- READING :: あたらしいかさをかいたいです。
+- UK :: Я хочу купити нову парасольку.
+- EN :: I want to buy a new umbrella.
+- FOCUS :: 買いたい
+*** ex-1473740-001-003
+:PROPERTIES:
+:SOURCE_TYPE: original
+:SOURCE_ID:
+:SOURCE_URL:
+:AUTHOR_ID: codex-agent-11
+:LICENSE: CC-BY-SA-4.0
+:CREATED_AT: 2026-07-17
+:STATUS: draft
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 安いからといって、要らない物を買ってはいけません。
+- READING :: やすいからといって、いらないものをかってはいけません。
+- UK :: Не варто купувати непотрібні речі лише тому, що вони дешеві.
+- EN :: You shouldn't buy things you don't need just because they are cheap.
+- FOCUS :: 買って
 
 * Sense s-1473740-002
 :PROPERTIES:
