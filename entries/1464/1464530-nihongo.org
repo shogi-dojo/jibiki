@@ -279,9 +279,53 @@
 - FOCUS :: 日本語では
 
 * Pronunciation
+** Accent accent-rd-1464530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1464530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-07-17
+:END:
+- reading :: にほんご
+- explanation-uk :: Хейбан: після першої мори висота піднімається й у самому слові не падає; з часткою が буде にほんごが без лексичного падіння після ご.
 
 * Media
+** Audio audio-rd-1464530-001-001
+:PROPERTIES:
+:TARGET_TYPE: reading
+:TARGET_ID: rd-1464530-001
+:SOURCE_ID: generated-open-jtalk
+:SOURCE_URL: https://open-jtalk.sourceforge.net/
+:FILE: assets/audio/open-jtalk/1464530-nihongo-rd-001.ogg
+:MIME: audio/ogg; codecs=opus
+:LICENSE: CC-BY-3.0
+:SPEAKER_ID: nitech-jp-atr503-m001
+:SPEAKER_REGION: Tokyo
+:RECORDING_TYPE: tts
+:ENGINE: Open JTalk
+:ENGINE_VERSION: 1.11
+:VOICE_MODEL: nitech_jp_atr503_m001.htsvoice
+:VOICE_VERSION: 1.05
+:GENERATION_INPUT: にほんご
+:GENERATED_AT: 2026-07-17
+:DISTRIBUTION_TERMS_URL: https://open-jtalk.sourceforge.net/
+:CREDIT: Generated with Open JTalk using the NIT ATR503 M001 HTS voice.
+:STATUS: draft
+:VERIFIED_AT: 2026-07-17
+:END:
+- text :: 日本語
+- reading :: にほんご
+- learner-note-uk :: Це синтезований зразок для тренування вимови; читання та акцент перевіряйте за полями вище, а не визначайте з TTS.
 
 * Entry notes
-- Pitch accent and audio remain intentionally empty until a compatible source and asset-level licence are recorded.
+- Pitch accent is imported from the pinned Kanjium dataset; the audio is a draft TTS aid awaiting human listening review.
 - The Bondarenko-Hino PDF privately corroborates the basic Ukrainian equivalent but is not a source for any published wording, example, or article structure.
