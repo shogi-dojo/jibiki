@@ -1,0 +1,195 @@
+#+TITLE: 吸う
+#+JMDICT_ID: 1228260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すう
+#+ROMAJI: suu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1228260-001
+:PROPERTIES:
+:TEXT: 吸う
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf34
+** Written form wf-1228260-002
+:PROPERTIES:
+:TEXT: 喫う
+:END:
+*** Information
+- rK
+** Reading rd-1228260-001
+:PROPERTIES:
+:TEXT: すう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf34
+
+* Sense s-1228260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8c6883cce6bc7b467e515bc043bc07db0971e6c5fc03950315fee7de10889c90
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to breathe in
+- to inhale
+- to smoke (a cigarette, etc.)
+** Ukrainian glosses
+*** uk-s-1228260-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вдихати
+*** uk-s-1228260-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: палити
+- qualifier :: цигарки
+** Learner notes
+*** note-s-1228260-001-001
+:PROPERTIES:
+:END:
+- UK :: Вдихати (повітря), палити (тютюн), всмоктувати.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1228260-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この部屋でタバコを吸ってもいいですか。
+- READING :: このへやでたばこをすってもいいですか。
+- ROMAJI :: Kono heya de tabako o sutte mo ii desu ka.
+- UK :: Можна палити в цій кімнаті?
+- EN :: May I smoke in this room?
+- FOCUS :: 吸っても
+*** ex-1228260-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 深く息を吸って、ゆっくり吐いてください。
+- READING :: ふかくいきをすって、ゆっくりはいてください。
+- ROMAJI :: Fukaku iki o sutte, yukkuri haite kudasai.
+- UK :: Глибоко вдихніть і повільно видихніть.
+- EN :: Take a deep breath and exhale slowly.
+- FOCUS :: 吸って
+*** ex-1228260-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 掃除機が壊れてしまい、細かいゴミをうまく吸えなくなってしまった。
+- READING :: そうじきがこわれてしまい、こまかいごみをうまくすえなくなってしまった。
+- ROMAJI :: Soujiki ga kowarete shimai, komakai gomi o umaku suenaku natte shimatta.
+- UK :: Пилосос зламався і більше не може добре всмоктувати дрібне сміття.
+- EN :: The vacuum cleaner broke and can no longer suck up fine dust well.
+- FOCUS :: 吸えなく
+
+* Sense s-1228260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 23161c2d86a666c54cabc863a5ff2d332d2d655ca5e4f69bae6e67f03db86081
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to suck
+- to sip
+- to slurp
+** Ukrainian glosses
+*** uk-s-1228260-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: всмоктувати
+*** uk-s-1228260-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сьорбати
+
+* Sense s-1228260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7f257e8eb62768ca6817766a7de18d8d13193fd4d31c9041fbf32fa766645436
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to absorb
+- to soak up
+** Ukrainian glosses
+*** uk-s-1228260-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вбирати
+- qualifier :: вологу
+
+* Sense s-1228260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fa3180b2e6d215a0f407efbb942b450d469ab3cf4530837fd6c079d7ab339075
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to kiss
+** Ukrainian glosses
+*** uk-s-1228260-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: цілувати
