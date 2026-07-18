@@ -1,0 +1,255 @@
+#+TITLE: 話
+#+JMDICT_ID: 1600900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はなし
+#+ROMAJI: hanashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1600900-001
+:PROPERTIES:
+:TEXT: 話
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1600900-002
+:PROPERTIES:
+:TEXT: 話し
+:END:
+*** Information
+- io
+** Written form wf-1600900-003
+:PROPERTIES:
+:TEXT: 咄
+:END:
+*** Information
+- rK
+** Written form wf-1600900-004
+:PROPERTIES:
+:TEXT: 噺
+:END:
+*** Information
+- rK
+** Reading rd-1600900-001
+:PROPERTIES:
+:TEXT: はなし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1600900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d9f737dc4fcc937b63893f1d59ec23e1a515294782eff1eb8ab34e61352fd244
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 話
+- 話し
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- talk
+- speech
+- chat
+- conversation
+** Ukrainian glosses
+*** uk-s-1600900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розмова
+** Learner notes
+*** note-s-1600900-001-001
+:PROPERTIES:
+:END:
+- UK :: 話 — це іменник, утворений від дієслова 話す (hanasu - розмовляти). Він може означати як саму бесіду, так і розповідь або історію.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1600900-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Sensei no hanashi o yoku kiite kudasai.
+:END:
+- JA :: 先生の話をよく聞いてください。
+- READING :: せんせい の はなし を よく きいて ください。
+- ROMAJI :: Sensei no hanashi o yoku kiite kudasai.
+- UK :: Будь ласка, уважно слухайте те, що каже вчитель.
+- EN :: Please listen carefully to what the teacher says.
+- FOCUS :: 話
+*** ex-1600900-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Kore wa, Nihon no furui o-hanashi desu.
+:END:
+- JA :: これは、日本の古いお話です。
+- READING :: これ は、 にほん の ふるい おはなし です。
+- ROMAJI :: Kore wa, Nihon no furui o-hanashi desu.
+- UK :: Це стара японська казка (історія).
+- EN :: This is an old Japanese story.
+- FOCUS :: お話
+*** ex-1600900-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Kare to no hanashi wa itsumo omoshirokute, atto iu ma ni jikan ga sugite shimau.
+:END:
+- JA :: 彼との話はいつも面白くて、あっという間に時間が過ぎてしまう。
+- READING :: かれ と の はなし は いつも おもしろくて、 あっというま に じかん が すぎて しまう。
+- ROMAJI :: Kare to no hanashi wa itsumo omoshirokute, atto iu ma ni jikan ga sugite shimau.
+- UK :: Розмови з ним завжди цікаві, тому час пролітає непомітно.
+- EN :: Conversations with him are always interesting, so time flies by in the blink of an eye.
+- FOCUS :: 話
+
+* Sense s-1600900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1f615731c085923bc8816a0f0367f2cb5cc58c75036fefd28fb418b77c75c96b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- topic
+- subject
+** Ukrainian glosses
+*** uk-s-1600900-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: тема
+
+* Sense s-1600900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d7127b1bc8af2f946358fa0e5d1448bd7354633887cc26ff4830428b35bdea8
+:END:
+** Applies to forms
+*** Written forms
+- 話
+- 話し
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- discussions
+- negotiation
+- argument
+** Ukrainian glosses
+*** uk-s-1600900-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обговорення
+
+* Sense s-1600900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: adf3be216a72bd0b6e33d362d4abdb26bb00f11fa6a6fd941783795055b34acf
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rumor
+- talk
+- hearsay
+** Ukrainian glosses
+*** uk-s-1600900-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чутки
+
+* Sense s-1600900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 208fc55b644c25e7f19440a4f1fb81aff295d310db2fb3701dd5ad3dfd07e620
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tale
+- story
+- fable
+** Ukrainian glosses
+*** uk-s-1600900-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: історія
+*** uk-s-1600900-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розповідь
+
+* Sense s-1600900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2ce5050e01439576b34c68fa26d7d3ba37bcd351bc8db3cff863eb6314b38807
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- circumstances
+- particulars
+** Ukrainian glosses
+*** uk-s-1600900-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обставини
+

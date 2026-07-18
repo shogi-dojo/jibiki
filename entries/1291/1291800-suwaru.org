@@ -1,0 +1,156 @@
+#+TITLE: 座る
+#+JMDICT_ID: 1291800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すわる
+#+ROMAJI: suwaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291800-001
+:PROPERTIES:
+:TEXT: 座る
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf25
+** Written form wf-1291800-002
+:PROPERTIES:
+:TEXT: 坐る
+:END:
+*** Information
+- rK
+** Written form wf-1291800-003
+:PROPERTIES:
+:TEXT: 座わる
+:END:
+*** Information
+- sK
+** Written form wf-1291800-004
+:PROPERTIES:
+:TEXT: 坐わる
+:END:
+*** Information
+- sK
+** Reading rd-1291800-001
+:PROPERTIES:
+:TEXT: すわる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf25
+
+* Sense s-1291800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d07cd750016b42dd400ed37ac98a0e16c19bd15cd48b09c630e893d9a5993dfd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to sit (down)
+- to have a seat
+- to be seated
+- to kneel (on the floor)
+** Ukrainian glosses
+*** uk-s-1291800-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сидіти
+*** uk-s-1291800-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сідати
+** Learner notes
+*** note-s-1291800-001-001
+:PROPERTIES:
+:END:
+- UK :: Сідати, сидіти. Для вказівки на місце, куди сідають, використовується частка に: 椅子に座る (сідати на стілець).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1291800-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ここに座ってもいいですか。
+- READING :: ここにすわってもいいですか。
+- ROMAJI :: Koko ni suwatte mo ii desu ka.
+- UK :: Можна мені сісти тут?
+- EN :: May I sit here?
+- FOCUS :: 座って
+*** ex-1291800-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電車の中では座ることができませんでした。
+- READING :: でんしゃのなかではすわることができませんでした。
+- ROMAJI :: Densha no naka de wa suwaru koto ga dekimasen deshita.
+- UK :: У потязі я не зміг сісти.
+- EN :: I couldn't sit down in the train.
+- FOCUS :: 座る
+*** ex-1291800-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会議が始まるまで、あちらの椅子に座ってお待ちください。
+- READING :: かいぎがはじまるまで、あちらのいすにすわっておまちください。
+- ROMAJI :: Kaigi ga hajimaru made, achira no isu ni suwatte omachi kudasai.
+- UK :: Будь ласка, сядьте на той стілець і зачекайте, поки почнеться нарада.
+- EN :: Please sit on that chair over there and wait until the meeting begins.
+- FOCUS :: 座って
+
+* Sense s-1291800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 05eacc000b3ef729960ab66e1d24752f5b5518b67fa9c8ef071f5714b94b290d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to assume (a position)
+- to take on (a duty)
+- to occupy (a post)
+** Ukrainian glosses
+*** uk-s-1291800-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: займати
+- qualifier :: посаду

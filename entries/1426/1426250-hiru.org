@@ -1,0 +1,185 @@
+#+TITLE: 昼
+#+JMDICT_ID: 1426250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひる
+#+ROMAJI: hiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1426250-001
+:PROPERTIES:
+:TEXT: 昼
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Written form wf-1426250-002
+:PROPERTIES:
+:TEXT: 午
+:END:
+** Written form wf-1426250-003
+:PROPERTIES:
+:TEXT: 晝
+:END:
+*** Information
+- oK
+** Reading rd-1426250-001
+:PROPERTIES:
+:TEXT: ひる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1426250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04a6218420f88e2f88ebc3559397fa6d83f4ba5a2073550f7d4806c8844ff724
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- お昼・2
+** English glosses
+- noon
+- midday
+** Ukrainian glosses
+*** uk-s-1426250-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: полудень
+*** uk-s-1426250-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обідній час
+** Learner notes
+*** note-s-1426250-001-001
+:PROPERTIES:
+:END:
+- UK :: «昼» (hiru) означає «день» (світла частина доби) або «полудень». Його також часто використовують для позначення обіду.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1426250-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Hiru kara ame ga furu sō desu.
+:END:
+- JA :: 昼から雨が降るそうです。
+- READING :: ひる から あめ が ふる そうです。
+- ROMAJI :: Hiru kara ame ga furu sō desu.
+- UK :: Кажуть, що з полудня піде дощ.
+- EN :: They say it will rain from noon.
+- FOCUS :: 昼 (hiru)
+*** ex-1426250-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Hiru wa totemo atsui desu.
+:END:
+- JA :: 昼はとても暑いです。
+- READING :: ひる は とても あついです。
+- ROMAJI :: Hiru wa totemo atsui desu.
+- UK :: Вдень дуже спекотно.
+- EN :: It is very hot during the day.
+- FOCUS :: 昼 (hiru)
+*** ex-1426250-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Shigoto ga isogashikute, hiru o taberu jikan ga arimasen deshita.
+:END:
+- JA :: 仕事が忙しくて、昼を食べる時間がありませんでした。
+- READING :: しごと が いそがしくて、 ひる を たべる じかん が ありません でした。
+- ROMAJI :: Shigoto ga isogashikute, hiru o taberu jikan ga arimasen deshita.
+- UK :: Через зайнятість на роботі я не мав часу пообідати.
+- EN :: Because I was busy with work, I didn't have time to eat lunch.
+- FOCUS :: 昼 (hiru)
+
+* Sense s-1426250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 23cbeb399f58691f290d0b815e0e4cb10b297017ed24d402a0c1d2aa78095ea2
+:END:
+** Applies to forms
+*** Written forms
+- 昼
+- 晝
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+*** Cross-references
+- お昼・3
+** English glosses
+- daytime
+** Ukrainian glosses
+*** uk-s-1426250-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: день
+- qualifier :: світла частина доби
+
+* Sense s-1426250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 68894821988bb60a17d64a5f244083e1042bf21eb87acfbeb61ebaec4dfd9645
+:END:
+** Applies to forms
+*** Written forms
+- 昼
+- 晝
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- お昼・1
+** English glosses
+- lunch
+** Ukrainian glosses
+*** uk-s-1426250-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обід
+

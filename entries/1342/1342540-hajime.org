@@ -1,0 +1,185 @@
+#+TITLE: 始め
+#+JMDICT_ID: 1342540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はじめ
+#+ROMAJI: hajime
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1342540-001
+:PROPERTIES:
+:TEXT: 始め
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf17
+** Written form wf-1342540-002
+:PROPERTIES:
+:TEXT: 初め
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1342540-001
+:PROPERTIES:
+:TEXT: はじめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf17
+
+* Sense s-1342540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eea382818c140c88c95acbf8cdbc30d401d130bd8cfce3e5b77a7ceaa3e09ee7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- beginning
+- start
+- outset
+- opening
+** Ukrainian glosses
+*** uk-s-1342540-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: початок
+** Learner notes
+*** note-s-1342540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник 始め позначає початок дії або періоду. Не плутайте його з 初め (також читається "hajime"), яке частіше вказує на початок за часом, хоча часто вони взаємозамінні.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1342540-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Hon o hajime kara yominaoshimashita.
+:END:
+- JA :: 本を始めから読み直しました。
+- READING :: ほん を はじめ から よみなおしました。
+- ROMAJI :: Hon o hajime kara yominaoshimashita.
+- UK :: Я перечитав книгу від самого початку.
+- EN :: I reread the book from the beginning.
+- FOCUS :: 始め
+*** ex-1342540-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Natsuyasumi no hajime ni umi e ikitai desu.
+:END:
+- JA :: 夏休みの始めに海へ行きたいです。
+- READING :: なつやすみ の はじめ に うみ へ いきたい です。
+- ROMAJI :: Natsuyasumi no hajime ni umi e ikitai desu.
+- UK :: Я хочу поїхати на море на початку літніх канікул.
+- EN :: I want to go to the sea at the beginning of the summer vacation.
+- FOCUS :: 始め
+*** ex-1342540-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Kare wa kaigi no hajime ni, kyō no mokuteki ni tsuite kanketsu ni setsumei shita.
+:END:
+- JA :: 彼は会議の始めに、今日の目的について簡潔に説明した。
+- READING :: かれ は かいぎ の はじめ に、 きょう の もくてき に ついて かんけつ に せつめい した。
+- ROMAJI :: Kare wa kaigi no hajime ni, kyō no mokuteki ni tsuite kanketsu ni setsumei shita.
+- UK :: На початку зустрічі він коротко пояснив мету сьогоднішнього дня.
+- EN :: At the beginning of the meeting, he briefly explained the purpose of today.
+- FOCUS :: 始め
+
+* Sense s-1342540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e789501280077f709a15ff4235c83c889504abffeb3ac5828bf0ccbe49525c47
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 初め
+** English glosses
+- first (in line, etc.)
+** Ukrainian glosses
+*** uk-s-1342540-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перший
+
+* Sense s-1342540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1fe1386f0d4e13cd73b48f5f5bde655e3aa94519d5e1c824b6947233d5018296
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 始め
+** English glosses
+- origin
+** Ukrainian glosses
+*** uk-s-1342540-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: походження
+
+* Sense s-1342540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 793a2ed3f8642b8dfa7f8cfd43a739e8b7ce043b1e6b210fea20c84f44c90277
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Sense information
+- esp. 始め; as 〜を始め, 〜を始めとして, etc.
+** English glosses
+- such as ...
+- not to mention ...
+** Ukrainian glosses
+*** uk-s-1342540-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: не кажучи вже про
+

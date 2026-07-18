@@ -1,0 +1,139 @@
+#+TITLE: レコード
+#+JMDICT_ID: 1144940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: レコード
+#+ROMAJI: rekoodo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1144940-001
+:PROPERTIES:
+:TEXT: レコード
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1144940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a8cad745fe0c7364ba5cfe126f6f10991bb0492715e43b79a819f06d12d56c29
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (phonograph) record
+** Ukrainian glosses
+*** uk-s-1144940-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: платівка
+** Learner notes
+*** note-s-1144940-001-001
+:PROPERTIES:
+:END:
+- UK :: Слово «レコード» (rekōdo) найчастіше означає музичну вінілову платівку, але може також вживатися у значенні спортивного рекорду.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1144940-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Chichi wa furui rekōdo o motte imasu.
+:END:
+- JA :: 父は古いレコードを持っています。
+- READING :: ちち は ふるい レコード を もって います。
+- ROMAJI :: Chichi wa furui rekōdo o motte imasu.
+- UK :: У мого батька є старі платівки.
+- EN :: My father has old records.
+- FOCUS :: レコード
+*** ex-1144940-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Rekōdo de ongaku o kikimasu.
+:END:
+- JA :: レコードで音楽を聞きます。
+- READING :: レコード で おんがく を ききます。
+- ROMAJI :: Rekōdo de ongaku o kikimasu.
+- UK :: Я слухаю музику на платівках.
+- EN :: I listen to music on records.
+- FOCUS :: レコード
+*** ex-1144940-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Kare wa marason taikai de atarashii rekōdo o dashimashita.
+:END:
+- JA :: 彼はマラソン大会で新しいレコードを出しました。
+- READING :: かれ は マラソン たいかい で あたらしい レコード を だしました。
+- ROMAJI :: Kare wa marason taikai de atarashii rekōdo o dashimashita.
+- UK :: Він встановив новий рекорд на марафонському турнірі.
+- EN :: He set a new record at the marathon tournament.
+- FOCUS :: レコード
+
+* Sense s-1144940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e55c9badb57fca9578cb2bcbdab0181084968f4a83cee8b10f08ef25a3575f13
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- record (esp. in sports)
+** Ukrainian glosses
+*** uk-s-1144940-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рекорд (у спорті)
+
+* Sense s-1144940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4264aecd9f1541763c191a6c5897c6666719c9b4d0c92ef49f413ec4b06a724a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- record (data structure)
+** Ukrainian glosses
+*** uk-s-1144940-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запис (даних)
+

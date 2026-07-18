@@ -1,0 +1,218 @@
+#+TITLE: 分かる
+#+JMDICT_ID: 1606560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わかる
+#+ROMAJI: wakaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1606560-001
+:PROPERTIES:
+:TEXT: 分かる
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf39
+** Written form wf-1606560-002
+:PROPERTIES:
+:TEXT: 解る
+:END:
+*** Priorities
+- spec1
+** Written form wf-1606560-003
+:PROPERTIES:
+:TEXT: 判る
+:END:
+*** Priorities
+- spec1
+** Written form wf-1606560-004
+:PROPERTIES:
+:TEXT: 分る
+:END:
+** Written form wf-1606560-005
+:PROPERTIES:
+:TEXT: 理解る
+:END:
+*** Information
+- sK
+** Reading rd-1606560-001
+:PROPERTIES:
+:TEXT: わかる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf39
+- spec1
+
+* Sense s-1606560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bb0662c1d3ee4f232720c00e6d0f60cb1550718010a4d03e31f2a6f4c797798a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to understand
+- to comprehend
+- to grasp
+- to see
+- to get
+- to follow
+** Ukrainian glosses
+*** uk-s-1606560-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розуміти
+*** uk-s-1606560-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: збагнути
+** Learner notes
+*** note-s-1606560-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово «分かる» (wakaru) означає «розуміти» або «ставати зрозумілим». Зверніть увагу, що перед ним зазвичай вживається частка «が» (ga), а не «を» (o).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1606560-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Nihongo ga wakarimasu ka.
+:END:
+- JA :: 日本語が分かりますか。
+- READING :: にほんご が わかります か。
+- ROMAJI :: Nihongo ga wakarimasu ka.
+- UK :: Ви розумієте японську?
+- EN :: Do you understand Japanese?
+- FOCUS :: 分かります
+*** ex-1606560-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Hai, yoku wakarimasu.
+:END:
+- JA :: はい、よく分かります。
+- READING :: はい、 よく わかります。
+- ROMAJI :: Hai, yoku wakarimasu.
+- UK :: Так, добре розумію.
+- EN :: Yes, I understand well.
+- FOCUS :: 分かります
+*** ex-1606560-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Sensei no setsumei o kiite, yatto imi ga wakarimashita.
+:END:
+- JA :: 先生の説明を聞いて、やっと意味が分かりました。
+- READING :: せんせい の せつめい を きいて、 やっと いみ が わかりました。
+- ROMAJI :: Sensei no setsumei o kiite, yatto imi ga wakarimashita.
+- UK :: Послухавши пояснення вчителя, я нарешті зрозумів значення.
+- EN :: After listening to the teacher's explanation, I finally understood the meaning.
+- FOCUS :: 分かりました
+
+* Sense s-1606560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 35ff073e9422ba38712930eef2910be32d80044989b43b901d8ab3ec16f7bdf8
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to become clear
+- to be known
+- to be discovered
+- to be realized (realised)
+- to be found out
+- to make sense
+** Ukrainian glosses
+*** uk-s-1606560-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ставати зрозумілим
+*** uk-s-1606560-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: з'ясовуватися
+*** uk-s-1606560-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути відомим
+
+* Sense s-1606560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 860d9ec21ae13e894e4f480eb87b51958a9dc92aa0354532c0bf501980d1685e
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+** English glosses
+- I know!
+- I think so too!
+** Ukrainian glosses
+*** uk-s-1606560-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: я знаю!
+*** uk-s-1606560-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: я теж так думаю!
+

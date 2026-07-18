@@ -1,0 +1,224 @@
+#+TITLE: 不味い
+#+JMDICT_ID: 1495000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まずい
+#+ROMAJI: mazui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1495000-001
+:PROPERTIES:
+:TEXT: 不味い
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1495000-001
+:PROPERTIES:
+:TEXT: まずい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+** Reading rd-1495000-002
+:PROPERTIES:
+:TEXT: マズイ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+** Reading rd-1495000-003
+:PROPERTIES:
+:TEXT: マズい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1495000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bd7613fe003d5ec42006abb97932e6160105a5d546a6745b1b8583176396df1e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- bad(-tasting)
+- unpalatable
+- unsavoury
+- unsavory
+- awful
+- terrible
+- unpleasant
+** Ukrainian glosses
+*** uk-s-1495000-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: несмачний
+- qualifier :: про їжу
+** Learner notes
+*** note-s-1495000-001-001
+:PROPERTIES:
+:END:
+- UK :: Слово «mazui» (不味い) зазвичай описує несмачну їжу, але також вживається, коли ситуація складається погано або є неприємною.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1495000-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Kono ryouri wa mazui desu.
+:END:
+- JA :: この料理はまずいです。
+- READING :: このりょうりはまずいです。
+- ROMAJI :: Kono ryouri wa mazui desu.
+- UK :: Ця страва несмачна.
+- EN :: This food tastes bad.
+- FOCUS :: まずい
+*** ex-1495000-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Sore wa chotto mazui desu ne.
+:END:
+- JA :: それはちょっとまずいですね。
+- READING :: それはちょっとまずいですね。
+- ROMAJI :: Sore wa chotto mazui desu ne.
+- UK :: Це трохи погана ситуація, чи не так?
+- EN :: That's a bit of a bad situation, isn't it?
+- FOCUS :: ちょっとまずい
+*** ex-1495000-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Yakusoku no jikan o kanzen ni wasurete ita no wa, hijou ni mazui shippai deshita.
+:END:
+- JA :: 約束の時間を完全に忘れていたのは、非常にまずい失敗でした。
+- READING :: やくそくのじかんをかんぜんにわすれていたのは、ひじょうにまずいしっぱいでした。
+- ROMAJI :: Yakusoku no jikan o kanzen ni wasurete ita no wa, hijou ni mazui shippai deshita.
+- UK :: Повністю забути про час зустрічі — це була дуже серйозна помилка.
+- EN :: Completely forgetting the time of the appointment was a very bad mistake.
+- FOCUS :: まずい失敗
+
+* Sense s-1495000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 47b5c796c11f5797c978ad1ce1a06f6bb06bdabfa8e426dfc2e8f50e9f8dc68c
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Sense information
+- occ. as 拙い
+*** Cross-references
+- 拙い・2
+** English glosses
+- poor
+- unskillful
+- unskilful
+- bungling
+- clumsy
+** Ukrainian glosses
+*** uk-s-1495000-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поганий
+- qualifier :: про ситуацію
+*** uk-s-1495000-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: невдалий
+
+* Sense s-1495000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fdeddcdfa809339f7fcca0bc47e5387ddf1cfae15dfdb3323ac7b0154de625d4
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- ugly
+- unattractive
+- homely
+- plain
+** Ukrainian glosses
+
+* Sense s-1495000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f42518009b142be4b84b8b0c2ea4d0431b503caa3c9fe8009b98b295f78702ae
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- 気不味い
+** English glosses
+- awkward
+- problematic
+- troublesome
+- unfavorable
+- unfavourable
+- unwise
+** Ukrainian glosses
+
+* Sense s-1495000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 71eaefbb5886d449bd7467487c4cc217c23da045f968af6eaeea36b085655d7a
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Miscellaneous and register
+- uk
+** English glosses
+- oh no
+- uh-oh
+- this is bad
+** Ukrainian glosses
+
