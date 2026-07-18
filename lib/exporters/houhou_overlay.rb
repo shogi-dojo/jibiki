@@ -179,8 +179,6 @@ module Exporters
     end
 
     # -----------------------------------------------------------------------
-    private
-
     # Create the required Houhou overlay schema verbatim.
     def self.create_schema(db)
       db.run <<~SQL
@@ -280,5 +278,8 @@ module Exporters
     ensure
       donor&.disconnect
     end
+
+    private_class_method :create_schema, :unrestricted?, :build_candidate_pairs,
+                         :build_uk_meanings, :merge_donor
   end
 end
