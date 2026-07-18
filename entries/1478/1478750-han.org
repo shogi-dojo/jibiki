@@ -1,0 +1,175 @@
+#+TITLE: 半
+#+JMDICT_ID: 1478750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はん
+#+ROMAJI: han
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1478750-001
+:PROPERTIES:
+:TEXT: 半
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1478750-001
+:PROPERTIES:
+:TEXT: はん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1478750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b31c62b0ca6d07ab72796f8bb2ae40eceeb3487ee7cb1617ef40bc172d7b17e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-pref
+- n
+** English glosses
+- half
+- semi-
+- partial
+** Ukrainian glosses
+*** uk-s-1478750-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: половина
+** Learner notes
+*** note-s-1478750-001-001
+:PROPERTIES:
+:END:
+- UK :: Слово 半 часто додається після часу, щоб позначити половину години, наприклад, ３時半 (san-ji han) — пів на четверту (3:30).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1478750-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Ima wa gozen jūji han desu.
+:END:
+- JA :: 今は午前十時半です。
+- READING :: いま は ごぜん じゅうじ はん です。
+- ROMAJI :: Ima wa gozen jūji han desu.
+- UK :: Зараз пів на одинадцяту ранку (10:30).
+- EN :: It is currently half past ten in the morning.
+- FOCUS :: 半
+*** ex-1478750-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Ringo o hanbun ni kirimashita.
+:END:
+- JA :: りんごを半分に切りました。
+- READING :: りんご を はんぶん に きりました。
+- ROMAJI :: Ringo o hanbun ni kirimashita.
+- UK :: Я розрізав яблуко навпіл.
+- EN :: I cut the apple in half.
+- FOCUS :: 半分
+*** ex-1478750-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Shigoto ga owaru no ga osoku natta node, ie ni tsuita no wa yoru no jūichiji han datta.
+:END:
+- JA :: 仕事が終わるのが遅くなったので、家に着いたのは夜の十一時半だった。
+- READING :: しごと が おわる の が おそく なった ので、 いえ に ついた の は よる の じゅういちじ はん だった。
+- ROMAJI :: Shigoto ga owaru no ga osoku natta node, ie ni tsuita no wa yoru no jūichiji han datta.
+- UK :: Оскільки я закінчив працювати пізно, я прийшов додому о пів на дванадцяту ночі.
+- EN :: Because I finished work late, it was half past eleven at night when I arrived home.
+- FOCUS :: 半
+
+* Sense s-1478750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 062f779487322c70148a7397c547e4907f351f7ac75bec5584d0c1b0edc96f75
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- half-past
+** Ukrainian glosses
+*** uk-s-1478750-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пів на
+- qualifier :: про час
+
+* Sense s-1478750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9a724199c00ccd99dec25b05c9d72bc325d4c8a0bcd7dc01d35c20d245d97af8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 丁・3
+** English glosses
+- odd number
+** Ukrainian glosses
+*** uk-s-1478750-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: непарне число
+
+* Sense s-1478750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ff903bbb0cb1a503e10e491904a90962de00f70555b54c7e22ee61b23db60c95
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+** English glosses
+- han (unit of land area, approx. 595.8 m^2)
+** Ukrainian glosses
+*** uk-s-1478750-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хан
+- qualifier :: одиниця площі
+
