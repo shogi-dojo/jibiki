@@ -209,3 +209,99 @@ FTS4 Virtual table for lightning-fast text search over entries:
 - `romaji` - Romanized alias.
 - `uk_glosses` - Space-joined Ukrainian glosses.
 - `en_glosses` - Space-joined English glosses.
+
+---
+
+## 2. Houhou Overlay (`build/DictionaryTranslations.sqlite`)
+
+A drop-in replacement for Houhou-SRS's `DictionaryTranslations.sqlite`. The Houhou app
+ATTACHes this file and reads from `LocalizedVocabMeaning` and `LocalizedVocabSearchFts`.
+Extra tables and extra `Metadata` keys are silently ignored by the app, so this file is
+safe to extend.
+
+### Required Tables (verbatim Houhou contract)
+
+```sql
+CREATE TABLE Metadata(Key TEXT NOT NULL PRIMARY KEY, Value TEXT NOT NULL);
+
+CREATE TABLE LocalizedVocabMeaning(
+    VocabId  INTEGER NOT NULL,
+    Language TEXT    NOT NULL,
+    Meaning  TEXT    NOT NULL,
+    PRIMARY KEY(VocabId, Language, Meaning)
+) WITHOUT ROWID;
+
+CREATE INDEX IX_LocalizedVocabMeaning_Language_VocabId
+    ON LocalizedVocabMeaning(Language, VocabId);
+
+CREATE VIRTUAL TABLE LocalizedVocabSearchFts USING fts4(
+    VocabId, Language, Meanings,
+    notindexed=VocabId,
+    tokenize=unicode61
+);
+```
+
+### Metadata Keys
+
+| Key | Value Description |
+|---|---|
+| `SchemaVersion` | Always `1` (required by Houhou). |
+| `UkrainianSource` | Always `jibiki`. |
+| `MatchedEntries` | Number of jibiki entries matched to at least one VocabId. |
+| `UnmatchedEntries` | Number of jibiki entries with no VocabSet match (reported on stdout). |
+| `MeaningCount` | Total number of meaning rows inserted. |
+| `GeneratedAt` | UTC timestamp (ISO-8601). |
+| `GeneratorCommit` | Git commit SHA at export time. |
+| `License` | `CC-BY-SA-4.0` |
+| `Attribution` | Full EDRDG attribution text (from `NOTICE`). |
+| `MergedFrom` | Basename of the donor overlay (merge mode only). |
+
+### Matching Strategy
+
+VocabId lookup mirrors the reference `build_localized_dictionary.py`:
+
+```
+key = [nfkc(COALESCE(NULLIF(KanjiWriting,''), KanaWriting)), hiragana(nfkc(KanaWriting))]
+```
+
+Katakana in `KanaWriting` is converted to hiragana (shift −0x60 for codepoints U+30A1–U+30F6).
+Both writing and reading are NFKC-normalised. Kana-only entries use the reading as the
+effective writing.
+
+### Meaning Format
+
+Each Ukrainian gloss becomes one `LocalizedVocabMeaning` row:
+- `Meaning = gloss_text` when no qualifier is present.
+- `Meaning = "gloss_text (qualifier)"` when the gloss carries a qualifier (register/style tag).
+
+### FTS Rows
+
+One `LocalizedVocabSearchFts` row is written per `(VocabId, Language)` pair.
+The `Meanings` column is the space-joined list of all meanings for that pair.
+
+### Merge Mode
+
+When `--base-overlay PATH` is supplied, the donor overlay's rows are copied first:
+- All `Language='ru'` rows are copied unconditionally.
+- `Language='uk'` rows for VocabIds **not covered** by jibiki are copied.
+- jibiki rows win all conflicts.
+
+This preserves Russian gloss coverage in the single overlay file the Houhou app reads.
+
+### Generating the Overlay
+
+```bash
+# Basic export
+bundle exec ruby scripts/export_houhou_overlay.rb \
+  --base /path/to/KanjiDatabase.sqlite
+
+# With merge to preserve Russian rows
+bundle exec ruby scripts/export_houhou_overlay.rb \
+  --base /path/to/KanjiDatabase.sqlite \
+  --base-overlay /path/to/existing/DictionaryTranslations.sqlite \
+  --output build/DictionaryTranslations.sqlite
+
+# Via Rake
+bundle exec rake "export:overlay[/path/to/KanjiDatabase.sqlite]"
+bundle exec rake "export:all[/path/to/KanjiDatabase.sqlite]"
+```
