@@ -291,6 +291,26 @@ class RichSqliteExporterTest < Minitest::Test
     FileUtils.rm_f(base_path) if base_path
   end
 
+  def test_lookup_indexes_exist
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry = OrgEntry.load(entry_file.path)
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output)
+      db = Sequel.sqlite(output, readonly: true)
+      %i[written_forms senses examples ukrainian_glosses vocab_mapping].each do |table|
+        assert db.indexes(table).any?, "expected a lookup index on #{table}"
+      end
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
+  end
+
   def test_vocab_mapping_falls_back_to_kana_only_base_row
     entry_file = Tempfile.new(["entry", ".org"])
     entry_file.write(ASOKO_ORG)

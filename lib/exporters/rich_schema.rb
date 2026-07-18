@@ -211,6 +211,23 @@ module Exporters
       end
 
       db.run "CREATE VIRTUAL TABLE IF NOT EXISTS entry_search USING fts4(jmdict_id, writings, readings, romaji, uk_glosses, en_glosses, notindexed=jmdict_id, tokenize=unicode61);"
+
+      create_indexes(db)
+    end
+
+    # Consumers look rows up by entry or by sense; without these every such
+    # query is a table scan.
+    def self.create_indexes(db)
+      %i[written_forms readings senses pitch_accents].each do |table|
+        db.add_index table, :jmdict_id, if_not_exists: true
+      end
+
+      %i[ukrainian_glosses learner_notes examples collocations
+         constructions related_words idioms].each do |table|
+        db.add_index table, :sense_id, if_not_exists: true
+      end
+
+      db.add_index :vocab_mapping, :vocab_id, if_not_exists: true
     end
   end
 end
