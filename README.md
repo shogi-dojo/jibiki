@@ -11,7 +11,7 @@ used under CC BY-SA 4.0.
 
 ## Requirements
 
-- Ruby with Rake (the tools currently use only the standard library)
+- Ruby with Bundler (run `bundle install` to install dependencies)
 - Emacs for the `org-lint` task
 - ignored local sources described in `sources/README.md`:
   - `sources/jmdict/JMdict.xml.gz`
