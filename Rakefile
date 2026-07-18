@@ -105,6 +105,16 @@ namespace :org do
   end
 end
 
+namespace :export do
+  desc 'Export the rich learner SQLite database: rake "export:rich[build/jibiki.sqlite,base_db_path]"'
+  task :rich, %i[output base] do |_task, args|
+    args.with_defaults(output: 'build/jibiki.sqlite')
+    command = [RUBY, 'scripts/export_rich_db.rb', '--output', args[:output]]
+    command += ['--base', args[:base]] if args[:base]
+    sh(*command)
+  end
+end
+
 Rake::TestTask.new(:test) do |task|
   task.libs << 'test'
   task.pattern = 'test/**/*_test.rb'
