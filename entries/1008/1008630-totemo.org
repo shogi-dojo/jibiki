@@ -1,0 +1,159 @@
+#+TITLE: 迚も
+#+JMDICT_ID: 1008630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とても
+#+ROMAJI: totemo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1008630-001
+:PROPERTIES:
+:TEXT: 迚も
+:END:
+*** Information
+- rK
+** Reading rd-1008630-001
+:PROPERTIES:
+:TEXT: とても
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1008630-002
+:PROPERTIES:
+:TEXT: とっても
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1008630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0c14bdbdde357b4f135fc580feb6c58b19fa128c89127725ac4c5feb5b669eb0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+*** Sense information
+- とっても is more emphatic
+** English glosses
+- very
+- awfully
+- exceedingly
+** Ukrainian glosses
+*** uk-s-1008630-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дуже
+*** uk-s-1008630-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вельми
+** Learner notes
+*** note-s-1008630-001-001
+:PROPERTIES:
+:END:
+- UK :: Прислівник 迚も / とても (totemo) зазвичай використовується для підсилення, означаючи «дуже». У поєднанні із заперечною формою дієслова воно може означати «зовсім не (можу)» або «ніяк».
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1008630-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Kyou wa totemo samui desu.
+:END:
+- JA :: 今日はとても寒いです。
+- READING :: 今(きょう)日(は)とても寒(さむ)いです。
+- ROMAJI :: Kyou wa totemo samui desu.
+- UK :: Сьогодні дуже холодно.
+- EN :: It is very cold today.
+- FOCUS :: とても
+*** ex-1008630-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Sono keeki wa totemo oishikatta desu.
+:END:
+- JA :: そのケーキはとても美味しかったです。
+- READING :: そのケーキはとても美(おい)味(し)かったです。
+- ROMAJI :: Sono keeki wa totemo oishikatta desu.
+- UK :: Той торт був дуже смачний.
+- EN :: That cake was very delicious.
+- FOCUS :: とても
+*** ex-1008630-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Hitori de zenbu taberu no wa, totemo muri desu.
+:END:
+- JA :: 一人で全部食べるのは、とても無理です。
+- READING :: 一(ひと)人(り)で全(ぜん)部(ぶ)食(た)べるのは、とても無(む)理(り)です。
+- ROMAJI :: Hitori de zenbu taberu no wa, totemo muri desu.
+- UK :: З'їсти все самому — це абсолютно неможливо.
+- EN :: Eating everything by myself is absolutely impossible.
+- FOCUS :: とても
+
+* Sense s-1008630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 42363cf0e1d57837e61fac440ee8c1b416df9630c382bec6dcda5b0bfa51284f
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+*** Sense information
+- before a negative form
+** English glosses
+- (not) at all
+- by no means
+- simply (cannot)
+** Ukrainian glosses
+*** uk-s-1008630-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: абсолютно ні
+- qualifier :: з запереченням
+*** uk-s-1008630-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ніяк
+- qualifier :: з запереченням
+
