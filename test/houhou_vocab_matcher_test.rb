@@ -16,8 +16,9 @@ class HouhouVocabMatcherTest < Minitest::Test
       String  :KanjiWriting
       String  :KanaWriting, null: false
       Integer :IsMain, null: false  # stored as 0/1 in SQLite
+      Integer :GroupId, null: false
     end
-    rows.each { |r| db[:VocabSet].insert(r) }
+    rows.each { |r| db[:VocabSet].insert({ GroupId: r[:ID] }.merge(r)) }
     db
   end
 
@@ -82,15 +83,18 @@ class HouhouVocabMatcherTest < Minitest::Test
   # ---------- matcher lookup tests ------------------------------------------
 
   ROWS = [
-    # kanji+kana row
-    { ID: 1001, KanjiWriting: "分かる", KanaWriting: "わかる", IsMain: 1 },
-    { ID: 1002, KanjiWriting: "分かる", KanaWriting: "わかる", IsMain: 0 },
+    # kanji+kana rows sharing one group
+    { ID: 1001, KanjiWriting: "分かる", KanaWriting: "わかる", IsMain: 1, GroupId: 10 },
+    { ID: 1002, KanjiWriting: "分かる", KanaWriting: "わかる", IsMain: 0, GroupId: 10 },
     # kana-only row
-    { ID: 2001, KanjiWriting: nil,    KanaWriting: "ほん",   IsMain: 1 },
+    { ID: 2001, KanjiWriting: nil,    KanaWriting: "ほん",   IsMain: 1, GroupId: 20 },
     # katakana reading stored in DB (maps to same key after conversion)
-    { ID: 3001, KanjiWriting: nil,    KanaWriting: "テスト", IsMain: 1 },
+    { ID: 3001, KanjiWriting: nil,    KanaWriting: "テスト", IsMain: 1, GroupId: 30 },
     # fullwidth kanji writing (NFKC should normalise)
-    { ID: 4001, KanjiWriting: "日本語", KanaWriting: "にほんご", IsMain: 1 },
+    { ID: 4001, KanjiWriting: "日本語", KanaWriting: "にほんご", IsMain: 1, GroupId: 40 },
+    # homophones in different groups (橋 vs 箸)
+    { ID: 5001, KanjiWriting: "橋", KanaWriting: "はし", IsMain: 1, GroupId: 50 },
+    { ID: 5002, KanjiWriting: "箸", KanaWriting: "はし", IsMain: 1, GroupId: 51 },
   ].freeze
 
   def setup
@@ -154,5 +158,25 @@ class HouhouVocabMatcherTest < Minitest::Test
     results = @matcher.lookup(writing: "日本語", reading: "にほんご")
     assert_equal 1, results.size
     assert_equal 4001, results.first[:vocab_id]
+  end
+
+  # ---------- reading-only fallback tests ------------------------------------
+
+  def test_lookup_by_reading_matches_single_group
+    results = @matcher.lookup_by_reading("わかる")
+    assert_equal [1001, 1002], results.map { |r| r[:vocab_id] }.sort
+  end
+
+  def test_lookup_by_reading_converts_katakana
+    results = @matcher.lookup_by_reading("てすと")
+    assert_equal [3001], results.map { |r| r[:vocab_id] }
+  end
+
+  def test_lookup_by_reading_refuses_ambiguous_homophones
+    assert_empty @matcher.lookup_by_reading("はし")
+  end
+
+  def test_lookup_by_reading_miss_returns_empty
+    assert_empty @matcher.lookup_by_reading("そんざいしない")
   end
 end

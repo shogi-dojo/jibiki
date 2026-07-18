@@ -61,25 +61,35 @@ module Exporters
       @index.fetch(k, [])
     end
 
+    # Fallback: match by reading alone, but only when every VocabSet row with
+    # this reading belongs to a single GroupId (i.e. one word) — this prevents
+    # homophones (橋/箸/端 …) from bleeding into each other.
+    #
+    # @return [Array<Hash>] like #lookup
+    def lookup_by_reading(reading)
+      key = self.class.to_hiragana(self.class.nfkc(reading))
+      rows = @reading_index.fetch(key, [])
+      return [] unless rows.map { |r| r[:group_id] }.uniq.size == 1
+
+      rows.map { |r| { vocab_id: r[:vocab_id], is_main: r[:is_main] } }
+    end
+
     def close
       @db.disconnect
     end
 
-    # Build (or rebuild) the in-memory index from VocabSet. Called by initialize;
+    # Build (or rebuild) the in-memory indexes from VocabSet. Called by initialize;
     # also usable by tests that inject a custom @db before calling this.
     def initialize_index
-      @index = build_index
-    end
+      @index = Hash.new { |h, k| h[k] = [] }
+      @reading_index = Hash.new { |h, k| h[k] = [] }
 
-    private
-
-    def build_index
-      index = Hash.new { |h, k| h[k] = [] }
-      @db[:VocabSet].select(:ID, :KanjiWriting, :KanaWriting, :IsMain).each do |row|
-        k = self.class.key(row[:KanjiWriting], row[:KanaWriting])
-        index[k] << { vocab_id: row[:ID], is_main: row[:IsMain] == 1 || row[:IsMain] == true }
+      @db[:VocabSet].select(:ID, :KanjiWriting, :KanaWriting, :IsMain, :GroupId).each do |row|
+        entry = { vocab_id: row[:ID], is_main: row[:IsMain] == 1 || row[:IsMain] == true }
+        @index[self.class.key(row[:KanjiWriting], row[:KanaWriting])] << entry
+        reading_key = self.class.to_hiragana(self.class.nfkc(row[:KanaWriting]))
+        @reading_index[reading_key] << entry.merge(group_id: row[:GroupId])
       end
-      index
     end
   end
 end

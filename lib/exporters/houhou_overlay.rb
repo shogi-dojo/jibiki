@@ -54,25 +54,34 @@ module Exporters
       unmatched_jmdict_ids = []
 
       entries.each do |entry|
-        candidate_pairs = build_candidate_pairs(entry)
-        vocab_ids_seen = {}
+        entry_matched = false
+        pairs = build_candidate_pairs(entry)
 
-        candidate_pairs.each do |writing, reading, uk_meanings|
-          next if uk_meanings.empty?
-
-          matches = matcher.lookup(writing: writing, reading: reading)
-          matches.each do |m|
-            vid = m[:vocab_id]
-            next if vocab_ids_seen[vid]
-            vocab_ids_seen[vid] = true
-            uk_rows[vid].concat(uk_meanings)
+        pairs.each do |writing, reading, uk_meanings|
+          matcher.lookup(writing: writing, reading: reading).each do |m|
+            entry_matched = true
+            uk_rows[m[:vocab_id]].concat(uk_meanings)
           end
         end
 
-        if vocab_ids_seen.empty?
-          unmatched_jmdict_ids << entry.jmdict_id
-        else
+        # Fallback when every exact (writing, reading) pair missed — typically
+        # rare-kanji forms Houhou dropped (its row is kana-only), or kanji Houhou
+        # kept that jibiki omits (matched by reading when unambiguous).
+        unless entry_matched
+          pairs.each do |_writing, reading, uk_meanings|
+            matches = matcher.lookup(writing: nil, reading: reading)
+            matches = matcher.lookup_by_reading(reading) if matches.empty?
+            matches.each do |m|
+              entry_matched = true
+              uk_rows[m[:vocab_id]].concat(uk_meanings)
+            end
+          end
+        end
+
+        if entry_matched
           matched_jmdict_ids << entry.jmdict_id
+        else
+          unmatched_jmdict_ids << entry.jmdict_id
         end
       end
 
@@ -204,45 +213,41 @@ module Exporters
       SQL
     end
 
+    # A restriction list of nil/[]/["*"] means "applies to everything".
+    def self.unrestricted?(list)
+      list.nil? || list.empty? || list.include?('*')
+    end
+
     # Build (writing, reading, [uk_meaning, ...]) triples for all senses of an entry
-    # that carry Ukrainian glosses, respecting applies_to restrictions.
+    # that carry Ukrainian glosses, respecting sense-level applies_to_written /
+    # applies_to_readings and reading-level applies_to_written_forms restrictions.
+    # Restriction values are literal form/reading texts, with "*" as wildcard.
     #
     # Returns Array<[writing_or_nil, reading, [String]]>.
     def self.build_candidate_pairs(entry)
+      all_writings = entry.written_forms.map(&:text)
       pairs = []
 
       entry.senses.each do |sense|
         uk_meanings = build_uk_meanings(sense)
         next if uk_meanings.empty?
 
-        # Determine candidate written forms
-        writings = if sense.applies_to_written_forms.empty?
-          entry.written_forms.map(&:text)
-        else
-          sense.applies_to_written_forms
-        end
-
-        # Determine candidate readings, filtered by applies_to restrictions
+        sense_writings = unrestricted?(sense.applies_to_written) ? all_writings : sense.applies_to_written
         readings = entry.readings.select do |rd|
-          next false if rd.no_kanji && !writings.empty?
-          rd.applies_to_written_forms.empty? ||
-            writings.any? { |w| rd.applies_to_written_forms.include?(w) }
+          unrestricted?(sense.applies_to_readings) || sense.applies_to_readings.include?(rd.text)
         end
 
-        if writings.empty?
-          # Kana-only entry: use nil writing + each reading
-          readings.each do |rd|
+        readings.each do |rd|
+          if sense_writings.empty? || rd.no_kanji
+            # Kana-only entry or kana-only reading: match VocabSet rows keyed by kana.
             pairs << [nil, rd.text, uk_meanings]
-          end
-        else
-          writings.each do |writing|
-            # Readings that apply to this writing
-            applicable = readings.select do |rd|
-              rd.applies_to_written_forms.empty? || rd.applies_to_written_forms.include?(writing)
+          else
+            writings = if unrestricted?(rd.applies_to_written_forms)
+              sense_writings
+            else
+              sense_writings & rd.applies_to_written_forms
             end
-            applicable.each do |rd|
-              pairs << [writing, rd.text, uk_meanings]
-            end
+            writings.each { |w| pairs << [w, rd.text, uk_meanings] }
           end
         end
       end
@@ -253,11 +258,9 @@ module Exporters
     # Produce meaning strings for a sense's Ukrainian glosses.
     # qualifier is appended as " (qualifier)" if present.
     def self.build_uk_meanings(sense)
-      return [] unless sense.respond_to?(:ukrainian_glosses)
-
       sense.ukrainian_glosses.map do |g|
-        qualifier = g.respond_to?(:qualifier) ? g.qualifier : nil
-        qualifier.nil? || qualifier.empty? ? g.text : "#{g.text} (#{qualifier})"
+        q = g.qualifier
+        q.nil? || q.empty? ? g.text : "#{g.text} (#{q})"
       end
     end
 

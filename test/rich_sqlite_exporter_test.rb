@@ -216,15 +216,18 @@ class RichSqliteExporterTest < Minitest::Test
   ORG
 
   def build_base_db_with_rows(rows)
-    path = Tempfile.new(["base_db", ".sqlite"]).path
+    # Keep a reference so the Tempfile is not finalized (which unlinks the file).
+    @base_tempfile = Tempfile.new(["base_db", ".sqlite"])
+    path = @base_tempfile.path
     db   = Sequel.sqlite(path)
     db.create_table(:VocabSet) do
       Integer :ID,          primary_key: true
       String  :KanjiWriting
       String  :KanaWriting, null: false
       Integer :IsMain,      null: false
+      Integer :GroupId,     null: false
     end
-    rows.each { |r| db[:VocabSet].insert(r) }
+    rows.each { |r| db[:VocabSet].insert({ GroupId: r[:ID] }.merge(r)) }
     db.disconnect
     path
   end

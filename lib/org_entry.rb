@@ -8,4 +8,8 @@ module OrgEntry
     doc = Document.load(filepath)
     Entry.new(doc)
   end
+
+  def self.parse(content)
+    Entry.new(Document.parse(content))
+  end
 end
