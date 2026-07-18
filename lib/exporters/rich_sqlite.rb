@@ -4,6 +4,7 @@ require 'sequel'
 require 'json'
 require 'fileutils'
 require_relative 'rich_schema'
+require_relative 'houhou_vocab_matcher'
 
 module Exporters
   class RichSqlite
@@ -11,6 +12,8 @@ module Exporters
       building_path = "#{output_path}.building"
       FileUtils.mkdir_p(File.dirname(output_path))
       FileUtils.rm_f(building_path)
+
+      matcher = vocab_mapping_base ? HouhouVocabMatcher.new(vocab_mapping_base) : nil
 
       db = Sequel.sqlite(building_path)
       begin
@@ -253,6 +256,24 @@ module Exporters
               uk_glosses: uk_glosses,
               en_glosses: en_glosses
             )
+
+            # Populate vocab_mapping when a base VocabSet DB is provided.
+            if matcher
+              build_vocab_mapping_rows(entry).each do |writing, reading|
+                matches = matcher.lookup(writing: writing, reading: reading)
+                matches.each do |m|
+                  db[:vocab_mapping].insert(
+                    jmdict_id: entry.jmdict_id,
+                    vocab_id:  m[:vocab_id],
+                    writing:   writing,
+                    reading:   reading,
+                    is_main:   m[:is_main] ? 1 : 0
+                  )
+                rescue Sequel::UniqueConstraintViolation
+                  # duplicate (jmdict_id, vocab_id) — skip
+                end
+              end
+            end
           end
 
           db[:metadata].insert(key: 'SchemaVersion', value: '1')
@@ -276,8 +297,32 @@ module Exporters
         FileUtils.mv(building_path, output_path)
       ensure
         db&.disconnect
+        matcher&.close
         FileUtils.rm_f(building_path)
       end
+    end
+
+    # Return (writing_or_nil, reading) pairs for all reading×written-form combinations
+    # of an entry, respecting no_kanji and applies_to restrictions.
+    def self.build_vocab_mapping_rows(entry)
+      pairs = []
+      writings = entry.written_forms.map(&:text)
+
+      if writings.empty?
+        # Kana-only: use nil writing + each reading
+        entry.readings.each { |rd| pairs << [nil, rd.text] }
+      else
+        writings.each do |writing|
+          applicable = entry.readings.select do |rd|
+            next false if rd.no_kanji
+            applies = rd.applies_to_written_forms
+            applies.empty? || applies.include?('*') || applies.include?(writing)
+          end
+          applicable.each { |rd| pairs << [writing, rd.text] }
+        end
+      end
+
+      pairs.uniq
     end
 
     private

@@ -155,4 +155,154 @@ class RichSqliteExporterTest < Minitest::Test
       end
     end
   end
+
+  # ---------------------------------------------------------------------------
+  # vocab_mapping tests
+  # ---------------------------------------------------------------------------
+
+  ASOKO_ORG = <<~ORG
+    #+TITLE: 彼処
+    #+JMDICT_ID: 1000320
+    #+SCHEMA_VERSION: 2
+    #+PRIMARY_READING: あそこ
+    #+ROMAJI: asoko
+    #+ENTRY_STATUS: reviewed
+    #+QUALITY_PROFILE: learner
+    #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+    #+CREATED_AT: 2026-07-17
+    #+DEFAULT_AUTHOR_ID: antigravity
+    #+DEFAULT_LICENSE: CC-BY-SA-4.0
+    #+DEFAULT_SOURCE_TYPE: original
+    #+DEFAULT_STATUS: reviewed
+
+    * Forms
+    ** Written form wf-1000320-001
+    :PROPERTIES:
+    :TEXT: 彼処
+    :END:
+    *** Information
+    - rK
+    ** Reading rd-1000320-001
+    :PROPERTIES:
+    :TEXT: あそこ
+    :NO_KANJI: false
+    :END:
+    *** Applies to written forms
+    - *
+    *** Priorities
+    - ichi1
+    * Sense s-1000320-001
+    :PROPERTIES:
+    :SOURCE_SENSE_INDEX: 1
+    :SOURCE_FINGERPRINT: 2329ffc1ac38e601148cd757a2fa0de10b12b37594f0e379b19d9d08868b96e8
+    :LEARNER_PRIORITY: primary
+    :END:
+    ** JMdict metadata
+    *** Parts of speech
+    - pn
+    ** English glosses
+    - there
+    ** Ukrainian glosses
+    *** uk-s-1000320-001-001
+    :PROPERTIES:
+    :QUALIFIER: neutral
+    :STATUS: reviewed
+    :AUTHOR_ID: antigravity
+    :TRANSLATED_AT: 2026-07-16
+    :SOURCE_TYPE: original
+    :LICENSE: CC-BY-SA-4.0
+    :END:
+    - там
+  ORG
+
+  def build_base_db_with_rows(rows)
+    path = Tempfile.new(["base_db", ".sqlite"]).path
+    db   = Sequel.sqlite(path)
+    db.create_table(:VocabSet) do
+      Integer :ID,          primary_key: true
+      String  :KanjiWriting
+      String  :KanaWriting, null: false
+      Integer :IsMain,      null: false
+    end
+    rows.each { |r| db[:VocabSet].insert(r) }
+    db.disconnect
+    path
+  end
+
+  def test_vocab_mapping_empty_when_no_base_db
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry = OrgEntry.load(entry_file.path)
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output)
+      db = Sequel.sqlite(output, readonly: true)
+      assert_equal 0, db[:vocab_mapping].count
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
+  end
+
+  def test_vocab_mapping_populated_when_base_db_matches
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry = OrgEntry.load(entry_file.path)
+
+    base_rows = [
+      { ID: 4001, KanjiWriting: "彼処", KanaWriting: "あそこ", IsMain: 1 },
+      { ID: 4002, KanjiWriting: "彼処", KanaWriting: "あそこ", IsMain: 0 }
+    ]
+    base_path = build_base_db_with_rows(base_rows)
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output, vocab_mapping_base: base_path)
+      db = Sequel.sqlite(output, readonly: true)
+
+      rows = db[:vocab_mapping].where(jmdict_id: 1_000_320).order(:vocab_id).all
+      assert_equal 2, rows.size
+
+      assert_equal 4001, rows[0][:vocab_id]
+      assert_equal "彼処", rows[0][:writing]
+      assert_equal "あそこ", rows[0][:reading]
+      assert_equal 1, rows[0][:is_main]
+
+      assert_equal 4002, rows[1][:vocab_id]
+      assert_equal 0, rows[1][:is_main]
+
+      # Metadata key present
+      assert_equal base_path, db[:metadata].where(key: "VocabMappingBase").get(:value)
+
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
+    FileUtils.rm_f(base_path) if base_path
+  end
+
+  def test_vocab_mapping_empty_for_unmatched_entry
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry = OrgEntry.load(entry_file.path)
+    base_path = build_base_db_with_rows([])  # empty — no VocabSet rows
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output, vocab_mapping_base: base_path)
+      db = Sequel.sqlite(output, readonly: true)
+      assert_equal 0, db[:vocab_mapping].count
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
+    FileUtils.rm_f(base_path) if base_path
+  end
 end
