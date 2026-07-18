@@ -227,6 +227,10 @@ module OrgEntry
       @children = []
       @parent = nil
     end
+
+    def find_child(title)
+      @children.find { |c| c.title == title }
+    end
   end
 
   class ListItem
