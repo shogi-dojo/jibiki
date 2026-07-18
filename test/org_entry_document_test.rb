@@ -184,6 +184,26 @@ class OrgEntryDocumentTest < Minitest::Test
     assert_match(/ended without closing/i, error.message)
   end
 
+  def test_empty_property_and_keyword_values_are_nil
+    content = <<~ORG
+      #+TITLE: 分かる
+      #+CREATED_AT:
+
+      * Sense s-1-001
+      :PROPERTIES:
+      :TRANSLATOR_ID: alice
+      :REVIEWER_ID:
+      :END:
+    ORG
+    doc = OrgEntry::Document.parse(content)
+    assert_nil doc.keywords['CREATED_AT']
+    assert doc.keywords.key?('CREATED_AT')
+    sense = doc.nodes.first
+    assert_equal 'alice', sense.properties['TRANSLATOR_ID']
+    assert_nil sense.properties['REVIEWER_ID']
+    assert sense.properties.key?('REVIEWER_ID')
+  end
+
   def test_parse_error_trailing_whitespace
     content = <<~ORG
       * Heading 

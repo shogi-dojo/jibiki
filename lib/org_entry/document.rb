@@ -74,7 +74,9 @@ module OrgEntry
             raise ParseError.new("Keywords must appear at the beginning of the file", line_number)
           end
           if (match = original_line.match(/\A#\+(?<key>[A-Z0-9_]+):\s*(?<value>.*)\z/))
-            keywords[match[:key]] = match[:value]
+            # Schema v2 treats an empty value as unset; store nil so model
+            # defaults apply instead of empty strings leaking into exports.
+            keywords[match[:key]] = match[:value].empty? ? nil : match[:value]
           else
             raise ParseError.new("Malformed keyword definition", line_number)
           end
@@ -159,7 +161,8 @@ module OrgEntry
             if current_node.properties.key?(key)
               raise ParseError.new("Duplicate property :#{key}: inside drawer", line_number)
             end
-            current_node.properties[key] = val
+            # Empty drawer values (e.g. ":REVIEWER_ID:") mean unset in schema v2.
+            current_node.properties[key] = val.empty? ? nil : val
           else
             raise ParseError.new("Invalid line inside property drawer", line_number)
           end
