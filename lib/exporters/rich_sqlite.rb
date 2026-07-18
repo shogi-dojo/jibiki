@@ -3,12 +3,27 @@
 require 'sequel'
 require 'json'
 require 'fileutils'
+require 'time'
 require_relative 'rich_schema'
 require_relative 'houhou_vocab_matcher'
 
 module Exporters
   class RichSqlite
-    def self.export(entries, output_path, vocab_mapping_base: nil)
+    def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr)
+      # entries.jmdict_id is the primary key; the corpus occasionally holds the
+      # same JMdict entry under two files (reading aliases). Keep the first,
+      # report the rest — merging them is editorial work, not export work.
+      seen = {}
+      entries = entries.select do |entry|
+        if seen.key?(entry.jmdict_id)
+          warning_io.puts "DUPLICATE JMDICT_ID #{entry.jmdict_id}: skipping #{entry.romaji} (kept #{seen[entry.jmdict_id]})"
+          false
+        else
+          seen[entry.jmdict_id] = entry.romaji
+          true
+        end
+      end
+
       building_path = "#{output_path}.building"
       FileUtils.mkdir_p(File.dirname(output_path))
       FileUtils.rm_f(building_path)
@@ -259,19 +274,30 @@ module Exporters
 
             # Populate vocab_mapping when a base VocabSet DB is provided.
             if matcher
-              build_vocab_mapping_rows(entry).each do |writing, reading|
-                matches = matcher.lookup(writing: writing, reading: reading)
-                matches.each do |m|
-                  db[:vocab_mapping].insert(
-                    jmdict_id: entry.jmdict_id,
-                    vocab_id:  m[:vocab_id],
-                    writing:   writing,
-                    reading:   reading,
-                    is_main:   m[:is_main] ? 1 : 0
-                  )
-                rescue Sequel::UniqueConstraintViolation
-                  # duplicate (jmdict_id, vocab_id) — skip
+              rows = build_vocab_mapping_rows(entry)
+              matched_pairs = rows.flat_map do |writing, reading|
+                matcher.lookup(writing: writing, reading: reading).map { |m| [writing, reading, m] }
+              end
+              # Same fallbacks as the overlay exporter: kana-only base row,
+              # then unambiguous reading match.
+              if matched_pairs.empty?
+                matched_pairs = rows.flat_map do |_writing, reading|
+                  matches = matcher.lookup(writing: nil, reading: reading)
+                  matches = matcher.lookup_by_reading(reading) if matches.empty?
+                  matches.map { |m| [nil, reading, m] }
                 end
+              end
+
+              matched_pairs.each do |writing, reading, m|
+                db[:vocab_mapping].insert(
+                  jmdict_id: entry.jmdict_id,
+                  vocab_id:  m[:vocab_id],
+                  writing:   writing,
+                  reading:   reading,
+                  is_main:   m[:is_main] ? 1 : 0
+                )
+              rescue Sequel::UniqueConstraintViolation
+                # duplicate (jmdict_id, vocab_id) — skip
               end
             end
           end
@@ -320,6 +346,9 @@ module Exporters
           end
           applicable.each { |rd| pairs << [writing, rd.text] }
         end
+        # Kana-only readings pair without a writing even when the entry has
+        # kanji forms (Houhou keys such rows by kana alone).
+        entry.readings.select(&:no_kanji).each { |rd| pairs << [nil, rd.text] }
       end
 
       pairs.uniq

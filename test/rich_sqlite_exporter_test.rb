@@ -2,6 +2,8 @@
 
 require 'minitest/autorun'
 require 'tmpdir'
+require 'tempfile'
+require 'stringio'
 require 'sequel'
 require_relative '../lib/org_entry'
 require_relative '../lib/exporters/rich_sqlite'
@@ -287,6 +289,51 @@ class RichSqliteExporterTest < Minitest::Test
   ensure
     entry_file&.unlink
     FileUtils.rm_f(base_path) if base_path
+  end
+
+  def test_vocab_mapping_falls_back_to_kana_only_base_row
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry = OrgEntry.load(entry_file.path)
+    # Base dropped the rare kanji 彼処 and keeps あそこ kana-only.
+    base_path = build_base_db_with_rows(
+      [{ ID: 4010, KanjiWriting: nil, KanaWriting: "あそこ", IsMain: 1 }]
+    )
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output, vocab_mapping_base: base_path)
+      db = Sequel.sqlite(output, readonly: true)
+      assert_equal [4010], db[:vocab_mapping].select_map(:vocab_id)
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
+    FileUtils.rm_f(base_path) if base_path
+  end
+
+  def test_duplicate_jmdict_id_is_skipped_with_warning
+    entry_file = Tempfile.new(["entry", ".org"])
+    entry_file.write(ASOKO_ORG)
+    entry_file.close
+
+    entry_a = OrgEntry.load(entry_file.path)
+    entry_b = OrgEntry.load(entry_file.path)
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      warnings = StringIO.new
+      Exporters::RichSqlite.export([entry_a, entry_b], output, warning_io: warnings)
+      db = Sequel.sqlite(output, readonly: true)
+      assert_equal 1, db[:entries].count
+      assert_equal "1", db[:metadata].where(key: "EntryCount").get(:value)
+      assert_includes warnings.string, "1000320"
+      db.disconnect
+    end
+  ensure
+    entry_file&.unlink
   end
 
   def test_vocab_mapping_empty_for_unmatched_entry
