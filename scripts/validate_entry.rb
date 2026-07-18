@@ -48,6 +48,25 @@ def preload_jmdict_entries(ent_seqs)
   end
 end
 
+def duplicate_jmdict_id_errors(paths)
+  occurrences = Hash.new { |hash, ent_seq| hash[ent_seq] = [] }
+  paths.each do |path|
+    next unless File.exist?(path)
+
+    ent_seq = File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
+    occurrences[ent_seq] << path if ent_seq
+  end
+
+  errors = Hash.new { |hash, path| hash[path] = [] }
+  occurrences.each do |ent_seq, matching_paths|
+    next unless matching_paths.length > 1
+
+    message = "Duplicate JMDICT_ID #{ent_seq} across files: #{matching_paths.join(', ')}"
+    matching_paths.each { |path| errors[path] << message }
+  end
+  errors
+end
+
 def validate_entry(filepath)
   puts "Validating Org entry: #{filepath}"
   errors = []
@@ -351,10 +370,11 @@ if __FILE__ == $PROGRAM_NAME
 
     File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
   end)
+  duplicate_errors = duplicate_jmdict_id_errors(ARGV)
 
   failed = false
   ARGV.each do |path|
-    errors = validate_entry(path)
+    errors = validate_entry(path) + duplicate_errors[path]
     if errors.empty?
       puts "Validation PASSED successfully!"
     else

@@ -578,7 +578,7 @@ later agents do not mistake volume for completed bilingual review.
 | 456 | [賑やか](entries/1463/1463480-nigiyaka.org) | にぎやか | nigiyaka | 1463480 | learner | draft | **new** | Editorial review |
 | 457 | [肉](entries/1463/1463520-niku.org) | にく | niku | 1463520 | learner | draft | **new** | Editorial review |
 | 458 | [西](entries/1380/1380840-nishi.org) | にし | nishi | 1380840 | learner | draft | **new** | Editorial review |
-| 459 | [２０歳](entries/1600/1600790-hatachi.org) | にじゅうさい | hatachi | 1600790 | learner | draft | **new** | Editorial review |
+| 459, 486 | [２０歳](entries/1600/1600790-hatachi.org) | はたち / にじゅうさい | hatachi | 1600790 | learner | draft | **new** | Editorial review |
 | 460 | [日曜日](entries/1464/1464900-nichiyoubi.org) | にちようび | nichiyoubi | 1464900 | learner | draft | **new** | Editorial review |
 | 461 | [荷物](entries/1195/1195430-nimotsu.org) | にもつ | nimotsu | 1195430 | learner | draft | **new** | Editorial review |
 | 462 | [ニュース](entries/1091/1091500-nyuusu.org) | ニュース | nyuusu | 1091500 | learner | draft | **new** | Editorial review |
@@ -605,7 +605,6 @@ later agents do not mistake volume for completed bilingual review.
 | 483 | [始まる](entries/1307/1307500-hajimaru.org) | はじまる | hajimaru | 1307500 | learner | draft | **new** | Editorial review |
 | 484 | [始め](entries/1342/1342540-hajime.org) | はじめ | hajime | 1342540 | learner | draft | **new** | Editorial review |
 | 485 | [初めて](entries/1342/1342550-hajimete.org) | はじめて | hajimete | 1342550 | learner | draft | **new** | Editorial review |
-| 486 | [２０歳](entries/1600/1600790-hatachi.org) | はたち | hatachi | 1600790 | learner | draft | **new** | Editorial review |
 | 487 | [働く](entries/1451/1451150-hataraku.org) | はたらく | hataraku | 1451150 | learner | draft | **new** | Editorial review |
 | 488 | [八](entries/1583/1583090-hachi.org) | はち | hachi | 1583090 | learner | draft | **new** | Editorial review |
 | 489 | [２０日](entries/1600/1600850-hatsuka.org) | はつか | hatsuka | 1600850 | learner | draft | **new** | Editorial review |

@@ -1,6 +1,6 @@
 # Build an Org-first Japanese–Ukrainian dictionary with Ruby
 
-**Full Path**: `/Users/mac/projects/jisho/japanese-ukrainian-org-dictionary.md`
+**Full Path**: `/Users/mac/projects/jisho/docs/japanese-ukrainian-org-dictionary.md`
 
 ## Context
 Create a new Japanese–Ukrainian dictionary from scratch in `/Users/mac/projects/jisho`. The canonical authored data must be human-readable Org Mode files maintained primarily in Emacs; Ruby will provide validation, JMdict import/reconciliation, and deterministic app exports. Combine JMdict's semantic precision with independently authored learner-oriented details inspired by Warodai, while keeping English and Ukrainian available to the Android app.
@@ -113,7 +113,7 @@ Document exact rules for multiline text, escaping, empty sections, comments, rep
 - Any Python compatibility or migration layer.
 
 ## Relevant Files
-- `/Users/mac/projects/jisho/japanese-ukrainian-org-dictionary.md` — this source-of-truth handoff.
+- `/Users/mac/projects/jisho/docs/japanese-ukrainian-org-dictionary.md` — this source-of-truth handoff.
 
 ## Notes
 - JMdict DTD: https://www.edrdg.org/jmdict/jmdict_dtd_h.html

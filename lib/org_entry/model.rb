@@ -50,6 +50,8 @@ module OrgEntry
           parse_media(node)
         when 'Entry notes'
           parse_entry_notes(node)
+        else
+          raise ParseError.new("Unknown top-level heading '#{node.title}'", node.line_number)
         end
       end
     end
@@ -60,6 +62,8 @@ module OrgEntry
           @written_forms << WrittenForm.new(child)
         elsif child.title =~ /\AReading\s+(rd-\d+-\d+)\z/
           @readings << Reading.new(child)
+        else
+          raise ParseError.new("Unknown Forms child heading '#{child.title}'", child.line_number)
         end
       end
     end
@@ -122,6 +126,13 @@ module OrgEntry
   end
 
   class Sense
+    SECTION_TITLES = [
+      'Applies to forms', 'JMdict metadata', 'English glosses',
+      'Ukrainian glosses', 'Russian reference', 'Learner notes',
+      'Collocations', 'Constructions and derivatives', 'Related words',
+      'Idioms and proverbs', 'Examples'
+    ].freeze
+
     attr_reader :id, :source_sense_index, :source_fingerprint, :learner_priority,
                 :applies_to_written, :applies_to_readings,
                 :parts_of_speech, :miscellaneous, :fields, :dialects, :sense_information,
@@ -130,6 +141,12 @@ module OrgEntry
                 :learner_notes, :collocations, :constructions, :related_words, :idioms, :examples
 
     def initialize(node, entry)
+      node.children.each do |child|
+        next if SECTION_TITLES.include?(child.title)
+
+        raise ParseError.new("Unknown sense subsection '#{child.title}'", child.line_number)
+      end
+
       @id = node.title.split.last
       @source_sense_index = node.properties['SOURCE_SENSE_INDEX'].to_i
       @source_fingerprint = node.properties['SOURCE_FINGERPRINT']

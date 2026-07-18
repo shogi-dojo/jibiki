@@ -96,12 +96,11 @@ module Exporters
       begin
         create_schema(db)
 
-        db.transaction do
-          # Merge mode: copy donor rows first (jibiki rows written later will win conflicts)
-          if base_overlay_path
-            merge_donor(db, base_overlay_path, uk_rows.keys)
-          end
+        # Merge mode is its own transaction because SQLite cannot DETACH an
+        # attached database while an enclosing transaction is active.
+        merge_donor(db, base_overlay_path, uk_rows.keys) if base_overlay_path
 
+        db.transaction do
           # Insert jibiki uk rows
           uk_rows.each do |vocab_id, meanings|
             meanings.each do |meaning|
@@ -179,8 +178,6 @@ module Exporters
     end
 
     # -----------------------------------------------------------------------
-    private
-
     # Create the required Houhou overlay schema verbatim.
     def self.create_schema(db)
       db.run <<~SQL
@@ -264,21 +261,42 @@ module Exporters
       end
     end
 
-    # Copy rows from a donor overlay into db, skipping VocabIds that jibiki covers.
+    # Copy rows from a donor overlay in one SQLite statement, skipping Ukrainian
+    # rows for VocabIds that jibiki covers. A temp table avoids SQLite's bind
+    # parameter limit when the covered set is large.
     def self.merge_donor(db, donor_path, covered_vocab_ids)
-      donor = Sequel.sqlite(donor_path, readonly: true)
-      covered_set = Set.new(covered_vocab_ids)
-
-      donor[:LocalizedVocabMeaning].each do |row|
-        next if row[:Language] == LANGUAGE && covered_set.include?(row[:VocabId])
-        db[:LocalizedVocabMeaning].insert(
-          VocabId: row[:VocabId],
-          Language: row[:Language],
-          Meaning: row[:Meaning]
+      db.run <<~SQL
+        CREATE TEMP TABLE CoveredVocabIds(
+          VocabId INTEGER NOT NULL PRIMARY KEY
+        ) WITHOUT ROWID;
+      SQL
+      unless covered_vocab_ids.empty?
+        db[:CoveredVocabIds].multi_insert(
+          covered_vocab_ids.map { |vocab_id| { VocabId: vocab_id } }
         )
       end
+
+      db.fetch("ATTACH DATABASE ? AS donor", donor_path).all
+      attached = true
+      db.transaction do
+        db.run <<~SQL
+          INSERT INTO LocalizedVocabMeaning(VocabId, Language, Meaning)
+          SELECT meaning.VocabId, meaning.Language, meaning.Meaning
+          FROM donor.LocalizedVocabMeaning AS meaning
+          WHERE meaning.Language != '#{LANGUAGE}'
+             OR NOT EXISTS (
+               SELECT 1
+               FROM temp.CoveredVocabIds AS covered
+               WHERE covered.VocabId = meaning.VocabId
+             );
+        SQL
+      end
     ensure
-      donor&.disconnect
+      db.run "DETACH DATABASE donor" if attached
+      db.run "DROP TABLE IF EXISTS temp.CoveredVocabIds"
     end
+
+    private_class_method :create_schema, :unrestricted?, :build_candidate_pairs,
+                         :build_uk_meanings, :merge_donor
   end
 end
