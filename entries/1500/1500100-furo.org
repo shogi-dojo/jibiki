@@ -1,0 +1,182 @@
+#+TITLE: 風呂
+#+JMDICT_ID: 1500100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふろ
+#+ROMAJI: furo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1500100-001
+:PROPERTIES:
+:TEXT: 風呂
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf23
+** Reading rd-1500100-001
+:PROPERTIES:
+:TEXT: ふろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf23
+
+* Sense s-1500100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 09d71170481e2ab4d7f6a07cd4538cfcbb472b05088d384cd32b618a419b55bd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- お風呂
+** English glosses
+- bath
+- bathing
+- bathtub
+- bathroom
+** Ukrainian glosses
+*** uk-s-1500100-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ванна
+*** uk-s-1500100-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ванна кімната
+** Learner notes
+*** note-s-1500100-001-001
+:PROPERTIES:
+:END:
+- UK :: «風呂» (furo) або часто «お風呂» (ofuro) означає «ванна». Японці зазвичай приймають ванну щовечора, щоб розслабитися.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1500100-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Ofuro ni hairimasu.
+:END:
+- JA :: お風呂に入ります。
+- READING :: おふろ に はいります。
+- ROMAJI :: Ofuro ni hairimasu.
+- UK :: Я приймаю ванну.
+- EN :: I take a bath.
+- FOCUS :: お風呂 (ofuro)
+*** ex-1500100-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Mainichi, atsui ofuro ni hairimasu.
+:END:
+- JA :: 毎日、熱いお風呂に入ります。
+- READING :: まいにち、 あつい おふろ に はいります。
+- ROMAJI :: Mainichi, atsui ofuro ni hairimasu.
+- UK :: Щодня я приймаю гарячу ванну.
+- EN :: I take a hot bath every day.
+- FOCUS :: お風呂 (ofuro)
+*** ex-1500100-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Tsukareta toki wa, yukkuri ofuro ni haitte yasunde kudasai.
+:END:
+- JA :: 疲れた時は、ゆっくりお風呂に入って休んでください。
+- READING :: つかれた とき は、 ゆっくり おふろ に はいって やすんで ください。
+- ROMAJI :: Tsukareta toki wa, yukkuri ofuro ni haitte yasunde kudasai.
+- UK :: Коли ви втомилися, будь ласка, не поспішаючи прийміть ванну та відпочиньте.
+- EN :: When you are tired, please take a leisurely bath and rest.
+- FOCUS :: お風呂 (ofuro)
+
+* Sense s-1500100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4de65b0fce373e00a79ed1bcce45a95f8133a759e5fa704fd4a67d8b9f6ae518
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bathhouse
+- public bath
+** Ukrainian glosses
+*** uk-s-1500100-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лазня
+
+* Sense s-1500100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5b5518ca1b90a284898b35ba946b813a2f5fabb65cd9640fcad0fe9f962068de
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- room for drying lacquerware
+** Ukrainian glosses
+*** uk-s-1500100-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сушарка
+- qualifier :: для лакованих виробів
+
+* Sense s-1500100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6c214ceb6852dfee30c80fa7fd355b1814d7ae710a48bd61bfb63fbd8fbfc4c2
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)
+** Ukrainian glosses
+*** uk-s-1500100-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дерев'яне з'єднання
+- qualifier :: в мотиці тощо
+
