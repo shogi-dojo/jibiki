@@ -1,0 +1,222 @@
+#+TITLE: 一人
+#+JMDICT_ID: 1576150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひとり
+#+ROMAJI: hitori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1576150-001
+:PROPERTIES:
+:TEXT: 一人
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Written form wf-1576150-002
+:PROPERTIES:
+:TEXT: １人
+:END:
+*** Priorities
+- spec1
+** Written form wf-1576150-003
+:PROPERTIES:
+:TEXT: 独り
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Reading rd-1576150-001
+:PROPERTIES:
+:TEXT: ひとり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+- nf16
+- spec1
+** Reading rd-1576150-002
+:PROPERTIES:
+:TEXT: いちにん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 一人
+- １人
+
+* Sense s-1576150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2ebb2770b2e254174c2fd3ae0d6ed4699d0c20de10971b0ec584a9492562c4e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 一人, １人
+** English glosses
+- one person
+** Ukrainian glosses
+*** uk-s-1576150-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: одна людина
+** Learner notes
+*** note-s-1576150-001-001
+:PROPERTIES:
+:END:
+- UK :: Слово для підрахунку людей. Читається як «ひとり», що є винятком з правила читання ієрогліфів. Також часто використовується зі значенням «самостійно».
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1576150-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Hitori de byouin e ikimasu.
+:END:
+- JA :: 一人で病院へ行きます。
+- READING :: ひとり で びょういん へ いきます。
+- ROMAJI :: Hitori de byouin e ikimasu.
+- UK :: Я йду до лікарні сам.
+- EN :: I will go to the hospital alone.
+- FOCUS :: 一人[ひとり]
+*** ex-1576150-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Kyoushitsu ni gakusei ga hitori imasu.
+:END:
+- JA :: 教室に学生が一人います。
+- READING :: きょうしつ に がくせい が ひとり います。
+- ROMAJI :: Kyoushitsu ni gakusei ga hitori imasu.
+- UK :: У класі є один студент.
+- EN :: There is one student in the classroom.
+- FOCUS :: 一人[ひとり]
+*** ex-1576150-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Mada kodomo nanode, hitori de ryokou suru no wa sukoshi muzukashii desu.
+:END:
+- JA :: まだ子供なので、一人で旅行するのは少し難しいです。
+- READING :: まだ こども なので、ひとり で りょこう する の は すこし むずかしい です。
+- ROMAJI :: Mada kodomo nanode, hitori de ryokou suru no wa sukoshi muzukashii desu.
+- UK :: Оскільки він ще дитина, йому трохи складно подорожувати самостійно.
+- EN :: Because they are still a child, traveling alone is a bit difficult.
+- FOCUS :: 一人[ひとり]
+
+* Sense s-1576150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e73c1eb0b0acdfa1de1ce351456f38a01b42155fdaeab4f5546214a30bdbcec2
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ひとり
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 一人で
+** English glosses
+- being alone
+- being by oneself
+** Ukrainian glosses
+
+* Sense s-1576150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 18c7485f1a760c583c13e1d8d8afc56e5ec8490ac6a1ed9c754e69a876ad60db
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ひとり
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 独り
+** English glosses
+- being single
+- being unmarried
+** Ukrainian glosses
+
+* Sense s-1576150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1950e310007394fdfeafac8076afe99d90103f71cb8c26588b79afd6c9b0e297
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ひとり
+** JMdict metadata
+*** Parts of speech
+- adv
+** English glosses
+- by oneself
+- alone
+** Ukrainian glosses
+*** uk-s-1576150-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сам
+- qualifier :: наодинці
+
+* Sense s-1576150-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6e3fd19edccfa6e91e2fd209acb80ee6605f1518e21bd4193c699ac9a321e8b3
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ひとり
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+*** Sense information
+- with neg. sentence
+** English glosses
+- just
+- only
+- simply
+** Ukrainian glosses
+
