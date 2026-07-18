@@ -1,0 +1,81 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  # Build the sqlite3 gem against the distro libsqlite3: the gem's vendored
+  # amalgamation (and its precompiled binaries) omit FTS3/FTS4, which the
+  # Houhou overlay schema requires.
+  BUNDLE_BUILD__SQLITE3: "--enable-system-libraries"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install libsqlite3 headers
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev pkg-config
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0.5'
+          bundler-cache: true
+          cache-version: 1
+      - name: Run tests
+        run: bundle exec rake test
+      - name: Export smoke test
+        run: |
+          bundle exec rake "export:rich[build/jibiki.sqlite]"
+          sqlite3 build/jibiki.sqlite "PRAGMA integrity_check; SELECT count(*) FROM entries;"
+
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install libsqlite3 headers
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev pkg-config
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0.5'
+          bundler-cache: true
+          cache-version: 1
+      - name: Get weekly cache key
+        id: cache-key
+        run: echo "key=jmdict-$(date +'%G-%V')" >> $GITHUB_OUTPUT
+      - name: Cache JMdict
+        id: cache-jmdict
+        uses: actions/cache@v4
+        with:
+          path: sources/jmdict/JMdict.xml.gz
+          key: ${{ steps.cache-key.outputs.key }}
+      - name: Download JMdict
+        if: steps.cache-jmdict.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p sources/jmdict
+          curl -fL http://ftp.edrdg.org/pub/Nihongo/JMdict.gz -o sources/jmdict/JMdict.xml.gz
+      - name: Run entries validation
+        run: bundle exec rake entries:validate
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install libsqlite3 headers
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev pkg-config
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0.5'
+          bundler-cache: true
+          cache-version: 1
+      - name: Install Emacs
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y emacs-nox
+      - name: Run org linting
+        run: bundle exec rake org:lint

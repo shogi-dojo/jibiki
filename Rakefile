@@ -105,6 +105,34 @@ namespace :org do
   end
 end
 
+namespace :export do
+  desc 'Export the rich learner SQLite database: rake "export:rich[build/jibiki.sqlite,base_db_path]"'
+  task :rich, %i[output base] do |_task, args|
+    args.with_defaults(output: 'build/jibiki.sqlite')
+    command = [RUBY, 'scripts/export_rich_db.rb', '--output', args[:output]]
+    command += ['--base', args[:base]] if args[:base]
+    sh(*command)
+  end
+
+  desc 'Export the Houhou overlay DB: rake "export:overlay[base_db_path,output,base_overlay_path]"'
+  task :overlay, %i[base output base_overlay] do |_task, args|
+    abort 'Provide base KanjiDatabase.sqlite path as first argument.' unless args[:base]
+    args.with_defaults(output: 'build/DictionaryTranslations.sqlite')
+    command = [RUBY, 'scripts/export_houhou_overlay.rb',
+               '--base', args[:base],
+               '--output', args[:output]]
+    command += ['--base-overlay', args[:base_overlay]] if args[:base_overlay]
+    sh(*command)
+  end
+
+  desc 'Export both rich DB and overlay: rake "export:all[base_db_path]"'
+  task :all, %i[base base_overlay] do |_task, args|
+    abort 'Provide base KanjiDatabase.sqlite path as first argument.' unless args[:base]
+    Rake::Task['export:rich'].invoke(nil, args[:base])
+    Rake::Task['export:overlay'].invoke(args[:base], nil, args[:base_overlay])
+  end
+end
+
 Rake::TestTask.new(:test) do |task|
   task.libs << 'test'
   task.pattern = 'test/**/*_test.rb'
