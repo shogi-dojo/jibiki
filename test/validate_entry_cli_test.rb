@@ -35,6 +35,21 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_rejects_duplicate_jmdict_ids_across_files
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      first = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      second = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, romaji: 'aoi')
+
+      stdout, _stderr, status = run_cli(jmdict, first, second)
+
+      refute status.success?, 'two files must not claim the same JMDICT_ID'
+      assert_includes stdout, 'Duplicate JMDICT_ID 1381380 across files'
+      assert_includes stdout, first
+      assert_includes stdout, second
+    end
+  end
+
   def test_one_bad_entry_fails_the_whole_batch
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory, ent_seqs: %w[1381380 1381390])
@@ -272,11 +287,11 @@ class ValidateEntryCliTest < Minitest::Test
   end
 
   # Mirrors the on-disk layout the validator enforces: entries/<id[0,4]>/<id>-<romaji>.org
-  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil, examples: nil)
+  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil, examples: nil, romaji: 'ao')
     fingerprint ||= source_fingerprint(jmdict, ent_seq)
-    path = File.join(directory, 'entries', ent_seq[0, 4], "#{ent_seq}-ao.org")
+    path = File.join(directory, 'entries', ent_seq[0, 4], "#{ent_seq}-#{romaji}.org")
     FileUtils.mkdir_p(File.dirname(path))
-    File.write(path, entry_body(ent_seq:, fingerprint:, examples:), encoding: Encoding::UTF_8)
+    File.write(path, entry_body(ent_seq:, fingerprint:, examples:, romaji:), encoding: Encoding::UTF_8)
     path
   end
 
@@ -290,13 +305,13 @@ class ValidateEntryCliTest < Minitest::Test
     entry && entry[:senses].first[:source_fingerprint]
   end
 
-  def entry_body(ent_seq:, fingerprint:, examples: nil)
+  def entry_body(ent_seq:, fingerprint:, examples: nil, romaji: 'ao')
     body = <<~ORG
       #+TITLE: 青
       #+JMDICT_ID: #{ent_seq}
       #+SCHEMA_VERSION: 2
       #+PRIMARY_READING: あお
-      #+ROMAJI: ao
+      #+ROMAJI: #{romaji}
       #+ENTRY_STATUS: draft
       #+QUALITY_PROFILE: learner
       #+JMDICT_SOURCE_SHA256: 0000000000000000000000000000000000000000000000000000000000000000
