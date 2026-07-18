@@ -1,0 +1,281 @@
+#+TITLE: 見る
+#+JMDICT_ID: 1259290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みる
+#+ROMAJI: miru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-07-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1259290-001
+:PROPERTIES:
+:TEXT: 見る
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1259290-002
+:PROPERTIES:
+:TEXT: 観る
+:END:
+*** Priorities
+- spec1
+** Written form wf-1259290-003
+:PROPERTIES:
+:TEXT: 視る
+:END:
+** Written form wf-1259290-004
+:PROPERTIES:
+:TEXT: 覧る
+:END:
+*** Information
+- sK
+** Reading rd-1259290-001
+:PROPERTIES:
+:TEXT: みる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+- spec1
+
+* Sense s-1259290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a5e1361326187dd74f352eca1bf278e4262d95076f03ee3d68f8d1d4b2b6c75d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to see
+- to look
+- to watch
+- to view
+- to observe
+** Ukrainian glosses
+*** uk-s-1259290-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бачити
+*** uk-s-1259290-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дивитися
+** Learner notes
+*** note-s-1259290-001-001
+:PROPERTIES:
+:END:
+- UK :: 見る (miru) — одне з найважливіших дієслів японської мови. Окрім прямого значення 'бачити', часто використовується в конструкції 〜てみる (пробувати щось зробити).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1259290-001-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: terebi o mimasu.
+:END:
+- JA :: テレビを見ます。
+- READING :: テレビを 見[み]ます。
+- ROMAJI :: terebi o mimasu.
+- UK :: Я дивлюся телевізор.
+- EN :: I watch TV.
+- FOCUS :: 見ます
+*** ex-1259290-001-002
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: kinoo, tomodachi o mimashita.
+:END:
+- JA :: 昨日、友達を見ました。
+- READING :: 昨[きのう]日[日]、 友[とも]達[だち]を 見[み]ました。
+- ROMAJI :: kinoo, tomodachi o mimashita.
+- UK :: Вчора я бачив свого друга.
+- EN :: I saw my friend yesterday.
+- FOCUS :: 見ました
+*** ex-1259290-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: atarashii rāmen ya ni itte mimashō.
+:END:
+- JA :: 新しいラーメン屋に行ってみましょう。
+- READING :: 新[あたら]しいラーメン 屋[や]に 行[い]ってみましょう。
+- ROMAJI :: atarashii rāmen ya ni itte mimashō.
+- UK :: Давай спробуємо сходити в ту нову раменну.
+- EN :: Let's try going to the new ramen shop.
+- FOCUS :: みましょう
+
+* Sense s-1259290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e36eff4be8d656c6aedb824ea5001f43822d8cc5cafd1a4a12ee7383e8cb4095
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to examine
+- to look over
+- to assess
+- to check
+- to judge
+** Ukrainian glosses
+*** uk-s-1259290-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: оглядати
+*** uk-s-1259290-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перевіряти
+
+* Sense s-1259290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 930e9a35edc5356e9e84af9fc284f8b3a7dcb5314a1f95ef80f7fa26cb2a5f0a
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Cross-references
+- 看る
+** English glosses
+- to look after
+- to attend to
+- to take care of
+- to keep an eye on
+** Ukrainian glosses
+*** uk-s-1259290-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: доглядати
+- qualifier :: за кимось
+
+* Sense s-1259290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 42196a7532f069f026d4a8db6aa152b718537d8c6742fda11a86fecc64170453
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to experience
+- to meet with (misfortune, success, etc.)
+** Ukrainian glosses
+*** uk-s-1259290-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зазнавати
+- qualifier :: невдачі, успіху
+
+* Sense s-1259290-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 743d6eef2977295a3c1e2b3c21d4b99b5b210bd7f748266aa3f8b1064f0c1ea4
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+- v1
+*** Miscellaneous and register
+- uk
+*** Sense information
+- after the -te form of a verb
+** English glosses
+- to try ...
+- to have a go at ...
+- to give ... a try
+** Ukrainian glosses
+*** uk-s-1259290-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пробувати
+- qualifier :: щось зробити
+
+* Sense s-1259290-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 54659d3ddc627f6743f11fcb4c1c76c4a245b8a73824c6f42a06c5326b58c1fc
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+- v1
+*** Miscellaneous and register
+- uk
+*** Sense information
+- as 〜てみると, 〜てみたら, 〜てみれば, etc.
+** English glosses
+- to see (that) ...
+- to find (that) ...
+** Ukrainian glosses
+*** uk-s-1259290-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розуміти
+*** uk-s-1259290-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-07-18
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бачити що...
+
