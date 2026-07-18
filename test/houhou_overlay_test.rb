@@ -236,4 +236,90 @@ class HouhouOverlayTest < Minitest::Test
     assert_equal "ok", result
     db.disconnect
   end
+
+  # ---------------------------------------------------------------------------
+  # Merge mode tests
+  # ---------------------------------------------------------------------------
+
+  # Build a donor overlay SQLite file containing pre-seeded rows.
+  def build_donor_overlay(rows)
+    path = Tempfile.new(["donor", ".sqlite"]).path
+    db   = Sequel.sqlite(path)
+    db.run <<~SQL
+      CREATE TABLE Metadata(Key TEXT NOT NULL PRIMARY KEY, Value TEXT NOT NULL);
+    SQL
+    db.run <<~SQL
+      CREATE TABLE LocalizedVocabMeaning(
+        VocabId INTEGER NOT NULL, Language TEXT NOT NULL, Meaning TEXT NOT NULL,
+        PRIMARY KEY(VocabId, Language, Meaning)) WITHOUT ROWID;
+    SQL
+    db.run <<~SQL
+      CREATE VIRTUAL TABLE LocalizedVocabSearchFts USING fts4(
+        VocabId, Language, Meanings, notindexed=VocabId, tokenize=unicode61);
+    SQL
+    db[:Metadata].insert(Key: "SchemaVersion", Value: "1")
+    rows.each { |r| db[:LocalizedVocabMeaning].insert(r) }
+    db.disconnect
+    path
+  end
+
+  def run_merge_export(entries, base_rows, donor_rows)
+    donor_path = build_donor_overlay(donor_rows)
+    _stats, _out, db, log = run_export(entries, base_rows, base_overlay_path: donor_path)
+    [db, log]
+  ensure
+    FileUtils.rm_f(donor_path) if donor_path
+  end
+
+  def test_merge_copies_russian_rows_from_donor
+    # Donor has 'ru' rows for a VocabId not covered by jibiki.
+    donor_rows = [
+      { VocabId: 9001, Language: "ru", Meaning: "понимать" }
+    ]
+    db, = run_merge_export([], [], donor_rows)
+    meanings = db[:LocalizedVocabMeaning].where(Language: "ru").select_map(:Meaning)
+    assert_includes meanings, "понимать"
+    db.disconnect
+  end
+
+  def test_merge_preserves_foreign_uk_rows_for_unmatched_vocab_ids
+    # Donor has a 'uk' row for a VocabId jibiki does NOT cover.
+    donor_rows = [
+      { VocabId: 8888, Language: "uk", Meaning: "чужий запис" }
+    ]
+    db, = run_merge_export([], [], donor_rows)
+    meanings = db[:LocalizedVocabMeaning].where(VocabId: 8888, Language: "uk").select_map(:Meaning)
+    assert_includes meanings, "чужий запис"
+    db.disconnect
+  end
+
+  def test_merge_jibiki_wins_conflict_for_covered_vocab_id
+    # Donor has a stale 'uk' row for a VocabId that jibiki DOES cover — it should NOT appear.
+    donor_rows = [
+      { VocabId: 1001, Language: "uk", Meaning: "старий запис" }
+    ]
+    db, = run_merge_export([wakaru_entry], WAKARU_ROWS, donor_rows)
+    meanings = db[:LocalizedVocabMeaning].where(VocabId: 1001, Language: "uk").select_map(:Meaning)
+    refute_includes meanings, "старий запис"
+    assert_includes meanings, "розуміти"
+    db.disconnect
+  end
+
+  def test_merge_metadata_contains_merged_from_key
+    donor_rows = [{ VocabId: 7001, Language: "ru", Meaning: "тест" }]
+    donor_path = build_donor_overlay(donor_rows)
+    _stats, _out, db = run_export([], [], base_overlay_path: donor_path)
+    val = db[:Metadata].where(Key: "MergedFrom").get(:Value)
+    refute_nil val
+    db.disconnect
+  ensure
+    FileUtils.rm_f(donor_path) if donor_path
+  end
+
+  def test_no_merged_from_key_without_merge_mode
+    _stats, _out, db = run_export([wakaru_entry], WAKARU_ROWS)
+    val = db[:Metadata].where(Key: "MergedFrom").get(:Value)
+    assert_nil val
+    db.disconnect
+  end
 end
