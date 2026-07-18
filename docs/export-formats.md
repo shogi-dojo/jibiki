@@ -22,9 +22,15 @@ The `metadata` table stores key-value pairs describing the build:
 
 ### Tables and Schema
 
+Per-entry tables carry an index on `jmdict_id` and per-sense tables an index on
+`sense_id`, so consumers can look rows up without table scans.
+
 #### `entries`
 Main entry record containing overall entry status and quality profile:
-- `jmdict_id` (INTEGER, Primary Key) - The JMdict sequence number (ent_seq).
+- `jmdict_id` (INTEGER, Primary Key) - The JMdict sequence number (ent_seq). If two
+  Org files share a JMDICT_ID (reading aliases of one JMdict entry), the exporter
+  keeps the first by path order and reports the rest as `DUPLICATE JMDICT_ID` on
+  stderr.
 - `title` (TEXT) - Display title (first written form or reading).
 - `primary_reading` (TEXT) - Primary reading.
 - `romaji` (TEXT) - Hepburn romanization search alias.
@@ -196,8 +202,9 @@ Sourced pitch accent data:
 Join table linking JMdict sequence IDs (`jmdict_id`) to Houhou-SRS target vocabulary IDs (`vocab_id`):
 - `jmdict_id` (INTEGER) - Foreign key to `entries`.
 - `vocab_id` (INTEGER) - Foreign key to Houhou's `VocabSet.ID`.
-- `writing` (TEXT) - Normalised matching writing.
-- `reading` (TEXT) - Normalised matching reading.
+- `writing` (TEXT) - Matching writing (NULL when the match came from a kana-only or
+  reading fallback; see Matching Strategy in the overlay section).
+- `reading` (TEXT) - Matching reading.
 - `is_main` (INTEGER) - 1 if primary entry mapping, 0 if secondary.
 - *Primary Key*: `(jmdict_id, vocab_id)`
 
@@ -267,6 +274,20 @@ key = [nfkc(COALESCE(NULLIF(KanjiWriting,''), KanaWriting)), hiragana(nfkc(KanaW
 Katakana in `KanaWriting` is converted to hiragana (shift −0x60 for codepoints U+30A1–U+30F6).
 Both writing and reading are NFKC-normalised. Kana-only entries use the reading as the
 effective writing.
+
+When every exact `(writing, reading)` pair of an entry misses, two fallbacks run in order:
+
+1. **Kana-only lookup** — the reading alone is tried as the effective writing. This
+   matches entries whose rare-kanji forms (`rK`) Houhou's base dropped, leaving a
+   kana-only `VocabSet` row (e.g. コップ authored with 洋杯/洋盃).
+2. **Unambiguous reading match** — the reading is matched against all `VocabSet` rows
+   regardless of writing, but only when every candidate row shares a single `GroupId`
+   (one word). This matches entries where Houhou kept a kanji jibiki omits (e.g. 否 for
+   いいえ) while refusing homophones (橋/箸/端 stay unmatched).
+
+Entries that still miss are reported on stdout as `UNMATCHED ent_seq: N` and never
+silently dropped. Both exporters share these rules, so `vocab_mapping` coverage in the
+rich DB equals overlay coverage.
 
 ### Meaning Format
 
