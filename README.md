@@ -104,6 +104,44 @@ rake
 The default task runs extractor unit tests, validates all entries against the
 local JMdict archive, and runs `org-lint` on entries.
 
+## Export
+
+Two SQLite files can be exported from the corpus. Both are written to the `build/`
+directory (gitignored):
+
+| File | Purpose |
+|---|---|
+| `build/jibiki.sqlite` | Rich learner DB with all parsed content (senses, glosses, examples, pitch accent, vocab mapping). |
+| `build/DictionaryTranslations.sqlite` | Drop-in Houhou-SRS overlay (SchemaVersion 1, FTS4, Ukrainian/Russian glosses). |
+
+### Rich learner database
+
+```sh
+bundle exec rake "export:rich[build/jibiki.sqlite]"
+
+# With Houhou vocab mapping (optional):
+bundle exec rake "export:rich[build/jibiki.sqlite,/path/to/KanjiDatabase.sqlite]"
+```
+
+### Houhou overlay
+
+```sh
+# Ukrainian-only:
+bundle exec rake "export:overlay[/path/to/KanjiDatabase.sqlite]"
+
+# With merged Russian rows from an existing overlay:
+bundle exec rake "export:overlay[/path/to/KanjiDatabase.sqlite,build/DictionaryTranslations.sqlite,/path/to/donor/DictionaryTranslations.sqlite]"
+```
+
+### Both at once
+
+```sh
+bundle exec rake "export:all[/path/to/KanjiDatabase.sqlite]"
+```
+
+See [`docs/export-formats.md`](docs/export-formats.md) for full schema documentation and
+[`docs/houhou-integration.md`](docs/houhou-integration.md) for Android-app integration notes.
+
 ## Repository layout
 
 - `PROGRESS.md` — merge-oriented inventory and editorial maturity ledger

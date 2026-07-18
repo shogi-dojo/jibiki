@@ -18,6 +18,10 @@ jobs:
           bundler-cache: true
       - name: Run tests
         run: bundle exec rake test
+      - name: Export smoke test
+        run: |
+          bundle exec rake "export:rich[build/jibiki.sqlite]"
+          sqlite3 build/jibiki.sqlite "PRAGMA integrity_check; SELECT count(*) FROM entries;"
 
   validate:
     runs-on: ubuntu-latest
