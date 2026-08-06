@@ -105,7 +105,7 @@ def format_entry(ent_seq:, jmdict_entry:, primary_reading:, romaji:, sha256:, cr
         lines << ":TYPE: #{source[:type]}"
         lines << ":WASEI: #{source[:wasei]}"
         lines << ':END:'
-        lines << "- text :: #{source[:text]}"
+        lines << (source[:text].to_s.strip.empty? ? '- text ::' : "- text :: #{source[:text]}")
       end
     end
 
