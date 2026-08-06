@@ -12,6 +12,7 @@
 
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/dictionary_sources/n5_queue'
+require_relative '../lib/dictionary_sources/n4_queue'
 require_relative 'source_cli'
 require_relative 'validate_entry'
 
@@ -192,25 +193,38 @@ def list_subsection(name, items)
 end
 
 if __FILE__ == $PROGRAM_NAME
-  options = {}
-  parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb --source-order N --romaji ROMAJI') do |cli|
-    cli.on('--source-order NUMBER', Integer, 'N5 queue source_order to scaffold') { |value| options[:source_order] = value }
+  options = { level: 'n5' }
+  parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb [options] --romaji ROMAJI') do |cli|
+    cli.on('--level LEVEL', 'Queue level (n5 or n4, default: n5)') { |value| options[:level] = value.to_s.downcase }
+    cli.on('--source-order NUMBER', Integer, 'Candidate queue source_order to scaffold') { |value| options[:source_order] = value }
+    cli.on('--jmdict-id ENT_SEQ', 'JMdict ent_seq to scaffold directly') { |value| options[:ent_seq] = value }
     cli.on('--romaji TEXT', 'Filename romaji (Modified Hepburn, lowercase)') { |value| options[:romaji] = value }
   end
   parser.parse!
 
-  abort 'Provide --source-order.' unless options[:source_order]
+  abort 'Provide --source-order or --jmdict-id.' unless options[:source_order] || options[:ent_seq]
   abort 'Provide --romaji.' unless options[:romaji]
 
-  SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH, SourceCLI::N5_PATH)
+  SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH)
 
-  queue_record = DictionarySources::N5Queue.new(SourceCLI::N5_PATH).fetch(options[:source_order])
+  level = options[:level] == 'n4' ? 'n4' : 'n5'
   jmdict = DictionarySources::Jmdict.new(SourceCLI::JMDICT_PATH)
-  matches = jmdict.lookup(written: queue_record[:written], reading: queue_record[:reading])
+  matches = nil
 
-  if matches.length != 1
-    abort "N5 source_order #{options[:source_order]} resolved to #{matches.length} JMdict entries; inspect and reconcile explicitly before scaffolding."
+  if options[:ent_seq]
+    matches = jmdict.lookup(ent_seq: options[:ent_seq])
+  elsif options[:source_order]
+    queue_path = level == 'n4' ? SourceCLI::N4_PATH : SourceCLI::N5_PATH
+    SourceCLI.ensure_exists!(queue_path)
+    queue = level == 'n4' ? DictionarySources::N4Queue.new(queue_path) : DictionarySources::N5Queue.new(queue_path)
+    queue_record = queue.fetch(options[:source_order])
+    matches = jmdict.lookup(written: queue_record[:written], reading: queue_record[:reading])
+    if matches.length != 1
+      abort "#{level.upcase} source_order #{options[:source_order]} resolved to #{matches.length} JMdict entries; inspect and reconcile explicitly before scaffolding."
+    end
   end
+
+  abort "No JMdict match found for #{options.inspect}" if matches.nil? || matches.empty?
 
   entry = matches.first
   ent_seq = entry[:ent_seq]

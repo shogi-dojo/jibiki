@@ -60,7 +60,7 @@ namespace :sources do
   task :n5, [:source_order] do |_task, args|
     abort 'Provide an N5 source_order.' unless args[:source_order]
 
-    sh RUBY, 'scripts/extract_word.rb', '--source-order', args[:source_order]
+    sh RUBY, 'scripts/extract_word.rb', '--level', 'n5', '--source-order', args[:source_order]
   end
 
   desc 'Create dossiers for a range of N5 rows in one pass: rake "sources:n5_batch[103,125]"'
@@ -68,6 +68,20 @@ namespace :sources do
     abort 'Provide from and to N5 source_orders.' unless args[:from] && args[:to]
 
     sh RUBY, 'scripts/extract_n5_batch.rb', '--from', args[:from], '--to', args[:to]
+  end
+
+  desc 'Create an ignored source dossier from one N4 row: rake "sources:n4[2]"'
+  task :n4, [:source_order] do |_task, args|
+    abort 'Provide an N4 source_order.' unless args[:source_order]
+
+    sh RUBY, 'scripts/extract_word.rb', '--level', 'n4', '--source-order', args[:source_order]
+  end
+
+  desc 'Create dossiers for a range of N4 rows in one pass: rake "sources:n4_batch[1,20]"'
+  task :n4_batch, %i[from to] do |_task, args|
+    abort 'Provide from and to N4 source_orders.' unless args[:from] && args[:to]
+
+    sh RUBY, 'scripts/extract_n4_batch.rb', '--from', args[:from], '--to', args[:to]
   end
 end
 
