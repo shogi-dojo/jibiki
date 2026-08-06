@@ -4,6 +4,34 @@ require 'minitest/autorun'
 require_relative '../lib/org_entry'
 
 class OrgEntryTest < Minitest::Test
+  def test_rejects_an_unknown_top_level_heading
+    error = assert_raises(OrgEntry::ParseError) do
+      OrgEntry::Entry.new(OrgEntry::Document.parse("* Bogus section\n"))
+    end
+
+    assert_equal 1, error.line_number
+    assert_includes error.message, "Unknown top-level heading 'Bogus section'"
+  end
+
+  def test_rejects_an_unknown_forms_child_heading
+    error = assert_raises(OrgEntry::ParseError) do
+      OrgEntry::Entry.new(OrgEntry::Document.parse("* Forms\n** Bogus form\n"))
+    end
+
+    assert_equal 2, error.line_number
+    assert_includes error.message, "Unknown Forms child heading 'Bogus form'"
+  end
+
+  def test_rejects_an_unknown_sense_subsection
+    error = assert_raises(OrgEntry::ParseError) do
+      content = "* Sense s-1-001\n** Bogus subsection\n"
+      OrgEntry::Entry.new(OrgEntry::Document.parse(content))
+    end
+
+    assert_equal 2, error.line_number
+    assert_includes error.message, "Unknown sense subsection 'Bogus subsection'"
+  end
+
   def test_load_from_heredoc
     content = <<~ORG
       #+TITLE: 彼処

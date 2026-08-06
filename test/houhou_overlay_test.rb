@@ -10,6 +10,12 @@ require_relative "../lib/exporters/houhou_overlay"
 require_relative "../lib/exporters/houhou_vocab_matcher"
 
 class HouhouOverlayTest < Minitest::Test
+  def test_exporter_helpers_are_private_class_methods
+    helpers = %i[create_schema unrestricted? build_candidate_pairs build_uk_meanings merge_donor]
+
+    assert_empty helpers - Exporters::HouhouOverlay.private_methods
+  end
+
   def setup
     @tmpdir = Dir.mktmpdir
     @file_seq = 0

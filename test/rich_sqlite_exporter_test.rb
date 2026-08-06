@@ -9,6 +9,12 @@ require_relative '../lib/org_entry'
 require_relative '../lib/exporters/rich_sqlite'
 
 class RichSqliteExporterTest < Minitest::Test
+  def test_exporter_helpers_are_private_class_methods
+    helpers = %i[build_vocab_mapping_rows get_git_commit]
+
+    assert_empty helpers - Exporters::RichSqlite.private_methods
+  end
+
   def test_export_builds_valid_database_with_correct_structure
     content = <<~ORG
       #+TITLE: 彼処

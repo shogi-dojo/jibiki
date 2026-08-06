@@ -354,12 +354,12 @@ module Exporters
       pairs.uniq
     end
 
-    private
-
     def self.get_git_commit
       `git rev-parse HEAD`.strip
     rescue
       ''
     end
+
+    private_class_method :build_vocab_mapping_rows, :get_git_commit
   end
 end
