@@ -9,7 +9,9 @@ require_relative 'source_cli'
 
 options = { level: 'n5' }
 parser = SourceCLI.common_parser(options, banner: 'Usage: extract_word.rb [options]') do |cli|
-  cli.on('--level LEVEL', 'Queue level (n5 or n4, default: n5)') { |value| options[:level] = value.to_s.downcase }
+  cli.on('--level LEVEL', %w[n5 n4], 'Queue level (n5 or n4, default: n5)') do |value|
+    options[:level] = value
+  end
   cli.on('--source-order NUMBER', Integer, 'Load written form and reading from the candidate queue') do |value|
     options[:source_order] = value
   end
@@ -20,7 +22,7 @@ parser.parse!
 
 SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH, SourceCLI::WARODAI_PATH)
 
-level = options[:level] == 'n4' ? 'n4' : 'n5'
+level = options.fetch(:level)
 queue_record = nil
 if options[:source_order]
   queue_path = level == 'n4' ? SourceCLI::N4_PATH : SourceCLI::N5_PATH

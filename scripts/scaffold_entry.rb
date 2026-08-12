@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Canonical schema v2 entry scaffolder: reads the same N5 dossier sources as
-# `rake sources:n5[N]` and emits a complete Org entry with every derived
+# Canonical schema v2 entry scaffolder: reads the N5/N4 candidate queues or a
+# direct JMdict ID and emits a complete Org entry with every derived
 # section (forms, senses, POS, English glosses, ru-ref, fingerprints) filled
 # in, and every authored slot (Ukrainian gloss, learner note, example) marked
 # with the exact validator placeholder text, so the gate stays red until an
@@ -195,7 +195,9 @@ end
 if __FILE__ == $PROGRAM_NAME
   options = { level: 'n5' }
   parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb [options] --romaji ROMAJI') do |cli|
-    cli.on('--level LEVEL', 'Queue level (n5 or n4, default: n5)') { |value| options[:level] = value.to_s.downcase }
+    cli.on('--level LEVEL', %w[n5 n4], 'Queue level (n5 or n4, default: n5)') do |value|
+      options[:level] = value
+    end
     cli.on('--source-order NUMBER', Integer, 'Candidate queue source_order to scaffold') { |value| options[:source_order] = value }
     cli.on('--jmdict-id ENT_SEQ', 'JMdict ent_seq to scaffold directly') { |value| options[:ent_seq] = value }
     cli.on('--romaji TEXT', 'Filename romaji (Modified Hepburn, lowercase)') { |value| options[:romaji] = value }
@@ -203,11 +205,12 @@ if __FILE__ == $PROGRAM_NAME
   parser.parse!
 
   abort 'Provide --source-order or --jmdict-id.' unless options[:source_order] || options[:ent_seq]
+  abort 'Provide only one of --source-order or --jmdict-id.' if options[:source_order] && options[:ent_seq]
   abort 'Provide --romaji.' unless options[:romaji]
 
   SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH)
 
-  level = options[:level] == 'n4' ? 'n4' : 'n5'
+  level = options.fetch(:level)
   jmdict = DictionarySources::Jmdict.new(SourceCLI::JMDICT_PATH)
   matches = nil
 
