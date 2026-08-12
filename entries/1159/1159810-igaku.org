@@ -1,0 +1,300 @@
+#+TITLE: 医学
+#+JMDICT_ID: 1159810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いがく
+#+ROMAJI: igaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1159810-001
+:PROPERTIES:
+:TEXT: 医学
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1159810-001
+:PROPERTIES:
+:TEXT: いがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1159810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d2a6de45a71c1b6f1191cee8c4d2bb085ff87d8eff14e276e7d0f98e53a2e7b8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- medicine
+- medical science
+** Ukrainian glosses
+*** uk-s-1159810-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: медицина, медичні науки
+** Learner notes
+*** note-s-1159810-001-001
+:PROPERTIES:
+:END:
+- UK :: медицина, медичні науки
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1159810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は医学を勉強しています。
+- READING :: あに は いがく を べんきょう しています。
+- UK :: Мій старший брат вивчає медицину.
+- EN :: My older brother is studying medicine.
+- FOCUS :: 医学 (медицина)
+*** ex-1159810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 将来は医学の研究者になりたいです。
+- READING :: しょうらい は いがく の けんきゅうしゃ に なりたい です。
+- UK :: У майбутньому я хочу стати дослідником у галузі медицини.
+- EN :: I want to become a medical researcher in the future.
+- FOCUS :: 医学の (медичний, у галузі медицини)
+*** ex-1159810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医学の進歩により、多くの病気が治るようになりました。
+- READING :: いがく の しんぽ に より、 おおく の びょうき が なおる よう に なりました。
+- UK :: Завдяки прогресу медицини багато хвороб стали виліковними.
+- EN :: Due to medical progress, many diseases have become curable.
+- FOCUS :: 医学の進歩 (прогрес медицини)
+
+* Sense s-1159810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 31a5e8b97ac8573d4d6fe84925f46cbbdb4584dee784f67c24e42581bc271e36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medische wetenschap
+*** en-s-1159810-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geneeskunde
+*** en-s-1159810-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicijnen
+** Ukrainian glosses
+
+* Sense s-1159810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dcc282934160d5c0921238f2706b3ab3b407d5954aa1b4666a5c1fba561a0c04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: médecine
+** Ukrainian glosses
+
+* Sense s-1159810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b093ba1c534b14e7ca4a490db4de6fc7ddc797cd9b4f68e8d204488aa4da74c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medizin
+*** en-s-1159810-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Heilkunde
+*** en-s-1159810-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medizinische Wissenschaft
+** Ukrainian glosses
+
+* Sense s-1159810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: da1bbc6df8714077670b6fd2799f8ce0f48d98e437d30c1c8488b9d4c8ca8471
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belgyógyászat
+*** en-s-1159810-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boszorkányság
+*** en-s-1159810-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvostan
+*** en-s-1159810-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvostudomány
+*** en-s-1159810-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varázs
+*** en-s-1159810-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varázslat
+** Ukrainian glosses
+
+* Sense s-1159810-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 99dc3a25fa2129ae1bd58810ea0b5f4092b636a1ec69b7f78097094a8d43bc1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: медицина (наука)
+** Ukrainian glosses
+
+* Sense s-1159810-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8eeabaf9a5c33aa2340a06d4a32230690e32bcfef1c847954bf7abc6def2efc2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicina
+** Ukrainian glosses
+
+* Sense s-1159810-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 661490d93b094e6fb4bfd8f3da595129a3a4eb90275b7eb1e34f5906b877d098
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159810-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicina
+*** en-s-1159810-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ciencia médica
+** Ukrainian glosses
