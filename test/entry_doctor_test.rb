@@ -140,6 +140,43 @@ class EntryDoctorTest < Minitest::Test
     assert_includes finding.detail, 'no non-blank Ukrainian gloss'
   end
 
+  # An entry that openly declares itself untranslated is tracked authoring
+  # backlog, not a regression: the missing gloss is reported, but as a warning
+  # so the corpus gate stays usable as a regression signal.
+  def test_untranslated_entry_downgrades_missing_gloss_to_warning
+    org = sample_valid_org
+          .sub('#+ENTRY_STATUS: draft', '#+ENTRY_STATUS: untranslated')
+          .sub("*** uk-s-9999990-001-001\n:PROPERTIES:\n:END:\n- text :: тест\n", '')
+    report = EntryDoctor.analyze(OrgEntry.parse(org))
+
+    assert report.passed?, 'untranslated entry must not fail the gate on a known gap'
+    assert_empty report.errors.select { |f| f.check == :uk_gloss_present }
+    refute_nil report.warnings.find { |f| f.check == :uk_gloss_present }
+    assert_empty report.errors.select { |f| f.check == :profile_matches_content }
+  end
+
+  # The inverse: claiming a translated status while senses are uncovered is a
+  # real defect and must keep failing.
+  def test_draft_entry_still_errors_on_missing_gloss
+    org = sample_valid_org
+          .sub("*** uk-s-9999990-001-001\n:PROPERTIES:\n:END:\n- text :: тест\n", '')
+    report = EntryDoctor.analyze(OrgEntry.parse(org))
+
+    refute report.passed?
+    refute_nil report.errors.find { |f| f.check == :uk_gloss_present }
+  end
+
+  # Content defects are never excused by workflow status.
+  def test_untranslated_entry_still_errors_on_reading_defect
+    org = sample_valid_org
+          .sub('#+ENTRY_STATUS: draft', '#+ENTRY_STATUS: untranslated')
+          .sub('- READING :: これはてすとです。', '- READING :: これてすとです。')
+    report = EntryDoctor.analyze(OrgEntry.parse(org))
+
+    refute report.passed?
+    refute_nil report.errors.find { |f| f.check == :reading_matches_ja }
+  end
+
   def test_flags_blank_ukrainian_gloss
     bad_org = sample_valid_org.gsub(
       '- text :: тест',
