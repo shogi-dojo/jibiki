@@ -164,7 +164,7 @@ namespace :doctor do
   desc 'Generate HTML doctor report: rake "doctor:report[build/doctor_report.html]"'
   task :report, [:output] do |_task, args|
     args.with_defaults(output: 'build/doctor_report.html')
-    sh RUBY, 'scripts/doctor.rb', '--report', args[:output]
+    sh(RUBY, 'scripts/doctor.rb', '--report', args[:output]) { |_ok, _res| true }
   end
 end
 
