@@ -149,6 +149,25 @@ namespace :export do
   end
 end
 
+desc 'Score corpus health and check for editorial defects across all entries'
+task :doctor do
+  sh RUBY, 'scripts/doctor.rb'
+end
+
+namespace :doctor do
+  desc 'Score health and show verbose findings for one entry: rake "doctor:entry[entries/1464/1464530-nihongo.org]"'
+  task :entry, [:path] do |_task, args|
+    abort 'Provide an entry path: rake "doctor:entry[entries/1464/1464530-nihongo.org]"' unless args[:path]
+    sh RUBY, 'scripts/doctor.rb', args[:path]
+  end
+
+  desc 'Generate HTML doctor report: rake "doctor:report[build/doctor_report.html]"'
+  task :report, [:output] do |_task, args|
+    args.with_defaults(output: 'build/doctor_report.html')
+    sh RUBY, 'scripts/doctor.rb', '--report', args[:output]
+  end
+end
+
 Rake::TestTask.new(:test) do |task|
   task.libs << 'test'
   task.pattern = 'test/**/*_test.rb'
