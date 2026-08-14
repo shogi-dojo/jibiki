@@ -64,7 +64,7 @@ module EntryDoctor
     def kana_skeleton(str)
       return [] if str.nil?
 
-      normalized = Exporters::HouhouVocabMatcher.nfkc(str.to_s)
+      normalized = Exporters::HouhouVocabMatcher.nfkc(str.to_s).gsub(/[ヶヵゖゕ]/, 'か')
       hira = Exporters::HouhouVocabMatcher.to_hiragana(normalized)
       hira.chars.select do |ch|
         cp = ch.ord

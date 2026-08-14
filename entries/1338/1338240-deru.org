@@ -4,7 +4,7 @@
 #+PRIMARY_READING: でる
 #+ROMAJI: deru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -85,7 +85,7 @@
 :ROMAJI: Maiasa hachi-ji ni ie o demasu.
 :END:
 - JA :: 毎朝８時に家を出ます。
-- READING :: 毎(まい)朝(あさ)８(はち)時(じ)に家(いえ)を出(で)ます。
+- READING :: まいあさはちじにいえをでます。
 - ROMAJI :: Maiasa hachi-ji ni ie o demasu.
 - UK :: Щоранку я виходжу з дому о 8 годині.
 - EN :: I leave the house at 8 every morning.
@@ -99,7 +99,7 @@
 :ROMAJI: Heya kara dete kudasai.
 :END:
 - JA :: 部屋から出てください。
-- READING :: 部(へ)屋(や)から出(で)てください。
+- READING :: へやからでてください。
 - ROMAJI :: Heya kara dete kudasai.
 - UK :: Будь ласка, вийдіть з кімнати.
 - EN :: Please get out of the room.
@@ -113,7 +113,7 @@
 :ROMAJI: Atarashii hon ga raigetsu demasu.
 :END:
 - JA :: 新しい本が来月出ます。
-- READING :: 新(あたら)しい本(ほん)が来(らい)月(げつ)出(で)ます。
+- READING :: あたらしいほんがらいげつでます。
 - ROMAJI :: Atarashii hon ga raigetsu demasu.
 - UK :: Нова книга вийде наступного місяця.
 - EN :: A new book will come out next month.
@@ -466,4 +466,3 @@
 - to ejaculate
 - to cum
 ** Ukrainian glosses
-

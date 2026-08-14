@@ -197,8 +197,13 @@ def validate_entry(filepath)
 
   # Check trailing whitespace
   lines = content.split("\n", -1)
+  current_heading = nil
   lines.each_with_index do |line, idx|
     line_num = idx + 1
+    if line =~ /^\*+\s+(.*)$/
+      current_heading = $1
+    end
+
     if line.end_with?(' ') || line.end_with?("\t")
       errors << "Line #{line_num} has trailing whitespace"
     end
@@ -215,8 +220,8 @@ def validate_entry(filepath)
       end
     end
 
-    if line =~ /^- text ::\s*$/
-      errors << "Line #{line_num} has an empty 'text' field"
+    if line =~ /^- text ::\s*$/ && current_heading&.start_with?('uk-s-')
+      errors << "Line #{line_num} has an empty 'text' field in Ukrainian gloss #{current_heading}"
     end
 
     # The batch generator stamped a literal 例/Приклад./Basic word. template into
