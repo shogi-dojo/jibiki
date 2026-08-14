@@ -256,6 +256,87 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_rejects_cyrillic_in_focus
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Examples
+        *** ex-1381380-001-001
+        :PROPERTIES:
+        :LEVEL: beginner
+        :END:
+        - JA :: 青い空。
+        - READING :: あおいそら。
+        - UK :: Синє небо.
+        - FOCUS :: 青い (синій)
+      ORG
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, 'contains Cyrillic text in a Japanese field'
+    end
+  end
+
+  def test_rejects_kanji_in_reading
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, examples: <<~ORG)
+        ** Examples
+        *** ex-1381380-001-001
+        :PROPERTIES:
+        :LEVEL: beginner
+        :END:
+        - JA :: 青い空。
+        - READING :: 青[あお]い空。
+        - UK :: Синє небо.
+      ORG
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, 'READING contains kanji'
+    end
+  end
+
+  def test_rejects_empty_ukrainian_gloss_text
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      content = File.read(path, encoding: Encoding::UTF_8).gsub('- text :: синій', '- text ::')
+      File.write(path, content, encoding: Encoding::UTF_8)
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, "has an empty 'text' field"
+    end
+  end
+
+  def test_rejects_romaji_mismatch
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, romaji: 'aka')
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, "ROMAJI 'aka' does not match PRIMARY_READING 'あお'"
+    end
+  end
+
+  def test_rejects_unrecognised_jmdict_sha256
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, sha256: 'deadbeef' * 8)
+
+      stdout, _stderr, status = run_cli(jmdict, path)
+
+      refute status.success?
+      assert_includes stdout, 'not a recognised JMdict archive hash'
+    end
+  end
+
   private
 
   def run_cli(jmdict, *paths)
@@ -287,11 +368,12 @@ class ValidateEntryCliTest < Minitest::Test
   end
 
   # Mirrors the on-disk layout the validator enforces: entries/<id[0,4]>/<id>-<romaji>.org
-  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil, examples: nil, romaji: 'ao')
+  def write_entry(directory, ent_seq:, jmdict: nil, fingerprint: nil, examples: nil, romaji: 'ao', sha256: nil)
     fingerprint ||= source_fingerprint(jmdict, ent_seq)
+    sha256 ||= (jmdict ? Digest::SHA256.file(jmdict).hexdigest : '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5')
     path = File.join(directory, 'entries', ent_seq[0, 4], "#{ent_seq}-#{romaji}.org")
     FileUtils.mkdir_p(File.dirname(path))
-    File.write(path, entry_body(ent_seq:, fingerprint:, examples:, romaji:), encoding: Encoding::UTF_8)
+    File.write(path, entry_body(ent_seq:, fingerprint:, examples:, romaji:, sha256:), encoding: Encoding::UTF_8)
     path
   end
 
@@ -305,7 +387,7 @@ class ValidateEntryCliTest < Minitest::Test
     entry && entry[:senses].first[:source_fingerprint]
   end
 
-  def entry_body(ent_seq:, fingerprint:, examples: nil, romaji: 'ao')
+  def entry_body(ent_seq:, fingerprint:, examples: nil, romaji: 'ao', sha256: '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5')
     body = <<~ORG
       #+TITLE: 青
       #+JMDICT_ID: #{ent_seq}
@@ -314,7 +396,7 @@ class ValidateEntryCliTest < Minitest::Test
       #+ROMAJI: #{romaji}
       #+ENTRY_STATUS: draft
       #+QUALITY_PROFILE: learner
-      #+JMDICT_SOURCE_SHA256: 0000000000000000000000000000000000000000000000000000000000000000
+      #+JMDICT_SOURCE_SHA256: #{sha256}
       #+CREATED_AT: 2026-07-17
       #+DEFAULT_AUTHOR_ID: test
       #+DEFAULT_LICENSE: CC-BY-SA-4.0

@@ -2,6 +2,7 @@
 # frozen_string_literal: true
 
 require_relative '../lib/dictionary_sources/jmdict'
+require_relative '../lib/exporters/houhou_vocab_matcher'
 
 REPO_ROOT = File.expand_path('..', __dir__)
 JMDICT_PATH = ENV.fetch(
@@ -9,7 +10,96 @@ JMDICT_PATH = ENV.fetch(
   File.join(REPO_ROOT, 'sources', 'jmdict', 'JMdict.xml.gz')
 )
 
+ON_DISK_JMDICT_SHA256 = '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5'
+PREVIOUS_JMDICT_SHA256 = '08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e'
+
+def valid_jmdict_shas
+  @valid_jmdict_shas ||= begin
+    shas = [ON_DISK_JMDICT_SHA256, PREVIOUS_JMDICT_SHA256]
+    shas << Digest::SHA256.file(JMDICT_PATH).hexdigest if File.exist?(JMDICT_PATH)
+    shas.uniq
+  end
+end
+
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
+
+KANA_MAP = {
+  'あ' => 'a', 'い' => 'i', 'う' => 'u', 'え' => 'e', 'お' => 'o',
+  'か' => 'ka', 'き' => 'ki', 'く' => 'ku', 'け' => 'ke', 'こ' => 'ko',
+  'さ' => 'sa', 'し' => 'shi', 'す' => 'su', 'せ' => 'se', 'そ' => 'so',
+  'た' => 'ta', 'ち' => 'chi', 'つ' => 'tsu', 'て' => 'te', 'と' => 'to',
+  'な' => 'na', 'に' => 'ni', 'ぬ' => 'nu', 'ね' => 'ne', 'の' => 'no',
+  'は' => 'ha', 'ひ' => 'hi', 'ふ' => 'fu', 'へ' => 'he', 'ほ' => 'ho',
+  'ま' => 'ma', 'み' => 'mi', 'む' => 'mu', 'め' => 'me', 'も' => 'mo',
+  'や' => 'ya', 'ゆ' => 'yu', 'よ' => 'yo',
+  'ら' => 'ra', 'り' => 'ri', 'る' => 'ru', 'れ' => 're', 'ろ' => 'ro',
+  'わ' => 'wa', 'ゐ' => 'wi', 'ゑ' => 'we', 'を' => 'wo', 'ん' => 'n',
+  'が' => 'ga', 'ぎ' => 'gi', 'ぐ' => 'gu', 'げ' => 'ge', 'ご' => 'go',
+  'ざ' => 'za', 'じ' => 'ji', 'ず' => 'zu', 'ぜ' => 'ze', 'ぞ' => 'zo',
+  'だ' => 'da', 'ぢ' => 'ji', 'づ' => 'zu', 'で' => 'de', 'ど' => 'do',
+  'ば' => 'ba', 'び' => 'bi', 'ぶ' => 'bu', 'べ' => 'be', 'ぼ' => 'bo',
+  'ぱ' => 'pa', 'ぴ' => 'pi', 'ぷ' => 'pu', 'ぺ' => 'pe', 'ぽ' => 'po',
+  'きゃ' => 'kya', 'きゅ' => 'kyu', 'きょ' => 'kyo',
+  'しゃ' => 'sha', 'しゅ' => 'shu', 'しょ' => 'sho',
+  'ちゃ' => 'cha', 'ちゅ' => 'chu', 'ちょ' => 'cho',
+  'にゃ' => 'nya', 'にゅ' => 'nyu', 'にょ' => 'nyo',
+  'ひゃ' => 'hya', 'ひゅ' => 'hyu', 'ひょ' => 'hyo',
+  'みゃ' => 'mya', 'みゅ' => 'myu', 'みょ' => 'myo',
+  'りゃ' => 'rya', 'りゅ' => 'ryu', 'りょ' => 'ryo',
+  'ぎゃ' => 'gya', 'ぎゅ' => 'gyu', 'ぎょ' => 'gyo',
+  'じゃ' => 'ja', 'じゅ' => 'ju', 'じょ' => 'jo',
+  'ぢゃ' => 'ja', 'ぢゅ' => 'ju', 'ぢょ' => 'jo',
+  'びゃ' => 'bya', 'びゅ' => 'byu', 'びょ' => 'byo',
+  'ぴゃ' => 'pya', 'ぴゅ' => 'pyu', 'ぴょ' => 'pyo',
+  'しぇ' => 'she', 'ちぇ' => 'che', 'つぇ' => 'tse',
+  'ふぁ' => 'fa', 'ふぃ' => 'fi', 'ふぇ' => 'fe', 'ふぉ' => 'fo',
+  'うぃ' => 'wi', 'うぇ' => 'we', 'うぉ' => 'wo', 'ゔ' => 'vu',
+  'ゔぁ' => 'va', 'ゔぃ' => 'vi', 'ゔぇ' => 've', 'ゔぉ' => 'vo',
+  'てぃ' => 'ti', 'でぃ' => 'di', 'どぅ' => 'du', 'とぅ' => 'tu'
+}.freeze
+
+def to_romaji(str)
+  hira = Exporters::HouhouVocabMatcher.to_hiragana(Exporters::HouhouVocabMatcher.nfkc(str.to_s))
+  res = []
+  i = 0
+  while i < hira.length
+    c2 = hira[i, 2]
+    c1 = hira[i]
+    if c1 == 'っ'
+      next_c = hira[i + 1]
+      next_rom = KANA_MAP[hira[i + 1, 2]] || KANA_MAP[next_c]
+      if next_rom
+        consonant = next_rom[0]
+        consonant = 't' if next_rom.start_with?('ch')
+        res << consonant
+      end
+      i += 1
+    elsif c1 == 'ー'
+      prev = res.last&.chars&.last
+      res << prev if prev
+      i += 1
+    elsif KANA_MAP[c2]
+      res << KANA_MAP[c2]
+      i += 2
+    elsif KANA_MAP[c1]
+      res << KANA_MAP[c1]
+      i += 1
+    else
+      res << c1
+      i += 1
+    end
+  end
+  res.join
+end
+
+def romaji_matches?(reading, romaji)
+  expected = to_romaji(reading)
+  return true if romaji == expected
+
+  norm_actual = romaji.gsub(/\d+$/, '').gsub(/([aeiou])-/, '\1\1').gsub('oo', 'ou').gsub('dewa', 'deha')
+  norm_exp = expected.gsub('oo', 'ou')
+  norm_actual == norm_exp
+end
 
 # Exact field values the generators emit as placeholders. Matched whole,
 # never as substrings. 'Basic word.' is the learner-note stub; 'text' is the
@@ -113,8 +203,20 @@ def validate_entry(filepath)
       errors << "Line #{line_num} has trailing whitespace"
     end
 
-    if line.match?(/^- (?:JA|READING) :: .*\p{Cyrillic}/)
+    if line.match?(/^- (?:JA|READING|FOCUS) :: .*\p{Cyrillic}/)
       errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
+    end
+
+    if line =~ /^- READING :: (.*)$/
+      reading_val = $1
+      reading_without_ruby = reading_val.gsub(/\[.*?\]/, '')
+      if reading_without_ruby.match?(/\p{Han}/)
+        errors << "Line #{line_num} READING contains kanji: #{reading_val}"
+      end
+    end
+
+    if line =~ /^- text ::\s*$/
+      errors << "Line #{line_num} has an empty 'text' field"
     end
 
     # The batch generator stamped a literal 例/Приклад./Basic word. template into
@@ -168,9 +270,19 @@ def validate_entry(filepath)
   end
 
   ent_seq = headers[required_keywords[1]]
+  primary_reading = headers[required_keywords[3]]
   romaji = headers[required_keywords[4]]
   entry_status = headers[required_keywords[5]]
   quality_profile = headers[required_keywords[6]]
+  sha256 = headers[required_keywords[7]]
+
+  if primary_reading && romaji && !romaji_matches?(primary_reading, romaji)
+    errors << "ROMAJI '#{romaji}' does not match PRIMARY_READING '#{primary_reading}' (recomputed: #{to_romaji(primary_reading)})"
+  end
+
+  if sha256 && !valid_jmdict_shas.include?(sha256)
+    errors << "JMDICT_SOURCE_SHA256 '#{sha256}' is not a recognised JMdict archive hash"
+  end
 
   if quality_profile == 'gold' && entry_status != 'reviewed'
     errors << 'QUALITY_PROFILE gold requires ENTRY_STATUS reviewed'

@@ -835,6 +835,11 @@ A strict validator must reject:
 - a provenance property present in a block with the exact same value as the
   file's matching `#+DEFAULT_*` keyword — it must be omitted from the block
   and inherited instead;
+- Cyrillic text in Japanese fields (`JA`, `READING`, or `FOCUS`);
+- kanji in `- READING ::` fields (which must be kana-only furigana);
+- an empty `- text ::` list item in a Ukrainian gloss block;
+- a `ROMAJI` header that does not match the computed transliteration of `PRIMARY_READING`;
+- an unrecognised `JMDICT_SOURCE_SHA256` archive hash;
 - a sense with `:LEARNER_PRIORITY: primary` that has fewer than three
   examples, or whose examples do not include at least one `beginner` and one
   `intermediate` (or `neutral`-plus-`intermediate`) `LEVEL` (§10). This rule

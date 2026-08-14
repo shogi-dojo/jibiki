@@ -174,4 +174,4 @@ Rake::TestTask.new(:test) do |task|
 end
 
 desc 'Test extractors, validate entries, and Org-lint dictionary files'
-task default: [:test, 'entries:validate', 'org:lint']
+task default: [:test, 'entries:validate', 'org:lint', :doctor]
