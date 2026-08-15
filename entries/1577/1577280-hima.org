@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ひま
 #+ROMAJI: hima
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -131,6 +131,23 @@
 - time (it takes to do something)
 - time required
 ** Ukrainian glosses
+*** uk-s-1577280-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: час
+- qualifier :: що потрібен для чогось
+*** uk-s-1577280-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: необхідний час
 
 * Sense s-1577280-003
 :PROPERTIES:
@@ -146,6 +163,30 @@
 - vacation
 - holiday
 ** Ukrainian glosses
+*** uk-s-1577280-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відгул
+*** uk-s-1577280-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відпустка
+*** uk-s-1577280-003-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: канікули
 
 * Sense s-1577280-004
 :PROPERTIES:
@@ -161,6 +202,22 @@
 - severance
 - divorce
 ** Ukrainian glosses
+*** uk-s-1577280-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: звільнення
+*** uk-s-1577280-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розлучення
 
 * Sense s-1577280-005
 :PROPERTIES:
@@ -199,6 +256,23 @@
 - slack
 - dull
 ** Ukrainian glosses
+*** uk-s-1577280-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: млявий
+- qualifier :: про бізнес
+*** uk-s-1577280-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: повільний
 
 * Sense s-1577280-007
 :PROPERTIES:
@@ -217,3 +291,19 @@
 - to be available
 - to be doing nothing
 ** Ukrainian glosses
+*** uk-s-1577280-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути вільним
+*** uk-s-1577280-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути незайнятим

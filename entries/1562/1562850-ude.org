@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うで
 #+ROMAJI: ude
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -94,6 +94,18 @@
 - talent
 - competence
 ** Ukrainian glosses
+*** uk-s-1562850-002-001
+:PROPERTIES:
+:END:
+- text :: здібність
+*** uk-s-1562850-002-002
+:PROPERTIES:
+:END:
+- text :: майстерність
+*** uk-s-1562850-002-003
+:PROPERTIES:
+:END:
+- text :: талант
 * Sense s-1562850-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -105,3 +117,8 @@
 ** English glosses
 - (physical) strength
 ** Ukrainian glosses
+*** uk-s-1562850-003-001
+:PROPERTIES:
+:END:
+- text :: сила
+- qualifier :: фізична

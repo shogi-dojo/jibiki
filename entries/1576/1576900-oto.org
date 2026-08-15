@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おと
 #+ROMAJI: oto
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -103,6 +103,11 @@
 ** English glosses
 - (musical) note
 ** Ukrainian glosses
+*** uk-s-1576900-002-001
+:PROPERTIES:
+:END:
+- text :: нота
+- qualifier :: музична
 
 * Sense s-1576900-003
 :PROPERTIES:
@@ -117,3 +122,11 @@
 ** English glosses
 - fame
 ** Ukrainian glosses
+*** uk-s-1576900-003-001
+:PROPERTIES:
+:END:
+- text :: слава
+*** uk-s-1576900-003-002
+:PROPERTIES:
+:END:
+- text :: популярність

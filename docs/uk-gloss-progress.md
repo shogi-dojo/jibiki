@@ -126,3 +126,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1537370-yasai (2 senses) - 100% complete
 - [x] 1538440-odoru (2 senses) - 100% complete
 - [x] 1546590-hagaki (2 senses) - 100% complete
+- [x] 1555830-tonari (2 senses) - 100% complete
+- [x] 1562850-ude (3 senses) - 100% complete
+- [x] 1576150-hitori (8 senses) - 100% complete
+- [x] 1576900-oto (4 senses) - 100% complete
+- [x] 1577100-nani (13 senses) - 100% complete
