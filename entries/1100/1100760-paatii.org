@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: パーティー
 #+ROMAJI: paatii
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -132,6 +132,23 @@
 ** English glosses
 - party (group of people participating in an activity, esp. mountain climbing)
 ** Ukrainian glosses
+*** uk-s-1100760-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: група
+- qualifier :: людей
+*** uk-s-1100760-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: команда
 
 * Sense s-1100760-003
 :PROPERTIES:
@@ -144,3 +161,12 @@
 ** English glosses
 - (political) party
 ** Ukrainian glosses
+*** uk-s-1100760-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: партія
+- qualifier :: політична

@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ポスト
 #+ROMAJI: posuto
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -110,6 +110,22 @@
 - post
 - position
 ** Ukrainian glosses
+*** uk-s-1125150-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: посада
+*** uk-s-1125150-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост
 
 * Sense s-1125150-003
 :PROPERTIES:
@@ -122,6 +138,22 @@
 ** English glosses
 - post (e.g. goalpost)
 ** Ukrainian glosses
+*** uk-s-1125150-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: штанга
+*** uk-s-1125150-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стійка
 
 * Sense s-1125150-004
 :PROPERTIES:
@@ -138,6 +170,23 @@
 ** English glosses
 - post (on a blog, social media, etc.)
 ** Ukrainian glosses
+*** uk-s-1125150-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: публікація
+*** uk-s-1125150-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост
+- qualifier :: в інтернеті
 
 * Sense s-1125150-005
 :PROPERTIES:
@@ -150,3 +199,20 @@
 ** English glosses
 - post- (e.g. post-Cold War)
 ** Ukrainian glosses
+*** uk-s-1125150-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост-
+- qualifier :: префікс
+*** uk-s-1125150-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: після-

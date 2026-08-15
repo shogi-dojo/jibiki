@@ -26,3 +26,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1009000-doomo (6 senses) - 100% complete
 - [x] 1009290-dore (2 senses) - 100% complete
 - [x] 1010080-hai (9 senses) - 100% complete
+- [x] 1012480-mou (5 senses) - 100% complete
+- [x] 1013050-yukkuri (3 senses) - 100% complete
+- [x] 1083590-depaato (2 senses) - 100% complete
+- [x] 1084810-toire (2 senses) - 100% complete
+- [x] 1093450-nooto (4 senses) - 100% complete
