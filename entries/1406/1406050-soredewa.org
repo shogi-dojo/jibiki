@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: それでは
 #+ROMAJI: soredewa
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -132,6 +132,18 @@
 - so
 - then
 ** Ukrainian glosses
+*** uk-s-1406050-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тож
+*** uk-s-1406050-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тоді
 
 * Sense s-1406050-003
 :PROPERTIES:
@@ -146,6 +158,18 @@
 - if that is the case
 - in that case
 ** Ukrainian glosses
+*** uk-s-1406050-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: у такому випадку
+*** uk-s-1406050-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: якщо так
 
 * Sense s-1406050-004
 :PROPERTIES:
@@ -158,3 +182,15 @@
 ** English glosses
 - bye then
 ** Ukrainian glosses
+*** uk-s-1406050-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тоді бувай
+*** uk-s-1406050-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бувай

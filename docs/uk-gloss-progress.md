@@ -86,3 +86,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1375610-naru (13 senses) - 100% complete
 - [x] 1387990-sensei (5 senses) - 100% complete
 - [x] 1390980-sentaku (2 senses) - 100% complete
+- [x] 1392580-mae (11 senses) - 100% complete
+- [x] 1402730-okuru (6 senses) - 100% complete
+- [x] 1403830-soba (3 senses) - 100% complete
+- [x] 1406050-soredewa (5 senses) - 100% complete
+- [x] 1408810-utsu (17 senses) - 100% complete

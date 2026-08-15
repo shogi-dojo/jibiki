@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: なか
 #+ROMAJI: naka
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -136,6 +136,22 @@
 - center
 - centre
 ** Ukrainian glosses
+*** uk-s-1423310-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середина
+*** uk-s-1423310-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: центр
 
 * Sense s-1423310-004
 :PROPERTIES:
@@ -153,6 +169,30 @@
 - midst
 - amid
 ** Ukrainian glosses
+*** uk-s-1423310-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: під час
+*** uk-s-1423310-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: протягом
+*** uk-s-1423310-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: посеред
 
 * Sense s-1423310-005
 :PROPERTIES:
@@ -166,6 +206,22 @@
 - interval
 - gap
 ** Ukrainian glosses
+*** uk-s-1423310-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: інтервал
+*** uk-s-1423310-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: проміжок
 
 * Sense s-1423310-006
 :PROPERTIES:
@@ -179,6 +235,22 @@
 - mean
 - average
 ** Ukrainian glosses
+*** uk-s-1423310-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середній
+*** uk-s-1423310-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середнє значення
 
 * Sense s-1423310-007
 :PROPERTIES:
@@ -193,6 +265,22 @@
 - second (of three, e.g. sons, volumes)
 - middle
 ** Ukrainian glosses
+*** uk-s-1423310-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: другий (з трьох)
+*** uk-s-1423310-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середній
 
 * Sense s-1423310-008
 :PROPERTIES:
@@ -207,6 +295,22 @@
 - medium grade
 - medium quality
 ** Ukrainian glosses
+*** uk-s-1423310-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середній сорт
+*** uk-s-1423310-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: середня якість
 
 * Sense s-1423310-009
 :PROPERTIES:
@@ -221,3 +325,11 @@
 ** English glosses
 - red-light district
 ** Ukrainian glosses
+*** uk-s-1423310-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: квартал червоних ліхтарів

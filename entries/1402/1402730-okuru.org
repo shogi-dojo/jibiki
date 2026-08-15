@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おくる
 #+ROMAJI: okuru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -102,6 +102,18 @@
 - to accompany
 - to take
 ** Ukrainian glosses
+*** uk-s-1402730-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проводжати
+*** uk-s-1402730-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: супроводжувати
 * Sense s-1402730-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -116,6 +128,18 @@
 - to say goodbye to
 - to bury
 ** Ukrainian glosses
+*** uk-s-1402730-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: прощатися
+*** uk-s-1402730-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ховати
 * Sense s-1402730-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -131,6 +155,19 @@
 - to lead (a life)
 - to live
 ** Ukrainian glosses
+*** uk-s-1402730-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проводити
+- qualifier :: час
+*** uk-s-1402730-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: жити
 * Sense s-1402730-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -144,6 +181,12 @@
 - to pass (on, along)
 - to advance (a runner)
 ** Ukrainian glosses
+*** uk-s-1402730-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: передавати
 * Sense s-1402730-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -158,3 +201,10 @@
 ** English glosses
 - to affix (okurigana)
 ** Ukrainian glosses
+*** uk-s-1402730-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: додавати
+- qualifier :: окуріґану

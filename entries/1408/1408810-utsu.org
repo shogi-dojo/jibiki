@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うつ
 #+ROMAJI: utsu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -129,6 +129,19 @@
 - to sound (cymbals, etc.)
 - to beat (a drum, etc.)
 ** Ukrainian glosses
+*** uk-s-1408810-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бити
+- qualifier :: про годинник, барабан тощо
+*** uk-s-1408810-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: звучати
 * Sense s-1408810-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -141,6 +154,13 @@
 ** English glosses
 - to beat (rhythmically, e.g. pulse, waves, etc.)
 ** Ukrainian glosses
+*** uk-s-1408810-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: битися
+- qualifier :: про пульс, хвилі тощо
 * Sense s-1408810-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -155,6 +175,18 @@
 - to impress
 - to touch
 ** Ukrainian glosses
+*** uk-s-1408810-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вражати
+*** uk-s-1408810-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зворушувати
 * Sense s-1408810-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -171,6 +203,25 @@
 - to inject
 - to vaccinate
 ** Ukrainian glosses
+*** uk-s-1408810-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вбивати
+- qualifier :: цвях тощо
+*** uk-s-1408810-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити укол
+*** uk-s-1408810-005-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вакцинувати
 * Sense s-1408810-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -185,6 +236,25 @@
 - to send
 - to transmit
 ** Ukrainian glosses
+*** uk-s-1408810-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: друкувати
+*** uk-s-1408810-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: набирати
+- qualifier :: текст
+*** uk-s-1408810-006-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відправляти
 * Sense s-1408810-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -199,6 +269,18 @@
 - to write in
 - to mark
 ** Ukrainian glosses
+*** uk-s-1408810-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вставляти
+*** uk-s-1408810-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вписувати
 * Sense s-1408810-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -212,6 +294,19 @@
 - to make (noodles, etc.)
 - to prepare
 ** Ukrainian glosses
+*** uk-s-1408810-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити
+- qualifier :: локшину тощо
+*** uk-s-1408810-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: готувати
 * Sense s-1408810-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -224,6 +319,13 @@
 ** English glosses
 - to till (soil)
 ** Ukrainian glosses
+*** uk-s-1408810-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: обробляти
+- qualifier :: землю
 * Sense s-1408810-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -238,6 +340,18 @@
 - to throw
 - to cast
 ** Ukrainian glosses
+*** uk-s-1408810-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розбризкувати
+*** uk-s-1408810-010-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: кидати
 * Sense s-1408810-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -254,6 +368,24 @@
 - to perform
 - to engage in (gambling, etc.)
 ** Ukrainian glosses
+*** uk-s-1408810-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити
+*** uk-s-1408810-011-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: виконувати
+*** uk-s-1408810-011-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: грати
 * Sense s-1408810-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -266,6 +398,13 @@
 ** English glosses
 - to pay (a deposit, etc.)
 ** Ukrainian glosses
+*** uk-s-1408810-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: платити
+- qualifier :: завдаток тощо
 * Sense s-1408810-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -278,6 +417,13 @@
 ** English glosses
 - to visit (on a pilgrimage)
 ** Ukrainian glosses
+*** uk-s-1408810-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відвідувати
+- qualifier :: як паломник
 * Sense s-1408810-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
@@ -290,6 +436,13 @@
 ** English glosses
 - to line (a coat)
 ** Ukrainian glosses
+*** uk-s-1408810-014-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: підшивати
+- qualifier :: одяг
 * Sense s-1408810-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
@@ -302,6 +455,13 @@
 ** English glosses
 - to bind (a criminal)
 ** Ukrainian glosses
+*** uk-s-1408810-015-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зв'язувати
+- qualifier :: злочинця
 * Sense s-1408810-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
@@ -316,6 +476,13 @@
 ** English glosses
 - to drop (a piece)
 ** Ukrainian glosses
+*** uk-s-1408810-016-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: скидати
+- qualifier :: фігуру
 * Sense s-1408810-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
@@ -331,3 +498,16 @@
 - to play a move
 - to play a game
 ** Ukrainian glosses
+*** uk-s-1408810-017-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити хід
+*** uk-s-1408810-017-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: грати
+- qualifier :: в го
