@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うつす
 #+ROMAJI: utsusu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -107,6 +107,24 @@
 - to portray
 - to express
 ** Ukrainian glosses
+*** uk-s-1588320-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: описувати
+*** uk-s-1588320-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зображувати
+*** uk-s-1588320-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: виражати
 * Sense s-1588320-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -120,6 +138,18 @@
 - to imitate
 - to model after
 ** Ukrainian glosses
+*** uk-s-1588320-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: наслідувати
+*** uk-s-1588320-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: брати за зразок
 * Sense s-1588320-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -137,3 +167,10 @@
 - to film
 - to shoot
 ** Ukrainian glosses
+*** uk-s-1588320-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: фотографувати
+- text :: знімати

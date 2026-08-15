@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かわり
 #+ROMAJI: kawari
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -122,6 +122,10 @@
 - relief
 - successor
 ** Ukrainian glosses
+*** uk-s-1590770-002-001
+:PROPERTIES:
+:END:
+- text :: заступник; представник
 * Sense s-1590770-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -139,6 +143,10 @@
 - exchange
 - return
 ** Ukrainian glosses
+*** uk-s-1590770-003-001
+:PROPERTIES:
+:END:
+- text :: компенсація; в обмін на
 * Sense s-1590770-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -157,6 +165,10 @@
 - seconds
 - refill
 ** Ukrainian glosses
+*** uk-s-1590770-004-001
+:PROPERTIES:
+:END:
+- text :: добавка (про їжу); ще одна порція
 * Sense s-1590770-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -175,3 +187,7 @@
 - upcoming program
 - upcoming programme
 ** Ukrainian glosses
+*** uk-s-1590770-005-001
+:PROPERTIES:
+:END:
+- text :: наступна програма (виступу)

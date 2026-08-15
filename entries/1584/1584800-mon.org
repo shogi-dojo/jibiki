@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: もん
 #+ROMAJI: mon
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -117,6 +117,13 @@
 - branch of learning based on the teachings of a single master
 - school
 ** Ukrainian glosses
+*** uk-s-1584800-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: школа
+- qualifier :: галузь знань
 
 * Sense s-1584800-003
 :PROPERTIES:
@@ -133,6 +140,18 @@
 - phylum
 - division
 ** Ukrainian glosses
+*** uk-s-1584800-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тип
+*** uk-s-1584800-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відділ
 
 * Sense s-1584800-004
 :PROPERTIES:
@@ -145,3 +164,9 @@
 ** English glosses
 - counter for cannons
 ** Ukrainian glosses
+*** uk-s-1584800-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: лічильний суфікс для гармат

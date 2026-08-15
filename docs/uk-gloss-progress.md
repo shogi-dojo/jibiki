@@ -136,3 +136,13 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1577670-megane (3 senses) - 100% complete
 - [x] 1580640-hito (10 senses) - 100% complete
 - [x] 1582300-nado (6 senses) - 100% complete
+- [x] 1583095-yattsu (3 senses) - 100% complete
+- [x] 1584800-mon (4 senses) - 100% complete
+- [x] 1585315-muttsu (3 senses) - 100% complete
+- [x] 1585650-hako (8 senses) - 100% complete
+- [x] 1588320-utsusu (5 senses) - 100% complete
+- [x] 1588550-uriba (2 senses) - 100% complete
+- [x] 1589040-okureru (7 senses) - 100% complete
+- [x] 1589260-otosu (10 senses) - 100% complete
+- [x] 1590770-kawari (8 senses) - 100% complete
+- [x] 1598680-tokidoki (2 senses) - 100% complete
