@@ -111,3 +111,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1483150-kanojo (2 senses) - 100% complete
 - [x] 1483190-kanashii (4 senses) - 100% complete
 - [x] 1495000-mazui (6 senses) - 100% complete
+- [x] 1465590-hairu (13 senses) - 100% complete
+- [x] 1466940-dooshite (5 senses) - 100% complete
+- [x] 1467640-neko (6 senses) - 100% complete
+- [x] 1468060-toshi (3 senses) - 100% complete
+- [x] 1476920-youka (2 senses) - 100% complete
