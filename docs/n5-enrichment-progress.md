@@ -16,3 +16,4 @@
 - [x] Group 17: ie, kazoku, katei, kudamono, uta
 - [x] Group 18: kayoubi, hana, kabin, ijimeru, kachou
 - [x] Group 20: minasan, e, akeru, kaidan, hoka
+- [x] Group 16: itsu, itsumo, donata, natsu, natsuyasumi
