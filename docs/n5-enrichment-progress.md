@@ -9,3 +9,4 @@
 - [x] Group 8: karee, karendaa, kiro, kiroguramu, kiromeetoru
 - [x] Group 9: gitaa, kurasu, guramu, kooto, koohii
 - [x] Group 10: koppu, kopii, shatsu, shawaa, sukaato
+- [x] Group 13: eigakan, oyogu, eigo, eki, enpitsu
