@@ -10,3 +10,4 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1338240-deru (21 senses) - 100% complete
 - [x] 1326980-toru (18 senses) - 100% complete
 - [x] 1169870-nomu (7 senses) - 100% complete
+- [x] 1227560-yasumu (4 senses) - 100% complete

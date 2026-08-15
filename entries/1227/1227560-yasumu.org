@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: やすむ
 #+ROMAJI: yasumu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -64,6 +64,10 @@
 :REVIEWED_AT:
 :END:
 - text :: не прийти
+*** uk-s-1227560-001-003
+:PROPERTIES:
+:END:
+- text :: брати вихідний
 ** Learner notes
 *** note-s-1227560-001-001
 :PROPERTIES:
@@ -136,7 +140,6 @@
 :REVIEWED_AT:
 :END:
 - text :: відпочивати
-- qualifier :: робити перерву
 *** uk-s-1227560-002-002
 :PROPERTIES:
 :TRANSLATOR_ID: antigravity
@@ -144,7 +147,7 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: йти спати
+- text :: робити перерву
 
 * Sense s-1227560-003
 :PROPERTIES:
@@ -161,6 +164,14 @@
 - to turn in
 - to retire
 ** Ukrainian glosses
+*** uk-s-1227560-003-001
+:PROPERTIES:
+:END:
+- text :: лягати спати
+*** uk-s-1227560-003-002
+:PROPERTIES:
+:END:
+- text :: йти спати
 
 * Sense s-1227560-004
 :PROPERTIES:
@@ -175,3 +186,8 @@
 - to stop doing some ongoing activity for a time
 - to suspend business
 ** Ukrainian glosses
+*** uk-s-1227560-004-001
+:PROPERTIES:
+:END:
+- text :: призупиняти
+- qualifier :: діяльність тощо
