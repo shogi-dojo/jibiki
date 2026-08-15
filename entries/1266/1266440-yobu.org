@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: よぶ
 #+ROMAJI: yobu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -135,6 +135,11 @@
 ** English glosses
 - to summon (a doctor, etc.)
 ** Ukrainian glosses
+*** uk-s-1266440-002-001
+:PROPERTIES:
+:END:
+- text :: викликати
+- qualifier :: лікаря тощо
 
 * Sense s-1266440-003
 :PROPERTIES:
@@ -148,6 +153,10 @@
 ** English glosses
 - to invite
 ** Ukrainian glosses
+*** uk-s-1266440-003-001
+:PROPERTIES:
+:END:
+- text :: запрошувати
 
 * Sense s-1266440-004
 :PROPERTIES:
@@ -163,6 +172,18 @@
 - to name
 - to brand
 ** Ukrainian glosses
+*** uk-s-1266440-004-001
+:PROPERTIES:
+:END:
+- text :: позначати
+*** uk-s-1266440-004-002
+:PROPERTIES:
+:END:
+- text :: називати
+*** uk-s-1266440-004-003
+:PROPERTIES:
+:END:
+- text :: таврувати
 
 * Sense s-1266440-005
 :PROPERTIES:
@@ -177,6 +198,15 @@
 - to garner (support, etc.)
 - to gather
 ** Ukrainian glosses
+*** uk-s-1266440-005-001
+:PROPERTIES:
+:END:
+- text :: заручитися
+- qualifier :: підтримкою тощо
+*** uk-s-1266440-005-002
+:PROPERTIES:
+:END:
+- text :: збирати
 
 * Sense s-1266440-006
 :PROPERTIES:
@@ -194,3 +224,7 @@
 ** English glosses
 - to take as one's wife
 ** Ukrainian glosses
+*** uk-s-1266440-006-001
+:PROPERTIES:
+:END:
+- text :: брати за дружину

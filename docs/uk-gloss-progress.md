@@ -56,3 +56,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1215810-kankei (5 senses) - 100% complete
 - [x] 1221520-ki (12 senses) - 100% complete
 - [x] 1223660-okosu (9 senses) - 100% complete
+- [x] 1227500-yasumi (3 senses) - 100% complete
+- [x] 1237680-semai (2 senses) - 100% complete
+- [x] 1238680-odoroku (2 senses) - 100% complete
+- [x] 1238840-ossharu (3 senses) - 100% complete
+- [x] 1242130-chikai (5 senses) - 100% complete

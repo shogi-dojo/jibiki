@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: と
 #+ROMAJI: to
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -128,6 +128,10 @@
 - shutter
 - window shutter
 ** Ukrainian glosses
+*** uk-s-1266970-002-001
+:PROPERTIES:
+:END:
+- text :: віконниця
 
 * Sense s-1266970-003
 :PROPERTIES:
@@ -142,6 +146,11 @@
 ** English glosses
 - entrance (to a home)
 ** Ukrainian glosses
+*** uk-s-1266970-003-001
+:PROPERTIES:
+:END:
+- text :: вхід
+- qualifier :: до дому
 
 * Sense s-1266970-004
 :PROPERTIES:
@@ -156,3 +165,11 @@
 ** English glosses
 - narrows
 ** Ukrainian glosses
+*** uk-s-1266970-004-001
+:PROPERTIES:
+:END:
+- text :: вузьке місце
+*** uk-s-1266970-004-002
+:PROPERTIES:
+:END:
+- text :: протока
