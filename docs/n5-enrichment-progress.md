@@ -5,3 +5,4 @@
 - [x] Group 3: obaasan, ocha, otousan, onaka, okaasan
 - [x] Group 5: sorekara, tsumaranai, totemo, doo, motto
 - [x] Group 6: yori, akusesarii, ajia, anaunsaa, apaato
+- [x] Group 7: arukooru, arubaito, erebeetaa, kappu, kamera
