@@ -14,3 +14,4 @@
 - [x] Group 12: ichiban, migi, ame, untenshu, eiga
 - [x] Group 14: kitanai, okusan, osu, kiiroi, oku
 - [x] Group 17: ie, kazoku, katei, kudamono, uta
+- [x] Group 18: kayoubi, hana, kabin, ijimeru, kachou
