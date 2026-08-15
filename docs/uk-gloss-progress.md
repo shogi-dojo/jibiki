@@ -106,3 +106,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1457730-uchi (17 senses) - 100% complete
 - [x] 1460850-muzukashii (7 senses) - 100% complete
 - [x] 1463520-niku (7 senses) - 100% complete
+- [x] 1476960-yaoya (2 senses) - 100% complete
+- [x] 1482110-ban (3 senses) - 100% complete
+- [x] 1483150-kanojo (2 senses) - 100% complete
+- [x] 1483190-kanashii (4 senses) - 100% complete
+- [x] 1495000-mazui (6 senses) - 100% complete
