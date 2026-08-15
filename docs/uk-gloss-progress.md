@@ -41,3 +41,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1158880-chigau (5 senses) - 100% complete
 - [x] 1160820-hitotsu (9 senses) - 100% complete
 - [x] 1163940-chotto (9 senses) - 100% complete
+- [x] 1177800-tooi (8 senses) - 100% complete
+- [x] 1178450-enryo (4 senses) - 100% complete
+- [x] 1180570-yoko (5 senses) - 100% complete
+- [x] 1183300-nurui (3 senses) - 100% complete
+- [x] 1189130-doozo (6 senses) - 100% complete
