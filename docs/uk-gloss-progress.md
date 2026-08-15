@@ -131,3 +131,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1576150-hitori (8 senses) - 100% complete
 - [x] 1576900-oto (4 senses) - 100% complete
 - [x] 1577100-nani (13 senses) - 100% complete
+- [x] 1577140-doko (2 senses) - 100% complete
+- [x] 1577280-hima (7 senses) - 100% complete
+- [x] 1577670-megane (3 senses) - 100% complete
+- [x] 1580640-hito (10 senses) - 100% complete
+- [x] 1582300-nado (6 senses) - 100% complete
