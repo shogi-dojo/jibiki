@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: そこ
 #+ROMAJI: soko
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -135,6 +135,15 @@
 - there (place just mentioned)
 - that place
 ** Ukrainian glosses
+*** uk-s-1006670-002-001
+:PROPERTIES:
+:END:
+- text :: там
+- qualifier :: щойно згадане місце
+*** uk-s-1006670-002-002
+:PROPERTIES:
+:END:
+- text :: те місце
 
 * Sense s-1006670-003
 :PROPERTIES:
@@ -150,6 +159,16 @@
 - then (of some incident just spoken of)
 - that (of point just raised)
 ** Ukrainian glosses
+*** uk-s-1006670-003-001
+:PROPERTIES:
+:END:
+- text :: тоді
+- qualifier :: про щойно згадану подію
+*** uk-s-1006670-003-002
+:PROPERTIES:
+:END:
+- text :: те
+- qualifier :: про щойно порушене питання
 
 * Sense s-1006670-004
 :PROPERTIES:
@@ -164,3 +183,8 @@
 ** English glosses
 - you
 ** Ukrainian glosses
+*** uk-s-1006670-004-001
+:PROPERTIES:
+:END:
+- text :: ви
+- qualifier :: застаріле

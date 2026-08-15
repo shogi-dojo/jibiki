@@ -16,3 +16,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1001870-omimai (3 senses) - 100% complete
 - [x] 1002170-ojousan (2 senses) - 100% complete
 - [x] 1002400-otaku (4 senses) - 100% complete
+- [x] 1002500-omiyage (3 senses) - 100% complete
+- [x] 1006670-soko (4 senses) - 100% complete
+- [x] 1006780-sochira (10 senses) - 100% complete
+- [x] 1006830-sono (5 senses) - 100% complete
+- [x] 1006970-sore (6 senses) - 100% complete

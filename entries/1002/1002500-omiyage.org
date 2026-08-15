@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おみやげ
 #+ROMAJI: omiyage
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -119,6 +119,10 @@
 ** English glosses
 - present brought by a visitor
 ** Ukrainian glosses
+*** uk-s-1002500-002-001
+:PROPERTIES:
+:END:
+- text :: гостинець; подарунок
 
 * Sense s-1002500-003
 :PROPERTIES:
@@ -135,3 +139,11 @@
 - unwelcome gift
 - disservice
 ** Ukrainian glosses
+*** uk-s-1002500-003-001
+:PROPERTIES:
+:END:
+- text :: неприємний подарунок (наприклад, хвороба під час відпустки)
+*** uk-s-1002500-003-002
+:PROPERTIES:
+:END:
+- text :: ведмежа послуга
