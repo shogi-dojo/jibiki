@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: できる
 #+ROMAJI: dekiru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -280,7 +280,23 @@
 - to grow (of a crop)
 - to be produced
 ** Ukrainian glosses
-
+*** uk-s-1340450-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рости
+- qualifier :: про врожай
+*** uk-s-1340450-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вродити
 * Sense s-1340450-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -296,7 +312,23 @@
 - to be mature and well-balanced
 - to be of fine character
 ** Ukrainian glosses
-
+*** uk-s-1340450-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути зрілим
+- qualifier :: про характер
+*** uk-s-1340450-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути чудовим
 * Sense s-1340450-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -314,7 +346,14 @@
 - to be by nature
 - to be born ...
 ** Ukrainian glosses
-
+*** uk-s-1340450-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути від природи
 * Sense s-1340450-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -334,7 +373,15 @@
 - to become intimate (with)
 - to take up (with someone)
 ** Ukrainian glosses
-
+*** uk-s-1340450-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стати близькими
+- qualifier :: вступити в інтимні стосунки
 * Sense s-1340450-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -350,3 +397,11 @@
 ** English glosses
 - to get pregnant
 ** Ukrainian glosses
+*** uk-s-1340450-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: завагітніти

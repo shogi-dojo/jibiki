@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うける
 #+ROMAJI: ukeru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -76,6 +76,11 @@
 :TRANSLATED_AT: 2026-08-12
 :END:
 - text :: отримувати
+*** uk-s-1329590-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
 - text :: приймати
 
 ** Examples
@@ -118,6 +123,13 @@
 ** English glosses
 - to catch (e.g. a ball)
 ** Ukrainian glosses
+*** uk-s-1329590-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ловити
+- qualifier :: напр., м'яч
 * Sense s-1329590-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -130,6 +142,13 @@
 ** English glosses
 - to be struck by (wind, waves, sunlight, etc.)
 ** Ukrainian glosses
+*** uk-s-1329590-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: приймати на себе
+- qualifier :: вітер, хвилі, сонячні промені тощо
 * Sense s-1329590-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -145,6 +164,20 @@
 - to suffer (an injury)
 - to feel (influence)
 ** Ukrainian glosses
+*** uk-s-1329590-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зазнавати
+- qualifier :: збитків, пошкоджень
+*** uk-s-1329590-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відчувати
+- qualifier :: вплив
 * Sense s-1329590-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -159,6 +192,27 @@
 - to take (a test)
 - to accept (a challenge)
 ** Ukrainian glosses
+*** uk-s-1329590-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проходити
+- qualifier :: напр., операцію, перевірку
+*** uk-s-1329590-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: складати
+- qualifier :: іспит
+*** uk-s-1329590-005-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: приймати
+- qualifier :: виклик
 * Sense s-1329590-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -173,6 +227,13 @@
 ** English glosses
 - to be given (e.g. life, talent)
 ** Ukrainian glosses
+*** uk-s-1329590-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути наділеним
+- qualifier :: напр., життям, талантом
 * Sense s-1329590-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -192,6 +253,18 @@
 - to find humorous
 - to be amused (by)
 ** Ukrainian glosses
+*** uk-s-1329590-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вважати смішним
+*** uk-s-1329590-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розважатися
 * Sense s-1329590-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -208,6 +281,18 @@
 - to succeed
 - to be descended from
 ** Ukrainian glosses
+*** uk-s-1329590-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: успадковувати
+*** uk-s-1329590-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: походити від
 * Sense s-1329590-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -220,6 +305,13 @@
 ** English glosses
 - to face (south, etc.)
 ** Ukrainian glosses
+*** uk-s-1329590-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути зверненим
+- qualifier :: на південь тощо
 * Sense s-1329590-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -236,6 +328,13 @@
 ** English glosses
 - to be modified by
 ** Ukrainian glosses
+*** uk-s-1329590-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: визначатися
+- qualifier :: про слово
 * Sense s-1329590-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -252,6 +351,13 @@
 ** English glosses
 - to obtain (a pawned item, etc.) by paying a fee
 ** Ukrainian glosses
+*** uk-s-1329590-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: викуповувати
+- qualifier :: заставлену річ
 * Sense s-1329590-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -270,6 +376,18 @@
 - to become popular
 - to go down well
 ** Ukrainian glosses
+*** uk-s-1329590-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути добре сприйнятим
+*** uk-s-1329590-012-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ставати популярним
 * Sense s-1329590-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -286,3 +404,16 @@
 - to respond
 - to react
 ** Ukrainian glosses
+*** uk-s-1329590-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відповідати
+- qualifier :: на хід суперника
+*** uk-s-1329590-013-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: реагувати

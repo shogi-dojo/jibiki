@@ -71,3 +71,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1302680-yama (15 senses) - 100% complete
 - [x] 1307040-yottsu (6 senses) - 100% complete
 - [x] 1307320-yokka (2 senses) - 100% complete
+- [x] 1310620-tomaru (3 senses) - 100% complete
+- [x] 1313000-ha (3 senses) - 100% complete
+- [x] 1315720-motsu (8 senses) - 100% complete
+- [x] 1329590-ukeru (19 senses) - 100% complete
+- [x] 1338180-dasu (11 senses) - 100% complete

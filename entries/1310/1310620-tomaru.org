@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: とまる
 #+ROMAJI: tomaru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -145,6 +145,25 @@
 - to be stopped
 - to be suspended
 ** Ukrainian glosses
+*** uk-s-1310620-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: припинятися
+*** uk-s-1310620-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зупинятися
+- qualifier :: робити, працювати, постачатися
+*** uk-s-1310620-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: перериватися
 
 * Sense s-1310620-003
 :PROPERTIES:
@@ -159,3 +178,10 @@
 - to alight
 - to perch on
 ** Ukrainian glosses
+*** uk-s-1310620-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: сідати
+- qualifier :: про птахів, комах тощо
