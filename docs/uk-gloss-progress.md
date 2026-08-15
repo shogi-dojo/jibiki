@@ -31,3 +31,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1083590-depaato (2 senses) - 100% complete
 - [x] 1084810-toire (2 senses) - 100% complete
 - [x] 1093450-nooto (4 senses) - 100% complete
+- [x] 1100760-paatii (3 senses) - 100% complete
+- [x] 1103090-pan (3 senses) - 100% complete
+- [x] 1123880-botan (2 senses) - 100% complete
+- [x] 1125150-posuto (5 senses) - 100% complete
+- [x] 1132570-meetoru (3 senses) - 100% complete
