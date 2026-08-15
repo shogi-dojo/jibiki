@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ひく
 #+ROMAJI: hiku
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -142,7 +142,11 @@
 - to draw (attention, sympathy, etc.)
 - to attract (e.g. interest)
 ** Ukrainian glosses
-
+*** uk-s-1169250-002-001
+:PROPERTIES:
+:END:
+- text :: привертати
+- qualifier :: увагу, симпатію
 * Sense s-1169250-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -157,7 +161,16 @@
 - to draw in (one's chin, stomach, etc.)
 - to pull in
 ** Ukrainian glosses
-
+*** uk-s-1169250-003-001
+:PROPERTIES:
+:END:
+- text :: відводити
+- qualifier :: назад, про руку
+*** uk-s-1169250-003-002
+:PROPERTIES:
+:END:
+- text :: втягувати
+- qualifier :: підборіддя, живіт тощо
 * Sense s-1169250-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -170,7 +183,11 @@
 ** English glosses
 - to draw (a card, mahjong tile, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1169250-004-001
+:PROPERTIES:
+:END:
+- text :: тягнути
+- qualifier :: карту, фішку маджонгу
 * Sense s-1169250-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -185,7 +202,11 @@
 ** English glosses
 - to draw (a line, plan, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1169250-005-001
+:PROPERTIES:
+:END:
+- text :: проводити
+- qualifier :: лінію, план
 * Sense s-1169250-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -224,7 +245,11 @@
 ** English glosses
 - to play (a stringed or keyboard instrument)
 ** Ukrainian glosses
-
+*** uk-s-1169250-007-001
+:PROPERTIES:
+:END:
+- text :: грати
+- qualifier :: на струнних або клавішних інструментах
 * Sense s-1169250-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -266,7 +291,11 @@
 - to haul
 - to pull (vehicles)
 ** Ukrainian glosses
-
+*** uk-s-1169250-009-001
+:PROPERTIES:
+:END:
+- text :: тягнути
+- qualifier :: транспортний засіб
 * Sense s-1169250-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -303,7 +332,19 @@
 - to ebb
 - to fade
 ** Ukrainian glosses
-
+*** uk-s-1169250-011-001
+:PROPERTIES:
+:END:
+- text :: відступати
+*** uk-s-1169250-011-002
+:PROPERTIES:
+:END:
+- text :: спадати
+- qualifier :: про воду
+*** uk-s-1169250-011-003
+:PROPERTIES:
+:END:
+- text :: слабшати
 * Sense s-1169250-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -317,7 +358,16 @@
 - to be descend from
 - to inherit (a characteristic)
 ** Ukrainian glosses
-
+*** uk-s-1169250-012-001
+:PROPERTIES:
+:END:
+- text :: походити
+- qualifier :: від когось
+*** uk-s-1169250-012-002
+:PROPERTIES:
+:END:
+- text :: успадковувати
+- qualifier :: рису характеру
 * Sense s-1169250-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -332,7 +382,15 @@
 - to cite
 - to raise (as evidence)
 ** Ukrainian glosses
-
+*** uk-s-1169250-013-001
+:PROPERTIES:
+:END:
+- text :: цитувати
+*** uk-s-1169250-013-002
+:PROPERTIES:
+:END:
+- text :: наводити
+- qualifier :: як приклад або доказ
 * Sense s-1169250-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
@@ -347,7 +405,16 @@
 - to install (e.g. a telephone)
 - to supply (e.g. water)
 ** Ukrainian glosses
-
+*** uk-s-1169250-014-001
+:PROPERTIES:
+:END:
+- text :: проводити
+- qualifier :: електрику, газ, воду
+*** uk-s-1169250-014-002
+:PROPERTIES:
+:END:
+- text :: встановлювати
+- qualifier :: телефон
 * Sense s-1169250-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
@@ -360,7 +427,11 @@
 ** English glosses
 - to hold (e.g. a note)
 ** Ukrainian glosses
-
+*** uk-s-1169250-015-001
+:PROPERTIES:
+:END:
+- text :: тримати
+- qualifier :: ноту
 * Sense s-1169250-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
@@ -375,7 +446,21 @@
 - to oil (e.g. a pan)
 - to wax (e.g. a floor)
 ** Ukrainian glosses
-
+*** uk-s-1169250-016-001
+:PROPERTIES:
+:END:
+- text :: наносити
+- qualifier :: помаду
+*** uk-s-1169250-016-002
+:PROPERTIES:
+:END:
+- text :: змащувати
+- qualifier :: олією
+*** uk-s-1169250-016-003
+:PROPERTIES:
+:END:
+- text :: натирати
+- qualifier :: воском
 * Sense s-1169250-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
@@ -394,7 +479,14 @@
 - to fall back
 - to retreat
 ** Ukrainian glosses
-
+*** uk-s-1169250-017-001
+:PROPERTIES:
+:END:
+- text :: відступати
+*** uk-s-1169250-017-002
+:PROPERTIES:
+:END:
+- text :: відходити назад
 * Sense s-1169250-018
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 18
@@ -412,7 +504,15 @@
 - to ebb
 - to go down (e.g. of swelling)
 ** Ukrainian glosses
-
+*** uk-s-1169250-018-001
+:PROPERTIES:
+:END:
+- text :: спадати
+- qualifier :: про жар, пухлину
+*** uk-s-1169250-018-002
+:PROPERTIES:
+:END:
+- text :: слабшати
 * Sense s-1169250-019
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 19
@@ -429,7 +529,14 @@
 - to retire
 - to quit
 ** Ukrainian glosses
-
+*** uk-s-1169250-019-001
+:PROPERTIES:
+:END:
+- text :: йти з посади
+*** uk-s-1169250-019-002
+:PROPERTIES:
+:END:
+- text :: залишати роботу
 * Sense s-1169250-020
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 20
@@ -447,7 +554,15 @@
 - to recoil (in disgust, etc.)
 - to cringe
 ** Ukrainian glosses
-
+*** uk-s-1169250-020-001
+:PROPERTIES:
+:END:
+- text :: знічуватися
+- qualifier :: від чиїхось слів або поведінки
+*** uk-s-1169250-020-002
+:PROPERTIES:
+:END:
+- text :: відсахуватися
 * Sense s-1169250-021
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 21
@@ -466,3 +581,8 @@
 - to pull back
 - to retreat
 ** Ukrainian glosses
+*** uk-s-1169250-021-001
+:PROPERTIES:
+:END:
+- text :: відступати
+- qualifier :: у грі ґо
