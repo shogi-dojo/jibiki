@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おたく
 #+ROMAJI: otaku
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -54,7 +54,13 @@
 *** uk-s-1002400-001-001
 :PROPERTIES:
 :END:
-- text :: (ваш) дім; (ваша) родина
+- text :: дім
+- qualifier :: ваш
+*** uk-s-1002400-001-002
+:PROPERTIES:
+:END:
+- text :: родина
+- qualifier :: ваша
 ** Learner notes
 *** note-s-1002400-001-001
 :PROPERTIES:
@@ -110,6 +116,11 @@
 ** English glosses
 - your husband
 ** Ukrainian glosses
+*** uk-s-1002400-002-001
+:PROPERTIES:
+:END:
+- text :: чоловік
+- qualifier :: ваш
 
 * Sense s-1002400-003
 :PROPERTIES:
@@ -124,6 +135,16 @@
 ** English glosses
 - your organization
 ** Ukrainian glosses
+*** uk-s-1002400-003-001
+:PROPERTIES:
+:END:
+- text :: організація
+- qualifier :: ваша
+*** uk-s-1002400-003-002
+:PROPERTIES:
+:END:
+- text :: компанія
+- qualifier :: ваша
 
 * Sense s-1002400-004
 :PROPERTIES:
@@ -140,3 +161,7 @@
 ** English glosses
 - you
 ** Ukrainian glosses
+*** uk-s-1002400-004-001
+:PROPERTIES:
+:END:
+- text :: ви

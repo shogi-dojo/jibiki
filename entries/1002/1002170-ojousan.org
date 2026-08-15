@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おじょうさん
 #+ROMAJI: ojousan
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -58,7 +58,8 @@
 *** uk-s-1002170-001-001
 :PROPERTIES:
 :END:
-- text :: (ваша) донька; дівчина
+- text :: донька
+- qualifier :: ваша, чужа
 ** Learner notes
 *** note-s-1002170-001-001
 :PROPERTIES:
@@ -112,3 +113,11 @@
 ** English glosses
 - young lady
 ** Ukrainian glosses
+*** uk-s-1002170-002-001
+:PROPERTIES:
+:END:
+- text :: дівчина
+*** uk-s-1002170-002-002
+:PROPERTIES:
+:END:
+- text :: юна леді
