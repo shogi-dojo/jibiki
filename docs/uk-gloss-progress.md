@@ -101,3 +101,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1443000-denki (2 senses) - 100% complete
 - [x] 1443840-denwa (2 senses) - 100% complete
 - [x] 1445690-okoru (3 senses) - 100% complete
+- [x] 1451210-ugoku (7 senses) - 100% complete
+- [x] 1456360-yomu (9 senses) - 100% complete
+- [x] 1457730-uchi (17 senses) - 100% complete
+- [x] 1460850-muzukashii (7 senses) - 100% complete
+- [x] 1463520-niku (7 senses) - 100% complete
