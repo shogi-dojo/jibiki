@@ -76,3 +76,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1315720-motsu (8 senses) - 100% complete
 - [x] 1329590-ukeru (19 senses) - 100% complete
 - [x] 1338180-dasu (11 senses) - 100% complete
+- [x] 1338850-deguchi (2 senses) - 100% complete
+- [x] 1340450-dekiru (12 senses) - 100% complete
+- [x] 1343100-tokoro (17 senses) - 100% complete
+- [x] 1347750-chiisai (5 senses) - 100% complete
+- [x] 1352570-noboru (8 senses) - 100% complete
