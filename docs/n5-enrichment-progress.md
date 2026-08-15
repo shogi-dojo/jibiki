@@ -18,3 +18,4 @@
 - [x] Group 20: minasan, e, akeru, kaidan, hoka
 - [x] Group 16: itsu, itsumo, donata, natsu, natsuyasumi
 - [x] Group 19: au, kaisha, umi, haizara, minna
+- [x] Group 15: okujou, ongaku, shita, kudasai, heta
