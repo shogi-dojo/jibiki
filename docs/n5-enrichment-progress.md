@@ -17,3 +17,4 @@
 - [x] Group 18: kayoubi, hana, kabin, ijimeru, kachou
 - [x] Group 20: minasan, e, akeru, kaidan, hoka
 - [x] Group 16: itsu, itsumo, donata, natsu, natsuyasumi
+- [x] Group 19: au, kaisha, umi, haizara, minna
