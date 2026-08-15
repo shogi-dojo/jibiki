@@ -91,3 +91,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1403830-soba (3 senses) - 100% complete
 - [x] 1406050-soredewa (5 senses) - 100% complete
 - [x] 1408810-utsu (17 senses) - 100% complete
+- [x] 1410590-matsu (4 senses) - 100% complete
+- [x] 1414150-daijoubu (4 senses) - 100% complete
+- [x] 1414340-taisetsu (4 senses) - 100% complete
+- [x] 1423310-naka (9 senses) - 100% complete
+- [x] 1429700-tobu (12 senses) - 100% complete
