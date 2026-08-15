@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: め
 #+ROMAJI: me
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -126,7 +126,10 @@
 - sight
 - vision
 ** Ukrainian glosses
-
+*** uk-s-1604890-002-001
+:PROPERTIES:
+:END:
+- text :: зір
 * Sense s-1604890-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -141,7 +144,10 @@
 - gaze
 - glance
 ** Ukrainian glosses
-
+*** uk-s-1604890-003-001
+:PROPERTIES:
+:END:
+- text :: погляд
 * Sense s-1604890-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -156,7 +162,15 @@
 - observation
 - eyes (of the world, public, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1604890-004-001
+:PROPERTIES:
+:END:
+- text :: увага
+*** uk-s-1604890-004-002
+:PROPERTIES:
+:END:
+- text :: очі
+- qualifier :: громадськості, світу
 * Sense s-1604890-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -168,7 +182,10 @@
 ** English glosses
 - an experience
 ** Ukrainian glosses
-
+*** uk-s-1604890-005-001
+:PROPERTIES:
+:END:
+- text :: досвід
 * Sense s-1604890-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -180,7 +197,10 @@
 ** English glosses
 - viewpoint
 ** Ukrainian glosses
-
+*** uk-s-1604890-006-001
+:PROPERTIES:
+:END:
+- text :: точка зору
 * Sense s-1604890-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -195,7 +215,15 @@
 - judgement
 - eye (e.g. for quality)
 ** Ukrainian glosses
-
+*** uk-s-1604890-007-001
+:PROPERTIES:
+:END:
+- text :: здатність розрізняти
+- qualifier :: наприклад, якість
+*** uk-s-1604890-007-002
+:PROPERTIES:
+:END:
+- text :: судження
 * Sense s-1604890-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -207,7 +235,10 @@
 ** English glosses
 - (an) appearance
 ** Ukrainian glosses
-
+*** uk-s-1604890-008-001
+:PROPERTIES:
+:END:
+- text :: вигляд
 * Sense s-1604890-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -222,7 +253,16 @@
 - chance (of success)
 - possibility (of a good result)
 ** Ukrainian glosses
-
+*** uk-s-1604890-009-001
+:PROPERTIES:
+:END:
+- text :: шанс
+- qualifier :: на успіх
+*** uk-s-1604890-009-002
+:PROPERTIES:
+:END:
+- text :: можливість
+- qualifier :: хорошого результату
 * Sense s-1604890-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -240,7 +280,16 @@
 - texture
 - weave
 ** Ukrainian glosses
-
+*** uk-s-1604890-010-001
+:PROPERTIES:
+:END:
+- text :: вічко
+- qualifier :: сітки
+*** uk-s-1604890-010-002
+:PROPERTIES:
+:END:
+- text :: петля
+- qualifier :: при в'язанні
 * Sense s-1604890-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -252,7 +301,11 @@
 ** English glosses
 - grain (of wood, paper)
 ** Ukrainian glosses
-
+*** uk-s-1604890-011-001
+:PROPERTIES:
+:END:
+- text :: текстура
+- qualifier :: дерева, паперу
 * Sense s-1604890-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -264,7 +317,16 @@
 ** English glosses
 - eye (of a storm, needle, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1604890-012-001
+:PROPERTIES:
+:END:
+- text :: вушко
+- qualifier :: голки
+*** uk-s-1604890-012-002
+:PROPERTIES:
+:END:
+- text :: око
+- qualifier :: тайфуну, бурі
 * Sense s-1604890-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -277,7 +339,16 @@
 - intersection (on a go board)
 - square (on a chessboard)
 ** Ukrainian glosses
-
+*** uk-s-1604890-013-001
+:PROPERTIES:
+:END:
+- text :: перетин
+- qualifier :: на дошці для го
+*** uk-s-1604890-013-002
+:PROPERTIES:
+:END:
+- text :: клітинка
+- qualifier :: на шаховій дошці
 * Sense s-1604890-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
@@ -291,7 +362,11 @@
 - pip
 - rolled number
 ** Ukrainian glosses
-
+*** uk-s-1604890-014-001
+:PROPERTIES:
+:END:
+- text :: очко
+- qualifier :: на гральному кубику
 * Sense s-1604890-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
@@ -304,7 +379,11 @@
 - graduation
 - division (of a scale)
 ** Ukrainian glosses
-
+*** uk-s-1604890-015-001
+:PROPERTIES:
+:END:
+- text :: поділка
+- qualifier :: шкали
 * Sense s-1604890-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
@@ -316,7 +395,11 @@
 ** English glosses
 - tooth (of a saw, comb, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1604890-016-001
+:PROPERTIES:
+:END:
+- text :: зубець
+- qualifier :: пилки, гребінця
 * Sense s-1604890-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
@@ -328,7 +411,10 @@
 ** English glosses
 - ordinal number suffix
 ** Ukrainian glosses
-
+*** uk-s-1604890-017-001
+:PROPERTIES:
+:END:
+- text :: суфікс порядкових числівників
 * Sense s-1604890-018
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 18
@@ -347,7 +433,14 @@
 - somewhat
 - -ish
 ** Ukrainian glosses
-
+*** uk-s-1604890-018-001
+:PROPERTIES:
+:END:
+- text :: дещо
+*** uk-s-1604890-018-002
+:PROPERTIES:
+:END:
+- text :: трохи
 * Sense s-1604890-019
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 19
@@ -364,7 +457,15 @@
 ** English glosses
 - point (e.g. of change)
 ** Ukrainian glosses
-
+*** uk-s-1604890-019-001
+:PROPERTIES:
+:END:
+- text :: момент
+- qualifier :: зміни
+*** uk-s-1604890-019-002
+:PROPERTIES:
+:END:
+- text :: перехід
 * Sense s-1604890-020
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 20
@@ -383,3 +484,8 @@
 ** English glosses
 - eye (empty space inside a group of stones)
 ** Ukrainian glosses
+*** uk-s-1604890-020-001
+:PROPERTIES:
+:END:
+- text :: око
+- qualifier :: вільний простір у грі го
