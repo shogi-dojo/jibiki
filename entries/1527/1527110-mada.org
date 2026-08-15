@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: まだ
 #+ROMAJI: mada
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -164,6 +164,14 @@
 - more
 - (more) still
 ** Ukrainian glosses
+*** uk-s-1527110-003-001
+:PROPERTIES:
+:END:
+- text :: ще
+*** uk-s-1527110-003-002
+:PROPERTIES:
+:END:
+- text :: більше
 
 * Sense s-1527110-004
 :PROPERTIES:
@@ -185,6 +193,18 @@
 - comparatively
 - relatively
 ** Ukrainian glosses
+*** uk-s-1527110-004-001
+:PROPERTIES:
+:END:
+- text :: принаймні
+*** uk-s-1527110-004-002
+:PROPERTIES:
+:END:
+- text :: порівняно
+*** uk-s-1527110-004-003
+:PROPERTIES:
+:END:
+- text :: відносно
 
 * Sense s-1527110-005
 :PROPERTIES:
@@ -206,3 +226,15 @@
 - incomplete
 - not yet done
 ** Ukrainian glosses
+*** uk-s-1527110-005-001
+:PROPERTIES:
+:END:
+- text :: незавершений
+*** uk-s-1527110-005-002
+:PROPERTIES:
+:END:
+- text :: неповний
+*** uk-s-1527110-005-003
+:PROPERTIES:
+:END:
+- text :: недороблений

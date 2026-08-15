@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: また
 #+ROMAJI: mata
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -166,7 +166,12 @@
 - on the other hand
 - while
 ** Ukrainian glosses
-
+*** uk-s-1524930-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: з іншого боку, в той час як
 * Sense s-1524930-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -184,7 +189,12 @@
 - moreover
 - furthermore
 ** Ukrainian glosses
-
+*** uk-s-1524930-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: і, крім того, до того ж, більше того
 * Sense s-1524930-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -199,7 +209,12 @@
 - or
 - otherwise
 ** Ukrainian glosses
-
+*** uk-s-1524930-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: або, інакше
 * Sense s-1524930-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -217,7 +232,12 @@
 - how
 - (what, why) on earth
 ** Ukrainian glosses
-
+*** uk-s-1524930-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: справді, як, якого дідька
 * Sense s-1524930-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -233,7 +253,13 @@
 ** English glosses
 - some time (in the future)
 ** Ukrainian glosses
-
+*** uk-s-1524930-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: колись
+- qualifier :: у майбутньому
 * Sense s-1524930-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -247,3 +273,9 @@
 ** English glosses
 - indirect
 ** Ukrainian glosses
+*** uk-s-1524930-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: непрямий

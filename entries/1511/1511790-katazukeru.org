@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かたづける
 #+ROMAJI: katazukeru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -115,6 +115,12 @@
 - to deal with
 - to dispose of
 ** Ukrainian glosses
+*** uk-s-1511790-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: владнати, вирішити, розібратися, позбутися
 * Sense s-1511790-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -130,6 +136,12 @@
 - to complete
 - to get (something) done
 ** Ukrainian glosses
+*** uk-s-1511790-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: закінчувати, завершувати, доробляти
 * Sense s-1511790-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -144,6 +156,13 @@
 ** English glosses
 - to marry off (one's daughter)
 ** Ukrainian glosses
+*** uk-s-1511790-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: видати заміж
+- qualifier :: про доньку
 * Sense s-1511790-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -159,3 +178,9 @@
 - to kill
 - to eliminate
 ** Ukrainian glosses
+*** uk-s-1511790-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: позбутися, прибрати, вбити, усунути

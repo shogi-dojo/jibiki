@@ -116,3 +116,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1467640-neko (6 senses) - 100% complete
 - [x] 1468060-toshi (3 senses) - 100% complete
 - [x] 1476920-youka (2 senses) - 100% complete
+- [x] 1502390-mono (12 senses) - 100% complete
+- [x] 1509290-kabe (4 senses) - 100% complete
+- [x] 1510790-kawaru (4 senses) - 100% complete
+- [x] 1511790-katazukeru (6 senses) - 100% complete
+- [x] 1524930-mata (9 senses) - 100% complete

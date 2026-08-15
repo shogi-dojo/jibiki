@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: もんだい
 #+ROMAJI: mondai
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -121,6 +121,22 @@
 - case
 - matter
 ** Ukrainian glosses
+*** uk-s-1536010-002-001
+:PROPERTIES:
+:END:
+- text :: проблема
+*** uk-s-1536010-002-002
+:PROPERTIES:
+:END:
+- text :: питання
+*** uk-s-1536010-002-003
+:PROPERTIES:
+:END:
+- text :: предмет
+*** uk-s-1536010-002-004
+:PROPERTIES:
+:END:
+- text :: справа
 
 * Sense s-1536010-003
 :PROPERTIES:
@@ -133,6 +149,14 @@
 ** English glosses
 - question (i.e. doubt)
 ** Ukrainian glosses
+*** uk-s-1536010-003-001
+:PROPERTIES:
+:END:
+- text :: питання
+*** uk-s-1536010-003-002
+:PROPERTIES:
+:END:
+- text :: сумнів
 
 * Sense s-1536010-004
 :PROPERTIES:
@@ -146,6 +170,14 @@
 - public discussion
 - controversy
 ** Ukrainian glosses
+*** uk-s-1536010-004-001
+:PROPERTIES:
+:END:
+- text :: публічне обговорення
+*** uk-s-1536010-004-002
+:PROPERTIES:
+:END:
+- text :: суперечка
 
 * Sense s-1536010-005
 :PROPERTIES:
@@ -161,3 +193,19 @@
 - inconvenience
 - difficulty
 ** Ukrainian glosses
+*** uk-s-1536010-005-001
+:PROPERTIES:
+:END:
+- text :: неприємність
+*** uk-s-1536010-005-002
+:PROPERTIES:
+:END:
+- text :: проблема
+*** uk-s-1536010-005-003
+:PROPERTIES:
+:END:
+- text :: незручність
+*** uk-s-1536010-005-004
+:PROPERTIES:
+:END:
+- text :: трудність

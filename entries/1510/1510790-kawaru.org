@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かわる
 #+ROMAJI: kawaru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -105,6 +105,12 @@
 ** English glosses
 - to move to
 ** Ukrainian glosses
+*** uk-s-1510790-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: переходити, пересуватися
 * Sense s-1510790-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -124,3 +130,9 @@
 - to be uncommon
 - to be unusual
 ** Ukrainian glosses
+*** uk-s-1510790-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відрізнятися, бути незвичним, бути незвичайним
