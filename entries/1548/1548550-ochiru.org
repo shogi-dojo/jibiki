@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: おちる
 #+ROMAJI: ochiru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -65,7 +65,13 @@
 *** uk-s-1548550-001-001
 :PROPERTIES:
 :END:
-- text :: падати; провалюватися (на іспиті)
+- text :: падати
+- qualifier :: зверху вниз
+*** uk-s-1548550-001-002
+:PROPERTIES:
+:END:
+- text :: обрушуватися
+- qualifier :: про дах, міст
 ** Learner notes
 *** note-s-1548550-001-001
 :PROPERTIES:
@@ -123,7 +129,15 @@
 - to dip
 - to go down
 ** Ukrainian glosses
-
+*** uk-s-1548550-002-001
+:PROPERTIES:
+:END:
+- text :: сідати
+- qualifier :: про сонце, місяць
+*** uk-s-1548550-002-002
+:PROPERTIES:
+:END:
+- text :: заходити
 * Sense s-1548550-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -142,7 +156,20 @@
 - to deteriorate
 - to abate (of wind)
 ** Ukrainian glosses
-
+*** uk-s-1548550-003-001
+:PROPERTIES:
+:END:
+- text :: падати
+- qualifier :: про популярність, якість, швидкість тощо
+*** uk-s-1548550-003-002
+:PROPERTIES:
+:END:
+- text :: погіршуватися
+*** uk-s-1548550-003-003
+:PROPERTIES:
+:END:
+- text :: вщухати
+- qualifier :: про вітер
 * Sense s-1548550-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -157,7 +184,15 @@
 - to be not as good (as)
 - to fall short (of)
 ** Ukrainian glosses
-
+*** uk-s-1548550-004-001
+:PROPERTIES:
+:END:
+- text :: поступатися
+*** uk-s-1548550-004-002
+:PROPERTIES:
+:END:
+- text :: бути гіршим
+- qualifier :: за щось
 * Sense s-1548550-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -173,7 +208,16 @@
 - to fade (of colour)
 - to be removed (of an illness, possessing spirit, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1548550-005-001
+:PROPERTIES:
+:END:
+- text :: сходити
+- qualifier :: про бруд, макіяж, плями
+*** uk-s-1548550-005-002
+:PROPERTIES:
+:END:
+- text :: линяти
+- qualifier :: про колір
 * Sense s-1548550-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -188,7 +232,15 @@
 - to become thinner
 - to become leaner
 ** Ukrainian glosses
-
+*** uk-s-1548550-006-001
+:PROPERTIES:
+:END:
+- text :: худнути
+*** uk-s-1548550-006-002
+:PROPERTIES:
+:END:
+- text :: спадати
+- qualifier :: про зайву вагу
 * Sense s-1548550-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -203,7 +255,15 @@
 - to be omitted
 - to be missing
 ** Ukrainian glosses
-
+*** uk-s-1548550-007-001
+:PROPERTIES:
+:END:
+- text :: випадати
+- qualifier :: з тексту
+*** uk-s-1548550-007-002
+:PROPERTIES:
+:END:
+- text :: бути пропущеним
 * Sense s-1548550-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -218,7 +278,15 @@
 - to lose (a contest, election, etc.)
 - to be unsuccessful
 ** Ukrainian glosses
-
+*** uk-s-1548550-008-001
+:PROPERTIES:
+:END:
+- text :: провалюватися
+- qualifier :: на іспиті, виборах
+*** uk-s-1548550-008-002
+:PROPERTIES:
+:END:
+- text :: зазнавати невдачі
 * Sense s-1548550-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -236,7 +304,15 @@
 - to stoop (to)
 - to sink (so low)
 ** Ukrainian glosses
-
+*** uk-s-1548550-009-001
+:PROPERTIES:
+:END:
+- text :: деградувати
+*** uk-s-1548550-009-002
+:PROPERTIES:
+:END:
+- text :: опускатися
+- qualifier :: про мораль, поведінку
 * Sense s-1548550-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -253,7 +329,15 @@
 - to go under
 - to fall (into hell)
 ** Ukrainian glosses
-
+*** uk-s-1548550-010-001
+:PROPERTIES:
+:END:
+- text :: гинути
+*** uk-s-1548550-010-002
+:PROPERTIES:
+:END:
+- text :: потрапляти
+- qualifier :: до пекла
 * Sense s-1548550-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -269,7 +353,15 @@
 ** English glosses
 - to fall (in love, asleep, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1548550-011-001
+:PROPERTIES:
+:END:
+- text :: впадати
+- qualifier :: в сон, стан
+*** uk-s-1548550-011-002
+:PROPERTIES:
+:END:
+- text :: закохуватися
 * Sense s-1548550-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -285,7 +377,16 @@
 - to be won (of a tender)
 - to be honoured (of a bill)
 ** Ukrainian glosses
-
+*** uk-s-1548550-012-001
+:PROPERTIES:
+:END:
+- text :: діставатися
+- qualifier :: до чиїхось рук
+*** uk-s-1548550-012-002
+:PROPERTIES:
+:END:
+- text :: прийматися
+- qualifier :: про ставку, заявку
 * Sense s-1548550-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -299,7 +400,16 @@
 - to fall into (a trap)
 - to fall for (a trick)
 ** Ukrainian glosses
-
+*** uk-s-1548550-013-001
+:PROPERTIES:
+:END:
+- text :: потрапляти
+- qualifier :: у пастку
+*** uk-s-1548550-013-002
+:PROPERTIES:
+:END:
+- text :: піддаватися
+- qualifier :: на хитрощі
 * Sense s-1548550-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
@@ -312,7 +422,14 @@
 ** English glosses
 - to give in
 ** Ukrainian glosses
-
+*** uk-s-1548550-014-001
+:PROPERTIES:
+:END:
+- text :: здаватися
+*** uk-s-1548550-014-002
+:PROPERTIES:
+:END:
+- text :: поступатися
 * Sense s-1548550-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
@@ -326,7 +443,14 @@
 - to confess
 - to own up
 ** Ukrainian glosses
-
+*** uk-s-1548550-015-001
+:PROPERTIES:
+:END:
+- text :: зізнаватися
+*** uk-s-1548550-015-002
+:PROPERTIES:
+:END:
+- text :: розколюватися
 * Sense s-1548550-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
@@ -340,7 +464,11 @@
 - to come to (a conclusion, topic, etc.)
 - to arrive at (in the end)
 ** Ukrainian glosses
-
+*** uk-s-1548550-016-001
+:PROPERTIES:
+:END:
+- text :: доходити
+- qualifier :: до висновку, певної теми
 * Sense s-1548550-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
@@ -354,7 +482,15 @@
 - to leave (a city, castle, etc.)
 - to (be defeated and) flee
 ** Ukrainian glosses
-
+*** uk-s-1548550-017-001
+:PROPERTIES:
+:END:
+- text :: тікати
+*** uk-s-1548550-017-002
+:PROPERTIES:
+:END:
+- text :: рятуватися втечею
+- qualifier :: покинувши місто, замок
 * Sense s-1548550-018
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 18
@@ -371,7 +507,15 @@
 - to sink in
 - to be accepted (in one's heart)
 ** Ukrainian glosses
-
+*** uk-s-1548550-018-001
+:PROPERTIES:
+:END:
+- text :: доходити
+- qualifier :: про суть
+*** uk-s-1548550-018-002
+:PROPERTIES:
+:END:
+- text :: ставати зрозумілим
 * Sense s-1548550-019
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 19
@@ -385,7 +529,15 @@
 - to fall (to the enemy)
 - to be defeated
 ** Ukrainian glosses
-
+*** uk-s-1548550-019-001
+:PROPERTIES:
+:END:
+- text :: пасти
+- qualifier :: про фортецю
+*** uk-s-1548550-019-002
+:PROPERTIES:
+:END:
+- text :: зазнавати поразки
 * Sense s-1548550-020
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 20
@@ -398,7 +550,11 @@
 ** English glosses
 - to come in (of money)
 ** Ukrainian glosses
-
+*** uk-s-1548550-020-001
+:PROPERTIES:
+:END:
+- text :: надходити
+- qualifier :: про гроші
 * Sense s-1548550-021
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 21
@@ -411,7 +567,11 @@
 ** English glosses
 - to fall (upon; of light, a shadow, one's gaze, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1548550-021-001
+:PROPERTIES:
+:END:
+- text :: падати
+- qualifier :: про світло, тінь, погляд тощо
 * Sense s-1548550-022
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 22
@@ -425,7 +585,10 @@
 - to pass out (in judo)
 - to fall unconscious
 ** Ukrainian glosses
-
+*** uk-s-1548550-022-001
+:PROPERTIES:
+:END:
+- text :: втрачати свідомість
 * Sense s-1548550-023
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 23
@@ -441,7 +604,15 @@
 - to go down (of a website, server, etc.)
 - to crash
 ** Ukrainian glosses
-
+*** uk-s-1548550-023-001
+:PROPERTIES:
+:END:
+- text :: падати
+- qualifier :: про вебсайт, сервер тощо
+*** uk-s-1548550-023-002
+:PROPERTIES:
+:END:
+- text :: виходити з ладу
 * Sense s-1548550-024
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 24
@@ -459,7 +630,11 @@
 - to leave
 - to go offline
 ** Ukrainian glosses
-
+*** uk-s-1548550-024-001
+:PROPERTIES:
+:END:
+- text :: виходити з мережі
+- qualifier :: з гри, чату тощо
 * Sense s-1548550-025
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 25
@@ -472,7 +647,11 @@
 ** English glosses
 - to move to deeper water (of a fish in cold weather)
 ** Ukrainian glosses
-
+*** uk-s-1548550-025-001
+:PROPERTIES:
+:END:
+- text :: йти на глибину
+- qualifier :: про рибу в холодну погоду
 * Sense s-1548550-026
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 26
@@ -485,7 +664,11 @@
 ** English glosses
 - to die (of an animal)
 ** Ukrainian glosses
-
+*** uk-s-1548550-026-001
+:PROPERTIES:
+:END:
+- text :: вмирати
+- qualifier :: про тварину
 * Sense s-1548550-027
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 27
@@ -500,3 +683,8 @@
 ** English glosses
 - to strike (of lightning)
 ** Ukrainian glosses
+*** uk-s-1548550-027-001
+:PROPERTIES:
+:END:
+- text :: вдаряти
+- qualifier :: про блискавку
