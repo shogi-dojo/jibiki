@@ -4,3 +4,4 @@
 - [x] Group 4: kochira, konna, saa, jaa, soshite
 - [x] Group 3: obaasan, ocha, otousan, onaka, okaasan
 - [x] Group 5: sorekara, tsumaranai, totemo, doo, motto
+- [x] Group 6: yori, akusesarii, ajia, anaunsaa, apaato
