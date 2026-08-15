@@ -10,3 +10,5 @@
 - [x] Group 9: gitaa, kurasu, guramu, kooto, koohii
 - [x] Group 10: koppu, kopii, shatsu, shawaa, sukaato
 - [x] Group 13: eigakan, oyogu, eigo, eki, enpitsu
+- [x] Group 11: isha, ichi, hitotsuki, issho, isshoukenmei
+- [x] Group 12: ichiban, migi, ame, untenshu, eiga
