@@ -96,3 +96,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1414340-taisetsu (4 senses) - 100% complete
 - [x] 1423310-naka (9 senses) - 100% complete
 - [x] 1429700-tobu (12 senses) - 100% complete
+- [x] 1432850-kayou (4 senses) - 100% complete
+- [x] 1436130-niwa (2 senses) - 100% complete
+- [x] 1443000-denki (2 senses) - 100% complete
+- [x] 1443840-denwa (2 senses) - 100% complete
+- [x] 1445690-okoru (3 senses) - 100% complete

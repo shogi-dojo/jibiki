@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: かよう
 #+ROMAJI: kayou
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -104,6 +104,19 @@
 - to commute
 - to frequent
 ** Ukrainian glosses
+*** uk-s-1432850-002-001
+:PROPERTIES:
+:END:
+- text :: ходити
+- qualifier :: до школи, на роботу тощо
+*** uk-s-1432850-002-002
+:PROPERTIES:
+:END:
+- text :: відвідувати
+*** uk-s-1432850-002-003
+:PROPERTIES:
+:END:
+- text :: їздити на роботу
 * Sense s-1432850-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -120,6 +133,16 @@
 - to circulate (e.g. blood, electricity)
 - to be communicated (e.g. thought)
 ** Ukrainian glosses
+*** uk-s-1432850-003-001
+:PROPERTIES:
+:END:
+- text :: циркулювати
+- qualifier :: наприклад, кров, електрика
+*** uk-s-1432850-003-002
+:PROPERTIES:
+:END:
+- text :: доходити
+- qualifier :: про думку тощо
 * Sense s-1432850-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -132,3 +155,7 @@
 ** English glosses
 - to resemble
 ** Ukrainian glosses
+*** uk-s-1432850-004-001
+:PROPERTIES:
+:END:
+- text :: бути схожим
