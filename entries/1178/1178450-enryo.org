@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: えんりょ
 #+ROMAJI: enryo
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -109,6 +109,18 @@
 - declining
 - refraining
 ** Ukrainian glosses
+*** uk-s-1178450-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відмова
+*** uk-s-1178450-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: утримання
 * Sense s-1178450-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -126,3 +138,15 @@
 - forethought
 - foresight
 ** Ukrainian glosses
+*** uk-s-1178450-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: передбачливість
+*** uk-s-1178450-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: далекоглядність

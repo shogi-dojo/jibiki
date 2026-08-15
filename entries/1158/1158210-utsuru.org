@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: うつる
 #+ROMAJI: utsuru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-12
@@ -113,6 +113,25 @@
 - to be infected
 - to be contagious
 ** Ukrainian glosses
+*** uk-s-1158210-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поширюватися
+- qualifier :: про вогонь, запах тощо
+*** uk-s-1158210-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: заражатися
+*** uk-s-1158210-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути заразним
 * Sense s-1158210-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -126,6 +145,20 @@
 - to move (e.g. of one's focus)
 - to change (e.g. of one's interest)
 ** Ukrainian glosses
+*** uk-s-1158210-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зміщуватися
+- qualifier :: про увагу
+*** uk-s-1158210-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: змінюватися
+- qualifier :: про інтерес
 * Sense s-1158210-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -139,6 +172,19 @@
 - to be permeated (by a color or scent)
 - to seep into
 ** Ukrainian glosses
+*** uk-s-1158210-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: просочуватися
+- qualifier :: про колір або запах
+*** uk-s-1158210-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проникати
 * Sense s-1158210-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -152,3 +198,16 @@
 - to pass (of time)
 - to elapse
 ** Ukrainian glosses
+*** uk-s-1158210-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: минати
+- qualifier :: про час
+*** uk-s-1158210-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проходити

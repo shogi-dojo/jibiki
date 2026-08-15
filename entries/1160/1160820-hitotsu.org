@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: ひとつ
 #+ROMAJI: hitotsu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -128,6 +128,18 @@
 ** English glosses
 - for one thing
 ** Ukrainian glosses
+*** uk-s-1160820-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: по-перше
+*** uk-s-1160820-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: для початку
 
 * Sense s-1160820-003
 :PROPERTIES:
@@ -142,6 +154,18 @@
 ** English glosses
 - only
 ** Ukrainian glosses
+*** uk-s-1160820-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: лише
+*** uk-s-1160820-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тільки
 
 * Sense s-1160820-004
 :PROPERTIES:
@@ -156,6 +180,13 @@
 ** English glosses
 - (not) even
 ** Ukrainian glosses
+*** uk-s-1160820-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: навіть
+- qualifier :: не
 
 * Sense s-1160820-005
 :PROPERTIES:
@@ -169,6 +200,13 @@
 ** English glosses
 - just (e.g. "just try it")
 ** Ukrainian glosses
+*** uk-s-1160820-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: просто
+- qualifier :: наприклад, "просто спробуй"
 
 * Sense s-1160820-006
 :PROPERTIES:
@@ -182,3 +220,15 @@
 - some kind of
 - one type of
 ** Ukrainian glosses
+*** uk-s-1160820-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: якийсь
+*** uk-s-1160820-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: один із видів

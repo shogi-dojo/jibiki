@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: とおい
 #+ROMAJI: tooi
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -130,6 +130,20 @@
 - remote
 - far-removed (in time)
 ** Ukrainian glosses
+*** uk-s-1177800-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: далекий
+- qualifier :: минуле
+*** uk-s-1177800-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: віддалений
+- qualifier :: у часі
 
 * Sense s-1177800-003
 :PROPERTIES:
@@ -143,6 +157,13 @@
 - distant (relationship or kinship)
 - having little to do (with someone)
 ** Ukrainian glosses
+*** uk-s-1177800-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: далекий
+- qualifier :: про стосунки або спорідненість
 
 * Sense s-1177800-004
 :PROPERTIES:
@@ -157,6 +178,19 @@
 - not similar
 - way off
 ** Ukrainian glosses
+*** uk-s-1177800-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: далекий
+- qualifier :: за якістю, ступенем тощо
+*** uk-s-1177800-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: несхожий
 
 * Sense s-1177800-005
 :PROPERTIES:
@@ -171,6 +205,12 @@
 ** English glosses
 - hard (of hearing)
 ** Ukrainian glosses
+*** uk-s-1177800-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: глухуватий
 
 * Sense s-1177800-006
 :PROPERTIES:
@@ -185,3 +225,9 @@
 ** English glosses
 - nearsighted
 ** Ukrainian glosses
+*** uk-s-1177800-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: короткозорий

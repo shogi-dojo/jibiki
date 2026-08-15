@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: よこ
 #+ROMAJI: yoko
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -138,6 +138,18 @@
 - width
 - breadth
 ** Ukrainian glosses
+*** uk-s-1180570-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ширина
+*** uk-s-1180570-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вшир
 
 * Sense s-1180570-003
 :PROPERTIES:
@@ -150,6 +162,19 @@
 ** English glosses
 - side (of a box, etc.)
 ** Ukrainian glosses
+*** uk-s-1180570-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бік
+- qualifier :: коробки тощо
+*** uk-s-1180570-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бокова сторона
 
 * Sense s-1180570-004
 :PROPERTIES:
@@ -164,6 +189,24 @@
 - aside
 - next to
 ** Ukrainian glosses
+*** uk-s-1180570-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поруч
+*** uk-s-1180570-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: збоку
+*** uk-s-1180570-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: біля
 
 * Sense s-1180570-005
 :PROPERTIES:
@@ -178,3 +221,9 @@
 ** English glosses
 - unconnected
 ** Ukrainian glosses
+*** uk-s-1180570-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: непов'язаний

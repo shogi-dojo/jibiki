@@ -36,3 +36,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1123880-botan (2 senses) - 100% complete
 - [x] 1125150-posuto (5 senses) - 100% complete
 - [x] 1132570-meetoru (3 senses) - 100% complete
+- [x] 1153670-yasui (2 senses) - 100% complete
+- [x] 1158210-utsuru (7 senses) - 100% complete
+- [x] 1158880-chigau (5 senses) - 100% complete
+- [x] 1160820-hitotsu (9 senses) - 100% complete
+- [x] 1163940-chotto (9 senses) - 100% complete
