@@ -81,3 +81,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1343100-tokoro (17 senses) - 100% complete
 - [x] 1347750-chiisai (5 senses) - 100% complete
 - [x] 1352570-noboru (8 senses) - 100% complete
+- [x] 1355120-noru (11 senses) - 100% complete
+- [x] 1360010-neru (7 senses) - 100% complete
+- [x] 1375610-naru (13 senses) - 100% complete
+- [x] 1387990-sensei (5 senses) - 100% complete
+- [x] 1390980-sentaku (2 senses) - 100% complete

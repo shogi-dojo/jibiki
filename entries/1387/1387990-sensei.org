@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: せんせい
 #+ROMAJI: sensei
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -47,6 +47,14 @@
 - instructor
 - master
 ** Ukrainian glosses
+*** uk-s-1387990-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старший (за віком)
 *** uk-s-1387990-001-001
 :PROPERTIES:
 :TRANSLATOR_ID: antigravity
@@ -136,6 +144,22 @@
 :END:
 - text :: title or form of address for a teacher, master, doctor, lawyer, etc.
 ** Ukrainian glosses
+*** uk-s-1387990-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старший (за віком)
+*** uk-s-1387990-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сенсей (звернення до вчителя, лікаря, юриста)
 
 * Sense s-1387990-003
 :PROPERTIES:
@@ -158,6 +182,22 @@
 :END:
 - text :: intimate or teasing form of address
 ** Ukrainian glosses
+*** uk-s-1387990-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старший (за віком)
+*** uk-s-1387990-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: жартівливе звернення
 
 * Sense s-1387990-004
 :PROPERTIES:
@@ -174,3 +214,11 @@
 ** English glosses
 - one's elder
 ** Ukrainian glosses
+*** uk-s-1387990-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старший (за віком)
