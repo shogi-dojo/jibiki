@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: する
 #+ROMAJI: suru
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -374,6 +374,12 @@
 ** English glosses
 - to place, or raise, person A to a post or status B
 ** Ukrainian glosses
+*** uk-s-1157170-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: призначити
 
 * Sense s-1157170-012
 :PROPERTIES:
@@ -393,6 +399,18 @@
 - to make A into B
 - to exchange A for B
 ** Ukrainian glosses
+*** uk-s-1157170-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: перетворити
+*** uk-s-1157170-012-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: обміняти
 
 * Sense s-1157170-013
 :PROPERTIES:
@@ -412,6 +430,24 @@
 - to view A as B
 - to handle A as if it were B
 ** Ukrainian glosses
+*** uk-s-1157170-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: використати
+*** uk-s-1157170-013-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вважати
+*** uk-s-1157170-013-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поводитися як з
 
 * Sense s-1157170-014
 :PROPERTIES:
@@ -429,6 +465,12 @@
 ** English glosses
 - to feel A about B
 ** Ukrainian glosses
+*** uk-s-1157170-014-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відчувати
 
 * Sense s-1157170-015
 :PROPERTIES:
@@ -444,6 +486,12 @@
 ** English glosses
 - verbalizing suffix (applies to nouns noted in this dictionary with the part of speech "vs")
 ** Ukrainian glosses
+*** uk-s-1157170-015-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: суфікс дієслова
 
 * Sense s-1157170-016
 :PROPERTIES:
@@ -462,6 +510,12 @@
 ** English glosses
 - creates a humble verb (after a noun prefixed with "o" or "go")
 ** Ukrainian glosses
+*** uk-s-1157170-016-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: утворює скромне дієслово
 
 * Sense s-1157170-017
 :PROPERTIES:
@@ -484,3 +538,15 @@
 - to try to
 - to attempt to
 ** Ukrainian glosses
+*** uk-s-1157170-017-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: збиратися
+*** uk-s-1157170-017-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: намагатися

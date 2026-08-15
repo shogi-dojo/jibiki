@@ -146,3 +146,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1589260-otosu (10 senses) - 100% complete
 - [x] 1590770-kawari (8 senses) - 100% complete
 - [x] 1598680-tokidoki (2 senses) - 100% complete
+- [x] 1157170-suru (25 senses) - 100% complete
+- [x] 1603990-machi (4 senses) - 100% complete
+- [x] 1605820-yoi (8 senses) - 100% complete
+- [x] 1605870-yoku (4 senses) - 100% complete
+- [x] 1612770-oiwai (2 senses) - 100% complete

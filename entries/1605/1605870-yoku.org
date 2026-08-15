@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: よく
 #+ROMAJI: yoku
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -166,6 +166,18 @@
 - I'm glad that you ...
 - thank you for ...
 ** Ukrainian glosses
+*** uk-s-1605870-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: добре що
+*** uk-s-1605870-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: дякую за
 
 * Sense s-1605870-004
 :PROPERTIES:
@@ -181,3 +193,15 @@
 - (you have) quite the nerve to
 - I don't know how you can ...
 ** Ukrainian glosses
+*** uk-s-1605870-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: мати сміливість
+*** uk-s-1605870-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: як ти можеш
