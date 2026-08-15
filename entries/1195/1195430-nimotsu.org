@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: にもつ
 #+ROMAJI: nimotsu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -127,6 +127,12 @@
 ** English glosses
 - burden
 ** Ukrainian glosses
+*** uk-s-1195430-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тягар
 
 * Sense s-1195430-003
 :PROPERTIES:
@@ -139,3 +145,9 @@
 ** English glosses
 - payload (of a packet, cell, etc.)
 ** Ukrainian glosses
+*** uk-s-1195430-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: корисне навантаження

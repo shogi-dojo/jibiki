@@ -46,3 +46,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1180570-yoko (5 senses) - 100% complete
 - [x] 1183300-nurui (3 senses) - 100% complete
 - [x] 1189130-doozo (6 senses) - 100% complete
+- [x] 1189360-dochira (4 senses) - 100% complete
+- [x] 1190860-okashii (4 senses) - 100% complete
+- [x] 1192420-kanai (2 senses) - 100% complete
+- [x] 1195430-nimotsu (3 senses) - 100% complete
+- [x] 1203250-soto (3 senses) - 100% complete
