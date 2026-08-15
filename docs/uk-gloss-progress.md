@@ -51,3 +51,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1192420-kanai (2 senses) - 100% complete
 - [x] 1195430-nimotsu (3 senses) - 100% complete
 - [x] 1203250-soto (3 senses) - 100% complete
+- [x] 1209240-kamu (8 senses) - 100% complete
+- [x] 1214330-kantan (2 senses) - 100% complete
+- [x] 1215810-kankei (5 senses) - 100% complete
+- [x] 1221520-ki (12 senses) - 100% complete
+- [x] 1223660-okosu (9 senses) - 100% complete
