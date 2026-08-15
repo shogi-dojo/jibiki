@@ -3,3 +3,4 @@
 - [x] Group 1: asoko, ano, are, ee, okashi
 - [x] Group 4: kochira, konna, saa, jaa, soshite
 - [x] Group 3: obaasan, ocha, otousan, onaka, okaasan
+- [x] Group 5: sorekara, tsumaranai, totemo, doo, motto
