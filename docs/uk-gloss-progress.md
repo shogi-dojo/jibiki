@@ -61,3 +61,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1238680-odoroku (2 senses) - 100% complete
 - [x] 1238840-ossharu (3 senses) - 100% complete
 - [x] 1242130-chikai (5 senses) - 100% complete
+- [x] 1245290-sora (12 senses) - 100% complete
+- [x] 1250220-katachi (7 senses) - 100% complete
+- [x] 1266440-yobu (6 senses) - 100% complete
+- [x] 1266970-to (4 senses) - 100% complete
+- [x] 1270550-otsuri (2 senses) - 100% complete
