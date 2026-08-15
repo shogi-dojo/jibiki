@@ -53,7 +53,9 @@ namespace :sources do
 
   desc 'Create a combined JMdict/Warodai dossier: rake "sources:word[青,あお]"'
   task :word, %i[written reading] do |_task, args|
-    sh RUBY, 'scripts/extract_word.rb', '--written', args.fetch(:written), '--reading', args.fetch(:reading)
+    written = args.fetch(:written)
+    reading = args[:reading] || written
+    sh RUBY, 'scripts/extract_word.rb', '--written', written, '--reading', reading
   end
 
   desc 'Create an ignored source dossier from one N5 row: rake "sources:n5[2]"'
