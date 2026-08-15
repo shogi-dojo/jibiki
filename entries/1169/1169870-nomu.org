@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: のむ
 #+ROMAJI: nomu
-#+ENTRY_STATUS: untranslated
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
@@ -130,6 +130,15 @@
 - UK :: Коли ви застудилися, краще випити гарячого чаю і лягти спати раніше.
 - EN :: When you catch a cold, you had better drink hot tea and go to bed early.
 - FOCUS :: 飲んで
+*** uk-s-1169870-001-002
+:PROPERTIES:
+:END:
+- text :: ковтати
+*** uk-s-1169870-001-003
+:PROPERTIES:
+:END:
+- text :: приймати
+- qualifier :: ліки
 
 * Sense s-1169870-002
 :PROPERTIES:
@@ -143,6 +152,15 @@
 ** English glosses
 - to smoke (tobacco)
 ** Ukrainian glosses
+*** uk-s-1169870-002-001
+:PROPERTIES:
+:END:
+- text :: палити
+- qualifier :: тютюн
+*** uk-s-1169870-002-002
+:PROPERTIES:
+:END:
+- text :: курити
 
 * Sense s-1169870-003
 :PROPERTIES:
@@ -159,6 +177,14 @@
 - to swallow up
 - to engulf
 ** Ukrainian glosses
+*** uk-s-1169870-003-001
+:PROPERTIES:
+:END:
+- text :: поглинати
+*** uk-s-1169870-003-002
+:PROPERTIES:
+:END:
+- text :: заковтувати
 
 * Sense s-1169870-004
 :PROPERTIES:
@@ -176,6 +202,20 @@
 - to swallow (one's tears)
 - to catch (one's breath)
 ** Ukrainian glosses
+*** uk-s-1169870-004-001
+:PROPERTIES:
+:END:
+- text :: стримувати
+- qualifier :: гнів, сльози тощо
+*** uk-s-1169870-004-002
+:PROPERTIES:
+:END:
+- text :: пригнічувати
+*** uk-s-1169870-004-003
+:PROPERTIES:
+:END:
+- text :: затамовувати
+- qualifier :: подих
 
 * Sense s-1169870-005
 :PROPERTIES:
@@ -190,6 +230,15 @@
 - to accept (a demand, conditions, etc.)
 - to agree to
 ** Ukrainian glosses
+*** uk-s-1169870-005-001
+:PROPERTIES:
+:END:
+- text :: приймати
+- qualifier :: вимоги, умови тощо
+*** uk-s-1169870-005-002
+:PROPERTIES:
+:END:
+- text :: погоджуватися
 
 * Sense s-1169870-006
 :PROPERTIES:
@@ -206,6 +255,14 @@
 - to overwhelm
 - to overawe
 ** Ukrainian glosses
+*** uk-s-1169870-006-001
+:PROPERTIES:
+:END:
+- text :: недооцінювати
+*** uk-s-1169870-006-002
+:PROPERTIES:
+:END:
+- text :: ставитися зневажливо
 
 * Sense s-1169870-007
 :PROPERTIES:
@@ -220,3 +277,13 @@
 - to carry (a concealed dagger, etc.)
 - to conceal (up one's sleeve, etc.)
 ** Ukrainian glosses
+*** uk-s-1169870-007-001
+:PROPERTIES:
+:END:
+- text :: ховати
+- qualifier :: зброю тощо
+*** uk-s-1169870-007-002
+:PROPERTIES:
+:END:
+- text :: приховувати
+
