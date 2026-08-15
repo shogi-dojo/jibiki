@@ -8,3 +8,4 @@
 - [x] Group 7: arukooru, arubaito, erebeetaa, kappu, kamera
 - [x] Group 8: karee, karendaa, kiro, kiroguramu, kiromeetoru
 - [x] Group 9: gitaa, kurasu, guramu, kooto, koohii
+- [x] Group 10: koppu, kopii, shatsu, shawaa, sukaato
