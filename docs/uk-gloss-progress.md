@@ -21,3 +21,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1006780-sochira (10 senses) - 100% complete
 - [x] 1006830-sono (5 senses) - 100% complete
 - [x] 1006970-sore (6 senses) - 100% complete
+- [x] 1008450-dewa (6 senses) - 100% complete
+- [x] 1008460-demo (10 senses) - 100% complete
+- [x] 1009000-doomo (6 senses) - 100% complete
+- [x] 1009290-dore (2 senses) - 100% complete
+- [x] 1010080-hai (9 senses) - 100% complete
