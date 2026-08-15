@@ -121,3 +121,8 @@ Current backlog count (uk_gloss_present warnings): 536 (down from 555)
 - [x] 1510790-kawaru (4 senses) - 100% complete
 - [x] 1511790-katazukeru (6 senses) - 100% complete
 - [x] 1524930-mata (9 senses) - 100% complete
+- [x] 1527110-mada (6 senses) - 100% complete
+- [x] 1536010-mondai (5 senses) - 100% complete
+- [x] 1537370-yasai (2 senses) - 100% complete
+- [x] 1538440-odoru (2 senses) - 100% complete
+- [x] 1546590-hagaki (2 senses) - 100% complete
