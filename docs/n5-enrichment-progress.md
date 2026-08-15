@@ -13,3 +13,4 @@
 - [x] Group 11: isha, ichi, hitotsuki, issho, isshoukenmei
 - [x] Group 12: ichiban, migi, ame, untenshu, eiga
 - [x] Group 14: kitanai, okusan, osu, kiiroi, oku
+- [x] Group 17: ie, kazoku, katei, kudamono, uta
