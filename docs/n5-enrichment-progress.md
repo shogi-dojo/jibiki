@@ -36,3 +36,6 @@
 - [x] Group 38: chikaku, kinyoubi, ginkou, kokonotsu, kokonoka
 - [x] Group 33: kawaku, samui, kanji, amai, aida
 - [x] Group 39: kutsu, kutsushita, ani, kyoudai, keikan
+- [x] Group 35: kaeru, inoru, anata, okiru, kissaten
+- [x] Group 37: tsuyoi, oshieru, kyoushitsu, hashi, tsutomeru
+- [x] Group 40: karui, kekkou, kekkon, getsuyoubi, kotoba
