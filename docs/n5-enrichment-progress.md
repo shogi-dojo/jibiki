@@ -29,3 +29,7 @@
 - [x] Group 31: gaikoku, gaikokujin, oboeru, kado, gakkou
 - [x] Group 30: iken, imi, yasashii, isu, igaku
 - [x] Group 32: gakusei, tanoshii, kakaru, kakeru, kaban
+- [x] Group 27: rajio, rajikase, rekoodo, resutoran, waishatsu
+- [x] Group 29: kurai, ika, igai, ijou, inai
+- [x] Group 34: abunai, ikutsu, ikura, tsukue, kikai
+- [x] Group 36: suu, isogu, gyuuniku, gyuunyuu, kyonen
