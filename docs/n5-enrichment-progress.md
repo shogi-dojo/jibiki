@@ -23,3 +23,4 @@
 - [x] Group 23: tesuto, terebi, doa, naifu, nyuusu
 - [x] Group 21: sutoobu, supuun, supootsu, surippa, zubon
 - [x] Group 24: nekutai, hankachi, basu, bataa, firumu
+- [x] Group 26: pen, hoteru, bo-rupen, poketto, matchi
