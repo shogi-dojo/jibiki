@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the entry tree: **2026-08-12** on the PR #6 review
+Last reconciled with the entry tree: **2026-08-16** on the PR #6 cleanup
 branch.
 
 ## Schema flag day (2026-07-17)
@@ -44,8 +44,9 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 729 |
-| Learner profile | 756 |
+| Entry metadata still marked `draft` | 747 |
+| Core profile | 163 |
+| Learner profile | 593 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows are represented. Eleven queue aliases collapse into

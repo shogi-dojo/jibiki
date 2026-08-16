@@ -102,7 +102,7 @@ rake
 ```
 
 The default task runs extractor unit tests, validates all entries against the
-local JMdict archive, and runs `org-lint` on entries.
+local JMdict archive, runs `org-lint` on entries, and runs the corpus doctor.
 
 ## Export
 
@@ -148,7 +148,7 @@ See [`docs/export-formats.md`](docs/export-formats.md) for full schema documenta
 - `entries/` — canonical authored Org dictionary entries
 - `lib/dictionary_sources/` — reusable source readers and parsers
 - `scripts/` — command-line extraction and validation tools
-- `docs/` — Org schema
+- `docs/` — durable schema, export, integration, and transliteration policies
 - `assets/` — ignored locally generated media and manifests
 - `sources/` — ignored upstream inputs
 - `tmp/source-extracts/` — ignored private source dossiers
