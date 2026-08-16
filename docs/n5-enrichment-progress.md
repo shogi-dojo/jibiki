@@ -89,3 +89,13 @@
 - [x] Group 88: taisetsu, taihen, takusan, nugu, dare
 - [x] Group 89: dareka, mijikai, tanjoubi, otoko, otokonoko
 - [x] Group 90: shiru, chikatetsu, chizu, ike, itasu
+- [x] Group 91: osoi, chairo, tsuku, naka, hiru
+- [x] Group 92: choudo, asa, tobu, nagai, tori
+- [x] Group 93: suguni, itai, hikui, niwa, shimaru
+- [x] Group 94: shimeru, tenki, inaka, denki, densha
+- [x] Group 95: denwa, watasu, wataru, doyoobi, okoru
+- [x] Group 96: fuyu, higashi, kotaeru, hataraku, doobutsu
+- [x] Group 97: onaji, michi, yomu, butaniku, kumoru
+- [x] Group 98: minami, muzukashii, ni, futatsu, futsuka
+- [x] Group 99: nigiyaka, niku, nihongo, nichiyoubi, hairu
+- [x] Group 100: ireru, dooshite, neko, toshi, sebiro

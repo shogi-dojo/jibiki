@@ -68,51 +68,19 @@
 *** note-s-1466940-001-001
 :PROPERTIES:
 :END:
-- UK :: Питальне слово «чому, як». Зазвичай пишеться хіраганою (どうして).
+- UK :: Питальне слово. Залежно від контексту може означати «як, яким чином» або «чому, з якої причини» (у цьому значенні див. інше значення). Зазвичай пишеться хіраганою (どうして).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
-*** ex-1466940-001-001
+*** ex-1466940-001-004
 :PROPERTIES:
-:SOURCE_ID:
-:SOURCE_URL:
-:LEVEL: beginner
-:REGISTER: neutral
-:ROMAJI: Dōshite desu ka.
-:END:
-- JA :: どうしてですか。
-- READING :: どうして です か。
-- ROMAJI :: Dōshite desu ka.
-- UK :: Чому?
-- EN :: Why?
-- FOCUS :: どうして
-*** ex-1466940-001-002
-:PROPERTIES:
-:SOURCE_ID:
-:SOURCE_URL:
-:LEVEL: beginner
-:REGISTER: neutral
-:ROMAJI: Dōshite kimasen deshita ka.
-:END:
-- JA :: どうして来ませんでしたか。
-- READING :: どうして きません でした か。
-- ROMAJI :: Dōshite kimasen deshita ka.
-- UK :: Чому ти не прийшов?
-- EN :: Why didn't you come?
-- FOCUS :: どうして
-*** ex-1466940-001-003
-:PROPERTIES:
-:SOURCE_ID:
-:SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
-:ROMAJI: Dōshite sonna ni hataraite iru no desu ka.
 :END:
-- JA :: どうしてそんなに働いているのですか。
-- READING :: どうして そんな に はたらいて いる の です か。
-- ROMAJI :: Dōshite sonna ni hataraite iru no desu ka.
-- UK :: Чому ти так багато працюєш?
-- EN :: Why are you working so much?
+- JA :: それをどうして知りましたか。
+- READING :: それ を どうして しりました か。
+- UK :: Як ви про це дізналися?
+- EN :: How did you find that out?
 - FOCUS :: どうして
 
 * Sense s-1466940-002
@@ -139,6 +107,37 @@
 :REVIEWED_AT:
 :END:
 - text :: чому
+** Examples
+*** ex-1466940-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: どうしてですか。
+- READING :: どうして です か。
+- UK :: Чому?
+- EN :: Why?
+- FOCUS :: どうして
+*** ex-1466940-002-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: どうして来ませんでしたか。
+- READING :: どうして きません でした か。
+- UK :: Чому ти не прийшов?
+- EN :: Why didn't you come?
+- FOCUS :: どうして
+*** ex-1466940-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: どうしてそんなに働いているのですか。
+- READING :: どうして そんな に はたらいて いる の です か。
+- UK :: Чому ти так багато працюєш?
+- EN :: Why are you working so much?
+- FOCUS :: どうして
 
 * Sense s-1466940-003
 :PROPERTIES:
