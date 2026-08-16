@@ -86,14 +86,12 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: приймальня, реєстратура
+- text :: приймальня, реєстратура, стійка реєстрації, довідкове бюро
 ** Learner notes
 *** note-s-1588060-001-001
 :PROPERTIES:
 :END:
-- UK :: приймальня, реєстратура
-- LEVEL :: beginner
-- REGISTER :: neutral
+- UK :: Слово *受付* (うけつけ) зазвичай позначає місце (стійку реєстрації, приймальню, довідкове бюро), куди відвідувачі звертаються першочергово в лікарнях, офісах чи на заходах. Також може стосуватися людини, яка там працює (реєстратора, секретаря на ресепшені).
 ** Examples
 *** ex-1588060-001-001
 :PROPERTIES:
@@ -112,7 +110,7 @@
 :END:
 - JA :: 病院に着いたら、まず受付で診察券を出してください。
 - READING :: びょういん に ついたら、 まず うけつけ で しんさつけん を だして ください。
-- UK :: Як прибудете до лікарні, спершу покажіть картку пацієнта в реєстратурі.
+- UK :: Коли прийдете до лікарні, спершу покажіть картку пацієнта в реєстратурі.
 - EN :: When you arrive at the hospital, please show your patient card at the reception first.
 - FOCUS :: 受付で
 *** ex-1588060-001-003
@@ -120,11 +118,11 @@
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: イベントの参加申し込みは、ウェブサイトか電話で受け付けています。
-- READING :: いべんと の さんか もうしこみ は、 うぇぶさいと か でんわ で うけつけて います。
-- UK :: Заявки на участь у заході приймаються на вебсайті або по телефону.
-- EN :: Applications for participation in the event are accepted on the website or by phone.
-- FOCUS :: 受け付けています
+- JA :: １階の受付で訪問先の部署をお伝えください。
+- READING :: いっかい の うけつけ で ほうもんさき の ぶしょ を おつたえ ください。
+- UK :: Будь ласка, повідомте на стійці реєстрації на першому поверсі, який відділ ви відвідуєте.
+- EN :: Please tell the reception desk on the first floor which department you are visiting.
+- FOCUS :: １階の受付
 
 * Sense s-1588060-002
 :PROPERTIES:
@@ -150,11 +148,4 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: приймальня, реєстратура
-** Learner notes
-*** note-s-1588060-002-001
-:PROPERTIES:
-:END:
-- UK :: приймальня, реєстратура
-- LEVEL :: beginner
-- REGISTER :: neutral
+- text :: прийом, прийняття (заяв, документів тощо)
