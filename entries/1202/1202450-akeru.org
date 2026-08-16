@@ -3,14 +3,14 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あける
 #+ROMAJI: akeru
-#+ENTRY_STATUS: reviewed
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
 #+DEFAULT_SOURCE_TYPE: original
-#+DEFAULT_STATUS: reviewed
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1202450-001
@@ -97,9 +97,8 @@
 ** Learner notes
 *** note-s-1202450-001-001
 :PROPERTIES:
-:STATUS: draft
 :END:
-- UK :: Дієслово 2-ї групи. Залежно від ієрогліфа має різні значення: 開ける (відчиняти, відкривати), 空ける (спорожнювати, звільняти), 明ける (світати, закінчуватися).
+- UK :: Дієслово 2-ї групи. Залежно від ієрогліфа має різні значення: 開ける (відчиняти, відкривати), 空ける (спорожнювати, звільняти), 明ける (світати, закінчуватися). Для значення «відчиняти» неперехідним відповідником є 開く (aku) — відчинятися.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -123,7 +122,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 暑いですから、ドアを開けましょう。
-- READING :: あついですから、ドアをあけましょう。
+- READING :: あついですから、どあをあけましょう。
 - UK :: Спекотно, тож відчинімо двері.
 - EN :: It is hot, so let's open the door.
 - FOCUS :: 開けましょう
@@ -284,7 +283,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 来月アパートを空けます。
-- READING :: らいげつアパートをあけます。
+- READING :: らいげつあぱーとをあけます。
 - UK :: Наступного місяця я звільняю квартиру.
 - EN :: I'm moving out of the apartment next month.
 - FOCUS :: アパートを空けます

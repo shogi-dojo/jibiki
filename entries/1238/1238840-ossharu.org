@@ -1,0 +1,134 @@
+#+TITLE: 仰る
+#+JMDICT_ID: 1238840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おっしゃる
+#+ROMAJI: ossharu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: core
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1238840-001
+:PROPERTIES:
+:TEXT: 仰る
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1238840-002
+:PROPERTIES:
+:TEXT: 仰有る
+:END:
+*** Information
+- rK
+** Written form wf-1238840-003
+:PROPERTIES:
+:TEXT: 仰しゃる
+:END:
+*** Information
+- sK
+** Written form wf-1238840-004
+:PROPERTIES:
+:TEXT: 仰っしゃる
+:END:
+*** Information
+- sK
+** Reading rd-1238840-001
+:PROPERTIES:
+:TEXT: おっしゃる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1238840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3e03b594cb334cf3212fc3692235e18651ed3f62e396961af6fec9b7b32b5481
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5aru
+- vt
+*** Miscellaneous and register
+- uk
+- hon
+** English glosses
+- to say
+- to speak
+- to tell
+** Ukrainian glosses
+*** uk-s-1238840-001-001
+:PROPERTIES:
+:END:
+- text :: говорити; казати
+** Learner notes
+*** note-s-1238840-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово 仰る (ossharu) є ввічливим еквівалентом (сонкейґо) для 言う (iu, говорити). Використовується виключно для опису слів або думок співрозмовника або третьої особи, якій виражається повага. Зверніть увагу на особливе відмінювання: форма на -мас буде おっしゃいます (osshaimasu).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1238840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生が仰る。
+- READING :: せんせいがおっしゃる。
+- ROMAJI :: Sensei ga ossharu.
+- UK :: Вчитель говорить.
+- EN :: The teacher says.
+- FOCUS :: 仰る
+*** ex-1238840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 社長は何と仰っていましたか。
+- READING :: しゃちょうはなんとおっしゃっていましたか。
+- ROMAJI :: Shachou wa nan to osshatte imashita ka.
+- UK :: Що сказав директор?
+- EN :: What did the president say?
+- FOCUS :: 仰って
+*** ex-1238840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: お名前は何と仰いますか。
+- READING :: おなまえはなんとおっしゃいますか。
+- ROMAJI :: Onamae wa nan to osshaimasu ka.
+- UK :: Як вас звати?
+- EN :: What is your name?
+- FOCUS :: 仰います
+
+* Sense s-1238840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d9309bca048cbdc78753bda9c6870e0a9b9d55902d6de2c4f1bc33643fa9b795
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5aru
+- vt
+*** Miscellaneous and register
+- uk
+- hon
+*** Sense information
+- as ...とおっしゃる after a person's name
+** English glosses
+- to be called
+** Ukrainian glosses
+*** uk-s-1238840-002-001
+:PROPERTIES:
+:END:
+- text :: називатися

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: にもつ
 #+ROMAJI: nimotsu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -69,7 +69,7 @@
 *** note-s-1195430-001-001
 :PROPERTIES:
 :END:
-- UK :: Означає «багаж» або «речі», які ви носите з собою чи відправляєте.
+- UK :: Означає багаж (валізи, сумки), який беруть у подорож, або речі та посилки, які переносять чи відправляють. Може вживатися і в переносному значенні для позначення того, що стає тягарем (наприклад, お荷物 — тягар, обуза).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -84,7 +84,7 @@
 - JA :: 荷物が多いですね。
 - READING :: にもつが おおいですね。
 - ROMAJI :: Nimotsu ga ooi desu ne.
-- UK :: У вас багато багажу, чи не так?
+- UK :: У вас багато речей, чи не так?
 - EN :: You have a lot of luggage, don't you?
 - FOCUS :: 荷物が
 *** ex-1195430-001-002
@@ -110,7 +110,7 @@
 :ROMAJI: Hoteru ni tsuitara, mazu heya ni nimotsu o okimasu.
 :END:
 - JA :: ホテルに着いたら、まず部屋に荷物を置きます。
-- READING :: ホテルに ついたら、まず へやに にもつを おきます。
+- READING :: ほてるに ついたら、まず へやに にもつを おきます。
 - ROMAJI :: Hoteru ni tsuitara, mazu heya ni nimotsu o okimasu.
 - UK :: Коли я приїду в готель, спершу залишу речі в номері.
 - EN :: When I arrive at the hotel, I will first leave my luggage in the room.
@@ -127,6 +127,12 @@
 ** English glosses
 - burden
 ** Ukrainian glosses
+*** uk-s-1195430-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тягар
 
 * Sense s-1195430-003
 :PROPERTIES:
@@ -139,4 +145,9 @@
 ** English glosses
 - payload (of a packet, cell, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1195430-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: корисне навантаження

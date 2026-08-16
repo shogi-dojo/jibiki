@@ -4,7 +4,7 @@
 #+PRIMARY_READING: メートル
 #+ROMAJI: meetoru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -66,7 +66,7 @@
 *** note-s-1132570-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово メートル (mētoru - метр) у японській мові часто записується катаканою, хоча іноді може використовуватися кандзі 米.
+- UK :: Слово «меетору» (メートル — метр) у японській мові зазвичай записується катаканою, оскільки походить з французької (mètre). Кандзі 米 (яке також означає «рис») іноді використовується як скорочення, особливо в письмових текстах або на вивісках.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -79,7 +79,7 @@
 :ROMAJI: Eki made hyaku mētoru desu.
 :END:
 - JA :: 駅まで百メートルです。
-- READING :: えき まで ひゃく メートル です。
+- READING :: えき まで ひゃく めーとる です。
 - ROMAJI :: Eki made hyaku mētoru desu.
 - UK :: До станції сто метрів.
 - EN :: It's a hundred meters to the station.
@@ -93,7 +93,7 @@
 :ROMAJI: Kono pūru wa gojū mētoru arimasu.
 :END:
 - JA :: このプールは五十メートルあります。
-- READING :: この プール は ごじゅう メートル あります。
+- READING :: この ぷーる は ごじゅう めーとる あります。
 - ROMAJI :: Kono pūru wa gojū mētoru arimasu.
 - UK :: Цей басейн має п'ятдесят метрів завдовжки.
 - EN :: This pool is fifty meters long.
@@ -107,7 +107,7 @@
 :ROMAJI: Ie kara gakkō made wa yaku gohyaku mētoru no kyori desu.
 :END:
 - JA :: 家から学校までは約五百メートルの距離です。
-- READING :: いえ から がっこう まで は やく ごひゃく メートル の きょり です。
+- READING :: いえ から がっこう まで は やく ごひゃく めーとる の きょり です。
 - ROMAJI :: Ie kara gakkō made wa yaku gohyaku mētoru no kyori desu.
 - UK :: Відстань від дому до школи становить приблизно п'ятсот метрів.
 - EN :: The distance from home to school is about five hundred meters.
@@ -131,4 +131,26 @@
 - meter
 - gauge
 ** Ukrainian glosses
-
+*** uk-s-1132570-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лічильник
+*** uk-s-1132570-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вимірювальний прилад
+** Learner notes
+*** note-s-1132570-002-001
+:PROPERTIES:
+:END:
+- UK :: У значенні «лічильник» або «вимірювальний прилад» (наприклад, лічильник таксі, газовий лічильник) частіше використовується варіант メーター (меетаа).
+- LEVEL :: intermediate
+- REGISTER :: neutral

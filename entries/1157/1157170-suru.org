@@ -4,7 +4,7 @@
 #+PRIMARY_READING: する
 #+ROMAJI: suru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -65,7 +65,7 @@
 *** note-s-1157170-001-001
 :PROPERTIES:
 :END:
-- UK :: Робити. Один з найважливіших дієслів японської мови. Часто поєднується з іменниками для утворення нових дієслів (наприклад, 勉強する — вчитися).
+- UK :: Дієслово «суру» (する — робити) є одним із найважливіших у японській мові. Воно неправильне (має особливі форми відмінювання) і часто поєднується з іменниками для утворення нових дієслів (наприклад, 勉強する — вчитися, サッカーをする — грати у футбол).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -284,6 +284,13 @@
 :END:
 - text :: відчуватися
 - qualifier :: про запах, звук
+** Learner notes
+*** note-s-1157170-007-001
+:PROPERTIES:
+:END:
+- UK :: Використовується зі словами, що позначають відчуття (наприклад, 匂いがする — пахне, 音がする — лунає звук, 気がする — здається).
+- LEVEL :: beginner
+- REGISTER :: neutral
 
 * Sense s-1157170-008
 :PROPERTIES:
@@ -332,6 +339,13 @@
 :REVIEWED_AT:
 :END:
 - text :: коштувати
+** Learner notes
+*** note-s-1157170-009-001
+:PROPERTIES:
+:END:
+- UK :: Використовується для позначення вартості (наприклад, 1000円する — коштує 1000 єн).
+- LEVEL :: beginner
+- REGISTER :: neutral
 
 * Sense s-1157170-010
 :PROPERTIES:
@@ -374,6 +388,12 @@
 ** English glosses
 - to place, or raise, person A to a post or status B
 ** Ukrainian glosses
+*** uk-s-1157170-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: призначити
 
 * Sense s-1157170-012
 :PROPERTIES:
@@ -393,6 +413,18 @@
 - to make A into B
 - to exchange A for B
 ** Ukrainian glosses
+*** uk-s-1157170-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: перетворити
+*** uk-s-1157170-012-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: обміняти
 
 * Sense s-1157170-013
 :PROPERTIES:
@@ -412,6 +444,24 @@
 - to view A as B
 - to handle A as if it were B
 ** Ukrainian glosses
+*** uk-s-1157170-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: використати
+*** uk-s-1157170-013-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вважати
+*** uk-s-1157170-013-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поводитися як з
 
 * Sense s-1157170-014
 :PROPERTIES:
@@ -429,6 +479,12 @@
 ** English glosses
 - to feel A about B
 ** Ukrainian glosses
+*** uk-s-1157170-014-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відчувати
 
 * Sense s-1157170-015
 :PROPERTIES:
@@ -444,6 +500,12 @@
 ** English glosses
 - verbalizing suffix (applies to nouns noted in this dictionary with the part of speech "vs")
 ** Ukrainian glosses
+*** uk-s-1157170-015-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: суфікс дієслова
 
 * Sense s-1157170-016
 :PROPERTIES:
@@ -462,6 +524,12 @@
 ** English glosses
 - creates a humble verb (after a noun prefixed with "o" or "go")
 ** Ukrainian glosses
+*** uk-s-1157170-016-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: утворює скромне дієслово
 
 * Sense s-1157170-017
 :PROPERTIES:
@@ -484,3 +552,15 @@
 - to try to
 - to attempt to
 ** Ukrainian glosses
+*** uk-s-1157170-017-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: збиратися
+*** uk-s-1157170-017-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: намагатися

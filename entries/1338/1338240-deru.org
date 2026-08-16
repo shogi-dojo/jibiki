@@ -4,7 +4,7 @@
 #+PRIMARY_READING: でる
 #+ROMAJI: deru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -72,7 +72,7 @@
 *** note-s-1338240-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 出る (でる) означає рух назовні або появу. Воно часто вживається зі знахідним відмінком を для позначення місця, звідки хтось виходить (наприклад, 部屋を出る — «вийти з кімнати»).
+- UK :: Дієслово 出る (でる) є неперехідним і означає рух назовні (виходити) або появу. Воно часто вживається з часткою を для позначення місця, яке залишають (наприклад, 部屋を出る — «вийти з кімнати»), та з часткою に для позначення місця, де з'являються або куди виходять.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -85,7 +85,7 @@
 :ROMAJI: Maiasa hachi-ji ni ie o demasu.
 :END:
 - JA :: 毎朝８時に家を出ます。
-- READING :: 毎(まい)朝(あさ)８(はち)時(じ)に家(いえ)を出(で)ます。
+- READING :: まいあさはちじにいえをでます。
 - ROMAJI :: Maiasa hachi-ji ni ie o demasu.
 - UK :: Щоранку я виходжу з дому о 8 годині.
 - EN :: I leave the house at 8 every morning.
@@ -99,7 +99,7 @@
 :ROMAJI: Heya kara dete kudasai.
 :END:
 - JA :: 部屋から出てください。
-- READING :: 部(へ)屋(や)から出(で)てください。
+- READING :: へやからでてください。
 - ROMAJI :: Heya kara dete kudasai.
 - UK :: Будь ласка, вийдіть з кімнати.
 - EN :: Please get out of the room.
@@ -113,7 +113,7 @@
 :ROMAJI: Atarashii hon ga raigetsu demasu.
 :END:
 - JA :: 新しい本が来月出ます。
-- READING :: 新(あたら)しい本(ほん)が来(らい)月(げつ)出(で)ます。
+- READING :: あたらしいほんがらいげつでます。
 - ROMAJI :: Atarashii hon ga raigetsu demasu.
 - UK :: Нова книга вийде наступного місяця.
 - EN :: A new book will come out next month.
@@ -155,7 +155,14 @@
 ** English glosses
 - to move forward
 ** Ukrainian glosses
-
+*** uk-s-1338240-003-001
+:PROPERTIES:
+:END:
+- text :: просуватися вперед
+*** uk-s-1338240-003-002
+:PROPERTIES:
+:END:
+- text :: рухатися вперед
 * Sense s-1338240-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -171,7 +178,20 @@
 - to lead to
 - to reach
 ** Ukrainian glosses
-
+*** uk-s-1338240-004-001
+:PROPERTIES:
+:END:
+- text :: доходити
+- qualifier :: до чогось
+*** uk-s-1338240-004-002
+:PROPERTIES:
+:END:
+- text :: вести
+- qualifier :: про дорогу
+*** uk-s-1338240-004-003
+:PROPERTIES:
+:END:
+- text :: досягати
 * Sense s-1338240-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -238,6 +258,11 @@
 :REVIEWED_AT:
 :END:
 - text :: публікуватися
+*** uk-s-1338240-006-002
+:PROPERTIES:
+:END:
+- text :: виходити
+- qualifier :: про видання, книгу тощо
 
 * Sense s-1338240-007
 :PROPERTIES:
@@ -256,7 +281,19 @@
 - to play in
 - to perform
 ** Ukrainian glosses
-
+*** uk-s-1338240-007-001
+:PROPERTIES:
+:END:
+- text :: бути присутнім
+*** uk-s-1338240-007-002
+:PROPERTIES:
+:END:
+- text :: брати участь
+*** uk-s-1338240-007-003
+:PROPERTIES:
+:END:
+- text :: виступати
+- qualifier :: у змаганнях
 * Sense s-1338240-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -273,7 +310,15 @@
 - to be brought up
 - to be raised
 ** Ukrainian glosses
-
+*** uk-s-1338240-008-001
+:PROPERTIES:
+:END:
+- text :: порушуватися
+- qualifier :: про питання
+*** uk-s-1338240-008-002
+:PROPERTIES:
+:END:
+- text :: висловлюватися
 * Sense s-1338240-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -286,7 +331,14 @@
 ** English glosses
 - to sell
 ** Ukrainian glosses
-
+*** uk-s-1338240-009-001
+:PROPERTIES:
+:END:
+- text :: продаватися
+*** uk-s-1338240-009-002
+:PROPERTIES:
+:END:
+- text :: мати попит
 * Sense s-1338240-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -300,7 +352,14 @@
 - to exceed
 - to go over
 ** Ukrainian glosses
-
+*** uk-s-1338240-010-001
+:PROPERTIES:
+:END:
+- text :: перевищувати
+*** uk-s-1338240-010-002
+:PROPERTIES:
+:END:
+- text :: виходити за межі
 * Sense s-1338240-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -314,7 +373,15 @@
 - to stick out
 - to protrude
 ** Ukrainian glosses
-
+*** uk-s-1338240-011-001
+:PROPERTIES:
+:END:
+- text :: виступати
+- qualifier :: за межі
+*** uk-s-1338240-011-002
+:PROPERTIES:
+:END:
+- text :: стирчати
 * Sense s-1338240-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -330,7 +397,15 @@
 - to start
 - to originate
 ** Ukrainian glosses
-
+*** uk-s-1338240-012-001
+:PROPERTIES:
+:END:
+- text :: спалахувати
+- qualifier :: про пожежу, хворобу
+*** uk-s-1338240-012-002
+:PROPERTIES:
+:END:
+- text :: виникати
 * Sense s-1338240-013
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 13
@@ -343,7 +418,14 @@
 ** English glosses
 - to be produced
 ** Ukrainian glosses
-
+*** uk-s-1338240-013-001
+:PROPERTIES:
+:END:
+- text :: вироблятися
+*** uk-s-1338240-013-002
+:PROPERTIES:
+:END:
+- text :: видобуватися
 * Sense s-1338240-014
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 14
@@ -357,7 +439,16 @@
 - to come from
 - to be derived from
 ** Ukrainian glosses
-
+*** uk-s-1338240-014-001
+:PROPERTIES:
+:END:
+- text :: походити
+- qualifier :: від чогось
+*** uk-s-1338240-014-002
+:PROPERTIES:
+:END:
+- text :: випливати
+- qualifier :: з чогось
 * Sense s-1338240-015
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 15
@@ -379,7 +470,19 @@
 - to be turned in
 - to be paid
 ** Ukrainian glosses
-
+*** uk-s-1338240-015-001
+:PROPERTIES:
+:END:
+- text :: подаватися
+- qualifier :: про їжу
+*** uk-s-1338240-015-002
+:PROPERTIES:
+:END:
+- text :: видаватися
+*** uk-s-1338240-015-003
+:PROPERTIES:
+:END:
+- text :: надаватися
 * Sense s-1338240-016
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 16
@@ -393,7 +496,16 @@
 - to answer (phone, door, etc.)
 - to get
 ** Ukrainian glosses
-
+*** uk-s-1338240-016-001
+:PROPERTIES:
+:END:
+- text :: відповідати
+- qualifier :: на телефонний дзвінок
+*** uk-s-1338240-016-002
+:PROPERTIES:
+:END:
+- text :: відчиняти
+- qualifier :: двері
 * Sense s-1338240-017
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 17
@@ -408,7 +520,18 @@
 - to act
 - to behave
 ** Ukrainian glosses
-
+*** uk-s-1338240-017-001
+:PROPERTIES:
+:END:
+- text :: діяти
+*** uk-s-1338240-017-002
+:PROPERTIES:
+:END:
+- text :: поводитися
+*** uk-s-1338240-017-003
+:PROPERTIES:
+:END:
+- text :: займати позицію
 * Sense s-1338240-018
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 18
@@ -422,7 +545,11 @@
 - to pick up (speed, etc.)
 - to gain
 ** Ukrainian glosses
-
+*** uk-s-1338240-018-001
+:PROPERTIES:
+:END:
+- text :: набирати
+- qualifier :: швидкість
 * Sense s-1338240-019
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 19
@@ -437,7 +564,11 @@
 - to run
 - to bleed
 ** Ukrainian glosses
-
+*** uk-s-1338240-019-001
+:PROPERTIES:
+:END:
+- text :: текти
+- qualifier :: про сльози, кров тощо
 * Sense s-1338240-020
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 20
@@ -450,7 +581,15 @@
 ** English glosses
 - to graduate
 ** Ukrainian glosses
-
+*** uk-s-1338240-020-001
+:PROPERTIES:
+:END:
+- text :: закінчувати
+- qualifier :: навчальний заклад
+*** uk-s-1338240-020-002
+:PROPERTIES:
+:END:
+- text :: випускатися
 * Sense s-1338240-021
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 21
@@ -466,4 +605,8 @@
 - to ejaculate
 - to cum
 ** Ukrainian glosses
-
+*** uk-s-1338240-021-001
+:PROPERTIES:
+:END:
+- text :: кінчати
+- qualifier :: про еякуляцію

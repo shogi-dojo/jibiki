@@ -99,7 +99,7 @@
 *** note-s-1283190-001-001
 :PROPERTIES:
 :END:
-- UK :: I-прикметник «takai» має кілька значень: високий (про зріст або гору), дорогий (про ціну) та високий/гучний (про голос або звук).
+- UK :: Означає «високий» (про гору, будівлю або зріст людини). Антонімом у цьому значенні є 低い (hikui — низький).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -112,7 +112,7 @@
 :ROMAJI: Ano yama wa takai desu.
 :END:
 - JA :: あの山は高いです。
-- READING :: あの 山[やま]は 高[たか]いです。
+- READING :: あの やまは たかいです。
 - ROMAJI :: Ano yama wa takai desu.
 - UK :: Та гора висока.
 - EN :: That mountain is high.
@@ -121,29 +121,29 @@
 :PROPERTIES:
 :SOURCE_ID:
 :SOURCE_URL:
-:LEVEL: beginner
-:REGISTER: neutral
-:ROMAJI: Kono kaban wa takakatta desu.
-:END:
-- JA :: このかばんは高かったです。
-- READING :: このかばんは 高[たか]かったです。
-- ROMAJI :: Kono kaban wa takakatta desu.
-- UK :: Ця сумка була дорогою.
-- EN :: This bag was expensive.
-- FOCUS :: 高い
-*** ex-1283190-001-003
-:PROPERTIES:
-:SOURCE_ID:
-:SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
 :ROMAJI: Kare wa se ga takakute, totemo kakkoii desu.
 :END:
 - JA :: 彼は背が高くて、とてもかっこいいです。
-- READING :: 彼[かれ]は 背[せ]が 高[たか]くて、とてもかっこいいです。
+- READING :: かれは せが たかくて、とてもかっこいいです。
 - ROMAJI :: Kare wa se ga takakute, totemo kakkoii desu.
 - UK :: Він високого зросту і дуже гарний.
 - EN :: He is tall and very handsome.
+- FOCUS :: 高い
+*** ex-1283190-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Ano tatemono wa totemo takai desu.
+:END:
+- JA :: あの建物はとても高いです。
+- READING :: あの たてものは とても たかいです。
+- ROMAJI :: Ano tatemono wa totemo takai desu.
+- UK :: Та будівля дуже висока.
+- EN :: That building is very tall.
 - FOCUS :: 高い
 
 * Sense s-1283190-002
@@ -174,6 +174,28 @@
 :REVIEWED_AT:
 :END:
 - text :: коштовний
+** Learner notes
+*** note-s-1283190-002-001
+:PROPERTIES:
+:END:
+- UK :: Означає «дорогий» (про ціну). Антонімом є 安い (yasui — дешевий).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1283190-002-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Kono kaban wa takakatta desu.
+:END:
+- JA :: このかばんは高かったです。
+- READING :: このかばんは たかかったです。
+- ROMAJI :: Kono kaban wa takakatta desu.
+- UK :: Ця сумка була дорогою.
+- EN :: This bag was expensive.
+- FOCUS :: 高い
 
 * Sense s-1283190-003
 :PROPERTIES:
@@ -236,4 +258,3 @@
 :REVIEWED_AT:
 :END:
 - text :: високий (голос)
-

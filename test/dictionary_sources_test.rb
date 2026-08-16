@@ -7,6 +7,7 @@ require 'fileutils'
 
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/dictionary_sources/n5_queue'
+require_relative '../lib/dictionary_sources/n4_queue'
 require_relative '../lib/dictionary_sources/warodai'
 
 class DictionarySourcesTest < Minitest::Test
@@ -86,6 +87,24 @@ class DictionarySourcesTest < Minitest::Test
       assert_equal 'blue; azure', row[:meaning_en]
 
       assert_raises(KeyError) { DictionarySources::N5Queue.new(path).fetch(99) }
+    end
+  end
+
+  def test_n4_queue_uses_csv_aware_tsv_parsing
+    Dir.mktmpdir do |directory|
+      path = File.join(directory, 'n4.tsv')
+      File.write(
+        path,
+        %("source_order"\t"written"\t"reading"\t"meaning_en"\n"1"\t"会う"\t"あう"\t"to meet"\n),
+        encoding: Encoding::UTF_8
+      )
+
+      row = DictionarySources::N4Queue.new(path).fetch(1)
+
+      assert_equal '会う', row[:written]
+      assert_equal 'to meet', row[:meaning_en]
+
+      assert_raises(KeyError) { DictionarySources::N4Queue.new(path).fetch(99) }
     end
   end
 

@@ -1,0 +1,213 @@
+#+TITLE: 移る
+#+JMDICT_ID: 1158210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うつる
+#+ROMAJI: utsuru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: core
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1158210-001
+:PROPERTIES:
+:TEXT: 移る
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf38
+** Written form wf-1158210-002
+:PROPERTIES:
+:TEXT: 遷る
+:END:
+*** Information
+- rK
+** Reading rd-1158210-001
+:PROPERTIES:
+:TEXT: うつる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf38
+
+* Sense s-1158210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 66235ec5fce88b6d214d2555fa6ac75efd8d622f51a5dddc6a39c45b22e4e855
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Sense information
+- occ. used transitively
+** English glosses
+- to move (to another place or state)
+- to change (e.g. of state, affiliation, scenery, etc.)
+- to be transferred
+** Ukrainian glosses
+*** uk-s-1158210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-12
+:END:
+- text :: переїжджати
+- text :: переходити
+
+** Examples
+*** ex-1158210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 新しい家に移ります。
+- READING :: あたらしいいえにうつります。
+- UK :: Ми переїжджаємо до нового будинку.
+- EN :: We are moving to a new house.
+- FOCUS :: 移ります
+*** ex-1158210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 話題が次に移った。
+- READING :: わだいがつぎにうつった。
+- UK :: Тема змінилася на наступну.
+- EN :: The topic moved to the next one.
+- FOCUS :: 移った
+*** ex-1158210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 病気が人に移る。
+- READING :: びょうきがひとにうつる。
+- UK :: Хвороба передається людям.
+- EN :: The disease spreads to people.
+- FOCUS :: 移る
+* Sense s-1158210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cb0b395482983262a108afbffc9d91c0a26061d6cfd9e4adb27d229c50d0ab60
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Miscellaneous and register
+- uk
+*** Sense information
+- occ. written 伝染る or 感染る in ref. to infection
+*** Cross-references
+- 伝染る
+** English glosses
+- to spread (of a fire, smell, etc.)
+- to catch (an illness)
+- to be infected
+- to be contagious
+** Ukrainian glosses
+*** uk-s-1158210-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поширюватися
+- qualifier :: про вогонь, запах тощо
+*** uk-s-1158210-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: заражатися
+*** uk-s-1158210-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути заразним
+* Sense s-1158210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f96b937d670601ce3f75b3180321d138b92590541ca559f3367fbce119b6a759
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to move (e.g. of one's focus)
+- to change (e.g. of one's interest)
+** Ukrainian glosses
+*** uk-s-1158210-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зміщуватися
+- qualifier :: про увагу
+*** uk-s-1158210-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: змінюватися
+- qualifier :: про інтерес
+* Sense s-1158210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f5a69abb57db0704fbc0fc2f078b8ae8b182686e832bbe152c004e5b7f6085bc
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to be permeated (by a color or scent)
+- to seep into
+** Ukrainian glosses
+*** uk-s-1158210-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: просочуватися
+- qualifier :: про колір або запах
+*** uk-s-1158210-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проникати
+* Sense s-1158210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0d293779168b9e77c32599ab8ce38dd1a7fede8353425e74f6f58d681c55913d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to pass (of time)
+- to elapse
+** Ukrainian glosses
+*** uk-s-1158210-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: минати
+- qualifier :: про час
+*** uk-s-1158210-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проходити

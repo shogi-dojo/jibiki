@@ -103,6 +103,11 @@ module Exporters
               end
 
               sense.ukrainian_glosses.each_with_index do |ug, u_idx|
+                if ug.text.to_s.strip.empty?
+                  warning_io.puts "BLANK UKRAINIAN GLOSS: skipping #{ug.id} in sense #{sense.id}"
+                  next
+                end
+
                 db[:ukrainian_glosses].insert(
                   id: ug.id,
                   sense_id: sense.id,

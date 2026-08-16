@@ -3,14 +3,14 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あつい
 #+ROMAJI: atsui
-#+ENTRY_STATUS: reviewed
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
 #+DEFAULT_SOURCE_TYPE: original
-#+DEFAULT_STATUS: reviewed
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1275320-001
@@ -74,9 +74,8 @@
 ** Learner notes
 *** note-s-1275320-001-001
 :PROPERTIES:
-:STATUS: draft
 :END:
-- UK :: Товстий (про плоскі предмети, наприклад, книгу, стіну).
+- UK :: Товстий (про плоскі предмети). Використовується для опису товщини таких предметів, як книги, папір, дошки, стіни чи одяг. Не плутати з 太い (futoi), що вживається для циліндричних предметів, таких як ноги чи дерева.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -96,7 +95,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 寒いので、厚いコートを着ます。
-- READING :: さむいので、あついコートをきます。
+- READING :: さむいので、あついこーとをきます。
 - UK :: Оскільки холодно, я одягаю товсте (тепле) пальто.
 - EN :: Because it's cold, I'll wear a thick coat.
 - FOCUS :: 厚い
@@ -226,4 +225,3 @@
 - UK :: Рясні прибутки.
 - EN :: Abundant profits.
 - FOCUS :: 厚い
-

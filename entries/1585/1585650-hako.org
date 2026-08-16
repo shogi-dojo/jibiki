@@ -4,7 +4,7 @@
 #+PRIMARY_READING: はこ
 #+ROMAJI: hako
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -140,7 +140,7 @@
 :ROMAJI: Hikkoshi no tame ni, hon o zenbu danbooru no hako ni iremashita.
 :END:
 - JA :: 引っ越しのために、本を全部段ボールの箱に入れました。
-- READING :: ひっこしの ために、ほんを ぜんぶ だんボールの はこに いれました。
+- READING :: ひっこしの ために、ほんを ぜんぶ だんぼーるの はこに いれました。
 - ROMAJI :: Hikkoshi no tame ni, hon o zenbu danbooru no hako ni iremashita.
 - UK :: Для переїзду я поклав усі книги в картонні коробки.
 - EN :: For moving, I put all the books in cardboard boxes.
@@ -157,6 +157,13 @@
 ** English glosses
 - car (of a train, etc.)
 ** Ukrainian glosses
+*** uk-s-1585650-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вагон
+- qualifier :: поїзда тощо
 
 * Sense s-1585650-003
 :PROPERTIES:
@@ -170,6 +177,18 @@
 - shamisen case
 - shamisen
 ** Ukrainian glosses
+*** uk-s-1585650-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: футляр для сямісена
+*** uk-s-1585650-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: сямісен
 
 * Sense s-1585650-004
 :PROPERTIES:
@@ -189,6 +208,12 @@
 - public building
 - community building
 ** Ukrainian glosses
+*** uk-s-1585650-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: громадська будівля
 
 * Sense s-1585650-005
 :PROPERTIES:
@@ -205,6 +230,12 @@
 ** English glosses
 - man who carries a geisha's shamisen
 ** Ukrainian glosses
+*** uk-s-1585650-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: чоловік, який носить сямісен гейші
 
 * Sense s-1585650-006
 :PROPERTIES:
@@ -220,6 +251,18 @@
 - receptacle for human waste
 - feces (faeces)
 ** Ukrainian glosses
+*** uk-s-1585650-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ємність для людських екскрементів
+*** uk-s-1585650-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: фекалії
 
 * Sense s-1585650-007
 :PROPERTIES:
@@ -233,4 +276,9 @@
 ** English glosses
 - counter for boxes (or boxed objects)
 ** Ukrainian glosses
-
+*** uk-s-1585650-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: лічильний суфікс для коробок

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ちかい
 #+ROMAJI: chikai
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -68,7 +68,7 @@
 *** note-s-1242130-001-001
 :PROPERTIES:
 :END:
-- UK :: Прикметник 近い (chikai) означає «близький». Застосовується до відстані, часу та людських стосунків.
+- UK :: Прикметник 近い (chikai) означає «близький» або «недалекий». Він може описувати коротку фізичну відстань, близькість у часі (скоро), а також тісні людські стосунки чи схожість (наприклад, за віком чи властивостями).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -95,7 +95,7 @@
 :ROMAJI: Gakkou ni chikai apaato o sagashite imasu.
 :END:
 - JA :: 学校に近いアパートを探しています。
-- READING :: がっこうにちかいアパートをさがしています。
+- READING :: がっこうにちかいあぱーとをさがしています。
 - ROMAJI :: Gakkou ni chikai apaato o sagashite imasu.
 - UK :: Я шукаю квартиру, близьку до школи.
 - EN :: I am looking for an apartment close to the school.
@@ -179,6 +179,10 @@
 ** English glosses
 - closely related
 ** Ukrainian glosses
+*** uk-s-1242130-004-001
+:PROPERTIES:
+:END:
+- text :: близькоспоріднений
 
 * Sense s-1242130-005
 :PROPERTIES:
@@ -194,4 +198,11 @@
 - close to
 - nearly
 ** Ukrainian glosses
-
+*** uk-s-1242130-005-001
+:PROPERTIES:
+:END:
+- text :: схожий
+*** uk-s-1242130-005-002
+:PROPERTIES:
+:END:
+- text :: близький

@@ -87,7 +87,7 @@
 *** note-s-1259290-001-001
 :PROPERTIES:
 :END:
-- UK :: 見る (miru) — одне з найважливіших дієслів японської мови. Окрім прямого значення 'бачити', часто використовується в конструкції 〜てみる (пробувати щось зробити).
+- UK :: Дієслово 見る (miru) означає «бачити», «дивитися» або «спостерігати». Воно охоплює як пасивне сприйняття зором (бачити), так і активне (дивитися телевізор, фільм тощо). В останньому випадку часто записується ієрогліфом 観る. Крім того, використовується в конструкції 〜てみる (пробувати щось зробити).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -100,7 +100,7 @@
 :ROMAJI: terebi o mimasu.
 :END:
 - JA :: テレビを見ます。
-- READING :: テレビを 見[み]ます。
+- READING :: てれびを みます。
 - ROMAJI :: terebi o mimasu.
 - UK :: Я дивлюся телевізор.
 - EN :: I watch TV.
@@ -114,7 +114,7 @@
 :ROMAJI: kinoo, tomodachi o mimashita.
 :END:
 - JA :: 昨日、友達を見ました。
-- READING :: 昨[きのう]日[日]、 友[とも]達[だち]を 見[み]ました。
+- READING :: きのう、 ともだちを みました。
 - ROMAJI :: kinoo, tomodachi o mimashita.
 - UK :: Вчора я бачив свого друга.
 - EN :: I saw my friend yesterday.
@@ -125,15 +125,14 @@
 :SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
-:ROMAJI: atarashii rāmen ya ni itte mimashō.
+:ROMAJI: kirei na umi o mimashita.
 :END:
-- JA :: 新しいラーメン屋に行ってみましょう。
-- READING :: 新[あたら]しいラーメン 屋[や]に 行[い]ってみましょう。
-- ROMAJI :: atarashii rāmen ya ni itte mimashō.
-- UK :: Давай спробуємо сходити в ту нову раменну.
-- EN :: Let's try going to the new ramen shop.
-- FOCUS :: みましょう
-
+- JA :: 綺麗な海を見ました。
+- READING :: きれいな うみを みました。
+- ROMAJI :: kirei na umi o mimashita.
+- UK :: Я бачив гарне море.
+- EN :: I saw a beautiful sea.
+- FOCUS :: 見ました
 * Sense s-1259290-002
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 2
@@ -244,6 +243,21 @@
 :END:
 - text :: пробувати
 - qualifier :: щось зробити
+** Examples
+*** ex-1259290-005-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: atarashii rāmen ya ni itte mimashō.
+:END:
+- JA :: 新しいラーメン屋に行ってみましょう。
+- READING :: あたらしいらーめん やに いってみましょう。
+- ROMAJI :: atarashii rāmen ya ni itte mimashō.
+- UK :: Давай спробуємо сходити в ту нову раменну.
+- EN :: Let's try going to the new ramen shop.
+- FOCUS :: みましょう
 
 * Sense s-1259290-006
 :PROPERTIES:
@@ -278,4 +292,3 @@
 :REVIEWED_AT:
 :END:
 - text :: бачити що...
-

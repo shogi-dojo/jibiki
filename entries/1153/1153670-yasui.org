@@ -4,7 +4,7 @@
 #+PRIMARY_READING: やすい
 #+ROMAJI: yasui
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -62,7 +62,7 @@
 *** note-s-1153670-001-001
 :PROPERTIES:
 :END:
-- UK :: 安い (yasui) означає 'дешевий' щодо ціни. Як суфікс до дієслів, воно також може означати, що щось легко зробити (наприклад, 食べやすい — легко їсти).
+- UK :: Прикметник «ясуй» (安い) означає «дешевий» щодо ціни. У ролі суфікса (〜やすい), який додається до основи дієслова, він вказує на те, що дію легко виконати (наприклад, 食べやすい — легко їсти).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -89,7 +89,7 @@
 :ROMAJI: Motto yasui kamera wa arimasu ka.
 :END:
 - JA :: もっと安いカメラはありますか。
-- READING :: もっと やすい カメラ は あります か。
+- READING :: もっと やすい かめら は あります か。
 - ROMAJI :: Motto yasui kamera wa arimasu ka.
 - UK :: У вас є дешевша камера?
 - EN :: Do you have a cheaper camera?
@@ -103,7 +103,7 @@
 :ROMAJI: Sūpā de niku ga yasukatta node, takusan katte shimaimashita.
 :END:
 - JA :: スーパーで肉が安かったので、たくさん買ってしまいました。
-- READING :: スーパー で にく が やすかった ので、 たくさん かって しまいました。
+- READING :: すーぱー で にく が やすかった ので、 たくさん かって しまいました。
 - ROMAJI :: Sūpā de niku ga yasukatta node, takusan katte shimaimashita.
 - UK :: Оскільки м'ясо в супермаркеті було дешевим, я купив багато.
 - EN :: Because the meat was cheap at the supermarket, I bought a lot.
@@ -127,4 +127,28 @@
 - peaceful
 - quiet
 ** Ukrainian glosses
-
+*** uk-s-1153670-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: спокійний
+*** uk-s-1153670-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: мирний
+*** uk-s-1153670-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тихий
+** Learner notes
+*** note-s-1153670-002-001
+:PROPERTIES:
+:END:
+- UK :: Використовується у значенні «спокійний» або «мирний» переважно в сталих виразах чи літературній мові. Входить до складу багатьох слів, наприклад, 安心 (ансін — спокій).
+- LEVEL :: advanced
+- REGISTER :: formal

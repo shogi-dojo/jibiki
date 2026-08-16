@@ -4,7 +4,7 @@
 #+PRIMARY_READING: そこ
 #+ROMAJI: soko
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -74,7 +74,7 @@
 *** note-s-1006670-001-001
 :PROPERTIES:
 :END:
-- UK :: Там (місце поруч зі співрозмовником або щойно згадане).
+- UK :: Вказівний займенник, що позначає місце, яке знаходиться ближче до співрозмовника, ніж до мовця. Також вказує на місце або питання, яке щойно згадувалося в розмові.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -87,7 +87,7 @@
 :ROMAJI: soko ni kaban o oite kudasai.
 :END:
 - JA :: そこにカバンを置いてください。
-- READING :: そこにカバンをおいてください。
+- READING :: そこにかばんをおいてください。
 - ROMAJI :: soko ni kaban o oite kudasai.
 - UK :: Покладіть туди сумку, будь ласка.
 - EN :: Please put the bag there.
@@ -115,7 +115,7 @@
 :ROMAJI: kinō wa atarashii kafe ni ikimashita. soko wa totemo fun'iki ga yokatta desu.
 :END:
 - JA :: 昨日は新しいカフェに行きました。そこはとても雰囲気が良かったです。
-- READING :: きのうはあたらしいカフェにいきました。そこはとてもふんいきがよかったです。
+- READING :: きのうはあたらしいかふぇにいきました。そこはとてもふんいきがよかったです。
 - ROMAJI :: kinō wa atarashii kafe ni ikimashita. soko wa totemo fun'iki ga yokatta desu.
 - UK :: Вчора я ходив у нове кафе. Там була дуже гарна атмосфера.
 - EN :: I went to a new cafe yesterday. The atmosphere there was very nice.
@@ -135,6 +135,15 @@
 - there (place just mentioned)
 - that place
 ** Ukrainian glosses
+*** uk-s-1006670-002-001
+:PROPERTIES:
+:END:
+- text :: там
+- qualifier :: щойно згадане місце
+*** uk-s-1006670-002-002
+:PROPERTIES:
+:END:
+- text :: те місце
 
 * Sense s-1006670-003
 :PROPERTIES:
@@ -150,6 +159,16 @@
 - then (of some incident just spoken of)
 - that (of point just raised)
 ** Ukrainian glosses
+*** uk-s-1006670-003-001
+:PROPERTIES:
+:END:
+- text :: тоді
+- qualifier :: про щойно згадану подію
+*** uk-s-1006670-003-002
+:PROPERTIES:
+:END:
+- text :: те
+- qualifier :: про щойно порушене питання
 
 * Sense s-1006670-004
 :PROPERTIES:
@@ -164,4 +183,8 @@
 ** English glosses
 - you
 ** Ukrainian glosses
-
+*** uk-s-1006670-004-001
+:PROPERTIES:
+:END:
+- text :: ви
+- qualifier :: застаріле

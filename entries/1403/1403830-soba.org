@@ -4,7 +4,7 @@
 #+PRIMARY_READING: そば
 #+ROMAJI: soba
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -78,7 +78,7 @@
 *** note-s-1403830-001-001
 :PROPERTIES:
 :END:
-- UK :: Поруч, біля.
+- UK :: Іменник そば означає фізичну близькість до об'єкта. На відміну від 近く (chikaku), що описує ширшу околицю або район, そば зазвичай вказує на безпосередню близькість.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -143,4 +143,15 @@
 - as soon as
 - right after
 ** Ukrainian glosses
-
+*** uk-s-1403830-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: як тільки
+*** uk-s-1403830-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: одразу після

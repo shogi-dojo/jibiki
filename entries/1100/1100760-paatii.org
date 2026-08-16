@@ -4,7 +4,7 @@
 #+PRIMARY_READING: パーティー
 #+ROMAJI: paatii
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -74,7 +74,7 @@
 *** note-s-1100760-001-001
 :PROPERTIES:
 :END:
-- UK :: Походить від англійського «party». Використовується для позначення різних святкових заходів і зустрічей.
+- UK :: Походить від англійського «party». Використовується для позначення різних святкових заходів, вечірок і зустрічей. Зазвичай вживається з дієсловом 開く (hiraku — відкривати, влаштовувати) або する (suru — робити): パーティーを開く (влаштовувати вечірку).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -87,7 +87,7 @@
 :ROMAJI: Ashita, paatii ni ikimasu.
 :END:
 - JA :: 明日、パーティーに行きます。
-- READING :: あした、パーティー に いきます。
+- READING :: あした、ぱーてぃー に いきます。
 - ROMAJI :: Ashita, paatii ni ikimasu.
 - UK :: Завтра я йду на вечірку.
 - EN :: I am going to a party tomorrow.
@@ -101,7 +101,7 @@
 :ROMAJI: Tanjoubi no paatii wa tanoshikatta desu.
 :END:
 - JA :: 誕生日のパーティーは楽しかったです。
-- READING :: たんじょうび の パーティー は たのしかった です。
+- READING :: たんじょうび の ぱーてぃー は たのしかった です。
 - ROMAJI :: Tanjoubi no paatii wa tanoshikatta desu.
 - UK :: Вечірка на день народження була веселою.
 - EN :: The birthday party was fun.
@@ -115,7 +115,7 @@
 :ROMAJI: Konshuumatsu ni ie de paatii o hiraku node, zehi kite kudasai.
 :END:
 - JA :: 今週末に家でパーティーを開くので、ぜひ来てください。
-- READING :: こんしゅうまつ に いえ で パーティー を ひらく ので、ぜひ きて ください。
+- READING :: こんしゅうまつ に いえ で ぱーてぃー を ひらく ので、ぜひ きて ください。
 - ROMAJI :: Konshuumatsu ni ie de paatii o hiraku node, zehi kite kudasai.
 - UK :: На цих вихідних я влаштовую вечірку вдома, тому обов'язково приходьте.
 - EN :: I'm holding a party at my house this weekend, so please come by all means.
@@ -132,6 +132,23 @@
 ** English glosses
 - party (group of people participating in an activity, esp. mountain climbing)
 ** Ukrainian glosses
+*** uk-s-1100760-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: група
+- qualifier :: людей
+*** uk-s-1100760-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: команда
 
 * Sense s-1100760-003
 :PROPERTIES:
@@ -144,4 +161,12 @@
 ** English glosses
 - (political) party
 ** Ukrainian glosses
-
+*** uk-s-1100760-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: партія
+- qualifier :: політична

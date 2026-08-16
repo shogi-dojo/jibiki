@@ -5,8 +5,8 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the entry tree: **2026-07-17** at entry commit
-`5b32241`.
+Last reconciled with the entry tree: **2026-08-16** on the PR #6 cleanup
+branch.
 
 ## Schema flag day (2026-07-17)
 
@@ -20,7 +20,7 @@ primary` property with a structural 3-graded-example validator requirement
 (`9fd4201`). Total `entries/` line count dropped from 96,518 to 55,334
 (~43%); a typical entry is now roughly a third of its former size (e.g.
 音楽/ongaku 156→108 lines). The new canonical generator is
-`scripts/scaffold_entry.rb` (`rake "entries:scaffold[order,romaji]"`),
+`scripts/scaffold_entry.rb` (`rake "entries:scaffold[order,romaji,level]"`),
 replacing the old `scratch/gen_n5_part*.py` one-off scripts. Migration
 surfaced 11 entries (the `codex-agent-N` batch) whose `LEARNER_PRIORITY`
 sense failed the new example-count gate; all 15 affected senses have since
@@ -33,22 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 658 |
-| Canonical N5 entries | 659 |
+| Canonical entry files | 757 |
+| Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
+| Canonical N4 entries | 100 |
+| N4 queue rows covered | 100 / 724 (13.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 254 |
+| `new` | 720 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 264 |
-| Learner profile | 291 |
+| Entry metadata still marked `draft` | 747 |
+| Core profile | 163 |
+| Learner profile | 593 |
 | Enriched profile | 1 |
 
-Queue rows 1–299 are represented without gaps. Eight queue aliases collapse
-into existing JMdict entries, which is why 299 queue rows produce 291 canonical
-N5 entry files. The seed entry `日本語` is outside the N5 queue.
+All 667 N5 queue rows are represented. Eleven queue aliases collapse into
+existing JMdict entries, which is why 667 queue rows produce 656 canonical N5
+entry files. The seed entry `日本語` is outside the N5 queue.
 
 ## Maturity workflow
 
@@ -547,15 +550,15 @@ later agents do not mistake volume for completed bilingual review.
 | 425 | [撮る](entries/1298/1298790-toru.org) | とる | toru | 1298790 | learner | draft | **new** | Editorial review |
 | 426 | [ドア](entries/1087/1087820-doa.org) | ドア | doa | 1087820 | learner | draft | **new** | Editorial review |
 | 427 | [如何](entries/1008/1008910-doo.org) | どう | doo | 1008910 | learner | draft | **new** | Editorial review |
-| 428 | [如何して](entries/1466/1466940-dōshite.org) | どうして | dōshite | 1466940 | learner | draft | **new** | Editorial review |
-| 429 | [どうぞ](entries/1189/1189130-dōzo.org) | どうぞ | dōzo | 1189130 | learner | draft | **new** | Editorial review |
-| 430 | [動物](entries/1451/1451470-dōbutsu.org) | どうぶつ | dōbutsu | 1451470 | learner | draft | **new** | Editorial review |
+| 428 | [如何して](entries/1466/1466940-dooshite.org) | どうして | dōshite | 1466940 | learner | draft | **new** | Editorial review |
+| 429 | [どうぞ](entries/1189/1189130-doozo.org) | どうぞ | dōzo | 1189130 | learner | draft | **new** | Editorial review |
+| 430 | [動物](entries/1451/1451470-doobutsu.org) | どうぶつ | dōbutsu | 1451470 | learner | draft | **new** | Editorial review |
 | 431 | [どうも](entries/1009/1009000-doomo.org) | どうも | doomo | 1009000 | learner | draft | **new** | Editorial review |
 | 432 | [何処](entries/1577/1577140-doko.org) | どこ | doko | 1577140 | learner | draft | **new** | Editorial review |
 | 433 | [何方](entries/1189/1189360-dochira.org) | どちら | dochira | 1189360 | learner | draft | **new** | Editorial review |
 | 434 | [何方](entries/1189/1189370-donata.org) | どなた | donata | 1189370 | learner | draft | **new** | Editorial review |
 | 435 | [何の](entries/1920/1920240-dono.org) | どの | dono | 1920240 | learner | draft | **new** | Editorial review |
-| 436 | [土曜日](entries/1445/1445590-doyōbi.org) | どようび | doyōbi | 1445590 | learner | draft | **new** | Editorial review |
+| 436 | [土曜日](entries/1445/1445590-doyoobi.org) | どようび | doyōbi | 1445590 | learner | draft | **new** | Editorial review |
 | 437 | [何れ](entries/1009/1009290-dore.org) | どれ | dore | 1009290 | learner | draft | **new** | Editorial review |
 | 438 | [ナイフ](entries/1089/1089890-naifu.org) | ナイフ | naifu | 1089890 | learner | draft | **new** | Editorial review |
 | 439 | [中](entries/1423/1423310-naka.org) | なか | naka | 1423310 | learner | draft | **new** | Editorial review |
@@ -642,10 +645,10 @@ later agents do not mistake volume for completed bilingual review.
 | 521 | [昼](entries/1426/1426250-hiru.org) | ひる | hiru | 1426250 | learner | draft | **new** | Editorial review |
 | 522 | [昼ご飯](entries/1602/1602340-hirugohan.org) | ひるごはん | hirugohan | 1602340 | learner | draft | **new** | Editorial review |
 | 523 | [広い](entries/1278/1278410-hiroi.org) | ひろい | hiroi | 1278410 | learner | draft | **new** | Editorial review |
-| 524 | [病院](entries/1490/1490220-byōin.org) | びょういん | byōin | 1490220 | learner | draft | **new** | Editorial review |
-| 525 | [病気](entries/1490/1490230-byōki.org) | びょうき | byōki | 1490230 | learner | draft | **new** | Editorial review |
+| 524 | [病院](entries/1490/1490220-byooin.org) | びょういん | byōin | 1490220 | learner | draft | **new** | Editorial review |
+| 525 | [病気](entries/1490/1490230-byooki.org) | びょうき | byōki | 1490230 | learner | draft | **new** | Editorial review |
 | 526 | [フィルム](entries/1109/1109380-firumu.org) | フィルム | firumu | 1109380 | learner | draft | **new** | Editorial review |
-| 527 | [封筒](entries/1499/1499690-fūtō.org) | ふうとう | fūtō | 1499690 | learner | draft | **new** | Editorial review |
+| 527 | [封筒](entries/1499/1499690-fuutoo.org) | ふうとう | fūtō | 1499690 | learner | draft | **new** | Editorial review |
 | 528 | [フォーク](entries/1110/1110110-fooku.org) | フォーク | fooku | 1110110 | learner | draft | **new** | Editorial review |
 | 529 | [服](entries/1500/1500940-fuku.org) | ふく | fuku | 1500940 | learner | draft | **new** | Editorial review |
 | 530 | [吹く](entries/1370/1370760-fuku.org) | ふく | fuku | 1370760 | learner | draft | **new** | Editorial review |
@@ -717,7 +720,7 @@ later agents do not mistake volume for completed bilingual review.
 | 596 | [見る](entries/1259/1259290-miru.org) | みる | miru | 1259290 | learner | draft | **new** | Editorial review |
 | 597 | [皆](entries/1202/1202150-minna.org) | みんな | minna | 1202150 | learner | draft | **new** | Editorial review |
 | 598 | [６日](entries/1561/1561470-muika.org) | むいか | muika | 1561470 | learner | draft | **new** | Editorial review |
-| 599 | [向こう](entries/1277/1277140-mukō.org) | むこう | mukō | 1277140 | learner | draft | **new** | Editorial review |
+| 599 | [向こう](entries/1277/1277140-mukoo.org) | むこう | mukō | 1277140 | learner | draft | **new** | Editorial review |
 | 600 | [難しい](entries/1460/1460850-muzukashii.org) | むずかしい | muzukashii | 1460850 | learner | draft | **new** | Editorial review |
 | 601 | [六つ](entries/1585/1585315-muttsu.org) | むっつ | muttsu | 1585315 | learner | draft | **new** | Editorial review |
 | 602 | [村](entries/1406/1406820-mura.org) | むら | mura | 1406820 | learner | draft | **new** | Editorial review |
@@ -762,21 +765,21 @@ later agents do not mistake volume for completed bilingual review.
 | 641 | [夜](entries/1536/1536350-yoru.org) | よる | yoru | 1536350 | learner | draft | **new** | Editorial review |
 | 642 | [弱い](entries/1324/1324520-yowai.org) | よわい | yowai | 1324520 | learner | draft | **new** | Editorial review |
 | 643 | [来月](entries/1547/1547900-raigetsu.org) | らいげつ | raigetsu | 1547900 | learner | draft | **new** | Editorial review |
-| 644 | [来週](entries/1548/1548010-raishū.org) | らいしゅう | raishū | 1548010 | learner | draft | **new** | Editorial review |
+| 644 | [来週](entries/1548/1548010-raishuu.org) | らいしゅう | raishū | 1548010 | learner | draft | **new** | Editorial review |
 | 645 | [来年](entries/1548/1548220-rainen.org) | らいねん | rainen | 1548220 | learner | draft | **new** | Editorial review |
 | 646 | [ラジオ](entries/1138/1138860-rajio.org) | ラジオ | rajio | 1138860 | learner | draft | **new** | Editorial review |
 | 647 | [ラジカセ](entries/1138/1138960-rajikase.org) | ラジカセ | rajikase | 1138960 | learner | draft | **new** | Editorial review |
 | 648 | [立派](entries/1551/1551790-rippa.org) | りっぱ | rippa | 1551790 | learner | draft | **new** | Editorial review |
-| 649 | [留学生](entries/1552/1552750-ryūgakusei.org) | りゅうがくせい | ryūgakusei | 1552750 | learner | draft | **new** | Editorial review |
-| 650 | [両親](entries/1602/1602710-ryōshin.org) | りょうしん | ryōshin | 1602710 | learner | draft | **new** | Editorial review |
-| 651 | [料理](entries/1554/1554310-ryōri.org) | りょうり | ryōri | 1554310 | learner | draft | **new** | Editorial review |
-| 652 | [旅行](entries/1553/1553170-ryokō.org) | りょこう | ryokō | 1553170 | learner | draft | **new** | Editorial review |
+| 649 | [留学生](entries/1552/1552750-ryuugakusei.org) | りゅうがくせい | ryūgakusei | 1552750 | learner | draft | **new** | Editorial review |
+| 650 | [両親](entries/1602/1602710-ryooshin.org) | りょうしん | ryōshin | 1602710 | learner | draft | **new** | Editorial review |
+| 651 | [料理](entries/1554/1554310-ryoori.org) | りょうり | ryōri | 1554310 | learner | draft | **new** | Editorial review |
+| 652 | [旅行](entries/1553/1553170-ryokoo.org) | りょこう | ryokō | 1553170 | learner | draft | **new** | Editorial review |
 | 653 | [零](entries/1557/1557630-rei.org) | れい | rei | 1557630 | learner | draft | **new** | Editorial review |
-| 654 | [冷蔵庫](entries/1557/1557110-reizōko.org) | れいぞうこ | reizōko | 1557110 | learner | draft | **new** | Editorial review |
+| 654 | [冷蔵庫](entries/1557/1557110-reizooko.org) | れいぞうこ | reizōko | 1557110 | learner | draft | **new** | Editorial review |
 | 655 | [レコード](entries/1144/1144940-rekoodo.org) | レコード | rekoodo | 1144940 | learner | draft | **new** | Editorial review |
 | 656 | [レストラン](entries/1145/1145310-resutoran.org) | レストラン | resutoran | 1145310 | learner | draft | **new** | Editorial review |
-| 657 | [練習](entries/1559/1559160-renshū.org) | れんしゅう | renshū | 1559160 | learner | draft | **new** | Editorial review |
-| 658 | [廊下](entries/1560/1560670-rōka.org) | ろうか | rōka | 1560670 | learner | draft | **new** | Editorial review |
+| 657 | [練習](entries/1559/1559160-renshuu.org) | れんしゅう | renshū | 1559160 | learner | draft | **new** | Editorial review |
+| 658 | [廊下](entries/1560/1560670-rooka.org) | ろうか | rōka | 1560670 | learner | draft | **new** | Editorial review |
 | 659 | [六](entries/1585/1585310-roku.org) | ろく | roku | 1585310 | learner | draft | **new** | Editorial review |
 | 660 | [Ｙシャツ](entries/1148/1148640-waishatsu.org) | ワイシャツ | waishatsu | 1148640 | learner | draft | **new** | Editorial review |
 | 661 | [若い](entries/1324/1324300-wakai.org) | わかい | wakai | 1324300 | learner | draft | **new** | Editorial review |
@@ -787,3 +790,112 @@ later agents do not mistake volume for completed bilingual review.
 | 666 | [渡る](entries/1444/1444680-wataru.org) | わたる | wataru | 1444680 | learner | draft | **new** | Editorial review |
 | 667 | [悪い](entries/1151/1151260-warui.org) | わるい | warui | 1151260 | learner | draft | **new** | Editorial review |
 | seed | [日本語](entries/1464/1464530-nihongo.org) | にほんご | nihongo | 1464530 | enriched | draft | **new** | Editorial review |
+
+### N4 entry inventory
+
+Queue orders 72–91 were excluded from this checkpoint because they remained
+un-authored scaffolds. The retained N4 entries below contain authored learner
+content and remain at `new` until editorial review.
+
+| Queue order | Entry | Reading | Romaji | JMdict ID | Profile | Entry state | Maturity | Next gate |
+| ---: | --- | --- | --- | ---: | --- | --- | --- | --- |
+| N4-001 | [間](entries/1215/1215230-aida.org) | あいだ | aida | 1215230 | learner | draft | **new** | Editorial review |
+| N4-002 | [合う](entries/1284/1284430-au.org) | あう | au | 1284430 | learner | draft | **new** | Editorial review |
+| N4-003 | [赤ちゃん](entries/1383/1383260-akachan.org) | あかちゃん | akachan | 1383260 | learner | draft | **new** | Editorial review |
+| N4-004 | [赤ん坊](entries/1383/1383310-akanbou.org) | あかんぼう | akanbou | 1383310 | learner | draft | **new** | Editorial review |
+| N4-005 | [上がる](entries/1352/1352290-agaru.org) | あがる | agaru | 1352290 | learner | draft | **new** | Editorial review |
+| N4-006 | [浅い](entries/1390/1390800-asai.org) | あさい | asai | 1390800 | learner | draft | **new** | Editorial review |
+| N4-007 | [味](entries/1526/1526960-aji.org) | あじ | aji | 1526960 | learner | draft | **new** | Editorial review |
+| N4-008 | [遊び](entries/1542/1542070-asobi.org) | あそび | asobi | 1542070 | learner | draft | **new** | Editorial review |
+| N4-009 | [集まる](entries/1333/1333550-atsumaru.org) | あつまる | atsumaru | 1333550 | learner | draft | **new** | Editorial review |
+| N4-010 | [集める](entries/1333/1333560-atsumeru.org) | あつめる | atsumeru | 1333560 | learner | draft | **new** | Editorial review |
+| N4-011 | [謝る](entries/1323/1323010-ayamaru.org) | あやまる | ayamaru | 1323010 | learner | draft | **new** | Editorial review |
+| N4-012 | [安心](entries/1153/1153890-anshin.org) | あんしん | anshin | 1153890 | learner | draft | **new** | Editorial review |
+| N4-013 | [安全](entries/1153/1153930-anzen.org) | あんぜん | anzen | 1153930 | learner | draft | **new** | Editorial review |
+| N4-014 | [以下](entries/1155/1155060-ika.org) | いか | ika | 1155060 | learner | draft | **new** | Editorial review |
+| N4-015 | [以外](entries/1155/1155090-igai.org) | いがい | igai | 1155090 | learner | draft | **new** | Editorial review |
+| N4-016 | [医学](entries/1159/1159810-igaku.org) | いがく | igaku | 1159810 | learner | draft | **new** | Editorial review |
+| N4-017 | [生きる](entries/1378/1378520-ikiru.org) | いきる | ikiru | 1378520 | learner | draft | **new** | Editorial review |
+| N4-018 | [意見](entries/1156/1156530-iken.org) | いけん | iken | 1156530 | learner | draft | **new** | Editorial review |
+| N4-019 | [石](entries/1382/1382440-ishi.org) | いし | ishi | 1382440 | learner | draft | **new** | Editorial review |
+| N4-020 | [苛める](entries/1195/1195140-ijimeru.org) | いじめる | ijimeru | 1195140 | learner | draft | **new** | Editorial review |
+| N4-021 | [以上](entries/1155/1155120-ijou.org) | いじょう | ijou | 1155120 | learner | draft | **new** | Editorial review |
+| N4-022 | [急ぐ](entries/1228/1228650-isogu.org) | いそぐ | isogu | 1228650 | learner | draft | **new** | Editorial review |
+| N4-023 | [致す](entries/1421/1421900-itasu.org) | いたす | itasu | 1421900 | learner | draft | **new** | Editorial review |
+| N4-024 | [一度](entries/1576/1576250-ichido.org) | いちど | ichido | 1576250 | learner | draft | **new** | Editorial review |
+| N4-025 | [一生懸命](entries/1164/1164010-isshoukenmei.org) | いっしょうけんめい | isshoukenmei | 1164010 | learner | draft | **new** | Editorial review |
+| N4-026 | [糸](entries/1311/1311450-ito.org) | いと | ito | 1311450 | learner | draft | **new** | Editorial review |
+| N4-027 | [以内](entries/1155/1155180-inai.org) | いない | inai | 1155180 | learner | draft | **new** | Editorial review |
+| N4-028 | [田舎](entries/1442/1442750-inaka.org) | いなか | inaka | 1442750 | learner | draft | **new** | Editorial review |
+| N4-029 | [祈る](entries/1222/1222770-inoru.org) | いのる | inoru | 1222770 | learner | draft | **new** | Editorial review |
+| N4-030 | [植える](entries/1357/1357250-ueru.org) | うえる | ueru | 1357250 | learner | draft | **new** | Editorial review |
+| N4-031 | [受付](entries/1588/1588060-uketsuke.org) | うけつけ | uketsuke | 1588060 | learner | draft | **new** | Editorial review |
+| N4-032 | [受ける](entries/1329/1329590-ukeru.org) | うける | ukeru | 1329590 | learner | draft | **new** | Editorial review |
+| N4-033 | [動く](entries/1451/1451210-ugoku.org) | うごく | ugoku | 1451210 | learner | draft | **new** | Editorial review |
+| N4-034 | [内](entries/1457/1457730-uchi.org) | うち | uchi | 1457730 | learner | draft | **new** | Editorial review |
+| N4-035 | [打つ](entries/1408/1408810-utsu.org) | うつ | utsu | 1408810 | learner | draft | **new** | Editorial review |
+| N4-036 | [美しい](entries/1486/1486360-utsukushii.org) | うつくしい | utsukushii | 1486360 | learner | draft | **new** | Editorial review |
+| N4-037 | [写す](entries/1588/1588320-utsusu.org) | うつす | utsusu | 1588320 | learner | draft | **new** | Editorial review |
+| N4-038 | [移る](entries/1158/1158210-utsuru.org) | うつる | utsuru | 1158210 | learner | draft | **new** | Editorial review |
+| N4-039 | [腕](entries/1562/1562850-ude.org) | うで | ude | 1562850 | learner | draft | **new** | Editorial review |
+| N4-040 | [売り場](entries/1588/1588550-uriba.org) | うりば | uriba | 1588550 | learner | draft | **new** | Editorial review |
+| N4-041 | [運転手](entries/1172/1172870-untenshu.org) | うんてんしゅ | untenshu | 1172870 | learner | draft | **new** | Editorial review |
+| N4-042 | [枝](entries/1310/1310530-eda.org) | えだ | eda | 1310530 | learner | draft | **new** | Editorial review |
+| N4-043 | [選ぶ](entries/1588/1588730-erabu.org) | えらぶ | erabu | 1588730 | learner | draft | **new** | Editorial review |
+| N4-044 | [遠慮](entries/1178/1178450-enryo.org) | えんりょ | enryo | 1178450 | learner | draft | **new** | Editorial review |
+| N4-045 | [お出でになる](entries/1001/1001180-oideninaru.org) | おいでになる | oideninaru | 1001180 | learner | draft | **new** | Editorial review |
+| N4-046 | [お祝い](entries/1612/1612770-oiwai.org) | おいわい | oiwai | 1612770 | learner | draft | **new** | Editorial review |
+| N4-047 | [お陰](entries/1001/1001640-okage.org) | おかげ | okage | 1001640 | learner | draft | **new** | Editorial review |
+| N4-048 | [可笑しい](entries/1190/1190860-okashii.org) | おかしい | okashii | 1190860 | learner | draft | **new** | Editorial review |
+| N4-049 | [億](entries/1182/1182620-oku.org) | おく | oku | 1182620 | learner | draft | **new** | Editorial review |
+| N4-050 | [屋上](entries/1182/1182710-okujou.org) | おくじょう | okujou | 1182710 | learner | draft | **new** | Editorial review |
+| N4-051 | [送る](entries/1402/1402730-okuru.org) | おくる | okuru | 1402730 | learner | draft | **new** | Editorial review |
+| N4-052 | [遅れる](entries/1589/1589040-okureru.org) | おくれる | okureru | 1589040 | learner | draft | **new** | Editorial review |
+| N4-053 | [起こす](entries/1223/1223660-okosu.org) | おこす | okosu | 1223660 | learner | draft | **new** | Editorial review |
+| N4-054 | [行う](entries/1589/1589060-okonau.org) | おこなう | okonau | 1589060 | learner | draft | **new** | Editorial review |
+| N4-055 | [怒る](entries/1445/1445690-okoru.org) | おこる | okoru | 1445690 | learner | draft | **new** | Editorial review |
+| N4-056 | [押入れ](entries/1589/1589110-oshiire.org) | おしいれ | oshiire | 1589110 | learner | draft | **new** | Editorial review |
+| N4-057 | [お嬢さん](entries/1002/1002170-ojousan.org) | おじょうさん | ojousan | 1002170 | learner | draft | **new** | Editorial review |
+| N4-058 | [お宅](entries/1002/1002400-otaku.org) | おたく | otaku | 1002400 | learner | draft | **new** | Editorial review |
+| N4-059 | [落ちる](entries/1548/1548550-ochiru.org) | おちる | ochiru | 1548550 | learner | draft | **new** | Editorial review |
+| N4-060 | [仰る](entries/1238/1238840-ossharu.org) | おっしゃる | ossharu | 1238840 | learner | draft | **new** | Editorial review |
+| N4-061 | [夫](entries/1496/1496480-otto.org) | おっと | otto | 1496480 | learner | draft | **new** | Editorial review |
+| N4-062 | [お釣り](entries/1270/1270550-otsuri.org) | おつり | otsuri | 1270550 | learner | draft | **new** | Editorial review |
+| N4-063 | [音](entries/1576/1576900-oto.org) | おと | oto | 1576900 | learner | draft | **new** | Editorial review |
+| N4-064 | [落とす](entries/1589/1589260-otosu.org) | おとす | otosu | 1589260 | learner | draft | **new** | Editorial review |
+| N4-065 | [踊り](entries/1546/1546880-odori.org) | おどり | odori | 1546880 | learner | draft | **new** | Editorial review |
+| N4-066 | [踊る](entries/1538/1538440-odoru.org) | おどる | odoru | 1538440 | learner | draft | **new** | Editorial review |
+| N4-067 | [驚く](entries/1238/1238680-odoroku.org) | おどろく | odoroku | 1238680 | learner | draft | **new** | Editorial review |
+| N4-068 | [お祭り](entries/1604/1604135-omatsuri.org) | おまつり | omatsuri | 1604135 | learner | draft | **new** | Editorial review |
+| N4-069 | [お見舞い](entries/1001/1001870-omimai.org) | おみまい | omimai | 1001870 | learner | draft | **new** | Editorial review |
+| N4-070 | [お土産](entries/1002/1002500-omiyage.org) | おみやげ | omiyage | 1002500 | learner | draft | **new** | Editorial review |
+| N4-071 | [思い出す](entries/1309/1309260-omoidasu.org) | おもいだす | omoidasu | 1309260 | learner | draft | **new** | Editorial review |
+| N4-092 | [形](entries/1250/1250220-katachi.org) | かたち | katachi | 1250220 | learner | draft | **new** | Editorial review |
+| N4-093 | [片付ける](entries/1511/1511790-katazukeru.org) | かたづける | katazukeru | 1511790 | learner | draft | **new** | Editorial review |
+| N4-094 | [課長](entries/1195/1195840-kachou.org) | かちょう | kachou | 1195840 | learner | draft | **new** | Editorial review |
+| N4-095 | [勝つ](entries/1346/1346150-katsu.org) | かつ | katsu | 1346150 | learner | draft | **new** | Editorial review |
+| N4-096 | [家内](entries/1192/1192420-kanai.org) | かない | kanai | 1192420 | learner | draft | **new** | Editorial review |
+| N4-097 | [悲しい](entries/1483/1483190-kanashii.org) | かなしい | kanashii | 1483190 | learner | draft | **new** | Editorial review |
+| N4-098 | [必ず](entries/1487/1487400-kanarazu.org) | かならず | kanarazu | 1487400 | learner | draft | **new** | Editorial review |
+| N4-099 | [彼女](entries/1483/1483150-kanojo.org) | かのじょ | kanojo | 1483150 | learner | draft | **new** | Editorial review |
+| N4-100 | [壁](entries/1509/1509290-kabe.org) | かべ | kabe | 1509290 | learner | draft | **new** | Editorial review |
+| N4-101 | [髪](entries/1477/1477950-kami.org) | かみ | kami | 1477950 | learner | draft | **new** | Editorial review |
+| N4-102 | [噛む](entries/1209/1209240-kamu.org) | かむ | kamu | 1209240 | learner | draft | **new** | Editorial review |
+| N4-103 | [通う](entries/1432/1432850-kayou.org) | かよう | kayou | 1432850 | learner | draft | **new** | Editorial review |
+| N4-104 | [乾く](entries/1209/1209650-kawaku.org) | かわく | kawaku | 1209650 | learner | draft | **new** | Editorial review |
+| N4-105 | [代わり](entries/1590/1590770-kawari.org) | かわり | kawari | 1590770 | learner | draft | **new** | Editorial review |
+| N4-106 | [変わる](entries/1510/1510790-kawaru.org) | かわる | kawaru | 1510790 | learner | draft | **new** | Editorial review |
+| N4-107 | [考える](entries/1281/1281020-kangaeru.org) | かんがえる | kangaeru | 1281020 | learner | draft | **new** | Editorial review |
+| N4-108 | [関係](entries/1215/1215810-kankei.org) | かんけい | kankei | 1215810 | learner | draft | **new** | Editorial review |
+| N4-109 | [簡単](entries/1214/1214330-kantan.org) | かんたん | kantan | 1214330 | learner | draft | **new** | Editorial review |
+| N4-110 | [気](entries/1221/1221520-ki.org) | き | ki | 1221520 | learner | draft | **new** | Editorial review |
+| N4-111 | [機会](entries/1220/1220800-kikai.org) | きかい | kikai | 1220800 | learner | draft | **new** | Editorial review |
+| N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
+| N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
+| N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
+| N4-520 | [アクセサリー](entries/1015/1015220-akusesarii.org) | アクセサリー | akusesarii | 1015220 | learner | draft | **new** | Editorial review |
+| N4-521 | [アナウンサー](entries/1017/1017330-anaunsaa.org) | アナウンサー | anaunsaa | 1017330 | learner | draft | **new** | Editorial review |
+| N4-522 | [アルコール](entries/1019/1019280-arukooru.org) | アルコール | arukooru | 1019280 | learner | draft | **new** | Editorial review |
+| N4-523 | [アルバイト](entries/1019/1019420-arubaito.org) | アルバイト | arubaito | 1019420 | learner | draft | **new** | Editorial review |
+| N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
+| N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: せまい
 #+ROMAJI: semai
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -68,7 +68,7 @@
 *** note-s-1237680-001-001
 :PROPERTIES:
 :END:
-- UK :: Вузький, тісний (про приміщення, дорогу).
+- UK :: Прикметник 狭い (semai) означає «вузький» або «тісний» і вживається для опису обмеженого простору, наприклад кімнати, дороги чи площі. В переносному значенні також може означати «обмежений» (наприклад, про кругозір).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -109,7 +109,7 @@
 :ROMAJI: semai apāto desu ga, totemo ki ni itte imasu.
 :END:
 - JA :: 狭いアパートですが、とても気に入っています。
-- READING :: せまいアパートですが、とてもきにいっています。
+- READING :: せまいあぱーとですが、とてもきにいっています。
 - ROMAJI :: semai apāto desu ga, totemo ki ni itte imasu.
 - UK :: Це тісна квартира, але вона мені дуже подобається.
 - EN :: It is a narrow apartment, but I like it very much.
@@ -128,4 +128,12 @@
 - narrow-minded
 - confining
 ** Ukrainian glosses
-
+*** uk-s-1237680-002-001
+:PROPERTIES:
+:END:
+- text :: обмежений
+*** uk-s-1237680-002-002
+:PROPERTIES:
+:END:
+- text :: вузький
+- qualifier :: про кругозір

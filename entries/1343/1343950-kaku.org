@@ -4,7 +4,7 @@
 #+PRIMARY_READING: かく
 #+ROMAJI: kaku
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -67,7 +67,7 @@
 *** note-s-1343950-001-001
 :PROPERTIES:
 :END:
-- UK :: Перехідне дієслово: те, що пишуть, позначається часткою を. Для значення «малювати» звичніше написання 描く, а 書く залишають для тексту та знаків.
+- UK :: Перехідне дієслово: те, що пишуть, позначається часткою を (наприклад, 手紙を書く — писати листа). Для значення «малювати» звичніше написання 描く, а 書く залишають виключно для тексту, цифр та знаків.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -132,6 +132,13 @@
 :REVIEWED_AT:
 :END:
 - text :: малювати
+** Learner notes
+*** note-s-1343950-002-001
+:PROPERTIES:
+:END:
+- UK :: Хоча для малювання часто використовують написання 書く, більш правильним і точним ієрогліфом для створення картин чи креслень є 描く (каку). Вимова в обох випадках однакова.
+- LEVEL :: beginner
+- REGISTER :: neutral
 ** Examples
 *** ex-1343950-002-001
 :PROPERTIES:

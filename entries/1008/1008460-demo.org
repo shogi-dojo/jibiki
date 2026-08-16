@@ -4,7 +4,7 @@
 #+PRIMARY_READING: でも
 #+ROMAJI: demo
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -63,7 +63,7 @@
 *** note-s-1008460-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово でも (demo) використовується на початку речення у значенні «але» або «проте». Після іменників воно означає «навіть» (наприклад, 誰でも — «хто завгодно», «навіть будь-хто»).
+- UK :: Сполучник でも (demo) зазвичай стоїть на початку речення і перекладається як «але» або «проте». Він використовується в розмовній мові для вираження протиставлення до попереднього висловлювання (формальніший варіант — しかし).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -76,7 +76,7 @@
 :ROMAJI: Kono hon wa takai desu. Demo, omoshiroi desu.
 :END:
 - JA :: この本は高いです。でも、面白いです。
-- READING :: この本(ほん)は高(たか)いです。でも、面(おも)白(しろ)いです。
+- READING :: このほんはたかいです。でも、おもしろいです。
 - ROMAJI :: Kono hon wa takai desu. Demo, omoshiroi desu.
 - UK :: Ця книга дорога. Але вона цікава.
 - EN :: This book is expensive. But, it is interesting.
@@ -90,7 +90,7 @@
 :ROMAJI: Nihon ni ikitai desu. Demo, okane ga arimasen.
 :END:
 - JA :: 日本に行きたいです。でも、お金がありません。
-- READING :: 日(に)本(ほん)に行(い)きたいです。でも、お(金)金(かね)がありません。
+- READING :: にほんにいきたいです。でも、おかねがありません。
 - ROMAJI :: Nihon ni ikitai desu. Demo, okane ga arimasen.
 - UK :: Я хочу поїхати до Японії. Але в мене немає грошей.
 - EN :: I want to go to Japan. But I have no money.
@@ -104,7 +104,7 @@
 :ROMAJI: Ame ga futte imasu. Demo, shigoto ni ikanakereba narimasen.
 :END:
 - JA :: 雨が降っています。でも、仕事に行かなければなりません。
-- READING :: 雨(あめ)が降(ふ)っています。でも、仕(し)事(ごと)に行(い)かなければなりません。
+- READING :: あめがふっています。でも、しごとにいかなければなりません。
 - ROMAJI :: Ame ga futte imasu. Demo, shigoto ni ikanakereba narimasen.
 - UK :: Йде дощ. Але мені треба йти на роботу.
 - EN :: It is raining. But I have to go to work.
@@ -129,6 +129,13 @@
 :REVIEWED_AT:
 :END:
 - text :: навіть
+** Learner notes
+*** note-s-1008460-002-001
+:PROPERTIES:
+:END:
+- UK :: Частка でも (demo) після іменника або питального слова означає «навіть» або вказує на узагальнення (наприклад, 誰でも — «хто завгодно»).
+- LEVEL :: beginner
+- REGISTER :: neutral
 
 * Sense s-1008460-003
 :PROPERTIES:
@@ -164,6 +171,14 @@
 ** English glosses
 - ... or something
 ** Ukrainian glosses
+*** uk-s-1008460-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ... чи щось таке
 
 * Sense s-1008460-005
 :PROPERTIES:
@@ -179,6 +194,22 @@
 - either ... or ...
 - neither ... nor ...
 ** Ukrainian glosses
+*** uk-s-1008460-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: або ... або ...
+*** uk-s-1008460-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ні ... ні ...
 
 * Sense s-1008460-006
 :PROPERTIES:
@@ -195,6 +226,30 @@
 - quack
 - in-name-only
 ** Ukrainian glosses
+*** uk-s-1008460-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: псевдо-
+*** uk-s-1008460-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: удаваний
+*** uk-s-1008460-006-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лише за назвою
 
 * Sense s-1008460-007
 :PROPERTIES:
@@ -211,4 +266,11 @@
 ** English glosses
 - for lack of anything better to do
 ** Ukrainian glosses
-
+*** uk-s-1008460-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: через брак кращого заняття

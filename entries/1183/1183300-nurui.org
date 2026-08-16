@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ぬるい
 #+ROMAJI: nurui
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -68,7 +68,7 @@
 *** note-s-1183300-001-001
 :PROPERTIES:
 :END:
-- UK :: Означає «теплуватий» (недостатньо гарячий або недостатньо холодний). Часто має негативний відтінок.
+- UK :: Прикметник ぬるい описує рідину або газ, які є теплуватими — недостатньо гарячими або недостатньо холодними порівняно з тим, якими вони мають бути в ідеалі. Зазвичай має негативний відтінок (наприклад, охололий чай або недостатньо холодне пиво). У переносному значенні може означати «м'який» або «поблажливий» (тоді часто пишеться як 緩い).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -109,7 +109,7 @@
 :ROMAJI: Suupu ga nuruku natte shimatta node, mou ichido atatamete kudasai.
 :END:
 - JA :: スープがぬるくなってしまったので、もう一度温めてください。
-- READING :: スープが ぬるくなって しまったので、もういちど あたためて ください。
+- READING :: すーぷが ぬるくなって しまったので、もういちど あたためて ください。
 - ROMAJI :: Suupu ga nuruku natte shimatta node, mou ichido atatamete kudasai.
 - UK :: Суп охолов (став теплуватим), тому, будь ласка, підігрійте його ще раз.
 - EN :: The soup has become lukewarm, so please heat it up again.
@@ -132,4 +132,15 @@
 ** English glosses
 - lenient
 ** Ukrainian glosses
-
+*** uk-s-1183300-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поблажливий
+*** uk-s-1183300-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: м'який

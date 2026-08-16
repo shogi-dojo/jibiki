@@ -4,7 +4,7 @@
 #+PRIMARY_READING: やすむ
 #+ROMAJI: yasumu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -64,11 +64,15 @@
 :REVIEWED_AT:
 :END:
 - text :: не прийти
+*** uk-s-1227560-001-003
+:PROPERTIES:
+:END:
+- text :: брати вихідний
 ** Learner notes
 *** note-s-1227560-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 休む (yasumu) означає «відпочивати» або «бути відсутнім» (наприклад, не прийти до школи чи на роботу).
+- UK :: Дієслово 休む (yasumu) має два головних значення: 1) «бути відсутнім / брати вихідний» (пропустити школу або роботу, зазвичай з часткою を, наприклад 学校を休む); 2) «відпочивати / робити перерву» (розслабитися після праці).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -90,20 +94,6 @@
 :PROPERTIES:
 :SOURCE_ID:
 :SOURCE_URL:
-:LEVEL: beginner
-:REGISTER: neutral
-:ROMAJI: Koko de yasumimashou.
-:END:
-- JA :: ここで休みましょう。
-- READING :: ここ で やすみましょう。
-- ROMAJI :: Koko de yasumimashou.
-- UK :: Давайте тут відпочинемо.
-- EN :: Let's rest here.
-- FOCUS :: 休みましょう
-*** ex-1227560-001-003
-:PROPERTIES:
-:SOURCE_ID:
-:SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
 :ROMAJI: Kaze o hiite, shigoto o yasunde imasu.
@@ -114,6 +104,20 @@
 - UK :: Я застудився і не ходжу на роботу.
 - EN :: I caught a cold and am taking time off work.
 - FOCUS :: 休んでいます
+*** ex-1227560-001-003
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: neutral
+:REGISTER: neutral
+:ROMAJI: Netsu ga aru node, kyou wa kaisha o yasumimasu.
+:END:
+- JA :: 熱があるので、今日は会社を休みます。
+- READING :: ねつがあるので、きょうはかいしゃをやすみます。
+- ROMAJI :: Netsu ga aru node, kyou wa kaisha o yasumimasu.
+- UK :: Оскільки в мене температура, сьогодні я не піду на роботу.
+- EN :: Because I have a fever, I'll take the day off work today.
+- FOCUS :: 休みます
 
 * Sense s-1227560-002
 :PROPERTIES:
@@ -136,7 +140,6 @@
 :REVIEWED_AT:
 :END:
 - text :: відпочивати
-- qualifier :: робити перерву
 *** uk-s-1227560-002-002
 :PROPERTIES:
 :TRANSLATOR_ID: antigravity
@@ -144,7 +147,22 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: йти спати
+- text :: робити перерву
+** Examples
+*** ex-1227560-002-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Koko de yasumimashou.
+:END:
+- JA :: ここで休みましょう。
+- READING :: ここ で やすみましょう。
+- ROMAJI :: Koko de yasumimashou.
+- UK :: Відпочиньмо тут.
+- EN :: Let's rest here.
+- FOCUS :: 休みましょう
 
 * Sense s-1227560-003
 :PROPERTIES:
@@ -161,6 +179,14 @@
 - to turn in
 - to retire
 ** Ukrainian glosses
+*** uk-s-1227560-003-001
+:PROPERTIES:
+:END:
+- text :: лягати спати
+*** uk-s-1227560-003-002
+:PROPERTIES:
+:END:
+- text :: йти спати
 
 * Sense s-1227560-004
 :PROPERTIES:
@@ -175,4 +201,8 @@
 - to stop doing some ongoing activity for a time
 - to suspend business
 ** Ukrainian glosses
-
+*** uk-s-1227560-004-001
+:PROPERTIES:
+:END:
+- text :: призупиняти
+- qualifier :: діяльність тощо

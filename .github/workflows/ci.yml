@@ -60,6 +60,8 @@ jobs:
           curl -fL http://ftp.edrdg.org/pub/Nihongo/JMdict.gz -o sources/jmdict/JMdict.xml.gz
       - name: Run entries validation
         run: bundle exec rake entries:validate
+      - name: Run corpus doctor
+        run: bundle exec rake doctor
 
   lint:
     runs-on: ubuntu-latest

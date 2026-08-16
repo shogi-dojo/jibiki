@@ -4,7 +4,7 @@
 #+PRIMARY_READING: せんたく
 #+ROMAJI: sentaku
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -63,6 +63,22 @@
 - washing
 - laundry
 ** Ukrainian glosses
+*** uk-s-1390980-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відпочинок
+*** uk-s-1390980-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відновлення сил
 *** uk-s-1390980-001-001
 :PROPERTIES:
 :TRANSLATOR_ID: antigravity
@@ -75,7 +91,7 @@
 *** note-s-1390980-001-001
 :PROPERTIES:
 :END:
-- UK :: Прання одягу.
+- UK :: Означає прання одягу або білизни. Зазвичай використовується з дієсловом «suru» (洗濯する — прати). Зверніть увагу, що для миття рук або посуду використовується інше слово — «arau» (洗う).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -137,4 +153,26 @@
 - rejuvenation
 - melting away (of worries, fatigue, etc.)
 ** Ukrainian glosses
-
+*** uk-s-1390980-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відпочинок
+*** uk-s-1390980-002-004
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відновлення сил
+** Learner notes
+*** note-s-1390980-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносне значення. Часто використовується у виразі «inochi no sentaku» (命の洗濯), що буквально означає «прання життя», тобто глибокий відпочинок та відновлення сил після важкої роботи.
+- LEVEL :: advanced
+- REGISTER :: neutral

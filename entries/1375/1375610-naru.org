@@ -4,7 +4,7 @@
 #+PRIMARY_READING: なる
 #+ROMAJI: naru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -79,7 +79,7 @@
 *** note-s-1375610-001-001
 :PROPERTIES:
 :END:
-- UK :: Вказує на зміну стану. Використовується з іменниками (іменник + に + なる) та прикметниками (зміна закінчення: -ku naru або -ni naru).
+- UK :: =なる= (/naru/, ставати) вказує на природну або об'єктивну зміну стану. Використовується з іменниками та /na/-прикметниками (з додаванням частки =に=, наприклад, =医者になる= — стати лікарем, =静かになる= — стати тихим) та з /i/-прикметниками (із заміною закінчення =い= на =く=, наприклад, =暖かくなる= — стати теплим). На відміну від =する=, яке означає цілеспрямовану дію (зробити якимсь), =なる= означає процес, що відбувається (стати якимсь).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -92,11 +92,11 @@
 :ROMAJI: Haru ni natte, atatakaku narimashita.
 :END:
 - JA :: 春になって、暖かくなりました。
-- READING ::
+- READING :: はる に なって、 あたたかく なりました。
 - ROMAJI :: Haru ni natte, atatakaku narimashita.
 - UK :: Настала весна, і стало тепло.
 - EN :: Spring has come and it has become warm.
-- FOCUS ::
+- FOCUS :: なって, なりました
 *** ex-1375610-001-002
 :PROPERTIES:
 :SOURCE_ID:
@@ -106,11 +106,11 @@
 :ROMAJI: Ookiku nattara, isha ni naritai desu.
 :END:
 - JA :: 大きくなったら、医者になりたいです。
-- READING ::
+- READING :: おおきく なったら、 いしゃ に なりたい です。
 - ROMAJI :: Ookiku nattara, isha ni naritai desu.
 - UK :: Коли я виросту, я хочу стати лікарем.
 - EN :: When I grow up, I want to become a doctor.
-- FOCUS ::
+- FOCUS :: なったら, なりたい
 *** ex-1375610-001-003
 :PROPERTIES:
 :SOURCE_ID:
@@ -120,11 +120,11 @@
 :ROMAJI: Kono chiimu wa gonin no menbaa kara natte iru.
 :END:
 - JA :: このチームは五人のメンバーから成っている。
-- READING ::
+- READING :: この ちーむ は ごにん の めんばー から なって いる。
 - ROMAJI :: Kono chiimu wa gonin no menbaa kara natte iru.
 - UK :: Ця команда складається з п'яти учасників.
 - EN :: This team consists of five members.
-- FOCUS ::
+- FOCUS :: 成って
 
 * Sense s-1375610-002
 :PROPERTIES:
@@ -146,11 +146,27 @@
 *** uk-s-1375610-002-001
 :PROPERTIES:
 :TRANSLATOR_ID: antigravity
-:TRANSLATED_AT: 2026-07-18
+:TRANSLATED_AT: 2026-08-15
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: складатися з
+- text :: закінчуватися (чим-небудь)
+*** uk-s-1375610-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виявлятися
+*** uk-s-1375610-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обертатися (чим-небудь)
 
 * Sense s-1375610-003
 :PROPERTIES:
@@ -170,6 +186,14 @@
 - to be composed of
 - to be made up of
 ** Ukrainian glosses
+*** uk-s-1375610-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: складатися з
 
 * Sense s-1375610-004
 :PROPERTIES:
@@ -189,6 +213,30 @@
 - to be attained
 - to be accomplished
 ** Ukrainian glosses
+*** uk-s-1375610-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути завершеним
+*** uk-s-1375610-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути реалізованим
+*** uk-s-1375610-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: здійснюватися
 
 * Sense s-1375610-005
 :PROPERTIES:
@@ -206,6 +254,22 @@
 - to turn (into)
 - to transform
 ** Ukrainian glosses
+*** uk-s-1375610-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перетворюватися
+*** uk-s-1375610-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ставати (ким-небудь, чим-небудь)
 
 * Sense s-1375610-006
 :PROPERTIES:
@@ -223,6 +287,22 @@
 - to begin (to do)
 - to grow (to do)
 ** Ukrainian glosses
+*** uk-s-1375610-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: починати (робити щось)
+*** uk-s-1375610-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: доходити до (чогось)
 
 * Sense s-1375610-007
 :PROPERTIES:
@@ -241,6 +321,22 @@
 - to add up to
 - to make
 ** Ukrainian glosses
+*** uk-s-1375610-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: складати (суму)
+*** uk-s-1375610-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дорівнювати
 
 * Sense s-1375610-008
 :PROPERTIES:
@@ -257,6 +353,22 @@
 - to play (the part of)
 - to act as
 ** Ukrainian glosses
+*** uk-s-1375610-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виконувати роль
+*** uk-s-1375610-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виступати в ролі
 
 * Sense s-1375610-009
 :PROPERTIES:
@@ -274,6 +386,22 @@
 - to be useful for
 - to serve as
 ** Ukrainian glosses
+*** uk-s-1375610-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: використовуватися для
+*** uk-s-1375610-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: слугувати для
 
 * Sense s-1375610-010
 :PROPERTIES:
@@ -289,6 +417,14 @@
 ** English glosses
 - to be promoted
 ** Ukrainian glosses
+*** uk-s-1375610-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перетворюватися (у шоґі)
 
 * Sense s-1375610-011
 :PROPERTIES:
@@ -307,4 +443,11 @@
 ** English glosses
 - to do ...
 ** Ukrainian glosses
-
+*** uk-s-1375610-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робити (ввічливо)

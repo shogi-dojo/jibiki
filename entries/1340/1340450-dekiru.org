@@ -4,7 +4,7 @@
 #+PRIMARY_READING: できる
 #+ROMAJI: dekiru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -83,7 +83,7 @@
 *** note-s-1340450-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 出来る (できる) часто використовується для вираження можливості або здатності щось зробити (можу, вмію). Також воно може означати «бути готовим» (про їжу) або «з'явитися» (про друзів).
+- UK :: Дієслово 出来る (できる) часто використовується для вираження можливості або здатності щось зробити (можу, вмію).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -96,7 +96,7 @@
 :ROMAJI: Nihongo o sukoshi hanasu koto ga dekimasu.
 :END:
 - JA :: 日本語を少し話すことができます。
-- READING :: 日(に)本(ほん)語(ご)を少(すこ)し話(はな)すことができます。
+- READING :: にほんごをすこしはなすことができます。
 - ROMAJI :: Nihongo o sukoshi hanasu koto ga dekimasu.
 - UK :: Я можу трохи розмовляти японською.
 - EN :: I can speak a little Japanese.
@@ -105,30 +105,30 @@
 :PROPERTIES:
 :SOURCE_ID:
 :SOURCE_URL:
-:LEVEL: beginner
+:LEVEL: intermediate
 :REGISTER: neutral
-:ROMAJI: Bangohan ga dekimashita yo.
+:ROMAJI: Imouto wa hitori de ryouri ga dekimasu.
 :END:
-- JA :: 晩ご飯ができましたよ。
-- READING :: 晩(ばん)ごは(飯)ができましたよ。
-- ROMAJI :: Bangohan ga dekimashita yo.
-- UK :: Вечеря готова.
-- EN :: Dinner is ready.
-- FOCUS :: できました
+- JA :: 妹は一人で料理ができます。
+- READING :: いもうとはひとりでりょうりができます。
+- ROMAJI :: Imouto wa hitori de ryouri ga dekimasu.
+- UK :: Моя молодша сестра вміє готувати сама.
+- EN :: My younger sister can cook by herself.
+- FOCUS :: できます
 *** ex-1340450-001-003
 :PROPERTIES:
 :SOURCE_ID:
 :SOURCE_URL:
-:LEVEL: intermediate
+:LEVEL: neutral
 :REGISTER: neutral
-:ROMAJI: Atarashii gakkou de takusan no tomodachi ga dekimashita.
+:ROMAJI: Kono shigoto wa kyoujuu ni dekimasu ka.
 :END:
-- JA :: 新しい学校でたくさんの友達ができました。
-- READING :: 新(あたら)しい学(がっ)校(こう)でたくさんの友(とも)達(だち)ができました。
-- ROMAJI :: Atarashii gakkou de takusan no tomodachi ga dekimashita.
-- UK :: У новій школі я завів багато друзів.
-- EN :: I made many friends at the new school.
-- FOCUS :: できました
+- JA :: この仕事は今日中にできますか。
+- READING :: このしごとはきょうじゅうにできますか。
+- ROMAJI :: Kono shigoto wa kyoujuu ni dekimasu ka.
+- UK :: Чи можете ви виконати цю роботу сьогодні?
+- EN :: Can you finish this work today?
+- FOCUS :: できます
 
 * Sense s-1340450-002
 :PROPERTIES:
@@ -194,6 +194,28 @@
 :END:
 - text :: завести
 - qualifier :: друзів, дівчину
+** Learner notes
+*** note-s-1340450-003-001
+:PROPERTIES:
+:END:
+- UK :: У цьому значенні 出来る означає виникнення чогось нового: від появи друзів (友達ができる) чи вільного часу (時間ができる) до утворення чогось фізичного.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1340450-003-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Atarashii gakkou de takusan no tomodachi ga dekimashita.
+:END:
+- JA :: 新しい学校でたくさんの友達ができました。
+- READING :: あたらしいがっこうでたくさんのともだちができました。
+- ROMAJI :: Atarashii gakkou de takusan no tomodachi ga dekimashita.
+- UK :: У новій школі я завів багато друзів.
+- EN :: I made many friends at the new school.
+- FOCUS :: できました
 
 * Sense s-1340450-004
 :PROPERTIES:
@@ -264,6 +286,28 @@
 :REVIEWED_AT:
 :END:
 - text :: бути готовим
+** Learner notes
+*** note-s-1340450-005-001
+:PROPERTIES:
+:END:
+- UK :: Дуже часто використовується щодо їжі, щоб сказати, що вона «готова» (ご飯ができた).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1340450-005-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: beginner
+:REGISTER: neutral
+:ROMAJI: Bangohan ga dekimashita yo.
+:END:
+- JA :: 晩ご飯ができましたよ。
+- READING :: ばんごはんができましたよ。
+- ROMAJI :: Bangohan ga dekimashita yo.
+- UK :: Вечеря готова.
+- EN :: Dinner is ready.
+- FOCUS :: できました
 
 * Sense s-1340450-006
 :PROPERTIES:
@@ -280,7 +324,23 @@
 - to grow (of a crop)
 - to be produced
 ** Ukrainian glosses
-
+*** uk-s-1340450-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рости
+- qualifier :: про врожай
+*** uk-s-1340450-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вродити
 * Sense s-1340450-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -296,7 +356,23 @@
 - to be mature and well-balanced
 - to be of fine character
 ** Ukrainian glosses
-
+*** uk-s-1340450-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути зрілим
+- qualifier :: про характер
+*** uk-s-1340450-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути чудовим
 * Sense s-1340450-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -314,7 +390,14 @@
 - to be by nature
 - to be born ...
 ** Ukrainian glosses
-
+*** uk-s-1340450-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути від природи
 * Sense s-1340450-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -334,7 +417,15 @@
 - to become intimate (with)
 - to take up (with someone)
 ** Ukrainian glosses
-
+*** uk-s-1340450-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стати близькими
+- qualifier :: вступити в інтимні стосунки
 * Sense s-1340450-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -350,4 +441,11 @@
 ** English glosses
 - to get pregnant
 ** Ukrainian glosses
-
+*** uk-s-1340450-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: завагітніти

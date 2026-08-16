@@ -4,7 +4,7 @@
 #+PRIMARY_READING: むずかしい
 #+ROMAJI: muzukashii
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -98,7 +98,7 @@
 *** note-s-1460850-001-001
 :PROPERTIES:
 :END:
-- UK :: 難しい (muzukashii) використовується для опису чогось, що потребує значних зусиль, знань або навичок для розуміння чи виконання. Воно часто є антонімом до 易しい (yasashii - легкий) або 簡単 (kantan - простий).
+- UK :: Прикметник 難しい (muzukashii) описує щось, що потребує значних зусиль, знань або навичок, тобто є «складним» або «важким». Його антонімами є 易しい (yasashii — легкий) або 簡単 (kantan — простий). У повсякденному спілкуванні японці часто використовують 難しい, щоб ввічливо відмовити (натякаючи, що виконати прохання «складно»), замість прямого «ні».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -161,6 +161,13 @@
 - impossible
 - unfeasible
 ** Ukrainian glosses
+*** uk-s-1460850-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: неможливий
+- text :: нездійсненний
 
 * Sense s-1460850-003
 :PROPERTIES:
@@ -177,6 +184,15 @@
 - hard to please
 - displeased
 ** Ukrainian glosses
+*** uk-s-1460850-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вибагливий
+- text :: перебірливий
+- text :: якому важко догодити
+- text :: невдоволений
 
 * Sense s-1460850-004
 :PROPERTIES:
@@ -192,6 +208,14 @@
 - sullen
 - serious (look)
 ** Ukrainian glosses
+*** uk-s-1460850-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: похмурий
+- text :: насуплений
+- text :: серйозний (вигляд)
 
 * Sense s-1460850-005
 :PROPERTIES:
@@ -209,6 +233,14 @@
 - filthy
 - detestable
 ** Ukrainian glosses
+*** uk-s-1460850-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: брудний
+- text :: нечистий
+- text :: огидний
 
 * Sense s-1460850-006
 :PROPERTIES:
@@ -226,4 +258,11 @@
 - creepy
 - spooky
 ** Ukrainian glosses
-
+*** uk-s-1460850-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: неприємний
+- text :: моторошний
+- text :: лякаючий

@@ -1,0 +1,513 @@
+#+TITLE: 打つ
+#+JMDICT_ID: 1408810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うつ
+#+ROMAJI: utsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: core
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1408810-001
+:PROPERTIES:
+:TEXT: 打つ
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Written form wf-1408810-002
+:PROPERTIES:
+:TEXT: 拍つ
+:END:
+*** Information
+- rK
+** Written form wf-1408810-003
+:PROPERTIES:
+:TEXT: 搏つ
+:END:
+*** Information
+- rK
+** Written form wf-1408810-004
+:PROPERTIES:
+:TEXT: 撲つ
+:END:
+*** Information
+- rK
+** Written form wf-1408810-005
+:PROPERTIES:
+:TEXT: 擣つ
+:END:
+*** Information
+- rK
+** Reading rd-1408810-001
+:PROPERTIES:
+:TEXT: うつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1408810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 67ec5f3ded417db24b5c11f2782835be5b3920ae2bffbe58bb5327bc8c2eb221
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to hit
+- to strike
+- to knock
+- to beat
+- to punch
+- to slap
+- to tap
+- to bang
+- to clap
+- to pound
+** Ukrainian glosses
+*** uk-s-1408810-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-12
+:END:
+- text :: бити
+- text :: ударяти
+
+** Examples
+*** ex-1408810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: ボールを打ちます。
+- READING :: ぼーるをうちます。
+- UK :: Я б'ю по м'ячу.
+- EN :: I hit the ball.
+- FOCUS :: 打ちます
+*** ex-1408810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 彼は手を打った。
+- READING :: かれはてをうった。
+- UK :: Він плеснув у долоні.
+- EN :: He clapped his hands.
+- FOCUS :: 打った
+*** ex-1408810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 壁に頭を打ってしまった。
+- READING :: かべにあたまをうってしまった。
+- UK :: Я випадково вдарився головою об стіну.
+- EN :: I accidentally hit my head on the wall.
+- FOCUS :: 打って
+* Sense s-1408810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c80bfff67771475cb7a7ee92dce696ef58ba0986849dccab698e2655b0abfccf
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to strike (noon, etc.)
+- to sound (cymbals, etc.)
+- to beat (a drum, etc.)
+** Ukrainian glosses
+*** uk-s-1408810-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бити
+- qualifier :: про годинник, барабан тощо
+*** uk-s-1408810-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: звучати
+* Sense s-1408810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f07d39bbb9d7cbc43cc6acc6a33b958bcef7632cedf9dc79c24b0ce7049800bb
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to beat (rhythmically, e.g. pulse, waves, etc.)
+** Ukrainian glosses
+*** uk-s-1408810-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: битися
+- qualifier :: про пульс, хвилі тощо
+* Sense s-1408810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3be55a938196d09c45b6f982e1a10e738ed29129d39e106f93bc42fb044a1327
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to move
+- to impress
+- to touch
+** Ukrainian glosses
+*** uk-s-1408810-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вражати
+*** uk-s-1408810-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зворушувати
+* Sense s-1408810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 253e866a38f960916dce3e88fa3e22708806c29cde432c0d5361836fe8462e51
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to drive in
+- to hammer in
+- to put in
+- to inject
+- to vaccinate
+** Ukrainian glosses
+*** uk-s-1408810-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вбивати
+- qualifier :: цвях тощо
+*** uk-s-1408810-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити укол
+*** uk-s-1408810-005-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вакцинувати
+* Sense s-1408810-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 8cda69fb92c367af039527df8c5ec0a3e6f635471bf0f6091148e3b94acad7d7
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to type
+- to send
+- to transmit
+** Ukrainian glosses
+*** uk-s-1408810-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: друкувати
+*** uk-s-1408810-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: набирати
+- qualifier :: текст
+*** uk-s-1408810-006-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відправляти
+* Sense s-1408810-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e94308f4905f206f05d34a1aca06b20714f9e41b6c54ed367af2f58af04066a7
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to insert
+- to write in
+- to mark
+** Ukrainian glosses
+*** uk-s-1408810-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вставляти
+*** uk-s-1408810-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вписувати
+* Sense s-1408810-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 1e3f3d24be06c62e79c6a9e3049809fc71a681d1cc56ff48a634686a9a70b46d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to make (noodles, etc.)
+- to prepare
+** Ukrainian glosses
+*** uk-s-1408810-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити
+- qualifier :: локшину тощо
+*** uk-s-1408810-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: готувати
+* Sense s-1408810-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 26454153e107908b198c91f27ff9a4a64bc2ad9f491bbbafec621502796352ec
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to till (soil)
+** Ukrainian glosses
+*** uk-s-1408810-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: обробляти
+- qualifier :: землю
+* Sense s-1408810-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0419e3e44e925584f2306356c0eccfe3712871558cdbb46265bd5a24f11547c6
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to sprinkle
+- to throw
+- to cast
+** Ukrainian glosses
+*** uk-s-1408810-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розбризкувати
+*** uk-s-1408810-010-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: кидати
+* Sense s-1408810-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: bf6f8fb96ceb93d5cbeaa59e2f3022ff19b183b3920cf40e2cbf1bd3af5ebe4a
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to do
+- to carry out
+- to play
+- to perform
+- to engage in (gambling, etc.)
+** Ukrainian glosses
+*** uk-s-1408810-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити
+*** uk-s-1408810-011-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: виконувати
+*** uk-s-1408810-011-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: грати
+* Sense s-1408810-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: f9dc916a14112ef536251af0330f54e2799762913ddeeea627f658f951e3b2fb
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to pay (a deposit, etc.)
+** Ukrainian glosses
+*** uk-s-1408810-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: платити
+- qualifier :: завдаток тощо
+* Sense s-1408810-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: f97256ed6b426162923b6d096a7cbca61e8ad8cf822c426e11420e55ce36b2cd
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to visit (on a pilgrimage)
+** Ukrainian glosses
+*** uk-s-1408810-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відвідувати
+- qualifier :: як паломник
+* Sense s-1408810-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 66b3017973bae7f8a5c6958aa628f31d5311c8706bfe777d54c7675eb0812300
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to line (a coat)
+** Ukrainian glosses
+*** uk-s-1408810-014-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: підшивати
+- qualifier :: одяг
+* Sense s-1408810-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 284b42a8300cb79b1bda26b9f176955285ca6231c8c502152111f4d74d976842
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+** English glosses
+- to bind (a criminal)
+** Ukrainian glosses
+*** uk-s-1408810-015-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зв'язувати
+- qualifier :: злочинця
+* Sense s-1408810-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: d9a05814393e3c08f22fb90adaf5732f31b08035d1826d26a90826ef63ab5b90
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+*** Fields
+- shogi
+** English glosses
+- to drop (a piece)
+** Ukrainian glosses
+*** uk-s-1408810-016-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: скидати
+- qualifier :: фігуру
+* Sense s-1408810-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 134850b6f7e4d5cfd05a8480c405898e7eadbc9cb4f149638d3c5f02ab649460
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5t
+- vt
+*** Fields
+- go
+** English glosses
+- to play a move
+- to play a game
+** Ukrainian glosses
+*** uk-s-1408810-017-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: робити хід
+*** uk-s-1408810-017-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: грати
+- qualifier :: в го

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ちょっと
 #+ROMAJI: chotto
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -92,7 +92,7 @@
 *** note-s-1163940-001-001
 :PROPERTIES:
 :END:
-- UK :: Прислівник ちょっと (chotto) — дуже корисне слово, що означає «трохи» або «на хвилинку». Може також використовуватися для ввічливої відмови («це трохи…»).
+- UK :: Прислівник ちょっと (chotto) означає «трохи» або «на хвилинку». Воно часто використовується для пом'якшення висловлювань або для ввічливої, непрямої відмови (наприклад, коли фразу залишають недомовленою: «Сьогодні я трохи...»), щоб уникнути прямого «ні».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -133,7 +133,7 @@
 :ROMAJI: Ashita wa chotto youji ga aru node, paatii ni wa ikemasen.
 :END:
 - JA :: 明日はちょっと用事があるので、パーティーには行けません。
-- READING :: あしたはちょっとようじがあるので、パーティーにはいけません。
+- READING :: あしたはちょっとようじがあるので、ぱーてぃーにはいけません。
 - ROMAJI :: Ashita wa chotto youji ga aru node, paatii ni wa ikemasen.
 - UK :: Завтра у мене є деякі справи, тому я не зможу піти на вечірку.
 - EN :: I have some errands tomorrow, so I cannot go to the party.
@@ -213,6 +213,20 @@
 - (not) easily
 - (not) readily
 ** Ukrainian glosses
+*** uk-s-1163940-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: легко
+- qualifier :: не
+*** uk-s-1163940-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: швидко
+- qualifier :: не
 
 * Sense s-1163940-005
 :PROPERTIES:
@@ -229,6 +243,24 @@
 - come on
 - excuse me
 ** Ukrainian glosses
+*** uk-s-1163940-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: гей!
+*** uk-s-1163940-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: давай
+*** uk-s-1163940-005-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вибачте
 
 * Sense s-1163940-006
 :PROPERTIES:
@@ -245,6 +277,24 @@
 - not feasible
 - not possible
 ** Ukrainian glosses
+*** uk-s-1163940-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: дякую, але ні
+*** uk-s-1163940-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: нездійсненно
+*** uk-s-1163940-006-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: неможливо
 
 * Sense s-1163940-007
 :PROPERTIES:
@@ -263,4 +313,16 @@
 - a little more than (a week, month, etc.)
 - slightly more than
 ** Ukrainian glosses
-
+*** uk-s-1163940-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: трохи більше ніж
+- qualifier :: тиждень, місяць тощо
+*** uk-s-1163940-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: дещо більше ніж

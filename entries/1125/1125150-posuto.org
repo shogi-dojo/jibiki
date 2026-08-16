@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ポスト
 #+ROMAJI: posuto
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -51,7 +51,7 @@
 *** note-s-1125150-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово «posuto» (ポスト) походить від англійського «post» і найчастіше використовується для позначення поштової скриньки на вулиці.
+- UK :: Слово «посуто» (ポスト) походить від англійського «post» і найчастіше використовується для позначення поштової скриньки на вулиці, куди вкидають листи.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -64,7 +64,7 @@
 :ROMAJI: Tegami o posuto ni iremashita.
 :END:
 - JA :: 手紙をポストに入れました。
-- READING :: てがみをポストにいれました。
+- READING :: てがみをぽすとにいれました。
 - ROMAJI :: Tegami o posuto ni iremashita.
 - UK :: Я вкинув листа в поштову скриньку.
 - EN :: I put the letter in the postbox.
@@ -78,7 +78,7 @@
 :ROMAJI: Akai posuto ga miemasu.
 :END:
 - JA :: 赤いポストが見えます。
-- READING :: あかいポストがみえます。
+- READING :: あかいぽすとがみえます。
 - ROMAJI :: Akai posuto ga miemasu.
 - UK :: Я бачу червону поштову скриньку.
 - EN :: I can see a red postbox.
@@ -92,7 +92,7 @@
 :ROMAJI: Kaerimichi ni aru posuto ni tegami o toukan suru no o wasurete shimatta.
 :END:
 - JA :: 帰り道にあるポストに手紙を投函するのを忘れてしまった。
-- READING :: かえりみちにあるポストにてがみをとうかんするのをわすれてしまった。
+- READING :: かえりみちにあるぽすとにてがみをとうかんするのをわすれてしまった。
 - ROMAJI :: Kaerimichi ni aru posuto ni tegami o toukan suru no o wasurete shimatta.
 - UK :: Я забув вкинути листа в поштову скриньку по дорозі додому.
 - EN :: I forgot to mail the letter in the postbox on my way home.
@@ -110,6 +110,29 @@
 - post
 - position
 ** Ukrainian glosses
+*** uk-s-1125150-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: посада
+*** uk-s-1125150-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост
+** Learner notes
+*** note-s-1125150-002-001
+:PROPERTIES:
+:END:
+- UK :: Використовується для позначення важливої посади або місця роботи (наприклад, керівна посада).
+- LEVEL :: intermediate
+- REGISTER :: neutral
 
 * Sense s-1125150-003
 :PROPERTIES:
@@ -122,6 +145,22 @@
 ** English glosses
 - post (e.g. goalpost)
 ** Ukrainian glosses
+*** uk-s-1125150-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: штанга
+*** uk-s-1125150-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стійка
 
 * Sense s-1125150-004
 :PROPERTIES:
@@ -138,6 +177,30 @@
 ** English glosses
 - post (on a blog, social media, etc.)
 ** Ukrainian glosses
+*** uk-s-1125150-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: публікація
+*** uk-s-1125150-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост
+- qualifier :: в інтернеті
+** Learner notes
+*** note-s-1125150-004-001
+:PROPERTIES:
+:END:
+- UK :: Використовується для позначення допису чи публікації в блозі або соціальній мережі. Також може вживатися як дієслово: ポストする (посуто суру — публікувати пост).
+- LEVEL :: intermediate
+- REGISTER :: neutral
 
 * Sense s-1125150-005
 :PROPERTIES:
@@ -150,4 +213,20 @@
 ** English glosses
 - post- (e.g. post-Cold War)
 ** Ukrainian glosses
-
+*** uk-s-1125150-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пост-
+- qualifier :: префікс
+*** uk-s-1125150-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: після-

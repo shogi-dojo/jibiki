@@ -63,7 +63,7 @@
 *** note-s-1184270-001-001
 :PROPERTIES:
 :END:
-- UK :: Будь ласка. Використовується при проханнях (дайте мені або зробіть для мене).
+- UK :: Використовується для ввічливого прохання надати щось («дайте мені, будь ласка»). Приєднується до іменника за допомогою частки を (наприклад, 水を下さい).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -82,22 +82,21 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: ちょっと待って下さい。
-- READING :: ちょっとまってください。
-- UK :: Зачекайте трохи, будь ласка.
-- EN :: Please wait a moment.
+- JA :: コーヒーを下さい。
+- READING :: こーひーをください。
+- UK :: Кави, будь ласка.
+- EN :: Coffee, please.
 - FOCUS :: 下さい
 *** ex-1184270-001-003
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: メニューを見せて下さい。
-- READING :: めにゅーをみせてください。
-- UK :: Покажіть меню, будь ласка.
-- EN :: Please show me the menu.
+- JA :: 切符を二枚下さい。
+- READING :: きっぷをにまいください。
+- UK :: Два квитки, будь ласка.
+- EN :: Two tickets, please.
 - FOCUS :: 下さい
-
 * Sense s-1184270-002
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 2
@@ -123,6 +122,13 @@
 :END:
 - text :: будь ласка
 - qualifier :: зробіть для мене
+** Learner notes
+*** note-s-1184270-002-001
+:PROPERTIES:
+:END:
+- UK :: Використовується для ввічливого прохання зробити щось. Додається до те-форми дієслова (наприклад, 見てください — подивіться, будь ласка).
+- LEVEL :: beginner
+- REGISTER :: neutral
 ** Examples
 *** ex-1184270-002-001
 :PROPERTIES:
@@ -134,4 +140,23 @@
 - UK :: Будь ласка, подивіться.
 - EN :: Please look.
 - FOCUS :: ください
-
+*** ex-1184270-002-002
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ちょっと待って下さい。
+- READING :: ちょっとまってください。
+- UK :: Зачекайте трохи, будь ласка.
+- EN :: Please wait a moment.
+- FOCUS :: 下さい
+*** ex-1184270-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: メニューを見せて下さい。
+- READING :: めにゅーをみせてください。
+- UK :: Покажіть меню, будь ласка.
+- EN :: Please show me the menu.
+- FOCUS :: 下さい

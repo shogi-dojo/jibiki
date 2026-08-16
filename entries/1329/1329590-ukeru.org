@@ -1,0 +1,419 @@
+#+TITLE: 受ける
+#+JMDICT_ID: 1329590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うける
+#+ROMAJI: ukeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: core
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1329590-001
+:PROPERTIES:
+:TEXT: 受ける
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Written form wf-1329590-002
+:PROPERTIES:
+:TEXT: 請ける
+:END:
+*** Priorities
+- news1
+- nf24
+** Written form wf-1329590-003
+:PROPERTIES:
+:TEXT: 承ける
+:END:
+** Written form wf-1329590-004
+:PROPERTIES:
+:TEXT: 享ける
+:END:
+** Reading rd-1329590-001
+:PROPERTIES:
+:TEXT: うける
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf16
+- nf24
+** Reading rd-1329590-002
+:PROPERTIES:
+:TEXT: ウケる
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1329590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7dbd0f9719a44992e5dc639d10f5c269b2403edc8b560d20bf672c7044c8d61c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to receive
+- to get
+** Ukrainian glosses
+*** uk-s-1329590-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-12
+:END:
+- text :: отримувати
+*** uk-s-1329590-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: приймати
+
+** Examples
+*** ex-1329590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 手紙を受け取りましたか。
+- READING :: てがみをうけとりましたか。
+- UK :: Ви отримали лист?
+- EN :: Did you receive the letter?
+- FOCUS :: 受け
+*** ex-1329590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 日本の文化は影響を受けた。
+- READING :: にほんのぶんかはえいきょうをうけた。
+- UK :: Японська культура зазнала впливу.
+- EN :: Japanese culture received influence.
+- FOCUS :: 受けた
+*** ex-1329590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 私はその提案を受け入れたい。
+- READING :: わたしはそのていあんをうけいれたい。
+- UK :: Я хочу прийняти цю пропозицію.
+- EN :: I want to accept that proposal.
+- FOCUS :: 受け入れたい
+* Sense s-1329590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 00145fa9a7dcd60a986f4c71c8fd2a642d9ff7467dd4aaaabd217163cbe092a4
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to catch (e.g. a ball)
+** Ukrainian glosses
+*** uk-s-1329590-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ловити
+- qualifier :: напр., м'яч
+* Sense s-1329590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3039c8092bdc8e0e625ba803bd3d2dbbea83f021442080614b70dc5d86a4c462
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to be struck by (wind, waves, sunlight, etc.)
+** Ukrainian glosses
+*** uk-s-1329590-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: приймати на себе
+- qualifier :: вітер, хвилі, сонячні промені тощо
+* Sense s-1329590-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a529e79b7bf9ee9325eca90d29a4b2b024475f78bf17faacd1583c7b9552b90a
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to sustain (damage)
+- to incur (a loss)
+- to suffer (an injury)
+- to feel (influence)
+** Ukrainian glosses
+*** uk-s-1329590-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зазнавати
+- qualifier :: збитків, пошкоджень
+*** uk-s-1329590-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відчувати
+- qualifier :: вплив
+* Sense s-1329590-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: acbe2288aa793ccd8d8d28e5cda17a7c040391839a51181219bba080cbeeb0fa
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to undergo (e.g. surgery)
+- to take (a test)
+- to accept (a challenge)
+** Ukrainian glosses
+*** uk-s-1329590-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проходити
+- qualifier :: напр., операцію, перевірку
+*** uk-s-1329590-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: складати
+- qualifier :: іспит
+*** uk-s-1329590-005-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: приймати
+- qualifier :: виклик
+* Sense s-1329590-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: fde1d8a6a4a633b2a253875cebfff6955c2903e0afe83b288c8acb2502cfd548
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Sense information
+- esp. 受ける, 享ける
+** English glosses
+- to be given (e.g. life, talent)
+** Ukrainian glosses
+*** uk-s-1329590-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути наділеним
+- qualifier :: напр., життям, талантом
+* Sense s-1329590-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 47d4b193083d1a92f24f90f24b13cb74183b8c9d9dd3c744873260e50dce5e40
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Miscellaneous and register
+- col
+- uk
+*** Sense information
+- esp. ウケる
+** English glosses
+- to find funny
+- to find humorous
+- to be amused (by)
+** Ukrainian glosses
+*** uk-s-1329590-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вважати смішним
+*** uk-s-1329590-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розважатися
+* Sense s-1329590-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 21e5a0997b3652d5a798cdba42dcfd49dcb76341a3439afb1f92351d80d6452d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Sense information
+- esp. 受ける, 享ける
+** English glosses
+- to follow
+- to succeed
+- to be descended from
+** Ukrainian glosses
+*** uk-s-1329590-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: успадковувати
+*** uk-s-1329590-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: походити від
+* Sense s-1329590-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7f1d6317f195437d1233612f89f58747d1620c189aa2e5b02c450ded49ffb1dc
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to face (south, etc.)
+** Ukrainian glosses
+*** uk-s-1329590-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути зверненим
+- qualifier :: на південь тощо
+* Sense s-1329590-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 3553b476d85308d91b9d9254a035a8bee299fb7dc5cab6a3fa927c4c5e47d62c
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Fields
+- ling
+*** Sense information
+- esp. 受ける, 承ける
+** English glosses
+- to be modified by
+** Ukrainian glosses
+*** uk-s-1329590-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: визначатися
+- qualifier :: про слово
+* Sense s-1329590-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: a5a744e2ebc91b19e8bae3c992bdc1df091d4718a886cc9742d7c3d0525cbce5
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Sense information
+- esp. 請ける; now primarily used in compound words
+*** Cross-references
+- 請け出す・1
+** English glosses
+- to obtain (a pawned item, etc.) by paying a fee
+** Ukrainian glosses
+*** uk-s-1329590-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: викуповувати
+- qualifier :: заставлену річ
+* Sense s-1329590-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: d4908dc0fbb6ae6c13c1f8d49e88a563b319494104188fb11c48b8cf8c2a72b1
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Miscellaneous and register
+- uk
+*** Sense information
+- esp. ウケる, うける
+** English glosses
+- to be well-received
+- to become popular
+- to go down well
+** Ukrainian glosses
+*** uk-s-1329590-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути добре сприйнятим
+*** uk-s-1329590-012-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ставати популярним
+* Sense s-1329590-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: bb46bf7c1037af3e10a45be2bccf3fc31a9e0dc2e77d2fd07664effe3ef253b3
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Fields
+- go
+** English glosses
+- to answer (to an opponent's move)
+- to respond
+- to react
+** Ukrainian glosses
+*** uk-s-1329590-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відповідати
+- qualifier :: на хід суперника
+*** uk-s-1329590-013-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: реагувати

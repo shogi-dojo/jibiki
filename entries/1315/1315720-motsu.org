@@ -4,7 +4,7 @@
 #+PRIMARY_READING: もつ
 #+ROMAJI: motsu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -60,7 +60,7 @@
 *** note-s-1315720-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 持つ (motsu) має два основні значення: 'тримати в руках / нести' та 'мати / володіти' чимось (наприклад, грошима, автомобілем). Форма ている (motte iru) зазвичай означає 'мати / володіти'.
+- UK :: Дієслово 持つ (motsu) є багатозначним. У прямому значенні це «тримати (в руках)» або «нести» (наприклад, かばんを持つ — нести сумку). В переносному значенні, особливо у тривалій формі 持っている (motte iru), воно означає «мати», «володіти» (грошима, машиною, якостями).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -121,6 +121,18 @@
 - to have
 - to own
 ** Ukrainian glosses
+*** uk-s-1315720-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: володіти
+*** uk-s-1315720-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: мати
 
 * Sense s-1315720-003
 :PROPERTIES:
@@ -135,6 +147,18 @@
 - to maintain
 - to keep
 ** Ukrainian glosses
+*** uk-s-1315720-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: підтримувати
+*** uk-s-1315720-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зберігати
 
 * Sense s-1315720-004
 :PROPERTIES:
@@ -151,6 +175,30 @@
 - to keep
 - to survive
 ** Ukrainian glosses
+*** uk-s-1315720-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тривати
+*** uk-s-1315720-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути довговічним
+*** uk-s-1315720-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зберігатися
+*** uk-s-1315720-004-004
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: виживати
 
 * Sense s-1315720-005
 :PROPERTIES:
@@ -165,6 +213,18 @@
 - to take charge of
 - to be in charge of
 ** Ukrainian glosses
+*** uk-s-1315720-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: брати на себе відповідальність
+*** uk-s-1315720-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: відповідати (за щось)
 
 * Sense s-1315720-006
 :PROPERTIES:
@@ -179,6 +239,20 @@
 - to hold (meeting, etc.)
 - to have (opportunity, etc.)
 ** Ukrainian glosses
+*** uk-s-1315720-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: проводити
+- qualifier :: зустріч тощо
+*** uk-s-1315720-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: мати
+- qualifier :: можливість тощо
 
 * Sense s-1315720-007
 :PROPERTIES:
@@ -199,4 +273,15 @@
 - to have that special something
 - to be blessed with good luck
 ** Ukrainian glosses
-
+*** uk-s-1315720-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: мати щось особливе
+*** uk-s-1315720-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бути наділеним удачею

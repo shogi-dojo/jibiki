@@ -4,7 +4,7 @@
 #+PRIMARY_READING: それでは
 #+ROMAJI: soredewa
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -73,7 +73,13 @@
 *** note-s-1406050-001-001
 :PROPERTIES:
 :END:
-- UK :: Вираз «sore dewa» використовується на початку речення для переходу до нової теми, підбиття підсумків або прощання (часто скорочується до «sore ja» або «de wa»).
+- UK :: Вираз それでは використовується на початку речення для переходу до нової теми, підбиття підсумків або прощання.
+- LEVEL :: beginner
+- REGISTER :: neutral
+*** note-s-1406050-001-002
+:PROPERTIES:
+:END:
+- UK :: Це доволі формальний вираз. У розмовному мовленні він часто скорочується до それじゃ (sore ja), では (de wa) або じゃ (ja).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -86,7 +92,7 @@
 :ROMAJI: Sore dewa, hajimemashou.
 :END:
 - JA :: それでは、始めましょう。
-- READING :: それでは、 始[はじ]めましょう。
+- READING :: それでは、 はじめましょう。
 - ROMAJI :: Sore dewa, hajimemashou.
 - UK :: Ну що ж, почнемо.
 - EN :: Well then, let's begin.
@@ -100,7 +106,7 @@
 :ROMAJI: Sore dewa, mata ashita.
 :END:
 - JA :: それでは、また明日。
-- READING :: それでは、また 明日[あした]。
+- READING :: それでは、また あした。
 - ROMAJI :: Sore dewa, mata ashita.
 - UK :: Ну що ж, до завтра.
 - EN :: Well then, see you tomorrow.
@@ -114,7 +120,7 @@
 :ROMAJI: Ame ga futte imasu ka. Sore dewa, kasa o motte ikimasu.
 :END:
 - JA :: 雨が降っていますか。それでは、傘を持っていきます。
-- READING :: 雨[あめ]が 降[ふ]っていますか。それでは、 傘[かさ]を 持[も]っていきます。
+- READING :: あめが ふっていますか。それでは、 かさを もっていきます。
 - ROMAJI :: Ame ga futte imasu ka. Sore dewa, kasa o motte ikimasu.
 - UK :: Йде дощ? У такому разі я візьму парасолю.
 - EN :: Is it raining? In that case, I will take an umbrella.
@@ -132,6 +138,18 @@
 - so
 - then
 ** Ukrainian glosses
+*** uk-s-1406050-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тож
+*** uk-s-1406050-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тоді
 
 * Sense s-1406050-003
 :PROPERTIES:
@@ -146,6 +164,18 @@
 - if that is the case
 - in that case
 ** Ukrainian glosses
+*** uk-s-1406050-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: у такому випадку
+*** uk-s-1406050-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: якщо так
 
 * Sense s-1406050-004
 :PROPERTIES:
@@ -158,4 +188,15 @@
 ** English glosses
 - bye then
 ** Ukrainian glosses
-
+*** uk-s-1406050-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: тоді бувай
+*** uk-s-1406050-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бувай

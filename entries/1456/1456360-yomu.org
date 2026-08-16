@@ -4,7 +4,7 @@
 #+PRIMARY_READING: よむ
 #+ROMAJI: yomu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -70,7 +70,7 @@
 *** note-s-1456360-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 読む (yomu) означає «читати». Це одне з найбільш базових слів, яке використовується щодо книг, газет, журналів і навіть електронних повідомлень.
+- UK :: Дієслово 読む (yomu) означає «читати». Воно використовується щодо будь-яких текстів: книг (本), газет (新聞), журналів (雑誌), а також електронних повідомлень чи листів.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -130,6 +130,14 @@
 - to recite (e.g. a sutra)
 - to chant
 ** Ukrainian glosses
+*** uk-s-1456360-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: читати вголос
+- text :: декламувати
+- text :: наспівувати
 
 * Sense s-1456360-003
 :PROPERTIES:
@@ -148,6 +156,14 @@
 - to see (e.g. into someone's heart)
 - to divine
 ** Ukrainian glosses
+*** uk-s-1456360-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: передбачати
+- text :: вгадувати
+- text :: читати (чиїсь думки)
 
 * Sense s-1456360-004
 :PROPERTIES:
@@ -162,6 +178,13 @@
 - to pronounce
 - to read (e.g. a kanji)
 ** Ukrainian glosses
+*** uk-s-1456360-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вимовляти
+- text :: читати (напр., ієрогліф)
 
 * Sense s-1456360-005
 :PROPERTIES:
@@ -177,6 +200,14 @@
 - to read (a meter, graph, music, etc.)
 - to tell (the time)
 ** Ukrainian glosses
+*** uk-s-1456360-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розшифровувати
+- text :: зчитувати (показники, ноти тощо)
+- text :: визначати (час)
 
 * Sense s-1456360-006
 :PROPERTIES:
@@ -195,6 +226,13 @@
 - to count
 - to estimate
 ** Ukrainian glosses
+*** uk-s-1456360-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: рахувати
+- text :: оцінювати
 
 * Sense s-1456360-007
 :PROPERTIES:
@@ -210,4 +248,9 @@
 ** English glosses
 - to read (a kanji) with its native Japanese reading
 ** Ukrainian glosses
-
+*** uk-s-1456360-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: читати (ієрогліф) японським читанням

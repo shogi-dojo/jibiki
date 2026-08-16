@@ -4,7 +4,7 @@
 #+PRIMARY_READING: は
 #+ROMAJI: ha
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -64,7 +64,7 @@
 *** note-s-1313000-001-001
 :PROPERTIES:
 :END:
-- UK :: Означає «зуб».
+- UK :: Іменник «歯» (ha) означає «зуб» або «зуби» (японська мова не має граматичної категорії числа). Часто використовується у сталих виразах, таких як «歯を磨く» (ha o migaku — чистити зуби) або «歯が痛い» (ha ga itai — болить зуб).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -123,6 +123,19 @@
 - tooth (of a comb, saw, etc.)
 - cog
 ** Ukrainian glosses
+*** uk-s-1313000-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зубець
+- qualifier :: гребінця, пилки тощо
+*** uk-s-1313000-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зубець шестірні
 
 * Sense s-1313000-003
 :PROPERTIES:
@@ -135,4 +148,10 @@
 ** English glosses
 - support (of a geta)
 ** Ukrainian glosses
-
+*** uk-s-1313000-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: опора
+- qualifier :: дерев'яних сандалів гета

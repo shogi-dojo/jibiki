@@ -53,14 +53,16 @@ namespace :sources do
 
   desc 'Create a combined JMdict/Warodai dossier: rake "sources:word[青,あお]"'
   task :word, %i[written reading] do |_task, args|
-    sh RUBY, 'scripts/extract_word.rb', '--written', args.fetch(:written), '--reading', args.fetch(:reading)
+    written = args.fetch(:written)
+    reading = args[:reading] || written
+    sh RUBY, 'scripts/extract_word.rb', '--written', written, '--reading', reading
   end
 
   desc 'Create an ignored source dossier from one N5 row: rake "sources:n5[2]"'
   task :n5, [:source_order] do |_task, args|
     abort 'Provide an N5 source_order.' unless args[:source_order]
 
-    sh RUBY, 'scripts/extract_word.rb', '--source-order', args[:source_order]
+    sh RUBY, 'scripts/extract_word.rb', '--level', 'n5', '--source-order', args[:source_order]
   end
 
   desc 'Create dossiers for a range of N5 rows in one pass: rake "sources:n5_batch[103,125]"'
@@ -68,6 +70,20 @@ namespace :sources do
     abort 'Provide from and to N5 source_orders.' unless args[:from] && args[:to]
 
     sh RUBY, 'scripts/extract_n5_batch.rb', '--from', args[:from], '--to', args[:to]
+  end
+
+  desc 'Create an ignored source dossier from one N4 row: rake "sources:n4[2]"'
+  task :n4, [:source_order] do |_task, args|
+    abort 'Provide an N4 source_order.' unless args[:source_order]
+
+    sh RUBY, 'scripts/extract_word.rb', '--level', 'n4', '--source-order', args[:source_order]
+  end
+
+  desc 'Create dossiers for a range of N4 rows in one pass: rake "sources:n4_batch[1,20]"'
+  task :n4_batch, %i[from to] do |_task, args|
+    abort 'Provide from and to N4 source_orders.' unless args[:from] && args[:to]
+
+    sh RUBY, 'scripts/extract_n4_batch.rb', '--from', args[:from], '--to', args[:to]
   end
 end
 
@@ -90,11 +106,13 @@ namespace :entries do
     sh RUBY, 'scripts/migrate_schema_v2.rb', *paths
   end
 
-  desc 'Scaffold a complete v2 entry from one N5 queue row: rake "entries:scaffold[299,juu]"'
-  task :scaffold, %i[source_order romaji] do |_task, args|
+  desc 'Scaffold a complete v2 entry from an N5/N4 queue row: rake "entries:scaffold[299,juu,n5]"'
+  task :scaffold, %i[source_order romaji level] do |_task, args|
     abort 'Provide source_order and romaji.' unless args[:source_order] && args[:romaji]
+    args.with_defaults(level: 'n5')
+    abort 'Level must be n5 or n4.' unless %w[n5 n4].include?(args[:level])
 
-    sh RUBY, 'scripts/scaffold_entry.rb', '--source-order', args[:source_order], '--romaji', args[:romaji]
+    sh RUBY, 'scripts/scaffold_entry.rb', '--level', args[:level], '--source-order', args[:source_order], '--romaji', args[:romaji]
   end
 end
 
@@ -133,10 +151,29 @@ namespace :export do
   end
 end
 
+desc 'Score corpus health and check for editorial defects across all entries'
+task :doctor do
+  sh RUBY, 'scripts/doctor.rb'
+end
+
+namespace :doctor do
+  desc 'Score health and show verbose findings for one entry: rake "doctor:entry[entries/1464/1464530-nihongo.org]"'
+  task :entry, [:path] do |_task, args|
+    abort 'Provide an entry path: rake "doctor:entry[entries/1464/1464530-nihongo.org]"' unless args[:path]
+    sh RUBY, 'scripts/doctor.rb', args[:path]
+  end
+
+  desc 'Generate HTML doctor report: rake "doctor:report[build/doctor_report.html]"'
+  task :report, [:output] do |_task, args|
+    args.with_defaults(output: 'build/doctor_report.html')
+    sh(RUBY, 'scripts/doctor.rb', '--report', args[:output]) { |_ok, _res| true }
+  end
+end
+
 Rake::TestTask.new(:test) do |task|
   task.libs << 'test'
   task.pattern = 'test/**/*_test.rb'
 end
 
 desc 'Test extractors, validate entries, and Org-lint dictionary files'
-task default: [:test, 'entries:validate', 'org:lint']
+task default: [:test, 'entries:validate', 'org:lint', :doctor]

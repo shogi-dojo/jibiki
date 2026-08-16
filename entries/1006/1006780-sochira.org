@@ -4,7 +4,7 @@
 #+PRIMARY_READING: そちら
 #+ROMAJI: sochira
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -81,7 +81,7 @@
 *** note-s-1006780-001-001
 :PROPERTIES:
 :END:
-- UK :: Там (у вашому напрямку), ввічливий еквівалент そこ або あなた.
+- UK :: Вказівний займенник напрямку そちら (sochira) означає «туди» або «в тому напрямку» (ближче до співрозмовника). Використовується як більш ввічливий еквівалент до そっち або そこ.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -143,6 +143,10 @@
 ** English glosses
 - there
 ** Ukrainian glosses
+*** uk-s-1006780-002-001
+:PROPERTIES:
+:END:
+- text :: там
 
 * Sense s-1006780-003
 :PROPERTIES:
@@ -159,6 +163,14 @@
 ** English glosses
 - that (one)
 ** Ukrainian glosses
+*** uk-s-1006780-003-001
+:PROPERTIES:
+:END:
+- text :: той
+*** uk-s-1006780-003-002
+:PROPERTIES:
+:END:
+- text :: те
 
 * Sense s-1006780-004
 :PROPERTIES:
@@ -177,6 +189,25 @@
 - your family
 - your company
 ** Ukrainian glosses
+*** uk-s-1006780-004-001
+:PROPERTIES:
+:END:
+- text :: ви
+*** uk-s-1006780-004-002
+:PROPERTIES:
+:END:
+- text :: ваша сім'я
+*** uk-s-1006780-004-003
+:PROPERTIES:
+:END:
+- text :: ваша компанія
+** Learner notes
+*** note-s-1006780-004-001
+:PROPERTIES:
+:END:
+- UK :: Ввічливий займенник другої особи (ви, ваша сім'я, ваша компанія). Часто використовується в бізнес-спілкуванні для вказівки на співрозмовника або його організацію.
+- LEVEL :: intermediate
+- REGISTER :: polite
 
 * Sense s-1006780-005
 :PROPERTIES:
@@ -193,4 +224,7 @@
 ** English glosses
 - that person
 ** Ukrainian glosses
-
+*** uk-s-1006780-005-001
+:PROPERTIES:
+:END:
+- text :: та людина

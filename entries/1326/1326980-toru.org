@@ -4,7 +4,7 @@
 #+PRIMARY_READING: とる
 #+ROMAJI: toru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -108,6 +108,18 @@
 - UK :: Він узяв яблуко зі столу.
 - EN :: He took an apple from the desk.
 - FOCUS :: 取りました
+*** uk-s-1326980-001-002
+:PROPERTIES:
+:END:
+- text :: схоплювати
+*** uk-s-1326980-001-003
+:PROPERTIES:
+:END:
+- text :: ловити
+*** uk-s-1326980-001-004
+:PROPERTIES:
+:END:
+- text :: тримати
 
 * Sense s-1326980-002
 :PROPERTIES:
@@ -123,6 +135,15 @@
 - to hand
 - to give
 ** Ukrainian glosses
+*** uk-s-1326980-002-001
+:PROPERTIES:
+:END:
+- text :: передавати
+*** uk-s-1326980-002-002
+:PROPERTIES:
+:END:
+- text :: подавати
+- qualifier :: щось комусь
 
 * Sense s-1326980-003
 :PROPERTIES:
@@ -150,6 +171,19 @@
 :REVIEWED_AT:
 :END:
 - text :: отримувати
+*** uk-s-1326980-003-002
+:PROPERTIES:
+:END:
+- text :: здобувати
+*** uk-s-1326980-003-003
+:PROPERTIES:
+:END:
+- text :: набувати
+*** uk-s-1326980-003-004
+:PROPERTIES:
+:END:
+- text :: брати
+- qualifier :: напр. відпустку
 
 * Sense s-1326980-004
 :PROPERTIES:
@@ -165,6 +199,15 @@
 - to take (a measure, attitude, etc.)
 - to choose
 ** Ukrainian glosses
+*** uk-s-1326980-004-001
+:PROPERTIES:
+:END:
+- text :: приймати
+- qualifier :: метод, пропозицію тощо
+*** uk-s-1326980-004-002
+:PROPERTIES:
+:END:
+- text :: обирати
 
 * Sense s-1326980-005
 :PROPERTIES:
@@ -180,6 +223,19 @@
 - to get rid of
 - to take off
 ** Ukrainian glosses
+*** uk-s-1326980-005-001
+:PROPERTIES:
+:END:
+- text :: прибирати
+*** uk-s-1326980-005-002
+:PROPERTIES:
+:END:
+- text :: позбавлятися
+*** uk-s-1326980-005-003
+:PROPERTIES:
+:END:
+- text :: знімати
+- qualifier :: капелюх, окуляри тощо
 
 * Sense s-1326980-006
 :PROPERTIES:
@@ -195,6 +251,18 @@
 - to steal
 - to rob
 ** Ukrainian glosses
+*** uk-s-1326980-006-001
+:PROPERTIES:
+:END:
+- text :: забирати
+*** uk-s-1326980-006-002
+:PROPERTIES:
+:END:
+- text :: красти
+*** uk-s-1326980-006-003
+:PROPERTIES:
+:END:
+- text :: грабувати
 
 * Sense s-1326980-007
 :PROPERTIES:
@@ -212,6 +280,15 @@
 - to have (e.g. lunch)
 - to take (e.g. vitamins)
 ** Ukrainian glosses
+*** uk-s-1326980-007-001
+:PROPERTIES:
+:END:
+- text :: їсти
+*** uk-s-1326980-007-002
+:PROPERTIES:
+:END:
+- text :: приймати
+- qualifier :: вітаміни тощо
 
 * Sense s-1326980-008
 :PROPERTIES:
@@ -229,6 +306,21 @@
 - to catch (e.g. fish)
 - to harvest (a crop)
 ** Ukrainian glosses
+*** uk-s-1326980-008-001
+:PROPERTIES:
+:END:
+- text :: збирати
+- qualifier :: квіти, врожай
+*** uk-s-1326980-008-002
+:PROPERTIES:
+:END:
+- text :: вичавлювати
+- qualifier :: сік
+*** uk-s-1326980-008-003
+:PROPERTIES:
+:END:
+- text :: ловити
+- qualifier :: рибу
 
 * Sense s-1326980-009
 :PROPERTIES:
@@ -245,6 +337,19 @@
 - to spare
 - to set aside
 ** Ukrainian glosses
+*** uk-s-1326980-009-001
+:PROPERTIES:
+:END:
+- text :: займати
+- qualifier :: час, місце
+*** uk-s-1326980-009-002
+:PROPERTIES:
+:END:
+- text :: приділяти
+*** uk-s-1326980-009-003
+:PROPERTIES:
+:END:
+- text :: виділяти
 
 * Sense s-1326980-010
 :PROPERTIES:
@@ -262,6 +367,18 @@
 - to put aside
 - to keep
 ** Ukrainian glosses
+*** uk-s-1326980-010-001
+:PROPERTIES:
+:END:
+- text :: бронювати
+*** uk-s-1326980-010-002
+:PROPERTIES:
+:END:
+- text :: зберігати
+*** uk-s-1326980-010-003
+:PROPERTIES:
+:END:
+- text :: відкладати
 
 * Sense s-1326980-011
 :PROPERTIES:
@@ -279,6 +396,19 @@
 - to make out
 - to grasp
 ** Ukrainian glosses
+*** uk-s-1326980-011-001
+:PROPERTIES:
+:END:
+- text :: розуміти
+- qualifier :: напр. жарт
+*** uk-s-1326980-011-002
+:PROPERTIES:
+:END:
+- text :: тлумачити
+*** uk-s-1326980-011-003
+:PROPERTIES:
+:END:
+- text :: осягати
 
 * Sense s-1326980-012
 :PROPERTIES:
@@ -293,6 +423,14 @@
 - to record
 - to take down
 ** Ukrainian glosses
+*** uk-s-1326980-012-001
+:PROPERTIES:
+:END:
+- text :: записувати
+*** uk-s-1326980-012-002
+:PROPERTIES:
+:END:
+- text :: фіксувати
 
 * Sense s-1326980-013
 :PROPERTIES:
@@ -309,6 +447,15 @@
 - to buy
 - to get
 ** Ukrainian glosses
+*** uk-s-1326980-013-001
+:PROPERTIES:
+:END:
+- text :: передплачувати
+- qualifier :: газету тощо
+*** uk-s-1326980-013-002
+:PROPERTIES:
+:END:
+- text :: купувати
 
 * Sense s-1326980-014
 :PROPERTIES:
@@ -323,6 +470,11 @@
 - to order
 - to have delivered
 ** Ukrainian glosses
+*** uk-s-1326980-014-001
+:PROPERTIES:
+:END:
+- text :: замовляти
+- qualifier :: доставку тощо
 
 * Sense s-1326980-015
 :PROPERTIES:
@@ -338,6 +490,11 @@
 - to fine
 - to take (tax)
 ** Ukrainian glosses
+*** uk-s-1326980-015-001
+:PROPERTIES:
+:END:
+- text :: стягувати
+- qualifier :: плату, штраф, податок
 
 * Sense s-1326980-016
 :PROPERTIES:
@@ -354,6 +511,19 @@
 - to adopt
 - to accept
 ** Ukrainian glosses
+*** uk-s-1326980-016-001
+:PROPERTIES:
+:END:
+- text :: брати
+- qualifier :: дружину, учня тощо
+*** uk-s-1326980-016-002
+:PROPERTIES:
+:END:
+- text :: усиновлювати
+*** uk-s-1326980-016-003
+:PROPERTIES:
+:END:
+- text :: приймати
 
 * Sense s-1326980-017
 :PROPERTIES:
@@ -368,6 +538,15 @@
 - to take control of
 - to take (the rudder)
 ** Ukrainian glosses
+*** uk-s-1326980-017-001
+:PROPERTIES:
+:END:
+- text :: брати контроль
+*** uk-s-1326980-017-002
+:PROPERTIES:
+:END:
+- text :: ставати до
+- qualifier :: керма тощо
 
 * Sense s-1326980-018
 :PROPERTIES:
@@ -382,4 +561,13 @@
 - to compete (in sumo, cards, etc.)
 - to play
 ** Ukrainian glosses
+*** uk-s-1326980-018-001
+:PROPERTIES:
+:END:
+- text :: змагатися
+*** uk-s-1326980-018-002
+:PROPERTIES:
+:END:
+- text :: грати
+- qualifier :: в карти, сумо тощо
 

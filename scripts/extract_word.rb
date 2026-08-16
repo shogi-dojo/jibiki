@@ -3,12 +3,16 @@
 
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/dictionary_sources/n5_queue'
+require_relative '../lib/dictionary_sources/n4_queue'
 require_relative '../lib/dictionary_sources/warodai'
 require_relative 'source_cli'
 
-options = {}
+options = { level: 'n5' }
 parser = SourceCLI.common_parser(options, banner: 'Usage: extract_word.rb [options]') do |cli|
-  cli.on('--source-order NUMBER', Integer, 'Load written form and reading from the N5 queue') do |value|
+  cli.on('--level LEVEL', %w[n5 n4], 'Queue level (n5 or n4, default: n5)') do |value|
+    options[:level] = value
+  end
+  cli.on('--source-order NUMBER', Integer, 'Load written form and reading from the candidate queue') do |value|
     options[:source_order] = value
   end
   cli.on('--jmdict-id ENT_SEQ', 'Restrict JMdict to one ent_seq') { |value| options[:ent_seq] = value }
@@ -18,10 +22,13 @@ parser.parse!
 
 SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH, SourceCLI::WARODAI_PATH)
 
+level = options.fetch(:level)
 queue_record = nil
 if options[:source_order]
-  SourceCLI.ensure_exists!(SourceCLI::N5_PATH)
-  queue_record = DictionarySources::N5Queue.new(SourceCLI::N5_PATH).fetch(options[:source_order])
+  queue_path = level == 'n4' ? SourceCLI::N4_PATH : SourceCLI::N5_PATH
+  SourceCLI.ensure_exists!(queue_path)
+  queue = level == 'n4' ? DictionarySources::N4Queue.new(queue_path) : DictionarySources::N5Queue.new(queue_path)
+  queue_record = queue.fetch(options[:source_order])
   options[:written] ||= queue_record.fetch(:written)
   options[:reading] ||= queue_record.fetch(:reading)
 end
@@ -51,12 +58,12 @@ warodai_matches = warodai.lookup(
 )
 
 if options[:output].nil? && options[:source_order]
-  options[:output] = format('tmp/source-extracts/n5-%06d.json', options[:source_order])
+  options[:output] = format("tmp/source-extracts/#{level}-%06d.json", options[:source_order])
 end
 
 result = {
-  query: options.slice(:source_order, :written, :reading, :ent_seq, :card_id),
-  n5_candidate: queue_record,
+  query: options.slice(:source_order, :written, :reading, :ent_seq, :card_id, :level),
+  "#{level}_candidate".to_sym => queue_record,
   jmdict: {
     source_path: SourceCLI.relative_path(jmdict.path),
     source_sha256: jmdict.archive_sha256,
@@ -74,5 +81,5 @@ result = {
 SourceCLI.write_json(result, options[:output])
 
 if options[:source_order] && jmdict_matches.length != 1
-  abort "N5 source_order #{options[:source_order]} resolved to #{jmdict_matches.length} JMdict entries; inspect the dossier and reconcile explicitly."
+  abort "#{level.upcase} source_order #{options[:source_order]} resolved to #{jmdict_matches.length} JMdict entries; inspect the dossier and reconcile explicitly."
 end

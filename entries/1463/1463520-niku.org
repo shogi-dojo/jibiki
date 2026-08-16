@@ -4,7 +4,7 @@
 #+PRIMARY_READING: にく
 #+ROMAJI: niku
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -89,20 +89,21 @@
 - UK :: Я купив свинину в супермаркеті.
 - EN :: I bought pork at the supermarket.
 - FOCUS ::
+
 *** ex-1463520-001-003
 :PROPERTIES:
 :SOURCE_ID:
 :SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
-:ROMAJI: Kono kudamono wa kawa ga atsuku, naka no niku ga sukunai.
+:ROMAJI: Kono mise no niku wa yawarakakute oishii desu.
 :END:
-- JA :: この果物は皮が厚く、中の肉が少ない。
-- READING ::
-- ROMAJI :: Kono kudamono wa kawa ga atsuku, naka no niku ga sukunai.
-- UK :: У цього фрукта товста шкірка і мало м'якоті всередині.
-- EN :: This fruit has thick skin and little pulp inside.
-- FOCUS ::
+- JA :: この店の肉は柔らかくておいしいです。
+- READING :: このみせのにくはやわらかくておいしいです。
+- ROMAJI :: Kono mise no niku wa yawarakakute oishii desu.
+- UK :: М'ясо в цьому закладі м'яке й смачне.
+- EN :: The meat at this restaurant is tender and delicious.
+- FOCUS :: 肉
 
 * Sense s-1463520-002
 :PROPERTIES:
@@ -144,6 +145,21 @@
 :REVIEWED_AT:
 :END:
 - text :: м'якоть (фрукта)
+** Examples
+*** ex-1463520-003-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Kono kudamono wa kawa ga atsuku, naka no niku ga sukunai.
+:END:
+- JA :: この果物は皮が厚く、中の肉が少ない。
+- READING ::
+- ROMAJI :: Kono kudamono wa kawa ga atsuku, naka no niku ga sukunai.
+- UK :: У цього фрукта товста шкірка і мало м'якоті всередині.
+- EN :: This fruit has thick skin and little pulp inside.
+- FOCUS ::
 
 * Sense s-1463520-004
 :PROPERTIES:
@@ -157,6 +173,14 @@
 - the physical body (as opposed to the spirit)
 - flesh
 ** Ukrainian glosses
+*** uk-s-1463520-004-001
+:PROPERTIES:
+:END:
+- text :: фізичне тіло (на противагу духу)
+*** uk-s-1463520-004-002
+:PROPERTIES:
+:END:
+- text :: плоть
 
 * Sense s-1463520-005
 :PROPERTIES:
@@ -169,6 +193,10 @@
 ** English glosses
 - thickness
 ** Ukrainian glosses
+*** uk-s-1463520-005-001
+:PROPERTIES:
+:END:
+- text :: товщина
 
 * Sense s-1463520-006
 :PROPERTIES:
@@ -183,6 +211,14 @@
 - substance
 - flesh
 ** Ukrainian glosses
+*** uk-s-1463520-006-001
+:PROPERTIES:
+:END:
+- text :: зміст
+*** uk-s-1463520-006-002
+:PROPERTIES:
+:END:
+- text :: суть
 
 * Sense s-1463520-007
 :PROPERTIES:
@@ -197,4 +233,7 @@
 ** English glosses
 - ink pad
 ** Ukrainian glosses
-
+*** uk-s-1463520-007-001
+:PROPERTIES:
+:END:
+- text :: штемпельна подушечка

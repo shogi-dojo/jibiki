@@ -4,7 +4,7 @@
 #+PRIMARY_READING: もう
 #+ROMAJI: mou
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -70,7 +70,7 @@
 *** note-s-1012480-001-001
 :PROPERTIES:
 :END:
-- UK :: もう (mō) може означати 'вже' або 'ще' залежно від контексту. Зі стверджувальним дієсловом воно означає 'вже', а в поєднанні з кількістю — 'ще' (наприклад, 'ще один').
+- UK :: Прислівник もう може означати «вже» або «ще» залежно від контексту. Зі стверджувальним дієсловом воно означає «вже» (подія відбулася), а в поєднанні з кількістю — «ще» (наприклад, もう一つ — «ще один»).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -111,7 +111,7 @@
 :ROMAJI: Basu wa mō shuppatsu shite shimatta node, tsugi no basu o machimashō.
 :END:
 - JA :: バスはもう出発してしまったので、次のバスを待ちましょう。
-- READING :: バス は もう しゅっぱつ して しまった ので、 つぎ の バス を まちましょう。
+- READING :: ばす は もう しゅっぱつ して しまった ので、 つぎ の ばす を まちましょう。
 - ROMAJI :: Basu wa mō shuppatsu shite shimatta node, tsugi no basu o machimashō.
 - UK :: Автобус вже поїхав, тому почекаймо на наступний.
 - EN :: The bus has already left, so let's wait for the next one.
@@ -131,6 +131,30 @@
 - before long
 - presently
 ** Ukrainian glosses
+*** uk-s-1012480-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: скоро
+*** uk-s-1012480-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: незабаром
+*** uk-s-1012480-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: невдовзі
 
 * Sense s-1012480-003
 :PROPERTIES:
@@ -147,6 +171,30 @@
 - another
 - the other
 ** Ukrainian glosses
+*** uk-s-1012480-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ще
+*** uk-s-1012480-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: знову
+*** uk-s-1012480-003-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: інший
 
 * Sense s-1012480-004
 :PROPERTIES:
@@ -167,4 +215,27 @@
 - damn
 - seriously
 ** Ukrainian glosses
-
+*** uk-s-1012480-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: о Боже
+*** uk-s-1012480-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дідько
+*** uk-s-1012480-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: та годі

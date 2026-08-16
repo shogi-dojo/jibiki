@@ -4,7 +4,7 @@
 #+PRIMARY_READING: とし
 #+ROMAJI: toshi
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -61,7 +61,7 @@
 *** note-s-1468060-001-001
 :PROPERTIES:
 :END:
-- UK :: Іменник 年 (とし) означає календарний рік або вік людини. Щоб сказати «стати старшим» або «постаріти», використовують вираз 年を取る (toshi o toru).
+- UK :: Іменник 年 (とし) означає рік (як проміжок часу) або вік. Для позначення віку часто використовується вираз 年を取る (としをとる — старішати, ставати старшим).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -74,7 +74,7 @@
 :ROMAJI: Yoi toshi ni narimasu you ni.
 :END:
 - JA :: 良い年になりますように。
-- READING :: 良(よ)い年(とし)になりますように。
+- READING :: よいとしになりますように。
 - ROMAJI :: Yoi toshi ni narimasu you ni.
 - UK :: Нехай це буде хороший рік.
 - EN :: I hope it will be a good year.
@@ -88,7 +88,7 @@
 :ROMAJI: Ano hito wa mada toshi ga wakai desu.
 :END:
 - JA :: あの人はまだ年が若いです。
-- READING :: あの人(ひと)はまだ年(とし)が若(わか)いです。
+- READING :: あのひとはまだとしがわかいです。
 - ROMAJI :: Ano hito wa mada toshi ga wakai desu.
 - UK :: Та людина ще молода за віком.
 - EN :: That person is still young in age.
@@ -102,7 +102,7 @@
 :ROMAJI: Rainen wa Nihon de ichiban atsui toshi ni naru kamo shiremasen.
 :END:
 - JA :: 来年は日本で一番暑い年になるかもしれません。
-- READING :: 来(らい)年(ねん)は日(に)本(ほん)で一(いち)番(ばん)暑(あつ)い年(とし)になるかもしれません。
+- READING :: らいねんはにほんでいちばんあついとしになるかもしれません。
 - ROMAJI :: Rainen wa Nihon de ichiban atsui toshi ni naru kamo shiremasen.
 - UK :: Наступний рік може стати найспекотнішим роком у Японії.
 - EN :: Next year might be the hottest year in Japan.
@@ -142,4 +142,19 @@
 - past one's prime
 - old age
 ** Ukrainian glosses
-
+*** uk-s-1468060-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похилий вік
+*** uk-s-1468060-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старість

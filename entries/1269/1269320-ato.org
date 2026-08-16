@@ -3,14 +3,14 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あと
 #+ROMAJI: ato
-#+ENTRY_STATUS: reviewed
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
 #+DEFAULT_SOURCE_TYPE: original
-#+DEFAULT_STATUS: reviewed
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1269320-001
@@ -79,9 +79,8 @@
 ** Learner notes
 *** note-s-1269320-001-001
 :PROPERTIES:
-:STATUS: draft
 :END:
-- UK :: Позаду, після, потім.
+- UK :: Позаду, після, потім. Вказує на розташування (позаду), а також на час (після, потім). Часто використовується у виразах на зразок 後で (пізніше).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -155,7 +154,7 @@
 :END:
 - JA :: 仕事の後で飲みに行きましょう。
 - READING :: しごとのあとでのみにいきましょう。
-- UK :: Давайте підемо випити після роботи.
+- UK :: Ходімо вип'ємо після роботи.
 - EN :: Let's go for a drink after work.
 - FOCUS :: 後
 
@@ -336,7 +335,7 @@
 :REVIEWER_ID: claude
 :REVIEWED_AT: 2026-07-17
 :END:
-- text :: після чиєїсь смерти
+- text :: після чиєїсь смерті
 ** Examples
 *** ex-1269320-007-001
 :PROPERTIES:
@@ -383,4 +382,3 @@
 - UK :: Забудьмо про минуле.
 - EN :: Let's forget about the past.
 - FOCUS :: 後の
-

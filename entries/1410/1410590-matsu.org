@@ -4,7 +4,7 @@
 #+PRIMARY_READING: まつ
 #+ROMAJI: matsu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -73,7 +73,7 @@
 *** note-s-1410590-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово «matsu» (待つ) означає «чекати». Одне з найчастіше вживаних дієслів, наприклад у проханні «chotto matte kudasai» (зачекайте трохи).
+- UK :: Дієслово 待つ (matsu) означає «чекати» або «очікувати». Це одне з базових дієслів, яке часто використовується у повсякденних проханнях, наприклад, ちょっと待ってください (chotto matte kudasai — зачекайте трохи, будь ласка). Належить до дієслів 1-ї дієвідміни (закінчення -tsu змінюється на -tte у те-формі).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -114,7 +114,7 @@
 :ROMAJI: Basu no touchaku o sanjuppun ijou matte iru ga, mada kuru kehai ga nai.
 :END:
 - JA :: バスの到着を三十分以上待っているが、まだ来る気配がない。
-- READING :: バスのとうちゃくをさんじゅっぷんいじょうまっているが、まだくるけはいがない。
+- READING :: ばすのとうちゃくをさんじゅっぷんいじょうまっているが、まだくるけはいがない。
 - ROMAJI :: Basu no touchaku o sanjuppun ijou matte iru ga, mada kuru kehai ga nai.
 - UK :: Я чекаю на автобус вже більше тридцяти хвилин, але немає жодних ознак того, що він приїде.
 - EN :: I've been waiting for the bus to arrive for over thirty minutes, but there is no sign of it coming.
@@ -135,6 +135,22 @@
 - to look forward to
 - to anticipate
 ** Ukrainian glosses
+*** uk-s-1410590-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: очікувати
+*** uk-s-1410590-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: з нетерпінням чекати
 
 * Sense s-1410590-003
 :PROPERTIES:
@@ -152,4 +168,19 @@
 - to depend on
 - to need
 ** Ukrainian glosses
-
+*** uk-s-1410590-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: залежати
+*** uk-s-1410590-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: потребувати

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ボタン
 #+ROMAJI: botan
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -74,7 +74,7 @@
 *** note-s-1123880-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово «botan» (ボタン) запозичене з португальської мови (botão). Використовується як для ґудзиків на одязі, так і для кнопок на приладах.
+- UK :: Слово «ботан» (ボタン) запозичене з португальської мови (botão). Використовується як для ґудзиків на одязі, так і для кнопок на приладах та в інтерфейсах.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -87,7 +87,7 @@
 :ROMAJI: Shatsu no botan ga toremashita.
 :END:
 - JA :: シャツのボタンが取れました。
-- READING :: シャツのボタンがとれました。
+- READING :: しゃつのぼたんがとれました。
 - ROMAJI :: Shatsu no botan ga toremashita.
 - UK :: Ґудзик від сорочки відірвався.
 - EN :: The button on my shirt came off.
@@ -101,7 +101,7 @@
 :ROMAJI: Kono botan o oshite kudasai.
 :END:
 - JA :: このボタンを押してください。
-- READING :: このボタンをおしてください。
+- READING :: このぼたんをおしてください。
 - ROMAJI :: Kono botan o oshite kudasai.
 - UK :: Натисніть на цю кнопку, будь ласка.
 - EN :: Please press this button.
@@ -115,7 +115,7 @@
 :ROMAJI: Erebeetaa no botan o osu no o wasurete ita tame, doa ga shimaranakatta.
 :END:
 - JA :: エレベーターのボタンを押すのを忘れていたため、ドアが閉まらなかった。
-- READING :: エレベーターのボタンをおすのをわすれていたため、ドアがしまらなかった。
+- READING :: えれべーたーのぼたんをおすのをわすれていたため、どあがしまらなかった。
 - ROMAJI :: Erebeetaa no botan o osu no o wasurete ita tame, doa ga shimaranakatta.
 - UK :: Через те, що я забув натиснути кнопку ліфта, двері не зачинилися.
 - EN :: Because I forgot to press the elevator button, the doors didn't close.
@@ -135,4 +135,19 @@
 - push-button
 - button
 ** Ukrainian glosses
-
+*** uk-s-1123880-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кнопка
+- qualifier :: натискна
+** Learner notes
+*** note-s-1123880-002-001
+:PROPERTIES:
+:END:
+- UK :: Використовується для позначення кнопок, які призначені для натискання (наприклад, кнопка ліфта, кнопка виклику).
+- LEVEL :: beginner
+- REGISTER :: neutral

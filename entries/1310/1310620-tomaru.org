@@ -4,7 +4,7 @@
 #+PRIMARY_READING: とまる
 #+ROMAJI: tomaru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -82,7 +82,7 @@
 *** note-s-1310620-001-001
 :PROPERTIES:
 :END:
-- UK :: Неперехідне дієслово «зупинятися».
+- UK :: 止まる (tomaru) — неперехідне дієслово, яке означає припинення руху (наприклад, машина зупинилася). Воно описує стан об'єкта, що сам зупинився. Якщо йдеться про дію зупинки чогось кимось, слід використовувати перехідне дієслово 止める (tomeru) — «зупиняти щось».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -95,7 +95,7 @@
 :ROMAJI: Basu ga tomarimashita.
 :END:
 - JA :: バスが止まりました。
-- READING :: バス が とまりました。
+- READING :: ばす が とまりました。
 - ROMAJI :: Basu ga tomarimashita.
 - UK :: Автобус зупинився.
 - EN :: The bus stopped.
@@ -145,6 +145,25 @@
 - to be stopped
 - to be suspended
 ** Ukrainian glosses
+*** uk-s-1310620-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: припинятися
+*** uk-s-1310620-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: зупинятися
+- qualifier :: робити, працювати, постачатися
+*** uk-s-1310620-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: перериватися
 
 * Sense s-1310620-003
 :PROPERTIES:
@@ -159,4 +178,10 @@
 - to alight
 - to perch on
 ** Ukrainian glosses
-
+*** uk-s-1310620-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: сідати
+- qualifier :: про птахів, комах тощо

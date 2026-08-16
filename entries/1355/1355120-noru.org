@@ -4,7 +4,7 @@
 #+PRIMARY_READING: のる
 #+ROMAJI: noru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -83,7 +83,7 @@
 *** note-s-1355120-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово «сідати» або «їхати» у транспорті. Використовується з часткою に (напр., 電車に乗る).
+- UK :: Неперехідне дієслово 1-ї групи. Означає «сідати в транспорт» або «їхати на транспорті». Вимагає після себе частку に (наприклад, 電車に乗る — сідати в поїзд), на відміну від дієслова 降りる (сходити з транспорту), яке використовується з часткою を.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -96,7 +96,7 @@
 :ROMAJI: Basu ni norimasu.
 :END:
 - JA :: バスに乗ります。
-- READING :: バスに のります。
+- READING :: ばすに のります。
 - ROMAJI :: Basu ni norimasu.
 - UK :: Я сідаю в автобус.
 - EN :: I get on the bus.
@@ -124,7 +124,7 @@
 :ROMAJI: Ano takushii ni noreba, jikan ni maniau kamo shiremasen.
 :END:
 - JA :: あのタクシーに乗れば、時間に間に合うかもしれません。
-- READING :: あの タクシーに のれば、じかんに まにあうかも しれません。
+- READING :: あの たくしーに のれば、じかんに まにあうかも しれません。
 - ROMAJI :: Ano takushii ni noreba, jikan ni maniau kamo shiremasen.
 - UK :: Якщо ми сядемо в те таксі, можливо, встигнемо вчасно.
 - EN :: If we get in that taxi, we might be in time.
@@ -148,6 +148,22 @@
 - to sit on
 - to mount
 ** Ukrainian glosses
+*** uk-s-1355120-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ставати (на щось)
+*** uk-s-1355120-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сідати (на щось)
 
 * Sense s-1355120-003
 :PROPERTIES:
@@ -163,6 +179,22 @@
 - to go over
 - to pass
 ** Ukrainian glosses
+*** uk-s-1355120-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: досягати
+*** uk-s-1355120-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перевершувати
 
 * Sense s-1355120-004
 :PROPERTIES:
@@ -178,6 +210,22 @@
 - to stay (on track)
 - to go with (the times, etc.)
 ** Ukrainian glosses
+*** uk-s-1355120-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: слідувати
+*** uk-s-1355120-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: йти в ногу (з часом)
 
 * Sense s-1355120-005
 :PROPERTIES:
@@ -193,6 +241,22 @@
 - to participate
 - to join
 ** Ukrainian glosses
+*** uk-s-1355120-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: брати участь
+*** uk-s-1355120-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приєднуватися
 
 * Sense s-1355120-006
 :PROPERTIES:
@@ -206,6 +270,22 @@
 ** English glosses
 - to get into the swing (and sing, dance, etc.)
 ** Ukrainian glosses
+*** uk-s-1355120-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: входити в ритм
+*** uk-s-1355120-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: захоплюватися
 
 * Sense s-1355120-007
 :PROPERTIES:
@@ -220,6 +300,22 @@
 - to be deceived
 - to be taken in
 ** Ukrainian glosses
+*** uk-s-1355120-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути обманутим
+*** uk-s-1355120-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: попастися (на гачок)
 
 * Sense s-1355120-008
 :PROPERTIES:
@@ -237,6 +333,22 @@
 - to be spread
 - to be scattered
 ** Ukrainian glosses
+*** uk-s-1355120-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розноситися
+*** uk-s-1355120-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поширюватися
 
 * Sense s-1355120-009
 :PROPERTIES:
@@ -255,4 +367,19 @@
 - to take
 - to go on
 ** Ukrainian glosses
-
+*** uk-s-1355120-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лягати (про фарбу)
+*** uk-s-1355120-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приставати

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: あく
 #+ROMAJI: aku
 #+ENTRY_STATUS: reviewed
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: codex-agent-8
@@ -91,7 +91,7 @@
 :REGISTER: neutral
 :END:
 - JA :: ドアが開きます。
-- READING :: ドアがあきます。
+- READING :: どあがあきます。
 - UK :: Двері відчиняються.
 - EN :: The door opens.
 - FOCUS :: 開き
@@ -115,7 +115,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 風でドアが開きました。
-- READING :: かぜでドアがあきました。
+- READING :: かぜでどあがあきました。
 - UK :: Двері відчинилися від вітру.
 - EN :: The door opened because of the wind.
 - FOCUS :: 開きました
@@ -187,7 +187,7 @@
 :REGISTER: neutral
 :END:
 - JA :: コップが空きました。
-- READING :: コップがあきました。
+- READING :: こっぷがあきました。
 - UK :: Склянка спорожніла.
 - EN :: The glass is empty now.
 - FOCUS :: 空きました
@@ -211,7 +211,7 @@
 :REGISTER: neutral
 :END:
 - JA :: コップが空いたら、お茶を入れましょう。
-- READING :: コップがあいたら、おちゃをいれましょう。
+- READING :: こっぷがあいたら、おちゃをいれましょう。
 - UK :: Коли склянка спорожніє, наллю чаю.
 - EN :: When your glass is empty, I will pour some tea.
 - FOCUS :: 空いたら
@@ -504,4 +504,3 @@
 - UK :: На шкарпетці утворився отвір.
 - EN :: A hole formed in the sock.
 - FOCUS :: 空きました
-

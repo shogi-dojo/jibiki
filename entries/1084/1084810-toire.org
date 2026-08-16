@@ -4,7 +4,7 @@
 #+PRIMARY_READING: トイレ
 #+ROMAJI: toire
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -63,7 +63,7 @@
 *** note-s-1084810-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово トイレ (toire) походить від англійського "toilet". Воно є найбільш звичним та ввічливим способом спитати про вбиральню. Ще один ввічливий варіант — お手洗い (otearai).
+- UK :: Слово トイレ (toire) походить від англійського «toilet». Воно є найбільш звичним та повсякденним способом сказати «туалет». Більш формальний і ввічливий варіант, який часто використовується в громадських місцях або в гостях — お手洗い (otearai).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -76,7 +76,7 @@
 :ROMAJI: Toire wa doko desu ka.
 :END:
 - JA :: トイレはどこですか。
-- READING :: トイレはどこですか。
+- READING :: といれはどこですか。
 - ROMAJI :: Toire wa doko desu ka.
 - UK :: Де знаходиться туалет?
 - EN :: Where is the toilet?
@@ -90,7 +90,7 @@
 :ROMAJI: Toire ni ikitai desu.
 :END:
 - JA :: トイレに行きたいです。
-- READING :: トイレに行(い)きたいです。
+- READING :: といれにいきたいです。
 - ROMAJI :: Toire ni ikitai desu.
 - UK :: Я хочу піти в туалет.
 - EN :: I want to go to the bathroom.
@@ -104,7 +104,7 @@
 :ROMAJI: Kono tatemono no ikkai ni hiroi toire ga arimasu.
 :END:
 - JA :: この建物の１階に広いトイレがあります。
-- READING :: この建(たて)物(もの)の１(いっ)階(かい)に広(ひろ)いトイレがあります。
+- READING :: このたてもののいっかいにひろいといれがあります。
 - ROMAJI :: Kono tatemono no ikkai ni hiroi toire ga arimasu.
 - UK :: На першому поверсі цієї будівлі є просторий туалет.
 - EN :: There is a spacious restroom on the first floor of this building.
@@ -122,4 +122,19 @@
 - going to the toilet
 - relieving oneself
 ** Ukrainian glosses
-
+*** uk-s-1084810-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похід у туалет
+*** uk-s-1084810-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: справляння нужди

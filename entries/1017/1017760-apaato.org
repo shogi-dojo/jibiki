@@ -3,14 +3,14 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: アパート
 #+ROMAJI: apaato
-#+ENTRY_STATUS: reviewed
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
 #+DEFAULT_SOURCE_TYPE: original
-#+DEFAULT_STATUS: reviewed
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Reading rd-1017760-001
@@ -56,9 +56,8 @@
 ** Learner notes
 *** note-s-1017760-001-001
 :PROPERTIES:
-:STATUS: draft
 :END:
-- UK :: Загальна назва для багатоквартирного будинку, зазвичай невеликого (до двох-трьох поверхів), або квартири в ньому. Походить від англійського "apartment".
+- UK :: Загальна назва для невеликого багатоквартирного будинку (зазвичай дво- або триповерхового, часто з дерева або легких конструкцій). Відрізняється від マンション (мансьон) — більш масивних багатоквартирних будинків. Походить від англійського «apartment».
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -68,7 +67,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 新しいアパートを探しています。
-- READING :: あたらしいアパートをさがしています。
+- READING :: あたらしいあぱーとをさがしています。
 - UK :: Я шукаю нову квартиру.
 - EN :: I am looking for a new apartment.
 - FOCUS :: アパートを
@@ -78,7 +77,7 @@
 :REGISTER: neutral
 :END:
 - JA :: アパートは駅から近いです。
-- READING :: アパートはえきからちかいです。
+- READING :: あぱーとはえきからちかいです。
 - UK :: Квартира знаходиться близько до станції.
 - EN :: The apartment is close to the station.
 - FOCUS :: アパートは
@@ -88,7 +87,7 @@
 :REGISTER: neutral
 :END:
 - JA :: 友達のアパートでパーティーをしました。
-- READING :: ともだちのアパートでパーティーをしました。
+- READING :: ともだちのあぱーとでぱーてぃーをしました。
 - UK :: Ми влаштували вечірку у квартирі друга.
 - EN :: We had a party at my friend's apartment.
 - FOCUS :: アパートで
@@ -123,8 +122,7 @@
 :REGISTER: neutral
 :END:
 - JA :: アパートに住む。
-- READING :: アパートにすむ。
+- READING :: あぱーとにすむ。
 - UK :: Жити у квартирі.
 - EN :: To live in an apartment.
 - FOCUS :: アパート
-

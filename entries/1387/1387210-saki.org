@@ -88,20 +88,11 @@
 *** note-s-1387210-001-001
 :PROPERTIES:
 :END:
-- UK :: Попереду, раніше, кінчик.
+- UK :: Кінчик, вістря, самий край (наприклад, олівця, голки, нитки або іншого довгого предмета).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
-*** ex-1387210-001-001
-:PROPERTIES:
-:LEVEL: beginner
-:REGISTER: neutral
-:END:
-- JA :: お先に失礼します。
-- READING :: おさきにしつれいします。
-- UK :: Вибачте, я піду першим.
-- EN :: Excuse me for leaving before you.
-- FOCUS :: 先に
+
 *** ex-1387210-001-002
 :PROPERTIES:
 :LEVEL: beginner
@@ -117,11 +108,22 @@
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: この先は危ないです。
-- READING :: このさきはあぶないです。
-- UK :: Попереду небезпечно.
-- EN :: It is dangerous ahead.
+- JA :: 鉛筆の先が丸くなりました。
+- READING :: えんぴつのさきがまるくなりました。
+- UK :: Кінчик олівця затупився.
+- EN :: The tip of the pencil has become blunt.
 - FOCUS :: 先
+*** ex-1387210-001-004
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 指の先に怪我をしました。
+- READING :: ゆびのさきにけがをしました。
+- UK :: Я поранив кінчик пальця.
+- EN :: I injured the tip of my finger.
+- FOCUS :: 指の先
+
 
 * Sense s-1387210-002
 :PROPERTIES:
@@ -433,4 +435,3 @@
 - UK :: У мене зустріч із діловим партнером.
 - EN :: I have a meeting with our business partner.
 - FOCUS :: 取引先
-

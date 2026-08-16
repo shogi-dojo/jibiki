@@ -4,7 +4,7 @@
 #+PRIMARY_READING: と
 #+ROMAJI: to
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -69,7 +69,7 @@
 *** note-s-1266970-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово 戸 (と) найчастіше означає розсувні двері (як у традиційних японських будинках). Західні двері зазвичай називаються ドア (doa).
+- UK :: Слово 戸 (то) найчастіше означає розсувні двері (як у традиційних японських будинках). Західні двері зазвичай називаються ドア (доа).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -82,7 +82,7 @@
 :ROMAJI: To o akete kudasai.
 :END:
 - JA :: 戸を開けてください。
-- READING :: 戸(と)を開(あ)けてください。
+- READING :: とをあけてください。
 - ROMAJI :: To o akete kudasai.
 - UK :: Будь ласка, відчиніть двері.
 - EN :: Please open the door.
@@ -96,7 +96,7 @@
 :ROMAJI: Kaze de to ga shimarimashita.
 :END:
 - JA :: 風で戸が閉まりました。
-- READING :: 風(かぜ)で戸(と)が閉(し)まりました。
+- READING :: かぜでとがしまりました。
 - ROMAJI :: Kaze de to ga shimarimashita.
 - UK :: Двері зачинилися від вітру.
 - EN :: The door closed because of the wind.
@@ -110,7 +110,7 @@
 :ROMAJI: Kare wa shizuka ni heya no to o shimeta.
 :END:
 - JA :: 彼は静かに部屋の戸を閉めた。
-- READING :: 彼(かれ)は静(しず)かに部(へ)屋(や)の戸(と)を閉(し)めた。
+- READING :: かれはしずかにへやのとをしめた。
 - ROMAJI :: Kare wa shizuka ni heya no to o shimeta.
 - UK :: Він тихо зачинив двері кімнати.
 - EN :: He quietly closed the door of the room.
@@ -128,6 +128,10 @@
 - shutter
 - window shutter
 ** Ukrainian glosses
+*** uk-s-1266970-002-001
+:PROPERTIES:
+:END:
+- text :: віконниця
 
 * Sense s-1266970-003
 :PROPERTIES:
@@ -142,6 +146,11 @@
 ** English glosses
 - entrance (to a home)
 ** Ukrainian glosses
+*** uk-s-1266970-003-001
+:PROPERTIES:
+:END:
+- text :: вхід
+- qualifier :: до дому
 
 * Sense s-1266970-004
 :PROPERTIES:
@@ -156,4 +165,11 @@
 ** English glosses
 - narrows
 ** Ukrainian glosses
-
+*** uk-s-1266970-004-001
+:PROPERTIES:
+:END:
+- text :: вузьке місце
+*** uk-s-1266970-004-002
+:PROPERTIES:
+:END:
+- text :: протока

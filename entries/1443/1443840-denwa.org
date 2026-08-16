@@ -4,7 +4,7 @@
 #+PRIMARY_READING: でんわ
 #+ROMAJI: denwa
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -69,7 +69,7 @@
 *** note-s-1443840-001-001
 :PROPERTIES:
 :END:
-- UK :: Слово 電話 (でんわ) означає як сам телефонний апарат, так і телефонну розмову чи дзвінок. Фраза 電話をかける означає «дзвонити по телефону».
+- UK :: Слово 電話 (でんわ) означає як телефонний апарат, так і саму телефонну розмову чи дзвінок. Щоб сказати «зателефонувати комусь», зазвичай використовують вираз 「[кому]に電話をかける」 або 「[кому]に電話をする」. Зверніть увагу, що для мобільних телефонів частіше вживаються слова 携帯 (けいたい) або スマホ (смартфон).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -82,7 +82,7 @@
 :ROMAJI: Ato de denwa shimasu.
 :END:
 - JA :: 後で電話します。
-- READING :: 後(あと)で電(でん)話(わ)します。
+- READING :: あとででんわします。
 - ROMAJI :: Ato de denwa shimasu.
 - UK :: Я зателефоную пізніше.
 - EN :: I will call you later.
@@ -96,7 +96,7 @@
 :ROMAJI: Denwa bangou o oshiete kudasai.
 :END:
 - JA :: 電話番号を教えてください。
-- READING :: 電(でん)話(わ)番(ばん)号(ごう)を教(おし)えてください。
+- READING :: でんわばんごうをおしえてください。
 - ROMAJI :: Denwa bangou o oshiete kudasai.
 - UK :: Будь ласка, скажіть свій номер телефону.
 - EN :: Please tell me your phone number.
@@ -110,7 +110,7 @@
 :ROMAJI: Kyuuyou ga atta node, haha ni denwa o kakemashita.
 :END:
 - JA :: 急用があったので、母に電話をかけました。
-- READING :: 急(きゅう)用(よう)があったので、母(はは)に電(でん)話(わ)をかけました。
+- READING :: きゅうようがあったので、ははにでんわをかけました。
 - ROMAJI :: Kyuuyou ga atta node, haha ni denwa o kakemashita.
 - UK :: Оскільки в мене була термінова справа, я зателефонував мамі.
 - EN :: Because I had urgent business, I made a phone call to my mother.
@@ -132,4 +132,8 @@
 - telephone (device)
 - phone
 ** Ukrainian glosses
-
+*** uk-s-1443840-002-001
+:PROPERTIES:
+:END:
+- text :: телефон
+- qualifier :: апарат

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ひだり
 #+ROMAJI: hidari
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -69,7 +69,7 @@
 *** note-s-1290800-001-001
 :PROPERTIES:
 :END:
-- UK :: Один із напрямків. Часто зустрічається у вказівках маршруту.
+- UK :: Вказує на лівий напрямок або лівий бік. Часто використовується при вказівці маршруту (наприклад, 左に曲がる - повернути ліворуч) або для позначення розташування (左側 - ліва сторона, 左手 - ліворуч/ліва рука). Протилежність — 右 (migi, правий).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -127,6 +127,14 @@
 ** English glosses
 - left hand
 ** Ukrainian glosses
+*** uk-s-1290800-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ліва рука
 
 * Sense s-1290800-003
 :PROPERTIES:
@@ -140,6 +148,14 @@
 - the left (wing)
 - leftist
 ** Ukrainian glosses
+*** uk-s-1290800-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ліві (політика), лівак
 
 * Sense s-1290800-004
 :PROPERTIES:
@@ -153,4 +169,11 @@
 - fondness for alcohol
 - drinker
 ** Ukrainian glosses
-
+*** uk-s-1290800-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: любитель випити

@@ -4,7 +4,7 @@
 #+PRIMARY_READING: そら
 #+ROMAJI: sora
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -61,7 +61,7 @@
 *** note-s-1245290-001-001
 :PROPERTIES:
 :END:
-- UK :: Небо.
+- UK :: Іменник 空 (sora) означає «небо». Він часто використовується в описах погоди та природи, а в переносному значенні може означати пам'ять (наприклад, у виразі 空で覚える — вчити напам'ять).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -119,6 +119,10 @@
 ** English glosses
 - weather
 ** Ukrainian glosses
+*** uk-s-1245290-002-001
+:PROPERTIES:
+:END:
+- text :: погода
 
 * Sense s-1245290-003
 :PROPERTIES:
@@ -132,6 +136,10 @@
 - far-off place
 - distant place
 ** Ukrainian glosses
+*** uk-s-1245290-003-001
+:PROPERTIES:
+:END:
+- text :: далеке місце
 
 * Sense s-1245290-004
 :PROPERTIES:
@@ -147,6 +155,14 @@
 - state of mind
 - feeling
 ** Ukrainian glosses
+*** uk-s-1245290-004-001
+:PROPERTIES:
+:END:
+- text :: стан душі
+*** uk-s-1245290-004-002
+:PROPERTIES:
+:END:
+- text :: почуття
 
 * Sense s-1245290-005
 :PROPERTIES:
@@ -162,6 +178,14 @@
 - (from) memory
 - (by) heart
 ** Ukrainian glosses
+*** uk-s-1245290-005-001
+:PROPERTIES:
+:END:
+- text :: з пам'яті
+*** uk-s-1245290-005-002
+:PROPERTIES:
+:END:
+- text :: напам'ять
 
 * Sense s-1245290-006
 :PROPERTIES:
@@ -175,6 +199,14 @@
 - falsehood
 - lie
 ** Ukrainian glosses
+*** uk-s-1245290-006-001
+:PROPERTIES:
+:END:
+- text :: неправда
+*** uk-s-1245290-006-002
+:PROPERTIES:
+:END:
+- text :: брехня
 
 * Sense s-1245290-007
 :PROPERTIES:
@@ -190,6 +222,14 @@
 - somehow
 - vaguely
 ** Ukrainian glosses
+*** uk-s-1245290-007-001
+:PROPERTIES:
+:END:
+- text :: якось
+*** uk-s-1245290-007-002
+:PROPERTIES:
+:END:
+- text :: неясно
 
 * Sense s-1245290-008
 :PROPERTIES:
@@ -204,4 +244,11 @@
 ** English glosses
 - fake
 ** Ukrainian glosses
-
+*** uk-s-1245290-008-001
+:PROPERTIES:
+:END:
+- text :: фальшивий
+*** uk-s-1245290-008-002
+:PROPERTIES:
+:END:
+- text :: підроблений

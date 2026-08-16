@@ -4,7 +4,7 @@
 #+PRIMARY_READING: のぼる
 #+ROMAJI: noboru
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -86,7 +86,7 @@
 *** note-s-1352570-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово «підніматися» (на гору, по сходах тощо) або «сходити» (про сонце).
+- UK :: Неперехідне дієслово 1-ї групи, що означає «підніматися», «сходити». Для позначення місця, на яке здійснюється підйом, використовується частка に (наприклад, 山に登る - підніматися на гору), а для позначення шляху підйому — частка を (наприклад, 階段を上る - підніматися сходами). Залежно від контексту використовують різні ієрогліфи: 上る (сходи, загальний напрямок), 登る (гори, дерева), 昇る (сонце, ліфт, кар'єра).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -152,7 +152,23 @@
 - to ascend (as a natural process, e.g. the Sun)
 - to rise
 ** Ukrainian glosses
-
+*** uk-s-1352570-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: підніматися
+- qualifier :: про дим, сонце
+*** uk-s-1352570-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сходити
 * Sense s-1352570-003
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 3
@@ -170,7 +186,14 @@
 ** English glosses
 - to go to (the capital)
 ** Ukrainian glosses
-
+*** uk-s-1352570-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: їхати до столиці
 * Sense s-1352570-004
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 4
@@ -188,7 +211,14 @@
 ** English glosses
 - to be promoted
 ** Ukrainian glosses
-
+*** uk-s-1352570-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: отримати підвищення
 * Sense s-1352570-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -206,7 +236,15 @@
 ** English glosses
 - to add up to
 ** Ukrainian glosses
-
+*** uk-s-1352570-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сягати
+- qualifier :: про кількість
 * Sense s-1352570-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -224,7 +262,15 @@
 ** English glosses
 - to advance (in price)
 ** Ukrainian glosses
-
+*** uk-s-1352570-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зростати
+- qualifier :: про ціну
 * Sense s-1352570-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -243,7 +289,14 @@
 - to swim up (a river)
 - to sail up
 ** Ukrainian glosses
-
+*** uk-s-1352570-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: плисти проти течії
 * Sense s-1352570-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -261,4 +314,20 @@
 ** English glosses
 - to come up (on the agenda)
 ** Ukrainian glosses
-
+*** uk-s-1352570-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виникати
+- qualifier :: на порядку денному
+*** uk-s-1352570-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обговорюватися

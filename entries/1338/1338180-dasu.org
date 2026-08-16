@@ -4,7 +4,7 @@
 #+PRIMARY_READING: だす
 #+ROMAJI: dasu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -67,7 +67,7 @@
 *** note-s-1338180-001-001
 :PROPERTIES:
 :END:
-- UK :: Дієслово 出す (dasu) має кілька значень: «виймати», «подавати (документи)» або «випускати». Часто використовується, коли щось переміщується зсередини назовні.
+- UK :: Дієслово 出す (だす) має багато значень, серед яких основні — «виймати», «діставати», «подавати (документи)» та «випускати». Це перехідне дієслово, тому воно вимагає додатка зі знахідним відмінком (частка を).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -80,7 +80,7 @@
 :ROMAJI: Kaban kara nooto o dashite kudasai.
 :END:
 - JA :: かばんからノートを出してください。
-- READING :: かばんからノートをだしてください。
+- READING :: かばんからのーとをだしてください。
 - ROMAJI :: Kaban kara nooto o dashite kudasai.
 - UK :: Будь ласка, дістаньте зошит із сумки.
 - EN :: Please take the notebook out of your bag.
@@ -108,7 +108,7 @@
 :ROMAJI: Samui kara, sutoobu o dashite heya o atatamemashou.
 :END:
 - JA :: 寒いから、ストーブを出して部屋を暖めましょう。
-- READING :: さむいから、ストーブをだしてへやをあたためましょう。
+- READING :: さむいから、すとーぶをだしてへやをあたためましょう。
 - ROMAJI :: Samui kara, sutoobu o dashite heya o atatamemashou.
 - UK :: Оскільки холодно, давайте дістанемо обігрівач і зігріємо кімнату.
 - EN :: Since it's cold, let's get the heater out and warm up the room.
@@ -191,6 +191,18 @@
 - to publish
 - to make public
 ** Ukrainian glosses
+*** uk-s-1338180-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: публікувати
+*** uk-s-1338180-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: оприлюднювати
 
 * Sense s-1338180-005
 :PROPERTIES:
@@ -206,6 +218,13 @@
 ** English glosses
 - to send (e.g. letter)
 ** Ukrainian glosses
+*** uk-s-1338180-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: надсилати
+- qualifier :: напр., лист
 
 * Sense s-1338180-006
 :PROPERTIES:
@@ -222,6 +241,20 @@
 - to produce (a sound)
 - to start (fire)
 ** Ukrainian glosses
+*** uk-s-1338180-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: видавати
+- qualifier :: звук
+*** uk-s-1338180-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: розводити
+- qualifier :: вогонь
 
 * Sense s-1338180-007
 :PROPERTIES:
@@ -235,6 +268,13 @@
 ** English glosses
 - to serve (food)
 ** Ukrainian glosses
+*** uk-s-1338180-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: подавати
+- qualifier :: їжу
 
 * Sense s-1338180-008
 :PROPERTIES:
@@ -252,6 +292,13 @@
 ** English glosses
 - ... out (e.g. to jump out, to carry out)
 ** Ukrainian glosses
+*** uk-s-1338180-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: назовні
+- qualifier :: вистрибнути, винести тощо
 
 * Sense s-1338180-009
 :PROPERTIES:
@@ -271,4 +318,16 @@
 - to start to ...
 - to burst into ...
 ** Ukrainian glosses
-
+*** uk-s-1338180-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: починати
+*** uk-s-1338180-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: раптово починати
+- qualifier :: плакати, сміятися тощо

@@ -1,0 +1,225 @@
+#+TITLE: 味
+#+JMDICT_ID: 1526960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あじ
+#+ROMAJI: aji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-08-06
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1526960-001
+:PROPERTIES:
+:TEXT: 味
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1526960-001
+:PROPERTIES:
+:TEXT: あじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1526960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1a61558cb0f3fa479103015de68965ff2f5926c6eb021806445d49640151196b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- flavor
+- flavour
+- taste
+** Ukrainian glosses
+*** uk-s-1526960-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: смак; присмак
+** Learner notes
+*** note-s-1526960-001-001
+:PROPERTIES:
+:END:
+- UK :: Позначає смак їжі або напоїв. Часто у виразах 味を見る (пробувати на смак), 味がする (мати смак), 味をつける (приправляти).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1526960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このスープはいい味がします。
+- READING :: このすーぷはいいあじがします。
+- UK :: Цей суп має чудовий смак.
+- EN :: This soup tastes good.
+- FOCUS :: 味
+*** ex-1526960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 料理の味を確かめる。
+- READING :: りょうりのあじをたしかめる。
+- UK :: Перевірити смак страви.
+- EN :: Check the taste of the dish.
+- FOCUS :: 味
+*** ex-1526960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 季節によって果物の味が変わる。
+- READING :: きせつによってくだもののあじがかわる。
+- UK :: Смак фруктів змінюється залежно від сезону.
+- EN :: The taste of fruit changes depending on the season.
+- FOCUS :: 味
+
+* Sense s-1526960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4d3ee213da13661cc28dcb324ce05f969553a712b31841c6e1b34b87c6aea79
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- charm
+- appeal
+- uniqueness
+- attractiveness
+** Ukrainian glosses
+*** uk-s-1526960-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: шарм; родзинка; неповторність; принадність
+** Learner notes
+*** note-s-1526960-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносне значення неповторного шарму або глибини (味がある - мати особливу родзинку чи шарм).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1526960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6819e077b46924292bf2dae5f776aff207e9724b991cafb8fd03dac0ba595986
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- experience
+- taste (e.g. of victory)
+** Ukrainian glosses
+*** uk-s-1526960-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відчуття; смак (перемоги тощо); досвід
+** Learner notes
+*** note-s-1526960-003-001
+:PROPERTIES:
+:END:
+- UK :: Вживається про психологічне відчуття або смак певного життєвого досвіду (勝利の味 - смак перемоги, 苦い味 - гіркий досвід).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1526960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 565fcd21dfe73a79b7238f759f470e3be90993e554f6c6d82f2f788d43540ea6
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+*** Cross-references
+- 味な
+** English glosses
+- smart
+- clever
+- witty
+- strange
+** Ukrainian glosses
+*** uk-s-1526960-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дотепний; витончений; кмітливий; дивний
+** Learner notes
+*** note-s-1526960-004-001
+:PROPERTIES:
+:END:
+- UK :: Використовується переважно як на-прикметник 味な (дотепний вчинок, витончений жарт).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1526960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: adc53152207a1a036453b39f0eaba53e375526975a9a580265a7d5df0dddbefa
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+- shogi
+*** Cross-references
+- 味消し
+** English glosses
+- aji
+*** en-s-1526960-005-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: position that has some lingering potential that may be exploited later in the game
+** Ukrainian glosses
+*** uk-s-1526960-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: аджі; прихований потенціал (у ґо та сьоґі)
+** Learner notes
+*** note-s-1526960-005-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін у настільних іграх ґо та сьоґі, що позначає збережений потенціал позиції або каменів.
+- LEVEL :: intermediate
+- REGISTER :: neutral

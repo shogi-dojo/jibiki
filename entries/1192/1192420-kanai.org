@@ -1,0 +1,127 @@
+#+TITLE: 家内
+#+JMDICT_ID: 1192420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かない
+#+ROMAJI: kanai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: core
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-12
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1192420-001
+:PROPERTIES:
+:TEXT: 家内
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1192420-001
+:PROPERTIES:
+:TEXT: かない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1192420-002
+:PROPERTIES:
+:TEXT: やうち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1192420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3b23bcd30b939d057fc6d82a6ae521f73688b0ee3adb8709242d480b11de3de8
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- かない
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hum
+** English glosses
+- (my) wife
+** Ukrainian glosses
+*** uk-s-1192420-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: моя дружина
+** Examples
+*** ex-1192420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家内と一緒に旅行します。
+- READING :: かないといっしょにりょこうします。
+- UK :: Я подорожуватиму разом із дружиною.
+- EN :: I will travel with my wife.
+- FOCUS :: 家内
+*** ex-1192420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家内は家にいます。
+- READING :: かないはいえにいます。
+- UK :: Моя дружина вдома.
+- EN :: My wife is at home.
+- FOCUS :: 家内
+*** ex-1192420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: これは家内が作りました。
+- READING :: これはかないがつくりました。
+- UK :: Це приготувала моя дружина.
+- EN :: My wife made this.
+- FOCUS :: 家内
+
+* Sense s-1192420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9cce580a69f8c972f46848cf967cce503417a4193ea3333ceb8c5e4025b7a3e4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- inside the home
+- one's family
+** Ukrainian glosses
+*** uk-s-1192420-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: всередині дому
+*** uk-s-1192420-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: родина

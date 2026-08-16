@@ -4,7 +4,7 @@
 #+PRIMARY_READING: それ
 #+ROMAJI: sore
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -76,7 +76,7 @@
 *** note-s-1006970-001-001
 :PROPERTIES:
 :END:
-- UK :: Вказівний займенник «sore» (те, це) використовується для вказівки на предмети, які знаходяться ближче до співрозмовника, ніж до мовця, або на речі, щойно згадані в розмові.
+- UK :: Вказівний займенник それ (sore) означає «те» або «це» і використовується самостійно замість іменника. Він вказує на предмет, який знаходиться ближче до співрозмовника, ніж до мовця, або на щось, щойно згадане в розмові.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -89,7 +89,7 @@
 :ROMAJI: Sore wa nan desu ka.
 :END:
 - JA :: それは何ですか。
-- READING :: それは 何[なん]ですか。
+- READING :: それは なんですか。
 - ROMAJI :: Sore wa nan desu ka.
 - UK :: Що це таке?
 - EN :: What is that?
@@ -117,7 +117,7 @@
 :ROMAJI: Sore wa watashi no hon de wa nai.
 :END:
 - JA :: それは私の本ではない。
-- READING :: それは 私[わたし]の 本[ほん]ではない。
+- READING :: それは わたしの ほんではない。
 - ROMAJI :: Sore wa watashi no hon de wa nai.
 - UK :: То не моя книга.
 - EN :: That is not my book.
@@ -192,4 +192,8 @@
 ** English glosses
 - you
 ** Ukrainian glosses
-
+*** uk-s-1006970-004-001
+:PROPERTIES:
+:END:
+- text :: ви
+- qualifier :: застаріле

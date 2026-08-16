@@ -3,14 +3,14 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: あまい
 #+ROMAJI: amai
-#+ENTRY_STATUS: reviewed
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-17
 #+DEFAULT_AUTHOR_ID: antigravity
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
 #+DEFAULT_SOURCE_TYPE: original
-#+DEFAULT_STATUS: reviewed
+#+DEFAULT_STATUS: draft
 
 * Forms
 ** Written form wf-1213400-001
@@ -64,9 +64,8 @@
 ** Learner notes
 *** note-s-1213400-001-001
 :PROPERTIES:
-:STATUS: draft
 :END:
-- UK :: Солодкий (про смак). Також може означати "поблажливий" або "наївний".
+- UK :: Основне значення — солодкий на смак (про їжу чи напої). Також широко використовується в переносному значенні для опису поблажливого ставлення, наївності або недостатньої строгості (див. інші значення нижче).
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -76,7 +75,7 @@
 :REGISTER: neutral
 :END:
 - JA :: このケーキは甘いです。
-- READING :: このケーキはあまいです。
+- READING :: このけーきはあまいです。
 - UK :: Цей торт солодкий.
 - EN :: This cake is sweet.
 - FOCUS :: 甘いです
@@ -96,7 +95,7 @@
 :REGISTER: neutral
 :END:
 - JA :: コーヒーが苦いので、甘くしました。
-- READING :: コーヒーがにがいので、あまくしました。
+- READING :: こーひーがにがいので、あまくしました。
 - UK :: Оскільки кава була гіркою, я зробив її солодкою.
 - EN :: The coffee was bitter, so I made it sweet.
 - FOCUS :: 甘く
@@ -170,7 +169,7 @@
 :REGISTER: neutral
 :END:
 - JA :: このスープは少し塩味が甘いです。
-- READING :: このスープはすこししおあじがあまいです。
+- READING :: このすーぷはすこししおあじがあまいです。
 - UK :: Цей суп трохи прісний.
 - EN :: This soup is a little lightly salted.
 - FOCUS :: 甘いです
@@ -338,7 +337,7 @@
 :REGISTER: neutral
 :END:
 - JA :: ネジの締め方が甘いです。
-- READING :: ネジのしめかたがあまいです。
+- READING :: ねじのしめかたがあまいです。
 - UK :: Гвинт закручено недостатньо сильно.
 - EN :: The screw is left loose.
 - FOCUS :: 甘いです
@@ -369,7 +368,7 @@
 :REGISTER: neutral
 :END:
 - JA :: このタバコは甘いですね。
-- READING :: このタバコはあまいですね。
+- READING :: このたばこはあまいですね。
 - UK :: Ці сигарети м'які.
 - EN :: This tobacco is mild.
 - FOCUS :: 甘い
@@ -416,4 +415,3 @@
 - UK :: Остерігайтеся спокусливих слів.
 - EN :: Please be careful of tempting words.
 - FOCUS :: 甘い言葉
-

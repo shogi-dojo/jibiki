@@ -4,7 +4,7 @@
 #+PRIMARY_READING: ところ
 #+ROMAJI: tokoro
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -90,7 +90,7 @@
 :ROMAJI: Koko wa totemo shizuka na tokoro desu.
 :END:
 - JA :: ここはとても静かな所です。
-- READING :: ここはとても静(しず)かな所(ところ)です。
+- READING :: ここはとてもしずかなところです。
 - ROMAJI :: Koko wa totemo shizuka na tokoro desu.
 - UK :: Тут дуже тихе місце.
 - EN :: This is a very quiet place.
@@ -104,7 +104,7 @@
 :ROMAJI: Donna tokoro ni sumitai desu ka.
 :END:
 - JA :: どんな所に住みたいですか。
-- READING :: どんな所(ところ)に住(す)みたいですか。
+- READING :: どんなところにすみたいですか。
 - ROMAJI :: Donna tokoro ni sumitai desu ka.
 - UK :: У якому місці ви б хотіли жити?
 - EN :: What kind of place do you want to live in?
@@ -115,14 +115,14 @@
 :SOURCE_URL:
 :LEVEL: intermediate
 :REGISTER: neutral
-:ROMAJI: Kare ni denwa o shita toki, kare wa choudo dekakeru tokoro deshita.
+:ROMAJI: Eki no chikaku ni shizuka na tokoro o mitsukemashita.
 :END:
-- JA :: 彼に電話をした時、彼はちょうど出かける所でした。
-- READING :: 彼(かれ)に電(でん)話(わ)をした時(とき)、彼(かれ)はちょうど出(で)かける所(ところ)でした。
-- ROMAJI :: Kare ni denwa o shita toki, kare wa choudo dekakeru tokoro deshita.
-- UK :: Коли я йому зателефонував, він саме збирався виходити.
-- EN :: When I called him, he was just about to go out.
-- FOCUS :: 所(ところ)
+- JA :: 駅の近くに静かな所を見つけました。
+- READING :: えきのちかくにしずかなところをみつけました。
+- ROMAJI :: Eki no chikaku ni shizuka na tokoro o mitsukemashita.
+- UK :: Я знайшов тихе місце біля станції.
+- EN :: I found a quiet place near the station.
+- FOCUS :: 所
 
 * Sense s-1343100-002
 :PROPERTIES:
@@ -187,7 +187,15 @@
 ** English glosses
 - one's house
 ** Ukrainian glosses
-
+*** uk-s-1343100-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чийсь дім
+- qualifier :: оселя
 * Sense s-1343100-005
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 5
@@ -207,7 +215,23 @@
 - side
 - facet
 ** Ukrainian glosses
-
+*** uk-s-1343100-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: момент
+- qualifier :: аспект
+*** uk-s-1343100-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: риса
 * Sense s-1343100-006
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 6
@@ -223,7 +247,23 @@
 - passage (in text)
 - part
 ** Ukrainian glosses
-
+*** uk-s-1343100-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: уривок
+- qualifier :: в тексті
+*** uk-s-1343100-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: частина
 * Sense s-1343100-007
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 7
@@ -239,7 +279,22 @@
 - space
 - room
 ** Ukrainian glosses
-
+*** uk-s-1343100-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: простір
+*** uk-s-1343100-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: місце
 * Sense s-1343100-008
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 8
@@ -255,7 +310,22 @@
 - thing
 - matter
 ** Ukrainian glosses
-
+*** uk-s-1343100-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: річ
+*** uk-s-1343100-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: справа
 * Sense s-1343100-009
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 9
@@ -272,7 +342,22 @@
 - whereupon
 - as a result
 ** Ukrainian glosses
-
+*** uk-s-1343100-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: в результаті чого
+*** uk-s-1343100-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: після чого
 * Sense s-1343100-010
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 10
@@ -289,7 +374,36 @@
 - about to
 - on the verge of
 ** Ukrainian glosses
-
+*** uk-s-1343100-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: саме збиратися
+** Learner notes
+*** note-s-1343100-010-001
+:PROPERTIES:
+:END:
+- UK :: Граматична конструкція «Словникова форма дієслова + ところ» означає, що дія от-от розпочнеться. Часто використовується зі словами ちょうど (якраз) або 今 (зараз).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1343100-010-001
+:PROPERTIES:
+:SOURCE_ID:
+:SOURCE_URL:
+:LEVEL: intermediate
+:REGISTER: neutral
+:ROMAJI: Kare ni denwa o shita toki, kare wa choudo dekakeru tokoro deshita.
+:END:
+- JA :: 彼に電話をした時、彼はちょうど出かける所でした。
+- READING :: かれにでんわをしたとき、かれはちょうどでかけるところでした。
+- ROMAJI :: Kare ni denwa o shita toki, kare wa choudo dekakeru tokoro deshita.
+- UK :: Коли я йому зателефонував, він саме збирався виходити.
+- EN :: When I called him, he was just about to go out.
+- FOCUS :: 所(ところ)
 * Sense s-1343100-011
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 11
@@ -308,7 +422,22 @@
 - have just done
 - just finished doing
 ** Ukrainian glosses
-
+*** uk-s-1343100-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: щойно зробив
+*** uk-s-1343100-011-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: був у процесі
 * Sense s-1343100-012
 :PROPERTIES:
 :SOURCE_SENSE_INDEX: 12
@@ -326,4 +455,19 @@
 - around
 - about
 ** Ukrainian glosses
-
+*** uk-s-1343100-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приблизно
+*** uk-s-1343100-012-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: близько

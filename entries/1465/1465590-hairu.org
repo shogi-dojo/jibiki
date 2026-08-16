@@ -4,7 +4,7 @@
 #+PRIMARY_READING: はいる
 #+ROMAJI: hairu
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -119,7 +119,7 @@
 :ROMAJI: Naka ni hairu mae ni, doa o nokku shite kudasai.
 :END:
 - JA :: 中に入る前に、ドアをノックしてください。
-- READING :: なかに はいる まえに、ドアを ノックして ください。
+- READING :: なかに はいる まえに、どあを のっくして ください。
 - ROMAJI :: Naka ni hairu mae ni, doa o nokku shite kudasai.
 - UK :: Перш ніж зайти, будь ласка, постукайте у двері.
 - EN :: Before entering, please knock on the door.
@@ -141,6 +141,30 @@
 - to go into (e.g. politics)
 - to get into
 ** Ukrainian glosses
+*** uk-s-1465590-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вступати
+- qualifier :: до клубу, компанії тощо
+*** uk-s-1465590-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приєднуватися
+** Learner notes
+*** note-s-1465590-002-001
+:PROPERTIES:
+:END:
+- UK :: Використовується з часткою に для позначення вступу до організації, школи, компанії чи клубу (наприклад, 大学に入る — вступити до університету).
+- LEVEL :: beginner
+- REGISTER :: neutral
 
 * Sense s-1465590-003
 :PROPERTIES:
@@ -158,6 +182,22 @@
 - to come under (a heading)
 - to belong (in a category)
 ** Ukrainian glosses
+*** uk-s-1465590-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: міститися
+*** uk-s-1465590-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути включеним
 
 * Sense s-1465590-004
 :PROPERTIES:
@@ -173,6 +213,22 @@
 - to be (able to be) held
 - to be (able to be) accommodated
 ** Ukrainian glosses
+*** uk-s-1465590-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вміщуватися
+*** uk-s-1465590-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поміщатися
 
 * Sense s-1465590-005
 :PROPERTIES:
@@ -188,6 +244,22 @@
 - to be brought in
 - to be installed
 ** Ukrainian glosses
+*** uk-s-1465590-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути запровадженим
+*** uk-s-1465590-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути встановленим
 
 * Sense s-1465590-006
 :PROPERTIES:
@@ -202,6 +274,22 @@
 - to be received
 - to be obtained
 ** Ukrainian glosses
+*** uk-s-1465590-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути отриманим
+*** uk-s-1465590-006-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: надходити
 
 * Sense s-1465590-007
 :PROPERTIES:
@@ -216,6 +304,15 @@
 - to be scored (of points)
 - to be won (of votes)
 ** Ukrainian glosses
+*** uk-s-1465590-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути здобутим
+- qualifier :: про бали, голоси
 
 * Sense s-1465590-008
 :PROPERTIES:
@@ -231,6 +328,22 @@
 - to start functioning
 - to start working
 ** Ukrainian glosses
+*** uk-s-1465590-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вмикатися
+*** uk-s-1465590-008-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: починати працювати
 
 * Sense s-1465590-009
 :PROPERTIES:
@@ -249,6 +362,22 @@
 - to start (doing)
 - to begin
 ** Ukrainian glosses
+*** uk-s-1465590-009-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: починатися
+*** uk-s-1465590-009-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: переходити до
 
 * Sense s-1465590-010
 :PROPERTIES:
@@ -263,6 +392,23 @@
 - to form (of a crack, fissure, etc.)
 - to develop
 ** Ukrainian glosses
+*** uk-s-1465590-010-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: утворюватися
+- qualifier :: про тріщину тощо
+*** uk-s-1465590-010-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: з'являтися
 
 * Sense s-1465590-011
 :PROPERTIES:
@@ -277,6 +423,24 @@
 - to be put in (of effort, spirit, feeling, etc.)
 - to be applied (e.g. of strength)
 ** Ukrainian glosses
+*** uk-s-1465590-011-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: докладатися
+- qualifier :: про зусилля, силу
+*** uk-s-1465590-011-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вкладатися
+- qualifier :: про почуття
 
 * Sense s-1465590-012
 :PROPERTIES:
@@ -291,6 +455,15 @@
 - to be ready (of tea, coffee, etc.)
 - to be made
 ** Ukrainian glosses
+*** uk-s-1465590-012-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути готовим
+- qualifier :: про чай, каву тощо
 
 * Sense s-1465590-013
 :PROPERTIES:
@@ -305,4 +478,20 @@
 - to enter the body (of alcohol)
 - to become drunk
 ** Ukrainian glosses
-
+*** uk-s-1465590-013-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сп'яніти
+*** uk-s-1465590-013-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вдарити в голову
+- qualifier :: про алкоголь

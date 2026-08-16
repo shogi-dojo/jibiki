@@ -1,0 +1,158 @@
+#+TITLE: アルコール
+#+JMDICT_ID: 1019280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: アルコール
+#+ROMAJI: arukooru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
+#+CREATED_AT: 2026-08-06
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1019280-001
+:PROPERTIES:
+:TEXT: アルコール
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-1019280-002
+:PROPERTIES:
+:TEXT: アルコホル
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1019280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 525b56caaa5dbc6bd5ffaa0d8cf6da7f71107b387a992cb6c497b672a83aef3a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+*** Language sources
+**** Language source ls-s-1019280-001-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- alcohol
+** Ukrainian glosses
+*** uk-s-1019280-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: алкоголь; спирт
+** Learner notes
+*** note-s-1019280-001-001
+:PROPERTIES:
+:END:
+- UK :: Спирт або хімічна сполука. Слово походить з нідерландської мови (alcohol). Вживається у науковому та побутовому контексті для позначення речовини (наприклад, для прибирання або дослідів).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1019280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この製品にはアルコールが入っています。
+- READING :: このせいひんにはあるこーるがはいっています。
+- UK :: Цей виріб містить спирт.
+- EN :: This product contains alcohol.
+- FOCUS :: アルコール
+*** ex-1019280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: アルコールで机を拭いてきれいにした。
+- READING :: あるこーるでつくえをふいてきれいにした。
+- UK :: Я протер стіл спиртом, щоб очистити його.
+- EN :: I wiped and cleaned the desk with alcohol.
+- FOCUS :: アルコール
+*** ex-1019280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 実験で使う高濃度のアルコールを注文した。
+- READING :: じっけんでつかうこうのうどのあるこーるをちゅうもんした。
+- UK :: Я замовив спирт високої концентрації для експериментів.
+- EN :: I ordered high-concentration alcohol for use in experiments.
+- FOCUS :: アルコール
+
+* Sense s-1019280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6928fbe32ad6fe7aa395f43447c9afe337560d63d441893e12bd7001dff7030c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- alcoholic drink
+- alcohol
+** Ukrainian glosses
+*** uk-s-1019280-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: алкогольні напої; спиртне; алкоголь
+** Learner notes
+*** note-s-1019280-002-001
+:PROPERTIES:
+:END:
+- UK :: Спиртні напої взагалі (синонім до お酒). Часто вживається у виразах на кшталт アルコールに弱い (погано переношу алкоголь / швидко п'янію).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1019280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bbf8cd55e40213b737e87089bc63ec63f067ee7f56f6fbfe7bb26870acb75bd1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- アルコール消毒液
+** English glosses
+- (alcohol-based) hand sanitizer
+** Ukrainian glosses
+*** uk-s-1019280-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спиртовий антисептик; дезінфікуючий спирт
+** Learner notes
+*** note-s-1019280-003-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від アルコール消毒液 (спиртовий антисептик для рук або поверхонь). Вживається у фразах типу アルコールで手を消毒する (дезінфікувати руки спиртом).
+- LEVEL :: beginner
+- REGISTER :: neutral

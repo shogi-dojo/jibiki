@@ -4,7 +4,7 @@
 #+PRIMARY_READING: よこ
 #+ROMAJI: yoko
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -76,7 +76,7 @@
 *** note-s-1180570-001-001
 :PROPERTIES:
 :END:
-- UK :: Іменник 横 (yoko) вказує на бік, сторону або горизонтальний напрямок чогось. Часто використовується для позначення простору збоку від предмета.
+- UK :: Іменник 横 (yoko) вказує на горизонтальний вимір (ширину), а також на бік, сторону або простір поруч із чимось. Наприклад, 横になる (yoko ni naru) означає «лягти». На відміну від 隣 (tonari), яке вказує на сусідній об'єкт того ж типу, 横 може позначати місце збоку від будь-якого об'єкта.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -117,7 +117,7 @@
 :ROMAJI: Kono hako no yoko no nagasa wa go-juu senchi desu.
 :END:
 - JA :: この箱の横の長さは５０センチです。
-- READING :: この はこ の よこ の ながさ は ごじゅう センチ です。
+- READING :: この はこ の よこ の ながさ は ごじゅう せんち です。
 - ROMAJI :: Kono hako no yoko no nagasa wa go-juu senchi desu.
 - UK :: Ширина (горизонтальна довжина) цієї коробки становить 50 сантиметрів.
 - EN :: The width of this box is 50 centimeters.
@@ -138,6 +138,18 @@
 - width
 - breadth
 ** Ukrainian glosses
+*** uk-s-1180570-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: ширина
+*** uk-s-1180570-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: вшир
 
 * Sense s-1180570-003
 :PROPERTIES:
@@ -150,6 +162,19 @@
 ** English glosses
 - side (of a box, etc.)
 ** Ukrainian glosses
+*** uk-s-1180570-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бік
+- qualifier :: коробки тощо
+*** uk-s-1180570-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: бокова сторона
 
 * Sense s-1180570-004
 :PROPERTIES:
@@ -164,6 +189,24 @@
 - aside
 - next to
 ** Ukrainian glosses
+*** uk-s-1180570-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: поруч
+*** uk-s-1180570-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: збоку
+*** uk-s-1180570-004-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: біля
 
 * Sense s-1180570-005
 :PROPERTIES:
@@ -178,4 +221,9 @@
 ** English glosses
 - unconnected
 ** Ukrainian glosses
-
+*** uk-s-1180570-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:END:
+- text :: непов'язаний

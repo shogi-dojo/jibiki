@@ -4,7 +4,7 @@
 #+PRIMARY_READING: めがね
 #+ROMAJI: megane
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -113,7 +113,7 @@
 :ROMAJI: Kare wa atarashii megane o kau tame ni, depāto ni ikimashita.
 :END:
 - JA :: 彼は新しい眼鏡を買うために、デパートに行きました。
-- READING :: かれ は あたらしい めがね を かう ため に、 デパート に いきみました。
+- READING :: かれ は あたらしい めがね を かう ため に、 でぱーと に いきみました。
 - ROMAJI :: Kare wa atarashii megane o kau tame ni, depāto ni ikimashita.
 - UK :: Він пішов до універмагу, щоб купити нові окуляри.
 - EN :: He went to the department store to buy new glasses.
@@ -136,6 +136,22 @@
 - discernment
 - insight
 ** Ukrainian glosses
+*** uk-s-1577670-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: судження
+*** uk-s-1577670-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: проникливість
 
 * Sense s-1577670-003
 :PROPERTIES:
@@ -151,4 +167,11 @@
 ** English glosses
 - four-eyes
 ** Ukrainian glosses
-
+*** uk-s-1577670-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: очкарик

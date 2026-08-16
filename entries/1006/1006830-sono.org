@@ -4,7 +4,7 @@
 #+PRIMARY_READING: その
 #+ROMAJI: sono
 #+ENTRY_STATUS: draft
-#+QUALITY_PROFILE: learner
+#+QUALITY_PROFILE: core
 #+JMDICT_SOURCE_SHA256: 08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e
 #+CREATED_AT: 2026-07-18
 #+DEFAULT_AUTHOR_ID: antigravity
@@ -69,7 +69,7 @@
 *** note-s-1006830-001-001
 :PROPERTIES:
 :END:
-- UK :: Той (предмет біля співрозмовника або згаданий раніше).
+- UK :: Вказівний займенник その (sono) означає «той» або «та» і завжди стоїть перед іменником. Він вказує на предмет або особу, які знаходяться ближче до співрозмовника, ніж до мовця, або на щось, щойно згадане в розмові.
 - LEVEL :: beginner
 - REGISTER :: neutral
 ** Examples
@@ -131,6 +131,11 @@
 ** English glosses
 - part (as in "part two")
 ** Ukrainian glosses
+*** uk-s-1006830-002-001
+:PROPERTIES:
+:END:
+- text :: частина
+- qualifier :: як у "частина друга"
 
 * Sense s-1006830-003
 :PROPERTIES:
@@ -150,4 +155,11 @@
 - er ...
 - uh ...
 ** Ukrainian glosses
-
+*** uk-s-1006830-003-001
+:PROPERTIES:
+:END:
+- text :: емм...
+*** uk-s-1006830-003-002
+:PROPERTIES:
+:END:
+- text :: ну...
