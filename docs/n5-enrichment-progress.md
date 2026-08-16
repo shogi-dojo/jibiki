@@ -33,3 +33,4 @@
 - [x] Group 29: kurai, ika, igai, ijou, inai
 - [x] Group 34: abunai, ikutsu, ikura, tsukue, kikai
 - [x] Group 36: suu, isogu, gyuuniku, gyuunyuu, kyonen
+- [x] Group 38: chikaku, kinyoubi, ginkou, kokonotsu, kokonoka
