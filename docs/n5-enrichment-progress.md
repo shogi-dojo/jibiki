@@ -59,3 +59,13 @@
 - [x] Group 58: satou, suwaru, sarainen, hosoi, aru
 - [x] Group 59: saifu, saku, sakubun, toru, zasshi
 - [x] Group 60: osara, mittsu, mikka, kasa, yama
+- [x] Group 61: sanpo, shigoto, tsukau, yottsu, yokka
+- [x] Group 62: hajimaru, ane, kodomo, omoidasu, tomaru
+- [x] Group 63: shinu, watashi, ito, kami, ha
+- [x] Group 64: jibiki, motsu, jikan, tokei, tsugi
+- [x] Group 65: mimi, jitensha, jidousha, jibun, jisho
+- [x] Group 66: shichi, nanatsu, shitsumon, shashin, ayamaru
+- [x] Group 67: kuruma, kariru, wakai, yowai, te
+- [x] Group 68: tegami, osake, jugyou, aki, narau
+- [x] Group 69: atsumaru, atsumeru, sumu, tooka, tate
+- [x] Group 70: omoi, shukudai, dasu, deru, deguchi
