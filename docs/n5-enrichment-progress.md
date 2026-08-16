@@ -69,3 +69,13 @@
 - [x] Group 68: tegami, osake, jugyou, aki, narau
 - [x] Group 69: atsumaru, atsumeru, sumu, tooka, tate
 - [x] Group 70: omoi, shukudai, dasu, deru, deguchi
+- [x] Group 71: dekiru, haru, hajime, hajimete, tokoro
+- [x] Group 72: kaku, onna, onnanoko, chiisai, sukoshi
+- [x] Group 73: sukunai, kieru, kesu, ue, agaru
+- [x] Group 74: ageru, noboru, jouzu, noru, ueru
+- [x] Group 75: iro, taberu, tabemono, shokudou, neru
+- [x] Group 76: atarashii, shinbun, karai, toshokan, fuku
+- [x] Group 77: mizu, suiyoubi, naru, hare, hareru
+- [x] Group 78: ikiru, umareru, seito, koe, nishi
+- [x] Group 79: ao, aoi, shizuka, ishi, sekken
+- [x] Group 80: akai, akachan, akanbou, kiru, kitte
