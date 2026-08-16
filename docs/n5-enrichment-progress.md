@@ -79,3 +79,13 @@
 - [x] Group 78: ikiru, umareru, seito, koe, nishi
 - [x] Group 79: ao, aoi, shizuka, ishi, sekken
 - [x] Group 80: akai, akachan, akanbou, kiru, kitte
+- [x] Group 81: kippu, yuki, saki, sengetsu, senshuu
+- [x] Group 82: sensei, sen, kawa, asai, arau
+- [x] Group 83: sentaku, mae, zenbu, souji, mado
+- [x] Group 84: hashiru, soba, ashi, hayai, soredewa
+- [x] Group 85: mura, ooi, tabun, futoi, karada
+- [x] Group 86: matsu, kasu, daidokoro, ookina, daigaku
+- [x] Group 87: daisuki, taishikan, daijoubu, otona, oozei
+- [x] Group 88: taisetsu, taihen, takusan, nugu, dare
+- [x] Group 89: dareka, mijikai, tanjoubi, otoko, otokonoko
+- [x] Group 90: shiru, chikatetsu, chizu, ike, itasu
