@@ -1,7 +1,5 @@
 # Transliteration Rules
 
-**Full Path**: `/Users/mac/projects/jisho/docs/transliteration-rules.md`
-
 ## Policy
 
 When transliterating or writing Japanese words and readings in Ukrainian, **DO NOT use the Polivanov system**.
