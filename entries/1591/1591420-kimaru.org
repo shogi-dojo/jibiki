@@ -1,0 +1,765 @@
+#+TITLE: 決まる
+#+JMDICT_ID: 1591420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きまる
+#+ROMAJI: kimaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-16
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1591420-001
+:PROPERTIES:
+:TEXT: 決まる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1591420-002
+:PROPERTIES:
+:TEXT: 決る
+:END:
+*** Information
+- io
+** Written form wf-1591420-003
+:PROPERTIES:
+:TEXT: 極る
+:END:
+** Reading rd-1591420-001
+:PROPERTIES:
+:TEXT: きまる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1591420-002
+:PROPERTIES:
+:TEXT: キマる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1591420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 58352ae96530ab1a045b13040b8fe2817522a7a13c64e72c814ed562811ea53c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to be decided
+- to be settled
+- to be fixed
+- to be arranged
+** Ukrainian glosses
+*** uk-s-1591420-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вирішуватися
+*** uk-s-1591420-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: визначатися
+*** uk-s-1591420-001-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути встановленим
+*** uk-s-1591420-001-004
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути влаштованим
+** Learner notes
+*** note-s-1591420-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово «決まる» (вирішуватися) є неперехідним і описує ситуацію, коли рішення вже прийнято або щось встановлено (часто як результат обставин чи дій інших). На відміну від перехідного «決める» (вирішувати), де акцент робиться на активній дії особи, яка приймає рішення.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1591420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日程が決まる。
+- READING :: にっていがきまる。
+- UK :: Розклад визначено.
+- EN :: The schedule is decided.
+- FOCUS :: 決まる
+*** ex-1591420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 次の会議の場所が決まりました。
+- READING :: つぎのかいぎのばしょがきまりました。
+- UK :: Місце наступної зустрічі вирішено.
+- EN :: The location for the next meeting has been decided.
+- FOCUS :: 決まりました
+*** ex-1591420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: なかなか方針が決まらず、議論が続いている。
+- READING :: なかなかほうしんがきまらず、ぎろんがつづいている。
+- UK :: Політика ніяк не визначається, і дискусія триває.
+- EN :: The policy hasn't been decided yet, and the discussion continues.
+- FOCUS :: 決まらず
+
+* Sense s-1591420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6847f06e745a184492121fcafba0a5cdd27d23e5f8f1c3ce1a9a7da9b9cd1a98
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Sense information
+- as 決まっている or 決まった
+** English glosses
+- to be unchanging
+- to be the same (as always)
+- to be fixed
+- to be set
+** Ukrainian glosses
+*** uk-s-1591420-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути незмінним
+*** uk-s-1591420-002-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути визначеним (назавжди)
+*** uk-s-1591420-002-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути фіксованим
+
+* Sense s-1591420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2115293c5b34c0df61cbb191ad10ed26060e3ab75bd7fe42540d97fbb1236a0b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Sense information
+- as ...と決まっている
+** English glosses
+- to be a fixed rule
+- to be destined
+- to be a convention
+- to be a custom
+- to be common knowledge
+** Ukrainian glosses
+*** uk-s-1591420-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути заведеним (правилом)
+*** uk-s-1591420-003-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути приреченим (на щось)
+*** uk-s-1591420-003-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути загальновідомим
+
+* Sense s-1591420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1e680d6e8e6218334e5a0ab91cb2f2d98a02e72cc7eb256014e887fa20055044
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to be well executed (of a manoeuvre in a sport, game, etc.)
+- to go well
+- to succeed
+- to connect (of a punch)
+** Ukrainian glosses
+*** uk-s-1591420-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вдаватися
+*** uk-s-1591420-004-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути вдало виконаним (про трюк, удар тощо)
+*** uk-s-1591420-004-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мати успіх
+
+* Sense s-1591420-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 376d3cfe029aa9bf7a15e880e40ceeecdc0017eca0a57c748ed6f0be56288ad4
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to look good (of clothing)
+- to look sharp
+- to be stylish
+- to suit one
+- to be held in place (of a hairdo)
+** Ukrainian glosses
+*** uk-s-1591420-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пасувати
+*** uk-s-1591420-005-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: добре виглядати
+*** uk-s-1591420-005-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гарно сидіти (про одяг)
+*** uk-s-1591420-005-004
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: триматися (про зачіску)
+
+* Sense s-1591420-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0b9b5e64d2ed3ed1f29d9ee145614dbef0618d4e0f8b4afc8dd6d6ce0a20ae06
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to be struck and held (of a pose in kabuki)
+** Ukrainian glosses
+*** uk-s-1591420-006-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приймати позу (у театрі кабукі)
+
+* Sense s-1591420-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a2fe2be64e032f46be5f9b5d6aa9bcd8dd89ba4e5fb31c2ab23ed9bd3579cc21
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+*** Miscellaneous and register
+- sl
+- uk
+*** Sense information
+- usu. written as キマる
+** English glosses
+- to get high (on drugs)
+** Ukrainian glosses
+*** uk-s-1591420-007-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кайфувати
+*** uk-s-1591420-007-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути під кайфом
+
+* Sense s-1591420-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bf3e01577cc385c847e0de25ae892ed51532a6c882defb45d07ed2fb79f4443e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beslist worden
+*** en-s-1591420-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geregeld worden
+*** en-s-1591420-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vastgesteld worden
+** Ukrainian glosses
+
+* Sense s-1591420-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c321dc63ed933d2b58deb5410bf296fb574f06008c4c7dbc5658af5297e5f40f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zeker zullen gebeuren
+*** en-s-1591420-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (voor)bestemd zijn om te
+** Ukrainian glosses
+
+* Sense s-1591420-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4649c25a6578ab03f0f014f0a3e02604ad6a70a092f3ab953906e13cdf24d3d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-010-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: être décidé
+*** en-s-1591420-010-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: être déterminé
+** Ukrainian glosses
+
+* Sense s-1591420-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 130cab62b3e8f3db5af7df1dd1c0408f9fc07a80cb302abb4ef23fd3b5deb9a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entschieden werden
+*** en-s-1591420-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestimmt werden
+*** en-s-1591420-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: festgesetzt werden
+*** en-s-1591420-011-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: festgelegt werden
+** Ukrainian glosses
+
+* Sense s-1591420-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 87f2bf6c4fadb4eaf33ab37fb99b250db6ec6b8d78d6b6b82956977d30d9165d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestimmt sein
+*** en-s-1591420-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regelmäßig sein
+** Ukrainian glosses
+
+* Sense s-1591420-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 9c2d8ab35e528ca2f23ad576eb9c9e557f7b8ccc471b961027c2c186ed497d63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf jeden Fall so sein
+*** en-s-1591420-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ganz bestimmt so sein
+*** en-s-1591420-013-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klar sein
+*** en-s-1591420-013-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sowieso so sein (in der Form …ni kimatte iru)
+** Ukrainian glosses
+
+* Sense s-1591420-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: cbf47f17c2e8debf83b041f98d1e005e8d73221f0b10c93a78b19bbd27dba3e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Pose einnehmen und darin verharren
+** Ukrainian glosses
+
+* Sense s-1591420-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 7d05b2a1bd4377e9a5cab25e218ddf1cb98e5b28d7ce9e5e47c50e008a0ad31f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die Form halten (z.B. eine Frisur)
+** Ukrainian glosses
+
+* Sense s-1591420-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 5b61f3b7cf5f87c429ac97726b4ce0e1e465b672b8aba0f6054590a42f04b788
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-016-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Technik wie beabsichtigt durchführen
+*** en-s-1591420-016-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. durchziehen
+** Ukrainian glosses
+
+* Sense s-1591420-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: a38636ffe4ca1b783558092be7993a85d1f37587d7ff179b734d2a6c975d9bea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-017-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine gute Beziehung zu einander herstellen (zwischen Mann und Frau)
+** Ukrainian glosses
+
+* Sense s-1591420-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 6d9ed0c60a9f75c868b17bbfaf990eee6e0759aa7ce4c8cae8d5a792441dbe86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-018-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) решаться; быть решённым; быть установленным (определённым); быть законченным
+*** en-s-1591420-018-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2): …に決まっている (в конце предложения) после прил. и сущ.) непременно быть (каким-л., чем-л.; после гл.) непременно (совершиться, произойти), быть предопределённым
+** Ukrainian glosses
+
+* Sense s-1591420-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: aea4dcdc22d5fb5ac3b6d83f5228d29582bc33e15d4bbad7240807084c940fbc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-019-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odločiti se
+*** en-s-1591420-019-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti odločeno
+** Ukrainian glosses
+
+* Sense s-1591420-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: f6ee89b4b872a353869ed69cf9d43b744cb1f7e6a9d4e03a08a9f87755cd173f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-020-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decidirse
+*** en-s-1591420-020-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arreglarse
+** Ukrainian glosses
+
+* Sense s-1591420-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 0ab3a42712aa2924e0875931926668dc4d9c189b64386e6c297c3af5db0c1bd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1591420-021-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verse bien (ropa)
+*** en-s-1591420-021-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decidirse
+*** en-s-1591420-021-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: establecerse
+*** en-s-1591420-021-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verse bien con(ropa)
+** Ukrainian glosses
