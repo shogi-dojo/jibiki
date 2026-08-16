@@ -27,3 +27,5 @@
 - [x] Group 25: fooku, puuru, beddo, peeji, petto
 - [x] Group 28: amerika, warui, ame, anshin, anzen
 - [x] Group 31: gaikoku, gaikokujin, oboeru, kado, gakkou
+- [x] Group 30: iken, imi, yasashii, isu, igaku
+- [x] Group 32: gakusei, tanoshii, kakaru, kakeru, kaban
