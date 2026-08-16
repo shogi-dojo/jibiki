@@ -25,3 +25,5 @@
 - [x] Group 24: nekutai, hankachi, basu, bataa, firumu
 - [x] Group 26: pen, hoteru, bo-rupen, poketto, matchi
 - [x] Group 25: fooku, puuru, beddo, peeji, petto
+- [x] Group 28: amerika, warui, ame, anshin, anzen
+- [x] Group 31: gaikoku, gaikokujin, oboeru, kado, gakkou
