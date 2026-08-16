@@ -39,3 +39,13 @@
 - [x] Group 35: kaeru, inoru, anata, okiru, kissaten
 - [x] Group 37: tsuyoi, oshieru, kyoushitsu, hashi, tsutomeru
 - [x] Group 40: karui, kekkou, kekkon, getsuyoubi, kotoba
+- [x] Group 41: omimai, ojousan, otaku, omiyage, soko
+- [x] Group 42: sochira, sono, sore, dewa, demo
+- [x] Group 43: doomo, dore, hai, mou, yukkuri
+- [x] Group 44: depaato, toire, nooto, paatii, pan
+- [x] Group 45: botan, posuto, meetoru, yasui, suru
+- [x] Group 46: chigau, hitotsu, chotto, hiku, nomu
+- [x] Group 47: tooi, yoko, nurui, doozo, dochira
+- [x] Group 48: nimotsu, soto, okosu, yasumi, yasumu
+- [x] Group 49: semai, odoroku, ossharu, chikai, sora
+- [x] Group 50: kirai, tatemono, inu, miseru, miru
