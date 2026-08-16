@@ -19,3 +19,5 @@
 - [x] Group 16: itsu, itsumo, donata, natsu, natsuyasumi
 - [x] Group 19: au, kaisha, umi, haizara, minna
 - [x] Group 15: okujou, ongaku, shita, kudasai, heta
+- [x] Group 22: seetaa, takushii, teeburu, teepu, teepurekoodaa
+- [x] Group 23: tesuto, terebi, doa, naifu, nyuusu
