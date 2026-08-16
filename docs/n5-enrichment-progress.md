@@ -49,3 +49,13 @@
 - [x] Group 48: nimotsu, soto, okosu, yasumi, yasumu
 - [x] Group 49: semai, odoroku, ossharu, chikai, sora
 - [x] Group 50: kirai, tatemono, inu, miseru, miru
+- [x] Group 51: kagi, genki, genkan, furui, yobu
+- [x] Group 52: to, go, itsutsu, itsuka, gogo
+- [x] Group 53: gozen, ato, ushiro, otsuri, gohan
+- [x] Group 54: kouban, kouen, atsui, kuchi, mukoo
+- [x] Group 55: suki, hiroi, koucha, furu, takai
+- [x] Group 56: kuro, kuroi, koko, ima, kongetsu
+- [x] Group 57: konshuu, konban, komaru, hidari, sasu
+- [x] Group 58: satou, suwaru, sarainen, hosoi, aru
+- [x] Group 59: saifu, saku, sakubun, toru, zasshi
+- [x] Group 60: osara, mittsu, mikka, kasa, yama
