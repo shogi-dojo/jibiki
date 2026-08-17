@@ -1,0 +1,300 @@
+#+TITLE: 値段
+#+JMDICT_ID: 1600160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねだん
+#+ROMAJI: nedan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1600160-001
+:PROPERTIES:
+:TEXT: 値段
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Written form wf-1600160-002
+:PROPERTIES:
+:TEXT: 直段
+:END:
+*** Information
+- rK
+** Reading rd-1600160-001
+:PROPERTIES:
+:TEXT: ねだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1600160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6046c2508a2db27837ed763ea18e190687f1fc553f776ec9e596df2b9ac103ce
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- price
+- cost
+** Ukrainian glosses
+*** uk-s-1600160-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ціна
+*** uk-s-1600160-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вартість
+** Learner notes
+*** note-s-1600160-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальне слово для позначення ціни або вартості товару чи послуги.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1600160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この値段は高いです。
+- READING :: このねだんはたかいです。
+- UK :: Ця ціна висока.
+- EN :: This price is high.
+- FOCUS :: 値段
+*** ex-1600160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 値段を下げてください。
+- READING :: ねだんをさげてください。
+- UK :: Будь ласка, знизьте ціну.
+- EN :: Please lower the price.
+- FOCUS :: 値段
+*** ex-1600160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 質の割には値段が安い。
+- READING :: しつのわりにはねだんがやすい。
+- UK :: Як на таку якість, ціна низька.
+- EN :: Considering the quality, the price is cheap.
+- FOCUS :: 値段
+
+* Sense s-1600160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6ee843c9ff07efb6458fd8c077d41a35d83078122f5c0313a714141a795fff67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prijs
+** Ukrainian glosses
+
+* Sense s-1600160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 551d413976828ae55804644bfc7d98525a628c6cc8494542de274dedd342605a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coût
+*** en-s-1600160-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix
+** Ukrainian glosses
+
+* Sense s-1600160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cbcfe6e15b8632c9f1f11c299e5f60356ebaa330cdc096f931da3a69429ce263
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Preis
+*** en-s-1600160-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kosten
+** Ukrainian glosses
+
+* Sense s-1600160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3d937733b3adb5923852de436d86bff163e3ff277f22e86a1275deed274bc6b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1600160-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: költség
+** Ukrainian glosses
+
+* Sense s-1600160-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 8c95c6b1cac0e004182f68e5de54b132ecce87136952ef8cee46614076471a48
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: цена
+** Ukrainian glosses
+
+* Sense s-1600160-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f0250dffc74a305a5ace6ffa70ce66dcc3795ee069e75ebddbd37c398484e3e4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cena (izdelka)
+** Ukrainian glosses
+
+* Sense s-1600160-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 56c2a2a00cab7e9e0bf1f0eec4ef901e16d655addea6a39553ef42a3fd3e397a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio
+*** en-s-1600160-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coste
+*** en-s-1600160-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (am) costo
+** Ukrainian glosses
+
+* Sense s-1600160-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 999e91359df1e5f890b2409596a01032baba28c03a10a32e5ae10b596963871c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600160-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pris
+*** en-s-1600160-009-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: självkostnadspris
+** Ukrainian glosses

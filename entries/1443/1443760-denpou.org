@@ -1,0 +1,253 @@
+#+TITLE: 電報
+#+JMDICT_ID: 1443760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんぽう
+#+ROMAJI: denpou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443760-001
+:PROPERTIES:
+:TEXT: 電報
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1443760-001
+:PROPERTIES:
+:TEXT: でんぽう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1443760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e671876b8cffc1a78ad323f3da14520eb631ac3fdf7f8a99b16471c3528938b1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- telegram
+** Ukrainian glosses
+*** uk-s-1443760-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: телеграма
+** Learner notes
+*** note-s-1443760-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що означає «телеграма». Хоча зараз у повсякденному житті вони майже не використовуються, у Японії досі існує традиція надсилати вітальні телеграми (祝電, шюкуден) на весілля чи співчуття на похорон. Зі словом «телеграма» часто вживається дієслово 打つ (уцу) — «відбивати».
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1443760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父に電報を送りました。
+- READING :: ちちに でんぽうを おくりました。
+- UK :: Я відправив телеграму батькові.
+- EN :: I sent a telegram to my father.
+- FOCUS :: 電報
+*** ex-1443760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼は家族に電報を打った。
+- READING :: かれは かぞくに でんぽうを うった。
+- UK :: Він відбив телеграму родині.
+- EN :: He sent a telegram to his family.
+- FOCUS :: 電報
+*** ex-1443760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 緊急の知らせが電報で届いた。
+- READING :: きんきゅうの しらせが でんぽうで とどいた。
+- UK :: Термінове повідомлення надійшло телеграмою.
+- EN :: An urgent notice arrived by telegram.
+- FOCUS :: 電報
+
+* Sense s-1443760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b6214c50551ebda8408f79f4f2af3c0ea558021683df08df86798f117a0a51ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telegram
+*** en-s-1443760-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: depêche
+** Ukrainian glosses
+
+* Sense s-1443760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5765bc8a2bf47b119093bdf89e26d5bc514dfc5828fb663f420c86e1f1ab4d3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: télégramme
+** Ukrainian glosses
+
+* Sense s-1443760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 988121d8bb2e8f3354942bcf82832c3d0117bcf26e3dd00725e24545e6e8632f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Telegramm
+** Ukrainian glosses
+
+* Sense s-1443760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8aac5b91d7bbaa69536262bb8b78e778d6319a4a7fce0fb52bf033b2b592c74f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: távirat
+** Ukrainian glosses
+
+* Sense s-1443760-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c0f036d27dac95fe4a95d9e4deaf95285190aefd48b46fbf2e5d1c63b01b6648
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: телеграмма
+*** en-s-1443760-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} по телеграфу, телеграммой
+** Ukrainian glosses
+
+* Sense s-1443760-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 17344939cb45972043890d5ceb4dd1216d7d435aa7587e68b212d172c06423f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telegram
+** Ukrainian glosses
+
+* Sense s-1443760-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4945d4341c14264b358900695ad29235b6fe657014093c08b8226a8787761ced
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telegrama
+** Ukrainian glosses
+
+* Sense s-1443760-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a93919408d96bc404bfdd26a845894374971aa6b59064b3f21553c50918613f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443760-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telegram
+** Ukrainian glosses
