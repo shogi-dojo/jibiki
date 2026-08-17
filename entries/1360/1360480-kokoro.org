@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: こころ
 #+ROMAJI: kokoro
-#+ENTRY_STATUS: draf
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-17
@@ -67,7 +67,6 @@
 :REVIEWED_AT:
 :END:
 - text :: розум
-** Learner notes
 *** note-s-1360480-001-001
 :PROPERTIES:
 :END:
@@ -80,6 +79,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1360480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 彼女は心が優しい。
 - READING :: かのじょ は こころ が やさしい。
 - UK :: У неї добре серце.
@@ -90,6 +93,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1360480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 心を込めて手紙を書きました。
 - READING :: こころ を こめて てがみ を かきました。
 - UK :: Я написав лист від щирого серця.
@@ -99,6 +106,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1360480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 彼の言葉は心に残った。
 - READING :: かれ の ことば は こころ に のこった。

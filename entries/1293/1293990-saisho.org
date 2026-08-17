@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: さいしょ
 #+ROMAJI: saisho
-#+ENTRY_STATUS: draf
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-17
@@ -59,7 +59,6 @@
 :END:
 - text :: початок
 - text :: перший
-** Learner notes
 *** note-s-1293990-001-001
 :PROPERTIES:
 :END:
@@ -72,6 +71,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1293990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 最初のページを開いてください。
 - READING :: さいしょのページをひらいてください。
 - UK :: Відкрийте першу сторінку.
@@ -82,6 +85,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1293990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 彼は最初からそのことを知っていた。
 - READING :: かれはさいしょからそのことをしっていた。
 - UK :: Він знав про це з самого початку.
@@ -91,6 +98,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1293990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 最初は難しかったですが、慣れると簡単になりました。
 - READING :: さいしょはむずかしかったですが、なれるとかんたんになりました。

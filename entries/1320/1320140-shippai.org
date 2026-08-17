@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: しっぱい
 #+ROMAJI: shippai
-#+ENTRY_STATUS: draf
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-17
@@ -74,7 +74,6 @@
 :REVIEWED_AT:
 :END:
 - text :: провал
-** Learner notes
 *** note-s-1320140-001-001
 :PROPERTIES:
 :END:
@@ -87,6 +86,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1320140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 失敗を恐れないでください。
 - READING :: しっぱい を おそれない で ください。
 - UK :: Не бійтеся невдач.
@@ -97,6 +100,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1320140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 彼の計画は失敗に終わった。
 - READING :: かれ の けいかく は しっぱい に おわった。
 - UK :: Його план завершився невдачею.
@@ -106,6 +113,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1320140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: それは大きな失敗でした。
 - READING :: それ は おおきな しっぱい でした。

@@ -2,7 +2,7 @@
 #+JMDICT_ID: 1350080
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: けしゴム
-#+ROMAJI: keshi
+#+ROMAJI: keshigomu
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
@@ -84,7 +84,6 @@
 :REVIEWED_AT:
 :END:
 - text :: гумка; стирачка
-** Learner notes
 *** note-s-1350080-001-001
 :PROPERTIES:
 :END:
@@ -97,6 +96,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1350080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 消しゴムを貸してください。
 - READING :: けしゴムを かして ください。
 - UK :: Позичте, будь ласка, гумку.
@@ -107,6 +110,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1350080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 新しい消しゴムを買いました。
 - READING :: あたらしい けしゴムを かいました。
 - UK :: Я купив нову гумку.
@@ -116,6 +123,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1350080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: この消しゴムはよく字が消える。
 - READING :: この けしゴムは よく じが きえる。

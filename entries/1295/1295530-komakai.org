@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: こまかい
 #+ROMAJI: komakai
-#+ENTRY_STATUS: draf
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-17
@@ -54,7 +54,6 @@
 :END:
 - text :: дрібний
 - text :: маленький
-** Learner notes
 *** note-s-1295530-001-001
 :PROPERTIES:
 :END:
@@ -67,6 +66,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1295530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 細かいお金がありますか。
 - READING :: こまかいおかねがありますか。
 - UK :: У вас є дрібні гроші?
@@ -77,6 +80,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1295530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: もっと細かく切ってください。
 - READING :: もっとこまかくきってください。
 - UK :: Будь ласка, наріжте дрібніше.
@@ -86,6 +93,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1295530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 彼は細かい文字が読めなくなってきた。
 - READING :: かれはこまかいもじがよめなくなってきた。

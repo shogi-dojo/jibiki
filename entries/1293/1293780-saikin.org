@@ -3,7 +3,7 @@
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: さいきん
 #+ROMAJI: saikin
-#+ENTRY_STATUS: draf
+#+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
 #+CREATED_AT: 2026-08-17
@@ -61,7 +61,6 @@
 - text :: нещодавно
 - text :: останнім часом
 - text :: цими днями
-** Learner notes
 *** note-s-1293780-001-001
 :PROPERTIES:
 :END:
@@ -74,6 +73,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1293780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 最近、どうですか。
 - READING :: さいきん、どうですか。
 - UK :: Як у вас справи останнім часом?
@@ -84,6 +87,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1293780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 最近、よく本を読みます。
 - READING :: さいきん、よくほんをよみます。
 - UK :: Останнім часом я багато читаю.
@@ -93,6 +100,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1293780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 最近の若者はテレビを見ないと言われている。
 - READING :: さいきんのわかものはテレビをみないといわれている。

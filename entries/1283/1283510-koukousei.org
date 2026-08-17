@@ -2,7 +2,7 @@
 #+JMDICT_ID: 1283510
 #+SCHEMA_VERSION: 2
 #+PRIMARY_READING: こうこうせい
-#+ROMAJI: koukyou
+#+ROMAJI: koukousei
 #+ENTRY_STATUS: draft
 #+QUALITY_PROFILE: learner
 #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
@@ -53,7 +53,6 @@
 :REVIEWED_AT:
 :END:
 - text :: учень старшої школи; старшокласник
-** Learner notes
 *** note-s-1283510-001-001
 :PROPERTIES:
 :END:
@@ -66,6 +65,10 @@
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
+*** ex-s-1283510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
 - JA :: 私は高校生です。
 - READING :: わたしは こうこうせいです。
 - UK :: Я старшокласник.
@@ -76,6 +79,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1283510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 妹はまだ高校生です。
 - READING :: いもうとは まだ こうこうせいです。
 - UK :: Моя молодша сестра ще старшокласниця.
@@ -85,6 +92,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1283510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 多くの高校生がアルバイトをしています。
 - READING :: おおくの こうこうせいが アルバイトを しています。
