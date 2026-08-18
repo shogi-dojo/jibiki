@@ -1,0 +1,296 @@
+#+TITLE: 地震
+#+JMDICT_ID: 1421210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じしん
+#+ROMAJI: jishin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1421210-001
+:PROPERTIES:
+:TEXT: 地震
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1421210-001
+:PROPERTIES:
+:TEXT: じしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1421210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ebdead60bf7d9951b3a04c01e69b0b7dfa443c72b4382b784beaf77c13989b09
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- earthquake
+** Ukrainian glosses
+*** uk-s-1421210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: землетрус, підземні поштовхи
+*** note-s-1421210-001-001
+:PROPERTIES:
+:END:
+- UK :: 地震 (じしん, «джішін») — «землетрус»; слово складається з кандзі 地 («земля») і 震 («трястися»). Типові сполучення: 地震がある («стається землетрус»), 大地震 («сильний землетрус»), 地震が収まる («поштовхи вщухають»). Не плутайте з 震災 (しんさい, «шінсай») — «руйнування, спричинені землетрусом», а силу поштовхів у Японії вимірюють за шкалою 震度 (しんど, «шіндо»).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1421210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+*** ex-s-1421210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 昨日、大きな地震がありました。
+- READING :: きのう、 おおきな じしん が ありました。
+- UK :: Учора стався сильний землетрус.
+- EN :: Yesterday there was a strong earthquake.
+- FOCUS :: 地震
+*** ex-1421210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+*** ex-s-1421210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 地震の時は、机の下に隠れてください。
+- READING :: じしん の とき は、 つくえ の した に かくれて ください。
+- UK :: У разі землетрусу, будь ласка, ховайтеся під стіл.
+- EN :: During an earthquake, please hide under a desk.
+- FOCUS :: 地震
+*** ex-1421210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+*** ex-s-1421210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 専門家は今後も大きな地震が起こる可能性があると警告している。
+- READING :: せんもんか は こんご も おおきな じしん が おこる かのうせい が ある と けいこく して いる。
+- UK :: Фахівці попереджають, що й надалі може статися сильний землетрус.
+- EN :: Experts warn that a strong earthquake may occur again in the future.
+- FOCUS :: 地震
+
+* Sense s-1421210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1249168cd653b5d07632af8b47bc3ebe4b85c70b6718fd8e99eee097cc518496
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardbeving
+*** en-s-1421210-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} aardschok
+*** en-s-1421210-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardstoot
+** Ukrainian glosses
+
+* Sense s-1421210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1040a27f263caa34b8e7265d19fc57523cda644cee589c60583ed88e07edcda1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: séisme
+*** en-s-1421210-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: secousse tellurique
+*** en-s-1421210-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tremblement de terre
+** Ukrainian glosses
+
+* Sense s-1421210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bdae2fcdfdcb7ca8a0f8fd5c47dad7d4807c0428cecce784c980132b738187e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdbeben
+*** en-s-1421210-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdstoß
+** Ukrainian glosses
+
+* Sense s-1421210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c51e9c0d14ad530c1a9abbda723229fba6b39e4c7813619f0f51d5ab57391549
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földrengés
+** Ukrainian glosses
+
+* Sense s-1421210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b70eb34e1f205d6d1e71794230d9d84d49cab5c2614ed84b03076293b57cdc77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: землетрясение ((как явление; ср.) しんさい【震災】); подземные толчки
+** Ukrainian glosses
+
+* Sense s-1421210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4d04caa1a57b8d3fedb464eae5caaf510e8f4ae6b0a107d984be903f4611133f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: potres
+** Ukrainian glosses
+
+* Sense s-1421210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 97adab23c51eba7399ca965b99d4bc6f2be424d7dd37a21bf1040e0ede04f510
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terremoto
+** Ukrainian glosses
+
+* Sense s-1421210-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 80761d4c0c83c910567d70e5238a4959000ecf658f40e2eaea400039399f45c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421210-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jordbävning
+*** en-s-1421210-009-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jordskalv
+** Ukrainian glosses

@@ -58,12 +58,20 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: обов'язково, неодмінно
+- text :: обов'язково, неодмінно, безумовно
+*** note-s-1487400-001-001
+:PROPERTIES:
+:END:
+- UK :: Виражає високий ступінь впевненості у тому, що дія відбудеться або має відбутися за будь-яких умов ("без винятку", "неодмінно"). Часто вживається з проханнями, обіцянками або звичками.
 ** Examples
 *** ex-1487400-001-001
 :PROPERTIES:
 :LEVEL: beginner
 :REGISTER: neutral
+:END:
+*** ex-s-1487400-001-001
+:PROPERTIES:
+:LEVEL: beginner
 :END:
 - JA :: 寝る前に必ず歯を磨きます。
 - READING :: ねるまえにかならずはをみがきます。
@@ -75,6 +83,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1487400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: 必ず行きます。
 - READING :: かならずいきます。
 - UK :: Я обов'язково піду.
@@ -84,6 +96,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1487400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 明日必ず来てください。
 - READING :: あしたかならずきてください。

@@ -72,6 +72,36 @@ class DictionarySourcesTest < Minitest::Test
     assert_match(/missing Warodai card ID/, error.message)
   end
 
+  def test_warodai_lookup_many_preserves_exact_semantics_and_query_order
+    Dir.mktmpdir do |directory|
+      cards = {
+        '001/00/001-00-01.txt' => "あう【会う】(ау)〔001-00-01〕\nвстречаться.",
+        '001/00/001-00-02.txt' => "あう【合う】(ау)〔001-00-02〕\nсовпадать.",
+        '001/00/001-00-03.txt' => "が【画】(га)〔001-00-03〕\nрисунок."
+      }
+      cards.each do |relative_path, content|
+        path = File.join(directory, relative_path)
+        FileUtils.mkdir_p(File.dirname(path))
+        File.write(path, content, encoding: Encoding::UTF_8)
+      end
+
+      queries = [
+        { written: '会う', reading: 'あう' },
+        { reading: 'あう' },
+        { written: '会う', reading: 'ちがう' },
+        { card_id: '001-00-02' },
+        { written: '画', reading: "か\u3099" }
+      ]
+      results = DictionarySources::Warodai.new(directory).lookup_many(queries)
+
+      assert_equal ['001-00-01'], results[0].map { |entry| entry[:card_id] }
+      assert_equal %w[001-00-01 001-00-02], results[1].map { |entry| entry[:card_id] }
+      assert_empty results[2]
+      assert_equal ['001-00-02'], results[3].map { |entry| entry[:card_id] }
+      assert_equal ['001-00-03'], results[4].map { |entry| entry[:card_id] }
+    end
+  end
+
   def test_n5_queue_uses_csv_aware_tsv_parsing
     Dir.mktmpdir do |directory|
       path = File.join(directory, 'n5.tsv')

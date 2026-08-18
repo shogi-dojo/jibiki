@@ -61,40 +61,56 @@
 ** Ukrainian glosses
 *** uk-s-1346150-001-001
 :PROPERTIES:
-:TRANSLATOR_ID:
-:TRANSLATED_AT:
-:REVIEWER_ID:
-:REVIEWED_AT:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-16
 :END:
 - text :: перемагати, вигравати
+*** note-s-1346150-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово 勝つ (かつ) означає перемагати в грі, змаганні або бою. Вимагає частки に для позначення того, в чому або над ким здобуто перемогу (наприклад, 試合に勝つ — виграти матч).
+- LEVEL :: beginner
+- REGISTER :: neutral
 ** Examples
 *** ex-1346150-001-001
 :PROPERTIES:
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: どちらのチームが勝つと思いますか。
-- READING :: どちらのちーむがかつとおもいますか。
-- UK :: Як ви думаєте, яка команда переможе?
-- EN :: Which team do you think will win?
-- FOCUS :: 勝つ
+*** ex-s-1346150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 私たちのチームが試合に勝ちました。
+- READING :: わたしたちのちーむがしあいにかちました。
+- UK :: Наша команда виграла матч.
+- EN :: Our team won the match.
+- FOCUS :: 勝ちました
 *** ex-1346150-001-002
 :PROPERTIES:
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
-- JA :: 試合に勝ちました。
-- READING :: しあいにかちました。
-- UK :: Я виграв у матчі.
-- EN :: I won the match.
-- FOCUS :: 勝ちました
+*** ex-s-1346150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 次の試合には絶対に勝ちたいです。
+- READING :: つぎのしあいにはぜったいにかちたいです。
+- UK :: Я неодмінно хочу виграти наступний матч.
+- EN :: I absolutely want to win the next match.
+- FOCUS :: 勝ちたい
 *** ex-1346150-001-003
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: 絶対に勝ちたいです。
-- READING :: ぜったいにかちたいです。
-- UK :: Я неодмінно хочу перемогти.
-- EN :: I absolutely want to win.
-- FOCUS :: 勝ちたい
+*** ex-s-1346150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 自分に勝つことが一番難しい。
+- READING :: じぶんにかつことがいちばんむずかしい。
+- UK :: Найважче — це перемогти самого себе.
+- EN :: Winning against yourself is the most difficult thing.
+- FOCUS :: 勝つ

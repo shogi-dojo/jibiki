@@ -62,17 +62,25 @@
 ** Ukrainian glosses
 *** uk-s-1483190-001-001
 :PROPERTIES:
-:TRANSLATOR_ID:
-:TRANSLATED_AT:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-16
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: сумний
+- text :: сумний, нещасний, тужливий
+*** note-s-1483190-001-001
+:PROPERTIES:
+:END:
+- UK :: Описує внутрішнє почуття суму, скорботи або нещастя. Переважно вживається для вираження емоційного стану людини, а також для подій, що викликають такі емоції.
 ** Examples
 *** ex-1483190-001-001
 :PROPERTIES:
 :LEVEL: beginner
 :REGISTER: neutral
+:END:
+*** ex-s-1483190-001-001
+:PROPERTIES:
+:LEVEL: beginner
 :END:
 - JA :: 悲しいニュースを聞いて、泣きました。
 - READING :: かなしいにゅーすをきいて、なきました。
@@ -84,6 +92,10 @@
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
+*** ex-s-1483190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
 - JA :: とても悲しいです。
 - READING :: とてもかなしいです。
 - UK :: Мені дуже сумно.
@@ -93,6 +105,10 @@
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
+:END:
+*** ex-s-1483190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
 :END:
 - JA :: 悲しい映画を見ました。
 - READING :: かなしいえいがをみました。
@@ -118,5 +134,7 @@
 ** Ukrainian glosses
 *** uk-s-1483190-002-001
 :PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-16
 :END:
-- text :: прикрий, сумний
+- text :: прикрий, сумний, жалюгідний

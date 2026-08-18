@@ -124,6 +124,12 @@ namespace :org do
 end
 
 namespace :export do
+  desc 'Export a private static HTML comparison dictionary: rake "export:html[build/dictionary.html]"'
+  task :html, [:output] do |_task, args|
+    args.with_defaults(output: 'build/dictionary.html')
+    sh RUBY, 'scripts/export_static_html.rb', '--output', args[:output]
+  end
+
   desc 'Export the rich learner SQLite database: rake "export:rich[build/jibiki.sqlite,base_db_path]"'
   task :rich, %i[output base] do |_task, args|
     args.with_defaults(output: 'build/jibiki.sqlite')
