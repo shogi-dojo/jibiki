@@ -42,11 +42,34 @@ module DictionarySources
         raise ArgumentError, 'provide written, reading, or card_id' if query.values.all?(&:nil?)
       end
 
+      by_card_id = Hash.new { |hash, key| hash[key] = [] }
+      by_written = Hash.new { |hash, key| hash[key] = [] }
+      by_reading = Hash.new { |hash, key| hash[key] = [] }
+      queries.each_with_index do |query, index|
+        if query[:card_id]
+          by_card_id[query[:card_id]] << index
+        elsif query[:written]
+          by_written[query[:written]] << index
+        else
+          by_reading[query[:reading]] << index
+        end
+      end
+
       results = Array.new(queries.length) { [] }
       candidate_paths(nil).each do |path|
         entry = parse_file(path)
-        queries.each_with_index do |query, i|
-          results[i] << entry if matches?(entry, **query)
+
+        candidate_indexes = by_card_id[entry[:card_id]].dup
+        entry[:written_forms].each do |form|
+          candidate_indexes.concat(by_written[searchable_form(form)])
+        end
+        entry[:kana_forms].each do |form|
+          candidate_indexes.concat(by_reading[searchable_form(form)])
+        end
+
+        candidate_indexes.uniq.each do |index|
+          query = queries[index]
+          results[index] << entry if matches?(entry, **query)
         end
       end
       results
