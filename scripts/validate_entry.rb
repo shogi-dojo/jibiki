@@ -3,6 +3,7 @@
 
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/exporters/houhou_vocab_matcher'
+require_relative '../lib/org_entry'
 
 REPO_ROOT = File.expand_path('..', __dir__)
 JMDICT_PATH = ENV.fetch(
@@ -178,6 +179,12 @@ def validate_entry(filepath)
   rescue => e
     errors << "Failed to decode UTF-8: #{e.message}"
     return errors
+  end
+
+  begin
+    OrgEntry.load(filepath)
+  rescue OrgEntry::ParseError => e
+    errors << "Org parse error: #{e.message}"
   end
 
   # Check NFC normalization
