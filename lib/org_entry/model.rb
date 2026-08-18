@@ -366,7 +366,7 @@ module OrgEntry
       else
         text_item = source.content.find { |item| item.label == 'text' } ||
                     source.content.find { |item| item.label.nil? }
-        @text = text_item ? text_item.value : ''
+        @text = text_item && text_item.value != 'text ::' ? text_item.value : ''
 
         qual_item = source.content.find { |item| item.label == 'qualifier' }
         @qualifier = qual_item ? qual_item.value : nil

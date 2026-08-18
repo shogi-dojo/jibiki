@@ -173,4 +173,119 @@ class OrgEntryTest < Minitest::Test
     assert_equal 'beginner', ex.level
     assert_equal 'neutral', ex.register
   end
+
+  def test_recovers_all_supported_ukrainian_content_shapes
+    content = <<~ORG
+      #+TITLE: 試験
+      #+JMDICT_ID: 9999990
+      #+SCHEMA_VERSION: 2
+      #+PRIMARY_READING: しけん
+      #+ROMAJI: shiken
+      #+ENTRY_STATUS: draft
+      #+QUALITY_PROFILE: enriched
+      #+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+      #+CREATED_AT: 2026-08-18
+      #+DEFAULT_AUTHOR_ID: tester
+      #+DEFAULT_LICENSE: CC-BY-SA-4.0
+      #+DEFAULT_SOURCE_TYPE: original
+      #+DEFAULT_STATUS: draft
+
+      * Forms
+      ** Written form wf-9999990-001
+      :PROPERTIES:
+      :TEXT: 試験
+      :END:
+      ** Reading rd-9999990-001
+      :PROPERTIES:
+      :TEXT: しけん
+      :NO_KANJI: false
+      :END:
+      *** Applies to written forms
+      - *
+      * Sense s-9999990-001
+      :PROPERTIES:
+      :SOURCE_SENSE_INDEX: 1
+      :SOURCE_FINGERPRINT: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+      :END:
+      ** English glosses
+      - test
+      ** Ukrainian glosses
+      - випробування
+      *** uk-s-9999990-001-001
+      :PROPERTIES:
+      :END:
+      - перевірка
+      *** note-s-9999990-001-001
+      :PROPERTIES:
+      :END:
+      - UK :: Вкладена примітка.
+      ** Russian reference
+      - 2 :: тест
+      *** ln-9999990-001-001
+      - UK :: Застаріла вкладена примітка.
+      ** Constructions and derivatives
+      *** con-s-9999990-001-001
+      :PROPERTIES:
+      :END:
+      - RELATION :: derivative
+      - TARGET :: 試験場
+      - TARGET_ID :: 123
+      - READING :: しけんじょう
+      - UK :: екзаменаційний майданчик
+      ** Related words
+      *** rel-s-9999990-001-001
+      :PROPERTIES:
+      :END:
+      - RELATION :: contrast
+      - TARGET :: 実験
+      - TARGET_ID :: 456
+      - READING :: じっけん
+      - UK :: експеримент
+      - UK_CONTEXT :: у науковому контексті
+      - NOTE :: Не плутати зі 試験.
+
+      * Pronunciation
+      ** Accent accent-rd-9999990-001-001
+      :PROPERTIES:
+      :TARGET_ID: rd-9999990-001
+      :PATTERN: heiban
+      :MORA_PATTERN: LHHH
+      :STATUS: imported
+      :END:
+      - reading :: しけん
+      - explanation-uk :: Акцентна примітка.
+
+      * Media
+      ** Audio audio-rd-9999990-001-001
+      :PROPERTIES:
+      :TARGET_TYPE: reading
+      :TARGET_ID: rd-9999990-001
+      :RECORDING_TYPE: tts
+      :END:
+      - text :: 試験
+      - reading :: しけん
+      - learner-note-uk :: Медіапримітка.
+    ORG
+
+    entry = OrgEntry.parse(content)
+    sense = entry.senses.first
+
+    assert_equal %w[випробування перевірка], sense.ukrainian_glosses.map(&:text)
+    assert_equal %w[uk-s-9999990-001-002 uk-s-9999990-001-001], sense.ukrainian_glosses.map(&:id)
+    assert sense.ukrainian_glosses.all? { |gloss| gloss.translator_id == 'tester' }
+    assert_equal ['Вкладена примітка.', 'Застаріла вкладена примітка.'], sense.learner_notes.map(&:uk)
+
+    construction = sense.constructions.first
+    assert_equal 'しけんじょう', construction.reading
+    assert_equal 'екзаменаційний майданчик', construction.uk
+
+    related = sense.related_words.first
+    assert_equal 'じっけん', related.reading
+    assert_equal 'експеримент', related.uk
+    assert_equal 'у науковому контексті', related.uk_context
+    assert_equal 'Не плутати зі 試験.', related.note
+
+    assert_equal 'Акцентна примітка.', entry.pronunciations.first.explanation_uk
+    assert_equal 'Медіапримітка.', entry.media.first.learner_note_uk
+  end
 end

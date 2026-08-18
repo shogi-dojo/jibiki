@@ -19,6 +19,8 @@ module Exporters
       private
 
       def ensure_unique_entries!(entries)
+        raise ArgumentError, 'no dictionary entries provided' if entries.empty?
+
         duplicates = entries.group_by(&:jmdict_id).select { |_id, matches| matches.length > 1 }
         return if duplicates.empty?
 
@@ -392,14 +394,16 @@ module Exporters
                   return wrapper;
                 }
 
-                function badge(value) {
-                  return element('span', 'badge', value);
+                function badge(value, tokens = [], language) {
+                  const node = element('span', 'badge');
+                  appendHighlighted(node, value, tokens, language);
+                  return node;
                 }
 
-                function addBadges(parent, values) {
+                function addBadges(parent, values, tokens = [], language) {
                   const row = element('div', 'meta-line');
                   values.filter(value => value !== null && value !== undefined && String(value).trim() !== '')
-                    .forEach(value => row.append(badge(value)));
+                    .forEach(value => row.append(badge(value, tokens, language)));
                   if (row.childNodes.length) parent.append(row);
                 }
 
@@ -434,27 +438,27 @@ module Exporters
                   entry.senses.filter(hasUkrainian).forEach(sense => {
                     const section = element('section', 'sense');
                     section.append(element('h3', null, `Sense ${sense.source_index}`));
-                    addBadges(section, [sense.id, sense.learner_priority]);
+                    addBadges(section, [sense.id, sense.learner_priority], tokens);
                     listBlock(section, 'Glosses', sense.ukrainian_glosses, (row, item) => {
                       appendHighlighted(row, item.text, tokens, 'uk');
-                      addBadges(row, [item.qualifier, item.status]);
+                      addBadges(row, [item.qualifier, item.status], tokens, 'uk');
                     });
                     listBlock(section, 'Learner notes', sense.learner_notes, (row, item) => {
                       appendHighlighted(row, item.uk, tokens, 'uk');
-                      addBadges(row, [item.level, item.register, item.status, item.id]);
+                      addBadges(row, [item.level, item.register, item.status, item.id], tokens);
                     });
                     listBlock(section, 'Collocations', sense.collocations, (row, item) => {
                       addTextLine(row, null, item.ja, tokens, 'ja');
                       addTextLine(row, 'Reading', item.reading, tokens, 'ja');
                       addTextLine(row, 'UK', item.uk, tokens, 'uk');
                       addTextLine(row, 'Pattern', item.pattern, tokens);
-                      addBadges(row, [item.register, item.status, item.id]);
+                      addBadges(row, [item.register, item.status, item.id], tokens);
                     });
                     listBlock(section, 'Constructions and derivatives', sense.constructions, (row, item) => {
                       addTextLine(row, item.relation, item.target, tokens, 'ja');
                       addTextLine(row, 'Reading', item.reading, tokens, 'ja');
                       addTextLine(row, 'UK', item.uk, tokens, 'uk');
-                      addBadges(row, [item.target_id, item.status, item.id]);
+                      addBadges(row, [item.target_id, item.status, item.id], tokens);
                     });
                     listBlock(section, 'Related words', sense.related_words, (row, item) => {
                       addTextLine(row, item.relation, item.target, tokens, 'ja');
@@ -462,14 +466,14 @@ module Exporters
                       addTextLine(row, 'UK', item.uk, tokens, 'uk');
                       addTextLine(row, 'Context', item.uk_context, tokens, 'uk');
                       addTextLine(row, 'Note', item.note, tokens, 'uk');
-                      addBadges(row, [item.target_id, item.status, item.id]);
+                      addBadges(row, [item.target_id, item.status, item.id], tokens);
                     });
                     listBlock(section, 'Idioms and proverbs', sense.idioms, (row, item) => {
                       addTextLine(row, null, item.ja, tokens, 'ja');
                       addTextLine(row, 'Reading', item.reading, tokens, 'ja');
                       addTextLine(row, 'UK', item.uk, tokens, 'uk');
                       addTextLine(row, 'EN', item.en, tokens, 'en');
-                      addBadges(row, [item.level, item.register, item.status, item.id]);
+                      addBadges(row, [item.level, item.register, item.status, item.id], tokens);
                     });
                     listBlock(section, 'Examples', sense.examples, (row, item) => {
                       addTextLine(row, null, item.ja, tokens, 'ja');
@@ -477,20 +481,20 @@ module Exporters
                       addTextLine(row, 'Romaji', item.romaji, tokens);
                       addTextLine(row, 'UK', item.uk, tokens, 'uk');
                       addTextLine(row, 'EN', item.en, tokens, 'en');
-                      addBadges(row, [item.level, item.register, item.status, item.id]);
+                      addBadges(row, [item.level, item.register, item.status, item.id], tokens);
                     });
                     body.append(section);
                   });
                   listBlock(body, 'Pronunciation notes', entry.pronunciations, (row, item) => {
                     addTextLine(row, 'Reading', item.reading, tokens, 'ja');
                     addTextLine(row, null, item.explanation_uk, tokens, 'uk');
-                    addBadges(row, [item.pattern, item.mora_pattern, item.status, item.id]);
+                    addBadges(row, [item.pattern, item.mora_pattern, item.status, item.id], tokens);
                   });
                   listBlock(body, 'Media notes', entry.media_notes, (row, item) => {
                     addTextLine(row, null, item.text, tokens, 'ja');
                     addTextLine(row, 'Reading', item.reading, tokens, 'ja');
                     addTextLine(row, null, item.learner_note_uk, tokens, 'uk');
-                    addBadges(row, [item.recording_type, item.id]);
+                    addBadges(row, [item.recording_type, item.id], tokens);
                   });
                   if (!body.childNodes.length) body.append(element('p', 'empty', 'No Ukrainian content recorded.'));
                 }
@@ -530,7 +534,7 @@ module Exporters
                     const heading = element('h3');
                     appendHighlighted(heading, card.header, tokens, 'ja');
                     wrapper.append(heading);
-                    addBadges(wrapper, [card.card_id, card.polivanov, ...card.corpus_codes]);
+                    addBadges(wrapper, [card.card_id, card.polivanov, ...card.corpus_codes], tokens, 'ru');
                     card.body_lines.forEach(line => {
                       const paragraph = element('p', 'warodai-line');
                       appendWarodaiMarkup(paragraph, line, tokens);
@@ -545,7 +549,7 @@ module Exporters
                   senses.forEach(sense => {
                     const section = element('section', 'sense');
                     section.append(element('h3', null, `Sense ${sense.source_index}`));
-                    addBadges(section, [sense.id, sense.learner_priority, ...sense.parts_of_speech, ...sense.miscellaneous, ...sense.fields, ...sense.dialects]);
+                    addBadges(section, [sense.id, sense.learner_priority, ...sense.parts_of_speech, ...sense.miscellaneous, ...sense.fields, ...sense.dialects], tokens, 'en');
                     if (sense.applies_to_written.length && !sense.applies_to_written.includes('*')) {
                       addTextLine(section, 'Written forms', sense.applies_to_written.join(', '), tokens, 'ja');
                     }
@@ -557,7 +561,7 @@ module Exporters
                     sense.english_glosses.forEach(gloss => {
                       const row = element('li', 'item');
                       appendHighlighted(row, gloss.text, tokens, 'en');
-                      addBadges(row, [gloss.type !== 'plain' ? gloss.type : null, gloss.gender !== 'none' ? gloss.gender : null, gloss.primary ? 'primary' : null]);
+                      addBadges(row, [gloss.type !== 'plain' ? gloss.type : null, gloss.gender !== 'none' ? gloss.gender : null, gloss.primary ? 'primary' : null], tokens, 'en');
                       glosses.append(row);
                     });
                     section.append(glosses);
@@ -588,7 +592,7 @@ module Exporters
                   const readings = entry.readings.map(item => item.text).join(' · ');
                   if (forms && forms !== entry.title) addTextLine(head, 'Forms', forms, tokens, 'ja');
                   if (readings && readings !== entry.primary_reading) addTextLine(head, 'Readings', readings, tokens, 'ja');
-                  addBadges(head, [`JMdict ${entry.id}`, entry.romaji, entry.profile, entry.status]);
+                  addBadges(head, [`JMdict ${entry.id}`, entry.romaji, entry.profile, entry.status], tokens);
                   card.append(head);
                   card.append(languageSection('uk', 'Ukrainian authored content', true, entry, tokens, renderUkrainian));
                   card.append(languageSection('ru', 'Warodai · Russian reference', false, entry, tokens, renderWarodai));
