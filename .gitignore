@@ -8,3 +8,8 @@
 /build/
 /.bundle/
 /vendor/
+
+# transient agent scratch scripts and command dumps
+/update_*.py
+/process_entries.py
+/validate_out.txt
