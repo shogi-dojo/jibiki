@@ -1,0 +1,551 @@
+#+TITLE: 瓦斯
+#+JMDICT_ID: 1040060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ガス
+#+ROMAJI: gasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1040060-001
+:PROPERTIES:
+:TEXT: 瓦斯
+:END:
+*** Information
+- ateji
+- rK
+** Reading rd-1040060-001
+:PROPERTIES:
+:TEXT: ガス
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1040060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 075a7a2c02abfe57e44efae3911123c6e7b1486e1099d18452500147948f2b44
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Language sources
+**** Language source ls-s-1040060-001-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+**** Language source ls-s-1040060-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- gas (as a fuel)
+** Ukrainian glosses
+*** uk-s-1040060-001-001
+:PROPERTIES:
+:END:
+- text :: газ
+- qualifier :: побутовий або природний (паливо)
+*** uk-s-1040060-001-002
+:PROPERTIES:
+:END:
+- text :: побутовий газ
+** Learner notes
+*** note-s-1040060-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення ガス (gasu, від нідерл. gas; рідкісний атедзі 瓦斯) найчастіше означає побутовий газ: ガスの火 (полум'я конфорки), ガスの元栓 (газовий вентиль), ガス代 (плата за газ), ガスコンロ (газова плита). У науці означає газуватий стан речовини (синонім 気体 / kitai), а в альпінізмі — гірський густий туман (ガスがかかる).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1040060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 出かける前に、ガスの火をちゃんと消したか確かめました。
+- READING :: でかけるまえに、がすのひをちゃんとけしたかたしかめました。
+- ROMAJI :: Dekakeru mae ni, gasu no hi o chanto keshita ka tashikamemashita.
+- UK :: Перш ніж вийти з дому, я перевірив, чи справді вимкнув газ.
+- EN :: Before leaving, I made sure I had properly turned off the gas flame.
+- FOCUS :: ガスの
+*** ex-1040060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地震などの災害が起きたときは、火災を防ぐためにすぐにガスの元栓を閉めてください。
+- READING :: じしんなどのさいがいがおきたときは、かさいをふせぐためにすぐにがすのもとせんをしめてください。
+- ROMAJI :: Jishin nado no saigai ga okita toki wa, kasai o fusegu tame ni sugu ni gasu no motosen o shimete kudasai.
+- UK :: Під час лиха, як-от землетрус, негайно перекрийте головний газовий кран, щоб уникнути пожежі.
+- EN :: In the event of a disaster such as an earthquake, please turn off the main gas valve immediately to prevent fires.
+- FOCUS :: ガスの
+*** ex-1040060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今月は寒波の影響で暖房用のガス代がかなり高くなってしまったので、来月からは節約を意識しようと思います。
+- READING :: こんげつはかんぱのえいきょうでだんぼうようのがすだいがかなりたかくなってしまったので、らいげつからはせつやくをいしきしようとおもいます。
+- ROMAJI :: Kongetsu wa kanpa no eikyou de danbouyou no gasudai ga kanari takaku natte shimatta node, raigetsu kara wa setsuyaku o ishiki shiyou to omoimasu.
+- UK :: Цього місяця через сильні холоди рахунок за газ для опалення помітно зріс, тому з наступного місяця я намагатимуся економити.
+- EN :: Due to the cold wave this month, heating gas bills became quite high, so I intend to be mindful of saving next month.
+- FOCUS :: ガス代が
+
+* Sense s-1040060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 826886875e21d84bb42d44f40f201b7a95bbd4227a07ff969f41f70add469e8f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- 気体
+** English glosses
+- gas (state of matter)
+** Ukrainian glosses
+*** uk-s-1040060-002-001
+:PROPERTIES:
+:END:
+- text :: газ, газуватий стан
+- qualifier :: агрегатний стан речовини
+
+* Sense s-1040060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e433f13efeaf85dc88a4143db8cdc43e30bf78b45b048be3fcf5af8b39f130ca
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- 毒ガス
+** English glosses
+- poison gas
+** Ukrainian glosses
+*** uk-s-1040060-003-001
+:PROPERTIES:
+:END:
+- text :: отруйний газ, бойові отруйні речовини
+
+* Sense s-1040060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3bf9c633f2c7c138958c55c510ebbcb674075593d91b2e5d5f45d5eedb509edd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- dense fog
+- thick fog
+** Ukrainian glosses
+*** uk-s-1040060-004-001
+:PROPERTIES:
+:END:
+- text :: густий туман, імла
+- qualifier :: у горах (ガスがかかる)
+
+* Sense s-1040060-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 11904b372217e0034210a35774dc8cc1413194e78376aef4d56549497bf567c9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+- abbr
+*** Cross-references
+- ガスコンロ
+** English glosses
+- gas stove
+- gas cooker
+- gas range
+** Ukrainian glosses
+*** uk-s-1040060-005-001
+:PROPERTIES:
+:END:
+- text :: газова плита, конфорка
+- qualifier :: скор. від ガスコンロ
+
+* Sense s-1040060-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 913b8aee153785decee9c05a9b9eeb40f20565d0214970c429d1ee079e009eb7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- gasoline
+- gas
+- petrol
+** Ukrainian glosses
+*** uk-s-1040060-006-001
+:PROPERTIES:
+:END:
+- text :: бензин
+- qualifier :: розм., скор. від ガソリン (ガス欠)
+
+* Sense s-1040060-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b68b20e2507ded3535af3e355dcf2dd4e4b26a69b7b4be66f048db48deedee03
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+- col
+** English glosses
+- flatulence
+- gas
+- wind
+- fart
+** Ukrainian glosses
+*** uk-s-1040060-007-001
+:PROPERTIES:
+:END:
+- text :: кишкові гази, метеоризм
+- qualifier :: фізіол., розм.
+
+* Sense s-1040060-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f2cd71ea969055ad07f23d859f913bcd7135d49a7c736ed1a2c8207118e5b8f0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+- abbr
+*** Cross-references
+- ガス糸
+** English glosses
+- gassed yarn
+** Ukrainian glosses
+*** uk-s-1040060-008-001
+:PROPERTIES:
+:END:
+- text :: газопалена пряжа
+- qualifier :: скор. від ガス糸
+
+* Sense s-1040060-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: aa683cc16e9b351964633c7efdaddbdcefb8970fb6564017051d3f59277f1431
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gas
+** Ukrainian glosses
+
+* Sense s-1040060-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 09620288d77f684f37566e07396e290ca3294437c49e61d5240318114228c3e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzine
+** Ukrainian glosses
+
+* Sense s-1040060-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 956f701b124617cc66ca5d8c2ae264a6c763b81911194695eef446be04dad9d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: darmgas
+** Ukrainian glosses
+
+* Sense s-1040060-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 3e32a832014d9c39803730ca4b5afedd6f710903cd015b9fddff35658de0b055
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-012-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gaz
+** Ukrainian glosses
+
+* Sense s-1040060-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 2a97f78638eaf7015d5bb33376d6491e4e68aa04a0ce9ed05ea94a38ecb4e55d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gas
+** Ukrainian glosses
+
+* Sense s-1040060-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 4ba1197c30d309be5692c96504f909f9b20fad06161d28e80f9d7758e274468c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dichter Nebel
+** Ukrainian glosses
+
+* Sense s-1040060-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 4e048f2690cd13770022faeb82b54494abb25783d05ef118de275f1afa813054
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blähungen
+** Ukrainian glosses
+
+* Sense s-1040060-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 08c29caf5756916921b11a487fdb649181be46527b48084d1b6fe1cfa365560a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-016-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gáz
+*** en-s-1040060-016-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szórakoztató dolog
+** Ukrainian glosses
+
+* Sense s-1040060-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: dbaf8e7fbdbd3c2008e1f15ddec3b4292c6542f3ebe74a91de7099e7741313d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-017-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((голл.) gas)
+*** en-s-1040060-017-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (физ.) газ
+*** en-s-1040060-017-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) газ (горючий)
+*** en-s-1040060-017-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (воен.) газы, отравляющие вещества
+*** en-s-1040060-017-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (физиол.) газы, ветры
+*** en-s-1040060-017-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 5) густой туман
+*** en-s-1040060-017-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 6) (см.) ガスいと и ガスおり
+** Ukrainian glosses
+
+* Sense s-1040060-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 405243d97d20757dea5e22fc73801ab920bdc4dafc5e4a1495c1d8a632ec6514
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-018-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plin ( iz angl. gas )
+** Ukrainian glosses
+
+* Sense s-1040060-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 074f2e7066194944701231b192c5c14ca795c9e37e61936b1a4b9caf259de2d4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-019-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: gas) gas
+*** en-s-1040060-019-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gasolina
+*** en-s-1040060-019-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gas
+** Ukrainian glosses
+
+* Sense s-1040060-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 180ac989e4be092d9318d5e086cefd1def6d1cd8f0150278ff5004c4b0843aef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040060-020-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gas
+** Ukrainian glosses
