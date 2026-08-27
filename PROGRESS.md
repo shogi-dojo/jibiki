@@ -1021,5 +1021,6 @@ content and remain at `new` until editorial review.
 | N4-539 | [スーツ](entries/1066/1066680-suutsu.org) | スーツ | suutsu | 1066680 | learner | draft | **new** | Editorial review |
 | N4-540 | [スーツケース](entries/1066/1066690-suutsukeesu.org) | スーツケース | suutsukeesu | 1066690 | learner | draft | **new** | Editorial review |
 | N4-541 | [ソフト](entries/1075/1075500-sofuto.org) | ソフト | sofuto | 1075500 | learner | draft | **new** | Editorial review |
+| N4-542 | [タイプ](entries/1075/1075940-taipu.org) | タイプ | taipu | 1075940 | learner | draft | **new** | Editorial review |
 | N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
 | N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |
