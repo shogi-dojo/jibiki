@@ -1005,5 +1005,6 @@ content and remain at `new` until editorial review.
 | N4-523 | [アルバイト](entries/1019/1019420-arubaito.org) | アルバイト | arubaito | 1019420 | learner | draft | **new** | Editorial review |
 | N4-524 | [エスカレーター](entries/1028/1028580-esukareetaa.org) | エスカレーター | esukareetaa | 1028580 | learner | draft | **new** | Editorial review |
 | N4-525 | [オートバイ](entries/1032/1032030-ootobai.org) | オートバイ | ootobai | 1032030 | learner | draft | **new** | Editorial review |
+| N4-526 | [カーテン](entries/1036/1036290-kaaten.org) | カーテン | kaaten | 1036290 | learner | draft | **new** | Editorial review |
 | N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
 | N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |
