@@ -902,6 +902,7 @@ content and remain at `new` until editorial review.
 | N4-420 | [見える](entries/1259/1259140-mieru.org) | みえる | mieru | 1259140 | learner | draft | **new** | Editorial review |
 | N4-421 | [湖](entries/1267/1267280-mizuumi.org) | みずうみ | mizuumi | 1267280 | learner | draft | **new** | Editorial review |
 | N4-422 | [味噌](entries/1527/1527040-miso.org) | みそ | miso | 1527040 | learner | draft | **new** | Editorial review |
+| N4-423 | [見つかる](entries/1604/1604550-mitsukaru.org) | みつかる | mitsukaru | 1604550 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
