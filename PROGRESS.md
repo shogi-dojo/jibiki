@@ -914,6 +914,7 @@ content and remain at `new` until editorial review.
 | N4-432 | [召し上がる](entries/1346/1346370-meshiagaru.org) | めしあがる | meshiagaru | 1346370 | learner | draft | **new** | Editorial review |
 | N4-433 | [珍しい](entries/1431/1431850-mezurashii.org) | めずらしい | mezurashii | 1431850 | learner | draft | **new** | Editorial review |
 | N4-434 | [申し上げる](entries/1362/1362950-moushiageru.org) | もうしあげる | moushiageru | 1362950 | learner | draft | **new** | Editorial review |
+| N4-435 | [申す](entries/1363/1363090-mousu.org) | もうす | mousu | 1363090 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
