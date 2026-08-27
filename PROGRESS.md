@@ -956,6 +956,7 @@ content and remain at `new` until editorial review.
 | N4-474 | [訳](entries/1538/1538330-wake.org) | わけ | wake | 1538330 | learner | draft | **new** | Editorial review |
 | N4-475 | [忘れ物](entries/1519/1519230-wasuremono.org) | わすれもの | wasuremono | 1519230 | learner | draft | **new** | Editorial review |
 | N4-476 | [笑う](entries/1351/1351360-warau.org) | わらう | warau | 1351360 | learner | draft | **new** | Editorial review |
+| N4-477 | [割合](entries/1606/1606810-wariai.org) | わりあい | wariai | 1606810 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
