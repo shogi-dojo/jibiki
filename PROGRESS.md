@@ -932,6 +932,7 @@ content and remain at `new` until editorial review.
 | N4-450 | [湯](entries/1448/1448580-yu.org) | ゆ | yu | 1448580 | learner | draft | **new** | Editorial review |
 | N4-451 | [指](entries/1309/1309650-yubi.org) | ゆび | yubi | 1309650 | learner | draft | **new** | Editorial review |
 | N4-452 | [指輪](entries/1310/1310050-yubiwa.org) | ゆびわ | yubiwa | 1310050 | learner | draft | **new** | Editorial review |
+| N4-453 | [夢](entries/1529/1529410-yume.org) | ゆめ | yume | 1529410 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
