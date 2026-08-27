@@ -141,7 +141,12 @@ Rules:
 - `QUALITY_PROFILE` is `core`, `learner`, `enriched`, or `gold`. It records the
   minimum editorial depth already achieved, not the intended future depth.
 - `JMDICT_SOURCE_SHA256` identifies the complete imported JMdict archive used
-  for reconciliation.
+  for reconciliation. EDRDG regenerates JMdict daily, so entries accumulate
+  hashes from several archive generations. Validation recognises the archive
+  currently on disk plus the accumulated history in `KNOWN_JMDICT_SHA256S`
+  (`scripts/validate_entry.rb`): when authoring pulls a fresher JMdict, append
+  its hash to that list in the same commit, and never drop a hash while any
+  entry still carries it.
 
 Optional file keywords:
 

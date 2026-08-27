@@ -6,6 +6,7 @@ require 'open3'
 require 'rbconfig'
 require 'tmpdir'
 require 'zlib'
+require_relative '../scripts/validate_entry'
 
 class ValidateEntryCliTest < Minitest::Test
   SCRIPT = File.expand_path('../scripts/validate_entry.rb', __dir__)
@@ -334,6 +335,25 @@ class ValidateEntryCliTest < Minitest::Test
 
       refute status.success?
       assert_includes stdout, 'not a recognised JMdict archive hash'
+    end
+  end
+
+  # The archive on disk is only ever the newest JMdict generation, so every
+  # older hash the corpus still carries has to be accepted on the strength of
+  # KNOWN_JMDICT_SHA256S alone. This is the case CI hits after EDRDG rotates
+  # the download out from under already-merged entries.
+  def test_accepts_known_archive_hashes_that_are_not_the_archive_on_disk
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory)
+      refute_includes KNOWN_JMDICT_SHA256S, Digest::SHA256.file(jmdict).hexdigest
+
+      KNOWN_JMDICT_SHA256S.each do |sha256|
+        path = write_entry(directory, ent_seq: '1381380', jmdict: jmdict, sha256: sha256)
+
+        _stdout, stderr, status = run_cli(jmdict, path)
+
+        assert status.success?, "#{sha256} was rejected: #{stderr}"
+      end
     end
   end
 
