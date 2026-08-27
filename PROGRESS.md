@@ -970,6 +970,7 @@ content and remain at `new` until editorial review.
 | N4-488 | [裏](entries/1550/1550190-ura.org) | うら | ura | 1550190 | learner | draft | **new** | Editorial review |
 | N4-489 | [うん](entries/1001/1001090-un.org) | うん | un | 1001090 | learner | draft | **new** | Editorial review |
 | N4-490 | [贈り物](entries/1589/1589030-okurimono.org) | おくりもの | okurimono | 1589030 | learner | draft | **new** | Editorial review |
+| N4-491 | [彼](entries/1483/1483070-kare.org) | かれ | kare | 1483070 | learner | draft | **new** | Editorial review |
 | N4-520 | [アクセサリー](entries/1015/1015220-akusesarii.org) | アクセサリー | akusesarii | 1015220 | learner | draft | **new** | Editorial review |
 | N4-521 | [アナウンサー](entries/1017/1017330-anaunsaa.org) | アナウンサー | anaunsaa | 1017330 | learner | draft | **new** | Editorial review |
 | N4-522 | [アルコール](entries/1019/1019280-arukooru.org) | アルコール | arukooru | 1019280 | learner | draft | **new** | Editorial review |
