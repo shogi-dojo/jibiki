@@ -891,6 +891,7 @@ content and remain at `new` until editorial review.
 | N4-109 | [簡単](entries/1214/1214330-kantan.org) | かんたん | kantan | 1214330 | learner | draft | **new** | Editorial review |
 | N4-110 | [気](entries/1221/1221520-ki.org) | き | ki | 1221520 | learner | draft | **new** | Editorial review |
 | N4-111 | [機会](entries/1220/1220800-kikai.org) | きかい | kikai | 1220800 | learner | draft | **new** | Editorial review |
+| N4-305 | [妻](entries/1294/1294330-tsuma.org) | つま | tsuma | 1294330 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
