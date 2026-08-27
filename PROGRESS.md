@@ -1018,5 +1018,6 @@ content and remain at `new` until editorial review.
 | N4-536 | [スクリーン](entries/1068/1068550-sukuriin.org) | スクリーン | sukuriin | 1068550 | learner | draft | **new** | Editorial review |
 | N4-537 | [ステレオ](entries/1070/1070650-sutereo.org) | ステレオ | sutereo | 1070650 | learner | draft | **new** | Editorial review |
 | N4-538 | [ステーキ](entries/1070/1070280-suteeki.org) | ステーキ | suteeki | 1070280 | learner | draft | **new** | Editorial review |
+| N4-539 | [スーツ](entries/1066/1066680-suutsu.org) | スーツ | suutsu | 1066680 | learner | draft | **new** | Editorial review |
 | N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
 | N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |
