@@ -1,0 +1,532 @@
+#+TITLE: 留守
+#+JMDICT_ID: 1552760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: るす
+#+ROMAJI: rusu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1552760-001
+:PROPERTIES:
+:TEXT: 留守
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Written form wf-1552760-002
+:PROPERTIES:
+:TEXT: 留主
+:END:
+*** Information
+- rK
+** Reading rd-1552760-001
+:PROPERTIES:
+:TEXT: るす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1552760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 96e7941c0a00435210717a9adde8341c34a7dbc72e62f92ba1dd9dda3007c91c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+- adj-no
+** English glosses
+- absence
+- being away from home
+** Ukrainian glosses
+*** uk-s-1552760-001-001
+:PROPERTIES:
+:END:
+- text :: відсутність удома, відлучення
+- qualifier :: не бути вдома чи на робочому місці
+*** uk-s-1552760-001-002
+:PROPERTIES:
+:END:
+- text :: бути відсутнім, відлучатися
+- qualifier :: у формі дієслова (〜を留守にする)
+** Learner notes
+*** note-s-1552760-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та suru-дієслово 留守 (るす / rusu) історично означало нагляд за домівкою, але зараз найчастіше позначає відсутність господаря вдома: 留守にする (rusu ni suru — «бути поза домом / відлучитися»), 留守中 (rusuchuu — «під час моєї відсутності»), 留守番 (rusuban — «догляд за квартирою»), 留守番電話 (rusubandenwa — «автовідповідач»).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1552760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友達の家に行きましたが、留守だったので会えませんでした。
+- READING :: ともだちのいえにいきましたが、るすだったのであえませんでした。
+- ROMAJI :: Tomodachi no ie ni ikimashita ga, rusu datta node aemasen deshita.
+- UK :: Я прийшов до друга додому, але його не було, тому ми не побачилися.
+- EN :: I went to my friend's house, but they were not at home, so I could not meet them.
+- FOCUS :: 留守だったので
+*** ex-1552760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅行で三日間家を留守にするので、郵便物の受け取りを隣の人に頼みました。
+- READING :: りょこうでみっかかんいえをるすにするので、ゆうびんぶつのうけとりをとなりのひとにたのみました。
+- ROMAJI :: Ryokou de mikkakan ie o rusu ni suru node, yuubinbutsu no uketori o tonari no hito ni tanomimashita.
+- UK :: Через поїздку я три дні буду відсутній удома, тому попросив сусіда приймати мою пошту.
+- EN :: Because I will be away from home for three days on a trip, I asked my neighbor to collect my mail.
+- FOCUS :: 留守にするので
+*** ex-1552760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 留守中に荷物が届いた場合は、玄関前の宅配ボックスに入れてもらうよう事前に設定しておきました。
+- READING :: るすちゅうににもつがとどいたばあいは、げんかんまえのたくはいぼっくすにいれてもらうようじぜんにせっていしておきました。
+- ROMAJI :: Rusuchuu ni nimotsu ga todoita baai wa, genkanmae no takuhaibokkusu ni irete morau you jizen ni settei shite okimashita.
+- UK :: Я заздалегідь налаштував доставку так, щоб у разі прибуття посилки під час моєї відсутності її залишали в комірці біля вхідних дверей.
+- EN :: I configured the settings beforehand so that if a parcel arrives during my absence, it will be placed in the delivery box in front of the door.
+- FOCUS :: 留守中に
+
+* Sense s-1552760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a79931e542b66be7b431ead5af503d5b5c9afc9454c525146769a53554bbdf8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- house-sitting
+- house-sitter
+** Ukrainian glosses
+*** uk-s-1552760-002-001
+:PROPERTIES:
+:END:
+- text :: догляд за домівкою, нагляд за оселею
+- qualifier :: у відсутність господарів (частіше 留守番)
+
+* Sense s-1552760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f4b718779a51a40ba99af51790d2f869d242012d00e8167a7c51df9fffb7917e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- usu. as お留守になる
+** English glosses
+- neglecting (e.g. one's studies)
+- leaving unattended
+** Ukrainian glosses
+*** uk-s-1552760-003-001
+:PROPERTIES:
+:END:
+- text :: занедбання, нехтування
+- qualifier :: у виразі お留守になる (занедбувати навчання/роботу)
+
+* Sense s-1552760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ef6e6caa116ef3d001aed14ea9ded6f17e5b7ea837fc7d1fee21d9bef16d2761
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwezig zijn
+*** en-s-1552760-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absent zijn
+*** en-s-1552760-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (weg) van huis zijn
+*** en-s-1552760-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegwezen
+*** en-s-1552760-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet thuis zijn
+*** en-s-1552760-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het op iemands huis passen
+*** en-s-1552760-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huiswacht
+** Ukrainian glosses
+
+* Sense s-1552760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b31ee92d4b1d5d6ef14914a22cecd945823f733692dfeb92d51ac51d5875a7e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huisbewaarder
+*** en-s-1552760-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oppas
+*** en-s-1552760-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: custos
+*** en-s-1552760-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewaarder
+*** en-s-1552760-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: conciërge
+** Ukrainian glosses
+
+* Sense s-1552760-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: bdec534f3bc5b5eb06029c9b3ad813615284de8d6403637efe40821b5d4a8aaf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwezigheid
+*** en-s-1552760-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absentie
+*** en-s-1552760-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitzijn
+*** en-s-1552760-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het weg zijn
+*** en-s-1552760-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het van huis zijn
+** Ukrainian glosses
+
+* Sense s-1552760-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2df64016a78db9e179a82543a41ef76cb3b2e154fc1d97de9d224358655ca253
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het minder aandacht krijgen
+*** en-s-1552760-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veronachtzaming
+** Ukrainian glosses
+
+* Sense s-1552760-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 736e68d6576bc7104299b8d05416bb73d5856550a92600e647d8c0b7d652710f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absence (de chez soi)
+** Ukrainian glosses
+
+* Sense s-1552760-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 8bf7ccb1060af36cf0f75a320c8ad7b129a45905a33268f63a807f166c0e2d35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abwesend
+*** en-s-1552760-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rusu
+*** en-s-1552760-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abwesenheit
+*** en-s-1552760-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausbleiben
+** Ukrainian glosses
+
+* Sense s-1552760-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4984d9acf49260241889997f63b0e57cd0c3f9f507ab3ad4ad0d3ef6b77b716d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuhausebleiben
+*** en-s-1552760-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haushüten
+** Ukrainian glosses
+
+* Sense s-1552760-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 314ed3d0d3eaeda28eb04f375adc877692a0543a1aba70a8a674310c4473b2ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiány
+** Ukrainian glosses
+
+* Sense s-1552760-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 912a918640c1c087e983dbb017a25f77e60ef76b8f895a43ddb414c769224114
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) пребывание вне дома, отсутствие
+*** en-s-1552760-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} не быть дома, отсутствовать
+*** en-s-1552760-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) присмотр за домом [в отсутствие хозяев]
+*** en-s-1552760-012-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3): {～にする(なる)} манкировать (чем-л.), относиться небрежно (к занятиям, работе и т. п.)
+** Ukrainian glosses
+
+* Sense s-1552760-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: c1f7e9461a5060bf926634354cc5a3309d6cc3f6c1a0c6140733399a1a38d147
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odsotnost
+*** en-s-1552760-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti odsoten
+** Ukrainian glosses
+
+* Sense s-1552760-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 2490bb674b375e54fc44fe9fc6a69b28e1e9ac413e7169ea54077bed9b8b8fa5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552760-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: no estar en la casa
+** Ukrainian glosses
