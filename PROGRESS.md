@@ -964,6 +964,7 @@ content and remain at `new` until editorial review.
 | N4-482 | [瓦斯](entries/1040/1040060-gasu.org) | ガス | gasu | 1040060 | learner | draft | **new** | Editorial review |
 | N4-483 | [硝子](entries/1040/1040380-garasu.org) | ガラス | garasu | 1040380 | learner | draft | **new** | Editorial review |
 | N4-484 | [ＦＡＸ](entries/1108/1108180-fakkusu.org) | ファックス | fakkusu | 1108180 | learner | draft | **new** | Editorial review |
+| N4-485 | [あんな](entries/1000/1000590-anna.org) | あんな | anna | 1000590 | learner | draft | **new** | Editorial review |
 | N4-520 | [アクセサリー](entries/1015/1015220-akusesarii.org) | アクセサリー | akusesarii | 1015220 | learner | draft | **new** | Editorial review |
 | N4-521 | [アナウンサー](entries/1017/1017330-anaunsaa.org) | アナウンサー | anaunsaa | 1017330 | learner | draft | **new** | Editorial review |
 | N4-522 | [アルコール](entries/1019/1019280-arukooru.org) | アルコール | arukooru | 1019280 | learner | draft | **new** | Editorial review |
