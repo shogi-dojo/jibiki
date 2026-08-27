@@ -920,6 +920,7 @@ content and remain at `new` until editorial review.
 | N4-438 | [戻る](entries/1535/1535880-modoru.org) | もどる | modoru | 1535880 | learner | draft | **new** | Editorial review |
 | N4-439 | [木綿](entries/1534/1534870-momen.org) | もめん | momen | 1534870 | learner | draft | **new** | Editorial review |
 | N4-440 | [森](entries/1362/1362490-mori.org) | もり | mori | 1362490 | learner | draft | **new** | Editorial review |
+| N4-441 | [焼く](entries/1350/1350600-yaku.org) | やく | yaku | 1350600 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
