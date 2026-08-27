@@ -1013,5 +1013,6 @@ content and remain at `new` until editorial review.
 | N4-531 | [コンピュータ](entries/1053/1053350-konpyuuta.org) | コンピュータ | konpyuuta | 1053350 | learner | draft | **new** | Editorial review |
 | N4-532 | [サラダ](entries/1057/1057850-sarada.org) | サラダ | sarada | 1057850 | learner | draft | **new** | Editorial review |
 | N4-533 | [サンダル](entries/1058/1058480-sandaru.org) | サンダル | sandaru | 1058480 | learner | draft | **new** | Editorial review |
+| N4-534 | [サンドイッチ](entries/1058/1058580-sandoitchi.org) | サンドイッチ | sandoitchi | 1058580 | learner | draft | **new** | Editorial review |
 | N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
 | N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |
