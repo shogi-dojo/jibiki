@@ -88,6 +88,19 @@ pass, rather than generating many entries up front and backfilling debt
 later. Batch size guidance is therefore ~10 words authored to completion
 rather than 20 scaffolded with placeholders left in.
 
+When EDRDG revises a sense, the stored fingerprints for that entry stop
+matching. Re-derive them from the archive on disk rather than copying hashes out
+of a CI log:
+
+```sh
+rake fingerprints:check                                  # report drift, write nothing
+rake fingerprints:refresh                                # rewrite the whole corpus
+rake "fingerprints:refresh[entries/1381/1381380-ao.org]" # or one entry
+```
+
+This rewrites only `SOURCE_FINGERPRINT` and the archive-hash header. The derived
+sections are left alone, so review any entry it reports against JMdict.
+
 Validate one entry with:
 
 ```sh

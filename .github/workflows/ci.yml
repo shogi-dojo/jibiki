@@ -44,18 +44,36 @@ jobs:
           ruby-version: '4.0.5'
           bundler-cache: true
           cache-version: 1
-      - name: Get weekly cache key
-        id: cache-key
-        run: echo "key=jmdict-$(date +'%G-%V')" >> $GITHUB_OUTPUT
+      - name: Read JMdict pin
+        id: pin
+        run: grep -E '^JMDICT_(RELEASE_TAG|SHA256)=' .github/jmdict-pin.env >> $GITHUB_OUTPUT
+      # Keyed on the pinned hash, not the calendar: the cache is only ever a
+      # copy of the archive the pin names, so a hit and a miss validate against
+      # identical bytes.
       - name: Cache JMdict
         id: cache-jmdict
+        if: steps.pin.outputs.JMDICT_SHA256 != ''
         uses: actions/cache@v4
         with:
           path: sources/jmdict/JMdict.xml.gz
-          key: ${{ steps.cache-key.outputs.key }}
-      - name: Download JMdict
-        if: steps.cache-jmdict.outputs.cache-hit != 'true'
+          key: jmdict-${{ steps.pin.outputs.JMDICT_SHA256 }}
+      - name: Download pinned JMdict
+        if: steps.cache-jmdict.outputs.cache-hit != 'true' && steps.pin.outputs.JMDICT_SHA256 != ''
+        env:
+          TAG: ${{ steps.pin.outputs.JMDICT_RELEASE_TAG }}
+          SHA256: ${{ steps.pin.outputs.JMDICT_SHA256 }}
         run: |
+          mkdir -p sources/jmdict
+          curl -fL "https://github.com/${GITHUB_REPOSITORY}/releases/download/${TAG}/JMdict.xml.gz" \
+            -o sources/jmdict/JMdict.xml.gz
+          echo "${SHA256}  sources/jmdict/JMdict.xml.gz" | sha256sum -c -
+      # Bootstrap only: with no pin recorded yet, fall back to the rolling
+      # upstream archive so validation still runs. Running the jmdict-pin
+      # workflow once fills the pin in and retires this step.
+      - name: Download rolling JMdict (no pin recorded)
+        if: steps.pin.outputs.JMDICT_SHA256 == ''
+        run: |
+          echo "::warning::No JMdict pin recorded; validating against the rolling upstream archive. Run the jmdict-pin workflow to make this reproducible."
           mkdir -p sources/jmdict
           curl -fL http://ftp.edrdg.org/pub/Nihongo/JMdict.gz -o sources/jmdict/JMdict.xml.gz
       - name: Run entries validation
