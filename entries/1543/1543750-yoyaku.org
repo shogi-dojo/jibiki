@@ -1,0 +1,669 @@
+#+TITLE: 予約
+#+JMDICT_ID: 1543750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よやく
+#+ROMAJI: yoyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1543750-001
+:PROPERTIES:
+:TEXT: 予約
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1543750-001
+:PROPERTIES:
+:TEXT: よやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1543750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f51eb4ec55ba15ff296353c77e4dbe1fb1ed8db3403ba03d42060c3463a6303c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- reservation
+- appointment
+- booking
+- advance order
+** Ukrainian glosses
+*** uk-s-1543750-001-001
+:PROPERTIES:
+:END:
+- text :: бронювання, резервування
+- qualifier :: готелю, квитків, столика
+*** uk-s-1543750-001-002
+:PROPERTIES:
+:END:
+- text :: попередній запис, прийом
+- qualifier :: до лікаря, фахівця
+** Learner notes
+*** note-s-1543750-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та suru-дієслово 予約 (よやく / yoyaku) утворено від 予 (заздалегідь) та 約 (домовленість). Означає завчасне бронювання місць або запис на прийом: ホテルを予約する (hoteru o yoyaku suru — «бронювати готель»), 予約席 (yoyakuseki — «заброньоване місце»), 予約制 (yoyakusei — «система за попереднім записом»).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1543750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 人気のレストランなので、事前に電話で席を予約しました。
+- READING :: にんきのれすとらんなので、じぜんにでんわでせきをよやくしました。
+- ROMAJI :: Ninki no resutoran na node, jizen ni denwa de seki o yoyaku shimashita.
+- UK :: Оскільки це популярний ресторан, я завчасно забронював столик телефоном.
+- EN :: Because it is a popular restaurant, I reserved a table by phone in advance.
+- FOCUS :: 予約しました
+*** ex-1543750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 来週末の京都旅行のために、新幹線の切符と駅前のホテルを予約しました。
+- READING :: らいしゅうまつのきょうとりょこうのために、しんかんせんのきっぷとえきまえのほてるをよやくしました。
+- ROMAJI :: Raishuumatsu no Kyouto ryokou no tame ni, shinkansen no kippu to ekimae no hoteru o yoyaku shimashita.
+- UK :: Для поїздки до Кіото на наступних вихідних я забронював квитки на шінкансен та готель біля станції.
+- EN :: For next weekend's trip to Kyoto, I booked Shinkansen tickets and a hotel near the station.
+- FOCUS :: 予約しました
+*** ex-1543750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歯医者の定期検診は完全予約制になっているため、事前にインターネットで予約を取る必要があります。
+- READING :: はいしゃのていきけんしんはかんぜんよやくせいになっているため、じぜんにいんたーねっとでよやくをとるひつようがあります。
+- ROMAJI :: Haisha no teiki kenshin wa kanzen yoyakusei ni natte iru tame, jizen ni intaanetto de yoyaku o toru hitsuyou ga arimasu.
+- UK :: Оскільки плановий огляд у стоматолога відбувається суворо за попереднім записом, потрібно завчасно записатися через інтернет.
+- EN :: Because regular dental checkups are by appointment only, you need to make a reservation online beforehand.
+- FOCUS :: 予約を
+
+* Sense s-1543750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aec3cff88cef62955adbaaec2a71f250e5e9a1bfdb0ea5600791ada3c04fcb29
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- contract
+- subscription
+- pledge
+** Ukrainian glosses
+*** uk-s-1543750-002-001
+:PROPERTIES:
+:END:
+- text :: попередня домовленість, передплата, контракт
+
+* Sense s-1543750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4e2991134da8cccc4ba42472f2f4031dff8055663e89b479c1b5123c7323b216
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- programming (e.g. a device)
+- setting (e.g. a timer)
+** Ukrainian glosses
+*** uk-s-1543750-003-001
+:PROPERTIES:
+:END:
+- text :: програмування таймера, встановлення часу
+- qualifier :: у техніці (запис програми, варіння рису)
+
+* Sense s-1543750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aad91a81c210bdedcc9a8f547eedc92b8bd0f918aae83d57d65273d7c4702ba5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reserveren
+*** en-s-1543750-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bespreken
+*** en-s-1543750-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boeken
+*** en-s-1543750-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (vooraf) bestellen
+** Ukrainian glosses
+
+* Sense s-1543750-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e6dd7e6cc7446b7da85347259613b1eb32243f3f9d3a81259c6700fefcf138dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich abonneren
+*** en-s-1543750-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intekenen
+*** en-s-1543750-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subscriberen
+** Ukrainian glosses
+
+* Sense s-1543750-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a1d718f3df1cbb987f7e9a7a7be0a92a49e94708a2e622c2cfab8ab142a4fb3d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een afspraak maken
+** Ukrainian glosses
+
+* Sense s-1543750-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d9740792dbf0cc8f232b3f41f6136ab501056d3f291997d6f84d607019ebfee8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vooraf programmeren
+** Ukrainian glosses
+
+* Sense s-1543750-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 67139cfe91f4e4409d7ef6263fe0c5dccbdda9dfadb92ef11bebb3c32bc978ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reservering
+*** en-s-1543750-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bespreking
+*** en-s-1543750-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boeking
+*** en-s-1543750-008-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestelling vooraf
+** Ukrainian glosses
+
+* Sense s-1543750-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b8c58b69fdf7ad83dd6b56b3d2ba106c16e4a8c5d1650e2c9e9f76c047564408
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abonnement
+*** en-s-1543750-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intekening
+*** en-s-1543750-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subscriptie
+** Ukrainian glosses
+
+* Sense s-1543750-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f7355302da143bb6f05c9bde443f3de866c11e66b831ebb1af44e733bb3f3d0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afspraak
+** Ukrainian glosses
+
+* Sense s-1543750-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8f0881b87ec2171c25902e8eff03cdf10857d60eeeed91e8f9f8908d42e41be5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. opname-instelling van een videorecorder enz.} programmering vooraf
+** Ukrainian glosses
+
+* Sense s-1543750-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 35540a3f3b3992a5e82888d8e63bd17e712bfa36af8675383a8c947c50d070d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-012-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contrat
+*** en-s-1543750-012-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: engagement
+*** en-s-1543750-012-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inscription
+*** en-s-1543750-012-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réservation
+** Ukrainian glosses
+
+* Sense s-1543750-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: a9a53450093614272ee8f5997ceb895a9db8fb60eae655c91e2c52978cd34500
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vorbestellen
+*** en-s-1543750-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vorher bestellen
+*** en-s-1543750-013-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reservieren
+*** en-s-1543750-013-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abonnieren
+*** en-s-1543750-013-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subskribieren
+*** en-s-1543750-013-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anmelden
+*** en-s-1543750-013-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorbestellung
+*** en-s-1543750-013-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reservierung
+*** en-s-1543750-013-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Subskription
+*** en-s-1543750-013-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abonnement
+*** en-s-1543750-013-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anmeldung
+** Ukrainian glosses
+
+* Sense s-1543750-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: ed6dec1d6e7d18f07f267800d5ab97006ed1a5621947a50d12f4cf2a1b8c9fe7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eljegyzés
+** Ukrainian glosses
+
+* Sense s-1543750-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 5384e05f8b9f554bea45ecc85a8630077e0ced70213e46832c8c47b135fc81d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: предварительный заказ; подписка; предварительное соглашение
+*** en-s-1543750-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} делать предварительный заказ, заказывать заранее; подписываться; заключать предварительное соглашение
+** Ukrainian glosses
+
+* Sense s-1543750-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: efe036b3c4f8473f94d55348635fb09ad2035733a29fdb7fd721ce9595f4d5a3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-016-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezervacija
+*** en-s-1543750-016-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pogodba
+*** en-s-1543750-016-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naročilo
+*** en-s-1543750-016-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abonma
+*** en-s-1543750-016-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sezonska karta
+*** en-s-1543750-016-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezervirati
+** Ukrainian glosses
+
+* Sense s-1543750-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 5be4a6d448edbf8c47c9ad926339aebd2b64bfe455cc35bcd2131b2ac90a3694
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-017-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reservar
+*** en-s-1543750-017-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hacer una reserva
+*** en-s-1543750-017-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reserva
+** Ukrainian glosses
+
+* Sense s-1543750-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 2b93fe4aeaee19ae6296e9abeefcfa67c3874034f55b550677c23e10b309ddca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1543750-018-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reservera
+*** en-s-1543750-018-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bokning
+** Ukrainian glosses
