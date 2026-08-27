@@ -905,6 +905,7 @@ content and remain at `new` until editorial review.
 | N4-423 | [見つかる](entries/1604/1604550-mitsukaru.org) | みつかる | mitsukaru | 1604550 | learner | draft | **new** | Editorial review |
 | N4-424 | [見つける](entries/1604/1604570-mitsukeru.org) | みつける | mitsukeru | 1604570 | learner | draft | **new** | Editorial review |
 | N4-425 | [港](entries/1279/1279990-minato.org) | みなと | minato | 1279990 | learner | draft | **new** | Editorial review |
+| N4-426 | [向かう](entries/1604/1604800-mukau.org) | むかう | mukau | 1604800 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
