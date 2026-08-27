@@ -1016,5 +1016,6 @@ content and remain at `new` until editorial review.
 | N4-534 | [サンドイッチ](entries/1058/1058580-sandoitchi.org) | サンドイッチ | sandoitchi | 1058580 | learner | draft | **new** | Editorial review |
 | N4-535 | [ジャム](entries/1065/1065680-jamu.org) | ジャム | jamu | 1065680 | learner | draft | **new** | Editorial review |
 | N4-536 | [スクリーン](entries/1068/1068550-sukuriin.org) | スクリーン | sukuriin | 1068550 | learner | draft | **new** | Editorial review |
+| N4-537 | [ステレオ](entries/1070/1070650-sutereo.org) | ステレオ | sutereo | 1070650 | learner | draft | **new** | Editorial review |
 | N4-652 | [あっ](entries/2394/2394370-a.org) | あっ | a | 2394370 | learner | draft | **new** | Editorial review |
 | N4-677 | [嗚呼](entries/1565/1565440-aa.org) | ああ | aa | 1565440 | learner | draft | **new** | Editorial review |
