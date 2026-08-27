@@ -953,6 +953,7 @@ content and remain at `new` until editorial review.
 | N4-471 | [沸かす](entries/1501/1501660-wakasu.org) | わかす | wakasu | 1501660 | learner | draft | **new** | Editorial review |
 | N4-472 | [別れる](entries/1606/1606590-wakareru.org) | わかれる | wakareru | 1606590 | learner | draft | **new** | Editorial review |
 | N4-473 | [沸く](entries/1606/1606680-waku.org) | わく | waku | 1606680 | learner | draft | **new** | Editorial review |
+| N4-474 | [訳](entries/1538/1538330-wake.org) | わけ | wake | 1538330 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
