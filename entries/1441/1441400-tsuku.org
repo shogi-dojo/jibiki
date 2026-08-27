@@ -1,0 +1,445 @@
+#+TITLE: 点く
+#+JMDICT_ID: 1441400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つく
+#+ROMAJI: tsuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1441400-001
+:PROPERTIES:
+:TEXT: 点く
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1441400-001
+:PROPERTIES:
+:TEXT: つく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1441400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2f574a572e600165874010e4de9114cb6efc070f263932e3a427951c10f22685
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- 付く・9
+** English glosses
+- to be lit (of a lamp, burner, etc.)
+- to catch fire
+- to ignite
+- to start burning
+** Ukrainian glosses
+*** uk-s-1441400-001-001
+:PROPERTIES:
+:END:
+- text :: загорятися, займатися
+- qualifier :: про вогонь, сірник, пальник тощо
+*** uk-s-1441400-001-002
+:PROPERTIES:
+:END:
+- text :: спалахувати, запалюватися
+** Learner notes
+*** note-s-1441400-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово загоряння чи вмикання світла (часто записується каною つく або кандзі 点く / 付く): 火が点く (вогонь спалахує), 電気が点く (світло вмикається / світиться). Парне перехідне дієслово — 点ける (tsukeru — запалювати / вмикати).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1441400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: マッチをすったら火が点きました。
+- READING :: まっちをすったらひがつきました。
+- ROMAJI :: Match o suttara hi ga tsukimashita.
+- UK :: Коли я черкнув сірником, спалахнув вогонь.
+- EN :: When I struck the match, it caught fire.
+- FOCUS :: 火が点きました
+*** ex-1441400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗くなった部屋の壁にあるスイッチを押すと、天井の電気がパッと点いて部屋全体が明るくなりました。
+- READING :: くらくなったへやのかべにあるすいっちをおすと、てんじょうのでんきがぱっとついてへやぜんたいがあかるくなりました。
+- ROMAJI :: Kuraku natta heya no kabe ni aru switch o osu to, tenjou no denki ga patto tsuite heya zentai ga akaruku narimashita.
+- UK :: Коли я натиснув вимикач на стіні в темній кімнаті, на стелі вмить засвітилася лампа й уся кімната освітилася.
+- EN :: When I pressed the switch on the wall in the dark room, the ceiling light snapped on and illuminated the entire room.
+- FOCUS :: パッと点いて
+*** ex-1441400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: キャンプ場で薪に火をつけようと何度も試みましたが、夕方の激しい雷雨で木が湿っていたためすぐには火が点かず苦労しました。
+- READING :: きゃんぷじょうでまきにひをつけようとなんどもこころみましたが、ゆうがたのはげしいらいうできがしめっていたためすぐにはひがつかずくろうしました。
+- ROMAJI :: Camp-jou de maki ni hi o tsukeyou to nandomo kokoromimashita ga, yuugata no hageshii raiu de ki ga shimette ita tame sugu ni wa hi ga tsukazu kurou shimashita.
+- UK :: Я багато разів намагався розпалити багаття в кемпінгу, проте через сильну вечірню грозу дрова промокли й ніяк не хотіли займатися.
+- EN :: I tried many times to light the firewood at the campsite, but because the wood was damp from the evening thunderstorm, the fire would not catch easily and I struggled.
+- FOCUS :: 火が点かず
+
+* Sense s-1441400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 141529b8503e0479345c3a83e9185160f2b66b29d613d721acff924baa658d1f
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to be turned on (of a light, appliance, etc.)
+- to come on
+** Ukrainian glosses
+*** uk-s-1441400-002-001
+:PROPERTIES:
+:END:
+- text :: вмикатися, засвічуватися (про світло чи електричний прилад: 電気が点く)
+
+* Sense s-1441400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de15e012733279da59c29ab334e27fe5909d825c0e0ad24817f261ce7274cda0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. licht
+*** en-s-1441400-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vuur
+*** en-s-1441400-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lucifer} aangaan
+*** en-s-1441400-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gaan branden
+*** en-s-1441400-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontbranden
+*** en-s-1441400-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.c.m. 火が} vuur
+*** en-s-1441400-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vlam vatten
+*** en-s-1441400-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontvlammen
+*** en-s-1441400-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in brand raken
+** Ukrainian glosses
+
+* Sense s-1441400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5b514fa4bed2627cbcbcd7e9e53e90e468ea1e63ac289ce4e7613caf57827b7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aangaan
+*** en-s-1441400-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in werking treden
+** Ukrainian glosses
+
+* Sense s-1441400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 202760ec614906c9954b93998eaa349b8642e26105bae59edad6d7da9fafc02a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prendre feu
+*** en-s-1441400-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: s'allumer (électricité)
+*** en-s-1441400-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: s'enflammer
+** Ukrainian glosses
+
+* Sense s-1441400-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7b82dac1d7012e50d6978f60b2e47cdb43ad83a2314008164aed18258078beba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brennen
+*** en-s-1441400-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angehen
+*** en-s-1441400-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feuer fangen
+** Ukrainian glosses
+
+* Sense s-1441400-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 00592cf86a38808f3677c42e304b8dccce1875ab0b8116afcd0dc06559063402
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angezündet werden
+*** en-s-1441400-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angemacht werden
+** Ukrainian glosses
+
+* Sense s-1441400-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bc5f02f784a754edce9f4e1679326a58b3c212aea7830b300ebc8509ff686f46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kigyullad a lámpa
+*** en-s-1441400-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meggyullad
+** Ukrainian glosses
+
+* Sense s-1441400-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c33ae106b4373f7cfad6d1602fdb65407278c25c57a6d67ad88629c4469edf5e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: загораться
+** Ukrainian glosses
+
+* Sense s-1441400-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 73c11d35aaf2d08c88370829f76162382a167f8793504569888dd4bcfd414ace
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prižgati se
+*** en-s-1441400-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vžgati se
+** Ukrainian glosses
+
+* Sense s-1441400-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: f6aff5af0c0916f96c18870bf15813db40f80b8dfa381a16d4de6da4c5a0061d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: encenderse
+*** en-s-1441400-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coger fuego
+** Ukrainian glosses
+
+* Sense s-1441400-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 9a38646c51bd2ca56e456b7a616996c0094dbad4ccc595dba624285eabfd98f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441400-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: la luz viene
+*** en-s-1441400-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar iluminado (electricidad)
+** Ukrainian glosses
