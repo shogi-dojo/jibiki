@@ -948,6 +948,7 @@ content and remain at `new` until editorial review.
 | N4-466 | [利用](entries/1549/1549660-riyou.org) | りよう | riyou | 1549660 | learner | draft | **new** | Editorial review |
 | N4-467 | [留守](entries/1552/1552760-rusu.org) | るす | rusu | 1552760 | learner | draft | **new** | Editorial review |
 | N4-468 | [冷房](entries/1557/1557290-reibou.org) | れいぼう | reibou | 1557290 | learner | draft | **new** | Editorial review |
+| N4-469 | [歴史](entries/1558/1558050-rekishi.org) | れきし | rekishi | 1558050 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
