@@ -870,6 +870,7 @@ content and remain at `new` until editorial review.
 | N4-069 | [お見舞い](entries/1001/1001870-omimai.org) | おみまい | omimai | 1001870 | learner | draft | **new** | Editorial review |
 | N4-070 | [お土産](entries/1002/1002500-omiyage.org) | おみやげ | omiyage | 1002500 | learner | draft | **new** | Editorial review |
 | N4-071 | [思い出す](entries/1309/1309260-omoidasu.org) | おもいだす | omoidasu | 1309260 | learner | draft | **new** | Editorial review |
+| N4-088 | [鏡](entries/1238/1238550-kagami.org) | かがみ | kagami | 1238550 | learner | draft | **new** | Editorial review |
 | N4-092 | [形](entries/1250/1250220-katachi.org) | かたち | katachi | 1250220 | learner | draft | **new** | Editorial review |
 | N4-093 | [片付ける](entries/1511/1511790-katazukeru.org) | かたづける | katazukeru | 1511790 | learner | draft | **new** | Editorial review |
 | N4-094 | [課長](entries/1195/1195840-kachou.org) | かちょう | kachou | 1195840 | learner | draft | **new** | Editorial review |
