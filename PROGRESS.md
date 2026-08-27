@@ -998,6 +998,7 @@ content and remain at `new` until editorial review.
 | N4-516 | [回る](entries/1604/1604300-mawaru.org) | まわる | mawaru | 1604300 | learner | draft | **new** | Editorial review |
 | N4-517 | [娘](entries/1531/1531190-musume.org) | むすめ | musume | 1531190 | learner | draft | **new** | Editorial review |
 | N4-518 | [止める](entries/1310/1310680-yameru.org) | やめる | yameru | 1310680 | learner | draft | **new** | Editorial review |
+| N4-519 | [汚れる](entries/1179/1179005-yogoreru.org) | よごれる | yogoreru | 1179005 | learner | draft | **new** | Editorial review |
 | N4-520 | [アクセサリー](entries/1015/1015220-akusesarii.org) | アクセサリー | akusesarii | 1015220 | learner | draft | **new** | Editorial review |
 | N4-521 | [アナウンサー](entries/1017/1017330-anaunsaa.org) | アナウンサー | anaunsaa | 1017330 | learner | draft | **new** | Editorial review |
 | N4-522 | [アルコール](entries/1019/1019280-arukooru.org) | アルコール | arukooru | 1019280 | learner | draft | **new** | Editorial review |
