@@ -943,6 +943,7 @@ content and remain at `new` until editorial review.
 | N4-461 | [寄る](entries/1219/1219680-yoru.org) | よる | yoru | 1219680 | learner | draft | **new** | Editorial review |
 | N4-462 | [喜ぶ](entries/1218/1218760-yorokobu.org) | よろこぶ | yorokobu | 1218760 | learner | draft | **new** | Editorial review |
 | N4-463 | [理由](entries/1550/1550140-riyuu.org) | りゆう | riyuu | 1550140 | learner | draft | **new** | Editorial review |
+| N4-464 | [両方](entries/1554/1554010-ryouhou.org) | りょうほう | ryouhou | 1554010 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
