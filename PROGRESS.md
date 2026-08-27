@@ -928,6 +928,7 @@ content and remain at `new` until editorial review.
 | N4-446 | [痩せる](entries/1605/1605510-yaseru.org) | やせる | yaseru | 1605510 | learner | draft | **new** | Editorial review |
 | N4-447 | [漸と](entries/1012/1012800-yatto.org) | やっと | yatto | 1012800 | learner | draft | **new** | Editorial review |
 | N4-448 | [止む](entries/1310/1310640-yamu.org) | やむ | yamu | 1310640 | learner | draft | **new** | Editorial review |
+| N4-449 | [柔らかい](entries/1605/1605630-yawarakai.org) | やわらかい | yawarakai | 1605630 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
