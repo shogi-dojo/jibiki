@@ -894,6 +894,7 @@ content and remain at `new` until editorial review.
 | N4-305 | [妻](entries/1294/1294330-tsuma.org) | つま | tsuma | 1294330 | learner | draft | **new** | Editorial review |
 | N4-413 | [参る](entries/1302/1302070-mairu.org) | まいる | mairu | 1302070 | learner | draft | **new** | Editorial review |
 | N4-414 | [負ける](entries/1497/1497980-makeru.org) | まける | makeru | 1497980 | learner | draft | **new** | Editorial review |
+| N4-415 | [又は](entries/1524/1524990-mataha.org) | または | mataha | 1524990 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
