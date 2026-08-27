@@ -897,6 +897,7 @@ content and remain at `new` until editorial review.
 | N4-415 | [又は](entries/1524/1524990-mataha.org) | または | mataha | 1524990 | learner | draft | **new** | Editorial review |
 | N4-416 | [間違える](entries/1215/1215330-machigaeru.org) | まちがえる | machigaeru | 1215330 | learner | draft | **new** | Editorial review |
 | N4-417 | [間に合う](entries/1215/1215260-maniau.org) | まにあう | maniau | 1215260 | learner | draft | **new** | Editorial review |
+| N4-418 | [周り](entries/1604/1604290-mawari.org) | まわり | mawari | 1604290 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
