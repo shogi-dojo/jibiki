@@ -911,6 +911,7 @@ content and remain at `new` until editorial review.
 | N4-429 | [虫](entries/1426/1426680-mushi.org) | むし | mushi | 1426680 | learner | draft | **new** | Editorial review |
 | N4-430 | [息子](entries/1404/1404390-musuko.org) | むすこ | musuko | 1404390 | learner | draft | **new** | Editorial review |
 | N4-431 | [無理](entries/1530/1530970-muri.org) | むり | muri | 1530970 | learner | draft | **new** | Editorial review |
+| N4-432 | [召し上がる](entries/1346/1346370-meshiagaru.org) | めしあがる | meshiagaru | 1346370 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
