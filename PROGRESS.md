@@ -993,6 +993,7 @@ content and remain at `new` until editorial review.
 | N4-511 | [はっきり](entries/1010/1010150-hakkiri.org) | はっきり | hakkiri | 1010150 | learner | draft | **new** | Editorial review |
 | N4-512 | [火](entries/1193/1193610-hi.org) | ひ | hi | 1193610 | learner | draft | **new** | Editorial review |
 | N4-513 | [日](entries/1463/1463770-hi.org) | ひ | hi | 1463770 | learner | draft | **new** | Editorial review |
+| N4-514 | [酷い](entries/1602/1602060-hidoi.org) | ひどい | hidoi | 1602060 | learner | draft | **new** | Editorial review |
 | N4-520 | [アクセサリー](entries/1015/1015220-akusesarii.org) | アクセサリー | akusesarii | 1015220 | learner | draft | **new** | Editorial review |
 | N4-521 | [アナウンサー](entries/1017/1017330-anaunsaa.org) | アナウンサー | anaunsaa | 1017330 | learner | draft | **new** | Editorial review |
 | N4-522 | [アルコール](entries/1019/1019280-arukooru.org) | アルコール | arukooru | 1019280 | learner | draft | **new** | Editorial review |
