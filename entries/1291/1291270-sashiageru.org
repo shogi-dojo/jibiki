@@ -1,0 +1,603 @@
+#+TITLE: 差し上げる
+#+JMDICT_ID: 1291270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さしあげる
+#+ROMAJI: sashiageru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291270-001
+:PROPERTIES:
+:TEXT: 差し上げる
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf32
+** Written form wf-1291270-002
+:PROPERTIES:
+:TEXT: 差上げる
+:END:
+** Written form wf-1291270-003
+:PROPERTIES:
+:TEXT: さし上げる
+:END:
+*** Information
+- sK
+** Written form wf-1291270-004
+:PROPERTIES:
+:TEXT: 差しあげる
+:END:
+*** Information
+- sK
+** Reading rd-1291270-001
+:PROPERTIES:
+:TEXT: さしあげる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf32
+
+* Sense s-1291270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dba91305dda11e768b372f69acd4628c05315bcacbb8aa2143a0e9787827eb44
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to lift up
+- to hold up
+- to raise
+** Ukrainian glosses
+*** uk-s-1291270-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: піднімати
+*** uk-s-1291270-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: здіймати
+*** note-s-1291270-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає дію підняття чогось вгору. Також це слово дуже часто використовується у переносному значенні як скромна форма (кендзього) дієслова "давати" (あげる).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1291270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+*** ex-s-1291270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 傘を上に差し上げる。
+- READING :: かさをうえにさしあげる。
+- UK :: Підняти парасольку вгору.
+- EN :: To hold up an umbrella.
+- FOCUS :: 差し上げる
+*** ex-1291270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+*** ex-s-1291270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 両手を高く差し上げてください。
+- READING :: りょうてをたかくさしあげてください。
+- UK :: Будь ласка, підніміть обидві руки високо.
+- EN :: Please raise both hands high.
+- FOCUS :: 差し上げて
+*** ex-1291270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+*** ex-s-1291270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: トロフィーを頭上に差し上げた。
+- READING :: トロフィーをずじょうにさしあげた。
+- UK :: Він підняв трофей над головою.
+- EN :: He lifted the trophy above his head.
+- FOCUS :: 差し上げた
+
+* Sense s-1291270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b275a1564998b262c1d1159057c122b6317fa4690236e7f9bd436abc676787d0
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Miscellaneous and register
+- hum
+** English glosses
+- to give
+- to present
+- to offer
+** Ukrainian glosses
+*** uk-s-1291270-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: давати (скромна форма)
+*** uk-s-1291270-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дарувати
+*** uk-s-1291270-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пропонувати
+*** note-s-1291270-002-001
+:PROPERTIES:
+:END:
+- UK :: Скромна (кендзього) форма від «давати» (あげる). Використовується, коли мовець дає щось особі, якій висловлює повагу.
+- LEVEL :: beginner
+- REGISTER :: formal
+
+* Sense s-1291270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 30c6a178fd5f006cf21f0d71907fb6db7efaea5595d338bf4b7d0123fab5ebf4
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+- v1
+*** Miscellaneous and register
+- hum
+*** Sense information
+- after -te form of verb; more respectful than 〜して上げる
+** English glosses
+- to do (for someone)
+** Ukrainian glosses
+*** uk-s-1291270-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-17
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робити щось (для когось)
+*** note-s-1291270-003-001
+:PROPERTIES:
+:END:
+- UK :: Скромна (кендзього) форма, яка використовується після дієслова у формі на -те (〜てあげる). Означає, що мовець робить щось для особи вищого статусу.
+- LEVEL :: intermediate
+- REGISTER :: formal
+
+* Sense s-1291270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 999df31c1596c1ff33c5fc4e40f4dcfa87ffc42d18af11f5b0903d0a0c8be44a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opheffen
+*** en-s-1291270-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opsteken
+*** en-s-1291270-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhoogbrengen
+*** en-s-1291270-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhoog heffen
+*** en-s-1291270-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhoog steken
+*** en-s-1291270-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhoog houden
+*** en-s-1291270-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhoog doen
+*** en-s-1291270-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ten hemel heffen
+*** en-s-1291270-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verheffen
+** Ukrainian glosses
+
+* Sense s-1291270-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 90f925dc0bad32b3ceb07b59cedeb4db80f0e14729ef50971ca83869afc99a2c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geven
+*** en-s-1291270-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanbieden
+*** en-s-1291270-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schenken
+*** en-s-1291270-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} reiken
+** Ukrainian glosses
+
+* Sense s-1291270-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1ef0e8bddba75cacb80943cfdb1a4b31587e2c9141c1803a877ae0fe1a3763c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élever
+*** en-s-1291270-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: donner
+*** en-s-1291270-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offrir
+** Ukrainian glosses
+
+* Sense s-1291270-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 78f1710838a9278279441fb0edb43b54baa5dfee1ce104d7aa31201e70519188
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geben
+*** en-s-1291270-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schenken
+*** en-s-1291270-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anbieten
+** Ukrainian glosses
+
+* Sense s-1291270-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f1be29c0e9c39390892905c06988b47d1b2228453d0db8ef3afd619c8a19551c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufheben
+*** en-s-1291270-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hochheben
+*** en-s-1291270-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erheben (besch.-höfl. Verb für ataeru 与える und yaru 遣る)
+** Ukrainian glosses
+
+* Sense s-1291270-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 579e4cb988e2abb84e16ec8dfbc876de0c02f039c364743766002a2731a1f102
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megvetemedik
+*** en-s-1291270-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kitesz vminek
+*** en-s-1291270-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megállít
+*** en-s-1291270-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem csügged
+*** en-s-1291270-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: támogat
+*** en-s-1291270-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ajánl
+*** en-s-1291270-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felajánl
+*** en-s-1291270-009-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kínál
+*** en-s-1291270-009-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megkísérel
+*** en-s-1291270-009-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megpróbál
+*** en-s-1291270-009-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyújt
+** Ukrainian glosses
+
+* Sense s-1291270-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c18f0c26173d236b32069bc80dd1e925adb117c092be2d1c244e5fe0268749ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) поднимать
+*** en-s-1291270-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) подносить, преподносить; предлагать
+** Ukrainian glosses
+
+* Sense s-1291270-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 6f8a59f95f03c847e64929108d1a82aca1eb059cc0b20f2413efab68ba923985
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dati (Vam, spoštovani osebi)
+** Ukrainian glosses
+
+* Sense s-1291270-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 89f41e189538bb7fd055416a85017e656066fa9e177d50c04186f0f2c9fcf8b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291270-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dar
+*** en-s-1291270-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ofrecer
+** Ukrainian glosses

@@ -106,13 +106,28 @@ local JMdict archive, runs `org-lint` on entries, and runs the corpus doctor.
 
 ## Export
 
-Two SQLite files can be exported from the corpus. Both are written to the `build/`
-directory (gitignored):
+The corpus can be exported to two SQLite databases and one private HTML QA page.
+All outputs are written to the gitignored `build/` directory:
 
 | File | Purpose |
 |---|---|
 | `build/jibiki.sqlite` | Rich learner DB with all parsed content (senses, glosses, examples, pitch accent, vocab mapping). |
 | `build/DictionaryTranslations.sqlite` | Drop-in Houhou-SRS overlay (SchemaVersion 1, FTS4, Ukrainian/Russian glosses). |
+| `build/dictionary.html` | Offline search and visual comparison of Ukrainian, Warodai, and English JMdict content. |
+
+### Private HTML comparison dictionary
+
+```sh
+bundle exec rake export:html
+
+# Optional output path; WARODAI_PATH may override the private source directory.
+bundle exec rake "export:html[build/dictionary.html]"
+```
+
+The generated page is strictly a local editorial QA artifact. It embeds
+verbatim Warodai text under CC BY-NC-ND 3.0 and must not be committed,
+published, translated, adapted, or redistributed. It is a single offline HTML
+file with inline styles, embedded data, and dependency-free JavaScript search.
 
 ### Rich learner database
 

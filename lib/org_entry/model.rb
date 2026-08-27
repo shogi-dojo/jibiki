@@ -222,6 +222,19 @@ module OrgEntry
       ug_node = node.find_child('Ukrainian glosses')
       @ukrainian_glosses = []
       if ug_node
+        reserved_ids = ug_node.children.filter_map do |child|
+          child.title if child.title =~ /\Auk-s-/
+        end
+        next_plain_index = 1
+        ug_node.content.each do |item|
+          candidate_id = nil
+          loop do
+            candidate_id = "uk-#{@id}-#{format('%03d', next_plain_index)}"
+            next_plain_index += 1
+            break unless reserved_ids.include?(candidate_id)
+          end
+          @ukrainian_glosses << UkrainianGloss.new(item, entry, id: candidate_id)
+        end
         ug_node.children.each do |child|
           if child.title =~ /\Auk-s-/
             @ukrainian_glosses << UkrainianGloss.new(child, entry)
@@ -246,7 +259,12 @@ module OrgEntry
       end
 
       # Enrichment sections
-      @learner_notes = parse_enrichment_headings(node, 'Learner notes', LearnerNote, entry)
+      # A historical migration placed many note-s-/ln- headings underneath
+      # Ukrainian or Russian subsections instead of a Learner notes section.
+      # Recover those authored notes without rewriting the source files.
+      @learner_notes = descendant_nodes(node)
+                       .select { |child| child.title =~ /\A(?:note-s-|ln-)/ }
+                       .map { |child| LearnerNote.new(child, entry) }
       @collocations = parse_enrichment_headings(node, 'Collocations', Collocation, entry)
       @constructions = parse_enrichment_headings(node, 'Constructions and derivatives', Construction, entry)
       @related_words = parse_enrichment_headings(node, 'Related words', RelatedWord, entry)
@@ -283,6 +301,10 @@ module OrgEntry
       sec_node = sense_node.find_child(title)
       return [] unless sec_node
       sec_node.children.map { |child| klass.new(child, entry) }
+    end
+
+    def descendant_nodes(node)
+      node.children.flat_map { |child| [child, *descendant_nodes(child)] }
     end
   end
 
@@ -327,21 +349,28 @@ module OrgEntry
     attr_reader :id, :status, :translator_id, :translated_at, :reviewer_id, :reviewed_at,
                 :source_type, :license, :text, :qualifier
 
-    def initialize(node, entry)
-      @id = node.title
-      @status = node.properties['STATUS'] || entry.default_status || 'draft'
-      @translator_id = node.properties['TRANSLATOR_ID'] || entry.default_author_id
-      @translated_at = node.properties['TRANSLATED_AT'] || entry.created_at
-      @reviewer_id = node.properties['REVIEWER_ID']
-      @reviewed_at = node.properties['REVIEWED_AT']
-      @source_type = node.properties['SOURCE_TYPE'] || entry.default_source_type || 'original'
-      @license = node.properties['LICENSE'] || entry.default_license || 'CC-BY-SA-4.0'
+    def initialize(source, entry, id: nil)
+      properties = source.is_a?(ListItem) ? {} : source.properties
+      @id = id || source.title
+      @status = properties['STATUS'] || entry.default_status || 'draft'
+      @translator_id = properties['TRANSLATOR_ID'] || entry.default_author_id
+      @translated_at = properties['TRANSLATED_AT'] || entry.created_at
+      @reviewer_id = properties['REVIEWER_ID']
+      @reviewed_at = properties['REVIEWED_AT']
+      @source_type = properties['SOURCE_TYPE'] || entry.default_source_type || 'original'
+      @license = properties['LICENSE'] || entry.default_license || 'CC-BY-SA-4.0'
 
-      text_item = node.content.find { |item| item.label == 'text' }
-      @text = text_item ? text_item.value : ''
+      if source.is_a?(ListItem)
+        @text = source.value
+        @qualifier = source.label == 'qualifier' ? source.value : nil
+      else
+        text_item = source.content.find { |item| item.label == 'text' } ||
+                    source.content.find { |item| item.label.nil? }
+        @text = text_item && text_item.value != 'text ::' ? text_item.value : ''
 
-      qual_item = node.content.find { |item| item.label == 'qualifier' }
-      @qualifier = qual_item ? qual_item.value : nil
+        qual_item = source.content.find { |item| item.label == 'qualifier' }
+        @qualifier = qual_item ? qual_item.value : nil
+      end
     end
   end
 
@@ -414,7 +443,8 @@ module OrgEntry
   end
 
   class Construction
-    attr_reader :id, :status, :author_id, :created_at, :license, :source_type, :relation, :target, :target_id
+    attr_reader :id, :status, :author_id, :created_at, :license, :source_type,
+                :relation, :target, :target_id, :reading, :uk
 
     def initialize(node, entry)
       @id = node.title
@@ -432,11 +462,18 @@ module OrgEntry
 
       tgt_id_item = node.content.find { |item| item.label == 'TARGET_ID' }
       @target_id = tgt_id_item ? tgt_id_item.value : nil
+
+      reading_item = node.content.find { |item| item.label == 'READING' }
+      @reading = reading_item ? reading_item.value : nil
+
+      uk_item = node.content.find { |item| item.label == 'UK' }
+      @uk = uk_item ? uk_item.value : nil
     end
   end
 
   class RelatedWord
-    attr_reader :id, :status, :author_id, :created_at, :license, :source_type, :relation, :target, :target_id
+    attr_reader :id, :status, :author_id, :created_at, :license, :source_type,
+                :relation, :target, :target_id, :reading, :uk, :uk_context, :note
 
     def initialize(node, entry)
       @id = node.title
@@ -454,6 +491,18 @@ module OrgEntry
 
       tgt_id_item = node.content.find { |item| item.label == 'TARGET_ID' }
       @target_id = tgt_id_item ? tgt_id_item.value : nil
+
+      reading_item = node.content.find { |item| item.label == 'READING' }
+      @reading = reading_item ? reading_item.value : nil
+
+      uk_item = node.content.find { |item| item.label == 'UK' }
+      @uk = uk_item ? uk_item.value : nil
+
+      context_item = node.content.find { |item| item.label == 'UK_CONTEXT' }
+      @uk_context = context_item ? context_item.value : nil
+
+      note_item = node.content.find { |item| item.label == 'NOTE' }
+      @note = note_item ? note_item.value : nil
     end
   end
 
@@ -531,7 +580,8 @@ module OrgEntry
   # Pronunciation & Pitch Accent
   class Pronunciation
     attr_reader :id, :target_id, :system, :mora_count, :drop_after, :pattern, :mora_pattern, :context,
-                :source_id, :source_version, :source_url, :license, :status, :verified_at
+                :source_id, :source_version, :source_url, :license, :status, :verified_at,
+                :reading, :explanation_uk
 
     def initialize(node)
       @id = node.title
@@ -548,6 +598,12 @@ module OrgEntry
       @license = node.properties['LICENSE']
       @status = node.properties['STATUS']
       @verified_at = node.properties['VERIFIED_AT']
+
+      reading_item = node.content.find { |item| item.label == 'reading' }
+      @reading = reading_item ? reading_item.value : nil
+
+      explanation_item = node.content.find { |item| item.label == 'explanation-uk' }
+      @explanation_uk = explanation_item ? explanation_item.value : nil
     end
   end
 
@@ -556,7 +612,7 @@ module OrgEntry
     attr_reader :id, :target_type, :target_id, :source_id, :source_url, :asset_path, :mime, :license,
                 :speaker_id, :speaker_region, :recording_type, :engine, :engine_version, :voice_model,
                 :voice_version, :generation_input, :recorded_at, :generated_at, :distribution_terms_url,
-                :credit, :verified_at, :text, :reading
+                :credit, :verified_at, :text, :reading, :learner_note_uk
 
     def initialize(node)
       @id = node.title
@@ -586,6 +642,9 @@ module OrgEntry
 
       rd_item = node.content.find { |item| item.label == 'reading' }
       @reading = rd_item ? rd_item.value : ''
+
+      learner_note_item = node.content.find { |item| item.label == 'learner-note-uk' }
+      @learner_note_uk = learner_note_item ? learner_note_item.value : nil
     end
   end
 

@@ -1,0 +1,895 @@
+#+TITLE: 盗む
+#+JMDICT_ID: 1448440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぬすむ
+#+ROMAJI: nusumu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1448440-001
+:PROPERTIES:
+:TEXT: 盗む
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Written form wf-1448440-002
+:PROPERTIES:
+:TEXT: 偸む
+:END:
+*** Information
+- rK
+** Reading rd-1448440-001
+:PROPERTIES:
+:TEXT: ぬすむ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf09
+
+* Sense s-1448440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0d92c3e94aeace5c1560bdb26233ea3730b547a1a427ae94051c6c5ff6f3ea8e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+** English glosses
+- to steal
+** Ukrainian glosses
+*** uk-s-1448440-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: красти, викрадати
+*** note-s-1448440-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово, що означає «красти» або «викрадати» (гроші, речі тощо). Часто вживається в пасивному стані (盗まれる, нусумареру) для опису того, що у вас щось вкрали.
+** Examples
+*** ex-1448440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+*** ex-s-1448440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: お金を盗むのは犯罪です。
+- READING :: おかねを ぬすむのは はんざいです。
+- UK :: Красти гроші — це злочин.
+- EN :: Stealing money is a crime.
+- FOCUS :: 盗む
+*** ex-1448440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+*** ex-s-1448440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 泥棒に時計を盗まれました。
+- READING :: どろぼうに とけいを ぬすまれました。
+- UK :: Злодій вкрав у мене годинник.
+- EN :: My watch was stolen by a thief.
+- FOCUS :: 盗まれました
+*** ex-1448440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+*** ex-s-1448440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 車を盗んだ犯人が逮捕された。
+- READING :: くるまを ぬすんだ はんにんが たいほされた。
+- UK :: Злочинця, який викрав машину, заарештували.
+- EN :: The criminal who stole the car was arrested.
+- FOCUS :: 盗んだ
+
+* Sense s-1448440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4c18fce66b7da31dc7cb1e533efbd4cf9e45afdab0f6c725cb7a3a9821f38d25
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+** English glosses
+- to plagiarize
+- to steal (a technique, idea, etc.)
+- to watch and learn
+** Ukrainian glosses
+*** uk-s-1448440-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: плагіатити, запозичувати (ідею, техніку), переймати досвід
+
+* Sense s-1448440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bafebed53249922e360e47209699ebb409addab39fc551d44291908c5650438d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+*** Sense information
+- oft. as 目を盗んで
+** English glosses
+- to do stealthily
+** Ukrainian glosses
+*** uk-s-1448440-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робити щось потайки
+
+* Sense s-1448440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 704f3795ddecf709f77165320c8f6c4d1a5dfd5e73dc328a36fd4751dae9a5c3
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+*** Sense information
+- usu. as 暇を盗んで
+** English glosses
+- to do during scant time
+** Ukrainian glosses
+*** uk-s-1448440-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: викроювати (час)
+
+* Sense s-1448440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b884aa667eef5d4997fa4921de93415010789d0ee49f4db52642acbdcc2b8928
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+*** Fields
+- baseb
+** English glosses
+- to steal a base
+** Ukrainian glosses
+*** uk-s-1448440-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: (бейсбол) красти базу
+
+* Sense s-1448440-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 776d485ee23d75908b17054f075331407a8f985111d3247e12e943e2b0074f39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stelen
+*** en-s-1448440-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontstelen
+*** en-s-1448440-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestelen
+*** en-s-1448440-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontvreemden
+*** en-s-1448440-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegnemen
+*** en-s-1448440-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: roven
+*** en-s-1448440-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beroven
+*** en-s-1448440-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontroven
+*** en-s-1448440-006-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dieven
+*** en-s-1448440-006-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegstelen
+*** en-s-1448440-006-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontfutselen
+*** en-s-1448440-006-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {財布を} lichten
+*** en-s-1448440-006-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rollen
+*** en-s-1448440-006-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: graaien
+*** en-s-1448440-006-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} pikken
+*** en-s-1448440-006-016
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} afpikken
+*** en-s-1448440-006-017
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} afpakken
+*** en-s-1448440-006-018
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} afkapen
+*** en-s-1448440-006-019
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} wegkapen
+*** en-s-1448440-006-020
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} jatten
+*** en-s-1448440-006-021
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} jatmouzen
+*** en-s-1448440-006-022
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} gappen
+*** en-s-1448440-006-023
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} ratsen
+*** en-s-1448440-006-024
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} raven
+*** en-s-1448440-006-025
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} schoepen
+*** en-s-1448440-006-026
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {volkst.} snaaien
+*** en-s-1448440-006-027
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {volkst.} wegdieven
+*** en-s-1448440-006-028
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} kapen
+*** en-s-1448440-006-029
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.
+*** en-s-1448440-006-030
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volkst.} piepen
+*** en-s-1448440-006-031
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} gannefen
+*** en-s-1448440-006-032
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} rausjen
+*** en-s-1448440-006-033
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} werken
+*** en-s-1448440-006-034
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} poteren
+*** en-s-1448440-006-035
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} bedissen
+*** en-s-1448440-006-036
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} haaien
+*** en-s-1448440-006-037
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} handelen
+*** en-s-1448440-006-038
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} fazelen
+*** en-s-1448440-006-039
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} ransen
+*** en-s-1448440-006-040
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} ranzen
+*** en-s-1448440-006-041
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} meppen
+*** en-s-1448440-006-042
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.
+*** en-s-1448440-006-043
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volkst.} roeien
+*** en-s-1448440-006-044
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {考案
+*** en-s-1448440-006-045
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 思想を} plagiëren
+*** en-s-1448440-006-046
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdonkeremanen
+*** en-s-1448440-006-047
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} verdonkeren
+*** en-s-1448440-006-048
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {vulg.} klauwen
+** Ukrainian glosses
+
+* Sense s-1448440-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0ca81f6c77463fb253f81ca6e4b90fba00834003e7dd6b7a976bed3e7c0e193d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {暇を} vrijmaken
+*** en-s-1448440-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: te baat nemen
+*** en-s-1448440-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bemachtigen
+** Ukrainian glosses
+
+* Sense s-1448440-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: b474d6052440071714822538174e2158065b466ac1144d8cf47d2cd6fb409d35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dérober
+*** en-s-1448440-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voler
+** Ukrainian glosses
+
+* Sense s-1448440-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 470434f4533c1ac8765f8dbf3795eb7d39fac1a56a8f62febb2a547a702d27e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stehlen
+*** en-s-1448440-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen Diebstahl verüben
+*** en-s-1448440-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rauben
+*** en-s-1448440-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klauen
+** Ukrainian glosses
+
+* Sense s-1448440-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f1bf96dc7ba9d7c5f60d6f9460b0081b339eeb6dd0706e1547a1c105bc6e89a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich der Aufmerksamkeit anderer entziehen
+*** en-s-1448440-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich wegstehlen
+** Ukrainian glosses
+
+* Sense s-1448440-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: a071a0e76c038e36c66a7e7b7fac75fcbb76700c7c196917bbc865299e01cb2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine kurze Weile für etwas nutzen
+** Ukrainian glosses
+
+* Sense s-1448440-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 0a35033b35bdbb158ee5b6be45c712944c3475bf4a771a80a4544fca66ed6ee0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abschreiben
+*** en-s-1448440-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plagiieren
+*** en-s-1448440-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Plagiat begehen
+*** en-s-1448440-012-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plündern
+** Ukrainian glosses
+
+* Sense s-1448440-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 18109d36bf80cc263f6639ae0a1bbc638d8a7d191d442f818ba6aeb90e304cce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lopódzik
+** Ukrainian glosses
+
+* Sense s-1448440-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: ed227ff3b897d098ffc1b4ad7c0d2436e9d3f15129424a4e89345f523133472a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: воровать
+*** en-s-1448440-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: красть, воровать
+** Ukrainian glosses
+
+* Sense s-1448440-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: bdca29961f6f3ce372cb7d83daba9e3298210397128bf3ceabb8cd9d9f58c077
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krasti
+*** en-s-1448440-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ukrasti
+*** en-s-1448440-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izmakniti
+** Ukrainian glosses
+
+* Sense s-1448440-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 88f477cc721aa646f42726c098853b7c5527e83308a02c3c6e8c9a9bdcdbe716
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1448440-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: robar
+*** en-s-1448440-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hurtar
+*** en-s-1448440-016-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pillar
+** Ukrainian glosses

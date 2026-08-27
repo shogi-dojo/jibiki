@@ -1,0 +1,280 @@
+#+TITLE: 歯医者
+#+JMDICT_ID: 1313080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいしゃ
+#+ROMAJI: haisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: 62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5
+#+CREATED_AT: 2026-08-17
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1313080-001
+:PROPERTIES:
+:TEXT: 歯医者
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf32
+** Written form wf-1313080-002
+:PROPERTIES:
+:TEXT: 齒醫者
+:END:
+*** Information
+- sK
+** Reading rd-1313080-001
+:PROPERTIES:
+:TEXT: はいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf32
+
+* Sense s-1313080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 33024efd4883bbb4b2a1707db8c827854b1a6f7f7e8e482dd38903c8367fff4f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dentist
+** Ukrainian glosses
+*** uk-s-1313080-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стоматолог
+*** uk-s-1313080-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зубний лікар
+*** note-s-1313080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що означає «стоматолог» або «зубний лікар». Слово 歯医者 (хаіша) складається з 歯 (ха — зуб) та 医者 (іша — лікар). Вживається як у формальних, так і в повсякденних ситуаціях.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-s-1313080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 歯医者に行く。
+- READING :: はいしゃにいく。
+- UK :: Іти до стоматолога.
+- EN :: Go to the dentist.
+- FOCUS :: 歯医者
+*** ex-s-1313080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: 私は歯医者が怖いです。
+- READING :: わたしははいしゃがこわいです。
+- UK :: Я боюся стоматологів.
+- EN :: I am afraid of dentists.
+- FOCUS :: 歯医者
+*** ex-s-1313080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 良い歯医者を教えてください。
+- READING :: よいはいしゃをおしえてください。
+- UK :: Порадьте, будь ласка, хорошого стоматолога.
+- EN :: Please recommend a good dentist.
+- FOCUS :: 歯医者
+
+* Sense s-1313080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64537d5a80a77f311406a1623ae4134ec7dd7ab5b59e4279cc536689d0d73470
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tandarts
+*** en-s-1313080-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tandheelkundige
+*** en-s-1313080-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dentist
+*** en-s-1313080-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.
+*** en-s-1313080-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scherts.} smoelensmid
+* Sense s-1313080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 562005aa997c4a281befb07ca51be53ea90460d8aa9cd00aab866d1abdced889
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dentiste
+* Sense s-1313080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5ad75f6cf87a99ab0b54d49fd563d7676a027c9931989ed685c6c877840ad4e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahnarzt
+*** en-s-1313080-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dentist
+* Sense s-1313080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8c469739bafd01550b8ffbeb7b15935b6bd461b9506e5dfb7bbbaaf1013bd60b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogász
+*** en-s-1313080-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogorvos
+* Sense s-1313080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7542e33a42fb91bc2ef69a0ff3462a5d725ebe2f47ec0c80c00381e07fc7e185
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зубной врач
+* Sense s-1313080-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f72e9ccf5a72de594d3437176d570439f989c6751e38dc42bf8170a760192884
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zobozdravnik
+* Sense s-1313080-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 094e746c47875554d30706a0b5a242f43323271d9a0045f7e995bcbb6b6179dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dentista
+* Sense s-1313080-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ef965b9ca51845fcef7b976be4ae5a56252c6eb3818ae6036960b94b8e10f96a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313080-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tandläkare

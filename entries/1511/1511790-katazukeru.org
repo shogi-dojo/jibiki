@@ -62,42 +62,58 @@
 ** Ukrainian glosses
 *** uk-s-1511790-001-001
 :PROPERTIES:
-:TRANSLATOR_ID:
-:TRANSLATED_AT:
-:REVIEWER_ID:
-:REVIEWED_AT:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-08-16
 :END:
 - text :: прибирати, наводити лад
+*** note-s-1511790-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово 片付ける (かたづける) використовується для процесу наведення ладу, коли речі повертаються на свої місця (наприклад, прибрати іграшки, розібрати на столі). Воно відрізняється від 掃除する (そうじする), яке означає очищення від бруду чи пилу.
+- LEVEL :: beginner
+- REGISTER :: neutral
 ** Examples
 *** ex-1511790-001-001
 :PROPERTIES:
 :LEVEL: beginner
 :REGISTER: neutral
 :END:
-- JA :: 早く仕事を片付けたいです。
-- READING :: はやくしごとをかたづけたいです。
-- UK :: Хочу швидше закінчити (розібратися з) роботу.
-- EN :: I want to finish the work quickly.
-- FOCUS :: 片付けたい
+*** ex-s-1511790-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:END:
+- JA :: 自分の部屋を片付けました。
+- READING :: じぶんのへやをかたづけました。
+- UK :: Я прибрав свою кімнату.
+- EN :: I tidied up my room.
+- FOCUS :: 片付けました
 *** ex-1511790-001-002
 :PROPERTIES:
 :LEVEL: neutral
 :REGISTER: neutral
 :END:
-- JA :: 部屋を片付けます。
-- READING :: へやをかたづけます。
-- UK :: Я прибираю в кімнаті.
-- EN :: I tidy up the room.
-- FOCUS :: 片付けます
+*** ex-s-1511790-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:END:
+- JA :: お客さんが来る前に、机の上を片付けてください。
+- READING :: おきゃくさんがくるまえに、つくえのうえをかたづけてください。
+- UK :: Будь ласка, приберіть на столі перед приходом гостей.
+- EN :: Please tidy up the desk before the guests arrive.
+- FOCUS :: 片付けて
 *** ex-1511790-001-003
 :PROPERTIES:
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: 机の上を片付けてください。
-- READING :: つくえのうえをかたづけてください。
-- UK :: Будь ласка, приберіть на столі.
-- EN :: Please tidy up the desk.
+*** ex-s-1511790-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:END:
+- JA :: 早くこの仕事を片付けて、飲みに行きましょう。
+- READING :: はやくこのしごとをかたづけて、のみにいきましょう。
+- UK :: Давайте швидко розберемося з цією роботою і підемо випити.
+- EN :: Let's finish this work quickly and go out for a drink.
 - FOCUS :: 片付けて
 
 * Sense s-1511790-002
