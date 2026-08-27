@@ -1,0 +1,420 @@
+#+TITLE: 御座います
+#+JMDICT_ID: 1612690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ございます
+#+ROMAJI: gozaimasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1612690-001
+:PROPERTIES:
+:TEXT: 御座います
+:END:
+*** Information
+- rK
+** Written form wf-1612690-002
+:PROPERTIES:
+:TEXT: 御座居ます
+:END:
+*** Information
+- sK
+** Written form wf-1612690-003
+:PROPERTIES:
+:TEXT: ご座います
+:END:
+*** Information
+- sK
+** Written form wf-1612690-004
+:PROPERTIES:
+:TEXT: 厶います
+:END:
+*** Information
+- sK
+** Reading rd-1612690-001
+:PROPERTIES:
+:TEXT: ございます
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1612690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 23a0255b196d1e437be3bd48c142ef54ba2be61afbb8690adf787980680c2338
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+*** Miscellaneous and register
+- pol
+- uk
+*** Cross-references
+- 御座る・1
+** English glosses
+- to be
+- to exist
+** Ukrainian glosses
+*** uk-s-1612690-001-001
+:PROPERTIES:
+:END:
+- text :: бути, є, знаходитися
+- qualifier :: ввічливий еквівалент あります
+*** uk-s-1612690-001-002
+:PROPERTIES:
+:END:
+- text :: бути
+- qualifier :: зв'язка у формі でございます (ввічливий еквівалент です)
+** Learner notes
+*** note-s-1612690-001-001
+:PROPERTIES:
+:END:
+- UK :: Надввічливий еквівалент дієслова あります (бути, існувати) та зв'язки です (у формі でございます). Майже завжди записується хіраґаною: ありがとうございます (щиро дякую), おはようございます (доброго ранку), おめでとうございます (вітаємо).
+- LEVEL :: beginner
+- REGISTER :: formal
+** Examples
+*** ex-1612690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: formal
+:END:
+- JA :: 何かご質問はございますか。
+- READING :: なにかごしつもんはございますか。
+- ROMAJI :: Nanika goshitsumon wa gozaimasu ka.
+- UK :: Чи маєте ви якісь запитання?
+- EN :: Do you have any questions?
+- FOCUS :: ございますか
+*** ex-1612690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: formal
+:END:
+- JA :: お手洗いはこちらの階段を上がった右手にございますので、どうぞご利用ください。
+- READING :: おてあらいはこちらのかいだんをあがったみぎてにございますので、どうぞごりようください。
+- ROMAJI :: Otearai wa kochira no kaidan o agatta migite ni gozaimasu node, douzo goriyou kudasai.
+- UK :: Вбиральня розташована праворуч після сходів, тож, будь ласка, користуйтеся.
+- EN :: The restroom is to the right up these stairs, so please feel free to use it.
+- FOCUS :: 右手にございますので
+*** ex-1612690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 本日はお忙しい中、弊社の製品説明会にご足労いただきまして、誠にありがとうございます。
+- READING :: ほんじつはおいそがしいなか、へいしゃのせいひんせつめいかいにごそくろういただきまして、まことにありがとうございます。
+- ROMAJI :: Honjitsu wa oisogashii naka, heisha no seihin setsumeikai ni gosokurou itadakimashite, makoto ni arigatou gozaimasu.
+- UK :: Щиро дякуємо вам за те, що попри зайнятість ви завітали на презентацію продукції нашої компанії.
+- EN :: Thank you very much for taking the trouble to attend our product presentation today despite your busy schedule.
+- FOCUS :: ありがとうございます
+
+* Sense s-1612690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b7e7b4ce732f14fde5ed3a437fb10a00f81af8a164a9a1cd2f9fdb0c96fd7059
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+*** Miscellaneous and register
+- pol
+- uk
+*** Sense information
+- after the ～て form of a verb; in highly formal contexts
+** English glosses
+- to be (doing)
+** Ukrainian glosses
+*** uk-s-1612690-002-001
+:PROPERTIES:
+:END:
+- text :: робити щось
+- qualifier :: допоміжне дієслово тривалого стану в офіційному мовленні (після 〜て)
+
+* Sense s-1612690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 946727e670d1fc2a523e1791c56e499516cdc7a283c8b1deea377fc3606904dc
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+*** Miscellaneous and register
+- pol
+- uk
+- dated
+*** Sense information
+- after the ～て form of a masu verb; as ましてございます
+** English glosses
+- did
+- (have) done
+** Ukrainian glosses
+*** uk-s-1612690-003-001
+:PROPERTIES:
+:END:
+- text :: зробив
+- qualifier :: застаріла форма минулого часу (у конструкції 〜ましてございます)
+
+* Sense s-1612690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a56a3c882ea9dd47b621a2f9cabcdb2c9757ccd5d291d3ba38e7ed359daee806
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {werkwoordelijke hoffelijkheidsvariant van aru} zijn
+*** en-s-1612690-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich bevinden
+*** en-s-1612690-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hebben
+** Ukrainian glosses
+
+* Sense s-1612690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1ece5ed61d2a45d76c281af20e2f9b3470aef1b842878e9d693745618e7fde52
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {hulpwerkwoordelijke hoffelijkheidsvariant van aru}
+** Ukrainian glosses
+
+* Sense s-1612690-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 875c42b2903e89fb58ceb746d84a0380bb1c2ef3b614a99e03f4427f305f2f14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: il y a (forme honorifique)
+** Ukrainian glosses
+
+* Sense s-1612690-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ced97909bb221b6614975863e68e15edfe0db9fdd1de25aa51a03c61ad236788
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: es gibt
+*** en-s-1612690-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sein
+*** en-s-1612690-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haben
+** Ukrainian glosses
+
+* Sense s-1612690-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: dc406262a0eb75603b743ce4577988c2876032cba28d546edcf49882a2aaeeed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jön vhova
+*** en-s-1612690-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: létezik
+*** en-s-1612690-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van
+** Ukrainian glosses
+
+* Sense s-1612690-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 5f14ec4e8100f4ee9771a7366cf447ed4db55e326baf6538fc33d9885edb0722
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть
+*** en-s-1612690-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: находиться
+*** en-s-1612690-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: существовать
+** Ukrainian glosses
+
+* Sense s-1612690-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 7dc905cb09d4d7a4d7770d724ff1bd2cfe956718ae9345539ed0276058fbcae6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti
+*** en-s-1612690-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nahajati se
+** Ukrainian glosses
+
+* Sense s-1612690-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 57a551575ff3c2859adb26a0ff957565c0a0d32143552eba455c9b201fef640a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1612690-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ser
+*** en-s-1612690-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar
+*** en-s-1612690-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: existir
+*** en-s-1612690-011-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haber
+*** en-s-1612690-011-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: copula cortes
+*** en-s-1612690-011-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ser
+** Ukrainian glosses
