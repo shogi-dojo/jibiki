@@ -140,8 +140,26 @@ Rules:
 - `ENTRY_STATUS` is `untranslated`, `draft`, or `reviewed`.
 - `QUALITY_PROFILE` is `core`, `learner`, `enriched`, or `gold`. It records the
   minimum editorial depth already achieved, not the intended future depth.
-- `JMDICT_SOURCE_SHA256` identifies the complete imported JMdict archive used
-  for reconciliation.
+- `JMDICT_SOURCE_SHA256` identifies the complete imported JMdict archive an
+  entry was last reconciled against. EDRDG regenerates JMdict daily and revises
+  senses in place, so the corpus accumulates hashes from several archive
+  generations and a sense fingerprint can go stale without anyone touching the
+  entry. Two mechanisms keep that honest:
+
+  - CI validates against the archive pinned in `.github/jmdict-pin.env`, not
+    whatever upstream serves today, so a green corpus stays green. The pin is
+    advanced only by the `JMdict pin` workflow, which republishes the chosen
+    archive as a release asset, refreshes drifted fingerprints with
+    `rake fingerprints:refresh`, and opens a PR — a JMdict change arrives as one
+    reviewable commit instead of reddening an unrelated PR.
+  - Validation recognises the archive on disk plus the accumulated history in
+    `KNOWN_JMDICT_SHA256S` (`scripts/validate_entry.rb`), since entries keep the
+    generation they were reconciled against. Never drop a hash from that list
+    while any entry still carries it.
+
+  Refreshing a fingerprint only asserts that the sense's identity has moved. It
+  does not update the derived sections, so check parts of speech, glosses and
+  language sources against JMdict for any entry the refresh reports.
 
 Optional file keywords:
 

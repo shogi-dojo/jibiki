@@ -1,0 +1,151 @@
+name: JMdict pin
+
+# Advances the JMdict archive the corpus is validated against.
+#
+# EDRDG publishes a single rolling JMdict.gz and revises senses in place, so
+# there is no upstream URL for "the archive we validated against last month".
+# This republishes the archive we chose as a release asset on this repository,
+# records its hash in .github/jmdict-pin.env, refreshes every drifted
+# fingerprint against it, and opens a PR with the result — so a JMdict change
+# arrives as one reviewable commit instead of turning an unrelated PR red.
+#
+# Run it deliberately, not on a schedule: the point is that the archive only
+# moves when someone decides it should.
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: Why the pin is being advanced (recorded in the PR body)
+        required: false
+        default: Routine JMdict refresh
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install libsqlite3 headers
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev pkg-config
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0.5'
+          bundler-cache: true
+          cache-version: 1
+
+      - name: Download the current upstream archive
+        run: |
+          mkdir -p sources/jmdict
+          curl -fL http://ftp.edrdg.org/pub/Nihongo/JMdict.gz -o sources/jmdict/JMdict.xml.gz
+
+      # JMdict stamps its own build date in a header comment, which makes a far
+      # more legible release tag than the day this workflow happened to run.
+      - name: Identify the archive
+        id: archive
+        run: |
+          sha256=$(sha256sum sources/jmdict/JMdict.xml.gz | cut -d' ' -f1)
+          created=$(zcat sources/jmdict/JMdict.xml.gz | head -40 | grep -oP 'JMdict created: \K[0-9-]+' || true)
+          [ -n "$created" ] || created=$(date -u +%Y-%m-%d)
+          echo "sha256=$sha256" >> $GITHUB_OUTPUT
+          echo "tag=jmdict-$created" >> $GITHUB_OUTPUT
+          echo "created=$created" >> $GITHUB_OUTPUT
+
+      # A no-op run is a success, not a failure: upstream simply has not moved
+      # since the pin was last advanced.
+      - name: Detect whether the archive already matches the pin
+        id: pinned
+        env:
+          SHA256: ${{ steps.archive.outputs.sha256 }}
+        run: |
+          current=$(grep '^JMDICT_SHA256=' .github/jmdict-pin.env | cut -d= -f2)
+          if [ "$current" = "$SHA256" ]; then
+            echo "::notice::Upstream still serves the pinned archive; nothing to advance."
+            echo 'unchanged=true' >> $GITHUB_OUTPUT
+          else
+            echo 'unchanged=false' >> $GITHUB_OUTPUT
+          fi
+
+      # JMdict is CC BY-SA 4.0 and NOTICE carries the required attribution, so
+      # republishing the archive is permitted. It is a release asset rather than
+      # a tracked file to keep it out of every clone.
+      - name: Publish the archive as a release asset
+        if: steps.pinned.outputs.unchanged != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.archive.outputs.tag }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" sources/jmdict/JMdict.xml.gz --clobber
+          else
+            gh release create "$TAG" sources/jmdict/JMdict.xml.gz \
+              --title "$TAG" \
+              --notes "JMdict archive built ${{ steps.archive.outputs.created }} by EDRDG, republished under CC BY-SA 4.0. See NOTICE for attribution. Pinned by .github/jmdict-pin.env so entries:validate is reproducible."
+          fi
+
+      - name: Record the pin
+        if: steps.pinned.outputs.unchanged != 'true'
+        env:
+          TAG: ${{ steps.archive.outputs.tag }}
+          SHA256: ${{ steps.archive.outputs.sha256 }}
+        run: |
+          sed -i "s|^JMDICT_RELEASE_TAG=.*|JMDICT_RELEASE_TAG=${TAG}|" .github/jmdict-pin.env
+          sed -i "s|^JMDICT_SHA256=.*|JMDICT_SHA256=${SHA256}|" .github/jmdict-pin.env
+
+      - name: Refresh drifted fingerprints
+        if: steps.pinned.outputs.unchanged != 'true'
+        id: refresh
+        run: |
+          set -o pipefail
+          bundle exec rake fingerprints:refresh 2>&1 | tee refresh.log
+
+      # The corpus keeps the hash of whatever archive each entry was last
+      # reconciled against, so advancing the pin adds a generation the validator
+      # has to keep recognising.
+      - name: Record the new archive generation in the validator
+        if: steps.pinned.outputs.unchanged != 'true'
+        env:
+          SHA256: ${{ steps.archive.outputs.sha256 }}
+        run: |
+          if ! grep -q "$SHA256" scripts/validate_entry.rb; then
+            sed -i "0,/^KNOWN_JMDICT_SHA256S = \[$/s//KNOWN_JMDICT_SHA256S = [\n  '${SHA256}',/" scripts/validate_entry.rb
+          fi
+          bundle exec rake test
+
+      - name: Check the corpus against the newly pinned archive
+        if: steps.pinned.outputs.unchanged != 'true'
+        run: bundle exec rake entries:validate
+
+      - name: Open the pin PR
+        if: steps.pinned.outputs.unchanged != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.archive.outputs.tag }}
+          CREATED: ${{ steps.archive.outputs.created }}
+          REASON: ${{ inputs.reason }}
+        run: |
+          branch="chore/jmdict-pin-${CREATED}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add .github/jmdict-pin.env scripts/validate_entry.rb entries
+          git commit -m "chore: pin JMdict ${CREATED}" -m "${REASON}"
+          git push -u origin "$branch"
+
+          {
+            printf '%s\n\n' "Advances the JMdict pin. ${REASON}"
+            printf '%s\n\n' "The archive is published as release \`${TAG}\` and \`.github/jmdict-pin.env\` now names it, so \`entries:validate\` runs against these exact bytes until someone advances the pin again."
+            printf '%s\n\n' "Fingerprint drift picked up by \`rake fingerprints:refresh\`:"
+            printf '```\n'
+            cat refresh.log
+            printf '```\n\n'
+            printf '%s\n' "Only fingerprints and archive-hash headers moved. Parts of speech, glosses and language sources are untouched, so any entry listed above should be checked against JMdict before this merges."
+          } > pr-body.md
+
+          gh pr create --base main --head "$branch" \
+            --title "chore: pin JMdict ${CREATED}" \
+            --body-file pr-body.md

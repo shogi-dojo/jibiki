@@ -116,6 +116,20 @@ namespace :entries do
   end
 end
 
+namespace :fingerprints do
+  desc 'Re-derive sense fingerprints from the JMdict archive on disk: rake "fingerprints:refresh[entries/1381/1381380-ao.org]"'
+  task :refresh, [:path] do |_task, args|
+    command = [RUBY, 'scripts/refresh_fingerprints.rb']
+    command << args[:path] if args[:path]
+    sh(*command)
+  end
+
+  desc 'Report fingerprint drift against the JMdict archive without writing'
+  task :check do
+    sh RUBY, 'scripts/refresh_fingerprints.rb', '--check'
+  end
+end
+
 namespace :org do
   desc 'Run Emacs org-lint on every tracked dictionary Org file'
   task :lint do

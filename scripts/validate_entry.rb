@@ -11,12 +11,22 @@ JMDICT_PATH = ENV.fetch(
   File.join(REPO_ROOT, 'sources', 'jmdict', 'JMdict.xml.gz')
 )
 
-ON_DISK_JMDICT_SHA256 = '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5'
-PREVIOUS_JMDICT_SHA256 = '08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e'
+# EDRDG regenerates JMdict daily, so `entries:scaffold` stamps whichever archive
+# generation an entry was reconciled against and the corpus accumulates hashes
+# faster than any single archive stays current. Entries authored against an
+# older generation remain valid, so the recognised set is the whole history of
+# archives the corpus has been reconciled against, newest first, plus the
+# archive currently on disk. Append the new hash here whenever authoring pulls a
+# fresher JMdict; never replace an existing one while entries still carry it.
+KNOWN_JMDICT_SHA256S = [
+  'a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41',
+  '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5',
+  '08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e'
+].freeze
 
 def valid_jmdict_shas
   @valid_jmdict_shas ||= begin
-    shas = [ON_DISK_JMDICT_SHA256, PREVIOUS_JMDICT_SHA256]
+    shas = KNOWN_JMDICT_SHA256S.dup
     shas << Digest::SHA256.file(JMDICT_PATH).hexdigest if File.exist?(JMDICT_PATH)
     shas.uniq
   end
