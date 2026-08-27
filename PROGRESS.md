@@ -937,6 +937,7 @@ content and remain at `new` until editorial review.
 | N4-455 | [用](entries/1546/1546200-you.org) | よう | you | 1546200 | learner | draft | **new** | Editorial review |
 | N4-456 | [用意](entries/1546/1546220-youi.org) | ようい | youi | 1546220 | learner | draft | **new** | Editorial review |
 | N4-457 | [用事](entries/1546/1546300-youji.org) | ようじ | youji | 1546300 | learner | draft | **new** | Editorial review |
+| N4-458 | [予習](entries/1543/1543070-yoshuu.org) | よしゅう | yoshuu | 1543070 | learner | draft | **new** | Editorial review |
 | N4-479 | [亜細亜](entries/1015/1015840-ajia.org) | アジア | ajia | 1015840 | learner | draft | **new** | Editorial review |
 | N4-480 | [阿弗利加](entries/1929/1929050-afurika.org) | アフリカ | afurika | 1929050 | learner | draft | **new** | Editorial review |
 | N4-481 | [亜米利加](entries/1149/1149830-amerika.org) | アメリカ | amerika | 1149830 | learner | draft | **new** | Editorial review |
