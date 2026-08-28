@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1464 |
+| Canonical entry files | 1474 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 95 |
-| N3 queue rows covered | 99 / 1677 (5.9%) |
+| Canonical N3 entries | 105 |
+| N3 queue rows covered | 109 / 1677 (6.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1427 |
+| `new` | 1437 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1454 |
+| Entry metadata still marked `draft` | 1464 |
 | Core profile | 163 |
-| Learner profile | 1300 |
+| Learner profile | 1310 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 99 rows covered (95 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 109 rows covered (105 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1292,4 +1292,14 @@ content and remain at `new` until editorial review.
 | N3-97 | [命](entries/1531/1531940-inochi.org) | いのち | inochi | 1531940 | learner | draft | **new** | Editorial review |
 | N3-98 | [違反](entries/1158/1158950-ihan.org) | いはん | ihan | 1158950 | learner | draft | **new** | Editorial review |
 | N3-99 | [衣服](entries/1158/1158810-ifuku.org) | いふく | ifuku | 1158810 | learner | draft | **new** | Editorial review |
+| N3-100 | [居間](entries/1231/1231720-ima.org) | いま | ima | 1231720 | learner | draft | **new** | Editorial review |
+| N3-101 | [今に](entries/1288/1288940-imani.org) | いまに | imani | 1288940 | learner | draft | **new** | Editorial review |
+| N3-102 | [今にも](entries/1288/1288950-imanimo.org) | いまにも | imanimo | 1288950 | learner | draft | **new** | Editorial review |
+| N3-103 | [以来](entries/1155/1155210-irai.org) | いらい | irai | 1155210 | learner | draft | **new** | Editorial review |
+| N3-104 | [依頼](entries/1155/1155710-irai.org) | いらい | irai | 1155710 | learner | draft | **new** | Editorial review |
+| N3-105 | [苛々](entries/1587/1587700-iraira.org) | いらいら | iraira | 1587700 | learner | draft | **new** | Editorial review |
+| N3-106 | [いらっしゃい](entries/1000/1000920-irasshai.org) | いらっしゃい | irasshai | 1000920 | learner | draft | **new** | Editorial review |
+| N3-107 | [医療](entries/1160/1160140-iryou.org) | いりょう | iryou | 1160140 | learner | draft | **new** | Editorial review |
+| N3-108 | [岩](entries/1217/1217270-iwa.org) | いわ | iwa | 1217270 | learner | draft | **new** | Editorial review |
+| N3-109 | [祝い](entries/1337/1337370-iwai.org) | いわい | iwai | 1337370 | learner | draft | **new** | Editorial review |
 
