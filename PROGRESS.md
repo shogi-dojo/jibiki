@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1389 |
+| Canonical entry files | 1409 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 20 |
-| N3 queue rows covered | 20 / 1677 (1.2%) |
+| Canonical N3 entries | 40 |
+| N3 queue rows covered | 41 / 1677 (2.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1352 |
+| `new` | 1372 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1379 |
+| Entry metadata still marked `draft` | 1399 |
 | Core profile | 163 |
-| Learner profile | 1225 |
+| Learner profile | 1245 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 20 words authored out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 41 rows covered (40 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1213,4 +1213,25 @@ content and remain at `new` until editorial review.
 | N3-18 | [汗](entries/1213/1213060-ase.org) | あせ | ase | 1213060 | learner | draft | **new** | Editorial review |
 | N3-19 | [値](entries/1581/1581630-atai.org) | あたい | atai | 1581630 | learner | draft | **new** | Editorial review |
 | N3-20 | [与える](entries/1544/1544730-ataeru.org) | あたえる | ataeru | 1544730 | learner | draft | **new** | Editorial review |
+| N3-21 | [辺り](entries/1512/1512080-atari.org) | あたり | atari | 1512080 | learner | draft | **new** | Editorial review |
+| N3-22 | [当たる](entries/1448/1448810-ataru.org) | あたる | ataru | 1448810 | learner | draft | **new** | Editorial review |
+| N3-23 | [彼方此方](entries/1612/1612620-achikochi.org) | あちこち | achikochi | 1612620 | learner | draft | **new** | Editorial review |
+| N3-24 | [扱う](entries/1153/1153440-atsukau.org) | あつかう | atsukau | 1153440 | learner | draft | **new** | Editorial review |
+| N3-25 | [集まり](entries/1609/1609050-atsumari.org) | あつまり | atsumari | 1609050 | learner | draft | **new** | Editorial review |
+| N3-26 | [当てる](entries/1448/1448860-ateru.org) | あてる | ateru | 1448860 | learner | draft | **new** | Editorial review |
+| N3-27 | [跡](entries/1383/1383680-ato.org) | あと | ato | 1383680 | learner | draft | **new** | Editorial review |
+| N3-28 | [穴](entries/1254/1254480-ana.org) | あな | ana | 1254480 | learner | draft | **new** | Editorial review |
+| N3-29 | [油](entries/1538/1538590-abura.org) | あぶら | abura | 1538590 | learner | draft | **new** | Editorial review |
+| N3-30 | [誤り](entries/1271/1271290-ayamari.org) | あやまり | ayamari | 1271290 | learner | draft | **new** | Editorial review |
+| N3-31 | [粗い](entries/1396/1396910-arai.org) | あらい | arai | 1396910 | learner | draft | **new** | Editorial review |
+| N3-32 | [嵐](entries/1549/1549340-arashi.org) | あらし | arashi | 1549340 | learner | draft | **new** | Editorial review |
+| N3-33 | [新た](entries/1361/1361510-arata.org) | あらた | arata | 1361510 | learner | draft | **new** | Editorial review |
+| N3-34 | [凡ゆる](entries/1586/1586780-arayuru.org) | あらゆる | arayuru | 1586780 | learner | draft | **new** | Editorial review |
+| N3-35 | [表わす](entries/1263/1263490-arawasu.org) | あらわす | arawasu | 1263490 | learner | draft | **new** | Editorial review |
+| N3-36 | [表す](entries/1263/1263490-arawasu.org) | あらわす | arawasu | 1263490 | learner | draft | **new** | Editorial review |
+| N3-37 | [現れ](entries/1610/1610550-araware.org) | あらわれ | araware | 1610550 | learner | draft | **new** | Editorial review |
+| N3-38 | [現れる](entries/1263/1263510-arawareru.org) | あらわれる | arawareru | 1263510 | learner | draft | **new** | Editorial review |
+| N3-39 | [有難う](entries/1586/1586820-arigatou.org) | ありがとう | arigatou | 1586820 | learner | draft | **new** | Editorial review |
+| N3-40 | [或る](entries/1586/1586840-aru.org) | ある | aru | 1586840 | learner | draft | **new** | Editorial review |
+| N3-41 | [或いは](entries/1586/1586850-aruiwa.org) | あるいは | aruiwa | 1586850 | learner | draft | **new** | Editorial review |
 
