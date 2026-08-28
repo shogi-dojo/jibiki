@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1434 |
+| Canonical entry files | 1439 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 65 |
-| N3 queue rows covered | 67 / 1677 (4.0%) |
+| Canonical N3 entries | 70 |
+| N3 queue rows covered | 73 / 1677 (4.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1397 |
+| `new` | 1402 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1424 |
+| Entry metadata still marked `draft` | 1429 |
 | Core profile | 163 |
-| Learner profile | 1270 |
+| Learner profile | 1275 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 67 rows covered (65 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 73 rows covered (70 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1260,4 +1260,10 @@ content and remain at `new` until editorial review.
 | N3-65 | [泉](entries/1390/1390780-izumi.org) | いずみ | izumi | 1390780 | learner | draft | **new** | Editorial review |
 | N3-66 | [何れ](entries/1566/1566210-izure.org) | いずれ | izure | 1566210 | learner | draft | **new** | Editorial review |
 | N3-67 | [以前](entries/1155/1155150-izen.org) | いぜん | izen | 1155150 | learner | draft | **new** | Editorial review |
+| N3-68 | [板](entries/1481/1481350-ita.org) | いた | ita | 1481350 | learner | draft | **new** | Editorial review |
+| N3-69 | [悪戯](entries/1151/1151580-itazura.org) | いたずら | itazura | 1151580 | learner | draft | **new** | Editorial review |
+| N3-70 | [頂きます](entries/1410/1410800-itadakimasu.org) | いただきます | itadakimasu | 1410800 | learner | draft | **new** | Editorial review |
+| N3-71 | [頂く](entries/1587/1587290-itadaku.org) | いただく | itadaku | 1587290 | learner | draft | **new** | Editorial review |
+| N3-72 | [痛み](entries/1587/1587300-itami.org) | いたみ | itami | 1587300 | learner | draft | **new** | Editorial review |
+| N3-73 | [至る](entries/1311/1311870-itaru.org) | いたる | itaru | 1311870 | learner | draft | **new** | Editorial review |
 
