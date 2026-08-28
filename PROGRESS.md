@@ -33,25 +33,27 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1369 |
+| Canonical entry files | 1389 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
+| Canonical N3 entries | 20 |
+| N3 queue rows covered | 20 / 1677 (1.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1332 |
+| `new` | 1352 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1359 |
+| Entry metadata still marked `draft` | 1379 |
 | Core profile | 163 |
-| Learner profile | 1205 |
+| Learner profile | 1225 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. Canonical N4
-queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
-The seed entry `日本語` is outside the N5/N4 queues.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 20 words authored out of 1677.
+Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
+The seed entry `日本語` is outside the N5/N4/N3 queues.
 
 ## Maturity workflow
 
@@ -1191,3 +1193,24 @@ content and remain at `new` until editorial review.
 | N4-721 | [矢っ張り](entries/1012/1012810-yappari.org) | やっぱり | yappari | 1012810 | learner | draft | **new** | Editorial review |
 | N4-722 | [陽](entries/1605/1605845-you.org) | よう | you | 1605845 | learner | draft | **new** | Editorial review |
 | N4-723 | [クラブ](entries/1044/1044310-kurabu.org) | クラブ | kurabu | 1044310 | learner | draft | **new** | Editorial review |
+| N3-1 | [愛](entries/1150/1150410-ai.org) | あい | ai | 1150410 | learner | draft | **new** | Editorial review |
+| N3-2 | [愛情](entries/1150/1150860-aijou.org) | あいじょう | aijou | 1150860 | learner | draft | **new** | Editorial review |
+| N3-3 | [アイスクリーム](entries/1013/1013980-aisukuriimu.org) | アイスクリーム | aisukuriimu | 1013980 | learner | draft | **new** | Editorial review |
+| N3-4 | [愛する](entries/1150/1150450-aisuru.org) | あいする | aisuru | 1150450 | learner | draft | **new** | Editorial review |
+| N3-5 | [合図](entries/1284/1284930-aizu.org) | あいず | aizu | 1284930 | learner | draft | **new** | Editorial review |
+| N3-6 | [相手](entries/1401/1401000-aite.org) | あいて | aite | 1401000 | learner | draft | **new** | Editorial review |
+| N3-7 | [生憎](entries/1379/1379210-ainiku.org) | あいにく | ainiku | 1379210 | learner | draft | **new** | Editorial review |
+| N3-8 | [アイロン](entries/1014/1014590-airon.org) | アイロン | airon | 1014590 | learner | draft | **new** | Editorial review |
+| N3-9 | [ＯＵＴ](entries/1014/1014680-auto.org) | アウト | auto | 1014680 | learner | draft | **new** | Editorial review |
+| N3-10 | [明かり](entries/1586/1586210-akari.org) | あかり | akari | 1586210 | learner | draft | **new** | Editorial review |
+| N3-11 | [空き](entries/1609/1609010-aki.org) | あき | aki | 1609010 | learner | draft | **new** | Editorial review |
+| N3-12 | [明らか](entries/1532/1532310-akiraka.org) | あきらか | akiraka | 1532310 | learner | draft | **new** | Editorial review |
+| N3-13 | [諦める](entries/1436/1436730-akirameru.org) | あきらめる | akirameru | 1436730 | learner | draft | **new** | Editorial review |
+| N3-14 | [飽きる](entries/1586/1586250-akiru.org) | あきる | akiru | 1586250 | learner | draft | **new** | Editorial review |
+| N3-15 | [握手](entries/1152/1152730-akushu.org) | あくしゅ | akushu | 1152730 | learner | draft | **new** | Editorial review |
+| N3-16 | [悪魔](entries/1152/1152510-akuma.org) | あくま | akuma | 1152510 | learner | draft | **new** | Editorial review |
+| N3-17 | [預ける](entries/1544/1544990-azukeru.org) | あずける | azukeru | 1544990 | learner | draft | **new** | Editorial review |
+| N3-18 | [汗](entries/1213/1213060-ase.org) | あせ | ase | 1213060 | learner | draft | **new** | Editorial review |
+| N3-19 | [値](entries/1581/1581630-atai.org) | あたい | atai | 1581630 | learner | draft | **new** | Editorial review |
+| N3-20 | [与える](entries/1544/1544730-ataeru.org) | あたえる | ataeru | 1544730 | learner | draft | **new** | Editorial review |
+
