@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 757 |
+| Canonical entry files | 1369 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
-| Canonical N4 entries | 100 |
-| N4 queue rows covered | 100 / 724 (13.8%) |
+| Canonical N4 entries | 712 |
+| N4 queue rows covered | 724 / 724 (100.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 720 |
+| `new` | 1332 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 747 |
+| Entry metadata still marked `draft` | 1359 |
 | Core profile | 163 |
-| Learner profile | 593 |
+| Learner profile | 1205 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows are represented. Eleven queue aliases collapse into
-existing JMdict entries, which is why 667 queue rows produce 656 canonical N5
-entry files. The seed entry `日本語` is outside the N5 queue.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. Canonical N4
+queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
+The seed entry `日本語` is outside the N5/N4 queues.
 
 ## Maturity workflow
 
@@ -1179,3 +1179,15 @@ content and remain at `new` until editorial review.
 | N4-708 | [只今](entries/1538/1538960-tadaima.org) | ただいま | tadaima | 1538960 | learner | draft | **new** | Editorial review |
 | N4-709 | [点](entries/1007/1007860-chobo.org) | ちょぼ | chobo | 1007860 | learner | draft | **new** | Editorial review |
 | N4-710 | [端](entries/2746/2746070-tsuma.org) | つま | tsuma | 2746070 | learner | draft | **new** | Editorial review |
+| N4-711 | [店](entries/1582/1582125-ten.org) | てん | ten | 1582125 | learner | draft | **new** | Editorial review |
+| N4-712 | [治す](entries/2856/2856318-naosu.org) | なおす | naosu | 2856318 | learner | draft | **new** | Editorial review |
+| N4-713 | [杯](entries/2019/2019640-hai.org) | はい | hai | 2019640 | learner | draft | **new** | Editorial review |
+| N4-714 | [端](entries/1581/1581610-hashi.org) | はし | hashi | 1581610 | learner | draft | **new** | Editorial review |
+| N4-716 | [都](entries/1444/1444950-miyako.org) | みやこ | miyako | 1444950 | learner | draft | **new** | Editorial review |
+| N4-717 | [惨い](entries/1303/1303270-mugoi.org) | むごい | mugoi | 1303270 | learner | draft | **new** | Editorial review |
+| N4-718 | [巡る](entries/1342/1342050-meguru.org) | めぐる | meguru | 1342050 | learner | draft | **new** | Editorial review |
+| N4-719 | [や](entries/2028/2028960-ya.org) | や | ya | 2028960 | learner | draft | **new** | Editorial review |
+| N4-720 | [易い](entries/1156/1156990-yasui.org) | やすい | yasui | 1156990 | learner | draft | **new** | Editorial review |
+| N4-721 | [矢っ張り](entries/1012/1012810-yappari.org) | やっぱり | yappari | 1012810 | learner | draft | **new** | Editorial review |
+| N4-722 | [陽](entries/1605/1605845-you.org) | よう | you | 1605845 | learner | draft | **new** | Editorial review |
+| N4-723 | [クラブ](entries/1044/1044310-kurabu.org) | クラブ | kurabu | 1044310 | learner | draft | **new** | Editorial review |
