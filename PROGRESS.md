@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1409 |
+| Canonical entry files | 1429 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 40 |
-| N3 queue rows covered | 41 / 1677 (2.4%) |
+| Canonical N3 entries | 60 |
+| N3 queue rows covered | 62 / 1677 (3.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1372 |
+| `new` | 1392 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1399 |
+| Entry metadata still marked `draft` | 1419 |
 | Core profile | 163 |
-| Learner profile | 1245 |
+| Learner profile | 1265 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 41 rows covered (40 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 62 rows covered (60 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1234,4 +1234,25 @@ content and remain at `new` until editorial review.
 | N3-39 | [有難う](entries/1586/1586820-arigatou.org) | ありがとう | arigatou | 1586820 | learner | draft | **new** | Editorial review |
 | N3-40 | [或る](entries/1586/1586840-aru.org) | ある | aru | 1586840 | learner | draft | **new** | Editorial review |
 | N3-41 | [或いは](entries/1586/1586850-aruiwa.org) | あるいは | aruiwa | 1586850 | learner | draft | **new** | Editorial review |
+| N3-42 | [アルバム](entries/1019/1019450-arubamu.org) | アルバム | arubamu | 1019450 | learner | draft | **new** | Editorial review |
+| N3-43 | [泡](entries/1517/1517510-awa.org) | あわ | awa | 1517510 | learner | draft | **new** | Editorial review |
+| N3-44 | [合わせる](entries/1284/1284480-awaseru.org) | あわせる | awaseru | 1284480 | learner | draft | **new** | Editorial review |
+| N3-45 | [哀れ](entries/1150/1150110-aware.org) | あわれ | aware | 1150110 | learner | draft | **new** | Editorial review |
+| N3-46 | [案](entries/1154/1154770-an.org) | あん | an | 1154770 | learner | draft | **new** | Editorial review |
+| N3-47 | [暗記](entries/1586/1586910-anki.org) | あんき | anki | 1586910 | learner | draft | **new** | Editorial review |
+| N3-48 | [安定](entries/1154/1154120-antei.org) | あんてい | antei | 1154120 | learner | draft | **new** | Editorial review |
+| N3-49 | [案内](entries/1154/1154860-annai.org) | あんない | annai | 1154860 | learner | draft | **new** | Editorial review |
+| N3-50 | [あんなに](entries/1981/1981450-annani.org) | あんなに | annani | 1981450 | learner | draft | **new** | Editorial review |
+| N3-51 | [胃](entries/1158/1158500-i.org) | い | i | 1158500 | learner | draft | **new** | Editorial review |
+| N3-52 | [委員](entries/1156/1156100-iin.org) | いいん | iin | 1156100 | learner | draft | **new** | Editorial review |
+| N3-53 | [意外](entries/1156/1156410-igai.org) | いがい | igai | 1156410 | learner | draft | **new** | Editorial review |
+| N3-54 | [息](entries/1404/1404320-iki.org) | いき | iki | 1404320 | learner | draft | **new** | Editorial review |
+| N3-55 | [行き](entries/1578/1578790-iki.org) | いき | iki | 1578790 | learner | draft | **new** | Editorial review |
+| N3-56 | [勢い](entries/1375/1375040-ikioi.org) | いきおい | ikioi | 1375040 | learner | draft | **new** | Editorial review |
+| N3-57 | [生き物](entries/1378/1378590-ikimono.org) | いきもの | ikimono | 1378590 | learner | draft | **new** | Editorial review |
+| N3-58 | [行けない](entries/1000/1000730-ikenai.org) | いけない | ikenai | 1000730 | learner | draft | **new** | Editorial review |
+| N3-59 | [医師](entries/1159/1159930-ishi.org) | いし | ishi | 1159930 | learner | draft | **new** | Editorial review |
+| N3-60 | [意志](entries/1156/1156560-ishi.org) | いし | ishi | 1156560 | learner | draft | **new** | Editorial review |
+| N3-61 | [意思](entries/1156/1156610-ishi.org) | いし | ishi | 1156610 | learner | draft | **new** | Editorial review |
+| N3-62 | [意識](entries/1156/1156640-ishiki.org) | いしき | ishiki | 1156640 | learner | draft | **new** | Editorial review |
 
