@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1429 |
+| Canonical entry files | 1434 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 60 |
-| N3 queue rows covered | 62 / 1677 (3.7%) |
+| Canonical N3 entries | 65 |
+| N3 queue rows covered | 67 / 1677 (4.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1392 |
+| `new` | 1397 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1419 |
+| Entry metadata still marked `draft` | 1424 |
 | Core profile | 163 |
-| Learner profile | 1265 |
+| Learner profile | 1270 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 62 rows covered (60 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 67 rows covered (65 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1255,4 +1255,9 @@ content and remain at `new` until editorial review.
 | N3-60 | [意志](entries/1156/1156560-ishi.org) | いし | ishi | 1156560 | learner | draft | **new** | Editorial review |
 | N3-61 | [意思](entries/1156/1156610-ishi.org) | いし | ishi | 1156610 | learner | draft | **new** | Editorial review |
 | N3-62 | [意識](entries/1156/1156640-ishiki.org) | いしき | ishiki | 1156640 | learner | draft | **new** | Editorial review |
+| N3-63 | [維持](entries/1158/1158450-iji.org) | いじ | iji | 1158450 | learner | draft | **new** | Editorial review |
+| N3-64 | [異常](entries/1157/1157760-ijou.org) | いじょう | ijou | 1157760 | learner | draft | **new** | Editorial review |
+| N3-65 | [泉](entries/1390/1390780-izumi.org) | いずみ | izumi | 1390780 | learner | draft | **new** | Editorial review |
+| N3-66 | [何れ](entries/1566/1566210-izure.org) | いずれ | izure | 1566210 | learner | draft | **new** | Editorial review |
+| N3-67 | [以前](entries/1155/1155150-izen.org) | いぜん | izen | 1155150 | learner | draft | **new** | Editorial review |
 
