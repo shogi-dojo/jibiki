@@ -1,0 +1,743 @@
+#+TITLE: 値
+#+JMDICT_ID: 1581630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あたい
+#+ROMAJI: atai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1581630-001
+:PROPERTIES:
+:TEXT: 値
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Written form wf-1581630-002
+:PROPERTIES:
+:TEXT: 価
+:END:
+** Written form wf-1581630-003
+:PROPERTIES:
+:TEXT: 價
+:END:
+*** Information
+- sK
+** Reading rd-1581630-001
+:PROPERTIES:
+:TEXT: あたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+
+* Sense s-1581630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bd3b404f709c6d95fee49b4fffea275f0216ef5d9634898142207979fc11e4b8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- form
+*** Sense information
+- esp. 価
+** English glosses
+- price
+- cost
+** Ukrainian glosses
+*** uk-s-1581630-001-001
+:PROPERTIES:
+:END:
+- text :: ціна, вартість
+- qualifier :: особливо 価
+** Learner notes
+*** note-s-1581630-001-001
+:PROPERTIES:
+:END:
+- UK :: Багатозначний іменник (значення, вартість, величина):
+1. Вартість, ціна (архаїчніше/книжне написання 価; у побуті частіше 値段 / nedan).
+2. Цінність, заслуга (значення 2):
+   - 〜に値する (atai suru — заслуговувати на щось, бути вартим: 注目に値する — вартий уваги, 称賛に値する — гідний похвали).
+3. Числове значення, величина (значення 3, математика та програмування: Xの値を求める — знайти значення X, 戻り値 — повернене значення функції).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1581630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 数学のテストでエックスの値を正しく計算しました。
+- READING :: すうがくのてすとでえっくすのあたいをただしくけいさんしました。
+- ROMAJI :: Suugaku no test de ekkusu no atai o tadashiku keisan shimashita.
+- UK :: На тесті з математики я правильно обчислив значення x.
+- EN :: I correctly calculated the value of x on the math test.
+- FOCUS :: エックスの値を
+*** ex-1581630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 困難な状況でも諦めずに仲間を支え続けた彼の誠実な行動は、誰にとっても深く尊敬するに値する素晴らしいものです。
+- READING :: こんなんなじょうきょうでもあきらめずになかまをささえつづけたかれのせいじつなこうどうは、だれにとってもふかくそんけいするにあたいするすばらしいものです。
+- ROMAJI :: Konnan na joukyou demo akiramezu ni nakama o sasaetsuzuketa kare no seijitsu na koudou wa, dare ni totte mo fukaku sonkei suru ni atai suru subarashii mono desu.
+- UK :: Його вчинок — не здаватися у скрутні часи й підтримувати товаришів — заслуговує на щиру повагу від кожного.
+- EN :: His honest action of supporting teammates without giving up even in difficult situations is truly worthy of deep respect.
+- FOCUS :: 尊敬するに値する
+*** ex-1581630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: センサーから送られてくる膨大な計測データから異常な値を瞬時に検出するアルゴリズムを開発したことで、生産ラインにおける製品の品質管理が劇的に向上しました。
+- READING :: せんさーからおくられてくるぼうだいなけいそくでーたからいじょうなあたいをしゅんじにけんしゅつするあるごりずむをかいはつしたことで、せいさんらいんにおけるせいひんのひんしつかんりがげきてきにこうじょうしました。
+- ROMAJI :: Sensor kara okurarete kuru boudai na keisoku data kara ijou na atai o shunji ni kenshutsu suru algorithm o kaihatsu shita koto de, seisan line ni okeru seihin no hinshitsu kanri ga gekiteki ni koujou shimashita.
+- UK :: Завдяки створенню алгоритму для миттєвого виявлення аномальних значень у великому масиві даних із датчиків якість продукції на виробничій лінії значно покращилася.
+- EN :: Developing an algorithm that instantly detects abnormal values from huge streams of sensor measurement data dramatically improved product quality control on the production line.
+- FOCUS :: 異常な値を瞬時に
+
+* Sense s-1581630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 33d5f0e6dedd0dd1f52acee9ad597fd55e1e0ada83e2e3335acad24dd78f7e61
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- form
+*** Sense information
+- esp. 値
+** English glosses
+- value
+- worth
+- merit
+** Ukrainian glosses
+*** uk-s-1581630-002-001
+:PROPERTIES:
+:END:
+- text :: цінність, гідність, заслуга
+- qualifier :: особливо 値, у виразі 〜に値する
+
+* Sense s-1581630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c9f1ce27f87cc0feaf82fcdc85786e8211ad92d7c68b7c6bee80fc54ac8421e8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+- comp
+*** Sense information
+- esp. 値
+** English glosses
+- value
+** Ukrainian glosses
+*** uk-s-1581630-003-001
+:PROPERTIES:
+:END:
+- text :: значення, величина
+- qualifier :: мат., комп., особливо 値
+
+* Sense s-1581630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5f27d44ac47936079dfb4ddf97e17a4f9a340507f86588b2780a80aef303ad20
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prijs
+*** en-s-1581630-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarde
+*** en-s-1581630-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} valuta
+** Ukrainian glosses
+
+* Sense s-1581630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c3f1d04540f488e8398b1d2a8ff1b7e9d348613d5623bc3e5465d04e24041d67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarde
+*** en-s-1581630-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdienste
+*** en-s-1581630-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: merite
+** Ukrainian glosses
+
+* Sense s-1581630-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0f16e04f6a031c6d59c0482181432552033ebc9d97971dc967017b29a600d43c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} waarde
+*** en-s-1581630-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} numerieke waarde
+*** en-s-1581630-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getalswaarde
+*** en-s-1581630-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getallenwaarde
+** Ukrainian glosses
+
+* Sense s-1581630-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3a8914252bcde2518514228ed01124eb06340d5bc81ed14848bef77162c5fa3b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gelijkwaardig iets
+*** en-s-1581630-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: equivalent
+** Ukrainian glosses
+
+* Sense s-1581630-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8240149f175ec077eb94b8b7a86483fdb94d0c674e623388175a2cb213377d10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prijs
+*** en-s-1581630-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geldswaarde
+** Ukrainian glosses
+
+* Sense s-1581630-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: f2394e6461c0f1c948c38a04b0b59ebe28fdd6a8e72e166cb45c3084a3acffcd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergoeding
+*** en-s-1581630-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: loon
+*** en-s-1581630-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beloning
+*** en-s-1581630-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verloning
+** Ukrainian glosses
+
+* Sense s-1581630-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 3bc67efec734e152e978c4aa847ede1c8889f42f2475b4c34cec5ff262fdfa25
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarde
+*** en-s-1581630-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nut
+*** en-s-1581630-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} valeur
+** Ukrainian glosses
+
+* Sense s-1581630-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 9c34f4514e701b81a424f5845e09880da47cd0b643f9580616fa2ddf1ae4e01f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} waarde
+** Ukrainian glosses
+
+* Sense s-1581630-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 60cee48e7c812b04c3917b61016e5c58061591e40128bf81bc430530c50f7d63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-012-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coût
+*** en-s-1581630-012-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérites
+*** en-s-1581630-012-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix
+*** en-s-1581630-012-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valeur
+*** en-s-1581630-012-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coût
+*** en-s-1581630-012-006
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérites
+*** en-s-1581630-012-007
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix
+*** en-s-1581630-012-008
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valeur
+*** en-s-1581630-012-009
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compte
+*** en-s-1581630-012-010
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre
+** Ukrainian glosses
+
+* Sense s-1581630-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: dce8b5fda8b7d856189f3345785ae7475cd7bfc2fbbee2628ec09de6f2c49550
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Preis
+** Ukrainian glosses
+
+* Sense s-1581630-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 09a04191c5f6b74fbe162698ecf19a7b6ddd7e62593ff44759ac2137de24c49e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wert
+** Ukrainian glosses
+
+* Sense s-1581630-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: f1d9548636e0de2582fd83e025b9d5578f61f5817ef1a11a62c0ed161b0d199d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlenwert
+*** en-s-1581630-015-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wert
+** Ukrainian glosses
+
+* Sense s-1581630-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 7b13ab7b67b6cea4d60d2af3591036be58c2931ee2fb4d41d7d62e204d21aa16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-016-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Größe
+** Ukrainian glosses
+
+* Sense s-1581630-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: e78c75a8c6cdc4eecaefe6812f08e1862cbc00a30c281d391f5c1bb73cfdd749
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-017-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érték
+*** en-s-1581630-017-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1581630-017-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érdemrend
+*** en-s-1581630-017-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állhatatlan
+*** en-s-1581630-017-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: változó
+** Ukrainian glosses
+
+* Sense s-1581630-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 8091ca64e2ca9354320aea5205bf8e45e2bf6090e6c3a77cb787b957f7067595
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-018-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) цена
+*** en-s-1581630-018-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) ценность
+*** en-s-1581630-018-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…に～する} стоить (чего-л.), заслуживать (чего-л.)
+*** en-s-1581630-018-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (мат.) величина, значение
+*** en-s-1581630-018-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (x)の値を求める найти значение (определить чему равен) (x)
+** Ukrainian glosses
+
+* Sense s-1581630-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 275327bca477df7d2ded626517aa5eb7137e06c3cc13cfb35074960d47780184
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-019-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valor
+*** en-s-1581630-019-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio
+*** en-s-1581630-019-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: costo
+*** en-s-1581630-019-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérito
+** Ukrainian glosses
+
+* Sense s-1581630-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: da554cf25169e85eef8737c1e51a4f3313f88a5979dde9f7685e4be9e40d8583
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581630-020-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: variable (programación en computadora)
+** Ukrainian glosses
