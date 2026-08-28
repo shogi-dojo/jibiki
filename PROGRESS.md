@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1439 |
+| Canonical entry files | 1459 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 70 |
-| N3 queue rows covered | 73 / 1677 (4.4%) |
+| Canonical N3 entries | 90 |
+| N3 queue rows covered | 94 / 1677 (5.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1402 |
+| `new` | 1422 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1429 |
+| Entry metadata still marked `draft` | 1449 |
 | Core profile | 163 |
-| Learner profile | 1275 |
+| Learner profile | 1295 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 73 rows covered (70 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 94 rows covered (90 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1266,4 +1266,25 @@ content and remain at `new` until editorial review.
 | N3-71 | [頂く](entries/1587/1587290-itadaku.org) | いただく | itadaku | 1587290 | learner | draft | **new** | Editorial review |
 | N3-72 | [痛み](entries/1587/1587300-itami.org) | いたみ | itami | 1587300 | learner | draft | **new** | Editorial review |
 | N3-73 | [至る](entries/1311/1311870-itaru.org) | いたる | itaru | 1311870 | learner | draft | **new** | Editorial review |
+| N3-74 | [偉大](entries/1155/1155920-idai.org) | いだい | idai | 1155920 | learner | draft | **new** | Editorial review |
+| N3-75 | [抱く](entries/1584/1584090-idaku.org) | いだく | idaku | 1584090 | learner | draft | **new** | Editorial review |
+| N3-76 | [位置](entries/1587/1587310-ichi.org) | いち | ichi | 1587310 | learner | draft | **new** | Editorial review |
+| N3-77 | [市](entries/1308/1308080-ichi.org) | いち | ichi | 1308080 | learner | draft | **new** | Editorial review |
+| N3-78 | [一時](entries/1576/1576100-ichiji.org) | いちじ | ichiji | 1576100 | learner | draft | **new** | Editorial review |
+| N3-79 | [一度に](entries/1609/1609210-ichidoni.org) | いちどに | ichidoni | 1609210 | learner | draft | **new** | Editorial review |
+| N3-80 | [市場](entries/1308/1308300-ichiba.org) | いちば | ichiba | 1308300 | learner | draft | **new** | Editorial review |
+| N3-81 | [一家](entries/1575/1575940-ikka.org) | いっか | ikka | 1575940 | learner | draft | **new** | Editorial review |
+| N3-82 | [一種](entries/1163/1163170-isshu.org) | いっしゅ | isshu | 1163170 | learner | draft | **new** | Editorial review |
+| N3-83 | [一瞬](entries/1163/1163340-isshun.org) | いっしゅん | isshun | 1163340 | learner | draft | **new** | Editorial review |
+| N3-84 | [一生](entries/1576/1576200-isshou.org) | いっしょう | isshou | 1576200 | learner | draft | **new** | Editorial review |
+| N3-85 | [一層](entries/1164/1164340-issou.org) | いっそう | issou | 1164340 | learner | draft | **new** | Editorial review |
+| N3-86 | [一体](entries/1164/1164510-ittai.org) | いったい | ittai | 1164510 | learner | draft | **new** | Editorial review |
+| N3-87 | [一致](entries/1164/1164740-itchi.org) | いっち | itchi | 1164740 | learner | draft | **new** | Editorial review |
+| N3-88 | [一般](entries/1165/1165790-ippan.org) | いっぱん | ippan | 1165790 | learner | draft | **new** | Editorial review |
+| N3-89 | [一方](entries/1166/1166510-ippou.org) | いっぽう | ippou | 1166510 | learner | draft | **new** | Editorial review |
+| N3-90 | [何時か](entries/1188/1188790-itsuka.org) | いつか | itsuka | 1188790 | learner | draft | **new** | Editorial review |
+| N3-91 | [何時でも](entries/1577/1577130-itsudemo.org) | いつでも | itsudemo | 1577130 | learner | draft | **new** | Editorial review |
+| N3-92 | [何時までも](entries/1188/1188880-itsumademo.org) | いつまでも | itsumademo | 1188880 | learner | draft | **new** | Editorial review |
+| N3-93 | [従兄弟](entries/1335/1335290-itoko.org) | いとこ | itoko | 1335290 | learner | draft | **new** | Editorial review |
+| N3-94 | [移動](entries/1158/1158400-idou.org) | いどう | idou | 1158400 | learner | draft | **new** | Editorial review |
 
