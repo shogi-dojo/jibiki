@@ -106,11 +106,11 @@ namespace :entries do
     sh RUBY, 'scripts/migrate_schema_v2.rb', *paths
   end
 
-  desc 'Scaffold a complete v2 entry from an N5/N4 queue row: rake "entries:scaffold[299,juu,n5]"'
+  desc 'Scaffold a complete v2 entry from an N5/N4/N3 queue row: rake "entries:scaffold[1,ai,n3]"'
   task :scaffold, %i[source_order romaji level] do |_task, args|
     abort 'Provide source_order and romaji.' unless args[:source_order] && args[:romaji]
     args.with_defaults(level: 'n5')
-    abort 'Level must be n5 or n4.' unless %w[n5 n4].include?(args[:level])
+    abort 'Level must be n5, n4, or n3.' unless %w[n5 n4 n3].include?(args[:level])
 
     sh RUBY, 'scripts/scaffold_entry.rb', '--level', args[:level], '--source-order', args[:source_order], '--romaji', args[:romaji]
   end
