@@ -1,0 +1,658 @@
+#+TITLE: や
+#+JMDICT_ID: 2028960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: や
+#+ROMAJI: ya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2028960-001
+:PROPERTIES:
+:TEXT: や
+:NO_KANJI: false
+:END:
+*** Priorities
+- spec1
+
+* Sense s-2028960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4d182e68e680d2024095d57d72cd272328e85bb811e195502ec2931fc6b05dc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- prt
+*** Sense information
+- used for non-exhaustive lists related to a specific time and place
+** English glosses
+- such things as ...
+- and ... and
+** Ukrainian glosses
+*** uk-s-2028960-001-001
+:PROPERTIES:
+:END:
+- text :: та, і
+- qualifier :: сполучна частка неповного переліку
+*** uk-s-2028960-001-002
+:PROPERTIES:
+:END:
+- text :: такі речі як ...
+** Learner notes
+*** note-s-2028960-001-001
+:PROPERTIES:
+:END:
+- UK :: Багатозначна граматична частка та зв'язка:
+1. Сполучна частка невичерпного переліку (AやB): 本やペン (книжки, ручки тощо), часто вживається у парі з など (本やペンなど). На відміну від と (вичерпний перелік), частка や наводить лише приклади.
+2. Частка миттєвості після словникової форми (значення 2: 〜や / 〜や否や — щойно, тільки-но).
+3. Зв'язка (копула) у кансайському діалекті (значення 3, еквівалент だ): そうや (так і є), ほんまや (справді).
+4. Розділове поетичне слово (кіреджі) в поезії хайку (значення 4: 古池や).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-2028960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 机の上に本やノートがあります。
+- READING :: つくえのうえにほんやのーとがあります。
+- ROMAJI :: Tsukue no ue ni hon ya notebook ga arimasu.
+- UK :: На столі лежать книжки, зошити тощо.
+- EN :: There are books, notebooks, and other things on the desk.
+- FOCUS :: 本やノート
+*** ex-2028960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 週末の市場には、採れたての新鮮な野菜や果物、地元の特産品などが所狭しと並び、多くの買い物客で賑わっています。
+- READING :: しゅうまつのいちばには、とれたてのしんせんなやさいやくだもの、じもとのとくさんひんなどがところせましとならび、おおくのかいものきゃくでにぎわっています。
+- ROMAJI :: Shuumatsu no ichiba ni wa, toretate no shinsen na yasai ya kudamono, jimoto no tokusanhin nado ga tokorosemashi to narabi, ooku no kaimonokyaku de nigiwatte imasu.
+- UK :: На ринку у вихідні дні щільно розкладені свіжі овочі, фрукти та місцеві продукти, і там завжди вирує натовп покупців.
+- EN :: At the weekend market, freshly harvested vegetables, fruits, and local specialties are packed tightly, bustling with many shoppers.
+- FOCUS :: 野菜や果物
+*** ex-2028960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: チャイムの鐘が鳴るや否や、生徒たちは一斉に教室を飛び出し、待ちに待った昼休みを楽しむために校庭へと駆け出していきました。
+- READING :: ちゃいむのかねがなるやいなや、せいとたちはいっせいにきょうしつをとびだし、まちにまったひるやすみをたのしむためにこうていへとかけだしていきました。
+- ROMAJI :: Chime no kane ga naru ya inaya, seitotachi wa issei ni kyoushitsu o tobidashi, machinimatta hiruyasumi o tanoshimu tame ni koutei e to kakedashite ikimashita.
+- UK :: Щойно пролунав дзвінок, як учні миттю вибігли з класу на шкільне подвір'я, радіючи довгоочікуваній обідній перерві.
+- EN :: The moment the chime rang, the students rushed out of the classroom all at once and dashed toward the schoolyard to enjoy the lunch break.
+- FOCUS :: 鳴るや否や
+
+* Sense s-2028960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 14e4777bf27a63e77325573564f206df5d0e46d95f061963b5017cc40913dcf1
+:END:
+** JMdict metadata
+*** Parts of speech
+- prt
+*** Sense information
+- after the dictionary form of a verb
+*** Cross-references
+- や否や・1
+** English glosses
+- the minute (that) ...
+- no sooner than ...
+- as soon as
+** Ukrainian glosses
+*** uk-s-2028960-002-001
+:PROPERTIES:
+:END:
+- text :: щойно, тільки-но, як тільки
+- qualifier :: після словникової форми дієслова (наприклад, 〜や / 〜や否や)
+
+* Sense s-2028960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eb891957c5fc509629ea24da43f51efb83da0019d82747ad92ec7618229c5cce
+:END:
+** JMdict metadata
+*** Parts of speech
+- cop
+*** Dialects
+- ksb
+*** Cross-references
+- だ
+** English glosses
+- be
+- is
+** Ukrainian glosses
+*** uk-s-2028960-003-001
+:PROPERTIES:
+:END:
+- text :: є, бути
+- qualifier :: діалект Кансай, еквівалент зв'язки だ (наприклад, そうや — саме так)
+
+* Sense s-2028960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0dddea1cda74ab460fb00a013c9c761496318eabd199a2541ae4aa98a2d3b126
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Sense information
+- punctuational exclamation in haiku, renga, etc.
+** English glosses
+- o
+- oh
+** Ukrainian glosses
+*** uk-s-2028960-004-001
+:PROPERTIES:
+:END:
+- text :: о, ой
+- qualifier :: розділовий вигук (кіреджі) у поезії хайку (наприклад, 古池や)
+
+* Sense s-2028960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d8856da6a294751408e77cca4c4fce509415323223ebb2dd8a2bf83987e92009
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Sense information
+- interjection expressing surprise
+** English glosses
+- huh
+- what
+** Ukrainian glosses
+*** uk-s-2028960-005-001
+:PROPERTIES:
+:END:
+- text :: га?, що?
+- qualifier :: вигук здивування
+
+* Sense s-2028960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 215063ec9a8eb47d1494c82304ed03cc111208edf5a076d933668d9206ff0bf4
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Miscellaneous and register
+- male
+** English glosses
+- hi
+** Ukrainian glosses
+*** uk-s-2028960-006-001
+:PROPERTIES:
+:END:
+- text :: гей, привіт
+- qualifier :: фамільярне звертання
+
+* Sense s-2028960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8be22f33ede704ec033ca2a8073f9a96e3d3a765a45b5e624c614d6ed04a159f
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+*** Miscellaneous and register
+- arch
+** English glosses
+- yes
+- what?
+** Ukrainian glosses
+*** uk-s-2028960-007-001
+:PROPERTIES:
+:END:
+- text :: так?, що таке?
+- qualifier :: застарілий вигук-відповідь на поклик
+
+* Sense s-2028960-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d39aa98d9d6ed4b4095588e2c5fba02bb898219492b6e7534704098ef96b45b1
+:END:
+** JMdict metadata
+*** Parts of speech
+- prt
+*** Miscellaneous and register
+- arch
+*** Sense information
+- indicates a question
+** English glosses
+- yes?
+- no?
+- is it?
+- isn't it?
+** Ukrainian glosses
+*** uk-s-2028960-008-001
+:PROPERTIES:
+:END:
+- text :: чи, хіба
+- qualifier :: застаріла питальна частка
+
+* Sense s-2028960-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: eecdb7e380f39b4f3fed23bcf8d9df1638b8cab4c0bb3003bf33a3b6e4fc4a37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {aanroeppartikel}
+** Ukrainian glosses
+
+* Sense s-2028960-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 06f93ed963a90b2e33aabc2421349a30f11d778f7ffdbeeeb558d748b80d0db2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {nadrukpartikel}
+** Ukrainian glosses
+
+* Sense s-2028960-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: d5fd22c1b4768f3ecbdf3e151f34c236401d5c1f2834faf4d5ce6a3408ec616d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {uitroeppartikel}
+** Ukrainian glosses
+
+* Sense s-2028960-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 715c6689eda1d68b3fbc706851ab7dbe67088a10afcfab2a6972acac63744b41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-012-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {zinsmediaal vraagpartikel: induceert RTK}
+** Ukrainian glosses
+
+* Sense s-2028960-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 9ae647693055fc2e5765d75ccf81019b43da9203a8d59a5c4118036d6ee6b193
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-013-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {zinsmediaal retorisch vraagpartikel: induceert RTK}
+** Ukrainian glosses
+
+* Sense s-2028960-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 398cd8d59da1dc43215eab8e8a1906921f897bd8bb6ad58d483180acacb2d138
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-014-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {zinsfinaal vraagpartikel}
+** Ukrainian glosses
+
+* Sense s-2028960-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 7919bc81d12f5358fb9928d76766e8f526abba1e6e0ee8ea23aa3ef7c16dc983
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-015-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} {zinsfinaal retorisch vraagpartikel}
+** Ukrainian glosses
+
+* Sense s-2028960-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 57d6da5df32611cb8c905ddb0ce9b371b9d99ed7d9f3f4eae493a8ec9985a437
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-016-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: des choses telles que (liste non exhaustive liée à un moment et un lieu précis)
+*** en-s-2028960-016-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: et... et
+** Ukrainian glosses
+
+* Sense s-2028960-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 43ee931796dc7d057e7c37bd6974a99a93c0e45860ac495bbc7faa9e7a5d30e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-017-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: à la minute (où)...
+*** en-s-2028960-017-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: à peine...
+*** en-s-2028960-017-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aussitôt que
+** Ukrainian glosses
+
+* Sense s-2028960-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 0e211b28f21d95440f88dff85040623121e11736e2ece7f0a2af1b485c42adb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-018-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ponctuation d'exclamation dans le haïku, le renga, etc.
+** Ukrainian glosses
+
+* Sense s-2028960-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 7391f20e39278023d66085d1249dfdfd654086edc316e88fb6c5715bd91eb376
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-019-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: interjection de surprise
+** Ukrainian glosses
+
+* Sense s-2028960-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 4a66c8135e6f37ec281cc3bcec5427b8336ef698d00714fcbb4d9b43393d05da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-020-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: salut
+** Ukrainian glosses
+
+* Sense s-2028960-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 622dec9177f4179e220c8b624a23c7dc27d469050d6731b57c46fe57e1da82f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-021-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: copule simple
+** Ukrainian glosses
+
+* Sense s-2028960-022
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 22
+:SOURCE_FINGERPRINT: a4f53eadebb6eebf0cd05620938f7a11ab0c2e208e158702028293e9c21aed1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-022-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oui
+*** en-s-2028960-022-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quoi ?
+** Ukrainian glosses
+
+* Sense s-2028960-023
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 23
+:SOURCE_FINGERPRINT: 89f882cdcf37a2f13f75f67f84ab3a5381afabf672213d55d884c5be27c4651d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-023-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indique une question
+** Ukrainian glosses
+
+* Sense s-2028960-024
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 24
+:SOURCE_FINGERPRINT: 8a293a4bcec1627af6f33d73a67aa575de833bb4e6a4642adb0e5d493268ef09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-024-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: und
+*** en-s-2028960-024-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oder
+*** en-s-2028960-024-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: und so weiter
+** Ukrainian glosses
+
+* Sense s-2028960-025
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 25
+:SOURCE_FINGERPRINT: a4b5f1f9bd3ed27bf1ac80e1a79df3580673a27e56da110851fa075d12b031d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2028960-025-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (союз)
+*** en-s-2028960-025-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) и
+*** en-s-2028960-025-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) или
+*** en-s-2028960-025-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3): や[否
+*** en-s-2028960-025-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: イナ
+*** en-s-2028960-025-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: や] как только…
+*** en-s-2028960-025-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (межд.)
+*** en-s-2028960-025-008
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) а!, ах!, о!
+*** en-s-2028960-025-009
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) эй [ты]!
+** Ukrainian glosses
