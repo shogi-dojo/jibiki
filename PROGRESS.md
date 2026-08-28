@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1459 |
+| Canonical entry files | 1464 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 90 |
-| N3 queue rows covered | 94 / 1677 (5.6%) |
+| Canonical N3 entries | 95 |
+| N3 queue rows covered | 99 / 1677 (5.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1422 |
+| `new` | 1427 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1449 |
+| Entry metadata still marked `draft` | 1454 |
 | Core profile | 163 |
-| Learner profile | 1295 |
+| Learner profile | 1300 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 94 rows covered (90 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 99 rows covered (95 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1287,4 +1287,9 @@ content and remain at `new` until editorial review.
 | N3-92 | [何時までも](entries/1188/1188880-itsumademo.org) | いつまでも | itsumademo | 1188880 | learner | draft | **new** | Editorial review |
 | N3-93 | [従兄弟](entries/1335/1335290-itoko.org) | いとこ | itoko | 1335290 | learner | draft | **new** | Editorial review |
 | N3-94 | [移動](entries/1158/1158400-idou.org) | いどう | idou | 1158400 | learner | draft | **new** | Editorial review |
+| N3-95 | [稲](entries/1167/1167820-ine.org) | いね | ine | 1167820 | learner | draft | **new** | Editorial review |
+| N3-96 | [居眠り](entries/1231/1231890-inemuri.org) | いねむり | inemuri | 1231890 | learner | draft | **new** | Editorial review |
+| N3-97 | [命](entries/1531/1531940-inochi.org) | いのち | inochi | 1531940 | learner | draft | **new** | Editorial review |
+| N3-98 | [違反](entries/1158/1158950-ihan.org) | いはん | ihan | 1158950 | learner | draft | **new** | Editorial review |
+| N3-99 | [衣服](entries/1158/1158810-ifuku.org) | いふく | ifuku | 1158810 | learner | draft | **new** | Editorial review |
 
