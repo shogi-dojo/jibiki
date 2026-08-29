@@ -33,20 +33,20 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1474 |
+| Canonical entry files | 1496 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 105 |
-| N3 queue rows covered | 109 / 1677 (6.5%) |
+| Canonical N3 entries | 127 |
+| N3 queue rows covered | 133 / 1677 (7.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1437 |
+| `new` | 1459 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1464 |
+| Entry metadata still marked `draft` | 1486 |
 | Core profile | 163 |
 | Learner profile | 1310 |
 | Enriched profile | 1 |
@@ -1302,4 +1302,28 @@ content and remain at `new` until editorial review.
 | N3-107 | [医療](entries/1160/1160140-iryou.org) | いりょう | iryou | 1160140 | learner | draft | **new** | Editorial review |
 | N3-108 | [岩](entries/1217/1217270-iwa.org) | いわ | iwa | 1217270 | learner | draft | **new** | Editorial review |
 | N3-109 | [祝い](entries/1337/1337370-iwai.org) | いわい | iwai | 1337370 | learner | draft | **new** | Editorial review |
+| N3-110 | [祝う](entries/1337/1337390-iwau.org) | いわう | iwau | 1337390 | learner | draft | **new** | Editorial review |
+| N3-111 | [言わば](entries/1264/1264380-iwaba.org) | いわば | iwaba | 1264380 | learner | draft | **new** | Editorial review |
+| N3-112 | [所謂](entries/1343/1343150-iwayuru.org) | いわゆる | iwayuru | 1343150 | learner | draft | **new** | Editorial review |
+| N3-113 | [インク](entries/1022/1022210-inku.org) | インク | inku | 1022210 | learner | draft | **new** | Editorial review |
+| N3-114 | [印刷](entries/1168/1168190-insatsu.org) | いんさつ | insatsu | 1168190 | learner | draft | **new** | Editorial review |
+| N3-115 | [印象](entries/1168/1168390-inshou.org) | いんしょう | inshou | 1168390 | learner | draft | **new** | Editorial review |
+| N3-116 | [引退](entries/1169/1169610-intai.org) | いんたい | intai | 1169610 | learner | draft | **new** | Editorial review |
+| N3-117 | [引用](entries/1169/1169660-inyou.org) | いんよう | inyou | 1169660 | learner | draft | **new** | Editorial review |
+| N3-118 | [ウイスキー](entries/1025/1025140-uisukii.org) | ウイスキー | uisukii | 1025140 | learner | draft | **new** | Editorial review |
+| N3-119 | [伺う](entries/1305/1305700-ukagau.org) | うかがう | ukagau | 1305700 | learner | draft | **new** | Editorial review |
+| N3-120 | [嗽](entries/1577/1577660-ugai.org) | うがい | ugai | 1577660 | learner | draft | **new** | Editorial review |
+| N3-121 | [受け取る](entries/1329/1329650-uketoru.org) | うけとる | uketoru | 1329650 | learner | draft | **new** | Editorial review |
+| N3-122 | [動かす](entries/1451/1451170-ugokasu.org) | うごかす | ugokasu | 1451170 | learner | draft | **new** | Editorial review |
+| N3-123 | [兎](entries/1443/1443970-usagi.org) | うさぎ | usagi | 1443970 | learner | draft | **new** | Editorial review |
+| N3-124 | [牛](entries/1231/1231490-ushi.org) | うし | ushi | 1231490 | learner | draft | **new** | Editorial review |
+| N3-125 | [失う](entries/1319/1319750-ushinau.org) | うしなう | ushinau | 1319750 | learner | draft | **new** | Editorial review |
+| N3-126 | [嘘](entries/1172/1172400-uso.org) | うそ | uso | 1172400 | learner | draft | **new** | Editorial review |
+| N3-127 | [疑う](entries/1225/1225510-utagau.org) | うたがう | utagau | 1225510 | learner | draft | **new** | Editorial review |
+| N3-128 | [宇宙](entries/1171/1171300-uchuu.org) | うちゅう | uchuu | 1171300 | learner | draft | **new** | Editorial review |
+| N3-129 | [訴える](entries/1397/1397720-uttaeru.org) | うったえる | uttaeru | 1397720 | learner | draft | **new** | Editorial review |
+| N3-130 | [撃つ](entries/1253/1253570-utsu.org) | うつ | utsu | 1253570 | learner | draft | **new** | Editorial review |
+| N3-131 | [移す](entries/1158/1158160-utsusu.org) | うつす | utsusu | 1158160 | learner | draft | **new** | Editorial review |
+| N3-132 | [唸る](entries/1565/1565300-unaru.org) | うなる | unaru | 1565300 | learner | draft | **new** | Editorial review |
+| N3-133 | [奪う](entries/1416/1416340-ubau.org) | うばう | ubau | 1416340 | learner | draft | **new** | Editorial review |
 
