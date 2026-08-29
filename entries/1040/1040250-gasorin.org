@@ -1,0 +1,253 @@
+#+TITLE: ガソリン
+#+JMDICT_ID: 1040250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ガソリン
+#+ROMAJI: gasorin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1040250-001
+:PROPERTIES:
+:TEXT: ガソリン
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1040250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5da6273997bb00b8021f55ae0a4dab242f987eb8cbc6595ade42df43232ff4dd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- gasoline
+- petrol
+** Ukrainian glosses
+*** uk-s-1040250-001-001
+:PROPERTIES:
+:END:
+- text :: бензин
+- qualifier :: моторне пальне
+*** uk-s-1040250-001-002
+:PROPERTIES:
+:END:
+- text :: пальне
+** Learner notes
+*** note-s-1040250-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з американської англійської (gasoline) — бензин, моторне пальне для автомобілів і мотоциклів: ガソリンを入れる (заправляти бензин), ガソリンスタンド (автозаправна станція / АЗС), ガソリンが切れる (бензин закінчився).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1040250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 車にガソリンを入れに行きました。
+- READING :: くるまにがそりんをいれにいきました。
+- ROMAJI :: Kuruma ni gasorin o ire ni ikimashita.
+- UK :: Я поїхав заправити машину бензином.
+- EN :: I went to put gasoline in the car.
+- FOCUS :: ガソリンを
+*** ex-1040250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ドライブの途中でガソリンが少なくなってきたので、近くのガソリンスタンドを探しました。
+- READING :: どらいぶのとちゅうでがそりんがすくなくなってきたので、ちかくのがそりんすたんどをさがしました。
+- ROMAJI :: Doraibu no tochuu de gasorin ga sukunaku natte kita node, chikaku no gasorin sutando o sagashimashita.
+- UK :: Під час заміської поїздки бензин добігав кінця, тому я шукав найближчу автозаправку.
+- EN :: During the drive, gasoline was getting low, so I looked for a gas station nearby.
+- FOCUS :: ガソリンが
+*** ex-1040250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最近はガソリンの価格が高騰しているため、遠くへ出かけるときはできるだけ燃費の良いハイブリッド車を運転するようにしています。
+- READING :: さいきんはがそりんのかかくがこうとうしているため、とおくへでかけるときはできるだけねんぴのよいはいぶりっどしゃをうんてんするようにしています。
+- ROMAJI :: Saikin wa gasorin no kakaku ga koutou shite iru tame, tooku e dekakeru toki wa dekiru dake nenpi no yoi haiburiddosha o unten suru you ni shite imasu.
+- UK :: Оскільки останнім часом ціни на бензин підскочили, для далеких поїздок я намагаюся обирати ощадливе гібридне авто.
+- EN :: Since gas prices have soared recently, I try to drive a fuel-efficient hybrid car whenever I travel long distances.
+- FOCUS :: ガソリンの
+
+* Sense s-1040250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0def26d93771b70e90a548edc622478f274cbdfac29d896fa61b90586d1bd15d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzine
+*** en-s-1040250-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} naft
+*** en-s-1040250-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Sur.N.} gasoline
+** Ukrainian glosses
+
+* Sense s-1040250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3f5b55fe7ab06ba478137e92ea2b4b80d9f879927b613d22fb6abda3350829b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: essence
+** Ukrainian glosses
+
+* Sense s-1040250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6020705b2a32eb2305ec9905559141c4ebb89272de0eb305df6b765e21b62771
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Benzin
+*** en-s-1040250-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sprit
+** Ukrainian glosses
+
+* Sense s-1040250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e27e5739070935d6ee6431807c4111138f0db9584700f163ebe6f462b92f5195
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gázbenzin
+*** en-s-1040250-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyűbenzin
+*** en-s-1040250-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: motorbenzin
+** Ukrainian glosses
+
+* Sense s-1040250-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a836195661b0e52f44c80a51dbd59643901f816c4a2c60bb1194cc7f5dcca483
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((амер.) gasoline) бензин
+** Ukrainian glosses
+
+* Sense s-1040250-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: bb2bc9b3ac15677f49a8288730365f0172bbf3a645d8e9e978804e28d6a1cc6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bencin ( iz angl. gasoline )
+** Ukrainian glosses
+
+* Sense s-1040250-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e6d947d66cb6ad9dd85b254d93ea908b88efba5b885615dd03077c6f6439e77d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040250-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gasolina (eng: gasoline)
+** Ukrainian glosses

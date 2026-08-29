@@ -1,0 +1,480 @@
+#+TITLE: 易い
+#+JMDICT_ID: 1156990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やすい
+#+ROMAJI: yasui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1156990-001
+:PROPERTIES:
+:TEXT: 易い
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1156990-001
+:PROPERTIES:
+:TEXT: やすい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1156990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b2b8ac1743e3f449b45ccbda41a6712250a9c12fb1139840e0274f67d624af30
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+** English glosses
+- easy
+** Ukrainian glosses
+*** uk-s-1156990-001-001
+:PROPERTIES:
+:END:
+- text :: простий, легкий, нескладний
+** Learner notes
+*** note-s-1156990-001-001
+:PROPERTIES:
+:END:
+- UK :: Прикметник та віддієслівний суфікс (-masu основа + やすい):
+  1. Самостійний прикметник: 易い (простий, легкий). У сучасній мові частіше вживається 易しい (やさしい / yasashii) або 簡単 (かんたん / kantan).
+  2. Суфікс схильності (значення 2): 壊れやすい (легко ламається / крихкий), 忘れやすい (забудькуватий).
+  3. Суфікс легкості виконання дії (значення 3): 読みやすい (легко читати), わかりやすい (зрозумілий).
+- Антонім — 難い / にくい (nikui — важкий для виконання).
+- Не плутати з омофоном 安い (дешевий).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1156990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この本は字が大きくてとても読みやすいです。
+- READING :: このほんはじがおおきくてとてもよみやすいです。
+- ROMAJI :: Kono hon wa ji ga ookikute totemo yomiyasui desu.
+- UK :: У цій книжці великий шрифт, тому її дуже легко читати.
+- EN :: The print in this book is large and very easy to read.
+- FOCUS :: 読みやすいです
+*** ex-1156990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 初心者向けに書かれたこの解説書は、専門用語を極力避けて図解を多用しているため、専門知識がない人でも直感的に理解しやすい構成になっています。
+- READING :: しょしんしゃむけにかかれたこのかいせつしょは、せんもんようごをきょくりょくさけてずかいをたようしているため、せんもんちしきがないひとでもちょっかんてきにりかいしやすいこうせいになっています。
+- ROMAJI :: Shoshinsha muke ni kakareta kono kaisetsusho wa, senmon yougo o kyokuryoku sakete zukai o tayou shite iru tame, senmon chishiki ga nai hito de mo chokkanteki ni rikaishiyasui kousei ni natte imasu.
+- UK :: Цей посібник для початківців майже не містить складної термінології та має багато ілюстрацій, завдяки чому матеріал легко зрозуміти навіть без спеціальних знань.
+- EN :: Written for beginners, this guide minimizes technical jargon and uses plenty of illustrations, making it intuitively easy to understand even for those without expertise.
+- FOCUS :: 理解しやすい
+*** ex-1156990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 梅雨の時期は高温多湿な気候が続くため、食品にカビや細菌が繁殖しやすく、食中毒の発生を防ぐために日頃からの衛生管理と適切な温度管理が極めて重要になります。
+- READING :: つゆのじきはこうおんたしつなきこうがつづくため、しょくひんにかびやさいきんがはんしょくしやすく、しょくちゅうどくのはっせいをふせぐためにひごろからのえいせいかんりとてきせつなおんどかんりがきわめてじゅうようになります。
+- ROMAJI :: Tsuyu no jiki wa kouon tashitsu na kikou ga tsuzuku tame, shokuhin ni kabi ya saikin ga hanshoku shiyasuku, shokuchuudoku no hassei o fusegu tame ni higoro kara no eisei kanri to tekisetsu na ondo kanri ga kiwamete juuyou ni narimasu.
+- UK :: У сезон дощів через тривалу вологу й теплу погоду на продуктах легко утворюється пліснява та бактерії, тому контроль температури та гігієна є вирішальними для запобігання отруєнням.
+- EN :: During the rainy season, persistent hot and humid weather makes it easy for mold and bacteria to breed on food, so daily hygiene and proper temperature control become vital to prevent food poisoning.
+- FOCUS :: 繁殖しやすく
+
+* Sense s-1156990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0d39905b55030a3290661e87278e63c09bd8300b84b57d043e86dd21d3c3ee3e
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Sense information
+- after -masu stem of verb
+** English glosses
+- likely to ...
+- have a tendency to ...
+** Ukrainian glosses
+*** uk-s-1156990-002-001
+:PROPERTIES:
+:END:
+- text :: схильний до ..., легко піддається ...
+- qualifier :: суфікс після 2-ї основи дієслова на позначення схильності (наприклад, 壊れやすい — крихкий, легко б'ється)
+
+* Sense s-1156990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9a00bc093b2e09bf5e70fc315c3f6ededae1442f648e08df525e8329bdab2765
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Sense information
+- after -masu stem of verb
+** English glosses
+- easy to ...
+** Ukrainian glosses
+*** uk-s-1156990-003-001
+:PROPERTIES:
+:END:
+- text :: легко робити ...
+- qualifier :: суфікс після 2-ї основи дієслова на позначення легкості дії (наприклад, 読みやすい — легкий для читання)
+
+* Sense s-1156990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b36971f41332a2583664661b5f58f6533d6fd193674de9d39361bc2f710a0f8d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemakkelijk
+*** en-s-1156990-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: makkelijk
+*** en-s-1156990-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eenvoudig
+*** en-s-1156990-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: simpel
+*** en-s-1156990-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moeiteloos
+** Ukrainian glosses
+
+* Sense s-1156990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 098e6e9eecfa15afadda50c8640b03cbb4b19f9e03fd8c0fc1bbbfde5cafad6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…～} makkelijk te …
+*** en-s-1156990-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eenvoudig te …
+*** en-s-1156990-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moeiteloos te …
+*** en-s-1156990-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: -baar
+*** en-s-1156990-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gauw
+*** en-s-1156990-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: licht … worden
+*** en-s-1156990-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaak … zijn
+*** en-s-1156990-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: de neiging hebbend te …
+*** en-s-1156990-005-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grif met …
+** Ukrainian glosses
+
+* Sense s-1156990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 760abed43d73a634a624bd4e137d50203692cd1c01751e9cd0d08f0ed850f894
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: facile
+*** en-s-1156990-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: simple
+** Ukrainian glosses
+
+* Sense s-1156990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4936deebf8837166b6b893156f20928f252ce21febf8ca83a554579a52182932
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leicht
+*** en-s-1156990-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einfach
+** Ukrainian glosses
+
+* Sense s-1156990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bae13ef8082060b7ea7100795acc529ae9cce16457a6746ecb15d22791b250e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenlően elosztott
+*** en-s-1156990-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enyhe
+*** en-s-1156990-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyed
+*** en-s-1156990-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyen rávehető
+*** en-s-1156990-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyen
+*** en-s-1156990-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyű
+*** en-s-1156990-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laza
+*** en-s-1156990-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfelelő bőségű
+*** en-s-1156990-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem akadékoskodó
+*** en-s-1156990-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem fáradságos
+*** en-s-1156990-008-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem fárasztó
+*** en-s-1156990-008-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem megerőltető
+*** en-s-1156990-008-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem nehéz
+*** en-s-1156990-008-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyugodalmas
+** Ukrainian glosses
+
+* Sense s-1156990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 916184ef7587b0a4fcecf0f294db833a81714142bc309c3f0bd5d1d1a20b1e87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лёгкий
+** Ukrainian glosses
+
+* Sense s-1156990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: d3d7bc6ad4eda15b52454ed8eab592753f01d6cd093c7dc6f8747616759c4e86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1156990-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fácil
+** Ukrainian glosses

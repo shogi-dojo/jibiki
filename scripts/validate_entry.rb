@@ -4,6 +4,7 @@
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/exporters/houhou_vocab_matcher'
 require_relative '../lib/org_entry'
+require 'yanagi'
 
 REPO_ROOT = File.expand_path('..', __dir__)
 JMDICT_PATH = ENV.fetch(
@@ -34,73 +35,11 @@ end
 
 STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
-KANA_MAP = {
-  'あ' => 'a', 'い' => 'i', 'う' => 'u', 'え' => 'e', 'お' => 'o',
-  'か' => 'ka', 'き' => 'ki', 'く' => 'ku', 'け' => 'ke', 'こ' => 'ko',
-  'さ' => 'sa', 'し' => 'shi', 'す' => 'su', 'せ' => 'se', 'そ' => 'so',
-  'た' => 'ta', 'ち' => 'chi', 'つ' => 'tsu', 'て' => 'te', 'と' => 'to',
-  'な' => 'na', 'に' => 'ni', 'ぬ' => 'nu', 'ね' => 'ne', 'の' => 'no',
-  'は' => 'ha', 'ひ' => 'hi', 'ふ' => 'fu', 'へ' => 'he', 'ほ' => 'ho',
-  'ま' => 'ma', 'み' => 'mi', 'む' => 'mu', 'め' => 'me', 'も' => 'mo',
-  'や' => 'ya', 'ゆ' => 'yu', 'よ' => 'yo',
-  'ら' => 'ra', 'り' => 'ri', 'る' => 'ru', 'れ' => 're', 'ろ' => 'ro',
-  'わ' => 'wa', 'ゐ' => 'wi', 'ゑ' => 'we', 'を' => 'wo', 'ん' => 'n',
-  'が' => 'ga', 'ぎ' => 'gi', 'ぐ' => 'gu', 'げ' => 'ge', 'ご' => 'go',
-  'ざ' => 'za', 'じ' => 'ji', 'ず' => 'zu', 'ぜ' => 'ze', 'ぞ' => 'zo',
-  'だ' => 'da', 'ぢ' => 'ji', 'づ' => 'zu', 'で' => 'de', 'ど' => 'do',
-  'ば' => 'ba', 'び' => 'bi', 'ぶ' => 'bu', 'べ' => 'be', 'ぼ' => 'bo',
-  'ぱ' => 'pa', 'ぴ' => 'pi', 'ぷ' => 'pu', 'ぺ' => 'pe', 'ぽ' => 'po',
-  'きゃ' => 'kya', 'きゅ' => 'kyu', 'きょ' => 'kyo',
-  'しゃ' => 'sha', 'しゅ' => 'shu', 'しょ' => 'sho',
-  'ちゃ' => 'cha', 'ちゅ' => 'chu', 'ちょ' => 'cho',
-  'にゃ' => 'nya', 'にゅ' => 'nyu', 'にょ' => 'nyo',
-  'ひゃ' => 'hya', 'ひゅ' => 'hyu', 'ひょ' => 'hyo',
-  'みゃ' => 'mya', 'みゅ' => 'myu', 'みょ' => 'myo',
-  'りゃ' => 'rya', 'りゅ' => 'ryu', 'りょ' => 'ryo',
-  'ぎゃ' => 'gya', 'ぎゅ' => 'gyu', 'ぎょ' => 'gyo',
-  'じゃ' => 'ja', 'じゅ' => 'ju', 'じょ' => 'jo',
-  'ぢゃ' => 'ja', 'ぢゅ' => 'ju', 'ぢょ' => 'jo',
-  'びゃ' => 'bya', 'びゅ' => 'byu', 'びょ' => 'byo',
-  'ぴゃ' => 'pya', 'ぴゅ' => 'pyu', 'ぴょ' => 'pyo',
-  'しぇ' => 'she', 'ちぇ' => 'che', 'つぇ' => 'tse',
-  'ふぁ' => 'fa', 'ふぃ' => 'fi', 'ふぇ' => 'fe', 'ふぉ' => 'fo',
-  'うぃ' => 'wi', 'うぇ' => 'we', 'うぉ' => 'wo', 'ゔ' => 'vu',
-  'ゔぁ' => 'va', 'ゔぃ' => 'vi', 'ゔぇ' => 've', 'ゔぉ' => 'vo',
-  'てぃ' => 'ti', 'でぃ' => 'di', 'どぅ' => 'du', 'とぅ' => 'tu'
-}.freeze
 
+# Romaji rendering is provided by the yanagi gem, which owns the single
+# kana->Hepburn implementation shared with the meijin repo.
 def to_romaji(str)
-  hira = Exporters::HouhouVocabMatcher.to_hiragana(Exporters::HouhouVocabMatcher.nfkc(str.to_s))
-  res = []
-  i = 0
-  while i < hira.length
-    c2 = hira[i, 2]
-    c1 = hira[i]
-    if c1 == 'っ'
-      next_c = hira[i + 1]
-      next_rom = KANA_MAP[hira[i + 1, 2]] || KANA_MAP[next_c]
-      if next_rom
-        consonant = next_rom[0]
-        consonant = 't' if next_rom.start_with?('ch')
-        res << consonant
-      end
-      i += 1
-    elsif c1 == 'ー'
-      prev = res.last&.chars&.last
-      res << prev if prev
-      i += 1
-    elsif KANA_MAP[c2]
-      res << KANA_MAP[c2]
-      i += 2
-    elsif KANA_MAP[c1]
-      res << KANA_MAP[c1]
-      i += 1
-    else
-      res << c1
-      i += 1
-    end
-  end
-  res.join
+  Yanagi.romaji(str)
 end
 
 def romaji_matches?(reading, romaji)

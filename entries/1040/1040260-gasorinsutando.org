@@ -1,0 +1,291 @@
+#+TITLE: ガソリンスタンド
+#+JMDICT_ID: 1040260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ガソリンスタンド
+#+ROMAJI: gasorinsutando
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1040260-001
+:PROPERTIES:
+:TEXT: ガソリンスタンド
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-1040260-002
+:PROPERTIES:
+:TEXT: ガソリン・スタンド
+:NO_KANJI: false
+:END:
+
+* Sense s-1040260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4a97a21a75943d37d2da48d6b174af4ef0605a89fdaa070bd79e86cc78c8435d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1040260-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: full
+:WASEI: true
+:END:
+- text :: gasoline stand
+** English glosses
+- gas station
+- petrol station
+- filling station
+** Ukrainian glosses
+*** uk-s-1040260-001-001
+:PROPERTIES:
+:END:
+- text :: автозаправна станція, АЗС
+- qualifier :: васей-ейґо (від gasoline stand)
+*** uk-s-1040260-001-002
+:PROPERTIES:
+:END:
+- text :: автозаправка, бензоколонка
+** Learner notes
+*** note-s-1040260-001-001
+:PROPERTIES:
+:END:
+- UK :: Складене запозичення (васей-ейґо від gasoline stand) — автозаправна станція (АЗС), бензоколонка: ガソリンスタンドに寄る (заїхати на заправку). У розмові часто скорочується до スタンド (sutando) або ガソスタ (gasosuta). Популярні також заправки самообслуговування — セルフスタンド.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1040260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 車に給油するために、ガソリンスタンドへ行きました。
+- READING :: くるまにきゅうゆするために、がそりんすたんどへいきました。
+- ROMAJI :: Kuruma ni kyuuyu suru tame ni, gasorin sutando e ikimashita.
+- UK :: Я поїхав на АЗС, щоб заправити машину пальним.
+- EN :: I went to a gas station to refuel the car.
+- FOCUS :: ガソリンスタンドへ
+*** ex-1040260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高速道路に乗る前に、近くのガソリンスタンドに寄って満タンにしておきました。
+- READING :: こうそくどうろにのるまえに、ちかくのがそりんすたんどによってまんたんにしておきました。
+- ROMAJI :: Kousokudouro ni noru mae ni, chikaku no gasorin sutando ni yotte mantan ni shite okimashita.
+- UK :: Перед виїздом на автобан я заїхав на найближчу заправку й залив повний бак.
+- EN :: Before getting on the highway, I stopped by a nearby gas station and filled the tank up.
+- FOCUS :: ガソリンスタンドに
+*** ex-1040260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山道や田舎道をドライブするときはガソリンスタンドの数が非常に少ないため、早めに燃料を補給しておくことが大切です。
+- READING :: やまみちやいなかみちをどらいぶするときはがそりんすたんどのかずがひじょうにすくないため、はやめにねんりょうをほきゅうしておくことがたいせつです。
+- ROMAJI :: Yamamichi ya inakamichi o doraibu suru toki wa gasorin sutando no kazu ga hijou ni sukunai tame, hayame ni nenryou o hokyuu shite oku koto ga taisetsu desu.
+- UK :: Під час подорожей гірськими або сільськими дорогами автозаправки трапляються дуже рідко, тому важливо заправляти пальне завчасно.
+- EN :: When driving on mountain or countryside roads, gas stations are very scarce, so it is important to refuel early.
+- FOCUS :: ガソリンスタンドの
+
+* Sense s-1040260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8f2cd7d6beb4f55108c40bc8fb670eb53abdbaf42535c6d8eddc66121a84981e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzinepompstation
+*** en-s-1040260-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzinepomp
+*** en-s-1040260-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzinestation
+*** en-s-1040260-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pompstation
+*** en-s-1040260-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tankstation
+*** en-s-1040260-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verk.} station
+** Ukrainian glosses
+
+* Sense s-1040260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3cfac0d983cc6f0dfa20cb902f72984c5d2e56964a7259afe2f5ad6f0ebb636c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: station essence
+*** en-s-1040260-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: station service
+** Ukrainian glosses
+
+* Sense s-1040260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e96de158f361c066705140a4a01e22eff66bc5169729064536d034c3d240eb63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tankstelle
+** Ukrainian glosses
+
+* Sense s-1040260-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ba490d3709dce2c622c427014c6712dbcc93c1f89d43760454a3b73e41484948
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benzinkút
+** Ukrainian glosses
+
+* Sense s-1040260-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dc2b9d1a1440e9c2ad602da6a8bc986da31a5dba0be67b3e308c56316c162cf0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бензоколонка, бензозаправочный пункт
+** Ukrainian glosses
+
+* Sense s-1040260-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f384865cd8590815d7c2d22f75ff9f60c41e5ad4533b5e197929a7d7ace6414d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bencinska črpalka
+*** en-s-1040260-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bencinska postaja
+** Ukrainian glosses
+
+* Sense s-1040260-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ab43bf0914f2ef6f3ee7078c023f51d758c4d258dc68b80e08f10826705c9f3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1040260-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estación de servicio
+*** en-s-1040260-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gasolinera (del inglés "gasoline stand")
+** Ukrainian glosses

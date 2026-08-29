@@ -1,0 +1,581 @@
+#+TITLE: 割合
+#+JMDICT_ID: 1606810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わりあい
+#+ROMAJI: wariai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1606810-001
+:PROPERTIES:
+:TEXT: 割合
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Written form wf-1606810-002
+:PROPERTIES:
+:TEXT: 割り合い
+:END:
+*** Information
+- io
+** Reading rd-1606810-001
+:PROPERTIES:
+:TEXT: わりあい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1606810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 16c12ce4ddd3480ce1886bc0f9c81ff27be54eb90b235bc7b760deae86183996
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rate
+- ratio
+- percentage
+- proportion
+** Ukrainian glosses
+*** uk-s-1606810-001-001
+:PROPERTIES:
+:END:
+- text :: частка, відсоток, співвідношення
+- qualifier :: статистичний показник, пропорція
+*** uk-s-1606810-001-002
+:PROPERTIES:
+:END:
+- text :: пропорція
+** Learner notes
+*** note-s-1606810-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та прислівник 割合 (わりあい / wariai) утворено від 割る (ділити) та 合う (зіставляти). Як іменник означає частку чи відсоток: 割合が高い (високий відсоток), 全体に占める割合 (частка від загальної кількості). Як прислівник (часто 割合に / 割合) означає «порівняно, відносно»: 割合簡単 (порівняно легко).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1606810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日のテストは思っていたより割合簡単でした。
+- READING :: きょうのてすとはおもっていたよりわりあいかんたんでした。
+- ROMAJI :: Kyou no tesuto wa omotte ita yori wariai kantan deshita.
+- UK :: Сьогоднішній тест виявився відносно легким, ніж я думав.
+- EN :: Today's test was comparatively easy compared to what I had expected.
+- FOCUS :: 割合
+*** ex-1606810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: アンケートの結果、朝ご飯を毎日食べる人の割合は全体の約七割でした。
+- READING :: あんけーとのけっか、あさごはんをまいにちたべるひとのわりあいはぜんたいのやくななわりでした。
+- ROMAJI :: Ankeeto no kekka, asagohan o mainichi taberu hito no wariai wa zentai no yaku nanawari deshita.
+- UK :: За результатами опитування, частка людей, які щодня снідають, склала приблизно сімдесят відсотків.
+- EN :: According to survey results, the proportion of people who eat breakfast every day was about 70 percent of the total.
+- FOCUS :: 割合は
+*** ex-1606810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この大学では留学生の受け入れに力を入れており、全学生に占める外国人の割合が年々増加しています。
+- READING :: このだいがくではりゅうがくせいのうけいれにちからをいれており、ぜんがくせいにしめるがいこくじんのわりあいがねんねんぞうかしています。
+- ROMAJI :: Kono daigaku de wa ryuugakusei no ukeire ni chikara o irete ori, zengakusei ni shimeru gaikokujin no wariai ga nennen zouka shite imasu.
+- UK :: Цей університет приділяє значну увагу прийому іноземних студентів, тому частка іноземців серед студентства зростає з кожним роком.
+- EN :: This university focuses on accepting international students, and the proportion of foreign students among all students is increasing every year.
+- FOCUS :: 割合が
+
+* Sense s-1606810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 13030c88b69efdbac5dd19747d34c7f2c3f30b3999a6d333fb7022b0baa6f08a
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+** English glosses
+- comparatively
+** Ukrainian glosses
+*** uk-s-1606810-002-001
+:PROPERTIES:
+:END:
+- text :: порівняно, відносно
+- qualifier :: як прислівник (割合 / 割合に)
+
+* Sense s-1606810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 31eef5dc36f6b6033aa6e85fb25bcba582b39927f477444099b441e99f0ccb4f
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+** English glosses
+- contrary to expectations
+** Ukrainian glosses
+*** uk-s-1606810-003-001
+:PROPERTIES:
+:END:
+- text :: несподівано, на диво
+
+* Sense s-1606810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f12e1bf450422e1c2264ab3338f863794ff37806e80ca4f0a48b4d4f93c42d26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhouding
+*** en-s-1606810-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ratio
+*** en-s-1606810-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} reden
+*** en-s-1606810-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proportie
+*** en-s-1606810-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: percentage
+*** en-s-1606810-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhoudingsgetal
+*** en-s-1606810-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relatief
+*** en-s-1606810-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betrekkelijk
+*** en-s-1606810-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhoudingsgewijs
+*** en-s-1606810-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergelijkenderwijs
+*** en-s-1606810-004-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naar verhouding
+*** en-s-1606810-004-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naar proportie
+*** en-s-1606810-004-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naar rato
+** Ukrainian glosses
+
+* Sense s-1606810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 548ac65e79cabfdac28ad3dcf4cc65b40bf78a42b32946d06c4d268a1ccc8591
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comparativement
+*** en-s-1606810-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contrairement aux attentes
+*** en-s-1606810-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proportion
+*** en-s-1606810-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rapport
+*** en-s-1606810-005-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ratio
+** Ukrainian glosses
+
+* Sense s-1606810-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4164e57a65fee297e58666cffb91974c7ac55e942567e68cb3d5ac5618af4ae5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verhältnis
+*** en-s-1606810-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Proportion
+*** en-s-1606810-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prozentsatz
+** Ukrainian glosses
+
+* Sense s-1606810-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 511e62ea56e4a7ba2b5c87b5bb33afe61759b6da2a3a12005f82e3b45ce8047e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anteil
+*** en-s-1606810-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beitrag
+*** en-s-1606810-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quote
+** Ukrainian glosses
+
+* Sense s-1606810-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 40d58847b3ea246c1936ede2681a3f5b56dcd40130240c41beb010f2508bd460
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergleichsweise
+*** en-s-1606810-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhältnismäßig
+*** en-s-1606810-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relativ
+** Ukrainian glosses
+
+* Sense s-1606810-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7aaf84bb191f1026ead74e3e81441ba3c249fb767cc104d31120621db9bb8d6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arány
+*** en-s-1606810-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1606810-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fok
+*** en-s-1606810-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyorsaság
+*** en-s-1606810-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kategória
+*** en-s-1606810-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: osztályzat
+*** en-s-1606810-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rend
+*** en-s-1606810-009-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sebesség
+*** en-s-1606810-009-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: százalék
+** Ukrainian glosses
+
+* Sense s-1606810-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 6c5a0f9977b34ab58374902eabfb61069816d7dd354312e77d76104968ad7901
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: соотношение
+*** en-s-1606810-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[に]} сравнительно
+*** en-s-1606810-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…の～に} (см.) わり(…の～に)
+** Ukrainian glosses
+
+* Sense s-1606810-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 7fe797b972edcefc1369fc570e953d56193acf085754a28ddd3b8eed257944ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razmerje
+*** en-s-1606810-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odnos
+** Ukrainian glosses
+
+* Sense s-1606810-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: c756116381640bf244931c172f5e80e772621c1062aeb9b3f889bb5db2d98b86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606810-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porcentaje
+*** en-s-1606810-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proporción
+*** en-s-1606810-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tasa
+** Ukrainian glosses

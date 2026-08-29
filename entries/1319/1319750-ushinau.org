@@ -1,0 +1,518 @@
+#+TITLE: 失う
+#+JMDICT_ID: 1319750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うしなう
+#+ROMAJI: ushinau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-29
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1319750-001
+:PROPERTIES:
+:TEXT: 失う
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Written form wf-1319750-002
+:PROPERTIES:
+:TEXT: 喪う
+:END:
+*** Information
+- rK
+** Written form wf-1319750-003
+:PROPERTIES:
+:TEXT: 失なう
+:END:
+*** Information
+- sK
+** Written form wf-1319750-004
+:PROPERTIES:
+:TEXT: 亡う
+:END:
+*** Information
+- sK
+** Reading rd-1319750-001
+:PROPERTIES:
+:TEXT: うしなう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1319750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 290f5ee0d735a52bfa228292fc404b2937513bd1cae51c68961e381582cfea25
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to lose
+** Ukrainian glosses
+*** uk-s-1319750-001-001
+:PROPERTIES:
+:END:
+- text :: втрачати, губити
+*** uk-s-1319750-001-002
+:PROPERTIES:
+:END:
+- text :: позбавлятися (довіри, роботи, свідомості)
+** Learner notes
+*** note-s-1319750-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово ґодан на -う (втрачати щось важливе / нематеріальне):
+- Відмінність від なくす (nakusu):
+  - なくす вживається для повсякденних предметів (ключі, гаманець).
+  - 失う вживається для абстрактних або життєво важливих понять:
+    - 意識を失う (знепритомніти, втратити свідомість)
+    - 信用 / 自信を失う (втратити довіру / впевненість)
+    - 職 / 視力を失う (втратити роботу / зір)
+    - チャンスを失う (значення 2: проґавити шанс)
+    - 家族を失う (значення 3: утратити рідних).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1319750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 事故で一時的に意識を失いました。
+- READING :: じこでいちじてきにいしきをうしないました。
+- ROMAJI :: Jiko de ichijiteki ni ishiki o ushinaimashita.
+- UK :: Через аварію я тимчасово знепритомнів.
+- EN :: I temporarily lost consciousness in the accident.
+- FOCUS :: 意識を失いました
+*** ex-1319750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: formal
+:END:
+- JA :: 不祥事によって長年築き上げてきた顧客からの信用を一瞬で失ってしまい、信頼を回復するために多大な労力を費やしました。
+- READING :: ふしょうじによってながねんきずきあげてきたこきゃくからのしんようをいっしゅんでうしなってしまい、しんらいをかいふくするためにただいなろうりょくをついやしました。
+- ROMAJI :: Fushouji ni yotte naganen kizukiagete kita kokyaku kara no shin'you o isshun de ushinatte shimai, shinrai o kaifuku suru tame ni tadai na rouryoku o tsuiyashimashita.
+- UK :: Через інцидент багаторічну довіру клієнтів було втрачено за одну мить, і для відновлення репутації знадобилися колосальні зусилля.
+- EN :: Because of the scandal, we lost our customers' long-standing trust in an instant and spent enormous effort to rebuild credibility.
+- FOCUS :: 信用を一瞬で失ってしまい
+*** ex-1319750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 突如として発生した未曾有の大地震によって多くの尊い命やかけがえのない故郷の美しい風景を失った被災地では、悲しみを乗り越えて復興に向けた懸命な歩みが続けられています。
+- READING :: とつじょとしてはっせいしたみぞうのだいじしんによっておおくのとうといいのちやかけがえのないふるさとのうつくしいふうけいをうしなったひさいちでは、かなしみをのりこえてふっこうにむけたけんめいなあゆみがつづけられています。
+- ROMAJI :: Totsujo to shite hassei shita mizou no daijishin ni yotte ooku no toutoi inochi ya kakegae no nai furusato no utsukushii fuukei o ushinatta hisaichi de wa, kanashimi o norikoete fukkou ni muketa kemmei na ayumi ga tsudzukerarete imasu.
+- UK :: У постраждалих районах, де потужний землетрус забрав дорогі життя та знищив краєвиди рідного краю, люди долають біль і наполегливо відбудовують життя.
+- EN :: In disaster areas where many precious lives and beautiful landscapes of home were lost to the unprecedented earthquake, people are overcoming grief and striving toward recovery.
+- FOCUS :: 美しい風景を失った被災地では
+
+* Sense s-1319750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 569da024423a5588c413e2a0e22097e32cff357e4adddbc56169d3d608896149
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to miss (a chance, opportunity)
+** Ukrainian glosses
+*** uk-s-1319750-002-001
+:PROPERTIES:
+:END:
+- text :: проґавити, втратити (шанс, нагоду: チャンスを失う)
+
+* Sense s-1319750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 260ae01f1a2c190aef778a53b05890a1b9227d4c83fb8b7ddfb551ae61afa919
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to lose (a loved one)
+- to be bereaved of
+** Ukrainian glosses
+*** uk-s-1319750-003-001
+:PROPERTIES:
+:END:
+- text :: втратити (близьку людину, родича: 家族を失う)
+
+* Sense s-1319750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3940c62525ee45a02c5750dc0e61d4f7167b44522df9f21e79533ccfadf5fc7c
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to concede (goals, points, etc.)
+** Ukrainian glosses
+*** uk-s-1319750-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: Приклад.
+** Learner notes
+*** note-s-1319750-004-001
+:PROPERTIES:
+:END:
+- UK :: Basic word.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1319750-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0715ebb8bdef9e53c2ae7b58c8607ae26e08c0cb0daa6daaef77f3daf394b951
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verliezen
+*** en-s-1319750-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kwijtraken
+** Ukrainian glosses
+
+* Sense s-1319750-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: cb94f50f494772af5675a917ef75b8ac12cb96df969062597f83b772802ede77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {機会を～} {een kans} missen
+*** en-s-1319750-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontglippen
+** Ukrainian glosses
+
+* Sense s-1319750-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 32f6768fe5d787f8501a9d756f79b529b26e16d78a98be5ef77cf3a0fe60341f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beroofd worden van
+*** en-s-1319750-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontdaan worden van
+*** en-s-1319750-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontzetten worden uit
+** Ukrainian glosses
+
+* Sense s-1319750-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bcc1d9081197b32bb90014ad0dae29aeee7b8affa70d70be1d9dd4e8e0d212e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: perdre
+*** en-s-1319750-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se séparer de
+** Ukrainian glosses
+
+* Sense s-1319750-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 1b4967b3df9102e76565eb37cde8c4e9723f2a448584951f3aa05d03077cc175
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlieren
+*** en-s-1319750-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einbüßen
+*** en-s-1319750-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nicht mehr finden
+*** en-s-1319750-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: um etw. kommen
+*** en-s-1319750-009-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verloren gehen
+*** en-s-1319750-009-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abhanden kommen
+*** en-s-1319750-009-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlegen
+** Ukrainian glosses
+
+* Sense s-1319750-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 2d8319d159e19f3c587742fdd0cef03b3dfdb589aef80e48f9a6a4b200ab0b18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vermissen
+*** en-s-1319750-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fehlen
+** Ukrainian glosses
+
+* Sense s-1319750-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8fccc36eab7d61b989a77fbaf13bfd33826861fd5c51af29d26158d7e4f5abdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kikap
+*** en-s-1319750-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lekésik vmiről
+*** en-s-1319750-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemarad vmiről
+*** en-s-1319750-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereséget szenved
+*** en-s-1319750-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veszít
+** Ukrainian glosses
+
+* Sense s-1319750-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 84d4916fdc7c741def2d2e5205adfe5da771fb9e6540ebf8a23d1e7f592d5e95
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: терять, утрачивать (кого-что-л.); лишаться (кого-чего-л.)
+** Ukrainian glosses
+
+* Sense s-1319750-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 2fcbbc7768aa0c1077ee89c07a065d1991f4e6b81df632c71d75aad8bc9567ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izgubiti
+*** en-s-1319750-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ne imeti več
+*** en-s-1319750-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zapraviti (priložnost)
+** Ukrainian glosses
+
+* Sense s-1319750-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 3bb6bf3f70c94e40845808bae3311df0af94f2cef68853d93fc82f6b394a7c9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1319750-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: perder (cosa)
+*** en-s-1319750-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deshacerse de
+** Ukrainian glosses

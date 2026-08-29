@@ -1,0 +1,665 @@
+#+TITLE: 与える
+#+JMDICT_ID: 1544730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あたえる
+#+ROMAJI: ataeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1544730-001
+:PROPERTIES:
+:TEXT: 与える
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf28
+** Reading rd-1544730-001
+:PROPERTIES:
+:TEXT: あたえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf28
+
+* Sense s-1544730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 80823e56405e2a3e876e73c6bda877dffb4829fc06e88399d5bdbbb3795f1e3c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to give (esp. to someone of lower status)
+- to bestow
+- to grant
+- to confer
+- to present
+- to award
+** Ukrainian glosses
+*** uk-s-1544730-001-001
+:PROPERTIES:
+:END:
+- text :: давати, надавати, дарувати
+*** uk-s-1544730-001-002
+:PROPERTIES:
+:END:
+- text :: нагороджувати, присуджувати (премію)
+** Learner notes
+*** note-s-1544730-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово 1-ї дієвідміни (ichidan):
+  1. Давати або присуджувати нагороду (賞を与える — нагороджувати), давати корм тваринам (餌を与える).
+  2. Надавати можливості чи забезпечувати чимось (значення 2: 機会を与える — давати шанс).
+  3. Доручати / визначати завдання (значення 3: 与えられた役割 — покладена роль / призначений обов'язок).
+  4. Чинити вплив, справляти враження, завдавати шкоди (значення 4: 影響を与える — впливати, 損害を与える — завдавати збитків, 印象を与える — справляти враження).
+  5. Передавати параметр або аргумент у функцію (значення 5, програмування).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1544730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生は優秀な学生に賞を与えました。
+- READING :: せんせいはゆうしゅうながくせいにしょうをあたえました。
+- ROMAJI :: Sensei wa yuushuu na gakusei ni shou o ataemashita.
+- UK :: Учитель нагородив старанного учня почесною грамотою.
+- EN :: The teacher awarded a prize to the outstanding student.
+- FOCUS :: 賞を与えました
+*** ex-1544730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回の歴史的な大発見は、今後の科学技術の発展や人類の未来に対して計り知れないほど大きな好影響を与えると考えられています。
+- READING :: こんかいのれきしてきなだいはっけんは、こんごのかがくぎじゅつのはってんやじんるいのみらいにたいしてはかりしれないほどおおきなこうえいきょうをあたえるとかんがえられています。
+- ROMAJI :: Konkai no rekishiteki na daihakken wa, kongo no kagaku gijutsu no hatten ya jinrui no mirai ni taishite hakarishirenai hodo ookina koueikyou o ataeru to kangaerarete imasu.
+- UK :: Вважається, що це епохальне відкриття матиме надзвичайно великий позитивний вплив на майбутній розвиток науки й технологій та добробут людства.
+- EN :: This historic breakthrough is expected to have an immeasurably great positive impact on future scientific and technological development and humanity's future.
+- FOCUS :: 大きな好影響を与える
+*** ex-1544730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 困難な環境に置かれた子どもたちに質の高い教育と平等な成長の機会を与えることは、社会全体の持続可能な繁栄を実現するための最重要課題です。
+- READING :: こんなんなかんきょうにおかれたこどもたちにしつのたかいきょういくとびょうどうなせいちょうのきかいをあたえることは、しゃかいぜんたいのじぞくかのうなはんえいをじつげんするためのさいじゅうようかだいです。
+- ROMAJI :: Konnan na kankyou ni okareta kodomotachi ni shitsu no takai kyouiku to byoudou na seichou no kikai o ataeru koto wa, shakai zentai no jizokukanou na han'ei o jitsugen suru tame no saijuuyou kadai desu.
+- UK :: Надання дітям у скрутних життєвих обставинах доступу до якісної освіти та рівних можливостей розвитку є найважливішим завданням для досягнення сталого процвітання всього суспільства.
+- EN :: Providing children in difficult circumstances with high-quality education and equal opportunities for growth is a top-priority task for achieving the sustainable prosperity of society.
+- FOCUS :: 成長の機会を与える
+
+* Sense s-1544730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bd53475a057ffff96149b2ca211d5e44312d6a93bdca723c14e772ad85cf6bdb
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to provide
+- to afford
+- to offer
+- to supply
+** Ukrainian glosses
+*** uk-s-1544730-002-001
+:PROPERTIES:
+:END:
+- text :: надавати, забезпечувати (можливостями тощо)
+
+* Sense s-1544730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1f9fa5809b4949005a90e19afbddb0b9571cad13e6e305608764f818849e85c8
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to assign
+** Ukrainian glosses
+*** uk-s-1544730-003-001
+:PROPERTIES:
+:END:
+- text :: призначати, доручати (завдання: 与えられた課題)
+
+* Sense s-1544730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 85ab56f8ee8f1f8b702064156b0fd4ead063e2d5fb4873e449aa76c15bff247c
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to cause
+** Ukrainian glosses
+*** uk-s-1544730-004-001
+:PROPERTIES:
+:END:
+- text :: справляти (вплив, враження), завдавати (шкоди, болю)
+
+* Sense s-1544730-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7a13246787b597af5a86936b978b8a9e147b348ac6287bb8e916e76c2755efaf
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Fields
+- comp
+** English glosses
+- to pass (a variable to a function)
+** Ukrainian glosses
+*** uk-s-1544730-005-001
+:PROPERTIES:
+:END:
+- text :: передавати (параметр або аргумент у функцію)
+- qualifier :: комп.
+
+* Sense s-1544730-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 38190c374bcf7f89f8ca702b60ac1c3d29e73135b364992ed0999dbdbdd920b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geven
+*** en-s-1544730-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlenen
+*** en-s-1544730-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toekennen
+*** en-s-1544730-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: begiftigen
+*** en-s-1544730-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstrekken
+*** en-s-1544730-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aandoen
+*** en-s-1544730-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedelen
+*** en-s-1544730-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {影響を〜} uitoefenen
+*** en-s-1544730-006-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: invloed hebben op
+** Ukrainian glosses
+
+* Sense s-1544730-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: aa4e0a7fbceea989d9c55085c7540fa87e5482ca392a37440a35d17eb8d89023
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décerner
+*** en-s-1544730-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: donner
+*** en-s-1544730-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offrir
+** Ukrainian glosses
+
+* Sense s-1544730-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c73470dbfc27212466c4b18c8fd094ba90d7e4edb3daa1fe0e5df90bcee941c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geben
+** Ukrainian glosses
+
+* Sense s-1544730-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: db083188515e4ab09132e085973e94f3f8ee60cdebe4a7057e7b73df13cb38f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zuteilen
+*** en-s-1544730-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stellen
+** Ukrainian glosses
+
+* Sense s-1544730-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9c6474bbb88894d1cf960b7f0f5a55c88c2f0a0596ba447940b34de33765f57d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verursachen
+** Ukrainian glosses
+
+* Sense s-1544730-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3fb0d8cb2055dc3d2da31292499400036cae241e4ddabecf3c7c318b0ea57e99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ad
+*** en-s-1544730-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ajándékoz
+*** en-s-1544730-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átad
+*** en-s-1544730-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közöl
+*** en-s-1544730-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmond
+*** en-s-1544730-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mond
+*** en-s-1544730-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyúlik
+*** en-s-1544730-011-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odaad
+*** en-s-1544730-011-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bemutat
+*** en-s-1544730-011-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előad
+*** en-s-1544730-011-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyújt
+*** en-s-1544730-011-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megítél
+*** en-s-1544730-011-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átmegy
+*** en-s-1544730-011-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elmúlik
+*** en-s-1544730-011-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltelik
+*** en-s-1544730-011-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltölt
+*** en-s-1544730-011-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felülmúl
+*** en-s-1544730-011-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: halad
+*** en-s-1544730-011-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megelőz
+*** en-s-1544730-011-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meghal
+*** en-s-1544730-011-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megy
+*** en-s-1544730-011-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: továbbad
+*** en-s-1544730-011-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: továbbhalad
+*** en-s-1544730-011-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tölt
+*** en-s-1544730-011-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: történik
+** Ukrainian glosses
+
+* Sense s-1544730-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 83d6858263b9e013e6df41d7d7b49130f162bee4313ecb77a8f0763b6460cd0a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) давать; предоставлять; присуждать (премию, научную степень)
+*** en-s-1544730-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) причинять (ущерб, боль и т. п.); доставлять (беспокойство); наносить (вред, обиду); оказывать (влияние); производить, оставлять (впечатление)
+** Ukrainian glosses
+
+* Sense s-1544730-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: bda4a19df94bbbce8df9f26429f432ea36ca15ffcae13a2066b4fc6d1ae88203
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dati (nekaj nekomu)
+** Ukrainian glosses
+
+* Sense s-1544730-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: f3d9b7f928c674163291e3be99b726c145e89b17894dfe1a2ca900210c5cedfd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dar
+*** en-s-1544730-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regalar
+*** en-s-1544730-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recompensar
+** Ukrainian glosses
+
+* Sense s-1544730-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 032d3575db4dc0bb1ad91ab73738dcbcea5867e88a56ecd747fd566204df093d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1544730-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pasar (una varible de una función)
+** Ukrainian glosses

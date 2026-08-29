@@ -11,6 +11,7 @@ module SourceCLI
   WARODAI_PATH = ENV.fetch('WARODAI_PATH', File.join(REPO_ROOT, 'sources', 'warodai'))
   N5_PATH = ENV.fetch('N5_PATH', File.join(REPO_ROOT, 'sources', 'jlpt-n5', 'wiktionary-n5.tsv'))
   N4_PATH = ENV.fetch('N4_PATH', File.join(REPO_ROOT, 'sources', 'jlpt-n4', 'n4_vocabulary.tsv'))
+  N3_PATH = ENV.fetch('N3_PATH', File.join(REPO_ROOT, 'sources', 'jlpt-n3', 'wiktionary-n3.tsv'))
 
   module_function
 
