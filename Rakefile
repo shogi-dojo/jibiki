@@ -196,15 +196,33 @@ Rake::TestTask.new(:test) do |task|
 end
 
 namespace :translit do
-  desc 'Verify the transliteration rules against the meijin gold glossary'
-  task :gold do
-    glossary = File.expand_path('../meijin/books/meijin/glossary.org', __dir__)
-    unless File.exist?(glossary)
-      puts "[skip] meijin glossary not found at #{glossary}"
+  # The yanagi gem ships transliteration policy only. Corpus-derived data (the
+  # lexicon, which carries each term's language of origin) is generated from
+  # the meijin glossary into tmp/, and yanagi reads it via YANAGI_DATA_DIR.
+  TRANSLIT_DATA_DIR = File.expand_path('tmp/yanagi', __dir__)
+  MEIJIN_GLOSSARY = File.expand_path('../meijin/books/meijin/glossary.org', __dir__)
+
+  desc 'Build the transliteration lexicon from the meijin glossary'
+  task :lexicon do
+    unless File.exist?(MEIJIN_GLOSSARY)
+      puts "[skip] meijin glossary not found at #{MEIJIN_GLOSSARY}"
       next
     end
 
-    sh 'bundle', 'exec', 'yanagi', 'verify-gold', glossary
+    mkdir_p TRANSLIT_DATA_DIR
+    sh({ 'YANAGI_DATA_DIR' => TRANSLIT_DATA_DIR },
+       'bundle', 'exec', 'yanagi', 'lexicon', 'build', '--glossary', MEIJIN_GLOSSARY)
+  end
+
+  desc 'Verify the transliteration rules against the meijin gold glossary'
+  task gold: :lexicon do
+    unless File.exist?(MEIJIN_GLOSSARY)
+      puts "[skip] meijin glossary not found at #{MEIJIN_GLOSSARY}"
+      next
+    end
+
+    sh({ 'YANAGI_DATA_DIR' => TRANSLIT_DATA_DIR },
+       'bundle', 'exec', 'yanagi', 'verify-gold', MEIJIN_GLOSSARY)
   end
 
   desc 'Check the transliteration policy doc against the rules data'

@@ -11,6 +11,6 @@ gem 'rexml'
 gem 'csv'
 
 # Japanese->Ukrainian transliteration policy engine, shared with the meijin
-# repo. Pinned to a local path while the rules are validated against both real
-# corpora; switch to a git source + tag before publishing.
-gem 'yanagi', path: '../yanagi'
+# repo. Ships transliteration policy only; corpus-derived data (lexicon,
+# native-Ukrainian allowlist) is supplied via YANAGI_DATA_DIR.
+gem 'yanagi', '~> 0.1'
