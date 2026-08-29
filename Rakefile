@@ -195,5 +195,29 @@ Rake::TestTask.new(:test) do |task|
   task.pattern = 'test/**/*_test.rb'
 end
 
-desc 'Test extractors, validate entries, and Org-lint dictionary files'
-task default: [:test, 'entries:validate', 'org:lint', :doctor]
+namespace :translit do
+  desc 'Verify the transliteration rules against the meijin gold glossary'
+  task :gold do
+    glossary = File.expand_path('../meijin/books/meijin/glossary.org', __dir__)
+    unless File.exist?(glossary)
+      puts "[skip] meijin glossary not found at #{glossary}"
+      next
+    end
+
+    sh 'bundle', 'exec', 'yanagi', 'verify-gold', glossary
+  end
+
+  desc 'Check the transliteration policy doc against the rules data'
+  task :doc_sync do
+    doc = File.expand_path('../meijin/shared/transliteration.md', __dir__)
+    unless File.exist?(doc)
+      puts "[skip] meijin transliteration doc not found at #{doc}"
+      next
+    end
+
+    sh 'bundle', 'exec', 'yanagi', 'doc-sync', doc
+  end
+end
+
+desc 'Test extractors, validate entries, Org-lint files, and check transliteration'
+task default: [:test, 'entries:validate', 'org:lint', :doctor, 'translit:gold']
