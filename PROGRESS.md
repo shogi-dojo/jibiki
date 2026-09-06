@@ -48,10 +48,10 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 | `solid` | 0 |
 | Entry metadata still marked `draft` | 1486 |
 | Core profile | 163 |
-| Learner profile | 1310 |
+| Learner profile | 1332 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 109 rows covered (105 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 133 rows covered (127 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
