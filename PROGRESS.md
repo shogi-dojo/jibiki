@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1536 |
+| Canonical entry files | 1546 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 167 |
-| N3 queue rows covered | 177 / 1677 (10.6%) |
+| Canonical N3 entries | 177 |
+| N3 queue rows covered | 188 / 1677 (11.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1499 |
+| `new` | 1509 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1526 |
+| Entry metadata still marked `draft` | 1536 |
 | Core profile | 163 |
-| Learner profile | 1372 |
+| Learner profile | 1382 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 177 rows covered (167 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 188 rows covered (177 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1370,6 +1370,17 @@ content and remain at `new` until editorial review.
 | N3-175 | [覆う](entries/1588/1588840-oou.org) | おおう | oou | 1588840 | learner | draft | **new** | Editorial review |
 | N3-176 | [大家](entries/1413/1413140-ooya.org) | おおや | ooya | 1413140 | learner | draft | **new** | Editorial review |
 | N3-177 | [丘](entries/1588/1588920-oka.org) | おか | oka | 1588920 | learner | draft | **new** | Editorial review |
+| N3-178 | [沖](entries/1182/1182500-oki.org) | おき | oki | 1182500 | learner | draft | **new** | Editorial review |
+| N3-179 | [奥](entries/1179/1179320-oku.org) | おく | oku | 1179320 | learner | draft | **new** | Editorial review |
+| N3-180 | [贈る](entries/1403/1403550-okuru.org) | おくる | okuru | 1403550 | learner | draft | **new** | Editorial review |
+| N3-181 | [起こる](entries/1223/1223680-okoru.org) | おこる | okoru | 1223680 | learner | draft | **new** | Editorial review |
+| N3-182 | [幼い](entries/1545/1545110-osanai.org) | おさない | osanai | 1545110 | learner | draft | **new** | Editorial review |
+| N3-183 | [収める](entries/1589/1589090-osameru.org) | おさめる | osameru | 1589090 | learner | draft | **new** | Editorial review |
+| N3-184 | [お喋り](entries/1002/1002450-oshaberi.org) | おしゃべり | oshaberi | 1002450 | learner | draft | **new** | Editorial review |
+| N3-185 | [汚染](entries/1179/1179040-osen.org) | おせん | osen | 1179040 | learner | draft | **new** | Editorial review |
+| N3-186 | [恐らく](entries/1236/1236650-osoraku.org) | おそらく | osoraku | 1236650 | learner | draft | **new** | Editorial review |
+| N3-187 | [恐れる](entries/1589/1589200-osoreru.org) | おそれる | osoreru | 1589200 | learner | draft | **new** | Editorial review |
+| N3-188 | [恐ろしい](entries/1236/1236690-osoroshii.org) | おそろしい | osoroshii | 1236690 | learner | draft | **new** | Editorial review |
 
 
 
