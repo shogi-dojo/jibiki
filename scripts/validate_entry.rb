@@ -46,7 +46,7 @@ def romaji_matches?(reading, romaji)
   expected = to_romaji(reading)
   return true if romaji == expected
 
-  norm_actual = romaji.gsub(/\d+$/, '').gsub(/([aeiou])-/, '\1\1').gsub('oo', 'ou').gsub('dewa', 'deha')
+  norm_actual = romaji.gsub(/\d+$/, '').gsub(/([aeiou])-/, '\1\1').gsub('oo', 'ou').gsub('dewa', 'deha').gsub('aruiwa', 'aruiha')
   norm_exp = expected.gsub('oo', 'ou')
   norm_actual == norm_exp
 end

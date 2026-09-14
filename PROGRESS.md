@@ -1164,7 +1164,7 @@ content and remain at `new` until editorial review.
 | N4-690 | [お待たせしました](entries/2149/2149640-omataseshimashita.org) | おまたせしました | omataseshimashita | 2149640 | learner | draft | **new** | Editorial review |
 | N4-691 | [おめでとう御座います](entries/1001/1001540-omedetougozaimasu.org) | おめでとうございます | omedetougozaimasu | 1001540 | learner | draft | **new** | Editorial review |
 | N4-692 | [居る](entries/1577/1577985-oru.org) | おる | oru | 1577985 | learner | draft | **new** | Editorial review |
-| N4-693 | [各校](entries/1204/1204960-kakkou.org) | かくこう | kakkou | 1204960 | learner | draft | **new** | Editorial review |
+| N4-693 | [各校](entries/1204/1204960-kakukou.org) | かくこう | kakukou | 1204960 | learner | draft | **new** | Editorial review |
 | N4-695 | [畏まりました](entries/1002/1002790-kashikomarimashita.org) | かしこまりました | kashikomarimashita | 1002790 | learner | draft | **new** | Editorial review |
 | N4-696 | [難い](entries/1582/1582640-katai.org) | かたい | katai | 1582640 | learner | draft | **new** | Editorial review |
 | N4-697 | [金持ち](entries/1242/1242970-kanemochi.org) | かねもち | kanemochi | 1242970 | learner | draft | **new** | Editorial review |

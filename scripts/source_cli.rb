@@ -38,7 +38,7 @@ module SourceCLI
   end
 
   def relative_path(path)
-    Pathname.new(path).relative_path_from(Pathname.new(REPO_ROOT)).to_s
+    Pathname.new(File.expand_path(path, REPO_ROOT)).relative_path_from(Pathname.new(REPO_ROOT)).to_s
   end
 
   def display_path(path)
