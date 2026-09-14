@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1606 |
+| Canonical entry files | 1616 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 237 |
-| N3 queue rows covered | 251 / 1677 (15.0%) |
+| Canonical N3 entries | 247 |
+| N3 queue rows covered | 261 / 1677 (15.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1569 |
+| `new` | 1579 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1596 |
+| Entry metadata still marked `draft` | 1606 |
 | Core profile | 163 |
-| Learner profile | 1442 |
+| Learner profile | 1452 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 251 rows covered (237 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 261 rows covered (247 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1444,6 +1444,16 @@ content and remain at `new` until editorial review.
 | N3-249 | [囲む](entries/1155/1155980-kakomu.org) | かこむ | kakomu | 1155980 | learner | draft | **new** | Editorial review |
 | N3-250 | [籠](entries/1590/1590200-kago.org) | かご | kago | 1590200 | learner | draft | **new** | Editorial review |
 | N3-251 | [菓子](entries/1195/1195670-kashi.org) | かし | kashi | 1195670 | learner | draft | **new** | Editorial review |
+| N3-252 | [賢い](entries/1260/1260260-kashikoi.org) | かしこい | kashikoi | 1260260 | learner | draft | **new** | Editorial review |
+| N3-253 | [歌手](entries/1193/1193290-kashu.org) | かしゅ | kashu | 1193290 | learner | draft | **new** | Editorial review |
+| N3-254 | [家事](entries/1191/1191980-kaji.org) | かじ | kaji | 1191980 | learner | draft | **new** | Editorial review |
+| N3-255 | [数](entries/1580/1580820-kazu.org) | かず | kazu | 1580820 | learner | draft | **new** | Editorial review |
+| N3-256 | [稼ぐ](entries/1194/1194450-kasegu.org) | かせぐ | kasegu | 1194450 | learner | draft | **new** | Editorial review |
+| N3-257 | [数える](entries/1372/1372900-kazoeru.org) | かぞえる | kazoeru | 1372900 | learner | draft | **new** | Editorial review |
+| N3-258 | [肩](entries/1258/1258950-kata.org) | かた | kata | 1258950 | learner | draft | **new** | Editorial review |
+| N3-259 | [型](entries/1250/1250090-kata.org) | かた | kata | 1250090 | learner | draft | **new** | Editorial review |
+| N3-260 | [方々](entries/1584/1584100-katagata.org) | かたがた | katagata | 1584100 | learner | draft | **new** | Editorial review |
+| N3-261 | [刀](entries/1446/1446420-katana.org) | かたな | katana | 1446420 | learner | draft | **new** | Editorial review |
 
 
 
