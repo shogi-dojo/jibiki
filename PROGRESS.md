@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1626 |
+| Canonical entry files | 1636 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 257 |
-| N3 queue rows covered | 272 / 1677 (16.2%) |
+| Canonical N3 entries | 267 |
+| N3 queue rows covered | 283 / 1677 (16.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1589 |
+| `new` | 1599 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1616 |
+| Entry metadata still marked `draft` | 1626 |
 | Core profile | 163 |
-| Learner profile | 1462 |
+| Learner profile | 1472 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 272 rows covered (257 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 283 rows covered (267 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1465,7 +1465,14 @@ content and remain at `new` until editorial review.
 | N3-270 | [必ずしも](entries/1487/1487410-kanarazushimo.org) | かならずしも | kanarazushimo | 1487410 | learner | draft | **new** | Editorial review |
 | N3-271 | [可也](entries/1590/1590560-kanari.org) | かなり | kanari | 1590560 | learner | draft | **new** | Editorial review |
 | N3-272 | [金](entries/1242/1242590-kane.org) | かね | kane | 1242590 | learner | draft | **new** | Editorial review |
-
-
-
-
+| N3-273 | [可能](entries/1191/1191060-kanou.org) | かのう | kanou | 1191060 | learner | draft | **new** | Editorial review |
+| N3-274 | [株](entries/1208/1208920-kabu.org) | かぶ | kabu | 1208920 | learner | draft | **new** | Editorial review |
+| N3-275 | [被る](entries/1484/1484330-kaburu.org) | かぶる | kaburu | 1484330 | learner | draft | **new** | Editorial review |
+| N3-276 | [構う](entries/1279/1279680-kamau.org) | かまう | kamau | 1279680 | learner | draft | **new** | Editorial review |
+| N3-277 | [神](entries/1364/1364440-kami.org) | かみ | kami | 1364440 | learner | draft | **new** | Editorial review |
+| N3-278 | [上](entries/1352/1352150-kami.org) | かみ | kami | 1352150 | learner | draft | **new** | Editorial review |
+| N3-279 | [雷](entries/1585/1585060-kaminari.org) | かみなり | kaminari | 1585060 | learner | draft | **new** | Editorial review |
+| N3-280 | [髪の毛](entries/1477/1477960-kaminoke.org) | かみのけ | kaminoke | 1477960 | learner | draft | **new** | Editorial review |
+| N3-281 | [科目](entries/1590/1590600-kamoku.org) | かもく | kamoku | 1590600 | learner | draft | **new** | Editorial review |
+| N3-282 | [かも知れない](entries/1002/1002970-kamoshirenai.org) | かもしれない | kamoshirenai | 1002970 | learner | draft | **new** | Editorial review |
+| N3-283 | [火曜](entries/1194/1194280-kayou.org) | かよう | kayou | 1194280 | learner | draft | **new** | Editorial review |
