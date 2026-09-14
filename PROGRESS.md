@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1516 |
+| Canonical entry files | 1526 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 147 |
-| N3 queue rows covered | 157 / 1677 (9.4%) |
+| Canonical N3 entries | 157 |
+| N3 queue rows covered | 167 / 1677 (10.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1479 |
+| `new` | 1489 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1506 |
+| Entry metadata still marked `draft` | 1516 |
 | Core profile | 163 |
-| Learner profile | 1352 |
+| Learner profile | 1362 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 157 rows covered (147 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 167 rows covered (157 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1350,6 +1350,17 @@ content and remain at `new` until editorial review.
 | N3-155 | [餌](entries/1173/1173340-esa.org) | えさ | esa | 1173340 | learner | draft | **new** | Editorial review |
 | N3-156 | [エネルギー](entries/1029/1029430-enerugii.org) | エネルギー | enerugii | 1029430 | learner | draft | **new** | Editorial review |
 | N3-157 | [得る](entries/1588/1588760-eru.org) | える | eru | 1588760 | learner | draft | **new** | Editorial review |
+| N3-158 | [縁](entries/1177/1177490-en.org) | えん | en | 1177490 | learner | draft | **new** | Editorial review |
+| N3-159 | [円](entries/1175/1175570-en.org) | えん | en | 1175570 | learner | draft | **new** | Editorial review |
+| N3-160 | [演技](entries/1176/1176820-engi.org) | えんぎ | engi | 1176820 | learner | draft | **new** | Editorial review |
+| N3-161 | [援助](entries/1176/1176660-enjo.org) | えんじょ | enjo | 1176660 | learner | draft | **new** | Editorial review |
+| N3-162 | [エンジン](entries/1030/1030950-enjin.org) | エンジン | enjin | 1030950 | learner | draft | **new** | Editorial review |
+| N3-163 | [演説](entries/1176/1176960-enzetsu.org) | えんぜつ | enzetsu | 1176960 | learner | draft | **new** | Editorial review |
+| N3-164 | [演奏](entries/1607/1607520-ensou.org) | えんそう | ensou | 1607520 | learner | draft | **new** | Editorial review |
+| N3-165 | [老い](entries/1643/1643510-oi.org) | おい | oi | 1643510 | learner | draft | **new** | Editorial review |
+| N3-166 | [追いつく](entries/1588/1588810-oitsuku.org) | おいつく | oitsuku | 1588810 | learner | draft | **new** | Editorial review |
+| N3-167 | [追う](entries/1432/1432410-ou.org) | おう | ou | 1432410 | learner | draft | **new** | Editorial review |
+
 
 
 
