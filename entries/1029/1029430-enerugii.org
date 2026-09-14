@@ -1,0 +1,177 @@
+#+TITLE: エネルギー
+#+JMDICT_ID: 1029430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: エネルギー
+#+ROMAJI: enerugii
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1029430-001
+:PROPERTIES:
+:TEXT: エネルギー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-1029430-002
+:PROPERTIES:
+:TEXT: エネルギ
+:NO_KANJI: false
+:END:
+*** Information
+- ik
+
+* Sense s-1029430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bbe2572f7fb23579f7b91d1f42e11ac502fd7c8ac6cf52ff05438a90b0b4ff8d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+*** Language sources
+**** Language source ls-s-1029430-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Energie
+** English glosses
+- energy
+** Ukrainian glosses
+*** uk-s-1029430-001-001
+:PROPERTIES:
+:END:
+- text :: енергія (фізична величина)
+** Learner notes
+*** note-s-1029430-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з німецької мови (/Energie/, тому вимовляється саме /enerugii/, а не англійське /enajii/). У фізиці та техніці позначає здатність тіла або системи виконувати роботу: 「運動エネルギー」 (кінетична енергія), 「熱エネルギー」 (теплова енергія).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1029430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 太陽からたくさんのエネルギーが届きます。
+- READING :: たいようからたくさんのエネルギーがとどきます。
+- ROMAJI :: Taiyou kara takusan no enerugii ga todokimasu.
+- UK :: Від сонця надходить багато енергії.
+- EN :: A lot of energy arrives from the sun.
+- FOCUS :: エネルギーが届きます
+*** ex-1029430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 風や水を利用して、新しいエネルギーを作ります。
+- READING :: かぜやみずをりようして、あたらしいエネルギーをつくります。
+- ROMAJI :: Kaze ya mizu o riyou shite, atarashii enerugii o tsukurimasu.
+- UK :: Використовуючи вітер і воду, виробляють нову енергію.
+- EN :: By utilizing wind and water, new energy is generated.
+- FOCUS :: エネルギーを作ります
+*** ex-1029430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 将来に向けて、再生可能エネルギーの開発が進められている。
+- READING :: しょうらいにむけて、さいせいかのうエネルギーのかいはつがすすめられている。
+- ROMAJI :: Shourai ni mukete, saiseikanou enerugii no kaihatsu ga susumerarete iru.
+- UK :: З огляду на майбутнє просувається розробка відновлюваних джерел енергії.
+- EN :: Looking toward the future, development of renewable energy is progressing.
+- FOCUS :: 再生可能エネルギー
+
+* Sense s-1029430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0abfb4b50991448c100077890af421d03b422520aec1c5b1c9198748ae21ea1c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- energy
+- strength
+- power
+- stamina
+- get-up-and-go
+** Ukrainian glosses
+*** uk-s-1029430-002-001
+:PROPERTIES:
+:END:
+- text :: життєва сила, енергія, наснага, запал
+** Learner notes
+*** note-s-1029430-002-001
+:PROPERTIES:
+:END:
+- UK :: Позначає душевну чи тілесну бадьорість людини, активність та наснагу: 「エネルギーに満ちている」 (сповнений енергії), 「若者のエネルギー」 (юнацький запал).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1029430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8fd01a0d4bf0b741e99e19681a5cb66193e86a01e99f87370a427bf191e1d09a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- エネルギー資源
+** English glosses
+- energy source
+- energy resource
+** Ukrainian glosses
+*** uk-s-1029430-003-001
+:PROPERTIES:
+:END:
+- text :: джерело енергії, енергоресурс
+** Learner notes
+*** note-s-1029430-003-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від 「エネルギー資源」 — паливо, електроенергія чи природні ресурси: 「エネルギー問題」 (енергетична проблема), 「エネルギーの節約」 (економія енергії).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1029430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 686c2238edabe63c299ad035f98428e26db2a03bb3953a31ee70558efac2be39
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- food energy
+- calories
+** Ukrainian glosses
+*** uk-s-1029430-004-001
+:PROPERTIES:
+:END:
+- text :: енергетична цінність, калорійність (харчова)
+** Learner notes
+*** note-s-1029430-004-001
+:PROPERTIES:
+:END:
+- UK :: Енергетична цінність продуктів. На японських етикетках продуктів харчування калорійність часто підписують як 「エネルギー: ○○ kcal」 поряд із білками, жирами та вуглеводами.
+- LEVEL :: beginner
+- REGISTER :: neutral

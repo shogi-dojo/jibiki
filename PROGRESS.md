@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1506 |
+| Canonical entry files | 1516 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 137 |
-| N3 queue rows covered | 147 / 1677 (8.8%) |
+| Canonical N3 entries | 147 |
+| N3 queue rows covered | 157 / 1677 (9.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1469 |
+| `new` | 1479 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1496 |
+| Entry metadata still marked `draft` | 1506 |
 | Core profile | 163 |
-| Learner profile | 1342 |
+| Learner profile | 1352 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 147 rows covered (137 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 157 rows covered (147 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1340,5 +1340,16 @@ content and remain at `new` until editorial review.
 | N3-145 | [運動](entries/1172/1172910-undou.org) | うんどう | undou | 1172910 | learner | draft | **new** | Editorial review |
 | N3-146 | [柄](entries/1508/1508290-e.org) | え | e | 1508290 | learner | draft | **new** | Editorial review |
 | N3-147 | [永遠](entries/1174/1174070-eien.org) | えいえん | eien | 1174070 | learner | draft | **new** | Editorial review |
+| N3-148 | [永久](entries/1576/1576520-eikyuu.org) | えいきゅう | eikyuu | 1576520 | learner | draft | **new** | Editorial review |
+| N3-149 | [影響](entries/1173/1173660-eikyou.org) | えいきょう | eikyou | 1173660 | learner | draft | **new** | Editorial review |
+| N3-150 | [営業](entries/1173/1173430-eigyou.org) | えいぎょう | eigyou | 1173430 | learner | draft | **new** | Editorial review |
+| N3-151 | [衛星](entries/1174/1174760-eisei.org) | えいせい | eisei | 1174760 | learner | draft | **new** | Editorial review |
+| N3-152 | [栄養](entries/1173/1173990-eiyou.org) | えいよう | eiyou | 1173990 | learner | draft | **new** | Editorial review |
+| N3-153 | [笑顔](entries/1351/1351400-egao.org) | えがお | egao | 1351400 | learner | draft | **new** | Editorial review |
+| N3-154 | [描く](entries/1583/1583460-egaku.org) | えがく | egaku | 1583460 | learner | draft | **new** | Editorial review |
+| N3-155 | [餌](entries/1173/1173340-esa.org) | えさ | esa | 1173340 | learner | draft | **new** | Editorial review |
+| N3-156 | [エネルギー](entries/1029/1029430-enerugii.org) | エネルギー | enerugii | 1029430 | learner | draft | **new** | Editorial review |
+| N3-157 | [得る](entries/1588/1588760-eru.org) | える | eru | 1588760 | learner | draft | **new** | Editorial review |
+
 
 
