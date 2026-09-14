@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1496 |
+| Canonical entry files | 1506 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 127 |
-| N3 queue rows covered | 133 / 1677 (7.9%) |
+| Canonical N3 entries | 137 |
+| N3 queue rows covered | 147 / 1677 (8.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1459 |
+| `new` | 1469 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1486 |
+| Entry metadata still marked `draft` | 1496 |
 | Core profile | 163 |
-| Learner profile | 1332 |
+| Learner profile | 1342 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 133 rows covered (127 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 147 rows covered (137 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1326,4 +1326,19 @@ content and remain at `new` until editorial review.
 | N3-131 | [移す](entries/1158/1158160-utsusu.org) | うつす | utsusu | 1158160 | learner | draft | **new** | Editorial review |
 | N3-132 | [唸る](entries/1565/1565300-unaru.org) | うなる | unaru | 1565300 | learner | draft | **new** | Editorial review |
 | N3-133 | [奪う](entries/1416/1416340-ubau.org) | うばう | ubau | 1416340 | learner | draft | **new** | Editorial review |
+| N3-134 | [馬](entries/1471/1471560-uma.org) | うま | uma | 1471560 | learner | draft | **new** | Editorial review |
+| N3-135 | [上手い](entries/1310/1310460-umai.org) | うまい | umai | 1310460 | learner | draft | **new** | Editorial review |
+| N3-136 | [生まれ](entries/1609/1609350-umare.org) | うまれ | umare | 1609350 | learner | draft | **new** | Editorial review |
+| N3-137 | [梅](entries/1473/1473460-ume.org) | うめ | ume | 1473460 | learner | draft | **new** | Editorial review |
+| N3-138 | [裏切る](entries/1550/1550380-uragiru.org) | うらぎる | uragiru | 1550380 | learner | draft | **new** | Editorial review |
+| N3-139 | [得る](entries/1454/1454500-uru.org) | うる | uru | 1454500 | learner | draft | **new** | Editorial review |
+| N3-140 | [嬉しい](entries/1219/1219510-ureshii.org) | うれしい | ureshii | 1219510 | learner | draft | **new** | Editorial review |
+| N3-141 | [売れる](entries/1473/1473960-ureru.org) | うれる | ureru | 1473960 | learner | draft | **new** | Editorial review |
+| N3-142 | [噂](entries/1172/1172590-uwasa.org) | うわさ | uwasa | 1172590 | learner | draft | **new** | Editorial review |
+| N3-143 | [運](entries/1172/1172610-un.org) | うん | un | 1172610 | learner | draft | **new** | Editorial review |
+| N3-144 | [運転](entries/1172/1172830-unten.org) | うんてん | unten | 1172830 | learner | draft | **new** | Editorial review |
+| N3-145 | [運動](entries/1172/1172910-undou.org) | うんどう | undou | 1172910 | learner | draft | **new** | Editorial review |
+| N3-146 | [柄](entries/1508/1508290-e.org) | え | e | 1508290 | learner | draft | **new** | Editorial review |
+| N3-147 | [永遠](entries/1174/1174070-eien.org) | えいえん | eien | 1174070 | learner | draft | **new** | Editorial review |
+
 
