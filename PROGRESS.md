@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1576 |
+| Canonical entry files | 1586 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 207 |
-| N3 queue rows covered | 221 / 1677 (13.2%) |
+| Canonical N3 entries | 217 |
+| N3 queue rows covered | 231 / 1677 (13.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1539 |
+| `new` | 1549 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1566 |
+| Entry metadata still marked `draft` | 1576 |
 | Core profile | 163 |
-| Learner profile | 1412 |
+| Learner profile | 1422 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 221 rows covered (207 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 231 rows covered (217 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1414,6 +1414,16 @@ content and remain at `new` until editorial review.
 | N3-219 | [会計](entries/1198/1198430-kaikei.org) | かいけい | kaikei | 1198430 | learner | draft | **new** | Editorial review |
 | N3-220 | [解決](entries/1198/1198960-kaiketsu.org) | かいけつ | kaiketsu | 1198960 | learner | draft | **new** | Editorial review |
 | N3-221 | [会合](entries/1198/1198530-kaigou.org) | かいごう | kaigou | 1198530 | learner | draft | **new** | Editorial review |
+| N3-222 | [開始](entries/1202/1202760-kaishi.org) | かいし | kaishi | 1202760 | learner | draft | **new** | Editorial review |
+| N3-223 | [解釈](entries/1199/1199010-kaishaku.org) | かいしゃく | kaishaku | 1199010 | learner | draft | **new** | Editorial review |
+| N3-224 | [改善](entries/1200/1200960-kaizen.org) | かいぜん | kaizen | 1200960 | learner | draft | **new** | Editorial review |
+| N3-225 | [快適](entries/1200/1200120-kaiteki.org) | かいてき | kaiteki | 1200120 | learner | draft | **new** | Editorial review |
+| N3-226 | [回復](entries/1199/1199720-kaifuku.org) | かいふく | kaifuku | 1199720 | learner | draft | **new** | Editorial review |
+| N3-227 | [飼う](entries/1312/1312970-kau.org) | かう | kau | 1312970 | learner | draft | **new** | Editorial review |
+| N3-228 | [替える](entries/1589/1589780-kaeru.org) | かえる | kaeru | 1589780 | learner | draft | **new** | Editorial review |
+| N3-229 | [香り](entries/1589/1589820-kaori.org) | かおり | kaori | 1589820 | learner | draft | **new** | Editorial review |
+| N3-230 | [抱える](entries/1516/1516310-kakaeru.org) | かかえる | kakaeru | 1516310 | learner | draft | **new** | Editorial review |
+| N3-231 | [価格](entries/1189/1189500-kakaku.org) | かかく | kakaku | 1189500 | learner | draft | **new** | Editorial review |
 
 
 
