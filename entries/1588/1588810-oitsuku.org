@@ -1,0 +1,148 @@
+#+TITLE: 追いつく
+#+JMDICT_ID: 1588810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おいつく
+#+ROMAJI: oitsuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1588810-001
+:PROPERTIES:
+:TEXT: 追いつく
+:END:
+*** Priorities
+- news1
+- nf16
+** Written form wf-1588810-002
+:PROPERTIES:
+:TEXT: 追い付く
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1588810-003
+:PROPERTIES:
+:TEXT: 追い着く
+:END:
+*** Information
+- rK
+** Written form wf-1588810-004
+:PROPERTIES:
+:TEXT: 追付く
+:END:
+*** Information
+- sK
+** Written form wf-1588810-005
+:PROPERTIES:
+:TEXT: 追着く
+:END:
+*** Information
+- sK
+** Reading rd-1588810-001
+:PROPERTIES:
+:TEXT: おいつく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf16
+
+* Sense s-1588810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2688c757e2bcff5bafc49bf5ab66678d626dc8ff939cf468bd19ff02f2fe6095
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+** English glosses
+- to catch up (with)
+- to draw level
+- to pull even
+- to reach
+** Ukrainian glosses
+*** uk-s-1588810-001-001
+:PROPERTIES:
+:END:
+- text :: наздоганяти, наганяти
+*** uk-s-1588810-001-002
+:PROPERTIES:
+:END:
+- text :: зрівнюватися (з кимось), надолужувати
+** Learner notes
+*** note-s-1588810-001-001
+:PROPERTIES:
+:END:
+- UK :: Складне дієслово: 追う (гнатися) + つく (досягати). Керує часткою に: 「…に追いつく」 — наздогнати когось/щось. Вживається як буквально у фізичному просторі (наздогнати перехожого чи поїзд), так і переносно (наздогнати однокласників у навчанні, зрівнятися за рівнем, встигати за розвитком технологій: 「流行に追いつく」).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1588810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 走って前の人に追いつきました。
+- READING :: はしってまえのひとにおいつきました。
+- ROMAJI :: Hashitte mae no hito ni oitsukimashita.
+- UK :: Я побіг і наздогнав людину попереду.
+- EN :: I ran and caught up with the person in front of me.
+- FOCUS :: 追いつきました
+*** ex-1588810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 一生懸命勉強して、クラスの進みに追いついた。
+- READING :: いっしょうけんめいべんきょうして、クラスのすすみにおいついた。
+- ROMAJI :: Isshoukenmei benkyou shite, kurasu no susumi ni oitsuita.
+- UK :: Наполегливо вчачись, я наздогнав темп навчання в класі.
+- EN :: By studying hard, I caught up with the progress of the class.
+- FOCUS :: 追いついた
+*** ex-1588810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 技術の進歩があまりに速くて、知識を更新するのが追いつかない。
+- READING :: ぎじゅつのしんぽがあまりにはやくて、ちしきをこうしんするのがおいつかない。
+- ROMAJI :: Gijutsu no shinpo ga amari ni hayakute, chishiki o koushin suru no ga oitsukanai.
+- UK :: Технічний прогрес настільки швидкий, що я не встигаю оновлювати знання.
+- EN :: Technological progress is so rapid that keeping my knowledge updated cannot keep up.
+- FOCUS :: 追いつかない
+
+* Sense s-1588810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e1a08ac323cae273758aaaf51c16ab9c2a8d6a36152653020c401232dac22489
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+** English glosses
+- to be compensated
+- to make up for one's losses
+** Ukrainian glosses
+*** uk-s-1588810-002-001
+:PROPERTIES:
+:END:
+- text :: компенсувати збитки, покривати втрати
+** Learner notes
+*** note-s-1588810-002-001
+:PROPERTIES:
+:END:
+- UK :: Рідше вживається у фінансовому контексті компенсації витрат або виходу на беззбитковість (найчастіше в заперечній формі: витрати чи зусилля не окупаються).
+- LEVEL :: advanced
+- REGISTER :: formal
