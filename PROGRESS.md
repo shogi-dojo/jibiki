@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1566 |
+| Canonical entry files | 1576 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 197 |
-| N3 queue rows covered | 209 / 1677 (12.5%) |
+| Canonical N3 entries | 207 |
+| N3 queue rows covered | 221 / 1677 (13.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1529 |
+| `new` | 1539 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1556 |
+| Entry metadata still marked `draft` | 1566 |
 | Core profile | 163 |
-| Learner profile | 1402 |
+| Learner profile | 1412 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 209 rows covered (197 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 221 rows covered (207 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1402,6 +1402,18 @@ content and remain at `new` until editorial review.
 | N3-207 | [下ろす](entries/1589/1589580-orosu.org) | おろす | orosu | 1589580 | learner | draft | **new** | Editorial review |
 | N3-208 | [恩](entries/1183/1183090-on.org) | おん | on | 1183090 | learner | draft | **new** | Editorial review |
 | N3-209 | [温暖](entries/1183/1183480-ondan.org) | おんだん | ondan | 1183480 | learner | draft | **new** | Editorial review |
+| N3-210 | [温度](entries/1183/1183510-ondo.org) | おんど | ondo | 1183510 | learner | draft | **new** | Editorial review |
+| N3-211 | [オーバー](entries/1032/1032390-oobaa.org) | オーバー | oobaa | 1032390 | learner | draft | **new** | Editorial review |
+| N3-212 | [可](entries/1190/1190710-ka.org) | か | ka | 1190710 | learner | draft | **new** | Editorial review |
+| N3-213 | [課](entries/1195/1195710-ka.org) | か | ka | 1195710 | learner | draft | **new** | Editorial review |
+| N3-214 | [会](entries/1198/1198170-kai.org) | かい | kai | 1198170 | learner | draft | **new** | Editorial review |
+| N3-215 | [回](entries/1199/1199330-kai.org) | かい | kai | 1199330 | learner | draft | **new** | Editorial review |
+| N3-216 | [会員](entries/1198/1198230-kaiin.org) | かいいん | kaiin | 1198230 | learner | draft | **new** | Editorial review |
+| N3-217 | [絵画](entries/1202/1202300-kaiga.org) | かいが | kaiga | 1202300 | learner | draft | **new** | Editorial review |
+| N3-218 | [海外](entries/1201/1201260-kaigai.org) | かいがい | kaigai | 1201260 | learner | draft | **new** | Editorial review |
+| N3-219 | [会計](entries/1198/1198430-kaikei.org) | かいけい | kaikei | 1198430 | learner | draft | **new** | Editorial review |
+| N3-220 | [解決](entries/1198/1198960-kaiketsu.org) | かいけつ | kaiketsu | 1198960 | learner | draft | **new** | Editorial review |
+| N3-221 | [会合](entries/1198/1198530-kaigou.org) | かいごう | kaigou | 1198530 | learner | draft | **new** | Editorial review |
 
 
 
