@@ -106,11 +106,11 @@ namespace :entries do
     sh RUBY, 'scripts/migrate_schema_v2.rb', *paths
   end
 
-  desc 'Scaffold a complete v2 entry from an N5/N4 queue row: rake "entries:scaffold[299,juu,n5]"'
+  desc 'Scaffold a complete v2 entry from an N5/N4/N3 queue row: rake "entries:scaffold[1,ai,n3]"'
   task :scaffold, %i[source_order romaji level] do |_task, args|
     abort 'Provide source_order and romaji.' unless args[:source_order] && args[:romaji]
     args.with_defaults(level: 'n5')
-    abort 'Level must be n5 or n4.' unless %w[n5 n4].include?(args[:level])
+    abort 'Level must be n5, n4, or n3.' unless %w[n5 n4 n3].include?(args[:level])
 
     sh RUBY, 'scripts/scaffold_entry.rb', '--level', args[:level], '--source-order', args[:source_order], '--romaji', args[:romaji]
   end
@@ -195,5 +195,47 @@ Rake::TestTask.new(:test) do |task|
   task.pattern = 'test/**/*_test.rb'
 end
 
-desc 'Test extractors, validate entries, and Org-lint dictionary files'
-task default: [:test, 'entries:validate', 'org:lint', :doctor]
+namespace :translit do
+  # The yanagi gem ships transliteration policy only. Corpus-derived data (the
+  # lexicon, which carries each term's language of origin) is generated from
+  # the meijin glossary into tmp/, and yanagi reads it via YANAGI_DATA_DIR.
+  TRANSLIT_DATA_DIR = File.expand_path('tmp/yanagi', __dir__)
+  MEIJIN_GLOSSARY = File.expand_path('../meijin/books/meijin/glossary.org', __dir__)
+
+  desc 'Build the transliteration lexicon from the meijin glossary'
+  task :lexicon do
+    unless File.exist?(MEIJIN_GLOSSARY)
+      puts "[skip] meijin glossary not found at #{MEIJIN_GLOSSARY}"
+      next
+    end
+
+    mkdir_p TRANSLIT_DATA_DIR
+    sh({ 'YANAGI_DATA_DIR' => TRANSLIT_DATA_DIR },
+       'bundle', 'exec', 'yanagi', 'lexicon', 'build', '--glossary', MEIJIN_GLOSSARY)
+  end
+
+  desc 'Verify the transliteration rules against the meijin gold glossary'
+  task gold: :lexicon do
+    unless File.exist?(MEIJIN_GLOSSARY)
+      puts "[skip] meijin glossary not found at #{MEIJIN_GLOSSARY}"
+      next
+    end
+
+    sh({ 'YANAGI_DATA_DIR' => TRANSLIT_DATA_DIR },
+       'bundle', 'exec', 'yanagi', 'verify-gold', MEIJIN_GLOSSARY)
+  end
+
+  desc 'Check the transliteration policy doc against the rules data'
+  task :doc_sync do
+    doc = File.expand_path('../meijin/shared/transliteration.md', __dir__)
+    unless File.exist?(doc)
+      puts "[skip] meijin transliteration doc not found at #{doc}"
+      next
+    end
+
+    sh 'bundle', 'exec', 'yanagi', 'doc-sync', doc
+  end
+end
+
+desc 'Test extractors, validate entries, Org-lint files, and check transliteration'
+task default: [:test, 'entries:validate', 'org:lint', :doctor, 'translit:gold']

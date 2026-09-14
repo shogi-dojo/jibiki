@@ -1,0 +1,520 @@
+#+TITLE: 苛々
+#+JMDICT_ID: 1587700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いらいら
+#+ROMAJI: iraira
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1587700-001
+:PROPERTIES:
+:TEXT: 苛々
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1587700-002
+:PROPERTIES:
+:TEXT: 苛苛
+:END:
+** Written form wf-1587700-003
+:PROPERTIES:
+:TEXT: 刺々
+:END:
+*** Information
+- oK
+** Written form wf-1587700-004
+:PROPERTIES:
+:TEXT: 刺刺
+:END:
+*** Information
+- oK
+** Reading rd-1587700-001
+:PROPERTIES:
+:TEXT: いらいら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1587700-002
+:PROPERTIES:
+:TEXT: イライラ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1587700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 525d3760479ea3998fe2c1e74bfd9b9a8e41e3d2607260b094b1397adfbed516
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- vs
+- n
+- adv
+- adv-to
+- vi
+*** Miscellaneous and register
+- uk
+- on-mim
+** English glosses
+- to get irritated
+- to get annoyed
+- to be on the edge
+- to fret
+- to lose patience
+** Ukrainian glosses
+*** uk-s-1587700-001-001
+:PROPERTIES:
+:END:
+- text :: дратуватися, нервуватися, втрачати терпіння
+*** uk-s-1587700-001-002
+:PROPERTIES:
+:END:
+- text :: роздратування (стан); いらいらする — дратуватися
+** Learner notes
+*** note-s-1587700-001-001
+:PROPERTIES:
+:END:
+- UK :: Звуконазвальне слово (ономатопоея, on-mim) «дратуватися / роздратування»:
+- Граматика:
+  - Найчастіше вживається з する: いらいらする (iraira suru — дратуватися); також як прислівник: いらいらした気持ち (いらいらしたきもち / iraira shita kimochi — роздратований настрій).
+  - Зазвичай пишеться хіраґаною いらいら або катаканою イライラ (відмітка uk); написання ієрогліфами 苛々 рідке.
+- Типові конструкції:
+  - 待たされていらいらした (またされていらいらした / matasarete iraira shita — мене змусили чекати, і я роздратувався).
+  - 人の話を聞かないので、いらいらする (ひとのはなしをきかないので、いらいらする / hito no hanashi o kikanai node, iraira suru — дратує, що людина не слухає).
+- Відмінність від близьких слів:
+  - イライラ (いらいら / iraira) — коротке «колюче» роздратування.
+  - ムカムカ (むかむか / mukamuka) — нудота чи сильне обурення «під горлом».
+  - 腹が立つ (はらがたつ / hara ga tatsu — злитися) — звичайне висловлювання про гнів.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1587700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電車が遅れて、いらいらしました。
+- READING :: でんしゃがおくれて、いらいらしました。
+- ROMAJI :: Densha ga okurete, iraira shimashita.
+- UK :: Потяг запізнився, і я роздратувався.
+- EN :: The train was late, and I got irritated.
+- FOCUS :: いらいらしました
+*** ex-1587700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 質問に答えないで話をそらすので、だんだんいらいらしてきました。
+- READING :: しつもんにこたえないではなしをそらすので、だんだんいらいらしてきました。
+- ROMAJI :: Shitsumon ni kotaenai de hanashi o sorasu node, dandan iraira shite kimashita.
+- UK :: Він ухиляється від питань і переводить тему, і мене це дедалі більше дратує.
+- EN :: He avoids answering questions and changes the subject, so I am gradually getting irritated.
+- FOCUS :: いらいらしてきました
+*** ex-1587700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 満員電車での通勤を続けていると、説明もなく遅延が重なる日に、いらいらが募って仕方がないと感じることがあります。
+- READING :: まんいんでんしゃでのつうきんをつづけていると、せつめいもなくちえんがかさなるひに、いらいらがつのってしかたがないとかんじることがあります。
+- ROMAJI :: Man'in densha de no tsuukin o tsuzukete iru to, setsumei mo naku chien ga kasanaru hi ni, iraira ga tsunotte shikata ga nai to kanjiru koto ga arimasu.
+- UK :: Коли щодня їдеш у переповненому потягу, у дні, коли затримки накладаються одна на одну без жодних пояснень, роздратування іноді накопичується до межі.
+- EN :: When you keep commuting on packed trains, on days when delays pile up without any explanation, you sometimes feel the irritation building up beyond control.
+- FOCUS :: いらいらが募って
+
+* Sense s-1587700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 237d44ac6783e77a8fe7ce8aa1d07478e2bc081c4bbacec1ef593479881c45f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geïrriteerd zijn
+*** en-s-1587700-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geprikkeld zijn
+*** en-s-1587700-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich ergeren
+*** en-s-1587700-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenuwachtig zijn
+*** en-s-1587700-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nerveus zijn
+*** en-s-1587700-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich enerveren
+*** en-s-1587700-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boos zijn
+*** en-s-1587700-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ongeduldig zijn
+*** en-s-1587700-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geïrriteerd
+*** en-s-1587700-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geprikkeld
+*** en-s-1587700-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenuwachtig
+*** en-s-1587700-002-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nerveus
+*** en-s-1587700-002-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boos
+*** en-s-1587700-002-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ongeduldig
+** Ukrainian glosses
+
+* Sense s-1587700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c5256455100fd01009c298f6f99ecc6d0a39ea81e34f049849075287b610a43b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: s'énerver
+** Ukrainian glosses
+
+* Sense s-1587700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d92a811a064f4d238d42d8185ea1554a76072b9dbb257c993fd7bd6449e15bf3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nervös sein
+*** en-s-1587700-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gereizt werden
+*** en-s-1587700-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erregt sein
+*** en-s-1587700-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ungeduldig werden
+*** en-s-1587700-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die Geduld verlieren
+*** en-s-1587700-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nervös
+*** en-s-1587700-004-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gereizt
+*** en-s-1587700-004-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erregt
+*** en-s-1587700-004-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ungeduldig
+** Ukrainian glosses
+
+* Sense s-1587700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8cdc1773b396fccc075371491c24bb3f7b33ca992f345ad1ed708246a85e4bd7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nervosität
+** Ukrainian glosses
+
+* Sense s-1587700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ffcc16c242a3f49c03344e4a276d5d142f7e59687d82e3ae5f71a5c1e73ac220
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bosszúság
+*** en-s-1587700-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irritálás
+** Ukrainian glosses
+
+* Sense s-1587700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 009315d198ab376d03733894a32af0c4fa85b2d8d726d338786928184aaa830e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} раздражаться, выходить из терпения, нервничать; (как опред.) раздражительный, нетерпеливый, нервный
+*** en-s-1587700-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～して} с раздражением, нетерпеливо, нервно
+*** en-s-1587700-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～させる} раздражать, выводить из терпения (кого-л.), действовать (кому-л.) на нервы
+** Ukrainian glosses
+
+* Sense s-1587700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 547600ca8aa5e4fd9eca60452f13219b5570e4488916f4d8b707ead3b6b0462b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razdraženo
+*** en-s-1587700-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razdraženost
+*** en-s-1587700-008-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: slabe volje
+*** en-s-1587700-008-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: živčen
+*** en-s-1587700-008-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: iritiran
+*** en-s-1587700-008-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: postati nervozen
+** Ukrainian glosses
+
+* Sense s-1587700-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 9af1f12011d126db6aba3b21a7596f7e92934b758022395d9c2301b27e539010
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1587700-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar nervioso
+*** en-s-1587700-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar irritado
+** Ukrainian glosses

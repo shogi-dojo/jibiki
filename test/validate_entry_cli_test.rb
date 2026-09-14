@@ -326,6 +326,12 @@ class ValidateEntryCliTest < Minitest::Test
     end
   end
 
+  def test_accepts_romaji_particle_exceptions
+    assert romaji_matches?('では', 'dewa')
+    assert romaji_matches?('それでは', 'soredewa')
+    assert romaji_matches?('あるいは', 'aruiwa')
+  end
+
   def test_rejects_unrecognised_jmdict_sha256
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory)

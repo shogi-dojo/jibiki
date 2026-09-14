@@ -1,0 +1,122 @@
+#+TITLE: 衛星
+#+JMDICT_ID: 1174760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えいせい
+#+ROMAJI: eisei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1174760-001
+:PROPERTIES:
+:TEXT: 衛星
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1174760-001
+:PROPERTIES:
+:TEXT: えいせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1174760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 44757223208330758ec7bdaa328642901f0f6314af67fe2e97fc1f8ef9d05bde
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- astron
+** English glosses
+- (natural) satellite
+- moon
+** Ukrainian glosses
+*** uk-s-1174760-001-001
+:PROPERTIES:
+:END:
+- text :: супутник (природний, небесне тіло)
+** Learner notes
+*** note-s-1174760-001-001
+:PROPERTIES:
+:END:
+- UK :: В астрономії означає природне небесне тіло, що обертається навколо планети. Наприклад, Місяць є природним супутником Землі: 「月は地球の衛星である」.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1174760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 月は地球の唯一の自然な衛星です。
+- READING :: つきはちきゅうのゆいいつのしぜんなえいせいです。
+- ROMAJI :: Tsuki wa chikyuu no yuiitsu no shizen na eisei desu.
+- UK :: Місяць — єдиний природний супутник Землі.
+- EN :: The Moon is the Earth's only natural satellite.
+- FOCUS :: 衛星です
+*** ex-1174760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 木星には多くの衛星が存在しています。
+- READING :: もくせいにはおおくのえいせいがそんざいしています。
+- ROMAJI :: Mokusei ni wa ooku no eisei ga sonzai shite imasu.
+- UK :: У Юпітера існує багато супутників.
+- EN :: Jupiter has many satellites.
+- FOCUS :: 衛星
+*** ex-1174760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 太陽系の惑星とその衛星についての講義を聞いた。
+- READING :: たいようけいのわくせいとそのえいせいについてのこうぎをきいた。
+- ROMAJI :: Taiyoukei no wakusei to sono eisei ni tsuite no kougi o kiita.
+- UK :: Я послухав лекцію про планети Сонячної системи та їхні супутники.
+- EN :: I listened to a lecture about the planets of the Solar System and their satellites.
+- FOCUS :: 衛星
+
+* Sense s-1174760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6378ae862e32f8a15523b63801c45f6595b7b762173700839393ba2c67e700c4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 人工衛星
+** English glosses
+- (artificial) satellite
+** Ukrainian glosses
+*** uk-s-1174760-002-001
+:PROPERTIES:
+:END:
+- text :: штучний супутник
+** Learner notes
+*** note-s-1174760-002-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне або контекстне скорочення від 「人工衛星」 /じんこうえいせい/ (штучний супутник). Також широко вживається у сполученнях: 「気象衛星」 /きしょうえいせい/ (метеорологічний супутник), 「衛星放送」 /えいせいほうそう/ (супутникове мовлення), 「通信衛星」 /つうしんえいせい/ (супутник зв'язку).
+- LEVEL :: intermediate
+- REGISTER :: neutral

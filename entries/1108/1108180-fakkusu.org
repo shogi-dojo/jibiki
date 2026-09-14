@@ -1,0 +1,329 @@
+#+TITLE: ＦＡＸ
+#+JMDICT_ID: 1108180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ファックス
+#+ROMAJI: fakkusu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1108180-001
+:PROPERTIES:
+:TEXT: ＦＡＸ
+:END:
+** Reading rd-1108180-001
+:PROPERTIES:
+:TEXT: ファックス
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1108180-002
+:PROPERTIES:
+:TEXT: ファクス
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- gai1
+
+* Sense s-1108180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2f0eeca8cef819d19164c046ad80aece7b97d6bbfd0c9422aea59ec71b26e49f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- ファクシミリ・2
+** English glosses
+- fax
+- facsimile
+** Ukrainian glosses
+*** uk-s-1108180-001-001
+:PROPERTIES:
+:END:
+- text :: факс, факсиміле
+- qualifier :: повідомлення або спосіб зв'язку
+*** uk-s-1108180-001-002
+:PROPERTIES:
+:END:
+- text :: передавати факсом, факсувати
+- qualifier :: у формі дієслова (〜をファックスする)
+** Learner notes
+*** note-s-1108180-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення ファックス (fakkusu, від англ. fax; також пишеться ＦＡＸ або ファクス) вживається як іменник (факс, факсимільне повідомлення) та дієслово: ファックスを送る (fakkusu o okuru — «відправити факс»), ファックス番号 (fakkusu bangou — «номер факсу»). У японському діловому листуванні та документообігу факс залишається популярним засобом зв'язку.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1108180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 契約書のコピーをファックスで送りました。
+- READING :: けいやくしょのこぴーをふぁっくすでおくりました。
+- ROMAJI :: Keiyakusho no kopii o fakkusu de okurimashita.
+- UK :: Я надіслав копію договору факсом.
+- EN :: I sent a copy of the contract by fax.
+- FOCUS :: ファックスで
+*** ex-1108180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 申込用紙にご記入の上、こちらの番号までファックスしてください。
+- READING :: もうしこみようしにごきにゅうのうえ、こちらのばんごうまでふぁっくすしてください。
+- ROMAJI :: Moushikomi youshi ni gokinyuu no ue, kochira no bangou made fakkusu shite kudasai.
+- UK :: Будь ласка, заповніть реєстраційну форму та надішліть її факсом на цей номер.
+- EN :: Please fill in the application form and fax it to this number.
+- FOCUS :: ファックスして
+*** ex-1108180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 弊社では電子メールによる書類の添付送信だけでなく、従来の取引先向けにファックスでの受発注業務も継続して行っています。
+- READING :: へいしゃではでんしめーるによるしょるいのてんぷそうしんだけでなく、じゅうらいのとりひきさきむけにふぁっくすでのじゅはっちゅうぎょうむもけいぞくしておこなっています。
+- ROMAJI :: Heisha de wa denshimeeru ni yoru shorui no tempu soushin dake de naku, juurai no torihikisaki muke ni fakkusu de no juhacchuu gyoumu mo keizoku shite okonatte imasu.
+- UK :: Наша компанія не лише надсилає документи електронною поштою, а й продовжує опрацьовувати замовлення через факс для давніх партнерів.
+- EN :: In addition to sending documents attached via email, our company continues to process orders by fax for long-standing clients.
+- FOCUS :: ファックスでの
+
+* Sense s-1108180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 50a3532ccb8773d506a42444daeedab1205efbf6a16e76ac05e719be95e51738
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fax machine
+** Ukrainian glosses
+*** uk-s-1108180-002-001
+:PROPERTIES:
+:END:
+- text :: факс, факсимільний апарат
+- qualifier :: пристрій
+
+* Sense s-1108180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 898c69bfa0b8d9b7a1c9f45b635151065ecee327ad62b42855a30f30b2f29ad9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fax
+*** en-s-1108180-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faxapparaat
+*** en-s-1108180-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faxmachine
+*** en-s-1108180-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faxtoestel
+*** en-s-1108180-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: facsimile
+** Ukrainian glosses
+
+* Sense s-1108180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e44e57febbc651c1a4064edde05f728d1507909b0b58aa9f76df54845abc42cc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fax
+*** en-s-1108180-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faxbericht
+*** en-s-1108180-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faxkopie
+** Ukrainian glosses
+
+* Sense s-1108180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2b4275a5acfe4de1131efb4157208a23f9b1310c28587b421fd13e5aa0796aa4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: facsimile
+*** en-s-1108180-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fax
+** Ukrainian glosses
+
+* Sense s-1108180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 17d6937b1bda9b7a4c88aaedd487061be231fd395bbea8ae7a4c236902678acf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fax
+*** en-s-1108180-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Telefax
+*** en-s-1108180-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fernkopie
+** Ukrainian glosses
+
+* Sense s-1108180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: eeb605fbe1f11fef36e68141ca15ddff084e548587acf5b71694782e87758d69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fakszimile
+** Ukrainian glosses
+
+* Sense s-1108180-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 5571feb8f9026db2ac2044f979837e68e49106922873a08c2fa39f49239a0c53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faksimile
+*** en-s-1108180-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faks
+** Ukrainian glosses
+
+* Sense s-1108180-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 442427a2188064c5cda21fe3f970863986ef9a36e4f91529de34f3535a8702db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1108180-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fax
+** Ukrainian glosses

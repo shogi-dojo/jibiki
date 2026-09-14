@@ -13,6 +13,7 @@
 require_relative '../lib/dictionary_sources/jmdict'
 require_relative '../lib/dictionary_sources/n5_queue'
 require_relative '../lib/dictionary_sources/n4_queue'
+require_relative '../lib/dictionary_sources/n3_queue'
 require_relative 'source_cli'
 require_relative 'validate_entry'
 
@@ -195,7 +196,7 @@ end
 if __FILE__ == $PROGRAM_NAME
   options = { level: 'n5' }
   parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb [options] --romaji ROMAJI') do |cli|
-    cli.on('--level LEVEL', %w[n5 n4], 'Queue level (n5 or n4, default: n5)') do |value|
+    cli.on('--level LEVEL', %w[n5 n4 n3], 'Queue level (n5, n4, or n3, default: n5)') do |value|
       options[:level] = value
     end
     cli.on('--source-order NUMBER', Integer, 'Candidate queue source_order to scaffold') { |value| options[:source_order] = value }
@@ -217,9 +218,17 @@ if __FILE__ == $PROGRAM_NAME
   if options[:ent_seq]
     matches = jmdict.lookup(ent_seq: options[:ent_seq])
   elsif options[:source_order]
-    queue_path = level == 'n4' ? SourceCLI::N4_PATH : SourceCLI::N5_PATH
+    queue_path = case level
+                 when 'n3' then SourceCLI::N3_PATH
+                 when 'n4' then SourceCLI::N4_PATH
+                 else SourceCLI::N5_PATH
+                 end
     SourceCLI.ensure_exists!(queue_path)
-    queue = level == 'n4' ? DictionarySources::N4Queue.new(queue_path) : DictionarySources::N5Queue.new(queue_path)
+    queue = case level
+            when 'n3' then DictionarySources::N3Queue.new(queue_path)
+            when 'n4' then DictionarySources::N4Queue.new(queue_path)
+            else DictionarySources::N5Queue.new(queue_path)
+            end
     queue_record = queue.fetch(options[:source_order])
     matches = jmdict.lookup(written: queue_record[:written], reading: queue_record[:reading])
     if matches.length != 1

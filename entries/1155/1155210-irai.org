@@ -1,0 +1,359 @@
+#+TITLE: 以来
+#+JMDICT_ID: 1155210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いらい
+#+ROMAJI: irai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1155210-001
+:PROPERTIES:
+:TEXT: 以来
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1155210-002
+:PROPERTIES:
+:TEXT: 已来
+:END:
+*** Information
+- rK
+** Reading rd-1155210-001
+:PROPERTIES:
+:TEXT: いらい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1155210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b9550af5cc0f3b45284a70c78fd8e91adc474f221e8b818cea805d2a070823a0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- since
+- henceforth
+** Ukrainian glosses
+*** uk-s-1155210-001-001
+:PROPERTIES:
+:END:
+- text :: відтоді, з (певного часу) і донині
+*** uk-s-1155210-001-002
+:PROPERTIES:
+:END:
+- text :: після (події) — у конструкції «подія + 以来»
+** Learner notes
+*** note-s-1155210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменниковий суфікс «відтоді, з того часу»:
+- Граматика:
+  - Приєднується до часу чи події: 卒業以来 (そつぎょういらい / sotsugyou irai — від випуску й донині), あの日以来 (あのひいらい / ano hi irai — від того дня).
+  - Обов'язково вказує на тривалість досі: 昨年以来 (さくねんいらい / sakunen irai — з минулого року й дотепер).
+- Відмінність від близьких слів:
+  - 以来 (いらい / irai) — часовий відрізок від минулої точки до теперішнього моменту.
+  - から (から / kara) — проста частка «від/з», без відтінку тривалості.
+  - 今後 (こんご / kongo — відтепер, надалі) — про майбутнє, а не минуле.
+- Ремарка:
+  - Омонім 依頼 (いらい / irai — «прохання, замовлення») — той самий звучний словоформа; розрізняйте за контекстом та ієрогліфами.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1155210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大学を卒業して以来、彼には会っていません。
+- READING :: だいがくをそつぎょうしていらい、かれにはあっていません。
+- ROMAJI :: Daigaku o sotsugyou shite irai, kare ni wa atte imasen.
+- UK :: Із самого випуску з університету я його не бачив.
+- EN :: I have not seen him since graduating from university.
+- FOCUS :: 卒業して以来
+*** ex-1155210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 腰を痛めて以来、運動は水泳しかしていません。
+- READING :: こしをいためていらい、うんどうはすいえいしかしていません。
+- ROMAJI :: Koshi o itamete irai, undou wa suiei shika shite imasen.
+- UK :: Відтоді як пошкодив спину, займаюся лише плаванням.
+- EN :: Since hurting my back, swimming has been the only exercise I do.
+- FOCUS :: 痛めて以来
+*** ex-1155210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 法改正以来、この地域では太陽光パネルの設置件数が年々増加しており、自治体も補助制度の拡充を急いでいます。
+- READING :: ほうかいせいいらい、このちいきではたいようこうぱねるのせっちけんすうがねんねんぞうかしており、じちたいもほじょせいどのかくじゅうをいそいでいます。
+- ROMAJI :: Hou kaisei irai, kono chiiki de wa taiyoukou paneru no setchi kensuu ga nennen zouka shite ori, jititai mo hojo seido no kakujuu o isoide imasu.
+- UK :: Відтоді як набув чинності закон, кількість установлень сонячних панелей у цьому регіоні зростає щороку, і органи самоврядування поспішають розширювати програми підтримки.
+- EN :: Since the law was amended, the number of solar panel installations in this area has been increasing year by year, and local governments are hurrying to expand their subsidy programs.
+- FOCUS :: 法改正以来
+
+* Sense s-1155210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 55273ce3272afacbc59c52c4b43403b5282e8a46d9f92d718ce9f3cdac7975da
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- ever since
+** Ukrainian glosses
+*** uk-s-1155210-002-001
+:PROPERTIES:
+:END:
+- text :: відтоді й донині (посилене «з самого часу»)
+** Learner notes
+*** note-s-1155210-002-001
+:PROPERTIES:
+:END:
+- UK :: Прислівникове значення «ever since»:
+  - Підкреслює безперервність стану від минулої точки до теперішнього: 引っ越して以来、ずっとこの町に住んでいる (ひっこしていらい、ずっとこのまちにすんでいる / hikkoshite irai, zutto kono machi ni sunde iru — відтоді як переїхав, так і живу в цьому місті).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1155210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1488a766dd6a783488f6199d274e47e8db5ebeced6a3c1e0e7c0b0bca1378ba5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voortaan
+*** en-s-1155210-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in het vervolg
+*** en-s-1155210-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van nu af
+*** en-s-1155210-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van nu af aan
+** Ukrainian glosses
+
+* Sense s-1155210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d3b5d36938bc1c5d61b939cdf4d79b906ac57a5233445b2a14e76a7300e7f371
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {na woorden die verwijzen naar gebeurtenissen in het verleden of naar een punt in het verleden} sinds
+*** en-s-1155210-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sedert
+*** en-s-1155210-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: na
+*** en-s-1155210-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vanaf
+** Ukrainian glosses
+
+* Sense s-1155210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fad67d20f7afe1a9027bcaabfa9117271dbef0bf6175ab43b8516b0958950ad4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: depuis
+*** en-s-1155210-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dorénavant
+** Ukrainian glosses
+
+* Sense s-1155210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: aece8a1089b56eccb47d07e46f7a6a380bf0808f920dcd6136f55773a94f2733
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ezentúl
+*** en-s-1155210-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: továbbiakban
+** Ukrainian glosses
+
+* Sense s-1155210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8c6bd9ccc519bb75eeec8bf7ccee189d2e343b8931bc585ef3a7fb1d0cbc2296
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: со времени (чего-л.)
+*** en-s-1155210-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[は]} в дальнейшем, впредь, отныне; (ср.) …いらい
+** Ukrainian glosses
+
+* Sense s-1155210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 071695b3b5e2af1512c0ccabe2f395b65e4ee433cd5e086451e5bbdf726e011a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odkar
+*** en-s-1155210-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odslej
+*** en-s-1155210-008-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: od takrat
+** Ukrainian glosses
+
+* Sense s-1155210-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 10bab6fef478efd55b9ab3b14415eec58cc14f461b8625fee7d287aae45f8361
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1155210-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desde que
+*** en-s-1155210-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: de ahora en adelante
+** Ukrainian glosses

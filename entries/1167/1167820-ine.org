@@ -1,0 +1,281 @@
+#+TITLE: 稲
+#+JMDICT_ID: 1167820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いね
+#+ROMAJI: ine
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1167820-001
+:PROPERTIES:
+:TEXT: 稲
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Written form wf-1167820-002
+:PROPERTIES:
+:TEXT: 稻
+:END:
+** Reading rd-1167820-001
+:PROPERTIES:
+:TEXT: いね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1167820-002
+:PROPERTIES:
+:TEXT: イネ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1167820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 066999cb68aa4e9ce6e790d18e10ed8b8adfcd4def09d0fff7ec7636b22a0869
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rice plant (Oryza sativa)
+** Ukrainian glosses
+*** uk-s-1167820-001-001
+:PROPERTIES:
+:END:
+- text :: рис (жива рослина на полі)
+*** uk-s-1167820-001-002
+:PROPERTIES:
+:END:
+- text :: рис на корені (до збирання врожаю)
+** Learner notes
+*** note-s-1167820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник «рис (рослина)»:
+- Різниця між спорідненими словами:
+  - 稲 (いね / ine) — рис як жива рослина, що росте на полі.
+  - 米 (こめ / kome) — зерно рису, зібраний і очищений урожай.
+  - ご飯 (ごはん / gohan) — зварений рис, а також «їжа, прийом їжі» узагалі.
+- Типові сполучення:
+  - 稲作 (いなさく / inasaku — вирощування рису)
+  - 稲刈り (いねかり / inekari — жниво, збирання рису)
+  - 田んぼ (たんぼ / tanbo — рисові поля, чеки)
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1167820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 秋になると、稲の色が金色に変わります。
+- READING :: あきになると、いねのいろがきんいろにかわります。
+- ROMAJI :: Aki ni naru to, ine no iro ga kin'iro ni kawarimasu.
+- UK :: Восени колір рису на полях стає золотим.
+- EN :: In autumn, the color of the rice plants turns golden.
+- FOCUS :: 稲の色が
+*** ex-1167820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この辺りの農家では、稲を育ててお米を作っています。
+- READING :: このあたりののうかでは、いねをそだてておこめをつくっています。
+- ROMAJI :: Kono atari no nouka de wa, ine o sodatete okome o tsukutte imasu.
+- UK :: Фермери цієї місцевості вирощують рис і роблять із нього рисові зерна.
+- EN :: Farmers in this area grow rice plants and produce rice grain from them.
+- FOCUS :: 稲を育てて
+*** ex-1167820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 稲作は日本の文化や祭りに深く関わっており、田んぼの風景は地域の象徴として親しまれています。
+- READING :: いなさくはにほんのぶんかやまつりにふかくかかわっており、たんぼのふうけいはちいきのしょうちょうとしてしたしまれています。
+- ROMAJI :: Inasaku wa Nihon no bunka ya matsuri ni fukaku kakawatte ori, tanbo no fuukei wa chiiki no shouchou to shite shitashimarete imasu.
+- UK :: Вирощування рису тісно пов'язане з японською культурою та фестивалями, а краєвиди рисових полів люблять як символ регіону.
+- EN :: Rice cultivation is deeply connected with Japanese culture and festivals, and the scenery of the paddies is cherished as a symbol of the region.
+- FOCUS :: 稲作は
+
+* Sense s-1167820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b9a29232d2579a5885b2e831755b2210e558813fdc91565fbd8a86f110fafa15
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijst
+*** en-s-1167820-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijstplant
+** Ukrainian glosses
+
+* Sense s-1167820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 283984bbc9be382ff15e83a510106d27c30e8f59d05ce490ce9175276be4cf3d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: padie
+*** en-s-1167820-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijst die op de velden staat
+*** en-s-1167820-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijst in de aren van de rijstplant
+** Ukrainian glosses
+
+* Sense s-1167820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4f79f546d393d05ed5ce0fa7dc0cbf89a62dc8795289c8fa81b6e7193548f478
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: un plant de riz
+** Ukrainian glosses
+
+* Sense s-1167820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c55da78da3a9763d36bc513c88d038b93976b3b1b860d8c617d0dd23b0a85513
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reis
+*** en-s-1167820-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reispflanze
+*** en-s-1167820-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oryza sativa
+** Ukrainian glosses
+
+* Sense s-1167820-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 12166fd4f3bdf95b42cfd16445d8845d65c7f1a0a597ea5274c2453cc2c4c93d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рис (на корню)
+** Ukrainian glosses
+
+* Sense s-1167820-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 76adaf2b2dbb1e582b6721ac60b3cbacf033f0931b8d7818baf01741889c62f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: riževa sadika
+** Ukrainian glosses
+
+* Sense s-1167820-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2050bdbc4e5c136918821cd71df8beff9b214f430915d83b4275c8d025f07bfb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1167820-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: planta de arroz
+** Ukrainian glosses

@@ -1,0 +1,848 @@
+#+TITLE: 移す
+#+JMDICT_ID: 1158160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うつす
+#+ROMAJI: utsusu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-29
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1158160-001
+:PROPERTIES:
+:TEXT: 移す
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Written form wf-1158160-002
+:PROPERTIES:
+:TEXT: 遷す
+:END:
+*** Information
+- rK
+** Reading rd-1158160-001
+:PROPERTIES:
+:TEXT: うつす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1158160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c640644d11a2bd11d53ddd48edc9dee215d9e2a261101feb880cf73ce37a0078
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to transfer (to a different place, group, etc.)
+- to change
+- to move (something)
+- to swap
+- to substitute
+- to relocate
+** Ukrainian glosses
+*** uk-s-1158160-001-001
+:PROPERTIES:
+:END:
+- text :: переміщати, переносити (на інше місце)
+*** uk-s-1158160-001-002
+:PROPERTIES:
+:END:
+- text :: переводити, пересаджувати
+** Learner notes
+*** note-s-1158160-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово ґодан на -す (перехідна пара до 移る / utsuru — переміщатися):
+- Омофони дієслова うつす:
+  - 移す: переносити на інше місце, втілювати (実行に移す), заражати хворобою (風邪をうつす).
+  - 写す: копіювати, переписувати, фотографувати (写真を写す).
+  - 映す: віддзеркалювати, проєктувати (鏡に映す).
+- Основні значення:
+  1. Переміщати в інше місце / посуд (荷物を別の部屋に移す, スープを皿に移す).
+  2. Втілювати в дію (значення 2: 実行に移す).
+  3. Переводити погляд / увагу (значення 3: 視線を移す).
+  4. Заражати інфекцією (значення 5: 風邪をうつす).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1158160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 料理を綺麗なお皿に移しました。
+- READING :: りょうりをきれいなおさらにうつしました。
+- ROMAJI :: Ryouri o kirei na osara ni utsushimashita.
+- UK :: Я переклав страву на гарну тарілку.
+- EN :: I transferred the dish onto a pretty plate.
+- FOCUS :: お皿に移しました
+*** ex-1158160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: formal
+:END:
+- JA :: 新規事業の立ち上げに向けて入念に練り上げた事業計画をいよいよ実行に移す段階に入り、関係部署が一体となって準備を進めています。
+- READING :: しんきじぎょうのたちあげにむけてにゅうねんにねりあげたじぎょうけいかくをいよいよじっこうにうつすだんかいにはいり、かんけいぶしょがいったいとなってじゅんびをすすめています。
+- ROMAJI :: Shinki jigyou no tachiage ni mukete nyuunen ni neriageta jigyou keikaku o iyoiyo jikkou ni utsusu dankai ni hairi, kankei busho ga ittai to natte junbi o susumete imasu.
+- UK :: Бізнес-план нового проєкту переходить до стадії втілення в життя, і всі відділи спільно ведуть підготовку.
+- EN :: Entering the stage of finally putting the carefully prepared business plan into action, all departments are preparing together.
+- FOCUS :: 実行に移す段階に入り
+*** ex-1158160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 首都圏への過度な人口集中と経済格差を是正するため、政府機関や研究施設の一部を地方都市へ移す分散型国土形成政策が本格的に議論されています。
+- READING :: しゅとけんへのかどなじんこうしゅうちゅうとけいざいかくさをぜせいするため、せいふきかんやけんきゅうしせつのいちぶをちほうとしへうつすぶんさんがたこくどけいせいせいさくがほんかくてきにぎろんされています。
+- ROMAJI :: Shutoken e no kado na jinkou shuuchuu to keizai kakusa o zesei suru tame, seifu kikan ya kenkyuu shisetsu no ichibu o chihou toshi e utsusu bunsangata kokudo keisei seisaku ga honkakuteki ni giron sarete imasu.
+- UK :: Для зменшення перенаселення столиці та вирівнювання економіки обговорюють політику перенесення частини держустанов до регіонів.
+- EN :: To ease overconcentration in Tokyo and economic gaps, policies for decentralization by transferring state agencies to regional cities are being actively debated.
+- FOCUS :: 地方都市へ移す分散型国土
+
+* Sense s-1158160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c5a115f8203f9b678a843a258b1d22ea566c011e5caa6a291f480b78a8f20785
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Cross-references
+- 実行に移す
+** English glosses
+- to move to the next stage (of a plan, etc.)
+** Ukrainian glosses
+*** uk-s-1158160-002-001
+:PROPERTIES:
+:END:
+- text :: переходити (до реалізації, втілення: 実行に移す — втілювати в життя)
+
+* Sense s-1158160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: efe1ace1fe11473ed2760068e3827409c86af31b2117c63e090540aa817bacc1
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to divert (one's attention) to
+- to focus on (something different)
+** Ukrainian glosses
+*** uk-s-1158160-003-001
+:PROPERTIES:
+:END:
+- text :: переводити, перемикати (погляд, увагу, інтерес: 視線・関心を移す)
+
+* Sense s-1158160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cd4694ad04dbb0ac21023bf69bf0b28fc735b98d56bdc576899fa23f59c82c34
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to spend (time)
+- to let (time) pass
+** Ukrainian glosses
+*** uk-s-1158160-004-001
+:PROPERTIES:
+:END:
+- text :: проводити, гаяти (час: 時を移す)
+
+* Sense s-1158160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c98a6c85d2558413af7c31fe09f598657a3972a735f1700edd0661bbb06baaeb
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Miscellaneous and register
+- uk
+*** Sense information
+- occ. written 感染す or 伝染す
+*** Cross-references
+- 風邪をうつす
+** English glosses
+- to infect (someone)
+- to spread (an infection)
+- to pass (a disease)
+** Ukrainian glosses
+*** uk-s-1158160-005-001
+:PROPERTIES:
+:END:
+- text :: заражати (хворобою: 風邪をうつす)
+
+* Sense s-1158160-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: af7550fb4ffa87f7642c437a16676853cef9f6406c735d3b32aa58982fb3d06b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to permeate (something; with a color or smell)
+- to infuse
+- to let soak (into)
+** Ukrainian glosses
+*** uk-s-1158160-006-001
+:PROPERTIES:
+:END:
+- text :: просочувати (запахом, барвою: 香りを移す)
+
+* Sense s-1158160-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 70e293840a07edd059555de88c32db83a2e2502e3e0da55e1e2d0d85bd818911
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in zijn geheel op een andere plaats} zetten
+*** en-s-1158160-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verplaatsen
+*** en-s-1158160-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verschuiven
+** Ukrainian glosses
+
+* Sense s-1158160-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 03da4459753db956e369dcfffe0ee14fbcbd93d50d4a9990bf4e4037d5c89100
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overgieten
+*** en-s-1158160-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overschenken
+*** en-s-1158160-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schenken
+** Ukrainian glosses
+
+* Sense s-1158160-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a319bbb6915ff11382f341a62789eb30b1afb4ad76be14d780fc0c0f320d6a86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {een gerechtszaak} overbrengen
+*** en-s-1158160-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overdragen
+** Ukrainian glosses
+
+* Sense s-1158160-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9ffcd37b1dc94eb98d1aaa190bfc897a85351a4470fc2fbcd0f1370a4122a2fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een andere richting
+*** en-s-1158160-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wending geven
+*** en-s-1158160-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afleiden
+** Ukrainian glosses
+
+* Sense s-1158160-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 658962767adf1607afa8dd40604c5cb3026cb4d5030621f048f34b275b1c3060
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {病気を} overdragen
+*** en-s-1158160-011-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen overgaan
+*** en-s-1158160-011-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infecteren met
+*** en-s-1158160-011-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aansteken
+** Ukrainian glosses
+
+* Sense s-1158160-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: b801276afdd5825588344ca28f3002b8b5c1c0938f1bafeb1f114db068e58dca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-012-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: déplacer
+*** en-s-1158160-012-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infecter
+*** en-s-1158160-012-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retirer
+*** en-s-1158160-012-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transporter
+** Ukrainian glosses
+
+* Sense s-1158160-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: c41a000023fd9d5facec64756569508dcca9c28090799a7d54a624d83bf228ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlegen
+*** en-s-1158160-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umstellen
+** Ukrainian glosses
+
+* Sense s-1158160-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 2ffd163f41ebcadeaa670e14da56f28121b09ad2272dfd9778441bd310e2ca13
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (Personal) versetzen
+** Ukrainian glosses
+
+* Sense s-1158160-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: b7e3028264634c8a256f028ea23a2993df4bf7301c34799b8f7198aed371dbea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die Richtung ändern
+** Ukrainian glosses
+
+* Sense s-1158160-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 8aa6c8e9bd890caa899ba82c8fd91fa0147edb795df96403152798efbf74f9f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-016-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmd.anstecken
+*** en-s-1158160-016-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Krankheit weitergeben
+** Ukrainian glosses
+
+* Sense s-1158160-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 43f44851fb75d9627e1121e7cd13f0cbbedd7b724e48c91c175290c0e343b457
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-017-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (Zeit) verbringen
+** Ukrainian glosses
+
+* Sense s-1158160-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: bbd0fdb729846056af110f24233dfbac233a775b464deaac49eab076106c735e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-018-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (Farbe od. Geruch auf eine andere Sache) übertragen
+** Ukrainian glosses
+
+* Sense s-1158160-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 808422e110f929893b772007c0d1d2f60ea7538673774adb272b6b866eae9078
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-019-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áthelyez
+*** en-s-1158160-019-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átmásol
+*** en-s-1158160-019-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átruház
+*** en-s-1158160-019-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átszáll
+*** en-s-1158160-019-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átszállít
+*** en-s-1158160-019-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átutal
+*** en-s-1158160-019-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átvisz
+*** en-s-1158160-019-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmételyez
+** Ukrainian glosses
+
+* Sense s-1158160-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 74f2d6ac35b1f28848c162391516c7565e92f60e64ba8d90bb865a73841aeab9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-020-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) перемещать; переносить (на другое место); отправлять, переводить (куда-л.); направлять (куда-л., на что-л. другое)
+*** en-s-1158160-020-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) переливать; пересаживать
+*** en-s-1158160-020-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) заражать
+** Ukrainian glosses
+
+* Sense s-1158160-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 7b632948a85ae24c3394c7a05b64aa7b654ced9b220be9ad8d089a8403e46c85
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-021-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mover de sitio
+*** en-s-1158160-021-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambiar de sitio
+*** en-s-1158160-021-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trasladar
+*** en-s-1158160-021-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trasvasar
+*** en-s-1158160-021-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contagiar
+*** en-s-1158160-021-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transmitir
+*** en-s-1158160-021-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transformar
+*** en-s-1158160-021-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambiar
+*** en-s-1158160-021-009
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambiar
+*** en-s-1158160-021-010
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sustituir
+*** en-s-1158160-021-011
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transferir
+** Ukrainian glosses
+
+* Sense s-1158160-022
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 22
+:SOURCE_FINGERPRINT: df84f55f14edaae537c4d973c419d9a9f7cbd08fa310f9cb32b1d05dd5eef50e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-022-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambiar el objeto del interés de uno o el enfoque
+** Ukrainian glosses
+
+* Sense s-1158160-023
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 23
+:SOURCE_FINGERPRINT: 6e21e1733cf0a0d6c7df1bb383a4d825add320c6dd50b06df7468d049fb82706
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-023-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pasar o tomar tiempo
+** Ukrainian glosses
+
+* Sense s-1158160-024
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 24
+:SOURCE_FINGERPRINT: 6afd06400782898a01d0ba4bf4147331bc6716e4b5b744efffc03106fa0394a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-024-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infectar
+** Ukrainian glosses
+
+* Sense s-1158160-025
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 25
+:SOURCE_FINGERPRINT: 953b73f9ae3437d9a9a98f89c3272398c5435bd00db64cfc065882349638a3d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-025-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: permear algo con el olor o color de algo
+** Ukrainian glosses
+
+* Sense s-1158160-026
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 26
+:SOURCE_FINGERPRINT: 16c58fada2dd012d06617fb7954ab5ecc64f9e9ee940f2cc482f68a4c1ca9281
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158160-026-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mover a la siguiente o etapa diferente de (un plan, etc.)
+** Ukrainian glosses

@@ -1,0 +1,842 @@
+#+TITLE: 表す
+#+JMDICT_ID: 1263490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あらわす
+#+ROMAJI: arawasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1263490-001
+:PROPERTIES:
+:TEXT: 表す
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf36
+** Written form wf-1263490-002
+:PROPERTIES:
+:TEXT: 現す
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf46
+** Written form wf-1263490-003
+:PROPERTIES:
+:TEXT: 表わす
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1263490-004
+:PROPERTIES:
+:TEXT: 現わす
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1263490-005
+:PROPERTIES:
+:TEXT: 顕す
+:END:
+** Written form wf-1263490-006
+:PROPERTIES:
+:TEXT: 露す
+:END:
+*** Information
+- sK
+** Reading rd-1263490-001
+:PROPERTIES:
+:TEXT: あらわす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf36
+- nf46
+
+* Sense s-1263490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e9d3bd1ae20e86175d0e0d0d088c19928954240bae767f80b634f1d7b1279d87
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Sense information
+- esp. 表す, 表わす
+** English glosses
+- to represent
+- to signify
+- to stand for
+** Ukrainian glosses
+*** uk-s-1263490-001-001
+:PROPERTIES:
+:END:
+- text :: позначати, символізувати
+*** uk-s-1263490-001-002
+:PROPERTIES:
+:END:
+- text :: уособлювати, означати
+** Learner notes
+*** note-s-1263490-001-001
+:PROPERTIES:
+:END:
+- UK :: Багатозначне перехідне дієслово 1-ї дієвідміни (godan):
+- Кандзі та відтінки значень:
+  1. 表す / 表わす:
+     - Символізувати, позначати (значення 1: 記号が意味を表す — символ позначає зміст).
+     - Виражати словами / діями (значення 3: 感謝の気持ちを表す — висловлювати подяку).
+  2. 現す / 現わす:
+     - Показувати, виявляти назовні (значення 2: 姿を現す — з'являтися, показуватися).
+  3. 顕す:
+     - Уславлювати ім'я або подвиг (значення 4: 名を顕す).
+- Парне неперехідне: 現れる / 表れる (arawareru — з'являтися, проявлятися).
+- Не плутайте з омофоном 著す (arawasu — писати книгу).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1263490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この地図の記号は病院を表しています。
+- READING :: このちずのきごうはびょういんをあらわしています。
+- ROMAJI :: Kono chizu no kigou wa byouin o arawashite imasu.
+- UK :: Цей значок на карті позначає лікарню.
+- EN :: This symbol on the map represents a hospital.
+- FOCUS :: 病院を表して
+*** ex-1263490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お世話になった先生方に感謝の気持ちを表すため、卒業生一同で手紙とお花を贈ることに決めました。
+- READING :: おせわになったせんせいがたにかんしゃのきもちをあらわすため、そつぎょうせいいちどうでてがみとおはなをおくることにきめました。
+- ROMAJI :: Osewa ni natta senseigata ni kansha no kimochi o arawasu tame, sotsugyousei ichidou de tegami to ohana o okuru koto ni kimemashita.
+- UK :: Щоби висловити подяку вчителям за турботу, усі випускники вирішили подарувати їм листи й квіти.
+- EN :: To express our gratitude to the teachers who took care of us, all graduates decided to send letters and flowers.
+- FOCUS :: 感謝の気持ちを表すため
+*** ex-1263490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 古代の人々が洞窟の壁面に遺した絵画や幾何学的な文様は、当時の豊かな自然観や畏怖の念を鮮やかに表しており、現代の考古学者に多くの示唆を与えています。
+- READING :: こだいのひとびとがどうくつのへきめんにのこしたかいがやきかがくてきなもんようは、とうじのゆたかなしぜんかんやいふのねんをあざやかにあらわしており、げんだいのこうこがくしゃにおおくのしさをあたえています。
+- ROMAJI :: Kodai no hitobito ga doukutsu no hekimen ni nokoshita kaiga ya kikagakuteki na monyou wa, touji no yutaka na shizenkan ya ifu no nen o azayaka ni arawashite ori, gendai no koukogakusha ni ooku no shisa o ataete imasu.
+- UK :: Малюнки та геометричні візерунки, залишені давніми людьми на стінах печер, яскраво відображають тогочасні уявлення про природу й побожний трепет перед нею, даючи багато підказок сучасним археологам.
+- EN :: The paintings and geometric patterns left by ancient humans on cave walls vividly represent their views on nature and sense of awe at that time, offering many insights to modern archaeologists.
+- FOCUS :: 鮮やかに表しており
+
+* Sense s-1263490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 970d3584fa2b2c2e96c536305400abf4113d1a843dfdf4a4eab18a203c0cc7e6
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Sense information
+- esp. 現す, 現わす
+** English glosses
+- to reveal
+- to show
+- to display
+** Ukrainian glosses
+*** uk-s-1263490-002-001
+:PROPERTIES:
+:END:
+- text :: показувати, виявляти, показуватися (姿を現す — з'являтися)
+- qualifier :: особливо 現す, 現わす
+
+* Sense s-1263490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eb2734d516030afd977779cfac93d61c1f6ede5dfb265a8a3413fe28c2980ebb
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Sense information
+- esp. 表す, 表わす
+*** Cross-references
+- 言い表す・1
+** English glosses
+- to express
+** Ukrainian glosses
+*** uk-s-1263490-003-001
+:PROPERTIES:
+:END:
+- text :: виражати, висловлювати (почуття, думки)
+- qualifier :: особливо 表す, 表わす
+
+* Sense s-1263490-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fdc0184d53798ffabd246549be00a08bcd2101da7108c1898a201751ba526cd8
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Sense information
+- esp. 顕す
+** English glosses
+- to make widely known
+** Ukrainian glosses
+*** uk-s-1263490-004-001
+:PROPERTIES:
+:END:
+- text :: уславлювати, робити широко відомим (名を顕す)
+- qualifier :: особливо 顕す
+
+* Sense s-1263490-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7e87773073dace5549536c9ac848f9dda5e4605f3c5c0ceef05989862f64b99a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen verschijnen
+*** en-s-1263490-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tevoorschijn doen komen
+*** en-s-1263490-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {栄光を〜} bewijzen
+*** en-s-1263490-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {姿を〜} tevoorschijn treden
+*** en-s-1263490-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komen aanzetten
+*** en-s-1263490-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opdagen
+*** en-s-1263490-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} komen aankakken
+*** en-s-1263490-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tonen
+*** en-s-1263490-005-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laten zien
+*** en-s-1263490-005-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afbeelden
+** Ukrainian glosses
+
+* Sense s-1263490-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: baeb85c988cd5d442e07fe4b36bbd98e1ff86a30ca2e7576accef1ed6803f053
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitdrukken
+*** en-s-1263490-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanduiden
+*** en-s-1263490-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beduiden
+** Ukrainian glosses
+
+* Sense s-1263490-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2cf901fdcdb38d7dbc49c0a95579fad9be16b4bebc2f7db57db3c96a876b1486
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exprimer
+*** en-s-1263490-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indiquer
+*** en-s-1263490-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: montrer
+*** en-s-1263490-007-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: représenter
+** Ukrainian glosses
+
+* Sense s-1263490-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2140e542381c7aac379b6b80c572f6b793523850504a86998d32351e37975648
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zeigen (z.B. Gefühle)
+*** en-s-1263490-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zur Schau stellen
+*** en-s-1263490-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zum Ausdruck bringen
+*** en-s-1263490-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entfalten
+** Ukrainian glosses
+
+* Sense s-1263490-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 049d38f329df6fb8142d9831c06b3aa78b713f07f46064cbe5ac6bc09eb426e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enthüllen
+*** en-s-1263490-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entlarven
+*** en-s-1263490-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offenbaren
+*** en-s-1263490-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verraten
+*** en-s-1263490-009-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ans Licht bringen
+** Ukrainian glosses
+
+* Sense s-1263490-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0ee577fd34f8c6c0e7b1c4bfcb1d53ba395423afd8c0639544d75412b6d11bf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekannt geben
+*** en-s-1263490-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schreiben
+*** en-s-1263490-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herausgeben
+*** en-s-1263490-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veröffentlichen
+*** en-s-1263490-010-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (sich) ausdrücken
+** Ukrainian glosses
+
+* Sense s-1263490-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: bfc198e752ebb918ecc016b3e297c04d8dbc28136ea3740025ae65ea6e61af9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kilátszik
+*** en-s-1263490-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimutat
+*** en-s-1263490-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: látható
+*** en-s-1263490-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: látszik vminek
+*** en-s-1263490-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmutat
+*** en-s-1263490-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutat
+*** en-s-1263490-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vezet
+*** en-s-1263490-011-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelez
+*** en-s-1263490-011-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bemutat
+*** en-s-1263490-011-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bizonyságot tesz
+*** en-s-1263490-011-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elárul
+*** en-s-1263490-011-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fitogtat
+*** en-s-1263490-011-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiállít
+*** en-s-1263490-011-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: láttat
+*** en-s-1263490-011-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutogat
+*** en-s-1263490-011-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: igazol
+*** en-s-1263490-011-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimutat
+*** en-s-1263490-011-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmutat
+** Ukrainian glosses
+
+* Sense s-1263490-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: fe3ed7629443d7d6e175eb70205020eb25ebb45a961ef81380b01e0fffb563aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) выражать, проявлять, выказывать; выявлять, обнаруживать
+*** en-s-1263490-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) выражать, означать
+** Ukrainian glosses
+
+* Sense s-1263490-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 2d1f39130984af4b5ec87152a44ad48cb0a6f28181f3040e98ae926d41d45f96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izraziti
+*** en-s-1263490-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izražati
+*** en-s-1263490-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pokazati
+** Ukrainian glosses
+
+* Sense s-1263490-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 3dd808c0b763cc0ad5e2a149e8bc95c3e14fdeb77d32b0880d8ec53fa27f097e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263490-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mostrar
+*** en-s-1263490-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expresar
+*** en-s-1263490-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: demostrar
+*** en-s-1263490-014-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mostrar
+*** en-s-1263490-014-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indicar
+*** en-s-1263490-014-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desplegar
+*** en-s-1263490-014-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expresar
+*** en-s-1263490-014-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mostrar
+*** en-s-1263490-014-009
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: revelar
+*** en-s-1263490-014-010
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: difundir
+*** en-s-1263490-014-011
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dar a conocer
+*** en-s-1263490-014-012
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hacer público
+*** en-s-1263490-014-013
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: divulgar
+** Ukrainian glosses

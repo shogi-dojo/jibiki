@@ -82,4 +82,4 @@ this project and are licensed CC BY-SA 4.0 (see LICENSE). Each carries
 `:SOURCE_TYPE:`, `:TRANSLATOR_ID:` or `:AUTHOR_ID:`, and `:LICENSE:` metadata
 recording its provenance.
 
-- **Transliteration Policy**: We do NOT use the Polivanov system for Ukrainian text. We mimic the Japanese reading directly (e.g., шьоґі, ґо, шьоґун, суші, чібі, чян). See `docs/transliteration-rules.md` for details.
+- **Transliteration Policy**: We do NOT use the Polivanov system for Ukrainian text. We mimic the Japanese reading directly (e.g., шьоґі, ґо, шьоґун, суші, чібі, чян). See `docs/transliteration-rules.md`, which points to the authoritative policy in `meijin/shared/transliteration.md`, enforced by the `yanagi` gem.

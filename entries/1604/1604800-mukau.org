@@ -1,0 +1,800 @@
+#+TITLE: 向かう
+#+JMDICT_ID: 1604800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むかう
+#+ROMAJI: mukau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1604800-001
+:PROPERTIES:
+:TEXT: 向かう
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf23
+** Written form wf-1604800-002
+:PROPERTIES:
+:TEXT: 向う
+:END:
+** Written form wf-1604800-003
+:PROPERTIES:
+:TEXT: 対う
+:END:
+*** Information
+- rK
+** Reading rd-1604800-001
+:PROPERTIES:
+:TEXT: むかう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf23
+
+* Sense s-1604800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 414688fa66f391160e2f6f609112ee543c58fdfd126076584cf4ec6a01ea09c5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+** English glosses
+- to face
+** Ukrainian glosses
+*** uk-s-1604800-001-001
+:PROPERTIES:
+:END:
+- text :: бути поверненим до, стояти перед
+- qualifier :: обличчям до когось/чогось (частка に)
+*** uk-s-1604800-001-002
+:PROPERTIES:
+:END:
+- text :: сидіти перед
+- qualifier :: 机に向かう (сідати за стіл, займатися справами)
+** Learner notes
+*** note-s-1604800-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслово 向かう (むかう) є неперехідним дієсловом I дієвідміни (godan) і має два основних вжитки: 1) просторово-статичний — «бути поверненим обличчям до чогось, сидіти навпроти чи перед чимось» (наприклад, 鏡に向かう — «стояти перед дзеркалом», 机に向かう — «сідати за стіл до навчання / роботи»); 2) просторово-динамічний (значення 2) — «прямувати, рухатися в бік чогось» (наприклад, 空港に向かう — «рушати в аеропорт»). Об'єкт або орієнтир позначається частками に або へ.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1604800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎晩、机に向かって日本語を勉強しています。
+- READING :: まいばん、つくえにむかってにほんごをべんきょうしています。
+- ROMAJI :: Maiban, tsukue ni mukatte Nihongo o benkyou shite imasu.
+- UK :: Щовечора я сідаю за стіл і вчу японську мову.
+- EN :: Every evening, I sit at my desk and study Japanese.
+- FOCUS :: 向かって
+*** ex-1604800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早く家を出て、駅へ向かって歩き始めました。
+- READING :: あさはやくいえをでて、えきへむかってあるきはじめました。
+- ROMAJI :: Asa hayaku ie o dete, eki e mukatte arukihajimemashita.
+- UK :: Рано-вранці я вийшов з дому й пішов у напрямку станції.
+- EN :: I left home early in the morning and started walking toward the station.
+- FOCUS :: 向かって
+*** ex-1604800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 台風は勢力を強めながら、北西に向かって進んでいます。
+- READING :: たいふうはせいりょくをつよめながら、ほくせいにむかってすすんでいます。
+- ROMAJI :: Taifuu wa seiryoku o tsuyomenagara, hokusei ni mukatte susunde imasu.
+- UK :: Тайфун, набираючи силу, рухається на північний захід.
+- EN :: The typhoon is moving northwest while gaining strength.
+- FOCUS :: 向かって
+
+* Sense s-1604800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 57b17c27a6c49bb8188a35171c230fe8498444a797085c0a8fec95a8c53617df
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+** English glosses
+- to go towards
+- to head towards
+** Ukrainian glosses
+*** uk-s-1604800-002-001
+:PROPERTIES:
+:END:
+- text :: прямувати, вирушати
+- qualifier :: у бік місця призначення (частка に або へ)
+*** uk-s-1604800-002-002
+:PROPERTIES:
+:END:
+- text :: тримати курс, прямувати назустріч
+
+* Sense s-1604800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 278fb8e2a6d6934218283991b83e74a144d216b91dbf3aad40d316219e6c3e3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staan tegenover
+*** en-s-1604800-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitzien op
+*** en-s-1604800-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitkijken op
+*** en-s-1604800-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het gezicht toekeren
+*** en-s-1604800-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanzitten aan {de dis enz.}
+** Ukrainian glosses
+
+* Sense s-1604800-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e36640a4961ce13ef98e00b7578c6ae44c25fbf392cc2839b666cfb61337ac8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gaan in de richting van
+*** en-s-1604800-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trekken naar
+*** en-s-1604800-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertrekken naar
+*** en-s-1604800-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich begeven naar
+*** en-s-1604800-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: op weg gaan naar
+*** en-s-1604800-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weggaan naar
+*** en-s-1604800-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanlopen op
+*** en-s-1604800-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afgaan op
+*** en-s-1604800-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afkomen op
+*** en-s-1604800-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aangaan op
+*** en-s-1604800-004-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afstevenen op
+*** en-s-1604800-004-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanhouden op
+*** en-s-1604800-004-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aansturen op
+*** en-s-1604800-004-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegemoet gaan
+*** en-s-1604800-004-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich keren tot
+** Ukrainian glosses
+
+* Sense s-1604800-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8eaf9d7dc62586bb5927025717d6dd8127d548ef0d1561b6b5c252b5b4b4c6df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: worden
+*** en-s-1604800-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naderen
+*** en-s-1604800-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nabij zijn
+** Ukrainian glosses
+
+* Sense s-1604800-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 98ba218b12e8118a0019f053c9da454401da5fce8b411ce5fc2668b17a778835
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegen {de wind enz.} in gaan
+*** en-s-1604800-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trotseren
+*** en-s-1604800-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich keren tegen
+*** en-s-1604800-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: er op losgaan
+*** en-s-1604800-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanvallen
+*** en-s-1604800-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oprukken naar
+** Ukrainian glosses
+
+* Sense s-1604800-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d782ea05d7bd94afbc2dcdaf4490cc75e8c13929a561a163d59c83e3541f1445
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: être en face de
+*** en-s-1604800-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faire face à
+** Ukrainian glosses
+
+* Sense s-1604800-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 00da441f9635aaac35de75972a43281e129ec661a166d065a8ba5088fef28903
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: progresser vers
+*** en-s-1604800-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se diriger vers
+** Ukrainian glosses
+
+* Sense s-1604800-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b3f0f42811754b858824984649d81552e38a93c60c6c14acaacb07b33d55f076
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nach … gerichtet sein
+*** en-s-1604800-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich zuwenden
+*** en-s-1604800-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich richten nach
+** Ukrainian glosses
+
+* Sense s-1604800-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 14b6d9c3951737bc47132af6afe346f8818be22e251abedb39ec46679ff96309
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gehen
+*** en-s-1604800-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fahren
+*** en-s-1604800-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fliegen
+*** en-s-1604800-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: den Weg einschlagen nach …
+** Ukrainian glosses
+
+* Sense s-1604800-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3521d5eaf2d8fd2a96efda3f167235ae8620510b0554d1b73fd3a187428586c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neigen
+*** en-s-1604800-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tendieren
+*** en-s-1604800-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Tendenz haben
+** Ukrainian glosses
+
+* Sense s-1604800-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 0d324c61c709b026e463c3a10e99a9050d7189874aa985f6cfce2f03c98f39bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich widersetzen
+*** en-s-1604800-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: widerstehen
+*** en-s-1604800-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Widerstand leisten
+*** en-s-1604800-012-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entgegentreten
+*** en-s-1604800-012-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich entgegenstellen
+*** en-s-1604800-012-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: losgehen auf
+** Ukrainian glosses
+
+* Sense s-1604800-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: a9b7e0be5488b09275d55b5c94cfb30bd8fa0fab18befa867b8f784890eaf278
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szembenéz vmivel
+** Ukrainian glosses
+
+* Sense s-1604800-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 3b7e8816e7cb64a3782dc4f3b0656564a62a3d03973d28382d8b4042ca4858b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть обращённым (куда-л.)
+*** en-s-1604800-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обращаться2) отправляться
+*** en-s-1604800-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: идти
+*** en-s-1604800-014-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: развиваться (в каком-л. направлении)
+*** en-s-1604800-014-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) быть обращённым (куда-л.); обращаться (к кому-л.) ((ср.) むかって 2)
+*** en-s-1604800-014-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) идти против (кого-чего-л.); идти на (кого-что-л.)
+*** en-s-1604800-014-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) направляться, отправляться
+*** en-s-1604800-014-008
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) развиваться в (каком-л.) направлении; приближаться (к чему-л.)
+** Ukrainian glosses
+
+* Sense s-1604800-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: f344476612cf13791522d8dcc079b0d456ef7c41efbd4a8421cb6667922c0aa2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti obrnjen k
+*** en-s-1604800-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: na
+*** en-s-1604800-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gledati na
+*** en-s-1604800-015-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (od)iti v smer proti
+*** en-s-1604800-015-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nameriti se proti
+*** en-s-1604800-015-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti na poti k
+** Ukrainian glosses
+
+* Sense s-1604800-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: e14e3bc66c23cabe3339bcd19961a95c0c95645590e600c5b40627fe3e163565
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604800-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: encarar
+*** en-s-1604800-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ir hacia
+** Ukrainian glosses

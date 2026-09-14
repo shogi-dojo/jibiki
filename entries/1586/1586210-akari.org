@@ -1,0 +1,944 @@
+#+TITLE: 明かり
+#+JMDICT_ID: 1586210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あかり
+#+ROMAJI: akari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1586210-001
+:PROPERTIES:
+:TEXT: 明かり
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf15
+** Written form wf-1586210-002
+:PROPERTIES:
+:TEXT: 灯り
+:END:
+*** Priorities
+- spec2
+** Written form wf-1586210-003
+:PROPERTIES:
+:TEXT: 灯火
+:END:
+*** Information
+- sK
+** Written form wf-1586210-004
+:PROPERTIES:
+:TEXT: 灯
+:END:
+*** Information
+- sK
+** Written form wf-1586210-005
+:PROPERTIES:
+:TEXT: 灯かり
+:END:
+*** Information
+- sK
+** Written form wf-1586210-006
+:PROPERTIES:
+:TEXT: 明り
+:END:
+*** Information
+- sK
+** Reading rd-1586210-001
+:PROPERTIES:
+:TEXT: あかり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf15
+- spec2
+
+* Sense s-1586210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 95d04c1a2ac58165383571f94795fd0c17247b802e8acb56aec75063d2ee1607
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 明かり
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- light
+- glow
+- gleam
+** Ukrainian glosses
+*** uk-s-1586210-001-001
+:PROPERTIES:
+:END:
+- text :: світло, сяйво, відблиск
+*** uk-s-1586210-001-002
+:PROPERTIES:
+:END:
+- text :: освітлення
+** Learner notes
+*** note-s-1586210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення світла від природних або штучних джерел:
+  1. Світло від сонця, місяця, свічки чи лампи:
+   - 明かりをつける (akari o tsukeru — засвітити світло / увімкнути світло)
+   - 明かりを消す (akari o kesu — вимкнути / загасити світло)
+   - 月の明かり (місячне сяйво)
+   - 部屋の明かり (світло в кімнаті).
+  2. Світильник, лампа чи вогник (значення 2, часто пишеться як 灯り або 灯火).
+  3. Доказ невинності (значення 3, застаріле: 身の明かり).
+- Порівняйте з 光 (hikari — фізичний промінь світла, сяйво) та 電気 (denki — електрика, світло від електромережі).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1586210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 暗くなったので部屋の明かりをつけました。
+- READING :: くらくなったのでへやのあかりをつけました。
+- ROMAJI :: Kuraku natta node heya no akari o tsukemashita.
+- UK :: Оскільки стемніло, я увімкнув світло в кімнаті.
+- EN :: As it grew dark, I turned on the light in the room.
+- FOCUS :: 明かりをつけました
+*** ex-1586210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜遅くに人気のない山道を歩いていた時、遠くに見えた民家の温かい明かりにホッと胸をなでおろしました。
+- READING :: よるおそくにひとけのないやまみちをあるいていたとき、とおくにみえたみんかのあたたかいあかりにほっとむねをなでおろしました。
+- ROMAJI :: Yoru osoku ni hitoke no nai yamamichi o aruite ita toki, tooku ni mieta minka no atatakai akari ni hotto mune o nadeoroshimashita.
+- UK :: Коли пізно ввечері я йшов безлюдною гірською стежкою, теплий вогник сільської хати вдалині сповнив мене полегшенням.
+- EN :: When walking along a deserted mountain road late at night, I felt relieved seeing the warm light of a house in the distance.
+- FOCUS :: 温かい明かりに
+*** ex-1586210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 停電が発生して街全体が深い闇に包まれる中、人々はスマートフォンのライトや懐中電灯のわずかな明かりを頼りに、互いに声を掛け合いながら安全な場所へと避難しました。
+- READING :: ていでんがはっせいしてまちぜんたいがふかいやみにつつまれるなか、ひとびとはすまーとふぉんのらいとやかいちゅうでんとうのわずかなあかりをたよりに、たがいにこえをかけあいながらあんぜんなばしょへとひなんしました。
+- ROMAJI :: Teiden ga hassei shite machi zentai ga fukai yami ni tsutsumareru naka, hitobito wa smartphone no light ya kaichuudentou no wazuka na akari o tayori ni, tagai ni koe o kakeai nagara anzen na basho e to hinan shimashita.
+- UK :: Під час аварійного вимкнення електрики, коли все місто огорнула темрява, люди, орієнтуючись лише на слабке світло кишенькових ліхтариків та телефонів, підтримували одне одного голосом і діставалися безпечних укриттів.
+- EN :: Amid a power outage that plunged the entire town into deep darkness, people relied on the faint glow of phone lights and flashlights, calling out to one another as they evacuated to safe locations.
+- FOCUS :: わずかな明かりを頼りに
+
+* Sense s-1586210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: edd0642985ca66bdfa862e69d4932750c814da6ee69ed2b028a22b06f1a7ad27
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- also written as 灯火
+** English glosses
+- (a) light
+- lights
+- lamp
+** Ukrainian glosses
+*** uk-s-1586210-002-001
+:PROPERTIES:
+:END:
+- text :: лампа, ліхтар, світильник, вогник (також 灯り / 灯火)
+
+* Sense s-1586210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 62b7ad344a14e82c176f7e8e879f1b9ea99fd2414e7f7b7f1b7a896b65253c04
+:END:
+** Applies to forms
+*** Written forms
+- 明かり
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- dated
+** English glosses
+- proof (of innocence)
+** Ukrainian glosses
+*** uk-s-1586210-003-001
+:PROPERTIES:
+:END:
+- text :: доказ невинності, виправдання
+- qualifier :: заст., у виразі 身の明かり
+
+* Sense s-1586210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c91ac6abd12da1c823b4c5a2c39ccafbcd67baf7eb4b810e4f7fca5b73b2e0f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: licht
+*** en-s-1586210-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schijn
+*** en-s-1586210-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schijnsel
+** Ukrainian glosses
+
+* Sense s-1586210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 65f823bf86e3fae585332b24b3f7abab14b3ed22184966368c902a44c80bd037
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lamplicht
+*** en-s-1586210-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lamp
+*** en-s-1586210-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlichting
+** Ukrainian glosses
+
+* Sense s-1586210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b9a20de6f64e5cd883112d0e078fab1842446d16d59fc06eb06cef5c3766b214
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klaarte
+*** en-s-1586210-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helderheid
+** Ukrainian glosses
+
+* Sense s-1586210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: fa21e1b188694fe33184b7a7c99c30eb32ac8a2dc362c2ad58b0ecafc713966c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opheldering
+*** en-s-1586210-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewijs
+*** en-s-1586210-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blijk
+** Ukrainian glosses
+
+* Sense s-1586210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9697742571a88a442b046e838d6114d9fc414b95d627a631af2356a633d1dd61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einde
+*** en-s-1586210-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: slot
+** Ukrainian glosses
+
+* Sense s-1586210-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 589ae1ee4ed85456f6b8c3628cb75e0b6e81d7ce3546efcace39075dcf0cd7cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {timmerlui-jargon} oog
+*** en-s-1586210-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} glimmerik
+*** en-s-1586210-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.} spanling
+*** en-s-1586210-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.
+*** en-s-1586210-009-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volkst.} lampjes
+*** en-s-1586210-009-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {volkst.} doppen
+** Ukrainian glosses
+
+* Sense s-1586210-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 1cacef959fb5c97e400b83cb68dacf7856c00ab2fcd1343fad116237829d2ef7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-010-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: clarté
+*** en-s-1586210-010-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lumière
+** Ukrainian glosses
+
+* Sense s-1586210-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 14c5109deece82fb38abf482c2b402d662d1800efce3b9fc03af7e45d5bf437a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Licht
+*** en-s-1586210-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schein
+*** en-s-1586210-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Helligkeit
+*** en-s-1586210-011-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heller Glanz
+** Ukrainian glosses
+
+* Sense s-1586210-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 5bbe8d35db814890e75000fa21632562a99d5d1acd9c830ea2eeb129e650040c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Licht
+*** en-s-1586210-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lampe
+** Ukrainian glosses
+
+* Sense s-1586210-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: ad6cb14e14ff1aa5ee7d49e3adc3b1545cf98989a3dd8b366e90bf47c284b345
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beweis (für die Unschuld)
+** Ukrainian glosses
+
+* Sense s-1586210-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: f8b3a75771ceb32be5b39bc38b5b56060e43a8407691d112b0f8d926fb48f73f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ablaknyílás
+*** en-s-1586210-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enyhe
+*** en-s-1586210-014-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényforrás
+*** en-s-1586210-014-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelentéktelen
+*** en-s-1586210-014-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jól megvilágított
+*** en-s-1586210-014-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyed
+*** en-s-1586210-014-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyedén
+*** en-s-1586210-014-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyen
+*** en-s-1586210-014-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: léha
+*** en-s-1586210-014-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem hangsúlyos
+*** en-s-1586210-014-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ragyogó
+*** en-s-1586210-014-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiszta
+*** en-s-1586210-014-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: üresen
+*** en-s-1586210-014-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: világos
+*** en-s-1586210-014-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: világosság
+*** en-s-1586210-014-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztaság
+*** en-s-1586210-014-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ablaknyílás
+*** en-s-1586210-014-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enyhe
+*** en-s-1586210-014-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényforrás
+*** en-s-1586210-014-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelentéktelen
+*** en-s-1586210-014-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jól megvilágított
+*** en-s-1586210-014-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyed
+*** en-s-1586210-014-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyedén
+*** en-s-1586210-014-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyen
+*** en-s-1586210-014-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lámpa
+*** en-s-1586210-014-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: léha
+*** en-s-1586210-014-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem hangsúlyos
+*** en-s-1586210-014-028
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ragyogó
+*** en-s-1586210-014-029
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiszta
+*** en-s-1586210-014-030
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: üresen
+*** en-s-1586210-014-031
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: világos
+*** en-s-1586210-014-032
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: világosság
+*** en-s-1586210-014-033
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztaság
+** Ukrainian glosses
+
+* Sense s-1586210-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 444727ff2db1b6c8ba27ba90d895654668d4d89b462baf01ac80abf2b3d53656
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: свет
+*** en-s-1586210-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: освещение
+*** en-s-1586210-015-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) свет
+*** en-s-1586210-015-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) лампа, освещение
+** Ukrainian glosses
+
+* Sense s-1586210-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: d605b8cd4e6999c6c13b68f1ccbf43e70c53b15e68f888f00dd7571457ce69a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-016-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luč
+*** en-s-1586210-016-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: svetloba
+** Ukrainian glosses
+
+* Sense s-1586210-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: f639bae63a23f6eb7269cecdb8210a572579010bf0febdf5ae14d829ed44c7b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-017-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luz
+*** en-s-1586210-017-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luz
+*** en-s-1586210-017-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: iluminación
+*** en-s-1586210-017-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alumbrado
+*** en-s-1586210-017-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luminosidad
+*** en-s-1586210-017-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luz de lámpara
+*** en-s-1586210-017-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luz (en general)
+*** en-s-1586210-017-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brillantez
+** Ukrainian glosses
+
+* Sense s-1586210-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: bfeadc731cb183de2225f6328888f33daf1ef3e5e581244eac8485077b8ddee3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1586210-018-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sken
+** Ukrainian glosses

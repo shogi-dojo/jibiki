@@ -1,0 +1,386 @@
+#+TITLE: 若し
+#+JMDICT_ID: 1012500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もし
+#+ROMAJI: moshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-08-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1012500-001
+:PROPERTIES:
+:TEXT: 若し
+:END:
+*** Information
+- rK
+** Reading rd-1012500-001
+:PROPERTIES:
+:TEXT: もし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- spec1
+
+* Sense s-1012500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eb50f7a3fe50b3caa9f587daf94e64b5db9346cf4bee69cd5ded601109f692ba
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- uk
+*** Sense information
+- with a conditional sentence
+** English glosses
+- if
+- in case
+- supposing
+** Ukrainian glosses
+*** uk-s-1012500-001-001
+:PROPERTIES:
+:END:
+- text :: якщо, коли
+- qualifier :: з умовними зворотами 〜たら, 〜ば, 〜なら
+*** uk-s-1012500-001-002
+:PROPERTIES:
+:END:
+- text :: у разі якщо, припустимо що
+** Learner notes
+*** note-s-1012500-001-001
+:PROPERTIES:
+:END:
+- UK :: Прислівник 若し (майже завжди пишеться каною もし / moshi) ставиться на початку умовного висловлювання для підсилення гіпотетичності («якщо, припустимо що»). Узгоджується з дієслівними та прикметниковими граматичними формами умови: 〜たら (-tara), 〜ば (-ba), 〜なら (-nara) або допустовими 〜ても (-temo — «навіть якщо»). Для підкреслення малоймовірної гіпотези («якби раптом») вживається форма もしも (moshimo).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1012500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: もし明日雨が降ったら、家にいます。
+- READING :: もしあしたあめがふったら、いえにいます。
+- ROMAJI :: Moshi ashita ame ga futtara, ie ni imasu.
+- UK :: Якщо завтра піде дощ, я залишуся вдома.
+- EN :: If it rains tomorrow, I will stay at home.
+- FOCUS :: もし
+*** ex-1012500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: もし困ったことがあれば、いつでも私に相談してください。
+- READING :: もしこまったことがあれば、いつでもわたしにそうだんしてください。
+- ROMAJI :: Moshi komatta koto ga areba, itsudemo watashi ni soudan shite kudasai.
+- UK :: Якщо виникнуть якісь проблеми, звертайтеся до мене будь-коли.
+- EN :: If you have any trouble, please feel free to consult with me anytime.
+- FOCUS :: もし
+*** ex-1012500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: もしタイムマシンがあったら、過去と未来のどちらへ行ってみたいですか。
+- READING :: もしたいむましんがあったら、かことみらいのどちらへいってみたいですか。
+- ROMAJI :: Moshi taimumashin ga attara, kako to mirai no dochira e itte mitai desu ka.
+- UK :: Якби у вас була машина часу, куди б ви хотіли помандрувати — в минуле чи в майбутнє?
+- EN :: If you had a time machine, would you like to go to the past or the future?
+- FOCUS :: もし
+
+* Sense s-1012500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d6845496ff0e5a912f24d41c86ed8bb56e2fcd2dddccc62fa4e35c0317cdf667
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indien ~
+*** en-s-1012500-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: als ~
+*** en-s-1012500-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zo ~
+*** en-s-1012500-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ingeval ~
+*** en-s-1012500-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in geval van ~
+*** en-s-1012500-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bij {brand enz.}
+*** en-s-1012500-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verondersteld dat ~
+*** en-s-1012500-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aangenomen dat ~
+*** en-s-1012500-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mits ~
+*** en-s-1012500-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: op voorwaarde dat ~
+*** en-s-1012500-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mocht ~
+*** en-s-1012500-002-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} moest ~
+** Ukrainian glosses
+
+* Sense s-1012500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c243e8f1a061725659e97087f3cc7ef65d3f1f3d291522ebc276fd034e007d1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: au cas où
+*** en-s-1012500-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: si
+** Ukrainian glosses
+
+* Sense s-1012500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8b5ee48ca95bbda26b4f144c51beb50f34cf8049766411609aa54ddf73e9e3d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wenn …
+*** en-s-1012500-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falls …
+*** en-s-1012500-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: im Falle, dass …
+*** en-s-1012500-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angenommen, dass …
+*** en-s-1012500-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vorausgesetzt, dass …
+** Ukrainian glosses
+
+* Sense s-1012500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6d72677c02f48d244bd0696f0fc2128c8059b53b983311f87e5f14f7967213ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feltéve, hogy
+** Ukrainian glosses
+
+* Sense s-1012500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9ef31fd63a79f7283845bea51feb1ab60924782700ebf1f80e8fad2afc599de0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: если; если бы; если же
+*** en-s-1012500-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ср.) もしも, もしや
+** Ukrainian glosses
+
+* Sense s-1012500-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5ec31efe80b2e949819dc466d3023d66c28ea63ee625cb9d88f16971e2106cb5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: si
+*** en-s-1012500-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: en caso de
+*** en-s-1012500-007-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: supuesto que
+** Ukrainian glosses
+
+* Sense s-1012500-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a7fc991d655365890fc5d2f749fed6fdd0cffd10613827138e074e633d87f9ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1012500-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: om
+*** en-s-1012500-008-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ifall
+** Ukrainian glosses

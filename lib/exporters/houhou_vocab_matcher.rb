@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "sequel"
+require "yanagi"
 
 module Exporters
   # Builds a lookup table from the Houhou KanjiDatabase VocabSet table so that
@@ -22,17 +23,15 @@ module Exporters
     KATA_END   = 0x30F6
     KATA_SHIFT = 0x60
 
-    # Convert a katakana string to hiragana (passthrough for everything else).
+    # Kana normalisation is provided by the yanagi gem, which owns the single
+    # implementation shared with the meijin repo. Kept as delegating wrappers
+    # so existing callers and tests keep their current entry point.
     def self.to_hiragana(str)
-      str.chars.map do |ch|
-        cp = ch.ord
-        (cp >= KATA_START && cp <= KATA_END) ? (cp - KATA_SHIFT).chr(Encoding::UTF_8) : ch
-      end.join
+      Yanagi::Normalize.to_hiragana(str)
     end
 
-    # NFKC-normalise a string (compatibility decomposition then canonical composition).
     def self.nfkc(str)
-      str.unicode_normalize(:nfkc)
+      Yanagi::Normalize.nfkc(str)
     end
 
     # Compute the lookup key used for matching.
