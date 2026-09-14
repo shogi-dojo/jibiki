@@ -1,0 +1,577 @@
+#+TITLE: 可
+#+JMDICT_ID: 1190710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: か
+#+ROMAJI: ka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1190710-001
+:PROPERTIES:
+:TEXT: 可
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Reading rd-1190710-001
+:PROPERTIES:
+:TEXT: か
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+
+* Sense s-1190710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 37348ecb87b77b5ad35d05c2e70c1bc328b27a4cd8f994a17094ce6dd43da422
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- acceptable
+- satisfactory
+- allowed
+- permitted
+** Ukrainian glosses
+*** uk-s-1190710-001-001
+:PROPERTIES:
+:END:
+- text :: дозволено
+*** uk-s-1190710-001-002
+:PROPERTIES:
+:END:
+- text :: допустимо
+*** uk-s-1190710-001-003
+:PROPERTIES:
+:END:
+- text :: прийнятно
+*** uk-s-1190710-001-004
+:PROPERTIES:
+:END:
+- text :: можливий
+** Learner notes
+*** note-s-1190710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та суфікс, що позначає дозвіл, прийнятність чи можливість здійснення дії. Часто вживається в офіційних оголошеннях, правилах та анкетах: =持ち込み可= (дозволено проносити з собою), =可否= (=かひ=, можливість або неможливість; «за» чи «проти»). Як суфікс утворює прикметники можливості: =再利用可= (придатний для вторинної переробки).
+- LEVEL :: intermediate
+- REGISTER :: formal
+** Examples
+*** ex-1190710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この部屋は飲食可となっています。
+- READING :: このへやはいんしょくかとなっています。
+- UK :: У цій кімнаті дозволено вживати їжу та напої.
+- EN :: Eating and drinking is permitted in this room.
+- FOCUS :: 可
+*** ex-1190710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 参加者の年齢制限は特に設けておらず、どなたでも参加可です。
+- READING :: さんかしゃのねんれいせいげんはとくにもうけておらず、どなたでもさんかかです。
+- UK :: Вікових обмежень для учасників немає, брати участь дозволено будь-кому.
+- EN :: There is no particular age restriction for participants, and participation is permitted for anyone.
+- FOCUS :: 可
+*** ex-1190710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 提出された書類の内容を総合的に判断した結果、今回の計画案は実行可と認められた。
+- READING :: ていしゅつされたしょるいのないようをそうごうてきにはんだんしたけっか、こんかいのけいかくあんはじっこうかとみとめられた。
+- UK :: У результаті всебічної оцінки змісту поданих документів поточний проєкт плану було визнано придатним до втілення.
+- EN :: As a result of comprehensively evaluating the contents of the submitted documents, this proposed plan was approved as feasible.
+- FOCUS :: 実行可
+
+* Sense s-1190710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0ab0a26528d41a1a708730cdc8905834f82ca7d4966469c5109a232737847885
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- approval
+- being in favour
+- (a) vote in favour
+- aye
+** Ukrainian glosses
+*** uk-s-1190710-002-001
+:PROPERTIES:
+:END:
+- text :: «за» (голос на підтримку)
+*** uk-s-1190710-002-002
+:PROPERTIES:
+:END:
+- text :: схвалення
+*** uk-s-1190710-002-003
+:PROPERTIES:
+:END:
+- text :: згода
+** Learner notes
+*** note-s-1190710-002-001
+:PROPERTIES:
+:END:
+- UK :: Голосування «за» або схвалення резолюції/законопроєкту в парламенті чи зборах. Антонім — =否= (=ひ=, «проти»). Вираз =可とする= означає визнати прийнятним або схвалити.
+- LEVEL :: intermediate
+- REGISTER :: formal
+
+* Sense s-1190710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8d62cb5e1cc9b6c36c3a9239627d16a33aafdfe74d86dddea7c3769d4b830ba8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- on a 優, 良, 可 scale
+** English glosses
+- Pass (grade)
+- Fair
+- C
+- D
+** Ukrainian glosses
+*** uk-s-1190710-003-001
+:PROPERTIES:
+:END:
+- text :: задовільно (оцінка в університеті)
+*** uk-s-1190710-003-002
+:PROPERTIES:
+:END:
+- text :: зараховано
+** Learner notes
+*** note-s-1190710-003-001
+:PROPERTIES:
+:END:
+- UK :: Традиційна оцінка в японських університетах за шкалою =秀= (відмінно+), =優= (відмінно), =良= (добре), =可= (задовільно, прохідний бал), =不可= (=ふか=, незадовільно, не склав).
+- LEVEL :: intermediate
+- REGISTER :: formal
+
+* Sense s-1190710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 30cf01d9854e76170a6be7295cbb94d68ba6910965d8b2d01e69390c2982cbc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mogelijkheid
+** Ukrainian glosses
+
+* Sense s-1190710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b17c916580816653b21b5d7eeee8d185f6c1ab700bf2ff6a01717c45cb86da11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goedkeuring
+*** en-s-1190710-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: instemming
+*** en-s-1190710-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorstem
+** Ukrainian glosses
+
+* Sense s-1190710-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7233f02362f73cec583488276085522be34db420531b712be9dd8733c34ea249
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {onderw.} voldoende
+*** en-s-1190710-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} voldoening
+*** en-s-1190710-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {afk.} D
+*** en-s-1190710-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kan ermee door
+*** en-s-1190710-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goed genoeg
+*** en-s-1190710-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: passabel
+*** en-s-1190710-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redelijk
+*** en-s-1190710-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (a) toelaten
+*** en-s-1190710-006-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toestaan
+*** en-s-1190710-006-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (b) kunnen
+** Ukrainian glosses
+
+* Sense s-1190710-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 42443b1913be1ad0cf6837e99fd08a8e5b0d9640f5d561479a1f68a4ad81a23d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: acceptable
+*** en-s-1190710-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correct
+** Ukrainian glosses
+
+* Sense s-1190710-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: b266a8482b5015fc0b5ef3bfa2cd76d2466f649d5aca4987f1586a1cbfcb8627
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Möglichkeit
+** Ukrainian glosses
+
+* Sense s-1190710-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ba6ecece23829980122a38ebc471c906b2b01dd8e4e5792986a0c67240e0bd63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Akzeptieren
+*** en-s-1190710-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Für-gut-Erklären
+** Ukrainian glosses
+
+* Sense s-1190710-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b317392bd272145088ce27fc77aa21afac99eaf7f6eb8d6cb36f6e625818b3e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: genügend (z.B. als Note)
+*** en-s-1190710-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestanden
+** Ukrainian glosses
+
+* Sense s-1190710-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: b52b7eb2240409972831f1a03bde5805f31629b123fa18821220b1c7e588d020
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áthatolható
+*** en-s-1190710-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elég jó
+*** en-s-1190710-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gázolható
+*** en-s-1190710-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járható
+*** en-s-1190710-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keresztezhető
+*** en-s-1190710-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tűrhető
+** Ukrainian glosses
+
+* Sense s-1190710-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 5c7517903d3c071a3563914369641bb4aec6d0984a0bde654838276d9c8dcea4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) можно; удовлетворительно (школьная оценка)
+*** en-s-1190710-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～である} быть сносным (приличным)
+*** en-s-1190710-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～なる} правильный, хороший, допустимый
+*** en-s-1190710-012-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～とする} одобрять; быть за
+** Ukrainian glosses
+
+* Sense s-1190710-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: a6177854bbb8504f2d3defea63d77a3720973cb856d857659599d6f7517b4e1a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zadostno
+*** en-s-1190710-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sprejemljivo
+*** en-s-1190710-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: možno
+** Ukrainian glosses
+
+* Sense s-1190710-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 1ba7e62a19d5401a3a7f51010c2c3619413f803e814c8b596677daca49634254
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1190710-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transitable
+*** en-s-1190710-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pasable
+*** en-s-1190710-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aceptable
+** Ukrainian glosses
