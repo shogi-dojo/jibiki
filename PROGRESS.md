@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1596 |
+| Canonical entry files | 1606 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 227 |
-| N3 queue rows covered | 241 / 1677 (14.4%) |
+| Canonical N3 entries | 237 |
+| N3 queue rows covered | 251 / 1677 (15.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1559 |
+| `new` | 1569 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1586 |
+| Entry metadata still marked `draft` | 1596 |
 | Core profile | 163 |
-| Learner profile | 1432 |
+| Learner profile | 1442 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 241 rows covered (227 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 251 rows covered (237 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1434,6 +1434,16 @@ content and remain at `new` until editorial review.
 | N3-239 | [隠す](entries/1170/1170650-kakusu.org) | かくす | kakusu | 1170650 | learner | draft | **new** | Editorial review |
 | N3-240 | [拡大](entries/1205/1205200-kakudai.org) | かくだい | kakudai | 1205200 | learner | draft | **new** | Editorial review |
 | N3-241 | [確認](entries/1205/1205900-kakunin.org) | かくにん | kakunin | 1205900 | learner | draft | **new** | Editorial review |
+| N3-242 | [隠れる](entries/1170/1170660-kakureru.org) | かくれる | kakureru | 1170660 | learner | draft | **new** | Editorial review |
+| N3-243 | [家具](entries/1191/1191870-kagu.org) | かぐ | kagu | 1191870 | learner | draft | **new** | Editorial review |
+| N3-244 | [欠ける](entries/1253/1253920-kakeru.org) | かける | kakeru | 1253920 | learner | draft | **new** | Editorial review |
+| N3-245 | [影](entries/1590/1590145-kage.org) | かげ | kage | 1590145 | learner | draft | **new** | Editorial review |
+| N3-246 | [陰](entries/1590/1590150-kage.org) | かげ | kage | 1590150 | learner | draft | **new** | Editorial review |
+| N3-247 | [加減](entries/1190/1190080-kagen.org) | かげん | kagen | 1190080 | learner | draft | **new** | Editorial review |
+| N3-248 | [過去](entries/1196/1196030-kako.org) | かこ | kako | 1196030 | learner | draft | **new** | Editorial review |
+| N3-249 | [囲む](entries/1155/1155980-kakomu.org) | かこむ | kakomu | 1155980 | learner | draft | **new** | Editorial review |
+| N3-250 | [籠](entries/1590/1590200-kago.org) | かご | kago | 1590200 | learner | draft | **new** | Editorial review |
+| N3-251 | [菓子](entries/1195/1195670-kashi.org) | かし | kashi | 1195670 | learner | draft | **new** | Editorial review |
 
 
 
