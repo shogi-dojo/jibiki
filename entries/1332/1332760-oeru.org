@@ -1,0 +1,205 @@
+#+TITLE: 終える
+#+JMDICT_ID: 1332760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おえる
+#+ROMAJI: oeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1332760-001
+:PROPERTIES:
+:TEXT: 終える
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Written form wf-1332760-002
+:PROPERTIES:
+:TEXT: 了える
+:END:
+*** Information
+- sK
+** Written form wf-1332760-003
+:PROPERTIES:
+:TEXT: 卒える
+:END:
+*** Information
+- sK
+** Reading rd-1332760-001
+:PROPERTIES:
+:TEXT: おえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1332760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 778754ade1703f7a1655dcc8f168bdbebd414783a3c3e24e2f50f0722e06d82d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to finish
+- to get through with
+- to complete
+- to bring (something) to an end
+** Ukrainian glosses
+*** uk-s-1332760-001-001
+:PROPERTIES:
+:END:
+- text :: закінчувати
+*** uk-s-1332760-001-002
+:PROPERTIES:
+:END:
+- text :: завершувати
+*** uk-s-1332760-001-003
+:PROPERTIES:
+:END:
+- text :: доводити до кінця
+** Learner notes
+*** note-s-1332760-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово (v1), що означає закінчити, завершити якусь дію чи роботу. На відміну від переважно неперехідного =終わる= (=おわる=, щось закінчується: =仕事が終わる=), =終える= вимагає додатка зі знахідним відмінком =を=: =仕事を終える= (закінчити роботу).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1332760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日の仕事を終えました。
+- READING :: きょうのしごとをおえました。
+- UK :: Я закінчив сьогоднішню роботу.
+- EN :: I finished today's work.
+- FOCUS :: 終えました
+*** ex-1332760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 宿題を終えてから遊びに行きます。
+- READING :: しゅくだいをおえてからあそびにいきます。
+- UK :: Піду гуляти після того, як закінчу домашнє завдання.
+- EN :: I'll go hang out after finishing my homework.
+- FOCUS :: 終えて
+*** ex-1332760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼は長い研究を無事に終えて、論文を書き上げた。
+- READING :: かれはながいけんきゅうをぶじにおえて、ろんぶんをかきあげた。
+- UK :: Він благополучно завершив тривале дослідження та закінчив написання статті.
+- EN :: He safely completed his long research and finished writing the paper.
+- FOCUS :: 終えて
+
+* Sense s-1332760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b5fd04183ad2253d5583a3561891c27cbb6e208d30263d17a2e2c897d4ac609
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+*** Sense information
+- occ. written 卒える
+** English glosses
+- to graduate
+** Ukrainian glosses
+*** uk-s-1332760-002-001
+:PROPERTIES:
+:END:
+- text :: закінчувати (навчання, заклад)
+*** uk-s-1332760-002-002
+:PROPERTIES:
+:END:
+- text :: випускатися (з університету)
+** Learner notes
+*** note-s-1332760-002-001
+:PROPERTIES:
+:END:
+- UK :: У значенні закінчити або випуститися з навчального закладу (іноді записується ієрогліфом =卒える=).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1332760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2c6bfa4b1b91cb07af8f4bcdf57f04b9c12a2e9d0b7c35893e7ba8d89275ff01
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Miscellaneous and register
+- rare
+** English glosses
+- to come to an end
+- to end
+** Ukrainian glosses
+*** uk-s-1332760-003-001
+:PROPERTIES:
+:END:
+- text :: закінчуватися
+*** uk-s-1332760-003-002
+:PROPERTIES:
+:END:
+- text :: добігати кінця
+** Learner notes
+*** note-s-1332760-003-001
+:PROPERTIES:
+:END:
+- UK :: Рідковживане неперехідне значення: закінчуватися, добігати кінця. Зазвичай замість нього вживають дієслово =終わる= (=おわる=).
+- LEVEL :: advanced
+- REGISTER :: archaic
+
+* Sense s-1332760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3850f94207538c7ddd2c5592b9ffb4a3b8fc40bc2c3fee887cc45d41d93ad4c0
+:END:
+** JMdict metadata
+*** Parts of speech
+- aux-v
+- v1
+*** Sense information
+- after the -masu stem of a verb
+** English glosses
+- to finish doing ...
+- to be done doing ...
+** Ukrainian glosses
+*** uk-s-1332760-004-001
+:PROPERTIES:
+:END:
+- text :: закінчувати робити (щось)
+*** uk-s-1332760-004-002
+:PROPERTIES:
+:END:
+- text :: доробити
+** Learner notes
+*** note-s-1332760-004-001
+:PROPERTIES:
+:END:
+- UK :: Допоміжне дієслово, що приєднується до основи дієслова на =-масу= (наприклад, =読み終える= — дочитати, =書き終える= — дописати). Вказує на повне завершення процесу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
