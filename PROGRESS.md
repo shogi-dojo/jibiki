@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1616 |
+| Canonical entry files | 1626 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 247 |
-| N3 queue rows covered | 261 / 1677 (15.6%) |
+| Canonical N3 entries | 257 |
+| N3 queue rows covered | 272 / 1677 (16.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1579 |
+| `new` | 1589 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1606 |
+| Entry metadata still marked `draft` | 1616 |
 | Core profile | 163 |
-| Learner profile | 1452 |
+| Learner profile | 1462 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 261 rows covered (247 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 272 rows covered (257 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1454,6 +1454,17 @@ content and remain at `new` until editorial review.
 | N3-259 | [型](entries/1250/1250090-kata.org) | かた | kata | 1250090 | learner | draft | **new** | Editorial review |
 | N3-260 | [方々](entries/1584/1584100-katagata.org) | かたがた | katagata | 1584100 | learner | draft | **new** | Editorial review |
 | N3-261 | [刀](entries/1446/1446420-katana.org) | かたな | katana | 1446420 | learner | draft | **new** | Editorial review |
+| N3-262 | [語る](entries/1270/1270990-kataru.org) | かたる | kataru | 1270990 | learner | draft | **new** | Editorial review |
+| N3-263 | [価値](entries/1189/1189600-kachi.org) | かち | kachi | 1189600 | learner | draft | **new** | Editorial review |
+| N3-264 | [勝ち](entries/1609/1609560-kachi.org) | かち | kachi | 1609560 | learner | draft | **new** | Editorial review |
+| N3-265 | [活気](entries/1208/1208270-kakki.org) | かっき | kakki | 1208270 | learner | draft | **new** | Editorial review |
+| N3-266 | [格好](entries/1590/1590480-kakkou.org) | かっこう | kakkou | 1590480 | learner | draft | **new** | Editorial review |
+| N3-267 | [活動](entries/1208/1208360-katsudou.org) | かつどう | katsudou | 1208360 | learner | draft | **new** | Editorial review |
+| N3-268 | [活用](entries/1208/1208460-katsuyou.org) | かつよう | katsuyou | 1208460 | learner | draft | **new** | Editorial review |
+| N3-269 | [悲しむ](entries/1483/1483200-kanashimu.org) | かなしむ | kanashimu | 1483200 | learner | draft | **new** | Editorial review |
+| N3-270 | [必ずしも](entries/1487/1487410-kanarazushimo.org) | かならずしも | kanarazushimo | 1487410 | learner | draft | **new** | Editorial review |
+| N3-271 | [可也](entries/1590/1590560-kanari.org) | かなり | kanari | 1590560 | learner | draft | **new** | Editorial review |
+| N3-272 | [金](entries/1242/1242590-kane.org) | かね | kane | 1242590 | learner | draft | **new** | Editorial review |
 
 
 
