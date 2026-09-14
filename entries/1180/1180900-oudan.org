@@ -1,0 +1,169 @@
+#+TITLE: 横断
+#+JMDICT_ID: 1180900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おうだん
+#+ROMAJI: oudan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180900-001
+:PROPERTIES:
+:TEXT: 横断
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Reading rd-1180900-001
+:PROPERTIES:
+:TEXT: おうだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1180900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9d6f2690dba815591fb6a73fab9e8e67c15891ecaadb83f2cacb9276f64e897d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- crossing (a road, river, etc.)
+- cutting through (e.g. of a river through a town)
+- cutting across
+- intersecting (e.g. a railway track)
+** Ukrainian glosses
+*** uk-s-1180900-001-001
+:PROPERTIES:
+:END:
+- text :: перетин (дороги, річки тощо)
+*** uk-s-1180900-001-002
+:PROPERTIES:
+:END:
+- text :: перехід (через дорогу)
+*** uk-s-1180900-001-003
+:PROPERTIES:
+:END:
+- text :: перетинати
+** Learner notes
+*** note-s-1180900-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає перетин або перехід впоперек дороги, вулиці, річки тощо. Часто вживається як дієслово з =する= (=横断する= — перетинати, переходити), а також у сполуці =横断歩道= (=おうだんほどう= — пішохідний перехід).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1180900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ここで道路を横断します。
+- READING :: ここでどうろをおうだんします。
+- UK :: Тут переходжу дорогу.
+- EN :: I cross the road here.
+- FOCUS :: 横断
+*** ex-1180900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 車が多いので、ここで横断するのは危険です。
+- READING :: くるまがおおいので、ここでおうだんするのはきけんです。
+- UK :: Тут багато машин, тому переходити небезпечно.
+- EN :: There are many cars, so it is dangerous to cross here.
+- FOCUS :: 横断
+*** ex-1180900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歩行者は横断歩道を使って安全に道を横断しなければならない。
+- READING :: ほこうしゃはおうだんほどうをつかってあんぜんにみちをおうだんしなければならない。
+- UK :: Пішоходи повинні безпечно переходити дорогу, користуючись пішохідним переходом.
+- EN :: Pedestrians must cross the street safely using pedestrian crossings.
+- FOCUS :: 横断
+
+* Sense s-1180900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f478e3595067aed06790f42b9ae1fede6c2a86eee6ef27b1703cac92977c744b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Cross-references
+- 縦断・1
+** English glosses
+- crossing (east-west)
+- traversing
+- travelling across
+- flying across (e.g. the Pacific)
+- sailing across
+** Ukrainian glosses
+*** uk-s-1180900-002-001
+:PROPERTIES:
+:END:
+- text :: перетин (зі сходу на захід або наскрізь)
+*** uk-s-1180900-002-002
+:PROPERTIES:
+:END:
+- text :: подорож наскрізь (через континент, океан)
+** Learner notes
+*** note-s-1180900-002-001
+:PROPERTIES:
+:END:
+- UK :: Вживається про подорож або перетин континенту чи океану поперек (наприклад, зі сходу на захід: =大陸横断= — перетин континенту, =太平洋横断= — перетин Тихого океану). Протилежне поняття — =縦断= (=じゅうだん=, перетин з півночі на південь).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1180900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3eb12ad7bbb97285d7b3c31edab0d3fda91634e2a4f19aac34ba29b8b191cdd9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 縦断・2
+** English glosses
+- cutting horizontally
+- sectioning laterally
+** Ukrainian glosses
+*** uk-s-1180900-003-001
+:PROPERTIES:
+:END:
+- text :: поперечний розріз
+*** uk-s-1180900-003-002
+:PROPERTIES:
+:END:
+- text :: розтинання впоперек
+** Learner notes
+*** note-s-1180900-003-001
+:PROPERTIES:
+:END:
+- UK :: Поперечний перетин або розріз об'єкта по горизонталі. На відміну від =縦断= (=じゅうだん=, поздовжній розріз).
+- LEVEL :: intermediate
+- REGISTER :: neutral
