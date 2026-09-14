@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1636 |
+| Canonical entry files | 1646 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 267 |
-| N3 queue rows covered | 283 / 1677 (16.9%) |
+| Canonical N3 entries | 277 |
+| N3 queue rows covered | 294 / 1677 (17.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1599 |
+| `new` | 1609 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1626 |
+| Entry metadata still marked `draft` | 1636 |
 | Core profile | 163 |
-| Learner profile | 1472 |
+| Learner profile | 1482 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 283 rows covered (267 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 294 rows covered (277 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1476,3 +1476,14 @@ content and remain at `new` until editorial review.
 | N3-281 | [科目](entries/1590/1590600-kamoku.org) | かもく | kamoku | 1590600 | learner | draft | **new** | Editorial review |
 | N3-282 | [かも知れない](entries/1002/1002970-kamoshirenai.org) | かもしれない | kamoshirenai | 1002970 | learner | draft | **new** | Editorial review |
 | N3-283 | [火曜](entries/1194/1194280-kayou.org) | かよう | kayou | 1194280 | learner | draft | **new** | Editorial review |
+| N3-284 | [空](entries/1245/1245280-kara.org) | から | kara | 1245280 | learner | draft | **new** | Editorial review |
+| N3-285 | [刈る](entries/1209/1209540-karu.org) | かる | karu | 1209540 | learner | draft | **new** | Editorial review |
+| N3-286 | [彼ら](entries/1483/1483090-karera.org) | かれら | karera | 1483090 | learner | draft | **new** | Editorial review |
+| N3-287 | [皮](entries/1483/1483800-kawa.org) | かわ | kawa | 1483800 | learner | draft | **new** | Editorial review |
+| N3-288 | [革](entries/1483/1483805-kawa.org) | かわ | kawa | 1483805 | learner | draft | **new** | Editorial review |
+| N3-289 | [可哀想](entries/1590/1590740-kawaisou.org) | かわいそう | kawaisou | 1590740 | learner | draft | **new** | Editorial review |
+| N3-290 | [可愛らしい](entries/1190/1190740-kawairashii.org) | かわいらしい | kawairashii | 1190740 | learner | draft | **new** | Editorial review |
+| N3-291 | [缶](entries/1214/1214540-kan.org) | かん | kan | 1214540 | learner | draft | **new** | Editorial review |
+| N3-292 | [勘](entries/1210/1210590-kan.org) | かん | kan | 1210590 | learner | draft | **new** | Editorial review |
+| N3-293 | [管](entries/1577/1577650-kan.org) | かん | kan | 1577650 | learner | draft | **new** | Editorial review |
+| N3-294 | [感覚](entries/1212/1212330-kankaku.org) | かんかく | kankaku | 1212330 | learner | draft | **new** | Editorial review |
