@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1686 |
+| Canonical entry files | 1695 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 317 |
-| N3 queue rows covered | 334 / 1677 (19.9%) |
+| Canonical N3 entries | 326 |
+| N3 queue rows covered | 344 / 1677 (20.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1649 |
+| `new` | 1658 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1676 |
+| Entry metadata still marked `draft` | 1685 |
 | Core profile | 163 |
-| Learner profile | 1522 |
+| Learner profile | 1531 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 334 rows covered (317 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 344 rows covered (326 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1527,3 +1527,13 @@ content and remain at `new` until editorial review.
 | N3-332 | [記憶](entries/1223/1223150-kioku.org) | きおく | kioku | 1223150 | learner | draft | **new** | Editorial review |
 | N3-333 | [気温](entries/1221/1221950-kion.org) | きおん | kion | 1221950 | learner | draft | **new** | Editorial review |
 | N3-334 | [機械](entries/1220/1220810-kikai.org) | きかい | kikai | 1220810 | learner | draft | **new** | Editorial review |
+| N3-335 | [期間](entries/1220/1220550-kikan.org) | きかん | kikan | 1220550 | learner | draft | **new** | Editorial review |
+| N3-336 | [機関](entries/1220/1220870-kikan.org) | きかん | kikan | 1220870 | learner | draft | **new** | Editorial review |
+| N3-337 | [企業](entries/1218/1218190-kigyou.org) | きぎょう | kigyou | 1218190 | learner | draft | **new** | Editorial review |
+| N3-338 | [利く](entries/1591/1591100-kiku.org) | きく | kiku | 1591100 | learner | draft | **new** | Editorial review |
+| N3-339 | [効く](entries/1591/1591100-kiku.org) | きく | kiku | 1591100 | learner | draft | **new** | Editorial review |
+| N3-340 | [機嫌](entries/1220/1220930-kigen.org) | きげん | kigen | 1220930 | learner | draft | **new** | Editorial review |
+| N3-341 | [気候](entries/1222/1222170-kikou.org) | きこう | kikou | 1222170 | learner | draft | **new** | Editorial review |
+| N3-342 | [岸](entries/1217/1217040-kishi.org) | きし | kishi | 1217040 | learner | draft | **new** | Editorial review |
+| N3-343 | [記者](entries/1223/1223250-kisha.org) | きしゃ | kisha | 1223250 | learner | draft | **new** | Editorial review |
+| N3-344 | [記事](entries/1223/1223240-kiji.org) | きじ | kiji | 1223240 | learner | draft | **new** | Editorial review |
