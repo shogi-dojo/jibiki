@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1656 |
+| Canonical entry files | 1666 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 287 |
-| N3 queue rows covered | 304 / 1677 (18.1%) |
+| Canonical N3 entries | 297 |
+| N3 queue rows covered | 314 / 1677 (18.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1619 |
+| `new` | 1629 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1646 |
+| Entry metadata still marked `draft` | 1656 |
 | Core profile | 163 |
-| Learner profile | 1492 |
+| Learner profile | 1502 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 304 rows covered (287 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 314 rows covered (297 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1497,3 +1497,13 @@ content and remain at `new` until editorial review.
 | N3-302 | [関心](entries/1215/1215870-kanshin.org) | かんしん | kanshin | 1215870 | learner | draft | **new** | Editorial review |
 | N3-303 | [感心](entries/1212/1212450-kanshin.org) | かんしん | kanshin | 1212450 | learner | draft | **new** | Editorial review |
 | N3-304 | [感じ](entries/1212/1212250-kanji.org) | かんじ | kanji | 1212250 | learner | draft | **new** | Editorial review |
+| N3-305 | [患者](entries/1212/1212210-kanja.org) | かんじゃ | kanja | 1212210 | learner | draft | **new** | Editorial review |
+| N3-306 | [感情](entries/1212/1212410-kanjou.org) | かんじょう | kanjou | 1212410 | learner | draft | **new** | Editorial review |
+| N3-307 | [勘定](entries/1210/1210750-kanjou.org) | かんじょう | kanjou | 1210750 | learner | draft | **new** | Editorial review |
+| N3-308 | [感じる](entries/1212/1212260-kanjiru.org) | かんじる | kanjiru | 1212260 | learner | draft | **new** | Editorial review |
+| N3-309 | [関する](entries/1215/1215790-kansuru.org) | かんする | kansuru | 1215790 | learner | draft | **new** | Editorial review |
+| N3-310 | [完成](entries/1211/1211490-kansei.org) | かんせい | kansei | 1211490 | learner | draft | **new** | Editorial review |
+| N3-311 | [完全](entries/1211/1211510-kanzen.org) | かんぜん | kanzen | 1211510 | learner | draft | **new** | Editorial review |
+| N3-312 | [監督](entries/1213/1213720-kantoku.org) | かんとく | kantoku | 1213720 | learner | draft | **new** | Editorial review |
+| N3-313 | [感動](entries/1212/1212570-kandou.org) | かんどう | kandou | 1212570 | learner | draft | **new** | Editorial review |
+| N3-314 | [管理](entries/1214/1214200-kanri.org) | かんり | kanri | 1214200 | learner | draft | **new** | Editorial review |
