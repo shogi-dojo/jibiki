@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1755 |
+| Canonical entry files | 1765 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 386 |
-| N3 queue rows covered | 404 / 1677 (24.1%) |
+| Canonical N3 entries | 396 |
+| N3 queue rows covered | 414 / 1677 (24.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1718 |
+| `new` | 1728 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1745 |
+| Entry metadata still marked `draft` | 1755 |
 | Core profile | 163 |
-| Learner profile | 1591 |
+| Learner profile | 1601 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 404 rows covered (386 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 414 rows covered (396 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1597,3 +1597,13 @@ content and remain at `new` until editorial review.
 | N3-402 | [禁止](entries/1241/1241550-kinshi.org) | きんし | kinshi | 1241550 | learner | draft | **new** | Editorial review |
 | N3-403 | [金銭](entries/1243/1243020-kinsen.org) | きんせん | kinsen | 1243020 | learner | draft | **new** | Editorial review |
 | N3-404 | [金属](entries/1243/1243040-kinzoku.org) | きんぞく | kinzoku | 1243040 | learner | draft | **new** | Editorial review |
+| N3-405 | [近代](entries/1242/1242420-kindai.org) | きんだい | kindai | 1242420 | learner | draft | **new** | Editorial review |
+| N3-406 | [緊張](entries/1241/1241880-kinchou.org) | きんちょう | kinchou | 1241880 | learner | draft | **new** | Editorial review |
+| N3-407 | [筋肉](entries/1241/1241810-kinniku.org) | きんにく | kinniku | 1241810 | learner | draft | **new** | Editorial review |
+| N3-408 | [金融](entries/1243/1243290-kinyuu.org) | きんゆう | kinyuu | 1243290 | learner | draft | **new** | Editorial review |
+| N3-409 | [金曜](entries/1243/1243310-kinyou.org) | きんよう | kinyou | 1243310 | learner | draft | **new** | Editorial review |
+| N3-410 | [議員](entries/1226/1226020-giin.org) | ぎいん | giin | 1226020 | learner | draft | **new** | Editorial review |
+| N3-411 | [議会](entries/1226/1226040-gikai.org) | ぎかい | gikai | 1226040 | learner | draft | **new** | Editorial review |
+| N3-412 | [技師](entries/1225/1225110-gishi.org) | ぎし | gishi | 1225110 | learner | draft | **new** | Editorial review |
+| N3-413 | [義務](entries/1225/1225900-gimu.org) | ぎむ | gimu | 1225900 | learner | draft | **new** | Editorial review |
+| N3-414 | [疑問](entries/1225/1225630-gimon.org) | ぎもん | gimon | 1225630 | learner | draft | **new** | Editorial review |
