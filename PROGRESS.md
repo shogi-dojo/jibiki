@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1666 |
+| Canonical entry files | 1676 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 297 |
-| N3 queue rows covered | 314 / 1677 (18.7%) |
+| Canonical N3 entries | 307 |
+| N3 queue rows covered | 324 / 1677 (19.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1629 |
+| `new` | 1639 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1656 |
+| Entry metadata still marked `draft` | 1666 |
 | Core profile | 163 |
-| Learner profile | 1502 |
+| Learner profile | 1512 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 314 rows covered (297 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 324 rows covered (307 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1507,3 +1507,13 @@ content and remain at `new` until editorial review.
 | N3-312 | [監督](entries/1213/1213720-kantoku.org) | かんとく | kantoku | 1213720 | learner | draft | **new** | Editorial review |
 | N3-313 | [感動](entries/1212/1212570-kandou.org) | かんどう | kandou | 1212570 | learner | draft | **new** | Editorial review |
 | N3-314 | [管理](entries/1214/1214200-kanri.org) | かんり | kanri | 1214200 | learner | draft | **new** | Editorial review |
+| N3-315 | [完了](entries/1211/1211630-kanryou.org) | かんりょう | kanryou | 1211630 | learner | draft | **new** | Editorial review |
+| N3-316 | [関連](entries/1216/1216060-kanren.org) | かんれん | kanren | 1216060 | learner | draft | **new** | Editorial review |
+| N3-317 | [カー](entries/1036/1036170-kaa.org) | カー | kaa | 1036170 | learner | draft | **new** | Editorial review |
+| N3-318 | [カード](entries/1036/1036400-kaado.org) | カード | kaado | 1036400 | learner | draft | **new** | Editorial review |
+| N3-319 | [害](entries/1204/1204330-gai.org) | がい | gai | 1204330 | learner | draft | **new** | Editorial review |
+| N3-320 | [外交](entries/1203/1203540-gaikou.org) | がいこう | gaikou | 1203540 | learner | draft | **new** | Editorial review |
+| N3-321 | [外出](entries/1203/1203800-gaishutsu.org) | がいしゅつ | gaishutsu | 1203800 | learner | draft | **new** | Editorial review |
+| N3-322 | [画家](entries/1197/1197120-gaka.org) | がか | gaka | 1197120 | learner | draft | **new** | Editorial review |
+| N3-323 | [額](entries/1207/1207500-gaku.org) | がく | gaku | 1207500 | learner | draft | **new** | Editorial review |
+| N3-324 | [学](entries/1955/1955900-gaku.org) | がく | gaku | 1955900 | learner | draft | **new** | Editorial review |
