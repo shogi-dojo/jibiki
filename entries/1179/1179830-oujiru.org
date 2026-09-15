@@ -1,0 +1,105 @@
+#+TITLE: 応じる
+#+JMDICT_ID: 1179830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おうじる
+#+ROMAJI: oujiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1179830-001
+:PROPERTIES:
+:TEXT: 応じる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1179830-001
+:PROPERTIES:
+:TEXT: おうじる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1179830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 905350118c983bda016638bd2b4a73665b574d14e199f90b6c070a7e27d7c438
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to respond
+- to satisfy
+- to accept
+- to comply with
+- to apply for
+** Ukrainian glosses
+*** uk-s-1179830-001-001
+:PROPERTIES:
+:END:
+- text :: відгукуватися (на запит, пропозицію), відповідати (згодою), задовольняти (вимоги)
+*** uk-s-1179830-001-002
+:PROPERTIES:
+:END:
+- text :: узгоджуватися (з чимось), діяти залежно від (обставин: 〜に応じて)
+*** uk-s-1179830-001-003
+:PROPERTIES:
+:END:
+- text :: відгукуватися на оголошення, подавати заявку
+** Learner notes
+*** note-s-1179830-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово 2-ї дієвідміни (ічідан), яке незмінно керує часткою に: 「…に応じる」. Має два провідні вжитки: 1) погодитися на прохання чи відгукнутися на заклик (наприклад, 「インタビューに応じる」 — погодитися на інтерв'ю, 「要求に応じる」 — задовольнити вимоги); 2) граматична конструкція 「…に応じて」 /…におうじて/ — «залежно від…, відповідно до…» (як-от 「必要に応じて」 — за потреби, 「状況に応じて」 — залежно від ситуації).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1179830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は記者の質問に笑顔で応じました。
+- READING :: かれはきしゃのしつもんにえがおでおうじました。
+- ROMAJI :: Kare wa kisha no shitsumon ni egao de oujimashita.
+- UK :: Він з усмішкою відповів на запитання журналіста.
+- EN :: He responded to the reporter's questions with a smile.
+- FOCUS :: 応じました
+*** ex-1179830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 必要に応じて、いつでも専門家に相談してください。
+- READING :: ひつようにおうじて、いつでもせんもんかにそうだんしてください。
+- ROMAJI :: Hitsuyou ni oujite, itsudemo senmonka ni soudan shite kudasai.
+- UK :: За потреби будь-коли проконсультуйтеся з фахівцем.
+- EN :: Please consult a specialist whenever necessary.
+- FOCUS :: 必要に応じて
+*** ex-1179830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 会社はお客様の様々な要望に応じるため、新しいサービスを導入した。
+- READING :: かいしゃはおきゃくさまのさまざまなようぼうにおうじるため、あたらしいサービスをどうにゅうした。
+- ROMAJI :: Kaisha wa okyakusama no samazama na youbou ni oujiru tame, atarashii saabisu o dounyuu shita.
+- UK :: Щоб задовольнити різноманітні побажання клієнтів, компанія запровадила нову послугу.
+- EN :: In order to meet various requests from customers, the company introduced a new service.
+- FOCUS :: 要望に応じるため

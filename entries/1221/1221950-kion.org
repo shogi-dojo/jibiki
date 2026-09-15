@@ -1,0 +1,233 @@
+#+TITLE: 気温
+#+JMDICT_ID: 1221950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きおん
+#+ROMAJI: kion
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1221950-001
+:PROPERTIES:
+:TEXT: 気温
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1221950-001
+:PROPERTIES:
+:TEXT: きおん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1221950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41848a64adef5a79929ecfb6a469c8aa3925eb6da5a3449f34cb8449272ff132
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (air) temperature
+** Ukrainian glosses
+*** uk-s-1221950-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: температура повітря
+*** uk-s-1221950-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: температура
+** Learner notes
+*** note-s-1221950-001-001
+:PROPERTIES:
+:END:
+- UK :: Температура повітря або атмосфери (на відміну від 体温 — температура тіла, або 水温 — температура води). Часто вживаються словосполучення: 最高気温 (さいこうきおん — максимальна температура), 最低気温 (さいていきおん — мінімальна температура).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1221950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日の気温は二十度で過ごしやすいです。
+- READING :: きょうのきおんはにじゅうどですごしやすいです。
+- UK :: Сьогодні температура повітря двадцять градусів, і погода дуже приємна.
+- EN :: Today's temperature is twenty degrees, which is pleasant.
+- FOCUS :: 気温
+*** ex-1221950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 季節の変わり目は昼と夜の気温の差が激しい。
+- READING :: きせつのかわりめはひるとよるのきおんのさがはげしい。
+- UK :: Під час зміни сезонів різниця між денною та нічною температурою повітря дуже різка.
+- EN :: At the turn of the seasons, the difference between daytime and nighttime temperatures is extreme.
+- FOCUS :: 気温
+*** ex-1221950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地球温暖化に伴い世界各地で平均気温が過去最高を記録している。
+- READING :: ちきゅうおんだんかにともないせかいかくちでへいきんきおんがかこさいこうをきろくしている。
+- UK :: Через глобальне потепління середня температура повітря в різних куточках світу б'є історичні рекорди.
+- EN :: With global warming, average temperatures around the world are recording historical highs.
+- FOCUS :: 気温
+
+* Sense s-1221950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d75c45da099b7c1a908565f10b4e4dc58a65796bce653a0dd0fe072097ea4c02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (buiten)temperatuur
+*** en-s-1221950-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: temperatuur van de atmosfeer
+** Ukrainian glosses
+
+* Sense s-1221950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 55359d58c8aef84f801ff847d7d423445e26635df54d779e6e91fe85f30e5e92
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: température
+** Ukrainian glosses
+
+* Sense s-1221950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 765661bef0070e5b3567000f5db57eda9157283a2ad26a3b3330ef5b8babcfa6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Temperatur
+*** en-s-1221950-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lufttemperatur
+*** en-s-1221950-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Außentemperatur
+** Ukrainian glosses
+
+* Sense s-1221950-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bfa646a0568e1ec5fc6a1a5d8e74832efc4f7c2c572b1d8f0d75098a55fb051e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: температура [воздуха]
+** Ukrainian glosses
+
+* Sense s-1221950-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9e103d1c37575359d3e2b6b0cfa608b8ef89a01c2d2b407390cb038e577b4aaf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: temperatura
+** Ukrainian glosses
+
+* Sense s-1221950-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 563f70b604f09536ddc8a7e29189a6cc3ee74281650406d92f063c95a030c253
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221950-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: temperatura atmosférica
+** Ukrainian glosses

@@ -1,0 +1,151 @@
+#+TITLE: 王
+#+JMDICT_ID: 1629200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おう
+#+ROMAJI: ou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1629200-001
+:PROPERTIES:
+:TEXT: 王
+:END:
+*** Priorities
+- news1
+- nf04
+** Reading rd-1629200-001
+:PROPERTIES:
+:TEXT: おう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf04
+
+* Sense s-1629200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4e8f68ec809a3d31aa13868b9c5c56b42973aaa13d8d69f161fae3fc891b868
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- king
+- ruler
+- sovereign
+- monarch
+** Ukrainian glosses
+*** uk-s-1629200-001-001
+:PROPERTIES:
+:END:
+- text :: король, цар, монарх, правитель
+** Learner notes
+*** note-s-1629200-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає правителя монархічної держави. У повсякденній мові та казках частіше використовують шанобливу форму 王様 /おうさま/. Також вживається як суфікс до назв країн (наприклад, 英国王 /えいこくおう/ — король Великої Британії).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1629200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔、ある国に優しい王がいました。
+- READING :: むかし、あるくににやさしいおうがいました。
+- ROMAJI :: Mukashi, aru kuni ni yasashii ou ga imashita.
+- UK :: Колись в одній країні жив добрий король.
+- EN :: Once upon a time, there was a kind king in a certain country.
+- FOCUS :: 王がいました
+*** ex-1629200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 王の命令に従って、兵士たちは出発した。
+- READING :: おうのめいれいにしたがって、へいしたちはしゅっぱつした。
+- ROMAJI :: Ou no meirei ni shitagatte, heishitachi wa shuppatsu shita.
+- UK :: За наказом короля воїни вирушили в дорогу.
+- EN :: Obeying the king's order, the soldiers set out.
+- FOCUS :: 王の命令に
+*** ex-1629200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: formal
+:END:
+- JA :: 国民に愛された王が亡くなり、国中が深い悲しみに包まれた。
+- READING :: こくみんにあいされたおうがなくなり、くにじゅうがふかいかなしみにつつまれた。
+- ROMAJI :: Kokumin ni aisareta ou ga nakunari, kunijuu ga fukai kanashimi ni tsutsumareta.
+- UK :: Коли улюблений народом король пішов із життя, уся країна поринула в глибоку жалобу.
+- EN :: When the king beloved by his people passed away, the whole nation was wrapped in deep sorrow.
+- FOCUS :: 愛された王
+
+* Sense s-1629200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0fa808de598ea8902cfbf0ac7e120b572efd5cea6f3ab307cb9d5369217b469e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- tycoon
+- magnate
+- champion
+- master
+** Ukrainian glosses
+*** uk-s-1629200-002-001
+:PROPERTIES:
+:END:
+- text :: король (у певній галузі: магнат, лідер, чемпіон)
+** Learner notes
+*** note-s-1629200-002-001
+:PROPERTIES:
+:END:
+- UK :: Вживається як суфікс до слів на позначення людини, яка домінує або є безумовним лідером у своїй сфері: 「石油王」 /せきゆおう/ (нафтовий магнат), 「ホームラン王」 /ホームランおう/ (найкращий за хоум-ранами в бейсболі).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1629200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 277a8b48849fd37d909a6307b35502efee8bab3a6f5e7807ee0a5d6a25f098e5
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+*** Fields
+- shogi
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 王将・おうしょう・1
+** English glosses
+- king (of the senior player)
+** Ukrainian glosses
+*** uk-s-1629200-003-001
+:PROPERTIES:
+:END:
+- text :: король (фігура в сьоґі: скорочення від 王将)
+** Learner notes
+*** note-s-1629200-003-001
+:PROPERTIES:
+:END:
+- UK :: У традиційних японських шахах (сьоґі) — фігура короля старшого гравця (скорочення від 王将 /おうしょう/). Молодший або менш досвідчений гравець грає фігурою 玉 /ぎょく/.
+- LEVEL :: intermediate
+- REGISTER :: neutral
