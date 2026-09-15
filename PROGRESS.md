@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1705 |
+| Canonical entry files | 1715 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 336 |
-| N3 queue rows covered | 354 / 1677 (21.1%) |
+| Canonical N3 entries | 346 |
+| N3 queue rows covered | 364 / 1677 (21.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1668 |
+| `new` | 1678 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1695 |
+| Entry metadata still marked `draft` | 1705 |
 | Core profile | 163 |
-| Learner profile | 1541 |
+| Learner profile | 1551 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 354 rows covered (336 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 364 rows covered (346 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1547,3 +1547,13 @@ content and remain at `new` until editorial review.
 | N3-352 | [気づく](entries/1591/1591330-kizuku.org) | きづく | kizuku | 1591330 | learner | draft | **new** | Editorial review |
 | N3-353 | [気に入る](entries/1221/1221740-kiniiru.org) | きにいる | kiniiru | 1221740 | learner | draft | **new** | Editorial review |
 | N3-354 | [記入](entries/1223/1223330-kinyuu.org) | きにゅう | kinyuu | 1223330 | learner | draft | **new** | Editorial review |
+| N3-355 | [記念](entries/1223/1223340-kinen.org) | きねん | kinen | 1223340 | learner | draft | **new** | Editorial review |
+| N3-356 | [機能](entries/1221/1221130-kinou.org) | きのう | kinou | 1221130 | learner | draft | **new** | Editorial review |
+| N3-357 | [気の毒](entries/1221/1221770-kinodoku.org) | きのどく | kinodoku | 1221770 | learner | draft | **new** | Editorial review |
+| N3-358 | [寄付](entries/1591/1591400-kifu.org) | きふ | kifu | 1591400 | learner | draft | **new** | Editorial review |
+| N3-359 | [基本](entries/1219/1219190-kihon.org) | きほん | kihon | 1219190 | learner | draft | **new** | Editorial review |
+| N3-360 | [希望](entries/1219/1219910-kibou.org) | きぼう | kibou | 1219910 | learner | draft | **new** | Editorial review |
+| N3-361 | [決まり](entries/1609/1609660-kimari.org) | きまり | kimari | 1609660 | learner | draft | **new** | Editorial review |
+| N3-362 | [気味](entries/1222/1222640-kimi.org) | きみ | kimi | 1222640 | learner | draft | **new** | Editorial review |
+| N3-363 | [奇妙](entries/1219/1219490-kimyou.org) | きみょう | kimyou | 1219490 | learner | draft | **new** | Editorial review |
+| N3-364 | [キャプテン](entries/1041/1041850-kyaputen.org) | キャプテン | kyaputen | 1041850 | learner | draft | **new** | Editorial review |
