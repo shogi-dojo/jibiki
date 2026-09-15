@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1715 |
+| Canonical entry files | 1725 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 346 |
-| N3 queue rows covered | 364 / 1677 (21.7%) |
+| Canonical N3 entries | 356 |
+| N3 queue rows covered | 374 / 1677 (22.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1678 |
+| `new` | 1688 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1705 |
+| Entry metadata still marked `draft` | 1715 |
 | Core profile | 163 |
-| Learner profile | 1551 |
+| Learner profile | 1561 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 364 rows covered (346 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 374 rows covered (356 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1557,3 +1557,13 @@ content and remain at `new` until editorial review.
 | N3-362 | [気味](entries/1222/1222640-kimi.org) | きみ | kimi | 1222640 | learner | draft | **new** | Editorial review |
 | N3-363 | [奇妙](entries/1219/1219490-kimyou.org) | きみょう | kimyou | 1219490 | learner | draft | **new** | Editorial review |
 | N3-364 | [キャプテン](entries/1041/1041850-kyaputen.org) | キャプテン | kyaputen | 1041850 | learner | draft | **new** | Editorial review |
+| N3-365 | [キャンプ](entries/1042/1042200-kyanpu.org) | キャンプ | kyanpu | 1042200 | learner | draft | **new** | Editorial review |
+| N3-366 | [九](entries/1578/1578150-kyuu.org) | きゅう | kyuu | 1578150 | learner | draft | **new** | Editorial review |
+| N3-367 | [旧](entries/1230/1230380-kyuu.org) | きゅう | kyuu | 1230380 | learner | draft | **new** | Editorial review |
+| N3-368 | [級](entries/1919/1919590-kyuu.org) | きゅう | kyuu | 1919590 | learner | draft | **new** | Editorial review |
+| N3-369 | [球](entries/1229/1229880-kyuu.org) | きゅう | kyuu | 1229880 | learner | draft | **new** | Editorial review |
+| N3-370 | [休憩](entries/1227/1227720-kyuukei.org) | きゅうけい | kyuukei | 1227720 | learner | draft | **new** | Editorial review |
+| N3-371 | [急激](entries/1228/1228680-kyuugeki.org) | きゅうげき | kyuugeki | 1228680 | learner | draft | **new** | Editorial review |
+| N3-372 | [吸収](entries/1228/1228330-kyuushuu.org) | きゅうしゅう | kyuushuu | 1228330 | learner | draft | **new** | Editorial review |
+| N3-373 | [救助](entries/1229/1229200-kyuujo.org) | きゅうじょ | kyuujo | 1229200 | learner | draft | **new** | Editorial review |
+| N3-374 | [急速](entries/1228/1228890-kyuusoku.org) | きゅうそく | kyuusoku | 1228890 | learner | draft | **new** | Editorial review |
