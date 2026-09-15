@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1735 |
+| Canonical entry files | 1745 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 366 |
-| N3 queue rows covered | 384 / 1677 (22.9%) |
+| Canonical N3 entries | 376 |
+| N3 queue rows covered | 394 / 1677 (23.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1698 |
+| `new` | 1708 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1725 |
+| Entry metadata still marked `draft` | 1735 |
 | Core profile | 163 |
-| Learner profile | 1571 |
+| Learner profile | 1581 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 384 rows covered (366 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 394 rows covered (376 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1577,3 +1577,13 @@ content and remain at `new` until editorial review.
 | N3-382 | [強調](entries/1236/1236470-kyouchou.org) | きょうちょう | kyouchou | 1236470 | learner | draft | **new** | Editorial review |
 | N3-383 | [共通](entries/1234/1234700-kyoutsuu.org) | きょうつう | kyoutsuu | 1234700 | learner | draft | **new** | Editorial review |
 | N3-384 | [共同](entries/1591/1591660-kyoudou.org) | きょうどう | kyoudou | 1591660 | learner | draft | **new** | Editorial review |
+| N3-385 | [恐怖](entries/1236/1236750-kyoufu.org) | きょうふ | kyoufu | 1236750 | learner | draft | **new** | Editorial review |
+| N3-386 | [協力](entries/1591/1591720-kyouryoku.org) | きょうりょく | kyouryoku | 1591720 | learner | draft | **new** | Editorial review |
+| N3-387 | [強力](entries/1236/1236600-kyouryoku.org) | きょうりょく | kyouryoku | 1236600 | learner | draft | **new** | Editorial review |
+| N3-388 | [許可](entries/1232/1232880-kyoka.org) | きょか | kyoka | 1232880 | learner | draft | **new** | Editorial review |
+| N3-389 | [局](entries/1239/1239560-kyoku.org) | きょく | kyoku | 1239560 | learner | draft | **new** | Editorial review |
+| N3-390 | [極](entries/1956/1956100-kyoku.org) | きょく | kyoku | 1956100 | learner | draft | **new** | Editorial review |
+| N3-391 | [巨大](entries/1232/1232180-kyodai.org) | きょだい | kyodai | 1232180 | learner | draft | **new** | Editorial review |
+| N3-392 | [器用](entries/1218/1218960-kiyou.org) | きよう | kiyou | 1218960 | learner | draft | **new** | Editorial review |
+| N3-393 | [嫌う](entries/1257/1257250-kirau.org) | きらう | kirau | 1257250 | learner | draft | **new** | Editorial review |
+| N3-394 | [霧](entries/1531/1531110-kiri.org) | きり | kiri | 1531110 | learner | draft | **new** | Editorial review |
