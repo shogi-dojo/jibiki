@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1765 |
+| Canonical entry files | 1775 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 396 |
-| N3 queue rows covered | 414 / 1677 (24.7%) |
+| Canonical N3 entries | 406 |
+| N3 queue rows covered | 424 / 1677 (25.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1728 |
+| `new` | 1738 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1755 |
+| Entry metadata still marked `draft` | 1765 |
 | Core profile | 163 |
-| Learner profile | 1601 |
+| Learner profile | 1611 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 414 rows covered (396 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 424 rows covered (406 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1607,3 +1607,13 @@ content and remain at `new` until editorial review.
 | N3-412 | [技師](entries/1225/1225110-gishi.org) | ぎし | gishi | 1225110 | learner | draft | **new** | Editorial review |
 | N3-413 | [義務](entries/1225/1225900-gimu.org) | ぎむ | gimu | 1225900 | learner | draft | **new** | Editorial review |
 | N3-414 | [疑問](entries/1225/1225630-gimon.org) | ぎもん | gimon | 1225630 | learner | draft | **new** | Editorial review |
+| N3-415 | [逆](entries/1226/1226960-gyaku.org) | ぎゃく | gyaku | 1226960 | learner | draft | **new** | Editorial review |
+| N3-416 | [行儀](entries/1281/1281890-gyougi.org) | ぎょうぎ | gyougi | 1281890 | learner | draft | **new** | Editorial review |
+| N3-417 | [議論](entries/1226/1226160-giron.org) | ぎろん | giron | 1226160 | learner | draft | **new** | Editorial review |
+| N3-418 | [銀](entries/1595/1595090-gin.org) | ぎん | gin | 1595090 | learner | draft | **new** | Editorial review |
+| N3-419 | [句](entries/1243/1243940-ku.org) | く | ku | 1243940 | learner | draft | **new** | Editorial review |
+| N3-420 | [食う](entries/1592/1592100-kuu.org) | くう | kuu | 1592100 | learner | draft | **new** | Editorial review |
+| N3-421 | [臭い](entries/1333/1333150-kusai.org) | くさい | kusai | 1333150 | learner | draft | **new** | Editorial review |
+| N3-422 | [鎖](entries/1291/1291730-kusari.org) | くさり | kusari | 1291730 | learner | draft | **new** | Editorial review |
+| N3-423 | [腐る](entries/1497/1497800-kusaru.org) | くさる | kusaru | 1497800 | learner | draft | **new** | Editorial review |
+| N3-424 | [癖](entries/1509/1509350-kuse.org) | くせ | kuse | 1509350 | learner | draft | **new** | Editorial review |
