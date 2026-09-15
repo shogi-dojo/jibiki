@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1695 |
+| Canonical entry files | 1705 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 326 |
-| N3 queue rows covered | 344 / 1677 (20.5%) |
+| Canonical N3 entries | 336 |
+| N3 queue rows covered | 354 / 1677 (21.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1658 |
+| `new` | 1668 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1685 |
+| Entry metadata still marked `draft` | 1695 |
 | Core profile | 163 |
-| Learner profile | 1531 |
+| Learner profile | 1541 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 344 rows covered (326 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 354 rows covered (336 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1537,3 +1537,13 @@ content and remain at `new` until editorial review.
 | N3-342 | [岸](entries/1217/1217040-kishi.org) | きし | kishi | 1217040 | learner | draft | **new** | Editorial review |
 | N3-343 | [記者](entries/1223/1223250-kisha.org) | きしゃ | kisha | 1223250 | learner | draft | **new** | Editorial review |
 | N3-344 | [記事](entries/1223/1223240-kiji.org) | きじ | kiji | 1223240 | learner | draft | **new** | Editorial review |
+| N3-345 | [生地](entries/1379/1379330-kiji.org) | きじ | kiji | 1379330 | learner | draft | **new** | Editorial review |
+| N3-346 | [傷](entries/1580/1580260-kizu.org) | きず | kizu | 1580260 | learner | draft | **new** | Editorial review |
+| N3-347 | [期待](entries/1220/1220570-kitai.org) | きたい | kitai | 1220570 | learner | draft | **new** | Editorial review |
+| N3-348 | [帰宅](entries/1221/1221430-kitaku.org) | きたく | kitaku | 1221430 | learner | draft | **new** | Editorial review |
+| N3-349 | [貴重](entries/1223/1223520-kichou.org) | きちょう | kichou | 1223520 | learner | draft | **new** | Editorial review |
+| N3-350 | [きちんと](entries/1003/1003400-kichinto.org) | きちんと | kichinto | 1003400 | learner | draft | **new** | Editorial review |
+| N3-351 | [きつい](entries/1003/1003450-kitsui.org) | きつい | kitsui | 1003450 | learner | draft | **new** | Editorial review |
+| N3-352 | [気づく](entries/1591/1591330-kizuku.org) | きづく | kizuku | 1591330 | learner | draft | **new** | Editorial review |
+| N3-353 | [気に入る](entries/1221/1221740-kiniiru.org) | きにいる | kiniiru | 1221740 | learner | draft | **new** | Editorial review |
+| N3-354 | [記入](entries/1223/1223330-kinyuu.org) | きにゅう | kinyuu | 1223330 | learner | draft | **new** | Editorial review |
