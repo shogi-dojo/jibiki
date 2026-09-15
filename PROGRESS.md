@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1676 |
+| Canonical entry files | 1686 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 307 |
-| N3 queue rows covered | 324 / 1677 (19.3%) |
+| Canonical N3 entries | 317 |
+| N3 queue rows covered | 334 / 1677 (19.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1639 |
+| `new` | 1649 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1666 |
+| Entry metadata still marked `draft` | 1676 |
 | Core profile | 163 |
-| Learner profile | 1512 |
+| Learner profile | 1522 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 324 rows covered (307 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 334 rows covered (317 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1517,3 +1517,13 @@ content and remain at `new` until editorial review.
 | N3-322 | [画家](entries/1197/1197120-gaka.org) | がか | gaka | 1197120 | learner | draft | **new** | Editorial review |
 | N3-323 | [額](entries/1207/1207500-gaku.org) | がく | gaku | 1207500 | learner | draft | **new** | Editorial review |
 | N3-324 | [学](entries/1955/1955900-gaku.org) | がく | gaku | 1955900 | learner | draft | **new** | Editorial review |
+| N3-325 | [学者](entries/1206/1206800-gakusha.org) | がくしゃ | gakusha | 1206800 | learner | draft | **new** | Editorial review |
+| N3-326 | [学習](entries/1206/1206820-gakushuu.org) | がくしゅう | gakushuu | 1206820 | learner | draft | **new** | Editorial review |
+| N3-327 | [学問](entries/1207/1207130-gakumon.org) | がくもん | gakumon | 1207130 | learner | draft | **new** | Editorial review |
+| N3-328 | [がっかり](entries/1003/1003170-gakkari.org) | がっかり | gakkari | 1003170 | learner | draft | **new** | Editorial review |
+| N3-329 | [学期](entries/1206/1206650-gakki.org) | がっき | gakki | 1206650 | learner | draft | **new** | Editorial review |
+| N3-330 | [我慢](entries/1196/1196970-gaman.org) | がまん | gaman | 1196970 | learner | draft | **new** | Editorial review |
+| N3-331 | [柄](entries/1508/1508300-gara.org) | がら | gara | 1508300 | learner | draft | **new** | Editorial review |
+| N3-332 | [記憶](entries/1223/1223150-kioku.org) | きおく | kioku | 1223150 | learner | draft | **new** | Editorial review |
+| N3-333 | [気温](entries/1221/1221950-kion.org) | きおん | kion | 1221950 | learner | draft | **new** | Editorial review |
+| N3-334 | [機械](entries/1220/1220810-kikai.org) | きかい | kikai | 1220810 | learner | draft | **new** | Editorial review |
