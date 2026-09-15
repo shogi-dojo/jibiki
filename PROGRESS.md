@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1725 |
+| Canonical entry files | 1735 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 356 |
-| N3 queue rows covered | 374 / 1677 (22.3%) |
+| Canonical N3 entries | 366 |
+| N3 queue rows covered | 384 / 1677 (22.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1688 |
+| `new` | 1698 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1715 |
+| Entry metadata still marked `draft` | 1725 |
 | Core profile | 163 |
-| Learner profile | 1561 |
+| Learner profile | 1571 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 374 rows covered (356 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 384 rows covered (366 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1567,3 +1567,13 @@ content and remain at `new` until editorial review.
 | N3-372 | [吸収](entries/1228/1228330-kyuushuu.org) | きゅうしゅう | kyuushuu | 1228330 | learner | draft | **new** | Editorial review |
 | N3-373 | [救助](entries/1229/1229200-kyuujo.org) | きゅうじょ | kyuujo | 1229200 | learner | draft | **new** | Editorial review |
 | N3-374 | [急速](entries/1228/1228890-kyuusoku.org) | きゅうそく | kyuusoku | 1228890 | learner | draft | **new** | Editorial review |
+| N3-375 | [急に](entries/2269/2269050-kyuuni.org) | きゅうに | kyuuni | 2269050 | learner | draft | **new** | Editorial review |
+| N3-376 | [給料](entries/1230/1230360-kyuuryou.org) | きゅうりょう | kyuuryou | 1230360 | learner | draft | **new** | Editorial review |
+| N3-377 | [教科書](entries/1237/1237020-kyoukasho.org) | きょうかしょ | kyoukasho | 1237020 | learner | draft | **new** | Editorial review |
+| N3-378 | [供給](entries/1233/1233630-kyoukyuu.org) | きょうきゅう | kyoukyuu | 1233630 | learner | draft | **new** | Editorial review |
+| N3-379 | [競技](entries/1234/1234080-kyougi.org) | きょうぎ | kyougi | 1234080 | learner | draft | **new** | Editorial review |
+| N3-380 | [教師](entries/1237/1237130-kyoushi.org) | きょうし | kyoushi | 1237130 | learner | draft | **new** | Editorial review |
+| N3-381 | [教授](entries/1237/1237160-kyouju.org) | きょうじゅ | kyouju | 1237160 | learner | draft | **new** | Editorial review |
+| N3-382 | [強調](entries/1236/1236470-kyouchou.org) | きょうちょう | kyouchou | 1236470 | learner | draft | **new** | Editorial review |
+| N3-383 | [共通](entries/1234/1234700-kyoutsuu.org) | きょうつう | kyoutsuu | 1234700 | learner | draft | **new** | Editorial review |
+| N3-384 | [共同](entries/1591/1591660-kyoudou.org) | きょうどう | kyoudou | 1591660 | learner | draft | **new** | Editorial review |
