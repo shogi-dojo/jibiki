@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1745 |
+| Canonical entry files | 1755 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 376 |
-| N3 queue rows covered | 394 / 1677 (23.5%) |
+| Canonical N3 entries | 386 |
+| N3 queue rows covered | 404 / 1677 (24.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1708 |
+| `new` | 1718 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1735 |
+| Entry metadata still marked `draft` | 1745 |
 | Core profile | 163 |
-| Learner profile | 1581 |
+| Learner profile | 1591 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 394 rows covered (376 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 404 rows covered (386 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1587,3 +1587,13 @@ content and remain at `new` until editorial review.
 | N3-392 | [器用](entries/1218/1218960-kiyou.org) | きよう | kiyou | 1218960 | learner | draft | **new** | Editorial review |
 | N3-393 | [嫌う](entries/1257/1257250-kirau.org) | きらう | kirau | 1257250 | learner | draft | **new** | Editorial review |
 | N3-394 | [霧](entries/1531/1531110-kiri.org) | きり | kiri | 1531110 | learner | draft | **new** | Editorial review |
+| N3-395 | [切れ](entries/1384/1384840-kire.org) | きれ | kire | 1384840 | learner | draft | **new** | Editorial review |
+| N3-396 | [切れる](entries/1384/1384860-kireru.org) | きれる | kireru | 1384860 | learner | draft | **new** | Editorial review |
+| N3-397 | [記録](entries/1223/1223440-kiroku.org) | きろく | kiroku | 1223440 | learner | draft | **new** | Editorial review |
+| N3-398 | [金](entries/1242/1242600-kin.org) | きん | kin | 1242600 | learner | draft | **new** | Editorial review |
+| N3-399 | [禁煙](entries/1241/1241490-kinen.org) | きんえん | kinen | 1241490 | learner | draft | **new** | Editorial review |
+| N3-400 | [金額](entries/1242/1242700-kingaku.org) | きんがく | kingaku | 1242700 | learner | draft | **new** | Editorial review |
+| N3-401 | [金庫](entries/1242/1242850-kinko.org) | きんこ | kinko | 1242850 | learner | draft | **new** | Editorial review |
+| N3-402 | [禁止](entries/1241/1241550-kinshi.org) | きんし | kinshi | 1241550 | learner | draft | **new** | Editorial review |
+| N3-403 | [金銭](entries/1243/1243020-kinsen.org) | きんせん | kinsen | 1243020 | learner | draft | **new** | Editorial review |
+| N3-404 | [金属](entries/1243/1243040-kinzoku.org) | きんぞく | kinzoku | 1243040 | learner | draft | **new** | Editorial review |
