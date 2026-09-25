@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1918 |
+| Canonical entry files | 1927 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 549 |
-| N3 queue rows covered | 574 / 1677 (34.2%) |
+| Canonical N3 entries | 558 |
+| N3 queue rows covered | 584 / 1677 (34.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1881 |
+| `new` | 1890 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1908 |
+| Entry metadata still marked `draft` | 1917 |
 | Core profile | 163 |
-| Learner profile | 1754 |
+| Learner profile | 1763 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 574 rows covered (549 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 584 rows covered (558 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1767,3 +1767,13 @@ content and remain at `new` until editorial review.
 | N3-572 | [語](entries/1270/1270910-go.org) | ご | go | 1270910 | learner | draft | **new** | Editorial review |
 | N3-573 | [豪華](entries/1285/1285520-gouka.org) | ごうか | gouka | 1285520 | learner | draft | **new** | Editorial review |
 | N3-574 | [合格](entries/1284/1284600-goukaku.org) | ごうかく | goukaku | 1284600 | learner | draft | **new** | Editorial review |
+| N3-575 | [合計](entries/1284/1284740-goukei.org) | ごうけい | goukei | 1284740 | learner | draft | **new** | Editorial review |
+| N3-576 | [強盗](entries/1236/1236500-goutou.org) | ごうとう | goutou | 1236500 | learner | draft | **new** | Editorial review |
+| N3-577 | [誤解](entries/1271/1271310-gokai.org) | ごかい | gokai | 1271310 | learner | draft | **new** | Editorial review |
+| N3-578 | [語学](entries/1271/1271010-gogaku.org) | ごがく | gogaku | 1271010 | learner | draft | **new** | Editorial review |
+| N3-579 | [ゴミ](entries/1369/1369900-gomi.org) | ごみ | gomi | 1369900 | learner | draft | **new** | Editorial review |
+| N3-580 | [御免なさい](entries/1270/1270680-gomennasai.org) | ごめんなさい | gomennasai | 1270680 | learner | draft | **new** | Editorial review |
+| N3-581 | [ゴール](entries/1054/1054230-gooru.org) | ゴール | gooru | 1054230 | learner | draft | **new** | Editorial review |
+| N3-582 | [差](entries/1291/1291070-sa.org) | さ | sa | 1291070 | learner | draft | **new** | Editorial review |
+| N3-583 | [際](entries/1296/1296300-sai.org) | さい | sai | 1296300 | learner | draft | **new** | Editorial review |
+| N3-584 | [最高](entries/1293/1293850-saikou.org) | さいこう | saikou | 1293850 | learner | draft | **new** | Editorial review |
