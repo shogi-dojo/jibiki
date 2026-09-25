@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1927 |
+| Canonical entry files | 1937 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 558 |
-| N3 queue rows covered | 584 / 1677 (34.8%) |
+| Canonical N3 entries | 568 |
+| N3 queue rows covered | 594 / 1677 (35.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1890 |
+| `new` | 1900 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1917 |
+| Entry metadata still marked `draft` | 1927 |
 | Core profile | 163 |
-| Learner profile | 1763 |
+| Learner profile | 1773 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 584 rows covered (558 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 594 rows covered (568 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1777,3 +1777,13 @@ content and remain at `new` until editorial review.
 | N3-582 | [差](entries/1291/1291070-sa.org) | さ | sa | 1291070 | learner | draft | **new** | Editorial review |
 | N3-583 | [際](entries/1296/1296300-sai.org) | さい | sai | 1296300 | learner | draft | **new** | Editorial review |
 | N3-584 | [最高](entries/1293/1293850-saikou.org) | さいこう | saikou | 1293850 | learner | draft | **new** | Editorial review |
+| N3-585 | [最終](entries/1293/1293940-saishuu.org) | さいしゅう | saishuu | 1293940 | learner | draft | **new** | Editorial review |
+| N3-586 | [最中](entries/1579/1579210-saichuu.org) | さいちゅう | saichuu | 1579210 | learner | draft | **new** | Editorial review |
+| N3-587 | [最低](entries/1294/1294220-saitei.org) | さいてい | saitei | 1294220 | learner | draft | **new** | Editorial review |
+| N3-588 | [才能](entries/1294/1294630-sainou.org) | さいのう | sainou | 1294630 | learner | draft | **new** | Editorial review |
+| N3-589 | [裁判](entries/1296/1296120-saiban.org) | さいばん | saiban | 1296120 | learner | draft | **new** | Editorial review |
+| N3-590 | [幸い](entries/1278/1278380-saiwai.org) | さいわい | saiwai | 1278380 | learner | draft | **new** | Editorial review |
+| N3-591 | [サイン](entries/1056/1056230-sain.org) | サイン | sain | 1056230 | learner | draft | **new** | Editorial review |
+| N3-592 | [境](entries/1235/1235950-sakai.org) | さかい | sakai | 1235950 | learner | draft | **new** | Editorial review |
+| N3-593 | [逆らう](entries/1226/1226990-sakarau.org) | さからう | sakarau | 1226990 | learner | draft | **new** | Editorial review |
+| N3-594 | [盛り](entries/1379/1379640-sakari.org) | さかり | sakari | 1379640 | learner | draft | **new** | Editorial review |
