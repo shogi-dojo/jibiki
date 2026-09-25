@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1821 |
+| Canonical entry files | 1830 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 452 |
-| N3 queue rows covered | 474 / 1677 (28.3%) |
+| Canonical N3 entries | 461 |
+| N3 queue rows covered | 484 / 1677 (28.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1784 |
+| `new` | 1793 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1811 |
+| Entry metadata still marked `draft` | 1820 |
 | Core profile | 163 |
-| Learner profile | 1657 |
+| Learner profile | 1666 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 474 rows covered (452 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 484 rows covered (461 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1667,3 +1667,13 @@ content and remain at `new` until editorial review.
 | N3-472 | [結果](entries/1254/1254690-kekka.org) | けっか | kekka | 1254690 | learner | draft | **new** | Editorial review |
 | N3-473 | [結局](entries/1254/1254730-kekkyoku.org) | けっきょく | kekkyoku | 1254730 | learner | draft | **new** | Editorial review |
 | N3-474 | [決心](entries/1254/1254340-kesshin.org) | けっしん | kesshin | 1254340 | learner | draft | **new** | Editorial review |
+| N3-475 | [決定](entries/1254/1254380-kettei.org) | けってい | kettei | 1254380 | learner | draft | **new** | Editorial review |
+| N3-476 | [欠点](entries/1254/1254050-ketten.org) | けってん | ketten | 1254050 | learner | draft | **new** | Editorial review |
+| N3-477 | [結論](entries/1255/1255020-ketsuron.org) | けつろん | ketsuron | 1255020 | learner | draft | **new** | Editorial review |
+| N3-478 | [煙](entries/1177/1177180-kemuri.org) | けむり | kemuri | 1177180 | learner | draft | **new** | Editorial review |
+| N3-479 | [県](entries/1258/1258810-ken.org) | けん | ken | 1258810 | learner | draft | **new** | Editorial review |
+| N3-480 | [券](entries/1256/1256730-ken.org) | けん | ken | 1256730 | learner | draft | **new** | Editorial review |
+| N3-481 | [軒](entries/2078/2078590-ken.org) | けん | ken | 2078590 | learner | draft | **new** | Editorial review |
+| N3-482 | [見解](entries/1259/1259390-kenkai.org) | けんかい | kenkai | 1259390 | learner | draft | **new** | Editorial review |
+| N3-483 | [健康](entries/1256/1256170-kenkou.org) | けんこう | kenkou | 1256170 | learner | draft | **new** | Editorial review |
+| N3-484 | [検査](entries/1257/1257890-kensa.org) | けんさ | kensa | 1257890 | learner | draft | **new** | Editorial review |
