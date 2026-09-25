@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1947 |
+| Canonical entry files | 1957 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 578 |
-| N3 queue rows covered | 604 / 1677 (36.0%) |
+| Canonical N3 entries | 588 |
+| N3 queue rows covered | 614 / 1677 (36.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1910 |
+| `new` | 1920 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1937 |
+| Entry metadata still marked `draft` | 1947 |
 | Core profile | 163 |
-| Learner profile | 1783 |
+| Learner profile | 1793 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 604 rows covered (578 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 614 rows covered (588 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1797,3 +1797,13 @@ content and remain at `new` until editorial review.
 | N3-602 | [支える](entries/1310/1310090-sasaeru.org) | ささえる | sasaeru | 1310090 | learner | draft | **new** | Editorial review |
 | N3-603 | [指す](entries/1309/1309670-sasu.org) | さす | sasu | 1309670 | learner | draft | **new** | Editorial review |
 | N3-604 | [誘う](entries/1541/1541900-sasou.org) | さそう | sasou | 1541900 | learner | draft | **new** | Editorial review |
+| N3-605 | [作家](entries/1297/1297510-sakka.org) | さっか | sakka | 1297510 | learner | draft | **new** | Editorial review |
+| N3-606 | [作曲](entries/1297/1297650-sakkyoku.org) | さっきょく | sakkyoku | 1297650 | learner | draft | **new** | Editorial review |
+| N3-607 | [さっぱり](entries/1005/1005210-sappari.org) | さっぱり | sappari | 1005210 | learner | draft | **new** | Editorial review |
+| N3-608 | [札](entries/1298/1298960-satsu.org) | さつ | satsu | 1298960 | learner | draft | **new** | Editorial review |
+| N3-609 | [偖](entries/1585/1585460-sate.org) | さて | sate | 1585460 | learner | draft | **new** | Editorial review |
+| N3-610 | [砂漠](entries/1593/1593800-sabaku.org) | さばく | sabaku | 1593800 | learner | draft | **new** | Editorial review |
+| N3-611 | [差別](entries/1291/1291410-sabetsu.org) | さべつ | sabetsu | 1291410 | learner | draft | **new** | Editorial review |
+| N3-612 | [作法](entries/1297/1297980-sahou.org) | さほう | sahou | 1297980 | learner | draft | **new** | Editorial review |
+| N3-613 | [様々](entries/1593/1593830-samazama.org) | さまざま | samazama | 1593830 | learner | draft | **new** | Editorial review |
+| N3-614 | [覚ます](entries/1206/1206060-samasu.org) | さます | samasu | 1206060 | learner | draft | **new** | Editorial review |
