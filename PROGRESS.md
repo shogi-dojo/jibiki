@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1890 |
+| Canonical entry files | 1899 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 521 |
-| N3 queue rows covered | 544 / 1677 (32.4%) |
+| Canonical N3 entries | 530 |
+| N3 queue rows covered | 554 / 1677 (33.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1853 |
+| `new` | 1862 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1880 |
+| Entry metadata still marked `draft` | 1889 |
 | Core profile | 163 |
-| Learner profile | 1726 |
+| Learner profile | 1735 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 544 rows covered (521 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 554 rows covered (530 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1737,3 +1737,13 @@ content and remain at `new` until editorial review.
 | N3-542 | [国家](entries/1286/1286170-kokka.org) | こっか | kokka | 1286170 | learner | draft | **new** | Editorial review |
 | N3-543 | [国会](entries/1286/1286240-kokkai.org) | こっかい | kokkai | 1286240 | learner | draft | **new** | Editorial review |
 | N3-544 | [国境](entries/1286/1286320-kokkyou.org) | こっきょう | kokkyou | 1286320 | learner | draft | **new** | Editorial review |
+| N3-545 | [骨折](entries/1288/1288640-kossetsu.org) | こっせつ | kossetsu | 1288640 | learner | draft | **new** | Editorial review |
+| N3-546 | [小包](entries/1593/1593290-kozutsumi.org) | こづつみ | kozutsumi | 1593290 | learner | draft | **new** | Editorial review |
+| N3-547 | [事](entries/1313/1313580-koto.org) | こと | koto | 1313580 | learner | draft | **new** | Editorial review |
+| N3-548 | [異なる](entries/1157/1157510-kotonaru.org) | ことなる | kotonaru | 1157510 | learner | draft | **new** | Editorial review |
+| N3-549 | [諺](entries/1264/1264600-kotowaza.org) | ことわざ | kotowaza | 1264600 | learner | draft | **new** | Editorial review |
+| N3-550 | [断る](entries/1419/1419570-kotowaru.org) | ことわる | kotowaru | 1419570 | learner | draft | **new** | Editorial review |
+| N3-551 | [粉](entries/1504/1504770-kona.org) | こな | kona | 1504770 | learner | draft | **new** | Editorial review |
+| N3-552 | [好み](entries/1277/1277500-konomi.org) | このみ | konomi | 1277500 | learner | draft | **new** | Editorial review |
+| N3-553 | [好む](entries/1277/1277520-konomu.org) | このむ | konomu | 1277520 | learner | draft | **new** | Editorial review |
+| N3-554 | [小麦](entries/1348/1348630-komugi.org) | こむぎ | komugi | 1348630 | learner | draft | **new** | Editorial review |
