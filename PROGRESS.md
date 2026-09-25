@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1775 |
+| Canonical entry files | 1784 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 406 |
-| N3 queue rows covered | 424 / 1677 (25.3%) |
+| Canonical N3 entries | 415 |
+| N3 queue rows covered | 434 / 1677 (25.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1738 |
+| `new` | 1747 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1765 |
+| Entry metadata still marked `draft` | 1774 |
 | Core profile | 163 |
-| Learner profile | 1611 |
+| Learner profile | 1620 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 424 rows covered (406 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 434 rows covered (415 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1617,3 +1617,13 @@ content and remain at `new` until editorial review.
 | N3-422 | [鎖](entries/1291/1291730-kusari.org) | くさり | kusari | 1291730 | learner | draft | **new** | Editorial review |
 | N3-423 | [腐る](entries/1497/1497800-kusaru.org) | くさる | kusaru | 1497800 | learner | draft | **new** | Editorial review |
 | N3-424 | [癖](entries/1509/1509350-kuse.org) | くせ | kuse | 1509350 | learner | draft | **new** | Editorial review |
+| N3-425 | [下さる](entries/1184/1184280-kudasaru.org) | くださる | kudasaru | 1184280 | learner | draft | **new** | Editorial review |
+| N3-426 | [下り](entries/1184/1184370-kudari.org) | くだり | kudari | 1184370 | learner | draft | **new** | Editorial review |
+| N3-427 | [苦痛](entries/1244/1244560-kutsuu.org) | くつう | kutsuu | 1244560 | learner | draft | **new** | Editorial review |
+| N3-428 | [区別](entries/1244/1244250-kubetsu.org) | くべつ | kubetsu | 1244250 | learner | draft | **new** | Editorial review |
+| N3-429 | [組](entries/1397/1397450-kumi.org) | くみ | kumi | 1397450 | learner | draft | **new** | Editorial review |
+| N3-430 | [組合](entries/1397/1397620-kumiai.org) | くみあい | kumiai | 1397620 | learner | draft | **new** | Editorial review |
+| N3-431 | [組む](entries/1397/1397590-kumu.org) | くむ | kumu | 1397590 | learner | draft | **new** | Editorial review |
+| N3-432 | [位](entries/1155/1155400-kurai.org) | くらい | kurai | 1155400 | learner | draft | **new** | Editorial review |
+| N3-433 | [暮らし](entries/1514/1514930-kurashi.org) | くらし | kurashi | 1514930 | learner | draft | **new** | Editorial review |
+| N3-434 | [クラシック](entries/1044/1044020-kurashikku.org) | クラシック | kurashikku | 1044020 | learner | draft | **new** | Editorial review |
