@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1899 |
+| Canonical entry files | 1909 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 530 |
-| N3 queue rows covered | 554 / 1677 (33.0%) |
+| Canonical N3 entries | 540 |
+| N3 queue rows covered | 564 / 1677 (33.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1862 |
+| `new` | 1872 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1889 |
+| Entry metadata still marked `draft` | 1899 |
 | Core profile | 163 |
-| Learner profile | 1735 |
+| Learner profile | 1745 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 554 rows covered (530 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 564 rows covered (540 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1747,3 +1747,13 @@ content and remain at `new` until editorial review.
 | N3-552 | [好み](entries/1277/1277500-konomi.org) | このみ | konomi | 1277500 | learner | draft | **new** | Editorial review |
 | N3-553 | [好む](entries/1277/1277520-konomu.org) | このむ | konomu | 1277520 | learner | draft | **new** | Editorial review |
 | N3-554 | [小麦](entries/1348/1348630-komugi.org) | こむぎ | komugi | 1348630 | learner | draft | **new** | Editorial review |
+| N3-555 | [小屋](entries/1347/1347830-koya.org) | こや | koya | 1347830 | learner | draft | **new** | Editorial review |
+| N3-556 | [これ等](entries/1004/1004830-korera.org) | これら | korera | 1004830 | learner | draft | **new** | Editorial review |
+| N3-557 | [頃](entries/1579/1579080-koro.org) | ころ | koro | 1579080 | learner | draft | **new** | Editorial review |
+| N3-558 | [殺す](entries/1299/1299030-korosu.org) | ころす | korosu | 1299030 | learner | draft | **new** | Editorial review |
+| N3-559 | [転ぶ](entries/1582/1582130-korobu.org) | ころぶ | korobu | 1582130 | learner | draft | **new** | Editorial review |
+| N3-560 | [今回](entries/1289/1289070-konkai.org) | こんかい | konkai | 1289070 | learner | draft | **new** | Editorial review |
+| N3-561 | [今後](entries/1289/1289140-kongo.org) | こんご | kongo | 1289140 | learner | draft | **new** | Editorial review |
+| N3-562 | [混雑](entries/1290/1290390-konzatsu.org) | こんざつ | konzatsu | 1290390 | learner | draft | **new** | Editorial review |
+| N3-563 | [こんなに](entries/1004/1004890-konnani.org) | こんなに | konnani | 1004890 | learner | draft | **new** | Editorial review |
+| N3-564 | [困難](entries/1289/1289620-konnan.org) | こんなん | konnan | 1289620 | learner | draft | **new** | Editorial review |
