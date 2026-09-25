@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1784 |
+| Canonical entry files | 1794 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 415 |
-| N3 queue rows covered | 434 / 1677 (25.9%) |
+| Canonical N3 entries | 425 |
+| N3 queue rows covered | 444 / 1677 (26.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1747 |
+| `new` | 1757 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1774 |
+| Entry metadata still marked `draft` | 1784 |
 | Core profile | 163 |
-| Learner profile | 1620 |
+| Learner profile | 1630 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 434 rows covered (415 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 444 rows covered (425 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1627,3 +1627,13 @@ content and remain at `new` until editorial review.
 | N3-432 | [位](entries/1155/1155400-kurai.org) | くらい | kurai | 1155400 | learner | draft | **new** | Editorial review |
 | N3-433 | [暮らし](entries/1514/1514930-kurashi.org) | くらし | kurashi | 1514930 | learner | draft | **new** | Editorial review |
 | N3-434 | [クラシック](entries/1044/1044020-kurashikku.org) | クラシック | kurashikku | 1044020 | learner | draft | **new** | Editorial review |
+| N3-435 | [暮らす](entries/1514/1514940-kurasu.org) | くらす | kurasu | 1514940 | learner | draft | **new** | Editorial review |
+| N3-436 | [繰り返す](entries/1247/1247030-kurikaesu.org) | くりかえす | kurikaesu | 1247030 | learner | draft | **new** | Editorial review |
+| N3-437 | [クリスマス](entries/1044/1044830-kurisumasu.org) | クリスマス | kurisumasu | 1044830 | learner | draft | **new** | Editorial review |
+| N3-438 | [クリーム](entries/1044/1044480-kuriimu.org) | クリーム | kuriimu | 1044480 | learner | draft | **new** | Editorial review |
+| N3-439 | [狂う](entries/1237/1237510-kuruu.org) | くるう | kuruu | 1237510 | learner | draft | **new** | Editorial review |
+| N3-440 | [苦しい](entries/1244/1244320-kurushii.org) | くるしい | kurushii | 1244320 | learner | draft | **new** | Editorial review |
+| N3-441 | [苦しむ](entries/1244/1244350-kurushimu.org) | くるしむ | kurushimu | 1244350 | learner | draft | **new** | Editorial review |
+| N3-442 | [暮れ](entries/1514/1514950-kure.org) | くれ | kure | 1514950 | learner | draft | **new** | Editorial review |
+| N3-443 | [苦労](entries/1244/1244680-kurou.org) | くろう | kurou | 1244680 | learner | draft | **new** | Editorial review |
+| N3-444 | [加える](entries/1189/1189960-kuwaeru.org) | くわえる | kuwaeru | 1189960 | learner | draft | **new** | Editorial review |
