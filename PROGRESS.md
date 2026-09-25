@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1840 |
+| Canonical entry files | 1850 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 471 |
-| N3 queue rows covered | 494 / 1677 (29.5%) |
+| Canonical N3 entries | 481 |
+| N3 queue rows covered | 504 / 1677 (30.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1803 |
+| `new` | 1813 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1830 |
+| Entry metadata still marked `draft` | 1840 |
 | Core profile | 163 |
-| Learner profile | 1676 |
+| Learner profile | 1686 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 494 rows covered (471 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 504 rows covered (481 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1687,3 +1687,13 @@ content and remain at `new` until editorial review.
 | N3-492 | [下](entries/2080/2080200-ge.org) | げ | ge | 2080200 | learner | draft | **new** | Editorial review |
 | N3-493 | [芸術](entries/1253/1253060-geijutsu.org) | げいじゅつ | geijutsu | 1253060 | learner | draft | **new** | Editorial review |
 | N3-494 | [劇](entries/1253/1253310-geki.org) | げき | geki | 1253310 | learner | draft | **new** | Editorial review |
+| N3-495 | [劇場](entries/1253/1253410-gekijou.org) | げきじょう | gekijou | 1253410 | learner | draft | **new** | Editorial review |
+| N3-496 | [月](entries/2153/2153740-getsu.org) | げつ | getsu | 2153740 | learner | draft | **new** | Editorial review |
+| N3-497 | [月曜](entries/1255/1255880-getsuyou.org) | げつよう | getsuyou | 1255880 | learner | draft | **new** | Editorial review |
+| N3-498 | [限界](entries/1264/1264650-genkai.org) | げんかい | genkai | 1264650 | learner | draft | **new** | Editorial review |
+| N3-499 | [現金](entries/1263/1263550-genkin.org) | げんきん | genkin | 1263550 | learner | draft | **new** | Editorial review |
+| N3-500 | [言語](entries/1264/1264420-gengo.org) | げんご | gengo | 1264420 | learner | draft | **new** | Editorial review |
+| N3-501 | [現在](entries/1263/1263650-genzai.org) | げんざい | genzai | 1263650 | learner | draft | **new** | Editorial review |
+| N3-502 | [現象](entries/1263/1263750-genshou.org) | げんしょう | genshou | 1263750 | learner | draft | **new** | Editorial review |
+| N3-503 | [現実](entries/1263/1263710-genjitsu.org) | げんじつ | genjitsu | 1263710 | learner | draft | **new** | Editorial review |
+| N3-504 | [現状](entries/1263/1263770-genjou.org) | げんじょう | genjou | 1263770 | learner | draft | **new** | Editorial review |
