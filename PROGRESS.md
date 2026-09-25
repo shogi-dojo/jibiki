@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1804 |
+| Canonical entry files | 1812 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 435 |
-| N3 queue rows covered | 454 / 1677 (27.1%) |
+| Canonical N3 entries | 443 |
+| N3 queue rows covered | 464 / 1677 (27.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1767 |
+| `new` | 1775 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1794 |
+| Entry metadata still marked `draft` | 1802 |
 | Core profile | 163 |
-| Learner profile | 1640 |
+| Learner profile | 1648 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 454 rows covered (435 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 464 rows covered (443 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1647,3 +1647,13 @@ content and remain at `new` until editorial review.
 | N3-452 | [グラス](entries/1046/1046430-gurasu.org) | グラス | gurasu | 1046430 | learner | draft | **new** | Editorial review |
 | N3-453 | [グランド](entries/1046/1046840-gurando.org) | グランド | gurando | 1046840 | learner | draft | **new** | Editorial review |
 | N3-454 | [グループ](entries/1047/1047300-guruupu.org) | グループ | guruupu | 1047300 | learner | draft | **new** | Editorial review |
+| N3-455 | [軍](entries/1247/1247660-gun.org) | ぐん | gun | 1247660 | learner | draft | **new** | Editorial review |
+| N3-456 | [軍隊](entries/1248/1248710-guntai.org) | ぐんたい | guntai | 1248710 | learner | draft | **new** | Editorial review |
+| N3-457 | [敬意](entries/1250/1250720-keii.org) | けいい | keii | 1250720 | learner | draft | **new** | Editorial review |
+| N3-458 | [経営](entries/1251/1251130-keiei.org) | けいえい | keiei | 1251130 | learner | draft | **new** | Editorial review |
+| N3-459 | [計画](entries/1252/1252090-keikaku.org) | けいかく | keikaku | 1252090 | learner | draft | **new** | Editorial review |
+| N3-460 | [景気](entries/1250/1250830-keiki.org) | けいき | keiki | 1250830 | learner | draft | **new** | Editorial review |
+| N3-461 | [経験](entries/1251/1251270-keiken.org) | けいけん | keiken | 1251270 | learner | draft | **new** | Editorial review |
+| N3-462 | [傾向](entries/1249/1249470-keikou.org) | けいこう | keikou | 1249470 | learner | draft | **new** | Editorial review |
+| N3-463 | [警告](entries/1252/1252360-keikoku.org) | けいこく | keikoku | 1252360 | learner | draft | **new** | Editorial review |
+| N3-464 | [計算](entries/1252/1252140-keisan.org) | けいさん | keisan | 1252140 | learner | draft | **new** | Editorial review |
