@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1830 |
+| Canonical entry files | 1840 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 461 |
-| N3 queue rows covered | 484 / 1677 (28.9%) |
+| Canonical N3 entries | 471 |
+| N3 queue rows covered | 494 / 1677 (29.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1793 |
+| `new` | 1803 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1820 |
+| Entry metadata still marked `draft` | 1830 |
 | Core profile | 163 |
-| Learner profile | 1666 |
+| Learner profile | 1676 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 484 rows covered (461 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 494 rows covered (471 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1677,3 +1677,13 @@ content and remain at `new` until editorial review.
 | N3-482 | [見解](entries/1259/1259390-kenkai.org) | けんかい | kenkai | 1259390 | learner | draft | **new** | Editorial review |
 | N3-483 | [健康](entries/1256/1256170-kenkou.org) | けんこう | kenkou | 1256170 | learner | draft | **new** | Editorial review |
 | N3-484 | [検査](entries/1257/1257890-kensa.org) | けんさ | kensa | 1257890 | learner | draft | **new** | Editorial review |
+| N3-485 | [建設](entries/1257/1257420-kensetsu.org) | けんせつ | kensetsu | 1257420 | learner | draft | **new** | Editorial review |
+| N3-486 | [建築](entries/1257/1257500-kenchiku.org) | けんちく | kenchiku | 1257500 | learner | draft | **new** | Editorial review |
+| N3-487 | [検討](entries/1258/1258000-kentou.org) | けんとう | kentou | 1258000 | learner | draft | **new** | Editorial review |
+| N3-488 | [見当](entries/1259/1259930-kentou.org) | けんとう | kentou | 1259930 | learner | draft | **new** | Editorial review |
+| N3-489 | [憲法](entries/1257/1257590-kenpou.org) | けんぽう | kenpou | 1257590 | learner | draft | **new** | Editorial review |
+| N3-490 | [権利](entries/1258/1258200-kenri.org) | けんり | kenri | 1258200 | learner | draft | **new** | Editorial review |
+| N3-491 | [ケース](entries/1047/1047880-ke-su.org) | ケース | ke-su | 1047880 | learner | draft | **new** | Editorial review |
+| N3-492 | [下](entries/2080/2080200-ge.org) | げ | ge | 2080200 | learner | draft | **new** | Editorial review |
+| N3-493 | [芸術](entries/1253/1253060-geijutsu.org) | げいじゅつ | geijutsu | 1253060 | learner | draft | **new** | Editorial review |
+| N3-494 | [劇](entries/1253/1253310-geki.org) | げき | geki | 1253310 | learner | draft | **new** | Editorial review |
