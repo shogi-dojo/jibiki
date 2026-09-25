@@ -1,0 +1,667 @@
+#+TITLE: 州
+#+JMDICT_ID: 1331840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅう
+#+ROMAJI: shuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1331840-001
+:PROPERTIES:
+:TEXT: 州
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Written form wf-1331840-002
+:PROPERTIES:
+:TEXT: 洲
+:END:
+** Reading rd-1331840-001
+:PROPERTIES:
+:TEXT: しゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1331840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 75eb5c53fc4ced8d380032ba1a25e572b0257f812a3d6647c697b0ce0a1c7d96
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- state (of the US, Australia, India, Germany, etc.)
+- province (e.g. of Canada)
+- county (e.g. of the UK)
+- region (e.g. of Italy)
+- canton
+- oblast
+** Ukrainian glosses
+*** uk-s-1331840-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: штат
+*** uk-s-1331840-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: провінція
+*** uk-s-1331840-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: земля (федеральна)
+** Learner notes
+*** note-s-1331840-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та суфікс на позначення адміністративної одиниці держави: штату (в США чи Австралії), землі (в Німеччині), провінції чи кантону (наприклад, =ハワイ州= — штат Гаваї, =各州= — кожен штат).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1331840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼はアメリカのハワイ州に住んでいる。
+- READING :: かれはアメリカのハワイしゅうにすんでいる。
+- UK :: Він живе в американському штаті Гаваї.
+- EN :: He lives in the US state of Hawaii.
+- FOCUS :: 州
+*** ex-1331840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: アメリカには五十の州がある。
+- READING :: アメリカにはごじゅうのしゅうがある。
+- UK :: У Сполучених Штатах є п'ятдесят штатів.
+- EN :: There are fifty states in the United States.
+- FOCUS :: 州
+*** ex-1331840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 州の法律によって規則が大きく異なる場合がある。
+- READING :: しゅうのほうりつによってきそくがおおきくことなるばあいがある。
+- UK :: Залежно від законів штату правила можуть значно відрізнятися.
+- EN :: Depending on state law, regulations may differ greatly.
+- FOCUS :: 州
+
+* Sense s-1331840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ec6e54861507cb03b0340ff3e2d0d9e49ae6276fd8d0b618a0fdcc473481f0b9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- continent
+** Ukrainian glosses
+*** uk-s-1331840-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: континент
+*** uk-s-1331840-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: частина світу
+** Learner notes
+*** note-s-1331840-002-001
+:PROPERTIES:
+:END:
+- UK :: Вживається як суфікс у скорочених назвах континентів (наприклад, =欧州= / =おうしゅう= — Європа, =豪州= / =ごうしゅう= — Австралія).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1331840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 20046ae2093e4740909ba43a3876b5c22ffb621e496d4b8dbadbfbb341e4180d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+*** Miscellaneous and register
+- hist
+*** Cross-references
+- 国・5
+** English glosses
+- province (of Japan)
+** Ukrainian glosses
+*** uk-s-1331840-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: провінція (історична в Японії)
+** Learner notes
+*** note-s-1331840-003-001
+:PROPERTIES:
+:END:
+- UK :: Історичний суфікс для провінцій домодерної Японії (наприклад, =本州=, =甲州=).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1331840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 148fb56fc362d8b79938ac3075b442b2ee14b8333a64d3626e1490a7765093cd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+*** Miscellaneous and register
+- hist
+** English glosses
+- province (of ancient China)
+- prefecture
+- department
+** Ukrainian glosses
+*** uk-s-1331840-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: область (у стародавньому Китаї)
+** Learner notes
+*** note-s-1331840-004-001
+:PROPERTIES:
+:END:
+- UK :: Історична провінція або префектура у стародавньому Китаї.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1331840-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 45670f65c4ddf8a6ff840c5249b0741ac3f5788c4d2d1bc35f79e26e69628e8e
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+*** Miscellaneous and register
+- arch
+*** Sense information
+- after a person's name
+** English glosses
+- dear
+** Ukrainian glosses
+*** uk-s-1331840-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: шановний
+** Learner notes
+*** note-s-1331840-005-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий суфікс пестливого чи шанобливого звертання після імені (в період Едо).
+- LEVEL :: intermediate
+- REGISTER :: archaic
+
+* Sense s-1331840-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1e13841f595ba68cd29e587131d7ca877abae1cd72b26286ac06dd42a79eac7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: provincie
+*** en-s-1331840-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewest
+*** en-s-1331840-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in het V.K.} graafschap
+** Ukrainian glosses
+
+* Sense s-1331840-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4d682ea3c3ee6e0ee4f47899df30894b3ec02dd9c8454047c4e54baabb1b7f1c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staat
+*** en-s-1331840-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deelstaat
+*** en-s-1331840-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in Belg.} gewest
+*** en-s-1331840-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in Duitsland
+*** en-s-1331840-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oostenrijk} Land
+*** en-s-1331840-007-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in Zwitserland} kanton
+** Ukrainian glosses
+
+* Sense s-1331840-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: dec2ce356a2fcf1f8b41c9eb566526726260e5e4aad9649a43a050f86ebbe023
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: continent
+*** en-s-1331840-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werelddeel
+** Ukrainian glosses
+
+* Sense s-1331840-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 09895a223e27adb774969b44cdd266ea824990976eaf5de1081f1e183f53cdea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: état
+*** en-s-1331840-009-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pays
+** Ukrainian glosses
+
+* Sense s-1331840-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c97153b9d834fc0586d7d1e970e722dc50e91eebeeeb36b85aa5f06dbf65aa8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Provinz (in China)
+*** en-s-1331840-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Provinz (anderes Wort für kuni国; insbes. in sinojp. Zusammensetzungen)
+*** en-s-1331840-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilstaat eines Bundesstaates
+*** en-s-1331840-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bundesstaat (z.B. bei USA, Australien u. Brasilien)
+*** en-s-1331840-010-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bundesland
+*** en-s-1331840-010-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Land (z.B. Deutschland und Österrich)
+*** en-s-1331840-010-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kanton (in der Schweiz)
+*** en-s-1331840-010-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Provinz
+*** en-s-1331840-010-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Territorium (in Kanada)
+*** en-s-1331840-010-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: County (Verwaltungseinheit in Großbritanien)
+*** en-s-1331840-010-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kontinent
+*** en-s-1331840-010-012
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdteil
+** Ukrainian glosses
+
+* Sense s-1331840-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 4433f1753bc95bc52e8f84437382fd63cf6ab7aa9ce8116bc615a6f3fc878139
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Suffix an z.B. Personennamen, um Kosenamen zu bilden (in der Edo-Zeit verwendet)
+** Ukrainian glosses
+
+* Sense s-1331840-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 06a215f266f1f832e7158fa86b521d29ebe6df263e67397cbe626ebda48c3d03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állam-
+*** en-s-1331840-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állam
+*** en-s-1331840-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állami
+*** en-s-1331840-012-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fény
+*** en-s-1331840-012-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: státusz
+*** en-s-1331840-012-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: működési kör
+*** en-s-1331840-012-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terület
+** Ukrainian glosses
+
+* Sense s-1331840-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: dc9fdd750ef9c3bab134cf35a8c2b25eaad5ee971d63265bf5342db5827b212d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (ист.) провинция (в Японии)
+*** en-s-1331840-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) область; штат (в Америке)
+*** en-s-1331840-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: континент, материк
+** Ukrainian glosses
+
+* Sense s-1331840-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: b30de1979a00be10dad47bcc8896922f9e66a01180ad01405b5bdadcdb9fb050
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1331840-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: región
+*** en-s-1331840-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estado miembro (de un Estado federal)
+*** en-s-1331840-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: provincia
+*** en-s-1331840-014-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cantón
+*** en-s-1331840-014-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comunidad autónoma
+** Ukrainian glosses
