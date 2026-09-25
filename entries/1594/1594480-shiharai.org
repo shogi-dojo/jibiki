@@ -1,0 +1,460 @@
+#+TITLE: 支払い
+#+JMDICT_ID: 1594480
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しはらい
+#+ROMAJI: shiharai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1594480-001
+:PROPERTIES:
+:TEXT: 支払い
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Written form wf-1594480-002
+:PROPERTIES:
+:TEXT: 支払
+:END:
+*** Priorities
+- spec1
+** Reading rd-1594480-001
+:PROPERTIES:
+:TEXT: しはらい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+- spec1
+
+* Sense s-1594480-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa45ea8d3a7e36953230ddc45df74ff1bc03f1ae57e62dca9eb5846496b2bfa1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- payment
+** Ukrainian glosses
+*** uk-s-1594480-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: оплата
+*** uk-s-1594480-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: платіж
+*** uk-s-1594480-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виплата
+** Learner notes
+*** note-s-1594480-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від дієслова =支払う= (платити). Позначає здійснення розрахунку чи сплати грошей. Дуже часто вживається у сполученнях: =支払い方法= (спосіб оплати), =支払期日= (термін оплати).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1594480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 支払いは現金でお願いします。
+- READING :: しはらいはげんきんでおねがいします。
+- UK :: Оплата готівкою будь ласка.
+- EN :: Please pay in cash.
+- FOCUS :: 支払い
+*** ex-1594480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: クレジットカードでの支払いが可能です。
+- READING :: クレジットカードでのしはらいがかのうです。
+- UK :: Можлива оплата кредитною карткою.
+- EN :: Payment by credit card is possible.
+- FOCUS :: 支払い
+*** ex-1594480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今月の家賃の支払いを済ませた。
+- READING :: こんげつのやちんのしはらいをすませた。
+- UK :: Я закінчив оплату оренди за цей місяць.
+- EN :: I finished paying this month's rent.
+- FOCUS :: 支払い
+
+* Sense s-1594480-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ec6d71f775a3644c01ef209d4c9d5d957ae6bd28ba654d3a8c86aa06c7d5fd34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betaling
+*** en-s-1594480-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voldoening
+*** en-s-1594480-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereffening
+*** en-s-1594480-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdoening
+*** en-s-1594480-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. rekening} afrekening
+*** en-s-1594480-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} afbetaling
+*** en-s-1594480-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. een schuld} terugbetaling
+*** en-s-1594480-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. een schuld
+*** en-s-1594480-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obligaties} aflossing
+*** en-s-1594480-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. een schuld} honorering
+*** en-s-1594480-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. een schuld} delging
+*** en-s-1594480-002-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. een schuld} kwijting
+*** en-s-1594480-002-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. loon} uitbetaling
+*** en-s-1594480-002-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitkering
+*** en-s-1594480-002-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekostiging
+** Ukrainian glosses
+
+* Sense s-1594480-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b8a9cc3c7f38f123042000e598f8d4ee146d5b11cda342d226da8173f5016b2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: paiement
+** Ukrainian glosses
+
+* Sense s-1594480-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 574c3d001788fb80eed625428382cb13ba4584ba08e0cf83d6b7f083f8206384
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlung
+*** en-s-1594480-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bezahlung
+** Ukrainian glosses
+
+* Sense s-1594480-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc90e89bdb8c6e841fedb6e7ed4d06f371a82fedb09502bcb47f1ce427fcba5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bér
+*** en-s-1594480-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fizetség
+*** en-s-1594480-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiszteletdíj
+*** en-s-1594480-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifizetés
+*** en-s-1594480-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bér
+*** en-s-1594480-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fizetség
+*** en-s-1594480-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiszteletdíj
+** Ukrainian glosses
+
+* Sense s-1594480-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4d44a3cb89fd77b8c2dd4330d653b3c3b53379f93f546096451392a0686b8789
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: уплата, выплата, платёж
+*** en-s-1594480-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[を]する} (см.) しはらう
+** Ukrainian glosses
+
+* Sense s-1594480-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 29caaf65d205b49fc00ad440100861336f2a61d62518ac54fd4b21439c66309b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plačilo
+** Ukrainian glosses
+
+* Sense s-1594480-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d1f187ab39ee30de633bc949d2fd53a5ae075eec3c75d7ddd3ee510c7f654d17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pago
+** Ukrainian glosses
+
+* Sense s-1594480-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0d5265f1686ea6f98ad953bc2309821a6bd90780a2e4ceee172cf54c12acc66e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1594480-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betalning
+*** en-s-1594480-009-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erläggande
+*** en-s-1594480-009-003
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inbetalning
+*** en-s-1594480-009-004
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: likvid
+** Ukrainian glosses
