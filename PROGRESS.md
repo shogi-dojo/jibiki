@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1850 |
+| Canonical entry files | 1860 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 481 |
-| N3 queue rows covered | 504 / 1677 (30.1%) |
+| Canonical N3 entries | 491 |
+| N3 queue rows covered | 514 / 1677 (30.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1813 |
+| `new` | 1823 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1840 |
+| Entry metadata still marked `draft` | 1850 |
 | Core profile | 163 |
-| Learner profile | 1686 |
+| Learner profile | 1696 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 504 rows covered (481 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 514 rows covered (491 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1697,3 +1697,13 @@ content and remain at `new` until editorial review.
 | N3-502 | [現象](entries/1263/1263750-genshou.org) | げんしょう | genshou | 1263750 | learner | draft | **new** | Editorial review |
 | N3-503 | [現実](entries/1263/1263710-genjitsu.org) | げんじつ | genjitsu | 1263710 | learner | draft | **new** | Editorial review |
 | N3-504 | [現状](entries/1263/1263770-genjou.org) | げんじょう | genjou | 1263770 | learner | draft | **new** | Editorial review |
+| N3-505 | [現代](entries/1263/1263810-gendai.org) | げんだい | gendai | 1263810 | learner | draft | **new** | Editorial review |
+| N3-506 | [現場](entries/1263/1263760-genba.org) | げんば | genba | 1263760 | learner | draft | **new** | Editorial review |
+| N3-507 | [ゲーム](entries/1048/1048400-ge-mu.org) | ゲーム | ge-mu | 1048400 | learner | draft | **new** | Editorial review |
+| N3-508 | [恋](entries/1558/1558670-koi.org) | こい | koi | 1558670 | learner | draft | **new** | Editorial review |
+| N3-509 | [濃い](entries/1469/1469890-koi.org) | こい | koi | 1469890 | learner | draft | **new** | Editorial review |
+| N3-510 | [恋人](entries/1558/1558920-koibito.org) | こいびと | koibito | 1558920 | learner | draft | **new** | Editorial review |
+| N3-511 | [幸運](entries/1592/1592930-kouun.org) | こううん | kouun | 1592930 | learner | draft | **new** | Editorial review |
+| N3-512 | [講演](entries/1282/1282240-kouen.org) | こうえん | kouen | 1282240 | learner | draft | **new** | Editorial review |
+| N3-513 | [効果](entries/1275/1275130-kouka.org) | こうか | kouka | 1275130 | learner | draft | **new** | Editorial review |
+| N3-514 | [硬貨](entries/1280/1280530-kouka.org) | こうか | kouka | 1280530 | learner | draft | **new** | Editorial review |
