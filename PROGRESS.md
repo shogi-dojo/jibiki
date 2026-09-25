@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1977 |
+| Canonical entry files | 1985 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 608 |
-| N3 queue rows covered | 634 / 1677 (37.8%) |
+| Canonical N3 entries | 616 |
+| N3 queue rows covered | 644 / 1677 (38.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1940 |
+| `new` | 1948 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1967 |
+| Entry metadata still marked `draft` | 1975 |
 | Core profile | 163 |
-| Learner profile | 1813 |
+| Learner profile | 1821 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 634 rows covered (608 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 644 rows covered (616 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1827,3 +1827,13 @@ content and remain at `new` until editorial review.
 | N3-632 | [詩](entries/1929/1929950-shi.org) | し | shi | 1929950 | learner | draft | **new** | Editorial review |
 | N3-633 | [幸せ](entries/1594/1594060-shiawase.org) | しあわせ | shiawase | 1594060 | learner | draft | **new** | Editorial review |
 | N3-634 | [然も](entries/1506/1506050-shikamo.org) | しかも | shikamo | 1506050 | learner | draft | **new** | Editorial review |
+| N3-635 | [叱る](entries/1319/1319580-shikaru.org) | しかる | shikaru | 1319580 | learner | draft | **new** | Editorial review |
+| N3-636 | [式](entries/1319/1319060-shiki.org) | しき | shiki | 1319060 | learner | draft | **new** | Editorial review |
+| N3-637 | [支給](entries/1310/1310130-shikyuu.org) | しきゅう | shikyuu | 1310130 | learner | draft | **new** | Editorial review |
+| N3-638 | [頻りに](entries/1005/1005480-shikirini.org) | しきりに | shikirini | 1005480 | learner | draft | **new** | Editorial review |
+| N3-639 | [刺激](entries/1594/1594190-shigeki.org) | しげき | shigeki | 1594190 | learner | draft | **new** | Editorial review |
+| N3-640 | [資源](entries/1312/1312720-shigen.org) | しげん | shigen | 1312720 | learner | draft | **new** | Editorial review |
+| N3-641 | [支出](entries/1310/1310180-shishutsu.org) | ししゅつ | shishutsu | 1310180 | learner | draft | **new** | Editorial review |
+| N3-642 | [詩人](entries/1312/1312220-shijin.org) | しじん | shijin | 1312220 | learner | draft | **new** | Editorial review |
+| N3-643 | [沈む](entries/1431/1431670-shizumu.org) | しずむ | shizumu | 1431670 | learner | draft | **new** | Editorial review |
+| N3-644 | [自然](entries/1318/1318090-shizen.org) | しぜん | shizen | 1318090 | learner | draft | **new** | Editorial review |
