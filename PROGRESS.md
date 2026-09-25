@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2004 |
+| Canonical entry files | 2013 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 635 |
-| N3 queue rows covered | 664 / 1677 (39.6%) |
+| Canonical N3 entries | 644 |
+| N3 queue rows covered | 674 / 1677 (40.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1967 |
+| `new` | 1976 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1994 |
+| Entry metadata still marked `draft` | 2003 |
 | Core profile | 163 |
-| Learner profile | 1840 |
+| Learner profile | 1849 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 664 rows covered (635 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 674 rows covered (644 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1857,3 +1857,13 @@ content and remain at `new` until editorial review.
 | N3-662 | [屡々](entries/1005/1005580-shibashiba.org) | しばしば | shibashiba | 1005580 | learner | draft | **new** | Editorial review |
 | N3-663 | [芝生](entries/1321/1321650-shibafu.org) | しばふ | shibafu | 1321650 | learner | draft | **new** | Editorial review |
 | N3-664 | [資本](entries/1312/1312780-shihon.org) | しほん | shihon | 1312780 | learner | draft | **new** | Editorial review |
+| N3-665 | [死亡](entries/1310/1310950-shibou.org) | しぼう | shibou | 1310950 | learner | draft | **new** | Editorial review |
+| N3-666 | [姉妹](entries/1579/1579490-shimai.org) | しまい | shimai | 1579490 | learner | draft | **new** | Editorial review |
+| N3-667 | [仕舞う](entries/1305/1305380-shimau.org) | しまう | shimau | 1305380 | learner | draft | **new** | Editorial review |
+| N3-668 | [仕舞った](entries/1005/1005600-shimatta.org) | しまった | shimatta | 1005600 | learner | draft | **new** | Editorial review |
+| N3-669 | [示す](entries/1317/1317110-shimesu.org) | しめす | shimesu | 1317110 | learner | draft | **new** | Editorial review |
+| N3-670 | [占める](entries/1389/1389460-shimeru.org) | しめる | shimeru | 1389460 | learner | draft | **new** | Editorial review |
+| N3-671 | [下](entries/2080/2080210-shimo.org) | しも | shimo | 2080210 | learner | draft | **new** | Editorial review |
+| N3-672 | [霜](entries/1402/1402930-shimo.org) | しも | shimo | 1402930 | learner | draft | **new** | Editorial review |
+| N3-673 | [借金](entries/1323/1323940-shakkin.org) | しゃっきん | shakkin | 1323940 | learner | draft | **new** | Editorial review |
+| N3-674 | [喋る](entries/1427/1427510-shaberu.org) | しゃべる | shaberu | 1427510 | learner | draft | **new** | Editorial review |
