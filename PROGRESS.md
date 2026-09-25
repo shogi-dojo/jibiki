@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1985 |
+| Canonical entry files | 1994 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 616 |
-| N3 queue rows covered | 644 / 1677 (38.4%) |
+| Canonical N3 entries | 625 |
+| N3 queue rows covered | 654 / 1677 (39.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1948 |
+| `new` | 1957 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1975 |
+| Entry metadata still marked `draft` | 1984 |
 | Core profile | 163 |
-| Learner profile | 1821 |
+| Learner profile | 1830 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 644 rows covered (616 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 654 rows covered (625 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1837,3 +1837,13 @@ content and remain at `new` until editorial review.
 | N3-642 | [詩人](entries/1312/1312220-shijin.org) | しじん | shijin | 1312220 | learner | draft | **new** | Editorial review |
 | N3-643 | [沈む](entries/1431/1431670-shizumu.org) | しずむ | shizumu | 1431670 | learner | draft | **new** | Editorial review |
 | N3-644 | [自然](entries/1318/1318090-shizen.org) | しぜん | shizen | 1318090 | learner | draft | **new** | Editorial review |
+| N3-645 | [思想](entries/1309/1309560-shisou.org) | しそう | shisou | 1309560 | learner | draft | **new** | Editorial review |
+| N3-646 | [舌](entries/1387/1387010-shita.org) | した | shita | 1387010 | learner | draft | **new** | Editorial review |
+| N3-647 | [従う](entries/1335/1335210-shitagau.org) | したがう | shitagau | 1335210 | learner | draft | **new** | Editorial review |
+| N3-648 | [従って](entries/1335/1335230-shitagatte.org) | したがって | shitagatte | 1335230 | learner | draft | **new** | Editorial review |
+| N3-649 | [支度](entries/1310/1310260-shitaku.org) | したく | shitaku | 1310260 | learner | draft | **new** | Editorial review |
+| N3-650 | [親しい](entries/1365/1365050-shitashii.org) | したしい | shitashii | 1365050 | learner | draft | **new** | Editorial review |
+| N3-651 | [次第](entries/1316/1316680-shidai.org) | しだい | shidai | 1316680 | learner | draft | **new** | Editorial review |
+| N3-652 | [質](entries/1320/1320640-shitsu.org) | しつ | shitsu | 1320640 | learner | draft | **new** | Editorial review |
+| N3-653 | [失業](entries/1319/1319860-shitsugyou.org) | しつぎょう | shitsugyou | 1319860 | learner | draft | **new** | Editorial review |
+| N3-654 | [失望](entries/1320/1320170-shitsubou.org) | しつぼう | shitsubou | 1320170 | learner | draft | **new** | Editorial review |
