@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1860 |
+| Canonical entry files | 1870 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 491 |
-| N3 queue rows covered | 514 / 1677 (30.6%) |
+| Canonical N3 entries | 501 |
+| N3 queue rows covered | 524 / 1677 (31.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1823 |
+| `new` | 1833 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1850 |
+| Entry metadata still marked `draft` | 1860 |
 | Core profile | 163 |
-| Learner profile | 1696 |
+| Learner profile | 1706 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 514 rows covered (491 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 524 rows covered (501 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1707,3 +1707,13 @@ content and remain at `new` until editorial review.
 | N3-512 | [講演](entries/1282/1282240-kouen.org) | こうえん | kouen | 1282240 | learner | draft | **new** | Editorial review |
 | N3-513 | [効果](entries/1275/1275130-kouka.org) | こうか | kouka | 1275130 | learner | draft | **new** | Editorial review |
 | N3-514 | [硬貨](entries/1280/1280530-kouka.org) | こうか | kouka | 1280530 | learner | draft | **new** | Editorial review |
+| N3-515 | [高価](entries/1283/1283300-kouka.org) | こうか | kouka | 1283300 | learner | draft | **new** | Editorial review |
+| N3-516 | [交換](entries/1271/1271750-koukan.org) | こうかん | koukan | 1271750 | learner | draft | **new** | Editorial review |
+| N3-517 | [航空](entries/1281/1281270-koukuu.org) | こうくう | koukuu | 1281270 | learner | draft | **new** | Editorial review |
+| N3-518 | [光景](entries/1272/1272950-koukei.org) | こうけい | koukei | 1272950 | learner | draft | **new** | Editorial review |
+| N3-519 | [貢献](entries/1282/1282410-kouken.org) | こうけん | kouken | 1282410 | learner | draft | **new** | Editorial review |
+| N3-520 | [攻撃](entries/1279/1279170-kougeki.org) | こうげき | kougeki | 1279170 | learner | draft | **new** | Editorial review |
+| N3-521 | [広告](entries/1278/1278510-koukoku.org) | こうこく | koukoku | 1278510 | learner | draft | **new** | Editorial review |
+| N3-522 | [後者](entries/1269/1269720-kousha.org) | こうしゃ | kousha | 1269720 | learner | draft | **new** | Editorial review |
+| N3-523 | [構成](entries/1279/1279730-kousei.org) | こうせい | kousei | 1279730 | learner | draft | **new** | Editorial review |
+| N3-524 | [高速](entries/1283/1283700-kousoku.org) | こうそく | kousoku | 1283700 | learner | draft | **new** | Editorial review |
