@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1880 |
+| Canonical entry files | 1890 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 511 |
-| N3 queue rows covered | 534 / 1677 (31.8%) |
+| Canonical N3 entries | 521 |
+| N3 queue rows covered | 544 / 1677 (32.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1843 |
+| `new` | 1853 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1870 |
+| Entry metadata still marked `draft` | 1880 |
 | Core profile | 163 |
-| Learner profile | 1716 |
+| Learner profile | 1726 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 534 rows covered (511 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 544 rows covered (521 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1727,3 +1727,13 @@ content and remain at `new` until editorial review.
 | N3-532 | [凍る](entries/1593/1593100-kooru.org) | こおる | kooru | 1593100 | learner | draft | **new** | Editorial review |
 | N3-533 | [呼吸](entries/1266/1266470-kokyuu.org) | こきゅう | kokyuu | 1266470 | learner | draft | **new** | Editorial review |
 | N3-534 | [国語](entries/1286/1286370-kokugo.org) | こくご | kokugo | 1286370 | learner | draft | **new** | Editorial review |
+| N3-535 | [黒板](entries/1288/1288080-kokuban.org) | こくばん | kokuban | 1288080 | learner | draft | **new** | Editorial review |
+| N3-536 | [克服](entries/1285/1285790-kokufuku.org) | こくふく | kokufuku | 1285790 | learner | draft | **new** | Editorial review |
+| N3-537 | [国民](entries/1287/1287070-kokumin.org) | こくみん | kokumin | 1287070 | learner | draft | **new** | Editorial review |
+| N3-538 | [穀物](entries/1287/1287280-kokumotsu.org) | こくもつ | kokumotsu | 1287280 | learner | draft | **new** | Editorial review |
+| N3-539 | [腰](entries/1288/1288340-koshi.org) | こし | koshi | 1288340 | learner | draft | **new** | Editorial review |
+| N3-540 | [個人](entries/1264/1264770-kojin.org) | こじん | kojin | 1264770 | learner | draft | **new** | Editorial review |
+| N3-541 | [越す](entries/1175/1175300-kosu.org) | こす | kosu | 1175300 | learner | draft | **new** | Editorial review |
+| N3-542 | [国家](entries/1286/1286170-kokka.org) | こっか | kokka | 1286170 | learner | draft | **new** | Editorial review |
+| N3-543 | [国会](entries/1286/1286240-kokkai.org) | こっかい | kokkai | 1286240 | learner | draft | **new** | Editorial review |
+| N3-544 | [国境](entries/1286/1286320-kokkyou.org) | こっきょう | kokkyou | 1286320 | learner | draft | **new** | Editorial review |
