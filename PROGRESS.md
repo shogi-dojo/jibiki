@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1937 |
+| Canonical entry files | 1947 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 568 |
-| N3 queue rows covered | 594 / 1677 (35.4%) |
+| Canonical N3 entries | 578 |
+| N3 queue rows covered | 604 / 1677 (36.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1900 |
+| `new` | 1910 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1927 |
+| Entry metadata still marked `draft` | 1937 |
 | Core profile | 163 |
-| Learner profile | 1773 |
+| Learner profile | 1783 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 594 rows covered (568 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 604 rows covered (578 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1787,3 +1787,13 @@ content and remain at `new` until editorial review.
 | N3-592 | [境](entries/1235/1235950-sakai.org) | さかい | sakai | 1235950 | learner | draft | **new** | Editorial review |
 | N3-593 | [逆らう](entries/1226/1226990-sakarau.org) | さからう | sakarau | 1226990 | learner | draft | **new** | Editorial review |
 | N3-594 | [盛り](entries/1379/1379640-sakari.org) | さかり | sakari | 1379640 | learner | draft | **new** | Editorial review |
+| N3-595 | [作業](entries/1297/1297540-sagyou.org) | さぎょう | sagyou | 1297540 | learner | draft | **new** | Editorial review |
+| N3-596 | [作品](entries/1297/1297910-sakuhin.org) | さくひん | sakuhin | 1297910 | learner | draft | **new** | Editorial review |
+| N3-597 | [作物](entries/1297/1297950-sakumotsu.org) | さくもつ | sakumotsu | 1297950 | learner | draft | **new** | Editorial review |
+| N3-598 | [桜](entries/1593/1593710-sakura.org) | さくら | sakura | 1593710 | learner | draft | **new** | Editorial review |
+| N3-599 | [酒](entries/1329/1329010-sake.org) | さけ | sake | 1329010 | learner | draft | **new** | Editorial review |
+| N3-600 | [叫ぶ](entries/1235/1235910-sakebu.org) | さけぶ | sakebu | 1235910 | learner | draft | **new** | Editorial review |
+| N3-601 | [避ける](entries/1583/1583260-sakeru.org) | さける | sakeru | 1583260 | learner | draft | **new** | Editorial review |
+| N3-602 | [支える](entries/1310/1310090-sasaeru.org) | ささえる | sasaeru | 1310090 | learner | draft | **new** | Editorial review |
+| N3-603 | [指す](entries/1309/1309670-sasu.org) | さす | sasu | 1309670 | learner | draft | **new** | Editorial review |
+| N3-604 | [誘う](entries/1541/1541900-sasou.org) | さそう | sasou | 1541900 | learner | draft | **new** | Editorial review |
