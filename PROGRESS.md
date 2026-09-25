@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1994 |
+| Canonical entry files | 2004 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 625 |
-| N3 queue rows covered | 654 / 1677 (39.0%) |
+| Canonical N3 entries | 635 |
+| N3 queue rows covered | 664 / 1677 (39.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1957 |
+| `new` | 1967 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1984 |
+| Entry metadata still marked `draft` | 1994 |
 | Core profile | 163 |
-| Learner profile | 1830 |
+| Learner profile | 1840 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 654 rows covered (625 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 664 rows covered (635 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1847,3 +1847,13 @@ content and remain at `new` until editorial review.
 | N3-652 | [質](entries/1320/1320640-shitsu.org) | しつ | shitsu | 1320640 | learner | draft | **new** | Editorial review |
 | N3-653 | [失業](entries/1319/1319860-shitsugyou.org) | しつぎょう | shitsugyou | 1319860 | learner | draft | **new** | Editorial review |
 | N3-654 | [失望](entries/1320/1320170-shitsubou.org) | しつぼう | shitsubou | 1320170 | learner | draft | **new** | Editorial review |
+| N3-655 | [支店](entries/1310/1310230-shiten.org) | してん | shiten | 1310230 | learner | draft | **new** | Editorial review |
+| N3-656 | [指導](entries/1309/1309950-shidou.org) | しどう | shidou | 1309950 | learner | draft | **new** | Editorial review |
+| N3-657 | [品](entries/1583/1583470-shina.org) | しな | shina | 1583470 | learner | draft | **new** | Editorial review |
+| N3-658 | [支配](entries/1310/1310270-shihai.org) | しはい | shihai | 1310270 | learner | draft | **new** | Editorial review |
+| N3-659 | [支払い](entries/1594/1594480-shiharai.org) | しはらい | shiharai | 1594480 | learner | draft | **new** | Editorial review |
+| N3-660 | [支払う](entries/1310/1310300-shiharau.org) | しはらう | shiharau | 1310300 | learner | draft | **new** | Editorial review |
+| N3-661 | [芝居](entries/1321/1321630-shibai.org) | しばい | shibai | 1321630 | learner | draft | **new** | Editorial review |
+| N3-662 | [屡々](entries/1005/1005580-shibashiba.org) | しばしば | shibashiba | 1005580 | learner | draft | **new** | Editorial review |
+| N3-663 | [芝生](entries/1321/1321650-shibafu.org) | しばふ | shibafu | 1321650 | learner | draft | **new** | Editorial review |
+| N3-664 | [資本](entries/1312/1312780-shihon.org) | しほん | shihon | 1312780 | learner | draft | **new** | Editorial review |
