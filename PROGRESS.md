@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1812 |
+| Canonical entry files | 1821 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 443 |
-| N3 queue rows covered | 464 / 1677 (27.7%) |
+| Canonical N3 entries | 452 |
+| N3 queue rows covered | 474 / 1677 (28.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1775 |
+| `new` | 1784 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1802 |
+| Entry metadata still marked `draft` | 1811 |
 | Core profile | 163 |
-| Learner profile | 1648 |
+| Learner profile | 1657 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 464 rows covered (443 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 474 rows covered (452 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1657,3 +1657,13 @@ content and remain at `new` until editorial review.
 | N3-462 | [傾向](entries/1249/1249470-keikou.org) | けいこう | keikou | 1249470 | learner | draft | **new** | Editorial review |
 | N3-463 | [警告](entries/1252/1252360-keikoku.org) | けいこく | keikoku | 1252360 | learner | draft | **new** | Editorial review |
 | N3-464 | [計算](entries/1252/1252140-keisan.org) | けいさん | keisan | 1252140 | learner | draft | **new** | Editorial review |
+| N3-465 | [掲示](entries/1250/1250620-keiji.org) | けいじ | keiji | 1250620 | learner | draft | **new** | Editorial review |
+| N3-466 | [刑事](entries/1249/1249660-keiji.org) | けいじ | keiji | 1249660 | learner | draft | **new** | Editorial review |
+| N3-467 | [契約](entries/1250/1250190-keiyaku.org) | けいやく | keiyaku | 1250190 | learner | draft | **new** | Editorial review |
+| N3-468 | [経由](entries/1251/1251670-keiyu.org) | けいゆ | keiyu | 1251670 | learner | draft | **new** | Editorial review |
+| N3-469 | [怪我](entries/1200/1200220-kega.org) | けが | kega | 1200220 | learner | draft | **new** | Editorial review |
+| N3-470 | [化粧](entries/1577/1577040-keshou.org) | けしょう | keshou | 1577040 | learner | draft | **new** | Editorial review |
+| N3-471 | [ケチ](entries/2234/2234080-kechi.org) | ケチ | kechi | 2234080 | learner | draft | **new** | Editorial review |
+| N3-472 | [結果](entries/1254/1254690-kekka.org) | けっか | kekka | 1254690 | learner | draft | **new** | Editorial review |
+| N3-473 | [結局](entries/1254/1254730-kekkyoku.org) | けっきょく | kekkyoku | 1254730 | learner | draft | **new** | Editorial review |
+| N3-474 | [決心](entries/1254/1254340-kesshin.org) | けっしん | kesshin | 1254340 | learner | draft | **new** | Editorial review |
