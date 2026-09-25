@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1870 |
+| Canonical entry files | 1880 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 501 |
-| N3 queue rows covered | 524 / 1677 (31.2%) |
+| Canonical N3 entries | 511 |
+| N3 queue rows covered | 534 / 1677 (31.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1833 |
+| `new` | 1843 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1860 |
+| Entry metadata still marked `draft` | 1870 |
 | Core profile | 163 |
-| Learner profile | 1706 |
+| Learner profile | 1716 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 524 rows covered (501 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 534 rows covered (511 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1717,3 +1717,13 @@ content and remain at `new` until editorial review.
 | N3-522 | [後者](entries/1269/1269720-kousha.org) | こうしゃ | kousha | 1269720 | learner | draft | **new** | Editorial review |
 | N3-523 | [構成](entries/1279/1279730-kousei.org) | こうせい | kousei | 1279730 | learner | draft | **new** | Editorial review |
 | N3-524 | [高速](entries/1283/1283700-kousoku.org) | こうそく | kousoku | 1283700 | learner | draft | **new** | Editorial review |
+| N3-525 | [行動](entries/1282/1282100-koudou.org) | こうどう | koudou | 1282100 | learner | draft | **new** | Editorial review |
+| N3-526 | [幸福](entries/1278/1278400-koufuku.org) | こうふく | koufuku | 1278400 | learner | draft | **new** | Editorial review |
+| N3-527 | [公平](entries/1274/1274640-kouhei.org) | こうへい | kouhei | 1274640 | learner | draft | **new** | Editorial review |
+| N3-528 | [候補](entries/1272/1272730-kouho.org) | こうほ | kouho | 1272730 | learner | draft | **new** | Editorial review |
+| N3-529 | [考慮](entries/1281/1281170-kouryo.org) | こうりょ | kouryo | 1281170 | learner | draft | **new** | Editorial review |
+| N3-530 | [越える](entries/1593/1593070-koeru.org) | こえる | koeru | 1593070 | learner | draft | **new** | Editorial review |
+| N3-531 | [氷](entries/1488/1488840-koori.org) | こおり | koori | 1488840 | learner | draft | **new** | Editorial review |
+| N3-532 | [凍る](entries/1593/1593100-kooru.org) | こおる | kooru | 1593100 | learner | draft | **new** | Editorial review |
+| N3-533 | [呼吸](entries/1266/1266470-kokyuu.org) | こきゅう | kokyuu | 1266470 | learner | draft | **new** | Editorial review |
+| N3-534 | [国語](entries/1286/1286370-kokugo.org) | こくご | kokugo | 1286370 | learner | draft | **new** | Editorial review |
