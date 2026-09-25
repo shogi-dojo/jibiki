@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1909 |
+| Canonical entry files | 1918 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 540 |
-| N3 queue rows covered | 564 / 1677 (33.6%) |
+| Canonical N3 entries | 549 |
+| N3 queue rows covered | 574 / 1677 (34.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1872 |
+| `new` | 1881 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1899 |
+| Entry metadata still marked `draft` | 1908 |
 | Core profile | 163 |
-| Learner profile | 1745 |
+| Learner profile | 1754 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 564 rows covered (540 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 574 rows covered (549 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1757,3 +1757,13 @@ content and remain at `new` until editorial review.
 | N3-562 | [混雑](entries/1290/1290390-konzatsu.org) | こんざつ | konzatsu | 1290390 | learner | draft | **new** | Editorial review |
 | N3-563 | [こんなに](entries/1004/1004890-konnani.org) | こんなに | konnani | 1004890 | learner | draft | **new** | Editorial review |
 | N3-564 | [困難](entries/1289/1289620-konnan.org) | こんなん | konnan | 1289620 | learner | draft | **new** | Editorial review |
+| N3-565 | [今日は](entries/1289/1289400-konnichiha.org) | こんにちは | konnichiha | 1289400 | learner | draft | **new** | Editorial review |
+| N3-566 | [婚約](entries/1289/1289710-konyaku.org) | こんやく | konyaku | 1289710 | learner | draft | **new** | Editorial review |
+| N3-567 | [混乱](entries/1290/1290560-konran.org) | こんらん | konran | 1290560 | learner | draft | **new** | Editorial review |
+| N3-568 | [コーチ](entries/1048/1048910-koochi.org) | コーチ | koochi | 1048910 | learner | draft | **new** | Editorial review |
+| N3-569 | [コード](entries/1049/1049010-koodo.org) | コード | koodo | 1049010 | learner | draft | **new** | Editorial review |
+| N3-570 | [後](entries/2147/2147630-go.org) | ご | go | 2147630 | learner | draft | **new** | Editorial review |
+| N3-571 | [御](entries/1270/1270190-go.org) | ご | go | 1270190 | learner | draft | **new** | Editorial review |
+| N3-572 | [語](entries/1270/1270910-go.org) | ご | go | 1270910 | learner | draft | **new** | Editorial review |
+| N3-573 | [豪華](entries/1285/1285520-gouka.org) | ごうか | gouka | 1285520 | learner | draft | **new** | Editorial review |
+| N3-574 | [合格](entries/1284/1284600-goukaku.org) | ごうかく | goukaku | 1284600 | learner | draft | **new** | Editorial review |
