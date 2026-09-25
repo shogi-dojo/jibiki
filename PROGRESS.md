@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1794 |
+| Canonical entry files | 1804 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 425 |
-| N3 queue rows covered | 444 / 1677 (26.5%) |
+| Canonical N3 entries | 435 |
+| N3 queue rows covered | 454 / 1677 (27.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1757 |
+| `new` | 1767 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1784 |
+| Entry metadata still marked `draft` | 1794 |
 | Core profile | 163 |
-| Learner profile | 1630 |
+| Learner profile | 1640 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 444 rows covered (425 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 454 rows covered (435 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1637,3 +1637,13 @@ content and remain at `new` until editorial review.
 | N3-442 | [暮れ](entries/1514/1514950-kure.org) | くれ | kure | 1514950 | learner | draft | **new** | Editorial review |
 | N3-443 | [苦労](entries/1244/1244680-kurou.org) | くろう | kurou | 1244680 | learner | draft | **new** | Editorial review |
 | N3-444 | [加える](entries/1189/1189960-kuwaeru.org) | くわえる | kuwaeru | 1189960 | learner | draft | **new** | Editorial review |
+| N3-445 | [詳しい](entries/1351/1351730-kuwashii.org) | くわしい | kuwashii | 1351730 | learner | draft | **new** | Editorial review |
+| N3-446 | [加わる](entries/1189/1189980-kuwawaru.org) | くわわる | kuwawaru | 1189980 | learner | draft | **new** | Editorial review |
+| N3-447 | [訓](entries/1956/1956150-kun.org) | くん | kun | 1956150 | learner | draft | **new** | Editorial review |
+| N3-448 | [訓練](entries/1247/1247470-kunren.org) | くんれん | kunren | 1247470 | learner | draft | **new** | Editorial review |
+| N3-449 | [偶然](entries/1246/1246270-guuzen.org) | ぐうぜん | guuzen | 1246270 | learner | draft | **new** | Editorial review |
+| N3-450 | [具体](entries/1245/1245020-gutai.org) | ぐたい | gutai | 1245020 | learner | draft | **new** | Editorial review |
+| N3-451 | [ぐっすり](entries/1004/1004060-gussuri.org) | ぐっすり | gussuri | 1004060 | learner | draft | **new** | Editorial review |
+| N3-452 | [グラス](entries/1046/1046430-gurasu.org) | グラス | gurasu | 1046430 | learner | draft | **new** | Editorial review |
+| N3-453 | [グランド](entries/1046/1046840-gurando.org) | グランド | gurando | 1046840 | learner | draft | **new** | Editorial review |
+| N3-454 | [グループ](entries/1047/1047300-guruupu.org) | グループ | guruupu | 1047300 | learner | draft | **new** | Editorial review |
