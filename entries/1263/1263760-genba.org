@@ -1,0 +1,715 @@
+#+TITLE: 現場
+#+JMDICT_ID: 1263760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんば
+#+ROMAJI: genba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1263760-001
+:PROPERTIES:
+:TEXT: 現場
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1263760-001
+:PROPERTIES:
+:TEXT: げんば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1263760-002
+:PROPERTIES:
+:TEXT: げんじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1263760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f7984160674a5d870c094d5ed5e9f72f08a3ded172caae01d9d45a57dc5d889c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- actual spot
+- scene (of a crime, accident, etc.)
+** Ukrainian glosses
+*** uk-s-1263760-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: місце події
+*** uk-s-1263760-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: місце злочину
+*** uk-s-1263760-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: місце аварії
+** Learner notes
+*** note-s-1263760-001-001
+:PROPERTIES:
+:END:
+- UK :: Безпосереднє місце, де сталася певна подія, злочин чи нещасний випадок (~事故現場~ — місце аварії, ~事件現場~ — місце пригоди / злочину, ~現場を押さえる~ — спіймати на місці події / на гарячому). Може читатися як ~げんば~ або ~げんじょう~ (особливо в юридичному чи криміналістичному контексті).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1263760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 警察がすぐに事故の現場に到着しました。
+- READING :: けいさつがすぐにじこのげんばにとうちゃくしました。
+- UK :: Поліція негайно прибула на місце аварії.
+- EN :: The police arrived at the scene of the accident immediately.
+- FOCUS :: 現場
+*** ex-1263760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 事件の現場には多くの捜査員が集まっていました。
+- READING :: じけんのげんばにはおおくのそうさいんがあつまっていました。
+- UK :: На місці злочину зібралося багато слідчих.
+- EN :: Many investigators were gathered at the scene of the incident.
+- FOCUS :: 現場
+*** ex-1263760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事故の原因を正確に究明するためには現場に残された証拠を慎重に調べることが重要です。
+- READING :: じこのげんいんをせいかくにきゅうめいするためにはげんばにのこされたしょうこをしんちょうにしらべることがじゅうようです。
+- UK :: Щоб точно з'ясувати причину аварії, важливо ретельно дослідити докази, залишені на місці події.
+- EN :: In order to accurately investigate the cause of the accident, it is important to carefully examine the evidence left at the scene.
+- FOCUS :: 現場
+
+* Sense s-1263760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 263610a4290070753bbd0a5a8b4c92104ff8036c90f9d62f12be52431dcc3db1
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- げんば
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (on) site
+- (on) the ground
+- (in) the field
+- job site
+** Ukrainian glosses
+*** uk-s-1263760-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: будівельний майданчик
+*** uk-s-1263760-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робоче місце
+*** uk-s-1263760-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виробництво
+*** uk-s-1263760-002-004
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: на місці
+** Learner notes
+*** note-s-1263760-002-001
+:PROPERTIES:
+:END:
+- UK :: Місце реального виконання робіт — будмайданчик, цех чи безпосередній контакт із клієнтами на противагу офісу чи теорії (~工事現場~ — будівельний майданчик, ~現場の声~ — відгуки працівників на місцях / практиків, ~現場主義~ — пріоритет практики над теорією). Зазвичай читається лише ~げんば~.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1263760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2ad74fbe8f1578991d0c01253563da94b648d47ba91602e89a8692076304e3c8
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- げんば
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 撮影現場
+** English glosses
+- filming location
+- (movie) set
+** Ukrainian glosses
+*** uk-s-1263760-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: знімальний майданчик
+*** uk-s-1263760-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-25
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: локація для зйомок
+** Learner notes
+*** note-s-1263760-003-001
+:PROPERTIES:
+:END:
+- UK :: Місце фільмування або зйомок кіно чи передач (~撮影現場~ — знімальний майданчик).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1263760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f5dbe053ad6e4c9f01318c0b168e362e8ff6b487d67438c89eae6a810bdd0fe5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar iets gebeurd is
+** Ukrainian glosses
+
+* Sense s-1263760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c0391b0fa870f8ff70077d04d20c2892fa76e8ae57646b643c3b3506070a6c24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats van de misdaad
+*** en-s-1263760-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar een delict heeft plaatsgevonden
+*** en-s-1263760-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: locus delicti
+** Ukrainian glosses
+
+* Sense s-1263760-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f78025b899041529e9496c390e829ee852b9ff8a05504da262861a89a7da21f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar men werkt
+*** en-s-1263760-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar men zijn functie uitoefent
+*** en-s-1263760-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werkplaats
+*** en-s-1263760-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werkstek
+*** en-s-1263760-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kantoor
+*** en-s-1263760-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrijf waar men werkt
+** Ukrainian glosses
+
+* Sense s-1263760-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 40539abca972db94c6f832a0887754d9080ce3e504cabdb29fa6c4a9c3bb5ee9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar men aan het bouwen is
+*** en-s-1263760-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bouwwerf
+*** en-s-1263760-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werf
+*** en-s-1263760-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats van de bouwwerken
+*** en-s-1263760-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werken
+*** en-s-1263760-007-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werkplaats
+** Ukrainian glosses
+
+* Sense s-1263760-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: cc292ce62b44f73dc9eccbd6c5e09fdb2c431c5416c9d2608d29c69b409e3df5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lieu actuel
+*** en-s-1263760-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lieu du crime
+*** en-s-1263760-008-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scène
+** Ukrainian glosses
+
+* Sense s-1263760-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b8531664a5aea9d8db0cc8a624a223a05ebc79971c6200a4273a59804f297e2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ort des Geschehens
+** Ukrainian glosses
+
+* Sense s-1263760-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: db7cfb2cd62ceb2ed1e3998eb82e237eee2215ed01a64f0d873bee848f952961
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tatort
+*** en-s-1263760-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ort des Verbrechens
+** Ukrainian glosses
+
+* Sense s-1263760-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: a1e6ce97adcf11b77866d91763dab974aa378989eec6e92e9ab50ec31ea40702
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unfallort
+*** en-s-1263760-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unfallstelle
+** Ukrainian glosses
+
+* Sense s-1263760-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 55eb0fb8be8531a58d5798deb79b101ce83d23cc6c07383e80ab2603ad5b9f1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ort der Ausführung (einer Arbeit)
+*** en-s-1263760-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ort der Ausübung (einer Tätigkeit)
+*** en-s-1263760-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einsatzort
+** Ukrainian glosses
+
+* Sense s-1263760-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 7a9cbf52a7758094feb2fc1be049b304fb91653a6853ad458ee0d0b05434a53a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Baustelle
+** Ukrainian glosses
+
+* Sense s-1263760-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 8fc995b69a746aef9d18ea882fa4f63b131065d28bb38996c2733597cefe0826
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tatsächliche Anwendung
+*** en-s-1263760-014-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Praxis
+** Ukrainian glosses
+
+* Sense s-1263760-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: c51c490c0c314a9e5a434c4ee85a23449b38080b6dbc2d4c67180d403eb87462
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: an Ort und Stelle
+** Ukrainian glosses
+
+* Sense s-1263760-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 1cb9e2a5b13f3b043da06e1af49da081fc3aca4ef5fc4ea6897e3ff11c7dbc9e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-016-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyárcsarnok
+*** en-s-1263760-016-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyárterület
+*** en-s-1263760-016-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: üzemi terület
+*** en-s-1263760-016-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: színhely
+** Ukrainian glosses
+
+* Sense s-1263760-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 2523077827acb887a13f4dedab99e71fbc24e8472610172e2da43182603c67fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-017-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: место действия (происшествия), место [, о котором идёт речь]; [строй]площадка
+*** en-s-1263760-017-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} на месте [преступления]
+*** en-s-1263760-017-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: место (действия); (ср.) げんば
+*** en-s-1263760-017-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} на месте происшествия (преступления)
+** Ukrainian glosses
+
+* Sense s-1263760-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: b67714d35aa42638c003c1cd52ec4d6b231813393d3fac1c34efd8ad15c1618f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-018-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prizorišče {dogajanja, dogodka npr. zločina}
+** Ukrainian glosses
+
+* Sense s-1263760-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 96ef2a74a5b79ad2d7198a42e8fbc1b4c59b37b5d32cf55ffbcc701270d2b29a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263760-019-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: escena (del crimen)
+*** en-s-1263760-019-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lugar (de trabajo)
+** Ukrainian glosses
