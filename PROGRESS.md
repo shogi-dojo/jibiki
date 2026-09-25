@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1957 |
+| Canonical entry files | 1967 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 588 |
-| N3 queue rows covered | 614 / 1677 (36.6%) |
+| Canonical N3 entries | 598 |
+| N3 queue rows covered | 624 / 1677 (37.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1920 |
+| `new` | 1930 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1947 |
+| Entry metadata still marked `draft` | 1957 |
 | Core profile | 163 |
-| Learner profile | 1793 |
+| Learner profile | 1803 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 614 rows covered (588 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 624 rows covered (598 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1807,3 +1807,13 @@ content and remain at `new` until editorial review.
 | N3-612 | [作法](entries/1297/1297980-sahou.org) | さほう | sahou | 1297980 | learner | draft | **new** | Editorial review |
 | N3-613 | [様々](entries/1593/1593830-samazama.org) | さまざま | samazama | 1593830 | learner | draft | **new** | Editorial review |
 | N3-614 | [覚ます](entries/1206/1206060-samasu.org) | さます | samasu | 1206060 | learner | draft | **new** | Editorial review |
+| N3-615 | [覚める](entries/1206/1206070-sameru.org) | さめる | sameru | 1206070 | learner | draft | **new** | Editorial review |
+| N3-616 | [左右](entries/1290/1290810-sayuu.org) | さゆう | sayuu | 1290810 | learner | draft | **new** | Editorial review |
+| N3-617 | [皿](entries/1299/1299680-sara.org) | さら | sara | 1299680 | learner | draft | **new** | Editorial review |
+| N3-618 | [更に](entries/1279/1279310-sarani.org) | さらに | sarani | 1279310 | learner | draft | **new** | Editorial review |
+| N3-619 | [去る](entries/1231/1231650-saru.org) | さる | saru | 1231650 | learner | draft | **new** | Editorial review |
+| N3-620 | [猿](entries/1177/1177390-saru.org) | さる | saru | 1177390 | learner | draft | **new** | Editorial review |
+| N3-621 | [騒ぎ](entries/1403/1403020-sawagi.org) | さわぎ | sawagi | 1403020 | learner | draft | **new** | Editorial review |
+| N3-622 | [参加](entries/1302/1302090-sanka.org) | さんか | sanka | 1302090 | learner | draft | **new** | Editorial review |
+| N3-623 | [参考](entries/1302/1302280-sankou.org) | さんこう | sankou | 1302280 | learner | draft | **new** | Editorial review |
+| N3-624 | [賛成](entries/1304/1304200-sansei.org) | さんせい | sansei | 1304200 | learner | draft | **new** | Editorial review |
