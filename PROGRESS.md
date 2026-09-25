@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 1967 |
+| Canonical entry files | 1977 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 598 |
-| N3 queue rows covered | 624 / 1677 (37.2%) |
+| Canonical N3 entries | 608 |
+| N3 queue rows covered | 634 / 1677 (37.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1930 |
+| `new` | 1940 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 1957 |
+| Entry metadata still marked `draft` | 1967 |
 | Core profile | 163 |
-| Learner profile | 1803 |
+| Learner profile | 1813 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 624 rows covered (598 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 634 rows covered (608 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1817,3 +1817,13 @@ content and remain at `new` until editorial review.
 | N3-622 | [参加](entries/1302/1302090-sanka.org) | さんか | sanka | 1302090 | learner | draft | **new** | Editorial review |
 | N3-623 | [参考](entries/1302/1302280-sankou.org) | さんこう | sankou | 1302280 | learner | draft | **new** | Editorial review |
 | N3-624 | [賛成](entries/1304/1304200-sansei.org) | さんせい | sansei | 1304200 | learner | draft | **new** | Editorial review |
+| N3-625 | [酸素](entries/1304/1304350-sanso.org) | さんそ | sanso | 1304350 | learner | draft | **new** | Editorial review |
+| N3-626 | [サービス](entries/1055/1055000-saabisu.org) | さーびす | saabisu | 1055000 | learner | draft | **new** | Editorial review |
+| N3-627 | [財産](entries/1296/1296820-zaisan.org) | ざいさん | zaisan | 1296820 | learner | draft | **new** | Editorial review |
+| N3-628 | [材料](entries/1296/1296670-zairyou.org) | ざいりょう | zairyou | 1296670 | learner | draft | **new** | Editorial review |
+| N3-629 | [座席](entries/1291/1291880-zaseki.org) | ざせき | zaseki | 1291880 | learner | draft | **new** | Editorial review |
+| N3-630 | [ざっと](entries/1005/1005390-zatto.org) | ざっと | zatto | 1005390 | learner | draft | **new** | Editorial review |
+| N3-631 | [氏](entries/2101/2101130-shi.org) | し | shi | 2101130 | learner | draft | **new** | Editorial review |
+| N3-632 | [詩](entries/1929/1929950-shi.org) | し | shi | 1929950 | learner | draft | **new** | Editorial review |
+| N3-633 | [幸せ](entries/1594/1594060-shiawase.org) | しあわせ | shiawase | 1594060 | learner | draft | **new** | Editorial review |
+| N3-634 | [然も](entries/1506/1506050-shikamo.org) | しかも | shikamo | 1506050 | learner | draft | **new** | Editorial review |
