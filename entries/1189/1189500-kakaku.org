@@ -1,0 +1,325 @@
+#+TITLE: 価格
+#+JMDICT_ID: 1189500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かかく
+#+ROMAJI: kakaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1189500-001
+:PROPERTIES:
+:TEXT: 価格
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1189500-001
+:PROPERTIES:
+:TEXT: かかく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1189500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3286d8b45aaea605d14577ed9312d042682946a355fa6bb97c6dcce8ef87e83f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- price
+- value
+- cost
+** Ukrainian glosses
+*** uk-s-1189500-001-001
+:PROPERTIES:
+:END:
+- text :: ціна
+*** uk-s-1189500-001-002
+:PROPERTIES:
+:END:
+- text :: вартість
+** Learner notes
+*** note-s-1189500-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає грошову вартість або ціну товару чи послуги в економічному, офіційному або ринковому контексті: =販売価格= (продажна ціна), =価格が高騰する= (ціни стрімко зростають), =価格を下げる= (знижувати ціну). На відміну від повсякденного розмовного =値段= (=ねだん=), =価格= частіше вживається в бізнесі, торгівлі, пресі та офіційних документах.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1189500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この商品の価格はいくらですか。
+- READING :: このしょうひんのかかくはいくらですか。
+- UK :: Яка ціна цього товару?
+- EN :: What is the price of this product?
+- FOCUS :: 価格
+*** ex-1189500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原材料の高騰により、製品の価格を引き上げることになった。
+- READING :: げんざいりょうのこうとうにより、せいひんのかかくをひきあげることになった。
+- UK :: Через зростання цін на сировину було вирішено підвищити вартість продукції.
+- EN :: Due to the soaring cost of raw materials, we decided to raise the product price.
+- FOCUS :: 価格を引き上げる
+*** ex-1189500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インターネットの普及により、消費者は簡単に複数の店舗の価格を比較できるようになった。
+- READING :: いんたーねっとのふきゅうにより、しょうひしゃはかんたんにふくすうのてんぽのかかくをひかくできるようになった。
+- UK :: Завдяки поширенню інтернету споживачі отримали можливість легко порівнювати ціни в кількох магазинах.
+- EN :: With the spread of the internet, consumers have become able to easily compare prices across multiple stores.
+- FOCUS :: 価格を比較できる
+
+* Sense s-1189500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dbf864b05526e40ad027890575a4280ebf8682836948e08247863a864d3f0c4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prijs
+*** en-s-1189500-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kosten
+*** en-s-1189500-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarde
+** Ukrainian glosses
+
+* Sense s-1189500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fc7cdf1968b13ce9a443bc264ed97feb3b2f876689f295610b3456c01f2413ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coût
+*** en-s-1189500-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix
+*** en-s-1189500-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valeur
+** Ukrainian glosses
+
+* Sense s-1189500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d91dd98e40800187565e379e25533b8eea7cc4fae72ea8e119ea03b2d510f4b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Preis
+*** en-s-1189500-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kosten
+*** en-s-1189500-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wert
+** Ukrainian glosses
+
+* Sense s-1189500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0ca5257b0cc5fde87eddf6af60211eaca2e4de70a1c5fe4d333667f5c13db752
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1189500-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1189500-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: költség
+** Ukrainian glosses
+
+* Sense s-1189500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 480b152e55a1a35a638347c2111f747985d6dd6001f1040288058e2664769f10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: цена, стоимость
+*** en-s-1189500-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…の～がある} стоить (столько-то)
+** Ukrainian glosses
+
+* Sense s-1189500-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a8f1abee9263bdef1f01bfbc4d84d4eb842fd4d237373b10c6a2195680cdd539
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cena
+*** en-s-1189500-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrednost
+*** en-s-1189500-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strošek
+** Ukrainian glosses
+
+* Sense s-1189500-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 57a0534375a4ba0411a6bba1d9150a4e05420aa5db6aef48a6b3cc73a88ac365
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1189500-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio
+*** en-s-1189500-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valor
+*** en-s-1189500-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coste
+** Ukrainian glosses

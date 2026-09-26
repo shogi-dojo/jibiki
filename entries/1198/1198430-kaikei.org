@@ -1,0 +1,626 @@
+#+TITLE: 会計
+#+JMDICT_ID: 1198430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいけい
+#+ROMAJI: kaikei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1198430-001
+:PROPERTIES:
+:TEXT: 会計
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1198430-001
+:PROPERTIES:
+:TEXT: かいけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1198430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fda73ecb31638bd50ca33b7b98ef4414cc7e3376f34d2609477879c3e114cf75
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+- vs
+** English glosses
+- accounting
+- finance
+- account
+- reckoning
+** Ukrainian glosses
+*** uk-s-1198430-001-001
+:PROPERTIES:
+:END:
+- text :: бухгалтерський облік
+*** uk-s-1198430-001-002
+:PROPERTIES:
+:END:
+- text :: бухгалтерія
+*** uk-s-1198430-001-003
+:PROPERTIES:
+:END:
+- text :: фінанси
+*** uk-s-1198430-001-004
+:PROPERTIES:
+:END:
+- text :: фінансовий звіт
+** Learner notes
+*** note-s-1198430-001-001
+:PROPERTIES:
+:END:
+- UK :: Ведення фінансового або бухгалтерського обліку грошових надходжень і витрат в організації чи компанії: =会計年度= (=かいけいねんど=, фінансовий рік), =企業会計= (=きぎょうかいけい=, бухгалтерський облік підприємства), =会計課= (=かいけいか=, бухгалтерія, фінансовий відділ).
+- LEVEL :: intermediate
+- REGISTER :: formal
+** Examples
+*** ex-1198430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼女は会社の会計を担当しています。
+- READING :: かのじょはかいしゃのかいけいをたんとうしています。
+- UK :: Вона відповідає за бухгалтерію в компанії.
+- EN :: She is in charge of accounting at the company.
+- FOCUS :: 会計
+*** ex-1198430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい会計システムを導入したことで、経理業務の効率が上がった。
+- READING :: あたらしいかいけいシステムをどうにゅうしたことで、けいりぎょうむのこうりつがあがった。
+- UK :: Завдяки впровадженню нової бухгалтерської системи зросла ефективність облікової роботи.
+- EN :: By introducing a new accounting system, the efficiency of bookkeeping operations improved.
+- FOCUS :: 会計
+*** ex-1198430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 企業の透明性を高めるため、外部の専門家による厳格な会計監査が定期的に行われている。
+- READING :: きぎょうのとうめいせいをたかめるため、がいぶのせんもんかによるげんかくなかいけいかんさがていきてきにおこなわれている。
+- UK :: Для підвищення прозорості підприємства регулярно проводиться суворий фінансовий аудит зовнішніми експертами.
+- EN :: To enhance corporate transparency, strict accounting audits by external experts are conducted regularly.
+- FOCUS :: 会計監査
+
+* Sense s-1198430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cf7d7e4c2c89aa539b60aacb958345410ff0abe5bcb5a4e28f5f8586f8e5d1aa
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- お会計
+** English glosses
+- bill (at a restaurant)
+- check
+** Ukrainian glosses
+*** uk-s-1198430-002-001
+:PROPERTIES:
+:END:
+- text :: рахунок (у ресторані, кафе)
+*** uk-s-1198430-002-002
+:PROPERTIES:
+:END:
+- text :: чек
+** Learner notes
+*** note-s-1198430-002-001
+:PROPERTIES:
+:END:
+- UK :: Оплата або рахунок за їжу в закладі громадського харчування (часто з ввічливим префіксом =お会計=): «お会計をお願いします» (Будь ласка, рахунок). Синонім — =お勘定= (=おかんじょう=).
+- LEVEL :: beginner
+- REGISTER :: polite
+
+* Sense s-1198430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bfdde8a1a32b1f802af5c3a2eea1f0edc556b19f2173bea047e21bd8207006e4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- accountant
+- treasurer
+- paymaster
+- cashier
+** Ukrainian glosses
+*** uk-s-1198430-003-001
+:PROPERTIES:
+:END:
+- text :: бухгалтер
+*** uk-s-1198430-003-002
+:PROPERTIES:
+:END:
+- text :: скарбник
+*** uk-s-1198430-003-003
+:PROPERTIES:
+:END:
+- text :: касир
+** Learner notes
+*** note-s-1198430-003-001
+:PROPERTIES:
+:END:
+- UK :: Особа, яка веде облік грошей у групі, клубі чи комітеті: =サークルの会計係= (скарбник студентського гуртка).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1198430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d68657b3c078f46127fe74254c7aa9c2ed1e3e153d257b353ec6039d2e99be1f
+:END:
+** JMdict metadata
+*** Parts of speech
+- vs
+** English glosses
+- settlement (of a bill, fee, etc.), payment
+** Ukrainian glosses
+*** uk-s-1198430-004-001
+:PROPERTIES:
+:END:
+- text :: розрахунок
+*** uk-s-1198430-004-002
+:PROPERTIES:
+:END:
+- text :: оплата
+*** uk-s-1198430-004-003
+:PROPERTIES:
+:END:
+- text :: сплата
+** Learner notes
+*** note-s-1198430-004-001
+:PROPERTIES:
+:END:
+- UK :: Сам процес розрахунку або сплати за отримані послуги чи товари: =レジで会計を済ませる= (розрахуватися на касі).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1198430-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7a9ad8dd3f1ba6219250356b5a7bfeb2c22c6e2c4bdc5e56ab403c5784cfc7e3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- economic condition
+** Ukrainian glosses
+*** uk-s-1198430-005-001
+:PROPERTIES:
+:END:
+- text :: фінансовий стан
+*** uk-s-1198430-005-002
+:PROPERTIES:
+:END:
+- text :: матеріальне становище
+** Learner notes
+*** note-s-1198430-005-001
+:PROPERTIES:
+:END:
+- UK :: Стан фінансів окремої особи чи родини (жартівливо або розмовно: «кишеня», стан бюджету). Наприклад: =懐の会計が厳しい= (фінанси співають романси).
+- LEVEL :: intermediate
+- REGISTER :: informal
+
+* Sense s-1198430-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b765a7632f172fb72097189165f93da6d726a27ea54985ff665177bda9cc8752
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boekhouding
+*** en-s-1198430-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boekhoudkundige administratie
+** Ukrainian glosses
+
+* Sense s-1198430-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5dc4cda7967e644333d5183af6d8acba3a7ebe797221f59fded87852383ab91c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: addition
+*** en-s-1198430-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comptabilité
+*** en-s-1198430-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compte
+** Ukrainian glosses
+
+* Sense s-1198430-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 869d1d571cb284f735478b5a9d91df6c638c5a7651a8b257ebfeaeb2dc917dd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bezahlung
+** Ukrainian glosses
+
+* Sense s-1198430-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: cc1d0cf0844b5a6823d8635f26a43187fbe83d8230cab77f0a33e8df754f0d83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechnung
+** Ukrainian glosses
+
+* Sense s-1198430-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f8e534d4ebed91d1ce7c35051dce8dd8e307a8899c3648f38ebd9bf89557d6c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abrechnung
+*** en-s-1198430-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buchhaltung
+*** en-s-1198430-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Finanzen
+*** en-s-1198430-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschäftsbücher
+** Ukrainian glosses
+
+* Sense s-1198430-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 027bd3e8fd2fae3905509398c04f243433b5036e100b90049b490149e71ffc72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buchhalter
+** Ukrainian glosses
+
+* Sense s-1198430-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 5baa06eed21e2db45863a63ae179c1832f34f8285b6170d6397377a8afbf65db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ökonomische Situation
+** Ukrainian glosses
+
+* Sense s-1198430-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 3d32db46abf4e744e396e6840d6462409c706272dc04114f04ce8cebd990c4c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jegyzék
+*** en-s-1198430-013-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimutatás
+*** en-s-1198430-013-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közlés
+*** en-s-1198430-013-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számla
+*** en-s-1198430-013-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számítás
+*** en-s-1198430-013-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számolás
+*** en-s-1198430-013-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bizonyítvány
+*** en-s-1198430-013-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csőr
+*** en-s-1198430-013-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegyfok
+*** en-s-1198430-013-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: váltó
+** Ukrainian glosses
+
+* Sense s-1198430-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 5429e8ddaa399ab458786108c92f2b9e7641fa0b188d74ae7181eb8b1eae02b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) расчёт, счёт
+*** en-s-1198430-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} вести счета
+*** en-s-1198430-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) счёт (документ)
+*** en-s-1198430-014-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} уплачивать (расплачиваться) по счёту
+*** en-s-1198430-014-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) бюджет, финансы
+*** en-s-1198430-014-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (см.) かいけいがかり
+** Ukrainian glosses
+
+* Sense s-1198430-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 2d5e54a1dbcd619791c57f3a790e87983a6b82318fd42a2b9f78383f392b8013
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: račun
+*** en-s-1198430-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: finance
+** Ukrainian glosses
+
+* Sense s-1198430-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: d5383d915e4fd97436fdde6c2456690417c6743b934e09a7fb268665f2af441e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1198430-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuenta
+*** en-s-1198430-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contabilidad
+*** en-s-1198430-016-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: finanzas
+*** en-s-1198430-016-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tesoro
+*** en-s-1198430-016-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cajero
+** Ukrainian glosses

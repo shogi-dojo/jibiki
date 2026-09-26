@@ -1,0 +1,103 @@
+#+TITLE: 起こる
+#+JMDICT_ID: 1223680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おこる
+#+ROMAJI: okoru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1223680-001
+:PROPERTIES:
+:TEXT: 起こる
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf15
+** Written form wf-1223680-002
+:PROPERTIES:
+:TEXT: 起る
+:END:
+** Reading rd-1223680-001
+:PROPERTIES:
+:TEXT: おこる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf15
+
+* Sense s-1223680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 248f1bb57acf6ec6b6abca6f8ae1b4475707fa7fc2c79719a6d98fa849114be2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to occur
+- to happen
+** Ukrainian glosses
+*** uk-s-1223680-001-001
+:PROPERTIES:
+:END:
+- text :: траплятися
+*** uk-s-1223680-001-002
+:PROPERTIES:
+:END:
+- text :: ставатися
+*** uk-s-1223680-001-003
+:PROPERTIES:
+:END:
+- text :: виникати
+** Learner notes
+*** note-s-1223680-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово 1-ї групи (годзі-дан: =起こります=, =起こって=), що означає настання чи виникнення певної події, явища або проблеми (=事故が起こる= — стається аварія, =変化が起こる= — відбуваються зміни). Неперехідна пара до дієслова =起こす= (=おこす=, викликати, будити). Не плутайте з омофоном =怒る= (=おこる=, сердитися).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1223680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨日の夜、大きな事故が起こりました。
+- READING :: きのうのよる、おおきなじこがおこりました。
+- UK :: Вчора ввечері сталася велика аварія.
+- EN :: A major accident occurred last night.
+- FOCUS :: 起こりました
+*** ex-1223680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: どうしてこのような問題が起こったのか、原因を調べています。
+- READING :: どうしてこのようなもんだいがおこったのか、げんいんをしらべています。
+- UK :: Ми з'ясовуємо причину, чому взагалі виникла така проблема.
+- EN :: We are investigating the cause of why such a problem occurred.
+- FOCUS :: 起こった
+*** ex-1223680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地震が起こったときは、まず慌てずに机の下に隠れて身の安全を確保してください。
+- READING :: じしんがおこったときは、まずあわてずにつくえのしたにかくれてみのあんぜんをかくほしてください。
+- UK :: Коли трапляється землетрус, спершу без паніки сховайтеся під стіл і подбайте про свою безпеку.
+- EN :: When an earthquake occurs, first do not panic; hide under a desk and secure your safety.
+- FOCUS :: 起こった

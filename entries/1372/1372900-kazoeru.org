@@ -1,0 +1,333 @@
+#+TITLE: 数える
+#+JMDICT_ID: 1372900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かぞえる
+#+ROMAJI: kazoeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1372900-001
+:PROPERTIES:
+:TEXT: 数える
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf17
+** Written form wf-1372900-002
+:PROPERTIES:
+:TEXT: 算える
+:END:
+*** Information
+- rK
+** Reading rd-1372900-001
+:PROPERTIES:
+:TEXT: かぞえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf17
+
+* Sense s-1372900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 17762e30a310e5ffc8ee089fdd5cc1bff60b6365e6594513c87d587567c06244
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to count
+- to enumerate
+** Ukrainian glosses
+*** uk-s-1372900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-14
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рахувати
+*** uk-s-1372900-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-14
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лічити
+*** uk-s-1372900-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-14
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перелічувати
+** Learner notes
+*** note-s-1372900-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово типу ічідан (一段), що означає підрахунок кількості або перелік предметів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1372900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 一から十まで数えてください。
+- READING :: いちからじゅうまでかぞえてください。
+- UK :: Будь ласка, порахуйте від одного до десяти.
+- EN :: Please count from one to ten.
+- FOCUS :: 数える
+*** ex-1372900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 箱の中のリンゴを数えたら、全部で二十個あった。
+- READING :: はこのなかのリンゴをかぞえたら、ぜんぶでにじゅっこあった。
+- UK :: Коли я порахував яблука в коробці, виявилося рівно двадцять штук.
+- EN :: When I counted the apples in the box, there were twenty in all.
+- FOCUS :: 数える
+*** ex-1372900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 指を折りながら、旅行の日数を一つずつ数えた。
+- READING :: ゆびをおりながら、りょこうのにっすうをひとつずつかぞえた。
+- UK :: Загинаючи пальці, я один за одним рахував дні подорожі.
+- EN :: Bending my fingers, I counted the days of the trip one by one.
+- FOCUS :: 数える
+
+* Sense s-1372900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6eb5b556ca702369a197a76c0226b06d8d833b780a41f2625927a66883b99ca4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tellen
+** Ukrainian glosses
+
+* Sense s-1372900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 07d3ad97a442da1ce04b0c75d812dd6704d467e81254e75f7c2506fb2d712261
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compter
+** Ukrainian glosses
+
+* Sense s-1372900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 102fbe3e925990b2dd8e22e34a91f4f8678069cde448a92fa5c0cb34a4e22415
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zählen
+*** en-s-1372900-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechnen
+** Ukrainian glosses
+
+* Sense s-1372900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 708e413d511b1a4d3ef6e37bc869afaa609a9814cea185755ecffe3cb9cb533c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megszámlál
+*** en-s-1372900-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megszámol
+*** en-s-1372900-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számít
+*** en-s-1372900-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számlál
+*** en-s-1372900-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számol
+*** en-s-1372900-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tekint vminek
+** Ukrainian glosses
+
+* Sense s-1372900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ecdd809e73f93b4801455968121f2b859ef68e199ca1b257e865586b1b201e2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) считать, подсчитывать, исчислять
+*** en-s-1372900-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) насчитывать[ся]
+** Ukrainian glosses
+
+* Sense s-1372900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8c3379f5ffd5911f9aae78e081b097f4b538287b455efba2d7a676865cda114a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: šteti
+*** en-s-1372900-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prešteti
+** Ukrainian glosses
+
+* Sense s-1372900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 031da116791d725697ba8ed9e98a6ddf1b0bae042350774083b0934da783bfd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contar
+*** en-s-1372900-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enumerar
+** Ukrainian glosses
+
+* Sense s-1372900-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 56003a37bba3b12fd4edc5d12acdd833016fb18e1ec87c15428d5f250683a072
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1372900-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: räkna
+** Ukrainian glosses
