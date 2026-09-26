@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2013 |
+| Canonical entry files | 2023 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 644 |
-| N3 queue rows covered | 674 / 1677 (40.2%) |
+| Canonical N3 entries | 654 |
+| N3 queue rows covered | 684 / 1677 (40.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1976 |
+| `new` | 1986 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2003 |
+| Entry metadata still marked `draft` | 2013 |
 | Core profile | 163 |
-| Learner profile | 1849 |
+| Learner profile | 1859 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 674 rows covered (644 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 684 rows covered (654 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1867,3 +1867,13 @@ content and remain at `new` until editorial review.
 | N3-672 | [霜](entries/1402/1402930-shimo.org) | しも | shimo | 1402930 | learner | draft | **new** | Editorial review |
 | N3-673 | [借金](entries/1323/1323940-shakkin.org) | しゃっきん | shakkin | 1323940 | learner | draft | **new** | Editorial review |
 | N3-674 | [喋る](entries/1427/1427510-shaberu.org) | しゃべる | shaberu | 1427510 | learner | draft | **new** | Editorial review |
+| N3-675 | [週](entries/1333/1333450-shuu.org) | しゅう | shuu | 1333450 | learner | draft | **new** | Editorial review |
+| N3-676 | [州](entries/1331/1331840-shuu.org) | しゅう | shuu | 1331840 | learner | draft | **new** | Editorial review |
+| N3-677 | [周囲](entries/1331/1331030-shuui.org) | しゅうい | shuui | 1331030 | learner | draft | **new** | Editorial review |
+| N3-678 | [収穫](entries/1330/1330510-shuukaku.org) | しゅうかく | shuukaku | 1330510 | learner | draft | **new** | Editorial review |
+| N3-679 | [週間](entries/1333/1333500-shuukan.org) | しゅうかん | shuukan | 1333500 | learner | draft | **new** | Editorial review |
+| N3-680 | [宗教](entries/1331/1331400-shuukyou.org) | しゅうきょう | shuukyou | 1331400 | learner | draft | **new** | Editorial review |
+| N3-681 | [就職](entries/1331/1331670-shuushoku.org) | しゅうしょく | shuushoku | 1331670 | learner | draft | **new** | Editorial review |
+| N3-682 | [修正](entries/1332/1332130-shuusei.org) | しゅうせい | shuusei | 1332130 | learner | draft | **new** | Editorial review |
+| N3-683 | [集団](entries/1333/1333730-shuudan.org) | しゅうだん | shuudan | 1333730 | learner | draft | **new** | Editorial review |
+| N3-684 | [集中](entries/1333/1333750-shuuchuu.org) | しゅうちゅう | shuuchuu | 1333750 | learner | draft | **new** | Editorial review |
