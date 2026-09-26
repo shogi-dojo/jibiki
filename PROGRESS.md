@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2058 |
+| Canonical entry files | 2067 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 689 |
-| N3 queue rows covered | 724 / 1677 (43.2%) |
+| Canonical N3 entries | 698 |
+| N3 queue rows covered | 734 / 1677 (43.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2021 |
+| `new` | 2030 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2048 |
+| Entry metadata still marked `draft` | 2057 |
 | Core profile | 163 |
-| Learner profile | 1894 |
+| Learner profile | 1903 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 724 rows covered (689 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 734 rows covered (698 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1917,3 +1917,13 @@ content and remain at `new` until editorial review.
 | N3-722 | [消防](entries/1350/1350340-shoubou.org) | しょうぼう | shoubou | 1350340 | learner | draft | **new** | Editorial review |
 | N3-723 | [証明](entries/1351/1351680-shoumei.org) | しょうめい | shoumei | 1351680 | learner | draft | **new** | Editorial review |
 | N3-724 | [職](entries/1357/1357480-shoku.org) | しょく | shoku | 1357480 | learner | draft | **new** | Editorial review |
+| N3-725 | [職業](entries/1357/1357510-shokugyou.org) | しょくぎょう | shokugyou | 1357510 | learner | draft | **new** | Editorial review |
+| N3-726 | [食事](entries/1358/1358490-shokuji.org) | しょくじ | shokuji | 1358490 | learner | draft | **new** | Editorial review |
+| N3-727 | [食卓](entries/1358/1358530-shokutaku.org) | しょくたく | shokutaku | 1358530 | learner | draft | **new** | Editorial review |
+| N3-728 | [食品](entries/1358/1358600-shokuhin.org) | しょくひん | shokuhin | 1358600 | learner | draft | **new** | Editorial review |
+| N3-729 | [植物](entries/1357/1357300-shokubutsu.org) | しょくぶつ | shokubutsu | 1357300 | learner | draft | **new** | Editorial review |
+| N3-730 | [食物](entries/1358/1358620-shokumotsu.org) | しょくもつ | shokumotsu | 1358620 | learner | draft | **new** | Editorial review |
+| N3-731 | [食欲](entries/1358/1358660-shokuyoku.org) | しょくよく | shokuyoku | 1358660 | learner | draft | **new** | Editorial review |
+| N3-732 | [食料](entries/1358/1358670-shokuryou.org) | しょくりょう | shokuryou | 1358670 | learner | draft | **new** | Editorial review |
+| N3-733 | [食糧](entries/1358/1358690-shokuryou.org) | しょくりょう | shokuryou | 1358690 | learner | draft | **new** | Editorial review |
+| N3-734 | [書斎](entries/1344/1344030-shosai.org) | しょさい | shosai | 1344030 | learner | draft | **new** | Editorial review |
