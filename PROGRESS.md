@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2200 |
+| Canonical entry files | 2210 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 831 |
-| N3 queue rows covered | 874 / 1677 (52.1%) |
+| Canonical N3 entries | 841 |
+| N3 queue rows covered | 884 / 1677 (52.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2163 |
+| `new` | 2173 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2190 |
+| Entry metadata still marked `draft` | 2200 |
 | Core profile | 163 |
-| Learner profile | 2036 |
+| Learner profile | 2046 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 874 rows covered (831 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 884 rows covered (841 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2067,3 +2067,13 @@ content and remain at `new` until editorial review.
 | N3-872 | [製造](entries/1380/1380690-seizou.org) | せいぞう | seizou | 1380690 | learner | draft | **new** | Editorial review |
 | N3-873 | [成長](entries/1375/1375790-seichou.org) | せいちょう | seichou | 1375790 | learner | draft | **new** | Editorial review |
 | N3-874 | [制度](entries/1374/1374880-seido.org) | せいど | seido | 1374880 | learner | draft | **new** | Editorial review |
+| N3-875 | [青年](entries/1381/1381750-seinen.org) | せいねん | seinen | 1381750 | learner | draft | **new** | Editorial review |
+| N3-876 | [製品](entries/1380/1380760-seihin.org) | せいひん | seihin | 1380760 | learner | draft | **new** | Editorial review |
+| N3-877 | [政府](entries/1376/1376070-seifu.org) | せいふ | seifu | 1376070 | learner | draft | **new** | Editorial review |
+| N3-878 | [生物](entries/1379/1379430-seibutsu.org) | せいぶつ | seibutsu | 1379430 | learner | draft | **new** | Editorial review |
+| N3-879 | [生命](entries/1379/1379530-seimei.org) | せいめい | seimei | 1379530 | learner | draft | **new** | Editorial review |
+| N3-880 | [整理](entries/1376/1376250-seiri.org) | せいり | seiri | 1376250 | learner | draft | **new** | Editorial review |
+| N3-881 | [咳](entries/1204/1204300-seki.org) | せき | seki | 1204300 | learner | draft | **new** | Editorial review |
+| N3-882 | [石炭](entries/1382/1382700-sekitan.org) | せきたん | sekitan | 1382700 | learner | draft | **new** | Editorial review |
+| N3-883 | [責任](entries/1383/1383180-sekinin.org) | せきにん | sekinin | 1383180 | learner | draft | **new** | Editorial review |
+| N3-884 | [石油](entries/1382/1382830-sekiyu.org) | せきゆ | sekiyu | 1382830 | learner | draft | **new** | Editorial review |
