@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2040 |
+| Canonical entry files | 2048 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 671 |
-| N3 queue rows covered | 704 / 1677 (42.0%) |
+| Canonical N3 entries | 679 |
+| N3 queue rows covered | 714 / 1677 (42.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2003 |
+| `new` | 2011 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2030 |
+| Entry metadata still marked `draft` | 2038 |
 | Core profile | 163 |
-| Learner profile | 1876 |
+| Learner profile | 1884 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 704 rows covered (671 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 714 rows covered (679 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1897,3 +1897,13 @@ content and remain at `new` until editorial review.
 | N3-702 | [小](entries/2083/2083540-shou.org) | しょう | shou | 2083540 | learner | draft | **new** | Editorial review |
 | N3-703 | [章](entries/1351/1351270-shou.org) | しょう | shou | 1351270 | learner | draft | **new** | Editorial review |
 | N3-704 | [賞](entries/1351/1351910-shou.org) | しょう | shou | 1351910 | learner | draft | **new** | Editorial review |
+| N3-705 | [障害](entries/1352/1352060-shougai.org) | しょうがい | shougai | 1352060 | learner | draft | **new** | Editorial review |
+| N3-706 | [奨学金](entries/1347/1347530-shougakukin.org) | しょうがくきん | shougakukin | 1347530 | learner | draft | **new** | Editorial review |
+| N3-707 | [正午](entries/1377/1377080-shougo.org) | しょうご | shougo | 1377080 | learner | draft | **new** | Editorial review |
+| N3-708 | [少々](entries/1594/1594930-shoushou.org) | しょうしょう | shoushou | 1594930 | learner | draft | **new** | Editorial review |
+| N3-709 | [正直](entries/1377/1377590-shoujiki.org) | しょうじき | shoujiki | 1377590 | learner | draft | **new** | Editorial review |
+| N3-710 | [少女](entries/1580/1580290-shoujo.org) | しょうじょ | shoujo | 1580290 | learner | draft | **new** | Editorial review |
+| N3-711 | [症状](entries/1351/1351030-shoujou.org) | しょうじょう | shoujou | 1351030 | learner | draft | **new** | Editorial review |
+| N3-712 | [生じる](entries/1378/1378650-shoujiru.org) | しょうじる | shoujiru | 1378650 | learner | draft | **new** | Editorial review |
+| N3-713 | [招待](entries/1349/1349610-shoutai.org) | しょうたい | shoutai | 1349610 | learner | draft | **new** | Editorial review |
+| N3-714 | [承知](entries/1349/1349480-shouchi.org) | しょうち | shouchi | 1349480 | learner | draft | **new** | Editorial review |
