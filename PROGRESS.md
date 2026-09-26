@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2077 |
+| Canonical entry files | 2087 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 708 |
-| N3 queue rows covered | 744 / 1677 (44.4%) |
+| Canonical N3 entries | 718 |
+| N3 queue rows covered | 754 / 1677 (45.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2040 |
+| `new` | 2050 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2067 |
+| Entry metadata still marked `draft` | 2077 |
 | Core profile | 163 |
-| Learner profile | 1913 |
+| Learner profile | 1923 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 744 rows covered (708 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 754 rows covered (718 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1937,3 +1937,13 @@ content and remain at `new` until editorial review.
 | N3-742 | [印](entries/1168/1168060-shirushi.org) | しるし | shirushi | 1168060 | learner | draft | **new** | Editorial review |
 | N3-743 | [城](entries/1355/1355710-shiro.org) | しろ | shiro | 1355710 | learner | draft | **new** | Editorial review |
 | N3-744 | [進学](entries/1366/1366010-shingaku.org) | しんがく | shingaku | 1366010 | learner | draft | **new** | Editorial review |
+| N3-745 | [神経](entries/1364/1364520-shinkei.org) | しんけい | shinkei | 1364520 | learner | draft | **new** | Editorial review |
+| N3-746 | [真剣](entries/1363/1363650-shinken.org) | しんけん | shinken | 1363650 | learner | draft | **new** | Editorial review |
+| N3-747 | [信仰](entries/1359/1359150-shinkou.org) | しんこう | shinkou | 1359150 | learner | draft | **new** | Editorial review |
+| N3-748 | [深刻](entries/1362/1362730-shinkoku.org) | しんこく | shinkoku | 1362730 | learner | draft | **new** | Editorial review |
+| N3-749 | [信号](entries/1359/1359240-shingou.org) | しんごう | shingou | 1359240 | learner | draft | **new** | Editorial review |
+| N3-750 | [診察](entries/1365/1365460-shinsatsu.org) | しんさつ | shinsatsu | 1365460 | learner | draft | **new** | Editorial review |
+| N3-751 | [信じる](entries/1359/1359040-shinjiru.org) | しんじる | shinjiru | 1359040 | learner | draft | **new** | Editorial review |
+| N3-752 | [親戚](entries/1365/1365230-shinseki.org) | しんせき | shinseki | 1365230 | learner | draft | **new** | Editorial review |
+| N3-753 | [新鮮](entries/1362/1362100-shinsen.org) | しんせん | shinsen | 1362100 | learner | draft | **new** | Editorial review |
+| N3-754 | [心臓](entries/1360/1360770-shinzou.org) | しんぞう | shinzou | 1360770 | learner | draft | **new** | Editorial review |
