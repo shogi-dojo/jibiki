@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2087 |
+| Canonical entry files | 2096 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 718 |
-| N3 queue rows covered | 754 / 1677 (45.0%) |
+| Canonical N3 entries | 727 |
+| N3 queue rows covered | 764 / 1677 (45.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2050 |
+| `new` | 2059 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2077 |
+| Entry metadata still marked `draft` | 2086 |
 | Core profile | 163 |
-| Learner profile | 1923 |
+| Learner profile | 1932 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 754 rows covered (718 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 764 rows covered (727 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1947,3 +1947,13 @@ content and remain at `new` until editorial review.
 | N3-752 | [親戚](entries/1365/1365230-shinseki.org) | しんせき | shinseki | 1365230 | learner | draft | **new** | Editorial review |
 | N3-753 | [新鮮](entries/1362/1362100-shinsen.org) | しんせん | shinsen | 1362100 | learner | draft | **new** | Editorial review |
 | N3-754 | [心臓](entries/1360/1360770-shinzou.org) | しんぞう | shinzou | 1360770 | learner | draft | **new** | Editorial review |
+| N3-755 | [身長](entries/1365/1365770-shinchou.org) | しんちょう | shinchou | 1365770 | learner | draft | **new** | Editorial review |
+| N3-756 | [慎重](entries/1361/1361110-shinchou.org) | しんちょう | shinchou | 1361110 | learner | draft | **new** | Editorial review |
+| N3-757 | [心配](entries/1360/1360420-shinpai.org) | しんぱい | shinpai | 1360420 | learner | draft | **new** | Editorial review |
+| N3-758 | [審判](entries/1360/1360410-shinpan.org) | しんぱん | shinpan | 1360410 | learner | draft | **new** | Editorial review |
+| N3-759 | [進歩](entries/1366/1366190-shinpo.org) | しんぽ | shinpo | 1366190 | learner | draft | **new** | Editorial review |
+| N3-760 | [親友](entries/1365/1365410-shinyuu.org) | しんゆう | shinyuu | 1365410 | learner | draft | **new** | Editorial review |
+| N3-761 | [信用](entries/1359/1359620-shinyou.org) | しんよう | shinyou | 1359620 | learner | draft | **new** | Editorial review |
+| N3-762 | [信頼](entries/1359/1359730-shinrai.org) | しんらい | shinrai | 1359730 | learner | draft | **new** | Editorial review |
+| N3-763 | [心理](entries/1361/1361000-shinri.org) | しんり | shinri | 1361000 | learner | draft | **new** | Editorial review |
+| N3-764 | [ジェット機](entries/1064/1064250-jettoki.org) | ジェットき | jettoki | 1064250 | learner | draft | **new** | Editorial review |
