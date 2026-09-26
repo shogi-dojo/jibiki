@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2067 |
+| Canonical entry files | 2077 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 698 |
-| N3 queue rows covered | 734 / 1677 (43.8%) |
+| Canonical N3 entries | 708 |
+| N3 queue rows covered | 744 / 1677 (44.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2030 |
+| `new` | 2040 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2057 |
+| Entry metadata still marked `draft` | 2067 |
 | Core profile | 163 |
-| Learner profile | 1903 |
+| Learner profile | 1913 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 734 rows covered (698 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 744 rows covered (708 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1927,3 +1927,13 @@ content and remain at `new` until editorial review.
 | N3-732 | [食料](entries/1358/1358670-shokuryou.org) | しょくりょう | shokuryou | 1358670 | learner | draft | **new** | Editorial review |
 | N3-733 | [食糧](entries/1358/1358690-shokuryou.org) | しょくりょう | shokuryou | 1358690 | learner | draft | **new** | Editorial review |
 | N3-734 | [書斎](entries/1344/1344030-shosai.org) | しょさい | shosai | 1344030 | learner | draft | **new** | Editorial review |
+| N3-735 | [署名](entries/1343/1343640-shomei.org) | しょめい | shomei | 1343640 | learner | draft | **new** | Editorial review |
+| N3-736 | [書物](entries/1344/1344150-shomotsu.org) | しょもつ | shomotsu | 1344150 | learner | draft | **new** | Editorial review |
+| N3-737 | [処理](entries/1342/1342510-shori.org) | しょり | shori | 1342510 | learner | draft | **new** | Editorial review |
+| N3-738 | [書類](entries/1344/1344200-shorui.org) | しょるい | shorui | 1344200 | learner | draft | **new** | Editorial review |
+| N3-739 | [使用](entries/1306/1306200-shiyou.org) | しよう | shiyou | 1306200 | learner | draft | **new** | Editorial review |
+| N3-740 | [知らせ](entries/1420/1420400-shirase.org) | しらせ | shirase | 1420400 | learner | draft | **new** | Editorial review |
+| N3-741 | [尻](entries/1358/1358760-shiri.org) | しり | shiri | 1358760 | learner | draft | **new** | Editorial review |
+| N3-742 | [印](entries/1168/1168060-shirushi.org) | しるし | shirushi | 1168060 | learner | draft | **new** | Editorial review |
+| N3-743 | [城](entries/1355/1355710-shiro.org) | しろ | shiro | 1355710 | learner | draft | **new** | Editorial review |
+| N3-744 | [進学](entries/1366/1366010-shingaku.org) | しんがく | shingaku | 1366010 | learner | draft | **new** | Editorial review |
