@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2180 |
+| Canonical entry files | 2190 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 811 |
-| N3 queue rows covered | 854 / 1677 (50.9%) |
+| Canonical N3 entries | 821 |
+| N3 queue rows covered | 864 / 1677 (51.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2143 |
+| `new` | 2153 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2170 |
+| Entry metadata still marked `draft` | 2180 |
 | Core profile | 163 |
-| Learner profile | 2016 |
+| Learner profile | 2026 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 854 rows covered (811 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 864 rows covered (821 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2047,3 +2047,13 @@ content and remain at `new` until editorial review.
 | N3-852 | [図](entries/1370/1370320-zu.org) | ず | zu | 1370320 | learner | draft | **new** | Editorial review |
 | N3-853 | [随分](entries/1372/1372800-zuibun.org) | ずいぶん | zuibun | 1372800 | learner | draft | **new** | Editorial review |
 | N3-854 | [ずっと](entries/1006/1006380-zutto.org) | ずっと | zutto | 1006380 | learner | draft | **new** | Editorial review |
+| N3-855 | [頭痛](entries/1450/1450890-zutsuu.org) | ずつう | zutsuu | 1450890 | learner | draft | **new** | Editorial review |
+| N3-856 | [正](entries/1376/1376590-sei.org) | せい | sei | 1376590 | learner | draft | **new** | Editorial review |
+| N3-857 | [背](entries/1472/1472650-sei.org) | せい | sei | 1472650 | learner | draft | **new** | Editorial review |
+| N3-858 | [所為](entries/1610/1610040-sei.org) | せい | sei | 1610040 | learner | draft | **new** | Editorial review |
+| N3-859 | [性](entries/1375/1375260-sei.org) | せい | sei | 1375260 | learner | draft | **new** | Editorial review |
+| N3-860 | [性格](entries/1375/1375290-seikaku.org) | せいかく | seikaku | 1375290 | learner | draft | **new** | Editorial review |
+| N3-861 | [正確](entries/1376/1376760-seikaku.org) | せいかく | seikaku | 1376760 | learner | draft | **new** | Editorial review |
+| N3-862 | [世紀](entries/1373/1373990-seiki.org) | せいき | seiki | 1373990 | learner | draft | **new** | Editorial review |
+| N3-863 | [請求](entries/1381/1381320-seikyuu.org) | せいきゅう | seikyuu | 1381320 | learner | draft | **new** | Editorial review |
+| N3-864 | [清潔](entries/1378/1378200-seiketsu.org) | せいけつ | seiketsu | 1378200 | learner | draft | **new** | Editorial review |
