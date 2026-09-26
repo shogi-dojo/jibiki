@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2190 |
+| Canonical entry files | 2200 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 821 |
-| N3 queue rows covered | 864 / 1677 (51.5%) |
+| Canonical N3 entries | 831 |
+| N3 queue rows covered | 874 / 1677 (52.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2153 |
+| `new` | 2163 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2180 |
+| Entry metadata still marked `draft` | 2190 |
 | Core profile | 163 |
-| Learner profile | 2026 |
+| Learner profile | 2036 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 864 rows covered (821 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 874 rows covered (831 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2057,3 +2057,13 @@ content and remain at `new` until editorial review.
 | N3-862 | [世紀](entries/1373/1373990-seiki.org) | せいき | seiki | 1373990 | learner | draft | **new** | Editorial review |
 | N3-863 | [請求](entries/1381/1381320-seikyuu.org) | せいきゅう | seikyuu | 1381320 | learner | draft | **new** | Editorial review |
 | N3-864 | [清潔](entries/1378/1378200-seiketsu.org) | せいけつ | seiketsu | 1378200 | learner | draft | **new** | Editorial review |
+| N3-865 | [制限](entries/1374/1374700-seigen.org) | せいげん | seigen | 1374700 | learner | draft | **new** | Editorial review |
+| N3-866 | [成功](entries/1375/1375690-seikou.org) | せいこう | seikou | 1375690 | learner | draft | **new** | Editorial review |
+| N3-867 | [正式](entries/1377/1377290-seishiki.org) | せいしき | seishiki | 1377290 | learner | draft | **new** | Editorial review |
+| N3-868 | [精神](entries/1379/1379950-seishin.org) | せいしん | seishin | 1379950 | learner | draft | **new** | Editorial review |
+| N3-869 | [成人](entries/1375/1375740-seijin.org) | せいじん | seijin | 1375740 | learner | draft | **new** | Editorial review |
+| N3-870 | [成績](entries/1375/1375760-seiseki.org) | せいせき | seiseki | 1375760 | learner | draft | **new** | Editorial review |
+| N3-871 | [精々](entries/1596/1596050-seizei.org) | せいぜい | seizei | 1596050 | learner | draft | **new** | Editorial review |
+| N3-872 | [製造](entries/1380/1380690-seizou.org) | せいぞう | seizou | 1380690 | learner | draft | **new** | Editorial review |
+| N3-873 | [成長](entries/1375/1375790-seichou.org) | せいちょう | seichou | 1375790 | learner | draft | **new** | Editorial review |
+| N3-874 | [制度](entries/1374/1374880-seido.org) | せいど | seido | 1374880 | learner | draft | **new** | Editorial review |
