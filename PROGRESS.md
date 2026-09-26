@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2210 |
+| Canonical entry files | 2219 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 841 |
-| N3 queue rows covered | 884 / 1677 (52.7%) |
+| Canonical N3 entries | 850 |
+| N3 queue rows covered | 894 / 1677 (53.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2173 |
+| `new` | 2182 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2200 |
+| Entry metadata still marked `draft` | 2209 |
 | Core profile | 163 |
-| Learner profile | 2046 |
+| Learner profile | 2055 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 884 rows covered (841 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 894 rows covered (850 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2077,3 +2077,13 @@ content and remain at `new` until editorial review.
 | N3-882 | [石炭](entries/1382/1382700-sekitan.org) | せきたん | sekitan | 1382700 | learner | draft | **new** | Editorial review |
 | N3-883 | [責任](entries/1383/1383180-sekinin.org) | せきにん | sekinin | 1383180 | learner | draft | **new** | Editorial review |
 | N3-884 | [石油](entries/1382/1382830-sekiyu.org) | せきゆ | sekiyu | 1382830 | learner | draft | **new** | Editorial review |
+| N3-885 | [世間](entries/1373/1373970-seken.org) | せけん | seken | 1373970 | learner | draft | **new** | Editorial review |
+| N3-886 | [積極的](entries/1383/1383030-sekkyokuteki.org) | せっきょくてき | sekkyokuteki | 1383030 | learner | draft | **new** | Editorial review |
+| N3-887 | [設計](entries/1386/1386020-sekkei.org) | せっけい | sekkei | 1386020 | learner | draft | **new** | Editorial review |
+| N3-888 | [セット](entries/1074/1074600-setto.org) | セット | setto | 1074600 | learner | draft | **new** | Editorial review |
+| N3-889 | [説](entries/1386/1386370-setsu.org) | せつ | setsu | 1386370 | learner | draft | **new** | Editorial review |
+| N3-890 | [設備](entries/1386/1386070-setsubi.org) | せつび | setsubi | 1386070 | learner | draft | **new** | Editorial review |
+| N3-891 | [節約](entries/1386/1386350-setsuyaku.org) | せつやく | setsuyaku | 1386350 | learner | draft | **new** | Editorial review |
+| N3-892 | [責める](entries/1383/1383160-semeru.org) | せめる | semeru | 1383160 | learner | draft | **new** | Editorial review |
+| N3-893 | [世話](entries/1374/1374300-sewa.org) | せわ | sewa | 1374300 | learner | draft | **new** | Editorial review |
+| N3-894 | [専攻](entries/1389/1389780-senkou.org) | せんこう | senkou | 1389780 | learner | draft | **new** | Editorial review |
