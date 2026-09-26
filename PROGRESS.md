@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2096 |
+| Canonical entry files | 2106 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 727 |
-| N3 queue rows covered | 764 / 1677 (45.6%) |
+| Canonical N3 entries | 737 |
+| N3 queue rows covered | 774 / 1677 (46.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2059 |
+| `new` | 2069 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2086 |
+| Entry metadata still marked `draft` | 2096 |
 | Core profile | 163 |
-| Learner profile | 1932 |
+| Learner profile | 1942 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 764 rows covered (727 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 774 rows covered (737 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1957,3 +1957,13 @@ content and remain at `new` until editorial review.
 | N3-762 | [信頼](entries/1359/1359730-shinrai.org) | しんらい | shinrai | 1359730 | learner | draft | **new** | Editorial review |
 | N3-763 | [心理](entries/1361/1361000-shinri.org) | しんり | shinri | 1361000 | learner | draft | **new** | Editorial review |
 | N3-764 | [ジェット機](entries/1064/1064250-jettoki.org) | ジェットき | jettoki | 1064250 | learner | draft | **new** | Editorial review |
+| N3-765 | [直に](entries/1430/1430690-jikani.org) | じかに | jikani | 1430690 | learner | draft | **new** | Editorial review |
+| N3-766 | [時期](entries/1316/1316040-jiki.org) | じき | jiki | 1316040 | learner | draft | **new** | Editorial review |
+| N3-767 | [事件](entries/1313/1313830-jiken.org) | じけん | jiken | 1313830 | learner | draft | **new** | Editorial review |
+| N3-768 | [時刻](entries/1316/1316220-jikoku.org) | じこく | jikoku | 1316220 | learner | draft | **new** | Editorial review |
+| N3-769 | [自殺](entries/1317/1317770-jisatsu.org) | じさつ | jisatsu | 1317770 | learner | draft | **new** | Editorial review |
+| N3-770 | [自身](entries/1318/1318000-jishin.org) | じしん | jishin | 1318000 | learner | draft | **new** | Editorial review |
+| N3-771 | [事実](entries/1313/1313960-jijitsu.org) | じじつ | jijitsu | 1313960 | learner | draft | **new** | Editorial review |
+| N3-772 | [事情](entries/1314/1314010-jijou.org) | じじょう | jijou | 1314010 | learner | draft | **new** | Editorial review |
+| N3-773 | [事態](entries/1595/1595240-jitai.org) | じたい | jitai | 1595240 | learner | draft | **new** | Editorial review |
+| N3-774 | [実験](entries/1320/1320970-jikken.org) | じっけん | jikken | 1320970 | learner | draft | **new** | Editorial review |
