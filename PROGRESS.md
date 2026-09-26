@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2031 |
+| Canonical entry files | 2040 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 662 |
-| N3 queue rows covered | 694 / 1677 (41.4%) |
+| Canonical N3 entries | 671 |
+| N3 queue rows covered | 704 / 1677 (42.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1994 |
+| `new` | 2003 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2021 |
+| Entry metadata still marked `draft` | 2030 |
 | Core profile | 163 |
-| Learner profile | 1867 |
+| Learner profile | 1876 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 694 rows covered (662 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 704 rows covered (671 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1887,3 +1887,13 @@ content and remain at `new` until editorial review.
 | N3-692 | [主張](entries/1325/1325910-shuchou.org) | しゅちょう | shuchou | 1325910 | learner | draft | **new** | Editorial review |
 | N3-693 | [出身](entries/1339/1339260-shusshin.org) | しゅっしん | shusshin | 1339260 | learner | draft | **new** | Editorial review |
 | N3-694 | [出席](entries/1339/1339460-shusseki.org) | しゅっせき | shusseki | 1339460 | learner | draft | **new** | Editorial review |
+| N3-695 | [出発](entries/1340/1340000-shuppatsu.org) | しゅっぱつ | shuppatsu | 1340000 | learner | draft | **new** | Editorial review |
+| N3-696 | [出版](entries/1340/1340030-shuppan.org) | しゅっぱん | shuppan | 1340030 | learner | draft | **new** | Editorial review |
+| N3-697 | [首都](entries/1329/1329340-shuto.org) | しゅと | shuto | 1329340 | learner | draft | **new** | Editorial review |
+| N3-698 | [主婦](entries/1326/1326160-shufu.org) | しゅふ | shufu | 1326160 | learner | draft | **new** | Editorial review |
+| N3-699 | [主要](entries/1326/1326320-shuyou.org) | しゅよう | shuyou | 1326320 | learner | draft | **new** | Editorial review |
+| N3-700 | [種類](entries/1328/1328890-shurui.org) | しゅるい | shurui | 1328890 | learner | draft | **new** | Editorial review |
+| N3-701 | [瞬間](entries/1341/1341210-shunkan.org) | しゅんかん | shunkan | 1341210 | learner | draft | **new** | Editorial review |
+| N3-702 | [小](entries/2083/2083540-shou.org) | しょう | shou | 2083540 | learner | draft | **new** | Editorial review |
+| N3-703 | [章](entries/1351/1351270-shou.org) | しょう | shou | 1351270 | learner | draft | **new** | Editorial review |
+| N3-704 | [賞](entries/1351/1351910-shou.org) | しょう | shou | 1351910 | learner | draft | **new** | Editorial review |
