@@ -39,7 +39,7 @@ STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s
 # Romaji rendering is provided by the yanagi gem, which owns the single
 # kana->Hepburn implementation shared with the meijin repo.
 def to_romaji(str)
-  Yanagi.romaji(str)
+  Yanagi.romaji(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di')
 end
 
 def romaji_matches?(reading, romaji)
