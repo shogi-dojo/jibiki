@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2134 |
+| Canonical entry files | 2144 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 765 |
-| N3 queue rows covered | 804 / 1677 (47.9%) |
+| Canonical N3 entries | 775 |
+| N3 queue rows covered | 814 / 1677 (48.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2097 |
+| `new` | 2107 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2124 |
+| Entry metadata still marked `draft` | 2134 |
 | Core profile | 163 |
-| Learner profile | 1970 |
+| Learner profile | 1980 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 804 rows covered (765 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 814 rows covered (775 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1997,3 +1997,13 @@ content and remain at `new` until editorial review.
 | N3-802 | [条件](entries/1356/1356510-jouken.org) | じょうけん | jouken | 1356510 | learner | draft | **new** | Editorial review |
 | N3-803 | [常識](entries/1356/1356000-joushiki.org) | じょうしき | joushiki | 1356000 | learner | draft | **new** | Editorial review |
 | N3-804 | [状態](entries/1356/1356730-joutai.org) | じょうたい | joutai | 1356730 | learner | draft | **new** | Editorial review |
+| N3-805 | [上達](entries/1353/1353850-joutatsu.org) | じょうたつ | joutatsu | 1353850 | learner | draft | **new** | Editorial review |
+| N3-806 | [冗談](entries/1355/1355540-joudan.org) | じょうだん | joudan | 1355540 | learner | draft | **new** | Editorial review |
+| N3-807 | [上等](entries/1354/1354030-joutou.org) | じょうとう | joutou | 1354030 | learner | draft | **new** | Editorial review |
+| N3-808 | [情報](entries/1356/1356370-jouhou.org) | じょうほう | jouhou | 1356370 | learner | draft | **new** | Editorial review |
+| N3-809 | [女王](entries/1345/1345020-joou.org) | じょおう | joou | 1345020 | learner | draft | **new** | Editorial review |
+| N3-810 | [助手](entries/1344/1344650-joshu.org) | じょしゅ | joshu | 1344650 | learner | draft | **new** | Editorial review |
+| N3-811 | [徐々](entries/1345/1345600-jojo.org) | じょじょ | jojo | 1345600 | learner | draft | **new** | Editorial review |
+| N3-812 | [女優](entries/1345/1345430-joyuu.org) | じょゆう | joyuu | 1345430 | learner | draft | **new** | Editorial review |
+| N3-813 | [人工](entries/1367/1367380-jinkou.org) | じんこう | jinkou | 1367380 | learner | draft | **new** | Editorial review |
+| N3-814 | [人種](entries/1368/1368020-jinshu.org) | じんしゅ | jinshu | 1368020 | learner | draft | **new** | Editorial review |
