@@ -335,7 +335,7 @@ def validate_entry(filepath)
   lines.each_with_index do |line, idx|
     line_num = idx + 1
     if line =~ /^(\*+)\s+(.*)$/
-      stars, heading_title = $1, $2
+      _stars, heading_title = $1, $2
       if (match = heading_title.match(STABLE_ID_PATTERN))
         node_id = match[:id]
         if ids.key?(node_id)
