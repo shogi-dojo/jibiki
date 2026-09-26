@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2154 |
+| Canonical entry files | 2163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 785 |
-| N3 queue rows covered | 824 / 1677 (49.1%) |
+| Canonical N3 entries | 794 |
+| N3 queue rows covered | 834 / 1677 (49.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2117 |
+| `new` | 2126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2144 |
+| Entry metadata still marked `draft` | 2153 |
 | Core profile | 163 |
-| Learner profile | 1990 |
+| Learner profile | 1999 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 824 rows covered (785 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 834 rows covered (794 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2017,3 +2017,13 @@ content and remain at `new` until editorial review.
 | N3-822 | [推薦](entries/1371/1371170-suisen.org) | すいせん | suisen | 1371170 | learner | draft | **new** | Editorial review |
 | N3-823 | [スイッチ](entries/1067/1067210-suitchi.org) | すいっち | suitchi | 1067210 | learner | draft | **new** | Editorial review |
 | N3-824 | [睡眠](entries/1372/1372370-suimin.org) | すいみん | suimin | 1372370 | learner | draft | **new** | Editorial review |
+| N3-825 | [数](entries/1580/1580825-suu.org) | すう | suu | 1580825 | learner | draft | **new** | Editorial review |
+| N3-826 | [数字](entries/1373/1373060-suuji.org) | すうじ | suuji | 1373060 | learner | draft | **new** | Editorial review |
+| N3-827 | [末](entries/1525/1525250-sue.org) | すえ | sue | 1525250 | learner | draft | **new** | Editorial review |
+| N3-828 | [姿](entries/1307/1307710-sugata.org) | すがた | sugata | 1307710 | learner | draft | **new** | Editorial review |
+| N3-829 | [スキー](entries/1067/1067770-sukii.org) | すきー | sukii | 1067770 | learner | draft | **new** | Editorial review |
+| N3-830 | [空く](entries/1586/1586265-suku.org) | すく | suku | 1586265 | learner | draft | **new** | Editorial review |
+| N3-831 | [救う](entries/1229/1229060-sukuu.org) | すくう | sukuu | 1229060 | learner | draft | **new** | Editorial review |
+| N3-832 | [優れる](entries/1539/1539080-sugureru.org) | すぐれる | sugureru | 1539080 | learner | draft | **new** | Editorial review |
+| N3-833 | [スケート](entries/1068/1068770-sukeeto.org) | すけーと | sukeeto | 1068770 | learner | draft | **new** | Editorial review |
+| N3-834 | [少しも](entries/1348/1348900-sukoshimo.org) | すこしも | sukoshimo | 1348900 | learner | draft | **new** | Editorial review |
