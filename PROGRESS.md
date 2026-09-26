@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2023 |
+| Canonical entry files | 2031 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 654 |
-| N3 queue rows covered | 684 / 1677 (40.8%) |
+| Canonical N3 entries | 662 |
+| N3 queue rows covered | 694 / 1677 (41.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 1986 |
+| `new` | 1994 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2013 |
+| Entry metadata still marked `draft` | 2021 |
 | Core profile | 163 |
-| Learner profile | 1859 |
+| Learner profile | 1867 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 684 rows covered (654 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 694 rows covered (662 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1877,3 +1877,13 @@ content and remain at `new` until editorial review.
 | N3-682 | [修正](entries/1332/1332130-shuusei.org) | しゅうせい | shuusei | 1332130 | learner | draft | **new** | Editorial review |
 | N3-683 | [集団](entries/1333/1333730-shuudan.org) | しゅうだん | shuudan | 1333730 | learner | draft | **new** | Editorial review |
 | N3-684 | [集中](entries/1333/1333750-shuuchuu.org) | しゅうちゅう | shuuchuu | 1333750 | learner | draft | **new** | Editorial review |
+| N3-685 | [収入](entries/1330/1330790-shuunyuu.org) | しゅうにゅう | shuunyuu | 1330790 | learner | draft | **new** | Editorial review |
+| N3-686 | [修理](entries/1332/1332400-shuuri.org) | しゅうり | shuuri | 1332400 | learner | draft | **new** | Editorial review |
+| N3-687 | [主義](entries/1325/1325260-shugi.org) | しゅぎ | shugi | 1325260 | learner | draft | **new** | Editorial review |
+| N3-688 | [宿泊](entries/1337/1337300-shukuhaku.org) | しゅくはく | shukuhaku | 1337300 | learner | draft | **new** | Editorial review |
+| N3-689 | [首相](entries/1329/1329300-shushou.org) | しゅしょう | shushou | 1329300 | learner | draft | **new** | Editorial review |
+| N3-690 | [手術](entries/1327/1327790-shujutsu.org) | しゅじゅつ | shujutsu | 1327790 | learner | draft | **new** | Editorial review |
+| N3-691 | [手段](entries/1328/1328110-shudan.org) | しゅだん | shudan | 1328110 | learner | draft | **new** | Editorial review |
+| N3-692 | [主張](entries/1325/1325910-shuchou.org) | しゅちょう | shuchou | 1325910 | learner | draft | **new** | Editorial review |
+| N3-693 | [出身](entries/1339/1339260-shusshin.org) | しゅっしん | shusshin | 1339260 | learner | draft | **new** | Editorial review |
+| N3-694 | [出席](entries/1339/1339460-shusseki.org) | しゅっせき | shusseki | 1339460 | learner | draft | **new** | Editorial review |
