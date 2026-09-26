@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2048 |
+| Canonical entry files | 2058 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 679 |
-| N3 queue rows covered | 714 / 1677 (42.6%) |
+| Canonical N3 entries | 689 |
+| N3 queue rows covered | 724 / 1677 (43.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2011 |
+| `new` | 2021 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2038 |
+| Entry metadata still marked `draft` | 2048 |
 | Core profile | 163 |
-| Learner profile | 1884 |
+| Learner profile | 1894 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 714 rows covered (679 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 724 rows covered (689 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1907,3 +1907,13 @@ content and remain at `new` until editorial review.
 | N3-712 | [生じる](entries/1378/1378650-shoujiru.org) | しょうじる | shoujiru | 1378650 | learner | draft | **new** | Editorial review |
 | N3-713 | [招待](entries/1349/1349610-shoutai.org) | しょうたい | shoutai | 1349610 | learner | draft | **new** | Editorial review |
 | N3-714 | [承知](entries/1349/1349480-shouchi.org) | しょうち | shouchi | 1349480 | learner | draft | **new** | Editorial review |
+| N3-715 | [衝突](entries/1351/1351560-shoutotsu.org) | しょうとつ | shoutotsu | 1351560 | learner | draft | **new** | Editorial review |
+| N3-716 | [商人](entries/1580/1580270-shounin.org) | しょうにん | shounin | 1580270 | learner | draft | **new** | Editorial review |
+| N3-717 | [承認](entries/1349/1349520-shounin.org) | しょうにん | shounin | 1349520 | learner | draft | **new** | Editorial review |
+| N3-718 | [少年](entries/1349/1349170-shounen.org) | しょうねん | shounen | 1349170 | learner | draft | **new** | Editorial review |
+| N3-719 | [商売](entries/1347/1347200-shoubai.org) | しょうばい | shoubai | 1347200 | learner | draft | **new** | Editorial review |
+| N3-720 | [消費](entries/1350/1350290-shouhi.org) | しょうひ | shouhi | 1350290 | learner | draft | **new** | Editorial review |
+| N3-721 | [商品](entries/1347/1347310-shouhin.org) | しょうひん | shouhin | 1347310 | learner | draft | **new** | Editorial review |
+| N3-722 | [消防](entries/1350/1350340-shoubou.org) | しょうぼう | shoubou | 1350340 | learner | draft | **new** | Editorial review |
+| N3-723 | [証明](entries/1351/1351680-shoumei.org) | しょうめい | shoumei | 1351680 | learner | draft | **new** | Editorial review |
+| N3-724 | [職](entries/1357/1357480-shoku.org) | しょく | shoku | 1357480 | learner | draft | **new** | Editorial review |
