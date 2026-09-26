@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2115 |
+| Canonical entry files | 2125 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 746 |
-| N3 queue rows covered | 784 / 1677 (46.8%) |
+| Canonical N3 entries | 756 |
+| N3 queue rows covered | 794 / 1677 (47.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2078 |
+| `new` | 2088 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2105 |
+| Entry metadata still marked `draft` | 2115 |
 | Core profile | 163 |
-| Learner profile | 1951 |
+| Learner profile | 1961 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 784 rows covered (746 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 794 rows covered (756 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1977,3 +1977,13 @@ content and remain at `new` until editorial review.
 | N3-782 | [自慢](entries/1318/1318680-jiman.org) | じまん | jiman | 1318680 | learner | draft | **new** | Editorial review |
 | N3-783 | [事務](entries/1314/1314270-jimu.org) | じむ | jimu | 1314270 | learner | draft | **new** | Editorial review |
 | N3-784 | [邪魔](entries/1323/1323500-jama.org) | じゃま | jama | 1323500 | learner | draft | **new** | Editorial review |
+| N3-785 | [銃](entries/1337/1337000-juu.org) | じゅう | juu | 1337000 | learner | draft | **new** | Editorial review |
+| N3-786 | [重視](entries/1336/1336260-juushi.org) | じゅうし | juushi | 1336260 | learner | draft | **new** | Editorial review |
+| N3-787 | [渋滞](entries/1335/1335570-juutai.org) | じゅうたい | juutai | 1335570 | learner | draft | **new** | Editorial review |
+| N3-788 | [住宅](entries/1334/1334150-juutaku.org) | じゅうたく | juutaku | 1334150 | learner | draft | **new** | Editorial review |
+| N3-789 | [重大](entries/1336/1336500-juudai.org) | じゅうだい | juudai | 1336500 | learner | draft | **new** | Editorial review |
+| N3-790 | [住民](entries/1334/1334210-juumin.org) | じゅうみん | juumin | 1334210 | learner | draft | **new** | Editorial review |
+| N3-791 | [重要](entries/1336/1336820-juuyou.org) | じゅうよう | juuyou | 1336820 | learner | draft | **new** | Editorial review |
+| N3-792 | [需要](entries/1330/1330450-juyou.org) | じゅよう | juyou | 1330450 | learner | draft | **new** | Editorial review |
+| N3-793 | [順](entries/1342/1342220-jun.org) | じゅん | jun | 1342220 | learner | draft | **new** | Editorial review |
+| N3-794 | [順調](entries/1342/1342380-junchou.org) | じゅんちょう | junchou | 1342380 | learner | draft | **new** | Editorial review |
