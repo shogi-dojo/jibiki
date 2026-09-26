@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2173 |
+| Canonical entry files | 2180 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 804 |
-| N3 queue rows covered | 844 / 1677 (50.3%) |
+| Canonical N3 entries | 811 |
+| N3 queue rows covered | 854 / 1677 (50.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2136 |
+| `new` | 2143 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2163 |
+| Entry metadata still marked `draft` | 2170 |
 | Core profile | 163 |
-| Learner profile | 2009 |
+| Learner profile | 2016 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 844 rows covered (804 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 854 rows covered (811 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2037,3 +2037,13 @@ content and remain at `new` until editorial review.
 | N3-842 | [素敵](entries/1397/1397350-suteki.org) | すてき | suteki | 1397350 | learner | draft | **new** | Editorial review |
 | N3-843 | [既に](entries/1220/1220310-sudeni.org) | すでに | sudeni | 1220310 | learner | draft | **new** | Editorial review |
 | N3-844 | [即ち](entries/1404/1404100-sunawachi.org) | すなわち | sunawachi | 1404100 | learner | draft | **new** | Editorial review |
+| N3-845 | [素晴らしい](entries/1397/1397300-subarashii.org) | すばらしい | subarashii | 1397300 | learner | draft | **new** | Editorial review |
+| N3-846 | [スピーチ](entries/1072/1072260-supiichi.org) | すぴーち | supiichi | 1072260 | learner | draft | **new** | Editorial review |
+| N3-847 | [全て](entries/1595/1595730-subete.org) | すべて | subete | 1595730 | learner | draft | **new** | Editorial review |
+| N3-848 | [済ませる](entries/1295/1295040-sumaseru.org) | すませる | sumaseru | 1295040 | learner | draft | **new** | Editorial review |
+| N3-849 | [済みません](entries/1295/1295060-sumimasen.org) | すみません | sumimasen | 1295060 | learner | draft | **new** | Editorial review |
+| N3-850 | [鋭い](entries/1174/1174890-surudoi.org) | するどい | surudoi | 1174890 | learner | draft | **new** | Editorial review |
+| N3-851 | [スープ](entries/1067/1067040-suupu.org) | すーぷ | suupu | 1067040 | learner | draft | **new** | Editorial review |
+| N3-852 | [図](entries/1370/1370320-zu.org) | ず | zu | 1370320 | learner | draft | **new** | Editorial review |
+| N3-853 | [随分](entries/1372/1372800-zuibun.org) | ずいぶん | zuibun | 1372800 | learner | draft | **new** | Editorial review |
+| N3-854 | [ずっと](entries/1006/1006380-zutto.org) | ずっと | zutto | 1006380 | learner | draft | **new** | Editorial review |
