@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2125 |
+| Canonical entry files | 2134 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 756 |
-| N3 queue rows covered | 794 / 1677 (47.3%) |
+| Canonical N3 entries | 765 |
+| N3 queue rows covered | 804 / 1677 (47.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2088 |
+| `new` | 2097 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2115 |
+| Entry metadata still marked `draft` | 2124 |
 | Core profile | 163 |
-| Learner profile | 1961 |
+| Learner profile | 1970 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 794 rows covered (756 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 804 rows covered (765 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -1987,3 +1987,13 @@ content and remain at `new` until editorial review.
 | N3-792 | [需要](entries/1330/1330450-juyou.org) | じゅよう | juyou | 1330450 | learner | draft | **new** | Editorial review |
 | N3-793 | [順](entries/1342/1342220-jun.org) | じゅん | jun | 1342220 | learner | draft | **new** | Editorial review |
 | N3-794 | [順調](entries/1342/1342380-junchou.org) | じゅんちょう | junchou | 1342380 | learner | draft | **new** | Editorial review |
+| N3-795 | [順番](entries/1342/1342390-junban.org) | じゅんばん | junban | 1342390 | learner | draft | **new** | Editorial review |
+| N3-796 | [準備](entries/1341/1341670-junbi.org) | じゅんび | junbi | 1341670 | learner | draft | **new** | Editorial review |
+| N3-797 | [ジュース](entries/1065/1065950-juusu.org) | じゅーす | juusu | 1065950 | learner | draft | **new** | Editorial review |
+| N3-798 | [上](entries/1352/1352170-jou.org) | じょう | jou | 1352170 | learner | draft | **new** | Editorial review |
+| N3-799 | [乗客](entries/1580/1580490-joukyaku.org) | じょうきゃく | joukyaku | 1580490 | learner | draft | **new** | Editorial review |
+| N3-800 | [状況](entries/1356/1356700-joukyou.org) | じょうきょう | joukyou | 1356700 | learner | draft | **new** | Editorial review |
+| N3-801 | [上京](entries/1352/1352980-joukyou.org) | じょうきょう | joukyou | 1352980 | learner | draft | **new** | Editorial review |
+| N3-802 | [条件](entries/1356/1356510-jouken.org) | じょうけん | jouken | 1356510 | learner | draft | **new** | Editorial review |
+| N3-803 | [常識](entries/1356/1356000-joushiki.org) | じょうしき | joushiki | 1356000 | learner | draft | **new** | Editorial review |
+| N3-804 | [状態](entries/1356/1356730-joutai.org) | じょうたい | joutai | 1356730 | learner | draft | **new** | Editorial review |
