@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2144 |
+| Canonical entry files | 2154 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 775 |
-| N3 queue rows covered | 814 / 1677 (48.5%) |
+| Canonical N3 entries | 785 |
+| N3 queue rows covered | 824 / 1677 (49.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2107 |
+| `new` | 2117 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2134 |
+| Entry metadata still marked `draft` | 2144 |
 | Core profile | 163 |
-| Learner profile | 1980 |
+| Learner profile | 1990 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 814 rows covered (775 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 824 rows covered (785 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2007,3 +2007,13 @@ content and remain at `new` until editorial review.
 | N3-812 | [女優](entries/1345/1345430-joyuu.org) | じょゆう | joyuu | 1345430 | learner | draft | **new** | Editorial review |
 | N3-813 | [人工](entries/1367/1367380-jinkou.org) | じんこう | jinkou | 1367380 | learner | draft | **new** | Editorial review |
 | N3-814 | [人種](entries/1368/1368020-jinshu.org) | じんしゅ | jinshu | 1368020 | learner | draft | **new** | Editorial review |
+| N3-815 | [人生](entries/1368/1368370-jinsei.org) | じんせい | jinsei | 1368370 | learner | draft | **new** | Editorial review |
+| N3-816 | [人物](entries/1369/1369070-jinbutsu.org) | じんぶつ | jinbutsu | 1369070 | learner | draft | **new** | Editorial review |
+| N3-817 | [人類](entries/1369/1369530-jinrui.org) | じんるい | jinrui | 1369530 | learner | draft | **new** | Editorial review |
+| N3-818 | [ジーンズ](entries/1064/1064120-jiinzu.org) | じーんず | jiinzu | 1064120 | learner | draft | **new** | Editorial review |
+| N3-819 | [州](entries/1331/1331850-su.org) | す | su | 1331850 | learner | draft | **new** | Editorial review |
+| N3-820 | [巣](entries/1400/1400390-su.org) | す | su | 1400390 | learner | draft | **new** | Editorial review |
+| N3-821 | [水準](entries/1371/1371610-suijun.org) | すいじゅん | suijun | 1371610 | learner | draft | **new** | Editorial review |
+| N3-822 | [推薦](entries/1371/1371170-suisen.org) | すいせん | suisen | 1371170 | learner | draft | **new** | Editorial review |
+| N3-823 | [スイッチ](entries/1067/1067210-suitchi.org) | すいっち | suitchi | 1067210 | learner | draft | **new** | Editorial review |
+| N3-824 | [睡眠](entries/1372/1372370-suimin.org) | すいみん | suimin | 1372370 | learner | draft | **new** | Editorial review |
