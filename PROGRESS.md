@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2355 |
+| Canonical entry files | 2365 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 986 |
-| N3 queue rows covered | 1034 / 1677 (61.7%) |
+| Canonical N3 entries | 996 |
+| N3 queue rows covered | 1044 / 1677 (62.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2318 |
+| `new` | 2328 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2345 |
+| Entry metadata still marked `draft` | 2355 |
 | Core profile | 163 |
-| Learner profile | 2191 |
+| Learner profile | 2201 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1034 rows covered (986 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1044 rows covered (996 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2227,3 +2227,13 @@ content and remain at `new` until editorial review.
 | N3-1032 | [知事](entries/1420/1420580-chiji.org) | ちじ | chiji | 1420580 | learner | draft | **new** | Editorial review |
 | N3-1033 | [父親](entries/1497/1497680-chichioya.org) | ちちおや | chichioya | 1497680 | learner | draft | **new** | Editorial review |
 | N3-1034 | [知能](entries/1420/1420680-chinou.org) | ちのう | chinou | 1420680 | learner | draft | **new** | Editorial review |
+| N3-1035 | [地平線](entries/1421/1421440-chiheisen.org) | ちへいせん | chiheisen | 1421440 | learner | draft | **new** | Editorial review |
+| N3-1036 | [地方](entries/1421/1421450-chihou.org) | ちほう | chihou | 1421450 | learner | draft | **new** | Editorial review |
+| N3-1037 | [茶](entries/1422/1422570-cha.org) | ちゃ | cha | 1422570 | learner | draft | **new** | Editorial review |
+| N3-1038 | [チャンス](entries/1078/1078040-chansu.org) | チャンス | chansu | 1078040 | learner | draft | **new** | Editorial review |
+| N3-1039 | [ちゃんと](entries/1007/1007720-chanto.org) | ちゃんと | chanto | 1007720 | learner | draft | **new** | Editorial review |
+| N3-1040 | [注](entries/1426/1426520-chuu.org) | ちゅう | chuu | 1426520 | learner | draft | **new** | Editorial review |
+| N3-1041 | [中](entries/1620/1620400-chuu.org) | ちゅう | chuu | 1620400 | learner | draft | **new** | Editorial review |
+| N3-1042 | [中央](entries/1423/1423430-chuuou.org) | ちゅうおう | chuuou | 1423430 | learner | draft | **new** | Editorial review |
+| N3-1043 | [中学](entries/1423/1423640-chuugaku.org) | ちゅうがく | chuugaku | 1423640 | learner | draft | **new** | Editorial review |
+| N3-1044 | [中古](entries/1424/1424150-chuuko.org) | ちゅうこ | chuuko | 1424150 | learner | draft | **new** | Editorial review |
