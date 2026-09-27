@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2443 |
+| Canonical entry files | 2453 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1074 |
-| N3 queue rows covered | 1124 / 1677 (67.0%) |
+| Canonical N3 entries | 1084 |
+| N3 queue rows covered | 1135 / 1677 (67.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2406 |
+| `new` | 2416 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2433 |
+| Entry metadata still marked `draft` | 2443 |
 | Core profile | 163 |
-| Learner profile | 2279 |
+| Learner profile | 2289 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1124 rows covered (1074 distinct files) out of 1677.
-Coverage reaches N3-1125 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1135 rows covered (1084 distinct files) out of 1677.
+Coverage reaches N3-1136 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1126 (塔).
+unchanged. The next untouched queue row is N3-1137 (得意).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -67,8 +67,8 @@ The seed entry `日本語` is outside the N5/N4/N3 queues.
 ## Active 50-word continuation (2026-09-27)
 
 Goal baseline: commit `755b6eeb`, after the initial 10-word request.
-Completed: **30/50 new entries**, in completed batches of 10.
-Latest completed batch: N3-1115–1125. Each word was authored and
+Completed: **40/50 new entries**, in completed batches of 10.
+Latest completed batch: N3-1126–1136. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 50 new entries. Every new entry passed JMdict
@@ -2338,3 +2338,14 @@ content and remain at `new` until editorial review.
 | N3-1123 | [ト](entries/2029/2029780-to.org) | ト | to | 2029780 | learner | draft | **new** | Editorial review |
 | N3-1124 | [問い](entries/1535/1535930-toi.org) | とい | toi | 1535930 | learner | draft | **new** | Editorial review |
 | N3-1125 | [党](entries/1445/1445980-tou.org) | とう | tou | 1445980 | learner | draft | **new** | Editorial review |
+| N3-1126 | [塔](entries/1446/1446740-tou.org) | とう | tou | 1446740 | learner | draft | **new** | Editorial review |
+| N3-1127 | [答案](entries/1449/1449550-touan.org) | とうあん | touan | 1449550 | learner | draft | **new** | Editorial review |
+| N3-1128 | [当時](entries/1449/1449090-touji.org) | とうじ | touji | 1449090 | learner | draft | **new** | Editorial review |
+| N3-1129 | [到着](entries/1449/1449870-touchaku.org) | とうちゃく | touchaku | 1449870 | learner | draft | **new** | Editorial review |
+| N3-1130 | [投票](entries/1447/1447320-touhyou.org) | とうひょう | touhyou | 1447320 | learner | draft | **new** | Editorial review |
+| N3-1131 | [通す](entries/1432/1432900-toosu.org) | とおす | toosu | 1432900 | learner | draft | **new** | Editorial review |
+| N3-1132 | [通り](entries/1432/1432920-toori.org) | とおり | toori | 1432920 | learner | draft | **new** | Editorial review |
+| N3-1133 | [通り過ぎる](entries/1432/1432980-toorisugiru.org) | とおりすぎる | toorisugiru | 1432980 | learner | draft | **new** | Editorial review |
+| N3-1134 | [都会](entries/1444/1444970-tokai.org) | とかい | tokai | 1444970 | learner | draft | **new** | Editorial review |
+| N3-1135 | [時](entries/1315/1315840-toki.org) | とき | toki | 1315840 | learner | draft | **new** | Editorial review |
+| N3-1136 | [解く](entries/1198/1198890-toku.org) | とく | toku | 1198890 | learner | draft | **new** | Editorial review |
