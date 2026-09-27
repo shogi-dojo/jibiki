@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2563 |
+| Canonical entry files | 2573 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1194 |
-| N3 queue rows covered | 1248 / 1677 (74.4%) |
+| Canonical N3 entries | 1204 |
+| N3 queue rows covered | 1259 / 1677 (75.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2526 |
+| `new` | 2536 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2553 |
+| Entry metadata still marked `draft` | 2563 |
 | Core profile | 163 |
-| Learner profile | 2399 |
+| Learner profile | 2409 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1248 rows covered (1194 distinct files) out of 1677.
-Coverage reaches N3-1250 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1259 rows covered (1204 distinct files) out of 1677.
+Coverage reaches N3-1261 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1251 (残す).
+unchanged. The next untouched queue row is N3-1262 (述べる).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -120,6 +120,16 @@ Deferred queue rows: N3-1191.
 N3-1191 直（なお）needs a dedicated historical-usage review; it is not
 counted as covered or toward the 100 new entries. The common modern
 なお is a different lemma. [Published dictionary reference](https://kotobank.jp/word/%E7%9B%B4-25740).
+
+## Next 10-word continuation (2026-09-27)
+
+Completed N3-1251–1261: 10 new entries, each committed individually under
+Ihor with `codex` as content author. N3-1259 喉 was already present and was
+recorded as an existing alias without changing its content. The ten new
+entries contain Ukrainian glosses and usage notes for all 49 English senses
+and 30 graded examples. Each passed JMdict validation, Org lint and doctor
+100/100 with zero errors or warnings. Editorial review remains pending;
+the uncommitted 罪 draft remains preserved.
 
 ## Maturity workflow
 
@@ -2507,3 +2517,14 @@ content and remain at `new` until editorial review.
 | N3-1248 | [農民](entries/1470/1470770-noumin.org) | のうみん | noumin | 1470770 | learner | draft | **new** | Editorial review |
 | N3-1249 | [能力](entries/1470/1470370-nouryoku.org) | のうりょく | nouryoku | 1470370 | learner | draft | **new** | Editorial review |
 | N3-1250 | [軒](entries/1260/1260330-noki.org) | のき | noki | 1260330 | learner | draft | **new** | Editorial review |
+| N3-1251 | [残す](entries/1600/1600260-nokosu.org) | のこす | nokosu | 1600260 | learner | draft | **new** | Editorial review |
+| N3-1252 | [残り](entries/1304/1304480-nokori.org) | のこり | nokori | 1304480 | learner | draft | **new** | Editorial review |
+| N3-1253 | [乗せる](entries/1600/1600270-noseru.org) | のせる | noseru | 1600270 | learner | draft | **new** | Editorial review |
+| N3-1254 | [除く](entries/1345/1345640-nozoku.org) | のぞく | nozoku | 1345640 | learner | draft | **new** | Editorial review |
+| N3-1255 | [望み](entries/1519/1519620-nozomi.org) | のぞみ | nozomi | 1519620 | learner | draft | **new** | Editorial review |
+| N3-1256 | [望む](entries/1519/1519630-nozomu.org) | のぞむ | nozomu | 1519630 | learner | draft | **new** | Editorial review |
+| N3-1257 | [後](entries/1269/1269330-nochi.org) | のち | nochi | 1269330 | learner | draft | **new** | Editorial review |
+| N3-1258 | [ノック](entries/1093/1093920-nokku.org) | ノック | nokku | 1093920 | learner | draft | **new** | Editorial review |
+| N3-1259 | [喉](entries/1600/1600280-nodo.org) | のど | nodo | 1600280 | learner | draft | **new** | Editorial review |
+| N3-1260 | [伸ばす](entries/1600/1600290-nobasu.org) | のばす | nobasu | 1600290 | learner | draft | **new** | Editorial review |
+| N3-1261 | [伸びる](entries/1358/1358870-nobiru.org) | のびる | nobiru | 1358870 | learner | draft | **new** | Editorial review |
