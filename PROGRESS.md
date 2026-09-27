@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2433 |
+| Canonical entry files | 2443 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1064 |
-| N3 queue rows covered | 1113 / 1677 (66.4%) |
+| Canonical N3 entries | 1074 |
+| N3 queue rows covered | 1124 / 1677 (67.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2396 |
+| `new` | 2406 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2423 |
+| Entry metadata still marked `draft` | 2433 |
 | Core profile | 163 |
-| Learner profile | 2269 |
+| Learner profile | 2279 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1113 rows covered (1064 distinct files) out of 1677.
-Coverage reaches N3-1114 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1124 rows covered (1074 distinct files) out of 1677.
+Coverage reaches N3-1125 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1115 (出来事).
+unchanged. The next untouched queue row is N3-1126 (塔).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -67,10 +67,11 @@ The seed entry `日本語` is outside the N5/N4/N3 queues.
 ## Active 50-word continuation (2026-09-27)
 
 Goal baseline: commit `755b6eeb`, after the initial 10-word request.
-Completed: **20/50 new entries**, in completed batches of 10.
-Latest completed batch: N3-1105–1114. Each word was authored and
+Completed: **30/50 new entries**, in completed batches of 10.
+Latest completed batch: N3-1115–1125. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
-English sense and three graded examples. Every entry passed JMdict
+English sense and three graded examples. Existing queue aliases were recorded without counting
+them toward the 50 new entries. Every new entry passed JMdict
 validation, Org lint, and doctor 100/100 with zero errors or warnings.
 Git author remains Ihor; content author is `codex`. Editorial review remains
 pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
@@ -2326,3 +2327,14 @@ content and remain at `new` until editorial review.
 | N3-1112 | [天然](entries/1439/1439580-tennen.org) | てんねん | tennen | 1439580 | learner | draft | **new** | Editorial review |
 | N3-1113 | [出会い](entries/1338/1338400-deai.org) | であい | deai | 1338400 | learner | draft | **new** | Editorial review |
 | N3-1114 | [出会う](entries/1598/1598530-deau.org) | であう | deau | 1598530 | learner | draft | **new** | Editorial review |
+| N3-1115 | [出来事](entries/1340/1340570-dekigoto.org) | できごと | dekigoto | 1340570 | learner | draft | **new** | Editorial review |
+| N3-1116 | [出来るだけ](entries/1340/1340460-dekirudake.org) | できるだけ | dekirudake | 1340460 | learner | draft | **new** | Editorial review |
+| N3-1117 | [ですから](entries/1008/1008430-desukara.org) | ですから | desukara | 1008430 | learner | draft | **new** | Editorial review |
+| N3-1118 | [デモ](entries/1084/1084000-demo.org) | デモ | demo | 1084000 | learner | draft | **new** | Editorial review |
+| N3-1119 | [電子](entries/1443/1443320-denshi.org) | でんし | denshi | 1443320 | learner | draft | **new** | Editorial review |
+| N3-1120 | [伝統](entries/1442/1442260-dentou.org) | でんとう | dentou | 1442260 | learner | draft | **new** | Editorial review |
+| N3-1121 | [デート](entries/1081/1081430-deeto.org) | デート | deeto | 1081430 | learner | draft | **new** | Editorial review |
+| N3-1122 | [と](entries/1008/1008490-to.org) | と | to | 1008490 | learner | draft | **new** | Editorial review |
+| N3-1123 | [ト](entries/2029/2029780-to.org) | ト | to | 2029780 | learner | draft | **new** | Editorial review |
+| N3-1124 | [問い](entries/1535/1535930-toi.org) | とい | toi | 1535930 | learner | draft | **new** | Editorial review |
+| N3-1125 | [党](entries/1445/1445980-tou.org) | とう | tou | 1445980 | learner | draft | **new** | Editorial review |
