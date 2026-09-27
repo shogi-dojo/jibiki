@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2503 |
+| Canonical entry files | 2513 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1134 |
-| N3 queue rows covered | 1185 / 1677 (70.7%) |
+| Canonical N3 entries | 1144 |
+| N3 queue rows covered | 1196 / 1677 (71.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2466 |
+| `new` | 2476 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2493 |
+| Entry metadata still marked `draft` | 2503 |
 | Core profile | 163 |
-| Learner profile | 2339 |
+| Learner profile | 2349 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1185 rows covered (1134 distinct files) out of 1677.
-Coverage reaches N3-1186 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1196 rows covered (1144 distinct files) out of 1677.
+Coverage reaches N3-1198 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1187 (どんな).
+unchanged. The next untouched queue row is N3-1199 (流れ).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **40/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1177–1186. Each word was authored and
+Completed: **50/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1187–1198. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -106,6 +106,12 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 2 | N3-1157–1166 | 10 |
 | 3 | N3-1167–1176 | 10 |
 | 4 | N3-1177–1186 | 10 |
+| 5 | N3-1187–1198 | 10 |
+
+Deferred queue rows: N3-1191.
+N3-1191 直（なお）needs a dedicated historical-usage review; it is not
+counted as covered or toward the 100 new entries. The common modern
+なお is a different lemma. [Published dictionary reference](https://kotobank.jp/word/%E7%9B%B4-25740).
 
 ## Maturity workflow
 
@@ -2430,3 +2436,14 @@ content and remain at `new` until editorial review.
 | N3-1184 | [努力](entries/1445/1445130-doryoku.org) | どりょく | doryoku | 1445130 | learner | draft | **new** | Editorial review |
 | N3-1185 | [ドレス](entries/1089/1089280-doresu.org) | ドレス | doresu | 1089280 | learner | draft | **new** | Editorial review |
 | N3-1186 | [泥](entries/1436/1436900-doro.org) | どろ | doro | 1436900 | learner | draft | **new** | Editorial review |
+| N3-1187 | [どんな](entries/1009/1009330-donna.org) | どんな | donna | 1009330 | learner | draft | **new** | Editorial review |
+| N3-1188 | [どんなに](entries/1009/1009340-donnani.org) | どんなに | donnani | 1009340 | learner | draft | **new** | Editorial review |
+| N3-1189 | [名](entries/1531/1531330-na.org) | な | na | 1531330 | learner | draft | **new** | Editorial review |
+| N3-1190 | [内容](entries/1459/1459400-naiyou.org) | ないよう | naiyou | 1459400 | learner | draft | **new** | Editorial review |
+| N3-1192 | [仲](entries/1425/1425710-naka.org) | なか | naka | 1425710 | learner | draft | **new** | Editorial review |
+| N3-1193 | [中々](entries/1599/1599420-nakanaka.org) | なかなか | nakanaka | 1599420 | learner | draft | **new** | Editorial review |
+| N3-1194 | [半ば](entries/1478/1478780-nakaba.org) | なかば | nakaba | 1478780 | learner | draft | **new** | Editorial review |
+| N3-1195 | [仲間](entries/1425/1425790-nakama.org) | なかま | nakama | 1425790 | learner | draft | **new** | Editorial review |
+| N3-1196 | [流す](entries/1552/1552120-nagasu.org) | ながす | nagasu | 1552120 | learner | draft | **new** | Editorial review |
+| N3-1197 | [眺め](entries/1610/1610960-nagame.org) | ながめ | nagame | 1610960 | learner | draft | **new** | Editorial review |
+| N3-1198 | [眺める](entries/1428/1428830-nagameru.org) | ながめる | nagameru | 1428830 | learner | draft | **new** | Editorial review |
