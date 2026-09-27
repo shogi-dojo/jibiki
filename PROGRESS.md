@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2453 |
+| Canonical entry files | 2463 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1084 |
-| N3 queue rows covered | 1135 / 1677 (67.7%) |
+| Canonical N3 entries | 1094 |
+| N3 queue rows covered | 1145 / 1677 (68.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2416 |
+| `new` | 2426 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2443 |
+| Entry metadata still marked `draft` | 2453 |
 | Core profile | 163 |
-| Learner profile | 2289 |
+| Learner profile | 2299 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1135 rows covered (1084 distinct files) out of 1677.
-Coverage reaches N3-1136 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1145 rows covered (1094 distinct files) out of 1677.
+Coverage reaches N3-1146 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1137 (得意).
+unchanged. The next untouched queue row is N3-1147 (閉じる).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -64,17 +64,29 @@ were already committed by the previous agent and are now recorded below.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
-## Active 50-word continuation (2026-09-27)
+## Completed 50-word continuation (2026-09-27)
 
 Goal baseline: commit `755b6eeb`, after the initial 10-word request.
-Completed: **40/50 new entries**, in completed batches of 10.
-Latest completed batch: N3-1126–1136. Each word was authored and
+Completed: **50/50 new entries**, in completed batches of 10.
+Latest completed batch: N3-1137–1146. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
-English sense and three graded examples. Existing queue aliases were recorded without counting
-them toward the 50 new entries. Every new entry passed JMdict
+English sense and three graded examples. Existing queue aliases were recorded
+without counting them toward the 50 new entries. Every new entry passed JMdict
 validation, Org lint, and doctor 100/100 with zero errors or warnings.
 Git author remains Ihor; content author is `codex`. Editorial review remains
 pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
+
+| Batch | Queue rows | New entries | Existing aliases |
+| --- | --- | ---: | --- |
+| 1 | N3-1095–1104 | 10 | — |
+| 2 | N3-1105–1114 | 10 | — |
+| 3 | N3-1115–1125 | 10 | N3-1116 出来るだけ |
+| 4 | N3-1126–1136 | 10 | N3-1132 通り |
+| 5 | N3-1137–1146 | 10 | — |
+
+Total: 50 distinct new JMdict entries, with 150 graded Japanese examples,
+readings, and Ukrainian/English translations. Every English sense has an
+original Ukrainian gloss and usage explanation.
 
 ## Maturity workflow
 
@@ -2349,3 +2361,13 @@ content and remain at `new` until editorial review.
 | N3-1134 | [都会](entries/1444/1444970-tokai.org) | とかい | tokai | 1444970 | learner | draft | **new** | Editorial review |
 | N3-1135 | [時](entries/1315/1315840-toki.org) | とき | toki | 1315840 | learner | draft | **new** | Editorial review |
 | N3-1136 | [解く](entries/1198/1198890-toku.org) | とく | toku | 1198890 | learner | draft | **new** | Editorial review |
+| N3-1137 | [得意](entries/1454/1454510-tokui.org) | とくい | tokui | 1454510 | learner | draft | **new** | Editorial review |
+| N3-1138 | [特徴](entries/1455/1455170-tokuchou.org) | とくちょう | tokuchou | 1455170 | learner | draft | **new** | Editorial review |
+| N3-1139 | [解ける](entries/1198/1198910-tokeru.org) | とける | tokeru | 1198910 | learner | draft | **new** | Editorial review |
+| N3-1140 | [所が](entries/1008/1008570-tokoroga.org) | ところが | tokoroga | 1008570 | learner | draft | **new** | Editorial review |
+| N3-1141 | [所で](entries/1343/1343110-tokorode.org) | ところで | tokorode | 1343110 | learner | draft | **new** | Editorial review |
+| N3-1142 | [登山](entries/1444/1444780-tozan.org) | とざん | tozan | 1444780 | learner | draft | **new** | Editorial review |
+| N3-1143 | [都市](entries/1444/1444990-toshi.org) | とし | toshi | 1444990 | learner | draft | **new** | Editorial review |
+| N3-1144 | [年月](entries/1582/1582870-toshitsuki.org) | としつき | toshitsuki | 1582870 | learner | draft | **new** | Editorial review |
+| N3-1145 | [図書](entries/1370/1370410-tosho.org) | としょ | tosho | 1370410 | learner | draft | **new** | Editorial review |
+| N3-1146 | [年寄り](entries/1598/1598750-toshiyori.org) | としより | toshiyori | 1598750 | learner | draft | **new** | Editorial review |
