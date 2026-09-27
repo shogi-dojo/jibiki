@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2413 |
+| Canonical entry files | 2423 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1044 |
-| N3 queue rows covered | 1093 / 1677 (65.2%) |
+| Canonical N3 entries | 1054 |
+| N3 queue rows covered | 1103 / 1677 (65.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2376 |
+| `new` | 2386 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2403 |
+| Entry metadata still marked `draft` | 2413 |
 | Core profile | 163 |
-| Learner profile | 2249 |
+| Learner profile | 2259 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1093 rows covered (1044 distinct files) out of 1677.
-Coverage reaches N3-1094 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1103 rows covered (1054 distinct files) out of 1677.
+Coverage reaches N3-1104 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1095 (停留所).
+unchanged. The next untouched queue row is N3-1105 (手伝い).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -63,6 +63,17 @@ entries remain `new` / `draft`, pending editorial review. N3-1075–1083
 were already committed by the previous agent and are now recorded below.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
+
+## Active 50-word continuation (2026-09-27)
+
+Goal baseline: commit `755b6eeb`, after the initial 10-word request.
+Completed: **10/50 new entries**, in completed batches of 10.
+Latest completed batch: N3-1095–1104. Each word was authored and
+committed individually, with Ukrainian glosses and usage notes for every
+English sense and three graded examples. Every entry passed JMdict
+validation, Org lint, and doctor 100/100 with zero errors or warnings.
+Git author remains Ihor; content author is `codex`. Editorial review remains
+pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 
 ## Maturity workflow
 
@@ -2295,3 +2306,13 @@ content and remain at `new` until editorial review.
 | N3-1092 | [抵抗](entries/1436/1436260-teikou.org) | ていこう | teikou | 1436260 | learner | draft | **new** | Editorial review |
 | N3-1093 | [提出](entries/1436/1436410-teishutsu.org) | ていしゅつ | teishutsu | 1436410 | learner | draft | **new** | Editorial review |
 | N3-1094 | [程度](entries/1436/1436540-teido.org) | ていど | teido | 1436540 | learner | draft | **new** | Editorial review |
+| N3-1095 | [停留所](entries/1435/1435080-teiryuujo.org) | ていりゅうじょ | teiryuujo | 1435080 | learner | draft | **new** | Editorial review |
+| N3-1096 | [敵](entries/1582/1582000-teki.org) | てき | teki | 1582000 | learner | draft | **new** | Editorial review |
+| N3-1097 | [適する](entries/1437/1437340-tekisuru.org) | てきする | tekisuru | 1437340 | learner | draft | **new** | Editorial review |
+| N3-1098 | [適切](entries/1437/1437430-tekisetsu.org) | てきせつ | tekisetsu | 1437430 | learner | draft | **new** | Editorial review |
+| N3-1099 | [適度](entries/1437/1437440-tekido.org) | てきど | tekido | 1437440 | learner | draft | **new** | Editorial review |
+| N3-1100 | [適用](entries/1437/1437500-tekiyou.org) | てきよう | tekiyou | 1437500 | learner | draft | **new** | Editorial review |
+| N3-1101 | [手品](entries/1328/1328310-tejina.org) | てじな | tejina | 1328310 | learner | draft | **new** | Editorial review |
+| N3-1102 | [徹底](entries/1437/1437670-tettei.org) | てってい | tettei | 1437670 | learner | draft | **new** | Editorial review |
+| N3-1103 | [鉄](entries/1437/1437780-tetsu.org) | てつ | tetsu | 1437780 | learner | draft | **new** | Editorial review |
+| N3-1104 | [哲学](entries/1437/1437610-tetsugaku.org) | てつがく | tetsugaku | 1437610 | learner | draft | **new** | Editorial review |
