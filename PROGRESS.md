@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2523 |
+| Canonical entry files | 2533 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1154 |
-| N3 queue rows covered | 1206 / 1677 (71.9%) |
+| Canonical N3 entries | 1164 |
+| N3 queue rows covered | 1217 / 1677 (72.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2486 |
+| `new` | 2496 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2513 |
+| Entry metadata still marked `draft` | 2523 |
 | Core profile | 163 |
-| Learner profile | 2359 |
+| Learner profile | 2369 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1206 rows covered (1154 distinct files) out of 1677.
-Coverage reaches N3-1208 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1217 rows covered (1164 distinct files) out of 1677.
+Coverage reaches N3-1219 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1209 (怠ける).
+unchanged. The next untouched queue row is N3-1220 (日).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **60/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1199–1208. Each word was authored and
+Completed: **70/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1209–1219. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -108,6 +108,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 4 | N3-1177–1186 | 10 |
 | 5 | N3-1187–1198 | 10 |
 | 6 | N3-1199–1208 | 10 |
+| 7 | N3-1209–1219 | 10 |
 
 Deferred queue rows: N3-1191.
 N3-1191 直（なお）needs a dedicated historical-usage review; it is not
@@ -2458,3 +2459,14 @@ content and remain at `new` until editorial review.
 | N3-1206 | [何も](entries/1188/1188490-nanimo.org) | なにも | nanimo | 1188490 | learner | draft | **new** | Editorial review |
 | N3-1207 | [鍋](entries/1459/1459720-nabe.org) | なべ | nabe | 1459720 | learner | draft | **new** | Editorial review |
 | N3-1208 | [生](entries/1378/1378450-nama.org) | なま | nama | 1378450 | learner | draft | **new** | Editorial review |
+| N3-1209 | [怠ける](entries/1410/1410660-namakeru.org) | なまける | namakeru | 1410660 | learner | draft | **new** | Editorial review |
+| N3-1210 | [波](entries/1470/1470970-nami.org) | なみ | nami | 1470970 | learner | draft | **new** | Editorial review |
+| N3-1211 | [涙](entries/1555/1555930-namida.org) | なみだ | namida | 1555930 | learner | draft | **new** | Editorial review |
+| N3-1212 | [悩む](entries/1469/1469870-nayamu.org) | なやむ | nayamu | 1469870 | learner | draft | **new** | Editorial review |
+| N3-1213 | [何で](entries/1611/1611020-nande.org) | なんで | nande | 1611020 | learner | draft | **new** | Editorial review |
+| N3-1214 | [何でも](entries/1611/1611030-nandemo.org) | なんでも | nandemo | 1611030 | learner | draft | **new** | Editorial review |
+| N3-1215 | [何とか](entries/1188/1188420-nantoka.org) | なんとか | nantoka | 1188420 | learner | draft | **new** | Editorial review |
+| N3-1216 | [似合う](entries/1314/1314680-niau.org) | にあう | niau | 1314680 | learner | draft | **new** | Editorial review |
+| N3-1217 | [匂い](entries/1599/1599760-nioi.org) | におい | nioi | 1599760 | learner | draft | **new** | Editorial review |
+| N3-1218 | [苦手](entries/1244/1244470-nigate.org) | にがて | nigate | 1244470 | learner | draft | **new** | Editorial review |
+| N3-1219 | [握る](entries/1152/1152720-nigiru.org) | にぎる | nigiru | 1152720 | learner | draft | **new** | Editorial review |
