@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2228 |
+| Canonical entry files | 2237 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 859 |
-| N3 queue rows covered | 904 / 1677 (53.9%) |
+| Canonical N3 entries | 868 |
+| N3 queue rows covered | 914 / 1677 (54.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2191 |
+| `new` | 2200 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2218 |
+| Entry metadata still marked `draft` | 2227 |
 | Core profile | 163 |
-| Learner profile | 2064 |
+| Learner profile | 2073 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 904 rows covered (859 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 914 rows covered (868 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2097,3 +2097,13 @@ content and remain at `new` until editorial review.
 | N3-902 | [絶対](entries/1386/1386840-zettai.org) | ぜったい | zettai | 1386840 | learner | draft | **new** | Editorial review |
 | N3-903 | [是非](entries/1374/1374530-zehi.org) | ぜひ | zehi | 1374530 | learner | draft | **new** | Editorial review |
 | N3-904 | [善](entries/1394/1394250-zen.org) | ぜん | zen | 1394250 | learner | draft | **new** | Editorial review |
+| N3-905 | [全員](entries/1394/1394840-zenin.org) | ぜんいん | zenin | 1394840 | learner | draft | **new** | Editorial review |
+| N3-906 | [全国](entries/1581/1581180-zenkoku.org) | ぜんこく | zenkoku | 1581180 | learner | draft | **new** | Editorial review |
+| N3-907 | [前者](entries/1393/1393090-zensha.org) | ぜんしゃ | zensha | 1393090 | learner | draft | **new** | Editorial review |
+| N3-908 | [前進](entries/1393/1393350-zenshin.org) | ぜんしん | zenshin | 1393350 | learner | draft | **new** | Editorial review |
+| N3-909 | [全然](entries/1395/1395620-zenzen.org) | ぜんぜん | zenzen | 1395620 | learner | draft | **new** | Editorial review |
+| N3-910 | [全体](entries/1395/1395660-zentai.org) | ぜんたい | zentai | 1395660 | learner | draft | **new** | Editorial review |
+| N3-911 | [騒音](entries/1403/1403060-souon.org) | そうおん | souon | 1403060 | learner | draft | **new** | Editorial review |
+| N3-912 | [操作](entries/1400/1400050-sousa.org) | そうさ | sousa | 1400050 | learner | draft | **new** | Editorial review |
+| N3-913 | [想像](entries/1399/1399610-souzou.org) | そうぞう | souzou | 1399610 | learner | draft | **new** | Editorial review |
+| N3-914 | [相続](entries/1401/1401090-souzoku.org) | そうぞく | souzoku | 1401090 | learner | draft | **new** | Editorial review |
