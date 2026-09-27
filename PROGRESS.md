@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2316 |
+| Canonical entry files | 2326 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 947 |
-| N3 queue rows covered | 994 / 1677 (59.3%) |
+| Canonical N3 entries | 957 |
+| N3 queue rows covered | 1004 / 1677 (59.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2279 |
+| `new` | 2289 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2306 |
+| Entry metadata still marked `draft` | 2316 |
 | Core profile | 163 |
-| Learner profile | 2152 |
+| Learner profile | 2162 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 994 rows covered (947 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1004 rows covered (957 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2187,3 +2187,13 @@ content and remain at `new` until editorial review.
 | N3-992 | [試す](entries/1312/1312260-tamesu.org) | ためす | tamesu | 1312260 | learner | draft | **new** | Editorial review |
 | N3-993 | [便り](entries/1512/1512410-tayori.org) | たより | tayori | 1512410 | learner | draft | **new** | Editorial review |
 | N3-994 | [頼る](entries/1597/1597200-tayoru.org) | たよる | tayoru | 1597200 | learner | draft | **new** | Editorial review |
+| N3-995 | [単位](entries/1417/1417040-tani.org) | たんい | tani | 1417040 | learner | draft | **new** | Editorial review |
+| N3-996 | [単語](entries/1417/1417330-tango.org) | たんご | tango | 1417330 | learner | draft | **new** | Editorial review |
+| N3-997 | [単純](entries/1417/1417550-tanjun.org) | たんじゅん | tanjun | 1417550 | learner | draft | **new** | Editorial review |
+| N3-998 | [誕生](entries/1419/1419080-tanjou.org) | たんじょう | tanjou | 1419080 | learner | draft | **new** | Editorial review |
+| N3-999 | [担当](entries/1418/1418160-tantou.org) | たんとう | tantou | 1418160 | learner | draft | **new** | Editorial review |
+| N3-1000 | [単なる](entries/1417/1417020-tannaru.org) | たんなる | tannaru | 1417020 | learner | draft | **new** | Editorial review |
+| N3-1001 | [単に](entries/1417/1417030-tanni.org) | たんに | tanni | 1417030 | learner | draft | **new** | Editorial review |
+| N3-1002 | [題](entries/1415/1415470-dai.org) | だい | dai | 1415470 | learner | draft | **new** | Editorial review |
+| N3-1003 | [台](entries/1412/1412560-dai.org) | だい | dai | 1412560 | learner | draft | **new** | Editorial review |
+| N3-1004 | [代金](entries/1411/1411790-daikin.org) | だいきん | daikin | 1411790 | learner | draft | **new** | Editorial review |
