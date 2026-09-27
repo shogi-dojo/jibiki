@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2375 |
+| Canonical entry files | 2385 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1006 |
-| N3 queue rows covered | 1054 / 1677 (62.8%) |
+| Canonical N3 entries | 1016 |
+| N3 queue rows covered | 1064 / 1677 (63.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2338 |
+| `new` | 2348 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2365 |
+| Entry metadata still marked `draft` | 2375 |
 | Core profile | 163 |
-| Learner profile | 2211 |
+| Learner profile | 2221 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1054 rows covered (1006 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1064 rows covered (1016 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2247,3 +2247,13 @@ content and remain at `new` until editorial review.
 | N3-1052 | [調査](entries/1429/1429120-chousa.org) | ちょうさ | chousa | 1429120 | learner | draft | **new** | Editorial review |
 | N3-1053 | [調子](entries/1429/1429170-choushi.org) | ちょうし | choushi | 1429170 | learner | draft | **new** | Editorial review |
 | N3-1054 | [頂上](entries/1430/1430220-choujou.org) | ちょうじょう | choujou | 1430220 | learner | draft | **new** | Editorial review |
+| N3-1055 | [頂戴](entries/1430/1430230-choudai.org) | ちょうだい | choudai | 1430230 | learner | draft | **new** | Editorial review |
+| N3-1056 | [貯金](entries/1427/1427170-chokin.org) | ちょきん | chokin | 1427170 | learner | draft | **new** | Editorial review |
+| N3-1057 | [直接](entries/1431/1431110-chokusetsu.org) | ちょくせつ | chokusetsu | 1431110 | learner | draft | **new** | Editorial review |
+| N3-1058 | [著者](entries/1427/1427110-chosha.org) | ちょしゃ | chosha | 1427110 | learner | draft | **new** | Editorial review |
+| N3-1059 | [チーズ](entries/1077/1077330-chi-zu.org) | チーズ | chi-zu | 1077330 | learner | draft | **new** | Editorial review |
+| N3-1060 | [チーム](entries/1077/1077360-chi-mu.org) | チーム | chi-mu | 1077360 | learner | draft | **new** | Editorial review |
+| N3-1061 | [対](entries/1409/1409810-tsui.org) | つい | tsui | 1409810 | learner | draft | **new** | Editorial review |
+| N3-1062 | [遂に](entries/1372/1372630-tsuini.org) | ついに | tsuini | 1372630 | learner | draft | **new** | Editorial review |
+| N3-1063 | [通過](entries/1433/1433070-tsuuka.org) | つうか | tsuuka | 1433070 | learner | draft | **new** | Editorial review |
+| N3-1064 | [通行](entries/1433/1433180-tsuukou.org) | つうこう | tsuukou | 1433180 | learner | draft | **new** | Editorial review |
