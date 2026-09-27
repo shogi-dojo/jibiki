@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2423 |
+| Canonical entry files | 2433 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1054 |
-| N3 queue rows covered | 1103 / 1677 (65.8%) |
+| Canonical N3 entries | 1064 |
+| N3 queue rows covered | 1113 / 1677 (66.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2386 |
+| `new` | 2396 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2413 |
+| Entry metadata still marked `draft` | 2423 |
 | Core profile | 163 |
-| Learner profile | 2259 |
+| Learner profile | 2269 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1103 rows covered (1054 distinct files) out of 1677.
-Coverage reaches N3-1104 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1113 rows covered (1064 distinct files) out of 1677.
+Coverage reaches N3-1114 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1105 (手伝い).
+unchanged. The next untouched queue row is N3-1115 (出来事).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -67,8 +67,8 @@ The seed entry `日本語` is outside the N5/N4/N3 queues.
 ## Active 50-word continuation (2026-09-27)
 
 Goal baseline: commit `755b6eeb`, after the initial 10-word request.
-Completed: **10/50 new entries**, in completed batches of 10.
-Latest completed batch: N3-1095–1104. Each word was authored and
+Completed: **20/50 new entries**, in completed batches of 10.
+Latest completed batch: N3-1105–1114. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Every entry passed JMdict
 validation, Org lint, and doctor 100/100 with zero errors or warnings.
@@ -2316,3 +2316,13 @@ content and remain at `new` until editorial review.
 | N3-1102 | [徹底](entries/1437/1437670-tettei.org) | てってい | tettei | 1437670 | learner | draft | **new** | Editorial review |
 | N3-1103 | [鉄](entries/1437/1437780-tetsu.org) | てつ | tetsu | 1437780 | learner | draft | **new** | Editorial review |
 | N3-1104 | [哲学](entries/1437/1437610-tetsugaku.org) | てつがく | tetsugaku | 1437610 | learner | draft | **new** | Editorial review |
+| N3-1105 | [手伝い](entries/1328/1328170-tetsudai.org) | てつだい | tetsudai | 1328170 | learner | draft | **new** | Editorial review |
+| N3-1106 | [鉄道](entries/1437/1437960-tetsudou.org) | てつどう | tetsudou | 1437960 | learner | draft | **new** | Editorial review |
+| N3-1107 | [徹夜](entries/1437/1437700-tetsuya.org) | てつや | tetsuya | 1437700 | learner | draft | **new** | Editorial review |
+| N3-1108 | [手間](entries/1327/1327410-tema.org) | てま | tema | 1327410 | learner | draft | **new** | Editorial review |
+| N3-1109 | [典型](entries/1438/1438080-tenkei.org) | てんけい | tenkei | 1438080 | learner | draft | **new** | Editorial review |
+| N3-1110 | [天候](entries/1438/1438970-tenkou.org) | てんこう | tenkou | 1438970 | learner | draft | **new** | Editorial review |
+| N3-1111 | [テント](entries/1081/1081040-tento.org) | テント | tento | 1081040 | learner | draft | **new** | Editorial review |
+| N3-1112 | [天然](entries/1439/1439580-tennen.org) | てんねん | tennen | 1439580 | learner | draft | **new** | Editorial review |
+| N3-1113 | [出会い](entries/1338/1338400-deai.org) | であい | deai | 1338400 | learner | draft | **new** | Editorial review |
+| N3-1114 | [出会う](entries/1598/1598530-deau.org) | であう | deau | 1598530 | learner | draft | **new** | Editorial review |
