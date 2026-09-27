@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2483 |
+| Canonical entry files | 2493 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1114 |
-| N3 queue rows covered | 1165 / 1677 (69.5%) |
+| Canonical N3 entries | 1124 |
+| N3 queue rows covered | 1175 / 1677 (70.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2446 |
+| `new` | 2456 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2473 |
+| Entry metadata still marked `draft` | 2483 |
 | Core profile | 163 |
-| Learner profile | 2319 |
+| Learner profile | 2329 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1165 rows covered (1114 distinct files) out of 1677.
-Coverage reaches N3-1166 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1175 rows covered (1124 distinct files) out of 1677.
+Coverage reaches N3-1176 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1167 (同一).
+unchanged. The next untouched queue row is N3-1177 (読書).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **20/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1157–1166. Each word was authored and
+Completed: **30/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1167–1176. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -104,6 +104,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | --- | --- | ---: |
 | 1 | N3-1147–1156 | 10 |
 | 2 | N3-1157–1166 | 10 |
+| 3 | N3-1167–1176 | 10 |
 
 ## Maturity workflow
 
@@ -2408,3 +2409,13 @@ content and remain at `new` until editorial review.
 | N3-1164 | [トンネル](entries/1087/1087630-tonneru.org) | トンネル | tonneru | 1087630 | learner | draft | **new** | Editorial review |
 | N3-1165 | [度](entries/1445/1445160-do.org) | ど | do | 1445160 | learner | draft | **new** | Editorial review |
 | N3-1166 | [度](entries/2252/2252690-do.org) | ど | do | 2252690 | learner | draft | **new** | Editorial review |
+| N3-1167 | [同一](entries/1451/1451900-douitsu.org) | どういつ | douitsu | 1451900 | learner | draft | **new** | Editorial review |
+| N3-1168 | [銅貨](entries/1454/1454350-douka.org) | どうか | douka | 1454350 | learner | draft | **new** | Editorial review |
+| N3-1169 | [動詞](entries/1451/1451380-doushi.org) | どうし | doushi | 1451380 | learner | draft | **new** | Editorial review |
+| N3-1170 | [如何しても](entries/1466/1466950-doushitemo.org) | どうしても | doushitemo | 1466950 | learner | draft | **new** | Editorial review |
+| N3-1171 | [同時](entries/1452/1452500-douji.org) | どうじ | douji | 1452500 | learner | draft | **new** | Editorial review |
+| N3-1172 | [道徳](entries/1454/1454240-doutoku.org) | どうとく | doutoku | 1454240 | learner | draft | **new** | Editorial review |
+| N3-1173 | [同様](entries/1453/1453550-douyou.org) | どうよう | douyou | 1453550 | learner | draft | **new** | Editorial review |
+| N3-1174 | [同僚](entries/1453/1453580-douryou.org) | どうりょう | douryou | 1453580 | learner | draft | **new** | Editorial review |
+| N3-1175 | [道路](entries/1454/1454290-douro.org) | どうろ | douro | 1454290 | learner | draft | **new** | Editorial review |
+| N3-1176 | [毒](entries/1455/1455500-doku.org) | どく | doku | 1455500 | learner | draft | **new** | Editorial review |
