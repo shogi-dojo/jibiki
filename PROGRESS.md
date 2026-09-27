@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2286 |
+| Canonical entry files | 2296 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 917 |
-| N3 queue rows covered | 964 / 1677 (57.5%) |
+| Canonical N3 entries | 927 |
+| N3 queue rows covered | 974 / 1677 (58.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2249 |
+| `new` | 2259 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2276 |
+| Entry metadata still marked `draft` | 2286 |
 | Core profile | 163 |
-| Learner profile | 2122 |
+| Learner profile | 2132 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 964 rows covered (917 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 974 rows covered (927 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2157,3 +2157,13 @@ content and remain at `new` until editorial review.
 | N3-962 | [タオル](entries/1076/1076170-taoru.org) | タオル | taoru | 1076170 | learner | draft | **new** | Editorial review |
 | N3-963 | [宝](entries/1516/1516160-takara.org) | たから | takara | 1516160 | learner | draft | **new** | Editorial review |
 | N3-964 | [互い](entries/1268/1268770-tagai.org) | たがい | tagai | 1268770 | learner | draft | **new** | Editorial review |
+| N3-965 | [宅](entries/1415/1415750-taku.org) | たく | taku | 1415750 | learner | draft | **new** | Editorial review |
+| N3-966 | [確かめる](entries/1205/1205780-tashikameru.org) | たしかめる | tashikameru | 1205780 | learner | draft | **new** | Editorial review |
+| N3-967 | [多少](entries/1407/1407810-tashou.org) | たしょう | tashou | 1407810 | learner | draft | **new** | Editorial review |
+| N3-968 | [助ける](entries/1344/1344410-tasukeru.org) | たすける | tasukeru | 1344410 | learner | draft | **new** | Editorial review |
+| N3-969 | [戦い](entries/1596/1596950-tatakai.org) | たたかい | tatakai | 1596950 | learner | draft | **new** | Editorial review |
+| N3-970 | [戦う](entries/1596/1596960-tatakau.org) | たたかう | tatakau | 1596960 | learner | draft | **new** | Editorial review |
+| N3-971 | [叩く](entries/1416/1416170-tataku.org) | たたく | tataku | 1416170 | learner | draft | **new** | Editorial review |
+| N3-972 | [只](entries/1538/1538900-tada.org) | ただ | tada | 1538900 | learner | draft | **new** | Editorial review |
+| N3-973 | [直ちに](entries/1430/1430670-tadachini.org) | ただちに | tadachini | 1430670 | learner | draft | **new** | Editorial review |
+| N3-974 | [立ち上がる](entries/1551/1551370-tachiagaru.org) | たちあがる | tachiagaru | 1551370 | learner | draft | **new** | Editorial review |
