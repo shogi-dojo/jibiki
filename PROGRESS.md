@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2256 |
+| Canonical entry files | 2266 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 887 |
-| N3 queue rows covered | 934 / 1677 (55.7%) |
+| Canonical N3 entries | 897 |
+| N3 queue rows covered | 944 / 1677 (56.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2219 |
+| `new` | 2229 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2246 |
+| Entry metadata still marked `draft` | 2256 |
 | Core profile | 163 |
-| Learner profile | 2092 |
+| Learner profile | 2102 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 934 rows covered (887 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 944 rows covered (897 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2127,3 +2127,13 @@ content and remain at `new` until editorial review.
 | N3-932 | [其れ其れ](entries/1596/1596690-sorezore.org) | それぞれ | sorezore | 1596690 | learner | draft | **new** | Editorial review |
 | N3-933 | [其れでも](entries/1406/1406060-soredemo.org) | それでも | soredemo | 1406060 | learner | draft | **new** | Editorial review |
 | N3-934 | [其れとも](entries/1007/1007010-soretomo.org) | それとも | soretomo | 1007010 | learner | draft | **new** | Editorial review |
+| N3-935 | [損](entries/1406/1406660-son.org) | そん | son | 1406660 | learner | draft | **new** | Editorial review |
+| N3-936 | [損害](entries/1406/1406710-songai.org) | そんがい | songai | 1406710 | learner | draft | **new** | Editorial review |
+| N3-937 | [尊敬](entries/1406/1406400-sonkei.org) | そんけい | sonkei | 1406400 | learner | draft | **new** | Editorial review |
+| N3-938 | [存在](entries/1406/1406150-sonzai.org) | そんざい | sonzai | 1406150 | learner | draft | **new** | Editorial review |
+| N3-939 | [尊重](entries/1406/1406460-sonchou.org) | そんちょう | sonchou | 1406460 | learner | draft | **new** | Editorial review |
+| N3-940 | [象](entries/1351/1351830-zou.org) | ぞう | zou | 1351830 | learner | draft | **new** | Editorial review |
+| N3-941 | [増加](entries/1403/1403160-zouka.org) | ぞうか | zouka | 1403160 | learner | draft | **new** | Editorial review |
+| N3-942 | [田](entries/1442/1442730-ta.org) | た | ta | 1442730 | learner | draft | **new** | Editorial review |
+| N3-943 | [他](entries/1949/1949190-ta.org) | た | ta | 1949190 | learner | draft | **new** | Editorial review |
+| N3-944 | [体育](entries/1409/1409200-taiiku.org) | たいいく | taiiku | 1409200 | learner | draft | **new** | Editorial review |
