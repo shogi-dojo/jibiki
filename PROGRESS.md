@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2296 |
+| Canonical entry files | 2306 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 927 |
-| N3 queue rows covered | 974 / 1677 (58.1%) |
+| Canonical N3 entries | 937 |
+| N3 queue rows covered | 984 / 1677 (58.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2259 |
+| `new` | 2269 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2286 |
+| Entry metadata still marked `draft` | 2296 |
 | Core profile | 163 |
-| Learner profile | 2132 |
+| Learner profile | 2142 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 974 rows covered (927 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 984 rows covered (937 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2167,3 +2167,13 @@ content and remain at `new` until editorial review.
 | N3-972 | [只](entries/1538/1538900-tada.org) | ただ | tada | 1538900 | learner | draft | **new** | Editorial review |
 | N3-973 | [直ちに](entries/1430/1430670-tadachini.org) | ただちに | tadachini | 1430670 | learner | draft | **new** | Editorial review |
 | N3-974 | [立ち上がる](entries/1551/1551370-tachiagaru.org) | たちあがる | tachiagaru | 1551370 | learner | draft | **new** | Editorial review |
+| N3-975 | [立場](entries/1551/1551710-tachiba.org) | たちば | tachiba | 1551710 | learner | draft | **new** | Editorial review |
+| N3-976 | [達する](entries/1416/1416230-tassuru.org) | たっする | tassuru | 1416230 | learner | draft | **new** | Editorial review |
+| N3-977 | [たった](entries/1007/1007230-tatta.org) | たった | tatta | 1007230 | learner | draft | **new** | Editorial review |
+| N3-978 | [たっぷり](entries/1007/1007240-tappuri.org) | たっぷり | tappuri | 1007240 | learner | draft | **new** | Editorial review |
+| N3-979 | [経つ](entries/1251/1251100-tatsu.org) | たつ | tatsu | 1251100 | learner | draft | **new** | Editorial review |
+| N3-980 | [例え](entries/1597/1597120-tatoe.org) | たとえ | tatoe | 1597120 | learner | draft | **new** | Editorial review |
+| N3-981 | [谷](entries/1581/1581590-tani.org) | たに | tani | 1581590 | learner | draft | **new** | Editorial review |
+| N3-982 | [他人](entries/1581/1581400-tanin.org) | たにん | tanin | 1581400 | learner | draft | **new** | Editorial review |
+| N3-983 | [種](entries/1328/1328820-tane.org) | たね | tane | 1328820 | learner | draft | **new** | Editorial review |
+| N3-984 | [束](entries/1404/1404450-taba.org) | たば | taba | 1404450 | learner | draft | **new** | Editorial review |
