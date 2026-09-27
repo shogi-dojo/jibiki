@@ -1,0 +1,592 @@
+#+TITLE: 例え
+#+JMDICT_ID: 1597120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たとえ
+#+ROMAJI: tatoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1597120-001
+:PROPERTIES:
+:TEXT: 例え
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf28
+** Written form wf-1597120-002
+:PROPERTIES:
+:TEXT: 喩え
+:END:
+** Written form wf-1597120-003
+:PROPERTIES:
+:TEXT: 譬え
+:END:
+*** Information
+- rK
+** Written form wf-1597120-004
+:PROPERTIES:
+:TEXT: 喩
+:END:
+*** Information
+- sK
+** Written form wf-1597120-005
+:PROPERTIES:
+:TEXT: 譬
+:END:
+*** Information
+- sK
+** Reading rd-1597120-001
+:PROPERTIES:
+:TEXT: たとえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf28
+
+* Sense s-1597120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 253ebbf12e697407ea09d7160768623cdb0651932bace2a33455f140a62cfbb0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 例え
+** English glosses
+- example
+** Ukrainian glosses
+*** uk-s-1597120-001-001
+:PROPERTIES:
+:END:
+- text :: приклад
+*** uk-s-1597120-001-002
+:PROPERTIES:
+:END:
+- text :: порівняння
+*** uk-s-1597120-001-003
+:PROPERTIES:
+:END:
+- text :: ілюстрація
+** Learner notes
+*** note-s-1597120-001-001
+:PROPERTIES:
+:END:
+- UK :: Приклад або порівняння для наочного пояснення (~例えを出す~ — навести приклад). При написанні кандзі ~例え~ найчастіше позначає життєвий або наочний приклад.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1597120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生は分かりやすい例えを使って説明した。
+- READING :: せんせいはわかりやすいたとえをつかってせつめいした。
+- UK :: Учитель пояснив за допомогою зрозумілого прикладу.
+- EN :: The teacher explained using an easy-to-understand example.
+- FOCUS :: 例え
+*** ex-1597120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 複雑な問題を身近な例えで話すと理解しやすい。
+- READING :: ふくざつなもんだいをみぢかなたとえではなすとりかいしやすい。
+- UK :: Якщо говорити про складні проблеми на близьких прикладах, їх легше зрозуміти.
+- EN :: It is easy to understand if you talk about complex problems using familiar examples.
+- FOCUS :: 例え
+*** ex-1597120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: あなたの言いたいことは適切な例えを挙げてくれたおかげでよく分かりました。
+- READING :: あなたのいいたいことはてきせつなたとえをあげてくれたおかげでよくわかりました。
+- UK :: Те, що ви хотіли сказати, стало цілком зрозумілим завдяки тому, що ви навели вдалий приклад.
+- EN :: What you wanted to say became very clear thanks to you giving an appropriate example.
+- FOCUS :: 例え
+
+* Sense s-1597120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 70ee984dc99e9a2633ae567608df95d51b2b7c07a14011e496e77c36d885b101
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 喩え, 譬え
+** English glosses
+- simile
+- metaphor
+- allegory
+- fable
+- parable
+** Ukrainian glosses
+*** uk-s-1597120-002-001
+:PROPERTIES:
+:END:
+- text :: алегорія
+*** uk-s-1597120-002-002
+:PROPERTIES:
+:END:
+- text :: метафора
+*** uk-s-1597120-002-003
+:PROPERTIES:
+:END:
+- text :: притча
+** Learner notes
+*** note-s-1597120-002-001
+:PROPERTIES:
+:END:
+- UK :: Метафора, алегорія чи притча. У цьому значенні часто записується як ~喩え~ або ~譬え~ (~喩え話~ — притча, алегорична оповідка).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1597120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e8959e2988aaf983cd556f5cf8b2ff6458fd5ed2e3033dc078edaa4c229dc238
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {stijll.} vergelijking
+*** en-s-1597120-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gelijkenis
+*** en-s-1597120-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beeldspraak
+*** en-s-1597120-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beeld
+*** en-s-1597120-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metafoor
+** Ukrainian glosses
+
+* Sense s-1597120-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6cafbaea013282cb70d10966617a40d690906a53f90b7cb8e5a2c33ba4cd99e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorbeeld
+** Ukrainian glosses
+
+* Sense s-1597120-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: db75b2ceb24695ddc87ab76d0db738ddc4a8a3285f201c7e9196e89c9375cca3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gezegde
+*** en-s-1597120-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spreekwoord
+*** en-s-1597120-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zegswijze
+** Ukrainian glosses
+
+* Sense s-1597120-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 85ba0109ec5053ff9b24bfc5e5324b4c92d278036e7cd73ab12a201612481671
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bien que
+*** en-s-1597120-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exemple
+*** en-s-1597120-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: même si
+*** en-s-1597120-006-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quoi que
+** Ukrainian glosses
+
+* Sense s-1597120-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1423b7092e435f39cbb3549c24147119b96fbbbc1848247adabc913dc9624673
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gleichnis
+*** en-s-1597120-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Allegorie
+*** en-s-1597120-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vergleich
+*** en-s-1597120-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beispiel
+*** en-s-1597120-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metapher
+*** en-s-1597120-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sinnbild
+** Ukrainian glosses
+
+* Sense s-1597120-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 50ec0911bbd5b8aade7fb069c59c443d66acb25cd3ac4bcdadde63d3224aeb59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fabel
+*** en-s-1597120-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parabel
+*** en-s-1597120-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sprichwort
+** Ukrainian glosses
+
+* Sense s-1597120-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 641da1e51264d91badc0ff1b26ef1631f9bf82c8b6cc270aab57870c82c5a710
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metafora
+*** en-s-1597120-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: még akkor is ha
+*** en-s-1597120-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bár
+*** en-s-1597120-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: habár
+*** en-s-1597120-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metafora
+** Ukrainian glosses
+
+* Sense s-1597120-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ee2165d5a06b660ffa7f8617f2c05ee442770e130daf3b5c7aedbeb074f0ed51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пример, иллюстрация
+*** en-s-1597120-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поговорка; иносказание, аллегория
+** Ukrainian glosses
+
+* Sense s-1597120-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8892511dc59c8c6a88dd201999b716ddfc0842bc7040ce32b3bbc40dea82c657
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597120-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alegoría
+*** en-s-1597120-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ejemplo
+*** en-s-1597120-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metáfora
+*** en-s-1597120-011-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parábola
+*** en-s-1597120-011-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: símil
+*** en-s-1597120-011-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comparación
+*** en-s-1597120-011-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: por ejemplo
+*** en-s-1597120-011-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aun si
+*** en-s-1597120-011-009
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: si
+*** en-s-1597120-011-010
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aunque
+*** en-s-1597120-011-011
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: si bien
+*** en-s-1597120-011-012
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: simíl
+*** en-s-1597120-011-013
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metáfora
+*** en-s-1597120-011-014
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alegoría
+** Ukrainian glosses
