@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2237 |
+| Canonical entry files | 2246 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 868 |
-| N3 queue rows covered | 914 / 1677 (54.5%) |
+| Canonical N3 entries | 877 |
+| N3 queue rows covered | 924 / 1677 (55.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2200 |
+| `new` | 2209 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2227 |
+| Entry metadata still marked `draft` | 2236 |
 | Core profile | 163 |
-| Learner profile | 2073 |
+| Learner profile | 2082 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 914 rows covered (868 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 924 rows covered (877 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2107,3 +2107,13 @@ content and remain at `new` until editorial review.
 | N3-912 | [操作](entries/1400/1400050-sousa.org) | そうさ | sousa | 1400050 | learner | draft | **new** | Editorial review |
 | N3-913 | [想像](entries/1399/1399610-souzou.org) | そうぞう | souzou | 1399610 | learner | draft | **new** | Editorial review |
 | N3-914 | [相続](entries/1401/1401090-souzoku.org) | そうぞく | souzoku | 1401090 | learner | draft | **new** | Editorial review |
+| N3-915 | [相談](entries/1401/1401210-soudan.org) | そうだん | soudan | 1401210 | learner | draft | **new** | Editorial review |
+| N3-916 | [装置](entries/1402/1402360-souchi.org) | そうち | souchi | 1402360 | learner | draft | **new** | Editorial review |
+| N3-917 | [相当](entries/1401/1401240-soutou.org) | そうとう | soutou | 1401240 | learner | draft | **new** | Editorial review |
+| N3-918 | [速度](entries/1405/1405050-sokudo.org) | そくど | sokudo | 1405050 | learner | draft | **new** | Editorial review |
+| N3-919 | [底](entries/1436/1436050-soko.org) | そこ | soko | 1436050 | learner | draft | **new** | Editorial review |
+| N3-920 | [其処で](entries/1406/1406090-sokode.org) | そこで | sokode | 1406090 | learner | draft | **new** | Editorial review |
+| N3-921 | [組織](entries/1397/1397630-soshiki.org) | そしき | soshiki | 1397630 | learner | draft | **new** | Editorial review |
+| N3-922 | [注ぐ](entries/1581/1581730-sosogu.org) | そそぐ | sosogu | 1581730 | learner | draft | **new** | Editorial review |
+| N3-923 | [育つ](entries/1160/1160540-sodatsu.org) | そだつ | sodatsu | 1160540 | learner | draft | **new** | Editorial review |
+| N3-924 | [そっくり](entries/1006/1006790-sokkuri.org) | そっくり | sokkuri | 1006790 | learner | draft | **new** | Editorial review |
