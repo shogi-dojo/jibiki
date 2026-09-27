@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2326 |
+| Canonical entry files | 2336 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 957 |
-| N3 queue rows covered | 1004 / 1677 (59.9%) |
+| Canonical N3 entries | 967 |
+| N3 queue rows covered | 1014 / 1677 (60.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2289 |
+| `new` | 2299 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2316 |
+| Entry metadata still marked `draft` | 2326 |
 | Core profile | 163 |
-| Learner profile | 2162 |
+| Learner profile | 2172 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1004 rows covered (957 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1014 rows covered (967 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2197,3 +2197,13 @@ content and remain at `new` until editorial review.
 | N3-1002 | [題](entries/1415/1415470-dai.org) | だい | dai | 1415470 | learner | draft | **new** | Editorial review |
 | N3-1003 | [台](entries/1412/1412560-dai.org) | だい | dai | 1412560 | learner | draft | **new** | Editorial review |
 | N3-1004 | [代金](entries/1411/1411790-daikin.org) | だいきん | daikin | 1411790 | learner | draft | **new** | Editorial review |
+| N3-1005 | [大臣](entries/1414/1414160-daijin.org) | だいじん | daijin | 1414160 | learner | draft | **new** | Editorial review |
+| N3-1006 | [大統領](entries/1414/1414650-daitouryou.org) | だいとうりょう | daitouryou | 1414650 | learner | draft | **new** | Editorial review |
+| N3-1007 | [代表](entries/1412/1412170-daihyou.org) | だいひょう | daihyou | 1412170 | learner | draft | **new** | Editorial review |
+| N3-1008 | [大部分](entries/1414/1414850-daibubun.org) | だいぶぶん | daibubun | 1414850 | learner | draft | **new** | Editorial review |
+| N3-1009 | [ダイヤ](entries/1076/1076860-daiya.org) | ダイヤ | daiya | 1076860 | learner | draft | **new** | Editorial review |
+| N3-1010 | [代理](entries/1412/1412400-dairi.org) | だいり | dairi | 1412400 | learner | draft | **new** | Editorial review |
+| N3-1011 | [だが](entries/2055/2055530-daga.org) | だが | daga | 2055530 | learner | draft | **new** | Editorial review |
+| N3-1012 | [だけど](entries/1007/1007370-dakedo.org) | だけど | dakedo | 1007370 | learner | draft | **new** | Editorial review |
+| N3-1013 | [だって](entries/2643/2643970-datte.org) | だって | datte | 2643970 | learner | draft | **new** | Editorial review |
+| N3-1014 | [黙る](entries/1534/1534930-damaru.org) | だまる | damaru | 1534930 | learner | draft | **new** | Editorial review |
