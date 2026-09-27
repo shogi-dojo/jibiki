@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2513 |
+| Canonical entry files | 2523 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1144 |
-| N3 queue rows covered | 1196 / 1677 (71.3%) |
+| Canonical N3 entries | 1154 |
+| N3 queue rows covered | 1206 / 1677 (71.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2476 |
+| `new` | 2486 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2503 |
+| Entry metadata still marked `draft` | 2513 |
 | Core profile | 163 |
-| Learner profile | 2349 |
+| Learner profile | 2359 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1196 rows covered (1144 distinct files) out of 1677.
-Coverage reaches N3-1198 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1206 rows covered (1154 distinct files) out of 1677.
+Coverage reaches N3-1208 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1199 (流れ).
+unchanged. The next untouched queue row is N3-1209 (怠ける).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **50/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1187–1198. Each word was authored and
+Completed: **60/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1199–1208. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -107,6 +107,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 3 | N3-1167–1176 | 10 |
 | 4 | N3-1177–1186 | 10 |
 | 5 | N3-1187–1198 | 10 |
+| 6 | N3-1199–1208 | 10 |
 
 Deferred queue rows: N3-1191.
 N3-1191 直（なお）needs a dedicated historical-usage review; it is not
@@ -2447,3 +2448,13 @@ content and remain at `new` until editorial review.
 | N3-1196 | [流す](entries/1552/1552120-nagasu.org) | ながす | nagasu | 1552120 | learner | draft | **new** | Editorial review |
 | N3-1197 | [眺め](entries/1610/1610960-nagame.org) | ながめ | nagame | 1610960 | learner | draft | **new** | Editorial review |
 | N3-1198 | [眺める](entries/1428/1428830-nagameru.org) | ながめる | nagameru | 1428830 | learner | draft | **new** | Editorial review |
+| N3-1199 | [流れ](entries/1552/1552130-nagare.org) | ながれ | nagare | 1552130 | learner | draft | **new** | Editorial review |
+| N3-1200 | [流れる](entries/1552/1552140-nagareru.org) | ながれる | nagareru | 1552140 | learner | draft | **new** | Editorial review |
+| N3-1201 | [無し](entries/1529/1529560-nashi.org) | なし | nashi | 1529560 | learner | draft | **new** | Editorial review |
+| N3-1202 | [何故なら](entries/1009/1009410-nazenara.org) | なぜなら | nazenara | 1009410 | learner | draft | **new** | Editorial review |
+| N3-1203 | [謎](entries/1459/1459690-nazo.org) | なぞ | nazo | 1459690 | learner | draft | **new** | Editorial review |
+| N3-1204 | [納得](entries/1470/1470080-nattoku.org) | なっとく | nattoku | 1470080 | learner | draft | **new** | Editorial review |
+| N3-1205 | [何か](entries/1188/1188270-nanika.org) | なにか | nanika | 1188270 | learner | draft | **new** | Editorial review |
+| N3-1206 | [何も](entries/1188/1188490-nanimo.org) | なにも | nanimo | 1188490 | learner | draft | **new** | Editorial review |
+| N3-1207 | [鍋](entries/1459/1459720-nabe.org) | なべ | nabe | 1459720 | learner | draft | **new** | Editorial review |
+| N3-1208 | [生](entries/1378/1378450-nama.org) | なま | nama | 1378450 | learner | draft | **new** | Editorial review |
