@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2306 |
+| Canonical entry files | 2316 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 937 |
-| N3 queue rows covered | 984 / 1677 (58.7%) |
+| Canonical N3 entries | 947 |
+| N3 queue rows covered | 994 / 1677 (59.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2269 |
+| `new` | 2279 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2296 |
+| Entry metadata still marked `draft` | 2306 |
 | Core profile | 163 |
-| Learner profile | 2142 |
+| Learner profile | 2152 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 984 rows covered (937 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 994 rows covered (947 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2177,3 +2177,13 @@ content and remain at `new` until editorial review.
 | N3-982 | [他人](entries/1581/1581400-tanin.org) | たにん | tanin | 1581400 | learner | draft | **new** | Editorial review |
 | N3-983 | [種](entries/1328/1328820-tane.org) | たね | tane | 1328820 | learner | draft | **new** | Editorial review |
 | N3-984 | [束](entries/1404/1404450-taba.org) | たば | taba | 1404450 | learner | draft | **new** | Editorial review |
+| N3-985 | [度](entries/1445/1445150-tabi.org) | たび | tabi | 1445150 | learner | draft | **new** | Editorial review |
+| N3-986 | [旅](entries/1553/1553120-tabi.org) | たび | tabi | 1553120 | learner | draft | **new** | Editorial review |
+| N3-987 | [度々](entries/1597/1597160-tabitabi.org) | たびたび | tabitabi | 1597160 | learner | draft | **new** | Editorial review |
+| N3-988 | [玉](entries/1240/1240530-tama.org) | たま | tama | 1240530 | learner | draft | **new** | Editorial review |
+| N3-989 | [偶々](entries/1597/1597180-tamatama.org) | たまたま | tamatama | 1597180 | learner | draft | **new** | Editorial review |
+| N3-990 | [堪らない](entries/1211/1211340-tamaranai.org) | たまらない | tamaranai | 1211340 | learner | draft | **new** | Editorial review |
+| N3-991 | [試し](entries/1312/1312250-tameshi.org) | ためし | tameshi | 1312250 | learner | draft | **new** | Editorial review |
+| N3-992 | [試す](entries/1312/1312260-tamesu.org) | ためす | tamesu | 1312260 | learner | draft | **new** | Editorial review |
+| N3-993 | [便り](entries/1512/1512410-tayori.org) | たより | tayori | 1512410 | learner | draft | **new** | Editorial review |
+| N3-994 | [頼る](entries/1597/1597200-tayoru.org) | たよる | tayoru | 1597200 | learner | draft | **new** | Editorial review |
