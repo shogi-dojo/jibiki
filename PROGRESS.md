@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2533 |
+| Canonical entry files | 2543 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1164 |
-| N3 queue rows covered | 1217 / 1677 (72.6%) |
+| Canonical N3 entries | 1174 |
+| N3 queue rows covered | 1227 / 1677 (73.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2496 |
+| `new` | 2506 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2523 |
+| Entry metadata still marked `draft` | 2533 |
 | Core profile | 163 |
-| Learner profile | 2369 |
+| Learner profile | 2379 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1217 rows covered (1164 distinct files) out of 1677.
-Coverage reaches N3-1219 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1227 rows covered (1174 distinct files) out of 1677.
+Coverage reaches N3-1229 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1220 (日).
+unchanged. The next untouched queue row is N3-1230 (抜く).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **70/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1209–1219. Each word was authored and
+Completed: **80/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1220–1229. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -109,6 +109,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 5 | N3-1187–1198 | 10 |
 | 6 | N3-1199–1208 | 10 |
 | 7 | N3-1209–1219 | 10 |
+| 8 | N3-1220–1229 | 10 |
 
 Deferred queue rows: N3-1191.
 N3-1191 直（なお）needs a dedicated historical-usage review; it is not
@@ -2470,3 +2471,13 @@ content and remain at `new` until editorial review.
 | N3-1217 | [匂い](entries/1599/1599760-nioi.org) | におい | nioi | 1599760 | learner | draft | **new** | Editorial review |
 | N3-1218 | [苦手](entries/1244/1244470-nigate.org) | にがて | nigate | 1244470 | learner | draft | **new** | Editorial review |
 | N3-1219 | [握る](entries/1152/1152720-nigiru.org) | にぎる | nigiru | 1152720 | learner | draft | **new** | Editorial review |
+| N3-1220 | [日](entries/2083/2083100-nichi.org) | にち | nichi | 2083100 | learner | draft | **new** | Editorial review |
+| N3-1221 | [日常](entries/1464/1464180-nichijou.org) | にちじょう | nichijou | 1464180 | learner | draft | **new** | Editorial review |
+| N3-1222 | [日曜](entries/1464/1464880-nichiyou.org) | にちよう | nichiyou | 1464880 | learner | draft | **new** | Editorial review |
+| N3-1223 | [日光](entries/1464/1464030-nikkou.org) | にっこう | nikkou | 1464030 | learner | draft | **new** | Editorial review |
+| N3-1224 | [にっこり](entries/1632/1632320-nikkori.org) | にっこり | nikkori | 1632320 | learner | draft | **new** | Editorial review |
+| N3-1225 | [日中](entries/1464/1464250-nitchuu.org) | にっちゅう | nitchuu | 1464250 | learner | draft | **new** | Editorial review |
+| N3-1226 | [日本](entries/1582/1582710-nihon.org) | にほん | nihon | 1582710 | learner | draft | **new** | Editorial review |
+| N3-1227 | [入場](entries/1466/1466360-nyuujou.org) | にゅうじょう | nyuujou | 1466360 | learner | draft | **new** | Editorial review |
+| N3-1228 | [人気](entries/1367/1367010-ninki.org) | にんき | ninki | 1367010 | learner | draft | **new** | Editorial review |
+| N3-1229 | [人間](entries/1366/1366770-ningen.org) | にんげん | ningen | 1366770 | learner | draft | **new** | Editorial review |
