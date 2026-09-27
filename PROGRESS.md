@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2493 |
+| Canonical entry files | 2503 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1124 |
-| N3 queue rows covered | 1175 / 1677 (70.1%) |
+| Canonical N3 entries | 1134 |
+| N3 queue rows covered | 1185 / 1677 (70.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2456 |
+| `new` | 2466 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2483 |
+| Entry metadata still marked `draft` | 2493 |
 | Core profile | 163 |
-| Learner profile | 2329 |
+| Learner profile | 2339 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1175 rows covered (1124 distinct files) out of 1677.
-Coverage reaches N3-1176 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1185 rows covered (1134 distinct files) out of 1677.
+Coverage reaches N3-1186 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1177 (読書).
+unchanged. The next untouched queue row is N3-1187 (どんな).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **30/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1167–1176. Each word was authored and
+Completed: **40/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1177–1186. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -105,6 +105,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 1 | N3-1147–1156 | 10 |
 | 2 | N3-1157–1166 | 10 |
 | 3 | N3-1167–1176 | 10 |
+| 4 | N3-1177–1186 | 10 |
 
 ## Maturity workflow
 
@@ -2419,3 +2420,13 @@ content and remain at `new` until editorial review.
 | N3-1174 | [同僚](entries/1453/1453580-douryou.org) | どうりょう | douryou | 1453580 | learner | draft | **new** | Editorial review |
 | N3-1175 | [道路](entries/1454/1454290-douro.org) | どうろ | douro | 1454290 | learner | draft | **new** | Editorial review |
 | N3-1176 | [毒](entries/1455/1455500-doku.org) | どく | doku | 1455500 | learner | draft | **new** | Editorial review |
+| N3-1177 | [読書](entries/1456/1456420-dokusho.org) | どくしょ | dokusho | 1456420 | learner | draft | **new** | Editorial review |
+| N3-1178 | [独身](entries/1455/1455850-dokushin.org) | どくしん | dokushin | 1455850 | learner | draft | **new** | Editorial review |
+| N3-1179 | [独特](entries/1456/1456010-dokutoku.org) | どくとく | dokutoku | 1456010 | learner | draft | **new** | Editorial review |
+| N3-1180 | [独立](entries/1456/1456040-dokuritsu.org) | どくりつ | dokuritsu | 1456040 | learner | draft | **new** | Editorial review |
+| N3-1181 | [何処か](entries/1189/1189000-dokoka.org) | どこか | dokoka | 1189000 | learner | draft | **new** | Editorial review |
+| N3-1182 | [ドライブ](entries/1088/1088580-doraibu.org) | ドライブ | doraibu | 1088580 | learner | draft | **new** | Editorial review |
+| N3-1183 | [ドラマ](entries/1088/1088830-dorama.org) | ドラマ | dorama | 1088830 | learner | draft | **new** | Editorial review |
+| N3-1184 | [努力](entries/1445/1445130-doryoku.org) | どりょく | doryoku | 1445130 | learner | draft | **new** | Editorial review |
+| N3-1185 | [ドレス](entries/1089/1089280-doresu.org) | ドレス | doresu | 1089280 | learner | draft | **new** | Editorial review |
+| N3-1186 | [泥](entries/1436/1436900-doro.org) | どろ | doro | 1436900 | learner | draft | **new** | Editorial review |
