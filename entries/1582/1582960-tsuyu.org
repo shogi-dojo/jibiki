@@ -1,0 +1,403 @@
+#+TITLE: 梅雨
+#+JMDICT_ID: 1582960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つゆ
+#+ROMAJI: tsuyu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-27
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1582960-001
+:PROPERTIES:
+:TEXT: 梅雨
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Written form wf-1582960-002
+:PROPERTIES:
+:TEXT: 黴雨
+:END:
+*** Information
+- rK
+** Reading rd-1582960-001
+:PROPERTIES:
+:TEXT: つゆ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Reading rd-1582960-002
+:PROPERTIES:
+:TEXT: ばいう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1582960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec97596da9e34f63728e41ba4c48b2e57bb7cadabdfe432f003b5ff388127d42
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (East Asian) rainy season (in Japan, usu. from early June to mid-July)
+** Ukrainian glosses
+*** uk-s-1582960-001-001
+:PROPERTIES:
+:END:
+- text :: сезон дощів
+** Learner notes
+*** note-s-1582960-001-001
+:PROPERTIES:
+:END:
+- UK :: У Японії зазвичай триває від початку червня до середини липня; точні строки залежать від регіону. ~梅雨に入る~ — розпочинається сезон дощів, ~梅雨が明ける~ — сезон дощів закінчується. Читання ~つゆ~ є звичайним; ~ばいう~ часто вживається в метеорологічних термінах.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1582960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 梅雨が始まりました。
+- READING :: つゆがはじまりました。
+- UK :: Почався сезон дощів.
+- EN :: The rainy season has begun.
+- FOCUS :: 梅雨
+*** ex-1582960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 梅雨の間は、洗濯物がなかなか乾きません。
+- READING :: つゆのあいだは、せんたくものがなかなかかわきません。
+- UK :: Під час сезону дощів випрана білизна довго не висихає.
+- EN :: During the rainy season, laundry takes a long time to dry.
+- FOCUS :: 梅雨
+*** ex-1582960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 梅雨が明けるまで、遠足の日程を決めるのは難しいです。
+- READING :: つゆがあけるまで、えんそくのにっていをきめるのはむずかしいです。
+- UK :: Поки сезон дощів не закінчиться, важко визначити дату екскурсії.
+- EN :: It is difficult to set a date for the excursion until the rainy season ends.
+- FOCUS :: 梅雨
+
+* Sense s-1582960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 111a5611718a47c739635fb80fa58895ad77e7aa26b336a5be75636f210e1be7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rain during the rainy season
+** Ukrainian glosses
+*** uk-s-1582960-002-001
+:PROPERTIES:
+:END:
+- text :: дощі сезону дощів
+** Learner notes
+*** note-s-1582960-002-001
+:PROPERTIES:
+:END:
+- UK :: Позначає самі сезонні опади. Не плутайте з ~露~ (роса), яке також читається ~つゆ~.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1582960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c2575d5d067f4fd3c8c45a3082283536ead808dc06d6610bb6504d9021d82869
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seizoensregens
+** Ukrainian glosses
+
+* Sense s-1582960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c29ddcaec67c8fca5d05932ce4fb2264da0b5b0be43292b52db13b04eb2910f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenseizoen
+*** en-s-1582960-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regentijd
+*** en-s-1582960-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: natte tijd {ong. twintig dagen durende regentijd die omstreeks het zomerpunt in Japan optreedt}
+*** en-s-1582960-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorjaarse regens
+*** en-s-1582960-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het vroegzomerse regenseizoen
+*** en-s-1582960-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: de baiu-regenperiode
+*** en-s-1582960-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tsuyu {doet zich voor omtrent het zomersolstitium (21 juni)}
+** Ukrainian glosses
+
+* Sense s-1582960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3ce9096ae3616d5284b3937185b97abc45a15621247339efd96ff3f05207bb19
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pluie (de la saison des pluies)
+*** en-s-1582960-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: saison des pluies
+** Ukrainian glosses
+
+* Sense s-1582960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c0805c341faeabedd7dafab62adfe71a65cae3d110362767ddf75ac44eb12a94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regenzeit (Juni-Juli)
+** Ukrainian glosses
+
+* Sense s-1582960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 814cb65b074db4349ba55813186242d3631968f690e60d61147f54b212645fab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (см.) さみだれ
+*** en-s-1582960-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) период (сезон) дождей (в июне)
+*** en-s-1582960-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) июньские дожди
+*** en-s-1582960-007-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) дождливый период (в июне и в начале июля)
+*** en-s-1582960-007-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) дождь (в период дождей)
+** Ukrainian glosses
+
+* Sense s-1582960-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 092f389e9f8fb4ad9f2bc7ac3fab9d379fea9db38250001ab2296701a23e83aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deževno obdobje na Japonskem (od začetka junija do srede julija)
+*** en-s-1582960-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deževno obdobje
+*** en-s-1582960-008-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dež v času deževnega obdobja
+** Ukrainian glosses
+
+* Sense s-1582960-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2caf7b6cacf90ea076134b9e1f2f8de3826ead3b9c2d7f74c186b9d8a1bd9bc0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estación lluviosa
+*** en-s-1582960-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: temporada de lluvias
+** Ukrainian glosses
+
+* Sense s-1582960-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a2c03400b032752eabc01a5ff501a78b6be07dce1732bd6795f477b038029ad3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lluvia durante la temporada de lluvias
+** Ukrainian glosses
+
+* Sense s-1582960-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3fb71e81e7dd23fa4131e117293d10f9c9f4ac546d1294db46322cf6b8c56259
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582960-011-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regnperiod
+** Ukrainian glosses
