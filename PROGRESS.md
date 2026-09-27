@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2276 |
+| Canonical entry files | 2286 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 907 |
-| N3 queue rows covered | 954 / 1677 (56.9%) |
+| Canonical N3 entries | 917 |
+| N3 queue rows covered | 964 / 1677 (57.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2239 |
+| `new` | 2249 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2266 |
+| Entry metadata still marked `draft` | 2276 |
 | Core profile | 163 |
-| Learner profile | 2112 |
+| Learner profile | 2122 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 954 rows covered (907 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 964 rows covered (917 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2147,3 +2147,13 @@ content and remain at `new` until editorial review.
 | N3-952 | [対する](entries/1610/1610160-taisuru.org) | たいする | taisuru | 1610160 | learner | draft | **new** | Editorial review |
 | N3-953 | [大戦](entries/1414/1414360-taisen.org) | たいせん | taisen | 1414360 | learner | draft | **new** | Editorial review |
 | N3-954 | [態度](entries/1410/1410780-taido.org) | たいど | taido | 1410780 | learner | draft | **new** | Editorial review |
+| N3-955 | [大半](entries/1414/1414790-taihan.org) | たいはん | taihan | 1414790 | learner | draft | **new** | Editorial review |
+| N3-956 | [タイプライター](entries/1075/1075960-taipuraitaa.org) | タイプライター | taipuraitaa | 1075960 | learner | draft | **new** | Editorial review |
+| N3-957 | [逮捕](entries/1411/1411470-taiho.org) | たいほ | taiho | 1411470 | learner | draft | **new** | Editorial review |
+| N3-958 | [太陽](entries/1408/1408370-taiyou.org) | たいよう | taiyou | 1408370 | learner | draft | **new** | Editorial review |
+| N3-959 | [平ら](entries/1506/1506930-taira.org) | たいら | taira | 1506930 | learner | draft | **new** | Editorial review |
+| N3-960 | [大陸](entries/1415/1415150-tairiku.org) | たいりく | tairiku | 1415150 | learner | draft | **new** | Editorial review |
+| N3-961 | [倒す](entries/1445/1445770-taosu.org) | たおす | taosu | 1445770 | learner | draft | **new** | Editorial review |
+| N3-962 | [タオル](entries/1076/1076170-taoru.org) | タオル | taoru | 1076170 | learner | draft | **new** | Editorial review |
+| N3-963 | [宝](entries/1516/1516160-takara.org) | たから | takara | 1516160 | learner | draft | **new** | Editorial review |
+| N3-964 | [互い](entries/1268/1268770-tagai.org) | たがい | tagai | 1268770 | learner | draft | **new** | Editorial review |
