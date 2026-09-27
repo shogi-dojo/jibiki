@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2553 |
+| Canonical entry files | 2563 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1184 |
-| N3 queue rows covered | 1238 / 1677 (73.8%) |
+| Canonical N3 entries | 1194 |
+| N3 queue rows covered | 1248 / 1677 (74.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2516 |
+| `new` | 2526 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2543 |
+| Entry metadata still marked `draft` | 2553 |
 | Core profile | 163 |
-| Learner profile | 2389 |
+| Learner profile | 2399 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1238 rows covered (1184 distinct files) out of 1677.
-Coverage reaches N3-1240 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1248 rows covered (1194 distinct files) out of 1677.
+Coverage reaches N3-1250 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1241 (年中).
+unchanged. The next untouched queue row is N3-1251 (残す).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -88,11 +88,14 @@ Total: 50 distinct new JMdict entries, with 150 graded Japanese examples,
 readings, and Ukrainian/English translations. Every English sense has an
 original Ukrainian gloss and usage explanation.
 
-## Active 100-word continuation (2026-09-27)
+## Completed 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **90/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1230–1240. Each word was authored and
+Completed: **100/100 new entries**, in 10 batches of 10.
+Final baseline audit verified 100 unique new JMdict entries, 100 individual
+word commits under Ihor, 288 English senses with Ukrainian glosses and notes,
+and 300 graded examples. Previously committed entries are unchanged.
+Latest completed batch: N3-1241–1250. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -111,6 +114,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | 7 | N3-1209–1219 | 10 |
 | 8 | N3-1220–1229 | 10 |
 | 9 | N3-1230–1240 | 10 |
+| 10 | N3-1241–1250 | 10 |
 
 Deferred queue rows: N3-1191.
 N3-1191 直（なお）needs a dedicated historical-usage review; it is not
@@ -2493,3 +2497,13 @@ content and remain at `new` until editorial review.
 | N3-1238 | [熱帯](entries/1467/1467930-nettai.org) | ねったい | nettai | 1467930 | learner | draft | **new** | Editorial review |
 | N3-1239 | [熱中](entries/1467/1467950-netchuu.org) | ねっちゅう | netchuu | 1467950 | learner | draft | **new** | Editorial review |
 | N3-1240 | [年間](entries/1468/1468380-nenkan.org) | ねんかん | nenkan | 1468380 | learner | draft | **new** | Editorial review |
+| N3-1241 | [年中](entries/1469/1469000-nenjuu.org) | ねんじゅう | nenjuu | 1469000 | learner | draft | **new** | Editorial review |
+| N3-1242 | [年代](entries/1468/1468950-nendai.org) | ねんだい | nendai | 1468950 | learner | draft | **new** | Editorial review |
+| N3-1243 | [年齢](entries/1600/1600240-nenrei.org) | ねんれい | nenrei | 1600240 | learner | draft | **new** | Editorial review |
+| N3-1244 | [野](entries/1537/1537250-no.org) | の | no | 1537250 | learner | draft | **new** | Editorial review |
+| N3-1245 | [能](entries/1470/1470120-nou.org) | のう | nou | 1470120 | learner | draft | **new** | Editorial review |
+| N3-1246 | [農家](entries/1470/1470620-nouka.org) | のうか | nouka | 1470620 | learner | draft | **new** | Editorial review |
+| N3-1247 | [農業](entries/1470/1470660-nougyou.org) | のうぎょう | nougyou | 1470660 | learner | draft | **new** | Editorial review |
+| N3-1248 | [農民](entries/1470/1470770-noumin.org) | のうみん | noumin | 1470770 | learner | draft | **new** | Editorial review |
+| N3-1249 | [能力](entries/1470/1470370-nouryoku.org) | のうりょく | nouryoku | 1470370 | learner | draft | **new** | Editorial review |
+| N3-1250 | [軒](entries/1260/1260330-noki.org) | のき | noki | 1260330 | learner | draft | **new** | Editorial review |
