@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2345 |
+| Canonical entry files | 2355 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 976 |
-| N3 queue rows covered | 1024 / 1677 (61.1%) |
+| Canonical N3 entries | 986 |
+| N3 queue rows covered | 1034 / 1677 (61.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2308 |
+| `new` | 2318 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2335 |
+| Entry metadata still marked `draft` | 2345 |
 | Core profile | 163 |
-| Learner profile | 2181 |
+| Learner profile | 2191 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1024 rows covered (976 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1034 rows covered (986 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2217,3 +2217,13 @@ content and remain at `new` until editorial review.
 | N3-1022 | [地域](entries/1420/1420800-chiiki.org) | ちいき | chiiki | 1420800 | learner | draft | **new** | Editorial review |
 | N3-1023 | [知恵](entries/1420/1420530-chie.org) | ちえ | chie | 1420530 | learner | draft | **new** | Editorial review |
 | N3-1024 | [地下](entries/1420/1420840-chika.org) | ちか | chika | 1420840 | learner | draft | **new** | Editorial review |
+| N3-1025 | [近頃](entries/1242/1242300-chikagoro.org) | ちかごろ | chikagoro | 1242300 | learner | draft | **new** | Editorial review |
+| N3-1026 | [違い](entries/1158/1158870-chigai.org) | ちがい | chigai | 1158870 | learner | draft | **new** | Editorial review |
+| N3-1027 | [違いない](entries/1610/1610740-chigainai.org) | ちがいない | chigainai | 1610740 | learner | draft | **new** | Editorial review |
+| N3-1028 | [地球](entries/1420/1420970-chikyuu.org) | ちきゅう | chikyuu | 1420970 | learner | draft | **new** | Editorial review |
+| N3-1029 | [地区](entries/1421/1421020-chiku.org) | ちく | chiku | 1421020 | learner | draft | **new** | Editorial review |
+| N3-1030 | [遅刻](entries/1422/1422050-chikoku.org) | ちこく | chikoku | 1422050 | learner | draft | **new** | Editorial review |
+| N3-1031 | [知識](entries/1420/1420590-chishiki.org) | ちしき | chishiki | 1420590 | learner | draft | **new** | Editorial review |
+| N3-1032 | [知事](entries/1420/1420580-chiji.org) | ちじ | chiji | 1420580 | learner | draft | **new** | Editorial review |
+| N3-1033 | [父親](entries/1497/1497680-chichioya.org) | ちちおや | chichioya | 1497680 | learner | draft | **new** | Editorial review |
+| N3-1034 | [知能](entries/1420/1420680-chinou.org) | ちのう | chinou | 1420680 | learner | draft | **new** | Editorial review |
