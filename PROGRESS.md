@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2365 |
+| Canonical entry files | 2375 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 996 |
-| N3 queue rows covered | 1044 / 1677 (62.3%) |
+| Canonical N3 entries | 1006 |
+| N3 queue rows covered | 1054 / 1677 (62.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2328 |
+| `new` | 2338 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2355 |
+| Entry metadata still marked `draft` | 2365 |
 | Core profile | 163 |
-| Learner profile | 2201 |
+| Learner profile | 2211 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1044 rows covered (996 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1054 rows covered (1006 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2237,3 +2237,13 @@ content and remain at `new` until editorial review.
 | N3-1042 | [中央](entries/1423/1423430-chuuou.org) | ちゅうおう | chuuou | 1423430 | learner | draft | **new** | Editorial review |
 | N3-1043 | [中学](entries/1423/1423640-chuugaku.org) | ちゅうがく | chuugaku | 1423640 | learner | draft | **new** | Editorial review |
 | N3-1044 | [中古](entries/1424/1424150-chuuko.org) | ちゅうこ | chuuko | 1424150 | learner | draft | **new** | Editorial review |
+| N3-1045 | [中止](entries/1424/1424410-chuushi.org) | ちゅうし | chuushi | 1424410 | learner | draft | **new** | Editorial review |
+| N3-1046 | [駐車](entries/1426/1426910-chuusha.org) | ちゅうしゃ | chuusha | 1426910 | learner | draft | **new** | Editorial review |
+| N3-1047 | [昼食](entries/1602/1602330-chuushoku.org) | ちゅうしょく | chuushoku | 1602330 | learner | draft | **new** | Editorial review |
+| N3-1048 | [中心](entries/1424/1424550-chuushin.org) | ちゅうしん | chuushin | 1424550 | learner | draft | **new** | Editorial review |
+| N3-1049 | [注目](entries/1426/1426670-chuumoku.org) | ちゅうもく | chuumoku | 1426670 | learner | draft | **new** | Editorial review |
+| N3-1050 | [注文](entries/1426/1426650-chuumon.org) | ちゅうもん | chuumon | 1426650 | learner | draft | **new** | Editorial review |
+| N3-1051 | [長期](entries/1429/1429850-chouki.org) | ちょうき | chouki | 1429850 | learner | draft | **new** | Editorial review |
+| N3-1052 | [調査](entries/1429/1429120-chousa.org) | ちょうさ | chousa | 1429120 | learner | draft | **new** | Editorial review |
+| N3-1053 | [調子](entries/1429/1429170-choushi.org) | ちょうし | choushi | 1429170 | learner | draft | **new** | Editorial review |
+| N3-1054 | [頂上](entries/1430/1430220-choujou.org) | ちょうじょう | choujou | 1430220 | learner | draft | **new** | Editorial review |
