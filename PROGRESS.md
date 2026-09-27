@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2336 |
+| Canonical entry files | 2345 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 967 |
-| N3 queue rows covered | 1014 / 1677 (60.5%) |
+| Canonical N3 entries | 976 |
+| N3 queue rows covered | 1024 / 1677 (61.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2299 |
+| `new` | 2308 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2326 |
+| Entry metadata still marked `draft` | 2335 |
 | Core profile | 163 |
-| Learner profile | 2172 |
+| Learner profile | 2181 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1014 rows covered (967 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1024 rows covered (976 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2207,3 +2207,13 @@ content and remain at `new` until editorial review.
 | N3-1012 | [だけど](entries/1007/1007370-dakedo.org) | だけど | dakedo | 1007370 | learner | draft | **new** | Editorial review |
 | N3-1013 | [だって](entries/2643/2643970-datte.org) | だって | datte | 2643970 | learner | draft | **new** | Editorial review |
 | N3-1014 | [黙る](entries/1534/1534930-damaru.org) | だまる | damaru | 1534930 | learner | draft | **new** | Editorial review |
+| N3-1015 | [駄目](entries/1409/1409110-dame.org) | だめ | dame | 1409110 | learner | draft | **new** | Editorial review |
+| N3-1016 | [段](entries/1633/1633690-dan.org) | だん | dan | 1633690 | learner | draft | **new** | Editorial review |
+| N3-1017 | [男子](entries/1420/1420070-danshi.org) | だんし | danshi | 1420070 | learner | draft | **new** | Editorial review |
+| N3-1018 | [ダンス](entries/1077/1077250-dansu.org) | ダンス | dansu | 1077250 | learner | draft | **new** | Editorial review |
+| N3-1019 | [団体](entries/1419/1419270-dantai.org) | だんたい | dantai | 1419270 | learner | draft | **new** | Editorial review |
+| N3-1020 | [地](entries/1420/1420730-chi.org) | ち | chi | 1420730 | learner | draft | **new** | Editorial review |
+| N3-1021 | [地位](entries/1420/1420780-chii.org) | ちい | chii | 1420780 | learner | draft | **new** | Editorial review |
+| N3-1022 | [地域](entries/1420/1420800-chiiki.org) | ちいき | chiiki | 1420800 | learner | draft | **new** | Editorial review |
+| N3-1023 | [知恵](entries/1420/1420530-chie.org) | ちえ | chie | 1420530 | learner | draft | **new** | Editorial review |
+| N3-1024 | [地下](entries/1420/1420840-chika.org) | ちか | chika | 1420840 | learner | draft | **new** | Editorial review |
