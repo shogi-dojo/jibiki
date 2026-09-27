@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2473 |
+| Canonical entry files | 2483 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1104 |
-| N3 queue rows covered | 1155 / 1677 (68.9%) |
+| Canonical N3 entries | 1114 |
+| N3 queue rows covered | 1165 / 1677 (69.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2436 |
+| `new` | 2446 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2463 |
+| Entry metadata still marked `draft` | 2473 |
 | Core profile | 163 |
-| Learner profile | 2309 |
+| Learner profile | 2319 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1155 rows covered (1104 distinct files) out of 1677.
-Coverage reaches N3-1156 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1165 rows covered (1114 distinct files) out of 1677.
+Coverage reaches N3-1166 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1157 (共に).
+unchanged. The next untouched queue row is N3-1167 (同一).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -91,8 +91,8 @@ original Ukrainian gloss and usage explanation.
 ## Active 100-word continuation (2026-09-27)
 
 Goal baseline: commit `342862e4`, after the completed 50-word continuation.
-Completed: **10/100 new entries**, in completed batches of 10.
-Latest completed batch: N3-1147–1156. Each word was authored and
+Completed: **20/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1157–1166. Each word was authored and
 committed individually, with Ukrainian glosses and usage notes for every
 English sense and three graded examples. Existing queue aliases were recorded without counting
 them toward the 100 new entries. Every new entry passed JMdict
@@ -103,6 +103,7 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
 | 1 | N3-1147–1156 | 10 |
+| 2 | N3-1157–1166 | 10 |
 
 ## Maturity workflow
 
@@ -2397,3 +2398,13 @@ content and remain at `new` until editorial review.
 | N3-1154 | [飛ばす](entries/1485/1485230-tobasu.org) | とばす | tobasu | 1485230 | learner | draft | **new** | Editorial review |
 | N3-1155 | [飛び出す](entries/1485/1485350-tobidasu.org) | とびだす | tobidasu | 1485350 | learner | draft | **new** | Editorial review |
 | N3-1156 | [友](entries/1539/1539980-tomo.org) | とも | tomo | 1539980 | learner | draft | **new** | Editorial review |
+| N3-1157 | [共に](entries/1234/1234260-tomoni.org) | ともに | tomoni | 1234260 | learner | draft | **new** | Editorial review |
+| N3-1158 | [トラック](entries/1085/1085760-torakku.org) | トラック | torakku | 1085760 | learner | draft | **new** | Editorial review |
+| N3-1159 | [トランプ](entries/1086/1086410-toranpu.org) | トランプ | toranpu | 1086410 | learner | draft | **new** | Editorial review |
+| N3-1160 | [取り上げる](entries/1326/1326800-toriageru.org) | とりあげる | toriageru | 1326800 | learner | draft | **new** | Editorial review |
+| N3-1161 | [取れる](entries/1326/1326990-toreru.org) | とれる | toreru | 1326990 | learner | draft | **new** | Editorial review |
+| N3-1162 | [屯](entries/1457/1457320-ton.org) | トン | ton | 1457320 | learner | draft | **new** | Editorial review |
+| N3-1163 | [とんでも無い](entries/1008/1008790-tondemonai.org) | とんでもない | tondemonai | 1008790 | learner | draft | **new** | Editorial review |
+| N3-1164 | [トンネル](entries/1087/1087630-tonneru.org) | トンネル | tonneru | 1087630 | learner | draft | **new** | Editorial review |
+| N3-1165 | [度](entries/1445/1445160-do.org) | ど | do | 1445160 | learner | draft | **new** | Editorial review |
+| N3-1166 | [度](entries/2252/2252690-do.org) | ど | do | 2252690 | learner | draft | **new** | Editorial review |
