@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2463 |
+| Canonical entry files | 2473 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1094 |
-| N3 queue rows covered | 1145 / 1677 (68.3%) |
+| Canonical N3 entries | 1104 |
+| N3 queue rows covered | 1155 / 1677 (68.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2426 |
+| `new` | 2436 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2453 |
+| Entry metadata still marked `draft` | 2463 |
 | Core profile | 163 |
-| Learner profile | 2299 |
+| Learner profile | 2309 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1145 rows covered (1094 distinct files) out of 1677.
-Coverage reaches N3-1146 with N3-1084 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1155 rows covered (1104 distinct files) out of 1677.
+Coverage reaches N3-1156 with N3-1084 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1147 (閉じる).
+unchanged. The next untouched queue row is N3-1157 (共に).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -87,6 +87,22 @@ pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
 Total: 50 distinct new JMdict entries, with 150 graded Japanese examples,
 readings, and Ukrainian/English translations. Every English sense has an
 original Ukrainian gloss and usage explanation.
+
+## Active 100-word continuation (2026-09-27)
+
+Goal baseline: commit `342862e4`, after the completed 50-word continuation.
+Completed: **10/100 new entries**, in completed batches of 10.
+Latest completed batch: N3-1147–1156. Each word was authored and
+committed individually, with Ukrainian glosses and usage notes for every
+English sense and three graded examples. Existing queue aliases were recorded without counting
+them toward the 100 new entries. Every new entry passed JMdict
+validation, Org lint, and doctor 100/100 with zero errors or warnings.
+Git author remains Ihor; content author is `codex`. Editorial review remains
+pending. The pre-existing uncommitted 罪 draft is excluded and unchanged.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1147–1156 | 10 |
 
 ## Maturity workflow
 
@@ -2371,3 +2387,13 @@ content and remain at `new` until editorial review.
 | N3-1144 | [年月](entries/1582/1582870-toshitsuki.org) | としつき | toshitsuki | 1582870 | learner | draft | **new** | Editorial review |
 | N3-1145 | [図書](entries/1370/1370410-tosho.org) | としょ | tosho | 1370410 | learner | draft | **new** | Editorial review |
 | N3-1146 | [年寄り](entries/1598/1598750-toshiyori.org) | としより | toshiyori | 1598750 | learner | draft | **new** | Editorial review |
+| N3-1147 | [閉じる](entries/1508/1508550-tojiru.org) | とじる | tojiru | 1508550 | learner | draft | **new** | Editorial review |
+| N3-1148 | [途端](entries/1610/1610870-totan.org) | とたん | totan | 1610870 | learner | draft | **new** | Editorial review |
+| N3-1149 | [土地](entries/1445/1445470-tochi.org) | とち | tochi | 1445470 | learner | draft | **new** | Editorial review |
+| N3-1150 | [トップ](entries/1085/1085030-toppu.org) | トップ | toppu | 1085030 | learner | draft | **new** | Editorial review |
+| N3-1151 | [突然](entries/1457/1457040-totsuzen.org) | とつぜん | totsuzen | 1457040 | learner | draft | **new** | Editorial review |
+| N3-1152 | [届く](entries/1457/1457200-todoku.org) | とどく | todoku | 1457200 | learner | draft | **new** | Editorial review |
+| N3-1153 | [兎に角](entries/1443/1443990-tonikaku.org) | とにかく | tonikaku | 1443990 | learner | draft | **new** | Editorial review |
+| N3-1154 | [飛ばす](entries/1485/1485230-tobasu.org) | とばす | tobasu | 1485230 | learner | draft | **new** | Editorial review |
+| N3-1155 | [飛び出す](entries/1485/1485350-tobidasu.org) | とびだす | tobidasu | 1485350 | learner | draft | **new** | Editorial review |
+| N3-1156 | [友](entries/1539/1539980-tomo.org) | とも | tomo | 1539980 | learner | draft | **new** | Editorial review |
