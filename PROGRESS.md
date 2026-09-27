@@ -5,8 +5,8 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the entry tree: **2026-08-16** on the PR #6 cleanup
-branch.
+Last reconciled with the tracked entry tree: **2026-09-27**.
+Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
 
@@ -33,25 +33,34 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2394 |
+| Canonical entry files | 2413 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1025 |
-| N3 queue rows covered | 1074 / 1677 (64.0%) |
+| Canonical N3 entries | 1044 |
+| N3 queue rows covered | 1093 / 1677 (65.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2357 |
+| `new` | 2376 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2384 |
+| Entry metadata still marked `draft` | 2403 |
 | Core profile | 163 |
-| Learner profile | 2230 |
+| Learner profile | 2249 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1074 rows covered (1025 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1093 rows covered (1044 distinct files) out of 1677.
+Coverage reaches N3-1094 with N3-1084 excluded: the previous agent left
+`entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
+unchanged. The next untouched queue row is N3-1095 (停留所).
+
+N3-1085–1094 were authored sequentially by `codex`, with one Git commit
+per word using Ihor’s configured identity. Each passed JMdict validation,
+Org lint, and the entry doctor (100/100, zero errors or warnings). These
+entries remain `new` / `draft`, pending editorial review. N3-1075–1083
+were already committed by the previous agent and are now recorded below.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2267,3 +2276,22 @@ content and remain at `new` until editorial review.
 | N3-1072 | [次々](entries/1597/1597850-tsugitsugi.org) | つぎつぎ | tsugitsugi | 1597850 | learner | draft | **new** | Editorial review |
 | N3-1073 | [就く](entries/1331/1331530-tsuku.org) | つく | tsuku | 1331530 | learner | draft | **new** | Editorial review |
 | N3-1074 | [注ぐ](entries/2145/2145240-tsugu.org) | つぐ | tsugu | 2145240 | learner | draft | **new** | Editorial review |
+| N3-1075 | [土](entries/1445/1445270-tsuchi.org) | つち | tsuchi | 1445270 | learner | draft | **new** | Editorial review |
+| N3-1076 | [包み](entries/1515/1515340-tsutsumi.org) | つつみ | tsutsumi | 1515340 | learner | draft | **new** | Editorial review |
+| N3-1077 | [続き](entries/1894/1894690-tsuzuki.org) | つづき | tsuzuki | 1894690 | learner | draft | **new** | Editorial review |
+| N3-1078 | [勤め](entries/1240/1240810-tsutome.org) | つとめ | tsutome | 1240810 | learner | draft | **new** | Editorial review |
+| N3-1079 | [繋ぐ](entries/1251/1251900-tsunagu.org) | つなぐ | tsunagu | 1251900 | learner | draft | **new** | Editorial review |
+| N3-1080 | [常に](entries/1355/1355970-tsuneni.org) | つねに | tsuneni | 1355970 | learner | draft | **new** | Editorial review |
+| N3-1081 | [角](entries/1206/1206120-tsuno.org) | つの | tsuno | 1206120 | learner | draft | **new** | Editorial review |
+| N3-1082 | [翼](entries/1547/1547530-tsubasa.org) | つばさ | tsubasa | 1547530 | learner | draft | **new** | Editorial review |
+| N3-1083 | [詰まり](entries/1610/1610430-tsumari.org) | つまり | tsumari | 1610430 | learner | draft | **new** | Editorial review |
+| N3-1085 | [詰める](entries/1226/1226510-tsumeru.org) | つめる | tsumeru | 1226510 | learner | draft | **new** | Editorial review |
+| N3-1086 | [梅雨](entries/1582/1582960-tsuyu.org) | つゆ | tsuyu | 1582960 | learner | draft | **new** | Editorial review |
+| N3-1087 | [辛い](entries/1365/1365860-tsurai.org) | つらい | tsurai | 1365860 | learner | draft | **new** | Editorial review |
+| N3-1088 | [釣り](entries/1434/1434040-tsuri.org) | つり | tsuri | 1434040 | learner | draft | **new** | Editorial review |
+| N3-1089 | [連れ](entries/1559/1559260-tsure.org) | つれ | tsure | 1559260 | learner | draft | **new** | Editorial review |
+| N3-1090 | [提案](entries/1436/1436320-teian.org) | ていあん | teian | 1436320 | learner | draft | **new** | Editorial review |
+| N3-1091 | [定期](entries/1435/1435490-teiki.org) | ていき | teiki | 1435490 | learner | draft | **new** | Editorial review |
+| N3-1092 | [抵抗](entries/1436/1436260-teikou.org) | ていこう | teikou | 1436260 | learner | draft | **new** | Editorial review |
+| N3-1093 | [提出](entries/1436/1436410-teishutsu.org) | ていしゅつ | teishutsu | 1436410 | learner | draft | **new** | Editorial review |
+| N3-1094 | [程度](entries/1436/1436540-teido.org) | ていど | teido | 1436540 | learner | draft | **new** | Editorial review |
