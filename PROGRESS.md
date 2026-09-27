@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2266 |
+| Canonical entry files | 2276 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 897 |
-| N3 queue rows covered | 944 / 1677 (56.3%) |
+| Canonical N3 entries | 907 |
+| N3 queue rows covered | 954 / 1677 (56.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2229 |
+| `new` | 2239 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2256 |
+| Entry metadata still marked `draft` | 2266 |
 | Core profile | 163 |
-| Learner profile | 2102 |
+| Learner profile | 2112 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 944 rows covered (897 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 954 rows covered (907 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2137,3 +2137,13 @@ content and remain at `new` until editorial review.
 | N3-942 | [田](entries/1442/1442730-ta.org) | た | ta | 1442730 | learner | draft | **new** | Editorial review |
 | N3-943 | [他](entries/1949/1949190-ta.org) | た | ta | 1949190 | learner | draft | **new** | Editorial review |
 | N3-944 | [体育](entries/1409/1409200-taiiku.org) | たいいく | taiiku | 1409200 | learner | draft | **new** | Editorial review |
+| N3-945 | [体温](entries/1409/1409250-taion.org) | たいおん | taion | 1409250 | learner | draft | **new** | Editorial review |
+| N3-946 | [大会](entries/1413/1413180-taikai.org) | たいかい | taikai | 1413180 | learner | draft | **new** | Editorial review |
+| N3-947 | [退屈](entries/1596/1596750-taikutsu.org) | たいくつ | taikutsu | 1596750 | learner | draft | **new** | Editorial review |
+| N3-948 | [滞在](entries/1410/1410930-taizai.org) | たいざい | taizai | 1410930 | learner | draft | **new** | Editorial review |
+| N3-949 | [大使](entries/1413/1413880-taishi.org) | たいし | taishi | 1413880 | learner | draft | **new** | Editorial review |
+| N3-950 | [大した](entries/1412/1412960-taishita.org) | たいした | taishita | 1412960 | learner | draft | **new** | Editorial review |
+| N3-951 | [対象](entries/1410/1410120-taishou.org) | たいしょう | taishou | 1410120 | learner | draft | **new** | Editorial review |
+| N3-952 | [対する](entries/1610/1610160-taisuru.org) | たいする | taisuru | 1610160 | learner | draft | **new** | Editorial review |
+| N3-953 | [大戦](entries/1414/1414360-taisen.org) | たいせん | taisen | 1414360 | learner | draft | **new** | Editorial review |
+| N3-954 | [態度](entries/1410/1410780-taido.org) | たいど | taido | 1410780 | learner | draft | **new** | Editorial review |
