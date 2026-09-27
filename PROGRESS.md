@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2385 |
+| Canonical entry files | 2394 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1016 |
-| N3 queue rows covered | 1064 / 1677 (63.4%) |
+| Canonical N3 entries | 1025 |
+| N3 queue rows covered | 1074 / 1677 (64.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2348 |
+| `new` | 2357 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2375 |
+| Entry metadata still marked `draft` | 2384 |
 | Core profile | 163 |
-| Learner profile | 2221 |
+| Learner profile | 2230 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1064 rows covered (1016 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1074 rows covered (1025 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2257,3 +2257,13 @@ content and remain at `new` until editorial review.
 | N3-1062 | [遂に](entries/1372/1372630-tsuini.org) | ついに | tsuini | 1372630 | learner | draft | **new** | Editorial review |
 | N3-1063 | [通過](entries/1433/1433070-tsuuka.org) | つうか | tsuuka | 1433070 | learner | draft | **new** | Editorial review |
 | N3-1064 | [通行](entries/1433/1433180-tsuukou.org) | つうこう | tsuukou | 1433180 | learner | draft | **new** | Editorial review |
+| N3-1065 | [通信](entries/1433/1433330-tsuushin.org) | つうしん | tsuushin | 1433330 | learner | draft | **new** | Editorial review |
+| N3-1066 | [通じる](entries/1432/1432880-tsuujiru.org) | つうじる | tsuujiru | 1432880 | learner | draft | **new** | Editorial review |
+| N3-1067 | [捕まる](entries/1514/1514110-tsukamaru.org) | つかまる | tsukamaru | 1514110 | learner | draft | **new** | Editorial review |
+| N3-1068 | [掴む](entries/1433/1433650-tsukamu.org) | つかむ | tsukamu | 1433650 | learner | draft | **new** | Editorial review |
+| N3-1069 | [疲れ](entries/1483/1483730-tsukare.org) | つかれ | tsukare | 1483730 | learner | draft | **new** | Editorial review |
+| N3-1070 | [月](entries/1255/1255430-tsuki.org) | つき | tsuki | 1255430 | learner | draft | **new** | Editorial review |
+| N3-1071 | [付き合い](entries/1495/1495640-tsukiai.org) | つきあい | tsukiai | 1495640 | learner | draft | **new** | Editorial review |
+| N3-1072 | [次々](entries/1597/1597850-tsugitsugi.org) | つぎつぎ | tsugitsugi | 1597850 | learner | draft | **new** | Editorial review |
+| N3-1073 | [就く](entries/1331/1331530-tsuku.org) | つく | tsuku | 1331530 | learner | draft | **new** | Editorial review |
+| N3-1074 | [注ぐ](entries/2145/2145240-tsugu.org) | つぐ | tsugu | 2145240 | learner | draft | **new** | Editorial review |
