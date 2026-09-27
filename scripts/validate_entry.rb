@@ -39,7 +39,7 @@ STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s
 # Romaji rendering is provided by the yanagi gem, which owns the single
 # kana->Hepburn implementation shared with the meijin repo.
 def to_romaji(str)
-  Yanagi.romaji(str)
+  Yanagi.romaji(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di')
 end
 
 def romaji_matches?(reading, romaji)
@@ -335,7 +335,7 @@ def validate_entry(filepath)
   lines.each_with_index do |line, idx|
     line_num = idx + 1
     if line =~ /^(\*+)\s+(.*)$/
-      stars, heading_title = $1, $2
+      _stars, heading_title = $1, $2
       if (match = heading_title.match(STABLE_ID_PATTERN))
         node_id = match[:id]
         if ids.key?(node_id)

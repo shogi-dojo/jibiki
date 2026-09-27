@@ -1,0 +1,431 @@
+#+TITLE: 共通
+#+JMDICT_ID: 1234700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうつう
+#+ROMAJI: kyoutsuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1234700-001
+:PROPERTIES:
+:TEXT: 共通
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1234700-001
+:PROPERTIES:
+:TEXT: きょうつう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1234700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a1cc1927457d2f26621bc817d63eb1ead7c15cacb94486d1edd7a3f8c7706f43
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- adj-na
+- n
+** English glosses
+- common
+- shared
+- mutual
+** Ukrainian glosses
+*** uk-s-1234700-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спільний
+*** uk-s-1234700-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: загальний
+*** uk-s-1234700-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: однаковий
+** Learner notes
+*** note-s-1234700-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає ознаку, інтерес, мову або річ, спільну для кількох сторін (наприклад, 共通の友達 — спільний друг, 共通の話題 — спільна тема для розмови, 共通点 — спільні риси).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1234700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私たちには共通の友達がたくさんいます。
+- READING :: わたしたちにはきょうつうのともだちがたくさんいます。
+- UK :: У нас багато спільних друзів.
+- EN :: We have many mutual friends.
+- FOCUS :: 共通
+*** ex-1234700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二人の考え方には多くの共通点があります。
+- READING :: ふたりのかんがえかたにはおおくのきょうつうてんがあります。
+- UK :: У поглядах цих двох людей є багато спільного.
+- EN :: There are many points in common in the way the two people think.
+- FOCUS :: 共通
+*** ex-1234700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 英語は世界共通のコミュニケーション手段として使われています。
+- READING :: えいごはせかいきょうつうのコミュニケーションしゅだんとしてつかわれています。
+- UK :: Англійська мова використовується як загальносвітовий засіб спілкування.
+- EN :: English is used as a worldwide common means of communication.
+- FOCUS :: 共通
+
+* Sense s-1234700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3959a8edac197e4b66fab7f739dd84e437ec55565a3a99e08e9dd78f0e423452
+:END:
+** JMdict metadata
+*** Parts of speech
+- vs
+- vi
+** English glosses
+- to be common (to)
+- to be shared (by)
+** Ukrainian glosses
+*** uk-s-1234700-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути спільним
+*** uk-s-1234700-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бути притаманним (усім)
+** Learner notes
+*** note-s-1234700-002-001
+:PROPERTIES:
+:END:
+- UK :: Дієслівне значення з часткою に (〜に共通する — бути притаманним для, бути спільним для всіх).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1234700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 88c58b3768577486292c5f3a93404048aaf77da319ebcf9bcac5220c526973cb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- -wide
+** Ukrainian glosses
+*** uk-s-1234700-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: загально-
+*** uk-s-1234700-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: єдиний для всіх
+** Learner notes
+*** note-s-1234700-003-001
+:PROPERTIES:
+:END:
+- UK :: Суфікс, що вказує на дійсність чи застосовність для всієї організації, території або системи (наприклад, 全校共通 — єдиний для всієї школи).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1234700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 979d51608aac8d33d5a359653edb56652ce814a343da72cedf468283078a28a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeen
+*** en-s-1234700-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeenschappelijk
+*** en-s-1234700-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gelijkgericht
+*** en-s-1234700-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het gemeenschappelijke
+*** en-s-1234700-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het overeenkomstige
+** Ukrainian glosses
+
+* Sense s-1234700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6e2028f563ac4cfe2034300ee57296fd8aca49084f346baaff3d3d742db49ac4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: commun
+*** en-s-1234700-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: communauté
+** Ukrainian glosses
+
+* Sense s-1234700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5823dd0050f5fb40cb31fdcef4f2aba13507a6a2ec1c1f44651660f114ad0354
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemein
+*** en-s-1234700-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeinsam
+*** en-s-1234700-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeinschaftlich
+*** en-s-1234700-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allgemein
+*** en-s-1234700-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. gemein haben
+*** en-s-1234700-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in etw. eine Gemeinsamkeit haben
+*** en-s-1234700-006-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gemeinsamkeit
+*** en-s-1234700-006-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeinsame Eigenschaft
+** Ukrainian glosses
+
+* Sense s-1234700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: add9ea0b9f33e1430a1565af251cea14bb1b7e3f9ac803c0387c8c1bbfe100ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közösség
+** Ukrainian glosses
+
+* Sense s-1234700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 789a4377c54dcd9fc329df0702c89474f8dedc58d04da1c693b83d283705442c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общность
+*** en-s-1234700-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[の]} общий
+** Ukrainian glosses
+
+* Sense s-1234700-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 008746afe02c3a584eb2760deca3c670dea7be69fa80616ec43e3a44d52b533b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti skupno
+*** en-s-1234700-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skupnost
+*** en-s-1234700-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skupen
+** Ukrainian glosses
+
+* Sense s-1234700-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 6daf312f09b0aa18155c38e4568182db460a44c00294a741aa0e2acdfe3a7e54
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234700-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: común
+** Ukrainian glosses

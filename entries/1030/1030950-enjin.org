@@ -1,0 +1,85 @@
+#+TITLE: エンジン
+#+JMDICT_ID: 1030950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: エンジン
+#+ROMAJI: enjin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1030950-001
+:PROPERTIES:
+:TEXT: エンジン
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1030950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eca221d1424e6c2c80966cc7a0f405aeab45ea7d7a455f9012a5e3a7b1ca3c84
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- engine
+** Ukrainian glosses
+*** uk-s-1030950-001-001
+:PROPERTIES:
+:END:
+- text :: двигун, мотор
+*** uk-s-1030950-001-002
+:PROPERTIES:
+:END:
+- text :: рушій (у програмуванні, наприклад пошуковий рушій)
+** Learner notes
+*** note-s-1030950-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (/engine/). Позначає автомобільний, авіаційний чи будь-який інший механічний двигун, а також комп'ютерний рушій: 「検索エンジン」 /けんさくエンジン/ (пошуковий рушій). Поширені фрази: 「エンジンをかける」 (заводити двигун), 「エンジンを止める」 (глушити мотор).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1030950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 車のエンジンをかけました。
+- READING :: くるまのエンジンをかけました。
+- ROMAJI :: Kuruma no enjin o kakemashita.
+- UK :: Я завів двигун автомобіля.
+- EN :: I started the car's engine.
+- FOCUS :: エンジンをかけました
+*** ex-1030950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 寒さのせいで、なかなかエンジンがかからなかった。
+- READING :: さむさのせいで、なかなかエンジンがかからなかった。
+- ROMAJI :: Samusa no sei de, nakanaka enjin ga kakaranakatta.
+- UK :: Через холод мотор ніяк не заводився.
+- EN :: Because of the cold, the engine wouldn't start easily.
+- FOCUS :: エンジンがかからなかった
+*** ex-1030950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インターネットで情報を探すために、便利な検索エンジンを利用している。
+- READING :: インターネットでじょうほうをさがすために、べんりなけんさくエンジンをりようしている。
+- ROMAJI :: Intaanetto de jouhou o sagasu tame ni, benri na kensaku enjin o riyou shite iru.
+- UK :: Для пошуку інформації в інтернеті я користуюся зручним пошуковим рушієм.
+- EN :: I use a convenient search engine to look for information on the internet.
+- FOCUS :: 検索エンジン

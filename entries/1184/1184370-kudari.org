@@ -1,0 +1,642 @@
+#+TITLE: 下り
+#+JMDICT_ID: 1184370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くだり
+#+ROMAJI: kudari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1184370-001
+:PROPERTIES:
+:TEXT: 下り
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Written form wf-1184370-002
+:PROPERTIES:
+:TEXT: 降り
+:END:
+** Reading rd-1184370-001
+:PROPERTIES:
+:TEXT: くだり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1184370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4b20cb20b6997c2f2604e10b630700eaf766eea97e3b544039b3ea1873c54159
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- down-train
+- train heading toward the ending point of its route
+** Ukrainian glosses
+*** uk-s-1184370-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поїзд із Токіо (у провінцію)
+*** uk-s-1184370-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поїзд від центру до кінцевої станції
+** Learner notes
+*** note-s-1184370-001-001
+:PROPERTIES:
+:END:
+- UK :: Поїзд або потяг, що прямує від Токіо або від початкової вузлової станції в напрямку периферії чи кінцевої зупинки. Протилежне поняття — ~上り~ (поїзд до столиці).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1184370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 東京駅から下りの電車に乗りました。
+- READING :: とうきょうえきからくだりのでんしゃにのりました。
+- UK :: Я сів на поїзд із Токіо на станції Токіо.
+- EN :: I boarded a downbound train at Tokyo Station.
+- FOCUS :: 下り
+*** ex-1184370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夕方の下り線は帰宅する人で大変混雑します。
+- READING :: ゆうがたのくだりせんはきたくするひとでたいへんこんざつします。
+- UK :: Увечері колії в напрямку з центру надзвичайно завантажені людьми, які повертаються додому.
+- EN :: In the evening, the outbound lines are very crowded with commuters heading home.
+- FOCUS :: 下り
+*** ex-1184370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事故の影響で下り列車の運行に大幅な遅れが生じました。
+- READING :: じこのえいきょうでくだりれっしゃのうんこうにおおはばなおくれがしょうじました。
+- UK :: Через аварію виникли значні затримки в русі поїздів у напрямку з центру.
+- EN :: Due to the accident, there were major delays in the operation of downbound trains.
+- FOCUS :: 下り
+
+* Sense s-1184370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 63693246e4c832dc5cd1c89adc64c5bb80c8fb028e464dbc8bf2b5eaa0c0215f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- down-slope
+- downward going
+** Ukrainian glosses
+*** uk-s-1184370-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спуск
+*** uk-s-1184370-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пологий схил (униз)
+** Learner notes
+*** note-s-1184370-002-001
+:PROPERTIES:
+:END:
+- UK :: Спуск або схил, що веде донизу. Часто вживається у сполученні ~下り坂~ (спуск, спад).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1184370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6d1a7b2f567e9baa1e5893d727864f4dc6a65d1730b9e45a230097c24c1ff186
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- downbound (esp. away from Tokyo)
+** Ukrainian glosses
+*** uk-s-1184370-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: що прямує з центру (з Токіо)
+*** uk-s-1184370-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: напрямок із центру
+** Learner notes
+*** note-s-1184370-003-001
+:PROPERTIES:
+:END:
+- UK :: Вживається як означення (з часткою の) для поїздів, автомагістралей тощо, які ведуть зі столиці (Токіо) або центру на периферію.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1184370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c560c94507700306083b256058ab6eae41c70393d6a439549ca37886cae6f382
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-pref
+*** Antonyms
+- 上り・4
+** English glosses
+- downstream
+- downhill
+** Ukrainian glosses
+*** uk-s-1184370-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рух за течією (униз по річці)
+*** uk-s-1184370-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рух униз
+** Learner notes
+*** note-s-1184370-004-001
+:PROPERTIES:
+:END:
+- UK :: Спуск униз, плавання за течією річки. Антонім: ~上り~.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1184370-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 534670e0ecde59b9d56cd181bfd3643318adaa21b6241d0b917420a4b075ffb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: daling
+*** en-s-1184370-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neerdaling
+*** en-s-1184370-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdaling
+*** en-s-1184370-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het naar beneden gaan
+** Ukrainian glosses
+
+* Sense s-1184370-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dd3f14c510e3982c3b5ad697b92e9d2cda11b1c65846c04913b9ff8f895c6870
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helling
+*** en-s-1184370-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hellend vlak
+*** en-s-1184370-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aflopende schuinte
+*** en-s-1184370-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glooiing
+** Ukrainian glosses
+
+* Sense s-1184370-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 10e33222be4d2dd52c0845edb5514f4139711f69f3e6fb356295fd679f6b887d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het stroomafwaarts varen van een rivier of stroom
+*** en-s-1184370-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het afvaren van een rivier of stroom
+** Ukrainian glosses
+
+* Sense s-1184370-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 670b0eda8bd06727b3944ee7d02d25c138ba90e7c0b96cebcb580c5f7742fa8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komst vanuit de hoofdstad naar het binnenland
+*** en-s-1184370-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reis vanuit de hoofdstad
+** Ukrainian glosses
+
+* Sense s-1184370-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: dab9eb3f946509eb2f26e0b9dab07e236df199c5bd6b6a907d8b3e12be323046
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: acheruitgang
+*** en-s-1184370-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verval
+*** en-s-1184370-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teruggang
+*** en-s-1184370-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftakeling
+** Ukrainian glosses
+
+* Sense s-1184370-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9a238cb7e95ed3a41d3719269504bb21e1fea95985227736d9504b5e2daed6ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diarree
+*** en-s-1184370-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buikloop
+** Ukrainian glosses
+
+* Sense s-1184370-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 0aac075b25d492fb3cd174c22771d682f8ca4a7be80bf99eb66075d09f3f58a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-011-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (train) s'éloignant de Tokyo
+** Ukrainian glosses
+
+* Sense s-1184370-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 69893b01270d38a2b7e7d9891fd6935c7fdef7cca08b4f4d1a1249485794cabe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abstieg
+*** en-s-1184370-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Absteigen
+*** en-s-1184370-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Neigung
+*** en-s-1184370-012-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abhang
+*** en-s-1184370-012-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gefälle
+*** en-s-1184370-012-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abböschung
+** Ukrainian glosses
+
+* Sense s-1184370-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 82c4019cdd876fc0465ac0145795de78e01a6e8578bff8eba0e2b0b31b4d8045
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zug, der aus einer Großstadt abfährt (Abk.)
+** Ukrainian glosses
+
+* Sense s-1184370-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 6f8a6407729455707e66bf5f3420f214cfc6cb60377817d100bbe1135f2a3f72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) спуск
+*** en-s-1184370-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) отправление из (поезд, идущий из) Токио в провинцию
+*** en-s-1184370-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) отрывок, пассаж, место (из текста)
+*** en-s-1184370-014-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (см.) くだりばら
+** Ukrainian glosses
+
+* Sense s-1184370-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 860394d2b63f7433d3d5b987fcc59a1529ceaf79e3d188c528e4dd5cd7af89c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spust
+*** en-s-1184370-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naklon navzdol
+*** en-s-1184370-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {vlak, proga} iz glavnega mesta proti podeželju
+** Ukrainian glosses
+
+* Sense s-1184370-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 3f11be76d9b23587ee8837148f824385887021c872be38e81b3fb27e90cb2d61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184370-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bajada
+*** en-s-1184370-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: descenso
+*** en-s-1184370-016-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: salida de la ciudad
+*** en-s-1184370-016-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partida de la capital
+*** en-s-1184370-016-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bajada
+** Ukrainian glosses

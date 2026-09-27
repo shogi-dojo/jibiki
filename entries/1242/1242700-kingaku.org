@@ -1,0 +1,300 @@
+#+TITLE: 金額
+#+JMDICT_ID: 1242700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きんがく
+#+ROMAJI: kingaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1242700-001
+:PROPERTIES:
+:TEXT: 金額
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1242700-001
+:PROPERTIES:
+:TEXT: きんがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1242700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 14dd0aa6e114f7eaa4d0f19032bf36512d0879ef0baf0cd5439cebe4b24c887a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- amount of money
+- sum
+** Ukrainian glosses
+*** uk-s-1242700-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: грошова сума
+*** uk-s-1242700-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сума грошей
+*** uk-s-1242700-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вартість
+** Learner notes
+*** note-s-1242700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення конкретної грошової суми або вартості товару чи послуги (наприклад, 請求金額 — сума до сплати, 合計金額 — загальна сума).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1242700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: レシートで買い物の金額を確かめました。
+- READING :: レシートでかいもののきんがくをたしかめました。
+- UK :: Я перевірив суму покупок за чеком.
+- EN :: I checked the purchase amount on the receipt.
+- FOCUS :: 金額
+*** ex-1242700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 支払う金額が予想よりも高くて驚きました。
+- READING :: しはらうきんがくがよそうよりもたかくておどろきました。
+- UK :: Я здивувався, що сума до сплати виявилася більшою, ніж очікувалося.
+- EN :: I was surprised that the amount to pay was higher than expected.
+- FOCUS :: 金額
+*** ex-1242700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 契約を結ぶ前に、毎月振り込まれる給与の金額を詳しく確認しました。
+- READING :: けいやくをむすぶまえに、まいつきふりこまれるきゅうよのきんがくをくわしくかくにんしました。
+- UK :: Перед укладанням договору я детально уточнив суму зарплати, яка щомісяця переказуватиметься на рахунок.
+- EN :: Before signing the contract, I carefully confirmed the amount of salary that would be transferred each month.
+- FOCUS :: 金額
+
+* Sense s-1242700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c3ddf5a7d44c379263fe565e8b93102d123075e080b79f10241d1a68bbc991e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geldsom
+*** en-s-1242700-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: som
+*** en-s-1242700-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrag
+*** en-s-1242700-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beloop
+** Ukrainian glosses
+
+* Sense s-1242700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 15e679902048ec8ca9faa7ab9e40d6050868745a2f0afe2d6344e99efbd0cf2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: montant
+*** en-s-1242700-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: somme d'argent
+** Ukrainian glosses
+
+* Sense s-1242700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f68c7c79874b06f041d48dc5ba9c127a7fcc3e13ce784e0e1dba0d490521daeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldsumme
+*** en-s-1242700-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldbetrag
+*** en-s-1242700-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldposten
+** Ukrainian glosses
+
+* Sense s-1242700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0b614bb5bdefc405605004fdfba947820c4c9ce52e89afd58ac294cc2ff0802a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: végösszeg
+** Ukrainian glosses
+
+* Sense s-1242700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3aca073ea74be3bf70797fbac4bbee855eae7f151271e21c6d0e03b9ad0745fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сумма [денег]
+*** en-s-1242700-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にして} в денежном выражении
+** Ukrainian glosses
+
+* Sense s-1242700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0019ce0266b4d70ea34e7e8fe55751d3b4adba56ee4f49a00e4cdcbf096bb1f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vsota
+*** en-s-1242700-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: količina denarja
+** Ukrainian glosses
+
+* Sense s-1242700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 6eb73643180677b49e8ddb471855ba79e117870c6e635c4d0f8ecb9fbf7b74b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1242700-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cantidad de dinero
+** Ukrainian glosses

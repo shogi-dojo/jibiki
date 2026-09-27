@@ -1,0 +1,645 @@
+#+TITLE: 通信
+#+JMDICT_ID: 1433330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つうしん
+#+ROMAJI: tsuushin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1433330-001
+:PROPERTIES:
+:TEXT: 通信
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1433330-001
+:PROPERTIES:
+:TEXT: つうしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1433330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1ffba0c714ac03d76fd2dd898eec31edfdfeb322ce96281f20640dce4a55374a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- correspondence
+- communication
+- transmission
+- news
+- signal
+- telecommunications
+** Ukrainian glosses
+*** uk-s-1433330-001-001
+:PROPERTIES:
+:END:
+- text :: зв'язок
+*** uk-s-1433330-001-002
+:PROPERTIES:
+:END:
+- text :: комунікація
+*** uk-s-1433330-001-003
+:PROPERTIES:
+:END:
+- text :: кореспонденція
+*** uk-s-1433330-001-004
+:PROPERTIES:
+:END:
+- text :: передача даних
+** Learner notes
+*** note-s-1433330-001-001
+:PROPERTIES:
+:END:
+- UK :: Телекомунікація, передача даних або листування на відстані (~通信する~ — передавати сигнал / дані, ~通信教育~ — дистанційне навчання, ~通信速度~ — швидкість з'єднання).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1433330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山の中ではスマートフォンの通信が途切れることがあります。
+- READING :: やまのなかではすまーとふぉんのつうしんがとぎれることがあります。
+- UK :: У горах зв'язок на смартфоні іноді переривається.
+- EN :: In the mountains, smartphone communication is sometimes cut off.
+- FOCUS :: 通信が
+*** ex-1433330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 災害が発生した時に備えて非常用の通信手段を確保しておかなければならない。
+- READING :: さいがいがはっせいしたときにそなえてひじょうようのつうしんしゅだんをかくほしておかなければならない。
+- UK :: Слід подбати про засоби екстреного зв'язку на випадок стихійного лиха.
+- EN :: We must secure emergency means of communication in case of a disaster.
+- FOCUS :: 通信手段
+*** ex-1433330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい高速通信技術の普及によって遠隔地でも大容量のデータを瞬時に共有できるようになりました。
+- READING :: あたらしいこうそくつうしんぎじゅつのふきゅうによってえんかくちでもだいようりょうのでーたをしゅんじにきょうゆうできるようになりました。
+- UK :: Завдяки поширенню нових технологій швидкісного зв'язку великі обсяги даних стало можливо миттєво передавати навіть у віддалені місця.
+- EN :: Due to the spread of new high-speed communication technologies, it became possible to instantly share large volumes of data even in remote areas.
+- FOCUS :: 高速通信技術
+
+* Sense s-1433330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 021b8ee8614701f227544a2ceb3bb43eeeeef8e7497064c91f433e795ab11258
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: communicatie
+** Ukrainian glosses
+
+* Sense s-1433330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a829203c28436fd1ab89371394707f5040a45054585248ca765816fe0ba1a5c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bericht
+*** en-s-1433330-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mededeling
+*** en-s-1433330-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: depêche
+*** en-s-1433330-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correspondentie
+*** en-s-1433330-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nieuws
+*** en-s-1433330-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijding
+*** en-s-1433330-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: informatie
+*** en-s-1433330-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} briefwisseling
+** Ukrainian glosses
+
+* Sense s-1433330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 50e262335027f2bd6dff1ae43b6d2ac9e0cee2e014d0b338341e1584618a0203
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: communiceren
+** Ukrainian glosses
+
+* Sense s-1433330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 677eb3395a26fb705ca2901f5e0f26ac19d0f44dd367d5b0397e4c0fda3f29c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corresponderen
+*** en-s-1433330-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: berichten
+** Ukrainian glosses
+
+* Sense s-1433330-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 426d68b110ec7407d49cefc881d1c2cbd9bb6819e9a881f329c1e5c16660523d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: communication
+*** en-s-1433330-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correspondance
+** Ukrainian glosses
+
+* Sense s-1433330-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 65faffda2d0b3449c76d0be24e8c183b57ed30c0eab64c12dfcc7ab40c9be194
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kommunikation
+*** en-s-1433330-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Korrespondenz
+*** en-s-1433330-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachricht
+*** en-s-1433330-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Information
+*** en-s-1433330-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bericht
+*** en-s-1433330-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mitteilung
+*** en-s-1433330-007-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbindung
+** Ukrainian glosses
+
+* Sense s-1433330-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0ecbabda6e8ad518d9ebbd479b2528332f387a8ee721ae41cee70047dc5a34ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachrichtenübertragung
+*** en-s-1433330-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Datenübertragung
+** Ukrainian glosses
+
+* Sense s-1433330-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 34db669de6ae8e99dca5a08d5d9d04d89041078a2790ab3c5ade0cddc24cef9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachrichtenagentur
+*** en-s-1433330-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachrichtendienst (Abk.)
+*** en-s-1433330-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kommunizieren
+*** en-s-1433330-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachricht geben
+** Ukrainian glosses
+
+* Sense s-1433330-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 29a2b5122a808e45dc8dbf70a116f4659297089010810c0c2c540cd7823bd701
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: figyelemre méltó
+*** en-s-1433330-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jel
+*** en-s-1433330-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelentős
+*** en-s-1433330-010-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiemelkedő
+** Ukrainian glosses
+
+* Sense s-1433330-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: e014e6a95047002702a9196132737abc40b692677d234c53fcf45fdfd5518871
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) сообщение, информация
+*** en-s-1433330-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} сообщать; сотрудничать (о корреспондентах газет и т. п.)
+*** en-s-1433330-011-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) переписка
+*** en-s-1433330-011-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} переписываться
+*** en-s-1433330-011-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) связь (телефонная, по радио и т. п.)
+*** en-s-1433330-011-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} поддерживать связь
+*** en-s-1433330-011-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (см.) つうしんしゃ
+** Ukrainian glosses
+
+* Sense s-1433330-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: fd619d71558e2405e5d2422676be21fea8b2d922db5e1f4946db7c285bcdaf8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-012-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sporočati
+*** en-s-1433330-012-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sporočiti
+*** en-s-1433330-012-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komunicirati
+*** en-s-1433330-012-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sporočanje
+*** en-s-1433330-012-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dopisovanje
+*** en-s-1433330-012-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: novica
+*** en-s-1433330-012-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komuniciranje
+*** en-s-1433330-012-008
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komunikacija
+*** en-s-1433330-012-009
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korespondenca
+** Ukrainian glosses
+
+* Sense s-1433330-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 718d747dd936b9a66c5f05aea3d8e1cff207f2f2df93f490685539b066093639
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433330-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comunicación
+*** en-s-1433330-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correspondencia
+*** en-s-1433330-013-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comunicar
+*** en-s-1433330-013-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transmitir
+*** en-s-1433330-013-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: informar
+** Ukrainian glosses

@@ -1,0 +1,481 @@
+#+TITLE: 組合
+#+JMDICT_ID: 1397620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くみあい
+#+ROMAJI: kumiai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1397620-001
+:PROPERTIES:
+:TEXT: 組合
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Written form wf-1397620-002
+:PROPERTIES:
+:TEXT: 組み合い
+:END:
+** Reading rd-1397620-001
+:PROPERTIES:
+:TEXT: くみあい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1397620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cacc0315aefc7fc4520aef9b726c21572ec65e26bdb11ecfe7a41f8f26ef11cb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- association
+- union
+- guild
+** Ukrainian glosses
+*** uk-s-1397620-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спілка
+*** uk-s-1397620-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: профспілка
+*** uk-s-1397620-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: об'єднання
+*** uk-s-1397620-001-004
+:PROPERTIES:
+:TRANSLATOR_ID: antigravity
+:TRANSLATED_AT: 2026-09-15
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кооператив
+** Learner notes
+*** note-s-1397620-001-001
+:PROPERTIES:
+:END:
+- UK :: Спілка, об'єднання людей за спільними інтересами, фахом чи діяльністю (профспілка, кооператив тощо). Наприклад, ~労働組合~ — трудова профспілка.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1397620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 労働組合に入りました。
+- READING :: ろうどうくみあいにはいりました。
+- UK :: Я вступив до профспілки.
+- EN :: I joined the labor union.
+- FOCUS :: 組合
+*** ex-1397620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 組合の集会で給料についての話し合いが行われました。
+- READING :: くみあいのしゅうかいできゅうりょうについてのはなしあいがおこなわれました。
+- UK :: На зборах профспілки відбулося обговорення заробітної плати.
+- EN :: At the union meeting, discussions were held regarding salaries.
+- FOCUS :: 組合
+*** ex-1397620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 農業協同組合は農家が生産した野菜の出荷を支援しています。
+- READING :: のうぎょうきょうどうくみあいはのうかがせいさんしたやさいのしゅっかをしえんしています。
+- UK :: Сільськогосподарський кооператив підтримує збут овочів, вирощених фермерами.
+- EN :: The agricultural cooperative supports the shipment of vegetables produced by farmers.
+- FOCUS :: 組合
+
+* Sense s-1397620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 22495699f2fd08b82fb6b8788458f79584edce5871f38282babc229c5488ae3c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: genootschap
+*** en-s-1397620-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereniging
+*** en-s-1397620-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bond
+** Ukrainian glosses
+
+* Sense s-1397620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 97cf7582b520402dc858de1e41c1f08d834000e015b5a23c53fd9808588e6d53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vakgenootschap
+*** en-s-1397620-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gilde
+** Ukrainian glosses
+
+* Sense s-1397620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2bbb5ac0b004a6da07a0d617e8180c7679085a9e3691026f351c26567c6be92e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arbeidersbond
+*** en-s-1397620-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vakliedenvereniging
+*** en-s-1397620-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: syndicaat
+*** en-s-1397620-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vakbond
+** Ukrainian glosses
+
+* Sense s-1397620-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5ff7c9d70e689ee748acea6fce26fec9be46ce54dc7cdde805d8aaa9516f454c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vennootschap
+*** en-s-1397620-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deelgenootschap
+*** en-s-1397620-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: handelsvennootschap
+** Ukrainian glosses
+
+* Sense s-1397620-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a4ef43c0579df35cfdc30682fdbb93cf92ab482b767c5f75c91973da29b33dcf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kartel
+** Ukrainian glosses
+
+* Sense s-1397620-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d9f3a3461c0966a3cba57ca8069f92ba557241f5fa1f3d28ed54d4cc19b5b7a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: association
+*** en-s-1397620-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: syndicat
+** Ukrainian glosses
+
+* Sense s-1397620-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4e30b08a3cc67c699ae9a120fe8080c6ad71f787dee9c92f2638474c0236bb5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewerkschaft
+*** en-s-1397620-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Genossenschaft
+*** en-s-1397620-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lehrerverband
+*** en-s-1397620-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zunft
+** Ukrainian glosses
+
+* Sense s-1397620-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: af09052f65c7d740b5289f8fe3a85dd87062a4c5389b1005ebda5ec1b27e033f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyesülés
+*** en-s-1397620-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyesület
+*** en-s-1397620-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szövetség
+*** en-s-1397620-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: társulás
+*** en-s-1397620-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: társulat
+** Ukrainian glosses
+
+* Sense s-1397620-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 1cace36a4be193346a75935ee67166eb63547a70d465fda092267a7c55a13dbf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) くみうち
+*** en-s-1397620-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: союз; профсоюз; ассоциация; корпорация; артель; объединение; кооператив
+** Ukrainian glosses
+
+* Sense s-1397620-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 29944813f7cf2fc6f66133912bfa7d96a77d8707b98dc45e61b5acfef17f3799
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sindikat
+*** en-s-1397620-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: združenje
+*** en-s-1397620-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zadruga
+** Ukrainian glosses
+
+* Sense s-1397620-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 29e067e220317be21b71dc5daffa3315cf24f9aa72024e0654ec8bcd86b29b96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1397620-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unión
+*** en-s-1397620-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asociación
+** Ukrainian glosses

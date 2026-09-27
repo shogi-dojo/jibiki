@@ -1,0 +1,105 @@
+#+TITLE: 汚染
+#+JMDICT_ID: 1179040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おせん
+#+ROMAJI: osen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-14
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1179040-001
+:PROPERTIES:
+:TEXT: 汚染
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1179040-001
+:PROPERTIES:
+:TEXT: おせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1179040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 291f752ffe8f2645a5d37942db7c34068371c7cdbd9a437753f8f3ee5990ab83
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- pollution
+- contamination
+** Ukrainian glosses
+*** uk-s-1179040-001-001
+:PROPERTIES:
+:END:
+- text :: забруднення
+*** uk-s-1179040-001-002
+:PROPERTIES:
+:END:
+- text :: зараження
+*** uk-s-1179040-001-003
+:PROPERTIES:
+:END:
+- text :: занечищення
+*** uk-s-1179040-001-004
+:PROPERTIES:
+:END:
+- text :: забруднювати
+** Learner notes
+*** note-s-1179040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та дієслово з =する= (=汚染する= — забруднювати, заражати). Вживається про екологічне, хімічне чи радіаційне забруднення природи й речовин. Поширені сполуки: =大気汚染= (=たいきおせん= — забруднення повітря), =水質汚染= (=すいしつおせん= — забруднення води), =環境汚染= (=かんきょうおせん= — забруднення довкілля).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1179040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川の水が汚染されています。
+- READING :: かわのみずがおせんされています。
+- UK :: Вода в річці забруднена.
+- EN :: The river water is contaminated.
+- FOCUS :: 汚染
+*** ex-1179040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プラスチックのごみによって海が汚染されている。
+- READING :: プラスチックのごみによってうみがおせんされている。
+- UK :: Через пластикове сміття море дедалі більше забруднюється.
+- EN :: The sea is being polluted by plastic waste.
+- FOCUS :: 汚染
+*** ex-1179040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近隣の工場から有害な物質が川に流れ出し、深刻な環境汚染を引き起こした。
+- READING :: きんりんのこうじょうからゆうがいなぶっしつがかわにながれだし、しんこくなかんきょうおせんをひきおこした。
+- UK :: Із сусіднього заводу в річку витекли шкідливі речовини, спричинивши тяжке забруднення довкілля.
+- EN :: Harmful substances leaked from a nearby factory into the river, causing serious environmental pollution.
+- FOCUS :: 汚染

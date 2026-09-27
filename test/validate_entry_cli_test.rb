@@ -330,6 +330,7 @@ class ValidateEntryCliTest < Minitest::Test
     assert romaji_matches?('では', 'dewa')
     assert romaji_matches?('それでは', 'soredewa')
     assert romaji_matches?('あるいは', 'aruiwa')
+    assert romaji_matches?('ジェットき', 'jettoki')
   end
 
   def test_rejects_unrecognised_jmdict_sha256
