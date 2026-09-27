@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2246 |
+| Canonical entry files | 2256 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 877 |
-| N3 queue rows covered | 924 / 1677 (55.1%) |
+| Canonical N3 entries | 887 |
+| N3 queue rows covered | 934 / 1677 (55.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2209 |
+| `new` | 2219 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2236 |
+| Entry metadata still marked `draft` | 2246 |
 | Core profile | 163 |
-| Learner profile | 2082 |
+| Learner profile | 2092 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 924 rows covered (877 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 934 rows covered (887 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2117,3 +2117,13 @@ content and remain at `new` until editorial review.
 | N3-922 | [注ぐ](entries/1581/1581730-sosogu.org) | そそぐ | sosogu | 1581730 | learner | draft | **new** | Editorial review |
 | N3-923 | [育つ](entries/1160/1160540-sodatsu.org) | そだつ | sodatsu | 1160540 | learner | draft | **new** | Editorial review |
 | N3-924 | [そっくり](entries/1006/1006790-sokkuri.org) | そっくり | sokkuri | 1006790 | learner | draft | **new** | Editorial review |
+| N3-925 | [率土](entries/1551/1551230-sotto.org) | そっと | sotto | 1551230 | learner | draft | **new** | Editorial review |
+| N3-926 | [袖](entries/1406/1406000-sode.org) | そで | sode | 1406000 | learner | draft | **new** | Editorial review |
+| N3-927 | [備える](entries/1244/1244960-sonaeru.org) | そなえる | sonaeru | 1244960 | learner | draft | **new** | Editorial review |
+| N3-928 | [その内](entries/1006/1006930-sonouchi.org) | そのうち | sonouchi | 1006930 | learner | draft | **new** | Editorial review |
+| N3-929 | [其のまま](entries/1406/1406030-sonomama.org) | そのまま | sonomama | 1406030 | learner | draft | **new** | Editorial review |
+| N3-930 | [ソファ](entries/1075/1075480-sofa.org) | ソファ | sofa | 1075480 | learner | draft | **new** | Editorial review |
+| N3-931 | [粗末](entries/1397/1397100-somatsu.org) | そまつ | somatsu | 1397100 | learner | draft | **new** | Editorial review |
+| N3-932 | [其れ其れ](entries/1596/1596690-sorezore.org) | それぞれ | sorezore | 1596690 | learner | draft | **new** | Editorial review |
+| N3-933 | [其れでも](entries/1406/1406060-soredemo.org) | それでも | soredemo | 1406060 | learner | draft | **new** | Editorial review |
+| N3-934 | [其れとも](entries/1007/1007010-soretomo.org) | それとも | soretomo | 1007010 | learner | draft | **new** | Editorial review |
