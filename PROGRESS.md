@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2219 |
+| Canonical entry files | 2228 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 850 |
-| N3 queue rows covered | 894 / 1677 (53.3%) |
+| Canonical N3 entries | 859 |
+| N3 queue rows covered | 904 / 1677 (53.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2182 |
+| `new` | 2191 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2209 |
+| Entry metadata still marked `draft` | 2218 |
 | Core profile | 163 |
-| Learner profile | 2055 |
+| Learner profile | 2064 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 894 rows covered (850 distinct files) out of 1677.
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 904 rows covered (859 distinct files) out of 1677.
 Canonical N4 queue rows produce 712 canonical N4 entry files due to aliases and shared JMdict entries.
 The seed entry `日本語` is outside the N5/N4/N3 queues.
 
@@ -2087,3 +2087,13 @@ content and remain at `new` until editorial review.
 | N3-892 | [責める](entries/1383/1383160-semeru.org) | せめる | semeru | 1383160 | learner | draft | **new** | Editorial review |
 | N3-893 | [世話](entries/1374/1374300-sewa.org) | せわ | sewa | 1374300 | learner | draft | **new** | Editorial review |
 | N3-894 | [専攻](entries/1389/1389780-senkou.org) | せんこう | senkou | 1389780 | learner | draft | **new** | Editorial review |
+| N3-895 | [選手](entries/1392/1392250-senshu.org) | せんしゅ | senshu | 1392250 | learner | draft | **new** | Editorial review |
+| N3-896 | [先日](entries/1388/1388300-senjitsu.org) | せんじつ | senjitsu | 1388300 | learner | draft | **new** | Editorial review |
+| N3-897 | [選択](entries/1392/1392290-sentaku.org) | せんたく | sentaku | 1392290 | learner | draft | **new** | Editorial review |
+| N3-898 | [センター](entries/1075/1075040-sentaa.org) | センター | sentaa | 1075040 | learner | draft | **new** | Editorial review |
+| N3-899 | [税](entries/2081/2081570-zei.org) | ぜい | zei | 2081570 | learner | draft | **new** | Editorial review |
+| N3-900 | [税金](entries/1382/1382100-zeikin.org) | ぜいきん | zeikin | 1382100 | learner | draft | **new** | Editorial review |
+| N3-901 | [贅沢](entries/1573/1573150-zeitaku.org) | ぜいたく | zeitaku | 1573150 | learner | draft | **new** | Editorial review |
+| N3-902 | [絶対](entries/1386/1386840-zettai.org) | ぜったい | zettai | 1386840 | learner | draft | **new** | Editorial review |
+| N3-903 | [是非](entries/1374/1374530-zehi.org) | ぜひ | zehi | 1374530 | learner | draft | **new** | Editorial review |
+| N3-904 | [善](entries/1394/1394250-zen.org) | ぜん | zen | 1394250 | learner | draft | **new** | Editorial review |
