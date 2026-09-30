@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3053 |
+| Canonical entry files | 3063 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 81 |
+| Canonical N2 entries | 91 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 83 / 1635 (5.1%) |
+| N2 queue rows covered | 93 / 1635 (5.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3016 |
+| `new` | 3026 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3043 |
+| Entry metadata still marked `draft` | 3053 |
 | Core profile | 163 |
-| Learner profile | 2889 |
+| Learner profile | 2899 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -306,16 +306,21 @@ as new entries. Editorial review remains pending.
 | 39 | N3-1649–1658 | 10 |
 | 40 | N3-1659–1668 | 10 |
 
-## Current-branch 500-word continuation (2026-09-30)
+## Completed current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **490/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **500/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
 Org lint, and doctor 100/100 with zero errors or warnings. The remaining
 standard N3 entries are followed by N2 candidates, as requested.
+The completion audits verified 500 distinct new JMdict IDs (409 N3 and 91 N2),
+1,201 English semantic senses with Ukrainian glosses and usage notes,
+1,500 graded examples, and 500 individual word commits in 50 batches.
+Original JMdict sense fingerprints and Git authorship were verified throughout.
 Editorial review remains pending.
 N2-69 is deferred for a dedicated standalone-usage review.
+The next untouched N2 queue row is N2-95 (うっかり).
 N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 | Batch | Queue rows | New entries |
@@ -369,6 +374,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 47 | N2-52, N2-53, N2-54, N2-55, N2-56, N2-57, N2-58, N2-59, N2-60, N2-61 | 10 |
 | 48 | N2-62, N2-63, N2-64, N2-65, N2-66, N2-67, N2-68, N2-70, N2-71, N2-72, N2-73, N2-74 | 10 |
 | 49 | N2-75, N2-76, N2-77, N2-78, N2-79, N2-80, N2-81, N2-82, N2-83, N2-84 | 10 |
+| 50 | N2-85, N2-86, N2-87, N2-88, N2-89, N2-90, N2-91, N2-92, N2-93, N2-94 | 10 |
 
 ## Maturity workflow
 
@@ -3266,3 +3272,13 @@ content and remain at `new` until editorial review.
 | N2-82 | [ウェイトレス](entries/1025/1025690-weitoresu.org) | ウェイトレス | weitoresu | 1025690 | learner | draft | **new** | Editorial review |
 | N2-83 | [植木](entries/1587/1587970-ueki.org) | うえき | ueki | 1587970 | learner | draft | **new** | Editorial review |
 | N2-84 | [飢える](entries/1224/1224080-ueru.org) | うえる | ueru | 1224080 | learner | draft | **new** | Editorial review |
+| N2-85 | [浮かぶ](entries/1497/1497430-ukabu.org) | うかぶ | ukabu | 1497430 | learner | draft | **new** | Editorial review |
+| N2-86 | [浮かべる](entries/1497/1497360-ukaberu.org) | うかべる | ukaberu | 1497360 | learner | draft | **new** | Editorial review |
+| N2-87 | [浮く](entries/1497/1497420-uku.org) | うく | uku | 1497420 | learner | draft | **new** | Editorial review |
+| N2-88 | [承る](entries/1349/1349440-uketamawaru.org) | うけたまわる | uketamawaru | 1349440 | learner | draft | **new** | Editorial review |
+| N2-89 | [受け取り](entries/1329/1329770-uketori.org) | うけとり | uketori | 1329770 | learner | draft | **new** | Editorial review |
+| N2-90 | [受け持つ](entries/1329/1329640-ukemotsu.org) | うけもつ | ukemotsu | 1329640 | learner | draft | **new** | Editorial review |
+| N2-91 | [薄暗い](entries/1475/1475530-usugurai.org) | うすぐらい | usugurai | 1475530 | learner | draft | **new** | Editorial review |
+| N2-92 | [薄める](entries/1475/1475500-usumeru.org) | うすめる | usumeru | 1475500 | learner | draft | **new** | Editorial review |
+| N2-93 | [打ち合わせ](entries/1588/1588140-uchiawase.org) | うちあわせ | uchiawase | 1588140 | learner | draft | **new** | Editorial review |
+| N2-94 | [打ち消す](entries/1609/1609310-uchikesu.org) | うちけす | uchikesu | 1609310 | learner | draft | **new** | Editorial review |
