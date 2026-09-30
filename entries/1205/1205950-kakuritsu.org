@@ -1,0 +1,259 @@
+#+TITLE: 確率
+#+JMDICT_ID: 1205950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かくりつ
+#+ROMAJI: kakuritsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1205950-001
+:PROPERTIES:
+:TEXT: 確率
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Reading rd-1205950-001
+:PROPERTIES:
+:TEXT: かくりつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1205950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 26099635dd6c0cb57d3540b23ab4e8762f6ccd0ce8a2a656d33e3c2704ef743e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- probability
+- likelihood
+- chances
+** Ukrainian glosses
+*** uk-s-1205950-001-001
+:PROPERTIES:
+:END:
+- text :: імовірність; шанси
+** Learner notes
+*** note-s-1205950-001-001
+:PROPERTIES:
+:END:
+- UK :: Міра того, наскільки можлива подія. 確率が高い — імовірність висока; 確率が低い — низька.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1205950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 成功する確率は高いです。
+- READING :: せいこうするかくりつはたかいです。
+- UK :: Імовірність успіху висока.
+- EN :: The probability of success is high.
+- FOCUS :: 確率
+*** ex-1205950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: くじが当たる確率を計算しました。
+- READING :: くじがあたるかくりつをけいさんしました。
+- UK :: Я обчислив імовірність виграшу в жеребкуванні.
+- EN :: I calculated the probability of winning the draw.
+- FOCUS :: 確率
+*** ex-1205950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 確率が低くても、結果が出るまでは何が起こるか分かりません。
+- READING :: かくりつがひくくても、けっかがでるまではなにがおこるかわかりません。
+- UK :: Навіть якщо ймовірність низька, до отримання результату не можна знати, що станеться.
+- EN :: Even if the probability is low, we cannot know what will happen until the result is in.
+- FOCUS :: 確率
+
+* Sense s-1205950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 666a62e3b2a3e5b4455673d792189e31ae3c9b3b3d15302d0cc8ba6f8c7f7c21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarschijnlijkheid
+*** en-s-1205950-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: probabiliteit
+*** en-s-1205950-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kans
+** Ukrainian glosses
+
+* Sense s-1205950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4597b315f1e0b5d19e8d7c265af43dc0216c23548a19fdc7c553e57ed765c029
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: probabilité
+** Ukrainian glosses
+
+* Sense s-1205950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 847cf673743fcf2feb1e9b41fcfbf143ed4a04f2661ea807ee404844d427236b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahrscheinlichkeit
+** Ukrainian glosses
+
+* Sense s-1205950-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7daad933f93efb331c54cf3e8543e4dd660a6a486ee0888f55dead0ba89cdf90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valószínűség
+** Ukrainian glosses
+
+* Sense s-1205950-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 058ee3970425f648e113f5a67076cf49c527c9a1c0730dc4b936b600e395b20d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вероятность
+** Ukrainian glosses
+
+* Sense s-1205950-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 43f6d23fd3bb8ffdea4e4b818a48aa6f8bcb985e2933e3bf2056d714ced38a6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verjetnost
+** Ukrainian glosses
+
+* Sense s-1205950-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4b28420808bed242ddf4eaca74b6062c23c1013477966a21ed4f0d6478cb1424
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: probabilidad
+** Ukrainian glosses
+
+* Sense s-1205950-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ed835c9ed10d7ac96b7e3305936daabbc0be41507e9954a469cd03ed1a518bf1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205950-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: probabilitet
+*** en-s-1205950-009-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sannolikhet
+** Ukrainian glosses
