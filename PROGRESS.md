@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2843 |
+| Canonical entry files | 2853 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1474 |
-| N3 queue rows covered | 1538 / 1677 (91.7%) |
+| Canonical N3 entries | 1484 |
+| N3 queue rows covered | 1548 / 1677 (92.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2806 |
+| `new` | 2816 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2833 |
+| Entry metadata still marked `draft` | 2843 |
 | Core profile | 163 |
-| Learner profile | 2679 |
+| Learner profile | 2689 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1538 rows covered (1474 distinct files) out of 1677.
-Coverage reaches N3-1540 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1548 rows covered (1484 distinct files) out of 1677.
+Coverage reaches N3-1550 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1541 (メモ).
+unchanged. The next untouched queue row is N3-1551 (目的).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **280/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **290/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -239,6 +239,7 @@ as new entries. Editorial review remains pending.
 | 26 | N3-1510–1520 | 10 |
 | 27 | N3-1521–1530 | 10 |
 | 28 | N3-1531–1540 | 10 |
+| 29 | N3-1541–1550 | 10 |
 
 ## Maturity workflow
 
@@ -2916,3 +2917,13 @@ content and remain at `new` until editorial review.
 | N3-1538 | [迷惑](entries/1532/1532800-meiwaku.org) | めいわく | meiwaku | 1532800 | learner | draft | **new** | Editorial review |
 | N3-1539 | [飯](entries/1482/1482010-meshi.org) | めし | meshi | 1482010 | learner | draft | **new** | Editorial review |
 | N3-1540 | [滅多に](entries/1612/1612000-mettani.org) | めったに | mettani | 1612000 | learner | draft | **new** | Editorial review |
+| N3-1541 | [メモ](entries/1133/1133830-memo.org) | メモ | memo | 1133830 | learner | draft | **new** | Editorial review |
+| N3-1542 | [面](entries/1584/1584695-men.org) | めん | men | 1584695 | learner | draft | **new** | Editorial review |
+| N3-1543 | [綿](entries/1533/1533330-men.org) | めん | men | 1533330 | learner | draft | **new** | Editorial review |
+| N3-1544 | [免許](entries/1533/1533130-menkyo.org) | めんきょ | menkyo | 1533130 | learner | draft | **new** | Editorial review |
+| N3-1545 | [面倒](entries/1533/1533550-mendou.org) | めんどう | mendou | 1533550 | learner | draft | **new** | Editorial review |
+| N3-1546 | [メンバー](entries/1134/1134370-menbaa.org) | メンバー | menbaa | 1134370 | learner | draft | **new** | Editorial review |
+| N3-1547 | [申し込む](entries/1362/1362890-moushikomu.org) | もうしこむ | moushikomu | 1362890 | learner | draft | **new** | Editorial review |
+| N3-1548 | [申し訳](entries/1363/1363050-moushiwake.org) | もうしわけ | moushiwake | 1363050 | learner | draft | **new** | Editorial review |
+| N3-1549 | [毛布](entries/1533/1533950-moufu.org) | もうふ | moufu | 1533950 | learner | draft | **new** | Editorial review |
+| N3-1550 | [燃える](entries/1469/1469570-moeru.org) | もえる | moeru | 1469570 | learner | draft | **new** | Editorial review |
