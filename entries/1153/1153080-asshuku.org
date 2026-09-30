@@ -1,0 +1,617 @@
+#+TITLE: 圧縮
+#+JMDICT_ID: 1153080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あっしゅく
+#+ROMAJI: asshuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1153080-001
+:PROPERTIES:
+:TEXT: 圧縮
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Reading rd-1153080-001
+:PROPERTIES:
+:TEXT: あっしゅく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1153080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3c5ba6fa7b32091c795d35452f1810a263609e99c3aa1c6947c1176fd5874434
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- compression
+** Ukrainian glosses
+*** uk-s-1153080-001-001
+:PROPERTIES:
+:END:
+- text :: стискання; стиснення; стискати
+** Learner notes
+*** note-s-1153080-001-001
+:PROPERTIES:
+:END:
+- UK :: ~空気を圧縮する~ — стискати повітря. Іменник і перехідне дієслово з ~する~.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1153080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 空気を圧縮します。
+- READING :: くうきをあっしゅくします。
+- UK :: Ми стискаємо повітря.
+- EN :: We compress air.
+- FOCUS :: 圧縮
+*** ex-1153080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この機械で空気を圧縮します。
+- READING :: このきかいでくうきをあっしゅくします。
+- UK :: Цим пристроєм стискають повітря.
+- EN :: This machine compresses air.
+- FOCUS :: 圧縮
+*** ex-1153080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 空気を圧縮してためる仕組みを、模型を使って説明しました。
+- READING :: くうきをあっしゅくしてためるしくみを、もけいをつかってせつめいしました。
+- UK :: Я пояснив за допомогою моделі, як працює система стискання й накопичення повітря.
+- EN :: I used a model to explain the mechanism for compressing and storing air.
+- FOCUS :: 圧縮
+
+* Sense s-1153080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e06d6d8f9553765560eb82c0df84b2a531684a5ab132522da30f564ce82804ca
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- condensing
+- shortening
+- summarizing
+** Ukrainian glosses
+*** uk-s-1153080-002-001
+:PROPERTIES:
+:END:
+- text :: скорочення; ущільнення; стислий виклад
+** Learner notes
+*** note-s-1153080-002-001
+:PROPERTIES:
+:END:
+- UK :: ~文章を圧縮する~ — стискати текст. Переносно про зменшення обсягу або тривалості.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1153080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 462ff9255533cbc654fc10cd86f7061159d4c978aeb229f980a8198ad23f7d14
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- comp
+*** Antonyms
+- 解凍・2
+** English glosses
+- compression (of data)
+** Ukrainian glosses
+*** uk-s-1153080-003-001
+:PROPERTIES:
+:END:
+- text :: стиснення даних; стискати дані
+** Learner notes
+*** note-s-1153080-003-001
+:PROPERTIES:
+:END:
+- UK :: ~ファイルを圧縮する~ — стискати файл. Фахове комп’ютерне значення; не обов’язково втрата інформації.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1153080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5b127c64e680ccb40f2fbef0368139f516c790ad8c4984ce875a738464cb771f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opeendrukken
+*** en-s-1153080-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samendrukken
+*** en-s-1153080-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenpersen
+*** en-s-1153080-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenpakken
+*** en-s-1153080-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comprimeren
+** Ukrainian glosses
+
+* Sense s-1153080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a9c893718b411c5565ec0dbb87f897ff3ba4c9d9965e2d2279c7ae18edd9311e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenvatten
+*** en-s-1153080-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: condenseren
+*** en-s-1153080-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdichten
+*** en-s-1153080-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resumeren
+*** en-s-1153080-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het samenpersen
+*** en-s-1153080-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenpersing
+** Ukrainian glosses
+
+* Sense s-1153080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dce8def14a7077870559055a09a0e4b14377137da5b74d7bf2e7e11328ae00b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compression
+** Ukrainian glosses
+
+* Sense s-1153080-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4c1028fe627dce685cd36999d13d3bc68e9d958818744e2013a8c78acd41051c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammendrücken
+*** en-s-1153080-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenpressen
+*** en-s-1153080-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenziehen
+*** en-s-1153080-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komprimieren
+** Ukrainian glosses
+
+* Sense s-1153080-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ab7ba023976f8859227baf2be096f92f64184ff70197ea5266b8de83bba5fd46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kürzen (z.B. einen Text)
+** Ukrainian glosses
+
+* Sense s-1153080-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 9af20005609644ba9c8bd6afce12da7582edda0a999a143f8de770fcba0b45f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kompression
+*** en-s-1153080-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kondensation
+*** en-s-1153080-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verdichtung
+*** en-s-1153080-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zusammendrücken
+** Ukrainian glosses
+
+* Sense s-1153080-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 57ca89f5018fa5f3266f4503d6447ff8a65a5c1ff480ad57fa03e9a41b4e1270
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Datenkompression
+*** en-s-1153080-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kompression
+** Ukrainian glosses
+
+* Sense s-1153080-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 98fc4881830648d22b99646c93d72c335ad63b661695b2d758c5bd2d8cd54beb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: préselés
+*** en-s-1153080-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összenyomás
+*** en-s-1153080-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összenyomás
+*** en-s-1153080-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeszorítás
+*** en-s-1153080-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sűrítés
+*** en-s-1153080-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összehúzás
+*** en-s-1153080-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összehúzódás
+*** en-s-1153080-011-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeszorulás
+*** en-s-1153080-011-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeszűkülés
+*** en-s-1153080-011-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zsugorítás
+*** en-s-1153080-011-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zsugorodás
+** Ukrainian glosses
+
+* Sense s-1153080-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: abfd0c4b17ac59964547d02f6dbd207b5e1f7aa7aaa4ddd6dce4e1a7afdf36d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сжатие; сокращение; (тех.) компрессия
+*** en-s-1153080-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} сжимать; сокращать, уменьшать
+** Ukrainian glosses
+
+* Sense s-1153080-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: b1ab46a3ff5efe0ad3b2e1ada07107c461d0e5ec69633919a0b2b3a02f50a170
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stiskanje
+*** en-s-1153080-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kondenzacija
+*** en-s-1153080-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pritisk
+** Ukrainian glosses
+
+* Sense s-1153080-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 8c5b9a81f7782233bc0a25d5bfd39f7ab268823f8105d620b5792f2bf84ace23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1153080-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comprimir
+*** en-s-1153080-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: condensar
+*** en-s-1153080-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compresión
+*** en-s-1153080-014-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: condensación
+*** en-s-1153080-014-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comprimir
+*** en-s-1153080-014-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: condensar
+** Ukrainian glosses
