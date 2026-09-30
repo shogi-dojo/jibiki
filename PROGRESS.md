@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3103 |
+| Canonical entry files | 3113 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 131 |
+| Canonical N2 entries | 141 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 133 / 1635 (8.1%) |
+| N2 queue rows covered | 143 / 1635 (8.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3066 |
+| `new` | 3076 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3093 |
+| Entry metadata still marked `draft` | 3103 |
 | Core profile | 163 |
-| Learner profile | 2939 |
+| Learner profile | 2949 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -378,7 +378,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **40/100 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **50/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -393,6 +393,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 2 | N2-105, N2-106, N2-107, N2-108, N2-109, N2-110, N2-111, N2-112, N2-113, N2-114 | 10 |
 | 3 | N2-115, N2-116, N2-117, N2-118, N2-119, N2-120, N2-121, N2-122, N2-123, N2-124 | 10 |
 | 4 | N2-125, N2-126, N2-127, N2-128, N2-129, N2-130, N2-131, N2-132, N2-133, N2-134 | 10 |
+| 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
 
 ## Maturity workflow
 
@@ -3340,3 +3341,13 @@ content and remain at `new` until editorial review.
 | N2-132 | [煙突](entries/1177/1177320-entotsu.org) | えんとつ | entotsu | 1177320 | learner | draft | **new** | Editorial review |
 | N2-133 | [追いかける](entries/1608/1608720-oikakeru.org) | おいかける | oikakeru | 1608720 | learner | draft | **new** | Editorial review |
 | N2-134 | [追い越す](entries/1432/1432280-oikosu.org) | おいこす | oikosu | 1432280 | learner | draft | **new** | Editorial review |
+| N2-135 | [オイル](entries/1033/1033900-oiru.org) | オイル | oiru | 1033900 | learner | draft | **new** | Editorial review |
+| N2-136 | [応援](entries/1179/1179840-ouen.org) | おうえん | ouen | 1179840 | learner | draft | **new** | Editorial review |
+| N2-137 | [王女](entries/1181/1181560-oujo.org) | おうじょ | oujo | 1181560 | learner | draft | **new** | Editorial review |
+| N2-138 | [応ずる](entries/1609/1609380-ouzuru.org) | おうずる | ouzuru | 1609380 | learner | draft | **new** | Editorial review |
+| N2-139 | [応接](entries/1179/1179930-ousetsu.org) | おうせつ | ousetsu | 1179930 | learner | draft | **new** | Editorial review |
+| N2-140 | [応対](entries/1179/1179980-outai.org) | おうたい | outai | 1179980 | learner | draft | **new** | Editorial review |
+| N2-141 | [往復](entries/1179/1179760-oufuku.org) | おうふく | oufuku | 1179760 | learner | draft | **new** | Editorial review |
+| N2-142 | [欧米](entries/1609/1609390-oubei.org) | おうべい | oubei | 1609390 | learner | draft | **new** | Editorial review |
+| N2-143 | [応用](entries/1180/1180060-ouyou.org) | おうよう | ouyou | 1180060 | learner | draft | **new** | Editorial review |
+| N2-144 | [大雑把](entries/1412/1412950-oozappa.org) | おおざっぱ | oozappa | 1412950 | learner | draft | **new** | Editorial review |
