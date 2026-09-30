@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3023 |
+| Canonical entry files | 3033 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 51 |
+| Canonical N2 entries | 61 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 51 / 1635 (3.1%) |
+| N2 queue rows covered | 61 / 1635 (3.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2986 |
+| `new` | 2996 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3013 |
+| Entry metadata still marked `draft` | 3023 |
 | Core profile | 163 |
-| Learner profile | 2859 |
+| Learner profile | 2869 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -306,7 +306,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **460/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **470/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -362,6 +362,7 @@ Editorial review remains pending.
 | 44 | N2-22, N2-23, N2-24, N2-25, N2-26, N2-27, N2-28, N2-29, N2-30, N2-31 | 10 |
 | 45 | N2-32, N2-33, N2-34, N2-35, N2-36, N2-37, N2-38, N2-39, N2-40, N2-41 | 10 |
 | 46 | N2-42, N2-43, N2-44, N2-45, N2-46, N2-47, N2-48, N2-49, N2-50, N2-51 | 10 |
+| 47 | N2-52, N2-53, N2-54, N2-55, N2-56, N2-57, N2-58, N2-59, N2-60, N2-61 | 10 |
 
 ## Maturity workflow
 
@@ -3227,3 +3228,13 @@ content and remain at `new` until editorial review.
 | N2-49 | [意義](entries/1156/1156520-igi.org) | いぎ | igi | 1156520 | learner | draft | **new** | Editorial review |
 | N2-50 | [育児](entries/1160/1160630-ikuji.org) | いくじ | ikuji | 1160630 | learner | draft | **new** | Editorial review |
 | N2-51 | [幾分](entries/1220/1220060-ikubun.org) | いくぶん | ikubun | 1220060 | learner | draft | **new** | Editorial review |
+| N2-52 | [生け花](entries/1587/1587180-ikebana.org) | いけばな | ikebana | 1587180 | learner | draft | **new** | Editorial review |
+| N2-53 | [以降](entries/1155/1155110-ikou.org) | いこう | ikou | 1155110 | learner | draft | **new** | Editorial review |
+| N2-54 | [イコール](entries/1021/1021220-ikooru.org) | イコール | ikooru | 1021220 | learner | draft | **new** | Editorial review |
+| N2-55 | [以後](entries/1155/1155100-igo.org) | いご | igo | 1155100 | learner | draft | **new** | Editorial review |
+| N2-56 | [勇ましい](entries/1539/1539660-isamashii.org) | いさましい | isamashii | 1539660 | learner | draft | **new** | Editorial review |
+| N2-57 | [衣食住](entries/1158/1158780-ishokujuu.org) | いしょくじゅう | ishokujuu | 1158780 | learner | draft | **new** | Editorial review |
+| N2-58 | [意地悪](entries/1156/1156740-ijiwaru.org) | いじわる | ijiwaru | 1156740 | learner | draft | **new** | Editorial review |
+| N2-59 | [一々](entries/1587/1587320-ichiichi.org) | いちいち | ichiichi | 1587320 | learner | draft | **new** | Editorial review |
+| N2-60 | [一応](entries/1161/1161170-ichiou.org) | いちおう | ichiou | 1161170 | learner | draft | **new** | Editorial review |
+| N2-61 | [一段](entries/1164/1164690-ichidan.org) | いちだん | ichidan | 1164690 | learner | draft | **new** | Editorial review |
