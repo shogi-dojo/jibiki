@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3893 |
+| Canonical entry files | 3903 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 921 |
+| Canonical N2 entries | 931 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 928 / 1635 (56.8%) |
+| N2 queue rows covered | 938 / 1635 (57.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3856 |
+| `new` | 3866 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3883 |
+| Entry metadata still marked `draft` | 3893 |
 | Core profile | 163 |
-| Learner profile | 3729 |
+| Learner profile | 3739 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **830/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **840/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -876,6 +876,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 81 | N2-900, N2-901, N2-902, N2-903, N2-904, N2-905, N2-906, N2-907, N2-908, N2-909 | 10 |
 | 82 | N2-910, N2-911, N2-912, N2-913, N2-914, N2-915, N2-916, N2-917, N2-918, N2-919 | 10 |
 | 83 | N2-920, N2-921, N2-922, N2-923, N2-924, N2-925, N2-926, N2-927, N2-928, N2-929 | 10 |
+| 84 | N2-930, N2-931, N2-932, N2-933, N2-934, N2-935, N2-936, N2-937, N2-938, N2-939 | 10 |
 
 ## Maturity workflow
 
@@ -4618,3 +4619,13 @@ content and remain at `new` until editorial review.
 | N2-927 | [ダブル](entries/1077/1077110-daburu.org) | ダブル | daburu | 1077110 | learner | draft | **new** | Editorial review |
 | N2-928 | [騙す](entries/1574/1574550-damasu.org) | だます | damasu | 1574550 | learner | draft | **new** | Editorial review |
 | N2-929 | [ダム](entries/1077/1077140-damu.org) | ダム | damu | 1077140 | learner | draft | **new** | Editorial review |
+| N2-930 | [だらし無い](entries/1007/1007500-darashinai.org) | だらしない | darashinai | 1007500 | learner | draft | **new** | Editorial review |
+| N2-931 | [段階](entries/1419/1419950-dankai.org) | だんかい | dankai | 1419950 | learner | draft | **new** | Editorial review |
+| N2-932 | [断水](entries/1419/1419660-dansui.org) | だんすい | dansui | 1419660 | learner | draft | **new** | Editorial review |
+| N2-933 | [団地](entries/1419/1419300-danchi.org) | だんち | danchi | 1419300 | learner | draft | **new** | Editorial review |
+| N2-934 | [誓う](entries/1381/1381210-chikau.org) | ちかう | chikau | 1381210 | learner | draft | **new** | Editorial review |
+| N2-935 | [地下水](entries/1622/1622630-chikasui.org) | ちかすい | chikasui | 1622630 | learner | draft | **new** | Editorial review |
+| N2-936 | [近づける](entries/1242/1242520-chikazukeru.org) | ちかづける | chikazukeru | 1242520 | learner | draft | **new** | Editorial review |
+| N2-937 | [近寄る](entries/1242/1242230-chikayoru.org) | ちかよる | chikayoru | 1242230 | learner | draft | **new** | Editorial review |
+| N2-938 | [力強い](entries/1554/1554940-chikarazuyoi.org) | ちからづよい | chikarazuyoi | 1554940 | learner | draft | **new** | Editorial review |
+| N2-939 | [千切る](entries/1389/1389020-chigiru.org) | ちぎる | chigiru | 1389020 | learner | draft | **new** | Editorial review |
