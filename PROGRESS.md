@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2923 |
+| Canonical entry files | 2933 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1554 |
-| N3 queue rows covered | 1625 / 1677 (96.9%) |
+| Canonical N3 entries | 1564 |
+| N3 queue rows covered | 1636 / 1677 (97.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2886 |
+| `new` | 2896 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2913 |
+| Entry metadata still marked `draft` | 2923 |
 | Core profile | 163 |
-| Learner profile | 2759 |
+| Learner profile | 2769 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1625 rows covered (1621 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1627 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1636 rows covered (1632 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1638 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1628 (読み).
+unchanged. The next untouched queue row is N3-1639 (理解).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **360/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **370/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -291,6 +291,7 @@ as new entries. Editorial review remains pending.
 | 34 | N3-1595–1607 | 10 |
 | 35 | N3-1608–1617 | 10 |
 | 36 | N3-1618–1627 | 10 |
+| 37 | N3-1628–1638 | 10 |
 
 ## Maturity workflow
 
@@ -3055,3 +3056,14 @@ content and remain at `new` until editorial review.
 | N3-1625 | [余分](entries/1544/1544520-yobun.org) | よぶん | yobun | 1544520 | learner | draft | **new** | Editorial review |
 | N3-1626 | [予報](entries/1543/1543630-yohou.org) | よほう | yohou | 1543630 | learner | draft | **new** | Editorial review |
 | N3-1627 | [予防](entries/1543/1543660-yobou.org) | よぼう | yobou | 1543660 | learner | draft | **new** | Editorial review |
+| N3-1628 | [読み](entries/1456/1456130-yomi.org) | よみ | yomi | 1456130 | learner | draft | **new** | Editorial review |
+| N3-1629 | [嫁](entries/1191/1191680-yome.org) | よめ | yome | 1191680 | learner | draft | **new** | Editorial review |
+| N3-1630 | [余裕](entries/1544/1544590-yoyuu.org) | よゆう | yoyuu | 1544590 | learner | draft | **new** | Editorial review |
+| N3-1631 | [喜び](entries/1606/1606140-yorokobi.org) | よろこび | yorokobi | 1606140 | learner | draft | **new** | Editorial review |
+| N3-1632 | [宜しい](entries/1224/1224880-yoroshii.org) | よろしい | yoroshii | 1224880 | learner | draft | **new** | Editorial review |
+| N3-1633 | [宜しく](entries/1224/1224890-yoroshiku.org) | よろしく | yoroshiku | 1224890 | learner | draft | **new** | Editorial review |
+| N3-1634 | [欧羅巴](entries/1137/1137570-yooroppa.org) | ヨーロッパ | yooroppa | 1137570 | learner | draft | **new** | Editorial review |
+| N3-1635 | [ライター](entries/1137/1137880-raitaa.org) | ライター | raitaa | 1137880 | learner | draft | **new** | Editorial review |
+| N3-1636 | [楽](entries/1207/1207230-raku.org) | らく | raku | 1207230 | learner | draft | **new** | Editorial review |
+| N3-1637 | [ラケット](entries/1138/1138710-raketto.org) | ラケット | raketto | 1138710 | learner | draft | **new** | Editorial review |
+| N3-1638 | [利益](entries/1549/1549470-rieki.org) | りえき | rieki | 1549470 | learner | draft | **new** | Editorial review |
