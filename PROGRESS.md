@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3873 |
+| Canonical entry files | 3883 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 901 |
+| Canonical N2 entries | 911 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 908 / 1635 (55.5%) |
+| N2 queue rows covered | 918 / 1635 (56.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3836 |
+| `new` | 3846 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3863 |
+| Entry metadata still marked `draft` | 3873 |
 | Core profile | 163 |
-| Learner profile | 3709 |
+| Learner profile | 3719 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **810/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **820/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -874,6 +874,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 79 | N2-880, N2-881, N2-882, N2-883, N2-884, N2-885, N2-886, N2-887, N2-888, N2-889 | 10 |
 | 80 | N2-890, N2-891, N2-892, N2-893, N2-894, N2-895, N2-896, N2-897, N2-898, N2-899 | 10 |
 | 81 | N2-900, N2-901, N2-902, N2-903, N2-904, N2-905, N2-906, N2-907, N2-908, N2-909 | 10 |
+| 82 | N2-910, N2-911, N2-912, N2-913, N2-914, N2-915, N2-916, N2-917, N2-918, N2-919 | 10 |
 
 ## Maturity workflow
 
@@ -4596,3 +4597,13 @@ content and remain at `new` until editorial review.
 | N2-907 | [溜める](entries/1552/1552630-tameru.org) | ためる | tameru | 1552630 | learner | draft | **new** | Editorial review |
 | N2-908 | [足る](entries/1404/1404750-taru.org) | たる | taru | 1404750 | learner | draft | **new** | Editorial review |
 | N2-909 | [短期](entries/1418/1418640-tanki.org) | たんき | tanki | 1418640 | learner | draft | **new** | Editorial review |
+| N2-910 | [炭鉱](entries/1597/1597260-tankou.org) | たんこう | tankou | 1597260 | learner | draft | **new** | Editorial review |
+| N2-911 | [短所](entries/1418/1418760-tansho.org) | たんしょ | tansho | 1418760 | learner | draft | **new** | Editorial review |
+| N2-912 | [箪笥](entries/1418/1418990-tansu.org) | たんす | tansu | 1418990 | learner | draft | **new** | Editorial review |
+| N2-913 | [淡水](entries/1418/1418460-tansui.org) | たんすい | tansui | 1418460 | learner | draft | **new** | Editorial review |
+| N2-914 | [単数](entries/1417/1417670-tansuu.org) | たんすう | tansuu | 1417670 | learner | draft | **new** | Editorial review |
+| N2-915 | [短編](entries/1597/1597300-tanpen.org) | たんぺん | tanpen | 1597300 | learner | draft | **new** | Editorial review |
+| N2-916 | [田んぼ](entries/1442/1442840-tanbo.org) | たんぼ | tanbo | 1442840 | learner | draft | **new** | Editorial review |
+| N2-917 | [ダイアグラム](entries/1076/1076680-daiaguramu.org) | ダイアグラム | daiaguramu | 1076680 | learner | draft | **new** | Editorial review |
+| N2-918 | [大工](entries/1413/1413690-daiku.org) | だいく | daiku | 1413690 | learner | draft | **new** | Editorial review |
+| N2-919 | [大小](entries/1414/1414110-daishou.org) | だいしょう | daishou | 1414110 | learner | draft | **new** | Editorial review |
