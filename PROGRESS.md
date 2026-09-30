@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3043 |
+| Canonical entry files | 3053 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 71 |
+| Canonical N2 entries | 81 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 73 / 1635 (4.5%) |
+| N2 queue rows covered | 83 / 1635 (5.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3006 |
+| `new` | 3016 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3033 |
+| Entry metadata still marked `draft` | 3043 |
 | Core profile | 163 |
-| Learner profile | 2879 |
+| Learner profile | 2889 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -308,13 +308,15 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **480/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **490/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
 Org lint, and doctor 100/100 with zero errors or warnings. The remaining
 standard N3 entries are followed by N2 candidates, as requested.
 Editorial review remains pending.
+N2-69 is deferred for a dedicated standalone-usage review.
+N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
@@ -366,6 +368,7 @@ Editorial review remains pending.
 | 46 | N2-42, N2-43, N2-44, N2-45, N2-46, N2-47, N2-48, N2-49, N2-50, N2-51 | 10 |
 | 47 | N2-52, N2-53, N2-54, N2-55, N2-56, N2-57, N2-58, N2-59, N2-60, N2-61 | 10 |
 | 48 | N2-62, N2-63, N2-64, N2-65, N2-66, N2-67, N2-68, N2-70, N2-71, N2-72, N2-73, N2-74 | 10 |
+| 49 | N2-75, N2-76, N2-77, N2-78, N2-79, N2-80, N2-81, N2-82, N2-83, N2-84 | 10 |
 
 ## Maturity workflow
 
@@ -3253,3 +3256,13 @@ content and remain at `new` until editorial review.
 | N2-72 | [従姉妹](entries/1335/1335310-itoko.org) | いとこ | itoko | 1335310 | learner | draft | **new** | Editorial review |
 | N2-73 | [緯度](entries/1158/1158490-ido.org) | いど | ido | 1158490 | learner | draft | **new** | Editorial review |
 | N2-74 | [井戸](entries/1160/1160330-ido.org) | いど | ido | 1160330 | learner | draft | **new** | Editorial review |
+| N2-75 | [威張る](entries/1156/1156320-ibaru.org) | いばる | ibaru | 1156320 | learner | draft | **new** | Editorial review |
+| N2-76 | [嫌がる](entries/1609/1609260-iyagaru.org) | いやがる | iyagaru | 1609260 | learner | draft | **new** | Editorial review |
+| N2-77 | [愈](entries/1587/1587670-iyoiyo.org) | いよいよ | iyoiyo | 1587670 | learner | draft | **new** | Editorial review |
+| N2-78 | [炒る](entries/1391/1391500-iru.org) | いる | iru | 1391500 | learner | draft | **new** | Editorial review |
+| N2-79 | [入れ物](entries/1587/1587840-iremono.org) | いれもの | iremono | 1587840 | learner | draft | **new** | Editorial review |
+| N2-80 | [インタビュー](entries/1023/1023100-intabyuu.org) | インタビュー | intabyuu | 1023100 | learner | draft | **new** | Editorial review |
+| N2-81 | [引力](entries/1169/1169720-inryoku.org) | いんりょく | inryoku | 1169720 | learner | draft | **new** | Editorial review |
+| N2-82 | [ウェイトレス](entries/1025/1025690-weitoresu.org) | ウェイトレス | weitoresu | 1025690 | learner | draft | **new** | Editorial review |
+| N2-83 | [植木](entries/1587/1587970-ueki.org) | うえき | ueki | 1587970 | learner | draft | **new** | Editorial review |
+| N2-84 | [飢える](entries/1224/1224080-ueru.org) | うえる | ueru | 1224080 | learner | draft | **new** | Editorial review |
