@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2863 |
+| Canonical entry files | 2873 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1494 |
-| N3 queue rows covered | 1560 / 1677 (93.0%) |
+| Canonical N3 entries | 1504 |
+| N3 queue rows covered | 1571 / 1677 (93.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2826 |
+| `new` | 2836 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2853 |
+| Entry metadata still marked `draft` | 2863 |
 | Core profile | 163 |
-| Learner profile | 2699 |
+| Learner profile | 2709 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1560 rows covered (1556 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1562 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1571 rows covered (1567 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1573 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1563 (基づく).
+unchanged. The next untouched queue row is N3-1574 (役).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -242,6 +242,50 @@ as new entries. Editorial review remains pending.
 | 28 | N3-1531–1540 | 10 |
 | 29 | N3-1541–1550 | 10 |
 | 30 | N3-1551–1562 | 10 |
+
+## Current-branch 400-word continuation (2026-09-30)
+
+Baseline: `f94d38a2` (merged PR #10). Completed **310/400 new words**
+on this branch in batches of ten, each word committed separately under Ihor.
+Content author is `codex`; every new English sense has an independently authored
+Ukrainian gloss and usage note, and each entry has three graded examples.
+All completed entries passed JMdict validation, Org lint and doctor 100/100
+with zero errors or warnings. Existing aliases are recorded without counting
+as new entries. Editorial review remains pending.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1251–1261 | 10 |
+| 2 | N3-1262–1271 | 10 |
+| 3 | N3-1272–1283 | 10 |
+| 4 | N3-1284–1293 | 10 |
+| 5 | N3-1294–1303 | 10 |
+| 6 | N3-1304–1313 | 10 |
+| 7 | N3-1314–1323 | 10 |
+| 8 | N3-1324–1333 | 10 |
+| 9 | N3-1334–1343 | 10 |
+| 10 | N3-1344–1353 | 10 |
+| 11 | N3-1354–1364 | 10 |
+| 12 | N3-1365–1374 | 10 |
+| 13 | N3-1375–1384 | 10 |
+| 14 | N3-1385–1394 | 10 |
+| 15 | N3-1395–1404 | 10 |
+| 16 | N3-1405–1414 | 10 |
+| 17 | N3-1415–1424 | 10 |
+| 18 | N3-1425–1434 | 10 |
+| 19 | N3-1435–1445 | 10 |
+| 20 | N3-1446–1457 | 10 |
+| 21 | N3-1458–1467 | 10 |
+| 22 | N3-1468–1477 | 10 |
+| 23 | N3-1478–1489 | 10 |
+| 24 | N3-1490–1499 | 10 |
+| 25 | N3-1500–1509 | 10 |
+| 26 | N3-1510–1520 | 10 |
+| 27 | N3-1521–1530 | 10 |
+| 28 | N3-1531–1540 | 10 |
+| 29 | N3-1541–1550 | 10 |
+| 30 | N3-1551–1562 | 10 |
+| 31 | N3-1563–1573 | 10 |
 
 ## Maturity workflow
 
@@ -2941,3 +2985,14 @@ content and remain at `new` until editorial review.
 | N3-1560 | [最も](entries/1293/1293700-mottomo.org) | もっとも | mottomo | 1293700 | learner | draft | **new** | Editorial review |
 | N3-1561 | [元](entries/1260/1260670-moto.org) | もと | moto | 1260670 | learner | draft | **new** | Editorial review |
 | N3-1562 | [元](entries/2219/2219590-moto.org) | もと | moto | 2219590 | learner | draft | **new** | Editorial review |
+| N3-1563 | [基づく](entries/1605/1605270-motozuku.org) | もとづく | motozuku | 1605270 | learner | draft | **new** | Editorial review |
+| N3-1564 | [求める](entries/1229/1229350-motomeru.org) | もとめる | motomeru | 1229350 | learner | draft | **new** | Editorial review |
+| N3-1565 | [戻す](entries/1535/1535850-modosu.org) | もどす | modosu | 1535850 | learner | draft | **new** | Editorial review |
+| N3-1566 | [者](entries/1322/1322990-mono.org) | もの | mono | 1322990 | learner | draft | **new** | Editorial review |
+| N3-1567 | [物音](entries/1502/1502420-monooto.org) | ものおと | monooto | 1502420 | learner | draft | **new** | Editorial review |
+| N3-1568 | [物語](entries/1502/1502480-monogatari.org) | ものがたり | monogatari | 1502480 | learner | draft | **new** | Editorial review |
+| N3-1569 | [物事](entries/1502/1502550-monogoto.org) | ものごと | monogoto | 1502550 | learner | draft | **new** | Editorial review |
+| N3-1570 | [模様](entries/1533/1533720-moyou.org) | もよう | moyou | 1533720 | learner | draft | **new** | Editorial review |
+| N3-1571 | [貰う](entries/1535/1535910-morau.org) | もらう | morau | 1535910 | learner | draft | **new** | Editorial review |
+| N3-1572 | [文句](entries/1505/1505260-monku.org) | もんく | monku | 1505260 | learner | draft | **new** | Editorial review |
+| N3-1573 | [軈て](entries/1012/1012730-yagate.org) | やがて | yagate | 1012730 | learner | draft | **new** | Editorial review |
