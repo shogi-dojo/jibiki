@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2933 |
+| Canonical entry files | 2943 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1564 |
-| N3 queue rows covered | 1636 / 1677 (97.6%) |
+| Canonical N3 entries | 1574 |
+| N3 queue rows covered | 1646 / 1677 (98.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2896 |
+| `new` | 2906 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2923 |
+| Entry metadata still marked `draft` | 2933 |
 | Core profile | 163 |
-| Learner profile | 2769 |
+| Learner profile | 2779 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1636 rows covered (1632 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1638 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1646 rows covered (1642 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1648 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1639 (理解).
+unchanged. The next untouched queue row is N3-1649 (料金).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **370/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **380/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -292,6 +292,7 @@ as new entries. Editorial review remains pending.
 | 35 | N3-1608–1617 | 10 |
 | 36 | N3-1618–1627 | 10 |
 | 37 | N3-1628–1638 | 10 |
+| 38 | N3-1639–1648 | 10 |
 
 ## Maturity workflow
 
@@ -3067,3 +3068,13 @@ content and remain at `new` until editorial review.
 | N3-1636 | [楽](entries/1207/1207230-raku.org) | らく | raku | 1207230 | learner | draft | **new** | Editorial review |
 | N3-1637 | [ラケット](entries/1138/1138710-raketto.org) | ラケット | raketto | 1138710 | learner | draft | **new** | Editorial review |
 | N3-1638 | [利益](entries/1549/1549470-rieki.org) | りえき | rieki | 1549470 | learner | draft | **new** | Editorial review |
+| N3-1639 | [理解](entries/1549/1549910-rikai.org) | りかい | rikai | 1549910 | learner | draft | **new** | Editorial review |
+| N3-1640 | [陸](entries/1550/1550980-riku.org) | りく | riku | 1550980 | learner | draft | **new** | Editorial review |
+| N3-1641 | [利口](entries/1549/1549550-rikou.org) | りこう | rikou | 1549550 | learner | draft | **new** | Editorial review |
+| N3-1642 | [離婚](entries/1550/1550880-rikon.org) | りこん | rikon | 1550880 | learner | draft | **new** | Editorial review |
+| N3-1643 | [理想](entries/1550/1550020-risou.org) | りそう | risou | 1550020 | learner | draft | **new** | Editorial review |
+| N3-1644 | [率](entries/1551/1551200-ritsu.org) | りつ | ritsu | 1551200 | learner | draft | **new** | Editorial review |
+| N3-1645 | [留学](entries/1552/1552740-ryuugaku.org) | りゅうがく | ryuugaku | 1552740 | learner | draft | **new** | Editorial review |
+| N3-1646 | [流行](entries/1585/1585110-ryuukou.org) | りゅうこう | ryuukou | 1585110 | learner | draft | **new** | Editorial review |
+| N3-1647 | [量](entries/1554/1554640-ryou.org) | りょう | ryou | 1554640 | learner | draft | **new** | Editorial review |
+| N3-1648 | [両替](entries/1553/1553820-ryougae.org) | りょうがえ | ryougae | 1553820 | learner | draft | **new** | Editorial review |
