@@ -1,0 +1,591 @@
+#+TITLE: 差し引き
+#+JMDICT_ID: 1291090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さしひき
+#+ROMAJI: sashihiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291090-001
+:PROPERTIES:
+:TEXT: 差し引き
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf17
+** Written form wf-1291090-002
+:PROPERTIES:
+:TEXT: 差引き
+:END:
+** Written form wf-1291090-003
+:PROPERTIES:
+:TEXT: 差引
+:END:
+*** Information
+- io
+** Reading rd-1291090-001
+:PROPERTIES:
+:TEXT: さしひき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf17
+
+* Sense s-1291090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 40b89597dca27de85d0598f5e25c778498a34a53a39f35f0ecc8fd8e1ee0ad84
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- deduction
+- subtraction
+- balance
+** Ukrainian glosses
+*** uk-s-1291090-001-001
+:PROPERTIES:
+:END:
+- text :: віднімання; вирахування; залишок; сальдо
+** Learner notes
+*** note-s-1291090-001-001
+:PROPERTIES:
+:END:
+- UK :: Вирахування однієї суми з іншої або отримана різниця.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1291090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 差し引き千円です。
+- READING :: さしひきせんえんです。
+- UK :: Після вирахування — тисяча єн.
+- EN :: The balance is one thousand yen.
+- FOCUS :: 差し引き
+*** ex-1291090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 費用を引くと、差し引き五百円残ります。
+- READING :: ひようをひくと、さしひきごひゃくえんのこります。
+- UK :: Після вирахування витрат залишається п’ятсот єн.
+- EN :: After deducting the costs, five hundred yen remains.
+- FOCUS :: 差し引き
+*** ex-1291090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 差し引きの金額を確かめて、帳面に書きました。
+- READING :: さしひきのきんがくをたしかめて、ちょうめんにかきました。
+- UK :: Я перевірив суму залишку й записав її в облікову книжку.
+- EN :: I checked the net amount and wrote it in the account book.
+- FOCUS :: 差し引き
+
+* Sense s-1291090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 42361451cf9f8d265cc3badb5475d45e2a27bf41cab3cd526522df5e15add8e4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- ebb and flow
+- rise and fall
+** Ukrainian glosses
+*** uk-s-1291090-002-001
+:PROPERTIES:
+:END:
+- text :: приплив і відплив; підйом і спад
+** Learner notes
+*** note-s-1291090-002-001
+:PROPERTIES:
+:END:
+- UK :: Чергування збільшення й зменшення, зокрема рівня води.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1291090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4ee0a457070ccee16f0103dcb7f9e55439035c30cee7b831f6b75cef51d444d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekking
+*** en-s-1291090-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrek
+*** en-s-1291090-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inhouding
+*** en-s-1291090-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vermindering
+*** en-s-1291090-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mindering
+*** en-s-1291090-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korting
+** Ukrainian glosses
+
+* Sense s-1291090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: af762a67cb2d032b682aa5f7dd0e1f8d19ed0a04ee423cbc397ab57129e3dbb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: saldo
+*** en-s-1291090-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overschot
+*** en-s-1291090-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegoed
+** Ukrainian glosses
+
+* Sense s-1291090-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 430d21a929a81c0282bca5dcf1f5403a1103d838c93ee5f771441b313046abe4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwisseling van eb en vloed
+*** en-s-1291090-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getijwisseling
+** Ukrainian glosses
+
+* Sense s-1291090-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 72a085e91fce1748c75634263d28689f1a2aace4745030ff3c951b522705f0b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balance
+*** en-s-1291090-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: déduction
+*** en-s-1291090-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: flux et reflux
+*** en-s-1291090-006-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soustraction
+** Ukrainian glosses
+
+* Sense s-1291090-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c22904b6215bb71ad5cd27175e8959cc504a4906d4b0c0296c573af80151456c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abzug
+** Ukrainian glosses
+
+* Sense s-1291090-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9096a0ba0921e43130f73bab007c973bd511eef30b2858d550a675f1ab65027d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bilanz
+*** en-s-1291090-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Saldo
+*** en-s-1291090-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überschuss
+*** en-s-1291090-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rest
+** Ukrainian glosses
+
+* Sense s-1291090-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7b4ece6df3707a66a853a857c12a59893f7ada862f93ebfa3998ddff65b3be5e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ebbe und Flut
+*** en-s-1291090-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gezeiten
+** Ukrainian glosses
+
+* Sense s-1291090-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 16a44f0e49922b62b199332d508c979910ec73c6f7aa985aa84f1c60f23b51f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: következtetés
+*** en-s-1291090-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levezetés
+*** en-s-1291090-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levonás
+*** en-s-1291090-010-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maradék
+*** en-s-1291090-010-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfontoltság
+*** en-s-1291090-010-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szilárdság
+** Ukrainian glosses
+
+* Sense s-1291090-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 0533dfe6905f02d331671027e523f9f2f5c5b4c8d255170a87fa1d75589f9989
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) вычитание; вычет
+*** en-s-1291090-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) остаток; баланс
+*** en-s-1291090-011-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} подводить баланс
+*** en-s-1291090-011-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) прилив и отлив
+*** en-s-1291090-011-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} приливать и отливать
+*** en-s-1291090-011-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) повышение и понижение
+*** en-s-1291090-011-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} повышаться и понижаться; перемежаться
+** Ukrainian glosses
+
+* Sense s-1291090-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 2b9a2e4a5dc134f4a72fe40a3ace5a831c95fbf8142102ab3224f0018f261884
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-012-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtegljaj
+*** en-s-1291090-012-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odvzem
+*** en-s-1291090-012-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odšteti
+*** en-s-1291090-012-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtegniti
+*** en-s-1291090-012-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odštevanje
+** Ukrainian glosses
+
+* Sense s-1291090-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: a43d78ca7039d83fb558a9b6d0cc0d3993254311f4f734d91d3ec72afbf72686
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291090-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reducción
+*** en-s-1291090-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sustracción
+*** en-s-1291090-013-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: saldo
+*** en-s-1291090-013-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balance
+** Ukrainian glosses
