@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2603 |
+| Canonical entry files | 2613 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1234 |
-| N3 queue rows covered | 1291 / 1677 (77.0%) |
+| Canonical N3 entries | 1244 |
+| N3 queue rows covered | 1301 / 1677 (77.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2566 |
+| `new` | 2576 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2593 |
+| Entry metadata still marked `draft` | 2603 |
 | Core profile | 163 |
-| Learner profile | 2439 |
+| Learner profile | 2449 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1291 rows covered (1234 distinct files) out of 1677.
-Coverage reaches N3-1293 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1301 rows covered (1244 distinct files) out of 1677.
+Coverage reaches N3-1303 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1294 (発表).
+unchanged. The next untouched queue row is N3-1304 (腹).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **40/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **50/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -156,6 +156,7 @@ as new entries. Editorial review remains pending.
 | 2 | N3-1262–1271 | 10 |
 | 3 | N3-1272–1283 | 10 |
 | 4 | N3-1284–1293 | 10 |
+| 5 | N3-1294–1303 | 10 |
 
 ## Maturity workflow
 
@@ -2586,3 +2587,13 @@ content and remain at `new` until editorial review.
 | N3-1291 | [発車](entries/1477/1477500-hassha.org) | はっしゃ | hassha | 1477500 | learner | draft | **new** | Editorial review |
 | N3-1292 | [発達](entries/1477/1477680-hattatsu.org) | はったつ | hattatsu | 1477680 | learner | draft | **new** | Editorial review |
 | N3-1293 | [発展](entries/1477/1477720-hatten.org) | はってん | hatten | 1477720 | learner | draft | **new** | Editorial review |
+| N3-1294 | [発表](entries/1477/1477840-happyou.org) | はっぴょう | happyou | 1477840 | learner | draft | **new** | Editorial review |
+| N3-1295 | [発明](entries/1477/1477910-hatsumei.org) | はつめい | hatsumei | 1477910 | learner | draft | **new** | Editorial review |
+| N3-1296 | [話し合う](entries/1562/1562310-hanashiau.org) | はなしあう | hanashiau | 1562310 | learner | draft | **new** | Editorial review |
+| N3-1297 | [放す](entries/1516/1516460-hanasu.org) | はなす | hanasu | 1516460 | learner | draft | **new** | Editorial review |
+| N3-1298 | [離す](entries/1550/1550830-hanasu.org) | はなす | hanasu | 1550830 | learner | draft | **new** | Editorial review |
+| N3-1299 | [離れる](entries/1550/1550840-hanareru.org) | はなれる | hanareru | 1550840 | learner | draft | **new** | Editorial review |
+| N3-1300 | [羽](entries/1171/1171680-hane.org) | はね | hane | 1171680 | learner | draft | **new** | Editorial review |
+| N3-1301 | [母親](entries/1515/1515120-hahaoya.org) | ははおや | hahaoya | 1515120 | learner | draft | **new** | Editorial review |
+| N3-1302 | [幅](entries/1500/1500880-haba.org) | はば | haba | 1500880 | learner | draft | **new** | Editorial review |
+| N3-1303 | [省く](entries/1351/1351040-habuku.org) | はぶく | habuku | 1351040 | learner | draft | **new** | Editorial review |
