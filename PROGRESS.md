@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3683 |
+| Canonical entry files | 3693 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 711 |
+| Canonical N2 entries | 721 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 718 / 1635 (43.9%) |
+| N2 queue rows covered | 728 / 1635 (44.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3646 |
+| `new` | 3656 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3673 |
+| Entry metadata still marked `draft` | 3683 |
 | Core profile | 163 |
-| Learner profile | 3519 |
+| Learner profile | 3529 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -687,7 +687,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 700-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **620/700 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **630/700 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -760,6 +760,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 60 | N2-690, N2-691, N2-692, N2-693, N2-694, N2-695, N2-696, N2-697, N2-698, N2-699 | 10 |
 | 61 | N2-700, N2-701, N2-702, N2-703, N2-704, N2-705, N2-706, N2-707, N2-708, N2-709 | 10 |
 | 62 | N2-710, N2-711, N2-712, N2-713, N2-714, N2-715, N2-716, N2-717, N2-718, N2-719 | 10 |
+| 63 | N2-720, N2-721, N2-722, N2-723, N2-724, N2-725, N2-726, N2-727, N2-728, N2-729 | 10 |
 
 ## Maturity workflow
 
@@ -4292,3 +4293,13 @@ content and remain at `new` until editorial review.
 | N2-717 | [循環](entries/1341/1341340-junkan.org) | じゅんかん | junkan | 1341340 | learner | draft | **new** | Editorial review |
 | N2-718 | [巡査](entries/1342/1342110-junsa.org) | じゅんさ | junsa | 1342110 | learner | draft | **new** | Editorial review |
 | N2-719 | [順々](entries/1342/1342230-junjun.org) | じゅんじゅん | junjun | 1342230 | learner | draft | **new** | Editorial review |
+| N2-720 | [順序](entries/1342/1342340-junjo.org) | じゅんじょ | junjo | 1342340 | learner | draft | **new** | Editorial review |
+| N2-721 | [純情](entries/1341/1341910-junjou.org) | じゅんじょう | junjou | 1341910 | learner | draft | **new** | Editorial review |
+| N2-722 | [純粋](entries/1341/1341930-junsui.org) | じゅんすい | junsui | 1341930 | learner | draft | **new** | Editorial review |
+| N2-723 | [蒸気](entries/1356/1356930-jouki.org) | じょうき | jouki | 1356930 | learner | draft | **new** | Editorial review |
+| N2-724 | [上級](entries/1352/1352930-joukyuu.org) | じょうきゅう | joukyuu | 1352930 | learner | draft | **new** | Editorial review |
+| N2-725 | [定規](entries/1435/1435520-jougi.org) | じょうぎ | jougi | 1435520 | learner | draft | **new** | Editorial review |
+| N2-726 | [上下](entries/1352/1352710-jouge.org) | じょうげ | jouge | 1352710 | learner | draft | **new** | Editorial review |
+| N2-727 | [乗車](entries/1355/1355270-jousha.org) | じょうしゃ | jousha | 1355270 | learner | draft | **new** | Editorial review |
+| N2-728 | [蒸発](entries/1356/1356960-jouhatsu.org) | じょうはつ | jouhatsu | 1356960 | learner | draft | **new** | Editorial review |
+| N2-729 | [助教授](entries/1344/1344550-jokyouju.org) | じょきょうじゅ | jokyouju | 1344550 | learner | draft | **new** | Editorial review |
