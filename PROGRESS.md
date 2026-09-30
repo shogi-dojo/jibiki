@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3113 |
+| Canonical entry files | 3123 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 141 |
+| Canonical N2 entries | 151 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 143 / 1635 (8.7%) |
+| N2 queue rows covered | 154 / 1635 (9.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3076 |
+| `new` | 3086 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3103 |
+| Entry metadata still marked `draft` | 3113 |
 | Core profile | 163 |
-| Learner profile | 2949 |
+| Learner profile | 2959 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -378,7 +378,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **50/100 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **60/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -394,6 +394,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 3 | N2-115, N2-116, N2-117, N2-118, N2-119, N2-120, N2-121, N2-122, N2-123, N2-124 | 10 |
 | 4 | N2-125, N2-126, N2-127, N2-128, N2-129, N2-130, N2-131, N2-132, N2-133, N2-134 | 10 |
 | 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
+| 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
 
 ## Maturity workflow
 
@@ -3351,3 +3352,14 @@ content and remain at `new` until editorial review.
 | N2-142 | [欧米](entries/1609/1609390-oubei.org) | おうべい | oubei | 1609390 | learner | draft | **new** | Editorial review |
 | N2-143 | [応用](entries/1180/1180060-ouyou.org) | おうよう | ouyou | 1180060 | learner | draft | **new** | Editorial review |
 | N2-144 | [大雑把](entries/1412/1412950-oozappa.org) | おおざっぱ | oozappa | 1412950 | learner | draft | **new** | Editorial review |
+| N2-145 | [大通り](entries/1414/1414570-oodoori.org) | おおどおり | oodoori | 1414570 | learner | draft | **new** | Editorial review |
+| N2-146 | [大凡](entries/1415/1415050-ooyoso.org) | おおよそ | ooyoso | 1415050 | learner | draft | **new** | Editorial review |
+| N2-147 | [お帰り](entries/1612/1612780-okaeri.org) | おかえり | okaeri | 1612780 | learner | draft | **new** | Editorial review |
+| N2-148 | [お掛け下さい](entries/2411/2411600-okakekudasai.org) | おかけください | okakekudasai | 2411600 | learner | draft | **new** | Editorial review |
+| N2-149 | [お陰様で](entries/1270/1270220-okagesamade.org) | おかげさまで | okagesamade | 1270220 | learner | draft | **existing** | Editorial review |
+| N2-150 | [お菜](entries/1588/1588930-okazu.org) | おかず | okazu | 1588930 | learner | draft | **new** | Editorial review |
+| N2-151 | [お代わり](entries/1612/1612800-okawari.org) | おかわり | okawari | 1612800 | learner | draft | **new** | Editorial review |
+| N2-152 | [拝む](entries/1472/1472230-ogamu.org) | おがむ | ogamu | 1472230 | learner | draft | **new** | Editorial review |
+| N2-153 | [お気の毒に](entries/2167/2167510-okinodokuni.org) | おきのどくに | okinodokuni | 2167510 | learner | draft | **new** | Editorial review |
+| N2-154 | [補う](entries/1514/1514460-oginau.org) | おぎなう | oginau | 1514460 | learner | draft | **new** | Editorial review |
+| N2-155 | [屋外](entries/1182/1182680-okugai.org) | おくがい | okugai | 1182680 | learner | draft | **new** | Editorial review |
