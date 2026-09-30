@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3283 |
+| Canonical entry files | 3293 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 311 |
+| Canonical N2 entries | 321 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 317 / 1635 (19.4%) |
+| N2 queue rows covered | 328 / 1635 (20.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3246 |
+| `new` | 3256 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3273 |
+| Entry metadata still marked `draft` | 3283 |
 | Core profile | 163 |
-| Learner profile | 3119 |
+| Learner profile | 3129 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **220/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **230/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -483,6 +483,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 20 | N2-289, N2-290, N2-291, N2-292, N2-293, N2-294, N2-295, N2-296, N2-297, N2-298 | 10 |
 | 21 | N2-299, N2-300, N2-301, N2-302, N2-303, N2-304, N2-305, N2-306, N2-307, N2-308 | 10 |
 | 22 | N2-309, N2-310, N2-311, N2-312, N2-313, N2-314, N2-315, N2-316, N2-317, N2-318 | 10 |
+| 23 | N2-319, N2-320, N2-321, N2-322, N2-323, N2-324, N2-325, N2-326, N2-327, N2-328, N2-329 | 10 |
 
 ## Maturity workflow
 
@@ -3614,3 +3615,14 @@ content and remain at `new` until editorial review.
 | N2-316 | [カーブ](entries/1036/1036560-kaabu.org) | カーブ | kaabu | 1036560 | learner | draft | **new** | Editorial review |
 | N2-317 | [外部](entries/1204/1204070-gaibu.org) | がいぶ | gaibu | 1204070 | learner | draft | **new** | Editorial review |
 | N2-318 | [概論](entries/1204/1204520-gairon.org) | がいろん | gairon | 1204520 | learner | draft | **new** | Editorial review |
+| N2-319 | [学術](entries/1206/1206870-gakujutsu.org) | がくじゅつ | gakujutsu | 1206870 | learner | draft | **new** | Editorial review |
+| N2-320 | [学年](entries/1207/1207030-gakunen.org) | がくねん | gakunen | 1207030 | learner | draft | **new** | Editorial review |
+| N2-321 | [学部](entries/1207/1207080-gakubu.org) | がくぶ | gakubu | 1207080 | learner | draft | **existing** | Editorial review |
+| N2-322 | [学力](entries/1207/1207180-gakuryoku.org) | がくりょく | gakuryoku | 1207180 | learner | draft | **new** | Editorial review |
+| N2-323 | [学科](entries/1206/1206590-gakka.org) | がっか | gakka | 1206590 | learner | draft | **new** | Editorial review |
+| N2-324 | [学会](entries/1206/1206610-gakkai.org) | がっかい | gakkai | 1206610 | learner | draft | **new** | Editorial review |
+| N2-325 | [楽器](entries/1207/1207340-gakki.org) | がっき | gakki | 1207340 | learner | draft | **new** | Editorial review |
+| N2-326 | [学級](entries/1206/1206680-gakkyuu.org) | がっきゅう | gakkyuu | 1206680 | learner | draft | **new** | Editorial review |
+| N2-327 | [ガム](entries/1040/1040350-gamu.org) | ガム | gamu | 1040350 | learner | draft | **new** | Editorial review |
+| N2-328 | [気圧](entries/1221/1221880-kiatsu.org) | きあつ | kiatsu | 1221880 | learner | draft | **new** | Editorial review |
+| N2-329 | [機関車](entries/1220/1220880-kikansha.org) | きかんしゃ | kikansha | 1220880 | learner | draft | **new** | Editorial review |
