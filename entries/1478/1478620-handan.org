@@ -1,0 +1,737 @@
+#+TITLE: 判断
+#+JMDICT_ID: 1478620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんだん
+#+ROMAJI: handan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1478620-001
+:PROPERTIES:
+:TEXT: 判断
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1478620-001
+:PROPERTIES:
+:TEXT: はんだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+
+* Sense s-1478620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9de5042432e2c3d2332ec91e1ce363402f031d8956e10b82b0837f116acc0f88
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- judgment
+- judgement
+- decision
+- conclusion
+- adjudication
+** Ukrainian glosses
+*** uk-s-1478620-001-001
+:PROPERTIES:
+:END:
+- text :: судження; рішення; висновок; оцінка
+** Learner notes
+*** note-s-1478620-001-001
+:PROPERTIES:
+:END:
+- UK :: ~状況を判断する~ — оцінювати ситуацію, ~判断を下す~ — ухвалити рішення. Іменник і перехідне дієслово з ~する~.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1478620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 自分で判断します。
+- READING :: じぶんではんだんします。
+- UK :: Я вирішу сам.
+- EN :: I will decide for myself.
+- FOCUS :: 判断
+*** ex-1478620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 急いで判断せず、説明を聞いてください。
+- READING :: いそいではんだんせず、せつめいをきいてください。
+- UK :: Не поспішайте з висновком, послухайте пояснення.
+- EN :: Please listen to the explanation without rushing to a judgment.
+- FOCUS :: 判断
+*** ex-1478620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 十分な情報が集まってから、どの方法がよいか判断することにしました。
+- READING :: じゅうぶんなじょうほうがあつまってから、どのほうほうがよいかはんだんすることにしました。
+- UK :: Ми вирішили визначити найкращий спосіб після того, як зберемо достатньо інформації.
+- EN :: We decided to judge which method was best after gathering enough information.
+- FOCUS :: 判断
+
+* Sense s-1478620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7a92307dcebdaba4002c2e8654f8bac7cf3b4b7ede992e0c6ebf7d109f61ea59
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- divination
+** Ukrainian glosses
+*** uk-s-1478620-002-001
+:PROPERTIES:
+:END:
+- text :: ворожіння; визначення через ворожіння
+** Learner notes
+*** note-s-1478620-002-001
+:PROPERTIES:
+:END:
+- UK :: У контексті віщування називає тлумачення або визначення долі. Не всяке ~判断~ означає ворожіння.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1478620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8bc1745a1e0b089336c3185704bd6e2a1c25312e61edbd18e9c8de1d90aa192d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- judgement
+** Ukrainian glosses
+*** uk-s-1478620-003-001
+:PROPERTIES:
+:END:
+- text :: судження (математика)
+** Learner notes
+*** note-s-1478620-003-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальне значення формального судження. Його структуру визначає математична або логічна система, а не повсякденна оцінка ситуації.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1478620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 56a3cd33cd0f1b338e32414117594ac94cb3367382e8212944ca68d7c0a29714
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oordelen
+*** en-s-1478620-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beoordelen
+*** en-s-1478620-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: judiceren
+*** en-s-1478620-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: appreciëren
+*** en-s-1478620-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schatten
+*** en-s-1478620-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevinden
+*** en-s-1478620-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inschatten
+*** en-s-1478620-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een oordeel vellen
+*** en-s-1478620-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitmaken
+*** en-s-1478620-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwegen
+** Ukrainian glosses
+
+* Sense s-1478620-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4942450c4b35b400f56c6a6bd2c78359305d7928b4c8467e78e2f1766c3f9e94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wichelen
+*** en-s-1478620-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitleggen
+*** en-s-1478620-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarzeggen
+** Ukrainian glosses
+
+* Sense s-1478620-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 84d216427bc96df27fdaede7ee839d4dc27e85d63e72e0482b5f082afafbdc0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oordeel
+*** en-s-1478620-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beoordeling
+*** en-s-1478620-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: judicium
+*** en-s-1478620-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: appreciatie
+*** en-s-1478620-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inzicht
+*** en-s-1478620-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afweging
+*** en-s-1478620-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inschatting
+*** en-s-1478620-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevinding
+** Ukrainian glosses
+
+* Sense s-1478620-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b3c7e34bba441f6483882c8a9e73fe8684ddd7809f0aef70152ebabbcdcd2d9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wichelarij
+*** en-s-1478620-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitlegging {van dromen enz.}
+*** en-s-1478620-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarzegging
+*** en-s-1478620-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarzeggerij
+** Ukrainian glosses
+
+* Sense s-1478620-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4d8e26c297f437cccafcb0d5cb0aed5f25ab707224f08c075fe98e420a88550d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jugement
+** Ukrainian glosses
+
+* Sense s-1478620-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a0ab0c9ef3f263f12d20e6a2b13e6db02a39f8c0552f09fcc8e13fe26ed5ebd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décision
+** Ukrainian glosses
+
+* Sense s-1478620-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 352ad78fba705ce096088f7ff9e48c55b335ed25aac39181f6de77e65010131e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-010-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: augure
+** Ukrainian glosses
+
+* Sense s-1478620-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 1d1f15899fa4da3262e2c5c06ead2ae1534fbe62cfd33df99cbc972f39ee576d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: urteilen
+*** en-s-1478620-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beurteilen
+*** en-s-1478620-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urteil
+*** en-s-1478620-011-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entscheidung
+*** en-s-1478620-011-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beurteilung
+*** en-s-1478620-011-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ansicht
+*** en-s-1478620-011-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ermessen
+*** en-s-1478620-011-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Deutung
+** Ukrainian glosses
+
+* Sense s-1478620-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: e90009490a29da5e933ae7f9f41180d5fde0cdee247c07b566bb69af1160c38c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: döntés
+*** en-s-1478620-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ítélet
+*** en-s-1478620-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ítélőképesség
+*** en-s-1478620-012-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megítélés
+*** en-s-1478620-012-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nézet
+*** en-s-1478620-012-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vélemény
+*** en-s-1478620-012-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhatározás
+*** en-s-1478620-012-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odaítélés
+*** en-s-1478620-012-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: befejezés
+*** en-s-1478620-012-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: következtetés
+** Ukrainian glosses
+
+* Sense s-1478620-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 3391017ffc5be39dca5e1984b24ad8fbab81e01acdc66adc94501871bf7df446
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) суждение; заключение; оценка
+*** en-s-1478620-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} судить (о чём-л.), заключать, решать, делать заключение, выводить; оценивать
+*** en-s-1478620-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2): {～する} истолковывать; разгадывать
+*** en-s-1478620-013-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) гадание, прорицание
+** Ukrainian glosses
+
+* Sense s-1478620-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: e9518906afd970bfe0169baf98df482da386166e335936ea450583598996eef7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-014-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: presoditi
+*** en-s-1478620-014-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soditi
+*** en-s-1478620-014-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odločiti
+*** en-s-1478620-014-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: presoja
+*** en-s-1478620-014-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sodba
+*** en-s-1478620-014-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odločitev
+*** en-s-1478620-014-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mnenje
+** Ukrainian glosses
+
+* Sense s-1478620-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: b581f77b32d571c7ecd49de6ee17dcd82a3a2762a257f856fe28f424d9b27725
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1478620-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decisión
+*** en-s-1478620-015-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juicio
+** Ukrainian glosses
