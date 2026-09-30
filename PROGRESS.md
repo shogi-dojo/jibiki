@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2883 |
+| Canonical entry files | 2893 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1514 |
-| N3 queue rows covered | 1582 / 1677 (94.3%) |
+| Canonical N3 entries | 1524 |
+| N3 queue rows covered | 1592 / 1677 (94.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2846 |
+| `new` | 2856 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2873 |
+| Entry metadata still marked `draft` | 2883 |
 | Core profile | 163 |
-| Learner profile | 2719 |
+| Learner profile | 2729 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1582 rows covered (1578 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1584 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1592 rows covered (1588 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1594 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1585 (辞める).
+unchanged. The next untouched queue row is N3-1595 (郵便).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **320/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **330/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -287,6 +287,7 @@ as new entries. Editorial review remains pending.
 | 30 | N3-1551–1562 | 10 |
 | 31 | N3-1563–1573 | 10 |
 | 32 | N3-1574–1584 | 10 |
+| 33 | N3-1585–1594 | 10 |
 
 ## Maturity workflow
 
@@ -3008,3 +3009,13 @@ content and remain at `new` until editorial review.
 | N3-1582 | [屋根](entries/1182/1182700-yane.org) | やね | yane | 1182700 | learner | draft | **new** | Editorial review |
 | N3-1583 | [矢張り](entries/2772/2772770-yahari.org) | やはり | yahari | 2772770 | learner | draft | **new** | Editorial review |
 | N3-1584 | [破る](entries/1471/1471200-yaburu.org) | やぶる | yaburu | 1471200 | learner | draft | **new** | Editorial review |
+| N3-1585 | [辞める](entries/1318/1318950-yameru.org) | やめる | yameru | 1318950 | learner | draft | **new** | Editorial review |
+| N3-1586 | [稍](entries/1570/1570120-yaya.org) | やや | yaya | 1570120 | learner | draft | **new** | Editorial review |
+| N3-1587 | [唯一](entries/1538/1538920-yuiitsu.org) | ゆいいつ | yuiitsu | 1538920 | learner | draft | **new** | Editorial review |
+| N3-1588 | [勇気](entries/1539/1539740-yuuki.org) | ゆうき | yuuki | 1539740 | learner | draft | **new** | Editorial review |
+| N3-1589 | [有効](entries/1541/1541290-yuukou.org) | ゆうこう | yuukou | 1541290 | learner | draft | **new** | Editorial review |
+| N3-1590 | [優秀](entries/1539/1539230-yuushuu.org) | ゆうしゅう | yuushuu | 1539230 | learner | draft | **new** | Editorial review |
+| N3-1591 | [優勝](entries/1539/1539280-yuushou.org) | ゆうしょう | yuushou | 1539280 | learner | draft | **new** | Editorial review |
+| N3-1592 | [友情](entries/1540/1540130-yuujou.org) | ゆうじょう | yuujou | 1540130 | learner | draft | **new** | Editorial review |
+| N3-1593 | [友人](entries/1540/1540150-yuujin.org) | ゆうじん | yuujin | 1540150 | learner | draft | **new** | Editorial review |
+| N3-1594 | [有能](entries/1541/1541570-yuunou.org) | ゆうのう | yuunou | 1541570 | learner | draft | **new** | Editorial review |
