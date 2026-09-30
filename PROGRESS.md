@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2653 |
+| Canonical entry files | 2663 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1284 |
-| N3 queue rows covered | 1341 / 1677 (80.0%) |
+| Canonical N3 entries | 1294 |
+| N3 queue rows covered | 1351 / 1677 (80.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2616 |
+| `new` | 2626 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2643 |
+| Entry metadata still marked `draft` | 2653 |
 | Core profile | 163 |
-| Learner profile | 2489 |
+| Learner profile | 2499 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1341 rows covered (1284 distinct files) out of 1677.
-Coverage reaches N3-1343 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1351 rows covered (1294 distinct files) out of 1677.
+Coverage reaches N3-1353 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1344 (一言).
+unchanged. The next untouched queue row is N3-1354 (表現).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -140,10 +140,12 @@ Ukrainian glosses and usage notes, plus 30 graded examples. Each entry
 passed JMdict validation, Org lint and doctor 100/100 with zero errors or
 warnings. Entries remain drafts pending editorial review.
 
-## Current-branch 100-word continuation (2026-09-30)
+## Completed current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **90/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **100/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
+Final audit verified 100 unique new JMdict entries, 100 individual word commits,
+278 English senses with Ukrainian glosses and notes, and 300 graded examples.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
@@ -161,6 +163,7 @@ as new entries. Editorial review remains pending.
 | 7 | N3-1314–1323 | 10 |
 | 8 | N3-1324–1333 | 10 |
 | 9 | N3-1334–1343 | 10 |
+| 10 | N3-1344–1353 | 10 |
 
 ## Maturity workflow
 
@@ -2641,3 +2644,13 @@ content and remain at `new` until editorial review.
 | N3-1341 | [引っ張る](entries/1601/1601900-hipparu.org) | ひっぱる | hipparu | 1601900 | learner | draft | **new** | Editorial review |
 | N3-1342 | [日付](entries/1464/1464340-hizuke.org) | ひづけ | hizuke | 1464340 | learner | draft | **new** | Editorial review |
 | N3-1343 | [否定](entries/1482/1482990-hitei.org) | ひてい | hitei | 1482990 | learner | draft | **new** | Editorial review |
+| N3-1344 | [一言](entries/1575/1575990-hitokoto.org) | ひとこと | hitokoto | 1575990 | learner | draft | **new** | Editorial review |
+| N3-1345 | [人ごみ](entries/1367/1367680-hitogomi.org) | ひとごみ | hitogomi | 1367680 | learner | draft | **new** | Editorial review |
+| N3-1346 | [等しい](entries/1449/1449330-hitoshii.org) | ひとしい | hitoshii | 1449330 | learner | draft | **new** | Editorial review |
+| N3-1347 | [一人一人](entries/1612/1612530-hitorihitori.org) | ひとりひとり | hitorihitori | 1612530 | learner | draft | **new** | Editorial review |
+| N3-1348 | [批判](entries/1483/1483420-hihan.org) | ひはん | hihan | 1483420 | learner | draft | **new** | Editorial review |
+| N3-1349 | [批評](entries/1483/1483440-hihyou.org) | ひひょう | hihyou | 1483440 | learner | draft | **new** | Editorial review |
+| N3-1350 | [秘密](entries/1484/1484150-himitsu.org) | ひみつ | himitsu | 1484150 | learner | draft | **new** | Editorial review |
+| N3-1351 | [紐](entries/1487/1487970-himo.org) | ひも | himo | 1487970 | learner | draft | **new** | Editorial review |
+| N3-1352 | [表](entries/1489/1489350-hyou.org) | ひょう | hyou | 1489350 | learner | draft | **new** | Editorial review |
+| N3-1353 | [評価](entries/1490/1490010-hyouka.org) | ひょうか | hyouka | 1490010 | learner | draft | **new** | Editorial review |
