@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3773 |
+| Canonical entry files | 3783 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 801 |
+| Canonical N2 entries | 811 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 808 / 1635 (49.4%) |
+| N2 queue rows covered | 818 / 1635 (50.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3736 |
+| `new` | 3746 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3763 |
+| Entry metadata still marked `draft` | 3773 |
 | Core profile | 163 |
-| Learner profile | 3609 |
+| Learner profile | 3619 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **710/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **720/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -864,6 +864,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 69 | N2-780, N2-781, N2-782, N2-783, N2-784, N2-785, N2-786, N2-787, N2-788, N2-789 | 10 |
 | 70 | N2-790, N2-791, N2-792, N2-793, N2-794, N2-795, N2-796, N2-797, N2-798, N2-799 | 10 |
 | 71 | N2-800, N2-801, N2-802, N2-803, N2-804, N2-805, N2-806, N2-807, N2-808, N2-809 | 10 |
+| 72 | N2-810, N2-811, N2-812, N2-813, N2-814, N2-815, N2-816, N2-817, N2-818, N2-819 | 10 |
 
 ## Maturity workflow
 
@@ -4486,3 +4487,13 @@ content and remain at `new` until editorial review.
 | N2-807 | [接近](entries/1385/1385370-sekkin.org) | せっきん | sekkin | 1385370 | learner | draft | **new** | Editorial review |
 | N2-808 | [接する](entries/1385/1385350-sessuru.org) | せっする | sessuru | 1385350 | learner | draft | **new** | Editorial review |
 | N2-809 | [せっせと](entries/2008/2008620-sesseto.org) | せっせと | sesseto | 2008620 | learner | draft | **new** | Editorial review |
+| N2-810 | [接続](entries/1385/1385480-setsuzoku.org) | せつぞく | setsuzoku | 1385480 | learner | draft | **new** | Editorial review |
+| N2-811 | [瀬戸物](entries/1374/1374400-setomono.org) | せともの | setomono | 1374400 | learner | draft | **new** | Editorial review |
+| N2-812 | [迫る](entries/1475/1475720-semaru.org) | せまる | semaru | 1475720 | learner | draft | **new** | Editorial review |
+| N2-813 | [攻め手](entries/1675/1675160-semete.org) | せめて | semete | 1675160 | learner | draft | **new** | Editorial review |
+| N2-814 | [攻める](entries/1279/1279130-semeru.org) | せめる | semeru | 1279130 | learner | draft | **new** | Editorial review |
+| N2-815 | [セメント](entries/1074/1074740-semento.org) | セメント | semento | 1074740 | learner | draft | **new** | Editorial review |
+| N2-816 | [栓](entries/1956/1956550-sen.org) | せん | sen | 1956550 | learner | draft | **new** | Editorial review |
+| N2-817 | [洗剤](entries/1390/1390950-senzai.org) | せんざい | senzai | 1390950 | learner | draft | **new** | Editorial review |
+| N2-818 | [扇子](entries/1390/1390730-sensu.org) | せんす | sensu | 1390730 | learner | draft | **new** | Editorial review |
+| N2-819 | [専制](entries/1389/1389810-sensei.org) | せんせい | sensei | 1389810 | learner | draft | **new** | Editorial review |
