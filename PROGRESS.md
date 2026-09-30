@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3593 |
+| Canonical entry files | 3603 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 621 |
+| Canonical N2 entries | 631 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 628 / 1635 (38.4%) |
+| N2 queue rows covered | 638 / 1635 (39.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3556 |
+| `new` | 3566 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3583 |
+| Entry metadata still marked `draft` | 3593 |
 | Core profile | 163 |
-| Learner profile | 3429 |
+| Learner profile | 3439 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -602,7 +602,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 600-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **530/600 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **540/600 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -666,6 +666,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 51 | N2-600, N2-601, N2-602, N2-603, N2-604, N2-605, N2-606, N2-607, N2-608, N2-609 | 10 |
 | 52 | N2-610, N2-611, N2-612, N2-613, N2-614, N2-615, N2-616, N2-617, N2-618, N2-619 | 10 |
 | 53 | N2-620, N2-621, N2-622, N2-623, N2-624, N2-625, N2-626, N2-627, N2-628, N2-629 | 10 |
+| 54 | N2-630, N2-631, N2-632, N2-633, N2-634, N2-635, N2-636, N2-637, N2-638, N2-639 | 10 |
 
 ## Maturity workflow
 
@@ -4108,3 +4109,13 @@ content and remain at `new` until editorial review.
 | N2-627 | [縮小](entries/1337/1337630-shukushou.org) | しゅくしょう | shukushou | 1337630 | learner | draft | **new** | Editorial review |
 | N2-628 | [祝日](entries/1337/1337500-shukujitsu.org) | しゅくじつ | shukujitsu | 1337500 | learner | draft | **new** | Editorial review |
 | N2-629 | [主語](entries/1325/1325420-shugo.org) | しゅご | shugo | 1325420 | learner | draft | **new** | Editorial review |
+| N2-630 | [出勤](entries/1338/1338600-shukkin.org) | しゅっきん | shukkin | 1338600 | learner | draft | **new** | Editorial review |
+| N2-631 | [出張](entries/1339/1339660-shutchou.org) | しゅっちょう | shutchou | 1339660 | learner | draft | **new** | Editorial review |
+| N2-632 | [主役](entries/1326/1326290-shuyaku.org) | しゅやく | shuyaku | 1326290 | learner | draft | **new** | Editorial review |
+| N2-633 | [消化](entries/1350/1350140-shouka.org) | しょうか | shouka | 1350140 | learner | draft | **new** | Editorial review |
+| N2-634 | [小学生](entries/1347/1347880-shougakusei.org) | しょうがくせい | shougakusei | 1347880 | learner | draft | **new** | Editorial review |
+| N2-635 | [仕様がない](entries/1305/1305510-shouganai.org) | しょうがない | shouganai | 1305510 | learner | draft | **new** | Editorial review |
+| N2-636 | [消極的](entries/1350/1350220-shoukyokuteki.org) | しょうきょくてき | shoukyokuteki | 1350220 | learner | draft | **new** | Editorial review |
+| N2-637 | [賞金](entries/1351/1351930-shoukin.org) | しょうきん | shoukin | 1351930 | learner | draft | **new** | Editorial review |
+| N2-638 | [将棋](entries/1347/1347640-shougi.org) | しょうぎ | shougi | 1347640 | learner | draft | **new** | Editorial review |
+| N2-639 | [商業](entries/1346/1346740-shougyou.org) | しょうぎょう | shougyou | 1346740 | learner | draft | **new** | Editorial review |
