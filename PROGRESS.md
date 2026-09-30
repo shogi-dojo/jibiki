@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3713 |
+| Canonical entry files | 3723 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 741 |
+| Canonical N2 entries | 751 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 748 / 1635 (45.7%) |
+| N2 queue rows covered | 758 / 1635 (46.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3676 |
+| `new` | 3686 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3703 |
+| Entry metadata still marked `draft` | 3713 |
 | Core profile | 163 |
-| Learner profile | 3549 |
+| Learner profile | 3559 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -687,7 +687,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 700-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **650/700 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **660/700 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -763,6 +763,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 63 | N2-720, N2-721, N2-722, N2-723, N2-724, N2-725, N2-726, N2-727, N2-728, N2-729 | 10 |
 | 64 | N2-730, N2-731, N2-732, N2-733, N2-734, N2-735, N2-736, N2-737, N2-738, N2-739 | 10 |
 | 65 | N2-740, N2-741, N2-742, N2-743, N2-744, N2-745, N2-746, N2-747, N2-748, N2-749 | 10 |
+| 66 | N2-750, N2-751, N2-752, N2-753, N2-754, N2-755, N2-756, N2-757, N2-758, N2-759 | 10 |
 
 ## Maturity workflow
 
@@ -4325,3 +4326,13 @@ content and remain at `new` until editorial review.
 | N2-747 | [好き嫌い](entries/1277/1277460-sukikirai.org) | すききらい | sukikirai | 1277460 | learner | draft | **new** | Editorial review |
 | N2-748 | [好き好き](entries/1595/1595570-sukizuki.org) | すきずき | sukizuki | 1595570 | learner | draft | **new** | Editorial review |
 | N2-749 | [透き通る](entries/1450/1450510-sukitooru.org) | すきとおる | sukitooru | 1450510 | learner | draft | **new** | Editorial review |
+| N2-750 | [隙間](entries/1253/1253790-sukima.org) | すきま | sukima | 1253790 | learner | draft | **new** | Editorial review |
+| N2-751 | [杉](entries/1373/1373520-sugi.org) | すぎ | sugi | 1373520 | learner | draft | **new** | Editorial review |
+| N2-752 | [少なくとも](entries/1595/1595610-sukunakutomo.org) | すくなくとも | sukunakutomo | 1595610 | learner | draft | **new** | Editorial review |
+| N2-753 | [スクール](entries/1068/1068230-sukuuru.org) | スクール | sukuuru | 1068230 | learner | draft | **new** | Editorial review |
+| N2-754 | [スケジュール](entries/1068/1068870-sukejuuru.org) | スケジュール | sukejuuru | 1068870 | learner | draft | **new** | Editorial review |
+| N2-755 | [鈴](entries/1557/1557580-suzu.org) | すず | suzu | 1557580 | learner | draft | **new** | Editorial review |
+| N2-756 | [スタート](entries/1069/1069370-sutaato.org) | スタート | sutaato | 1069370 | learner | draft | **new** | Editorial review |
+| N2-757 | [スチュワーデス](entries/1070/1070220-suchuwaadesu.org) | スチュワーデス | suchuwaadesu | 1070220 | learner | draft | **new** | Editorial review |
+| N2-758 | [すっきり](entries/1006/1006120-sukkiri.org) | すっきり | sukkiri | 1006120 | learner | draft | **new** | Editorial review |
+| N2-759 | [酸っぱい](entries/1304/1304280-suppai.org) | すっぱい | suppai | 1304280 | learner | draft | **new** | Editorial review |
