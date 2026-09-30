@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3313 |
+| Canonical entry files | 3323 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 341 |
+| Canonical N2 entries | 351 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 348 / 1635 (21.3%) |
+| N2 queue rows covered | 358 / 1635 (21.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3276 |
+| `new` | 3286 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3303 |
+| Entry metadata still marked `draft` | 3313 |
 | Core profile | 163 |
-| Learner profile | 3149 |
+| Learner profile | 3159 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **250/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **260/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -486,6 +486,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 23 | N2-319, N2-320, N2-321, N2-322, N2-323, N2-324, N2-325, N2-326, N2-327, N2-328, N2-329 | 10 |
 | 24 | N2-330, N2-331, N2-332, N2-333, N2-334, N2-335, N2-336, N2-337, N2-338, N2-339 | 10 |
 | 25 | N2-340, N2-341, N2-342, N2-343, N2-344, N2-345, N2-346, N2-347, N2-348, N2-349 | 10 |
+| 26 | N2-350, N2-351, N2-352, N2-353, N2-354, N2-355, N2-356, N2-357, N2-358, N2-359 | 10 |
 
 ## Maturity workflow
 
@@ -3648,3 +3649,13 @@ content and remain at `new` until editorial review.
 | N2-347 | [休講](entries/1227/1227780-kyuukou.org) | きゅうこう | kyuukou | 1227780 | learner | draft | **new** | Editorial review |
 | N2-348 | [休息](entries/1227/1227940-kyuusoku.org) | きゅうそく | kyuusoku | 1227940 | learner | draft | **new** | Editorial review |
 | N2-349 | [給与](entries/1230/1230350-kyuuyo.org) | きゅうよ | kyuuyo | 1230350 | learner | draft | **new** | Editorial review |
+| N2-350 | [強化](entries/1236/1236200-kyouka.org) | きょうか | kyouka | 1236200 | learner | draft | **new** | Editorial review |
+| N2-351 | [境界](entries/1235/1235960-kyoukai.org) | きょうかい | kyoukai | 1235960 | learner | draft | **new** | Editorial review |
+| N2-352 | [恐縮](entries/1236/1236740-kyoushuku.org) | きょうしゅく | kyoushuku | 1236740 | learner | draft | **new** | Editorial review |
+| N2-353 | [教養](entries/1237/1237370-kyouyou.org) | きょうよう | kyouyou | 1237370 | learner | draft | **new** | Editorial review |
+| N2-354 | [曲線](entries/1239/1239970-kyokusen.org) | きょくせん | kyokusen | 1239970 | learner | draft | **new** | Editorial review |
+| N2-355 | [清い](entries/1378/1378140-kiyoi.org) | きよい | kiyoi | 1378140 | learner | draft | **new** | Editorial review |
+| N2-356 | [規律](entries/1223/1223120-kiritsu.org) | きりつ | kiritsu | 1223120 | learner | draft | **new** | Editorial review |
+| N2-357 | [斬る](entries/1304/1304400-kiru.org) | きる | kiru | 1304400 | learner | draft | **new** | Editorial review |
+| N2-358 | [気をつける](entries/1591/1591990-kiwotsukeru.org) | きをつける | kiwotsukeru | 1591990 | learner | draft | **new** | Editorial review |
+| N2-359 | [金魚](entries/1242/1242750-kingyo.org) | きんぎょ | kingyo | 1242750 | learner | draft | **new** | Editorial review |
