@@ -1,0 +1,214 @@
+#+TITLE: 送り仮名
+#+JMDICT_ID: 1402640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おくりがな
+#+ROMAJI: okurigana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1402640-001
+:PROPERTIES:
+:TEXT: 送り仮名
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1402640-002
+:PROPERTIES:
+:TEXT: 送りがな
+:END:
+** Reading rd-1402640-001
+:PROPERTIES:
+:TEXT: おくりがな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1402640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3acb377ec0ba634060a8305bee88b9c289030bd5a58a8c3373449f91b5d503d3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- kana written after a kanji to complete the full (usually kun) reading of the word
+- declensional kana ending
+** Ukrainian glosses
+*** uk-s-1402640-001-001
+:PROPERTIES:
+:END:
+- text :: окуріґана; кана після кандзі для запису закінчення або завершення читання
+** Learner notes
+*** note-s-1402640-001-001
+:PROPERTIES:
+:END:
+- UK :: Наприклад, у ~書く~ знак ~く~ є окуріґаною. Відрізняйте від ~振り仮名~ — підпису читання над або біля кандзі.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1402640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 送り仮名を書きます。
+- READING :: おくりがなをかきます。
+- UK :: Я пишу окуріґану.
+- EN :: I write the okurigana.
+- FOCUS :: 送り仮名
+*** ex-1402640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この言葉の送り仮名を確認しました。
+- READING :: このことばのおくりがなをかくにんしました。
+- UK :: Я перевірив окуріґану цього слова.
+- EN :: I checked this word’s okurigana.
+- FOCUS :: 送り仮名
+*** ex-1402640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 漢字だけでなく送り仮名にも注意して、辞書の表記を確かめました。
+- READING :: かんじだけでなくおくりがなにもちゅういして、じしょのひょうきをたしかめました。
+- UK :: Я перевірив написання у словнику, звертаючи увагу не лише на кандзі, а й на окуріґану.
+- EN :: I checked the dictionary spelling, paying attention to okurigana as well as kanji.
+- FOCUS :: 送り仮名
+
+* Sense s-1402640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1093338aa41513b17f88aef89d842efe7e30a74106a96417a9978f658c18ad32
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okurigana {uitgang (in hiragana) die aan een Chinees karakter of een kanji gehecht wordt om de Japanse vervoegingssuffixen
+*** en-s-1402640-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: de partikels of de hulpwerkwoorden te tonen}
+** Ukrainian glosses
+
+* Sense s-1402640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ed7358ddf9cb55775dde21666fa7605188d18fa61a37042ff6f38744ebea40b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partie d'un mot écrite en kana
+** Ukrainian glosses
+
+* Sense s-1402640-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ac1ab525a0ef83da7cd3b03e7a2bb04441667cbcadce811101510823731ef8f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Okurigana (Kana, die an ein Kanji angefügt werden, um die Flexion anzuzeigen)
+** Ukrainian glosses
+
+* Sense s-1402640-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 27c36b83f665e2228432bb1900e92ae331090638602bc5f31f225ef9a8352d8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: окуригана, сопроводительная кана (часть слова, дописанная каной после иероглифа); (ср.) おくる【送る】4
+** Ukrainian glosses
+
+* Sense s-1402640-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 09205537c191e313f311726e772a41fc08aade2ae2997afbe5613eafd67497dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: del besede
+*** en-s-1402640-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: napisan v kani
+** Ukrainian glosses
+
+* Sense s-1402640-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 00f9444d63c3e63a02cbed3bb123707514679b32aba4534203126445182e908e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402640-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parte final de una palabra que se escribe en hiragana (usado en verbos y adjetivos)
+** Ukrainian glosses
