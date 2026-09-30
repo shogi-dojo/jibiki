@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2573 |
+| Canonical entry files | 2583 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1204 |
-| N3 queue rows covered | 1259 / 1677 (75.1%) |
+| Canonical N3 entries | 1214 |
+| N3 queue rows covered | 1269 / 1677 (75.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2536 |
+| `new` | 2546 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2563 |
+| Entry metadata still marked `draft` | 2573 |
 | Core profile | 163 |
-| Learner profile | 2409 |
+| Learner profile | 2419 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1259 rows covered (1204 distinct files) out of 1677.
-Coverage reaches N3-1261 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1269 rows covered (1214 distinct files) out of 1677.
+Coverage reaches N3-1271 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1262 (述べる).
+unchanged. The next untouched queue row is N3-1272 (計る).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -130,6 +130,15 @@ entries contain Ukrainian glosses and usage notes for all 49 English senses
 and 30 graded examples. Each passed JMdict validation, Org lint and doctor
 100/100 with zero errors or warnings. Editorial review remains pending;
 the uncommitted 罪 draft remains preserved.
+
+## Additional 10-word batch (2026-09-30)
+
+N3-1262–1271 adds ten new entries on the current branch, bringing this PR
+to twenty new words. Each was committed individually under Ihor with
+`codex` as content author. This batch covers all 18 English senses with
+Ukrainian glosses and usage notes, plus 30 graded examples. Each entry
+passed JMdict validation, Org lint and doctor 100/100 with zero errors or
+warnings. Entries remain drafts pending editorial review.
 
 ## Maturity workflow
 
@@ -2528,3 +2537,13 @@ content and remain at `new` until editorial review.
 | N3-1259 | [喉](entries/1600/1600280-nodo.org) | のど | nodo | 1600280 | learner | draft | **new** | Editorial review |
 | N3-1260 | [伸ばす](entries/1600/1600290-nobasu.org) | のばす | nobasu | 1600290 | learner | draft | **new** | Editorial review |
 | N3-1261 | [伸びる](entries/1358/1358870-nobiru.org) | のびる | nobiru | 1358870 | learner | draft | **new** | Editorial review |
+| N3-1262 | [述べる](entries/1340/1340820-noberu.org) | のべる | noberu | 1340820 | learner | draft | **new** | Editorial review |
+| N3-1263 | [のんびり](entries/1010/1010050-nonbiri.org) | のんびり | nonbiri | 1010050 | learner | draft | **new** | Editorial review |
+| N3-1264 | [ノー](entries/2080/2080530-noo.org) | ノー | noo | 2080530 | learner | draft | **new** | Editorial review |
+| N3-1265 | [はあ](entries/2069/2069620-haa.org) | はあ | haa | 2069620 | learner | draft | **new** | Editorial review |
+| N3-1266 | [灰](entries/1201/1201860-hai.org) | はい | hai | 1201860 | learner | draft | **new** | Editorial review |
+| N3-1267 | [ハイキング](entries/1095/1095040-haikingu.org) | ハイキング | haikingu | 1095040 | learner | draft | **new** | Editorial review |
+| N3-1268 | [配達](entries/1473/1473140-haitatsu.org) | はいたつ | haitatsu | 1473140 | learner | draft | **new** | Editorial review |
+| N3-1269 | [俳優](entries/1471/1471970-haiyuu.org) | はいゆう | haiyuu | 1471970 | learner | draft | **new** | Editorial review |
+| N3-1270 | [墓](entries/1514/1514840-haka.org) | はか | haka | 1514840 | learner | draft | **new** | Editorial review |
+| N3-1271 | [博士](entries/1474/1474620-hakase.org) | はかせ | hakase | 1474620 | learner | draft | **new** | Editorial review |
