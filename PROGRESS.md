@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3533 |
+| Canonical entry files | 3543 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 561 |
+| Canonical N2 entries | 571 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 568 / 1635 (34.7%) |
+| N2 queue rows covered | 578 / 1635 (35.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3496 |
+| `new` | 3506 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3523 |
+| Entry metadata still marked `draft` | 3533 |
 | Core profile | 163 |
-| Learner profile | 3369 |
+| Learner profile | 3379 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -527,7 +527,7 @@ at this checkpoint is N2-500 (紺). Work continues toward the approved 500-word 
 
 ## Current-branch 500-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **470/500 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **480/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -585,6 +585,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 45 | N2-540, N2-541, N2-542, N2-543, N2-544, N2-545, N2-546, N2-547, N2-548, N2-549 | 10 |
 | 46 | N2-550, N2-551, N2-552, N2-553, N2-554, N2-555, N2-556, N2-557, N2-558, N2-559 | 10 |
 | 47 | N2-560, N2-561, N2-562, N2-563, N2-564, N2-565, N2-566, N2-567, N2-568, N2-569 | 10 |
+| 48 | N2-570, N2-571, N2-572, N2-573, N2-574, N2-575, N2-576, N2-577, N2-578, N2-579 | 10 |
 
 ## Maturity workflow
 
@@ -3967,3 +3968,13 @@ content and remain at `new` until editorial review.
 | N2-567 | [サークル](entries/1054/1054850-saakuru.org) | サークル | saakuru | 1054850 | learner | draft | **new** | Editorial review |
 | N2-568 | [材木](entries/1296/1296660-zaimoku.org) | ざいもく | zaimoku | 1296660 | learner | draft | **new** | Editorial review |
 | N2-569 | [座敷](entries/1291/1291990-zashiki.org) | ざしき | zashiki | 1291990 | learner | draft | **new** | Editorial review |
+| N2-570 | [雑音](entries/1299/1299280-zatsuon.org) | ざつおん | zatsuon | 1299280 | learner | draft | **new** | Editorial review |
+| N2-571 | [座布団](entries/1291/1291980-zabuton.org) | ざぶとん | zabuton | 1291980 | learner | draft | **new** | Editorial review |
+| N2-572 | [仕上がる](entries/1305/1305130-shiagaru.org) | しあがる | shiagaru | 1305130 | learner | draft | **new** | Editorial review |
+| N2-573 | [明々後日](entries/1594/1594050-shiasatte.org) | しあさって | shiasatte | 1594050 | learner | draft | **new** | Editorial review |
+| N2-574 | [塩辛い](entries/1609/1609860-shiokarai.org) | しおからい | shiokarai | 1609860 | learner | draft | **new** | Editorial review |
+| N2-575 | [司会](entries/1306/1306640-shikai.org) | しかい | shikai | 1306640 | learner | draft | **new** | Editorial review |
+| N2-576 | [四角](entries/1307/1307090-shikaku.org) | しかく | shikaku | 1307090 | learner | draft | **new** | Editorial review |
+| N2-577 | [四角い](entries/1307/1307100-shikakui.org) | しかくい | shikakui | 1307100 | learner | draft | **new** | Editorial review |
+| N2-578 | [四季](entries/1307/1307130-shiki.org) | しき | shiki | 1307130 | learner | draft | **new** | Editorial review |
+| N2-579 | [敷地](entries/1497/1497060-shikichi.org) | しきち | shikichi | 1497060 | learner | draft | **new** | Editorial review |
