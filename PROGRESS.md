@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2773 |
+| Canonical entry files | 2783 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1404 |
-| N3 queue rows covered | 1465 / 1677 (87.4%) |
+| Canonical N3 entries | 1414 |
+| N3 queue rows covered | 1475 / 1677 (88.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2736 |
+| `new` | 2746 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2763 |
+| Entry metadata still marked `draft` | 2773 |
 | Core profile | 163 |
-| Learner profile | 2609 |
+| Learner profile | 2619 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1465 rows covered (1404 distinct files) out of 1677.
-Coverage reaches N3-1467 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1475 rows covered (1414 distinct files) out of 1677.
+Coverage reaches N3-1477 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1468 (ボール).
+unchanged. The next untouched queue row is N3-1478 (真逆).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **210/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **220/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -232,6 +232,7 @@ as new entries. Editorial review remains pending.
 | 19 | N3-1435–1445 | 10 |
 | 20 | N3-1446–1457 | 10 |
 | 21 | N3-1458–1467 | 10 |
+| 22 | N3-1468–1477 | 10 |
 
 ## Maturity workflow
 
@@ -2836,3 +2837,13 @@ content and remain at `new` until editorial review.
 | N3-1465 | [呆んやり](entries/1011/1011920-bonyari.org) | ぼんやり | bonyari | 1011920 | learner | draft | **new** | Editorial review |
 | N3-1466 | [ボーイ](entries/1123/1123230-booi.org) | ボーイ | booi | 1123230 | learner | draft | **new** | Editorial review |
 | N3-1467 | [ボート](entries/1123/1123440-booto.org) | ボート | booto | 1123440 | learner | draft | **new** | Editorial review |
+| N3-1468 | [ボール](entries/1123/1123550-booru.org) | ボール | booru | 1123550 | learner | draft | **new** | Editorial review |
+| N3-1469 | [間](entries/1215/1215240-ma.org) | ま | ma | 1215240 | learner | draft | **new** | Editorial review |
+| N3-1470 | [まあ](entries/1012/1012050-maa.org) | まあ | maa | 1012050 | learner | draft | **new** | Editorial review |
+| N3-1471 | [マイク](entries/1126/1126590-maiku.org) | マイク | maiku | 1126590 | learner | draft | **new** | Editorial review |
+| N3-1472 | [迷子](entries/1532/1532750-maigo.org) | まいご | maigo | 1532750 | learner | draft | **new** | Editorial review |
+| N3-1473 | [任せる](entries/1467/1467150-makaseru.org) | まかせる | makaseru | 1467150 | learner | draft | **new** | Editorial review |
+| N3-1474 | [幕](entries/1524/1524750-maku.org) | まく | maku | 1524750 | learner | draft | **new** | Editorial review |
+| N3-1475 | [負け](entries/1497/1497960-make.org) | まけ | make | 1497960 | learner | draft | **new** | Editorial review |
+| N3-1476 | [誠に](entries/1381/1381160-makotoni.org) | まことに | makotoni | 1381160 | learner | draft | **new** | Editorial review |
+| N3-1477 | [孫](entries/1406/1406230-mago.org) | まご | mago | 1406230 | learner | draft | **new** | Editorial review |
