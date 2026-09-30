@@ -1,0 +1,271 @@
+#+TITLE: 掛け算
+#+JMDICT_ID: 1590080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かけざん
+#+ROMAJI: kakezan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1590080-001
+:PROPERTIES:
+:TEXT: 掛け算
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1590080-002
+:PROPERTIES:
+:TEXT: 掛算
+:END:
+** Written form wf-1590080-003
+:PROPERTIES:
+:TEXT: かけ算
+:END:
+** Reading rd-1590080-001
+:PROPERTIES:
+:TEXT: かけざん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1590080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 46e6373b0d8e318547a6de3dd476c38e8676f3acd881d7613100a7341aafaa6b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- multiplication
+** Ukrainian glosses
+*** uk-s-1590080-001-001
+:PROPERTIES:
+:END:
+- text :: множення
+** Learner notes
+*** note-s-1590080-001-001
+:PROPERTIES:
+:END:
+- UK :: Математична дія множення. 掛け算をする — множити; знак множення читають かける.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1590080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 掛け算を勉強します。
+- READING :: かけざんをべんきょうします。
+- UK :: Я вивчаю множення.
+- EN :: I study multiplication.
+- FOCUS :: 掛け算
+*** ex-1590080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この問題は掛け算で解けます。
+- READING :: このもんだいはかけざんでとけます。
+- UK :: Цю задачу можна розв’язати множенням.
+- EN :: This problem can be solved using multiplication.
+- FOCUS :: 掛け算
+*** ex-1590080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ数を何度も足す代わりに、掛け算を使うと早く計算できます。
+- READING :: おなじかずをなんどもたすかわりに、かけざんをつかうとはやくけいさんできます。
+- UK :: Замість багаторазового додавання того самого числа можна швидше обчислити результат за допомогою множення.
+- EN :: Using multiplication instead of repeatedly adding the same number makes calculation faster.
+- FOCUS :: 掛け算
+
+* Sense s-1590080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d361b79ce7ab7a7963f3b46f74b8d24126a5e51977cc82baff24af79129cbea8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vermenigvuldiging
+*** en-s-1590080-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multiplicatie
+** Ukrainian glosses
+
+* Sense s-1590080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0402c34b0d8ee49c8b041d5997b3ac2c3c736231671be5ff4e9caa0a1cc941f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multiplication
+** Ukrainian glosses
+
+* Sense s-1590080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cfb5a9dbdb3a16de5325e8d4404fd5eb1dca39d28778042d2a57cc366cbae7d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Multiplikation
+** Ukrainian glosses
+
+* Sense s-1590080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 66839dabbd8eba8b4b27dab33092de9baafa4b17d08bc4413e012dc84e372d56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szorzás
+** Ukrainian glosses
+
+* Sense s-1590080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6f5600e14f46f16b1dadc3bf1c3d88cf2e64ffd532388cdcc46bcb2739192e87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: умножение
+*** en-s-1590080-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: умножение
+*** en-s-1590080-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} умножать
+** Ukrainian glosses
+
+* Sense s-1590080-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 89aacb00bedd9796f3c85c4b6dd41b27bb244d333919d7d270a4d83d315041a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pomnožitev
+*** en-s-1590080-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: množenje {v matematiki}
+** Ukrainian glosses
+
+* Sense s-1590080-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 393f9f51c3761924e64d5164af9a170bf84763a3260bafc956cd6de7243abb11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multiplicación
+** Ukrainian glosses
+
+* Sense s-1590080-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 794bf53e7ad943c522b207d335679f93c6a613989769977eafe9c9da73783984
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590080-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multiplikation
+** Ukrainian glosses
