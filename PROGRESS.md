@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2993 |
+| Canonical entry files | 3003 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 21 |
+| Canonical N2 entries | 31 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 21 / 1635 (1.3%) |
+| N2 queue rows covered | 31 / 1635 (1.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2956 |
+| `new` | 2966 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2983 |
+| Entry metadata still marked `draft` | 2993 |
 | Core profile | 163 |
-| Learner profile | 2829 |
+| Learner profile | 2839 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -306,7 +306,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **430/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **440/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -359,6 +359,7 @@ Editorial review remains pending.
 | 41 | N3-1669, N3-1670, N3-1671, N3-1672, N3-1673, N3-1674, N3-1675, N3-1676, N3-1677, N2-1 | 10 |
 | 42 | N2-2, N2-3, N2-4, N2-5, N2-6, N2-7, N2-8, N2-9, N2-10, N2-11 | 10 |
 | 43 | N2-12, N2-13, N2-14, N2-15, N2-16, N2-17, N2-18, N2-19, N2-20, N2-21 | 10 |
+| 44 | N2-22, N2-23, N2-24, N2-25, N2-26, N2-27, N2-28, N2-29, N2-30, N2-31 | 10 |
 
 ## Maturity workflow
 
@@ -3194,3 +3195,13 @@ content and remain at `new` until editorial review.
 | N2-19 | [当てはまる](entries/1448/1448930-atehamaru.org) | あてはまる | atehamaru | 1448930 | learner | draft | **new** | Editorial review |
 | N2-20 | [当てはめる](entries/1586/1586530-atehameru.org) | あてはめる | atehameru | 1586530 | learner | draft | **new** | Editorial review |
 | N2-21 | [暴れる](entries/1519/1519340-abareru.org) | あばれる | abareru | 1519340 | learner | draft | **new** | Editorial review |
+| N2-22 | [溢れる](entries/1167/1167610-afureru.org) | あふれる | afureru | 1167610 | learner | draft | **new** | Editorial review |
+| N2-23 | [脂](entries/1311/1311750-abura.org) | あぶら | abura | 1311750 | learner | draft | **new** | Editorial review |
+| N2-24 | [炙る](entries/1568/1568910-aburu.org) | あぶる | aburu | 1568910 | learner | draft | **new** | Editorial review |
+| N2-25 | [雨戸](entries/1171/1171970-amado.org) | あまど | amado | 1171970 | learner | draft | **new** | Editorial review |
+| N2-26 | [甘やかす](entries/1213/1213470-amayakasu.org) | あまやかす | amayakasu | 1213470 | learner | draft | **new** | Editorial review |
+| N2-27 | [余る](entries/1543/1543910-amaru.org) | あまる | amaru | 1543910 | learner | draft | **new** | Editorial review |
+| N2-28 | [編み物](entries/1586/1586670-amimono.org) | あみもの | amimono | 1586670 | learner | draft | **new** | Editorial review |
+| N2-29 | [編む](entries/1511/1511950-amu.org) | あむ | amu | 1511950 | learner | draft | **new** | Editorial review |
+| N2-30 | [危うい](entries/1218/1218360-ayaui.org) | あやうい | ayaui | 1218360 | learner | draft | **new** | Editorial review |
+| N2-31 | [怪しい](entries/1586/1586700-ayashii.org) | あやしい | ayashii | 1586700 | learner | draft | **new** | Editorial review |
