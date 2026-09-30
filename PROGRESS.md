@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3323 |
+| Canonical entry files | 3333 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 351 |
+| Canonical N2 entries | 361 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 358 / 1635 (21.9%) |
+| N2 queue rows covered | 368 / 1635 (22.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3286 |
+| `new` | 3296 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3313 |
+| Entry metadata still marked `draft` | 3323 |
 | Core profile | 163 |
-| Learner profile | 3159 |
+| Learner profile | 3169 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **260/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **270/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -487,6 +487,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 24 | N2-330, N2-331, N2-332, N2-333, N2-334, N2-335, N2-336, N2-337, N2-338, N2-339 | 10 |
 | 25 | N2-340, N2-341, N2-342, N2-343, N2-344, N2-345, N2-346, N2-347, N2-348, N2-349 | 10 |
 | 26 | N2-350, N2-351, N2-352, N2-353, N2-354, N2-355, N2-356, N2-357, N2-358, N2-359 | 10 |
+| 27 | N2-360, N2-361, N2-362, N2-363, N2-364, N2-365, N2-366, N2-367, N2-368, N2-369 | 10 |
 
 ## Maturity workflow
 
@@ -3659,3 +3660,13 @@ content and remain at `new` until editorial review.
 | N2-357 | [斬る](entries/1304/1304400-kiru.org) | きる | kiru | 1304400 | learner | draft | **new** | Editorial review |
 | N2-358 | [気をつける](entries/1591/1591990-kiwotsukeru.org) | きをつける | kiwotsukeru | 1591990 | learner | draft | **new** | Editorial review |
 | N2-359 | [金魚](entries/1242/1242750-kingyo.org) | きんぎょ | kingyo | 1242750 | learner | draft | **new** | Editorial review |
+| N2-360 | [儀式](entries/1224/1224700-gishiki.org) | ぎしき | gishiki | 1224700 | learner | draft | **new** | Editorial review |
+| N2-361 | [ぎっしり](entries/1003/1003590-gisshiri.org) | ぎっしり | gisshiri | 1003590 | learner | draft | **new** | Editorial review |
+| N2-362 | [ギャング](entries/1043/1043150-gyangu.org) | ギャング | gyangu | 1043150 | learner | draft | **new** | Editorial review |
+| N2-363 | [行事](entries/1281/1281930-gyouji.org) | ぎょうじ | gyouji | 1281930 | learner | draft | **new** | Editorial review |
+| N2-364 | [行列](entries/1282/1282220-gyouretsu.org) | ぎょうれつ | gyouretsu | 1282220 | learner | draft | **new** | Editorial review |
+| N2-365 | [漁業](entries/1232/1232990-gyogyou.org) | ぎょぎょう | gyogyou | 1232990 | learner | draft | **new** | Editorial review |
+| N2-366 | [区域](entries/1244/1244090-kuiki.org) | くいき | kuiki | 1244090 | learner | draft | **new** | Editorial review |
+| N2-367 | [空想](entries/1245/1245730-kuusou.org) | くうそう | kuusou | 1245730 | learner | draft | **new** | Editorial review |
+| N2-368 | [空中](entries/1245/1245790-kuuchuu.org) | くうちゅう | kuuchuu | 1245790 | learner | draft | **new** | Editorial review |
+| N2-369 | [釘](entries/1436/1436840-kugi.org) | くぎ | kugi | 1436840 | learner | draft | **new** | Editorial review |
