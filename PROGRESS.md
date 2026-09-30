@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2583 |
+| Canonical entry files | 2593 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1214 |
-| N3 queue rows covered | 1269 / 1677 (75.7%) |
+| Canonical N3 entries | 1224 |
+| N3 queue rows covered | 1281 / 1677 (76.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2546 |
+| `new` | 2556 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2573 |
+| Entry metadata still marked `draft` | 2583 |
 | Core profile | 163 |
-| Learner profile | 2419 |
+| Learner profile | 2429 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1269 rows covered (1214 distinct files) out of 1677.
-Coverage reaches N3-1271 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1281 rows covered (1224 distinct files) out of 1677.
+Coverage reaches N3-1283 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1272 (計る).
+unchanged. The next untouched queue row is N3-1284 (旗).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -139,6 +139,22 @@ to twenty new words. Each was committed individually under Ihor with
 Ukrainian glosses and usage notes, plus 30 graded examples. Each entry
 passed JMdict validation, Org lint and doctor 100/100 with zero errors or
 warnings. Entries remain drafts pending editorial review.
+
+## Current-branch 100-word continuation (2026-09-30)
+
+Baseline: `f94d38a2` (merged PR #10). Completed **30/100 new words**
+on this branch in batches of ten, each word committed separately under Ihor.
+Content author is `codex`; every new English sense has an independently authored
+Ukrainian gloss and usage note, and each entry has three graded examples.
+All completed entries passed JMdict validation, Org lint and doctor 100/100
+with zero errors or warnings. Existing aliases are recorded without counting
+as new entries. Editorial review remains pending.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1251–1261 | 10 |
+| 2 | N3-1262–1271 | 10 |
+| 3 | N3-1272–1283 | 10 |
 
 ## Maturity workflow
 
@@ -2547,3 +2563,15 @@ content and remain at `new` until editorial review.
 | N3-1269 | [俳優](entries/1471/1471970-haiyuu.org) | はいゆう | haiyuu | 1471970 | learner | draft | **new** | Editorial review |
 | N3-1270 | [墓](entries/1514/1514840-haka.org) | はか | haka | 1514840 | learner | draft | **new** | Editorial review |
 | N3-1271 | [博士](entries/1474/1474620-hakase.org) | はかせ | hakase | 1474620 | learner | draft | **new** | Editorial review |
+| N3-1272 | [計る](entries/1600/1600650-hakaru.org) | はかる | hakaru | 1600650 | learner | draft | **new** | Editorial review |
+| N3-1273 | [計る](entries/1600/1600650-hakaru.org) | はかる | hakaru | 1600650 | learner | draft | **new** | Editorial review |
+| N3-1274 | [吐く](entries/2646/2646460-haku.org) | はく | haku | 2646460 | learner | draft | **new** | Editorial review |
+| N3-1275 | [履く](entries/1607/1607260-haku.org) | はく | haku | 1607260 | learner | draft | **new** | Editorial review |
+| N3-1276 | [拍手](entries/1474/1474820-hakushu.org) | はくしゅ | hakushu | 1474820 | learner | draft | **new** | Editorial review |
+| N3-1277 | [博物館](entries/1474/1474720-hakubutsukan.org) | はくぶつかん | hakubutsukan | 1474720 | learner | draft | **new** | Editorial review |
+| N3-1278 | [激しい](entries/1600/1600720-hageshii.org) | はげしい | hageshii | 1600720 | learner | draft | **new** | Editorial review |
+| N3-1279 | [鋏](entries/1573/1573820-hasami.org) | はさみ | hasami | 1573820 | learner | draft | **new** | Editorial review |
+| N3-1280 | [破産](entries/1471/1471330-hasan.org) | はさん | hasan | 1471330 | learner | draft | **new** | Editorial review |
+| N3-1281 | [端](entries/1581/1581610-hashi.org) | はし | hashi | 1581610 | learner | draft | **new** | Editorial review |
+| N3-1282 | [始まり](entries/1611/1611200-hajimari.org) | はじまり | hajimari | 1611200 | learner | draft | **new** | Editorial review |
+| N3-1283 | [外す](entries/1203/1203270-hazusu.org) | はずす | hazusu | 1203270 | learner | draft | **new** | Editorial review |
