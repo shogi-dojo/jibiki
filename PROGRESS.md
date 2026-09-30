@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3213 |
+| Canonical entry files | 3223 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 241 |
+| Canonical N2 entries | 251 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 247 / 1635 (15.1%) |
+| N2 queue rows covered | 257 / 1635 (15.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3176 |
+| `new` | 3186 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3203 |
+| Entry metadata still marked `draft` | 3213 |
 | Core profile | 163 |
-| Learner profile | 3049 |
+| Learner profile | 3059 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -407,7 +407,7 @@ All new entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 200-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **150/200 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **160/200 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -433,6 +433,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 13 | N2-218, N2-219, N2-220, N2-221, N2-222, N2-223, N2-224, N2-225, N2-226, N2-227 | 10 |
 | 14 | N2-228, N2-229, N2-230, N2-231, N2-232, N2-233, N2-234, N2-235, N2-236, N2-237 | 10 |
 | 15 | N2-238, N2-239, N2-240, N2-241, N2-242, N2-243, N2-244, N2-245, N2-246, N2-247, N2-248 | 10 |
+| 16 | N2-249, N2-250, N2-251, N2-252, N2-253, N2-254, N2-255, N2-256, N2-257, N2-258 | 10 |
 
 ## Maturity workflow
 
@@ -3494,3 +3495,13 @@ content and remain at `new` until editorial review.
 | N2-246 | [過剰](entries/1196/1196170-kajou.org) | かじょう | kajou | 1196170 | learner | draft | **new** | Editorial review |
 | N2-247 | [齧る](entries/1610/1610640-kajiru.org) | かじる | kajiru | 1610640 | learner | draft | **new** | Editorial review |
 | N2-248 | [カセット](entries/1037/1037400-kasetto.org) | カセット | kasetto | 1037400 | learner | draft | **new** | Editorial review |
+| N2-249 | [下線](entries/1185/1185640-kasen.org) | かせん | kasen | 1185640 | learner | draft | **new** | Editorial review |
+| N2-250 | [課税](entries/1195/1195790-kazei.org) | かぜい | kazei | 1195790 | learner | draft | **new** | Editorial review |
+| N2-251 | [加速](entries/1190/1190370-kasoku.org) | かそく | kasoku | 1190370 | learner | draft | **new** | Editorial review |
+| N2-252 | [加速度](entries/1190/1190390-kasokudo.org) | かそくど | kasokudo | 1190390 | learner | draft | **new** | Editorial review |
+| N2-253 | [片仮名](entries/1511/1511600-katakana.org) | カタカナ | katakana | 1511600 | learner | draft | **new** | Editorial review |
+| N2-254 | [片付く](entries/1511/1511770-katazuku.org) | かたづく | katazuku | 1511770 | learner | draft | **new** | Editorial review |
+| N2-255 | [塊](entries/1590/1590410-katamari.org) | かたまり | katamari | 1590410 | learner | draft | **new** | Editorial review |
+| N2-256 | [固まる](entries/1266/1266550-katamaru.org) | かたまる | katamaru | 1266550 | learner | draft | **new** | Editorial review |
+| N2-257 | [片道](entries/1511/1511760-katamichi.org) | かたみち | katamichi | 1511760 | learner | draft | **new** | Editorial review |
+| N2-258 | [傾く](entries/1578/1578210-katamuku.org) | かたむく | katamuku | 1578210 | learner | draft | **new** | Editorial review |
