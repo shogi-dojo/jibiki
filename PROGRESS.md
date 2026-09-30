@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3143 |
+| Canonical entry files | 3153 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 171 |
+| Canonical N2 entries | 181 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 175 / 1635 (10.7%) |
+| N2 queue rows covered | 186 / 1635 (11.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3106 |
+| `new` | 3116 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3133 |
+| Entry metadata still marked `draft` | 3143 |
 | Core profile | 163 |
-| Learner profile | 2979 |
+| Learner profile | 2989 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -378,7 +378,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **80/100 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **90/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -397,6 +397,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
 | 7 | N2-156, N2-157, N2-158, N2-159, N2-160, N2-161, N2-162, N2-163, N2-164, N2-165 | 10 |
 | 8 | N2-166, N2-167, N2-168, N2-169, N2-170, N2-171, N2-172, N2-173, N2-174, N2-175, N2-176 | 10 |
+| 9 | N2-177, N2-178, N2-179, N2-180, N2-181, N2-182, N2-183, N2-184, N2-185, N2-186, N2-187 | 10 |
 
 ## Maturity workflow
 
@@ -3386,3 +3387,14 @@ content and remain at `new` until editorial review.
 | N2-174 | [驚かす](entries/1238/1238650-odorokasu.org) | おどろかす | odorokasu | 1238650 | learner | draft | **new** | Editorial review |
 | N2-175 | [お願いします](entries/1001/1001720-onegaishimasu.org) | おねがいします | onegaishimasu | 1001720 | learner | draft | **new** | Editorial review |
 | N2-176 | [お早う](entries/1612/1612820-ohayou.org) | おはよう | ohayou | 1612820 | learner | draft | **new** | Editorial review |
+| N2-177 | [お参り](entries/1001/1001950-omairi.org) | おまいり | omairi | 1001950 | learner | draft | **new** | Editorial review |
+| N2-178 | [お待たせしました](entries/2149/2149640-omataseshimashita.org) | おまたせしました | omataseshimashita | 2149640 | learner | draft | **existing** | Editorial review |
+| N2-179 | [お待ちどおさま](entries/1002/1002360-omachidoosama.org) | おまちどおさま | omachidoosama | 1002360 | learner | draft | **new** | Editorial review |
+| N2-180 | [お目出度い](entries/1647/1647360-omedetai.org) | おめでたい | omedetai | 1647360 | learner | draft | **new** | Editorial review |
+| N2-181 | [思いがけない](entries/1610/1610630-omoigakenai.org) | おもいがけない | omoigakenai | 1610630 | learner | draft | **new** | Editorial review |
+| N2-182 | [思い込む](entries/1309/1309230-omoikomu.org) | おもいこむ | omoikomu | 1309230 | learner | draft | **new** | Editorial review |
+| N2-183 | [思いっきり](entries/1309/1309310-omoikkiri.org) | おもいっきり | omoikkiri | 1309310 | learner | draft | **new** | Editorial review |
+| N2-184 | [思いつく](entries/1589/1589330-omoitsuku.org) | おもいつく | omoitsuku | 1589330 | learner | draft | **new** | Editorial review |
+| N2-185 | [お休み](entries/1612/1612680-oyasumi.org) | おやすみ | oyasumi | 1612680 | learner | draft | **new** | Editorial review |
+| N2-186 | [お八つ](entries/1589/1589430-oyatsu.org) | おやつ | oyatsu | 1589430 | learner | draft | **new** | Editorial review |
+| N2-187 | [親指](entries/1365/1365190-oyayubi.org) | おやゆび | oyayubi | 1365190 | learner | draft | **new** | Editorial review |
