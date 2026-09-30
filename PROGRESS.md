@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3633 |
+| Canonical entry files | 3643 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 661 |
+| Canonical N2 entries | 671 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 668 / 1635 (40.9%) |
+| N2 queue rows covered | 678 / 1635 (41.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3596 |
+| `new` | 3606 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3623 |
+| Entry metadata still marked `draft` | 3633 |
 | Core profile | 163 |
-| Learner profile | 3469 |
+| Learner profile | 3479 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -602,7 +602,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 600-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **570/600 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **580/600 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -670,6 +670,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 55 | N2-640, N2-641, N2-642, N2-643, N2-644, N2-645, N2-646, N2-647, N2-648, N2-649 | 10 |
 | 56 | N2-650, N2-651, N2-652, N2-653, N2-654, N2-655, N2-656, N2-657, N2-658, N2-659 | 10 |
 | 57 | N2-660, N2-661, N2-662, N2-663, N2-664, N2-665, N2-666, N2-667, N2-668, N2-669 | 10 |
+| 58 | N2-670, N2-671, N2-672, N2-673, N2-674, N2-675, N2-676, N2-677, N2-678, N2-679 | 10 |
 
 ## Maturity workflow
 
@@ -4152,3 +4153,13 @@ content and remain at `new` until editorial review.
 | N2-667 | [素人](entries/1397/1397270-shirouto.org) | しろうと | shirouto | 1397270 | learner | draft | **new** | Editorial review |
 | N2-668 | [芯](entries/1595/1595120-shin.org) | しん | shin | 1595120 | learner | draft | **new** | Editorial review |
 | N2-669 | [新幹線](entries/1361/1361590-shinkansen.org) | しんかんせん | shinkansen | 1361590 | learner | draft | **new** | Editorial review |
+| N2-670 | [真空](entries/1363/1363600-shinkuu.org) | しんくう | shinkuu | 1363600 | learner | draft | **new** | Editorial review |
+| N2-671 | [心身](entries/1360/1360750-shinshin.org) | しんしん | shinshin | 1360750 | learner | draft | **new** | Editorial review |
+| N2-672 | [信ずる](entries/1359/1359070-shinzuru.org) | しんずる | shinzuru | 1359070 | learner | draft | **new** | Editorial review |
+| N2-673 | [申請](entries/1363/1363130-shinsei.org) | しんせい | shinsei | 1363130 | learner | draft | **new** | Editorial review |
+| N2-674 | [寝台](entries/1580/1580570-shindai.org) | しんだい | shindai | 1580570 | learner | draft | **new** | Editorial review |
+| N2-675 | [診断](entries/1365/1365480-shindan.org) | しんだん | shindan | 1365480 | learner | draft | **new** | Editorial review |
+| N2-676 | [侵入](entries/1359/1359850-shinnyuu.org) | しんにゅう | shinnyuu | 1359850 | learner | draft | **new** | Editorial review |
+| N2-677 | [深夜](entries/1362/1362810-shinya.org) | しんや | shinya | 1362810 | learner | draft | **new** | Editorial review |
+| N2-678 | [森林](entries/1362/1362530-shinrin.org) | しんりん | shinrin | 1362530 | learner | draft | **new** | Editorial review |
+| N2-679 | [親類](entries/1365/1365420-shinrui.org) | しんるい | shinrui | 1365420 | learner | draft | **new** | Editorial review |
