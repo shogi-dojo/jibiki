@@ -1,0 +1,281 @@
+#+TITLE: 片道
+#+JMDICT_ID: 1511760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かたみち
+#+ROMAJI: katamichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511760-001
+:PROPERTIES:
+:TEXT: 片道
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf19
+** Reading rd-1511760-001
+:PROPERTIES:
+:TEXT: かたみち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf19
+
+* Sense s-1511760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2c592e242761af0fa622832e6302b61da4b74da9127cc4e9a478eca35c6ece64
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- one-way (trip)
+** Ukrainian glosses
+*** uk-s-1511760-001-001
+:PROPERTIES:
+:END:
+- text :: дорога в один бік; поїздка в один бік
+** Learner notes
+*** note-s-1511760-001-001
+:PROPERTIES:
+:END:
+- UK :: На відміну від 往復 «туди й назад», охоплює лише один напрямок. 片道一時間 — година в один бік.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1511760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 片道で一時間です。
+- READING :: かたみちでいちじかんです。
+- UK :: Дорога в один бік займає годину.
+- EN :: It takes an hour one way.
+- FOCUS :: 片道
+*** ex-1511760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 学校までは片道三十分かかります。
+- READING :: がっこうまではかたみちさんじゅっぷんかかります。
+- UK :: До школи їхати тридцять хвилин в один бік.
+- EN :: It takes thirty minutes one way to school.
+- FOCUS :: 片道
+*** ex-1511760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 片道だけでも二時間かかるので、朝早く出発することにしました。
+- READING :: かたみちだけでもにじかんかかるので、あさはやくしゅっぱつすることにしました。
+- UK :: Лише дорога в один бік займає дві години, тому ми вирішили вирушити рано-вранці.
+- EN :: Since the journey takes two hours even one way, we decided to leave early in the morning.
+- FOCUS :: 片道
+
+* Sense s-1511760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1a968b87bc853fc413286699b94680ed867738d93f2588432a30a55da647b5cd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 片道切符・かたみちきっぷ
+** English glosses
+- one-way ticket
+** Ukrainian glosses
+*** uk-s-1511760-002-001
+:PROPERTIES:
+:END:
+- text :: квиток в один бік
+** Learner notes
+*** note-s-1511760-002-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від 片道切符, особливо під час купівлі квитків.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1511760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 05c025310cd98f2561eaf22e11e0301aab8a1851870dd252072d3ab6977a259e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: de weg heen
+*** en-s-1511760-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heenreis
+*** en-s-1511760-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (alleen) de heenreis
+** Ukrainian glosses
+
+* Sense s-1511760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1ed8a3ca75ed138f6f015c5a3a4fd13b9208a6e7f42ad61e0c949ec75485f1f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aller simple
+** Ukrainian glosses
+
+* Sense s-1511760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7d8596c49d7bc2fa658ec18caf652a01267806aca6ad58167fa3d66e345e6b3c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hinweg
+*** en-s-1511760-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Weg
+*** en-s-1511760-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einfache Fahrt
+*** en-s-1511760-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hinfahrt
+** Ukrainian glosses
+
+* Sense s-1511760-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 89f32e97d15959d0ce1fdfcc23a8c2553ac322c730654f71383a15bc2f6b11c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дорога в одну сторону
+** Ukrainian glosses
+
+* Sense s-1511760-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 70a237afec1f818ff0306730acf8c876e94ffb7e02ef95cf0f64547cf346e53b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: v eno smer (se peljati)
+*** en-s-1511760-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enosmerno (potovanje)
+** Ukrainian glosses
+
+* Sense s-1511760-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d092517cfb4b06840e7e80b6713eaaa5510a4d25469315bccb88f2a889a7bb0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511760-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viaje en un solo sentido
+*** en-s-1511760-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: un viaje
+** Ukrainian glosses
