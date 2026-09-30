@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2813 |
+| Canonical entry files | 2823 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1444 |
-| N3 queue rows covered | 1507 / 1677 (89.9%) |
+| Canonical N3 entries | 1454 |
+| N3 queue rows covered | 1518 / 1677 (90.5%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2776 |
+| `new` | 2786 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2803 |
+| Entry metadata still marked `draft` | 2813 |
 | Core profile | 163 |
-| Learner profile | 2649 |
+| Learner profile | 2659 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1507 rows covered (1444 distinct files) out of 1677.
-Coverage reaches N3-1509 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1518 rows covered (1454 distinct files) out of 1677.
+Coverage reaches N3-1520 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1510 (満ちる).
+unchanged. The next untouched queue row is N3-1521 (向い).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **250/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **260/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -236,6 +236,7 @@ as new entries. Editorial review remains pending.
 | 23 | N3-1478–1489 | 10 |
 | 24 | N3-1490–1499 | 10 |
 | 25 | N3-1500–1509 | 10 |
+| 26 | N3-1510–1520 | 10 |
 
 ## Maturity workflow
 
@@ -2882,3 +2883,14 @@ content and remain at `new` until editorial review.
 | N3-1507 | [味方](entries/1527/1527070-mikata.org) | みかた | mikata | 1527070 | learner | draft | **new** | Editorial review |
 | N3-1508 | [見事](entries/1259/1259620-migoto.org) | みごと | migoto | 1259620 | learner | draft | **new** | Editorial review |
 | N3-1509 | [ミス](entries/1130/1130650-misu.org) | ミス | misu | 1130650 | learner | draft | **new** | Editorial review |
+| N3-1510 | [満ちる](entries/1604/1604540-michiru.org) | みちる | michiru | 1604540 | learner | draft | **new** | Editorial review |
+| N3-1511 | [密](entries/2014/2014380-mitsu.org) | みつ | mitsu | 2014380 | learner | draft | **new** | Editorial review |
+| N3-1512 | [認める](entries/1467/1467530-mitomeru.org) | みとめる | mitomeru | 1467530 | learner | draft | **new** | Editorial review |
+| N3-1513 | [見舞い](entries/1604/1604690-mimai.org) | みまい | mimai | 1604690 | learner | draft | **new** | Editorial review |
+| N3-1514 | [土産](entries/1445/1445360-miyage.org) | みやげ | miyage | 1445360 | learner | draft | **new** | Editorial review |
+| N3-1515 | [都](entries/1444/1444950-miyako.org) | みやこ | miyako | 1444950 | learner | draft | **new** | Editorial review |
+| N3-1516 | [妙](entries/1528/1528490-myou.org) | みょう | myou | 1528490 | learner | draft | **new** | Editorial review |
+| N3-1517 | [未来](entries/1528/1528060-mirai.org) | みらい | mirai | 1528060 | learner | draft | **new** | Editorial review |
+| N3-1518 | [魅力](entries/1528/1528150-miryoku.org) | みりょく | miryoku | 1528150 | learner | draft | **new** | Editorial review |
+| N3-1519 | [ミルク](entries/1131/1131990-miruku.org) | ミルク | miruku | 1131990 | learner | draft | **new** | Editorial review |
+| N3-1520 | [無](entries/1956/1956960-mu.org) | む | mu | 1956960 | learner | draft | **new** | Editorial review |
