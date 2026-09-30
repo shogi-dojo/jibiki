@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3033 |
+| Canonical entry files | 3043 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 61 |
+| Canonical N2 entries | 71 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 61 / 1635 (3.7%) |
+| N2 queue rows covered | 73 / 1635 (4.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2996 |
+| `new` | 3006 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3023 |
+| Entry metadata still marked `draft` | 3033 |
 | Core profile | 163 |
-| Learner profile | 2869 |
+| Learner profile | 2879 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -156,6 +156,8 @@ individual word commits across 40 batches.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
 with zero errors or warnings. Existing aliases are recorded without counting
 as new entries. Editorial review remains pending.
+N2-69 佚（いつ）is deferred for a dedicated standalone-usage review;
+N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
@@ -306,7 +308,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **470/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **480/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -363,6 +365,7 @@ Editorial review remains pending.
 | 45 | N2-32, N2-33, N2-34, N2-35, N2-36, N2-37, N2-38, N2-39, N2-40, N2-41 | 10 |
 | 46 | N2-42, N2-43, N2-44, N2-45, N2-46, N2-47, N2-48, N2-49, N2-50, N2-51 | 10 |
 | 47 | N2-52, N2-53, N2-54, N2-55, N2-56, N2-57, N2-58, N2-59, N2-60, N2-61 | 10 |
+| 48 | N2-62, N2-63, N2-64, N2-65, N2-66, N2-67, N2-68, N2-70, N2-71, N2-72, N2-73, N2-74 | 10 |
 
 ## Maturity workflow
 
@@ -3238,3 +3241,15 @@ content and remain at `new` until editorial review.
 | N2-59 | [一々](entries/1587/1587320-ichiichi.org) | いちいち | ichiichi | 1587320 | learner | draft | **new** | Editorial review |
 | N2-60 | [一応](entries/1161/1161170-ichiou.org) | いちおう | ichiou | 1161170 | learner | draft | **new** | Editorial review |
 | N2-61 | [一段](entries/1164/1164690-ichidan.org) | いちだん | ichidan | 1164690 | learner | draft | **new** | Editorial review |
+| N2-62 | [一流](entries/1167/1167270-ichiryuu.org) | いちりゅう | ichiryuu | 1167270 | learner | draft | **new** | Editorial review |
+| N2-63 | [一昨昨日](entries/1576/1576030-issakusakujitsu.org) | いっさくさくじつ | issakusakujitsu | 1576030 | learner | draft | **new** | Editorial review |
+| N2-64 | [一斉](entries/1164/1164040-issei.org) | いっせい | issei | 1164040 | learner | draft | **new** | Editorial review |
+| N2-65 | [一旦](entries/1164/1164650-ittan.org) | いったん | ittan | 1164650 | learner | draft | **new** | Editorial review |
+| N2-66 | [一定](entries/1164/1164950-ittei.org) | いってい | ittei | 1164950 | learner | draft | **new** | Editorial review |
+| N2-67 | [行ってまいります](entries/2149/2149180-ittemairimasu.org) | いってまいります | ittemairimasu | 2149180 | learner | draft | **existing** | Editorial review |
+| N2-68 | [行ってらっしゃい](entries/2088/2088750-itterasshai.org) | いってらっしゃい | itterasshai | 2088750 | learner | draft | **existing** | Editorial review |
+| N2-70 | [いつの間にか](entries/1188/1188850-itsunomanika.org) | いつのまにか | itsunomanika | 1188850 | learner | draft | **new** | Editorial review |
+| N2-71 | [移転](entries/1158/1158390-iten.org) | いてん | iten | 1158390 | learner | draft | **new** | Editorial review |
+| N2-72 | [従姉妹](entries/1335/1335310-itoko.org) | いとこ | itoko | 1335310 | learner | draft | **new** | Editorial review |
+| N2-73 | [緯度](entries/1158/1158490-ido.org) | いど | ido | 1158490 | learner | draft | **new** | Editorial review |
+| N2-74 | [井戸](entries/1160/1160330-ido.org) | いど | ido | 1160330 | learner | draft | **new** | Editorial review |
