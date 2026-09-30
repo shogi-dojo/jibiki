@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2703 |
+| Canonical entry files | 2713 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1334 |
-| N3 queue rows covered | 1392 / 1677 (83.0%) |
+| Canonical N3 entries | 1344 |
+| N3 queue rows covered | 1402 / 1677 (83.6%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2666 |
+| `new` | 2676 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2693 |
+| Entry metadata still marked `draft` | 2703 |
 | Core profile | 163 |
-| Learner profile | 2539 |
+| Learner profile | 2549 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1392 rows covered (1334 distinct files) out of 1677.
-Coverage reaches N3-1394 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1402 rows covered (1344 distinct files) out of 1677.
+Coverage reaches N3-1404 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1395 (筆).
+unchanged. The next untouched queue row is N3-1405 (分).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **140/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **150/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -191,6 +191,7 @@ as new entries. Editorial review remains pending.
 | 12 | N3-1365–1374 | 10 |
 | 13 | N3-1375–1384 | 10 |
 | 14 | N3-1385–1394 | 10 |
+| 15 | N3-1395–1404 | 10 |
 
 ## Maturity workflow
 
@@ -2722,3 +2723,13 @@ content and remain at `new` until editorial review.
 | N3-1392 | [再び](entries/1292/1292300-futatabi.org) | ふたたび | futatabi | 1292300 | learner | draft | **new** | Editorial review |
 | N3-1393 | [普段](entries/1497/1497180-fudan.org) | ふだん | fudan | 1497180 | learner | draft | **new** | Editorial review |
 | N3-1394 | [縁](entries/1177/1177500-fuchi.org) | ふち | fuchi | 1177500 | learner | draft | **new** | Editorial review |
+| N3-1395 | [筆](entries/1487/1487770-fude.org) | ふで | fude | 1487770 | learner | draft | **new** | Editorial review |
+| N3-1396 | [不図](entries/1493/1493240-futo.org) | ふと | futo | 1493240 | learner | draft | **new** | Editorial review |
+| N3-1397 | [不平](entries/1494/1494790-fuhei.org) | ふへい | fuhei | 1494790 | learner | draft | **new** | Editorial review |
+| N3-1398 | [不満](entries/1494/1494970-fuman.org) | ふまん | fuman | 1494970 | learner | draft | **new** | Editorial review |
+| N3-1399 | [不利](entries/1495/1495220-furi.org) | ふり | furi | 1495220 | learner | draft | **new** | Editorial review |
+| N3-1400 | [振る](entries/1361/1361330-furu.org) | ふる | furu | 1361330 | learner | draft | **new** | Editorial review |
+| N3-1401 | [震える](entries/1366/1366310-furueru.org) | ふるえる | furueru | 1366310 | learner | draft | **new** | Editorial review |
+| N3-1402 | [故郷](entries/1603/1603050-furusato.org) | ふるさと | furusato | 1603050 | learner | draft | **new** | Editorial review |
+| N3-1403 | [触れる](entries/1357/1357990-fureru.org) | ふれる | fureru | 1357990 | learner | draft | **new** | Editorial review |
+| N3-1404 | [雰囲気](entries/1505/1505070-funiki.org) | ふんいき | funiki | 1505070 | learner | draft | **new** | Editorial review |
