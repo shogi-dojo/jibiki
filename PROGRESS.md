@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3133 |
+| Canonical entry files | 3143 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 161 |
+| Canonical N2 entries | 171 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 164 / 1635 (10.0%) |
+| N2 queue rows covered | 175 / 1635 (10.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3096 |
+| `new` | 3106 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3123 |
+| Entry metadata still marked `draft` | 3133 |
 | Core profile | 163 |
-| Learner profile | 2969 |
+| Learner profile | 2979 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -378,7 +378,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **70/100 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **80/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -396,6 +396,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
 | 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
 | 7 | N2-156, N2-157, N2-158, N2-159, N2-160, N2-161, N2-162, N2-163, N2-164, N2-165 | 10 |
+| 8 | N2-166, N2-167, N2-168, N2-169, N2-170, N2-171, N2-172, N2-173, N2-174, N2-175, N2-176 | 10 |
 
 ## Maturity workflow
 
@@ -3374,3 +3375,14 @@ content and remain at `new` until editorial review.
 | N2-163 | [お辞儀](entries/1002/1002030-ojigi.org) | おじぎ | ojigi | 1002030 | learner | draft | **new** | Editorial review |
 | N2-164 | [伯父さん](entries/2261/2261490-ojisan.org) | おじさん | ojisan | 2261490 | learner | draft | **new** | Editorial review |
 | N2-165 | [お邪魔します](entries/1002/1002050-ojamashimasu.org) | おじゃまします | ojamashimasu | 1002050 | learner | draft | **new** | Editorial review |
+| N2-166 | [教わる](entries/1236/1236940-osowaru.org) | おそわる | osowaru | 1236940 | learner | draft | **new** | Editorial review |
+| N2-167 | [お大事に](entries/1002/1002390-odaijini.org) | おだいじに | odaijini | 1002390 | learner | draft | **existing** | Editorial review |
+| N2-168 | [落ち着く](entries/1589/1589220-ochitsuku.org) | おちつく | ochitsuku | 1589220 | learner | draft | **new** | Editorial review |
+| N2-169 | [お手伝いさん](entries/1002/1002110-otetsudaisan.org) | おてつだいさん | otetsudaisan | 1002110 | learner | draft | **new** | Editorial review |
+| N2-170 | [お出かけ](entries/1338/1338475-odekake.org) | おでかけ | odekake | 1338475 | learner | draft | **new** | Editorial review |
+| N2-171 | [落し物](entries/1589/1589250-otoshimono.org) | おとしもの | otoshimono | 1589250 | learner | draft | **new** | Editorial review |
+| N2-172 | [大人しい](entries/1414/1414190-otonashii.org) | おとなしい | otonashii | 1414190 | learner | draft | **new** | Editorial review |
+| N2-173 | [脅かす](entries/1578/1578070-odokasu.org) | おどかす | odokasu | 1578070 | learner | draft | **new** | Editorial review |
+| N2-174 | [驚かす](entries/1238/1238650-odorokasu.org) | おどろかす | odorokasu | 1238650 | learner | draft | **new** | Editorial review |
+| N2-175 | [お願いします](entries/1001/1001720-onegaishimasu.org) | おねがいします | onegaishimasu | 1001720 | learner | draft | **new** | Editorial review |
+| N2-176 | [お早う](entries/1612/1612820-ohayou.org) | おはよう | ohayou | 1612820 | learner | draft | **new** | Editorial review |
