@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3743 |
+| Canonical entry files | 3753 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 771 |
+| Canonical N2 entries | 781 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 778 / 1635 (47.6%) |
+| N2 queue rows covered | 788 / 1635 (48.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3706 |
+| `new` | 3716 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3733 |
+| Entry metadata still marked `draft` | 3743 |
 | Core profile | 163 |
-| Learner profile | 3579 |
+| Learner profile | 3589 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -687,7 +687,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 700-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **680/700 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **690/700 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -766,6 +766,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 66 | N2-750, N2-751, N2-752, N2-753, N2-754, N2-755, N2-756, N2-757, N2-758, N2-759 | 10 |
 | 67 | N2-760, N2-761, N2-762, N2-763, N2-764, N2-765, N2-766, N2-767, N2-768, N2-769 | 10 |
 | 68 | N2-770, N2-771, N2-772, N2-773, N2-774, N2-775, N2-776, N2-777, N2-778, N2-779 | 10 |
+| 69 | N2-780, N2-781, N2-782, N2-783, N2-784, N2-785, N2-786, N2-787, N2-788, N2-789 | 10 |
 
 ## Maturity workflow
 
@@ -4358,3 +4359,13 @@ content and remain at `new` until editorial review.
 | N2-777 | [図鑑](entries/1370/1370370-zukan.org) | ずかん | zukan | 1370370 | learner | draft | **new** | Editorial review |
 | N2-778 | [図形](entries/1370/1370380-zukei.org) | ずけい | zukei | 1370380 | learner | draft | **new** | Editorial review |
 | N2-779 | [頭脳](entries/1450/1450900-zunou.org) | ずのう | zunou | 1450900 | learner | draft | **new** | Editorial review |
+| N2-780 | [図表](entries/1370/1370490-zuhyou.org) | ずひょう | zuhyou | 1370490 | learner | draft | **new** | Editorial review |
+| N2-781 | [ずらす](entries/1006/1006420-zurasu.org) | ずらす | zurasu | 1006420 | learner | draft | **new** | Editorial review |
+| N2-782 | [ずらり](entries/2008/2008600-zurari.org) | ずらり | zurari | 2008600 | learner | draft | **new** | Editorial review |
+| N2-783 | [狡い](entries/1569/1569240-zurui.org) | ずるい | zurui | 1569240 | learner | draft | **new** | Editorial review |
+| N2-784 | [姓](entries/1375/1375190-sei.org) | せい | sei | 1375190 | learner | draft | **new** | Editorial review |
+| N2-785 | [制作](entries/1374/1374810-seisaku.org) | せいさく | seisaku | 1374810 | learner | draft | **new** | Editorial review |
+| N2-786 | [製作](entries/1380/1380650-seisaku.org) | せいさく | seisaku | 1380650 | learner | draft | **new** | Editorial review |
+| N2-787 | [性質](entries/1375/1375390-seishitsu.org) | せいしつ | seishitsu | 1375390 | learner | draft | **new** | Editorial review |
+| N2-788 | [清書](entries/1378/1378240-seisho.org) | せいしょ | seisho | 1378240 | learner | draft | **new** | Editorial review |
+| N2-789 | [青少年](entries/1381/1381570-seishounen.org) | せいしょうねん | seishounen | 1381570 | learner | draft | **new** | Editorial review |
