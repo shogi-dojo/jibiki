@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2723 |
+| Canonical entry files | 2733 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1354 |
-| N3 queue rows covered | 1412 / 1677 (84.2%) |
+| Canonical N3 entries | 1364 |
+| N3 queue rows covered | 1422 / 1677 (84.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2686 |
+| `new` | 2696 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2713 |
+| Entry metadata still marked `draft` | 2723 |
 | Core profile | 163 |
-| Learner profile | 2559 |
+| Learner profile | 2569 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1412 rows covered (1354 distinct files) out of 1677.
-Coverage reaches N3-1414 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1422 rows covered (1364 distinct files) out of 1677.
+Coverage reaches N3-1424 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1415 (分).
+unchanged. The next untouched queue row is N3-1425 (平和).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **160/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **170/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -193,6 +193,7 @@ as new entries. Editorial review remains pending.
 | 14 | N3-1385–1394 | 10 |
 | 15 | N3-1395–1404 | 10 |
 | 16 | N3-1405–1414 | 10 |
+| 17 | N3-1415–1424 | 10 |
 
 ## Maturity workflow
 
@@ -2744,3 +2745,13 @@ content and remain at `new` until editorial review.
 | N3-1412 | [打つ](entries/1408/1408815-butsu.org) | ぶつ | butsu | 1408815 | learner | draft | **new** | Editorial review |
 | N3-1413 | [部分](entries/1499/1499490-bubun.org) | ぶぶん | bubun | 1499490 | learner | draft | **new** | Editorial review |
 | N3-1414 | [ブレーキ](entries/1114/1114640-bureeki.org) | ブレーキ | bureeki | 1114640 | learner | draft | **new** | Editorial review |
+| N3-1415 | [分](entries/1502/1502860-bun.org) | ぶん | bun | 1502860 | learner | draft | **new** | Editorial review |
+| N3-1416 | [文](entries/1505/1505090-bun.org) | ぶん | bun | 1505090 | learner | draft | **new** | Editorial review |
+| N3-1417 | [分析](entries/1503/1503870-bunseki.org) | ぶんせき | bunseki | 1503870 | learner | draft | **new** | Editorial review |
+| N3-1418 | [文明](entries/1505/1505650-bunmei.org) | ぶんめい | bunmei | 1505650 | learner | draft | **new** | Editorial review |
+| N3-1419 | [分野](entries/1504/1504330-bunya.org) | ぶんや | bunya | 1504330 | learner | draft | **new** | Editorial review |
+| N3-1420 | [プラス](entries/1115/1115630-purasu.org) | プラス | purasu | 1115630 | learner | draft | **new** | Editorial review |
+| N3-1421 | [プラン](entries/1115/1115900-puran.org) | プラン | puran | 1115900 | learner | draft | **new** | Editorial review |
+| N3-1422 | [プロ](entries/1117/1117030-puro.org) | プロ | puro | 1117030 | learner | draft | **new** | Editorial review |
+| N3-1423 | [塀](entries/1506/1506870-hei.org) | へい | hei | 1506870 | learner | draft | **new** | Editorial review |
+| N3-1424 | [平均](entries/1583/1583870-heikin.org) | へいきん | heikin | 1583870 | learner | draft | **new** | Editorial review |
