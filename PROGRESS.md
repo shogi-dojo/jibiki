@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3063 |
+| Canonical entry files | 3073 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 91 |
+| Canonical N2 entries | 101 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 93 / 1635 (5.7%) |
+| N2 queue rows covered | 103 / 1635 (6.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3026 |
+| `new` | 3036 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3053 |
+| Entry metadata still marked `draft` | 3063 |
 | Core profile | 163 |
-| Learner profile | 2899 |
+| Learner profile | 2909 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -375,6 +375,21 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 48 | N2-62, N2-63, N2-64, N2-65, N2-66, N2-67, N2-68, N2-70, N2-71, N2-72, N2-73, N2-74 | 10 |
 | 49 | N2-75, N2-76, N2-77, N2-78, N2-79, N2-80, N2-81, N2-82, N2-83, N2-84 | 10 |
 | 50 | N2-85, N2-86, N2-87, N2-88, N2-89, N2-90, N2-91, N2-92, N2-93, N2-94 | 10 |
+
+## Current-branch 100-word N2 continuation (2026-09-30)
+
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **10/100 new words**
+in batches of ten, one commit per word under Ihor. Content author is `codex`.
+Each English semantic sense has an original Ukrainian gloss and usage note;
+each entry has three graded examples. All added entries passed validation,
+Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
+Editorial review remains pending.
+N2-69 is deferred for a dedicated standalone-usage review.
+N2-67 and N2-68 are aliases of existing entries and are not counted as new.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-95, N2-96, N2-97, N2-98, N2-99, N2-100, N2-101, N2-102, N2-103, N2-104 | 10 |
 
 ## Maturity workflow
 
@@ -3282,3 +3297,13 @@ content and remain at `new` until editorial review.
 | N2-92 | [薄める](entries/1475/1475500-usumeru.org) | うすめる | usumeru | 1475500 | learner | draft | **new** | Editorial review |
 | N2-93 | [打ち合わせ](entries/1588/1588140-uchiawase.org) | うちあわせ | uchiawase | 1588140 | learner | draft | **new** | Editorial review |
 | N2-94 | [打ち消す](entries/1609/1609310-uchikesu.org) | うちけす | uchikesu | 1609310 | learner | draft | **new** | Editorial review |
+| N2-95 | [うっかり](entries/1001/1001010-ukkari.org) | うっかり | ukkari | 1001010 | learner | draft | **new** | Editorial review |
+| N2-96 | [映す](entries/1588/1588330-utsusu.org) | うつす | utsusu | 1588330 | learner | draft | **new** | Editorial review |
+| N2-97 | [映る](entries/1173/1173710-utsuru.org) | うつる | utsuru | 1173710 | learner | draft | **new** | Editorial review |
+| N2-98 | [写る](entries/1321/1321820-utsuru.org) | うつる | utsuru | 1321820 | learner | draft | **new** | Editorial review |
+| N2-99 | [饂飩](entries/1574/1574470-udon.org) | うどん | udon | 1574470 | learner | draft | **new** | Editorial review |
+| N2-100 | [有無](entries/1541/1541610-umu.org) | うむ | umu | 1541610 | learner | draft | **new** | Editorial review |
+| N2-101 | [埋める](entries/1524/1524500-umeru.org) | うめる | umeru | 1524500 | learner | draft | **new** | Editorial review |
+| N2-102 | [敬う](entries/1250/1250700-uyamau.org) | うやまう | uyamau | 1250700 | learner | draft | **new** | Editorial review |
+| N2-103 | [裏返す](entries/1550/1550630-uragaesu.org) | うらがえす | uragaesu | 1550630 | learner | draft | **new** | Editorial review |
+| N2-104 | [裏口](entries/1550/1550270-uraguchi.org) | うらぐち | uraguchi | 1550270 | learner | draft | **new** | Editorial review |
