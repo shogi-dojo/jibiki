@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3193 |
+| Canonical entry files | 3203 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 221 |
+| Canonical N2 entries | 231 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 226 / 1635 (13.8%) |
+| N2 queue rows covered | 236 / 1635 (14.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3156 |
+| `new` | 3166 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3183 |
+| Entry metadata still marked `draft` | 3193 |
 | Core profile | 163 |
-| Learner profile | 3029 |
+| Learner profile | 3039 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -407,7 +407,7 @@ All new entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 200-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **130/200 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **140/200 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -431,6 +431,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 11 | N2-198, N2-199, N2-200, N2-201, N2-202, N2-203, N2-204, N2-205, N2-206, N2-207 | 10 |
 | 12 | N2-208, N2-209, N2-210, N2-211, N2-212, N2-213, N2-214, N2-215, N2-216, N2-217 | 10 |
 | 13 | N2-218, N2-219, N2-220, N2-221, N2-222, N2-223, N2-224, N2-225, N2-226, N2-227 | 10 |
+| 14 | N2-228, N2-229, N2-230, N2-231, N2-232, N2-233, N2-234, N2-235, N2-236, N2-237 | 10 |
 
 ## Maturity workflow
 
@@ -3471,3 +3472,13 @@ content and remain at `new` until editorial review.
 | N2-225 | [各自](entries/1205/1205010-kakuji.org) | かくじ | kakuji | 1205010 | learner | draft | **new** | Editorial review |
 | N2-226 | [拡充](entries/1205/1205190-kakujuu.org) | かくじゅう | kakujuu | 1205190 | learner | draft | **new** | Editorial review |
 | N2-227 | [各地](entries/1205/1205100-kakuchi.org) | かくち | kakuchi | 1205100 | learner | draft | **new** | Editorial review |
+| N2-228 | [角度](entries/1206/1206190-kakudo.org) | かくど | kakudo | 1206190 | learner | draft | **new** | Editorial review |
+| N2-229 | [格別](entries/1205/1205490-kakubetsu.org) | かくべつ | kakubetsu | 1205490 | learner | draft | **new** | Editorial review |
+| N2-230 | [確率](entries/1205/1205950-kakuritsu.org) | かくりつ | kakuritsu | 1205950 | learner | draft | **new** | Editorial review |
+| N2-231 | [嗅ぐ](entries/1565/1565480-kagu.org) | かぐ | kagu | 1565480 | learner | draft | **new** | Editorial review |
+| N2-232 | [掛け算](entries/1590/1590080-kakezan.org) | かけざん | kakezan | 1590080 | learner | draft | **new** | Editorial review |
+| N2-233 | [可決](entries/1190/1190810-kaketsu.org) | かけつ | kaketsu | 1190810 | learner | draft | **new** | Editorial review |
+| N2-234 | [ｘ](entries/2197/2197150-batsu.org) | ばつ | batsu | 2197150 | learner | draft | **new** | Editorial review |
+| N2-235 | [火口](entries/1193/1193860-kakou.org) | かこう | kakou | 1193860 | learner | draft | **new** | Editorial review |
+| N2-236 | [下降](entries/1184/1184940-kakou.org) | かこう | kakou | 1184940 | learner | draft | **new** | Editorial review |
+| N2-237 | [重なる](entries/1335/1335800-kasanaru.org) | かさなる | kasanaru | 1335800 | learner | draft | **new** | Editorial review |
