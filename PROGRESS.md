@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2893 |
+| Canonical entry files | 2903 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1524 |
-| N3 queue rows covered | 1592 / 1677 (94.9%) |
+| Canonical N3 entries | 1534 |
+| N3 queue rows covered | 1605 / 1677 (95.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2856 |
+| `new` | 2866 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2883 |
+| Entry metadata still marked `draft` | 2893 |
 | Core profile | 163 |
-| Learner profile | 2729 |
+| Learner profile | 2739 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1592 rows covered (1588 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1594 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1605 rows covered (1601 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1607 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1595 (郵便).
+unchanged. The next untouched queue row is N3-1608 (容易).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **330/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **340/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -288,6 +288,7 @@ as new entries. Editorial review remains pending.
 | 31 | N3-1563–1573 | 10 |
 | 32 | N3-1574–1584 | 10 |
 | 33 | N3-1585–1594 | 10 |
+| 34 | N3-1595–1607 | 10 |
 
 ## Maturity workflow
 
@@ -3019,3 +3020,16 @@ content and remain at `new` until editorial review.
 | N3-1592 | [友情](entries/1540/1540130-yuujou.org) | ゆうじょう | yuujou | 1540130 | learner | draft | **new** | Editorial review |
 | N3-1593 | [友人](entries/1540/1540150-yuujin.org) | ゆうじん | yuujin | 1540150 | learner | draft | **new** | Editorial review |
 | N3-1594 | [有能](entries/1541/1541570-yuunou.org) | ゆうのう | yuunou | 1541570 | learner | draft | **new** | Editorial review |
+| N3-1595 | [郵便](entries/1605/1605680-yuubin.org) | ゆうびん | yuubin | 1605680 | learner | draft | **new** | Editorial review |
+| N3-1596 | [有利](entries/1605/1605720-yuuri.org) | ゆうり | yuuri | 1605720 | learner | draft | **new** | Editorial review |
+| N3-1597 | [床](entries/1349/1349380-yuka.org) | ゆか | yuka | 1349380 | learner | draft | **new** | Editorial review |
+| N3-1598 | [愉快](entries/1538/1538560-yukai.org) | ゆかい | yukai | 1538560 | learner | draft | **new** | Editorial review |
+| N3-1599 | [輸出](entries/1538/1538820-yushutsu.org) | ゆしゅつ | yushutsu | 1538820 | learner | draft | **new** | Editorial review |
+| N3-1600 | [譲る](entries/1357/1357030-yuzuru.org) | ゆずる | yuzuru | 1357030 | learner | draft | **new** | Editorial review |
+| N3-1601 | [豊か](entries/1518/1518130-yutaka.org) | ゆたか | yutaka | 1518130 | learner | draft | **new** | Editorial review |
+| N3-1602 | [輸入](entries/1538/1538870-yunyuu.org) | ゆにゅう | yunyuu | 1538870 | learner | draft | **new** | Editorial review |
+| N3-1603 | [許す](entries/1232/1232870-yurusu.org) | ゆるす | yurusu | 1232870 | learner | draft | **new** | Editorial review |
+| N3-1604 | [ユーモア](entries/1136/1136850-yuumoa.org) | ユーモア | yuumoa | 1136850 | learner | draft | **new** | Editorial review |
+| N3-1605 | [夜明け](entries/1537/1537150-yoake.org) | よあけ | yoake | 1537150 | learner | draft | **new** | Editorial review |
+| N3-1606 | [様](entries/1605/1605840-you.org) | よう | you | 1605840 | learner | draft | **new** | Editorial review |
+| N3-1607 | [酔う](entries/1372/1372650-you.org) | よう | you | 1372650 | learner | draft | **new** | Editorial review |
