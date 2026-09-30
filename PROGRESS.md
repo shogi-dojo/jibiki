@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2683 |
+| Canonical entry files | 2693 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1314 |
-| N3 queue rows covered | 1372 / 1677 (81.8%) |
+| Canonical N3 entries | 1324 |
+| N3 queue rows covered | 1382 / 1677 (82.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2646 |
+| `new` | 2656 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2673 |
+| Entry metadata still marked `draft` | 2683 |
 | Core profile | 163 |
-| Learner profile | 2519 |
+| Learner profile | 2529 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1372 rows covered (1314 distinct files) out of 1677.
-Coverage reaches N3-1374 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1382 rows covered (1324 distinct files) out of 1677.
+Coverage reaches N3-1384 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1375 (風景).
+unchanged. The next untouched queue row is N3-1385 (不自由).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **120/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **130/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -189,6 +189,7 @@ as new entries. Editorial review remains pending.
 | 10 | N3-1344–1353 | 10 |
 | 11 | N3-1354–1364 | 10 |
 | 12 | N3-1365–1374 | 10 |
+| 13 | N3-1375–1384 | 10 |
 
 ## Maturity workflow
 
@@ -2700,3 +2701,13 @@ content and remain at `new` until editorial review.
 | N3-1372 | [ピン](entries/1107/1107060-pin.org) | ピン | pin | 1107060 | learner | draft | **new** | Editorial review |
 | N3-1373 | [不](entries/1922/1922780-fu.org) | ふ | fu | 1922780 | learner | draft | **new** | Editorial review |
 | N3-1374 | [不安](entries/1491/1491150-fuan.org) | ふあん | fuan | 1491150 | learner | draft | **new** | Editorial review |
+| N3-1375 | [風景](entries/1499/1499830-fuukei.org) | ふうけい | fuukei | 1499830 | learner | draft | **new** | Editorial review |
+| N3-1376 | [夫婦](entries/1583/1583640-fuufu.org) | ふうふ | fuufu | 1583640 | learner | draft | **new** | Editorial review |
+| N3-1377 | [笛](entries/1437/1437310-fue.org) | ふえ | fue | 1437310 | learner | draft | **new** | Editorial review |
+| N3-1378 | [不可](entries/1491/1491370-fuka.org) | ふか | fuka | 1491370 | learner | draft | **new** | Editorial review |
+| N3-1379 | [服装](entries/1500/1500970-fukusou.org) | ふくそう | fukusou | 1500970 | learner | draft | **new** | Editorial review |
+| N3-1380 | [含む](entries/1216/1216880-fukumu.org) | ふくむ | fukumu | 1216880 | learner | draft | **new** | Editorial review |
+| N3-1381 | [袋](entries/1411/1411070-fukuro.org) | ふくろ | fukuro | 1411070 | learner | draft | **new** | Editorial review |
+| N3-1382 | [不幸](entries/1492/1492350-fukou.org) | ふこう | fukou | 1492350 | learner | draft | **new** | Editorial review |
+| N3-1383 | [節](entries/1386/1386160-fushi.org) | ふし | fushi | 1386160 | learner | draft | **new** | Editorial review |
+| N3-1384 | [不思議](entries/1492/1492570-fushigi.org) | ふしぎ | fushigi | 1492570 | learner | draft | **new** | Editorial review |
