@@ -1,0 +1,263 @@
+#+TITLE: 氏名
+#+JMDICT_ID: 1311060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しめい
+#+ROMAJI: shimei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1311060-001
+:PROPERTIES:
+:TEXT: 氏名
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1311060-001
+:PROPERTIES:
+:TEXT: しめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1311060-002
+:PROPERTIES:
+:TEXT: うじな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1311060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e650cfaffbd247b4b1394c894d8ae281d0d100cc60dcc7d4ed8b4f945a3e29ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (full) name
+- identity
+** Ukrainian glosses
+*** uk-s-1311060-001-001
+:PROPERTIES:
+:END:
+- text :: повне ім’я; прізвище та ім’я; особа
+** Learner notes
+*** note-s-1311060-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційне позначення імені людини, часто в документах. 氏名を記入する — вписувати прізвище та ім’я.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1311060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 氏名を書きます。
+- READING :: しめいをかきます。
+- UK :: Я пишу прізвище та ім’я.
+- EN :: I write my full name.
+- FOCUS :: 氏名
+*** ex-1311060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 用紙に氏名を記入しました。
+- READING :: ようしにしめいをきにゅうしました。
+- UK :: Я вписав прізвище та ім’я в бланк.
+- EN :: I entered my full name on the form.
+- FOCUS :: 氏名
+*** ex-1311060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 氏名の読み方を確認してから、名簿に加えました。
+- READING :: しめいのよみかたをかくにんしてから、めいぼにくわえました。
+- UK :: Перевіривши читання імені, я додав його до списку.
+- EN :: I checked how the name was read before adding it to the list.
+- FOCUS :: 氏名
+
+* Sense s-1311060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f3b0ea63960a3f9d6adc76bc258a0b7d38de7f3dd1a972f7fd9178c14ed8e9cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volledige naam
+*** en-s-1311060-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voor- en achternaam
+** Ukrainian glosses
+
+* Sense s-1311060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b062836caa4d24d130c1b242cffc5f7147914c284684fa7d0c3c1c435c34b5bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: identité
+*** en-s-1311060-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nom complet
+*** en-s-1311060-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nom et prénoms
+** Ukrainian glosses
+
+* Sense s-1311060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6e0c55e37909cf26bab2c4496cae5e53750d76cf25ac88f1eac4d1479e010c98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vor- und Zuname
+*** en-s-1311060-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Familienname und Vorname
+** Ukrainian glosses
+
+* Sense s-1311060-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1623a34313265933965f69da3faa6d117aafddea6128f8a0f518eb076fd5f8fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teljes név
+*** en-s-1311060-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: személyazonosság
+** Ukrainian glosses
+
+* Sense s-1311060-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 28fe7df83cbf60c4cfe9c426f3962022c43292f165938924c8324b73c2c6a91e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: фамилия и имя
+** Ukrainian glosses
+
+* Sense s-1311060-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7a32f496239ce14944006ee0a41f94085bf3f6300634e1528ff47dc7fac17247
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ime in priimek
+** Ukrainian glosses
+
+* Sense s-1311060-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8cfa13f10c52cdf3c53b766425ea441f0898409eef95527306b5435388ea4dfc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1311060-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre completo
+** Ukrainian glosses
