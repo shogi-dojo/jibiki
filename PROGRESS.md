@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2823 |
+| Canonical entry files | 2833 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1454 |
-| N3 queue rows covered | 1518 / 1677 (90.5%) |
+| Canonical N3 entries | 1464 |
+| N3 queue rows covered | 1528 / 1677 (91.1%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2786 |
+| `new` | 2796 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2813 |
+| Entry metadata still marked `draft` | 2823 |
 | Core profile | 163 |
-| Learner profile | 2659 |
+| Learner profile | 2669 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1518 rows covered (1454 distinct files) out of 1677.
-Coverage reaches N3-1520 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1528 rows covered (1464 distinct files) out of 1677.
+Coverage reaches N3-1530 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1521 (向い).
+unchanged. The next untouched queue row is N3-1531 (胸).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **260/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **270/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -237,6 +237,7 @@ as new entries. Editorial review remains pending.
 | 24 | N3-1490–1499 | 10 |
 | 25 | N3-1500–1509 | 10 |
 | 26 | N3-1510–1520 | 10 |
+| 27 | N3-1521–1530 | 10 |
 
 ## Maturity workflow
 
@@ -2894,3 +2895,13 @@ content and remain at `new` until editorial review.
 | N3-1518 | [魅力](entries/1528/1528150-miryoku.org) | みりょく | miryoku | 1528150 | learner | draft | **new** | Editorial review |
 | N3-1519 | [ミルク](entries/1131/1131990-miruku.org) | ミルク | miruku | 1131990 | learner | draft | **new** | Editorial review |
 | N3-1520 | [無](entries/1956/1956960-mu.org) | む | mu | 1956960 | learner | draft | **new** | Editorial review |
+| N3-1521 | [向かい](entries/1604/1604750-mukai.org) | むかい | mukai | 1604750 | learner | draft | **new** | Editorial review |
+| N3-1522 | [迎え](entries/1253/1253180-mukae.org) | むかえ | mukae | 1253180 | learner | draft | **new** | Editorial review |
+| N3-1523 | [向く](entries/1277/1277080-muku.org) | むく | muku | 1277080 | learner | draft | **new** | Editorial review |
+| N3-1524 | [向ける](entries/1277/1277100-mukeru.org) | むける | mukeru | 1277100 | learner | draft | **new** | Editorial review |
+| N3-1525 | [無視](entries/1530/1530020-mushi.org) | むし | mushi | 1530020 | learner | draft | **new** | Editorial review |
+| N3-1526 | [虫歯](entries/1604/1604850-mushiba.org) | むしば | mushiba | 1604850 | learner | draft | **new** | Editorial review |
+| N3-1527 | [寧ろ](entries/1604/1604870-mushiro.org) | むしろ | mushiro | 1604870 | learner | draft | **new** | Editorial review |
+| N3-1528 | [結ぶ](entries/1254/1254670-musubu.org) | むすぶ | musubu | 1254670 | learner | draft | **new** | Editorial review |
+| N3-1529 | [無駄](entries/1530/1530510-muda.org) | むだ | muda | 1530510 | learner | draft | **new** | Editorial review |
+| N3-1530 | [夢中](entries/1529/1529500-muchuu.org) | むちゅう | muchuu | 1529500 | learner | draft | **new** | Editorial review |
