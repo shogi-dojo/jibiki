@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3843 |
+| Canonical entry files | 3853 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 871 |
+| Canonical N2 entries | 881 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 878 / 1635 (53.7%) |
+| N2 queue rows covered | 888 / 1635 (54.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3806 |
+| `new` | 3816 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3833 |
+| Entry metadata still marked `draft` | 3843 |
 | Core profile | 163 |
-| Learner profile | 3679 |
+| Learner profile | 3689 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **780/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **790/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -871,6 +871,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 76 | N2-850, N2-851, N2-852, N2-853, N2-854, N2-855, N2-856, N2-857, N2-858, N2-859 | 10 |
 | 77 | N2-860, N2-861, N2-862, N2-863, N2-864, N2-865, N2-866, N2-867, N2-868, N2-869 | 10 |
 | 78 | N2-870, N2-871, N2-872, N2-873, N2-874, N2-875, N2-876, N2-877, N2-878, N2-879 | 10 |
+| 79 | N2-880, N2-881, N2-882, N2-883, N2-884, N2-885, N2-886, N2-887, N2-888, N2-889 | 10 |
 
 ## Maturity workflow
 
@@ -4563,3 +4564,13 @@ content and remain at `new` until editorial review.
 | N2-877 | [大して](entries/1412/1412970-taishite.org) | たいして | taishite | 1412970 | learner | draft | **new** | Editorial review |
 | N2-878 | [対照](entries/1410/1410080-taishou.org) | たいしょう | taishou | 1410080 | learner | draft | **new** | Editorial review |
 | N2-879 | [体制](entries/1409/1409550-taisei.org) | たいせい | taisei | 1409550 | learner | draft | **new** | Editorial review |
+| N2-880 | [体積](entries/1409/1409560-taiseki.org) | たいせき | taiseki | 1409560 | learner | draft | **new** | Editorial review |
+| N2-881 | [大層](entries/1414/1414380-taisou.org) | たいそう | taisou | 1414380 | learner | draft | **new** | Editorial review |
+| N2-882 | [体操](entries/1409/1409580-taisou.org) | たいそう | taisou | 1409580 | learner | draft | **new** | Editorial review |
+| N2-883 | [大木](entries/1415/1415090-taiboku.org) | たいぼく | taiboku | 1415090 | learner | draft | **new** | Editorial review |
+| N2-884 | [対立](entries/1410/1410290-tairitsu.org) | たいりつ | tairitsu | 1410290 | learner | draft | **new** | Editorial review |
+| N2-885 | [田植え](entries/1442/1442810-taue.org) | たうえ | taue | 1442810 | learner | draft | **new** | Editorial review |
+| N2-886 | [絶えず](entries/1386/1386700-taezu.org) | たえず | taezu | 1386700 | learner | draft | **new** | Editorial review |
+| N2-887 | [耐える](entries/1211/1211310-taeru.org) | たえる | taeru | 1211310 | learner | draft | **new** | Editorial review |
+| N2-888 | [高める](entries/1283/1283240-takameru.org) | たかめる | takameru | 1283240 | learner | draft | **new** | Editorial review |
+| N2-889 | [耕す](entries/1280/1280950-tagayasu.org) | たがやす | tagayasu | 1280950 | learner | draft | **new** | Editorial review |
