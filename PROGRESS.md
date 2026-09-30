@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2873 |
+| Canonical entry files | 2883 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1504 |
-| N3 queue rows covered | 1571 / 1677 (93.7%) |
+| Canonical N3 entries | 1514 |
+| N3 queue rows covered | 1582 / 1677 (94.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2836 |
+| `new` | 2846 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2863 |
+| Entry metadata still marked `draft` | 2873 |
 | Core profile | 163 |
-| Learner profile | 2709 |
+| Learner profile | 2719 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1571 rows covered (1567 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1573 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1582 rows covered (1578 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1584 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1574 (役).
+unchanged. The next untouched queue row is N3-1585 (辞める).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **310/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **320/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -286,6 +286,7 @@ as new entries. Editorial review remains pending.
 | 29 | N3-1541–1550 | 10 |
 | 30 | N3-1551–1562 | 10 |
 | 31 | N3-1563–1573 | 10 |
+| 32 | N3-1574–1584 | 10 |
 
 ## Maturity workflow
 
@@ -2996,3 +2997,14 @@ content and remain at `new` until editorial review.
 | N3-1571 | [貰う](entries/1535/1535910-morau.org) | もらう | morau | 1535910 | learner | draft | **new** | Editorial review |
 | N3-1572 | [文句](entries/1505/1505260-monku.org) | もんく | monku | 1505260 | learner | draft | **new** | Editorial review |
 | N3-1573 | [軈て](entries/1012/1012730-yagate.org) | やがて | yagate | 1012730 | learner | draft | **new** | Editorial review |
+| N3-1574 | [役](entries/1537/1537970-yaku.org) | やく | yaku | 1537970 | learner | draft | **new** | Editorial review |
+| N3-1575 | [約](entries/1538/1538100-yaku.org) | やく | yaku | 1538100 | learner | draft | **new** | Editorial review |
+| N3-1576 | [訳](entries/2057/2057030-yaku.org) | やく | yaku | 2057030 | learner | draft | **new** | Editorial review |
+| N3-1577 | [役割](entries/1538/1538000-yakuwari.org) | やくわり | yakuwari | 1538000 | learner | draft | **new** | Editorial review |
+| N3-1578 | [家賃](entries/1192/1192270-yachin.org) | やちん | yachin | 1192270 | learner | draft | **new** | Editorial review |
+| N3-1579 | [厄介](entries/1537/1537820-yakkai.org) | やっかい | yakkai | 1537820 | learner | draft | **new** | Editorial review |
+| N3-1580 | [雇う](entries/1605/1605570-yatou.org) | やとう | yatou | 1605570 | learner | draft | **new** | Editorial review |
+| N3-1581 | [宿](entries/1337/1337190-yado.org) | やど | yado | 1337190 | learner | draft | **new** | Editorial review |
+| N3-1582 | [屋根](entries/1182/1182700-yane.org) | やね | yane | 1182700 | learner | draft | **new** | Editorial review |
+| N3-1583 | [矢張り](entries/2772/2772770-yahari.org) | やはり | yahari | 2772770 | learner | draft | **new** | Editorial review |
+| N3-1584 | [破る](entries/1471/1471200-yaburu.org) | やぶる | yaburu | 1471200 | learner | draft | **new** | Editorial review |
