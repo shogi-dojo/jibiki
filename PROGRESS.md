@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3663 |
+| Canonical entry files | 3673 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 691 |
+| Canonical N2 entries | 701 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 698 / 1635 (42.7%) |
+| N2 queue rows covered | 708 / 1635 (43.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3626 |
+| `new` | 3636 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3653 |
+| Entry metadata still marked `draft` | 3663 |
 | Core profile | 163 |
-| Learner profile | 3499 |
+| Learner profile | 3509 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -684,6 +684,81 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 58 | N2-670–679 | 10 |
 | 59 | N2-680–689 | 10 |
 | 60 | N2-690–699 | 10 |
+
+## Current-branch 700-word N2 continuation (2026-10-01)
+
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **610/700 new words**
+in batches of ten, one commit per word under Ihor. Content author is `codex`.
+Each English semantic sense has an original Ukrainian gloss and usage note;
+each entry has three graded examples. All added entries passed validation,
+Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
+Editorial review remains pending.
+N2-69 is deferred for a dedicated standalone-usage review.
+Previously authored aliases remain excluded from the new-word count.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-95, N2-96, N2-97, N2-98, N2-99, N2-100, N2-101, N2-102, N2-103, N2-104 | 10 |
+| 2 | N2-105, N2-106, N2-107, N2-108, N2-109, N2-110, N2-111, N2-112, N2-113, N2-114 | 10 |
+| 3 | N2-115, N2-116, N2-117, N2-118, N2-119, N2-120, N2-121, N2-122, N2-123, N2-124 | 10 |
+| 4 | N2-125, N2-126, N2-127, N2-128, N2-129, N2-130, N2-131, N2-132, N2-133, N2-134 | 10 |
+| 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
+| 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
+| 7 | N2-156, N2-157, N2-158, N2-159, N2-160, N2-161, N2-162, N2-163, N2-164, N2-165 | 10 |
+| 8 | N2-166, N2-167, N2-168, N2-169, N2-170, N2-171, N2-172, N2-173, N2-174, N2-175, N2-176 | 10 |
+| 9 | N2-177, N2-178, N2-179, N2-180, N2-181, N2-182, N2-183, N2-184, N2-185, N2-186, N2-187 | 10 |
+| 10 | N2-188, N2-189, N2-190, N2-191, N2-192, N2-193, N2-194, N2-195, N2-196, N2-197 | 10 |
+| 11 | N2-198, N2-199, N2-200, N2-201, N2-202, N2-203, N2-204, N2-205, N2-206, N2-207 | 10 |
+| 12 | N2-208, N2-209, N2-210, N2-211, N2-212, N2-213, N2-214, N2-215, N2-216, N2-217 | 10 |
+| 13 | N2-218, N2-219, N2-220, N2-221, N2-222, N2-223, N2-224, N2-225, N2-226, N2-227 | 10 |
+| 14 | N2-228, N2-229, N2-230, N2-231, N2-232, N2-233, N2-234, N2-235, N2-236, N2-237 | 10 |
+| 15 | N2-238, N2-239, N2-240, N2-241, N2-242, N2-243, N2-244, N2-245, N2-246, N2-247, N2-248 | 10 |
+| 16 | N2-249, N2-250, N2-251, N2-252, N2-253, N2-254, N2-255, N2-256, N2-257, N2-258 | 10 |
+| 17 | N2-259, N2-260, N2-261, N2-262, N2-263, N2-264, N2-265, N2-266, N2-267, N2-268 | 10 |
+| 18 | N2-269, N2-270, N2-271, N2-272, N2-273, N2-274, N2-275, N2-276, N2-277, N2-278 | 10 |
+| 19 | N2-279, N2-280, N2-281, N2-282, N2-283, N2-284, N2-285, N2-286, N2-287, N2-288 | 10 |
+| 20 | N2-289, N2-290, N2-291, N2-292, N2-293, N2-294, N2-295, N2-296, N2-297, N2-298 | 10 |
+| 21 | N2-299, N2-300, N2-301, N2-302, N2-303, N2-304, N2-305, N2-306, N2-307, N2-308 | 10 |
+| 22 | N2-309, N2-310, N2-311, N2-312, N2-313, N2-314, N2-315, N2-316, N2-317, N2-318 | 10 |
+| 23 | N2-319, N2-320, N2-321, N2-322, N2-323, N2-324, N2-325, N2-326, N2-327, N2-328, N2-329 | 10 |
+| 24 | N2-330, N2-331, N2-332, N2-333, N2-334, N2-335, N2-336, N2-337, N2-338, N2-339 | 10 |
+| 25 | N2-340, N2-341, N2-342, N2-343, N2-344, N2-345, N2-346, N2-347, N2-348, N2-349 | 10 |
+| 26 | N2-350, N2-351, N2-352, N2-353, N2-354, N2-355, N2-356, N2-357, N2-358, N2-359 | 10 |
+| 27 | N2-360, N2-361, N2-362, N2-363, N2-364, N2-365, N2-366, N2-367, N2-368, N2-369 | 10 |
+| 28 | N2-370, N2-371, N2-372, N2-373, N2-374, N2-375, N2-376, N2-377, N2-378, N2-379 | 10 |
+| 29 | N2-380, N2-381, N2-382, N2-383, N2-384, N2-385, N2-386, N2-387, N2-388, N2-389 | 10 |
+| 30 | N2-390, N2-391, N2-392, N2-393, N2-394, N2-395, N2-396, N2-397, N2-398, N2-399 | 10 |
+| 31 | N2-400, N2-401, N2-402, N2-403, N2-404, N2-405, N2-406, N2-407, N2-408, N2-409 | 10 |
+| 32 | N2-410, N2-411, N2-412, N2-413, N2-414, N2-415, N2-416, N2-417, N2-418, N2-419 | 10 |
+| 33 | N2-420, N2-421, N2-422, N2-423, N2-424, N2-425, N2-426, N2-427, N2-428, N2-429 | 10 |
+| 34 | N2-430, N2-431, N2-432, N2-433, N2-434, N2-435, N2-436, N2-437, N2-438, N2-439 | 10 |
+| 35 | N2-440, N2-441, N2-442, N2-443, N2-444, N2-445, N2-446, N2-447, N2-448, N2-449 | 10 |
+| 36 | N2-450, N2-451, N2-452, N2-453, N2-454, N2-455, N2-456, N2-457, N2-458, N2-459 | 10 |
+| 37 | N2-460, N2-461, N2-462, N2-463, N2-464, N2-465, N2-466, N2-467, N2-468, N2-469 | 10 |
+| 38 | N2-470, N2-471, N2-472, N2-473, N2-474, N2-475, N2-476, N2-477, N2-478, N2-479 | 10 |
+| 39 | N2-480, N2-481, N2-482, N2-483, N2-484, N2-485, N2-486, N2-487, N2-488, N2-489 | 10 |
+| 40 | N2-490, N2-491, N2-492, N2-493, N2-494, N2-495, N2-496, N2-497, N2-498, N2-499 | 10 |
+| 41 | N2-500, N2-501, N2-502, N2-503, N2-504, N2-505, N2-506, N2-507, N2-508, N2-509 | 10 |
+| 42 | N2-510, N2-511, N2-512, N2-513, N2-514, N2-515, N2-516, N2-517, N2-518, N2-519 | 10 |
+| 43 | N2-520, N2-521, N2-522, N2-523, N2-524, N2-525, N2-526, N2-527, N2-528, N2-529 | 10 |
+| 44 | N2-530, N2-531, N2-532, N2-533, N2-534, N2-535, N2-536, N2-537, N2-538, N2-539 | 10 |
+| 45 | N2-540, N2-541, N2-542, N2-543, N2-544, N2-545, N2-546, N2-547, N2-548, N2-549 | 10 |
+| 46 | N2-550, N2-551, N2-552, N2-553, N2-554, N2-555, N2-556, N2-557, N2-558, N2-559 | 10 |
+| 47 | N2-560, N2-561, N2-562, N2-563, N2-564, N2-565, N2-566, N2-567, N2-568, N2-569 | 10 |
+| 48 | N2-570, N2-571, N2-572, N2-573, N2-574, N2-575, N2-576, N2-577, N2-578, N2-579 | 10 |
+| 49 | N2-580, N2-581, N2-582, N2-583, N2-584, N2-585, N2-586, N2-587, N2-588, N2-589 | 10 |
+| 50 | N2-590, N2-591, N2-592, N2-593, N2-594, N2-595, N2-596, N2-597, N2-598, N2-599 | 10 |
+| 51 | N2-600, N2-601, N2-602, N2-603, N2-604, N2-605, N2-606, N2-607, N2-608, N2-609 | 10 |
+| 52 | N2-610, N2-611, N2-612, N2-613, N2-614, N2-615, N2-616, N2-617, N2-618, N2-619 | 10 |
+| 53 | N2-620, N2-621, N2-622, N2-623, N2-624, N2-625, N2-626, N2-627, N2-628, N2-629 | 10 |
+| 54 | N2-630, N2-631, N2-632, N2-633, N2-634, N2-635, N2-636, N2-637, N2-638, N2-639 | 10 |
+| 55 | N2-640, N2-641, N2-642, N2-643, N2-644, N2-645, N2-646, N2-647, N2-648, N2-649 | 10 |
+| 56 | N2-650, N2-651, N2-652, N2-653, N2-654, N2-655, N2-656, N2-657, N2-658, N2-659 | 10 |
+| 57 | N2-660, N2-661, N2-662, N2-663, N2-664, N2-665, N2-666, N2-667, N2-668, N2-669 | 10 |
+| 58 | N2-670, N2-671, N2-672, N2-673, N2-674, N2-675, N2-676, N2-677, N2-678, N2-679 | 10 |
+| 59 | N2-680, N2-681, N2-682, N2-683, N2-684, N2-685, N2-686, N2-687, N2-688, N2-689 | 10 |
+| 60 | N2-690, N2-691, N2-692, N2-693, N2-694, N2-695, N2-696, N2-697, N2-698, N2-699 | 10 |
+| 61 | N2-700, N2-701, N2-702, N2-703, N2-704, N2-705, N2-706, N2-707, N2-708, N2-709 | 10 |
 
 ## Maturity workflow
 
@@ -4196,3 +4271,13 @@ content and remain at `new` until editorial review.
 | N2-697 | [実力](entries/1321/1321530-jitsuryoku.org) | じつりょく | jitsuryoku | 1321530 | learner | draft | **new** | Editorial review |
 | N2-698 | [実例](entries/1321/1321560-jitsurei.org) | じつれい | jitsurei | 1321560 | learner | draft | **new** | Editorial review |
 | N2-699 | [児童](entries/1315/1315060-jidou.org) | じどう | jidou | 1315060 | learner | draft | **new** | Editorial review |
+| N2-700 | [地盤](entries/1421/1421420-jiban.org) | じばん | jiban | 1421420 | learner | draft | **new** | Editorial review |
+| N2-701 | [地味](entries/1421/1421490-jimi.org) | じみ | jimi | 1421490 | learner | draft | **new** | Editorial review |
+| N2-702 | [弱点](entries/1324/1324870-jakuten.org) | じゃくてん | jakuten | 1324870 | learner | draft | **new** | Editorial review |
+| N2-703 | [蛇口](entries/1323/1323370-jaguchi.org) | じゃぐち | jaguchi | 1323370 | learner | draft | **new** | Editorial review |
+| N2-704 | [じゃん拳](entries/1005/1005970-janken.org) | じゃんけん | janken | 1005970 | learner | draft | **new** | Editorial review |
+| N2-705 | [ジャーナリスト](entries/1064/1064980-jaanarisuto.org) | ジャーナリスト | jaanarisuto | 1064980 | learner | draft | **new** | Editorial review |
+| N2-706 | [重体](entries/1595/1595360-juutai.org) | じゅうたい | juutai | 1595360 | learner | draft | **new** | Editorial review |
+| N2-707 | [絨毯](entries/1595/1595370-juutan.org) | じゅうたん | juutan | 1595370 | learner | draft | **new** | Editorial review |
+| N2-708 | [重点](entries/1336/1336570-juuten.org) | じゅうてん | juuten | 1336570 | learner | draft | **new** | Editorial review |
+| N2-709 | [重役](entries/1336/1336770-juuyaku.org) | じゅうやく | juuyaku | 1336770 | learner | draft | **new** | Editorial review |
