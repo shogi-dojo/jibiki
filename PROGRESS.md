@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2953 |
+| Canonical entry files | 2963 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1584 |
-| N3 queue rows covered | 1656 / 1677 (98.7%) |
+| Canonical N3 entries | 1594 |
+| N3 queue rows covered | 1666 / 1677 (99.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2916 |
+| `new` | 2926 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2943 |
+| Entry metadata still marked `draft` | 2953 |
 | Core profile | 163 |
-| Learner profile | 2789 |
+| Learner profile | 2799 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1656 rows covered (1652 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1658 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1666 rows covered (1662 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1668 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1659 (ロケット).
+unchanged. The next untouched queue row is N3-1669 (態と).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -148,6 +148,9 @@ Final audit verified 100 unique new JMdict entries, 100 individual word commits,
 278 English senses with Ukrainian glosses and notes, and 300 graded examples.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
+The completion audit verified 400 distinct new JMdict IDs, 1,001 English
+semantic senses with Ukrainian content, 1,200 graded examples, and 400
+individual word commits across 40 batches.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
 with zero errors or warnings. Existing aliases are recorded without counting
 as new entries. Editorial review remains pending.
@@ -243,12 +246,15 @@ as new entries. Editorial review remains pending.
 | 29 | N3-1541–1550 | 10 |
 | 30 | N3-1551–1562 | 10 |
 
-## Current-branch 400-word continuation (2026-09-30)
+## Completed current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **390/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **400/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
+The completion audit verified 400 distinct new JMdict IDs, 1,001 English
+semantic senses with Ukrainian content, 1,200 graded examples, and 400
+individual word commits across 40 batches.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
 with zero errors or warnings. Existing aliases are recorded without counting
 as new entries. Editorial review remains pending.
@@ -294,6 +300,7 @@ as new entries. Editorial review remains pending.
 | 37 | N3-1628–1638 | 10 |
 | 38 | N3-1639–1648 | 10 |
 | 39 | N3-1649–1658 | 10 |
+| 40 | N3-1659–1668 | 10 |
 
 ## Maturity workflow
 
@@ -3089,3 +3096,13 @@ content and remain at `new` until editorial review.
 | N3-1656 | [連続](entries/1559/1559610-renzoku.org) | れんぞく | renzoku | 1559610 | learner | draft | **new** | Editorial review |
 | N3-1657 | [老人](entries/1561/1561090-roujin.org) | ろうじん | roujin | 1561090 | learner | draft | **new** | Editorial review |
 | N3-1658 | [労働](entries/1606/1606450-roudou.org) | ろうどう | roudou | 1606450 | learner | draft | **new** | Editorial review |
+| N3-1659 | [ロケット](entries/1147/1147220-roketto.org) | ロケット | roketto | 1147220 | learner | draft | **new** | Editorial review |
+| N3-1660 | [論じる](entries/1561/1561620-ronjiru.org) | ろんじる | ronjiru | 1561620 | learner | draft | **new** | Editorial review |
+| N3-1661 | [論争](entries/1561/1561760-ronsou.org) | ろんそう | ronsou | 1561760 | learner | draft | **new** | Editorial review |
+| N3-1662 | [論文](entries/1561/1561840-ronbun.org) | ろんぶん | ronbun | 1561840 | learner | draft | **new** | Editorial review |
+| N3-1663 | [輪](entries/1555/1555710-wa.org) | わ | wa | 1555710 | learner | draft | **new** | Editorial review |
+| N3-1664 | [ワイン](entries/1148/1148850-wain.org) | ワイン | wain | 1148850 | learner | draft | **new** | Editorial review |
+| N3-1665 | [別れ](entries/1509/1509490-wakare.org) | わかれ | wakare | 1509490 | learner | draft | **new** | Editorial review |
+| N3-1666 | [我儘](entries/1197/1197020-wagamama.org) | わがまま | wagamama | 1197020 | learner | draft | **new** | Editorial review |
+| N3-1667 | [脇](entries/1562/1562530-waki.org) | わき | waki | 1562530 | learner | draft | **new** | Editorial review |
+| N3-1668 | [分ける](entries/1503/1503000-wakeru.org) | わける | wakeru | 1503000 | learner | draft | **new** | Editorial review |
