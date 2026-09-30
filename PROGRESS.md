@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3393 |
+| Canonical entry files | 3403 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 421 |
+| Canonical N2 entries | 431 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 428 / 1635 (26.2%) |
+| N2 queue rows covered | 438 / 1635 (26.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3356 |
+| `new` | 3366 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3383 |
+| Entry metadata still marked `draft` | 3393 |
 | Core profile | 163 |
-| Learner profile | 3229 |
+| Learner profile | 3239 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -468,7 +468,7 @@ All added entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **330/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **340/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -512,6 +512,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 31 | N2-400, N2-401, N2-402, N2-403, N2-404, N2-405, N2-406, N2-407, N2-408, N2-409 | 10 |
 | 32 | N2-410, N2-411, N2-412, N2-413, N2-414, N2-415, N2-416, N2-417, N2-418, N2-419 | 10 |
 | 33 | N2-420, N2-421, N2-422, N2-423, N2-424, N2-425, N2-426, N2-427, N2-428, N2-429 | 10 |
+| 34 | N2-430, N2-431, N2-432, N2-433, N2-434, N2-435, N2-436, N2-437, N2-438, N2-439 | 10 |
 
 ## Maturity workflow
 
@@ -3754,3 +3755,13 @@ content and remain at `new` until editorial review.
 | N2-427 | [外科](entries/1203/1203380-geka.org) | げか | geka | 1203380 | learner | draft | **new** | Editorial review |
 | N2-428 | [激増](entries/1253/1253690-gekizou.org) | げきぞう | gekizou | 1253690 | learner | draft | **new** | Editorial review |
 | N2-429 | [下車](entries/1185/1185170-gesha.org) | げしゃ | gesha | 1185170 | learner | draft | **new** | Editorial review |
+| N2-430 | [下水](entries/1185/1185510-gesui.org) | げすい | gesui | 1185510 | learner | draft | **new** | Editorial review |
+| N2-431 | [下駄](entries/1185/1185780-geta.org) | げた | geta | 1185780 | learner | draft | **new** | Editorial review |
+| N2-432 | [月給](entries/1255/1255560-gekkyuu.org) | げっきゅう | gekkyuu | 1255560 | learner | draft | **new** | Editorial review |
+| N2-433 | [下品](entries/1186/1186230-gehin.org) | げひん | gehin | 1186230 | learner | draft | **new** | Editorial review |
+| N2-434 | [原稿](entries/1261/1261340-genkou.org) | げんこう | genkou | 1261340 | learner | draft | **new** | Editorial review |
+| N2-435 | [原産](entries/1261/1261470-gensan.org) | げんさん | gensan | 1261470 | learner | draft | **new** | Editorial review |
+| N2-436 | [原始](entries/1261/1261500-genshi.org) | げんし | genshi | 1261500 | learner | draft | **new** | Editorial review |
+| N2-437 | [現に](entries/1263/1263500-genni.org) | げんに | genni | 1263500 | learner | draft | **new** | Editorial review |
+| N2-438 | [原理](entries/1262/1262460-genri.org) | げんり | genri | 1262460 | learner | draft | **new** | Editorial review |
+| N2-439 | [原料](entries/1262/1262490-genryou.org) | げんりょう | genryou | 1262490 | learner | draft | **new** | Editorial review |
