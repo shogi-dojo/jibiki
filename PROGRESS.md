@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3553 |
+| Canonical entry files | 3563 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 581 |
+| Canonical N2 entries | 591 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 588 / 1635 (36.0%) |
+| N2 queue rows covered | 598 / 1635 (36.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3516 |
+| `new` | 3526 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3543 |
+| Entry metadata still marked `draft` | 3553 |
 | Core profile | 163 |
-| Learner profile | 3389 |
+| Learner profile | 3399 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -527,7 +527,7 @@ at this checkpoint is N2-500 (紺). Work continues toward the approved 500-word 
 
 ## Current-branch 500-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **490/500 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **500/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -587,6 +587,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 47 | N2-560, N2-561, N2-562, N2-563, N2-564, N2-565, N2-566, N2-567, N2-568, N2-569 | 10 |
 | 48 | N2-570, N2-571, N2-572, N2-573, N2-574, N2-575, N2-576, N2-577, N2-578, N2-579 | 10 |
 | 49 | N2-580, N2-581, N2-582, N2-583, N2-584, N2-585, N2-586, N2-587, N2-588, N2-589 | 10 |
+| 50 | N2-590, N2-591, N2-592, N2-593, N2-594, N2-595, N2-596, N2-597, N2-598, N2-599 | 10 |
 
 ## Maturity workflow
 
@@ -3989,3 +3990,13 @@ content and remain at `new` until editorial review.
 | N2-587 | [自然科学](entries/1318/1318110-shizenkagaku.org) | しぜんかがく | shizenkagaku | 1318110 | learner | draft | **new** | Editorial review |
 | N2-588 | [子孫](entries/1307/1307990-shison.org) | しそん | shison | 1307990 | learner | draft | **new** | Editorial review |
 | N2-589 | [死体](entries/1310/1310920-shitai.org) | したい | shitai | 1310920 | learner | draft | **new** | Editorial review |
+| N2-590 | [下書き](entries/1185/1185370-shitagaki.org) | したがき | shitagaki | 1185370 | learner | draft | **new** | Editorial review |
+| N2-591 | [下町](entries/1185/1185940-shitamachi.org) | したまち | shitamachi | 1185940 | learner | draft | **new** | Editorial review |
+| N2-592 | [湿気](entries/1320/1320410-shikke.org) | しっけ | shikke | 1320410 | learner | draft | **new** | Editorial review |
+| N2-593 | [執筆](entries/1319/1319710-shippitsu.org) | しっぴつ | shippitsu | 1319710 | learner | draft | **new** | Editorial review |
+| N2-594 | [尻尾](entries/1358/1358800-shippo.org) | しっぽ | shippo | 1358800 | learner | draft | **new** | Editorial review |
+| N2-595 | [執拗い](entries/1005/1005550-shitsukoi.org) | しつこい | shitsukoi | 1005550 | learner | draft | **new** | Editorial review |
+| N2-596 | [湿度](entries/1320/1320490-shitsudo.org) | しつど | shitsudo | 1320490 | learner | draft | **new** | Editorial review |
+| N2-597 | [失恋](entries/1320/1320250-shitsuren.org) | しつれん | shitsuren | 1320250 | learner | draft | **new** | Editorial review |
+| N2-598 | [指定](entries/1309/1309910-shitei.org) | してい | shitei | 1309910 | learner | draft | **new** | Editorial review |
+| N2-599 | [私鉄](entries/1311/1311340-shitetsu.org) | してつ | shitetsu | 1311340 | learner | draft | **new** | Editorial review |
