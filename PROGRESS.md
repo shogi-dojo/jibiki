@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2633 |
+| Canonical entry files | 2643 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1264 |
-| N3 queue rows covered | 1321 / 1677 (78.8%) |
+| Canonical N3 entries | 1274 |
+| N3 queue rows covered | 1331 / 1677 (79.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2596 |
+| `new` | 2606 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2623 |
+| Entry metadata still marked `draft` | 2633 |
 | Core profile | 163 |
-| Learner profile | 2469 |
+| Learner profile | 2479 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1321 rows covered (1264 distinct files) out of 1677.
-Coverage reaches N3-1323 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1331 rows covered (1274 distinct files) out of 1677.
+Coverage reaches N3-1333 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1324 (バン).
+unchanged. The next untouched queue row is N3-1334 (轢く).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **70/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **80/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -159,6 +159,7 @@ as new entries. Editorial review remains pending.
 | 5 | N3-1294–1303 | 10 |
 | 6 | N3-1304–1313 | 10 |
 | 7 | N3-1314–1323 | 10 |
+| 8 | N3-1324–1333 | 10 |
 
 ## Maturity workflow
 
@@ -2619,3 +2620,13 @@ content and remain at `new` until editorial review.
 | N3-1321 | [罰する](entries/1478/1478080-bassuru.org) | ばっする | bassuru | 1478080 | learner | draft | **new** | Editorial review |
 | N3-1322 | [ばったり](entries/1632/1632430-battari.org) | ばったり | battari | 1632430 | learner | draft | **new** | Editorial review |
 | N3-1323 | [場面](entries/1355/1355910-bamen.org) | ばめん | bamen | 1355910 | learner | draft | **new** | Editorial review |
+| N3-1324 | [バン](entries/1100/1100090-ban.org) | バン | ban | 1100090 | learner | draft | **new** | Editorial review |
+| N3-1325 | [番](entries/2022/2022640-ban.org) | ばん | ban | 2022640 | learner | draft | **new** | Editorial review |
+| N3-1326 | [パイプ](entries/1101/1101120-paipu.org) | パイプ | paipu | 1101120 | learner | draft | **new** | Editorial review |
+| N3-1327 | [パイロット](entries/1101/1101260-pairotto.org) | パイロット | pairotto | 1101260 | learner | draft | **new** | Editorial review |
+| N3-1328 | [パス](entries/1101/1101440-pasu.org) | パス | pasu | 1101440 | learner | draft | **new** | Editorial review |
+| N3-1329 | [パスポート](entries/1101/1101510-pasupooto.org) | パスポート | pasupooto | 1101510 | learner | draft | **new** | Editorial review |
+| N3-1330 | [パーセント](entries/1100/1100610-paasento.org) | パーセント | paasento | 1100610 | learner | draft | **new** | Editorial review |
+| N3-1331 | [灯](entries/1582/1582290-hi.org) | ひ | hi | 1582290 | learner | draft | **new** | Editorial review |
+| N3-1332 | [比較](entries/1483/1483560-hikaku.org) | ひかく | hikaku | 1483560 | learner | draft | **new** | Editorial review |
+| N3-1333 | [被害](entries/1484/1484350-higai.org) | ひがい | higai | 1484350 | learner | draft | **new** | Editorial review |
