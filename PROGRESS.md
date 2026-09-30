@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2973 |
+| Canonical entry files | 2983 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1 |
+| Canonical N2 entries | 11 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1 / 1635 (0.1%) |
+| N2 queue rows covered | 11 / 1635 (0.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2936 |
+| `new` | 2946 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2963 |
+| Entry metadata still marked `draft` | 2973 |
 | Core profile | 163 |
-| Learner profile | 2809 |
+| Learner profile | 2819 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -306,7 +306,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **410/500 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **420/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -357,6 +357,7 @@ Editorial review remains pending.
 | 39 | N3-1649–1658 | 10 |
 | 40 | N3-1659–1668 | 10 |
 | 41 | N3-1669, N3-1670, N3-1671, N3-1672, N3-1673, N3-1674, N3-1675, N3-1676, N3-1677, N2-1 | 10 |
+| 42 | N2-2, N2-3, N2-4, N2-5, N2-6, N2-7, N2-8, N2-9, N2-10, N2-11 | 10 |
 
 ## Maturity workflow
 
@@ -3172,3 +3173,13 @@ content and remain at `new` until editorial review.
 | N3-1676 | [我々](entries/1607/1607050-wareware.org) | われわれ | wareware | 1607050 | learner | draft | **new** | Editorial review |
 | N3-1677 | [湾](entries/1562/1562800-wan.org) | わん | wan | 1562800 | learner | draft | **new** | Editorial review |
 | N2-1 | [相変わらず](entries/1401/1401310-aikawarazu.org) | あいかわらず | aikawarazu | 1401310 | learner | draft | **new** | Editorial review |
+| N2-2 | [アイデア](entries/1014/1014210-aidea.org) | アイデア | aidea | 1014210 | learner | draft | **new** | Editorial review |
+| N2-3 | [曖昧](entries/1567/1567920-aimai.org) | あいまい | aimai | 1567920 | learner | draft | **new** | Editorial review |
+| N2-4 | [扇ぐ](entries/1609/1609000-aogu.org) | あおぐ | aogu | 1609000 | learner | draft | **new** | Editorial review |
+| N2-5 | [青白い](entries/1381/1381760-aojiroi.org) | あおじろい | aojiroi | 1381760 | learner | draft | **new** | Editorial review |
+| N2-6 | [呆れる](entries/1515/1515580-akireru.org) | あきれる | akireru | 1515580 | learner | draft | **new** | Editorial review |
+| N2-7 | [アクセント](entries/1015/1015310-akusento.org) | アクセント | akusento | 1015310 | learner | draft | **new** | Editorial review |
+| N2-8 | [欠伸](entries/1254/1254010-akubi.org) | あくび | akubi | 1254010 | learner | draft | **new** | Editorial review |
+| N2-9 | [飽くまで](entries/1518/1518320-akumade.org) | あくまで | akumade | 1518320 | learner | draft | **new** | Editorial review |
+| N2-10 | [明け方](entries/1532/1532300-akegata.org) | あけがた | akegata | 1532300 | learner | draft | **new** | Editorial review |
+| N2-11 | [憧れる](entries/1453/1453810-akogareru.org) | あこがれる | akogareru | 1453810 | learner | draft | **new** | Editorial review |
