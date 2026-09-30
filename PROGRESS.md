@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3473 |
+| Canonical entry files | 3483 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 501 |
+| Canonical N2 entries | 511 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 508 / 1635 (31.1%) |
+| N2 queue rows covered | 518 / 1635 (31.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3436 |
+| `new` | 3446 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3463 |
+| Entry metadata still marked `draft` | 3473 |
 | Core profile | 163 |
-| Learner profile | 3309 |
+| Learner profile | 3319 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -527,7 +527,7 @@ at this checkpoint is N2-500 (紺). Work continues toward the approved 500-word 
 
 ## Current-branch 500-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **410/500 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **420/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -579,6 +579,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 39 | N2-480, N2-481, N2-482, N2-483, N2-484, N2-485, N2-486, N2-487, N2-488, N2-489 | 10 |
 | 40 | N2-490, N2-491, N2-492, N2-493, N2-494, N2-495, N2-496, N2-497, N2-498, N2-499 | 10 |
 | 41 | N2-500, N2-501, N2-502, N2-503, N2-504, N2-505, N2-506, N2-507, N2-508, N2-509 | 10 |
+| 42 | N2-510, N2-511, N2-512, N2-513, N2-514, N2-515, N2-516, N2-517, N2-518, N2-519 | 10 |
 
 ## Maturity workflow
 
@@ -3901,3 +3902,13 @@ content and remain at `new` until editorial review.
 | N2-507 | [コース](entries/1048/1048830-koosu.org) | コース | koosu | 1048830 | learner | draft | **new** | Editorial review |
 | N2-508 | [コーラス](entries/1049/1049340-koorasu.org) | コーラス | koorasu | 1049340 | learner | draft | **new** | Editorial review |
 | N2-509 | [碁](entries/1270/1270870-go.org) | ご | go | 1270870 | learner | draft | **new** | Editorial review |
+| N2-510 | [強引](entries/1236/1236170-gouin.org) | ごういん | gouin | 1236170 | learner | draft | **new** | Editorial review |
+| N2-511 | [合同](entries/1285/1285140-goudou.org) | ごうどう | goudou | 1285140 | learner | draft | **new** | Editorial review |
+| N2-512 | [合理](entries/1285/1285330-gouri.org) | ごうり | gouri | 1285330 | learner | draft | **new** | Editorial review |
+| N2-513 | [合流](entries/1285/1285390-gouryuu.org) | ごうりゅう | gouryuu | 1285390 | learner | draft | **new** | Editorial review |
+| N2-514 | [ご苦労様](entries/1005/1005030-gokurousama.org) | ごくろうさま | gokurousama | 1005030 | learner | draft | **new** | Editorial review |
+| N2-515 | [五十音](entries/1268/1268300-gojuuon.org) | ごじゅうおん | gojuuon | 1268300 | learner | draft | **new** | Editorial review |
+| N2-516 | [ご馳走様](entries/1270/1270520-gochisousama.org) | ごちそうさま | gochisousama | 1270520 | learner | draft | **new** | Editorial review |
+| N2-517 | [ご無沙汰](entries/1270/1270650-gobusata.org) | ごぶさた | gobusata | 1270650 | learner | draft | **new** | Editorial review |
+| N2-518 | [護謨](entries/1054/1054570-gomu.org) | ゴム | gomu | 1054570 | learner | draft | **new** | Editorial review |
+| N2-519 | [御免](entries/1270/1270670-gomen.org) | ごめん | gomen | 1270670 | learner | draft | **new** | Editorial review |
