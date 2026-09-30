@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2593 |
+| Canonical entry files | 2603 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1224 |
-| N3 queue rows covered | 1281 / 1677 (76.4%) |
+| Canonical N3 entries | 1234 |
+| N3 queue rows covered | 1291 / 1677 (77.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2556 |
+| `new` | 2566 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2583 |
+| Entry metadata still marked `draft` | 2593 |
 | Core profile | 163 |
-| Learner profile | 2429 |
+| Learner profile | 2439 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1281 rows covered (1224 distinct files) out of 1677.
-Coverage reaches N3-1283 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1291 rows covered (1234 distinct files) out of 1677.
+Coverage reaches N3-1293 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1284 (旗).
+unchanged. The next untouched queue row is N3-1294 (発表).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **30/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **40/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -155,6 +155,7 @@ as new entries. Editorial review remains pending.
 | 1 | N3-1251–1261 | 10 |
 | 2 | N3-1262–1271 | 10 |
 | 3 | N3-1272–1283 | 10 |
+| 4 | N3-1284–1293 | 10 |
 
 ## Maturity workflow
 
@@ -2575,3 +2576,13 @@ content and remain at `new` until editorial review.
 | N3-1281 | [端](entries/1581/1581610-hashi.org) | はし | hashi | 1581610 | learner | draft | **new** | Editorial review |
 | N3-1282 | [始まり](entries/1611/1611200-hajimari.org) | はじまり | hajimari | 1611200 | learner | draft | **new** | Editorial review |
 | N3-1283 | [外す](entries/1203/1203270-hazusu.org) | はずす | hazusu | 1203270 | learner | draft | **new** | Editorial review |
+| N3-1284 | [旗](entries/1220/1220240-hata.org) | はた | hata | 1220240 | learner | draft | **new** | Editorial review |
+| N3-1285 | [畑](entries/1476/1476520-hatake.org) | はたけ | hatake | 1476520 | learner | draft | **new** | Editorial review |
+| N3-1286 | [働き](entries/1451/1451040-hataraki.org) | はたらき | hataraki | 1451040 | learner | draft | **new** | Editorial review |
+| N3-1287 | [肌](entries/1476/1476450-hada.org) | はだ | hada | 1476450 | learner | draft | **new** | Editorial review |
+| N3-1288 | [裸](entries/1547/1547600-hadaka.org) | はだか | hadaka | 1547600 | learner | draft | **new** | Editorial review |
+| N3-1289 | [発見](entries/1477/1477310-hakken.org) | はっけん | hakken | 1477310 | learner | draft | **new** | Editorial review |
+| N3-1290 | [発行](entries/1477/1477390-hakkou.org) | はっこう | hakkou | 1477390 | learner | draft | **new** | Editorial review |
+| N3-1291 | [発車](entries/1477/1477500-hassha.org) | はっしゃ | hassha | 1477500 | learner | draft | **new** | Editorial review |
+| N3-1292 | [発達](entries/1477/1477680-hattatsu.org) | はったつ | hattatsu | 1477680 | learner | draft | **new** | Editorial review |
+| N3-1293 | [発展](entries/1477/1477720-hatten.org) | はってん | hatten | 1477720 | learner | draft | **new** | Editorial review |
