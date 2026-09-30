@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2743 |
+| Canonical entry files | 2753 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1374 |
-| N3 queue rows covered | 1432 / 1677 (85.4%) |
+| Canonical N3 entries | 1384 |
+| N3 queue rows covered | 1443 / 1677 (86.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2706 |
+| `new` | 2716 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2733 |
+| Entry metadata still marked `draft` | 2743 |
 | Core profile | 163 |
-| Learner profile | 2579 |
+| Learner profile | 2589 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1432 rows covered (1374 distinct files) out of 1677.
-Coverage reaches N3-1434 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1443 rows covered (1384 distinct files) out of 1677.
+Coverage reaches N3-1445 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1435 (方).
+unchanged. The next untouched queue row is N3-1446 (頬).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **180/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **190/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -195,6 +195,7 @@ as new entries. Editorial review remains pending.
 | 16 | N3-1405–1414 | 10 |
 | 17 | N3-1415–1424 | 10 |
 | 18 | N3-1425–1434 | 10 |
+| 19 | N3-1435–1445 | 10 |
 
 ## Maturity workflow
 
@@ -2766,3 +2767,14 @@ content and remain at `new` until editorial review.
 | N3-1432 | [ベンチ](entries/1120/1120280-benchi.org) | ベンチ | benchi | 1120280 | learner | draft | **new** | Editorial review |
 | N3-1433 | [弁当](entries/1513/1513060-bentou.org) | べんとう | bentou | 1513060 | learner | draft | **new** | Editorial review |
 | N3-1434 | [番瀝青](entries/1121/1121390-penki.org) | ペンキ | penki | 1121390 | learner | draft | **new** | Editorial review |
+| N3-1435 | [方](entries/1516/1516930-hou.org) | ほう | hou | 1516930 | learner | draft | **new** | Editorial review |
+| N3-1436 | [法](entries/1517/1517150-hou.org) | ほう | hou | 1517150 | learner | draft | **new** | Editorial review |
+| N3-1437 | [方向](entries/1516/1516990-houkou.org) | ほうこう | houkou | 1516990 | learner | draft | **new** | Editorial review |
+| N3-1438 | [報告](entries/1515/1515670-houkoku.org) | ほうこく | houkoku | 1515670 | learner | draft | **new** | Editorial review |
+| N3-1439 | [宝石](entries/1516/1516220-houseki.org) | ほうせき | houseki | 1516220 | learner | draft | **new** | Editorial review |
+| N3-1440 | [放送](entries/1516/1516750-housou.org) | ほうそう | housou | 1516750 | learner | draft | **new** | Editorial review |
+| N3-1441 | [豊富](entries/1518/1518180-houfu.org) | ほうふ | houfu | 1518180 | learner | draft | **new** | Editorial review |
+| N3-1442 | [方法](entries/1517/1517090-houhou.org) | ほうほう | houhou | 1517090 | learner | draft | **new** | Editorial review |
+| N3-1443 | [方々](entries/1584/1584105-houbou.org) | ほうぼう | houbou | 1584105 | learner | draft | **new** | Editorial review |
+| N3-1444 | [訪問](entries/1518/1518120-houmon.org) | ほうもん | houmon | 1518120 | learner | draft | **new** | Editorial review |
+| N3-1445 | [吠える](entries/1603/1603420-hoeru.org) | ほえる | hoeru | 1603420 | learner | draft | **new** | Editorial review |
