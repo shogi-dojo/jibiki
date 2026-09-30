@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2763 |
+| Canonical entry files | 2773 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1394 |
-| N3 queue rows covered | 1455 / 1677 (86.8%) |
+| Canonical N3 entries | 1404 |
+| N3 queue rows covered | 1465 / 1677 (87.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2726 |
+| `new` | 2736 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2753 |
+| Entry metadata still marked `draft` | 2763 |
 | Core profile | 163 |
-| Learner profile | 2599 |
+| Learner profile | 2609 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1455 rows covered (1394 distinct files) out of 1677.
-Coverage reaches N3-1457 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1465 rows covered (1404 distinct files) out of 1677.
+Coverage reaches N3-1467 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1458 (略).
+unchanged. The next untouched queue row is N3-1468 (ボール).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -198,6 +198,40 @@ as new entries. Editorial review remains pending.
 | 18 | N3-1425–1434 | 10 |
 | 19 | N3-1435–1445 | 10 |
 | 20 | N3-1446–1457 | 10 |
+
+## Current-branch 300-word continuation (2026-09-30)
+
+Baseline: `f94d38a2` (merged PR #10). Completed **210/300 new words**
+on this branch in batches of ten, each word committed separately under Ihor.
+Content author is `codex`; every new English sense has an independently authored
+Ukrainian gloss and usage note, and each entry has three graded examples.
+All completed entries passed JMdict validation, Org lint and doctor 100/100
+with zero errors or warnings. Existing aliases are recorded without counting
+as new entries. Editorial review remains pending.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1251–1261 | 10 |
+| 2 | N3-1262–1271 | 10 |
+| 3 | N3-1272–1283 | 10 |
+| 4 | N3-1284–1293 | 10 |
+| 5 | N3-1294–1303 | 10 |
+| 6 | N3-1304–1313 | 10 |
+| 7 | N3-1314–1323 | 10 |
+| 8 | N3-1324–1333 | 10 |
+| 9 | N3-1334–1343 | 10 |
+| 10 | N3-1344–1353 | 10 |
+| 11 | N3-1354–1364 | 10 |
+| 12 | N3-1365–1374 | 10 |
+| 13 | N3-1375–1384 | 10 |
+| 14 | N3-1385–1394 | 10 |
+| 15 | N3-1395–1404 | 10 |
+| 16 | N3-1405–1414 | 10 |
+| 17 | N3-1415–1424 | 10 |
+| 18 | N3-1425–1434 | 10 |
+| 19 | N3-1435–1445 | 10 |
+| 20 | N3-1446–1457 | 10 |
+| 21 | N3-1458–1467 | 10 |
 
 ## Maturity workflow
 
@@ -2792,3 +2826,13 @@ content and remain at `new` until editorial review.
 | N3-1455 | [骨](entries/1288/1288550-hone.org) | ほね | hone | 1288550 | learner | draft | **new** | Editorial review |
 | N3-1456 | [炎](entries/1177/1177070-honoo.org) | ほのお | honoo | 1177070 | learner | draft | **new** | Editorial review |
 | N3-1457 | [微笑む](entries/1486/1486030-hohoemu.org) | ほほえむ | hohoemu | 1486030 | learner | draft | **new** | Editorial review |
+| N3-1458 | [略](entries/1551/1551940-hobo.org) | ほぼ | hobo | 1551940 | learner | draft | **new** | Editorial review |
+| N3-1459 | [堀](entries/1522/1522060-hori.org) | ほり | hori | 1522060 | learner | draft | **new** | Editorial review |
+| N3-1460 | [本人](entries/1522/1522750-honnin.org) | ほんにん | honnin | 1522750 | learner | draft | **new** | Editorial review |
+| N3-1461 | [本物](entries/1523/1523180-honmono.org) | ほんもの | honmono | 1523180 | learner | draft | **new** | Editorial review |
+| N3-1462 | [ホーム](entries/1121/1121740-hoomu.org) | ホーム | hoomu | 1121740 | learner | draft | **new** | Editorial review |
+| N3-1463 | [棒](entries/1519/1519750-bou.org) | ぼう | bou | 1519750 | learner | draft | **new** | Editorial review |
+| N3-1464 | [冒険](entries/1519/1519830-bouken.org) | ぼうけん | bouken | 1519830 | learner | draft | **new** | Editorial review |
+| N3-1465 | [呆んやり](entries/1011/1011920-bonyari.org) | ぼんやり | bonyari | 1011920 | learner | draft | **new** | Editorial review |
+| N3-1466 | [ボーイ](entries/1123/1123230-booi.org) | ボーイ | booi | 1123230 | learner | draft | **new** | Editorial review |
+| N3-1467 | [ボート](entries/1123/1123440-booto.org) | ボート | booto | 1123440 | learner | draft | **new** | Editorial review |
