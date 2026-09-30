@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2833 |
+| Canonical entry files | 2843 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1464 |
-| N3 queue rows covered | 1528 / 1677 (91.1%) |
+| Canonical N3 entries | 1474 |
+| N3 queue rows covered | 1538 / 1677 (91.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2796 |
+| `new` | 2806 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2823 |
+| Entry metadata still marked `draft` | 2833 |
 | Core profile | 163 |
-| Learner profile | 2669 |
+| Learner profile | 2679 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1528 rows covered (1464 distinct files) out of 1677.
-Coverage reaches N3-1530 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1538 rows covered (1474 distinct files) out of 1677.
+Coverage reaches N3-1540 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1531 (胸).
+unchanged. The next untouched queue row is N3-1541 (メモ).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **270/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **280/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -238,6 +238,7 @@ as new entries. Editorial review remains pending.
 | 25 | N3-1500–1509 | 10 |
 | 26 | N3-1510–1520 | 10 |
 | 27 | N3-1521–1530 | 10 |
+| 28 | N3-1531–1540 | 10 |
 
 ## Maturity workflow
 
@@ -2905,3 +2906,13 @@ content and remain at `new` until editorial review.
 | N3-1528 | [結ぶ](entries/1254/1254670-musubu.org) | むすぶ | musubu | 1254670 | learner | draft | **new** | Editorial review |
 | N3-1529 | [無駄](entries/1530/1530510-muda.org) | むだ | muda | 1530510 | learner | draft | **new** | Editorial review |
 | N3-1530 | [夢中](entries/1529/1529500-muchuu.org) | むちゅう | muchuu | 1529500 | learner | draft | **new** | Editorial review |
+| N3-1531 | [胸](entries/1237/1237820-mune.org) | むね | mune | 1237820 | learner | draft | **new** | Editorial review |
+| N3-1532 | [無料](entries/1531/1531040-muryou.org) | むりょう | muryou | 1531040 | learner | draft | **new** | Editorial review |
+| N3-1533 | [芽](entries/1197/1197710-me.org) | め | me | 1197710 | learner | draft | **new** | Editorial review |
+| N3-1534 | [明確](entries/1532/1532410-meikaku.org) | めいかく | meikaku | 1532410 | learner | draft | **new** | Editorial review |
+| N3-1535 | [命じる](entries/1531/1531950-meijiru.org) | めいじる | meijiru | 1531950 | learner | draft | **new** | Editorial review |
+| N3-1536 | [名人](entries/1531/1531680-meijin.org) | めいじん | meijin | 1531680 | learner | draft | **new** | Editorial review |
+| N3-1537 | [命令](entries/1532/1532160-meirei.org) | めいれい | meirei | 1532160 | learner | draft | **new** | Editorial review |
+| N3-1538 | [迷惑](entries/1532/1532800-meiwaku.org) | めいわく | meiwaku | 1532800 | learner | draft | **new** | Editorial review |
+| N3-1539 | [飯](entries/1482/1482010-meshi.org) | めし | meshi | 1482010 | learner | draft | **new** | Editorial review |
+| N3-1540 | [滅多に](entries/1612/1612000-mettani.org) | めったに | mettani | 1612000 | learner | draft | **new** | Editorial review |
