@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2643 |
+| Canonical entry files | 2653 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1274 |
-| N3 queue rows covered | 1331 / 1677 (79.4%) |
+| Canonical N3 entries | 1284 |
+| N3 queue rows covered | 1341 / 1677 (80.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2606 |
+| `new` | 2616 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2633 |
+| Entry metadata still marked `draft` | 2643 |
 | Core profile | 163 |
-| Learner profile | 2479 |
+| Learner profile | 2489 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1331 rows covered (1274 distinct files) out of 1677.
-Coverage reaches N3-1333 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1341 rows covered (1284 distinct files) out of 1677.
+Coverage reaches N3-1343 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1334 (轢く).
+unchanged. The next untouched queue row is N3-1344 (一言).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **80/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **90/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -160,6 +160,7 @@ as new entries. Editorial review remains pending.
 | 6 | N3-1304–1313 | 10 |
 | 7 | N3-1314–1323 | 10 |
 | 8 | N3-1324–1333 | 10 |
+| 9 | N3-1334–1343 | 10 |
 
 ## Maturity workflow
 
@@ -2630,3 +2631,13 @@ content and remain at `new` until editorial review.
 | N3-1331 | [灯](entries/1582/1582290-hi.org) | ひ | hi | 1582290 | learner | draft | **new** | Editorial review |
 | N3-1332 | [比較](entries/1483/1483560-hikaku.org) | ひかく | hikaku | 1483560 | learner | draft | **new** | Editorial review |
 | N3-1333 | [被害](entries/1484/1484350-higai.org) | ひがい | higai | 1484350 | learner | draft | **new** | Editorial review |
+| N3-1334 | [轢く](entries/1612/1612920-hiku.org) | ひく | hiku | 1612920 | learner | draft | **new** | Editorial review |
+| N3-1335 | [悲劇](entries/1483/1483280-higeki.org) | ひげき | higeki | 1483280 | learner | draft | **new** | Editorial review |
+| N3-1336 | [飛行](entries/1485/1485450-hikou.org) | ひこう | hikou | 1485450 | learner | draft | **new** | Editorial review |
+| N3-1337 | [膝](entries/1487/1487320-hiza.org) | ひざ | hiza | 1487320 | learner | draft | **new** | Editorial review |
+| N3-1338 | [非常](entries/1484/1484920-hijou.org) | ひじょう | hijou | 1484920 | learner | draft | **new** | Editorial review |
+| N3-1339 | [額](entries/1207/1207510-hitai.org) | ひたい | hitai | 1207510 | learner | draft | **new** | Editorial review |
+| N3-1340 | [必死](entries/1601/1601890-hisshi.org) | ひっし | hisshi | 1601890 | learner | draft | **new** | Editorial review |
+| N3-1341 | [引っ張る](entries/1601/1601900-hipparu.org) | ひっぱる | hipparu | 1601900 | learner | draft | **new** | Editorial review |
+| N3-1342 | [日付](entries/1464/1464340-hizuke.org) | ひづけ | hizuke | 1464340 | learner | draft | **new** | Editorial review |
+| N3-1343 | [否定](entries/1482/1482990-hitei.org) | ひてい | hitei | 1482990 | learner | draft | **new** | Editorial review |
