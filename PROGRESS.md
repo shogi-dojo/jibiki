@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3513 |
+| Canonical entry files | 3523 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 541 |
+| Canonical N2 entries | 551 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 548 / 1635 (33.5%) |
+| N2 queue rows covered | 558 / 1635 (34.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3476 |
+| `new` | 3486 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3503 |
+| Entry metadata still marked `draft` | 3513 |
 | Core profile | 163 |
-| Learner profile | 3349 |
+| Learner profile | 3359 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -527,7 +527,7 @@ at this checkpoint is N2-500 (紺). Work continues toward the approved 500-word 
 
 ## Current-branch 500-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **450/500 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **460/500 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -583,6 +583,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 43 | N2-520, N2-521, N2-522, N2-523, N2-524, N2-525, N2-526, N2-527, N2-528, N2-529 | 10 |
 | 44 | N2-530, N2-531, N2-532, N2-533, N2-534, N2-535, N2-536, N2-537, N2-538, N2-539 | 10 |
 | 45 | N2-540, N2-541, N2-542, N2-543, N2-544, N2-545, N2-546, N2-547, N2-548, N2-549 | 10 |
+| 46 | N2-550, N2-551, N2-552, N2-553, N2-554, N2-555, N2-556, N2-557, N2-558, N2-559 | 10 |
 
 ## Maturity workflow
 
@@ -3945,3 +3946,13 @@ content and remain at `new` until editorial review.
 | N2-547 | [刺す](entries/1306/1306470-sasu.org) | さす | sasu | 1306470 | learner | draft | **new** | Editorial review |
 | N2-548 | [挿す](entries/1399/1399830-sasu.org) | さす | sasu | 1399830 | learner | draft | **new** | Editorial review |
 | N2-549 | [流石](entries/1552/1552390-sasuga.org) | さすが | sasuga | 1552390 | learner | draft | **new** | Editorial review |
+| N2-550 | [早速](entries/1400/1400300-sassoku.org) | さっそく | sassoku | 1400300 | learner | draft | **new** | Editorial review |
+| N2-551 | [撮影](entries/1298/1298800-satsuei.org) | さつえい | satsuei | 1298800 | learner | draft | **new** | Editorial review |
+| N2-552 | [錆](entries/1593/1593820-sabi.org) | さび | sabi | 1593820 | learner | draft | **new** | Editorial review |
+| N2-553 | [錆びる](entries/1299/1299640-sabiru.org) | さびる | sabiru | 1299640 | learner | draft | **new** | Editorial review |
+| N2-554 | [冷ます](entries/1556/1556740-samasu.org) | さます | samasu | 1556740 | learner | draft | **new** | Editorial review |
+| N2-555 | [妨げる](entries/1519/1519120-samatageru.org) | さまたげる | samatageru | 1519120 | learner | draft | **new** | Editorial review |
+| N2-556 | [冷める](entries/1556/1556750-sameru.org) | さめる | sameru | 1556750 | learner | draft | **new** | Editorial review |
+| N2-557 | [左様なら](entries/1291/1291050-sayounara.org) | さようなら | sayounara | 1291050 | learner | draft | **new** | Editorial review |
+| N2-558 | [サラリーマン](entries/1057/1057960-sarariiman.org) | サラリーマン | sarariiman | 1057960 | learner | draft | **new** | Editorial review |
+| N2-559 | [騒がしい](entries/1403/1403000-sawagashii.org) | さわがしい | sawagashii | 1403000 | learner | draft | **new** | Editorial review |
