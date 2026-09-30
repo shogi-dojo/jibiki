@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3653 |
+| Canonical entry files | 3663 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 681 |
+| Canonical N2 entries | 691 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 688 / 1635 (42.1%) |
+| N2 queue rows covered | 698 / 1635 (42.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3616 |
+| `new` | 3626 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3643 |
+| Entry metadata still marked `draft` | 3653 |
 | Core profile | 163 |
-| Learner profile | 3489 |
+| Learner profile | 3499 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -602,7 +602,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 600-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **590/600 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **600/600 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -672,6 +672,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 57 | N2-660, N2-661, N2-662, N2-663, N2-664, N2-665, N2-666, N2-667, N2-668, N2-669 | 10 |
 | 58 | N2-670, N2-671, N2-672, N2-673, N2-674, N2-675, N2-676, N2-677, N2-678, N2-679 | 10 |
 | 59 | N2-680, N2-681, N2-682, N2-683, N2-684, N2-685, N2-686, N2-687, N2-688, N2-689 | 10 |
+| 60 | N2-690, N2-691, N2-692, N2-693, N2-694, N2-695, N2-696, N2-697, N2-698, N2-699 | 10 |
 
 ## Maturity workflow
 
@@ -4174,3 +4175,13 @@ content and remain at `new` until editorial review.
 | N2-687 | [持参](entries/1315/1315790-jisan.org) | じさん | jisan | 1315790 | learner | draft | **new** | Editorial review |
 | N2-688 | [磁石](entries/1317/1317080-jishaku.org) | じしゃく | jishaku | 1317080 | learner | draft | **new** | Editorial review |
 | N2-689 | [自習](entries/1317/1317900-jishuu.org) | じしゅう | jishuu | 1317900 | learner | draft | **new** | Editorial review |
+| N2-690 | [時速](entries/1316/1316290-jisoku.org) | じそく | jisoku | 1316290 | learner | draft | **new** | Editorial review |
+| N2-691 | [自治](entries/1317/1317810-jichi.org) | じち | jichi | 1317810 | learner | draft | **new** | Editorial review |
+| N2-692 | [実感](entries/1320/1320920-jikkan.org) | じっかん | jikkan | 1320920 | learner | draft | **new** | Editorial review |
+| N2-693 | [実習](entries/1321/1321200-jisshuu.org) | じっしゅう | jisshuu | 1321200 | learner | draft | **new** | Editorial review |
+| N2-694 | [実績](entries/1321/1321240-jisseki.org) | じっせき | jisseki | 1321240 | learner | draft | **new** | Editorial review |
+| N2-695 | [実物](entries/1321/1321430-jitsubutsu.org) | じつぶつ | jitsubutsu | 1321430 | learner | draft | **new** | Editorial review |
+| N2-696 | [実用](entries/1321/1321480-jitsuyou.org) | じつよう | jitsuyou | 1321480 | learner | draft | **new** | Editorial review |
+| N2-697 | [実力](entries/1321/1321530-jitsuryoku.org) | じつりょく | jitsuryoku | 1321530 | learner | draft | **new** | Editorial review |
+| N2-698 | [実例](entries/1321/1321560-jitsurei.org) | じつれい | jitsurei | 1321560 | learner | draft | **new** | Editorial review |
+| N2-699 | [児童](entries/1315/1315060-jidou.org) | じどう | jidou | 1315060 | learner | draft | **new** | Editorial review |
