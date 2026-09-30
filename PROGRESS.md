@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3573 |
+| Canonical entry files | 3583 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 601 |
+| Canonical N2 entries | 611 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 608 / 1635 (37.2%) |
+| N2 queue rows covered | 618 / 1635 (37.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3536 |
+| `new` | 3546 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3563 |
+| Entry metadata still marked `draft` | 3573 |
 | Core profile | 163 |
-| Learner profile | 3409 |
+| Learner profile | 3419 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -602,7 +602,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 600-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **510/600 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **520/600 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -664,6 +664,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 49 | N2-580, N2-581, N2-582, N2-583, N2-584, N2-585, N2-586, N2-587, N2-588, N2-589 | 10 |
 | 50 | N2-590, N2-591, N2-592, N2-593, N2-594, N2-595, N2-596, N2-597, N2-598, N2-599 | 10 |
 | 51 | N2-600, N2-601, N2-602, N2-603, N2-604, N2-605, N2-606, N2-607, N2-608, N2-609 | 10 |
+| 52 | N2-610, N2-611, N2-612, N2-613, N2-614, N2-615, N2-616, N2-617, N2-618, N2-619 | 10 |
 
 ## Maturity workflow
 
@@ -4086,3 +4087,13 @@ content and remain at `new` until editorial review.
 | N2-607 | [氏名](entries/1311/1311060-shimei.org) | しめい | shimei | 1311060 | learner | draft | **new** | Editorial review |
 | N2-608 | [締め切る](entries/1594/1594600-shimekiru.org) | しめきる | shimekiru | 1594600 | learner | draft | **new** | Editorial review |
 | N2-609 | [社会科学](entries/1322/1322720-shakaikagaku.org) | しゃかいかがく | shakaikagaku | 1322720 | learner | draft | **new** | Editorial review |
+| N2-610 | [しゃがむ](entries/1005/1005630-shagamu.org) | しゃがむ | shagamu | 1005630 | learner | draft | **new** | Editorial review |
+| N2-611 | [車庫](entries/1323/1323120-shako.org) | しゃこ | shako | 1323120 | learner | draft | **new** | Editorial review |
+| N2-612 | [車掌](entries/1323/1323170-shashou.org) | しゃしょう | shashou | 1323170 | learner | draft | **new** | Editorial review |
+| N2-613 | [写生](entries/1322/1322120-shasei.org) | しゃせい | shasei | 1322120 | learner | draft | **new** | Editorial review |
+| N2-614 | [シャッター](entries/1061/1061440-shattaa.org) | シャッター | shattaa | 1061440 | learner | draft | **new** | Editorial review |
+| N2-615 | [しゃぶる](entries/1005/1005670-shaburu.org) | しゃぶる | shaburu | 1005670 | learner | draft | **new** | Editorial review |
+| N2-616 | [車輪](entries/1323/1323280-sharin.org) | しゃりん | sharin | 1323280 | learner | draft | **new** | Editorial review |
+| N2-617 | [洒落](entries/1568/1568640-share.org) | しゃれ | share | 1568640 | learner | draft | **new** | Editorial review |
+| N2-618 | [集会](entries/1333/1333600-shuukai.org) | しゅうかい | shuukai | 1333600 | learner | draft | **new** | Editorial review |
+| N2-619 | [集金](entries/1333/1333620-shuukin.org) | しゅうきん | shuukin | 1333620 | learner | draft | **new** | Editorial review |
