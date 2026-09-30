@@ -1,0 +1,268 @@
+#+TITLE: 四捨五入
+#+JMDICT_ID: 1307250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ししゃごにゅう
+#+ROMAJI: shishagonyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1307250-001
+:PROPERTIES:
+:TEXT: 四捨五入
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf45
+** Reading rd-1307250-001
+:PROPERTIES:
+:TEXT: ししゃごにゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf45
+
+* Sense s-1307250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b0f9d4f029c03010a681924801e3b44f88dd214cc847158a8982275cd843a997
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- rounding (off; a number)
+- rounding half away from zero
+** Ukrainian glosses
+*** uk-s-1307250-001-001
+:PROPERTIES:
+:END:
+- text :: округлення числа
+** Learner notes
+*** note-s-1307250-001-001
+:PROPERTIES:
+:END:
+- UK :: Відкидання цифр 0–4 і округлення вгору при 5–9 на вибраному розряді; для знакових чисел джерело уточнює половини від нуля.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1307250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 数を四捨五入します。
+- READING :: かずをししゃごにゅうします。
+- UK :: Я округлюю число.
+- EN :: I round the number.
+- FOCUS :: 四捨五入
+*** ex-1307250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 2.6を四捨五入すると、3になります。
+- READING :: にてんろくをししゃごにゅうすると、さんになります。
+- UK :: Після округлення двох цілих шести десятих виходить три.
+- EN :: Rounding 2.6 gives three.
+- FOCUS :: 四捨五入
+*** ex-1307250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 四捨五入する前の値も、表に残しておきました。
+- READING :: ししゃごにゅうするまえのあたいも、ひょうにのこしておきました。
+- UK :: У таблиці я також залишив значення до округлення.
+- EN :: I also kept the value before rounding in the table.
+- FOCUS :: 四捨五入
+
+* Sense s-1307250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b9cbb58544c4f9230e510a51723f40792bd4442f8e012827cd8f7aa053b6110
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- rounding off (views)
+- converging to a common opinion
+** Ukrainian glosses
+*** uk-s-1307250-002-001
+:PROPERTIES:
+:END:
+- text :: узгодження поглядів; зведення до спільної думки
+** Learner notes
+*** note-s-1307250-002-001
+:PROPERTIES:
+:END:
+- UK :: Образне округлення відмінностей між думками, щоб дійти спільного висновку.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1307250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d3a12f2dd4e66e468a8756f4052648edccd25f20dd056c37bcaf27805ff1dc28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afronding
+*** en-s-1307250-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afronden
+*** en-s-1307250-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ronden
+** Ukrainian glosses
+
+* Sense s-1307250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7c389d25f5991b6ae77dae7397d773d4f1df6172621a9884804f8ca2ec8699f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arrondi au chiffre supérieur
+** Ukrainian glosses
+
+* Sense s-1307250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4b244940749c0c86db96cd52eada92dab1e63e180cd5c3e279279c454bc9ef5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Runden von Bruchzahlen (bis vier abrunden und ab fünf aufrunden)
+*** en-s-1307250-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: runden
+** Ukrainian glosses
+
+* Sense s-1307250-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 432bff8594ee156f9ae36632b5cb595e46dd83e5a76ec7b193583462fd2d7516
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kerekítés
+** Ukrainian glosses
+
+* Sense s-1307250-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 534fe52dbcc9c6d5cf4f540f71db89dfb6ba2078c17bc17c4121bc6186dfd609
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～して} круглым счётом (считая 0,5 и выше за целое, а меньше  отбрасывая)
+** Ukrainian glosses
+
+* Sense s-1307250-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2c7774488c01e07d3e601693ff98da30f20775a8855e9bdfe269823d75b272c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zaokroženje decimalke (pri matematiki)
+** Ukrainian glosses
+
+* Sense s-1307250-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 293c692230a9837a69b838e8243b94a2b8efe5778979a985a8c681e456680103
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1307250-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redondeo
+** Ukrainian glosses
