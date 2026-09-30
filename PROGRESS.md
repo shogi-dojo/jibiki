@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2783 |
+| Canonical entry files | 2793 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1414 |
-| N3 queue rows covered | 1475 / 1677 (88.0%) |
+| Canonical N3 entries | 1424 |
+| N3 queue rows covered | 1487 / 1677 (88.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2746 |
+| `new` | 2756 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2773 |
+| Entry metadata still marked `draft` | 2783 |
 | Core profile | 163 |
-| Learner profile | 2619 |
+| Learner profile | 2629 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1475 rows covered (1414 distinct files) out of 1677.
-Coverage reaches N3-1477 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1487 rows covered (1424 distinct files) out of 1677.
+Coverage reaches N3-1489 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1478 (真逆).
+unchanged. The next untouched queue row is N3-1490 (祭り).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **220/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **230/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -233,6 +233,7 @@ as new entries. Editorial review remains pending.
 | 20 | N3-1446–1457 | 10 |
 | 21 | N3-1458–1467 | 10 |
 | 22 | N3-1468–1477 | 10 |
+| 23 | N3-1478–1489 | 10 |
 
 ## Maturity workflow
 
@@ -2847,3 +2848,15 @@ content and remain at `new` until editorial review.
 | N3-1475 | [負け](entries/1497/1497960-make.org) | まけ | make | 1497960 | learner | draft | **new** | Editorial review |
 | N3-1476 | [誠に](entries/1381/1381160-makotoni.org) | まことに | makotoni | 1381160 | learner | draft | **new** | Editorial review |
 | N3-1477 | [孫](entries/1406/1406230-mago.org) | まご | mago | 1406230 | learner | draft | **new** | Editorial review |
+| N3-1478 | [真逆](entries/1363/1363540-masaka.org) | まさか | masaka | 1363540 | learner | draft | **new** | Editorial review |
+| N3-1479 | [正に](entries/1376/1376640-masani.org) | まさに | masani | 1376640 | learner | draft | **new** | Editorial review |
+| N3-1480 | [真面目](entries/1364/1364360-majime.org) | まじめ | majime | 1364360 | learner | draft | **new** | Editorial review |
+| N3-1481 | [増す](entries/1403/1403120-masu.org) | ます | masu | 1403120 | learner | draft | **new** | Editorial review |
+| N3-1482 | [マスター](entries/1127/1127970-masutaa.org) | マスター | masutaa | 1127970 | learner | draft | **new** | Editorial review |
+| N3-1483 | [益々](entries/1603/1603950-masumasu.org) | ますます | masumasu | 1603950 | learner | draft | **new** | Editorial review |
+| N3-1484 | [先ず](entries/1387/1387240-mazu.org) | まず | mazu | 1387240 | learner | draft | **new** | Editorial review |
+| N3-1485 | [貧しい](entries/1490/1490740-mazushii.org) | まずしい | mazushii | 1490740 | learner | draft | **new** | Editorial review |
+| N3-1486 | [間違い](entries/1215/1215320-machigai.org) | まちがい | machigai | 1215320 | learner | draft | **new** | Editorial review |
+| N3-1487 | [真っ赤](entries/1363/1363250-makka.org) | まっか | makka | 1363250 | learner | draft | **new** | Editorial review |
+| N3-1488 | [全く](entries/1394/1394800-mattaku.org) | まったく | mattaku | 1394800 | learner | draft | **new** | Editorial review |
+| N3-1489 | [松](entries/1349/1349860-matsu.org) | まつ | matsu | 1349860 | learner | draft | **new** | Editorial review |
