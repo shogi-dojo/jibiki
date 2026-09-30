@@ -1,0 +1,538 @@
+#+TITLE: 否定
+#+JMDICT_ID: 1482990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひてい
+#+ROMAJI: hitei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1482990-001
+:PROPERTIES:
+:TEXT: 否定
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1482990-001
+:PROPERTIES:
+:TEXT: ひてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1482990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 60332aaa3e74618b384f4a17242c8acdc4f70efe3354b1be8819ccf85e8e38f8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Antonyms
+- 肯定・1
+** English glosses
+- denial
+- negation
+- repudiation
+- disavowal
+** Ukrainian glosses
+*** uk-s-1482990-001-001
+:PROPERTIES:
+:END:
+- text :: заперечення; відкидання; заперечувати
+** Learner notes
+*** note-s-1482990-001-001
+:PROPERTIES:
+:END:
+- UK :: ~事実を否定する~ — заперечувати факт. Іменник і перехідне дієслово з ~する~; не тотожне ~拒否~ — відмові виконати або прийняти щось.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1482990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼はうわさを否定しました。
+- READING :: かれはうわさをひていしました。
+- UK :: Він заперечив чутку.
+- EN :: He denied the rumor.
+- FOCUS :: 否定
+*** ex-1482990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 相手の意見をすぐ否定しないでください。
+- READING :: あいてのいけんをすぐひていしないでください。
+- UK :: Не відкидайте одразу думку співрозмовника.
+- EN :: Please do not immediately dismiss the other person’s opinion.
+- FOCUS :: 否定
+*** ex-1482990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最初はその可能性を否定していましたが、資料を見て考えが変わりました。
+- READING :: さいしょはそのかのうせいをひていしていましたが、しりょうをみてかんがえがかわりました。
+- UK :: Спочатку я заперечував таку можливість, але після ознайомлення з матеріалами змінив думку.
+- EN :: At first I denied that possibility, but my view changed after I examined the materials.
+- FOCUS :: 否定
+
+* Sense s-1482990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cfcce90940e6de655d01e09a094f6b75d54e83a09ebafb9b8b42b0d2b39b3199
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- logic
+** English glosses
+- negation
+** Ukrainian glosses
+*** uk-s-1482990-002-001
+:PROPERTIES:
+:END:
+- text :: логічне заперечення
+** Learner notes
+*** note-s-1482990-002-001
+:PROPERTIES:
+:END:
+- UK :: Операція, яка заперечує висловлювання. Контекст логіки відрізняє термін від повсякденного відкидання думки.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1482990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d398e64fcd40234cf4c9c750ed9374b2b2e75fd32dce29cc9676905d162f5e60
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- NOT operation
+** Ukrainian glosses
+*** uk-s-1482990-003-001
+:PROPERTIES:
+:END:
+- text :: операція NOT
+** Learner notes
+*** note-s-1482990-003-001
+:PROPERTIES:
+:END:
+- UK :: У програмуванні та обчислювальній техніці називає операцію заперечення. Не загальна назва будь-якого видалення даних.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1482990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c43d7bb3fd7ce3a16a46abbca784dac5f3267ee39528608c037be47a8a53bf69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontkennen
+*** en-s-1482990-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: loochenen
+*** en-s-1482990-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dementeren
+*** en-s-1482990-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegenspreken
+*** en-s-1482990-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} negeren
+*** en-s-1482990-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontkenning
+*** en-s-1482990-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negatie
+*** en-s-1482990-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: loochening
+*** en-s-1482990-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dementi
+*** en-s-1482990-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegenspraak
+*** en-s-1482990-004-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} tegenspreking
+** Ukrainian glosses
+
+* Sense s-1482990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 90349d5f31ec4ce5f42a6f3c0a89e5033b9379c7e27910be63dd1f1ab70800c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: démenti
+*** en-s-1482990-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: négation
+*** en-s-1482990-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: refus
+** Ukrainian glosses
+
+* Sense s-1482990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: fd06416be02dbeb47cd5b0cca5768f8879b2b6e7b28cde5307972b21bbd232d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verneinen
+*** en-s-1482990-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dementieren
+*** en-s-1482990-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leugnen
+*** en-s-1482990-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ableugnen
+*** en-s-1482990-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestreiten
+*** en-s-1482990-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verneinung
+*** en-s-1482990-006-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verleugnung
+*** en-s-1482990-006-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Negation
+*** en-s-1482990-006-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ablehnung
+** Ukrainian glosses
+
+* Sense s-1482990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f43e52d957685b67263dc63b622bd31bbe22d5780f0be96e590d19c5ecf0d9e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Negation
+** Ukrainian glosses
+
+* Sense s-1482990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 3f95de796e0fabef962528385dd2a5f94d410fd9296fb6ede7632a13113e2b53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tagadás
+*** en-s-1482990-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cáfolat
+*** en-s-1482990-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megtagadás
+** Ukrainian glosses
+
+* Sense s-1482990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 9e071064d5cd191f761f2e7b66fe41ced193f007dd43fe98cd6aca5fc52f834a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отрицание
+*** en-s-1482990-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} отрицать
+** Ukrainian glosses
+
+* Sense s-1482990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 732fb6d306dc7f8c96f11d562657bbda455e64da749134ece2424f9e6bb58d7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zanikanje
+*** en-s-1482990-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavrnitev
+*** en-s-1482990-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negiranje
+*** en-s-1482990-010-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zanikati
+*** en-s-1482990-010-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavrniti
+*** en-s-1482990-010-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavračati
+** Ukrainian glosses
+
+* Sense s-1482990-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 985591bd4441ed9cd945c85537109070c390d9377593c98573008d3023049fad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482990-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negar
+*** en-s-1482990-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negación
+*** en-s-1482990-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negativa
+*** en-s-1482990-011-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: repudiación
+** Ukrainian glosses
