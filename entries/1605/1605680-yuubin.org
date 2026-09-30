@@ -1,0 +1,341 @@
+#+TITLE: 郵便
+#+JMDICT_ID: 1605680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆうびん
+#+ROMAJI: yuubin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1605680-001
+:PROPERTIES:
+:TEXT: 郵便
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Written form wf-1605680-002
+:PROPERTIES:
+:TEXT: 〒
+:END:
+** Reading rd-1605680-001
+:PROPERTIES:
+:TEXT: ゆうびん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1605680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6650e3142fd370722a07968190d09f383dacf9dba0386fd9e5ebe3f3b5545efc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mail service
+- postal service
+- mail
+- post
+** Ukrainian glosses
+*** uk-s-1605680-001-001
+:PROPERTIES:
+:END:
+- text :: пошта; поштовий зв’язок; поштова служба
+** Learner notes
+*** note-s-1605680-001-001
+:PROPERTIES:
+:END:
+- UK :: ~郵便で送る~ — надсилати поштою. Про спосіб пересилання або службу, не обов’язково конкретний лист.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1605680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 郵便で送ります。
+- READING :: ゆうびんでおくります。
+- UK :: Я надсилаю це поштою.
+- EN :: I send it by mail.
+- FOCUS :: 郵便
+*** ex-1605680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 手紙は郵便で出しました。
+- READING :: てがみはゆうびんでだしました。
+- UK :: Я відправив лист поштою.
+- EN :: I sent the letter by post.
+- FOCUS :: 郵便
+*** ex-1605680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電話で話せなかったので、詳しい説明を郵便で送ることにしました。
+- READING :: でんわではなせなかったので、くわしいせつめいをゆうびんでおくることにしました。
+- UK :: Не змігши поговорити телефоном, я вирішив надіслати докладне пояснення поштою.
+- EN :: I could not speak by phone, so I decided to send a detailed explanation by mail.
+- FOCUS :: 郵便
+
+* Sense s-1605680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6d9054d610a315877dca8b11a400dbeb099b4ca63deacc9528b122d2fcfe38ce
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 郵便物
+** English glosses
+- mail
+- postal matter
+- postal items
+** Ukrainian glosses
+*** uk-s-1605680-002-001
+:PROPERTIES:
+:END:
+- text :: поштові відправлення; кореспонденція
+** Learner notes
+*** note-s-1605680-002-001
+:PROPERTIES:
+:END:
+- UK :: Скорочене позначення предметів, які доставляє пошта. ~郵便が届く~ — надходить кореспонденція.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1605680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7d3701f2d97cf697904a496c38caaa69bd3daed0ed2b7f7347cea02d0a38284e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: post
+** Ukrainian glosses
+
+* Sense s-1605680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3e5eb6d9ab20fed59c1c4b6047813a37a291a3725c618ebabb3ac866d4d01edf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poststuk
+*** en-s-1605680-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: postzending
+** Ukrainian glosses
+
+* Sense s-1605680-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 72a092856b03765e354ead9da247e722e6d450b5c32eb90631bac14e4ded27ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: courrier
+*** en-s-1605680-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: service postal
+** Ukrainian glosses
+
+* Sense s-1605680-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5d2232f76048891264afa6783bc07f72bcf43bc1204025394a316c273546cf35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeichen für Post und Postleitzahl
+*** en-s-1605680-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Post
+*** en-s-1605680-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Postbeförderung
+** Ukrainian glosses
+
+* Sense s-1605680-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1ee717692491ac96e5ebe7ebe5a597499c5904999c40aa474c4e69abc0ad9592
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: páncéling
+*** en-s-1605680-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: posta
+*** en-s-1605680-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vértezet
+** Ukrainian glosses
+
+* Sense s-1605680-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 19bc5553c5f6bd03798abec2b442e0be489e2befb406c55f08daad32fa251958
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: почта
+*** en-s-1605680-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: почта, корреспонденция
+*** en-s-1605680-008-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} по почте, почтой
+** Ukrainian glosses
+
+* Sense s-1605680-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d7a4da55a0585953b81916e39c7e7b3f367f010984f0aec3a40d890a9ac6beb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pošta
+** Ukrainian glosses
+
+* Sense s-1605680-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4c2403bbffeec6ee930646bb2c74129c3b83a99dd5d7a70fa592b15bc45f6fbe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605680-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correo
+*** en-s-1605680-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: servicio postal
+** Ukrainian glosses

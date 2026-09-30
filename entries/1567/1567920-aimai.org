@@ -1,0 +1,720 @@
+#+TITLE: 曖昧
+#+JMDICT_ID: 1567920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あいまい
+#+ROMAJI: aimai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1567920-001
+:PROPERTIES:
+:TEXT: 曖昧
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf35
+** Written form wf-1567920-002
+:PROPERTIES:
+:TEXT: あい昧
+:END:
+** Reading rd-1567920-001
+:PROPERTIES:
+:TEXT: あいまい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf35
+
+* Sense s-1567920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 51610562177253ac2e5656d5f1e750644d7d703362980dd3fe82c0f6d65aabfa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- vague
+- ambiguous
+- unclear
+** Ukrainian glosses
+*** uk-s-1567920-001-001
+:PROPERTIES:
+:END:
+- text :: неясний; неоднозначний; нечіткий; невизначеність
+** Learner notes
+*** note-s-1567920-001-001
+:PROPERTIES:
+:END:
+- UK :: Прикметник із ~な~: ~曖昧な答え~ — нечітка відповідь. ~曖昧にする~ — залишати невизначеним. Може стосуватися формулювання або межі.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1567920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 答えが曖昧です。
+- READING :: こたえがあいまいです。
+- UK :: Відповідь нечітка.
+- EN :: The answer is vague.
+- FOCUS :: 曖昧
+*** ex-1567920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 曖昧な説明では分かりません。
+- READING :: あいまいなせつめいではわかりません。
+- UK :: З нечіткого пояснення я не можу зрозуміти.
+- EN :: I cannot understand a vague explanation.
+- FOCUS :: 曖昧
+*** ex-1567920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 役割が曖昧なままだったので、誰が何をするのかを話し合いました。
+- READING :: やくわりがあいまいなままだったので、だれがなにをするのかをはなしあいました。
+- UK :: Оскільки ролі залишалися невизначеними, ми обговорили, хто що робитиме.
+- EN :: Since the roles remained unclear, we discussed who would do what.
+- FOCUS :: 曖昧
+
+* Sense s-1567920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 11aa091cd226f6cabb831c088338d776770f1d3a66f9482a128ed36599ec1447
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+*** Cross-references
+- 曖昧宿
+** English glosses
+- shady
+- disreputable
+** Ukrainian glosses
+*** uk-s-1567920-002-001
+:PROPERTIES:
+:END:
+- text :: сумнівний; із непевною репутацією
+** Learner notes
+*** note-s-1567920-002-001
+:PROPERTIES:
+:END:
+- UK :: Контекстний відтінок shady або disreputable. Не кожна нечіткість означає нечесність.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1567920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bc4e39b1b93795a696ee935fb8b8309450c3790f40c2206702dbbd2fe0af12ff
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+*** Fields
+- math
+- comp
+** English glosses
+- fuzzy
+** Ukrainian glosses
+*** uk-s-1567920-003-001
+:PROPERTIES:
+:END:
+- text :: нечіткий; розмитий
+** Learner notes
+*** note-s-1567920-003-001
+:PROPERTIES:
+:END:
+- UK :: Про нечіткі межі або ступені належності, зокрема у фаховому вживанні. Не обов’язково навмисна двозначність.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1567920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d000d66f0ffcb3b93c824d27515cf435f4a23d40ccb49a237ef4fd950558b6a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaag
+*** en-s-1567920-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onduidelijk
+*** en-s-1567920-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onbestemd
+*** en-s-1567920-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obscuur
+*** en-s-1567920-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schemerig
+*** en-s-1567920-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wazig
+*** en-s-1567920-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fuzzy
+** Ukrainian glosses
+
+* Sense s-1567920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 807d1d8e9e5c5ed822644203295c1d710fb8e20c3d8b6707dbf8f42d35bfdbd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ambigu
+*** en-s-1567920-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dubbelzinnig
+*** en-s-1567920-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meerduidig
+*** en-s-1567920-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: equivoque
+*** en-s-1567920-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tweeslachtig
+** Ukrainian glosses
+
+* Sense s-1567920-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c804c7796034bcb98c47cd8bea2a88178cfc06bb22ad8e78600080425317af90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrijblijvend
+*** en-s-1567920-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich niet blootgevend
+*** en-s-1567920-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een slag om de arm houdend
+*** en-s-1567920-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nietszeggend
+*** en-s-1567920-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wollig
+*** en-s-1567920-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lubberiaans
+** Ukrainian glosses
+
+* Sense s-1567920-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d80ec5b812d941ad513200604f41b7a9aebfe9a78eedce77b3cf739f7be5e2d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ambigu
+*** en-s-1567920-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: imprécis
+*** en-s-1567920-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obscur
+*** en-s-1567920-007-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vague
+** Ukrainian glosses
+
+* Sense s-1567920-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 384ef6134f49020c976fa1ed0d34ef540cf0949ff631e2e93afe58011ef590de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unbestimmt
+*** en-s-1567920-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: undeutlich
+*** en-s-1567920-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unsicher
+*** en-s-1567920-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unklar
+*** en-s-1567920-008-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dunkel
+*** en-s-1567920-008-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doppelsinnig
+*** en-s-1567920-008-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doppeldeutig
+*** en-s-1567920-008-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unzuverlässig
+*** en-s-1567920-008-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unbestimmt
+*** en-s-1567920-008-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vage
+*** en-s-1567920-008-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mehrdeutig
+*** en-s-1567920-008-012
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: undeutlich
+*** en-s-1567920-008-013
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unsicher
+*** en-s-1567920-008-014
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unklar
+*** en-s-1567920-008-015
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dunkel
+*** en-s-1567920-008-016
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doppelsinnig
+*** en-s-1567920-008-017
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unzuverlässig
+*** en-s-1567920-008-018
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unbestimmtheit
+*** en-s-1567920-008-019
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Undeutlichkeit
+*** en-s-1567920-008-020
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unklarheit
+*** en-s-1567920-008-021
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zweideutigkeit
+*** en-s-1567920-008-022
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Doppelsinn
+*** en-s-1567920-008-023
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ambiguität
+*** en-s-1567920-008-024
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vagheit
+** Ukrainian glosses
+
+* Sense s-1567920-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 6ece3377835b6ebafd37aaa668c3a94ffebd25730c743a748390c91c493ea4c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bizonytalan
+*** en-s-1567920-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: határozatlan
+*** en-s-1567920-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: homályos
+*** en-s-1567920-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: félreérthető
+*** en-s-1567920-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kétértelmű
+*** en-s-1567920-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nehezen érthető
+** Ukrainian glosses
+
+* Sense s-1567920-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 6610d198ca2d3db2503afddc3602cc88c5ad67bdc69d13b50561380a6276ba79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～な} неясный, неопределённый, туманный
+*** en-s-1567920-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} вносить неясность, затуманивать
+** Ukrainian glosses
+
+* Sense s-1567920-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: a0d2afb9bd5d3655c3c3b82f7fe4b921037fb1356a60cdea966aa56b0327d9f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dvoumen
+*** en-s-1567920-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nejasen
+*** en-s-1567920-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nedoločen
+** Ukrainian glosses
+
+* Sense s-1567920-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 96411450df2cbc1a1236b48823714e2f5fb22ad241e93a3b94acef45de45a775
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1567920-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vago
+*** en-s-1567920-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ambiguo
+*** en-s-1567920-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impreciso
+** Ukrainian glosses
