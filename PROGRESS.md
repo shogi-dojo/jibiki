@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3453 |
+| Canonical entry files | 3463 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 481 |
+| Canonical N2 entries | 491 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 488 / 1635 (29.8%) |
+| N2 queue rows covered | 498 / 1635 (30.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3416 |
+| `new` | 3426 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3443 |
+| Entry metadata still marked `draft` | 3453 |
 | Core profile | 163 |
-| Learner profile | 3289 |
+| Learner profile | 3299 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -466,9 +466,9 @@ primary example senses, and Git authorship. The test suite passed 137 tests
 and 10,643 assertions.
 All added entries remain `new` / `draft`, pending editorial review.
 
-## Current-branch 400-word N2 continuation (2026-09-30)
+## Completed current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **390/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **400/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -476,6 +476,11 @@ Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N
 Editorial review remains pending.
 N2-69 is deferred for a dedicated standalone-usage review.
 Previously authored aliases remain excluded from the new-word count.
+Full audits confirmed 400 distinct new IDs, 734 English senses, 1,200 graded examples,
+and 400 individual word commits. Fresh validation, Org lint and doctor checks passed
+for all 400 entries; doctor averaged 100/100 with zero errors or warnings.
+The test suite passed 137 tests and 10,943 assertions. The next untouched row
+at this checkpoint is N2-500 (紺). Work continues toward the approved 500-word target.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
@@ -518,6 +523,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 37 | N2-460, N2-461, N2-462, N2-463, N2-464, N2-465, N2-466, N2-467, N2-468, N2-469 | 10 |
 | 38 | N2-470, N2-471, N2-472, N2-473, N2-474, N2-475, N2-476, N2-477, N2-478, N2-479 | 10 |
 | 39 | N2-480, N2-481, N2-482, N2-483, N2-484, N2-485, N2-486, N2-487, N2-488, N2-489 | 10 |
+| 40 | N2-490, N2-491, N2-492, N2-493, N2-494, N2-495, N2-496, N2-497, N2-498, N2-499 | 10 |
 
 ## Maturity workflow
 
@@ -3820,3 +3826,13 @@ content and remain at `new` until editorial review.
 | N2-487 | [コック](entries/1050/1050310-kokku.org) | コック | kokku | 1050310 | learner | draft | **new** | Editorial review |
 | N2-488 | [こっそり](entries/1004/1004520-kossori.org) | こっそり | kossori | 1004520 | learner | draft | **new** | Editorial review |
 | N2-489 | [小遣い](entries/1348/1348030-kozukai.org) | こづかい | kozukai | 1348030 | learner | draft | **new** | Editorial review |
+| N2-490 | [古典](entries/1265/1265860-koten.org) | こてん | koten | 1265860 | learner | draft | **new** | Editorial review |
+| N2-491 | [琴](entries/1241/1241450-koto.org) | こと | koto | 1241450 | learner | draft | **new** | Editorial review |
+| N2-492 | [言付ける](entries/1593/1593330-kotozukeru.org) | ことづける | kotozukeru | 1593330 | learner | draft | **new** | Editorial review |
+| N2-493 | [此間](entries/1004/1004610-konaida.org) | こないだ | konaida | 1004610 | learner | draft | **new** | Editorial review |
+| N2-494 | [零す](entries/1557/1557640-kobosu.org) | こぼす | kobosu | 1557640 | learner | draft | **new** | Editorial review |
+| N2-495 | [零れる](entries/1557/1557650-koboreru.org) | こぼれる | koboreru | 1557650 | learner | draft | **new** | Editorial review |
+| N2-496 | [小指](entries/1348/1348170-koyubi.org) | こゆび | koyubi | 1348170 | learner | draft | **new** | Editorial review |
+| N2-497 | [コレクション](entries/1051/1051540-korekushon.org) | コレクション | korekushon | 1051540 | learner | draft | **new** | Editorial review |
+| N2-498 | [転がす](entries/1440/1440980-korogasu.org) | ころがす | korogasu | 1440980 | learner | draft | **new** | Editorial review |
+| N2-499 | [転がる](entries/1441/1441000-korogaru.org) | ころがる | korogaru | 1441000 | learner | draft | **new** | Editorial review |
