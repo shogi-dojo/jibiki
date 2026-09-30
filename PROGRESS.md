@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3333 |
+| Canonical entry files | 3343 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 361 |
+| Canonical N2 entries | 371 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 368 / 1635 (22.5%) |
+| N2 queue rows covered | 378 / 1635 (23.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3296 |
+| `new` | 3306 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3323 |
+| Entry metadata still marked `draft` | 3333 |
 | Core profile | 163 |
-| Learner profile | 3169 |
+| Learner profile | 3179 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **270/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **280/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -488,6 +488,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 25 | N2-340, N2-341, N2-342, N2-343, N2-344, N2-345, N2-346, N2-347, N2-348, N2-349 | 10 |
 | 26 | N2-350, N2-351, N2-352, N2-353, N2-354, N2-355, N2-356, N2-357, N2-358, N2-359 | 10 |
 | 27 | N2-360, N2-361, N2-362, N2-363, N2-364, N2-365, N2-366, N2-367, N2-368, N2-369 | 10 |
+| 28 | N2-370, N2-371, N2-372, N2-373, N2-374, N2-375, N2-376, N2-377, N2-378, N2-379 | 10 |
 
 ## Maturity workflow
 
@@ -3670,3 +3671,13 @@ content and remain at `new` until editorial review.
 | N2-367 | [空想](entries/1245/1245730-kuusou.org) | くうそう | kuusou | 1245730 | learner | draft | **new** | Editorial review |
 | N2-368 | [空中](entries/1245/1245790-kuuchuu.org) | くうちゅう | kuuchuu | 1245790 | learner | draft | **new** | Editorial review |
 | N2-369 | [釘](entries/1436/1436840-kugi.org) | くぎ | kugi | 1436840 | learner | draft | **new** | Editorial review |
+| N2-370 | [区切る](entries/1592/1592130-kugiru.org) | くぎる | kugiru | 1592130 | learner | draft | **new** | Editorial review |
+| N2-371 | [櫛](entries/1246/1246490-kushi.org) | くし | kushi | 1246490 | learner | draft | **new** | Editorial review |
+| N2-372 | [嚏](entries/1003/1003710-kushami.org) | くしゃみ | kushami | 1003710 | learner | draft | **new** | Editorial review |
+| N2-373 | [苦情](entries/1244/1244520-kujou.org) | くじょう | kujou | 1244520 | learner | draft | **new** | Editorial review |
+| N2-374 | [薬指](entries/1538/1538250-kusuriyubi.org) | くすりゆび | kusuriyubi | 1538250 | learner | draft | **new** | Editorial review |
+| N2-375 | [屑](entries/1246/1246510-kuzu.org) | くず | kuzu | 1246510 | learner | draft | **new** | Editorial review |
+| N2-376 | [崩す](entries/1516/1516260-kuzusu.org) | くずす | kuzusu | 1516260 | learner | draft | **new** | Editorial review |
+| N2-377 | [崩れる](entries/1516/1516270-kuzureru.org) | くずれる | kuzureru | 1516270 | learner | draft | **new** | Editorial review |
+| N2-378 | [草臥れる](entries/1003/1003810-kutabireru.org) | くたびれる | kutabireru | 1003810 | learner | draft | **new** | Editorial review |
+| N2-379 | [砕ける](entries/1295/1295190-kudakeru.org) | くだける | kudakeru | 1295190 | learner | draft | **new** | Editorial review |
