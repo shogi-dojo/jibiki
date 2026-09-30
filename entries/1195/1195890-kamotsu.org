@@ -1,0 +1,344 @@
+#+TITLE: 貨物
+#+JMDICT_ID: 1195890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かもつ
+#+ROMAJI: kamotsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1195890-001
+:PROPERTIES:
+:TEXT: 貨物
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1195890-001
+:PROPERTIES:
+:TEXT: かもつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1195890-002
+:PROPERTIES:
+:TEXT: かぶつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1195890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cb07ac4b74330891b036d68144540d5a5a4e10ab107db8caddb8f32a7a7ef61e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cargo
+- freight
+** Ukrainian glosses
+*** uk-s-1195890-001-001
+:PROPERTIES:
+:END:
+- text :: вантаж; товари для перевезення
+** Learner notes
+*** note-s-1195890-001-001
+:PROPERTIES:
+:END:
+- UK :: Речі, які перевозять транспортом. 貨物列車 — вантажний потяг; 貨物船 — вантажне судно.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1195890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 貨物を運びます。
+- READING :: かもつをはこびます。
+- UK :: Ми перевозимо вантаж.
+- EN :: We transport cargo.
+- FOCUS :: 貨物
+*** ex-1195890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 船に貨物を積みました。
+- READING :: ふねにかもつをつみました。
+- UK :: Ми завантажили судно.
+- EN :: We loaded cargo onto the ship.
+- FOCUS :: 貨物
+*** ex-1195890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 貨物が予定どおり届いたので、作業を始めることができました。
+- READING :: かもつがよていどおりとどいたので、さぎょうをはじめることができました。
+- UK :: Вантаж прибув за планом, тож ми змогли розпочати роботу.
+- EN :: The cargo arrived as scheduled, so we were able to start work.
+- FOCUS :: 貨物
+
+* Sense s-1195890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 73f72282cd4cffa960976596dc4bcbdf718a73e62ebc2b92215e44b0c84fb178
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- money or assets
+** Ukrainian glosses
+*** uk-s-1195890-002-001
+:PROPERTIES:
+:END:
+- text :: гроші; майно; активи
+** Learner notes
+*** note-s-1195890-002-001
+:PROPERTIES:
+:END:
+- UK :: Окреме значення майнової цінності, яке слід визначати за контекстом, а не автоматично переносити на транспортні сполуки.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1195890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ab5bb62b29f7059dc600cc12ef801a40d29b97f8279a224077ec40e4b8066bea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goederen
+*** en-s-1195890-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vracht
+*** en-s-1195890-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cargo
+** Ukrainian glosses
+
+* Sense s-1195890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0a5f00f1c9575e86a0742e36f4a5b0bf23e6d5aac0529cff91c139e424468225
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cargaison
+** Ukrainian glosses
+
+* Sense s-1195890-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 702dc86334842e16024d64108691a96f4eb00f9088378f25d27acb32517c89d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Güter
+*** en-s-1195890-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Waren
+*** en-s-1195890-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fracht
+*** en-s-1195890-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Frachtgut
+*** en-s-1195890-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Last
+*** en-s-1195890-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ladung
+** Ukrainian glosses
+
+* Sense s-1195890-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ab0540ff6cf4dc3e6954e1ebe096c13fd8df1b1041cc9983dd4a08cfa7d87096
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: materielle Güter
+** Ukrainian glosses
+
+* Sense s-1195890-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 71c9d3cab289a5481ee493cb6241febfb66bc9a0444b02df316f356110c7f0ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rakomány
+*** en-s-1195890-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teherárú
+*** en-s-1195890-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teheráru
+** Ukrainian glosses
+
+* Sense s-1195890-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c3d26bc88c7dc15d13cc25b240bf0b225056ca75bf1d19feff882e7de328d9bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) かもつ
+*** en-s-1195890-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: груз, багаж; товары
+** Ukrainian glosses
+
+* Sense s-1195890-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 751f646664da69b03754b9aabb7533926c1af8d3d4d373157693d084b0231e87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tovor (ladijski...)
+** Ukrainian glosses
+
+* Sense s-1195890-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a2e3a6a5fe243b0d613e36192168b9f41b9092ea6f0a1b85764506ec8acb3cd4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195890-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carga
+** Ukrainian glosses
