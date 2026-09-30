@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3293 |
+| Canonical entry files | 3303 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 321 |
+| Canonical N2 entries | 331 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 328 / 1635 (20.1%) |
+| N2 queue rows covered | 338 / 1635 (20.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3256 |
+| `new` | 3266 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3283 |
+| Entry metadata still marked `draft` | 3293 |
 | Core profile | 163 |
-| Learner profile | 3129 |
+| Learner profile | 3139 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **230/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **240/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -484,6 +484,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 21 | N2-299, N2-300, N2-301, N2-302, N2-303, N2-304, N2-305, N2-306, N2-307, N2-308 | 10 |
 | 22 | N2-309, N2-310, N2-311, N2-312, N2-313, N2-314, N2-315, N2-316, N2-317, N2-318 | 10 |
 | 23 | N2-319, N2-320, N2-321, N2-322, N2-323, N2-324, N2-325, N2-326, N2-327, N2-328, N2-329 | 10 |
+| 24 | N2-330, N2-331, N2-332, N2-333, N2-334, N2-335, N2-336, N2-337, N2-338, N2-339 | 10 |
 
 ## Maturity workflow
 
@@ -3626,3 +3627,13 @@ content and remain at `new` until editorial review.
 | N2-327 | [ガム](entries/1040/1040350-gamu.org) | ガム | gamu | 1040350 | learner | draft | **new** | Editorial review |
 | N2-328 | [気圧](entries/1221/1221880-kiatsu.org) | きあつ | kiatsu | 1221880 | learner | draft | **new** | Editorial review |
 | N2-329 | [機関車](entries/1220/1220880-kikansha.org) | きかんしゃ | kikansha | 1220880 | learner | draft | **new** | Editorial review |
+| N2-330 | [着替え](entries/1423/1423160-kigae.org) | きがえ | kigae | 1423160 | learner | draft | **new** | Editorial review |
+| N2-331 | [飢饉](entries/1591/1591080-kikin.org) | ききん | kikin | 1591080 | learner | draft | **new** | Editorial review |
+| N2-332 | [期限](entries/1220/1220560-kigen.org) | きげん | kigen | 1220560 | learner | draft | **new** | Editorial review |
+| N2-333 | [記号](entries/1223/1223210-kigou.org) | きごう | kigou | 1223210 | learner | draft | **new** | Editorial review |
+| N2-334 | [刻む](entries/1285/1285890-kizamu.org) | きざむ | kizamu | 1285890 | learner | draft | **new** | Editorial review |
+| N2-335 | [起床](entries/1223/1223820-kishou.org) | きしょう | kishou | 1223820 | learner | draft | **new** | Editorial review |
+| N2-336 | [基準](entries/1591/1591210-kijun.org) | きじゅん | kijun | 1591210 | learner | draft | **new** | Editorial review |
+| N2-337 | [着せる](entries/1422/1422990-kiseru.org) | きせる | kiseru | 1422990 | learner | draft | **new** | Editorial review |
+| N2-338 | [基礎](entries/1219/1219060-kiso.org) | きそ | kiso | 1219060 | learner | draft | **new** | Editorial review |
+| N2-339 | [気体](entries/1222/1222460-kitai.org) | きたい | kitai | 1222460 | learner | draft | **new** | Editorial review |
