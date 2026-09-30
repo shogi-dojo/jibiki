@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3073 |
+| Canonical entry files | 3083 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 101 |
+| Canonical N2 entries | 111 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 103 / 1635 (6.3%) |
+| N2 queue rows covered | 113 / 1635 (6.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3036 |
+| `new` | 3046 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3063 |
+| Entry metadata still marked `draft` | 3073 |
 | Core profile | 163 |
-| Learner profile | 2909 |
+| Learner profile | 2919 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -378,7 +378,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **10/100 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **20/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -390,6 +390,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
 | 1 | N2-95, N2-96, N2-97, N2-98, N2-99, N2-100, N2-101, N2-102, N2-103, N2-104 | 10 |
+| 2 | N2-105, N2-106, N2-107, N2-108, N2-109, N2-110, N2-111, N2-112, N2-113, N2-114 | 10 |
 
 ## Maturity workflow
 
@@ -3307,3 +3308,13 @@ content and remain at `new` until editorial review.
 | N2-102 | [敬う](entries/1250/1250700-uyamau.org) | うやまう | uyamau | 1250700 | learner | draft | **new** | Editorial review |
 | N2-103 | [裏返す](entries/1550/1550630-uragaesu.org) | うらがえす | uragaesu | 1550630 | learner | draft | **new** | Editorial review |
 | N2-104 | [裏口](entries/1550/1550270-uraguchi.org) | うらぐち | uraguchi | 1550270 | learner | draft | **new** | Editorial review |
+| N2-105 | [占う](entries/1389/1389430-uranau.org) | うらなう | uranau | 1389430 | learner | draft | **new** | Editorial review |
+| N2-106 | [恨み](entries/1289/1289740-urami.org) | うらみ | urami | 1289740 | learner | draft | **new** | Editorial review |
+| N2-107 | [恨む](entries/1289/1289780-uramu.org) | うらむ | uramu | 1289780 | learner | draft | **new** | Editorial review |
+| N2-108 | [羨ましい](entries/1391/1391940-urayamashii.org) | うらやましい | urayamashii | 1391940 | learner | draft | **new** | Editorial review |
+| N2-109 | [羨む](entries/1391/1391950-urayamu.org) | うらやむ | urayamu | 1391950 | learner | draft | **new** | Editorial review |
+| N2-110 | [売り上げ](entries/1588/1588500-uriage.org) | うりあげ | uriage | 1588500 | learner | draft | **new** | Editorial review |
+| N2-111 | [売り切れ](entries/1473/1473870-urikire.org) | うりきれ | urikire | 1473870 | learner | draft | **new** | Editorial review |
+| N2-112 | [売り切れる](entries/1473/1473880-urikireru.org) | うりきれる | urikireru | 1473880 | learner | draft | **new** | Editorial review |
+| N2-113 | [売れ行き](entries/1588/1588590-ureyuki.org) | うれゆき | ureyuki | 1588590 | learner | draft | **new** | Editorial review |
+| N2-114 | [うろうろ](entries/1001/1001060-urouro.org) | うろうろ | urouro | 1001060 | learner | draft | **new** | Editorial review |
