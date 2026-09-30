@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2733 |
+| Canonical entry files | 2743 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1364 |
-| N3 queue rows covered | 1422 / 1677 (84.8%) |
+| Canonical N3 entries | 1374 |
+| N3 queue rows covered | 1432 / 1677 (85.4%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2696 |
+| `new` | 2706 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2723 |
+| Entry metadata still marked `draft` | 2733 |
 | Core profile | 163 |
-| Learner profile | 2569 |
+| Learner profile | 2579 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1422 rows covered (1364 distinct files) out of 1677.
-Coverage reaches N3-1424 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1432 rows covered (1374 distinct files) out of 1677.
+Coverage reaches N3-1434 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1425 (平和).
+unchanged. The next untouched queue row is N3-1435 (方).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **170/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **180/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -194,6 +194,7 @@ as new entries. Editorial review remains pending.
 | 15 | N3-1395–1404 | 10 |
 | 16 | N3-1405–1414 | 10 |
 | 17 | N3-1415–1424 | 10 |
+| 18 | N3-1425–1434 | 10 |
 
 ## Maturity workflow
 
@@ -2755,3 +2756,13 @@ content and remain at `new` until editorial review.
 | N3-1422 | [プロ](entries/1117/1117030-puro.org) | プロ | puro | 1117030 | learner | draft | **new** | Editorial review |
 | N3-1423 | [塀](entries/1506/1506870-hei.org) | へい | hei | 1506870 | learner | draft | **new** | Editorial review |
 | N3-1424 | [平均](entries/1583/1583870-heikin.org) | へいきん | heikin | 1583870 | learner | draft | **new** | Editorial review |
+| N3-1425 | [平和](entries/1508/1508070-heiwa.org) | へいわ | heiwa | 1508070 | learner | draft | **new** | Editorial review |
+| N3-1426 | [減らす](entries/1263/1263110-herasu.org) | へらす | herasu | 1263110 | learner | draft | **new** | Editorial review |
+| N3-1427 | [減る](entries/1263/1263120-heru.org) | へる | heru | 1263120 | learner | draft | **new** | Editorial review |
+| N3-1428 | [変化](entries/1510/1510890-henka.org) | へんか | henka | 1510890 | learner | draft | **new** | Editorial review |
+| N3-1429 | [変更](entries/1511/1511040-henkou.org) | へんこう | henkou | 1511040 | learner | draft | **new** | Editorial review |
+| N3-1430 | [別に](entries/1509/1509480-betsuni.org) | べつに | betsuni | 1509480 | learner | draft | **new** | Editorial review |
+| N3-1431 | [ベルト](entries/1120/1120070-beruto.org) | ベルト | beruto | 1120070 | learner | draft | **new** | Editorial review |
+| N3-1432 | [ベンチ](entries/1120/1120280-benchi.org) | ベンチ | benchi | 1120280 | learner | draft | **new** | Editorial review |
+| N3-1433 | [弁当](entries/1513/1513060-bentou.org) | べんとう | bentou | 1513060 | learner | draft | **new** | Editorial review |
+| N3-1434 | [番瀝青](entries/1121/1121390-penki.org) | ペンキ | penki | 1121390 | learner | draft | **new** | Editorial review |
