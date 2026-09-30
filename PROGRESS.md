@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2793 |
+| Canonical entry files | 2803 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1424 |
-| N3 queue rows covered | 1487 / 1677 (88.7%) |
+| Canonical N3 entries | 1434 |
+| N3 queue rows covered | 1497 / 1677 (89.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2756 |
+| `new` | 2766 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2783 |
+| Entry metadata still marked `draft` | 2793 |
 | Core profile | 163 |
-| Learner profile | 2629 |
+| Learner profile | 2639 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1487 rows covered (1424 distinct files) out of 1677.
-Coverage reaches N3-1489 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1497 rows covered (1434 distinct files) out of 1677.
+Coverage reaches N3-1499 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1490 (祭り).
+unchanged. The next untouched queue row is N3-1500 (回り).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **230/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **240/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -234,6 +234,7 @@ as new entries. Editorial review remains pending.
 | 21 | N3-1458–1467 | 10 |
 | 22 | N3-1468–1477 | 10 |
 | 23 | N3-1478–1489 | 10 |
+| 24 | N3-1490–1499 | 10 |
 
 ## Maturity workflow
 
@@ -2860,3 +2861,13 @@ content and remain at `new` until editorial review.
 | N3-1487 | [真っ赤](entries/1363/1363250-makka.org) | まっか | makka | 1363250 | learner | draft | **new** | Editorial review |
 | N3-1488 | [全く](entries/1394/1394800-mattaku.org) | まったく | mattaku | 1394800 | learner | draft | **new** | Editorial review |
 | N3-1489 | [松](entries/1349/1349860-matsu.org) | まつ | matsu | 1349860 | learner | draft | **new** | Editorial review |
+| N3-1490 | [祭り](entries/1604/1604130-matsuri.org) | まつり | matsuri | 1604130 | learner | draft | **new** | Editorial review |
+| N3-1491 | [学ぶ](entries/1206/1206530-manabu.org) | まなぶ | manabu | 1206530 | learner | draft | **new** | Editorial review |
+| N3-1492 | [真似](entries/1363/1363740-mane.org) | まね | mane | 1363740 | learner | draft | **new** | Editorial review |
+| N3-1493 | [招く](entries/1349/1349590-maneku.org) | まねく | maneku | 1349590 | learner | draft | **new** | Editorial review |
+| N3-1494 | [ママ](entries/1129/1129240-mama.org) | ママ | mama | 1129240 | learner | draft | **new** | Editorial review |
+| N3-1495 | [豆](entries/1450/1450030-mame.org) | まめ | mame | 1450030 | learner | draft | **new** | Editorial review |
+| N3-1496 | [守る](entries/1327/1327120-mamoru.org) | まもる | mamoru | 1327120 | learner | draft | **new** | Editorial review |
+| N3-1497 | [丸](entries/1216/1216250-maru.org) | まる | maru | 1216250 | learner | draft | **new** | Editorial review |
+| N3-1498 | [丸で](entries/1216/1216280-marude.org) | まるで | marude | 1216280 | learner | draft | **new** | Editorial review |
+| N3-1499 | [回す](entries/1199/1199350-mawasu.org) | まわす | mawasu | 1199350 | learner | draft | **new** | Editorial review |
