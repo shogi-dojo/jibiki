@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3673 |
+| Canonical entry files | 3683 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 701 |
+| Canonical N2 entries | 711 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 708 / 1635 (43.3%) |
+| N2 queue rows covered | 718 / 1635 (43.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3636 |
+| `new` | 3646 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3663 |
+| Entry metadata still marked `draft` | 3673 |
 | Core profile | 163 |
-| Learner profile | 3509 |
+| Learner profile | 3519 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -687,7 +687,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 700-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **610/700 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **620/700 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -759,6 +759,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 59 | N2-680, N2-681, N2-682, N2-683, N2-684, N2-685, N2-686, N2-687, N2-688, N2-689 | 10 |
 | 60 | N2-690, N2-691, N2-692, N2-693, N2-694, N2-695, N2-696, N2-697, N2-698, N2-699 | 10 |
 | 61 | N2-700, N2-701, N2-702, N2-703, N2-704, N2-705, N2-706, N2-707, N2-708, N2-709 | 10 |
+| 62 | N2-710, N2-711, N2-712, N2-713, N2-714, N2-715, N2-716, N2-717, N2-718, N2-719 | 10 |
 
 ## Maturity workflow
 
@@ -4281,3 +4282,13 @@ content and remain at `new` until editorial review.
 | N2-707 | [絨毯](entries/1595/1595370-juutan.org) | じゅうたん | juutan | 1595370 | learner | draft | **new** | Editorial review |
 | N2-708 | [重点](entries/1336/1336570-juuten.org) | じゅうてん | juuten | 1336570 | learner | draft | **new** | Editorial review |
 | N2-709 | [重役](entries/1336/1336770-juuyaku.org) | じゅうやく | juuyaku | 1336770 | learner | draft | **new** | Editorial review |
+| N2-710 | [重量](entries/1336/1336900-juuryou.org) | じゅうりょう | juuryou | 1336900 | learner | draft | **new** | Editorial review |
+| N2-711 | [重力](entries/1336/1336980-juuryoku.org) | じゅうりょく | juuryoku | 1336980 | learner | draft | **new** | Editorial review |
+| N2-712 | [熟語](entries/1337/1337830-jukugo.org) | じゅくご | jukugo | 1337830 | learner | draft | **new** | Editorial review |
+| N2-713 | [受験](entries/1329/1329740-juken.org) | じゅけん | juken | 1329740 | learner | draft | **new** | Editorial review |
+| N2-714 | [述語](entries/1340/1340840-jutsugo.org) | じゅつご | jutsugo | 1340840 | learner | draft | **new** | Editorial review |
+| N2-715 | [寿命](entries/1330/1330240-jumyou.org) | じゅみょう | jumyou | 1330240 | learner | draft | **new** | Editorial review |
+| N2-716 | [受話器](entries/1330/1330090-juwaki.org) | じゅわき | juwaki | 1330090 | learner | draft | **new** | Editorial review |
+| N2-717 | [循環](entries/1341/1341340-junkan.org) | じゅんかん | junkan | 1341340 | learner | draft | **new** | Editorial review |
+| N2-718 | [巡査](entries/1342/1342110-junsa.org) | じゅんさ | junsa | 1342110 | learner | draft | **new** | Editorial review |
+| N2-719 | [順々](entries/1342/1342230-junjun.org) | じゅんじゅん | junjun | 1342230 | learner | draft | **new** | Editorial review |
