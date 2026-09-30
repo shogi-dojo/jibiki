@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3443 |
+| Canonical entry files | 3453 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 471 |
+| Canonical N2 entries | 481 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 478 / 1635 (29.2%) |
+| N2 queue rows covered | 488 / 1635 (29.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3406 |
+| `new` | 3416 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3433 |
+| Entry metadata still marked `draft` | 3443 |
 | Core profile | 163 |
-| Learner profile | 3279 |
+| Learner profile | 3289 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -468,7 +468,7 @@ All added entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **380/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **390/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -517,6 +517,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 36 | N2-450, N2-451, N2-452, N2-453, N2-454, N2-455, N2-456, N2-457, N2-458, N2-459 | 10 |
 | 37 | N2-460, N2-461, N2-462, N2-463, N2-464, N2-465, N2-466, N2-467, N2-468, N2-469 | 10 |
 | 38 | N2-470, N2-471, N2-472, N2-473, N2-474, N2-475, N2-476, N2-477, N2-478, N2-479 | 10 |
+| 39 | N2-480, N2-481, N2-482, N2-483, N2-484, N2-485, N2-486, N2-487, N2-488, N2-489 | 10 |
 
 ## Maturity workflow
 
@@ -3809,3 +3810,13 @@ content and remain at `new` until editorial review.
 | N2-477 | [国立](entries/1287/1287180-kokuritsu.org) | こくりつ | kokuritsu | 1287180 | learner | draft | **new** | Editorial review |
 | N2-478 | [心当たり](entries/1360/1360890-kokoroatari.org) | こころあたり | kokoroatari | 1360890 | learner | draft | **new** | Editorial review |
 | N2-479 | [心得る](entries/1360/1360920-kokoroeru.org) | こころえる | kokoroeru | 1360920 | learner | draft | **new** | Editorial review |
+| N2-480 | [腰掛け](entries/1288/1288370-koshikake.org) | こしかけ | koshikake | 1288370 | learner | draft | **new** | Editorial review |
+| N2-481 | [腰掛ける](entries/1288/1288350-koshikakeru.org) | こしかける | koshikakeru | 1288350 | learner | draft | **new** | Editorial review |
+| N2-482 | [胡椒](entries/1267/1267600-koshou.org) | こしょう | koshou | 1267600 | learner | draft | **new** | Editorial review |
+| N2-483 | [拵える](entries/1567/1567390-koshiraeru.org) | こしらえる | koshiraeru | 1567390 | learner | draft | **new** | Editorial review |
+| N2-484 | [擦る](entries/1298/1298910-kosuru.org) | こする | kosuru | 1298910 | learner | draft | **new** | Editorial review |
+| N2-485 | [個体](entries/1264/1264980-kotai.org) | こたい | kotai | 1264980 | learner | draft | **new** | Editorial review |
+| N2-486 | [此方こそ](entries/1004/1004510-kochirakoso.org) | こちらこそ | kochirakoso | 1004510 | learner | draft | **new** | Editorial review |
+| N2-487 | [コック](entries/1050/1050310-kokku.org) | コック | kokku | 1050310 | learner | draft | **new** | Editorial review |
+| N2-488 | [こっそり](entries/1004/1004520-kossori.org) | こっそり | kossori | 1004520 | learner | draft | **new** | Editorial review |
+| N2-489 | [小遣い](entries/1348/1348030-kozukai.org) | こづかい | kozukai | 1348030 | learner | draft | **new** | Editorial review |
