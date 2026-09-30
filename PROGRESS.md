@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3253 |
+| Canonical entry files | 3263 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 281 |
+| Canonical N2 entries | 291 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 287 / 1635 (17.6%) |
+| N2 queue rows covered | 297 / 1635 (18.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3216 |
+| `new` | 3226 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3243 |
+| Entry metadata still marked `draft` | 3253 |
 | Core profile | 163 |
-| Learner profile | 3089 |
+| Learner profile | 3099 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -388,8 +388,8 @@ complete source-sense fingerprints, source archive hashes, all authored
 content, the primary example sense, and Git authorship.
 
 N2-95–197 are covered. N2-149, N2-167, and N2-178 are aliases of existing
-entries and are excluded from the new-word count. The next untouched row
-is N2-198 (蚊). The earlier N2-69 usage review remains deferred.
+entries and are excluded from the new-word count. At this checkpoint, the
+next untouched row was N2-198 (蚊). The earlier N2-69 usage review remains deferred.
 All new entries remain `new` / `draft`, pending editorial review.
 
 | Batch | Queue rows | New entries |
@@ -405,38 +405,48 @@ All new entries remain `new` / `draft`, pending editorial review.
 | 9 | N2-177–187 | 10 |
 | 10 | N2-188–197 | 10 |
 
-## Current-branch 200-word N2 continuation (2026-09-30)
+## Completed current-branch 200-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **190/200 new words**
-in batches of ten, one commit per word under Ihor. Content author is `codex`.
-Each English semantic sense has an original Ukrainian gloss and usage note;
-each entry has three graded examples. All added entries passed validation,
-Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
-Editorial review remains pending.
-N2-69 is deferred for a dedicated standalone-usage review.
-Previously authored aliases remain excluded from the new-word count.
+Baseline: `8014141b` (merged PR #11). Completed **200/200 new words**
+in twenty batches of ten, with one commit per word under Ihor and content
+author `codex`. All 366 English semantic senses have independently authored
+Ukrainian glosses and usage notes. The entries include 600 graded examples,
+each with Japanese text, kana reading, Ukrainian and English translations.
+
+Fresh checks across all 200 added entries passed JMdict validation, Org lint,
+and doctor 100/100 with zero errors or warnings. The test suite passed
+137 tests and 10,334 assertions. Full-branch audits verified 200 distinct
+new JMdict IDs, complete source-sense fingerprints, source archive hashes,
+all authored content, the primary example sense, and Git authorship.
+
+N2-95–298 are covered. N2-149, N2-167, N2-178, and N2-241 are unchanged
+aliases of existing entries and are excluded from the new-word count.
+The next untouched row is N2-299 (関西). N2-69 remains deferred for a
+dedicated standalone-usage review. All new entries remain `new` / `draft`,
+pending editorial review. The uncommitted 罪 draft was preserved.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
-| 1 | N2-95, N2-96, N2-97, N2-98, N2-99, N2-100, N2-101, N2-102, N2-103, N2-104 | 10 |
-| 2 | N2-105, N2-106, N2-107, N2-108, N2-109, N2-110, N2-111, N2-112, N2-113, N2-114 | 10 |
-| 3 | N2-115, N2-116, N2-117, N2-118, N2-119, N2-120, N2-121, N2-122, N2-123, N2-124 | 10 |
-| 4 | N2-125, N2-126, N2-127, N2-128, N2-129, N2-130, N2-131, N2-132, N2-133, N2-134 | 10 |
-| 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
-| 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
-| 7 | N2-156, N2-157, N2-158, N2-159, N2-160, N2-161, N2-162, N2-163, N2-164, N2-165 | 10 |
-| 8 | N2-166, N2-167, N2-168, N2-169, N2-170, N2-171, N2-172, N2-173, N2-174, N2-175, N2-176 | 10 |
-| 9 | N2-177, N2-178, N2-179, N2-180, N2-181, N2-182, N2-183, N2-184, N2-185, N2-186, N2-187 | 10 |
-| 10 | N2-188, N2-189, N2-190, N2-191, N2-192, N2-193, N2-194, N2-195, N2-196, N2-197 | 10 |
-| 11 | N2-198, N2-199, N2-200, N2-201, N2-202, N2-203, N2-204, N2-205, N2-206, N2-207 | 10 |
-| 12 | N2-208, N2-209, N2-210, N2-211, N2-212, N2-213, N2-214, N2-215, N2-216, N2-217 | 10 |
-| 13 | N2-218, N2-219, N2-220, N2-221, N2-222, N2-223, N2-224, N2-225, N2-226, N2-227 | 10 |
-| 14 | N2-228, N2-229, N2-230, N2-231, N2-232, N2-233, N2-234, N2-235, N2-236, N2-237 | 10 |
-| 15 | N2-238, N2-239, N2-240, N2-241, N2-242, N2-243, N2-244, N2-245, N2-246, N2-247, N2-248 | 10 |
-| 16 | N2-249, N2-250, N2-251, N2-252, N2-253, N2-254, N2-255, N2-256, N2-257, N2-258 | 10 |
-| 17 | N2-259, N2-260, N2-261, N2-262, N2-263, N2-264, N2-265, N2-266, N2-267, N2-268 | 10 |
-| 18 | N2-269, N2-270, N2-271, N2-272, N2-273, N2-274, N2-275, N2-276, N2-277, N2-278 | 10 |
-| 19 | N2-279, N2-280, N2-281, N2-282, N2-283, N2-284, N2-285, N2-286, N2-287, N2-288 | 10 |
+| 1 | N2-95–104 | 10 |
+| 2 | N2-105–114 | 10 |
+| 3 | N2-115–124 | 10 |
+| 4 | N2-125–134 | 10 |
+| 5 | N2-135–144 | 10 |
+| 6 | N2-145–155 | 10 |
+| 7 | N2-156–165 | 10 |
+| 8 | N2-166–176 | 10 |
+| 9 | N2-177–187 | 10 |
+| 10 | N2-188–197 | 10 |
+| 11 | N2-198–207 | 10 |
+| 12 | N2-208–217 | 10 |
+| 13 | N2-218–227 | 10 |
+| 14 | N2-228–237 | 10 |
+| 15 | N2-238–248 | 10 |
+| 16 | N2-249–258 | 10 |
+| 17 | N2-259–268 | 10 |
+| 18 | N2-269–278 | 10 |
+| 19 | N2-279–288 | 10 |
+| 20 | N2-289–298 | 10 |
 
 ## Maturity workflow
 
@@ -3538,3 +3548,13 @@ content and remain at `new` until editorial review.
 | N2-286 | [カラー](entries/1038/1038500-karaa.org) | カラー | karaa | 1038500 | learner | draft | **new** | Editorial review |
 | N2-287 | [歌留多](entries/1590/1590710-karuta.org) | カルタ | karuta | 1590710 | learner | draft | **new** | Editorial review |
 | N2-288 | [枯れる](entries/1267/1267220-kareru.org) | かれる | kareru | 1267220 | learner | draft | **new** | Editorial review |
+| N2-289 | [カロリー](entries/1039/1039300-karorii.org) | カロリー | karorii | 1039300 | learner | draft | **new** | Editorial review |
+| N2-290 | [可愛がる](entries/1190/1190730-kawaigaru.org) | かわいがる | kawaigaru | 1190730 | learner | draft | **new** | Editorial review |
+| N2-291 | [乾かす](entries/1209/1209630-kawakasu.org) | かわかす | kawakasu | 1209630 | learner | draft | **new** | Editorial review |
+| N2-292 | [渇く](entries/1208/1208520-kawaku.org) | かわく | kawaku | 1208520 | learner | draft | **new** | Editorial review |
+| N2-293 | [為替](entries/1157/1157330-kawase.org) | かわせ | kawase | 1157330 | learner | draft | **new** | Editorial review |
+| N2-294 | [瓦](entries/1209/1209580-kawara.org) | かわら | kawara | 1209580 | learner | draft | **new** | Editorial review |
+| N2-295 | [替わる](entries/1590/1590820-kawaru.org) | かわる | kawaru | 1590820 | learner | draft | **new** | Editorial review |
+| N2-296 | [間隔](entries/1215/1215380-kankaku.org) | かんかく | kankaku | 1215380 | learner | draft | **new** | Editorial review |
+| N2-297 | [換気](entries/1212/1212780-kanki.org) | かんき | kanki | 1212780 | learner | draft | **new** | Editorial review |
+| N2-298 | [感激](entries/1212/1212360-kangeki.org) | かんげき | kangeki | 1212360 | learner | draft | **new** | Editorial review |
