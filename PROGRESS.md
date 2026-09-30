@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3823 |
+| Canonical entry files | 3833 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 851 |
+| Canonical N2 entries | 861 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 858 / 1635 (52.5%) |
+| N2 queue rows covered | 868 / 1635 (53.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3786 |
+| `new` | 3796 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3813 |
+| Entry metadata still marked `draft` | 3823 |
 | Core profile | 163 |
-| Learner profile | 3659 |
+| Learner profile | 3669 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **760/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **770/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -869,6 +869,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 74 | N2-830, N2-831, N2-832, N2-833, N2-834, N2-835, N2-836, N2-837, N2-838, N2-839 | 10 |
 | 75 | N2-840, N2-841, N2-842, N2-843, N2-844, N2-845, N2-846, N2-847, N2-848, N2-849 | 10 |
 | 76 | N2-850, N2-851, N2-852, N2-853, N2-854, N2-855, N2-856, N2-857, N2-858, N2-859 | 10 |
+| 77 | N2-860, N2-861, N2-862, N2-863, N2-864, N2-865, N2-866, N2-867, N2-868, N2-869 | 10 |
 
 ## Maturity workflow
 
@@ -4541,3 +4542,13 @@ content and remain at `new` until editorial review.
 | N2-857 | [剃る](entries/1581/1581900-soru.org) | そる | soru | 1581900 | learner | draft | **new** | Editorial review |
 | N2-858 | [それなのに](entries/2055/2055520-sorenanoni.org) | それなのに | sorenanoni | 2055520 | learner | draft | **new** | Editorial review |
 | N2-859 | [逸れる](entries/1576/1576360-soreru.org) | それる | soreru | 1576360 | learner | draft | **new** | Editorial review |
+| N2-860 | [揃う](entries/1406/1406110-sorou.org) | そろう | sorou | 1406110 | learner | draft | **new** | Editorial review |
+| N2-861 | [揃える](entries/1406/1406120-soroeru.org) | そろえる | soroeru | 1406120 | learner | draft | **new** | Editorial review |
+| N2-862 | [算盤](entries/1596/1596700-soroban.org) | そろばん | soroban | 1596700 | learner | draft | **new** | Editorial review |
+| N2-863 | [損得](entries/1406/1406770-sontoku.org) | そんとく | sontoku | 1406770 | learner | draft | **new** | Editorial review |
+| N2-864 | [雑巾](entries/1299/1299370-zoukin.org) | ぞうきん | zoukin | 1299370 | learner | draft | **new** | Editorial review |
+| N2-865 | [増減](entries/1403/1403200-zougen.org) | ぞうげん | zougen | 1403200 | learner | draft | **new** | Editorial review |
+| N2-866 | [造船](entries/1403/1403720-zousen.org) | ぞうせん | zousen | 1403720 | learner | draft | **new** | Editorial review |
+| N2-867 | [増大](entries/1403/1403310-zoudai.org) | ぞうだい | zoudai | 1403310 | learner | draft | **new** | Editorial review |
+| N2-868 | [草履](entries/1402/1402060-zouri.org) | ぞうり | zouri | 1402060 | learner | draft | **new** | Editorial review |
+| N2-869 | [属する](entries/1405/1405710-zokusuru.org) | ぞくする | zokusuru | 1405710 | learner | draft | **new** | Editorial review |
