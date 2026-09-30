@@ -33,28 +33,30 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2963 |
+| Canonical entry files | 2973 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1594 |
-| N3 queue rows covered | 1666 / 1677 (99.3%) |
+| Canonical N2 entries | 1 |
+| Canonical N3 entries | 1603 |
+| N2 queue rows covered | 1 / 1635 (0.1%) |
+| N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2926 |
+| `new` | 2936 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2953 |
+| Entry metadata still marked `draft` | 2963 |
 | Core profile | 163 |
-| Learner profile | 2799 |
+| Learner profile | 2809 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1666 rows covered (1662 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1668 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1677 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1669 (態と).
+unchanged. The standard N3 queue is exhausted; N3-1084 and N3-1191 remain deferred. New work continues with the N2 candidate queue.
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -301,6 +303,60 @@ as new entries. Editorial review remains pending.
 | 38 | N3-1639–1648 | 10 |
 | 39 | N3-1649–1658 | 10 |
 | 40 | N3-1659–1668 | 10 |
+
+## Current-branch 500-word continuation (2026-09-30)
+
+Baseline: `f94d38a2` (merged PR #10). Completed **410/500 new words**
+in batches of ten, one commit per word under Ihor. Content author is `codex`.
+Each English semantic sense has an original Ukrainian gloss and usage note;
+each entry has three graded examples. All added entries passed validation,
+Org lint, and doctor 100/100 with zero errors or warnings. The remaining
+standard N3 entries are followed by N2 candidates, as requested.
+Editorial review remains pending.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1251–1261 | 10 |
+| 2 | N3-1262–1271 | 10 |
+| 3 | N3-1272–1283 | 10 |
+| 4 | N3-1284–1293 | 10 |
+| 5 | N3-1294–1303 | 10 |
+| 6 | N3-1304–1313 | 10 |
+| 7 | N3-1314–1323 | 10 |
+| 8 | N3-1324–1333 | 10 |
+| 9 | N3-1334–1343 | 10 |
+| 10 | N3-1344–1353 | 10 |
+| 11 | N3-1354–1364 | 10 |
+| 12 | N3-1365–1374 | 10 |
+| 13 | N3-1375–1384 | 10 |
+| 14 | N3-1385–1394 | 10 |
+| 15 | N3-1395–1404 | 10 |
+| 16 | N3-1405–1414 | 10 |
+| 17 | N3-1415–1424 | 10 |
+| 18 | N3-1425–1434 | 10 |
+| 19 | N3-1435–1445 | 10 |
+| 20 | N3-1446–1457 | 10 |
+| 21 | N3-1458–1467 | 10 |
+| 22 | N3-1468–1477 | 10 |
+| 23 | N3-1478–1489 | 10 |
+| 24 | N3-1490–1499 | 10 |
+| 25 | N3-1500–1509 | 10 |
+| 26 | N3-1510–1520 | 10 |
+| 27 | N3-1521–1530 | 10 |
+| 28 | N3-1531–1540 | 10 |
+| 29 | N3-1541–1550 | 10 |
+| 30 | N3-1551–1562 | 10 |
+| 31 | N3-1563–1573 | 10 |
+| 32 | N3-1574–1584 | 10 |
+| 33 | N3-1585–1594 | 10 |
+| 34 | N3-1595–1607 | 10 |
+| 35 | N3-1608–1617 | 10 |
+| 36 | N3-1618–1627 | 10 |
+| 37 | N3-1628–1638 | 10 |
+| 38 | N3-1639–1648 | 10 |
+| 39 | N3-1649–1658 | 10 |
+| 40 | N3-1659–1668 | 10 |
+| 41 | N3-1669, N3-1670, N3-1671, N3-1672, N3-1673, N3-1674, N3-1675, N3-1676, N3-1677, N2-1 | 10 |
 
 ## Maturity workflow
 
@@ -3106,3 +3162,13 @@ content and remain at `new` until editorial review.
 | N3-1666 | [我儘](entries/1197/1197020-wagamama.org) | わがまま | wagamama | 1197020 | learner | draft | **new** | Editorial review |
 | N3-1667 | [脇](entries/1562/1562530-waki.org) | わき | waki | 1562530 | learner | draft | **new** | Editorial review |
 | N3-1668 | [分ける](entries/1503/1503000-wakeru.org) | わける | wakeru | 1503000 | learner | draft | **new** | Editorial review |
+| N3-1669 | [態と](entries/1410/1410760-wazato.org) | わざと | wazato | 1410760 | learner | draft | **new** | Editorial review |
+| N3-1670 | [僅か](entries/1240/1240750-wazuka.org) | わずか | wazuka | 1240750 | learner | draft | **new** | Editorial review |
+| N3-1671 | [綿](entries/1533/1533340-wata.org) | わた | wata | 1533340 | learner | draft | **new** | Editorial review |
+| N3-1672 | [話題](entries/1562/1562400-wadai.org) | わだい | wadai | 1562400 | learner | draft | **new** | Editorial review |
+| N3-1673 | [笑い](entries/1351/1351280-warai.org) | わらい | warai | 1351280 | learner | draft | **new** | Editorial review |
+| N3-1674 | [割る](entries/1208/1208000-waru.org) | わる | waru | 1208000 | learner | draft | **new** | Editorial review |
+| N3-1675 | [悪口](entries/1575/1575730-waruguchi.org) | わるぐち | waruguchi | 1575730 | learner | draft | **new** | Editorial review |
+| N3-1676 | [我々](entries/1607/1607050-wareware.org) | われわれ | wareware | 1607050 | learner | draft | **new** | Editorial review |
+| N3-1677 | [湾](entries/1562/1562800-wan.org) | わん | wan | 1562800 | learner | draft | **new** | Editorial review |
+| N2-1 | [相変わらず](entries/1401/1401310-aikawarazu.org) | あいかわらず | aikawarazu | 1401310 | learner | draft | **new** | Editorial review |
