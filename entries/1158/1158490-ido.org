@@ -1,0 +1,247 @@
+#+TITLE: 緯度
+#+JMDICT_ID: 1158490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いど
+#+ROMAJI: ido
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1158490-001
+:PROPERTIES:
+:TEXT: 緯度
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf30
+** Reading rd-1158490-001
+:PROPERTIES:
+:TEXT: いど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf30
+
+* Sense s-1158490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0d24a78e87e37165b6979c7e3f88e9761a35fe217e7f638e991fffa6cb5c008f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 経度
+** English glosses
+- latitude
+** Ukrainian glosses
+*** uk-s-1158490-001-001
+:PROPERTIES:
+:END:
+- text :: широта; географічна широта
+** Learner notes
+*** note-s-1158490-001-001
+:PROPERTIES:
+:END:
+- UK :: ~緯度と経度~ — широта й довгота. Визначає положення на північ або південь від екватора; не омонім ~井戸~ — колодязь.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1158490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 緯度を調べます。
+- READING :: いどをしらべます。
+- UK :: Я перевіряю географічну широту.
+- EN :: I check the latitude.
+- FOCUS :: 緯度
+*** ex-1158490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地図で町の緯度を確認しました。
+- READING :: ちずでまちのいどをかくにんしました。
+- UK :: Я перевірив на карті широту міста.
+- EN :: I checked the town’s latitude on the map.
+- FOCUS :: 緯度
+*** ex-1158490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ緯度にある町でも、海からの距離によって気候が違うことがあります。
+- READING :: おなじいどにあるまちでも、うみからのきょりによってきこうがちがうことがあります。
+- UK :: Навіть у міст на одній широті клімат може відрізнятися залежно від відстані до моря.
+- EN :: Even towns at the same latitude can have different climates depending on their distance from the sea.
+- FOCUS :: 緯度
+
+* Sense s-1158490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bc749b652b614c752b7848abe4b5631dc5c1fc980581fdc69498673efd027b57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breedtegraad
+*** en-s-1158490-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: latitude
+*** en-s-1158490-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geografische breedte
+*** en-s-1158490-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parallel
+** Ukrainian glosses
+
+* Sense s-1158490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 697e8763ac709635d6c3a1f5920551f1f3ba24e5785274961255d826b62ef4d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: latitude
+** Ukrainian glosses
+
+* Sense s-1158490-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 20c704cf54fed92b8fe10e4c5d9a30de7c511210da3d8a139620e77d2e61ccae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Breitengrad
+*** en-s-1158490-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Latitüde
+** Ukrainian glosses
+
+* Sense s-1158490-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d5f35f89b88518f27efe1e423d6ff1b3749dcc4b4d3b22630541b007e3afd894
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földrajzi szélesség
+*** en-s-1158490-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mozgástér
+*** en-s-1158490-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szélességi fok
+** Ukrainian glosses
+
+* Sense s-1158490-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 372bd4895f67f2189451257f744725ced7ed203c2f347cc610e1b04af7a17159
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (геогр.) широта, параллель
+** Ukrainian glosses
+
+* Sense s-1158490-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2e013d16573a0d7fa08afbe2fa8c6e034501afdd24cf34bc2a907c123fb99bf2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158490-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: latitud (nav.)
+** Ukrainian glosses
