@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3343 |
+| Canonical entry files | 3353 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 371 |
+| Canonical N2 entries | 381 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 378 / 1635 (23.1%) |
+| N2 queue rows covered | 388 / 1635 (23.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3306 |
+| `new` | 3316 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3333 |
+| Entry metadata still marked `draft` | 3343 |
 | Core profile | 163 |
-| Learner profile | 3179 |
+| Learner profile | 3189 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **280/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **290/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -489,6 +489,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 26 | N2-350, N2-351, N2-352, N2-353, N2-354, N2-355, N2-356, N2-357, N2-358, N2-359 | 10 |
 | 27 | N2-360, N2-361, N2-362, N2-363, N2-364, N2-365, N2-366, N2-367, N2-368, N2-369 | 10 |
 | 28 | N2-370, N2-371, N2-372, N2-373, N2-374, N2-375, N2-376, N2-377, N2-378, N2-379 | 10 |
+| 29 | N2-380, N2-381, N2-382, N2-383, N2-384, N2-385, N2-386, N2-387, N2-388, N2-389 | 10 |
 
 ## Maturity workflow
 
@@ -3681,3 +3682,13 @@ content and remain at `new` until editorial review.
 | N2-377 | [崩れる](entries/1516/1516270-kuzureru.org) | くずれる | kuzureru | 1516270 | learner | draft | **new** | Editorial review |
 | N2-378 | [草臥れる](entries/1003/1003810-kutabireru.org) | くたびれる | kutabireru | 1003810 | learner | draft | **new** | Editorial review |
 | N2-379 | [砕ける](entries/1295/1295190-kudakeru.org) | くだける | kudakeru | 1295190 | learner | draft | **new** | Editorial review |
+| N2-380 | [下らない](entries/1184/1184360-kudaranai.org) | くだらない | kudaranai | 1184360 | learner | draft | **new** | Editorial review |
+| N2-381 | [下る](entries/1184/1184450-kudaru.org) | くだる | kudaru | 1184450 | learner | draft | **new** | Editorial review |
+| N2-382 | [唇](entries/1359/1359940-kuchibiru.org) | くちびる | kuchibiru | 1359940 | learner | draft | **new** | Editorial review |
+| N2-383 | [口紅](entries/1276/1276110-kuchibeni.org) | くちべに | kuchibeni | 1276110 | learner | draft | **new** | Editorial review |
+| N2-384 | [くっ付く](entries/1003/1003860-kuttsuku.org) | くっつく | kuttsuku | 1003860 | learner | draft | **new** | Editorial review |
+| N2-385 | [くっ付ける](entries/1003/1003870-kuttsukeru.org) | くっつける | kuttsukeru | 1003870 | learner | draft | **new** | Editorial review |
+| N2-386 | [句読点](entries/1244/1244050-kutouten.org) | くとうてん | kutouten | 1244050 | learner | draft | **new** | Editorial review |
+| N2-387 | [配る](entries/1472/1472990-kubaru.org) | くばる | kubaru | 1472990 | learner | draft | **new** | Editorial review |
+| N2-388 | [工夫](entries/1278/1278220-kufuu.org) | くふう | kufuu | 1278220 | learner | draft | **new** | Editorial review |
+| N2-389 | [区分](entries/1244/1244230-kubun.org) | くぶん | kubun | 1244230 | learner | draft | **new** | Editorial review |
