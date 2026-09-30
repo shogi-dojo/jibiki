@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2623 |
+| Canonical entry files | 2633 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1254 |
-| N3 queue rows covered | 1311 / 1677 (78.2%) |
+| Canonical N3 entries | 1264 |
+| N3 queue rows covered | 1321 / 1677 (78.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2586 |
+| `new` | 2596 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2613 |
+| Entry metadata still marked `draft` | 2623 |
 | Core profile | 163 |
-| Learner profile | 2459 |
+| Learner profile | 2469 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1311 rows covered (1254 distinct files) out of 1677.
-Coverage reaches N3-1313 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1321 rows covered (1264 distinct files) out of 1677.
+Coverage reaches N3-1323 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1314 (場).
+unchanged. The next untouched queue row is N3-1324 (バン).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **60/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **70/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -158,6 +158,7 @@ as new entries. Editorial review remains pending.
 | 4 | N3-1284–1293 | 10 |
 | 5 | N3-1294–1303 | 10 |
 | 6 | N3-1304–1313 | 10 |
+| 7 | N3-1314–1323 | 10 |
 
 ## Maturity workflow
 
@@ -2608,3 +2609,13 @@ content and remain at `new` until editorial review.
 | N3-1311 | [判断](entries/1478/1478620-handan.org) | はんだん | handan | 1478620 | learner | draft | **new** | Editorial review |
 | N3-1312 | [犯人](entries/1481/1481630-hannin.org) | はんにん | hannin | 1481630 | learner | draft | **new** | Editorial review |
 | N3-1313 | [販売](entries/1481/1481800-hanbai.org) | はんばい | hanbai | 1481800 | learner | draft | **new** | Editorial review |
+| N3-1314 | [場](entries/1355/1355790-ba.org) | ば | ba | 1355790 | learner | draft | **new** | Editorial review |
+| N3-1315 | [バイオリン](entries/1097/1097740-baiorin.org) | バイオリン | baiorin | 1097740 | learner | draft | **new** | Editorial review |
+| N3-1316 | [馬鹿](entries/1601/1601260-baka.org) | ばか | baka | 1601260 | learner | draft | **new** | Editorial review |
+| N3-1317 | [麦酒](entries/1104/1104550-bakushu.org) | ばくしゅ | bakushu | 1104550 | learner | draft | **new** | Editorial review |
+| N3-1318 | [莫大](entries/1476/1476060-bakudai.org) | ばくだい | bakudai | 1476060 | learner | draft | **new** | Editorial review |
+| N3-1319 | [爆発](entries/1475/1475910-bakuhatsu.org) | ばくはつ | bakuhatsu | 1475910 | learner | draft | **new** | Editorial review |
+| N3-1320 | [バッグ](entries/1099/1099100-baggu.org) | バッグ | baggu | 1099100 | learner | draft | **new** | Editorial review |
+| N3-1321 | [罰する](entries/1478/1478080-bassuru.org) | ばっする | bassuru | 1478080 | learner | draft | **new** | Editorial review |
+| N3-1322 | [ばったり](entries/1632/1632430-battari.org) | ばったり | battari | 1632430 | learner | draft | **new** | Editorial review |
+| N3-1323 | [場面](entries/1355/1355910-bamen.org) | ばめん | bamen | 1355910 | learner | draft | **new** | Editorial review |
