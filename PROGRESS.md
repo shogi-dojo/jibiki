@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3423 |
+| Canonical entry files | 3433 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 451 |
+| Canonical N2 entries | 461 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 458 / 1635 (28.0%) |
+| N2 queue rows covered | 468 / 1635 (28.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3386 |
+| `new` | 3396 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3413 |
+| Entry metadata still marked `draft` | 3423 |
 | Core profile | 163 |
-| Learner profile | 3259 |
+| Learner profile | 3269 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -468,7 +468,7 @@ All added entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **360/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **370/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -515,6 +515,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 34 | N2-430, N2-431, N2-432, N2-433, N2-434, N2-435, N2-436, N2-437, N2-438, N2-439 | 10 |
 | 35 | N2-440, N2-441, N2-442, N2-443, N2-444, N2-445, N2-446, N2-447, N2-448, N2-449 | 10 |
 | 36 | N2-450, N2-451, N2-452, N2-453, N2-454, N2-455, N2-456, N2-457, N2-458, N2-459 | 10 |
+| 37 | N2-460, N2-461, N2-462, N2-463, N2-464, N2-465, N2-466, N2-467, N2-468, N2-469 | 10 |
 
 ## Maturity workflow
 
@@ -3787,3 +3788,13 @@ content and remain at `new` until editorial review.
 | N2-457 | [光線](entries/1273/1273030-kousen.org) | こうせん | kousen | 1273030 | learner | draft | **new** | Editorial review |
 | N2-458 | [高層](entries/1283/1283690-kousou.org) | こうそう | kousou | 1283690 | learner | draft | **new** | Editorial review |
 | N2-459 | [構造](entries/1279/1279790-kouzou.org) | こうぞう | kouzou | 1279790 | learner | draft | **new** | Editorial review |
+| N2-460 | [交代](entries/1592/1592990-koutai.org) | こうたい | koutai | 1592990 | learner | draft | **new** | Editorial review |
+| N2-461 | [耕地](entries/1280/1280990-kouchi.org) | こうち | kouchi | 1280990 | learner | draft | **new** | Editorial review |
+| N2-462 | [交通機関](entries/1272/1272320-koutsuukikan.org) | こうつうきかん | koutsuukikan | 1272320 | learner | draft | **new** | Editorial review |
+| N2-463 | [校庭](entries/1279/1279600-koutei.org) | こうてい | koutei | 1279600 | learner | draft | **new** | Editorial review |
+| N2-464 | [高等](entries/1283/1283850-koutou.org) | こうとう | koutou | 1283850 | learner | draft | **new** | Editorial review |
+| N2-465 | [高度](entries/1283/1283830-koudo.org) | こうど | koudo | 1283830 | learner | draft | **new** | Editorial review |
+| N2-466 | [後輩](entries/1270/1270010-kouhai.org) | こうはい | kouhai | 1270010 | learner | draft | **new** | Editorial review |
+| N2-467 | [公表](entries/1274/1274550-kouhyou.org) | こうひょう | kouhyou | 1274550 | learner | draft | **new** | Editorial review |
+| N2-468 | [鉱物](entries/1282/1282650-koubutsu.org) | こうぶつ | koubutsu | 1282650 | learner | draft | **new** | Editorial review |
+| N2-469 | [公務](entries/1274/1274810-koumu.org) | こうむ | koumu | 1274810 | learner | draft | **new** | Editorial review |
