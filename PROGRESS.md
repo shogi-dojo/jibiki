@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3273 |
+| Canonical entry files | 3283 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 301 |
+| Canonical N2 entries | 311 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 307 / 1635 (18.8%) |
+| N2 queue rows covered | 317 / 1635 (19.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3236 |
+| `new` | 3246 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3263 |
+| Entry metadata still marked `draft` | 3273 |
 | Core profile | 163 |
-| Learner profile | 3109 |
+| Learner profile | 3119 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -450,7 +450,7 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **210/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **220/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -482,6 +482,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 19 | N2-279, N2-280, N2-281, N2-282, N2-283, N2-284, N2-285, N2-286, N2-287, N2-288 | 10 |
 | 20 | N2-289, N2-290, N2-291, N2-292, N2-293, N2-294, N2-295, N2-296, N2-297, N2-298 | 10 |
 | 21 | N2-299, N2-300, N2-301, N2-302, N2-303, N2-304, N2-305, N2-306, N2-307, N2-308 | 10 |
+| 22 | N2-309, N2-310, N2-311, N2-312, N2-313, N2-314, N2-315, N2-316, N2-317, N2-318 | 10 |
 
 ## Maturity workflow
 
@@ -3603,3 +3604,13 @@ content and remain at `new` until editorial review.
 | N2-306 | [勘違い](entries/1210/1210620-kanchigai.org) | かんちがい | kanchigai | 1210620 | learner | draft | **new** | Editorial review |
 | N2-307 | [官庁](entries/1211/1211730-kanchou.org) | かんちょう | kanchou | 1211730 | learner | draft | **new** | Editorial review |
 | N2-308 | [缶詰](entries/1214/1214560-kanzume.org) | かんづめ | kanzume | 1214560 | learner | draft | **new** | Editorial review |
+| N2-309 | [乾電池](entries/1210/1210100-kandenchi.org) | かんでんち | kandenchi | 1210100 | learner | draft | **new** | Editorial review |
+| N2-310 | [関東](entries/1216/1216010-kantou.org) | かんとう | kantou | 1216010 | learner | draft | **new** | Editorial review |
+| N2-311 | [観念](entries/1215/1215010-kannen.org) | かんねん | kannen | 1215010 | learner | draft | **new** | Editorial review |
+| N2-312 | [看板](entries/1213/1213990-kanban.org) | かんばん | kanban | 1213990 | learner | draft | **new** | Editorial review |
+| N2-313 | [看病](entries/1214/1214030-kanbyou.org) | かんびょう | kanbyou | 1214030 | learner | draft | **new** | Editorial review |
+| N2-314 | [冠](entries/1577/1577620-kanmuri.org) | かんむり | kanmuri | 1577620 | learner | draft | **new** | Editorial review |
+| N2-315 | [漢和](entries/1213/1213260-kanwa.org) | かんわ | kanwa | 1213260 | learner | draft | **new** | Editorial review |
+| N2-316 | [カーブ](entries/1036/1036560-kaabu.org) | カーブ | kaabu | 1036560 | learner | draft | **new** | Editorial review |
+| N2-317 | [外部](entries/1204/1204070-gaibu.org) | がいぶ | gaibu | 1204070 | learner | draft | **new** | Editorial review |
+| N2-318 | [概論](entries/1204/1204520-gairon.org) | がいろん | gairon | 1204520 | learner | draft | **new** | Editorial review |
