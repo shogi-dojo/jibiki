@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2943 |
+| Canonical entry files | 2953 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1574 |
-| N3 queue rows covered | 1646 / 1677 (98.2%) |
+| Canonical N3 entries | 1584 |
+| N3 queue rows covered | 1656 / 1677 (98.7%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2906 |
+| `new` | 2916 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2933 |
+| Entry metadata still marked `draft` | 2943 |
 | Core profile | 163 |
-| Learner profile | 2779 |
+| Learner profile | 2789 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1646 rows covered (1642 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1648 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1656 rows covered (1652 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1658 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1649 (料金).
+unchanged. The next untouched queue row is N3-1659 (ロケット).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **380/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **390/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -293,6 +293,7 @@ as new entries. Editorial review remains pending.
 | 36 | N3-1618–1627 | 10 |
 | 37 | N3-1628–1638 | 10 |
 | 38 | N3-1639–1648 | 10 |
+| 39 | N3-1649–1658 | 10 |
 
 ## Maturity workflow
 
@@ -3078,3 +3079,13 @@ content and remain at `new` until editorial review.
 | N3-1646 | [流行](entries/1585/1585110-ryuukou.org) | りゅうこう | ryuukou | 1585110 | learner | draft | **new** | Editorial review |
 | N3-1647 | [量](entries/1554/1554640-ryou.org) | りょう | ryou | 1554640 | learner | draft | **new** | Editorial review |
 | N3-1648 | [両替](entries/1553/1553820-ryougae.org) | りょうがえ | ryougae | 1553820 | learner | draft | **new** | Editorial review |
+| N3-1649 | [料金](entries/1554/1554280-ryoukin.org) | りょうきん | ryoukin | 1554280 | learner | draft | **new** | Editorial review |
+| N3-1650 | [例](entries/1585/1585230-rei.org) | れい | rei | 1585230 | learner | draft | **new** | Editorial review |
+| N3-1651 | [礼](entries/1557/1557450-rei.org) | れい | rei | 1557450 | learner | draft | **new** | Editorial review |
+| N3-1652 | [冷静](entries/1557/1557050-reisei.org) | れいせい | reisei | 1557050 | learner | draft | **new** | Editorial review |
+| N3-1653 | [列車](entries/1558/1558370-ressha.org) | れっしゃ | ressha | 1558370 | learner | draft | **new** | Editorial review |
+| N3-1654 | [列](entries/1558/1558330-retsu.org) | れつ | retsu | 1558330 | learner | draft | **new** | Editorial review |
+| N3-1655 | [連想](entries/1559/1559600-rensou.org) | れんそう | rensou | 1559600 | learner | draft | **new** | Editorial review |
+| N3-1656 | [連続](entries/1559/1559610-renzoku.org) | れんぞく | renzoku | 1559610 | learner | draft | **new** | Editorial review |
+| N3-1657 | [老人](entries/1561/1561090-roujin.org) | ろうじん | roujin | 1561090 | learner | draft | **new** | Editorial review |
+| N3-1658 | [労働](entries/1606/1606450-roudou.org) | ろうどう | roudou | 1606450 | learner | draft | **new** | Editorial review |
