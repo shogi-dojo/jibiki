@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-09-27**.
+Last reconciled with the tracked entry tree: **2026-09-30**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2853 |
+| Canonical entry files | 2863 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1484 |
-| N3 queue rows covered | 1548 / 1677 (92.3%) |
+| Canonical N3 entries | 1494 |
+| N3 queue rows covered | 1560 / 1677 (93.0%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2816 |
+| `new` | 2826 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2843 |
+| Entry metadata still marked `draft` | 2853 |
 | Core profile | 163 |
-| Learner profile | 2689 |
+| Learner profile | 2699 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1548 rows covered (1484 distinct files) out of 1677.
-Coverage reaches N3-1550 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1560 rows covered (1556 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1562 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1551 (目的).
+unchanged. The next untouched queue row is N3-1563 (基づく).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -199,12 +199,13 @@ as new entries. Editorial review remains pending.
 | 19 | N3-1435–1445 | 10 |
 | 20 | N3-1446–1457 | 10 |
 
-## Current-branch 300-word continuation (2026-09-30)
+## Completed current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **290/300 new words**
-on this branch in batches of ten, each word committed separately under Ihor.
-Content author is `codex`; every new English sense has an independently authored
-Ukrainian gloss and usage note, and each entry has three graded examples.
+Baseline: `f94d38a2` (merged PR #10). Completed **300/300 new words**
+on this branch in thirty batches of ten, with 300 separate word commits under Ihor.
+The completion audit verified 300 distinct new JMdict IDs, Ukrainian glosses and usage
+notes for all 794 English semantic senses, and 900 graded examples. Content author
+is `codex`; original JMdict sense fingerprints were checked against the source archive.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
 with zero errors or warnings. Existing aliases are recorded without counting
 as new entries. Editorial review remains pending.
@@ -240,6 +241,7 @@ as new entries. Editorial review remains pending.
 | 27 | N3-1521–1530 | 10 |
 | 28 | N3-1531–1540 | 10 |
 | 29 | N3-1541–1550 | 10 |
+| 30 | N3-1551–1562 | 10 |
 
 ## Maturity workflow
 
@@ -2927,3 +2929,15 @@ content and remain at `new` until editorial review.
 | N3-1548 | [申し訳](entries/1363/1363050-moushiwake.org) | もうしわけ | moushiwake | 1363050 | learner | draft | **new** | Editorial review |
 | N3-1549 | [毛布](entries/1533/1533950-moufu.org) | もうふ | moufu | 1533950 | learner | draft | **new** | Editorial review |
 | N3-1550 | [燃える](entries/1469/1469570-moeru.org) | もえる | moeru | 1469570 | learner | draft | **new** | Editorial review |
+| N3-1551 | [目的](entries/1535/1535560-mokuteki.org) | もくてき | mokuteki | 1535560 | learner | draft | **new** | Editorial review |
+| N3-1552 | [目標](entries/1535/1535650-mokuhyou.org) | もくひょう | mokuhyou | 1535650 | learner | draft | **new** | Editorial review |
+| N3-1553 | [木曜](entries/1534/1534880-mokuyou.org) | もくよう | mokuyou | 1534880 | learner | draft | **new** | Editorial review |
+| N3-1554 | [若しも](entries/1612/1612050-moshimo.org) | もしも | moshimo | 1612050 | learner | draft | **new** | Editorial review |
+| N3-1555 | [文字](entries/1505/1505390-moji.org) | もじ | moji | 1505390 | learner | draft | **new** | Editorial review |
+| N3-1556 | [持ち上げる](entries/1315/1315610-mochiageru.org) | もちあげる | mochiageru | 1315610 | learner | draft | **new** | Editorial review |
+| N3-1557 | [用いる](entries/1546/1546210-mochiiru.org) | もちいる | mochiiru | 1546210 | learner | draft | **new** | Editorial review |
+| N3-1558 | [勿論](entries/1535/1535780-mochiron.org) | もちろん | mochiron | 1535780 | learner | draft | **new** | Editorial review |
+| N3-1559 | [尤も](entries/1535/1535810-mottomo.org) | もっとも | mottomo | 1535810 | learner | draft | **new** | Editorial review |
+| N3-1560 | [最も](entries/1293/1293700-mottomo.org) | もっとも | mottomo | 1293700 | learner | draft | **new** | Editorial review |
+| N3-1561 | [元](entries/1260/1260670-moto.org) | もと | moto | 1260670 | learner | draft | **new** | Editorial review |
+| N3-1562 | [元](entries/2219/2219590-moto.org) | もと | moto | 2219590 | learner | draft | **new** | Editorial review |
