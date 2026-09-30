@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3913 |
+| Canonical entry files | 3923 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 941 |
+| Canonical N2 entries | 951 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 948 / 1635 (58.0%) |
+| N2 queue rows covered | 958 / 1635 (58.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3876 |
+| `new` | 3886 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3903 |
+| Entry metadata still marked `draft` | 3913 |
 | Core profile | 163 |
-| Learner profile | 3749 |
+| Learner profile | 3759 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **850/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **860/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -878,6 +878,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 83 | N2-920, N2-921, N2-922, N2-923, N2-924, N2-925, N2-926, N2-927, N2-928, N2-929 | 10 |
 | 84 | N2-930, N2-931, N2-932, N2-933, N2-934, N2-935, N2-936, N2-937, N2-938, N2-939 | 10 |
 | 85 | N2-940, N2-941, N2-942, N2-943, N2-944, N2-945, N2-946, N2-947, N2-948, N2-949 | 10 |
+| 86 | N2-950, N2-951, N2-952, N2-953, N2-954, N2-955, N2-956, N2-957, N2-958, N2-959 | 10 |
 
 ## Maturity workflow
 
@@ -4640,3 +4641,13 @@ content and remain at `new` until editorial review.
 | N2-947 | [地点](entries/1421/1421380-chiten.org) | ちてん | chiten | 1421380 | learner | draft | **new** | Editorial review |
 | N2-948 | [地名](entries/1421/1421500-chimei.org) | ちめい | chimei | 1421500 | learner | draft | **new** | Editorial review |
 | N2-949 | [茶色い](entries/1983/1983730-chairoi.org) | ちゃいろい | chairoi | 1983730 | learner | draft | **new** | Editorial review |
+| N2-950 | [着々](entries/1597/1597480-chakuchaku.org) | ちゃくちゃく | chakuchaku | 1597480 | learner | draft | **new** | Editorial review |
+| N2-951 | [中間](entries/1423/1423680-chuukan.org) | ちゅうかん | chuukan | 1423680 | learner | draft | **new** | Editorial review |
+| N2-952 | [抽象](entries/1426/1426190-chuushou.org) | ちゅうしょう | chuushou | 1426190 | learner | draft | **new** | Editorial review |
+| N2-953 | [中旬](entries/1424/1424490-chuujun.org) | ちゅうじゅん | chuujun | 1424490 | learner | draft | **new** | Editorial review |
+| N2-954 | [中性](entries/1424/1424710-chuusei.org) | ちゅうせい | chuusei | 1424710 | learner | draft | **new** | Editorial review |
+| N2-955 | [中世](entries/1424/1424690-chuusei.org) | ちゅうせい | chuusei | 1424690 | learner | draft | **new** | Editorial review |
+| N2-956 | [中途](entries/1425/1425030-chuuto.org) | ちゅうと | chuuto | 1425030 | learner | draft | **new** | Editorial review |
+| N2-957 | [中年](entries/1425/1425240-chuunen.org) | ちゅうねん | chuunen | 1425240 | learner | draft | **new** | Editorial review |
+| N2-958 | [超過](entries/1429/1429410-chouka.org) | ちょうか | chouka | 1429410 | learner | draft | **new** | Editorial review |
+| N2-959 | [彫刻](entries/1427/1427980-choukoku.org) | ちょうこく | choukoku | 1427980 | learner | draft | **new** | Editorial review |
