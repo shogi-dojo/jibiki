@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3803 |
+| Canonical entry files | 3813 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 831 |
+| Canonical N2 entries | 841 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 838 / 1635 (51.3%) |
+| N2 queue rows covered | 848 / 1635 (51.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3766 |
+| `new` | 3776 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3793 |
+| Entry metadata still marked `draft` | 3803 |
 | Core profile | 163 |
-| Learner profile | 3639 |
+| Learner profile | 3649 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **740/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **750/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -867,6 +867,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 72 | N2-810, N2-811, N2-812, N2-813, N2-814, N2-815, N2-816, N2-817, N2-818, N2-819 | 10 |
 | 73 | N2-820, N2-821, N2-822, N2-823, N2-824, N2-825, N2-826, N2-827, N2-828, N2-829 | 10 |
 | 74 | N2-830, N2-831, N2-832, N2-833, N2-834, N2-835, N2-836, N2-837, N2-838, N2-839 | 10 |
+| 75 | N2-840, N2-841, N2-842, N2-843, N2-844, N2-845, N2-846, N2-847, N2-848, N2-849 | 10 |
 
 ## Maturity workflow
 
@@ -4519,3 +4520,13 @@ content and remain at `new` until editorial review.
 | N2-837 | [倉庫](entries/1399/1399120-souko.org) | そうこ | souko | 1399120 | learner | draft | **new** | Editorial review |
 | N2-838 | [相互](entries/1596/1596370-sougo.org) | そうご | sougo | 1596370 | learner | draft | **new** | Editorial review |
 | N2-839 | [創作](entries/1398/1398420-sousaku.org) | そうさく | sousaku | 1398420 | learner | draft | **new** | Editorial review |
+| N2-840 | [葬式](entries/1402/1402160-soushiki.org) | そうしき | soushiki | 1402160 | learner | draft | **new** | Editorial review |
+| N2-841 | [騒々しい](entries/1596/1596440-souzoushii.org) | そうぞうしい | souzoushii | 1596440 | learner | draft | **new** | Editorial review |
+| N2-842 | [送別](entries/1402/1402850-soubetsu.org) | そうべつ | soubetsu | 1402850 | learner | draft | **new** | Editorial review |
+| N2-843 | [総理大臣](entries/1401/1401820-souridaijin.org) | そうりだいじん | souridaijin | 1401820 | learner | draft | **new** | Editorial review |
+| N2-844 | [速達](entries/1405/1405030-sokutatsu.org) | そくたつ | sokutatsu | 1405030 | learner | draft | **new** | Editorial review |
+| N2-845 | [測定](entries/1404/1404570-sokutei.org) | そくてい | sokutei | 1404570 | learner | draft | **new** | Editorial review |
+| N2-846 | [速力](entries/1405/1405080-sokuryoku.org) | そくりょく | sokuryoku | 1405080 | learner | draft | **new** | Editorial review |
+| N2-847 | [素質](entries/1397/1397240-soshitsu.org) | そしつ | soshitsu | 1397240 | learner | draft | **new** | Editorial review |
+| N2-848 | [祖先](entries/1396/1396820-sosen.org) | そせん | sosen | 1396820 | learner | draft | **new** | Editorial review |
+| N2-849 | [そそっかしい](entries/1006/1006740-sosokkashii.org) | そそっかしい | sosokkashii | 1006740 | learner | draft | **new** | Editorial review |
