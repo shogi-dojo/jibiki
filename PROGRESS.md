@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2803 |
+| Canonical entry files | 2813 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1434 |
-| N3 queue rows covered | 1497 / 1677 (89.3%) |
+| Canonical N3 entries | 1444 |
+| N3 queue rows covered | 1507 / 1677 (89.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2766 |
+| `new` | 2776 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2793 |
+| Entry metadata still marked `draft` | 2803 |
 | Core profile | 163 |
-| Learner profile | 2639 |
+| Learner profile | 2649 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1497 rows covered (1434 distinct files) out of 1677.
-Coverage reaches N3-1499 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1507 rows covered (1444 distinct files) out of 1677.
+Coverage reaches N3-1509 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1500 (回り).
+unchanged. The next untouched queue row is N3-1510 (満ちる).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -201,7 +201,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **240/300 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **250/300 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -235,6 +235,7 @@ as new entries. Editorial review remains pending.
 | 22 | N3-1468–1477 | 10 |
 | 23 | N3-1478–1489 | 10 |
 | 24 | N3-1490–1499 | 10 |
+| 25 | N3-1500–1509 | 10 |
 
 ## Maturity workflow
 
@@ -2871,3 +2872,13 @@ content and remain at `new` until editorial review.
 | N3-1497 | [丸](entries/1216/1216250-maru.org) | まる | maru | 1216250 | learner | draft | **new** | Editorial review |
 | N3-1498 | [丸で](entries/1216/1216280-marude.org) | まるで | marude | 1216280 | learner | draft | **new** | Editorial review |
 | N3-1499 | [回す](entries/1199/1199350-mawasu.org) | まわす | mawasu | 1199350 | learner | draft | **new** | Editorial review |
+| N3-1500 | [回り](entries/2800/2800530-mawari.org) | まわり | mawari | 2800530 | learner | draft | **new** | Editorial review |
+| N3-1501 | [万一](entries/1525/1525780-manichi.org) | まんいち | manichi | 1525780 | learner | draft | **new** | Editorial review |
+| N3-1502 | [満足](entries/1526/1526860-manzoku.org) | まんぞく | manzoku | 1526860 | learner | draft | **new** | Editorial review |
+| N3-1503 | [マーケット](entries/1126/1126190-maaketto.org) | マーケット | maaketto | 1126190 | learner | draft | **new** | Editorial review |
+| N3-1504 | [身](entries/1365/1365520-mi.org) | み | mi | 1365520 | learner | draft | **new** | Editorial review |
+| N3-1505 | [実](entries/1320/1320810-mi.org) | み | mi | 1320810 | learner | draft | **new** | Editorial review |
+| N3-1506 | [見送り](entries/1259/1259820-miokuri.org) | みおくり | miokuri | 1259820 | learner | draft | **new** | Editorial review |
+| N3-1507 | [味方](entries/1527/1527070-mikata.org) | みかた | mikata | 1527070 | learner | draft | **new** | Editorial review |
+| N3-1508 | [見事](entries/1259/1259620-migoto.org) | みごと | migoto | 1259620 | learner | draft | **new** | Editorial review |
+| N3-1509 | [ミス](entries/1130/1130650-misu.org) | ミス | misu | 1130650 | learner | draft | **new** | Editorial review |
