@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3153 |
+| Canonical entry files | 3163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 181 |
+| Canonical N2 entries | 191 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 186 / 1635 (11.4%) |
+| N2 queue rows covered | 196 / 1635 (12.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3116 |
+| `new` | 3126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3143 |
+| Entry metadata still marked `draft` | 3153 |
 | Core profile | 163 |
-| Learner profile | 2989 |
+| Learner profile | 2999 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -376,28 +376,34 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 | 49 | N2-75, N2-76, N2-77, N2-78, N2-79, N2-80, N2-81, N2-82, N2-83, N2-84 | 10 |
 | 50 | N2-85, N2-86, N2-87, N2-88, N2-89, N2-90, N2-91, N2-92, N2-93, N2-94 | 10 |
 
-## Current-branch 100-word N2 continuation (2026-09-30)
+## Completed current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **90/100 new words**
-in batches of ten, one commit per word under Ihor. Content author is `codex`.
-Each English semantic sense has an original Ukrainian gloss and usage note;
-each entry has three graded examples. All added entries passed validation,
-Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
-Editorial review remains pending.
-N2-69 is deferred for a dedicated standalone-usage review.
-N2-67 and N2-68 are aliases of existing entries and are not counted as new.
+Baseline: `8014141b` (merged PR #11). Completed **100/100 new words**
+in ten batches, with one commit per word under Ihor and content author `codex`.
+All 190 English semantic senses have independently authored Ukrainian glosses
+and usage notes, and each entry has three graded examples (300 in total).
+Each word passed JMdict validation, Org lint, and doctor 100/100 with zero
+errors or warnings. Full-branch audits verified 100 distinct new JMdict IDs,
+complete source-sense fingerprints, source archive hashes, all authored
+content, the primary example sense, and Git authorship.
+
+N2-95–197 are covered. N2-149, N2-167, and N2-178 are aliases of existing
+entries and are excluded from the new-word count. The next untouched row
+is N2-198 (蚊). The earlier N2-69 usage review remains deferred.
+All new entries remain `new` / `draft`, pending editorial review.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
-| 1 | N2-95, N2-96, N2-97, N2-98, N2-99, N2-100, N2-101, N2-102, N2-103, N2-104 | 10 |
-| 2 | N2-105, N2-106, N2-107, N2-108, N2-109, N2-110, N2-111, N2-112, N2-113, N2-114 | 10 |
-| 3 | N2-115, N2-116, N2-117, N2-118, N2-119, N2-120, N2-121, N2-122, N2-123, N2-124 | 10 |
-| 4 | N2-125, N2-126, N2-127, N2-128, N2-129, N2-130, N2-131, N2-132, N2-133, N2-134 | 10 |
-| 5 | N2-135, N2-136, N2-137, N2-138, N2-139, N2-140, N2-141, N2-142, N2-143, N2-144 | 10 |
-| 6 | N2-145, N2-146, N2-147, N2-148, N2-149, N2-150, N2-151, N2-152, N2-153, N2-154, N2-155 | 10 |
-| 7 | N2-156, N2-157, N2-158, N2-159, N2-160, N2-161, N2-162, N2-163, N2-164, N2-165 | 10 |
-| 8 | N2-166, N2-167, N2-168, N2-169, N2-170, N2-171, N2-172, N2-173, N2-174, N2-175, N2-176 | 10 |
-| 9 | N2-177, N2-178, N2-179, N2-180, N2-181, N2-182, N2-183, N2-184, N2-185, N2-186, N2-187 | 10 |
+| 1 | N2-95–104 | 10 |
+| 2 | N2-105–114 | 10 |
+| 3 | N2-115–124 | 10 |
+| 4 | N2-125–134 | 10 |
+| 5 | N2-135–144 | 10 |
+| 6 | N2-145–155 | 10 |
+| 7 | N2-156–165 | 10 |
+| 8 | N2-166–176 | 10 |
+| 9 | N2-177–187 | 10 |
+| 10 | N2-188–197 | 10 |
 
 ## Maturity workflow
 
@@ -3398,3 +3404,13 @@ content and remain at `new` until editorial review.
 | N2-185 | [お休み](entries/1612/1612680-oyasumi.org) | おやすみ | oyasumi | 1612680 | learner | draft | **new** | Editorial review |
 | N2-186 | [お八つ](entries/1589/1589430-oyatsu.org) | おやつ | oyatsu | 1589430 | learner | draft | **new** | Editorial review |
 | N2-187 | [親指](entries/1365/1365190-oyayubi.org) | おやゆび | oyayubi | 1365190 | learner | draft | **new** | Editorial review |
+| N2-188 | [オルガン](entries/1035/1035780-orugan.org) | オルガン | orugan | 1035780 | learner | draft | **new** | Editorial review |
+| N2-189 | [卸す](entries/1183/1183050-orosu.org) | おろす | orosu | 1183050 | learner | draft | **new** | Editorial review |
+| N2-190 | [恩恵](entries/1183/1183140-onkei.org) | おんけい | onkei | 1183140 | learner | draft | **new** | Editorial review |
+| N2-191 | [温室](entries/1183/1183390-onshitsu.org) | おんしつ | onshitsu | 1183390 | learner | draft | **new** | Editorial review |
+| N2-192 | [温泉](entries/1183/1183450-onsen.org) | おんせん | onsen | 1183450 | learner | draft | **new** | Editorial review |
+| N2-193 | [温帯](entries/1183/1183470-ontai.org) | おんたい | ontai | 1183470 | learner | draft | **new** | Editorial review |
+| N2-194 | [女の人](entries/1344/1344980-onnanohito.org) | おんなのひと | onnanohito | 1344980 | learner | draft | **new** | Editorial review |
+| N2-195 | [オーケストラ](entries/1031/1031610-ookesutora.org) | オーケストラ | ookesutora | 1031610 | learner | draft | **new** | Editorial review |
+| N2-196 | [オートメーション](entries/1032/1032180-ootomeeshon.org) | オートメーション | ootomeeshon | 1032180 | learner | draft | **new** | Editorial review |
+| N2-197 | [オーバーコート](entries/1032/1032880-oobaakooto.org) | オーバーコート | oobaakooto | 1032880 | learner | draft | **new** | Editorial review |
