@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3373 |
+| Canonical entry files | 3383 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 401 |
+| Canonical N2 entries | 411 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 408 / 1635 (25.0%) |
+| N2 queue rows covered | 418 / 1635 (25.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3336 |
+| `new` | 3346 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3363 |
+| Entry metadata still marked `draft` | 3373 |
 | Core profile | 163 |
-| Learner profile | 3209 |
+| Learner profile | 3219 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -468,7 +468,7 @@ All added entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **310/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **320/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -510,6 +510,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 29 | N2-380, N2-381, N2-382, N2-383, N2-384, N2-385, N2-386, N2-387, N2-388, N2-389 | 10 |
 | 30 | N2-390, N2-391, N2-392, N2-393, N2-394, N2-395, N2-396, N2-397, N2-398, N2-399 | 10 |
 | 31 | N2-400, N2-401, N2-402, N2-403, N2-404, N2-405, N2-406, N2-407, N2-408, N2-409 | 10 |
+| 32 | N2-410, N2-411, N2-412, N2-413, N2-414, N2-415, N2-416, N2-417, N2-418, N2-419 | 10 |
 
 ## Maturity workflow
 
@@ -3732,3 +3733,13 @@ content and remain at `new` until editorial review.
 | N2-407 | [系統](entries/1251/1251030-keitou.org) | けいとう | keitou | 1251030 | learner | draft | **new** | Editorial review |
 | N2-408 | [経度](entries/1251/1251630-keido.org) | けいど | keido | 1251630 | learner | draft | **new** | Editorial review |
 | N2-409 | [競馬](entries/1234/1234210-keiba.org) | けいば | keiba | 1234210 | learner | draft | **new** | Editorial review |
+| N2-410 | [警備](entries/1252/1252490-keibi.org) | けいび | keibi | 1252490 | learner | draft | **new** | Editorial review |
+| N2-411 | [形容詞](entries/1250/1250430-keiyoushi.org) | けいようし | keiyoushi | 1250430 | learner | draft | **new** | Editorial review |
+| N2-412 | [形容動詞](entries/1250/1250450-keiyoudoushi.org) | けいようどうし | keiyoudoushi | 1250450 | learner | draft | **new** | Editorial review |
+| N2-413 | [毛皮](entries/1533/1533930-kegawa.org) | けがわ | kegawa | 1533930 | learner | draft | **new** | Editorial review |
+| N2-414 | [削る](entries/1298/1298090-kezuru.org) | けずる | kezuru | 1298090 | learner | draft | **new** | Editorial review |
+| N2-415 | [桁](entries/1253/1253800-keta.org) | けた | keta | 1253800 | learner | draft | **new** | Editorial review |
+| N2-416 | [傑作](entries/1253/1253840-kessaku.org) | けっさく | kessaku | 1253840 | learner | draft | **new** | Editorial review |
+| N2-417 | [血圧](entries/1255/1255110-ketsuatsu.org) | けつあつ | ketsuatsu | 1255110 | learner | draft | **new** | Editorial review |
+| N2-418 | [血液](entries/1255/1255120-ketsueki.org) | けつえき | ketsueki | 1255120 | learner | draft | **new** | Editorial review |
+| N2-419 | [蹴る](entries/1333/1333400-keru.org) | ける | keru | 1333400 | learner | draft | **new** | Editorial review |
