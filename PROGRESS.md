@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2673 |
+| Canonical entry files | 2683 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1304 |
-| N3 queue rows covered | 1362 / 1677 (81.2%) |
+| Canonical N3 entries | 1314 |
+| N3 queue rows covered | 1372 / 1677 (81.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2636 |
+| `new` | 2646 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2663 |
+| Entry metadata still marked `draft` | 2673 |
 | Core profile | 163 |
-| Learner profile | 2509 |
+| Learner profile | 2519 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1362 rows covered (1304 distinct files) out of 1677.
-Coverage reaches N3-1364 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1372 rows covered (1314 distinct files) out of 1677.
+Coverage reaches N3-1374 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1365 (秒).
+unchanged. The next untouched queue row is N3-1375 (風景).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -167,7 +167,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **110/200 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **120/200 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -188,6 +188,7 @@ as new entries. Editorial review remains pending.
 | 9 | N3-1334–1343 | 10 |
 | 10 | N3-1344–1353 | 10 |
 | 11 | N3-1354–1364 | 10 |
+| 12 | N3-1365–1374 | 10 |
 
 ## Maturity workflow
 
@@ -2689,3 +2690,13 @@ content and remain at `new` until editorial review.
 | N3-1362 | [吃驚](entries/1226/1226360-bikkuri.org) | びっくり | bikkuri | 1226360 | learner | draft | **new** | Editorial review |
 | N3-1363 | [ビデオ](entries/1105/1105360-bideo.org) | ビデオ | bideo | 1105360 | learner | draft | **new** | Editorial review |
 | N3-1364 | [微妙](entries/1486/1486170-bimyou.org) | びみょう | bimyou | 1486170 | learner | draft | **new** | Editorial review |
+| N3-1365 | [秒](entries/1490/1490430-byou.org) | びょう | byou | 1490430 | learner | draft | **new** | Editorial review |
+| N3-1366 | [平等](entries/1507/1507670-byoudou.org) | びょうどう | byoudou | 1507670 | learner | draft | **new** | Editorial review |
+| N3-1367 | [便](entries/1512/1512360-bin.org) | びん | bin | 1512360 | learner | draft | **new** | Editorial review |
+| N3-1368 | [瓶](entries/1491/1491120-bin.org) | びん | bin | 1491120 | learner | draft | **new** | Editorial review |
+| N3-1369 | [ビール](entries/2796/2796520-biiru.org) | ビール | biiru | 2796520 | learner | draft | **new** | Editorial review |
+| N3-1370 | [ピクニック](entries/1106/1106530-pikunikku.org) | ピクニック | pikunikku | 1106530 | learner | draft | **new** | Editorial review |
+| N3-1371 | [ぴったり](entries/1010/1010900-pittari.org) | ぴったり | pittari | 1010900 | learner | draft | **new** | Editorial review |
+| N3-1372 | [ピン](entries/1107/1107060-pin.org) | ピン | pin | 1107060 | learner | draft | **new** | Editorial review |
+| N3-1373 | [不](entries/1922/1922780-fu.org) | ふ | fu | 1922780 | learner | draft | **new** | Editorial review |
+| N3-1374 | [不安](entries/1491/1491150-fuan.org) | ふあん | fuan | 1491150 | learner | draft | **new** | Editorial review |
