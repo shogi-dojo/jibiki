@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2663 |
+| Canonical entry files | 2673 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1294 |
-| N3 queue rows covered | 1351 / 1677 (80.6%) |
+| Canonical N3 entries | 1304 |
+| N3 queue rows covered | 1362 / 1677 (81.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2626 |
+| `new` | 2636 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2653 |
+| Entry metadata still marked `draft` | 2663 |
 | Core profile | 163 |
-| Learner profile | 2499 |
+| Learner profile | 2509 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1351 rows covered (1294 distinct files) out of 1677.
-Coverage reaches N3-1353 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1362 rows covered (1304 distinct files) out of 1677.
+Coverage reaches N3-1364 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1354 (表現).
+unchanged. The next untouched queue row is N3-1365 (秒).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -164,6 +164,30 @@ as new entries. Editorial review remains pending.
 | 8 | N3-1324–1333 | 10 |
 | 9 | N3-1334–1343 | 10 |
 | 10 | N3-1344–1353 | 10 |
+
+## Current-branch 200-word continuation (2026-09-30)
+
+Baseline: `f94d38a2` (merged PR #10). Completed **110/200 new words**
+on this branch in batches of ten, each word committed separately under Ihor.
+Content author is `codex`; every new English sense has an independently authored
+Ukrainian gloss and usage note, and each entry has three graded examples.
+All completed entries passed JMdict validation, Org lint and doctor 100/100
+with zero errors or warnings. Existing aliases are recorded without counting
+as new entries. Editorial review remains pending.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N3-1251–1261 | 10 |
+| 2 | N3-1262–1271 | 10 |
+| 3 | N3-1272–1283 | 10 |
+| 4 | N3-1284–1293 | 10 |
+| 5 | N3-1294–1303 | 10 |
+| 6 | N3-1304–1313 | 10 |
+| 7 | N3-1314–1323 | 10 |
+| 8 | N3-1324–1333 | 10 |
+| 9 | N3-1334–1343 | 10 |
+| 10 | N3-1344–1353 | 10 |
+| 11 | N3-1354–1364 | 10 |
 
 ## Maturity workflow
 
@@ -2654,3 +2678,14 @@ content and remain at `new` until editorial review.
 | N3-1351 | [紐](entries/1487/1487970-himo.org) | ひも | himo | 1487970 | learner | draft | **new** | Editorial review |
 | N3-1352 | [表](entries/1489/1489350-hyou.org) | ひょう | hyou | 1489350 | learner | draft | **new** | Editorial review |
 | N3-1353 | [評価](entries/1490/1490010-hyouka.org) | ひょうか | hyouka | 1490010 | learner | draft | **new** | Editorial review |
+| N3-1354 | [表現](entries/1489/1489510-hyougen.org) | ひょうげん | hyougen | 1489510 | learner | draft | **new** | Editorial review |
+| N3-1355 | [表情](entries/1489/1489700-hyoujou.org) | ひょうじょう | hyoujou | 1489700 | learner | draft | **new** | Editorial review |
+| N3-1356 | [評判](entries/1490/1490070-hyouban.org) | ひょうばん | hyouban | 1490070 | learner | draft | **new** | Editorial review |
+| N3-1357 | [表面](entries/1489/1489880-hyoumen.org) | ひょうめん | hyoumen | 1489880 | learner | draft | **new** | Editorial review |
+| N3-1358 | [費用](entries/1484/1484620-hiyou.org) | ひよう | hiyou | 1484620 | learner | draft | **new** | Editorial review |
+| N3-1359 | [広がる](entries/1602/1602360-hirogaru.org) | ひろがる | hirogaru | 1602360 | learner | draft | **new** | Editorial review |
+| N3-1360 | [品](entries/2648/2648780-hin.org) | ひん | hin | 2648780 | learner | draft | **new** | Editorial review |
+| N3-1361 | [美人](entries/1486/1486530-bijin.org) | びじん | bijin | 1486530 | learner | draft | **new** | Editorial review |
+| N3-1362 | [吃驚](entries/1226/1226360-bikkuri.org) | びっくり | bikkuri | 1226360 | learner | draft | **new** | Editorial review |
+| N3-1363 | [ビデオ](entries/1105/1105360-bideo.org) | ビデオ | bideo | 1105360 | learner | draft | **new** | Editorial review |
+| N3-1364 | [微妙](entries/1486/1486170-bimyou.org) | びみょう | bimyou | 1486170 | learner | draft | **new** | Editorial review |
