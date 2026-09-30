@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2753 |
+| Canonical entry files | 2763 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1384 |
-| N3 queue rows covered | 1443 / 1677 (86.0%) |
+| Canonical N3 entries | 1394 |
+| N3 queue rows covered | 1455 / 1677 (86.8%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2716 |
+| `new` | 2726 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2743 |
+| Entry metadata still marked `draft` | 2753 |
 | Core profile | 163 |
-| Learner profile | 2589 |
+| Learner profile | 2599 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1443 rows covered (1384 distinct files) out of 1677.
-Coverage reaches N3-1445 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1455 rows covered (1394 distinct files) out of 1677.
+Coverage reaches N3-1457 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1446 (頬).
+unchanged. The next untouched queue row is N3-1458 (略).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -165,12 +165,13 @@ as new entries. Editorial review remains pending.
 | 9 | N3-1334–1343 | 10 |
 | 10 | N3-1344–1353 | 10 |
 
-## Current-branch 200-word continuation (2026-09-30)
+## Completed current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **190/200 new words**
-on this branch in batches of ten, each word committed separately under Ihor.
-Content author is `codex`; every new English sense has an independently authored
-Ukrainian gloss and usage note, and each entry has three graded examples.
+Baseline: `f94d38a2` (merged PR #10). Completed **200/200 new words**
+on this branch in twenty batches of ten, with 200 separate word commits under Ihor.
+The completion audit verified 200 distinct JMdict IDs, Ukrainian glosses and usage
+notes for all 515 English semantic senses, and 600 graded examples. Content author
+is `codex`; original JMdict sense fingerprints were checked against the source archive.
 All completed entries passed JMdict validation, Org lint and doctor 100/100
 with zero errors or warnings. Existing aliases are recorded without counting
 as new entries. Editorial review remains pending.
@@ -196,6 +197,7 @@ as new entries. Editorial review remains pending.
 | 17 | N3-1415–1424 | 10 |
 | 18 | N3-1425–1434 | 10 |
 | 19 | N3-1435–1445 | 10 |
+| 20 | N3-1446–1457 | 10 |
 
 ## Maturity workflow
 
@@ -2778,3 +2780,15 @@ content and remain at `new` until editorial review.
 | N3-1443 | [方々](entries/1584/1584105-houbou.org) | ほうぼう | houbou | 1584105 | learner | draft | **new** | Editorial review |
 | N3-1444 | [訪問](entries/1518/1518120-houmon.org) | ほうもん | houmon | 1518120 | learner | draft | **new** | Editorial review |
 | N3-1445 | [吠える](entries/1603/1603420-hoeru.org) | ほえる | hoeru | 1603420 | learner | draft | **new** | Editorial review |
+| N3-1446 | [頬](entries/1584/1584160-hoo.org) | ほお | hoo | 1584160 | learner | draft | **new** | Editorial review |
+| N3-1447 | [誇り](entries/1267/1267740-hokori.org) | ほこり | hokori | 1267740 | learner | draft | **new** | Editorial review |
+| N3-1448 | [埃](entries/1565/1565750-hokori.org) | ほこり | hokori | 1565750 | learner | draft | **new** | Editorial review |
+| N3-1449 | [保証](entries/1603/1603500-hoshou.org) | ほしょう | hoshou | 1603500 | learner | draft | **new** | Editorial review |
+| N3-1450 | [保証](entries/1603/1603500-hoshou.org) | ほしょう | hoshou | 1603500 | learner | draft | **new** | Editorial review |
+| N3-1451 | [保存](entries/1513/1513940-hozon.org) | ほぞん | hozon | 1513940 | learner | draft | **new** | Editorial review |
+| N3-1452 | [仏](entries/1501/1501760-hotoke.org) | ほとけ | hotoke | 1501760 | learner | draft | **new** | Editorial review |
+| N3-1453 | [程](entries/1436/1436510-hodo.org) | ほど | hodo | 1436510 | learner | draft | **new** | Editorial review |
+| N3-1454 | [歩道](entries/1514/1514420-hodou.org) | ほどう | hodou | 1514420 | learner | draft | **new** | Editorial review |
+| N3-1455 | [骨](entries/1288/1288550-hone.org) | ほね | hone | 1288550 | learner | draft | **new** | Editorial review |
+| N3-1456 | [炎](entries/1177/1177070-honoo.org) | ほのお | honoo | 1177070 | learner | draft | **new** | Editorial review |
+| N3-1457 | [微笑む](entries/1486/1486030-hohoemu.org) | ほほえむ | hohoemu | 1486030 | learner | draft | **new** | Editorial review |
