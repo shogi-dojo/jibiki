@@ -1,0 +1,218 @@
+#+TITLE: 片仮名
+#+JMDICT_ID: 1511600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カタカナ
+#+ROMAJI: katakana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511600-001
+:PROPERTIES:
+:TEXT: 片仮名
+:END:
+** Written form wf-1511600-002
+:PROPERTIES:
+:TEXT: 片かな
+:END:
+*** Information
+- sK
+** Reading rd-1511600-001
+:PROPERTIES:
+:TEXT: カタカナ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf32
+** Reading rd-1511600-002
+:PROPERTIES:
+:TEXT: かたかな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1511600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c06537adcf3cab69f0e2af883a7740e287f46293703433cc01a273b59b7ca8c5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- ひらがな
+** English glosses
+- katakana
+*** en-s-1511600-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angular Japanese syllabary used primarily for loanwords
+** Ukrainian glosses
+*** uk-s-1511600-001-001
+:PROPERTIES:
+:END:
+- text :: катакана
+** Learner notes
+*** note-s-1511600-001-001
+:PROPERTIES:
+:END:
+- UK :: Японське складове письмо, яке використовують насамперед для запозичень, а також для звуконаслідувань і виділення слів. Зазвичай назву пишуть カタカナ.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1511600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: カタカナを書きます。
+- READING :: かたかなをかきます。
+- UK :: Я пишу катакану.
+- EN :: I write katakana.
+- FOCUS :: カタカナ
+*** ex-1511600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 自分の名前をカタカナで書きました。
+- READING :: じぶんのなまえをかたかなでかきました。
+- UK :: Я написав своє ім’я катаканою.
+- EN :: I wrote my name in katakana.
+- FOCUS :: カタカナ
+*** ex-1511600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: カタカナで書かれた言葉でも、元の外国語と意味が違うことがあります。
+- READING :: かたかなでかかれたことばでも、もとのがいこくごといみがちがうことがあります。
+- UK :: Навіть слова, записані катаканою, іноді мають інше значення, ніж у мові походження.
+- EN :: Even words written in katakana can have meanings different from those in the original language.
+- FOCUS :: カタカナ
+
+* Sense s-1511600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3335de35e50f7c97b2092bf0e27c0728696ea9e2798c352893af2ee9b44c3213
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katakana {hoekig Japans lettergrepenschrift}
+** Ukrainian glosses
+
+* Sense s-1511600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0b3e304cd17d087a0bf2362c7a9f147f01ad5463cd0744b0570f5b41c3537b24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katakana (syllabaire japonais)
+** Ukrainian glosses
+
+* Sense s-1511600-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9534dfd76b6efd0c633c38b8eaad8a5a676439afed15e645d7a85e6060a5d6c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Katakana (eine der beiden japan. Silbenschriften)
+** Ukrainian glosses
+
+* Sense s-1511600-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fa69e65e07b1a9fe14112f28dfbb076df09d0a5d47b02063cad741278769e02e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: катакана ((один из двух шрифтов яп. слоговой азбуки; обязателен в телеграммах и для написания заимствованных слов; ср.) ひらがな)
+** Ukrainian glosses
+
+* Sense s-1511600-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4f38e07378ea54a395b36c05641d8b474ec3aa7c3382e04f25f3dda46889c8b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katakana
+** Ukrainian glosses
+
+* Sense s-1511600-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d1b5d5cd0c890aef2891171fdc4cfba50fbb8998eafb905c8590abd70204ae9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511600-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katakana
+** Ukrainian glosses
