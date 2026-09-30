@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3353 |
+| Canonical entry files | 3363 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 381 |
+| Canonical N2 entries | 391 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 388 / 1635 (23.7%) |
+| N2 queue rows covered | 398 / 1635 (24.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3316 |
+| `new` | 3326 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3343 |
+| Entry metadata still marked `draft` | 3353 |
 | Core profile | 163 |
-| Learner profile | 3189 |
+| Learner profile | 3199 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -448,9 +448,27 @@ pending editorial review. The uncommitted 罪 draft was preserved.
 | 19 | N2-279–288 | 10 |
 | 20 | N2-289–298 | 10 |
 
+## Current-branch 300-word checkpoint (2026-09-30)
+
+The current branch contains 300 new N2 entries in thirty batches of ten,
+with one commit per word under Ihor and content author `codex`. All 564
+English semantic senses have original Ukrainian glosses and usage notes;
+the entries contain 900 graded examples with Japanese, kana, Ukrainian,
+and English fields. The active goal is 400 new entries, so 100 remain.
+
+Coverage now reaches N2-399 (クーラー). N2-149, N2-167, N2-178, N2-241,
+and N2-321 are unchanged existing aliases excluded from the new-word count.
+The next untouched row at this checkpoint is N2-400 (偶数).
+Fresh validation and Org lint passed for all 300 added entries. Their doctor
+score is 100/100 with zero errors or warnings. Source and content audits
+verified unique IDs, all source-sense fingerprints, complete authored fields,
+primary example senses, and Git authorship. The test suite passed 137 tests
+and 10,643 assertions.
+All added entries remain `new` / `draft`, pending editorial review.
+
 ## Current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **290/400 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **300/400 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -490,6 +508,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 27 | N2-360, N2-361, N2-362, N2-363, N2-364, N2-365, N2-366, N2-367, N2-368, N2-369 | 10 |
 | 28 | N2-370, N2-371, N2-372, N2-373, N2-374, N2-375, N2-376, N2-377, N2-378, N2-379 | 10 |
 | 29 | N2-380, N2-381, N2-382, N2-383, N2-384, N2-385, N2-386, N2-387, N2-388, N2-389 | 10 |
+| 30 | N2-390, N2-391, N2-392, N2-393, N2-394, N2-395, N2-396, N2-397, N2-398, N2-399 | 10 |
 
 ## Maturity workflow
 
@@ -3692,3 +3711,13 @@ content and remain at `new` until editorial review.
 | N2-387 | [配る](entries/1472/1472990-kubaru.org) | くばる | kubaru | 1472990 | learner | draft | **new** | Editorial review |
 | N2-388 | [工夫](entries/1278/1278220-kufuu.org) | くふう | kufuu | 1278220 | learner | draft | **new** | Editorial review |
 | N2-389 | [区分](entries/1244/1244230-kubun.org) | くぶん | kubun | 1244230 | learner | draft | **new** | Editorial review |
+| N2-390 | [組み合わせ](entries/1592/1592290-kumiawase.org) | くみあわせ | kumiawase | 1592290 | learner | draft | **new** | Editorial review |
+| N2-391 | [組み立てる](entries/1397/1397580-kumitateru.org) | くみたてる | kumitateru | 1397580 | learner | draft | **new** | Editorial review |
+| N2-392 | [汲む](entries/1229/1229610-kumu.org) | くむ | kumu | 1229610 | learner | draft | **new** | Editorial review |
+| N2-393 | [酌む](entries/1324/1324210-kumu.org) | くむ | kumu | 1324210 | learner | draft | **new** | Editorial review |
+| N2-394 | [悔しい](entries/1592/1592350-kuyashii.org) | くやしい | kuyashii | 1592350 | learner | draft | **new** | Editorial review |
+| N2-395 | [悔やむ](entries/1200/1200450-kuyamu.org) | くやむ | kuyamu | 1200450 | learner | draft | **new** | Editorial review |
+| N2-396 | [クリーニング](entries/1044/1044440-kuriiningu.org) | クリーニング | kuriiningu | 1044440 | learner | draft | **new** | Editorial review |
+| N2-397 | [呉れ呉れも](entries/1269/1269140-kureguremo.org) | くれぐれも | kureguremo | 1269140 | learner | draft | **new** | Editorial review |
+| N2-398 | [咥える](entries/1609/1609730-kuwaeru.org) | くわえる | kuwaeru | 1609730 | learner | draft | **new** | Editorial review |
+| N2-399 | [クーラー](entries/1043/1043310-kuuraa.org) | クーラー | kuuraa | 1043310 | learner | draft | **new** | Editorial review |
