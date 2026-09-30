@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2613 |
+| Canonical entry files | 2623 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1244 |
-| N3 queue rows covered | 1301 / 1677 (77.6%) |
+| Canonical N3 entries | 1254 |
+| N3 queue rows covered | 1311 / 1677 (78.2%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2576 |
+| `new` | 2586 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2603 |
+| Entry metadata still marked `draft` | 2613 |
 | Core profile | 163 |
-| Learner profile | 2449 |
+| Learner profile | 2459 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1301 rows covered (1244 distinct files) out of 1677.
-Coverage reaches N3-1303 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1311 rows covered (1254 distinct files) out of 1677.
+Coverage reaches N3-1313 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1304 (腹).
+unchanged. The next untouched queue row is N3-1314 (場).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -142,7 +142,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **50/100 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **60/100 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -157,6 +157,7 @@ as new entries. Editorial review remains pending.
 | 3 | N3-1272–1283 | 10 |
 | 4 | N3-1284–1293 | 10 |
 | 5 | N3-1294–1303 | 10 |
+| 6 | N3-1304–1313 | 10 |
 
 ## Maturity workflow
 
@@ -2597,3 +2598,13 @@ content and remain at `new` until editorial review.
 | N3-1301 | [母親](entries/1515/1515120-hahaoya.org) | ははおや | hahaoya | 1515120 | learner | draft | **new** | Editorial review |
 | N3-1302 | [幅](entries/1500/1500880-haba.org) | はば | haba | 1500880 | learner | draft | **new** | Editorial review |
 | N3-1303 | [省く](entries/1351/1351040-habuku.org) | はぶく | habuku | 1351040 | learner | draft | **new** | Editorial review |
+| N3-1304 | [腹](entries/1501/1501110-hara.org) | はら | hara | 1501110 | learner | draft | **new** | Editorial review |
+| N3-1305 | [原](entries/1261/1261140-hara.org) | はら | hara | 1261140 | learner | draft | **new** | Editorial review |
+| N3-1306 | [針](entries/1366/1366210-hari.org) | はり | hari | 1366210 | learner | draft | **new** | Editorial review |
+| N3-1307 | [範囲](entries/1481/1481890-hani.org) | はんい | hani | 1481890 | learner | draft | **new** | Editorial review |
+| N3-1308 | [反抗](entries/1480/1480380-hankou.org) | はんこう | hankou | 1480380 | learner | draft | **new** | Editorial review |
+| N3-1309 | [ハンサム](entries/1096/1096560-hansamu.org) | ハンサム | hansamu | 1096560 | learner | draft | **new** | Editorial review |
+| N3-1310 | [犯罪](entries/1481/1481590-hanzai.org) | はんざい | hanzai | 1481590 | learner | draft | **new** | Editorial review |
+| N3-1311 | [判断](entries/1478/1478620-handan.org) | はんだん | handan | 1478620 | learner | draft | **new** | Editorial review |
+| N3-1312 | [犯人](entries/1481/1481630-hannin.org) | はんにん | hannin | 1481630 | learner | draft | **new** | Editorial review |
+| N3-1313 | [販売](entries/1481/1481800-hanbai.org) | はんばい | hanbai | 1481800 | learner | draft | **new** | Editorial review |
