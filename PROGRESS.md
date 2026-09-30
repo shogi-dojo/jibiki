@@ -33,28 +33,28 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 2903 |
+| Canonical entry files | 2913 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N3 entries | 1534 |
-| N3 queue rows covered | 1605 / 1677 (95.7%) |
+| Canonical N3 entries | 1544 |
+| N3 queue rows covered | 1615 / 1677 (96.3%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 2866 |
+| `new` | 2876 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 2893 |
+| Entry metadata still marked `draft` | 2903 |
 | Core profile | 163 |
-| Learner profile | 2739 |
+| Learner profile | 2749 |
 | Enriched profile | 1 |
 
-All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1605 rows covered (1601 distinct tracked files, including entries shared with other levels) out of 1677.
-Coverage reaches N3-1607 with N3-1084 and N3-1191 excluded: the previous agent left
+All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1615 rows covered (1611 distinct tracked files, including entries shared with other levels) out of 1677.
+Coverage reaches N3-1617 with N3-1084 and N3-1191 excluded: the previous agent left
 `entries/1296/1296680-tsumi.org` as an uncommitted draft. It was preserved
-unchanged. The next untouched queue row is N3-1608 (容易).
+unchanged. The next untouched queue row is N3-1618 (横切る).
 
 N3-1085–1094 were authored sequentially by `codex`, with one Git commit
 per word using Ihor’s configured identity. Each passed JMdict validation,
@@ -245,7 +245,7 @@ as new entries. Editorial review remains pending.
 
 ## Current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **340/400 new words**
+Baseline: `f94d38a2` (merged PR #10). Completed **350/400 new words**
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -289,6 +289,7 @@ as new entries. Editorial review remains pending.
 | 32 | N3-1574–1584 | 10 |
 | 33 | N3-1585–1594 | 10 |
 | 34 | N3-1595–1607 | 10 |
+| 35 | N3-1608–1617 | 10 |
 
 ## Maturity workflow
 
@@ -3033,3 +3034,13 @@ content and remain at `new` until editorial review.
 | N3-1605 | [夜明け](entries/1537/1537150-yoake.org) | よあけ | yoake | 1537150 | learner | draft | **new** | Editorial review |
 | N3-1606 | [様](entries/1605/1605840-you.org) | よう | you | 1605840 | learner | draft | **new** | Editorial review |
 | N3-1607 | [酔う](entries/1372/1372650-you.org) | よう | you | 1372650 | learner | draft | **new** | Editorial review |
+| N3-1608 | [容易](entries/1545/1545350-youi.org) | ようい | youi | 1545350 | learner | draft | **new** | Editorial review |
+| N3-1609 | [陽気](entries/1546/1546990-youki.org) | ようき | youki | 1546990 | learner | draft | **new** | Editorial review |
+| N3-1610 | [要求](entries/1546/1546680-youkyuu.org) | ようきゅう | youkyuu | 1546680 | learner | draft | **new** | Editorial review |
+| N3-1611 | [用心](entries/1546/1546310-youjin.org) | ようじん | youjin | 1546310 | learner | draft | **new** | Editorial review |
+| N3-1612 | [様子](entries/1545/1545820-yousu.org) | ようす | yousu | 1545820 | learner | draft | **new** | Editorial review |
+| N3-1613 | [要するに](entries/1546/1546620-yousuruni.org) | ようするに | yousuruni | 1546620 | learner | draft | **new** | Editorial review |
+| N3-1614 | [要素](entries/1546/1546800-youso.org) | ようそ | youso | 1546800 | learner | draft | **new** | Editorial review |
+| N3-1615 | [要点](entries/1546/1546820-youten.org) | ようてん | youten | 1546820 | learner | draft | **new** | Editorial review |
+| N3-1616 | [曜日](entries/1545/1545770-youbi.org) | ようび | youbi | 1545770 | learner | draft | **new** | Editorial review |
+| N3-1617 | [予期](entries/1542/1542920-yoki.org) | よき | yoki | 1542920 | learner | draft | **new** | Editorial review |
