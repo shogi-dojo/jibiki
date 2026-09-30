@@ -1,0 +1,410 @@
+#+TITLE: 算盤
+#+JMDICT_ID: 1596700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そろばん
+#+ROMAJI: soroban
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1596700-001
+:PROPERTIES:
+:TEXT: 算盤
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1596700-002
+:PROPERTIES:
+:TEXT: 十露盤
+:END:
+*** Information
+- ateji
+- rK
+** Written form wf-1596700-003
+:PROPERTIES:
+:TEXT: 珠盤
+:END:
+*** Information
+- rK
+** Reading rd-1596700-001
+:PROPERTIES:
+:TEXT: そろばん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1596700-002
+:PROPERTIES:
+:TEXT: ソロバン
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1596700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 27d3e739971165b50c48f96f2cd2b0f5b9757f9902a979979af1939be4d065c2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- abacus
+- soroban
+** Ukrainian glosses
+*** uk-s-1596700-001-001
+:PROPERTIES:
+:END:
+- text :: рахівниця; соробан
+** Learner notes
+*** note-s-1596700-001-001
+:PROPERTIES:
+:END:
+- UK :: Лічильний пристрій із кісточками на стрижнях. Часто пишеться そろばん.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1596700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: そろばんを使います。
+- READING :: そろばんをつかいます。
+- UK :: Я користуюся рахівницею.
+- EN :: I use an abacus.
+- FOCUS :: そろばん
+*** ex-1596700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 先生がそろばんの使い方を教えてくれました。
+- READING :: せんせいがそろばんのつかいかたをおしえてくれました。
+- UK :: Учитель навчив мене користуватися рахівницею.
+- EN :: The teacher taught me how to use an abacus.
+- FOCUS :: そろばん
+*** ex-1596700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: そろばんで計算した答えをノートに書き、友達の答えと比べました。
+- READING :: そろばんでけいさんしたこたえをのーとにかき、ともだちのこたえとくらべました。
+- UK :: Я записав у зошит відповідь, обчислену на рахівниці, й порівняв її з відповіддю друга.
+- EN :: I wrote the answer calculated on the abacus in my notebook and compared it with my friend’s answer.
+- FOCUS :: そろばん
+
+* Sense s-1596700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e9a4b33f3b36eeb11e28e94ac57db15a1cc61fdf561bd905a9591e3f68185a41
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- calculation (esp. of profit and loss)
+- reckoning
+** Ukrainian glosses
+*** uk-s-1596700-002-001
+:PROPERTIES:
+:END:
+- text :: розрахунок; підрахунок вигоди й збитків
+** Learner notes
+*** note-s-1596700-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносно про оцінювання того, чи вигідна справа. Не обов’язково буквальне користування рахівницею.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1596700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 30a55bc668c7f7e95426ef181819250eb9c0debc7a3c9b4f61b5495bb67ecaeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telraam
+*** en-s-1596700-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rekenraam
+*** en-s-1596700-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abacus
+** Ukrainian glosses
+
+* Sense s-1596700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2c7aac82695662ac51258ddc9f5c5b0c5ca8b139a2f6e9ce4283e464fc712738
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} rekening
+*** en-s-1596700-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telling
+*** en-s-1596700-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} berekening
+*** en-s-1596700-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} calculatie
+** Ukrainian glosses
+
+* Sense s-1596700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fe645a5ecb1afcc639f55aed4b19fbe93d5d1bd9457ff620ff9f1484dadcace0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boulier
+** Ukrainian glosses
+
+* Sense s-1596700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 549c285d68392c26a4f6a9a0d64ab5a3fcdbe6bc37e73173e6137abd6872129c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soroban
+*** en-s-1596700-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abakus
+*** en-s-1596700-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechenbrett
+** Ukrainian glosses
+
+* Sense s-1596700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1709d928b6d58417ddbf5941e4fb6b66b59e6b6dd26c6095594693a7aaad41dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechnung
+*** en-s-1596700-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berechnung
+** Ukrainian glosses
+
+* Sense s-1596700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ed6ea4071510ffc5bf2eb31c48d0df4ca8530b9224b08ddfacb43642de878b83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rentabilität
+*** en-s-1596700-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Profitabilität
+** Ukrainian glosses
+
+* Sense s-1596700-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ddb0a21b099cf9b9d3b6af73754c7e7c66679db621d41b88a0aeb272dc5cf1e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számológép
+** Ukrainian glosses
+
+* Sense s-1596700-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ff26e5aa5ba267886970f5f3457c648005b6e55349662b949b7a42430cb39a90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) 十露盤
+*** en-s-1596700-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) [японские] счёты (по пятеричной системе)
+*** en-s-1596700-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) расчёты
+** Ukrainian glosses
+
+* Sense s-1596700-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 93dcec9c27576c2eaabe813d5e5f0fac78887f2b3eab7b1b3636d1e13369bf47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abakus
+*** en-s-1596700-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: računalo
+** Ukrainian glosses
+
+* Sense s-1596700-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 981adb705e03f153dc3834464b20ee24d8d5e4c48a40085d6cf26601a5407b82
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596700-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ábaco
+** Ukrainian glosses
