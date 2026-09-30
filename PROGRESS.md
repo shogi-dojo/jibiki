@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3243 |
+| Canonical entry files | 3253 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 271 |
+| Canonical N2 entries | 281 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 277 / 1635 (16.9%) |
+| N2 queue rows covered | 287 / 1635 (17.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3206 |
+| `new` | 3216 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3233 |
+| Entry metadata still marked `draft` | 3243 |
 | Core profile | 163 |
-| Learner profile | 3079 |
+| Learner profile | 3089 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -407,7 +407,7 @@ All new entries remain `new` / `draft`, pending editorial review.
 
 ## Current-branch 200-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **180/200 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **190/200 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -436,6 +436,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 16 | N2-249, N2-250, N2-251, N2-252, N2-253, N2-254, N2-255, N2-256, N2-257, N2-258 | 10 |
 | 17 | N2-259, N2-260, N2-261, N2-262, N2-263, N2-264, N2-265, N2-266, N2-267, N2-268 | 10 |
 | 18 | N2-269, N2-270, N2-271, N2-272, N2-273, N2-274, N2-275, N2-276, N2-277, N2-278 | 10 |
+| 19 | N2-279, N2-280, N2-281, N2-282, N2-283, N2-284, N2-285, N2-286, N2-287, N2-288 | 10 |
 
 ## Maturity workflow
 
@@ -3527,3 +3528,13 @@ content and remain at `new` until editorial review.
 | N2-276 | [釜](entries/1209/1209080-kama.org) | かま | kama | 1209080 | learner | draft | **new** | Editorial review |
 | N2-277 | [紙くず](entries/1609/1609610-kamikuzu.org) | かみくず | kamikuzu | 1609610 | learner | draft | **new** | Editorial review |
 | N2-278 | [神様](entries/1364/1364920-kamisama.org) | かみさま | kamisama | 1364920 | learner | draft | **new** | Editorial review |
+| N2-279 | [剃刀](entries/1435/1435180-kamisori.org) | かみそり | kamisori | 1435180 | learner | draft | **new** | Editorial review |
+| N2-280 | [貨物](entries/1195/1195890-kamotsu.org) | かもつ | kamotsu | 1195890 | learner | draft | **new** | Editorial review |
+| N2-281 | [痒い](entries/1569/1569570-kayui.org) | かゆい | kayui | 1569570 | learner | draft | **new** | Editorial review |
+| N2-282 | [歌謡](entries/1193/1193450-kayou.org) | かよう | kayou | 1193450 | learner | draft | **new** | Editorial review |
+| N2-283 | [殻](entries/1205/1205740-kara.org) | から | kara | 1205740 | learner | draft | **new** | Editorial review |
+| N2-284 | [揶揄う](entries/1567/1567650-karakau.org) | からかう | karakau | 1567650 | learner | draft | **new** | Editorial review |
+| N2-285 | [空っぽ](entries/1245/1245380-karappo.org) | からっぽ | karappo | 1245380 | learner | draft | **new** | Editorial review |
+| N2-286 | [カラー](entries/1038/1038500-karaa.org) | カラー | karaa | 1038500 | learner | draft | **new** | Editorial review |
+| N2-287 | [歌留多](entries/1590/1590710-karuta.org) | カルタ | karuta | 1590710 | learner | draft | **new** | Editorial review |
+| N2-288 | [枯れる](entries/1267/1267220-kareru.org) | かれる | kareru | 1267220 | learner | draft | **new** | Editorial review |
