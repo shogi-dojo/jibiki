@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3993 |
+| Canonical entry files | 4003 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1021 |
+| Canonical N2 entries | 1031 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1029 / 1635 (62.9%) |
+| N2 queue rows covered | 1039 / 1635 (63.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3956 |
+| `new` | 3966 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3983 |
+| Entry metadata still marked `draft` | 3993 |
 | Core profile | 163 |
-| Learner profile | 3829 |
+| Learner profile | 3839 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **930/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **940/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1001,6 +1001,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 91 | N2-1001, N2-1002, N2-1003, N2-1004, N2-1005, N2-1006, N2-1007, N2-1008, N2-1009, N2-1010 | 10 |
 | 92 | N2-1011, N2-1012, N2-1013, N2-1014, N2-1015, N2-1016, N2-1017, N2-1018, N2-1019, N2-1020 | 10 |
 | 93 | N2-1021, N2-1022, N2-1023, N2-1024, N2-1025, N2-1026, N2-1027, N2-1028, N2-1029, N2-1030 | 10 |
+| 94 | N2-1031, N2-1032, N2-1033, N2-1034, N2-1035, N2-1036, N2-1037, N2-1038, N2-1039, N2-1040 | 10 |
 
 ## Maturity workflow
 
@@ -4844,3 +4845,13 @@ content and remain at `new` until editorial review.
 | N2-1028 | [手ごろ](entries/1327/1327660-tegoro.org) | てごろ | tegoro | 1327660 | learner | draft | **new** | Editorial review |
 | N2-1029 | [手帳](entries/1598/1598330-techou.org) | てちょう | techou | 1598330 | learner | draft | **new** | Editorial review |
 | N2-1030 | [鉄橋](entries/1437/1437820-tekkyou.org) | てっきょう | tekkyou | 1437820 | learner | draft | **new** | Editorial review |
+| N2-1031 | [鉄砲](entries/1438/1438010-teppou.org) | てっぽう | teppou | 1438010 | learner | draft | **new** | Editorial review |
+| N2-1032 | [手続き](entries/1598/1598350-tetsuzuki.org) | てつづき | tetsuzuki | 1598350 | learner | draft | **new** | Editorial review |
+| N2-1033 | [テニスコート](entries/1080/1080030-tenisukooto.org) | テニスコート | tenisukooto | 1080030 | learner | draft | **new** | Editorial review |
+| N2-1034 | [手ぬぐい](entries/1598/1598400-tenugui.org) | てぬぐい | tenugui | 1598400 | learner | draft | **new** | Editorial review |
+| N2-1035 | [手前](entries/1328/1328030-temae.org) | てまえ | temae | 1328030 | learner | draft | **new** | Editorial review |
+| N2-1036 | [照らす](entries/1350/1350840-terasu.org) | てらす | terasu | 1350840 | learner | draft | **new** | Editorial review |
+| N2-1037 | [照る](entries/1350/1350860-teru.org) | てる | teru | 1350860 | learner | draft | **new** | Editorial review |
+| N2-1038 | [展開](entries/1440/1440600-tenkai.org) | てんかい | tenkai | 1440600 | learner | draft | **new** | Editorial review |
+| N2-1039 | [点数](entries/1441/1441660-tensuu.org) | てんすう | tensuu | 1441660 | learner | draft | **new** | Editorial review |
+| N2-1040 | [点々](entries/1598/1598460-tenten.org) | てんてん | tenten | 1598460 | learner | draft | **new** | Editorial review |
