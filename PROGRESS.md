@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4063 |
+| Canonical entry files | 4163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1091 |
+| Canonical N2 entries | 1191 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1100 / 1635 (67.3%) |
+| N2 queue rows covered | 1201 / 1635 (73.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4026 |
+| `new` | 4126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4053 |
+| Entry metadata still marked `draft` | 4153 |
 | Core profile | 163 |
-| Learner profile | 3899 |
+| Learner profile | 3999 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -914,7 +914,7 @@ across all 1000 entries with zero errors or warnings. The test suite passed
 
 All entries remain learner-profile drafts awaiting independent editorial review;
 automated checks do not establish linguistic approval. The next untouched
-candidate is N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
+candidate at the 1000-word checkpoint was N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
 The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 | Batch | Queue rows | New entries |
@@ -1019,6 +1019,42 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 98 | N2-1071–1080 | 10 |
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
+
+## Completed current-branch 100-word N2 PR (2026-10-01)
+
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
+Completed **100/100 new words** in ten batches of ten, one commit per word
+under Ihor. Content author is `codex`. All 100 are distinct new N2 candidate
+entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
+and is excluded from the new-word count.
+
+The additions cover 210 English semantic senses with original Ukrainian glosses
+and usage explanations, plus 300 graded examples with Japanese text, kana,
+Ukrainian and English translations. Audits verified distinct JMdict IDs,
+complete original-source sense fingerprints, primary example senses, example
+focus spans, Git authorship and ledger links. Fresh validation and Org lint
+passed for all 100 entries. Doctor averaged 100/100 with zero errors or warnings.
+The test suite passed 137 tests and 13,043 assertions; pinned JMdict and N2
+source checksums were verified.
+
+All additions remain learner-profile drafts awaiting independent editorial
+review. Automated checks do not constitute linguistic approval. The next
+untouched candidate is N2-1203 (発揮, はっき). N2-69 remains deferred for a
+dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
+remains preserved.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-1102–1111 | 10 |
+| 2 | N2-1112–1121 | 10 |
+| 3 | N2-1122–1131 | 10 |
+| 4 | N2-1132–1141 | 10 |
+| 5 | N2-1142–1152 | 10 |
+| 6 | N2-1153–1162 | 10 |
+| 7 | N2-1163–1172 | 10 |
+| 8 | N2-1173–1182 | 10 |
+| 9 | N2-1183–1192 | 10 |
+| 10 | N2-1193–1202 | 10 |
 
 ## Maturity workflow
 
@@ -4933,3 +4969,104 @@ content and remain at `new` until editorial review.
 | N2-1099 | [取り出す](entries/1326/1326770-toridasu.org) | とりだす | toridasu | 1326770 | learner | draft | **new** | Editorial review |
 | N2-1100 | [捕る](entries/1514/1514140-toru.org) | とる | toru | 1514140 | learner | draft | **new** | Editorial review |
 | N2-1101 | [トレーニング](entries/1087/1087100-toreeningu.org) | トレーニング | toreeningu | 1087100 | learner | draft | **new** | Editorial review |
+| N2-1102 | [銅](entries/1582/1582390-dou.org) | どう | dou | 1582390 | learner | draft | **new** | Editorial review |
+| N2-1103 | [同格](entries/1452/1452000-doukaku.org) | どうかく | doukaku | 1452000 | learner | draft | **new** | Editorial review |
+| N2-1104 | [動作](entries/1451/1451350-dousa.org) | どうさ | dousa | 1451350 | learner | draft | **new** | Editorial review |
+| N2-1105 | [どうせ](entries/1008/1008950-douse.org) | どうせ | douse | 1008950 | learner | draft | **new** | Editorial review |
+| N2-1106 | [どうぞ宜しく](entries/1008/1008960-douzoyoroshiku.org) | どうぞよろしく | douzoyoroshiku | 1008960 | learner | draft | **new** | Editorial review |
+| N2-1107 | [童話](entries/1454/1454000-douwa.org) | どうわ | douwa | 1454000 | learner | draft | **new** | Editorial review |
+| N2-1108 | [ドキドキ](entries/1009/1009050-dokidoki.org) | ドキドキ | dokidoki | 1009050 | learner | draft | **new** | Editorial review |
+| N2-1109 | [退く](entries/1595/1595080-doku.org) | どく | doku | 1595080 | learner | draft | **new** | Editorial review |
+| N2-1110 | [どっと](entries/1009/1009210-dotto.org) | どっと | dotto | 1009210 | learner | draft | **new** | Editorial review |
+| N2-1111 | [怒鳴る](entries/1445/1445740-donaru.org) | どなる | donaru | 1445740 | learner | draft | **new** | Editorial review |
+| N2-1112 | [丼](entries/1562/1562970-donburi.org) | どんぶり | donburi | 1562970 | learner | draft | **new** | Editorial review |
+| N2-1113 | [内科](entries/1457/1457830-naika.org) | ないか | naika | 1457830 | learner | draft | **new** | Editorial review |
+| N2-1114 | [内線](entries/1458/1458650-naisen.org) | ないせん | naisen | 1458650 | learner | draft | **new** | Editorial review |
+| N2-1115 | [ナイロン](entries/1089/1089930-nairon.org) | ナイロン | nairon | 1089930 | learner | draft | **new** | Editorial review |
+| N2-1116 | [仲直り](entries/1426/1426000-nakanaori.org) | なかなおり | nakanaori | 1426000 | learner | draft | **new** | Editorial review |
+| N2-1117 | [中身](entries/1599/1599430-nakami.org) | なかみ | nakami | 1599430 | learner | draft | **new** | Editorial review |
+| N2-1118 | [中指](entries/1581/1581690-nakayubi.org) | なかゆび | nakayubi | 1581690 | learner | draft | **new** | Editorial review |
+| N2-1119 | [仲良し](entries/1426/1426100-nakayoshi.org) | なかよし | nakayoshi | 1426100 | learner | draft | **new** | Editorial review |
+| N2-1120 | [慰める](entries/1156/1156890-nagusameru.org) | なぐさめる | nagusameru | 1156890 | learner | draft | **new** | Editorial review |
+| N2-1121 | [殴る](entries/1181/1181390-naguru.org) | なぐる | naguru | 1181390 | learner | draft | **new** | Editorial review |
+| N2-1122 | [成す](entries/1157/1157130-nasu.org) | なす | nasu | 1157130 | learner | draft | **new** | Editorial review |
+| N2-1123 | [謎々](entries/1599/1599500-nazonazo.org) | なぞなぞ | nazonazo | 1599500 | learner | draft | **new** | Editorial review |
+| N2-1124 | [なだらか](entries/1632/1632290-nadaraka.org) | なだらか | nadaraka | 1632290 | learner | draft | **new** | Editorial review |
+| N2-1125 | [懐かしい](entries/1200/1200490-natsukashii.org) | なつかしい | natsukashii | 1200490 | learner | draft | **new** | Editorial review |
+| N2-1126 | [撫でる](entries/1498/1498290-naderu.org) | なでる | naderu | 1498290 | learner | draft | **new** | Editorial review |
+| N2-1127 | [斜め](entries/1322/1322400-naname.org) | ななめ | naname | 1322400 | learner | draft | **new** | Editorial review |
+| N2-1128 | [何しろ](entries/1188/1188330-nanishiro.org) | なにしろ | nanishiro | 1188330 | learner | draft | **new** | Editorial review |
+| N2-1129 | [何々](entries/1599/1599580-naninani.org) | なになに | naninani | 1599580 | learner | draft | **new** | Editorial review |
+| N2-1130 | [何分](entries/1189/1189310-nanibun.org) | なにぶん | nanibun | 1189310 | learner | draft | **new** | Editorial review |
+| N2-1131 | [生意気](entries/1378/1378790-namaiki.org) | なまいき | namaiki | 1378790 | learner | draft | **new** | Editorial review |
+| N2-1132 | [倣う](entries/1599/1599680-narau.org) | ならう | narau | 1599680 | learner | draft | **new** | Editorial review |
+| N2-1133 | [鳴らす](entries/1532/1532880-narasu.org) | ならす | narasu | 1532880 | learner | draft | **new** | Editorial review |
+| N2-1134 | [生る](entries/1611/1611000-naru.org) | なる | naru | 1611000 | learner | draft | **new** | Editorial review |
+| N2-1135 | [南極](entries/1460/1460180-nankyoku.org) | なんきょく | nankyoku | 1460180 | learner | draft | **new** | Editorial review |
+| N2-1136 | [何となく](entries/1599/1599730-nantonaku.org) | なんとなく | nantonaku | 1599730 | learner | draft | **new** | Editorial review |
+| N2-1137 | [何とも](entries/1188/1188690-nantomo.org) | なんとも | nantomo | 1188690 | learner | draft | **new** | Editorial review |
+| N2-1138 | [ナンバー](entries/1090/1090860-nanbaa.org) | ナンバー | nanbaa | 1090860 | learner | draft | **new** | Editorial review |
+| N2-1139 | [南米](entries/1460/1460570-nanbei.org) | なんべい | nanbei | 1460570 | learner | draft | **new** | Editorial review |
+| N2-1140 | [南北](entries/1460/1460600-nanboku.org) | なんぼく | nanboku | 1460600 | learner | draft | **new** | Editorial review |
+| N2-1141 | [煮える](entries/1322/1322490-nieru.org) | にえる | nieru | 1322490 | learner | draft | **new** | Editorial review |
+| N2-1142 | [匂う](entries/1599/1599780-niou.org) | におう | niou | 1599780 | learner | draft | **new** | Editorial review |
+| N2-1143 | [逃がす](entries/1450/1450320-nigasu.org) | にがす | nigasu | 1450320 | learner | draft | **new** | Editorial review |
+| N2-1144 | [憎い](entries/1403/1403390-nikui.org) | にくい | nikui | 1403390 | learner | draft | **existing** | Editorial review |
+| N2-1145 | [憎む](entries/1403/1403440-nikumu.org) | にくむ | nikumu | 1403440 | learner | draft | **new** | Editorial review |
+| N2-1146 | [憎らしい](entries/1403/1403450-nikurashii.org) | にくらしい | nikurashii | 1403450 | learner | draft | **new** | Editorial review |
+| N2-1147 | [ニコニコ](entries/1091/1091130-nikoniko.org) | ニコニコ | nikoniko | 1091130 | learner | draft | **new** | Editorial review |
+| N2-1148 | [虹](entries/1463/1463740-niji.org) | にじ | niji | 1463740 | learner | draft | **new** | Editorial review |
+| N2-1149 | [日時](entries/1464/1464110-nichiji.org) | にちじ | nichiji | 1464110 | learner | draft | **new** | Editorial review |
+| N2-1150 | [日用品](entries/1464/1464910-nichiyouhin.org) | にちようひん | nichiyouhin | 1464910 | learner | draft | **new** | Editorial review |
+| N2-1151 | [日課](entries/1463/1463860-nikka.org) | にっか | nikka | 1463860 | learner | draft | **new** | Editorial review |
+| N2-1152 | [日程](entries/1464/1464300-nittei.org) | にってい | nittei | 1464300 | learner | draft | **new** | Editorial review |
+| N2-1153 | [鈍い](entries/1582/1582430-nibui.org) | にぶい | nibui | 1582430 | learner | draft | **new** | Editorial review |
+| N2-1154 | [入社](entries/1466/1466260-nyuusha.org) | にゅうしゃ | nyuusha | 1466260 | learner | draft | **new** | Editorial review |
+| N2-1155 | [女房](entries/1345/1345420-nyoubou.org) | にょうぼう | nyoubou | 1345420 | learner | draft | **new** | Editorial review |
+| N2-1156 | [睨む](entries/1569/1569880-niramu.org) | にらむ | niramu | 1569880 | learner | draft | **new** | Editorial review |
+| N2-1157 | [煮る](entries/1322/1322540-niru.org) | にる | niru | 1322540 | learner | draft | **new** | Editorial review |
+| N2-1158 | [俄](entries/1599/1599920-niwaka.org) | にわか | niwaka | 1599920 | learner | draft | **new** | Editorial review |
+| N2-1159 | [縫う](entries/1517/1517700-nuu.org) | ぬう | nuu | 1517700 | learner | draft | **new** | Editorial review |
+| N2-1160 | [滑る](entries/2016/2016150-numeru.org) | ぬめる | numeru | 2016150 | learner | draft | **new** | Editorial review |
+| N2-1161 | [濡らす](entries/1467/1467610-nurasu.org) | ぬらす | nurasu | 1467610 | learner | draft | **new** | Editorial review |
+| N2-1162 | [螺子](entries/1585/1585010-neji.org) | ネジ | neji | 1585010 | learner | draft | **new** | Editorial review |
+| N2-1163 | [捩る](entries/1611/1611090-nejiru.org) | ねじる | nejiru | 1611090 | learner | draft | **new** | Editorial review |
+| N2-1164 | [ネックレス](entries/1093/1093000-nekkuresu.org) | ネックレス | nekkuresu | 1093000 | learner | draft | **new** | Editorial review |
+| N2-1165 | [熱する](entries/1467/1467730-nessuru.org) | ねっする | nessuru | 1467730 | learner | draft | **new** | Editorial review |
+| N2-1166 | [寝巻き](entries/1360/1360040-nemaki.org) | ねまき | nemaki | 1360040 | learner | draft | **new** | Editorial review |
+| N2-1167 | [狙い](entries/1396/1396550-nerai.org) | ねらい | nerai | 1396550 | learner | draft | **new** | Editorial review |
+| N2-1168 | [狙う](entries/1396/1396590-nerau.org) | ねらう | nerau | 1396590 | learner | draft | **new** | Editorial review |
+| N2-1169 | [年度](entries/1469/1469050-nendo.org) | ねんど | nendo | 1469050 | learner | draft | **new** | Editorial review |
+| N2-1170 | [農産物](entries/1470/1470710-nousanbutsu.org) | のうさんぶつ | nousanbutsu | 1470710 | learner | draft | **new** | Editorial review |
+| N2-1171 | [農村](entries/1470/1470730-nouson.org) | のうそん | nouson | 1470730 | learner | draft | **new** | Editorial review |
+| N2-1172 | [濃度](entries/1469/1469970-noudo.org) | のうど | noudo | 1469970 | learner | draft | **new** | Editorial review |
+| N2-1173 | [農薬](entries/1470/1470780-nouyaku.org) | のうやく | nouyaku | 1470780 | learner | draft | **new** | Editorial review |
+| N2-1174 | [能率](entries/1470/1470330-nouritsu.org) | のうりつ | nouritsu | 1470330 | learner | draft | **new** | Editorial review |
+| N2-1175 | [退ける](entries/1411/1411270-nokeru.org) | のける | nokeru | 1411270 | learner | draft | **new** | Editorial review |
+| N2-1176 | [鋸](entries/1232/1232930-nokogiri.org) | のこぎり | nokogiri | 1232930 | learner | draft | **new** | Editorial review |
+| N2-1177 | [残らず](entries/1611/1611130-nokorazu.org) | のこらず | nokorazu | 1611130 | learner | draft | **new** | Editorial review |
+| N2-1178 | [覗く](entries/1470/1470840-nozoku.org) | のぞく | nozoku | 1470840 | learner | draft | **new** | Editorial review |
+| N2-1179 | [上り](entries/1352/1352510-nobori.org) | のぼり | nobori | 1352510 | learner | draft | **new** | Editorial review |
+| N2-1180 | [乗り換え](entries/1600/1600460-norikae.org) | のりかえ | norikae | 1600460 | learner | draft | **new** | Editorial review |
+| N2-1181 | [載る](entries/2649/2649690-noru.org) | のる | noru | 2649690 | learner | draft | **new** | Editorial review |
+| N2-1182 | [のろのろ](entries/1010/1010040-noronoro.org) | のろのろ | noronoro | 1010040 | learner | draft | **new** | Editorial review |
+| N2-1183 | [呑気](entries/1600/1600560-nonki.org) | のんき | nonki | 1600560 | learner | draft | **new** | Editorial review |
+| N2-1184 | [灰色](entries/1201/1201970-haiiro.org) | はいいろ | haiiro | 1201970 | learner | draft | **new** | Editorial review |
+| N2-1185 | [俳句](entries/1471/1471900-haiku.org) | はいく | haiku | 1471900 | learner | draft | **new** | Editorial review |
+| N2-1186 | [這う](entries/1474/1474200-hau.org) | はう | hau | 1474200 | learner | draft | **new** | Editorial review |
+| N2-1187 | [生える](entries/1378/1378490-haeru.org) | はえる | haeru | 1378490 | learner | draft | **new** | Editorial review |
+| N2-1188 | [秤](entries/1474/1474220-hakari.org) | はかり | hakari | 1474220 | learner | draft | **new** | Editorial review |
+| N2-1189 | [剥がす](entries/1600/1600670-hagasu.org) | はがす | hagasu | 1600670 | learner | draft | **new** | Editorial review |
+| N2-1190 | [はきはき](entries/1010/1010090-hakihaki.org) | はきはき | hakihaki | 1010090 | learner | draft | **new** | Editorial review |
+| N2-1191 | [掃く](entries/1399/1399760-haku.org) | はく | haku | 1399760 | learner | draft | **new** | Editorial review |
+| N2-1192 | [歯車](entries/1313/1313350-haguruma.org) | はぐるま | haguruma | 1313350 | learner | draft | **new** | Editorial review |
+| N2-1193 | [挟まる](entries/1236/1236840-hasamaru.org) | はさまる | hasamaru | 1236840 | learner | draft | **new** | Editorial review |
+| N2-1194 | [挟む](entries/1600/1600740-hasamu.org) | はさむ | hasamu | 1600740 | learner | draft | **new** | Editorial review |
+| N2-1195 | [梯子](entries/1436/1436480-hashigo.org) | はしご | hashigo | 1436480 | learner | draft | **new** | Editorial review |
+| N2-1196 | [初めに](entries/1307/1307520-hajimeni.org) | はじめに | hajimeni | 1307520 | learner | draft | **new** | Editorial review |
+| N2-1197 | [初めまして](entries/1625/1625780-hajimemashite.org) | はじめまして | hajimemashite | 1625780 | learner | draft | **new** | Editorial review |
+| N2-1198 | [斜](entries/2085/2085880-hasu.org) | はす | hasu | 2085880 | learner | draft | **new** | Editorial review |
+| N2-1199 | [外れる](entries/1203/1203310-hazureru.org) | はずれる | hazureru | 1203310 | learner | draft | **new** | Editorial review |
+| N2-1200 | [果たして](entries/1600/1600780-hatashite.org) | はたして | hatashite | 1600780 | learner | draft | **new** | Editorial review |
+| N2-1201 | [肌着](entries/1476/1476500-hadagi.org) | はだぎ | hadagi | 1476500 | learner | draft | **new** | Editorial review |
+| N2-1202 | [鉢](entries/1477/1477090-hachi.org) | はち | hachi | 1477090 | learner | draft | **new** | Editorial review |
