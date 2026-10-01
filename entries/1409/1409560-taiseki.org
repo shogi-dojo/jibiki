@@ -1,0 +1,370 @@
+#+TITLE: 体積
+#+JMDICT_ID: 1409560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいせき
+#+ROMAJI: taiseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1409560-001
+:PROPERTIES:
+:TEXT: 体積
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf27
+** Reading rd-1409560-001
+:PROPERTIES:
+:TEXT: たいせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf27
+
+* Sense s-1409560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f05151770df023237d9713ed0aaf5e509ebda5ce3f87aa9152135813b6b3d8d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- capacity
+- volume
+** Ukrainian glosses
+*** uk-s-1409560-001-001
+:PROPERTIES:
+:END:
+- text :: об’єм; місткість
+** Learner notes
+*** note-s-1409560-001-001
+:PROPERTIES:
+:END:
+- UK :: Величина простору, зайнятого тілом, або об’єм, який може вмістити посудина. Відрізняється від площі 面積.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1409560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 箱の体積を求めます。
+- READING :: はこのたいせきをもとめます。
+- UK :: Я визначаю об’єм коробки.
+- EN :: I calculate the volume of the box.
+- FOCUS :: 体積
+*** ex-1409560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二つの石の体積を比べました。
+- READING :: ふたつのいしのたいせきをくらべました。
+- UK :: Ми порівняли об’єми двох каменів.
+- EN :: We compared the volumes of two stones.
+- FOCUS :: 体積
+*** ex-1409560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 形が違う容器でも体積が同じになることを、模型を使って説明しました。
+- READING :: かたちがちがうようきでもたいせきがおなじになることを、もけいをつかってせつめいしました。
+- UK :: За допомогою моделей я пояснив, що посудини різної форми можуть мати однаковий об’єм.
+- EN :: I used models to explain that containers of different shapes can have the same volume.
+- FOCUS :: 体積
+
+* Sense s-1409560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 21d1432c8384289e75824db8f327d8f6e0ee43da5b3b9d59c7f9ec7810b0472f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volume
+*** en-s-1409560-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (kubieke) inhoud
+** Ukrainian glosses
+
+* Sense s-1409560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 08ea6afcb6b3a70ad9f74bcdab693863396f5aee2135c1b9e26f11ec74618b63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: capacité
+*** en-s-1409560-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volume
+** Ukrainian glosses
+
+* Sense s-1409560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2e8d26a90f4e9e1939bc219c24981368d4cc7089dbcc864fc4e7a40d16e0b920
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Volumen
+*** en-s-1409560-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rauminhalt
+** Ukrainian glosses
+
+* Sense s-1409560-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 11486a0ea85046b5f88d3aac05c9a05fd5ff73e6563da7cf4790340f52bec067
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: befogadóképesség
+*** en-s-1409560-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felvevőképesség
+*** en-s-1409560-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hengerűrtartalom
+*** en-s-1409560-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megmunkálható legnagyobb darabméret
+*** en-s-1409560-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: munkaképesség
+*** en-s-1409560-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: munkateljesítő képesség
+*** en-s-1409560-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tehetség
+*** en-s-1409560-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teljesítő képesség
+*** en-s-1409560-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: térfogat
+*** en-s-1409560-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: termelőképesség
+*** en-s-1409560-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: űrtartalom
+*** en-s-1409560-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hangerő
+*** en-s-1409560-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kötet
+*** en-s-1409560-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: térfogat
+** Ukrainian glosses
+
+* Sense s-1409560-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9f6ab81126f1557d34d7126ecbeb4d900a6aeaeb7ead3518651276adaa4e15a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: объём; кубатура
+** Ukrainian glosses
+
+* Sense s-1409560-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6b01b7598681ef330cde1a4e0b21c565ec3f1791fbcd74f3137ce9baed27391d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prostornina
+** Ukrainian glosses
+
+* Sense s-1409560-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4255a1965515cd047c6a7dd9da69fe5af250ccecc7c8b2153998d96816175588
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: capacidad
+*** en-s-1409560-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volumen
+** Ukrainian glosses
+
+* Sense s-1409560-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 12a0a5a5fe5e4399a40dadff5ea63702b1e5a8c059dcd61b651fa2d752d7dfa4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1409560-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volym
+** Ukrainian glosses

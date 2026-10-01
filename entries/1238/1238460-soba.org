@@ -1,0 +1,413 @@
+#+TITLE: 蕎麦
+#+JMDICT_ID: 1238460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そば
+#+ROMAJI: soba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1238460-001
+:PROPERTIES:
+:TEXT: 蕎麦
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf43
+** Reading rd-1238460-001
+:PROPERTIES:
+:TEXT: そば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+- news2
+- nf43
+** Reading rd-1238460-002
+:PROPERTIES:
+:TEXT: そばむぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1238460-003
+:PROPERTIES:
+:TEXT: そまむぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1238460-004
+:PROPERTIES:
+:TEXT: ソバ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1238460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7eff99a73c5d25def27bf2c38c0793f96851d90a6500c66d38c8fd8ce18e58d1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- buckwheat (Fagopyrum esculentum)
+** Ukrainian glosses
+*** uk-s-1238460-001-001
+:PROPERTIES:
+:END:
+- text :: гречка
+** Learner notes
+*** note-s-1238460-001-001
+:PROPERTIES:
+:END:
+- UK :: Рослина Fagopyrum esculentum. Часто пишеться そば; рослину від страви відрізняє контекст.
+- LEVEL :: beginner
+- REGISTER :: neutral
+* Sense s-1238460-002
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f757d597f9b76636c0f1646a8763245356d9ec6bd7c93e1593852f41bfe25834
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- そば
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Miscellaneous and register
+- uk
+- abbr
+*** Cross-references
+- 蕎麦切り
+** English glosses
+- soba
+*** en-s-1238460-002-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japanese buckwheat noodles
+** Ukrainian glosses
+*** uk-s-1238460-002-001
+:PROPERTIES:
+:END:
+- text :: соба; японська гречана локшина
+** Learner notes
+*** note-s-1238460-002-001
+:PROPERTIES:
+:END:
+- UK :: Назва локшини з гречаним борошном; скорочене найменування. Це обране повсякденне значення.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+** Examples
+*** ex-1238460-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: そばを食べます。
+- READING :: そばをたべます。
+- UK :: Я їм локшину соба.
+- EN :: I eat soba noodles.
+- FOCUS :: そば
+*** ex-1238460-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昼ご飯に温かいそばを注文しました。
+- READING :: ひるごはんにあたたかいそばをちゅうもんしました。
+- UK :: На обід я замовив гарячу локшину соба.
+- EN :: I ordered hot soba noodles for lunch.
+- FOCUS :: そば
+*** ex-1238460-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 友達が作ったそばを食べながら、旅先で入った店の話をしました。
+- READING :: ともだちがつくったそばをたべながら、たびさきではいったみせのはなしをしました。
+- UK :: Їдучи соба, яку приготував друг, ми розмовляли про заклад, відвіданий у подорожі.
+- EN :: While eating the soba noodles my friend made, we talked about a restaurant we had visited on our trip.
+- FOCUS :: そば
+
+* Sense s-1238460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd0a5f96b087e498a2653acb59a73162a95e4b1ad011554bf174f4e0bf2fd099
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- そば
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Miscellaneous and register
+- uk
+** English glosses
+- Chinese-style wheat noodles
+** Ukrainian glosses
+*** uk-s-1238460-003-001
+:PROPERTIES:
+:END:
+- text :: пшенична локшина китайського типу
+** Learner notes
+*** note-s-1238460-003-001
+:PROPERTIES:
+:END:
+- UK :: У певних назвах і контекстах そば може називати китайську за стилем пшеничну локшину; не завжди гречану.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1238460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e684e10dfa6081ad310913561c08b01b3f81db9e5276084015de0f50d267c777
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} boekweit
+*** en-s-1238460-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fagopyrum esculentum
+** Ukrainian glosses
+
+* Sense s-1238460-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 980fe9f6b11e564d6b173d30881e65bfcb4560ba954c28e5ef9b6ed63722121c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} soba
+*** en-s-1238460-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japanse vermicelli van boekweitemeel
+*** en-s-1238460-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boekweitmi
+** Ukrainian glosses
+
+* Sense s-1238460-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 44206eb3702de82897bccc1a8c370966bcdc837aed357f4e2126c16fc18c02af
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soba (nouilles de sarasin)
+** Ukrainian glosses
+
+* Sense s-1238460-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 909beaed9904d41f9349b0f8ee906f119cbd5f8bf5aa2e1fd9595c40d13fc4f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buchweizen
+*** en-s-1238460-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fagopyrum esculentum
+** Ukrainian glosses
+
+* Sense s-1238460-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2dcfc01b994649ab88c2fcb213bdb330cd81eb1ad9cbde8feaaf49bf63c0b34d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soba
+*** en-s-1238460-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buchweizennudeln
+** Ukrainian glosses
+
+* Sense s-1238460-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 36dad0c25572316655f3ebc6460271ca6cbc8e1885bd2d52a0c91d375bf9c8a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) гречиха; (см.) くろむぎ【黒麦】
+*** en-s-1238460-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) лапша из гречневой муки
+** Ukrainian glosses
+
+* Sense s-1238460-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b30447336d2248b313a8425e33d1ca62c513cb9afec66e1a23ac779927157a3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ajda
+*** en-s-1238460-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japonski ajdovi rezanci
+** Ukrainian glosses
+
+* Sense s-1238460-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: b40be5cbb85aeb5ee96e59a8707d3e755060c182d8eaf628bd19ef209ee2670d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trigo sarraceno
+** Ukrainian glosses
+
+* Sense s-1238460-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ab3a381dab5dcf9a37efa6993d0bae4876e054fdddbc6a6470b400ae90c6da60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1238460-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soba (fideos japonés)
+** Ukrainian glosses

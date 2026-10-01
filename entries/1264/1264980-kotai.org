@@ -1,0 +1,241 @@
+#+TITLE: 個体
+#+JMDICT_ID: 1264980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こたい
+#+ROMAJI: kotai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1264980-001
+:PROPERTIES:
+:TEXT: 個体
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1264980-001
+:PROPERTIES:
+:TEXT: こたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1264980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b80e93698dfab83286000f116ca51493c44adcc40bc4e1cb53f79a452b74ead
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- individual
+- specimen
+** Ukrainian glosses
+*** uk-s-1264980-001-001
+:PROPERTIES:
+:END:
+- text :: особина; окремий організм; екземпляр
+** Learner notes
+*** note-s-1264980-001-001
+:PROPERTIES:
+:END:
+- UK :: Окремий представник виду в біології. Не плутати з 固体, твердим тілом, що має те саме читання.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1264980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 個体を観察します。
+- READING :: こたいをかんさつします。
+- UK :: Я спостерігаю за особиною.
+- EN :: I observe an individual organism.
+- FOCUS :: 個体
+*** ex-1264980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 同じ種類でも個体によって色が違います。
+- READING :: おなじしゅるいでもこたいによっていろがちがいます。
+- UK :: Навіть у межах одного виду колір відрізняється між особинами.
+- EN :: Even within the same species, color varies between individuals.
+- FOCUS :: 個体
+*** ex-1264980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: それぞれの個体を見分けるために、模様を記録しました。
+- READING :: それぞれのこたいをみわけるために、もようをきろくしました。
+- UK :: Я записав особливості забарвлення, щоб розрізняти окремих особин.
+- EN :: I recorded their markings to distinguish each individual.
+- FOCUS :: 個体
+
+* Sense s-1264980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 235df0768f0e7ecea80f2d7e0e5ae51627a97e9f53e520da87f6e93f04feb80f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fil.} individu
+** Ukrainian glosses
+
+* Sense s-1264980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6820752ffe9c337073669af754f6ee0fa28ada4d037d577a58603b6b6a68de61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {biol.} individu
+** Ukrainian glosses
+
+* Sense s-1264980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c66e22569b1d9a448867ad6846915affaeb9cbdf18c9bab0e06639c0910c01a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: un individu
+** Ukrainian glosses
+
+* Sense s-1264980-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1ccbe128ee0400edf4f6a7012ad7a99ee7da02178b28ab1e229382f7c360bcd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Individuum
+** Ukrainian glosses
+
+* Sense s-1264980-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 93eb05590028e42cf97221bd86f38f36d04167a4cdf40476d2ba941bde705430
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einzelexemplar
+*** en-s-1264980-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Individuum
+** Ukrainian glosses
+
+* Sense s-1264980-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 64680385c13be2571cba12af56633a618420d1993735e95d61fc27e5d88a3c46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: индивидуум; особь
+** Ukrainian glosses
+
+* Sense s-1264980-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d14b9e298c46e3e85cdfa8f741ec5e9601180a9bd2662b19eefaf694bc23f8b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuerpo sólido
+** Ukrainian glosses
+
+* Sense s-1264980-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0d28c7963fb570e47d1f67d82e81971134e86b11f024b0f147058fc18b91a052
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1264980-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: individ
+** Ukrainian glosses

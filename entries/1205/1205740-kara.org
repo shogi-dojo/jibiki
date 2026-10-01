@@ -1,0 +1,657 @@
+#+TITLE: 殻
+#+JMDICT_ID: 1205740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: から
+#+ROMAJI: kara
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1205740-001
+:PROPERTIES:
+:TEXT: 殻
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Written form wf-1205740-002
+:PROPERTIES:
+:TEXT: 骸
+:END:
+*** Information
+- rK
+** Reading rd-1205740-001
+:PROPERTIES:
+:TEXT: から
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1205740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9e0fb94e1272a615181361c2845d21158693a95a800a24f71ecbe465626f3b70
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- shell
+- husk
+- hull
+- pod
+- chaff
+** Ukrainian glosses
+*** uk-s-1205740-001-001
+:PROPERTIES:
+:END:
+- text :: шкаралупа; оболонка; лушпиння; стручок
+** Learner notes
+*** note-s-1205740-001-001
+:PROPERTIES:
+:END:
+- UK :: Тверда або суха зовнішня частина яйця, насінини чи плоду. 卵の殻 — яєчна шкаралупа.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1205740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 卵の殻を割ります。
+- READING :: たまごのからをわります。
+- UK :: Я розбиваю яєчну шкаралупу.
+- EN :: I crack the eggshell.
+- FOCUS :: 殻
+*** ex-1205740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 皿に卵の殻が入りました。
+- READING :: さらにたまごのからがはいりました。
+- UK :: У тарілку потрапила яєчна шкаралупа.
+- EN :: A piece of eggshell fell into the dish.
+- FOCUS :: 殻
+*** ex-1205740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 殻を取り除いてから、ナッツを細かく刻みました。
+- READING :: からをとりのぞいてから、なっつをこまかくきざみました。
+- UK :: Знявши шкаралупу, я дрібно порізав горіхи.
+- EN :: After removing the shells, I chopped the nuts finely.
+- FOCUS :: 殻
+
+* Sense s-1205740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c0976e06313d6d9de933de3fffdf3c545105578b55a92319f86632d6af44dd42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omhulsel
+*** en-s-1205740-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schaal
+*** en-s-1205740-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dop
+*** en-s-1205740-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schil
+*** en-s-1205740-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pel
+*** en-s-1205740-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vlies
+*** en-s-1205740-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: peul
+*** en-s-1205740-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bolster
+*** en-s-1205740-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huls
+*** en-s-1205740-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schelp
+*** en-s-1205740-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} bast
+** Ukrainian glosses
+
+* Sense s-1205740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6dac27e82ddfef1c408a05e467b6ec97645fba6381978b85f3c51e7b3a5e2e2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afgeworpen omhulsel
+*** en-s-1205740-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huid
+*** en-s-1205740-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schaal
+*** en-s-1205740-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exuviën
+** Ukrainian glosses
+
+* Sense s-1205740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4c263b1c5da475b4a3495bea477b65120c256b5e7b86f00d4ef06f5c7aa6af6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overblijfsel
+*** en-s-1205740-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rest
+*** en-s-1205740-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: residu
+*** en-s-1205740-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afval
+** Ukrainian glosses
+
+* Sense s-1205740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 66d49e85926b2c776f157b2ecbbff56387353ea096a86641ec705f5d55167285
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} schulp
+*** en-s-1205740-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} cocon
+** Ukrainian glosses
+
+* Sense s-1205740-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6a187eaa1b3f834b2f0b55f2b68bcf5ef4849b7fd367f4b48974ed0d7be000e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} tofoe-drab
+*** en-s-1205740-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: residu bij de bereiding van tofoe
+** Ukrainian glosses
+
+* Sense s-1205740-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7f5d2d5e3fed51db145fe7019de3b6cdc98c9ba6350e46b3156a266d670e2682
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balle (de grain)
+*** en-s-1205740-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coque
+*** en-s-1205740-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coquille
+*** en-s-1205740-007-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cosse
+** Ukrainian glosses
+
+* Sense s-1205740-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: da2a4cfcc593912a8a63a23fc05be8d4e218c4636104831eefb058394972dfd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hülse (von Bohne)
+*** en-s-1205740-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hülle
+*** en-s-1205740-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schale (von Korn, Nuss, Ei, Muschel etc.)
+** Ukrainian glosses
+
+* Sense s-1205740-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 8d183b58778866e877316119151fae0d75b2c5f2964a3b150b4d462675c75753
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das eigene Schneckenhaus
+*** en-s-1205740-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schutzpanzer
+** Ukrainian glosses
+
+* Sense s-1205740-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 75357f0fcd1348a3806d96ae16f0307324d06f325c47c0be5f0ffe3dbabeb223
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abgeworfene Haut (z.B. einer Schlange)
+** Ukrainian glosses
+
+* Sense s-1205740-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 76c4c3736c16b923cac31b8c65cc80f233c5ff8b6f37b63f32917e2e4c5a4595
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leerer Chitinpanzer (z.B. einer Larve)
+** Ukrainian glosses
+
+* Sense s-1205740-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: e63565096536b4ba35c8c8e73c62cf49bd7dc486ee809fe38f7269b1bf3faaa5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: O・kara (Reste von der Tōfu-Produktion; gekocht od. gebraten als Nebengericht gegessen)
+** Ukrainian glosses
+
+* Sense s-1205740-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 90349de8f7de48b7ac70dbb94a5b35ec4fbf536c1662d37529a00813fda17a8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sterbliche Hülle
+*** en-s-1205740-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leichnam
+** Ukrainian glosses
+
+* Sense s-1205740-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: f173bd27cbc76a65e67a876445de90a798546bbd1e968b5b1d622cc1dc326f29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: burok
+*** en-s-1205740-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: héj
+*** en-s-1205740-014-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kéreg
+*** en-s-1205740-014-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: külsőség
+*** en-s-1205740-014-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lövedék
+*** en-s-1205740-014-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: test
+*** en-s-1205740-014-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hüvely
+*** en-s-1205740-014-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tok
+*** en-s-1205740-014-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajótest
+*** en-s-1205740-014-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: értéktelen holmi
+** Ukrainian glosses
+
+* Sense s-1205740-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 503a6b54d97ef0abccc3dec9ad98aa08e5f3efb29d3dc12d0bab1adb96bcb46c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lupina
+*** en-s-1205740-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luščina
+*** en-s-1205740-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strok
+** Ukrainian glosses
+
+* Sense s-1205740-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: caf200817fa9d02f267140e016dc671bcec8d64bcd6acbb7e37394c8bc956a12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205740-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cáscara
+** Ukrainian glosses

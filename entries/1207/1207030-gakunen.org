@@ -1,0 +1,386 @@
+#+TITLE: 学年
+#+JMDICT_ID: 1207030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がくねん
+#+ROMAJI: gakunen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1207030-001
+:PROPERTIES:
+:TEXT: 学年
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Reading rd-1207030-001
+:PROPERTIES:
+:TEXT: がくねん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1207030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 54ea4e90ba987831560cfc00f231e1452cd48c8086b6735c24dfb7fa66dd20f4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- academic year
+- school year
+** Ukrainian glosses
+*** uk-s-1207030-001-001
+:PROPERTIES:
+:END:
+- text :: навчальний рік
+** Learner notes
+*** note-s-1207030-001-001
+:PROPERTIES:
+:END:
+- UK :: Період навчання протягом року: 学年の始め — початок навчального року.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1207030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい学年が始まります。
+- READING :: あたらしいがくねんがはじまります。
+- UK :: Починається новий навчальний рік.
+- EN :: A new school year is beginning.
+- FOCUS :: 学年
+*** ex-1207030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 学年の終わりに発表会があります。
+- READING :: がくねんのおわりにはっぴょうかいがあります。
+- UK :: Наприкінці навчального року буде презентація.
+- EN :: There is a presentation event at the end of the school year.
+- FOCUS :: 学年
+*** ex-1207030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 学年が始まる前に、使う教材を確認しました。
+- READING :: がくねんがはじまるまえに、つかうきょうざいをかくにんしました。
+- UK :: Перед початком навчального року я перевірив навчальні матеріали.
+- EN :: I checked the teaching materials before the school year began.
+- FOCUS :: 学年
+
+* Sense s-1207030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3f26203bbd1951fa2e5c19db7555396af7f11b54a9beda60adff05e954f5a69e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- year in school
+- grade in school
+** Ukrainian glosses
+*** uk-s-1207030-002-001
+:PROPERTIES:
+:END:
+- text :: рік навчання; клас
+** Learner notes
+*** note-s-1207030-002-001
+:PROPERTIES:
+:END:
+- UK :: Ступінь навчання учня або група учнів того самого року. 学年が上がる — переходити на наступний рік навчання.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1207030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e7b4b6300ab1f5f0d72a26074554130bab2d57dee54c96533c8869268bc66160
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schooljaar
+*** en-s-1207030-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klas
+*** en-s-1207030-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: groep {2
+*** en-s-1207030-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3
+*** en-s-1207030-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4 enz.}
+** Ukrainian glosses
+
+* Sense s-1207030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8583708e1a943ee2362c2d2920c4be68c5061f8772f3f6bb40de5f32c1469139
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collegejaar
+*** en-s-1207030-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cursusjaar
+*** en-s-1207030-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: studiejaar
+*** en-s-1207030-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: academisch jaar
+*** en-s-1207030-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: academiejaar
+** Ukrainian glosses
+
+* Sense s-1207030-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 47d69ee60d1864c84636c58268b712905b7e5efca36459b337c6e4f139c9d4f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {maatwoord voor schooljaren
+*** en-s-1207030-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: studiejaren
+*** en-s-1207030-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klassen}
+** Ukrainian glosses
+
+* Sense s-1207030-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dc2a4948de084aabf5d2a358a05c3a9dcd21d09605760b7ed9c2ac4f3bdfb865
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niveaux d'étude
+*** en-s-1207030-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre d'année scolaire
+** Ukrainian glosses
+
+* Sense s-1207030-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ddb29913b8c7463d4d9c17ba7d9b17f597ae3b1b12bac7d8a23678d5a1c6efb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schuljahr
+*** en-s-1207030-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Studienjahr
+*** en-s-1207030-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: akademisches Jahr
+*** en-s-1207030-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  …te Klasse
+** Ukrainian glosses
+
+* Sense s-1207030-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a4e8e0f90409e495cd599c11e51470ee1c2bfc0c15599828a7fe7b739460e2a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) учебный год
+*** en-s-1207030-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) курс, класс, год обучения
+** Ukrainian glosses
+
+* Sense s-1207030-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 51366938a51a41aee465656cb373af9e249e9735ba6077bffd074f9c5351157b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leto oz. stopnja v šoli
+** Ukrainian glosses
+
+* Sense s-1207030-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a414a775642646a16e86398bfe5fcc7761aeabfdecc122bb5e83fbd7802d67ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207030-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: año escolar
+*** en-s-1207030-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grado escolar
+** Ukrainian glosses

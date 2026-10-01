@@ -1,0 +1,300 @@
+#+TITLE: 嚏
+#+JMDICT_ID: 1003710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くしゃみ
+#+ROMAJI: kushami
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1003710-001
+:PROPERTIES:
+:TEXT: 嚏
+:END:
+*** Information
+- rK
+** Written form wf-1003710-002
+:PROPERTIES:
+:TEXT: 嚔
+:END:
+*** Information
+- rK
+** Reading rd-1003710-001
+:PROPERTIES:
+:TEXT: くしゃみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1003710-002
+:PROPERTIES:
+:TEXT: くさめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+** Reading rd-1003710-003
+:PROPERTIES:
+:TEXT: くっさめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+** Reading rd-1003710-004
+:PROPERTIES:
+:TEXT: クシャミ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1003710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b6024ec612d698e0d6862efd2880c8daf817ae6d3746f2cbbcda0fdcaf6b1d5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- sneeze
+- sneezing
+** Ukrainian glosses
+*** uk-s-1003710-001-001
+:PROPERTIES:
+:END:
+- text :: чхання; чхати
+** Learner notes
+*** note-s-1003710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із する: くしゃみをする — чхати. Зазвичай пишуть хіраґаною.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1003710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: くしゃみが出ました。
+- READING :: くしゃみがでました。
+- UK :: Я чхнув.
+- EN :: I sneezed.
+- FOCUS :: くしゃみ
+*** ex-1003710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 隣の人が大きなくしゃみをしました。
+- READING :: となりのひとがおおきなくしゃみをしました。
+- UK :: Людина поруч голосно чхнула.
+- EN :: The person beside me sneezed loudly.
+- FOCUS :: くしゃみ
+*** ex-1003710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: くしゃみをした拍子に、読んでいたページを見失いました。
+- READING :: くしゃみをしたひょうしに、よんでいたぺーじをみうしないました。
+- UK :: Чхнувши, я загубив сторінку, яку читав.
+- EN :: When I sneezed, I lost the page I had been reading.
+- FOCUS :: くしゃみ
+
+* Sense s-1003710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e7823153a20f1e7dd99d5ad7c535e52222ec38503bdccc3a2bbff2631808149d
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- くさめ
+** JMdict metadata
+*** Parts of speech
+- exp
+*** Miscellaneous and register
+- id
+- uk
+** English glosses
+- spoken twice in response to someone sneezing as a charm against an early death
+** Ukrainian glosses
+*** uk-s-1003710-002-001
+:PROPERTIES:
+:END:
+- text :: вислів-оберіг у відповідь на чхання
+** Learner notes
+*** note-s-1003710-002-001
+:PROPERTIES:
+:END:
+- UK :: Усталений вислів, який промовляють двічі після чийогось чхання як оберіг від ранньої смерті; окреме звичаєве значення.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1003710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d6b58b4879ba41237679a35ac2ae077ac3d00ae806baf7d3da96b7f891d96b7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nies
+*** en-s-1003710-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het niezen
+*** en-s-1003710-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: genies
+** Ukrainian glosses
+
+* Sense s-1003710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e69c1ac969ed3b4961a40b2eb6725641565c2a2f935047f819b6665af9b4e6e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: éternuement
+** Ukrainian glosses
+
+* Sense s-1003710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5db5dedec8cb529519b37dcb583a2a9c1030f60babc46cdba3e6c4be31f228d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Niesen
+*** en-s-1003710-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sternutation
+** Ukrainian glosses
+
+* Sense s-1003710-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d912285d0c288e5e2f1e6641968a286e5805011414fe7585569e6dccba545ba6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tüsszentés
+** Ukrainian glosses
+
+* Sense s-1003710-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3c1c0110bf328cda42a7134065e61abbbb11af3883ee7c420a41d9ed2313d29f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чиханье
+*** en-s-1003710-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[を]する}, くしゃみが出る чихать
+*** en-s-1003710-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (диал. см.) くしゃみ
+** Ukrainian glosses
+
+* Sense s-1003710-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9ad327cd76a57164e64e0313852d153f1fe4a96eb49f61682d5213442579ec6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1003710-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estornudo
+** Ukrainian glosses

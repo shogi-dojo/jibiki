@@ -1,0 +1,320 @@
+#+TITLE: 時間割
+#+JMDICT_ID: 1315960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じかんわり
+#+ROMAJI: jikanwari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1315960-001
+:PROPERTIES:
+:TEXT: 時間割
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf30
+** Written form wf-1315960-002
+:PROPERTIES:
+:TEXT: 時間割り
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1315960-001
+:PROPERTIES:
+:TEXT: じかんわり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf30
+
+* Sense s-1315960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7d7ea1e8fe0258eb62f74fc79df66f366a6c86d56b310f8a314d717665fbe7f3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- timetable (esp. a weekly school timetable)
+- schedule
+** Ukrainian glosses
+*** uk-s-1315960-001-001
+:PROPERTIES:
+:END:
+- text :: розклад занять; розклад
+** Learner notes
+*** note-s-1315960-001-001
+:PROPERTIES:
+:END:
+- UK :: План занять або справ за часом, особливо тижневий шкільний розклад.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1315960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 時間割を見ます。
+- READING :: じかんわりをみます。
+- UK :: Я дивлюся розклад.
+- EN :: I look at the timetable.
+- FOCUS :: 時間割
+*** ex-1315960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい時間割をもらいました。
+- READING :: あたらしいじかんわりをもらいました。
+- UK :: Я отримав новий розклад занять.
+- EN :: I received the new timetable.
+- FOCUS :: 時間割
+*** ex-1315960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 時間割を確認して、明日使う教科書をそろえました。
+- READING :: じかんわりをかくにんして、あしたつかうきょうかしょをそろえました。
+- UK :: Перевіривши розклад, я підготував підручники на завтра.
+- EN :: I checked the timetable and gathered the textbooks needed tomorrow.
+- FOCUS :: 時間割
+
+* Sense s-1315960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 62d2077de5b378578a316f40510a932177677cc6768bb8f2ef6b8cd88b96a463
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lesrooster
+*** en-s-1315960-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collegerooster
+*** en-s-1315960-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rooster
+** Ukrainian glosses
+
+* Sense s-1315960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3251e3fe80a89a0f22902fd708ab41aff9c5177f396b9626f67389ac631634a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dienstregeling
+*** en-s-1315960-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dienstrooster
+*** en-s-1315960-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werkrooster
+*** en-s-1315960-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rooster
+** Ukrainian glosses
+
+* Sense s-1315960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2a87cfce423767cea1fbdb792618b809fd0c9f2a3e41a4f95394830ae69a0a09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: emploi du temps
+*** en-s-1315960-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: programme
+** Ukrainian glosses
+
+* Sense s-1315960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b2ba54defe50c686d65a5887a747b713feb3bcdc4feb8442007086f63112e42c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stundenplan
+*** en-s-1315960-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arbeitsplan
+** Ukrainian glosses
+
+* Sense s-1315960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b5113e241b8ced582218be03fc143174e2ac7c37843a261a332421f6599f06df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: menetrend
+*** en-s-1315960-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ütemterv
+** Ukrainian glosses
+
+* Sense s-1315960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8381c5963ee0bc679c03fdb9537f5731b3cc4c0cfc4bcbe99e661c3ea9cdbc74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: расписание [занятий]
+** Ukrainian glosses
+
+* Sense s-1315960-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 648c4dee3e803c8f3d85d78c3ea3759010d5ca692c4eacabadc49c61bd4027ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: horario
+** Ukrainian glosses
+
+* Sense s-1315960-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 6319d8421064fabedac505788078fe8ca69bfd63dd6eb1dfa40ac8a1389d5cad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1315960-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tidsschema
+*** en-s-1315960-009-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: timplan
+*** en-s-1315960-009-003
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schema
+** Ukrainian glosses

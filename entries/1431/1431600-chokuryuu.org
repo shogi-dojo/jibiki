@@ -1,0 +1,284 @@
+#+TITLE: 直流
+#+JMDICT_ID: 1431600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょくりゅう
+#+ROMAJI: chokuryuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1431600-001
+:PROPERTIES:
+:TEXT: 直流
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1431600-001
+:PROPERTIES:
+:TEXT: ちょくりゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1431600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4d5f88bc12f957b1be0b884c7c8f0a4eff98d44d3b932463234c02a8b0b272ca
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- elec
+** English glosses
+- direct current
+- DC
+** Ukrainian glosses
+*** uk-s-1431600-001-001
+:PROPERTIES:
+:END:
+- text :: постійний струм
+** Learner notes
+*** note-s-1431600-001-001
+:PROPERTIES:
+:END:
+- UK :: Електричний струм незмінного напрямку; скорочення DC. Протиставляється 交流 «змінний струм».
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1431600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 直流を学びます。
+- READING :: ちょくりゅうをまなびます。
+- UK :: Ми вивчаємо постійний струм.
+- EN :: We study direct current.
+- FOCUS :: 直流
+*** ex-1431600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 図に直流の向きを描きました。
+- READING :: ずにちょくりゅうのむきをかきました。
+- UK :: Я зобразив напрямок постійного струму на схемі.
+- EN :: I drew the direction of direct current in the diagram.
+- FOCUS :: 直流
+*** ex-1431600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 授業では、直流と交流の違いを表にまとめて確認しました。
+- READING :: じゅぎょうでは、ちょくりゅうとこうりゅうのちがいをひょうにまとめてかくにんしました。
+- UK :: На уроці ми звели відмінності між постійним і змінним струмом у таблицю й перевірили їх.
+- EN :: In class, we summarized and reviewed the differences between direct and alternating current in a table.
+- FOCUS :: 直流
+
+* Sense s-1431600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 540d1765339052b2171eb4c5737b2ec053c022036eb1e827df48188970ee5622
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} gelijkstroom
+** Ukrainian glosses
+
+* Sense s-1431600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 37a0a3fad9e68659547bac6c79a564500b640e18aa122b1ee234e1cc8e8c0f11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechtstreekse afstamming
+*** en-s-1431600-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechte lijn
+*** en-s-1431600-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: linie
+*** en-s-1431600-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} rechtstreekse afstammelingen
+** Ukrainian glosses
+
+* Sense s-1431600-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 37f777be0670298517272c9be98008b5e44d4643406b35bfe767e7401d5cad22
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: courant continu
+** Ukrainian glosses
+
+* Sense s-1431600-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 600ddaa973bfae2dc3b56dedaa798c485a6b07ba453b7af212cf5cfbd6b3832d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gleichstrom
+** Ukrainian glosses
+
+* Sense s-1431600-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ae600842ccba6851abf29910f4fedd9ef9e5acde9d7fc1930b7d836d11c51852
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenáram
+** Ukrainian glosses
+
+* Sense s-1431600-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5da06bb98f253d716b9c704e6f30af08d6d86f7b011190ff885c73c634171672
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) постоянный ток
+** Ukrainian glosses
+
+* Sense s-1431600-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 16c2a5afc40c4ae02e929cbc63ad2dc330db84edffaed9a839ecc52d94431eee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enosmerni tok
+*** en-s-1431600-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: direktni tok
+** Ukrainian glosses
+
+* Sense s-1431600-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 6a47c8c6b2adab7912442e18e22ff873756de6154f6b0840cb42152c82f85cff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corriente directa
+** Ukrainian glosses
+
+* Sense s-1431600-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4b9ffe175b3c913910f547fb3f85c564f98e3c80a6730e107b23220c46b4660c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431600-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: likström
+** Ukrainian glosses

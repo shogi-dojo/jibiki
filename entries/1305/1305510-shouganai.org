@@ -1,0 +1,384 @@
+#+TITLE: 仕様がない
+#+JMDICT_ID: 1305510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうがない
+#+ROMAJI: shouganai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-09-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1305510-001
+:PROPERTIES:
+:TEXT: 仕様がない
+:END:
+*** Information
+- rK
+** Written form wf-1305510-002
+:PROPERTIES:
+:TEXT: しようが無い
+:END:
+*** Information
+- sK
+** Written form wf-1305510-003
+:PROPERTIES:
+:TEXT: 仕様が無い
+:END:
+*** Information
+- sK
+** Written form wf-1305510-004
+:PROPERTIES:
+:TEXT: しょうが無い
+:END:
+*** Information
+- sK
+** Reading rd-1305510-001
+:PROPERTIES:
+:TEXT: しょうがない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+** Reading rd-1305510-002
+:PROPERTIES:
+:TEXT: しようがない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1305510-003
+:PROPERTIES:
+:TEXT: しょーがない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1305510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c0ad8c757dc4cb62dcdd18f0682f3e0076c619d06244eb219e76d96fa9598951
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- there's no (other) way
+** Ukrainian glosses
+*** uk-s-1305510-001-001
+:PROPERTIES:
+:END:
+- text :: немає іншого способу
+** Learner notes
+*** note-s-1305510-001-001
+:PROPERTIES:
+:END:
+- UK :: Зазвичай しょうがない; буквально вказує на відсутність можливого способу діяти інакше.
+- LEVEL :: beginner
+- REGISTER :: neutral
+* Sense s-1305510-002
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f4ef5fe5a79750e6aa2a532c986656031ea330638d7c86891b836cd6b88ce50c
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- cannot be helped
+- unavoidable
+- inevitable
+- (there's) nothing one can do
+- having no choice
+- it is what it is
+** Ukrainian glosses
+*** uk-s-1305510-002-001
+:PROPERTIES:
+:END:
+- text :: нічого не вдієш; неминучий; доводиться змиритися
+** Learner notes
+*** note-s-1305510-002-001
+:PROPERTIES:
+:END:
+- UK :: Прийняття ситуації, яку неможливо змінити. Розмовна форма 仕方がない.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+** Examples
+*** ex-1305510-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: しょうがないですね。
+- READING :: しょうがないですね。
+- UK :: Нічого не вдієш.
+- EN :: It cannot be helped.
+- FOCUS :: しょうがない
+*** ex-1305510-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雨で中止なら、しょうがないです。
+- READING :: あめでちゅうしなら、しょうがないです。
+- UK :: Якщо через дощ скасували, нічого не вдієш.
+- EN :: If it was canceled because of rain, it cannot be helped.
+- FOCUS :: しょうがない
+*** ex-1305510-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電車が遅れたのはしょうがないので、次の予定を考えました。
+- READING :: でんしゃがおくれたのはしょうがないので、つぎのよていをかんがえました。
+- UK :: Затримку поїзда змінити неможливо, тож я продумав подальші плани.
+- EN :: Since the train delay could not be helped, I considered my next plans.
+- FOCUS :: しょうがない
+
+* Sense s-1305510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cafe093b7341b8183e03af2ab8360f8a26db8a4ecfdbf95600bb7c23257d48c4
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Sense information
+- oft. as 〜てもしょうがない
+** English glosses
+- it's no use (doing)
+- pointless
+- useless
+- no good
+- insufficient
+- not enough
+** Ukrainian glosses
+*** uk-s-1305510-003-001
+:PROPERTIES:
+:END:
+- text :: немає сенсу; марно; недостатньо
+** Learner notes
+*** note-s-1305510-003-001
+:PROPERTIES:
+:END:
+- UK :: Часто …てもしょうがない — немає сенсу робити щось, бо це не допоможе.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1305510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 02dc9f676f63b9920af5ff40f4c4c80f3c89e8cdc2ef93071e3487debaf771d6
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- hopeless (person)
+- annoying
+- troublesome
+- awful
+** Ukrainian glosses
+*** uk-s-1305510-004-001
+:PROPERTIES:
+:END:
+- text :: безнадійний; надокучливий; нестерпний
+** Learner notes
+*** note-s-1305510-004-001
+:PROPERTIES:
+:END:
+- UK :: Несхвальна оцінка людини або її поведінки; тон залежить від стосунків.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1305510-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 69d8ac86c51d9540deaebf37d39c3d0fb2849373e6621150b0fac84784ded064
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- adj-i
+*** Miscellaneous and register
+- uk
+*** Sense information
+- as 〜てしょうがない or 〜でしょうがない
+** English glosses
+- cannot stand it
+- unbearable
+- cannot help (doing, feeling)
+- dying (to do)
+** Ukrainian glosses
+*** uk-s-1305510-005-001
+:PROPERTIES:
+:END:
+- text :: не можу стриматися; неймовірно; нестерпно
+** Learner notes
+*** note-s-1305510-005-001
+:PROPERTIES:
+:END:
+- UK :: У …てしょうがない або …でしょうがない підкреслює сильне, мимовільне почуття чи бажання.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1305510-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3a674add45c084527d49e2d997e6fc378f59de3b4a7bcc6aeb65140e748ae2e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305510-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: on n'y peut rien
+*** en-s-1305510-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: c'est inévitable
+*** en-s-1305510-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: il n'y a rien à faire
+*** en-s-1305510-006-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: il n'y a pas d'intérêt (à faire quelque chose)
+*** en-s-1305510-006-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: il n'y a pas de raison (de faire quelque chose)
+** Ukrainian glosses
+
+* Sense s-1305510-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4a8cb0fb47ed057aaa2337ab639de6c79dc4df5e8bc8493d59a5bc0c54b9603b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305510-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: da ist nichts zu machen
+** Ukrainian glosses
+
+* Sense s-1305510-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 458f0e35352573ae57d8308c8bc631ebadf07c5a8f1a112537988f24453c0f27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305510-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: da kann man nichts machen
+** Ukrainian glosses
+
+* Sense s-1305510-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ce4a66bcdc928bfd6e66d07b572d12017365adbcc6dd780f7cc7e11073564551
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305510-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) しかた 2 (仕方がない)
+** Ukrainian glosses
+
+* Sense s-1305510-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 8ac5088e3103752bccb18b3ad6c63a2a0acb5431722cb22585c2a08ff19ee4b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305510-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: no tiene solución
+*** en-s-1305510-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: es inevitable
+*** en-s-1305510-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: no se puede hacer nada
+** Ukrainian glosses
