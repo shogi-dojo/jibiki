@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4003 |
+| Canonical entry files | 4013 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1031 |
+| Canonical N2 entries | 1041 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1039 / 1635 (63.5%) |
+| N2 queue rows covered | 1049 / 1635 (64.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3966 |
+| `new` | 3976 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3993 |
+| Entry metadata still marked `draft` | 4003 |
 | Core profile | 163 |
-| Learner profile | 3839 |
+| Learner profile | 3849 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **940/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **950/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1002,6 +1002,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 92 | N2-1011, N2-1012, N2-1013, N2-1014, N2-1015, N2-1016, N2-1017, N2-1018, N2-1019, N2-1020 | 10 |
 | 93 | N2-1021, N2-1022, N2-1023, N2-1024, N2-1025, N2-1026, N2-1027, N2-1028, N2-1029, N2-1030 | 10 |
 | 94 | N2-1031, N2-1032, N2-1033, N2-1034, N2-1035, N2-1036, N2-1037, N2-1038, N2-1039, N2-1040 | 10 |
+| 95 | N2-1041, N2-1042, N2-1043, N2-1044, N2-1045, N2-1046, N2-1047, N2-1048, N2-1049, N2-1050 | 10 |
 
 ## Maturity workflow
 
@@ -4855,3 +4856,13 @@ content and remain at `new` until editorial review.
 | N2-1038 | [展開](entries/1440/1440600-tenkai.org) | てんかい | tenkai | 1440600 | learner | draft | **new** | Editorial review |
 | N2-1039 | [点数](entries/1441/1441660-tensuu.org) | てんすう | tensuu | 1441660 | learner | draft | **new** | Editorial review |
 | N2-1040 | [点々](entries/1598/1598460-tenten.org) | てんてん | tenten | 1598460 | learner | draft | **new** | Editorial review |
+| N2-1041 | [転々](entries/1704/1704220-tenten.org) | てんてん | tenten | 1704220 | learner | draft | **new** | Editorial review |
+| N2-1042 | [天皇](entries/1582/1582030-tennou.org) | てんのう | tennou | 1582030 | learner | draft | **new** | Editorial review |
+| N2-1043 | [テンポ](entries/1081/1081120-tenpo.org) | テンポ | tenpo | 1081120 | learner | draft | **new** | Editorial review |
+| N2-1044 | [テーマ](entries/1078/1078830-teema.org) | テーマ | teema | 1078830 | learner | draft | **new** | Editorial review |
+| N2-1045 | [出入り](entries/1339/1339910-deiri.org) | でいり | deiri | 1339910 | learner | draft | **new** | Editorial review |
+| N2-1046 | [出入り口](entries/1598/1598540-deiriguchi.org) | でいりぐち | deiriguchi | 1598540 | learner | draft | **new** | Editorial review |
+| N2-1047 | [出来上がり](entries/1340/1340600-dekiagari.org) | できあがり | dekiagari | 1340600 | learner | draft | **new** | Editorial review |
+| N2-1048 | [出来上がる](entries/1340/1340610-dekiagaru.org) | できあがる | dekiagaru | 1340610 | learner | draft | **new** | Editorial review |
+| N2-1049 | [出鱈目](entries/1339/1339630-detarame.org) | でたらめ | detarame | 1339630 | learner | draft | **new** | Editorial review |
+| N2-1050 | [出迎え](entries/1338/1338710-demukae.org) | でむかえ | demukae | 1338710 | learner | draft | **new** | Editorial review |
