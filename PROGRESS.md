@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4073 |
+| Canonical entry files | 4083 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1101 |
+| Canonical N2 entries | 1111 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1110 / 1635 (67.9%) |
+| N2 queue rows covered | 1120 / 1635 (68.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4036 |
+| `new` | 4046 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4063 |
+| Entry metadata still marked `draft` | 4073 |
 | Core profile | 163 |
-| Learner profile | 3909 |
+| Learner profile | 3919 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1022,7 +1022,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 100-word N2 PR (2026-10-01)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **10/100 new words**
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **20/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1034,6 +1034,7 @@ Previously authored aliases remain excluded from the new-word count.
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
 | 1 | N2-1102, N2-1103, N2-1104, N2-1105, N2-1106, N2-1107, N2-1108, N2-1109, N2-1110, N2-1111 | 10 |
+| 2 | N2-1112, N2-1113, N2-1114, N2-1115, N2-1116, N2-1117, N2-1118, N2-1119, N2-1120, N2-1121 | 10 |
 
 ## Maturity workflow
 
@@ -4958,3 +4959,13 @@ content and remain at `new` until editorial review.
 | N2-1109 | [退く](entries/1595/1595080-doku.org) | どく | doku | 1595080 | learner | draft | **new** | Editorial review |
 | N2-1110 | [どっと](entries/1009/1009210-dotto.org) | どっと | dotto | 1009210 | learner | draft | **new** | Editorial review |
 | N2-1111 | [怒鳴る](entries/1445/1445740-donaru.org) | どなる | donaru | 1445740 | learner | draft | **new** | Editorial review |
+| N2-1112 | [丼](entries/1562/1562970-donburi.org) | どんぶり | donburi | 1562970 | learner | draft | **new** | Editorial review |
+| N2-1113 | [内科](entries/1457/1457830-naika.org) | ないか | naika | 1457830 | learner | draft | **new** | Editorial review |
+| N2-1114 | [内線](entries/1458/1458650-naisen.org) | ないせん | naisen | 1458650 | learner | draft | **new** | Editorial review |
+| N2-1115 | [ナイロン](entries/1089/1089930-nairon.org) | ナイロン | nairon | 1089930 | learner | draft | **new** | Editorial review |
+| N2-1116 | [仲直り](entries/1426/1426000-nakanaori.org) | なかなおり | nakanaori | 1426000 | learner | draft | **new** | Editorial review |
+| N2-1117 | [中身](entries/1599/1599430-nakami.org) | なかみ | nakami | 1599430 | learner | draft | **new** | Editorial review |
+| N2-1118 | [中指](entries/1581/1581690-nakayubi.org) | なかゆび | nakayubi | 1581690 | learner | draft | **new** | Editorial review |
+| N2-1119 | [仲良し](entries/1426/1426100-nakayoshi.org) | なかよし | nakayoshi | 1426100 | learner | draft | **new** | Editorial review |
+| N2-1120 | [慰める](entries/1156/1156890-nagusameru.org) | なぐさめる | nagusameru | 1156890 | learner | draft | **new** | Editorial review |
+| N2-1121 | [殴る](entries/1181/1181390-naguru.org) | なぐる | naguru | 1181390 | learner | draft | **new** | Editorial review |
