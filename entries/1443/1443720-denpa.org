@@ -1,0 +1,356 @@
+#+TITLE: 電波
+#+JMDICT_ID: 1443720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんぱ
+#+ROMAJI: denpa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443720-001
+:PROPERTIES:
+:TEXT: 電波
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1443720-001
+:PROPERTIES:
+:TEXT: でんぱ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1443720-002
+:PROPERTIES:
+:TEXT: デムパ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1443720-003
+:PROPERTIES:
+:TEXT: デンパ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1443720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 536b01e31f8b39222e305f3d57d987d09ca62cbbc978c7c99b6b67eb1bf59a3a
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- でんぱ
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- radio wave
+- reception
+- signal
+** Ukrainian glosses
+*** uk-s-1443720-001-001
+:PROPERTIES:
+:END:
+- text :: радіохвиля; радіосигнал; прийом сигналу
+** Learner notes
+*** note-s-1443720-001-001
+:PROPERTIES:
+:END:
+- UK :: Про електромагнітні хвилі для зв’язку, а в побуті також про якість прийому. 電波が弱い — слабкий сигнал.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1443720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電波が弱いです。
+- READING :: でんぱがよわいです。
+- UK :: Сигнал слабкий.
+- EN :: The signal is weak.
+- FOCUS :: 電波
+*** ex-1443720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この部屋では電波が届きにくいです。
+- READING :: このへやではでんぱがとどきにくいです。
+- UK :: У цій кімнаті сигнал погано доходить.
+- EN :: The signal does not reach this room easily.
+- FOCUS :: 電波
+*** ex-1443720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山の中で電波が届かなかったので、町に戻ってから写真を送りました。
+- READING :: やまのなかででんぱがとどかなかったので、まちにもどってからしゃしんをおくりました。
+- UK :: У горах не було сигналу, тому я надіслав фотографії після повернення до міста.
+- EN :: There was no signal in the mountains, so I sent the photographs after returning to town.
+- FOCUS :: 電波
+
+* Sense s-1443720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: deb365f3de86e1f71bee16f6415b7b2e7258662c1d99069ba334e9b2f965e15d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+*** Miscellaneous and register
+- sl
+*** Cross-references
+- 電波系・でんぱけい
+** English glosses
+- saying strange things
+** Ukrainian glosses
+*** uk-s-1443720-002-001
+:PROPERTIES:
+:END:
+- text :: дивні висловлювання; людина, що говорить дивні речі
+** Learner notes
+*** note-s-1443720-002-001
+:PROPERTIES:
+:END:
+- UK :: Сленгове, часто зневажливе позначення незвичних висловлювань або їхнього автора. Не медичний термін.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1443720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd5f885b63dd6336bd8ade1ac26a64fa9a7570adb149d1fd588c6d981f94db04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrische golf
+*** en-s-1443720-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radiogolf
+*** en-s-1443720-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} radio
+*** en-s-1443720-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} ether
+** Ukrainian glosses
+
+* Sense s-1443720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 646742f7f60120e72ff989cda39825745c3a16257ebcb23ad981a53d602a4c28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onde électrique
+*** en-s-1443720-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onde électromagnétique
+** Ukrainian glosses
+
+* Sense s-1443720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f91957a83f4e878c95c927f246f0e8efed9a7ca6c6e5957e1373a583c97d778d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Radiowelle
+*** en-s-1443720-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Funkwelle
+** Ukrainian glosses
+
+* Sense s-1443720-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 364cf9598c0dea210c340a6b6c43225cfbdea61fd4c142fff65f8ba8b4aee1d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verstrahltsein
+*** en-s-1443720-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verrücktheit
+** Ukrainian glosses
+
+* Sense s-1443720-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8ff3620406e64ab2bf3584ed0218dd614c98518b90af8eac00e50ff4be5f6284
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektromágneses hullám
+** Ukrainian glosses
+
+* Sense s-1443720-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 16e9f346cd3a079e31db4b6a019945c06c902da9d51a8610e2a90b3893ef2c25
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: радиоволны; (перен.) радио
+** Ukrainian glosses
+
+* Sense s-1443720-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 86d0fff5c6e2acf3d511807211b92d8a2794d91646b1ff6ba564e2bb6821b348
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektro-magnetično valovanje
+** Ukrainian glosses
+
+* Sense s-1443720-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a8e9e6425fbc345e3485687fbee7b62b59d04c3bace7d18d107278637d19e76d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onda electromagnética
+*** en-s-1443720-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ondas de radio
+** Ukrainian glosses
+
+* Sense s-1443720-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 1e170c9cb4835a666d974d4adebdd3bb4b6c8828a8571f286452297296335bb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443720-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tonterías
+** Ukrainian glosses
