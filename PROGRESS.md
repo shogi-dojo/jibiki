@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4013 |
+| Canonical entry files | 4023 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1041 |
+| Canonical N2 entries | 1051 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1049 / 1635 (64.2%) |
+| N2 queue rows covered | 1059 / 1635 (64.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3976 |
+| `new` | 3986 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4003 |
+| Entry metadata still marked `draft` | 4013 |
 | Core profile | 163 |
-| Learner profile | 3849 |
+| Learner profile | 3859 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **950/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **960/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1003,6 +1003,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 93 | N2-1021, N2-1022, N2-1023, N2-1024, N2-1025, N2-1026, N2-1027, N2-1028, N2-1029, N2-1030 | 10 |
 | 94 | N2-1031, N2-1032, N2-1033, N2-1034, N2-1035, N2-1036, N2-1037, N2-1038, N2-1039, N2-1040 | 10 |
 | 95 | N2-1041, N2-1042, N2-1043, N2-1044, N2-1045, N2-1046, N2-1047, N2-1048, N2-1049, N2-1050 | 10 |
+| 96 | N2-1051, N2-1052, N2-1053, N2-1054, N2-1055, N2-1056, N2-1057, N2-1058, N2-1059, N2-1060 | 10 |
 
 ## Maturity workflow
 
@@ -4866,3 +4867,13 @@ content and remain at `new` until editorial review.
 | N2-1048 | [出来上がる](entries/1340/1340610-dekiagaru.org) | できあがる | dekiagaru | 1340610 | learner | draft | **new** | Editorial review |
 | N2-1049 | [出鱈目](entries/1339/1339630-detarame.org) | でたらめ | detarame | 1339630 | learner | draft | **new** | Editorial review |
 | N2-1050 | [出迎え](entries/1338/1338710-demukae.org) | でむかえ | demukae | 1338710 | learner | draft | **new** | Editorial review |
+| N2-1051 | [出迎える](entries/1338/1338720-demukaeru.org) | でむかえる | demukaeru | 1338720 | learner | draft | **new** | Editorial review |
+| N2-1052 | [伝記](entries/1441/1441960-denki.org) | でんき | denki | 1441960 | learner | draft | **new** | Editorial review |
+| N2-1053 | [電球](entries/1443/1443170-denkyuu.org) | でんきゅう | denkyuu | 1443170 | learner | draft | **new** | Editorial review |
+| N2-1054 | [電池](entries/1443/1443620-denchi.org) | でんち | denchi | 1443620 | learner | draft | **new** | Editorial review |
+| N2-1055 | [電柱](entries/1443/1443630-denchuu.org) | でんちゅう | denchuu | 1443630 | learner | draft | **new** | Editorial review |
+| N2-1056 | [電波](entries/1443/1443720-denpa.org) | でんぱ | denpa | 1443720 | learner | draft | **new** | Editorial review |
+| N2-1057 | [電流](entries/1443/1443790-denryuu.org) | でんりゅう | denryuu | 1443790 | learner | draft | **new** | Editorial review |
+| N2-1058 | [電力](entries/1443/1443810-denryoku.org) | でんりょく | denryoku | 1443810 | learner | draft | **new** | Editorial review |
+| N2-1059 | [問い合わせ](entries/1598/1598590-toiawase.org) | といあわせ | toiawase | 1598590 | learner | draft | **new** | Editorial review |
+| N2-1060 | [統一](entries/1449/1449670-touitsu.org) | とういつ | touitsu | 1449670 | learner | draft | **new** | Editorial review |
