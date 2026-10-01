@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4063 |
+| Canonical entry files | 4073 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1091 |
+| Canonical N2 entries | 1101 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1100 / 1635 (67.3%) |
+| N2 queue rows covered | 1110 / 1635 (67.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4026 |
+| `new` | 4036 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4053 |
+| Entry metadata still marked `draft` | 4063 |
 | Core profile | 163 |
-| Learner profile | 3899 |
+| Learner profile | 3909 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1019,6 +1019,21 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 98 | N2-1071–1080 | 10 |
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
+
+## Current-branch 100-word N2 PR (2026-10-01)
+
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **10/100 new words**
+in batches of ten, one commit per word under Ihor. Content author is `codex`.
+Each English semantic sense has an original Ukrainian gloss and usage note;
+each entry has three graded examples. All added entries passed validation,
+Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
+Editorial review remains pending.
+N2-69 is deferred for a dedicated standalone-usage review.
+Previously authored aliases remain excluded from the new-word count.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-1102, N2-1103, N2-1104, N2-1105, N2-1106, N2-1107, N2-1108, N2-1109, N2-1110, N2-1111 | 10 |
 
 ## Maturity workflow
 
@@ -4933,3 +4948,13 @@ content and remain at `new` until editorial review.
 | N2-1099 | [取り出す](entries/1326/1326770-toridasu.org) | とりだす | toridasu | 1326770 | learner | draft | **new** | Editorial review |
 | N2-1100 | [捕る](entries/1514/1514140-toru.org) | とる | toru | 1514140 | learner | draft | **new** | Editorial review |
 | N2-1101 | [トレーニング](entries/1087/1087100-toreeningu.org) | トレーニング | toreeningu | 1087100 | learner | draft | **new** | Editorial review |
+| N2-1102 | [銅](entries/1582/1582390-dou.org) | どう | dou | 1582390 | learner | draft | **new** | Editorial review |
+| N2-1103 | [同格](entries/1452/1452000-doukaku.org) | どうかく | doukaku | 1452000 | learner | draft | **new** | Editorial review |
+| N2-1104 | [動作](entries/1451/1451350-dousa.org) | どうさ | dousa | 1451350 | learner | draft | **new** | Editorial review |
+| N2-1105 | [どうせ](entries/1008/1008950-douse.org) | どうせ | douse | 1008950 | learner | draft | **new** | Editorial review |
+| N2-1106 | [どうぞ宜しく](entries/1008/1008960-douzoyoroshiku.org) | どうぞよろしく | douzoyoroshiku | 1008960 | learner | draft | **new** | Editorial review |
+| N2-1107 | [童話](entries/1454/1454000-douwa.org) | どうわ | douwa | 1454000 | learner | draft | **new** | Editorial review |
+| N2-1108 | [ドキドキ](entries/1009/1009050-dokidoki.org) | ドキドキ | dokidoki | 1009050 | learner | draft | **new** | Editorial review |
+| N2-1109 | [退く](entries/1595/1595080-doku.org) | どく | doku | 1595080 | learner | draft | **new** | Editorial review |
+| N2-1110 | [どっと](entries/1009/1009210-dotto.org) | どっと | dotto | 1009210 | learner | draft | **new** | Editorial review |
+| N2-1111 | [怒鳴る](entries/1445/1445740-donaru.org) | どなる | donaru | 1445740 | learner | draft | **new** | Editorial review |
