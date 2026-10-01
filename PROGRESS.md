@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4103 |
+| Canonical entry files | 4113 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1131 |
+| Canonical N2 entries | 1141 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1140 / 1635 (69.7%) |
+| N2 queue rows covered | 1151 / 1635 (70.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4066 |
+| `new` | 4076 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4093 |
+| Entry metadata still marked `draft` | 4103 |
 | Core profile | 163 |
-| Learner profile | 3939 |
+| Learner profile | 3949 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1022,7 +1022,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 100-word N2 PR (2026-10-01)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **40/100 new words**
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **50/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1037,6 +1037,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 2 | N2-1112, N2-1113, N2-1114, N2-1115, N2-1116, N2-1117, N2-1118, N2-1119, N2-1120, N2-1121 | 10 |
 | 3 | N2-1122, N2-1123, N2-1124, N2-1125, N2-1126, N2-1127, N2-1128, N2-1129, N2-1130, N2-1131 | 10 |
 | 4 | N2-1132, N2-1133, N2-1134, N2-1135, N2-1136, N2-1137, N2-1138, N2-1139, N2-1140, N2-1141 | 10 |
+| 5 | N2-1142, N2-1143, N2-1144, N2-1145, N2-1146, N2-1147, N2-1148, N2-1149, N2-1150, N2-1151, N2-1152 | 10 |
 
 ## Maturity workflow
 
@@ -4991,3 +4992,14 @@ content and remain at `new` until editorial review.
 | N2-1139 | [南米](entries/1460/1460570-nanbei.org) | なんべい | nanbei | 1460570 | learner | draft | **new** | Editorial review |
 | N2-1140 | [南北](entries/1460/1460600-nanboku.org) | なんぼく | nanboku | 1460600 | learner | draft | **new** | Editorial review |
 | N2-1141 | [煮える](entries/1322/1322490-nieru.org) | にえる | nieru | 1322490 | learner | draft | **new** | Editorial review |
+| N2-1142 | [匂う](entries/1599/1599780-niou.org) | におう | niou | 1599780 | learner | draft | **new** | Editorial review |
+| N2-1143 | [逃がす](entries/1450/1450320-nigasu.org) | にがす | nigasu | 1450320 | learner | draft | **new** | Editorial review |
+| N2-1144 | [憎い](entries/1403/1403390-nikui.org) | にくい | nikui | 1403390 | learner | draft | **existing** | Editorial review |
+| N2-1145 | [憎む](entries/1403/1403440-nikumu.org) | にくむ | nikumu | 1403440 | learner | draft | **new** | Editorial review |
+| N2-1146 | [憎らしい](entries/1403/1403450-nikurashii.org) | にくらしい | nikurashii | 1403450 | learner | draft | **new** | Editorial review |
+| N2-1147 | [ニコニコ](entries/1091/1091130-nikoniko.org) | ニコニコ | nikoniko | 1091130 | learner | draft | **new** | Editorial review |
+| N2-1148 | [虹](entries/1463/1463740-niji.org) | にじ | niji | 1463740 | learner | draft | **new** | Editorial review |
+| N2-1149 | [日時](entries/1464/1464110-nichiji.org) | にちじ | nichiji | 1464110 | learner | draft | **new** | Editorial review |
+| N2-1150 | [日用品](entries/1464/1464910-nichiyouhin.org) | にちようひん | nichiyouhin | 1464910 | learner | draft | **new** | Editorial review |
+| N2-1151 | [日課](entries/1463/1463860-nikka.org) | にっか | nikka | 1463860 | learner | draft | **new** | Editorial review |
+| N2-1152 | [日程](entries/1464/1464300-nittei.org) | にってい | nittei | 1464300 | learner | draft | **new** | Editorial review |
