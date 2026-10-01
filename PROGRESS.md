@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3943 |
+| Canonical entry files | 3953 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 971 |
+| Canonical N2 entries | 981 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 978 / 1635 (59.8%) |
+| N2 queue rows covered | 988 / 1635 (60.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3906 |
+| `new` | 3916 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3933 |
+| Entry metadata still marked `draft` | 3943 |
 | Core profile | 163 |
-| Learner profile | 3779 |
+| Learner profile | 3789 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **880/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **890/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -881,6 +881,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 86 | N2-950, N2-951, N2-952, N2-953, N2-954, N2-955, N2-956, N2-957, N2-958, N2-959 | 10 |
 | 87 | N2-960, N2-961, N2-962, N2-963, N2-964, N2-965, N2-966, N2-967, N2-968, N2-969 | 10 |
 | 88 | N2-970, N2-971, N2-972, N2-973, N2-974, N2-975, N2-976, N2-977, N2-978, N2-979 | 10 |
+| 89 | N2-980, N2-981, N2-982, N2-983, N2-984, N2-985, N2-986, N2-987, N2-988, N2-989 | 10 |
 
 ## Maturity workflow
 
@@ -4673,3 +4674,13 @@ content and remain at `new` until editorial review.
 | N2-977 | [散らかす](entries/1303/1303420-chirakasu.org) | ちらかす | chirakasu | 1303420 | learner | draft | **new** | Editorial review |
 | N2-978 | [散らかる](entries/1303/1303430-chirakaru.org) | ちらかる | chirakaru | 1303430 | learner | draft | **new** | Editorial review |
 | N2-979 | [散らす](entries/1303/1303460-chirasu.org) | ちらす | chirasu | 1303460 | learner | draft | **new** | Editorial review |
+| N2-980 | [ちり紙](entries/1612/1612710-chirigami.org) | ちりがみ | chirigami | 1612710 | learner | draft | **new** | Editorial review |
+| N2-981 | [散る](entries/1303/1303490-chiru.org) | ちる | chiru | 1303490 | learner | draft | **new** | Editorial review |
+| N2-982 | [追加](entries/1432/1432460-tsuika.org) | ついか | tsuika | 1432460 | learner | draft | **new** | Editorial review |
+| N2-983 | [序で](entries/1345/1345470-tsuide.org) | ついで | tsuide | 1345470 | learner | draft | **new** | Editorial review |
+| N2-984 | [通貨](entries/1433/1433050-tsuuka.org) | つうか | tsuuka | 1433050 | learner | draft | **new** | Editorial review |
+| N2-985 | [通勤](entries/1433/1433140-tsuukin.org) | つうきん | tsuukin | 1433140 | learner | draft | **new** | Editorial review |
+| N2-986 | [通ずる](entries/1983/1983740-tsuuzuru.org) | つうずる | tsuuzuru | 1983740 | learner | draft | **new** | Editorial review |
+| N2-987 | [通知](entries/1433/1433470-tsuuchi.org) | つうち | tsuuchi | 1433470 | learner | draft | **new** | Editorial review |
+| N2-988 | [通帳](entries/1433/1433490-tsuuchou.org) | つうちょう | tsuuchou | 1433490 | learner | draft | **new** | Editorial review |
+| N2-989 | [通訳](entries/1433/1433560-tsuuyaku.org) | つうやく | tsuuyaku | 1433560 | learner | draft | **new** | Editorial review |
