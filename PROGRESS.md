@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4023 |
+| Canonical entry files | 4033 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1051 |
+| Canonical N2 entries | 1061 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1059 / 1635 (64.8%) |
+| N2 queue rows covered | 1069 / 1635 (65.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3986 |
+| `new` | 3996 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4013 |
+| Entry metadata still marked `draft` | 4023 |
 | Core profile | 163 |
-| Learner profile | 3859 |
+| Learner profile | 3869 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **960/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **970/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1004,6 +1004,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 94 | N2-1031, N2-1032, N2-1033, N2-1034, N2-1035, N2-1036, N2-1037, N2-1038, N2-1039, N2-1040 | 10 |
 | 95 | N2-1041, N2-1042, N2-1043, N2-1044, N2-1045, N2-1046, N2-1047, N2-1048, N2-1049, N2-1050 | 10 |
 | 96 | N2-1051, N2-1052, N2-1053, N2-1054, N2-1055, N2-1056, N2-1057, N2-1058, N2-1059, N2-1060 | 10 |
+| 97 | N2-1061, N2-1062, N2-1063, N2-1064, N2-1065, N2-1066, N2-1067, N2-1068, N2-1069, N2-1070 | 10 |
 
 ## Maturity workflow
 
@@ -4877,3 +4878,13 @@ content and remain at `new` until editorial review.
 | N2-1058 | [電力](entries/1443/1443810-denryoku.org) | でんりょく | denryoku | 1443810 | learner | draft | **new** | Editorial review |
 | N2-1059 | [問い合わせ](entries/1598/1598590-toiawase.org) | といあわせ | toiawase | 1598590 | learner | draft | **new** | Editorial review |
 | N2-1060 | [統一](entries/1449/1449670-touitsu.org) | とういつ | touitsu | 1449670 | learner | draft | **new** | Editorial review |
+| N2-1061 | [統計](entries/1449/1449710-toukei.org) | とうけい | toukei | 1449710 | learner | draft | **new** | Editorial review |
+| N2-1062 | [峠](entries/1454/1454420-touge.org) | とうげ | touge | 1454420 | learner | draft | **new** | Editorial review |
+| N2-1063 | [東西](entries/1447/1447910-touzai.org) | とうざい | touzai | 1447910 | learner | draft | **new** | Editorial review |
+| N2-1064 | [投書](entries/1447/1447270-tousho.org) | とうしょ | tousho | 1447270 | learner | draft | **new** | Editorial review |
+| N2-1065 | [当日](entries/1449/1449210-toujitsu.org) | とうじつ | toujitsu | 1449210 | learner | draft | **new** | Editorial review |
+| N2-1066 | [登場](entries/1444/1444800-toujou.org) | とうじょう | toujou | 1444800 | learner | draft | **new** | Editorial review |
+| N2-1067 | [灯台](entries/1448/1448730-toudai.org) | とうだい | toudai | 1448730 | learner | draft | **new** | Editorial review |
+| N2-1068 | [盗難](entries/1448/1448500-tounan.org) | とうなん | tounan | 1448500 | learner | draft | **new** | Editorial review |
+| N2-1069 | [当番](entries/1449/1449220-touban.org) | とうばん | touban | 1449220 | learner | draft | **new** | Editorial review |
+| N2-1070 | [等分](entries/1449/1449510-toubun.org) | とうぶん | toubun | 1449510 | learner | draft | **new** | Editorial review |
