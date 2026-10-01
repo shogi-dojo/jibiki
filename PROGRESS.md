@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4053 |
+| Canonical entry files | 4063 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1081 |
+| Canonical N2 entries | 1091 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1089 / 1635 (66.6%) |
+| N2 queue rows covered | 1100 / 1635 (67.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4016 |
+| `new` | 4026 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4043 |
+| Entry metadata still marked `draft` | 4053 |
 | Core profile | 163 |
-| Learner profile | 3889 |
+| Learner profile | 3899 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **990/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **1000/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1007,6 +1007,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 97 | N2-1061, N2-1062, N2-1063, N2-1064, N2-1065, N2-1066, N2-1067, N2-1068, N2-1069, N2-1070 | 10 |
 | 98 | N2-1071, N2-1072, N2-1073, N2-1074, N2-1075, N2-1076, N2-1077, N2-1078, N2-1079, N2-1080 | 10 |
 | 99 | N2-1081, N2-1082, N2-1083, N2-1084, N2-1085, N2-1086, N2-1087, N2-1088, N2-1089, N2-1090 | 10 |
+| 100 | N2-1091, N2-1092, N2-1093, N2-1094, N2-1095, N2-1096, N2-1097, N2-1098, N2-1099, N2-1100, N2-1101 | 10 |
 
 ## Maturity workflow
 
@@ -4910,3 +4911,14 @@ content and remain at `new` until editorial review.
 | N2-1088 | [戸棚](entries/1267/1267050-todana.org) | とだな | todana | 1267050 | learner | draft | **new** | Editorial review |
 | N2-1089 | [疾っくに](entries/1320/1320570-tokkuni.org) | とっくに | tokkuni | 1320570 | learner | draft | **new** | Editorial review |
 | N2-1090 | [整う](entries/1598/1598800-totonou.org) | ととのう | totonou | 1598800 | learner | draft | **new** | Editorial review |
+| N2-1091 | [止まる](entries/2657/2657130-todomaru.org) | とどまる | todomaru | 2657130 | learner | draft | **new** | Editorial review |
+| N2-1092 | [止まる](entries/2657/2657130-todomaru.org) | とどまる | todomaru | 2657130 | learner | draft | **existing** | Editorial review |
+| N2-1093 | [飛び込む](entries/1598/1598890-tobikomu.org) | とびこむ | tobikomu | 1598890 | learner | draft | **new** | Editorial review |
+| N2-1094 | [泊める](entries/1474/1474860-tomeru.org) | とめる | tomeru | 1474860 | learner | draft | **new** | Editorial review |
+| N2-1095 | [兎も角](entries/1444/1444010-tomokaku.org) | ともかく | tomokaku | 1444010 | learner | draft | **new** | Editorial review |
+| N2-1096 | [捉える](entries/1598/1598960-toraeru.org) | とらえる | toraeru | 1598960 | learner | draft | **new** | Editorial review |
+| N2-1097 | [取り入れる](entries/1326/1326880-toriireru.org) | とりいれる | toriireru | 1326880 | learner | draft | **new** | Editorial review |
+| N2-1098 | [取り消す](entries/1326/1326790-torikesu.org) | とりけす | torikesu | 1326790 | learner | draft | **new** | Editorial review |
+| N2-1099 | [取り出す](entries/1326/1326770-toridasu.org) | とりだす | toridasu | 1326770 | learner | draft | **new** | Editorial review |
+| N2-1100 | [捕る](entries/1514/1514140-toru.org) | とる | toru | 1514140 | learner | draft | **new** | Editorial review |
+| N2-1101 | [トレーニング](entries/1087/1087100-toreeningu.org) | トレーニング | toreeningu | 1087100 | learner | draft | **new** | Editorial review |
