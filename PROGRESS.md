@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3973 |
+| Canonical entry files | 3983 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1001 |
+| Canonical N2 entries | 1011 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1009 / 1635 (61.7%) |
+| N2 queue rows covered | 1019 / 1635 (62.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3936 |
+| `new` | 3946 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3963 |
+| Entry metadata still marked `draft` | 3973 |
 | Core profile | 163 |
-| Learner profile | 3809 |
+| Learner profile | 3819 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -897,7 +897,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **910/1000 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **920/1000 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -999,6 +999,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 89 | N2-980, N2-981, N2-982, N2-983, N2-984, N2-985, N2-986, N2-987, N2-988, N2-989 | 10 |
 | 90 | N2-990, N2-991, N2-992, N2-993, N2-994, N2-995, N2-996, N2-997, N2-998, N2-999, N2-1000 | 10 |
 | 91 | N2-1001, N2-1002, N2-1003, N2-1004, N2-1005, N2-1006, N2-1007, N2-1008, N2-1009, N2-1010 | 10 |
+| 92 | N2-1011, N2-1012, N2-1013, N2-1014, N2-1015, N2-1016, N2-1017, N2-1018, N2-1019, N2-1020 | 10 |
 
 ## Maturity workflow
 
@@ -4822,3 +4823,13 @@ content and remain at `new` until editorial review.
 | N2-1008 | [潰れる](entries/1433/1433830-tsubureru.org) | つぶれる | tsubureru | 1433830 | learner | draft | **new** | Editorial review |
 | N2-1009 | [躓く](entries/1573/1573400-tsumazuku.org) | つまずく | tsumazuku | 1573400 | learner | draft | **new** | Editorial review |
 | N2-1010 | [詰まる](entries/1226/1226480-tsumaru.org) | つまる | tsumaru | 1226480 | learner | draft | **new** | Editorial review |
+| N2-1011 | [積む](entries/1382/1382970-tsumu.org) | つむ | tsumu | 1382970 | learner | draft | **new** | Editorial review |
+| N2-1012 | [爪](entries/1433/1433880-tsume.org) | つめ | tsume | 1433880 | learner | draft | **new** | Editorial review |
+| N2-1013 | [艶](entries/1177/1177680-tsuya.org) | つや | tsuya | 1177680 | learner | draft | **new** | Editorial review |
+| N2-1014 | [強気](entries/1236/1236230-tsuyoki.org) | つよき | tsuyoki | 1236230 | learner | draft | **new** | Editorial review |
+| N2-1015 | [釣り合う](entries/1434/1434050-tsuriau.org) | つりあう | tsuriau | 1434050 | learner | draft | **new** | Editorial review |
+| N2-1016 | [吊る](entries/1434/1434020-tsuru.org) | つる | tsuru | 1434020 | learner | draft | **new** | Editorial review |
+| N2-1017 | [吊るす](entries/1433/1433980-tsurusu.org) | つるす | tsurusu | 1433980 | learner | draft | **new** | Editorial review |
+| N2-1018 | [手洗い](entries/1328/1328020-tearai.org) | てあらい | tearai | 1328020 | learner | draft | **new** | Editorial review |
+| N2-1019 | [定員](entries/1435/1435400-teiin.org) | ていいん | teiin | 1435400 | learner | draft | **new** | Editorial review |
+| N2-1020 | [低下](entries/1434/1434250-teika.org) | ていか | teika | 1434250 | learner | draft | **new** | Editorial review |
