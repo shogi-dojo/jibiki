@@ -1,0 +1,445 @@
+#+TITLE: 濃度
+#+JMDICT_ID: 1469970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のうど
+#+ROMAJI: noudo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1469970-001
+:PROPERTIES:
+:TEXT: 濃度
+:END:
+*** Priorities
+- news1
+- nf07
+** Reading rd-1469970-001
+:PROPERTIES:
+:TEXT: のうど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf07
+
+* Sense s-1469970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 97bbf020912e14d0596575d445104c1eabafaad95f08f4ac28e974602107cb56
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+** English glosses
+- concentration
+- density
+** Ukrainian glosses
+*** uk-s-1469970-001-001
+:PROPERTIES:
+:END:
+- text :: концентрація; густина; насиченість
+** Learner notes
+*** note-s-1469970-001-001
+:PROPERTIES:
+:END:
+- UK :: Ступінь вмісту певної речовини або насиченості. Контекст указує, що саме вимірюється.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1469970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 濃度を比べます。
+- READING :: のうどをくらべます。
+- UK :: Я порівнюю концентрацію.
+- EN :: I compare the concentrations.
+- FOCUS :: 濃度
+*** ex-1469970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 図には濃度の違いが示されています。
+- READING :: ずにはのうどのちがいがしめされています。
+- UK :: На схемі показано відмінності концентрації.
+- EN :: The diagram shows differences in concentration.
+- FOCUS :: 濃度
+*** ex-1469970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 濃度についての説明を読んでから、表に使われている単位を確かめました。
+- READING :: のうどについてのせつめいをよんでから、ひょうにつかわれているたんいをたしかめました。
+- UK :: Прочитавши пояснення концентрації, я перевірив одиниці в таблиці.
+- EN :: After reading the explanation of concentration, I checked the units used in the table.
+- FOCUS :: 濃度
+
+* Sense s-1469970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7059dc2e1c92f728e498ac39eb491029235717dde684b10a6b393199e1178f7d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- cardinality
+** Ukrainian glosses
+*** uk-s-1469970-002-001
+:PROPERTIES:
+:END:
+- text :: потужність множини
+** Learner notes
+*** note-s-1469970-002-001
+:PROPERTIES:
+:END:
+- UK :: Математичне значення: кількість елементів множини, зокрема для нескінченних множин.
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1469970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4ee9ecd1729b36d2d6c0739b9328d10e8c1342443ebc24568da9320800d68e16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dichtheid
+*** en-s-1469970-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: densiteit
+*** en-s-1469970-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gehalte
+*** en-s-1469970-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dikheid
+*** en-s-1469970-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: concentratie
+*** en-s-1469970-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fotograf.} zwarting
+*** en-s-1469970-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {van vloeistoffen} consistentie
+*** en-s-1469970-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lijvigheid
+*** en-s-1469970-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {b.v. van mist} dikte
+*** en-s-1469970-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {van wijn
+*** en-s-1469970-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koffie enz.} sterkte
+** Ukrainian glosses
+
+* Sense s-1469970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5342f1bf344e0f5c0c93a0e81084fd2e5c94e881c4c5486a192f1631381ac2de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: concentration
+*** en-s-1469970-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: densité
+** Ukrainian glosses
+
+* Sense s-1469970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bc2c865dc58ac5cd7302fa27eed4bbd217aab63363ad6ce777530901aee09e9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dichte
+** Ukrainian glosses
+
+* Sense s-1469970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1d472f2c5165e723f3a34516343497bf8a2e9710103c2698c620a66a261b29db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Konzentration
+** Ukrainian glosses
+
+* Sense s-1469970-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 66a8f80a0319fc3f53b8573125d9a5d7e9aa8d418c291bc7d463ca989101696a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mächtigkeit
+*** en-s-1469970-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kardinalität
+** Ukrainian glosses
+
+* Sense s-1469970-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 95f84343baa6270cbc6ef44388db86786d8f3647ac702e2ef85c99bc0b698c09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derű
+*** en-s-1469970-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényesség
+*** en-s-1469970-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyors észjárás
+*** en-s-1469970-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okosság
+*** en-s-1469970-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ragyogás
+*** en-s-1469970-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztaság
+*** en-s-1469970-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koncentráció
+*** en-s-1469970-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: töménység
+** Ukrainian glosses
+
+* Sense s-1469970-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 56ce304e924e74a131168041284704d6fbab0555a16cfa3e76e3616b4f2f898c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: густота, плотность, насыщенность, концентрация
+** Ukrainian glosses
+
+* Sense s-1469970-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0f1ab318bcc108301d2a6dda1963088d0d7dc07ec5bff0deacaab8665d522311
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koncentracija
+*** en-s-1469970-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zgoščenost
+** Ukrainian glosses
+
+* Sense s-1469970-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 4a0e69fec7766aa7a7bf3903b93cd2b8c18110746a2d5a5427fa9c019626d544
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1469970-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: concentración
+*** en-s-1469970-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: claridad
+** Ukrainian glosses
