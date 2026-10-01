@@ -914,7 +914,7 @@ across all 1000 entries with zero errors or warnings. The test suite passed
 
 All entries remain learner-profile drafts awaiting independent editorial review;
 automated checks do not establish linguistic approval. The next untouched
-candidate is N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
+candidate at the 1000-word checkpoint was N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
 The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 | Batch | Queue rows | New entries |
@@ -1020,29 +1020,41 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
 
-## Current-branch 100-word N2 PR (2026-10-01)
+## Completed current-branch 100-word N2 PR (2026-10-01)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **100/100 new words**
-in batches of ten, one commit per word under Ihor. Content author is `codex`.
-Each English semantic sense has an original Ukrainian gloss and usage note;
-each entry has three graded examples. All added entries passed validation,
-Org lint, and doctor 100/100 with zero errors or warnings. All new entries are N2 candidates from the pinned queue.
-Editorial review remains pending.
-N2-69 is deferred for a dedicated standalone-usage review.
-Previously authored aliases remain excluded from the new-word count.
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
+Completed **100/100 new words** in ten batches of ten, one commit per word
+under Ihor. Content author is `codex`. All 100 are distinct new N2 candidate
+entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
+and is excluded from the new-word count.
+
+The additions cover 210 English semantic senses with original Ukrainian glosses
+and usage explanations, plus 300 graded examples with Japanese text, kana,
+Ukrainian and English translations. Audits verified distinct JMdict IDs,
+complete original-source sense fingerprints, primary example senses, example
+focus spans, Git authorship and ledger links. Fresh validation and Org lint
+passed for all 100 entries. Doctor averaged 100/100 with zero errors or warnings.
+The test suite passed 137 tests and 13,043 assertions; pinned JMdict and N2
+source checksums were verified.
+
+All additions remain learner-profile drafts awaiting independent editorial
+review. Automated checks do not constitute linguistic approval. The next
+untouched candidate is N2-1203 (発揮, はっき). N2-69 remains deferred for a
+dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
+remains preserved.
 
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
-| 1 | N2-1102, N2-1103, N2-1104, N2-1105, N2-1106, N2-1107, N2-1108, N2-1109, N2-1110, N2-1111 | 10 |
-| 2 | N2-1112, N2-1113, N2-1114, N2-1115, N2-1116, N2-1117, N2-1118, N2-1119, N2-1120, N2-1121 | 10 |
-| 3 | N2-1122, N2-1123, N2-1124, N2-1125, N2-1126, N2-1127, N2-1128, N2-1129, N2-1130, N2-1131 | 10 |
-| 4 | N2-1132, N2-1133, N2-1134, N2-1135, N2-1136, N2-1137, N2-1138, N2-1139, N2-1140, N2-1141 | 10 |
-| 5 | N2-1142, N2-1143, N2-1144, N2-1145, N2-1146, N2-1147, N2-1148, N2-1149, N2-1150, N2-1151, N2-1152 | 10 |
-| 6 | N2-1153, N2-1154, N2-1155, N2-1156, N2-1157, N2-1158, N2-1159, N2-1160, N2-1161, N2-1162 | 10 |
-| 7 | N2-1163, N2-1164, N2-1165, N2-1166, N2-1167, N2-1168, N2-1169, N2-1170, N2-1171, N2-1172 | 10 |
-| 8 | N2-1173, N2-1174, N2-1175, N2-1176, N2-1177, N2-1178, N2-1179, N2-1180, N2-1181, N2-1182 | 10 |
-| 9 | N2-1183, N2-1184, N2-1185, N2-1186, N2-1187, N2-1188, N2-1189, N2-1190, N2-1191, N2-1192 | 10 |
-| 10 | N2-1193, N2-1194, N2-1195, N2-1196, N2-1197, N2-1198, N2-1199, N2-1200, N2-1201, N2-1202 | 10 |
+| 1 | N2-1102–1111 | 10 |
+| 2 | N2-1112–1121 | 10 |
+| 3 | N2-1122–1131 | 10 |
+| 4 | N2-1132–1141 | 10 |
+| 5 | N2-1142–1152 | 10 |
+| 6 | N2-1153–1162 | 10 |
+| 7 | N2-1163–1172 | 10 |
+| 8 | N2-1173–1182 | 10 |
+| 9 | N2-1183–1192 | 10 |
+| 10 | N2-1193–1202 | 10 |
 
 ## Maturity workflow
 
