@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 3953 |
+| Canonical entry files | 3963 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 981 |
+| Canonical N2 entries | 991 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 988 / 1635 (60.4%) |
+| N2 queue rows covered | 999 / 1635 (61.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 3916 |
+| `new` | 3926 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 3943 |
+| Entry metadata still marked `draft` | 3953 |
 | Core profile | 163 |
-| Learner profile | 3789 |
+| Learner profile | 3799 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -782,7 +782,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **890/900 new words**
+Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **900/900 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -882,6 +882,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 87 | N2-960, N2-961, N2-962, N2-963, N2-964, N2-965, N2-966, N2-967, N2-968, N2-969 | 10 |
 | 88 | N2-970, N2-971, N2-972, N2-973, N2-974, N2-975, N2-976, N2-977, N2-978, N2-979 | 10 |
 | 89 | N2-980, N2-981, N2-982, N2-983, N2-984, N2-985, N2-986, N2-987, N2-988, N2-989 | 10 |
+| 90 | N2-990, N2-991, N2-992, N2-993, N2-994, N2-995, N2-996, N2-997, N2-998, N2-999, N2-1000 | 10 |
 
 ## Maturity workflow
 
@@ -4684,3 +4685,14 @@ content and remain at `new` until editorial review.
 | N2-987 | [通知](entries/1433/1433470-tsuuchi.org) | つうち | tsuuchi | 1433470 | learner | draft | **new** | Editorial review |
 | N2-988 | [通帳](entries/1433/1433490-tsuuchou.org) | つうちょう | tsuuchou | 1433490 | learner | draft | **new** | Editorial review |
 | N2-989 | [通訳](entries/1433/1433560-tsuuyaku.org) | つうやく | tsuuyaku | 1433560 | learner | draft | **new** | Editorial review |
+| N2-990 | [通用](entries/1433/1433570-tsuuyou.org) | つうよう | tsuuyou | 1433570 | learner | draft | **new** | Editorial review |
+| N2-991 | [通路](entries/1433/1433600-tsuuro.org) | つうろ | tsuuro | 1433600 | learner | draft | **new** | Editorial review |
+| N2-992 | [付き合う](entries/1597/1597790-tsukiau.org) | つきあう | tsukiau | 1597790 | learner | draft | **new** | Editorial review |
+| N2-993 | [突き当たり](entries/1456/1456770-tsukiatari.org) | つきあたり | tsukiatari | 1456770 | learner | draft | **new** | Editorial review |
+| N2-994 | [突き当たる](entries/1456/1456780-tsukiataru.org) | つきあたる | tsukiataru | 1456780 | learner | draft | **new** | Editorial review |
+| N2-995 | [点く](entries/1441/1441400-tsuku.org) | つく | tsuku | 1441400 | learner | draft | **existing** | Editorial review |
+| N2-996 | [突く](entries/1456/1456890-tsuku.org) | つく | tsuku | 1456890 | learner | draft | **new** | Editorial review |
+| N2-997 | [次ぐ](entries/1316/1316400-tsugu.org) | つぐ | tsugu | 1316400 | learner | draft | **new** | Editorial review |
+| N2-998 | [点ける](entries/1610/1610400-tsukeru.org) | つける | tsukeru | 1610400 | learner | draft | **new** | Editorial review |
+| N2-999 | [伝わる](entries/1441/1441900-tsutawaru.org) | つたわる | tsutawaru | 1441900 | learner | draft | **new** | Editorial review |
+| N2-1000 | [突っ込む](entries/1456/1456940-tsukkomu.org) | つっこむ | tsukkomu | 1456940 | learner | draft | **new** | Editorial review |
