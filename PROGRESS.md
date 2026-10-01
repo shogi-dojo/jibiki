@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4133 |
+| Canonical entry files | 4143 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1161 |
+| Canonical N2 entries | 1171 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1171 / 1635 (71.6%) |
+| N2 queue rows covered | 1181 / 1635 (72.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4096 |
+| `new` | 4106 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4123 |
+| Entry metadata still marked `draft` | 4133 |
 | Core profile | 163 |
-| Learner profile | 3969 |
+| Learner profile | 3979 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1022,7 +1022,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 100-word N2 PR (2026-10-01)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **70/100 new words**
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **80/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1040,6 +1040,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 5 | N2-1142, N2-1143, N2-1144, N2-1145, N2-1146, N2-1147, N2-1148, N2-1149, N2-1150, N2-1151, N2-1152 | 10 |
 | 6 | N2-1153, N2-1154, N2-1155, N2-1156, N2-1157, N2-1158, N2-1159, N2-1160, N2-1161, N2-1162 | 10 |
 | 7 | N2-1163, N2-1164, N2-1165, N2-1166, N2-1167, N2-1168, N2-1169, N2-1170, N2-1171, N2-1172 | 10 |
+| 8 | N2-1173, N2-1174, N2-1175, N2-1176, N2-1177, N2-1178, N2-1179, N2-1180, N2-1181, N2-1182 | 10 |
 
 ## Maturity workflow
 
@@ -5025,3 +5026,13 @@ content and remain at `new` until editorial review.
 | N2-1170 | [農産物](entries/1470/1470710-nousanbutsu.org) | のうさんぶつ | nousanbutsu | 1470710 | learner | draft | **new** | Editorial review |
 | N2-1171 | [農村](entries/1470/1470730-nouson.org) | のうそん | nouson | 1470730 | learner | draft | **new** | Editorial review |
 | N2-1172 | [濃度](entries/1469/1469970-noudo.org) | のうど | noudo | 1469970 | learner | draft | **new** | Editorial review |
+| N2-1173 | [農薬](entries/1470/1470780-nouyaku.org) | のうやく | nouyaku | 1470780 | learner | draft | **new** | Editorial review |
+| N2-1174 | [能率](entries/1470/1470330-nouritsu.org) | のうりつ | nouritsu | 1470330 | learner | draft | **new** | Editorial review |
+| N2-1175 | [退ける](entries/1411/1411270-nokeru.org) | のける | nokeru | 1411270 | learner | draft | **new** | Editorial review |
+| N2-1176 | [鋸](entries/1232/1232930-nokogiri.org) | のこぎり | nokogiri | 1232930 | learner | draft | **new** | Editorial review |
+| N2-1177 | [残らず](entries/1611/1611130-nokorazu.org) | のこらず | nokorazu | 1611130 | learner | draft | **new** | Editorial review |
+| N2-1178 | [覗く](entries/1470/1470840-nozoku.org) | のぞく | nozoku | 1470840 | learner | draft | **new** | Editorial review |
+| N2-1179 | [上り](entries/1352/1352510-nobori.org) | のぼり | nobori | 1352510 | learner | draft | **new** | Editorial review |
+| N2-1180 | [乗り換え](entries/1600/1600460-norikae.org) | のりかえ | norikae | 1600460 | learner | draft | **new** | Editorial review |
+| N2-1181 | [載る](entries/2649/2649690-noru.org) | のる | noru | 2649690 | learner | draft | **new** | Editorial review |
+| N2-1182 | [のろのろ](entries/1010/1010040-noronoro.org) | のろのろ | noronoro | 1010040 | learner | draft | **new** | Editorial review |
