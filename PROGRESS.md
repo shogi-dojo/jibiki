@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4143 |
+| Canonical entry files | 4153 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1171 |
+| Canonical N2 entries | 1181 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1181 / 1635 (72.2%) |
+| N2 queue rows covered | 1191 / 1635 (72.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4106 |
+| `new` | 4116 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4133 |
+| Entry metadata still marked `draft` | 4143 |
 | Core profile | 163 |
-| Learner profile | 3979 |
+| Learner profile | 3989 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1022,7 +1022,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 100-word N2 PR (2026-10-01)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **80/100 new words**
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12). Completed **90/100 new words**
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -1041,6 +1041,7 @@ Previously authored aliases remain excluded from the new-word count.
 | 6 | N2-1153, N2-1154, N2-1155, N2-1156, N2-1157, N2-1158, N2-1159, N2-1160, N2-1161, N2-1162 | 10 |
 | 7 | N2-1163, N2-1164, N2-1165, N2-1166, N2-1167, N2-1168, N2-1169, N2-1170, N2-1171, N2-1172 | 10 |
 | 8 | N2-1173, N2-1174, N2-1175, N2-1176, N2-1177, N2-1178, N2-1179, N2-1180, N2-1181, N2-1182 | 10 |
+| 9 | N2-1183, N2-1184, N2-1185, N2-1186, N2-1187, N2-1188, N2-1189, N2-1190, N2-1191, N2-1192 | 10 |
 
 ## Maturity workflow
 
@@ -5036,3 +5037,13 @@ content and remain at `new` until editorial review.
 | N2-1180 | [乗り換え](entries/1600/1600460-norikae.org) | のりかえ | norikae | 1600460 | learner | draft | **new** | Editorial review |
 | N2-1181 | [載る](entries/2649/2649690-noru.org) | のる | noru | 2649690 | learner | draft | **new** | Editorial review |
 | N2-1182 | [のろのろ](entries/1010/1010040-noronoro.org) | のろのろ | noronoro | 1010040 | learner | draft | **new** | Editorial review |
+| N2-1183 | [呑気](entries/1600/1600560-nonki.org) | のんき | nonki | 1600560 | learner | draft | **new** | Editorial review |
+| N2-1184 | [灰色](entries/1201/1201970-haiiro.org) | はいいろ | haiiro | 1201970 | learner | draft | **new** | Editorial review |
+| N2-1185 | [俳句](entries/1471/1471900-haiku.org) | はいく | haiku | 1471900 | learner | draft | **new** | Editorial review |
+| N2-1186 | [這う](entries/1474/1474200-hau.org) | はう | hau | 1474200 | learner | draft | **new** | Editorial review |
+| N2-1187 | [生える](entries/1378/1378490-haeru.org) | はえる | haeru | 1378490 | learner | draft | **new** | Editorial review |
+| N2-1188 | [秤](entries/1474/1474220-hakari.org) | はかり | hakari | 1474220 | learner | draft | **new** | Editorial review |
+| N2-1189 | [剥がす](entries/1600/1600670-hagasu.org) | はがす | hagasu | 1600670 | learner | draft | **new** | Editorial review |
+| N2-1190 | [はきはき](entries/1010/1010090-hakihaki.org) | はきはき | hakihaki | 1010090 | learner | draft | **new** | Editorial review |
+| N2-1191 | [掃く](entries/1399/1399760-haku.org) | はく | haku | 1399760 | learner | draft | **new** | Editorial review |
+| N2-1192 | [歯車](entries/1313/1313350-haguruma.org) | はぐるま | haguruma | 1313350 | learner | draft | **new** | Editorial review |
