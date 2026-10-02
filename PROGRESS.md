@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4203 |
+| Canonical entry files | 4213 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1231 |
+| Canonical N2 entries | 1241 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1242 / 1635 (76.0%) |
+| N2 queue rows covered | 1252 / 1635 (76.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4166 |
+| `new` | 4176 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4193 |
+| Entry metadata still marked `draft` | 4203 |
 | Core profile | 163 |
-| Learner profile | 4039 |
+| Learner profile | 4049 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **140/200 new words** in batches of ten, one commit per word
+Completed **150/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1244 (引き受ける, ひきうける). N2-69 remains deferred for a
+untouched candidate is N2-1254 (引っ越し, ひっこし). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1058,6 +1058,7 @@ remains preserved.
 | 12 | N2-1213–1222 | 10 |
 | 13 | N2-1223–1232 | 10 |
 | 14 | N2-1233–1243 | 10 |
+| 15 | N2-1244–1253 | 10 |
 
 ## Maturity workflow
 
@@ -5114,3 +5115,13 @@ content and remain at `new` until editorial review.
 | N2-1241 | [日当たり](entries/1601/1601420-hiatari.org) | ひあたり | hiatari | 1601420 | learner | draft | **new** | Editorial review |
 | N2-1242 | [比較的](entries/1483/1483600-hikakuteki.org) | ひかくてき | hikakuteki | 1483600 | learner | draft | **new** | Editorial review |
 | N2-1243 | [日陰](entries/1463/1463840-hikage.org) | ひかげ | hikage | 1463840 | learner | draft | **new** | Editorial review |
+| N2-1244 | [引き受ける](entries/1601/1601520-hikiukeru.org) | ひきうける | hikiukeru | 1601520 | learner | draft | **new** | Editorial review |
+| N2-1245 | [引き返す](entries/1169/1169140-hikikaesu.org) | ひきかえす | hikikaesu | 1169140 | learner | draft | **new** | Editorial review |
+| N2-1246 | [引き算](entries/1601/1601610-hikizan.org) | ひきざん | hikizan | 1601610 | learner | draft | **new** | Editorial review |
+| N2-1247 | [引き止める](entries/1601/1601750-hikitomeru.org) | ひきとめる | hikitomeru | 1601750 | learner | draft | **new** | Editorial review |
+| N2-1248 | [引き分け](entries/1169/1169120-hikiwake.org) | ひきわけ | hikiwake | 1169120 | learner | draft | **new** | Editorial review |
+| N2-1249 | [日差し](entries/1601/1601830-hizashi.org) | ひざし | hizashi | 1601830 | learner | draft | **new** | Editorial review |
+| N2-1250 | [肘](entries/1487/1487380-hiji.org) | ひじ | hiji | 1487380 | learner | draft | **new** | Editorial review |
+| N2-1251 | [引っかかる](entries/1169/1169350-hikkakaru.org) | ひっかかる | hikkakaru | 1169350 | learner | draft | **new** | Editorial review |
+| N2-1252 | [ひっくり返す](entries/1601/1601870-hikkurikaesu.org) | ひっくりかえす | hikkurikaesu | 1601870 | learner | draft | **new** | Editorial review |
+| N2-1253 | [ひっくり返る](entries/1169/1169320-hikkurikaeru.org) | ひっくりかえる | hikkurikaeru | 1169320 | learner | draft | **new** | Editorial review |
