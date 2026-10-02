@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4183 |
+| Canonical entry files | 4193 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1211 |
+| Canonical N2 entries | 1221 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1221 / 1635 (74.7%) |
+| N2 queue rows covered | 1231 / 1635 (75.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4146 |
+| `new` | 4156 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4173 |
+| Entry metadata still marked `draft` | 4183 |
 | Core profile | 163 |
-| Learner profile | 4019 |
+| Learner profile | 4029 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **120/200 new words** in batches of ten, one commit per word
+Completed **130/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
 and is excluded from the new-word count.
@@ -1038,7 +1038,8 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1223 (反映, はんえい). N2-69 remains deferred for a
+untouched candidate is N2-1234 (発条, ばね). N2-1233 (バック) is an unchanged
+existing entry and will be recorded as an alias. N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1056,6 +1057,7 @@ remains preserved.
 | 10 | N2-1193–1202 | 10 |
 | 11 | N2-1203–1212 | 10 |
 | 12 | N2-1213–1222 | 10 |
+| 13 | N2-1223–1232 | 10 |
 
 ## Maturity workflow
 
@@ -5091,3 +5093,13 @@ content and remain at `new` until editorial review.
 | N2-1220 | [払い戻す](entries/1501/1501610-haraimodosu.org) | はらいもどす | haraimodosu | 1501610 | learner | draft | **new** | Editorial review |
 | N2-1221 | [針金](entries/1366/1366250-harigane.org) | はりがね | harigane | 1366250 | learner | draft | **new** | Editorial review |
 | N2-1222 | [張り切る](entries/1427/1427870-harikiru.org) | はりきる | harikiru | 1427870 | learner | draft | **new** | Editorial review |
+| N2-1223 | [反映](entries/1601/1601160-hanei.org) | はんえい | hanei | 1601160 | learner | draft | **new** | Editorial review |
+| N2-1224 | [半径](entries/1479/1479230-hankei.org) | はんけい | hankei | 1479230 | learner | draft | **new** | Editorial review |
+| N2-1225 | [判子](entries/1478/1478550-hanko.org) | はんこ | hanko | 1478550 | learner | draft | **new** | Editorial review |
+| N2-1226 | [判事](entries/1478/1478560-hanji.org) | はんじ | hanji | 1478560 | learner | draft | **new** | Editorial review |
+| N2-1227 | [反省](entries/1480/1480540-hansei.org) | はんせい | hansei | 1480540 | learner | draft | **new** | Editorial review |
+| N2-1228 | [ハンドル](entries/1096/1096830-handoru.org) | ハンドル | handoru | 1096830 | learner | draft | **new** | Editorial review |
+| N2-1229 | [バイバイ](entries/1983/1983760-baibai.org) | バイバイ | baibai | 1983760 | learner | draft | **new** | Editorial review |
+| N2-1230 | [売買](entries/1474/1474050-baibai.org) | ばいばい | baibai | 1474050 | learner | draft | **new** | Editorial review |
+| N2-1231 | [馬鹿らしい](entries/1612/1612910-bakarashii.org) | ばからしい | bakarashii | 1612910 | learner | draft | **new** | Editorial review |
+| N2-1232 | [馬穴](entries/1098/1098340-baketsu.org) | バケツ | baketsu | 1098340 | learner | draft | **new** | Editorial review |
