@@ -1,0 +1,262 @@
+#+TITLE: 肘
+#+JMDICT_ID: 1487380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひじ
+#+ROMAJI: hiji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1487380-001
+:PROPERTIES:
+:TEXT: 肘
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1487380-002
+:PROPERTIES:
+:TEXT: 肱
+:END:
+*** Information
+- rK
+** Written form wf-1487380-003
+:PROPERTIES:
+:TEXT: 臂
+:END:
+*** Information
+- rK
+** Reading rd-1487380-001
+:PROPERTIES:
+:TEXT: ひじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1487380-002
+:PROPERTIES:
+:TEXT: ヒジ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1487380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 43a5cce34212fbe4df79c9f73f4c44fc720fdd4ac3396fb2a8da95baa880babe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- elbow
+** Ukrainian glosses
+*** uk-s-1487380-001-001
+:PROPERTIES:
+:END:
+- text :: лікоть
+** Learner notes
+*** note-s-1487380-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічна частина тіла: лікоть. Поширені вирази: ~肘をつく~ (спиратися на лікті), ~肘を曲げる~ (згинати лікоть), ~肘をぶつける~ (ударитися ліктем).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1487380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 机の上に肘をついてはいけません。
+- READING :: つくえの うえに ひじを ついては いけません。
+- UK :: Не можна спиратися ліктями на стіл.
+- EN :: You should not rest your elbows on the table.
+- FOCUS :: 肘
+*** ex-1487380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 転んだときに肘を強く打ってしまった。
+- READING :: ころんだ ときに ひじを つよく うって しまった。
+- UK :: Коли я впав, то сильно забився ліктем.
+- EN :: I hit my elbow hard when I fell down.
+- FOCUS :: 肘
+*** ex-1487380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長時間のデスクワークで肘や肩に痛みを感じるようになったので、椅子の高さを調節した。
+- READING :: ちょうじかんの デスクワークで ひじや かたに いたみを かんじるように なったので、いすの たかさを ちょうせつ した。
+- UK :: Через тривалу сидячу роботу в мене почали боліти лікті й плечі, тому я відрегулював висоту стільця.
+- EN :: Since I started feeling pain in my elbows and shoulders from working long hours at a desk, I adjusted the height of my chair.
+- FOCUS :: 肘
+
+* Sense s-1487380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e0ef39ab91b5d45537d0dc60fbe780562708077b66fb72854705178e86f58bdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elleboog
+*** en-s-1487380-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.} cubitus
+** Ukrainian glosses
+
+* Sense s-1487380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ccfe4f15477d89c18c83f4fb629ec92be4e4bafa4cc1d57638c1b5c639752556
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coude
+** Ukrainian glosses
+
+* Sense s-1487380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 00926a1984e87c094ea7fa9f2d10a0d6a97678e10d46cf90eb6a0da58371dfbc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ellbogen
+** Ukrainian glosses
+
+* Sense s-1487380-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0ebd9465d5fe76d09446e865bbf496f26a0dca2be82e0698fe48cf45a4771095
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajlított kartámla
+*** en-s-1487380-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ívcső
+*** en-s-1487380-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könyökidom
+** Ukrainian glosses
+
+* Sense s-1487380-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d08b8ab5b08fac8b8b34e2cf5141bf3b7d7bacdfaad0947e518e8e6b31bea804
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: локоть
+*** en-s-1487380-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: локти, локоть
+** Ukrainian glosses
+
+* Sense s-1487380-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8ade83fa4090d9040018a74c2e335c5cf6a98bca81b4ed15e4c7a457ff772b11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komolec
+** Ukrainian glosses
+
+* Sense s-1487380-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 39df5228096202eb4189f8f604834fe950f61775aa46e254b49b7726fb483bee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487380-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: codo
+** Ukrainian glosses
