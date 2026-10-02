@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4243 |
+| Canonical entry files | 4253 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1271 |
+| Canonical N2 entries | 1281 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1282 / 1635 (78.4%) |
+| N2 queue rows covered | 1292 / 1635 (79.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4206 |
+| `new` | 4216 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4233 |
+| Entry metadata still marked `draft` | 4243 |
 | Core profile | 163 |
-| Learner profile | 4079 |
+| Learner profile | 4089 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **180/200 new words** in batches of ten, one commit per word
+Completed **190/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1284 (広さ, ひろさ). N2-69 remains deferred for a
+untouched candidate is N2-1294 (ピカピカ, ぴかぴか). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1062,6 +1062,7 @@ remains preserved.
 | 16 | N2-1254–1263 | 10 |
 | 17 | N2-1264–1273 | 10 |
 | 18 | N2-1274–1283 | 10 |
+| 19 | N2-1284–1293 | 10 |
 
 ## Maturity workflow
 
@@ -5158,3 +5159,13 @@ content and remain at `new` until editorial review.
 | N2-1281 | [平仮名](entries/1507/1507090-hiragana.org) | ひらがな | hiragana | 1507090 | learner | draft | **new** | Editorial review |
 | N2-1282 | [昼寝](entries/1426/1426370-hirune.org) | ひるね | hirune | 1426370 | learner | draft | **new** | Editorial review |
 | N2-1283 | [広げる](entries/1602/1602370-hirogeru.org) | ひろげる | hirogeru | 1602370 | learner | draft | **new** | Editorial review |
+| N2-1284 | [広さ](entries/1278/1278440-hirosa.org) | ひろさ | hirosa | 1278440 | learner | draft | **new** | Editorial review |
+| N2-1285 | [広場](entries/1278/1278590-hiroba.org) | ひろば | hiroba | 1278590 | learner | draft | **new** | Editorial review |
+| N2-1286 | [広々](entries/1602/1602380-hirobiro.org) | ひろびろ | hirobiro | 1602380 | learner | draft | **new** | Editorial review |
+| N2-1287 | [広める](entries/1278/1278460-hiromeru.org) | ひろめる | hiromeru | 1278460 | learner | draft | **new** | Editorial review |
+| N2-1288 | [ビタミン](entries/1105/1105160-bitamin.org) | ビタミン | bitamin | 1105160 | learner | draft | **new** | Editorial review |
+| N2-1289 | [ビニール](entries/1105/1105580-bini-ru.org) | ビニール | bini-ru | 1105580 | learner | draft | **new** | Editorial review |
+| N2-1290 | [美容](entries/1486/1486670-biyou.org) | びよう | biyou | 1486670 | learner | draft | **new** | Editorial review |
+| N2-1291 | [ビルディング](entries/1106/1106040-birudingu.org) | ビルディング | birudingu | 1106040 | learner | draft | **new** | Editorial review |
+| N2-1292 | [便箋](entries/1512/1512640-binsen.org) | びんせん | binsen | 1512640 | learner | draft | **new** | Editorial review |
+| N2-1293 | [瓶詰め](entries/1491/1491130-binzume.org) | びんづめ | binzume | 1491130 | learner | draft | **new** | Editorial review |
