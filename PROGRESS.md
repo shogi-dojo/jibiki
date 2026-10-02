@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4173 |
+| Canonical entry files | 4183 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1201 |
+| Canonical N2 entries | 1211 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1211 / 1635 (74.1%) |
+| N2 queue rows covered | 1221 / 1635 (74.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4136 |
+| `new` | 4146 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4163 |
+| Entry metadata still marked `draft` | 4173 |
 | Core profile | 163 |
-| Learner profile | 4009 |
+| Learner profile | 4019 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **110/200 new words** in batches of ten, one commit per word
+Completed **120/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
 and is excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1213 (花嫁, はなよめ). N2-69 remains deferred for a
+untouched candidate is N2-1223 (反映, はんえい). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1055,6 +1055,7 @@ remains preserved.
 | 9 | N2-1183–1192 | 10 |
 | 10 | N2-1193–1202 | 10 |
 | 11 | N2-1203–1212 | 10 |
+| 12 | N2-1213–1222 | 10 |
 
 ## Maturity workflow
 
@@ -5080,3 +5081,13 @@ content and remain at `new` until editorial review.
 | N2-1210 | [話しかける](entries/1562/1562300-hanashikakeru.org) | はなしかける | hanashikakeru | 1562300 | learner | draft | **new** | Editorial review |
 | N2-1211 | [話し中](entries/1600/1600920-hanashichuu.org) | はなしちゅう | hanashichuu | 1600920 | learner | draft | **new** | Editorial review |
 | N2-1212 | [花火](entries/1194/1194580-hanabi.org) | はなび | hanabi | 1194580 | learner | draft | **new** | Editorial review |
+| N2-1213 | [花嫁](entries/1194/1194570-hanayome.org) | はなよめ | hanayome | 1194570 | learner | draft | **new** | Editorial review |
+| N2-1214 | [放れる](entries/1516/1516540-hanareru.org) | はなれる | hanareru | 1516540 | learner | draft | **new** | Editorial review |
+| N2-1215 | [破片](entries/1471/1471420-hahen.org) | はへん | hahen | 1471420 | learner | draft | **new** | Editorial review |
+| N2-1216 | [歯磨き](entries/1601/1601040-hamigaki.org) | はみがき | hamigaki | 1601040 | learner | draft | **new** | Editorial review |
+| N2-1217 | [嵌める](entries/1566/1566420-hameru.org) | はめる | hameru | 1566420 | learner | draft | **new** | Editorial review |
+| N2-1218 | [流行る](entries/1552/1552310-hayaru.org) | はやる | hayaru | 1552310 | learner | draft | **new** | Editorial review |
+| N2-1219 | [払い込む](entries/1501/1501580-haraikomu.org) | はらいこむ | haraikomu | 1501580 | learner | draft | **new** | Editorial review |
+| N2-1220 | [払い戻す](entries/1501/1501610-haraimodosu.org) | はらいもどす | haraimodosu | 1501610 | learner | draft | **new** | Editorial review |
+| N2-1221 | [針金](entries/1366/1366250-harigane.org) | はりがね | harigane | 1366250 | learner | draft | **new** | Editorial review |
+| N2-1222 | [張り切る](entries/1427/1427870-harikiru.org) | はりきる | harikiru | 1427870 | learner | draft | **new** | Editorial review |
