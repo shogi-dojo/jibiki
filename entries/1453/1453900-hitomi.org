@@ -1,0 +1,318 @@
+#+TITLE: 瞳
+#+JMDICT_ID: 1453900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひとみ
+#+ROMAJI: hitomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1453900-001
+:PROPERTIES:
+:TEXT: 瞳
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf18
+** Written form wf-1453900-002
+:PROPERTIES:
+:TEXT: 眸
+:END:
+*** Information
+- rK
+** Written form wf-1453900-003
+:PROPERTIES:
+:TEXT: 睛
+:END:
+*** Information
+- sK
+** Reading rd-1453900-001
+:PROPERTIES:
+:TEXT: ひとみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf18
+
+* Sense s-1453900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85bcbac451fddf89fb28f9a71fe9a914eaf5cedcc0b6527be107218fa8e724f9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 瞳孔
+** English glosses
+- pupil (of the eye)
+** Ukrainian glosses
+*** uk-s-1453900-001-001
+:PROPERTIES:
+:END:
+- text :: зіниця
+*** uk-s-1453900-001-002
+:PROPERTIES:
+:END:
+- text :: зіниця ока
+** Learner notes
+*** note-s-1453900-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічно позначає зіницю ока. На відміну від медичного чи наукового терміна ~瞳孔~ (どうこう), слово ~瞳~ частіше вживається в повсякденній мові, художній літературі та поезії.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1453900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 暗(くら)い所(ところ)[で]瞳(ひとみ)[が]大(おお)きくなります。
+- READING :: くらい ところ で ひとみ が おおきく なります。
+- UK :: У темряві зіниці збільшуються.
+- EN :: The pupils get bigger in dark places.
+- FOCUS :: 瞳
+*** ex-1453900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医者(いしゃ)[が]ライト[で]患者(かんじゃ)[の]瞳(ひとみ)[を]確認(かくにん)した。
+- READING :: いしゃ が ライト で かんじゃ の ひとみ を かくにん した。
+- UK :: Лікар перевірив зіниці пацієнта ліхтариком.
+- EN :: The doctor checked the patient's pupils with a light.
+- FOCUS :: 瞳
+*** ex-1453900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼女(かのじょ)[の]大(おお)きな瞳(ひとみ)[に]吸(す)い込(こ)まれそうになった。
+- READING :: かのじょ の おおきな ひとみ に すいこまれそう に なった。
+- UK :: Мені здалося, ніби мене затягує в її великі очі.
+- EN :: I felt as if I were being drawn into her large eyes.
+- FOCUS :: 瞳
+
+* Sense s-1453900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 08dcca458301a552ffb6c6ed5e77fe74d9d2cafef750bfaa8260127b2a570798
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's eyes
+** Ukrainian glosses
+*** uk-s-1453900-002-001
+:PROPERTIES:
+:END:
+- text :: очі
+*** uk-s-1453900-002-002
+:PROPERTIES:
+:END:
+- text :: погляд
+** Learner notes
+*** note-s-1453900-002-001
+:PROPERTIES:
+:END:
+- UK :: У переносному чи літературному значенні вживається щодо очей або погляду загалом (наприклад, ~澄んだ瞳~ «чисті/ясні очі», ~つぶらな瞳~ «круглі блискучі оченята»).
+- LEVEL :: intermediate
+- REGISTER :: literary
+
+* Sense s-1453900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f845ff34177d6109ee85ae5cb30fb62c4f6142f7c17190e4bb2026ef2fe18144
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pupil
+*** en-s-1453900-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oogpupil
+** Ukrainian glosses
+
+* Sense s-1453900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5d0fd094e45ecc4faf7510952b0dc1d5ed42b52ac8d4c05e8f8cce6ff6ca02b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prunelle
+*** en-s-1453900-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pupille (œil)
+** Ukrainian glosses
+
+* Sense s-1453900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 88387f533baf240a8e4360d18be74d819534beb3ff234b08e35eb301b5138d1b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pupille
+*** en-s-1453900-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hitomi
+** Ukrainian glosses
+
+* Sense s-1453900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3acfc0e8181a984073f1b8477c3ed6c9e06a838b56f7ff433d42d87a59bfd157
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: figyelés
+*** en-s-1453900-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rügy
+*** en-s-1453900-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szem
+** Ukrainian glosses
+
+* Sense s-1453900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 50b38b3bd14c2c7a49ecb439e8fee35a4c6c5a8537453de618cbf5f7f89d17f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зрачок; (перен.) глаза
+** Ukrainian glosses
+
+* Sense s-1453900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ec849989e1fccd4d8b3e9f62efaf53ba5c5d191e845ef3fab30f862c1a341b2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenica
+** Ukrainian glosses
+
+* Sense s-1453900-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: f3b00c965f52ecdef4c445cfb2b8df7c809a86d0aece0f1047cd936c519ab54b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pupila
+** Ukrainian glosses
+
+* Sense s-1453900-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f5e107709bf767e337814e51911029f87de7d81869906d0f49603978ae1c316c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1453900-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ojo
+** Ukrainian glosses
