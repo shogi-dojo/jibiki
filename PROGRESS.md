@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4193 |
+| Canonical entry files | 4203 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1221 |
+| Canonical N2 entries | 1231 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1231 / 1635 (75.3%) |
+| N2 queue rows covered | 1242 / 1635 (76.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4156 |
+| `new` | 4166 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4183 |
+| Entry metadata still marked `draft` | 4193 |
 | Core profile | 163 |
-| Learner profile | 4029 |
+| Learner profile | 4039 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,10 +1023,10 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **130/200 new words** in batches of ten, one commit per word
+Completed **140/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
-entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
-and is excluded from the new-word count.
+entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
+existing entries and are excluded from the new-word count.
 
 The additions cover English semantic senses with original Ukrainian glosses
 and usage explanations, plus graded examples with Japanese text, kana,
@@ -1038,8 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1234 (発条, ばね). N2-1233 (バック) is an unchanged
-existing entry and will be recorded as an alias. N2-69 remains deferred for a
+untouched candidate is N2-1244 (引き受ける, ひきうける). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1058,6 +1057,7 @@ remains preserved.
 | 11 | N2-1203–1212 | 10 |
 | 12 | N2-1213–1222 | 10 |
 | 13 | N2-1223–1232 | 10 |
+| 14 | N2-1233–1243 | 10 |
 
 ## Maturity workflow
 
@@ -5103,3 +5103,14 @@ content and remain at `new` until editorial review.
 | N2-1230 | [売買](entries/1474/1474050-baibai.org) | ばいばい | baibai | 1474050 | learner | draft | **new** | Editorial review |
 | N2-1231 | [馬鹿らしい](entries/1612/1612910-bakarashii.org) | ばからしい | bakarashii | 1612910 | learner | draft | **new** | Editorial review |
 | N2-1232 | [馬穴](entries/1098/1098340-baketsu.org) | バケツ | baketsu | 1098340 | learner | draft | **new** | Editorial review |
+| N2-1233 | [バッグ](entries/1099/1099100-baggu.org) | バック | baggu | 1099100 | learner | draft | **existing** | Editorial review |
+| N2-1234 | [発条](entries/1099/1099490-bane.org) | ばね | bane | 1099490 | learner | draft | **new** | Editorial review |
+| N2-1235 | [バランス](entries/1099/1099690-baransu.org) | バランス | baransu | 1099690 | learner | draft | **new** | Editorial review |
+| N2-1236 | [万歳](entries/1601/1601350-banzai.org) | ばんざい | banzai | 1601350 | learner | draft | **new** | Editorial review |
+| N2-1237 | [番地](entries/1482/1482360-banchi.org) | ばんち | banchi | 1482360 | learner | draft | **new** | Editorial review |
+| N2-1238 | [バンド](entries/1100/1100240-bando.org) | バンド | bando | 1100240 | learner | draft | **new** | Editorial review |
+| N2-1239 | [パターン](entries/1101/1101600-pataan.org) | パターン | pataan | 1101600 | learner | draft | **new** | Editorial review |
+| N2-1240 | [パンツ](entries/1103/1103270-pantsu.org) | パンツ | pantsu | 1103270 | learner | draft | **new** | Editorial review |
+| N2-1241 | [日当たり](entries/1601/1601420-hiatari.org) | ひあたり | hiatari | 1601420 | learner | draft | **new** | Editorial review |
+| N2-1242 | [比較的](entries/1483/1483600-hikakuteki.org) | ひかくてき | hikakuteki | 1483600 | learner | draft | **new** | Editorial review |
+| N2-1243 | [日陰](entries/1463/1463840-hikage.org) | ひかげ | hikage | 1463840 | learner | draft | **new** | Editorial review |
