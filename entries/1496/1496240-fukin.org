@@ -1,0 +1,367 @@
+#+TITLE: 付近
+#+JMDICT_ID: 1496240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふきん
+#+ROMAJI: fukin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1496240-001
+:PROPERTIES:
+:TEXT: 付近
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Written form wf-1496240-002
+:PROPERTIES:
+:TEXT: 附近
+:END:
+*** Information
+- rK
+** Reading rd-1496240-001
+:PROPERTIES:
+:TEXT: ふきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1496240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 931a01fbe632f37cb0bc12a26f9971f872a7b366911c86454dd71c4a278f35f8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- neighborhood
+- neighbourhood
+- vicinity
+- environs
+- surrounding area
+- district
+** Ukrainian glosses
+*** uk-s-1496240-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: околиці
+*** uk-s-1496240-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поблизу
+*** uk-s-1496240-001-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: прилегла територія
+** Learner notes
+*** note-s-1496240-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та іменниковий суфікс, що позначає простір або місцевість поблизу певної точки чи орієнтира. Часто приєднується безпосередньо до власних назв або іменників без частки ~の~ (наприклад, ~駅付近~ — поблизу станції, район станції) або вживається з часткою (~この付近~ — у цих околицях, поблизу звідси). Не плутати з омонімом ~布巾~ (ふきん — ганчірка для посуду).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1496240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅(えき)付近(ふきん)[に]スーパー[が]あります。
+- READING :: えき ふきん に スーパー が あります。
+- UK :: Поблизу станції є супермаркет.
+- EN :: There is a supermarket near the station.
+- FOCUS :: 付近に
+*** ex-1496240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: [事故]{じこ}[の]現場(げんば)付近(ふきん)[は]、通行(つうこう)[が]規制(きせい)されている。
+- READING :: じこ の げんば ふきん は、つうこう が きせい されて いる。
+- UK :: Поблизу місця аварії рух транспорту обмежено.
+- EN :: Traffic is restricted in the vicinity of the accident scene.
+- FOCUS :: 現場付近は
+*** ex-1496240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 台風(たいふう)[が]接近(せっきん)しており、沿岸(えんがん)付近(ふきん)[の]住民(じゅうみん)[に]避難(ひなん)[が]呼(よ)びかけられた。
+- READING :: たいふう が せっきん して おり、えんがん ふきん の じゅうみん に ひなん が よびかけられた。
+- UK :: Оскільки наближається тайфун, жителів прибережних районів закликали евакуюватися.
+- EN :: As the typhoon was approaching, residents near the coast were urged to evacuate.
+- FOCUS :: 付近の
+
+* Sense s-1496240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 44acc9007fc03ee7e3647c7380381b94d47c341219aff0d042a9ac7ff614a532
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omgeving
+*** en-s-1496240-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buurt
+*** en-s-1496240-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omtrek
+*** en-s-1496240-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omstreken
+*** en-s-1496240-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nabijheid
+** Ukrainian glosses
+
+* Sense s-1496240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c728b75268e048e96aa71c73ee99edb970982fe65b0749673b08f0dd583c3a72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alentours
+*** en-s-1496240-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: environs
+*** en-s-1496240-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voisinage
+** Ukrainian glosses
+
+* Sense s-1496240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9c337ec726c156accb3d952509e791148cd34be93ade7a36202075f511660b66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umgebung
+*** en-s-1496240-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachbarschaft
+*** en-s-1496240-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nähe
+** Ukrainian glosses
+
+* Sense s-1496240-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 638481fbe7d720068219cd83a951dda281c836bd339048c92f32f0d819cd2756
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: környék
+*** en-s-1496240-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szomszédok
+*** en-s-1496240-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szomszédság
+** Ukrainian glosses
+
+* Sense s-1496240-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c107cb32a5620d3e1fd00655db0268488147940902651926b0186c5e2ce87783
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: окрестности
+*** en-s-1496240-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} пригородный
+** Ukrainian glosses
+
+* Sense s-1496240-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6e84eecebecca2bafc945e22c71380344a19d462340ff0c669fd30401bdee169
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bližina
+*** en-s-1496240-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soseska
+*** en-s-1496240-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okoliš
+** Ukrainian glosses
+
+* Sense s-1496240-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 43fce8b8c32a4413f38501679ab91a907341a9dec44788bc2124ffdeb5997dba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1496240-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alrededores
+*** en-s-1496240-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cercanías
+*** en-s-1496240-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inmediaciones
+** Ukrainian glosses
