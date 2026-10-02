@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4163 |
+| Canonical entry files | 4173 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1191 |
+| Canonical N2 entries | 1201 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1201 / 1635 (73.5%) |
+| N2 queue rows covered | 1211 / 1635 (74.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4126 |
+| `new` | 4136 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4153 |
+| Entry metadata still marked `draft` | 4163 |
 | Core profile | 163 |
-| Learner profile | 3999 |
+| Learner profile | 4009 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1020,26 +1020,25 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
 
-## Completed current-branch 100-word N2 PR (2026-10-01)
+## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **100/100 new words** in ten batches of ten, one commit per word
-under Ihor. Content author is `codex`. All 100 are distinct new N2 candidate
+Completed **110/200 new words** in batches of ten, one commit per word
+under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) is an unchanged existing entry
 and is excluded from the new-word count.
 
-The additions cover 210 English semantic senses with original Ukrainian glosses
-and usage explanations, plus 300 graded examples with Japanese text, kana,
+The additions cover English semantic senses with original Ukrainian glosses
+and usage explanations, plus graded examples with Japanese text, kana,
 Ukrainian and English translations. Audits verified distinct JMdict IDs,
 complete original-source sense fingerprints, primary example senses, example
 focus spans, Git authorship and ledger links. Fresh validation and Org lint
-passed for all 100 entries. Doctor averaged 100/100 with zero errors or warnings.
-The test suite passed 137 tests and 13,043 assertions; pinned JMdict and N2
-source checksums were verified.
+passed for all entries. Doctor averaged 100/100 with zero errors or warnings.
+The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1203 (発揮, はっき). N2-69 remains deferred for a
+untouched candidate is N2-1213 (花嫁, はなよめ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1055,6 +1054,7 @@ remains preserved.
 | 8 | N2-1173–1182 | 10 |
 | 9 | N2-1183–1192 | 10 |
 | 10 | N2-1193–1202 | 10 |
+| 11 | N2-1203–1212 | 10 |
 
 ## Maturity workflow
 
@@ -5070,3 +5070,13 @@ content and remain at `new` until editorial review.
 | N2-1200 | [果たして](entries/1600/1600780-hatashite.org) | はたして | hatashite | 1600780 | learner | draft | **new** | Editorial review |
 | N2-1201 | [肌着](entries/1476/1476500-hadagi.org) | はだぎ | hadagi | 1476500 | learner | draft | **new** | Editorial review |
 | N2-1202 | [鉢](entries/1477/1477090-hachi.org) | はち | hachi | 1477090 | learner | draft | **new** | Editorial review |
+| N2-1203 | [発揮](entries/1477/1477250-hakki.org) | はっき | hakki | 1477250 | learner | draft | **new** | Editorial review |
+| N2-1204 | [発射](entries/1477/1477490-hassha.org) | はっしゃ | hassha | 1477490 | learner | draft | **new** | Editorial review |
+| N2-1205 | [発想](entries/1477/1477660-hassou.org) | はっそう | hassou | 1477660 | learner | draft | **new** | Editorial review |
+| N2-1206 | [発電](entries/1477/1477750-hatsuden.org) | はつでん | hatsuden | 1477750 | learner | draft | **new** | Editorial review |
+| N2-1207 | [発売](entries/1477/1477810-hatsubai.org) | はつばい | hatsubai | 1477810 | learner | draft | **new** | Editorial review |
+| N2-1208 | [派手](entries/1471/1471140-hade.org) | はで | hade | 1471140 | learner | draft | **new** | Editorial review |
+| N2-1209 | [話し合い](entries/1600/1600910-hanashiai.org) | はなしあい | hanashiai | 1600910 | learner | draft | **new** | Editorial review |
+| N2-1210 | [話しかける](entries/1562/1562300-hanashikakeru.org) | はなしかける | hanashikakeru | 1562300 | learner | draft | **new** | Editorial review |
+| N2-1211 | [話し中](entries/1600/1600920-hanashichuu.org) | はなしちゅう | hanashichuu | 1600920 | learner | draft | **new** | Editorial review |
+| N2-1212 | [花火](entries/1194/1194580-hanabi.org) | はなび | hanabi | 1194580 | learner | draft | **new** | Editorial review |
