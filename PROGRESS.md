@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4233 |
+| Canonical entry files | 4243 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1261 |
+| Canonical N2 entries | 1271 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1272 / 1635 (77.8%) |
+| N2 queue rows covered | 1282 / 1635 (78.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4196 |
+| `new` | 4206 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4223 |
+| Entry metadata still marked `draft` | 4233 |
 | Core profile | 163 |
-| Learner profile | 4069 |
+| Learner profile | 4079 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **170/200 new words** in batches of ten, one commit per word
+Completed **180/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1274 (百科事典, ひゃっかじてん). N2-69 remains deferred for a
+untouched candidate is N2-1284 (広さ, ひろさ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1061,6 +1061,7 @@ remains preserved.
 | 15 | N2-1244–1253 | 10 |
 | 16 | N2-1254–1263 | 10 |
 | 17 | N2-1264–1273 | 10 |
+| 18 | N2-1274–1283 | 10 |
 
 ## Maturity workflow
 
@@ -5147,3 +5148,13 @@ content and remain at `new` until editorial review.
 | N2-1271 | [響き](entries/1602/1602130-hibiki.org) | ひびき | hibiki | 1602130 | learner | draft | **new** | Editorial review |
 | N2-1272 | [響く](entries/1238/1238610-hibiku.org) | ひびく | hibiku | 1238610 | learner | draft | **new** | Editorial review |
 | N2-1273 | [皮膚](entries/1483/1483920-hifu.org) | ひふ | hifu | 1483920 | learner | draft | **new** | Editorial review |
+| N2-1274 | [百科事典](entries/1602/1602190-hyakkajiten.org) | ひゃっかじてん | hyakkajiten | 1602190 | learner | draft | **new** | Editorial review |
+| N2-1275 | [冷やす](entries/1556/1556770-hiyasu.org) | ひやす | hiyasu | 1556770 | learner | draft | **new** | Editorial review |
+| N2-1276 | [表紙](entries/1489/1489600-hyoushi.org) | ひょうし | hyoushi | 1489600 | learner | draft | **new** | Editorial review |
+| N2-1277 | [標識](entries/1488/1488700-hyoushiki.org) | ひょうしき | hyoushiki | 1488700 | learner | draft | **new** | Editorial review |
+| N2-1278 | [標準](entries/1488/1488710-hyoujun.org) | ひょうじゅん | hyoujun | 1488710 | learner | draft | **new** | Editorial review |
+| N2-1279 | [標本](entries/1488/1488820-hyouhon.org) | ひょうほん | hyouhon | 1488820 | learner | draft | **new** | Editorial review |
+| N2-1280 | [評論](entries/1490/1490080-hyouron.org) | ひょうろん | hyouron | 1490080 | learner | draft | **new** | Editorial review |
+| N2-1281 | [平仮名](entries/1507/1507090-hiragana.org) | ひらがな | hiragana | 1507090 | learner | draft | **new** | Editorial review |
+| N2-1282 | [昼寝](entries/1426/1426370-hirune.org) | ひるね | hirune | 1426370 | learner | draft | **new** | Editorial review |
+| N2-1283 | [広げる](entries/1602/1602370-hirogeru.org) | ひろげる | hirogeru | 1602370 | learner | draft | **new** | Editorial review |
