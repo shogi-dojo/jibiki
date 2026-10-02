@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4253 |
+| Canonical entry files | 4263 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1281 |
+| Canonical N2 entries | 1291 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1292 / 1635 (79.0%) |
+| N2 queue rows covered | 1302 / 1635 (79.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4216 |
+| `new` | 4226 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4243 |
+| Entry metadata still marked `draft` | 4253 |
 | Core profile | 163 |
-| Learner profile | 4089 |
+| Learner profile | 4099 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1020,10 +1020,10 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
 
-## Current-branch 200-word N2 continuation (2026-10-02)
+## Completed current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **190/200 new words** in batches of ten, one commit per word
+Completed **200/200 new words** in twenty batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1294 (ピカピカ, ぴかぴか). N2-69 remains deferred for a
+untouched candidate is N2-1304 (副詞, ふくし). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1063,6 +1063,7 @@ remains preserved.
 | 17 | N2-1264–1273 | 10 |
 | 18 | N2-1274–1283 | 10 |
 | 19 | N2-1284–1293 | 10 |
+| 20 | N2-1294–1303 | 10 |
 
 ## Maturity workflow
 
@@ -5169,3 +5170,13 @@ content and remain at `new` until editorial review.
 | N2-1291 | [ビルディング](entries/1106/1106040-birudingu.org) | ビルディング | birudingu | 1106040 | learner | draft | **new** | Editorial review |
 | N2-1292 | [便箋](entries/1512/1512640-binsen.org) | びんせん | binsen | 1512640 | learner | draft | **new** | Editorial review |
 | N2-1293 | [瓶詰め](entries/1491/1491130-binzume.org) | びんづめ | binzume | 1491130 | learner | draft | **new** | Editorial review |
+| N2-1294 | [ピカピカ](entries/1010/1010830-pikapika.org) | ピカピカ | pikapika | 1010830 | learner | draft | **new** | Editorial review |
+| N2-1295 | [ピストル](entries/1106/1106660-pisutoru.org) | ピストル | pisutoru | 1106660 | learner | draft | **new** | Editorial review |
+| N2-1296 | [ピンク](entries/1107/1107140-pinku.org) | ピンク | pinku | 1107140 | learner | draft | **new** | Editorial review |
+| N2-1297 | [ファスナー](entries/1108/1108160-fasunaa.org) | ファスナー | fasunaa | 1108160 | learner | draft | **new** | Editorial review |
+| N2-1298 | [不運](entries/1491/1491290-fuun.org) | ふうん | fuun | 1491290 | learner | draft | **new** | Editorial review |
+| N2-1299 | [深まる](entries/1362/1362660-fukamaru.org) | ふかまる | fukamaru | 1362660 | learner | draft | **new** | Editorial review |
+| N2-1300 | [不規則](entries/1491/1491840-fukisoku.org) | ふきそく | fukisoku | 1491840 | learner | draft | **new** | Editorial review |
+| N2-1301 | [普及](entries/1497/1497110-fukyuu.org) | ふきゅう | fukyuu | 1497110 | learner | draft | **new** | Editorial review |
+| N2-1302 | [付近](entries/1496/1496240-fukin.org) | ふきん | fukin | 1496240 | learner | draft | **new** | Editorial review |
+| N2-1303 | [拭く](entries/1357/1357240-fuku.org) | ふく | fuku | 1357240 | learner | draft | **new** | Editorial review |
