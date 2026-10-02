@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4213 |
+| Canonical entry files | 4223 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1241 |
+| Canonical N2 entries | 1251 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1252 / 1635 (76.6%) |
+| N2 queue rows covered | 1262 / 1635 (77.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4176 |
+| `new` | 4186 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4203 |
+| Entry metadata still marked `draft` | 4213 |
 | Core profile | 163 |
-| Learner profile | 4049 |
+| Learner profile | 4059 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **150/200 new words** in batches of ten, one commit per word
+Completed **160/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1254 (引っ越し, ひっこし). N2-69 remains deferred for a
+untouched candidate is N2-1264 (独り言, ひとりごと). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1059,6 +1059,7 @@ remains preserved.
 | 13 | N2-1223–1232 | 10 |
 | 14 | N2-1233–1243 | 10 |
 | 15 | N2-1244–1253 | 10 |
+| 16 | N2-1254–1263 | 10 |
 
 ## Maturity workflow
 
@@ -5125,3 +5126,13 @@ content and remain at `new` until editorial review.
 | N2-1251 | [引っかかる](entries/1169/1169350-hikkakaru.org) | ひっかかる | hikkakaru | 1169350 | learner | draft | **new** | Editorial review |
 | N2-1252 | [ひっくり返す](entries/1601/1601870-hikkurikaesu.org) | ひっくりかえす | hikkurikaesu | 1601870 | learner | draft | **new** | Editorial review |
 | N2-1253 | [ひっくり返る](entries/1169/1169320-hikkurikaeru.org) | ひっくりかえる | hikkurikaeru | 1169320 | learner | draft | **new** | Editorial review |
+| N2-1254 | [引っ越し](entries/1601/1601880-hikkoshi.org) | ひっこし | hikkoshi | 1601880 | learner | draft | **new** | Editorial review |
+| N2-1255 | [引っ込む](entries/1169/1169390-hikkomu.org) | ひっこむ | hikkomu | 1169390 | learner | draft | **new** | Editorial review |
+| N2-1256 | [筆者](entries/1487/1487830-hissha.org) | ひっしゃ | hissha | 1487830 | learner | draft | **new** | Editorial review |
+| N2-1257 | [必需品](entries/1487/1487500-hitsujuhin.org) | ひつじゅひん | hitsujuhin | 1487500 | learner | draft | **new** | Editorial review |
+| N2-1258 | [人差し指](entries/1601/1601940-hitosashiyubi.org) | ひとさしゆび | hitosashiyubi | 1601940 | learner | draft | **new** | Editorial review |
+| N2-1259 | [一通り](entries/1164/1164910-hitotoori.org) | ひととおり | hitotoori | 1164910 | learner | draft | **new** | Editorial review |
+| N2-1260 | [人通り](entries/1368/1368820-hitodoori.org) | ひとどおり | hitodoori | 1368820 | learner | draft | **new** | Editorial review |
+| N2-1261 | [一先ず](entries/1601/1601990-hitomazu.org) | ひとまず | hitomazu | 1601990 | learner | draft | **new** | Editorial review |
+| N2-1262 | [瞳](entries/1453/1453900-hitomi.org) | ひとみ | hitomi | 1453900 | learner | draft | **new** | Editorial review |
+| N2-1263 | [一休み](entries/1161/1161830-hitoyasumi.org) | ひとやすみ | hitoyasumi | 1161830 | learner | draft | **new** | Editorial review |
