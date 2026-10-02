@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4223 |
+| Canonical entry files | 4233 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1251 |
+| Canonical N2 entries | 1261 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1262 / 1635 (77.2%) |
+| N2 queue rows covered | 1272 / 1635 (77.8%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4186 |
+| `new` | 4196 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4213 |
+| Entry metadata still marked `draft` | 4223 |
 | Core profile | 163 |
-| Learner profile | 4059 |
+| Learner profile | 4069 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 200-word N2 continuation (2026-10-02)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **160/200 new words** in batches of ten, one commit per word
+Completed **170/200 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1264 (独り言, ひとりごと). N2-69 remains deferred for a
+untouched candidate is N2-1274 (百科事典, ひゃっかじてん). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1060,6 +1060,7 @@ remains preserved.
 | 14 | N2-1233–1243 | 10 |
 | 15 | N2-1244–1253 | 10 |
 | 16 | N2-1254–1263 | 10 |
+| 17 | N2-1264–1273 | 10 |
 
 ## Maturity workflow
 
@@ -5136,3 +5137,13 @@ content and remain at `new` until editorial review.
 | N2-1261 | [一先ず](entries/1601/1601990-hitomazu.org) | ひとまず | hitomazu | 1601990 | learner | draft | **new** | Editorial review |
 | N2-1262 | [瞳](entries/1453/1453900-hitomi.org) | ひとみ | hitomi | 1453900 | learner | draft | **new** | Editorial review |
 | N2-1263 | [一休み](entries/1161/1161830-hitoyasumi.org) | ひとやすみ | hitoyasumi | 1161830 | learner | draft | **new** | Editorial review |
+| N2-1264 | [独り言](entries/1455/1455670-hitorigoto.org) | ひとりごと | hitorigoto | 1455670 | learner | draft | **new** | Editorial review |
+| N2-1265 | [独りでに](entries/1455/1455660-hitorideni.org) | ひとりでに | hitorideni | 1455660 | learner | draft | **new** | Editorial review |
+| N2-1266 | [皮肉](entries/1483/1483900-hiniku.org) | ひにく | hiniku | 1483900 | learner | draft | **new** | Editorial review |
+| N2-1267 | [日にち](entries/1611/1611370-hinichi.org) | ひにち | hinichi | 1611370 | learner | draft | **new** | Editorial review |
+| N2-1268 | [捻る](entries/1469/1469530-hineru.org) | ひねる | hineru | 1469530 | learner | draft | **new** | Editorial review |
+| N2-1269 | [日の入り](entries/1463/1463800-hinoiri.org) | ひのいり | hinoiri | 1463800 | learner | draft | **new** | Editorial review |
+| N2-1270 | [日の出](entries/1463/1463790-hinode.org) | ひので | hinode | 1463790 | learner | draft | **new** | Editorial review |
+| N2-1271 | [響き](entries/1602/1602130-hibiki.org) | ひびき | hibiki | 1602130 | learner | draft | **new** | Editorial review |
+| N2-1272 | [響く](entries/1238/1238610-hibiku.org) | ひびく | hibiku | 1238610 | learner | draft | **new** | Editorial review |
+| N2-1273 | [皮膚](entries/1483/1483920-hifu.org) | ひふ | hifu | 1483920 | learner | draft | **new** | Editorial review |
