@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4453 |
+| Canonical entry files | 4463 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1481 |
+| Canonical N2 entries | 1491 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1493 / 1635 (91.3%) |
+| N2 queue rows covered | 1503 / 1635 (91.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4416 |
+| `new` | 4426 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4443 |
+| Entry metadata still marked `draft` | 4453 |
 | Core profile | 163 |
-| Learner profile | 4289 |
+| Learner profile | 4299 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **390/400 new words** in batches of ten, one commit per word
+Completed **400/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1496 (メニュー, めにゅー). N2-69 remains deferred for a
+untouched candidate is N2-1506 (木材, もくざい). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1084,6 +1084,7 @@ remains preserved.
 | 37 | N2-1465–1474 | 10 |
 | 38 | N2-1475–1484 | 10 |
 | 39 | N2-1485–1495 | 10 |
+| 40 | N2-1496–1505 | 10 |
 
 ## Maturity workflow
 
@@ -5390,3 +5391,13 @@ content and remain at `new` until editorial review.
 | N2-1493 | [滅茶苦茶](entries/1533/1533000-mechakucha.org) | めちゃくちゃ | mechakucha | 1533000 | learner | draft | **new** | Editorial review |
 | N2-1494 | [めっきり](entries/1012/1012470-mekkiri.org) | めっきり | mekkiri | 1012470 | learner | draft | **new** | Editorial review |
 | N2-1495 | [目出度い](entries/1608/1608630-medetai.org) | めでたい | medetai | 1608630 | learner | draft | **new** | Editorial review |
+| N2-1496 | [メニュー](entries/1133/1133790-menyuu.org) | メニュー | menyuu | 1133790 | learner | draft | **new** | Editorial review |
+| N2-1497 | [眩暈](entries/1569/1569810-memai.org) | めまい | memai | 1569810 | learner | draft | **new** | Editorial review |
+| N2-1498 | [目安](entries/1535/1535280-meyasu.org) | めやす | meyasu | 1535280 | learner | draft | **new** | Editorial review |
+| N2-1499 | [面積](entries/1533/1533500-menseki.org) | めんせき | menseki | 1533500 | learner | draft | **new** | Editorial review |
+| N2-1500 | [面接](entries/1533/1533510-mensetsu.org) | めんせつ | mensetsu | 1533510 | learner | draft | **new** | Editorial review |
+| N2-1501 | [面倒くさい](entries/1533/1533560-mendokusai.org) | めんどくさい | mendokusai | 1533560 | learner | draft | **new** | Editorial review |
+| N2-1502 | [メーター](entries/1132/1132530-meetaa.org) | メーター | meetaa | 1132530 | learner | draft | **new** | Editorial review |
+| N2-1503 | [儲かる](entries/1534/1534490-moukaru.org) | もうかる | moukaru | 1534490 | learner | draft | **new** | Editorial review |
+| N2-1504 | [儲ける](entries/1534/1534500-moukeru.org) | もうける | moukeru | 1534500 | learner | draft | **new** | Editorial review |
+| N2-1505 | [申し訳ない](entries/1612/1612040-moushiwakenai.org) | もうしわけない | moushiwakenai | 1612040 | learner | draft | **new** | Editorial review |
