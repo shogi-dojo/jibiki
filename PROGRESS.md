@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4403 |
+| Canonical entry files | 4413 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1431 |
+| Canonical N2 entries | 1441 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1443 / 1635 (88.3%) |
+| N2 queue rows covered | 1453 / 1635 (88.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4366 |
+| `new` | 4376 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4393 |
+| Entry metadata still marked `draft` | 4403 |
 | Core profile | 163 |
-| Learner profile | 4239 |
+| Learner profile | 4249 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **340/400 new words** in batches of ten, one commit per word
+Completed **350/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1445 (満員, まんいん). N2-69 remains deferred for a
+untouched candidate is N2-1455 (道順, みちじゅん). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1079,6 +1079,7 @@ remains preserved.
 | 32 | N2-1414–1424 | 10 |
 | 33 | N2-1425–1434 | 10 |
 | 34 | N2-1435–1444 | 10 |
+| 35 | N2-1445–1454 | 10 |
 
 ## Maturity workflow
 
@@ -5335,3 +5336,13 @@ content and remain at `new` until editorial review.
 | N2-1442 | [マラソン](entries/1129/1129290-marason.org) | マラソン | marason | 1129290 | learner | draft | **new** | Editorial review |
 | N2-1443 | [稀](entries/1604/1604280-mare.org) | まれ | mare | 1604280 | learner | draft | **new** | Editorial review |
 | N2-1444 | [回り道](entries/1199/1199360-mawarimichi.org) | まわりみち | mawarimichi | 1199360 | learner | draft | **new** | Editorial review |
+| N2-1445 | [満員](entries/1526/1526720-manin.org) | まんいん | manin | 1526720 | learner | draft | **new** | Editorial review |
+| N2-1446 | [マンション](entries/1130/1130040-manshon.org) | マンション | manshon | 1130040 | learner | draft | **new** | Editorial review |
+| N2-1447 | [満点](entries/1604/1604340-manten.org) | まんてん | manten | 1604340 | learner | draft | **new** | Editorial review |
+| N2-1448 | [見送る](entries/1259/1259830-miokuru.org) | みおくる | miokuru | 1259830 | learner | draft | **new** | Editorial review |
+| N2-1449 | [見下ろす](entries/1259/1259370-miorosu.org) | みおろす | miorosu | 1259370 | learner | draft | **new** | Editorial review |
+| N2-1450 | [見かけ](entries/1604/1604420-mikake.org) | みかけ | mikake | 1604420 | learner | draft | **new** | Editorial review |
+| N2-1451 | [ミシン](entries/1130/1130640-mishin.org) | ミシン | mishin | 1130640 | learner | draft | **new** | Editorial review |
+| N2-1452 | [惨め](entries/1303/1303280-mijime.org) | みじめ | mijime | 1303280 | learner | draft | **new** | Editorial review |
+| N2-1453 | [店屋](entries/1910/1910260-miseya.org) | みせや | miseya | 1910260 | learner | draft | **new** | Editorial review |
+| N2-1454 | [見出し](entries/1259/1259710-midashi.org) | みだし | midashi | 1259710 | learner | draft | **new** | Editorial review |
