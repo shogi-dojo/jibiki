@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4263 |
+| Canonical entry files | 4273 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1291 |
+| Canonical N2 entries | 1301 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1302 / 1635 (79.6%) |
+| N2 queue rows covered | 1312 / 1635 (80.2%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4226 |
+| `new` | 4236 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4253 |
+| Entry metadata still marked `draft` | 4263 |
 | Core profile | 163 |
-| Learner profile | 4099 |
+| Learner profile | 4109 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1020,10 +1020,10 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
 
-## Completed current-branch 200-word N2 continuation (2026-10-02)
+## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **200/200 new words** in twenty batches of ten, one commit per word
+Completed **210/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1304 (副詞, ふくし). N2-69 remains deferred for a
+untouched candidate is N2-1314 (塞ぐ, ふさぐ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1064,6 +1064,7 @@ remains preserved.
 | 18 | N2-1274–1283 | 10 |
 | 19 | N2-1284–1293 | 10 |
 | 20 | N2-1294–1303 | 10 |
+| 21 | N2-1304–1313 | 10 |
 
 ## Maturity workflow
 
@@ -5180,3 +5181,13 @@ content and remain at `new` until editorial review.
 | N2-1301 | [普及](entries/1497/1497110-fukyuu.org) | ふきゅう | fukyuu | 1497110 | learner | draft | **new** | Editorial review |
 | N2-1302 | [付近](entries/1496/1496240-fukin.org) | ふきん | fukin | 1496240 | learner | draft | **new** | Editorial review |
 | N2-1303 | [拭く](entries/1357/1357240-fuku.org) | ふく | fuku | 1357240 | learner | draft | **new** | Editorial review |
+| N2-1304 | [副詞](entries/1500/1500440-fukushi.org) | ふくし | fukushi | 1500440 | learner | draft | **new** | Editorial review |
+| N2-1305 | [複写](entries/1501/1501390-fukusha.org) | ふくしゃ | fukusha | 1501390 | learner | draft | **new** | Editorial review |
+| N2-1306 | [複数](entries/1501/1501400-fukusuu.org) | ふくすう | fukusuu | 1501400 | learner | draft | **new** | Editorial review |
+| N2-1307 | [含める](entries/1216/1216890-fukumeru.org) | ふくめる | fukumeru | 1216890 | learner | draft | **new** | Editorial review |
+| N2-1308 | [膨らます](entries/1519/1519970-fukuramasu.org) | ふくらます | fukuramasu | 1519970 | learner | draft | **new** | Editorial review |
+| N2-1309 | [膨らむ](entries/1519/1519990-fukuramu.org) | ふくらむ | fukuramu | 1519990 | learner | draft | **new** | Editorial review |
+| N2-1310 | [更ける](entries/1279/1279290-fukeru.org) | ふける | fukeru | 1279290 | learner | draft | **new** | Editorial review |
+| N2-1311 | [符号](entries/1497/1497710-fugou.org) | ふごう | fugou | 1497710 | learner | draft | **new** | Editorial review |
+| N2-1312 | [夫妻](entries/1496/1496520-fusai.org) | ふさい | fusai | 1496520 | learner | draft | **new** | Editorial review |
+| N2-1313 | [塞がる](entries/1602/1602570-fusagaru.org) | ふさがる | fusagaru | 1602570 | learner | draft | **new** | Editorial review |
