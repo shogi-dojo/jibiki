@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4413 |
+| Canonical entry files | 4423 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1441 |
+| Canonical N2 entries | 1451 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1453 / 1635 (88.9%) |
+| N2 queue rows covered | 1463 / 1635 (89.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4376 |
+| `new` | 4386 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4403 |
+| Entry metadata still marked `draft` | 4413 |
 | Core profile | 163 |
-| Learner profile | 4249 |
+| Learner profile | 4259 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **350/400 new words** in batches of ten, one commit per word
+Completed **360/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1455 (道順, みちじゅん). N2-69 remains deferred for a
+untouched candidate is N2-1465 (ミリ, みり). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1080,6 +1080,7 @@ remains preserved.
 | 33 | N2-1425–1434 | 10 |
 | 34 | N2-1435–1444 | 10 |
 | 35 | N2-1445–1454 | 10 |
+| 36 | N2-1455–1464 | 10 |
 
 ## Maturity workflow
 
@@ -5346,3 +5347,13 @@ content and remain at `new` until editorial review.
 | N2-1452 | [惨め](entries/1303/1303280-mijime.org) | みじめ | mijime | 1303280 | learner | draft | **new** | Editorial review |
 | N2-1453 | [店屋](entries/1910/1910260-miseya.org) | みせや | miseya | 1910260 | learner | draft | **new** | Editorial review |
 | N2-1454 | [見出し](entries/1259/1259710-midashi.org) | みだし | midashi | 1259710 | learner | draft | **new** | Editorial review |
+| N2-1455 | [道順](entries/1611/1611770-michijun.org) | みちじゅん | michijun | 1611770 | learner | draft | **new** | Editorial review |
+| N2-1456 | [見直す](entries/1259/1259900-minaosu.org) | みなおす | minaosu | 1259900 | learner | draft | **new** | Editorial review |
+| N2-1457 | [見慣れる](entries/1604/1604650-minareru.org) | みなれる | minareru | 1604650 | learner | draft | **new** | Editorial review |
+| N2-1458 | [醜い](entries/1333/1333810-minikui.org) | みにくい | minikui | 1333810 | learner | draft | **new** | Editorial review |
+| N2-1459 | [実る](entries/1320/1320850-minoru.org) | みのる | minoru | 1320850 | learner | draft | **new** | Editorial review |
+| N2-1460 | [身分](entries/1365/1365810-mibun.org) | みぶん | mibun | 1365810 | learner | draft | **new** | Editorial review |
+| N2-1461 | [見本](entries/1260/1260100-mihon.org) | みほん | mihon | 1260100 | learner | draft | **new** | Editorial review |
+| N2-1462 | [見舞う](entries/1259/1259990-mimau.org) | みまう | mimau | 1259990 | learner | draft | **new** | Editorial review |
+| N2-1463 | [未満](entries/1528/1528040-miman.org) | みまん | miman | 1528040 | learner | draft | **new** | Editorial review |
+| N2-1464 | [苗字](entries/1604/1604730-myouji.org) | みょうじ | myouji | 1604730 | learner | draft | **new** | Editorial review |
