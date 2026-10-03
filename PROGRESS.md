@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4433 |
+| Canonical entry files | 4443 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1461 |
+| Canonical N2 entries | 1471 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1473 / 1635 (90.1%) |
+| N2 queue rows covered | 1483 / 1635 (90.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4396 |
+| `new` | 4406 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4423 |
+| Entry metadata still marked `draft` | 4433 |
 | Core profile | 163 |
-| Learner profile | 4269 |
+| Learner profile | 4279 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **370/400 new words** in batches of ten, one commit per word
+Completed **380/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1475 (群れ, むれ). N2-69 remains deferred for a
+untouched candidate is N2-1485 (目上, めうえ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1082,6 +1082,7 @@ remains preserved.
 | 35 | N2-1445–1454 | 10 |
 | 36 | N2-1455–1464 | 10 |
 | 37 | N2-1465–1474 | 10 |
+| 38 | N2-1475–1484 | 10 |
 
 ## Maturity workflow
 
@@ -5368,3 +5369,13 @@ content and remain at `new` until editorial review.
 | N2-1472 | [無地](entries/1530/1530650-muji.org) | むじ | muji | 1530650 | learner | draft | **new** | Editorial review |
 | N2-1473 | [矛盾](entries/1531/1531090-mujun.org) | むじゅん | mujun | 1531090 | learner | draft | **new** | Editorial review |
 | N2-1474 | [蒸す](entries/1356/1356900-musu.org) | むす | musu | 1356900 | learner | draft | **new** | Editorial review |
+| N2-1475 | [群れ](entries/1247/1247510-mure.org) | むれ | mure | 1247510 | learner | draft | **new** | Editorial review |
+| N2-1476 | [姪](entries/1532/1532940-mei.org) | めい | mei | 1532940 | learner | draft | **new** | Editorial review |
+| N2-1477 | [名作](entries/1531/1531500-meisaku.org) | めいさく | meisaku | 1531500 | learner | draft | **new** | Editorial review |
+| N2-1478 | [名刺](entries/1531/1531550-meishi.org) | めいし | meishi | 1531550 | learner | draft | **new** | Editorial review |
+| N2-1479 | [名詞](entries/1531/1531570-meishi.org) | めいし | meishi | 1531570 | learner | draft | **new** | Editorial review |
+| N2-1480 | [名所](entries/1531/1531600-meisho.org) | めいしょ | meisho | 1531600 | learner | draft | **new** | Editorial review |
+| N2-1481 | [迷信](entries/1532/1532760-meishin.org) | めいしん | meishin | 1532760 | learner | draft | **new** | Editorial review |
+| N2-1482 | [命ずる](entries/1531/1531970-meizuru.org) | めいずる | meizuru | 1531970 | learner | draft | **new** | Editorial review |
+| N2-1483 | [名物](entries/1531/1531810-meibutsu.org) | めいぶつ | meibutsu | 1531810 | learner | draft | **new** | Editorial review |
+| N2-1484 | [銘々](entries/1532/1532810-meimei.org) | めいめい | meimei | 1532810 | learner | draft | **new** | Editorial review |
