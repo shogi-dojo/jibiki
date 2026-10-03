@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4353 |
+| Canonical entry files | 4363 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1381 |
+| Canonical N2 entries | 1391 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1392 / 1635 (85.1%) |
+| N2 queue rows covered | 1402 / 1635 (85.7%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4316 |
+| `new` | 4326 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4343 |
+| Entry metadata still marked `draft` | 4353 |
 | Core profile | 163 |
-| Learner profile | 4189 |
+| Learner profile | 4199 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **290/300 new words** in batches of ten, one commit per word
+Completed **300/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1394 (掘る, ほる). N2-69 remains deferred for a
+untouched candidate is N2-1404 (募集, ぼしゅう). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1073,6 +1073,7 @@ remains preserved.
 | 27 | N2-1364–1373 | 10 |
 | 28 | N2-1374–1383 | 10 |
 | 29 | N2-1384–1393 | 10 |
+| 30 | N2-1394–1403 | 10 |
 
 ## Maturity workflow
 
@@ -5279,3 +5280,13 @@ content and remain at `new` until editorial review.
 | N2-1391 | [北極](entries/1520/1520890-hokkyoku.org) | ほっきょく | hokkyoku | 1520890 | learner | draft | **new** | Editorial review |
 | N2-1392 | [解く](entries/1198/1198900-hodoku.org) | ほどく | hodoku | 1198900 | learner | draft | **new** | Editorial review |
 | N2-1393 | [彫る](entries/1427/1427950-horu.org) | ほる | horu | 1427950 | learner | draft | **new** | Editorial review |
+| N2-1394 | [掘る](entries/1246/1246690-horu.org) | ほる | horu | 1246690 | learner | draft | **new** | Editorial review |
+| N2-1395 | [本来](entries/1523/1523270-honrai.org) | ほんらい | honrai | 1523270 | learner | draft | **new** | Editorial review |
+| N2-1396 | [望遠鏡](entries/1519/1519650-bouenkyou.org) | ぼうえんきょう | bouenkyou | 1519650 | learner | draft | **new** | Editorial review |
+| N2-1397 | [坊さん](entries/1519/1519050-bousan.org) | ぼうさん | bousan | 1519050 | learner | draft | **new** | Editorial review |
+| N2-1398 | [防止](entries/1520/1520380-boushi.org) | ぼうし | boushi | 1520380 | learner | draft | **new** | Editorial review |
+| N2-1399 | [膨大](entries/1603/1603660-boudai.org) | ぼうだい | boudai | 1603660 | learner | draft | **new** | Editorial review |
+| N2-1400 | [防犯](entries/1520/1520570-bouhan.org) | ぼうはん | bouhan | 1520570 | learner | draft | **new** | Editorial review |
+| N2-1401 | [坊や](entries/1519/1519060-bouya.org) | ぼうや | bouya | 1519060 | learner | draft | **new** | Editorial review |
+| N2-1402 | [牧場](entries/1584/1584250-bokujou.org) | ぼくじょう | bokujou | 1584250 | learner | draft | **new** | Editorial review |
+| N2-1403 | [牧畜](entries/1521/1521820-bokuchiku.org) | ぼくちく | bokuchiku | 1521820 | learner | draft | **new** | Editorial review |
