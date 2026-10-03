@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4293 |
+| Canonical entry files | 4303 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1321 |
+| Canonical N2 entries | 1331 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1332 / 1635 (81.5%) |
+| N2 queue rows covered | 1342 / 1635 (82.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4256 |
+| `new` | 4266 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4283 |
+| Entry metadata still marked `draft` | 4293 |
 | Core profile | 163 |
-| Learner profile | 4129 |
+| Learner profile | 4139 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **230/300 new words** in batches of ten, one commit per word
+Completed **240/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1334 (無沙汰, ぶさた). N2-69 remains deferred for a
+untouched candidate is N2-1344 (ブラシ, ブラシ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1067,6 +1067,7 @@ remains preserved.
 | 21 | N2-1304–1313 | 10 |
 | 22 | N2-1314–1323 | 10 |
 | 23 | N2-1324–1333 | 10 |
+| 24 | N2-1334–1343 | 10 |
 
 ## Maturity workflow
 
@@ -5213,3 +5214,13 @@ content and remain at `new` until editorial review.
 | N2-1331 | [ふわふわ](entries/1113/1113060-fuwafuwa.org) | ふわふわ | fuwafuwa | 1113060 | learner | draft | **new** | Editorial review |
 | N2-1332 | [噴火](entries/1504/1504560-funka.org) | ふんか | funka | 1504560 | learner | draft | **new** | Editorial review |
 | N2-1333 | [噴水](entries/1504/1504610-funsui.org) | ふんすい | funsui | 1504610 | learner | draft | **new** | Editorial review |
+| N2-1334 | [無沙汰](entries/1672/1672130-busata.org) | ぶさた | busata | 1672130 | learner | draft | **new** | Editorial review |
+| N2-1335 | [武士](entries/1583/1583680-bushi.org) | ぶし | bushi | 1583680 | learner | draft | **new** | Editorial review |
+| N2-1336 | [部首](entries/1499/1499400-bushu.org) | ぶしゅ | bushu | 1499400 | learner | draft | **new** | Editorial review |
+| N2-1337 | [物騒](entries/1502/1502640-bussou.org) | ぶっそう | bussou | 1502640 | learner | draft | **new** | Editorial review |
+| N2-1338 | [ぶつかる](entries/1011/1011180-butsukaru.org) | ぶつかる | butsukaru | 1011180 | learner | draft | **new** | Editorial review |
+| N2-1339 | [打付ける](entries/2742/2742080-butsukeru.org) | ぶつける | butsukeru | 2742080 | learner | draft | **new** | Editorial review |
+| N2-1340 | [ぶつぶつ](entries/1011/1011200-butsubutsu.org) | ぶつぶつ | butsubutsu | 1011200 | learner | draft | **new** | Editorial review |
+| N2-1341 | [部品](entries/1499/1499480-buhin.org) | ぶひん | buhin | 1499480 | learner | draft | **new** | Editorial review |
+| N2-1342 | [ブラウス](entries/1113/1113650-burausu.org) | ブラウス | burausu | 1113650 | learner | draft | **new** | Editorial review |
+| N2-1343 | [ぶら下げる](entries/1011/1011250-burasageru.org) | ぶらさげる | burasageru | 1011250 | learner | draft | **new** | Editorial review |
