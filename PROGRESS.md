@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4443 |
+| Canonical entry files | 4453 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1471 |
+| Canonical N2 entries | 1481 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1483 / 1635 (90.7%) |
+| N2 queue rows covered | 1493 / 1635 (91.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4406 |
+| `new` | 4416 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4433 |
+| Entry metadata still marked `draft` | 4443 |
 | Core profile | 163 |
-| Learner profile | 4279 |
+| Learner profile | 4289 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **380/400 new words** in batches of ten, one commit per word
+Completed **390/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1485 (目上, めうえ). N2-69 remains deferred for a
+untouched candidate is N2-1496 (メニュー, めにゅー). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1083,6 +1083,7 @@ remains preserved.
 | 36 | N2-1455–1464 | 10 |
 | 37 | N2-1465–1474 | 10 |
 | 38 | N2-1475–1484 | 10 |
+| 39 | N2-1485–1495 | 10 |
 
 ## Maturity workflow
 
@@ -5379,3 +5380,13 @@ content and remain at `new` until editorial review.
 | N2-1482 | [命ずる](entries/1531/1531970-meizuru.org) | めいずる | meizuru | 1531970 | learner | draft | **new** | Editorial review |
 | N2-1483 | [名物](entries/1531/1531810-meibutsu.org) | めいぶつ | meibutsu | 1531810 | learner | draft | **new** | Editorial review |
 | N2-1484 | [銘々](entries/1532/1532810-meimei.org) | めいめい | meimei | 1532810 | learner | draft | **new** | Editorial review |
+| N2-1485 | [目上](entries/1535/1535490-meue.org) | めうえ | meue | 1535490 | learner | draft | **new** | Editorial review |
+| N2-1486 | [恵まれる](entries/1611/1611980-megumareru.org) | めぐまれる | megumareru | 1611980 | learner | draft | **new** | Editorial review |
+| N2-1488 | [目指す](entries/1535/1535440-mezasu.org) | めざす | mezasu | 1535440 | learner | draft | **new** | Editorial review |
+| N2-1489 | [目覚まし](entries/1535/1535340-mezamashi.org) | めざまし | mezamashi | 1535340 | learner | draft | **new** | Editorial review |
+| N2-1490 | [目下](entries/1535/1535320-meshita.org) | めした | meshita | 1535320 | learner | draft | **new** | Editorial review |
+| N2-1491 | [目印](entries/1535/1535300-mejirushi.org) | めじるし | mejirushi | 1535300 | learner | draft | **new** | Editorial review |
+| N2-1492 | [目立つ](entries/1535/1535700-medatsu.org) | めだつ | medatsu | 1535700 | learner | draft | **new** | Editorial review |
+| N2-1493 | [滅茶苦茶](entries/1533/1533000-mechakucha.org) | めちゃくちゃ | mechakucha | 1533000 | learner | draft | **new** | Editorial review |
+| N2-1494 | [めっきり](entries/1012/1012470-mekkiri.org) | めっきり | mekkiri | 1012470 | learner | draft | **new** | Editorial review |
+| N2-1495 | [目出度い](entries/1608/1608630-medetai.org) | めでたい | medetai | 1608630 | learner | draft | **new** | Editorial review |
