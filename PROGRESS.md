@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4393 |
+| Canonical entry files | 4403 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1421 |
+| Canonical N2 entries | 1431 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1433 / 1635 (87.6%) |
+| N2 queue rows covered | 1443 / 1635 (88.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4356 |
+| `new` | 4366 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4383 |
+| Entry metadata still marked `draft` | 4393 |
 | Core profile | 163 |
-| Learner profile | 4229 |
+| Learner profile | 4239 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **330/400 new words** in batches of ten, one commit per word
+Completed **340/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1435 (纏める, まとめる). N2-69 remains deferred for a
+untouched candidate is N2-1445 (満員, まんいん). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1078,6 +1078,7 @@ remains preserved.
 | 31 | N2-1404–1413 | 10 |
 | 32 | N2-1414–1424 | 10 |
 | 33 | N2-1425–1434 | 10 |
+| 34 | N2-1435–1444 | 10 |
 
 ## Maturity workflow
 
@@ -5324,3 +5325,13 @@ content and remain at `new` until editorial review.
 | N2-1432 | [真っ白](entries/1580/1580620-masshiro.org) | まっしろ | masshiro | 1580620 | learner | draft | **new** | Editorial review |
 | N2-1433 | [祭る](entries/1295/1295250-matsuru.org) | まつる | matsuru | 1295250 | learner | draft | **new** | Editorial review |
 | N2-1434 | [纏まる](entries/1611/1611640-matomaru.org) | まとまる | matomaru | 1611640 | learner | draft | **new** | Editorial review |
+| N2-1435 | [纏める](entries/1440/1440930-matomeru.org) | まとめる | matomeru | 1440930 | learner | draft | **new** | Editorial review |
+| N2-1436 | [窓口](entries/1401/1401420-madoguchi.org) | まどぐち | madoguchi | 1401420 | learner | draft | **new** | Editorial review |
+| N2-1437 | [真似る](entries/1363/1363760-maneru.org) | まねる | maneru | 1363760 | learner | draft | **new** | Editorial review |
+| N2-1438 | [マフラー](entries/1129/1129210-mafuraa.org) | マフラー | mafuraa | 1129210 | learner | draft | **new** | Editorial review |
+| N2-1439 | [眩しい](entries/1569/1569790-mabushii.org) | まぶしい | mabushii | 1569790 | learner | draft | **new** | Editorial review |
+| N2-1440 | [瞼](entries/1569/1569920-mabuta.org) | まぶた | mabuta | 1569920 | learner | draft | **new** | Editorial review |
+| N2-1441 | [間もなく](entries/1215/1215290-mamonaku.org) | まもなく | mamonaku | 1215290 | learner | draft | **new** | Editorial review |
+| N2-1442 | [マラソン](entries/1129/1129290-marason.org) | マラソン | marason | 1129290 | learner | draft | **new** | Editorial review |
+| N2-1443 | [稀](entries/1604/1604280-mare.org) | まれ | mare | 1604280 | learner | draft | **new** | Editorial review |
+| N2-1444 | [回り道](entries/1199/1199360-mawarimichi.org) | まわりみち | mawarimichi | 1199360 | learner | draft | **new** | Editorial review |
