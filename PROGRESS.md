@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4363 |
+| Canonical entry files | 4373 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1391 |
+| Canonical N2 entries | 1401 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1402 / 1635 (85.7%) |
+| N2 queue rows covered | 1412 / 1635 (86.4%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4326 |
+| `new` | 4336 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4353 |
+| Entry metadata still marked `draft` | 4363 |
 | Core profile | 163 |
-| Learner profile | 4199 |
+| Learner profile | 4209 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1020,10 +1020,10 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
 
-## Current-branch 300-word N2 continuation (2026-10-03)
+## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **300/300 new words** in batches of ten, one commit per word
+Completed **310/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1404 (募集, ぼしゅう). N2-69 remains deferred for a
+untouched candidate is N2-1414 (撒く, まく). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1074,6 +1074,7 @@ remains preserved.
 | 28 | N2-1374–1383 | 10 |
 | 29 | N2-1384–1393 | 10 |
 | 30 | N2-1394–1403 | 10 |
+| 31 | N2-1404–1413 | 10 |
 
 ## Maturity workflow
 
@@ -5290,3 +5291,13 @@ content and remain at `new` until editorial review.
 | N2-1401 | [坊や](entries/1519/1519060-bouya.org) | ぼうや | bouya | 1519060 | learner | draft | **new** | Editorial review |
 | N2-1402 | [牧場](entries/1584/1584250-bokujou.org) | ぼくじょう | bokujou | 1584250 | learner | draft | **new** | Editorial review |
 | N2-1403 | [牧畜](entries/1521/1521820-bokuchiku.org) | ぼくちく | bokuchiku | 1521820 | learner | draft | **new** | Editorial review |
+| N2-1404 | [募集](entries/1514/1514830-boshuu.org) | ぼしゅう | boshuu | 1514830 | learner | draft | **new** | Editorial review |
+| N2-1405 | [襤褸](entries/1572/1572500-boro.org) | ぼろ | boro | 1572500 | learner | draft | **new** | Editorial review |
+| N2-1406 | [盆地](entries/1523/1523760-bonchi.org) | ぼんち | bonchi | 1523760 | learner | draft | **new** | Editorial review |
+| N2-1407 | [ボーナス](entries/1123/1123520-boonasu.org) | ボーナス | boonasu | 1123520 | learner | draft | **new** | Editorial review |
+| N2-1408 | [ポスター](entries/1125/1125110-posutaa.org) | ポスター | posutaa | 1125110 | learner | draft | **new** | Editorial review |
+| N2-1409 | [まあまあ](entries/1012/1012070-maamaa.org) | まあまあ | maamaa | 1012070 | learner | draft | **new** | Editorial review |
+| N2-1410 | [枚数](entries/1524/1524630-maisuu.org) | まいすう | maisuu | 1524630 | learner | draft | **new** | Editorial review |
+| N2-1411 | [毎度](entries/1524/1524710-maido.org) | まいど | maido | 1524710 | learner | draft | **new** | Editorial review |
+| N2-1412 | [マイナス](entries/1126/1126980-mainasu.org) | マイナス | mainasu | 1126980 | learner | draft | **new** | Editorial review |
+| N2-1413 | [巻く](entries/1211/1211200-maku.org) | まく | maku | 1211200 | learner | draft | **new** | Editorial review |
