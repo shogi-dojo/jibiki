@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4313 |
+| Canonical entry files | 4323 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1341 |
+| Canonical N2 entries | 1351 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1352 / 1635 (82.7%) |
+| N2 queue rows covered | 1362 / 1635 (83.3%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4276 |
+| `new` | 4286 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4303 |
+| Entry metadata still marked `draft` | 4313 |
 | Core profile | 163 |
-| Learner profile | 4149 |
+| Learner profile | 4159 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **250/300 new words** in batches of ten, one commit per word
+Completed **260/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1354 (分量, ぶんりょう). N2-69 remains deferred for a
+untouched candidate is N2-1364 (兵隊, へいたい). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1069,6 +1069,7 @@ remains preserved.
 | 23 | N2-1324–1333 | 10 |
 | 24 | N2-1334–1343 | 10 |
 | 25 | N2-1344–1353 | 10 |
+| 26 | N2-1354–1363 | 10 |
 
 ## Maturity workflow
 
@@ -5235,3 +5236,13 @@ content and remain at `new` until editorial review.
 | N2-1351 | [分布](entries/1504/1504160-bunpu.org) | ぶんぷ | bunpu | 1504160 | learner | draft | **new** | Editorial review |
 | N2-1352 | [文房具](entries/1505/1505620-bunbougu.org) | ぶんぼうぐ | bunbougu | 1505620 | learner | draft | **new** | Editorial review |
 | N2-1353 | [文脈](entries/1505/1505630-bunmyaku.org) | ぶんみゃく | bunmyaku | 1505630 | learner | draft | **new** | Editorial review |
+| N2-1354 | [分量](entries/1504/1504430-bunryou.org) | ぶんりょう | bunryou | 1504430 | learner | draft | **new** | Editorial review |
+| N2-1355 | [分類](entries/1504/1504460-bunrui.org) | ぶんるい | bunrui | 1504460 | learner | draft | **new** | Editorial review |
+| N2-1356 | [プラスチック](entries/1115/1115670-purasuchikku.org) | プラスチック | purasuchikku | 1115670 | learner | draft | **new** | Editorial review |
+| N2-1357 | [プラットホーム](entries/1115/1115820-purattoho-mu.org) | プラットホーム | purattoho-mu | 1115820 | learner | draft | **new** | Editorial review |
+| N2-1358 | [プリント](entries/1116/1116300-purinto.org) | プリント | purinto | 1116300 | learner | draft | **new** | Editorial review |
+| N2-1359 | [プログラム](entries/1117/1117080-puroguramu.org) | プログラム | puroguramu | 1117080 | learner | draft | **new** | Editorial review |
+| N2-1360 | [閉会](entries/1508/1508600-heikai.org) | へいかい | heikai | 1508600 | learner | draft | **new** | Editorial review |
+| N2-1361 | [平気](entries/1507/1507180-heiki.org) | へいき | heiki | 1507180 | learner | draft | **new** | Editorial review |
+| N2-1362 | [並行](entries/1508/1508480-heikou.org) | へいこう | heikou | 1508480 | learner | draft | **new** | Editorial review |
+| N2-1363 | [平日](entries/1507/1507720-heijitsu.org) | へいじつ | heijitsu | 1507720 | learner | draft | **new** | Editorial review |
