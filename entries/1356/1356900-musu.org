@@ -1,0 +1,405 @@
+#+TITLE: 蒸す
+#+JMDICT_ID: 1356900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むす
+#+ROMAJI: musu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1356900-001
+:PROPERTIES:
+:TEXT: 蒸す
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf22
+** Reading rd-1356900-001
+:PROPERTIES:
+:TEXT: むす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf22
+
+* Sense s-1356900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 192285d2131f94fd0f5eed87fdfa0ba8c1507a9539b39714f7fdc6dc5556b517
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Cross-references
+- 蒸かす
+** English glosses
+- to steam (food, towel, etc.)
+** Ukrainian glosses
+- готувати на парі
+- варити на парі
+- парити
+** Learner notes
+*** note-s-1356900-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово ґодан на -す. Кулінарний термін: готувати продукти (овочі, м'ясо, пельмені, рис) гарячою парою, зазвичай у пароварці (蒸し器) чи бамбуковому кошику (せいろ). Також вживається про розпарювання рушника (おしぼりを蒸す). Від нього походить іменник 蒸し物 (страва на парі).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1356900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: [野菜]{やさい}を[十]{じゅっ}[分]{ぷん}[蒸]{む}してください。
+- READING :: やさいをじゅっぷんむしてください。
+- UK :: Будь ласка, варіть овочі на парі протягом десяти хвилин.
+- EN :: Please steam the vegetables for ten minutes.
+- FOCUS :: 蒸して
+*** ex-1356900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この[料理]{りょうり}は[油]{あぶら}を[使]{つか}わずに[蒸]{む}して[作]{つく}るため、とてもヘルシーです。
+- READING :: このりょうりはあぶらをつかわずにむしてつくるため、とてもへるしーです。
+- UK :: Ця страва дуже корисна, оскільки готується на парі без використання олії.
+- EN :: Because this dish is made by steaming without using oil, it is very healthy.
+- FOCUS :: 蒸して
+*** ex-1356900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: [肉]{にく}まんは[電子]{でんし}レンジで[温]{あたた}めるよりも、[蒸]{む}し[器]{き}でじっくり[蒸]{む}したほうがふっくらと[仕上]{しあ}がる。
+- READING :: にくまんはでんしれんじであたためるよりも、むしきでじっくりむしたほうがふっくらとしあがる。
+- UK :: М'ясні пиріжки нікуман виходять значно пухкішими, якщо їх повільно розпарити у пароварці, а не гріти в мікрохвильовці.
+- EN :: Meat buns turn out much fluffier when steamed thoroughly in a steamer rather than heated in a microwave.
+- FOCUS :: 蒸した
+
+* Sense s-1356900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2eebb15cba4aae953ab471c8f313f38dd5b9f85737f59285f7fe39dc04be3ae
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vi
+** English glosses
+- to be hot and humid
+- to be sultry
+** Ukrainian glosses
+- парить (про погоду)
+- бути душним
+- бути парким
+** Learner notes
+*** note-s-1356900-002-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово. Описує спекотну й вологу погоду або духоту в повітрі. Найчастіше вживається у тривалій формі (蒸している) або як вираз 今日は蒸すね («сьогодні так парить, правда?»). Пов'язане з прикметником 蒸し暑い.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1356900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 363b384d45f20262314d62b8012de734de4db501e7a7e573af70d789f4ddb7a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: broeierig zijn
+*** en-s-1356900-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zwoel zijn
+*** en-s-1356900-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zoel zijn
+*** en-s-1356900-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drukkend warm zijn
+*** en-s-1356900-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benauwd warm zijn
+*** en-s-1356900-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedompt zijn
+** Ukrainian glosses
+
+* Sense s-1356900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5a86cf491503db28fce8c35eefc60cd7a9cba2fa5161b0be38e7918fb352d0bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stomen
+*** en-s-1356900-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gaar stomen
+*** en-s-1356900-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blancheren
+** Ukrainian glosses
+
+* Sense s-1356900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: edd22658cb92b477ca5fa59189814f5d81c7a43715a43ebb12cbf8a1144a6549
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: étuver
+*** en-s-1356900-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuir à la vapeur
+** Ukrainian glosses
+
+* Sense s-1356900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 36ebfe47465b38bac01122840c403bc89252d717cb5c3df8e090b4481da45d67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dämpfen
+*** en-s-1356900-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dünsten
+*** en-s-1356900-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wachfeuer anzünden und Kampfschreie ausstoßen, um die Stärke der eigenen Streitmacht für den bevorstehenden Angriff zu signalisieren
+*** en-s-1356900-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdoppeln (des Glücksspieleinsatzes)
+** Ukrainian glosses
+
+* Sense s-1356900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e517b7c5e9421ee8b1c2d7532e1c60126e2fb5560e41f4db661b8b4a33f122bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schwül sein
+** Ukrainian glosses
+
+* Sense s-1356900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: b403038d2708f287b6c5467ecbe5cbd910e765a8ec00062905d2a2d2fa363bf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gőzölög
+*** en-s-1356900-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párol
+** Ukrainian glosses
+
+* Sense s-1356900-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2982716909ee3b0df31aad4b755281262f6992db90ad15df73cfb14708e9468f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ((тж.) 餾す) варить на пару; тушить
+*** en-s-1356900-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) класть припарку (напр. на нарыв)
+*** en-s-1356900-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) быть душным; парить
+** Ukrainian glosses
+
+* Sense s-1356900-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 26d9d639e2bb8b5cbd757f960e054c009531ce40f69d2a89f4686707844e49e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kuhati na pari
+*** en-s-1356900-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pariti
+*** en-s-1356900-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti soparen
+** Ukrainian glosses
+
+* Sense s-1356900-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 213a62096be7f837452577bbe7868b939c17bb7a00481701b9af72fa2da481fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356900-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: causar o producir sudor
+** Ukrainian glosses
