@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4343 |
+| Canonical entry files | 4353 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1371 |
+| Canonical N2 entries | 1381 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1382 / 1635 (84.5%) |
+| N2 queue rows covered | 1392 / 1635 (85.1%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4306 |
+| `new` | 4316 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4333 |
+| Entry metadata still marked `draft` | 4343 |
 | Core profile | 163 |
-| Learner profile | 4179 |
+| Learner profile | 4189 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **280/300 new words** in batches of ten, one commit per word
+Completed **290/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1384 (包丁, ほうちょう). N2-69 remains deferred for a
+untouched candidate is N2-1394 (掘る, ほる). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1072,6 +1072,7 @@ remains preserved.
 | 26 | N2-1354–1363 | 10 |
 | 27 | N2-1364–1373 | 10 |
 | 28 | N2-1374–1383 | 10 |
+| 29 | N2-1384–1393 | 10 |
 
 ## Maturity workflow
 
@@ -5268,3 +5269,13 @@ content and remain at `new` until editorial review.
 | N2-1381 | [包装](entries/1515/1515510-housou.org) | ほうそう | housou | 1515510 | learner | draft | **new** | Editorial review |
 | N2-1382 | [法則](entries/1517/1517380-housoku.org) | ほうそく | housoku | 1517380 | learner | draft | **new** | Editorial review |
 | N2-1383 | [包帯](entries/1603/1603360-houtai.org) | ほうたい | houtai | 1603360 | learner | draft | **new** | Editorial review |
+| N2-1384 | [包丁](entries/1515/1515530-houchou.org) | ほうちょう | houchou | 1515530 | learner | draft | **new** | Editorial review |
+| N2-1385 | [方程式](entries/1517/1517060-houteishiki.org) | ほうていしき | houteishiki | 1517060 | learner | draft | **new** | Editorial review |
+| N2-1386 | [方面](entries/1517/1517100-houmen.org) | ほうめん | houmen | 1517100 | learner | draft | **new** | Editorial review |
+| N2-1387 | [放る](entries/1516/1516530-houru.org) | ほうる | houru | 1516530 | learner | draft | **new** | Editorial review |
+| N2-1388 | [朗らか](entries/1560/1560710-hogaraka.org) | ほがらか | hogaraka | 1560710 | learner | draft | **new** | Editorial review |
+| N2-1389 | [保健](entries/1513/1513410-hoken.org) | ほけん | hoken | 1513410 | learner | draft | **new** | Editorial review |
+| N2-1390 | [干す](entries/1603/1603510-hosu.org) | ほす | hosu | 1603510 | learner | draft | **new** | Editorial review |
+| N2-1391 | [北極](entries/1520/1520890-hokkyoku.org) | ほっきょく | hokkyoku | 1520890 | learner | draft | **new** | Editorial review |
+| N2-1392 | [解く](entries/1198/1198900-hodoku.org) | ほどく | hodoku | 1198900 | learner | draft | **new** | Editorial review |
+| N2-1393 | [彫る](entries/1427/1427950-horu.org) | ほる | horu | 1427950 | learner | draft | **new** | Editorial review |
