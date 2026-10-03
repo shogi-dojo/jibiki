@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4373 |
+| Canonical entry files | 4383 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1401 |
+| Canonical N2 entries | 1411 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1412 / 1635 (86.4%) |
+| N2 queue rows covered | 1423 / 1635 (87.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4336 |
+| `new` | 4346 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4363 |
+| Entry metadata still marked `draft` | 4373 |
 | Core profile | 163 |
-| Learner profile | 4209 |
+| Learner profile | 4219 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,10 +1023,11 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **310/400 new words** in batches of ten, one commit per word
+Completed **320/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
-entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
-existing entries and are excluded from the new-word count.
+entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
+(混ぜる) are unchanged existing entries or aliases and are excluded from the
+new-word count.
 
 The additions cover English semantic senses with original Ukrainian glosses
 and usage explanations, plus graded examples with Japanese text, kana,
@@ -1038,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1414 (撒く, まく). N2-69 remains deferred for a
+untouched candidate is N2-1425 (待合室, まちあいしつ). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1075,6 +1076,7 @@ remains preserved.
 | 29 | N2-1384–1393 | 10 |
 | 30 | N2-1394–1403 | 10 |
 | 31 | N2-1404–1413 | 10 |
+| 32 | N2-1414–1424 | 10 |
 
 ## Maturity workflow
 
@@ -5301,3 +5303,13 @@ content and remain at `new` until editorial review.
 | N2-1411 | [毎度](entries/1524/1524710-maido.org) | まいど | maido | 1524710 | learner | draft | **new** | Editorial review |
 | N2-1412 | [マイナス](entries/1126/1126980-mainasu.org) | マイナス | mainasu | 1126980 | learner | draft | **new** | Editorial review |
 | N2-1413 | [巻く](entries/1211/1211200-maku.org) | まく | maku | 1211200 | learner | draft | **new** | Editorial review |
+| N2-1414 | [撒く](entries/1303/1303400-maku.org) | まく | maku | 1303400 | learner | draft | **new** | Editorial review |
+| N2-1415 | [枕](entries/1524/1524860-makura.org) | まくら | makura | 1524860 | learner | draft | **new** | Editorial review |
+| N2-1416 | [曲げる](entries/1239/1239740-mageru.org) | まげる | mageru | 1239740 | learner | draft | **new** | Editorial review |
+| N2-1417 | [まごまご](entries/1012/1012110-magomago.org) | まごまご | magomago | 1012110 | learner | draft | **new** | Editorial review |
+| N2-1418 | [摩擦](entries/1523/1523830-masatsu.org) | まさつ | masatsu | 1523830 | learner | draft | **new** | Editorial review |
+| N2-1419 | [混ざる](entries/1603/1603920-mazaru.org) | まざる | mazaru | 1603920 | learner | draft | **new** | Editorial review |
+| N2-1420 | [混じる](entries/1603/1603930-majiru.org) | まじる | majiru | 1603930 | learner | draft | **new** | Editorial review |
+| N2-1421 | [マスク](entries/1127/1127870-masuku.org) | マスク | masuku | 1127870 | learner | draft | **new** | Editorial review |
+| N2-1422 | [交ぜる](entries/1290/1290310-mazeru.org) | まぜる | mazeru | 1290310 | learner | draft | **new** | Editorial review |
+| N2-1424 | [跨ぐ](entries/1267/1267830-matagu.org) | またぐ | matagu | 1267830 | learner | draft | **new** | Editorial review |
