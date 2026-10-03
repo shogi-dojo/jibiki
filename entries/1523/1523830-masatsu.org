@@ -1,0 +1,588 @@
+#+TITLE: 摩擦
+#+JMDICT_ID: 1523830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まさつ
+#+ROMAJI: masatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1523830-001
+:PROPERTIES:
+:TEXT: 摩擦
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Reading rd-1523830-001
+:PROPERTIES:
+:TEXT: まさつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1523830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 87843683ae30694244114f505643b3b5832090ce08942a37bb7ac5cfbff169ef
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- friction
+** Ukrainian glosses
+- тертя
+** Learner notes
+*** note-s-1523830-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичне явище тертя між поверхнями двох тіл (часто у словосполученні 摩擦力 «сила тертя»).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1523830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: [摩擦]{まさつ}で[手]{て}が[温]{あたた}かくなりました。
+- READING :: まさつでてがあたたかくなりました。
+- UK :: Від тертя руки нагрілися.
+- EN :: My hands warmed up from the friction.
+- FOCUS :: [摩擦]{まさつ}
+*** ex-1523830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: [油]{あぶら}をさすと、[部品]{ぶひん}の[間]{あいだ}の[摩擦]{まさつ}を[減]{へ}らすことができます。
+- READING :: あぶらをさすと、ぶひんのあいだのまさつをへらすことができます。
+- UK :: Якщо змастити маслом, можна зменшити тертя між деталями.
+- EN :: Applying oil can reduce friction between the parts.
+- FOCUS :: [摩擦]{まさつ}
+*** ex-1523830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: [雪道]{ゆきみち}ではタイヤと[地面]{じめん}の[間]{あいだ}の[摩擦]{まさつ}が[小]{ちい}さくなり、[滑]{すべ}りやすい。
+- READING :: ゆきみちではタイヤとじめんのあいだのまさつがちいさくなり、すべりやすい。
+- UK :: На засніженій дорозі тертя між шинами й поверхнею землі зменшується, тому легко посковзнутися.
+- EN :: On snowy roads, friction between the tires and the ground decreases, making it slippery.
+- FOCUS :: [摩擦]{まさつ}
+
+* Sense s-1523830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3e30a44216ff0ae89d449ca8fa79b5922a1f5979209cc770bea37cbe3cf9cc37
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- rubbing
+- chafing
+** Ukrainian glosses
+- тертя
+- натирання
+** Learner notes
+*** note-s-1523830-002-001
+:PROPERTIES:
+:END:
+- UK :: Дія тертя або натирання поверхні (наприклад, шкіри об одяг).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1523830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 92a85c8c503db19f935f0f404e0a3cb2760f2ce07c4871cfb5d69cd8fa288c9c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- discord
+- friction
+- strife
+- conflict
+** Ukrainian glosses
+- тертя
+- розбіжності
+- конфлікт
+** Learner notes
+*** note-s-1523830-003-001
+:PROPERTIES:
+:END:
+- UK :: Переносне значення: напружені стосунки, суперечки або конфлікти між людьми, групами чи країнами (наприклад, 貿易摩擦 «торговельні тертя»).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1523830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b3b09a1f7b9efafe67194cc13f9ca11b5f670c1105c6c8f3257e92681949f378
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (zich) wrijven
+*** en-s-1523830-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (zich) schuren
+*** en-s-1523830-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich schurken
+*** en-s-1523830-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scheuken
+*** en-s-1523830-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frotteren
+*** en-s-1523830-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewrijf
+*** en-s-1523830-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geschurk
+*** en-s-1523830-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frictie
+*** en-s-1523830-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frottage
+** Ukrainian glosses
+
+* Sense s-1523830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b20ad4afe659bb70eb039a8c26d0a614e9565173e903c1c22a3e45b8794e39d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onenigheid
+*** en-s-1523830-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frictie
+*** en-s-1523830-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geschil
+*** en-s-1523830-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wrijving
+*** en-s-1523830-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: altercatie
+** Ukrainian glosses
+
+* Sense s-1523830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ba9b6a5e8343a3d4c7fa50b22abe8880292f25084f5092c8ca3114d9e968ec58
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {natuurkunde} wrijving
+** Ukrainian glosses
+
+* Sense s-1523830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f1bd06a753c2ff1937c41b9a0342cabc003558788393094cc495720b921aeb9d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: friction
+*** en-s-1523830-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frottement
+*** en-s-1523830-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heurt
+*** en-s-1523830-007-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irritation
+** Ukrainian glosses
+
+* Sense s-1523830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8c0ed963c993ec47896037aed199ed4c7e23c685205de9c6e4f4696da0c2c14d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reiben
+*** en-s-1523830-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reiben
+*** en-s-1523830-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reibung
+*** en-s-1523830-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reiberei
+*** en-s-1523830-008-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Friktion
+*** en-s-1523830-008-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zusammenstoß
+** Ukrainian glosses
+
+* Sense s-1523830-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d1fc218399a2eb1fbe4bf18b1663522058c59832b6bd38e6e378ae0ce0edec9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedörzsölés
+*** en-s-1523830-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dörzsölés
+*** en-s-1523830-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: súrlódás
+*** en-s-1523830-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhorzsolás
+*** en-s-1523830-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: horzsolás
+*** en-s-1523830-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: súrlódás
+** Ukrainian glosses
+
+* Sense s-1523830-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 65f1730507cf33afdcb299af816158dcbf715081f2cb3a38936ec1019c7592f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) трение
+*** en-s-1523830-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} тереть[ся]
+*** en-s-1523830-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) трения; разногласие
+*** en-s-1523830-010-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～的} (связ.:)
+** Ukrainian glosses
+
+* Sense s-1523830-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: e8fbee041071d3a79186046d51e931724ee8493e47ab0829e0791f2d83e73fa2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trenje
+*** en-s-1523830-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prepir
+*** en-s-1523830-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drgnenje
+*** en-s-1523830-011-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spor
+*** en-s-1523830-011-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prepir
+*** en-s-1523830-011-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trenje
+*** en-s-1523830-011-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drgnenje
+** Ukrainian glosses
+
+* Sense s-1523830-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 4560012fb5ad0129e116089c9b5430691243934fcd78158fa00850a1dea62fc4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523830-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frotar
+*** en-s-1523830-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: friccionar
+*** en-s-1523830-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: friega
+** Ukrainian glosses
