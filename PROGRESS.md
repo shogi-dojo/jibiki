@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4383 |
+| Canonical entry files | 4393 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1411 |
+| Canonical N2 entries | 1421 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1423 / 1635 (87.0%) |
+| N2 queue rows covered | 1433 / 1635 (87.6%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4346 |
+| `new` | 4356 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4373 |
+| Entry metadata still marked `draft` | 4383 |
 | Core profile | 163 |
-| Learner profile | 4219 |
+| Learner profile | 4229 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **320/400 new words** in batches of ten, one commit per word
+Completed **330/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
 (混ぜる) are unchanged existing entries or aliases and are excluded from the
@@ -1039,7 +1039,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1425 (待合室, まちあいしつ). N2-69 remains deferred for a
+untouched candidate is N2-1435 (纏める, まとめる). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1077,6 +1077,7 @@ remains preserved.
 | 30 | N2-1394–1403 | 10 |
 | 31 | N2-1404–1413 | 10 |
 | 32 | N2-1414–1424 | 10 |
+| 33 | N2-1425–1434 | 10 |
 
 ## Maturity workflow
 
@@ -5313,3 +5314,13 @@ content and remain at `new` until editorial review.
 | N2-1421 | [マスク](entries/1127/1127870-masuku.org) | マスク | masuku | 1127870 | learner | draft | **new** | Editorial review |
 | N2-1422 | [交ぜる](entries/1290/1290310-mazeru.org) | まぜる | mazeru | 1290310 | learner | draft | **new** | Editorial review |
 | N2-1424 | [跨ぐ](entries/1267/1267830-matagu.org) | またぐ | matagu | 1267830 | learner | draft | **new** | Editorial review |
+| N2-1425 | [待合室](entries/1410/1410630-machiaishitsu.org) | まちあいしつ | machiaishitsu | 1410630 | learner | draft | **new** | Editorial review |
+| N2-1426 | [待ち合わせる](entries/1410/1410520-machiawaseru.org) | まちあわせる | machiawaseru | 1410520 | learner | draft | **new** | Editorial review |
+| N2-1427 | [街角](entries/1204/1204580-machikado.org) | まちかど | machikado | 1204580 | learner | draft | **new** | Editorial review |
+| N2-1428 | [真っ暗](entries/1363/1363190-makkura.org) | まっくら | makkura | 1363190 | learner | draft | **new** | Editorial review |
+| N2-1429 | [真っ黒](entries/1604/1604050-makkuro.org) | まっくろ | makkuro | 1604050 | learner | draft | **new** | Editorial review |
+| N2-1430 | [真っ青](entries/1604/1604080-massao.org) | まっさお | massao | 1604080 | learner | draft | **new** | Editorial review |
+| N2-1431 | [真っ先](entries/1363/1363260-massaki.org) | まっさき | massaki | 1363260 | learner | draft | **new** | Editorial review |
+| N2-1432 | [真っ白](entries/1580/1580620-masshiro.org) | まっしろ | masshiro | 1580620 | learner | draft | **new** | Editorial review |
+| N2-1433 | [祭る](entries/1295/1295250-matsuru.org) | まつる | matsuru | 1295250 | learner | draft | **new** | Editorial review |
+| N2-1434 | [纏まる](entries/1611/1611640-matomaru.org) | まとまる | matomaru | 1611640 | learner | draft | **new** | Editorial review |
