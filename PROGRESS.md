@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4273 |
+| Canonical entry files | 4283 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1301 |
+| Canonical N2 entries | 1311 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1312 / 1635 (80.2%) |
+| N2 queue rows covered | 1322 / 1635 (80.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4236 |
+| `new` | 4246 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4263 |
+| Entry metadata still marked `draft` | 4273 |
 | Core profile | 163 |
-| Learner profile | 4109 |
+| Learner profile | 4119 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **210/300 new words** in batches of ten, one commit per word
+Completed **220/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1314 (塞ぐ, ふさぐ). N2-69 remains deferred for a
+untouched candidate is N2-1324 (麓, ふもと). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1065,6 +1065,7 @@ remains preserved.
 | 19 | N2-1284–1293 | 10 |
 | 20 | N2-1294–1303 | 10 |
 | 21 | N2-1304–1313 | 10 |
+| 22 | N2-1314–1323 | 10 |
 
 ## Maturity workflow
 
@@ -5191,3 +5192,13 @@ content and remain at `new` until editorial review.
 | N2-1311 | [符号](entries/1497/1497710-fugou.org) | ふごう | fugou | 1497710 | learner | draft | **new** | Editorial review |
 | N2-1312 | [夫妻](entries/1496/1496520-fusai.org) | ふさい | fusai | 1496520 | learner | draft | **new** | Editorial review |
 | N2-1313 | [塞がる](entries/1602/1602570-fusagaru.org) | ふさがる | fusagaru | 1602570 | learner | draft | **new** | Editorial review |
+| N2-1314 | [塞ぐ](entries/1602/1602590-fusagu.org) | ふさぐ | fusagu | 1602590 | learner | draft | **new** | Editorial review |
+| N2-1315 | [巫山戯る](entries/1566/1566450-fuzakeru.org) | ふざける | fuzakeru | 1566450 | learner | draft | **new** | Editorial review |
+| N2-1316 | [襖](entries/1181/1181720-fusuma.org) | ふすま | fusuma | 1181720 | learner | draft | **new** | Editorial review |
+| N2-1317 | [付属](entries/1602/1602700-fuzoku.org) | ふぞく | fuzoku | 1602700 | learner | draft | **new** | Editorial review |
+| N2-1318 | [蓋](entries/1204/1204540-futa.org) | ふた | futa | 1204540 | learner | draft | **new** | Editorial review |
+| N2-1319 | [不通](entries/1493/1493860-futsuu.org) | ふつう | futsuu | 1493860 | learner | draft | **new** | Editorial review |
+| N2-1320 | [船便](entries/1392/1392100-funabin.org) | ふなびん | funabin | 1392100 | learner | draft | **new** | Editorial review |
+| N2-1321 | [吹雪](entries/1370/1370780-fubuki.org) | ふぶき | fubuki | 1370780 | learner | draft | **new** | Editorial review |
+| N2-1322 | [父母](entries/1497/1497690-fubo.org) | ふぼ | fubo | 1497690 | learner | draft | **new** | Editorial review |
+| N2-1323 | [踏切](entries/1602/1602840-fumikiri.org) | ふみきり | fumikiri | 1602840 | learner | draft | **new** | Editorial review |
