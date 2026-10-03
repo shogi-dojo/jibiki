@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4333 |
+| Canonical entry files | 4343 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1361 |
+| Canonical N2 entries | 1371 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1372 / 1635 (83.9%) |
+| N2 queue rows covered | 1382 / 1635 (84.5%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4296 |
+| `new` | 4306 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4323 |
+| Entry metadata still marked `draft` | 4333 |
 | Core profile | 163 |
-| Learner profile | 4169 |
+| Learner profile | 4179 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 ## Current-branch 300-word N2 continuation (2026-10-03)
 
 Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
-Completed **270/300 new words** in batches of ten, one commit per word
+Completed **280/300 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い) and N2-1233 (バック) are unchanged
 existing entries and are excluded from the new-word count.
@@ -1038,7 +1038,7 @@ The test suite passed; pinned JMdict and N2 source checksums were verified.
 
 All additions remain learner-profile drafts awaiting independent editorial
 review. Automated checks do not constitute linguistic approval. The next
-untouched candidate is N2-1374 (ベテラン, ベテラン). N2-69 remains deferred for a
+untouched candidate is N2-1384 (包丁, ほうちょう). N2-69 remains deferred for a
 dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
 remains preserved.
 
@@ -1071,6 +1071,7 @@ remains preserved.
 | 25 | N2-1344–1353 | 10 |
 | 26 | N2-1354–1363 | 10 |
 | 27 | N2-1364–1373 | 10 |
+| 28 | N2-1374–1383 | 10 |
 
 ## Maturity workflow
 
@@ -5257,3 +5258,13 @@ content and remain at `new` until editorial review.
 | N2-1371 | [編集](entries/1603/1603240-henshuu.org) | へんしゅう | henshuu | 1603240 | learner | draft | **new** | Editorial review |
 | N2-1372 | [別荘](entries/1509/1509970-bessou.org) | べっそう | bessou | 1509970 | learner | draft | **new** | Editorial review |
 | N2-1373 | [別々](entries/1603/1603290-betsubetsu.org) | べつべつ | betsubetsu | 1603290 | learner | draft | **new** | Editorial review |
+| N2-1374 | [ベテラン](entries/1119/1119700-beteran.org) | ベテラン | beteran | 1119700 | learner | draft | **new** | Editorial review |
+| N2-1375 | [便所](entries/1512/1512520-benjo.org) | べんじょ | benjo | 1512520 | learner | draft | **new** | Editorial review |
+| N2-1376 | [ペンチ](entries/1121/1121520-penchi.org) | ペンチ | penchi | 1121520 | learner | draft | **new** | Editorial review |
+| N2-1377 | [方角](entries/1516/1516950-hougaku.org) | ほうがく | hougaku | 1516950 | learner | draft | **new** | Editorial review |
+| N2-1378 | [箒](entries/1566/1566500-houki.org) | ほうき | houki | 1566500 | learner | draft | **new** | Editorial review |
+| N2-1379 | [方言](entries/1516/1516980-hougen.org) | ほうげん | hougen | 1516980 | learner | draft | **new** | Editorial review |
+| N2-1380 | [方針](entries/1517/1517040-houshin.org) | ほうしん | houshin | 1517040 | learner | draft | **new** | Editorial review |
+| N2-1381 | [包装](entries/1515/1515510-housou.org) | ほうそう | housou | 1515510 | learner | draft | **new** | Editorial review |
+| N2-1382 | [法則](entries/1517/1517380-housoku.org) | ほうそく | housoku | 1517380 | learner | draft | **new** | Editorial review |
+| N2-1383 | [包帯](entries/1603/1603360-houtai.org) | ほうたい | houtai | 1603360 | learner | draft | **new** | Editorial review |
