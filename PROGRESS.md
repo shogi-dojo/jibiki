@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **2190**.
+Completed **100/200** additional distinct words; branch total **2200**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3353,6 +3353,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3446,6 +3447,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 881 | [乗り込む](entries/1354/1354910-norikomu.org) | のりこむ | 1354910 | new / draft |
 | JLPTLord N2 882 | [問い合わせる](entries/1535/1535960-toiawaseru.org) | といあわせる | 1535960 | new / draft |
 | JLPTLord N2 887 | [踏み切る](entries/1450/1450190-fumikiru.org) | ふみきる | 1450190 | new / draft |
+| JLPTLord N2 888 | [踏み込む](entries/1450/1450150-fumikomu.org) | ふみこむ | 1450150 | new / draft |
+| JLPTLord N2 889 | [踏まえる](entries/1450/1450110-fumaeru.org) | ふまえる | 1450110 | new / draft |
+| JLPTLord N2 890 | [行き渡る](entries/1587/1587130-ikiwataru.org) | いきわたる | 1587130 | new / draft |
+| JLPTLord N2 891 | [行き詰まる](entries/1631/1631350-ikizumaru.org) | いきづまる | 1631350 | new / draft |
+| JLPTLord N2 892 | [思い切る](entries/1309/1309320-omoikiru.org) | おもいきる | 1309320 | new / draft |
+| JLPTLord N2 899 | [捧げる](entries/1516/1516430-sasageru.org) | ささげる | 1516430 | new / draft |
+| JLPTLord N2 902 | [据える](entries/1373/1373480-sueru.org) | すえる | 1373480 | new / draft |
+| JLPTLord N2 904 | [帯びる](entries/1410/1410430-obiru.org) | おびる | 1410430 | new / draft |
+| JLPTLord N2 906 | [操る](entries/1400/1400010-ayatsuru.org) | あやつる | 1400010 | new / draft |
+| JLPTLord N2 909 | [潜む](entries/1391/1391240-hisomu.org) | ひそむ | 1391240 | new / draft |
 
 ## Maturity workflow
 
