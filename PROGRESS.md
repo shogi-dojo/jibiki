@@ -1517,6 +1517,15 @@ Selection: 100 candidates from [documented JTest N2 sections](sources/jlpt-n2/jt
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
 
+Final audit: **100 distinct added JMdict IDs**, **100 individual word addition
+commits**, **163 English senses with 163 Ukrainian nuance notes**, and
+**300 graded examples**. The earlier 700 branch additions were preserved.
+All 100 entries passed final JMdict validation, Org lint, and doctor 100/100,
+with zero errors or warnings. Source snapshot checksums were verified for
+17 documented sections. The full suite passed: **137 tests, 15,143 assertions**,
+zero failures, errors, or skips. `git diff --check` passed. Only the pre-existing
+uncommitted 罪 draft remains. Entries are learner drafts pending editorial review.
+
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
