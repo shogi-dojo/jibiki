@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **10/100** further distinct words; branch total **510**.
+Completed **20/100** further distinct words; branch total **520**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1236,6 +1236,7 @@ The earlier uncommitted 罪 draft is preserved.
 | Batch | Candidates | New entries |
 | --- | --- | ---: |
 | 1 | 1608–1618 | 10 |
+| 2 | 1592–1626 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1249,6 +1250,16 @@ The earlier uncommitted 罪 draft is preserved.
 | N2-1616 | [レンズ](entries/1146/1146140-renzu.org) | レンズ | 1146140 | new / draft |
 | N2-1617 | [蝋燭](entries/1561/1561240-rousoku.org) | ろうそく | 1561240 | new / draft |
 | N2-1618 | [録音](entries/1561/1561590-rokuon.org) | ろくおん | 1561590 | new / draft |
+| N2-1592 | [ランチ](entries/1140/1140100-ranchi.org) | ランチ | 1140100 | new / draft |
+| N2-1614 | [レベル](entries/1145/1145910-reberu.org) | レベル | 1145910 | new / draft |
+| N2-1619 | [ロッカー](entries/1147/1147560-rokkaa.org) | ロッカー | 1147560 | new / draft |
+| N2-1620 | [ロビー](entries/1147/1147800-robii.org) | ロビー | 1147800 | new / draft |
+| N2-1621 | [論ずる](entries/1561/1561640-ronzuru.org) | ろんずる | 1561640 | new / draft |
+| N2-1622 | [ローマ字](entries/1146/1146810-roomaji.org) | ローマじ | 1146810 | new / draft |
+| N2-1623 | [ローンチ](entries/2448/2448600-roonchi.org) | ローンチ | 2448600 | new / draft |
+| N2-1624 | [和英](entries/1561/1561970-waei.org) | わえい | 1561970 | new / draft |
+| N2-1625 | [分かれる](entries/1606/1606600-wakareru.org) | わかれる | 1606600 | new / draft |
+| N2-1626 | [若々しい](entries/1606/1606610-wakawakashii.org) | わかわかしい | 1606610 | new / draft |
 
 ## Maturity workflow
 
