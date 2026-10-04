@@ -1642,6 +1642,37 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 | JTest 4.2.18 | [収集](entries/1594/1594720-shuushuu.org) | しゅうしゅう | 1594720 | new / draft |
 | JTest 4.2.19 | [配布](entries/1473/1473190-haifu.org) | はいふ | 1473190 | new / draft |
 
+## Final 900-word branch N2 continuation (2026-10-04)
+
+Baseline: `0ffefe81`, with **800** new translated words on this branch.
+Completed **10/100** additional distinct words; branch total **810**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 1.3.4 | [近所付き合い](entries/2116/2116150-kinjozukiai.org) | きんじょづきあい | 2116150 | new / draft |
+| JTest 1.3.11 | [覚え](entries/1206/1206040-oboe.org) | おぼえ | 1206040 | new / draft |
+| JTest 1.4.21 | [合コン](entries/1951/1951580-goukon.org) | ごうコン | 1951580 | new / draft |
+| JTest 2.1.1 | [一人住まい](entries/2405/2405230-hitorizumai.org) | ひとりずまい | 2405230 | new / draft |
+| JTest 2.1.9 | [我が家](entries/1606/1606650-wagaya.org) | わがや | 1606650 | new / draft |
+| JTest 2.1.12 | [洗面所](entries/1391/1391070-senmenjo.org) | せんめんじょ | 1391070 | new / draft |
+| JTest 4.2.22 | [提供](entries/1436/1436360-teikyou.org) | ていきょう | 1436360 | new / draft |
+| JTest 4.3.1 | [故郷](entries/2853/2853884-kokyou.org) | こきょう | 2853884 | new / draft |
+| JTest 4.3.2 | [地元](entries/1421/1421060-jimoto.org) | じもと | 1421060 | new / draft |
+| JTest 4.3.5 | [帰省](entries/1221/1221390-kisei.org) | きせい | 1221390 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
