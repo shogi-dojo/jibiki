@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **1720**.
+Completed **30/200** additional distinct words; branch total **1730**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2830,6 +2830,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2853,6 +2854,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2046 | [満喫](entries/1526/1526760-mankitsu.org) | まんきつ | 1526760 | new / draft |
 | TodayJLPT N2 2050 | [見栄](entries/1578/1578350-mie.org) | みえ | 1578350 | new / draft |
 | TodayJLPT N2 2055 | [右腕](entries/1171/1171290-migiude.org) | みぎうで | 1171290 | new / draft |
+| TodayJLPT N2 2056 | [見込む](entries/1259/1259580-mikomu.org) | みこむ | 1259580 | new / draft |
+| TodayJLPT N2 2067 | [道のり](entries/1454/1454110-michinori.org) | みちのり | 1454110 | new / draft |
+| TodayJLPT N2 2092 | [明細](entries/1532/1532440-meisai.org) | めいさい | 1532440 | new / draft |
+| TodayJLPT N2 2101 | [名門](entries/1531/1531860-meimon.org) | めいもん | 1531860 | new / draft |
+| TodayJLPT N2 2122 | [毛筆](entries/1533/1533940-mouhitsu.org) | もうひつ | 1533940 | new / draft |
+| TodayJLPT N2 2126 | [木星](entries/1534/1534680-mokusei.org) | もくせい | 1534680 | new / draft |
+| TodayJLPT N2 2127 | [木造](entries/1534/1534740-mokuzou.org) | もくぞう | 1534740 | new / draft |
+| TodayJLPT N2 2128 | [木片](entries/1534/1534860-mokuhen.org) | もくへん | 1534860 | new / draft |
+| TodayJLPT N2 2137 | [持ち込む](entries/1315/1315590-mochikomu.org) | もちこむ | 1315590 | new / draft |
+| TodayJLPT N2 2138 | [持ち出す](entries/1315/1315600-mochidasu.org) | もちだす | 1315600 | new / draft |
 
 ## Maturity workflow
 
