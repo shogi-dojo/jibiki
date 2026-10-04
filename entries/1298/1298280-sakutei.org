@@ -1,0 +1,225 @@
+#+TITLE: 策定
+#+JMDICT_ID: 1298280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さくてい
+#+ROMAJI: sakutei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1298280-001
+:PROPERTIES:
+:TEXT: 策定
+:END:
+*** Priorities
+- news1
+- nf04
+** Reading rd-1298280-001
+:PROPERTIES:
+:TEXT: さくてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf04
+
+* Sense s-1298280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f33b191cdfb151be4cccb1e01ee1084e184e94f132afc304dc8e1f2caef85272
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- formulation (of a plan, policy, etc.)
+- decision
+- settling on
+** Ukrainian glosses
+*** uk-s-1298280-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розроблення й визначення плану або політики
+** Learner notes
+*** note-s-1298280-001-001
+:PROPERTIES:
+:END:
+- UK :: 計画を策定する — розробити й визначити план, 方針の策定 — формування політики. Це формальний процес вироблення керівного документа; не плутайте з реалізацією вже затвердженого плану, яка йде після нього.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1298280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい計画を策定した。
+- READING :: あたらしいけいかくをさくていした。
+- UK :: Ми розробили новий план.
+- EN :: We formulated a new plan.
+- FOCUS :: 策定した
+*** ex-1298280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 方針の策定に時間がかかった。
+- READING :: ほうしんのさくていにじかんがかかった。
+- UK :: Формування політики забрало час.
+- EN :: Formulating the policy took time.
+- FOCUS :: 策定
+*** ex-1298280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域の意見を取り入れて、長期計画を策定した。
+- READING :: ちいきのいけんをとりいれて、ちょうきけいかくをさくていした。
+- UK :: Ми розробили довгостроковий план, врахувавши думки громади.
+- EN :: We formulated a long-term plan incorporating local views.
+- FOCUS :: 策定した
+
+* Sense s-1298280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c262bfed1b41d8d4ac783d32cdf051d99ab0bc03eeefdf16d3f8e0aa4c692ee7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298280-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een beleid formuleren
+*** en-s-1298280-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitstippelen
+*** en-s-1298280-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een plan vastleggen
+*** en-s-1298280-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: formulering van een beleid
+*** en-s-1298280-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vastlegging van een plan
+** Ukrainian glosses
+
+* Sense s-1298280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aefbe59cb421ffc04ecf49850ec7baff976c78f64ffe0a472a48a92a42f9aa43
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298280-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen Plan ausarbeiten
+*** en-s-1298280-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausarbeitung eines Planes
+** Ukrainian glosses
+
+* Sense s-1298280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: afb91340cdbf840f31ee2341235718e2e00f8544bfa10ae5e72d4f021b33e9ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298280-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: döntés
+** Ukrainian glosses
+
+* Sense s-1298280-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6c3db336c356db75b4362bf8e5c4e8a2edabfbdf5997d4f5b0c780ce8fc14716
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298280-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: принятие плана (решения)
+** Ukrainian glosses
+
+* Sense s-1298280-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dd36d0cceca2c6aaa57662f5f3bc0d739f44aae8f38ad26335f13ff515c65539
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298280-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vzpostaviti
+** Ukrainian glosses
