@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **50/100** further distinct words; branch total **550**.
+Completed **60/100** further distinct words; branch total **560**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1244,6 +1244,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 3 | N2-1627–N2-S135 | 10 |
 | 4 | N2-S137–N2-S323 | 10 |
 | 5 | N2-S327–N2-S420 | 10 |
+| 6 | N2-S434–N2-S561 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1297,6 +1298,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S392 | [貸し出し](entries/1590/1590240-kashidashi.org) | かしだし | 1590240 | new / draft |
 | N2-S397 | [箇所](entries/1590/1590250-kasho.org) | かしょ | 1590250 | new / draft |
 | N2-S420 | [勝手に](entries/1346/1346200-katteni.org) | かってに | 1346200 | new / draft |
+| N2-S434 | [構いません](entries/1279/1279670-kamaimasen.org) | かまいません | 1279670 | new / draft |
+| N2-S456 | [元日](entries/1261/1261010-ganjitsu.org) | がんじつ | 1261010 | new / draft |
+| N2-S458 | [感ずる](entries/1609/1609650-kanzuru.org) | かんずる | 1609650 | new / draft |
+| N2-S470 | [乾杯](entries/1590/1590950-kanpai.org) | かんぱい | 1590950 | new / draft |
+| N2-S477 | [着替える](entries/1423/1423170-kigaeru.org) | きがえる | 1423170 | new / draft |
+| N2-S480 | [器具](entries/1218/1218920-kigu.org) | きぐ | 1218920 | new / draft |
+| N2-S503 | [休養](entries/1228/1228100-kyuuyou.org) | きゅうよう | 1228100 | new / draft |
+| N2-S530 | [苦心](entries/1244/1244530-kushin.org) | くしん | 1244530 | new / draft |
+| N2-S535 | [砕く](entries/1295/1295170-kudaku.org) | くだく | 1295170 | new / draft |
+| N2-S561 | [毛糸](entries/1533/1533860-keito.org) | けいと | 1533860 | new / draft |
 
 ## Maturity workflow
 
