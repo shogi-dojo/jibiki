@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **1990**.
+Completed **100/200** additional distinct words; branch total **2000**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3092,6 +3092,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3185,6 +3186,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 474 | [業務](entries/1239/1239540-gyoumu.org) | ぎょうむ | 1239540 | new / draft |
 | JLPTLord N2 476 | [工程](entries/1278/1278200-koutei.org) | こうてい | 1278200 | new / draft |
 | JLPTLord N2 479 | [手法](entries/1328/1328380-shuhou.org) | しゅほう | 1328380 | new / draft |
+| JLPTLord N2 481 | [技巧](entries/1225/1225100-gikou.org) | ぎこう | 1225100 | new / draft |
+| JLPTLord N2 483 | [要綱](entries/1546/1546740-youkou.org) | ようこう | 1546740 | new / draft |
+| JLPTLord N2 484 | [指針](entries/1309/1309840-shishin.org) | ししん | 1309840 | new / draft |
+| JLPTLord N2 485 | [方策](entries/1517/1517020-housaku.org) | ほうさく | 1517020 | new / draft |
+| JLPTLord N2 486 | [施策](entries/1310/1310380-shisaku.org) | しさく | 1310380 | new / draft |
+| JLPTLord N2 489 | [原則](entries/1262/1262070-gensoku.org) | げんそく | 1262070 | new / draft |
+| JLPTLord N2 491 | [法規](entries/1517/1517260-houki.org) | ほうき | 1517260 | new / draft |
+| JLPTLord N2 492 | [法令](entries/1517/1517500-hourei.org) | ほうれい | 1517500 | new / draft |
+| JLPTLord N2 493 | [条例](entries/1356/1356610-jourei.org) | じょうれい | 1356610 | new / draft |
+| JLPTLord N2 494 | [条項](entries/1356/1356550-joukou.org) | じょうこう | 1356550 | new / draft |
 
 ## Maturity workflow
 
