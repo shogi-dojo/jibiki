@@ -1,0 +1,416 @@
+#+TITLE: 応答
+#+JMDICT_ID: 1180000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おうとう
+#+ROMAJI: outou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180000-001
+:PROPERTIES:
+:TEXT: 応答
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Reading rd-1180000-001
+:PROPERTIES:
+:TEXT: おうとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1180000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 06e01409f9972a94290ca5f55025080c7c9659127f170061d69a27e66950df65
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- reply
+- answer
+- response
+** Ukrainian glosses
+*** uk-s-1180000-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відповідь; реагування на звернення
+** Learner notes
+*** note-s-1180000-001-001
+:PROPERTIES:
+:END:
+- UK :: 応答する — відповісти на звернення, сигнал або запит: 呼びかけに応答する. Звучить формальніше за 返事する й уживається також щодо пристроїв; 応答がない означає відсутність відповіді, а не обов'язково незгоду.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1180000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 呼びかけに応答した。
+- READING :: よびかけにおうとうした。
+- UK :: Я відповів на звернення.
+- EN :: I responded to the call.
+- FOCUS :: 応答した
+*** ex-1180000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 何度電話しても、応答がなかった。
+- READING :: なんどでんわしても、おうとうがなかった。
+- UK :: Хоч скільки я телефонував, відповіді не було.
+- EN :: No matter how many times I called, there was no answer.
+- FOCUS :: 応答
+*** ex-1180000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 機器から応答が得られなかったため、接続の状態を一つずつ確認した。
+- READING :: ききからおうとうがえられなかったため、せつぞくのじょうたいをひとつずつかくにんした。
+- UK :: Оскільки пристрій не відповідав, я перевірив стан з'єднань одне за одним.
+- EN :: Because the device did not respond, I checked the connections one by one.
+- FOCUS :: 応答
+
+* Sense s-1180000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a63f2db40e4f36a0870ed3f3d3d2228ba1f498e18fc4f5d86ab7d8663a584e12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reageren
+*** en-s-1180000-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antwoorden
+*** en-s-1180000-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gehoor geven
+*** en-s-1180000-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beantwoorden
+*** en-s-1180000-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: repliceren
+*** en-s-1180000-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: responderen
+*** en-s-1180000-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: respons
+*** en-s-1180000-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reactie
+*** en-s-1180000-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: responsie
+*** en-s-1180000-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weerklank
+*** en-s-1180000-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weerwerk
+*** en-s-1180000-002-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gehoor
+*** en-s-1180000-002-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antwoord
+*** en-s-1180000-002-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: repliek
+*** en-s-1180000-002-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Eng.} response
+** Ukrainian glosses
+
+* Sense s-1180000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 08e5252338775ecbca1dae69fb75673fa1794d14f16c1bcfafdaaa53b39c7636
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réponse
+** Ukrainian glosses
+
+* Sense s-1180000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1496f5e85d2ca2b9432800582ca55a9983f5f28bca6f3af1cb452fc2edb70158
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antworten
+*** en-s-1180000-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erwidern
+*** en-s-1180000-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entgegnen
+*** en-s-1180000-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Antwort
+*** en-s-1180000-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erwiderung
+*** en-s-1180000-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entgegnung
+** Ukrainian glosses
+
+* Sense s-1180000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f346517d750fd68e4f1b4947331c65ceacc37b43e291ff9af4153229da8be240
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: válasz
+*** en-s-1180000-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felelet
+*** en-s-1180000-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszhang
+** Ukrainian glosses
+
+* Sense s-1180000-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 975551599394a4624b8444b0eb6c4eaf79b5a21f52efc9178d516e6c2e1c1ea7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ответ; отклик
+*** en-s-1180000-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} отвечать
+*** en-s-1180000-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (тех.) обратная связь
+** Ukrainian glosses
+
+* Sense s-1180000-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: af9f6491a3218a8043a4492a73369b1de5f2ec56cf02a3f3e262406ff03e2da2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odrovor
+** Ukrainian glosses
+
+* Sense s-1180000-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 32a457fe44cf8cf0795f198fdd08ad43943f8d62298355a8915ceb2cbef274b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180000-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: respuesta
+*** en-s-1180000-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contestación
+** Ukrainian glosses
