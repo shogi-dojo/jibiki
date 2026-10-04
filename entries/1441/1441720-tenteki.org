@@ -1,0 +1,431 @@
+#+TITLE: 点滴
+#+JMDICT_ID: 1441720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんてき
+#+ROMAJI: tenteki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1441720-001
+:PROPERTIES:
+:TEXT: 点滴
+:END:
+*** Priorities
+- news1
+- nf16
+** Reading rd-1441720-001
+:PROPERTIES:
+:TEXT: てんてき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf16
+
+* Sense s-1441720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6dd60fea67dd1a9ef55a6ee2095137eeaaa78c882f1b151d4953d1f942361e23
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- raindrops
+- falling drop of water
+** Ukrainian glosses
+*** uk-s-1441720-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: крапля води; крапання; дощова крапля
+** Learner notes
+*** note-s-1441720-001-001
+:PROPERTIES:
+:END:
+- UK :: Буквальне значення про окрему краплю або падіння крапель води. Не кожне 点滴 має медичний зміст; образ крапання також лежить в основі переносного й усталеного медичного вживання.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1441720-002
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 27d61e084edabaa5b47e0ae7f2a9748acfa71c70733e845ce25f9c2bc6bfcbd2
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- med
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 点滴注射
+** English glosses
+- intravenous drip
+- IV
+- drip-feed
+** Ukrainian glosses
+*** uk-s-1441720-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: внутрішньовенна інфузія; крапельниця
+** Learner notes
+*** note-s-1441720-002-001
+:PROPERTIES:
+:END:
+- UK :: Поширене медичне значення: 点滴を受ける. У побутовій розмові може називати процедуру або її систему; саме слово не вказує склад рідини, мету чи тривалість, тому це не рекомендація способу лікування.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1441720-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 病院で点滴を受けた。
+- READING :: びょういんでてんてきをうけた。
+- UK :: У лікарні мені поставили крапельницю.
+- EN :: I received an IV drip at the hospital.
+- FOCUS :: 点滴
+*** ex-1441720-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 点滴について説明を聞いた。
+- READING :: てんてきについてせつめいをきいた。
+- UK :: Я послухав пояснення про крапельницю.
+- EN :: I listened to an explanation about the IV drip.
+- FOCUS :: 点滴
+*** ex-1441720-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 点滴が終わる時刻について尋ね、迎えに来る家族へ連絡した。
+- READING :: てんてきがおわるじこくについてたずね、むかえにくるかぞくへれんらくした。
+- UK :: Я запитав, коли закінчиться інфузія, і повідомив родині, яка мала мене забрати.
+- EN :: I asked when the IV drip would finish and contacted the family member coming to pick me up.
+- FOCUS :: 点滴
+
+
+* Sense s-1441720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0960bb3d44fb2f5592530fb78d31a4a683944cafc571c80832edbc29f2b65005
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterdruppel
+*** en-s-1441720-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterdrup
+*** en-s-1441720-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} regendruppel
+** Ukrainian glosses
+
+* Sense s-1441720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c69c9b0afe13e325c17bb5f6420517cb29aa69031193026dc6fed0b395d1d3fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} druppelinfuus
+*** en-s-1441720-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infuus
+*** en-s-1441720-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infusie
+*** en-s-1441720-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infusum
+*** en-s-1441720-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drip
+*** en-s-1441720-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} baxter
+** Ukrainian glosses
+
+* Sense s-1441720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8c7b1192cd492cbae1a520ded5eba6c392b7f114f7092db3fe73ad31d7243d83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indruppeling
+*** en-s-1441720-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: instillatie
+** Ukrainian glosses
+
+* Sense s-1441720-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1f82b6de3dc605d89a9f2006d3de48afcfb24f3bc0ebe92f3b55f829102896a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goutte (qui tombe)
+** Ukrainian glosses
+
+* Sense s-1441720-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dfc0cf728ee18c9ed04285e0a852f6757d12b495734620a9cde6aab364371d88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goutte-à-goutte (médical)
+** Ukrainian glosses
+
+* Sense s-1441720-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 18de6e4ec37329fb9003674256aacb429402744dfe63f3074a44f203c7a61947
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Tropfinfusion geben
+*** en-s-1441720-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wassertropfen
+*** en-s-1441720-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regentropfen
+*** en-s-1441720-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tropfen
+** Ukrainian glosses
+
+* Sense s-1441720-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: db2354f8e701fb35bb3692bbd4221c425614c025ab378ae26b43ca811613bc67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tropfinfusion
+*** en-s-1441720-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tropf
+** Ukrainian glosses
+
+* Sense s-1441720-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4e2169a0fc1c77791446502478b034624b141600ea12828b05b51961836790f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepegtet
+*** en-s-1441720-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepp
+*** en-s-1441720-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csöpp
+** Ukrainian glosses
+
+* Sense s-1441720-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: f71544dd5a6d9426a92a9ed8c9d877319bba12d0bbdf38fa41aab65e35a4186b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) капли [падающей воды]; капли дождя
+** Ukrainian glosses
+
+* Sense s-1441720-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 064337a8da94e0dbff81500fcbb8cdc7ae6e7eada0e28c1ceedfdba67749d55c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441720-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goteo
+*** en-s-1441720-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gotero
+** Ukrainian glosses
