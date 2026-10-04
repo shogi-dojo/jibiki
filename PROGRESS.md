@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **960**.
+Completed **70/200** additional distinct words; branch total **970**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1804,6 +1804,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1867,6 +1868,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 8.1.17 | [冷え込む](entries/1556/1556640-hiekomu.org) | ひえこむ | 1556640 | new / draft |
 | JTest 8.1.19 | [日和](entries/1464/1464950-hiyori.org) | ひより | 1464950 | new / draft |
 | JTest 8.2.5 | [降水量](entries/1282/1282900-kousuiryou.org) | こうすいりょう | 1282900 | new / draft |
+| JTest 8.2.7 | [大気](entries/1413/1413330-taiki.org) | たいき | 1413330 | new / draft |
+| JTest 8.2.11 | [応答](entries/1180/1180000-outou.org) | おうとう | 1180000 | new / draft |
+| JTest 8.2.15 | [及ぶ](entries/1228/1228170-oyobu.org) | およぶ | 1228170 | new / draft |
+| JTest 8.2.23 | [災害](entries/1295/1295100-saigai.org) | さいがい | 1295100 | new / draft |
+| JTest 8.3.1 | [大地](entries/1414/1414520-daichi.org) | だいち | 1414520 | new / draft |
+| JTest 8.3.7 | [海辺](entries/1201/1201750-umibe.org) | うみべ | 1201750 | new / draft |
+| JTest 8.3.19 | [夕焼け](entries/1542/1542720-yuuyake.org) | ゆうやけ | 1542720 | new / draft |
+| JTest 8.3.20 | [飛び回る](entries/1485/1485270-tobimawaru.org) | とびまわる | 1485270 | new / draft |
+| JTest 8.4.10 | [切り替える](entries/1591/1591780-kirikaeru.org) | きりかえる | 1591780 | new / draft |
+| JTest 8.4.22 | [見渡す](entries/1259/1259920-miwatasu.org) | みわたす | 1259920 | new / draft |
 
 ## Maturity workflow
 
