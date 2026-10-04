@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **20/100** additional distinct words; branch total **820**.
+Completed **30/100** additional distinct words; branch total **830**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1660,6 +1660,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1683,6 +1684,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 4.4.15 | [再開](entries/1292/1292400-saikai.org) | さいかい | 1292400 | new / draft |
 | JTest 4.4.28 | [気を抜く](entries/2127/2127660-kiwonuku.org) | きをぬく | 2127660 | new / draft |
 | JTest 4.5.3 | [栽培](entries/1294/1294910-saibai.org) | さいばい | 1294910 | new / draft |
+| JTest 4.5.7 | [栄える](entries/1173/1173860-sakaeru.org) | さかえる | 1173860 | new / draft |
+| JTest 4.5.9 | [急増](entries/1228/1228870-kyuuzou.org) | きゅうぞう | 1228870 | new / draft |
+| JTest 4.5.10 | [情緒](entries/1580/1580510-joucho.org) | じょうちょ | 1580510 | new / draft |
+| JTest 4.5.11 | [向上](entries/1277/1277250-koujou.org) | こうじょう | 1277250 | new / draft |
+| JTest 4.5.19 | [著しい](entries/1427/1427070-ichijirushii.org) | いちじるしい | 1427070 | new / draft |
+| JTest 4.5.22 | [現地](entries/1263/1263860-genchi.org) | げんち | 1263860 | new / draft |
+| JTest 5.1.2 | [願書](entries/1218/1218050-gansho.org) | がんしょ | 1218050 | new / draft |
+| JTest 5.1.7 | [通常](entries/1433/1433280-tsuujou.org) | つうじょう | 1433280 | new / draft |
+| JTest 5.1.8 | [担任](entries/1418/1418200-tannin.org) | たんにん | 1418200 | new / draft |
+| JTest 5.1.12 | [充実](entries/1334/1334340-juujitsu.org) | じゅうじつ | 1334340 | new / draft |
 
 ## Maturity workflow
 
