@@ -1,6 +1,6 @@
 # Additional N2 candidate evidence
 
-The [TodayJLPT N2 vocabulary list](https://todayjlpt.com/en/vocabulary/n2) supplies 239 selected candidates across two continuations.
+The [TodayJLPT N2 vocabulary list](https://todayjlpt.com/en/vocabulary/n2) supplies 428 selected candidates across three continuations.
 Retrieved 2026-10-04. These are study-list classifications, not an official JLPT syllabus.
 Each written form and reading was reconciled against pinned JMdict and existing entry IDs.
 
@@ -36,3 +36,25 @@ and graded examples are independently authored; source pages are not redistribut
 | [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=26) | `f0e813464c05e35f39d9e97d7fac0ea7077555b04e30bf70a06a8b1633dde7f5` |
 | [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=8) | `f03cb43f0012c1603043e643cb047a5021db812d28556138f71b395170a07b46` |
 | [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=9) | `bf98048814ef07a62931484a25c26240d39f0d91cabe0a3b4df0f174c7df7dc7` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=27) | `d2ebf0cc6e2a4d2524053d90eab2322ad2e3ddb53f0079edde26c508fd4b1947` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=28) | `aca05c15e0f8d07ddc270a942de1c4c4ceac144b7751ec92dc9eb1247f8e3fc2` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=29) | `ccf8fdd9449960f8cd586eb721ead36ddf63688b1691171f2a56150a07e2fc19` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=30) | `5b371a562e70cd4048efe60122e41352145d9c04236cb25f567a20bfcaf09940` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=31) | `4fec85983d9a6d4609b47e2a68c0e50e858d399aca0385b096833bac3c210063` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=32) | `92e607d72b1d641a2e46b1bea02eac4fb04ce26779807496f3afe8fcd2fa8107` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=33) | `992dc11a58396e8a43835bf4003f0f1450ffc5bbb250d5c6e7a831bdf33ff4bb` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=34) | `43f64f7ec33620f13b3514dc7b151f42889ba08f7f80c36b80f0e16b9c353d00` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=35) | `04535e58a6c4125e5144097a40cbe4401f3e064737072ff7cee8b5c932473183` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=36) | `85b46d3837d49d97f1f0f8a74c3a0dbda06ed0f51f4eb57ae5b61a05d623d9b5` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=37) | `a1e65fd0232b21832d2175120778b5398afeded540d807885888b98f5d01705d` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=38) | `93db5f0b0f2b08ead52a1da469b5b95fdcfca81da7987d0f44793ad43d559506` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=39) | `2e65d4cea43be0f7ccbcd5941c9d1b7a6263147151e0730e5b9c52760b6ad489` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=40) | `fdd3418d653d7af602b0e52206944325874040bb56bc32053c5b0a44047dd7d6` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=41) | `cbc3fa7e0a3f166f521585cc03305fa3cc3c927f2e7045676fc547313f499b4a` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=42) | `3b4bdb7f7e444450422d2a1a93751fc5d7a1c18d124fd743fcd49d291793d526` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=43) | `488f7f6e53bbdce6f1d907e247d70da07eb79d12777273abb5f133c0496c0408` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=44) | `a2329f342552017c9a9547689bdf47ad5ebaaee481fa818e1fbcf131c0b0e901` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=45) | `95f81dd0a0f53e35a33458f0f536d426a8d5e369f12dadc7bc21b53eeb58efb8` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=46) | `83c99b7ad2ac60cbc209ecde4ae979adcdb05b412e079a3e73a93770831bffc3` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=47) | `ce97a377d746713808f0e822e34ee8ca5473dcdb8d9339687deece338d81bd55` |
+| [Snapshot](https://todayjlpt.com/en/vocabulary/n2?page=48) | `f37f25db05cf3c1b807dbbb3e12e2f7d6affcfafaf01c9ebf541e87ebc8d4bcf` |

@@ -2549,6 +2549,37 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1021 | [小人](entries/1348/1348350-shounin.org) | しょうにん | 1348350 | new / draft |
 | TodayJLPT N2 1030 | [消滅](entries/1350/1350380-shoumetsu.org) | しょうめつ | 1350380 | new / draft |
 
+## Final 1700-word branch N2 continuation (2026-10-04)
+
+Baseline: `f0d52112`, with **1500** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **1510**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 1051 | [書名](entries/1344/1344170-shomei.org) | しょめい | 1344170 | new / draft |
+| TodayJLPT N2 1042 | [諸国](entries/1344/1344270-shokoku.org) | しょこく | 1344270 | new / draft |
+| TodayJLPT N2 1049 | [諸島](entries/1344/1344330-shotou.org) | しょとう | 1344330 | new / draft |
+| TodayJLPT N2 1041 | [職歴](entries/1357/1357590-shokureki.org) | しょくれき | 1357590 | new / draft |
+| Nihon Torii N2 29 | [湿る](entries/1320/1320390-shimeru.org) | しめる | 1320390 | new / draft |
+| Nihon Torii N2 108 | [揚げる](entries/2864/2864817-ageru.org) | あげる | 2864817 | new / draft |
+| Nihon Torii N2 132 | [討つ](entries/1478/1478010-utsu.org) | うつ | 1478010 | new / draft |
+| Nihon Torii N2 148 | [脅す](entries/1238/1238070-odosu.org) | おどす | 1238070 | new / draft |
+| Nihon Torii N2 151 | [衰える](entries/1372/1372430-otoroeru.org) | おとろえる | 1372430 | new / draft |
+| Nihon Torii N2 155 | [買い込む](entries/1473/1473610-kaikomu.org) | かいこむ | 1473610 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
