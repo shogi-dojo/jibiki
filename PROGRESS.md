@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **90/100** further distinct words; branch total **590**.
+Completed **100/100** further distinct words; branch total **600**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1248,6 +1248,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 7 | N2-S573–N2-S626 | 10 |
 | 8 | N2-S635–N2-S758 | 10 |
 | 9 | N2-S776–N2-S903 | 10 |
+| 10 | N2-S905–N2-S1024 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1341,6 +1342,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S891 | [上品](entries/1354/1354230-jouhin.org) | じょうひん | 1354230 | new / draft |
 | N2-S897 | [消耗](entries/1580/1580310-shoumou.org) | しょうもう | 1580310 | new / draft |
 | N2-S903 | [職場](entries/1357/1357540-shokuba.org) | しょくば | 1357540 | new / draft |
+| N2-S905 | [書籍](entries/1344/1344090-shoseki.org) | しょせき | 1344090 | new / draft |
+| N2-S909 | [書道](entries/1344/1344130-shodou.org) | しょどう | 1344130 | new / draft |
+| N2-S910 | [初歩](entries/1343/1343050-shoho.org) | しょほ | 1343050 | new / draft |
+| N2-S916 | [汁](entries/1335/1335520-shiru.org) | しる | 1335520 | new / draft |
+| N2-S922 | [人事](entries/1367/1367870-jinji.org) | じんじ | 1367870 | new / draft |
+| N2-S939 | [炊事](entries/1372/1372350-suiji.org) | すいじ | 1372350 | new / draft |
+| N2-S950 | [水面](entries/1372/1372120-suimen.org) | すいめん | 1372120 | new / draft |
+| N2-S957 | [隙](entries/1253/1253780-suki.org) | すき | 1253780 | new / draft |
+| N2-S967 | [涼む](entries/1554/1554380-suzumu.org) | すずむ | 1554380 | new / draft |
+| N2-S1024 | [台詞](entries/1577/1577270-serifu.org) | せりふ | 1577270 | new / draft |
 
 ## Maturity workflow
 
