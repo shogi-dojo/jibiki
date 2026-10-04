@@ -3067,6 +3067,37 @@ The next continuation will add 200 further distinct words from documented
 supplemental study-list evidence with the same per-sense notes, examples,
 validation, and individual commit requirements.
 
+## Final 2100-word branch N2 continuation (2026-10-04)
+
+Baseline: `737ad0ea`, with **1900** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **1910**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 325 | [領域](entries/1554/1554720-ryouiki.org) | りょういき | 1554720 | new / draft |
+| JLPTLord N2 327 | [要因](entries/1546/1546670-youin.org) | よういん | 1546670 | new / draft |
+| JLPTLord N2 329 | [経緯](entries/1251/1251120-keii.org) | けいい | 1251120 | new / draft |
+| JLPTLord N2 332 | [事例](entries/1314/1314540-jirei.org) | じれい | 1314540 | new / draft |
+| JLPTLord N2 333 | [事項](entries/1313/1313910-jikou.org) | じこう | 1313910 | new / draft |
+| JLPTLord N2 334 | [論点](entries/1561/1561800-ronten.org) | ろんてん | 1561800 | new / draft |
+| JLPTLord N2 336 | [争点](entries/1400/1400700-souten.org) | そうてん | 1400700 | new / draft |
+| JLPTLord N2 338 | [利点](entries/1549/1549620-riten.org) | りてん | 1549620 | new / draft |
+| JLPTLord N2 342 | [問題点](entries/1536/1536050-mondaiten.org) | もんだいてん | 1536050 | new / draft |
+| JLPTLord N2 343 | [改善点](entries/2039/2039040-kaizenten.org) | かいぜんてん | 2039040 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
