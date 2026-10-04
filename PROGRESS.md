@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **1160**.
+Completed **70/200** additional distinct words; branch total **1170**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2057,6 +2057,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2120,6 +2121,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.3.7 | [手につかない](entries/2202/2202960-tenitsukanai.org) | てにつかない | 2202960 | new / draft |
 | JTest 12.3.8 | [手をつける](entries/2222/2222160-tewotsukeru.org) | てをつける | 2222160 | new / draft |
 | JTest 12.3.9 | [手を貸す](entries/2126/2126990-tewokasu.org) | てをかす | 2126990 | new / draft |
+| JTest 12.3.10 | [手を休める](entries/2832/2832092-tewoyasumeru.org) | てをやすめる | 2832092 | new / draft |
+| JTest 12.3.11 | [手を抜く](entries/1327/1327310-tewonuku.org) | てをぬく | 1327310 | new / draft |
+| JTest 12.3.12 | [腕がいい](entries/1860/1860340-udegaii.org) | うでがいい | 1860340 | new / draft |
+| JTest 12.3.13 | [腕を磨く](entries/2102/2102290-udewomigaku.org) | うでをみがく | 2102290 | new / draft |
+| JTest 12.3.14 | [腕が上がる](entries/1854/1854800-udegaagaru.org) | うでがあがる | 1854800 | new / draft |
+| JTest 12.3.15 | [肩を落とす](entries/2402/2402770-katawootosu.org) | かたをおとす | 2402770 | new / draft |
+| JTest 12.3.16 | [腹が立つ](entries/1626/1626220-haragatatsu.org) | はらがたつ | 1626220 | new / draft |
+| JTest 12.3.17 | [腹を抱える](entries/2028/2028420-harawokakaeru.org) | はらをかかえる | 2028420 | new / draft |
+| JTest 12.3.18 | [足が出る](entries/1404/1404640-ashigaderu.org) | あしがでる | 1404640 | new / draft |
+| JTest 12.3.19 | [足を伸ばす](entries/2266/2266910-ashiwonobasu.org) | あしをのばす | 2266910 | new / draft |
 
 ## Maturity workflow
 
