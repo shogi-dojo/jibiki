@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **70/100** further distinct words; branch total **570**.
+Completed **80/100** further distinct words; branch total **580**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1246,6 +1246,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 5 | N2-S327–N2-S420 | 10 |
 | 6 | N2-S434–N2-S561 | 10 |
 | 7 | N2-S573–N2-S626 | 10 |
+| 8 | N2-S635–N2-S758 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1319,6 +1320,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S600 | [懸命](entries/1257/1257730-kenmei.org) | けんめい | 1257730 | new / draft |
 | N2-S620 | [口実](entries/1276/1276220-koujitsu.org) | こうじつ | 1276220 | new / draft |
 | N2-S626 | [功績](entries/1275/1275070-kouseki.org) | こうせき | 1275070 | new / draft |
+| N2-S635 | [肯定](entries/1281/1281180-koutei.org) | こうてい | 1281180 | new / draft |
+| N2-S655 | [焦げる](entries/1350/1350730-kogeru.org) | こげる | 1350730 | new / draft |
+| N2-S656 | [凍える](entries/1446/1446180-kogoeru.org) | こごえる | 1446180 | new / draft |
+| N2-S673 | [言葉遣い](entries/1264/1264560-kotobazukai.org) | ことばづかい | 1264560 | new / draft |
+| N2-S680 | [堪える](entries/2827/2827352-koraeru.org) | こらえる | 2827352 | new / draft |
+| N2-S681 | [娯楽](entries/1269/1269290-goraku.org) | ごらく | 1269290 | new / draft |
+| N2-S697 | [在学](entries/1296/1296440-zaigaku.org) | ざいがく | 1296440 | new / draft |
+| N2-S706 | [逆さ](entries/1226/1226970-sakasa.org) | さかさ | 1226970 | new / draft |
+| N2-S750 | [寺院](entries/1315/1315250-jiin.org) | じいん | 1315250 | new / draft |
+| N2-S758 | [仕方がない](entries/1305/1305420-shikataganai.org) | しかたがない | 1305420 | new / draft |
 
 ## Maturity workflow
 
