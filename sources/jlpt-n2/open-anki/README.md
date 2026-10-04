@@ -22,7 +22,8 @@ from the pinned local JMdict. Ukrainian translations, notes, and examples
 are independently authored.
 
 Selection excludes already authored JMdict IDs, unresolved homonyms,
-non-word affixes or malformed readings, and duplicates. Two otherwise
+malformed readings, and duplicates. Affix entries selected in the later
+continuation explicitly explain their construction and register. Two otherwise
 uncovered rows were rejected as unsuitable for this learning continuation:
 row 517 琴/きん resolves to Chinese guqin, while the common Japanese koto
 already exists; row 753 塩辛/しおから resolves to fermented seafood rather

@@ -1379,6 +1379,13 @@ and 44 from [documented JTest N2 sections](sources/jlpt-n2/jtest/README.md).
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
 
+Final audit: **100 distinct added JMdict IDs**, **100 individual word commits**,
+**164 English senses translated with 164 Ukrainian nuance notes**, and
+**300 graded examples**. Earlier 600 branch additions were preserved unchanged.
+The full test suite passed: **137 tests, 14,843 assertions**, zero failures,
+errors, or skips. `git diff --check` passed. Only the pre-existing 罪 draft
+remains uncommitted.
+
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |

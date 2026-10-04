@@ -13,7 +13,9 @@ nuance notes, and graded examples are independently authored. The full
 source pages are not redistributed.
 
 Candidates are labeled `JTest chapter.section.item`, using the numbered
-word element on each page. Source snapshot checksums:
+word element on each page. Presentation-only suffixes such as `（する）`
+are removed from the lexical label; meanings and readings are not rewritten.
+Source snapshot checksums:
 
 | Section | SHA-256 of retrieved HTML |
 | --- | --- |
