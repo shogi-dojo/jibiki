@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **1270**.
+Completed **180/200** additional distinct words; branch total **1280**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2068,6 +2068,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2241,6 +2242,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 73 | [移植](entries/1158/1158310-ishoku.org) | いしょく | 1158310 | new / draft |
 | TodayJLPT N2 79 | [一団](entries/1164/1164680-ichidan.org) | いちだん | 1164680 | new / draft |
 | TodayJLPT N2 82 | [一倍](entries/1165/1165690-ichibai.org) | いちばい | 1165690 | new / draft |
+| TodayJLPT N2 84 | [一角](entries/1161/1161400-ikkaku.org) | いっかく | 1161400 | new / draft |
+| TodayJLPT N2 86 | [一国](entries/1162/1162530-ikkoku.org) | いっこく | 1162530 | new / draft |
+| TodayJLPT N2 89 | [一色](entries/1576/1576130-isshoku.org) | いっしょく | 1576130 | new / draft |
+| TodayJLPT N2 103 | [胃袋](entries/1158/1158600-ibukuro.org) | いぶくろ | 1158600 | new / draft |
+| TodayJLPT N2 104 | [今一](entries/1289/1289030-imaichi.org) | いまいち | 1289030 | new / draft |
+| TodayJLPT N2 105 | [今時](entries/1289/1289180-imadoki.org) | いまどき | 1289180 | new / draft |
+| TodayJLPT N2 106 | [今や](entries/1289/1289000-imaya.org) | いまや | 1289000 | new / draft |
+| TodayJLPT N2 113 | [色気](entries/1357/1357670-iroke.org) | いろけ | 1357670 | new / draft |
+| TodayJLPT N2 123 | [雨季](entries/1588/1588010-uki.org) | うき | 1588010 | new / draft |
+| TodayJLPT N2 131 | [打ち合わせる](entries/1588/1588150-uchiawaseru.org) | うちあわせる | 1588150 | new / draft |
 
 ## Maturity workflow
 
