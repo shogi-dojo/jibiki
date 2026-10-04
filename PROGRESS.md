@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch N2 continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **2910**.
+Completed **20/200** additional distinct words; branch total **2920**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4422,6 +4422,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4435,6 +4436,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2662 | [総](entries/1401/1401470-sou.org) | そう | 1401470 | new / draft |
 | JLPTLord N2 2663 | [両](entries/2080/2080720-ryou.org) | りょう | 2080720 | new / draft |
 | JLPTLord N2 2664 | [諸](entries/1344/1344210-sho.org) | しょ | 1344210 | new / draft |
+| JLPTLord N2 2665 | [準](entries/1341/1341490-jun.org) | じゅん | 1341490 | new / draft |
+| JLPTLord N2 2666 | [副](entries/1500/1500330-fuku.org) | ふく | 1500330 | new / draft |
+| JLPTLord N2 2667 | [再](entries/1292/1292290-sai.org) | さい | 1292290 | new / draft |
+| JLPTLord N2 2671 | [的](entries/1437/1437260-teki.org) | てき | 1437260 | new / draft |
+| JLPTLord N2 2673 | [化](entries/2056/2056760-ka.org) | か | 2056760 | new / draft |
+| JLPTLord N2 2676 | [値](entries/2188/2188520-chi.org) | ち | 2188520 | new / draft |
+| JLPTLord N2 2677 | [観](entries/1214/1214770-kan.org) | かん | 1214770 | new / draft |
+| JLPTLord N2 2678 | [感](entries/1955/1955970-kan.org) | かん | 1955970 | new / draft |
+| JLPTLord N2 2679 | [力](entries/1554/1554840-ryoku.org) | りょく | 1554840 | new / draft |
+| JLPTLord N2 2681 | [制](entries/1374/1374620-sei.org) | せい | 1374620 | new / draft |
 
 ## Maturity workflow
 
