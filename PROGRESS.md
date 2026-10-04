@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **1360**.
+Completed **70/200** additional distinct words; branch total **1370**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2314,6 +2314,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2377,6 +2378,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 489 | [技法](entries/1225/1225240-gihou.org) | ぎほう | 1225240 | new / draft |
 | TodayJLPT N2 490 | [気前](entries/1222/1222410-kimae.org) | きまえ | 1222410 | new / draft |
 | TodayJLPT N2 491 | [気難しい](entries/1577/1577750-kimuzukashii.org) | きむずかしい | 1577750 | new / draft |
+| TodayJLPT N2 492 | [決め付ける](entries/1254/1254210-kimetsukeru.org) | きめつける | 1254210 | new / draft |
+| TodayJLPT N2 495 | [逆境](entries/1227/1227010-gyakkyou.org) | ぎゃっきょう | 1227010 | new / draft |
+| TodayJLPT N2 498 | [急患](entries/1228/1228670-kyuukan.org) | きゅうかん | 1228670 | new / draft |
+| TodayJLPT N2 501 | [旧式](entries/1230/1230790-kyuushiki.org) | きゅうしき | 1230790 | new / draft |
+| TodayJLPT N2 502 | [救出](entries/1229/1229180-kyuushutsu.org) | きゅうしゅつ | 1229180 | new / draft |
+| TodayJLPT N2 504 | [急変](entries/1228/1228960-kyuuhen.org) | きゅうへん | 1228960 | new / draft |
+| TodayJLPT N2 505 | [給油](entries/1230/1230340-kyuuyu.org) | きゅうゆ | 1230340 | new / draft |
+| TodayJLPT N2 509 | [競泳](entries/1234/1234060-kyouei.org) | きょうえい | 1234060 | new / draft |
+| TodayJLPT N2 512 | [行間](entries/1281/1281880-gyoukan.org) | ぎょうかん | 1281880 | new / draft |
+| TodayJLPT N2 513 | [競合](entries/1234/1234100-kyougou.org) | きょうごう | 1234100 | new / draft |
 
 ## Maturity workflow
 
