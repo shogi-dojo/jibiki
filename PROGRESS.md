@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **2780**.
+Completed **90/200** additional distinct words; branch total **2790**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4161,6 +4161,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4244,6 +4245,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2220 | [愛着](entries/1575/1575680-aichaku.org) | あいちゃく | 1575680 | new / draft |
 | JLPTLord N2 2221 | [親愛](entries/1365/1365090-shinai.org) | しんあい | 1365090 | new / draft |
 | JLPTLord N2 2222 | [敬愛](entries/1250/1250710-keiai.org) | けいあい | 1250710 | new / draft |
+| JLPTLord N2 2223 | [畏敬](entries/1157/1157450-ikei.org) | いけい | 1157450 | new / draft |
+| JLPTLord N2 2224 | [崇敬](entries/1372/1372850-suukei.org) | すうけい | 1372850 | new / draft |
+| JLPTLord N2 2226 | [恩義](entries/1589/1589610-ongi.org) | おんぎ | 1589610 | new / draft |
+| JLPTLord N2 2227 | [忠誠](entries/1426/1426170-chuusei.org) | ちゅうせい | 1426170 | new / draft |
+| JLPTLord N2 2228 | [献身](entries/1258/1258450-kenshin.org) | けんしん | 1258450 | new / draft |
+| JLPTLord N2 2229 | [自己犠牲](entries/1317/1317610-jikogisei.org) | じこぎせい | 1317610 | new / draft |
+| JLPTLord N2 2230 | [無私](entries/1638/1638430-mushi.org) | むし | 1638430 | new / draft |
+| JLPTLord N2 2231 | [利己的](entries/1549/1549540-rikoteki.org) | りこてき | 1549540 | new / draft |
+| JLPTLord N2 2233 | [協力的](entries/2848/2848927-kyouryokuteki.org) | きょうりょくてき | 2848927 | new / draft |
+| JLPTLord N2 2234 | [献身的](entries/1714/1714900-kenshinteki.org) | けんしんてき | 1714900 | new / draft |
 
 ## Maturity workflow
 
