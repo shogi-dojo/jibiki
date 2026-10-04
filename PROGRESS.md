@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **1250**.
+Completed **160/200** additional distinct words; branch total **1260**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2066,6 +2066,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2219,6 +2220,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 247 | [持ち](entries/1612/1612060-mochi.org) | もち | 1612060 | new / draft |
 | Kotoba N2 250 | [漏る](entries/1560/1560840-moru.org) | もる | 1560840 | new / draft |
 | Kotoba N2 257 | [勇敢](entries/1539/1539730-yuukan.org) | ゆうかん | 1539730 | new / draft |
+| Kotoba N2 259 | [養護](entries/1605/1605847-yougo.org) | ようご | 1605847 | new / draft |
+| Kotoba N2 336 | [埋める](entries/1524/1524490-uzumeru.org) | うずめる | 1524490 | new / draft |
+| Kotoba N2 444 | [火口](entries/1724/1724250-higuchi.org) | ひぐち | 1724250 | new / draft |
+| Kotoba N2 468 | [仮名](entries/1577/1577090-kamei.org) | かめい | 1577090 | new / draft |
+| Kotoba N2 1195 | [何分](entries/1189/1189320-nanpun.org) | なんぷん | 1189320 | new / draft |
+| Kotoba N2 1205 | [二次](entries/1461/1461870-niji.org) | にじ | 1461870 | new / draft |
+| Kotoba N2 1273 | [閥](entries/1478/1478310-batsu.org) | ばつ | 1478310 | new / draft |
+| Kotoba N2 1275 | [万年](entries/1526/1526310-mannen.org) | まんねん | 1526310 | new / draft |
+| Kotoba N2 1489 | [蒸かす](entries/1356/1356850-fukasu.org) | ふかす | 1356850 | new / draft |
+| Kotoba N2 1508 | [目下](entries/1535/1535330-mokka.org) | もっか | 1535330 | new / draft |
 
 ## Maturity workflow
 
