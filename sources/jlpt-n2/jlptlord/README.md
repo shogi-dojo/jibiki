@@ -10,3 +10,10 @@ Only lexical metadata is used for candidate evidence. Source definitions and sen
 | Retrieved source | SHA-256 |
 | --- | --- |
 | [Public HTML snapshot](https://www.jlptlord.com/jlpt-n2/vocabulary) | `9a6d76939e0be4152a8b422556ea59b804e47e321dd8b5250f3260e54c3c31f1` |
+
+## Usage cross-check
+
+The original notes for 被告 and 原告 distinguish civil litigants from criminal roles.
+This distinction was checked against the [Japanese courts' explanation of judges](https://www.courts.go.jp/saiban/zinbutu/saibankan/index.html) and [criminal proceedings](https://www.courts.go.jp/saiban/syurui/syurui_keizi/index.html), accessed 2026-10-04.
+These references support usage notes; they are not additional N2 classification evidence.
+No source sentences are copied.

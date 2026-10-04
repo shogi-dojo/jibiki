@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **2070**.
+Completed **180/200** additional distinct words; branch total **2080**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3100,6 +3100,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3273,6 +3274,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 650 | [賃金](entries/1431/1431990-chingin.org) | ちんぎん | 1431990 | new / draft |
 | JLPTLord N2 651 | [報酬](entries/1515/1515700-houshuu.org) | ほうしゅう | 1515700 | new / draft |
 | JLPTLord N2 653 | [福利厚生](entries/1826/1826450-fukurikousei.org) | ふくりこうせい | 1826450 | new / draft |
+| JLPTLord N2 656 | [連盟](entries/1559/1559870-renmei.org) | れんめい | 1559870 | new / draft |
+| JLPTLord N2 659 | [法廷](entries/1517/1517400-houtei.org) | ほうてい | 1517400 | new / draft |
+| JLPTLord N2 660 | [検察](entries/1257/1257910-kensatsu.org) | けんさつ | 1257910 | new / draft |
+| JLPTLord N2 661 | [弁護](entries/1512/1512830-bengo.org) | べんご | 1512830 | new / draft |
+| JLPTLord N2 662 | [弁護士](entries/1512/1512850-bengoshi.org) | べんごし | 1512850 | new / draft |
+| JLPTLord N2 663 | [被告](entries/1484/1484410-hikoku.org) | ひこく | 1484410 | new / draft |
+| JLPTLord N2 664 | [原告](entries/1261/1261400-genkoku.org) | げんこく | 1261400 | new / draft |
+| JLPTLord N2 665 | [容疑者](entries/1545/1545390-yougisha.org) | ようぎしゃ | 1545390 | new / draft |
+| JLPTLord N2 666 | [判決](entries/1478/1478520-hanketsu.org) | はんけつ | 1478520 | new / draft |
+| JLPTLord N2 667 | [有罪](entries/1541/1541350-yuuzai.org) | ゆうざい | 1541350 | new / draft |
 
 ## Maturity workflow
 
