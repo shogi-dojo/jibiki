@@ -1,0 +1,677 @@
+#+TITLE: 文書
+#+JMDICT_ID: 1583840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんしょ
+#+ROMAJI: bunsho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1583840-001
+:PROPERTIES:
+:TEXT: 文書
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1583840-001
+:PROPERTIES:
+:TEXT: ぶんしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1583840-002
+:PROPERTIES:
+:TEXT: もんじょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1583840-003
+:PROPERTIES:
+:TEXT: ぶんじょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1583840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4baaf61ca3ad505e608157bc94413d4b6ff70552f8c560f75c70daaafa3d550
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- document
+- writing
+- letter
+- papers
+- notes
+- records
+- archives
+** Ukrainian glosses
+*** uk-s-1583840-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: документ; письмовий матеріал; записи; архівні папери
+** Learner notes
+*** note-s-1583840-001-001
+:PROPERTIES:
+:END:
+- UK :: =文書を作成する= — скласти документ, =文書で伝える= — повідомити письмово. Читання прикладів =ぶんしょ=; =文章= текст як зв'язне висловлювання, а =文書= документ або запис. Не обов'язково лише офіційний бланк.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1583840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 文書を読んだ。
+- READING :: ぶんしょをよんだ。
+- UK :: Я прочитав документ.
+- EN :: I read the document.
+- FOCUS :: 文書
+*** ex-1583840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会議で決まったことを、文書にまとめた。
+- READING :: かいぎできまったことを、ぶんしょにまとめた。
+- UK :: Я виклав у документі рішення наради.
+- EN :: I recorded the meeting's decisions in a document.
+- FOCUS :: 文書
+*** ex-1583840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 口頭の説明と文書の内容が違っていたため、担当者に確認を求めた。
+- READING :: こうとうのせつめいとぶんしょのないようがちがっていたため、たんとうしゃにかくにんをもとめた。
+- UK :: Усне пояснення відрізнялося від документа, тож я попросив відповідального уточнити.
+- EN :: The oral explanation differed from the document, so I asked the responsible person to clarify.
+- FOCUS :: 文書
+
+* Sense s-1583840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f858fc53110d82b0dac1924fe121fa26b4bf7b3f1bdca5de15396d9799b50389
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- もんじょ
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- paleography term
+** English glosses
+- document addressed to someone
+** Ukrainian glosses
+*** uk-s-1583840-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: документ, адресований певній особі (лише もんじょ)
+** Learner notes
+*** note-s-1583840-002-001
+:PROPERTIES:
+:END:
+- UK :: JMdict обмежує цей сенс читанням =もんじょ=. Це не автоматичний додатковий переклад прикладів із =ぶんしょ=. Історичний чи документальний контекст визначає адресованість; обмеження читання треба зберегти при виборі сенсу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1583840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b3b665392e79b79738eadf03a4cdc1773c52c6ad007f73f99bb24d559461d192
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: document
+*** en-s-1583840-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (geschreven) stuk
+*** en-s-1583840-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geschrift
+*** en-s-1583840-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bescheid
+*** en-s-1583840-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: akte
+*** en-s-1583840-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: papier
+*** en-s-1583840-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: papieren
+*** en-s-1583840-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oorkonde
+*** en-s-1583840-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schriftuur
+*** en-s-1583840-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} schrift
+*** en-s-1583840-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: paperassen
+** Ukrainian glosses
+
+* Sense s-1583840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 58f6c49fe484ed01420c15dbaec7ec6578a718dccdc4cbe4475e2686c9770663
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: écrit
+*** en-s-1583840-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: archives
+*** en-s-1583840-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: document
+*** en-s-1583840-004-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lettre
+*** en-s-1583840-004-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: note
+** Ukrainian glosses
+
+* Sense s-1583840-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1cbd9e43540a3a44bf4f377c590138b3fea28e7bceba6788caa740264607521a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schriftstück
+*** en-s-1583840-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufzeichnung
+*** en-s-1583840-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schrift
+*** en-s-1583840-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dokument
+** Ukrainian glosses
+
+* Sense s-1583840-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b5c93aacf797bdf51cd4ba70e074afce69de77ac91d068d328077b8d126819f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dokument
+*** en-s-1583840-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schriftstück
+*** en-s-1583840-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufzeichnung
+*** en-s-1583840-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schrift
+** Ukrainian glosses
+
+* Sense s-1583840-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3c95d853a61b29908b10feeb85b3efcbb5d4fc447360e42208c87e6e93995166
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vádirat
+*** en-s-1583840-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elemi fokú ismereteket tanít
+*** en-s-1583840-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: írásmód
+*** en-s-1583840-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: írásmű
+*** en-s-1583840-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: írásművészet
+*** en-s-1583840-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irat
+*** en-s-1583840-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irodalmi alkotás
+*** en-s-1583840-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olvasást, írást és számolást tanít
+*** en-s-1583840-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szépírás
+*** en-s-1583840-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levél
+*** en-s-1583840-007-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adóslevél
+*** en-s-1583840-007-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: figyelem
+*** en-s-1583840-007-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hang
+*** en-s-1583840-007-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jegyzék
+*** en-s-1583840-007-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: magyarázat
+*** en-s-1583840-007-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megjegyzés
+*** en-s-1583840-007-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: emlékanyag
+*** en-s-1583840-007-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiteles feljegyzések
+** Ukrainian glosses
+
+* Sense s-1583840-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8e298ad166561372f7feb5b2c4d6234cff71b11ab80f7664f69c56db190f057b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: документ, бумага; бумаги, документация; [официальная] корреспонденция; послание, нота
+*** en-s-1583840-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ぶんしょ【文書】
+** Ukrainian glosses
+
+* Sense s-1583840-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 5b8f9b0d1a698e7bb08cfd88f23027ee76829ea88a32eb9d3dd12ad249314a54
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spis
+*** en-s-1583840-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zapis
+*** en-s-1583840-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dokument
+*** en-s-1583840-009-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: listina
+** Ukrainian glosses
+
+* Sense s-1583840-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b26855fd3020ddc0a41324e2086a0d1270b8f8322897d91789dfc28249c9cb62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583840-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: documento
+*** en-s-1583840-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: escrito
+*** en-s-1583840-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carta
+*** en-s-1583840-010-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: papeleo
+*** en-s-1583840-010-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trabajo administrativo
+*** en-s-1583840-010-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nota
+*** en-s-1583840-010-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: registros
+*** en-s-1583840-010-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: archivos
+** Ukrainian glosses
