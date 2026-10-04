@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **1480**.
+Completed **190/200** additional distinct words; branch total **1490**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2326,6 +2326,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2509,6 +2510,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 964 | [熟練](entries/1337/1337930-jukuren.org) | じゅくれん | 1337930 | new / draft |
 | TodayJLPT N2 968 | [主将](entries/1325/1325590-shushou.org) | しゅしょう | 1325590 | new / draft |
 | TodayJLPT N2 969 | [受賞](entries/1329/1329790-jushou.org) | じゅしょう | 1329790 | new / draft |
+| TodayJLPT N2 971 | [酒造](entries/1329/1329140-shuzou.org) | しゅぞう | 1329140 | new / draft |
+| TodayJLPT N2 972 | [種族](entries/1328/1328840-shuzoku.org) | しゅぞく | 1328840 | new / draft |
+| TodayJLPT N2 973 | [術](entries/1340/1340780-jutsu.org) | じゅつ | 1340780 | new / draft |
+| TodayJLPT N2 974 | [出火](entries/1338/1338330-shukka.org) | しゅっか | 1338330 | new / draft |
+| TodayJLPT N2 975 | [出荷](entries/1338/1338350-shukka.org) | しゅっか | 1338350 | new / draft |
+| TodayJLPT N2 979 | [出展](entries/1339/1339800-shutten.org) | しゅってん | 1339800 | new / draft |
+| TodayJLPT N2 980 | [出入](entries/1339/1339900-shutsunyuu.org) | しゅつにゅう | 1339900 | new / draft |
+| TodayJLPT N2 984 | [巡回](entries/1342/1342070-junkai.org) | じゅんかい | 1342070 | new / draft |
+| TodayJLPT N2 986 | [純金](entries/1341/1341880-junkin.org) | じゅんきん | 1341880 | new / draft |
+| TodayJLPT N2 992 | [順路](entries/1609/1609940-junro.org) | じゅんろ | 1609940 | new / draft |
 
 ## Maturity workflow
 
