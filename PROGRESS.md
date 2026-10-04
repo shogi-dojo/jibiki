@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch N2 continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **2940**.
+Completed **50/200** additional distinct words; branch total **2950**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4425,6 +4425,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4468,6 +4469,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2764 | [告訴](entries/1286/1286030-kokuso.org) | こくそ | 1286030 | new / draft |
 | JLPTLord N2 2769 | [検事](entries/1257/1257930-kenji.org) | けんじ | 1257930 | new / draft |
 | JLPTLord N2 2770 | [裁判官](entries/1296/1296130-saibankan.org) | さいばんかん | 1296130 | new / draft |
+| JLPTLord N2 2773 | [証人](entries/1351/1351660-shounin.org) | しょうにん | 1351660 | new / draft |
+| JLPTLord N2 2774 | [証拠](entries/1351/1351600-shouko.org) | しょうこ | 1351600 | new / draft |
+| JLPTLord N2 2779 | [懲役](entries/1428/1428220-choueki.org) | ちょうえき | 1428220 | new / draft |
+| JLPTLord N2 2780 | [罰金](entries/1478/1478090-bakkin.org) | ばっきん | 1478090 | new / draft |
+| JLPTLord N2 2782 | [容疑](entries/1545/1545380-yougi.org) | ようぎ | 1545380 | new / draft |
+| JLPTLord N2 2785 | [拘束](entries/1279/1279000-kousoku.org) | こうそく | 1279000 | new / draft |
+| JLPTLord N2 2787 | [施行](entries/1579/1579510-shikou.org) | しこう | 1579510 | new / draft |
+| JLPTLord N2 2790 | [制定](entries/1374/1374870-seitei.org) | せいてい | 1374870 | new / draft |
+| JLPTLord N2 2794 | [渓谷](entries/1250/1250950-keikoku.org) | けいこく | 1250950 | new / draft |
+| JLPTLord N2 2795 | [断崖](entries/1419/1419580-dangai.org) | だんがい | 1419580 | new / draft |
 
 ## Maturity workflow
 

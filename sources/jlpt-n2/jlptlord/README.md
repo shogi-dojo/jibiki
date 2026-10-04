@@ -59,3 +59,16 @@ The final 170 unused reconciled candidates were selected on 2026-10-05.
 The manifest now contains 1,302 lexical records. Every new sense, nuance note
 and example is independently authored. A further source is being reconciled
 for the remaining 30 entries; the objective remains 3,100 total additions.
+
+### Usage cross-check for the 3100 continuation
+
+Original notes distinguish judicial and prosecutorial roles, criminal complaints,
+and the historical term 懲役. Checked on 2026-10-05 against the
+[Japanese courts' judge explanation](https://www.courts.go.jp/saiban/zinbutu/saibankan/index.html),
+[prosecutor roles](https://www.kensatsu.go.jp/gyoumu/kensatsukan.htm),
+[Ministry of Justice victim support explanation](https://www.moj.go.jp/keiji1/keiji_keiji11-3.html),
+and [the introduction of 拘禁刑](https://www.moj.go.jp/kyousei1/kyousei05_00164.html).
+The [2025 crime white paper](https://hakusyo1.moj.go.jp/jp/72/nfm/n72_2_2_3_1_0.html)
+explains that earlier acts remain subject to the former penalties.
+These sources support usage notes, not JLPT level classification; sentences
+are independently authored.
