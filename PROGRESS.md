@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **1210**.
+Completed **120/200** additional distinct words; branch total **1220**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2062,6 +2062,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2175,6 +2176,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 105 | [採算](entries/1294/1294780-saisan.org) | さいさん | 1294780 | new / draft |
 | Kotoba N2 106 | [細胞](entries/1295/1295740-saibou.org) | さいぼう | 1295740 | new / draft |
 | Kotoba N2 107 | [映える](entries/1600/1600620-haeru.org) | はえる | 1600620 | new / draft |
+| Kotoba N2 111 | [寒気](entries/2866/2866134-kanki.org) | かんき | 2866134 | new / draft |
+| Kotoba N2 112 | [侍](entries/1314/1314780-samurai.org) | さむらい | 1314780 | new / draft |
+| Kotoba N2 116 | [視覚](entries/1312/1312010-shikaku.org) | しかく | 1312010 | new / draft |
+| Kotoba N2 117 | [資格](entries/1312/1312690-shikaku.org) | しかく | 1312690 | new / draft |
+| Kotoba N2 122 | [使命](entries/1306/1306160-shimei.org) | しめい | 1306160 | new / draft |
+| Kotoba N2 127 | [少数](entries/1349/1349070-shousuu.org) | しょうすう | 1349070 | new / draft |
+| Kotoba N2 130 | [退く](entries/1595/1595084-shirizoku.org) | しりぞく | 1595084 | new / draft |
+| Kotoba N2 133 | [新](entries/1361/1361480-shin.org) | しん | 1361480 | new / draft |
+| Kotoba N2 134 | [新人](entries/1361/1361960-shinjin.org) | しんじん | 1361960 | new / draft |
+| Kotoba N2 135 | [神聖](entries/1364/1364730-shinsei.org) | しんせい | 1364730 | new / draft |
 
 ## Maturity workflow
 
