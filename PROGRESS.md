@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **2390**.
+Completed **100/200** additional distinct words; branch total **2400**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3621,6 +3621,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3714,6 +3715,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1323 | [合金](entries/1284/1284730-goukin.org) | ごうきん | 1284730 | new / draft |
 | JLPTLord N2 1324 | [鋼鉄](entries/1282/1282740-koutetsu.org) | こうてつ | 1282740 | new / draft |
 | JLPTLord N2 1326 | [鉛](entries/1178/1178500-namari.org) | なまり | 1178500 | new / draft |
+| JLPTLord N2 1327 | [亜鉛](entries/1149/1149590-aen.org) | あえん | 1149590 | new / draft |
+| JLPTLord N2 1329 | [塗料](entries/1444/1444340-toryou.org) | とりょう | 1444340 | new / draft |
+| JLPTLord N2 1330 | [接着剤](entries/1385/1385580-setchakuzai.org) | せっちゃくざい | 1385580 | new / draft |
+| JLPTLord N2 1331 | [潤滑油](entries/1341/1341830-junkatsuyu.org) | じゅんかつゆ | 1341830 | new / draft |
+| JLPTLord N2 1332 | [溶剤](entries/1546/1546140-youzai.org) | ようざい | 1546140 | new / draft |
+| JLPTLord N2 1336 | [機器](entries/1220/1220900-kiki.org) | きき | 1220900 | new / draft |
+| JLPTLord N2 1339 | [回路](entries/1199/1199830-kairo.org) | かいろ | 1199830 | new / draft |
+| JLPTLord N2 1341 | [蓄電池](entries/1422/1422460-chikudenchi.org) | ちくでんち | 1422460 | new / draft |
+| JLPTLord N2 1342 | [充電](entries/1334/1334390-juuden.org) | じゅうでん | 1334390 | new / draft |
+| JLPTLord N2 1343 | [放電](entries/1516/1516800-houden.org) | ほうでん | 1516800 | new / draft |
 
 ## Maturity workflow
 
