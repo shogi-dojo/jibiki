@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4963 |
+| Canonical entry files | 5063 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1991 |
+| Canonical N2 entries | 2091 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4926 |
+| `new` | 5026 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4953 |
+| Entry metadata still marked `draft` | 5053 |
 | Core profile | 163 |
-| Learner profile | 4799 |
+| Learner profile | 4899 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **990**.
+Completed **100/200** additional distinct words; branch total **1000**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1807,6 +1807,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1900,6 +1901,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 9.2.3 | [不調](entries/1493/1493840-fuchou.org) | ふちょう | 1493840 | new / draft |
 | JTest 9.2.4 | [体調](entries/1409/1409610-taichou.org) | たいちょう | 1409610 | new / draft |
 | JTest 9.2.6 | [寝心地](entries/1792/1792820-negokochi.org) | ねごこち | 1792820 | new / draft |
+| JTest 9.2.8 | [念のため](entries/1469/1469350-nennotame.org) | ねんのため | 1469350 | new / draft |
+| JTest 9.2.9 | [通院](entries/1433/1433040-tsuuin.org) | つういん | 1433040 | new / draft |
+| JTest 9.2.16 | [補給](entries/1514/1514510-hokyuu.org) | ほきゅう | 1514510 | new / draft |
+| JTest 9.2.19 | [取り戻す](entries/1326/1326940-torimodosu.org) | とりもどす | 1326940 | new / draft |
+| JTest 9.2.21 | [加入](entries/1190/1190430-kanyuu.org) | かにゅう | 1190430 | new / draft |
+| JTest 9.3.7 | [視野](entries/1312/1312140-shiya.org) | しや | 1312140 | new / draft |
+| JTest 9.3.11 | [便秘](entries/1512/1512580-benpi.org) | べんぴ | 1512580 | new / draft |
+| JTest 9.3.13 | [寒気](entries/1210/1210410-samuke.org) | さむけ | 1210410 | new / draft |
+| JTest 9.3.19 | [伴う](entries/1478/1478370-tomonau.org) | ともなう | 1478370 | new / draft |
+| JTest 9.3.22 | [反応](entries/1480/1480210-hannou.org) | はんのう | 1480210 | new / draft |
 
 ## Maturity workflow
 
