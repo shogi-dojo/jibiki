@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **2860**.
+Completed **170/200** additional distinct words; branch total **2870**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4169,6 +4169,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4332,6 +4333,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2459 | [授ける](entries/1330/1330280-sazukeru.org) | さずける | 1330280 | new / draft |
 | JLPTLord N2 2463 | [悔いる](entries/1200/1200400-kuiru.org) | くいる | 1200400 | new / draft |
 | JLPTLord N2 2464 | [省みる](entries/2836/2836356-kaerimiru.org) | かえりみる | 2836356 | new / draft |
+| JLPTLord N2 2465 | [漲る](entries/1568/1568820-minagiru.org) | みなぎる | 1568820 | new / draft |
+| JLPTLord N2 2467 | [赴く](entries/1498/1498190-omomuku.org) | おもむく | 1498190 | new / draft |
+| JLPTLord N2 2471 | [育む](entries/1600/1600700-hagukumu.org) | はぐくむ | 1600700 | new / draft |
+| JLPTLord N2 2472 | [慈しむ](entries/1315/1315280-itsukushimu.org) | いつくしむ | 1315280 | new / draft |
+| JLPTLord N2 2473 | [労る](entries/1560/1560240-itawaru.org) | いたわる | 1560240 | new / draft |
+| JLPTLord N2 2476 | [嘲る](entries/1565/1565590-azakeru.org) | あざける | 1565590 | new / draft |
+| JLPTLord N2 2477 | [蔑ろにする](entries/1510/1510280-naigashironisuru.org) | ないがしろにする | 1510280 | new / draft |
+| JLPTLord N2 2479 | [拘る](entries/1004/1004480-kodawaru.org) | こだわる | 1004480 | new / draft |
+| JLPTLord N2 2480 | [甘んじる](entries/1621/1621660-amanjiru.org) | あまんじる | 1621660 | new / draft |
+| JLPTLord N2 2481 | [悶える](entries/1536/1536080-modaeru.org) | もだえる | 1536080 | new / draft |
 
 ## Maturity workflow
 
