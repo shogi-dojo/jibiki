@@ -1,0 +1,508 @@
+#+TITLE: 草原
+#+JMDICT_ID: 1401970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうげん
+#+ROMAJI: sougen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1401970-001
+:PROPERTIES:
+:TEXT: 草原
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Written form wf-1401970-002
+:PROPERTIES:
+:TEXT: 草はら
+:END:
+*** Information
+- sK
+** Reading rd-1401970-001
+:PROPERTIES:
+:TEXT: そうげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Reading rd-1401970-002
+:PROPERTIES:
+:TEXT: くさはら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1401970-003
+:PROPERTIES:
+:TEXT: くさわら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1401970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: baa926fd4f2856d139a36c06038aba8a81515e2f41af30a4934e21691ef0df69
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- grassy field
+- grassland
+- meadow
+** Ukrainian glosses
+*** uk-s-1401970-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: луг; трав'янистий простір
+** Learner notes
+*** note-s-1401970-001-001
+:PROPERTIES:
+:END:
+- UK :: 草原 називає відкриту місцевість, укриту травою: 草原を歩く, 草原が広がる. Не обов'язково доглянутий газон 芝生 чи поле для вирощування культур 畑. Читання тут そうげん; слово часто природне в описі просторого природного краєвиду.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1401970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 草原を歩いた。
+- READING :: そうげんをあるいた。
+- UK :: Я йшов трав'янистим простором.
+- EN :: I walked across the grassland.
+- FOCUS :: 草原
+*** ex-1401970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 広い草原が見える。
+- READING :: ひろいそうげんがみえる。
+- UK :: Видно широкий луг.
+- EN :: A broad meadow is visible.
+- FOCUS :: 草原
+*** ex-1401970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 草原に咲く花を観察し、場所による違いを記録した。
+- READING :: そうげんにさくはなをかんさつし、ばしょによるちがいをきろくした。
+- UK :: Ми спостерігали квіти на лузі й записали відмінності залежно від місця.
+- EN :: We observed flowers growing in the grassland and recorded differences by location.
+- FOCUS :: 草原
+
+* Sense s-1401970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: af648bd52b575cf748e7398b3deb2d557fef8bf8dcea20cfbb1c1b0937e35eb2
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- そうげん
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- grass-covered plain
+- savannah
+- prairie
+- steppe
+** Ukrainian glosses
+*** uk-s-1401970-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: степ; савана; трав'яниста рівнина
+** Learner notes
+*** note-s-1401970-002-001
+:PROPERTIES:
+:END:
+- UK :: У географічному сенсі 草原 може означати великий тип трав'янистого ландшафту, як степ або савана. Точний український відповідник визначають регіон і опис рослинності; слово саме не називає один-єдиний кліматичний тип. Не слід всюди перекладати тільки як «луг».
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1401970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7a4a79cd412e6a24e07a29fb5e8c4ac87622c090af86139f175db08250894fd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grasvlakte
+*** en-s-1401970-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grasbeemd
+*** en-s-1401970-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grasland
+*** en-s-1401970-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grasgrond
+*** en-s-1401970-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiland
+*** en-s-1401970-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weidegrond
+*** en-s-1401970-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weide
+*** en-s-1401970-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beemd
+*** en-s-1401970-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} meers
+*** en-s-1401970-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitgestrekte grasvlakte
+*** en-s-1401970-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grasbeemd
+*** en-s-1401970-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beemd
+** Ukrainian glosses
+
+* Sense s-1401970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a5a632b18255601b99faa333c8ba2d4b95fea55ae54d9ee5f467cbdd8c47b7de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaine herbeuse
+*** en-s-1401970-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pré
+*** en-s-1401970-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prairie
+*** en-s-1401970-004-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: savanne
+** Ukrainian glosses
+
+* Sense s-1401970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc4bb0b82328d687633ee703af3bde4f21221be53be53acbe3a996263d6921b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiese
+*** en-s-1401970-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grasboden
+*** en-s-1401970-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Savanne
+*** en-s-1401970-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grasland
+*** en-s-1401970-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prärie
+*** en-s-1401970-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiese
+*** en-s-1401970-005-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grasfläche
+*** en-s-1401970-005-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Savanne
+** Ukrainian glosses
+
+* Sense s-1401970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 80283f33dde070cfa1c81e0e28cdc95a0bcf36448e3d77ebf867af039ffc579d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: préri
+** Ukrainian glosses
+
+* Sense s-1401970-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9616cdc837de3494fdf2cecaa12165c2ce1f592b6007667c7b2ef5ebfd551616
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) くさわら
+*** en-s-1401970-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поле [поросшее травой]; степь
+*** en-s-1401970-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) степь; равнина
+** Ukrainian glosses
+
+* Sense s-1401970-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 7b959ab49a3bcfe4b9252af02b7b6819ea7221974fbecf346523310842f410b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: travnik
+*** en-s-1401970-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pašnik
+** Ukrainian glosses
+
+* Sense s-1401970-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c15e19aa6076466fbdb34150cdb0833b3c178e3f0b6b70d2b8093bd3ca5f87fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401970-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pradera
+*** en-s-1401970-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herbazal
+*** en-s-1401970-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pastizal
+*** en-s-1401970-009-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prado
+*** en-s-1401970-009-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prado
+*** en-s-1401970-009-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pradera
+** Ukrainian glosses
