@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4763 |
+| Canonical entry files | 4863 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1791 |
+| Canonical N2 entries | 1891 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4726 |
+| `new` | 4826 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4753 |
+| Entry metadata still marked `draft` | 4853 |
 | Core profile | 163 |
-| Learner profile | 4599 |
+| Learner profile | 4699 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **90/100** additional distinct words; branch total **790**.
+Completed **100/100** additional distinct words; branch total **800**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1513,6 +1513,7 @@ All completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
+Selection: 100 candidates from [documented JTest N2 sections](sources/jlpt-n2/jtest/README.md).
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
 
@@ -1527,6 +1528,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1620,6 +1622,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 4.1.17 | [抽選](entries/1426/1426220-chuusen.org) | ちゅうせん | 1426220 | new / draft |
 | JTest 4.1.18 | [避難](entries/1484/1484660-hinan.org) | ひなん | 1484660 | new / draft |
 | JTest 4.1.20 | [見回る](entries/1641/1641610-mimawaru.org) | みまわる | 1641610 | new / draft |
+| JTest 4.1.21 | [築く](entries/1422/1422140-kizuku.org) | きずく | 1422140 | new / draft |
+| JTest 4.1.23 | [落書き](entries/1548/1548770-rakugaki.org) | らくがき | 1548770 | new / draft |
+| JTest 4.2.1 | [自治体](entries/1317/1317830-jichitai.org) | じちたい | 1317830 | new / draft |
+| JTest 4.2.3 | [応える](entries/1179/1179810-kotaeru.org) | こたえる | 1179810 | new / draft |
+| JTest 4.2.5 | [身分証明書](entries/1365/1365820-mibunshoumeisho.org) | みぶんしょうめいしょ | 1365820 | new / draft |
+| JTest 4.2.9 | [年金](entries/1468/1468540-nenkin.org) | ねんきん | 1468540 | new / draft |
+| JTest 4.2.10 | [施設](entries/1310/1310410-shisetsu.org) | しせつ | 1310410 | new / draft |
+| JTest 4.2.15 | [福祉](entries/1501/1501060-fukushi.org) | ふくし | 1501060 | new / draft |
+| JTest 4.2.18 | [収集](entries/1594/1594720-shuushuu.org) | しゅうしゅう | 1594720 | new / draft |
+| JTest 4.2.19 | [配布](entries/1473/1473190-haifu.org) | はいふ | 1473190 | new / draft |
 
 ## Maturity workflow
 
