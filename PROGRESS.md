@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **1350**.
+Completed **60/200** additional distinct words; branch total **1360**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2313,6 +2313,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2366,6 +2367,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 439 | [観賞](entries/1214/1214940-kanshou.org) | かんしょう | 1214940 | new / draft |
 | TodayJLPT N2 453 | [寒波](entries/1210/1210520-kanpa.org) | かんぱ | 1210520 | new / draft |
 | TodayJLPT N2 457 | [巻末](entries/1211/1211250-kanmatsu.org) | かんまつ | 1211250 | new / draft |
+| TodayJLPT N2 459 | [関門](entries/1216/1216040-kanmon.org) | かんもん | 1216040 | new / draft |
+| TodayJLPT N2 460 | [管理者](entries/1214/1214230-kanrisha.org) | かんりしゃ | 1214230 | new / draft |
+| TodayJLPT N2 465 | [利かせる](entries/2005/2005590-kikaseru.org) | きかせる | 2005590 | new / draft |
+| TodayJLPT N2 473 | [岸辺](entries/1217/1217060-kishibe.org) | きしべ | 1217060 | new / draft |
+| TodayJLPT N2 476 | [希少](entries/1222/1222880-kishou.org) | きしょう | 1222880 | new / draft |
+| TodayJLPT N2 482 | [既存](entries/1220/1220450-kison.org) | きそん | 1220450 | new / draft |
+| TodayJLPT N2 484 | [喫煙](entries/1226/1226390-kitsuen.org) | きつえん | 1226390 | new / draft |
+| TodayJLPT N2 489 | [技法](entries/1225/1225240-gihou.org) | ぎほう | 1225240 | new / draft |
+| TodayJLPT N2 490 | [気前](entries/1222/1222410-kimae.org) | きまえ | 1222410 | new / draft |
+| TodayJLPT N2 491 | [気難しい](entries/1577/1577750-kimuzukashii.org) | きむずかしい | 1577750 | new / draft |
 
 ## Maturity workflow
 
