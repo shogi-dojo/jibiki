@@ -15,7 +15,7 @@ was exhausted. This is a candidate classification, not an official JLPT syllabus
 - Upstream acknowledgement: chyyran/jlpt-anki-decks, based on tanos.co.uk.
 
 Candidates are referenced as **N2-S<row>**, using one-based CSV data row
-numbers (header excluded). `selected.tsv` records the 71 chosen candidates
+numbers (header excluded). `selected.tsv` records the 127 chosen candidates across two continuations
 and their reconciled JMdict IDs. No English definitions from this CSV are
 used as dictionary sense metadata: all senses and source fingerprints come
 from the pinned local JMdict. Ukrainian translations, notes, and examples
