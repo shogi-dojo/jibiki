@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **1070**.
+Completed **180/200** additional distinct words; branch total **1080**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1815,6 +1815,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1988,6 +1989,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 10.5.19 | [危機](entries/1218/1218450-kiki.org) | きき | 1218450 | new / draft |
 | JTest 10.5.23 | [少子化](entries/2011/2011350-shoushika.org) | しょうしか | 2011350 | new / draft |
 | JTest 10.5.26 | [温暖化](entries/2658/2658470-ondanka.org) | おんだんか | 2658470 | new / draft |
+| JTest 10.5.27 | [開発](entries/1202/1202880-kaihatsu.org) | かいはつ | 1202880 | new / draft |
+| JTest 10.5.31 | [節電](entries/1386/1386310-setsuden.org) | せつでん | 1386310 | new / draft |
+| JTest 10.5.33 | [省エネ](entries/1351/1351060-shouene.org) | しょうエネ | 1351060 | new / draft |
+| JTest 11.1.1 | [人柄](entries/1369/1369200-hitogara.org) | ひとがら | 1369200 | new / draft |
+| JTest 11.1.7 | [頑固](entries/1217/1217680-ganko.org) | がんこ | 1217680 | new / draft |
+| JTest 11.1.9 | [無邪気](entries/1530/1530080-mujaki.org) | むじゃき | 1530080 | new / draft |
+| JTest 11.1.11 | [無口](entries/1529/1529940-mukuchi.org) | むくち | 1529940 | new / draft |
+| JTest 11.1.12 | [人見知り](entries/1367/1367260-hitomishiri.org) | ひとみしり | 1367260 | new / draft |
+| JTest 11.1.13 | [おく病](entries/1182/1182790-okubyou.org) | おくびょう | 1182790 | new / draft |
+| JTest 11.1.18 | [ねばり強い](entries/1469/1469690-nebarizuyoi.org) | ねばりづよい | 1469690 | new / draft |
 
 ## Maturity workflow
 
