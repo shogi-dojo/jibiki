@@ -1,0 +1,1309 @@
+#+TITLE: 再生
+#+JMDICT_ID: 1292960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいせい
+#+ROMAJI: saisei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1292960-001
+:PROPERTIES:
+:TEXT: 再生
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Reading rd-1292960-001
+:PROPERTIES:
+:TEXT: さいせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1292960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 525a8a10cd617bcb19f3203a4f0435dd4f45b01048b53fc8629f671f267eb668
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- restoration to life
+- coming to life again
+- resuscitation
+- regeneration
+** Ukrainian glosses
+*** uk-s-1292960-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: повернення до життя; відродження
+** Learner notes
+*** note-s-1292960-001-001
+:PROPERTIES:
+:END:
+- UK :: 再生 може означати оживлення або повернення життєвості. У літературному описі образ може бути символічним; слово саме по собі не задає медичної процедури й не є загальною назвою будь-якого успішного лікування.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0a4425ef9305ef2a84c975d7d10413b27d613bfdbc372a9b9f6bcd40027b6e47
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- reformation
+- rehabilitation
+** Ukrainian glosses
+*** uk-s-1292960-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відновлення діяльності; реабілітація; перетворення на життєздатне
+** Learner notes
+*** note-s-1292960-002-001
+:PROPERTIES:
+:END:
+- UK :: 地域の再生 — відродження регіону, 企業の再生 — відновлення компанії. Акцент на поверненні спроможності функціонувати, часто через зміни; це не обов'язково точне відтворення попереднього стану.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 592fa40fd2a77ed2685858f587c76038cd29b92c2b13a1a632cb42f18a72fe1e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- recycling
+- reclamation
+- recovery
+** Ukrainian glosses
+*** uk-s-1292960-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перероблення; повернення матеріалів у використання
+** Learner notes
+*** note-s-1292960-003-001
+:PROPERTIES:
+:END:
+- UK :: 再生紙 — папір із повторно використаної сировини, 資源の再生 — відновлення ресурсів. Тут ідеться про матеріальне повторне використання або перероблення; відтворення відео до цього значення не належить.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-004
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 86b1cfbdd4f5d4f89937df0ee982118a117dfc832680fc30b0bc3dc56efbbadc
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- playback
+- regeneration (of video or sound)
+- views (of an online video)
+** Ukrainian glosses
+*** uk-s-1292960-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відтворення аудіо або відео; перегляд онлайн-відео
+** Learner notes
+*** note-s-1292960-004-001
+:PROPERTIES:
+:END:
+- UK :: 動画を再生する — запустити відео, 再生回数 — кількість відтворень або переглядів. Контекст інтерфейсу визначає одиницю обліку; відтворення файлу не означає, що його створюють заново чи редагують.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1292960-004-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 動画を再生した。
+- READING :: どうがをさいせいした。
+- UK :: Я запустив відео.
+- EN :: I played the video.
+- FOCUS :: 再生した
+*** ex-1292960-004-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 音声をもう一度再生してください。
+- READING :: おんせいをもういちどさいせいしてください。
+- UK :: Будь ласка, відтворіть аудіо ще раз.
+- EN :: Please play the audio again.
+- FOCUS :: 再生して
+*** ex-1292960-004-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 再生回数よりも、内容が役立ったかを確認したい。
+- READING :: さいせいかいすうよりも、ないようがやくだったかをかくにんしたい。
+- UK :: Я хочу перевірити користь змісту, а не лише кількість переглядів.
+- EN :: I want to check whether the content was useful rather than only its view count.
+- FOCUS :: 再生回数
+
+
+* Sense s-1292960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 36787dcf0601b6e3b57dffd77097a74dde973b448b11d38bee222d018ab15c9e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- biol
+** English glosses
+- regeneration (of lost or damaged tissue)
+- regrowth
+** Ukrainian glosses
+*** uk-s-1292960-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: регенерація; відростання втраченої тканини
+** Learner notes
+*** note-s-1292960-005-001
+:PROPERTIES:
+:END:
+- UK :: У біології 組織の再生 — відновлення тканини після втрати або пошкодження. Це спеціальний процес живого організму; конкретні можливості залежать від організму й тканини, а не від загального значення слова.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f10fe6cc41e126040987bee8e2ea4e9da3873619202dd98fa1b70c9b04640eec
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- rebirth
+- reincarnation
+** Ukrainian glosses
+*** uk-s-1292960-006-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: переродження; нове народження в іншому житті
+** Learner notes
+*** note-s-1292960-006-001
+:PROPERTIES:
+:END:
+- UK :: У релігійному або філософському контексті 再生 може означати переродження. Це значення світоглядного опису; його не слід плутати з технічним відтворенням запису або повторним використанням паперу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b01c70ee51192f9e8cb3e4da6c235bb5d65f7b5583a47796c46f39ff23e659fe
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- psych
+** English glosses
+- recall (memory)
+- retrieval
+** Ukrainian glosses
+*** uk-s-1292960-007-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відтворення з пам'яті; пригадування
+** Learner notes
+*** note-s-1292960-007-001
+:PROPERTIES:
+:END:
+- UK :: У психології 再生 — відтворення раніше засвоєного матеріалу з пам'яті. Відрізняйте цей процес від повторного прослуховування запису; у дослідженні пам'яті важливе саме пригадування без готової відповіді перед очима.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1292960-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f2c1f6d0369363f9b868d3c6736bfaaa4ea65b4a325eecf0c978f9e16dc9b600
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weer tot leven komen
+*** en-s-1292960-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenereren
+*** en-s-1292960-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herleven
+*** en-s-1292960-008-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weer oprijzen
+*** en-s-1292960-008-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herrijzen
+** Ukrainian glosses
+
+* Sense s-1292960-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2ac5594a01b1a33bf86647aeca391e867fcbf8b74006721dfcc6df018d0abf6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen herleven
+*** en-s-1292960-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen heropleven
+*** en-s-1292960-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenereren
+*** en-s-1292960-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen herstellen
+*** en-s-1292960-009-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen wederopleven
+*** en-s-1292960-009-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herboren doen worden
+** Ukrainian glosses
+
+* Sense s-1292960-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b16e7bda2692ed218aaf4f2af38ca762d790fcf27d50f11bc0d9e21284b38b16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {biol.} regenereren
+*** en-s-1292960-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opnieuw vormen
+*** en-s-1292960-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weer doen aangroeien
+** Ukrainian glosses
+
+* Sense s-1292960-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 82b46295659a8147b7e4b212520b319c1d67b5a05d1e54bfcff315f777266e07
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recyclen
+*** en-s-1292960-011-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenereren
+*** en-s-1292960-011-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weer bruikbaar maken
+*** en-s-1292960-011-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terugwinnen
+*** en-s-1292960-011-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herwinnen
+*** en-s-1292960-011-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recupereren
+*** en-s-1292960-011-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hergebruiken
+** Ukrainian glosses
+
+* Sense s-1292960-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: f391159ff3dbf104e2fcdfa7c962ec4c49ece27960bf57e0edb590f06bbce562
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-012-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {テープを} afspelen
+*** en-s-1292960-012-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weergeven
+*** en-s-1292960-012-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdraaien
+*** en-s-1292960-012-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: draaien
+** Ukrainian glosses
+
+* Sense s-1292960-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 89962ea5b7fe431c241014c48b576f93abb5d98cc0863ce8262e2f209af87e5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-013-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wedergeboorte
+*** en-s-1292960-013-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herleving
+*** en-s-1292960-013-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herstel
+*** en-s-1292960-013-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regeneratie
+*** en-s-1292960-013-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wederopleving
+*** en-s-1292960-013-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: revivescentie
+** Ukrainian glosses
+
+* Sense s-1292960-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 27df9732183660e200d9fee01733f4c59c13f7e8013a365bcab1e485122338c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-014-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {biol.} regeneratie
+*** en-s-1292960-014-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zelfvernieuwing
+*** en-s-1292960-014-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het opnieuw vormen
+** Ukrainian glosses
+
+* Sense s-1292960-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 4c430f43b0273e01e1b0b62e37058085773d8a2a033357f2e632b538bea5deab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-015-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recyclage
+*** en-s-1292960-015-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regeneratie
+*** en-s-1292960-015-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recycling
+*** en-s-1292960-015-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hercirculatie
+*** en-s-1292960-015-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herwinning
+*** en-s-1292960-015-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terugwinning
+*** en-s-1292960-015-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recuperatie
+*** en-s-1292960-015-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hergebruik
+** Ukrainian glosses
+
+* Sense s-1292960-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 1a32b0b97cf7163f26cbc1f47c64ea8df51ffc1062759a2202ee918a12ae3401
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-016-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {テープの} weergave
+*** en-s-1292960-016-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het afspelen
+*** en-s-1292960-016-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het afdraaien
+*** en-s-1292960-016-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het draaien
+*** en-s-1292960-016-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reproductie
+** Ukrainian glosses
+
+* Sense s-1292960-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 4c8f93dc027d3f7a0b38eab5de85858798bc8a844aa4930b5aff4d28ff5e8e02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-017-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: échappée de justesse
+*** en-s-1292960-017-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: écoute d'un enregistrement
+*** en-s-1292960-017-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réanimation
+*** en-s-1292960-017-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: récupération
+*** en-s-1292960-017-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: régénération
+*** en-s-1292960-017-006
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réincarnation
+*** en-s-1292960-017-007
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retour à la vie
+** Ukrainian glosses
+
+* Sense s-1292960-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 1871dd96b7c4bca1d67632ed8907a52beb11614efcdb633ae13ea8714147ce8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-018-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenerieren
+** Ukrainian glosses
+
+* Sense s-1292960-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 570866723fc02335dd7373329755e02e0ee4f0c0b86456e05a3c691827414c94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-019-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reproduzieren
+** Ukrainian glosses
+
+* Sense s-1292960-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 7287ba51d3c8a0dd67b5f19e5305022981de32e4a07426c1c1981429a4cc4367
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-020-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wieder ins Leben zurückkehren
+*** en-s-1292960-020-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wieder zum Leben erwachen
+** Ukrainian glosses
+
+* Sense s-1292960-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: f020e6c33afd5a31ae9b115f3bc819dd143691392be8cf036741899c98f394c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-021-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein neues Leben beginnen
+** Ukrainian glosses
+
+* Sense s-1292960-022
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 22
+:SOURCE_FINGERPRINT: 7cdd0eef003e6901c70fc657928e42ef1e4fe7aad0840ae62467f7f40116cf01
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-022-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachwachsen (Schwanz einer Eidechse)
+** Ukrainian glosses
+
+* Sense s-1292960-023
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 23
+:SOURCE_FINGERPRINT: b8533c7efbfeeec6211879f7114b0151c5cb01858c611d33bd40bb6add102edc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-023-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wiederverwerten
+** Ukrainian glosses
+
+* Sense s-1292960-024
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 24
+:SOURCE_FINGERPRINT: e141ff23e14658a7d1f1f469947350da33639e2ccaf5fc1524153a528bcc96ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-024-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wiedergeben
+*** en-s-1292960-024-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abspielen (Film od. Schallplatte)
+** Ukrainian glosses
+
+* Sense s-1292960-025
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 25
+:SOURCE_FINGERPRINT: 19033394424c62dee7042e733d36db20fe118f075d9516130ecaa2bad84ca48f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-025-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regeneration
+*** en-s-1292960-025-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reproduktion
+** Ukrainian glosses
+
+* Sense s-1292960-026
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 26
+:SOURCE_FINGERPRINT: a6c3cc0c2df4eb681d1b5db6612b00381b518203f6320f2f43e9c8c22f0e207a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-026-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiederverwendung
+*** en-s-1292960-026-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rückgewinnung
+*** en-s-1292960-026-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Recycling
+** Ukrainian glosses
+
+* Sense s-1292960-027
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 27
+:SOURCE_FINGERPRINT: 46ea9e251a78bdcdfe0e5885fbe6d73cce246db0b0ed39466cbf94c77411209b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-027-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiedergabe
+*** en-s-1292960-027-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiederholung
+*** en-s-1292960-027-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Playback
+** Ukrainian glosses
+
+* Sense s-1292960-028
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 28
+:SOURCE_FINGERPRINT: ffdca2b183d8f4940e3051d26ea2514f1c2b032b1c3f3f5f6a41b6dd19a47086
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-028-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reproduktion
+** Ukrainian glosses
+
+* Sense s-1292960-029
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 29
+:SOURCE_FINGERPRINT: 896f726dc3c551db16b4fb14871a6aaa0c285f40eefb2f73a0e59747b2984c22
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-029-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiedergeburt
+*** en-s-1292960-029-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reinkarnation
+** Ukrainian glosses
+
+* Sense s-1292960-030
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 30
+:SOURCE_FINGERPRINT: 94ca3604deee2320d6c2aa715d226f8fcfa9315366254565ae264f1f2758f254
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-030-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: újjászületés
+*** en-s-1292960-030-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiszárítás
+** Ukrainian glosses
+
+* Sense s-1292960-031
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 31
+:SOURCE_FINGERPRINT: b495139b2119b86209a9d1e519f2f19b4abb3fd616a6b0d36cca97f67faf95eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-031-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) вторичное рождение; (обр.) возрождение
+*** en-s-1292960-031-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) утилизация, использование
+*** en-s-1292960-031-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} перерабатывать (напр. железный лом); утилизировать; реставрировать
+*** en-s-1292960-031-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (биол.) регенерация, восстановление
+*** en-s-1292960-031-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (эл.) регенерация; обратная связь
+** Ukrainian glosses
+
+* Sense s-1292960-032
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 32
+:SOURCE_FINGERPRINT: 246d5d1b5d4f796f08d8441422dc6a415c541f91e18e4b2c829f27e201cce960
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-032-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ponovno rojstvo
+*** en-s-1292960-032-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reinkarnacija
+*** en-s-1292960-032-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrnitev v življenje
+** Ukrainian glosses
+
+* Sense s-1292960-033
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 33
+:SOURCE_FINGERPRINT: 16308d4d71366fd045b689206eaa32a516180360843105d820d503b0184051c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1292960-033-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reproducir
+*** en-s-1292960-033-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: revivir
+*** en-s-1292960-033-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: renacer
+*** en-s-1292960-033-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regenerar
+*** en-s-1292960-033-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reproducir
+*** en-s-1292960-033-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regeneración
+*** en-s-1292960-033-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resucitación
+*** en-s-1292960-033-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regresar a la vida
+*** en-s-1292960-033-009
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: renacimiento
+*** en-s-1292960-033-010
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reencarnación
+*** en-s-1292960-033-011
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reclamación
+** Ukrainian glosses
