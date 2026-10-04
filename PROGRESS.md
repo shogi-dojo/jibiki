@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 5563 |
+| Canonical entry files | 5763 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 2591 |
+| Canonical N2 entries | 2791 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 5526 |
+| `new` | 5726 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 5553 |
+| Entry metadata still marked `draft` | 5753 |
 | Core profile | 163 |
-| Learner profile | 5399 |
+| Learner profile | 5599 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -2559,6 +2559,29 @@ three graded Japanese, kana, Ukrainian, and English examples.
 All completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
+
+
+Final audit: **1500 → 1700** new translated words relative to `origin/main`.
+The handoff began at `126a080c` with **1504** words: four individually
+committed entries from the other agent were validated and retained. This run
+added the remaining **196** words. In total, exactly **200** distinct entries
+were added after `f0d52112`, in **200 individual word commits** and **20**
+completed batches of ten. Earlier entries are unchanged.
+
+All **322 English senses** have original Ukrainian glosses and usage notes;
+the primary senses contain **600 graded examples**. All 200 entries passed
+JMdict validation, Org lint, and doctor **100/100**, with zero errors or
+warnings. Full suite: **137 tests, 17843 assertions**, zero failures, errors,
+or skips. Source fingerprints, forms, readings, and sense inventories are
+preserved. Entries remain `new` / learner `draft` pending linguistic review.
+
+The selection combines 11 [Nihon Torii N2 candidates](sources/jlpt-n2/nihon-torii/README.md)
+and 189 [TodayJLPT N2 candidates](sources/jlpt-n2/todayjlpt/README.md), including
+the four inherited entries. Lexical rows match the documented manifests and
+source snapshots; page URLs and SHA-256 checksums are recorded. Source
+translations and examples were not copied. Both existing untracked files,
+`entries/1296/1296680-tsumi.org` and `scripts/find_next_100_candidates.rb`,
+remain unchanged and uncommitted.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
