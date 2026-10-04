@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **2090**.
+Completed **200/200** additional distinct words; branch total **2100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3102,6 +3102,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3295,6 +3296,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 679 | [沿岸](entries/1176/1176740-engan.org) | えんがん | 1176740 | new / draft |
 | JLPTLord N2 680 | [内陸](entries/1459/1459500-nairiku.org) | ないりく | 1459500 | new / draft |
 | JLPTLord N2 684 | [海峡](entries/1201/1201320-kaikyou.org) | かいきょう | 1201320 | new / draft |
+| JLPTLord N2 687 | [高原](entries/1283/1283490-kougen.org) | こうげん | 1283490 | new / draft |
+| JLPTLord N2 688 | [山脈](entries/1303/1303190-sanmyaku.org) | さんみゃく | 1303190 | new / draft |
+| JLPTLord N2 691 | [津波](entries/1432/1432220-tsunami.org) | つなみ | 1432220 | new / draft |
+| JLPTLord N2 692 | [洪水](entries/1279/1279930-kouzui.org) | こうずい | 1279930 | new / draft |
+| JLPTLord N2 693 | [干ばつ](entries/1567/1567870-kanbatsu.org) | かんばつ | 1567870 | new / draft |
+| JLPTLord N2 698 | [化石](entries/1187/1187210-kaseki.org) | かせき | 1187210 | new / draft |
+| JLPTLord N2 702 | [紫外線](entries/1311/1311680-shigaisen.org) | しがいせん | 1311680 | new / draft |
+| JLPTLord N2 703 | [放射線](entries/1516/1516630-houshasen.org) | ほうしゃせん | 1516630 | new / draft |
+| JLPTLord N2 704 | [原子力](entries/1261/1261750-genshiryoku.org) | げんしりょく | 1261750 | new / draft |
+| JLPTLord N2 705 | [核兵器](entries/1205/1205700-kakuheiki.org) | かくへいき | 1205700 | new / draft |
 
 ## Maturity workflow
 
