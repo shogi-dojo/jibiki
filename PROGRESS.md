@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **2840**.
+Completed **150/200** additional distinct words; branch total **2850**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4167,6 +4167,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4310,6 +4311,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2418 | [彷徨う](entries/1566/1566730-samayou.org) | さまよう | 1566730 | new / draft |
 | JLPTLord N2 2420 | [迷い込む](entries/1532/1532690-mayoikomu.org) | まよいこむ | 1532690 | new / draft |
 | JLPTLord N2 2421 | [紛れ込む](entries/1505/1505020-magirekomu.org) | まぎれこむ | 1505020 | new / draft |
+| JLPTLord N2 2422 | [染み込む](entries/1391/1391140-shimikomu.org) | しみこむ | 1391140 | new / draft |
+| JLPTLord N2 2424 | [入り込む](entries/1465/1465460-hairikomu.org) | はいりこむ | 1465460 | new / draft |
+| JLPTLord N2 2425 | [吹き飛ばす](entries/1370/1370690-fukitobasu.org) | ふきとばす | 1370690 | new / draft |
+| JLPTLord N2 2426 | [吹き出す](entries/1602/1602500-fukidasu.org) | ふきだす | 1602500 | new / draft |
+| JLPTLord N2 2427 | [湧き上がる](entries/1501/1501680-wakiagaru.org) | わきあがる | 1501680 | new / draft |
+| JLPTLord N2 2428 | [燃え上がる](entries/1469/1469600-moeagaru.org) | もえあがる | 1469600 | new / draft |
+| JLPTLord N2 2431 | [飛び散る](entries/1485/1485330-tobichiru.org) | とびちる | 1485330 | new / draft |
+| JLPTLord N2 2433 | [弾ける](entries/1419/1419380-hajikeru.org) | はじける | 1419380 | new / draft |
+| JLPTLord N2 2438 | [捲る](entries/1257/1257810-mekuru.org) | めくる | 1257810 | new / draft |
+| JLPTLord N2 2440 | [拗ねる](entries/1567/1567260-suneru.org) | すねる | 1567260 | new / draft |
 
 ## Maturity workflow
 
