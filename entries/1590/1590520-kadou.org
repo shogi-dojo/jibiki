@@ -1,0 +1,444 @@
+#+TITLE: 稼働
+#+JMDICT_ID: 1590520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かどう
+#+ROMAJI: kadou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1590520-001
+:PROPERTIES:
+:TEXT: 稼働
+:END:
+*** Priorities
+- news1
+- nf12
+** Written form wf-1590520-002
+:PROPERTIES:
+:TEXT: 稼動
+:END:
+** Reading rd-1590520-001
+:PROPERTIES:
+:TEXT: かどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1590520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 731df589b6cf429c22f8f79beb0e0f886d3b6c3304007cce508ca63ad395a13d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- operation (of a machine)
+- running
+** Ukrainian glosses
+*** uk-s-1590520-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робота механізму; функціонування; експлуатація
+** Learner notes
+*** note-s-1590520-001-001
+:PROPERTIES:
+:END:
+- UK :: 機械が稼働する — механізм працює, 稼働率 — частка часу чи ресурсів, протягом яких він використовується. Слово технічне й стосується роботи системи; просте фізичне переміщення не завжди є 稼働.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1590520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工場の機械が稼働している。
+- READING :: こうじょうのきかいがかどうしている。
+- UK :: Заводські механізми працюють.
+- EN :: The factory's machines are running.
+- FOCUS :: 稼働している
+*** ex-1590520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 設備の稼働時間を記録した。
+- READING :: せつびのかどうじかんをきろくした。
+- UK :: Ми записали час роботи обладнання.
+- EN :: We recorded the equipment's operating hours.
+- FOCUS :: 稼働
+*** ex-1590520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 点検が終わり、停止していた装置が再び稼働した。
+- READING :: てんけんがおわり、ていししていたそうちがふたたびかどうした。
+- UK :: Після завершення перевірки зупинений пристрій знову запрацював.
+- EN :: After inspection, the halted device resumed operation.
+- FOCUS :: 稼働した
+
+* Sense s-1590520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f532089dbf22ce46823508585991a24d2ddb96808c57aa388ea1b3bdb01bdc31
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- working (and earning money)
+- workload
+- activity
+** Ukrainian glosses
+*** uk-s-1590520-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: робоча діяльність; завантаженість працівника
+** Learner notes
+*** note-s-1590520-002-001
+:PROPERTIES:
+:END:
+- UK :: У діловій мові 稼働 може називати зайнятість людей на завданнях: 稼働時間 — робочий час, 稼働状況 — стан завантаження. Акцент на використанні робочих ресурсів, а не на особистій мотивації.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1590520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a06cc28aad6af1afd7d110b6928e88bc30cd8087d1012a687f8d2452f930af8b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Fields
+- comp
+** English glosses
+- deployment (e.g. to a production environment)
+- release
+- shipping
+** Ukrainian glosses
+*** uk-s-1590520-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запуск системи в експлуатацію; введення в роботу
+** Learner notes
+*** note-s-1590520-003-001
+:PROPERTIES:
+:END:
+- UK :: У розробці 本番稼働 — запуск системи у виробничому середовищі. Йдеться про початок реального використання після підготовки; це не обов'язково фізичне відвантаження товару або публікація вихідного коду.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1590520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3935c2da505dd027066a36cad894427b4e87241c0e13202fd2840254a57649d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werken
+*** en-s-1590520-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lopen
+*** en-s-1590520-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: draaien
+*** en-s-1590520-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: functioneren
+*** en-s-1590520-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arbeid
+*** en-s-1590520-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werk
+*** en-s-1590520-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het werken
+** Ukrainian glosses
+
+* Sense s-1590520-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7511138d3f6be219c0efb2b10f59b445166b579ff2c628013348b83c0c207eca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werking
+*** en-s-1590520-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het functioneren
+*** en-s-1590520-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrijf
+*** en-s-1590520-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: operationaliteit
+** Ukrainian glosses
+
+* Sense s-1590520-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 276d40c312549d25cdd5bc5d7348c8bbe569cb7e5b335c3e1284894bc5e9dc6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fonctionnement (d'une machine)
+** Ukrainian glosses
+
+* Sense s-1590520-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 022efae8062625ab9100a0e37bceb11aae69e002e36c97665e6627997927defb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Protokoll anwenden (z.B. in Notfällen)
+** Ukrainian glosses
+
+* Sense s-1590520-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 3ef033355a296266c8f6d46e9b00bc543768e025f53b888aa34744eb8975b7c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in Betrieb sein
+*** en-s-1590520-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laufen
+*** en-s-1590520-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eingeschaltet sein (Maschine etc.)
+** Ukrainian glosses
+
+* Sense s-1590520-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0dc124c776f63597357fbc0d04f3abbb80d043cfcf33e16e788fc4f2605650d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erwerbsarbeit
+*** en-s-1590520-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Betrieb
+** Ukrainian glosses
+
+* Sense s-1590520-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 8bf5fa0867fa38b071906ed9fc2a90c50a18763030b93e74c7482a05647dae34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auslastung
+*** en-s-1590520-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verwendung (von Maschinen)
+*** en-s-1590520-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Belegung (von z.B. Hotelbetten)
+** Ukrainian glosses
+
+* Sense s-1590520-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 711545f38649f727030ba540984f7a0146c97597b20e2e0c1723aaecf5763699
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: üzemeltetés
+** Ukrainian glosses
+
+* Sense s-1590520-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 5b5a34a0639c959e4f11dbdf911b138123ee3b69d797ce07c7ee170899ad4ae3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590520-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) работа, заработки
+*** en-s-1590520-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) ((тк.) 稼動) управление машиной, работа на станке
+** Ukrainian glosses
