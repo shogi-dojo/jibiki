@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **1180**.
+Completed **90/200** additional distinct words; branch total **1190**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2059,6 +2059,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2142,6 +2143,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 17 | [移行](entries/1158/1158240-ikou.org) | いこう | 1158240 | new / draft |
 | Kotoba N2 18 | [意向](entries/1587/1587200-ikou.org) | いこう | 1587200 | new / draft |
 | Kotoba N2 24 | [上下](entries/1352/1352700-ueshita.org) | うえした | 1352700 | new / draft |
+| Kotoba N2 32 | [演習](entries/1176/1176930-enshuu.org) | えんしゅう | 1176930 | new / draft |
+| Kotoba N2 36 | [丈](entries/1354/1354600-take.org) | たけ | 1354600 | new / draft |
+| Kotoba N2 44 | [脅かす](entries/1578/1578075-obiyakasu.org) | おびやかす | 1578075 | new / draft |
+| Kotoba N2 50 | [確立](entries/1206/1206030-kakuritsu.org) | かくりつ | 1206030 | new / draft |
+| Kotoba N2 51 | [加工](entries/1190/1190120-kakou.org) | かこう | 1190120 | new / draft |
+| Kotoba N2 55 | [化繊](entries/1187/1187250-kasen.org) | かせん | 1187250 | new / draft |
+| Kotoba N2 56 | [河川](entries/1193/1193520-kasen.org) | かせん | 1193520 | new / draft |
+| Kotoba N2 63 | [干渉](entries/1212/1212050-kanshou.org) | かんしょう | 1212050 | new / draft |
+| Kotoba N2 64 | [緩和](entries/1214/1214530-kanwa.org) | かんわ | 1214530 | new / draft |
+| Kotoba N2 66 | [月日](entries/1609/1609580-gappi.org) | がっぴ | 1609580 | new / draft |
 
 ## Maturity workflow
 
