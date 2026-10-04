@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **1780**.
+Completed **90/200** additional distinct words; branch total **1790**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2836,6 +2836,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2919,6 +2920,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 63 | [創造](entries/1398/1398560-souzou.org) | そうぞう | 1398560 | new / draft |
 | JLPTLord N2 92 | [蓄積](entries/1422/1422440-chikuseki.org) | ちくせき | 1422440 | new / draft |
 | JLPTLord N2 94 | [規制](entries/1223/1223010-kisei.org) | きせい | 1223010 | new / draft |
+| JLPTLord N2 100 | [獲得](entries/1205/1205750-kakutoku.org) | かくとく | 1205750 | new / draft |
+| JLPTLord N2 102 | [削減](entries/1298/1298110-sakugen.org) | さくげん | 1298110 | new / draft |
+| JLPTLord N2 103 | [廃止](entries/1472/1472100-haishi.org) | はいし | 1472100 | new / draft |
+| JLPTLord N2 110 | [補償](entries/1514/1514650-hoshou.org) | ほしょう | 1514650 | new / draft |
+| JLPTLord N2 111 | [公開](entries/1273/1273370-koukai.org) | こうかい | 1273370 | new / draft |
+| JLPTLord N2 113 | [掲載](entries/1250/1250610-keisai.org) | けいさい | 1250610 | new / draft |
+| JLPTLord N2 115 | [促進](entries/1403/1403780-sokushin.org) | そくしん | 1403780 | new / draft |
+| JLPTLord N2 119 | [分配](entries/1504/1504090-bunpai.org) | ぶんぱい | 1504090 | new / draft |
+| JLPTLord N2 123 | [把握](entries/1470/1470910-haaku.org) | はあく | 1470910 | new / draft |
+| JLPTLord N2 128 | [推進](entries/1371/1371140-suishin.org) | すいしん | 1371140 | new / draft |
 
 ## Maturity workflow
 
