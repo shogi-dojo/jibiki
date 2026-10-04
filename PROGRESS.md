@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **2290**.
+Completed **200/200** additional distinct words; branch total **2300**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3363,6 +3363,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3556,6 +3557,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1103 | [進歩的](entries/1813/1813340-shinpoteki.org) | しんぽてき | 1813340 | new / draft |
 | JLPTLord N2 1104 | [保守的](entries/1603/1603490-hoshuteki.org) | ほしゅてき | 1603490 | new / draft |
 | JLPTLord N2 1105 | [民主的](entries/1528/1528870-minshuteki.org) | みんしゅてき | 1528870 | new / draft |
+| JLPTLord N2 1106 | [自主的](entries/1317/1317880-jishuteki.org) | じしゅてき | 1317880 | new / draft |
+| JLPTLord N2 1107 | [独創的](entries/1455/1455950-dokusouteki.org) | どくそうてき | 1455950 | new / draft |
+| JLPTLord N2 1108 | [建設的](entries/1257/1257460-kensetsuteki.org) | けんせつてき | 1257460 | new / draft |
+| JLPTLord N2 1109 | [破壊的](entries/1471/1471270-hakaiteki.org) | はかいてき | 1471270 | new / draft |
+| JLPTLord N2 1110 | [魅力的](entries/1528/1528160-miryokuteki.org) | みりょくてき | 1528160 | new / draft |
+| JLPTLord N2 1111 | [刺激的](entries/1594/1594220-shigekiteki.org) | しげきてき | 1594220 | new / draft |
+| JLPTLord N2 1112 | [衝撃的](entries/2664/2664460-shougekiteki.org) | しょうげきてき | 2664460 | new / draft |
+| JLPTLord N2 1113 | [悲観的](entries/1483/1483250-hikanteki.org) | ひかんてき | 1483250 | new / draft |
+| JLPTLord N2 1114 | [楽観的](entries/1207/1207320-rakkanteki.org) | らっかんてき | 1207320 | new / draft |
+| JLPTLord N2 1115 | [感情的](entries/1614/1614170-kanjouteki.org) | かんじょうてき | 1614170 | new / draft |
 
 ## Maturity workflow
 
