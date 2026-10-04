@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 5163 |
+| Canonical entry files | 5363 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 2191 |
+| Canonical N2 entries | 2391 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 5126 |
+| `new` | 5326 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 5153 |
+| Entry metadata still marked `draft` | 5353 |
 | Core profile | 163 |
-| Learner profile | 4999 |
+| Learner profile | 5199 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -2045,6 +2045,23 @@ three graded Japanese, kana, Ukrainian, and English examples.
 All completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
+
+Final audit: **1100 → 1300** new translated words relative to `origin/main`.
+Exactly **200** distinct entries were added after `eb8e85f2`, with **200**
+individual word commits and **20** completed batches of ten. Earlier entries
+are unchanged. All **310 English senses** have original Ukrainian glosses
+and usage notes; the primary senses contain **600 graded examples**.
+All 200 entries passed JMdict validation, Org lint, and doctor **100/100**,
+with zero errors or warnings. Full suite: **137 tests, 16643 assertions**,
+zero failures, errors, or skips. Source fingerprints and sense inventories
+are preserved. The existing uncommitted 罪 draft remains untouched.
+
+The current selection uses 75 remaining [JTest candidates](sources/jlpt-n2/jtest/README.md),
+86 [Kotoba candidates](sources/jlpt-n2/kotoba/README.md), and
+39 [TodayJLPT candidates](sources/jlpt-n2/todayjlpt/README.md).
+Their lexical metadata, page URLs, and snapshot checksums are recorded;
+definitions, Ukrainian notes, and examples were authored independently.
+These additions remain `new` / learner `draft` pending linguistic review.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
