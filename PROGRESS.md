@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **1150**.
+Completed **60/200** additional distinct words; branch total **1160**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2056,6 +2056,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2109,6 +2110,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.2.25 | [口が滑る](entries/1640/1640380-kuchigasuberu.org) | くちがすべる | 1640380 | new / draft |
 | JTest 12.2.26 | [口が悪い](entries/1275/1275670-kuchigawarui.org) | くちがわるい | 1275670 | new / draft |
 | JTest 12.2.27 | [口にする](entries/1275/1275750-kuchinisuru.org) | くちにする | 1275750 | new / draft |
+| JTest 12.2.28 | [口に合う](entries/1872/1872140-kuchiniau.org) | くちにあう | 1872140 | new / draft |
+| JTest 12.2.29 | [口を出す](entries/1275/1275760-kuchiwodasu.org) | くちをだす | 1275760 | new / draft |
+| JTest 12.3.2 | [手が空く](entries/2093/2093080-tegaaku.org) | てがあく | 2093080 | new / draft |
+| JTest 12.3.3 | [手がかかる](entries/2089/2089710-tegakakaru.org) | てがかかる | 2089710 | new / draft |
+| JTest 12.3.4 | [手が離せない](entries/2125/2125840-tegahanasenai.org) | てがはなせない | 2125840 | new / draft |
+| JTest 12.3.5 | [手に入れる](entries/1327/1327230-teniireru.org) | てにいれる | 1327230 | new / draft |
+| JTest 12.3.6 | [手にする](entries/2266/2266810-tenisuru.org) | てにする | 2266810 | new / draft |
+| JTest 12.3.7 | [手につかない](entries/2202/2202960-tenitsukanai.org) | てにつかない | 2202960 | new / draft |
+| JTest 12.3.8 | [手をつける](entries/2222/2222160-tewotsukeru.org) | てをつける | 2222160 | new / draft |
+| JTest 12.3.9 | [手を貸す](entries/2126/2126990-tewokasu.org) | てをかす | 2126990 | new / draft |
 
 ## Maturity workflow
 
