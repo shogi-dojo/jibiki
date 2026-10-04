@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **2340**.
+Completed **50/200** additional distinct words; branch total **2350**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3616,6 +3616,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3659,6 +3660,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1182 | [強いて](entries/1236/1236080-shiite.org) | しいて | 1236080 | new / draft |
 | JLPTLord N2 1183 | [仮に](entries/1187/1187300-karini.org) | かりに | 1187300 | new / draft |
 | JLPTLord N2 1189 | [若干](entries/1324/1324330-jakkan.org) | じゃっかん | 1324330 | new / draft |
+| JLPTLord N2 1190 | [大幅](entries/1414/1414870-oohaba.org) | おおはば | 1414870 | new / draft |
+| JLPTLord N2 1192 | [到底](entries/1449/1449880-toutei.org) | とうてい | 1449880 | new / draft |
+| JLPTLord N2 1194 | [案の定](entries/1154/1154790-annojou.org) | あんのじょう | 1154790 | new / draft |
+| JLPTLord N2 1196 | [所詮](entries/1343/1343300-shosen.org) | しょせん | 1343300 | new / draft |
+| JLPTLord N2 1205 | [他方](entries/1407/1407370-tahou.org) | たほう | 1407370 | new / draft |
+| JLPTLord N2 1207 | [一斉に](entries/1164/1164050-isseini.org) | いっせいに | 1164050 | new / draft |
+| JLPTLord N2 1208 | [徐々に](entries/1595/1595480-jojoni.org) | じょじょに | 1595480 | new / draft |
+| JLPTLord N2 1209 | [次第に](entries/1316/1316690-shidaini.org) | しだいに | 1316690 | new / draft |
+| JLPTLord N2 1217 | [何気なく](entries/1188/1188680-nanigenaku.org) | なにげなく | 1188680 | new / draft |
+| JLPTLord N2 1252 | [燃料](entries/1469/1469660-nenryou.org) | ねんりょう | 1469660 | new / draft |
 
 ## Maturity workflow
 
