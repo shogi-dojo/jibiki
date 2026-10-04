@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **1140**.
+Completed **50/200** additional distinct words; branch total **1150**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2055,6 +2055,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2098,6 +2099,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.2.15 | [目を通す](entries/1535/1535250-mewotoosu.org) | めをとおす | 1535250 | new / draft |
 | JTest 12.2.16 | [耳が痛い](entries/2578/2578130-mimigaitai.org) | みみがいたい | 2578130 | new / draft |
 | JTest 12.2.17 | [耳が遠い](entries/1317/1317180-mimigatooi.org) | みみがとおい | 1317180 | new / draft |
+| JTest 12.2.18 | [耳にする](entries/2059/2059550-miminisuru.org) | みみにする | 2059550 | new / draft |
+| JTest 12.2.19 | [耳を傾ける](entries/2069/2069560-mimiwokatamukeru.org) | みみをかたむける | 2069560 | new / draft |
+| JTest 12.2.20 | [耳を疑う](entries/2402/2402950-mimiwoutagau.org) | みみをうたがう | 2402950 | new / draft |
+| JTest 12.2.21 | [口がうまい](entries/1608/1608590-kuchigaumai.org) | くちがうまい | 1608590 | new / draft |
+| JTest 12.2.22 | [口が堅い](entries/2134/2134550-kuchigakatai.org) | くちがかたい | 2134550 | new / draft |
+| JTest 12.2.23 | [口が軽い](entries/1275/1275680-kuchigakarui.org) | くちがかるい | 1275680 | new / draft |
+| JTest 12.2.24 | [口が重い](entries/1275/1275690-kuchigaomoi.org) | くちがおもい | 1275690 | new / draft |
+| JTest 12.2.25 | [口が滑る](entries/1640/1640380-kuchigasuberu.org) | くちがすべる | 1640380 | new / draft |
+| JTest 12.2.26 | [口が悪い](entries/1275/1275670-kuchigawarui.org) | くちがわるい | 1275670 | new / draft |
+| JTest 12.2.27 | [口にする](entries/1275/1275750-kuchinisuru.org) | くちにする | 1275750 | new / draft |
 
 ## Maturity workflow
 
