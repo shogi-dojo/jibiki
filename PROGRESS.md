@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 5763 |
+| Canonical entry files | 5963 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 2791 |
+| Canonical N2 entries | 2991 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 5726 |
+| `new` | 5926 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 5753 |
+| Entry metadata still marked `draft` | 5953 |
 | Core profile | 163 |
-| Learner profile | 5599 |
+| Learner profile | 5799 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -3051,6 +3051,21 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 318 | [客観](entries/1226/1226690-kyakkan.org) | きゃっかん | 1226690 | new / draft |
 | JLPTLord N2 321 | [本質](entries/1522/1522620-honshitsu.org) | ほんしつ | 1522620 | new / draft |
 | JLPTLord N2 322 | [定義](entries/1435/1435530-teigi.org) | ていぎ | 1435530 | new / draft |
+
+Milestone audit: **1,900 new translated words on the branch**, including 200
+new entries since `f1b16094`, with 200 individual word commits and 20 batch
+ledger commits. The continuation contains 279 independently authored Ukrainian
+usage notes and 600 graded examples. All 200 entries passed collective JMdict
+validation, Org lint, and doctor 100/100 with zero errors or warnings. The full
+test suite passed: **137 tests, 18,443 assertions, zero failures or errors**.
+Source evidence: 68 TodayJLPT candidates and 132 JLPTLord candidates.
+Earlier tracked entries and both pre-existing untracked files are unchanged.
+These entries remain `new` / `draft` for editorial review.
+
+The user expanded the active target to **2,100 total branch additions**.
+The next continuation will add 200 further distinct words from documented
+supplemental study-list evidence with the same per-sense notes, examples,
+validation, and individual commit requirements.
 
 ## Maturity workflow
 
