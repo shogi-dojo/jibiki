@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **1660**.
+Completed **170/200** additional distinct words; branch total **1670**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2581,6 +2581,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2744,6 +2745,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1700 | [乗り出す](entries/1354/1354940-noridasu.org) | のりだす | 1354940 | new / draft |
 | TodayJLPT N2 1706 | [配線](entries/1473/1473110-haisen.org) | はいせん | 1473110 | new / draft |
 | TodayJLPT N2 1707 | [倍増](entries/1473/1473310-baizou.org) | ばいぞう | 1473310 | new / draft |
+| TodayJLPT N2 1719 | [白衣](entries/1474/1474990-hakui.org) | はくい | 1474990 | new / draft |
+| TodayJLPT N2 1720 | [爆笑](entries/1475/1475850-bakushou.org) | ばくしょう | 1475850 | new / draft |
+| TodayJLPT N2 1736 | [働かせる](entries/2009/2009430-hatarakaseru.org) | はたらかせる | 2009430 | new / draft |
+| TodayJLPT N2 1738 | [波長](entries/1471/1471060-hachou.org) | はちょう | 1471060 | new / draft |
+| TodayJLPT N2 1741 | [発刊](entries/1477/1477210-hakkan.org) | はっかん | 1477210 | new / draft |
+| TodayJLPT N2 1744 | [抜群](entries/1478/1478250-batsugun.org) | ばつぐん | 1478250 | new / draft |
+| TodayJLPT N2 1749 | [鼻先](entries/1487/1487070-hanasaki.org) | はなさき | 1487070 | new / draft |
+| TodayJLPT N2 1754 | [放つ](entries/1516/1516490-hanatsu.org) | はなつ | 1516490 | new / draft |
+| TodayJLPT N2 1758 | [花輪](entries/1195/1195080-hanawa.org) | はなわ | 1195080 | new / draft |
+| TodayJLPT N2 1762 | [葉巻](entries/1546/1546580-hamaki.org) | はまき | 1546580 | new / draft |
 
 ## Maturity workflow
 
