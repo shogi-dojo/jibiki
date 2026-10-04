@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **1530**.
+Completed **40/200** additional distinct words; branch total **1540**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2568,6 +2568,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2601,6 +2602,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1089 | [水域](entries/1371/1371300-suiiki.org) | すいいき | 1371300 | new / draft |
 | TodayJLPT N2 1090 | [水温](entries/1371/1371330-suion.org) | すいおん | 1371330 | new / draft |
 | TodayJLPT N2 1091 | [吸い込む](entries/1228/1228230-suikomu.org) | すいこむ | 1228230 | new / draft |
+| TodayJLPT N2 1107 | [数値](entries/1373/1373160-suuchi.org) | すうち | 1373160 | new / draft |
+| TodayJLPT N2 1146 | [精液](entries/1379/1379890-seieki.org) | せいえき | 1379890 | new / draft |
+| TodayJLPT N2 1147 | [声援](entries/1380/1380460-seien.org) | せいえん | 1380460 | new / draft |
+| TodayJLPT N2 1149 | [生協](entries/1378/1378910-seikyou.org) | せいきょう | 1378910 | new / draft |
+| TodayJLPT N2 1150 | [生後](entries/1378/1378950-seigo.org) | せいご | 1378950 | new / draft |
+| TodayJLPT N2 1157 | [生前](entries/1379/1379200-seizen.org) | せいぜん | 1379200 | new / draft |
+| TodayJLPT N2 1158 | [正装](entries/1377/1377480-seisou.org) | せいそう | 1377480 | new / draft |
+| TodayJLPT N2 1163 | [青銅](entries/1381/1381710-seidou.org) | せいどう | 1381710 | new / draft |
+| TodayJLPT N2 1175 | [赤面](entries/1383/1383620-sekimen.org) | せきめん | 1383620 | new / draft |
+| TodayJLPT N2 1177 | [絶叫](entries/1386/1386780-zekkyou.org) | ぜっきょう | 1386780 | new / draft |
 
 ## Maturity workflow
 
