@@ -1,0 +1,317 @@
+#+TITLE: 法人
+#+JMDICT_ID: 1517310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうじん
+#+ROMAJI: houjin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1517310-001
+:PROPERTIES:
+:TEXT: 法人
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1517310-001
+:PROPERTIES:
+:TEXT: ほうじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1517310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1c187bc825494110ff0e92955ce56f658dae916f9c8e12205308f4b5588c4bcc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 自然人・2
+- 個人・2
+** English glosses
+- corporation
+- corporate body
+- company
+- legal entity
+- legal person
+- juridical person
+** Ukrainian glosses
+*** uk-s-1517310-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: юридична особа; корпорація; організація з правосуб'єктністю
+** Learner notes
+*** note-s-1517310-001-001
+:PROPERTIES:
+:END:
+- UK :: 法人向け — призначений для юридичних осіб, 法人の名称 — назва такої організації. На відміну від 個人, слово позначає організаційного суб'єкта; не кожен 法人 обов'язково є комерційною компанією з метою прибутку.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1517310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 法人向けの案内を読んだ。
+- READING :: ほうじんむけのあんないをよんだ。
+- UK :: Я прочитав інформацію для юридичних осіб.
+- EN :: I read information intended for legal entities.
+- FOCUS :: 法人
+*** ex-1517310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 法人の名称を記入した。
+- READING :: ほうじんのめいしょうをきにゅうした。
+- UK :: Я вписав назву юридичної особи.
+- EN :: I entered the legal entity's name.
+- FOCUS :: 法人
+*** ex-1517310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 書類では、個人と法人の欄が分かれている。
+- READING :: しょるいでは、こじんとほうじんのらんがわかれている。
+- UK :: У документі поля для фізичних і юридичних осіб окремі.
+- EN :: The document has separate fields for individuals and legal entities.
+- FOCUS :: 法人
+
+* Sense s-1517310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 124445194be0c6d106b0b2df7cad59467ff5f94c42ae68dd49e72d22756aa47e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} rechtspersoon
+*** en-s-1517310-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zedelijk lichaam
+*** en-s-1517310-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fictieve persoon
+** Ukrainian glosses
+
+* Sense s-1517310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd72008664eadfd2527bee647d198b2486daf090d49827ed231bb32f0a1d07b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {maatwoord voor rechtspersonen}
+** Ukrainian glosses
+
+* Sense s-1517310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b36324265698f9955006458ed00b23d918a580528d8f05c672138b8624b66252
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: personne juridique
+*** en-s-1517310-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: personne morale
+** Ukrainian glosses
+
+* Sense s-1517310-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f6e2b9add4025abbb1be4d46569fb5fbd574fd70284d0b28c2d0f26a7ce68410
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juristische Person
+*** en-s-1517310-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Körperschaft (des öffentlichen Rechts)
+** Ukrainian glosses
+
+* Sense s-1517310-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f3a47818acca9915095b130c5862459ee8569732a1bbbbfefe9bdc6d89918a65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jogi személy, cég
+*** en-s-1517310-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jogi személy
+*** en-s-1517310-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korlátolt felelősségű társaság
+*** en-s-1517310-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: városi tanács
+** Ukrainian glosses
+
+* Sense s-1517310-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 38cdb6f0331af7ab8662cd634d50ac55e25e4d28cb3bd556d6e45daa20e529dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) юридическое лицо
+*** en-s-1517310-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} принадлежащий юридическому лицу; имеющий права юридического лица
+** Ukrainian glosses
+
+* Sense s-1517310-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 10e43dfbb98132358e8ab9c932a0f0b9c4fee444cbd7416e7454c74f610c7ec6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pravna oseba
+*** en-s-1517310-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korporacija
+** Ukrainian glosses
+
+* Sense s-1517310-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: e15d4816be6d8f66714cec82ac56ae8609d44986eab871ca33679ae36e579744
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1517310-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corporación
+** Ukrainian glosses
