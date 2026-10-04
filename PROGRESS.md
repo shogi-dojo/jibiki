@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **1590**.
+Completed **100/200** additional distinct words; branch total **1600**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2574,6 +2574,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2667,6 +2668,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1384 | [中型](entries/1424/1424010-chuugata.org) | ちゅうがた | 1424010 | new / draft |
 | TodayJLPT N2 1386 | [駐在](entries/1426/1426890-chuuzai.org) | ちゅうざい | 1426890 | new / draft |
 | TodayJLPT N2 1387 | [注釈](entries/1426/1426610-chuushaku.org) | ちゅうしゃく | 1426610 | new / draft |
+| TodayJLPT N2 1388 | [抽出](entries/1426/1426180-chuushutsu.org) | ちゅうしゅつ | 1426180 | new / draft |
+| TodayJLPT N2 1396 | [朝刊](entries/1428/1428320-choukan.org) | ちょうかん | 1428320 | new / draft |
+| TodayJLPT N2 1397 | [兆候](entries/1597/1597620-choukou.org) | ちょうこう | 1597620 | new / draft |
+| TodayJLPT N2 1399 | [調剤](entries/1429/1429160-chouzai.org) | ちょうざい | 1429160 | new / draft |
+| TodayJLPT N2 1409 | [跳躍](entries/1429/1429710-chouyaku.org) | ちょうやく | 1429710 | new / draft |
+| TodayJLPT N2 1411 | [直撃](entries/1430/1430890-chokugeki.org) | ちょくげき | 1430890 | new / draft |
+| TodayJLPT N2 1417 | [著作](entries/1427/1427090-chosaku.org) | ちょさく | 1427090 | new / draft |
+| TodayJLPT N2 1425 | [珍味](entries/1431/1431970-chinmi.org) | ちんみ | 1431970 | new / draft |
+| TodayJLPT N2 1427 | [追伸](entries/1432/1432540-tsuishin.org) | ついしん | 1432540 | new / draft |
+| TodayJLPT N2 1441 | [作り上げる](entries/1297/1297320-tsukuriageru.org) | つくりあげる | 1297320 | new / draft |
 
 ## Maturity workflow
 
