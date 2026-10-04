@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **80/100** further distinct words; branch total **580**.
+Completed **90/100** further distinct words; branch total **590**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1247,6 +1247,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 6 | N2-S434–N2-S561 | 10 |
 | 7 | N2-S573–N2-S626 | 10 |
 | 8 | N2-S635–N2-S758 | 10 |
+| 9 | N2-S776–N2-S903 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1330,6 +1331,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S706 | [逆さ](entries/1226/1226970-sakasa.org) | さかさ | 1226970 | new / draft |
 | N2-S750 | [寺院](entries/1315/1315250-jiin.org) | じいん | 1315250 | new / draft |
 | N2-S758 | [仕方がない](entries/1305/1305420-shikataganai.org) | しかたがない | 1305420 | new / draft |
+| N2-S776 | [自宅](entries/1318/1318260-jitaku.org) | じたく | 1318260 | new / draft |
+| N2-S808 | [締切](entries/1594/1594590-shimekiri.org) | しめきり | 1594590 | new / draft |
+| N2-S813 | [地面](entries/1421/1421510-jimen.org) | じめん | 1421510 | new / draft |
+| N2-S822 | [社説](entries/1322/1322890-shasetsu.org) | しゃせつ | 1322890 | new / draft |
+| N2-S831 | [住居](entries/2841/2841455-juukyo.org) | じゅうきょ | 2841455 | new / draft |
+| N2-S851 | [主人](entries/1579/1579780-shujin.org) | しゅじん | 1579780 | new / draft |
+| N2-S882 | [上旬](entries/1353/1353410-joujun.org) | じょうじゅん | 1353410 | new / draft |
+| N2-S891 | [上品](entries/1354/1354230-jouhin.org) | じょうひん | 1354230 | new / draft |
+| N2-S897 | [消耗](entries/1580/1580310-shoumou.org) | しょうもう | 1580310 | new / draft |
+| N2-S903 | [職場](entries/1357/1357540-shokuba.org) | しょくば | 1357540 | new / draft |
 
 ## Maturity workflow
 
