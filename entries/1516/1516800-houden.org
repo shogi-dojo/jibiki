@@ -1,0 +1,240 @@
+#+TITLE: 放電
+#+JMDICT_ID: 1516800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうでん
+#+ROMAJI: houden
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1516800-001
+:PROPERTIES:
+:TEXT: 放電
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1516800-001
+:PROPERTIES:
+:TEXT: ほうでん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1516800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41e93ca3d26e7c988b4f36375b43d6108765876e612afe842d437878dc7763f4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Cross-references
+- 充電・1
+** English glosses
+- discharging (electrically; e.g. of a battery)
+** Ukrainian glosses
+*** uk-s-1516800-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розряджання батареї; віддавання електричного заряду
+** Learner notes
+*** note-s-1516800-001-001
+:PROPERTIES:
+:END:
+- UK :: 放電する описує віддавання накопиченої електричної енергії, зокрема батареєю; 自然放電 — поступова втрата заряду без використання. Протилежне 充電 «заряджання»; це не те саме, що вимкнення 電源を切る.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1516800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電池が放電した。
+- READING :: でんちがほうでんした。
+- UK :: Батарея розрядилася.
+- EN :: The battery discharged.
+- FOCUS :: 放電
+*** ex-1516800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 使わない間にも少しずつ放電する。
+- READING :: つかわないあいだにもすこしずつほうでんする。
+- UK :: Навіть без використання вона потроху розряджається.
+- EN :: It gradually discharges even while unused.
+- FOCUS :: 放電
+*** ex-1516800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長く保管した電池は放電していたため、先に充電した。
+- READING :: ながくほかんしたでんちはほうでんしていたため、さきにじゅうでんした。
+- UK :: Оскільки батарея розрядилася за довге зберігання, її спочатку зарядили.
+- EN :: The battery had discharged during prolonged storage, so we charged it first.
+- FOCUS :: 放電
+
+* Sense s-1516800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9dbf54ec23feaa8c38045d1e98fb7dc9f17e288868388fff93fbe2dedc3fce69
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Fields
+- physics
+- elec
+** English glosses
+- electrical discharge
+- discharge
+** Ukrainian glosses
+*** uk-s-1516800-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: електричний розряд
+** Learner notes
+*** note-s-1516800-002-001
+:PROPERTIES:
+:END:
+- UK :: У фізиці 放電 означає рух електричного заряду, наприклад через повітря між електродами. Сполуки 火花放電 та 放電が起こる описують явище; контекст відрізняє його від звичайного розряджання акумулятора.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1516800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f2e360ab61948b57c62563834fe282f0e6d5c8fc78a0dc110963085d4d644a2f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516800-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrische ontlading
+*** en-s-1516800-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich ontladen
+*** en-s-1516800-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich van elektrische lading ontdoen
+** Ukrainian glosses
+
+* Sense s-1516800-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5603991c8d2b6e82d60d625eeed353e5f92a8dd82e5cefc17443601b0074f624
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516800-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrische Entladung
+*** en-s-1516800-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich elektrisch entladen
+** Ukrainian glosses
+
+* Sense s-1516800-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f638afd9591f6d148a94e5f13b46e5658979d128628f8a852b1ff670ae05f246
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516800-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektromos kisülés
+*** en-s-1516800-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektromos kisütés
+** Ukrainian glosses
+
+* Sense s-1516800-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 066ff601f513d6da9f97fa1d2f9aa168c9c54b721b56140c48eb2c8fd7789bd7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516800-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) разряд
+*** en-s-1516800-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} разряжать[ся]
+** Ukrainian glosses
