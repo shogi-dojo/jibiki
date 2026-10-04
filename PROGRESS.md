@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4563 |
+| Canonical entry files | 4663 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1591 |
+| Canonical N2 entries | 1691 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1603 / 1635 (98.0%) |
+| N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4526 |
+| `new` | 4626 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4553 |
+| Entry metadata still marked `draft` | 4653 |
 | Core profile | 163 |
-| Learner profile | 4399 |
+| Learner profile | 4499 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1232,6 +1232,16 @@ with Ukrainian usage notes, and each primary sense has three graded examples.
 Completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. All remain learner drafts awaiting editorial review.
 The earlier uncommitted 罪 draft is preserved.
+
+Final audit verified **100 unique new JMdict IDs**, **100 individual addition
+commits**, **175 translated English senses with 175 usage notes**, and
+**300 graded examples**. One subsequent correction clarifies the reading note
+for 上品; all 500 earlier branch additions are unchanged. Fresh validation
+and doctor checks passed for all 100 entries; Org lint passed in each batch.
+The test suite passed (137 tests, 14,543 assertions, no failures or errors).
+All supplementary candidates match the pinned CSV rows and selection manifest;
+source checksums were verified. The pinned queue now covers **1634/1635 rows**;
+only N2-69 remains deferred.
 
 Selection: 29 remaining/reconciled Wiktionary candidates and 71 candidates
 from [pinned Open Anki N2 source](sources/jlpt-n2/open-anki/README.md).
