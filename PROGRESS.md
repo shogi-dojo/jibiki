@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **1890**.
+Completed **200/200** additional distinct words; branch total **1900**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2847,6 +2847,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3040,6 +3041,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 308 | [信頼性](entries/1359/1359770-shinraisei.org) | しんらいせい | 1359770 | new / draft |
 | JLPTLord N2 309 | [正当性](entries/1377/1377680-seitousei.org) | せいとうせい | 1377680 | new / draft |
 | JLPTLord N2 310 | [多様性](entries/1408/1408120-tayousei.org) | たようせい | 1408120 | new / draft |
+| JLPTLord N2 311 | [独自性](entries/1691/1691430-dokujisei.org) | どくじせい | 1691430 | new / draft |
+| JLPTLord N2 312 | [柔軟性](entries/1335/1335500-juunansei.org) | じゅうなんせい | 1335500 | new / draft |
+| JLPTLord N2 313 | [透明性](entries/1450/1450600-toumeisei.org) | とうめいせい | 1450600 | new / draft |
+| JLPTLord N2 314 | [合理性](entries/1285/1285370-gourisei.org) | ごうりせい | 1285370 | new / draft |
+| JLPTLord N2 315 | [整合性](entries/1376/1376180-seigousei.org) | せいごうせい | 1376180 | new / draft |
+| JLPTLord N2 316 | [客観性](entries/1685/1685470-kyakkansei.org) | きゃっかんせい | 1685470 | new / draft |
+| JLPTLord N2 317 | [主観](entries/1325/1325180-shukan.org) | しゅかん | 1325180 | new / draft |
+| JLPTLord N2 318 | [客観](entries/1226/1226690-kyakkan.org) | きゃっかん | 1226690 | new / draft |
+| JLPTLord N2 321 | [本質](entries/1522/1522620-honshitsu.org) | ほんしつ | 1522620 | new / draft |
+| JLPTLord N2 322 | [定義](entries/1435/1435530-teigi.org) | ていぎ | 1435530 | new / draft |
 
 ## Maturity workflow
 
