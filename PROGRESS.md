@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **1330**.
+Completed **40/200** additional distinct words; branch total **1340**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2311,6 +2311,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2344,6 +2345,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 331 | [楽団](entries/1207/1207430-gakudan.org) | がくだん | 1207430 | new / draft |
 | TodayJLPT N2 334 | [学長](entries/1206/1206990-gakuchou.org) | がくちょう | 1206990 | new / draft |
 | TodayJLPT N2 336 | [格闘](entries/1205/1205440-kakutou.org) | かくとう | 1205440 | new / draft |
+| TodayJLPT N2 337 | [学童](entries/1207/1207010-gakudou.org) | がくどう | 1207010 | new / draft |
+| TodayJLPT N2 341 | [隔離](entries/1206/1206440-kakuri.org) | かくり | 1206440 | new / draft |
+| TodayJLPT N2 344 | [歌劇](entries/1193/1193260-kageki.org) | かげき | 1193260 | new / draft |
+| TodayJLPT N2 348 | [欠片](entries/1254/1254090-kakera.org) | かけら | 1254090 | new / draft |
+| TodayJLPT N2 349 | [囲い](entries/1155/1155950-kakoi.org) | かこい | 1155950 | new / draft |
+| TodayJLPT N2 350 | [囲う](entries/1155/1155960-kakou.org) | かこう | 1155960 | new / draft |
+| TodayJLPT N2 356 | [加算](entries/1190/1190230-kasan.org) | かさん | 1190230 | new / draft |
+| TodayJLPT N2 363 | [貨車](entries/1195/1195870-kasha.org) | かしゃ | 1195870 | new / draft |
+| TodayJLPT N2 367 | [歌唱](entries/1193/1193320-kashou.org) | かしょう | 1193320 | new / draft |
+| TodayJLPT N2 369 | [頭文字](entries/1450/1450940-kashiramoji.org) | かしらもじ | 1450940 | new / draft |
 
 ## Maturity workflow
 
