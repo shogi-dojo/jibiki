@@ -1,0 +1,382 @@
+#+TITLE: 検索
+#+JMDICT_ID: 1257900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんさく
+#+ROMAJI: kensaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1257900-001
+:PROPERTIES:
+:TEXT: 検索
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1257900-001
+:PROPERTIES:
+:TEXT: けんさく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1257900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e0c510568e58822539a08edbaea79d466ebd6ca623dcf12b67c11a6cc059345e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- looking up (e.g. a word in a dictionary)
+- search (e.g. on the Internet)
+- retrieval (of information)
+- reference
+** Ukrainian glosses
+*** uk-s-1257900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пошук; пошук у словнику; знаходження інформації
+** Learner notes
+*** note-s-1257900-001-001
+:PROPERTIES:
+:END:
+- UK :: =言葉を検索する= — шукати слово, =検索結果= — результати пошуку. =探す= ширше шукати будь-що, =検索= часто впорядковане знаходження в інформаційному масиві. Не лише інтернет; може бути локальний словник чи база.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1257900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 単語を検索した。
+- READING :: たんごをけんさくした。
+- UK :: Я знайшов слово через пошук.
+- EN :: I looked up the word.
+- FOCUS :: 検索した
+*** ex-1257900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 住所を検索して、地図を開いた。
+- READING :: じゅうしょをけんさくして、ちずをひらいた。
+- UK :: Я пошукав адресу й відкрив карту.
+- EN :: I searched for the address and opened a map.
+- FOCUS :: 検索して
+*** ex-1257900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 検索した言葉が広すぎたので、場所と時期を加えて情報を絞った。
+- READING :: けんさくしたことばがひろすぎたので、ばしょとじきをくわえてじょうほうをしぼった。
+- UK :: Пошуковий вислів був надто широким, тож я додав місце й час, щоб звузити результати.
+- EN :: The search terms were too broad, so I added a place and period to narrow the information.
+- FOCUS :: 検索した
+
+* Sense s-1257900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3d72926b430f6815d22319d19b95178a6df56d25f52b976bd881f41393383127
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opzoeking
+*** en-s-1257900-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zoekbewerking
+*** en-s-1257900-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zoekactie
+*** en-s-1257900-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naslag
+** Ukrainian glosses
+
+* Sense s-1257900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4fbdf1bc27a46c801da1bba835ab1465287c4363807accabe592785db9ea4188
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachschlagen
+** Ukrainian glosses
+
+* Sense s-1257900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 00677e1c8bb9a565fc977eb1cf14e08d3a2d47d447d5f47898bb96859cf02bc3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Suche
+** Ukrainian glosses
+
+* Sense s-1257900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 13ee9c62721fd42d8863e34cf47d1dd4a8ff16982179f3bcce6a8a3728f44e00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Index (eines Buches)
+*** en-s-1257900-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachschlagen
+*** en-s-1257900-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: konsultieren
+*** en-s-1257900-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachsehen
+*** en-s-1257900-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: suchen
+*** en-s-1257900-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: finden
+** Ukrainian glosses
+
+* Sense s-1257900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 44892a3ed63f2e85a5c7eadbc17881b9da8970e74df440f290ca7ed8541d605b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszakeresés
+*** en-s-1257900-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ajánlás
+*** en-s-1257900-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ajánlólevél
+*** en-s-1257900-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felvilágosítás
+*** en-s-1257900-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hivatkozás
+*** en-s-1257900-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vonatkozás
+** Ukrainian glosses
+
+* Sense s-1257900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 85808a809248711a87f54e7fa40cf880706a27bf15d4e1a7d6c9124ad658a9f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.)
+*** en-s-1257900-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) отыскивание (слов в словаре и т. п.)
+*** en-s-1257900-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} справляться (в указателе); отыскивать (слова в словаре и т. п.); обращаться к указателю
+*** en-s-1257900-007-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) обыск
+*** en-s-1257900-007-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} обыскивать
+** Ukrainian glosses
+
+* Sense s-1257900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 98e7ef78f539f5e7838ebe9dbc9c4df2029ae4500e3f3076521e546c09caa0e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257900-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: consulta (resultado de una búsqueda hecha en un diccionario o computadora
+*** en-s-1257900-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: o la búsqueda en sí)
+*** en-s-1257900-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: búscar
+*** en-s-1257900-008-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: consultar
+** Ukrainian glosses
