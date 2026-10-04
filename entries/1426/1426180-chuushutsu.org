@@ -1,0 +1,370 @@
+#+TITLE: 抽出
+#+JMDICT_ID: 1426180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうしゅつ
+#+ROMAJI: chuushutsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1426180-001
+:PROPERTIES:
+:TEXT: 抽出
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1426180-001
+:PROPERTIES:
+:TEXT: ちゅうしゅつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1426180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b19462f702cc9080660f79bbab6a16a0c2fd20cc8272646f26581561d64c856c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- extraction
+- abstraction
+** Ukrainian glosses
+*** uk-s-1426180-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виділення; вилучення; екстракція; абстрагування
+** Learner notes
+*** note-s-1426180-001-001
+:PROPERTIES:
+:END:
+- UK :: Відокремлення потрібного компонента або змісту з цілого: 成分を抽出する, 要点を抽出する. Може бути фізичний процес або робота з інформацією; не завжди повне усунення всіх інших частин.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1426180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 文章から要点を抽出した。
+- READING :: ぶんしょうからようてんをちゅうしゅつした。
+- UK :: Я виділив основні думки з тексту.
+- EN :: I extracted the main points from the text.
+- FOCUS :: 抽出
+*** ex-1426180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 植物から成分を抽出した。
+- READING :: しょくぶつからせいぶんをちゅうしゅつした。
+- UK :: З рослини виділили компонент.
+- EN :: A component was extracted from the plant.
+- FOCUS :: 抽出
+*** ex-1426180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 必要な情報を抽出した後で、元の文章の意味を変えていないか確認した。
+- READING :: ひつようなじょうほうをちゅうしゅつしたあとで、もとのぶんしょうのいみをかえていないかかくにんした。
+- UK :: Виділивши потрібну інформацію, я перевірив, чи не змінив зміст оригінального тексту.
+- EN :: After extracting the information needed, I checked that I had not changed the original text's meaning.
+- FOCUS :: 抽出
+
+* Sense s-1426180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 564422c01ea32944181517d843d8fc30bd57e8ad1be833d1ed59db582b14e088
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- selection (from a group)
+- sampling
+** Ukrainian glosses
+*** uk-s-1426180-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відбір; вибірка з групи
+** Learner notes
+*** note-s-1426180-002-001
+:PROPERTIES:
+:END:
+- UK :: Вибір одиниць із більшої сукупності: 標本を抽出する. Не гарантує випадковості чи репрезентативності; спосіб відбору, наприклад 無作為抽出, треба вказати окремо, щоб оцінити значення результатів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1426180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8f08626f989a206c69aa4ef4e94814217af036f1e9683339a58cb40b84a5cedd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekking
+*** en-s-1426180-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extractie
+*** en-s-1426180-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onttrekking
+** Ukrainian glosses
+
+* Sense s-1426180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 39f0349adca9a201ffdfb8ecb4e17c12ac03e0cd254d93d219b3df88db77681f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {stat.} steekproeftrekking
+*** en-s-1426180-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekken
+*** en-s-1426180-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extraheren
+*** en-s-1426180-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onttrekken
+*** en-s-1426180-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitdistilleren
+*** en-s-1426180-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eruit halen
+** Ukrainian glosses
+
+* Sense s-1426180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 58cc08ae281008e51a59837d2e258eaafa18ba0d048889e05a7a40af370468ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: échantillon
+*** en-s-1426180-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extrait
+*** en-s-1426180-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: résumé
+** Ukrainian glosses
+
+* Sense s-1426180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9cab903d195d4017d4e2cfe2315d106e837b30e27150b4e1ab32b51367d0e85d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Extraktion
+*** en-s-1426180-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herausziehen
+*** en-s-1426180-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extrahieren
+*** en-s-1426180-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auswählen
+*** en-s-1426180-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herausziehen
+** Ukrainian glosses
+
+* Sense s-1426180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4e3a92fdf5ae3a61357f2450bb1b35b0ed71ac93c11b4450bc4d2bc575ddcb80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kóstoló
+** Ukrainian glosses
+
+* Sense s-1426180-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f3c88a28a0ace858c73fb182b2059073c69cb17f44df0b514ddc8605a68c642c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) извлечение, экстракция
+*** en-s-1426180-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} извлекать, экстрагировать
+*** en-s-1426180-008-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2): {～する} разряжать (оружие); выбрасывать (гильзы, патроны)
+** Ukrainian glosses
+
+* Sense s-1426180-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 238817b14529a00e3bbfed9de7067099c9982fb77dc0c4c63b1d10a03c79fea1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1426180-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extracción
+** Ukrainian glosses
