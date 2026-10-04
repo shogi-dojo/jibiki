@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 5963 |
+| Canonical entry files | 6163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 2991 |
+| Canonical N2 entries | 3191 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 5926 |
+| `new` | 6126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 5953 |
+| Entry metadata still marked `draft` | 6153 |
 | Core profile | 163 |
-| Learner profile | 5799 |
+| Learner profile | 5999 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -3306,6 +3306,27 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 703 | [放射線](entries/1516/1516630-houshasen.org) | ほうしゃせん | 1516630 | new / draft |
 | JLPTLord N2 704 | [原子力](entries/1261/1261750-genshiryoku.org) | げんしりょく | 1261750 | new / draft |
 | JLPTLord N2 705 | [核兵器](entries/1205/1205700-kakuheiki.org) | かくへいき | 1205700 | new / draft |
+
+### Final 2100-word audit
+
+The branch contains **2100 new translated entries** relative to `origin/main`.
+Since the 1700-word baseline `f1b16094`, this continuation added **400 distinct
+N2 study-list candidates in 40 batches**, with **400 individual word commits**.
+The additions contain **557 English senses with original Ukrainian translations
+and usage notes**, and **1200 graded Japanese/kana/Ukrainian/English examples**.
+Candidate evidence comprises 68 TodayJLPT rows and 332 JLPTLord rows, reconciled
+with pinned JMdict and existing entry IDs. These are documented study-list
+classifications rather than an official JLPT vocabulary syllabus.
+
+All 400 entries passed JMdict validation and Org lint. Doctor reported **100/100**
+with **zero errors and zero warnings**. The full suite passed **137 tests and
+19043 assertions**, with zero failures, errors, or skips. The audit confirmed
+unique JMdict IDs, complete source sense inventories and fingerprints, one
+addition per word commit, and unchanged earlier entries. One subsequent commit
+corrected the literal gloss for 風潮 without adding another word.
+
+The original untracked 罪 draft and candidate-finder script remain untouched.
+All additions remain `new` / `draft` learner entries pending editorial review.
 
 ## Maturity workflow
 
