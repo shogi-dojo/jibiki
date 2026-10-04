@@ -1,0 +1,215 @@
+#+TITLE: 品詞
+#+JMDICT_ID: 1490570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひんし
+#+ROMAJI: hinshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490570-001
+:PROPERTIES:
+:TEXT: 品詞
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1490570-001
+:PROPERTIES:
+:TEXT: ひんし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1490570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 29c33198ced50e8753edb7d4199b616fbb5e88adfe47165eefb8b3c2f3cd3882
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- gramm
+** English glosses
+- part of speech
+** Ukrainian glosses
+*** uk-s-1490570-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: частина мови
+** Learner notes
+*** note-s-1490570-001-001
+:PROPERTIES:
+:END:
+- UK :: Граматична категорія слова: 名詞, 動詞などの品詞. Не саме значення слова й не його функція в кожному окремому реченні; класифікація може різнитися між мовами та системами опису, тому важливі правила конкретного словника.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1490570-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この語の品詞は名詞だ。
+- READING :: このごのひんしはめいしだ。
+- UK :: Частина мови цього слова — іменник.
+- EN :: This word's part of speech is noun.
+- FOCUS :: 品詞
+*** ex-1490570-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 辞書で品詞を確認した。
+- READING :: じしょでひんしをかくにんした。
+- UK :: Я перевірив частину мови в словнику.
+- EN :: I checked the part of speech in the dictionary.
+- FOCUS :: 品詞
+*** ex-1490570-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ形の語でも使い方で品詞が変わる場合があるので、例文も一緒に読んだ。
+- READING :: おなじかたちのごでもつかいかたでひんしがかわるばあいがあるので、れいぶんもいっしょによんだ。
+- UK :: Одна форма може належати до різних частин мови залежно від уживання, тому я читав і приклади.
+- EN :: As a word form may have different parts of speech depending on its use, I read the examples as well.
+- FOCUS :: 品詞
+
+* Sense s-1490570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b68deebdde560fbc02b269135673c8d932e2fe1484ec4374908b13d813cf71b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {taalk.} woordsoort
+*** en-s-1490570-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: woordklasse
+** Ukrainian glosses
+
+* Sense s-1490570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 62d3877279f408ca29b6d0245566ac647f07dd86e2aff585ba951036ddaa5b61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partie du discours
+** Ukrainian glosses
+
+* Sense s-1490570-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d5dc5946f0e4439fd52f28c588180a39c125ff8f312abe681aad216ab3f3c05e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wortart
+*** en-s-1490570-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wortklasse
+** Ukrainian glosses
+
+* Sense s-1490570-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 909653369f7fb16b28ccb7fdd4f4df42a50f9812bead8082937f3755634dbf4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (грам.) часть речи
+** Ukrainian glosses
+
+* Sense s-1490570-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 39bb465153085a8b071d3947bb5532d06e1e19b4da414d53cd316ec1122b1df6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elemento de la oración
+** Ukrainian glosses
+
+* Sense s-1490570-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 58c81dec4d983e6f9edca6ea5a645bcefd06aaf3bd20f077a4028031c5f4a907
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490570-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ordklass
+** Ukrainian glosses
