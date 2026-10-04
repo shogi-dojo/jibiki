@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **1410**.
+Completed **120/200** additional distinct words; branch total **1420**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2319,6 +2319,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2432,6 +2433,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 641 | [見聞](entries/1260/1260030-kenbun.org) | けんぶん | 1260030 | new / draft |
 | TodayJLPT N2 647 | [恋心](entries/1585/1585260-koigokoro.org) | こいごころ | 1585260 | new / draft |
 | TodayJLPT N2 649 | [恋文](entries/1559/1559040-koibumi.org) | こいぶみ | 1559040 | new / draft |
+| TodayJLPT N2 652 | [光栄](entries/1272/1272870-kouei.org) | こうえい | 1272870 | new / draft |
+| TodayJLPT N2 653 | [高温](entries/1283/1283280-kouon.org) | こうおん | 1283280 | new / draft |
+| TodayJLPT N2 655 | [高額](entries/1283/1283320-kougaku.org) | こうがく | 1283320 | new / draft |
+| TodayJLPT N2 660 | [航行](entries/1281/1281390-koukou.org) | こうこう | 1281390 | new / draft |
+| TodayJLPT N2 675 | [校則](entries/1279/1279580-kousoku.org) | こうそく | 1279580 | new / draft |
+| TodayJLPT N2 676 | [高卒](entries/1283/1283730-kousotsu.org) | こうそつ | 1283730 | new / draft |
+| TodayJLPT N2 680 | [構築](entries/1279/1279810-kouchiku.org) | こうちく | 1279810 | new / draft |
+| TodayJLPT N2 684 | [硬度](entries/1280/1280620-koudo.org) | こうど | 1280620 | new / draft |
+| TodayJLPT N2 689 | [効能](entries/1275/1275180-kounou.org) | こうのう | 1275180 | new / draft |
+| TodayJLPT N2 690 | [紅白](entries/1280/1280790-kouhaku.org) | こうはく | 1280790 | new / draft |
 
 ## Maturity workflow
 
