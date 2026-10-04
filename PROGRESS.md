@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **2210**.
+Completed **120/200** additional distinct words; branch total **2220**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3355,6 +3355,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3468,6 +3469,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 923 | [慕う](entries/1514/1514910-shitau.org) | したう | 1514910 | new / draft |
 | JLPTLord N2 927 | [戒める](entries/1200/1200650-imashimeru.org) | いましめる | 1200650 | new / draft |
 | JLPTLord N2 928 | [諭す](entries/1538/1538770-satosu.org) | さとす | 1538770 | new / draft |
+| JLPTLord N2 929 | [嘆く](entries/1418/1418090-nageku.org) | なげく | 1418090 | new / draft |
+| JLPTLord N2 931 | [偽る](entries/1224/1224390-itsuwaru.org) | いつわる | 1224390 | new / draft |
+| JLPTLord N2 932 | [欺く](entries/1225/1225420-azamuku.org) | あざむく | 1225420 | new / draft |
+| JLPTLord N2 945 | [保つ](entries/1513/1513250-tamotsu.org) | たもつ | 1513250 | new / draft |
+| JLPTLord N2 954 | [恥じる](entries/1421/1421610-hajiru.org) | はじる | 1421610 | new / draft |
+| JLPTLord N2 957 | [転じる](entries/1441/1441040-tenjiru.org) | てんじる | 1441040 | new / draft |
+| JLPTLord N2 958 | [呈する](entries/2012/2012430-teisuru.org) | ていする | 2012430 | new / draft |
+| JLPTLord N2 959 | [擁する](entries/1545/1545740-yousuru.org) | ようする | 1545740 | new / draft |
+| JLPTLord N2 960 | [要する](entries/1546/1546610-yousuru.org) | ようする | 1546610 | new / draft |
+| JLPTLord N2 961 | [有する](entries/1540/1540950-yuusuru.org) | ゆうする | 1540950 | new / draft |
 
 ## Maturity workflow
 
