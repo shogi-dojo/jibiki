@@ -1,0 +1,353 @@
+#+TITLE: 前線
+#+JMDICT_ID: 1393510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜんせん
+#+ROMAJI: zensen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1393510-001
+:PROPERTIES:
+:TEXT: 前線
+:END:
+*** Priorities
+- news1
+- nf08
+** Reading rd-1393510-001
+:PROPERTIES:
+:TEXT: ぜんせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf08
+
+* Sense s-1393510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7504e307159122fd0709884e3cda976b2d3a3903969d9f0b99e4c386433a5776
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- met
+** English glosses
+- (weather) front
+** Ukrainian glosses
+*** uk-s-1393510-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: атмосферний фронт
+** Learner notes
+*** note-s-1393510-001-001
+:PROPERTIES:
+:END:
+- UK :: Метеорологічне значення про межу між повітряними масами: 寒冷前線, 前線が通過する. Не політична межа держав і не військова лінія; зв'язок із погодою визначає, як перекладати та читати складні терміни.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1393510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 前線が近づいている。
+- READING :: ぜんせんがちかづいている。
+- UK :: Наближається атмосферний фронт.
+- EN :: A weather front is approaching.
+- FOCUS :: 前線
+*** ex-1393510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 天気図で前線の位置を見た。
+- READING :: てんきずでぜんせんのいちをみた。
+- UK :: Я подивився розташування фронту на карті погоди.
+- EN :: I checked the front's position on the weather map.
+- FOCUS :: 前線
+*** ex-1393510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 前線の移動について説明を聞き、翌日の予報と地図の変化を比べた。
+- READING :: ぜんせんのいどうについてせつめいをきき、よくじつのよほうとちずのへんかをくらべた。
+- UK :: Я послухав пояснення про рух фронту й порівняв прогноз на завтра зі змінами на карті.
+- EN :: I listened to an explanation of the front's movement and compared the next day's forecast with changes on the map.
+- FOCUS :: 前線
+
+* Sense s-1393510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e4fae38a74dbed8567305e10985456cbade7e197a0a314845d5116467fc648b9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- mil
+** English glosses
+- front line
+- the front
+- battlefront
+- forward area
+** Ukrainian glosses
+*** uk-s-1393510-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лінія фронту; передова; передній край
+** Learner notes
+*** note-s-1393510-002-001
+:PROPERTIES:
+:END:
+- UK :: Військове значення про передню зону бойових дій, а переносно — про місце безпосередньої роботи. 最前線 посилює ідею найпереднішої ділянки; не будь-який кордон або вся територія конфлікту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1393510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fffaba6616f3873facdb13df0d22751818e5da093d97cdb34ececbc30616d680
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {mil.} front
+*** en-s-1393510-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frontlijn
+*** en-s-1393510-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frontlinie
+** Ukrainian glosses
+
+* Sense s-1393510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 733fd4b90eb41f143a19098ddb9b22e35dae382cbdcf01202cbc3b6e6947fce7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meteo.} front
+** Ukrainian glosses
+
+* Sense s-1393510-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 08799db6f3fd54657c9daca271971b88efcd18e11980d71f50bca89cdeab2efe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Front
+*** en-s-1393510-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Frontlinie
+** Ukrainian glosses
+
+* Sense s-1393510-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1592b976e09ebb8236d8c6ecd42115c692e84a47547e04be49afc4270cc7813a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wetterfront
+** Ukrainian glosses
+
+* Sense s-1393510-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: aa428f05149a7ff9ed4d1de786cf703fc9bf0924897c65667179050b2fb45482
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arcvonal
+*** en-s-1393510-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: front
+*** en-s-1393510-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eleje
+*** en-s-1393510-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előrész
+*** en-s-1393510-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: első vonal
+*** en-s-1393510-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elülső rész
+*** en-s-1393510-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fedőszerv
+*** en-s-1393510-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: harcvonal
+*** en-s-1393510-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időjárási front
+*** en-s-1393510-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiállás
+*** en-s-1393510-007-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mellső
+*** en-s-1393510-007-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parti sétány
+** Ukrainian glosses
+
+* Sense s-1393510-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 12f6a5a95ea878b6a92b484341b488788626582e77d83f0af469842bf4be50dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1393510-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) передняя (первая) линия; (воен.) передовая линия; передний край
+*** en-s-1393510-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (метеор.) фронт
+** Ukrainian glosses
