@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **1110**.
+Completed **20/200** additional distinct words; branch total **1120**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2052,6 +2052,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2065,6 +2066,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.1.4 | [気が利く](entries/1221/1221640-kigakiku.org) | きがきく | 1221640 | new / draft |
 | JTest 12.1.5 | [気がつく](entries/1591/1591050-kigatsuku.org) | きがつく | 1591050 | new / draft |
 | JTest 12.1.6 | [気が強い](entries/1639/1639460-kigatsuyoi.org) | きがつよい | 1639460 | new / draft |
+| JTest 12.1.7 | [気が小さい](entries/1221/1221600-kigachiisai.org) | きがちいさい | 1221600 | new / draft |
+| JTest 12.1.8 | [気を遣う](entries/1591/1591980-kiwotsukau.org) | きをつかう | 1591980 | new / draft |
+| JTest 12.1.9 | [気が進まない](entries/2056/2056640-kigasusumanai.org) | きがすすまない | 2056640 | new / draft |
+| JTest 12.1.10 | [気にかかる](entries/1639/1639560-kinikakaru.org) | きにかかる | 1639560 | new / draft |
+| JTest 12.1.11 | [気にくわない](entries/1221/1221730-kinikuwanai.org) | きにくわない | 1221730 | new / draft |
+| JTest 12.1.12 | [心が通う](entries/1639/1639980-kokorogakayou.org) | こころがかよう | 1639980 | new / draft |
+| JTest 12.1.13 | [心が狭い](entries/2748/2748940-kokorogasemai.org) | こころがせまい | 2748940 | new / draft |
+| JTest 12.1.14 | [心が動く](entries/1639/1639990-kokorogaugoku.org) | こころがうごく | 1639990 | new / draft |
+| JTest 12.1.15 | [心を配る](entries/1876/1876530-kokorowokubaru.org) | こころをくばる | 1876530 | new / draft |
+| JTest 12.1.16 | [心を引かれる](entries/2764/2764460-kokorowohikareru.org) | こころをひかれる | 2764460 | new / draft |
 
 ## Maturity workflow
 
