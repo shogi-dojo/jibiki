@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **2140**.
+Completed **50/200** additional distinct words; branch total **2150**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3348,6 +3348,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3391,6 +3392,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 779 | [覆る](entries/1501/1501500-kutsugaeru.org) | くつがえる | 1501500 | new / draft |
 | JLPTLord N2 785 | [傾ける](entries/1249/1249420-katamukeru.org) | かたむける | 1249420 | new / draft |
 | JLPTLord N2 786 | [費やす](entries/1484/1484600-tsuiyasu.org) | ついやす | 1484600 | new / draft |
+| JLPTLord N2 787 | [培う](entries/1473/1473350-tsuchikau.org) | つちかう | 1473350 | new / draft |
+| JLPTLord N2 789 | [賄う](entries/1562/1562510-makanau.org) | まかなう | 1562510 | new / draft |
+| JLPTLord N2 793 | [唱える](entries/1347/1347490-tonaeru.org) | となえる | 1347490 | new / draft |
+| JLPTLord N2 795 | [企てる](entries/1218/1218120-kuwadateru.org) | くわだてる | 1218120 | new / draft |
+| JLPTLord N2 797 | [挑む](entries/1428/1428230-idomu.org) | いどむ | 1428230 | new / draft |
+| JLPTLord N2 798 | [臨む](entries/1555/1555560-nozomu.org) | のぞむ | 1555560 | new / draft |
+| JLPTLord N2 800 | [促す](entries/1403/1403760-unagasu.org) | うながす | 1403760 | new / draft |
+| JLPTLord N2 801 | [催す](entries/1292/1292160-moyoosu.org) | もよおす | 1292160 | new / draft |
+| JLPTLord N2 802 | [施す](entries/1310/1310370-hodokosu.org) | ほどこす | 1310370 | new / draft |
+| JLPTLord N2 803 | [講じる](entries/1631/1631440-koujiru.org) | こうじる | 1631440 | new / draft |
 
 ## Maturity workflow
 
