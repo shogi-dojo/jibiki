@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **2130**.
+Completed **40/200** additional distinct words; branch total **2140**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3347,6 +3347,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3380,6 +3381,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 744 | [元請け](entries/1665/1665240-motouke.org) | もとうけ | 1665240 | new / draft |
 | JLPTLord N2 745 | [入札](entries/1466/1466180-nyuusatsu.org) | にゅうさつ | 1466180 | new / draft |
 | JLPTLord N2 746 | [落札](entries/1548/1548750-rakusatsu.org) | らくさつ | 1548750 | new / draft |
+| JLPTLord N2 747 | [受注](entries/1329/1329970-juchuu.org) | じゅちゅう | 1329970 | new / draft |
+| JLPTLord N2 748 | [発注](entries/1477/1477710-hatchuu.org) | はっちゅう | 1477710 | new / draft |
+| JLPTLord N2 749 | [納期](entries/1470/1470050-nouki.org) | のうき | 1470050 | new / draft |
+| JLPTLord N2 750 | [仕入れ](entries/1305/1305300-shiire.org) | しいれ | 1305300 | new / draft |
+| JLPTLord N2 774 | [備わる](entries/1596/1596640-sonawaru.org) | そなわる | 1596640 | new / draft |
+| JLPTLord N2 775 | [供える](entries/1233/1233580-sonaeru.org) | そなえる | 1233580 | new / draft |
+| JLPTLord N2 778 | [覆す](entries/1501/1501490-kutsugaesu.org) | くつがえす | 1501490 | new / draft |
+| JLPTLord N2 779 | [覆る](entries/1501/1501500-kutsugaeru.org) | くつがえる | 1501500 | new / draft |
+| JLPTLord N2 785 | [傾ける](entries/1249/1249420-katamukeru.org) | かたむける | 1249420 | new / draft |
+| JLPTLord N2 786 | [費やす](entries/1484/1484600-tsuiyasu.org) | ついやす | 1484600 | new / draft |
 
 ## Maturity workflow
 
