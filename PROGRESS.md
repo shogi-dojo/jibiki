@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **1190**.
+Completed **100/200** additional distinct words; branch total **1200**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2060,6 +2060,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2153,6 +2154,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 63 | [干渉](entries/1212/1212050-kanshou.org) | かんしょう | 1212050 | new / draft |
 | Kotoba N2 64 | [緩和](entries/1214/1214530-kanwa.org) | かんわ | 1214530 | new / draft |
 | Kotoba N2 66 | [月日](entries/1609/1609580-gappi.org) | がっぴ | 1609580 | new / draft |
+| Kotoba N2 67 | [基金](entries/1219/1219020-kikin.org) | ききん | 1219020 | new / draft |
+| Kotoba N2 68 | [気象](entries/1222/1222270-kishou.org) | きしょう | 1222270 | new / draft |
+| Kotoba N2 70 | [教科](entries/1237/1237010-kyouka.org) | きょうか | 1237010 | new / draft |
+| Kotoba N2 82 | [現行](entries/1263/1263630-genkou.org) | げんこう | 1263630 | new / draft |
+| Kotoba N2 83 | [原子](entries/1261/1261570-genshi.org) | げんし | 1261570 | new / draft |
+| Kotoba N2 84 | [行員](entries/1281/1281840-kouin.org) | こういん | 1281840 | new / draft |
+| Kotoba N2 85 | [好況](entries/1277/1277620-koukyou.org) | こうきょう | 1277620 | new / draft |
+| Kotoba N2 86 | [講習](entries/1282/1282290-koushuu.org) | こうしゅう | 1282290 | new / draft |
+| Kotoba N2 87 | [降水](entries/1282/1282890-kousui.org) | こうすい | 1282890 | new / draft |
+| Kotoba N2 88 | [抗争](entries/1278/1278950-kousou.org) | こうそう | 1278950 | new / draft |
 
 ## Maturity workflow
 
