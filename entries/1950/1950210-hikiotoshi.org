@@ -1,0 +1,251 @@
+#+TITLE: 引き落とし
+#+JMDICT_ID: 1950210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひきおとし
+#+ROMAJI: hikiotoshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1950210-001
+:PROPERTIES:
+:TEXT: 引き落とし
+:END:
+*** Priorities
+- news2
+- nf30
+** Written form wf-1950210-002
+:PROPERTIES:
+:TEXT: 引き落し
+:END:
+** Written form wf-1950210-003
+:PROPERTIES:
+:TEXT: 引落とし
+:END:
+*** Information
+- io
+** Written form wf-1950210-004
+:PROPERTIES:
+:TEXT: 引落
+:END:
+*** Information
+- io
+** Reading rd-1950210-001
+:PROPERTIES:
+:TEXT: ひきおとし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1950210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f258b511cb92465b6c59635f5a639a324cc8c09d133ddafcd69c9831f8a5a03c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- debit
+- withdrawal
+** Ukrainian glosses
+*** uk-s-1950210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: списання коштів; дебетування; зняття з рахунку
+** Learner notes
+*** note-s-1950210-001-001
+:PROPERTIES:
+:END:
+- UK :: =口座からの引き落とし= — списання з рахунку, часто за домовленим платежем. =引き出し= акцентує вилучення грошей самим користувачем. =自動引き落とし= уточнює автоматичність; саме слово не визначає всі умови банку.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1950210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 引き落としの日を確認した。
+- READING :: ひきおとしのひをかくにんした。
+- UK :: Я перевірив дату списання коштів.
+- EN :: I checked the debit date.
+- FOCUS :: 引き落とし
+*** ex-1950210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家賃の引き落としが、通帳に記録されていた。
+- READING :: やちんのひきおとしが、つうちょうにきろくされていた。
+- UK :: У банківській книжці було записано списання орендної плати.
+- EN :: The bankbook showed the rent debit.
+- FOCUS :: 引き落とし
+*** ex-1950210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 引き落としが済んだと思っていたが、明細を見るとまだ処理されていなかった。
+- READING :: ひきおとしがすんだとおもっていたが、めいさいをみるとまだしょりされていなかった。
+- UK :: Я думав, що кошти вже списали, але виписка показала, що операцію ще не виконали.
+- EN :: I thought the debit was complete, but the statement showed it had not yet been processed.
+- FOCUS :: 引き落とし
+
+* Sense s-1950210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ce4c17b0ded17534961ce060d6ca578f64cae38daea0ab0b37d1d73784e8c9ef
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- sumo
+** English glosses
+- pulling (one's opponent) down
+- frontal pull-down
+- hiki-otoshi
+** Ukrainian glosses
+*** uk-s-1950210-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хікіотосі; фронтальне стягування суперника вниз (сумо)
+** Learner notes
+*** note-s-1950210-002-001
+:PROPERTIES:
+:END:
+- UK :: Назва прийому сумо, коли суперника тягнуть уперед і вниз. Потребує спортивного контексту, де =引き落とし= не платіж. Написання й читання збігаються, але об'єкт дії відрізняє сенси.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1950210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ae5166e645eee23edefc553fba5677823dea46cbc359b612570c14555a148649
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1950210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hiki・otoshi (Technik, bei der Gegner so nach vorne gezogen wird, dass er auf die Knie geht)
+** Ukrainian glosses
+
+* Sense s-1950210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ba720c8948e64fc2074ed5035e6a6b9cda03acd2b253901128aa7230240531e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1950210-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bankeinzug
+** Ukrainian glosses
+
+* Sense s-1950210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fa3daf1d1c730abddf154c44a5cc9781d2a54789879b5b89fc42960bf0db8365
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1950210-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: készletből levon
+** Ukrainian glosses
+
+* Sense s-1950210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 38a85258b91a587605475bcd80ecc05fab81dc80d6097219f7b300ef7905109a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1950210-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derribe (oponente)
+*** en-s-1950210-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: empuje frontal (en Sumo)
+*** en-s-1950210-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiki-otoshi
+*** en-s-1950210-006-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: empuje (de un oponente)
+*** en-s-1950210-006-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: empuje frontal (in Sumo)
+*** en-s-1950210-006-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiki-otoshi
+** Ukrainian glosses
