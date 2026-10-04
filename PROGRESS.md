@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **2250**.
+Completed **160/200** additional distinct words; branch total **2260**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3359,6 +3359,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3512,6 +3513,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1027 | [華々しい](entries/1600/1600960-hanabanashii.org) | はなばなしい | 1600960 | new / draft |
 | JLPTLord N2 1028 | [空しい](entries/1245/1245370-munashii.org) | むなしい | 1245370 | new / draft |
 | JLPTLord N2 1030 | [切ない](entries/1383/1383770-setsunai.org) | せつない | 1383770 | new / draft |
+| JLPTLord N2 1034 | [根強い](entries/1290/1290150-nezuyoi.org) | ねづよい | 1290150 | new / draft |
+| JLPTLord N2 1035 | [手堅い](entries/1327/1327550-tegatai.org) | てがたい | 1327550 | new / draft |
+| JLPTLord N2 1036 | [手厚い](entries/1327/1327580-teatsui.org) | てあつい | 1327580 | new / draft |
+| JLPTLord N2 1037 | [手軽](entries/1327/1327530-tegaru.org) | てがる | 1327530 | new / draft |
+| JLPTLord N2 1040 | [潔い](entries/1254/1254440-isagiyoi.org) | いさぎよい | 1254440 | new / draft |
+| JLPTLord N2 1047 | [脆い](entries/1382/1382220-moroi.org) | もろい | 1382220 | new / draft |
+| JLPTLord N2 1057 | [密か](entries/1612/1612520-hisoka.org) | ひそか | 1612520 | new / draft |
+| JLPTLord N2 1058 | [鮮やか](entries/1392/1392500-azayaka.org) | あざやか | 1392500 | new / draft |
+| JLPTLord N2 1059 | [滑らか](entries/1208/1208560-nameraka.org) | なめらか | 1208560 | new / draft |
+| JLPTLord N2 1060 | [柔らか](entries/1460/1460730-yawaraka.org) | やわらか | 1460730 | new / draft |
 
 ## Maturity workflow
 
