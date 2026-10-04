@@ -1,0 +1,197 @@
+#+TITLE: 抗体
+#+JMDICT_ID: 1278960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうたい
+#+ROMAJI: koutai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1278960-001
+:PROPERTIES:
+:TEXT: 抗体
+:END:
+*** Priorities
+- news1
+- nf13
+** Reading rd-1278960-001
+:PROPERTIES:
+:TEXT: こうたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf13
+
+* Sense s-1278960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b79112e1e3a93c52edd935161da82fc8feda2ca29c9d100b08a12fad40d2b992
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- biol
+** English glosses
+- antibody
+** Ukrainian glosses
+*** uk-s-1278960-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: антитіло
+** Learner notes
+*** note-s-1278960-001-001
+:PROPERTIES:
+:END:
+- UK :: 抗体 — біологічний термін «антитіло»: 抗体を調べる, 抗体の働き. Відрізняйте від 抗原, антигену, та 免疫, ширшого поняття імунітету. Саме слово не повідомляє, чи є певна людина захищеною від хвороби; такий висновок потребує окремих даних і контексту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1278960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 抗体についての記事を読んだ。
+- READING :: こうたいについてのきじをよんだ。
+- UK :: Я прочитав статтю про антитіла.
+- EN :: I read an article about antibodies.
+- FOCUS :: 抗体
+*** ex-1278960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 抗体の働きを授業で学んだ。
+- READING :: こうたいのはたらきをじゅぎょうでまなんだ。
+- UK :: На занятті я вивчав роботу антитіл.
+- EN :: I learned about antibody function in class.
+- FOCUS :: 抗体
+*** ex-1278960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 抗体と抗原を混同しないように、説明を別々の欄に書いた。
+- READING :: こうたいとこうげんをこんどうしないように、せつめいをべつべつのらんにかいた。
+- UK :: Щоб не плутати антитіла й антигени, я записав пояснення в окремих колонках.
+- EN :: I wrote the explanations in separate columns to avoid confusing antibodies and antigens.
+- FOCUS :: 抗体
+
+* Sense s-1278960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f681d488e7d442efe4785078a48f3d6639085e8709a589aa3b76ad134f88ad00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278960-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antistof
+*** en-s-1278960-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afweerstof
+*** en-s-1278960-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antilichaam
+*** en-s-1278960-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tegenstof
+** Ukrainian glosses
+
+* Sense s-1278960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a0f7b031dae3dae57a4f1e0866b6dfe1e2d72e868c85b6bcbf9d0fda2d89d073
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278960-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Antikörper
+** Ukrainian glosses
+
+* Sense s-1278960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 97829c78bef5590d8eb5d228785e09a93b599853857499a79b6d33dc09ce5fe1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278960-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anticuerpo
+** Ukrainian glosses
+
+* Sense s-1278960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c9528428879e5e56881e156eaef02228c8daf98d7799dfdb33b92d652fe39e1e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278960-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antikropp
+*** en-s-1278960-005-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skyddskropp
+** Ukrainian glosses
