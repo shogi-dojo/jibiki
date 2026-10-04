@@ -4137,6 +4137,37 @@ Earlier tracked entries remain unchanged. The original untracked 罪 draft and
 candidate-finder script retain their original contents. All new additions
 remain learner entries marked `new` / `draft`, pending editorial review.
 
+## Final 2900-word branch N2 continuation (2026-10-04)
+
+Baseline: `be5dc401`, with **2700** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **2710**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 2078 | [勤勉](entries/1241/1241060-kinben.org) | きんべん | 1241060 | new / draft |
+| JLPTLord N2 2079 | [怠惰](entries/1410/1410730-taida.org) | たいだ | 1410730 | new / draft |
+| JLPTLord N2 2080 | [傲慢](entries/1563/1563960-gouman.org) | ごうまん | 1563960 | new / draft |
+| JLPTLord N2 2082 | [陰気](entries/1170/1170280-inki.org) | いんき | 1170280 | new / draft |
+| JLPTLord N2 2085 | [冷淡](entries/1557/1557150-reitan.org) | れいたん | 1557150 | new / draft |
+| JLPTLord N2 2086 | [繊細](entries/1391/1391930-sensai.org) | せんさい | 1391930 | new / draft |
+| JLPTLord N2 2087 | [大胆](entries/1414/1414500-daitan.org) | だいたん | 1414500 | new / draft |
+| JLPTLord N2 2089 | [軽率](entries/1252/1252910-keisotsu.org) | けいそつ | 1252910 | new / draft |
+| JLPTLord N2 2092 | [強情](entries/1593/1593510-goujou.org) | ごうじょう | 1593510 | new / draft |
+| JLPTLord N2 2094 | [気まぐれ](entries/1591/1591410-kimagure.org) | きまぐれ | 1591410 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below

@@ -40,3 +40,11 @@ entry IDs on 2026-10-04. The manifest now records 932 candidates across these
 continuations. The public N2 list was checked again; the cached lexical
 snapshot above remains the reproducible source. Ukrainian glosses, nuances
 and examples are independently authored.
+
+## 2700 to 2900 continuation
+
+At baseline be5dc401, 370 unused candidates remained in the reconciled N2
+study-list snapshot. The next 200 were selected on 2026-10-04, bringing the
+manifest to 1132 records. N2 candidate coverage is not exhausted, so no N1
+transition or Anki deck is required for this continuation. Original Ukrainian
+glosses, nuances and examples are authored independently of the source.
