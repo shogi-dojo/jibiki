@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **1310**.
+Completed **20/200** additional distinct words; branch total **1320**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2309,6 +2309,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2322,6 +2323,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 282 | [外気](entries/1203/1203470-gaiki.org) | がいき | 1203470 | new / draft |
 | TodayJLPT N2 283 | [海軍](entries/1201/1201330-kaigun.org) | かいぐん | 1201330 | new / draft |
 | TodayJLPT N2 284 | [解雇](entries/1198/1198980-kaiko.org) | かいこ | 1198980 | new / draft |
+| TodayJLPT N2 285 | [外交官](entries/1203/1203560-gaikoukan.org) | がいこうかん | 1203560 | new / draft |
+| TodayJLPT N2 293 | [解析](entries/1199/1199060-kaiseki.org) | かいせき | 1199060 | new / draft |
+| TodayJLPT N2 295 | [開設](entries/1202/1202800-kaisetsu.org) | かいせつ | 1202800 | new / draft |
+| TodayJLPT N2 296 | [回線](entries/1199/1199570-kaisen.org) | かいせん | 1199570 | new / draft |
+| TodayJLPT N2 297 | [改装](entries/1200/1200990-kaisou.org) | かいそう | 1200990 | new / draft |
+| TodayJLPT N2 299 | [改築](entries/1201/1201020-kaichiku.org) | かいちく | 1201020 | new / draft |
+| TodayJLPT N2 300 | [害虫](entries/1204/1204350-gaichuu.org) | がいちゅう | 1204350 | new / draft |
+| TodayJLPT N2 301 | [快調](entries/1200/1200110-kaichou.org) | かいちょう | 1200110 | new / draft |
+| TodayJLPT N2 303 | [海底](entries/1201/1201650-kaitei.org) | かいてい | 1201650 | new / draft |
+| TodayJLPT N2 307 | [回避](entries/1199/1199700-kaihi.org) | かいひ | 1199700 | new / draft |
 
 ## Maturity workflow
 
