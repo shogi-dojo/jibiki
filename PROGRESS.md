@@ -1782,6 +1782,37 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 | JTest 6.2.30 | [果たす](entries/1192/1192850-hatasu.org) | はたす | 1192850 | new / draft |
 | JTest 6.3.3 | [生きがい](entries/1378/1378550-ikigai.org) | いきがい | 1378550 | new / draft |
 
+## Final 1100-word branch N2 continuation (2026-10-04)
+
+Baseline: `945bbe61`, with **900** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **910**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/200
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 6.3.9 | [伝言](entries/1582/1582180-dengon.org) | でんごん | 1582180 | new / draft |
+| JTest 6.3.13 | [意図](entries/1156/1156690-ito.org) | いと | 1156690 | new / draft |
+| JTest 6.3.16 | [取り引き](entries/1599/1599120-torihiki.org) | とりひき | 1599120 | new / draft |
+| JTest 6.3.21 | [成果](entries/1375/1375650-seika.org) | せいか | 1375650 | new / draft |
+| JTest 6.3.22 | [達成](entries/1416/1416260-tassei.org) | たっせい | 1416260 | new / draft |
+| JTest 6.3.24 | [保留](entries/1514/1514030-horyuu.org) | ほりゅう | 1514030 | new / draft |
+| JTest 6.3.25 | [やり直す](entries/1605/1605620-yarinaosu.org) | やりなおす | 1605620 | new / draft |
+| JTest 6.3.26 | [件](entries/1255/1255940-ken.org) | けん | 1255940 | new / draft |
+| JTest 6.3.27 | [急用](entries/1228/1228990-kyuuyou.org) | きゅうよう | 1228990 | new / draft |
+| JTest 6.3.29 | [手順](entries/1327/1327810-tejun.org) | てじゅん | 1327810 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
