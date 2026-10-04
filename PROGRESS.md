@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **1050**.
+Completed **160/200** additional distinct words; branch total **1060**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1813,6 +1813,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1966,6 +1967,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 10.3.28 | [非難](entries/1483/1483410-hinan.org) | ひなん | 1483410 | new / draft |
 | JTest 10.4.5 | [復興](entries/1500/1500750-fukkou.org) | ふっこう | 1500750 | new / draft |
 | JTest 10.4.11 | [上回る](entries/1352/1352770-uwamawaru.org) | うわまわる | 1352770 | new / draft |
+| JTest 10.4.21 | [了承](entries/1606/1606280-ryoushou.org) | りょうしょう | 1606280 | new / draft |
+| JTest 10.4.22 | [個人情報](entries/1264/1264870-kojinjouhou.org) | こじんじょうほう | 1264870 | new / draft |
+| JTest 10.4.24 | [定着](entries/1435/1435730-teichaku.org) | ていちゃく | 1435730 | new / draft |
+| JTest 10.4.25 | [両立](entries/1554/1554110-ryouritsu.org) | りょうりつ | 1554110 | new / draft |
+| JTest 10.4.28 | [公](entries/1273/1273170-ooyake.org) | おおやけ | 1273170 | new / draft |
+| JTest 10.4.31 | [取材](entries/1327/1327020-shuzai.org) | しゅざい | 1327020 | new / draft |
+| JTest 10.4.32 | [報道](entries/1515/1515730-houdou.org) | ほうどう | 1515730 | new / draft |
+| JTest 10.4.33 | [中継](entries/1424/1424040-chuukei.org) | ちゅうけい | 1424040 | new / draft |
+| JTest 10.4.34 | [訂正](entries/1436/1436710-teisei.org) | ていせい | 1436710 | new / draft |
+| JTest 10.5.1 | [国旗](entries/1286/1286290-kokki.org) | こっき | 1286290 | new / draft |
 
 ## Maturity workflow
 
