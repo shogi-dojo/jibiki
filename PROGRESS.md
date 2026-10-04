@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **2510**.
+Completed **20/200** additional distinct words; branch total **2520**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3883,6 +3883,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3896,6 +3897,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1541 | [弓道](entries/1228/1228540-kyuudou.org) | きゅうどう | 1228540 | new / draft |
 | JLPTLord N2 1543 | [短歌](entries/1418/1418630-tanka.org) | たんか | 1418630 | new / draft |
 | JLPTLord N2 1546 | [戯曲](entries/1225/1225010-gikyoku.org) | ぎきょく | 1225010 | new / draft |
+| JLPTLord N2 1547 | [脚本](entries/1226/1226880-kyakuhon.org) | きゃくほん | 1226880 | new / draft |
+| JLPTLord N2 1549 | [作詞](entries/1297/1297680-sakushi.org) | さくし | 1297680 | new / draft |
+| JLPTLord N2 1551 | [合唱](entries/1284/1284870-gasshou.org) | がっしょう | 1284870 | new / draft |
+| JLPTLord N2 1553 | [交響曲](entries/1271/1271930-koukyoukyoku.org) | こうきょうきょく | 1271930 | new / draft |
+| JLPTLord N2 1554 | [楽譜](entries/1207/1207490-gakufu.org) | がくふ | 1207490 | new / draft |
+| JLPTLord N2 1555 | [旋律](entries/1391/1391730-senritsu.org) | せんりつ | 1391730 | new / draft |
+| JLPTLord N2 1556 | [拍子](entries/1583/1583030-hyoushi.org) | ひょうし | 1583030 | new / draft |
+| JLPTLord N2 1557 | [音色](entries/1576/1576910-neiro.org) | ねいろ | 1576910 | new / draft |
+| JLPTLord N2 1566 | [文化財](entries/1505/1505150-bunkazai.org) | ぶんかざい | 1505150 | new / draft |
+| JLPTLord N2 1567 | [遺産](entries/1159/1159260-isan.org) | いさん | 1159260 | new / draft |
 
 ## Maturity workflow
 
