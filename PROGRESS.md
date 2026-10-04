@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **2450**.
+Completed **160/200** additional distinct words; branch total **2460**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3627,6 +3627,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3780,6 +3781,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1430 | [還元](entries/1215/1215130-kangen.org) | かんげん | 1215130 | new / draft |
 | JLPTLord N2 1431 | [化合](entries/1186/1186980-kagou.org) | かごう | 1186980 | new / draft |
 | JLPTLord N2 1433 | [合成](entries/1284/1284940-gousei.org) | ごうせい | 1284940 | new / draft |
+| JLPTLord N2 1435 | [蒸留](entries/1356/1356970-jouryuu.org) | じょうりゅう | 1356970 | new / draft |
+| JLPTLord N2 1436 | [濾過](entries/1568/1568860-roka.org) | ろか | 1568860 | new / draft |
+| JLPTLord N2 1437 | [沈殿](entries/1431/1431790-chinden.org) | ちんでん | 1431790 | new / draft |
+| JLPTLord N2 1438 | [溶液](entries/1546/1546100-youeki.org) | ようえき | 1546100 | new / draft |
+| JLPTLord N2 1441 | [塩基性](entries/1790/1790500-enkisei.org) | えんきせい | 1790500 | new / draft |
+| JLPTLord N2 1442 | [触媒](entries/1358/1358060-shokubai.org) | しょくばい | 1358060 | new / draft |
+| JLPTLord N2 1443 | [電解](entries/1442/1442920-denkai.org) | でんかい | 1442920 | new / draft |
+| JLPTLord N2 1444 | [磁気](entries/1316/1316990-jiki.org) | じき | 1316990 | new / draft |
+| JLPTLord N2 1447 | [反射](entries/1480/1480420-hansha.org) | はんしゃ | 1480420 | new / draft |
+| JLPTLord N2 1448 | [屈折](entries/1246/1246620-kussetsu.org) | くっせつ | 1246620 | new / draft |
 
 ## Maturity workflow
 
