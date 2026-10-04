@@ -1,0 +1,569 @@
+#+TITLE: 呼び出す
+#+JMDICT_ID: 1266350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よびだす
+#+ROMAJI: yobidasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1266350-001
+:PROPERTIES:
+:TEXT: 呼び出す
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf24
+** Written form wf-1266350-002
+:PROPERTIES:
+:TEXT: 呼出す
+:END:
+** Written form wf-1266350-003
+:PROPERTIES:
+:TEXT: 呼びだす
+:END:
+*** Information
+- sK
+** Written form wf-1266350-004
+:PROPERTIES:
+:TEXT: 喚び出す
+:END:
+*** Information
+- sK
+** Reading rd-1266350-001
+:PROPERTIES:
+:TEXT: よびだす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf24
+
+* Sense s-1266350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 32634d7c6665cdb76c80efccc0e98377b3383bb74a2e89f72f2a0ed8b5d321a8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to call (someone) to (the door, phone, etc.)
+- to tell (someone) to come
+- to call up (on the phone)
+- to summon
+- to page
+- to invoke (e.g. a spirit)
+** Ukrainian glosses
+*** uk-s-1266350-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: викликати; покликати; запросити підійти
+** Learner notes
+*** note-s-1266350-001-001
+:PROPERTIES:
+:END:
+- UK :: =名前を呼び出す=, =部屋に呼び出す= — викликати людину до певного місця або засобом зв'язку. =呼びかける= звертається, а =呼び出す= спонукає прийти чи відповісти. Може мати владний відтінок виклику, залежно від стосунків.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1266350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生が私を呼び出した。
+- READING :: せんせいがわたしをよびだした。
+- UK :: Учитель викликав мене.
+- EN :: The teacher called me in.
+- FOCUS :: 呼び出した
+*** ex-1266350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 受付で担当者を呼び出してもらった。
+- READING :: うけつけでたんとうしゃをよびだしてもらった。
+- UK :: На рецепції я попросив викликати відповідального працівника.
+- EN :: I asked reception to call the person in charge.
+- FOCUS :: 呼び出して
+*** ex-1266350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 確認が必要な点が見つかり、責任者を会議室に呼び出した。
+- READING :: かくにんがひつようなてんがみつかり、せきにんしゃをかいぎしつによびだした。
+- UK :: Виявивши питання, яке треба уточнити, я викликав відповідального до зали засідань.
+- EN :: An issue needing clarification arose, so I summoned the person responsible to the meeting room.
+- FOCUS :: 呼び出した
+
+* Sense s-1266350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a236b3332ab72b087b722e8dc8416264494bcac2b382ac2143e068db09b8af1c
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Fields
+- comp
+** English glosses
+- to invoke (e.g. a subroutine)
+- to call
+- to open (e.g. a file)
+** Ukrainian glosses
+*** uk-s-1266350-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: викликати функцію; відкрити збережене
+** Learner notes
+*** note-s-1266350-002-001
+:PROPERTIES:
+:END:
+- UK :: Комп'ютерне =関数を呼び出す= — викликати функцію; =ファイルを呼び出す= — відкрити збережені дані. Не буквальне проголошення імені; об'єкт і технічний контекст визначають значення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1266350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 742338a990320748c14e1198f07de44154462d7f8cd0933094c3ca05f216a262
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oproepen
+*** en-s-1266350-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dagen
+*** en-s-1266350-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {voor het gerecht} ontbieden
+*** en-s-1266350-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dagvaarden
+*** en-s-1266350-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: citeren
+*** en-s-1266350-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {bij
+*** en-s-1266350-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tot zich} roepen
+** Ukrainian glosses
+
+* Sense s-1266350-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a5bea06e3728d2c0f0f792a20536f294b500322485d4301ffd9cffd7abba6aa0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitnodigen naar
+*** en-s-1266350-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inviteren
+*** en-s-1266350-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vragen
+** Ukrainian glosses
+
+* Sense s-1266350-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: eee239e6d300b39c1b15c46c486c21a73123b4cc16ee806c8bfc5c0a8a2f1e99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opbellen
+** Ukrainian glosses
+
+* Sense s-1266350-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4fe517ffe42383f1ed1da7c1709c966069cd76713eb3081e2a0b1c9f16df05ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: appeler quelqu'un
+*** en-s-1266350-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: convoquer
+*** en-s-1266350-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faire venir quelqu'un
+** Ukrainian glosses
+
+* Sense s-1266350-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c615a5b15dc20f9b01317e4978a9255dc3d30cd2345ecd7b45408f624344ecbf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. zu sich rufen
+*** en-s-1266350-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. rufen und kommen lassen
+*** en-s-1266350-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. ausrufen
+*** en-s-1266350-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. laden
+*** en-s-1266350-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. vorladen
+*** en-s-1266350-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. zitieren
+*** en-s-1266350-007-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. ans Telefon rufen
+** Ukrainian glosses
+
+* Sense s-1266350-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4086d6a85cc68f2417fbb1e0422357316420e4a0989ad9e80168057d6b904799
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. herausrufen
+** Ukrainian glosses
+
+* Sense s-1266350-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: bf312be0b06c07a5c910379024878e481dc4b6e3a083ab58e696a00bff726d1e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufrufen (eine Subroutine)
+*** en-s-1266350-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abrufen (Daten)
+** Ukrainian glosses
+
+* Sense s-1266350-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 940e90c7d0cec8ff855d012d564d068ea8cc33a23d8b76510f5ee8e84994a78e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beidéz
+*** en-s-1266350-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megidéz
+*** en-s-1266350-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benéz vkihez
+*** en-s-1266350-010-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhív
+*** en-s-1266350-010-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kikiált
+*** en-s-1266350-010-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: látogatást tesz
+*** en-s-1266350-010-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nevez
+*** en-s-1266350-010-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odahív
+*** en-s-1266350-010-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esdekel
+*** en-s-1266350-010-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felidéz
+*** en-s-1266350-010-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: segítségül hív
+** Ukrainian glosses
+
+* Sense s-1266350-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 0f73648f855db6f83fa47cad3fb88e4fec496e5a5fc299e88ab5a10d2bd1a7ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вызывать (кого-л.)
+** Ukrainian glosses
+
+* Sense s-1266350-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: d0bfaa2c1e181a1ce3ecfac4b7217c5b4d551929a73b180449c3763b5d998806
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: convocar
+*** en-s-1266350-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: llamar (e.g. teléfono)
+** Ukrainian glosses
+
+* Sense s-1266350-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 6bd642222229624fffec3c33fdcf5505faa918d5c84a938bce2de161e98afbd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266350-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: invocar
+** Ukrainian glosses
