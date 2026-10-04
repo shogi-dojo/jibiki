@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **2720**.
+Completed **30/200** additional distinct words; branch total **2730**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4155,6 +4155,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4178,6 +4179,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2125 | [和解](entries/1562/1562030-wakai.org) | わかい | 1562030 | new / draft |
 | JLPTLord N2 2129 | [共感](entries/1234/1234370-kyoukan.org) | きょうかん | 1234370 | new / draft |
 | JLPTLord N2 2130 | [同情](entries/1452/1452720-doujou.org) | どうじょう | 1452720 | new / draft |
+| JLPTLord N2 2133 | [親密](entries/1365/1365390-shinmitsu.org) | しんみつ | 1365390 | new / draft |
+| JLPTLord N2 2134 | [疎遠](entries/1396/1396680-soen.org) | そえん | 1396680 | new / draft |
+| JLPTLord N2 2139 | [心遣い](entries/1360/1360660-kokorozukai.org) | こころづかい | 1360660 | new / draft |
+| JLPTLord N2 2142 | [情熱](entries/1356/1356330-jounetsu.org) | じょうねつ | 1356330 | new / draft |
+| JLPTLord N2 2143 | [執着](entries/1594/1594740-shuuchaku.org) | しゅうちゃく | 1594740 | new / draft |
+| JLPTLord N2 2145 | [束縛](entries/1404/1404510-sokubaku.org) | そくばく | 1404510 | new / draft |
+| JLPTLord N2 2148 | [確執](entries/1205/1205820-kakushitsu.org) | かくしつ | 1205820 | new / draft |
+| JLPTLord N2 2149 | [亀裂](entries/1224/1224320-kiretsu.org) | きれつ | 1224320 | new / draft |
+| JLPTLord N2 2150 | [絆](entries/1570/1570420-kizuna.org) | きずな | 1570420 | new / draft |
+| JLPTLord N2 2155 | [交際](entries/1271/1271990-kousai.org) | こうさい | 1271990 | new / draft |
 
 ## Maturity workflow
 
