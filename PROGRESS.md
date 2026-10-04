@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **1090**.
+Completed **200/200** additional distinct words; branch total **1100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1817,6 +1817,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2010,6 +2011,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 11.2.18 | [気分転換](entries/1222/1222610-kibuntenkan.org) | きぶんてんかん | 1222610 | new / draft |
 | JTest 11.3.4 | [心細い](entries/1360/1360680-kokorobosoi.org) | こころぼそい | 1360680 | new / draft |
 | JTest 11.3.5 | [弱気](entries/1324/1324710-yowaki.org) | よわき | 1324710 | new / draft |
+| JTest 11.3.6 | [落ち込む](entries/1548/1548570-ochikomu.org) | おちこむ | 1548570 | new / draft |
+| JTest 11.3.8 | [絶望](entries/1386/1386960-zetsubou.org) | ぜつぼう | 1386960 | new / draft |
+| JTest 11.3.9 | [傷つく](entries/1591/1591240-kizutsuku.org) | きずつく | 1591240 | new / draft |
+| JTest 11.3.12 | [戸惑う](entries/1267/1267100-tomadou.org) | とまどう | 1267100 | new / draft |
+| JTest 11.3.16 | [仕方ない](entries/1305/1305440-shikatanai.org) | しかたない | 1305440 | new / draft |
+| JTest 11.3.19 | [情けない](entries/1599/1599480-nasakenai.org) | なさけない | 1599480 | new / draft |
+| JTest 11.3.20 | [恥](entries/1421/1421590-haji.org) | はじ | 1421590 | new / draft |
+| JTest 11.3.22 | [構わない](entries/1866/1866610-kamawanai.org) | かまわない | 1866610 | new / draft |
+| JTest 11.4.10 | [洗練](entries/1391/1391090-senren.org) | せんれん | 1391090 | new / draft |
+| JTest 11.4.14 | [断然](entries/1419/1419690-danzen.org) | だんぜん | 1419690 | new / draft |
 
 ## Maturity workflow
 
