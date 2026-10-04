@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **2020**.
+Completed **130/200** additional distinct words; branch total **2030**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3095,6 +3095,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3218,6 +3219,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 547 | [財源](entries/1296/1296810-zaigen.org) | ざいげん | 1296810 | new / draft |
 | JLPTLord N2 549 | [資産](entries/1312/1312750-shisan.org) | しさん | 1312750 | new / draft |
 | JLPTLord N2 551 | [株式](entries/1208/1208970-kabushiki.org) | かぶしき | 1208970 | new / draft |
+| JLPTLord N2 552 | [株価](entries/1208/1208950-kabuka.org) | かぶか | 1208950 | new / draft |
+| JLPTLord N2 554 | [金利](entries/1243/1243330-kinri.org) | きんり | 1243330 | new / draft |
+| JLPTLord N2 557 | [不況](entries/1491/1491950-fukyou.org) | ふきょう | 1491950 | new / draft |
+| JLPTLord N2 560 | [黒字](entries/1287/1287710-kuroji.org) | くろじ | 1287710 | new / draft |
+| JLPTLord N2 561 | [債務](entries/1292/1292110-saimu.org) | さいむ | 1292110 | new / draft |
+| JLPTLord N2 562 | [債権](entries/1292/1292080-saiken.org) | さいけん | 1292080 | new / draft |
+| JLPTLord N2 563 | [融資](entries/1542/1542600-yuushi.org) | ゆうし | 1542600 | new / draft |
+| JLPTLord N2 565 | [損失](entries/1406/1406750-sonshitsu.org) | そんしつ | 1406750 | new / draft |
+| JLPTLord N2 567 | [賠償](entries/1474/1474110-baishou.org) | ばいしょう | 1474110 | new / draft |
+| JLPTLord N2 569 | [法人](entries/1517/1517310-houjin.org) | ほうじん | 1517310 | new / draft |
 
 ## Maturity workflow
 
