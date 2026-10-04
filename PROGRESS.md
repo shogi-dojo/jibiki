@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **2630**.
+Completed **140/200** additional distinct words; branch total **2640**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3895,6 +3895,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4028,6 +4029,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1719 | [読経](entries/1456/1456390-dokyou.org) | どきょう | 1456390 | new / draft |
 | JLPTLord N2 1720 | [写経](entries/1646/1646390-shakyou.org) | しゃきょう | 1646390 | new / draft |
 | JLPTLord N2 1721 | [托鉢](entries/1415/1415800-takuhatsu.org) | たくはつ | 1415800 | new / draft |
+| JLPTLord N2 1722 | [精進料理](entries/1751/1751330-shoujinryouri.org) | しょうじんりょうり | 1751330 | new / draft |
+| JLPTLord N2 1723 | [神楽](entries/1364/1364480-kagura.org) | かぐら | 1364480 | new / draft |
+| JLPTLord N2 1725 | [灯籠](entries/2103/2103940-tourou.org) | とうろう | 2103940 | new / draft |
+| JLPTLord N2 1726 | [線香](entries/1391/1391840-senkou.org) | せんこう | 1391840 | new / draft |
+| JLPTLord N2 1727 | [数珠](entries/1373/1373080-juzu.org) | じゅず | 1373080 | new / draft |
+| JLPTLord N2 1728 | [木魚](entries/1807/1807430-mokugyo.org) | もくぎょ | 1807430 | new / draft |
+| JLPTLord N2 1729 | [梵鐘](entries/1568/1568190-bonshou.org) | ぼんしょう | 1568190 | new / draft |
+| JLPTLord N2 1730 | [念仏](entries/1469/1469470-nenbutsu.org) | ねんぶつ | 1469470 | new / draft |
+| JLPTLord N2 1731 | [法要](entries/1627/1627580-houyou.org) | ほうよう | 1627580 | new / draft |
+| JLPTLord N2 1732 | [戒名](entries/1200/1200690-kaimyou.org) | かいみょう | 1200690 | new / draft |
 
 ## Maturity workflow
 
