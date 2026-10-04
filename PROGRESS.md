@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **1550**.
+Completed **60/200** additional distinct words; branch total **1560**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2570,6 +2570,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2623,6 +2624,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1211 | [前兆](entries/1596/1596330-zenchou.org) | ぜんちょう | 1596330 | new / draft |
 | TodayJLPT N2 1214 | [先導](entries/1388/1388280-sendou.org) | せんどう | 1388280 | new / draft |
 | TodayJLPT N2 1216 | [前年](entries/1393/1393840-zennen.org) | ぜんねん | 1393840 | new / draft |
+| TodayJLPT N2 1219 | [専務](entries/1389/1389870-senmu.org) | せんむ | 1389870 | new / draft |
+| TodayJLPT N2 1221 | [戦略](entries/1390/1390600-senryaku.org) | せんりゃく | 1390600 | new / draft |
+| TodayJLPT N2 1229 | [総計](entries/1401/1401540-soukei.org) | そうけい | 1401540 | new / draft |
+| TodayJLPT N2 1235 | [蔵書](entries/1403/1403510-zousho.org) | ぞうしょ | 1403510 | new / draft |
+| TodayJLPT N2 1236 | [総数](entries/1401/1401660-sousuu.org) | そうすう | 1401660 | new / draft |
+| TodayJLPT N2 1237 | [増税](entries/1403/1403280-zouzei.org) | ぞうぜい | 1403280 | new / draft |
+| TodayJLPT N2 1238 | [増設](entries/1403/1403290-zousetsu.org) | ぞうせつ | 1403290 | new / draft |
+| TodayJLPT N2 1244 | [挿入](entries/1399/1399840-sounyuu.org) | そうにゅう | 1399840 | new / draft |
+| TodayJLPT N2 1246 | [双方](entries/1398/1398940-souhou.org) | そうほう | 1398940 | new / draft |
+| TodayJLPT N2 1247 | [総理](entries/1401/1401810-souri.org) | そうり | 1401810 | new / draft |
 
 ## Maturity workflow
 
