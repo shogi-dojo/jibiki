@@ -1222,6 +1222,34 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1606 | [領事](entries/1554/1554730-ryouji.org) | りょうじ | 1554730 | new / draft |
 | N2-1607 | [留守番](entries/1552/1552800-rusuban.org) | るすばん | 1552800 | new / draft |
 
+## Further 100-word N2 continuation (2026-10-04)
+
+Baseline: `9a46c7b4`, with **500** new translated words on this branch.
+Completed **10/100** further distinct words; branch total **510**.
+Words are committed individually in batches of ten under Ihor’s Git identity;
+original content is attributed to `codex`. Every English sense is translated
+with Ukrainian usage notes, and each primary sense has three graded examples.
+Completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. All remain learner drafts awaiting editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+| Batch | Candidates | New entries |
+| --- | --- | ---: |
+| 1 | 1608–1618 | 10 |
+
+| Candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-1608 | [例外](entries/1556/1556410-reigai.org) | れいがい | 1556410 | new / draft |
+| N2-1609 | [零点](entries/1557/1557710-reiten.org) | れいてん | 1557710 | new / draft |
+| N2-1610 | [レインコート](entries/1144/1144700-reinkooto.org) | レインコート | 1144700 | new / draft |
+| N2-1611 | [レクリエーション](entries/1144/1144860-rekurieeshon.org) | レクリエーション | 1144860 | new / draft |
+| N2-1612 | [レジャー](entries/1145/1145220-rejaa.org) | レジャー | 1145220 | new / draft |
+| N2-1613 | [列島](entries/1558/1558390-rettou.org) | れっとう | 1558390 | new / draft |
+| N2-1615 | [煉瓦](entries/1559/1559090-renga.org) | れんが | 1559090 | new / draft |
+| N2-1616 | [レンズ](entries/1146/1146140-renzu.org) | レンズ | 1146140 | new / draft |
+| N2-1617 | [蝋燭](entries/1561/1561240-rousoku.org) | ろうそく | 1561240 | new / draft |
+| N2-1618 | [録音](entries/1561/1561590-rokuon.org) | ろくおん | 1561590 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
