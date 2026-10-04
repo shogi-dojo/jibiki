@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **60/100** additional distinct entries; branch total **460**.
+Completed **70/100** additional distinct entries; branch total **470**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1107,6 +1107,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 4 | N2-1536–1546 | 10 |
 | 5 | N2-1547–1556 | 10 |
 | 6 | N2-1557–1566 | 10 |
+| 7 | N2-1567–1576 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1170,6 +1171,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1564 | [用語](entries/1546/1546270-yougo.org) | ようご | 1546270 | new / draft |
 | N2-1565 | [要旨](entries/1546/1546770-youshi.org) | ようし | 1546770 | new / draft |
 | N2-1566 | [幼児](entries/1545/1545160-youji.org) | ようじ | 1545160 | new / draft |
+| N2-1567 | [容積](entries/1545/1545420-youseki.org) | ようせき | 1545420 | new / draft |
+| N2-1568 | [幼稚](entries/1545/1545250-youchi.org) | ようち | 1545250 | new / draft |
+| N2-1569 | [幼稚園](entries/1545/1545260-youchien.org) | ようちえん | 1545260 | new / draft |
+| N2-1570 | [用途](entries/1546/1546380-youto.org) | ようと | 1546380 | new / draft |
+| N2-1571 | [洋品店](entries/1794/1794470-youhinten.org) | ようひんてん | 1794470 | new / draft |
+| N2-1572 | [養分](entries/1662/1662130-youbun.org) | ようぶん | 1662130 | new / draft |
+| N2-1573 | [羊毛](entries/1546/1546530-youmou.org) | ようもう | 1546530 | new / draft |
+| N2-1574 | [漸く](entries/1394/1394600-youyaku.org) | ようやく | 1394600 | new / draft |
+| N2-1575 | [要領](entries/1546/1546850-youryou.org) | ようりょう | 1546850 | new / draft |
+| N2-1576 | [欲張り](entries/1547/1547390-yokubari.org) | よくばり | 1547390 | new / draft |
 
 ## Maturity workflow
 
