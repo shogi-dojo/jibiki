@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **950**.
+Completed **60/200** additional distinct words; branch total **960**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1803,6 +1803,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1856,6 +1857,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 7.4.27 | [読書家](entries/1688/1688400-dokushoka.org) | どくしょか | 1688400 | new / draft |
 | JTest 7.5.1 | [習い事](entries/1642/1642710-naraigoto.org) | ならいごと | 1642710 | new / draft |
 | JTest 7.5.4 | [凝る](entries/1239/1239070-koru.org) | こる | 1239070 | new / draft |
+| JTest 7.5.9 | [初心者](entries/1342/1342860-shoshinsha.org) | しょしんしゃ | 1342860 | new / draft |
+| JTest 7.5.17 | [占い](entries/1389/1389410-uranai.org) | うらない | 1389410 | new / draft |
+| JTest 7.5.18 | [手話](entries/1328/1328440-shuwa.org) | しゅわ | 1328440 | new / draft |
+| JTest 7.5.23 | [宝くじ](entries/1516/1516170-takarakuji.org) | たからくじ | 1516170 | new / draft |
+| JTest 7.5.27 | [組み合わせる](entries/1397/1397480-kumiawaseru.org) | くみあわせる | 1397480 | new / draft |
+| JTest 7.5.28 | [身近](entries/1365/1365650-mijika.org) | みぢか | 1365650 | new / draft |
+| JTest 8.1.6 | [初夏](entries/1342/1342580-shoka.org) | しょか | 1342580 | new / draft |
+| JTest 8.1.17 | [冷え込む](entries/1556/1556640-hiekomu.org) | ひえこむ | 1556640 | new / draft |
+| JTest 8.1.19 | [日和](entries/1464/1464950-hiyori.org) | ひより | 1464950 | new / draft |
+| JTest 8.2.5 | [降水量](entries/1282/1282900-kousuiryou.org) | こうすいりょう | 1282900 | new / draft |
 
 ## Maturity workflow
 
