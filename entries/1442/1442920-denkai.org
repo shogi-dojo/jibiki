@@ -1,0 +1,213 @@
+#+TITLE: 電解
+#+JMDICT_ID: 1442920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんかい
+#+ROMAJI: denkai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1442920-001
+:PROPERTIES:
+:TEXT: 電解
+:END:
+** Reading rd-1442920-001
+:PROPERTIES:
+:TEXT: でんかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1442920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 872b79c3e4808c6f2c15a76717a13acb7770a330a30e3bcef4823e77ffc5e7c3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- chem
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 電気分解
+** English glosses
+- electrolysis
+** Ukrainian glosses
+*** uk-s-1442920-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: електроліз
+** Learner notes
+*** note-s-1442920-001-001
+:PROPERTIES:
+:END:
+- UK :: 電解 — скорочена технічна назва 電気分解, тобто хімічного процесу під дією електричного струму; типові 電解する та 電解液. Не плутайте з 放電: електричний розряд сам по собі не означає розкладання речовини.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1442920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水を電解した。
+- READING :: みずをでんかいした。
+- UK :: Воду піддали електролізу.
+- EN :: We electrolyzed water.
+- FOCUS :: 電解
+*** ex-1442920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電解に使う装置を準備した。
+- READING :: でんかいにつかうそうちをじゅんびした。
+- UK :: Підготували обладнання для електролізу.
+- EN :: We prepared the equipment for electrolysis.
+- FOCUS :: 電解
+*** ex-1442920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電解によって電極の周りに生じる変化を観察した。
+- READING :: でんかいによってでんきょくのまわりにしょうじるへんかをかんさつした。
+- UK :: Спостерігали зміни навколо електродів, спричинені електролізом.
+- EN :: We observed the changes around the electrodes caused by electrolysis.
+- FOCUS :: 電解
+
+* Sense s-1442920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2aa4cc034e2b4b508ca04f9c0a917e142d4325a556ccafbcf3074e7c5efe9fa0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442920-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolyseren
+*** en-s-1442920-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolyse
+** Ukrainian glosses
+
+* Sense s-1442920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bf95afd0d27920afa785e3c9922df3e7196488945f08967f5a1db5cb487d2861
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442920-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolysieren
+*** en-s-1442920-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Elektrolyse ausführen an …
+*** en-s-1442920-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Elektrolyse
+** Ukrainian glosses
+
+* Sense s-1442920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2388f136e3e6ed8eb3b5ded0e70a4a92aa810b312658599a0723a131f53346d4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442920-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolitikus
+*** en-s-1442920-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolitos
+*** en-s-1442920-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrolízis
+** Ukrainian glosses
+
+* Sense s-1442920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ae67ef7144a2f78b3c9bc062c24d9bc20b5e0eee3ec5da1aa1af36baf2a18206
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442920-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр.) 電気分解) электролиз
+*** en-s-1442920-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} подвергать[ся] электролизу
+** Ukrainian glosses
