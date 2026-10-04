@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **1280**.
+Completed **190/200** additional distinct words; branch total **1290**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2069,6 +2069,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2252,6 +2253,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 113 | [色気](entries/1357/1357670-iroke.org) | いろけ | 1357670 | new / draft |
 | TodayJLPT N2 123 | [雨季](entries/1588/1588010-uki.org) | うき | 1588010 | new / draft |
 | TodayJLPT N2 131 | [打ち合わせる](entries/1588/1588150-uchiawaseru.org) | うちあわせる | 1588150 | new / draft |
+| TodayJLPT N2 139 | [羽毛](entries/1171/1171810-umou.org) | うもう | 1171810 | new / draft |
+| TodayJLPT N2 141 | [裏表](entries/1550/1550560-uraomote.org) | うらおもて | 1550560 | new / draft |
+| TodayJLPT N2 143 | [裏側](entries/1550/1550410-uragawa.org) | うらがわ | 1550410 | new / draft |
+| TodayJLPT N2 147 | [裏道](entries/1550/1550530-uramichi.org) | うらみち | 1550530 | new / draft |
+| TodayJLPT N2 150 | [売り](entries/1854/1854880-uri.org) | うり | 1854880 | new / draft |
+| TodayJLPT N2 159 | [運航](entries/1172/1172740-unkou.org) | うんこう | 1172740 | new / draft |
+| TodayJLPT N2 160 | [運行](entries/1172/1172750-unkou.org) | うんこう | 1172750 | new / draft |
+| TodayJLPT N2 163 | [永住](entries/1174/1174160-eijuu.org) | えいじゅう | 1174160 | new / draft |
+| TodayJLPT N2 165 | [英訳](entries/1174/1174670-eiyaku.org) | えいやく | 1174670 | new / draft |
+| TodayJLPT N2 166 | [鋭利](entries/1174/1174960-eiri.org) | えいり | 1174960 | new / draft |
 
 ## Maturity workflow
 
