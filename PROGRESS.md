@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 6363 |
+| Canonical entry files | 6563 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 3391 |
+| Canonical N2 entries | 3591 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 6326 |
+| `new` | 6526 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 6353 |
+| Entry metadata still marked `draft` | 6553 |
 | Core profile | 163 |
-| Learner profile | 6199 |
+| Learner profile | 6399 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -3835,6 +3835,36 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1522 | [神道](entries/1364/1364790-shintou.org) | しんとう | 1364790 | new / draft |
 | JLPTLord N2 1523 | [祈り](entries/1222/1222760-inori.org) | いのり | 1222760 | new / draft |
 | JLPTLord N2 1524 | [信者](entries/1359/1359340-shinja.org) | しんじゃ | 1359340 | new / draft |
+
+### Final 2500-word audit
+
+The branch contains **2500 new translated entries** relative to `origin/main`.
+At baseline `6e08ae44`, the worktree still contained the completed 2300-word
+milestone; no further words had been added by another agent. This continuation
+added **200 distinct N2 study-list candidates in 20 batches of ten**, with
+**200 individual word commits**, **259 English senses with original Ukrainian
+glosses and nuance notes**, and **600 graded Japanese/kana/Ukrainian/English
+examples**.
+
+All 200 candidates come from unused JLPTLord rows reconciled against pinned
+JMdict and existing entry IDs. The source manifest now records 732 candidates
+across the relevant continuations. N2 is the study site's classification,
+not an official JLPT vocabulary syllabus. Source definitions and examples
+were not copied.
+
+JMdict validation and Org lint passed for all 200 additions. Doctor reported
+**100/100**, **zero errors**, and **zero warnings**. The full suite passed
+**137 tests and 20243 assertions**, with zero failures, errors, or skips.
+The audit verified the exact branch total, unique IDs, source sense inventories
+and fingerprints, Ukrainian coverage of every English sense, three complete
+primary-sense examples per word, source-manifest matches, and one entry per
+addition commit. A subsequent validated editorial commit clarified the sprain
+gloss for 捻挫 and the spelling restriction on the metallurgy sense of 溶剤;
+these corrections add no words.
+
+Earlier tracked entries remain unchanged. The original untracked 罪 draft and
+candidate-finder script retain their original contents. New entries remain
+learner entries marked `new` / `draft`, pending editorial review.
 
 ## Maturity workflow
 

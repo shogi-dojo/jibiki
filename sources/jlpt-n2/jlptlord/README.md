@@ -1,6 +1,6 @@
 # Supplemental N2 candidate evidence
 
-The [JLPTLord N2 vocabulary list](https://www.jlptlord.com/jlpt-n2/vocabulary) supplies 532 selected candidates across the continuations from 1,700 to 1,900 (132 candidates), from 1,900 to 2,100 (200 candidates), and from 2,100 to 2,300 (200 further candidates) branch additions.
+The [JLPTLord N2 vocabulary list](https://www.jlptlord.com/jlpt-n2/vocabulary) supplies 732 selected candidates across the continuations from 1,700 to 1,900 (132 candidates), from 1,900 to 2,100 (200 candidates), from 2,100 to 2,300 (200 candidates), and from 2,300 to 2,500 (200 further candidates) branch additions.
 Retrieved 2026-10-04. The public page labels 3,101 records as N2; these are this study site's classifications, not an official JLPT syllabus. Study lists differ in coverage and level assignments.
 
 Written forms and readings were reconciled against the pinned JMdict snapshot. Malformed rows, ambiguous matches, existing JMdict IDs, and candidates reserved from TodayJLPT were excluded. `selected.tsv` records the original one-based page position, lexical labels, reading, source URL, and reconciled ID.
