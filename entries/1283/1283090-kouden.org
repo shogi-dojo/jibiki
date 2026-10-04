@@ -1,0 +1,169 @@
+#+TITLE: 香典
+#+JMDICT_ID: 1283090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうでん
+#+ROMAJI: kouden
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1283090-001
+:PROPERTIES:
+:TEXT: 香典
+:END:
+*** Priorities
+- news2
+- nf27
+** Written form wf-1283090-002
+:PROPERTIES:
+:TEXT: 香奠
+:END:
+*** Information
+- rK
+** Reading rd-1283090-001
+:PROPERTIES:
+:TEXT: こうでん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1283090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9691f61c3a9280af7910afe004edebc0065eceb071f507e1e6a087c68349fc48
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- gift brought to a funeral (usu. money)
+- funeral offering
+- condolence gift
+*** en-s-1283090-001-004
+:PROPERTIES:
+:LANG: eng
+:TYPE: lit
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: incense money
+** Ukrainian glosses
+*** uk-s-1283090-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похоронна пожертва; гроші або дар на знак співчуття
+** Learner notes
+*** note-s-1283090-001-001
+:PROPERTIES:
+:END:
+- UK :: 香典 — дар, зазвичай гроші, які приносять на похорон як знак співчуття; типові 香典を包む та 香典を渡す. Це не звичайний подарунок お祝い: назва має поминальний контекст, а конкретний звичай залежить від родини й місцевості.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1283090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 香典を渡した。
+- READING :: こうでんをわたした。
+- UK :: Передали похоронну пожертву.
+- EN :: We handed over a condolence offering.
+- FOCUS :: 香典
+*** ex-1283090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 香典を入れる袋を用意した。
+- READING :: こうでんをいれるふくろをよういした。
+- UK :: Підготували конверт для похоронної пожертви.
+- EN :: We prepared an envelope for the condolence money.
+- FOCUS :: 香典
+*** ex-1283090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 物語の中で、主人公は香典を届けるために故郷へ戻った。
+- READING :: ものがたりのなかで、しゅじんこうはこうでんをとどけるためにこきょうへもどった。
+- UK :: В оповіді герой повернувся додому, щоб передати похоронну пожертву.
+- EN :: In the story, the protagonist returned home to deliver a condolence offering.
+- FOCUS :: 香典
+
+* Sense s-1283090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a087c3e9d7d0b5fa86f354e4da5f99c55a12087ecc9b607f4c01407a980bebff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283090-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geldoffer voor een overledene
+** Ukrainian glosses
+
+* Sense s-1283090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b3959e165b493cfa64470973608f52c4f30bf568b958e481cb8b0be56efb22e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283090-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Trauergabe
+*** en-s-1283090-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beileidsgeschenk (i. Allg. ein größerer Geldbetrag)
+** Ukrainian glosses
+
+* Sense s-1283090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4ec4701d680fe8286fe11bf5415d95d9e34488f59db6c967701932f2f5815961
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283090-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: приношение семье покойного (в знак уважения к его памяти)
+** Ukrainian glosses
