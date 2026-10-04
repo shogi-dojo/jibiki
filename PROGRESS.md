@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **70/100** additional distinct words; branch total **770**.
+Completed **80/100** additional distinct words; branch total **780**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1525,6 +1525,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1598,6 +1599,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 3.5.2 | [不用品](entries/1495/1495190-fuyouhin.org) | ふようひん | 1495190 | new / draft |
 | JTest 3.5.6 | [段ボール](entries/1419/1419930-danbooru.org) | だんボール | 1419930 | new / draft |
 | JTest 3.5.8 | [押し込む](entries/1180/1180260-oshikomu.org) | おしこむ | 1180260 | new / draft |
+| JTest 3.5.19 | [居心地](entries/1630/1630070-igokochi.org) | いごこち | 1630070 | new / draft |
+| JTest 3.5.20 | [一変](entries/1166/1166420-ippen.org) | いっぺん | 1166420 | new / draft |
+| JTest 1.1.5 | [養う](entries/1547/1547090-yashinau.org) | やしなう | 1547090 | new / draft |
+| JTest 1.1.23 | [継ぐ](entries/1251/1251750-tsugu.org) | つぐ | 1251750 | new / draft |
+| JTest 1.3.23 | [込める](entries/1288/1288790-komeru.org) | こめる | 1288790 | new / draft |
+| JTest 2.2.5 | [赤字](entries/1383/1383440-akaji.org) | あかじ | 1383440 | new / draft |
+| JTest 2.2.19 | [差し引く](entries/1291/1291100-sashihiku.org) | さしひく | 1291100 | new / draft |
+| JTest 2.3.6 | [一口](entries/1162/1162370-hitokuchi.org) | ひとくち | 1162370 | new / draft |
+| JTest 2.3.11 | [渋い](entries/1335/1335540-shibui.org) | しぶい | 1335540 | new / draft |
+| JTest 3.1.20 | [整える](entries/1376/1376140-totonoeru.org) | ととのえる | 1376140 | new / draft |
 
 ## Maturity workflow
 
