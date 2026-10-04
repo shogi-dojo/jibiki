@@ -2292,6 +2292,37 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 233 | [落ち](entries/1548/1548530-ochi.org) | おち | 1548530 | new / draft |
 | TodayJLPT N2 259 | [重荷](entries/1579/1579940-omoni.org) | おもに | 1579940 | new / draft |
 
+## Final 1500-word branch N2 continuation (2026-10-04)
+
+Baseline: `ae93afdd`, with **1300** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **1310**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 264 | [音階](entries/1183/1183710-onkai.org) | おんかい | 1183710 | new / draft |
+| TodayJLPT N2 266 | [温厚](entries/1183/1183380-onkou.org) | おんこう | 1183380 | new / draft |
+| TodayJLPT N2 272 | [音符](entries/1184/1184040-onpu.org) | おんぷ | 1184040 | new / draft |
+| TodayJLPT N2 276 | [海域](entries/1201/1201210-kaiiki.org) | かいいき | 1201210 | new / draft |
+| TodayJLPT N2 277 | [開花](entries/1202/1202550-kaika.org) | かいか | 1202550 | new / draft |
+| TodayJLPT N2 279 | [快活](entries/1200/1200000-kaikatsu.org) | かいかつ | 1200000 | new / draft |
+| TodayJLPT N2 281 | [快感](entries/1200/1200010-kaikan.org) | かいかん | 1200010 | new / draft |
+| TodayJLPT N2 282 | [外気](entries/1203/1203470-gaiki.org) | がいき | 1203470 | new / draft |
+| TodayJLPT N2 283 | [海軍](entries/1201/1201330-kaigun.org) | かいぐん | 1201330 | new / draft |
+| TodayJLPT N2 284 | [解雇](entries/1198/1198980-kaiko.org) | かいこ | 1198980 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
