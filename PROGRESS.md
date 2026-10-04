@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **2440**.
+Completed **150/200** additional distinct words; branch total **2450**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3626,6 +3626,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3769,6 +3770,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1418 | [繁殖](entries/1481/1481700-hanshoku.org) | はんしょく | 1481700 | new / draft |
 | JLPTLord N2 1419 | [交配](entries/1272/1272490-kouhai.org) | こうはい | 1272490 | new / draft |
 | JLPTLord N2 1420 | [品種](entries/1490/1490620-hinshu.org) | ひんしゅ | 1490620 | new / draft |
+| JLPTLord N2 1423 | [凝縮](entries/1239/1239190-gyoushuku.org) | ぎょうしゅく | 1239190 | new / draft |
+| JLPTLord N2 1424 | [融解](entries/1542/1542580-yuukai.org) | ゆうかい | 1542580 | new / draft |
+| JLPTLord N2 1425 | [凍結](entries/1446/1446300-touketsu.org) | とうけつ | 1446300 | new / draft |
+| JLPTLord N2 1426 | [沸騰](entries/1501/1501720-futtou.org) | ふっとう | 1501720 | new / draft |
+| JLPTLord N2 1427 | [腐敗](entries/1497/1497870-fuhai.org) | ふはい | 1497870 | new / draft |
+| JLPTLord N2 1428 | [腐食](entries/1497/1497840-fushoku.org) | ふしょく | 1497840 | new / draft |
+| JLPTLord N2 1429 | [酸化](entries/1304/1304290-sanka.org) | さんか | 1304290 | new / draft |
+| JLPTLord N2 1430 | [還元](entries/1215/1215130-kangen.org) | かんげん | 1215130 | new / draft |
+| JLPTLord N2 1431 | [化合](entries/1186/1186980-kagou.org) | かごう | 1186980 | new / draft |
+| JLPTLord N2 1433 | [合成](entries/1284/1284940-gousei.org) | ごうせい | 1284940 | new / draft |
 
 ## Maturity workflow
 
