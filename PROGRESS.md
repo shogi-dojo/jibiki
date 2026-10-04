@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch N2 continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **2930**.
+Completed **40/200** additional distinct words; branch total **2940**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4424,6 +4424,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4457,6 +4458,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2699 | [通り](entries/1432/1432930-doori.org) | どおり | 1432930 | new / draft |
 | JLPTLord N2 2712 | [故に](entries/1267/1267130-yueni.org) | ゆえに | 1267130 | new / draft |
 | JLPTLord N2 2735 | [上は](entries/2181/2181810-ueha.org) | うえは | 2181810 | new / draft |
+| JLPTLord N2 2739 | [に限って](entries/2153/2153930-nikagitte.org) | にかぎって | 2153930 | new / draft |
+| JLPTLord N2 2740 | [に限らず](entries/2206/2206770-nikagirazu.org) | にかぎらず | 2206770 | new / draft |
+| JLPTLord N2 2743 | [に関して](entries/1009/1009740-nikanshite.org) | にかんして | 1009740 | new / draft |
+| JLPTLord N2 2744 | [に対して](entries/1009/1009800-nitaishite.org) | にたいして | 1009800 | new / draft |
+| JLPTLord N2 2747 | [に基づいて](entries/1009/1009760-nimotozuite.org) | にもとづいて | 1009760 | new / draft |
+| JLPTLord N2 2748 | [に伴って](entries/2838/2838285-nitomonatte.org) | にともなって | 2838285 | new / draft |
+| JLPTLord N2 2749 | [に応じて](entries/1009/1009700-nioujite.org) | におうじて | 1009700 | new / draft |
+| JLPTLord N2 2764 | [告訴](entries/1286/1286030-kokuso.org) | こくそ | 1286030 | new / draft |
+| JLPTLord N2 2769 | [検事](entries/1257/1257930-kenji.org) | けんじ | 1257930 | new / draft |
+| JLPTLord N2 2770 | [裁判官](entries/1296/1296130-saibankan.org) | さいばんかん | 1296130 | new / draft |
 
 ## Maturity workflow
 
