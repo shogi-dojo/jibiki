@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **1400**.
+Completed **110/200** additional distinct words; branch total **1410**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2318,6 +2318,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2421,6 +2422,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 605 | [激突](entries/1253/1253730-gekitotsu.org) | げきとつ | 1253730 | new / draft |
 | TodayJLPT N2 613 | [月額](entries/1255/1255520-getsugaku.org) | げつがく | 1255520 | new / draft |
 | TodayJLPT N2 616 | [月食](entries/1255/1255730-gesshoku.org) | げっしょく | 1255730 | new / draft |
+| TodayJLPT N2 624 | [献血](entries/1258/1258430-kenketsu.org) | けんけつ | 1258430 | new / draft |
+| TodayJLPT N2 626 | [建材](entries/1257/1257400-kenzai.org) | けんざい | 1257400 | new / draft |
+| TodayJLPT N2 631 | [減税](entries/1263/1263260-genzei.org) | げんぜい | 1263260 | new / draft |
+| TodayJLPT N2 632 | [建造](entries/1257/1257480-kenzou.org) | けんぞう | 1257480 | new / draft |
+| TodayJLPT N2 633 | [減速](entries/1263/1263270-gensoku.org) | げんそく | 1263270 | new / draft |
+| TodayJLPT N2 635 | [減退](entries/1263/1263280-gentai.org) | げんたい | 1263280 | new / draft |
+| TodayJLPT N2 637 | [減点](entries/1263/1263290-genten.org) | げんてん | 1263290 | new / draft |
+| TodayJLPT N2 641 | [見聞](entries/1260/1260030-kenbun.org) | けんぶん | 1260030 | new / draft |
+| TodayJLPT N2 647 | [恋心](entries/1585/1585260-koigokoro.org) | こいごころ | 1585260 | new / draft |
+| TodayJLPT N2 649 | [恋文](entries/1559/1559040-koibumi.org) | こいぶみ | 1559040 | new / draft |
 
 ## Maturity workflow
 
