@@ -1,0 +1,316 @@
+#+TITLE: 投薬
+#+JMDICT_ID: 1447370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうやく
+#+ROMAJI: touyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1447370-001
+:PROPERTIES:
+:TEXT: 投薬
+:END:
+*** Priorities
+- news1
+- nf22
+** Reading rd-1447370-001
+:PROPERTIES:
+:TEXT: とうやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf22
+
+* Sense s-1447370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bb141a457173a8b882e203cc5284feed53a4bff4bdb8dbebfa98675c99bbf2b4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- administration
+- medication
+- dosage
+** Ukrainian glosses
+*** uk-s-1447370-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: введення ліків; призначене застосування медикаментів
+** Learner notes
+*** note-s-1447370-001-001
+:PROPERTIES:
+:END:
+- UK :: 投薬 описує застосування або надання ліків у лікуванні: 投薬を行う, 投薬の記録. Не означає буквально кидати препарат, попри ієрогліф 投. 処方 акцентує призначення, а 投薬 — застосування ліків; дозу й спосіб називає окрема інформація, не саме слово.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1447370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 投薬の記録を確認した。
+- READING :: とうやくのきろくをかくにんした。
+- UK :: Ми перевірили записи введення ліків.
+- EN :: We checked the medication records.
+- FOCUS :: 投薬
+*** ex-1447370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師は投薬について説明した。
+- READING :: いしはとうやくについてせつめいした。
+- UK :: Лікар пояснив застосування ліків.
+- EN :: The doctor explained the medication.
+- FOCUS :: 投薬
+*** ex-1447370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 報告書には、検査と投薬の経過が別々に記されていた。
+- READING :: ほうこくしょには、けんさととうやくのけいかがべつべつにしるされていた。
+- UK :: У звіті окремо записали перебіг обстежень і застосування ліків.
+- EN :: The report recorded the progress of testing and medication separately.
+- FOCUS :: 投薬
+
+* Sense s-1447370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 681971029d68c86d5c5c9c7d2e61128f64ae4d8d20fc9b9c0a1270ea9fa6523a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} een medicijn toedienen
+*** en-s-1447370-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: met geneesmiddelen behandelen
+*** en-s-1447370-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mediceren
+*** en-s-1447370-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doseren
+*** en-s-1447370-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} toediening van een medicijn
+*** en-s-1447370-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: behandeling met geneesmiddelen
+*** en-s-1447370-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicatie
+*** en-s-1447370-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dosering
+** Ukrainian glosses
+
+* Sense s-1447370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dc3a3d4796d6ea75f28216dc5e871c56c3ff5722d99004b416dbfe56d4362d03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneigabe
+*** en-s-1447370-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medikamentengabe
+*** en-s-1447370-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medikation
+*** en-s-1447370-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verabreichung
+*** en-s-1447370-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Applikation (eines Medikaments)
+** Ukrainian glosses
+
+* Sense s-1447370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6b29da58862ab67f37584638a4906a743ec1eb8a8265354dcc5b584ded829f6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszer-alkalmazás
+*** en-s-1447370-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszerbevétel
+*** en-s-1447370-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszerelés
+*** en-s-1447370-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszeres kezelés
+** Ukrainian glosses
+
+* Sense s-1447370-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2ef69200e328a50cf2fe0f0f7f3904b739a447741c0701f39fe8923fb200b8b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} прописывать лекарство
+** Ukrainian glosses
+
+* Sense s-1447370-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: df2272ab0583e4af06ec2957245c60f7fdb0fdb84096ee38749375760c23c081
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicación
+** Ukrainian glosses
+
+* Sense s-1447370-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 699698b3d07f33ad315d7ea2c64ff89bf212a27ae3fd7c70f84ec313d2e55493
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447370-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dosering
+** Ukrainian glosses
