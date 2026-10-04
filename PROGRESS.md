@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **1930**.
+Completed **40/200** additional distinct words; branch total **1940**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3086,6 +3086,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3119,6 +3120,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 382 | [概要](entries/1204/1204500-gaiyou.org) | がいよう | 1204500 | new / draft |
 | JLPTLord N2 383 | [概略](entries/1204/1204510-gairyaku.org) | がいりゃく | 1204510 | new / draft |
 | JLPTLord N2 384 | [大綱](entries/1661/1661030-taikou.org) | たいこう | 1661030 | new / draft |
+| JLPTLord N2 385 | [大筋](entries/1413/1413490-oosuji.org) | おおすじ | 1413490 | new / draft |
+| JLPTLord N2 386 | [骨子](entries/1288/1288600-kosshi.org) | こっし | 1288600 | new / draft |
+| JLPTLord N2 387 | [枠組み](entries/1606/1606690-wakugumi.org) | わくぐみ | 1606690 | new / draft |
+| JLPTLord N2 389 | [形態](entries/1250/1250390-keitai.org) | けいたい | 1250390 | new / draft |
+| JLPTLord N2 391 | [様式](entries/1545/1545830-youshiki.org) | ようしき | 1545830 | new / draft |
+| JLPTLord N2 392 | [形状](entries/1250/1250340-keijou.org) | けいじょう | 1250340 | new / draft |
+| JLPTLord N2 393 | [外観](entries/1203/1203460-gaikan.org) | がいかん | 1203460 | new / draft |
+| JLPTLord N2 394 | [景観](entries/1250/1250820-keikan.org) | けいかん | 1250820 | new / draft |
+| JLPTLord N2 398 | [風潮](entries/1500/1500000-fuuchou.org) | ふうちょう | 1500000 | new / draft |
+| JLPTLord N2 399 | [世論](entries/1606/1606150-yoron.org) | よろん | 1606150 | new / draft |
 
 ## Maturity workflow
 
