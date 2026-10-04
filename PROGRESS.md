@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4663 |
+| Canonical entry files | 4763 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1691 |
+| Canonical N2 entries | 1791 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4626 |
+| `new` | 4726 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4653 |
+| Entry metadata still marked `draft` | 4753 |
 | Core profile | 163 |
-| Learner profile | 4499 |
+| Learner profile | 4599 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **90/100** additional distinct words; branch total **690**.
+Completed **100/100** additional distinct words; branch total **700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1374,6 +1374,8 @@ All completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
+Selection: 56 candidates from [pinned Open Anki N2](sources/jlpt-n2/open-anki/README.md)
+and 44 from [documented JTest N2 sections](sources/jlpt-n2/jtest/README.md).
 Candidates are reconciled against pinned JMdict and existing entry IDs.
 N2-69 (佚) remains deferred and is not counted.
 
@@ -1388,6 +1390,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1481,6 +1484,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 1.4.8 | [視線](entries/1312/1312060-shisen.org) | しせん | 1312060 | new / draft |
 | JTest 1.4.19 | [禁物](entries/1241/1241660-kinmotsu.org) | きんもつ | 1241660 | new / draft |
 | JTest 1.4.23 | [運命](entries/1173/1173030-unmei.org) | うんめい | 1173030 | new / draft |
+| JTest 1.4.24 | [決意](entries/1254/1254220-ketsui.org) | けつい | 1254220 | new / draft |
+| JTest 1.5.5 | [言い訳](entries/1587/1587030-iiwake.org) | いいわけ | 1587030 | new / draft |
+| JTest 1.5.16 | [行為](entries/1281/1281830-koui.org) | こうい | 1281830 | new / draft |
+| JTest 1.5.17 | [口論](entries/1277/1277000-kouron.org) | こうろん | 1277000 | new / draft |
+| JTest 1.5.20 | [貸し借り](entries/1825/1825040-kashikari.org) | かしかり | 1825040 | new / draft |
+| JTest 1.5.22 | [気まずい](entries/1222/1222550-kimazui.org) | きまずい | 1222550 | new / draft |
+| JTest 1.5.23 | [今さら](entries/1289/1289150-imasara.org) | いまさら | 1289150 | new / draft |
+| JTest 1.5.24 | [台無し](entries/1412/1412770-dainashi.org) | だいなし | 1412770 | new / draft |
+| JTest 1.5.26 | [追い出す](entries/1432/1432350-oidasu.org) | おいだす | 1432350 | new / draft |
+| JTest 1.5.27 | [仲間外れ](entries/1425/1425800-nakamahazure.org) | なかまはずれ | 1425800 | new / draft |
 
 ## Maturity workflow
 
