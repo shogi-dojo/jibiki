@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **2420**.
+Completed **130/200** additional distinct words; branch total **2430**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3624,6 +3624,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3747,6 +3748,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1381 | [堤防](entries/1435/1435350-teibou.org) | ていぼう | 1435350 | new / draft |
 | JLPTLord N2 1382 | [舗装](entries/1514/1514070-hosou.org) | ほそう | 1514070 | new / draft |
 | JLPTLord N2 1385 | [空調](entries/1245/1245860-kuuchou.org) | くうちょう | 1245860 | new / draft |
+| JLPTLord N2 1387 | [断熱](entries/1705/1705010-dannetsu.org) | だんねつ | 1705010 | new / draft |
+| JLPTLord N2 1389 | [防音](entries/1520/1520240-bouon.org) | ぼうおん | 1520240 | new / draft |
+| JLPTLord N2 1390 | [耐震](entries/1410/1410370-taishin.org) | たいしん | 1410370 | new / draft |
+| JLPTLord N2 1393 | [救急](entries/1229/1229080-kyuukyuu.org) | きゅうきゅう | 1229080 | new / draft |
+| JLPTLord N2 1400 | [備品](entries/1485/1485730-bihin.org) | びひん | 1485730 | new / draft |
+| JLPTLord N2 1401 | [什器](entries/1333/1333880-juuki.org) | じゅうき | 1333880 | new / draft |
+| JLPTLord N2 1402 | [食材](entries/1983/1983500-shokuzai.org) | しょくざい | 1983500 | new / draft |
+| JLPTLord N2 1404 | [添加物](entries/1440/1440840-tenkabutsu.org) | てんかぶつ | 1440840 | new / draft |
+| JLPTLord N2 1405 | [保存料](entries/1946/1946720-hozonryou.org) | ほぞんりょう | 1946720 | new / draft |
+| JLPTLord N2 1408 | [水産物](entries/1371/1371520-suisanbutsu.org) | すいさんぶつ | 1371520 | new / draft |
 
 ## Maturity workflow
 
