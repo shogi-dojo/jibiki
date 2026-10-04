@@ -1,0 +1,312 @@
+#+TITLE: 数値
+#+JMDICT_ID: 1373160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すうち
+#+ROMAJI: suuchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1373160-001
+:PROPERTIES:
+:TEXT: 数値
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1373160-001
+:PROPERTIES:
+:TEXT: すうち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1373160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 47436efb155a2ce7eef816127ecfd0015cb9b8fbb60d6b7c96ee45203c3e5b28
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- numerical value
+** Ukrainian glosses
+*** uk-s-1373160-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: числове значення
+** Learner notes
+*** note-s-1373160-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичне або технічне значення, виражене числом: 数値を入力する. Не одиниця вимірювання й не сама цифра як знак; те саме числове значення може записуватися різними способами залежно від формату.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1373160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 表に数値を入力した。
+- READING :: ひょうにすうちをにゅうりょくした。
+- UK :: Я ввів числове значення в таблицю.
+- EN :: I entered a numerical value in the table.
+- FOCUS :: 数値
+*** ex-1373160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 計算に使う数値を確認した。
+- READING :: けいさんにつかうすうちをかくにんした。
+- UK :: Я перевірив числові значення для обчислення.
+- EN :: I checked the numerical values used in the calculation.
+- FOCUS :: 数値
+*** ex-1373160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 数値の桁を一つ間違えると結果が変わるため、入力後に元の資料と照合した。
+- READING :: すうちのけたをひとつまちがえるとけっかがかわるため、にゅうりょくごにもとのしりょうとしょうごうした。
+- UK :: Помилка в одному розряді числа змінює результат, тому після введення я звірив його з оригіналом.
+- EN :: Because an error in one digit of a value changes the result, I compared the input with the original source.
+- FOCUS :: 数値
+
+* Sense s-1373160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 01f9d90bd673c998dde539a8d44931aa023b15deddd107f25776af84d9f4c710
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- figure
+- result
+- reading (on a meter, etc.)
+** Ukrainian glosses
+*** uk-s-1373160-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: показник; результат вимірювання; числові дані
+** Learner notes
+*** note-s-1373160-002-001
+:PROPERTIES:
+:END:
+- UK :: У практичному описі результат вимірювання чи розрахунку: 検査の数値, 数値を比較する. Без одиниць, умов і шкали число може бути неповним; не слід автоматично трактувати будь-яку зміну як покращення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1373160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 74dd9f16eb3d525e825536d781c6218b35962cb1b2b14c1d647dc5da7c6d2274
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} numerieke waarde
+*** en-s-1373160-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getalswaarde
+*** en-s-1373160-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getallenwaarde
+** Ukrainian glosses
+
+* Sense s-1373160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 216c448d01151a3ea40717f00606546017f684814247e0ca4c2045cd476a19a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: données numériques
+*** en-s-1373160-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valeur numérique
+** Ukrainian glosses
+
+* Sense s-1373160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 26f335d2deedad6298e05f4144dc4ac10a246815de684430f479cb5c493b2088
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlenwert
+*** en-s-1373160-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: numerischer Wert
+** Ukrainian glosses
+
+* Sense s-1373160-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4ee9c3813421d0b3aec5c36f93c1b954ee13411ae1bacd8fa1114e298483ccac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számérték
+*** en-s-1373160-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számérték
+*** en-s-1373160-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számszerű érték
+** Ukrainian glosses
+
+* Sense s-1373160-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3076772c53bbae20a820afa4384c00fbc3ea7072e02056239f8031b534e8f744
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: численный
+** Ukrainian glosses
+
+* Sense s-1373160-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: b1ecbc137cbeaa4c65d64c3a95dd43ad5505e11a3bfd2945814f1fcd80d0c645
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: številčna vrednost
+** Ukrainian glosses
+
+* Sense s-1373160-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: dca47e56a6f3cdd2e64ce7d8546d89c49fc273cf1e5297ca1a90912b2ca9aa87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373160-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valor numérico
+*** en-s-1373160-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medida
+*** en-s-1373160-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estadísticas
+** Ukrainian glosses
