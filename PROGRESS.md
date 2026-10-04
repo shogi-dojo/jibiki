@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **2620**.
+Completed **130/200** additional distinct words; branch total **2630**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3894,6 +3894,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4017,6 +4018,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1709 | [御朱印](entries/1694/1694100-goshuin.org) | ごしゅいん | 1694100 | new / draft |
 | JLPTLord N2 1710 | [巡礼](entries/1342/1342150-junrei.org) | じゅんれい | 1342150 | new / draft |
 | JLPTLord N2 1711 | [霊場](entries/1758/1758710-reijou.org) | れいじょう | 1758710 | new / draft |
+| JLPTLord N2 1712 | [聖地](entries/1800/1800710-seichi.org) | せいち | 1800710 | new / draft |
+| JLPTLord N2 1713 | [古墳](entries/1266/1266100-kofun.org) | こふん | 1266100 | new / draft |
+| JLPTLord N2 1714 | [石碑](entries/1382/1382780-sekihi.org) | せきひ | 1382780 | new / draft |
+| JLPTLord N2 1715 | [祠](entries/1581/1581260-hokora.org) | ほこら | 1581260 | new / draft |
+| JLPTLord N2 1716 | [社殿](entries/1654/1654130-shaden.org) | しゃでん | 1654130 | new / draft |
+| JLPTLord N2 1717 | [御神体](entries/1951/1951380-goshintai.org) | ごしんたい | 1951380 | new / draft |
+| JLPTLord N2 1718 | [祝詞](entries/1337/1337450-norito.org) | のりと | 1337450 | new / draft |
+| JLPTLord N2 1719 | [読経](entries/1456/1456390-dokyou.org) | どきょう | 1456390 | new / draft |
+| JLPTLord N2 1720 | [写経](entries/1646/1646390-shakyou.org) | しゃきょう | 1646390 | new / draft |
+| JLPTLord N2 1721 | [托鉢](entries/1415/1415800-takuhatsu.org) | たくはつ | 1415800 | new / draft |
 
 ## Maturity workflow
 
