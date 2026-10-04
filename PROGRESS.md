@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **2330**.
+Completed **40/200** additional distinct words; branch total **2340**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3615,6 +3615,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3648,6 +3649,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1157 | [相応しい](entries/1400/1400850-fusawashii.org) | ふさわしい | 1400850 | new / draft |
 | JLPTLord N2 1164 | [極めて](entries/1240/1240200-kiwamete.org) | きわめて | 1240200 | new / draft |
 | JLPTLord N2 1165 | [著しく](entries/1858/1858570-ichijirushiku.org) | いちじるしく | 1858570 | new / draft |
+| JLPTLord N2 1166 | [辛うじて](entries/1365/1365870-karoujite.org) | かろうじて | 1365870 | new / draft |
+| JLPTLord N2 1167 | [概ね](entries/1204/1204410-oomune.org) | おおむね | 1204410 | new / draft |
+| JLPTLord N2 1168 | [一概に](entries/1161/1161390-ichigaini.org) | いちがいに | 1161390 | new / draft |
+| JLPTLord N2 1170 | [依然](entries/1155/1155650-izen.org) | いぜん | 1155650 | new / draft |
+| JLPTLord N2 1171 | [元来](entries/1261/1261080-ganrai.org) | がんらい | 1261080 | new / draft |
+| JLPTLord N2 1179 | [予め](entries/1542/1542860-arakajime.org) | あらかじめ | 1542860 | new / draft |
+| JLPTLord N2 1181 | [敢えて](entries/1212/1212850-aete.org) | あえて | 1212850 | new / draft |
+| JLPTLord N2 1182 | [強いて](entries/1236/1236080-shiite.org) | しいて | 1236080 | new / draft |
+| JLPTLord N2 1183 | [仮に](entries/1187/1187300-karini.org) | かりに | 1187300 | new / draft |
+| JLPTLord N2 1189 | [若干](entries/1324/1324330-jakkan.org) | じゃっかん | 1324330 | new / draft |
 
 ## Maturity workflow
 
