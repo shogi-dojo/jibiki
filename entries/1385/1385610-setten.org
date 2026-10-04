@@ -1,0 +1,347 @@
+#+TITLE: 接点
+#+JMDICT_ID: 1385610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せってん
+#+ROMAJI: setten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1385610-001
+:PROPERTIES:
+:TEXT: 接点
+:END:
+*** Priorities
+- news1
+- nf11
+** Written form wf-1385610-002
+:PROPERTIES:
+:TEXT: 切点
+:END:
+*** Information
+- rK
+** Reading rd-1385610-001
+:PROPERTIES:
+:TEXT: せってん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+
+* Sense s-1385610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 52ddddef534834c9133f535083b9892d0dbe341463302e57eaa1837a439e65c2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- point of tangency
+- point of contact
+** Ukrainian glosses
+*** uk-s-1385610-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: точка дотику; контактна точка
+** Learner notes
+*** note-s-1385610-001-001
+:PROPERTIES:
+:END:
+- UK :: Буквальна точка, де об'єкти торкаються, зокрема в геометрії дотичної та кривої. Не довільний перетин усіх ліній; характер дотику або контакту треба визначати за схемою й конкретним контекстом.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1385610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 円と直線の接点を示した。
+- READING :: えんとちょくせんのせってんをしめした。
+- UK :: Я позначив точку дотику кола та прямої.
+- EN :: I marked the point of tangency between the circle and the line.
+- FOCUS :: 接点
+*** ex-1385610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 図の接点に印をつけた。
+- READING :: ずのせってんにしるしをつけた。
+- UK :: Я зробив позначку в точці дотику на схемі.
+- EN :: I marked the point of contact in the diagram.
+- FOCUS :: 接点
+*** ex-1385610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 接点を正確に示すために、円の中心と直線の位置を確かめてから図を描いた。
+- READING :: せってんをせいかくにしめすために、えんのちゅうしんとちょくせんのいちをたしかめてからずをえがいた。
+- UK :: Щоб точно показати точку дотику, я перевірив центр кола та положення прямої перед побудовою.
+- EN :: To show the point of tangency accurately, I checked the circle's center and the line's position before drawing the diagram.
+- FOCUS :: 接点
+
+* Sense s-1385610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e2ce579d6b5de89422d47e02c4ec896e93c8806f1c48fb686f5527d19387803d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (electrical) contact
+** Ukrainian glosses
+*** uk-s-1385610-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: електричний контакт
+** Learner notes
+*** note-s-1385610-002-001
+:PROPERTIES:
+:END:
+- UK :: Технічне значення про місце або елемент електричного з'єднання: スイッチの接点. Не просто спільний інтерес між людьми; стан контакту й конструкцію потрібно встановлювати з технічного опису.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1385610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ad032a45a68f822383f389c997bca0b3f8cf6a9f510836061a5566d4e7dacd1f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- point of contact (between)
+- connection
+- point of agreement
+- common ground
+** Ukrainian glosses
+*** uk-s-1385610-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зв'язок; спільна точка; спільні інтереси
+** Learner notes
+*** note-s-1385610-003-001
+:PROPERTIES:
+:END:
+- UK :: Переносне значення про те, що поєднує людей, погляди або сфери: 共通の接点. Не обов'язково повна згода; навіть невеликий спільний досвід може стати точкою для розмови чи співпраці.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1385610-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c35f8150b813b90c359f7af51dbf080ea8312e3aaea42246bbacac5301e2e6dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} raakpunt
+*** en-s-1385610-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tangentpunt
+** Ukrainian glosses
+
+* Sense s-1385610-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d8c1de500b9573b6ff9eac40d17c1431f7074d713df650c94130b390dbfae50f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raakpunt
+*** en-s-1385610-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanrakingspunt
+*** en-s-1385610-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contactpunt
+*** en-s-1385610-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grenspunt
+*** en-s-1385610-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanknopingspunt
+*** en-s-1385610-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raakvlak
+*** en-s-1385610-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vlak
+*** en-s-1385610-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punt van overeenkomst
+** Ukrainian glosses
+
+* Sense s-1385610-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3c847df41809c3b94fccc64bf648d22630c8867bfe2e85ae6ea63f23e8146ad2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berührungspunkt (einer Geraden und eines Kreises)
+** Ukrainian glosses
+
+* Sense s-1385610-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 547ac5b7df9612f0125e4823fde0217261ecb742d5bac5b5fea00b287ee95ab7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kontakt
+** Ukrainian glosses
+
+* Sense s-1385610-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 801206d1c0dbc262e6c9b39a7181bbed908fbf907185c420eae72536d3ba345b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berührungspunkt
+** Ukrainian glosses
+
+* Sense s-1385610-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: bb54a3bc74f3992af3148c17f7722f622059db174374ea566cbcc7bcaaf837a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érintkezés
+** Ukrainian glosses
+
+* Sense s-1385610-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 7df59dfa04376c28a714813287dc920e070455bc6495ef530c398f97a275993f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385610-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: точка соприкосновения
+** Ukrainian glosses
