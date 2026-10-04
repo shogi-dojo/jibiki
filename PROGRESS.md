@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **2240**.
+Completed **150/200** additional distinct words; branch total **2250**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3358,6 +3358,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3501,6 +3502,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 997 | [弾く](entries/1419/1419360-hajiku.org) | はじく | 1419360 | new / draft |
 | JLPTLord N2 998 | [弾む](entries/1419/1419400-hazumu.org) | はずむ | 1419400 | new / draft |
 | JLPTLord N2 1007 | [愚かしい](entries/1245/1245110-orokashii.org) | おろかしい | 1245110 | new / draft |
+| JLPTLord N2 1008 | [逞しい](entries/1573/1573650-takumashii.org) | たくましい | 1573650 | new / draft |
+| JLPTLord N2 1009 | [目覚ましい](entries/1604/1604930-mezamashii.org) | めざましい | 1604930 | new / draft |
+| JLPTLord N2 1012 | [喜ばしい](entries/1614/1614400-yorokobashii.org) | よろこばしい | 1614400 | new / draft |
+| JLPTLord N2 1013 | [嘆かわしい](entries/1418/1418060-nagekawashii.org) | なげかわしい | 1418060 | new / draft |
+| JLPTLord N2 1021 | [煩わしい](entries/1481/1481940-wazurawashii.org) | わずらわしい | 1481940 | new / draft |
+| JLPTLord N2 1023 | [物々しい](entries/1722/1722640-monomonoshii.org) | ものものしい | 1722640 | new / draft |
+| JLPTLord N2 1026 | [目まぐるしい](entries/1535/1535170-memagurushii.org) | めまぐるしい | 1535170 | new / draft |
+| JLPTLord N2 1027 | [華々しい](entries/1600/1600960-hanabanashii.org) | はなばなしい | 1600960 | new / draft |
+| JLPTLord N2 1028 | [空しい](entries/1245/1245370-munashii.org) | むなしい | 1245370 | new / draft |
+| JLPTLord N2 1030 | [切ない](entries/1383/1383770-setsunai.org) | せつない | 1383770 | new / draft |
 
 ## Maturity workflow
 
