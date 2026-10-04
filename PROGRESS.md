@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **50/100** additional distinct entries; branch total **450**.
+Completed **60/100** additional distinct entries; branch total **460**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1106,6 +1106,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 3 | N2-1526–1535 | 10 |
 | 4 | N2-1536–1546 | 10 |
 | 5 | N2-1547–1556 | 10 |
+| 6 | N2-1557–1566 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1159,6 +1160,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1554 | [浴衣](entries/1584/1584990-yukata.org) | ゆかた | 1584990 | new / draft |
 | N2-1555 | [輸血](entries/1538/1538810-yuketsu.org) | ゆけつ | 1538810 | new / draft |
 | N2-1556 | [湯気](entries/1448/1448600-yuge.org) | ゆげ | 1448600 | new / draft |
+| N2-1557 | [輸送](entries/1538/1538850-yusou.org) | ゆそう | 1538850 | new / draft |
+| N2-1558 | [油断](entries/1538/1538690-yudan.org) | ゆだん | 1538690 | new / draft |
+| N2-1559 | [茹でる](entries/1571/1571470-yuderu.org) | ゆでる | 1571470 | new / draft |
+| N2-1560 | [湯のみ](entries/1612/1612130-yunomi.org) | ゆのみ | 1612130 | new / draft |
+| N2-1561 | [緩い](entries/1214/1214410-yurui.org) | ゆるい | 1214410 | new / draft |
+| N2-1562 | [溶岩](entries/1546/1546120-yougan.org) | ようがん | 1546120 | new / draft |
+| N2-1563 | [容器](entries/1545/1545370-youki.org) | ようき | 1545370 | new / draft |
+| N2-1564 | [用語](entries/1546/1546270-yougo.org) | ようご | 1546270 | new / draft |
+| N2-1565 | [要旨](entries/1546/1546770-youshi.org) | ようし | 1546770 | new / draft |
+| N2-1566 | [幼児](entries/1545/1545160-youji.org) | ようじ | 1545160 | new / draft |
 
 ## Maturity workflow
 
