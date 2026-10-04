@@ -1,0 +1,280 @@
+#+TITLE: 処方
+#+JMDICT_ID: 1342500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょほう
+#+ROMAJI: shohou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1342500-001
+:PROPERTIES:
+:TEXT: 処方
+:END:
+*** Priorities
+- news2
+- nf28
+- spec1
+** Reading rd-1342500-001
+:PROPERTIES:
+:TEXT: しょほう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+- spec1
+
+* Sense s-1342500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4eeaba998eed9f5143469164cbd53558329b56863d3ec883f4842d8520c78573
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- prescription (of medicine)
+- formula
+** Ukrainian glosses
+*** uk-s-1342500-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: призначення ліків; рецепт; формула
+** Learner notes
+*** note-s-1342500-001-001
+:PROPERTIES:
+:END:
+- UK :: 処方 у медичному контексті — призначення ліків або їх склад: 薬を処方する, 処方箋. Сам документ-рецепт чітко називає 処方箋; 処方 ширше описує призначення. У фаховому контексті можливе значення формули складу, яке визначають згадки про компоненти.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1342500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師が薬を処方した。
+- READING :: いしがくすりをしょほうした。
+- UK :: Лікар призначив ліки.
+- EN :: The doctor prescribed medicine.
+- FOCUS :: 処方
+*** ex-1342500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 処方の内容を確認した。
+- READING :: しょほうのないようをかくにんした。
+- UK :: Я уточнив зміст призначення.
+- EN :: I checked the prescription details.
+- FOCUS :: 処方
+*** ex-1342500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬局で処方箋を渡し、説明を聞いてから質問した。
+- READING :: やっきょくでしょほうせんをわたし、せつめいをきいてからしつもんした。
+- UK :: В аптеці я передав рецепт, вислухав пояснення й поставив запитання.
+- EN :: At the pharmacy, I handed over the prescription, listened to the explanation, and asked questions.
+- FOCUS :: 処方
+
+* Sense s-1342500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c43eea3f456eaf8d644012d0f201fa797655903606a0a89e7442c5983b3e804a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1342500-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} voorschrift
+*** en-s-1342500-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het voorschrijven
+*** en-s-1342500-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorschrijving
+*** en-s-1342500-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recept
+*** en-s-1342500-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prescriptie
+*** en-s-1342500-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} voorschrijven
+*** en-s-1342500-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prescriberen
+*** en-s-1342500-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recepteren
+** Ukrainian glosses
+
+* Sense s-1342500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0ce654fe080913618fd9d97692eec954f8ab7d38025e2f2e47eedaa878e533d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1342500-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verordnung
+*** en-s-1342500-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verschreibung
+*** en-s-1342500-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rezept
+*** en-s-1342500-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verschreiben
+*** en-s-1342500-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verordnen
+** Ukrainian glosses
+
+* Sense s-1342500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0287e7890d822694c44a622c01c723af37dfa4a2d96c388ad15e44ff1e9c4903
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1342500-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvosi recept
+** Ukrainian glosses
+
+* Sense s-1342500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9fdc2fec586c1748e7cbed511f38366872e523bef9392db07465b10087ac86ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1342500-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) назначение, предписание (врача)
+*** en-s-1342500-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} прописывать (лекарство и т. п.)
+*** en-s-1342500-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) рецепт
+*** en-s-1342500-005-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) способ (образ) действий
+** Ukrainian glosses
