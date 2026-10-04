@@ -1,0 +1,275 @@
+#+TITLE: 零下
+#+JMDICT_ID: 1557660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れいか
+#+ROMAJI: reika
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1557660-001
+:PROPERTIES:
+:TEXT: 零下
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf43
+** Reading rd-1557660-001
+:PROPERTIES:
+:TEXT: れいか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf43
+
+* Sense s-1557660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b50f59588e1dcd3dccd1957fe24f59fc34854634732c3667586ac68c06d63379
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- below zero
+- sub-zero
+** Ukrainian glosses
+*** uk-s-1557660-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: нижче нуля; мінусова температура
+** Learner notes
+*** note-s-1557660-001-001
+:PROPERTIES:
+:END:
+- UK :: 零下五度 — п'ять градусів нижче нуля. 零下 відноситься до температури, а не будь-якого від'ємного числа; у звичайній японській погодній мові без окремого уточнення градуси розуміють за шкалою Цельсія.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1557660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今朝は零下五度だった。
+- READING :: けさはれいかごどだった。
+- UK :: Сьогодні вранці було п'ять градусів морозу.
+- EN :: It was five degrees below zero this morning.
+- FOCUS :: 零下
+*** ex-1557660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜になると、気温が零下になった。
+- READING :: よるになると、きおんがれいかになった。
+- UK :: Уночі температура опустилася нижче нуля.
+- EN :: The temperature fell below zero at night.
+- FOCUS :: 零下
+*** ex-1557660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 零下の気温が続き、池の水が凍った。
+- READING :: れいかのきおんがつづき、いけのみずがこおった。
+- UK :: Мінусова температура трималася довго, і вода в ставку замерзла.
+- EN :: The sub-zero temperatures continued, and the pond froze.
+- FOCUS :: 零下
+
+* Sense s-1557660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3f230fdc30abec9e0df19fd364c376a595fb15034d7ab82209d774ea2d94fab8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meteo.} min …
+*** en-s-1557660-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onder nul
+*** en-s-1557660-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onder het vriespunt
+*** en-s-1557660-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: … vorst
+*** en-s-1557660-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vries-
+** Ukrainian glosses
+
+* Sense s-1557660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5b84875986343f1c7d525965dcf4c2ced21dbc407a5e3cb01aa15ab63274e16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: en-dessous de zero degrés C°
+** Ukrainian glosses
+
+* Sense s-1557660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 687887827689a16ff054ad431276a5ba2c929ba43ef68660bb0f1f0cfbc80b9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unter Null
+*** en-s-1557660-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minus
+*** en-s-1557660-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Temperatur unter Null
+*** en-s-1557660-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Minustemperatur
+*** en-s-1557660-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zustand unter null Grad zu sein
+** Ukrainian glosses
+
+* Sense s-1557660-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a453f049f37a6f147d607f025fb2fef57ab1857e01603fd3d8dfc4af0db96ea7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unter Null
+*** en-s-1557660-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minus
+** Ukrainian glosses
+
+* Sense s-1557660-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 984a620b3351f153ec9d69c30baf23f5f3d924a1798e7165b27dc8279aad07e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ниже нуля (о температуре)
+** Ukrainian glosses
+
+* Sense s-1557660-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0c1f5b9fdef3b3b0f695be0815828ae95eea06123e8f0feae3f28f6af5d2fcbe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1557660-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bajo cero
+** Ukrainian glosses
