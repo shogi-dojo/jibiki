@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **1380**.
+Completed **90/200** additional distinct words; branch total **1390**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2316,6 +2316,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2399,6 +2400,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 528 | [切りがない](entries/1383/1383810-kiriganai.org) | きりがない | 1383810 | new / draft |
 | TodayJLPT N2 533 | [琴](entries/2229/2229960-kin.org) | きん | 2229960 | new / draft |
 | TodayJLPT N2 534 | [金貨](entries/1242/1242680-kinka.org) | きんか | 1242680 | new / draft |
+| TodayJLPT N2 535 | [銀河](entries/1243/1243440-ginga.org) | ぎんが | 1243440 | new / draft |
+| TodayJLPT N2 536 | [銀貨](entries/1243/1243450-ginka.org) | ぎんか | 1243450 | new / draft |
+| TodayJLPT N2 538 | [禁酒](entries/1241/1241570-kinshu.org) | きんしゅ | 1241570 | new / draft |
+| TodayJLPT N2 539 | [金星](entries/1243/1243010-kinsei.org) | きんせい | 1243010 | new / draft |
+| TodayJLPT N2 540 | [均等](entries/1241/1241310-kintou.org) | きんとう | 1241310 | new / draft |
+| TodayJLPT N2 541 | [近辺](entries/1242/1242530-kinpen.org) | きんぺん | 1242530 | new / draft |
+| TodayJLPT N2 543 | [空軍](entries/1245/1245520-kuugun.org) | くうぐん | 1245520 | new / draft |
+| TodayJLPT N2 547 | [空白](entries/1245/1245950-kuuhaku.org) | くうはく | 1245950 | new / draft |
+| TodayJLPT N2 548 | [空輸](entries/1246/1246060-kuuyu.org) | くうゆ | 1246060 | new / draft |
+| TodayJLPT N2 551 | [苦境](entries/1244/1244440-kukyou.org) | くきょう | 1244440 | new / draft |
 
 ## Maturity workflow
 
