@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **1910**.
+Completed **20/200** additional distinct words; branch total **1920**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3084,6 +3084,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3097,6 +3098,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 338 | [利点](entries/1549/1549620-riten.org) | りてん | 1549620 | new / draft |
 | JLPTLord N2 342 | [問題点](entries/1536/1536050-mondaiten.org) | もんだいてん | 1536050 | new / draft |
 | JLPTLord N2 343 | [改善点](entries/2039/2039040-kaizenten.org) | かいぜんてん | 2039040 | new / draft |
+| JLPTLord N2 344 | [共通点](entries/1234/1234730-kyoutsuuten.org) | きょうつうてん | 1234730 | new / draft |
+| JLPTLord N2 345 | [相違点](entries/1400/1400830-souiten.org) | そういてん | 1400830 | new / draft |
+| JLPTLord N2 347 | [格差](entries/1205/1205340-kakusa.org) | かくさ | 1205340 | new / draft |
+| JLPTLord N2 349 | [偏見](entries/1510/1510380-henken.org) | へんけん | 1510380 | new / draft |
+| JLPTLord N2 350 | [先入観](entries/1388/1388330-sennyuukan.org) | せんにゅうかん | 1388330 | new / draft |
+| JLPTLord N2 351 | [固定観念](entries/1266/1266660-koteikannen.org) | こていかんねん | 1266660 | new / draft |
+| JLPTLord N2 353 | [良識](entries/1554/1554570-ryoushiki.org) | りょうしき | 1554570 | new / draft |
+| JLPTLord N2 358 | [信念](entries/1359/1359550-shinnen.org) | しんねん | 1359550 | new / draft |
+| JLPTLord N2 359 | [理念](entries/1550/1550060-rinen.org) | りねん | 1550060 | new / draft |
+| JLPTLord N2 363 | [感性](entries/1212/1212460-kansei.org) | かんせい | 1212460 | new / draft |
 
 ## Maturity workflow
 
