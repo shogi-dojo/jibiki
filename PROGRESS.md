@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **2880**.
+Completed **190/200** additional distinct words; branch total **2890**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4171,6 +4171,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4354,6 +4355,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2495 | [揉める](entries/1567/1567630-momeru.org) | もめる | 1567630 | new / draft |
 | JLPTLord N2 2496 | [詰る](entries/1226/1226560-najiru.org) | なじる | 1226560 | new / draft |
 | JLPTLord N2 2497 | [宥める](entries/1540/1540250-nadameru.org) | なだめる | 1540250 | new / draft |
+| JLPTLord N2 2499 | [窘める](entries/1570/1570200-tashinameru.org) | たしなめる | 1570200 | new / draft |
+| JLPTLord N2 2500 | [嗜む](entries/2008/2008820-tashinamu.org) | たしなむ | 2008820 | new / draft |
+| JLPTLord N2 2516 | [確かに](entries/1205/1205770-tashikani.org) | たしかに | 1205770 | new / draft |
+| JLPTLord N2 2545 | [依然として](entries/1155/1155660-izentoshite.org) | いぜんとして | 1155660 | new / draft |
+| JLPTLord N2 2547 | [一律に](entries/1587/1587370-ichiritsuni.org) | いちりつに | 1587370 | new / draft |
+| JLPTLord N2 2549 | [一挙に](entries/1609/1609220-ikkyoni.org) | いっきょに | 1609220 | new / draft |
+| JLPTLord N2 2582 | [及び](entries/1228/1228140-oyobi.org) | および | 1228140 | new / draft |
+| JLPTLord N2 2583 | [且つ](entries/1208/1208840-katsu.org) | かつ | 1208840 | new / draft |
+| JLPTLord N2 2591 | [その結果](entries/2851/2851217-sonokekka.org) | そのけっか | 2851217 | new / draft |
+| JLPTLord N2 2592 | [その反面](entries/1006/1006940-sonohanmen.org) | そのはんめん | 1006940 | new / draft |
 
 ## Maturity workflow
 
