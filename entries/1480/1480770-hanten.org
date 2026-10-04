@@ -1,0 +1,588 @@
+#+TITLE: 反転
+#+JMDICT_ID: 1480770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんてん
+#+ROMAJI: hanten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1480770-001
+:PROPERTIES:
+:TEXT: 反転
+:END:
+*** Priorities
+- news1
+- nf20
+** Reading rd-1480770-001
+:PROPERTIES:
+:TEXT: はんてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf20
+
+* Sense s-1480770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3c55d70730446a7443c82db66544f82495f86365db323b5381899d8c68d91edb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- rolling over
+- turning over
+** Ukrainian glosses
+*** uk-s-1480770-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перевертання; обертання на інший бік
+** Learner notes
+*** note-s-1480770-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична зміна боку або орієнтації предмета: 板を反転させる. Не обов'язково рух у зворотному напрямку вперед-назад; у цьому значенні важливо, яка поверхня стала видимою після перевертання.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1480770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 板を反転させた。
+- READING :: いたをはんてんさせた。
+- UK :: Я перевернув дошку.
+- EN :: I turned the board over.
+- FOCUS :: 反転
+*** ex-1480770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 反転させて裏側を見た。
+- READING :: はんてんさせてうらがわをみた。
+- UK :: Я перевернув предмет і подивився на зворотний бік.
+- EN :: I turned it over and looked at the back.
+- FOCUS :: 反転
+*** ex-1480770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 部品を反転させる前に表と裏を記録し、組み立てる向きを間違えないようにした。
+- READING :: ぶひんをはんてんさせるまえにおもてとうらをきろくし、くみたてるむきをまちがえないようにした。
+- UK :: Перед перевертанням деталі я позначив передній і зворотний боки, щоб не переплутати орієнтацію під час складання.
+- EN :: Before turning the part over, I marked its front and back to avoid using the wrong orientation during assembly.
+- FOCUS :: 反転
+
+* Sense s-1480770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ba95b037d201ab737e56d3185b853dbbd2e5fabaea7444d65656cdaa62d0d4d3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- turning around (the other way)
+- reversal (of direction, course, etc.)
+- inversion
+- flipping
+** Ukrainian glosses
+*** uk-s-1480770-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зміна напрямку; інверсія; розворот
+** Learner notes
+*** note-s-1480770-002-001
+:PROPERTIES:
+:END:
+- UK :: Обернення напрямку, порядку або представлення: 画像を反転する. Не кожне просте перенесення предмета; залежно від програми або процесу може йтися про дзеркальне, вертикальне чи інше обернення, яке потрібно уточнювати.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1480770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 11910dce5eacf41afe9f693e48b685ec0020fe21e73fc833f9e992e2444056ef
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- photo
+** English glosses
+- producing a positive from a negative
+- producing a negative from a positive
+** Ukrainian glosses
+*** uk-s-1480770-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перетворення негатива на позитив або навпаки
+** Learner notes
+*** note-s-1480770-003-001
+:PROPERTIES:
+:END:
+- UK :: Фотографічне значення про зміну позитивного й негативного зображення. Не будь-яке перевертання фотографії догори дриґом; тут змінюється спосіб передавання світлих і темних ділянок.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1480770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e2bd81dfb1337ecc477ab3b567d826bdd993d236f404ec2aa9fb33c78fc26f9c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- math
+** English glosses
+- circle inversion
+- plane inversion
+** Ukrainian glosses
+*** uk-s-1480770-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: інверсія відносно кола; інверсія площини
+** Learner notes
+*** note-s-1480770-004-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний математичний термін про відповідне перетворення. Не просто переставлення двох чисел або дзеркальне редагування картинки; точне визначення задається математичним контекстом і умовами перетворення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1480770-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 20f7f52af5daee10f4dd5a0e7a0f44148b283f2b868c08c6c0c3c6ff728cba99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tuimeling
+*** en-s-1480770-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buiteling
+*** en-s-1480770-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omwenteling
+** Ukrainian glosses
+
+* Sense s-1480770-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 50a050ebf0c588334de8bd20dd6bf678427fc2eb9a9d79ca19a937a0db11c688
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omwending
+*** en-s-1480770-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omkering
+*** en-s-1480770-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omdraaiing
+** Ukrainian glosses
+
+* Sense s-1480770-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c3271d1b8eb7cc756011ab63a88c0cb13873c1e0115abdb5185873388a99bf80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.
+*** en-s-1480770-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chem.} inversie
+** Ukrainian glosses
+
+* Sense s-1480770-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 46f4704a4f80a7ac68adfb0510f4d6cafa2b99c8973004a04ec2bb918cfef588
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tuimelen
+*** en-s-1480770-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buitelen
+*** en-s-1480770-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omwentelen
+** Ukrainian glosses
+
+* Sense s-1480770-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 64250456d4a484047dc8dfa4d6b714602b9e9041336206297869070b35ed900f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich omwenden
+*** en-s-1480770-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich omkeren
+*** en-s-1480770-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich omdraaien
+** Ukrainian glosses
+
+* Sense s-1480770-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: bb3a31066af081e46c8fe03488ccef432a43bec828ae9c1475c435b01a742401
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omwenden
+*** en-s-1480770-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omkeren
+*** en-s-1480770-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omdraaien
+*** en-s-1480770-010-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inverteren
+*** en-s-1480770-010-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: op z'n kop zetten
+** Ukrainian glosses
+
+* Sense s-1480770-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: dbf04659db7e63dd3dacf14e2f3bf44b6aa6374a7e0a330e191eb4144e96edd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umkehrung
+*** en-s-1480770-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wendung
+*** en-s-1480770-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inversion
+*** en-s-1480770-011-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umpolung
+*** en-s-1480770-011-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umschlagen
+*** en-s-1480770-011-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abkehr
+*** en-s-1480770-011-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich umwenden
+*** en-s-1480770-011-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich drehen
+*** en-s-1480770-011-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich wälzen
+** Ukrainian glosses
+
+* Sense s-1480770-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 100544c04a581991777f5659717275de3c11f8a19758d88dd9fe3d03e4474897
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fordított szórend
+*** en-s-1480770-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fordítottság
+*** en-s-1480770-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfordítottság
+*** en-s-1480770-012-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átfordítás
+*** en-s-1480770-012-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 180 fokos fordítás
+** Ukrainian glosses
+
+* Sense s-1480770-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: b0f4710dccbc9acf86cc5adc948765bf8093bfb07ecf2b8aa965c540c8e95389
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1480770-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1): {～する} перевёртываться [с боку на бок]; катиться
+*** en-s-1480770-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2): {～する} опрокидывать; перевёртывать вверх дном
+*** en-s-1480770-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3): {～する} поворачивать обратно
+*** en-s-1480770-013-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) поворот [вокруг оси]; (перен.) поворот, перемена тактики
+*** en-s-1480770-013-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 5) (фото) засветка; передержка
+** Ukrainian glosses
