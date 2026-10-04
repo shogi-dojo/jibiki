@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **1830**.
+Completed **140/200** additional distinct words; branch total **1840**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2841,6 +2841,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2974,6 +2975,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 200 | [喪失](entries/1399/1399290-soushitsu.org) | そうしつ | 1399290 | new / draft |
 | JLPTLord N2 203 | [顕著](entries/1260/1260640-kencho.org) | けんちょ | 1260640 | new / draft |
 | JLPTLord N2 208 | [納入](entries/1470/1470090-nounyuu.org) | のうにゅう | 1470090 | new / draft |
+| JLPTLord N2 209 | [妥協](entries/1408/1408510-dakyou.org) | だきょう | 1408510 | new / draft |
+| JLPTLord N2 210 | [委託](entries/1156/1156160-itaku.org) | いたく | 1156160 | new / draft |
+| JLPTLord N2 212 | [歪曲](entries/1562/1562460-waikyoku.org) | わいきょく | 1562460 | new / draft |
+| JLPTLord N2 213 | [対処](entries/1410/1410070-taisho.org) | たいしょ | 1410070 | new / draft |
+| JLPTLord N2 217 | [勧誘](entries/1211/1211120-kanyuu.org) | かんゆう | 1211120 | new / draft |
+| JLPTLord N2 218 | [弁償](entries/1512/1512980-benshou.org) | べんしょう | 1512980 | new / draft |
+| JLPTLord N2 219 | [着工](entries/1423/1423030-chakkou.org) | ちゃっこう | 1423030 | new / draft |
+| JLPTLord N2 220 | [竣工](entries/1341/1341260-shunkou.org) | しゅんこう | 1341260 | new / draft |
+| JLPTLord N2 221 | [策定](entries/1298/1298280-sakutei.org) | さくてい | 1298280 | new / draft |
+| JLPTLord N2 222 | [表明](entries/1489/1489870-hyoumei.org) | ひょうめい | 1489870 | new / draft |
 
 ## Maturity workflow
 
