@@ -1,0 +1,286 @@
+#+TITLE: 求人
+#+JMDICT_ID: 1229500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうじん
+#+ROMAJI: kyuujin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1229500-001
+:PROPERTIES:
+:TEXT: 求人
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1229500-001
+:PROPERTIES:
+:TEXT: きゅうじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1229500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 963139c03f741d3a0490a48c1aace210676e2d969fbdbd7558e7f6c7566087c5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- recruiting
+- job offer
+- job vacancy
+** Ukrainian glosses
+*** uk-s-1229500-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: набір працівників; вакансія; пропозиція роботи
+** Learner notes
+*** note-s-1229500-001-001
+:PROPERTIES:
+:END:
+- UK :: =求人を探す= — шукати вакансії, =求人広告= — оголошення про набір. З боку роботодавця =求人= пошук людей; =求職= пошук роботи людиною. Не обов'язково вже підписаний контракт, лише потреба чи пропозиція.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1229500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 求人の案内を見た。
+- READING :: きゅうじんのあんないをみた。
+- UK :: Я подивився оголошення про вакансії.
+- EN :: I looked at the job-vacancy notice.
+- FOCUS :: 求人
+*** ex-1229500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 求人広告で、仕事の内容を確認した。
+- READING :: きゅうじんこうこくで、しごとのないようをかくにんした。
+- UK :: Я перевірив обов'язки в оголошенні про роботу.
+- EN :: I checked the job duties in the recruitment advertisement.
+- FOCUS :: 求人
+*** ex-1229500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 求人の条件だけでなく、実際の働き方についても面接で尋ねた。
+- READING :: きゅうじんのじょうけんだけでなく、じっさいのはたらきかたについてもめんせつでたずねた。
+- UK :: На співбесіді я запитав не лише про оголошені умови, а й про фактичний режим роботи.
+- EN :: At the interview, I asked about actual working arrangements as well as the advertised conditions.
+- FOCUS :: 求人
+
+* Sense s-1229500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: afeabf6eb04e5d12bc42492ec8f84cb1275031095e225dbc7591bb551c4d65ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vacature
+*** en-s-1229500-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gall.
+*** en-s-1229500-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Belg.N.
+*** en-s-1229500-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet alg.} werkaanbieding
+*** en-s-1229500-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {in advertenties} gevraagd: …
+** Ukrainian glosses
+
+* Sense s-1229500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2bbee9b0013dbb23e1893cacd4a0ed07f09334e701ca859a6ab408352f6e229e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offre d'emploi
+** Ukrainian glosses
+
+* Sense s-1229500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e9fe3862328000fb975aea62a8a09e8ca28e848f04467728e6de06ee14dfc70d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anwerbung
+*** en-s-1229500-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Personalbeschaffung
+*** en-s-1229500-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Personalsuche
+*** en-s-1229500-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mitarbeitersuche
+*** en-s-1229500-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einstellung
+** Ukrainian glosses
+
+* Sense s-1229500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 89e41deb94bfae63f55ed14b18ede1e311a3d5e49f13725f4eccd1252491db57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: предложение работы; требуется работник
+** Ukrainian glosses
+
+* Sense s-1229500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 719001bf4986d473da2e54b1bb0c4bf274698a88be32b15700a1e416f65c71ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ponudba za delo
+*** en-s-1229500-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ponuditi delovno mesto
+** Ukrainian glosses
+
+* Sense s-1229500-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: bf347f488d51f4615f1f7660e4ef58ec6b7663c133803370f1b77c1cf798df3f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1229500-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oferta de empleo
+*** en-s-1229500-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vacante
+** Ukrainian glosses
