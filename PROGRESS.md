@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch N2 continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **2920**.
+Completed **30/200** additional distinct words; branch total **2930**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4423,6 +4423,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4446,6 +4447,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2678 | [感](entries/1955/1955970-kan.org) | かん | 1955970 | new / draft |
 | JLPTLord N2 2679 | [力](entries/1554/1554840-ryoku.org) | りょく | 1554840 | new / draft |
 | JLPTLord N2 2681 | [制](entries/1374/1374620-sei.org) | せい | 1374620 | new / draft |
+| JLPTLord N2 2682 | [界](entries/2081/2081500-kai.org) | かい | 2081500 | new / draft |
+| JLPTLord N2 2683 | [層](entries/1399/1399540-sou.org) | そう | 1399540 | new / draft |
+| JLPTLord N2 2684 | [向け](entries/1277/1277090-muke.org) | むけ | 1277090 | new / draft |
+| JLPTLord N2 2688 | [気味](entries/1790/1790980-gimi.org) | ぎみ | 1790980 | new / draft |
+| JLPTLord N2 2689 | [振り](entries/1361/1361140-buri.org) | ぶり | 1361140 | new / draft |
+| JLPTLord N2 2696 | [済み](entries/2198/2198630-zumi.org) | ずみ | 2198630 | new / draft |
+| JLPTLord N2 2697 | [掛け](entries/2148/2148680-gake.org) | がけ | 2148680 | new / draft |
+| JLPTLord N2 2699 | [通り](entries/1432/1432930-doori.org) | どおり | 1432930 | new / draft |
+| JLPTLord N2 2712 | [故に](entries/1267/1267130-yueni.org) | ゆえに | 1267130 | new / draft |
+| JLPTLord N2 2735 | [上は](entries/2181/2181810-ueha.org) | うえは | 2181810 | new / draft |
 
 ## Maturity workflow
 
