@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **2870**.
+Completed **180/200** additional distinct words; branch total **2880**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4170,6 +4170,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4343,6 +4344,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2479 | [拘る](entries/1004/1004480-kodawaru.org) | こだわる | 1004480 | new / draft |
 | JLPTLord N2 2480 | [甘んじる](entries/1621/1621660-amanjiru.org) | あまんじる | 1621660 | new / draft |
 | JLPTLord N2 2481 | [悶える](entries/1536/1536080-modaeru.org) | もだえる | 1536080 | new / draft |
+| JLPTLord N2 2482 | [萎える](entries/1158/1158670-naeru.org) | なえる | 1158670 | new / draft |
+| JLPTLord N2 2486 | [報いる](entries/1515/1515630-mukuiru.org) | むくいる | 1515630 | new / draft |
+| JLPTLord N2 2487 | [償う](entries/1346/1346020-tsugunau.org) | つぐなう | 1346020 | new / draft |
+| JLPTLord N2 2488 | [仕える](entries/1304/1304760-tsukaeru.org) | つかえる | 1304760 | new / draft |
+| JLPTLord N2 2490 | [背く](entries/1472/1472680-somuku.org) | そむく | 1472680 | new / draft |
+| JLPTLord N2 2492 | [抗う](entries/2261/2261110-aragau.org) | あらがう | 2261110 | new / draft |
+| JLPTLord N2 2493 | [翻す](entries/1523/1523340-hirugaesu.org) | ひるがえす | 1523340 | new / draft |
+| JLPTLord N2 2495 | [揉める](entries/1567/1567630-momeru.org) | もめる | 1567630 | new / draft |
+| JLPTLord N2 2496 | [詰る](entries/1226/1226560-najiru.org) | なじる | 1226560 | new / draft |
+| JLPTLord N2 2497 | [宥める](entries/1540/1540250-nadameru.org) | なだめる | 1540250 | new / draft |
 
 ## Maturity workflow
 
