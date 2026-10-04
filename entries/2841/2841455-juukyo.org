@@ -1,0 +1,374 @@
+#+TITLE: 住居
+#+JMDICT_ID: 2841455
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅうきょ
+#+ROMAJI: juukyo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2841455-001
+:PROPERTIES:
+:TEXT: 住居
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-2841455-001
+:PROPERTIES:
+:TEXT: じゅうきょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-2841455-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bac78b1970891855ca0811470627e3c8fae53a7150b593c7a90bacdf74a82731
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- dwelling
+- house
+- residence
+- address
+** Ukrainian glosses
+*** uk-s-2841455-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: житло; помешкання; місце проживання
+** Learner notes
+*** note-s-2841455-001-001
+:PROPERTIES:
+:END:
+- UK :: =住居= формальніше називає житлове місце: =住居を探す=, =住居の確保=. =住所= — адреса, а =住宅= — житлова будівля або одиниця житла. Слово може стосуватися і простору, і проживання в адміністративному контексті.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-2841455-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい住居を探している。
+- READING :: あたらしいじゅうきょをさがしている。
+- UK :: Я шукаю нове житло.
+- EN :: I am looking for a new place to live.
+- FOCUS :: 住居
+*** ex-2841455-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 職場に近い住居を選んだ。
+- READING :: しょくばにちかいじゅうきょをえらんだ。
+- UK :: Я вибрав помешкання поблизу роботи.
+- EN :: I chose accommodation near my workplace.
+- FOCUS :: 住居
+*** ex-2841455-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 住居を確保することが先決だったため、家具の購入は後回しにした。
+- READING :: じゅうきょをかくほすることがせんけつだったため、かぐのこうにゅうはあとまわしにした。
+- UK :: Насамперед треба було знайти житло, тож купівлю меблів відклали.
+- EN :: Securing accommodation came first, so buying furniture was postponed.
+- FOCUS :: 住居
+
+* Sense s-2841455-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 659baffeb8ed9d515ffcde48b65a6c270764c73679e592152bf6c5747859d9fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: woonplaats
+*** en-s-2841455-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {form.} woonstede
+*** en-s-2841455-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: residentie
+*** en-s-2841455-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verblijfplaats
+*** en-s-2841455-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vestigingsplaats
+*** en-s-2841455-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verblijf
+*** en-s-2841455-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: behuizing
+*** en-s-2841455-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huis
+*** en-s-2841455-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: woning
+*** en-s-2841455-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huizing
+*** en-s-2841455-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: thuis
+** Ukrainian glosses
+
+* Sense s-2841455-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3ace247ab77953166d62bf7f79583531b8ffe38a1bd4d10cc78f618feed60a2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wohnung
+** Ukrainian glosses
+
+* Sense s-2841455-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e4f3b913e0687ca56616c83b01db9f69079df3d348ff558f70034c1dc70de24b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lakóhely
+*** en-s-2841455-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bástya
+*** en-s-2841455-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: épület
+*** en-s-2841455-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ház
+*** en-s-2841455-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lakóház
+*** en-s-2841455-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porta
+*** en-s-2841455-004-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: színház
+*** en-s-2841455-004-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartózkodási hely
+*** en-s-2841455-004-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beszéd
+*** en-s-2841455-004-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: címzés
+** Ukrainian glosses
+
+* Sense s-2841455-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: db96d9fc2e53df12ef444828358601d1357768b8a45d71ff31cc443c78e02903
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: жилище, дом; местожительство
+*** en-s-2841455-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} проживать, жить
+** Ukrainian glosses
+
+* Sense s-2841455-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1c375aa8df2e6205eb1bd6ccf28851d98be49812e506bd25ecda3f9f74899f14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiša
+*** en-s-2841455-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezidenca
+** Ukrainian glosses
+
+* Sense s-2841455-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 809165454b126213e8545be6735f4e552f1e0308c90db7c4ab920edbcc453ef9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2841455-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vivienda
+** Ukrainian glosses
