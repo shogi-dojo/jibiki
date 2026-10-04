@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **2570**.
+Completed **80/200** additional distinct words; branch total **2580**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3889,6 +3889,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3962,6 +3963,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1649 | [侘び](entries/1606/1606760-wabi.org) | わび | 1606760 | new / draft |
 | JLPTLord N2 1651 | [礼儀](entries/1557/1557470-reigi.org) | れいぎ | 1557470 | new / draft |
 | JLPTLord N2 1653 | [礼節](entries/1557/1557540-reisetsu.org) | れいせつ | 1557540 | new / draft |
+| JLPTLord N2 1654 | [格式](entries/1205/1205400-kakushiki.org) | かくしき | 1205400 | new / draft |
+| JLPTLord N2 1655 | [流派](entries/1552/1552520-ryuuha.org) | りゅうは | 1552520 | new / draft |
+| JLPTLord N2 1656 | [門下](entries/1724/1724650-monka.org) | もんか | 1724650 | new / draft |
+| JLPTLord N2 1657 | [師匠](entries/1308/1308900-shishou.org) | ししょう | 1308900 | new / draft |
+| JLPTLord N2 1660 | [修行](entries/2650/2650010-shugyou.org) | しゅぎょう | 2650010 | new / draft |
+| JLPTLord N2 1661 | [悟り](entries/1270/1270840-satori.org) | さとり | 1270840 | new / draft |
+| JLPTLord N2 1662 | [瞑想](entries/1569/1569910-meisou.org) | めいそう | 1569910 | new / draft |
+| JLPTLord N2 1663 | [座禅](entries/1291/1291910-zazen.org) | ざぜん | 1291910 | new / draft |
+| JLPTLord N2 1664 | [精進](entries/1380/1380040-shoujin.org) | しょうじん | 1380040 | new / draft |
+| JLPTLord N2 1665 | [功徳](entries/1275/1275080-kudoku.org) | くどく | 1275080 | new / draft |
 
 ## Maturity workflow
 
