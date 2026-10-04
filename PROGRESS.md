@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **80/100** additional distinct entries; branch total **480**.
+Completed **90/100** additional distinct entries; branch total **490**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1109,6 +1109,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 6 | N2-1557–1566 | 10 |
 | 7 | N2-1567–1576 | 10 |
 | 8 | N2-1577–1586 | 10 |
+| 9 | N2-1587–1597 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1192,6 +1193,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1584 | [予備](entries/1543/1543320-yobi.org) | よび | 1543320 | new / draft |
 | N2-1585 | [呼びかける](entries/1266/1266280-yobikakeru.org) | よびかける | 1266280 | new / draft |
 | N2-1586 | [呼び出す](entries/1266/1266350-yobidasu.org) | よびだす | 1266350 | new / draft |
+| N2-1587 | [蘇る](entries/1606/1606020-yomigaeru.org) | よみがえる | 1606020 | new / draft |
+| N2-1588 | [依る](entries/1168/1168660-yoru.org) | よる | 1168660 | new / draft |
+| N2-1589 | [来日](entries/1548/1548200-rainichi.org) | らいにち | 1548200 | new / draft |
+| N2-1590 | [落第](entries/1548/1548810-rakudai.org) | らくだい | 1548810 | new / draft |
+| N2-1591 | [ラッシュアワー](entries/1139/1139190-rasshuawaa.org) | ラッシュアワー | 1139190 | new / draft |
+| N2-1593 | [ランニング](entries/1140/1140270-ranningu.org) | ランニング | 1140270 | new / draft |
+| N2-1594 | [乱暴](entries/1549/1549100-ranbou.org) | らんぼう | 1549100 | new / draft |
+| N2-1595 | [理科](entries/1549/1549900-rika.org) | りか | 1549900 | new / draft |
+| N2-1596 | [利害](entries/1549/1549500-rigai.org) | りがい | 1549500 | new / draft |
+| N2-1597 | [リズム](entries/1141/1141620-rizumu.org) | リズム | 1141620 | new / draft |
 
 ## Maturity workflow
 
