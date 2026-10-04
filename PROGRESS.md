@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **40/100** additional distinct words; branch total **640**.
+Completed **50/100** additional distinct words; branch total **650**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1383,6 +1383,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1426,6 +1427,16 @@ N2-69 (佚) remains deferred and is not counted.
 | N2-S1556 | [不潔](entries/1492/1492160-fuketsu.org) | ふけつ | 1492160 | new / draft |
 | N2-S1587 | [振り向く](entries/1361/1361190-furimuku.org) | ふりむく | 1361190 | new / draft |
 | N2-S1659 | [盆](entries/1523/1523700-bon.org) | ぼん | 1523700 | new / draft |
+| N2-S1662 | [本部](entries/1523/1523170-honbu.org) | ほんぶ | 1523170 | new / draft |
+| N2-S1701 | [見上げる](entries/1259/1259740-miageru.org) | みあげる | 1259740 | new / draft |
+| N2-S1705 | [三日月](entries/1301/1301340-mikazuki.org) | みかづき | 1301340 | new / draft |
+| N2-S1706 | [岬](entries/1611/1611700-misaki.org) | みさき | 1611700 | new / draft |
+| N2-S1710 | [自ら](entries/1317/1317340-mizukara.org) | みずから | 1317340 | new / draft |
+| N2-S1711 | [水着](entries/1371/1371830-mizugi.org) | みずぎ | 1371830 | new / draft |
+| N2-S1716 | [見詰める](entries/1604/1604580-mitsumeru.org) | みつめる | 1604580 | new / draft |
+| N2-S1735 | [無数](entries/1530/1530280-musuu.org) | むすう | 1530280 | new / draft |
+| N2-S1736 | [紫](entries/1311/1311640-murasaki.org) | むらさき | 1311640 | new / draft |
+| N2-S1761 | [免税](entries/1533/1533230-menzei.org) | めんぜい | 1533230 | new / draft |
 
 ## Maturity workflow
 
