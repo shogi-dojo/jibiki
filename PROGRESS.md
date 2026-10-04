@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **1370**.
+Completed **80/200** additional distinct words; branch total **1380**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2315,6 +2315,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2388,6 +2389,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 509 | [競泳](entries/1234/1234060-kyouei.org) | きょうえい | 1234060 | new / draft |
 | TodayJLPT N2 512 | [行間](entries/1281/1281880-gyoukan.org) | ぎょうかん | 1281880 | new / draft |
 | TodayJLPT N2 513 | [競合](entries/1234/1234100-kyougou.org) | きょうごう | 1234100 | new / draft |
+| TodayJLPT N2 516 | [胸部](entries/1237/1237980-kyoubu.org) | きょうぶ | 1237980 | new / draft |
+| TodayJLPT N2 521 | [極度](entries/1240/1240440-kyokudo.org) | きょくど | 1240440 | new / draft |
+| TodayJLPT N2 522 | [極東](entries/1240/1240450-kyokutou.org) | きょくとう | 1240450 | new / draft |
+| TodayJLPT N2 523 | [極力](entries/1240/1240510-kyokuryoku.org) | きょくりょく | 1240510 | new / draft |
+| TodayJLPT N2 524 | [挙式](entries/1232/1232560-kyoshiki.org) | きょしき | 1232560 | new / draft |
+| TodayJLPT N2 525 | [巨人](entries/1232/1232090-kyojin.org) | きょじん | 1232090 | new / draft |
+| TodayJLPT N2 526 | [切らす](entries/1383/1383780-kirasu.org) | きらす | 1383780 | new / draft |
+| TodayJLPT N2 528 | [切りがない](entries/1383/1383810-kiriganai.org) | きりがない | 1383810 | new / draft |
+| TodayJLPT N2 533 | [琴](entries/2229/2229960-kin.org) | きん | 2229960 | new / draft |
+| TodayJLPT N2 534 | [金貨](entries/1242/1242680-kinka.org) | きんか | 1242680 | new / draft |
 
 ## Maturity workflow
 
