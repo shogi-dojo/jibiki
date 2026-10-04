@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **2610**.
+Completed **120/200** additional distinct words; branch total **2620**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3893,6 +3893,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4006,6 +4007,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1699 | [庭園](entries/1436/1436140-teien.org) | ていえん | 1436140 | new / draft |
 | JLPTLord N2 1700 | [石庭](entries/1382/1382730-sekitei.org) | せきてい | 1382730 | new / draft |
 | JLPTLord N2 1701 | [築山](entries/1422/1422150-tsukiyama.org) | つきやま | 1422150 | new / draft |
+| JLPTLord N2 1702 | [回廊](entries/1199/1199860-kairou.org) | かいろう | 1199860 | new / draft |
+| JLPTLord N2 1703 | [天守閣](entries/1439/1439320-tenshukaku.org) | てんしゅかく | 1439320 | new / draft |
+| JLPTLord N2 1704 | [五重塔](entries/1593/1593560-gojuunotou.org) | ごじゅうのとう | 1593560 | new / draft |
+| JLPTLord N2 1705 | [山門](entries/1755/1755280-sanmon.org) | さんもん | 1755280 | new / draft |
+| JLPTLord N2 1706 | [鐘楼](entries/1352/1352040-shourou.org) | しょうろう | 1352040 | new / draft |
+| JLPTLord N2 1707 | [本堂](entries/1523/1523070-hondou.org) | ほんどう | 1523070 | new / draft |
+| JLPTLord N2 1708 | [拝殿](entries/1625/1625530-haiden.org) | はいでん | 1625530 | new / draft |
+| JLPTLord N2 1709 | [御朱印](entries/1694/1694100-goshuin.org) | ごしゅいん | 1694100 | new / draft |
+| JLPTLord N2 1710 | [巡礼](entries/1342/1342150-junrei.org) | じゅんれい | 1342150 | new / draft |
+| JLPTLord N2 1711 | [霊場](entries/1758/1758710-reijou.org) | れいじょう | 1758710 | new / draft |
 
 ## Maturity workflow
 
