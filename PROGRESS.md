@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **2180**.
+Completed **90/200** additional distinct words; branch total **2190**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3352,6 +3352,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3435,6 +3436,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 857 | [繰り上げる](entries/1247/1247000-kuriageru.org) | くりあげる | 1247000 | new / draft |
 | JLPTLord N2 858 | [繰り下げる](entries/1246/1246940-kurisageru.org) | くりさげる | 1246940 | new / draft |
 | JLPTLord N2 860 | [立ち向かう](entries/1551/1551330-tachimukau.org) | たちむかう | 1551330 | new / draft |
+| JLPTLord N2 861 | [立ち寄る](entries/1551/1551300-tachiyoru.org) | たちよる | 1551300 | new / draft |
+| JLPTLord N2 863 | [申し出る](entries/1362/1362930-moushideru.org) | もうしでる | 1362930 | new / draft |
+| JLPTLord N2 865 | [切り開く](entries/1383/1383920-kirihiraku.org) | きりひらく | 1383920 | new / draft |
+| JLPTLord N2 867 | [組み込む](entries/1397/1397510-kumikomu.org) | くみこむ | 1397510 | new / draft |
+| JLPTLord N2 869 | [絞り込む](entries/1982/1982810-shiborikomu.org) | しぼりこむ | 1982810 | new / draft |
+| JLPTLord N2 874 | [受け止める](entries/1329/1329630-uketomeru.org) | うけとめる | 1329630 | new / draft |
+| JLPTLord N2 875 | [受け継ぐ](entries/1329/1329600-uketsugu.org) | うけつぐ | 1329600 | new / draft |
+| JLPTLord N2 881 | [乗り込む](entries/1354/1354910-norikomu.org) | のりこむ | 1354910 | new / draft |
+| JLPTLord N2 882 | [問い合わせる](entries/1535/1535960-toiawaseru.org) | といあわせる | 1535960 | new / draft |
+| JLPTLord N2 887 | [踏み切る](entries/1450/1450190-fumikiru.org) | ふみきる | 1450190 | new / draft |
 
 ## Maturity workflow
 
