@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **1460**.
+Completed **170/200** additional distinct words; branch total **1470**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2324,6 +2324,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2487,6 +2488,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 849 | [塩辛](entries/1178/1178740-shiokara.org) | しおから | 1178740 | new / draft |
 | TodayJLPT N2 855 | [志願](entries/1309/1309080-shigan.org) | しがん | 1309080 | new / draft |
 | TodayJLPT N2 861 | [死語](entries/1310/1310840-shigo.org) | しご | 1310840 | new / draft |
+| TodayJLPT N2 862 | [資材](entries/1312/1312740-shizai.org) | しざい | 1312740 | new / draft |
+| TodayJLPT N2 864 | [指示](entries/1309/1309800-shiji.org) | しじ | 1309800 | new / draft |
+| TodayJLPT N2 869 | [史上](entries/1306/1306860-shijou.org) | しじょう | 1306860 | new / draft |
+| TodayJLPT N2 871 | [静める](entries/1594/1594280-shizumeru.org) | しずめる | 1594280 | new / draft |
+| TodayJLPT N2 894 | [失礼しました](entries/1320/1320240-shitsureishimashita.org) | しつれいしました | 1320240 | new / draft |
+| TodayJLPT N2 900 | [市販](entries/1308/1308660-shihan.org) | しはん | 1308660 | new / draft |
+| TodayJLPT N2 908 | [島国](entries/1582/1582260-shimaguni.org) | しまぐに | 1582260 | new / draft |
+| TodayJLPT N2 921 | [弱者](entries/1324/1324780-jakusha.org) | じゃくしゃ | 1324780 | new / draft |
+| TodayJLPT N2 925 | [謝罪](entries/1323/1323030-shazai.org) | しゃざい | 1323030 | new / draft |
+| TodayJLPT N2 929 | [車線](entries/1323/1323180-shasen.org) | しゃせん | 1323180 | new / draft |
 
 ## Maturity workflow
 
