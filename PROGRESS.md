@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **1520**.
+Completed **30/200** additional distinct words; branch total **1530**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2567,6 +2567,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2590,6 +2591,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1053 | [知らん顔](entries/1420/1420440-shirankao.org) | しらんかお | 1420440 | new / draft |
 | TodayJLPT N2 1059 | [試練](entries/1312/1312590-shiren.org) | しれん | 1312590 | new / draft |
 | TodayJLPT N2 1061 | [白黒](entries/1475/1475160-shirokuro.org) | しろくろ | 1475160 | new / draft |
+| TodayJLPT N2 1064 | [新型](entries/1361/1361770-shingata.org) | しんがた | 1361770 | new / draft |
+| TodayJLPT N2 1065 | [新刊](entries/1361/1361580-shinkan.org) | しんかん | 1361580 | new / draft |
+| TodayJLPT N2 1067 | [心境](entries/1360/1360630-shinkyou.org) | しんきょう | 1360630 | new / draft |
+| TodayJLPT N2 1071 | [浸水](entries/1362/1362610-shinsui.org) | しんすい | 1362610 | new / draft |
+| TodayJLPT N2 1074 | [新設](entries/1362/1362070-shinsetsu.org) | しんせつ | 1362070 | new / draft |
+| TodayJLPT N2 1078 | [新党](entries/1362/1362230-shintou.org) | しんとう | 1362230 | new / draft |
+| TodayJLPT N2 1079 | [神童](entries/1364/1364780-shindou.org) | しんどう | 1364780 | new / draft |
+| TodayJLPT N2 1089 | [水域](entries/1371/1371300-suiiki.org) | すいいき | 1371300 | new / draft |
+| TodayJLPT N2 1090 | [水温](entries/1371/1371330-suion.org) | すいおん | 1371330 | new / draft |
+| TodayJLPT N2 1091 | [吸い込む](entries/1228/1228230-suikomu.org) | すいこむ | 1228230 | new / draft |
 
 ## Maturity workflow
 
