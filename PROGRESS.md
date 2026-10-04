@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **60/100** further distinct words; branch total **560**.
+Completed **70/100** further distinct words; branch total **570**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1245,6 +1245,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 4 | N2-S137–N2-S323 | 10 |
 | 5 | N2-S327–N2-S420 | 10 |
 | 6 | N2-S434–N2-S561 | 10 |
+| 7 | N2-S573–N2-S626 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1308,6 +1309,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S530 | [苦心](entries/1244/1244530-kushin.org) | くしん | 1244530 | new / draft |
 | N2-S535 | [砕く](entries/1295/1295170-kudaku.org) | くだく | 1295170 | new / draft |
 | N2-S561 | [毛糸](entries/1533/1533860-keito.org) | けいと | 1533860 | new / draft |
+| N2-S573 | [下旬](entries/1185/1185330-gejun.org) | げじゅん | 1185330 | new / draft |
+| N2-S581 | [月末](entries/1255/1255840-getsumatsu.org) | げつまつ | 1255840 | new / draft |
+| N2-S582 | [気配](entries/1222/1222510-kehai.org) | けはい | 1222510 | new / draft |
+| N2-S585 | [煙い](entries/1177/1177190-kemui.org) | けむい | 1177190 | new / draft |
+| N2-S594 | [厳重](entries/1262/1262660-genjuu.org) | げんじゅう | 1262660 | new / draft |
+| N2-S595 | [謙遜](entries/1260/1260240-kenson.org) | けんそん | 1260240 | new / draft |
+| N2-S597 | [限度](entries/1264/1264690-gendo.org) | げんど | 1264690 | new / draft |
+| N2-S600 | [懸命](entries/1257/1257730-kenmei.org) | けんめい | 1257730 | new / draft |
+| N2-S620 | [口実](entries/1276/1276220-koujitsu.org) | こうじつ | 1276220 | new / draft |
+| N2-S626 | [功績](entries/1275/1275070-kouseki.org) | こうせき | 1275070 | new / draft |
 
 ## Maturity workflow
 

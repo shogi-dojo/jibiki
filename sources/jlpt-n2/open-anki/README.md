@@ -8,7 +8,9 @@ was exhausted. This is a candidate classification, not an official JLPT syllabus
 - Source: https://github.com/jamsinclair/open-anki-jlpt-decks/blob/1ad66734417aca9dbcca6b2d5ee440cb13ab3ba0/src/n2.csv
 - Retrieved: 2026-10-04
 - Data rows: 1906
-- SHA-256 of `n2.csv`: `2d0f1ddd6222881cd9fc2ca701db74300af99b3f1f84d5ac3c18411c20f0c055`
+- Raw upstream CSV SHA-256 (CRLF): `2d0f1ddd6222881cd9fc2ca701db74300af99b3f1f84d5ac3c18411c20f0c055`
+- Tracked `n2.csv` SHA-256 (LF-normalized): `0b30af49ab94d8b33cfa90c74f47772eccb18ab5c4acc4c654e9315de7a54ff7`
+- Only line endings were normalized; all 1906 data rows are preserved.
 - Repository license: MIT; retained in `LICENSE`, copyright Jamie Sinclair.
 - Upstream acknowledgement: chyyran/jlpt-anki-decks, based on tanos.co.uk.
 
