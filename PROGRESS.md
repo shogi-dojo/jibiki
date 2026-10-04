@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **1470**.
+Completed **180/200** additional distinct words; branch total **1480**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2325,6 +2325,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2498,6 +2499,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 921 | [弱者](entries/1324/1324780-jakusha.org) | じゃくしゃ | 1324780 | new / draft |
 | TodayJLPT N2 925 | [謝罪](entries/1323/1323030-shazai.org) | しゃざい | 1323030 | new / draft |
 | TodayJLPT N2 929 | [車線](entries/1323/1323180-shasen.org) | しゃせん | 1323180 | new / draft |
+| TodayJLPT N2 942 | [就寝](entries/1331/1331740-shuushin.org) | しゅうしん | 1331740 | new / draft |
+| TodayJLPT N2 949 | [周年](entries/1331/1331240-shuunen.org) | しゅうねん | 1331240 | new / draft |
+| TodayJLPT N2 950 | [収納](entries/1330/1330830-shuunou.org) | しゅうのう | 1330830 | new / draft |
+| TodayJLPT N2 953 | [収量](entries/1330/1330970-shuuryou.org) | しゅうりょう | 1330970 | new / draft |
+| TodayJLPT N2 958 | [収録](entries/1330/1330980-shuuroku.org) | しゅうろく | 1330980 | new / draft |
+| TodayJLPT N2 962 | [祝杯](entries/1337/1337510-shukuhai.org) | しゅくはい | 1337510 | new / draft |
+| TodayJLPT N2 963 | [祝福](entries/1337/1337520-shukufuku.org) | しゅくふく | 1337520 | new / draft |
+| TodayJLPT N2 964 | [熟練](entries/1337/1337930-jukuren.org) | じゅくれん | 1337930 | new / draft |
+| TodayJLPT N2 968 | [主将](entries/1325/1325590-shushou.org) | しゅしょう | 1325590 | new / draft |
+| TodayJLPT N2 969 | [受賞](entries/1329/1329790-jushou.org) | じゅしょう | 1329790 | new / draft |
 
 ## Maturity workflow
 
