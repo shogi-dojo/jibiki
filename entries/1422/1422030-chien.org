@@ -1,0 +1,339 @@
+#+TITLE: 遅延
+#+JMDICT_ID: 1422030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちえん
+#+ROMAJI: chien
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1422030-001
+:PROPERTIES:
+:TEXT: 遅延
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1422030-001
+:PROPERTIES:
+:TEXT: ちえん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1422030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c997ff88aca23385096a2ce8002878386d77d4af2f38e1438ae573a541e201c9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+- adj-no
+** English glosses
+- delay
+- latency
+** Ukrainian glosses
+*** uk-s-1422030-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: затримка; запізнення; латентність передавання
+** Learner notes
+*** note-s-1422030-001-001
+:PROPERTIES:
+:END:
+- UK :: Відставання від запланованого часу або часовий проміжок реагування: 列車の遅延, 通信の遅延. У техніці може бути вимірювана затримка сигналу; не обов'язково свідоме перенесення події 延期.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1422030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 列車に遅延が出た。
+- READING :: れっしゃにちえんがでた。
+- UK :: Поїзд затримався.
+- EN :: The train was delayed.
+- FOCUS :: 遅延
+*** ex-1422030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 通信の遅延を測定した。
+- READING :: つうしんのちえんをそくていした。
+- UK :: Ми виміряли затримку зв'язку.
+- EN :: We measured the communication latency.
+- FOCUS :: 遅延
+*** ex-1422030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遅延の知らせを受け、乗り換えに間に合うか時刻表を確認した。
+- READING :: ちえんのしらせをうけ、のりかえにまにあうかじこくひょうをかくにんした。
+- UK :: Отримавши повідомлення про затримку, я перевірив розклад, щоб з'ясувати, чи встигну на пересадку.
+- EN :: After receiving notice of the delay, I checked the timetable to see whether I could make my connection.
+- FOCUS :: 遅延
+
+* Sense s-1422030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d327e11afaf5e437d78f6e987f241e98e3c303573ba80bc81266dc4f850e1da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertraging
+*** en-s-1422030-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oponthoud
+*** en-s-1422030-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertraging hebben
+*** en-s-1422030-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oponthoud hebben
+*** en-s-1422030-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: te laat zijn
+*** en-s-1422030-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: over tijd zijn
+** Ukrainian glosses
+
+* Sense s-1422030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f4d500a39959586ea17a82e829c6f9af65c02cd0f4c3702f027df3abdd6e4fcd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: être en retard
+*** en-s-1422030-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retard
+** Ukrainian glosses
+
+* Sense s-1422030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8e73ac1babd652b2de73baeb40bb4ef909c9d7bd23d2aa93ac64761514c676f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verspätung
+*** en-s-1422030-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verzögerung
+*** en-s-1422030-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verzug
+*** en-s-1422030-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufschub
+*** en-s-1422030-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Säumigkeit
+*** en-s-1422030-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verspäten
+** Ukrainian glosses
+
+* Sense s-1422030-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e0a5e456883a8ed67a476202622d1fd816d90b41eaf8381139ee5bc73cd87056
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: késedelem
+** Ukrainian glosses
+
+* Sense s-1422030-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 435aa4608db71d1d534f3f0436432ada57eb4e7d48b8bc247ce39b9ab8983803
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) откладывание; отсрочка, оттяжка
+*** en-s-1422030-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} откладывать, отсрочивать
+*** en-s-1422030-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) задержка, опаздывание; пропуск [законного] срока
+*** en-s-1422030-006-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} опаздывать, задерживаться; пропускать срок
+*** en-s-1422030-006-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) промедление; волокита
+*** en-s-1422030-006-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} медлить, тянуть
+** Ukrainian glosses
+
+* Sense s-1422030-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1016079bd6a6c77b95dd8dbd26927d5f11f7c2453bf3b776047b2b6ea3cc11a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1422030-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: demora
+*** en-s-1422030-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retraso
+** Ukrainian glosses
