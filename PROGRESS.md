@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **1010**.
+Completed **120/200** additional distinct words; branch total **1020**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1809,6 +1809,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1922,6 +1923,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 9.4.15 | [作用](entries/1298/1298000-sayou.org) | さよう | 1298000 | new / draft |
 | JTest 9.4.17 | [副作用](entries/1500/1500400-fukusayou.org) | ふくさよう | 1500400 | new / draft |
 | JTest 9.4.21 | [告げる](entries/1285/1285990-tsugeru.org) | つげる | 1285990 | new / draft |
+| JTest 9.4.24 | [配慮](entries/1473/1473210-hairyo.org) | はいりょ | 1473210 | new / draft |
+| JTest 9.4.25 | [遺伝](entries/1159/1159460-iden.org) | いでん | 1159460 | new / draft |
+| JTest 9.5.12 | [脂肪](entries/1311/1311820-shibou.org) | しぼう | 1311820 | new / draft |
+| JTest 9.5.13 | [肥満](entries/1484/1484300-himan.org) | ひまん | 1484300 | new / draft |
+| JTest 9.5.14 | [減量](entries/1263/1263350-genryou.org) | げんりょう | 1263350 | new / draft |
+| JTest 9.5.16 | [一向に](entries/1609/1609230-ikkouni.org) | いっこうに | 1609230 | new / draft |
+| JTest 9.5.17 | [疑わしい](entries/1225/1225530-utagawashii.org) | うたがわしい | 1225530 | new / draft |
+| JTest 9.5.20 | [依存](entries/1575/1575870-izon.org) | いぞん | 1575870 | new / draft |
+| JTest 10.1.2 | [続出](entries/1405/1405820-zokushutsu.org) | ぞくしゅつ | 1405820 | new / draft |
+| JTest 10.1.6 | [拒否](entries/1232/1232410-kyohi.org) | きょひ | 1232410 | new / draft |
 
 ## Maturity workflow
 
