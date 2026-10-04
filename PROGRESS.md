@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **2540**.
+Completed **50/200** additional distinct words; branch total **2550**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3886,6 +3886,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3929,6 +3930,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1594 | [七五三](entries/1319/1319310-shichigosan.org) | しちごさん | 1319310 | new / draft |
 | JLPTLord N2 1597 | [節分](entries/1386/1386340-setsubun.org) | せつぶん | 1386340 | new / draft |
 | JLPTLord N2 1598 | [彼岸](entries/1483/1483100-higan.org) | ひがん | 1483100 | new / draft |
+| JLPTLord N2 1599 | [縁起](entries/1177/1177540-engi.org) | えんぎ | 1177540 | new / draft |
+| JLPTLord N2 1602 | [風水](entries/1499/1499920-fuusui.org) | ふうすい | 1499920 | new / draft |
+| JLPTLord N2 1605 | [袴](entries/1267/1267440-hakama.org) | はかま | 1267440 | new / draft |
+| JLPTLord N2 1608 | [屏風](entries/1566/1566400-byoubu.org) | びょうぶ | 1566400 | new / draft |
+| JLPTLord N2 1609 | [掛け軸](entries/1590/1590090-kakejiku.org) | かけじく | 1590090 | new / draft |
+| JLPTLord N2 1614 | [蔵](entries/1592/1592380-kura.org) | くら | 1592380 | new / draft |
+| JLPTLord N2 1616 | [漆](entries/1320/1320520-urushi.org) | うるし | 1320520 | new / draft |
+| JLPTLord N2 1618 | [織物](entries/1357/1357450-orimono.org) | おりもの | 1357450 | new / draft |
+| JLPTLord N2 1619 | [刺繍](entries/1306/1306540-shishuu.org) | ししゅう | 1306540 | new / draft |
+| JLPTLord N2 1620 | [陶磁器](entries/1450/1450660-toujiki.org) | とうじき | 1450660 | new / draft |
 
 ## Maturity workflow
 
