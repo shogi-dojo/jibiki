@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **2380**.
+Completed **90/200** additional distinct words; branch total **2390**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3620,6 +3620,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3703,6 +3704,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1307 | [両生類](entries/1644/1644940-ryouseirui.org) | りょうせいるい | 1644940 | new / draft |
 | JLPTLord N2 1308 | [昆虫](entries/1289/1289980-konchuu.org) | こんちゅう | 1289980 | new / draft |
 | JLPTLord N2 1309 | [幼虫](entries/1545/1545270-youchuu.org) | ようちゅう | 1545270 | new / draft |
+| JLPTLord N2 1313 | [草原](entries/1401/1401970-sougen.org) | そうげん | 1401970 | new / draft |
+| JLPTLord N2 1314 | [湿地](entries/1320/1320470-shitchi.org) | しっち | 1320470 | new / draft |
+| JLPTLord N2 1316 | [湖沼](entries/1267/1267290-koshou.org) | こしょう | 1267290 | new / draft |
+| JLPTLord N2 1319 | [地殻](entries/1420/1420940-chikaku.org) | ちかく | 1420940 | new / draft |
+| JLPTLord N2 1320 | [土壌](entries/1445/1445380-dojou.org) | どじょう | 1445380 | new / draft |
+| JLPTLord N2 1321 | [岩石](entries/1217/1217360-ganseki.org) | がんせき | 1217360 | new / draft |
+| JLPTLord N2 1322 | [結晶](entries/1254/1254870-kesshou.org) | けっしょう | 1254870 | new / draft |
+| JLPTLord N2 1323 | [合金](entries/1284/1284730-goukin.org) | ごうきん | 1284730 | new / draft |
+| JLPTLord N2 1324 | [鋼鉄](entries/1282/1282740-koutetsu.org) | こうてつ | 1282740 | new / draft |
+| JLPTLord N2 1326 | [鉛](entries/1178/1178500-namari.org) | なまり | 1178500 | new / draft |
 
 ## Maturity workflow
 
