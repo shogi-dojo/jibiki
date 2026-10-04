@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **1020**.
+Completed **130/200** additional distinct words; branch total **1030**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1810,6 +1810,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1933,6 +1934,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 9.5.20 | [依存](entries/1575/1575870-izon.org) | いぞん | 1575870 | new / draft |
 | JTest 10.1.2 | [続出](entries/1405/1405820-zokushutsu.org) | ぞくしゅつ | 1405820 | new / draft |
 | JTest 10.1.6 | [拒否](entries/1232/1232410-kyohi.org) | きょひ | 1232410 | new / draft |
+| JTest 10.1.14 | [暴力](entries/1519/1519590-bouryoku.org) | ぼうりょく | 1519590 | new / draft |
+| JTest 10.1.16 | [進入](entries/1366/1366180-shinnyuu.org) | しんにゅう | 1366180 | new / draft |
+| JTest 10.1.18 | [見知らぬ](entries/1259/1259860-mishiranu.org) | みしらぬ | 1259860 | new / draft |
+| JTest 10.1.20 | [縮まる](entries/1337/1337540-chijimaru.org) | ちぢまる | 1337540 | new / draft |
+| JTest 10.1.21 | [無理やり](entries/1531/1531030-muriyari.org) | むりやり | 1531030 | new / draft |
+| JTest 10.1.22 | [捜査](entries/1399/1399660-sousa.org) | そうさ | 1399660 | new / draft |
+| JTest 10.1.23 | [確定](entries/1205/1205880-kakutei.org) | かくてい | 1205880 | new / draft |
+| JTest 10.1.27 | [居場所](entries/1630/1630060-ibasho.org) | いばしょ | 1630060 | new / draft |
+| JTest 10.1.28 | [持ち主](entries/1605/1605230-mochinushi.org) | もちぬし | 1605230 | new / draft |
+| JTest 10.1.30 | [実に](entries/2820/2820720-jitsuni.org) | じつに | 2820720 | new / draft |
 
 ## Maturity workflow
 
