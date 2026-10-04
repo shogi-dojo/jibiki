@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **2830**.
+Completed **140/200** additional distinct words; branch total **2840**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4166,6 +4166,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4299,6 +4300,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2381 | [突き止める](entries/1456/1456670-tsukitomeru.org) | つきとめる | 1456670 | new / draft |
 | JLPTLord N2 2383 | [差し込む](entries/1291/1291170-sashikomu.org) | さしこむ | 1291170 | new / draft |
 | JLPTLord N2 2386 | [引きずる](entries/1169/1169000-hikizuru.org) | ひきずる | 1169000 | new / draft |
+| JLPTLord N2 2399 | [出くわす](entries/1337/1337950-dekuwasu.org) | でくわす | 1337950 | new / draft |
+| JLPTLord N2 2401 | [寄り添う](entries/1219/1219640-yorisou.org) | よりそう | 1219640 | new / draft |
+| JLPTLord N2 2402 | [抱きしめる](entries/1516/1516320-dakishimeru.org) | だきしめる | 1516320 | new / draft |
+| JLPTLord N2 2405 | [呟く](entries/1565/1565120-tsubuyaku.org) | つぶやく | 1565120 | new / draft |
+| JLPTLord N2 2408 | [喚く](entries/1211/1211260-wameku.org) | わめく | 1211260 | new / draft |
+| JLPTLord N2 2412 | [怯える](entries/1236/1236630-obieru.org) | おびえる | 1236630 | new / draft |
+| JLPTLord N2 2416 | [佇む](entries/1563/1563190-tatazumu.org) | たたずむ | 1563190 | new / draft |
+| JLPTLord N2 2418 | [彷徨う](entries/1566/1566730-samayou.org) | さまよう | 1566730 | new / draft |
+| JLPTLord N2 2420 | [迷い込む](entries/1532/1532690-mayoikomu.org) | まよいこむ | 1532690 | new / draft |
+| JLPTLord N2 2421 | [紛れ込む](entries/1505/1505020-magirekomu.org) | まぎれこむ | 1505020 | new / draft |
 
 ## Maturity workflow
 
