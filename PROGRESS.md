@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **2160**.
+Completed **70/200** additional distinct words; branch total **2170**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3350,6 +3350,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3413,6 +3414,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 814 | [漏れる](entries/1605/1605330-moreru.org) | もれる | 1605330 | new / draft |
 | JLPTLord N2 815 | [漏らす](entries/1605/1605320-morasu.org) | もらす | 1605320 | new / draft |
 | JLPTLord N2 818 | [滞る](entries/1410/1410920-todokooru.org) | とどこおる | 1410920 | new / draft |
+| JLPTLord N2 820 | [留める](entries/1598/1598820-todomeru.org) | とどめる | 1598820 | new / draft |
+| JLPTLord N2 821 | [収まる](entries/1330/1330490-osamaru.org) | おさまる | 1330490 | new / draft |
+| JLPTLord N2 823 | [治まる](entries/1316/1316820-osamaru.org) | おさまる | 1316820 | new / draft |
+| JLPTLord N2 829 | [見なす](entries/1604/1604630-minasu.org) | みなす | 1604630 | new / draft |
+| JLPTLord N2 831 | [見出す](entries/1259/1259130-miidasu.org) | みいだす | 1259130 | new / draft |
+| JLPTLord N2 832 | [見落とす](entries/1260/1260140-miotosu.org) | みおとす | 1260140 | new / draft |
+| JLPTLord N2 834 | [見守る](entries/1259/1259680-mimamoru.org) | みまもる | 1259680 | new / draft |
+| JLPTLord N2 837 | [打ち切る](entries/1408/1408720-uchikiru.org) | うちきる | 1408720 | new / draft |
+| JLPTLord N2 838 | [打ち込む](entries/1581/1581440-uchikomu.org) | うちこむ | 1581440 | new / draft |
+| JLPTLord N2 841 | [取り扱う](entries/1326/1326540-toriatsukau.org) | とりあつかう | 1326540 | new / draft |
 
 ## Maturity workflow
 
