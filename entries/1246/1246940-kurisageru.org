@@ -1,0 +1,218 @@
+#+TITLE: 繰り下げる
+#+JMDICT_ID: 1246940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くりさげる
+#+ROMAJI: kurisageru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1246940-001
+:PROPERTIES:
+:TEXT: 繰り下げる
+:END:
+*** Priorities
+- news2
+- nf45
+** Written form wf-1246940-002
+:PROPERTIES:
+:TEXT: 繰下げる
+:END:
+** Reading rd-1246940-001
+:PROPERTIES:
+:TEXT: くりさげる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1246940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 36deb24233a3c50b7ff3b04cad5f73477929ebc3718a7e0ce9f4dcb5e0bf803b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to defer
+- to postpone
+- to move down
+** Ukrainian glosses
+*** uk-s-1246940-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: переносити на пізніше; понижувати місце
+** Learner notes
+*** note-s-1246940-001-001
+:PROPERTIES:
+:END:
+- UK :: 繰り下げる щодо графіка означає пересунути час на пізніше: 開始時間を繰り下げる. У списку чи рейтингу може означати перемістити нижче; контекст визначає, чи йдеться про час або порядок. Протилежне 繰り上げる переносить подію раніше або піднімає позицію.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1246940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 開始を三十分繰り下げた。
+- READING :: かいしをさんじゅっぷんくりさげた。
+- UK :: Ми відклали початок на тридцять хвилин.
+- EN :: We moved the start back by thirty minutes.
+- FOCUS :: 繰り下げた
+*** ex-1246940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会議の時間を繰り下げる。
+- READING :: かいぎのじかんをくりさげる。
+- UK :: Ми перенесемо засідання на пізніший час.
+- EN :: We will move the meeting to a later time.
+- FOCUS :: 繰り下げる
+*** ex-1246940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 参加者の到着が遅れたため、説明会の開始を一時間繰り下げた。
+- READING :: さんかしゃのとうちゃくがおくれたため、せつめいかいのかいしをいちじかんくりさげた。
+- UK :: Через запізнення учасників початок інформаційної зустрічі перенесли на годину пізніше.
+- EN :: Because the participants arrived late, the briefing's start was moved back by one hour.
+- FOCUS :: 繰り下げた
+
+* Sense s-1246940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f980d1e022397917270ccdc44894b6969ffc389258f1083aa2d6d94beda97d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1246940-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlegen
+*** en-s-1246940-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufschieben
+*** en-s-1246940-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verschieben
+** Ukrainian glosses
+
+* Sense s-1246940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 506f683dafd51a0100f0adc4eef329bf75167eae09be5807e7e72fb03213d92c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1246940-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herunter legen
+*** en-s-1246940-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herunter bewegen
+** Ukrainian glosses
+
+* Sense s-1246940-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 967f7618c4bf93dc0c82fe6d07b50b7068821f8f910cf780d8e427760fed7ab8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1246940-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhalaszt
+*** en-s-1246940-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: halogat
+*** en-s-1246940-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: késlekedik
+*** en-s-1246940-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: késleltet
+** Ukrainian glosses
+
+* Sense s-1246940-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1169c7dc211338f17a758d7f4c311565ab1cb200f8c657fca39ea31e03867f4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1246940-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) くりのべる
+** Ukrainian glosses
