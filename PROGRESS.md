@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **1340**.
+Completed **50/200** additional distinct words; branch total **1350**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2312,6 +2312,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2355,6 +2356,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 363 | [貨車](entries/1195/1195870-kasha.org) | かしゃ | 1195870 | new / draft |
 | TodayJLPT N2 367 | [歌唱](entries/1193/1193320-kashou.org) | かしょう | 1193320 | new / draft |
 | TodayJLPT N2 369 | [頭文字](entries/1450/1450940-kashiramoji.org) | かしらもじ | 1450940 | new / draft |
+| TodayJLPT N2 375 | [仮想](entries/1187/1187740-kasou.org) | かそう | 1187740 | new / draft |
+| TodayJLPT N2 376 | [仮装](entries/1187/1187790-kasou.org) | かそう | 1187790 | new / draft |
+| TodayJLPT N2 386 | [片目](entries/1511/1511830-katame.org) | かため | 1511830 | new / draft |
+| TodayJLPT N2 404 | [過熱](entries/1196/1196350-kanetsu.org) | かねつ | 1196350 | new / draft |
+| TodayJLPT N2 429 | [川下](entries/1390/1390050-kawashimo.org) | かわしも | 1390050 | new / draft |
+| TodayJLPT N2 433 | [乾季](entries/1590/1590850-kanki.org) | かんき | 1590850 | new / draft |
+| TodayJLPT N2 436 | [観劇](entries/1214/1214820-kangeki.org) | かんげき | 1214820 | new / draft |
+| TodayJLPT N2 439 | [観賞](entries/1214/1214940-kanshou.org) | かんしょう | 1214940 | new / draft |
+| TodayJLPT N2 453 | [寒波](entries/1210/1210520-kanpa.org) | かんぱ | 1210520 | new / draft |
+| TodayJLPT N2 457 | [巻末](entries/1211/1211250-kanmatsu.org) | かんまつ | 1211250 | new / draft |
 
 ## Maturity workflow
 
