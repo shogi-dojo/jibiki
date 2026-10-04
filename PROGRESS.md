@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **1490**.
+Completed **200/200** additional distinct words; branch total **1500**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2327,6 +2327,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2520,6 +2521,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 984 | [巡回](entries/1342/1342070-junkai.org) | じゅんかい | 1342070 | new / draft |
 | TodayJLPT N2 986 | [純金](entries/1341/1341880-junkin.org) | じゅんきん | 1341880 | new / draft |
 | TodayJLPT N2 992 | [順路](entries/1609/1609940-junro.org) | じゅんろ | 1609940 | new / draft |
+| TodayJLPT N2 993 | [上映](entries/1352/1352650-jouei.org) | じょうえい | 1352650 | new / draft |
+| TodayJLPT N2 995 | [少額](entries/1348/1348960-shougaku.org) | しょうがく | 1348960 | new / draft |
+| TodayJLPT N2 996 | [昇格](entries/1349/1349740-shoukaku.org) | しょうかく | 1349740 | new / draft |
+| TodayJLPT N2 1002 | [昇給](entries/1349/1349760-shoukyuu.org) | しょうきゅう | 1349760 | new / draft |
+| TodayJLPT N2 1007 | [将軍](entries/1347/1347680-shougun.org) | しょうぐん | 1347680 | new / draft |
+| TodayJLPT N2 1009 | [小国](entries/1348/1348100-shoukoku.org) | しょうこく | 1348100 | new / draft |
+| TodayJLPT N2 1010 | [賞賛](entries/1594/1594920-shousan.org) | しょうさん | 1594920 | new / draft |
+| TodayJLPT N2 1020 | [小児](entries/1348/1348190-shouni.org) | しょうに | 1348190 | new / draft |
+| TodayJLPT N2 1021 | [小人](entries/1348/1348350-shounin.org) | しょうにん | 1348350 | new / draft |
+| TodayJLPT N2 1030 | [消滅](entries/1350/1350380-shoumetsu.org) | しょうめつ | 1350380 | new / draft |
 
 ## Maturity workflow
 
