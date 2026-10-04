@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **20/100** further distinct words; branch total **520**.
+Completed **30/100** further distinct words; branch total **530**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1233,10 +1233,15 @@ Completed batches passed JMdict validation, Org lint, and doctor 100/100
 with zero errors or warnings. All remain learner drafts awaiting editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
+Selection: 29 remaining/reconciled Wiktionary candidates and 71 candidates
+from [pinned Open Anki N2 source](sources/jlpt-n2/open-anki/README.md).
+N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
+
 | Batch | Candidates | New entries |
 | --- | --- | ---: |
-| 1 | 1608–1618 | 10 |
-| 2 | 1592–1626 | 10 |
+| 1 | N2-1608–N2-1618 | 10 |
+| 2 | N2-1592–N2-1626 | 10 |
+| 3 | N2-1627–N2-S135 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1260,6 +1265,16 @@ The earlier uncommitted 罪 draft is preserved.
 | N2-1624 | [和英](entries/1561/1561970-waei.org) | わえい | 1561970 | new / draft |
 | N2-1625 | [分かれる](entries/1606/1606600-wakareru.org) | わかれる | 1606600 | new / draft |
 | N2-1626 | [若々しい](entries/1606/1606610-wakawakashii.org) | わかわかしい | 1606610 | new / draft |
+| N2-1627 | [湧く](entries/1606/1606685-waku.org) | わく | 1606685 | new / draft |
+| N2-1628 | [詫びる](entries/1606/1606790-wabiru.org) | わびる | 1606790 | new / draft |
+| N2-1629 | [和服](entries/1562/1562190-wafuku.org) | わふく | 1562190 | new / draft |
+| N2-1630 | [割合に](entries/1612/1612360-wariaini.org) | わりあいに | 1612360 | new / draft |
+| N2-1631 | [割り算](entries/1606/1606880-warizan.org) | わりざん | 1606880 | new / draft |
+| N2-1632 | [割と](entries/1983/1983690-warito.org) | わりと | 1983690 | new / draft |
+| N2-1633 | [割引](entries/1606/1606950-waribiki.org) | わりびき | 1606950 | new / draft |
+| N2-1634 | [椀](entries/1562/1562780-wan.org) | わん | 1562780 | new / draft |
+| N2-1635 | [碗](entries/1562/1562840-wan.org) | わん | 1562840 | new / draft |
+| N2-S135 | [朝寝坊](entries/1428/1428410-asanebou.org) | あさねぼう | 1428410 | new / draft |
 
 ## Maturity workflow
 
