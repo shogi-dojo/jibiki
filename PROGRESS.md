@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **80/100** additional distinct words; branch total **780**.
+Completed **90/100** additional distinct words; branch total **790**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1526,6 +1526,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1609,6 +1610,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 2.3.6 | [一口](entries/1162/1162370-hitokuchi.org) | ひとくち | 1162370 | new / draft |
 | JTest 2.3.11 | [渋い](entries/1335/1335540-shibui.org) | しぶい | 1335540 | new / draft |
 | JTest 3.1.20 | [整える](entries/1376/1376140-totonoeru.org) | ととのえる | 1376140 | new / draft |
+| JTest 3.3.4 | [流し](entries/1552/1552100-nagashi.org) | ながし | 1552100 | new / draft |
+| JTest 3.3.12 | [添える](entries/1596/1596490-soeru.org) | そえる | 1596490 | new / draft |
+| JTest 3.4.8 | [素材](entries/1397/1397220-sozai.org) | そざい | 1397220 | new / draft |
+| JTest 3.4.9 | [表示](entries/1489/1489610-hyouji.org) | ひょうじ | 1489610 | new / draft |
+| JTest 3.4.22 | [生臭い](entries/1379/1379110-namagusai.org) | なまぐさい | 1379110 | new / draft |
+| JTest 3.5.1 | [処分](entries/1342/1342490-shobun.org) | しょぶん | 1342490 | new / draft |
+| JTest 4.1.7 | [絶える](entries/1386/1386710-taeru.org) | たえる | 1386710 | new / draft |
+| JTest 4.1.17 | [抽選](entries/1426/1426220-chuusen.org) | ちゅうせん | 1426220 | new / draft |
+| JTest 4.1.18 | [避難](entries/1484/1484660-hinan.org) | ひなん | 1484660 | new / draft |
+| JTest 4.1.20 | [見回る](entries/1641/1641610-mimawaru.org) | みまわる | 1641610 | new / draft |
 
 ## Maturity workflow
 
