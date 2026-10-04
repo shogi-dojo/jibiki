@@ -1,0 +1,602 @@
+#+TITLE: 歪む
+#+JMDICT_ID: 1585360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆがむ
+#+ROMAJI: yugamu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1585360-001
+:PROPERTIES:
+:TEXT: 歪む
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1585360-001
+:PROPERTIES:
+:TEXT: ゆがむ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1585360-002
+:PROPERTIES:
+:TEXT: いがむ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1585360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 018560c3ef1c9dbd08d8f39c8eff2674edbb0b89365ceba7cea5e33c7eb3cd69
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vi
+** English glosses
+- to warp
+- to bend
+- to contort
+** Ukrainian glosses
+*** uk-s-1585360-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: викривлятися; деформуватися; ставати кривим
+** Learner notes
+*** note-s-1585360-001-001
+:PROPERTIES:
+:END:
+- UK :: 歪む — неперехідне дієслово для втрати правильної форми: 枠が歪む, 顔が歪む. Причиною може бути тиск, волога або напружений вираз обличчя. 歪める означає, що хтось викривляє предмет; 歪む описує саму зміну стану. Основне читання тут ゆがむ; JMdict також зберігає いがむ.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1585360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 窓の枠が歪んでいる。
+- READING :: まどのわくがゆがんでいる。
+- UK :: Рама вікна деформована.
+- EN :: The window frame is warped.
+- FOCUS :: 歪んでいる
+*** ex-1585360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 強い力を加えると、薄い板は歪むことがある。
+- READING :: つよいちからをくわえると、うすいいたはゆがむことがある。
+- UK :: Якщо докласти значну силу, тонка пластина може викривитися.
+- EN :: A thin board may warp if strong force is applied.
+- FOCUS :: 歪む
+*** ex-1585360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 湿気で扉が歪んだため、修理する前に周囲の枠にも変形がないか調べた。
+- READING :: しっけでとびらがゆがんだため、しゅうりするまえにしゅういのわくにもへんけいがないかしらべた。
+- UK :: Двері викривилися від вологи, тому перед ремонтом я перевірив, чи не деформувалася також рама.
+- EN :: The door warped from moisture, so I checked the surrounding frame for deformation before repairing it.
+- FOCUS :: 歪んだ
+
+* Sense s-1585360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5816969fd74936e1bbe58cea89129083b096240c83e780de8bacdb98a7a3e9a7
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vi
+** English glosses
+- to be perverted
+- to be warped (of a view, mind, etc.)
+- to be distorted
+- to be cross-grained
+** Ukrainian glosses
+*** uk-s-1585360-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спотворюватися; ставати викривленим у поглядах або змісті
+** Learner notes
+*** note-s-1585360-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносне 歪む описує упереджений погляд, викривлене сприйняття або спотворені відносини: 考え方が歪む, 認識が歪む. Це оцінка відхилення від належного чи збалансованого, а не просто розбіжність думок. 歪める переносно означає активно перекручувати факти чи зміст.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1585360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0700b7b1e0f7fd1684e338772ea3ddf7655ff007eba20877aeb8f4558844a95a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buigen
+*** en-s-1585360-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krommen
+*** en-s-1585360-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kromtrekken
+*** en-s-1585360-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwrongen raken
+*** en-s-1585360-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertrekken
+*** en-s-1585360-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vervormen
+*** en-s-1585360-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {心が} ontaarden
+*** en-s-1585360-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verworden
+** Ukrainian glosses
+
+* Sense s-1585360-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0e72c3867b8ab5e05a9dbeb46daee26f89bc28d6798a7252d746f3f24bb32a77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se déformer
+*** en-s-1585360-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se tordre
+** Ukrainian glosses
+
+* Sense s-1585360-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 03553b2c483f764ce12453ea10936cbcbd9563c96e537e62374024c5afd2b7ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krumm werden
+*** en-s-1585360-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verziehen
+*** en-s-1585360-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verbiegen
+*** en-s-1585360-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verdrehen
+*** en-s-1585360-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verzerren
+*** en-s-1585360-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krumm werden
+*** en-s-1585360-005-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verziehen
+*** en-s-1585360-005-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verbiegen
+*** en-s-1585360-005-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verdrehen
+*** en-s-1585360-005-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verzerren
+*** en-s-1585360-005-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich werfen
+** Ukrainian glosses
+
+* Sense s-1585360-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: fe5b8073e191437242bda009a3e0f99e3dd790c5689f9880446fac40ca47b3e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pervertieren
+*** en-s-1585360-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pervers werden
+*** en-s-1585360-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abweichen
+** Ukrainian glosses
+
+* Sense s-1585360-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 50cc4e18e94557965d8a2b851f3495bf9e66a55c60e0f35cd65c66b7545a04b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megront
+*** en-s-1585360-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vontat
+*** en-s-1585360-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: farol
+*** en-s-1585360-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfarol
+*** en-s-1585360-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldalt kicsúszik
+*** en-s-1585360-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: behajlik
+*** en-s-1585360-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltérít
+*** en-s-1585360-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhajlít
+*** en-s-1585360-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejt
+*** en-s-1585360-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dől
+*** en-s-1585360-007-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ereszkedik
+*** en-s-1585360-007-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ferdít
+*** en-s-1585360-007-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ferdül
+*** en-s-1585360-007-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejtőssé tesz
+*** en-s-1585360-007-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vmilyen beállítást ad vminek
+** Ukrainian glosses
+
+* Sense s-1585360-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a9503aa79be7236db3bca4b091e225beac843a83fee3068304a0652b58803a68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть искривлённым (изогнутым); (обр.) быть искажённым (извращённым)
+** Ukrainian glosses
+
+* Sense s-1585360-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a37a7bbf6dcd9ae4e2451f8dbdbb6949994f199fb7f261fa6b08117370f44263
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zaviti
+*** en-s-1585360-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zaviti v stran
+*** en-s-1585360-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti pokvarjeno
+*** en-s-1585360-009-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odkloniti
+*** en-s-1585360-009-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti izkrivljeno
+*** en-s-1585360-009-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagibati se
+*** en-s-1585360-009-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti popačen
+** Ukrainian glosses
+
+* Sense s-1585360-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: bdcd5f40025fcb8e6621500d33e029f9d4cd0db2c1d68d51ef7845623adda534
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1585360-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distorsionarse
+*** en-s-1585360-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar distorsionado
+** Ukrainian glosses
