@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **2060**.
+Completed **170/200** additional distinct words; branch total **2070**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3099,6 +3099,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3262,6 +3263,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 635 | [難民](entries/1461/1461110-nanmin.org) | なんみん | 1461110 | new / draft |
 | JLPTLord N2 636 | [亡命](entries/1518/1518730-boumei.org) | ぼうめい | 1518730 | new / draft |
 | JLPTLord N2 637 | [領土](entries/1554/1554790-ryoudo.org) | りょうど | 1554790 | new / draft |
+| JLPTLord N2 639 | [主権](entries/1325/1325360-shuken.org) | しゅけん | 1325360 | new / draft |
+| JLPTLord N2 640 | [人権](entries/1367/1367200-jinken.org) | じんけん | 1367200 | new / draft |
+| JLPTLord N2 641 | [参政権](entries/1302/1302470-sanseiken.org) | さんせいけん | 1302470 | new / draft |
+| JLPTLord N2 643 | [地方自治体](entries/1763/1763330-chihoujichitai.org) | ちほうじちたい | 1763330 | new / draft |
+| JLPTLord N2 644 | [都道府県](entries/1445/1445030-todoufuken.org) | とどうふけん | 1445030 | new / draft |
+| JLPTLord N2 645 | [市町村](entries/1308/1308600-shichouson.org) | しちょうそん | 1308600 | new / draft |
+| JLPTLord N2 648 | [人件費](entries/1367/1367180-jinkenhi.org) | じんけんひ | 1367180 | new / draft |
+| JLPTLord N2 650 | [賃金](entries/1431/1431990-chingin.org) | ちんぎん | 1431990 | new / draft |
+| JLPTLord N2 651 | [報酬](entries/1515/1515700-houshuu.org) | ほうしゅう | 1515700 | new / draft |
+| JLPTLord N2 653 | [福利厚生](entries/1826/1826450-fukurikousei.org) | ふくりこうせい | 1826450 | new / draft |
 
 ## Maturity workflow
 
