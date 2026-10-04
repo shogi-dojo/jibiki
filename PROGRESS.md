@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **2760**.
+Completed **70/200** additional distinct words; branch total **2770**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4159,6 +4159,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4222,6 +4223,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2197 | [洞察力](entries/1687/1687840-dousatsuryoku.org) | どうさつりょく | 1687840 | new / draft |
 | JLPTLord N2 2198 | [観察力](entries/1782/1782790-kansatsuryoku.org) | かんさつりょく | 1782790 | new / draft |
 | JLPTLord N2 2199 | [包容力](entries/1515/1515560-houyouryoku.org) | ほうようりょく | 1515560 | new / draft |
+| JLPTLord N2 2200 | [憂鬱](entries/1605/1605640-yuuutsu.org) | ゆううつ | 1605640 | new / draft |
+| JLPTLord N2 2202 | [煩悩](entries/1481/1481980-bonnou.org) | ぼんのう | 1481980 | new / draft |
+| JLPTLord N2 2203 | [懊悩](entries/1643/1643700-ounou.org) | おうのう | 1643700 | new / draft |
+| JLPTLord N2 2204 | [憤り](entries/1857/1857970-ikidoori.org) | いきどおり | 1857970 | new / draft |
+| JLPTLord N2 2205 | [嘆き](entries/1418/1418070-nageki.org) | なげき | 1418070 | new / draft |
+| JLPTLord N2 2207 | [郷愁](entries/1238/1238500-kyoushuu.org) | きょうしゅう | 1238500 | new / draft |
+| JLPTLord N2 2209 | [安堵](entries/1154/1154170-ando.org) | あんど | 1154170 | new / draft |
+| JLPTLord N2 2210 | [歓喜](entries/1212/1212950-kanki.org) | かんき | 1212950 | new / draft |
+| JLPTLord N2 2211 | [陶酔](entries/1450/1450680-tousui.org) | とうすい | 1450680 | new / draft |
+| JLPTLord N2 2212 | [恍惚](entries/1566/1566790-koukotsu.org) | こうこつ | 1566790 | new / draft |
 
 ## Maturity workflow
 
