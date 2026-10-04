@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **1290**.
+Completed **200/200** additional distinct words; branch total **1300**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2070,6 +2070,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2263,6 +2264,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 163 | [永住](entries/1174/1174160-eijuu.org) | えいじゅう | 1174160 | new / draft |
 | TodayJLPT N2 165 | [英訳](entries/1174/1174670-eiyaku.org) | えいやく | 1174670 | new / draft |
 | TodayJLPT N2 166 | [鋭利](entries/1174/1174960-eiri.org) | えいり | 1174960 | new / draft |
+| TodayJLPT N2 177 | [演芸](entries/1176/1176850-engei.org) | えんげい | 1176850 | new / draft |
+| TodayJLPT N2 181 | [炎上](entries/1177/1177120-enjou.org) | えんじょう | 1177120 | new / draft |
+| TodayJLPT N2 183 | [円高](entries/1175/1175820-endaka.org) | えんだか | 1175820 | new / draft |
+| TodayJLPT N2 184 | [円柱](entries/1176/1176010-enchuu.org) | えんちゅう | 1176010 | new / draft |
+| TodayJLPT N2 191 | [欧州](entries/1181/1181190-oushuu.org) | おうしゅう | 1181190 | new / draft |
+| TodayJLPT N2 200 | [大型](entries/1413/1413530-oogata.org) | おおがた | 1413530 | new / draft |
+| TodayJLPT N2 221 | [押し](entries/1180/1180130-oshi.org) | おし | 1180130 | new / draft |
+| TodayJLPT N2 230 | [汚水](entries/1179/1179030-osui.org) | おすい | 1179030 | new / draft |
+| TodayJLPT N2 233 | [落ち](entries/1548/1548530-ochi.org) | おち | 1548530 | new / draft |
+| TodayJLPT N2 259 | [重荷](entries/1579/1579940-omoni.org) | おもに | 1579940 | new / draft |
 
 ## Maturity workflow
 
