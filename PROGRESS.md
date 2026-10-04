@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **2550**.
+Completed **60/200** additional distinct words; branch total **2560**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3887,6 +3887,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3940,6 +3941,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1618 | [織物](entries/1357/1357450-orimono.org) | おりもの | 1357450 | new / draft |
 | JLPTLord N2 1619 | [刺繍](entries/1306/1306540-shishuu.org) | ししゅう | 1306540 | new / draft |
 | JLPTLord N2 1620 | [陶磁器](entries/1450/1450660-toujiki.org) | とうじき | 1450660 | new / draft |
+| JLPTLord N2 1621 | [漆器](entries/1320/1320530-shikki.org) | しっき | 1320530 | new / draft |
+| JLPTLord N2 1622 | [民芸](entries/1528/1528680-mingei.org) | みんげい | 1528680 | new / draft |
+| JLPTLord N2 1623 | [骨董](entries/1288/1288700-kottou.org) | こっとう | 1288700 | new / draft |
+| JLPTLord N2 1627 | [展示](entries/1440/1440610-tenji.org) | てんじ | 1440610 | new / draft |
+| JLPTLord N2 1634 | [歌舞伎](entries/1193/1193420-kabuki.org) | かぶき | 1193420 | new / draft |
+| JLPTLord N2 1635 | [狂言](entries/1237/1237570-kyougen.org) | きょうげん | 1237570 | new / draft |
+| JLPTLord N2 1636 | [落語](entries/1548/1548720-rakugo.org) | らくご | 1548720 | new / draft |
+| JLPTLord N2 1637 | [浮世絵](entries/1497/1497520-ukiyoe.org) | うきよえ | 1497520 | new / draft |
+| JLPTLord N2 1638 | [水墨画](entries/1372/1372080-suibokuga.org) | すいぼくが | 1372080 | new / draft |
+| JLPTLord N2 1639 | [日本画](entries/1464/1464460-nihonga.org) | にほんが | 1464460 | new / draft |
 
 ## Maturity workflow
 
