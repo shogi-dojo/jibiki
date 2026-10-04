@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **1970**.
+Completed **80/200** additional distinct words; branch total **1980**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3090,6 +3090,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3163,6 +3164,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 438 | [誘因](entries/1541/1541920-yuuin.org) | ゆういん | 1541920 | new / draft |
 | JLPTLord N2 440 | [衝撃](entries/1351/1351510-shougeki.org) | しょうげき | 1351510 | new / draft |
 | JLPTLord N2 441 | [反響](entries/1480/1480310-hankyou.org) | はんきょう | 1480310 | new / draft |
+| JLPTLord N2 442 | [波紋](entries/1471/1471090-hamon.org) | はもん | 1471090 | new / draft |
+| JLPTLord N2 443 | [余波](entries/1544/1544470-yoha.org) | よは | 1544470 | new / draft |
+| JLPTLord N2 445 | [弊害](entries/1508/1508270-heigai.org) | へいがい | 1508270 | new / draft |
+| JLPTLord N2 448 | [葛藤](entries/1208/1208780-kattou.org) | かっとう | 1208780 | new / draft |
+| JLPTLord N2 449 | [軋轢](entries/1573/1573460-atsureki.org) | あつれき | 1573460 | new / draft |
+| JLPTLord N2 450 | [相関](entries/1400/1400860-soukan.org) | そうかん | 1400860 | new / draft |
+| JLPTLord N2 451 | [因果](entries/1168/1168680-inga.org) | いんが | 1168680 | new / draft |
+| JLPTLord N2 453 | [連動](entries/1559/1559710-rendou.org) | れんどう | 1559710 | new / draft |
+| JLPTLord N2 454 | [連鎖](entries/1559/1559490-rensa.org) | れんさ | 1559490 | new / draft |
+| JLPTLord N2 456 | [均衡](entries/1241/1241270-kinkou.org) | きんこう | 1241270 | new / draft |
 
 ## Maturity workflow
 
