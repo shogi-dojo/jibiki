@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **1040**.
+Completed **150/200** additional distinct words; branch total **1050**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1812,6 +1812,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1955,6 +1956,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 10.2.16 | [未だに](entries/1527/1527140-imadani.org) | いまだに | 1527140 | new / draft |
 | JTest 10.2.17 | [不明](entries/1495/1495060-fumei.org) | ふめい | 1495060 | new / draft |
 | JTest 10.2.19 | [誤る](entries/1271/1271300-ayamaru.org) | あやまる | 1271300 | new / draft |
+| JTest 10.2.25 | [火災](entries/1193/1193880-kasai.org) | かさい | 1193880 | new / draft |
+| JTest 10.2.26 | [消防車](entries/1350/1350360-shoubousha.org) | しょうぼうしゃ | 1350360 | new / draft |
+| JTest 10.3.1 | [政策](entries/1375/1375950-seisaku.org) | せいさく | 1375950 | new / draft |
+| JTest 10.3.4 | [掲げる](entries/1250/1250600-kakageru.org) | かかげる | 1250600 | new / draft |
+| JTest 10.3.7 | [発言](entries/1477/1477350-hatsugen.org) | はつげん | 1477350 | new / draft |
+| JTest 10.3.13 | [選挙](entries/1392/1392190-senkyo.org) | せんきょ | 1392190 | new / draft |
+| JTest 10.3.15 | [支持](entries/1310/1310150-shiji.org) | しじ | 1310150 | new / draft |
+| JTest 10.3.28 | [非難](entries/1483/1483410-hinan.org) | ひなん | 1483410 | new / draft |
+| JTest 10.4.5 | [復興](entries/1500/1500750-fukkou.org) | ふっこう | 1500750 | new / draft |
+| JTest 10.4.11 | [上回る](entries/1352/1352770-uwamawaru.org) | うわまわる | 1352770 | new / draft |
 
 ## Maturity workflow
 
