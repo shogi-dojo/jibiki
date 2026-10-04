@@ -1,0 +1,245 @@
+#+TITLE: 病原
+#+JMDICT_ID: 1490270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: びょうげん
+#+ROMAJI: byougen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490270-001
+:PROPERTIES:
+:TEXT: 病原
+:END:
+*** Priorities
+- news2
+- nf38
+** Written form wf-1490270-002
+:PROPERTIES:
+:TEXT: 病源
+:END:
+** Reading rd-1490270-001
+:PROPERTIES:
+:TEXT: びょうげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1490270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 819cde5e93bae0419885fd16c39b18c44d39cbe9ad0869c6f2bd167e79316ce7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- origin of an illness
+- cause of a disease
+- pathogenesis
+- etiology
+** Ukrainian glosses
+*** uk-s-1490270-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: походження хвороби; причина захворювання
+** Learner notes
+*** note-s-1490270-001-001
+:PROPERTIES:
+:END:
+- UK :: 病原 називає причину або джерело хвороби, часто у складених термінах 病原体, 病原菌. Не сам пацієнт 病人 і не лікарня 病院. 病原体 конкретніше називає патоген; 病原 ширше стосується походження чи причини, яку визначає опис дослідження.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1490270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 病原を調べる研究だ。
+- READING :: びょうげんをしらべるけんきゅうだ。
+- UK :: Це дослідження причини хвороби.
+- EN :: It is research into the cause of a disease.
+- FOCUS :: 病原
+*** ex-1490270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 病原体という言葉を覚えた。
+- READING :: びょうげんたいということばをおぼえた。
+- UK :: Я вивчив слово «патоген».
+- EN :: I learned the word pathogen.
+- FOCUS :: 病原
+*** ex-1490270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 資料には病原についての説明があり、関連する用語を確認できた。
+- READING :: しりょうにはびょうげんについてのせつめいがあり、かんれんするようごをかくにんできた。
+- UK :: У матеріалах було пояснення походження хвороби, тож я зміг уточнити пов'язані терміни.
+- EN :: The materials explained the cause of the disease, allowing me to check related terms.
+- FOCUS :: 病原
+
+* Sense s-1490270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f0e859016b0c47085b7a9cc286a164a7c83e0247f15d77b1ebb751fe0f33f967
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490270-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} ziekteoorzaak
+*** en-s-1490270-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oorzaak van een ziekte
+*** en-s-1490270-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etiologie
+*** en-s-1490270-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ziekteverwekker
+*** en-s-1490270-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ziekmaker
+*** en-s-1490270-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pathogeen
+** Ukrainian glosses
+
+* Sense s-1490270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 02a327de72692de350241afad7f624381c1ae3a804dae8c4a19a36f8998ba59d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490270-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} ziektehaard
+*** en-s-1490270-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiem
+** Ukrainian glosses
+
+* Sense s-1490270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3d9accc0b21d90ea05cdc672168d12e91f6d16b15e7159e1ad2a7ea756969507
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490270-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krankheitsherd
+*** en-s-1490270-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krankheitsursache
+** Ukrainian glosses
+
+* Sense s-1490270-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2bee0081aac35b01421676750a6bb65d7c112070e46964bb9f1cb3c2956b2bfa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490270-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: причина болезни; (мед.) патогенез
+** Ukrainian glosses
+
+* Sense s-1490270-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 600f48a62ec93eeceb22f78ad9b4bbc565b46c9fc17dfc1dbfa1d6826c3208e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490270-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sjukdomsorsak
+** Ukrainian glosses
