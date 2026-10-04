@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **1080**.
+Completed **190/200** additional distinct words; branch total **1090**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1816,6 +1816,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1999,6 +2000,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 11.1.12 | [人見知り](entries/1367/1367260-hitomishiri.org) | ひとみしり | 1367260 | new / draft |
 | JTest 11.1.13 | [おく病](entries/1182/1182790-okubyou.org) | おくびょう | 1182790 | new / draft |
 | JTest 11.1.18 | [ねばり強い](entries/1469/1469690-nebarizuyoi.org) | ねばりづよい | 1469690 | new / draft |
+| JTest 11.1.22 | [短気](entries/1418/1418670-tanki.org) | たんき | 1418670 | new / draft |
+| JTest 11.1.27 | [乗り](entries/1354/1354720-nori.org) | のり | 1354720 | new / draft |
+| JTest 11.1.29 | [反面](entries/1481/1481000-hanmen.org) | はんめん | 1481000 | new / draft |
+| JTest 11.2.2 | [快い](entries/1199/1199970-kokoroyoi.org) | こころよい | 1199970 | new / draft |
+| JTest 11.2.3 | [心地よい](entries/1360/1360830-kokochiyoi.org) | ここちよい | 1360830 | new / draft |
+| JTest 11.2.7 | [心強い](entries/1360/1360640-kokorozuyoi.org) | こころづよい | 1360640 | new / draft |
+| JTest 11.2.9 | [前向き](entries/1392/1392970-maemuki.org) | まえむき | 1392970 | new / draft |
+| JTest 11.2.18 | [気分転換](entries/1222/1222610-kibuntenkan.org) | きぶんてんかん | 1222610 | new / draft |
+| JTest 11.3.4 | [心細い](entries/1360/1360680-kokorobosoi.org) | こころぼそい | 1360680 | new / draft |
+| JTest 11.3.5 | [弱気](entries/1324/1324710-yowaki.org) | よわき | 1324710 | new / draft |
 
 ## Maturity workflow
 
