@@ -2812,6 +2812,37 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1896 | [部署](entries/1603/1603140-busho.org) | ぶしょ | 1603140 | new / draft |
 | TodayJLPT N2 1902 | [復帰](entries/1500/1500720-fukki.org) | ふっき | 1500720 | new / draft |
 
+## Final 1900-word branch N2 continuation (2026-10-04)
+
+Baseline: `f1b16094`, with **1700** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **1710**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 1903 | [仏教](entries/1501/1501930-bukkyou.org) | ぶっきょう | 1501930 | new / draft |
+| TodayJLPT N2 1904 | [仏語](entries/1501/1501970-futsugo.org) | ふつご | 1501970 | new / draft |
+| TodayJLPT N2 1908 | [不能](entries/1494/1494540-funou.org) | ふのう | 1494540 | new / draft |
+| TodayJLPT N2 1914 | [舞踊](entries/1499/1499220-buyou.org) | ぶよう | 1499220 | new / draft |
+| TodayJLPT N2 1935 | [文庫](entries/1505/1505340-bunko.org) | ぶんこ | 1505340 | new / draft |
+| TodayJLPT N2 1958 | [変換](entries/1510/1510950-henkan.org) | へんかん | 1510950 | new / draft |
+| TodayJLPT N2 1961 | [編成](entries/1512/1512040-hensei.org) | へんせい | 1512040 | new / draft |
+| TodayJLPT N2 1970 | [防御](entries/1520/1520330-bougyo.org) | ぼうぎょ | 1520330 | new / draft |
+| TodayJLPT N2 1975 | [防水](entries/1520/1520490-bousui.org) | ぼうすい | 1520490 | new / draft |
+| TodayJLPT N2 1977 | [暴走](entries/1519/1519480-bousou.org) | ぼうそう | 1519480 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
