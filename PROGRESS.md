@@ -1502,6 +1502,37 @@ remains uncommitted.
 | JTest 1.5.26 | [追い出す](entries/1432/1432350-oidasu.org) | おいだす | 1432350 | new / draft |
 | JTest 1.5.27 | [仲間外れ](entries/1425/1425800-nakamahazure.org) | なかまはずれ | 1425800 | new / draft |
 
+## Next JTest 100-word N2 continuation (2026-10-04)
+
+Baseline: `91af692d`, with **700** new translated words on this branch.
+Completed **10/100** additional distinct words; branch total **710**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 2.1.2 | [賃貸](entries/1432/1432030-chintai.org) | ちんたい | 1432030 | new / draft |
+| JTest 2.1.3 | [敷金](entries/1497/1497040-shikikin.org) | しききん | 1497040 | new / draft |
+| JTest 2.1.4 | [更新](entries/1279/1279370-koushin.org) | こうしん | 1279370 | new / draft |
+| JTest 2.1.7 | [一戸建て](entries/1162/1162320-ikkodate.org) | いっこだて | 1162320 | new / draft |
+| JTest 2.1.14 | [間取り](entries/1215/1215490-madori.org) | まどり | 1215490 | new / draft |
+| JTest 2.1.15 | [空間](entries/1245/1245450-kuukan.org) | くうかん | 1245450 | new / draft |
+| JTest 2.1.18 | [南向き](entries/1460/1460290-minamimuki.org) | みなみむき | 1460290 | new / draft |
+| JTest 2.1.19 | [温もり](entries/1183/1183330-nukumori.org) | ぬくもり | 1183330 | new / draft |
+| JTest 2.1.21 | [点検](entries/1441/1441540-tenken.org) | てんけん | 1441540 | new / draft |
+| JTest 2.1.27 | [新築](entries/1362/1362160-shinchiku.org) | しんちく | 1362160 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
