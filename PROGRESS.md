@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **1220**.
+Completed **130/200** additional distinct words; branch total **1230**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2063,6 +2063,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2186,6 +2187,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 133 | [新](entries/1361/1361480-shin.org) | しん | 1361480 | new / draft |
 | Kotoba N2 134 | [新人](entries/1361/1361960-shinjin.org) | しんじん | 1361960 | new / draft |
 | Kotoba N2 135 | [神聖](entries/1364/1364730-shinsei.org) | しんせい | 1364730 | new / draft |
+| Kotoba N2 136 | [進路](entries/1366/1366200-shinro.org) | しんろ | 1366200 | new / draft |
+| Kotoba N2 149 | [生死](entries/1379/1379060-seishi.org) | せいし | 1379060 | new / draft |
+| Kotoba N2 150 | [聖書](entries/1380/1380340-seisho.org) | せいしょ | 1380340 | new / draft |
+| Kotoba N2 151 | [正当](entries/1377/1377660-seitou.org) | せいとう | 1377660 | new / draft |
+| Kotoba N2 152 | [戦闘](entries/1390/1390420-sentou.org) | せんとう | 1390420 | new / draft |
+| Kotoba N2 154 | [捜索](entries/1399/1399690-sousaku.org) | そうさく | 1399690 | new / draft |
+| Kotoba N2 158 | [態勢](entries/1410/1410770-taisei.org) | たいせい | 1410770 | new / draft |
+| Kotoba N2 165 | [第一](entries/1415/1415270-daiichi.org) | だいいち | 1415270 | new / draft |
+| Kotoba N2 168 | [中傷](entries/1424/1424500-chuushou.org) | ちゅうしょう | 1424500 | new / draft |
+| Kotoba N2 169 | [次いで](entries/1316/1316390-tsuide.org) | ついで | 1316390 | new / draft |
 
 ## Maturity workflow
 
