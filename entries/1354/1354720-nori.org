@@ -1,0 +1,533 @@
+#+TITLE: 乗り
+#+JMDICT_ID: 1354720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のり
+#+ROMAJI: nori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1354720-001
+:PROPERTIES:
+:TEXT: 乗り
+:END:
+*** Priorities
+- news1
+- nf07
+** Reading rd-1354720-001
+:PROPERTIES:
+:TEXT: のり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf07
+** Reading rd-1354720-002
+:PROPERTIES:
+:TEXT: ノリ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1354720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 364c3c17b928a243a890d7d7dc8597b36d09173f896f9763b0f5ea199e767fa4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- riding
+- ride
+** Ukrainian glosses
+*** uk-s-1354720-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: їзда; катання; спосіб їзди
+** Learner notes
+*** note-s-1354720-001-001
+:PROPERTIES:
+:END:
+- UK :: 乗り — іменникова форма від 乗る і компонент назв способу їзди: 馬乗り. Це значення стосується перебування на транспорті або іншому об'єкті; його відрізняють від розмовного настрою ノリ за контекстом.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1354720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f41df875321896b4a8e8e31d37f12cb696e1aa9e645a239eef6f9b1a145a5036
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- spread (of paints)
+** Ukrainian glosses
+*** uk-s-1354720-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лягання фарби; нанесення покриття
+** Learner notes
+*** note-s-1354720-002-001
+:PROPERTIES:
+:END:
+- UK :: У описі фарби 乗り позначає те, як вона лягає на поверхню: 塗料の乗りが良い. Це спеціальне предметне значення, не настрій людини; слово оцінює нанесення або розподіл матеріалу на основі.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1354720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 79076e61e384ade67de3cecbc093edd294ca75419763861a7cf03d9e4af10acc
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- -seater (e.g. two-seater)
+** Ukrainian glosses
+*** uk-s-1354720-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: місткість для певної кількості пасажирів
+** Learner notes
+*** note-s-1354720-003-001
+:PROPERTIES:
+:END:
+- UK :: Після числа й 人 компонент -人乗り описує, на скільки людей розрахований транспорт: 二人乗り. Тут 乗り — частина позначення місткості, а не окрема поїздка; відповідне число не обов'язково є кількістю пасажирів саме зараз.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1354720-004
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8c05c6d1189694dd790b4dd41c0a85170cd15339dab9a1553b3677b0d9713fbf
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Sense information
+- esp. ノリ. possibly from 気乗り
+** English glosses
+- (getting into the) mood
+- (entering into the) spirit
+- energy
+- enthusiasm
+- rhythm
+- feeling
+** Ukrainian glosses
+*** uk-s-1354720-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: настрій; запал; відчуття ритму; захопленість
+** Learner notes
+*** note-s-1354720-004-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне 乗り, часто ノリ, описує енергію або готовність включитися в спільний настрій: 乗りが良い・乗りが悪い. У музиці також передає відчуття ритму; це не буквальна їзда й не обов'язково стабільна риса характеру.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1354720-004-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は皆の乗りが良い。
+- READING :: きょうはみなののりがよい。
+- UK :: Сьогодні всі охоче підхоплюють спільний настрій.
+- EN :: Everyone is in good spirits and joining in today.
+- FOCUS :: 乗り
+*** ex-1354720-004-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 友人の乗りの良さに助けられ、会が楽しくなった。
+- READING :: ゆうじんののりのよさにたすけられ、かいがたのしくなった。
+- UK :: Запал друга допоміг зробити зустріч веселою.
+- EN :: My friend's enthusiasm helped make the gathering enjoyable.
+- FOCUS :: 乗り
+*** ex-1354720-004-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 音楽に合わせた乗りを楽しむ人もいれば、静かに聞くことを好む人もいる。
+- READING :: おんがくにあわせたのりをたのしむひともいれば、しずかにきくことをこのむひともいる。
+- UK :: Одним подобається підхоплювати ритм музики, а інші воліють слухати спокійно.
+- EN :: Some people enjoy getting into the rhythm of the music, while others prefer listening quietly.
+- FOCUS :: 乗り
+
+
+* Sense s-1354720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7d9cdf642b45e63ee1f255540b12109bbc5e81e36414abbcb86c885046918f59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het stappen op
+*** en-s-1354720-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het betreden
+*** en-s-1354720-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rit
+** Ukrainian glosses
+
+* Sense s-1354720-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e9eafa34abbc1205d5537565a3610af94f7465ffc0cf9d3e51639d2291fc1591
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het in het ritme
+*** en-s-1354720-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in de mood komen
+*** en-s-1354720-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het in vervoering raken
+** Ukrainian glosses
+
+* Sense s-1354720-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 58fff7490afe945b66d5a006bc7cc237f4550eaf79ecf5dda30e007eb93779a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {化粧の} uitsmeerbaarheid
+*** en-s-1354720-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {魚の} vettigheid
+** Ukrainian glosses
+
+* Sense s-1354720-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 06132a3210334973b5c40f2d9dc04c3df057a88a60494ff9db07c121d6619524
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nō-theater} nori {= ritme}
+** Ukrainian glosses
+
+* Sense s-1354720-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 150a401c3e4c5cdca18858f56d8b03ceaf009e07d8711122e37262d63367e097
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {kabuki
+*** en-s-1354720-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jōruri} declamatie op het ritme van de shamisen
+** Ukrainian glosses
+
+* Sense s-1354720-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 1f0ded4f109674e326055febddd2ac2389c87b176be44e4f1f76c828f2169729
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeenschappelijke pot
+*** en-s-1354720-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pool
+*** en-s-1354720-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pooling
+** Ukrainian glosses
+
+* Sense s-1354720-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 74575ee98374f2b7d2f0f8bf8fcaf6fe1651bdf4e333ee8b0bbd84b97be766cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {maatwoord voor zit- en staanplaatsen in een transportmiddel}
+** Ukrainian glosses
+
+* Sense s-1354720-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 867dd1168241394f1616cb6593a157fdace36a5761f8a7d7071193c2f3594a93
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: …sitzer
+** Ukrainian glosses
+
+* Sense s-1354720-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 7a6b93b34ddfe00e76fb212d644ae3fe643636fecd9e92220c65e907ffae8fdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verteilen
+*** en-s-1354720-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verstreichen
+** Ukrainian glosses
+
+* Sense s-1354720-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 42ec3e2a33baf19e32271a49766ab7a02b9b909c99f9be86c69aa483f6a4db88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kocsikázás
+*** en-s-1354720-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: út
+*** en-s-1354720-014-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiterjesztés
+*** en-s-1354720-014-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: takaró
+*** en-s-1354720-014-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terjedelem
+*** en-s-1354720-014-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terjedés
+*** en-s-1354720-014-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rosszkedv
+** Ukrainian glosses
+
+* Sense s-1354720-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 2b4dbebfbb9a856061939b60134053fb321cf0261dd6ef27fa867d1b640ea91c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1354720-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) компания, группа
+*** en-s-1354720-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} в компании, вместе
+*** en-s-1354720-015-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) распространение; оседание; окрашивание
+*** en-s-1354720-015-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : 一人乗りの одноместный
+** Ukrainian glosses
