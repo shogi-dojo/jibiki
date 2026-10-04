@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **10/100** additional distinct entries; branch total **410**.
+Completed **20/100** additional distinct entries; branch total **420**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1102,6 +1102,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | Batch | Queue rows | New entries |
 | --- | --- | ---: |
 | 1 | N2-1506–1515 | 10 |
+| 2 | N2-1516–1525 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1115,6 +1116,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1513 | [餅](entries/1535/1535790-mochi.org) | もち | 1535790 | new / draft |
 | N2-1514 | [勿体ない](entries/1605/1605250-mottainai.org) | もったいない | 1605250 | new / draft |
 | N2-1515 | [モデル](entries/1135/1135270-moderu.org) | モデル | 1135270 | new / draft |
+| N2-1516 | [元々](entries/1605/1605280-motomoto.org) | もともと | 1605280 | new / draft |
+| N2-1517 | [物置](entries/1502/1502690-monooki.org) | ものおき | 1502690 | new / draft |
+| N2-1518 | [物語る](entries/1502/1502490-monogataru.org) | ものがたる | 1502490 | new / draft |
+| N2-1519 | [物差し](entries/1502/1502530-monosashi.org) | ものさし | 1502530 | new / draft |
+| N2-1520 | [物凄い](entries/1502/1502630-monosugoi.org) | ものすごい | 1502630 | new / draft |
+| N2-1521 | [モノレール](entries/1135/1135680-monoreeru.org) | モノレール | 1135680 | new / draft |
+| N2-1522 | [揉む](entries/1567/1567610-momu.org) | もむ | 1567610 | new / draft |
+| N2-1523 | [燃やす](entries/1582/1582900-moyasu.org) | もやす | 1582900 | new / draft |
+| N2-1524 | [催し](entries/1292/1292140-moyooshi.org) | もよおし | 1292140 | new / draft |
+| N2-1525 | [盛る](entries/1379/1379740-moru.org) | もる | 1379740 | new / draft |
 
 ## Maturity workflow
 
