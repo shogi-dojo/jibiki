@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **80/100** additional distinct words; branch total **880**.
+Completed **90/100** additional distinct words; branch total **890**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1666,6 +1666,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1749,6 +1750,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 6.1.14 | [協調](entries/1235/1235700-kyouchou.org) | きょうちょう | 1235700 | new / draft |
 | JTest 6.1.16 | [精一杯](entries/1379/1379870-seiippai.org) | せいいっぱい | 1379870 | new / draft |
 | JTest 6.1.18 | [対応](entries/1409/1409840-taiou.org) | たいおう | 1409840 | new / draft |
+| JTest 6.1.20 | [望ましい](entries/1519/1519610-nozomashii.org) | のぞましい | 1519610 | new / draft |
+| JTest 6.1.21 | [好ましい](entries/1277/1277490-konomashii.org) | このましい | 1277490 | new / draft |
+| JTest 6.1.25 | [内定](entries/1458/1458920-naitei.org) | ないてい | 1458920 | new / draft |
+| JTest 6.1.26 | [辞退](entries/1318/1318990-jitai.org) | じたい | 1318990 | new / draft |
+| JTest 6.1.30 | [社会人](entries/1322/1322770-shakaijin.org) | しゃかいじん | 1322770 | new / draft |
+| JTest 6.1.31 | [自覚](entries/1317/1317490-jikaku.org) | じかく | 1317490 | new / draft |
+| JTest 6.2.1 | [大企業](entries/1413/1413300-daikigyou.org) | だいきぎょう | 1413300 | new / draft |
+| JTest 6.2.2 | [大手](entries/1414/1414010-oote.org) | おおて | 1414010 | new / draft |
+| JTest 6.2.6 | [従業員](entries/1335/1335250-juugyouin.org) | じゅうぎょういん | 1335250 | new / draft |
+| JTest 6.2.7 | [新入社員](entries/1362/1362250-shinnyuushain.org) | しんにゅうしゃいん | 1362250 | new / draft |
 
 ## Maturity workflow
 
