@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **1690**.
+Completed **200/200** additional distinct words; branch total **1700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2584,6 +2584,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2777,6 +2778,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1851 | [秒速](entries/1490/1490450-byousoku.org) | びょうそく | 1490450 | new / draft |
 | TodayJLPT N2 1861 | [貧血](entries/1490/1490800-hinketsu.org) | ひんけつ | 1490800 | new / draft |
 | TodayJLPT N2 1862 | [品詞](entries/1490/1490570-hinshi.org) | ひんし | 1490570 | new / draft |
+| TodayJLPT N2 1865 | [負](entries/1497/1497920-fu.org) | ふ | 1497920 | new / draft |
+| TodayJLPT N2 1869 | [負荷](entries/1498/1498060-fuka.org) | ふか | 1498060 | new / draft |
+| TodayJLPT N2 1870 | [不快](entries/1491/1491570-fukai.org) | ふかい | 1491570 | new / draft |
+| TodayJLPT N2 1872 | [吹き込む](entries/1370/1370590-fukikomu.org) | ふきこむ | 1370590 | new / draft |
+| TodayJLPT N2 1876 | [副業](entries/1500/1500380-fukugyou.org) | ふくぎょう | 1500380 | new / draft |
+| TodayJLPT N2 1877 | [復元](entries/1500/1500770-fukugen.org) | ふくげん | 1500770 | new / draft |
+| TodayJLPT N2 1886 | [府県](entries/1496/1496900-fuken.org) | ふけん | 1496900 | new / draft |
+| TodayJLPT N2 1895 | [不純](entries/1492/1492790-fujun.org) | ふじゅん | 1492790 | new / draft |
+| TodayJLPT N2 1896 | [部署](entries/1603/1603140-busho.org) | ぶしょ | 1603140 | new / draft |
+| TodayJLPT N2 1902 | [復帰](entries/1500/1500720-fukki.org) | ふっき | 1500720 | new / draft |
 
 ## Maturity workflow
 
