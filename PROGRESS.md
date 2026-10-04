@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **2030**.
+Completed **140/200** additional distinct words; branch total **2040**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3096,6 +3096,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3229,6 +3230,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 565 | [損失](entries/1406/1406750-sonshitsu.org) | そんしつ | 1406750 | new / draft |
 | JLPTLord N2 567 | [賠償](entries/1474/1474110-baishou.org) | ばいしょう | 1474110 | new / draft |
 | JLPTLord N2 569 | [法人](entries/1517/1517310-houjin.org) | ほうじん | 1517310 | new / draft |
+| JLPTLord N2 570 | [事業](entries/1313/1313670-jigyou.org) | じぎょう | 1313670 | new / draft |
+| JLPTLord N2 574 | [林業](entries/1555/1555470-ringyou.org) | りんぎょう | 1555470 | new / draft |
+| JLPTLord N2 575 | [鉱業](entries/1282/1282560-kougyou.org) | こうぎょう | 1282560 | new / draft |
+| JLPTLord N2 581 | [市場](entries/1308/1308305-shijou.org) | しじょう | 1308305 | new / draft |
+| JLPTLord N2 584 | [卸売](entries/1589/1589540-oroshiuri.org) | おろしうり | 1589540 | new / draft |
+| JLPTLord N2 585 | [小売](entries/1593/1593050-kouri.org) | こうり | 1593050 | new / draft |
+| JLPTLord N2 588 | [消費者](entries/1350/1350300-shouhisha.org) | しょうひしゃ | 1350300 | new / draft |
+| JLPTLord N2 595 | [定年](entries/1435/1435740-teinen.org) | ていねん | 1435740 | new / draft |
+| JLPTLord N2 601 | [高齢化](entries/2086/2086740-koureika.org) | こうれいか | 2086740 | new / draft |
+| JLPTLord N2 602 | [過疎](entries/1196/1196220-kaso.org) | かそ | 1196220 | new / draft |
 
 ## Maturity workflow
 
