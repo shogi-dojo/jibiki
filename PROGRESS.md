@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **70/100** additional distinct words; branch total **670**.
+Completed **80/100** additional distinct words; branch total **680**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1386,6 +1386,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1459,6 +1460,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 1.2.9 | [見習う](entries/1259/1259700-minarau.org) | みならう | 1259700 | new / draft |
 | JTest 1.2.10 | [打ち明ける](entries/1588/1588130-uchiakeru.org) | うちあける | 1588130 | new / draft |
 | JTest 1.2.11 | [励ます](entries/1557/1557350-hagemasu.org) | はげます | 1557350 | new / draft |
+| JTest 1.2.14 | [察する](entries/1298/1298740-sassuru.org) | さっする | 1298740 | new / draft |
+| JTest 1.2.15 | [思いやり](entries/1309/1309180-omoiyari.org) | おもいやり | 1309180 | new / draft |
+| JTest 1.2.16 | [何気ない](entries/1599/1599570-nanigenai.org) | なにげない | 1599570 | new / draft |
+| JTest 1.2.18 | [幹事](entries/1212/1212110-kanji.org) | かんじ | 1212110 | new / draft |
+| JTest 1.2.20 | [盛り上がる](entries/1379/1379690-moriagaru.org) | もりあがる | 1379690 | new / draft |
+| JTest 1.2.23 | [久しい](entries/1227/1227340-hisashii.org) | ひさしい | 1227340 | new / draft |
+| JTest 1.3.1 | [初対面](entries/1342/1342890-shotaimen.org) | しょたいめん | 1342890 | new / draft |
+| JTest 1.3.2 | [自己紹介](entries/1317/1317650-jikoshoukai.org) | じこしょうかい | 1317650 | new / draft |
+| JTest 1.3.6 | [飼い主](entries/1589/1589720-kainushi.org) | かいぬし | 1589720 | new / draft |
+| JTest 1.3.7 | [交わす](entries/1590/1590750-kawasu.org) | かわす | 1590750 | new / draft |
 
 ## Maturity workflow
 
