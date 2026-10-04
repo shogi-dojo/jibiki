@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **1950**.
+Completed **60/200** additional distinct words; branch total **1960**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3088,6 +3088,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3141,6 +3142,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 410 | [源泉](entries/1263/1263380-gensen.org) | げんせん | 1263380 | new / draft |
 | JLPTLord N2 411 | [出所](entries/1580/1580030-shussho.org) | しゅっしょ | 1580030 | new / draft |
 | JLPTLord N2 412 | [出典](entries/1339/1339790-shutten.org) | しゅってん | 1339790 | new / draft |
+| JLPTLord N2 414 | [模範](entries/1533/1533690-mohan.org) | もはん | 1533690 | new / draft |
+| JLPTLord N2 415 | [手本](entries/1328/1328390-tehon.org) | てほん | 1328390 | new / draft |
+| JLPTLord N2 418 | [指標](entries/1309/1309990-shihyou.org) | しひょう | 1309990 | new / draft |
+| JLPTLord N2 421 | [土台](entries/1445/1445450-dodai.org) | どだい | 1445450 | new / draft |
+| JLPTLord N2 422 | [礎](entries/1396/1396770-ishizue.org) | いしずえ | 1396770 | new / draft |
+| JLPTLord N2 423 | [柱](entries/1426/1426480-hashira.org) | はしら | 1426480 | new / draft |
+| JLPTLord N2 424 | [要](entries/1609/1609600-kaname.org) | かなめ | 1609600 | new / draft |
+| JLPTLord N2 425 | [核](entries/1205/1205510-kaku.org) | かく | 1205510 | new / draft |
+| JLPTLord N2 426 | [中核](entries/1597/1597540-chuukaku.org) | ちゅうかく | 1597540 | new / draft |
+| JLPTLord N2 427 | [主体](entries/1325/1325840-shutai.org) | しゅたい | 1325840 | new / draft |
 
 ## Maturity workflow
 
