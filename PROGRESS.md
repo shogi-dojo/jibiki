@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **2310**.
+Completed **20/200** additional distinct words; branch total **2320**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3613,6 +3613,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3626,6 +3627,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1123 | [排他的](entries/1472/1472430-haitateki.org) | はいたてき | 1472430 | new / draft |
 | JLPTLord N2 1124 | [壮大](entries/1399/1399430-soudai.org) | そうだい | 1399430 | new / draft |
 | JLPTLord N2 1127 | [過大](entries/1196/1196250-kadai.org) | かだい | 1196250 | new / draft |
+| JLPTLord N2 1128 | [過小](entries/1196/1196140-kashou.org) | かしょう | 1196140 | new / draft |
+| JLPTLord N2 1130 | [微細](entries/1485/1485930-bisai.org) | びさい | 1485930 | new / draft |
+| JLPTLord N2 1131 | [些細](entries/1290/1290680-sasai.org) | ささい | 1290680 | new / draft |
+| JLPTLord N2 1132 | [多大](entries/1407/1407900-tadai.org) | ただい | 1407900 | new / draft |
+| JLPTLord N2 1134 | [強大](entries/1236/1236450-kyoudai.org) | きょうだい | 1236450 | new / draft |
+| JLPTLord N2 1136 | [寛大](entries/1211/1211960-kandai.org) | かんだい | 1211960 | new / draft |
+| JLPTLord N2 1137 | [甚大](entries/1370/1370040-jindai.org) | じんだい | 1370040 | new / draft |
+| JLPTLord N2 1142 | [不可欠](entries/1491/1491400-fukaketsu.org) | ふかけつ | 1491400 | new / draft |
+| JLPTLord N2 1143 | [不可能](entries/1491/1491520-fukanou.org) | ふかのう | 1491520 | new / draft |
+| JLPTLord N2 1145 | [漠然](entries/1475/1475790-bakuzen.org) | ばくぜん | 1475790 | new / draft |
 
 ## Maturity workflow
 
