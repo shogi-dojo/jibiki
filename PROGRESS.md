@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **2590**.
+Completed **100/200** additional distinct words; branch total **2600**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3891,6 +3891,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3984,6 +3985,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1673 | [御札](entries/1693/1693960-ofuda.org) | おふだ | 1693960 | new / draft |
 | JLPTLord N2 1674 | [鳥居](entries/1430/1430280-torii.org) | とりい | 1430280 | new / draft |
 | JLPTLord N2 1675 | [狛犬](entries/1288/1288760-komainu.org) | こまいぬ | 1288760 | new / draft |
+| JLPTLord N2 1676 | [賽銭](entries/1573/1573140-saisen.org) | さいせん | 1573140 | new / draft |
+| JLPTLord N2 1677 | [注連縄](entries/1594/1594630-shimenawa.org) | しめなわ | 1594630 | new / draft |
+| JLPTLord N2 1678 | [神輿](entries/1270/1270710-mikoshi.org) | みこし | 1270710 | new / draft |
+| JLPTLord N2 1679 | [山車](entries/1302/1302910-dashi.org) | だし | 1302910 | new / draft |
+| JLPTLord N2 1681 | [三味線](entries/1579/1579450-shamisen.org) | しゃみせん | 1579450 | new / draft |
+| JLPTLord N2 1683 | [尺八](entries/1324/1324140-shakuhachi.org) | しゃくはち | 1324140 | new / draft |
+| JLPTLord N2 1684 | [雅楽](entries/1197/1197870-gagaku.org) | ががく | 1197870 | new / draft |
+| JLPTLord N2 1686 | [囲碁](entries/1155/1155990-igo.org) | いご | 1155990 | new / draft |
+| JLPTLord N2 1689 | [空手](entries/1245/1245620-karate.org) | からて | 1245620 | new / draft |
+| JLPTLord N2 1690 | [合気道](entries/1586/1586050-aikidou.org) | あいきどう | 1586050 | new / draft |
 
 ## Maturity workflow
 
