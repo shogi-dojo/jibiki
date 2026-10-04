@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **910**.
+Completed **20/200** additional distinct words; branch total **920**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1799,6 +1799,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1812,6 +1813,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 6.3.26 | [件](entries/1255/1255940-ken.org) | けん | 1255940 | new / draft |
 | JTest 6.3.27 | [急用](entries/1228/1228990-kyuuyou.org) | きゅうよう | 1228990 | new / draft |
 | JTest 6.3.29 | [手順](entries/1327/1327810-tejun.org) | てじゅん | 1327810 | new / draft |
+| JTest 6.4.6 | [忠告](entries/1426/1426140-chuukoku.org) | ちゅうこく | 1426140 | new / draft |
+| JTest 6.4.9 | [押し付ける](entries/1180/1180360-oshitsukeru.org) | おしつける | 1180360 | new / draft |
+| JTest 6.4.15 | [反論](entries/1481/1481130-hanron.org) | はんろん | 1481130 | new / draft |
+| JTest 6.4.17 | [やる気](entries/2005/2005890-yaruki.org) | やるき | 2005890 | new / draft |
+| JTest 6.4.18 | [お世辞](entries/1002/1002250-oseji.org) | おせじ | 1002250 | new / draft |
+| JTest 6.4.24 | [平社員](entries/2078/2078660-hirashain.org) | ひらしゃいん | 2078660 | new / draft |
+| JTest 6.5.1 | [退職](entries/1411/1411420-taishoku.org) | たいしょく | 1411420 | new / draft |
+| JTest 6.5.2 | [転職](entries/1441/1441210-tenshoku.org) | てんしょく | 1441210 | new / draft |
+| JTest 6.5.3 | [首になる](entries/1640/1640370-kubininaru.org) | くびになる | 1640370 | new / draft |
+| JTest 6.5.10 | [辛抱](entries/1365/1365930-shinbou.org) | しんぼう | 1365930 | new / draft |
 
 ## Maturity workflow
 
