@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **40/100** further distinct words; branch total **540**.
+Completed **50/100** further distinct words; branch total **550**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1243,6 +1243,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 2 | N2-1592–N2-1626 | 10 |
 | 3 | N2-1627–N2-S135 | 10 |
 | 4 | N2-S137–N2-S323 | 10 |
+| 5 | N2-S327–N2-S420 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1286,6 +1287,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S313 | [伯母](entries/1607/1607100-oba.org) | おば | 1607100 | new / draft |
 | N2-S315 | [小母さん](entries/2261/2261510-obasan.org) | おばさん | 2261510 | new / draft |
 | N2-S323 | [思い切り](entries/2834/2834138-omoikiri.org) | おもいきり | 2834138 | new / draft |
+| N2-S327 | [重たい](entries/1335/1335780-omotai.org) | おもたい | 1335780 | new / draft |
+| N2-S337 | [御中](entries/1270/1270530-onchuu.org) | おんちゅう | 1270530 | new / draft |
+| N2-S341 | [貝](entries/1203/1203100-kai.org) | かい | 1203100 | new / draft |
+| N2-S345 | [改札](entries/1200/1200840-kaisatsu.org) | かいさつ | 1200840 | new / draft |
+| N2-S366 | [書留](entries/1589/1589960-kakitome.org) | かきとめ | 1589960 | new / draft |
+| N2-S369 | [限り](entries/1264/1264610-kagiri.org) | かぎり | 1264610 | new / draft |
+| N2-S376 | [拡張](entries/1205/1205220-kakuchou.org) | かくちょう | 1205220 | new / draft |
+| N2-S392 | [貸し出し](entries/1590/1590240-kashidashi.org) | かしだし | 1590240 | new / draft |
+| N2-S397 | [箇所](entries/1590/1590250-kasho.org) | かしょ | 1590250 | new / draft |
+| N2-S420 | [勝手に](entries/1346/1346200-katteni.org) | かってに | 1346200 | new / draft |
 
 ## Maturity workflow
 
