@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **20/100** additional distinct words; branch total **720**.
+Completed **30/100** additional distinct words; branch total **730**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1520,6 +1520,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1543,6 +1544,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 2.2.16 | [残高](entries/1304/1304590-zandaka.org) | ざんだか | 1304590 | new / draft |
 | JTest 2.2.21 | [立て替える](entries/1551/1551550-tatekaeru.org) | たてかえる | 1551550 | new / draft |
 | JTest 2.2.23 | [返済](entries/1512/1512210-hensai.org) | へんさい | 1512210 | new / draft |
+| JTest 2.3.2 | [好物](entries/1277/1277790-koubutsu.org) | こうぶつ | 1277790 | new / draft |
+| JTest 2.3.4 | [物足りない](entries/1502/1502650-monotarinai.org) | ものたりない | 1502650 | new / draft |
+| JTest 2.3.20 | [器](entries/1218/1218880-utsuwa.org) | うつわ | 1218880 | new / draft |
+| JTest 2.3.23 | [主食](entries/1325/1325640-shushoku.org) | しゅしょく | 1325640 | new / draft |
+| JTest 2.3.26 | [特製](entries/1455/1455100-tokusei.org) | とくせい | 1455100 | new / draft |
+| JTest 2.4.1 | [購入](entries/1282/1282440-kounyuu.org) | こうにゅう | 1282440 | new / draft |
+| JTest 2.4.2 | [買い得](entries/1752/1752990-kaidoku.org) | かいどく | 1752990 | new / draft |
+| JTest 2.4.4 | [値引き](entries/1600/1600190-nebiki.org) | ねびき | 1600190 | new / draft |
+| JTest 2.4.6 | [返品](entries/1512/1512300-henpin.org) | へんぴん | 1512300 | new / draft |
+| JTest 2.4.7 | [返金](entries/1512/1512200-henkin.org) | へんきん | 1512200 | new / draft |
 
 ## Maturity workflow
 
