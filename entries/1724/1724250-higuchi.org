@@ -1,0 +1,197 @@
+#+TITLE: 火口
+#+JMDICT_ID: 1724250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひぐち
+#+ROMAJI: higuchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1724250-001
+:PROPERTIES:
+:TEXT: 火口
+:END:
+*** Priorities
+- news1
+- nf12
+** Reading rd-1724250-001
+:PROPERTIES:
+:TEXT: ひぐち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1724250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 20fcc04701c33fef353e93392f62b87568a2fa4d34ae4fe366d38af91efdc3b4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- burner
+- nozzle
+- origin of a fire
+** Ukrainian glosses
+*** uk-s-1724250-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пальник; сопло; отвір для виходу вогню
+** Learner notes
+*** note-s-1724250-001-001
+:PROPERTIES:
+:END:
+- UK :: Читання ひぐち стосується виходу полум'я або місця, звідки починається вогонь. Не плутати з かこう — кратером, та ほくち — трутом: однакове написання 火口 відповідає різним словниковим статтям.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1724250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 火口の位置を確認した。
+- READING :: ひぐちのいちをかくにんした。
+- UK :: Я перевірив розташування пальника.
+- EN :: I checked the burner's position.
+- FOCUS :: 火口
+*** ex-1724250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 図には火口と燃料の通り道が示されている。
+- READING :: ずにはひぐちとねんりょうのとおりみちがしめされている。
+- UK :: На схемі показано пальник і шлях подавання палива.
+- EN :: The diagram shows the burner and the fuel path.
+- FOCUS :: 火口
+*** ex-1724250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 装置の説明を読むと、火口の形が機種によって異なることが分かった。
+- READING :: そうちのせつめいをよむと、ひぐちのかたちがきしゅによってことなることがわかった。
+- UK :: З опису пристрою я дізнався, що форма пальника залежить від моделі.
+- EN :: Reading the device description showed that the burner shape differs by model.
+- FOCUS :: 火口
+
+* Sense s-1724250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9632309295be32c93f99b7b5ddb23700a732cf63a9357bb408e71dff9c13ee59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724250-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Öffnung zum Anzünden (z.B. einer Laterne)
+** Ukrainian glosses
+
+* Sense s-1724250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d256555ef85d3a0f82b60509d95fe41acb6a29ef15ad9f14872fc04f34427eda
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724250-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brandherd
+** Ukrainian glosses
+
+* Sense s-1724250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4bddb6a9dca7239d8fdb1c226207a111da0a30dfc98f0f79c7d1140940756e0a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724250-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) горелка
+*** en-s-1724250-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) дуло
+*** en-s-1724250-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) источник огня (при пожаре)
+** Ukrainian glosses
+
+* Sense s-1724250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e05c59759330ffe065717129e7c08c1939d8bc0aaab853096b083387334f3b9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724250-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quemador
+*** en-s-1724250-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mechero
+*** en-s-1724250-005-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: origen del fuego
+** Ukrainian glosses
