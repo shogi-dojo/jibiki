@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **1450**.
+Completed **160/200** additional distinct words; branch total **1460**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2323,6 +2323,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2476,6 +2477,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 813 | [錯覚](entries/1298/1298400-sakkaku.org) | さっかく | 1298400 | new / draft |
 | TodayJLPT N2 814 | [殺菌](entries/1299/1299070-sakkin.org) | さっきん | 1299070 | new / draft |
 | TodayJLPT N2 826 | [山間](entries/1302/1302810-sankan.org) | さんかん | 1302810 | new / draft |
+| TodayJLPT N2 827 | [算出](entries/1303/1303910-sanshutsu.org) | さんしゅつ | 1303910 | new / draft |
+| TodayJLPT N2 828 | [三振](entries/1300/1300990-sanshin.org) | さんしん | 1300990 | new / draft |
+| TodayJLPT N2 832 | [参拝](entries/1302/1302570-sanpai.org) | さんぱい | 1302570 | new / draft |
+| TodayJLPT N2 833 | [散布](entries/1303/1303600-sanpu.org) | さんぷ | 1303600 | new / draft |
+| TodayJLPT N2 835 | [産卵](entries/1303/1303890-sanran.org) | さんらん | 1303890 | new / draft |
+| TodayJLPT N2 837 | [史](entries/2080/2080900-shi.org) | し | 2080900 | new / draft |
+| TodayJLPT N2 838 | [誌](entries/1312/1312610-shi.org) | し | 1312610 | new / draft |
+| TodayJLPT N2 849 | [塩辛](entries/1178/1178740-shiokara.org) | しおから | 1178740 | new / draft |
+| TodayJLPT N2 855 | [志願](entries/1309/1309080-shigan.org) | しがん | 1309080 | new / draft |
+| TodayJLPT N2 861 | [死語](entries/1310/1310840-shigo.org) | しご | 1310840 | new / draft |
 
 ## Maturity workflow
 
