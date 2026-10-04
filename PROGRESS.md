@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **1420**.
+Completed **130/200** additional distinct words; branch total **1430**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2320,6 +2320,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2443,6 +2444,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 684 | [硬度](entries/1280/1280620-koudo.org) | こうど | 1280620 | new / draft |
 | TodayJLPT N2 689 | [効能](entries/1275/1275180-kounou.org) | こうのう | 1275180 | new / draft |
 | TodayJLPT N2 690 | [紅白](entries/1280/1280790-kouhaku.org) | こうはく | 1280790 | new / draft |
+| TodayJLPT N2 695 | [荒野](entries/1586/1586770-kouya.org) | こうや | 1586770 | new / draft |
+| TodayJLPT N2 702 | [高齢](entries/1284/1284030-kourei.org) | こうれい | 1284030 | new / draft |
+| TodayJLPT N2 703 | [航路](entries/1281/1281440-kouro.org) | こうろ | 1281440 | new / draft |
+| TodayJLPT N2 704 | [港湾](entries/1280/1280030-kouwan.org) | こうわん | 1280030 | new / draft |
+| TodayJLPT N2 707 | [戸外](entries/1266/1266980-kogai.org) | こがい | 1266980 | new / draft |
+| TodayJLPT N2 708 | [互角](entries/1268/1268820-gokaku.org) | ごかく | 1268820 | new / draft |
+| TodayJLPT N2 710 | [漕ぐ](entries/1400/1400530-kogu.org) | こぐ | 1400530 | new / draft |
+| TodayJLPT N2 712 | [極上](entries/1240/1240340-gokujou.org) | ごくじょう | 1240340 | new / draft |
+| TodayJLPT N2 719 | [小言](entries/1348/1348050-kogoto.org) | こごと | 1348050 | new / draft |
+| TodayJLPT N2 725 | [個室](entries/1264/1264750-koshitsu.org) | こしつ | 1264750 | new / draft |
 
 ## Maturity workflow
 
