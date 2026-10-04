@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **10/100** additional distinct words; branch total **610**.
+Completed **20/100** additional distinct words; branch total **620**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1380,6 +1380,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1393,6 +1394,16 @@ N2-69 (佚) remains deferred and is not counted.
 | N2-S1150 | [近々](entries/1578/1578110-chikajika.org) | ちかぢか | 1578110 | new / draft |
 | N2-S1189 | [直通](entries/1431/1431440-chokutsuu.org) | ちょくつう | 1431440 | new / draft |
 | N2-S1209 | [月日](entries/1255/1255780-tsukihi.org) | つきひ | 1255780 | new / draft |
+| N2-S1213 | [務める](entries/2872/2872052-tsutomeru.org) | つとめる | 2872052 | new / draft |
+| N2-S1238 | [定休日](entries/1435/1435540-teikyuubi.org) | ていきゅうび | 1435540 | new / draft |
+| N2-S1241 | [停電](entries/1435/1435020-teiden.org) | ていでん | 1435020 | new / draft |
+| N2-S1251 | [凸凹](entries/1582/1582410-dekoboko.org) | でこぼこ | 1582410 | new / draft |
+| N2-S1254 | [弟子](entries/1581/1581960-deshi.org) | でし | 1581960 | new / draft |
+| N2-S1271 | [伝染](entries/1442/1442110-densen.org) | でんせん | 1442110 | new / draft |
+| N2-S1313 | [退ける](entries/2850/2850084-dokeru.org) | どける | 2850084 | new / draft |
+| N2-S1323 | [殿](entries/1442/1442500-dono.org) | どの | 1442500 | new / draft |
+| N2-S1332 | [採る](entries/1599/1599160-toru.org) | とる | 1599160 | new / draft |
+| N2-S1340 | [長引く](entries/1610/1610950-nagabiku.org) | ながびく | 1610950 | new / draft |
 
 ## Maturity workflow
 
