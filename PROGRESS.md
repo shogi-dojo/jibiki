@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **60/100** additional distinct words; branch total **760**.
+Completed **70/100** additional distinct words; branch total **770**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1524,6 +1524,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1587,6 +1588,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 3.3.22 | [手作り](entries/1598/1598360-tezukuri.org) | てづくり | 1598360 | new / draft |
 | JTest 3.4.7 | [取り除く](entries/1326/1326780-torinozoku.org) | とりのぞく | 1326780 | new / draft |
 | JTest 3.4.16 | [可燃ごみ](entries/2770/2770250-kanengomi.org) | かねんごみ | 2770250 | new / draft |
+| JTest 3.4.17 | [資源ごみ](entries/2112/2112630-shigengomi.org) | しげんごみ | 2112630 | new / draft |
+| JTest 3.4.18 | [粗大ごみ](entries/1397/1397030-sodaigomi.org) | そだいごみ | 1397030 | new / draft |
+| JTest 3.4.19 | [古新聞](entries/1631/1631020-furushinbun.org) | ふるしんぶん | 1631020 | new / draft |
+| JTest 3.4.20 | [分別](entries/1504/1504200-bunbetsu.org) | ぶんべつ | 1504200 | new / draft |
+| JTest 3.4.21 | [ごみ袋](entries/2106/2106370-gomibukuro.org) | ごみぶくろ | 2106370 | new / draft |
+| JTest 3.4.27 | [衣類](entries/1613/1613280-irui.org) | いるい | 1613280 | new / draft |
+| JTest 3.4.28 | [入れ替える](entries/1587/1587790-irekaeru.org) | いれかえる | 1587790 | new / draft |
+| JTest 3.5.2 | [不用品](entries/1495/1495190-fuyouhin.org) | ふようひん | 1495190 | new / draft |
+| JTest 3.5.6 | [段ボール](entries/1419/1419930-danbooru.org) | だんボール | 1419930 | new / draft |
+| JTest 3.5.8 | [押し込む](entries/1180/1180260-oshikomu.org) | おしこむ | 1180260 | new / draft |
 
 ## Maturity workflow
 
