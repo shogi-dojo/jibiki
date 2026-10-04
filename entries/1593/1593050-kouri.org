@@ -1,0 +1,313 @@
+#+TITLE: 小売
+#+JMDICT_ID: 1593050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうり
+#+ROMAJI: kouri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1593050-001
+:PROPERTIES:
+:TEXT: 小売
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1593050-002
+:PROPERTIES:
+:TEXT: 小売り
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1593050-001
+:PROPERTIES:
+:TEXT: こうり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1593050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 35743c916e025511c75d36c582e2cfbf3ee58d536bcd6636b3ed4e90d1ef53a5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- retail
+** Ukrainian glosses
+*** uk-s-1593050-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: роздрібна торгівля; продаж кінцевому покупцеві
+** Learner notes
+*** note-s-1593050-001-001
+:PROPERTIES:
+:END:
+- UK :: 小売店 — роздрібний магазин, 小売価格 — роздрібна ціна. На відміну від 卸売, основний зміст — продаж для кінцевого використання; невеликий фізичний розмір магазину не є обов'язковою ознакою 小売.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1593050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この店は小売を行っている。
+- READING :: このみせはこうりをおこなっている。
+- UK :: Цей магазин займається роздрібною торгівлею.
+- EN :: This shop sells at retail.
+- FOCUS :: 小売
+*** ex-1593050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 小売価格が表示されている。
+- READING :: こうりかかくがひょうじされている。
+- UK :: Роздрібну ціну вказано.
+- EN :: The retail price is displayed.
+- FOCUS :: 小売価格
+*** ex-1593050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 小売の現場で、消費者の希望を直接聞いた。
+- READING :: こうりのげんばで、しょうひしゃのきぼうをちょくせつきいた。
+- UK :: У роздрібній торгівлі ми безпосередньо почули побажання споживачів.
+- EN :: We heard consumers' wishes directly in the retail setting.
+- FOCUS :: 小売
+
+* Sense s-1593050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 614a141904d1d930244c3b31f415849a6e9820f560390ba050bdd6f486a272a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkoop in het klein
+*** en-s-1593050-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkoop en détail
+*** en-s-1593050-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: detailhandel
+*** en-s-1593050-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleinhandel
+*** en-s-1593050-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: detailverkoop
+*** en-s-1593050-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: winkelverkoop
+** Ukrainian glosses
+
+* Sense s-1593050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fcf40a8fcbdac2006a1c4ba0d226a486170a10170cd404145fae42b1cebe0b06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vente au détail
+** Ukrainian glosses
+
+* Sense s-1593050-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7654a13732bc3bcc18c1dbdb9fea01976c63526227419e6a5f5aac927f61d22a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einzelhandel
+*** en-s-1593050-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kleinhandel
+*** en-s-1593050-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kleinverkauf
+*** en-s-1593050-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (schweiz.)Detailhandel
+*** en-s-1593050-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Detailgeschäft
+*** en-s-1593050-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (obsol.)Retail
+** Ukrainian glosses
+
+* Sense s-1593050-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c517003ed5243aded80636db02c8325e47ef49048f0f4ecc957cbebf45228036
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiskereskedelem
+** Ukrainian glosses
+
+* Sense s-1593050-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9530a19e82ec3683dc080c458962b28583a1a5dcf070b7b6c308d73876458780
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: розничная продажа
+*** en-s-1593050-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} продавать в розницу
+*** en-s-1593050-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} в розницу
+** Ukrainian glosses
+
+* Sense s-1593050-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c76f903895b513184e1527261406fb57967feb9c815b479230fe8d45323d5410
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593050-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: menudeo
+*** en-s-1593050-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: venta al por menor
+** Ukrainian glosses
