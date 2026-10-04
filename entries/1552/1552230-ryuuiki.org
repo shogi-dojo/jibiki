@@ -1,0 +1,299 @@
+#+TITLE: 流域
+#+JMDICT_ID: 1552230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りゅういき
+#+ROMAJI: ryuuiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1552230-001
+:PROPERTIES:
+:TEXT: 流域
+:END:
+*** Priorities
+- news1
+- nf10
+** Reading rd-1552230-001
+:PROPERTIES:
+:TEXT: りゅういき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf10
+
+* Sense s-1552230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3c65d70a8af52e60bae9f8f2322b8cbd779d4156f97490e4bb49b5ba3cefcaae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- drainage basin
+- catchment basin
+- river basin
+- watershed
+- valley
+** Ukrainian glosses
+*** uk-s-1552230-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: річковий басейн; водозбір
+** Learner notes
+*** note-s-1552230-001-001
+:PROPERTIES:
+:END:
+- UK :: =川の流域= — територія, з якої вода стікає до певної річки: =流域の住民=. Не лише берегова смуга (=川沿い=); може включати притоки й віддалені частини водозбору. =上流= — верхня течія, а не весь басейн.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1552230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この川の流域には町が多い。
+- READING :: このかわのりゅういきにはまちがおおい。
+- UK :: У басейні цієї річки багато міст.
+- EN :: There are many towns in this river basin.
+- FOCUS :: 流域
+*** ex-1552230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 流域の地図で、支流の位置を確認した。
+- READING :: りゅういきのちずで、しりゅうのいちをかくにんした。
+- UK :: На карті басейну я перевірив розташування приток.
+- EN :: I checked the tributaries' locations on a map of the basin.
+- FOCUS :: 流域
+*** ex-1552230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 水質を改善するには、下流だけでなく流域全体で協力する必要がある。
+- READING :: すいしつをかいぜんするには、かりゅうだけでなくりゅういきぜんたいできょうりょくするひつようがある。
+- UK :: Для поліпшення якості води потрібна співпраця в усьому басейні, а не лише в нижній течії.
+- EN :: Improving water quality requires cooperation across the whole basin, not only downstream.
+- FOCUS :: 流域
+
+* Sense s-1552230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8d2046a53d2eef0ca129eebbb6e062101981f42915205cf9cc315513343946ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekken
+*** en-s-1552230-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomgebied
+*** en-s-1552230-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neerslaggebied
+*** en-s-1552230-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwateringsgebied
+*** en-s-1552230-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drainagegebied
+*** en-s-1552230-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dal
+** Ukrainian glosses
+
+* Sense s-1552230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f768679c9790833a5feb8322937d00afa760d2f7ee0fb7ed726e3043f9174e41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bassin fluvial
+** Ukrainian glosses
+
+* Sense s-1552230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ae2a570330e4666384acb1f0b96f57d4198082cc514fc7e25d39350dcf5a443f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Becken (eines Flusses)
+*** en-s-1552230-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tal
+*** en-s-1552230-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flussgebiet
+*** en-s-1552230-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromgebiet
+*** en-s-1552230-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einzugsgebiet
+** Ukrainian glosses
+
+* Sense s-1552230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fcf848f0159c85551536171c4b8be4164352ed981eed84ac7b0e7199642df1f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mosdókagyló
+*** en-s-1552230-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mosdótál
+*** en-s-1552230-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vájdling
+** Ukrainian glosses
+
+* Sense s-1552230-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: bbb84a8c1eb1baa6bd2e2a4fbdd7c70c0de3ffc9737451a29f045ae1b3aa477e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бассейн (реки)
+** Ukrainian glosses
+
+* Sense s-1552230-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: be336096b900b1ed115cb6afdc50e254d470770e1174c79272b08242d54ff093
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552230-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cañada
+*** en-s-1552230-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valle
+** Ukrainian glosses
