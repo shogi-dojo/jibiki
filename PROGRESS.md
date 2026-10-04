@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **1880**.
+Completed **190/200** additional distinct words; branch total **1890**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2846,6 +2846,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3029,6 +3030,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 293 | [論理](entries/1561/1561850-ronri.org) | ろんり | 1561850 | new / draft |
 | JLPTLord N2 294 | [理論](entries/1550/1550160-riron.org) | りろん | 1550160 | new / draft |
 | JLPTLord N2 295 | [仮説](entries/1590/1590320-kasetsu.org) | かせつ | 1590320 | new / draft |
+| JLPTLord N2 296 | [実態](entries/1321/1321360-jittai.org) | じったい | 1321360 | new / draft |
+| JLPTLord N2 302 | [効率](entries/1275/1275210-kouritsu.org) | こうりつ | 1275210 | new / draft |
+| JLPTLord N2 303 | [生産性](entries/1379/1379030-seisansei.org) | せいさんせい | 1379030 | new / draft |
+| JLPTLord N2 304 | [可能性](entries/1191/1191080-kanousei.org) | かのうせい | 1191080 | new / draft |
+| JLPTLord N2 305 | [必要性](entries/1487/1487730-hitsuyousei.org) | ひつようせい | 1487730 | new / draft |
+| JLPTLord N2 306 | [重要性](entries/1336/1336850-juuyousei.org) | じゅうようせい | 1336850 | new / draft |
+| JLPTLord N2 307 | [妥当性](entries/1408/1408550-datousei.org) | だとうせい | 1408550 | new / draft |
+| JLPTLord N2 308 | [信頼性](entries/1359/1359770-shinraisei.org) | しんらいせい | 1359770 | new / draft |
+| JLPTLord N2 309 | [正当性](entries/1377/1377680-seitousei.org) | せいとうせい | 1377680 | new / draft |
+| JLPTLord N2 310 | [多様性](entries/1408/1408120-tayousei.org) | たようせい | 1408120 | new / draft |
 
 ## Maturity workflow
 
