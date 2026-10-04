@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **2730**.
+Completed **40/200** additional distinct words; branch total **2740**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4156,6 +4156,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4189,6 +4190,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2149 | [亀裂](entries/1224/1224320-kiretsu.org) | きれつ | 1224320 | new / draft |
 | JLPTLord N2 2150 | [絆](entries/1570/1570420-kizuna.org) | きずな | 1570420 | new / draft |
 | JLPTLord N2 2155 | [交際](entries/1271/1271990-kousai.org) | こうさい | 1271990 | new / draft |
+| JLPTLord N2 2158 | [養子](entries/1547/1547150-youshi.org) | ようし | 1547150 | new / draft |
+| JLPTLord N2 2159 | [遺族](entries/1159/1159420-izoku.org) | いぞく | 1159420 | new / draft |
+| JLPTLord N2 2160 | [孤児](entries/1266/1266810-koji.org) | こじ | 1266810 | new / draft |
+| JLPTLord N2 2161 | [未亡人](entries/1528/1528030-miboujin.org) | みぼうじん | 1528030 | new / draft |
+| JLPTLord N2 2163 | [既婚](entries/1220/1220350-kikon.org) | きこん | 1220350 | new / draft |
+| JLPTLord N2 2164 | [長寿](entries/1430/1430020-chouju.org) | ちょうじゅ | 1430020 | new / draft |
+| JLPTLord N2 2165 | [老化](entries/1612/1612310-rouka.org) | ろうか | 1612310 | new / draft |
+| JLPTLord N2 2169 | [同世代](entries/2399/2399340-dousedai.org) | どうせだい | 2399340 | new / draft |
+| JLPTLord N2 2170 | [青春](entries/1381/1381550-seishun.org) | せいしゅん | 1381550 | new / draft |
+| JLPTLord N2 2171 | [思春期](entries/1309/1309550-shishunki.org) | ししゅんき | 1309550 | new / draft |
 
 ## Maturity workflow
 
