@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **30/100** additional distinct words; branch total **730**.
+Completed **40/100** additional distinct words; branch total **740**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1521,6 +1521,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1554,6 +1555,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 2.4.4 | [値引き](entries/1600/1600190-nebiki.org) | ねびき | 1600190 | new / draft |
 | JTest 2.4.6 | [返品](entries/1512/1512300-henpin.org) | へんぴん | 1512300 | new / draft |
 | JTest 2.4.7 | [返金](entries/1512/1512200-henkin.org) | へんきん | 1512200 | new / draft |
+| JTest 2.4.12 | [品質](entries/1490/1490580-hinshitsu.org) | ひんしつ | 1490580 | new / draft |
+| JTest 2.4.13 | [消費税](entries/1350/1350320-shouhizei.org) | しょうひぜい | 1350320 | new / draft |
+| JTest 2.4.16 | [取り寄せる](entries/1326/1326620-toriyoseru.org) | とりよせる | 1326620 | new / draft |
+| JTest 2.4.18 | [買い換える](entries/2012/2012810-kaikaeru.org) | かいかえる | 2012810 | new / draft |
+| JTest 2.4.19 | [売り出す](entries/1473/1473860-uridasu.org) | うりだす | 1473860 | new / draft |
+| JTest 2.4.21 | [切り取る](entries/1384/1384260-kiritoru.org) | きりとる | 1384260 | new / draft |
+| JTest 2.4.24 | [試食](entries/1312/1312490-shishoku.org) | ししょく | 1312490 | new / draft |
+| JTest 2.4.25 | [試着](entries/1312/1312500-shichaku.org) | しちゃく | 1312500 | new / draft |
+| JTest 2.5.10 | [本年](entries/1523/1523120-honnen.org) | ほんねん | 1523120 | new / draft |
+| JTest 2.5.16 | [後日](entries/1269/1269980-gojitsu.org) | ごじつ | 1269980 | new / draft |
 
 ## Maturity workflow
 
