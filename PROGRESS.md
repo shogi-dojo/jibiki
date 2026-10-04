@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **80/100** additional distinct words; branch total **680**.
+Completed **90/100** additional distinct words; branch total **690**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1387,6 +1387,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1470,6 +1471,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 1.3.2 | [自己紹介](entries/1317/1317650-jikoshoukai.org) | じこしょうかい | 1317650 | new / draft |
 | JTest 1.3.6 | [飼い主](entries/1589/1589720-kainushi.org) | かいぬし | 1589720 | new / draft |
 | JTest 1.3.7 | [交わす](entries/1590/1590750-kawasu.org) | かわす | 1590750 | new / draft |
+| JTest 1.3.8 | [呼び止める](entries/1266/1266330-yobitomeru.org) | よびとめる | 1266330 | new / draft |
+| JTest 1.3.9 | [振り返る](entries/1361/1361290-furikaeru.org) | ふりかえる | 1361290 | new / draft |
+| JTest 1.3.10 | [再会](entries/1292/1292390-saikai.org) | さいかい | 1292390 | new / draft |
+| JTest 1.3.13 | [結びつく](entries/1254/1254640-musubitsuku.org) | むすびつく | 1254640 | new / draft |
+| JTest 1.3.22 | [気配り](entries/1614/1614540-kikubari.org) | きくばり | 1614540 | new / draft |
+| JTest 1.3.24 | [同期](entries/1452/1452030-douki.org) | どうき | 1452030 | new / draft |
+| JTest 1.4.3 | [同士](entries/1452/1452400-doushi.org) | どうし | 1452400 | new / draft |
+| JTest 1.4.8 | [視線](entries/1312/1312060-shisen.org) | しせん | 1312060 | new / draft |
+| JTest 1.4.19 | [禁物](entries/1241/1241660-kinmotsu.org) | きんもつ | 1241660 | new / draft |
+| JTest 1.4.23 | [運命](entries/1173/1173030-unmei.org) | うんめい | 1173030 | new / draft |
 
 ## Maturity workflow
 
