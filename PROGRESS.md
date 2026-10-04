@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **1130**.
+Completed **40/200** additional distinct words; branch total **1140**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2054,6 +2054,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2087,6 +2088,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.2.5 | [顔が広い](entries/2139/2139970-kaogahiroi.org) | かおがひろい | 2139970 | new / draft |
 | JTest 12.2.6 | [顔を出す](entries/2101/2101420-kaowodasu.org) | かおをだす | 2101420 | new / draft |
 | JTest 12.2.7 | [目がない](entries/1535/1535080-meganai.org) | めがない | 1535080 | new / draft |
+| JTest 12.2.8 | [目が離せない](entries/2756/2756360-megahanasenai.org) | めがはなせない | 2756360 | new / draft |
+| JTest 12.2.9 | [目が回る](entries/1535/1535090-megamawaru.org) | めがまわる | 1535090 | new / draft |
+| JTest 12.2.10 | [目に浮かぶ](entries/2012/2012300-meniukabu.org) | めにうかぶ | 2012300 | new / draft |
+| JTest 12.2.11 | [目にする](entries/2399/2399540-menisuru.org) | めにする | 2399540 | new / draft |
+| JTest 12.2.12 | [目に付く](entries/1605/1605000-menitsuku.org) | めにつく | 1605000 | new / draft |
+| JTest 12.2.13 | [目を疑う](entries/2755/2755550-mewoutagau.org) | めをうたがう | 2755550 | new / draft |
+| JTest 12.2.14 | [目を向ける](entries/2098/2098490-mewomukeru.org) | めをむける | 2098490 | new / draft |
+| JTest 12.2.15 | [目を通す](entries/1535/1535250-mewotoosu.org) | めをとおす | 1535250 | new / draft |
+| JTest 12.2.16 | [耳が痛い](entries/2578/2578130-mimigaitai.org) | みみがいたい | 2578130 | new / draft |
+| JTest 12.2.17 | [耳が遠い](entries/1317/1317180-mimigatooi.org) | みみがとおい | 1317180 | new / draft |
 
 ## Maturity workflow
 
