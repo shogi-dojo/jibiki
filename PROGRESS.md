@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 ## Further 100-word N2 continuation (2026-10-04)
 
 Baseline: `9a46c7b4`, with **500** new translated words on this branch.
-Completed **30/100** further distinct words; branch total **530**.
+Completed **40/100** further distinct words; branch total **540**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
 with Ukrainian usage notes, and each primary sense has three graded examples.
@@ -1242,6 +1242,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | 1 | N2-1608–N2-1618 | 10 |
 | 2 | N2-1592–N2-1626 | 10 |
 | 3 | N2-1627–N2-S135 | 10 |
+| 4 | N2-S137–N2-S323 | 10 |
 
 | Candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1275,6 +1276,16 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-1634 | [椀](entries/1562/1562780-wan.org) | わん | 1562780 | new / draft |
 | N2-1635 | [碗](entries/1562/1562840-wan.org) | わん | 1562840 | new / draft |
 | N2-S135 | [朝寝坊](entries/1428/1428410-asanebou.org) | あさねぼう | 1428410 | new / draft |
+| N2-S137 | [足元](entries/1586/1586390-ashimoto.org) | あしもと | 1586390 | new / draft |
+| N2-S140 | [温まる](entries/1586/1586430-atatamaru.org) | あたたまる | 1586430 | new / draft |
+| N2-S145 | [宛名](entries/1586/1586520-atena.org) | あてな | 1586520 | new / draft |
+| N2-S169 | [荒れる](entries/1281/1281490-areru.org) | あれる | 1281490 | new / draft |
+| N2-S255 | [絵の具](entries/1202/1202290-enogu.org) | えのぐ | 1202290 | new / draft |
+| N2-S296 | [伯父](entries/1607/1607070-oji.org) | おじ | 1607070 | new / draft |
+| N2-S312 | [各々](entries/2826/2826190-onoono.org) | おのおの | 2826190 | new / draft |
+| N2-S313 | [伯母](entries/1607/1607100-oba.org) | おば | 1607100 | new / draft |
+| N2-S315 | [小母さん](entries/2261/2261510-obasan.org) | おばさん | 2261510 | new / draft |
+| N2-S323 | [思い切り](entries/2834/2834138-omoikiri.org) | おもいきり | 2834138 | new / draft |
 
 ## Maturity workflow
 
