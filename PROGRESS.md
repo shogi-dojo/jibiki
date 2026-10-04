@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **1760**.
+Completed **70/200** additional distinct words; branch total **1770**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2834,6 +2834,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2897,6 +2898,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2264 | [療法](entries/1554/1554470-ryouhou.org) | りょうほう | 1554470 | new / draft |
 | TodayJLPT N2 2266 | [林道](entries/1555/1555500-rindou.org) | りんどう | 1555500 | new / draft |
 | TodayJLPT N2 2268 | [零下](entries/1557/1557660-reika.org) | れいか | 1557660 | new / draft |
+| TodayJLPT N2 2272 | [礼拝](entries/1557/1557560-reihai.org) | れいはい | 1557560 | new / draft |
+| TodayJLPT N2 2274 | [歴](entries/2211/2211960-reki.org) | れき | 2211960 | new / draft |
+| TodayJLPT N2 2275 | [歴代](entries/1558/1558220-rekidai.org) | れきだい | 1558220 | new / draft |
+| TodayJLPT N2 2285 | [路線](entries/1560/1560040-rosen.org) | ろせん | 1560040 | new / draft |
+| TodayJLPT N2 2292 | [患う](entries/1212/1212200-wazurau.org) | わずらう | 1212200 | new / draft |
+| TodayJLPT N2 2299 | [湾岸](entries/1562/1562810-wangan.org) | わんがん | 1562810 | new / draft |
+| TodayJLPT N2 2300 | [腕白](entries/1562/1562910-wanpaku.org) | わんぱく | 1562910 | new / draft |
+| TodayJLPT N2 2302 | [腕力](entries/1562/1562950-wanryoku.org) | わんりょく | 1562950 | new / draft |
+| JLPTLord N2 18 | [応募](entries/1180/1180030-oubo.org) | おうぼ | 1180030 | new / draft |
+| JLPTLord N2 32 | [減少](entries/1263/1263210-genshou.org) | げんしょう | 1263210 | new / draft |
 
 ## Maturity workflow
 
