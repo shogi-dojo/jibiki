@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **2080**.
+Completed **190/200** additional distinct words; branch total **2090**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3101,6 +3101,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3284,6 +3285,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 665 | [容疑者](entries/1545/1545390-yougisha.org) | ようぎしゃ | 1545390 | new / draft |
 | JLPTLord N2 666 | [判決](entries/1478/1478520-hanketsu.org) | はんけつ | 1478520 | new / draft |
 | JLPTLord N2 667 | [有罪](entries/1541/1541350-yuuzai.org) | ゆうざい | 1541350 | new / draft |
+| JLPTLord N2 668 | [無罪](entries/1529/1529980-muzai.org) | むざい | 1529980 | new / draft |
+| JLPTLord N2 670 | [民事](entries/1528/1528730-minji.org) | みんじ | 1528730 | new / draft |
+| JLPTLord N2 671 | [著作権](entries/1427/1427100-chosakuken.org) | ちょさくけん | 1427100 | new / draft |
+| JLPTLord N2 672 | [特許](entries/1454/1454780-tokkyo.org) | とっきょ | 1454780 | new / draft |
+| JLPTLord N2 673 | [商標](entries/1347/1347290-shouhyou.org) | しょうひょう | 1347290 | new / draft |
+| JLPTLord N2 674 | [知的財産](entries/1420/1420660-chitekizaisan.org) | ちてきざいさん | 1420660 | new / draft |
+| JLPTLord N2 678 | [僻地](entries/1509/1509240-hekichi.org) | へきち | 1509240 | new / draft |
+| JLPTLord N2 679 | [沿岸](entries/1176/1176740-engan.org) | えんがん | 1176740 | new / draft |
+| JLPTLord N2 680 | [内陸](entries/1459/1459500-nairiku.org) | ないりく | 1459500 | new / draft |
+| JLPTLord N2 684 | [海峡](entries/1201/1201320-kaikyou.org) | かいきょう | 1201320 | new / draft |
 
 ## Maturity workflow
 
