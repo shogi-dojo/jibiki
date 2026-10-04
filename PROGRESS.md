@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **1390**.
+Completed **100/200** additional distinct words; branch total **1400**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2317,6 +2317,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2410,6 +2411,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 547 | [空白](entries/1245/1245950-kuuhaku.org) | くうはく | 1245950 | new / draft |
 | TodayJLPT N2 548 | [空輸](entries/1246/1246060-kuuyu.org) | くうゆ | 1246060 | new / draft |
 | TodayJLPT N2 551 | [苦境](entries/1244/1244440-kukyou.org) | くきょう | 1244440 | new / draft |
+| TodayJLPT N2 572 | [苦悩](entries/1244/1244610-kunou.org) | くのう | 1244610 | new / draft |
+| TodayJLPT N2 578 | [区民](entries/1244/1244260-kumin.org) | くみん | 1244260 | new / draft |
+| TodayJLPT N2 581 | [苦しめる](entries/1244/1244360-kurushimeru.org) | くるしめる | 1244360 | new / draft |
+| TodayJLPT N2 585 | [軍人](entries/1248/1248540-gunjin.org) | ぐんじん | 1248540 | new / draft |
+| TodayJLPT N2 586 | [軍団](entries/1248/1248770-gundan.org) | ぐんだん | 1248770 | new / draft |
+| TodayJLPT N2 597 | [軽薄](entries/1252/1252830-keihaku.org) | けいはく | 1252830 | new / draft |
+| TodayJLPT N2 601 | [計量](entries/1252/1252260-keiryou.org) | けいりょう | 1252260 | new / draft |
+| TodayJLPT N2 605 | [激突](entries/1253/1253730-gekitotsu.org) | げきとつ | 1253730 | new / draft |
+| TodayJLPT N2 613 | [月額](entries/1255/1255520-getsugaku.org) | げつがく | 1255520 | new / draft |
+| TodayJLPT N2 616 | [月食](entries/1255/1255730-gesshoku.org) | げっしょく | 1255730 | new / draft |
 
 ## Maturity workflow
 
