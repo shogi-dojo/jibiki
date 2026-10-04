@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **1920**.
+Completed **30/200** additional distinct words; branch total **1930**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3085,6 +3085,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3108,6 +3109,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 358 | [信念](entries/1359/1359550-shinnen.org) | しんねん | 1359550 | new / draft |
 | JLPTLord N2 359 | [理念](entries/1550/1550060-rinen.org) | りねん | 1550060 | new / draft |
 | JLPTLord N2 363 | [感性](entries/1212/1212460-kansei.org) | かんせい | 1212460 | new / draft |
+| JLPTLord N2 364 | [知性](entries/1420/1420630-chisei.org) | ちせい | 1420630 | new / draft |
+| JLPTLord N2 365 | [理性](entries/1550/1550010-risei.org) | りせい | 1550010 | new / draft |
+| JLPTLord N2 366 | [品性](entries/1490/1490630-hinsei.org) | ひんせい | 1490630 | new / draft |
+| JLPTLord N2 367 | [人格](entries/1366/1366730-jinkaku.org) | じんかく | 1366730 | new / draft |
+| JLPTLord N2 368 | [個性](entries/1264/1264960-kosei.org) | こせい | 1264960 | new / draft |
+| JLPTLord N2 379 | [趣旨](entries/1328/1328990-shushi.org) | しゅし | 1328990 | new / draft |
+| JLPTLord N2 381 | [要約](entries/1605/1605860-youyaku.org) | ようやく | 1605860 | new / draft |
+| JLPTLord N2 382 | [概要](entries/1204/1204500-gaiyou.org) | がいよう | 1204500 | new / draft |
+| JLPTLord N2 383 | [概略](entries/1204/1204510-gairyaku.org) | がいりゃく | 1204510 | new / draft |
+| JLPTLord N2 384 | [大綱](entries/1661/1661030-taikou.org) | たいこう | 1661030 | new / draft |
 
 ## Maturity workflow
 
