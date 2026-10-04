@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **2410**.
+Completed **120/200** additional distinct words; branch total **2420**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3623,6 +3623,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3736,6 +3737,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1363 | [誤差](entries/1271/1271320-gosa.org) | ごさ | 1271320 | new / draft |
 | JLPTLord N2 1365 | [比率](entries/1483/1483680-hiritsu.org) | ひりつ | 1483680 | new / draft |
 | JLPTLord N2 1368 | [棒グラフ](entries/1519/1519760-bougurafu.org) | ぼうグラフ | 1519760 | new / draft |
+| JLPTLord N2 1369 | [円グラフ](entries/1175/1175610-engurafu.org) | えんグラフ | 1175610 | new / draft |
+| JLPTLord N2 1370 | [折れ線グラフ](entries/2076/2076410-oresengurafu.org) | おれせんグラフ | 2076410 | new / draft |
+| JLPTLord N2 1372 | [鉄骨](entries/1437/1437890-tekkotsu.org) | てっこつ | 1437890 | new / draft |
+| JLPTLord N2 1373 | [鉄筋](entries/1437/1437830-tekkin.org) | てっきん | 1437830 | new / draft |
+| JLPTLord N2 1375 | [合板](entries/1578/1578960-gouhan.org) | ごうはん | 1578960 | new / draft |
+| JLPTLord N2 1379 | [柵](entries/1298/1298250-saku.org) | さく | 1298250 | new / draft |
+| JLPTLord N2 1380 | [溝](entries/1578/1578720-mizo.org) | みぞ | 1578720 | new / draft |
+| JLPTLord N2 1381 | [堤防](entries/1435/1435350-teibou.org) | ていぼう | 1435350 | new / draft |
+| JLPTLord N2 1382 | [舗装](entries/1514/1514070-hosou.org) | ほそう | 1514070 | new / draft |
+| JLPTLord N2 1385 | [空調](entries/1245/1245860-kuuchou.org) | くうちょう | 1245860 | new / draft |
 
 ## Maturity workflow
 
