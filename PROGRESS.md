@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **2820**.
+Completed **130/200** additional distinct words; branch total **2830**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4165,6 +4165,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4288,6 +4289,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2363 | [振られる](entries/1361/1361120-furareru.org) | ふられる | 1361120 | new / draft |
 | JLPTLord N2 2369 | [挫ける](entries/1292/1292020-kujikeru.org) | くじける | 1292020 | new / draft |
 | JLPTLord N2 2370 | [立ち直る](entries/1551/1551440-tachinaoru.org) | たちなおる | 1551440 | new / draft |
+| JLPTLord N2 2371 | [奮い立つ](entries/1504/1504690-furuitatsu.org) | ふるいたつ | 1504690 | new / draft |
+| JLPTLord N2 2373 | [踏ん張る](entries/1450/1450280-funbaru.org) | ふんばる | 1450280 | new / draft |
+| JLPTLord N2 2375 | [踏み出す](entries/1450/1450170-fumidasu.org) | ふみだす | 1450170 | new / draft |
+| JLPTLord N2 2377 | [切り抜ける](entries/1384/1384620-kirinukeru.org) | きりぬける | 1384620 | new / draft |
+| JLPTLord N2 2378 | [やり遂げる](entries/1260/1260430-yaritogeru.org) | やりとげる | 1260430 | new / draft |
+| JLPTLord N2 2379 | [持ちこたえる](entries/1315/1315540-mochikotaeru.org) | もちこたえる | 1315540 | new / draft |
+| JLPTLord N2 2380 | [突き進む](entries/1456/1456730-tsukisusumu.org) | つきすすむ | 1456730 | new / draft |
+| JLPTLord N2 2381 | [突き止める](entries/1456/1456670-tsukitomeru.org) | つきとめる | 1456670 | new / draft |
+| JLPTLord N2 2383 | [差し込む](entries/1291/1291170-sashikomu.org) | さしこむ | 1291170 | new / draft |
+| JLPTLord N2 2386 | [引きずる](entries/1169/1169000-hikizuru.org) | ひきずる | 1169000 | new / draft |
 
 ## Maturity workflow
 
