@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **2350**.
+Completed **60/200** additional distinct words; branch total **2360**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3617,6 +3617,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3670,6 +3671,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1209 | [次第に](entries/1316/1316690-shidaini.org) | しだいに | 1316690 | new / draft |
 | JLPTLord N2 1217 | [何気なく](entries/1188/1188680-nanigenaku.org) | なにげなく | 1188680 | new / draft |
 | JLPTLord N2 1252 | [燃料](entries/1469/1469660-nenryou.org) | ねんりょう | 1469660 | new / draft |
+| JLPTLord N2 1254 | [繊維](entries/1391/1391890-seni.org) | せんい | 1391890 | new / draft |
+| JLPTLord N2 1260 | [治療](entries/1316/1316890-chiryou.org) | ちりょう | 1316890 | new / draft |
+| JLPTLord N2 1268 | [処方](entries/1342/1342500-shohou.org) | しょほう | 1342500 | new / draft |
+| JLPTLord N2 1269 | [投薬](entries/1447/1447370-touyaku.org) | とうやく | 1447370 | new / draft |
+| JLPTLord N2 1271 | [免疫](entries/1533/1533090-meneki.org) | めんえき | 1533090 | new / draft |
+| JLPTLord N2 1272 | [感染](entries/1212/1212470-kansen.org) | かんせん | 1212470 | new / draft |
+| JLPTLord N2 1274 | [炎症](entries/1177/1177100-enshou.org) | えんしょう | 1177100 | new / draft |
+| JLPTLord N2 1276 | [捻挫](entries/1469/1469540-nenza.org) | ねんざ | 1469540 | new / draft |
+| JLPTLord N2 1277 | [打撲](entries/1408/1408960-daboku.org) | だぼく | 1408960 | new / draft |
+| JLPTLord N2 1280 | [不眠](entries/1495/1495010-fumin.org) | ふみん | 1495010 | new / draft |
 
 ## Maturity workflow
 
