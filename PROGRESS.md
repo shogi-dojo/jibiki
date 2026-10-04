@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **1860**.
+Completed **170/200** additional distinct words; branch total **1870**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2844,6 +2844,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3007,6 +3008,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 241 | [概算](entries/1204/1204450-gaisan.org) | がいさん | 1204450 | new / draft |
 | JLPTLord N2 243 | [形成](entries/1250/1250360-keisei.org) | けいせい | 1250360 | new / draft |
 | JLPTLord N2 244 | [喚起](entries/1211/1211270-kanki.org) | かんき | 1211270 | new / draft |
+| JLPTLord N2 245 | [合致](entries/1285/1285100-gatchi.org) | がっち | 1285100 | new / draft |
+| JLPTLord N2 246 | [搬入](entries/1481/1481320-hannyuu.org) | はんにゅう | 1481320 | new / draft |
+| JLPTLord N2 247 | [搬出](entries/1481/1481290-hanshutsu.org) | はんしゅつ | 1481290 | new / draft |
+| JLPTLord N2 248 | [排出](entries/1472/1472360-haishutsu.org) | はいしゅつ | 1472360 | new / draft |
+| JLPTLord N2 249 | [没頭](entries/1522/1522010-bottou.org) | ぼっとう | 1522010 | new / draft |
+| JLPTLord N2 250 | [逸脱](entries/1167/1167750-itsudatsu.org) | いつだつ | 1167750 | new / draft |
+| JLPTLord N2 271 | [規模](entries/1223/1223090-kibo.org) | きぼ | 1223090 | new / draft |
+| JLPTLord N2 273 | [仕組み](entries/1594/1594180-shikumi.org) | しくみ | 1594180 | new / draft |
+| JLPTLord N2 279 | [特性](entries/1455/1455090-tokusei.org) | とくせい | 1455090 | new / draft |
+| JLPTLord N2 284 | [概念](entries/1204/1204480-gainen.org) | がいねん | 1204480 | new / draft |
 
 ## Maturity workflow
 
