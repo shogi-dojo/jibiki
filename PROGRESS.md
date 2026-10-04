@@ -2035,6 +2035,37 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 | JTest 11.4.10 | [洗練](entries/1391/1391090-senren.org) | せんれん | 1391090 | new / draft |
 | JTest 11.4.14 | [断然](entries/1419/1419690-danzen.org) | だんぜん | 1419690 | new / draft |
 
+## Final 1300-word branch N2 continuation (2026-10-04)
+
+Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **1110**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 11.4.18 | [質素](entries/1320/1320710-shisso.org) | しっそ | 1320710 | new / draft |
+| JTest 11.5.10 | [見苦しい](entries/1259/1259500-migurushii.org) | みぐるしい | 1259500 | new / draft |
+| JTest 11.5.14 | [乏しい](entries/1584/1584130-toboshii.org) | とぼしい | 1584130 | new / draft |
+| JTest 11.5.15 | [中途半端](entries/1425/1425050-chuutohanpa.org) | ちゅうとはんぱ | 1425050 | new / draft |
+| JTest 12.1.1 | [気が早い](entries/2056/2056600-kigahayai.org) | きがはやい | 2056600 | new / draft |
+| JTest 12.1.2 | [気が重い](entries/1221/1221590-kigaomoi.org) | きがおもい | 1221590 | new / draft |
+| JTest 12.1.3 | [気が合う](entries/1221/1221570-kigaau.org) | きがあう | 1221570 | new / draft |
+| JTest 12.1.4 | [気が利く](entries/1221/1221640-kigakiku.org) | きがきく | 1221640 | new / draft |
+| JTest 12.1.5 | [気がつく](entries/1591/1591050-kigatsuku.org) | きがつく | 1591050 | new / draft |
+| JTest 12.1.6 | [気が強い](entries/1639/1639460-kigatsuyoi.org) | きがつよい | 1639460 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below

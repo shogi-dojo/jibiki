@@ -1,7 +1,7 @@
 # Additional N2 candidate evidence
 
 The [JTest N2 study list](https://jtest.net/tu-vung-n2) identifies these
-444 selected vocabulary candidates across four continuations within its 2500-word N2 learning course.
+519 selected vocabulary candidates across five continuations within its 2500-word N2 learning course.
 Retrieved 2026-10-04. These are study-list classifications, not an official
 JLPT syllabus. Each candidate was reconciled by written form and reading
 against pinned JMdict and excluded if its JMdict ID already existed.
@@ -73,3 +73,8 @@ Source snapshot checksums:
 | [11.2](https://jtest.net/tu-vung-n2/chapter-11/section-2) | `a781e7944a2cdf887ec622c66f9d7abba2f16be522b5adcae78cb10519df30fd` |
 | [11.3](https://jtest.net/tu-vung-n2/chapter-11/section-3) | `51b7f1ff138ed503f94b73ee5c0443c01d550ef460080af780cf2bbb7cc99d54` |
 | [11.4](https://jtest.net/tu-vung-n2/chapter-11/section-4) | `669ba7f21dd7bb540ad65d81d27227bb8ba009d248614969ab4c359b39113633` |
+| [11.5](https://jtest.net/tu-vung-n2/chapter-11/section-5) | `efc15755b6a2b74e036b9679e01d7a5723ce91e9e500193d6db6293d8fdd79b7` |
+| [12.1](https://jtest.net/tu-vung-n2/chapter-12/section-1) | `c5ab715163e01f92af1b599d06a19dc3523e9c3c45dad7b27f3cd80c7609dd8f` |
+| [12.2](https://jtest.net/tu-vung-n2/chapter-12/section-2) | `48660776bbd3a19c3062ee5de49b6c5541af33b36156c51f22ae6ce999cbaba2` |
+| [12.3](https://jtest.net/tu-vung-n2/chapter-12/section-3) | `3e9f003308d9f76cb5179eba433c68ead5875378a44879c730c5a6b5302cd896` |
+| [12.4](https://jtest.net/tu-vung-n2/chapter-12/section-4) | `8906ed62d5ccfe958b68c7b17fea67a9c213455965c9bf8ae9fd7ef19bd6bb7e` |
