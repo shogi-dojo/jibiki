@@ -1,0 +1,402 @@
+#+TITLE: 漆
+#+JMDICT_ID: 1320520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うるし
+#+ROMAJI: urushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1320520-001
+:PROPERTIES:
+:TEXT: 漆
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1320520-001
+:PROPERTIES:
+:TEXT: うるし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+** Reading rd-1320520-002
+:PROPERTIES:
+:TEXT: ウルシ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1320520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cd895635b0488aec5fcb84cb92756b366f6070dc77fa6ad80922f14095298214
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- East Asian lacquer
+- japan
+** Ukrainian glosses
+*** uk-s-1320520-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: східноазійський природний лак; урусі
+** Learner notes
+*** note-s-1320520-001-001
+:PROPERTIES:
+:END:
+- UK :: 漆 — природний лак із соку лакового дерева, який використовують для покриття виробів; типові 漆を塗る та 漆塗り. Це назва конкретного матеріалу й техніки, а не будь-якої фарби; 漆器 називає вже лаковані вироби.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1320520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 漆を塗った。
+- READING :: うるしをぬった。
+- UK :: Нанесли лак урусі.
+- EN :: We applied urushi lacquer.
+- FOCUS :: 漆
+*** ex-1320520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この器には黒い漆が使われている。
+- READING :: このうつわにはくろいうるしがつかわれている。
+- UK :: Для цього посуду використано чорний лак урусі.
+- EN :: Black urushi lacquer is used on this vessel.
+- FOCUS :: 漆
+*** ex-1320520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 漆を重ねて塗る工程を見学し、表面の変化を観察した。
+- READING :: うるしをかさねてぬるこうていをけんがくし、ひょうめんのへんかをかんさつした。
+- UK :: Ознайомилися з пошаровим нанесенням урусі й спостерігали зміни поверхні.
+- EN :: We observed the process of applying layers of lacquer and the surface changes.
+- FOCUS :: 漆
+
+* Sense s-1320520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c7b83d5fd639c847934987d76c20ea48d6249c6c970da4f579b4078949ca6d7c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Chinese lacquer tree (Toxicodendron vernicifluum, formerly Rhus verniciflua)
+** Ukrainian glosses
+*** uk-s-1320520-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лакове дерево (Toxicodendron vernicifluum)
+** Learner notes
+*** note-s-1320520-002-001
+:PROPERTIES:
+:END:
+- UK :: 漆 також називає дерево, з якого отримують лак; для цього значення часто використовують написання うるし. Контекст дерева, стовбура або соку відрізняє рослину від готового матеріалу; обидва значення пов'язані походженням.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1320520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aa19d1871952aca9dfad0158109cd091cf29c76ef0c9a9e5a9033539cafee539
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} lakboom
+*** en-s-1320520-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rhus verniciflua
+** Ukrainian glosses
+
+* Sense s-1320520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ee1a17ab6ffb1473dcf7aed9cf3af17666966aff3dd1d96a6e6d992fb022c361
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {stofn.} lakboomhars
+*** en-s-1320520-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japanlak
+*** en-s-1320520-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chinalak
+*** en-s-1320520-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lak
+** Ukrainian glosses
+
+* Sense s-1320520-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ba0e6bba54ee2b226409ad463c80408253d3b7800f51005e29d8f342b6fc2f36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laque
+*** en-s-1320520-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernis
+** Ukrainian glosses
+
+* Sense s-1320520-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 16f33a172c6e3e985473fcf97430ee337f8308b1031aad54928b6f3183532502
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lack
+*** en-s-1320520-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japanlack
+** Ukrainian glosses
+
+* Sense s-1320520-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1a6e38b51b4ba2f8733a9ee75eb27c3e147cd234a4bc2c0f82e4a2dd469d338b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lackbaum
+*** en-s-1320520-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rhus verniciflua
+** Ukrainian glosses
+
+* Sense s-1320520-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 690260ffde5fec930d43d6a05367f9af9acb5b957a587471832c76f790a7b8d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fénymáz
+*** en-s-1320520-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: firnisz
+*** en-s-1320520-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lakk-kence
+*** en-s-1320520-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: politúr
+*** en-s-1320520-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: külső máz
+*** en-s-1320520-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: politúrozás
+** Ukrainian glosses
+
+* Sense s-1320520-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ba6e580f6884edebc6b5629ae5f0116a94c766f647b801a404ea50e0987a21b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лак
+** Ukrainian glosses
+
+* Sense s-1320520-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 39f146fc770400ce660b604223450a40bb857af8a62fe6c7bab0b4f7903de7db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laca
+*** en-s-1320520-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barniz
+*** en-s-1320520-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: árbol de laca
+** Ukrainian glosses
+
+* Sense s-1320520-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 62aa60d222fd92da7847250ddeee052513c396b24350d8878727f9a78edd0c2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320520-011-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lack
+** Ukrainian glosses
