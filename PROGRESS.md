@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **2260**.
+Completed **170/200** additional distinct words; branch total **2270**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3360,6 +3360,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3523,6 +3524,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1058 | [鮮やか](entries/1392/1392500-azayaka.org) | あざやか | 1392500 | new / draft |
 | JLPTLord N2 1059 | [滑らか](entries/1208/1208560-nameraka.org) | なめらか | 1208560 | new / draft |
 | JLPTLord N2 1060 | [柔らか](entries/1460/1460730-yawaraka.org) | やわらか | 1460730 | new / draft |
+| JLPTLord N2 1062 | [和やか](entries/1561/1561940-nagoyaka.org) | なごやか | 1561940 | new / draft |
+| JLPTLord N2 1063 | [華やか](entries/1600/1600990-hanayaka.org) | はなやか | 1600990 | new / draft |
+| JLPTLord N2 1065 | [健やか](entries/1256/1256110-sukoyaka.org) | すこやか | 1256110 | new / draft |
+| JLPTLord N2 1066 | [緩やか](entries/1214/1214450-yuruyaka.org) | ゆるやか | 1214450 | new / draft |
+| JLPTLord N2 1067 | [速やか](entries/1405/1405000-sumiyaka.org) | すみやか | 1405000 | new / draft |
+| JLPTLord N2 1068 | [巧み](entries/1278/1278290-takumi.org) | たくみ | 1278290 | new / draft |
+| JLPTLord N2 1069 | [素朴](entries/1397/1397390-soboku.org) | そぼく | 1397390 | new / draft |
+| JLPTLord N2 1074 | [厳密](entries/1262/1262830-genmitsu.org) | げんみつ | 1262830 | new / draft |
+| JLPTLord N2 1075 | [厳格](entries/1262/1262570-genkaku.org) | げんかく | 1262570 | new / draft |
+| JLPTLord N2 1083 | [合理的](entries/1285/1285380-gouriteki.org) | ごうりてき | 1285380 | new / draft |
 
 ## Maturity workflow
 
