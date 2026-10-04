@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **2810**.
+Completed **120/200** additional distinct words; branch total **2820**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4164,6 +4164,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4277,6 +4278,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2323 | [唆す](entries/1290/1290790-sosonokasu.org) | そそのかす | 1290790 | new / draft |
 | JLPTLord N2 2324 | [煽る](entries/1391/1391630-aoru.org) | あおる | 1391630 | new / draft |
 | JLPTLord N2 2325 | [駆り立てる](entries/1244/1244830-karitateru.org) | かりたてる | 1244830 | new / draft |
+| JLPTLord N2 2331 | [見極める](entries/1259/1259490-mikiwameru.org) | みきわめる | 1259490 | new / draft |
+| JLPTLord N2 2346 | [罵る](entries/1471/1471520-nonoshiru.org) | ののしる | 1471520 | new / draft |
+| JLPTLord N2 2354 | [見下す](entries/1259/1259360-mikudasu.org) | みくだす | 1259360 | new / draft |
+| JLPTLord N2 2357 | [懐く](entries/1200/1200510-natsuku.org) | なつく | 1200510 | new / draft |
+| JLPTLord N2 2360 | [惹かれる](entries/1168/1168800-hikareru.org) | ひかれる | 1168800 | new / draft |
+| JLPTLord N2 2361 | [恋する](entries/1609/1609750-koisuru.org) | こいする | 1609750 | new / draft |
+| JLPTLord N2 2362 | [惚れる](entries/1288/1288500-horeru.org) | ほれる | 1288500 | new / draft |
+| JLPTLord N2 2363 | [振られる](entries/1361/1361120-furareru.org) | ふられる | 1361120 | new / draft |
+| JLPTLord N2 2369 | [挫ける](entries/1292/1292020-kujikeru.org) | くじける | 1292020 | new / draft |
+| JLPTLord N2 2370 | [立ち直る](entries/1551/1551440-tachinaoru.org) | たちなおる | 1551440 | new / draft |
 
 ## Maturity workflow
 
