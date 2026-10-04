@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **90/100** additional distinct entries; branch total **490**.
+Completed **100/100** additional distinct entries; branch total **500**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1110,6 +1110,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 7 | N2-1567–1576 | 10 |
 | 8 | N2-1577–1586 | 10 |
 | 9 | N2-1587–1597 | 10 |
+| 10 | N2-1598–1607 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1203,6 +1204,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1595 | [理科](entries/1549/1549900-rika.org) | りか | 1549900 | new / draft |
 | N2-1596 | [利害](entries/1549/1549500-rigai.org) | りがい | 1549500 | new / draft |
 | N2-1597 | [リズム](entries/1141/1141620-rizumu.org) | リズム | 1141620 | new / draft |
+| N2-1598 | [リットル](entries/1141/1141870-rittoru.org) | リットル | 1141870 | new / draft |
+| N2-1599 | [リボン](entries/1142/1142880-ribon.org) | リボン | 1142880 | new / draft |
+| N2-1600 | [略す](entries/1551/1551960-ryakusu.org) | りゃくす | 1551960 | new / draft |
+| N2-1601 | [流域](entries/1552/1552230-ryuuiki.org) | りゅういき | 1552230 | new / draft |
+| N2-1602 | [寮](entries/1554/1554230-ryou.org) | りょう | 1554230 | new / draft |
+| N2-1603 | [両側](entries/1585/1585140-ryougawa.org) | りょうがわ | 1585140 | new / draft |
+| N2-1604 | [漁師](entries/1233/1233010-ryoushi.org) | りょうし | 1233010 | new / draft |
+| N2-1605 | [領収](entries/1554/1554750-ryoushuu.org) | りょうしゅう | 1554750 | new / draft |
+| N2-1606 | [領事](entries/1554/1554730-ryouji.org) | りょうじ | 1554730 | new / draft |
+| N2-1607 | [留守番](entries/1552/1552800-rusuban.org) | るすばん | 1552800 | new / draft |
 
 ## Maturity workflow
 
