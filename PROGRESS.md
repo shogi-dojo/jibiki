@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **1120**.
+Completed **30/200** additional distinct words; branch total **1130**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2053,6 +2053,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2076,6 +2077,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.1.14 | [心が動く](entries/1639/1639990-kokorogaugoku.org) | こころがうごく | 1639990 | new / draft |
 | JTest 12.1.15 | [心を配る](entries/1876/1876530-kokorowokubaru.org) | こころをくばる | 1876530 | new / draft |
 | JTest 12.1.16 | [心を引かれる](entries/2764/2764460-kokorowohikareru.org) | こころをひかれる | 2764460 | new / draft |
+| JTest 12.1.17 | [心を許す](entries/2401/2401940-kokorowoyurusu.org) | こころをゆるす | 2401940 | new / draft |
+| JTest 12.1.18 | [胸が痛む](entries/2786/2786110-munegaitamu.org) | むねがいたむ | 2786110 | new / draft |
+| JTest 12.1.19 | [胸が一杯になる](entries/2705/2705660-munegaippaininaru.org) | むねがいっぱいになる | 2705660 | new / draft |
+| JTest 12.2.1 | [頭が痛い](entries/1621/1621770-atamagaitai.org) | あたまがいたい | 1621770 | new / draft |
+| JTest 12.2.2 | [頭が固い](entries/1856/1856520-atamagakatai.org) | あたまがかたい | 1856520 | new / draft |
+| JTest 12.2.3 | [頭にくる](entries/1450/1450720-atamanikuru.org) | あたまにくる | 1450720 | new / draft |
+| JTest 12.2.4 | [頭が下がる](entries/2237/2237310-atamagasagaru.org) | あたまがさがる | 2237310 | new / draft |
+| JTest 12.2.5 | [顔が広い](entries/2139/2139970-kaogahiroi.org) | かおがひろい | 2139970 | new / draft |
+| JTest 12.2.6 | [顔を出す](entries/2101/2101420-kaowodasu.org) | かおをだす | 2101420 | new / draft |
+| JTest 12.2.7 | [目がない](entries/1535/1535080-meganai.org) | めがない | 1535080 | new / draft |
 
 ## Maturity workflow
 
