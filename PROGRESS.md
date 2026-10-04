@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4863 |
+| Canonical entry files | 4963 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1891 |
+| Canonical N2 entries | 1991 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4826 |
+| `new` | 4926 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4853 |
+| Entry metadata still marked `draft` | 4953 |
 | Core profile | 163 |
-| Learner profile | 4699 |
+| Learner profile | 4799 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1654,7 +1654,17 @@ with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
+The 100 supplementary N2 labels come from the [documented JTest list](sources/jlpt-n2/jtest/README.md);
+only lexical labels and readings were used, with original Ukrainian content.
 N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **800 → 900** branch additions, exactly **100** distinct new
+JMdict IDs, **100** individual word-addition commits, **10** batch ledger
+commits, **166** translated English senses with Ukrainian nuance notes, and
+**300** graded examples. The preceding 800 entry files are unchanged.
+All 28 documented JTest HTML checksums match the retrieved source pages.
+The full suite passed: **137 tests, 15,443 assertions, zero failures or errors**.
+The preserved uncommitted 罪 draft is excluded from these counts.
 
 | Batch | New entries |
 | --- | ---: |
