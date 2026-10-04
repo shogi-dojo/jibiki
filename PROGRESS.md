@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **2460**.
+Completed **170/200** additional distinct words; branch total **2470**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3628,6 +3628,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3791,6 +3792,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1444 | [磁気](entries/1316/1316990-jiki.org) | じき | 1316990 | new / draft |
 | JLPTLord N2 1447 | [反射](entries/1480/1480420-hansha.org) | はんしゃ | 1480420 | new / draft |
 | JLPTLord N2 1448 | [屈折](entries/1246/1246620-kussetsu.org) | くっせつ | 1246620 | new / draft |
+| JLPTLord N2 1449 | [拡散](entries/1205/1205180-kakusan.org) | かくさん | 1205180 | new / draft |
+| JLPTLord N2 1450 | [吸着](entries/1228/1228360-kyuuchaku.org) | きゅうちゃく | 1228360 | new / draft |
+| JLPTLord N2 1451 | [透過](entries/1450/1450540-touka.org) | とうか | 1450540 | new / draft |
+| JLPTLord N2 1452 | [遮蔽](entries/1323/1323340-shahei.org) | しゃへい | 1323340 | new / draft |
+| JLPTLord N2 1453 | [計測](entries/1252/1252230-keisoku.org) | けいそく | 1252230 | new / draft |
+| JLPTLord N2 1456 | [模型](entries/1533/1533650-mokei.org) | もけい | 1533650 | new / draft |
+| JLPTLord N2 1457 | [試作](entries/1312/1312430-shisaku.org) | しさく | 1312430 | new / draft |
+| JLPTLord N2 1459 | [納品](entries/1470/1470100-nouhin.org) | のうひん | 1470100 | new / draft |
+| JLPTLord N2 1460 | [検品](entries/1814/1814610-kenpin.org) | けんぴん | 1814610 | new / draft |
+| JLPTLord N2 1462 | [梱包](entries/1290/1290300-konpou.org) | こんぽう | 1290300 | new / draft |
 
 ## Maturity workflow
 
