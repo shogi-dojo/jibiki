@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **2360**.
+Completed **70/200** additional distinct words; branch total **2370**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3618,6 +3618,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3681,6 +3682,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1276 | [捻挫](entries/1469/1469540-nenza.org) | ねんざ | 1469540 | new / draft |
 | JLPTLord N2 1277 | [打撲](entries/1408/1408960-daboku.org) | だぼく | 1408960 | new / draft |
 | JLPTLord N2 1280 | [不眠](entries/1495/1495010-fumin.org) | ふみん | 1495010 | new / draft |
+| JLPTLord N2 1282 | [体質](entries/1409/1409520-taishitsu.org) | たいしつ | 1409520 | new / draft |
+| JLPTLord N2 1283 | [視力](entries/1312/1312150-shiryoku.org) | しりょく | 1312150 | new / draft |
+| JLPTLord N2 1284 | [聴力](entries/1428/1428950-chouryoku.org) | ちょうりょく | 1428950 | new / draft |
+| JLPTLord N2 1287 | [内臓](entries/1458/1458740-naizou.org) | ないぞう | 1458740 | new / draft |
+| JLPTLord N2 1288 | [臓器](entries/1403/1403480-zouki.org) | ぞうき | 1403480 | new / draft |
+| JLPTLord N2 1291 | [遺伝子](entries/1159/1159500-idenshi.org) | いでんし | 1159500 | new / draft |
+| JLPTLord N2 1292 | [染色体](entries/1843/1843780-senshokutai.org) | せんしょくたい | 1843780 | new / draft |
+| JLPTLord N2 1293 | [抗体](entries/1278/1278960-koutai.org) | こうたい | 1278960 | new / draft |
+| JLPTLord N2 1294 | [病原](entries/1490/1490270-byougen.org) | びょうげん | 1490270 | new / draft |
+| JLPTLord N2 1295 | [衛生](entries/1174/1174790-eisei.org) | えいせい | 1174790 | new / draft |
 
 ## Maturity workflow
 
