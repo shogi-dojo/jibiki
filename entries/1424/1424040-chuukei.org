@@ -1,0 +1,479 @@
+#+TITLE: 中継
+#+JMDICT_ID: 1424040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうけい
+#+ROMAJI: chuukei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1424040-001
+:PROPERTIES:
+:TEXT: 中継
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1424040-001
+:PROPERTIES:
+:TEXT: ちゅうけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1424040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a921c21c673ff8055dc2f51ce3f23e6b001028a98afb76b094b3194046e51cec
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- relay
+- hook-up
+** Ukrainian glosses
+*** uk-s-1424040-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ретрансляція; проміжне передавання; з'єднання через ланку
+** Learner notes
+*** note-s-1424040-001-001
+:PROPERTIES:
+:END:
+- UK :: 中継 означає передавання сигналу або зв'язку через проміжну точку: 中継地点・中継する. Це не обов'язково телепередача для глядачів; загальний сенс — ланка між джерелом і наступним місцем приймання.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1424040-002
+:PROPERTIES:
+:LEARNER_PRIORITY: primary
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c9a9244cba92c3ee458bf83c55f1ddb1da61577a6c0b257168d97b4655638321
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 中継放送
+** English glosses
+- relay broadcasting
+** Ukrainian glosses
+*** uk-s-1424040-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: трансляція з місця події; ретрансляційне мовлення
+** Learner notes
+*** note-s-1424040-002-001
+:PROPERTIES:
+:END:
+- UK :: У медіа 中継 — передавання перебігу події з місця її проведення: 試合の中継・生中継. 生 уточнює прямий ефір; саме 中継 не завжди задає відсутність затримки або будь-яких монтажних змін.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1424040-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 試合の中継を見た。
+- READING :: しあいのちゅうけいをみた。
+- UK :: Я подивився трансляцію матчу.
+- EN :: I watched the match broadcast.
+- FOCUS :: 中継
+*** ex-1424040-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会場からの中継が始まり、画面に選手が映った。
+- READING :: かいじょうからのちゅうけいがはじまり、がめんにせんしゅがうつった。
+- UK :: Почалася трансляція з місця змагань, і на екрані з'явилися спортсмени.
+- EN :: The broadcast from the venue began, and the players appeared on screen.
+- FOCUS :: 中継
+*** ex-1424040-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 中継を通して会場の様子が伝わり、遠くにいる人も行事を楽しめた。
+- READING :: ちゅうけいをとおしてかいじょうのようすがつたわり、とおくにいるひともぎょうじをたのしめた。
+- UK :: Трансляція передала атмосферу місця події, і люди далеко від нього теж змогли насолодитися заходом.
+- EN :: The broadcast conveyed the scene at the venue, allowing people far away to enjoy the event too.
+- FOCUS :: 中継
+
+
+* Sense s-1424040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8fe472b793ea805d2b1d85cd35955383b173f3f8b5e3e5545e16073e22e8e1c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relayeren
+*** en-s-1424040-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heruitzenden
+*** en-s-1424040-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overnemen
+*** en-s-1424040-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorgeven
+*** en-s-1424040-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relais
+*** en-s-1424040-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heruitzending
+*** en-s-1424040-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het overnemen
+*** en-s-1424040-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overname
+** Ukrainian glosses
+
+* Sense s-1424040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 01906359f32a27a520d30d94239065a2c684f4808d06921f4212d8ced985763e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omzetting {van signaal}
+** Ukrainian glosses
+
+* Sense s-1424040-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c9570663bacddf9f42df7372cf3e048809ffbd6f853ae749279dc93d85e4f4c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radiodiffusion
+*** en-s-1424040-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relais (télé, radio)
+*** en-s-1424040-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retransmission
+*** en-s-1424040-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: télédiffusion
+** Ukrainian glosses
+
+* Sense s-1424040-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5ccce8b42f1a1a5966fdc1b992c3f2d3e51d415daeca77f5ee5bda95d4c637fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: übertragen (z.B. eine Aufführung)
+*** en-s-1424040-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übertragung
+** Ukrainian glosses
+
+* Sense s-1424040-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: fc1dcb885f51102075a335ede05c8fbfd7bf8ac5e3366f4f24c079ed77a5b39a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Relais
+** Ukrainian glosses
+
+* Sense s-1424040-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 93107a23af1ebba47138a7f532414d08c6916d08ee09c1d15e3ef6c5f3a1f223
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rundfunkübertragung (Abk.)
+** Ukrainian glosses
+
+* Sense s-1424040-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b4e15e768cae594775fa0e492fcca111f3ee01fc031d3c58083aa4574322dbb6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelfogó
+*** en-s-1424040-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relé
+*** en-s-1424040-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sugárzás
+*** en-s-1424040-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabályozó motor
+*** en-s-1424040-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szervomotor
+*** en-s-1424040-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: továbbítás
+*** en-s-1424040-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: váltott lovak
+** Ukrainian glosses
+
+* Sense s-1424040-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 99ac70018bcceafbd3f15a2d54c7417c7658405c5510e47ae5c26fb04bf82760
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (радио) трансляция
+*** en-s-1424040-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} транслировать
+** Ukrainian glosses
+
+* Sense s-1424040-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 131684cdf68f58f58455b4cb566d115f5e04036abb44c4c55ffc937403a85cdc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prenašati prek druge postaje
+*** en-s-1424040-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neposredno prenašati
+*** en-s-1424040-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neposreden radijski ali televizijski prenos
+** Ukrainian glosses
+
+* Sense s-1424040-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 503d3d2e066ee3290ddc44d49497c9a8c52f22cd3d815759d023254dcc600ddb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424040-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retransmitir
+*** en-s-1424040-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transmisión (radio, televisón)
+** Ukrainian glosses
