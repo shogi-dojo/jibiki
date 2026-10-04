@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **1770**.
+Completed **80/200** additional distinct words; branch total **1780**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2835,6 +2835,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2908,6 +2909,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2302 | [腕力](entries/1562/1562950-wanryoku.org) | わんりょく | 1562950 | new / draft |
 | JLPTLord N2 18 | [応募](entries/1180/1180030-oubo.org) | おうぼ | 1180030 | new / draft |
 | JLPTLord N2 32 | [減少](entries/1263/1263210-genshou.org) | げんしょう | 1263210 | new / draft |
+| JLPTLord N2 41 | [運営](entries/1172/1172690-unei.org) | うんえい | 1172690 | new / draft |
+| JLPTLord N2 42 | [設立](entries/1386/1386090-setsuritsu.org) | せつりつ | 1386090 | new / draft |
+| JLPTLord N2 46 | [登録](entries/1444/1444810-touroku.org) | とうろく | 1444810 | new / draft |
+| JLPTLord N2 51 | [投資](entries/1447/1447230-toushi.org) | とうし | 1447230 | new / draft |
+| JLPTLord N2 54 | [保護](entries/1513/1513530-hogo.org) | ほご | 1513530 | new / draft |
+| JLPTLord N2 55 | [採用](entries/1294/1294890-saiyou.org) | さいよう | 1294890 | new / draft |
+| JLPTLord N2 58 | [破壊](entries/1471/1471250-hakai.org) | はかい | 1471250 | new / draft |
+| JLPTLord N2 63 | [創造](entries/1398/1398560-souzou.org) | そうぞう | 1398560 | new / draft |
+| JLPTLord N2 92 | [蓄積](entries/1422/1422440-chikuseki.org) | ちくせき | 1422440 | new / draft |
+| JLPTLord N2 94 | [規制](entries/1223/1223010-kisei.org) | きせい | 1223010 | new / draft |
 
 ## Maturity workflow
 
