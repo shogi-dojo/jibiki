@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **1840**.
+Completed **150/200** additional distinct words; branch total **1850**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2842,6 +2842,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2985,6 +2986,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 220 | [竣工](entries/1341/1341260-shunkou.org) | しゅんこう | 1341260 | new / draft |
 | JLPTLord N2 221 | [策定](entries/1298/1298280-sakutei.org) | さくてい | 1298280 | new / draft |
 | JLPTLord N2 222 | [表明](entries/1489/1489870-hyoumei.org) | ひょうめい | 1489870 | new / draft |
+| JLPTLord N2 223 | [見込](entries/1604/1604480-mikomi.org) | みこみ | 1604480 | new / draft |
+| JLPTLord N2 224 | [踏襲](entries/1619/1619900-toushuu.org) | とうしゅう | 1619900 | new / draft |
+| JLPTLord N2 225 | [網羅](entries/1534/1534450-moura.org) | もうら | 1534450 | new / draft |
+| JLPTLord N2 226 | [遵守](entries/1342/1342180-junshu.org) | じゅんしゅ | 1342180 | new / draft |
+| JLPTLord N2 227 | [傍聴](entries/1518/1518940-bouchou.org) | ぼうちょう | 1518940 | new / draft |
+| JLPTLord N2 228 | [斡旋](entries/1153/1153410-assen.org) | あっせん | 1153410 | new / draft |
+| JLPTLord N2 229 | [邁進](entries/1573/1573680-maishin.org) | まいしん | 1573680 | new / draft |
+| JLPTLord N2 230 | [検証](entries/1257/1257950-kenshou.org) | けんしょう | 1257950 | new / draft |
+| JLPTLord N2 231 | [適応](entries/1437/1437350-tekiou.org) | てきおう | 1437350 | new / draft |
+| JLPTLord N2 232 | [流通](entries/1552/1552440-ryuutsuu.org) | りゅうつう | 1552440 | new / draft |
 
 ## Maturity workflow
 
