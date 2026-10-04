@@ -1,0 +1,154 @@
+#+TITLE: 賞味期限
+#+JMDICT_ID: 1351980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうみきげん
+#+ROMAJI: shoumikigen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1351980-001
+:PROPERTIES:
+:TEXT: 賞味期限
+:END:
+*** Priorities
+- spec1
+** Reading rd-1351980-001
+:PROPERTIES:
+:TEXT: しょうみきげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1351980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c8bf7bacfc3014dfdb6e7a54093f1949f4cbc7aec68d21073c8b29d2e0bbfce9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- best-before date (on food)
+- use-by date
+- expiry date
+- expiration date
+** Ukrainian glosses
+*** uk-s-1351980-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: термін найкращої якості; дата «краще спожити до»
+** Learner notes
+*** note-s-1351980-001-001
+:PROPERTIES:
+:END:
+- UK :: =賞味期限= стосується очікуваної якості й смаку за вказаного зберігання, а не тотожний =消費期限= (терміну безпечного споживання). Не перекладайте обидва без уточнення як одну дату «придатності». Значення перевірено за [[https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/][消費者庁]].
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1351980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 賞味期限を確認した。
+- READING :: しょうみきげんをかくにんした。
+- UK :: Я перевірив дату «краще спожити до».
+- EN :: I checked the best-before date.
+- FOCUS :: 賞味期限
+*** ex-1351980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 袋の裏に賞味期限が書いてある。
+- READING :: ふくろのうらにしょうみきげんがかいてある。
+- UK :: На звороті пакета вказана дата найкращої якості.
+- EN :: The best-before date is printed on the back of the package.
+- FOCUS :: 賞味期限
+*** ex-1351980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 賞味期限と保存方法を一緒に確認し、買った食品の置き場所を決めた。
+- READING :: しょうみきげんとほぞんほうほうをいっしょにかくにんし、かったしょくひんのおきばしょをきめた。
+- UK :: Я перевірив разом дату найкращої якості й спосіб зберігання та визначив місце для куплених продуктів.
+- EN :: I checked the best-before date and storage instructions together and chose where to keep the purchased food.
+- FOCUS :: 賞味期限
+
+* Sense s-1351980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 934e284678d02101b983451c19618b63e2dd2634fa1c287fe0879e4dc22051ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1351980-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mindesthaltbarkeitsdatum
+** Ukrainian glosses
+
+* Sense s-1351980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 382ef8cfb1de417b1f4b139bf8405255dc6c3a88b11511b5ef1ecc6628eac7a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1351980-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szavatosság (élelmiszerre)
+** Ukrainian glosses
+
+* Sense s-1351980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c37a321d239cf20da83d0a5779a575308f221fe862c1f4c359ab9f15a4d0cecc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1351980-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fecha de caducidad
+*** en-s-1351980-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: consumir preferentemente antes de
+** Ukrainian glosses
