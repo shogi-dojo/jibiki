@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **940**.
+Completed **50/200** additional distinct words; branch total **950**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1802,6 +1802,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1845,6 +1846,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 7.2.11 | [人目](entries/1580/1580760-hitome.org) | ひとめ | 1580760 | new / draft |
 | JTest 7.2.12 | [色彩](entries/1357/1357720-shikisai.org) | しきさい | 1357720 | new / draft |
 | JTest 7.3.4 | [興奮](entries/1238/1238380-koufun.org) | こうふん | 1238380 | new / draft |
+| JTest 7.3.15 | [芸術家](entries/1253/1253070-geijutsuka.org) | げいじゅつか | 1253070 | new / draft |
+| JTest 7.4.2 | [絵本](entries/1202/1202380-ehon.org) | えほん | 1202380 | new / draft |
+| JTest 7.4.5 | [書き手](entries/1701/1701600-kakite.org) | かきて | 1701600 | new / draft |
+| JTest 7.4.7 | [主人公](entries/1325/1325680-shujinkou.org) | しゅじんこう | 1325680 | new / draft |
+| JTest 7.4.16 | [背景](entries/1472/1472720-haikei.org) | はいけい | 1472720 | new / draft |
+| JTest 7.4.21 | [由来](entries/1541/1541810-yurai.org) | ゆらい | 1541810 | new / draft |
+| JTest 7.4.26 | [生み出す](entries/1378/1378720-umidasu.org) | うみだす | 1378720 | new / draft |
+| JTest 7.4.27 | [読書家](entries/1688/1688400-dokushoka.org) | どくしょか | 1688400 | new / draft |
+| JTest 7.5.1 | [習い事](entries/1642/1642710-naraigoto.org) | ならいごと | 1642710 | new / draft |
+| JTest 7.5.4 | [凝る](entries/1239/1239070-koru.org) | こる | 1239070 | new / draft |
 
 ## Maturity workflow
 
