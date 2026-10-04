@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **2480**.
+Completed **190/200** additional distinct words; branch total **2490**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3630,6 +3630,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3813,6 +3814,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1483 | [豪雨](entries/1285/1285490-gouu.org) | ごうう | 1285490 | new / draft |
 | JLPTLord N2 1485 | [稲妻](entries/1167/1167860-inazuma.org) | いなずま | 1167860 | new / draft |
 | JLPTLord N2 1486 | [竜巻](entries/1597/1597060-tatsumaki.org) | たつまき | 1597060 | new / draft |
+| JLPTLord N2 1487 | [余震](entries/1544/1544290-yoshin.org) | よしん | 1544290 | new / draft |
+| JLPTLord N2 1488 | [震源](entries/1366/1366350-shingen.org) | しんげん | 1366350 | new / draft |
+| JLPTLord N2 1489 | [震度](entries/1366/1366380-shindo.org) | しんど | 1366380 | new / draft |
+| JLPTLord N2 1490 | [堆積](entries/1409/1409780-taiseki.org) | たいせき | 1409780 | new / draft |
+| JLPTLord N2 1491 | [侵食](entries/1359/1359840-shinshoku.org) | しんしょく | 1359840 | new / draft |
+| JLPTLord N2 1492 | [崩落](entries/1627/1627430-houraku.org) | ほうらく | 1627430 | new / draft |
+| JLPTLord N2 1493 | [地滑り](entries/1420/1420960-jisuberi.org) | じすべり | 1420960 | new / draft |
+| JLPTLord N2 1494 | [土砂崩れ](entries/1445/1445350-doshakuzure.org) | どしゃくずれ | 1445350 | new / draft |
+| JLPTLord N2 1495 | [液状化](entries/1918/1918140-ekijouka.org) | えきじょうか | 1918140 | new / draft |
+| JLPTLord N2 1496 | [防潮堤](entries/1621/1621930-bouchoutei.org) | ぼうちょうてい | 1621930 | new / draft |
 
 ## Maturity workflow
 
