@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **40/100** additional distinct words; branch total **840**.
+Completed **50/100** additional distinct words; branch total **850**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1662,6 +1662,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1705,6 +1706,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 5.2.27 | [混同](entries/1290/1290480-kondou.org) | こんどう | 1290480 | new / draft |
 | JTest 5.3.1 | [挑戦](entries/1428/1428240-chousen.org) | ちょうせん | 1428240 | new / draft |
 | JTest 5.3.5 | [課題](entries/1195/1195820-kadai.org) | かだい | 1195820 | new / draft |
+| JTest 5.3.6 | [段落](entries/1419/1419980-danraku.org) | だんらく | 1419980 | new / draft |
+| JTest 5.3.8 | [用紙](entries/1546/1546290-youshi.org) | ようし | 1546290 | new / draft |
+| JTest 5.3.13 | [言い換える](entries/1610/1610580-iikaeru.org) | いいかえる | 1610580 | new / draft |
+| JTest 5.3.14 | [考え込む](entries/1281/1281030-kangaekomu.org) | かんがえこむ | 1281030 | new / draft |
+| JTest 5.3.16 | [紛らわしい](entries/1504/1504990-magirawashii.org) | まぎらわしい | 1504990 | new / draft |
+| JTest 5.3.19 | [本番](entries/1523/1523150-honban.org) | ほんばん | 1523150 | new / draft |
+| JTest 5.3.24 | [回収](entries/1199/1199470-kaishuu.org) | かいしゅう | 1199470 | new / draft |
+| JTest 5.4.1 | [受講](entries/1329/1329760-jukou.org) | じゅこう | 1329760 | new / draft |
+| JTest 5.4.2 | [書き留める](entries/1343/1343940-kakitomeru.org) | かきとめる | 1343940 | new / draft |
+| JTest 5.4.4 | [心構え](entries/1360/1360670-kokorogamae.org) | こころがまえ | 1360670 | new / draft |
 
 ## Maturity workflow
 
