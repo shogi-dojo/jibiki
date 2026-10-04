@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **20/100** additional distinct entries; branch total **420**.
+Completed **30/100** additional distinct entries; branch total **430**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1103,6 +1103,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | --- | --- | ---: |
 | 1 | N2-1506–1515 | 10 |
 | 2 | N2-1516–1525 | 10 |
+| 3 | N2-1526–1535 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1126,6 +1127,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1523 | [燃やす](entries/1582/1582900-moyasu.org) | もやす | 1582900 | new / draft |
 | N2-1524 | [催し](entries/1292/1292140-moyooshi.org) | もよおし | 1292140 | new / draft |
 | N2-1525 | [盛る](entries/1379/1379740-moru.org) | もる | 1379740 | new / draft |
+| N2-1526 | [問答](entries/1536/1536060-mondou.org) | もんどう | 1536060 | new / draft |
+| N2-1527 | [モーター](entries/1134/1134480-mootaa.org) | モーター | 1134480 | new / draft |
+| N2-1528 | [喧しい](entries/1211/1211380-yakamashii.org) | やかましい | 1211380 | new / draft |
+| N2-1529 | [夜間](entries/1536/1536530-yakan.org) | やかん | 1536530 | new / draft |
+| N2-1530 | [役者](entries/1538/1538010-yakusha.org) | やくしゃ | 1538010 | new / draft |
+| N2-1531 | [役所](entries/1538/1538020-yakusho.org) | やくしょ | 1538020 | new / draft |
+| N2-1532 | [訳す](entries/1538/1538350-yakusu.org) | やくす | 1538350 | new / draft |
+| N2-1533 | [役人](entries/1538/1538050-yakunin.org) | やくにん | 1538050 | new / draft |
+| N2-1534 | [薬品](entries/1538/1538280-yakuhin.org) | やくひん | 1538280 | new / draft |
+| N2-1535 | [役目](entries/1538/1538080-yakume.org) | やくめ | 1538080 | new / draft |
 
 ## Maturity workflow
 
