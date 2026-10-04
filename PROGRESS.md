@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **2670**.
+Completed **180/200** additional distinct words; branch total **2680**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3899,6 +3899,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4072,6 +4073,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2025 | [羨望](entries/1391/1391960-senbou.org) | せんぼう | 1391960 | new / draft |
 | JLPTLord N2 2026 | [軽蔑](entries/1252/1252860-keibetsu.org) | けいべつ | 1252860 | new / draft |
 | JLPTLord N2 2027 | [侮辱](entries/1498/1498260-bujoku.org) | ぶじょく | 1498260 | new / draft |
+| JLPTLord N2 2028 | [屈辱](entries/1246/1246600-kutsujoku.org) | くつじょく | 1246600 | new / draft |
+| JLPTLord N2 2029 | [羞恥](entries/1570/1570630-shuuchi.org) | しゅうち | 1570630 | new / draft |
+| JLPTLord N2 2030 | [後悔](entries/1269/1269510-koukai.org) | こうかい | 1269510 | new / draft |
+| JLPTLord N2 2032 | [罪悪感](entries/1296/1296700-zaiakukan.org) | ざいあくかん | 1296700 | new / draft |
+| JLPTLord N2 2033 | [劣等感](entries/1558/1558520-rettoukan.org) | れっとうかん | 1558520 | new / draft |
+| JLPTLord N2 2034 | [優越感](entries/1539/1539130-yuuetsukan.org) | ゆうえつかん | 1539130 | new / draft |
+| JLPTLord N2 2035 | [孤独](entries/1266/1266850-kodoku.org) | こどく | 1266850 | new / draft |
+| JLPTLord N2 2036 | [寂しさ](entries/2423/2423480-sabishisa.org) | さびしさ | 2423480 | new / draft |
+| JLPTLord N2 2037 | [悲しみ](entries/1590/1590550-kanashimi.org) | かなしみ | 1590550 | new / draft |
+| JLPTLord N2 2040 | [自尊心](entries/1318/1318220-jisonshin.org) | じそんしん | 1318220 | new / draft |
 
 ## Maturity workflow
 
