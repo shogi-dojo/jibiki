@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **50/100** additional distinct words; branch total **650**.
+Completed **60/100** additional distinct words; branch total **660**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1384,6 +1384,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1437,6 +1438,16 @@ N2-69 (佚) remains deferred and is not counted.
 | N2-S1735 | [無数](entries/1530/1530280-musuu.org) | むすう | 1530280 | new / draft |
 | N2-S1736 | [紫](entries/1311/1311640-murasaki.org) | むらさき | 1311640 | new / draft |
 | N2-S1761 | [免税](entries/1533/1533230-menzei.org) | めんぜい | 1533230 | new / draft |
+| N2-S1784 | [紅葉](entries/2857/2857870-momiji.org) | もみじ | 2857870 | new / draft |
+| N2-S1820 | [行方](entries/1282/1282180-yukue.org) | ゆくえ | 1282180 | new / draft |
+| N2-S1859 | [欄](entries/1549/1549350-ran.org) | らん | 1549350 | new / draft |
+| N2-S1877 | [臨時](entries/1555/1555610-rinji.org) | りんじ | 1555610 | new / draft |
+| N2-S1881 | [冷凍](entries/1557/1557170-reitou.org) | れいとう | 1557170 | new / draft |
+| N2-S1887 | [連合](entries/1559/1559450-rengou.org) | れんごう | 1559450 | new / draft |
+| JTest 1.1.3 | [向き合う](entries/1277/1277060-mukiau.org) | むきあう | 1277060 | new / draft |
+| JTest 1.1.7 | [甘える](entries/1213/1213440-amaeru.org) | あまえる | 1213440 | new / draft |
+| JTest 1.1.8 | [世間知らず](entries/1848/1848140-sekenshirazu.org) | せけんしらず | 1848140 | new / draft |
+| JTest 1.1.11 | [自立](entries/1318/1318880-jiritsu.org) | じりつ | 1318880 | new / draft |
 
 ## Maturity workflow
 
