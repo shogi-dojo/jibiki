@@ -1,0 +1,593 @@
+#+TITLE: 押し
+#+JMDICT_ID: 1180130
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おし
+#+ROMAJI: oshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180130-001
+:PROPERTIES:
+:TEXT: 押し
+:END:
+*** Priorities
+- news1
+- nf08
+** Written form wf-1180130-002
+:PROPERTIES:
+:TEXT: 圧し
+:END:
+** Reading rd-1180130-001
+:PROPERTIES:
+:TEXT: おし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf08
+** Reading rd-1180130-002
+:PROPERTIES:
+:TEXT: オシ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1180130-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec761b94d90ea29f9f34a597c44816539748687fd3bd5187dc7ce7cbf81b375a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- push
+- pushing
+** Ukrainian glosses
+*** uk-s-1180130-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: штовхання; натискання
+** Learner notes
+*** note-s-1180130-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник від 押す описує дію натиску або штовхання. Часто протиставляється 引き — тягненню; омонім 推し означає улюбленця або рекомендований об'єкт і має інший зміст.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1180130-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 押しと引きを間違えた。
+- READING :: おしとひきをまちがえた。
+- UK :: Я переплутав штовхання й тягнення.
+- EN :: I confused pushing with pulling.
+- FOCUS :: 押し
+*** ex-1180130-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この戸は押しで開ける。
+- READING :: このとはおしであける。
+- UK :: Ці двері відчиняються натисканням.
+- EN :: This door opens by pushing.
+- FOCUS :: 押し
+*** ex-1180130-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戸の表示に押しと書かれていたので、取っ手を引かずに前へ押した。
+- READING :: とのひょうじにおしとかかれていたので、とってをひかずにまえへおした。
+- UK :: На дверях було написано штовхати, тому я не тягнув ручку, а натиснув уперед.
+- EN :: The door was marked push, so I pushed it forward instead of pulling the handle.
+- FOCUS :: 押し
+
+* Sense s-1180130-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e3d23b38a43447199c1bba8496a80d0c8201834b6fb2ca1a5a6ccb8d2b6b2ee8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- weight
+- pressure
+** Ukrainian glosses
+*** uk-s-1180130-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: тиск; вантаж для притискання
+** Learner notes
+*** note-s-1180130-002-001
+:PROPERTIES:
+:END:
+- UK :: У сполуці 押しをする може означати притиснути щось вагою, наприклад під час обробки їжі чи матеріалів. Це фізична дія або її засіб, а не обов'язково психологічний тиск на людину.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1180130-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5eb4307ba9545a39beef030a6741a24f2072cee06e912e8985c92f0d8cbafa9e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- authority
+- forcefulness
+- boldness
+- audacity
+- persistence
+** Ukrainian glosses
+*** uk-s-1180130-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: наполегливість; натиск; владність
+** Learner notes
+*** note-s-1180130-003-001
+:PROPERTIES:
+:END:
+- UK :: Поширені 押しが強い та 押しが弱い оцінюють, наскільки людина наполягає або просуває свою волю. Сильний натиск може бути перевагою чи недоліком залежно від ситуації; не тотожний фізичній силі.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1180130-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5bc1a78ead6f0d6943498602dd94e8f3e4730f37007a165325dd9b5f4dc8325e
+:END:
+** Applies to forms
+*** Written forms
+- 押し
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- pref
+*** Sense information
+- before a verb
+** English glosses
+- to forcibly ...
+- to strongly ...
+** Ukrainian glosses
+*** uk-s-1180130-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: силоміць; наполегливо, як компонент дієслова
+** Learner notes
+*** note-s-1180130-004-001
+:PROPERTIES:
+:END:
+- UK :: На початку складного дієслова додає відтінок сильного або наполегливого просування, як у 押し進める. Конкретне значення треба читати разом із рештою слова, а не відділяти як самостійну універсальну команду.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1180130-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6b4d936e5242ffaac94f9263bfd3cad0fcc528bafffb02b7b4543543f0d9fde0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+*** Miscellaneous and register
+- uk
+*** Sense information
+- usu. オシ
+** English glosses
+- push
+- pushing
+*** en-s-1180130-005-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extending your stones forward by pushing against opponent's stones
+** Ukrainian glosses
+*** uk-s-1180130-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: натиск; просування каменів, у ґо
+** Learner notes
+*** note-s-1180130-005-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін із гри ґо про просування своїх каменів із натиском на камені суперника. Не тотожний будь-якому ходу вперед; розуміння конкретного прийому залежить від позиції та ігрового контексту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1180130-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2fa8a7e7c1eaa4492cbd89266ad96490755647c324871278ca1420ae0b808c56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: duw
+** Ukrainian glosses
+
+* Sense s-1180130-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c527b090be46a0878e40eeb399a86e9569231a3dff1061be6074417349b290e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewicht
+*** en-s-1180130-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: druk
+** Ukrainian glosses
+
+* Sense s-1180130-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 213d832b4ef58e49ee7aba9e38bf75d45d69a077f5b5ea75cede7327080103d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: macht
+*** en-s-1180130-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: invloed
+*** en-s-1180130-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewicht
+*** en-s-1180130-008-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doordrijverij
+*** en-s-1180130-008-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brutaliteit
+*** en-s-1180130-008-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lef
+*** en-s-1180130-008-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drammerigheid
+** Ukrainian glosses
+
+* Sense s-1180130-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 32f0dcd50b233eae06ced697b6f06660b4757395a85dd076f00d29ee1dd5a1a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stoß
+** Ukrainian glosses
+
+* Sense s-1180130-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9de32779897ded7265fb2fb63de4f0876bb31e588a4b7ceea978e3321a096a56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufdringlichkeit
+*** en-s-1180130-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aggressivität
+*** en-s-1180130-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einfluss
+** Ukrainian glosses
+
+* Sense s-1180130-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: b0433ffecb218fc621f1edff87342f1288b1af6e4902128783b0dec67d8e7c99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Würde
+** Ukrainian glosses
+
+* Sense s-1180130-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 334981ba4949667d57471bce5322669fed40f68b38ca9031598c6879758ead9e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewicht
+*** en-s-1180130-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Druck
+*** en-s-1180130-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewicht
+** Ukrainian glosses
+
+* Sense s-1180130-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 1bec8a942f719dcdf5432eb9ee7770f8e4df768e4623f26ca2aea82de537de37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: energia
+*** en-s-1180130-013-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: protekció
+*** en-s-1180130-013-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tolás
+*** en-s-1180130-013-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyomás
+*** en-s-1180130-013-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhatalmazás
+*** en-s-1180130-013-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: imponáló fellépés
+*** en-s-1180130-013-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhatalmazás
+*** en-s-1180130-013-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fennhatóság
+*** en-s-1180130-013-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meghatalmazás
+*** en-s-1180130-013-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szakértő
+** Ukrainian glosses
+
+* Sense s-1180130-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: b74f08f144a922b1dde4b1ecc7968d6b61dce627c663f13cb16255dc43b8ccc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180130-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) тяжесть, груз
+*** en-s-1180130-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} придавить, положить груз (на что-л.)
+*** en-s-1180130-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) вес, влияние, авторитет; апломб
+*** en-s-1180130-014-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (тех.) напор
+*** en-s-1180130-014-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (ком.) падение, понижение (курса)
+** Ukrainian glosses
