@@ -1,0 +1,257 @@
+#+TITLE: 発
+#+JMDICT_ID: 1477120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はつ
+#+ROMAJI: hatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1477120-001
+:PROPERTIES:
+:TEXT: 発
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1477120-001
+:PROPERTIES:
+:TEXT: はつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1477120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2e042bdaf8483b53f68a01cf59d3503314df5b7b587271f5a7b55867e835d508
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+*** Cross-references
+- 着・1
+** English glosses
+- departure
+- departing from ...
+- leaving at (e.g. 8:30)
+** Ukrainian glosses
+*** uk-s-1477120-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відправлення; що відправляється з або о
+** Learner notes
+*** note-s-1477120-001-001
+:PROPERTIES:
+:END:
+- UK :: =東京発= — з відправленням із Токіо, =八時発= — відправлення о восьмій. Додається після місця чи часу; протилежне за розкладом =着=. Саме =発= не визначає прибуття.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1477120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: これは東京発の列車だ。
+- READING :: これはとうきょうはつのれっしゃだ。
+- UK :: Це поїзд із відправленням із Токіо.
+- EN :: This train departs from Tokyo.
+- FOCUS :: 発
+*** ex-1477120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 九時発のバスに間に合うよう、早めに家を出た。
+- READING :: くじはつのばすにまにあうよう、はやめにいえをでた。
+- UK :: Я вийшов раніше, щоб устигнути на автобус о дев'ятій.
+- EN :: I left home early to catch the bus departing at nine.
+- FOCUS :: 発
+*** ex-1477120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ時刻発でも乗り場が異なるため、行き先を確認してから並んだ。
+- READING :: おなじじこくはつでものりばがことなるため、いきさきをかくにんしてからならんだ。
+- UK :: Навіть за однакового часу відправлення платформи різняться, тож я перевірив напрямок перед чергою.
+- EN :: Services departing at the same time use different platforms, so I checked the destination before lining up.
+- FOCUS :: 発
+
+* Sense s-1477120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e982d5c44d8ce2472094d7c67f45d28972ec2f9aa0e33a08f8098bb3ff57739f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- sent from ...
+- (a letter, etc.) dated ...
+- datelined ...
+** Ukrainian glosses
+*** uk-s-1477120-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: надісланий із; датований
+** Learner notes
+*** note-s-1477120-002-001
+:PROPERTIES:
+:END:
+- UK :: =現地発の報告= — повідомлення з місця подій, дата з =発= може вказувати датування листа чи телеграми. Контекст документа, а не розклад транспорту, пояснює це значення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1477120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 246c075d8ab0977fdf547af05fc770f4b665804a71c3d2a6e555b4049bbbe6c3
+:END:
+** JMdict metadata
+*** Parts of speech
+- ctr
+** English glosses
+- counter for engines (on an aircraft)
+** Ukrainian glosses
+*** uk-s-1477120-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лічильник двигунів літака
+** Learner notes
+*** note-s-1477120-003-001
+:PROPERTIES:
+:END:
+- UK :: =双発= — з двома двигунами. Технічне значення для двигунів літального апарата; не загальний лічильник усіх механізмів. У складному слові читання може бути =ぱつ=.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1477120-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bd0054af21976c87644ecf6da73c1a4889a17933e487fa6721efd8004ae6c13c
+:END:
+** JMdict metadata
+*** Parts of speech
+- ctr
+** English glosses
+- counter for gunshots, bursts of gas, etc.
+- counter for bullets, bombs, etc.
+- counter for blows (punches)
+- counter for jokes, puns, etc.
+- counter for ideas, thoughts or guesses
+** Ukrainian glosses
+*** uk-s-1477120-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лічильник пострілів, ударів та окремих «випадів»
+** Learner notes
+*** note-s-1477120-004-001
+:PROPERTIES:
+:END:
+- UK :: =一発= — один постріл чи удар; переносно жарт, дотеп або спроба ідеї. Читання =いっぱつ=, =さんぱつ= залежить від числа. Іменник поруч визначає, що рахують.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1477120-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4d89fa623aa4bfd67f3114de3465549c5f27ace5d4274792f7d5d3ac7c22e8a5
+:END:
+** JMdict metadata
+*** Parts of speech
+- ctr
+*** Miscellaneous and register
+- vulg
+** English glosses
+- counter for ejaculations or sexual intercourse
+** Ukrainian glosses
+*** uk-s-1477120-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лічильник еякуляцій або статевих актів
+** Learner notes
+*** note-s-1477120-005-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне сексуальне значення лічильника; придатне лише у відповідному контексті. Не нав'язуйте його транспортному =東京発= чи технічному слову. Реєстр і ситуація визначають доречність.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1477120-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 334d26b95a8460e332fd284e5d154366ed3f46ef68b9054af2778e17cd411bb8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477120-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: départ
+** Ukrainian glosses
+
+* Sense s-1477120-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f2d23f287372e662cf31fbb778715faa069ad27e5234a92de8aa0ba196df25d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477120-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: commencement
+*** en-s-1477120-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: début
+** Ukrainian glosses
