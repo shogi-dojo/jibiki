@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **2520**.
+Completed **30/200** additional distinct words; branch total **2530**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3884,6 +3884,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3907,6 +3908,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1557 | [音色](entries/1576/1576910-neiro.org) | ねいろ | 1576910 | new / draft |
 | JLPTLord N2 1566 | [文化財](entries/1505/1505150-bunkazai.org) | ぶんかざい | 1505150 | new / draft |
 | JLPTLord N2 1567 | [遺産](entries/1159/1159260-isan.org) | いさん | 1159260 | new / draft |
+| JLPTLord N2 1568 | [遺跡](entries/1159/1159380-iseki.org) | いせき | 1159380 | new / draft |
+| JLPTLord N2 1570 | [城跡](entries/1647/1647170-shiroato.org) | しろあと | 1647170 | new / draft |
+| JLPTLord N2 1571 | [国宝](entries/1287/1287020-kokuhou.org) | こくほう | 1287020 | new / draft |
+| JLPTLord N2 1575 | [厳粛](entries/1262/1262670-genshuku.org) | げんしゅく | 1262670 | new / draft |
+| JLPTLord N2 1576 | [荘厳](entries/1402/1402110-sougon.org) | そうごん | 1402110 | new / draft |
+| JLPTLord N2 1577 | [崇拝](entries/1372/1372870-suuhai.org) | すうはい | 1372870 | new / draft |
+| JLPTLord N2 1578 | [奉納](entries/1516/1516090-hounou.org) | ほうのう | 1516090 | new / draft |
+| JLPTLord N2 1580 | [供養](entries/1233/1233910-kuyou.org) | くよう | 1233910 | new / draft |
+| JLPTLord N2 1582 | [法事](entries/1805/1805140-houji.org) | ほうじ | 1805140 | new / draft |
+| JLPTLord N2 1584 | [仏壇](entries/1502/1502200-butsudan.org) | ぶつだん | 1502200 | new / draft |
 
 ## Maturity workflow
 
