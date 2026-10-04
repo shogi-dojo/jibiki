@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **2580**.
+Completed **90/200** additional distinct words; branch total **2590**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3890,6 +3890,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3973,6 +3974,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1663 | [座禅](entries/1291/1291910-zazen.org) | ざぜん | 1291910 | new / draft |
 | JLPTLord N2 1664 | [精進](entries/1380/1380040-shoujin.org) | しょうじん | 1380040 | new / draft |
 | JLPTLord N2 1665 | [功徳](entries/1275/1275080-kudoku.org) | くどく | 1275080 | new / draft |
+| JLPTLord N2 1666 | [慈悲](entries/1315/1315440-jihi.org) | じひ | 1315440 | new / draft |
+| JLPTLord N2 1667 | [輪廻](entries/1555/1555730-rinne.org) | りんね | 1555730 | new / draft |
+| JLPTLord N2 1668 | [極楽](entries/1240/1240250-gokuraku.org) | ごくらく | 1240250 | new / draft |
+| JLPTLord N2 1669 | [地獄](entries/1421/1421090-jigoku.org) | じごく | 1421090 | new / draft |
+| JLPTLord N2 1670 | [霊](entries/1557/1557730-rei.org) | れい | 1557730 | new / draft |
+| JLPTLord N2 1671 | [魂](entries/1579/1579170-tamashii.org) | たましい | 1579170 | new / draft |
+| JLPTLord N2 1672 | [御守り](entries/1002/1002060-omamori.org) | おまもり | 1002060 | new / draft |
+| JLPTLord N2 1673 | [御札](entries/1693/1693960-ofuda.org) | おふだ | 1693960 | new / draft |
+| JLPTLord N2 1674 | [鳥居](entries/1430/1430280-torii.org) | とりい | 1430280 | new / draft |
+| JLPTLord N2 1675 | [狛犬](entries/1288/1288760-komainu.org) | こまいぬ | 1288760 | new / draft |
 
 ## Maturity workflow
 
