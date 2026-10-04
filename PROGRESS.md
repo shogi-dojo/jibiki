@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **10/100** additional distinct words; branch total **710**.
+Completed **20/100** additional distinct words; branch total **720**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1519,6 +1519,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1532,6 +1533,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 2.1.19 | [温もり](entries/1183/1183330-nukumori.org) | ぬくもり | 1183330 | new / draft |
 | JTest 2.1.21 | [点検](entries/1441/1441540-tenken.org) | てんけん | 1441540 | new / draft |
 | JTest 2.1.27 | [新築](entries/1362/1362160-shinchiku.org) | しんちく | 1362160 | new / draft |
+| JTest 2.2.4 | [出費](entries/1340/1340180-shuppi.org) | しゅっぴ | 1340180 | new / draft |
+| JTest 2.2.6 | [大金](entries/1413/1413500-taikin.org) | たいきん | 1413500 | new / draft |
+| JTest 2.2.10 | [公共料金](entries/1273/1273590-koukyouryoukin.org) | こうきょうりょうきん | 1273590 | new / draft |
+| JTest 2.2.12 | [引き落とし](entries/1950/1950210-hikiotoshi.org) | ひきおとし | 1950210 | new / draft |
+| JTest 2.2.13 | [手数料](entries/1327/1327980-tesuuryou.org) | てすうりょう | 1327980 | new / draft |
+| JTest 2.2.14 | [出し入れ](entries/1338/1338100-dashiire.org) | だしいれ | 1338100 | new / draft |
+| JTest 2.2.15 | [高くつく](entries/2104/2104970-takakutsuku.org) | たかくつく | 2104970 | new / draft |
+| JTest 2.2.16 | [残高](entries/1304/1304590-zandaka.org) | ざんだか | 1304590 | new / draft |
+| JTest 2.2.21 | [立て替える](entries/1551/1551550-tatekaeru.org) | たてかえる | 1551550 | new / draft |
+| JTest 2.2.23 | [返済](entries/1512/1512210-hensai.org) | へんさい | 1512210 | new / draft |
 
 ## Maturity workflow
 
