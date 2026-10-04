@@ -1,0 +1,1037 @@
+#+TITLE: 研ぐ
+#+JMDICT_ID: 1598700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とぐ
+#+ROMAJI: togu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1598700-001
+:PROPERTIES:
+:TEXT: 研ぐ
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf42
+** Written form wf-1598700-002
+:PROPERTIES:
+:TEXT: 磨ぐ
+:END:
+** Written form wf-1598700-003
+:PROPERTIES:
+:TEXT: 砥ぐ
+:END:
+** Reading rd-1598700-001
+:PROPERTIES:
+:TEXT: とぐ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf42
+
+* Sense s-1598700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f775e1f1ab59b10403e09db9556d9d65a2aaaf2823965ab92238991f07459829
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5g
+- vt
+** English glosses
+- to sharpen
+- to hone
+- to whet
+- to grind
+** Ukrainian glosses
+*** uk-s-1598700-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гострити; точити
+** Learner notes
+*** note-s-1598700-001-001
+:PROPERTIES:
+:END:
+- UK :: 研ぐ — перехідне дієслово для загострення леза: 包丁を研ぐ, はさみを研ぐ. Той, хто діє, робить предмет гострішим; 自動詞の「切れる」 описує здатність різати. Для поліпшення майстерності переносно вживають 感覚を研ぎ澄ます, але просте 研ぐ насамперед пов'язане з фізичним точінням.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1598700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父は包丁を研いでいる。
+- READING :: ちちはほうちょうをといでいる。
+- UK :: Батько точить кухонний ніж.
+- EN :: My father is sharpening a kitchen knife.
+- FOCUS :: 包丁を研いでいる
+*** ex-1598700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 切れ味が落ちたので、砥石で包丁を研いだ。
+- READING :: きれあじがおちたので、といしでほうちょうをといだ。
+- UK :: Ніж затупився, тому я нагострив його на точильному камені.
+- EN :: The knife had lost its edge, so I sharpened it with a whetstone.
+- FOCUS :: 包丁を研いだ
+*** ex-1598700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 職人は刃の角度を確かめながら少しずつ研ぎ、最後に紙を切って仕上がりを確認した。
+- READING :: しょくにんははのかくどをたしかめながらすこしずつとぎ、さいごにかみをきってしあがりをかくにんした。
+- UK :: Майстер потроху точив лезо, перевіряючи кут, а наприкінці розрізав папір, щоб оцінити результат.
+- EN :: The craftsperson honed the blade gradually while checking its angle, then cut paper to check the finish.
+- FOCUS :: 研ぎ
+
+* Sense s-1598700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f61ee916e007924d649a3b30020759b41743af8d6c42315ab6ddaa610d7a45b0
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5g
+- vt
+*** Sense information
+- esp. 磨ぐ
+** English glosses
+- to wash (rice)
+** Ukrainian glosses
+*** uk-s-1598700-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: промивати рис перед варінням
+** Learner notes
+*** note-s-1598700-002-001
+:PROPERTIES:
+:END:
+- UK :: У сполуці 米を研ぐ дієслово означає промивати рис, зазвичай перемішуючи його у воді та зливаючи її перед варінням. JMdict для цього значення особливо відзначає написання 磨ぐ, але 米を研ぐ теж широко вживається. Йдеться не про загострення рису й не про його готування на вогні.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1598700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d854bf8c3d9552099495588a589c126c1a931201d0da716ed38af998a5c44acd
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5g
+- vt
+** English glosses
+- to scour
+- to polish
+- to burnish
+** Ukrainian glosses
+*** uk-s-1598700-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: шліфувати; начищати; полірувати
+** Learner notes
+*** note-s-1598700-003-001
+:PROPERTIES:
+:END:
+- UK :: Це значення 研ぐ стосується обробки поверхні, щоб зробити її гладшою або блискучою, а не обов'язково гострою. У сучасному побутовому описі полірування часто природніше 磨く; 研ぐ характерне для абразивної чи ремісничої обробки. Конкретний об'єкт допомагає відрізнити цей сенс від точіння леза.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1598700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d0228129052259594199bef7d0d9f70246841d629c623fbcd155c056eea1797c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scherpen
+*** en-s-1598700-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scherp
+*** en-s-1598700-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scherper maken
+*** en-s-1598700-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanscherpen
+*** en-s-1598700-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: slijpen
+*** en-s-1598700-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wetten
+*** en-s-1598700-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanzetten
+** Ukrainian glosses
+
+* Sense s-1598700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e7b12b75ce66bfb4177e0915733c393d63171783917b3e6def795a55205a11e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: polijsten
+*** en-s-1598700-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bruineren
+*** en-s-1598700-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glanzen
+*** en-s-1598700-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opglanzen
+** Ukrainian glosses
+
+* Sense s-1598700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1a88157009293e0d69eb3ec9de5d1fb9a2b04877132d0176629733a44dac6d99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {米を} slijpen in water
+*** en-s-1598700-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wassen
+** Ukrainian glosses
+
+* Sense s-1598700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: de6338c9ef8f3b82f990c13641d721cac57949a2201e4d45c0211402f5a282ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aiguiser
+*** en-s-1598700-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moudre
+*** en-s-1598700-007-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: polir
+*** en-s-1598700-007-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: récurer
+** Ukrainian glosses
+
+* Sense s-1598700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ac570bebed902231b9d881129cf2f3f9a8e7c5c0d6425dda6a5caf4332e3fc51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laver (le riz)
+** Ukrainian glosses
+
+* Sense s-1598700-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d952a12124ecbee7e84d11af2b71123fc08b955db67bbd5a0a66fc434aab1f83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schärfen
+*** en-s-1598700-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schleifen
+*** en-s-1598700-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wetzen (z. B.eine Schneide)
+** Ukrainian glosses
+
+* Sense s-1598700-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0e6ff81aac1df84ff76fa6f9edcaa6cd28a26e1c3125475ebea6d9eef36af28e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (Reis) waschen
+** Ukrainian glosses
+
+* Sense s-1598700-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3fc70c38d9ccd21e6b6d8aa8a0ef2b3692131a214499498d2d23e8e6848f1eb0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: polieren
+*** en-s-1598700-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blank reiben
+** Ukrainian glosses
+
+* Sense s-1598700-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 097f31fc7376944478600294501913d1243b61df68bed62c9ba9f2f15116c545
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élesít
+*** en-s-1598700-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegyez
+*** en-s-1598700-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porrá tör
+*** en-s-1598700-012-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alámos
+*** en-s-1598700-012-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átfésül
+*** en-s-1598700-012-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bejár
+*** en-s-1598700-012-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felderít
+*** en-s-1598700-012-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felsúrol
+*** en-s-1598700-012-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fürkészik
+*** en-s-1598700-012-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hashajtót ad
+*** en-s-1598700-012-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: húsol
+*** en-s-1598700-012-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hústalanít
+*** en-s-1598700-012-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalózkodik
+*** en-s-1598700-012-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimos
+*** en-s-1598700-012-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiöblít
+*** en-s-1598700-012-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kisúrol
+*** en-s-1598700-012-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lecsiszol
+*** en-s-1598700-012-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leétet
+*** en-s-1598700-012-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemarat
+*** en-s-1598700-012-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letisztít
+*** en-s-1598700-012-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mos
+*** en-s-1598700-012-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sikál
+*** en-s-1598700-012-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztogat
+*** en-s-1598700-012-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zsírtalanít
+*** en-s-1598700-012-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényesít
+*** en-s-1598700-012-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beken
+*** en-s-1598700-012-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemos
+*** en-s-1598700-012-028
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élez
+*** en-s-1598700-012-029
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csiszol
+*** en-s-1598700-012-030
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: políroz
+*** en-s-1598700-012-031
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: súrol
+*** en-s-1598700-012-032
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élesít
+*** en-s-1598700-012-033
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegyez
+*** en-s-1598700-012-034
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porrá tör
+*** en-s-1598700-012-035
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alámos
+*** en-s-1598700-012-036
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átfésül
+*** en-s-1598700-012-037
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bejár
+*** en-s-1598700-012-038
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felderít
+*** en-s-1598700-012-039
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felsúrol
+*** en-s-1598700-012-040
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fürkészik
+*** en-s-1598700-012-041
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hashajtót ad
+*** en-s-1598700-012-042
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: húsol
+*** en-s-1598700-012-043
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hústalanít
+*** en-s-1598700-012-044
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalózkodik
+*** en-s-1598700-012-045
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kimos
+*** en-s-1598700-012-046
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiöblít
+*** en-s-1598700-012-047
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kisúrol
+*** en-s-1598700-012-048
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lecsiszol
+*** en-s-1598700-012-049
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leétet
+*** en-s-1598700-012-050
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemarat
+*** en-s-1598700-012-051
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letisztít
+*** en-s-1598700-012-052
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mos
+*** en-s-1598700-012-053
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sikál
+*** en-s-1598700-012-054
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztogat
+*** en-s-1598700-012-055
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zsírtalanít
+*** en-s-1598700-012-056
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényesít
+*** en-s-1598700-012-057
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beken
+*** en-s-1598700-012-058
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemos
+** Ukrainian glosses
+
+* Sense s-1598700-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: d8923fb13b6323707da6f32747c66069df4e6c7a4a0b827b107244d097f6c257
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) точить (ножи и т. п.); править (бритву)
+*** en-s-1598700-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) шлифовать, полировать
+*** en-s-1598700-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) промывать (рис)
+** Ukrainian glosses
+
+* Sense s-1598700-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 86a635397ba26d31604c37fee1e4a4bea340501e7e8609986b164b6175680659
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-014-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brusiti
+*** en-s-1598700-014-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nabrusiti
+*** en-s-1598700-014-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ošiliti
+*** en-s-1598700-014-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ostriti
+*** en-s-1598700-014-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: polirati
+** Ukrainian glosses
+
+* Sense s-1598700-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 18837b82e16d859a97b534c5653a1f93c0cc89c526b7ca5917bc503f781c5dba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598700-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afilar
+*** en-s-1598700-015-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pulir
+*** en-s-1598700-015-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lijar
+*** en-s-1598700-015-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lavar(arroz)
+** Ukrainian glosses
