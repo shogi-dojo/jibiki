@@ -1,0 +1,308 @@
+#+TITLE: 原子
+#+JMDICT_ID: 1261570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんし
+#+ROMAJI: genshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1261570-001
+:PROPERTIES:
+:TEXT: 原子
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Reading rd-1261570-001
+:PROPERTIES:
+:TEXT: げんし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1261570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7e58c42e36607f0be8fab77a795a6519a92e9c79df5573a8a6f1d49e79cc0592
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+- chem
+** English glosses
+- atom
+** Ukrainian glosses
+*** uk-s-1261570-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: атом
+** Learner notes
+*** note-s-1261570-001-001
+:PROPERTIES:
+:END:
+- UK :: Науковий термін для атома, який відрізняють від молекули 分子 та атомного ядра 原子核. Саме 原子 не означає лише ядерну енергетику; у сполуці 原子力 воно входить до окремого терміна про атомну енергію.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1261570-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 原子の構造を学んだ。
+- READING :: げんしのこうぞうをまなんだ。
+- UK :: Я вивчив будову атома.
+- EN :: I studied the structure of an atom.
+- FOCUS :: 原子
+*** ex-1261570-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 先生は原子と分子の違いを説明した。
+- READING :: せんせいはげんしとぶんしのちがいをせつめいした。
+- UK :: Учитель пояснив різницю між атомом і молекулою.
+- EN :: The teacher explained the difference between atoms and molecules.
+- FOCUS :: 原子
+*** ex-1261570-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 図を使って原子の構造を説明すると、文章だけの場合より理解しやすかった。
+- READING :: ずをつかってげんしのこうぞうをせつめいすると、ぶんしょうだけのばあいよりりかいしやすかった。
+- UK :: Будову атома було легше зрозуміти з рисунка, ніж лише з текстового пояснення.
+- EN :: A diagram made the structure of an atom easier to understand than text alone.
+- FOCUS :: 原子
+
+* Sense s-1261570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4594f63f202506847c0705ff4fdaa26b896b1b0b17a8a90a5c1ab1f3d2700d26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} atoom
+** Ukrainian glosses
+
+* Sense s-1261570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c93c85f16ad5c0f86921e2074af17e8eb3c8ba5a3116b8d7aca577b9db748fee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} deeltje
+*** en-s-1261570-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partikel
+** Ukrainian glosses
+
+* Sense s-1261570-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 555c1b639b7eb82580b94b9452ed64c8f50ba6afc16f36b7c005031c606928fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: atome
+** Ukrainian glosses
+
+* Sense s-1261570-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c598ec8462250435151a5574cb309368e3e0fd99409c66d54dd3538750e3c7a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Atom
+** Ukrainian glosses
+
+* Sense s-1261570-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6d308bf73dc0b5b24b7e539b944bd2a93980aceba065f3f44a44b47e81d6da3f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Atomkern
+** Ukrainian glosses
+
+* Sense s-1261570-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f62885d254f601bfd6d2610f1710382c54629a3c4507061a2ed90c993009f216
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Atom
+** Ukrainian glosses
+
+* Sense s-1261570-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 1e1c9ab28771852b624f999b4d6768b29f7c747d8a72c76523a19c357a2762b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apró rész
+*** en-s-1261570-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: atom
+*** en-s-1261570-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parányi rész
+** Ukrainian glosses
+
+* Sense s-1261570-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 5112378dfd72430ca739bd6190c6aaa9240072fe104d967614e3b7cfb854292b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: атом
+*** en-s-1261570-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[の]} атомный
+** Ukrainian glosses
+
+* Sense s-1261570-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 3e0e35bcea2e583b9c7b5a96ecc07ebde9868bdc79d387a7ef40efdd7bb2c561
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átomo
+** Ukrainian glosses
+
+* Sense s-1261570-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 18a2f7b4e5545b5dda4564c64084061be17dcd4ebdacec99728284f71fcc11bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261570-011-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: atom
+** Ukrainian glosses
