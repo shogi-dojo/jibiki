@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **2370**.
+Completed **80/200** additional distinct words; branch total **2380**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3619,6 +3619,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3692,6 +3693,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1293 | [抗体](entries/1278/1278960-koutai.org) | こうたい | 1278960 | new / draft |
 | JLPTLord N2 1294 | [病原](entries/1490/1490270-byougen.org) | びょうげん | 1490270 | new / draft |
 | JLPTLord N2 1295 | [衛生](entries/1174/1174790-eisei.org) | えいせい | 1174790 | new / draft |
+| JLPTLord N2 1298 | [接種](entries/1385/1385420-sesshu.org) | せっしゅ | 1385420 | new / draft |
+| JLPTLord N2 1299 | [健康診断](entries/1256/1256210-kenkoushindan.org) | けんこうしんだん | 1256210 | new / draft |
+| JLPTLord N2 1300 | [応急処置](entries/1973/1973820-oukyuushochi.org) | おうきゅうしょち | 1973820 | new / draft |
+| JLPTLord N2 1301 | [生態](entries/1379/1379280-seitai.org) | せいたい | 1379280 | new / draft |
+| JLPTLord N2 1304 | [微生物](entries/1486/1486090-biseibutsu.org) | びせいぶつ | 1486090 | new / draft |
+| JLPTLord N2 1305 | [哺乳類](entries/1565/1565260-honyuurui.org) | ほにゅうるい | 1565260 | new / draft |
+| JLPTLord N2 1306 | [爬虫類](entries/1569/1569220-hachuurui.org) | はちゅうるい | 1569220 | new / draft |
+| JLPTLord N2 1307 | [両生類](entries/1644/1644940-ryouseirui.org) | りょうせいるい | 1644940 | new / draft |
+| JLPTLord N2 1308 | [昆虫](entries/1289/1289980-konchuu.org) | こんちゅう | 1289980 | new / draft |
+| JLPTLord N2 1309 | [幼虫](entries/1545/1545270-youchuu.org) | ようちゅう | 1545270 | new / draft |
 
 ## Maturity workflow
 
