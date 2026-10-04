@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **1000**.
+Completed **110/200** additional distinct words; branch total **1010**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1808,6 +1808,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1911,6 +1912,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 9.3.13 | [寒気](entries/1210/1210410-samuke.org) | さむけ | 1210410 | new / draft |
 | JTest 9.3.19 | [伴う](entries/1478/1478370-tomonau.org) | ともなう | 1478370 | new / draft |
 | JTest 9.3.22 | [反応](entries/1480/1480210-hannou.org) | はんのう | 1480210 | new / draft |
+| JTest 9.4.1 | [病む](entries/1490/1490210-yamu.org) | やむ | 1490210 | new / draft |
+| JTest 9.4.2 | [負傷](entries/1498/1498100-fushou.org) | ふしょう | 1498100 | new / draft |
+| JTest 9.4.4 | [熱中症](entries/2097/2097700-netchuushou.org) | ねっちゅうしょう | 2097700 | new / draft |
+| JTest 9.4.5 | [細菌](entries/1295/1295590-saikin.org) | さいきん | 1295590 | new / draft |
+| JTest 9.4.10 | [負担](entries/1498/1498130-futan.org) | ふたん | 1498130 | new / draft |
+| JTest 9.4.12 | [手当て](entries/1598/1598240-teate.org) | てあて | 1598240 | new / draft |
+| JTest 9.4.13 | [尽くす](entries/1370/1370090-tsukusu.org) | つくす | 1370090 | new / draft |
+| JTest 9.4.15 | [作用](entries/1298/1298000-sayou.org) | さよう | 1298000 | new / draft |
+| JTest 9.4.17 | [副作用](entries/1500/1500400-fukusayou.org) | ふくさよう | 1500400 | new / draft |
+| JTest 9.4.21 | [告げる](entries/1285/1285990-tsugeru.org) | つげる | 1285990 | new / draft |
 
 ## Maturity workflow
 
