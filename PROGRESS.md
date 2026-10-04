@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **2560**.
+Completed **70/200** additional distinct words; branch total **2570**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3888,6 +3888,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3951,6 +3952,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1637 | [浮世絵](entries/1497/1497520-ukiyoe.org) | うきよえ | 1497520 | new / draft |
 | JLPTLord N2 1638 | [水墨画](entries/1372/1372080-suibokuga.org) | すいぼくが | 1372080 | new / draft |
 | JLPTLord N2 1639 | [日本画](entries/1464/1464460-nihonga.org) | にほんが | 1464460 | new / draft |
+| JLPTLord N2 1640 | [彫像](entries/1428/1428090-chouzou.org) | ちょうぞう | 1428090 | new / draft |
+| JLPTLord N2 1641 | [仏像](entries/1502/1502190-butsuzou.org) | ぶつぞう | 1502190 | new / draft |
+| JLPTLord N2 1642 | [銅像](entries/1454/1454380-douzou.org) | どうぞう | 1454380 | new / draft |
+| JLPTLord N2 1643 | [肖像](entries/1351/1351460-shouzou.org) | しょうぞう | 1351460 | new / draft |
+| JLPTLord N2 1645 | [風情](entries/1499/1499900-fuzei.org) | ふぜい | 1499900 | new / draft |
+| JLPTLord N2 1647 | [粋](entries/1372/1372410-iki.org) | いき | 1372410 | new / draft |
+| JLPTLord N2 1648 | [雅](entries/2056/2056470-miyabi.org) | みやび | 2056470 | new / draft |
+| JLPTLord N2 1649 | [侘び](entries/1606/1606760-wabi.org) | わび | 1606760 | new / draft |
+| JLPTLord N2 1651 | [礼儀](entries/1557/1557470-reigi.org) | れいぎ | 1557470 | new / draft |
+| JLPTLord N2 1653 | [礼節](entries/1557/1557540-reisetsu.org) | れいせつ | 1557540 | new / draft |
 
 ## Maturity workflow
 
