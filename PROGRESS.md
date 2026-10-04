@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **2680**.
+Completed **190/200** additional distinct words; branch total **2690**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3900,6 +3900,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4083,6 +4084,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2036 | [寂しさ](entries/2423/2423480-sabishisa.org) | さびしさ | 2423480 | new / draft |
 | JLPTLord N2 2037 | [悲しみ](entries/1590/1590550-kanashimi.org) | かなしみ | 1590550 | new / draft |
 | JLPTLord N2 2040 | [自尊心](entries/1318/1318220-jisonshin.org) | じそんしん | 1318220 | new / draft |
+| JLPTLord N2 2041 | [虚栄心](entries/1609/1609670-kyoeishin.org) | きょえいしん | 1609670 | new / draft |
+| JLPTLord N2 2042 | [向上心](entries/1277/1277260-koujoushin.org) | こうじょうしん | 1277260 | new / draft |
+| JLPTLord N2 2043 | [好奇心](entries/1277/1277590-koukishin.org) | こうきしん | 1277590 | new / draft |
+| JLPTLord N2 2044 | [探究心](entries/1768/1768860-tankyuushin.org) | たんきゅうしん | 1768860 | new / draft |
+| JLPTLord N2 2045 | [責任感](entries/1645/1645890-sekininkan.org) | せきにんかん | 1645890 | new / draft |
+| JLPTLord N2 2046 | [使命感](entries/2100/2100390-shimeikan.org) | しめいかん | 2100390 | new / draft |
+| JLPTLord N2 2047 | [連帯感](entries/1559/1559670-rentaikan.org) | れんたいかん | 1559670 | new / draft |
+| JLPTLord N2 2048 | [達成感](entries/2638/2638040-tasseikan.org) | たっせいかん | 2638040 | new / draft |
+| JLPTLord N2 2049 | [充実感](entries/2525/2525090-juujitsukan.org) | じゅうじつかん | 2525090 | new / draft |
+| JLPTLord N2 2050 | [満足感](entries/1947/1947220-manzokukan.org) | まんぞくかん | 1947220 | new / draft |
 
 ## Maturity workflow
 
