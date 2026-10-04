@@ -1363,6 +1363,37 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 | N2-S967 | [涼む](entries/1554/1554380-suzumu.org) | すずむ | 1554380 | new / draft |
 | N2-S1024 | [台詞](entries/1577/1577270-serifu.org) | せりふ | 1577270 | new / draft |
 
+## Additional supplementary 100-word N2 continuation (2026-10-04)
+
+Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
+Completed **10/100** additional distinct words; branch total **610**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-S1029 | [全集](entries/1395/1395340-zenshuu.org) | ぜんしゅう | 1395340 | new / draft |
+| N2-S1042 | [洗面](entries/1391/1391050-senmen.org) | せんめん | 1391050 | new / draft |
+| N2-S1043 | [全力](entries/1396/1396390-zenryoku.org) | ぜんりょく | 1396390 | new / draft |
+| N2-S1061 | [送料](entries/1402/1402870-souryou.org) | そうりょう | 1402870 | new / draft |
+| N2-S1066 | [測量](entries/1404/1404590-sokuryou.org) | そくりょう | 1404590 | new / draft |
+| N2-S1090 | [大学院](entries/1413/1413250-daigakuin.org) | だいがくいん | 1413250 | new / draft |
+| N2-S1145 | [断定](entries/1419/1419740-dantei.org) | だんてい | 1419740 | new / draft |
+| N2-S1150 | [近々](entries/1578/1578110-chikajika.org) | ちかぢか | 1578110 | new / draft |
+| N2-S1189 | [直通](entries/1431/1431440-chokutsuu.org) | ちょくつう | 1431440 | new / draft |
+| N2-S1209 | [月日](entries/1255/1255780-tsukihi.org) | つきひ | 1255780 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
