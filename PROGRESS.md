@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **1580**.
+Completed **90/200** additional distinct words; branch total **1590**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2573,6 +2573,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2656,6 +2657,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1333 | [谷底](entries/1416/1416760-tanizoko.org) | たにぞこ | 1416760 | new / draft |
 | TodayJLPT N2 1334 | [谷間](entries/1416/1416740-tanima.org) | たにま | 1416740 | new / draft |
 | TodayJLPT N2 1345 | [団員](entries/1419/1419180-danin.org) | だんいん | 1419180 | new / draft |
+| TodayJLPT N2 1356 | [断念](entries/1419/1419780-dannen.org) | だんねん | 1419780 | new / draft |
+| TodayJLPT N2 1358 | [断片](entries/1419/1419790-danpen.org) | だんぺん | 1419790 | new / draft |
+| TodayJLPT N2 1360 | [短命](entries/1418/1418830-tanmei.org) | たんめい | 1418830 | new / draft |
+| TodayJLPT N2 1361 | [遅延](entries/1422/1422030-chien.org) | ちえん | 1422030 | new / draft |
+| TodayJLPT N2 1370 | [竹林](entries/1422/1422400-chikurin.org) | ちくりん | 1422400 | new / draft |
+| TodayJLPT N2 1373 | [地層](entries/1421/1421320-chisou.org) | ちそう | 1421320 | new / draft |
+| TodayJLPT N2 1383 | [仲介](entries/1425/1425750-chuukai.org) | ちゅうかい | 1425750 | new / draft |
+| TodayJLPT N2 1384 | [中型](entries/1424/1424010-chuugata.org) | ちゅうがた | 1424010 | new / draft |
+| TodayJLPT N2 1386 | [駐在](entries/1426/1426890-chuuzai.org) | ちゅうざい | 1426890 | new / draft |
+| TodayJLPT N2 1387 | [注釈](entries/1426/1426610-chuushaku.org) | ちゅうしゃく | 1426610 | new / draft |
 
 ## Maturity workflow
 
