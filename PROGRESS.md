@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **1980**.
+Completed **90/200** additional distinct words; branch total **1990**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3091,6 +3091,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3174,6 +3175,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 453 | [連動](entries/1559/1559710-rendou.org) | れんどう | 1559710 | new / draft |
 | JLPTLord N2 454 | [連鎖](entries/1559/1559490-rensa.org) | れんさ | 1559490 | new / draft |
 | JLPTLord N2 456 | [均衡](entries/1241/1241270-kinkou.org) | きんこう | 1241270 | new / draft |
+| JLPTLord N2 457 | [調和](entries/1429/1429330-chouwa.org) | ちょうわ | 1429330 | new / draft |
+| JLPTLord N2 458 | [秩序](entries/1422/1422520-chitsujo.org) | ちつじょ | 1422520 | new / draft |
+| JLPTLord N2 459 | [規範](entries/1591/1591390-kihan.org) | きはん | 1591390 | new / draft |
+| JLPTLord N2 461 | [倫理](entries/1555/1555390-rinri.org) | りんり | 1555390 | new / draft |
+| JLPTLord N2 463 | [正義](entries/1376/1376910-seigi.org) | せいぎ | 1376910 | new / draft |
+| JLPTLord N2 472 | [任務](entries/1467/1467260-ninmu.org) | にんむ | 1467260 | new / draft |
+| JLPTLord N2 473 | [職務](entries/1357/1357580-shokumu.org) | しょくむ | 1357580 | new / draft |
+| JLPTLord N2 474 | [業務](entries/1239/1239540-gyoumu.org) | ぎょうむ | 1239540 | new / draft |
+| JLPTLord N2 476 | [工程](entries/1278/1278200-koutei.org) | こうてい | 1278200 | new / draft |
+| JLPTLord N2 479 | [手法](entries/1328/1328380-shuhou.org) | しゅほう | 1328380 | new / draft |
 
 ## Maturity workflow
 
