@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **1790**.
+Completed **100/200** additional distinct words; branch total **1800**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2837,6 +2837,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2930,6 +2931,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 119 | [分配](entries/1504/1504090-bunpai.org) | ぶんぱい | 1504090 | new / draft |
 | JLPTLord N2 123 | [把握](entries/1470/1470910-haaku.org) | はあく | 1470910 | new / draft |
 | JLPTLord N2 128 | [推進](entries/1371/1371140-suishin.org) | すいしん | 1371140 | new / draft |
+| JLPTLord N2 130 | [接触](entries/1385/1385450-sesshoku.org) | せっしょく | 1385450 | new / draft |
+| JLPTLord N2 140 | [妨害](entries/1519/1519130-bougai.org) | ぼうがい | 1519130 | new / draft |
+| JLPTLord N2 141 | [排除](entries/1472/1472370-haijo.org) | はいじょ | 1472370 | new / draft |
+| JLPTLord N2 143 | [浸透](entries/1362/1362630-shintou.org) | しんとう | 1362630 | new / draft |
+| JLPTLord N2 144 | [派遣](entries/1471/1471130-haken.org) | はけん | 1471130 | new / draft |
+| JLPTLord N2 145 | [要請](entries/1546/1546780-yousei.org) | ようせい | 1546780 | new / draft |
+| JLPTLord N2 146 | [抗議](entries/1278/1278860-kougi.org) | こうぎ | 1278860 | new / draft |
+| JLPTLord N2 147 | [撤回](entries/1437/1437710-tekkai.org) | てっかい | 1437710 | new / draft |
+| JLPTLord N2 148 | [撤退](entries/1437/1437740-tettai.org) | てったい | 1437740 | new / draft |
+| JLPTLord N2 150 | [崩壊](entries/1516/1516280-houkai.org) | ほうかい | 1516280 | new / draft |
 
 ## Maturity workflow
 
