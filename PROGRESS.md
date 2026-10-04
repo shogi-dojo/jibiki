@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **2280**.
+Completed **190/200** additional distinct words; branch total **2290**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3362,6 +3362,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3545,6 +3546,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1093 | [根本的](entries/1290/1290290-konponteki.org) | こんぽんてき | 1290290 | new / draft |
 | JLPTLord N2 1094 | [本質的](entries/1822/1822900-honshitsuteki.org) | ほんしつてき | 1822900 | new / draft |
 | JLPTLord N2 1095 | [典型的](entries/1438/1438090-tenkeiteki.org) | てんけいてき | 1438090 | new / draft |
+| JLPTLord N2 1096 | [総合的](entries/1401/1401570-sougouteki.org) | そうごうてき | 1401570 | new / draft |
+| JLPTLord N2 1097 | [客観的](entries/1226/1226700-kyakkanteki.org) | きゃっかんてき | 1226700 | new / draft |
+| JLPTLord N2 1098 | [主観的](entries/1325/1325210-shukanteki.org) | しゅかんてき | 1325210 | new / draft |
+| JLPTLord N2 1099 | [一般的](entries/1165/1165880-ippanteki.org) | いっぱんてき | 1165880 | new / draft |
+| JLPTLord N2 1100 | [普遍的](entries/1615/1615290-fuhenteki.org) | ふへんてき | 1615290 | new / draft |
+| JLPTLord N2 1101 | [伝統的](entries/1442/1442270-dentouteki.org) | でんとうてき | 1442270 | new / draft |
+| JLPTLord N2 1102 | [革新的](entries/1206/1206490-kakushinteki.org) | かくしんてき | 1206490 | new / draft |
+| JLPTLord N2 1103 | [進歩的](entries/1813/1813340-shinpoteki.org) | しんぽてき | 1813340 | new / draft |
+| JLPTLord N2 1104 | [保守的](entries/1603/1603490-hoshuteki.org) | ほしゅてき | 1603490 | new / draft |
+| JLPTLord N2 1105 | [民主的](entries/1528/1528870-minshuteki.org) | みんしゅてき | 1528870 | new / draft |
 
 ## Maturity workflow
 
