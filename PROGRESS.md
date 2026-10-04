@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **1510**.
+Completed **20/200** additional distinct words; branch total **1520**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2566,6 +2566,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2579,6 +2580,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Nihon Torii N2 148 | [脅す](entries/1238/1238070-odosu.org) | おどす | 1238070 | new / draft |
 | Nihon Torii N2 151 | [衰える](entries/1372/1372430-otoroeru.org) | おとろえる | 1372430 | new / draft |
 | Nihon Torii N2 155 | [買い込む](entries/1473/1473610-kaikomu.org) | かいこむ | 1473610 | new / draft |
+| Nihon Torii N2 175 | [鍛える](entries/1419/1419120-kitaeru.org) | きたえる | 1419120 | new / draft |
+| Nihon Torii N2 251 | [発つ](entries/2857/2857436-tatsu.org) | たつ | 2857436 | new / draft |
+| Nihon Torii N2 295 | [亡くす](entries/2835/2835808-nakusu.org) | なくす | 2835808 | new / draft |
+| Nihon Torii N2 345 | [蒔く](entries/2611/2611890-maku.org) | まく | 2611890 | new / draft |
+| Nihon Torii N2 1611 | [薬缶](entries/1605/1605370-yakan.org) | やかん | 1605370 | new / draft |
+| TodayJLPT N2 1034 | [少量](entries/1595/1595030-shouryou.org) | しょうりょう | 1595030 | new / draft |
+| TodayJLPT N2 1040 | [植林](entries/1357/1357390-shokurin.org) | しょくりん | 1357390 | new / draft |
+| TodayJLPT N2 1053 | [知らん顔](entries/1420/1420440-shirankao.org) | しらんかお | 1420440 | new / draft |
+| TodayJLPT N2 1059 | [試練](entries/1312/1312590-shiren.org) | しれん | 1312590 | new / draft |
+| TodayJLPT N2 1061 | [白黒](entries/1475/1475160-shirokuro.org) | しろくろ | 1475160 | new / draft |
 
 ## Maturity workflow
 
