@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **2850**.
+Completed **160/200** additional distinct words; branch total **2860**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4168,6 +4168,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4321,6 +4322,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2433 | [弾ける](entries/1419/1419380-hajikeru.org) | はじける | 1419380 | new / draft |
 | JLPTLord N2 2438 | [捲る](entries/1257/1257810-mekuru.org) | めくる | 1257810 | new / draft |
 | JLPTLord N2 2440 | [拗ねる](entries/1567/1567260-suneru.org) | すねる | 1567260 | new / draft |
+| JLPTLord N2 2446 | [損なう](entries/1596/1596510-sokonau.org) | そこなう | 1596510 | new / draft |
+| JLPTLord N2 2447 | [傷つける](entries/1345/1345930-kizutsukeru.org) | きずつける | 1345930 | new / draft |
+| JLPTLord N2 2449 | [癒す](entries/1538/1538750-iyasu.org) | いやす | 1538750 | new / draft |
+| JLPTLord N2 2450 | [癒える](entries/1538/1538740-ieru.org) | いえる | 1538740 | new / draft |
+| JLPTLord N2 2453 | [廃れる](entries/1472/1472020-sutareru.org) | すたれる | 1472020 | new / draft |
+| JLPTLord N2 2454 | [滅びる](entries/1603/1603610-horobiru.org) | ほろびる | 1603610 | new / draft |
+| JLPTLord N2 2458 | [授かる](entries/1330/1330270-sazukaru.org) | さずかる | 1330270 | new / draft |
+| JLPTLord N2 2459 | [授ける](entries/1330/1330280-sazukeru.org) | さずける | 1330280 | new / draft |
+| JLPTLord N2 2463 | [悔いる](entries/1200/1200400-kuiru.org) | くいる | 1200400 | new / draft |
+| JLPTLord N2 2464 | [省みる](entries/2836/2836356-kaerimiru.org) | かえりみる | 2836356 | new / draft |
 
 ## Maturity workflow
 
