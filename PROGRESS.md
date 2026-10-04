@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **1680**.
+Completed **190/200** additional distinct words; branch total **1690**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2583,6 +2583,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2766,6 +2767,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1791 | [皮革](entries/1483/1483850-hikaku.org) | ひかく | 1483850 | new / draft |
 | TodayJLPT N2 1797 | [引き金](entries/1601/1601570-hikigane.org) | ひきがね | 1601570 | new / draft |
 | TodayJLPT N2 1800 | [引きつける](entries/1601/1601680-hikitsukeru.org) | ひきつける | 1601680 | new / draft |
+| TodayJLPT N2 1802 | [引き抜く](entries/1169/1169090-hikinuku.org) | ひきぬく | 1169090 | new / draft |
+| TodayJLPT N2 1803 | [引き離す](entries/1169/1169190-hikihanasu.org) | ひきはなす | 1169190 | new / draft |
+| TodayJLPT N2 1822 | [人出](entries/1368/1368110-hitode.org) | ひとで | 1368110 | new / draft |
+| TodayJLPT N2 1844 | [氷河](entries/1488/1488880-hyouga.org) | ひょうが | 1488880 | new / draft |
+| TodayJLPT N2 1845 | [氷山](entries/1489/1489030-hyouzan.org) | ひょうざん | 1489030 | new / draft |
+| TodayJLPT N2 1848 | [病弱](entries/1490/1490320-byoujaku.org) | びょうじゃく | 1490320 | new / draft |
+| TodayJLPT N2 1850 | [病床](entries/1490/1490330-byoushou.org) | びょうしょう | 1490330 | new / draft |
+| TodayJLPT N2 1851 | [秒速](entries/1490/1490450-byousoku.org) | びょうそく | 1490450 | new / draft |
+| TodayJLPT N2 1861 | [貧血](entries/1490/1490800-hinketsu.org) | ひんけつ | 1490800 | new / draft |
+| TodayJLPT N2 1862 | [品詞](entries/1490/1490570-hinshi.org) | ひんし | 1490570 | new / draft |
 
 ## Maturity workflow
 
