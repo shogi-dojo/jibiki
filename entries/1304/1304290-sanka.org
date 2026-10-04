@@ -1,0 +1,319 @@
+#+TITLE: 酸化
+#+JMDICT_ID: 1304290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんか
+#+ROMAJI: sanka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1304290-001
+:PROPERTIES:
+:TEXT: 酸化
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1304290-001
+:PROPERTIES:
+:TEXT: さんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1304290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1025b42f4225f534bae65643eb0a9f70a1111a285eb6965410e43937c73817b4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- chem
+*** Cross-references
+- 還元・2
+** English glosses
+- oxidation
+- oxidization
+** Ukrainian glosses
+*** uk-s-1304290-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: окиснення; оксидація
+** Learner notes
+*** note-s-1304290-001-001
+:PROPERTIES:
+:END:
+- UK :: 酸化 — хімічний процес окиснення; типові 酸化する та 酸化を防ぐ. У шкільних поясненнях часто пов'язане з киснем, але сучасне поняття також стосується втрати електронів; протилежний процес називають 還元.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1304290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 金属が酸化した。
+- READING :: きんぞくがさんかした。
+- UK :: Метал окислився.
+- EN :: The metal oxidized.
+- FOCUS :: 酸化
+*** ex-1304290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 酸化によって表面の色が変わった。
+- READING :: さんかによってひょうめんのいろがかわった。
+- UK :: Через окиснення колір поверхні змінився.
+- EN :: Oxidation changed the surface color.
+- FOCUS :: 酸化
+*** ex-1304290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 空気に触れる部分と触れない部分で、酸化の進み方を比べた。
+- READING :: くうきにふれるぶぶんとふれないぶぶんで、さんかのすすみかたをくらべた。
+- UK :: Порівняли перебіг окиснення на ділянках, що контактують і не контактують із повітрям.
+- EN :: We compared oxidation in areas exposed and unexposed to air.
+- FOCUS :: 酸化
+
+* Sense s-1304290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5bacfbd2895190180964ec084e73755588ec73048b09f2c5132f1bd5c3c74085
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} oxideren
+*** en-s-1304290-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich met zuurstof verbinden
+** Ukrainian glosses
+
+* Sense s-1304290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7ade5782aa5b798b771d0762a27573bb2084628e02b7f76e67c0469a5071bedc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} oxideren
+*** en-s-1304290-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: met zuurstof verbinden
+*** en-s-1304290-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} oxidatie
+** Ukrainian glosses
+
+* Sense s-1304290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 934de92744e8ac7ff77929473902b00acc07c42255fd9d4e2448c65f205ac56b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oxydation
+** Ukrainian glosses
+
+* Sense s-1304290-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 37a3165f8949b1edd45a7f3cad46c1f3fdd8f66639387ca111a7a129f59a9d47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oxidieren
+*** en-s-1304290-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oxidation
+** Ukrainian glosses
+
+* Sense s-1304290-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 002e3c9d1c95f7150794c7592e67046b59135bb15cb046b7eb506cb77137025a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oxidáció
+** Ukrainian glosses
+
+* Sense s-1304290-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 16fe8df1eb8492a2751908cb0f2e72f53d85e82835650eb1e640fa4f84d52d86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) окисление
+*** en-s-1304290-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} окисляться
+*** en-s-1304290-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) окись
+** Ukrainian glosses
+
+* Sense s-1304290-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a80a84f159987c046e94446e93dcce1115d09be2f81054d4ef2e69d0f697e459
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oksidacija
+*** en-s-1304290-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oksidirati
+** Ukrainian glosses
+
+* Sense s-1304290-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 4bd72f5686860b4307a6ec57ece315f890171943ba0a00bdba2a3e223fb676f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oxidación
+** Ukrainian glosses
+
+* Sense s-1304290-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 6530e6618cd994dc3b2d8c1dd9ad8e1889be7eb04d2454a0e082ea7847ee9b92
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304290-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oxidation
+** Ukrainian glosses
