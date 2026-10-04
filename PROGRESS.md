@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **2230**.
+Completed **140/200** additional distinct words; branch total **2240**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3357,6 +3357,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3490,6 +3491,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 975 | [潤す](entries/1341/1341810-uruosu.org) | うるおす | 1341810 | new / draft |
 | JLPTLord N2 977 | [揺るがす](entries/1612/1612140-yurugasu.org) | ゆるがす | 1612140 | new / draft |
 | JLPTLord N2 978 | [染まる](entries/1391/1391100-somaru.org) | そまる | 1391100 | new / draft |
+| JLPTLord N2 979 | [染める](entries/1391/1391160-someru.org) | そめる | 1391160 | new / draft |
+| JLPTLord N2 980 | [委ねる](entries/1156/1156090-yudaneru.org) | ゆだねる | 1156090 | new / draft |
+| JLPTLord N2 985 | [漂う](entries/1489/1489240-tadayou.org) | ただよう | 1489240 | new / draft |
+| JLPTLord N2 986 | [募る](entries/1514/1514800-tsunoru.org) | つのる | 1514800 | new / draft |
+| JLPTLord N2 988 | [悟る](entries/1270/1270850-satoru.org) | さとる | 1270850 | new / draft |
+| JLPTLord N2 991 | [妬む](entries/1444/1444380-netamu.org) | ねたむ | 1444380 | new / draft |
+| JLPTLord N2 996 | [剥がれる](entries/1474/1474330-hagareru.org) | はがれる | 1474330 | new / draft |
+| JLPTLord N2 997 | [弾く](entries/1419/1419360-hajiku.org) | はじく | 1419360 | new / draft |
+| JLPTLord N2 998 | [弾む](entries/1419/1419400-hazumu.org) | はずむ | 1419400 | new / draft |
+| JLPTLord N2 1007 | [愚かしい](entries/1245/1245110-orokashii.org) | おろかしい | 1245110 | new / draft |
 
 ## Maturity workflow
 
