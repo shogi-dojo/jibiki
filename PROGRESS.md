@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **1730**.
+Completed **40/200** additional distinct words; branch total **1740**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2831,6 +2831,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2864,6 +2865,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2128 | [木片](entries/1534/1534860-mokuhen.org) | もくへん | 1534860 | new / draft |
 | TodayJLPT N2 2137 | [持ち込む](entries/1315/1315590-mochikomu.org) | もちこむ | 1315590 | new / draft |
 | TodayJLPT N2 2138 | [持ち出す](entries/1315/1315600-mochidasu.org) | もちだす | 1315600 | new / draft |
+| TodayJLPT N2 2175 | [勇者](entries/1539/1539800-yuusha.org) | ゆうしゃ | 1539800 | new / draft |
+| TodayJLPT N2 2178 | [有毒](entries/1541/1541550-yuudoku.org) | ゆうどく | 1541550 | new / draft |
+| TodayJLPT N2 2188 | [油田](entries/1538/1538720-yuden.org) | ゆでん | 1538720 | new / draft |
+| TodayJLPT N2 2192 | [溶解](entries/1546/1546110-youkai.org) | ようかい | 1546110 | new / draft |
+| TodayJLPT N2 2198 | [幼少](entries/1545/1545220-youshou.org) | ようしょう | 1545220 | new / draft |
+| TodayJLPT N2 2199 | [養成](entries/1547/1547190-yousei.org) | ようせい | 1547190 | new / draft |
+| TodayJLPT N2 2203 | [腰痛](entries/1288/1288430-youtsuu.org) | ようつう | 1288430 | new / draft |
+| TodayJLPT N2 2209 | [容量](entries/1545/1545450-youryou.org) | ようりょう | 1545450 | new / draft |
+| TodayJLPT N2 2211 | [翌朝](entries/1585/1585000-yokuasa.org) | よくあさ | 1585000 | new / draft |
+| TodayJLPT N2 2212 | [翌月](entries/1547/1547490-yokugetsu.org) | よくげつ | 1547490 | new / draft |
 
 ## Maturity workflow
 
