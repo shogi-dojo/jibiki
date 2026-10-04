@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **2110**.
+Completed **20/200** additional distinct words; branch total **2120**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3345,6 +3345,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3358,6 +3359,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 721 | [株主](entries/1209/1209010-kabunushi.org) | かぶぬし | 1209010 | new / draft |
 | JLPTLord N2 722 | [役員](entries/1537/1537990-yakuin.org) | やくいん | 1537990 | new / draft |
 | JLPTLord N2 723 | [取締役](entries/1610/1610920-torishimariyaku.org) | とりしまりやく | 1610920 | new / draft |
+| JLPTLord N2 724 | [会長](entries/1198/1198770-kaichou.org) | かいちょう | 1198770 | new / draft |
+| JLPTLord N2 725 | [副社長](entries/1500/1500460-fukushachou.org) | ふくしゃちょう | 1500460 | new / draft |
+| JLPTLord N2 727 | [常務](entries/1356/1356130-joumu.org) | じょうむ | 1356130 | new / draft |
+| JLPTLord N2 728 | [顧問](entries/1267/1267880-komon.org) | こもん | 1267880 | new / draft |
+| JLPTLord N2 729 | [監査](entries/1590/1590860-kansa.org) | かんさ | 1590860 | new / draft |
+| JLPTLord N2 730 | [決算](entries/1254/1254290-kessan.org) | けっさん | 1254290 | new / draft |
+| JLPTLord N2 731 | [経理](entries/1251/1251680-keiri.org) | けいり | 1251680 | new / draft |
+| JLPTLord N2 732 | [総務](entries/1401/1401770-soumu.org) | そうむ | 1401770 | new / draft |
+| JLPTLord N2 734 | [広報](entries/1593/1593040-kouhou.org) | こうほう | 1593040 | new / draft |
+| JLPTLord N2 735 | [渉外](entries/1350/1350420-shougai.org) | しょうがい | 1350420 | new / draft |
 
 ## Maturity workflow
 
