@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **2740**.
+Completed **50/200** additional distinct words; branch total **2750**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4157,6 +4157,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4200,6 +4201,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2169 | [同世代](entries/2399/2399340-dousedai.org) | どうせだい | 2399340 | new / draft |
 | JLPTLord N2 2170 | [青春](entries/1381/1381550-seishun.org) | せいしゅん | 1381550 | new / draft |
 | JLPTLord N2 2171 | [思春期](entries/1309/1309550-shishunki.org) | ししゅんき | 1309550 | new / draft |
+| JLPTLord N2 2172 | [成熟](entries/1375/1375730-seijuku.org) | せいじゅく | 1375730 | new / draft |
+| JLPTLord N2 2173 | [老衰](entries/1561/1561120-rousui.org) | ろうすい | 1561120 | new / draft |
+| JLPTLord N2 2174 | [余生](entries/1605/1605930-yosei.org) | よせい | 1605930 | new / draft |
+| JLPTLord N2 2175 | [生涯](entries/1378/1378840-shougai.org) | しょうがい | 1378840 | new / draft |
+| JLPTLord N2 2176 | [人生観](entries/1368/1368400-jinseikan.org) | じんせいかん | 1368400 | new / draft |
+| JLPTLord N2 2177 | [世界観](entries/1645/1645810-sekaikan.org) | せかいかん | 1645810 | new / draft |
+| JLPTLord N2 2178 | [死生観](entries/1767/1767400-shiseikan.org) | しせいかん | 1767400 | new / draft |
+| JLPTLord N2 2180 | [宿命](entries/1337/1337330-shukumei.org) | しゅくめい | 1337330 | new / draft |
+| JLPTLord N2 2181 | [天命](entries/1440/1440400-tenmei.org) | てんめい | 1440400 | new / draft |
+| JLPTLord N2 2183 | [志](entries/1309/1309050-kokorozashi.org) | こころざし | 1309050 | new / draft |
 
 ## Maturity workflow
 
