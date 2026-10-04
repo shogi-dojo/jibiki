@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **2470**.
+Completed **180/200** additional distinct words; branch total **2480**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3629,6 +3629,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3802,6 +3803,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1459 | [納品](entries/1470/1470100-nouhin.org) | のうひん | 1470100 | new / draft |
 | JLPTLord N2 1460 | [検品](entries/1814/1814610-kenpin.org) | けんぴん | 1814610 | new / draft |
 | JLPTLord N2 1462 | [梱包](entries/1290/1290300-konpou.org) | こんぽう | 1290300 | new / draft |
+| JLPTLord N2 1463 | [積載](entries/1383/1383040-sekisai.org) | せきさい | 1383040 | new / draft |
+| JLPTLord N2 1464 | [配送](entries/1473/1473120-haisou.org) | はいそう | 1473120 | new / draft |
+| JLPTLord N2 1469 | [廃材](entries/1472/1472090-haizai.org) | はいざい | 1472090 | new / draft |
+| JLPTLord N2 1470 | [残骸](entries/1304/1304520-zangai.org) | ざんがい | 1304520 | new / draft |
+| JLPTLord N2 1473 | [粉末](entries/1504/1504880-funmatsu.org) | ふんまつ | 1504880 | new / draft |
+| JLPTLord N2 1479 | [露](entries/1560/1560070-tsuyu.org) | つゆ | 1560070 | new / draft |
+| JLPTLord N2 1481 | [雹](entries/1574/1574070-hyou.org) | ひょう | 1574070 | new / draft |
+| JLPTLord N2 1483 | [豪雨](entries/1285/1285490-gouu.org) | ごうう | 1285490 | new / draft |
+| JLPTLord N2 1485 | [稲妻](entries/1167/1167860-inazuma.org) | いなずま | 1167860 | new / draft |
+| JLPTLord N2 1486 | [竜巻](entries/1597/1597060-tatsumaki.org) | たつまき | 1597060 | new / draft |
 
 ## Maturity workflow
 
