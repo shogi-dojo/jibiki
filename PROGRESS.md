@@ -3328,6 +3328,37 @@ corrected the literal gloss for 風潮 without adding another word.
 The original untracked 罪 draft and candidate-finder script remain untouched.
 All additions remain `new` / `draft` learner entries pending editorial review.
 
+## Final 2300-word branch N2 continuation (2026-10-04)
+
+Baseline: `5ad66293`, with **2100** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **2110**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 708 | [紛争](entries/1505/1505060-funsou.org) | ふんそう | 1505060 | new / draft |
+| JLPTLord N2 713 | [会談](entries/1198/1198760-kaidan.org) | かいだん | 1198760 | new / draft |
+| JLPTLord N2 714 | [首脳](entries/1329/1329360-shunou.org) | しゅのう | 1329360 | new / draft |
+| JLPTLord N2 717 | [領事館](entries/1554/1554740-ryoujikan.org) | りょうじかん | 1554740 | new / draft |
+| JLPTLord N2 718 | [国連](entries/1287/1287210-kokuren.org) | こくれん | 1287210 | new / draft |
+| JLPTLord N2 719 | [総会](entries/1401/1401490-soukai.org) | そうかい | 1401490 | new / draft |
+| JLPTLord N2 720 | [理事会](entries/1795/1795740-rijikai.org) | りじかい | 1795740 | new / draft |
+| JLPTLord N2 721 | [株主](entries/1209/1209010-kabunushi.org) | かぶぬし | 1209010 | new / draft |
+| JLPTLord N2 722 | [役員](entries/1537/1537990-yakuin.org) | やくいん | 1537990 | new / draft |
+| JLPTLord N2 723 | [取締役](entries/1610/1610920-torishimariyaku.org) | とりしまりやく | 1610920 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below

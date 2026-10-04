@@ -17,3 +17,11 @@ The original notes for 被告 and 原告 distinguish civil litigants from crimin
 This distinction was checked against the [Japanese courts' explanation of judges](https://www.courts.go.jp/saiban/zinbutu/saibankan/index.html) and [criminal proceedings](https://www.courts.go.jp/saiban/syurui/syurui_keizi/index.html), accessed 2026-10-04.
 These references support usage notes; they are not additional N2 classification evidence.
 No source sentences are copied.
+
+## 2100 to 2300 continuation
+
+A further 200 unused lexical candidates were reconciled with the pinned JMdict
+and existing entry IDs on 2026-10-04. The manifest now records 532 candidates
+across these continuations. Only candidate words and readings come from the
+study list; Ukrainian glosses, usage notes, and all examples are authored
+independently. N2 is this study site’s classification, not an official syllabus.
