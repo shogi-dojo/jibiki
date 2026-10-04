@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **2530**.
+Completed **40/200** additional distinct words; branch total **2540**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3885,6 +3885,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3918,6 +3919,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1580 | [供養](entries/1233/1233910-kuyou.org) | くよう | 1233910 | new / draft |
 | JLPTLord N2 1582 | [法事](entries/1805/1805140-houji.org) | ほうじ | 1805140 | new / draft |
 | JLPTLord N2 1584 | [仏壇](entries/1502/1502200-butsudan.org) | ぶつだん | 1502200 | new / draft |
+| JLPTLord N2 1585 | [位牌](entries/1155/1155590-ihai.org) | いはい | 1155590 | new / draft |
+| JLPTLord N2 1586 | [遺言](entries/1159/1159130-yuigon.org) | ゆいごん | 1159130 | new / draft |
+| JLPTLord N2 1587 | [喪](entries/1399/1399250-mo.org) | も | 1399250 | new / draft |
+| JLPTLord N2 1588 | [弔い](entries/1581/1581750-tomurai.org) | とむらい | 1581750 | new / draft |
+| JLPTLord N2 1590 | [披露宴](entries/1483/1483500-hirouen.org) | ひろうえん | 1483500 | new / draft |
+| JLPTLord N2 1591 | [結納](entries/1254/1254970-yuinou.org) | ゆいのう | 1254970 | new / draft |
+| JLPTLord N2 1593 | [成人式](entries/1764/1764080-seijinshiki.org) | せいじんしき | 1764080 | new / draft |
+| JLPTLord N2 1594 | [七五三](entries/1319/1319310-shichigosan.org) | しちごさん | 1319310 | new / draft |
+| JLPTLord N2 1597 | [節分](entries/1386/1386340-setsubun.org) | せつぶん | 1386340 | new / draft |
+| JLPTLord N2 1598 | [彼岸](entries/1483/1483100-higan.org) | ひがん | 1483100 | new / draft |
 
 ## Maturity workflow
 
