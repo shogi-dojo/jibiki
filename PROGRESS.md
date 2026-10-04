@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **1030**.
+Completed **140/200** additional distinct words; branch total **1040**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1811,6 +1811,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1944,6 +1945,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 10.1.27 | [居場所](entries/1630/1630060-ibasho.org) | いばしょ | 1630060 | new / draft |
 | JTest 10.1.28 | [持ち主](entries/1605/1605230-mochinushi.org) | もちぬし | 1605230 | new / draft |
 | JTest 10.1.30 | [実に](entries/2820/2820720-jitsuni.org) | じつに | 2820720 | new / draft |
+| JTest 10.2.1 | [発生](entries/1477/1477620-hassei.org) | はっせい | 1477620 | new / draft |
+| JTest 10.2.2 | [相次ぐ](entries/1400/1400980-aitsugu.org) | あいつぐ | 1400980 | new / draft |
+| JTest 10.2.5 | [あり得ない](entries/2109/2109610-arienai.org) | ありえない | 2109610 | new / draft |
+| JTest 10.2.6 | [荒っぽい](entries/1281/1281470-arappoi.org) | あらっぽい | 1281470 | new / draft |
+| JTest 10.2.8 | [取り締まり](entries/1599/1599070-torishimari.org) | とりしまり | 1599070 | new / draft |
+| JTest 10.2.12 | [目撃](entries/1535/1535390-mokugeki.org) | もくげき | 1535390 | new / draft |
+| JTest 10.2.14 | [見逃す](entries/1604/1604670-minogasu.org) | みのがす | 1604670 | new / draft |
+| JTest 10.2.16 | [未だに](entries/1527/1527140-imadani.org) | いまだに | 1527140 | new / draft |
+| JTest 10.2.17 | [不明](entries/1495/1495060-fumei.org) | ふめい | 1495060 | new / draft |
+| JTest 10.2.19 | [誤る](entries/1271/1271300-ayamaru.org) | あやまる | 1271300 | new / draft |
 
 ## Maturity workflow
 
