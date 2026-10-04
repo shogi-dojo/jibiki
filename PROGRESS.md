@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **50/100** additional distinct words; branch total **850**.
+Completed **60/100** additional distinct words; branch total **860**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1663,6 +1663,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1716,6 +1717,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 5.4.1 | [受講](entries/1329/1329760-jukou.org) | じゅこう | 1329760 | new / draft |
 | JTest 5.4.2 | [書き留める](entries/1343/1343940-kakitomeru.org) | かきとめる | 1343940 | new / draft |
 | JTest 5.4.4 | [心構え](entries/1360/1360670-kokorogamae.org) | こころがまえ | 1360670 | new / draft |
+| JTest 5.4.7 | [取り組む](entries/1326/1326820-torikumu.org) | とりくむ | 1326820 | new / draft |
+| JTest 5.4.8 | [意欲](entries/1587/1587690-iyoku.org) | いよく | 1587690 | new / draft |
+| JTest 5.4.14 | [受け入れる](entries/1329/1329670-ukeireru.org) | うけいれる | 1329670 | new / draft |
+| JTest 5.4.27 | [挙げる](entries/2864/2864818-ageru.org) | あげる | 2864818 | new / draft |
+| JTest 5.4.29 | [手書き](entries/1327/1327830-tegaki.org) | てがき | 1327830 | new / draft |
+| JTest 5.4.30 | [一気に](entries/1161/1161730-ikkini.org) | いっきに | 1161730 | new / draft |
+| JTest 5.5.1 | [起動](entries/1223/1223880-kidou.org) | きどう | 1223880 | new / draft |
+| JTest 5.5.2 | [本体](entries/1522/1522950-hontai.org) | ほんたい | 1522950 | new / draft |
+| JTest 5.5.6 | [検索](entries/1257/1257900-kensaku.org) | けんさく | 1257900 | new / draft |
+| JTest 5.5.7 | [転送](entries/1441/1441250-tensou.org) | てんそう | 1441250 | new / draft |
 
 ## Maturity workflow
 
