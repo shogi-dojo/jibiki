@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **1170**.
+Completed **80/200** additional distinct words; branch total **1180**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2058,6 +2058,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2131,6 +2132,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 12.3.17 | [腹を抱える](entries/2028/2028420-harawokakaeru.org) | はらをかかえる | 2028420 | new / draft |
 | JTest 12.3.18 | [足が出る](entries/1404/1404640-ashigaderu.org) | あしがでる | 1404640 | new / draft |
 | JTest 12.3.19 | [足を伸ばす](entries/2266/2266910-ashiwonobasu.org) | あしをのばす | 2266910 | new / draft |
+| JTest 12.3.20 | [足を運ぶ](entries/2102/2102020-ashiwohakobu.org) | あしをはこぶ | 2102020 | new / draft |
+| JTest 12.3.21 | [足を引っ張る](entries/2119/2119830-ashiwohipparu.org) | あしをひっぱる | 2119830 | new / draft |
+| JTest 12.4.1 | [何かと](entries/1189/1189280-nanikato.org) | なにかと | 1189280 | new / draft |
+| JTest 12.4.2 | [何だかんだ](entries/1188/1188360-nandakanda.org) | なんだかんだ | 1188360 | new / draft |
+| JTest 12.4.4 | [何だか](entries/1188/1188350-nandaka.org) | なんだか | 1188350 | new / draft |
+| Kotoba N2 4 | [仰ぐ](entries/1238/1238780-aogu.org) | あおぐ | 1238780 | new / draft |
+| Kotoba N2 16 | [異議](entries/1157/1157580-igi.org) | いぎ | 1157580 | new / draft |
+| Kotoba N2 17 | [移行](entries/1158/1158240-ikou.org) | いこう | 1158240 | new / draft |
+| Kotoba N2 18 | [意向](entries/1587/1587200-ikou.org) | いこう | 1587200 | new / draft |
+| Kotoba N2 24 | [上下](entries/1352/1352700-ueshita.org) | うえした | 1352700 | new / draft |
 
 ## Maturity workflow
 
