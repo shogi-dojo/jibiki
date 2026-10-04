@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **40/100** additional distinct entries; branch total **440**.
+Completed **50/100** additional distinct entries; branch total **450**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1105,6 +1105,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 2 | N2-1516–1525 | 10 |
 | 3 | N2-1526–1535 | 10 |
 | 4 | N2-1536–1546 | 10 |
+| 5 | N2-1547–1556 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1148,6 +1149,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1544 | [破れる](entries/1471/1471210-yabureru.org) | やぶれる | 1471210 | new / draft |
 | N2-1545 | [やむを得ない](entries/1612/1612100-yamuwoenai.org) | やむをえない | 1612100 | new / draft |
 | N2-1546 | [遊園地](entries/1542/1542170-yuuenchi.org) | ゆうえんち | 1542170 | new / draft |
+| N2-1547 | [夕刊](entries/1542/1542690-yuukan.org) | ゆうかん | 1542690 | new / draft |
+| N2-1548 | [友好](entries/1540/1540080-yuukou.org) | ゆうこう | 1540080 | new / draft |
+| N2-1549 | [郵送](entries/1542/1542380-yuusou.org) | ゆうそう | 1542380 | new / draft |
+| N2-1550 | [夕立](entries/1542/1542820-yuudachi.org) | ゆうだち | 1542820 | new / draft |
+| N2-1551 | [夕日](entries/1542/1542750-yuuhi.org) | ゆうひ | 1542750 | new / draft |
+| N2-1552 | [悠々](entries/1605/1605700-yuuyuu.org) | ゆうゆう | 1605700 | new / draft |
+| N2-1553 | [有料](entries/1541/1541690-yuuryou.org) | ゆうりょう | 1541690 | new / draft |
+| N2-1554 | [浴衣](entries/1584/1584990-yukata.org) | ゆかた | 1584990 | new / draft |
+| N2-1555 | [輸血](entries/1538/1538810-yuketsu.org) | ゆけつ | 1538810 | new / draft |
+| N2-1556 | [湯気](entries/1448/1448600-yuge.org) | ゆげ | 1448600 | new / draft |
 
 ## Maturity workflow
 
