@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **2600**.
+Completed **110/200** additional distinct words; branch total **2610**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3892,6 +3892,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3995,6 +3996,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1686 | [囲碁](entries/1155/1155990-igo.org) | いご | 1155990 | new / draft |
 | JLPTLord N2 1689 | [空手](entries/1245/1245620-karate.org) | からて | 1245620 | new / draft |
 | JLPTLord N2 1690 | [合気道](entries/1586/1586050-aikidou.org) | あいきどう | 1586050 | new / draft |
+| JLPTLord N2 1692 | [盆栽](entries/1523/1523730-bonsai.org) | ぼんさい | 1523730 | new / draft |
+| JLPTLord N2 1693 | [和歌](entries/1562/1562000-waka.org) | わか | 1562000 | new / draft |
+| JLPTLord N2 1694 | [連歌](entries/1559/1559370-renga.org) | れんが | 1559370 | new / draft |
+| JLPTLord N2 1695 | [俳諧](entries/1471/1471990-haikai.org) | はいかい | 1471990 | new / draft |
+| JLPTLord N2 1696 | [源氏物語](entries/1263/1263370-genjimonogatari.org) | げんじものがたり | 1263370 | new / draft |
+| JLPTLord N2 1697 | [万葉集](entries/1526/1526550-manyoushuu.org) | まんようしゅう | 1526550 | new / draft |
+| JLPTLord N2 1698 | [枯山水](entries/1685/1685280-karesansui.org) | かれさんすい | 1685280 | new / draft |
+| JLPTLord N2 1699 | [庭園](entries/1436/1436140-teien.org) | ていえん | 1436140 | new / draft |
+| JLPTLord N2 1700 | [石庭](entries/1382/1382730-sekitei.org) | せきてい | 1382730 | new / draft |
+| JLPTLord N2 1701 | [築山](entries/1422/1422150-tsukiyama.org) | つきやま | 1422150 | new / draft |
 
 ## Maturity workflow
 
