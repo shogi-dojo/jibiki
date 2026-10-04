@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **70/100** additional distinct words; branch total **870**.
+Completed **80/100** additional distinct words; branch total **880**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1665,6 +1665,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1738,6 +1739,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 6.1.1 | [求人](entries/1229/1229500-kyuujin.org) | きゅうじん | 1229500 | new / draft |
 | JTest 6.1.2 | [志望](entries/1309/1309140-shibou.org) | しぼう | 1309140 | new / draft |
 | JTest 6.1.4 | [携わる](entries/1250/1250660-tazusawaru.org) | たずさわる | 1250660 | new / draft |
+| JTest 6.1.5 | [生かす](entries/1587/1587070-ikasu.org) | いかす | 1587070 | new / draft |
+| JTest 6.1.6 | [貴社](entries/1223/1223510-kisha.org) | きしゃ | 1223510 | new / draft |
+| JTest 6.1.8 | [動機](entries/1451/1451310-douki.org) | どうき | 1451310 | new / draft |
+| JTest 6.1.9 | [熱意](entries/1467/1467760-netsui.org) | ねつい | 1467760 | new / draft |
+| JTest 6.1.10 | [学歴](entries/1207/1207200-gakureki.org) | がくれき | 1207200 | new / draft |
+| JTest 6.1.11 | [不問](entries/1495/1495130-fumon.org) | ふもん | 1495130 | new / draft |
+| JTest 6.1.13 | [特技](entries/1454/1454740-tokugi.org) | とくぎ | 1454740 | new / draft |
+| JTest 6.1.14 | [協調](entries/1235/1235700-kyouchou.org) | きょうちょう | 1235700 | new / draft |
+| JTest 6.1.16 | [精一杯](entries/1379/1379870-seiippai.org) | せいいっぱい | 1379870 | new / draft |
+| JTest 6.1.18 | [対応](entries/1409/1409840-taiou.org) | たいおう | 1409840 | new / draft |
 
 ## Maturity workflow
 
