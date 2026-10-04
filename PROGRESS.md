@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **2770**.
+Completed **80/200** additional distinct words; branch total **2780**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4160,6 +4160,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4233,6 +4234,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2210 | [歓喜](entries/1212/1212950-kanki.org) | かんき | 1212950 | new / draft |
 | JLPTLord N2 2211 | [陶酔](entries/1450/1450680-tousui.org) | とうすい | 1450680 | new / draft |
 | JLPTLord N2 2212 | [恍惚](entries/1566/1566790-koukotsu.org) | こうこつ | 1566790 | new / draft |
+| JLPTLord N2 2213 | [困惑](entries/1289/1289630-konwaku.org) | こんわく | 1289630 | new / draft |
+| JLPTLord N2 2214 | [当惑](entries/1449/1449290-touwaku.org) | とうわく | 1449290 | new / draft |
+| JLPTLord N2 2215 | [狼狽](entries/1560/1560960-roubai.org) | ろうばい | 1560960 | new / draft |
+| JLPTLord N2 2216 | [憤慨](entries/1504/1504650-fungai.org) | ふんがい | 1504650 | new / draft |
+| JLPTLord N2 2217 | [落胆](entries/1548/1548820-rakutan.org) | らくたん | 1548820 | new / draft |
+| JLPTLord N2 2218 | [失意](entries/1319/1319800-shitsui.org) | しつい | 1319800 | new / draft |
+| JLPTLord N2 2219 | [未練](entries/1528/1528130-miren.org) | みれん | 1528130 | new / draft |
+| JLPTLord N2 2220 | [愛着](entries/1575/1575680-aichaku.org) | あいちゃく | 1575680 | new / draft |
+| JLPTLord N2 2221 | [親愛](entries/1365/1365090-shinai.org) | しんあい | 1365090 | new / draft |
+| JLPTLord N2 2222 | [敬愛](entries/1250/1250710-keiai.org) | けいあい | 1250710 | new / draft |
 
 ## Maturity workflow
 
