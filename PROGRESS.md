@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **2890**.
+Completed **200/200** additional distinct words; branch total **2900**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4172,6 +4172,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4365,6 +4366,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2583 | [且つ](entries/1208/1208840-katsu.org) | かつ | 1208840 | new / draft |
 | JLPTLord N2 2591 | [その結果](entries/2851/2851217-sonokekka.org) | そのけっか | 2851217 | new / draft |
 | JLPTLord N2 2592 | [その反面](entries/1006/1006940-sonohanmen.org) | そのはんめん | 1006940 | new / draft |
+| JLPTLord N2 2593 | [その代わり](entries/1596/1596650-sonokawari.org) | そのかわり | 1596650 | new / draft |
+| JLPTLord N2 2603 | [実際に](entries/1321/1321120-jissaini.org) | じっさいに | 1321120 | new / draft |
+| JLPTLord N2 2604 | [事実上](entries/1313/1313970-jijitsujou.org) | じじつじょう | 1313970 | new / draft |
+| JLPTLord N2 2605 | [文字通り](entries/1505/1505420-mojidoori.org) | もじどおり | 1505420 | new / draft |
+| JLPTLord N2 2610 | [甚だ](entries/1370/1370000-hanahada.org) | はなはだ | 1370000 | new / draft |
+| JLPTLord N2 2616 | [繰り返し](entries/1247/1247010-kurikaeshi.org) | くりかえし | 1247010 | new / draft |
+| JLPTLord N2 2618 | [時折](entries/1598/1598670-tokiori.org) | ときおり | 1598670 | new / draft |
+| JLPTLord N2 2621 | [自ずと](entries/2007/2007530-onozuto.org) | おのずと | 2007530 | new / draft |
+| JLPTLord N2 2634 | [無論](entries/1531/1531080-muron.org) | むろん | 1531080 | new / draft |
+| JLPTLord N2 2635 | [言うまでもなく](entries/2067/2067940-iumademonaku.org) | いうまでもなく | 2067940 | new / draft |
 
 ## Maturity workflow
 
