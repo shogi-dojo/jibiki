@@ -3070,7 +3070,7 @@ validation, and individual commit requirements.
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
 Baseline: `737ad0ea`, with **1900** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **1940**.
+Completed **50/200** additional distinct words; branch total **1950**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3087,6 +3087,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3130,6 +3131,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 394 | [景観](entries/1250/1250820-keikan.org) | けいかん | 1250820 | new / draft |
 | JLPTLord N2 398 | [風潮](entries/1500/1500000-fuuchou.org) | ふうちょう | 1500000 | new / draft |
 | JLPTLord N2 399 | [世論](entries/1606/1606150-yoron.org) | よろん | 1606150 | new / draft |
+| JLPTLord N2 400 | [動向](entries/1451/1451330-doukou.org) | どうこう | 1451330 | new / draft |
+| JLPTLord N2 401 | [推移](entries/1371/1371080-suii.org) | すいい | 1371080 | new / draft |
+| JLPTLord N2 402 | [経過](entries/1251/1251250-keika.org) | けいか | 1251250 | new / draft |
+| JLPTLord N2 403 | [進展](entries/1366/1366160-shinten.org) | しんてん | 1366160 | new / draft |
+| JLPTLord N2 406 | [沿革](entries/1176/1176730-enkaku.org) | えんかく | 1176730 | new / draft |
+| JLPTLord N2 408 | [起源](entries/1591/1591140-kigen.org) | きげん | 1591140 | new / draft |
+| JLPTLord N2 409 | [根源](entries/1290/1290160-kongen.org) | こんげん | 1290160 | new / draft |
+| JLPTLord N2 410 | [源泉](entries/1263/1263380-gensen.org) | げんせん | 1263380 | new / draft |
+| JLPTLord N2 411 | [出所](entries/1580/1580030-shussho.org) | しゅっしょ | 1580030 | new / draft |
+| JLPTLord N2 412 | [出典](entries/1339/1339790-shutten.org) | しゅってん | 1339790 | new / draft |
 
 ## Maturity workflow
 
