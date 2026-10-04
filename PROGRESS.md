@@ -3866,6 +3866,37 @@ Earlier tracked entries remain unchanged. The original untracked 罪 draft and
 candidate-finder script retain their original contents. New entries remain
 learner entries marked `new` / `draft`, pending editorial review.
 
+## Final 2700-word branch N2 continuation (2026-10-04)
+
+Baseline: `06b11efc`, with **2500** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **2510**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 1525 | [僧侶](entries/1398/1398240-souryo.org) | そうりょ | 1398240 | new / draft |
+| JLPTLord N2 1527 | [経典](entries/1251/1251620-kyouten.org) | きょうてん | 1251620 | new / draft |
+| JLPTLord N2 1532 | [価値観](entries/1189/1189610-kachikan.org) | かちかん | 1189610 | new / draft |
+| JLPTLord N2 1533 | [美術](entries/1486/1486440-bijutsu.org) | びじゅつ | 1486440 | new / draft |
+| JLPTLord N2 1536 | [華道](entries/1590/1590510-kadou.org) | かどう | 1590510 | new / draft |
+| JLPTLord N2 1537 | [茶道](entries/1422/1422770-sadou.org) | さどう | 1422770 | new / draft |
+| JLPTLord N2 1540 | [剣道](entries/1256/1256910-kendou.org) | けんどう | 1256910 | new / draft |
+| JLPTLord N2 1541 | [弓道](entries/1228/1228540-kyuudou.org) | きゅうどう | 1228540 | new / draft |
+| JLPTLord N2 1543 | [短歌](entries/1418/1418630-tanka.org) | たんか | 1418630 | new / draft |
+| JLPTLord N2 1546 | [戯曲](entries/1225/1225010-gikyoku.org) | ぎきょく | 1225010 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below

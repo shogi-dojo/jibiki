@@ -32,3 +32,11 @@ A further 200 unused candidates were reconciled with pinned JMdict and existing
 entry IDs on 2026-10-04. The manifest now records 732 candidates across these
 continuations. Only lexical labels and readings are used as source evidence;
 all Ukrainian glosses, nuances and examples are independently authored.
+
+## 2500 to 2700 continuation
+
+A further 200 unused candidates were reconciled with pinned JMdict and existing
+entry IDs on 2026-10-04. The manifest now records 932 candidates across these
+continuations. The public N2 list was checked again; the cached lexical
+snapshot above remains the reproducible source. Ukrainian glosses, nuances
+and examples are independently authored.
