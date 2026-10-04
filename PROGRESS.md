@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **50/100** additional distinct words; branch total **750**.
+Completed **60/100** additional distinct words; branch total **760**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1523,6 +1523,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1576,6 +1577,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 3.2.4 | [寄り道](entries/1219/1219650-yorimichi.org) | よりみち | 1219650 | new / draft |
 | JTest 3.2.8 | [物干し](entries/1605/1605290-monohoshi.org) | ものほし | 1605290 | new / draft |
 | JTest 3.2.10 | [後回し](entries/1269/1269500-atomawashi.org) | あとまわし | 1269500 | new / draft |
+| JTest 3.2.15 | [売り買い](entries/2012/2012850-urikai.org) | うりかい | 2012850 | new / draft |
+| JTest 3.2.16 | [思い浮かべる](entries/1658/1658200-omoiukaberu.org) | おもいうかべる | 1658200 | new / draft |
+| JTest 3.2.18 | [風呂場](entries/1500/1500140-furoba.org) | ふろば | 1500140 | new / draft |
+| JTest 3.2.20 | [寝つき](entries/1360/1360000-netsuki.org) | ねつき | 1360000 | new / draft |
+| JTest 3.3.8 | [味付け](entries/1526/1526980-ajitsuke.org) | あじつけ | 1526980 | new / draft |
+| JTest 3.3.10 | [甘み](entries/1609/1609070-amami.org) | あまみ | 1609070 | new / draft |
+| JTest 3.3.21 | [賞味期限](entries/1351/1351980-shoumikigen.org) | しょうみきげん | 1351980 | new / draft |
+| JTest 3.3.22 | [手作り](entries/1598/1598360-tezukuri.org) | てづくり | 1598360 | new / draft |
+| JTest 3.4.7 | [取り除く](entries/1326/1326780-torinozoku.org) | とりのぞく | 1326780 | new / draft |
+| JTest 3.4.16 | [可燃ごみ](entries/2770/2770250-kanengomi.org) | かねんごみ | 2770250 | new / draft |
 
 ## Maturity workflow
 
