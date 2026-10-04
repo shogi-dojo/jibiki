@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **60/100** additional distinct words; branch total **660**.
+Completed **70/100** additional distinct words; branch total **670**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1385,6 +1385,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1448,6 +1449,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 1.1.7 | [甘える](entries/1213/1213440-amaeru.org) | あまえる | 1213440 | new / draft |
 | JTest 1.1.8 | [世間知らず](entries/1848/1848140-sekenshirazu.org) | せけんしらず | 1848140 | new / draft |
 | JTest 1.1.11 | [自立](entries/1318/1318880-jiritsu.org) | じりつ | 1318880 | new / draft |
+| JTest 1.1.15 | [説得](entries/1386/1386440-settoku.org) | せっとく | 1386440 | new / draft |
+| JTest 1.1.19 | [放っておく](entries/1907/1907980-houtteoku.org) | ほうっておく | 1907980 | new / draft |
+| JTest 1.1.20 | [介護](entries/1198/1198060-kaigo.org) | かいご | 1198060 | new / draft |
+| JTest 1.1.22 | [世代](entries/1374/1374190-sedai.org) | せだい | 1374190 | new / draft |
+| JTest 1.1.24 | [妊娠](entries/1467/1467350-ninshin.org) | にんしん | 1467350 | new / draft |
+| JTest 1.1.25 | [出産](entries/1339/1339010-shussan.org) | しゅっさん | 1339010 | new / draft |
+| JTest 1.1.26 | [産む](entries/1588/1588410-umu.org) | うむ | 1588410 | new / draft |
+| JTest 1.2.9 | [見習う](entries/1259/1259700-minarau.org) | みならう | 1259700 | new / draft |
+| JTest 1.2.10 | [打ち明ける](entries/1588/1588130-uchiakeru.org) | うちあける | 1588130 | new / draft |
+| JTest 1.2.11 | [励ます](entries/1557/1557350-hagemasu.org) | はげます | 1557350 | new / draft |
 
 ## Maturity workflow
 
