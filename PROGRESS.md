@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **2150**.
+Completed **60/200** additional distinct words; branch total **2160**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3349,6 +3349,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3402,6 +3403,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 801 | [催す](entries/1292/1292160-moyoosu.org) | もよおす | 1292160 | new / draft |
 | JLPTLord N2 802 | [施す](entries/1310/1310370-hodokosu.org) | ほどこす | 1310370 | new / draft |
 | JLPTLord N2 803 | [講じる](entries/1631/1631440-koujiru.org) | こうじる | 1631440 | new / draft |
+| JLPTLord N2 804 | [抑える](entries/2836/2836285-osaeru.org) | おさえる | 2836285 | new / draft |
+| JLPTLord N2 807 | [遮る](entries/1323/1323290-saegiru.org) | さえぎる | 1323290 | new / draft |
+| JLPTLord N2 808 | [阻む](entries/1397/1397800-habamu.org) | はばむ | 1397800 | new / draft |
+| JLPTLord N2 809 | [拒む](entries/1232/1232360-kobamu.org) | こばむ | 1232360 | new / draft |
+| JLPTLord N2 810 | [退ける](entries/1411/1411260-shirizokeru.org) | しりぞける | 1411260 | new / draft |
+| JLPTLord N2 812 | [免れる](entries/1584/1584670-manugareru.org) | まぬがれる | 1584670 | new / draft |
+| JLPTLord N2 813 | [逃れる](entries/1450/1450440-nogareru.org) | のがれる | 1450440 | new / draft |
+| JLPTLord N2 814 | [漏れる](entries/1605/1605330-moreru.org) | もれる | 1605330 | new / draft |
+| JLPTLord N2 815 | [漏らす](entries/1605/1605320-morasu.org) | もらす | 1605320 | new / draft |
+| JLPTLord N2 818 | [滞る](entries/1410/1410920-todokooru.org) | とどこおる | 1410920 | new / draft |
 
 ## Maturity workflow
 
