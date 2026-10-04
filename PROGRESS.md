@@ -3596,6 +3596,37 @@ Earlier tracked entries remain unchanged. The original untracked 罪 draft and
 candidate-finder script retain their original contents. All new additions
 remain learner entries marked `new` / `draft`, pending editorial review.
 
+## Final 2500-word branch N2 continuation (2026-10-04)
+
+Baseline: `6e08ae44`, with **2300** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **2310**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 1116 | [理想的](entries/1550/1550040-risouteki.org) | りそうてき | 1550040 | new / draft |
+| JLPTLord N2 1117 | [現実的](entries/1263/1263730-genjitsuteki.org) | げんじつてき | 1263730 | new / draft |
+| JLPTLord N2 1118 | [表面的](entries/1489/1489920-hyoumenteki.org) | ひょうめんてき | 1489920 | new / draft |
+| JLPTLord N2 1119 | [形式的](entries/1250/1250320-keishikiteki.org) | けいしきてき | 1250320 | new / draft |
+| JLPTLord N2 1120 | [実質的](entries/1321/1321180-jisshitsuteki.org) | じっしつてき | 1321180 | new / draft |
+| JLPTLord N2 1121 | [象徴的](entries/1794/1794680-shouchouteki.org) | しょうちょうてき | 1794680 | new / draft |
+| JLPTLord N2 1122 | [威圧的](entries/1781/1781230-iatsuteki.org) | いあつてき | 1781230 | new / draft |
+| JLPTLord N2 1123 | [排他的](entries/1472/1472430-haitateki.org) | はいたてき | 1472430 | new / draft |
+| JLPTLord N2 1124 | [壮大](entries/1399/1399430-soudai.org) | そうだい | 1399430 | new / draft |
+| JLPTLord N2 1127 | [過大](entries/1196/1196250-kadai.org) | かだい | 1196250 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below

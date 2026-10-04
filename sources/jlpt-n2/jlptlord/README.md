@@ -25,3 +25,10 @@ and existing entry IDs on 2026-10-04. The manifest now records 532 candidates
 across these continuations. Only candidate words and readings come from the
 study list; Ukrainian glosses, usage notes, and all examples are authored
 independently. N2 is this study site’s classification, not an official syllabus.
+
+## 2300 to 2500 continuation
+
+A further 200 unused candidates were reconciled with pinned JMdict and existing
+entry IDs on 2026-10-04. The manifest now records 732 candidates across these
+continuations. Only lexical labels and readings are used as source evidence;
+all Ukrainian glosses, nuances and examples are independently authored.
