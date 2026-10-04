@@ -1,0 +1,224 @@
+#+TITLE: 配線
+#+JMDICT_ID: 1473110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいせん
+#+ROMAJI: haisen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1473110-001
+:PROPERTIES:
+:TEXT: 配線
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1473110-001
+:PROPERTIES:
+:TEXT: はいせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1473110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7a54ab61db3969837f1fe77cb3b1c330c6b168d717777ebaeafc5be10bbfff6e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- wiring
+** Ukrainian glosses
+*** uk-s-1473110-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: електропроводка; прокладання проводів; схема з'єднань
+** Learner notes
+*** note-s-1473110-001-001
+:PROPERTIES:
+:END:
+- UK :: Розміщення та з'єднання електричних проводів: 配線を確認する. Може називати виконану проводку або роботу з її встановлення; не просто один дріт 線, а конфігурацію зв'язків між елементами.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1473110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 配線を図で確認した。
+- READING :: はいせんをずでかくにんした。
+- UK :: Я перевірив проводку за схемою.
+- EN :: I checked the wiring in the diagram.
+- FOCUS :: 配線
+*** ex-1473110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい配線の図を見た。
+- READING :: あたらしいはいせんのずをみた。
+- UK :: Я переглянув схему нової проводки.
+- EN :: I looked at the diagram of the new wiring.
+- FOCUS :: 配線
+*** ex-1473110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 配線を説明する資料には、各線がどの機器につながるか色分けされていた。
+- READING :: はいせんをせつめいするしりょうには、かくせんがどのききにつながるかいろわけされていた。
+- UK :: У матеріалі про проводку кольорами позначили, до яких пристроїв під'єднано кожен провід.
+- EN :: The wiring guide used colors to show which device each wire connected to.
+- FOCUS :: 配線
+
+* Sense s-1473110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d198b808a3290dbddc6080ba3d25b8dbcc5e15f690e0b9d40d8a8ac6764bc1f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473110-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrading
+** Ukrainian glosses
+
+* Sense s-1473110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 34557557c12201f6cc121e1174da0cf52a2a42d7055af2526278ae5b67164bb2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473110-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdrahten
+*** en-s-1473110-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verlegung elektrischer Leitungen
+*** en-s-1473110-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leitungsverlegung
+*** en-s-1473110-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verdrahtung
+*** en-s-1473110-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verkabelung
+** Ukrainian glosses
+
+* Sense s-1473110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ca19f813bd353e164a8da0071f7d2083a893a01437d15001e3ebfa3db459ef06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473110-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlegte Leitung
+** Ukrainian glosses
+
+* Sense s-1473110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: be7492591114a8ac9fd4f8bd001eb10689204fbd457394774ffff55a7293b44b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473110-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekábelezés
+** Ukrainian glosses
+
+* Sense s-1473110-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 79df532933da0a267c411e7f4a6f9ea5cfaf173b021eb2fec79ce760a2b19664
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473110-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) прокладка линии (проводов)
+*** en-s-1473110-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) [электро]проводка
+** Ukrainian glosses
