@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 5063 |
+| Canonical entry files | 5163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 2091 |
+| Canonical N2 entries | 2191 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 5026 |
+| `new` | 5126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 5053 |
+| Entry metadata still marked `draft` | 5153 |
 | Core profile | 163 |
-| Learner profile | 4899 |
+| Learner profile | 4999 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1794,7 +1794,20 @@ with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
+The 200 supplementary N2 labels come from the [documented JTest list](sources/jlpt-n2/jtest/README.md);
+only lexical labels and readings were used, with original Ukrainian content.
 N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **900 → 1100** branch additions, exactly **200** distinct new
+JMdict IDs, **200** individual word-addition commits, **20** batch ledger
+commits, **311** translated English senses with Ukrainian nuance notes, and
+**600** graded examples. The preceding 900 entry files are unchanged.
+All 54 documented JTest HTML checksums match the retrieved source pages.
+The full suite passed: **137 tests, 16,043 assertions, zero failures or errors**.
+All 200 entries passed JMdict validation, Org lint, and doctor 100/100 with
+zero errors or warnings. The [熱中症 entry](entries/2097/2097700-netchuushou.org)
+includes an official source for its broader heat-related-illness terminology.
+The preserved uncommitted 罪 draft is excluded from these counts.
 
 | Batch | New entries |
 | --- | ---: |
