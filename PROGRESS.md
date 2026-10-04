@@ -1645,7 +1645,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 ## Final 900-word branch N2 continuation (2026-10-04)
 
 Baseline: `0ffefe81`, with **800** new translated words on this branch.
-Completed **10/100** additional distinct words; branch total **810**.
+Completed **20/100** additional distinct words; branch total **820**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1659,6 +1659,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1672,6 +1673,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 4.3.1 | [故郷](entries/2853/2853884-kokyou.org) | こきょう | 2853884 | new / draft |
 | JTest 4.3.2 | [地元](entries/1421/1421060-jimoto.org) | じもと | 1421060 | new / draft |
 | JTest 4.3.5 | [帰省](entries/1221/1221390-kisei.org) | きせい | 1221390 | new / draft |
+| JTest 4.3.15 | [近郊](entries/1242/1242290-kinkou.org) | きんこう | 1242290 | new / draft |
+| JTest 4.3.17 | [若者](entries/1324/1324350-wakamono.org) | わかもの | 1324350 | new / draft |
+| JTest 4.3.20 | [担う](entries/1599/1599900-ninau.org) | になう | 1599900 | new / draft |
+| JTest 4.4.6 | [歩行者](entries/1514/1514380-hokousha.org) | ほこうしゃ | 1514380 | new / draft |
+| JTest 4.4.10 | [運賃](entries/1172/1172820-unchin.org) | うんちん | 1172820 | new / draft |
+| JTest 4.4.13 | [見合わせる](entries/1259/1259570-miawaseru.org) | みあわせる | 1259570 | new / draft |
+| JTest 4.4.14 | [乱れる](entries/1548/1548940-midareru.org) | みだれる | 1548940 | new / draft |
+| JTest 4.4.15 | [再開](entries/1292/1292400-saikai.org) | さいかい | 1292400 | new / draft |
+| JTest 4.4.28 | [気を抜く](entries/2127/2127660-kiwonuku.org) | きをぬく | 2127660 | new / draft |
+| JTest 4.5.3 | [栽培](entries/1294/1294910-saibai.org) | さいばい | 1294910 | new / draft |
 
 ## Maturity workflow
 
