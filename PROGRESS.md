@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **20/100** additional distinct words; branch total **620**.
+Completed **30/100** additional distinct words; branch total **630**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1381,6 +1381,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1404,6 +1405,16 @@ N2-69 (佚) remains deferred and is not counted.
 | N2-S1323 | [殿](entries/1442/1442500-dono.org) | どの | 1442500 | new / draft |
 | N2-S1332 | [採る](entries/1599/1599160-toru.org) | とる | 1599160 | new / draft |
 | N2-S1340 | [長引く](entries/1610/1610950-nagabiku.org) | ながびく | 1610950 | new / draft |
+| N2-S1346 | [為す](entries/2861/2861111-nasu.org) | なす | 2861111 | new / draft |
+| N2-S1358 | [並木](entries/1599/1599640-namiki.org) | なみき | 1599640 | new / draft |
+| N2-S1374 | [濁る](entries/1415/1415960-nigoru.org) | にごる | 1415960 | new / draft |
+| N2-S1404 | [糊](entries/1267/1267400-nori.org) | のり | 1267400 | new / draft |
+| N2-S1407 | [乗り越し](entries/1600/1600480-norikoshi.org) | のりこし | 1600480 | new / draft |
+| N2-S1408 | [鈍い](entries/2838/2838553-noroi.org) | のろい | 2838553 | new / draft |
+| N2-S1414 | [売店](entries/1474/1474040-baiten.org) | ばいてん | 1474040 | new / draft |
+| N2-S1422 | [吐き気](entries/1444/1444120-hakike.org) | はきけ | 1444120 | new / draft |
+| N2-S1440 | [発](entries/1477/1477120-hatsu.org) | はつ | 1477120 | new / draft |
+| N2-S1452 | [甚だしい](entries/1370/1370010-hanahadashii.org) | はなはだしい | 1370010 | new / draft |
 
 ## Maturity workflow
 
