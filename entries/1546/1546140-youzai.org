@@ -1,0 +1,365 @@
+#+TITLE: 溶剤
+#+JMDICT_ID: 1546140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようざい
+#+ROMAJI: youzai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1546140-001
+:PROPERTIES:
+:TEXT: 溶剤
+:END:
+*** Priorities
+- news2
+- nf25
+** Written form wf-1546140-002
+:PROPERTIES:
+:TEXT: 溶材
+:END:
+** Written form wf-1546140-003
+:PROPERTIES:
+:TEXT: 熔剤
+:END:
+** Reading rd-1546140-001
+:PROPERTIES:
+:TEXT: ようざい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1546140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 56d483dc8add5dfcb63bad2af439997e260549f90dd47a18ab34326b7db7cc55
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- solvent
+- solution
+- flux
+** Ukrainian glosses
+*** uk-s-1546140-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розчинник; розчинювальна речовина; флюс
+** Learner notes
+*** note-s-1546140-001-001
+:PROPERTIES:
+:END:
+- UK :: 溶剤 — технічна назва речовини, що розчиняє інший матеріал; часто 有機溶剤 та 溶剤を使う. У металургійному контексті може означати флюс, тому переклад слід узгоджувати з процесом, а не завжди передавати як «розчин».
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1546140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 溶剤を使って汚れを落とした。
+- READING :: ようざいをつかってよごれをおとした。
+- UK :: Забруднення видалили розчинником.
+- EN :: We removed the dirt using a solvent.
+- FOCUS :: 溶剤
+*** ex-1546140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この塗料には専用の溶剤が必要だ。
+- READING :: このとりょうにはせんようのようざいがひつようだ。
+- UK :: Для цієї фарби потрібен спеціальний розчинник.
+- EN :: This paint requires a dedicated solvent.
+- FOCUS :: 溶剤
+*** ex-1546140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 溶剤の種類によって、樹脂が溶ける速さが変わる。
+- READING :: ようざいのしゅるいによって、じゅしがとけるはやさがかわる。
+- UK :: Швидкість розчинення смоли змінюється залежно від виду розчинника.
+- EN :: The speed at which the resin dissolves varies with the type of solvent.
+- FOCUS :: 溶剤
+
+* Sense s-1546140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2fa2dd4de0ca3726714afded638d6ed9fd28b971c9a7ffa69138a717965b171b
+:END:
+** Applies to forms
+*** Written forms
+- 溶材
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- hot charge
+** Ukrainian glosses
+*** uk-s-1546140-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гаряча шихта; нагрітий завантажуваний матеріал
+** Learner notes
+*** note-s-1546140-002-001
+:PROPERTIES:
+:END:
+- UK :: Це спеціальне металургійне значення 溶剤 стосується гарячого матеріалу, що надходить у виробничий процес. Воно не є звичним побутовим уживанням і потребує контексту печі або завантаження, щоб відрізнити його від розчинника.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1546140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eca9e752a196f8f4764215fa9539ef03d97f2b8447cf5992156416804ecce853
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546140-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} solvent
+*** en-s-1546140-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplosmiddel
+*** en-s-1546140-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplossend middel
+*** en-s-1546140-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vloeimiddel
+*** en-s-1546140-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: smeltmiddel
+** Ukrainian glosses
+
+* Sense s-1546140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7da6cc728aac1b4587e3f95e5322a724e0de10bfe5c85980a8fcc8008d283f7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546140-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lösungsmittel
+** Ukrainian glosses
+
+* Sense s-1546140-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b3ca4670f8df5e6f395a8a3a5fd899e07732c5123594eda6ce86c487fa13ba0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546140-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fizetőképes
+*** en-s-1546140-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldó
+*** en-s-1546140-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megoldás
+*** en-s-1546140-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldás
+*** en-s-1546140-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állandó mozgás
+*** en-s-1546140-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állandó változás
+*** en-s-1546140-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fluxus
+*** en-s-1546140-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folyadékmozgás
+*** en-s-1546140-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folyósító szer
+*** en-s-1546140-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: salakosító adalékanyag
+*** en-s-1546140-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldószer
+*** en-s-1546140-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feloldó
+*** en-s-1546140-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelképes
+*** en-s-1546140-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldható
+*** en-s-1546140-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldóképes
+*** en-s-1546140-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldószer
+** Ukrainian glosses
+
+* Sense s-1546140-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4328475957ea8aa5f5b5c82dc64f71a1f74ad225264d59cfcc97a0c44be89a1c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546140-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lösningsmedel
+*** en-s-1546140-006-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: solvent
+** Ukrainian glosses
