@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **1620**.
+Completed **130/200** additional distinct words; branch total **1630**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2577,6 +2577,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2700,6 +2701,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1539 | [当初](entries/1449/1449110-tousho.org) | とうしょ | 1449110 | new / draft |
 | TodayJLPT N2 1541 | [童心](entries/1453/1453970-doushin.org) | どうしん | 1453970 | new / draft |
 | TodayJLPT N2 1545 | [当直](entries/1619/1619730-touchoku.org) | とうちょく | 1619730 | new / draft |
+| TodayJLPT N2 1551 | [当面](entries/1449/1449250-toumen.org) | とうめん | 1449250 | new / draft |
+| TodayJLPT N2 1554 | [盗塁](entries/1448/1448560-tourui.org) | とうるい | 1448560 | new / draft |
+| TodayJLPT N2 1561 | [得](entries/1454/1454490-toku.org) | とく | 1454490 | new / draft |
+| TodayJLPT N2 1562 | [独学](entries/1455/1455720-dokugaku.org) | どくがく | 1455720 | new / draft |
+| TodayJLPT N2 1565 | [毒性](entries/1455/1455570-dokusei.org) | どくせい | 1455570 | new / draft |
+| TodayJLPT N2 1566 | [独奏](entries/1455/1455960-dokusou.org) | どくそう | 1455960 | new / draft |
+| TodayJLPT N2 1567 | [戸口](entries/1267/1267000-toguchi.org) | とぐち | 1267000 | new / draft |
+| TodayJLPT N2 1576 | [閉ざす](entries/1508/1508540-tozasu.org) | とざす | 1508540 | new / draft |
+| TodayJLPT N2 1578 | [塗装](entries/1444/1444290-tosou.org) | とそう | 1444290 | new / draft |
+| TodayJLPT N2 1580 | [都庁](entries/1445/1445010-tochou.org) | とちょう | 1445010 | new / draft |
 
 ## Maturity workflow
 
