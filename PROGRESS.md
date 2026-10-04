@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **2690**.
+Completed **200/200** additional distinct words; branch total **2700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3901,6 +3901,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4094,6 +4095,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2048 | [達成感](entries/2638/2638040-tasseikan.org) | たっせいかん | 2638040 | new / draft |
 | JLPTLord N2 2049 | [充実感](entries/2525/2525090-juujitsukan.org) | じゅうじつかん | 2525090 | new / draft |
 | JLPTLord N2 2050 | [満足感](entries/1947/1947220-manzokukan.org) | まんぞくかん | 1947220 | new / draft |
+| JLPTLord N2 2056 | [驚嘆](entries/1238/1238720-kyoutan.org) | きょうたん | 1238720 | new / draft |
+| JLPTLord N2 2061 | [願望](entries/1577/1577710-ganbou.org) | がんぼう | 1577710 | new / draft |
+| JLPTLord N2 2062 | [欲望](entries/1547/1547410-yokubou.org) | よくぼう | 1547410 | new / draft |
+| JLPTLord N2 2063 | [衝動](entries/1351/1351530-shoudou.org) | しょうどう | 1351530 | new / draft |
+| JLPTLord N2 2064 | [本能](entries/1523/1523130-honnou.org) | ほんのう | 1523130 | new / draft |
+| JLPTLord N2 2070 | [人徳](entries/1580/1580730-jintoku.org) | じんとく | 1580730 | new / draft |
+| JLPTLord N2 2072 | [資質](entries/1312/1312770-shishitsu.org) | ししつ | 1312770 | new / draft |
+| JLPTLord N2 2073 | [器量](entries/1218/1218980-kiryou.org) | きりょう | 1218980 | new / draft |
+| JLPTLord N2 2074 | [度量](entries/1624/1624130-doryou.org) | どりょう | 1624130 | new / draft |
+| JLPTLord N2 2075 | [寛容](entries/1211/1211970-kanyou.org) | かんよう | 1211970 | new / draft |
 
 ## Maturity workflow
 
