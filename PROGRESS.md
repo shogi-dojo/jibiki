@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **1710**.
+Completed **20/200** additional distinct words; branch total **1720**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2829,6 +2829,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2842,6 +2843,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1970 | [防御](entries/1520/1520330-bougyo.org) | ぼうぎょ | 1520330 | new / draft |
 | TodayJLPT N2 1975 | [防水](entries/1520/1520490-bousui.org) | ぼうすい | 1520490 | new / draft |
 | TodayJLPT N2 1977 | [暴走](entries/1519/1519480-bousou.org) | ぼうそう | 1519480 | new / draft |
+| TodayJLPT N2 1986 | [暴落](entries/1519/1519570-bouraku.org) | ぼうらく | 1519570 | new / draft |
+| TodayJLPT N2 1990 | [北欧](entries/1520/1520750-hokuou.org) | ほくおう | 1520750 | new / draft |
+| TodayJLPT N2 2000 | [母乳](entries/1515/1515190-bonyuu.org) | ぼにゅう | 1515190 | new / draft |
+| TodayJLPT N2 2012 | [巻き込む](entries/1211/1211150-makikomu.org) | まきこむ | 1211150 | new / draft |
+| TodayJLPT N2 2034 | [間に合わせる](entries/1611/1611650-maniawaseru.org) | まにあわせる | 1611650 | new / draft |
+| TodayJLPT N2 2041 | [丸ごと](entries/1216/1216410-marugoto.org) | まるごと | 1216410 | new / draft |
+| TodayJLPT N2 2045 | [万が一](entries/1525/1525770-mangaichi.org) | まんがいち | 1525770 | new / draft |
+| TodayJLPT N2 2046 | [満喫](entries/1526/1526760-mankitsu.org) | まんきつ | 1526760 | new / draft |
+| TodayJLPT N2 2050 | [見栄](entries/1578/1578350-mie.org) | みえ | 1578350 | new / draft |
+| TodayJLPT N2 2055 | [右腕](entries/1171/1171290-migiude.org) | みぎうで | 1171290 | new / draft |
 
 ## Maturity workflow
 
