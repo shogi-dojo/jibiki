@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **2800**.
+Completed **110/200** additional distinct words; branch total **2810**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4163,6 +4163,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4266,6 +4267,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2279 | [膨れる](entries/1602/1602550-fukureru.org) | ふくれる | 1602550 | new / draft |
 | JLPTLord N2 2282 | [滲む](entries/1568/1568800-nijimu.org) | にじむ | 1568800 | new / draft |
 | JLPTLord N2 2285 | [浸す](entries/1362/1362560-hitasu.org) | ひたす | 1362560 | new / draft |
+| JLPTLord N2 2286 | [浸る](entries/1362/1362570-hitaru.org) | ひたる | 1362570 | new / draft |
+| JLPTLord N2 2291 | [蒸れる](entries/1356/1356920-mureru.org) | むれる | 1356920 | new / draft |
+| JLPTLord N2 2294 | [炒める](entries/1568/1568920-itameru.org) | いためる | 1568920 | new / draft |
+| JLPTLord N2 2299 | [練る](entries/1559/1559140-neru.org) | ねる | 1559140 | new / draft |
+| JLPTLord N2 2309 | [束ねる](entries/1581/1581320-tabaneru.org) | たばねる | 1581320 | new / draft |
+| JLPTLord N2 2312 | [仕上げる](entries/1305/1305140-shiageru.org) | しあげる | 1305140 | new / draft |
+| JLPTLord N2 2317 | [成し遂げる](entries/1375/1375550-nashitogeru.org) | なしとげる | 1375550 | new / draft |
+| JLPTLord N2 2323 | [唆す](entries/1290/1290790-sosonokasu.org) | そそのかす | 1290790 | new / draft |
+| JLPTLord N2 2324 | [煽る](entries/1391/1391630-aoru.org) | あおる | 1391630 | new / draft |
+| JLPTLord N2 2325 | [駆り立てる](entries/1244/1244830-karitateru.org) | かりたてる | 1244830 | new / draft |
 
 ## Maturity workflow
 
