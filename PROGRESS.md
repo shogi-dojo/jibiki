@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **2200**.
+Completed **110/200** additional distinct words; branch total **2210**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3354,6 +3354,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3457,6 +3458,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 904 | [帯びる](entries/1410/1410430-obiru.org) | おびる | 1410430 | new / draft |
 | JLPTLord N2 906 | [操る](entries/1400/1400010-ayatsuru.org) | あやつる | 1400010 | new / draft |
 | JLPTLord N2 909 | [潜む](entries/1391/1391240-hisomu.org) | ひそむ | 1391240 | new / draft |
+| JLPTLord N2 910 | [凌ぐ](entries/1554/1554200-shinogu.org) | しのぐ | 1554200 | new / draft |
+| JLPTLord N2 911 | [遂げる](entries/1372/1372620-togeru.org) | とげる | 1372620 | new / draft |
+| JLPTLord N2 912 | [憤る](entries/1504/1504640-ikidooru.org) | いきどおる | 1504640 | new / draft |
+| JLPTLord N2 915 | [励む](entries/1557/1557390-hagemu.org) | はげむ | 1557390 | new / draft |
+| JLPTLord N2 917 | [惜しむ](entries/1382/1382300-oshimu.org) | おしむ | 1382300 | new / draft |
+| JLPTLord N2 920 | [侮る](entries/1583/1583670-anadoru.org) | あなどる | 1583670 | new / draft |
+| JLPTLord N2 921 | [蔑む](entries/1510/1510260-sagesumu.org) | さげすむ | 1510260 | new / draft |
+| JLPTLord N2 923 | [慕う](entries/1514/1514910-shitau.org) | したう | 1514910 | new / draft |
+| JLPTLord N2 927 | [戒める](entries/1200/1200650-imashimeru.org) | いましめる | 1200650 | new / draft |
+| JLPTLord N2 928 | [諭す](entries/1538/1538770-satosu.org) | さとす | 1538770 | new / draft |
 
 ## Maturity workflow
 
