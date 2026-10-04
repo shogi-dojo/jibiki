@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **30/100** additional distinct entries; branch total **430**.
+Completed **40/100** additional distinct entries; branch total **440**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1104,6 +1104,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 1 | N2-1506–1515 | 10 |
 | 2 | N2-1516–1525 | 10 |
 | 3 | N2-1526–1535 | 10 |
+| 4 | N2-1536–1546 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1137,6 +1138,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1533 | [役人](entries/1538/1538050-yakunin.org) | やくにん | 1538050 | new / draft |
 | N2-1534 | [薬品](entries/1538/1538280-yakuhin.org) | やくひん | 1538280 | new / draft |
 | N2-1535 | [役目](entries/1538/1538080-yakume.org) | やくめ | 1538080 | new / draft |
+| N2-1536 | [火傷](entries/1577/1577310-yakedo.org) | やけど | 1577310 | new / draft |
+| N2-1537 | [夜行](entries/1584/1584820-yakou.org) | やこう | 1584820 | new / draft |
+| N2-1538 | [矢印](entries/1537/1537770-yajirushi.org) | やじるし | 1537770 | new / draft |
+| N2-1539 | [薬局](entries/1538/1538200-yakkyoku.org) | やっきょく | 1538200 | new / draft |
+| N2-1540 | [遣っ付ける](entries/1612/1612950-yattsukeru.org) | やっつける | 1612950 | new / draft |
+| N2-1542 | [家主](entries/1191/1191990-yanushi.org) | やぬし | 1191990 | new / draft |
+| N2-1543 | [破く](entries/1983/1983750-yabuku.org) | やぶく | 1983750 | new / draft |
+| N2-1544 | [破れる](entries/1471/1471210-yabureru.org) | やぶれる | 1471210 | new / draft |
+| N2-1545 | [やむを得ない](entries/1612/1612100-yamuwoenai.org) | やむをえない | 1612100 | new / draft |
+| N2-1546 | [遊園地](entries/1542/1542170-yuuenchi.org) | ゆうえんち | 1542170 | new / draft |
 
 ## Maturity workflow
 
