@@ -1,0 +1,736 @@
+#+TITLE: 傷つける
+#+JMDICT_ID: 1345930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きずつける
+#+ROMAJI: kizutsukeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1345930-001
+:PROPERTIES:
+:TEXT: 傷つける
+:END:
+*** Priorities
+- spec1
+** Written form wf-1345930-002
+:PROPERTIES:
+:TEXT: 傷付ける
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf33
+** Written form wf-1345930-003
+:PROPERTIES:
+:TEXT: 疵付ける
+:END:
+*** Information
+- sK
+** Written form wf-1345930-004
+:PROPERTIES:
+:TEXT: 疵つける
+:END:
+*** Information
+- sK
+** Written form wf-1345930-005
+:PROPERTIES:
+:TEXT: 傷付る
+:END:
+*** Information
+- sK
+** Reading rd-1345930-001
+:PROPERTIES:
+:TEXT: きずつける
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf33
+- spec1
+
+* Sense s-1345930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3d33ec149a95ef6cfe69bcc607ee55ed1b718e6b1b0d482a50a3a6c506cc58cd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to wound
+- to injure
+** Ukrainian glosses
+*** uk-s-1345930-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ранити; травмувати
+** Learner notes
+*** note-s-1345930-001-001
+:PROPERTIES:
+:END:
+- UK :: 傷つける — перехідне, завдати фізичної рани людині або тварині: 手を傷つける. Неперехідне 傷つく означає бути пораненим. 怪我をさせる ширше описує спричинення травми, тоді як 傷つける часто зосереджене на пошкодженні тіла, але саме слово не визначає тяжкості.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1345930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 転んで手を傷つけた。
+- READING :: ころんでてをきずつけた。
+- UK :: Я впав і поранив руку.
+- EN :: I fell and injured my hand.
+- FOCUS :: 手を傷つけた
+*** ex-1345930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 枝で腕を傷つけたことに、後から気づいた。
+- READING :: えだでうでをきずつけたことに、あとからきづいた。
+- UK :: Я лише згодом помітив, що поранив руку гілкою.
+- EN :: I later noticed that a branch had scratched my arm.
+- FOCUS :: 腕を傷つけた
+*** ex-1345930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 作業中に指を傷つけないよう、彼は道具の持ち方を確かめてから始めた。
+- READING :: さぎょうちゅうにゆびをきずつけないよう、かれはどうぐのもちかたをたしかめてからはじめた。
+- UK :: Щоб не поранити пальці під час роботи, він перед початком перевірив, як тримати інструмент.
+- EN :: To avoid injuring his fingers while working, he checked how to hold the tool before starting.
+- FOCUS :: 指を傷つけない
+
+* Sense s-1345930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 33ccd4670912769b0675216740d4449f9e326ddf55feeb7eb14e090541732da0
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to hurt someone's feelings (pride, etc.)
+** Ukrainian glosses
+*** uk-s-1345930-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ранити почуття; ображати
+** Learner notes
+*** note-s-1345930-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносне 傷つける означає завдати емоційного болю або зачепити гідність: 気持ちを傷つける, 自尊心を傷つける. Може бути ненавмисним. 叱る лише описує догану; 傷つける акцентує її наслідок для людини й не обов'язково передбачає відкриту сварку.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1345930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 740886e91e37ab8fc0873220632b30b9cedeaf0999f98a5907f53d092d001b7d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to damage
+- to chip
+- to scratch
+** Ukrainian glosses
+*** uk-s-1345930-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пошкоджувати; дряпати; робити вм'ятину
+** Learner notes
+*** note-s-1345930-003-001
+:PROPERTIES:
+:END:
+- UK :: Щодо речей 傷つける означає залишити подряпину, скол чи інше пошкодження: 床を傷つける. Не тотожне 壊す, бо предмет може далі працювати. Контекст матеріалу й поверхні уточнює вид шкоди; форма 傷つけないように природна в інструкціях обережного поводження.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1345930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d0f369fb430de3cb02aa41e5e31f3e25a8bce3a90195d50950b5cdbbec3aed96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwonden
+*** en-s-1345930-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blesseren
+*** en-s-1345930-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bezeren
+*** en-s-1345930-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kwetsen
+*** en-s-1345930-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een wond
+*** en-s-1345930-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wonden toebrengen aan
+*** en-s-1345930-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewerken
+*** en-s-1345930-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toetakelen
+** Ukrainian glosses
+
+* Sense s-1345930-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c85a1186f772c049bba2ef11696d3973e8f0950e36e9f4a2ac480ab2883c2cba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beschadigen
+*** en-s-1345930-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schade berokkenen
+*** en-s-1345930-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toebrengen
+*** en-s-1345930-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aantasten
+*** en-s-1345930-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krassen maken
+*** en-s-1345930-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekrassen
+*** en-s-1345930-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekerven
+*** en-s-1345930-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een barst
+*** en-s-1345930-005-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een kerf
+*** en-s-1345930-005-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barsten
+*** en-s-1345930-005-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kerven maken in
+** Ukrainian glosses
+
+* Sense s-1345930-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3c87a7d8dbe113dc2c244876b7e1c0dd05028dca7e81a5ba0d0d0075d628964b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} grieven
+*** en-s-1345930-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krenken
+*** en-s-1345930-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kwetsen
+*** en-s-1345930-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kneuzen
+*** en-s-1345930-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deren
+*** en-s-1345930-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afbreuk doen aan
+*** en-s-1345930-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schaden
+** Ukrainian glosses
+
+* Sense s-1345930-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0862674a4d59691f50f288a7405b74a482aa8e534c732d32d0c823b54b985d31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blesser
+*** en-s-1345930-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faire du mal (à quelqu'un)
+** Ukrainian glosses
+
+* Sense s-1345930-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 99fd9c7d6a1d1792d55c0efe15fdf4fa72189870c5401db7d2edb24e7ad1fa8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verletzen
+*** en-s-1345930-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwunden
+*** en-s-1345930-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdm. eine Wunde beibringen
+** Ukrainian glosses
+
+* Sense s-1345930-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 98f64b374cd13909cc6dbc6f0c6cd02998d814b4ede57a695c52d3749a90da31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beschädigen
+*** en-s-1345930-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schaden zufügen
+*** en-s-1345930-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verderben
+** Ukrainian glosses
+
+* Sense s-1345930-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 26f1a7d843d507b412ced6f19aa5a9494b870516e2d6715a34f13ccd5b71d700
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kränken
+*** en-s-1345930-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verletzen
+** Ukrainian glosses
+
+* Sense s-1345930-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 46279bb3b4577c56d41eddc33d3afa1761a0f8dab07bab2059f1847c4d4c2e0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megsért
+*** en-s-1345930-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bánt
+*** en-s-1345930-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bántalmaz
+*** en-s-1345930-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megrongál
+** Ukrainian glosses
+
+* Sense s-1345930-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 4494cbce31a53ec15c623777c675f2ba746e55633875696c88a1e13ccd1722d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ранить
+*** en-s-1345930-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) повредить, испортить; нанести ущерб; запятнать (напр. чью-л. честь)
+** Ukrainian glosses
+
+* Sense s-1345930-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 9754f0618bb46513e902941a98b3f8a54006f9761c4a5ab8d318e1067a65b43d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poškodovati
+*** en-s-1345930-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uničiti
+*** en-s-1345930-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pokvariti (počutje, ugled)
+*** en-s-1345930-013-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prizadeti
+*** en-s-1345930-013-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raniti
+** Ukrainian glosses
+
+* Sense s-1345930-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 6e95fe0dfcf8caf7474c116a67516c4a325c676333b206da483f587966dd2ccc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345930-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herir
+*** en-s-1345930-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: daño
+*** en-s-1345930-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estropear
+*** en-s-1345930-014-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lastimar
+*** en-s-1345930-014-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desgraciar
+*** en-s-1345930-014-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herir
+*** en-s-1345930-014-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lastimar
+*** en-s-1345930-014-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dañar
+*** en-s-1345930-014-009
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ofender
+** Ukrainian glosses
