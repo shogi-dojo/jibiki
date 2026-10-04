@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **1750**.
+Completed **60/200** additional distinct words; branch total **1760**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2833,6 +2833,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2886,6 +2887,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2241 | [利](entries/1549/1549460-ri.org) | り | 1549460 | new / draft |
 | TodayJLPT N2 2244 | [陸軍](entries/1551/1551020-rikugun.org) | りくぐん | 1551020 | new / draft |
 | TodayJLPT N2 2245 | [陸上](entries/1551/1551050-rikujou.org) | りくじょう | 1551050 | new / draft |
+| TodayJLPT N2 2246 | [陸路](entries/1551/1551150-rikuro.org) | りくろ | 1551150 | new / draft |
+| TodayJLPT N2 2251 | [略](entries/1551/1551950-ryaku.org) | りゃく | 1551950 | new / draft |
+| TodayJLPT N2 2254 | [粒子](entries/1552/1552910-ryuushi.org) | りゅうし | 1552910 | new / draft |
+| TodayJLPT N2 2255 | [流氷](entries/1552/1552530-ryuuhyou.org) | りゅうひょう | 1552530 | new / draft |
+| TodayJLPT N2 2257 | [良](entries/1957/1957070-ryou.org) | りょう | 1957070 | new / draft |
+| TodayJLPT N2 2259 | [両岸](entries/1553/1553460-ryougan.org) | りょうがん | 1553460 | new / draft |
+| TodayJLPT N2 2260 | [量産](entries/1554/1554660-ryousan.org) | りょうさん | 1554660 | new / draft |
+| TodayJLPT N2 2264 | [療法](entries/1554/1554470-ryouhou.org) | りょうほう | 1554470 | new / draft |
+| TodayJLPT N2 2266 | [林道](entries/1555/1555500-rindou.org) | りんどう | 1555500 | new / draft |
+| TodayJLPT N2 2268 | [零下](entries/1557/1557660-reika.org) | れいか | 1557660 | new / draft |
 
 ## Maturity workflow
 
