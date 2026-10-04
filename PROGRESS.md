@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **1260**.
+Completed **170/200** additional distinct words; branch total **1270**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2067,6 +2067,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2230,6 +2231,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 1275 | [万年](entries/1526/1526310-mannen.org) | まんねん | 1526310 | new / draft |
 | Kotoba N2 1489 | [蒸かす](entries/1356/1356850-fukasu.org) | ふかす | 1356850 | new / draft |
 | Kotoba N2 1508 | [目下](entries/1535/1535330-mokka.org) | もっか | 1535330 | new / draft |
+| Kotoba N2 1564 | [幼子](entries/1545/1545150-osanago.org) | おさなご | 1545150 | new / draft |
+| TodayJLPT N2 3 | [相棒](entries/1401/1401350-aibou.org) | あいぼう | 1401350 | new / draft |
+| TodayJLPT N2 13 | [上げ](entries/1352/1352300-age.org) | あげ | 1352300 | new / draft |
+| TodayJLPT N2 18 | [足腰](entries/1404/1404810-ashikoshi.org) | あしこし | 1404810 | new / draft |
+| TodayJLPT N2 19 | [足取り](entries/1404/1404830-ashidori.org) | あしどり | 1404830 | new / draft |
+| TodayJLPT N2 28 | [圧勝](entries/1153/1153140-asshou.org) | あっしょう | 1153140 | new / draft |
+| TodayJLPT N2 63 | [息切れ](entries/1404/1404420-ikigire.org) | いきぎれ | 1404420 | new / draft |
+| TodayJLPT N2 73 | [移植](entries/1158/1158310-ishoku.org) | いしょく | 1158310 | new / draft |
+| TodayJLPT N2 79 | [一団](entries/1164/1164680-ichidan.org) | いちだん | 1164680 | new / draft |
+| TodayJLPT N2 82 | [一倍](entries/1165/1165690-ichibai.org) | いちばい | 1165690 | new / draft |
 
 ## Maturity workflow
 
