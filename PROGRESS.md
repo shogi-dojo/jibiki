@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **30/200** additional distinct words; branch total **930**.
+Completed **40/200** additional distinct words; branch total **940**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1801,6 +1801,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1834,6 +1835,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 7.1.2 | [競う](entries/1234/1234040-kisou.org) | きそう | 1234040 | new / draft |
 | JTest 7.1.6 | [勝利](entries/1346/1346240-shouri.org) | しょうり | 1346240 | new / draft |
 | JTest 7.1.9 | [敗れる](entries/1472/1472510-yabureru.org) | やぶれる | 1472510 | new / draft |
+| JTest 7.1.11 | [逆転](entries/1227/1227170-gyakuten.org) | ぎゃくてん | 1227170 | new / draft |
+| JTest 7.1.13 | [中断](entries/1424/1424900-chuudan.org) | ちゅうだん | 1424900 | new / draft |
+| JTest 7.1.21 | [順位](entries/1342/1342260-juni.org) | じゅんい | 1342260 | new / draft |
+| JTest 7.1.27 | [技](entries/1225/1225090-waza.org) | わざ | 1225090 | new / draft |
+| JTest 7.2.2 | [持ち物](entries/1605/1605240-mochimono.org) | もちもの | 1605240 | new / draft |
+| JTest 7.2.3 | [身につける](entries/1980/1980660-minitsukeru.org) | みにつける | 1980660 | new / draft |
+| JTest 7.2.10 | [見た目](entries/1611/1611750-mitame.org) | みため | 1611750 | new / draft |
+| JTest 7.2.11 | [人目](entries/1580/1580760-hitome.org) | ひとめ | 1580760 | new / draft |
+| JTest 7.2.12 | [色彩](entries/1357/1357720-shikisai.org) | しきさい | 1357720 | new / draft |
+| JTest 7.3.4 | [興奮](entries/1238/1238380-koufun.org) | こうふん | 1238380 | new / draft |
 
 ## Maturity workflow
 
