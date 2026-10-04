@@ -1,0 +1,610 @@
+#+TITLE: モデル
+#+JMDICT_ID: 1135270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: モデル
+#+ROMAJI: moderu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1135270-001
+:PROPERTIES:
+:TEXT: モデル
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1135270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6aa35055d9e7456270e304b41f13efa8b1aa6e84569e4539ad5876723db8e7e2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- model
+- dummy
+- mock-up
+** Ukrainian glosses
+*** uk-s-1135270-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: модель; макет; зразок
+** Learner notes
+*** note-s-1135270-001-001
+:PROPERTIES:
+:END:
+- UK :: Предмет, який відтворює форму або слугує зразком: =建物のモデルを作る=. Масштабна копія може точніше називатися =模型=. Без контексту =モデル= не уточнює, йдеться про фізичний макет чи абстрактне представлення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1135270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 建物のモデルを紙で作った。
+- READING :: たてもののもでるをかみでつくった。
+- UK :: Я зробив паперовий макет будівлі.
+- EN :: I made a paper model of the building.
+- FOCUS :: モデル
+*** ex-1135270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 設計を説明するために、橋のモデルを会議室に置いた。
+- READING :: せっけいをせつめいするために、はしのもでるをかいぎしつにおいた。
+- UK :: Щоб пояснити проєкт, у залі засідань поставили макет мосту.
+- EN :: We placed a model of the bridge in the meeting room to explain the design.
+- FOCUS :: モデル
+*** ex-1135270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 実物の大きさを想像しやすいように、縮尺をそろえたモデルを展示した。
+- READING :: じつぶつのおおきさをそうぞうしやすいように、しゅくしゃくをそろえたもでるをてんじした。
+- UK :: Щоб було легше уявити розміри справжніх об'єктів, виставили макети в однаковому масштабі.
+- EN :: Models at a consistent scale were displayed to help viewers imagine the actual sizes.
+- FOCUS :: モデル
+
+* Sense s-1135270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bac759b8f6afa3bd31419d655cc38e5b16cc2ff1725fe7137baa577459cf3646
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- model (profession)
+- fashion model
+** Ukrainian glosses
+*** uk-s-1135270-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: модель (професія); натурник; натурниця
+** Learner notes
+*** note-s-1135270-002-001
+:PROPERTIES:
+:END:
+- UK :: Людина, яка позує або демонструє одяг: =モデルとして働く=, =絵のモデル=. На відміну від =俳優=, професія не обов'язково передбачає виконання ролі; слово не визначає стать.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1135270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 85d35c90ad3642eebbea9125e791f72101903d563ca9fbdb617de5cd201d864f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- model (of a vehicle, machine, etc.)
+- version
+** Ukrainian glosses
+*** uk-s-1135270-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: модель виробу; версія
+** Learner notes
+*** note-s-1135270-003-001
+:PROPERTIES:
+:END:
+- UK :: =新しいモデル= або =最新モデル= — варіант автомобіля, пристрою тощо. =型= може називати конкретний тип чи номер моделі; тут йдеться про продуктову версію, не демонстраційний макет.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1135270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c1db1366e0514c7fc0251556319e23a37e2ef745b55f5ff4a4d9a29af20e9988
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- model (e.g. mathematical)
+** Ukrainian glosses
+*** uk-s-1135270-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: модель (математична, теоретична)
+** Learner notes
+*** note-s-1135270-004-001
+:PROPERTIES:
+:END:
+- UK :: =数学モデル=, =予測モデル= описують формальне представлення явища для аналізу чи прогнозу. Модель спрощує реальність; не тотожна самому явищу або безумовно точному передбаченню.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1135270-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 950b0f85bdfaa62c6813087199c8d1122dbcb58174ab023ef2f52bc5230c7496
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- model (for a fictional character, place, etc.)
+- inspiration
+** Ukrainian glosses
+*** uk-s-1135270-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: прототип; джерело образу
+** Learner notes
+*** note-s-1135270-005-001
+:PROPERTIES:
+:END:
+- UK :: =主人公のモデル= — реальна особа, що надихнула автора на персонажа. =モデルにする= означає взяти за основу; це не обов'язково повне копіювання біографії чи характеру.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1135270-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e47329c17304ed76800c71807f89d3c4fc210389a935aa180e089a58bc6be973
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- model (in model theory)
+** Ukrainian glosses
+*** uk-s-1135270-006-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: модель (у теорії моделей)
+** Learner notes
+*** note-s-1135270-006-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін математичної логіки: структура, в якій виконуються певні речення чи аксіоми. =理論のモデル= відрізняється від прикладної моделі прогнозування; значення визначається контекстом логіки.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1135270-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e2f4b9fa3aa75d8b08a8f2aeed88d0886fa596b22fb8b684cba7211f6cc59cac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: model
+*** en-s-1135270-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toonbeeld
+*** en-s-1135270-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorbeeld
+*** en-s-1135270-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prototype
+*** en-s-1135270-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: type
+** Ukrainian glosses
+
+* Sense s-1135270-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bbea4433c0553ea1e620db6c7ffb3d1bb28a4ff1ea200c20cbf2496dc8fff233
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {kunstt.} model
+*** en-s-1135270-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontwerp
+*** en-s-1135270-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mal
+** Ukrainian glosses
+
+* Sense s-1135270-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 617ce501209edd7ba90a447fe9d283926d13cbffe3835b69c9222630d262d448
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: model
+*** en-s-1135270-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maquette
+*** en-s-1135270-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: miniatuur
+** Ukrainian glosses
+
+* Sense s-1135270-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: e3c67ffd1c4213eb952cd7b079f5cce544b3e10aad6a1c4471c909b211ad4a1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mannequin
+*** en-s-1135270-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fotomodel
+*** en-s-1135270-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: model
+** Ukrainian glosses
+
+* Sense s-1135270-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: b9e541a28152afb089dca65ae0a2dcbf133a21171d1f1471cc61b360f8da5d06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-011-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: modèle
+** Ukrainian glosses
+
+* Sense s-1135270-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 58001789eee18b800bce345b61feccd2459679bb8607476677399ff831e50fe6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Modell
+*** en-s-1135270-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Version eines Autos oder einer Maschine
+** Ukrainian glosses
+
+* Sense s-1135270-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 09b423a871574e9b8b9c819f06d6686ff900b2a401815b65324eee11ca968a3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Modell
+** Ukrainian glosses
+
+* Sense s-1135270-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 9586162637c162556cc758f3d69f6393d5e122f49192931fad4dcb7657c809c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mannequin
+*** en-s-1135270-014-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Modell
+** Ukrainian glosses
+
+* Sense s-1135270-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 8ac798b5a53ec210cef753eba1fad3f7be631a5316b759def91f90b9fc414287
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-015-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maneken
+*** en-s-1135270-015-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minta
+*** en-s-1135270-015-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mintakép
+** Ukrainian glosses
+
+* Sense s-1135270-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 47b4c24263afc07b39b342846942d80ca73f50a8ce7afac75ad3cc4344436c38
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-016-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((фр.) model)
+*** en-s-1135270-016-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) модель, натура; образец
+*** en-s-1135270-016-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} сделать моделью; списать с натуры (в романе и т. п.)
+*** en-s-1135270-016-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) натурщик
+*** en-s-1135270-016-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} стать натурщиком (натурщицей), [пойти] позировать
+*** en-s-1135270-016-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) манекенщица, манекенщик; живая модель
+** Ukrainian glosses
+
+* Sense s-1135270-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 62017517622320ba4af458bb85c8257a90dced20847be51c8a243174db602ef2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-017-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: model
+** Ukrainian glosses
+
+* Sense s-1135270-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 272eb559ce12357765e8fe986e5151a8e9e6b0d126d6fd222dc6cc67da16cdfc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-018-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: modelo (eng: model)
+** Ukrainian glosses
+
+* Sense s-1135270-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: cdcd7cd2e2820dc1dacf307e68cb4588e15b625ba552563b5e981ebbb519181f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1135270-019-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: modell
+** Ukrainian glosses
