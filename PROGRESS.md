@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **2120**.
+Completed **30/200** additional distinct words; branch total **2130**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3346,6 +3346,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3369,6 +3370,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 732 | [総務](entries/1401/1401770-soumu.org) | そうむ | 1401770 | new / draft |
 | JLPTLord N2 734 | [広報](entries/1593/1593040-kouhou.org) | こうほう | 1593040 | new / draft |
 | JLPTLord N2 735 | [渉外](entries/1350/1350420-shougai.org) | しょうがい | 1350420 | new / draft |
+| JLPTLord N2 737 | [拠点](entries/1232/1232440-kyoten.org) | きょてん | 1232440 | new / draft |
+| JLPTLord N2 738 | [支社](entries/1310/1310170-shisha.org) | ししゃ | 1310170 | new / draft |
+| JLPTLord N2 739 | [本社](entries/1522/1522630-honsha.org) | ほんしゃ | 1522630 | new / draft |
+| JLPTLord N2 740 | [子会社](entries/1307/1307820-kogaisha.org) | こがいしゃ | 1307820 | new / draft |
+| JLPTLord N2 741 | [親会社](entries/1643/1643780-oyagaisha.org) | おやがいしゃ | 1643780 | new / draft |
+| JLPTLord N2 742 | [系列](entries/1251/1251080-keiretsu.org) | けいれつ | 1251080 | new / draft |
+| JLPTLord N2 743 | [下請け](entries/1594/1594320-shitauke.org) | したうけ | 1594320 | new / draft |
+| JLPTLord N2 744 | [元請け](entries/1665/1665240-motouke.org) | もとうけ | 1665240 | new / draft |
+| JLPTLord N2 745 | [入札](entries/1466/1466180-nyuusatsu.org) | にゅうさつ | 1466180 | new / draft |
+| JLPTLord N2 746 | [落札](entries/1548/1548750-rakusatsu.org) | らくさつ | 1548750 | new / draft |
 
 ## Maturity workflow
 
