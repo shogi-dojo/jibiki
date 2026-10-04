@@ -1,0 +1,281 @@
+#+TITLE: 割り算
+#+JMDICT_ID: 1606880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わりざん
+#+ROMAJI: warizan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1606880-001
+:PROPERTIES:
+:TEXT: 割り算
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1606880-002
+:PROPERTIES:
+:TEXT: わり算
+:END:
+** Written form wf-1606880-003
+:PROPERTIES:
+:TEXT: 割算
+:END:
+** Reading rd-1606880-001
+:PROPERTIES:
+:TEXT: わりざん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1606880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7f5f5a5866e21595ff7d7da541caa4aa8ba4a15426905bc4fb538fb6e81757f9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- math
+** English glosses
+- division
+** Ukrainian glosses
+*** uk-s-1606880-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ділення (арифметична дія)
+** Learner notes
+*** note-s-1606880-001-001
+:PROPERTIES:
+:END:
+- UK :: =割り算をする= — виконувати ділення, =割り算の答え= — результат ділення. Протиставляється =掛け算= (множення). Дієслово =割る= у формулах позначає ділення, але має й інші фізичні значення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1606880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は割り算を習った。
+- READING :: きょうはわりざんをならった。
+- UK :: Сьогодні ми вивчали ділення.
+- EN :: We learned division today.
+- FOCUS :: 割り算
+*** ex-1606880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 割り算の答えを、掛け算で確かめた。
+- READING :: わりざんのこたえを、かけざんでたしかめた。
+- UK :: Я перевірив результат ділення множенням.
+- EN :: I checked the division result by multiplication.
+- FOCUS :: 割り算
+*** ex-1606880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全員に同じ数を配るため、割り算で一人分の量を求めた。
+- READING :: ぜんいんにおなじかずをくばるため、わりざんでひとりぶんのりょうをもとめた。
+- UK :: Щоб усім дісталася однакова кількість, я обчислив порцію на людину діленням.
+- EN :: I used division to calculate each person's share so everyone received the same amount.
+- FOCUS :: 割り算
+
+* Sense s-1606880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a723437dd91781f9ee54ddca53f657d6f4d0e75de08f42eb03cee6a56a42237a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {rekenk.} delen
+*** en-s-1606880-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: divideren
+*** en-s-1606880-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {rekenk.} deling
+*** en-s-1606880-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: divisie
+*** en-s-1606880-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deelsom
+** Ukrainian glosses
+
+* Sense s-1606880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bb64bf3b3aaed70ef0c37dcaf364a7e8d6af895f13857b280be3921685a73447
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: division (maths)
+** Ukrainian glosses
+
+* Sense s-1606880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e8b57962288ea7f38ee1551094509bdc106885a39fa3baf7934e67fb641a7ed4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Division
+*** en-s-1606880-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilen
+** Ukrainian glosses
+
+* Sense s-1606880-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 443dd54ac697c402d4ea24a1b28af7995701639edb61a00cdcae54141254ae4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hadosztály
+*** en-s-1606880-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: osztás
+*** en-s-1606880-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: osztás
+*** en-s-1606880-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hadosztály
+*** en-s-1606880-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: osztás
+** Ukrainian glosses
+
+* Sense s-1606880-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d3c5ee9d74c6431a464c51ecb5b3ccbb7668ad48b63b15aa1be1bd985d043b63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) деление
+** Ukrainian glosses
+
+* Sense s-1606880-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8dbd2298f3b9cf36d20257a95840e8408fe61332c7d7c0d4f78e804d94364be3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606880-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: división (matemáticas)
+** Ukrainian glosses
