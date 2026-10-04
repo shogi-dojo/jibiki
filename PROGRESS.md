@@ -1086,6 +1086,36 @@ remains preserved.
 | 39 | N2-1485–1495 | 10 |
 | 40 | N2-1496–1505 | 10 |
 
+## Current-branch next 100 N2 words (2026-10-04)
+
+Baseline for this request: `dbdcb446` (**400** new entries on this branch).
+Completed **10/100** additional distinct entries; branch total **410**.
+One commit per word, in batches of ten, using Ihor’s Git identity and
+`codex` content attribution. Every English sense has original Ukrainian
+glosses and usage notes; every primary sense has three graded examples.
+Completed batches passed pinned-JMdict validation, Org lint, and doctor
+100/100 with zero errors or warnings. Entries remain learner drafts,
+pending independent editorial review. The pre-existing 罪 draft is unchanged.
+N2-1541 is an existing entry; N2-1592 is deferred pending reconciliation
+of its three JMdict matches and is excluded from the new-word count.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-1506–1515 | 10 |
+
+| Queue row | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-1506 | [木材](entries/1534/1534660-mokuzai.org) | もくざい | 1534660 | new / draft |
+| N2-1507 | [目次](entries/1535/1535460-mokuji.org) | もくじ | 1535460 | new / draft |
+| N2-1508 | [潜る](entries/1609/1609715-moguru.org) | もぐる | 1609715 | new / draft |
+| N2-1509 | [若しかしたら](entries/1012/1012510-moshikashitara.org) | もしかしたら | 1012510 | new / draft |
+| N2-1510 | [若しかすると](entries/1012/1012530-moshikasuruto.org) | もしかすると | 1012530 | new / draft |
+| N2-1511 | [凭れる](entries/1564/1564380-motareru.org) | もたれる | 1564380 | new / draft |
+| N2-1512 | [モダン](entries/1134/1134990-modan.org) | モダン | 1134990 | new / draft |
+| N2-1513 | [餅](entries/1535/1535790-mochi.org) | もち | 1535790 | new / draft |
+| N2-1514 | [勿体ない](entries/1605/1605250-mottainai.org) | もったいない | 1605250 | new / draft |
+| N2-1515 | [モデル](entries/1135/1135270-moderu.org) | モデル | 1135270 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
