@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-09-30**.
+Last reconciled with the tracked entry tree: **2026-10-04**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4463 |
+| Canonical entry files | 4563 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1491 |
+| Canonical N2 entries | 1591 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1503 / 1635 (91.9%) |
+| N2 queue rows covered | 1603 / 1635 (98.0%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4426 |
+| `new` | 4526 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4453 |
+| Entry metadata still marked `draft` | 4553 |
 | Core profile | 163 |
-| Learner profile | 4299 |
+| Learner profile | 4399 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1096,6 +1096,13 @@ glosses and usage notes; every primary sense has three graded examples.
 Completed batches passed pinned-JMdict validation, Org lint, and doctor
 100/100 with zero errors or warnings. Entries remain learner drafts,
 pending independent editorial review. The pre-existing 罪 draft is unchanged.
+Final audit: **100 unique new JMdict IDs**, **100 individual word commits**,
+**191 English senses translated with 191 usage notes**, and **300 graded examples**.
+The 400 pre-existing branch additions are unchanged. The test suite passed
+(137 tests, 14,243 assertions, zero failures or errors); source archive and
+N2 queue checksums match their pinned records. The next untouched candidate
+is **N2-1608**. N2-69 remains deferred for standalone-usage review.
+
 N2-1541 is an existing entry; N2-1592 is deferred pending reconciliation
 of its three JMdict matches and is excluded from the new-word count.
 
