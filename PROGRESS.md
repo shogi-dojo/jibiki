@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **1240**.
+Completed **150/200** additional distinct words; branch total **1250**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2065,6 +2065,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2208,6 +2209,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 217 | [富豪](entries/1496/1496780-fugou.org) | ふごう | 1496780 | new / draft |
 | Kotoba N2 218 | [負債](entries/1498/1498080-fusai.org) | ふさい | 1498080 | new / draft |
 | Kotoba N2 224 | [兵器](entries/1506/1506320-heiki.org) | へいき | 1506320 | new / draft |
+| Kotoba N2 225 | [閉口](entries/1508/1508660-heikou.org) | へいこう | 1508660 | new / draft |
+| Kotoba N2 226 | [平行](entries/2835/2835826-heikou.org) | へいこう | 2835826 | new / draft |
+| Kotoba N2 228 | [法学](entries/1517/1517230-hougaku.org) | ほうがく | 1517230 | new / draft |
+| Kotoba N2 229 | [放棄](entries/1516/1516580-houki.org) | ほうき | 1516580 | new / draft |
+| Kotoba N2 230 | [保険](entries/1513/1513440-hoken.org) | ほけん | 1513440 | new / draft |
+| Kotoba N2 231 | [坊ちゃん](entries/1603/1603720-botchan.org) | ぼっちゃん | 1603720 | new / draft |
+| Kotoba N2 243 | [設ける](entries/1386/1386000-moukeru.org) | もうける | 1386000 | new / draft |
+| Kotoba N2 247 | [持ち](entries/1612/1612060-mochi.org) | もち | 1612060 | new / draft |
+| Kotoba N2 250 | [漏る](entries/1560/1560840-moru.org) | もる | 1560840 | new / draft |
+| Kotoba N2 257 | [勇敢](entries/1539/1539730-yuukan.org) | ゆうかん | 1539730 | new / draft |
 
 ## Maturity workflow
 
