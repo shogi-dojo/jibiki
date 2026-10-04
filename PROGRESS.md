@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **1060**.
+Completed **170/200** additional distinct words; branch total **1070**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1814,6 +1814,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1977,6 +1978,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 10.4.33 | [中継](entries/1424/1424040-chuukei.org) | ちゅうけい | 1424040 | new / draft |
 | JTest 10.4.34 | [訂正](entries/1436/1436710-teisei.org) | ていせい | 1436710 | new / draft |
 | JTest 10.5.1 | [国旗](entries/1286/1286290-kokki.org) | こっき | 1286290 | new / draft |
+| JTest 10.5.4 | [先進国](entries/1387/1387940-senshinkoku.org) | せんしんこく | 1387940 | new / draft |
+| JTest 10.5.5 | [呼称](entries/1266/1266510-koshou.org) | こしょう | 1266510 | new / draft |
+| JTest 10.5.7 | [異文化](entries/1834/1834500-ibunka.org) | いぶんか | 1834500 | new / draft |
+| JTest 10.5.9 | [移民](entries/1158/1158440-imin.org) | いみん | 1158440 | new / draft |
+| JTest 10.5.10 | [見方](entries/1260/1260070-mikata.org) | みかた | 1260070 | new / draft |
+| JTest 10.5.12 | [支援](entries/1310/1310100-shien.org) | しえん | 1310100 | new / draft |
+| JTest 10.5.17 | [交渉](entries/1272/1272110-koushou.org) | こうしょう | 1272110 | new / draft |
+| JTest 10.5.19 | [危機](entries/1218/1218450-kiki.org) | きき | 1218450 | new / draft |
+| JTest 10.5.23 | [少子化](entries/2011/2011350-shoushika.org) | しょうしか | 2011350 | new / draft |
+| JTest 10.5.26 | [温暖化](entries/2658/2658470-ondanka.org) | おんだんか | 2658470 | new / draft |
 
 ## Maturity workflow
 
