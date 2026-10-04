@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **2400**.
+Completed **110/200** additional distinct words; branch total **2410**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3622,6 +3622,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3725,6 +3726,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1341 | [蓄電池](entries/1422/1422460-chikudenchi.org) | ちくでんち | 1422460 | new / draft |
 | JLPTLord N2 1342 | [充電](entries/1334/1334390-juuden.org) | じゅうでん | 1334390 | new / draft |
 | JLPTLord N2 1343 | [放電](entries/1516/1516800-houden.org) | ほうでん | 1516800 | new / draft |
+| JLPTLord N2 1344 | [電圧](entries/1442/1442850-denatsu.org) | でんあつ | 1442850 | new / draft |
+| JLPTLord N2 1346 | [周波数](entries/1331/1331260-shuuhasuu.org) | しゅうはすう | 1331260 | new / draft |
+| JLPTLord N2 1348 | [振動](entries/1361/1361420-shindou.org) | しんどう | 1361420 | new / draft |
+| JLPTLord N2 1352 | [圧力](entries/1153/1153340-atsuryoku.org) | あつりょく | 1153340 | new / draft |
+| JLPTLord N2 1354 | [密度](entries/1528/1528320-mitsudo.org) | みつど | 1528320 | new / draft |
+| JLPTLord N2 1360 | [断面](entries/1419/1419810-danmen.org) | だんめん | 1419810 | new / draft |
+| JLPTLord N2 1362 | [精度](entries/1380/1380110-seido.org) | せいど | 1380110 | new / draft |
+| JLPTLord N2 1363 | [誤差](entries/1271/1271320-gosa.org) | ごさ | 1271320 | new / draft |
+| JLPTLord N2 1365 | [比率](entries/1483/1483680-hiritsu.org) | ひりつ | 1483680 | new / draft |
+| JLPTLord N2 1368 | [棒グラフ](entries/1519/1519760-bougurafu.org) | ぼうグラフ | 1519760 | new / draft |
 
 ## Maturity workflow
 
