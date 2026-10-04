@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **1600**.
+Completed **110/200** additional distinct words; branch total **1610**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2575,6 +2575,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2678,6 +2679,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1425 | [珍味](entries/1431/1431970-chinmi.org) | ちんみ | 1431970 | new / draft |
 | TodayJLPT N2 1427 | [追伸](entries/1432/1432540-tsuishin.org) | ついしん | 1432540 | new / draft |
 | TodayJLPT N2 1441 | [作り上げる](entries/1297/1297320-tsukuriageru.org) | つくりあげる | 1297320 | new / draft |
+| TodayJLPT N2 1442 | [作り出す](entries/1297/1297300-tsukuridasu.org) | つくりだす | 1297300 | new / draft |
+| TodayJLPT N2 1450 | [常](entries/2020/2020520-tsune.org) | つね | 2020520 | new / draft |
+| TodayJLPT N2 1466 | [低温](entries/1607/1607190-teion.org) | ていおん | 1607190 | new / draft |
+| TodayJLPT N2 1469 | [停学](entries/1434/1434910-teigaku.org) | ていがく | 1434910 | new / draft |
+| TodayJLPT N2 1474 | [停戦](entries/1434/1434980-teisen.org) | ていせん | 1434980 | new / draft |
+| TodayJLPT N2 1476 | [停泊](entries/1435/1435060-teihaku.org) | ていはく | 1435060 | new / draft |
+| TodayJLPT N2 1477 | [低迷](entries/1434/1434730-teimei.org) | ていめい | 1434730 | new / draft |
+| TodayJLPT N2 1487 | [適量](entries/1437/1437530-tekiryou.org) | てきりょう | 1437530 | new / draft |
+| TodayJLPT N2 1495 | [撤去](entries/1437/1437720-tekkyo.org) | てっきょ | 1437720 | new / draft |
+| TodayJLPT N2 1497 | [鉄鉱](entries/1437/1437860-tekkou.org) | てっこう | 1437860 | new / draft |
 
 ## Maturity workflow
 
