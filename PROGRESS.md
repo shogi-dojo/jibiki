@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-10-04**.
+Last reconciled with the tracked entry tree: **2026-10-05**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -33,24 +33,24 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 6763 |
+| Canonical entry files | 6963 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 3791 |
+| Canonical N2 entries | 3991 |
 | Canonical N3 entries | 1603 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 6726 |
+| `new` | 6926 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 6753 |
+| Entry metadata still marked `draft` | 6953 |
 | Core profile | 163 |
-| Learner profile | 6599 |
+| Learner profile | 6799 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -4376,6 +4376,34 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2621 | [自ずと](entries/2007/2007530-onozuto.org) | おのずと | 2007530 | new / draft |
 | JLPTLord N2 2634 | [無論](entries/1531/1531080-muron.org) | むろん | 1531080 | new / draft |
 | JLPTLord N2 2635 | [言うまでもなく](entries/2067/2067940-iumademonaku.org) | いうまでもなく | 2067940 | new / draft |
+
+### Completed 2900-word target audit (2026-10-05)
+
+Against `origin/main`, this branch now adds **2,900 distinct translated entry
+files**. From baseline `be5dc401` (2,700 additions), this continuation added
+**200 N2 candidates in 20 completed batches of 10**, with **200 individual
+word-addition commits** under Ihor's configured Git identity. Content author
+is `codex`.
+
+All 308 English senses have original Ukrainian glosses and substantive usage
+notes. Each entry has one primary learner sense with three graded Japanese
+examples, kana readings, Ukrainian and English translations, and focus spans:
+**308 usage notes and 600 examples** in total. Original JMdict forms,
+readings, sense IDs, restrictions and fingerprints remain intact.
+
+All 200 entries passed JMdict validation and Org lint. The entry doctor
+reported **100/100 average health, zero errors and zero warnings**. The full
+suite passed **137 tests and 21,443 assertions**, with zero failures, errors
+or skips. Candidate labels and readings match the documented JLPTLord
+manifest and cached source checksum. The source classification is this
+study site's N2 classification, not an official JLPT syllabus.
+
+After these additions, 170 unused reconciled N2 candidates remain in the
+same source pool; no N1 transition or Anki deck was needed. The original
+untracked `entries/1296/1296680-tsumi.org` and
+`scripts/find_next_100_candidates.rb` remain unchanged and excluded. Entries
+remain **new / draft**, pending linguistic editorial review; automated
+checks do not confer release-ready status.
 
 ## Maturity workflow
 

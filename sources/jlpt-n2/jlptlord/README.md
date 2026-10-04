@@ -1,6 +1,6 @@
 # Supplemental N2 candidate evidence
 
-The [JLPTLord N2 vocabulary list](https://www.jlptlord.com/jlpt-n2/vocabulary) supplies 932 selected candidates across the continuations from 1,700 to 1,900 (132 candidates), from 1,900 to 2,100 (200 candidates), from 2,100 to 2,300 (200 candidates), from 2,300 to 2,500 (200 candidates), and from 2,500 to 2,700 (200 further candidates) branch additions.
+The [JLPTLord N2 vocabulary list](https://www.jlptlord.com/jlpt-n2/vocabulary) supplies 1,132 selected candidates across the continuations from 1,700 to 1,900 (132 candidates), from 1,900 to 2,100 (200 candidates), from 2,100 to 2,300 (200 candidates), from 2,300 to 2,500 (200 candidates), from 2,500 to 2,700 (200 further candidates), and from 2,700 to 2,900 (200 further candidates) branch additions.
 Retrieved 2026-10-04. The public page labels 3,101 records as N2; these are this study site's classifications, not an official JLPT syllabus. Study lists differ in coverage and level assignments.
 
 Written forms and readings were reconciled against the pinned JMdict snapshot. Malformed rows, ambiguous matches, existing JMdict IDs, and candidates reserved from TodayJLPT were excluded. `selected.tsv` records the original one-based page position, lexical labels, reading, source URL, and reconciled ID.
@@ -48,3 +48,7 @@ study-list snapshot. The next 200 were selected on 2026-10-04, bringing the
 manifest to 1132 records. N2 candidate coverage is not exhausted, so no N1
 transition or Anki deck is required for this continuation. Original Ukrainian
 glosses, nuances and examples are authored independently of the source.
+
+Completed 2026-10-05: all 200 candidates are authored and individually committed,
+with 308 original Ukrainian usage notes and 600 graded examples. The reconciled
+source pool retains 170 unused N2 candidates after this continuation.
