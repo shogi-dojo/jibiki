@@ -1,0 +1,212 @@
+#+TITLE: 碗
+#+JMDICT_ID: 1562840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わん
+#+ROMAJI: wan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1562840-001
+:PROPERTIES:
+:TEXT: 碗
+:END:
+** Written form wf-1562840-002
+:PROPERTIES:
+:TEXT: 盌
+:END:
+*** Information
+- rK
+** Written form wf-1562840-003
+:PROPERTIES:
+:TEXT: 埦
+:END:
+*** Information
+- sK
+** Reading rd-1562840-001
+:PROPERTIES:
+:TEXT: わん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1562840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e967764a04f6388c4827cad747cca6bf289282faffb63dcb158ec9104082ce99
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 椀・1
+** English glosses
+- bowl (ceramic, porcelain)
+** Ukrainian glosses
+*** uk-s-1562840-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: керамічна чаша; миска
+** Learner notes
+*** note-s-1562840-001-001
+:PROPERTIES:
+:END:
+- UK :: =碗= часто керамічний посуд, як у =茶碗=. =椀= традиційно дерев'яна чи лакована чаша, хоча побутове вживання не завжди суворе. Однакова вимова =わん= не скасовує різниці ієрогліфів та типового матеріалу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1562840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 白い碗にご飯を盛った。
+- READING :: しろいわんにごはんをもった。
+- UK :: Я наклав рис у білу миску.
+- EN :: I served rice in a white bowl.
+- FOCUS :: 碗
+*** ex-1562840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 陶器の碗を棚に並べた。
+- READING :: とうきのわんをたなにならべた。
+- UK :: Я розставив керамічні чаші на полиці.
+- EN :: I arranged the ceramic bowls on the shelf.
+- FOCUS :: 碗
+*** ex-1562840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 展示された碗の模様を比べると、作られた地域による違いが見えてきた。
+- READING :: てんじされたわんのもようをくらべると、つくられたちいきによるちがいがみえてきた。
+- UK :: Порівнюючи візерунки виставлених чаш, можна помітити відмінності між регіонами виготовлення.
+- EN :: Comparing the displayed bowls' patterns revealed differences between regions of production.
+- FOCUS :: 碗
+
+* Sense s-1562840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e97e24fd205ade4358ed9a82061de11447b3c3211feb8f45d06c7171b6c78bc5
+:END:
+** JMdict metadata
+*** Parts of speech
+- ctr
+** English glosses
+- counter for bowls of food or drink
+** Ukrainian glosses
+*** uk-s-1562840-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чаша; миска (лічильник їжі чи напою)
+** Learner notes
+*** note-s-1562840-002-001
+:PROPERTIES:
+:END:
+- UK :: =一碗= — одна чаша або порція в чаші; у письмовому чи кулінарному контексті. Для побутового підрахунку чашок часто =杯=; вибір лічильника залежить від посуду й стилю.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1562840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 26e207239b42a661fc807cae8dfcdd90f3c53e22952fe6deeaed5f0e332fbdc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562840-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bol (en céramique ou porcelaine)
+** Ukrainian glosses
+
+* Sense s-1562840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4f7689437fe3e1d591d85df048d70533b0b97d637b14ad3f0c9aca6dbf6fb933
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562840-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fagolyó
+*** en-s-1562840-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kupa
+*** en-s-1562840-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mélytányér
+*** en-s-1562840-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pipafej
+*** en-s-1562840-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stadion
+** Ukrainian glosses
+
+* Sense s-1562840-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0b6edf8baa7df352c2285348c13f8d3464c11ed0a28f18914daef22c3d404986
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562840-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skål
+** Ukrainian glosses
