@@ -1,0 +1,416 @@
+#+TITLE: 貨車
+#+JMDICT_ID: 1195870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かしゃ
+#+ROMAJI: kasha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1195870-001
+:PROPERTIES:
+:TEXT: 貨車
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf27
+** Reading rd-1195870-001
+:PROPERTIES:
+:TEXT: かしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf27
+
+* Sense s-1195870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 016360e2050961e35c409e58f4a78619617ca618fd8319742c7efe9cdb3b99b6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- rail
+*** Cross-references
+- 客車
+** English glosses
+- freight car
+- van
+** Ukrainian glosses
+*** uk-s-1195870-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вантажний вагон
+** Learner notes
+*** note-s-1195870-001-001
+:PROPERTIES:
+:END:
+- UK :: Називає залізничний вагон для перевезення вантажів, на відміну від пасажирського 客車. Не плутати з 貨物車 як ширшим контекстним терміном або з автомобільним фургоном; основний образ 貨車 — частина поїзда.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1195870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 貨車に荷物を積んだ。
+- READING :: かしゃににもつをつんだ。
+- UK :: Вантаж завантажили у вагон.
+- EN :: The goods were loaded into a freight car.
+- FOCUS :: 貨車
+*** ex-1195870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い列車に多くの貨車がつながっていた。
+- READING :: ながいれっしゃにおおくのかしゃがつながっていた。
+- UK :: До довгого поїзда було причеплено багато вантажних вагонів.
+- EN :: Many freight cars were coupled in the long train.
+- FOCUS :: 貨車
+*** ex-1195870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 展示された貨車を見て、昔どのように物資が運ばれたか想像した。
+- READING :: てんじされたかしゃをみて、むかしどのようにぶっしがはこばれたかそうぞうした。
+- UK :: Дивлячись на виставлений вантажний вагон, я уявляв, як колись перевозили товари.
+- EN :: Looking at the displayed freight car, I imagined how goods were transported in the past.
+- FOCUS :: 貨車
+
+* Sense s-1195870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 05defce6b7549268cd3a20cbf4f620f6f4850acb89f9df9a9550e1c1f64fd09c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goederentrein
+*** en-s-1195870-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goederenwagon
+*** en-s-1195870-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goederenwagen
+*** en-s-1195870-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} foergon
+** Ukrainian glosses
+
+* Sense s-1195870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a26105b29603bd07e7504a33e66b6fd557a5a0cff9b7e67cf4aeba8719708c45
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: camionnette
+*** en-s-1195870-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fourgon
+*** en-s-1195870-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wagon (de marchandises)
+** Ukrainian glosses
+
+* Sense s-1195870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c39ecf053b97f1364928212299232f048fa359c89ba4cd17d0baed48976b8485
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Güterwaggon
+*** en-s-1195870-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Güterwagen
+*** en-s-1195870-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Frachtwaggon
+** Ukrainian glosses
+
+* Sense s-1195870-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d08396674844e3201bfc17bd60b80280f50090cf406251ef51406b01059ac3cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tehervagon
+*** en-s-1195870-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élcsapat
+*** en-s-1195870-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előcsapat
+*** en-s-1195870-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előhad
+*** en-s-1195870-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élvonal
+*** en-s-1195870-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fedett teherkocsi
+*** en-s-1195870-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fedett teherszállító kocsi
+*** en-s-1195870-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fedett tehervagon
+*** en-s-1195870-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: front
+*** en-s-1195870-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: furgon
+*** en-s-1195870-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szárnyépület
+*** en-s-1195870-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szelelőlapát
+*** en-s-1195870-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szelelőrosta
+*** en-s-1195870-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szélmalomkar
+*** en-s-1195870-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teherszállító kocsi
+*** en-s-1195870-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zárt teherszállító kocsi
+** Ukrainian glosses
+
+* Sense s-1195870-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3da07b70c7fd7706720390003baff273427651655290c946e8099cd95c296a21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: товарный вагон
+** Ukrainian glosses
+
+* Sense s-1195870-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7099cacb09c843a79d5692b8cb3f9ee96caaeab99850c7a66d262f27f84009da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tovorno vozilo
+*** en-s-1195870-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dostavni avto
+** Ukrainian glosses
+
+* Sense s-1195870-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a4098b6f2743a639af705e308c9c428f70b99a21970fce20da43db13eb018a26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1195870-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vagón de carga
+*** en-s-1195870-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: camión de carga
+** Ukrainian glosses
