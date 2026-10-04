@@ -1,0 +1,178 @@
+#+TITLE: 耐震
+#+JMDICT_ID: 1410370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいしん
+#+ROMAJI: taishin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1410370-001
+:PROPERTIES:
+:TEXT: 耐震
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1410370-001
+:PROPERTIES:
+:TEXT: たいしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1410370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5ced144e4bb8897d24ac4a4fcc7daa367aa52f26699e46665e43ac227414ac9b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- resistant to earthquakes
+** Ukrainian glosses
+*** uk-s-1410370-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сейсмостійкість; стійкий до землетрусів
+** Learner notes
+*** note-s-1410370-001-001
+:PROPERTIES:
+:END:
+- UK :: 耐震 зазвичай входить у сполуки 耐震構造, 耐震基準 та 耐震補強 і стосується здатності споруди витримати землетрус. Не тотожне 免震 «сейсмоізоляція» або 制震 «приглушення коливань»: це різні способи поводження з навантаженням.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1410370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 耐震工事を行った。
+- READING :: たいしんこうじをおこなった。
+- UK :: Провели роботи із сейсмічного зміцнення.
+- EN :: They carried out earthquake-resistance work.
+- FOCUS :: 耐震
+*** ex-1410370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この建物は耐震基準を満たしている。
+- READING :: このたてものはたいしんきじゅんをみたしている。
+- UK :: Ця будівля відповідає нормам сейсмостійкості.
+- EN :: This building meets earthquake-resistance standards.
+- FOCUS :: 耐震
+*** ex-1410370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い校舎の耐震性能を調べ、補強の計画を立てた。
+- READING :: ふるいこうしゃのたいしんせいのうをしらべ、ほきょうのけいかくをたてた。
+- UK :: Перевірили сейсмостійкість старого шкільного корпусу й склали план зміцнення.
+- EN :: They assessed the old school building's earthquake resistance and planned reinforcement.
+- FOCUS :: 耐震
+
+* Sense s-1410370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d0a735a97531d8821bbdb619eb032e595ce26f4cda67b5e3c15f66afb04be2fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410370-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardbevingsbestendig
+*** en-s-1410370-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardbevingsresistent
+*** en-s-1410370-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevingsbestendig
+*** en-s-1410370-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardschokvast
+** Ukrainian glosses
+
+* Sense s-1410370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ea26f8f2bb565bd303dfbe2fc29069ccaeea9da0339e8ec9b0968fbfc1b39863
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdbebenfestigkeit
+*** en-s-1410370-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdbebensicherheit
+** Ukrainian glosses
+
+* Sense s-1410370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6c633ecec1a1f1a67a2e53dbf7d12c42481028ef5126cd1d0fef4cf8f66bd837
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} сейсмостойкий, антисейсмический
+** Ukrainian glosses
