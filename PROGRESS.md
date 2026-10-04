@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **2170**.
+Completed **80/200** additional distinct words; branch total **2180**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3351,6 +3351,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3424,6 +3425,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 837 | [打ち切る](entries/1408/1408720-uchikiru.org) | うちきる | 1408720 | new / draft |
 | JLPTLord N2 838 | [打ち込む](entries/1581/1581440-uchikomu.org) | うちこむ | 1581440 | new / draft |
 | JLPTLord N2 841 | [取り扱う](entries/1326/1326540-toriatsukau.org) | とりあつかう | 1326540 | new / draft |
+| JLPTLord N2 843 | [取り締まる](entries/1326/1326860-torishimaru.org) | とりしまる | 1326860 | new / draft |
+| JLPTLord N2 846 | [引き起こす](entries/1168/1168880-hikiokosu.org) | ひきおこす | 1168880 | new / draft |
+| JLPTLord N2 848 | [引き下げる](entries/1601/1601600-hikisageru.org) | ひきさげる | 1601600 | new / draft |
+| JLPTLord N2 849 | [引き上げる](entries/1601/1601480-hikiageru.org) | ひきあげる | 1601480 | new / draft |
+| JLPTLord N2 850 | [引き延ばす](entries/1601/1601770-hikinobasu.org) | ひきのばす | 1601770 | new / draft |
+| JLPTLord N2 851 | [差し支える](entries/1291/1291180-sashitsukaeru.org) | さしつかえる | 1291180 | new / draft |
+| JLPTLord N2 853 | [追い込む](entries/1432/1432330-oikomu.org) | おいこむ | 1432330 | new / draft |
+| JLPTLord N2 857 | [繰り上げる](entries/1247/1247000-kuriageru.org) | くりあげる | 1247000 | new / draft |
+| JLPTLord N2 858 | [繰り下げる](entries/1246/1246940-kurisageru.org) | くりさげる | 1246940 | new / draft |
+| JLPTLord N2 860 | [立ち向かう](entries/1551/1551330-tachimukau.org) | たちむかう | 1551330 | new / draft |
 
 ## Maturity workflow
 
