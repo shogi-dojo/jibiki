@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **2750**.
+Completed **60/200** additional distinct words; branch total **2760**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4158,6 +4158,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4211,6 +4212,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2180 | [宿命](entries/1337/1337330-shukumei.org) | しゅくめい | 1337330 | new / draft |
 | JLPTLord N2 2181 | [天命](entries/1440/1440400-tenmei.org) | てんめい | 1440400 | new / draft |
 | JLPTLord N2 2183 | [志](entries/1309/1309050-kokorozashi.org) | こころざし | 1309050 | new / draft |
+| JLPTLord N2 2189 | [執念](entries/1319/1319690-shuunen.org) | しゅうねん | 1319690 | new / draft |
+| JLPTLord N2 2190 | [忍耐](entries/1467/1467500-nintai.org) | にんたい | 1467500 | new / draft |
+| JLPTLord N2 2192 | [精神力](entries/1751/1751140-seishinryoku.org) | せいしんりょく | 1751140 | new / draft |
+| JLPTLord N2 2193 | [集中力](entries/1937/1937890-shuuchuuryoku.org) | しゅうちゅうりょく | 1937890 | new / draft |
+| JLPTLord N2 2194 | [判断力](entries/1478/1478650-handanryoku.org) | はんだんりょく | 1478650 | new / draft |
+| JLPTLord N2 2195 | [想像力](entries/1749/1749300-souzouryoku.org) | そうぞうりょく | 1749300 | new / draft |
+| JLPTLord N2 2196 | [表現力](entries/1945/1945910-hyougenryoku.org) | ひょうげんりょく | 1945910 | new / draft |
+| JLPTLord N2 2197 | [洞察力](entries/1687/1687840-dousatsuryoku.org) | どうさつりょく | 1687840 | new / draft |
+| JLPTLord N2 2198 | [観察力](entries/1782/1782790-kansatsuryoku.org) | かんさつりょく | 1782790 | new / draft |
+| JLPTLord N2 2199 | [包容力](entries/1515/1515560-houyouryoku.org) | ほうようりょく | 1515560 | new / draft |
 
 ## Maturity workflow
 
