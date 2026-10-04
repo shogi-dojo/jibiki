@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
 Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
-Completed **30/100** additional distinct words; branch total **630**.
+Completed **40/100** additional distinct words; branch total **640**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1382,6 +1382,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1415,6 +1416,16 @@ N2-69 (佚) remains deferred and is not counted.
 | N2-S1422 | [吐き気](entries/1444/1444120-hakike.org) | はきけ | 1444120 | new / draft |
 | N2-S1440 | [発](entries/1477/1477120-hatsu.org) | はつ | 1477120 | new / draft |
 | N2-S1452 | [甚だしい](entries/1370/1370010-hanahadashii.org) | はなはだしい | 1370010 | new / draft |
+| N2-S1456 | [跳ねる](entries/1429/1429620-haneru.org) | はねる | 1429620 | new / draft |
+| N2-S1460 | [早口](entries/1400/1400240-hayakuchi.org) | はやくち | 1400240 | new / draft |
+| N2-S1475 | [半島](entries/1479/1479770-hantou.org) | はんとう | 1479770 | new / draft |
+| N2-S1479 | [日帰り](entries/1463/1463920-higaeri.org) | ひがえり | 1463920 | new / draft |
+| N2-S1488 | [卑怯](entries/1482/1482710-hikyou.org) | ひきょう | 1482710 | new / draft |
+| N2-S1498 | [筆記](entries/1487/1487800-hikki.org) | ひっき | 1487800 | new / draft |
+| N2-S1543 | [風船](entries/1499/1499940-fuusen.org) | ふうせん | 1499940 | new / draft |
+| N2-S1556 | [不潔](entries/1492/1492160-fuketsu.org) | ふけつ | 1492160 | new / draft |
+| N2-S1587 | [振り向く](entries/1361/1361190-furimuku.org) | ふりむく | 1361190 | new / draft |
+| N2-S1659 | [盆](entries/1523/1523700-bon.org) | ぼん | 1523700 | new / draft |
 
 ## Maturity workflow
 
