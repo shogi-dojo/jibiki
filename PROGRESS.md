@@ -1089,7 +1089,7 @@ remains preserved.
 ## Current-branch next 100 N2 words (2026-10-04)
 
 Baseline for this request: `dbdcb446` (**400** new entries on this branch).
-Completed **70/100** additional distinct entries; branch total **470**.
+Completed **80/100** additional distinct entries; branch total **480**.
 One commit per word, in batches of ten, using Ihor’s Git identity and
 `codex` content attribution. Every English sense has original Ukrainian
 glosses and usage notes; every primary sense has three graded examples.
@@ -1108,6 +1108,7 @@ of its three JMdict matches and is excluded from the new-word count.
 | 5 | N2-1547–1556 | 10 |
 | 6 | N2-1557–1566 | 10 |
 | 7 | N2-1567–1576 | 10 |
+| 8 | N2-1577–1586 | 10 |
 
 | Queue row | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1181,6 +1182,16 @@ of its three JMdict matches and is excluded from the new-word count.
 | N2-1574 | [漸く](entries/1394/1394600-youyaku.org) | ようやく | 1394600 | new / draft |
 | N2-1575 | [要領](entries/1546/1546850-youryou.org) | ようりょう | 1546850 | new / draft |
 | N2-1576 | [欲張り](entries/1547/1547390-yokubari.org) | よくばり | 1547390 | new / draft |
+| N2-1577 | [余計](entries/1544/1544090-yokei.org) | よけい | 1544090 | new / draft |
+| N2-1578 | [寄越す](entries/1013/1013140-yokosu.org) | よこす | 1013140 | new / draft |
+| N2-1579 | [汚す](entries/1178/1178960-yogosu.org) | よごす | 1178960 | new / draft |
+| N2-1580 | [寄せる](entries/1219/1219560-yoseru.org) | よせる | 1219560 | new / draft |
+| N2-1581 | [余所](entries/1605/1605940-yoso.org) | よそ | 1605940 | new / draft |
+| N2-1582 | [酔っ払い](entries/1372/1372660-yopparai.org) | よっぱらい | 1372660 | new / draft |
+| N2-1583 | [四つ角](entries/1307/1307060-yotsukado.org) | よつかど | 1307060 | new / draft |
+| N2-1584 | [予備](entries/1543/1543320-yobi.org) | よび | 1543320 | new / draft |
+| N2-1585 | [呼びかける](entries/1266/1266280-yobikakeru.org) | よびかける | 1266280 | new / draft |
+| N2-1586 | [呼び出す](entries/1266/1266350-yobidasu.org) | よびだす | 1266350 | new / draft |
 
 ## Maturity workflow
 
