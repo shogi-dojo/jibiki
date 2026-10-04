@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **2270**.
+Completed **180/200** additional distinct words; branch total **2280**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3361,6 +3361,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3534,6 +3535,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1074 | [厳密](entries/1262/1262830-genmitsu.org) | げんみつ | 1262830 | new / draft |
 | JLPTLord N2 1075 | [厳格](entries/1262/1262570-genkaku.org) | げんかく | 1262570 | new / draft |
 | JLPTLord N2 1083 | [合理的](entries/1285/1285380-gouriteki.org) | ごうりてき | 1285380 | new / draft |
+| JLPTLord N2 1084 | [論理的](entries/1561/1561890-ronriteki.org) | ろんりてき | 1561890 | new / draft |
+| JLPTLord N2 1085 | [具体的](entries/1245/1245050-gutaiteki.org) | ぐたいてき | 1245050 | new / draft |
+| JLPTLord N2 1086 | [抽象的](entries/1426/1426200-chuushouteki.org) | ちゅうしょうてき | 1426200 | new / draft |
+| JLPTLord N2 1089 | [効果的](entries/1275/1275150-koukateki.org) | こうかてき | 1275150 | new / draft |
+| JLPTLord N2 1090 | [画期的](entries/1590/1590470-kakkiteki.org) | かっきてき | 1590470 | new / draft |
+| JLPTLord N2 1091 | [圧倒的](entries/1153/1153270-attouteki.org) | あっとうてき | 1153270 | new / draft |
+| JLPTLord N2 1092 | [決定的](entries/1254/1254400-ketteiteki.org) | けっていてき | 1254400 | new / draft |
+| JLPTLord N2 1093 | [根本的](entries/1290/1290290-konponteki.org) | こんぽんてき | 1290290 | new / draft |
+| JLPTLord N2 1094 | [本質的](entries/1822/1822900-honshitsuteki.org) | ほんしつてき | 1822900 | new / draft |
+| JLPTLord N2 1095 | [典型的](entries/1438/1438090-tenkeiteki.org) | てんけいてき | 1438090 | new / draft |
 
 ## Maturity workflow
 
