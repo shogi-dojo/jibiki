@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **20/200** additional distinct words; branch total **2320**.
+Completed **30/200** additional distinct words; branch total **2330**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3614,6 +3614,7 @@ N2-69 (佚) remains deferred and is not counted.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3637,6 +3638,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1142 | [不可欠](entries/1491/1491400-fukaketsu.org) | ふかけつ | 1491400 | new / draft |
 | JLPTLord N2 1143 | [不可能](entries/1491/1491520-fukanou.org) | ふかのう | 1491520 | new / draft |
 | JLPTLord N2 1145 | [漠然](entries/1475/1475790-bakuzen.org) | ばくぜん | 1475790 | new / draft |
+| JLPTLord N2 1146 | [露骨](entries/1560/1560120-rokotsu.org) | ろこつ | 1560120 | new / draft |
+| JLPTLord N2 1150 | [地道](entries/1421/1421400-jimichi.org) | じみち | 1421400 | new / draft |
+| JLPTLord N2 1151 | [着実](entries/1423/1423050-chakujitsu.org) | ちゃくじつ | 1423050 | new / draft |
+| JLPTLord N2 1152 | [堅実](entries/1592/1592720-kenjitsu.org) | けんじつ | 1592720 | new / draft |
+| JLPTLord N2 1153 | [誠実](entries/1381/1381180-seijitsu.org) | せいじつ | 1381180 | new / draft |
+| JLPTLord N2 1154 | [忠実](entries/1012/1012210-chuujitsu.org) | ちゅうじつ | 1012210 | new / draft |
+| JLPTLord N2 1155 | [素早い](entries/1397/1397310-subayai.org) | すばやい | 1397310 | new / draft |
+| JLPTLord N2 1157 | [相応しい](entries/1400/1400850-fusawashii.org) | ふさわしい | 1400850 | new / draft |
+| JLPTLord N2 1164 | [極めて](entries/1240/1240200-kiwamete.org) | きわめて | 1240200 | new / draft |
+| JLPTLord N2 1165 | [著しく](entries/1858/1858570-ichijirushiku.org) | いちじるしく | 1858570 | new / draft |
 
 ## Maturity workflow
 
