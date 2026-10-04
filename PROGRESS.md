@@ -1785,7 +1785,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
 Baseline: `945bbe61`, with **900** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **980**.
+Completed **90/200** additional distinct words; branch total **990**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1806,6 +1806,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1889,6 +1890,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 8.5.17 | [思いがけず](entries/1309/1309200-omoigakezu.org) | おもいがけず | 1309200 | new / draft |
 | JTest 8.5.22 | [旅先](entries/1553/1553220-tabisaki.org) | たびさき | 1553220 | new / draft |
 | JTest 8.5.26 | [免税店](entries/1823/1823120-menzeiten.org) | めんぜいてん | 1823120 | new / draft |
+| JTest 9.1.4 | [体力](entries/1409/1409760-tairyoku.org) | たいりょく | 1409760 | new / draft |
+| JTest 9.1.10 | [一般に](entries/1165/1165800-ippanni.org) | いっぱんに | 1165800 | new / draft |
+| JTest 9.1.13 | [つま先](entries/1433/1433910-tsumasaki.org) | つまさき | 1433910 | new / draft |
+| JTest 9.1.14 | [血管](entries/1255/1255180-kekkan.org) | けっかん | 1255180 | new / draft |
+| JTest 9.1.18 | [乗り越える](entries/1354/1354770-norikoeru.org) | のりこえる | 1354770 | new / draft |
+| JTest 9.1.19 | [傷跡](entries/1591/1591230-kizuato.org) | きずあと | 1591230 | new / draft |
+| JTest 9.2.2 | [疲労](entries/1483/1483780-hirou.org) | ひろう | 1483780 | new / draft |
+| JTest 9.2.3 | [不調](entries/1493/1493840-fuchou.org) | ふちょう | 1493840 | new / draft |
+| JTest 9.2.4 | [体調](entries/1409/1409610-taichou.org) | たいちょう | 1409610 | new / draft |
+| JTest 9.2.6 | [寝心地](entries/1792/1792820-negokochi.org) | ねごこち | 1792820 | new / draft |
 
 ## Maturity workflow
 
