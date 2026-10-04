@@ -3869,7 +3869,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
 Baseline: `06b11efc`, with **2500** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **2660**.
+Completed **170/200** additional distinct words; branch total **2670**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3898,6 +3898,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4061,6 +4062,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1750 | [修験道](entries/1331/1331990-shugendou.org) | しゅげんどう | 1331990 | new / draft |
 | JLPTLord N2 2014 | [幻想](entries/1262/1262950-gensou.org) | げんそう | 1262950 | new / draft |
 | JLPTLord N2 2015 | [妄想](entries/1584/1584730-mousou.org) | もうそう | 1584730 | new / draft |
+| JLPTLord N2 2016 | [直感](entries/1430/1430850-chokkan.org) | ちょっかん | 1430850 | new / draft |
+| JLPTLord N2 2017 | [予感](entries/1542/1542910-yokan.org) | よかん | 1542910 | new / draft |
+| JLPTLord N2 2019 | [焦り](entries/1350/1350770-aseri.org) | あせり | 1350770 | new / draft |
+| JLPTLord N2 2020 | [苛立ち](entries/1975/1975500-iradachi.org) | いらだち | 1975500 | new / draft |
+| JLPTLord N2 2021 | [怒り](entries/1445/1445670-ikari.org) | いかり | 1445670 | new / draft |
+| JLPTLord N2 2022 | [憎しみ](entries/1403/1403400-nikushimi.org) | にくしみ | 1403400 | new / draft |
+| JLPTLord N2 2024 | [嫉妬](entries/1320/1320280-shitto.org) | しっと | 1320280 | new / draft |
+| JLPTLord N2 2025 | [羨望](entries/1391/1391960-senbou.org) | せんぼう | 1391960 | new / draft |
+| JLPTLord N2 2026 | [軽蔑](entries/1252/1252860-keibetsu.org) | けいべつ | 1252860 | new / draft |
+| JLPTLord N2 2027 | [侮辱](entries/1498/1498260-bujoku.org) | ぶじょく | 1498260 | new / draft |
 
 ## Maturity workflow
 
