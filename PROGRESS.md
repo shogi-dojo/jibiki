@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **10/200** additional distinct words; branch total **2710**.
+Completed **20/200** additional distinct words; branch total **2720**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4154,6 +4154,7 @@ N2-69 (佚) remains deferred and is not counted.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4167,6 +4168,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2089 | [軽率](entries/1252/1252910-keisotsu.org) | けいそつ | 1252910 | new / draft |
 | JLPTLord N2 2092 | [強情](entries/1593/1593510-goujou.org) | ごうじょう | 1593510 | new / draft |
 | JLPTLord N2 2094 | [気まぐれ](entries/1591/1591410-kimagure.org) | きまぐれ | 1591410 | new / draft |
+| JLPTLord N2 2108 | [名誉](entries/1531/1531870-meiyo.org) | めいよ | 1531870 | new / draft |
+| JLPTLord N2 2109 | [威信](entries/1156/1156290-ishin.org) | いしん | 1156290 | new / draft |
+| JLPTLord N2 2110 | [体面](entries/1409/1409700-taimen.org) | たいめん | 1409700 | new / draft |
+| JLPTLord N2 2111 | [面目](entries/1533/1533590-menboku.org) | めんぼく | 1533590 | new / draft |
+| JLPTLord N2 2114 | [恩人](entries/1183/1183230-onjin.org) | おんじん | 1183230 | new / draft |
+| JLPTLord N2 2119 | [上司](entries/1353/1353260-joushi.org) | じょうし | 1353260 | new / draft |
+| JLPTLord N2 2120 | [部下](entries/1499/1499350-buka.org) | ぶか | 1499350 | new / draft |
+| JLPTLord N2 2125 | [和解](entries/1562/1562030-wakai.org) | わかい | 1562030 | new / draft |
+| JLPTLord N2 2129 | [共感](entries/1234/1234370-kyoukan.org) | きょうかん | 1234370 | new / draft |
+| JLPTLord N2 2130 | [同情](entries/1452/1452720-doujou.org) | どうじょう | 1452720 | new / draft |
 
 ## Maturity workflow
 
