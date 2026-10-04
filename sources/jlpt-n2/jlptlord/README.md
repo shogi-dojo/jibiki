@@ -52,3 +52,10 @@ glosses, nuances and examples are authored independently of the source.
 Completed 2026-10-05: all 200 candidates are authored and individually committed,
 with 308 original Ukrainian usage notes and 600 graded examples. The reconciled
 source pool retains 170 unused N2 candidates after this continuation.
+
+## 2900 to 3100 continuation
+
+The final 170 unused reconciled candidates were selected on 2026-10-05.
+The manifest now contains 1,302 lexical records. Every new sense, nuance note
+and example is independently authored. A further source is being reconciled
+for the remaining 30 entries; the objective remains 3,100 total additions.

@@ -4405,6 +4405,37 @@ untracked `entries/1296/1296680-tsumi.org` and
 remain **new / draft**, pending linguistic editorial review; automated
 checks do not confer release-ready status.
 
+## Final 3100-word branch N2 continuation (2026-10-05)
+
+Baseline: `5386f32f`, with **2900** new translated words on this branch.
+Completed **10/200** additional distinct words; branch total **2910**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 2639 | [如何に](entries/1466/1466970-ikani.org) | いかに | 1466970 | new / draft |
+| JLPTLord N2 2640 | [如何にも](entries/1000/1000660-ikanimo.org) | いかにも | 1000660 | new / draft |
+| JLPTLord N2 2645 | [差し当たり](entries/1291/1291290-sashiatari.org) | さしあたり | 1291290 | new / draft |
+| JLPTLord N2 2655 | [未](entries/2242/2242840-mi.org) | み | 2242840 | new / draft |
+| JLPTLord N2 2656 | [非](entries/1484/1484710-hi.org) | ひ | 1484710 | new / draft |
+| JLPTLord N2 2659 | [超](entries/1429/1429340-chou.org) | ちょう | 1429340 | new / draft |
+| JLPTLord N2 2661 | [全](entries/1394/1394770-zen.org) | ぜん | 1394770 | new / draft |
+| JLPTLord N2 2662 | [総](entries/1401/1401470-sou.org) | そう | 1401470 | new / draft |
+| JLPTLord N2 2663 | [両](entries/2080/2080720-ryou.org) | りょう | 2080720 | new / draft |
+| JLPTLord N2 2664 | [諸](entries/1344/1344210-sho.org) | しょ | 1344210 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
