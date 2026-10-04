@@ -1,0 +1,191 @@
+#+TITLE: 納期
+#+JMDICT_ID: 1470050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のうき
+#+ROMAJI: nouki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1470050-001
+:PROPERTIES:
+:TEXT: 納期
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1470050-001
+:PROPERTIES:
+:TEXT: のうき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1470050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a6230278e64886e2ab52ab6f91641b48e30a28bd1cd24742ca67a89df12d455b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- appointed date of delivery
+- delivery time
+- due date for payment
+- period for payment
+- deadline (for payment or delivery)
+** Ukrainian glosses
+*** uk-s-1470050-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: строк постачання; термін виконання; строк платежу
+** Learner notes
+*** note-s-1470050-001-001
+:PROPERTIES:
+:END:
+- UK :: 納期 у виробничих і ділових текстах найчастіше означає погоджений строк постачання або виконання: 納期を守る, 納期が遅れる. У платіжному контексті можливий строк сплати. Відрізняйте від 所要時間, потрібної тривалості роботи, та від окремого факту поставки 納品.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1470050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 納期を確認した。
+- READING :: のうきをかくにんした。
+- UK :: Я уточнив строк постачання.
+- EN :: I checked the delivery deadline.
+- FOCUS :: 納期
+*** ex-1470050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この注文の納期は来月です。
+- READING :: このちゅうもんののうきはらいげつです。
+- UK :: Строк виконання цього замовлення — наступний місяць.
+- EN :: The delivery date for this order is next month.
+- FOCUS :: 納期
+*** ex-1470050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 材料の到着が遅れたため、納期について取引先と相談した。
+- READING :: ざいりょうのとうちゃくがおくれたため、のうきについてとりひきさきとそうだんした。
+- UK :: Через затримку матеріалів ми обговорили строк постачання з діловим партнером.
+- EN :: Because the materials arrived late, we discussed the delivery deadline with the business partner.
+- FOCUS :: 納期
+
+* Sense s-1470050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9d620cd5ebee71ccffa229cfd386cd5cc08c16aa32d11dad7094ae545e95b881
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1470050-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlungstermin
+*** en-s-1470050-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlungsfrist
+** Ukrainian glosses
+
+* Sense s-1470050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 47affbd1c5ed32d1cd1a20ba1c9e3beda470f0066d3d2087c827bb38528dcfb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1470050-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Liefertermin
+*** en-s-1470050-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lieferungstermin
+*** en-s-1470050-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lieferfrist
+** Ukrainian glosses
+
+* Sense s-1470050-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8f4bb58f5096f1ab5278e4c201f48a0b189b56b597c190ce4cee9fe406707d87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1470050-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esedékesség időpontja (szállításé kifizetésé stb.)
+** Ukrainian glosses
+
+* Sense s-1470050-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 318796556c2e31f5d7905fad44db0519c84e0ce11c1dc4bedb5567b00c08bc74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1470050-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: срок платежа (поставки)
+** Ukrainian glosses
