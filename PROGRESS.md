@@ -2038,7 +2038,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
 Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **1230**.
+Completed **140/200** additional distinct words; branch total **1240**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2064,6 +2064,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2197,6 +2198,16 @@ N2-69 (佚) remains deferred and is not counted.
 | Kotoba N2 165 | [第一](entries/1415/1415270-daiichi.org) | だいいち | 1415270 | new / draft |
 | Kotoba N2 168 | [中傷](entries/1424/1424500-chuushou.org) | ちゅうしょう | 1424500 | new / draft |
 | Kotoba N2 169 | [次いで](entries/1316/1316390-tsuide.org) | ついで | 1316390 | new / draft |
+| Kotoba N2 174 | [摘む](entries/1437/1437060-tsumu.org) | つむ | 1437060 | new / draft |
+| Kotoba N2 179 | [電線](entries/1443/1443570-densen.org) | でんせん | 1443570 | new / draft |
+| Kotoba N2 189 | [慣らす](entries/1212/1212650-narasu.org) | ならす | 1212650 | new / draft |
+| Kotoba N2 205 | [繁栄](entries/1481/1481670-hanei.org) | はんえい | 1481670 | new / draft |
+| Kotoba N2 207 | [老ける](entries/1561/1561010-fukeru.org) | ふける | 1561010 | new / draft |
+| Kotoba N2 208 | [罰](entries/1478/1478060-batsu.org) | ばつ | 1478060 | new / draft |
+| Kotoba N2 215 | [布巾](entries/1496/1496850-fukin.org) | ふきん | 1496850 | new / draft |
+| Kotoba N2 217 | [富豪](entries/1496/1496780-fugou.org) | ふごう | 1496780 | new / draft |
+| Kotoba N2 218 | [負債](entries/1498/1498080-fusai.org) | ふさい | 1498080 | new / draft |
+| Kotoba N2 224 | [兵器](entries/1506/1506320-heiki.org) | へいき | 1506320 | new / draft |
 
 ## Maturity workflow
 
