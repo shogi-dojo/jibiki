@@ -3331,7 +3331,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
 Baseline: `5ad66293`, with **2100** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **2220**.
+Completed **130/200** additional distinct words; branch total **2230**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3356,6 +3356,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3479,6 +3480,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 959 | [擁する](entries/1545/1545740-yousuru.org) | ようする | 1545740 | new / draft |
 | JLPTLord N2 960 | [要する](entries/1546/1546610-yousuru.org) | ようする | 1546610 | new / draft |
 | JLPTLord N2 961 | [有する](entries/1540/1540950-yuusuru.org) | ゆうする | 1540950 | new / draft |
+| JLPTLord N2 963 | [反する](entries/1480/1480080-hansuru.org) | はんする | 1480080 | new / draft |
+| JLPTLord N2 965 | [徹する](entries/1598/1598340-tessuru.org) | てっする | 1598340 | new / draft |
+| JLPTLord N2 968 | [面する](entries/1533/1533400-mensuru.org) | めんする | 1533400 | new / draft |
+| JLPTLord N2 970 | [値する](entries/1609/1609040-ataisuru.org) | あたいする | 1609040 | new / draft |
+| JLPTLord N2 971 | [課する](entries/1195/1195730-kasuru.org) | かする | 1195730 | new / draft |
+| JLPTLord N2 972 | [称する](entries/1351/1351250-shousuru.org) | しょうする | 1351250 | new / draft |
+| JLPTLord N2 974 | [潤う](entries/1341/1341790-uruou.org) | うるおう | 1341790 | new / draft |
+| JLPTLord N2 975 | [潤す](entries/1341/1341810-uruosu.org) | うるおす | 1341810 | new / draft |
+| JLPTLord N2 977 | [揺るがす](entries/1612/1612140-yurugasu.org) | ゆるがす | 1612140 | new / draft |
+| JLPTLord N2 978 | [染まる](entries/1391/1391100-somaru.org) | そまる | 1391100 | new / draft |
 
 ## Maturity workflow
 
