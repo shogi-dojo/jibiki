@@ -1505,7 +1505,7 @@ remains uncommitted.
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
 Baseline: `91af692d`, with **700** new translated words on this branch.
-Completed **40/100** additional distinct words; branch total **740**.
+Completed **50/100** additional distinct words; branch total **750**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -1522,6 +1522,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -1565,6 +1566,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JTest 2.4.25 | [試着](entries/1312/1312500-shichaku.org) | しちゃく | 1312500 | new / draft |
 | JTest 2.5.10 | [本年](entries/1523/1523120-honnen.org) | ほんねん | 1523120 | new / draft |
 | JTest 2.5.16 | [後日](entries/1269/1269980-gojitsu.org) | ごじつ | 1269980 | new / draft |
+| JTest 2.5.22 | [従来](entries/1335/1335400-juurai.org) | じゅうらい | 1335400 | new / draft |
+| JTest 3.1.5 | [乳製品](entries/1465/1465260-nyuuseihin.org) | にゅうせいひん | 1465260 | new / draft |
+| JTest 3.1.6 | [洗い物](entries/1609/1609080-araimono.org) | あらいもの | 1609080 | new / draft |
+| JTest 3.1.7 | [欠かす](entries/1253/1253890-kakasu.org) | かかす | 1253890 | new / draft |
+| JTest 3.1.10 | [一切](entries/1164/1164170-issai.org) | いっさい | 1164170 | new / draft |
+| JTest 3.1.11 | [合間](entries/1284/1284670-aima.org) | あいま | 1284670 | new / draft |
+| JTest 3.2.2 | [何度も](entries/1189/1189200-nandomo.org) | なんども | 1189200 | new / draft |
+| JTest 3.2.4 | [寄り道](entries/1219/1219650-yorimichi.org) | よりみち | 1219650 | new / draft |
+| JTest 3.2.8 | [物干し](entries/1605/1605290-monohoshi.org) | ものほし | 1605290 | new / draft |
+| JTest 3.2.10 | [後回し](entries/1269/1269500-atomawashi.org) | あとまわし | 1269500 | new / draft |
 
 ## Maturity workflow
 
