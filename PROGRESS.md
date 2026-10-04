@@ -4140,7 +4140,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
 Baseline: `be5dc401`, with **2700** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **2790**.
+Completed **100/200** additional distinct words; branch total **2800**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4162,6 +4162,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4255,6 +4256,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2231 | [利己的](entries/1549/1549540-rikoteki.org) | りこてき | 1549540 | new / draft |
 | JLPTLord N2 2233 | [協力的](entries/2848/2848927-kyouryokuteki.org) | きょうりょくてき | 2848927 | new / draft |
 | JLPTLord N2 2234 | [献身的](entries/1714/1714900-kenshinteki.org) | けんしんてき | 1714900 | new / draft |
+| JLPTLord N2 2246 | [衝動的](entries/1686/1686680-shoudouteki.org) | しょうどうてき | 1686680 | new / draft |
+| JLPTLord N2 2247 | [本能的](entries/2514/2514590-honnouteki.org) | ほんのうてき | 2514590 | new / draft |
+| JLPTLord N2 2248 | [直感的](entries/1597/1597710-chokkanteki.org) | ちょっかんてき | 1597710 | new / draft |
+| JLPTLord N2 2249 | [意図的](entries/1156/1156700-itoteki.org) | いとてき | 1156700 | new / draft |
+| JLPTLord N2 2250 | [自発的](entries/1318/1318560-jihatsuteki.org) | じはつてき | 1318560 | new / draft |
+| JLPTLord N2 2266 | [研ぐ](entries/1598/1598700-togu.org) | とぐ | 1598700 | new / draft |
+| JLPTLord N2 2273 | [歪む](entries/1585/1585360-yugamu.org) | ゆがむ | 1585360 | new / draft |
+| JLPTLord N2 2279 | [膨れる](entries/1602/1602550-fukureru.org) | ふくれる | 1602550 | new / draft |
+| JLPTLord N2 2282 | [滲む](entries/1568/1568800-nijimu.org) | にじむ | 1568800 | new / draft |
+| JLPTLord N2 2285 | [浸す](entries/1362/1362560-hitasu.org) | ひたす | 1362560 | new / draft |
 
 ## Maturity workflow
 
