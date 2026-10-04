@@ -1,0 +1,352 @@
+#+TITLE: 計量
+#+JMDICT_ID: 1252260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいりょう
+#+ROMAJI: keiryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1252260-001
+:PROPERTIES:
+:TEXT: 計量
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1252260-001
+:PROPERTIES:
+:TEXT: けいりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1252260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2c0737f8ee058e2f4ce82a3a30648e1a36a5ca04f3a9c6a08100f9aef02d2508
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- measuring
+- weighing
+** Ukrainian glosses
+*** uk-s-1252260-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вимірювання; зважування
+** Learner notes
+*** note-s-1252260-001-001
+:PROPERTIES:
+:END:
+- UK :: Позначає визначення кількості, маси або об'єму за допомогою відповідних засобів: 材料を計量する. Не плутати з 軽量 — малою вагою, що має те саме читання; 計量 є дією вимірювання, а не властивістю предмета.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1252260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 粉を計量した。
+- READING :: こなをけいりょうした。
+- UK :: Я відміряв борошно.
+- EN :: I measured out the flour.
+- FOCUS :: 計量
+*** ex-1252260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 計量カップで水の量を確かめた。
+- READING :: けいりょうかっぷでみずのりょうをたしかめた。
+- UK :: Я перевірив об'єм води мірною склянкою.
+- EN :: I checked the water quantity with a measuring cup.
+- FOCUS :: 計量
+*** ex-1252260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 材料を先に計量して並べておくと、調理の途中で慌てずにすむ。
+- READING :: ざいりょうをさきにけいりょうしてならべておくと、ちょうりのとちゅうであわてずにすむ。
+- UK :: Якщо завчасно відміряти й розкласти продукти, під час готування не доведеться поспішати.
+- EN :: Measuring and arranging the ingredients beforehand avoids rushing during cooking.
+- FOCUS :: 計量
+
+* Sense s-1252260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f678a3b7b0210d9cf2f471fc4f63972a26c8a2f98122e6977c6b0eaf9842de3a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- metric
+- distance function
+** Ukrainian glosses
+*** uk-s-1252260-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: метрика; функція відстані
+** Learner notes
+*** note-s-1252260-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний математичний термін, який у відповідному контексті називає спосіб визначення відстані. Не означає фізичне зважування на кухонних вагах; конкретні властивості встановлюються в математичному визначенні.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1252260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b6ce0dd31f2357030973092f81af6a8d8b57ea0eb5510dc8867a891a6651b340
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meten
+*** en-s-1252260-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegen
+*** en-s-1252260-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meting
+*** en-s-1252260-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weging
+*** en-s-1252260-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} metriek
+** Ukrainian glosses
+
+* Sense s-1252260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: dcc211956ff5f72e6b11d698958a374790774a8fca2ab6b25ffa0238688fff91
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: messen
+*** en-s-1252260-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wiegen
+*** en-s-1252260-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wägen
+*** en-s-1252260-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechnen
+*** en-s-1252260-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zählen
+*** en-s-1252260-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Messung
+*** en-s-1252260-004-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Messen
+*** en-s-1252260-004-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wägen
+*** en-s-1252260-004-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechnen
+** Ukrainian glosses
+
+* Sense s-1252260-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dc6077dcbd2bc64dd37907391f9c9f4ea9b8eb868c8ed928cb85373269054c3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metrik
+** Ukrainian glosses
+
+* Sense s-1252260-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 8de54e6d1b0065ce7f26f7a005f3f88ac6a22a79a6635c85a04ecf58a0d59f82
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felmérés
+*** en-s-1252260-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tömegmérés
+** Ukrainian glosses
+
+* Sense s-1252260-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8b204986b63c57b24473817d1f09688b9a85d654a19eb71a7d20ba4dae4b470d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) измерение; взвешивание; подсчёт
+*** en-s-1252260-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} измерять; взвешивать; подсчитывать
+*** en-s-1252260-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) меры (длины, веса и т. п.)
+** Ukrainian glosses
+
+* Sense s-1252260-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 988dbd155ec671031b0b6dc7c1d565308ef935e445a82f5590a1091c9cf7dfd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252260-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medición
+** Ukrainian glosses
