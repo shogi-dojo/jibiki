@@ -2552,7 +2552,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
 Baseline: `f0d52112`, with **1500** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **1670**.
+Completed **180/200** additional distinct words; branch total **1680**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2582,6 +2582,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2755,6 +2756,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 1754 | [放つ](entries/1516/1516490-hanatsu.org) | はなつ | 1516490 | new / draft |
 | TodayJLPT N2 1758 | [花輪](entries/1195/1195080-hanawa.org) | はなわ | 1195080 | new / draft |
 | TodayJLPT N2 1762 | [葉巻](entries/1546/1546580-hamaki.org) | はまき | 1546580 | new / draft |
+| TodayJLPT N2 1766 | [早まる](entries/1400/1400170-hayamaru.org) | はやまる | 1400170 | new / draft |
+| TodayJLPT N2 1767 | [払い](entries/1611/1611280-harai.org) | はらい | 1611280 | new / draft |
+| TodayJLPT N2 1772 | [張り出す](entries/1427/1427840-haridasu.org) | はりだす | 1427840 | new / draft |
+| TodayJLPT N2 1776 | [半減](entries/1479/1479260-hangen.org) | はんげん | 1479260 | new / draft |
+| TodayJLPT N2 1781 | [搬送](entries/1481/1481300-hansou.org) | はんそう | 1481300 | new / draft |
+| TodayJLPT N2 1784 | [反転](entries/1480/1480770-hanten.org) | はんてん | 1480770 | new / draft |
+| TodayJLPT N2 1788 | [比](entries/1483/1483520-hi.org) | ひ | 1483520 | new / draft |
+| TodayJLPT N2 1791 | [皮革](entries/1483/1483850-hikaku.org) | ひかく | 1483850 | new / draft |
+| TodayJLPT N2 1797 | [引き金](entries/1601/1601570-hikigane.org) | ひきがね | 1601570 | new / draft |
+| TodayJLPT N2 1800 | [引きつける](entries/1601/1601680-hikitsukeru.org) | ひきつける | 1601680 | new / draft |
 
 ## Maturity workflow
 
