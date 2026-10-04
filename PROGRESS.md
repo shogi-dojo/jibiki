@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **2430**.
+Completed **140/200** additional distinct words; branch total **2440**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3625,6 +3625,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3758,6 +3759,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1404 | [添加物](entries/1440/1440840-tenkabutsu.org) | てんかぶつ | 1440840 | new / draft |
 | JLPTLord N2 1405 | [保存料](entries/1946/1946720-hozonryou.org) | ほぞんりょう | 1946720 | new / draft |
 | JLPTLord N2 1408 | [水産物](entries/1371/1371520-suisanbutsu.org) | すいさんぶつ | 1371520 | new / draft |
+| JLPTLord N2 1409 | [畜産](entries/1422/1422180-chikusan.org) | ちくさん | 1422180 | new / draft |
+| JLPTLord N2 1410 | [酪農](entries/1548/1548890-rakunou.org) | らくのう | 1548890 | new / draft |
+| JLPTLord N2 1411 | [肥料](entries/1484/1484310-hiryou.org) | ひりょう | 1484310 | new / draft |
+| JLPTLord N2 1414 | [耕作](entries/1280/1280970-kousaku.org) | こうさく | 1280970 | new / draft |
+| JLPTLord N2 1415 | [灌漑](entries/1213/1213270-kangai.org) | かんがい | 1213270 | new / draft |
+| JLPTLord N2 1416 | [家畜](entries/1192/1192240-kachiku.org) | かちく | 1192240 | new / draft |
+| JLPTLord N2 1417 | [飼育](entries/1312/1312980-shiiku.org) | しいく | 1312980 | new / draft |
+| JLPTLord N2 1418 | [繁殖](entries/1481/1481700-hanshoku.org) | はんしょく | 1481700 | new / draft |
+| JLPTLord N2 1419 | [交配](entries/1272/1272490-kouhai.org) | こうはい | 1272490 | new / draft |
+| JLPTLord N2 1420 | [品種](entries/1490/1490620-hinshu.org) | ひんしゅ | 1490620 | new / draft |
 
 ## Maturity workflow
 
