@@ -1,7 +1,7 @@
 # Additional N2 candidate evidence
 
 The [JTest N2 study list](https://jtest.net/tu-vung-n2) identifies these
-144 selected vocabulary candidates across two continuations within its 2500-word N2 learning course.
+244 selected vocabulary candidates across three continuations within its 2500-word N2 learning course.
 Retrieved 2026-10-04. These are study-list classifications, not an official
 JLPT syllabus. Each candidate was reconciled by written form and reading
 against pinned JMdict and excluded if its JMdict ID already existed.
@@ -36,3 +36,14 @@ Source snapshot checksums:
 | [3.5](https://jtest.net/tu-vung-n2/chapter-3/section-5) | `9ef5c5604972bc037d1e669339e66a301d4af54e9fc20802c76ba40e02854e85` |
 | [4.1](https://jtest.net/tu-vung-n2/chapter-4/section-1) | `07814bd38546d892be1765cfc71b1382a92978ebb381177c0a51c2f724a6f7a3` |
 | [4.2](https://jtest.net/tu-vung-n2/chapter-4/section-2) | `4f42d2d57bb24182a6d5e4ad34e198fde89493b2761db7f0a4e6508f6cf6e0e0` |
+| [4.3](https://jtest.net/tu-vung-n2/chapter-4/section-3) | `b84230212e6dd9b43cecc4602a2c3e5c8339a950167d56be53925f411992b067` |
+| [4.4](https://jtest.net/tu-vung-n2/chapter-4/section-4) | `45c46c4f864b0423e99cd9c418b84a44fc24166313aa97eed477c7071a5a0fed` |
+| [4.5](https://jtest.net/tu-vung-n2/chapter-4/section-5) | `32e9d83a31613a346861b876ad22d091106f179a352447d26cfd9856238f57ab` |
+| [5.1](https://jtest.net/tu-vung-n2/chapter-5/section-1) | `0ac57832e944d59b30f8ccaee56e67c83b9b117ba0143573b85848a6d6b97f25` |
+| [5.2](https://jtest.net/tu-vung-n2/chapter-5/section-2) | `b5fa1d7f7fcaa40a4e0c8f52f362af50a0a82b425b883d2a857f2d67765c8942` |
+| [5.3](https://jtest.net/tu-vung-n2/chapter-5/section-3) | `31e886612a5ae1b7aa0c39e0d8fd3f98d5fc012d34dbe7fb68a4103beaf886ab` |
+| [5.4](https://jtest.net/tu-vung-n2/chapter-5/section-4) | `b8e3631ad90652ccbb36993bc4bdb13c8c711a6cd391dfb2beef242f8ab3fa6f` |
+| [5.5](https://jtest.net/tu-vung-n2/chapter-5/section-5) | `8d3499994115a5dddfb7fb7dd7e0cce7ecdb99bf8c2a0fa0ff110187f51c0570` |
+| [6.1](https://jtest.net/tu-vung-n2/chapter-6/section-1) | `c7d38c86e5d7633ae72cc2e158fb4b1109101bd89610af7f47dfed1978f426c5` |
+| [6.2](https://jtest.net/tu-vung-n2/chapter-6/section-2) | `5d93a1dabc164f477ca2e61d1ed36ba7fc80db118dbf7d17961945a3d773eb5e` |
+| [6.3](https://jtest.net/tu-vung-n2/chapter-6/section-3) | `5a2564de21596db884da07ae2383af2b0697c8e78ca49ff0504869d765a03fed` |
