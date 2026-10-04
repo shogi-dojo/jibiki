@@ -2815,7 +2815,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
 Baseline: `f1b16094`, with **1700** new translated words on this branch.
-Completed **40/200** additional distinct words; branch total **1740**.
+Completed **50/200** additional distinct words; branch total **1750**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2832,6 +2832,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2875,6 +2876,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 2209 | [容量](entries/1545/1545450-youryou.org) | ようりょう | 1545450 | new / draft |
 | TodayJLPT N2 2211 | [翌朝](entries/1585/1585000-yokuasa.org) | よくあさ | 1585000 | new / draft |
 | TodayJLPT N2 2212 | [翌月](entries/1547/1547490-yokugetsu.org) | よくげつ | 1547490 | new / draft |
+| TodayJLPT N2 2213 | [翌日](entries/1547/1547510-yokujitsu.org) | よくじつ | 1547510 | new / draft |
+| TodayJLPT N2 2214 | [翌週](entries/1547/1547500-yokushuu.org) | よくしゅう | 1547500 | new / draft |
+| TodayJLPT N2 2215 | [浴場](entries/1547/1547470-yokujou.org) | よくじょう | 1547470 | new / draft |
+| TodayJLPT N2 2216 | [翌年](entries/1547/1547520-yokunen.org) | よくねん | 1547520 | new / draft |
+| TodayJLPT N2 2231 | [弱虫](entries/1324/1324840-yowamushi.org) | よわむし | 1324840 | new / draft |
+| TodayJLPT N2 2236 | [卵形](entries/1585/1585080-rankei.org) | らんけい | 1585080 | new / draft |
+| TodayJLPT N2 2237 | [乱雑](entries/1548/1548990-ranzatsu.org) | らんざつ | 1548990 | new / draft |
+| TodayJLPT N2 2241 | [利](entries/1549/1549460-ri.org) | り | 1549460 | new / draft |
+| TodayJLPT N2 2244 | [陸軍](entries/1551/1551020-rikugun.org) | りくぐん | 1551020 | new / draft |
+| TodayJLPT N2 2245 | [陸上](entries/1551/1551050-rikujou.org) | りくじょう | 1551050 | new / draft |
 
 ## Maturity workflow
 
