@@ -2295,7 +2295,7 @@ N2-69 (佚) remains deferred and is not counted.
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
 Baseline: `ae93afdd`, with **1300** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **1440**.
+Completed **150/200** additional distinct words; branch total **1450**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -2322,6 +2322,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -2465,6 +2466,16 @@ N2-69 (佚) remains deferred and is not counted.
 | TodayJLPT N2 770 | [再婚](entries/1292/1292750-saikon.org) | さいこん | 1292750 | new / draft |
 | TodayJLPT N2 773 | [材質](entries/1296/1296650-zaishitsu.org) | ざいしつ | 1296650 | new / draft |
 | TodayJLPT N2 774 | [採取](entries/1294/1294800-saishu.org) | さいしゅ | 1294800 | new / draft |
+| TodayJLPT N2 775 | [在籍](entries/1296/1296530-zaiseki.org) | ざいせき | 1296530 | new / draft |
+| TodayJLPT N2 776 | [再選](entries/1293/1293070-saisen.org) | さいせん | 1293070 | new / draft |
+| TodayJLPT N2 778 | [最短](entries/1294/1294210-saitan.org) | さいたん | 1294210 | new / draft |
+| TodayJLPT N2 779 | [財団](entries/1296/1296940-zaidan.org) | ざいだん | 1296940 | new / draft |
+| TodayJLPT N2 781 | [再度](entries/1293/1293240-saido.org) | さいど | 1293240 | new / draft |
+| TodayJLPT N2 783 | [細部](entries/1295/1295710-saibu.org) | さいぶ | 1295710 | new / draft |
+| TodayJLPT N2 800 | [鎖国](entries/1291/1291740-sakoku.org) | さこく | 1291740 | new / draft |
+| TodayJLPT N2 813 | [錯覚](entries/1298/1298400-sakkaku.org) | さっかく | 1298400 | new / draft |
+| TodayJLPT N2 814 | [殺菌](entries/1299/1299070-sakkin.org) | さっきん | 1299070 | new / draft |
+| TodayJLPT N2 826 | [山間](entries/1302/1302810-sankan.org) | さんかん | 1302810 | new / draft |
 
 ## Maturity workflow
 
