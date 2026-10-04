@@ -3599,7 +3599,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
 Baseline: `6e08ae44`, with **2300** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **2490**.
+Completed **200/200** additional distinct words; branch total **2500**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -3631,6 +3631,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -3824,6 +3825,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 1494 | [土砂崩れ](entries/1445/1445350-doshakuzure.org) | どしゃくずれ | 1445350 | new / draft |
 | JLPTLord N2 1495 | [液状化](entries/1918/1918140-ekijouka.org) | えきじょうか | 1918140 | new / draft |
 | JLPTLord N2 1496 | [防潮堤](entries/1621/1621930-bouchoutei.org) | ぼうちょうてい | 1621930 | new / draft |
+| JLPTLord N2 1497 | [貯水池](entries/1427/1427210-chosuichi.org) | ちょすいち | 1427210 | new / draft |
+| JLPTLord N2 1498 | [浄水場](entries/1356/1356660-jousuijou.org) | じょうすいじょう | 1356660 | new / draft |
+| JLPTLord N2 1499 | [下水道](entries/1185/1185540-gesuidou.org) | げすいどう | 1185540 | new / draft |
+| JLPTLord N2 1500 | [上水道](entries/1353/1353570-jousuidou.org) | じょうすいどう | 1353570 | new / draft |
+| JLPTLord N2 1508 | [陶芸](entries/1450/1450620-tougei.org) | とうげい | 1450620 | new / draft |
+| JLPTLord N2 1513 | [伝説](entries/1442/1442100-densetsu.org) | でんせつ | 1442100 | new / draft |
+| JLPTLord N2 1515 | [民話](entries/1529/1529310-minwa.org) | みんわ | 1529310 | new / draft |
+| JLPTLord N2 1522 | [神道](entries/1364/1364790-shintou.org) | しんとう | 1364790 | new / draft |
+| JLPTLord N2 1523 | [祈り](entries/1222/1222760-inori.org) | いのり | 1222760 | new / draft |
+| JLPTLord N2 1524 | [信者](entries/1359/1359340-shinja.org) | しんじゃ | 1359340 | new / draft |
 
 ## Maturity workflow
 
