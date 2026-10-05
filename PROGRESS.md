@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 7163 |
+| Canonical entry files | 7263 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
 | Canonical N2 entries | 4161 |
 | Canonical N3 entries | 1603 |
-| Canonical N1 entries (Open Anki source assignment) | 30 |
+| Canonical N1 entries (Open Anki source assignment) | 130 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 7126 |
+| `new` | 7226 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 7153 |
+| Entry metadata still marked `draft` | 7253 |
 | Core profile | 163 |
-| Learner profile | 6999 |
+| Learner profile | 7099 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -4798,6 +4798,29 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 242 | [自我](entries/1317/1317460-jiga.org) | じが | 1317460 | new / draft |
 | Open Anki N1 244 | [仕掛](entries/1594/1594100-shikake.org) | しかけ | 1594100 | new / draft |
 | Open Anki N1 245 | [仕掛ける](entries/1304/1304820-shikakeru.org) | しかける | 1304820 | new / draft |
+
+### Final audit
+
+Completed on 2026-10-05: **100 distinct additions in 100 individual word
+commits**, recorded in **10 batches of 10**. The branch contains **100 new
+entry files versus `origin/main`** (overall authored vocabulary additions **3,200**).
+This continuation preserves every JMdict sense, form, reading, restriction and
+source fingerprint, and supplies **172 original Ukrainian glosses and usage notes**,
+plus **300 graded examples** with Japanese, kana readings, Ukrainian and English
+translations.
+
+All 100 entries passed JMdict validation, Org lint and doctor **100/100**,
+with **zero errors and warnings**. The full test suite passed: **137 tests,
+22,343 assertions, zero failures, errors or skips**. Source reconciliation and
+commit-history checks confirm unique IDs, exact manifest matches, one entry
+per addition commit, and Ihor's Git identity. Existing committed entries were
+preserved; the two original untracked files retain their original checksums.
+
+The source selection comprises **100 Open Anki N1 words** (rows 55 to 245).
+These are documented study-list assignments, not an official JLPT syllabus.
+The reconciled Open Anki N1 pool retains 1,401 unused entries. All additions
+remain `new` learner entries with draft metadata, awaiting independent
+linguistic review.
 
 ## Maturity workflow
 
