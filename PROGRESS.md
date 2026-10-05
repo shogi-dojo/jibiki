@@ -4647,6 +4647,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 50 | [公然](entries/1274/1274190-kouzen.org) | こうぜん | 1274190 | new / draft |
 | Open Anki N1 54 | [光沢](entries/1273/1273050-koutaku.org) | こうたく | 1273050 | new / draft |
 
+| Open Anki N1 248 | [式場](entries/1319/1319090-shikijou.org) | しきじょう | 1319090 | new / draft |
+| Open Anki N1 252 | [経歴](entries/1251/1251690-keireki.org) | けいれき | 1251690 | new / draft |
+| Open Anki N1 253 | [経路](entries/1251/1251700-keiro.org) | けいろ | 1251700 | new / draft |
+| Open Anki N1 255 | [劇団](entries/1253/1253450-gekidan.org) | げきだん | 1253450 | new / draft |
+| Open Anki N1 256 | [激励](entries/1253/1253760-gekirei.org) | げきれい | 1253760 | new / draft |
+| Open Anki N1 258 | [獣](entries/1335/1335590-kemono.org) | けだもの | 1335590 | new / draft |
+| Open Anki N1 259 | [決](entries/1956/1956210-ketsu.org) | けつ | 1956210 | new / draft |
+| Open Anki N1 261 | [結核](entries/1254/1254710-kekkaku.org) | けっかく | 1254710 | new / draft |
+| Open Anki N1 262 | [決議](entries/1254/1254240-ketsugi.org) | けつぎ | 1254240 | new / draft |
+| Open Anki N1 263 | [結合](entries/1254/1254770-ketsugou.org) | けつごう | 1254770 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
