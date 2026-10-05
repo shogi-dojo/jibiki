@@ -1,0 +1,254 @@
+#+TITLE: 動的
+#+JMDICT_ID: 1451440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どうてき
+#+ROMAJI: douteki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1451440-001
+:PROPERTIES:
+:TEXT: 動的
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1451440-001
+:PROPERTIES:
+:TEXT: どうてき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1451440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 985890d6bea32fbd9ad9797d0f4371a9f271e9eb45f3ac627c952e0ef713c151
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+** English glosses
+- dynamic
+- kinetic
+** Ukrainian glosses
+*** uk-s-1451440-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: динамічний; рухливий; змінний; кінетичний
+** Learner notes
+*** note-s-1451440-001-001
+:PROPERTIES:
+:END:
+- UK :: Властивість чогось, що перебуває в русі, постійно змінюється або реагує на події в реальному часі, на противагу статичному: 動的なコンテンツ (динамічний уміст сайту), 静的 (статичний).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1451440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このウェブサイトは動的なデザインを採用している。
+- READING :: このうぇぶさいとはどうてきなでざいんをさいようしている。
+- UK :: Цей вебсайт використовує динамічний дизайн.
+- EN :: This website adopts a dynamic design.
+- FOCUS :: 動的
+*** ex-1451440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プログラミングにおいて動的メモリの確保は慎重に行うべきだ。
+- READING :: ぷろぐらみんぐにおいてどうてきめもりのかくほはしんちょうにおこなうべきだ。
+- UK :: У програмуванні виділення динамічної пам'яті слід виконувати з обережністю.
+- EN :: In programming, dynamic memory allocation should be performed carefully.
+- FOCUS :: 動的
+*** ex-1451440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市場の動的な変化に柔軟に対応するため、企業は組織の意思決定プロセスを迅速化した。
+- READING :: しじょうのどうてきなへんかにじゅうなんにたいおうするため、きぎょうはそしきのいしていけっていぷろせすをじんそくかした。
+- UK :: Щоб гнучко реагувати на динамічні зміни на ринку, компанія пришвидшила процес ухвалення організаційних рішень.
+- EN :: In order to respond flexibly to dynamic market changes, the company accelerated its organizational decision-making process.
+- FOCUS :: 動的
+
+* Sense s-1451440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 77f991a1a721496d91698226e50e62b1dbb8219baaa5a2f611ba4a07d06c1bc1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1451440-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dynamisch
+*** en-s-1451440-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kinetisch
+** Ukrainian glosses
+
+* Sense s-1451440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9c4334030642b05881398c9ca90865d1297e85768bf25d00bae5f987accaf892
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1451440-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dynamisch
+*** en-s-1451440-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewegend
+*** en-s-1451440-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kinetisch
+** Ukrainian glosses
+
+* Sense s-1451440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5ffc986cf79cd5da8ede448cc4c121f2e494914a3870a002c17eb548e4159032
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1451440-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dinamikai
+*** en-s-1451440-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dinamikus
+*** en-s-1451440-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tetterős
+*** en-s-1451440-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kinetikai
+*** en-s-1451440-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kinetikus
+*** en-s-1451440-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mozgási
+** Ukrainian glosses
+
+* Sense s-1451440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 56c9c53d88df971b66182e7b620c10f74e725481a2a7bdada357595638e3a0c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1451440-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: динамический; кинетический
+** Ukrainian glosses
+
+* Sense s-1451440-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: db36a7c3bd8c050457b49f484d27b12160efd39aaf1529ed930ecfe566eb3d29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1451440-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dinámico
+*** en-s-1451440-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avivado
+** Ukrainian glosses
