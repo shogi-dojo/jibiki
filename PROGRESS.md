@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **40/100** additional distinct words; branch total **40** (overall corpus additions **3140**).
+Completed **50/100** additional distinct words; branch total **50** (overall corpus additions **3150**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4689,6 +4689,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 2 | 10 |
 | 3 | 10 |
 | 4 | 10 |
+| 5 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4732,6 +4733,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 120 | [碁盤](entries/1270/1270890-goban.org) | ごばん | 1270890 | new / draft |
 | Open Anki N1 121 | [個別](entries/1265/1265000-kobetsu.org) | こべつ | 1265000 | new / draft |
 | Open Anki N1 123 | [細やか](entries/1295/1295550-komayaka.org) | こまやか | 1295550 | new / draft |
+| Open Anki N1 127 | [籠もる](entries/1593/1593430-komoru.org) | こもる | 1593430 | new / draft |
+| Open Anki N1 128 | [固有](entries/1266/1266730-koyuu.org) | こゆう | 1266730 | new / draft |
+| Open Anki N1 129 | [暦](entries/1557/1557950-koyomi.org) | こよみ | 1557950 | new / draft |
+| Open Anki N1 130 | [凝らす](entries/1239/1239010-korasu.org) | こらす | 1239010 | new / draft |
+| Open Anki N1 132 | [孤立](entries/1266/1266860-koritsu.org) | こりつ | 1266860 | new / draft |
+| Open Anki N1 133 | [懲りる](entries/1428/1428190-koriru.org) | こりる | 1428190 | new / draft |
+| Open Anki N1 137 | [混血](entries/1290/1290330-konketsu.org) | こんけつ | 1290330 | new / draft |
+| Open Anki N1 140 | [根底](entries/1290/1290260-kontei.org) | こんてい | 1290260 | new / draft |
+| Open Anki N1 145 | [根本](entries/2848/2848289-konpon.org) | こんぽん | 2848289 | new / draft |
+| Open Anki N1 146 | [財](entries/1296/1296770-zai.org) | ざい | 1296770 | new / draft |
 
 ## Maturity workflow
 
