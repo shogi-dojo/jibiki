@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **130/200** additional distinct words; branch total **3030**.
+Completed **140/200** additional distinct words; branch total **3040**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4435,6 +4435,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 11 | 10 |
 | 12 | 10 |
 | 13 | 10 |
+| 14 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4568,6 +4569,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 3010 | [収縮](entries/1330/1330670-shuushuku.org) | しゅうしゅく | 1330670 | new / draft |
 | JLPTLord N2 3012 | [圧迫](entries/1153/1153310-appaku.org) | あっぱく | 1153310 | new / draft |
 | JLPTLord N2 3013 | [抑圧](entries/1547/1547270-yokuatsu.org) | よくあつ | 1547270 | new / draft |
+| JLPTLord N2 3014 | [弾圧](entries/1419/1419410-danatsu.org) | だんあつ | 1419410 | new / draft |
+| JLPTLord N2 3015 | [迫害](entries/1475/1475730-hakugai.org) | はくがい | 1475730 | new / draft |
+| JLPTLord N2 3016 | [脅迫](entries/1238/1238110-kyouhaku.org) | きょうはく | 1238110 | new / draft |
+| JLPTLord N2 3017 | [恐喝](entries/1236/1236700-kyoukatsu.org) | きょうかつ | 1236700 | new / draft |
+| JLPTLord N2 3018 | [詐欺](entries/1291/1291690-sagi.org) | さぎ | 1291690 | new / draft |
+| JLPTLord N2 3019 | [汚職](entries/1179/1179010-oshoku.org) | おしょく | 1179010 | new / draft |
+| JLPTLord N2 3020 | [賄賂](entries/1562/1562520-wairo.org) | わいろ | 1562520 | new / draft |
+| JLPTLord N2 3021 | [横領](entries/1181/1181130-ouryou.org) | おうりょう | 1181130 | new / draft |
+| JLPTLord N2 3022 | [窃盗](entries/1386/1386110-settou.org) | せっとう | 1386110 | new / draft |
+| JLPTLord N2 3024 | [殺人](entries/1299/1299100-satsujin.org) | さつじん | 1299100 | new / draft |
 
 ## Maturity workflow
 
