@@ -4779,6 +4779,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 451 | [似通う](entries/1314/1314700-nikayou.org) | にかよう | 1314700 | new / draft |
 | Open Anki N1 453 | [賑わう](entries/1463/1463500-nigiwau.org) | にぎわう | 1463500 | new / draft |
 
+| Open Anki N1 455 | [肉親](entries/1463/1463640-nikushin.org) | にくしん | 1463640 | new / draft |
+| Open Anki N1 456 | [肉体](entries/1463/1463650-nikutai.org) | にくたい | 1463650 | new / draft |
+| Open Anki N1 457 | [逃げ出す](entries/1450/1450390-nigedasu.org) | にげだす | 1450390 | new / draft |
+| Open Anki N1 458 | [西日](entries/1381/1381010-nishibi.org) | にしび | 1381010 | new / draft |
+| Open Anki N1 460 | [にせ物](entries/1577/1577800-nisemono.org) | にせもの | 1577800 | new / draft |
+| Open Anki N1 461 | [日夜](entries/1464/1464870-nichiya.org) | にちや | 1464870 | new / draft |
+| Open Anki N1 462 | [荷造り](entries/1195/1195270-nizukuri.org) | にづくり | 1195270 | new / draft |
+| Open Anki N1 464 | [鈍る](entries/1582/1582440-niburu.org) | にぶる | 1582440 | new / draft |
+| Open Anki N1 465 | [にも関わらず](entries/1612/1612900-nimokakawarazu.org) | にもかかわらず | 1612900 | new / draft |
+| Open Anki N1 468 | [入手](entries/1466/1466290-nyuushu.org) | にゅうしゅ | 1466290 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
