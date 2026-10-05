@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **80/200** additional distinct words; branch total **2980**.
+Completed **90/200** additional distinct words; branch total **2990**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4430,6 +4430,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4513,6 +4514,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2882 | [増築](entries/1403/1403320-zouchiku.org) | ぞうちく | 1403320 | new / draft |
 | JLPTLord N2 2887 | [配管](entries/1625/1625610-haikan.org) | はいかん | 1625610 | new / draft |
 | JLPTLord N2 2891 | [梁](entries/1648/1648740-hari.org) | はり | 1648740 | new / draft |
+| JLPTLord N2 2895 | [天井](entries/1438/1438340-tenjou.org) | てんじょう | 1438340 | new / draft |
+| JLPTLord N2 2899 | [縁側](entries/1177/1177630-engawa.org) | えんがわ | 1177630 | new / draft |
+| JLPTLord N2 2901 | [納戸](entries/1642/1642650-nando.org) | なんど | 1642650 | new / draft |
+| JLPTLord N2 2916 | [都市化](entries/1700/1700830-toshika.org) | としか | 1700830 | new / draft |
+| JLPTLord N2 2918 | [商店街](entries/1347/1347190-shoutengai.org) | しょうてんがい | 1347190 | new / draft |
+| JLPTLord N2 2919 | [繁華街](entries/1481/1481690-hankagai.org) | はんかがい | 1481690 | new / draft |
+| JLPTLord N2 2923 | [物流](entries/1629/1629510-butsuryuu.org) | ぶつりゅう | 1629510 | new / draft |
+| JLPTLord N2 2924 | [在庫](entries/1296/1296470-zaiko.org) | ざいこ | 1296470 | new / draft |
+| JLPTLord N2 2931 | [領収書](entries/1554/1554760-ryoushuusho.org) | りょうしゅうしょ | 1554760 | new / draft |
+| JLPTLord N2 2932 | [振込](entries/1602/1602960-furikomi.org) | ふりこみ | 1602960 | new / draft |
 
 ## Maturity workflow
 
