@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **150/200** additional distinct words; branch total **3050**.
+Completed **160/200** additional distinct words; branch total **3060**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4437,6 +4437,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 13 | 10 |
 | 14 | 10 |
 | 15 | 10 |
+| 16 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4590,6 +4591,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 3045 | [控訴](entries/1279/1279090-kouso.org) | こうそ | 1279090 | new / draft |
 | JLPTLord N2 3046 | [上告](entries/1353/1353200-joukoku.org) | じょうこく | 1353200 | new / draft |
 | JLPTLord N2 3048 | [調停](entries/1429/1429260-choutei.org) | ちょうてい | 1429260 | new / draft |
+| JLPTLord N2 3049 | [仲裁](entries/1425/1425900-chuusai.org) | ちゅうさい | 1425900 | new / draft |
+| JLPTLord N2 3050 | [示談](entries/1317/1317140-jidan.org) | じだん | 1317140 | new / draft |
+| JLPTLord N2 3056 | [天災](entries/1439/1439110-tensai.org) | てんさい | 1439110 | new / draft |
+| JLPTLord N2 3057 | [人災](entries/1367/1367750-jinsai.org) | じんさい | 1367750 | new / draft |
+| JLPTLord N2 3061 | [救済](entries/1229/1229150-kyuusai.org) | きゅうさい | 1229150 | new / draft |
+| JLPTLord N2 3064 | [再建](entries/1292/1292590-saiken.org) | さいけん | 1292590 | new / draft |
+| JLPTLord N2 3065 | [修復](entries/1332/1332320-shuufuku.org) | しゅうふく | 1332320 | new / draft |
+| JLPTLord N2 3066 | [補修](entries/1514/1514560-hoshuu.org) | ほしゅう | 1514560 | new / draft |
+| JLPTLord N2 3067 | [改修](entries/1200/1200880-kaishuu.org) | かいしゅう | 1200880 | new / draft |
+| JLPTLord N2 3073 | [施工](entries/1618/1618920-shikou.org) | しこう | 1618920 | new / draft |
 
 ## Maturity workflow
 
