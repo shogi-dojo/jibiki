@@ -4669,6 +4669,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 276 | [煙たい](entries/1177/1177200-kemutai.org) | けむたい | 1177200 | new / draft |
 | Open Anki N1 277 | [煙る](entries/1177/1177220-kemuru.org) | けむる | 1177220 | new / draft |
 
+| Open Anki N1 279 | [家来](entries/1192/1192530-kerai.org) | けらい | 1192530 | new / draft |
+| Open Anki N1 280 | [下痢](entries/1186/1186540-geri.org) | げり | 1186540 | new / draft |
+| Open Anki N1 281 | [権威](entries/1258/1258090-keni.org) | けんい | 1258090 | new / draft |
+| Open Anki N1 282 | [兼業](entries/1578/1578300-kengyou.org) | けんぎょう | 1578300 | new / draft |
+| Open Anki N1 283 | [原形](entries/1261/1261310-genkei.org) | げんけい | 1261310 | new / draft |
+| Open Anki N1 284 | [原型](entries/1261/1261300-genkei.org) | げんけい | 1261300 | new / draft |
+| Open Anki N1 285 | [権限](entries/1258/1258130-kengen.org) | けんげん | 1258130 | new / draft |
+| Open Anki N1 287 | [健在](entries/1256/1256300-kenzai.org) | けんざい | 1256300 | new / draft |
+| Open Anki N1 288 | [原作](entries/1261/1261450-gensaku.org) | げんさく | 1261450 | new / draft |
+| Open Anki N1 291 | [元首](entries/1260/1260870-genshu.org) | げんしゅ | 1260870 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
