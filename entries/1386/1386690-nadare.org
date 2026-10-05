@@ -1,0 +1,340 @@
+#+TITLE: 雪崩
+#+JMDICT_ID: 1386690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なだれ
+#+ROMAJI: nadare
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1386690-001
+:PROPERTIES:
+:TEXT: 雪崩
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Written form wf-1386690-002
+:PROPERTIES:
+:TEXT: 雪崩れ
+:END:
+*** Information
+- sK
+** Reading rd-1386690-001
+:PROPERTIES:
+:TEXT: なだれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1386690-002
+:PROPERTIES:
+:TEXT: ナダレ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1386690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c28a6e06626d44e3b1ced13eab090a7abcaf9974148dcf9b9e20ff045feb8c05
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- avalanche
+- snowslide
+** Ukrainian glosses
+*** uk-s-1386690-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лавина; сніговий обвал; снігохід; снігова лавина
+** Learner notes
+*** note-s-1386690-001-001
+:PROPERTIES:
+:END:
+- UK :: Стрімке сповзання або падіння великої маси снігу з гірського схилу: 雪崩に巻き込まれる (потрапити під лавину), 雪崩注意報 (попередження про лавинну небезпеку).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1386690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬の山で巨大な雪崩が起きた。
+- READING :: ふゆのやまできょだいななだれがおきた。
+- UK :: У зимових горах зійшла велетенська лавина.
+- EN :: A huge avalanche occurred on the winter mountain.
+- FOCUS :: 雪崩
+*** ex-1386690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大雪の後は雪崩の危険性が非常に高まるので入山を控えるべきだ。
+- READING :: おおゆきのあとはなだれのきけんせいがひじょうにたかまるのでにゅうざんをひかえるべきだ。
+- UK :: Після рясного снігопаду небезпека лавин різко зростає, тому слід утриматися від походів у гори.
+- EN :: After heavy snow, the danger of an avalanche increases greatly, so entering the mountain should be avoided.
+- FOCUS :: 雪崩
+*** ex-1386690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急斜面に積もった新雪が気温の上昇によって崩れ落ち、轟音とともに発生した雪崩が山小屋を一瞬にして押し流した。
+- READING :: きゅうしゃめんにつもったしんせつがきおんのじょうしょうによってくずれおち、ごうおんとともにはっせいしたなだれがやまごやをいっしゅんにしておしながした。
+- UK :: Свіжий сніг на крутому схилі зірвався через підвищення температури, і лавина з оглушливим гуркотом миттєво знесла гірський притулок.
+- EN :: Fresh snow accumulated on the steep slope collapsed due to rising temperatures, and the avalanche occurring with a roar swept away the mountain hut in an instant.
+- FOCUS :: 雪崩
+
+* Sense s-1386690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4f95107ff582c48e337ef4a259b4bfac482fd62d2f325425fc3696ed5ed5c2fe
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+*** Miscellaneous and register
+- uk
+*** Sense information
+- usu. ナダレ
+*** Cross-references
+- 定石・2
+** English glosses
+- avalanche
+- avalanche jōseki
+** Ukrainian glosses
+*** uk-s-1386690-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: надаре-дзьосекі; лавинне дзьосекі в грі ґо
+** Learner notes
+*** note-s-1386690-002-001
+:PROPERTIES:
+:END:
+- UK :: Складний різновид стандартного розіграшу в кутку дошки (дзьосекі) у грі ґо, що характеризується стрімким і масштабним розвитком боротьби: 雪崩定石 (лавинне дзьосекі).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1386690-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 囲碁の対局で難解な雪崩定石を選択し、盤上で複雑な変化の読み合いが繰り広げられた。
+- READING :: いごのたいきょくでなんかいななだれじょうせきをせんたくし、ばんじょうでふくざつなへんかのよみあいがくりひろげられた。
+- UK :: У партії в ґо було обрано складне лавинне дзьосекі, і на дошці розгорнулося глибоке протистояння в розрахунку складних варіантів.
+- EN :: In the game of go, the complex avalanche joseki was chosen, and a battle of reading complicated variations unfolded on the board.
+- FOCUS :: 雪崩
+
+* Sense s-1386690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ac798cb66010399174ce79a9b11127696b87769aa837e267d25b61ed4316dfac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avalanche
+** Ukrainian glosses
+
+* Sense s-1386690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2be867591a1c3f6a06322427e72d4c53beede46147feb4caba713855e93fdd5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneelawine
+*** en-s-1386690-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lawine
+*** en-s-1386690-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneesturz
+** Ukrainian glosses
+
+* Sense s-1386690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 92d4c3ef2293c42ee5b8d0a822ac4aef5fab6587e90b5e271c612ceff716a721
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdrutsch
+*** en-s-1386690-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergrutsch
+*** en-s-1386690-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergsturz
+** Ukrainian glosses
+
+* Sense s-1386690-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 00e7d0959a60724b7e27b5e097513ac36dc5333e57c099fd57a938fd6d617e55
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schräge
+** Ukrainian glosses
+
+* Sense s-1386690-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c27ed8eb54604c4d13b9f07226b3b440ac507c1404ca6a39306f091eb5910fbc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lavina
+** Ukrainian glosses
+
+* Sense s-1386690-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c041d28e12755529233ac4a56c6e6a374656ffed1ccd03951772203767195c2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaz
+*** en-s-1386690-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lavina
+** Ukrainian glosses
+
+* Sense s-1386690-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b31a93b08e6943455aeacbbdcd73bb2f63b5e093b57ff8fd94110ecf8f06ff27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avalancha
+** Ukrainian glosses
+
+* Sense s-1386690-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f02fddc7d2fd87aa2dc2d5a77cd6d8becef116b9ca96e465918adc02c0f192bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386690-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lavin
+** Ukrainian glosses
