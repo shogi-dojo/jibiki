@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **160/200** additional distinct words; branch total **3060**.
+Completed **170/200** additional distinct words; branch total **3070**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4438,6 +4438,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 14 | 10 |
 | 15 | 10 |
 | 16 | 10 |
+| 17 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4601,6 +4602,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 3066 | [補修](entries/1514/1514560-hoshuu.org) | ほしゅう | 1514560 | new / draft |
 | JLPTLord N2 3067 | [改修](entries/1200/1200880-kaishuu.org) | かいしゅう | 1200880 | new / draft |
 | JLPTLord N2 3073 | [施工](entries/1618/1618920-shikou.org) | しこう | 1618920 | new / draft |
+| JLPTLord N2 3087 | [宅地](entries/1415/1415770-takuchi.org) | たくち | 1415770 | new / draft |
+| JLPTLord N2 3088 | [用地](entries/1546/1546370-youchi.org) | ようち | 1546370 | new / draft |
+| JLPTLord N2 3089 | [跡地](entries/1919/1919640-atochi.org) | あとち | 1919640 | new / draft |
+| JLPTLord N2 3090 | [更地](entries/1279/1279420-sarachi.org) | さらち | 1279420 | new / draft |
+| JLPTLord N2 3091 | [空き地](entries/1245/1245340-akichi.org) | あきち | 1245340 | new / draft |
+| JLPTLord N2 3095 | [台地](entries/1412/1412710-daichi.org) | だいち | 1412710 | new / draft |
+| JLPTLord N2 3096 | [平地](entries/1583/1583890-heichi.org) | へいち | 1583890 | new / draft |
+| JLPTLord N2 3097 | [高地](entries/1283/1283790-kouchi.org) | こうち | 1283790 | new / draft |
+| JLPTLord N2 3098 | [低地](entries/1434/1434580-teichi.org) | ていち | 1434580 | new / draft |
+| JLPTLord N2 3099 | [山地](entries/1303/1303030-sanchi.org) | さんち | 1303030 | new / draft |
 
 ## Maturity workflow
 
