@@ -4658,6 +4658,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 262 | [決議](entries/1254/1254240-ketsugi.org) | けつぎ | 1254240 | new / draft |
 | Open Anki N1 263 | [結合](entries/1254/1254770-ketsugou.org) | けつごう | 1254770 | new / draft |
 
+| Open Anki N1 265 | [月謝](entries/1255/1255690-gessha.org) | げっしゃ | 1255690 | new / draft |
+| Open Anki N1 266 | [決勝](entries/1254/1254320-kesshou.org) | けっしょう | 1254320 | new / draft |
+| Open Anki N1 268 | [結成](entries/1254/1254900-kessei.org) | けっせい | 1254900 | new / draft |
+| Open Anki N1 269 | [結束](entries/1254/1254930-kessoku.org) | けっそく | 1254930 | new / draft |
+| Open Anki N1 271 | [決断](entries/1254/1254370-ketsudan.org) | けつだん | 1254370 | new / draft |
+| Open Anki N1 272 | [月賦](entries/1255/1255800-geppu.org) | げっぷ | 1255800 | new / draft |
+| Open Anki N1 273 | [欠乏](entries/1254/1254100-ketsubou.org) | けつぼう | 1254100 | new / draft |
+| Open Anki N1 274 | [蹴飛ばす](entries/1333/1333440-ketobasu.org) | けとばす | 1333440 | new / draft |
+| Open Anki N1 276 | [煙たい](entries/1177/1177200-kemutai.org) | けむたい | 1177200 | new / draft |
+| Open Anki N1 277 | [煙る](entries/1177/1177220-kemuru.org) | けむる | 1177220 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
