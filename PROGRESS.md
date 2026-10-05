@@ -4724,6 +4724,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 355 | [土俵](entries/1445/1445550-dohyou.org) | どひょう | 1445550 | new / draft |
 | Open Anki N1 356 | [扉](entries/1483/1483380-tobira.org) | とびら | 1483380 | new / draft |
 
+| Open Anki N1 357 | [溝](entries/2853/2853262-dobu.org) | どぶ | 2853262 | new / draft |
+| Open Anki N1 358 | [徒歩](entries/1444/1444510-toho.org) | とほ | 1444510 | new / draft |
+| Open Anki N1 359 | [土木](entries/1445/1445570-doboku.org) | どぼく | 1445570 | new / draft |
+| Open Anki N1 362 | [富](entries/1496/1496730-tomi.org) | とみ | 1496730 | new / draft |
+| Open Anki N1 363 | [富む](entries/1496/1496740-tomu.org) | とむ | 1496740 | new / draft |
+| Open Anki N1 364 | [共稼ぎ](entries/1234/1234340-tomokasegi.org) | ともかせぎ | 1234340 | new / draft |
+| Open Anki N1 366 | [共働き](entries/1234/1234760-tomobataraki.org) | ともばたらき | 1234760 | new / draft |
+| Open Anki N1 374 | [取扱](entries/1598/1598990-toriatsukai.org) | とりあつかい | 1598990 | new / draft |
+| Open Anki N1 377 | [取り替え](entries/1599/1599020-torikae.org) | とりかえ | 1599020 | new / draft |
+| Open Anki N1 381 | [取り調べる](entries/1326/1326840-torishiraberu.org) | とりしらべる | 1326840 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
