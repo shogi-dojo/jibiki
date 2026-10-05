@@ -4713,6 +4713,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 337 | [年頃](entries/1468/1468660-toshigoro.org) | としごろ | 1468660 | new / draft |
 | Open Anki N1 338 | [戸締り](entries/1267/1267060-tojimari.org) | とじまり | 1267060 | new / draft |
 
+| Open Anki N1 339 | [途上](entries/1444/1444870-tojou.org) | とじょう | 1444870 | new / draft |
+| Open Anki N1 341 | [途絶える](entries/1444/1444900-todaeru.org) | とだえる | 1444900 | new / draft |
+| Open Anki N1 343 | [特権](entries/1454/1454870-tokken.org) | とっけん | 1454870 | new / draft |
+| Open Anki N1 345 | [突如](entries/1457/1457090-totsujo.org) | とつじょ | 1457090 | new / draft |
+| Open Anki N1 347 | [突破](entries/1457/1457100-toppa.org) | とっぱ | 1457100 | new / draft |
+| Open Anki N1 348 | [土手](entries/1445/1445370-dote.org) | どて | 1445370 | new / draft |
+| Open Anki N1 349 | [届](entries/1598/1598810-todoke.org) | とどけ | 1598810 | new / draft |
+| Open Anki N1 354 | [殿様](entries/1442/1442650-tonosama.org) | とのさま | 1442650 | new / draft |
+| Open Anki N1 355 | [土俵](entries/1445/1445550-dohyou.org) | どひょう | 1445550 | new / draft |
+| Open Anki N1 356 | [扉](entries/1483/1483380-tobira.org) | とびら | 1483380 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
