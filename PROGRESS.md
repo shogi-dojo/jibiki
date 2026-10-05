@@ -5051,6 +5051,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 619 | [生まれつき](entries/1378/1378770-umaretsuki.org) | うまれつき | 1378770 | new / draft |
 | Open Anki N1 620 | [埋め込む](entries/1524/1524520-umekomu.org) | うめこむ | 1524520 | new / draft |
 
+| Open Anki N1 621 | [梅干し](entries/1473/1473500-umeboshi.org) | うめぼし | 1473500 | new / draft |
+| Open Anki N1 622 | [裏返し](entries/1550/1550620-uragaeshi.org) | うらがえし | 1550620 | new / draft |
+| Open Anki N1 623 | [売り出し](entries/1588/1588530-uridashi.org) | うりだし | 1588530 | new / draft |
+| Open Anki N1 626 | [浮気](entries/1497/1497450-uwaki.org) | うわき | 1497450 | new / draft |
+| Open Anki N1 628 | [植わる](entries/1357/1357260-uwaru.org) | うわる | 1357260 | new / draft |
+| Open Anki N1 631 | [運送](entries/1588/1588620-unsou.org) | うんそう | 1588620 | new / draft |
+| Open Anki N1 633 | [云々](entries/1588/1588630-unnun.org) | うんぬん | 1588630 | new / draft |
+| Open Anki N1 634 | [運搬](entries/1173/1173010-unpan.org) | うんぱん | 1173010 | new / draft |
+| Open Anki N1 636 | [運輸](entries/1173/1173050-unyu.org) | うんゆ | 1173050 | new / draft |
+| Open Anki N1 637 | [運用](entries/1173/1173090-unyou.org) | うんよう | 1173090 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
