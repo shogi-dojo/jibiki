@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **30/100** additional distinct words; branch total **30** (overall corpus additions **3130**).
+Completed **40/100** additional distinct words; branch total **40** (overall corpus additions **3140**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4688,6 +4688,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 1 | 10 |
 | 2 | 10 |
 | 3 | 10 |
+| 4 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4721,6 +4722,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 104 | [古代](entries/1265/1265760-kodai.org) | こだい | 1265760 | new / draft |
 | Open Anki N1 107 | [誇張](entries/1267/1267820-kochou.org) | こちょう | 1267820 | new / draft |
 | Open Anki N1 109 | [滑稽](entries/1208/1208660-kokkei.org) | こっけい | 1208660 | new / draft |
+| Open Anki N1 110 | [国交](entries/1286/1286380-kokkou.org) | こっこう | 1286380 | new / draft |
+| Open Anki N1 111 | [骨董品](entries/1288/1288710-kottouhin.org) | こっとうひん | 1288710 | new / draft |
+| Open Anki N1 112 | [固定](entries/1266/1266650-kotei.org) | こてい | 1266650 | new / draft |
+| Open Anki N1 113 | [事柄](entries/1314/1314240-kotogara.org) | ことがら | 1314240 | new / draft |
+| Open Anki N1 116 | [言付け](entries/1593/1593320-kotozuke.org) | ことづけ | 1593320 | new / draft |
+| Open Anki N1 117 | [殊に](entries/1328/1328650-kotoni.org) | ことに | 1328650 | new / draft |
+| Open Anki N1 118 | [粉々](entries/1593/1593360-konagona.org) | こなごな | 1593360 | new / draft |
+| Open Anki N1 120 | [碁盤](entries/1270/1270890-goban.org) | ごばん | 1270890 | new / draft |
+| Open Anki N1 121 | [個別](entries/1265/1265000-kobetsu.org) | こべつ | 1265000 | new / draft |
+| Open Anki N1 123 | [細やか](entries/1295/1295550-komayaka.org) | こまやか | 1295550 | new / draft |
 
 ## Maturity workflow
 
