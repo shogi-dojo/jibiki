@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **170/200** additional distinct words; branch total **3070**.
+Completed **180/200** additional distinct words; branch total **3080**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4439,6 +4439,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 15 | 10 |
 | 16 | 10 |
 | 17 | 10 |
+| 18 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4612,6 +4613,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 3097 | [高地](entries/1283/1283790-kouchi.org) | こうち | 1283790 | new / draft |
 | JLPTLord N2 3098 | [低地](entries/1434/1434580-teichi.org) | ていち | 1434580 | new / draft |
 | JLPTLord N2 3099 | [山地](entries/1303/1303030-sanchi.org) | さんち | 1303030 | new / draft |
+| Open Anki N1 1 | [現像](entries/1263/1263800-genzou.org) | げんぞう | 1263800 | new / draft |
+| Open Anki N1 3 | [見地](entries/1259/1259870-kenchi.org) | けんち | 1259870 | new / draft |
+| Open Anki N1 5 | [限定](entries/1264/1264670-gentei.org) | げんてい | 1264670 | new / draft |
+| Open Anki N1 6 | [原点](entries/1262/1262160-genten.org) | げんてん | 1262160 | new / draft |
+| Open Anki N1 7 | [原典](entries/1262/1262150-genten.org) | げんてん | 1262150 | new / draft |
+| Open Anki N1 8 | [原爆](entries/1262/1262220-genbaku.org) | げんばく | 1262220 | new / draft |
+| Open Anki N1 9 | [原文](entries/1262/1262340-genbun.org) | げんぶん | 1262340 | new / draft |
+| Open Anki N1 11 | [賢明](entries/1260/1260320-kenmei.org) | けんめい | 1260320 | new / draft |
+| Open Anki N1 13 | [原油](entries/1262/1262430-genyu.org) | げんゆ | 1262430 | new / draft |
+| Open Anki N1 14 | [兼用](entries/1256/1256720-kenyou.org) | けんよう | 1256720 | new / draft |
 
 ## Maturity workflow
 
