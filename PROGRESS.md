@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **100/200** additional distinct words; branch total **3000**.
+Completed **110/200** additional distinct words; branch total **3010**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4432,6 +4432,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4535,6 +4536,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2951 | [歳入](entries/1294/1294970-sainyuu.org) | さいにゅう | 1294970 | new / draft |
 | JLPTLord N2 2952 | [歳出](entries/1294/1294960-saishutsu.org) | さいしゅつ | 1294960 | new / draft |
 | JLPTLord N2 2957 | [簿記](entries/1515/1515230-boki.org) | ぼき | 1515230 | new / draft |
+| JLPTLord N2 2960 | [担保](entries/1418/1418210-tanpo.org) | たんぽ | 1418210 | new / draft |
+| JLPTLord N2 2961 | [抵当](entries/1436/1436290-teitou.org) | ていとう | 1436290 | new / draft |
+| JLPTLord N2 2962 | [利息](entries/1549/1549600-risoku.org) | りそく | 1549600 | new / draft |
+| JLPTLord N2 2963 | [元本](entries/1261/1261070-ganpon.org) | がんぽん | 1261070 | new / draft |
+| JLPTLord N2 2965 | [控除](entries/1279/1279080-koujo.org) | こうじょ | 1279080 | new / draft |
+| JLPTLord N2 2968 | [脱税](entries/1416/1416550-datsuzei.org) | だつぜい | 1416550 | new / draft |
+| JLPTLord N2 2969 | [確定申告](entries/1819/1819560-kakuteishinkoku.org) | かくていしんこく | 1819560 | new / draft |
+| JLPTLord N2 2970 | [所得](entries/1343/1343360-shotoku.org) | しょとく | 1343360 | new / draft |
+| JLPTLord N2 2971 | [収益](entries/1330/1330500-shuueki.org) | しゅうえき | 1330500 | new / draft |
+| JLPTLord N2 2976 | [慰謝料](entries/1156/1156930-isharyou.org) | いしゃりょう | 1156930 | new / draft |
 
 ## Maturity workflow
 
