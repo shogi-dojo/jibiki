@@ -4823,6 +4823,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 518 | [飲み込む](entries/1600/1600400-nomikomu.org) | のみこむ | 1600400 | new / draft |
 | Open Anki N1 520 | [刃](entries/1369/1369820-ha.org) | は | 1369820 | new / draft |
 
+| Open Anki N1 526 | [配給](entries/1473/1473030-haikyuu.org) | はいきゅう | 1473030 | new / draft |
+| Open Anki N1 527 | [ばい菌](entries/1575/1575400-baikin.org) | ばいきん | 1575400 | new / draft |
+| Open Anki N1 528 | [配偶者](entries/1473/1473060-haiguusha.org) | はいぐうしゃ | 1473060 | new / draft |
+| Open Anki N1 529 | [拝啓](entries/1472/1472260-haikei.org) | はいけい | 1472260 | new / draft |
+| Open Anki N1 531 | [背後](entries/1472/1472730-haigo.org) | はいご | 1472730 | new / draft |
+| Open Anki N1 533 | [拝借](entries/1472/1472280-haishaku.org) | はいしゃく | 1472280 | new / draft |
+| Open Anki N1 537 | [敗戦](entries/1472/1472560-haisen.org) | はいせん | 1472560 | new / draft |
+| Open Anki N1 538 | [配置](entries/1473/1473150-haichi.org) | はいち | 1473150 | new / draft |
+| Open Anki N1 540 | [配分](entries/1473/1473200-haibun.org) | はいぶん | 1473200 | new / draft |
+| Open Anki N1 541 | [敗北](entries/1472/1472610-haiboku.org) | はいぼく | 1472610 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
