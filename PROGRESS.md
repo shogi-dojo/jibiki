@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **20/100** additional distinct words; branch total **20** (overall corpus additions **3120**).
+Completed **30/100** additional distinct words; branch total **30** (overall corpus additions **3130**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4687,6 +4687,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | --- | ---: |
 | 1 | 10 |
 | 2 | 10 |
+| 3 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4710,6 +4711,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 80 | [国有](entries/1287/1287170-kokuyuu.org) | こくゆう | 1287170 | new / draft |
 | Open Anki N1 83 | [焦げ茶](entries/1350/1350750-kogecha.org) | こげちゃ | 1350750 | new / draft |
 | Open Anki N1 84 | [語源](entries/1271/1271090-gogen.org) | ごげん | 1271090 | new / draft |
+| Open Anki N1 85 | [心地](entries/1360/1360820-kokochi.org) | ここち | 1360820 | new / draft |
+| Open Anki N1 86 | [心得](entries/1360/1360910-kokoroe.org) | こころえ | 1360910 | new / draft |
+| Open Anki N1 87 | [心掛け](entries/1360/1360500-kokorogake.org) | こころがけ | 1360500 | new / draft |
+| Open Anki N1 88 | [心掛ける](entries/1360/1360610-kokorogakeru.org) | こころがける | 1360610 | new / draft |
+| Open Anki N1 93 | [試み](entries/1312/1312270-kokoromi.org) | こころみ | 1312270 | new / draft |
+| Open Anki N1 101 | [梢](entries/1349/1349980-kozue.org) | こずえ | 1349980 | new / draft |
+| Open Anki N1 103 | [戸籍](entries/1267/1267030-koseki.org) | こせき | 1267030 | new / draft |
+| Open Anki N1 104 | [古代](entries/1265/1265760-kodai.org) | こだい | 1265760 | new / draft |
+| Open Anki N1 107 | [誇張](entries/1267/1267820-kochou.org) | こちょう | 1267820 | new / draft |
+| Open Anki N1 109 | [滑稽](entries/1208/1208660-kokkei.org) | こっけい | 1208660 | new / draft |
 
 ## Maturity workflow
 
