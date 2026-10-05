@@ -4812,6 +4812,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 499 | [念願](entries/1469/1469390-nengan.org) | ねんがん | 1469390 | new / draft |
 | Open Anki N1 500 | [年号](entries/1468/1468650-nengou.org) | ねんごう | 1468650 | new / draft |
 
+| Open Anki N1 501 | [燃焼](entries/1469/1469640-nenshou.org) | ねんしょう | 1469640 | new / draft |
+| Open Anki N1 502 | [年長](entries/1469/1469030-nenchou.org) | ねんちょう | 1469030 | new / draft |
+| Open Anki N1 504 | [年輪](entries/1469/1469260-nenrin.org) | ねんりん | 1469260 | new / draft |
+| Open Anki N1 506 | [農耕](entries/1470/1470680-noukou.org) | のうこう | 1470680 | new / draft |
+| Open Anki N1 507 | [農場](entries/1470/1470720-noujou.org) | のうじょう | 1470720 | new / draft |
+| Open Anki N1 508 | [農地](entries/1470/1470740-nouchi.org) | のうち | 1470740 | new / draft |
+| Open Anki N1 512 | [軒並](entries/1260/1260380-nokinami.org) | のきなみ | 1260380 | new / draft |
+| Open Anki N1 517 | [延べ](entries/1176/1176380-nobe.org) | のべ | 1176380 | new / draft |
+| Open Anki N1 518 | [飲み込む](entries/1600/1600400-nomikomu.org) | のみこむ | 1600400 | new / draft |
+| Open Anki N1 520 | [刃](entries/1369/1369820-ha.org) | は | 1369820 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
