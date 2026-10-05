@@ -113,7 +113,117 @@ class ScaffoldEntryCliTest < Minitest::Test
     end
   end
 
+  def test_rejects_negative_index
+    assert_queue_failure([{ 'jmdict_id' => '1381380', 'romaji' => 'ao' }],
+                         ['--entry-index', '-1'], /out of bounds/)
+  end
+
+  def test_rejects_conflicting_selectors
+    assert_queue_failure([{ 'jmdict_id' => '1381380', 'romaji' => 'ao' }],
+                         ['--entry-index', '0', '--jmdict-id', '1381380'], /only one/)
+  end
+
+  def test_rejects_non_object_records
+    [nil, 'word', [42]].each do |data|
+      assert_queue_failure(data, [], /JSON objects/)
+    end
+  end
+
+  def test_rejects_duplicate_source_orders
+    record = { 'order' => 1, 'jmdict_id' => '1381380', 'romaji' => 'ao' }
+    assert_queue_failure([record, record], ['--source-order', '1'], /resolved to 2 records/)
+  end
+
+  def test_source_row_does_not_override_explicit_order
+    assert_queue_failure([{ 'order' => 205, 'source_row' => 42, 'jmdict_id' => '1381380', 'romaji' => 'ao' }],
+                         ['--source-order', '42'], /resolved to 0 records/)
+  end
+
+  def test_rejects_non_numeric_source_order
+    assert_queue_failure([{ 'order' => '1wrong', 'jmdict_id' => '1381380', 'romaji' => 'ao' }],
+                         ['--source-order', '1'], /resolved to 0 records/)
+  end
+
+  def test_rejects_missing_identity
+    assert_queue_failure({ 'romaji' => 'ao' }, [], /must provide/)
+  end
+
+  def test_rejects_mismatched_identity
+    assert_queue_failure({ 'jmdict_id' => '1381380', 'written' => '赤', 'reading' => 'あか', 'romaji' => 'ao' },
+                         [], /No JMdict match/)
+  end
+
+  def test_rejects_invalid_field_types_and_filename
+    assert_queue_failure({ 'jmdict_id' => '1381380', 'reading' => 42, 'romaji' => 'ao' }, [], /field reading/)
+    assert_queue_failure({ 'jmdict_id' => '1381380', 'romaji' => '../../escape' }, [], /Filename romaji/)
+  end
+
+  def test_rejects_ambiguous_jmdict_matches
+    Dir.mktmpdir do |directory|
+      paths = build_sources(directory, ent_seqs: %w[1381380 1381381])
+      queue_file = File.join(directory, 'queue.json')
+      File.write(queue_file, JSON.generate({ 'written' => '青', 'reading' => 'あお', 'romaji' => 'ao' }))
+      output = File.join(directory, 'out.org')
+      _stdout, stderr, status = run_cli(paths, '--queue-file', queue_file, '--output', output)
+      refute status.success?
+      assert_match(/2 JMdict entries/, stderr)
+      refute File.exist?(output)
+    end
+  end
+
+  def test_rejects_entry_index_without_queue
+    Dir.mktmpdir do |directory|
+      paths = build_sources(directory, ent_seqs: %w[1381380])
+      _stdout, stderr, status = run_cli(paths, '--entry-index', '0', '--romaji', 'ao')
+      refute status.success?
+      assert_match(/requires --queue-file/, stderr)
+    end
+  end
+
+  def test_rejects_malformed_json
+    Dir.mktmpdir do |directory|
+      paths = build_sources(directory, ent_seqs: %w[1381380])
+      queue_file = File.join(directory, 'queue.json')
+      File.write(queue_file, '{')
+      output = File.join(directory, 'out.org')
+      _stdout, stderr, status = run_cli(paths, '--queue-file', queue_file, '--output', output)
+      refute status.success?
+      assert_match(/Invalid queue JSON/, stderr)
+      refute File.exist?(output)
+    end
+  end
+
+  def test_selects_by_id_and_resolves_without_an_id
+    [{ 'jmdict_id' => 1381380, 'romaji' => 'ao' },
+     { 'written' => '青', 'reading' => 'あお', 'romaji' => 'ao' }].each do |record|
+      Dir.mktmpdir do |directory|
+        paths = build_sources(directory, ent_seqs: %w[1381380])
+        queue_file = File.join(directory, 'queue.json')
+        File.write(queue_file, JSON.generate(record))
+        output = File.join(directory, 'out.org')
+        arguments = record.key?('jmdict_id') ? ['--jmdict-id', '1381380'] : []
+        _stdout, stderr, status = run_cli(paths, '--queue-file', queue_file, '--output', output, *arguments)
+        assert status.success?, stderr
+        assert_includes File.read(output), '#+JMDICT_ID: 1381380'
+      end
+    end
+  end
+
   private
+
+  def assert_queue_failure(data, arguments, message)
+    Dir.mktmpdir do |directory|
+      paths = build_sources(directory, ent_seqs: %w[1381380])
+      queue_file = File.join(directory, 'queue.json')
+      File.write(queue_file, JSON.generate(data))
+      output = File.join(directory, 'out.org')
+      _stdout, stderr, status = run_cli(paths, '--queue-file', queue_file, '--output', output, *arguments)
+      refute status.success?
+      assert_match message, stderr
+      refute File.exist?(output)
+      refute_match(/NoMethodError|TypeError/, stderr)
+    end
+  end
 
   def build_sources(directory, ent_seqs:)
     jmdict_path = File.join(directory, 'JMdict.xml.gz')

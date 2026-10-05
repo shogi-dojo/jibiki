@@ -125,12 +125,12 @@
 :REVIEWER_ID:
 :REVIEWED_AT:
 :END:
-- text :: технологічний проміжок; зазор між лініями різання
+- text :: поле під обрізування; проміжок між мітками різання (у поліграфії)
 ** Learner notes
 *** note-s-2853262-002-001
 :PROPERTIES:
 :END:
-- UK :: Технічний зазор або проміжок у поліграфії чи обробці матеріалів між направляючими лініями розрізу: 溝をあける (залишати проміжок).
+- UK :: Поліграфічний термін ドブ: додаткове поле за межами готового формату, яке зрізають під час обрізування. Тло продовжують у це поле, щоб зміщення різу не залишило білу смугу.
 - LEVEL :: intermediate
 - REGISTER :: neutral
 ** Examples
@@ -139,11 +139,11 @@
 :LEVEL: intermediate
 :REGISTER: neutral
 :END:
-- JA :: 印刷物の断裁位置がずれないよう、ガイドラインの間に適切な溝を設けた。
-- READING :: いんさつぶつのだんさいいちがずれないよう、がいどらいんのあいだにてきせつなどぶをもうけた。
-- UK :: Щоб лінія різання друкованої продукції не змістилася, між напрямними лініями передбачили належний проміжок.
-- EN :: An appropriate gap was provided between the guidelines so that the trimming position of the printed materials would not shift.
-- FOCUS :: 溝
+- JA :: 断裁のずれで白い縁が出ないよう、ドブまで背景の色を伸ばした。
+- READING :: だんさいのずれでしろいふちがでないよう、どぶまではいけいのいろをのばした。
+- UK :: Колір тла продовжили в поле під обрізування, щоб через зміщення різу не з’явився білий край.
+- EN :: The background color was extended into the bleed area so that a shift in trimming would not leave a white edge.
+- FOCUS :: ドブ
 
 * Sense s-2853262-003
 :PROPERTIES:

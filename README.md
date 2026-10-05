@@ -83,6 +83,24 @@ existing entry file. The `--romaji` value is chosen the same way it always
 has been: a human picks the filename's Modified Hepburn romanization: there
 is no automated transliterator.
 
+For an external candidate queue, pass a JSON array of objects (or a single
+object) to the CLI. A record supplies `jmdict_id` (or `ent_seq`), `written`
+(or `title`), `reading`, and `romaji`; an ID or spelling/reading is required.
+When supplied together, the ID, spelling, and reading must match the same
+JMdict entry. The ID may be text or a positive integer; other identity fields
+and romaji must be nonempty text.
+
+```sh
+ruby scripts/scaffold_entry.rb --queue-file /tmp/n1-candidates.json --entry-index 0 --output /tmp/entry.org
+```
+
+Choose exactly one selector: `--entry-index` (zero-based), `--source-order`,
+or `--jmdict-id`. A single-record queue needs no selector. For source order,
+`source_order` takes precedence over `order`, then `source_row`; duplicate
+matches are rejected. `--romaji` can override the queue's filename spelling
+and accepts lowercase ASCII letters followed by optional digits. `--output`
+writes an Org file and still refuses to overwrite an existing file.
+
 The intended flow is **scaffold → author payload → validate**, one agent, one
 pass, rather than generating many entries up front and backfilling debt
 later. Batch size guidance is therefore ~10 words authored to completion

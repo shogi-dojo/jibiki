@@ -5187,7 +5187,7 @@ Completed on 2026-10-05: **400 distinct additions in 400 individual word
 commits**, recorded in **40 batches of 10**. The branch contains **400 new
 entry files versus `origin/main`** (overall authored vocabulary additions **3,500**).
 This continuation preserves every JMdict sense, form, reading, restriction and
-source fingerprint, and supplies **705 original Ukrainian glosses and usage notes**,
+source fingerprint, and supplies **705 original Ukrainian glosses and 705 usage notes**,
 plus **1,505 examples** (1,200 primary-sense graded examples plus 305 secondary-sense
 examples across all 175 multisense entries) with Japanese, kana readings, Ukrainian and English
 translations.
@@ -5204,6 +5204,39 @@ These are documented study-list assignments, not an official JLPT syllabus.
 The reconciled Open Anki N1 pool retains 1,101 unused entries. All additions
 remain `new` learner entries with draft metadata, awaiting independent
 linguistic review.
+
+### Follow-up review against earlier vocabulary PRs
+
+Reviewed on 2026-10-05 against the schema and authoring conventions in PRs
+#12 and #13. The 400 additions and candidate manifest remain relevant to the
+N1 continuation; all entries retain their draft status.
+
+Corrected authored content in **52 entries**: inaccurate Ukrainian synonyms,
+invented usage explanations, examples for the wrong sense or restricted form,
+incorrect kana readings, and unnatural Japanese grammar. Examples include
+the first-meeting sense of 一見, the ケモノ subculture sense, 内証/内所,
+the reading of 落葉 for leaf fall, and the printing sense of ドブ. Imported
+JMdict sections, forms, restrictions and fingerprints are unchanged. Counts
+remain **705 glosses, 705 notes and 1,505 examples**.
+
+Disputed explanations were checked against publisher dictionary entries for
+[一見](https://kotobank.jp/word/一見-433281) and
+[一目置く](https://kotobank.jp/word/一目置く-433733),
+[printing guidance on ドブ](https://www.nik-prt.co.jp/tech/dtp/size/), and
+[TEPCO's low-voltage power plan](https://www.tepco.co.jp/ep/private/plan/old02.html).
+
+Hardened the external-queue scaffolder to reject conflicting selectors,
+negative indices, malformed JSON and record types, duplicate selector matches,
+inconsistent JMdict identity, and unsafe filename romaji. Source-order aliases
+now have explicit precedence instead of selecting whichever field matches.
+Added 13 CLI regression tests and documented the queue contract in README.
+
+Validation: **154 tests, 23,354 assertions, zero failures/errors/skips**;
+all 400 entries passed JMdict validation and Org lint, and doctor reported
+**100/100 with zero errors or warnings**. Content edited after the full validation
+was revalidated. The manifest still matches 400 unique additions. Review
+scratch files and logs were kept outside the repository; the two pre-existing
+untracked files were left untouched.
 
 ## Maturity workflow
 
