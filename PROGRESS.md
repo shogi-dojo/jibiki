@@ -4680,6 +4680,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 288 | [原作](entries/1261/1261450-gensaku.org) | げんさく | 1261450 | new / draft |
 | Open Anki N1 291 | [元首](entries/1260/1260870-genshu.org) | げんしゅ | 1260870 | new / draft |
 
+| Open Anki N1 292 | [原書](entries/1261/1261850-gensho.org) | げんしょ | 1261850 | new / draft |
+| Open Anki N1 293 | [懸賞](entries/1257/1257690-kenshou.org) | けんしょう | 1257690 | new / draft |
+| Open Anki N1 294 | [健全](entries/1256/1256360-kenzen.org) | けんぜん | 1256360 | new / draft |
+| Open Anki N1 295 | [元素](entries/1592/1592840-genso.org) | げんそ | 1592840 | new / draft |
+| Open Anki N1 296 | [同調](entries/1453/1453120-douchou.org) | どうちょう | 1453120 | new / draft |
+| Open Anki N1 298 | [動的](entries/1451/1451440-douteki.org) | どうてき | 1451440 | new / draft |
+| Open Anki N1 299 | [尊い](entries/1598/1598620-toutoi.org) | とうとい | 1598620 | new / draft |
+| Open Anki N1 301 | [同等](entries/1453/1453190-doutou.org) | どうとう | 1453190 | new / draft |
+| Open Anki N1 302 | [堂々](entries/1599/1599260-doudou.org) | どうどう | 1599260 | new / draft |
+| Open Anki N1 303 | [尊ぶ](entries/1598/1598640-toutobu.org) | とうとぶ | 1598640 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
