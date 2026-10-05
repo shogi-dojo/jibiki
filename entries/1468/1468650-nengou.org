@@ -1,0 +1,308 @@
+#+TITLE: 年号
+#+JMDICT_ID: 1468650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねんごう
+#+ROMAJI: nengou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1468650-001
+:PROPERTIES:
+:TEXT: 年号
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf25
+** Reading rd-1468650-001
+:PROPERTIES:
+:TEXT: ねんごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf25
+
+* Sense s-1468650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 10d402f03e574638749cb646960dd67ae6346945c68b43d0f36a2470921cf6ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 元号
+** English glosses
+- name of an imperial era (e.g. Heisei, Shōwa)
+- Japanese era name
+** Ukrainian glosses
+*** uk-s-1468650-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ненґо; назва імператорської ери; назва правління
+** Learner notes
+*** note-s-1468650-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційна японська система літочислення за ерами правління імператорів (Мейдзі, Тайсьо, Сьова, Хейсей, Рейва): 年号が変わる (змінюється ера), 新年号 (нова назва ери).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1468650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本の年号は令和です。
+- READING :: にほんのねんごうはれいわです。
+- UK :: Сучасна назва японської ери — Рейва.
+- EN :: The Japanese era name is Reiwa.
+- FOCUS :: 年号
+*** ex-1468650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい天皇の即位に伴って年号が改められた。
+- READING :: あたらしいてんのうのそくいにともなってねんごうがあらためられた。
+- UK :: Зі сходженням на престол нового імператора назву ери було змінено.
+- EN :: Along with the enthronement of the new Emperor, the era name was revised.
+- FOCUS :: 年号
+*** ex-1468650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本の公的文書や行政手続きでは西暦だけでなく独自の年号が広く併用されており、歴史の連続性を今に伝えている。
+- READING :: にほんのこうてきぶんしょやぎょうせいてつづきではせいれきだけでなくどくじのねんごうがひろくへいようされており、れきしのれんぞくせいをいまにつたえている。
+- UK :: В офіційних документах та адміністративних процедурах Японії поруч із григоріанським календарем широко вживається власна назва ери ненґо, що зберігає спадкоємність історії.
+- EN :: In Japanese official documents and administrative procedures, the unique era name is widely used in parallel alongside the Western calendar, conveying historical continuity to this day.
+- FOCUS :: 年号
+
+* Sense s-1468650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 10bf540fcfb71152d7d5a60d4a94850299b10505c80435f858fb149bda5769bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jaartitel
+*** en-s-1468650-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jaarstijl
+*** en-s-1468650-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewindnaam
+*** en-s-1468650-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regeringsnaam
+*** en-s-1468650-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: periodenaam
+*** en-s-1468650-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regeerperiodenaam
+*** en-s-1468650-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdperknaam
+*** en-s-1468650-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eranaam
+*** en-s-1468650-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naam van een troonperiode
+*** en-s-1468650-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: troonnaam
+*** en-s-1468650-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kenspreuk waaronder een tenno regeert
+** Ukrainian glosses
+
+* Sense s-1468650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 335df0e5f5d5031631a859a1eb97f04bf6da7b2ace8a10688973f10a235f44cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nom d'une ère
+** Ukrainian glosses
+
+* Sense s-1468650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a2a9a9bc1a91e0cdf1d9b3a95cefc8c81a617b77cdcc5e6a7eaf71a4e317473e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nengō
+*** en-s-1468650-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Äraname
+*** en-s-1468650-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Jahresdevise
+** Ukrainian glosses
+
+* Sense s-1468650-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cd22314420e7ab662a35ebf0eeb58d75084196420ca6bdca108154e649cf376c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: название годов правления (яп. система летосчисления)
+** Ukrainian glosses
+
+* Sense s-1468650-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 12e93b06db1c517a00b2b483f3ce6e82e7eb84ed7176db1259feee792470df18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letnica
+*** en-s-1468650-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ime obdobja
+** Ukrainian glosses
+
+* Sense s-1468650-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2ac1875497b024f1b4d18b445058f75f71b7fef1e9582f455e1be5e3e85d3232
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468650-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre de una era (Showa, etc)
+** Ukrainian glosses
