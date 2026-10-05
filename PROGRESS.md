@@ -4735,6 +4735,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 377 | [取り替え](entries/1599/1599020-torikae.org) | とりかえ | 1599020 | new / draft |
 | Open Anki N1 381 | [取り調べる](entries/1326/1326840-torishiraberu.org) | とりしらべる | 1326840 | new / draft |
 
+| Open Anki N1 382 | [取り立てる](entries/1326/1326960-toritateru.org) | とりたてる | 1326960 | new / draft |
+| Open Anki N1 383 | [取り次ぐ](entries/1326/1326760-toritsugu.org) | とりつぐ | 1326760 | new / draft |
+| Open Anki N1 384 | [取り付ける](entries/1326/1326910-toritsukeru.org) | とりつける | 1326910 | new / draft |
+| Open Anki N1 387 | [取り巻く](entries/1326/1326610-torimaku.org) | とりまく | 1326610 | new / draft |
+| Open Anki N1 388 | [取り混ぜる](entries/1326/1326730-torimazeru.org) | とりまぜる | 1326730 | new / draft |
+| Open Anki N1 394 | [鈍感](entries/1457/1457600-donkan.org) | どんかん | 1457600 | new / draft |
+| Open Anki N1 396 | [度忘れ](entries/1445/1445240-dowasure.org) | どわすれ | 1445240 | new / draft |
+| Open Anki N1 397 | [問屋](entries/1584/1584790-tonya.org) | とんや | 1584790 | new / draft |
+| Open Anki N1 399 | [乃至](entries/1469/1469810-naishi.org) | ないし | 1469810 | new / draft |
+| Open Anki N1 400 | [内緒](entries/1458/1458510-naisho.org) | ないしょ | 1458510 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
