@@ -5139,6 +5139,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 762 | [解除](entries/1199/1199030-kaijo.org) | かいじょ | 1199030 | new / draft |
 | Open Anki N1 763 | [外相](entries/1203/1203940-gaishou.org) | がいしょう | 1203940 | new / draft |
 
+| Open Anki N1 764 | [害する](entries/1609/1609490-gaisuru.org) | がいする | 1609490 | new / draft |
+| Open Anki N1 765 | [概説](entries/1204/1204470-gaisetsu.org) | がいせつ | 1204470 | new / draft |
+| Open Anki N1 766 | [回送](entries/1199/1199610-kaisou.org) | かいそう | 1199610 | new / draft |
+| Open Anki N1 767 | [階層](entries/1203/1203080-kaisou.org) | かいそう | 1203080 | new / draft |
+| Open Anki N1 770 | [改定](entries/1201/1201040-kaitei.org) | かいてい | 1201040 | new / draft |
+| Open Anki N1 771 | [改訂](entries/1201/1201060-kaitei.org) | かいてい | 1201060 | new / draft |
+| Open Anki N1 773 | [街道](entries/1204/1204650-kaidou.org) | かいどう | 1204650 | new / draft |
+| Open Anki N1 775 | [街頭](entries/1204/1204640-gaitou.org) | がいとう | 1204640 | new / draft |
+| Open Anki N1 780 | [海抜](entries/1201/1201700-kaibatsu.org) | かいばつ | 1201700 | new / draft |
+| Open Anki N1 781 | [介抱](entries/1198/1198130-kaihou.org) | かいほう | 1198130 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
