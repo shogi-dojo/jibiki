@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **180/200** additional distinct words; branch total **3080**.
+Completed **190/200** additional distinct words; branch total **3090**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4440,6 +4440,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 16 | 10 |
 | 17 | 10 |
 | 18 | 10 |
+| 19 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4623,6 +4624,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 11 | [賢明](entries/1260/1260320-kenmei.org) | けんめい | 1260320 | new / draft |
 | Open Anki N1 13 | [原油](entries/1262/1262430-genyu.org) | げんゆ | 1262430 | new / draft |
 | Open Anki N1 14 | [兼用](entries/1256/1256720-kenyou.org) | けんよう | 1256720 | new / draft |
+| Open Anki N1 15 | [権力](entries/1258/1258220-kenryoku.org) | けんりょく | 1258220 | new / draft |
+| Open Anki N1 16 | [言論](entries/1264/1264580-genron.org) | げんろん | 1264580 | new / draft |
+| Open Anki N1 18 | [語彙](entries/1271/1271260-goi.org) | ごい | 1271260 | new / draft |
+| Open Anki N1 20 | [甲](entries/1578/1578730-kou.org) | こう | 1578730 | new / draft |
+| Open Anki N1 22 | [好意](entries/1277/1277530-koui.org) | こうい | 1277530 | new / draft |
+| Open Anki N1 24 | [合意](entries/1284/1284550-goui.org) | ごうい | 1284550 | new / draft |
+| Open Anki N1 25 | [工学](entries/1278/1278010-kougaku.org) | こうがく | 1278010 | new / draft |
+| Open Anki N1 27 | [合議](entries/1284/1284700-gougi.org) | ごうぎ | 1284700 | new / draft |
+| Open Anki N1 28 | [皇居](entries/1280/1280380-koukyo.org) | こうきょ | 1280380 | new / draft |
+| Open Anki N1 31 | [興業](entries/1238/1238240-kougyou.org) | こうぎょう | 1238240 | new / draft |
 
 ## Maturity workflow
 
