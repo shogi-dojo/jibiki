@@ -5062,6 +5062,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 636 | [運輸](entries/1173/1173050-unyu.org) | うんゆ | 1173050 | new / draft |
 | Open Anki N1 637 | [運用](entries/1173/1173090-unyou.org) | うんよう | 1173090 | new / draft |
 
+| Open Anki N1 640 | [英字](entries/1174/1174530-eiji.org) | えいじ | 1174530 | new / draft |
+| Open Anki N1 641 | [映写](entries/1173/1173780-eisha.org) | えいしゃ | 1173780 | new / draft |
+| Open Anki N1 642 | [映像](entries/1173/1173800-eizou.org) | えいぞう | 1173800 | new / draft |
+| Open Anki N1 643 | [英雄](entries/1174/1174680-eiyuu.org) | えいゆう | 1174680 | new / draft |
+| Open Anki N1 644 | [液](entries/1174/1174970-eki.org) | えき | 1174970 | new / draft |
+| Open Anki N1 645 | [閲覧](entries/1175/1175380-etsuran.org) | えつらん | 1175380 | new / draft |
+| Open Anki N1 646 | [獲物](entries/1205/1205760-emono.org) | えもの | 1205760 | new / draft |
+| Open Anki N1 649 | [円滑](entries/1576/1576570-enkatsu.org) | えんかつ | 1576570 | new / draft |
+| Open Anki N1 652 | [婉曲](entries/1566/1566060-enkyoku.org) | えんきょく | 1566060 | new / draft |
+| Open Anki N1 653 | [演出](entries/1176/1176950-enshutsu.org) | えんしゅつ | 1176950 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
