@@ -4746,6 +4746,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 399 | [乃至](entries/1469/1469810-naishi.org) | ないし | 1469810 | new / draft |
 | Open Anki N1 400 | [内緒](entries/1458/1458510-naisho.org) | ないしょ | 1458510 | new / draft |
 
+| Open Anki N1 401 | [内心](entries/1458/1458550-naishin.org) | ないしん | 1458550 | new / draft |
+| Open Anki N1 402 | [内蔵](entries/1458/1458750-naizou.org) | ないぞう | 1458750 | new / draft |
+| Open Anki N1 404 | [内部](entries/1459/1459030-naibu.org) | ないぶ | 1459030 | new / draft |
+| Open Anki N1 405 | [内乱](entries/1459/1459460-nairan.org) | ないらん | 1459460 | new / draft |
+| Open Anki N1 407 | [苗](entries/1490/1490470-nae.org) | なえ | 1490470 | new / draft |
+| Open Anki N1 410 | [長々](entries/1599/1599440-naganaga.org) | ながなが | 1599440 | new / draft |
+| Open Anki N1 411 | [中程](entries/1424/1424990-nakahodo.org) | なかほど | 1424990 | new / draft |
+| Open Anki N1 412 | [渚](entries/1343/1343540-nagisa.org) | なぎさ | 1343540 | new / draft |
+| Open Anki N1 414 | [投げ出す](entries/1447/1447040-nagedasu.org) | なげだす | 1447040 | new / draft |
+| Open Anki N1 415 | [仲人](entries/1425/1425960-nakoudo.org) | なこうど | 1425960 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
