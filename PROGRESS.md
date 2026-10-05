@@ -4669,6 +4669,37 @@ The reconciled N2 pools have no unused candidates left; the reconciled Open
 Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
 entries with draft metadata, awaiting independent linguistic review.
 
+## 3200-word vocabulary continuation (2026-10-05)
+
+Baseline: `64241246`, with **3100** previously merged words from PR #13.
+Completed **10/100** additional distinct words; branch total **10** (overall corpus additions **3110**).
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+The selected continuation uses 100 Open Anki N1 candidates.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| Open Anki N1 55 | [公団](entries/1274/1274280-koudan.org) | こうだん | 1274280 | new / draft |
+| Open Anki N1 56 | [好調](entries/1277/1277730-kouchou.org) | こうちょう | 1277730 | new / draft |
+| Open Anki N1 58 | [講読](entries/1282/1282350-koudoku.org) | こうどく | 1282350 | new / draft |
+| Open Anki N1 59 | [購読](entries/1282/1282420-koudoku.org) | こうどく | 1282420 | new / draft |
+| Open Anki N1 61 | [公認](entries/1274/1274450-kounin.org) | こうにん | 1274450 | new / draft |
+| Open Anki N1 63 | [購買](entries/1282/1282470-koubai.org) | こうばい | 1282470 | new / draft |
+| Open Anki N1 65 | [交付](entries/1272/1272520-koufu.org) | こうふ | 1272520 | new / draft |
+| Open Anki N1 66 | [公募](entries/1274/1274680-koubo.org) | こうぼ | 1274680 | new / draft |
+| Open Anki N1 67 | [巧妙](entries/1278/1278340-koumyou.org) | こうみょう | 1278340 | new / draft |
+| Open Anki N1 71 | [公立](entries/1275/1275000-kouritsu.org) | こうりつ | 1275000 | new / draft |
+
 ## Maturity workflow
 
 Maturity and schema breadth answer different questions. The maturity state below
