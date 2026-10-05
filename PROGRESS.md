@@ -4757,6 +4757,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 414 | [投げ出す](entries/1447/1447040-nagedasu.org) | なげだす | 1447040 | new / draft |
 | Open Anki N1 415 | [仲人](entries/1425/1425960-nakoudo.org) | なこうど | 1425960 | new / draft |
 
+| Open Anki N1 417 | [名残](entries/1531/1531530-nagori.org) | なごり | 1531530 | new / draft |
+| Open Anki N1 418 | [情け](entries/1356/1356220-nasake.org) | なさけ | 1356220 | new / draft |
+| Open Anki N1 420 | [情深い](entries/1599/1599490-nasakebukai.org) | なさけぶかい | 1599490 | new / draft |
+| Open Anki N1 422 | [名高い](entries/1531/1531490-nadakai.org) | なだかい | 1531490 | new / draft |
+| Open Anki N1 423 | [雪崩](entries/1386/1386690-nadare.org) | なだれ | 1386690 | new / draft |
+| Open Anki N1 425 | [名付ける](entries/1531/1531790-nazukeru.org) | なづける | 1531790 | new / draft |
+| Open Anki N1 430 | [名札](entries/1531/1531510-nafuda.org) | なふだ | 1531510 | new / draft |
+| Open Anki N1 432 | [生温い](entries/1378/1378810-namanurui.org) | なまぬるい | 1378810 | new / draft |
+| Open Anki N1 433 | [生身](entries/1379/1379160-namami.org) | なまみ | 1379160 | new / draft |
+| Open Anki N1 436 | [嘗める](entries/1571/1571320-nameru.org) | なめる | 1571320 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
