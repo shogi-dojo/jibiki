@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **60/100** additional distinct words; branch total **60** (overall corpus additions **3160**).
+Completed **70/100** additional distinct words; branch total **70** (overall corpus additions **3170**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4691,6 +4691,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4754,6 +4755,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 170 | [冴える](entries/1297/1297050-saeru.org) | さえる | 1297050 | new / draft |
 | Open Anki N1 171 | [竿](entries/1214/1214060-sao.org) | さお | 1214060 | new / draft |
 | Open Anki N1 173 | [差額](entries/1291/1291370-sagaku.org) | さがく | 1291370 | new / draft |
+| Open Anki N1 174 | [杯](entries/1472/1472630-sakazuki.org) | さかずき | 1472630 | new / draft |
+| Open Anki N1 175 | [逆立ち](entries/1227/1227250-sakadachi.org) | さかだち | 1227250 | new / draft |
+| Open Anki N1 179 | [錯誤](entries/1298/1298420-sakugo.org) | さくご | 1298420 | new / draft |
+| Open Anki N1 180 | [作戦](entries/1297/1297800-sakusen.org) | さくせん | 1297800 | new / draft |
+| Open Anki N1 181 | [叫び](entries/1235/1235890-sakebi.org) | さけび | 1235890 | new / draft |
+| Open Anki N1 183 | [差し掛かる](entries/1291/1291140-sashikakaru.org) | さしかかる | 1291140 | new / draft |
+| Open Anki N1 184 | [指図](entries/1309/1309850-sashizu.org) | さしず | 1309850 | new / draft |
+| Open Anki N1 185 | [差し出す](entries/1291/1291230-sashidasu.org) | さしだす | 1291230 | new / draft |
+| Open Anki N1 190 | [定まる](entries/1435/1435370-sadamaru.org) | さだまる | 1435370 | new / draft |
+| Open Anki N1 191 | [定める](entries/1435/1435380-sadameru.org) | さだめる | 1435380 | new / draft |
 
 ## Maturity workflow
 
