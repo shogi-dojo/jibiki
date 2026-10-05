@@ -1,0 +1,421 @@
+#+TITLE: 担保
+#+JMDICT_ID: 1418210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たんぽ
+#+ROMAJI: tanpo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1418210-001
+:PROPERTIES:
+:TEXT: 担保
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf04
+** Reading rd-1418210-001
+:PROPERTIES:
+:TEXT: たんぽ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf04
+
+* Sense s-1418210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 18c62d9bc8ceb4a7202f95099bb72cf58c983f57c4e7407e5f2b7c90e4aca74b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- security
+- guarantee
+- collateral
+- mortgage
+** Ukrainian glosses
+*** uk-s-1418210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: застава; майнове забезпечення
+** Learner notes
+*** note-s-1418210-001-001
+:PROPERTIES:
+:END:
+- UK :: Майно чи інше забезпечення виконання зобов'язання, особливо кредиту. Типові сполуки: 担保に入れる та 担保を取る; ширше поняття, ніж конкретна іпотека 抵当.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1418210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 土地を担保に入れました。
+- READING :: とちをたんぽにいれました。
+- UK :: Землю передали в заставу.
+- EN :: The land was put up as collateral.
+- FOCUS :: 担保
+*** ex-1418210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 銀行は追加の担保を求めています。
+- READING :: ぎんこうはついかのたんぽをもとめています。
+- UK :: Банк вимагає додаткового забезпечення.
+- EN :: The bank is requesting additional collateral.
+- FOCUS :: 担保
+*** ex-1418210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 借入額だけでなく、担保の評価方法も契約書で確認した。
+- READING :: かりいれがくだけでなく、たんぽのひょうかほうほうもけいやくしょでかくにんした。
+- UK :: У договорі перевірили не лише суму позики, а й спосіб оцінювання застави.
+- EN :: We checked both the loan amount and the collateral valuation method in the contract.
+- FOCUS :: 担保
+
+* Sense s-1418210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6193fc6728c3509477e6532c16fd9a1a8102f8e424933c1bac4fce7dd23b4c16
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- guarantee (e.g. of safety)
+** Ukrainian glosses
+*** uk-s-1418210-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гарантія; забезпечення надійності
+** Learner notes
+*** note-s-1418210-002-001
+:PROPERTIES:
+:END:
+- UK :: У сполуках 安全を担保する та 品質を担保する означає забезпечувати певну властивість перевірками або умовами. Це формальний вислів, який не обов'язково стосується майнової застави.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1418210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87c239bda19bb111e36f711f1c1e382921324571debc8f0722cd80cec7a7fa8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onderpand
+*** en-s-1418210-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pand
+*** en-s-1418210-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarborg
+*** en-s-1418210-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: borg
+*** en-s-1418210-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: garantie
+*** en-s-1418210-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zekerheid
+*** en-s-1418210-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: securiteit
+*** en-s-1418210-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hypotheek
+*** en-s-1418210-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {niet alg.} onderzetting
+** Ukrainian glosses
+
+* Sense s-1418210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a8bfb1980ead2f73a74bbf0a7d02fc7e3e64ef4ced4ee922194b37c0a7becd74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caution
+*** en-s-1418210-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: garantie
+** Ukrainian glosses
+
+* Sense s-1418210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f7e652abeed4ed82f1fea7ddf322ba7eb4a5d868bc34b4dc3d5449f6b8cc519c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfand
+*** en-s-1418210-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sicherheit
+*** en-s-1418210-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hypothek
+** Ukrainian glosses
+
+* Sense s-1418210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5ca8b5b98a90ea36e7ad8550c6ae37fe7c59c448570a28a3482221128ec50df9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bürgschaft
+*** en-s-1418210-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Garantie
+** Ukrainian glosses
+
+* Sense s-1418210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3f05e0e903f2f78a156da9e37cc84c22b4bc8dc1b3c16fb54dbfe1495f484ae1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állami kötvény
+*** en-s-1418210-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biztonság
+*** en-s-1418210-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: másodlagos
+** Ukrainian glosses
+
+* Sense s-1418210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0bc4549a5f60b5de372d63dfbc9c4a30b54f6461247e11810ad4e49773726bb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: залог; заклад
+** Ukrainian glosses
+
+* Sense s-1418210-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: e52bcbd05dd77a604e7caba179de22e6ca2f7d257f11df91a9a53742c33b9137
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varnost
+*** en-s-1418210-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zaščita
+*** en-s-1418210-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jamstvo
+*** en-s-1418210-009-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obveznica
+*** en-s-1418210-009-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stranski
+*** en-s-1418210-009-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pomožen
+** Ukrainian glosses
+
+* Sense s-1418210-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 02f0b8b3203f10a91f8d93cb40aebf39f2a8eb4f4b4387360dd6d5ce40e02419
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418210-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: colateral
+** Ukrainian glosses

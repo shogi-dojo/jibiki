@@ -1,0 +1,380 @@
+#+TITLE: 残高
+#+JMDICT_ID: 1304590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ざんだか
+#+ROMAJI: zandaka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1304590-001
+:PROPERTIES:
+:TEXT: 残高
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf06
+** Reading rd-1304590-001
+:PROPERTIES:
+:TEXT: ざんだか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf06
+
+* Sense s-1304590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d6955f121acd0c7f3eac895ff581bea9e632b24f34d32ec75b39a800d3cb26ef
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (bank) balance
+- remainder
+** Ukrainian glosses
+*** uk-s-1304590-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: залишок коштів; баланс рахунку
+** Learner notes
+*** note-s-1304590-001-001
+:PROPERTIES:
+:END:
+- UK :: =口座の残高= — залишок на рахунку, =残高を確認する= — перевірити баланс. =残り= загальніше те, що лишилося; =残高= кількісний залишок обліковуваних коштів. Не весь дохід за період і не автоматично доступна кредитна сума.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1304590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 口座の残高を見た。
+- READING :: こうざのざんだかをみた。
+- UK :: Я подивився залишок на рахунку.
+- EN :: I checked the account balance.
+- FOCUS :: 残高
+*** ex-1304590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 支払いの後で、残高が少なくなった。
+- READING :: しはらいのあとで、ざんだかがすくなくなった。
+- UK :: Після платежу залишок зменшився.
+- EN :: The balance decreased after the payment.
+- FOCUS :: 残高
+*** ex-1304590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 残高だけでは今月の支出が分からないため、入金と支払いの明細も確認した。
+- READING :: ざんだかだけではこんげつのししゅつがわからないため、にゅうきんとしはらいのめいさいもかくにんした。
+- UK :: За самим залишком не видно витрат місяця, тож я перевірив також надходження й платежі.
+- EN :: The balance alone did not show this month's spending, so I also checked deposits and payment details.
+- FOCUS :: 残高
+
+* Sense s-1304590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 40cb046f232bc51a16c2774a829ce9dfd1b18bbead2873a1797e09e3ae73739c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {hand.} balans
+** Ukrainian glosses
+
+* Sense s-1304590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a286052734d7b67d9b234cf0079d3f7df8548fe53869196bb4ca070a1f163d32
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (banque) solde
+*** en-s-1304590-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bilan
+*** en-s-1304590-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: restant
+** Ukrainian glosses
+
+* Sense s-1304590-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 353355ab03ccbe36cc6f5fde7540fe579e30d8e14b3d67c29ed53d5ad7b885fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Saldo
+*** en-s-1304590-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Restbetrag
+*** en-s-1304590-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bilanz
+** Ukrainian glosses
+
+* Sense s-1304590-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e6cb687f8fb385fcd67d645f4d42d27b6f1769d5667c523682175f189666cae1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenleg (bankszámláé)
+*** en-s-1304590-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenleg
+*** en-s-1304590-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hátralevő rész
+*** en-s-1304590-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiegyensúlyozó nehezék
+*** en-s-1304590-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könyvelési mérleg
+*** en-s-1304590-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maradék
+*** en-s-1304590-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maradvány
+*** en-s-1304590-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meggondoltság
+*** en-s-1304590-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérlegszámla
+*** en-s-1304590-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: óra ingája
+*** en-s-1304590-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: órabillegő
+*** en-s-1304590-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: patikamérleg
+*** en-s-1304590-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabályozókészülék
+** Ukrainian glosses
+
+* Sense s-1304590-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 54f5ee21828e68ec182afa80378890cee9401939882f33fb649dcd088f2693bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бухг.) баланс; сальдо, остаток
+** Ukrainian glosses
+
+* Sense s-1304590-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 217b79c2819ca5cdcd14e882658eca28f64cde916782f9974e5965153d67218d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tehtnica
+*** en-s-1304590-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ravnotežje
+*** en-s-1304590-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: protiutež
+*** en-s-1304590-007-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ostanek
+** Ukrainian glosses
+
+* Sense s-1304590-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0729fa3c9c55347aa8a9deca59dd6ef29fe304416779fee1e27c1a98eb31e6bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1304590-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balance (banco)
+*** en-s-1304590-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: saldo
+** Ukrainian glosses

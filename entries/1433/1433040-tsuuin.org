@@ -1,0 +1,172 @@
+#+TITLE: 通院
+#+JMDICT_ID: 1433040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つういん
+#+ROMAJI: tsuuin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1433040-001
+:PROPERTIES:
+:TEXT: 通院
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1433040-001
+:PROPERTIES:
+:TEXT: つういん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1433040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: abb22c8b587c8c8b72dacbb5aad5e0e4aa278179e0c6536a952cf36b37745d4e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- going to the hospital regularly for treatment
+- attending hospital as an outpatient
+** Ukrainian glosses
+*** uk-s-1433040-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: регулярне амбулаторне відвідування лікарні; лікування без госпіталізації
+** Learner notes
+*** note-s-1433040-001-001
+:PROPERTIES:
+:END:
+- UK :: 通院する — регулярно ходити до медичного закладу для лікування або відповідних прийомів, не перебуваючи там постійно. На відміну від 入院する, слово не означає госпіталізацію; воно не визначає конкретної частоти чи причини відвідувань.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1433040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父は通院している。
+- READING :: ちちはつういんしている。
+- UK :: Мій батько регулярно відвідує лікарню для лікування.
+- EN :: My father attends hospital as an outpatient.
+- FOCUS :: 通院している
+*** ex-1433040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 通院の日には、仕事の時間を調整している。
+- READING :: つういんのひには、しごとのじかんをちょうせいしている。
+- UK :: У дні відвідування лікарні я коригую робочий час.
+- EN :: On days when I attend hospital, I adjust my work hours.
+- FOCUS :: 通院
+*** ex-1433040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 通院を続けながら働けるよう、本人と職場で予定を話し合った。
+- READING :: つういんをつづけながらはたらけるよう、ほんにんとしょくばでよていをはなしあった。
+- UK :: Працівник і його колеги обговорили графік, щоб він міг працювати, продовжуючи амбулаторні відвідування.
+- EN :: The employee and workplace discussed the schedule so they could keep working while attending outpatient appointments.
+- FOCUS :: 通院
+
+* Sense s-1433040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0ceee4989ef10beebf1f0e7f3b95fdfa545cacda773d5af5816134e43bb81747
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433040-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het voor behandeling naar het ziekenhuis gaan
+*** en-s-1433040-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regelmatige gang naar het ziekenhuis
+*** en-s-1433040-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voor behandeling regelmatig naar het ziekenhuis gaan
+** Ukrainian glosses
+
+* Sense s-1433040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0c6b7d51e0744baf05c6f0d77c18006cf1c7bedeea6164ee7e0efc294fbd587e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433040-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se rendre à l'hôpital
+** Ukrainian glosses
+
+* Sense s-1433040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 33272aa2f385420420748926db6f0cd96f0f88b57fb5f37a563c91f2a444bf6b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433040-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krankenhausbehandlung als ambulanter Patient
+*** en-s-1433040-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich als ambulanter Patient im Krankenhaus behandeln lassen
+** Ukrainian glosses

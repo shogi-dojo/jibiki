@@ -1,0 +1,258 @@
+#+TITLE: 振り仮名
+#+JMDICT_ID: 1361150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふりがな
+#+ROMAJI: furigana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1361150-001
+:PROPERTIES:
+:TEXT: 振り仮名
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1361150-002
+:PROPERTIES:
+:TEXT: ふり仮名
+:END:
+** Written form wf-1361150-003
+:PROPERTIES:
+:TEXT: 振仮名
+:END:
+** Written form wf-1361150-004
+:PROPERTIES:
+:TEXT: 振りがな
+:END:
+*** Information
+- sK
+** Written form wf-1361150-005
+:PROPERTIES:
+:TEXT: フリ仮名
+:END:
+*** Information
+- sK
+** Reading rd-1361150-001
+:PROPERTIES:
+:TEXT: ふりがな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1361150-002
+:PROPERTIES:
+:TEXT: フリガナ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1361150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3fa7508c1f10e7984b33b9eb7732766405d8ab00818b143389c9caa791dd398d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- furigana
+*** en-s-1361150-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kana printed above or next to kanji to indicate pronunciation
+** Ukrainian glosses
+*** uk-s-1361150-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: фуріґана
+*** uk-s-1361150-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: підрядкові знаки кани
+** Learner notes
+*** note-s-1361150-001-001
+:PROPERTIES:
+:END:
+- UK :: Знаки кани (переважно хіраґани чи катакани), розміщені над кандзі чи збоку від них для позначення читання. Часто вживається в навчальних матеріалах, дитячих книжках, а також над рідкісними прізвищами в анкетах.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1361150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 漢字(かんじ)[に]振(ふ)り仮名(がな)[を]付(つ)けました。
+- READING :: かんじにふりがなをつけました。
+- UK :: Я додав фуріґану до кандзі.
+- EN :: I added furigana to the kanji.
+- FOCUS :: 振り仮名を
+*** ex-1361150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 名前(なまえ)[の]上(うえ)[に]振(ふ)り仮名(がな)[を]書(か)[いてください]。
+- READING :: なまえのうえにふりがなをかいてください。
+- UK :: Будь ласка, напишіть фуріґану над своїм ім'ям.
+- EN :: Please write the furigana above your name.
+- FOCUS :: 振り仮名を
+*** ex-1361150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 難(むずか)しい専門(せんもん)用語(ようご)[には]、読(よ)み手(て)[のために]振(ふ)り仮名(がな)[が]振(ふ)[られている]。
+- READING :: むずかしいせんもんようごには、よみてのためにふりがながふられている。
+- UK :: Над складними спеціальними термінами для читачів проставлено фуріґану.
+- EN :: Furigana is provided above difficult technical terms for the reader's convenience.
+- FOCUS :: 振り仮名が
+
+* Sense s-1361150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6c5e7bdcc39d6fc3a8d84eb1834a90fb3072d888f9723f9fb125513b09323636
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: furigana
+*** en-s-1361150-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glosse {verklarende aantekening of fonetische transcriptie boven c.q. naast kanji
+*** en-s-1361150-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leenwoorden e.d.}
+** Ukrainian glosses
+
+* Sense s-1361150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 415a7a27a6138746b44e3f737409d49412250d4d0e928025723f1429cd1180d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: furigana (petits hiragana au-dessus des kanjis)
+** Ukrainian glosses
+
+* Sense s-1361150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5c1267a9cbf9304a099a0617407794e7d108398f4a116eee0017010f6cd4098e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Furigana (Lesehilfe für Kanji in Kana)
+** Ukrainian glosses
+
+* Sense s-1361150-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f44baea02cbb5d626715df8042fe963a6d18a8b9263d79611336bd95097b626d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: фуригана (кана, которая пишется справа от иероглифа и обозначает его произношение)
+** Ukrainian glosses
+
+* Sense s-1361150-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 36a816791b8141569b5170517e8017dd14f9dda2d0eb032a550821356db6f3ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: furigana
+** Ukrainian glosses
+
+* Sense s-1361150-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2f8e00bd29d3114293c3fd5bb834ad2527539f2f7c3eede8933d8c4a42ade6cc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361150-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: furigana (kana escrito encima o al lado de un kanji para indicar su pronunciación)
+** Ukrainian glosses

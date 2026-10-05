@@ -1,0 +1,521 @@
+#+TITLE: 家主
+#+JMDICT_ID: 1191990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やぬし
+#+ROMAJI: yanushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1191990-001
+:PROPERTIES:
+:TEXT: 家主
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1191990-001
+:PROPERTIES:
+:TEXT: やぬし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1191990-002
+:PROPERTIES:
+:TEXT: いえぬし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1191990-003
+:PROPERTIES:
+:TEXT: いえあるじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1191990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3a3d3943f3ff25bb7d704be402e253d9bb839a156ea544b1d97dada08e287b86
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- やぬし
+- いえぬし
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- landlord
+- landlady
+** Ukrainian glosses
+*** uk-s-1191990-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: орендодавець; власник житла, що здається
+** Learner notes
+*** note-s-1191990-001-001
+:PROPERTIES:
+:END:
+- UK :: =家主= з читанням =やぬし= часто власник орендованого будинку: =家主に連絡する=. =大家= близьке побутове слово; =管理人= може керувати будівлею, не володіючи нею. Не плутайте з орендарем (=借り主=).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1191990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家主に電話をした。
+- READING :: やぬしにでんわをした。
+- UK :: Я зателефонував орендодавцю.
+- EN :: I called the landlord.
+- FOCUS :: 家主
+*** ex-1191990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 水漏れについて家主に相談した。
+- READING :: みずもれについてやぬしにそうだんした。
+- UK :: Я обговорив протікання води з власником житла.
+- EN :: I consulted the landlord about the water leak.
+- FOCUS :: 家主
+*** ex-1191990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 修理費を誰が負担するか、契約書を確認してから家主と話し合った。
+- READING :: しゅうりひをだれがふたんするか、けいやくしょをかくにんしてからやぬしとはなしあった。
+- UK :: Перевіривши договір, я обговорив з орендодавцем, хто оплатить ремонт.
+- EN :: After checking the contract, I discussed responsibility for repair costs with the landlord.
+- FOCUS :: 家主
+
+* Sense s-1191990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bd9812a9df0a6b1d61a5531ae3141f29e9a94279eedfee83d88e272fba220e40
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- house owner
+- home owner
+- head of the household
+** Ukrainian glosses
+*** uk-s-1191990-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: власник будинку; господар дому
+** Learner notes
+*** note-s-1191990-002-001
+:PROPERTIES:
+:END:
+- UK :: Може називати господаря або власника незалежно від оренди. Читання й контекст важливі: значення «глава дому» не гарантує юридичної власності; у цій статті основне читання =やぬし=.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1191990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ee720ab34f751f0246771232d111c3755a894b72e57083c6e6e3a9c2c6ee6f60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huisbaas
+*** en-s-1191990-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huiseigenaar
+*** en-s-1191990-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huiseigenares
+*** en-s-1191990-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huisheer
+*** en-s-1191990-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhuurder
+*** en-s-1191990-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhuurster
+*** en-s-1191990-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hospes
+*** en-s-1191990-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hospita
+*** en-s-1191990-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kamerverhuurder
+*** en-s-1191990-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kostbaas
+*** en-s-1191990-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Barg.
+*** en-s-1191990-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: studentent.
+*** en-s-1191990-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veroud.} schoft
+** Ukrainian glosses
+
+* Sense s-1191990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 94b854d50f08b07fe86b282f084dbebb0f0bb8e00fcac1f9d7b49493a71af4c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: landheer
+*** en-s-1191990-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pachtheer
+*** en-s-1191990-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grondeigenaar
+*** en-s-1191990-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grondheer
+*** en-s-1191990-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpachter
+*** en-s-1191990-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpachtster
+** Ukrainian glosses
+
+* Sense s-1191990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 39b7f8505afc183af5d80f245164b8a60b59297112ca74b2b2cb0ebb0f2e5462
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gezinshoofd
+*** en-s-1191990-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heer des huizes
+*** en-s-1191990-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: baas
+** Ukrainian glosses
+
+* Sense s-1191990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 63f6db38000239ece274f495fe34899b5ffb1b80c2b5f1880da0e1006713b678
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: propriétaire (logement)
+** Ukrainian glosses
+
+* Sense s-1191990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 12978beca3eb07e36e84b24482cdda4c6e68e117e71e9380c63898645556ddb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hausbesitzer
+** Ukrainian glosses
+
+* Sense s-1191990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 642173813e34c583a9e09b75639ce46f915e575986c8b47e007483dec4a8e1b1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vermieter
+*** en-s-1191990-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hausherr
+** Ukrainian glosses
+
+* Sense s-1191990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 3cfeaa3780f91abf568e1d273dbb9f942ce72ea1410729ad50b3e32f640ab7b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hausbesitzer
+** Ukrainian glosses
+
+* Sense s-1191990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 81b073800055e6f1d9b409ea8ea631ea9d2373cf39829230da320bff98a9b17d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vermieter
+** Ukrainian glosses
+
+* Sense s-1191990-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 12a143c73adf6d7e69284181ccc3059f05c4d680eefc3f3c35eabf717b7ce34e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: háziúr
+** Ukrainian glosses
+
+* Sense s-1191990-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: b74879da2ad694e85f735c1f94977c148bb743631db3c98e198d50fbcdbd0bf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: домовладелец, хозяин дома
+** Ukrainian glosses
+
+* Sense s-1191990-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 947a38d3831414e49d30e8e57d0c8d243e681ac5fa02770562a964aed9e400d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: propietario
+** Ukrainian glosses
+
+* Sense s-1191990-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: d3f428f4088f62a6614373d9a84bc4666374d8928b1d68fdd89a56f7826150c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1191990-014-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: husvärd
+** Ukrainian glosses

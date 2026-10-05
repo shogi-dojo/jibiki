@@ -1,0 +1,185 @@
+#+TITLE: 株価
+#+JMDICT_ID: 1208950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かぶか
+#+ROMAJI: kabuka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1208950-001
+:PROPERTIES:
+:TEXT: 株価
+:END:
+*** Priorities
+- news1
+- nf02
+** Reading rd-1208950-001
+:PROPERTIES:
+:TEXT: かぶか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf02
+
+* Sense s-1208950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4d8491bd2565b9c5e009311ebb719bb09a655dcba05940ba419d8980b21e502f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stock prices
+** Ukrainian glosses
+*** uk-s-1208950-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: курс акцій; ціна акції
+** Learner notes
+*** note-s-1208950-001-001
+:PROPERTIES:
+:END:
+- UK :: 株価が上がる — курс акцій зростає, 株価の推移 — його динаміка. Слово називає ринкову ціну, а не кількість акцій чи гарантований дохід власника; конкретна компанія або індекс мають бути визначені контекстом.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1208950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 株価が下がった。
+- READING :: かぶかがさがった。
+- UK :: Курс акцій знизився.
+- EN :: Share prices fell.
+- FOCUS :: 株価
+*** ex-1208950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 株価の推移をグラフにした。
+- READING :: かぶかのすいいをグラフにした。
+- UK :: Ми подали динаміку курсу акцій на графіку.
+- EN :: We graphed the movement of share prices.
+- FOCUS :: 株価
+*** ex-1208950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 記事には、株価の変化と会社の発表がまとめられている。
+- READING :: きじには、かぶかのへんかとかいしゃのはっぴょうがまとめられている。
+- UK :: У статті узагальнено зміну курсу акцій і повідомлення компанії.
+- EN :: The article summarizes changes in the share price and the company's announcement.
+- FOCUS :: 株価
+
+* Sense s-1208950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7a4cb647db1b4220508fb8d402c44935ba74f4b99551df33af7c55c4b5a75c80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1208950-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {beurst.} aandeelprijs
+*** en-s-1208950-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aandelenkoers
+*** en-s-1208950-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beursprijs
+*** en-s-1208950-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beursnotering
+*** en-s-1208950-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: effectenkoers
+** Ukrainian glosses
+
+* Sense s-1208950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0b02c7fcb1f424de5898c904850c32aa8c4854577669f4f068896c652bcf2e02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1208950-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aktienpreis
+*** en-s-1208950-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aktienkurs
+** Ukrainian glosses
+
+* Sense s-1208950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4b462da8cbbf38e0dbe26a616c4204677d2550b97698ffb078e856f85e9951a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1208950-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: стоимость акций
+** Ukrainian glosses

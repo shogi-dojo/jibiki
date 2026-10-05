@@ -1,0 +1,347 @@
+#+TITLE: 送料
+#+JMDICT_ID: 1402870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうりょう
+#+ROMAJI: souryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1402870-001
+:PROPERTIES:
+:TEXT: 送料
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1402870-001
+:PROPERTIES:
+:TEXT: そうりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1402870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b375c1f30d3142137a42ca3c0bd88ed16d03a8f1645a6bb5e6a32945c10ba57d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- postage
+- carriage
+- shipping charge
+** Ukrainian glosses
+*** uk-s-1402870-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вартість доставки; поштові витрати
+** Learner notes
+*** note-s-1402870-001-001
+:PROPERTIES:
+:END:
+- UK :: =送料がかかる= — доставка платна, =送料無料= — безкоштовна доставка. Відрізняється від =代金= (ціна товару) та =手数料= (комісія). Може охоплювати пошту або інший спосіб відправлення; умови продавця уточнюють суму.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1402870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 送料はいくらですか。
+- READING :: そうりょうはいくらですか。
+- UK :: Скільки коштує доставка?
+- EN :: How much is shipping?
+- FOCUS :: 送料
+*** ex-1402870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 商品は安いが、送料を加えると高くなる。
+- READING :: しょうひんはやすいが、そうりょうをくわえるとたかくなる。
+- UK :: Товар дешевий, але з доставкою стає дорогим.
+- EN :: The item is cheap, but adding shipping makes it expensive.
+- FOCUS :: 送料
+*** ex-1402870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域によって送料が異なるため、注文前に合計金額を確認した。
+- READING :: ちいきによってそうりょうがことなるため、ちゅうもんまえにごうけいきんがくをかくにんした。
+- UK :: Вартість доставки різниться за регіонами, тож перед замовленням я перевірив загальну суму.
+- EN :: I checked the total before ordering because shipping costs vary by region.
+- FOCUS :: 送料
+
+* Sense s-1402870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 23f64bde47b5433a1d20efb2f1c6b7ea578a5eae16f38859fa797a36ea650ae6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porto(kosten)
+*** en-s-1402870-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (brief)port
+*** en-s-1402870-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: posttarief
+*** en-s-1402870-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frankeerkosten
+** Ukrainian glosses
+
+* Sense s-1402870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e7bd0df1d48c7a2d25aab8563ceb0ad09c7f920445dc9f7afcadc0b531c007bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestelkosten
+*** en-s-1402870-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verzendkosten
+*** en-s-1402870-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vervoerkosten
+*** en-s-1402870-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vervoerstarief
+*** en-s-1402870-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrachtkosten
+*** en-s-1402870-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrachtprijs
+*** en-s-1402870-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrachttarief
+*** en-s-1402870-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transportkosten
+*** en-s-1402870-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transportrecht
+** Ukrainian glosses
+
+* Sense s-1402870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cf668b2149cd84981afe01dea406c3ce3df18d62c6a8543624fe8cfd06fde740
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: affranchissement
+*** en-s-1402870-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frais de port
+** Ukrainian glosses
+
+* Sense s-1402870-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4547e956f823575053eb65dc9c6fff2795638718e3a7f9ee40584ba82481ac3c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Porto
+*** en-s-1402870-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Transportkosten
+** Ukrainian glosses
+
+* Sense s-1402870-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9515afe4cf02406dd779acda168725ff23406db6296be48109c901e84dfe83c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fuvarozás
+*** en-s-1402870-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kocsi
+*** en-s-1402870-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tarifa
+*** en-s-1402870-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vagon
+** Ukrainian glosses
+
+* Sense s-1402870-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4be6f712f4617fab1a1af44ce9fea8a47e877bc9233d41b3f1528681818cc220
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за пересылку (перевозку)
+** Ukrainian glosses
+
+* Sense s-1402870-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 7fbab390559c392fd05a3afd5f8952d010be24933cf7e9fa523816bd52e2a8dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402870-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poštnina
+** Ukrainian glosses

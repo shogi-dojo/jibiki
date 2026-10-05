@@ -1,0 +1,322 @@
+#+TITLE: 解析
+#+JMDICT_ID: 1199060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいせき
+#+ROMAJI: kaiseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1199060-001
+:PROPERTIES:
+:TEXT: 解析
+:END:
+*** Priorities
+- news1
+- nf10
+** Written form wf-1199060-002
+:PROPERTIES:
+:TEXT: 解折
+:END:
+*** Information
+- iK
+** Reading rd-1199060-001
+:PROPERTIES:
+:TEXT: かいせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf10
+
+* Sense s-1199060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: db872a8595f531d10eef3974570ddfa7a09f9479b6bb90a2e071af291bfa174a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- analysis
+- analytical study
+** Ukrainian glosses
+*** uk-s-1199060-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: аналіз; аналітичне дослідження
+** Learner notes
+*** note-s-1199060-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає систематичне дослідження структури, властивостей або закономірностей даних і явищ. Типові データを解析する та 解析結果; 分析 ширше повсякденне слово, а 解析 часто має технічний чи математичний відтінок.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1199060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 集めたデータを解析した。
+- READING :: あつめたでーたをかいせきした。
+- UK :: Я проаналізував зібрані дані.
+- EN :: I analyzed the collected data.
+- FOCUS :: 解析
+*** ex-1199060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 解析の結果を図にまとめた。
+- READING :: かいせきのけっかをずにまとめた。
+- UK :: Я подав результати аналізу на схемі.
+- EN :: I summarized the analysis results in a diagram.
+- FOCUS :: 解析
+*** ex-1199060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 観測記録を解析して、季節による変化に一定の傾向があるか調べた。
+- READING :: かんそくきろくをかいせきして、きせつによるへんかにいっていのけいこうがあるかしらべた。
+- UK :: Я проаналізував записи спостережень, щоб з'ясувати закономірності сезонних змін.
+- EN :: I analyzed observation records to investigate patterns in seasonal changes.
+- FOCUS :: 解析
+
+* Sense s-1199060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6d69625df9fd6297043fa90bb3b4de482808414b670a14bd3b24fcc798dda366
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- parsing
+- parse
+** Ukrainian glosses
+*** uk-s-1199060-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: синтаксичний розбір; парсинг
+** Learner notes
+*** note-s-1199060-002-001
+:PROPERTIES:
+:END:
+- UK :: У програмуванні й мовознавстві позначає розпізнавання структури тексту за правилами, особливо 構文解析. Це не просто читання файла: визначають зв'язки між його елементами й відповідність очікуваному формату.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1199060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 51ff3969e6f2fce8ecb35751a45f17f8eefe33ac126ef0f3c157f6023e9b2e93
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analyse
+*** en-s-1199060-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontleding
+*** en-s-1199060-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitsplitsing
+** Ukrainian glosses
+
+* Sense s-1199060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 28a3173513b9f6e8a73aa84e80f348795e044fc4aad26f89c49fe393f0f12210
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} wiskundige analyse
+** Ukrainian glosses
+
+* Sense s-1199060-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9f8377bae4939b9713f6f56311c2cd43a4f18b26d28ad88c282b7a42072cfc51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analyse
+** Ukrainian glosses
+
+* Sense s-1199060-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ed9aec77716c1d4f0a337d7f6be18fc538547342bf10234169dc909dede529fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analysieren
+*** en-s-1199060-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Analyse
+*** en-s-1199060-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analytische Untersuchung
+** Ukrainian glosses
+
+* Sense s-1199060-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3582353cb787d64b43c1312c68ce7be7a89ad3b5ded2d9eecb45a0c59ac087b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Analysis
+** Ukrainian glosses
+
+* Sense s-1199060-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 389c2612fc4c56a544abde7b0d933f07ea6db7fd14153d1f254a71268f169a91
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analízis
+** Ukrainian glosses
+
+* Sense s-1199060-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 634c3ccb2fcf3ffc8932cbe1f373e87fe3e2beee8b7b0d04bedca411537ba597
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: анализ, аналитическое исследование
+*** en-s-1199060-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} анализировать
+*** en-s-1199060-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～的} аналитический
+** Ukrainian glosses
+
+* Sense s-1199060-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: db4e57e96e293910215ee34330df338902ade471f204e7b347690c9f77457559
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199060-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: análisis
+** Ukrainian glosses

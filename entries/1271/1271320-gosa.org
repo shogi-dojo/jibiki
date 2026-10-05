@@ -1,0 +1,276 @@
+#+TITLE: 誤差
+#+JMDICT_ID: 1271320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごさ
+#+ROMAJI: gosa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1271320-001
+:PROPERTIES:
+:TEXT: 誤差
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf21
+** Reading rd-1271320-001
+:PROPERTIES:
+:TEXT: ごさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf21
+
+* Sense s-1271320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0c9e926d4260eafaac35208743e912893dfa3fe377f39ff597611a123f4d70cd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- measurement error
+- calculation error
+** Ukrainian glosses
+*** uk-s-1271320-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: похибка вимірювання; похибка обчислення
+** Learner notes
+*** note-s-1271320-001-001
+:PROPERTIES:
+:END:
+- UK :: 誤差 — відхилення виміряного або обчисленого значення від прийнятого правильного; типові 誤差が生じる та 誤差の範囲内. На відміну від 間違い, не обов'язково означає недбалу помилку людини: похибка може бути властива методу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1271320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 誤差が出た。
+- READING :: ごさがでた。
+- UK :: Виникла похибка.
+- EN :: An error occurred in the measurement.
+- FOCUS :: 誤差
+*** ex-1271320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二回の測定には小さな誤差がある。
+- READING :: にかいのそくていにはちいさなごさがある。
+- UK :: Між двома вимірюваннями є невелика розбіжність.
+- EN :: There is a small discrepancy between the two measurements.
+- FOCUS :: 誤差
+*** ex-1271320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 温度の変化による誤差を減らすため、同じ条件で測定した。
+- READING :: おんどのへんかによるごさをへらすため、おなじじょうけんでそくていした。
+- UK :: Щоб зменшити похибку через зміну температури, вимірювали за однакових умов.
+- EN :: We measured under identical conditions to reduce errors caused by temperature changes.
+- FOCUS :: 誤差
+
+* Sense s-1271320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c6dea11d2bf99de039353ef412801e30cce7da412053276a2059c71e616acb09
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- discrepancy
+- deviation
+- difference
+- gap
+** Ukrainian glosses
+*** uk-s-1271320-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розбіжність; відхилення; різниця
+** Learner notes
+*** note-s-1271320-002-001
+:PROPERTIES:
+:END:
+- UK :: У ширшому вживанні 誤差 означає невелику різницю між очікуваним і фактичним або між двома результатами. Вираз 誤差のようなもの применшує значущість розбіжності, але допустимість такої оцінки залежить від контексту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1271320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e573aa8f948c573f86959bb9ba8e4a902718402bfb159fffb0eb9922c1fb4f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: foutenmarge
+** Ukrainian glosses
+
+* Sense s-1271320-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 327960f98481ff30062655cd3b09967343960816cb4f986e8d497ebc6e334bf4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erreur
+** Ukrainian glosses
+
+* Sense s-1271320-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8d6aeadd7b663ee3698cb0859e9d8879b7974e9b9673ccc793906196c89731c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fehler
+*** en-s-1271320-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abweichung
+** Ukrainian glosses
+
+* Sense s-1271320-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 72b77cbf8ff1c4d71dfc80b251bf3cb400e9e4286ea642cbf5d951a8df67a5c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérési hiba
+*** en-s-1271320-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számítási hiba
+*** en-s-1271320-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hiba
+** Ukrainian glosses
+
+* Sense s-1271320-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dfdc2cdf6fc99f435ea4ce7b089106291b40b7de36f88f423a90cdc0b804f162
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: погрешность, отклонение (при вычислениях)
+** Ukrainian glosses
+
+* Sense s-1271320-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 31dabbc01e54a8919bdb1dea7e0be0ee50df7afd567a5ee897c149cfb1c512b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: napaka
+** Ukrainian glosses
+
+* Sense s-1271320-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 1de6809a0018c02fca649b63757e47f1980b8b61e1cd398e37ca2900d2f17556
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271320-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: error
+** Ukrainian glosses

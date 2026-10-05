@@ -1,0 +1,453 @@
+#+TITLE: 棄却
+#+JMDICT_ID: 1220660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ききゃく
+#+ROMAJI: kikyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1220660-001
+:PROPERTIES:
+:TEXT: 棄却
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Reading rd-1220660-001
+:PROPERTIES:
+:TEXT: ききゃく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf16
+
+* Sense s-1220660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f09b6e15b6168dc101ddf3b113f00553d45da467f6eb568858fa8ff046c492e4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- rejection
+- dismissal
+- turning down
+- abandoning
+- renunciation
+** Ukrainian glosses
+*** uk-s-1220660-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відхилення; відмова в задоволенні вимоги
+** Learner notes
+*** note-s-1220660-001-001
+:PROPERTIES:
+:END:
+- UK :: Формальне відхилення позову, скарги, пропозиції чи гіпотези. У судових текстах 棄却 та 却下 можуть мати різні процесуальні підстави; у статистиці 仮説を棄却する означає відхилити гіпотезу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1220660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 提案は棄却された。
+- READING :: ていあんはききゃくされた。
+- UK :: Пропозицію відхилили.
+- EN :: The proposal was rejected.
+- FOCUS :: 棄却
+*** ex-1220660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 裁判所は原告の請求を棄却した。
+- READING :: さいばんしょはげんこくのせいきゅうをききゃくした。
+- UK :: Суд відмовив у задоволенні вимоги позивача.
+- EN :: The court dismissed the plaintiff's claim.
+- FOCUS :: 棄却
+*** ex-1220660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 判決文を読み、請求が棄却された理由を一つずつ確認した。
+- READING :: はんけつぶんをよみ、せいきゅうがききゃくされたりゆうをひとつずつかくにんした。
+- UK :: Я прочитав рішення й послідовно перевірив причини відхилення вимоги.
+- EN :: I read the judgment and checked each reason for dismissing the claim.
+- FOCUS :: 棄却
+
+* Sense s-1220660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8859059f891de751ee4ecc1f8f7d281717e61be49d969f37e206f8240ce73db9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijzende beschikking
+*** en-s-1220660-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwerping
+*** en-s-1220660-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijzing
+*** en-s-1220660-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} rejectie
+*** en-s-1220660-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet-ontvankelijkverklaring
+*** en-s-1220660-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sepositie
+*** en-s-1220660-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sepot
+*** en-s-1220660-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijzend beschikken
+*** en-s-1220660-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwerpen
+*** en-s-1220660-002-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijzen
+*** en-s-1220660-002-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van de hand wijzen
+*** en-s-1220660-002-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} niet ontvankelijk
+*** en-s-1220660-002-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onontvankelijk verklaren
+*** en-s-1220660-002-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechtsingang weigeren
+*** en-s-1220660-002-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seponeren
+** Ukrainian glosses
+
+* Sense s-1220660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f2c4466f32506a6b32e2d6158ad6b4e6c7723ca8d286784a4cf7417d605c1df4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abandont
+*** en-s-1220660-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejet
+** Ukrainian glosses
+
+* Sense s-1220660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 706fb5eeb4e708fefbe53fef47879d7c9d91c0f5eb2817989ff773f046a85106
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abweisung (einer Klage o.Ä.)
+** Ukrainian glosses
+
+* Sense s-1220660-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4fe7226eb9efbb79116c6c4452c2c3bcb3964540e9d35806cf27fea425e76c28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verwerfen
+*** en-s-1220660-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zurückweisen
+** Ukrainian glosses
+
+* Sense s-1220660-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a008c34ed2e7daed73b283db2605896b919e98a4c7570a75cb70c341e37be480
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwerfen
+*** en-s-1220660-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zurückweisen
+** Ukrainian glosses
+
+* Sense s-1220660-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b37d22f6da7e87bee86c27dddaa48ac43d306ccba18795943ef97f6f1bdb6f32
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abweisen
+** Ukrainian glosses
+
+* Sense s-1220660-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ff544cef268bfa2de965010b2d2b8199a52a7f53ead9a6e9d4535c51edf59106
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elbocsátás
+*** en-s-1220660-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felmondás
+*** en-s-1220660-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megtagadás
+*** en-s-1220660-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jogfeladás
+** Ukrainian glosses
+
+* Sense s-1220660-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 89438c72f8e9ede48bac4ce78e977c7155b805dfde6d6c7f6541d84c0408df51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) отказ; отмена
+*** en-s-1220660-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} отказывать[ся], оставлять, бросать; отменять
+*** en-s-1220660-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (юр.) отклонение (иска)
+*** en-s-1220660-009-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} отклонять (иск)
+** Ukrainian glosses
+
+* Sense s-1220660-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 875da8ae128b16d8f8e84cf5ca84bb256a28d1ab66fa2435003809c438ddeb08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220660-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechazo
+*** en-s-1220660-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechace
+** Ukrainian glosses

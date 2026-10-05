@@ -1,0 +1,339 @@
+#+TITLE: 改札
+#+JMDICT_ID: 1200840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいさつ
+#+ROMAJI: kaisatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1200840-001
+:PROPERTIES:
+:TEXT: 改札
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf13
+** Reading rd-1200840-001
+:PROPERTIES:
+:TEXT: かいさつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf13
+
+* Sense s-1200840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 64e9debe23a50f8ad8256f086a35c96677cf0f1954c514ab0e93971673551342
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- examination of tickets
+** Ukrainian glosses
+*** uk-s-1200840-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перевірка квитків
+** Learner notes
+*** note-s-1200840-001-001
+:PROPERTIES:
+:END:
+- UK :: Суру-іменник =改札する= — перевіряти проїзні квитки. =検札= також перевірка, часто в поїзді; =改札= асоціюється зі станційним проходом. Не продаж квитків (=発券=).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1200840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅員が切符の改札をした。
+- READING :: えきいんがきっぷのかいさつをした。
+- UK :: Працівник станції перевірив квитки.
+- EN :: The station attendant checked the tickets.
+- FOCUS :: 改札
+*** ex-1200840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 改札が始まるまで、待合室で待った。
+- READING :: かいさつがはじまるまで、まちあいしつでまった。
+- UK :: До початку перевірки квитків ми чекали в залі очікування.
+- EN :: We waited in the waiting room until ticket inspection began.
+- FOCUS :: 改札
+*** ex-1200840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 自動で改札する仕組みが導入され、駅員の仕事も変化した。
+- READING :: じどうでかいさつするしくみがどうにゅうされ、えきいんのしごともへんかした。
+- UK :: Після запровадження автоматичної перевірки квитків змінилася й робота станційних працівників.
+- EN :: Automatic ticket checking was introduced, changing the attendants' work as well.
+- FOCUS :: 改札
+
+* Sense s-1200840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d39401e6503d1646f6b510c4140ea636b3bbdaac077bbf1cbb2f9f841a3bf264
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 改札口
+** English glosses
+- ticket gate
+- ticket barrier
+** Ukrainian glosses
+*** uk-s-1200840-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: турнікет; пункт квиткового контролю
+** Learner notes
+*** note-s-1200840-002-001
+:PROPERTIES:
+:END:
+- UK :: =改札を出る=, =改札で待つ= — місце проходу контролю, скорочено від =改札口=. =出口= ширше: вихід із будівлі може бути далеко від турнікета. Уточнення =改札の外= означає поза оплачуваною зоною.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1200840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0ecbc1725bd3dbb9e88fc3ad35bdfd5144fc58685c790d382336f24410e75295
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaats waar treinkaartjes worden gecontroleerd
+*** en-s-1200840-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitgang
+** Ukrainian glosses
+
+* Sense s-1200840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a54fb75f7f18ce88bcddffd27d625b4a1b65e94183221eb342a74ee28f36f036
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contrôle des billets
+** Ukrainian glosses
+
+* Sense s-1200840-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 250602709a3bfa11914e7b0f1160a9e1231964521c32fcab517b52748e3e8268
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrkarten kontrollieren
+*** en-s-1200840-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrkarten lochen
+*** en-s-1200840-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entwerten
+*** en-s-1200840-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrkartenkontrolle
+** Ukrainian glosses
+
+* Sense s-1200840-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ef5ecf8ab4fe6eea259207629e57133ade0e6bcde79a6b98b7bea3134cc9250d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: проверка билетов
+*** en-s-1200840-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} проверять билеты; компостировать билеты; собирать билеты (при выходе)
+** Ukrainian glosses
+
+* Sense s-1200840-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 50f182d1a8018016cf3f2a827cab319c2af1e2e027852715eff62e2ecc820f0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pregled vstopnic
+*** en-s-1200840-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pregled vozovnic
+** Ukrainian glosses
+
+* Sense s-1200840-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ed165582652bc8949cfbbfc4995cd4545550e854457c83963fdde65032fd3fbe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200840-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: billete
+*** en-s-1200840-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cupón
+*** en-s-1200840-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entrada
+*** en-s-1200840-008-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pase
+*** en-s-1200840-008-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tique
+*** en-s-1200840-008-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boleta
+*** en-s-1200840-008-007
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vale
+*** en-s-1200840-008-008
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volante
+** Ukrainian glosses

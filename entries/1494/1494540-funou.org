@@ -1,0 +1,584 @@
+#+TITLE: 不能
+#+JMDICT_ID: 1494540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふのう
+#+ROMAJI: funou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1494540-001
+:PROPERTIES:
+:TEXT: 不能
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1494540-001
+:PROPERTIES:
+:TEXT: ふのう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1494540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0bcfc3074c08adc72440b78b964324e0b4431d3c489413384c57854cca17cfb6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- impossible
+- incapable (of doing)
+- unable (to do)
+** Ukrainian glosses
+*** uk-s-1494540-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: неможливий; нездатний виконати
+** Learner notes
+*** note-s-1494540-001-001
+:PROPERTIES:
+:END:
+- UK :: Опис неможливості виконати дію: 使用不能, 修復不能. Не завжди особиста неспроможність людини; часте в сполуках про стан предмета або системи, де конкретна дія названа перед 不能.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1494540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この機械は使用不能だ。
+- READING :: このきかいはしようふのうだ。
+- UK :: Цю машину неможливо використовувати.
+- EN :: This machine is unusable.
+- FOCUS :: 不能
+*** ex-1494540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い部品は修復不能だった。
+- READING :: ふるいぶひんはしゅうふくふのうだった。
+- UK :: Стару деталь неможливо було відновити.
+- EN :: The old part could not be restored.
+- FOCUS :: 不能
+*** ex-1494540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 操作不能になった原因を調べるため、直前に変更した設定を確認した。
+- READING :: そうさふのうになったげんいんをしらべるため、ちょくぜんにへんこうしたせっていをかくにんした。
+- UK :: Щоб з'ясувати причину неможливості керування, я перевірив щойно змінені налаштування.
+- EN :: To investigate why it became impossible to operate, I checked the settings changed immediately beforehand.
+- FOCUS :: 不能
+
+* Sense s-1494540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8c2d54cc0921912ee2ced1f80607ce8d203e2c61a80f4fb9ae3c5e34ba64eb09
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- incompetence
+- inability
+** Ukrainian glosses
+*** uk-s-1494540-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: нездатність; неспроможність; недостатня спроможність
+** Learner notes
+*** note-s-1494540-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменникове значення про брак здатності щось виконати. Не тотожне лінощам чи небажанню; причина може бути об'єктивною або ситуаційною, а оцінка людини потребує обережного контексту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1494540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 173a850025954d4b6fa646fb45bab119ed25b5c26009a5030c3fd6dd0e00a3f6
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- インポテンツ
+** English glosses
+- impotence
+** Ukrainian glosses
+*** uk-s-1494540-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: імпотенція
+** Learner notes
+*** note-s-1494540-003-001
+:PROPERTIES:
+:END:
+- UK :: Окреме фізіологічне значення, збережене в JMdict. У сучасному нейтральному професійному описі частіше потрібен конкретніший термін; не слід застосовувати це значення до будь-якого технічного 使用不能 чи загальної нездатності.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1494540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ebc835580a66b15d1246d2cf2be99729057b56367b0aacb76250e80fc4876c4c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- having no solution (of an equation)
+** Ukrainian glosses
+*** uk-s-1494540-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відсутність розв'язку рівняння
+** Learner notes
+*** note-s-1494540-004-001
+:PROPERTIES:
+:END:
+- UK :: Математичне значення про рівняння, для якого немає розв'язку за заданих умов. Не те, що учень просто не знайшов відповіді; відрізняється від 不定, де розв'язок не є єдиним у відповідній системі опису.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1494540-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5a522e2ef850a60e166df8223d7b414eb8356c6e4c72ac014e13ea23986c4a5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onmogelijkheid
+*** en-s-1494540-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onvermogen
+** Ukrainian glosses
+
+* Sense s-1494540-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1f04a8565c1e8c84fca04333d250c28c3973c303f794d19fad4639510e69233a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impotentie
+** Ukrainian glosses
+
+* Sense s-1494540-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5137121e112527a03ec3f3ab560442eea30aeae84c0c567ffdf4b80f72ab4e92
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onmogelijk
+*** en-s-1494540-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ondoenlijk
+** Ukrainian glosses
+
+* Sense s-1494540-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 262888b86814bb5ab8a775992f6ce5399cf922be26c310aa72477f322bf23619
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impotent
+** Ukrainian glosses
+
+* Sense s-1494540-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d987143173fcba1d9c9fc0d5e25ded9220fe69a3c5cdd5509d7b99c69d3a4250
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impossibilité
+*** en-s-1494540-009-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impuissance
+*** en-s-1494540-009-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: incapacité
+*** en-s-1494540-009-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: point faible
+** Ukrainian glosses
+
+* Sense s-1494540-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 1243b1b4d58d2998d37f4fa41d076bcd928fe718babf704953926d645347dced
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unvermögen
+*** en-s-1494540-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unfähigkeit
+** Ukrainian glosses
+
+* Sense s-1494540-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: eff670849262d471bf07002ff2a285c1a5edfe608f37424d4378617dc300f68f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unmöglichkeit
+*** en-s-1494540-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Untauglichkeit
+** Ukrainian glosses
+
+* Sense s-1494540-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 8c1d10b34af96b1898d51ae57df85869567f712c564e223a31809da1e0da9dd3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Impotenz
+*** en-s-1494540-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeugungsunfähigkeit
+** Ukrainian glosses
+
+* Sense s-1494540-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 6c852df01b76d27d6b0b5085402eb4db725c20b396ad0ec423b03bf8e221ea38
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unlösbarkeit (einer Gleichung)
+*** en-s-1494540-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unmöglich
+*** en-s-1494540-013-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unfähig
+*** en-s-1494540-013-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impotent
+** Ukrainian glosses
+
+* Sense s-1494540-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 3512297332527a4d093422bf471cac3ec917186669396a8a9ea6ba80219c71cc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hozzá nem értés
+*** en-s-1494540-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illetéktelenség
+*** en-s-1494540-014-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elégtelenség
+*** en-s-1494540-014-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eredménytelenség
+*** en-s-1494540-014-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hatástalanság
+*** en-s-1494540-014-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szakszerűtlenség
+*** en-s-1494540-014-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hülyeség
+*** en-s-1494540-014-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marhaság
+** Ukrainian glosses
+
+* Sense s-1494540-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 97bc22a28fde5256694b6bbcc8316e30cca92ae06accc5e2dac9c4b08dbe9ccb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) невозможность, неразрешимость
+*** en-s-1494540-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) неспособность
+** Ukrainian glosses
+
+* Sense s-1494540-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: e21d78d5b7924760add0da9a0c30b9cd81ed6d8aefed715c0321393505af6795
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-016-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nesposobnost
+*** en-s-1494540-016-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pomanjkljivost
+** Ukrainian glosses
+
+* Sense s-1494540-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 54a030388ba78891f103d0c3f655cb84bc987c606e9c84110d7c9c6143a03cc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494540-017-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: incapacidad
+*** en-s-1494540-017-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: incompetencia
+** Ukrainian glosses

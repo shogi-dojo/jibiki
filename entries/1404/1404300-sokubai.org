@@ -1,0 +1,171 @@
+#+TITLE: 即売
+#+JMDICT_ID: 1404300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そくばい
+#+ROMAJI: sokubai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1404300-001
+:PROPERTIES:
+:TEXT: 即売
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1404300-001
+:PROPERTIES:
+:TEXT: そくばい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+
+* Sense s-1404300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8e46b78d9e55c310026c309ebed07bb8ebf265ae6ff2e240f2e9d0a5a1a60829
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- selling on the spot
+** Ukrainian glosses
+*** uk-s-1404300-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: продаж на місці; безпосередній продаж на заході
+** Learner notes
+*** note-s-1404300-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає продавати товари безпосередньо там, де їх представлено: 即売会. Не обов'язково розпродаж зі знижкою і не просто негайна оплата; місце та формат продажу є головною ознакою.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1404300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会場で作品を即売した。
+- READING :: かいじょうでさくひんをそくばいした。
+- UK :: Твори продавали безпосередньо на заході.
+- EN :: The works were sold on the spot at the venue.
+- FOCUS :: 即売
+*** ex-1404300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 本の即売会に行った。
+- READING :: ほんのそくばいかいにいった。
+- UK :: Я пішов на ярмарок із продажем книжок.
+- EN :: I went to a book sales event.
+- FOCUS :: 即売
+*** ex-1404300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 展示だけの品と即売できる品が分かるように、別々の札を付けた。
+- READING :: てんじだけのしなとそくばいできるしながわかるように、べつべつのふだをつけた。
+- UK :: Ми поставили різні таблички, щоб розрізняти виставкові предмети й ті, що можна купити на місці.
+- EN :: We attached different labels to distinguish display-only items from those available for sale on the spot.
+- FOCUS :: 即売
+
+* Sense s-1404300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bb82febd1d6d54969aa5e3b1b96864b7aae21206a04cb820a4f93ffec08d9f9d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1404300-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ter plekke verkopen
+*** en-s-1404300-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkoop ter plekke
+** Ukrainian glosses
+
+* Sense s-1404300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de8669d7ec1454816fd8f90c004d2e9c8a79b8ecef580337dc9b892fab6f1545
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1404300-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf der Stelle verkaufen
+*** en-s-1404300-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verkauf auf der Stelle
+** Ukrainian glosses
+
+* Sense s-1404300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 92ba191b06b4109357d981d511753eb9106a649644b07fb76e736977f58dc368
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1404300-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: продажа на месте
+*** en-s-1404300-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} продавать на месте (тут же)
+** Ukrainian glosses

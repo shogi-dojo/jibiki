@@ -1,0 +1,429 @@
+#+TITLE: 円柱
+#+JMDICT_ID: 1176010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんちゅう
+#+ROMAJI: enchuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1176010-001
+:PROPERTIES:
+:TEXT: 円柱
+:END:
+*** Priorities
+- news2
+- nf30
+- spec2
+** Written form wf-1176010-002
+:PROPERTIES:
+:TEXT: 丸柱
+:END:
+** Reading rd-1176010-001
+:PROPERTIES:
+:TEXT: えんちゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 円柱
+*** Priorities
+- news2
+- nf30
+- spec2
+** Reading rd-1176010-002
+:PROPERTIES:
+:TEXT: まるばしら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1176010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eec30863f7e1af4fc37dee00b5c5c570b82c288d022559cd573d354f07f44040
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 円柱
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- column
+- shaft
+- cylinder
+** Ukrainian glosses
+*** uk-s-1176010-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: циліндр; циліндрична форма
+** Learner notes
+*** note-s-1176010-001-001
+:PROPERTIES:
+:END:
+- UK :: Геометричне значення про тіло з круглими основами, часто 円柱の体積. Не плутати з 円錐 — конусом; слово може описувати форму предмета, не обов'язково архітектурну опору.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1176010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 紙で円柱を作った。
+- READING :: かみでえんちゅうをつくった。
+- UK :: Я зробив циліндр із паперу.
+- EN :: I made a cylinder out of paper.
+- FOCUS :: 円柱
+*** ex-1176010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 円柱の体積を求めた。
+- READING :: えんちゅうのたいせきをもとめた。
+- UK :: Я обчислив об'єм циліндра.
+- EN :: I calculated the volume of the cylinder.
+- FOCUS :: 円柱
+*** ex-1176010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 円柱と円錐の模型を並べ、底の形と上の部分の違いを比べた。
+- READING :: えんちゅうとえんすいのもけいをならべ、そこのかたちとうえのぶぶんのちがいをくらべた。
+- UK :: Я поставив поруч моделі циліндра й конуса та порівняв їхні основи й верхні частини.
+- EN :: I placed cylinder and cone models side by side and compared their bases and upper parts.
+- FOCUS :: 円柱
+
+* Sense s-1176010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0691d6d2fb381fd74664d8e66608f12abc75c7742db0bf7ff89be3ecb570c14f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- usu. まるばしら
+*** Cross-references
+- 角柱・2
+** English glosses
+- round pillar (esp. in buildings)
+** Ukrainian glosses
+*** uk-s-1176010-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кругла колона; циліндричний стовп
+** Learner notes
+*** note-s-1176010-002-001
+:PROPERTIES:
+:END:
+- UK :: Архітектурне вживання про колону з круглим перерізом. Контекст будівлі відділяє його від геометричної моделі; 柱 ширше називає стовп будь-якої форми, тоді як 円 уточнює округлість.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1176010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1a0f64c2a4e8627ec8fee5e5c0a87023f0c389cf9209de6d1cb4e183eafb7312
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rolronde zuil
+*** en-s-1176010-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kolom
+*** en-s-1176010-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pilaar
+*** en-s-1176010-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pijler
+*** en-s-1176010-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schacht
+*** en-s-1176010-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} cilinder
+*** en-s-1176010-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} rol
+** Ukrainian glosses
+
+* Sense s-1176010-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f2c50c81a9151b6839e5dbb2edf28d3137aad837310add812adfc128d3c7a9a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: colonne
+*** en-s-1176010-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cylindre
+** Ukrainian glosses
+
+* Sense s-1176010-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c15de6f71035625993868944fe06f6f948ec344ffffa315c913dd13348dd52e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Säule
+*** en-s-1176010-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kolumne
+*** en-s-1176010-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Walze
+** Ukrainian glosses
+
+* Sense s-1176010-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e033f7fd9b888a9a80addae15f270e3277e21aeeed3d3a767ad06dc60ffc00ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreiszylinder
+*** en-s-1176010-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: runde Säule
+** Ukrainian glosses
+
+* Sense s-1176010-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9e9a9d79dbc76f3743b10ca8d5425658565f376b4ce83ab19936cd9416e1d5ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: akna
+*** en-s-1176010-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fénysugár
+*** en-s-1176010-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hímvessző
+*** en-s-1176010-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kocsirúd
+*** en-s-1176010-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyél
+*** en-s-1176010-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyíl
+*** en-s-1176010-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyílvessző
+*** en-s-1176010-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szár
+*** en-s-1176010-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: törzs
+*** en-s-1176010-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: henger
+** Ukrainian glosses
+
+* Sense s-1176010-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 237196942b3ff0ac0ee425b842721f97c9eb350590533254eed74b8e3c9a491c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (стр.) колонна
+** Ukrainian glosses
+
+* Sense s-1176010-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 10f71c1dbe99eb23e8f13deb013810dc3508bb963ab3dd23fce6d22b67396934
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1176010-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: columna
+*** en-s-1176010-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cilindro
+** Ukrainian glosses

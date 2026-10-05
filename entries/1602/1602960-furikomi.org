@@ -1,0 +1,283 @@
+#+TITLE: 振込
+#+JMDICT_ID: 1602960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふりこみ
+#+ROMAJI: furikomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1602960-001
+:PROPERTIES:
+:TEXT: 振込
+:END:
+*** Priorities
+- spec1
+** Written form wf-1602960-002
+:PROPERTIES:
+:TEXT: 振込み
+:END:
+*** Priorities
+- spec1
+** Written form wf-1602960-003
+:PROPERTIES:
+:TEXT: 振り込み
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1602960-001
+:PROPERTIES:
+:TEXT: ふりこみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+- spec1
+
+* Sense s-1602960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a80e45bfd90df232d766c99ec3c9f3441300bacd47933f8271da953cbb7dc7e7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- payment made via bank deposit transfer
+** Ukrainian glosses
+*** uk-s-1602960-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: банківський переказ
+** Learner notes
+*** note-s-1602960-001-001
+:PROPERTIES:
+:END:
+- UK :: 振込 — перерахування грошей на банківський рахунок: 振込で支払う, 振込先. Часто пишуть 振り込み; іменникова форма пов'язана з 振り込む. Не будь-яка передача готівки. 手数料 чи час зарахування визначають умови операції, а не саме слово.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1602960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 支払いは振込にした。
+- READING :: しはらいはふりこみにした。
+- UK :: Для оплати я обрав банківський переказ.
+- EN :: I chose bank transfer for payment.
+- FOCUS :: 振込
+*** ex-1602960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 振込先の名前を確認した。
+- READING :: ふりこみさきのなまえをかくにんした。
+- UK :: Я перевірив ім'я одержувача переказу.
+- EN :: I checked the transfer recipient's name.
+- FOCUS :: 振込先
+*** ex-1602960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 振込の記録と請求書の金額を照合し、担当者は支払いの確認欄を更新した。
+- READING :: ふりこみのきろくとせいきゅうしょのきんがくをしょうごうし、たんとうしゃはしはらいのかくにんらんをこうしんした。
+- UK :: Зіставивши запис переказу із сумою рахунку, працівник оновив позначку перевірки оплати.
+- EN :: The staff member matched the transfer record against the invoice amount and updated the payment check field.
+- FOCUS :: 振込
+
+* Sense s-1602960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9b21ea80b6d1e224011e5ec7a6c6c211bcffa0b382fc83329f10805db9f4ffb7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- mahj
+*** Cross-references
+- 振り込む・2
+** English glosses
+- discarding a tile that becomes another player's winning tile
+** Ukrainian glosses
+*** uk-s-1602960-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: скидання плитки, що дає супернику перемогу в маджонґу
+** Learner notes
+*** note-s-1602960-002-001
+:PROPERTIES:
+:END:
+- UK :: У маджонґу 振込 означає скинути плитку, яку інший гравець використає для виграшу. Це ігровий сенс, не банківська операція. Контекст плиток і раунду відрізняє його від переказу; також пов'язане з терміном 放銃.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1602960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 939bdb43a8fb6fcbb1a193ceda856de9986f2e459a103f211a0db135df14a2b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: storting
+*** en-s-1602960-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overschrijving
+*** en-s-1602960-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overmaking
+*** en-s-1602960-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overboeking
+*** en-s-1602960-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transfer
+** Ukrainian glosses
+
+* Sense s-1602960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d79de5c02080f10c8f9962d6a0f0801815bb1e0d6cb81c8833e5f624aac177ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {麻雀で} het wegslaan van een mahjongsteen met promotiekansen
+** Ukrainian glosses
+
+* Sense s-1602960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a875bbd1516c0452f81bec27b0f173b2f775243daef9bb6dd352f6a53b805898
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einzahlung
+*** en-s-1602960-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überweisung
+** Ukrainian glosses
+
+* Sense s-1602960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9236a032945531a0ff532185c625d4e77077b293077aa742181fb0eb3a3a5795
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ablegen (eines Steines)
+** Ukrainian glosses
+
+* Sense s-1602960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 04ff7b49e7c3c4327edd0a9d3dcf6dee689176043bf8a707765cfe7a4e421264
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: banki átutalás
+** Ukrainian glosses
+
+* Sense s-1602960-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0efb9f4587f1c385fa4caaba22c8b3247082619f48d4a25945b8c4eb0569f36a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1602960-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pago realizado a través de transferencia bancaria
+** Ukrainian glosses

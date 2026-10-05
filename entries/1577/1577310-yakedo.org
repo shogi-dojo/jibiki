@@ -1,0 +1,497 @@
+#+TITLE: 火傷
+#+JMDICT_ID: 1577310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やけど
+#+ROMAJI: yakedo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1577310-001
+:PROPERTIES:
+:TEXT: 火傷
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf33
+** Written form wf-1577310-002
+:PROPERTIES:
+:TEXT: 熱傷
+:END:
+*** Information
+- sK
+** Reading rd-1577310-001
+:PROPERTIES:
+:TEXT: やけど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- ichi1
+- news2
+- nf33
+** Reading rd-1577310-002
+:PROPERTIES:
+:TEXT: ヤケド
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1577310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bcd9262417e0a74ddc3e60004c47a7687b13b7ebce61dba67b16922b4986bd9f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- burn
+- scald
+** Ukrainian glosses
+*** uk-s-1577310-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: опік; обпечення
+** Learner notes
+*** note-s-1577310-001-001
+:PROPERTIES:
+:END:
+- UK :: Зазвичай =やけど=. =火傷をする= — отримати опік, =熱湯で火傷する= — обпектися окропом. Охоплює не лише вогонь; =傷= ширше означає рану. Не плутайте читання =やけど= з буквальним читанням окремих ієрогліфів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1577310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 熱い鍋に触って、やけどをした。
+- READING :: あついなべにさわって、やけどをした。
+- UK :: Я торкнувся гарячої каструлі й обпікся.
+- EN :: I touched a hot pot and burned myself.
+- FOCUS :: やけど
+*** ex-1577310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 腕のやけどが治るまで、作業を休んだ。
+- READING :: うでのやけどがなおるまで、さぎょうをやすんだ。
+- UK :: Я не працював, доки не загоївся опік на руці.
+- EN :: I stopped working until the burn on my arm healed.
+- FOCUS :: やけど
+*** ex-1577310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 蒸気でやけどをした経験から、ふたを開けるときは慎重になった。
+- READING :: じょうきでやけどをしたけいけんから、ふたをあけるときはしんちょうになった。
+- UK :: Після опіку парою я став обережно відкривати кришку.
+- EN :: After being burned by steam, I became cautious when opening lids.
+- FOCUS :: やけど
+
+* Sense s-1577310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7843adc8b5a22fd39332ee9666d710426eec0dfdc3a250f3742d52d92da0fd4c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+*** en-s-1577310-002-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: fig
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: getting one's fingers burned (e.g. poor investment, mixing with the wrong people)
+** Ukrainian glosses
+*** uk-s-1577310-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: обпектися (переносно); зазнати неприємних наслідків
+** Learner notes
+*** note-s-1577310-002-001
+:PROPERTIES:
+:END:
+- UK :: =投資でやけどする= — постраждати через ризиковане рішення. Переносний образ болісного досвіду, не будь-яка невдача; фізичний опік визначається контекстом тепла чи шкіри.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1577310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aa3bff12ea093564f295801f3f4d90f09abc373015bf2f3e3a0ba0754b40d99e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brandwond
+*** en-s-1577310-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbranding
+*** en-s-1577310-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenging
+*** en-s-1577310-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich branden
+*** en-s-1577310-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich schroeien
+*** en-s-1577310-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich verbranden
+** Ukrainian glosses
+
+* Sense s-1577310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 841725f53575f7088a98fdd0a403f9cc27d11c472ec54c3f3230dbcd7a6ca02b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brûlure
+** Ukrainian glosses
+
+* Sense s-1577310-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 220dd21bb98510cc4b672b1a48d378dd67a755a181a00fd49abd106dc2c7fd68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verbrennen
+*** en-s-1577310-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verbrühen
+*** en-s-1577310-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brandwunde
+*** en-s-1577310-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbrennung
+*** en-s-1577310-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbrühung
+*** en-s-1577310-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kombustion
+*** en-s-1577310-005-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ambustion
+*** en-s-1577310-005-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Combustio
+*** en-s-1577310-005-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ambustio
+** Ukrainian glosses
+
+* Sense s-1577310-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3557b3402a3992da5f26884935358392b70e6feac4b60cff694ed53f66834e53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cigarettázás
+*** en-s-1577310-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: füstölés
+*** en-s-1577310-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiégetés
+*** en-s-1577310-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megégés
+*** en-s-1577310-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staub
+*** en-s-1577310-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forrázás
+*** en-s-1577310-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forrázási seb
+*** en-s-1577310-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: skandináv dalnok
+*** en-s-1577310-006-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: égési sérülés
+** Ukrainian glosses
+
+* Sense s-1577310-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e06d5ffa272a0369965ccbc1d4ef0ad68f3290d5942bbf33a0eb003ed2c085c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ожёг
+*** en-s-1577310-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ожог
+*** en-s-1577310-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} обжечься, получить ожог
+** Ukrainian glosses
+
+* Sense s-1577310-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e952f118235d0c8a6608ae9def58839f7353ee1b3ba1f36fdbb6fcfc1c842f83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opeči se
+*** en-s-1577310-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opeklina
+** Ukrainian glosses
+
+* Sense s-1577310-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 672ecc5043ea85688cbb64b0b8d8cfe9e1399146e4b27afa51e58e23da4708ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quemar
+*** en-s-1577310-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: escaldar
+** Ukrainian glosses
+
+* Sense s-1577310-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 7dfa76895b1b815592f48551def005e660dd9690142c7447f63a67211264f8d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577310-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bränna sig
+** Ukrainian glosses

@@ -1,0 +1,432 @@
+#+TITLE: 更ける
+#+JMDICT_ID: 1279290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふける
+#+ROMAJI: fukeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1279290-001
+:PROPERTIES:
+:TEXT: 更ける
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf47
+** Written form wf-1279290-002
+:PROPERTIES:
+:TEXT: 深ける
+:END:
+*** Information
+- rK
+** Reading rd-1279290-001
+:PROPERTIES:
+:TEXT: ふける
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf47
+
+* Sense s-1279290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 492cdae916e819de6715569d36f209c438078623893ccbbe024e1eba7cfff256
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to get late
+- to advance
+- to wear on
+** Ukrainian glosses
+*** uk-s-1279290-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пізнішати
+*** uk-s-1279290-001-002
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: заглиблюватися (у ніч, пору року)
+*** uk-s-1279290-001-003
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: добігати кінця
+** Learner notes
+*** note-s-1279290-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово ichidan на ~る~, що описує настання пізньої ночі або пізньої пори року. Найчастіше вживається у сполученні ~夜が更ける~ (настає глупа ніч, пізнішає), а також ~秋が更ける~ (настає пізня осінь). Не плутати з омонімами ~老ける~ (старіти) та ~耽る~ (віддаватися чомусь).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1279290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夜(よ)[が]更(ふ)けて、周(まわ)り[が]静(しず)かになりました。
+- READING :: よ が ふけて、まわり が しずか に なりました。
+- UK :: Настала глупа ніч, і навколо стало тихо.
+- EN :: The night wore on, and the surroundings grew quiet.
+- FOCUS :: 更けて
+*** ex-1279290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 話(はなし)[に]夢中(むちゅう)[になっているうちに]、夜(よ)[が]更(ふ)けてしまった。
+- READING :: はなし に むちゅう に なって いる うちに、よ が ふけて しまった。
+- UK :: Поки ми були захоплені розмовою, ніч пізно споночіла.
+- EN :: While we were absorbed in our conversation, the night wore on.
+- FOCUS :: 更けてしまった
+*** ex-1279290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夜(よ)[が]更(ふ)ける[まで]語(かた)り合(あ)った[ことは]、良(よ)[い]思(おも)い出(で)[です]。
+- READING :: よ が ふける まで かたりあった こと は、よい おもいで です。
+- UK :: Те, як ми розмовляли до пізньої ночі, є приємним спогадом.
+- EN :: Talking together until late at night is a fond memory.
+- FOCUS :: 更けるまで
+
+* Sense s-1279290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 77db26c2fedefa53b8b762b96c8e9ab9fc9b80691f226fe0faaf1ac70cdf190b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laat worden
+*** en-s-1279290-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ver voortschrijden
+*** en-s-1279290-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (tot ver in de tijd) vorderen
+*** en-s-1279290-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstrijken
+** Ukrainian glosses
+
+* Sense s-1279290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4e7f1f740b042719080c0cc8630b3cef5b6ed21154f25db28d6fa2477df67b7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avancer
+*** en-s-1279290-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: s'écouler
+*** en-s-1279290-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se faire tard
+** Ukrainian glosses
+
+* Sense s-1279290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8fe02d8065f0a32b24c226bac581fa9852cf61bb3a4bd66182030ef476bc429f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spät werden
+*** en-s-1279290-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf Mitternacht zugehen
+** Ukrainian glosses
+
+* Sense s-1279290-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 35eee39bd2d2cac60ef8da165ea336c2870f82e6f8eaef866adbf9dc9e9d30a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in der Jahreszeit spät werden
+** Ukrainian glosses
+
+* Sense s-1279290-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 54aa35fb771c83af32118d8d61e8e4d202cb07976b68e3863ea68d9221f6bcd4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in der Brunst sein
+** Ukrainian glosses
+
+* Sense s-1279290-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c9ae9367400dddda61f94ec0d4f29642cba01c617f2cdd7d18dc529e42fc8f35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előad
+*** en-s-1279290-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előbbre jut
+*** en-s-1279290-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előlegez
+*** en-s-1279290-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előnyomul
+*** en-s-1279290-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előre jut
+*** en-s-1279290-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előrehoz
+*** en-s-1279290-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előretart
+*** en-s-1279290-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elősegít
+*** en-s-1279290-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölcsönad
+*** en-s-1279290-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rangban előlép
+*** en-s-1279290-007-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lassan elmúlik
+** Ukrainian glosses
+
+* Sense s-1279290-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: dea825cc85a9498fb584d8bb4b23c54694caf310576113b5af995a0821a21934
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: темнеть (о ночи); усиливаться (о явлениях, присущих временам года); ((тк.) 深ける) углубляться (о житейском опыте)
+** Ukrainian glosses
+
+* Sense s-1279290-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 8c06ba9acf3c827dc11c754f88827643756c32e9b937dd061ea998d049a69e28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti pozen
+*** en-s-1279290-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: napredovati {čas}
+** Ukrainian glosses
+
+* Sense s-1279290-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 439d25ea4f4b8cc121ef276f5fde02fe926b54ef30dd3325c3737b5f1d93e28f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279290-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hacerse tarde
+*** en-s-1279290-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avanzar (tiempo)
+*** en-s-1279290-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pasar (tiempo)
+** Ukrainian glosses

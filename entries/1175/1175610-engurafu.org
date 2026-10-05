@@ -1,0 +1,138 @@
+#+TITLE: 円グラフ
+#+JMDICT_ID: 1175610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんグラフ
+#+ROMAJI: engurafu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1175610-001
+:PROPERTIES:
+:TEXT: 円グラフ
+:END:
+** Reading rd-1175610-001
+:PROPERTIES:
+:TEXT: えんグラフ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1175610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 37cdbe8dd91c5891cd2c1afeb934dd6711d3b89964b5e46faf64d09fa66520b6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pie graph
+- pie chart
+** Ukrainian glosses
+*** uk-s-1175610-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кругова діаграма
+** Learner notes
+*** note-s-1175610-001-001
+:PROPERTIES:
+:END:
+- UK :: 円グラフ подає частки цілого секторами круга; типові 円グラフで示す та 円グラフを作る. Для правильного читання важливо знати, що становить усе коло; порівняння окремих абсолютних величин частіше роблять на 棒グラフ.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1175610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 円グラフを描いた。
+- READING :: えんグラフをかいた。
+- UK :: Накреслили кругову діаграму.
+- EN :: We drew a pie chart.
+- FOCUS :: 円グラフ
+*** ex-1175610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 費用の内訳を円グラフにした。
+- READING :: ひようのうちわけをえんグラフにした。
+- UK :: Структуру витрат подали круговою діаграмою.
+- EN :: We turned the breakdown of expenses into a pie chart.
+- FOCUS :: 円グラフ
+*** ex-1175610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 円グラフを見ると、家賃が支出の半分を占めている。
+- READING :: えんグラフをみると、やちんがししゅつのはんぶんをしめている。
+- UK :: На круговій діаграмі видно, що оренда становить половину витрат.
+- EN :: The pie chart shows that rent accounts for half the spending.
+- FOCUS :: 円グラフ
+
+* Sense s-1175610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d875de7110c8566fcf231908626119b3927f026b24630c3a0a1aeea45fe1d370
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1175610-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cirkeldiagram
+*** en-s-1175610-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: taartdiagram
+** Ukrainian glosses
+
+* Sense s-1175610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d3df7a5ae5034e7eaa7c4c40e95b6c59a379229f6a932c09c402261d7fdf7c73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1175610-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tortendiagramm
+*** en-s-1175610-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreisdiagramm
+** Ukrainian glosses

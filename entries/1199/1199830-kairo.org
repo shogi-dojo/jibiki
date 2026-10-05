@@ -1,0 +1,386 @@
+#+TITLE: 回路
+#+JMDICT_ID: 1199830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいろ
+#+ROMAJI: kairo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1199830-001
+:PROPERTIES:
+:TEXT: 回路
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Reading rd-1199830-001
+:PROPERTIES:
+:TEXT: かいろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1199830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e5dd5acbbb704736e587fc20f97024ce99cbbcba02f7f5c17c5aa7632e461d56
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- elec
+** English glosses
+- circuit
+** Ukrainian glosses
+*** uk-s-1199830-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: електричне коло; схема
+** Learner notes
+*** note-s-1199830-001-001
+:PROPERTIES:
+:END:
+- UK :: 回路 в електротехніці означає шлях з'єднання компонентів, яким може проходити струм; типові 電気回路 та 回路を組む. Переклад «схема» доречний для будови кола, але сам його кресленик точніше 回路図.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1199830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 回路を調べた。
+- READING :: かいろをしらべた。
+- UK :: Дослідили електричне коло.
+- EN :: We examined the circuit.
+- FOCUS :: 回路
+*** ex-1199830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電池と電球で簡単な回路を作った。
+- READING :: でんちとでんきゅうでかんたんなかいろをつくった。
+- UK :: Із батарейки та лампочки склали просте коло.
+- EN :: We made a simple circuit with a battery and a light bulb.
+- FOCUS :: 回路
+*** ex-1199830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 回路の一部が切れていたため、電流が流れなかった。
+- READING :: かいろのいちぶがきれていたため、でんりゅうがながれなかった。
+- UK :: Струм не проходив, бо частина кола була розірвана.
+- EN :: No current flowed because part of the circuit was broken.
+- FOCUS :: 回路
+
+* Sense s-1199830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 51d7ce747073bb38a7d4d7b4d5e3a57af2768e1ab9bf32c949ca958557a7b50b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- biol
+** English glosses
+- cycle (e.g. Krebs cycle)
+** Ukrainian glosses
+*** uk-s-1199830-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: цикл біохімічних реакцій
+** Learner notes
+*** note-s-1199830-002-001
+:PROPERTIES:
+:END:
+- UK :: У біохімії 回路 позначає послідовність реакцій, що утворює замкнений цикл, наприклад クエン酸回路. Тут це не електричний провід: процес повертається до вихідного етапу через кілька перетворень.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1199830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a6b16ba3078586ec5e66dd0c467aa454addbce04f01fd09ab69107654f06a90d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cycle
+- loop
+** Ukrainian glosses
+*** uk-s-1199830-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: цикл; замкнене коло; повторюваний шлях
+** Learner notes
+*** note-s-1199830-003-001
+:PROPERTIES:
+:END:
+- UK :: Ширше 回路 описує петлю або повторюваний шлях, зокрема 思考の回路 «хід мислення». Таке вживання переносить образ з'єднаних етапів; маршрут разової поїздки зазвичай називають 経路, а не 回路.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1199830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 85258ef60c553b09039e22372db8fccc3ac52283a5b03661e7bbdb9a29f9ca14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} stroomkring
+*** en-s-1199830-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomketen
+*** en-s-1199830-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schakeling
+*** en-s-1199830-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: circuit
+** Ukrainian glosses
+
+* Sense s-1199830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4156f5c2e49a95f6ce8ea0bb068bedc2c0236f14a0be8bd266849dd6fd8793a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: circuit (électrique)
+** Ukrainian glosses
+
+* Sense s-1199830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2bc21cd35af2eb61e35248a46e55f38bb0e9db8395ec34d0779ea80fc1ca1b0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromkreis
+*** en-s-1199830-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schaltung
+*** en-s-1199830-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leitung
+** Ukrainian glosses
+
+* Sense s-1199830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3611e9b85184d3e11b4c3b637d2efb4124f177cfc6d880602fd07a5c730e20c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zyklus
+** Ukrainian glosses
+
+* Sense s-1199830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2c7d6d12d19db47399ad645aa411fed76943cf5f5433d1a6463b09f36c700689
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zirkel
+*** en-s-1199830-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw., das wieder denselben Weg beschreitet
+** Ukrainian glosses
+
+* Sense s-1199830-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0b0e00a219507eeb0edda83c588733eb3b14577889871c1c875bdba40ed9bdcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramkör
+*** en-s-1199830-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramkör
+*** en-s-1199830-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: körforgás
+*** en-s-1199830-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zárt görbe vonal
+** Ukrainian glosses
+
+* Sense s-1199830-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a9f0fb76dd616e073cae58eb1f69dedf0106e4e47cc20c0d3aa377cf6935efb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) цепь, контур; система
+** Ukrainian glosses
+
+* Sense s-1199830-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: ae90987a8c16b48ba69d0886da7889180a290c826cfab95f3174851bbb8bcb24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: električno vezje
+** Ukrainian glosses
+
+* Sense s-1199830-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 35b160510058e03893c3a6e82ab06a0c12591860732a9ef01d29f1937b48c66c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199830-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: circuito (eléctrico)
+** Ukrainian glosses

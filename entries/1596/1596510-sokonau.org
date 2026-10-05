@@ -1,0 +1,675 @@
+#+TITLE: 損なう
+#+JMDICT_ID: 1596510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そこなう
+#+ROMAJI: sokonau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1596510-001
+:PROPERTIES:
+:TEXT: 損なう
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Written form wf-1596510-002
+:PROPERTIES:
+:TEXT: 害う
+:END:
+*** Information
+- rK
+** Written form wf-1596510-003
+:PROPERTIES:
+:TEXT: 損う
+:END:
+*** Information
+- io
+** Reading rd-1596510-001
+:PROPERTIES:
+:TEXT: そこなう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf16
+
+* Sense s-1596510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa61d00b9da7203be328d9ec86c03770550a3226f4d21d1c2acc32954f70d585
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to harm
+- to hurt
+- to injure
+- to damage
+- to spoil
+- to mar
+- to ruin
+** Ukrainian glosses
+*** uk-s-1596510-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: шкодити; псувати; підривати
+** Learner notes
+*** note-s-1596510-001-001
+:PROPERTIES:
+:END:
+- UK :: 損なう — перехідне дієслово для погіршення якості, стану чи цінності: 信頼を損なう, 景観を損なう. На відміну від 壊す, не обов'язково фізично руйнує предмет; може підривати довіру або гармонію. Часто офіційний чи письмовий стиль, з об'єктом を.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1596510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その発言は信頼を損なった。
+- READING :: そのはつげんはしんらいをそこなった。
+- UK :: Це висловлювання підірвало довіру.
+- EN :: That remark damaged trust.
+- FOCUS :: 信頼を損なった
+*** ex-1596510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大きな看板が町の景観を損なっている。
+- READING :: おおきなかんばんがまちのけいかんをそこなっている。
+- UK :: Велика вивіска псує вигляд міста.
+- EN :: The large sign spoils the townscape.
+- FOCUS :: 景観を損なっている
+*** ex-1596510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 読みやすさを損なわないよう、情報を追加する際には文章全体の流れも確認した。
+- READING :: よみやすさをそこなわないよう、じょうほうをついかするさいにはぶんしょうぜんたいのながれもかくにんした。
+- UK :: Додаючи інформацію, я перевірив також загальний плин тексту, щоб не погіршити читабельність.
+- EN :: When adding information, I checked the overall flow so as not to impair readability.
+- FOCUS :: 損なわない
+
+* Sense s-1596510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b25056f47e31c6d88385eda42bf310ea29893940edd6de32cbd552965317e90a
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+- v5u
+*** Sense information
+- after the -masu stem of a verb
+** English glosses
+- to fail to do
+- to do amiss
+- to miss one's opportunity to do
+** Ukrainian glosses
+*** uk-s-1596510-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: не зуміти зробити; пропустити можливість
+** Learner notes
+*** note-s-1596510-002-001
+:PROPERTIES:
+:END:
+- UK :: Після основи дієслова 損なう означає невдале виконання або втрачену нагоду: 聞き損なう, 買い損なう. Це словотвірне значення, а не окремий прямий об'єкт. 忘れる акцентує забування, тоді як 損なう може бути спричинене запізненням, технічною помилкою чи іншою перешкодою.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1596510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a93b09137bbcf60859d762b1b23fb466ee5cafaab2ae49e25342221f09cf71eb
+:END:
+** JMdict metadata
+*** Parts of speech
+- suf
+- v5u
+*** Sense information
+- after the -masu stem of a verb
+** English glosses
+- to almost do
+- to come close to doing
+** Ukrainian glosses
+*** uk-s-1596510-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: ледь не зробити; мало не
+** Learner notes
+*** note-s-1596510-003-001
+:PROPERTIES:
+:END:
+- UK :: У деяких усталених сполуках після дієслівної основи 損なう означає майже здійснену дію, наприклад 死に損なう «ледь не померти; вижити». Контекст і готова сполука критично важливі: форма може також означати невдалу спробу, тож не слід механічно перекладати кожне ～損なう як «майже».
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1596510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 722fa254955b6272bbb384436638ed713df9888177427183fd022f358abe61fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schaden
+*** en-s-1596510-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aantasten
+*** en-s-1596510-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {楽しみを} bederven
+*** en-s-1596510-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergallen
+*** en-s-1596510-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {感情を} kwetsen
+*** en-s-1596510-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aangrijpen
+*** en-s-1596510-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanpakken
+** Ukrainian glosses
+
+* Sense s-1596510-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b61bae2cee6ea2ac25c99d6a28f2b41c526dafc8286ad8be3d3ef1134f6867dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: er niet in slagen te ~
+** Ukrainian glosses
+
+* Sense s-1596510-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 72fdec09ec74cbb3fc79e1b9ff07f736dc24271f969f64e815975485b7ee7e66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkeerd ~
+*** en-s-1596510-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mis-
+** Ukrainian glosses
+
+* Sense s-1596510-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0c22f359120aa2f62c44bcff445ebcef1f6401069deba75f3a8ee78c21b0a549
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: op een haar na ~
+*** en-s-1596510-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bijna ~
+** Ukrainian glosses
+
+* Sense s-1596510-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2c1deb0e4be07170e26678ea179d7f26d0dd5c676e226e8d62bdb829e3e536ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blesser
+*** en-s-1596510-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: endommager
+** Ukrainian glosses
+
+* Sense s-1596510-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 901591220324a08d31b8281287f78a26ef5178af346c26c06dbc40a5ee928d9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: échouer
+*** en-s-1596510-009-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: commettre une bévue
+** Ukrainian glosses
+
+* Sense s-1596510-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ea0825b86e07a213b8cfb648c62910c693e5c2ff7e384ca44d6abd80a3354ca2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schaden
+*** en-s-1596510-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beschädigen
+*** en-s-1596510-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verletzen
+*** en-s-1596510-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schaden zufügen
+** Ukrainian glosses
+
+* Sense s-1596510-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 2974de973718fe40a22800dafda551f29bec679be580cec41385ed82c4bccd2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verderben
+*** en-s-1596510-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruinieren
+** Ukrainian glosses
+
+* Sense s-1596510-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 3d6c5252ebb287efa559f5c72a19e753b55c44a16810629afe88342244d3a0d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (an die Renyōkei von Verben) scheitern … zu tun
+*** en-s-1596510-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich ver…
+*** en-s-1596510-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beim … einen Fehler machen
+** Ukrainian glosses
+
+* Sense s-1596510-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 06e5ee9a292434cdd4310ac49bd4449e7f83537c47934fc7a381870b4acbe657
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: knapp verpassen … zu tun
+*** en-s-1596510-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nahe kommen … zu tun
+** Ukrainian glosses
+
+* Sense s-1596510-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 16c6546687130cfdd75598323c4aeeaf0dd2aa3a8abff8f734c8d3cff90a146e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: árt
+*** en-s-1596510-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megsért
+*** en-s-1596510-014-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sért
+*** en-s-1596510-014-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kárt okoz
+*** en-s-1596510-014-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megsebesít
+*** en-s-1596510-014-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bánt
+*** en-s-1596510-014-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megrongál
+*** en-s-1596510-014-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megkárosít
+** Ukrainian glosses
+
+* Sense s-1596510-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 4d45cc762ca8d8ec5fad38f0320c203dc26f7bf1eddd2466c7d9f020acfbd9bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ((тж.) 害う) портить (что-л.), вредить (чему-л.)
+*** en-s-1596510-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) ((тж.) 害なう, 傷う) ранить; убить
+*** en-s-1596510-015-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (как 2-й компонент сложн. гл. указывает на то, что действие не удалось:)
+** Ukrainian glosses
+
+* Sense s-1596510-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 77d0e7865097be6edff387b9e9735ccd46649a5f0d61d1cb4f34cd7a57fbfdf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-016-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ponesrečiti se
+*** en-s-1596510-016-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spodleteti
+*** en-s-1596510-016-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ne uspeti
+** Ukrainian glosses
+
+* Sense s-1596510-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 8e0af3108db4f039f19214a436e47ded0b3f2139534a41122a092a10a25b541b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596510-017-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estropear
+*** en-s-1596510-017-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: echar a perder
+*** en-s-1596510-017-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dañar
+*** en-s-1596510-017-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: perder
+** Ukrainian glosses

@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-09-30**.
+Last reconciled with the tracked entry tree: **2026-10-05**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -33,24 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 4063 |
+| Canonical entry files | 7163 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
-| Canonical N2 entries | 1091 |
+| Canonical N2 entries | 4161 |
 | Canonical N3 entries | 1603 |
-| N2 queue rows covered | 1100 / 1635 (67.3%) |
+| Canonical N1 entries (Open Anki source assignment) | 30 |
+| N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 4026 |
+| `new` | 7126 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 4053 |
+| Entry metadata still marked `draft` | 7153 |
 | Core profile | 163 |
-| Learner profile | 3899 |
+| Learner profile | 6999 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -914,7 +915,7 @@ across all 1000 entries with zero errors or warnings. The test suite passed
 
 All entries remain learner-profile drafts awaiting independent editorial review;
 automated checks do not establish linguistic approval. The next untouched
-candidate is N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
+candidate at the 1000-word checkpoint was N2-1102 (銅, どう). N2-69 remains deferred for a standalone-usage review.
 The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 | Batch | Queue rows | New entries |
@@ -1019,6 +1020,3654 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 | 98 | N2-1071–1080 | 10 |
 | 99 | N2-1081–1090 | 10 |
 | 100 | N2-1091–1101 | 10 |
+
+## Current-branch 400-word N2 continuation (2026-10-03)
+
+Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
+Completed **400/400 new words** in batches of ten, one commit per word
+under Ihor. Content author is `codex`. All are distinct new N2 candidate
+entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
+(混ぜる) are unchanged existing entries or aliases and are excluded from the
+new-word count.
+
+The additions cover English semantic senses with original Ukrainian glosses
+and usage explanations, plus graded examples with Japanese text, kana,
+Ukrainian and English translations. Audits verified distinct JMdict IDs,
+complete original-source sense fingerprints, primary example senses, example
+focus spans, Git authorship and ledger links. Fresh validation and Org lint
+passed for all entries. Doctor averaged 100/100 with zero errors or warnings.
+The test suite passed; pinned JMdict and N2 source checksums were verified.
+
+All additions remain learner-profile drafts awaiting independent editorial
+review. Automated checks do not constitute linguistic approval. The next
+untouched candidate is N2-1506 (木材, もくざい). N2-69 remains deferred for a
+dedicated standalone-usage review. The earlier uncommitted N3-1084 draft (罪)
+remains preserved.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-1102–1111 | 10 |
+| 2 | N2-1112–1121 | 10 |
+| 3 | N2-1122–1131 | 10 |
+| 4 | N2-1132–1141 | 10 |
+| 5 | N2-1142–1152 | 10 |
+| 6 | N2-1153–1162 | 10 |
+| 7 | N2-1163–1172 | 10 |
+| 8 | N2-1173–1182 | 10 |
+| 9 | N2-1183–1192 | 10 |
+| 10 | N2-1193–1202 | 10 |
+| 11 | N2-1203–1212 | 10 |
+| 12 | N2-1213–1222 | 10 |
+| 13 | N2-1223–1232 | 10 |
+| 14 | N2-1233–1243 | 10 |
+| 15 | N2-1244–1253 | 10 |
+| 16 | N2-1254–1263 | 10 |
+| 17 | N2-1264–1273 | 10 |
+| 18 | N2-1274–1283 | 10 |
+| 19 | N2-1284–1293 | 10 |
+| 20 | N2-1294–1303 | 10 |
+| 21 | N2-1304–1313 | 10 |
+| 22 | N2-1314–1323 | 10 |
+| 23 | N2-1324–1333 | 10 |
+| 24 | N2-1334–1343 | 10 |
+| 25 | N2-1344–1353 | 10 |
+| 26 | N2-1354–1363 | 10 |
+| 27 | N2-1364–1373 | 10 |
+| 28 | N2-1374–1383 | 10 |
+| 29 | N2-1384–1393 | 10 |
+| 30 | N2-1394–1403 | 10 |
+| 31 | N2-1404–1413 | 10 |
+| 32 | N2-1414–1424 | 10 |
+| 33 | N2-1425–1434 | 10 |
+| 34 | N2-1435–1444 | 10 |
+| 35 | N2-1445–1454 | 10 |
+| 36 | N2-1455–1464 | 10 |
+| 37 | N2-1465–1474 | 10 |
+| 38 | N2-1475–1484 | 10 |
+| 39 | N2-1485–1495 | 10 |
+| 40 | N2-1496–1505 | 10 |
+
+## Current-branch next 100 N2 words (2026-10-04)
+
+Baseline for this request: `dbdcb446` (**400** new entries on this branch).
+Completed **100/100** additional distinct entries; branch total **500**.
+One commit per word, in batches of ten, using Ihor’s Git identity and
+`codex` content attribution. Every English sense has original Ukrainian
+glosses and usage notes; every primary sense has three graded examples.
+Completed batches passed pinned-JMdict validation, Org lint, and doctor
+100/100 with zero errors or warnings. Entries remain learner drafts,
+pending independent editorial review. The pre-existing 罪 draft is unchanged.
+Final audit: **100 unique new JMdict IDs**, **100 individual word commits**,
+**191 English senses translated with 191 usage notes**, and **300 graded examples**.
+The 400 pre-existing branch additions are unchanged. The test suite passed
+(137 tests, 14,243 assertions, zero failures or errors); source archive and
+N2 queue checksums match their pinned records. The next untouched candidate
+is **N2-1608**. N2-69 remains deferred for standalone-usage review.
+
+N2-1541 is an existing entry; N2-1592 is deferred pending reconciliation
+of its three JMdict matches and is excluded from the new-word count.
+
+| Batch | Queue rows | New entries |
+| --- | --- | ---: |
+| 1 | N2-1506–1515 | 10 |
+| 2 | N2-1516–1525 | 10 |
+| 3 | N2-1526–1535 | 10 |
+| 4 | N2-1536–1546 | 10 |
+| 5 | N2-1547–1556 | 10 |
+| 6 | N2-1557–1566 | 10 |
+| 7 | N2-1567–1576 | 10 |
+| 8 | N2-1577–1586 | 10 |
+| 9 | N2-1587–1597 | 10 |
+| 10 | N2-1598–1607 | 10 |
+
+| Queue row | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-1506 | [木材](entries/1534/1534660-mokuzai.org) | もくざい | 1534660 | new / draft |
+| N2-1507 | [目次](entries/1535/1535460-mokuji.org) | もくじ | 1535460 | new / draft |
+| N2-1508 | [潜る](entries/1609/1609715-moguru.org) | もぐる | 1609715 | new / draft |
+| N2-1509 | [若しかしたら](entries/1012/1012510-moshikashitara.org) | もしかしたら | 1012510 | new / draft |
+| N2-1510 | [若しかすると](entries/1012/1012530-moshikasuruto.org) | もしかすると | 1012530 | new / draft |
+| N2-1511 | [凭れる](entries/1564/1564380-motareru.org) | もたれる | 1564380 | new / draft |
+| N2-1512 | [モダン](entries/1134/1134990-modan.org) | モダン | 1134990 | new / draft |
+| N2-1513 | [餅](entries/1535/1535790-mochi.org) | もち | 1535790 | new / draft |
+| N2-1514 | [勿体ない](entries/1605/1605250-mottainai.org) | もったいない | 1605250 | new / draft |
+| N2-1515 | [モデル](entries/1135/1135270-moderu.org) | モデル | 1135270 | new / draft |
+| N2-1516 | [元々](entries/1605/1605280-motomoto.org) | もともと | 1605280 | new / draft |
+| N2-1517 | [物置](entries/1502/1502690-monooki.org) | ものおき | 1502690 | new / draft |
+| N2-1518 | [物語る](entries/1502/1502490-monogataru.org) | ものがたる | 1502490 | new / draft |
+| N2-1519 | [物差し](entries/1502/1502530-monosashi.org) | ものさし | 1502530 | new / draft |
+| N2-1520 | [物凄い](entries/1502/1502630-monosugoi.org) | ものすごい | 1502630 | new / draft |
+| N2-1521 | [モノレール](entries/1135/1135680-monoreeru.org) | モノレール | 1135680 | new / draft |
+| N2-1522 | [揉む](entries/1567/1567610-momu.org) | もむ | 1567610 | new / draft |
+| N2-1523 | [燃やす](entries/1582/1582900-moyasu.org) | もやす | 1582900 | new / draft |
+| N2-1524 | [催し](entries/1292/1292140-moyooshi.org) | もよおし | 1292140 | new / draft |
+| N2-1525 | [盛る](entries/1379/1379740-moru.org) | もる | 1379740 | new / draft |
+| N2-1526 | [問答](entries/1536/1536060-mondou.org) | もんどう | 1536060 | new / draft |
+| N2-1527 | [モーター](entries/1134/1134480-mootaa.org) | モーター | 1134480 | new / draft |
+| N2-1528 | [喧しい](entries/1211/1211380-yakamashii.org) | やかましい | 1211380 | new / draft |
+| N2-1529 | [夜間](entries/1536/1536530-yakan.org) | やかん | 1536530 | new / draft |
+| N2-1530 | [役者](entries/1538/1538010-yakusha.org) | やくしゃ | 1538010 | new / draft |
+| N2-1531 | [役所](entries/1538/1538020-yakusho.org) | やくしょ | 1538020 | new / draft |
+| N2-1532 | [訳す](entries/1538/1538350-yakusu.org) | やくす | 1538350 | new / draft |
+| N2-1533 | [役人](entries/1538/1538050-yakunin.org) | やくにん | 1538050 | new / draft |
+| N2-1534 | [薬品](entries/1538/1538280-yakuhin.org) | やくひん | 1538280 | new / draft |
+| N2-1535 | [役目](entries/1538/1538080-yakume.org) | やくめ | 1538080 | new / draft |
+| N2-1536 | [火傷](entries/1577/1577310-yakedo.org) | やけど | 1577310 | new / draft |
+| N2-1537 | [夜行](entries/1584/1584820-yakou.org) | やこう | 1584820 | new / draft |
+| N2-1538 | [矢印](entries/1537/1537770-yajirushi.org) | やじるし | 1537770 | new / draft |
+| N2-1539 | [薬局](entries/1538/1538200-yakkyoku.org) | やっきょく | 1538200 | new / draft |
+| N2-1540 | [遣っ付ける](entries/1612/1612950-yattsukeru.org) | やっつける | 1612950 | new / draft |
+| N2-1542 | [家主](entries/1191/1191990-yanushi.org) | やぬし | 1191990 | new / draft |
+| N2-1543 | [破く](entries/1983/1983750-yabuku.org) | やぶく | 1983750 | new / draft |
+| N2-1544 | [破れる](entries/1471/1471210-yabureru.org) | やぶれる | 1471210 | new / draft |
+| N2-1545 | [やむを得ない](entries/1612/1612100-yamuwoenai.org) | やむをえない | 1612100 | new / draft |
+| N2-1546 | [遊園地](entries/1542/1542170-yuuenchi.org) | ゆうえんち | 1542170 | new / draft |
+| N2-1547 | [夕刊](entries/1542/1542690-yuukan.org) | ゆうかん | 1542690 | new / draft |
+| N2-1548 | [友好](entries/1540/1540080-yuukou.org) | ゆうこう | 1540080 | new / draft |
+| N2-1549 | [郵送](entries/1542/1542380-yuusou.org) | ゆうそう | 1542380 | new / draft |
+| N2-1550 | [夕立](entries/1542/1542820-yuudachi.org) | ゆうだち | 1542820 | new / draft |
+| N2-1551 | [夕日](entries/1542/1542750-yuuhi.org) | ゆうひ | 1542750 | new / draft |
+| N2-1552 | [悠々](entries/1605/1605700-yuuyuu.org) | ゆうゆう | 1605700 | new / draft |
+| N2-1553 | [有料](entries/1541/1541690-yuuryou.org) | ゆうりょう | 1541690 | new / draft |
+| N2-1554 | [浴衣](entries/1584/1584990-yukata.org) | ゆかた | 1584990 | new / draft |
+| N2-1555 | [輸血](entries/1538/1538810-yuketsu.org) | ゆけつ | 1538810 | new / draft |
+| N2-1556 | [湯気](entries/1448/1448600-yuge.org) | ゆげ | 1448600 | new / draft |
+| N2-1557 | [輸送](entries/1538/1538850-yusou.org) | ゆそう | 1538850 | new / draft |
+| N2-1558 | [油断](entries/1538/1538690-yudan.org) | ゆだん | 1538690 | new / draft |
+| N2-1559 | [茹でる](entries/1571/1571470-yuderu.org) | ゆでる | 1571470 | new / draft |
+| N2-1560 | [湯のみ](entries/1612/1612130-yunomi.org) | ゆのみ | 1612130 | new / draft |
+| N2-1561 | [緩い](entries/1214/1214410-yurui.org) | ゆるい | 1214410 | new / draft |
+| N2-1562 | [溶岩](entries/1546/1546120-yougan.org) | ようがん | 1546120 | new / draft |
+| N2-1563 | [容器](entries/1545/1545370-youki.org) | ようき | 1545370 | new / draft |
+| N2-1564 | [用語](entries/1546/1546270-yougo.org) | ようご | 1546270 | new / draft |
+| N2-1565 | [要旨](entries/1546/1546770-youshi.org) | ようし | 1546770 | new / draft |
+| N2-1566 | [幼児](entries/1545/1545160-youji.org) | ようじ | 1545160 | new / draft |
+| N2-1567 | [容積](entries/1545/1545420-youseki.org) | ようせき | 1545420 | new / draft |
+| N2-1568 | [幼稚](entries/1545/1545250-youchi.org) | ようち | 1545250 | new / draft |
+| N2-1569 | [幼稚園](entries/1545/1545260-youchien.org) | ようちえん | 1545260 | new / draft |
+| N2-1570 | [用途](entries/1546/1546380-youto.org) | ようと | 1546380 | new / draft |
+| N2-1571 | [洋品店](entries/1794/1794470-youhinten.org) | ようひんてん | 1794470 | new / draft |
+| N2-1572 | [養分](entries/1662/1662130-youbun.org) | ようぶん | 1662130 | new / draft |
+| N2-1573 | [羊毛](entries/1546/1546530-youmou.org) | ようもう | 1546530 | new / draft |
+| N2-1574 | [漸く](entries/1394/1394600-youyaku.org) | ようやく | 1394600 | new / draft |
+| N2-1575 | [要領](entries/1546/1546850-youryou.org) | ようりょう | 1546850 | new / draft |
+| N2-1576 | [欲張り](entries/1547/1547390-yokubari.org) | よくばり | 1547390 | new / draft |
+| N2-1577 | [余計](entries/1544/1544090-yokei.org) | よけい | 1544090 | new / draft |
+| N2-1578 | [寄越す](entries/1013/1013140-yokosu.org) | よこす | 1013140 | new / draft |
+| N2-1579 | [汚す](entries/1178/1178960-yogosu.org) | よごす | 1178960 | new / draft |
+| N2-1580 | [寄せる](entries/1219/1219560-yoseru.org) | よせる | 1219560 | new / draft |
+| N2-1581 | [余所](entries/1605/1605940-yoso.org) | よそ | 1605940 | new / draft |
+| N2-1582 | [酔っ払い](entries/1372/1372660-yopparai.org) | よっぱらい | 1372660 | new / draft |
+| N2-1583 | [四つ角](entries/1307/1307060-yotsukado.org) | よつかど | 1307060 | new / draft |
+| N2-1584 | [予備](entries/1543/1543320-yobi.org) | よび | 1543320 | new / draft |
+| N2-1585 | [呼びかける](entries/1266/1266280-yobikakeru.org) | よびかける | 1266280 | new / draft |
+| N2-1586 | [呼び出す](entries/1266/1266350-yobidasu.org) | よびだす | 1266350 | new / draft |
+| N2-1587 | [蘇る](entries/1606/1606020-yomigaeru.org) | よみがえる | 1606020 | new / draft |
+| N2-1588 | [依る](entries/1168/1168660-yoru.org) | よる | 1168660 | new / draft |
+| N2-1589 | [来日](entries/1548/1548200-rainichi.org) | らいにち | 1548200 | new / draft |
+| N2-1590 | [落第](entries/1548/1548810-rakudai.org) | らくだい | 1548810 | new / draft |
+| N2-1591 | [ラッシュアワー](entries/1139/1139190-rasshuawaa.org) | ラッシュアワー | 1139190 | new / draft |
+| N2-1593 | [ランニング](entries/1140/1140270-ranningu.org) | ランニング | 1140270 | new / draft |
+| N2-1594 | [乱暴](entries/1549/1549100-ranbou.org) | らんぼう | 1549100 | new / draft |
+| N2-1595 | [理科](entries/1549/1549900-rika.org) | りか | 1549900 | new / draft |
+| N2-1596 | [利害](entries/1549/1549500-rigai.org) | りがい | 1549500 | new / draft |
+| N2-1597 | [リズム](entries/1141/1141620-rizumu.org) | リズム | 1141620 | new / draft |
+| N2-1598 | [リットル](entries/1141/1141870-rittoru.org) | リットル | 1141870 | new / draft |
+| N2-1599 | [リボン](entries/1142/1142880-ribon.org) | リボン | 1142880 | new / draft |
+| N2-1600 | [略す](entries/1551/1551960-ryakusu.org) | りゃくす | 1551960 | new / draft |
+| N2-1601 | [流域](entries/1552/1552230-ryuuiki.org) | りゅういき | 1552230 | new / draft |
+| N2-1602 | [寮](entries/1554/1554230-ryou.org) | りょう | 1554230 | new / draft |
+| N2-1603 | [両側](entries/1585/1585140-ryougawa.org) | りょうがわ | 1585140 | new / draft |
+| N2-1604 | [漁師](entries/1233/1233010-ryoushi.org) | りょうし | 1233010 | new / draft |
+| N2-1605 | [領収](entries/1554/1554750-ryoushuu.org) | りょうしゅう | 1554750 | new / draft |
+| N2-1606 | [領事](entries/1554/1554730-ryouji.org) | りょうじ | 1554730 | new / draft |
+| N2-1607 | [留守番](entries/1552/1552800-rusuban.org) | るすばん | 1552800 | new / draft |
+
+## Further 100-word N2 continuation (2026-10-04)
+
+Baseline: `9a46c7b4`, with **500** new translated words on this branch.
+Completed **100/100** further distinct words; branch total **600**.
+Words are committed individually in batches of ten under Ihor’s Git identity;
+original content is attributed to `codex`. Every English sense is translated
+with Ukrainian usage notes, and each primary sense has three graded examples.
+Completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. All remain learner drafts awaiting editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Final audit verified **100 unique new JMdict IDs**, **100 individual addition
+commits**, **175 translated English senses with 175 usage notes**, and
+**300 graded examples**. One subsequent correction clarifies the reading note
+for 上品; all 500 earlier branch additions are unchanged. Fresh validation
+and doctor checks passed for all 100 entries; Org lint passed in each batch.
+The test suite passed (137 tests, 14,543 assertions, no failures or errors).
+All supplementary candidates match the pinned CSV rows and selection manifest;
+source checksums were verified. The pinned queue now covers **1634/1635 rows**;
+only N2-69 remains deferred.
+
+Selection: 29 remaining/reconciled Wiktionary candidates and 71 candidates
+from [pinned Open Anki N2 source](sources/jlpt-n2/open-anki/README.md).
+N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
+
+| Batch | Candidates | New entries |
+| --- | --- | ---: |
+| 1 | N2-1608–N2-1618 | 10 |
+| 2 | N2-1592–N2-1626 | 10 |
+| 3 | N2-1627–N2-S135 | 10 |
+| 4 | N2-S137–N2-S323 | 10 |
+| 5 | N2-S327–N2-S420 | 10 |
+| 6 | N2-S434–N2-S561 | 10 |
+| 7 | N2-S573–N2-S626 | 10 |
+| 8 | N2-S635–N2-S758 | 10 |
+| 9 | N2-S776–N2-S903 | 10 |
+| 10 | N2-S905–N2-S1024 | 10 |
+
+| Candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-1608 | [例外](entries/1556/1556410-reigai.org) | れいがい | 1556410 | new / draft |
+| N2-1609 | [零点](entries/1557/1557710-reiten.org) | れいてん | 1557710 | new / draft |
+| N2-1610 | [レインコート](entries/1144/1144700-reinkooto.org) | レインコート | 1144700 | new / draft |
+| N2-1611 | [レクリエーション](entries/1144/1144860-rekurieeshon.org) | レクリエーション | 1144860 | new / draft |
+| N2-1612 | [レジャー](entries/1145/1145220-rejaa.org) | レジャー | 1145220 | new / draft |
+| N2-1613 | [列島](entries/1558/1558390-rettou.org) | れっとう | 1558390 | new / draft |
+| N2-1615 | [煉瓦](entries/1559/1559090-renga.org) | れんが | 1559090 | new / draft |
+| N2-1616 | [レンズ](entries/1146/1146140-renzu.org) | レンズ | 1146140 | new / draft |
+| N2-1617 | [蝋燭](entries/1561/1561240-rousoku.org) | ろうそく | 1561240 | new / draft |
+| N2-1618 | [録音](entries/1561/1561590-rokuon.org) | ろくおん | 1561590 | new / draft |
+| N2-1592 | [ランチ](entries/1140/1140100-ranchi.org) | ランチ | 1140100 | new / draft |
+| N2-1614 | [レベル](entries/1145/1145910-reberu.org) | レベル | 1145910 | new / draft |
+| N2-1619 | [ロッカー](entries/1147/1147560-rokkaa.org) | ロッカー | 1147560 | new / draft |
+| N2-1620 | [ロビー](entries/1147/1147800-robii.org) | ロビー | 1147800 | new / draft |
+| N2-1621 | [論ずる](entries/1561/1561640-ronzuru.org) | ろんずる | 1561640 | new / draft |
+| N2-1622 | [ローマ字](entries/1146/1146810-roomaji.org) | ローマじ | 1146810 | new / draft |
+| N2-1623 | [ローンチ](entries/2448/2448600-roonchi.org) | ローンチ | 2448600 | new / draft |
+| N2-1624 | [和英](entries/1561/1561970-waei.org) | わえい | 1561970 | new / draft |
+| N2-1625 | [分かれる](entries/1606/1606600-wakareru.org) | わかれる | 1606600 | new / draft |
+| N2-1626 | [若々しい](entries/1606/1606610-wakawakashii.org) | わかわかしい | 1606610 | new / draft |
+| N2-1627 | [湧く](entries/1606/1606685-waku.org) | わく | 1606685 | new / draft |
+| N2-1628 | [詫びる](entries/1606/1606790-wabiru.org) | わびる | 1606790 | new / draft |
+| N2-1629 | [和服](entries/1562/1562190-wafuku.org) | わふく | 1562190 | new / draft |
+| N2-1630 | [割合に](entries/1612/1612360-wariaini.org) | わりあいに | 1612360 | new / draft |
+| N2-1631 | [割り算](entries/1606/1606880-warizan.org) | わりざん | 1606880 | new / draft |
+| N2-1632 | [割と](entries/1983/1983690-warito.org) | わりと | 1983690 | new / draft |
+| N2-1633 | [割引](entries/1606/1606950-waribiki.org) | わりびき | 1606950 | new / draft |
+| N2-1634 | [椀](entries/1562/1562780-wan.org) | わん | 1562780 | new / draft |
+| N2-1635 | [碗](entries/1562/1562840-wan.org) | わん | 1562840 | new / draft |
+| N2-S135 | [朝寝坊](entries/1428/1428410-asanebou.org) | あさねぼう | 1428410 | new / draft |
+| N2-S137 | [足元](entries/1586/1586390-ashimoto.org) | あしもと | 1586390 | new / draft |
+| N2-S140 | [温まる](entries/1586/1586430-atatamaru.org) | あたたまる | 1586430 | new / draft |
+| N2-S145 | [宛名](entries/1586/1586520-atena.org) | あてな | 1586520 | new / draft |
+| N2-S169 | [荒れる](entries/1281/1281490-areru.org) | あれる | 1281490 | new / draft |
+| N2-S255 | [絵の具](entries/1202/1202290-enogu.org) | えのぐ | 1202290 | new / draft |
+| N2-S296 | [伯父](entries/1607/1607070-oji.org) | おじ | 1607070 | new / draft |
+| N2-S312 | [各々](entries/2826/2826190-onoono.org) | おのおの | 2826190 | new / draft |
+| N2-S313 | [伯母](entries/1607/1607100-oba.org) | おば | 1607100 | new / draft |
+| N2-S315 | [小母さん](entries/2261/2261510-obasan.org) | おばさん | 2261510 | new / draft |
+| N2-S323 | [思い切り](entries/2834/2834138-omoikiri.org) | おもいきり | 2834138 | new / draft |
+| N2-S327 | [重たい](entries/1335/1335780-omotai.org) | おもたい | 1335780 | new / draft |
+| N2-S337 | [御中](entries/1270/1270530-onchuu.org) | おんちゅう | 1270530 | new / draft |
+| N2-S341 | [貝](entries/1203/1203100-kai.org) | かい | 1203100 | new / draft |
+| N2-S345 | [改札](entries/1200/1200840-kaisatsu.org) | かいさつ | 1200840 | new / draft |
+| N2-S366 | [書留](entries/1589/1589960-kakitome.org) | かきとめ | 1589960 | new / draft |
+| N2-S369 | [限り](entries/1264/1264610-kagiri.org) | かぎり | 1264610 | new / draft |
+| N2-S376 | [拡張](entries/1205/1205220-kakuchou.org) | かくちょう | 1205220 | new / draft |
+| N2-S392 | [貸し出し](entries/1590/1590240-kashidashi.org) | かしだし | 1590240 | new / draft |
+| N2-S397 | [箇所](entries/1590/1590250-kasho.org) | かしょ | 1590250 | new / draft |
+| N2-S420 | [勝手に](entries/1346/1346200-katteni.org) | かってに | 1346200 | new / draft |
+| N2-S434 | [構いません](entries/1279/1279670-kamaimasen.org) | かまいません | 1279670 | new / draft |
+| N2-S456 | [元日](entries/1261/1261010-ganjitsu.org) | がんじつ | 1261010 | new / draft |
+| N2-S458 | [感ずる](entries/1609/1609650-kanzuru.org) | かんずる | 1609650 | new / draft |
+| N2-S470 | [乾杯](entries/1590/1590950-kanpai.org) | かんぱい | 1590950 | new / draft |
+| N2-S477 | [着替える](entries/1423/1423170-kigaeru.org) | きがえる | 1423170 | new / draft |
+| N2-S480 | [器具](entries/1218/1218920-kigu.org) | きぐ | 1218920 | new / draft |
+| N2-S503 | [休養](entries/1228/1228100-kyuuyou.org) | きゅうよう | 1228100 | new / draft |
+| N2-S530 | [苦心](entries/1244/1244530-kushin.org) | くしん | 1244530 | new / draft |
+| N2-S535 | [砕く](entries/1295/1295170-kudaku.org) | くだく | 1295170 | new / draft |
+| N2-S561 | [毛糸](entries/1533/1533860-keito.org) | けいと | 1533860 | new / draft |
+| N2-S573 | [下旬](entries/1185/1185330-gejun.org) | げじゅん | 1185330 | new / draft |
+| N2-S581 | [月末](entries/1255/1255840-getsumatsu.org) | げつまつ | 1255840 | new / draft |
+| N2-S582 | [気配](entries/1222/1222510-kehai.org) | けはい | 1222510 | new / draft |
+| N2-S585 | [煙い](entries/1177/1177190-kemui.org) | けむい | 1177190 | new / draft |
+| N2-S594 | [厳重](entries/1262/1262660-genjuu.org) | げんじゅう | 1262660 | new / draft |
+| N2-S595 | [謙遜](entries/1260/1260240-kenson.org) | けんそん | 1260240 | new / draft |
+| N2-S597 | [限度](entries/1264/1264690-gendo.org) | げんど | 1264690 | new / draft |
+| N2-S600 | [懸命](entries/1257/1257730-kenmei.org) | けんめい | 1257730 | new / draft |
+| N2-S620 | [口実](entries/1276/1276220-koujitsu.org) | こうじつ | 1276220 | new / draft |
+| N2-S626 | [功績](entries/1275/1275070-kouseki.org) | こうせき | 1275070 | new / draft |
+| N2-S635 | [肯定](entries/1281/1281180-koutei.org) | こうてい | 1281180 | new / draft |
+| N2-S655 | [焦げる](entries/1350/1350730-kogeru.org) | こげる | 1350730 | new / draft |
+| N2-S656 | [凍える](entries/1446/1446180-kogoeru.org) | こごえる | 1446180 | new / draft |
+| N2-S673 | [言葉遣い](entries/1264/1264560-kotobazukai.org) | ことばづかい | 1264560 | new / draft |
+| N2-S680 | [堪える](entries/2827/2827352-koraeru.org) | こらえる | 2827352 | new / draft |
+| N2-S681 | [娯楽](entries/1269/1269290-goraku.org) | ごらく | 1269290 | new / draft |
+| N2-S697 | [在学](entries/1296/1296440-zaigaku.org) | ざいがく | 1296440 | new / draft |
+| N2-S706 | [逆さ](entries/1226/1226970-sakasa.org) | さかさ | 1226970 | new / draft |
+| N2-S750 | [寺院](entries/1315/1315250-jiin.org) | じいん | 1315250 | new / draft |
+| N2-S758 | [仕方がない](entries/1305/1305420-shikataganai.org) | しかたがない | 1305420 | new / draft |
+| N2-S776 | [自宅](entries/1318/1318260-jitaku.org) | じたく | 1318260 | new / draft |
+| N2-S808 | [締切](entries/1594/1594590-shimekiri.org) | しめきり | 1594590 | new / draft |
+| N2-S813 | [地面](entries/1421/1421510-jimen.org) | じめん | 1421510 | new / draft |
+| N2-S822 | [社説](entries/1322/1322890-shasetsu.org) | しゃせつ | 1322890 | new / draft |
+| N2-S831 | [住居](entries/2841/2841455-juukyo.org) | じゅうきょ | 2841455 | new / draft |
+| N2-S851 | [主人](entries/1579/1579780-shujin.org) | しゅじん | 1579780 | new / draft |
+| N2-S882 | [上旬](entries/1353/1353410-joujun.org) | じょうじゅん | 1353410 | new / draft |
+| N2-S891 | [上品](entries/1354/1354230-jouhin.org) | じょうひん | 1354230 | new / draft |
+| N2-S897 | [消耗](entries/1580/1580310-shoumou.org) | しょうもう | 1580310 | new / draft |
+| N2-S903 | [職場](entries/1357/1357540-shokuba.org) | しょくば | 1357540 | new / draft |
+| N2-S905 | [書籍](entries/1344/1344090-shoseki.org) | しょせき | 1344090 | new / draft |
+| N2-S909 | [書道](entries/1344/1344130-shodou.org) | しょどう | 1344130 | new / draft |
+| N2-S910 | [初歩](entries/1343/1343050-shoho.org) | しょほ | 1343050 | new / draft |
+| N2-S916 | [汁](entries/1335/1335520-shiru.org) | しる | 1335520 | new / draft |
+| N2-S922 | [人事](entries/1367/1367870-jinji.org) | じんじ | 1367870 | new / draft |
+| N2-S939 | [炊事](entries/1372/1372350-suiji.org) | すいじ | 1372350 | new / draft |
+| N2-S950 | [水面](entries/1372/1372120-suimen.org) | すいめん | 1372120 | new / draft |
+| N2-S957 | [隙](entries/1253/1253780-suki.org) | すき | 1253780 | new / draft |
+| N2-S967 | [涼む](entries/1554/1554380-suzumu.org) | すずむ | 1554380 | new / draft |
+| N2-S1024 | [台詞](entries/1577/1577270-serifu.org) | せりふ | 1577270 | new / draft |
+
+## Additional supplementary 100-word N2 continuation (2026-10-04)
+
+Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
+Completed **100/100** additional distinct words; branch total **700**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Selection: 56 candidates from [pinned Open Anki N2](sources/jlpt-n2/open-anki/README.md)
+and 44 from [documented JTest N2 sections](sources/jlpt-n2/jtest/README.md).
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **100 distinct added JMdict IDs**, **100 individual word commits**,
+**164 English senses translated with 164 Ukrainian nuance notes**, and
+**300 graded examples**. Earlier 600 branch additions were preserved unchanged.
+The full test suite passed: **137 tests, 14,843 assertions**, zero failures,
+errors, or skips. `git diff --check` passed. Only the pre-existing 罪 draft
+remains uncommitted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| N2-S1029 | [全集](entries/1395/1395340-zenshuu.org) | ぜんしゅう | 1395340 | new / draft |
+| N2-S1042 | [洗面](entries/1391/1391050-senmen.org) | せんめん | 1391050 | new / draft |
+| N2-S1043 | [全力](entries/1396/1396390-zenryoku.org) | ぜんりょく | 1396390 | new / draft |
+| N2-S1061 | [送料](entries/1402/1402870-souryou.org) | そうりょう | 1402870 | new / draft |
+| N2-S1066 | [測量](entries/1404/1404590-sokuryou.org) | そくりょう | 1404590 | new / draft |
+| N2-S1090 | [大学院](entries/1413/1413250-daigakuin.org) | だいがくいん | 1413250 | new / draft |
+| N2-S1145 | [断定](entries/1419/1419740-dantei.org) | だんてい | 1419740 | new / draft |
+| N2-S1150 | [近々](entries/1578/1578110-chikajika.org) | ちかぢか | 1578110 | new / draft |
+| N2-S1189 | [直通](entries/1431/1431440-chokutsuu.org) | ちょくつう | 1431440 | new / draft |
+| N2-S1209 | [月日](entries/1255/1255780-tsukihi.org) | つきひ | 1255780 | new / draft |
+| N2-S1213 | [務める](entries/2872/2872052-tsutomeru.org) | つとめる | 2872052 | new / draft |
+| N2-S1238 | [定休日](entries/1435/1435540-teikyuubi.org) | ていきゅうび | 1435540 | new / draft |
+| N2-S1241 | [停電](entries/1435/1435020-teiden.org) | ていでん | 1435020 | new / draft |
+| N2-S1251 | [凸凹](entries/1582/1582410-dekoboko.org) | でこぼこ | 1582410 | new / draft |
+| N2-S1254 | [弟子](entries/1581/1581960-deshi.org) | でし | 1581960 | new / draft |
+| N2-S1271 | [伝染](entries/1442/1442110-densen.org) | でんせん | 1442110 | new / draft |
+| N2-S1313 | [退ける](entries/2850/2850084-dokeru.org) | どける | 2850084 | new / draft |
+| N2-S1323 | [殿](entries/1442/1442500-dono.org) | どの | 1442500 | new / draft |
+| N2-S1332 | [採る](entries/1599/1599160-toru.org) | とる | 1599160 | new / draft |
+| N2-S1340 | [長引く](entries/1610/1610950-nagabiku.org) | ながびく | 1610950 | new / draft |
+| N2-S1346 | [為す](entries/2861/2861111-nasu.org) | なす | 2861111 | new / draft |
+| N2-S1358 | [並木](entries/1599/1599640-namiki.org) | なみき | 1599640 | new / draft |
+| N2-S1374 | [濁る](entries/1415/1415960-nigoru.org) | にごる | 1415960 | new / draft |
+| N2-S1404 | [糊](entries/1267/1267400-nori.org) | のり | 1267400 | new / draft |
+| N2-S1407 | [乗り越し](entries/1600/1600480-norikoshi.org) | のりこし | 1600480 | new / draft |
+| N2-S1408 | [鈍い](entries/2838/2838553-noroi.org) | のろい | 2838553 | new / draft |
+| N2-S1414 | [売店](entries/1474/1474040-baiten.org) | ばいてん | 1474040 | new / draft |
+| N2-S1422 | [吐き気](entries/1444/1444120-hakike.org) | はきけ | 1444120 | new / draft |
+| N2-S1440 | [発](entries/1477/1477120-hatsu.org) | はつ | 1477120 | new / draft |
+| N2-S1452 | [甚だしい](entries/1370/1370010-hanahadashii.org) | はなはだしい | 1370010 | new / draft |
+| N2-S1456 | [跳ねる](entries/1429/1429620-haneru.org) | はねる | 1429620 | new / draft |
+| N2-S1460 | [早口](entries/1400/1400240-hayakuchi.org) | はやくち | 1400240 | new / draft |
+| N2-S1475 | [半島](entries/1479/1479770-hantou.org) | はんとう | 1479770 | new / draft |
+| N2-S1479 | [日帰り](entries/1463/1463920-higaeri.org) | ひがえり | 1463920 | new / draft |
+| N2-S1488 | [卑怯](entries/1482/1482710-hikyou.org) | ひきょう | 1482710 | new / draft |
+| N2-S1498 | [筆記](entries/1487/1487800-hikki.org) | ひっき | 1487800 | new / draft |
+| N2-S1543 | [風船](entries/1499/1499940-fuusen.org) | ふうせん | 1499940 | new / draft |
+| N2-S1556 | [不潔](entries/1492/1492160-fuketsu.org) | ふけつ | 1492160 | new / draft |
+| N2-S1587 | [振り向く](entries/1361/1361190-furimuku.org) | ふりむく | 1361190 | new / draft |
+| N2-S1659 | [盆](entries/1523/1523700-bon.org) | ぼん | 1523700 | new / draft |
+| N2-S1662 | [本部](entries/1523/1523170-honbu.org) | ほんぶ | 1523170 | new / draft |
+| N2-S1701 | [見上げる](entries/1259/1259740-miageru.org) | みあげる | 1259740 | new / draft |
+| N2-S1705 | [三日月](entries/1301/1301340-mikazuki.org) | みかづき | 1301340 | new / draft |
+| N2-S1706 | [岬](entries/1611/1611700-misaki.org) | みさき | 1611700 | new / draft |
+| N2-S1710 | [自ら](entries/1317/1317340-mizukara.org) | みずから | 1317340 | new / draft |
+| N2-S1711 | [水着](entries/1371/1371830-mizugi.org) | みずぎ | 1371830 | new / draft |
+| N2-S1716 | [見詰める](entries/1604/1604580-mitsumeru.org) | みつめる | 1604580 | new / draft |
+| N2-S1735 | [無数](entries/1530/1530280-musuu.org) | むすう | 1530280 | new / draft |
+| N2-S1736 | [紫](entries/1311/1311640-murasaki.org) | むらさき | 1311640 | new / draft |
+| N2-S1761 | [免税](entries/1533/1533230-menzei.org) | めんぜい | 1533230 | new / draft |
+| N2-S1784 | [紅葉](entries/2857/2857870-momiji.org) | もみじ | 2857870 | new / draft |
+| N2-S1820 | [行方](entries/1282/1282180-yukue.org) | ゆくえ | 1282180 | new / draft |
+| N2-S1859 | [欄](entries/1549/1549350-ran.org) | らん | 1549350 | new / draft |
+| N2-S1877 | [臨時](entries/1555/1555610-rinji.org) | りんじ | 1555610 | new / draft |
+| N2-S1881 | [冷凍](entries/1557/1557170-reitou.org) | れいとう | 1557170 | new / draft |
+| N2-S1887 | [連合](entries/1559/1559450-rengou.org) | れんごう | 1559450 | new / draft |
+| JTest 1.1.3 | [向き合う](entries/1277/1277060-mukiau.org) | むきあう | 1277060 | new / draft |
+| JTest 1.1.7 | [甘える](entries/1213/1213440-amaeru.org) | あまえる | 1213440 | new / draft |
+| JTest 1.1.8 | [世間知らず](entries/1848/1848140-sekenshirazu.org) | せけんしらず | 1848140 | new / draft |
+| JTest 1.1.11 | [自立](entries/1318/1318880-jiritsu.org) | じりつ | 1318880 | new / draft |
+| JTest 1.1.15 | [説得](entries/1386/1386440-settoku.org) | せっとく | 1386440 | new / draft |
+| JTest 1.1.19 | [放っておく](entries/1907/1907980-houtteoku.org) | ほうっておく | 1907980 | new / draft |
+| JTest 1.1.20 | [介護](entries/1198/1198060-kaigo.org) | かいご | 1198060 | new / draft |
+| JTest 1.1.22 | [世代](entries/1374/1374190-sedai.org) | せだい | 1374190 | new / draft |
+| JTest 1.1.24 | [妊娠](entries/1467/1467350-ninshin.org) | にんしん | 1467350 | new / draft |
+| JTest 1.1.25 | [出産](entries/1339/1339010-shussan.org) | しゅっさん | 1339010 | new / draft |
+| JTest 1.1.26 | [産む](entries/1588/1588410-umu.org) | うむ | 1588410 | new / draft |
+| JTest 1.2.9 | [見習う](entries/1259/1259700-minarau.org) | みならう | 1259700 | new / draft |
+| JTest 1.2.10 | [打ち明ける](entries/1588/1588130-uchiakeru.org) | うちあける | 1588130 | new / draft |
+| JTest 1.2.11 | [励ます](entries/1557/1557350-hagemasu.org) | はげます | 1557350 | new / draft |
+| JTest 1.2.14 | [察する](entries/1298/1298740-sassuru.org) | さっする | 1298740 | new / draft |
+| JTest 1.2.15 | [思いやり](entries/1309/1309180-omoiyari.org) | おもいやり | 1309180 | new / draft |
+| JTest 1.2.16 | [何気ない](entries/1599/1599570-nanigenai.org) | なにげない | 1599570 | new / draft |
+| JTest 1.2.18 | [幹事](entries/1212/1212110-kanji.org) | かんじ | 1212110 | new / draft |
+| JTest 1.2.20 | [盛り上がる](entries/1379/1379690-moriagaru.org) | もりあがる | 1379690 | new / draft |
+| JTest 1.2.23 | [久しい](entries/1227/1227340-hisashii.org) | ひさしい | 1227340 | new / draft |
+| JTest 1.3.1 | [初対面](entries/1342/1342890-shotaimen.org) | しょたいめん | 1342890 | new / draft |
+| JTest 1.3.2 | [自己紹介](entries/1317/1317650-jikoshoukai.org) | じこしょうかい | 1317650 | new / draft |
+| JTest 1.3.6 | [飼い主](entries/1589/1589720-kainushi.org) | かいぬし | 1589720 | new / draft |
+| JTest 1.3.7 | [交わす](entries/1590/1590750-kawasu.org) | かわす | 1590750 | new / draft |
+| JTest 1.3.8 | [呼び止める](entries/1266/1266330-yobitomeru.org) | よびとめる | 1266330 | new / draft |
+| JTest 1.3.9 | [振り返る](entries/1361/1361290-furikaeru.org) | ふりかえる | 1361290 | new / draft |
+| JTest 1.3.10 | [再会](entries/1292/1292390-saikai.org) | さいかい | 1292390 | new / draft |
+| JTest 1.3.13 | [結びつく](entries/1254/1254640-musubitsuku.org) | むすびつく | 1254640 | new / draft |
+| JTest 1.3.22 | [気配り](entries/1614/1614540-kikubari.org) | きくばり | 1614540 | new / draft |
+| JTest 1.3.24 | [同期](entries/1452/1452030-douki.org) | どうき | 1452030 | new / draft |
+| JTest 1.4.3 | [同士](entries/1452/1452400-doushi.org) | どうし | 1452400 | new / draft |
+| JTest 1.4.8 | [視線](entries/1312/1312060-shisen.org) | しせん | 1312060 | new / draft |
+| JTest 1.4.19 | [禁物](entries/1241/1241660-kinmotsu.org) | きんもつ | 1241660 | new / draft |
+| JTest 1.4.23 | [運命](entries/1173/1173030-unmei.org) | うんめい | 1173030 | new / draft |
+| JTest 1.4.24 | [決意](entries/1254/1254220-ketsui.org) | けつい | 1254220 | new / draft |
+| JTest 1.5.5 | [言い訳](entries/1587/1587030-iiwake.org) | いいわけ | 1587030 | new / draft |
+| JTest 1.5.16 | [行為](entries/1281/1281830-koui.org) | こうい | 1281830 | new / draft |
+| JTest 1.5.17 | [口論](entries/1277/1277000-kouron.org) | こうろん | 1277000 | new / draft |
+| JTest 1.5.20 | [貸し借り](entries/1825/1825040-kashikari.org) | かしかり | 1825040 | new / draft |
+| JTest 1.5.22 | [気まずい](entries/1222/1222550-kimazui.org) | きまずい | 1222550 | new / draft |
+| JTest 1.5.23 | [今さら](entries/1289/1289150-imasara.org) | いまさら | 1289150 | new / draft |
+| JTest 1.5.24 | [台無し](entries/1412/1412770-dainashi.org) | だいなし | 1412770 | new / draft |
+| JTest 1.5.26 | [追い出す](entries/1432/1432350-oidasu.org) | おいだす | 1432350 | new / draft |
+| JTest 1.5.27 | [仲間外れ](entries/1425/1425800-nakamahazure.org) | なかまはずれ | 1425800 | new / draft |
+
+## Next JTest 100-word N2 continuation (2026-10-04)
+
+Baseline: `91af692d`, with **700** new translated words on this branch.
+Completed **100/100** additional distinct words; branch total **800**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Selection: 100 candidates from [documented JTest N2 sections](sources/jlpt-n2/jtest/README.md).
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **100 distinct added JMdict IDs**, **100 individual word addition
+commits**, **163 English senses with 163 Ukrainian nuance notes**, and
+**300 graded examples**. The earlier 700 branch additions were preserved.
+All 100 entries passed final JMdict validation, Org lint, and doctor 100/100,
+with zero errors or warnings. Source snapshot checksums were verified for
+17 documented sections. The full suite passed: **137 tests, 15,143 assertions**,
+zero failures, errors, or skips. `git diff --check` passed. Only the pre-existing
+uncommitted 罪 draft remains. Entries are learner drafts pending editorial review.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 2.1.2 | [賃貸](entries/1432/1432030-chintai.org) | ちんたい | 1432030 | new / draft |
+| JTest 2.1.3 | [敷金](entries/1497/1497040-shikikin.org) | しききん | 1497040 | new / draft |
+| JTest 2.1.4 | [更新](entries/1279/1279370-koushin.org) | こうしん | 1279370 | new / draft |
+| JTest 2.1.7 | [一戸建て](entries/1162/1162320-ikkodate.org) | いっこだて | 1162320 | new / draft |
+| JTest 2.1.14 | [間取り](entries/1215/1215490-madori.org) | まどり | 1215490 | new / draft |
+| JTest 2.1.15 | [空間](entries/1245/1245450-kuukan.org) | くうかん | 1245450 | new / draft |
+| JTest 2.1.18 | [南向き](entries/1460/1460290-minamimuki.org) | みなみむき | 1460290 | new / draft |
+| JTest 2.1.19 | [温もり](entries/1183/1183330-nukumori.org) | ぬくもり | 1183330 | new / draft |
+| JTest 2.1.21 | [点検](entries/1441/1441540-tenken.org) | てんけん | 1441540 | new / draft |
+| JTest 2.1.27 | [新築](entries/1362/1362160-shinchiku.org) | しんちく | 1362160 | new / draft |
+| JTest 2.2.4 | [出費](entries/1340/1340180-shuppi.org) | しゅっぴ | 1340180 | new / draft |
+| JTest 2.2.6 | [大金](entries/1413/1413500-taikin.org) | たいきん | 1413500 | new / draft |
+| JTest 2.2.10 | [公共料金](entries/1273/1273590-koukyouryoukin.org) | こうきょうりょうきん | 1273590 | new / draft |
+| JTest 2.2.12 | [引き落とし](entries/1950/1950210-hikiotoshi.org) | ひきおとし | 1950210 | new / draft |
+| JTest 2.2.13 | [手数料](entries/1327/1327980-tesuuryou.org) | てすうりょう | 1327980 | new / draft |
+| JTest 2.2.14 | [出し入れ](entries/1338/1338100-dashiire.org) | だしいれ | 1338100 | new / draft |
+| JTest 2.2.15 | [高くつく](entries/2104/2104970-takakutsuku.org) | たかくつく | 2104970 | new / draft |
+| JTest 2.2.16 | [残高](entries/1304/1304590-zandaka.org) | ざんだか | 1304590 | new / draft |
+| JTest 2.2.21 | [立て替える](entries/1551/1551550-tatekaeru.org) | たてかえる | 1551550 | new / draft |
+| JTest 2.2.23 | [返済](entries/1512/1512210-hensai.org) | へんさい | 1512210 | new / draft |
+| JTest 2.3.2 | [好物](entries/1277/1277790-koubutsu.org) | こうぶつ | 1277790 | new / draft |
+| JTest 2.3.4 | [物足りない](entries/1502/1502650-monotarinai.org) | ものたりない | 1502650 | new / draft |
+| JTest 2.3.20 | [器](entries/1218/1218880-utsuwa.org) | うつわ | 1218880 | new / draft |
+| JTest 2.3.23 | [主食](entries/1325/1325640-shushoku.org) | しゅしょく | 1325640 | new / draft |
+| JTest 2.3.26 | [特製](entries/1455/1455100-tokusei.org) | とくせい | 1455100 | new / draft |
+| JTest 2.4.1 | [購入](entries/1282/1282440-kounyuu.org) | こうにゅう | 1282440 | new / draft |
+| JTest 2.4.2 | [買い得](entries/1752/1752990-kaidoku.org) | かいどく | 1752990 | new / draft |
+| JTest 2.4.4 | [値引き](entries/1600/1600190-nebiki.org) | ねびき | 1600190 | new / draft |
+| JTest 2.4.6 | [返品](entries/1512/1512300-henpin.org) | へんぴん | 1512300 | new / draft |
+| JTest 2.4.7 | [返金](entries/1512/1512200-henkin.org) | へんきん | 1512200 | new / draft |
+| JTest 2.4.12 | [品質](entries/1490/1490580-hinshitsu.org) | ひんしつ | 1490580 | new / draft |
+| JTest 2.4.13 | [消費税](entries/1350/1350320-shouhizei.org) | しょうひぜい | 1350320 | new / draft |
+| JTest 2.4.16 | [取り寄せる](entries/1326/1326620-toriyoseru.org) | とりよせる | 1326620 | new / draft |
+| JTest 2.4.18 | [買い換える](entries/2012/2012810-kaikaeru.org) | かいかえる | 2012810 | new / draft |
+| JTest 2.4.19 | [売り出す](entries/1473/1473860-uridasu.org) | うりだす | 1473860 | new / draft |
+| JTest 2.4.21 | [切り取る](entries/1384/1384260-kiritoru.org) | きりとる | 1384260 | new / draft |
+| JTest 2.4.24 | [試食](entries/1312/1312490-shishoku.org) | ししょく | 1312490 | new / draft |
+| JTest 2.4.25 | [試着](entries/1312/1312500-shichaku.org) | しちゃく | 1312500 | new / draft |
+| JTest 2.5.10 | [本年](entries/1523/1523120-honnen.org) | ほんねん | 1523120 | new / draft |
+| JTest 2.5.16 | [後日](entries/1269/1269980-gojitsu.org) | ごじつ | 1269980 | new / draft |
+| JTest 2.5.22 | [従来](entries/1335/1335400-juurai.org) | じゅうらい | 1335400 | new / draft |
+| JTest 3.1.5 | [乳製品](entries/1465/1465260-nyuuseihin.org) | にゅうせいひん | 1465260 | new / draft |
+| JTest 3.1.6 | [洗い物](entries/1609/1609080-araimono.org) | あらいもの | 1609080 | new / draft |
+| JTest 3.1.7 | [欠かす](entries/1253/1253890-kakasu.org) | かかす | 1253890 | new / draft |
+| JTest 3.1.10 | [一切](entries/1164/1164170-issai.org) | いっさい | 1164170 | new / draft |
+| JTest 3.1.11 | [合間](entries/1284/1284670-aima.org) | あいま | 1284670 | new / draft |
+| JTest 3.2.2 | [何度も](entries/1189/1189200-nandomo.org) | なんども | 1189200 | new / draft |
+| JTest 3.2.4 | [寄り道](entries/1219/1219650-yorimichi.org) | よりみち | 1219650 | new / draft |
+| JTest 3.2.8 | [物干し](entries/1605/1605290-monohoshi.org) | ものほし | 1605290 | new / draft |
+| JTest 3.2.10 | [後回し](entries/1269/1269500-atomawashi.org) | あとまわし | 1269500 | new / draft |
+| JTest 3.2.15 | [売り買い](entries/2012/2012850-urikai.org) | うりかい | 2012850 | new / draft |
+| JTest 3.2.16 | [思い浮かべる](entries/1658/1658200-omoiukaberu.org) | おもいうかべる | 1658200 | new / draft |
+| JTest 3.2.18 | [風呂場](entries/1500/1500140-furoba.org) | ふろば | 1500140 | new / draft |
+| JTest 3.2.20 | [寝つき](entries/1360/1360000-netsuki.org) | ねつき | 1360000 | new / draft |
+| JTest 3.3.8 | [味付け](entries/1526/1526980-ajitsuke.org) | あじつけ | 1526980 | new / draft |
+| JTest 3.3.10 | [甘み](entries/1609/1609070-amami.org) | あまみ | 1609070 | new / draft |
+| JTest 3.3.21 | [賞味期限](entries/1351/1351980-shoumikigen.org) | しょうみきげん | 1351980 | new / draft |
+| JTest 3.3.22 | [手作り](entries/1598/1598360-tezukuri.org) | てづくり | 1598360 | new / draft |
+| JTest 3.4.7 | [取り除く](entries/1326/1326780-torinozoku.org) | とりのぞく | 1326780 | new / draft |
+| JTest 3.4.16 | [可燃ごみ](entries/2770/2770250-kanengomi.org) | かねんごみ | 2770250 | new / draft |
+| JTest 3.4.17 | [資源ごみ](entries/2112/2112630-shigengomi.org) | しげんごみ | 2112630 | new / draft |
+| JTest 3.4.18 | [粗大ごみ](entries/1397/1397030-sodaigomi.org) | そだいごみ | 1397030 | new / draft |
+| JTest 3.4.19 | [古新聞](entries/1631/1631020-furushinbun.org) | ふるしんぶん | 1631020 | new / draft |
+| JTest 3.4.20 | [分別](entries/1504/1504200-bunbetsu.org) | ぶんべつ | 1504200 | new / draft |
+| JTest 3.4.21 | [ごみ袋](entries/2106/2106370-gomibukuro.org) | ごみぶくろ | 2106370 | new / draft |
+| JTest 3.4.27 | [衣類](entries/1613/1613280-irui.org) | いるい | 1613280 | new / draft |
+| JTest 3.4.28 | [入れ替える](entries/1587/1587790-irekaeru.org) | いれかえる | 1587790 | new / draft |
+| JTest 3.5.2 | [不用品](entries/1495/1495190-fuyouhin.org) | ふようひん | 1495190 | new / draft |
+| JTest 3.5.6 | [段ボール](entries/1419/1419930-danbooru.org) | だんボール | 1419930 | new / draft |
+| JTest 3.5.8 | [押し込む](entries/1180/1180260-oshikomu.org) | おしこむ | 1180260 | new / draft |
+| JTest 3.5.19 | [居心地](entries/1630/1630070-igokochi.org) | いごこち | 1630070 | new / draft |
+| JTest 3.5.20 | [一変](entries/1166/1166420-ippen.org) | いっぺん | 1166420 | new / draft |
+| JTest 1.1.5 | [養う](entries/1547/1547090-yashinau.org) | やしなう | 1547090 | new / draft |
+| JTest 1.1.23 | [継ぐ](entries/1251/1251750-tsugu.org) | つぐ | 1251750 | new / draft |
+| JTest 1.3.23 | [込める](entries/1288/1288790-komeru.org) | こめる | 1288790 | new / draft |
+| JTest 2.2.5 | [赤字](entries/1383/1383440-akaji.org) | あかじ | 1383440 | new / draft |
+| JTest 2.2.19 | [差し引く](entries/1291/1291100-sashihiku.org) | さしひく | 1291100 | new / draft |
+| JTest 2.3.6 | [一口](entries/1162/1162370-hitokuchi.org) | ひとくち | 1162370 | new / draft |
+| JTest 2.3.11 | [渋い](entries/1335/1335540-shibui.org) | しぶい | 1335540 | new / draft |
+| JTest 3.1.20 | [整える](entries/1376/1376140-totonoeru.org) | ととのえる | 1376140 | new / draft |
+| JTest 3.3.4 | [流し](entries/1552/1552100-nagashi.org) | ながし | 1552100 | new / draft |
+| JTest 3.3.12 | [添える](entries/1596/1596490-soeru.org) | そえる | 1596490 | new / draft |
+| JTest 3.4.8 | [素材](entries/1397/1397220-sozai.org) | そざい | 1397220 | new / draft |
+| JTest 3.4.9 | [表示](entries/1489/1489610-hyouji.org) | ひょうじ | 1489610 | new / draft |
+| JTest 3.4.22 | [生臭い](entries/1379/1379110-namagusai.org) | なまぐさい | 1379110 | new / draft |
+| JTest 3.5.1 | [処分](entries/1342/1342490-shobun.org) | しょぶん | 1342490 | new / draft |
+| JTest 4.1.7 | [絶える](entries/1386/1386710-taeru.org) | たえる | 1386710 | new / draft |
+| JTest 4.1.17 | [抽選](entries/1426/1426220-chuusen.org) | ちゅうせん | 1426220 | new / draft |
+| JTest 4.1.18 | [避難](entries/1484/1484660-hinan.org) | ひなん | 1484660 | new / draft |
+| JTest 4.1.20 | [見回る](entries/1641/1641610-mimawaru.org) | みまわる | 1641610 | new / draft |
+| JTest 4.1.21 | [築く](entries/1422/1422140-kizuku.org) | きずく | 1422140 | new / draft |
+| JTest 4.1.23 | [落書き](entries/1548/1548770-rakugaki.org) | らくがき | 1548770 | new / draft |
+| JTest 4.2.1 | [自治体](entries/1317/1317830-jichitai.org) | じちたい | 1317830 | new / draft |
+| JTest 4.2.3 | [応える](entries/1179/1179810-kotaeru.org) | こたえる | 1179810 | new / draft |
+| JTest 4.2.5 | [身分証明書](entries/1365/1365820-mibunshoumeisho.org) | みぶんしょうめいしょ | 1365820 | new / draft |
+| JTest 4.2.9 | [年金](entries/1468/1468540-nenkin.org) | ねんきん | 1468540 | new / draft |
+| JTest 4.2.10 | [施設](entries/1310/1310410-shisetsu.org) | しせつ | 1310410 | new / draft |
+| JTest 4.2.15 | [福祉](entries/1501/1501060-fukushi.org) | ふくし | 1501060 | new / draft |
+| JTest 4.2.18 | [収集](entries/1594/1594720-shuushuu.org) | しゅうしゅう | 1594720 | new / draft |
+| JTest 4.2.19 | [配布](entries/1473/1473190-haifu.org) | はいふ | 1473190 | new / draft |
+
+## Final 900-word branch N2 continuation (2026-10-04)
+
+Baseline: `0ffefe81`, with **800** new translated words on this branch.
+Completed **100/100** additional distinct words; branch total **900**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+The 100 supplementary N2 labels come from the [documented JTest list](sources/jlpt-n2/jtest/README.md);
+only lexical labels and readings were used, with original Ukrainian content.
+N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **800 → 900** branch additions, exactly **100** distinct new
+JMdict IDs, **100** individual word-addition commits, **10** batch ledger
+commits, **166** translated English senses with Ukrainian nuance notes, and
+**300** graded examples. The preceding 800 entry files are unchanged.
+All 28 documented JTest HTML checksums match the retrieved source pages.
+The full suite passed: **137 tests, 15,443 assertions, zero failures or errors**.
+The preserved uncommitted 罪 draft is excluded from these counts.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 1.3.4 | [近所付き合い](entries/2116/2116150-kinjozukiai.org) | きんじょづきあい | 2116150 | new / draft |
+| JTest 1.3.11 | [覚え](entries/1206/1206040-oboe.org) | おぼえ | 1206040 | new / draft |
+| JTest 1.4.21 | [合コン](entries/1951/1951580-goukon.org) | ごうコン | 1951580 | new / draft |
+| JTest 2.1.1 | [一人住まい](entries/2405/2405230-hitorizumai.org) | ひとりずまい | 2405230 | new / draft |
+| JTest 2.1.9 | [我が家](entries/1606/1606650-wagaya.org) | わがや | 1606650 | new / draft |
+| JTest 2.1.12 | [洗面所](entries/1391/1391070-senmenjo.org) | せんめんじょ | 1391070 | new / draft |
+| JTest 4.2.22 | [提供](entries/1436/1436360-teikyou.org) | ていきょう | 1436360 | new / draft |
+| JTest 4.3.1 | [故郷](entries/2853/2853884-kokyou.org) | こきょう | 2853884 | new / draft |
+| JTest 4.3.2 | [地元](entries/1421/1421060-jimoto.org) | じもと | 1421060 | new / draft |
+| JTest 4.3.5 | [帰省](entries/1221/1221390-kisei.org) | きせい | 1221390 | new / draft |
+| JTest 4.3.15 | [近郊](entries/1242/1242290-kinkou.org) | きんこう | 1242290 | new / draft |
+| JTest 4.3.17 | [若者](entries/1324/1324350-wakamono.org) | わかもの | 1324350 | new / draft |
+| JTest 4.3.20 | [担う](entries/1599/1599900-ninau.org) | になう | 1599900 | new / draft |
+| JTest 4.4.6 | [歩行者](entries/1514/1514380-hokousha.org) | ほこうしゃ | 1514380 | new / draft |
+| JTest 4.4.10 | [運賃](entries/1172/1172820-unchin.org) | うんちん | 1172820 | new / draft |
+| JTest 4.4.13 | [見合わせる](entries/1259/1259570-miawaseru.org) | みあわせる | 1259570 | new / draft |
+| JTest 4.4.14 | [乱れる](entries/1548/1548940-midareru.org) | みだれる | 1548940 | new / draft |
+| JTest 4.4.15 | [再開](entries/1292/1292400-saikai.org) | さいかい | 1292400 | new / draft |
+| JTest 4.4.28 | [気を抜く](entries/2127/2127660-kiwonuku.org) | きをぬく | 2127660 | new / draft |
+| JTest 4.5.3 | [栽培](entries/1294/1294910-saibai.org) | さいばい | 1294910 | new / draft |
+| JTest 4.5.7 | [栄える](entries/1173/1173860-sakaeru.org) | さかえる | 1173860 | new / draft |
+| JTest 4.5.9 | [急増](entries/1228/1228870-kyuuzou.org) | きゅうぞう | 1228870 | new / draft |
+| JTest 4.5.10 | [情緒](entries/1580/1580510-joucho.org) | じょうちょ | 1580510 | new / draft |
+| JTest 4.5.11 | [向上](entries/1277/1277250-koujou.org) | こうじょう | 1277250 | new / draft |
+| JTest 4.5.19 | [著しい](entries/1427/1427070-ichijirushii.org) | いちじるしい | 1427070 | new / draft |
+| JTest 4.5.22 | [現地](entries/1263/1263860-genchi.org) | げんち | 1263860 | new / draft |
+| JTest 5.1.2 | [願書](entries/1218/1218050-gansho.org) | がんしょ | 1218050 | new / draft |
+| JTest 5.1.7 | [通常](entries/1433/1433280-tsuujou.org) | つうじょう | 1433280 | new / draft |
+| JTest 5.1.8 | [担任](entries/1418/1418200-tannin.org) | たんにん | 1418200 | new / draft |
+| JTest 5.1.12 | [充実](entries/1334/1334340-juujitsu.org) | じゅうじつ | 1334340 | new / draft |
+| JTest 5.1.19 | [修了](entries/1332/1332450-shuuryou.org) | しゅうりょう | 1332450 | new / draft |
+| JTest 5.1.21 | [認識](entries/1467/1467550-ninshiki.org) | にんしき | 1467550 | new / draft |
+| JTest 5.2.5 | [参考書](entries/1302/1302300-sankousho.org) | さんこうしょ | 1302300 | new / draft |
+| JTest 5.2.6 | [書き込む](entries/1343/1343730-kakikomu.org) | かきこむ | 1343730 | new / draft |
+| JTest 5.2.7 | [書き取る](entries/1343/1343780-kakitoru.org) | かきとる | 1343780 | new / draft |
+| JTest 5.2.12 | [志す](entries/1309/1309060-kokorozasu.org) | こころざす | 1309060 | new / draft |
+| JTest 5.2.17 | [根気](entries/1290/1290110-konki.org) | こんき | 1290110 | new / draft |
+| JTest 5.2.27 | [混同](entries/1290/1290480-kondou.org) | こんどう | 1290480 | new / draft |
+| JTest 5.3.1 | [挑戦](entries/1428/1428240-chousen.org) | ちょうせん | 1428240 | new / draft |
+| JTest 5.3.5 | [課題](entries/1195/1195820-kadai.org) | かだい | 1195820 | new / draft |
+| JTest 5.3.6 | [段落](entries/1419/1419980-danraku.org) | だんらく | 1419980 | new / draft |
+| JTest 5.3.8 | [用紙](entries/1546/1546290-youshi.org) | ようし | 1546290 | new / draft |
+| JTest 5.3.13 | [言い換える](entries/1610/1610580-iikaeru.org) | いいかえる | 1610580 | new / draft |
+| JTest 5.3.14 | [考え込む](entries/1281/1281030-kangaekomu.org) | かんがえこむ | 1281030 | new / draft |
+| JTest 5.3.16 | [紛らわしい](entries/1504/1504990-magirawashii.org) | まぎらわしい | 1504990 | new / draft |
+| JTest 5.3.19 | [本番](entries/1523/1523150-honban.org) | ほんばん | 1523150 | new / draft |
+| JTest 5.3.24 | [回収](entries/1199/1199470-kaishuu.org) | かいしゅう | 1199470 | new / draft |
+| JTest 5.4.1 | [受講](entries/1329/1329760-jukou.org) | じゅこう | 1329760 | new / draft |
+| JTest 5.4.2 | [書き留める](entries/1343/1343940-kakitomeru.org) | かきとめる | 1343940 | new / draft |
+| JTest 5.4.4 | [心構え](entries/1360/1360670-kokorogamae.org) | こころがまえ | 1360670 | new / draft |
+| JTest 5.4.7 | [取り組む](entries/1326/1326820-torikumu.org) | とりくむ | 1326820 | new / draft |
+| JTest 5.4.8 | [意欲](entries/1587/1587690-iyoku.org) | いよく | 1587690 | new / draft |
+| JTest 5.4.14 | [受け入れる](entries/1329/1329670-ukeireru.org) | うけいれる | 1329670 | new / draft |
+| JTest 5.4.27 | [挙げる](entries/2864/2864818-ageru.org) | あげる | 2864818 | new / draft |
+| JTest 5.4.29 | [手書き](entries/1327/1327830-tegaki.org) | てがき | 1327830 | new / draft |
+| JTest 5.4.30 | [一気に](entries/1161/1161730-ikkini.org) | いっきに | 1161730 | new / draft |
+| JTest 5.5.1 | [起動](entries/1223/1223880-kidou.org) | きどう | 1223880 | new / draft |
+| JTest 5.5.2 | [本体](entries/1522/1522950-hontai.org) | ほんたい | 1522950 | new / draft |
+| JTest 5.5.6 | [検索](entries/1257/1257900-kensaku.org) | けんさく | 1257900 | new / draft |
+| JTest 5.5.7 | [転送](entries/1441/1441250-tensou.org) | てんそう | 1441250 | new / draft |
+| JTest 5.5.8 | [文書](entries/1583/1583840-bunsho.org) | ぶんしょ | 1583840 | new / draft |
+| JTest 5.5.9 | [設定](entries/1386/1386060-settei.org) | せってい | 1386060 | new / draft |
+| JTest 5.5.10 | [余白](entries/1544/1544480-yohaku.org) | よはく | 1544480 | new / draft |
+| JTest 5.5.13 | [改行](entries/1200/1200820-kaigyou.org) | かいぎょう | 1200820 | new / draft |
+| JTest 5.5.15 | [貼り付ける](entries/1601/1601120-haritsukeru.org) | はりつける | 1601120 | new / draft |
+| JTest 5.5.18 | [消去](entries/1350/1350190-shoukyo.org) | しょうきょ | 1350190 | new / draft |
+| JTest 5.5.19 | [上書き保存](entries/2830/2830197-uwagakihozon.org) | うわがきほぞん | 2830197 | new / draft |
+| JTest 6.1.1 | [求人](entries/1229/1229500-kyuujin.org) | きゅうじん | 1229500 | new / draft |
+| JTest 6.1.2 | [志望](entries/1309/1309140-shibou.org) | しぼう | 1309140 | new / draft |
+| JTest 6.1.4 | [携わる](entries/1250/1250660-tazusawaru.org) | たずさわる | 1250660 | new / draft |
+| JTest 6.1.5 | [生かす](entries/1587/1587070-ikasu.org) | いかす | 1587070 | new / draft |
+| JTest 6.1.6 | [貴社](entries/1223/1223510-kisha.org) | きしゃ | 1223510 | new / draft |
+| JTest 6.1.8 | [動機](entries/1451/1451310-douki.org) | どうき | 1451310 | new / draft |
+| JTest 6.1.9 | [熱意](entries/1467/1467760-netsui.org) | ねつい | 1467760 | new / draft |
+| JTest 6.1.10 | [学歴](entries/1207/1207200-gakureki.org) | がくれき | 1207200 | new / draft |
+| JTest 6.1.11 | [不問](entries/1495/1495130-fumon.org) | ふもん | 1495130 | new / draft |
+| JTest 6.1.13 | [特技](entries/1454/1454740-tokugi.org) | とくぎ | 1454740 | new / draft |
+| JTest 6.1.14 | [協調](entries/1235/1235700-kyouchou.org) | きょうちょう | 1235700 | new / draft |
+| JTest 6.1.16 | [精一杯](entries/1379/1379870-seiippai.org) | せいいっぱい | 1379870 | new / draft |
+| JTest 6.1.18 | [対応](entries/1409/1409840-taiou.org) | たいおう | 1409840 | new / draft |
+| JTest 6.1.20 | [望ましい](entries/1519/1519610-nozomashii.org) | のぞましい | 1519610 | new / draft |
+| JTest 6.1.21 | [好ましい](entries/1277/1277490-konomashii.org) | このましい | 1277490 | new / draft |
+| JTest 6.1.25 | [内定](entries/1458/1458920-naitei.org) | ないてい | 1458920 | new / draft |
+| JTest 6.1.26 | [辞退](entries/1318/1318990-jitai.org) | じたい | 1318990 | new / draft |
+| JTest 6.1.30 | [社会人](entries/1322/1322770-shakaijin.org) | しゃかいじん | 1322770 | new / draft |
+| JTest 6.1.31 | [自覚](entries/1317/1317490-jikaku.org) | じかく | 1317490 | new / draft |
+| JTest 6.2.1 | [大企業](entries/1413/1413300-daikigyou.org) | だいきぎょう | 1413300 | new / draft |
+| JTest 6.2.2 | [大手](entries/1414/1414010-oote.org) | おおて | 1414010 | new / draft |
+| JTest 6.2.6 | [従業員](entries/1335/1335250-juugyouin.org) | じゅうぎょういん | 1335250 | new / draft |
+| JTest 6.2.7 | [新入社員](entries/1362/1362250-shinnyuushain.org) | しんにゅうしゃいん | 1362250 | new / draft |
+| JTest 6.2.8 | [派遣社員](entries/1999/1999690-hakenshain.org) | はけんしゃいん | 1999690 | new / draft |
+| JTest 6.2.13 | [出世](entries/1339/1339340-shusse.org) | しゅっせ | 1339340 | new / draft |
+| JTest 6.2.14 | [昇進](entries/1349/1349780-shoushin.org) | しょうしん | 1349780 | new / draft |
+| JTest 6.2.15 | [転勤](entries/1441/1441120-tenkin.org) | てんきん | 1441120 | new / draft |
+| JTest 6.2.16 | [赴任](entries/1498/1498200-funin.org) | ふにん | 1498200 | new / draft |
+| JTest 6.2.17 | [有給休暇](entries/1541/1541210-yuukyuukyuuka.org) | ゆうきゅうきゅうか | 1541210 | new / draft |
+| JTest 6.2.19 | [人材](entries/1367/1367760-jinzai.org) | じんざい | 1367760 | new / draft |
+| JTest 6.2.22 | [業績](entries/1239/1239460-gyouseki.org) | ぎょうせき | 1239460 | new / draft |
+| JTest 6.2.30 | [果たす](entries/1192/1192850-hatasu.org) | はたす | 1192850 | new / draft |
+| JTest 6.3.3 | [生きがい](entries/1378/1378550-ikigai.org) | いきがい | 1378550 | new / draft |
+
+## Final 1100-word branch N2 continuation (2026-10-04)
+
+Baseline: `945bbe61`, with **900** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **1100**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/200
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+The 200 supplementary N2 labels come from the [documented JTest list](sources/jlpt-n2/jtest/README.md);
+only lexical labels and readings were used, with original Ukrainian content.
+N2-69 (佚) remains deferred and is not counted.
+
+Final audit: **900 → 1100** branch additions, exactly **200** distinct new
+JMdict IDs, **200** individual word-addition commits, **20** batch ledger
+commits, **311** translated English senses with Ukrainian nuance notes, and
+**600** graded examples. The preceding 900 entry files are unchanged.
+All 54 documented JTest HTML checksums match the retrieved source pages.
+The full suite passed: **137 tests, 16,043 assertions, zero failures or errors**.
+All 200 entries passed JMdict validation, Org lint, and doctor 100/100 with
+zero errors or warnings. The [熱中症 entry](entries/2097/2097700-netchuushou.org)
+includes an official source for its broader heat-related-illness terminology.
+The preserved uncommitted 罪 draft is excluded from these counts.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 6.3.9 | [伝言](entries/1582/1582180-dengon.org) | でんごん | 1582180 | new / draft |
+| JTest 6.3.13 | [意図](entries/1156/1156690-ito.org) | いと | 1156690 | new / draft |
+| JTest 6.3.16 | [取り引き](entries/1599/1599120-torihiki.org) | とりひき | 1599120 | new / draft |
+| JTest 6.3.21 | [成果](entries/1375/1375650-seika.org) | せいか | 1375650 | new / draft |
+| JTest 6.3.22 | [達成](entries/1416/1416260-tassei.org) | たっせい | 1416260 | new / draft |
+| JTest 6.3.24 | [保留](entries/1514/1514030-horyuu.org) | ほりゅう | 1514030 | new / draft |
+| JTest 6.3.25 | [やり直す](entries/1605/1605620-yarinaosu.org) | やりなおす | 1605620 | new / draft |
+| JTest 6.3.26 | [件](entries/1255/1255940-ken.org) | けん | 1255940 | new / draft |
+| JTest 6.3.27 | [急用](entries/1228/1228990-kyuuyou.org) | きゅうよう | 1228990 | new / draft |
+| JTest 6.3.29 | [手順](entries/1327/1327810-tejun.org) | てじゅん | 1327810 | new / draft |
+| JTest 6.4.6 | [忠告](entries/1426/1426140-chuukoku.org) | ちゅうこく | 1426140 | new / draft |
+| JTest 6.4.9 | [押し付ける](entries/1180/1180360-oshitsukeru.org) | おしつける | 1180360 | new / draft |
+| JTest 6.4.15 | [反論](entries/1481/1481130-hanron.org) | はんろん | 1481130 | new / draft |
+| JTest 6.4.17 | [やる気](entries/2005/2005890-yaruki.org) | やるき | 2005890 | new / draft |
+| JTest 6.4.18 | [お世辞](entries/1002/1002250-oseji.org) | おせじ | 1002250 | new / draft |
+| JTest 6.4.24 | [平社員](entries/2078/2078660-hirashain.org) | ひらしゃいん | 2078660 | new / draft |
+| JTest 6.5.1 | [退職](entries/1411/1411420-taishoku.org) | たいしょく | 1411420 | new / draft |
+| JTest 6.5.2 | [転職](entries/1441/1441210-tenshoku.org) | てんしょく | 1441210 | new / draft |
+| JTest 6.5.3 | [首になる](entries/1640/1640370-kubininaru.org) | くびになる | 1640370 | new / draft |
+| JTest 6.5.10 | [辛抱](entries/1365/1365930-shinbou.org) | しんぼう | 1365930 | new / draft |
+| JTest 6.5.12 | [負う](entries/1497/1497930-ou.org) | おう | 1497930 | new / draft |
+| JTest 6.5.14 | [やむを得ず](entries/1310/1310650-yamuwoezu.org) | やむをえず | 1310650 | new / draft |
+| JTest 6.5.15 | [立ち上げる](entries/1551/1551380-tachiageru.org) | たちあげる | 1551380 | new / draft |
+| JTest 6.5.16 | [試みる](entries/1312/1312280-kokoromiru.org) | こころみる | 1312280 | new / draft |
+| JTest 6.5.17 | [専念](entries/1389/1389850-sennen.org) | せんねん | 1389850 | new / draft |
+| JTest 6.5.20 | [逃す](entries/1450/1450430-nogasu.org) | のがす | 1450430 | new / draft |
+| JTest 6.5.24 | [身の回り](entries/1365/1365590-minomawari.org) | みのまわり | 1365590 | new / draft |
+| JTest 7.1.2 | [競う](entries/1234/1234040-kisou.org) | きそう | 1234040 | new / draft |
+| JTest 7.1.6 | [勝利](entries/1346/1346240-shouri.org) | しょうり | 1346240 | new / draft |
+| JTest 7.1.9 | [敗れる](entries/1472/1472510-yabureru.org) | やぶれる | 1472510 | new / draft |
+| JTest 7.1.11 | [逆転](entries/1227/1227170-gyakuten.org) | ぎゃくてん | 1227170 | new / draft |
+| JTest 7.1.13 | [中断](entries/1424/1424900-chuudan.org) | ちゅうだん | 1424900 | new / draft |
+| JTest 7.1.21 | [順位](entries/1342/1342260-juni.org) | じゅんい | 1342260 | new / draft |
+| JTest 7.1.27 | [技](entries/1225/1225090-waza.org) | わざ | 1225090 | new / draft |
+| JTest 7.2.2 | [持ち物](entries/1605/1605240-mochimono.org) | もちもの | 1605240 | new / draft |
+| JTest 7.2.3 | [身につける](entries/1980/1980660-minitsukeru.org) | みにつける | 1980660 | new / draft |
+| JTest 7.2.10 | [見た目](entries/1611/1611750-mitame.org) | みため | 1611750 | new / draft |
+| JTest 7.2.11 | [人目](entries/1580/1580760-hitome.org) | ひとめ | 1580760 | new / draft |
+| JTest 7.2.12 | [色彩](entries/1357/1357720-shikisai.org) | しきさい | 1357720 | new / draft |
+| JTest 7.3.4 | [興奮](entries/1238/1238380-koufun.org) | こうふん | 1238380 | new / draft |
+| JTest 7.3.15 | [芸術家](entries/1253/1253070-geijutsuka.org) | げいじゅつか | 1253070 | new / draft |
+| JTest 7.4.2 | [絵本](entries/1202/1202380-ehon.org) | えほん | 1202380 | new / draft |
+| JTest 7.4.5 | [書き手](entries/1701/1701600-kakite.org) | かきて | 1701600 | new / draft |
+| JTest 7.4.7 | [主人公](entries/1325/1325680-shujinkou.org) | しゅじんこう | 1325680 | new / draft |
+| JTest 7.4.16 | [背景](entries/1472/1472720-haikei.org) | はいけい | 1472720 | new / draft |
+| JTest 7.4.21 | [由来](entries/1541/1541810-yurai.org) | ゆらい | 1541810 | new / draft |
+| JTest 7.4.26 | [生み出す](entries/1378/1378720-umidasu.org) | うみだす | 1378720 | new / draft |
+| JTest 7.4.27 | [読書家](entries/1688/1688400-dokushoka.org) | どくしょか | 1688400 | new / draft |
+| JTest 7.5.1 | [習い事](entries/1642/1642710-naraigoto.org) | ならいごと | 1642710 | new / draft |
+| JTest 7.5.4 | [凝る](entries/1239/1239070-koru.org) | こる | 1239070 | new / draft |
+| JTest 7.5.9 | [初心者](entries/1342/1342860-shoshinsha.org) | しょしんしゃ | 1342860 | new / draft |
+| JTest 7.5.17 | [占い](entries/1389/1389410-uranai.org) | うらない | 1389410 | new / draft |
+| JTest 7.5.18 | [手話](entries/1328/1328440-shuwa.org) | しゅわ | 1328440 | new / draft |
+| JTest 7.5.23 | [宝くじ](entries/1516/1516170-takarakuji.org) | たからくじ | 1516170 | new / draft |
+| JTest 7.5.27 | [組み合わせる](entries/1397/1397480-kumiawaseru.org) | くみあわせる | 1397480 | new / draft |
+| JTest 7.5.28 | [身近](entries/1365/1365650-mijika.org) | みぢか | 1365650 | new / draft |
+| JTest 8.1.6 | [初夏](entries/1342/1342580-shoka.org) | しょか | 1342580 | new / draft |
+| JTest 8.1.17 | [冷え込む](entries/1556/1556640-hiekomu.org) | ひえこむ | 1556640 | new / draft |
+| JTest 8.1.19 | [日和](entries/1464/1464950-hiyori.org) | ひより | 1464950 | new / draft |
+| JTest 8.2.5 | [降水量](entries/1282/1282900-kousuiryou.org) | こうすいりょう | 1282900 | new / draft |
+| JTest 8.2.7 | [大気](entries/1413/1413330-taiki.org) | たいき | 1413330 | new / draft |
+| JTest 8.2.11 | [応答](entries/1180/1180000-outou.org) | おうとう | 1180000 | new / draft |
+| JTest 8.2.15 | [及ぶ](entries/1228/1228170-oyobu.org) | およぶ | 1228170 | new / draft |
+| JTest 8.2.23 | [災害](entries/1295/1295100-saigai.org) | さいがい | 1295100 | new / draft |
+| JTest 8.3.1 | [大地](entries/1414/1414520-daichi.org) | だいち | 1414520 | new / draft |
+| JTest 8.3.7 | [海辺](entries/1201/1201750-umibe.org) | うみべ | 1201750 | new / draft |
+| JTest 8.3.19 | [夕焼け](entries/1542/1542720-yuuyake.org) | ゆうやけ | 1542720 | new / draft |
+| JTest 8.3.20 | [飛び回る](entries/1485/1485270-tobimawaru.org) | とびまわる | 1485270 | new / draft |
+| JTest 8.4.10 | [切り替える](entries/1591/1591780-kirikaeru.org) | きりかえる | 1591780 | new / draft |
+| JTest 8.4.22 | [見渡す](entries/1259/1259920-miwatasu.org) | みわたす | 1259920 | new / draft |
+| JTest 8.5.3 | [訪れる](entries/1518/1518080-otozureru.org) | おとずれる | 1518080 | new / draft |
+| JTest 8.5.4 | [体験](entries/1409/1409420-taiken.org) | たいけん | 1409420 | new / draft |
+| JTest 8.5.6 | [見聞き](entries/1260/1260040-mikiki.org) | みきき | 1260040 | new / draft |
+| JTest 8.5.9 | [思い立つ](entries/1309/1309420-omoitatsu.org) | おもいたつ | 1309420 | new / draft |
+| JTest 8.5.11 | [手配](entries/1328/1328260-tehai.org) | てはい | 1328260 | new / draft |
+| JTest 8.5.12 | [前もって](entries/1603/1603820-maemotte.org) | まえもって | 1603820 | new / draft |
+| JTest 8.5.14 | [空席](entries/1245/1245690-kuuseki.org) | くうせき | 1245690 | new / draft |
+| JTest 8.5.17 | [思いがけず](entries/1309/1309200-omoigakezu.org) | おもいがけず | 1309200 | new / draft |
+| JTest 8.5.22 | [旅先](entries/1553/1553220-tabisaki.org) | たびさき | 1553220 | new / draft |
+| JTest 8.5.26 | [免税店](entries/1823/1823120-menzeiten.org) | めんぜいてん | 1823120 | new / draft |
+| JTest 9.1.4 | [体力](entries/1409/1409760-tairyoku.org) | たいりょく | 1409760 | new / draft |
+| JTest 9.1.10 | [一般に](entries/1165/1165800-ippanni.org) | いっぱんに | 1165800 | new / draft |
+| JTest 9.1.13 | [つま先](entries/1433/1433910-tsumasaki.org) | つまさき | 1433910 | new / draft |
+| JTest 9.1.14 | [血管](entries/1255/1255180-kekkan.org) | けっかん | 1255180 | new / draft |
+| JTest 9.1.18 | [乗り越える](entries/1354/1354770-norikoeru.org) | のりこえる | 1354770 | new / draft |
+| JTest 9.1.19 | [傷跡](entries/1591/1591230-kizuato.org) | きずあと | 1591230 | new / draft |
+| JTest 9.2.2 | [疲労](entries/1483/1483780-hirou.org) | ひろう | 1483780 | new / draft |
+| JTest 9.2.3 | [不調](entries/1493/1493840-fuchou.org) | ふちょう | 1493840 | new / draft |
+| JTest 9.2.4 | [体調](entries/1409/1409610-taichou.org) | たいちょう | 1409610 | new / draft |
+| JTest 9.2.6 | [寝心地](entries/1792/1792820-negokochi.org) | ねごこち | 1792820 | new / draft |
+| JTest 9.2.8 | [念のため](entries/1469/1469350-nennotame.org) | ねんのため | 1469350 | new / draft |
+| JTest 9.2.9 | [通院](entries/1433/1433040-tsuuin.org) | つういん | 1433040 | new / draft |
+| JTest 9.2.16 | [補給](entries/1514/1514510-hokyuu.org) | ほきゅう | 1514510 | new / draft |
+| JTest 9.2.19 | [取り戻す](entries/1326/1326940-torimodosu.org) | とりもどす | 1326940 | new / draft |
+| JTest 9.2.21 | [加入](entries/1190/1190430-kanyuu.org) | かにゅう | 1190430 | new / draft |
+| JTest 9.3.7 | [視野](entries/1312/1312140-shiya.org) | しや | 1312140 | new / draft |
+| JTest 9.3.11 | [便秘](entries/1512/1512580-benpi.org) | べんぴ | 1512580 | new / draft |
+| JTest 9.3.13 | [寒気](entries/1210/1210410-samuke.org) | さむけ | 1210410 | new / draft |
+| JTest 9.3.19 | [伴う](entries/1478/1478370-tomonau.org) | ともなう | 1478370 | new / draft |
+| JTest 9.3.22 | [反応](entries/1480/1480210-hannou.org) | はんのう | 1480210 | new / draft |
+| JTest 9.4.1 | [病む](entries/1490/1490210-yamu.org) | やむ | 1490210 | new / draft |
+| JTest 9.4.2 | [負傷](entries/1498/1498100-fushou.org) | ふしょう | 1498100 | new / draft |
+| JTest 9.4.4 | [熱中症](entries/2097/2097700-netchuushou.org) | ねっちゅうしょう | 2097700 | new / draft |
+| JTest 9.4.5 | [細菌](entries/1295/1295590-saikin.org) | さいきん | 1295590 | new / draft |
+| JTest 9.4.10 | [負担](entries/1498/1498130-futan.org) | ふたん | 1498130 | new / draft |
+| JTest 9.4.12 | [手当て](entries/1598/1598240-teate.org) | てあて | 1598240 | new / draft |
+| JTest 9.4.13 | [尽くす](entries/1370/1370090-tsukusu.org) | つくす | 1370090 | new / draft |
+| JTest 9.4.15 | [作用](entries/1298/1298000-sayou.org) | さよう | 1298000 | new / draft |
+| JTest 9.4.17 | [副作用](entries/1500/1500400-fukusayou.org) | ふくさよう | 1500400 | new / draft |
+| JTest 9.4.21 | [告げる](entries/1285/1285990-tsugeru.org) | つげる | 1285990 | new / draft |
+| JTest 9.4.24 | [配慮](entries/1473/1473210-hairyo.org) | はいりょ | 1473210 | new / draft |
+| JTest 9.4.25 | [遺伝](entries/1159/1159460-iden.org) | いでん | 1159460 | new / draft |
+| JTest 9.5.12 | [脂肪](entries/1311/1311820-shibou.org) | しぼう | 1311820 | new / draft |
+| JTest 9.5.13 | [肥満](entries/1484/1484300-himan.org) | ひまん | 1484300 | new / draft |
+| JTest 9.5.14 | [減量](entries/1263/1263350-genryou.org) | げんりょう | 1263350 | new / draft |
+| JTest 9.5.16 | [一向に](entries/1609/1609230-ikkouni.org) | いっこうに | 1609230 | new / draft |
+| JTest 9.5.17 | [疑わしい](entries/1225/1225530-utagawashii.org) | うたがわしい | 1225530 | new / draft |
+| JTest 9.5.20 | [依存](entries/1575/1575870-izon.org) | いぞん | 1575870 | new / draft |
+| JTest 10.1.2 | [続出](entries/1405/1405820-zokushutsu.org) | ぞくしゅつ | 1405820 | new / draft |
+| JTest 10.1.6 | [拒否](entries/1232/1232410-kyohi.org) | きょひ | 1232410 | new / draft |
+| JTest 10.1.14 | [暴力](entries/1519/1519590-bouryoku.org) | ぼうりょく | 1519590 | new / draft |
+| JTest 10.1.16 | [進入](entries/1366/1366180-shinnyuu.org) | しんにゅう | 1366180 | new / draft |
+| JTest 10.1.18 | [見知らぬ](entries/1259/1259860-mishiranu.org) | みしらぬ | 1259860 | new / draft |
+| JTest 10.1.20 | [縮まる](entries/1337/1337540-chijimaru.org) | ちぢまる | 1337540 | new / draft |
+| JTest 10.1.21 | [無理やり](entries/1531/1531030-muriyari.org) | むりやり | 1531030 | new / draft |
+| JTest 10.1.22 | [捜査](entries/1399/1399660-sousa.org) | そうさ | 1399660 | new / draft |
+| JTest 10.1.23 | [確定](entries/1205/1205880-kakutei.org) | かくてい | 1205880 | new / draft |
+| JTest 10.1.27 | [居場所](entries/1630/1630060-ibasho.org) | いばしょ | 1630060 | new / draft |
+| JTest 10.1.28 | [持ち主](entries/1605/1605230-mochinushi.org) | もちぬし | 1605230 | new / draft |
+| JTest 10.1.30 | [実に](entries/2820/2820720-jitsuni.org) | じつに | 2820720 | new / draft |
+| JTest 10.2.1 | [発生](entries/1477/1477620-hassei.org) | はっせい | 1477620 | new / draft |
+| JTest 10.2.2 | [相次ぐ](entries/1400/1400980-aitsugu.org) | あいつぐ | 1400980 | new / draft |
+| JTest 10.2.5 | [あり得ない](entries/2109/2109610-arienai.org) | ありえない | 2109610 | new / draft |
+| JTest 10.2.6 | [荒っぽい](entries/1281/1281470-arappoi.org) | あらっぽい | 1281470 | new / draft |
+| JTest 10.2.8 | [取り締まり](entries/1599/1599070-torishimari.org) | とりしまり | 1599070 | new / draft |
+| JTest 10.2.12 | [目撃](entries/1535/1535390-mokugeki.org) | もくげき | 1535390 | new / draft |
+| JTest 10.2.14 | [見逃す](entries/1604/1604670-minogasu.org) | みのがす | 1604670 | new / draft |
+| JTest 10.2.16 | [未だに](entries/1527/1527140-imadani.org) | いまだに | 1527140 | new / draft |
+| JTest 10.2.17 | [不明](entries/1495/1495060-fumei.org) | ふめい | 1495060 | new / draft |
+| JTest 10.2.19 | [誤る](entries/1271/1271300-ayamaru.org) | あやまる | 1271300 | new / draft |
+| JTest 10.2.25 | [火災](entries/1193/1193880-kasai.org) | かさい | 1193880 | new / draft |
+| JTest 10.2.26 | [消防車](entries/1350/1350360-shoubousha.org) | しょうぼうしゃ | 1350360 | new / draft |
+| JTest 10.3.1 | [政策](entries/1375/1375950-seisaku.org) | せいさく | 1375950 | new / draft |
+| JTest 10.3.4 | [掲げる](entries/1250/1250600-kakageru.org) | かかげる | 1250600 | new / draft |
+| JTest 10.3.7 | [発言](entries/1477/1477350-hatsugen.org) | はつげん | 1477350 | new / draft |
+| JTest 10.3.13 | [選挙](entries/1392/1392190-senkyo.org) | せんきょ | 1392190 | new / draft |
+| JTest 10.3.15 | [支持](entries/1310/1310150-shiji.org) | しじ | 1310150 | new / draft |
+| JTest 10.3.28 | [非難](entries/1483/1483410-hinan.org) | ひなん | 1483410 | new / draft |
+| JTest 10.4.5 | [復興](entries/1500/1500750-fukkou.org) | ふっこう | 1500750 | new / draft |
+| JTest 10.4.11 | [上回る](entries/1352/1352770-uwamawaru.org) | うわまわる | 1352770 | new / draft |
+| JTest 10.4.21 | [了承](entries/1606/1606280-ryoushou.org) | りょうしょう | 1606280 | new / draft |
+| JTest 10.4.22 | [個人情報](entries/1264/1264870-kojinjouhou.org) | こじんじょうほう | 1264870 | new / draft |
+| JTest 10.4.24 | [定着](entries/1435/1435730-teichaku.org) | ていちゃく | 1435730 | new / draft |
+| JTest 10.4.25 | [両立](entries/1554/1554110-ryouritsu.org) | りょうりつ | 1554110 | new / draft |
+| JTest 10.4.28 | [公](entries/1273/1273170-ooyake.org) | おおやけ | 1273170 | new / draft |
+| JTest 10.4.31 | [取材](entries/1327/1327020-shuzai.org) | しゅざい | 1327020 | new / draft |
+| JTest 10.4.32 | [報道](entries/1515/1515730-houdou.org) | ほうどう | 1515730 | new / draft |
+| JTest 10.4.33 | [中継](entries/1424/1424040-chuukei.org) | ちゅうけい | 1424040 | new / draft |
+| JTest 10.4.34 | [訂正](entries/1436/1436710-teisei.org) | ていせい | 1436710 | new / draft |
+| JTest 10.5.1 | [国旗](entries/1286/1286290-kokki.org) | こっき | 1286290 | new / draft |
+| JTest 10.5.4 | [先進国](entries/1387/1387940-senshinkoku.org) | せんしんこく | 1387940 | new / draft |
+| JTest 10.5.5 | [呼称](entries/1266/1266510-koshou.org) | こしょう | 1266510 | new / draft |
+| JTest 10.5.7 | [異文化](entries/1834/1834500-ibunka.org) | いぶんか | 1834500 | new / draft |
+| JTest 10.5.9 | [移民](entries/1158/1158440-imin.org) | いみん | 1158440 | new / draft |
+| JTest 10.5.10 | [見方](entries/1260/1260070-mikata.org) | みかた | 1260070 | new / draft |
+| JTest 10.5.12 | [支援](entries/1310/1310100-shien.org) | しえん | 1310100 | new / draft |
+| JTest 10.5.17 | [交渉](entries/1272/1272110-koushou.org) | こうしょう | 1272110 | new / draft |
+| JTest 10.5.19 | [危機](entries/1218/1218450-kiki.org) | きき | 1218450 | new / draft |
+| JTest 10.5.23 | [少子化](entries/2011/2011350-shoushika.org) | しょうしか | 2011350 | new / draft |
+| JTest 10.5.26 | [温暖化](entries/2658/2658470-ondanka.org) | おんだんか | 2658470 | new / draft |
+| JTest 10.5.27 | [開発](entries/1202/1202880-kaihatsu.org) | かいはつ | 1202880 | new / draft |
+| JTest 10.5.31 | [節電](entries/1386/1386310-setsuden.org) | せつでん | 1386310 | new / draft |
+| JTest 10.5.33 | [省エネ](entries/1351/1351060-shouene.org) | しょうエネ | 1351060 | new / draft |
+| JTest 11.1.1 | [人柄](entries/1369/1369200-hitogara.org) | ひとがら | 1369200 | new / draft |
+| JTest 11.1.7 | [頑固](entries/1217/1217680-ganko.org) | がんこ | 1217680 | new / draft |
+| JTest 11.1.9 | [無邪気](entries/1530/1530080-mujaki.org) | むじゃき | 1530080 | new / draft |
+| JTest 11.1.11 | [無口](entries/1529/1529940-mukuchi.org) | むくち | 1529940 | new / draft |
+| JTest 11.1.12 | [人見知り](entries/1367/1367260-hitomishiri.org) | ひとみしり | 1367260 | new / draft |
+| JTest 11.1.13 | [おく病](entries/1182/1182790-okubyou.org) | おくびょう | 1182790 | new / draft |
+| JTest 11.1.18 | [ねばり強い](entries/1469/1469690-nebarizuyoi.org) | ねばりづよい | 1469690 | new / draft |
+| JTest 11.1.22 | [短気](entries/1418/1418670-tanki.org) | たんき | 1418670 | new / draft |
+| JTest 11.1.27 | [乗り](entries/1354/1354720-nori.org) | のり | 1354720 | new / draft |
+| JTest 11.1.29 | [反面](entries/1481/1481000-hanmen.org) | はんめん | 1481000 | new / draft |
+| JTest 11.2.2 | [快い](entries/1199/1199970-kokoroyoi.org) | こころよい | 1199970 | new / draft |
+| JTest 11.2.3 | [心地よい](entries/1360/1360830-kokochiyoi.org) | ここちよい | 1360830 | new / draft |
+| JTest 11.2.7 | [心強い](entries/1360/1360640-kokorozuyoi.org) | こころづよい | 1360640 | new / draft |
+| JTest 11.2.9 | [前向き](entries/1392/1392970-maemuki.org) | まえむき | 1392970 | new / draft |
+| JTest 11.2.18 | [気分転換](entries/1222/1222610-kibuntenkan.org) | きぶんてんかん | 1222610 | new / draft |
+| JTest 11.3.4 | [心細い](entries/1360/1360680-kokorobosoi.org) | こころぼそい | 1360680 | new / draft |
+| JTest 11.3.5 | [弱気](entries/1324/1324710-yowaki.org) | よわき | 1324710 | new / draft |
+| JTest 11.3.6 | [落ち込む](entries/1548/1548570-ochikomu.org) | おちこむ | 1548570 | new / draft |
+| JTest 11.3.8 | [絶望](entries/1386/1386960-zetsubou.org) | ぜつぼう | 1386960 | new / draft |
+| JTest 11.3.9 | [傷つく](entries/1591/1591240-kizutsuku.org) | きずつく | 1591240 | new / draft |
+| JTest 11.3.12 | [戸惑う](entries/1267/1267100-tomadou.org) | とまどう | 1267100 | new / draft |
+| JTest 11.3.16 | [仕方ない](entries/1305/1305440-shikatanai.org) | しかたない | 1305440 | new / draft |
+| JTest 11.3.19 | [情けない](entries/1599/1599480-nasakenai.org) | なさけない | 1599480 | new / draft |
+| JTest 11.3.20 | [恥](entries/1421/1421590-haji.org) | はじ | 1421590 | new / draft |
+| JTest 11.3.22 | [構わない](entries/1866/1866610-kamawanai.org) | かまわない | 1866610 | new / draft |
+| JTest 11.4.10 | [洗練](entries/1391/1391090-senren.org) | せんれん | 1391090 | new / draft |
+| JTest 11.4.14 | [断然](entries/1419/1419690-danzen.org) | だんぜん | 1419690 | new / draft |
+
+## Final 1300-word branch N2 continuation (2026-10-04)
+
+Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **1300**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Final audit: **1100 → 1300** new translated words relative to `origin/main`.
+Exactly **200** distinct entries were added after `eb8e85f2`, with **200**
+individual word commits and **20** completed batches of ten. Earlier entries
+are unchanged. All **310 English senses** have original Ukrainian glosses
+and usage notes; the primary senses contain **600 graded examples**.
+All 200 entries passed JMdict validation, Org lint, and doctor **100/100**,
+with zero errors or warnings. Full suite: **137 tests, 16643 assertions**,
+zero failures, errors, or skips. Source fingerprints and sense inventories
+are preserved. The existing uncommitted 罪 draft remains untouched.
+
+The current selection uses 75 remaining [JTest candidates](sources/jlpt-n2/jtest/README.md),
+86 [Kotoba candidates](sources/jlpt-n2/kotoba/README.md), and
+39 [TodayJLPT candidates](sources/jlpt-n2/todayjlpt/README.md).
+Their lexical metadata, page URLs, and snapshot checksums are recorded;
+definitions, Ukrainian notes, and examples were authored independently.
+These additions remain `new` / learner `draft` pending linguistic review.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JTest 11.4.18 | [質素](entries/1320/1320710-shisso.org) | しっそ | 1320710 | new / draft |
+| JTest 11.5.10 | [見苦しい](entries/1259/1259500-migurushii.org) | みぐるしい | 1259500 | new / draft |
+| JTest 11.5.14 | [乏しい](entries/1584/1584130-toboshii.org) | とぼしい | 1584130 | new / draft |
+| JTest 11.5.15 | [中途半端](entries/1425/1425050-chuutohanpa.org) | ちゅうとはんぱ | 1425050 | new / draft |
+| JTest 12.1.1 | [気が早い](entries/2056/2056600-kigahayai.org) | きがはやい | 2056600 | new / draft |
+| JTest 12.1.2 | [気が重い](entries/1221/1221590-kigaomoi.org) | きがおもい | 1221590 | new / draft |
+| JTest 12.1.3 | [気が合う](entries/1221/1221570-kigaau.org) | きがあう | 1221570 | new / draft |
+| JTest 12.1.4 | [気が利く](entries/1221/1221640-kigakiku.org) | きがきく | 1221640 | new / draft |
+| JTest 12.1.5 | [気がつく](entries/1591/1591050-kigatsuku.org) | きがつく | 1591050 | new / draft |
+| JTest 12.1.6 | [気が強い](entries/1639/1639460-kigatsuyoi.org) | きがつよい | 1639460 | new / draft |
+| JTest 12.1.7 | [気が小さい](entries/1221/1221600-kigachiisai.org) | きがちいさい | 1221600 | new / draft |
+| JTest 12.1.8 | [気を遣う](entries/1591/1591980-kiwotsukau.org) | きをつかう | 1591980 | new / draft |
+| JTest 12.1.9 | [気が進まない](entries/2056/2056640-kigasusumanai.org) | きがすすまない | 2056640 | new / draft |
+| JTest 12.1.10 | [気にかかる](entries/1639/1639560-kinikakaru.org) | きにかかる | 1639560 | new / draft |
+| JTest 12.1.11 | [気にくわない](entries/1221/1221730-kinikuwanai.org) | きにくわない | 1221730 | new / draft |
+| JTest 12.1.12 | [心が通う](entries/1639/1639980-kokorogakayou.org) | こころがかよう | 1639980 | new / draft |
+| JTest 12.1.13 | [心が狭い](entries/2748/2748940-kokorogasemai.org) | こころがせまい | 2748940 | new / draft |
+| JTest 12.1.14 | [心が動く](entries/1639/1639990-kokorogaugoku.org) | こころがうごく | 1639990 | new / draft |
+| JTest 12.1.15 | [心を配る](entries/1876/1876530-kokorowokubaru.org) | こころをくばる | 1876530 | new / draft |
+| JTest 12.1.16 | [心を引かれる](entries/2764/2764460-kokorowohikareru.org) | こころをひかれる | 2764460 | new / draft |
+| JTest 12.1.17 | [心を許す](entries/2401/2401940-kokorowoyurusu.org) | こころをゆるす | 2401940 | new / draft |
+| JTest 12.1.18 | [胸が痛む](entries/2786/2786110-munegaitamu.org) | むねがいたむ | 2786110 | new / draft |
+| JTest 12.1.19 | [胸が一杯になる](entries/2705/2705660-munegaippaininaru.org) | むねがいっぱいになる | 2705660 | new / draft |
+| JTest 12.2.1 | [頭が痛い](entries/1621/1621770-atamagaitai.org) | あたまがいたい | 1621770 | new / draft |
+| JTest 12.2.2 | [頭が固い](entries/1856/1856520-atamagakatai.org) | あたまがかたい | 1856520 | new / draft |
+| JTest 12.2.3 | [頭にくる](entries/1450/1450720-atamanikuru.org) | あたまにくる | 1450720 | new / draft |
+| JTest 12.2.4 | [頭が下がる](entries/2237/2237310-atamagasagaru.org) | あたまがさがる | 2237310 | new / draft |
+| JTest 12.2.5 | [顔が広い](entries/2139/2139970-kaogahiroi.org) | かおがひろい | 2139970 | new / draft |
+| JTest 12.2.6 | [顔を出す](entries/2101/2101420-kaowodasu.org) | かおをだす | 2101420 | new / draft |
+| JTest 12.2.7 | [目がない](entries/1535/1535080-meganai.org) | めがない | 1535080 | new / draft |
+| JTest 12.2.8 | [目が離せない](entries/2756/2756360-megahanasenai.org) | めがはなせない | 2756360 | new / draft |
+| JTest 12.2.9 | [目が回る](entries/1535/1535090-megamawaru.org) | めがまわる | 1535090 | new / draft |
+| JTest 12.2.10 | [目に浮かぶ](entries/2012/2012300-meniukabu.org) | めにうかぶ | 2012300 | new / draft |
+| JTest 12.2.11 | [目にする](entries/2399/2399540-menisuru.org) | めにする | 2399540 | new / draft |
+| JTest 12.2.12 | [目に付く](entries/1605/1605000-menitsuku.org) | めにつく | 1605000 | new / draft |
+| JTest 12.2.13 | [目を疑う](entries/2755/2755550-mewoutagau.org) | めをうたがう | 2755550 | new / draft |
+| JTest 12.2.14 | [目を向ける](entries/2098/2098490-mewomukeru.org) | めをむける | 2098490 | new / draft |
+| JTest 12.2.15 | [目を通す](entries/1535/1535250-mewotoosu.org) | めをとおす | 1535250 | new / draft |
+| JTest 12.2.16 | [耳が痛い](entries/2578/2578130-mimigaitai.org) | みみがいたい | 2578130 | new / draft |
+| JTest 12.2.17 | [耳が遠い](entries/1317/1317180-mimigatooi.org) | みみがとおい | 1317180 | new / draft |
+| JTest 12.2.18 | [耳にする](entries/2059/2059550-miminisuru.org) | みみにする | 2059550 | new / draft |
+| JTest 12.2.19 | [耳を傾ける](entries/2069/2069560-mimiwokatamukeru.org) | みみをかたむける | 2069560 | new / draft |
+| JTest 12.2.20 | [耳を疑う](entries/2402/2402950-mimiwoutagau.org) | みみをうたがう | 2402950 | new / draft |
+| JTest 12.2.21 | [口がうまい](entries/1608/1608590-kuchigaumai.org) | くちがうまい | 1608590 | new / draft |
+| JTest 12.2.22 | [口が堅い](entries/2134/2134550-kuchigakatai.org) | くちがかたい | 2134550 | new / draft |
+| JTest 12.2.23 | [口が軽い](entries/1275/1275680-kuchigakarui.org) | くちがかるい | 1275680 | new / draft |
+| JTest 12.2.24 | [口が重い](entries/1275/1275690-kuchigaomoi.org) | くちがおもい | 1275690 | new / draft |
+| JTest 12.2.25 | [口が滑る](entries/1640/1640380-kuchigasuberu.org) | くちがすべる | 1640380 | new / draft |
+| JTest 12.2.26 | [口が悪い](entries/1275/1275670-kuchigawarui.org) | くちがわるい | 1275670 | new / draft |
+| JTest 12.2.27 | [口にする](entries/1275/1275750-kuchinisuru.org) | くちにする | 1275750 | new / draft |
+| JTest 12.2.28 | [口に合う](entries/1872/1872140-kuchiniau.org) | くちにあう | 1872140 | new / draft |
+| JTest 12.2.29 | [口を出す](entries/1275/1275760-kuchiwodasu.org) | くちをだす | 1275760 | new / draft |
+| JTest 12.3.2 | [手が空く](entries/2093/2093080-tegaaku.org) | てがあく | 2093080 | new / draft |
+| JTest 12.3.3 | [手がかかる](entries/2089/2089710-tegakakaru.org) | てがかかる | 2089710 | new / draft |
+| JTest 12.3.4 | [手が離せない](entries/2125/2125840-tegahanasenai.org) | てがはなせない | 2125840 | new / draft |
+| JTest 12.3.5 | [手に入れる](entries/1327/1327230-teniireru.org) | てにいれる | 1327230 | new / draft |
+| JTest 12.3.6 | [手にする](entries/2266/2266810-tenisuru.org) | てにする | 2266810 | new / draft |
+| JTest 12.3.7 | [手につかない](entries/2202/2202960-tenitsukanai.org) | てにつかない | 2202960 | new / draft |
+| JTest 12.3.8 | [手をつける](entries/2222/2222160-tewotsukeru.org) | てをつける | 2222160 | new / draft |
+| JTest 12.3.9 | [手を貸す](entries/2126/2126990-tewokasu.org) | てをかす | 2126990 | new / draft |
+| JTest 12.3.10 | [手を休める](entries/2832/2832092-tewoyasumeru.org) | てをやすめる | 2832092 | new / draft |
+| JTest 12.3.11 | [手を抜く](entries/1327/1327310-tewonuku.org) | てをぬく | 1327310 | new / draft |
+| JTest 12.3.12 | [腕がいい](entries/1860/1860340-udegaii.org) | うでがいい | 1860340 | new / draft |
+| JTest 12.3.13 | [腕を磨く](entries/2102/2102290-udewomigaku.org) | うでをみがく | 2102290 | new / draft |
+| JTest 12.3.14 | [腕が上がる](entries/1854/1854800-udegaagaru.org) | うでがあがる | 1854800 | new / draft |
+| JTest 12.3.15 | [肩を落とす](entries/2402/2402770-katawootosu.org) | かたをおとす | 2402770 | new / draft |
+| JTest 12.3.16 | [腹が立つ](entries/1626/1626220-haragatatsu.org) | はらがたつ | 1626220 | new / draft |
+| JTest 12.3.17 | [腹を抱える](entries/2028/2028420-harawokakaeru.org) | はらをかかえる | 2028420 | new / draft |
+| JTest 12.3.18 | [足が出る](entries/1404/1404640-ashigaderu.org) | あしがでる | 1404640 | new / draft |
+| JTest 12.3.19 | [足を伸ばす](entries/2266/2266910-ashiwonobasu.org) | あしをのばす | 2266910 | new / draft |
+| JTest 12.3.20 | [足を運ぶ](entries/2102/2102020-ashiwohakobu.org) | あしをはこぶ | 2102020 | new / draft |
+| JTest 12.3.21 | [足を引っ張る](entries/2119/2119830-ashiwohipparu.org) | あしをひっぱる | 2119830 | new / draft |
+| JTest 12.4.1 | [何かと](entries/1189/1189280-nanikato.org) | なにかと | 1189280 | new / draft |
+| JTest 12.4.2 | [何だかんだ](entries/1188/1188360-nandakanda.org) | なんだかんだ | 1188360 | new / draft |
+| JTest 12.4.4 | [何だか](entries/1188/1188350-nandaka.org) | なんだか | 1188350 | new / draft |
+| Kotoba N2 4 | [仰ぐ](entries/1238/1238780-aogu.org) | あおぐ | 1238780 | new / draft |
+| Kotoba N2 16 | [異議](entries/1157/1157580-igi.org) | いぎ | 1157580 | new / draft |
+| Kotoba N2 17 | [移行](entries/1158/1158240-ikou.org) | いこう | 1158240 | new / draft |
+| Kotoba N2 18 | [意向](entries/1587/1587200-ikou.org) | いこう | 1587200 | new / draft |
+| Kotoba N2 24 | [上下](entries/1352/1352700-ueshita.org) | うえした | 1352700 | new / draft |
+| Kotoba N2 32 | [演習](entries/1176/1176930-enshuu.org) | えんしゅう | 1176930 | new / draft |
+| Kotoba N2 36 | [丈](entries/1354/1354600-take.org) | たけ | 1354600 | new / draft |
+| Kotoba N2 44 | [脅かす](entries/1578/1578075-obiyakasu.org) | おびやかす | 1578075 | new / draft |
+| Kotoba N2 50 | [確立](entries/1206/1206030-kakuritsu.org) | かくりつ | 1206030 | new / draft |
+| Kotoba N2 51 | [加工](entries/1190/1190120-kakou.org) | かこう | 1190120 | new / draft |
+| Kotoba N2 55 | [化繊](entries/1187/1187250-kasen.org) | かせん | 1187250 | new / draft |
+| Kotoba N2 56 | [河川](entries/1193/1193520-kasen.org) | かせん | 1193520 | new / draft |
+| Kotoba N2 63 | [干渉](entries/1212/1212050-kanshou.org) | かんしょう | 1212050 | new / draft |
+| Kotoba N2 64 | [緩和](entries/1214/1214530-kanwa.org) | かんわ | 1214530 | new / draft |
+| Kotoba N2 66 | [月日](entries/1609/1609580-gappi.org) | がっぴ | 1609580 | new / draft |
+| Kotoba N2 67 | [基金](entries/1219/1219020-kikin.org) | ききん | 1219020 | new / draft |
+| Kotoba N2 68 | [気象](entries/1222/1222270-kishou.org) | きしょう | 1222270 | new / draft |
+| Kotoba N2 70 | [教科](entries/1237/1237010-kyouka.org) | きょうか | 1237010 | new / draft |
+| Kotoba N2 82 | [現行](entries/1263/1263630-genkou.org) | げんこう | 1263630 | new / draft |
+| Kotoba N2 83 | [原子](entries/1261/1261570-genshi.org) | げんし | 1261570 | new / draft |
+| Kotoba N2 84 | [行員](entries/1281/1281840-kouin.org) | こういん | 1281840 | new / draft |
+| Kotoba N2 85 | [好況](entries/1277/1277620-koukyou.org) | こうきょう | 1277620 | new / draft |
+| Kotoba N2 86 | [講習](entries/1282/1282290-koushuu.org) | こうしゅう | 1282290 | new / draft |
+| Kotoba N2 87 | [降水](entries/1282/1282890-kousui.org) | こうすい | 1282890 | new / draft |
+| Kotoba N2 88 | [抗争](entries/1278/1278950-kousou.org) | こうそう | 1278950 | new / draft |
+| Kotoba N2 89 | [構想](entries/1279/1279780-kousou.org) | こうそう | 1279780 | new / draft |
+| Kotoba N2 90 | [後退](entries/1269/1269880-koutai.org) | こうたい | 1269880 | new / draft |
+| Kotoba N2 91 | [口頭](entries/1276/1276710-koutou.org) | こうとう | 1276710 | new / draft |
+| Kotoba N2 92 | [荒廃](entries/1281/1281620-kouhai.org) | こうはい | 1281620 | new / draft |
+| Kotoba N2 93 | [好評](entries/1277/1277780-kouhyou.org) | こうひょう | 1277780 | new / draft |
+| Kotoba N2 94 | [公用](entries/1274/1274940-kouyou.org) | こうよう | 1274940 | new / draft |
+| Kotoba N2 96 | [固体](entries/1266/1266640-kotai.org) | こたい | 1266640 | new / draft |
+| Kotoba N2 105 | [採算](entries/1294/1294780-saisan.org) | さいさん | 1294780 | new / draft |
+| Kotoba N2 106 | [細胞](entries/1295/1295740-saibou.org) | さいぼう | 1295740 | new / draft |
+| Kotoba N2 107 | [映える](entries/1600/1600620-haeru.org) | はえる | 1600620 | new / draft |
+| Kotoba N2 111 | [寒気](entries/2866/2866134-kanki.org) | かんき | 2866134 | new / draft |
+| Kotoba N2 112 | [侍](entries/1314/1314780-samurai.org) | さむらい | 1314780 | new / draft |
+| Kotoba N2 116 | [視覚](entries/1312/1312010-shikaku.org) | しかく | 1312010 | new / draft |
+| Kotoba N2 117 | [資格](entries/1312/1312690-shikaku.org) | しかく | 1312690 | new / draft |
+| Kotoba N2 122 | [使命](entries/1306/1306160-shimei.org) | しめい | 1306160 | new / draft |
+| Kotoba N2 127 | [少数](entries/1349/1349070-shousuu.org) | しょうすう | 1349070 | new / draft |
+| Kotoba N2 130 | [退く](entries/1595/1595084-shirizoku.org) | しりぞく | 1595084 | new / draft |
+| Kotoba N2 133 | [新](entries/1361/1361480-shin.org) | しん | 1361480 | new / draft |
+| Kotoba N2 134 | [新人](entries/1361/1361960-shinjin.org) | しんじん | 1361960 | new / draft |
+| Kotoba N2 135 | [神聖](entries/1364/1364730-shinsei.org) | しんせい | 1364730 | new / draft |
+| Kotoba N2 136 | [進路](entries/1366/1366200-shinro.org) | しんろ | 1366200 | new / draft |
+| Kotoba N2 149 | [生死](entries/1379/1379060-seishi.org) | せいし | 1379060 | new / draft |
+| Kotoba N2 150 | [聖書](entries/1380/1380340-seisho.org) | せいしょ | 1380340 | new / draft |
+| Kotoba N2 151 | [正当](entries/1377/1377660-seitou.org) | せいとう | 1377660 | new / draft |
+| Kotoba N2 152 | [戦闘](entries/1390/1390420-sentou.org) | せんとう | 1390420 | new / draft |
+| Kotoba N2 154 | [捜索](entries/1399/1399690-sousaku.org) | そうさく | 1399690 | new / draft |
+| Kotoba N2 158 | [態勢](entries/1410/1410770-taisei.org) | たいせい | 1410770 | new / draft |
+| Kotoba N2 165 | [第一](entries/1415/1415270-daiichi.org) | だいいち | 1415270 | new / draft |
+| Kotoba N2 168 | [中傷](entries/1424/1424500-chuushou.org) | ちゅうしょう | 1424500 | new / draft |
+| Kotoba N2 169 | [次いで](entries/1316/1316390-tsuide.org) | ついで | 1316390 | new / draft |
+| Kotoba N2 174 | [摘む](entries/1437/1437060-tsumu.org) | つむ | 1437060 | new / draft |
+| Kotoba N2 179 | [電線](entries/1443/1443570-densen.org) | でんせん | 1443570 | new / draft |
+| Kotoba N2 189 | [慣らす](entries/1212/1212650-narasu.org) | ならす | 1212650 | new / draft |
+| Kotoba N2 205 | [繁栄](entries/1481/1481670-hanei.org) | はんえい | 1481670 | new / draft |
+| Kotoba N2 207 | [老ける](entries/1561/1561010-fukeru.org) | ふける | 1561010 | new / draft |
+| Kotoba N2 208 | [罰](entries/1478/1478060-batsu.org) | ばつ | 1478060 | new / draft |
+| Kotoba N2 215 | [布巾](entries/1496/1496850-fukin.org) | ふきん | 1496850 | new / draft |
+| Kotoba N2 217 | [富豪](entries/1496/1496780-fugou.org) | ふごう | 1496780 | new / draft |
+| Kotoba N2 218 | [負債](entries/1498/1498080-fusai.org) | ふさい | 1498080 | new / draft |
+| Kotoba N2 224 | [兵器](entries/1506/1506320-heiki.org) | へいき | 1506320 | new / draft |
+| Kotoba N2 225 | [閉口](entries/1508/1508660-heikou.org) | へいこう | 1508660 | new / draft |
+| Kotoba N2 226 | [平行](entries/2835/2835826-heikou.org) | へいこう | 2835826 | new / draft |
+| Kotoba N2 228 | [法学](entries/1517/1517230-hougaku.org) | ほうがく | 1517230 | new / draft |
+| Kotoba N2 229 | [放棄](entries/1516/1516580-houki.org) | ほうき | 1516580 | new / draft |
+| Kotoba N2 230 | [保険](entries/1513/1513440-hoken.org) | ほけん | 1513440 | new / draft |
+| Kotoba N2 231 | [坊ちゃん](entries/1603/1603720-botchan.org) | ぼっちゃん | 1603720 | new / draft |
+| Kotoba N2 243 | [設ける](entries/1386/1386000-moukeru.org) | もうける | 1386000 | new / draft |
+| Kotoba N2 247 | [持ち](entries/1612/1612060-mochi.org) | もち | 1612060 | new / draft |
+| Kotoba N2 250 | [漏る](entries/1560/1560840-moru.org) | もる | 1560840 | new / draft |
+| Kotoba N2 257 | [勇敢](entries/1539/1539730-yuukan.org) | ゆうかん | 1539730 | new / draft |
+| Kotoba N2 259 | [養護](entries/1605/1605847-yougo.org) | ようご | 1605847 | new / draft |
+| Kotoba N2 336 | [埋める](entries/1524/1524490-uzumeru.org) | うずめる | 1524490 | new / draft |
+| Kotoba N2 444 | [火口](entries/1724/1724250-higuchi.org) | ひぐち | 1724250 | new / draft |
+| Kotoba N2 468 | [仮名](entries/1577/1577090-kamei.org) | かめい | 1577090 | new / draft |
+| Kotoba N2 1195 | [何分](entries/1189/1189320-nanpun.org) | なんぷん | 1189320 | new / draft |
+| Kotoba N2 1205 | [二次](entries/1461/1461870-niji.org) | にじ | 1461870 | new / draft |
+| Kotoba N2 1273 | [閥](entries/1478/1478310-batsu.org) | ばつ | 1478310 | new / draft |
+| Kotoba N2 1275 | [万年](entries/1526/1526310-mannen.org) | まんねん | 1526310 | new / draft |
+| Kotoba N2 1489 | [蒸かす](entries/1356/1356850-fukasu.org) | ふかす | 1356850 | new / draft |
+| Kotoba N2 1508 | [目下](entries/1535/1535330-mokka.org) | もっか | 1535330 | new / draft |
+| Kotoba N2 1564 | [幼子](entries/1545/1545150-osanago.org) | おさなご | 1545150 | new / draft |
+| TodayJLPT N2 3 | [相棒](entries/1401/1401350-aibou.org) | あいぼう | 1401350 | new / draft |
+| TodayJLPT N2 13 | [上げ](entries/1352/1352300-age.org) | あげ | 1352300 | new / draft |
+| TodayJLPT N2 18 | [足腰](entries/1404/1404810-ashikoshi.org) | あしこし | 1404810 | new / draft |
+| TodayJLPT N2 19 | [足取り](entries/1404/1404830-ashidori.org) | あしどり | 1404830 | new / draft |
+| TodayJLPT N2 28 | [圧勝](entries/1153/1153140-asshou.org) | あっしょう | 1153140 | new / draft |
+| TodayJLPT N2 63 | [息切れ](entries/1404/1404420-ikigire.org) | いきぎれ | 1404420 | new / draft |
+| TodayJLPT N2 73 | [移植](entries/1158/1158310-ishoku.org) | いしょく | 1158310 | new / draft |
+| TodayJLPT N2 79 | [一団](entries/1164/1164680-ichidan.org) | いちだん | 1164680 | new / draft |
+| TodayJLPT N2 82 | [一倍](entries/1165/1165690-ichibai.org) | いちばい | 1165690 | new / draft |
+| TodayJLPT N2 84 | [一角](entries/1161/1161400-ikkaku.org) | いっかく | 1161400 | new / draft |
+| TodayJLPT N2 86 | [一国](entries/1162/1162530-ikkoku.org) | いっこく | 1162530 | new / draft |
+| TodayJLPT N2 89 | [一色](entries/1576/1576130-isshoku.org) | いっしょく | 1576130 | new / draft |
+| TodayJLPT N2 103 | [胃袋](entries/1158/1158600-ibukuro.org) | いぶくろ | 1158600 | new / draft |
+| TodayJLPT N2 104 | [今一](entries/1289/1289030-imaichi.org) | いまいち | 1289030 | new / draft |
+| TodayJLPT N2 105 | [今時](entries/1289/1289180-imadoki.org) | いまどき | 1289180 | new / draft |
+| TodayJLPT N2 106 | [今や](entries/1289/1289000-imaya.org) | いまや | 1289000 | new / draft |
+| TodayJLPT N2 113 | [色気](entries/1357/1357670-iroke.org) | いろけ | 1357670 | new / draft |
+| TodayJLPT N2 123 | [雨季](entries/1588/1588010-uki.org) | うき | 1588010 | new / draft |
+| TodayJLPT N2 131 | [打ち合わせる](entries/1588/1588150-uchiawaseru.org) | うちあわせる | 1588150 | new / draft |
+| TodayJLPT N2 139 | [羽毛](entries/1171/1171810-umou.org) | うもう | 1171810 | new / draft |
+| TodayJLPT N2 141 | [裏表](entries/1550/1550560-uraomote.org) | うらおもて | 1550560 | new / draft |
+| TodayJLPT N2 143 | [裏側](entries/1550/1550410-uragawa.org) | うらがわ | 1550410 | new / draft |
+| TodayJLPT N2 147 | [裏道](entries/1550/1550530-uramichi.org) | うらみち | 1550530 | new / draft |
+| TodayJLPT N2 150 | [売り](entries/1854/1854880-uri.org) | うり | 1854880 | new / draft |
+| TodayJLPT N2 159 | [運航](entries/1172/1172740-unkou.org) | うんこう | 1172740 | new / draft |
+| TodayJLPT N2 160 | [運行](entries/1172/1172750-unkou.org) | うんこう | 1172750 | new / draft |
+| TodayJLPT N2 163 | [永住](entries/1174/1174160-eijuu.org) | えいじゅう | 1174160 | new / draft |
+| TodayJLPT N2 165 | [英訳](entries/1174/1174670-eiyaku.org) | えいやく | 1174670 | new / draft |
+| TodayJLPT N2 166 | [鋭利](entries/1174/1174960-eiri.org) | えいり | 1174960 | new / draft |
+| TodayJLPT N2 177 | [演芸](entries/1176/1176850-engei.org) | えんげい | 1176850 | new / draft |
+| TodayJLPT N2 181 | [炎上](entries/1177/1177120-enjou.org) | えんじょう | 1177120 | new / draft |
+| TodayJLPT N2 183 | [円高](entries/1175/1175820-endaka.org) | えんだか | 1175820 | new / draft |
+| TodayJLPT N2 184 | [円柱](entries/1176/1176010-enchuu.org) | えんちゅう | 1176010 | new / draft |
+| TodayJLPT N2 191 | [欧州](entries/1181/1181190-oushuu.org) | おうしゅう | 1181190 | new / draft |
+| TodayJLPT N2 200 | [大型](entries/1413/1413530-oogata.org) | おおがた | 1413530 | new / draft |
+| TodayJLPT N2 221 | [押し](entries/1180/1180130-oshi.org) | おし | 1180130 | new / draft |
+| TodayJLPT N2 230 | [汚水](entries/1179/1179030-osui.org) | おすい | 1179030 | new / draft |
+| TodayJLPT N2 233 | [落ち](entries/1548/1548530-ochi.org) | おち | 1548530 | new / draft |
+| TodayJLPT N2 259 | [重荷](entries/1579/1579940-omoni.org) | おもに | 1579940 | new / draft |
+
+## Final 1500-word branch N2 continuation (2026-10-04)
+
+Baseline: `ae93afdd`, with **1300** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **1500**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+
+Final audit: **1300 → 1500** new translated words relative to `origin/main`.
+Exactly **200** distinct entries were added after `ae93afdd`, with **200**
+individual word commits and **20** completed batches of ten. Earlier entries
+are unchanged. All **287 English senses** have original Ukrainian glosses
+and usage notes; the primary senses contain **600 graded examples**.
+All 200 entries passed JMdict validation, Org lint, and doctor **100/100**,
+with zero errors or warnings. Full suite: **137 tests, 17243 assertions**,
+zero failures, errors, or skips. Source fingerprints and sense inventories
+are preserved. The existing uncommitted 罪 draft remains untouched.
+
+The selection uses 200 [TodayJLPT N2 candidates](sources/jlpt-n2/todayjlpt/README.md).
+All selected lexical rows match the documented manifest and source snapshots;
+page URLs and SHA-256 checksums are recorded. Ukrainian definitions, usage
+notes, and graded examples were authored independently. These additions remain
+`new` / learner `draft` pending linguistic review.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 264 | [音階](entries/1183/1183710-onkai.org) | おんかい | 1183710 | new / draft |
+| TodayJLPT N2 266 | [温厚](entries/1183/1183380-onkou.org) | おんこう | 1183380 | new / draft |
+| TodayJLPT N2 272 | [音符](entries/1184/1184040-onpu.org) | おんぷ | 1184040 | new / draft |
+| TodayJLPT N2 276 | [海域](entries/1201/1201210-kaiiki.org) | かいいき | 1201210 | new / draft |
+| TodayJLPT N2 277 | [開花](entries/1202/1202550-kaika.org) | かいか | 1202550 | new / draft |
+| TodayJLPT N2 279 | [快活](entries/1200/1200000-kaikatsu.org) | かいかつ | 1200000 | new / draft |
+| TodayJLPT N2 281 | [快感](entries/1200/1200010-kaikan.org) | かいかん | 1200010 | new / draft |
+| TodayJLPT N2 282 | [外気](entries/1203/1203470-gaiki.org) | がいき | 1203470 | new / draft |
+| TodayJLPT N2 283 | [海軍](entries/1201/1201330-kaigun.org) | かいぐん | 1201330 | new / draft |
+| TodayJLPT N2 284 | [解雇](entries/1198/1198980-kaiko.org) | かいこ | 1198980 | new / draft |
+| TodayJLPT N2 285 | [外交官](entries/1203/1203560-gaikoukan.org) | がいこうかん | 1203560 | new / draft |
+| TodayJLPT N2 293 | [解析](entries/1199/1199060-kaiseki.org) | かいせき | 1199060 | new / draft |
+| TodayJLPT N2 295 | [開設](entries/1202/1202800-kaisetsu.org) | かいせつ | 1202800 | new / draft |
+| TodayJLPT N2 296 | [回線](entries/1199/1199570-kaisen.org) | かいせん | 1199570 | new / draft |
+| TodayJLPT N2 297 | [改装](entries/1200/1200990-kaisou.org) | かいそう | 1200990 | new / draft |
+| TodayJLPT N2 299 | [改築](entries/1201/1201020-kaichiku.org) | かいちく | 1201020 | new / draft |
+| TodayJLPT N2 300 | [害虫](entries/1204/1204350-gaichuu.org) | がいちゅう | 1204350 | new / draft |
+| TodayJLPT N2 301 | [快調](entries/1200/1200110-kaichou.org) | かいちょう | 1200110 | new / draft |
+| TodayJLPT N2 303 | [海底](entries/1201/1201650-kaitei.org) | かいてい | 1201650 | new / draft |
+| TodayJLPT N2 307 | [回避](entries/1199/1199700-kaihi.org) | かいひ | 1199700 | new / draft |
+| TodayJLPT N2 308 | [開票](entries/1202/1202910-kaihyou.org) | かいひょう | 1202910 | new / draft |
+| TodayJLPT N2 310 | [開封](entries/1202/1202920-kaifuu.org) | かいふう | 1202920 | new / draft |
+| TodayJLPT N2 313 | [開幕](entries/1202/1202960-kaimaku.org) | かいまく | 1202960 | new / draft |
+| TodayJLPT N2 316 | [替え](entries/1410/1410830-kae.org) | かえ | 1410830 | new / draft |
+| TodayJLPT N2 319 | [香る](entries/1589/1589830-kaoru.org) | かおる | 1589830 | new / draft |
+| TodayJLPT N2 320 | [関わらず](entries/1589/1589860-kakawarazu.org) | かかわらず | 1589860 | new / draft |
+| TodayJLPT N2 326 | [各](entries/1204/1204860-kaku.org) | かく | 1204860 | new / draft |
+| TodayJLPT N2 331 | [楽団](entries/1207/1207430-gakudan.org) | がくだん | 1207430 | new / draft |
+| TodayJLPT N2 334 | [学長](entries/1206/1206990-gakuchou.org) | がくちょう | 1206990 | new / draft |
+| TodayJLPT N2 336 | [格闘](entries/1205/1205440-kakutou.org) | かくとう | 1205440 | new / draft |
+| TodayJLPT N2 337 | [学童](entries/1207/1207010-gakudou.org) | がくどう | 1207010 | new / draft |
+| TodayJLPT N2 341 | [隔離](entries/1206/1206440-kakuri.org) | かくり | 1206440 | new / draft |
+| TodayJLPT N2 344 | [歌劇](entries/1193/1193260-kageki.org) | かげき | 1193260 | new / draft |
+| TodayJLPT N2 348 | [欠片](entries/1254/1254090-kakera.org) | かけら | 1254090 | new / draft |
+| TodayJLPT N2 349 | [囲い](entries/1155/1155950-kakoi.org) | かこい | 1155950 | new / draft |
+| TodayJLPT N2 350 | [囲う](entries/1155/1155960-kakou.org) | かこう | 1155960 | new / draft |
+| TodayJLPT N2 356 | [加算](entries/1190/1190230-kasan.org) | かさん | 1190230 | new / draft |
+| TodayJLPT N2 363 | [貨車](entries/1195/1195870-kasha.org) | かしゃ | 1195870 | new / draft |
+| TodayJLPT N2 367 | [歌唱](entries/1193/1193320-kashou.org) | かしょう | 1193320 | new / draft |
+| TodayJLPT N2 369 | [頭文字](entries/1450/1450940-kashiramoji.org) | かしらもじ | 1450940 | new / draft |
+| TodayJLPT N2 375 | [仮想](entries/1187/1187740-kasou.org) | かそう | 1187740 | new / draft |
+| TodayJLPT N2 376 | [仮装](entries/1187/1187790-kasou.org) | かそう | 1187790 | new / draft |
+| TodayJLPT N2 386 | [片目](entries/1511/1511830-katame.org) | かため | 1511830 | new / draft |
+| TodayJLPT N2 404 | [過熱](entries/1196/1196350-kanetsu.org) | かねつ | 1196350 | new / draft |
+| TodayJLPT N2 429 | [川下](entries/1390/1390050-kawashimo.org) | かわしも | 1390050 | new / draft |
+| TodayJLPT N2 433 | [乾季](entries/1590/1590850-kanki.org) | かんき | 1590850 | new / draft |
+| TodayJLPT N2 436 | [観劇](entries/1214/1214820-kangeki.org) | かんげき | 1214820 | new / draft |
+| TodayJLPT N2 439 | [観賞](entries/1214/1214940-kanshou.org) | かんしょう | 1214940 | new / draft |
+| TodayJLPT N2 453 | [寒波](entries/1210/1210520-kanpa.org) | かんぱ | 1210520 | new / draft |
+| TodayJLPT N2 457 | [巻末](entries/1211/1211250-kanmatsu.org) | かんまつ | 1211250 | new / draft |
+| TodayJLPT N2 459 | [関門](entries/1216/1216040-kanmon.org) | かんもん | 1216040 | new / draft |
+| TodayJLPT N2 460 | [管理者](entries/1214/1214230-kanrisha.org) | かんりしゃ | 1214230 | new / draft |
+| TodayJLPT N2 465 | [利かせる](entries/2005/2005590-kikaseru.org) | きかせる | 2005590 | new / draft |
+| TodayJLPT N2 473 | [岸辺](entries/1217/1217060-kishibe.org) | きしべ | 1217060 | new / draft |
+| TodayJLPT N2 476 | [希少](entries/1222/1222880-kishou.org) | きしょう | 1222880 | new / draft |
+| TodayJLPT N2 482 | [既存](entries/1220/1220450-kison.org) | きそん | 1220450 | new / draft |
+| TodayJLPT N2 484 | [喫煙](entries/1226/1226390-kitsuen.org) | きつえん | 1226390 | new / draft |
+| TodayJLPT N2 489 | [技法](entries/1225/1225240-gihou.org) | ぎほう | 1225240 | new / draft |
+| TodayJLPT N2 490 | [気前](entries/1222/1222410-kimae.org) | きまえ | 1222410 | new / draft |
+| TodayJLPT N2 491 | [気難しい](entries/1577/1577750-kimuzukashii.org) | きむずかしい | 1577750 | new / draft |
+| TodayJLPT N2 492 | [決め付ける](entries/1254/1254210-kimetsukeru.org) | きめつける | 1254210 | new / draft |
+| TodayJLPT N2 495 | [逆境](entries/1227/1227010-gyakkyou.org) | ぎゃっきょう | 1227010 | new / draft |
+| TodayJLPT N2 498 | [急患](entries/1228/1228670-kyuukan.org) | きゅうかん | 1228670 | new / draft |
+| TodayJLPT N2 501 | [旧式](entries/1230/1230790-kyuushiki.org) | きゅうしき | 1230790 | new / draft |
+| TodayJLPT N2 502 | [救出](entries/1229/1229180-kyuushutsu.org) | きゅうしゅつ | 1229180 | new / draft |
+| TodayJLPT N2 504 | [急変](entries/1228/1228960-kyuuhen.org) | きゅうへん | 1228960 | new / draft |
+| TodayJLPT N2 505 | [給油](entries/1230/1230340-kyuuyu.org) | きゅうゆ | 1230340 | new / draft |
+| TodayJLPT N2 509 | [競泳](entries/1234/1234060-kyouei.org) | きょうえい | 1234060 | new / draft |
+| TodayJLPT N2 512 | [行間](entries/1281/1281880-gyoukan.org) | ぎょうかん | 1281880 | new / draft |
+| TodayJLPT N2 513 | [競合](entries/1234/1234100-kyougou.org) | きょうごう | 1234100 | new / draft |
+| TodayJLPT N2 516 | [胸部](entries/1237/1237980-kyoubu.org) | きょうぶ | 1237980 | new / draft |
+| TodayJLPT N2 521 | [極度](entries/1240/1240440-kyokudo.org) | きょくど | 1240440 | new / draft |
+| TodayJLPT N2 522 | [極東](entries/1240/1240450-kyokutou.org) | きょくとう | 1240450 | new / draft |
+| TodayJLPT N2 523 | [極力](entries/1240/1240510-kyokuryoku.org) | きょくりょく | 1240510 | new / draft |
+| TodayJLPT N2 524 | [挙式](entries/1232/1232560-kyoshiki.org) | きょしき | 1232560 | new / draft |
+| TodayJLPT N2 525 | [巨人](entries/1232/1232090-kyojin.org) | きょじん | 1232090 | new / draft |
+| TodayJLPT N2 526 | [切らす](entries/1383/1383780-kirasu.org) | きらす | 1383780 | new / draft |
+| TodayJLPT N2 528 | [切りがない](entries/1383/1383810-kiriganai.org) | きりがない | 1383810 | new / draft |
+| TodayJLPT N2 533 | [琴](entries/2229/2229960-kin.org) | きん | 2229960 | new / draft |
+| TodayJLPT N2 534 | [金貨](entries/1242/1242680-kinka.org) | きんか | 1242680 | new / draft |
+| TodayJLPT N2 535 | [銀河](entries/1243/1243440-ginga.org) | ぎんが | 1243440 | new / draft |
+| TodayJLPT N2 536 | [銀貨](entries/1243/1243450-ginka.org) | ぎんか | 1243450 | new / draft |
+| TodayJLPT N2 538 | [禁酒](entries/1241/1241570-kinshu.org) | きんしゅ | 1241570 | new / draft |
+| TodayJLPT N2 539 | [金星](entries/1243/1243010-kinsei.org) | きんせい | 1243010 | new / draft |
+| TodayJLPT N2 540 | [均等](entries/1241/1241310-kintou.org) | きんとう | 1241310 | new / draft |
+| TodayJLPT N2 541 | [近辺](entries/1242/1242530-kinpen.org) | きんぺん | 1242530 | new / draft |
+| TodayJLPT N2 543 | [空軍](entries/1245/1245520-kuugun.org) | くうぐん | 1245520 | new / draft |
+| TodayJLPT N2 547 | [空白](entries/1245/1245950-kuuhaku.org) | くうはく | 1245950 | new / draft |
+| TodayJLPT N2 548 | [空輸](entries/1246/1246060-kuuyu.org) | くうゆ | 1246060 | new / draft |
+| TodayJLPT N2 551 | [苦境](entries/1244/1244440-kukyou.org) | くきょう | 1244440 | new / draft |
+| TodayJLPT N2 572 | [苦悩](entries/1244/1244610-kunou.org) | くのう | 1244610 | new / draft |
+| TodayJLPT N2 578 | [区民](entries/1244/1244260-kumin.org) | くみん | 1244260 | new / draft |
+| TodayJLPT N2 581 | [苦しめる](entries/1244/1244360-kurushimeru.org) | くるしめる | 1244360 | new / draft |
+| TodayJLPT N2 585 | [軍人](entries/1248/1248540-gunjin.org) | ぐんじん | 1248540 | new / draft |
+| TodayJLPT N2 586 | [軍団](entries/1248/1248770-gundan.org) | ぐんだん | 1248770 | new / draft |
+| TodayJLPT N2 597 | [軽薄](entries/1252/1252830-keihaku.org) | けいはく | 1252830 | new / draft |
+| TodayJLPT N2 601 | [計量](entries/1252/1252260-keiryou.org) | けいりょう | 1252260 | new / draft |
+| TodayJLPT N2 605 | [激突](entries/1253/1253730-gekitotsu.org) | げきとつ | 1253730 | new / draft |
+| TodayJLPT N2 613 | [月額](entries/1255/1255520-getsugaku.org) | げつがく | 1255520 | new / draft |
+| TodayJLPT N2 616 | [月食](entries/1255/1255730-gesshoku.org) | げっしょく | 1255730 | new / draft |
+| TodayJLPT N2 624 | [献血](entries/1258/1258430-kenketsu.org) | けんけつ | 1258430 | new / draft |
+| TodayJLPT N2 626 | [建材](entries/1257/1257400-kenzai.org) | けんざい | 1257400 | new / draft |
+| TodayJLPT N2 631 | [減税](entries/1263/1263260-genzei.org) | げんぜい | 1263260 | new / draft |
+| TodayJLPT N2 632 | [建造](entries/1257/1257480-kenzou.org) | けんぞう | 1257480 | new / draft |
+| TodayJLPT N2 633 | [減速](entries/1263/1263270-gensoku.org) | げんそく | 1263270 | new / draft |
+| TodayJLPT N2 635 | [減退](entries/1263/1263280-gentai.org) | げんたい | 1263280 | new / draft |
+| TodayJLPT N2 637 | [減点](entries/1263/1263290-genten.org) | げんてん | 1263290 | new / draft |
+| TodayJLPT N2 641 | [見聞](entries/1260/1260030-kenbun.org) | けんぶん | 1260030 | new / draft |
+| TodayJLPT N2 647 | [恋心](entries/1585/1585260-koigokoro.org) | こいごころ | 1585260 | new / draft |
+| TodayJLPT N2 649 | [恋文](entries/1559/1559040-koibumi.org) | こいぶみ | 1559040 | new / draft |
+| TodayJLPT N2 652 | [光栄](entries/1272/1272870-kouei.org) | こうえい | 1272870 | new / draft |
+| TodayJLPT N2 653 | [高温](entries/1283/1283280-kouon.org) | こうおん | 1283280 | new / draft |
+| TodayJLPT N2 655 | [高額](entries/1283/1283320-kougaku.org) | こうがく | 1283320 | new / draft |
+| TodayJLPT N2 660 | [航行](entries/1281/1281390-koukou.org) | こうこう | 1281390 | new / draft |
+| TodayJLPT N2 675 | [校則](entries/1279/1279580-kousoku.org) | こうそく | 1279580 | new / draft |
+| TodayJLPT N2 676 | [高卒](entries/1283/1283730-kousotsu.org) | こうそつ | 1283730 | new / draft |
+| TodayJLPT N2 680 | [構築](entries/1279/1279810-kouchiku.org) | こうちく | 1279810 | new / draft |
+| TodayJLPT N2 684 | [硬度](entries/1280/1280620-koudo.org) | こうど | 1280620 | new / draft |
+| TodayJLPT N2 689 | [効能](entries/1275/1275180-kounou.org) | こうのう | 1275180 | new / draft |
+| TodayJLPT N2 690 | [紅白](entries/1280/1280790-kouhaku.org) | こうはく | 1280790 | new / draft |
+| TodayJLPT N2 695 | [荒野](entries/1586/1586770-kouya.org) | こうや | 1586770 | new / draft |
+| TodayJLPT N2 702 | [高齢](entries/1284/1284030-kourei.org) | こうれい | 1284030 | new / draft |
+| TodayJLPT N2 703 | [航路](entries/1281/1281440-kouro.org) | こうろ | 1281440 | new / draft |
+| TodayJLPT N2 704 | [港湾](entries/1280/1280030-kouwan.org) | こうわん | 1280030 | new / draft |
+| TodayJLPT N2 707 | [戸外](entries/1266/1266980-kogai.org) | こがい | 1266980 | new / draft |
+| TodayJLPT N2 708 | [互角](entries/1268/1268820-gokaku.org) | ごかく | 1268820 | new / draft |
+| TodayJLPT N2 710 | [漕ぐ](entries/1400/1400530-kogu.org) | こぐ | 1400530 | new / draft |
+| TodayJLPT N2 712 | [極上](entries/1240/1240340-gokujou.org) | ごくじょう | 1240340 | new / draft |
+| TodayJLPT N2 719 | [小言](entries/1348/1348050-kogoto.org) | こごと | 1348050 | new / draft |
+| TodayJLPT N2 725 | [個室](entries/1264/1264750-koshitsu.org) | こしつ | 1264750 | new / draft |
+| TodayJLPT N2 727 | [古城](entries/1265/1265560-kojou.org) | こじょう | 1265560 | new / draft |
+| TodayJLPT N2 735 | [骨格](entries/1288/1288570-kokkaku.org) | こっかく | 1288570 | new / draft |
+| TodayJLPT N2 740 | [事による](entries/1313/1313590-kotoniyoru.org) | ことによる | 1313590 | new / draft |
+| TodayJLPT N2 748 | [雇用](entries/1267/1267860-koyou.org) | こよう | 1267860 | new / draft |
+| TodayJLPT N2 752 | [五輪](entries/1593/1593610-gorin.org) | ごりん | 1593610 | new / draft |
+| TodayJLPT N2 760 | [根性](entries/1290/1290210-konjou.org) | こんじょう | 1290210 | new / draft |
+| TodayJLPT N2 769 | [再考](entries/1292/1292710-saikou.org) | さいこう | 1292710 | new / draft |
+| TodayJLPT N2 770 | [再婚](entries/1292/1292750-saikon.org) | さいこん | 1292750 | new / draft |
+| TodayJLPT N2 773 | [材質](entries/1296/1296650-zaishitsu.org) | ざいしつ | 1296650 | new / draft |
+| TodayJLPT N2 774 | [採取](entries/1294/1294800-saishu.org) | さいしゅ | 1294800 | new / draft |
+| TodayJLPT N2 775 | [在籍](entries/1296/1296530-zaiseki.org) | ざいせき | 1296530 | new / draft |
+| TodayJLPT N2 776 | [再選](entries/1293/1293070-saisen.org) | さいせん | 1293070 | new / draft |
+| TodayJLPT N2 778 | [最短](entries/1294/1294210-saitan.org) | さいたん | 1294210 | new / draft |
+| TodayJLPT N2 779 | [財団](entries/1296/1296940-zaidan.org) | ざいだん | 1296940 | new / draft |
+| TodayJLPT N2 781 | [再度](entries/1293/1293240-saido.org) | さいど | 1293240 | new / draft |
+| TodayJLPT N2 783 | [細部](entries/1295/1295710-saibu.org) | さいぶ | 1295710 | new / draft |
+| TodayJLPT N2 800 | [鎖国](entries/1291/1291740-sakoku.org) | さこく | 1291740 | new / draft |
+| TodayJLPT N2 813 | [錯覚](entries/1298/1298400-sakkaku.org) | さっかく | 1298400 | new / draft |
+| TodayJLPT N2 814 | [殺菌](entries/1299/1299070-sakkin.org) | さっきん | 1299070 | new / draft |
+| TodayJLPT N2 826 | [山間](entries/1302/1302810-sankan.org) | さんかん | 1302810 | new / draft |
+| TodayJLPT N2 827 | [算出](entries/1303/1303910-sanshutsu.org) | さんしゅつ | 1303910 | new / draft |
+| TodayJLPT N2 828 | [三振](entries/1300/1300990-sanshin.org) | さんしん | 1300990 | new / draft |
+| TodayJLPT N2 832 | [参拝](entries/1302/1302570-sanpai.org) | さんぱい | 1302570 | new / draft |
+| TodayJLPT N2 833 | [散布](entries/1303/1303600-sanpu.org) | さんぷ | 1303600 | new / draft |
+| TodayJLPT N2 835 | [産卵](entries/1303/1303890-sanran.org) | さんらん | 1303890 | new / draft |
+| TodayJLPT N2 837 | [史](entries/2080/2080900-shi.org) | し | 2080900 | new / draft |
+| TodayJLPT N2 838 | [誌](entries/1312/1312610-shi.org) | し | 1312610 | new / draft |
+| TodayJLPT N2 849 | [塩辛](entries/1178/1178740-shiokara.org) | しおから | 1178740 | new / draft |
+| TodayJLPT N2 855 | [志願](entries/1309/1309080-shigan.org) | しがん | 1309080 | new / draft |
+| TodayJLPT N2 861 | [死語](entries/1310/1310840-shigo.org) | しご | 1310840 | new / draft |
+| TodayJLPT N2 862 | [資材](entries/1312/1312740-shizai.org) | しざい | 1312740 | new / draft |
+| TodayJLPT N2 864 | [指示](entries/1309/1309800-shiji.org) | しじ | 1309800 | new / draft |
+| TodayJLPT N2 869 | [史上](entries/1306/1306860-shijou.org) | しじょう | 1306860 | new / draft |
+| TodayJLPT N2 871 | [静める](entries/1594/1594280-shizumeru.org) | しずめる | 1594280 | new / draft |
+| TodayJLPT N2 894 | [失礼しました](entries/1320/1320240-shitsureishimashita.org) | しつれいしました | 1320240 | new / draft |
+| TodayJLPT N2 900 | [市販](entries/1308/1308660-shihan.org) | しはん | 1308660 | new / draft |
+| TodayJLPT N2 908 | [島国](entries/1582/1582260-shimaguni.org) | しまぐに | 1582260 | new / draft |
+| TodayJLPT N2 921 | [弱者](entries/1324/1324780-jakusha.org) | じゃくしゃ | 1324780 | new / draft |
+| TodayJLPT N2 925 | [謝罪](entries/1323/1323030-shazai.org) | しゃざい | 1323030 | new / draft |
+| TodayJLPT N2 929 | [車線](entries/1323/1323180-shasen.org) | しゃせん | 1323180 | new / draft |
+| TodayJLPT N2 942 | [就寝](entries/1331/1331740-shuushin.org) | しゅうしん | 1331740 | new / draft |
+| TodayJLPT N2 949 | [周年](entries/1331/1331240-shuunen.org) | しゅうねん | 1331240 | new / draft |
+| TodayJLPT N2 950 | [収納](entries/1330/1330830-shuunou.org) | しゅうのう | 1330830 | new / draft |
+| TodayJLPT N2 953 | [収量](entries/1330/1330970-shuuryou.org) | しゅうりょう | 1330970 | new / draft |
+| TodayJLPT N2 958 | [収録](entries/1330/1330980-shuuroku.org) | しゅうろく | 1330980 | new / draft |
+| TodayJLPT N2 962 | [祝杯](entries/1337/1337510-shukuhai.org) | しゅくはい | 1337510 | new / draft |
+| TodayJLPT N2 963 | [祝福](entries/1337/1337520-shukufuku.org) | しゅくふく | 1337520 | new / draft |
+| TodayJLPT N2 964 | [熟練](entries/1337/1337930-jukuren.org) | じゅくれん | 1337930 | new / draft |
+| TodayJLPT N2 968 | [主将](entries/1325/1325590-shushou.org) | しゅしょう | 1325590 | new / draft |
+| TodayJLPT N2 969 | [受賞](entries/1329/1329790-jushou.org) | じゅしょう | 1329790 | new / draft |
+| TodayJLPT N2 971 | [酒造](entries/1329/1329140-shuzou.org) | しゅぞう | 1329140 | new / draft |
+| TodayJLPT N2 972 | [種族](entries/1328/1328840-shuzoku.org) | しゅぞく | 1328840 | new / draft |
+| TodayJLPT N2 973 | [術](entries/1340/1340780-jutsu.org) | じゅつ | 1340780 | new / draft |
+| TodayJLPT N2 974 | [出火](entries/1338/1338330-shukka.org) | しゅっか | 1338330 | new / draft |
+| TodayJLPT N2 975 | [出荷](entries/1338/1338350-shukka.org) | しゅっか | 1338350 | new / draft |
+| TodayJLPT N2 979 | [出展](entries/1339/1339800-shutten.org) | しゅってん | 1339800 | new / draft |
+| TodayJLPT N2 980 | [出入](entries/1339/1339900-shutsunyuu.org) | しゅつにゅう | 1339900 | new / draft |
+| TodayJLPT N2 984 | [巡回](entries/1342/1342070-junkai.org) | じゅんかい | 1342070 | new / draft |
+| TodayJLPT N2 986 | [純金](entries/1341/1341880-junkin.org) | じゅんきん | 1341880 | new / draft |
+| TodayJLPT N2 992 | [順路](entries/1609/1609940-junro.org) | じゅんろ | 1609940 | new / draft |
+| TodayJLPT N2 993 | [上映](entries/1352/1352650-jouei.org) | じょうえい | 1352650 | new / draft |
+| TodayJLPT N2 995 | [少額](entries/1348/1348960-shougaku.org) | しょうがく | 1348960 | new / draft |
+| TodayJLPT N2 996 | [昇格](entries/1349/1349740-shoukaku.org) | しょうかく | 1349740 | new / draft |
+| TodayJLPT N2 1002 | [昇給](entries/1349/1349760-shoukyuu.org) | しょうきゅう | 1349760 | new / draft |
+| TodayJLPT N2 1007 | [将軍](entries/1347/1347680-shougun.org) | しょうぐん | 1347680 | new / draft |
+| TodayJLPT N2 1009 | [小国](entries/1348/1348100-shoukoku.org) | しょうこく | 1348100 | new / draft |
+| TodayJLPT N2 1010 | [賞賛](entries/1594/1594920-shousan.org) | しょうさん | 1594920 | new / draft |
+| TodayJLPT N2 1020 | [小児](entries/1348/1348190-shouni.org) | しょうに | 1348190 | new / draft |
+| TodayJLPT N2 1021 | [小人](entries/1348/1348350-shounin.org) | しょうにん | 1348350 | new / draft |
+| TodayJLPT N2 1030 | [消滅](entries/1350/1350380-shoumetsu.org) | しょうめつ | 1350380 | new / draft |
+
+## Final 1700-word branch N2 continuation (2026-10-04)
+
+Baseline: `f0d52112`, with **1500** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **1700**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+
+Final audit: **1500 → 1700** new translated words relative to `origin/main`.
+The handoff began at `126a080c` with **1504** words: four individually
+committed entries from the other agent were validated and retained. This run
+added the remaining **196** words. In total, exactly **200** distinct entries
+were added after `f0d52112`, in **200 individual word commits** and **20**
+completed batches of ten. Earlier entries are unchanged.
+
+All **322 English senses** have original Ukrainian glosses and usage notes;
+the primary senses contain **600 graded examples**. All 200 entries passed
+JMdict validation, Org lint, and doctor **100/100**, with zero errors or
+warnings. Full suite: **137 tests, 17843 assertions**, zero failures, errors,
+or skips. Source fingerprints, forms, readings, and sense inventories are
+preserved. Entries remain `new` / learner `draft` pending linguistic review.
+
+The selection combines 11 [Nihon Torii N2 candidates](sources/jlpt-n2/nihon-torii/README.md)
+and 189 [TodayJLPT N2 candidates](sources/jlpt-n2/todayjlpt/README.md), including
+the four inherited entries. Lexical rows match the documented manifests and
+source snapshots; page URLs and SHA-256 checksums are recorded. Source
+translations and examples were not copied. Both existing untracked files,
+`entries/1296/1296680-tsumi.org` and `scripts/find_next_100_candidates.rb`,
+remain unchanged and uncommitted.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 1051 | [書名](entries/1344/1344170-shomei.org) | しょめい | 1344170 | new / draft |
+| TodayJLPT N2 1042 | [諸国](entries/1344/1344270-shokoku.org) | しょこく | 1344270 | new / draft |
+| TodayJLPT N2 1049 | [諸島](entries/1344/1344330-shotou.org) | しょとう | 1344330 | new / draft |
+| TodayJLPT N2 1041 | [職歴](entries/1357/1357590-shokureki.org) | しょくれき | 1357590 | new / draft |
+| Nihon Torii N2 29 | [湿る](entries/1320/1320390-shimeru.org) | しめる | 1320390 | new / draft |
+| Nihon Torii N2 108 | [揚げる](entries/2864/2864817-ageru.org) | あげる | 2864817 | new / draft |
+| Nihon Torii N2 132 | [討つ](entries/1478/1478010-utsu.org) | うつ | 1478010 | new / draft |
+| Nihon Torii N2 148 | [脅す](entries/1238/1238070-odosu.org) | おどす | 1238070 | new / draft |
+| Nihon Torii N2 151 | [衰える](entries/1372/1372430-otoroeru.org) | おとろえる | 1372430 | new / draft |
+| Nihon Torii N2 155 | [買い込む](entries/1473/1473610-kaikomu.org) | かいこむ | 1473610 | new / draft |
+| Nihon Torii N2 175 | [鍛える](entries/1419/1419120-kitaeru.org) | きたえる | 1419120 | new / draft |
+| Nihon Torii N2 251 | [発つ](entries/2857/2857436-tatsu.org) | たつ | 2857436 | new / draft |
+| Nihon Torii N2 295 | [亡くす](entries/2835/2835808-nakusu.org) | なくす | 2835808 | new / draft |
+| Nihon Torii N2 345 | [蒔く](entries/2611/2611890-maku.org) | まく | 2611890 | new / draft |
+| Nihon Torii N2 1611 | [薬缶](entries/1605/1605370-yakan.org) | やかん | 1605370 | new / draft |
+| TodayJLPT N2 1034 | [少量](entries/1595/1595030-shouryou.org) | しょうりょう | 1595030 | new / draft |
+| TodayJLPT N2 1040 | [植林](entries/1357/1357390-shokurin.org) | しょくりん | 1357390 | new / draft |
+| TodayJLPT N2 1053 | [知らん顔](entries/1420/1420440-shirankao.org) | しらんかお | 1420440 | new / draft |
+| TodayJLPT N2 1059 | [試練](entries/1312/1312590-shiren.org) | しれん | 1312590 | new / draft |
+| TodayJLPT N2 1061 | [白黒](entries/1475/1475160-shirokuro.org) | しろくろ | 1475160 | new / draft |
+| TodayJLPT N2 1064 | [新型](entries/1361/1361770-shingata.org) | しんがた | 1361770 | new / draft |
+| TodayJLPT N2 1065 | [新刊](entries/1361/1361580-shinkan.org) | しんかん | 1361580 | new / draft |
+| TodayJLPT N2 1067 | [心境](entries/1360/1360630-shinkyou.org) | しんきょう | 1360630 | new / draft |
+| TodayJLPT N2 1071 | [浸水](entries/1362/1362610-shinsui.org) | しんすい | 1362610 | new / draft |
+| TodayJLPT N2 1074 | [新設](entries/1362/1362070-shinsetsu.org) | しんせつ | 1362070 | new / draft |
+| TodayJLPT N2 1078 | [新党](entries/1362/1362230-shintou.org) | しんとう | 1362230 | new / draft |
+| TodayJLPT N2 1079 | [神童](entries/1364/1364780-shindou.org) | しんどう | 1364780 | new / draft |
+| TodayJLPT N2 1089 | [水域](entries/1371/1371300-suiiki.org) | すいいき | 1371300 | new / draft |
+| TodayJLPT N2 1090 | [水温](entries/1371/1371330-suion.org) | すいおん | 1371330 | new / draft |
+| TodayJLPT N2 1091 | [吸い込む](entries/1228/1228230-suikomu.org) | すいこむ | 1228230 | new / draft |
+| TodayJLPT N2 1107 | [数値](entries/1373/1373160-suuchi.org) | すうち | 1373160 | new / draft |
+| TodayJLPT N2 1146 | [精液](entries/1379/1379890-seieki.org) | せいえき | 1379890 | new / draft |
+| TodayJLPT N2 1147 | [声援](entries/1380/1380460-seien.org) | せいえん | 1380460 | new / draft |
+| TodayJLPT N2 1149 | [生協](entries/1378/1378910-seikyou.org) | せいきょう | 1378910 | new / draft |
+| TodayJLPT N2 1150 | [生後](entries/1378/1378950-seigo.org) | せいご | 1378950 | new / draft |
+| TodayJLPT N2 1157 | [生前](entries/1379/1379200-seizen.org) | せいぜん | 1379200 | new / draft |
+| TodayJLPT N2 1158 | [正装](entries/1377/1377480-seisou.org) | せいそう | 1377480 | new / draft |
+| TodayJLPT N2 1163 | [青銅](entries/1381/1381710-seidou.org) | せいどう | 1381710 | new / draft |
+| TodayJLPT N2 1175 | [赤面](entries/1383/1383620-sekimen.org) | せきめん | 1383620 | new / draft |
+| TodayJLPT N2 1177 | [絶叫](entries/1386/1386780-zekkyou.org) | ぜっきょう | 1386780 | new / draft |
+| TodayJLPT N2 1179 | [摂取](entries/1385/1385710-sesshu.org) | せっしゅ | 1385710 | new / draft |
+| TodayJLPT N2 1184 | [接点](entries/1385/1385610-setten.org) | せってん | 1385610 | new / draft |
+| TodayJLPT N2 1195 | [全額](entries/1394/1394970-zengaku.org) | ぜんがく | 1394970 | new / draft |
+| TodayJLPT N2 1198 | [潜在](entries/1391/1391310-senzai.org) | せんざい | 1391310 | new / draft |
+| TodayJLPT N2 1200 | [全焼](entries/1395/1395390-zenshou.org) | ぜんしょう | 1395390 | new / draft |
+| TodayJLPT N2 1201 | [染色](entries/1391/1391210-senshoku.org) | せんしょく | 1391210 | new / draft |
+| TodayJLPT N2 1205 | [前線](entries/1393/1393510-zensen.org) | ぜんせん | 1393510 | new / draft |
+| TodayJLPT N2 1211 | [前兆](entries/1596/1596330-zenchou.org) | ぜんちょう | 1596330 | new / draft |
+| TodayJLPT N2 1214 | [先導](entries/1388/1388280-sendou.org) | せんどう | 1388280 | new / draft |
+| TodayJLPT N2 1216 | [前年](entries/1393/1393840-zennen.org) | ぜんねん | 1393840 | new / draft |
+| TodayJLPT N2 1219 | [専務](entries/1389/1389870-senmu.org) | せんむ | 1389870 | new / draft |
+| TodayJLPT N2 1221 | [戦略](entries/1390/1390600-senryaku.org) | せんりゃく | 1390600 | new / draft |
+| TodayJLPT N2 1229 | [総計](entries/1401/1401540-soukei.org) | そうけい | 1401540 | new / draft |
+| TodayJLPT N2 1235 | [蔵書](entries/1403/1403510-zousho.org) | ぞうしょ | 1403510 | new / draft |
+| TodayJLPT N2 1236 | [総数](entries/1401/1401660-sousuu.org) | そうすう | 1401660 | new / draft |
+| TodayJLPT N2 1237 | [増税](entries/1403/1403280-zouzei.org) | ぞうぜい | 1403280 | new / draft |
+| TodayJLPT N2 1238 | [増設](entries/1403/1403290-zousetsu.org) | ぞうせつ | 1403290 | new / draft |
+| TodayJLPT N2 1244 | [挿入](entries/1399/1399840-sounyuu.org) | そうにゅう | 1399840 | new / draft |
+| TodayJLPT N2 1246 | [双方](entries/1398/1398940-souhou.org) | そうほう | 1398940 | new / draft |
+| TodayJLPT N2 1247 | [総理](entries/1401/1401810-souri.org) | そうり | 1401810 | new / draft |
+| TodayJLPT N2 1251 | [族](entries/1405/1405770-zoku.org) | ぞく | 1405770 | new / draft |
+| TodayJLPT N2 1256 | [即売](entries/1404/1404300-sokubai.org) | そくばい | 1404300 | new / draft |
+| TodayJLPT N2 1259 | [底力](entries/1436/1436120-sokojikara.org) | そこぢから | 1436120 | new / draft |
+| TodayJLPT N2 1262 | [注ぎ込む](entries/1581/1581720-sosogikomu.org) | そそぎこむ | 1581720 | new / draft |
+| TodayJLPT N2 1279 | [村長](entries/1406/1406840-sonchou.org) | そんちょう | 1406840 | new / draft |
+| TodayJLPT N2 1283 | [大火](entries/1413/1413170-taika.org) | たいか | 1413170 | new / draft |
+| TodayJLPT N2 1288 | [大国](entries/1413/1413710-taikoku.org) | たいこく | 1413710 | new / draft |
+| TodayJLPT N2 1289 | [題材](entries/1415/1415480-daizai.org) | だいざい | 1415480 | new / draft |
+| TodayJLPT N2 1292 | [退社](entries/1411/1411400-taisha.org) | たいしゃ | 1411400 | new / draft |
+| TodayJLPT N2 1294 | [大将](entries/1581/1581510-taishou.org) | たいしょう | 1581510 | new / draft |
+| TodayJLPT N2 1296 | [大賞](entries/1414/1414140-taishou.org) | たいしょう | 1414140 | new / draft |
+| TodayJLPT N2 1301 | [代替](entries/1581/1581470-daitai.org) | だいたい | 1581470 | new / draft |
+| TodayJLPT N2 1302 | [大仏](entries/1414/1414890-daibutsu.org) | だいぶつ | 1414890 | new / draft |
+| TodayJLPT N2 1311 | [大量](entries/1415/1415190-tairyou.org) | たいりょう | 1415190 | new / draft |
+| TodayJLPT N2 1320 | [多数](entries/1407/1407860-tasuu.org) | たすう | 1407860 | new / draft |
+| TodayJLPT N2 1329 | [脱皮](entries/1416/1416600-dappi.org) | だっぴ | 1416600 | new / draft |
+| TodayJLPT N2 1330 | [脱落](entries/1416/1416640-datsuraku.org) | だつらく | 1416640 | new / draft |
+| TodayJLPT N2 1333 | [谷底](entries/1416/1416760-tanizoko.org) | たにぞこ | 1416760 | new / draft |
+| TodayJLPT N2 1334 | [谷間](entries/1416/1416740-tanima.org) | たにま | 1416740 | new / draft |
+| TodayJLPT N2 1345 | [団員](entries/1419/1419180-danin.org) | だんいん | 1419180 | new / draft |
+| TodayJLPT N2 1356 | [断念](entries/1419/1419780-dannen.org) | だんねん | 1419780 | new / draft |
+| TodayJLPT N2 1358 | [断片](entries/1419/1419790-danpen.org) | だんぺん | 1419790 | new / draft |
+| TodayJLPT N2 1360 | [短命](entries/1418/1418830-tanmei.org) | たんめい | 1418830 | new / draft |
+| TodayJLPT N2 1361 | [遅延](entries/1422/1422030-chien.org) | ちえん | 1422030 | new / draft |
+| TodayJLPT N2 1370 | [竹林](entries/1422/1422400-chikurin.org) | ちくりん | 1422400 | new / draft |
+| TodayJLPT N2 1373 | [地層](entries/1421/1421320-chisou.org) | ちそう | 1421320 | new / draft |
+| TodayJLPT N2 1383 | [仲介](entries/1425/1425750-chuukai.org) | ちゅうかい | 1425750 | new / draft |
+| TodayJLPT N2 1384 | [中型](entries/1424/1424010-chuugata.org) | ちゅうがた | 1424010 | new / draft |
+| TodayJLPT N2 1386 | [駐在](entries/1426/1426890-chuuzai.org) | ちゅうざい | 1426890 | new / draft |
+| TodayJLPT N2 1387 | [注釈](entries/1426/1426610-chuushaku.org) | ちゅうしゃく | 1426610 | new / draft |
+| TodayJLPT N2 1388 | [抽出](entries/1426/1426180-chuushutsu.org) | ちゅうしゅつ | 1426180 | new / draft |
+| TodayJLPT N2 1396 | [朝刊](entries/1428/1428320-choukan.org) | ちょうかん | 1428320 | new / draft |
+| TodayJLPT N2 1397 | [兆候](entries/1597/1597620-choukou.org) | ちょうこう | 1597620 | new / draft |
+| TodayJLPT N2 1399 | [調剤](entries/1429/1429160-chouzai.org) | ちょうざい | 1429160 | new / draft |
+| TodayJLPT N2 1409 | [跳躍](entries/1429/1429710-chouyaku.org) | ちょうやく | 1429710 | new / draft |
+| TodayJLPT N2 1411 | [直撃](entries/1430/1430890-chokugeki.org) | ちょくげき | 1430890 | new / draft |
+| TodayJLPT N2 1417 | [著作](entries/1427/1427090-chosaku.org) | ちょさく | 1427090 | new / draft |
+| TodayJLPT N2 1425 | [珍味](entries/1431/1431970-chinmi.org) | ちんみ | 1431970 | new / draft |
+| TodayJLPT N2 1427 | [追伸](entries/1432/1432540-tsuishin.org) | ついしん | 1432540 | new / draft |
+| TodayJLPT N2 1441 | [作り上げる](entries/1297/1297320-tsukuriageru.org) | つくりあげる | 1297320 | new / draft |
+| TodayJLPT N2 1442 | [作り出す](entries/1297/1297300-tsukuridasu.org) | つくりだす | 1297300 | new / draft |
+| TodayJLPT N2 1450 | [常](entries/2020/2020520-tsune.org) | つね | 2020520 | new / draft |
+| TodayJLPT N2 1466 | [低温](entries/1607/1607190-teion.org) | ていおん | 1607190 | new / draft |
+| TodayJLPT N2 1469 | [停学](entries/1434/1434910-teigaku.org) | ていがく | 1434910 | new / draft |
+| TodayJLPT N2 1474 | [停戦](entries/1434/1434980-teisen.org) | ていせん | 1434980 | new / draft |
+| TodayJLPT N2 1476 | [停泊](entries/1435/1435060-teihaku.org) | ていはく | 1435060 | new / draft |
+| TodayJLPT N2 1477 | [低迷](entries/1434/1434730-teimei.org) | ていめい | 1434730 | new / draft |
+| TodayJLPT N2 1487 | [適量](entries/1437/1437530-tekiryou.org) | てきりょう | 1437530 | new / draft |
+| TodayJLPT N2 1495 | [撤去](entries/1437/1437720-tekkyo.org) | てっきょ | 1437720 | new / draft |
+| TodayJLPT N2 1497 | [鉄鉱](entries/1437/1437860-tekkou.org) | てっこう | 1437860 | new / draft |
+| TodayJLPT N2 1499 | [天辺](entries/1440/1440340-teppen.org) | てっぺん | 1440340 | new / draft |
+| TodayJLPT N2 1511 | [添削](entries/1440/1440850-tensaku.org) | てんさく | 1440850 | new / draft |
+| TodayJLPT N2 1516 | [点滴](entries/1441/1441720-tenteki.org) | てんてき | 1441720 | new / draft |
+| TodayJLPT N2 1519 | [転倒](entries/1619/1619700-tentou.org) | てんとう | 1619700 | new / draft |
+| TodayJLPT N2 1529 | [党員](entries/1445/1445990-touin.org) | とういん | 1445990 | new / draft |
+| TodayJLPT N2 1531 | [冬季](entries/1446/1446080-touki.org) | とうき | 1446080 | new / draft |
+| TodayJLPT N2 1536 | [凍死](entries/1446/1446340-toushi.org) | とうし | 1446340 | new / draft |
+| TodayJLPT N2 1539 | [当初](entries/1449/1449110-tousho.org) | とうしょ | 1449110 | new / draft |
+| TodayJLPT N2 1541 | [童心](entries/1453/1453970-doushin.org) | どうしん | 1453970 | new / draft |
+| TodayJLPT N2 1545 | [当直](entries/1619/1619730-touchoku.org) | とうちょく | 1619730 | new / draft |
+| TodayJLPT N2 1551 | [当面](entries/1449/1449250-toumen.org) | とうめん | 1449250 | new / draft |
+| TodayJLPT N2 1554 | [盗塁](entries/1448/1448560-tourui.org) | とうるい | 1448560 | new / draft |
+| TodayJLPT N2 1561 | [得](entries/1454/1454490-toku.org) | とく | 1454490 | new / draft |
+| TodayJLPT N2 1562 | [独学](entries/1455/1455720-dokugaku.org) | どくがく | 1455720 | new / draft |
+| TodayJLPT N2 1565 | [毒性](entries/1455/1455570-dokusei.org) | どくせい | 1455570 | new / draft |
+| TodayJLPT N2 1566 | [独奏](entries/1455/1455960-dokusou.org) | どくそう | 1455960 | new / draft |
+| TodayJLPT N2 1567 | [戸口](entries/1267/1267000-toguchi.org) | とぐち | 1267000 | new / draft |
+| TodayJLPT N2 1576 | [閉ざす](entries/1508/1508540-tozasu.org) | とざす | 1508540 | new / draft |
+| TodayJLPT N2 1578 | [塗装](entries/1444/1444290-tosou.org) | とそう | 1444290 | new / draft |
+| TodayJLPT N2 1580 | [都庁](entries/1445/1445010-tochou.org) | とちょう | 1445010 | new / draft |
+| TodayJLPT N2 1600 | [内装](entries/1458/1458730-naisou.org) | ないそう | 1458730 | new / draft |
+| TodayJLPT N2 1603 | [長年](entries/1430/1430100-naganen.org) | ながねん | 1430100 | new / draft |
+| TodayJLPT N2 1617 | [何事](entries/1188/1188740-nanigoto.org) | なにごと | 1188740 | new / draft |
+| TodayJLPT N2 1622 | [何やら](entries/1188/1188500-naniyara.org) | なにやら | 1188500 | new / draft |
+| TodayJLPT N2 1627 | [並び](entries/1508/1508340-narabi.org) | ならび | 1508340 | new / draft |
+| TodayJLPT N2 1630 | [軟骨](entries/1460/1460760-nankotsu.org) | なんこつ | 1460760 | new / draft |
+| TodayJLPT N2 1631 | [難点](entries/1461/1461040-nanten.org) | なんてん | 1461040 | new / draft |
+| TodayJLPT N2 1646 | [荷台](entries/1195/1195370-nidai.org) | にだい | 1195370 | new / draft |
+| TodayJLPT N2 1650 | [日食](entries/1464/1464220-nisshoku.org) | にっしょく | 1464220 | new / draft |
+| TodayJLPT N2 1653 | [荷札](entries/1195/1195280-nifuda.org) | にふだ | 1195280 | new / draft |
+| TodayJLPT N2 1654 | [入荷](entries/1465/1465780-nyuuka.org) | にゅうか | 1465780 | new / draft |
+| TodayJLPT N2 1655 | [入金](entries/1466/1466040-nyuukin.org) | にゅうきん | 1466040 | new / draft |
+| TodayJLPT N2 1657 | [入党](entries/1466/1466600-nyuutou.org) | にゅうとう | 1466600 | new / draft |
+| TodayJLPT N2 1662 | [認証](entries/1467/1467560-ninshou.org) | にんしょう | 1467560 | new / draft |
+| TodayJLPT N2 1664 | [抜き](entries/2009/2009330-nuki.org) | ぬき | 2009330 | new / draft |
+| TodayJLPT N2 1665 | [寝返り](entries/1611/1611080-negaeri.org) | ねがえり | 1611080 | new / draft |
+| TodayJLPT N2 1668 | [寝付く](entries/1360/1360280-netsuku.org) | ねつく | 1360280 | new / draft |
+| TodayJLPT N2 1671 | [寝床](entries/1360/1360150-nedoko.org) | ねどこ | 1360150 | new / draft |
+| TodayJLPT N2 1676 | [年額](entries/1468/1468330-nengaku.org) | ねんがく | 1468330 | new / draft |
+| TodayJLPT N2 1678 | [年次](entries/1468/1468770-nenji.org) | ねんじ | 1468770 | new / draft |
+| TodayJLPT N2 1680 | [年配](entries/1469/1469090-nenpai.org) | ねんぱい | 1469090 | new / draft |
+| TodayJLPT N2 1681 | [燃費](entries/1469/1469650-nenpi.org) | ねんぴ | 1469650 | new / draft |
+| TodayJLPT N2 1682 | [濃厚](entries/1469/1469910-noukou.org) | のうこう | 1469910 | new / draft |
+| TodayJLPT N2 1686 | [脳波](entries/1470/1470510-nouha.org) | のうは | 1470510 | new / draft |
+| TodayJLPT N2 1687 | [納付](entries/1470/1470110-noufu.org) | のうふ | 1470110 | new / draft |
+| TodayJLPT N2 1690 | [軒先](entries/1260/1260370-nokisaki.org) | のきさき | 1260370 | new / draft |
+| TodayJLPT N2 1693 | [伸び](entries/1600/1600300-nobi.org) | のび | 1600300 | new / draft |
+| TodayJLPT N2 1700 | [乗り出す](entries/1354/1354940-noridasu.org) | のりだす | 1354940 | new / draft |
+| TodayJLPT N2 1706 | [配線](entries/1473/1473110-haisen.org) | はいせん | 1473110 | new / draft |
+| TodayJLPT N2 1707 | [倍増](entries/1473/1473310-baizou.org) | ばいぞう | 1473310 | new / draft |
+| TodayJLPT N2 1719 | [白衣](entries/1474/1474990-hakui.org) | はくい | 1474990 | new / draft |
+| TodayJLPT N2 1720 | [爆笑](entries/1475/1475850-bakushou.org) | ばくしょう | 1475850 | new / draft |
+| TodayJLPT N2 1736 | [働かせる](entries/2009/2009430-hatarakaseru.org) | はたらかせる | 2009430 | new / draft |
+| TodayJLPT N2 1738 | [波長](entries/1471/1471060-hachou.org) | はちょう | 1471060 | new / draft |
+| TodayJLPT N2 1741 | [発刊](entries/1477/1477210-hakkan.org) | はっかん | 1477210 | new / draft |
+| TodayJLPT N2 1744 | [抜群](entries/1478/1478250-batsugun.org) | ばつぐん | 1478250 | new / draft |
+| TodayJLPT N2 1749 | [鼻先](entries/1487/1487070-hanasaki.org) | はなさき | 1487070 | new / draft |
+| TodayJLPT N2 1754 | [放つ](entries/1516/1516490-hanatsu.org) | はなつ | 1516490 | new / draft |
+| TodayJLPT N2 1758 | [花輪](entries/1195/1195080-hanawa.org) | はなわ | 1195080 | new / draft |
+| TodayJLPT N2 1762 | [葉巻](entries/1546/1546580-hamaki.org) | はまき | 1546580 | new / draft |
+| TodayJLPT N2 1766 | [早まる](entries/1400/1400170-hayamaru.org) | はやまる | 1400170 | new / draft |
+| TodayJLPT N2 1767 | [払い](entries/1611/1611280-harai.org) | はらい | 1611280 | new / draft |
+| TodayJLPT N2 1772 | [張り出す](entries/1427/1427840-haridasu.org) | はりだす | 1427840 | new / draft |
+| TodayJLPT N2 1776 | [半減](entries/1479/1479260-hangen.org) | はんげん | 1479260 | new / draft |
+| TodayJLPT N2 1781 | [搬送](entries/1481/1481300-hansou.org) | はんそう | 1481300 | new / draft |
+| TodayJLPT N2 1784 | [反転](entries/1480/1480770-hanten.org) | はんてん | 1480770 | new / draft |
+| TodayJLPT N2 1788 | [比](entries/1483/1483520-hi.org) | ひ | 1483520 | new / draft |
+| TodayJLPT N2 1791 | [皮革](entries/1483/1483850-hikaku.org) | ひかく | 1483850 | new / draft |
+| TodayJLPT N2 1797 | [引き金](entries/1601/1601570-hikigane.org) | ひきがね | 1601570 | new / draft |
+| TodayJLPT N2 1800 | [引きつける](entries/1601/1601680-hikitsukeru.org) | ひきつける | 1601680 | new / draft |
+| TodayJLPT N2 1802 | [引き抜く](entries/1169/1169090-hikinuku.org) | ひきぬく | 1169090 | new / draft |
+| TodayJLPT N2 1803 | [引き離す](entries/1169/1169190-hikihanasu.org) | ひきはなす | 1169190 | new / draft |
+| TodayJLPT N2 1822 | [人出](entries/1368/1368110-hitode.org) | ひとで | 1368110 | new / draft |
+| TodayJLPT N2 1844 | [氷河](entries/1488/1488880-hyouga.org) | ひょうが | 1488880 | new / draft |
+| TodayJLPT N2 1845 | [氷山](entries/1489/1489030-hyouzan.org) | ひょうざん | 1489030 | new / draft |
+| TodayJLPT N2 1848 | [病弱](entries/1490/1490320-byoujaku.org) | びょうじゃく | 1490320 | new / draft |
+| TodayJLPT N2 1850 | [病床](entries/1490/1490330-byoushou.org) | びょうしょう | 1490330 | new / draft |
+| TodayJLPT N2 1851 | [秒速](entries/1490/1490450-byousoku.org) | びょうそく | 1490450 | new / draft |
+| TodayJLPT N2 1861 | [貧血](entries/1490/1490800-hinketsu.org) | ひんけつ | 1490800 | new / draft |
+| TodayJLPT N2 1862 | [品詞](entries/1490/1490570-hinshi.org) | ひんし | 1490570 | new / draft |
+| TodayJLPT N2 1865 | [負](entries/1497/1497920-fu.org) | ふ | 1497920 | new / draft |
+| TodayJLPT N2 1869 | [負荷](entries/1498/1498060-fuka.org) | ふか | 1498060 | new / draft |
+| TodayJLPT N2 1870 | [不快](entries/1491/1491570-fukai.org) | ふかい | 1491570 | new / draft |
+| TodayJLPT N2 1872 | [吹き込む](entries/1370/1370590-fukikomu.org) | ふきこむ | 1370590 | new / draft |
+| TodayJLPT N2 1876 | [副業](entries/1500/1500380-fukugyou.org) | ふくぎょう | 1500380 | new / draft |
+| TodayJLPT N2 1877 | [復元](entries/1500/1500770-fukugen.org) | ふくげん | 1500770 | new / draft |
+| TodayJLPT N2 1886 | [府県](entries/1496/1496900-fuken.org) | ふけん | 1496900 | new / draft |
+| TodayJLPT N2 1895 | [不純](entries/1492/1492790-fujun.org) | ふじゅん | 1492790 | new / draft |
+| TodayJLPT N2 1896 | [部署](entries/1603/1603140-busho.org) | ぶしょ | 1603140 | new / draft |
+| TodayJLPT N2 1902 | [復帰](entries/1500/1500720-fukki.org) | ふっき | 1500720 | new / draft |
+
+## Final 1900-word branch N2 continuation (2026-10-04)
+
+Baseline: `f1b16094`, with **1700** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **1900**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| TodayJLPT N2 1903 | [仏教](entries/1501/1501930-bukkyou.org) | ぶっきょう | 1501930 | new / draft |
+| TodayJLPT N2 1904 | [仏語](entries/1501/1501970-futsugo.org) | ふつご | 1501970 | new / draft |
+| TodayJLPT N2 1908 | [不能](entries/1494/1494540-funou.org) | ふのう | 1494540 | new / draft |
+| TodayJLPT N2 1914 | [舞踊](entries/1499/1499220-buyou.org) | ぶよう | 1499220 | new / draft |
+| TodayJLPT N2 1935 | [文庫](entries/1505/1505340-bunko.org) | ぶんこ | 1505340 | new / draft |
+| TodayJLPT N2 1958 | [変換](entries/1510/1510950-henkan.org) | へんかん | 1510950 | new / draft |
+| TodayJLPT N2 1961 | [編成](entries/1512/1512040-hensei.org) | へんせい | 1512040 | new / draft |
+| TodayJLPT N2 1970 | [防御](entries/1520/1520330-bougyo.org) | ぼうぎょ | 1520330 | new / draft |
+| TodayJLPT N2 1975 | [防水](entries/1520/1520490-bousui.org) | ぼうすい | 1520490 | new / draft |
+| TodayJLPT N2 1977 | [暴走](entries/1519/1519480-bousou.org) | ぼうそう | 1519480 | new / draft |
+| TodayJLPT N2 1986 | [暴落](entries/1519/1519570-bouraku.org) | ぼうらく | 1519570 | new / draft |
+| TodayJLPT N2 1990 | [北欧](entries/1520/1520750-hokuou.org) | ほくおう | 1520750 | new / draft |
+| TodayJLPT N2 2000 | [母乳](entries/1515/1515190-bonyuu.org) | ぼにゅう | 1515190 | new / draft |
+| TodayJLPT N2 2012 | [巻き込む](entries/1211/1211150-makikomu.org) | まきこむ | 1211150 | new / draft |
+| TodayJLPT N2 2034 | [間に合わせる](entries/1611/1611650-maniawaseru.org) | まにあわせる | 1611650 | new / draft |
+| TodayJLPT N2 2041 | [丸ごと](entries/1216/1216410-marugoto.org) | まるごと | 1216410 | new / draft |
+| TodayJLPT N2 2045 | [万が一](entries/1525/1525770-mangaichi.org) | まんがいち | 1525770 | new / draft |
+| TodayJLPT N2 2046 | [満喫](entries/1526/1526760-mankitsu.org) | まんきつ | 1526760 | new / draft |
+| TodayJLPT N2 2050 | [見栄](entries/1578/1578350-mie.org) | みえ | 1578350 | new / draft |
+| TodayJLPT N2 2055 | [右腕](entries/1171/1171290-migiude.org) | みぎうで | 1171290 | new / draft |
+| TodayJLPT N2 2056 | [見込む](entries/1259/1259580-mikomu.org) | みこむ | 1259580 | new / draft |
+| TodayJLPT N2 2067 | [道のり](entries/1454/1454110-michinori.org) | みちのり | 1454110 | new / draft |
+| TodayJLPT N2 2092 | [明細](entries/1532/1532440-meisai.org) | めいさい | 1532440 | new / draft |
+| TodayJLPT N2 2101 | [名門](entries/1531/1531860-meimon.org) | めいもん | 1531860 | new / draft |
+| TodayJLPT N2 2122 | [毛筆](entries/1533/1533940-mouhitsu.org) | もうひつ | 1533940 | new / draft |
+| TodayJLPT N2 2126 | [木星](entries/1534/1534680-mokusei.org) | もくせい | 1534680 | new / draft |
+| TodayJLPT N2 2127 | [木造](entries/1534/1534740-mokuzou.org) | もくぞう | 1534740 | new / draft |
+| TodayJLPT N2 2128 | [木片](entries/1534/1534860-mokuhen.org) | もくへん | 1534860 | new / draft |
+| TodayJLPT N2 2137 | [持ち込む](entries/1315/1315590-mochikomu.org) | もちこむ | 1315590 | new / draft |
+| TodayJLPT N2 2138 | [持ち出す](entries/1315/1315600-mochidasu.org) | もちだす | 1315600 | new / draft |
+| TodayJLPT N2 2175 | [勇者](entries/1539/1539800-yuusha.org) | ゆうしゃ | 1539800 | new / draft |
+| TodayJLPT N2 2178 | [有毒](entries/1541/1541550-yuudoku.org) | ゆうどく | 1541550 | new / draft |
+| TodayJLPT N2 2188 | [油田](entries/1538/1538720-yuden.org) | ゆでん | 1538720 | new / draft |
+| TodayJLPT N2 2192 | [溶解](entries/1546/1546110-youkai.org) | ようかい | 1546110 | new / draft |
+| TodayJLPT N2 2198 | [幼少](entries/1545/1545220-youshou.org) | ようしょう | 1545220 | new / draft |
+| TodayJLPT N2 2199 | [養成](entries/1547/1547190-yousei.org) | ようせい | 1547190 | new / draft |
+| TodayJLPT N2 2203 | [腰痛](entries/1288/1288430-youtsuu.org) | ようつう | 1288430 | new / draft |
+| TodayJLPT N2 2209 | [容量](entries/1545/1545450-youryou.org) | ようりょう | 1545450 | new / draft |
+| TodayJLPT N2 2211 | [翌朝](entries/1585/1585000-yokuasa.org) | よくあさ | 1585000 | new / draft |
+| TodayJLPT N2 2212 | [翌月](entries/1547/1547490-yokugetsu.org) | よくげつ | 1547490 | new / draft |
+| TodayJLPT N2 2213 | [翌日](entries/1547/1547510-yokujitsu.org) | よくじつ | 1547510 | new / draft |
+| TodayJLPT N2 2214 | [翌週](entries/1547/1547500-yokushuu.org) | よくしゅう | 1547500 | new / draft |
+| TodayJLPT N2 2215 | [浴場](entries/1547/1547470-yokujou.org) | よくじょう | 1547470 | new / draft |
+| TodayJLPT N2 2216 | [翌年](entries/1547/1547520-yokunen.org) | よくねん | 1547520 | new / draft |
+| TodayJLPT N2 2231 | [弱虫](entries/1324/1324840-yowamushi.org) | よわむし | 1324840 | new / draft |
+| TodayJLPT N2 2236 | [卵形](entries/1585/1585080-rankei.org) | らんけい | 1585080 | new / draft |
+| TodayJLPT N2 2237 | [乱雑](entries/1548/1548990-ranzatsu.org) | らんざつ | 1548990 | new / draft |
+| TodayJLPT N2 2241 | [利](entries/1549/1549460-ri.org) | り | 1549460 | new / draft |
+| TodayJLPT N2 2244 | [陸軍](entries/1551/1551020-rikugun.org) | りくぐん | 1551020 | new / draft |
+| TodayJLPT N2 2245 | [陸上](entries/1551/1551050-rikujou.org) | りくじょう | 1551050 | new / draft |
+| TodayJLPT N2 2246 | [陸路](entries/1551/1551150-rikuro.org) | りくろ | 1551150 | new / draft |
+| TodayJLPT N2 2251 | [略](entries/1551/1551950-ryaku.org) | りゃく | 1551950 | new / draft |
+| TodayJLPT N2 2254 | [粒子](entries/1552/1552910-ryuushi.org) | りゅうし | 1552910 | new / draft |
+| TodayJLPT N2 2255 | [流氷](entries/1552/1552530-ryuuhyou.org) | りゅうひょう | 1552530 | new / draft |
+| TodayJLPT N2 2257 | [良](entries/1957/1957070-ryou.org) | りょう | 1957070 | new / draft |
+| TodayJLPT N2 2259 | [両岸](entries/1553/1553460-ryougan.org) | りょうがん | 1553460 | new / draft |
+| TodayJLPT N2 2260 | [量産](entries/1554/1554660-ryousan.org) | りょうさん | 1554660 | new / draft |
+| TodayJLPT N2 2264 | [療法](entries/1554/1554470-ryouhou.org) | りょうほう | 1554470 | new / draft |
+| TodayJLPT N2 2266 | [林道](entries/1555/1555500-rindou.org) | りんどう | 1555500 | new / draft |
+| TodayJLPT N2 2268 | [零下](entries/1557/1557660-reika.org) | れいか | 1557660 | new / draft |
+| TodayJLPT N2 2272 | [礼拝](entries/1557/1557560-reihai.org) | れいはい | 1557560 | new / draft |
+| TodayJLPT N2 2274 | [歴](entries/2211/2211960-reki.org) | れき | 2211960 | new / draft |
+| TodayJLPT N2 2275 | [歴代](entries/1558/1558220-rekidai.org) | れきだい | 1558220 | new / draft |
+| TodayJLPT N2 2285 | [路線](entries/1560/1560040-rosen.org) | ろせん | 1560040 | new / draft |
+| TodayJLPT N2 2292 | [患う](entries/1212/1212200-wazurau.org) | わずらう | 1212200 | new / draft |
+| TodayJLPT N2 2299 | [湾岸](entries/1562/1562810-wangan.org) | わんがん | 1562810 | new / draft |
+| TodayJLPT N2 2300 | [腕白](entries/1562/1562910-wanpaku.org) | わんぱく | 1562910 | new / draft |
+| TodayJLPT N2 2302 | [腕力](entries/1562/1562950-wanryoku.org) | わんりょく | 1562950 | new / draft |
+| JLPTLord N2 18 | [応募](entries/1180/1180030-oubo.org) | おうぼ | 1180030 | new / draft |
+| JLPTLord N2 32 | [減少](entries/1263/1263210-genshou.org) | げんしょう | 1263210 | new / draft |
+| JLPTLord N2 41 | [運営](entries/1172/1172690-unei.org) | うんえい | 1172690 | new / draft |
+| JLPTLord N2 42 | [設立](entries/1386/1386090-setsuritsu.org) | せつりつ | 1386090 | new / draft |
+| JLPTLord N2 46 | [登録](entries/1444/1444810-touroku.org) | とうろく | 1444810 | new / draft |
+| JLPTLord N2 51 | [投資](entries/1447/1447230-toushi.org) | とうし | 1447230 | new / draft |
+| JLPTLord N2 54 | [保護](entries/1513/1513530-hogo.org) | ほご | 1513530 | new / draft |
+| JLPTLord N2 55 | [採用](entries/1294/1294890-saiyou.org) | さいよう | 1294890 | new / draft |
+| JLPTLord N2 58 | [破壊](entries/1471/1471250-hakai.org) | はかい | 1471250 | new / draft |
+| JLPTLord N2 63 | [創造](entries/1398/1398560-souzou.org) | そうぞう | 1398560 | new / draft |
+| JLPTLord N2 92 | [蓄積](entries/1422/1422440-chikuseki.org) | ちくせき | 1422440 | new / draft |
+| JLPTLord N2 94 | [規制](entries/1223/1223010-kisei.org) | きせい | 1223010 | new / draft |
+| JLPTLord N2 100 | [獲得](entries/1205/1205750-kakutoku.org) | かくとく | 1205750 | new / draft |
+| JLPTLord N2 102 | [削減](entries/1298/1298110-sakugen.org) | さくげん | 1298110 | new / draft |
+| JLPTLord N2 103 | [廃止](entries/1472/1472100-haishi.org) | はいし | 1472100 | new / draft |
+| JLPTLord N2 110 | [補償](entries/1514/1514650-hoshou.org) | ほしょう | 1514650 | new / draft |
+| JLPTLord N2 111 | [公開](entries/1273/1273370-koukai.org) | こうかい | 1273370 | new / draft |
+| JLPTLord N2 113 | [掲載](entries/1250/1250610-keisai.org) | けいさい | 1250610 | new / draft |
+| JLPTLord N2 115 | [促進](entries/1403/1403780-sokushin.org) | そくしん | 1403780 | new / draft |
+| JLPTLord N2 119 | [分配](entries/1504/1504090-bunpai.org) | ぶんぱい | 1504090 | new / draft |
+| JLPTLord N2 123 | [把握](entries/1470/1470910-haaku.org) | はあく | 1470910 | new / draft |
+| JLPTLord N2 128 | [推進](entries/1371/1371140-suishin.org) | すいしん | 1371140 | new / draft |
+| JLPTLord N2 130 | [接触](entries/1385/1385450-sesshoku.org) | せっしょく | 1385450 | new / draft |
+| JLPTLord N2 140 | [妨害](entries/1519/1519130-bougai.org) | ぼうがい | 1519130 | new / draft |
+| JLPTLord N2 141 | [排除](entries/1472/1472370-haijo.org) | はいじょ | 1472370 | new / draft |
+| JLPTLord N2 143 | [浸透](entries/1362/1362630-shintou.org) | しんとう | 1362630 | new / draft |
+| JLPTLord N2 144 | [派遣](entries/1471/1471130-haken.org) | はけん | 1471130 | new / draft |
+| JLPTLord N2 145 | [要請](entries/1546/1546780-yousei.org) | ようせい | 1546780 | new / draft |
+| JLPTLord N2 146 | [抗議](entries/1278/1278860-kougi.org) | こうぎ | 1278860 | new / draft |
+| JLPTLord N2 147 | [撤回](entries/1437/1437710-tekkai.org) | てっかい | 1437710 | new / draft |
+| JLPTLord N2 148 | [撤退](entries/1437/1437740-tettai.org) | てったい | 1437740 | new / draft |
+| JLPTLord N2 150 | [崩壊](entries/1516/1516280-houkai.org) | ほうかい | 1516280 | new / draft |
+| JLPTLord N2 152 | [統合](entries/1449/1449760-tougou.org) | とうごう | 1449760 | new / draft |
+| JLPTLord N2 153 | [締結](entries/1436/1436660-teiketsu.org) | ていけつ | 1436660 | new / draft |
+| JLPTLord N2 154 | [介入](entries/1198/1198110-kainyuu.org) | かいにゅう | 1198110 | new / draft |
+| JLPTLord N2 155 | [譲歩](entries/1357/1357050-jouho.org) | じょうほ | 1357050 | new / draft |
+| JLPTLord N2 156 | [任命](entries/1467/1467280-ninmei.org) | にんめい | 1467280 | new / draft |
+| JLPTLord N2 157 | [辞任](entries/1319/1319000-jinin.org) | じにん | 1319000 | new / draft |
+| JLPTLord N2 158 | [指摘](entries/1309/1309940-shiteki.org) | してき | 1309940 | new / draft |
+| JLPTLord N2 159 | [推測](entries/1371/1371200-suisoku.org) | すいそく | 1371200 | new / draft |
+| JLPTLord N2 165 | [合併](entries/1578/1578970-gappei.org) | がっぺい | 1578970 | new / draft |
+| JLPTLord N2 168 | [転換](entries/1441/1441080-tenkan.org) | てんかん | 1441080 | new / draft |
+| JLPTLord N2 169 | [是正](entries/1374/1374510-zesei.org) | ぜせい | 1374510 | new / draft |
+| JLPTLord N2 170 | [遂行](entries/1372/1372640-suikou.org) | すいこう | 1372640 | new / draft |
+| JLPTLord N2 172 | [没収](entries/1521/1521990-bosshuu.org) | ぼっしゅう | 1521990 | new / draft |
+| JLPTLord N2 173 | [却下](entries/1226/1226620-kyakka.org) | きゃっか | 1226620 | new / draft |
+| JLPTLord N2 176 | [監視](entries/1213/1213680-kanshi.org) | かんし | 1213680 | new / draft |
+| JLPTLord N2 177 | [着手](entries/1423/1423060-chakushu.org) | ちゃくしゅ | 1423060 | new / draft |
+| JLPTLord N2 182 | [該当](entries/1204/1204700-gaitou.org) | がいとう | 1204700 | new / draft |
+| JLPTLord N2 183 | [稼働](entries/1590/1590520-kadou.org) | かどう | 1590520 | new / draft |
+| JLPTLord N2 185 | [察知](entries/1298/1298750-satchi.org) | さっち | 1298750 | new / draft |
+| JLPTLord N2 186 | [遮断](entries/1323/1323320-shadan.org) | しゃだん | 1323320 | new / draft |
+| JLPTLord N2 187 | [徴収](entries/1428/1428110-choushuu.org) | ちょうしゅう | 1428110 | new / draft |
+| JLPTLord N2 188 | [調達](entries/1429/1429250-choutatsu.org) | ちょうたつ | 1429250 | new / draft |
+| JLPTLord N2 190 | [添付](entries/1440/1440880-tenpu.org) | てんぷ | 1440880 | new / draft |
+| JLPTLord N2 191 | [投入](entries/1447/1447300-tounyuu.org) | とうにゅう | 1447300 | new / draft |
+| JLPTLord N2 193 | [動揺](entries/1451/1451630-douyou.org) | どうよう | 1451630 | new / draft |
+| JLPTLord N2 196 | [復旧](entries/1500/1500740-fukkyuu.org) | ふっきゅう | 1500740 | new / draft |
+| JLPTLord N2 198 | [制約](entries/1374/1374970-seiyaku.org) | せいやく | 1374970 | new / draft |
+| JLPTLord N2 200 | [喪失](entries/1399/1399290-soushitsu.org) | そうしつ | 1399290 | new / draft |
+| JLPTLord N2 203 | [顕著](entries/1260/1260640-kencho.org) | けんちょ | 1260640 | new / draft |
+| JLPTLord N2 208 | [納入](entries/1470/1470090-nounyuu.org) | のうにゅう | 1470090 | new / draft |
+| JLPTLord N2 209 | [妥協](entries/1408/1408510-dakyou.org) | だきょう | 1408510 | new / draft |
+| JLPTLord N2 210 | [委託](entries/1156/1156160-itaku.org) | いたく | 1156160 | new / draft |
+| JLPTLord N2 212 | [歪曲](entries/1562/1562460-waikyoku.org) | わいきょく | 1562460 | new / draft |
+| JLPTLord N2 213 | [対処](entries/1410/1410070-taisho.org) | たいしょ | 1410070 | new / draft |
+| JLPTLord N2 217 | [勧誘](entries/1211/1211120-kanyuu.org) | かんゆう | 1211120 | new / draft |
+| JLPTLord N2 218 | [弁償](entries/1512/1512980-benshou.org) | べんしょう | 1512980 | new / draft |
+| JLPTLord N2 219 | [着工](entries/1423/1423030-chakkou.org) | ちゃっこう | 1423030 | new / draft |
+| JLPTLord N2 220 | [竣工](entries/1341/1341260-shunkou.org) | しゅんこう | 1341260 | new / draft |
+| JLPTLord N2 221 | [策定](entries/1298/1298280-sakutei.org) | さくてい | 1298280 | new / draft |
+| JLPTLord N2 222 | [表明](entries/1489/1489870-hyoumei.org) | ひょうめい | 1489870 | new / draft |
+| JLPTLord N2 223 | [見込](entries/1604/1604480-mikomi.org) | みこみ | 1604480 | new / draft |
+| JLPTLord N2 224 | [踏襲](entries/1619/1619900-toushuu.org) | とうしゅう | 1619900 | new / draft |
+| JLPTLord N2 225 | [網羅](entries/1534/1534450-moura.org) | もうら | 1534450 | new / draft |
+| JLPTLord N2 226 | [遵守](entries/1342/1342180-junshu.org) | じゅんしゅ | 1342180 | new / draft |
+| JLPTLord N2 227 | [傍聴](entries/1518/1518940-bouchou.org) | ぼうちょう | 1518940 | new / draft |
+| JLPTLord N2 228 | [斡旋](entries/1153/1153410-assen.org) | あっせん | 1153410 | new / draft |
+| JLPTLord N2 229 | [邁進](entries/1573/1573680-maishin.org) | まいしん | 1573680 | new / draft |
+| JLPTLord N2 230 | [検証](entries/1257/1257950-kenshou.org) | けんしょう | 1257950 | new / draft |
+| JLPTLord N2 231 | [適応](entries/1437/1437350-tekiou.org) | てきおう | 1437350 | new / draft |
+| JLPTLord N2 232 | [流通](entries/1552/1552440-ryuutsuu.org) | りゅうつう | 1552440 | new / draft |
+| JLPTLord N2 233 | [浮上](entries/1497/1497500-fujou.org) | ふじょう | 1497500 | new / draft |
+| JLPTLord N2 234 | [起訴](entries/1223/1223840-kiso.org) | きそ | 1223840 | new / draft |
+| JLPTLord N2 235 | [告発](entries/1286/1286070-kokuhatsu.org) | こくはつ | 1286070 | new / draft |
+| JLPTLord N2 236 | [釈放](entries/1324/1324260-shakuhou.org) | しゃくほう | 1324260 | new / draft |
+| JLPTLord N2 237 | [動員](entries/1451/1451260-douin.org) | どういん | 1451260 | new / draft |
+| JLPTLord N2 238 | [送迎](entries/1402/1402770-sougei.org) | そうげい | 1402770 | new / draft |
+| JLPTLord N2 239 | [発足](entries/1583/1583130-hossoku.org) | ほっそく | 1583130 | new / draft |
+| JLPTLord N2 241 | [概算](entries/1204/1204450-gaisan.org) | がいさん | 1204450 | new / draft |
+| JLPTLord N2 243 | [形成](entries/1250/1250360-keisei.org) | けいせい | 1250360 | new / draft |
+| JLPTLord N2 244 | [喚起](entries/1211/1211270-kanki.org) | かんき | 1211270 | new / draft |
+| JLPTLord N2 245 | [合致](entries/1285/1285100-gatchi.org) | がっち | 1285100 | new / draft |
+| JLPTLord N2 246 | [搬入](entries/1481/1481320-hannyuu.org) | はんにゅう | 1481320 | new / draft |
+| JLPTLord N2 247 | [搬出](entries/1481/1481290-hanshutsu.org) | はんしゅつ | 1481290 | new / draft |
+| JLPTLord N2 248 | [排出](entries/1472/1472360-haishutsu.org) | はいしゅつ | 1472360 | new / draft |
+| JLPTLord N2 249 | [没頭](entries/1522/1522010-bottou.org) | ぼっとう | 1522010 | new / draft |
+| JLPTLord N2 250 | [逸脱](entries/1167/1167750-itsudatsu.org) | いつだつ | 1167750 | new / draft |
+| JLPTLord N2 271 | [規模](entries/1223/1223090-kibo.org) | きぼ | 1223090 | new / draft |
+| JLPTLord N2 273 | [仕組み](entries/1594/1594180-shikumi.org) | しくみ | 1594180 | new / draft |
+| JLPTLord N2 279 | [特性](entries/1455/1455090-tokusei.org) | とくせい | 1455090 | new / draft |
+| JLPTLord N2 284 | [概念](entries/1204/1204480-gainen.org) | がいねん | 1204480 | new / draft |
+| JLPTLord N2 285 | [観点](entries/1215/1215000-kanten.org) | かんてん | 1215000 | new / draft |
+| JLPTLord N2 286 | [視点](entries/1312/1312130-shiten.org) | してん | 1312130 | new / draft |
+| JLPTLord N2 288 | [見通し](entries/1604/1604610-mitooshi.org) | みとおし | 1604610 | new / draft |
+| JLPTLord N2 289 | [見積もり](entries/1604/1604590-mitsumori.org) | みつもり | 1604590 | new / draft |
+| JLPTLord N2 290 | [予想](entries/1543/1543130-yosou.org) | よそう | 1543130 | new / draft |
+| JLPTLord N2 291 | [前提](entries/1393/1393680-zentei.org) | ぜんてい | 1393680 | new / draft |
+| JLPTLord N2 292 | [根拠](entries/1290/1290120-konkyo.org) | こんきょ | 1290120 | new / draft |
+| JLPTLord N2 293 | [論理](entries/1561/1561850-ronri.org) | ろんり | 1561850 | new / draft |
+| JLPTLord N2 294 | [理論](entries/1550/1550160-riron.org) | りろん | 1550160 | new / draft |
+| JLPTLord N2 295 | [仮説](entries/1590/1590320-kasetsu.org) | かせつ | 1590320 | new / draft |
+| JLPTLord N2 296 | [実態](entries/1321/1321360-jittai.org) | じったい | 1321360 | new / draft |
+| JLPTLord N2 302 | [効率](entries/1275/1275210-kouritsu.org) | こうりつ | 1275210 | new / draft |
+| JLPTLord N2 303 | [生産性](entries/1379/1379030-seisansei.org) | せいさんせい | 1379030 | new / draft |
+| JLPTLord N2 304 | [可能性](entries/1191/1191080-kanousei.org) | かのうせい | 1191080 | new / draft |
+| JLPTLord N2 305 | [必要性](entries/1487/1487730-hitsuyousei.org) | ひつようせい | 1487730 | new / draft |
+| JLPTLord N2 306 | [重要性](entries/1336/1336850-juuyousei.org) | じゅうようせい | 1336850 | new / draft |
+| JLPTLord N2 307 | [妥当性](entries/1408/1408550-datousei.org) | だとうせい | 1408550 | new / draft |
+| JLPTLord N2 308 | [信頼性](entries/1359/1359770-shinraisei.org) | しんらいせい | 1359770 | new / draft |
+| JLPTLord N2 309 | [正当性](entries/1377/1377680-seitousei.org) | せいとうせい | 1377680 | new / draft |
+| JLPTLord N2 310 | [多様性](entries/1408/1408120-tayousei.org) | たようせい | 1408120 | new / draft |
+| JLPTLord N2 311 | [独自性](entries/1691/1691430-dokujisei.org) | どくじせい | 1691430 | new / draft |
+| JLPTLord N2 312 | [柔軟性](entries/1335/1335500-juunansei.org) | じゅうなんせい | 1335500 | new / draft |
+| JLPTLord N2 313 | [透明性](entries/1450/1450600-toumeisei.org) | とうめいせい | 1450600 | new / draft |
+| JLPTLord N2 314 | [合理性](entries/1285/1285370-gourisei.org) | ごうりせい | 1285370 | new / draft |
+| JLPTLord N2 315 | [整合性](entries/1376/1376180-seigousei.org) | せいごうせい | 1376180 | new / draft |
+| JLPTLord N2 316 | [客観性](entries/1685/1685470-kyakkansei.org) | きゃっかんせい | 1685470 | new / draft |
+| JLPTLord N2 317 | [主観](entries/1325/1325180-shukan.org) | しゅかん | 1325180 | new / draft |
+| JLPTLord N2 318 | [客観](entries/1226/1226690-kyakkan.org) | きゃっかん | 1226690 | new / draft |
+| JLPTLord N2 321 | [本質](entries/1522/1522620-honshitsu.org) | ほんしつ | 1522620 | new / draft |
+| JLPTLord N2 322 | [定義](entries/1435/1435530-teigi.org) | ていぎ | 1435530 | new / draft |
+
+Milestone audit: **1,900 new translated words on the branch**, including 200
+new entries since `f1b16094`, with 200 individual word commits and 20 batch
+ledger commits. The continuation contains 279 independently authored Ukrainian
+usage notes and 600 graded examples. All 200 entries passed collective JMdict
+validation, Org lint, and doctor 100/100 with zero errors or warnings. The full
+test suite passed: **137 tests, 18,443 assertions, zero failures or errors**.
+Source evidence: 68 TodayJLPT candidates and 132 JLPTLord candidates.
+Earlier tracked entries and both pre-existing untracked files are unchanged.
+These entries remain `new` / `draft` for editorial review.
+
+The user expanded the active target to **2,100 total branch additions**.
+The next continuation will add 200 further distinct words from documented
+supplemental study-list evidence with the same per-sense notes, examples,
+validation, and individual commit requirements.
+
+## Final 2100-word branch N2 continuation (2026-10-04)
+
+Baseline: `737ad0ea`, with **1900** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **2100**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 325 | [領域](entries/1554/1554720-ryouiki.org) | りょういき | 1554720 | new / draft |
+| JLPTLord N2 327 | [要因](entries/1546/1546670-youin.org) | よういん | 1546670 | new / draft |
+| JLPTLord N2 329 | [経緯](entries/1251/1251120-keii.org) | けいい | 1251120 | new / draft |
+| JLPTLord N2 332 | [事例](entries/1314/1314540-jirei.org) | じれい | 1314540 | new / draft |
+| JLPTLord N2 333 | [事項](entries/1313/1313910-jikou.org) | じこう | 1313910 | new / draft |
+| JLPTLord N2 334 | [論点](entries/1561/1561800-ronten.org) | ろんてん | 1561800 | new / draft |
+| JLPTLord N2 336 | [争点](entries/1400/1400700-souten.org) | そうてん | 1400700 | new / draft |
+| JLPTLord N2 338 | [利点](entries/1549/1549620-riten.org) | りてん | 1549620 | new / draft |
+| JLPTLord N2 342 | [問題点](entries/1536/1536050-mondaiten.org) | もんだいてん | 1536050 | new / draft |
+| JLPTLord N2 343 | [改善点](entries/2039/2039040-kaizenten.org) | かいぜんてん | 2039040 | new / draft |
+| JLPTLord N2 344 | [共通点](entries/1234/1234730-kyoutsuuten.org) | きょうつうてん | 1234730 | new / draft |
+| JLPTLord N2 345 | [相違点](entries/1400/1400830-souiten.org) | そういてん | 1400830 | new / draft |
+| JLPTLord N2 347 | [格差](entries/1205/1205340-kakusa.org) | かくさ | 1205340 | new / draft |
+| JLPTLord N2 349 | [偏見](entries/1510/1510380-henken.org) | へんけん | 1510380 | new / draft |
+| JLPTLord N2 350 | [先入観](entries/1388/1388330-sennyuukan.org) | せんにゅうかん | 1388330 | new / draft |
+| JLPTLord N2 351 | [固定観念](entries/1266/1266660-koteikannen.org) | こていかんねん | 1266660 | new / draft |
+| JLPTLord N2 353 | [良識](entries/1554/1554570-ryoushiki.org) | りょうしき | 1554570 | new / draft |
+| JLPTLord N2 358 | [信念](entries/1359/1359550-shinnen.org) | しんねん | 1359550 | new / draft |
+| JLPTLord N2 359 | [理念](entries/1550/1550060-rinen.org) | りねん | 1550060 | new / draft |
+| JLPTLord N2 363 | [感性](entries/1212/1212460-kansei.org) | かんせい | 1212460 | new / draft |
+| JLPTLord N2 364 | [知性](entries/1420/1420630-chisei.org) | ちせい | 1420630 | new / draft |
+| JLPTLord N2 365 | [理性](entries/1550/1550010-risei.org) | りせい | 1550010 | new / draft |
+| JLPTLord N2 366 | [品性](entries/1490/1490630-hinsei.org) | ひんせい | 1490630 | new / draft |
+| JLPTLord N2 367 | [人格](entries/1366/1366730-jinkaku.org) | じんかく | 1366730 | new / draft |
+| JLPTLord N2 368 | [個性](entries/1264/1264960-kosei.org) | こせい | 1264960 | new / draft |
+| JLPTLord N2 379 | [趣旨](entries/1328/1328990-shushi.org) | しゅし | 1328990 | new / draft |
+| JLPTLord N2 381 | [要約](entries/1605/1605860-youyaku.org) | ようやく | 1605860 | new / draft |
+| JLPTLord N2 382 | [概要](entries/1204/1204500-gaiyou.org) | がいよう | 1204500 | new / draft |
+| JLPTLord N2 383 | [概略](entries/1204/1204510-gairyaku.org) | がいりゃく | 1204510 | new / draft |
+| JLPTLord N2 384 | [大綱](entries/1661/1661030-taikou.org) | たいこう | 1661030 | new / draft |
+| JLPTLord N2 385 | [大筋](entries/1413/1413490-oosuji.org) | おおすじ | 1413490 | new / draft |
+| JLPTLord N2 386 | [骨子](entries/1288/1288600-kosshi.org) | こっし | 1288600 | new / draft |
+| JLPTLord N2 387 | [枠組み](entries/1606/1606690-wakugumi.org) | わくぐみ | 1606690 | new / draft |
+| JLPTLord N2 389 | [形態](entries/1250/1250390-keitai.org) | けいたい | 1250390 | new / draft |
+| JLPTLord N2 391 | [様式](entries/1545/1545830-youshiki.org) | ようしき | 1545830 | new / draft |
+| JLPTLord N2 392 | [形状](entries/1250/1250340-keijou.org) | けいじょう | 1250340 | new / draft |
+| JLPTLord N2 393 | [外観](entries/1203/1203460-gaikan.org) | がいかん | 1203460 | new / draft |
+| JLPTLord N2 394 | [景観](entries/1250/1250820-keikan.org) | けいかん | 1250820 | new / draft |
+| JLPTLord N2 398 | [風潮](entries/1500/1500000-fuuchou.org) | ふうちょう | 1500000 | new / draft |
+| JLPTLord N2 399 | [世論](entries/1606/1606150-yoron.org) | よろん | 1606150 | new / draft |
+| JLPTLord N2 400 | [動向](entries/1451/1451330-doukou.org) | どうこう | 1451330 | new / draft |
+| JLPTLord N2 401 | [推移](entries/1371/1371080-suii.org) | すいい | 1371080 | new / draft |
+| JLPTLord N2 402 | [経過](entries/1251/1251250-keika.org) | けいか | 1251250 | new / draft |
+| JLPTLord N2 403 | [進展](entries/1366/1366160-shinten.org) | しんてん | 1366160 | new / draft |
+| JLPTLord N2 406 | [沿革](entries/1176/1176730-enkaku.org) | えんかく | 1176730 | new / draft |
+| JLPTLord N2 408 | [起源](entries/1591/1591140-kigen.org) | きげん | 1591140 | new / draft |
+| JLPTLord N2 409 | [根源](entries/1290/1290160-kongen.org) | こんげん | 1290160 | new / draft |
+| JLPTLord N2 410 | [源泉](entries/1263/1263380-gensen.org) | げんせん | 1263380 | new / draft |
+| JLPTLord N2 411 | [出所](entries/1580/1580030-shussho.org) | しゅっしょ | 1580030 | new / draft |
+| JLPTLord N2 412 | [出典](entries/1339/1339790-shutten.org) | しゅってん | 1339790 | new / draft |
+| JLPTLord N2 414 | [模範](entries/1533/1533690-mohan.org) | もはん | 1533690 | new / draft |
+| JLPTLord N2 415 | [手本](entries/1328/1328390-tehon.org) | てほん | 1328390 | new / draft |
+| JLPTLord N2 418 | [指標](entries/1309/1309990-shihyou.org) | しひょう | 1309990 | new / draft |
+| JLPTLord N2 421 | [土台](entries/1445/1445450-dodai.org) | どだい | 1445450 | new / draft |
+| JLPTLord N2 422 | [礎](entries/1396/1396770-ishizue.org) | いしずえ | 1396770 | new / draft |
+| JLPTLord N2 423 | [柱](entries/1426/1426480-hashira.org) | はしら | 1426480 | new / draft |
+| JLPTLord N2 424 | [要](entries/1609/1609600-kaname.org) | かなめ | 1609600 | new / draft |
+| JLPTLord N2 425 | [核](entries/1205/1205510-kaku.org) | かく | 1205510 | new / draft |
+| JLPTLord N2 426 | [中核](entries/1597/1597540-chuukaku.org) | ちゅうかく | 1597540 | new / draft |
+| JLPTLord N2 427 | [主体](entries/1325/1325840-shutai.org) | しゅたい | 1325840 | new / draft |
+| JLPTLord N2 428 | [主導](entries/1325/1325980-shudou.org) | しゅどう | 1325980 | new / draft |
+| JLPTLord N2 429 | [主流](entries/1326/1326410-shuryuu.org) | しゅりゅう | 1326410 | new / draft |
+| JLPTLord N2 430 | [潮流](entries/1428/1428720-chouryuu.org) | ちょうりゅう | 1428720 | new / draft |
+| JLPTLord N2 431 | [趨勢](entries/1373/1373390-suusei.org) | すうせい | 1373390 | new / draft |
+| JLPTLord N2 434 | [予兆](entries/2087/2087630-yochou.org) | よちょう | 2087630 | new / draft |
+| JLPTLord N2 435 | [契機](entries/1250/1250180-keiki.org) | けいき | 1250180 | new / draft |
+| JLPTLord N2 436 | [転機](entries/1441/1441090-tenki.org) | てんき | 1441090 | new / draft |
+| JLPTLord N2 438 | [誘因](entries/1541/1541920-yuuin.org) | ゆういん | 1541920 | new / draft |
+| JLPTLord N2 440 | [衝撃](entries/1351/1351510-shougeki.org) | しょうげき | 1351510 | new / draft |
+| JLPTLord N2 441 | [反響](entries/1480/1480310-hankyou.org) | はんきょう | 1480310 | new / draft |
+| JLPTLord N2 442 | [波紋](entries/1471/1471090-hamon.org) | はもん | 1471090 | new / draft |
+| JLPTLord N2 443 | [余波](entries/1544/1544470-yoha.org) | よは | 1544470 | new / draft |
+| JLPTLord N2 445 | [弊害](entries/1508/1508270-heigai.org) | へいがい | 1508270 | new / draft |
+| JLPTLord N2 448 | [葛藤](entries/1208/1208780-kattou.org) | かっとう | 1208780 | new / draft |
+| JLPTLord N2 449 | [軋轢](entries/1573/1573460-atsureki.org) | あつれき | 1573460 | new / draft |
+| JLPTLord N2 450 | [相関](entries/1400/1400860-soukan.org) | そうかん | 1400860 | new / draft |
+| JLPTLord N2 451 | [因果](entries/1168/1168680-inga.org) | いんが | 1168680 | new / draft |
+| JLPTLord N2 453 | [連動](entries/1559/1559710-rendou.org) | れんどう | 1559710 | new / draft |
+| JLPTLord N2 454 | [連鎖](entries/1559/1559490-rensa.org) | れんさ | 1559490 | new / draft |
+| JLPTLord N2 456 | [均衡](entries/1241/1241270-kinkou.org) | きんこう | 1241270 | new / draft |
+| JLPTLord N2 457 | [調和](entries/1429/1429330-chouwa.org) | ちょうわ | 1429330 | new / draft |
+| JLPTLord N2 458 | [秩序](entries/1422/1422520-chitsujo.org) | ちつじょ | 1422520 | new / draft |
+| JLPTLord N2 459 | [規範](entries/1591/1591390-kihan.org) | きはん | 1591390 | new / draft |
+| JLPTLord N2 461 | [倫理](entries/1555/1555390-rinri.org) | りんり | 1555390 | new / draft |
+| JLPTLord N2 463 | [正義](entries/1376/1376910-seigi.org) | せいぎ | 1376910 | new / draft |
+| JLPTLord N2 472 | [任務](entries/1467/1467260-ninmu.org) | にんむ | 1467260 | new / draft |
+| JLPTLord N2 473 | [職務](entries/1357/1357580-shokumu.org) | しょくむ | 1357580 | new / draft |
+| JLPTLord N2 474 | [業務](entries/1239/1239540-gyoumu.org) | ぎょうむ | 1239540 | new / draft |
+| JLPTLord N2 476 | [工程](entries/1278/1278200-koutei.org) | こうてい | 1278200 | new / draft |
+| JLPTLord N2 479 | [手法](entries/1328/1328380-shuhou.org) | しゅほう | 1328380 | new / draft |
+| JLPTLord N2 481 | [技巧](entries/1225/1225100-gikou.org) | ぎこう | 1225100 | new / draft |
+| JLPTLord N2 483 | [要綱](entries/1546/1546740-youkou.org) | ようこう | 1546740 | new / draft |
+| JLPTLord N2 484 | [指針](entries/1309/1309840-shishin.org) | ししん | 1309840 | new / draft |
+| JLPTLord N2 485 | [方策](entries/1517/1517020-housaku.org) | ほうさく | 1517020 | new / draft |
+| JLPTLord N2 486 | [施策](entries/1310/1310380-shisaku.org) | しさく | 1310380 | new / draft |
+| JLPTLord N2 489 | [原則](entries/1262/1262070-gensoku.org) | げんそく | 1262070 | new / draft |
+| JLPTLord N2 491 | [法規](entries/1517/1517260-houki.org) | ほうき | 1517260 | new / draft |
+| JLPTLord N2 492 | [法令](entries/1517/1517500-hourei.org) | ほうれい | 1517500 | new / draft |
+| JLPTLord N2 493 | [条例](entries/1356/1356610-jourei.org) | じょうれい | 1356610 | new / draft |
+| JLPTLord N2 494 | [条項](entries/1356/1356550-joukou.org) | じょうこう | 1356550 | new / draft |
+| JLPTLord N2 495 | [条約](entries/1356/1356580-jouyaku.org) | じょうやく | 1356580 | new / draft |
+| JLPTLord N2 496 | [協定](entries/1235/1235730-kyoutei.org) | きょうてい | 1235730 | new / draft |
+| JLPTLord N2 498 | [規約](entries/1223/1223110-kiyaku.org) | きやく | 1223110 | new / draft |
+| JLPTLord N2 500 | [法案](entries/1517/1517160-houan.org) | ほうあん | 1517160 | new / draft |
+| JLPTLord N2 522 | [行政](entries/1282/1282010-gyousei.org) | ぎょうせい | 1282010 | new / draft |
+| JLPTLord N2 523 | [立法](entries/1551/1551840-rippou.org) | りっぽう | 1551840 | new / draft |
+| JLPTLord N2 524 | [司法](entries/1306/1306680-shihou.org) | しほう | 1306680 | new / draft |
+| JLPTLord N2 526 | [内閣](entries/1457/1457910-naikaku.org) | ないかく | 1457910 | new / draft |
+| JLPTLord N2 530 | [官僚](entries/1211/1211860-kanryou.org) | かんりょう | 1211860 | new / draft |
+| JLPTLord N2 532 | [防衛](entries/1520/1520200-bouei.org) | ぼうえい | 1520200 | new / draft |
+| JLPTLord N2 533 | [軍事](entries/1248/1248080-gunji.org) | ぐんじ | 1248080 | new / draft |
+| JLPTLord N2 534 | [安全保障](entries/1154/1154030-anzenhoshou.org) | あんぜんほしょう | 1154030 | new / draft |
+| JLPTLord N2 539 | [野党](entries/1537/1537580-yatou.org) | やとう | 1537580 | new / draft |
+| JLPTLord N2 540 | [与党](entries/1544/1544870-yotou.org) | よとう | 1544870 | new / draft |
+| JLPTLord N2 541 | [世帯](entries/1374/1374170-setai.org) | せたい | 1374170 | new / draft |
+| JLPTLord N2 545 | [納税](entries/1470/1470060-nouzei.org) | のうぜい | 1470060 | new / draft |
+| JLPTLord N2 546 | [財政](entries/1296/1296830-zaisei.org) | ざいせい | 1296830 | new / draft |
+| JLPTLord N2 547 | [財源](entries/1296/1296810-zaigen.org) | ざいげん | 1296810 | new / draft |
+| JLPTLord N2 549 | [資産](entries/1312/1312750-shisan.org) | しさん | 1312750 | new / draft |
+| JLPTLord N2 551 | [株式](entries/1208/1208970-kabushiki.org) | かぶしき | 1208970 | new / draft |
+| JLPTLord N2 552 | [株価](entries/1208/1208950-kabuka.org) | かぶか | 1208950 | new / draft |
+| JLPTLord N2 554 | [金利](entries/1243/1243330-kinri.org) | きんり | 1243330 | new / draft |
+| JLPTLord N2 557 | [不況](entries/1491/1491950-fukyou.org) | ふきょう | 1491950 | new / draft |
+| JLPTLord N2 560 | [黒字](entries/1287/1287710-kuroji.org) | くろじ | 1287710 | new / draft |
+| JLPTLord N2 561 | [債務](entries/1292/1292110-saimu.org) | さいむ | 1292110 | new / draft |
+| JLPTLord N2 562 | [債権](entries/1292/1292080-saiken.org) | さいけん | 1292080 | new / draft |
+| JLPTLord N2 563 | [融資](entries/1542/1542600-yuushi.org) | ゆうし | 1542600 | new / draft |
+| JLPTLord N2 565 | [損失](entries/1406/1406750-sonshitsu.org) | そんしつ | 1406750 | new / draft |
+| JLPTLord N2 567 | [賠償](entries/1474/1474110-baishou.org) | ばいしょう | 1474110 | new / draft |
+| JLPTLord N2 569 | [法人](entries/1517/1517310-houjin.org) | ほうじん | 1517310 | new / draft |
+| JLPTLord N2 570 | [事業](entries/1313/1313670-jigyou.org) | じぎょう | 1313670 | new / draft |
+| JLPTLord N2 574 | [林業](entries/1555/1555470-ringyou.org) | りんぎょう | 1555470 | new / draft |
+| JLPTLord N2 575 | [鉱業](entries/1282/1282560-kougyou.org) | こうぎょう | 1282560 | new / draft |
+| JLPTLord N2 581 | [市場](entries/1308/1308305-shijou.org) | しじょう | 1308305 | new / draft |
+| JLPTLord N2 584 | [卸売](entries/1589/1589540-oroshiuri.org) | おろしうり | 1589540 | new / draft |
+| JLPTLord N2 585 | [小売](entries/1593/1593050-kouri.org) | こうり | 1593050 | new / draft |
+| JLPTLord N2 588 | [消費者](entries/1350/1350300-shouhisha.org) | しょうひしゃ | 1350300 | new / draft |
+| JLPTLord N2 595 | [定年](entries/1435/1435740-teinen.org) | ていねん | 1435740 | new / draft |
+| JLPTLord N2 601 | [高齢化](entries/2086/2086740-koureika.org) | こうれいか | 2086740 | new / draft |
+| JLPTLord N2 602 | [過疎](entries/1196/1196220-kaso.org) | かそ | 1196220 | new / draft |
+| JLPTLord N2 603 | [過密](entries/1196/1196460-kamitsu.org) | かみつ | 1196460 | new / draft |
+| JLPTLord N2 605 | [貧困](entries/1490/1490830-hinkon.org) | ひんこん | 1490830 | new / draft |
+| JLPTLord N2 609 | [刑罰](entries/1249/1249780-keibatsu.org) | けいばつ | 1249780 | new / draft |
+| JLPTLord N2 610 | [訴訟](entries/1397/1397740-soshou.org) | そしょう | 1397740 | new / draft |
+| JLPTLord N2 616 | [生態系](entries/1379/1379300-seitaikei.org) | せいたいけい | 1379300 | new / draft |
+| JLPTLord N2 617 | [絶滅](entries/1386/1386990-zetsumetsu.org) | ぜつめつ | 1386990 | new / draft |
+| JLPTLord N2 618 | [保全](entries/1513/1513910-hozen.org) | ほぜん | 1513910 | new / draft |
+| JLPTLord N2 619 | [再生](entries/1292/1292960-saisei.org) | さいせい | 1292960 | new / draft |
+| JLPTLord N2 620 | [廃棄](entries/1472/1472030-haiki.org) | はいき | 1472030 | new / draft |
+| JLPTLord N2 621 | [排気](entries/1472/1472320-haiki.org) | はいき | 1472320 | new / draft |
+| JLPTLord N2 622 | [排水](entries/1472/1472380-haisui.org) | はいすい | 1472380 | new / draft |
+| JLPTLord N2 623 | [浄化](entries/1356/1356630-jouka.org) | じょうか | 1356630 | new / draft |
+| JLPTLord N2 624 | [開拓](entries/1202/1202830-kaitaku.org) | かいたく | 1202830 | new / draft |
+| JLPTLord N2 626 | [砂漠化](entries/2555/2555880-sabakuka.org) | さばくか | 2555880 | new / draft |
+| JLPTLord N2 630 | [慣習](entries/1212/1212700-kanshuu.org) | かんしゅう | 1212700 | new / draft |
+| JLPTLord N2 631 | [風習](entries/1499/1499890-fuushuu.org) | ふうしゅう | 1499890 | new / draft |
+| JLPTLord N2 632 | [民族](entries/1604/1604740-minzoku.org) | みんぞく | 1604740 | new / draft |
+| JLPTLord N2 635 | [難民](entries/1461/1461110-nanmin.org) | なんみん | 1461110 | new / draft |
+| JLPTLord N2 636 | [亡命](entries/1518/1518730-boumei.org) | ぼうめい | 1518730 | new / draft |
+| JLPTLord N2 637 | [領土](entries/1554/1554790-ryoudo.org) | りょうど | 1554790 | new / draft |
+| JLPTLord N2 639 | [主権](entries/1325/1325360-shuken.org) | しゅけん | 1325360 | new / draft |
+| JLPTLord N2 640 | [人権](entries/1367/1367200-jinken.org) | じんけん | 1367200 | new / draft |
+| JLPTLord N2 641 | [参政権](entries/1302/1302470-sanseiken.org) | さんせいけん | 1302470 | new / draft |
+| JLPTLord N2 643 | [地方自治体](entries/1763/1763330-chihoujichitai.org) | ちほうじちたい | 1763330 | new / draft |
+| JLPTLord N2 644 | [都道府県](entries/1445/1445030-todoufuken.org) | とどうふけん | 1445030 | new / draft |
+| JLPTLord N2 645 | [市町村](entries/1308/1308600-shichouson.org) | しちょうそん | 1308600 | new / draft |
+| JLPTLord N2 648 | [人件費](entries/1367/1367180-jinkenhi.org) | じんけんひ | 1367180 | new / draft |
+| JLPTLord N2 650 | [賃金](entries/1431/1431990-chingin.org) | ちんぎん | 1431990 | new / draft |
+| JLPTLord N2 651 | [報酬](entries/1515/1515700-houshuu.org) | ほうしゅう | 1515700 | new / draft |
+| JLPTLord N2 653 | [福利厚生](entries/1826/1826450-fukurikousei.org) | ふくりこうせい | 1826450 | new / draft |
+| JLPTLord N2 656 | [連盟](entries/1559/1559870-renmei.org) | れんめい | 1559870 | new / draft |
+| JLPTLord N2 659 | [法廷](entries/1517/1517400-houtei.org) | ほうてい | 1517400 | new / draft |
+| JLPTLord N2 660 | [検察](entries/1257/1257910-kensatsu.org) | けんさつ | 1257910 | new / draft |
+| JLPTLord N2 661 | [弁護](entries/1512/1512830-bengo.org) | べんご | 1512830 | new / draft |
+| JLPTLord N2 662 | [弁護士](entries/1512/1512850-bengoshi.org) | べんごし | 1512850 | new / draft |
+| JLPTLord N2 663 | [被告](entries/1484/1484410-hikoku.org) | ひこく | 1484410 | new / draft |
+| JLPTLord N2 664 | [原告](entries/1261/1261400-genkoku.org) | げんこく | 1261400 | new / draft |
+| JLPTLord N2 665 | [容疑者](entries/1545/1545390-yougisha.org) | ようぎしゃ | 1545390 | new / draft |
+| JLPTLord N2 666 | [判決](entries/1478/1478520-hanketsu.org) | はんけつ | 1478520 | new / draft |
+| JLPTLord N2 667 | [有罪](entries/1541/1541350-yuuzai.org) | ゆうざい | 1541350 | new / draft |
+| JLPTLord N2 668 | [無罪](entries/1529/1529980-muzai.org) | むざい | 1529980 | new / draft |
+| JLPTLord N2 670 | [民事](entries/1528/1528730-minji.org) | みんじ | 1528730 | new / draft |
+| JLPTLord N2 671 | [著作権](entries/1427/1427100-chosakuken.org) | ちょさくけん | 1427100 | new / draft |
+| JLPTLord N2 672 | [特許](entries/1454/1454780-tokkyo.org) | とっきょ | 1454780 | new / draft |
+| JLPTLord N2 673 | [商標](entries/1347/1347290-shouhyou.org) | しょうひょう | 1347290 | new / draft |
+| JLPTLord N2 674 | [知的財産](entries/1420/1420660-chitekizaisan.org) | ちてきざいさん | 1420660 | new / draft |
+| JLPTLord N2 678 | [僻地](entries/1509/1509240-hekichi.org) | へきち | 1509240 | new / draft |
+| JLPTLord N2 679 | [沿岸](entries/1176/1176740-engan.org) | えんがん | 1176740 | new / draft |
+| JLPTLord N2 680 | [内陸](entries/1459/1459500-nairiku.org) | ないりく | 1459500 | new / draft |
+| JLPTLord N2 684 | [海峡](entries/1201/1201320-kaikyou.org) | かいきょう | 1201320 | new / draft |
+| JLPTLord N2 687 | [高原](entries/1283/1283490-kougen.org) | こうげん | 1283490 | new / draft |
+| JLPTLord N2 688 | [山脈](entries/1303/1303190-sanmyaku.org) | さんみゃく | 1303190 | new / draft |
+| JLPTLord N2 691 | [津波](entries/1432/1432220-tsunami.org) | つなみ | 1432220 | new / draft |
+| JLPTLord N2 692 | [洪水](entries/1279/1279930-kouzui.org) | こうずい | 1279930 | new / draft |
+| JLPTLord N2 693 | [干ばつ](entries/1567/1567870-kanbatsu.org) | かんばつ | 1567870 | new / draft |
+| JLPTLord N2 698 | [化石](entries/1187/1187210-kaseki.org) | かせき | 1187210 | new / draft |
+| JLPTLord N2 702 | [紫外線](entries/1311/1311680-shigaisen.org) | しがいせん | 1311680 | new / draft |
+| JLPTLord N2 703 | [放射線](entries/1516/1516630-houshasen.org) | ほうしゃせん | 1516630 | new / draft |
+| JLPTLord N2 704 | [原子力](entries/1261/1261750-genshiryoku.org) | げんしりょく | 1261750 | new / draft |
+| JLPTLord N2 705 | [核兵器](entries/1205/1205700-kakuheiki.org) | かくへいき | 1205700 | new / draft |
+
+### Final 2100-word audit
+
+The branch contains **2100 new translated entries** relative to `origin/main`.
+Since the 1700-word baseline `f1b16094`, this continuation added **400 distinct
+N2 study-list candidates in 40 batches**, with **400 individual word commits**.
+The additions contain **557 English senses with original Ukrainian translations
+and usage notes**, and **1200 graded Japanese/kana/Ukrainian/English examples**.
+Candidate evidence comprises 68 TodayJLPT rows and 332 JLPTLord rows, reconciled
+with pinned JMdict and existing entry IDs. These are documented study-list
+classifications rather than an official JLPT vocabulary syllabus.
+
+All 400 entries passed JMdict validation and Org lint. Doctor reported **100/100**
+with **zero errors and zero warnings**. The full suite passed **137 tests and
+19043 assertions**, with zero failures, errors, or skips. The audit confirmed
+unique JMdict IDs, complete source sense inventories and fingerprints, one
+addition per word commit, and unchanged earlier entries. One subsequent commit
+corrected the literal gloss for 風潮 without adding another word.
+
+The original untracked 罪 draft and candidate-finder script remain untouched.
+All additions remain `new` / `draft` learner entries pending editorial review.
+
+## Final 2300-word branch N2 continuation (2026-10-04)
+
+Baseline: `5ad66293`, with **2100** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **2300**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 708 | [紛争](entries/1505/1505060-funsou.org) | ふんそう | 1505060 | new / draft |
+| JLPTLord N2 713 | [会談](entries/1198/1198760-kaidan.org) | かいだん | 1198760 | new / draft |
+| JLPTLord N2 714 | [首脳](entries/1329/1329360-shunou.org) | しゅのう | 1329360 | new / draft |
+| JLPTLord N2 717 | [領事館](entries/1554/1554740-ryoujikan.org) | りょうじかん | 1554740 | new / draft |
+| JLPTLord N2 718 | [国連](entries/1287/1287210-kokuren.org) | こくれん | 1287210 | new / draft |
+| JLPTLord N2 719 | [総会](entries/1401/1401490-soukai.org) | そうかい | 1401490 | new / draft |
+| JLPTLord N2 720 | [理事会](entries/1795/1795740-rijikai.org) | りじかい | 1795740 | new / draft |
+| JLPTLord N2 721 | [株主](entries/1209/1209010-kabunushi.org) | かぶぬし | 1209010 | new / draft |
+| JLPTLord N2 722 | [役員](entries/1537/1537990-yakuin.org) | やくいん | 1537990 | new / draft |
+| JLPTLord N2 723 | [取締役](entries/1610/1610920-torishimariyaku.org) | とりしまりやく | 1610920 | new / draft |
+| JLPTLord N2 724 | [会長](entries/1198/1198770-kaichou.org) | かいちょう | 1198770 | new / draft |
+| JLPTLord N2 725 | [副社長](entries/1500/1500460-fukushachou.org) | ふくしゃちょう | 1500460 | new / draft |
+| JLPTLord N2 727 | [常務](entries/1356/1356130-joumu.org) | じょうむ | 1356130 | new / draft |
+| JLPTLord N2 728 | [顧問](entries/1267/1267880-komon.org) | こもん | 1267880 | new / draft |
+| JLPTLord N2 729 | [監査](entries/1590/1590860-kansa.org) | かんさ | 1590860 | new / draft |
+| JLPTLord N2 730 | [決算](entries/1254/1254290-kessan.org) | けっさん | 1254290 | new / draft |
+| JLPTLord N2 731 | [経理](entries/1251/1251680-keiri.org) | けいり | 1251680 | new / draft |
+| JLPTLord N2 732 | [総務](entries/1401/1401770-soumu.org) | そうむ | 1401770 | new / draft |
+| JLPTLord N2 734 | [広報](entries/1593/1593040-kouhou.org) | こうほう | 1593040 | new / draft |
+| JLPTLord N2 735 | [渉外](entries/1350/1350420-shougai.org) | しょうがい | 1350420 | new / draft |
+| JLPTLord N2 737 | [拠点](entries/1232/1232440-kyoten.org) | きょてん | 1232440 | new / draft |
+| JLPTLord N2 738 | [支社](entries/1310/1310170-shisha.org) | ししゃ | 1310170 | new / draft |
+| JLPTLord N2 739 | [本社](entries/1522/1522630-honsha.org) | ほんしゃ | 1522630 | new / draft |
+| JLPTLord N2 740 | [子会社](entries/1307/1307820-kogaisha.org) | こがいしゃ | 1307820 | new / draft |
+| JLPTLord N2 741 | [親会社](entries/1643/1643780-oyagaisha.org) | おやがいしゃ | 1643780 | new / draft |
+| JLPTLord N2 742 | [系列](entries/1251/1251080-keiretsu.org) | けいれつ | 1251080 | new / draft |
+| JLPTLord N2 743 | [下請け](entries/1594/1594320-shitauke.org) | したうけ | 1594320 | new / draft |
+| JLPTLord N2 744 | [元請け](entries/1665/1665240-motouke.org) | もとうけ | 1665240 | new / draft |
+| JLPTLord N2 745 | [入札](entries/1466/1466180-nyuusatsu.org) | にゅうさつ | 1466180 | new / draft |
+| JLPTLord N2 746 | [落札](entries/1548/1548750-rakusatsu.org) | らくさつ | 1548750 | new / draft |
+| JLPTLord N2 747 | [受注](entries/1329/1329970-juchuu.org) | じゅちゅう | 1329970 | new / draft |
+| JLPTLord N2 748 | [発注](entries/1477/1477710-hatchuu.org) | はっちゅう | 1477710 | new / draft |
+| JLPTLord N2 749 | [納期](entries/1470/1470050-nouki.org) | のうき | 1470050 | new / draft |
+| JLPTLord N2 750 | [仕入れ](entries/1305/1305300-shiire.org) | しいれ | 1305300 | new / draft |
+| JLPTLord N2 774 | [備わる](entries/1596/1596640-sonawaru.org) | そなわる | 1596640 | new / draft |
+| JLPTLord N2 775 | [供える](entries/1233/1233580-sonaeru.org) | そなえる | 1233580 | new / draft |
+| JLPTLord N2 778 | [覆す](entries/1501/1501490-kutsugaesu.org) | くつがえす | 1501490 | new / draft |
+| JLPTLord N2 779 | [覆る](entries/1501/1501500-kutsugaeru.org) | くつがえる | 1501500 | new / draft |
+| JLPTLord N2 785 | [傾ける](entries/1249/1249420-katamukeru.org) | かたむける | 1249420 | new / draft |
+| JLPTLord N2 786 | [費やす](entries/1484/1484600-tsuiyasu.org) | ついやす | 1484600 | new / draft |
+| JLPTLord N2 787 | [培う](entries/1473/1473350-tsuchikau.org) | つちかう | 1473350 | new / draft |
+| JLPTLord N2 789 | [賄う](entries/1562/1562510-makanau.org) | まかなう | 1562510 | new / draft |
+| JLPTLord N2 793 | [唱える](entries/1347/1347490-tonaeru.org) | となえる | 1347490 | new / draft |
+| JLPTLord N2 795 | [企てる](entries/1218/1218120-kuwadateru.org) | くわだてる | 1218120 | new / draft |
+| JLPTLord N2 797 | [挑む](entries/1428/1428230-idomu.org) | いどむ | 1428230 | new / draft |
+| JLPTLord N2 798 | [臨む](entries/1555/1555560-nozomu.org) | のぞむ | 1555560 | new / draft |
+| JLPTLord N2 800 | [促す](entries/1403/1403760-unagasu.org) | うながす | 1403760 | new / draft |
+| JLPTLord N2 801 | [催す](entries/1292/1292160-moyoosu.org) | もよおす | 1292160 | new / draft |
+| JLPTLord N2 802 | [施す](entries/1310/1310370-hodokosu.org) | ほどこす | 1310370 | new / draft |
+| JLPTLord N2 803 | [講じる](entries/1631/1631440-koujiru.org) | こうじる | 1631440 | new / draft |
+| JLPTLord N2 804 | [抑える](entries/2836/2836285-osaeru.org) | おさえる | 2836285 | new / draft |
+| JLPTLord N2 807 | [遮る](entries/1323/1323290-saegiru.org) | さえぎる | 1323290 | new / draft |
+| JLPTLord N2 808 | [阻む](entries/1397/1397800-habamu.org) | はばむ | 1397800 | new / draft |
+| JLPTLord N2 809 | [拒む](entries/1232/1232360-kobamu.org) | こばむ | 1232360 | new / draft |
+| JLPTLord N2 810 | [退ける](entries/1411/1411260-shirizokeru.org) | しりぞける | 1411260 | new / draft |
+| JLPTLord N2 812 | [免れる](entries/1584/1584670-manugareru.org) | まぬがれる | 1584670 | new / draft |
+| JLPTLord N2 813 | [逃れる](entries/1450/1450440-nogareru.org) | のがれる | 1450440 | new / draft |
+| JLPTLord N2 814 | [漏れる](entries/1605/1605330-moreru.org) | もれる | 1605330 | new / draft |
+| JLPTLord N2 815 | [漏らす](entries/1605/1605320-morasu.org) | もらす | 1605320 | new / draft |
+| JLPTLord N2 818 | [滞る](entries/1410/1410920-todokooru.org) | とどこおる | 1410920 | new / draft |
+| JLPTLord N2 820 | [留める](entries/1598/1598820-todomeru.org) | とどめる | 1598820 | new / draft |
+| JLPTLord N2 821 | [収まる](entries/1330/1330490-osamaru.org) | おさまる | 1330490 | new / draft |
+| JLPTLord N2 823 | [治まる](entries/1316/1316820-osamaru.org) | おさまる | 1316820 | new / draft |
+| JLPTLord N2 829 | [見なす](entries/1604/1604630-minasu.org) | みなす | 1604630 | new / draft |
+| JLPTLord N2 831 | [見出す](entries/1259/1259130-miidasu.org) | みいだす | 1259130 | new / draft |
+| JLPTLord N2 832 | [見落とす](entries/1260/1260140-miotosu.org) | みおとす | 1260140 | new / draft |
+| JLPTLord N2 834 | [見守る](entries/1259/1259680-mimamoru.org) | みまもる | 1259680 | new / draft |
+| JLPTLord N2 837 | [打ち切る](entries/1408/1408720-uchikiru.org) | うちきる | 1408720 | new / draft |
+| JLPTLord N2 838 | [打ち込む](entries/1581/1581440-uchikomu.org) | うちこむ | 1581440 | new / draft |
+| JLPTLord N2 841 | [取り扱う](entries/1326/1326540-toriatsukau.org) | とりあつかう | 1326540 | new / draft |
+| JLPTLord N2 843 | [取り締まる](entries/1326/1326860-torishimaru.org) | とりしまる | 1326860 | new / draft |
+| JLPTLord N2 846 | [引き起こす](entries/1168/1168880-hikiokosu.org) | ひきおこす | 1168880 | new / draft |
+| JLPTLord N2 848 | [引き下げる](entries/1601/1601600-hikisageru.org) | ひきさげる | 1601600 | new / draft |
+| JLPTLord N2 849 | [引き上げる](entries/1601/1601480-hikiageru.org) | ひきあげる | 1601480 | new / draft |
+| JLPTLord N2 850 | [引き延ばす](entries/1601/1601770-hikinobasu.org) | ひきのばす | 1601770 | new / draft |
+| JLPTLord N2 851 | [差し支える](entries/1291/1291180-sashitsukaeru.org) | さしつかえる | 1291180 | new / draft |
+| JLPTLord N2 853 | [追い込む](entries/1432/1432330-oikomu.org) | おいこむ | 1432330 | new / draft |
+| JLPTLord N2 857 | [繰り上げる](entries/1247/1247000-kuriageru.org) | くりあげる | 1247000 | new / draft |
+| JLPTLord N2 858 | [繰り下げる](entries/1246/1246940-kurisageru.org) | くりさげる | 1246940 | new / draft |
+| JLPTLord N2 860 | [立ち向かう](entries/1551/1551330-tachimukau.org) | たちむかう | 1551330 | new / draft |
+| JLPTLord N2 861 | [立ち寄る](entries/1551/1551300-tachiyoru.org) | たちよる | 1551300 | new / draft |
+| JLPTLord N2 863 | [申し出る](entries/1362/1362930-moushideru.org) | もうしでる | 1362930 | new / draft |
+| JLPTLord N2 865 | [切り開く](entries/1383/1383920-kirihiraku.org) | きりひらく | 1383920 | new / draft |
+| JLPTLord N2 867 | [組み込む](entries/1397/1397510-kumikomu.org) | くみこむ | 1397510 | new / draft |
+| JLPTLord N2 869 | [絞り込む](entries/1982/1982810-shiborikomu.org) | しぼりこむ | 1982810 | new / draft |
+| JLPTLord N2 874 | [受け止める](entries/1329/1329630-uketomeru.org) | うけとめる | 1329630 | new / draft |
+| JLPTLord N2 875 | [受け継ぐ](entries/1329/1329600-uketsugu.org) | うけつぐ | 1329600 | new / draft |
+| JLPTLord N2 881 | [乗り込む](entries/1354/1354910-norikomu.org) | のりこむ | 1354910 | new / draft |
+| JLPTLord N2 882 | [問い合わせる](entries/1535/1535960-toiawaseru.org) | といあわせる | 1535960 | new / draft |
+| JLPTLord N2 887 | [踏み切る](entries/1450/1450190-fumikiru.org) | ふみきる | 1450190 | new / draft |
+| JLPTLord N2 888 | [踏み込む](entries/1450/1450150-fumikomu.org) | ふみこむ | 1450150 | new / draft |
+| JLPTLord N2 889 | [踏まえる](entries/1450/1450110-fumaeru.org) | ふまえる | 1450110 | new / draft |
+| JLPTLord N2 890 | [行き渡る](entries/1587/1587130-ikiwataru.org) | いきわたる | 1587130 | new / draft |
+| JLPTLord N2 891 | [行き詰まる](entries/1631/1631350-ikizumaru.org) | いきづまる | 1631350 | new / draft |
+| JLPTLord N2 892 | [思い切る](entries/1309/1309320-omoikiru.org) | おもいきる | 1309320 | new / draft |
+| JLPTLord N2 899 | [捧げる](entries/1516/1516430-sasageru.org) | ささげる | 1516430 | new / draft |
+| JLPTLord N2 902 | [据える](entries/1373/1373480-sueru.org) | すえる | 1373480 | new / draft |
+| JLPTLord N2 904 | [帯びる](entries/1410/1410430-obiru.org) | おびる | 1410430 | new / draft |
+| JLPTLord N2 906 | [操る](entries/1400/1400010-ayatsuru.org) | あやつる | 1400010 | new / draft |
+| JLPTLord N2 909 | [潜む](entries/1391/1391240-hisomu.org) | ひそむ | 1391240 | new / draft |
+| JLPTLord N2 910 | [凌ぐ](entries/1554/1554200-shinogu.org) | しのぐ | 1554200 | new / draft |
+| JLPTLord N2 911 | [遂げる](entries/1372/1372620-togeru.org) | とげる | 1372620 | new / draft |
+| JLPTLord N2 912 | [憤る](entries/1504/1504640-ikidooru.org) | いきどおる | 1504640 | new / draft |
+| JLPTLord N2 915 | [励む](entries/1557/1557390-hagemu.org) | はげむ | 1557390 | new / draft |
+| JLPTLord N2 917 | [惜しむ](entries/1382/1382300-oshimu.org) | おしむ | 1382300 | new / draft |
+| JLPTLord N2 920 | [侮る](entries/1583/1583670-anadoru.org) | あなどる | 1583670 | new / draft |
+| JLPTLord N2 921 | [蔑む](entries/1510/1510260-sagesumu.org) | さげすむ | 1510260 | new / draft |
+| JLPTLord N2 923 | [慕う](entries/1514/1514910-shitau.org) | したう | 1514910 | new / draft |
+| JLPTLord N2 927 | [戒める](entries/1200/1200650-imashimeru.org) | いましめる | 1200650 | new / draft |
+| JLPTLord N2 928 | [諭す](entries/1538/1538770-satosu.org) | さとす | 1538770 | new / draft |
+| JLPTLord N2 929 | [嘆く](entries/1418/1418090-nageku.org) | なげく | 1418090 | new / draft |
+| JLPTLord N2 931 | [偽る](entries/1224/1224390-itsuwaru.org) | いつわる | 1224390 | new / draft |
+| JLPTLord N2 932 | [欺く](entries/1225/1225420-azamuku.org) | あざむく | 1225420 | new / draft |
+| JLPTLord N2 945 | [保つ](entries/1513/1513250-tamotsu.org) | たもつ | 1513250 | new / draft |
+| JLPTLord N2 954 | [恥じる](entries/1421/1421610-hajiru.org) | はじる | 1421610 | new / draft |
+| JLPTLord N2 957 | [転じる](entries/1441/1441040-tenjiru.org) | てんじる | 1441040 | new / draft |
+| JLPTLord N2 958 | [呈する](entries/2012/2012430-teisuru.org) | ていする | 2012430 | new / draft |
+| JLPTLord N2 959 | [擁する](entries/1545/1545740-yousuru.org) | ようする | 1545740 | new / draft |
+| JLPTLord N2 960 | [要する](entries/1546/1546610-yousuru.org) | ようする | 1546610 | new / draft |
+| JLPTLord N2 961 | [有する](entries/1540/1540950-yuusuru.org) | ゆうする | 1540950 | new / draft |
+| JLPTLord N2 963 | [反する](entries/1480/1480080-hansuru.org) | はんする | 1480080 | new / draft |
+| JLPTLord N2 965 | [徹する](entries/1598/1598340-tessuru.org) | てっする | 1598340 | new / draft |
+| JLPTLord N2 968 | [面する](entries/1533/1533400-mensuru.org) | めんする | 1533400 | new / draft |
+| JLPTLord N2 970 | [値する](entries/1609/1609040-ataisuru.org) | あたいする | 1609040 | new / draft |
+| JLPTLord N2 971 | [課する](entries/1195/1195730-kasuru.org) | かする | 1195730 | new / draft |
+| JLPTLord N2 972 | [称する](entries/1351/1351250-shousuru.org) | しょうする | 1351250 | new / draft |
+| JLPTLord N2 974 | [潤う](entries/1341/1341790-uruou.org) | うるおう | 1341790 | new / draft |
+| JLPTLord N2 975 | [潤す](entries/1341/1341810-uruosu.org) | うるおす | 1341810 | new / draft |
+| JLPTLord N2 977 | [揺るがす](entries/1612/1612140-yurugasu.org) | ゆるがす | 1612140 | new / draft |
+| JLPTLord N2 978 | [染まる](entries/1391/1391100-somaru.org) | そまる | 1391100 | new / draft |
+| JLPTLord N2 979 | [染める](entries/1391/1391160-someru.org) | そめる | 1391160 | new / draft |
+| JLPTLord N2 980 | [委ねる](entries/1156/1156090-yudaneru.org) | ゆだねる | 1156090 | new / draft |
+| JLPTLord N2 985 | [漂う](entries/1489/1489240-tadayou.org) | ただよう | 1489240 | new / draft |
+| JLPTLord N2 986 | [募る](entries/1514/1514800-tsunoru.org) | つのる | 1514800 | new / draft |
+| JLPTLord N2 988 | [悟る](entries/1270/1270850-satoru.org) | さとる | 1270850 | new / draft |
+| JLPTLord N2 991 | [妬む](entries/1444/1444380-netamu.org) | ねたむ | 1444380 | new / draft |
+| JLPTLord N2 996 | [剥がれる](entries/1474/1474330-hagareru.org) | はがれる | 1474330 | new / draft |
+| JLPTLord N2 997 | [弾く](entries/1419/1419360-hajiku.org) | はじく | 1419360 | new / draft |
+| JLPTLord N2 998 | [弾む](entries/1419/1419400-hazumu.org) | はずむ | 1419400 | new / draft |
+| JLPTLord N2 1007 | [愚かしい](entries/1245/1245110-orokashii.org) | おろかしい | 1245110 | new / draft |
+| JLPTLord N2 1008 | [逞しい](entries/1573/1573650-takumashii.org) | たくましい | 1573650 | new / draft |
+| JLPTLord N2 1009 | [目覚ましい](entries/1604/1604930-mezamashii.org) | めざましい | 1604930 | new / draft |
+| JLPTLord N2 1012 | [喜ばしい](entries/1614/1614400-yorokobashii.org) | よろこばしい | 1614400 | new / draft |
+| JLPTLord N2 1013 | [嘆かわしい](entries/1418/1418060-nagekawashii.org) | なげかわしい | 1418060 | new / draft |
+| JLPTLord N2 1021 | [煩わしい](entries/1481/1481940-wazurawashii.org) | わずらわしい | 1481940 | new / draft |
+| JLPTLord N2 1023 | [物々しい](entries/1722/1722640-monomonoshii.org) | ものものしい | 1722640 | new / draft |
+| JLPTLord N2 1026 | [目まぐるしい](entries/1535/1535170-memagurushii.org) | めまぐるしい | 1535170 | new / draft |
+| JLPTLord N2 1027 | [華々しい](entries/1600/1600960-hanabanashii.org) | はなばなしい | 1600960 | new / draft |
+| JLPTLord N2 1028 | [空しい](entries/1245/1245370-munashii.org) | むなしい | 1245370 | new / draft |
+| JLPTLord N2 1030 | [切ない](entries/1383/1383770-setsunai.org) | せつない | 1383770 | new / draft |
+| JLPTLord N2 1034 | [根強い](entries/1290/1290150-nezuyoi.org) | ねづよい | 1290150 | new / draft |
+| JLPTLord N2 1035 | [手堅い](entries/1327/1327550-tegatai.org) | てがたい | 1327550 | new / draft |
+| JLPTLord N2 1036 | [手厚い](entries/1327/1327580-teatsui.org) | てあつい | 1327580 | new / draft |
+| JLPTLord N2 1037 | [手軽](entries/1327/1327530-tegaru.org) | てがる | 1327530 | new / draft |
+| JLPTLord N2 1040 | [潔い](entries/1254/1254440-isagiyoi.org) | いさぎよい | 1254440 | new / draft |
+| JLPTLord N2 1047 | [脆い](entries/1382/1382220-moroi.org) | もろい | 1382220 | new / draft |
+| JLPTLord N2 1057 | [密か](entries/1612/1612520-hisoka.org) | ひそか | 1612520 | new / draft |
+| JLPTLord N2 1058 | [鮮やか](entries/1392/1392500-azayaka.org) | あざやか | 1392500 | new / draft |
+| JLPTLord N2 1059 | [滑らか](entries/1208/1208560-nameraka.org) | なめらか | 1208560 | new / draft |
+| JLPTLord N2 1060 | [柔らか](entries/1460/1460730-yawaraka.org) | やわらか | 1460730 | new / draft |
+| JLPTLord N2 1062 | [和やか](entries/1561/1561940-nagoyaka.org) | なごやか | 1561940 | new / draft |
+| JLPTLord N2 1063 | [華やか](entries/1600/1600990-hanayaka.org) | はなやか | 1600990 | new / draft |
+| JLPTLord N2 1065 | [健やか](entries/1256/1256110-sukoyaka.org) | すこやか | 1256110 | new / draft |
+| JLPTLord N2 1066 | [緩やか](entries/1214/1214450-yuruyaka.org) | ゆるやか | 1214450 | new / draft |
+| JLPTLord N2 1067 | [速やか](entries/1405/1405000-sumiyaka.org) | すみやか | 1405000 | new / draft |
+| JLPTLord N2 1068 | [巧み](entries/1278/1278290-takumi.org) | たくみ | 1278290 | new / draft |
+| JLPTLord N2 1069 | [素朴](entries/1397/1397390-soboku.org) | そぼく | 1397390 | new / draft |
+| JLPTLord N2 1074 | [厳密](entries/1262/1262830-genmitsu.org) | げんみつ | 1262830 | new / draft |
+| JLPTLord N2 1075 | [厳格](entries/1262/1262570-genkaku.org) | げんかく | 1262570 | new / draft |
+| JLPTLord N2 1083 | [合理的](entries/1285/1285380-gouriteki.org) | ごうりてき | 1285380 | new / draft |
+| JLPTLord N2 1084 | [論理的](entries/1561/1561890-ronriteki.org) | ろんりてき | 1561890 | new / draft |
+| JLPTLord N2 1085 | [具体的](entries/1245/1245050-gutaiteki.org) | ぐたいてき | 1245050 | new / draft |
+| JLPTLord N2 1086 | [抽象的](entries/1426/1426200-chuushouteki.org) | ちゅうしょうてき | 1426200 | new / draft |
+| JLPTLord N2 1089 | [効果的](entries/1275/1275150-koukateki.org) | こうかてき | 1275150 | new / draft |
+| JLPTLord N2 1090 | [画期的](entries/1590/1590470-kakkiteki.org) | かっきてき | 1590470 | new / draft |
+| JLPTLord N2 1091 | [圧倒的](entries/1153/1153270-attouteki.org) | あっとうてき | 1153270 | new / draft |
+| JLPTLord N2 1092 | [決定的](entries/1254/1254400-ketteiteki.org) | けっていてき | 1254400 | new / draft |
+| JLPTLord N2 1093 | [根本的](entries/1290/1290290-konponteki.org) | こんぽんてき | 1290290 | new / draft |
+| JLPTLord N2 1094 | [本質的](entries/1822/1822900-honshitsuteki.org) | ほんしつてき | 1822900 | new / draft |
+| JLPTLord N2 1095 | [典型的](entries/1438/1438090-tenkeiteki.org) | てんけいてき | 1438090 | new / draft |
+| JLPTLord N2 1096 | [総合的](entries/1401/1401570-sougouteki.org) | そうごうてき | 1401570 | new / draft |
+| JLPTLord N2 1097 | [客観的](entries/1226/1226700-kyakkanteki.org) | きゃっかんてき | 1226700 | new / draft |
+| JLPTLord N2 1098 | [主観的](entries/1325/1325210-shukanteki.org) | しゅかんてき | 1325210 | new / draft |
+| JLPTLord N2 1099 | [一般的](entries/1165/1165880-ippanteki.org) | いっぱんてき | 1165880 | new / draft |
+| JLPTLord N2 1100 | [普遍的](entries/1615/1615290-fuhenteki.org) | ふへんてき | 1615290 | new / draft |
+| JLPTLord N2 1101 | [伝統的](entries/1442/1442270-dentouteki.org) | でんとうてき | 1442270 | new / draft |
+| JLPTLord N2 1102 | [革新的](entries/1206/1206490-kakushinteki.org) | かくしんてき | 1206490 | new / draft |
+| JLPTLord N2 1103 | [進歩的](entries/1813/1813340-shinpoteki.org) | しんぽてき | 1813340 | new / draft |
+| JLPTLord N2 1104 | [保守的](entries/1603/1603490-hoshuteki.org) | ほしゅてき | 1603490 | new / draft |
+| JLPTLord N2 1105 | [民主的](entries/1528/1528870-minshuteki.org) | みんしゅてき | 1528870 | new / draft |
+| JLPTLord N2 1106 | [自主的](entries/1317/1317880-jishuteki.org) | じしゅてき | 1317880 | new / draft |
+| JLPTLord N2 1107 | [独創的](entries/1455/1455950-dokusouteki.org) | どくそうてき | 1455950 | new / draft |
+| JLPTLord N2 1108 | [建設的](entries/1257/1257460-kensetsuteki.org) | けんせつてき | 1257460 | new / draft |
+| JLPTLord N2 1109 | [破壊的](entries/1471/1471270-hakaiteki.org) | はかいてき | 1471270 | new / draft |
+| JLPTLord N2 1110 | [魅力的](entries/1528/1528160-miryokuteki.org) | みりょくてき | 1528160 | new / draft |
+| JLPTLord N2 1111 | [刺激的](entries/1594/1594220-shigekiteki.org) | しげきてき | 1594220 | new / draft |
+| JLPTLord N2 1112 | [衝撃的](entries/2664/2664460-shougekiteki.org) | しょうげきてき | 2664460 | new / draft |
+| JLPTLord N2 1113 | [悲観的](entries/1483/1483250-hikanteki.org) | ひかんてき | 1483250 | new / draft |
+| JLPTLord N2 1114 | [楽観的](entries/1207/1207320-rakkanteki.org) | らっかんてき | 1207320 | new / draft |
+| JLPTLord N2 1115 | [感情的](entries/1614/1614170-kanjouteki.org) | かんじょうてき | 1614170 | new / draft |
+
+### Final 2300-word audit
+
+The branch contains **2300 new translated entries** relative to `origin/main`.
+The current worktree was inspected at baseline `5ad66293`: no other agent had
+added words after the completed 2100-word milestone. This continuation added
+**200 distinct N2 study-list candidates in 20 batches**, with **200 individual
+word commits**, **388 English senses with original Ukrainian glosses and nuance
+notes**, and **600 graded Japanese/kana/Ukrainian/English examples**.
+
+All 200 candidates come from documented unused JLPTLord rows reconciled against
+pinned JMdict and existing entry IDs. The source manifest records 532 candidates
+across the three relevant continuations. This is a study-site classification,
+not an official JLPT vocabulary syllabus; source definitions and examples were
+not copied.
+
+JMdict validation and Org lint passed for the complete 200-entry addition.
+Doctor reported **100/100**, **zero errors**, and **zero warnings**. The full
+suite passed **137 tests and 19643 assertions**, with zero failures, errors, or
+skips. The audit verified exactly 2300 branch additions, unique IDs, full source
+sense inventories and fingerprints, Ukrainian coverage of every English sense,
+three complete primary-sense examples per word, and one entry per addition
+commit. Two subsequent editorial commits improved a 遂げる collocation and
+clarified the archaic senses of 漂う without adding words.
+
+Earlier tracked entries remain unchanged. The original untracked 罪 draft and
+candidate-finder script retain their original contents. All new additions
+remain learner entries marked `new` / `draft`, pending editorial review.
+
+## Final 2500-word branch N2 continuation (2026-10-04)
+
+Baseline: `6e08ae44`, with **2300** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **2500**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 1116 | [理想的](entries/1550/1550040-risouteki.org) | りそうてき | 1550040 | new / draft |
+| JLPTLord N2 1117 | [現実的](entries/1263/1263730-genjitsuteki.org) | げんじつてき | 1263730 | new / draft |
+| JLPTLord N2 1118 | [表面的](entries/1489/1489920-hyoumenteki.org) | ひょうめんてき | 1489920 | new / draft |
+| JLPTLord N2 1119 | [形式的](entries/1250/1250320-keishikiteki.org) | けいしきてき | 1250320 | new / draft |
+| JLPTLord N2 1120 | [実質的](entries/1321/1321180-jisshitsuteki.org) | じっしつてき | 1321180 | new / draft |
+| JLPTLord N2 1121 | [象徴的](entries/1794/1794680-shouchouteki.org) | しょうちょうてき | 1794680 | new / draft |
+| JLPTLord N2 1122 | [威圧的](entries/1781/1781230-iatsuteki.org) | いあつてき | 1781230 | new / draft |
+| JLPTLord N2 1123 | [排他的](entries/1472/1472430-haitateki.org) | はいたてき | 1472430 | new / draft |
+| JLPTLord N2 1124 | [壮大](entries/1399/1399430-soudai.org) | そうだい | 1399430 | new / draft |
+| JLPTLord N2 1127 | [過大](entries/1196/1196250-kadai.org) | かだい | 1196250 | new / draft |
+| JLPTLord N2 1128 | [過小](entries/1196/1196140-kashou.org) | かしょう | 1196140 | new / draft |
+| JLPTLord N2 1130 | [微細](entries/1485/1485930-bisai.org) | びさい | 1485930 | new / draft |
+| JLPTLord N2 1131 | [些細](entries/1290/1290680-sasai.org) | ささい | 1290680 | new / draft |
+| JLPTLord N2 1132 | [多大](entries/1407/1407900-tadai.org) | ただい | 1407900 | new / draft |
+| JLPTLord N2 1134 | [強大](entries/1236/1236450-kyoudai.org) | きょうだい | 1236450 | new / draft |
+| JLPTLord N2 1136 | [寛大](entries/1211/1211960-kandai.org) | かんだい | 1211960 | new / draft |
+| JLPTLord N2 1137 | [甚大](entries/1370/1370040-jindai.org) | じんだい | 1370040 | new / draft |
+| JLPTLord N2 1142 | [不可欠](entries/1491/1491400-fukaketsu.org) | ふかけつ | 1491400 | new / draft |
+| JLPTLord N2 1143 | [不可能](entries/1491/1491520-fukanou.org) | ふかのう | 1491520 | new / draft |
+| JLPTLord N2 1145 | [漠然](entries/1475/1475790-bakuzen.org) | ばくぜん | 1475790 | new / draft |
+| JLPTLord N2 1146 | [露骨](entries/1560/1560120-rokotsu.org) | ろこつ | 1560120 | new / draft |
+| JLPTLord N2 1150 | [地道](entries/1421/1421400-jimichi.org) | じみち | 1421400 | new / draft |
+| JLPTLord N2 1151 | [着実](entries/1423/1423050-chakujitsu.org) | ちゃくじつ | 1423050 | new / draft |
+| JLPTLord N2 1152 | [堅実](entries/1592/1592720-kenjitsu.org) | けんじつ | 1592720 | new / draft |
+| JLPTLord N2 1153 | [誠実](entries/1381/1381180-seijitsu.org) | せいじつ | 1381180 | new / draft |
+| JLPTLord N2 1154 | [忠実](entries/1012/1012210-chuujitsu.org) | ちゅうじつ | 1012210 | new / draft |
+| JLPTLord N2 1155 | [素早い](entries/1397/1397310-subayai.org) | すばやい | 1397310 | new / draft |
+| JLPTLord N2 1157 | [相応しい](entries/1400/1400850-fusawashii.org) | ふさわしい | 1400850 | new / draft |
+| JLPTLord N2 1164 | [極めて](entries/1240/1240200-kiwamete.org) | きわめて | 1240200 | new / draft |
+| JLPTLord N2 1165 | [著しく](entries/1858/1858570-ichijirushiku.org) | いちじるしく | 1858570 | new / draft |
+| JLPTLord N2 1166 | [辛うじて](entries/1365/1365870-karoujite.org) | かろうじて | 1365870 | new / draft |
+| JLPTLord N2 1167 | [概ね](entries/1204/1204410-oomune.org) | おおむね | 1204410 | new / draft |
+| JLPTLord N2 1168 | [一概に](entries/1161/1161390-ichigaini.org) | いちがいに | 1161390 | new / draft |
+| JLPTLord N2 1170 | [依然](entries/1155/1155650-izen.org) | いぜん | 1155650 | new / draft |
+| JLPTLord N2 1171 | [元来](entries/1261/1261080-ganrai.org) | がんらい | 1261080 | new / draft |
+| JLPTLord N2 1179 | [予め](entries/1542/1542860-arakajime.org) | あらかじめ | 1542860 | new / draft |
+| JLPTLord N2 1181 | [敢えて](entries/1212/1212850-aete.org) | あえて | 1212850 | new / draft |
+| JLPTLord N2 1182 | [強いて](entries/1236/1236080-shiite.org) | しいて | 1236080 | new / draft |
+| JLPTLord N2 1183 | [仮に](entries/1187/1187300-karini.org) | かりに | 1187300 | new / draft |
+| JLPTLord N2 1189 | [若干](entries/1324/1324330-jakkan.org) | じゃっかん | 1324330 | new / draft |
+| JLPTLord N2 1190 | [大幅](entries/1414/1414870-oohaba.org) | おおはば | 1414870 | new / draft |
+| JLPTLord N2 1192 | [到底](entries/1449/1449880-toutei.org) | とうてい | 1449880 | new / draft |
+| JLPTLord N2 1194 | [案の定](entries/1154/1154790-annojou.org) | あんのじょう | 1154790 | new / draft |
+| JLPTLord N2 1196 | [所詮](entries/1343/1343300-shosen.org) | しょせん | 1343300 | new / draft |
+| JLPTLord N2 1205 | [他方](entries/1407/1407370-tahou.org) | たほう | 1407370 | new / draft |
+| JLPTLord N2 1207 | [一斉に](entries/1164/1164050-isseini.org) | いっせいに | 1164050 | new / draft |
+| JLPTLord N2 1208 | [徐々に](entries/1595/1595480-jojoni.org) | じょじょに | 1595480 | new / draft |
+| JLPTLord N2 1209 | [次第に](entries/1316/1316690-shidaini.org) | しだいに | 1316690 | new / draft |
+| JLPTLord N2 1217 | [何気なく](entries/1188/1188680-nanigenaku.org) | なにげなく | 1188680 | new / draft |
+| JLPTLord N2 1252 | [燃料](entries/1469/1469660-nenryou.org) | ねんりょう | 1469660 | new / draft |
+| JLPTLord N2 1254 | [繊維](entries/1391/1391890-seni.org) | せんい | 1391890 | new / draft |
+| JLPTLord N2 1260 | [治療](entries/1316/1316890-chiryou.org) | ちりょう | 1316890 | new / draft |
+| JLPTLord N2 1268 | [処方](entries/1342/1342500-shohou.org) | しょほう | 1342500 | new / draft |
+| JLPTLord N2 1269 | [投薬](entries/1447/1447370-touyaku.org) | とうやく | 1447370 | new / draft |
+| JLPTLord N2 1271 | [免疫](entries/1533/1533090-meneki.org) | めんえき | 1533090 | new / draft |
+| JLPTLord N2 1272 | [感染](entries/1212/1212470-kansen.org) | かんせん | 1212470 | new / draft |
+| JLPTLord N2 1274 | [炎症](entries/1177/1177100-enshou.org) | えんしょう | 1177100 | new / draft |
+| JLPTLord N2 1276 | [捻挫](entries/1469/1469540-nenza.org) | ねんざ | 1469540 | new / draft |
+| JLPTLord N2 1277 | [打撲](entries/1408/1408960-daboku.org) | だぼく | 1408960 | new / draft |
+| JLPTLord N2 1280 | [不眠](entries/1495/1495010-fumin.org) | ふみん | 1495010 | new / draft |
+| JLPTLord N2 1282 | [体質](entries/1409/1409520-taishitsu.org) | たいしつ | 1409520 | new / draft |
+| JLPTLord N2 1283 | [視力](entries/1312/1312150-shiryoku.org) | しりょく | 1312150 | new / draft |
+| JLPTLord N2 1284 | [聴力](entries/1428/1428950-chouryoku.org) | ちょうりょく | 1428950 | new / draft |
+| JLPTLord N2 1287 | [内臓](entries/1458/1458740-naizou.org) | ないぞう | 1458740 | new / draft |
+| JLPTLord N2 1288 | [臓器](entries/1403/1403480-zouki.org) | ぞうき | 1403480 | new / draft |
+| JLPTLord N2 1291 | [遺伝子](entries/1159/1159500-idenshi.org) | いでんし | 1159500 | new / draft |
+| JLPTLord N2 1292 | [染色体](entries/1843/1843780-senshokutai.org) | せんしょくたい | 1843780 | new / draft |
+| JLPTLord N2 1293 | [抗体](entries/1278/1278960-koutai.org) | こうたい | 1278960 | new / draft |
+| JLPTLord N2 1294 | [病原](entries/1490/1490270-byougen.org) | びょうげん | 1490270 | new / draft |
+| JLPTLord N2 1295 | [衛生](entries/1174/1174790-eisei.org) | えいせい | 1174790 | new / draft |
+| JLPTLord N2 1298 | [接種](entries/1385/1385420-sesshu.org) | せっしゅ | 1385420 | new / draft |
+| JLPTLord N2 1299 | [健康診断](entries/1256/1256210-kenkoushindan.org) | けんこうしんだん | 1256210 | new / draft |
+| JLPTLord N2 1300 | [応急処置](entries/1973/1973820-oukyuushochi.org) | おうきゅうしょち | 1973820 | new / draft |
+| JLPTLord N2 1301 | [生態](entries/1379/1379280-seitai.org) | せいたい | 1379280 | new / draft |
+| JLPTLord N2 1304 | [微生物](entries/1486/1486090-biseibutsu.org) | びせいぶつ | 1486090 | new / draft |
+| JLPTLord N2 1305 | [哺乳類](entries/1565/1565260-honyuurui.org) | ほにゅうるい | 1565260 | new / draft |
+| JLPTLord N2 1306 | [爬虫類](entries/1569/1569220-hachuurui.org) | はちゅうるい | 1569220 | new / draft |
+| JLPTLord N2 1307 | [両生類](entries/1644/1644940-ryouseirui.org) | りょうせいるい | 1644940 | new / draft |
+| JLPTLord N2 1308 | [昆虫](entries/1289/1289980-konchuu.org) | こんちゅう | 1289980 | new / draft |
+| JLPTLord N2 1309 | [幼虫](entries/1545/1545270-youchuu.org) | ようちゅう | 1545270 | new / draft |
+| JLPTLord N2 1313 | [草原](entries/1401/1401970-sougen.org) | そうげん | 1401970 | new / draft |
+| JLPTLord N2 1314 | [湿地](entries/1320/1320470-shitchi.org) | しっち | 1320470 | new / draft |
+| JLPTLord N2 1316 | [湖沼](entries/1267/1267290-koshou.org) | こしょう | 1267290 | new / draft |
+| JLPTLord N2 1319 | [地殻](entries/1420/1420940-chikaku.org) | ちかく | 1420940 | new / draft |
+| JLPTLord N2 1320 | [土壌](entries/1445/1445380-dojou.org) | どじょう | 1445380 | new / draft |
+| JLPTLord N2 1321 | [岩石](entries/1217/1217360-ganseki.org) | がんせき | 1217360 | new / draft |
+| JLPTLord N2 1322 | [結晶](entries/1254/1254870-kesshou.org) | けっしょう | 1254870 | new / draft |
+| JLPTLord N2 1323 | [合金](entries/1284/1284730-goukin.org) | ごうきん | 1284730 | new / draft |
+| JLPTLord N2 1324 | [鋼鉄](entries/1282/1282740-koutetsu.org) | こうてつ | 1282740 | new / draft |
+| JLPTLord N2 1326 | [鉛](entries/1178/1178500-namari.org) | なまり | 1178500 | new / draft |
+| JLPTLord N2 1327 | [亜鉛](entries/1149/1149590-aen.org) | あえん | 1149590 | new / draft |
+| JLPTLord N2 1329 | [塗料](entries/1444/1444340-toryou.org) | とりょう | 1444340 | new / draft |
+| JLPTLord N2 1330 | [接着剤](entries/1385/1385580-setchakuzai.org) | せっちゃくざい | 1385580 | new / draft |
+| JLPTLord N2 1331 | [潤滑油](entries/1341/1341830-junkatsuyu.org) | じゅんかつゆ | 1341830 | new / draft |
+| JLPTLord N2 1332 | [溶剤](entries/1546/1546140-youzai.org) | ようざい | 1546140 | new / draft |
+| JLPTLord N2 1336 | [機器](entries/1220/1220900-kiki.org) | きき | 1220900 | new / draft |
+| JLPTLord N2 1339 | [回路](entries/1199/1199830-kairo.org) | かいろ | 1199830 | new / draft |
+| JLPTLord N2 1341 | [蓄電池](entries/1422/1422460-chikudenchi.org) | ちくでんち | 1422460 | new / draft |
+| JLPTLord N2 1342 | [充電](entries/1334/1334390-juuden.org) | じゅうでん | 1334390 | new / draft |
+| JLPTLord N2 1343 | [放電](entries/1516/1516800-houden.org) | ほうでん | 1516800 | new / draft |
+| JLPTLord N2 1344 | [電圧](entries/1442/1442850-denatsu.org) | でんあつ | 1442850 | new / draft |
+| JLPTLord N2 1346 | [周波数](entries/1331/1331260-shuuhasuu.org) | しゅうはすう | 1331260 | new / draft |
+| JLPTLord N2 1348 | [振動](entries/1361/1361420-shindou.org) | しんどう | 1361420 | new / draft |
+| JLPTLord N2 1352 | [圧力](entries/1153/1153340-atsuryoku.org) | あつりょく | 1153340 | new / draft |
+| JLPTLord N2 1354 | [密度](entries/1528/1528320-mitsudo.org) | みつど | 1528320 | new / draft |
+| JLPTLord N2 1360 | [断面](entries/1419/1419810-danmen.org) | だんめん | 1419810 | new / draft |
+| JLPTLord N2 1362 | [精度](entries/1380/1380110-seido.org) | せいど | 1380110 | new / draft |
+| JLPTLord N2 1363 | [誤差](entries/1271/1271320-gosa.org) | ごさ | 1271320 | new / draft |
+| JLPTLord N2 1365 | [比率](entries/1483/1483680-hiritsu.org) | ひりつ | 1483680 | new / draft |
+| JLPTLord N2 1368 | [棒グラフ](entries/1519/1519760-bougurafu.org) | ぼうグラフ | 1519760 | new / draft |
+| JLPTLord N2 1369 | [円グラフ](entries/1175/1175610-engurafu.org) | えんグラフ | 1175610 | new / draft |
+| JLPTLord N2 1370 | [折れ線グラフ](entries/2076/2076410-oresengurafu.org) | おれせんグラフ | 2076410 | new / draft |
+| JLPTLord N2 1372 | [鉄骨](entries/1437/1437890-tekkotsu.org) | てっこつ | 1437890 | new / draft |
+| JLPTLord N2 1373 | [鉄筋](entries/1437/1437830-tekkin.org) | てっきん | 1437830 | new / draft |
+| JLPTLord N2 1375 | [合板](entries/1578/1578960-gouhan.org) | ごうはん | 1578960 | new / draft |
+| JLPTLord N2 1379 | [柵](entries/1298/1298250-saku.org) | さく | 1298250 | new / draft |
+| JLPTLord N2 1380 | [溝](entries/1578/1578720-mizo.org) | みぞ | 1578720 | new / draft |
+| JLPTLord N2 1381 | [堤防](entries/1435/1435350-teibou.org) | ていぼう | 1435350 | new / draft |
+| JLPTLord N2 1382 | [舗装](entries/1514/1514070-hosou.org) | ほそう | 1514070 | new / draft |
+| JLPTLord N2 1385 | [空調](entries/1245/1245860-kuuchou.org) | くうちょう | 1245860 | new / draft |
+| JLPTLord N2 1387 | [断熱](entries/1705/1705010-dannetsu.org) | だんねつ | 1705010 | new / draft |
+| JLPTLord N2 1389 | [防音](entries/1520/1520240-bouon.org) | ぼうおん | 1520240 | new / draft |
+| JLPTLord N2 1390 | [耐震](entries/1410/1410370-taishin.org) | たいしん | 1410370 | new / draft |
+| JLPTLord N2 1393 | [救急](entries/1229/1229080-kyuukyuu.org) | きゅうきゅう | 1229080 | new / draft |
+| JLPTLord N2 1400 | [備品](entries/1485/1485730-bihin.org) | びひん | 1485730 | new / draft |
+| JLPTLord N2 1401 | [什器](entries/1333/1333880-juuki.org) | じゅうき | 1333880 | new / draft |
+| JLPTLord N2 1402 | [食材](entries/1983/1983500-shokuzai.org) | しょくざい | 1983500 | new / draft |
+| JLPTLord N2 1404 | [添加物](entries/1440/1440840-tenkabutsu.org) | てんかぶつ | 1440840 | new / draft |
+| JLPTLord N2 1405 | [保存料](entries/1946/1946720-hozonryou.org) | ほぞんりょう | 1946720 | new / draft |
+| JLPTLord N2 1408 | [水産物](entries/1371/1371520-suisanbutsu.org) | すいさんぶつ | 1371520 | new / draft |
+| JLPTLord N2 1409 | [畜産](entries/1422/1422180-chikusan.org) | ちくさん | 1422180 | new / draft |
+| JLPTLord N2 1410 | [酪農](entries/1548/1548890-rakunou.org) | らくのう | 1548890 | new / draft |
+| JLPTLord N2 1411 | [肥料](entries/1484/1484310-hiryou.org) | ひりょう | 1484310 | new / draft |
+| JLPTLord N2 1414 | [耕作](entries/1280/1280970-kousaku.org) | こうさく | 1280970 | new / draft |
+| JLPTLord N2 1415 | [灌漑](entries/1213/1213270-kangai.org) | かんがい | 1213270 | new / draft |
+| JLPTLord N2 1416 | [家畜](entries/1192/1192240-kachiku.org) | かちく | 1192240 | new / draft |
+| JLPTLord N2 1417 | [飼育](entries/1312/1312980-shiiku.org) | しいく | 1312980 | new / draft |
+| JLPTLord N2 1418 | [繁殖](entries/1481/1481700-hanshoku.org) | はんしょく | 1481700 | new / draft |
+| JLPTLord N2 1419 | [交配](entries/1272/1272490-kouhai.org) | こうはい | 1272490 | new / draft |
+| JLPTLord N2 1420 | [品種](entries/1490/1490620-hinshu.org) | ひんしゅ | 1490620 | new / draft |
+| JLPTLord N2 1423 | [凝縮](entries/1239/1239190-gyoushuku.org) | ぎょうしゅく | 1239190 | new / draft |
+| JLPTLord N2 1424 | [融解](entries/1542/1542580-yuukai.org) | ゆうかい | 1542580 | new / draft |
+| JLPTLord N2 1425 | [凍結](entries/1446/1446300-touketsu.org) | とうけつ | 1446300 | new / draft |
+| JLPTLord N2 1426 | [沸騰](entries/1501/1501720-futtou.org) | ふっとう | 1501720 | new / draft |
+| JLPTLord N2 1427 | [腐敗](entries/1497/1497870-fuhai.org) | ふはい | 1497870 | new / draft |
+| JLPTLord N2 1428 | [腐食](entries/1497/1497840-fushoku.org) | ふしょく | 1497840 | new / draft |
+| JLPTLord N2 1429 | [酸化](entries/1304/1304290-sanka.org) | さんか | 1304290 | new / draft |
+| JLPTLord N2 1430 | [還元](entries/1215/1215130-kangen.org) | かんげん | 1215130 | new / draft |
+| JLPTLord N2 1431 | [化合](entries/1186/1186980-kagou.org) | かごう | 1186980 | new / draft |
+| JLPTLord N2 1433 | [合成](entries/1284/1284940-gousei.org) | ごうせい | 1284940 | new / draft |
+| JLPTLord N2 1435 | [蒸留](entries/1356/1356970-jouryuu.org) | じょうりゅう | 1356970 | new / draft |
+| JLPTLord N2 1436 | [濾過](entries/1568/1568860-roka.org) | ろか | 1568860 | new / draft |
+| JLPTLord N2 1437 | [沈殿](entries/1431/1431790-chinden.org) | ちんでん | 1431790 | new / draft |
+| JLPTLord N2 1438 | [溶液](entries/1546/1546100-youeki.org) | ようえき | 1546100 | new / draft |
+| JLPTLord N2 1441 | [塩基性](entries/1790/1790500-enkisei.org) | えんきせい | 1790500 | new / draft |
+| JLPTLord N2 1442 | [触媒](entries/1358/1358060-shokubai.org) | しょくばい | 1358060 | new / draft |
+| JLPTLord N2 1443 | [電解](entries/1442/1442920-denkai.org) | でんかい | 1442920 | new / draft |
+| JLPTLord N2 1444 | [磁気](entries/1316/1316990-jiki.org) | じき | 1316990 | new / draft |
+| JLPTLord N2 1447 | [反射](entries/1480/1480420-hansha.org) | はんしゃ | 1480420 | new / draft |
+| JLPTLord N2 1448 | [屈折](entries/1246/1246620-kussetsu.org) | くっせつ | 1246620 | new / draft |
+| JLPTLord N2 1449 | [拡散](entries/1205/1205180-kakusan.org) | かくさん | 1205180 | new / draft |
+| JLPTLord N2 1450 | [吸着](entries/1228/1228360-kyuuchaku.org) | きゅうちゃく | 1228360 | new / draft |
+| JLPTLord N2 1451 | [透過](entries/1450/1450540-touka.org) | とうか | 1450540 | new / draft |
+| JLPTLord N2 1452 | [遮蔽](entries/1323/1323340-shahei.org) | しゃへい | 1323340 | new / draft |
+| JLPTLord N2 1453 | [計測](entries/1252/1252230-keisoku.org) | けいそく | 1252230 | new / draft |
+| JLPTLord N2 1456 | [模型](entries/1533/1533650-mokei.org) | もけい | 1533650 | new / draft |
+| JLPTLord N2 1457 | [試作](entries/1312/1312430-shisaku.org) | しさく | 1312430 | new / draft |
+| JLPTLord N2 1459 | [納品](entries/1470/1470100-nouhin.org) | のうひん | 1470100 | new / draft |
+| JLPTLord N2 1460 | [検品](entries/1814/1814610-kenpin.org) | けんぴん | 1814610 | new / draft |
+| JLPTLord N2 1462 | [梱包](entries/1290/1290300-konpou.org) | こんぽう | 1290300 | new / draft |
+| JLPTLord N2 1463 | [積載](entries/1383/1383040-sekisai.org) | せきさい | 1383040 | new / draft |
+| JLPTLord N2 1464 | [配送](entries/1473/1473120-haisou.org) | はいそう | 1473120 | new / draft |
+| JLPTLord N2 1469 | [廃材](entries/1472/1472090-haizai.org) | はいざい | 1472090 | new / draft |
+| JLPTLord N2 1470 | [残骸](entries/1304/1304520-zangai.org) | ざんがい | 1304520 | new / draft |
+| JLPTLord N2 1473 | [粉末](entries/1504/1504880-funmatsu.org) | ふんまつ | 1504880 | new / draft |
+| JLPTLord N2 1479 | [露](entries/1560/1560070-tsuyu.org) | つゆ | 1560070 | new / draft |
+| JLPTLord N2 1481 | [雹](entries/1574/1574070-hyou.org) | ひょう | 1574070 | new / draft |
+| JLPTLord N2 1483 | [豪雨](entries/1285/1285490-gouu.org) | ごうう | 1285490 | new / draft |
+| JLPTLord N2 1485 | [稲妻](entries/1167/1167860-inazuma.org) | いなずま | 1167860 | new / draft |
+| JLPTLord N2 1486 | [竜巻](entries/1597/1597060-tatsumaki.org) | たつまき | 1597060 | new / draft |
+| JLPTLord N2 1487 | [余震](entries/1544/1544290-yoshin.org) | よしん | 1544290 | new / draft |
+| JLPTLord N2 1488 | [震源](entries/1366/1366350-shingen.org) | しんげん | 1366350 | new / draft |
+| JLPTLord N2 1489 | [震度](entries/1366/1366380-shindo.org) | しんど | 1366380 | new / draft |
+| JLPTLord N2 1490 | [堆積](entries/1409/1409780-taiseki.org) | たいせき | 1409780 | new / draft |
+| JLPTLord N2 1491 | [侵食](entries/1359/1359840-shinshoku.org) | しんしょく | 1359840 | new / draft |
+| JLPTLord N2 1492 | [崩落](entries/1627/1627430-houraku.org) | ほうらく | 1627430 | new / draft |
+| JLPTLord N2 1493 | [地滑り](entries/1420/1420960-jisuberi.org) | じすべり | 1420960 | new / draft |
+| JLPTLord N2 1494 | [土砂崩れ](entries/1445/1445350-doshakuzure.org) | どしゃくずれ | 1445350 | new / draft |
+| JLPTLord N2 1495 | [液状化](entries/1918/1918140-ekijouka.org) | えきじょうか | 1918140 | new / draft |
+| JLPTLord N2 1496 | [防潮堤](entries/1621/1621930-bouchoutei.org) | ぼうちょうてい | 1621930 | new / draft |
+| JLPTLord N2 1497 | [貯水池](entries/1427/1427210-chosuichi.org) | ちょすいち | 1427210 | new / draft |
+| JLPTLord N2 1498 | [浄水場](entries/1356/1356660-jousuijou.org) | じょうすいじょう | 1356660 | new / draft |
+| JLPTLord N2 1499 | [下水道](entries/1185/1185540-gesuidou.org) | げすいどう | 1185540 | new / draft |
+| JLPTLord N2 1500 | [上水道](entries/1353/1353570-jousuidou.org) | じょうすいどう | 1353570 | new / draft |
+| JLPTLord N2 1508 | [陶芸](entries/1450/1450620-tougei.org) | とうげい | 1450620 | new / draft |
+| JLPTLord N2 1513 | [伝説](entries/1442/1442100-densetsu.org) | でんせつ | 1442100 | new / draft |
+| JLPTLord N2 1515 | [民話](entries/1529/1529310-minwa.org) | みんわ | 1529310 | new / draft |
+| JLPTLord N2 1522 | [神道](entries/1364/1364790-shintou.org) | しんとう | 1364790 | new / draft |
+| JLPTLord N2 1523 | [祈り](entries/1222/1222760-inori.org) | いのり | 1222760 | new / draft |
+| JLPTLord N2 1524 | [信者](entries/1359/1359340-shinja.org) | しんじゃ | 1359340 | new / draft |
+
+### Final 2500-word audit
+
+The branch contains **2500 new translated entries** relative to `origin/main`.
+At baseline `6e08ae44`, the worktree still contained the completed 2300-word
+milestone; no further words had been added by another agent. This continuation
+added **200 distinct N2 study-list candidates in 20 batches of ten**, with
+**200 individual word commits**, **259 English senses with original Ukrainian
+glosses and nuance notes**, and **600 graded Japanese/kana/Ukrainian/English
+examples**.
+
+All 200 candidates come from unused JLPTLord rows reconciled against pinned
+JMdict and existing entry IDs. The source manifest now records 732 candidates
+across the relevant continuations. N2 is the study site's classification,
+not an official JLPT vocabulary syllabus. Source definitions and examples
+were not copied.
+
+JMdict validation and Org lint passed for all 200 additions. Doctor reported
+**100/100**, **zero errors**, and **zero warnings**. The full suite passed
+**137 tests and 20243 assertions**, with zero failures, errors, or skips.
+The audit verified the exact branch total, unique IDs, source sense inventories
+and fingerprints, Ukrainian coverage of every English sense, three complete
+primary-sense examples per word, source-manifest matches, and one entry per
+addition commit. A subsequent validated editorial commit clarified the sprain
+gloss for 捻挫 and the spelling restriction on the metallurgy sense of 溶剤;
+these corrections add no words.
+
+Earlier tracked entries remain unchanged. The original untracked 罪 draft and
+candidate-finder script retain their original contents. New entries remain
+learner entries marked `new` / `draft`, pending editorial review.
+
+## Final 2700-word branch N2 continuation (2026-10-04)
+
+Baseline: `06b11efc`, with **2500** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **2700**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 1525 | [僧侶](entries/1398/1398240-souryo.org) | そうりょ | 1398240 | new / draft |
+| JLPTLord N2 1527 | [経典](entries/1251/1251620-kyouten.org) | きょうてん | 1251620 | new / draft |
+| JLPTLord N2 1532 | [価値観](entries/1189/1189610-kachikan.org) | かちかん | 1189610 | new / draft |
+| JLPTLord N2 1533 | [美術](entries/1486/1486440-bijutsu.org) | びじゅつ | 1486440 | new / draft |
+| JLPTLord N2 1536 | [華道](entries/1590/1590510-kadou.org) | かどう | 1590510 | new / draft |
+| JLPTLord N2 1537 | [茶道](entries/1422/1422770-sadou.org) | さどう | 1422770 | new / draft |
+| JLPTLord N2 1540 | [剣道](entries/1256/1256910-kendou.org) | けんどう | 1256910 | new / draft |
+| JLPTLord N2 1541 | [弓道](entries/1228/1228540-kyuudou.org) | きゅうどう | 1228540 | new / draft |
+| JLPTLord N2 1543 | [短歌](entries/1418/1418630-tanka.org) | たんか | 1418630 | new / draft |
+| JLPTLord N2 1546 | [戯曲](entries/1225/1225010-gikyoku.org) | ぎきょく | 1225010 | new / draft |
+| JLPTLord N2 1547 | [脚本](entries/1226/1226880-kyakuhon.org) | きゃくほん | 1226880 | new / draft |
+| JLPTLord N2 1549 | [作詞](entries/1297/1297680-sakushi.org) | さくし | 1297680 | new / draft |
+| JLPTLord N2 1551 | [合唱](entries/1284/1284870-gasshou.org) | がっしょう | 1284870 | new / draft |
+| JLPTLord N2 1553 | [交響曲](entries/1271/1271930-koukyoukyoku.org) | こうきょうきょく | 1271930 | new / draft |
+| JLPTLord N2 1554 | [楽譜](entries/1207/1207490-gakufu.org) | がくふ | 1207490 | new / draft |
+| JLPTLord N2 1555 | [旋律](entries/1391/1391730-senritsu.org) | せんりつ | 1391730 | new / draft |
+| JLPTLord N2 1556 | [拍子](entries/1583/1583030-hyoushi.org) | ひょうし | 1583030 | new / draft |
+| JLPTLord N2 1557 | [音色](entries/1576/1576910-neiro.org) | ねいろ | 1576910 | new / draft |
+| JLPTLord N2 1566 | [文化財](entries/1505/1505150-bunkazai.org) | ぶんかざい | 1505150 | new / draft |
+| JLPTLord N2 1567 | [遺産](entries/1159/1159260-isan.org) | いさん | 1159260 | new / draft |
+| JLPTLord N2 1568 | [遺跡](entries/1159/1159380-iseki.org) | いせき | 1159380 | new / draft |
+| JLPTLord N2 1570 | [城跡](entries/1647/1647170-shiroato.org) | しろあと | 1647170 | new / draft |
+| JLPTLord N2 1571 | [国宝](entries/1287/1287020-kokuhou.org) | こくほう | 1287020 | new / draft |
+| JLPTLord N2 1575 | [厳粛](entries/1262/1262670-genshuku.org) | げんしゅく | 1262670 | new / draft |
+| JLPTLord N2 1576 | [荘厳](entries/1402/1402110-sougon.org) | そうごん | 1402110 | new / draft |
+| JLPTLord N2 1577 | [崇拝](entries/1372/1372870-suuhai.org) | すうはい | 1372870 | new / draft |
+| JLPTLord N2 1578 | [奉納](entries/1516/1516090-hounou.org) | ほうのう | 1516090 | new / draft |
+| JLPTLord N2 1580 | [供養](entries/1233/1233910-kuyou.org) | くよう | 1233910 | new / draft |
+| JLPTLord N2 1582 | [法事](entries/1805/1805140-houji.org) | ほうじ | 1805140 | new / draft |
+| JLPTLord N2 1584 | [仏壇](entries/1502/1502200-butsudan.org) | ぶつだん | 1502200 | new / draft |
+| JLPTLord N2 1585 | [位牌](entries/1155/1155590-ihai.org) | いはい | 1155590 | new / draft |
+| JLPTLord N2 1586 | [遺言](entries/1159/1159130-yuigon.org) | ゆいごん | 1159130 | new / draft |
+| JLPTLord N2 1587 | [喪](entries/1399/1399250-mo.org) | も | 1399250 | new / draft |
+| JLPTLord N2 1588 | [弔い](entries/1581/1581750-tomurai.org) | とむらい | 1581750 | new / draft |
+| JLPTLord N2 1590 | [披露宴](entries/1483/1483500-hirouen.org) | ひろうえん | 1483500 | new / draft |
+| JLPTLord N2 1591 | [結納](entries/1254/1254970-yuinou.org) | ゆいのう | 1254970 | new / draft |
+| JLPTLord N2 1593 | [成人式](entries/1764/1764080-seijinshiki.org) | せいじんしき | 1764080 | new / draft |
+| JLPTLord N2 1594 | [七五三](entries/1319/1319310-shichigosan.org) | しちごさん | 1319310 | new / draft |
+| JLPTLord N2 1597 | [節分](entries/1386/1386340-setsubun.org) | せつぶん | 1386340 | new / draft |
+| JLPTLord N2 1598 | [彼岸](entries/1483/1483100-higan.org) | ひがん | 1483100 | new / draft |
+| JLPTLord N2 1599 | [縁起](entries/1177/1177540-engi.org) | えんぎ | 1177540 | new / draft |
+| JLPTLord N2 1602 | [風水](entries/1499/1499920-fuusui.org) | ふうすい | 1499920 | new / draft |
+| JLPTLord N2 1605 | [袴](entries/1267/1267440-hakama.org) | はかま | 1267440 | new / draft |
+| JLPTLord N2 1608 | [屏風](entries/1566/1566400-byoubu.org) | びょうぶ | 1566400 | new / draft |
+| JLPTLord N2 1609 | [掛け軸](entries/1590/1590090-kakejiku.org) | かけじく | 1590090 | new / draft |
+| JLPTLord N2 1614 | [蔵](entries/1592/1592380-kura.org) | くら | 1592380 | new / draft |
+| JLPTLord N2 1616 | [漆](entries/1320/1320520-urushi.org) | うるし | 1320520 | new / draft |
+| JLPTLord N2 1618 | [織物](entries/1357/1357450-orimono.org) | おりもの | 1357450 | new / draft |
+| JLPTLord N2 1619 | [刺繍](entries/1306/1306540-shishuu.org) | ししゅう | 1306540 | new / draft |
+| JLPTLord N2 1620 | [陶磁器](entries/1450/1450660-toujiki.org) | とうじき | 1450660 | new / draft |
+| JLPTLord N2 1621 | [漆器](entries/1320/1320530-shikki.org) | しっき | 1320530 | new / draft |
+| JLPTLord N2 1622 | [民芸](entries/1528/1528680-mingei.org) | みんげい | 1528680 | new / draft |
+| JLPTLord N2 1623 | [骨董](entries/1288/1288700-kottou.org) | こっとう | 1288700 | new / draft |
+| JLPTLord N2 1627 | [展示](entries/1440/1440610-tenji.org) | てんじ | 1440610 | new / draft |
+| JLPTLord N2 1634 | [歌舞伎](entries/1193/1193420-kabuki.org) | かぶき | 1193420 | new / draft |
+| JLPTLord N2 1635 | [狂言](entries/1237/1237570-kyougen.org) | きょうげん | 1237570 | new / draft |
+| JLPTLord N2 1636 | [落語](entries/1548/1548720-rakugo.org) | らくご | 1548720 | new / draft |
+| JLPTLord N2 1637 | [浮世絵](entries/1497/1497520-ukiyoe.org) | うきよえ | 1497520 | new / draft |
+| JLPTLord N2 1638 | [水墨画](entries/1372/1372080-suibokuga.org) | すいぼくが | 1372080 | new / draft |
+| JLPTLord N2 1639 | [日本画](entries/1464/1464460-nihonga.org) | にほんが | 1464460 | new / draft |
+| JLPTLord N2 1640 | [彫像](entries/1428/1428090-chouzou.org) | ちょうぞう | 1428090 | new / draft |
+| JLPTLord N2 1641 | [仏像](entries/1502/1502190-butsuzou.org) | ぶつぞう | 1502190 | new / draft |
+| JLPTLord N2 1642 | [銅像](entries/1454/1454380-douzou.org) | どうぞう | 1454380 | new / draft |
+| JLPTLord N2 1643 | [肖像](entries/1351/1351460-shouzou.org) | しょうぞう | 1351460 | new / draft |
+| JLPTLord N2 1645 | [風情](entries/1499/1499900-fuzei.org) | ふぜい | 1499900 | new / draft |
+| JLPTLord N2 1647 | [粋](entries/1372/1372410-iki.org) | いき | 1372410 | new / draft |
+| JLPTLord N2 1648 | [雅](entries/2056/2056470-miyabi.org) | みやび | 2056470 | new / draft |
+| JLPTLord N2 1649 | [侘び](entries/1606/1606760-wabi.org) | わび | 1606760 | new / draft |
+| JLPTLord N2 1651 | [礼儀](entries/1557/1557470-reigi.org) | れいぎ | 1557470 | new / draft |
+| JLPTLord N2 1653 | [礼節](entries/1557/1557540-reisetsu.org) | れいせつ | 1557540 | new / draft |
+| JLPTLord N2 1654 | [格式](entries/1205/1205400-kakushiki.org) | かくしき | 1205400 | new / draft |
+| JLPTLord N2 1655 | [流派](entries/1552/1552520-ryuuha.org) | りゅうは | 1552520 | new / draft |
+| JLPTLord N2 1656 | [門下](entries/1724/1724650-monka.org) | もんか | 1724650 | new / draft |
+| JLPTLord N2 1657 | [師匠](entries/1308/1308900-shishou.org) | ししょう | 1308900 | new / draft |
+| JLPTLord N2 1660 | [修行](entries/2650/2650010-shugyou.org) | しゅぎょう | 2650010 | new / draft |
+| JLPTLord N2 1661 | [悟り](entries/1270/1270840-satori.org) | さとり | 1270840 | new / draft |
+| JLPTLord N2 1662 | [瞑想](entries/1569/1569910-meisou.org) | めいそう | 1569910 | new / draft |
+| JLPTLord N2 1663 | [座禅](entries/1291/1291910-zazen.org) | ざぜん | 1291910 | new / draft |
+| JLPTLord N2 1664 | [精進](entries/1380/1380040-shoujin.org) | しょうじん | 1380040 | new / draft |
+| JLPTLord N2 1665 | [功徳](entries/1275/1275080-kudoku.org) | くどく | 1275080 | new / draft |
+| JLPTLord N2 1666 | [慈悲](entries/1315/1315440-jihi.org) | じひ | 1315440 | new / draft |
+| JLPTLord N2 1667 | [輪廻](entries/1555/1555730-rinne.org) | りんね | 1555730 | new / draft |
+| JLPTLord N2 1668 | [極楽](entries/1240/1240250-gokuraku.org) | ごくらく | 1240250 | new / draft |
+| JLPTLord N2 1669 | [地獄](entries/1421/1421090-jigoku.org) | じごく | 1421090 | new / draft |
+| JLPTLord N2 1670 | [霊](entries/1557/1557730-rei.org) | れい | 1557730 | new / draft |
+| JLPTLord N2 1671 | [魂](entries/1579/1579170-tamashii.org) | たましい | 1579170 | new / draft |
+| JLPTLord N2 1672 | [御守り](entries/1002/1002060-omamori.org) | おまもり | 1002060 | new / draft |
+| JLPTLord N2 1673 | [御札](entries/1693/1693960-ofuda.org) | おふだ | 1693960 | new / draft |
+| JLPTLord N2 1674 | [鳥居](entries/1430/1430280-torii.org) | とりい | 1430280 | new / draft |
+| JLPTLord N2 1675 | [狛犬](entries/1288/1288760-komainu.org) | こまいぬ | 1288760 | new / draft |
+| JLPTLord N2 1676 | [賽銭](entries/1573/1573140-saisen.org) | さいせん | 1573140 | new / draft |
+| JLPTLord N2 1677 | [注連縄](entries/1594/1594630-shimenawa.org) | しめなわ | 1594630 | new / draft |
+| JLPTLord N2 1678 | [神輿](entries/1270/1270710-mikoshi.org) | みこし | 1270710 | new / draft |
+| JLPTLord N2 1679 | [山車](entries/1302/1302910-dashi.org) | だし | 1302910 | new / draft |
+| JLPTLord N2 1681 | [三味線](entries/1579/1579450-shamisen.org) | しゃみせん | 1579450 | new / draft |
+| JLPTLord N2 1683 | [尺八](entries/1324/1324140-shakuhachi.org) | しゃくはち | 1324140 | new / draft |
+| JLPTLord N2 1684 | [雅楽](entries/1197/1197870-gagaku.org) | ががく | 1197870 | new / draft |
+| JLPTLord N2 1686 | [囲碁](entries/1155/1155990-igo.org) | いご | 1155990 | new / draft |
+| JLPTLord N2 1689 | [空手](entries/1245/1245620-karate.org) | からて | 1245620 | new / draft |
+| JLPTLord N2 1690 | [合気道](entries/1586/1586050-aikidou.org) | あいきどう | 1586050 | new / draft |
+| JLPTLord N2 1692 | [盆栽](entries/1523/1523730-bonsai.org) | ぼんさい | 1523730 | new / draft |
+| JLPTLord N2 1693 | [和歌](entries/1562/1562000-waka.org) | わか | 1562000 | new / draft |
+| JLPTLord N2 1694 | [連歌](entries/1559/1559370-renga.org) | れんが | 1559370 | new / draft |
+| JLPTLord N2 1695 | [俳諧](entries/1471/1471990-haikai.org) | はいかい | 1471990 | new / draft |
+| JLPTLord N2 1696 | [源氏物語](entries/1263/1263370-genjimonogatari.org) | げんじものがたり | 1263370 | new / draft |
+| JLPTLord N2 1697 | [万葉集](entries/1526/1526550-manyoushuu.org) | まんようしゅう | 1526550 | new / draft |
+| JLPTLord N2 1698 | [枯山水](entries/1685/1685280-karesansui.org) | かれさんすい | 1685280 | new / draft |
+| JLPTLord N2 1699 | [庭園](entries/1436/1436140-teien.org) | ていえん | 1436140 | new / draft |
+| JLPTLord N2 1700 | [石庭](entries/1382/1382730-sekitei.org) | せきてい | 1382730 | new / draft |
+| JLPTLord N2 1701 | [築山](entries/1422/1422150-tsukiyama.org) | つきやま | 1422150 | new / draft |
+| JLPTLord N2 1702 | [回廊](entries/1199/1199860-kairou.org) | かいろう | 1199860 | new / draft |
+| JLPTLord N2 1703 | [天守閣](entries/1439/1439320-tenshukaku.org) | てんしゅかく | 1439320 | new / draft |
+| JLPTLord N2 1704 | [五重塔](entries/1593/1593560-gojuunotou.org) | ごじゅうのとう | 1593560 | new / draft |
+| JLPTLord N2 1705 | [山門](entries/1755/1755280-sanmon.org) | さんもん | 1755280 | new / draft |
+| JLPTLord N2 1706 | [鐘楼](entries/1352/1352040-shourou.org) | しょうろう | 1352040 | new / draft |
+| JLPTLord N2 1707 | [本堂](entries/1523/1523070-hondou.org) | ほんどう | 1523070 | new / draft |
+| JLPTLord N2 1708 | [拝殿](entries/1625/1625530-haiden.org) | はいでん | 1625530 | new / draft |
+| JLPTLord N2 1709 | [御朱印](entries/1694/1694100-goshuin.org) | ごしゅいん | 1694100 | new / draft |
+| JLPTLord N2 1710 | [巡礼](entries/1342/1342150-junrei.org) | じゅんれい | 1342150 | new / draft |
+| JLPTLord N2 1711 | [霊場](entries/1758/1758710-reijou.org) | れいじょう | 1758710 | new / draft |
+| JLPTLord N2 1712 | [聖地](entries/1800/1800710-seichi.org) | せいち | 1800710 | new / draft |
+| JLPTLord N2 1713 | [古墳](entries/1266/1266100-kofun.org) | こふん | 1266100 | new / draft |
+| JLPTLord N2 1714 | [石碑](entries/1382/1382780-sekihi.org) | せきひ | 1382780 | new / draft |
+| JLPTLord N2 1715 | [祠](entries/1581/1581260-hokora.org) | ほこら | 1581260 | new / draft |
+| JLPTLord N2 1716 | [社殿](entries/1654/1654130-shaden.org) | しゃでん | 1654130 | new / draft |
+| JLPTLord N2 1717 | [御神体](entries/1951/1951380-goshintai.org) | ごしんたい | 1951380 | new / draft |
+| JLPTLord N2 1718 | [祝詞](entries/1337/1337450-norito.org) | のりと | 1337450 | new / draft |
+| JLPTLord N2 1719 | [読経](entries/1456/1456390-dokyou.org) | どきょう | 1456390 | new / draft |
+| JLPTLord N2 1720 | [写経](entries/1646/1646390-shakyou.org) | しゃきょう | 1646390 | new / draft |
+| JLPTLord N2 1721 | [托鉢](entries/1415/1415800-takuhatsu.org) | たくはつ | 1415800 | new / draft |
+| JLPTLord N2 1722 | [精進料理](entries/1751/1751330-shoujinryouri.org) | しょうじんりょうり | 1751330 | new / draft |
+| JLPTLord N2 1723 | [神楽](entries/1364/1364480-kagura.org) | かぐら | 1364480 | new / draft |
+| JLPTLord N2 1725 | [灯籠](entries/2103/2103940-tourou.org) | とうろう | 2103940 | new / draft |
+| JLPTLord N2 1726 | [線香](entries/1391/1391840-senkou.org) | せんこう | 1391840 | new / draft |
+| JLPTLord N2 1727 | [数珠](entries/1373/1373080-juzu.org) | じゅず | 1373080 | new / draft |
+| JLPTLord N2 1728 | [木魚](entries/1807/1807430-mokugyo.org) | もくぎょ | 1807430 | new / draft |
+| JLPTLord N2 1729 | [梵鐘](entries/1568/1568190-bonshou.org) | ぼんしょう | 1568190 | new / draft |
+| JLPTLord N2 1730 | [念仏](entries/1469/1469470-nenbutsu.org) | ねんぶつ | 1469470 | new / draft |
+| JLPTLord N2 1731 | [法要](entries/1627/1627580-houyou.org) | ほうよう | 1627580 | new / draft |
+| JLPTLord N2 1732 | [戒名](entries/1200/1200690-kaimyou.org) | かいみょう | 1200690 | new / draft |
+| JLPTLord N2 1733 | [香典](entries/1283/1283090-kouden.org) | こうでん | 1283090 | new / draft |
+| JLPTLord N2 1734 | [焼香](entries/1619/1619180-shoukou.org) | しょうこう | 1619180 | new / draft |
+| JLPTLord N2 1735 | [手水](entries/1649/1649630-chouzu.org) | ちょうず | 1649630 | new / draft |
+| JLPTLord N2 1736 | [大祭](entries/1413/1413770-taisai.org) | たいさい | 1413770 | new / draft |
+| JLPTLord N2 1737 | [例祭](entries/1556/1556490-reisai.org) | れいさい | 1556490 | new / draft |
+| JLPTLord N2 1738 | [奉献](entries/1515/1515860-houken.org) | ほうけん | 1515860 | new / draft |
+| JLPTLord N2 1739 | [氏子](entries/1311/1311020-ujiko.org) | うじこ | 1311020 | new / draft |
+| JLPTLord N2 1740 | [檀家](entries/1788/1788160-danka.org) | だんか | 1788160 | new / draft |
+| JLPTLord N2 1741 | [宮司](entries/1228/1228420-guuji.org) | ぐうじ | 1228420 | new / draft |
+| JLPTLord N2 1742 | [巫女](entries/1604/1604450-miko.org) | みこ | 1604450 | new / draft |
+| JLPTLord N2 1743 | [住職](entries/1334/1334100-juushoku.org) | じゅうしょく | 1334100 | new / draft |
+| JLPTLord N2 1744 | [説法](entries/1646/1646260-seppou.org) | せっぽう | 1646260 | new / draft |
+| JLPTLord N2 1745 | [教義](entries/1237/1237060-kyougi.org) | きょうぎ | 1237060 | new / draft |
+| JLPTLord N2 1746 | [宗派](entries/1331/1331490-shuuha.org) | しゅうは | 1331490 | new / draft |
+| JLPTLord N2 1747 | [開祖](entries/1202/1202820-kaiso.org) | かいそ | 1202820 | new / draft |
+| JLPTLord N2 1748 | [聖人](entries/1380/1380350-seijin.org) | せいじん | 1380350 | new / draft |
+| JLPTLord N2 1749 | [高僧](entries/1283/1283680-kousou.org) | こうそう | 1283680 | new / draft |
+| JLPTLord N2 1750 | [修験道](entries/1331/1331990-shugendou.org) | しゅげんどう | 1331990 | new / draft |
+| JLPTLord N2 2014 | [幻想](entries/1262/1262950-gensou.org) | げんそう | 1262950 | new / draft |
+| JLPTLord N2 2015 | [妄想](entries/1584/1584730-mousou.org) | もうそう | 1584730 | new / draft |
+| JLPTLord N2 2016 | [直感](entries/1430/1430850-chokkan.org) | ちょっかん | 1430850 | new / draft |
+| JLPTLord N2 2017 | [予感](entries/1542/1542910-yokan.org) | よかん | 1542910 | new / draft |
+| JLPTLord N2 2019 | [焦り](entries/1350/1350770-aseri.org) | あせり | 1350770 | new / draft |
+| JLPTLord N2 2020 | [苛立ち](entries/1975/1975500-iradachi.org) | いらだち | 1975500 | new / draft |
+| JLPTLord N2 2021 | [怒り](entries/1445/1445670-ikari.org) | いかり | 1445670 | new / draft |
+| JLPTLord N2 2022 | [憎しみ](entries/1403/1403400-nikushimi.org) | にくしみ | 1403400 | new / draft |
+| JLPTLord N2 2024 | [嫉妬](entries/1320/1320280-shitto.org) | しっと | 1320280 | new / draft |
+| JLPTLord N2 2025 | [羨望](entries/1391/1391960-senbou.org) | せんぼう | 1391960 | new / draft |
+| JLPTLord N2 2026 | [軽蔑](entries/1252/1252860-keibetsu.org) | けいべつ | 1252860 | new / draft |
+| JLPTLord N2 2027 | [侮辱](entries/1498/1498260-bujoku.org) | ぶじょく | 1498260 | new / draft |
+| JLPTLord N2 2028 | [屈辱](entries/1246/1246600-kutsujoku.org) | くつじょく | 1246600 | new / draft |
+| JLPTLord N2 2029 | [羞恥](entries/1570/1570630-shuuchi.org) | しゅうち | 1570630 | new / draft |
+| JLPTLord N2 2030 | [後悔](entries/1269/1269510-koukai.org) | こうかい | 1269510 | new / draft |
+| JLPTLord N2 2032 | [罪悪感](entries/1296/1296700-zaiakukan.org) | ざいあくかん | 1296700 | new / draft |
+| JLPTLord N2 2033 | [劣等感](entries/1558/1558520-rettoukan.org) | れっとうかん | 1558520 | new / draft |
+| JLPTLord N2 2034 | [優越感](entries/1539/1539130-yuuetsukan.org) | ゆうえつかん | 1539130 | new / draft |
+| JLPTLord N2 2035 | [孤独](entries/1266/1266850-kodoku.org) | こどく | 1266850 | new / draft |
+| JLPTLord N2 2036 | [寂しさ](entries/2423/2423480-sabishisa.org) | さびしさ | 2423480 | new / draft |
+| JLPTLord N2 2037 | [悲しみ](entries/1590/1590550-kanashimi.org) | かなしみ | 1590550 | new / draft |
+| JLPTLord N2 2040 | [自尊心](entries/1318/1318220-jisonshin.org) | じそんしん | 1318220 | new / draft |
+| JLPTLord N2 2041 | [虚栄心](entries/1609/1609670-kyoeishin.org) | きょえいしん | 1609670 | new / draft |
+| JLPTLord N2 2042 | [向上心](entries/1277/1277260-koujoushin.org) | こうじょうしん | 1277260 | new / draft |
+| JLPTLord N2 2043 | [好奇心](entries/1277/1277590-koukishin.org) | こうきしん | 1277590 | new / draft |
+| JLPTLord N2 2044 | [探究心](entries/1768/1768860-tankyuushin.org) | たんきゅうしん | 1768860 | new / draft |
+| JLPTLord N2 2045 | [責任感](entries/1645/1645890-sekininkan.org) | せきにんかん | 1645890 | new / draft |
+| JLPTLord N2 2046 | [使命感](entries/2100/2100390-shimeikan.org) | しめいかん | 2100390 | new / draft |
+| JLPTLord N2 2047 | [連帯感](entries/1559/1559670-rentaikan.org) | れんたいかん | 1559670 | new / draft |
+| JLPTLord N2 2048 | [達成感](entries/2638/2638040-tasseikan.org) | たっせいかん | 2638040 | new / draft |
+| JLPTLord N2 2049 | [充実感](entries/2525/2525090-juujitsukan.org) | じゅうじつかん | 2525090 | new / draft |
+| JLPTLord N2 2050 | [満足感](entries/1947/1947220-manzokukan.org) | まんぞくかん | 1947220 | new / draft |
+| JLPTLord N2 2056 | [驚嘆](entries/1238/1238720-kyoutan.org) | きょうたん | 1238720 | new / draft |
+| JLPTLord N2 2061 | [願望](entries/1577/1577710-ganbou.org) | がんぼう | 1577710 | new / draft |
+| JLPTLord N2 2062 | [欲望](entries/1547/1547410-yokubou.org) | よくぼう | 1547410 | new / draft |
+| JLPTLord N2 2063 | [衝動](entries/1351/1351530-shoudou.org) | しょうどう | 1351530 | new / draft |
+| JLPTLord N2 2064 | [本能](entries/1523/1523130-honnou.org) | ほんのう | 1523130 | new / draft |
+| JLPTLord N2 2070 | [人徳](entries/1580/1580730-jintoku.org) | じんとく | 1580730 | new / draft |
+| JLPTLord N2 2072 | [資質](entries/1312/1312770-shishitsu.org) | ししつ | 1312770 | new / draft |
+| JLPTLord N2 2073 | [器量](entries/1218/1218980-kiryou.org) | きりょう | 1218980 | new / draft |
+| JLPTLord N2 2074 | [度量](entries/1624/1624130-doryou.org) | どりょう | 1624130 | new / draft |
+| JLPTLord N2 2075 | [寛容](entries/1211/1211970-kanyou.org) | かんよう | 1211970 | new / draft |
+
+### Final 2700-word audit
+
+The branch contains **2700 new translated entries** relative to `origin/main`.
+The current worktree was inspected at baseline `06b11efc`: no other agent had
+added entries after the completed 2500-word milestone. This continuation added
+**200 distinct N2 study-list candidates in 20 batches of ten**, with **200
+individual word commits**, **267 English senses with original Ukrainian
+glosses and nuance notes**, and **600 graded Japanese/kana/Ukrainian/English
+examples**.
+
+All candidates come from documented unused JLPTLord rows reconciled against
+pinned JMdict and existing entry IDs. The source manifest now records 932
+candidates across the relevant continuations. The public list was checked
+again on 2026-10-04; the documented cached lexical snapshot remains the
+reproducible source. N2 is the study site's classification, not an official
+JLPT vocabulary syllabus. Definitions and source sentences were not copied.
+
+JMdict validation and Org lint passed for all 200 additions. Doctor reported
+**100/100**, **zero errors**, and **zero warnings**. The full suite passed
+**137 tests and 20843 assertions**, with zero failures, errors, or skips.
+The audit verified exactly 2700 branch additions, unique IDs, source sense
+inventories and fingerprints, Ukrainian coverage of every English sense,
+three complete primary-sense examples per word, source-manifest matches,
+and one entry per addition commit. A subsequent editorial correction clarified
+restricted spellings/readings for 神輿, 祝詞 and 悲しみ, the Christian sense of
+功徳, two Japanese collocations and one kana spacing issue, without adding words.
+
+Earlier tracked entries remain unchanged. The original untracked 罪 draft and
+candidate-finder script retain their original contents. All new additions
+remain learner entries marked `new` / `draft`, pending editorial review.
+
+## Final 2900-word branch N2 continuation (2026-10-04)
+
+Baseline: `be5dc401`, with **2700** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **2900**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 2078 | [勤勉](entries/1241/1241060-kinben.org) | きんべん | 1241060 | new / draft |
+| JLPTLord N2 2079 | [怠惰](entries/1410/1410730-taida.org) | たいだ | 1410730 | new / draft |
+| JLPTLord N2 2080 | [傲慢](entries/1563/1563960-gouman.org) | ごうまん | 1563960 | new / draft |
+| JLPTLord N2 2082 | [陰気](entries/1170/1170280-inki.org) | いんき | 1170280 | new / draft |
+| JLPTLord N2 2085 | [冷淡](entries/1557/1557150-reitan.org) | れいたん | 1557150 | new / draft |
+| JLPTLord N2 2086 | [繊細](entries/1391/1391930-sensai.org) | せんさい | 1391930 | new / draft |
+| JLPTLord N2 2087 | [大胆](entries/1414/1414500-daitan.org) | だいたん | 1414500 | new / draft |
+| JLPTLord N2 2089 | [軽率](entries/1252/1252910-keisotsu.org) | けいそつ | 1252910 | new / draft |
+| JLPTLord N2 2092 | [強情](entries/1593/1593510-goujou.org) | ごうじょう | 1593510 | new / draft |
+| JLPTLord N2 2094 | [気まぐれ](entries/1591/1591410-kimagure.org) | きまぐれ | 1591410 | new / draft |
+| JLPTLord N2 2108 | [名誉](entries/1531/1531870-meiyo.org) | めいよ | 1531870 | new / draft |
+| JLPTLord N2 2109 | [威信](entries/1156/1156290-ishin.org) | いしん | 1156290 | new / draft |
+| JLPTLord N2 2110 | [体面](entries/1409/1409700-taimen.org) | たいめん | 1409700 | new / draft |
+| JLPTLord N2 2111 | [面目](entries/1533/1533590-menboku.org) | めんぼく | 1533590 | new / draft |
+| JLPTLord N2 2114 | [恩人](entries/1183/1183230-onjin.org) | おんじん | 1183230 | new / draft |
+| JLPTLord N2 2119 | [上司](entries/1353/1353260-joushi.org) | じょうし | 1353260 | new / draft |
+| JLPTLord N2 2120 | [部下](entries/1499/1499350-buka.org) | ぶか | 1499350 | new / draft |
+| JLPTLord N2 2125 | [和解](entries/1562/1562030-wakai.org) | わかい | 1562030 | new / draft |
+| JLPTLord N2 2129 | [共感](entries/1234/1234370-kyoukan.org) | きょうかん | 1234370 | new / draft |
+| JLPTLord N2 2130 | [同情](entries/1452/1452720-doujou.org) | どうじょう | 1452720 | new / draft |
+| JLPTLord N2 2133 | [親密](entries/1365/1365390-shinmitsu.org) | しんみつ | 1365390 | new / draft |
+| JLPTLord N2 2134 | [疎遠](entries/1396/1396680-soen.org) | そえん | 1396680 | new / draft |
+| JLPTLord N2 2139 | [心遣い](entries/1360/1360660-kokorozukai.org) | こころづかい | 1360660 | new / draft |
+| JLPTLord N2 2142 | [情熱](entries/1356/1356330-jounetsu.org) | じょうねつ | 1356330 | new / draft |
+| JLPTLord N2 2143 | [執着](entries/1594/1594740-shuuchaku.org) | しゅうちゃく | 1594740 | new / draft |
+| JLPTLord N2 2145 | [束縛](entries/1404/1404510-sokubaku.org) | そくばく | 1404510 | new / draft |
+| JLPTLord N2 2148 | [確執](entries/1205/1205820-kakushitsu.org) | かくしつ | 1205820 | new / draft |
+| JLPTLord N2 2149 | [亀裂](entries/1224/1224320-kiretsu.org) | きれつ | 1224320 | new / draft |
+| JLPTLord N2 2150 | [絆](entries/1570/1570420-kizuna.org) | きずな | 1570420 | new / draft |
+| JLPTLord N2 2155 | [交際](entries/1271/1271990-kousai.org) | こうさい | 1271990 | new / draft |
+| JLPTLord N2 2158 | [養子](entries/1547/1547150-youshi.org) | ようし | 1547150 | new / draft |
+| JLPTLord N2 2159 | [遺族](entries/1159/1159420-izoku.org) | いぞく | 1159420 | new / draft |
+| JLPTLord N2 2160 | [孤児](entries/1266/1266810-koji.org) | こじ | 1266810 | new / draft |
+| JLPTLord N2 2161 | [未亡人](entries/1528/1528030-miboujin.org) | みぼうじん | 1528030 | new / draft |
+| JLPTLord N2 2163 | [既婚](entries/1220/1220350-kikon.org) | きこん | 1220350 | new / draft |
+| JLPTLord N2 2164 | [長寿](entries/1430/1430020-chouju.org) | ちょうじゅ | 1430020 | new / draft |
+| JLPTLord N2 2165 | [老化](entries/1612/1612310-rouka.org) | ろうか | 1612310 | new / draft |
+| JLPTLord N2 2169 | [同世代](entries/2399/2399340-dousedai.org) | どうせだい | 2399340 | new / draft |
+| JLPTLord N2 2170 | [青春](entries/1381/1381550-seishun.org) | せいしゅん | 1381550 | new / draft |
+| JLPTLord N2 2171 | [思春期](entries/1309/1309550-shishunki.org) | ししゅんき | 1309550 | new / draft |
+| JLPTLord N2 2172 | [成熟](entries/1375/1375730-seijuku.org) | せいじゅく | 1375730 | new / draft |
+| JLPTLord N2 2173 | [老衰](entries/1561/1561120-rousui.org) | ろうすい | 1561120 | new / draft |
+| JLPTLord N2 2174 | [余生](entries/1605/1605930-yosei.org) | よせい | 1605930 | new / draft |
+| JLPTLord N2 2175 | [生涯](entries/1378/1378840-shougai.org) | しょうがい | 1378840 | new / draft |
+| JLPTLord N2 2176 | [人生観](entries/1368/1368400-jinseikan.org) | じんせいかん | 1368400 | new / draft |
+| JLPTLord N2 2177 | [世界観](entries/1645/1645810-sekaikan.org) | せかいかん | 1645810 | new / draft |
+| JLPTLord N2 2178 | [死生観](entries/1767/1767400-shiseikan.org) | しせいかん | 1767400 | new / draft |
+| JLPTLord N2 2180 | [宿命](entries/1337/1337330-shukumei.org) | しゅくめい | 1337330 | new / draft |
+| JLPTLord N2 2181 | [天命](entries/1440/1440400-tenmei.org) | てんめい | 1440400 | new / draft |
+| JLPTLord N2 2183 | [志](entries/1309/1309050-kokorozashi.org) | こころざし | 1309050 | new / draft |
+| JLPTLord N2 2189 | [執念](entries/1319/1319690-shuunen.org) | しゅうねん | 1319690 | new / draft |
+| JLPTLord N2 2190 | [忍耐](entries/1467/1467500-nintai.org) | にんたい | 1467500 | new / draft |
+| JLPTLord N2 2192 | [精神力](entries/1751/1751140-seishinryoku.org) | せいしんりょく | 1751140 | new / draft |
+| JLPTLord N2 2193 | [集中力](entries/1937/1937890-shuuchuuryoku.org) | しゅうちゅうりょく | 1937890 | new / draft |
+| JLPTLord N2 2194 | [判断力](entries/1478/1478650-handanryoku.org) | はんだんりょく | 1478650 | new / draft |
+| JLPTLord N2 2195 | [想像力](entries/1749/1749300-souzouryoku.org) | そうぞうりょく | 1749300 | new / draft |
+| JLPTLord N2 2196 | [表現力](entries/1945/1945910-hyougenryoku.org) | ひょうげんりょく | 1945910 | new / draft |
+| JLPTLord N2 2197 | [洞察力](entries/1687/1687840-dousatsuryoku.org) | どうさつりょく | 1687840 | new / draft |
+| JLPTLord N2 2198 | [観察力](entries/1782/1782790-kansatsuryoku.org) | かんさつりょく | 1782790 | new / draft |
+| JLPTLord N2 2199 | [包容力](entries/1515/1515560-houyouryoku.org) | ほうようりょく | 1515560 | new / draft |
+| JLPTLord N2 2200 | [憂鬱](entries/1605/1605640-yuuutsu.org) | ゆううつ | 1605640 | new / draft |
+| JLPTLord N2 2202 | [煩悩](entries/1481/1481980-bonnou.org) | ぼんのう | 1481980 | new / draft |
+| JLPTLord N2 2203 | [懊悩](entries/1643/1643700-ounou.org) | おうのう | 1643700 | new / draft |
+| JLPTLord N2 2204 | [憤り](entries/1857/1857970-ikidoori.org) | いきどおり | 1857970 | new / draft |
+| JLPTLord N2 2205 | [嘆き](entries/1418/1418070-nageki.org) | なげき | 1418070 | new / draft |
+| JLPTLord N2 2207 | [郷愁](entries/1238/1238500-kyoushuu.org) | きょうしゅう | 1238500 | new / draft |
+| JLPTLord N2 2209 | [安堵](entries/1154/1154170-ando.org) | あんど | 1154170 | new / draft |
+| JLPTLord N2 2210 | [歓喜](entries/1212/1212950-kanki.org) | かんき | 1212950 | new / draft |
+| JLPTLord N2 2211 | [陶酔](entries/1450/1450680-tousui.org) | とうすい | 1450680 | new / draft |
+| JLPTLord N2 2212 | [恍惚](entries/1566/1566790-koukotsu.org) | こうこつ | 1566790 | new / draft |
+| JLPTLord N2 2213 | [困惑](entries/1289/1289630-konwaku.org) | こんわく | 1289630 | new / draft |
+| JLPTLord N2 2214 | [当惑](entries/1449/1449290-touwaku.org) | とうわく | 1449290 | new / draft |
+| JLPTLord N2 2215 | [狼狽](entries/1560/1560960-roubai.org) | ろうばい | 1560960 | new / draft |
+| JLPTLord N2 2216 | [憤慨](entries/1504/1504650-fungai.org) | ふんがい | 1504650 | new / draft |
+| JLPTLord N2 2217 | [落胆](entries/1548/1548820-rakutan.org) | らくたん | 1548820 | new / draft |
+| JLPTLord N2 2218 | [失意](entries/1319/1319800-shitsui.org) | しつい | 1319800 | new / draft |
+| JLPTLord N2 2219 | [未練](entries/1528/1528130-miren.org) | みれん | 1528130 | new / draft |
+| JLPTLord N2 2220 | [愛着](entries/1575/1575680-aichaku.org) | あいちゃく | 1575680 | new / draft |
+| JLPTLord N2 2221 | [親愛](entries/1365/1365090-shinai.org) | しんあい | 1365090 | new / draft |
+| JLPTLord N2 2222 | [敬愛](entries/1250/1250710-keiai.org) | けいあい | 1250710 | new / draft |
+| JLPTLord N2 2223 | [畏敬](entries/1157/1157450-ikei.org) | いけい | 1157450 | new / draft |
+| JLPTLord N2 2224 | [崇敬](entries/1372/1372850-suukei.org) | すうけい | 1372850 | new / draft |
+| JLPTLord N2 2226 | [恩義](entries/1589/1589610-ongi.org) | おんぎ | 1589610 | new / draft |
+| JLPTLord N2 2227 | [忠誠](entries/1426/1426170-chuusei.org) | ちゅうせい | 1426170 | new / draft |
+| JLPTLord N2 2228 | [献身](entries/1258/1258450-kenshin.org) | けんしん | 1258450 | new / draft |
+| JLPTLord N2 2229 | [自己犠牲](entries/1317/1317610-jikogisei.org) | じこぎせい | 1317610 | new / draft |
+| JLPTLord N2 2230 | [無私](entries/1638/1638430-mushi.org) | むし | 1638430 | new / draft |
+| JLPTLord N2 2231 | [利己的](entries/1549/1549540-rikoteki.org) | りこてき | 1549540 | new / draft |
+| JLPTLord N2 2233 | [協力的](entries/2848/2848927-kyouryokuteki.org) | きょうりょくてき | 2848927 | new / draft |
+| JLPTLord N2 2234 | [献身的](entries/1714/1714900-kenshinteki.org) | けんしんてき | 1714900 | new / draft |
+| JLPTLord N2 2246 | [衝動的](entries/1686/1686680-shoudouteki.org) | しょうどうてき | 1686680 | new / draft |
+| JLPTLord N2 2247 | [本能的](entries/2514/2514590-honnouteki.org) | ほんのうてき | 2514590 | new / draft |
+| JLPTLord N2 2248 | [直感的](entries/1597/1597710-chokkanteki.org) | ちょっかんてき | 1597710 | new / draft |
+| JLPTLord N2 2249 | [意図的](entries/1156/1156700-itoteki.org) | いとてき | 1156700 | new / draft |
+| JLPTLord N2 2250 | [自発的](entries/1318/1318560-jihatsuteki.org) | じはつてき | 1318560 | new / draft |
+| JLPTLord N2 2266 | [研ぐ](entries/1598/1598700-togu.org) | とぐ | 1598700 | new / draft |
+| JLPTLord N2 2273 | [歪む](entries/1585/1585360-yugamu.org) | ゆがむ | 1585360 | new / draft |
+| JLPTLord N2 2279 | [膨れる](entries/1602/1602550-fukureru.org) | ふくれる | 1602550 | new / draft |
+| JLPTLord N2 2282 | [滲む](entries/1568/1568800-nijimu.org) | にじむ | 1568800 | new / draft |
+| JLPTLord N2 2285 | [浸す](entries/1362/1362560-hitasu.org) | ひたす | 1362560 | new / draft |
+| JLPTLord N2 2286 | [浸る](entries/1362/1362570-hitaru.org) | ひたる | 1362570 | new / draft |
+| JLPTLord N2 2291 | [蒸れる](entries/1356/1356920-mureru.org) | むれる | 1356920 | new / draft |
+| JLPTLord N2 2294 | [炒める](entries/1568/1568920-itameru.org) | いためる | 1568920 | new / draft |
+| JLPTLord N2 2299 | [練る](entries/1559/1559140-neru.org) | ねる | 1559140 | new / draft |
+| JLPTLord N2 2309 | [束ねる](entries/1581/1581320-tabaneru.org) | たばねる | 1581320 | new / draft |
+| JLPTLord N2 2312 | [仕上げる](entries/1305/1305140-shiageru.org) | しあげる | 1305140 | new / draft |
+| JLPTLord N2 2317 | [成し遂げる](entries/1375/1375550-nashitogeru.org) | なしとげる | 1375550 | new / draft |
+| JLPTLord N2 2323 | [唆す](entries/1290/1290790-sosonokasu.org) | そそのかす | 1290790 | new / draft |
+| JLPTLord N2 2324 | [煽る](entries/1391/1391630-aoru.org) | あおる | 1391630 | new / draft |
+| JLPTLord N2 2325 | [駆り立てる](entries/1244/1244830-karitateru.org) | かりたてる | 1244830 | new / draft |
+| JLPTLord N2 2331 | [見極める](entries/1259/1259490-mikiwameru.org) | みきわめる | 1259490 | new / draft |
+| JLPTLord N2 2346 | [罵る](entries/1471/1471520-nonoshiru.org) | ののしる | 1471520 | new / draft |
+| JLPTLord N2 2354 | [見下す](entries/1259/1259360-mikudasu.org) | みくだす | 1259360 | new / draft |
+| JLPTLord N2 2357 | [懐く](entries/1200/1200510-natsuku.org) | なつく | 1200510 | new / draft |
+| JLPTLord N2 2360 | [惹かれる](entries/1168/1168800-hikareru.org) | ひかれる | 1168800 | new / draft |
+| JLPTLord N2 2361 | [恋する](entries/1609/1609750-koisuru.org) | こいする | 1609750 | new / draft |
+| JLPTLord N2 2362 | [惚れる](entries/1288/1288500-horeru.org) | ほれる | 1288500 | new / draft |
+| JLPTLord N2 2363 | [振られる](entries/1361/1361120-furareru.org) | ふられる | 1361120 | new / draft |
+| JLPTLord N2 2369 | [挫ける](entries/1292/1292020-kujikeru.org) | くじける | 1292020 | new / draft |
+| JLPTLord N2 2370 | [立ち直る](entries/1551/1551440-tachinaoru.org) | たちなおる | 1551440 | new / draft |
+| JLPTLord N2 2371 | [奮い立つ](entries/1504/1504690-furuitatsu.org) | ふるいたつ | 1504690 | new / draft |
+| JLPTLord N2 2373 | [踏ん張る](entries/1450/1450280-funbaru.org) | ふんばる | 1450280 | new / draft |
+| JLPTLord N2 2375 | [踏み出す](entries/1450/1450170-fumidasu.org) | ふみだす | 1450170 | new / draft |
+| JLPTLord N2 2377 | [切り抜ける](entries/1384/1384620-kirinukeru.org) | きりぬける | 1384620 | new / draft |
+| JLPTLord N2 2378 | [やり遂げる](entries/1260/1260430-yaritogeru.org) | やりとげる | 1260430 | new / draft |
+| JLPTLord N2 2379 | [持ちこたえる](entries/1315/1315540-mochikotaeru.org) | もちこたえる | 1315540 | new / draft |
+| JLPTLord N2 2380 | [突き進む](entries/1456/1456730-tsukisusumu.org) | つきすすむ | 1456730 | new / draft |
+| JLPTLord N2 2381 | [突き止める](entries/1456/1456670-tsukitomeru.org) | つきとめる | 1456670 | new / draft |
+| JLPTLord N2 2383 | [差し込む](entries/1291/1291170-sashikomu.org) | さしこむ | 1291170 | new / draft |
+| JLPTLord N2 2386 | [引きずる](entries/1169/1169000-hikizuru.org) | ひきずる | 1169000 | new / draft |
+| JLPTLord N2 2399 | [出くわす](entries/1337/1337950-dekuwasu.org) | でくわす | 1337950 | new / draft |
+| JLPTLord N2 2401 | [寄り添う](entries/1219/1219640-yorisou.org) | よりそう | 1219640 | new / draft |
+| JLPTLord N2 2402 | [抱きしめる](entries/1516/1516320-dakishimeru.org) | だきしめる | 1516320 | new / draft |
+| JLPTLord N2 2405 | [呟く](entries/1565/1565120-tsubuyaku.org) | つぶやく | 1565120 | new / draft |
+| JLPTLord N2 2408 | [喚く](entries/1211/1211260-wameku.org) | わめく | 1211260 | new / draft |
+| JLPTLord N2 2412 | [怯える](entries/1236/1236630-obieru.org) | おびえる | 1236630 | new / draft |
+| JLPTLord N2 2416 | [佇む](entries/1563/1563190-tatazumu.org) | たたずむ | 1563190 | new / draft |
+| JLPTLord N2 2418 | [彷徨う](entries/1566/1566730-samayou.org) | さまよう | 1566730 | new / draft |
+| JLPTLord N2 2420 | [迷い込む](entries/1532/1532690-mayoikomu.org) | まよいこむ | 1532690 | new / draft |
+| JLPTLord N2 2421 | [紛れ込む](entries/1505/1505020-magirekomu.org) | まぎれこむ | 1505020 | new / draft |
+| JLPTLord N2 2422 | [染み込む](entries/1391/1391140-shimikomu.org) | しみこむ | 1391140 | new / draft |
+| JLPTLord N2 2424 | [入り込む](entries/1465/1465460-hairikomu.org) | はいりこむ | 1465460 | new / draft |
+| JLPTLord N2 2425 | [吹き飛ばす](entries/1370/1370690-fukitobasu.org) | ふきとばす | 1370690 | new / draft |
+| JLPTLord N2 2426 | [吹き出す](entries/1602/1602500-fukidasu.org) | ふきだす | 1602500 | new / draft |
+| JLPTLord N2 2427 | [湧き上がる](entries/1501/1501680-wakiagaru.org) | わきあがる | 1501680 | new / draft |
+| JLPTLord N2 2428 | [燃え上がる](entries/1469/1469600-moeagaru.org) | もえあがる | 1469600 | new / draft |
+| JLPTLord N2 2431 | [飛び散る](entries/1485/1485330-tobichiru.org) | とびちる | 1485330 | new / draft |
+| JLPTLord N2 2433 | [弾ける](entries/1419/1419380-hajikeru.org) | はじける | 1419380 | new / draft |
+| JLPTLord N2 2438 | [捲る](entries/1257/1257810-mekuru.org) | めくる | 1257810 | new / draft |
+| JLPTLord N2 2440 | [拗ねる](entries/1567/1567260-suneru.org) | すねる | 1567260 | new / draft |
+| JLPTLord N2 2446 | [損なう](entries/1596/1596510-sokonau.org) | そこなう | 1596510 | new / draft |
+| JLPTLord N2 2447 | [傷つける](entries/1345/1345930-kizutsukeru.org) | きずつける | 1345930 | new / draft |
+| JLPTLord N2 2449 | [癒す](entries/1538/1538750-iyasu.org) | いやす | 1538750 | new / draft |
+| JLPTLord N2 2450 | [癒える](entries/1538/1538740-ieru.org) | いえる | 1538740 | new / draft |
+| JLPTLord N2 2453 | [廃れる](entries/1472/1472020-sutareru.org) | すたれる | 1472020 | new / draft |
+| JLPTLord N2 2454 | [滅びる](entries/1603/1603610-horobiru.org) | ほろびる | 1603610 | new / draft |
+| JLPTLord N2 2458 | [授かる](entries/1330/1330270-sazukaru.org) | さずかる | 1330270 | new / draft |
+| JLPTLord N2 2459 | [授ける](entries/1330/1330280-sazukeru.org) | さずける | 1330280 | new / draft |
+| JLPTLord N2 2463 | [悔いる](entries/1200/1200400-kuiru.org) | くいる | 1200400 | new / draft |
+| JLPTLord N2 2464 | [省みる](entries/2836/2836356-kaerimiru.org) | かえりみる | 2836356 | new / draft |
+| JLPTLord N2 2465 | [漲る](entries/1568/1568820-minagiru.org) | みなぎる | 1568820 | new / draft |
+| JLPTLord N2 2467 | [赴く](entries/1498/1498190-omomuku.org) | おもむく | 1498190 | new / draft |
+| JLPTLord N2 2471 | [育む](entries/1600/1600700-hagukumu.org) | はぐくむ | 1600700 | new / draft |
+| JLPTLord N2 2472 | [慈しむ](entries/1315/1315280-itsukushimu.org) | いつくしむ | 1315280 | new / draft |
+| JLPTLord N2 2473 | [労る](entries/1560/1560240-itawaru.org) | いたわる | 1560240 | new / draft |
+| JLPTLord N2 2476 | [嘲る](entries/1565/1565590-azakeru.org) | あざける | 1565590 | new / draft |
+| JLPTLord N2 2477 | [蔑ろにする](entries/1510/1510280-naigashironisuru.org) | ないがしろにする | 1510280 | new / draft |
+| JLPTLord N2 2479 | [拘る](entries/1004/1004480-kodawaru.org) | こだわる | 1004480 | new / draft |
+| JLPTLord N2 2480 | [甘んじる](entries/1621/1621660-amanjiru.org) | あまんじる | 1621660 | new / draft |
+| JLPTLord N2 2481 | [悶える](entries/1536/1536080-modaeru.org) | もだえる | 1536080 | new / draft |
+| JLPTLord N2 2482 | [萎える](entries/1158/1158670-naeru.org) | なえる | 1158670 | new / draft |
+| JLPTLord N2 2486 | [報いる](entries/1515/1515630-mukuiru.org) | むくいる | 1515630 | new / draft |
+| JLPTLord N2 2487 | [償う](entries/1346/1346020-tsugunau.org) | つぐなう | 1346020 | new / draft |
+| JLPTLord N2 2488 | [仕える](entries/1304/1304760-tsukaeru.org) | つかえる | 1304760 | new / draft |
+| JLPTLord N2 2490 | [背く](entries/1472/1472680-somuku.org) | そむく | 1472680 | new / draft |
+| JLPTLord N2 2492 | [抗う](entries/2261/2261110-aragau.org) | あらがう | 2261110 | new / draft |
+| JLPTLord N2 2493 | [翻す](entries/1523/1523340-hirugaesu.org) | ひるがえす | 1523340 | new / draft |
+| JLPTLord N2 2495 | [揉める](entries/1567/1567630-momeru.org) | もめる | 1567630 | new / draft |
+| JLPTLord N2 2496 | [詰る](entries/1226/1226560-najiru.org) | なじる | 1226560 | new / draft |
+| JLPTLord N2 2497 | [宥める](entries/1540/1540250-nadameru.org) | なだめる | 1540250 | new / draft |
+| JLPTLord N2 2499 | [窘める](entries/1570/1570200-tashinameru.org) | たしなめる | 1570200 | new / draft |
+| JLPTLord N2 2500 | [嗜む](entries/2008/2008820-tashinamu.org) | たしなむ | 2008820 | new / draft |
+| JLPTLord N2 2516 | [確かに](entries/1205/1205770-tashikani.org) | たしかに | 1205770 | new / draft |
+| JLPTLord N2 2545 | [依然として](entries/1155/1155660-izentoshite.org) | いぜんとして | 1155660 | new / draft |
+| JLPTLord N2 2547 | [一律に](entries/1587/1587370-ichiritsuni.org) | いちりつに | 1587370 | new / draft |
+| JLPTLord N2 2549 | [一挙に](entries/1609/1609220-ikkyoni.org) | いっきょに | 1609220 | new / draft |
+| JLPTLord N2 2582 | [及び](entries/1228/1228140-oyobi.org) | および | 1228140 | new / draft |
+| JLPTLord N2 2583 | [且つ](entries/1208/1208840-katsu.org) | かつ | 1208840 | new / draft |
+| JLPTLord N2 2591 | [その結果](entries/2851/2851217-sonokekka.org) | そのけっか | 2851217 | new / draft |
+| JLPTLord N2 2592 | [その反面](entries/1006/1006940-sonohanmen.org) | そのはんめん | 1006940 | new / draft |
+| JLPTLord N2 2593 | [その代わり](entries/1596/1596650-sonokawari.org) | そのかわり | 1596650 | new / draft |
+| JLPTLord N2 2603 | [実際に](entries/1321/1321120-jissaini.org) | じっさいに | 1321120 | new / draft |
+| JLPTLord N2 2604 | [事実上](entries/1313/1313970-jijitsujou.org) | じじつじょう | 1313970 | new / draft |
+| JLPTLord N2 2605 | [文字通り](entries/1505/1505420-mojidoori.org) | もじどおり | 1505420 | new / draft |
+| JLPTLord N2 2610 | [甚だ](entries/1370/1370000-hanahada.org) | はなはだ | 1370000 | new / draft |
+| JLPTLord N2 2616 | [繰り返し](entries/1247/1247010-kurikaeshi.org) | くりかえし | 1247010 | new / draft |
+| JLPTLord N2 2618 | [時折](entries/1598/1598670-tokiori.org) | ときおり | 1598670 | new / draft |
+| JLPTLord N2 2621 | [自ずと](entries/2007/2007530-onozuto.org) | おのずと | 2007530 | new / draft |
+| JLPTLord N2 2634 | [無論](entries/1531/1531080-muron.org) | むろん | 1531080 | new / draft |
+| JLPTLord N2 2635 | [言うまでもなく](entries/2067/2067940-iumademonaku.org) | いうまでもなく | 2067940 | new / draft |
+
+### Completed 2900-word target audit (2026-10-05)
+
+Against `origin/main`, this branch now adds **2,900 distinct translated entry
+files**. From baseline `be5dc401` (2,700 additions), this continuation added
+**200 N2 candidates in 20 completed batches of 10**, with **200 individual
+word-addition commits** under Ihor's configured Git identity. Content author
+is `codex`.
+
+All 308 English senses have original Ukrainian glosses and substantive usage
+notes. Each entry has one primary learner sense with three graded Japanese
+examples, kana readings, Ukrainian and English translations, and focus spans:
+**308 usage notes and 600 examples** in total. Original JMdict forms,
+readings, sense IDs, restrictions and fingerprints remain intact.
+
+All 200 entries passed JMdict validation and Org lint. The entry doctor
+reported **100/100 average health, zero errors and zero warnings**. The full
+suite passed **137 tests and 21,443 assertions**, with zero failures, errors
+or skips. Candidate labels and readings match the documented JLPTLord
+manifest and cached source checksum. The source classification is this
+study site's N2 classification, not an official JLPT syllabus.
+
+After these additions, 170 unused reconciled N2 candidates remain in the
+same source pool; no N1 transition or Anki deck was needed. The original
+untracked `entries/1296/1296680-tsumi.org` and
+`scripts/find_next_100_candidates.rb` remain unchanged and excluded. Entries
+remain **new / draft**, pending linguistic editorial review; automated
+checks do not confer release-ready status.
+
+## Final 3100-word branch vocabulary continuation (2026-10-05)
+
+Baseline: `5386f32f`, with **2900** new translated words on this branch.
+Completed **200/200** additional distinct words; branch total **3100**.
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+N2-69 (佚) remains deferred and is not counted. The selected continuation
+uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| JLPTLord N2 2639 | [如何に](entries/1466/1466970-ikani.org) | いかに | 1466970 | new / draft |
+| JLPTLord N2 2640 | [如何にも](entries/1000/1000660-ikanimo.org) | いかにも | 1000660 | new / draft |
+| JLPTLord N2 2645 | [差し当たり](entries/1291/1291290-sashiatari.org) | さしあたり | 1291290 | new / draft |
+| JLPTLord N2 2655 | [未](entries/2242/2242840-mi.org) | み | 2242840 | new / draft |
+| JLPTLord N2 2656 | [非](entries/1484/1484710-hi.org) | ひ | 1484710 | new / draft |
+| JLPTLord N2 2659 | [超](entries/1429/1429340-chou.org) | ちょう | 1429340 | new / draft |
+| JLPTLord N2 2661 | [全](entries/1394/1394770-zen.org) | ぜん | 1394770 | new / draft |
+| JLPTLord N2 2662 | [総](entries/1401/1401470-sou.org) | そう | 1401470 | new / draft |
+| JLPTLord N2 2663 | [両](entries/2080/2080720-ryou.org) | りょう | 2080720 | new / draft |
+| JLPTLord N2 2664 | [諸](entries/1344/1344210-sho.org) | しょ | 1344210 | new / draft |
+| JLPTLord N2 2665 | [準](entries/1341/1341490-jun.org) | じゅん | 1341490 | new / draft |
+| JLPTLord N2 2666 | [副](entries/1500/1500330-fuku.org) | ふく | 1500330 | new / draft |
+| JLPTLord N2 2667 | [再](entries/1292/1292290-sai.org) | さい | 1292290 | new / draft |
+| JLPTLord N2 2671 | [的](entries/1437/1437260-teki.org) | てき | 1437260 | new / draft |
+| JLPTLord N2 2673 | [化](entries/2056/2056760-ka.org) | か | 2056760 | new / draft |
+| JLPTLord N2 2676 | [値](entries/2188/2188520-chi.org) | ち | 2188520 | new / draft |
+| JLPTLord N2 2677 | [観](entries/1214/1214770-kan.org) | かん | 1214770 | new / draft |
+| JLPTLord N2 2678 | [感](entries/1955/1955970-kan.org) | かん | 1955970 | new / draft |
+| JLPTLord N2 2679 | [力](entries/1554/1554840-ryoku.org) | りょく | 1554840 | new / draft |
+| JLPTLord N2 2681 | [制](entries/1374/1374620-sei.org) | せい | 1374620 | new / draft |
+| JLPTLord N2 2682 | [界](entries/2081/2081500-kai.org) | かい | 2081500 | new / draft |
+| JLPTLord N2 2683 | [層](entries/1399/1399540-sou.org) | そう | 1399540 | new / draft |
+| JLPTLord N2 2684 | [向け](entries/1277/1277090-muke.org) | むけ | 1277090 | new / draft |
+| JLPTLord N2 2688 | [気味](entries/1790/1790980-gimi.org) | ぎみ | 1790980 | new / draft |
+| JLPTLord N2 2689 | [振り](entries/1361/1361140-buri.org) | ぶり | 1361140 | new / draft |
+| JLPTLord N2 2696 | [済み](entries/2198/2198630-zumi.org) | ずみ | 2198630 | new / draft |
+| JLPTLord N2 2697 | [掛け](entries/2148/2148680-gake.org) | がけ | 2148680 | new / draft |
+| JLPTLord N2 2699 | [通り](entries/1432/1432930-doori.org) | どおり | 1432930 | new / draft |
+| JLPTLord N2 2712 | [故に](entries/1267/1267130-yueni.org) | ゆえに | 1267130 | new / draft |
+| JLPTLord N2 2735 | [上は](entries/2181/2181810-ueha.org) | うえは | 2181810 | new / draft |
+| JLPTLord N2 2739 | [に限って](entries/2153/2153930-nikagitte.org) | にかぎって | 2153930 | new / draft |
+| JLPTLord N2 2740 | [に限らず](entries/2206/2206770-nikagirazu.org) | にかぎらず | 2206770 | new / draft |
+| JLPTLord N2 2743 | [に関して](entries/1009/1009740-nikanshite.org) | にかんして | 1009740 | new / draft |
+| JLPTLord N2 2744 | [に対して](entries/1009/1009800-nitaishite.org) | にたいして | 1009800 | new / draft |
+| JLPTLord N2 2747 | [に基づいて](entries/1009/1009760-nimotozuite.org) | にもとづいて | 1009760 | new / draft |
+| JLPTLord N2 2748 | [に伴って](entries/2838/2838285-nitomonatte.org) | にともなって | 2838285 | new / draft |
+| JLPTLord N2 2749 | [に応じて](entries/1009/1009700-nioujite.org) | におうじて | 1009700 | new / draft |
+| JLPTLord N2 2764 | [告訴](entries/1286/1286030-kokuso.org) | こくそ | 1286030 | new / draft |
+| JLPTLord N2 2769 | [検事](entries/1257/1257930-kenji.org) | けんじ | 1257930 | new / draft |
+| JLPTLord N2 2770 | [裁判官](entries/1296/1296130-saibankan.org) | さいばんかん | 1296130 | new / draft |
+| JLPTLord N2 2773 | [証人](entries/1351/1351660-shounin.org) | しょうにん | 1351660 | new / draft |
+| JLPTLord N2 2774 | [証拠](entries/1351/1351600-shouko.org) | しょうこ | 1351600 | new / draft |
+| JLPTLord N2 2779 | [懲役](entries/1428/1428220-choueki.org) | ちょうえき | 1428220 | new / draft |
+| JLPTLord N2 2780 | [罰金](entries/1478/1478090-bakkin.org) | ばっきん | 1478090 | new / draft |
+| JLPTLord N2 2782 | [容疑](entries/1545/1545380-yougi.org) | ようぎ | 1545380 | new / draft |
+| JLPTLord N2 2785 | [拘束](entries/1279/1279000-kousoku.org) | こうそく | 1279000 | new / draft |
+| JLPTLord N2 2787 | [施行](entries/1579/1579510-shikou.org) | しこう | 1579510 | new / draft |
+| JLPTLord N2 2790 | [制定](entries/1374/1374870-seitei.org) | せいてい | 1374870 | new / draft |
+| JLPTLord N2 2794 | [渓谷](entries/1250/1250950-keikoku.org) | けいこく | 1250950 | new / draft |
+| JLPTLord N2 2795 | [断崖](entries/1419/1419580-dangai.org) | だんがい | 1419580 | new / draft |
+| JLPTLord N2 2800 | [河口](entries/1577/1577300-kakou.org) | かこう | 1577300 | new / draft |
+| JLPTLord N2 2801 | [上流](entries/1354/1354510-jouryuu.org) | じょうりゅう | 1354510 | new / draft |
+| JLPTLord N2 2802 | [下流](entries/1186/1186560-karyuu.org) | かりゅう | 1186560 | new / draft |
+| JLPTLord N2 2804 | [水源](entries/1371/1371460-suigen.org) | すいげん | 1371460 | new / draft |
+| JLPTLord N2 2814 | [暴風](entries/1519/1519540-boufuu.org) | ぼうふう | 1519540 | new / draft |
+| JLPTLord N2 2817 | [大雪](entries/1414/1414350-ooyuki.org) | おおゆき | 1414350 | new / draft |
+| JLPTLord N2 2823 | [猛暑](entries/1534/1534050-mousho.org) | もうしょ | 1534050 | new / draft |
+| JLPTLord N2 2824 | [酷暑](entries/1287/1287370-kokusho.org) | こくしょ | 1287370 | new / draft |
+| JLPTLord N2 2825 | [厳寒](entries/1262/1262580-genkan.org) | げんかん | 1262580 | new / draft |
+| JLPTLord N2 2832 | [被災](entries/1484/1484440-hisai.org) | ひさい | 1484440 | new / draft |
+| JLPTLord N2 2834 | [救援](entries/1229/1229070-kyuuen.org) | きゅうえん | 1229070 | new / draft |
+| JLPTLord N2 2839 | [調理](entries/1429/1429310-chouri.org) | ちょうり | 1429310 | new / draft |
+| JLPTLord N2 2842 | [出汁](entries/1339/1339160-dashi.org) | だし | 1339160 | new / draft |
+| JLPTLord N2 2843 | [薬味](entries/1538/1538310-yakumi.org) | やくみ | 1538310 | new / draft |
+| JLPTLord N2 2844 | [塩分](entries/1178/1178870-enbun.org) | えんぶん | 1178870 | new / draft |
+| JLPTLord N2 2845 | [糖分](entries/1449/1449650-toubun.org) | とうぶん | 1449650 | new / draft |
+| JLPTLord N2 2850 | [発酵](entries/1477/1477450-hakkou.org) | はっこう | 1477450 | new / draft |
+| JLPTLord N2 2851 | [醸造](entries/1357/1357090-jouzou.org) | じょうぞう | 1357090 | new / draft |
+| JLPTLord N2 2852 | [漬物](entries/1433/1433700-tsukemono.org) | つけもの | 1433700 | new / draft |
+| JLPTLord N2 2856 | [麺](entries/1533/1533610-men.org) | めん | 1533610 | new / draft |
+| JLPTLord N2 2858 | [豆腐](entries/1450/1450070-toufu.org) | とうふ | 1450070 | new / draft |
+| JLPTLord N2 2860 | [天ぷら](entries/1440/1440590-tenpura.org) | てんぷら | 1440590 | new / draft |
+| JLPTLord N2 2861 | [寿司](entries/1595/1595650-sushi.org) | すし | 1595650 | new / draft |
+| JLPTLord N2 2865 | [裾](entries/1373/1373610-suso.org) | すそ | 1373610 | new / draft |
+| JLPTLord N2 2866 | [襟](entries/1588/1588750-eri.org) | えり | 1588750 | new / draft |
+| JLPTLord N2 2870 | [仕立てる](entries/1305/1305560-shitateru.org) | したてる | 1305560 | new / draft |
+| JLPTLord N2 2880 | [礼金](entries/1557/1557500-reikin.org) | れいきん | 1557500 | new / draft |
+| JLPTLord N2 2882 | [増築](entries/1403/1403320-zouchiku.org) | ぞうちく | 1403320 | new / draft |
+| JLPTLord N2 2887 | [配管](entries/1625/1625610-haikan.org) | はいかん | 1625610 | new / draft |
+| JLPTLord N2 2891 | [梁](entries/1648/1648740-hari.org) | はり | 1648740 | new / draft |
+| JLPTLord N2 2895 | [天井](entries/1438/1438340-tenjou.org) | てんじょう | 1438340 | new / draft |
+| JLPTLord N2 2899 | [縁側](entries/1177/1177630-engawa.org) | えんがわ | 1177630 | new / draft |
+| JLPTLord N2 2901 | [納戸](entries/1642/1642650-nando.org) | なんど | 1642650 | new / draft |
+| JLPTLord N2 2916 | [都市化](entries/1700/1700830-toshika.org) | としか | 1700830 | new / draft |
+| JLPTLord N2 2918 | [商店街](entries/1347/1347190-shoutengai.org) | しょうてんがい | 1347190 | new / draft |
+| JLPTLord N2 2919 | [繁華街](entries/1481/1481690-hankagai.org) | はんかがい | 1481690 | new / draft |
+| JLPTLord N2 2923 | [物流](entries/1629/1629510-butsuryuu.org) | ぶつりゅう | 1629510 | new / draft |
+| JLPTLord N2 2924 | [在庫](entries/1296/1296470-zaiko.org) | ざいこ | 1296470 | new / draft |
+| JLPTLord N2 2931 | [領収書](entries/1554/1554760-ryoushuusho.org) | りょうしゅうしょ | 1554760 | new / draft |
+| JLPTLord N2 2932 | [振込](entries/1602/1602960-furikomi.org) | ふりこみ | 1602960 | new / draft |
+| JLPTLord N2 2933 | [決済](entries/1254/1254260-kessai.org) | けっさい | 1254260 | new / draft |
+| JLPTLord N2 2937 | [配当](entries/1473/1473170-haitou.org) | はいとう | 1473170 | new / draft |
+| JLPTLord N2 2938 | [利回り](entries/1549/1549490-rimawari.org) | りまわり | 1549490 | new / draft |
+| JLPTLord N2 2940 | [相場](entries/1401/1401070-souba.org) | そうば | 1401070 | new / draft |
+| JLPTLord N2 2942 | [高騰](entries/1283/1283870-koutou.org) | こうとう | 1283870 | new / draft |
+| JLPTLord N2 2946 | [倒産](entries/1445/1445890-tousan.org) | とうさん | 1445890 | new / draft |
+| JLPTLord N2 2950 | [収支](entries/1330/1330640-shuushi.org) | しゅうし | 1330640 | new / draft |
+| JLPTLord N2 2951 | [歳入](entries/1294/1294970-sainyuu.org) | さいにゅう | 1294970 | new / draft |
+| JLPTLord N2 2952 | [歳出](entries/1294/1294960-saishutsu.org) | さいしゅつ | 1294960 | new / draft |
+| JLPTLord N2 2957 | [簿記](entries/1515/1515230-boki.org) | ぼき | 1515230 | new / draft |
+| JLPTLord N2 2960 | [担保](entries/1418/1418210-tanpo.org) | たんぽ | 1418210 | new / draft |
+| JLPTLord N2 2961 | [抵当](entries/1436/1436290-teitou.org) | ていとう | 1436290 | new / draft |
+| JLPTLord N2 2962 | [利息](entries/1549/1549600-risoku.org) | りそく | 1549600 | new / draft |
+| JLPTLord N2 2963 | [元本](entries/1261/1261070-ganpon.org) | がんぽん | 1261070 | new / draft |
+| JLPTLord N2 2965 | [控除](entries/1279/1279080-koujo.org) | こうじょ | 1279080 | new / draft |
+| JLPTLord N2 2968 | [脱税](entries/1416/1416550-datsuzei.org) | だつぜい | 1416550 | new / draft |
+| JLPTLord N2 2969 | [確定申告](entries/1819/1819560-kakuteishinkoku.org) | かくていしんこく | 1819560 | new / draft |
+| JLPTLord N2 2970 | [所得](entries/1343/1343360-shotoku.org) | しょとく | 1343360 | new / draft |
+| JLPTLord N2 2971 | [収益](entries/1330/1330500-shuueki.org) | しゅうえき | 1330500 | new / draft |
+| JLPTLord N2 2976 | [慰謝料](entries/1156/1156930-isharyou.org) | いしゃりょう | 1156930 | new / draft |
+| JLPTLord N2 2980 | [退職金](entries/1661/1661130-taishokukin.org) | たいしょくきん | 1661130 | new / draft |
+| JLPTLord N2 2983 | [手取り](entries/1327/1327760-tedori.org) | てどり | 1327760 | new / draft |
+| JLPTLord N2 2984 | [源泉徴収](entries/1666/1666250-gensenchoushuu.org) | げんせんちょうしゅう | 1666250 | new / draft |
+| JLPTLord N2 2985 | [扶養](entries/1496/1496990-fuyou.org) | ふよう | 1496990 | new / draft |
+| JLPTLord N2 2986 | [生計](entries/1378/1378920-seikei.org) | せいけい | 1378920 | new / draft |
+| JLPTLord N2 2987 | [家計](entries/1191/1191910-kakei.org) | かけい | 1191910 | new / draft |
+| JLPTLord N2 2988 | [貯蓄](entries/1597/1597700-chochiku.org) | ちょちく | 1597700 | new / draft |
+| JLPTLord N2 2989 | [浪費](entries/1560/1560800-rouhi.org) | ろうひ | 1560800 | new / draft |
+| JLPTLord N2 2991 | [倹約](entries/1256/1256010-kenyaku.org) | けんやく | 1256010 | new / draft |
+| JLPTLord N2 2993 | [経費](entries/1251/1251640-keihi.org) | けいひ | 1251640 | new / draft |
+| JLPTLord N2 2995 | [光熱費](entries/1273/1273110-kounetsuhi.org) | こうねつひ | 1273110 | new / draft |
+| JLPTLord N2 2996 | [食費](entries/1358/1358590-shokuhi.org) | しょくひ | 1358590 | new / draft |
+| JLPTLord N2 2997 | [交通費](entries/1272/1272410-koutsuuhi.org) | こうつうひ | 1272410 | new / draft |
+| JLPTLord N2 2998 | [通信費](entries/1687/1687240-tsuushinhi.org) | つうしんひ | 1687240 | new / draft |
+| JLPTLord N2 2999 | [雑費](entries/1299/1299510-zappi.org) | ざっぴ | 1299510 | new / draft |
+| JLPTLord N2 3000 | [医療費](entries/1930/1930280-iryouhi.org) | いりょうひ | 1930280 | new / draft |
+| JLPTLord N2 3009 | [膨張](entries/1520/1520010-bouchou.org) | ぼうちょう | 1520010 | new / draft |
+| JLPTLord N2 3010 | [収縮](entries/1330/1330670-shuushuku.org) | しゅうしゅく | 1330670 | new / draft |
+| JLPTLord N2 3012 | [圧迫](entries/1153/1153310-appaku.org) | あっぱく | 1153310 | new / draft |
+| JLPTLord N2 3013 | [抑圧](entries/1547/1547270-yokuatsu.org) | よくあつ | 1547270 | new / draft |
+| JLPTLord N2 3014 | [弾圧](entries/1419/1419410-danatsu.org) | だんあつ | 1419410 | new / draft |
+| JLPTLord N2 3015 | [迫害](entries/1475/1475730-hakugai.org) | はくがい | 1475730 | new / draft |
+| JLPTLord N2 3016 | [脅迫](entries/1238/1238110-kyouhaku.org) | きょうはく | 1238110 | new / draft |
+| JLPTLord N2 3017 | [恐喝](entries/1236/1236700-kyoukatsu.org) | きょうかつ | 1236700 | new / draft |
+| JLPTLord N2 3018 | [詐欺](entries/1291/1291690-sagi.org) | さぎ | 1291690 | new / draft |
+| JLPTLord N2 3019 | [汚職](entries/1179/1179010-oshoku.org) | おしょく | 1179010 | new / draft |
+| JLPTLord N2 3020 | [賄賂](entries/1562/1562520-wairo.org) | わいろ | 1562520 | new / draft |
+| JLPTLord N2 3021 | [横領](entries/1181/1181130-ouryou.org) | おうりょう | 1181130 | new / draft |
+| JLPTLord N2 3022 | [窃盗](entries/1386/1386110-settou.org) | せっとう | 1386110 | new / draft |
+| JLPTLord N2 3024 | [殺人](entries/1299/1299100-satsujin.org) | さつじん | 1299100 | new / draft |
+| JLPTLord N2 3025 | [放火](entries/1516/1516560-houka.org) | ほうか | 1516560 | new / draft |
+| JLPTLord N2 3034 | [死刑](entries/1310/1310810-shikei.org) | しけい | 1310810 | new / draft |
+| JLPTLord N2 3035 | [冤罪](entries/1564/1564270-enzai.org) | えんざい | 1564270 | new / draft |
+| JLPTLord N2 3040 | [自白](entries/1318/1318530-jihaku.org) | じはく | 1318530 | new / draft |
+| JLPTLord N2 3041 | [供述](entries/1233/1233720-kyoujutsu.org) | きょうじゅつ | 1233720 | new / draft |
+| JLPTLord N2 3042 | [弁論](entries/1513/1513170-benron.org) | べんろん | 1513170 | new / draft |
+| JLPTLord N2 3044 | [棄却](entries/1220/1220660-kikyaku.org) | ききゃく | 1220660 | new / draft |
+| JLPTLord N2 3045 | [控訴](entries/1279/1279090-kouso.org) | こうそ | 1279090 | new / draft |
+| JLPTLord N2 3046 | [上告](entries/1353/1353200-joukoku.org) | じょうこく | 1353200 | new / draft |
+| JLPTLord N2 3048 | [調停](entries/1429/1429260-choutei.org) | ちょうてい | 1429260 | new / draft |
+| JLPTLord N2 3049 | [仲裁](entries/1425/1425900-chuusai.org) | ちゅうさい | 1425900 | new / draft |
+| JLPTLord N2 3050 | [示談](entries/1317/1317140-jidan.org) | じだん | 1317140 | new / draft |
+| JLPTLord N2 3056 | [天災](entries/1439/1439110-tensai.org) | てんさい | 1439110 | new / draft |
+| JLPTLord N2 3057 | [人災](entries/1367/1367750-jinsai.org) | じんさい | 1367750 | new / draft |
+| JLPTLord N2 3061 | [救済](entries/1229/1229150-kyuusai.org) | きゅうさい | 1229150 | new / draft |
+| JLPTLord N2 3064 | [再建](entries/1292/1292590-saiken.org) | さいけん | 1292590 | new / draft |
+| JLPTLord N2 3065 | [修復](entries/1332/1332320-shuufuku.org) | しゅうふく | 1332320 | new / draft |
+| JLPTLord N2 3066 | [補修](entries/1514/1514560-hoshuu.org) | ほしゅう | 1514560 | new / draft |
+| JLPTLord N2 3067 | [改修](entries/1200/1200880-kaishuu.org) | かいしゅう | 1200880 | new / draft |
+| JLPTLord N2 3073 | [施工](entries/1618/1618920-shikou.org) | しこう | 1618920 | new / draft |
+| JLPTLord N2 3087 | [宅地](entries/1415/1415770-takuchi.org) | たくち | 1415770 | new / draft |
+| JLPTLord N2 3088 | [用地](entries/1546/1546370-youchi.org) | ようち | 1546370 | new / draft |
+| JLPTLord N2 3089 | [跡地](entries/1919/1919640-atochi.org) | あとち | 1919640 | new / draft |
+| JLPTLord N2 3090 | [更地](entries/1279/1279420-sarachi.org) | さらち | 1279420 | new / draft |
+| JLPTLord N2 3091 | [空き地](entries/1245/1245340-akichi.org) | あきち | 1245340 | new / draft |
+| JLPTLord N2 3095 | [台地](entries/1412/1412710-daichi.org) | だいち | 1412710 | new / draft |
+| JLPTLord N2 3096 | [平地](entries/1583/1583890-heichi.org) | へいち | 1583890 | new / draft |
+| JLPTLord N2 3097 | [高地](entries/1283/1283790-kouchi.org) | こうち | 1283790 | new / draft |
+| JLPTLord N2 3098 | [低地](entries/1434/1434580-teichi.org) | ていち | 1434580 | new / draft |
+| JLPTLord N2 3099 | [山地](entries/1303/1303030-sanchi.org) | さんち | 1303030 | new / draft |
+| Open Anki N1 1 | [現像](entries/1263/1263800-genzou.org) | げんぞう | 1263800 | new / draft |
+| Open Anki N1 3 | [見地](entries/1259/1259870-kenchi.org) | けんち | 1259870 | new / draft |
+| Open Anki N1 5 | [限定](entries/1264/1264670-gentei.org) | げんてい | 1264670 | new / draft |
+| Open Anki N1 6 | [原点](entries/1262/1262160-genten.org) | げんてん | 1262160 | new / draft |
+| Open Anki N1 7 | [原典](entries/1262/1262150-genten.org) | げんてん | 1262150 | new / draft |
+| Open Anki N1 8 | [原爆](entries/1262/1262220-genbaku.org) | げんばく | 1262220 | new / draft |
+| Open Anki N1 9 | [原文](entries/1262/1262340-genbun.org) | げんぶん | 1262340 | new / draft |
+| Open Anki N1 11 | [賢明](entries/1260/1260320-kenmei.org) | けんめい | 1260320 | new / draft |
+| Open Anki N1 13 | [原油](entries/1262/1262430-genyu.org) | げんゆ | 1262430 | new / draft |
+| Open Anki N1 14 | [兼用](entries/1256/1256720-kenyou.org) | けんよう | 1256720 | new / draft |
+| Open Anki N1 15 | [権力](entries/1258/1258220-kenryoku.org) | けんりょく | 1258220 | new / draft |
+| Open Anki N1 16 | [言論](entries/1264/1264580-genron.org) | げんろん | 1264580 | new / draft |
+| Open Anki N1 18 | [語彙](entries/1271/1271260-goi.org) | ごい | 1271260 | new / draft |
+| Open Anki N1 20 | [甲](entries/1578/1578730-kou.org) | こう | 1578730 | new / draft |
+| Open Anki N1 22 | [好意](entries/1277/1277530-koui.org) | こうい | 1277530 | new / draft |
+| Open Anki N1 24 | [合意](entries/1284/1284550-goui.org) | ごうい | 1284550 | new / draft |
+| Open Anki N1 25 | [工学](entries/1278/1278010-kougaku.org) | こうがく | 1278010 | new / draft |
+| Open Anki N1 27 | [合議](entries/1284/1284700-gougi.org) | ごうぎ | 1284700 | new / draft |
+| Open Anki N1 28 | [皇居](entries/1280/1280380-koukyo.org) | こうきょ | 1280380 | new / draft |
+| Open Anki N1 31 | [興業](entries/1238/1238240-kougyou.org) | こうぎょう | 1238240 | new / draft |
+| Open Anki N1 33 | [交互](entries/1271/1271940-kougo.org) | こうご | 1271940 | new / draft |
+| Open Anki N1 35 | [考古学](entries/1281/1281120-koukogaku.org) | こうこがく | 1281120 | new / draft |
+| Open Anki N1 36 | [工作](entries/1278/1278100-kousaku.org) | こうさく | 1278100 | new / draft |
+| Open Anki N1 38 | [鉱山](entries/1282/1282570-kouzan.org) | こうざん | 1282570 | new / draft |
+| Open Anki N1 40 | [口述](entries/1276/1276310-koujutsu.org) | こうじゅつ | 1276310 | new / draft |
+| Open Anki N1 43 | [高尚](entries/1283/1283610-koushou.org) | こうしょう | 1283610 | new / draft |
+| Open Anki N1 45 | [行進](entries/1281/1281980-koushin.org) | こうしん | 1281980 | new / draft |
+| Open Anki N1 46 | [香辛料](entries/1283/1283050-koushinryou.org) | こうしんりょう | 1283050 | new / draft |
+| Open Anki N1 50 | [公然](entries/1274/1274190-kouzen.org) | こうぜん | 1274190 | new / draft |
+| Open Anki N1 54 | [光沢](entries/1273/1273050-koutaku.org) | こうたく | 1273050 | new / draft |
+
+### Final audit
+
+Completed on 2026-10-05: **200 distinct additions in 200 individual word
+commits**, recorded in **20 batches of 10**. The branch contains **3,100 new
+entry files versus `origin/main`**. This continuation preserves every JMdict
+sense, form, reading, restriction and source fingerprint, and supplies
+**288 original Ukrainian glosses and usage notes**, plus **600 graded examples**
+with Japanese, kana readings, Ukrainian and English translations.
+
+All 200 entries passed JMdict validation, Org lint and doctor **100/100**,
+with **zero errors and warnings**. The full test suite passed: **137 tests,
+22,043 assertions, zero failures, errors or skips**. Source reconciliation and
+commit-history checks confirm unique IDs, exact manifest matches, one entry
+per addition commit, and Ihor's Git identity. Existing committed entries were
+preserved; the two original untracked files retain their original checksums.
+
+The source split is **170 JLPTLord N2 words and 30 Open Anki N1 words**.
+These are documented study-list assignments, not an official JLPT syllabus.
+The reconciled N2 pools have no unused candidates left; the reconciled Open
+Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
+entries with draft metadata, awaiting independent linguistic review.
 
 ## Maturity workflow
 
@@ -4933,3 +8582,405 @@ content and remain at `new` until editorial review.
 | N2-1099 | [取り出す](entries/1326/1326770-toridasu.org) | とりだす | toridasu | 1326770 | learner | draft | **new** | Editorial review |
 | N2-1100 | [捕る](entries/1514/1514140-toru.org) | とる | toru | 1514140 | learner | draft | **new** | Editorial review |
 | N2-1101 | [トレーニング](entries/1087/1087100-toreeningu.org) | トレーニング | toreeningu | 1087100 | learner | draft | **new** | Editorial review |
+| N2-1102 | [銅](entries/1582/1582390-dou.org) | どう | dou | 1582390 | learner | draft | **new** | Editorial review |
+| N2-1103 | [同格](entries/1452/1452000-doukaku.org) | どうかく | doukaku | 1452000 | learner | draft | **new** | Editorial review |
+| N2-1104 | [動作](entries/1451/1451350-dousa.org) | どうさ | dousa | 1451350 | learner | draft | **new** | Editorial review |
+| N2-1105 | [どうせ](entries/1008/1008950-douse.org) | どうせ | douse | 1008950 | learner | draft | **new** | Editorial review |
+| N2-1106 | [どうぞ宜しく](entries/1008/1008960-douzoyoroshiku.org) | どうぞよろしく | douzoyoroshiku | 1008960 | learner | draft | **new** | Editorial review |
+| N2-1107 | [童話](entries/1454/1454000-douwa.org) | どうわ | douwa | 1454000 | learner | draft | **new** | Editorial review |
+| N2-1108 | [ドキドキ](entries/1009/1009050-dokidoki.org) | ドキドキ | dokidoki | 1009050 | learner | draft | **new** | Editorial review |
+| N2-1109 | [退く](entries/1595/1595080-doku.org) | どく | doku | 1595080 | learner | draft | **new** | Editorial review |
+| N2-1110 | [どっと](entries/1009/1009210-dotto.org) | どっと | dotto | 1009210 | learner | draft | **new** | Editorial review |
+| N2-1111 | [怒鳴る](entries/1445/1445740-donaru.org) | どなる | donaru | 1445740 | learner | draft | **new** | Editorial review |
+| N2-1112 | [丼](entries/1562/1562970-donburi.org) | どんぶり | donburi | 1562970 | learner | draft | **new** | Editorial review |
+| N2-1113 | [内科](entries/1457/1457830-naika.org) | ないか | naika | 1457830 | learner | draft | **new** | Editorial review |
+| N2-1114 | [内線](entries/1458/1458650-naisen.org) | ないせん | naisen | 1458650 | learner | draft | **new** | Editorial review |
+| N2-1115 | [ナイロン](entries/1089/1089930-nairon.org) | ナイロン | nairon | 1089930 | learner | draft | **new** | Editorial review |
+| N2-1116 | [仲直り](entries/1426/1426000-nakanaori.org) | なかなおり | nakanaori | 1426000 | learner | draft | **new** | Editorial review |
+| N2-1117 | [中身](entries/1599/1599430-nakami.org) | なかみ | nakami | 1599430 | learner | draft | **new** | Editorial review |
+| N2-1118 | [中指](entries/1581/1581690-nakayubi.org) | なかゆび | nakayubi | 1581690 | learner | draft | **new** | Editorial review |
+| N2-1119 | [仲良し](entries/1426/1426100-nakayoshi.org) | なかよし | nakayoshi | 1426100 | learner | draft | **new** | Editorial review |
+| N2-1120 | [慰める](entries/1156/1156890-nagusameru.org) | なぐさめる | nagusameru | 1156890 | learner | draft | **new** | Editorial review |
+| N2-1121 | [殴る](entries/1181/1181390-naguru.org) | なぐる | naguru | 1181390 | learner | draft | **new** | Editorial review |
+| N2-1122 | [成す](entries/1157/1157130-nasu.org) | なす | nasu | 1157130 | learner | draft | **new** | Editorial review |
+| N2-1123 | [謎々](entries/1599/1599500-nazonazo.org) | なぞなぞ | nazonazo | 1599500 | learner | draft | **new** | Editorial review |
+| N2-1124 | [なだらか](entries/1632/1632290-nadaraka.org) | なだらか | nadaraka | 1632290 | learner | draft | **new** | Editorial review |
+| N2-1125 | [懐かしい](entries/1200/1200490-natsukashii.org) | なつかしい | natsukashii | 1200490 | learner | draft | **new** | Editorial review |
+| N2-1126 | [撫でる](entries/1498/1498290-naderu.org) | なでる | naderu | 1498290 | learner | draft | **new** | Editorial review |
+| N2-1127 | [斜め](entries/1322/1322400-naname.org) | ななめ | naname | 1322400 | learner | draft | **new** | Editorial review |
+| N2-1128 | [何しろ](entries/1188/1188330-nanishiro.org) | なにしろ | nanishiro | 1188330 | learner | draft | **new** | Editorial review |
+| N2-1129 | [何々](entries/1599/1599580-naninani.org) | なになに | naninani | 1599580 | learner | draft | **new** | Editorial review |
+| N2-1130 | [何分](entries/1189/1189310-nanibun.org) | なにぶん | nanibun | 1189310 | learner | draft | **new** | Editorial review |
+| N2-1131 | [生意気](entries/1378/1378790-namaiki.org) | なまいき | namaiki | 1378790 | learner | draft | **new** | Editorial review |
+| N2-1132 | [倣う](entries/1599/1599680-narau.org) | ならう | narau | 1599680 | learner | draft | **new** | Editorial review |
+| N2-1133 | [鳴らす](entries/1532/1532880-narasu.org) | ならす | narasu | 1532880 | learner | draft | **new** | Editorial review |
+| N2-1134 | [生る](entries/1611/1611000-naru.org) | なる | naru | 1611000 | learner | draft | **new** | Editorial review |
+| N2-1135 | [南極](entries/1460/1460180-nankyoku.org) | なんきょく | nankyoku | 1460180 | learner | draft | **new** | Editorial review |
+| N2-1136 | [何となく](entries/1599/1599730-nantonaku.org) | なんとなく | nantonaku | 1599730 | learner | draft | **new** | Editorial review |
+| N2-1137 | [何とも](entries/1188/1188690-nantomo.org) | なんとも | nantomo | 1188690 | learner | draft | **new** | Editorial review |
+| N2-1138 | [ナンバー](entries/1090/1090860-nanbaa.org) | ナンバー | nanbaa | 1090860 | learner | draft | **new** | Editorial review |
+| N2-1139 | [南米](entries/1460/1460570-nanbei.org) | なんべい | nanbei | 1460570 | learner | draft | **new** | Editorial review |
+| N2-1140 | [南北](entries/1460/1460600-nanboku.org) | なんぼく | nanboku | 1460600 | learner | draft | **new** | Editorial review |
+| N2-1141 | [煮える](entries/1322/1322490-nieru.org) | にえる | nieru | 1322490 | learner | draft | **new** | Editorial review |
+| N2-1142 | [匂う](entries/1599/1599780-niou.org) | におう | niou | 1599780 | learner | draft | **new** | Editorial review |
+| N2-1143 | [逃がす](entries/1450/1450320-nigasu.org) | にがす | nigasu | 1450320 | learner | draft | **new** | Editorial review |
+| N2-1144 | [憎い](entries/1403/1403390-nikui.org) | にくい | nikui | 1403390 | learner | draft | **existing** | Editorial review |
+| N2-1145 | [憎む](entries/1403/1403440-nikumu.org) | にくむ | nikumu | 1403440 | learner | draft | **new** | Editorial review |
+| N2-1146 | [憎らしい](entries/1403/1403450-nikurashii.org) | にくらしい | nikurashii | 1403450 | learner | draft | **new** | Editorial review |
+| N2-1147 | [ニコニコ](entries/1091/1091130-nikoniko.org) | ニコニコ | nikoniko | 1091130 | learner | draft | **new** | Editorial review |
+| N2-1148 | [虹](entries/1463/1463740-niji.org) | にじ | niji | 1463740 | learner | draft | **new** | Editorial review |
+| N2-1149 | [日時](entries/1464/1464110-nichiji.org) | にちじ | nichiji | 1464110 | learner | draft | **new** | Editorial review |
+| N2-1150 | [日用品](entries/1464/1464910-nichiyouhin.org) | にちようひん | nichiyouhin | 1464910 | learner | draft | **new** | Editorial review |
+| N2-1151 | [日課](entries/1463/1463860-nikka.org) | にっか | nikka | 1463860 | learner | draft | **new** | Editorial review |
+| N2-1152 | [日程](entries/1464/1464300-nittei.org) | にってい | nittei | 1464300 | learner | draft | **new** | Editorial review |
+| N2-1153 | [鈍い](entries/1582/1582430-nibui.org) | にぶい | nibui | 1582430 | learner | draft | **new** | Editorial review |
+| N2-1154 | [入社](entries/1466/1466260-nyuusha.org) | にゅうしゃ | nyuusha | 1466260 | learner | draft | **new** | Editorial review |
+| N2-1155 | [女房](entries/1345/1345420-nyoubou.org) | にょうぼう | nyoubou | 1345420 | learner | draft | **new** | Editorial review |
+| N2-1156 | [睨む](entries/1569/1569880-niramu.org) | にらむ | niramu | 1569880 | learner | draft | **new** | Editorial review |
+| N2-1157 | [煮る](entries/1322/1322540-niru.org) | にる | niru | 1322540 | learner | draft | **new** | Editorial review |
+| N2-1158 | [俄](entries/1599/1599920-niwaka.org) | にわか | niwaka | 1599920 | learner | draft | **new** | Editorial review |
+| N2-1159 | [縫う](entries/1517/1517700-nuu.org) | ぬう | nuu | 1517700 | learner | draft | **new** | Editorial review |
+| N2-1160 | [滑る](entries/2016/2016150-numeru.org) | ぬめる | numeru | 2016150 | learner | draft | **new** | Editorial review |
+| N2-1161 | [濡らす](entries/1467/1467610-nurasu.org) | ぬらす | nurasu | 1467610 | learner | draft | **new** | Editorial review |
+| N2-1162 | [螺子](entries/1585/1585010-neji.org) | ネジ | neji | 1585010 | learner | draft | **new** | Editorial review |
+| N2-1163 | [捩る](entries/1611/1611090-nejiru.org) | ねじる | nejiru | 1611090 | learner | draft | **new** | Editorial review |
+| N2-1164 | [ネックレス](entries/1093/1093000-nekkuresu.org) | ネックレス | nekkuresu | 1093000 | learner | draft | **new** | Editorial review |
+| N2-1165 | [熱する](entries/1467/1467730-nessuru.org) | ねっする | nessuru | 1467730 | learner | draft | **new** | Editorial review |
+| N2-1166 | [寝巻き](entries/1360/1360040-nemaki.org) | ねまき | nemaki | 1360040 | learner | draft | **new** | Editorial review |
+| N2-1167 | [狙い](entries/1396/1396550-nerai.org) | ねらい | nerai | 1396550 | learner | draft | **new** | Editorial review |
+| N2-1168 | [狙う](entries/1396/1396590-nerau.org) | ねらう | nerau | 1396590 | learner | draft | **new** | Editorial review |
+| N2-1169 | [年度](entries/1469/1469050-nendo.org) | ねんど | nendo | 1469050 | learner | draft | **new** | Editorial review |
+| N2-1170 | [農産物](entries/1470/1470710-nousanbutsu.org) | のうさんぶつ | nousanbutsu | 1470710 | learner | draft | **new** | Editorial review |
+| N2-1171 | [農村](entries/1470/1470730-nouson.org) | のうそん | nouson | 1470730 | learner | draft | **new** | Editorial review |
+| N2-1172 | [濃度](entries/1469/1469970-noudo.org) | のうど | noudo | 1469970 | learner | draft | **new** | Editorial review |
+| N2-1173 | [農薬](entries/1470/1470780-nouyaku.org) | のうやく | nouyaku | 1470780 | learner | draft | **new** | Editorial review |
+| N2-1174 | [能率](entries/1470/1470330-nouritsu.org) | のうりつ | nouritsu | 1470330 | learner | draft | **new** | Editorial review |
+| N2-1175 | [退ける](entries/1411/1411270-nokeru.org) | のける | nokeru | 1411270 | learner | draft | **new** | Editorial review |
+| N2-1176 | [鋸](entries/1232/1232930-nokogiri.org) | のこぎり | nokogiri | 1232930 | learner | draft | **new** | Editorial review |
+| N2-1177 | [残らず](entries/1611/1611130-nokorazu.org) | のこらず | nokorazu | 1611130 | learner | draft | **new** | Editorial review |
+| N2-1178 | [覗く](entries/1470/1470840-nozoku.org) | のぞく | nozoku | 1470840 | learner | draft | **new** | Editorial review |
+| N2-1179 | [上り](entries/1352/1352510-nobori.org) | のぼり | nobori | 1352510 | learner | draft | **new** | Editorial review |
+| N2-1180 | [乗り換え](entries/1600/1600460-norikae.org) | のりかえ | norikae | 1600460 | learner | draft | **new** | Editorial review |
+| N2-1181 | [載る](entries/2649/2649690-noru.org) | のる | noru | 2649690 | learner | draft | **new** | Editorial review |
+| N2-1182 | [のろのろ](entries/1010/1010040-noronoro.org) | のろのろ | noronoro | 1010040 | learner | draft | **new** | Editorial review |
+| N2-1183 | [呑気](entries/1600/1600560-nonki.org) | のんき | nonki | 1600560 | learner | draft | **new** | Editorial review |
+| N2-1184 | [灰色](entries/1201/1201970-haiiro.org) | はいいろ | haiiro | 1201970 | learner | draft | **new** | Editorial review |
+| N2-1185 | [俳句](entries/1471/1471900-haiku.org) | はいく | haiku | 1471900 | learner | draft | **new** | Editorial review |
+| N2-1186 | [這う](entries/1474/1474200-hau.org) | はう | hau | 1474200 | learner | draft | **new** | Editorial review |
+| N2-1187 | [生える](entries/1378/1378490-haeru.org) | はえる | haeru | 1378490 | learner | draft | **new** | Editorial review |
+| N2-1188 | [秤](entries/1474/1474220-hakari.org) | はかり | hakari | 1474220 | learner | draft | **new** | Editorial review |
+| N2-1189 | [剥がす](entries/1600/1600670-hagasu.org) | はがす | hagasu | 1600670 | learner | draft | **new** | Editorial review |
+| N2-1190 | [はきはき](entries/1010/1010090-hakihaki.org) | はきはき | hakihaki | 1010090 | learner | draft | **new** | Editorial review |
+| N2-1191 | [掃く](entries/1399/1399760-haku.org) | はく | haku | 1399760 | learner | draft | **new** | Editorial review |
+| N2-1192 | [歯車](entries/1313/1313350-haguruma.org) | はぐるま | haguruma | 1313350 | learner | draft | **new** | Editorial review |
+| N2-1193 | [挟まる](entries/1236/1236840-hasamaru.org) | はさまる | hasamaru | 1236840 | learner | draft | **new** | Editorial review |
+| N2-1194 | [挟む](entries/1600/1600740-hasamu.org) | はさむ | hasamu | 1600740 | learner | draft | **new** | Editorial review |
+| N2-1195 | [梯子](entries/1436/1436480-hashigo.org) | はしご | hashigo | 1436480 | learner | draft | **new** | Editorial review |
+| N2-1196 | [初めに](entries/1307/1307520-hajimeni.org) | はじめに | hajimeni | 1307520 | learner | draft | **new** | Editorial review |
+| N2-1197 | [初めまして](entries/1625/1625780-hajimemashite.org) | はじめまして | hajimemashite | 1625780 | learner | draft | **new** | Editorial review |
+| N2-1198 | [斜](entries/2085/2085880-hasu.org) | はす | hasu | 2085880 | learner | draft | **new** | Editorial review |
+| N2-1199 | [外れる](entries/1203/1203310-hazureru.org) | はずれる | hazureru | 1203310 | learner | draft | **new** | Editorial review |
+| N2-1200 | [果たして](entries/1600/1600780-hatashite.org) | はたして | hatashite | 1600780 | learner | draft | **new** | Editorial review |
+| N2-1201 | [肌着](entries/1476/1476500-hadagi.org) | はだぎ | hadagi | 1476500 | learner | draft | **new** | Editorial review |
+| N2-1202 | [鉢](entries/1477/1477090-hachi.org) | はち | hachi | 1477090 | learner | draft | **new** | Editorial review |
+| N2-1203 | [発揮](entries/1477/1477250-hakki.org) | はっき | hakki | 1477250 | learner | draft | **new** | Editorial review |
+| N2-1204 | [発射](entries/1477/1477490-hassha.org) | はっしゃ | hassha | 1477490 | learner | draft | **new** | Editorial review |
+| N2-1205 | [発想](entries/1477/1477660-hassou.org) | はっそう | hassou | 1477660 | learner | draft | **new** | Editorial review |
+| N2-1206 | [発電](entries/1477/1477750-hatsuden.org) | はつでん | hatsuden | 1477750 | learner | draft | **new** | Editorial review |
+| N2-1207 | [発売](entries/1477/1477810-hatsubai.org) | はつばい | hatsubai | 1477810 | learner | draft | **new** | Editorial review |
+| N2-1208 | [派手](entries/1471/1471140-hade.org) | はで | hade | 1471140 | learner | draft | **new** | Editorial review |
+| N2-1209 | [話し合い](entries/1600/1600910-hanashiai.org) | はなしあい | hanashiai | 1600910 | learner | draft | **new** | Editorial review |
+| N2-1210 | [話しかける](entries/1562/1562300-hanashikakeru.org) | はなしかける | hanashikakeru | 1562300 | learner | draft | **new** | Editorial review |
+| N2-1211 | [話し中](entries/1600/1600920-hanashichuu.org) | はなしちゅう | hanashichuu | 1600920 | learner | draft | **new** | Editorial review |
+| N2-1212 | [花火](entries/1194/1194580-hanabi.org) | はなび | hanabi | 1194580 | learner | draft | **new** | Editorial review |
+| N2-1213 | [花嫁](entries/1194/1194570-hanayome.org) | はなよめ | hanayome | 1194570 | learner | draft | **new** | Editorial review |
+| N2-1214 | [放れる](entries/1516/1516540-hanareru.org) | はなれる | hanareru | 1516540 | learner | draft | **new** | Editorial review |
+| N2-1215 | [破片](entries/1471/1471420-hahen.org) | はへん | hahen | 1471420 | learner | draft | **new** | Editorial review |
+| N2-1216 | [歯磨き](entries/1601/1601040-hamigaki.org) | はみがき | hamigaki | 1601040 | learner | draft | **new** | Editorial review |
+| N2-1217 | [嵌める](entries/1566/1566420-hameru.org) | はめる | hameru | 1566420 | learner | draft | **new** | Editorial review |
+| N2-1218 | [流行る](entries/1552/1552310-hayaru.org) | はやる | hayaru | 1552310 | learner | draft | **new** | Editorial review |
+| N2-1219 | [払い込む](entries/1501/1501580-haraikomu.org) | はらいこむ | haraikomu | 1501580 | learner | draft | **new** | Editorial review |
+| N2-1220 | [払い戻す](entries/1501/1501610-haraimodosu.org) | はらいもどす | haraimodosu | 1501610 | learner | draft | **new** | Editorial review |
+| N2-1221 | [針金](entries/1366/1366250-harigane.org) | はりがね | harigane | 1366250 | learner | draft | **new** | Editorial review |
+| N2-1222 | [張り切る](entries/1427/1427870-harikiru.org) | はりきる | harikiru | 1427870 | learner | draft | **new** | Editorial review |
+| N2-1223 | [反映](entries/1601/1601160-hanei.org) | はんえい | hanei | 1601160 | learner | draft | **new** | Editorial review |
+| N2-1224 | [半径](entries/1479/1479230-hankei.org) | はんけい | hankei | 1479230 | learner | draft | **new** | Editorial review |
+| N2-1225 | [判子](entries/1478/1478550-hanko.org) | はんこ | hanko | 1478550 | learner | draft | **new** | Editorial review |
+| N2-1226 | [判事](entries/1478/1478560-hanji.org) | はんじ | hanji | 1478560 | learner | draft | **new** | Editorial review |
+| N2-1227 | [反省](entries/1480/1480540-hansei.org) | はんせい | hansei | 1480540 | learner | draft | **new** | Editorial review |
+| N2-1228 | [ハンドル](entries/1096/1096830-handoru.org) | ハンドル | handoru | 1096830 | learner | draft | **new** | Editorial review |
+| N2-1229 | [バイバイ](entries/1983/1983760-baibai.org) | バイバイ | baibai | 1983760 | learner | draft | **new** | Editorial review |
+| N2-1230 | [売買](entries/1474/1474050-baibai.org) | ばいばい | baibai | 1474050 | learner | draft | **new** | Editorial review |
+| N2-1231 | [馬鹿らしい](entries/1612/1612910-bakarashii.org) | ばからしい | bakarashii | 1612910 | learner | draft | **new** | Editorial review |
+| N2-1232 | [馬穴](entries/1098/1098340-baketsu.org) | バケツ | baketsu | 1098340 | learner | draft | **new** | Editorial review |
+| N2-1233 | [バッグ](entries/1099/1099100-baggu.org) | バック | baggu | 1099100 | learner | draft | **existing** | Editorial review |
+| N2-1234 | [発条](entries/1099/1099490-bane.org) | ばね | bane | 1099490 | learner | draft | **new** | Editorial review |
+| N2-1235 | [バランス](entries/1099/1099690-baransu.org) | バランス | baransu | 1099690 | learner | draft | **new** | Editorial review |
+| N2-1236 | [万歳](entries/1601/1601350-banzai.org) | ばんざい | banzai | 1601350 | learner | draft | **new** | Editorial review |
+| N2-1237 | [番地](entries/1482/1482360-banchi.org) | ばんち | banchi | 1482360 | learner | draft | **new** | Editorial review |
+| N2-1238 | [バンド](entries/1100/1100240-bando.org) | バンド | bando | 1100240 | learner | draft | **new** | Editorial review |
+| N2-1239 | [パターン](entries/1101/1101600-pataan.org) | パターン | pataan | 1101600 | learner | draft | **new** | Editorial review |
+| N2-1240 | [パンツ](entries/1103/1103270-pantsu.org) | パンツ | pantsu | 1103270 | learner | draft | **new** | Editorial review |
+| N2-1241 | [日当たり](entries/1601/1601420-hiatari.org) | ひあたり | hiatari | 1601420 | learner | draft | **new** | Editorial review |
+| N2-1242 | [比較的](entries/1483/1483600-hikakuteki.org) | ひかくてき | hikakuteki | 1483600 | learner | draft | **new** | Editorial review |
+| N2-1243 | [日陰](entries/1463/1463840-hikage.org) | ひかげ | hikage | 1463840 | learner | draft | **new** | Editorial review |
+| N2-1244 | [引き受ける](entries/1601/1601520-hikiukeru.org) | ひきうける | hikiukeru | 1601520 | learner | draft | **new** | Editorial review |
+| N2-1245 | [引き返す](entries/1169/1169140-hikikaesu.org) | ひきかえす | hikikaesu | 1169140 | learner | draft | **new** | Editorial review |
+| N2-1246 | [引き算](entries/1601/1601610-hikizan.org) | ひきざん | hikizan | 1601610 | learner | draft | **new** | Editorial review |
+| N2-1247 | [引き止める](entries/1601/1601750-hikitomeru.org) | ひきとめる | hikitomeru | 1601750 | learner | draft | **new** | Editorial review |
+| N2-1248 | [引き分け](entries/1169/1169120-hikiwake.org) | ひきわけ | hikiwake | 1169120 | learner | draft | **new** | Editorial review |
+| N2-1249 | [日差し](entries/1601/1601830-hizashi.org) | ひざし | hizashi | 1601830 | learner | draft | **new** | Editorial review |
+| N2-1250 | [肘](entries/1487/1487380-hiji.org) | ひじ | hiji | 1487380 | learner | draft | **new** | Editorial review |
+| N2-1251 | [引っかかる](entries/1169/1169350-hikkakaru.org) | ひっかかる | hikkakaru | 1169350 | learner | draft | **new** | Editorial review |
+| N2-1252 | [ひっくり返す](entries/1601/1601870-hikkurikaesu.org) | ひっくりかえす | hikkurikaesu | 1601870 | learner | draft | **new** | Editorial review |
+| N2-1253 | [ひっくり返る](entries/1169/1169320-hikkurikaeru.org) | ひっくりかえる | hikkurikaeru | 1169320 | learner | draft | **new** | Editorial review |
+| N2-1254 | [引っ越し](entries/1601/1601880-hikkoshi.org) | ひっこし | hikkoshi | 1601880 | learner | draft | **new** | Editorial review |
+| N2-1255 | [引っ込む](entries/1169/1169390-hikkomu.org) | ひっこむ | hikkomu | 1169390 | learner | draft | **new** | Editorial review |
+| N2-1256 | [筆者](entries/1487/1487830-hissha.org) | ひっしゃ | hissha | 1487830 | learner | draft | **new** | Editorial review |
+| N2-1257 | [必需品](entries/1487/1487500-hitsujuhin.org) | ひつじゅひん | hitsujuhin | 1487500 | learner | draft | **new** | Editorial review |
+| N2-1258 | [人差し指](entries/1601/1601940-hitosashiyubi.org) | ひとさしゆび | hitosashiyubi | 1601940 | learner | draft | **new** | Editorial review |
+| N2-1259 | [一通り](entries/1164/1164910-hitotoori.org) | ひととおり | hitotoori | 1164910 | learner | draft | **new** | Editorial review |
+| N2-1260 | [人通り](entries/1368/1368820-hitodoori.org) | ひとどおり | hitodoori | 1368820 | learner | draft | **new** | Editorial review |
+| N2-1261 | [一先ず](entries/1601/1601990-hitomazu.org) | ひとまず | hitomazu | 1601990 | learner | draft | **new** | Editorial review |
+| N2-1262 | [瞳](entries/1453/1453900-hitomi.org) | ひとみ | hitomi | 1453900 | learner | draft | **new** | Editorial review |
+| N2-1263 | [一休み](entries/1161/1161830-hitoyasumi.org) | ひとやすみ | hitoyasumi | 1161830 | learner | draft | **new** | Editorial review |
+| N2-1264 | [独り言](entries/1455/1455670-hitorigoto.org) | ひとりごと | hitorigoto | 1455670 | learner | draft | **new** | Editorial review |
+| N2-1265 | [独りでに](entries/1455/1455660-hitorideni.org) | ひとりでに | hitorideni | 1455660 | learner | draft | **new** | Editorial review |
+| N2-1266 | [皮肉](entries/1483/1483900-hiniku.org) | ひにく | hiniku | 1483900 | learner | draft | **new** | Editorial review |
+| N2-1267 | [日にち](entries/1611/1611370-hinichi.org) | ひにち | hinichi | 1611370 | learner | draft | **new** | Editorial review |
+| N2-1268 | [捻る](entries/1469/1469530-hineru.org) | ひねる | hineru | 1469530 | learner | draft | **new** | Editorial review |
+| N2-1269 | [日の入り](entries/1463/1463800-hinoiri.org) | ひのいり | hinoiri | 1463800 | learner | draft | **new** | Editorial review |
+| N2-1270 | [日の出](entries/1463/1463790-hinode.org) | ひので | hinode | 1463790 | learner | draft | **new** | Editorial review |
+| N2-1271 | [響き](entries/1602/1602130-hibiki.org) | ひびき | hibiki | 1602130 | learner | draft | **new** | Editorial review |
+| N2-1272 | [響く](entries/1238/1238610-hibiku.org) | ひびく | hibiku | 1238610 | learner | draft | **new** | Editorial review |
+| N2-1273 | [皮膚](entries/1483/1483920-hifu.org) | ひふ | hifu | 1483920 | learner | draft | **new** | Editorial review |
+| N2-1274 | [百科事典](entries/1602/1602190-hyakkajiten.org) | ひゃっかじてん | hyakkajiten | 1602190 | learner | draft | **new** | Editorial review |
+| N2-1275 | [冷やす](entries/1556/1556770-hiyasu.org) | ひやす | hiyasu | 1556770 | learner | draft | **new** | Editorial review |
+| N2-1276 | [表紙](entries/1489/1489600-hyoushi.org) | ひょうし | hyoushi | 1489600 | learner | draft | **new** | Editorial review |
+| N2-1277 | [標識](entries/1488/1488700-hyoushiki.org) | ひょうしき | hyoushiki | 1488700 | learner | draft | **new** | Editorial review |
+| N2-1278 | [標準](entries/1488/1488710-hyoujun.org) | ひょうじゅん | hyoujun | 1488710 | learner | draft | **new** | Editorial review |
+| N2-1279 | [標本](entries/1488/1488820-hyouhon.org) | ひょうほん | hyouhon | 1488820 | learner | draft | **new** | Editorial review |
+| N2-1280 | [評論](entries/1490/1490080-hyouron.org) | ひょうろん | hyouron | 1490080 | learner | draft | **new** | Editorial review |
+| N2-1281 | [平仮名](entries/1507/1507090-hiragana.org) | ひらがな | hiragana | 1507090 | learner | draft | **new** | Editorial review |
+| N2-1282 | [昼寝](entries/1426/1426370-hirune.org) | ひるね | hirune | 1426370 | learner | draft | **new** | Editorial review |
+| N2-1283 | [広げる](entries/1602/1602370-hirogeru.org) | ひろげる | hirogeru | 1602370 | learner | draft | **new** | Editorial review |
+| N2-1284 | [広さ](entries/1278/1278440-hirosa.org) | ひろさ | hirosa | 1278440 | learner | draft | **new** | Editorial review |
+| N2-1285 | [広場](entries/1278/1278590-hiroba.org) | ひろば | hiroba | 1278590 | learner | draft | **new** | Editorial review |
+| N2-1286 | [広々](entries/1602/1602380-hirobiro.org) | ひろびろ | hirobiro | 1602380 | learner | draft | **new** | Editorial review |
+| N2-1287 | [広める](entries/1278/1278460-hiromeru.org) | ひろめる | hiromeru | 1278460 | learner | draft | **new** | Editorial review |
+| N2-1288 | [ビタミン](entries/1105/1105160-bitamin.org) | ビタミン | bitamin | 1105160 | learner | draft | **new** | Editorial review |
+| N2-1289 | [ビニール](entries/1105/1105580-bini-ru.org) | ビニール | bini-ru | 1105580 | learner | draft | **new** | Editorial review |
+| N2-1290 | [美容](entries/1486/1486670-biyou.org) | びよう | biyou | 1486670 | learner | draft | **new** | Editorial review |
+| N2-1291 | [ビルディング](entries/1106/1106040-birudingu.org) | ビルディング | birudingu | 1106040 | learner | draft | **new** | Editorial review |
+| N2-1292 | [便箋](entries/1512/1512640-binsen.org) | びんせん | binsen | 1512640 | learner | draft | **new** | Editorial review |
+| N2-1293 | [瓶詰め](entries/1491/1491130-binzume.org) | びんづめ | binzume | 1491130 | learner | draft | **new** | Editorial review |
+| N2-1294 | [ピカピカ](entries/1010/1010830-pikapika.org) | ピカピカ | pikapika | 1010830 | learner | draft | **new** | Editorial review |
+| N2-1295 | [ピストル](entries/1106/1106660-pisutoru.org) | ピストル | pisutoru | 1106660 | learner | draft | **new** | Editorial review |
+| N2-1296 | [ピンク](entries/1107/1107140-pinku.org) | ピンク | pinku | 1107140 | learner | draft | **new** | Editorial review |
+| N2-1297 | [ファスナー](entries/1108/1108160-fasunaa.org) | ファスナー | fasunaa | 1108160 | learner | draft | **new** | Editorial review |
+| N2-1298 | [不運](entries/1491/1491290-fuun.org) | ふうん | fuun | 1491290 | learner | draft | **new** | Editorial review |
+| N2-1299 | [深まる](entries/1362/1362660-fukamaru.org) | ふかまる | fukamaru | 1362660 | learner | draft | **new** | Editorial review |
+| N2-1300 | [不規則](entries/1491/1491840-fukisoku.org) | ふきそく | fukisoku | 1491840 | learner | draft | **new** | Editorial review |
+| N2-1301 | [普及](entries/1497/1497110-fukyuu.org) | ふきゅう | fukyuu | 1497110 | learner | draft | **new** | Editorial review |
+| N2-1302 | [付近](entries/1496/1496240-fukin.org) | ふきん | fukin | 1496240 | learner | draft | **new** | Editorial review |
+| N2-1303 | [拭く](entries/1357/1357240-fuku.org) | ふく | fuku | 1357240 | learner | draft | **new** | Editorial review |
+| N2-1304 | [副詞](entries/1500/1500440-fukushi.org) | ふくし | fukushi | 1500440 | learner | draft | **new** | Editorial review |
+| N2-1305 | [複写](entries/1501/1501390-fukusha.org) | ふくしゃ | fukusha | 1501390 | learner | draft | **new** | Editorial review |
+| N2-1306 | [複数](entries/1501/1501400-fukusuu.org) | ふくすう | fukusuu | 1501400 | learner | draft | **new** | Editorial review |
+| N2-1307 | [含める](entries/1216/1216890-fukumeru.org) | ふくめる | fukumeru | 1216890 | learner | draft | **new** | Editorial review |
+| N2-1308 | [膨らます](entries/1519/1519970-fukuramasu.org) | ふくらます | fukuramasu | 1519970 | learner | draft | **new** | Editorial review |
+| N2-1309 | [膨らむ](entries/1519/1519990-fukuramu.org) | ふくらむ | fukuramu | 1519990 | learner | draft | **new** | Editorial review |
+| N2-1310 | [更ける](entries/1279/1279290-fukeru.org) | ふける | fukeru | 1279290 | learner | draft | **new** | Editorial review |
+| N2-1311 | [符号](entries/1497/1497710-fugou.org) | ふごう | fugou | 1497710 | learner | draft | **new** | Editorial review |
+| N2-1312 | [夫妻](entries/1496/1496520-fusai.org) | ふさい | fusai | 1496520 | learner | draft | **new** | Editorial review |
+| N2-1313 | [塞がる](entries/1602/1602570-fusagaru.org) | ふさがる | fusagaru | 1602570 | learner | draft | **new** | Editorial review |
+| N2-1314 | [塞ぐ](entries/1602/1602590-fusagu.org) | ふさぐ | fusagu | 1602590 | learner | draft | **new** | Editorial review |
+| N2-1315 | [巫山戯る](entries/1566/1566450-fuzakeru.org) | ふざける | fuzakeru | 1566450 | learner | draft | **new** | Editorial review |
+| N2-1316 | [襖](entries/1181/1181720-fusuma.org) | ふすま | fusuma | 1181720 | learner | draft | **new** | Editorial review |
+| N2-1317 | [付属](entries/1602/1602700-fuzoku.org) | ふぞく | fuzoku | 1602700 | learner | draft | **new** | Editorial review |
+| N2-1318 | [蓋](entries/1204/1204540-futa.org) | ふた | futa | 1204540 | learner | draft | **new** | Editorial review |
+| N2-1319 | [不通](entries/1493/1493860-futsuu.org) | ふつう | futsuu | 1493860 | learner | draft | **new** | Editorial review |
+| N2-1320 | [船便](entries/1392/1392100-funabin.org) | ふなびん | funabin | 1392100 | learner | draft | **new** | Editorial review |
+| N2-1321 | [吹雪](entries/1370/1370780-fubuki.org) | ふぶき | fubuki | 1370780 | learner | draft | **new** | Editorial review |
+| N2-1322 | [父母](entries/1497/1497690-fubo.org) | ふぼ | fubo | 1497690 | learner | draft | **new** | Editorial review |
+| N2-1323 | [踏切](entries/1602/1602840-fumikiri.org) | ふみきり | fumikiri | 1602840 | learner | draft | **new** | Editorial review |
+| N2-1324 | [麓](entries/1611/1611440-fumoto.org) | ふもと | fumoto | 1611440 | learner | draft | **new** | Editorial review |
+| N2-1325 | [増やす](entries/1602/1602880-fuyasu.org) | ふやす | fuyasu | 1602880 | learner | draft | **new** | Editorial review |
+| N2-1326 | [フライパン](entries/1111/1111160-furaipan.org) | フライパン | furaipan | 1111160 | learner | draft | **new** | Editorial review |
+| N2-1327 | [振り仮名](entries/1361/1361150-furigana.org) | ふりがな | furigana | 1361150 | learner | draft | **new** | Editorial review |
+| N2-1328 | [フリー](entries/1111/1111640-furi-.org) | フリー | furi- | 1111640 | learner | draft | **new** | Editorial review |
+| N2-1329 | [振舞う](entries/1602/1603090-furumau.org) | ふるまう | furumau | 1603090 | learner | draft | **new** | Editorial review |
+| N2-1330 | [風呂敷](entries/1500/1500150-furoshiki.org) | ふろしき | furoshiki | 1500150 | learner | draft | **new** | Editorial review |
+| N2-1331 | [ふわふわ](entries/1113/1113060-fuwafuwa.org) | ふわふわ | fuwafuwa | 1113060 | learner | draft | **new** | Editorial review |
+| N2-1332 | [噴火](entries/1504/1504560-funka.org) | ふんか | funka | 1504560 | learner | draft | **new** | Editorial review |
+| N2-1333 | [噴水](entries/1504/1504610-funsui.org) | ふんすい | funsui | 1504610 | learner | draft | **new** | Editorial review |
+| N2-1334 | [無沙汰](entries/1672/1672130-busata.org) | ぶさた | busata | 1672130 | learner | draft | **new** | Editorial review |
+| N2-1335 | [武士](entries/1583/1583680-bushi.org) | ぶし | bushi | 1583680 | learner | draft | **new** | Editorial review |
+| N2-1336 | [部首](entries/1499/1499400-bushu.org) | ぶしゅ | bushu | 1499400 | learner | draft | **new** | Editorial review |
+| N2-1337 | [物騒](entries/1502/1502640-bussou.org) | ぶっそう | bussou | 1502640 | learner | draft | **new** | Editorial review |
+| N2-1338 | [ぶつかる](entries/1011/1011180-butsukaru.org) | ぶつかる | butsukaru | 1011180 | learner | draft | **new** | Editorial review |
+| N2-1339 | [打付ける](entries/2742/2742080-butsukeru.org) | ぶつける | butsukeru | 2742080 | learner | draft | **new** | Editorial review |
+| N2-1340 | [ぶつぶつ](entries/1011/1011200-butsubutsu.org) | ぶつぶつ | butsubutsu | 1011200 | learner | draft | **new** | Editorial review |
+| N2-1341 | [部品](entries/1499/1499480-buhin.org) | ぶひん | buhin | 1499480 | learner | draft | **new** | Editorial review |
+| N2-1342 | [ブラウス](entries/1113/1113650-burausu.org) | ブラウス | burausu | 1113650 | learner | draft | **new** | Editorial review |
+| N2-1343 | [ぶら下げる](entries/1011/1011250-burasageru.org) | ぶらさげる | burasageru | 1011250 | learner | draft | **new** | Editorial review |
+| N2-1344 | [刷子](entries/1579/1579310-burashi.org) | ブラシ | burashi | 1579310 | learner | draft | **new** | Editorial review |
+| N2-1345 | [ブローチ](entries/1114/1114910-buro-chi.org) | ブローチ | buro-chi | 1114910 | learner | draft | **new** | Editorial review |
+| N2-1346 | [分解](entries/1503/1503210-bunkai.org) | ぶんかい | bunkai | 1503210 | learner | draft | **new** | Editorial review |
+| N2-1347 | [文献](entries/1505/1505330-bunken.org) | ぶんけん | bunken | 1505330 | learner | draft | **new** | Editorial review |
+| N2-1348 | [文芸](entries/1505/1505290-bungei.org) | ぶんげい | bungei | 1505290 | learner | draft | **new** | Editorial review |
+| N2-1349 | [分数](entries/1503/1503860-bunsuu.org) | ぶんすう | bunsuu | 1503860 | learner | draft | **new** | Editorial review |
+| N2-1350 | [文体](entries/1505/1505510-buntai.org) | ぶんたい | buntai | 1505510 | learner | draft | **new** | Editorial review |
+| N2-1351 | [分布](entries/1504/1504160-bunpu.org) | ぶんぷ | bunpu | 1504160 | learner | draft | **new** | Editorial review |
+| N2-1352 | [文房具](entries/1505/1505620-bunbougu.org) | ぶんぼうぐ | bunbougu | 1505620 | learner | draft | **new** | Editorial review |
+| N2-1353 | [文脈](entries/1505/1505630-bunmyaku.org) | ぶんみゃく | bunmyaku | 1505630 | learner | draft | **new** | Editorial review |
+| N2-1354 | [分量](entries/1504/1504430-bunryou.org) | ぶんりょう | bunryou | 1504430 | learner | draft | **new** | Editorial review |
+| N2-1355 | [分類](entries/1504/1504460-bunrui.org) | ぶんるい | bunrui | 1504460 | learner | draft | **new** | Editorial review |
+| N2-1356 | [プラスチック](entries/1115/1115670-purasuchikku.org) | プラスチック | purasuchikku | 1115670 | learner | draft | **new** | Editorial review |
+| N2-1357 | [プラットホーム](entries/1115/1115820-purattoho-mu.org) | プラットホーム | purattoho-mu | 1115820 | learner | draft | **new** | Editorial review |
+| N2-1358 | [プリント](entries/1116/1116300-purinto.org) | プリント | purinto | 1116300 | learner | draft | **new** | Editorial review |
+| N2-1359 | [プログラム](entries/1117/1117080-puroguramu.org) | プログラム | puroguramu | 1117080 | learner | draft | **new** | Editorial review |
+| N2-1360 | [閉会](entries/1508/1508600-heikai.org) | へいかい | heikai | 1508600 | learner | draft | **new** | Editorial review |
+| N2-1361 | [平気](entries/1507/1507180-heiki.org) | へいき | heiki | 1507180 | learner | draft | **new** | Editorial review |
+| N2-1362 | [並行](entries/1508/1508480-heikou.org) | へいこう | heikou | 1508480 | learner | draft | **new** | Editorial review |
+| N2-1363 | [平日](entries/1507/1507720-heijitsu.org) | へいじつ | heijitsu | 1507720 | learner | draft | **new** | Editorial review |
+| N2-1364 | [兵隊](entries/1506/1506590-heitai.org) | へいたい | heitai | 1506590 | learner | draft | **new** | Editorial review |
+| N2-1365 | [平凡](entries/1507/1507910-heibon.org) | へいぼん | heibon | 1507910 | learner | draft | **new** | Editorial review |
+| N2-1366 | [平野](entries/1508/1508030-heiya.org) | へいや | heiya | 1508030 | learner | draft | **new** | Editorial review |
+| N2-1367 | [凹む](entries/1179/1179200-hekomu.org) | へこむ | hekomu | 1179200 | learner | draft | **new** | Editorial review |
+| N2-1368 | [臍](entries/1571/1571170-heso.org) | へそ | heso | 1571170 | learner | draft | **new** | Editorial review |
+| N2-1369 | [隔てる](entries/1206/1206360-hedateru.org) | へだてる | hedateru | 1206360 | learner | draft | **new** | Editorial review |
+| N2-1370 | [ヘリコプター](entries/1118/1118780-herikoputa-.org) | ヘリコプター | herikoputa- | 1118780 | learner | draft | **new** | Editorial review |
+| N2-1371 | [編集](entries/1603/1603240-henshuu.org) | へんしゅう | henshuu | 1603240 | learner | draft | **new** | Editorial review |
+| N2-1372 | [別荘](entries/1509/1509970-bessou.org) | べっそう | bessou | 1509970 | learner | draft | **new** | Editorial review |
+| N2-1373 | [別々](entries/1603/1603290-betsubetsu.org) | べつべつ | betsubetsu | 1603290 | learner | draft | **new** | Editorial review |
+| N2-1374 | [ベテラン](entries/1119/1119700-beteran.org) | ベテラン | beteran | 1119700 | learner | draft | **new** | Editorial review |
+| N2-1375 | [便所](entries/1512/1512520-benjo.org) | べんじょ | benjo | 1512520 | learner | draft | **new** | Editorial review |
+| N2-1376 | [ペンチ](entries/1121/1121520-penchi.org) | ペンチ | penchi | 1121520 | learner | draft | **new** | Editorial review |
+| N2-1377 | [方角](entries/1516/1516950-hougaku.org) | ほうがく | hougaku | 1516950 | learner | draft | **new** | Editorial review |
+| N2-1378 | [箒](entries/1566/1566500-houki.org) | ほうき | houki | 1566500 | learner | draft | **new** | Editorial review |
+| N2-1379 | [方言](entries/1516/1516980-hougen.org) | ほうげん | hougen | 1516980 | learner | draft | **new** | Editorial review |
+| N2-1380 | [方針](entries/1517/1517040-houshin.org) | ほうしん | houshin | 1517040 | learner | draft | **new** | Editorial review |
+| N2-1381 | [包装](entries/1515/1515510-housou.org) | ほうそう | housou | 1515510 | learner | draft | **new** | Editorial review |
+| N2-1382 | [法則](entries/1517/1517380-housoku.org) | ほうそく | housoku | 1517380 | learner | draft | **new** | Editorial review |
+| N2-1383 | [包帯](entries/1603/1603360-houtai.org) | ほうたい | houtai | 1603360 | learner | draft | **new** | Editorial review |
+| N2-1384 | [包丁](entries/1515/1515530-houchou.org) | ほうちょう | houchou | 1515530 | learner | draft | **new** | Editorial review |
+| N2-1385 | [方程式](entries/1517/1517060-houteishiki.org) | ほうていしき | houteishiki | 1517060 | learner | draft | **new** | Editorial review |
+| N2-1386 | [方面](entries/1517/1517100-houmen.org) | ほうめん | houmen | 1517100 | learner | draft | **new** | Editorial review |
+| N2-1387 | [放る](entries/1516/1516530-houru.org) | ほうる | houru | 1516530 | learner | draft | **new** | Editorial review |
+| N2-1388 | [朗らか](entries/1560/1560710-hogaraka.org) | ほがらか | hogaraka | 1560710 | learner | draft | **new** | Editorial review |
+| N2-1389 | [保健](entries/1513/1513410-hoken.org) | ほけん | hoken | 1513410 | learner | draft | **new** | Editorial review |
+| N2-1390 | [干す](entries/1603/1603510-hosu.org) | ほす | hosu | 1603510 | learner | draft | **new** | Editorial review |
+| N2-1391 | [北極](entries/1520/1520890-hokkyoku.org) | ほっきょく | hokkyoku | 1520890 | learner | draft | **new** | Editorial review |
+| N2-1392 | [解く](entries/1198/1198900-hodoku.org) | ほどく | hodoku | 1198900 | learner | draft | **new** | Editorial review |
+| N2-1393 | [彫る](entries/1427/1427950-horu.org) | ほる | horu | 1427950 | learner | draft | **new** | Editorial review |
+| N2-1394 | [掘る](entries/1246/1246690-horu.org) | ほる | horu | 1246690 | learner | draft | **new** | Editorial review |
+| N2-1395 | [本来](entries/1523/1523270-honrai.org) | ほんらい | honrai | 1523270 | learner | draft | **new** | Editorial review |
+| N2-1396 | [望遠鏡](entries/1519/1519650-bouenkyou.org) | ぼうえんきょう | bouenkyou | 1519650 | learner | draft | **new** | Editorial review |
+| N2-1397 | [坊さん](entries/1519/1519050-bousan.org) | ぼうさん | bousan | 1519050 | learner | draft | **new** | Editorial review |
+| N2-1398 | [防止](entries/1520/1520380-boushi.org) | ぼうし | boushi | 1520380 | learner | draft | **new** | Editorial review |
+| N2-1399 | [膨大](entries/1603/1603660-boudai.org) | ぼうだい | boudai | 1603660 | learner | draft | **new** | Editorial review |
+| N2-1400 | [防犯](entries/1520/1520570-bouhan.org) | ぼうはん | bouhan | 1520570 | learner | draft | **new** | Editorial review |
+| N2-1401 | [坊や](entries/1519/1519060-bouya.org) | ぼうや | bouya | 1519060 | learner | draft | **new** | Editorial review |
+| N2-1402 | [牧場](entries/1584/1584250-bokujou.org) | ぼくじょう | bokujou | 1584250 | learner | draft | **new** | Editorial review |
+| N2-1403 | [牧畜](entries/1521/1521820-bokuchiku.org) | ぼくちく | bokuchiku | 1521820 | learner | draft | **new** | Editorial review |
+| N2-1404 | [募集](entries/1514/1514830-boshuu.org) | ぼしゅう | boshuu | 1514830 | learner | draft | **new** | Editorial review |
+| N2-1405 | [襤褸](entries/1572/1572500-boro.org) | ぼろ | boro | 1572500 | learner | draft | **new** | Editorial review |
+| N2-1406 | [盆地](entries/1523/1523760-bonchi.org) | ぼんち | bonchi | 1523760 | learner | draft | **new** | Editorial review |
+| N2-1407 | [ボーナス](entries/1123/1123520-boonasu.org) | ボーナス | boonasu | 1123520 | learner | draft | **new** | Editorial review |
+| N2-1408 | [ポスター](entries/1125/1125110-posutaa.org) | ポスター | posutaa | 1125110 | learner | draft | **new** | Editorial review |
+| N2-1409 | [まあまあ](entries/1012/1012070-maamaa.org) | まあまあ | maamaa | 1012070 | learner | draft | **new** | Editorial review |
+| N2-1410 | [枚数](entries/1524/1524630-maisuu.org) | まいすう | maisuu | 1524630 | learner | draft | **new** | Editorial review |
+| N2-1411 | [毎度](entries/1524/1524710-maido.org) | まいど | maido | 1524710 | learner | draft | **new** | Editorial review |
+| N2-1412 | [マイナス](entries/1126/1126980-mainasu.org) | マイナス | mainasu | 1126980 | learner | draft | **new** | Editorial review |
+| N2-1413 | [巻く](entries/1211/1211200-maku.org) | まく | maku | 1211200 | learner | draft | **new** | Editorial review |
+| N2-1414 | [撒く](entries/1303/1303400-maku.org) | まく | maku | 1303400 | learner | draft | **new** | Editorial review |
+| N2-1415 | [枕](entries/1524/1524860-makura.org) | まくら | makura | 1524860 | learner | draft | **new** | Editorial review |
+| N2-1416 | [曲げる](entries/1239/1239740-mageru.org) | まげる | mageru | 1239740 | learner | draft | **new** | Editorial review |
+| N2-1417 | [まごまご](entries/1012/1012110-magomago.org) | まごまご | magomago | 1012110 | learner | draft | **new** | Editorial review |
+| N2-1418 | [摩擦](entries/1523/1523830-masatsu.org) | まさつ | masatsu | 1523830 | learner | draft | **new** | Editorial review |
+| N2-1419 | [混ざる](entries/1603/1603920-mazaru.org) | まざる | mazaru | 1603920 | learner | draft | **new** | Editorial review |
+| N2-1420 | [混じる](entries/1603/1603930-majiru.org) | まじる | majiru | 1603930 | learner | draft | **new** | Editorial review |
+| N2-1421 | [マスク](entries/1127/1127870-masuku.org) | マスク | masuku | 1127870 | learner | draft | **new** | Editorial review |
+| N2-1422 | [交ぜる](entries/1290/1290310-mazeru.org) | まぜる | mazeru | 1290310 | learner | draft | **new** | Editorial review |
+| N2-1424 | [跨ぐ](entries/1267/1267830-matagu.org) | またぐ | matagu | 1267830 | learner | draft | **new** | Editorial review |
+| N2-1425 | [待合室](entries/1410/1410630-machiaishitsu.org) | まちあいしつ | machiaishitsu | 1410630 | learner | draft | **new** | Editorial review |
+| N2-1426 | [待ち合わせる](entries/1410/1410520-machiawaseru.org) | まちあわせる | machiawaseru | 1410520 | learner | draft | **new** | Editorial review |
+| N2-1427 | [街角](entries/1204/1204580-machikado.org) | まちかど | machikado | 1204580 | learner | draft | **new** | Editorial review |
+| N2-1428 | [真っ暗](entries/1363/1363190-makkura.org) | まっくら | makkura | 1363190 | learner | draft | **new** | Editorial review |
+| N2-1429 | [真っ黒](entries/1604/1604050-makkuro.org) | まっくろ | makkuro | 1604050 | learner | draft | **new** | Editorial review |
+| N2-1430 | [真っ青](entries/1604/1604080-massao.org) | まっさお | massao | 1604080 | learner | draft | **new** | Editorial review |
+| N2-1431 | [真っ先](entries/1363/1363260-massaki.org) | まっさき | massaki | 1363260 | learner | draft | **new** | Editorial review |
+| N2-1432 | [真っ白](entries/1580/1580620-masshiro.org) | まっしろ | masshiro | 1580620 | learner | draft | **new** | Editorial review |
+| N2-1433 | [祭る](entries/1295/1295250-matsuru.org) | まつる | matsuru | 1295250 | learner | draft | **new** | Editorial review |
+| N2-1434 | [纏まる](entries/1611/1611640-matomaru.org) | まとまる | matomaru | 1611640 | learner | draft | **new** | Editorial review |
+| N2-1435 | [纏める](entries/1440/1440930-matomeru.org) | まとめる | matomeru | 1440930 | learner | draft | **new** | Editorial review |
+| N2-1436 | [窓口](entries/1401/1401420-madoguchi.org) | まどぐち | madoguchi | 1401420 | learner | draft | **new** | Editorial review |
+| N2-1437 | [真似る](entries/1363/1363760-maneru.org) | まねる | maneru | 1363760 | learner | draft | **new** | Editorial review |
+| N2-1438 | [マフラー](entries/1129/1129210-mafuraa.org) | マフラー | mafuraa | 1129210 | learner | draft | **new** | Editorial review |
+| N2-1439 | [眩しい](entries/1569/1569790-mabushii.org) | まぶしい | mabushii | 1569790 | learner | draft | **new** | Editorial review |
+| N2-1440 | [瞼](entries/1569/1569920-mabuta.org) | まぶた | mabuta | 1569920 | learner | draft | **new** | Editorial review |
+| N2-1441 | [間もなく](entries/1215/1215290-mamonaku.org) | まもなく | mamonaku | 1215290 | learner | draft | **new** | Editorial review |
+| N2-1442 | [マラソン](entries/1129/1129290-marason.org) | マラソン | marason | 1129290 | learner | draft | **new** | Editorial review |
+| N2-1443 | [稀](entries/1604/1604280-mare.org) | まれ | mare | 1604280 | learner | draft | **new** | Editorial review |
+| N2-1444 | [回り道](entries/1199/1199360-mawarimichi.org) | まわりみち | mawarimichi | 1199360 | learner | draft | **new** | Editorial review |
+| N2-1445 | [満員](entries/1526/1526720-manin.org) | まんいん | manin | 1526720 | learner | draft | **new** | Editorial review |
+| N2-1446 | [マンション](entries/1130/1130040-manshon.org) | マンション | manshon | 1130040 | learner | draft | **new** | Editorial review |
+| N2-1447 | [満点](entries/1604/1604340-manten.org) | まんてん | manten | 1604340 | learner | draft | **new** | Editorial review |
+| N2-1448 | [見送る](entries/1259/1259830-miokuru.org) | みおくる | miokuru | 1259830 | learner | draft | **new** | Editorial review |
+| N2-1449 | [見下ろす](entries/1259/1259370-miorosu.org) | みおろす | miorosu | 1259370 | learner | draft | **new** | Editorial review |
+| N2-1450 | [見かけ](entries/1604/1604420-mikake.org) | みかけ | mikake | 1604420 | learner | draft | **new** | Editorial review |
+| N2-1451 | [ミシン](entries/1130/1130640-mishin.org) | ミシン | mishin | 1130640 | learner | draft | **new** | Editorial review |
+| N2-1452 | [惨め](entries/1303/1303280-mijime.org) | みじめ | mijime | 1303280 | learner | draft | **new** | Editorial review |
+| N2-1453 | [店屋](entries/1910/1910260-miseya.org) | みせや | miseya | 1910260 | learner | draft | **new** | Editorial review |
+| N2-1454 | [見出し](entries/1259/1259710-midashi.org) | みだし | midashi | 1259710 | learner | draft | **new** | Editorial review |
+| N2-1455 | [道順](entries/1611/1611770-michijun.org) | みちじゅん | michijun | 1611770 | learner | draft | **new** | Editorial review |
+| N2-1456 | [見直す](entries/1259/1259900-minaosu.org) | みなおす | minaosu | 1259900 | learner | draft | **new** | Editorial review |
+| N2-1457 | [見慣れる](entries/1604/1604650-minareru.org) | みなれる | minareru | 1604650 | learner | draft | **new** | Editorial review |
+| N2-1458 | [醜い](entries/1333/1333810-minikui.org) | みにくい | minikui | 1333810 | learner | draft | **new** | Editorial review |
+| N2-1459 | [実る](entries/1320/1320850-minoru.org) | みのる | minoru | 1320850 | learner | draft | **new** | Editorial review |
+| N2-1460 | [身分](entries/1365/1365810-mibun.org) | みぶん | mibun | 1365810 | learner | draft | **new** | Editorial review |
+| N2-1461 | [見本](entries/1260/1260100-mihon.org) | みほん | mihon | 1260100 | learner | draft | **new** | Editorial review |
+| N2-1462 | [見舞う](entries/1259/1259990-mimau.org) | みまう | mimau | 1259990 | learner | draft | **new** | Editorial review |
+| N2-1463 | [未満](entries/1528/1528040-miman.org) | みまん | miman | 1528040 | learner | draft | **new** | Editorial review |
+| N2-1464 | [苗字](entries/1604/1604730-myouji.org) | みょうじ | myouji | 1604730 | learner | draft | **new** | Editorial review |
+| N2-1465 | [ミリ](entries/1131/1131830-miri.org) | ミリ | miri | 1131830 | learner | draft | **new** | Editorial review |
+| N2-1466 | [診る](entries/1365/1365450-miru.org) | みる | miru | 1365450 | learner | draft | **new** | Editorial review |
+| N2-1467 | [民間](entries/1528/1528630-minkan.org) | みんかん | minkan | 1528630 | learner | draft | **new** | Editorial review |
+| N2-1468 | [民謡](entries/1529/1529270-minyou.org) | みんよう | minyou | 1529270 | learner | draft | **new** | Editorial review |
+| N2-1469 | [剥く](entries/1474/1474370-muku.org) | むく | muku | 1474370 | learner | draft | **new** | Editorial review |
+| N2-1470 | [無限](entries/1529/1529880-mugen.org) | むげん | mugen | 1529880 | learner | draft | **new** | Editorial review |
+| N2-1471 | [蒸し暑い](entries/1356/1356870-mushiatsui.org) | むしあつい | mushiatsui | 1356870 | learner | draft | **new** | Editorial review |
+| N2-1472 | [無地](entries/1530/1530650-muji.org) | むじ | muji | 1530650 | learner | draft | **new** | Editorial review |
+| N2-1473 | [矛盾](entries/1531/1531090-mujun.org) | むじゅん | mujun | 1531090 | learner | draft | **new** | Editorial review |
+| N2-1474 | [蒸す](entries/1356/1356900-musu.org) | むす | musu | 1356900 | learner | draft | **new** | Editorial review |
+| N2-1475 | [群れ](entries/1247/1247510-mure.org) | むれ | mure | 1247510 | learner | draft | **new** | Editorial review |
+| N2-1476 | [姪](entries/1532/1532940-mei.org) | めい | mei | 1532940 | learner | draft | **new** | Editorial review |
+| N2-1477 | [名作](entries/1531/1531500-meisaku.org) | めいさく | meisaku | 1531500 | learner | draft | **new** | Editorial review |
+| N2-1478 | [名刺](entries/1531/1531550-meishi.org) | めいし | meishi | 1531550 | learner | draft | **new** | Editorial review |
+| N2-1479 | [名詞](entries/1531/1531570-meishi.org) | めいし | meishi | 1531570 | learner | draft | **new** | Editorial review |
+| N2-1480 | [名所](entries/1531/1531600-meisho.org) | めいしょ | meisho | 1531600 | learner | draft | **new** | Editorial review |
+| N2-1481 | [迷信](entries/1532/1532760-meishin.org) | めいしん | meishin | 1532760 | learner | draft | **new** | Editorial review |
+| N2-1482 | [命ずる](entries/1531/1531970-meizuru.org) | めいずる | meizuru | 1531970 | learner | draft | **new** | Editorial review |
+| N2-1483 | [名物](entries/1531/1531810-meibutsu.org) | めいぶつ | meibutsu | 1531810 | learner | draft | **new** | Editorial review |
+| N2-1484 | [銘々](entries/1532/1532810-meimei.org) | めいめい | meimei | 1532810 | learner | draft | **new** | Editorial review |
+| N2-1485 | [目上](entries/1535/1535490-meue.org) | めうえ | meue | 1535490 | learner | draft | **new** | Editorial review |
+| N2-1486 | [恵まれる](entries/1611/1611980-megumareru.org) | めぐまれる | megumareru | 1611980 | learner | draft | **new** | Editorial review |
+| N2-1488 | [目指す](entries/1535/1535440-mezasu.org) | めざす | mezasu | 1535440 | learner | draft | **new** | Editorial review |
+| N2-1489 | [目覚まし](entries/1535/1535340-mezamashi.org) | めざまし | mezamashi | 1535340 | learner | draft | **new** | Editorial review |
+| N2-1490 | [目下](entries/1535/1535320-meshita.org) | めした | meshita | 1535320 | learner | draft | **new** | Editorial review |
+| N2-1491 | [目印](entries/1535/1535300-mejirushi.org) | めじるし | mejirushi | 1535300 | learner | draft | **new** | Editorial review |
+| N2-1492 | [目立つ](entries/1535/1535700-medatsu.org) | めだつ | medatsu | 1535700 | learner | draft | **new** | Editorial review |
+| N2-1493 | [滅茶苦茶](entries/1533/1533000-mechakucha.org) | めちゃくちゃ | mechakucha | 1533000 | learner | draft | **new** | Editorial review |
+| N2-1494 | [めっきり](entries/1012/1012470-mekkiri.org) | めっきり | mekkiri | 1012470 | learner | draft | **new** | Editorial review |
+| N2-1495 | [目出度い](entries/1608/1608630-medetai.org) | めでたい | medetai | 1608630 | learner | draft | **new** | Editorial review |
+| N2-1496 | [メニュー](entries/1133/1133790-menyuu.org) | メニュー | menyuu | 1133790 | learner | draft | **new** | Editorial review |
+| N2-1497 | [眩暈](entries/1569/1569810-memai.org) | めまい | memai | 1569810 | learner | draft | **new** | Editorial review |
+| N2-1498 | [目安](entries/1535/1535280-meyasu.org) | めやす | meyasu | 1535280 | learner | draft | **new** | Editorial review |
+| N2-1499 | [面積](entries/1533/1533500-menseki.org) | めんせき | menseki | 1533500 | learner | draft | **new** | Editorial review |
+| N2-1500 | [面接](entries/1533/1533510-mensetsu.org) | めんせつ | mensetsu | 1533510 | learner | draft | **new** | Editorial review |
+| N2-1501 | [面倒くさい](entries/1533/1533560-mendokusai.org) | めんどくさい | mendokusai | 1533560 | learner | draft | **new** | Editorial review |
+| N2-1502 | [メーター](entries/1132/1132530-meetaa.org) | メーター | meetaa | 1132530 | learner | draft | **new** | Editorial review |
+| N2-1503 | [儲かる](entries/1534/1534490-moukaru.org) | もうかる | moukaru | 1534490 | learner | draft | **new** | Editorial review |
+| N2-1504 | [儲ける](entries/1534/1534500-moukeru.org) | もうける | moukeru | 1534500 | learner | draft | **new** | Editorial review |
+| N2-1505 | [申し訳ない](entries/1612/1612040-moushiwakenai.org) | もうしわけない | moushiwakenai | 1612040 | learner | draft | **new** | Editorial review |

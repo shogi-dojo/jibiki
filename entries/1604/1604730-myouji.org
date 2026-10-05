@@ -1,0 +1,279 @@
+#+TITLE: 苗字
+#+JMDICT_ID: 1604730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みょうじ
+#+ROMAJI: myouji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1604730-001
+:PROPERTIES:
+:TEXT: 苗字
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1604730-002
+:PROPERTIES:
+:TEXT: 名字
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf26
+** Reading rd-1604730-001
+:PROPERTIES:
+:TEXT: みょうじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf26
+
+* Sense s-1604730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1723b2ede0f8f143426ca082dc918a866c52f7aba82159bcf295eb8ada15933d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 名前・2
+** English glosses
+- surname
+- family name
+- last name
+** Ukrainian glosses
+- прізвище
+- родове ім'я
+** Learner notes
+*** note-s-1604730-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Означає прізвище (родове ім'я). У сучасній японській мові часто також записується як 名字 (обидва варіанти мають однакове читання みょうじ). В офіційних анкетах та документах для позначення прізвища нерідко використовується також термін 姓 (せい) або 氏名 (しめい — прізвище та ім'я).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1604730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ここにあなたの[苗字]{みょうじ}と[名前]{なまえ}を[書]{か}いてください。
+- READING :: ここにあなたのみょうじとなまえをかいてください。
+- UK :: Будь ласка, напишіть тут своє прізвище та ім'я.
+- EN :: Please write your surname and given name here.
+- FOCUS :: 苗字
+*** ex-1604730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: [日本]{にほん}で[最]{もっと}も[多]{おお}い[苗字]{みょうじ}は「[佐藤]{さとう}」です。
+- READING :: にほんでもっともおおいみょうじは「さとう」です。
+- UK :: Найпоширеніше прізвище в Японії — «Сато».
+- EN :: The most common surname in Japan is "Sato".
+- FOCUS :: 苗字
+*** ex-1604730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: [結婚]{けっこん}して[苗字]{みょうじ}が[変]{か}わったため、[銀行]{ぎんこう}の[口座]{こうざ}[名義]{めいぎ}の[変更]{へんこう}[手続]{てつづ}きを[行]{おこな}った。
+- READING :: けっこんしてみょうじがかわったため、ぎんこうのこうざめいぎのへんこうてつづきをおこなった。
+- UK :: Оскільки після одруження моє прізвище змінилося, я пройшов процедуру зміни даних банківського рахунку.
+- EN :: Because my last name changed after getting married, I went through the procedure to change the name on my bank account.
+- FOCUS :: 苗字
+
+* Sense s-1604730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 664cc1f294b783c3037fd30c38eddb008fb6b3f4201f764a808fe653f0c3f827
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: familienaam
+*** en-s-1604730-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: achternaam
+*** en-s-1604730-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geslachtsnaam
+** Ukrainian glosses
+
+* Sense s-1604730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d058918bc31502816141c18124d76dbdb91bf796b9ad00ed7592b8dbd6372394
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nom de famille
+** Ukrainian glosses
+
+* Sense s-1604730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b9c37961abd0598a0f0b08da1233e037684ccfebca9b06837a3b3d35c2b33d41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Familienname
+*** en-s-1604730-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuname
+*** en-s-1604730-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachname
+** Ukrainian glosses
+
+* Sense s-1604730-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 464d6be405f073bc9543b32c5474e0f69eb648ff4d29b9ef0ad82dfa5f034235
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: фамилия
+** Ukrainian glosses
+
+* Sense s-1604730-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c117a42ad8d2daac451b976a46ca34abd1bdbe312a1e0fb8770f90b1f4543abd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: priimek
+** Ukrainian glosses
+
+* Sense s-1604730-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 37398cec719e669642436e03dde7cbcadb26977591191ae23b8da7af1be8c732
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apellido
+** Ukrainian glosses
+
+* Sense s-1604730-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d0de8542b88872423022b1f3f57117ea09dcfc05d61a14bba1ab564382ca2e99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1604730-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: familjenamn
+*** en-s-1604730-008-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tillnamn
+*** en-s-1604730-008-003
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: efternamn
+*** en-s-1604730-008-004
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: familjenamn
+** Ukrainian glosses

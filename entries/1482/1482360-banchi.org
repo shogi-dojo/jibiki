@@ -1,0 +1,324 @@
+#+TITLE: 番地
+#+JMDICT_ID: 1482360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばんち
+#+ROMAJI: banchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1482360-001
+:PROPERTIES:
+:TEXT: 番地
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf41
+** Reading rd-1482360-001
+:PROPERTIES:
+:TEXT: ばんち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf41
+
+* Sense s-1482360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 92e50193b55247a3f90fcfa5aa445a39e02949f98580b7048ae710a914968cc1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- house number
+- address
+** Ukrainian glosses
+*** uk-s-1482360-001-001
+:PROPERTIES:
+:END:
+- text :: номер будинку
+*** uk-s-1482360-001-002
+:PROPERTIES:
+:END:
+- text :: номер земельної ділянки
+*** uk-s-1482360-001-003
+:PROPERTIES:
+:END:
+- text :: адреса
+** Learner notes
+*** note-s-1482360-001-001
+:PROPERTIES:
+:END:
+- UK :: Номер земельної ділянки або будинку в японській системі адрес (після назви кварталу ~丁目~, ちょうめ). Наприклад, ~1丁目2番地~. У ширшому розмовному значенні вживається як частина адреси.
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1482360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ここに住所と番地を書いてください。
+- READING :: ここに じゅうしょと ばんちを かいてください。
+- UK :: Будь ласка, напишіть тут свою адресу та номер будинку.
+- EN :: Please write your address and house number here.
+- FOCUS :: 番地
+*** ex-1482360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 荷物を送る前に、相手の番地をもう一度確認した。
+- READING :: にもつを おくる まえに、あいての ばんちを もういちど かくにんした。
+- UK :: Перед відправленням посилки я ще раз перевірив номер будинку одержувача.
+- EN :: Before sending the package, I checked the recipient's house number once more.
+- FOCUS :: 番地
+*** ex-1482360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 建物名だけでなく、正確な番地まで記入しないと郵便物が届かないことがある。
+- READING :: たてものめい だけでなく、せいかくな ばんちまで きにゅう しないと ゆうびんぶつが とどかない ことが ある。
+- UK :: Якщо не вказати не лише назву будівлі, а й точний номер будинку, пошта може не дійти.
+- EN :: If you don't fill in the exact lot number in addition to the building name, mail may not be delivered.
+- FOCUS :: 番地
+
+* Sense s-1482360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: be308c7d70943691143f93c66f8223dead0b59071158ada0fd3e275379ecfaa6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: perceelnummer
+*** en-s-1482360-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benummerde woonkern
+*** en-s-1482360-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {oneig.} huisnummer
+*** en-s-1482360-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {oneig.} adres
+** Ukrainian glosses
+
+* Sense s-1482360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f8b6d2605fb4703dcfae61315b17a2e134aa1706e1eb61029c2388b889d18d18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adresse
+*** en-s-1482360-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: numéro de rue
+** Ukrainian glosses
+
+* Sense s-1482360-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d8db01f10df8bfb7cb23aea9344910768d87adab699aa781aa97bc586403da41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hausnummer
+*** en-s-1482360-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Straßennummer
+*** en-s-1482360-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grundstücksnummer
+*** en-s-1482360-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parzellennummer
+** Ukrainian glosses
+
+* Sense s-1482360-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a8531ca57ab8b88e23913757fdcf70bad8e7a8d1f524769bc308789b3604c033
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Adresse
+** Ukrainian glosses
+
+* Sense s-1482360-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7262e8ecd9cba2f406b8c454e997f913c74195aeeba00f0cb7f6fe7daaaa5d24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Adresse
+** Ukrainian glosses
+
+* Sense s-1482360-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e3c9985e824ebb72448cafcef0365b22ad076250aaa69fd7c722538d4f2c84df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beszéd
+** Ukrainian glosses
+
+* Sense s-1482360-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e23756c5063f1d8ad46b2505bd98edc12110ff3d00f72901fc3d1e1cea7db7f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: номер дома
+** Ukrainian glosses
+
+* Sense s-1482360-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 1e164a739b1191555b8efd75a3469aa95cd6b31c7913a3268699b148e7f8e08e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hišna številka
+*** en-s-1482360-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naslov
+** Ukrainian glosses
+
+* Sense s-1482360-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 7d08697519abf13573a70370c297b4ac83592ae3924d0e637cad6586f6c8ea4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1482360-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calle y número (dirección)
+** Ukrainian glosses

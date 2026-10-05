@@ -1,0 +1,303 @@
+#+TITLE: 引き算
+#+JMDICT_ID: 1601610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひきざん
+#+ROMAJI: hikizan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1601610-001
+:PROPERTIES:
+:TEXT: 引き算
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1601610-002
+:PROPERTIES:
+:TEXT: 引算
+:END:
+** Written form wf-1601610-003
+:PROPERTIES:
+:TEXT: ひき算
+:END:
+*** Information
+- sK
+** Reading rd-1601610-001
+:PROPERTIES:
+:TEXT: ひきざん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1601610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cce2d30050b7a22cfe7e6f96bf1b403676946b68cea2849cbd8ad66c6644814a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- math
+** English glosses
+- subtraction
+** Ukrainian glosses
+*** uk-s-1601610-001-001
+:PROPERTIES:
+:END:
+- text :: віднімання
+*** uk-s-1601610-001-002
+:PROPERTIES:
+:END:
+- text :: дія віднімання
+** Learner notes
+*** note-s-1601610-001-001
+:PROPERTIES:
+:END:
+- UK :: Математична дія віднімання (протилежне до ~足し算~ — додавання). Утворює дієслово за допомогою ~する~ (~引き算する~ — віднімати).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1601610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 小学校で足し算と引き算を習った。
+- READING :: しょうがっこうで たしざんと ひきざんを ならった。
+- UK :: У початковій школі ми вивчали додавання та віднімання.
+- EN :: I learned addition and subtraction in elementary school.
+- FOCUS :: 引き算
+*** ex-1601610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引き算の答えを確かめるために、足し算を使ってみよう。
+- READING :: ひきざんの こたえを たしかめる ために、たしざんを つかってみよう。
+- UK :: Щоб перевірити відповідь у відніманні, спробуймо скористатися додаванням.
+- EN :: Let's use addition to check the answer to the subtraction.
+- FOCUS :: 引き算
+*** ex-1601610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この問題を解くには、まず全体の費用を計算してから割引分を引き算する必要がある。
+- READING :: この もんだいを とくには、まず ぜんたいの ひようを けいさん してから わりびきぶんを ひきざん する ひつようが ある。
+- UK :: Щоб розв'язати це завдання, треба спершу порахувати загальні витрати, а потім відняти розмір знижки.
+- EN :: To solve this problem, you first need to calculate the total cost and then subtract the discount amount.
+- FOCUS :: 引き算
+
+* Sense s-1601610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fb01b238eb1827280d85ba285edaa1683990a86e8c971594917d27a6d3b04d4d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekken
+*** en-s-1601610-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekking
+*** en-s-1601610-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {form.} subtractie
+** Ukrainian glosses
+
+* Sense s-1601610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 44890a1684be39a4ccfef9ea2c7b93e728dbfc4dca290afa3a3b2ebfae511efe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soustraction
+** Ukrainian glosses
+
+* Sense s-1601610-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b59f81665e95e405bcdcf63e395f43753d6bc9b9493cc10ad059f50bdaea1c9e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Subtraktion
+*** en-s-1601610-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abziehen
+*** en-s-1601610-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subtrahieren
+** Ukrainian glosses
+
+* Sense s-1601610-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4167c6aa0d08c24f492b7f3f912fcb3abc2e35a3e704144aa17c32eff81004c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kivonás
+** Ukrainian glosses
+
+* Sense s-1601610-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 09efd7f5e2013400f96c9c8914e231eea22ca34bb41bdcb086cd0081f4577786
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вычитание
+*** en-s-1601610-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} вычитать
+** Ukrainian glosses
+
+* Sense s-1601610-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c86ea846af1dfdcfe958525710a3378baa09d493d42655d574a14e429f55482e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odštevanje
+*** en-s-1601610-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odštevati
+** Ukrainian glosses
+
+* Sense s-1601610-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: da66c6d89eb91962b3feba02605d1b6d90b88bc39590d2725fb3d569dec0428e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (matemáticas) resta
+*** en-s-1601610-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sustracción
+** Ukrainian glosses
+
+* Sense s-1601610-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: f418b70d56c26626d373756f303240c41136bd0d325e9e1f1f2d6c05851ea41c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601610-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subtraktion
+** Ukrainian glosses

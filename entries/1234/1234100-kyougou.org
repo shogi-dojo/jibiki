@@ -1,0 +1,376 @@
+#+TITLE: 競合
+#+JMDICT_ID: 1234100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうごう
+#+ROMAJI: kyougou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1234100-001
+:PROPERTIES:
+:TEXT: 競合
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1234100-001
+:PROPERTIES:
+:TEXT: きょうごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1234100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6a13065e13860d78f393f3d9103dbb4858573043f81b523f595b36735873eec9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- contention
+- competition
+- rivalry
+- quarrel
+** Ukrainian glosses
+*** uk-s-1234100-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: конкуренція; суперництво; конфлікт інтересів чи ресурсів
+** Learner notes
+*** note-s-1234100-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає, що сторони або дії претендують на ту саму можливість, ресурс чи роль: 他社と競合する. Може описувати також технічний конфлікт; не обов'язково особиста сварка, а 競争 ширше означає змагальний процес.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1234100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの会社が競合している。
+- READING :: ふたつのかいしゃがきょうごうしている。
+- UK :: Дві компанії конкурують.
+- EN :: Two companies are competing.
+- FOCUS :: 競合
+*** ex-1234100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 競合する案を比べた。
+- READING :: きょうごうするあんをくらべた。
+- UK :: Я порівняв конкуруючі пропозиції.
+- EN :: I compared competing proposals.
+- FOCUS :: 競合
+*** ex-1234100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ時間帯に二つの予定が競合していたため、担当者と日程を調整した。
+- READING :: おなじじかんたいにふたつのよていがきょうごうしていたため、たんとうしゃとにっていをちょうせいした。
+- UK :: Два плани припадали на той самий час, тому я узгодив графік із відповідальним.
+- EN :: Two plans conflicted in the same time slot, so I adjusted the schedule with the person responsible.
+- FOCUS :: 競合
+
+* Sense s-1234100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8a5355178d22b7994687886bdc9c1a719f203893fd2f5c8110ed40d63728a4b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rivaliseren
+*** en-s-1234100-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wedijveren
+*** en-s-1234100-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: concurreren
+*** en-s-1234100-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strijdig zijn
+** Ukrainian glosses
+
+* Sense s-1234100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b4794fc90abe7f81170fb649d4464e5870a465c7d6434e727b21fc4feb1c57f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenlopen
+*** en-s-1234100-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenkomen
+*** en-s-1234100-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenvallen
+** Ukrainian glosses
+
+* Sense s-1234100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 46dc0972c68887af6b836cf3a99fefcfedf8c6cccf4a0eac8bf04be4dbebeb86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rivaliteit
+*** en-s-1234100-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wedijver
+*** en-s-1234100-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: competitie
+*** en-s-1234100-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: concurrentie
+*** en-s-1234100-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mededinging
+*** en-s-1234100-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strijd
+** Ukrainian glosses
+
+* Sense s-1234100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3ecbc7b3788281f6a1ad5d24128aee3f7f5ef7c714e8551b20a05c385742d62e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenloop van omstandigheden
+*** en-s-1234100-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combinatie van factoren
+** Ukrainian glosses
+
+* Sense s-1234100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a2c189ff1f86603e3bbc8ccf4881e2e9e1e446e5f707a68f38a97bed8b40c8a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} concursus
+*** en-s-1234100-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenloop van strafbare feiten
+** Ukrainian glosses
+
+* Sense s-1234100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2ecc666261e0b6e29043bb4f12173778bc19a3fb0eeef6be7c449160d0c4f70a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: konkurrieren
+*** en-s-1234100-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Konkurrenz
+*** en-s-1234100-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wettkampf
+** Ukrainian glosses
+
+* Sense s-1234100-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: efec3447a484899b7466c02c0b328b2620328da92099dfaa0e18af64bd0b31d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: harc
+*** en-s-1234100-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: küzdelem
+*** en-s-1234100-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verseny
+*** en-s-1234100-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vetélkedés
+** Ukrainian glosses
+
+* Sense s-1234100-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ff6c5ab5bc2a53f4ac263c0138e580d32d06a6f41db7359378a06e89f5c31cf3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234100-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: конкуренция; соревнование
+** Ukrainian glosses

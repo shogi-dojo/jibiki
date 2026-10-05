@@ -1,0 +1,251 @@
+#+TITLE: 改行
+#+JMDICT_ID: 1200820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいぎょう
+#+ROMAJI: kaigyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1200820-001
+:PROPERTIES:
+:TEXT: 改行
+:END:
+** Reading rd-1200820-001
+:PROPERTIES:
+:TEXT: かいぎょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1200820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 47de3128cab80c3d40024f9b9f237a25183174d2b359e6328da84f850855a9c7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- new line
+- new paragraph
+** Ukrainian glosses
+*** uk-s-1200820-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перехід на новий рядок; початок нового абзацу
+** Learner notes
+*** note-s-1200820-001-001
+:PROPERTIES:
+:END:
+- UK :: =改行する= — перейти на наступний рядок у письмі. =段落= смислова частина тексту; новий рядок не завжди означає нову тему. Спосіб оформлення залежить від виду документа й прийнятого стилю.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1200820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ここで改行した。
+- READING :: ここでかいぎょうした。
+- UK :: Тут я почав новий рядок.
+- EN :: I started a new line here.
+- FOCUS :: 改行した
+*** ex-1200820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 話題が変わったので、改行して書き続けた。
+- READING :: わだいがかわったので、かいぎょうしてかきつづけた。
+- UK :: Тема змінилася, тож я продовжив із нового рядка.
+- EN :: The topic changed, so I continued on a new line.
+- FOCUS :: 改行して
+*** ex-1200820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 改行する位置をそろえたら、手書きの案内も読みやすくなった。
+- READING :: かいぎょうするいちをそろえたら、てがきのあんないもよみやすくなった。
+- UK :: Після узгодження місць переносу рядків навіть рукописна інструкція стала читабельнішою.
+- EN :: Consistent line breaks made even the handwritten guide easier to read.
+- FOCUS :: 改行する
+
+* Sense s-1200820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 02b1f692613c08dacaa684292a4b9907a4aa4fad0562a39fa3c34279cc986b41
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- comp
+** English glosses
+- newline
+- line break
+- line feed
+** Ukrainian glosses
+*** uk-s-1200820-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розрив рядка; символ нового рядка; переведення рядка
+** Learner notes
+*** note-s-1200820-002-001
+:PROPERTIES:
+:END:
+- UK :: У комп'ютерному тексті =改行= також символ або операція розриву рядка. Не пробіл (=空白=) і не автоматично нова сторінка (=改ページ=). Технічний формат визначає, як саме зберігають розрив.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1200820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6228e97bdfc06e2fbe9a426ffc8cd9e4f4ba18470c4f82a9a4e4b89a46f38e39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200820-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine neue Zeile beginnen
+*** en-s-1200820-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neue Zeile
+*** en-s-1200820-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beginn einer neuen Zeile
+** Ukrainian glosses
+
+* Sense s-1200820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3d79414a9c81905a315b01d4e7a24dd838c2379d3439bd8b407c0ca9d0d155c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200820-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeilenvorschub
+*** en-s-1200820-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Linefeed
+*** en-s-1200820-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: LF
+** Ukrainian glosses
+
+* Sense s-1200820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6d2bc4655f4e18c1487d26e1c49ea121955ec6ab15dee2e84fab5655ce941cdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200820-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: красная строка, абзац
+*** en-s-1200820-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} писать с красной строки, делать абзац (отступ)
+** Ukrainian glosses
+
+* Sense s-1200820-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 922c03a82ec16064ffce9460c725f861d8395b38a14a161bb97d81dae96733f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1200820-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambio de párrafo
+*** en-s-1200820-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cambio de línea
+*** en-s-1200820-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punto y aparte
+** Ukrainian glosses

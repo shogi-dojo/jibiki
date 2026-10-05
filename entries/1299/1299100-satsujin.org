@@ -1,0 +1,330 @@
+#+TITLE: 殺人
+#+JMDICT_ID: 1299100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さつじん
+#+ROMAJI: satsujin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1299100-001
+:PROPERTIES:
+:TEXT: 殺人
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1299100-001
+:PROPERTIES:
+:TEXT: さつじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1299100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 299b2a4417290dcd602d3e08b3db32ece2f8b609c081a8555d39bae0c1379104
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- murder
+- homicide
+- manslaughter
+** Ukrainian glosses
+*** uk-s-1299100-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вбивство; позбавлення людини життя
+** Learner notes
+*** note-s-1299100-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальна назва вбивства людини; у японських правових повідомленнях 殺人 зазвичай пов'язане з умисним убивством. Англійські murder і manslaughter не слід механічно прирівнювати до однієї правової категорії.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1299100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 殺人事件が起きた。
+- READING :: さつじんじけんがおきた。
+- UK :: Сталося вбивство.
+- EN :: A homicide occurred.
+- FOCUS :: 殺人
+*** ex-1299100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 小説は殺人事件の捜査から始まる。
+- READING :: しょうせつはさつじんじけんのそうさからはじまる。
+- UK :: Роман починається з розслідування вбивства.
+- EN :: The novel begins with the investigation of a murder.
+- FOCUS :: 殺人
+*** ex-1299100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 報道を読む際は、殺人の疑いと、裁判で認定された事実を区別している。
+- READING :: ほうどうをよむさいは、さつじんのうたがいと、さいばんでにんていされたじじつをくべつしている。
+- UK :: Читаючи новини, я розрізняю підозру у вбивстві та факти, встановлені судом.
+- EN :: When reading news reports, I distinguish suspected murder from facts established in court.
+- FOCUS :: 殺人
+
+* Sense s-1299100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eb2037bc151b8a953ed9c341779d995e32278dd9e133c7830d575760e1fda7c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moord
+*** en-s-1299100-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het ombrengen
+*** en-s-1299100-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het doden
+*** en-s-1299100-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doodslag
+*** en-s-1299100-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: manslag
+** Ukrainian glosses
+
+* Sense s-1299100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 28ad3d83cc0fcd79784d9cbf8e41f10876de142ea7e48a90f8e8957336306aa9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: assassinat
+*** en-s-1299100-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: homicide
+*** en-s-1299100-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meurtre
+** Ukrainian glosses
+
+* Sense s-1299100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bddc9fbd2259ecb20b06db7a1e0970c665f39a8fc0f04a87a815607156b11a04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mord
+*** en-s-1299100-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ermordung
+*** en-s-1299100-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tötung
+*** en-s-1299100-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mordtat
+** Ukrainian glosses
+
+* Sense s-1299100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4bafde9912953906d9063ce7568d2804fcf2aa0a85a57af0cb992e9f1e214967
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Meuchelmord
+** Ukrainian glosses
+
+* Sense s-1299100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3448f67bd0e6742e7e63bead78aa5cb6d3e2b7ad16496a960b986ebc3946a5ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyilkosság
+** Ukrainian glosses
+
+* Sense s-1299100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d8d044ea8449608661a69ccf5ed348d2840b4ffd469ef9c731216a9a862b3118
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: убийство
+*** en-s-1299100-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～的} убийственный, губительный, смертоносный
+** Ukrainian glosses
+
+* Sense s-1299100-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: cb569a10331f22184102d4ca6c4265590df8a89d725f51360020347a5eb56a56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asesino
+*** en-s-1299100-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sicario
+** Ukrainian glosses
+
+* Sense s-1299100-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ab1b11bb906decc181d976aee39b0e7f4bea74851dc8a3bd1fc77dfde3fcbe49
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1299100-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mord
+** Ukrainian glosses

@@ -1,0 +1,368 @@
+#+TITLE: 賃貸
+#+JMDICT_ID: 1432030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちんたい
+#+ROMAJI: chintai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1432030-001
+:PROPERTIES:
+:TEXT: 賃貸
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1432030-001
+:PROPERTIES:
+:TEXT: ちんたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1432030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 274c383ee37cb952766c7981da6098ddf8a2a2b9913a5424f47218610e35113f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 賃借
+** English glosses
+- leasing (out)
+- renting out
+- hiring out
+- letting
+** Ukrainian glosses
+*** uk-s-1432030-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: здавання в оренду; оренда (з боку того, хто здає)
+** Learner notes
+*** note-s-1432030-001-001
+:PROPERTIES:
+:END:
+- UK :: =部屋を賃貸する= — здавати кімнату за плату. =賃借= акцентує сторону орендаря, =賃貸= сторону власника; у =賃貸住宅= слово ширше називає орендне житло. Умови й права не випливають із самого слова, їх описує договір.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1432030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この家は賃貸用だ。
+- READING :: このいえはちんたいようだ。
+- UK :: Цей будинок призначений для здавання в оренду.
+- EN :: This house is intended for rental.
+- FOCUS :: 賃貸
+*** ex-1432030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 空いている部屋を賃貸することにした。
+- READING :: あいているへやをちんたいすることにした。
+- UK :: Я вирішив здавати вільну кімнату в оренду.
+- EN :: I decided to rent out the vacant room.
+- FOCUS :: 賃貸する
+*** ex-1432030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 賃貸に出す前に設備を点検し、使い方を説明する資料を用意した。
+- READING :: ちんたいにだすまえにせつびをてんけんし、つかいかたをせつめいするしりょうをよういした。
+- UK :: Перед здаванням в оренду я перевірив обладнання й підготував інструкції.
+- EN :: Before offering it for rent, I checked the equipment and prepared instructions for its use.
+- FOCUS :: 賃貸
+
+* Sense s-1432030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1eecd7aebcc2ed483f053b372da6a6919702b3824df5783a2eb75623db794231
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpachting
+*** en-s-1432030-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhuur
+*** en-s-1432030-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leasing
+** Ukrainian glosses
+
+* Sense s-1432030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 04c550a262fb2ad2e50dee8820fc6a985d9e1e86a8003be0ec59db44a32c76cc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: location
+*** en-s-1432030-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: louage
+*** en-s-1432030-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: louer
+** Ukrainian glosses
+
+* Sense s-1432030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9ad0e7331c2bfbbb3d5e10c057aa6a4a4d34004d78116a86596eeeba4e4519a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vermietung
+*** en-s-1432030-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verpachtung
+*** en-s-1432030-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verleihen
+*** en-s-1432030-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vermieten
+*** en-s-1432030-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpachten
+*** en-s-1432030-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verleihen
+** Ukrainian glosses
+
+* Sense s-1432030-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d8934cb4a786721b3d54020a3fe559d6eb353d7068206c3410df541ae897ae00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (haszon) bérlet
+*** en-s-1432030-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérbeadás
+*** en-s-1432030-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérlet időtartama
+*** en-s-1432030-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérleti díj
+*** en-s-1432030-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérleti szerződés
+*** en-s-1432030-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csín
+*** en-s-1432030-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fonalkereszt
+*** en-s-1432030-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haszonbérbe adás
+*** en-s-1432030-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haszonbérbe vétel
+*** en-s-1432030-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haszonbérlet
+*** en-s-1432030-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haszonbérleti díj
+** Ukrainian glosses
+
+* Sense s-1432030-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0ee1ca1244efaf81171ca9cf1090af183d3d2314f58eb58477440f8809962eba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сдача в аренду (внаём, напрокат)
+*** en-s-1432030-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} сдавать в аренду (внаём, напрокат)
+** Ukrainian glosses
+
+* Sense s-1432030-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d185d9645185dc31698ecb742f5f0640750b644b6ede3bc3d249a5abab117add
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1432030-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alquiler
+** Ukrainian glosses

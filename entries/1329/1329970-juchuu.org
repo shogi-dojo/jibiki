@@ -1,0 +1,240 @@
+#+TITLE: 受注
+#+JMDICT_ID: 1329970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅちゅう
+#+ROMAJI: juchuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1329970-001
+:PROPERTIES:
+:TEXT: 受注
+:END:
+*** Priorities
+- news1
+- nf04
+** Written form wf-1329970-002
+:PROPERTIES:
+:TEXT: 受註
+:END:
+*** Information
+- rK
+** Reading rd-1329970-001
+:PROPERTIES:
+:TEXT: じゅちゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf04
+
+* Sense s-1329970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8cdc079a5ddc2b9a1359ed9278f5a9544e907e197926ce1303c68aaf4e7ed928
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 発注
+** English glosses
+- accepting an order
+- receiving an order
+- orders received
+- closed won
+** Ukrainian glosses
+*** uk-s-1329970-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: отримання замовлення; прийняття замовлення
+** Learner notes
+*** note-s-1329970-001-001
+:PROPERTIES:
+:END:
+- UK :: 受注 описує замовлення з боку продавця або виконавця: 受注する, 受注量, 受注を増やす. Протилежна перспектива — 発注, розміщення замовлення клієнтом. У звітах 受注 може означати обсяг одержаних замовлень, а не вже виконані роботи чи отриману оплату.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1329970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい仕事を受注した。
+- READING :: あたらしいしごとをじゅちゅうした。
+- UK :: Ми отримали нове замовлення на роботу.
+- EN :: We received a new work order.
+- FOCUS :: 受注
+*** ex-1329970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今月は受注が増えた。
+- READING :: こんげつはじゅちゅうがふえた。
+- UK :: Цього місяця кількість отриманих замовлень зросла.
+- EN :: Orders received increased this month.
+- FOCUS :: 受注
+*** ex-1329970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大きな案件を受注したため、各部署で作業の分担を確認した。
+- READING :: おおきなあんけんをじゅちゅうしたため、かくぶしょでさぎょうのぶんたんをかくにんした。
+- UK :: Оскільки ми отримали велике замовлення, підрозділи узгодили розподіл робіт.
+- EN :: Because we received a large order, the departments checked how to divide the work.
+- FOCUS :: 受注
+
+* Sense s-1329970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f3e1b25438bf791df57ff054afab0820d8af165c8f7e63b13a42e0cd015bbef2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329970-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een bestelling
+*** en-s-1329970-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: order krijgen
+*** en-s-1329970-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een bestelling
+*** en-s-1329970-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: order ontvangen
+** Ukrainian glosses
+
+* Sense s-1329970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8c6f28df6b3c3e82cbec405b939d0237dad247942e5abcf07374b00ff833b16b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329970-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bestellungen und Aufträge annehmen
+*** en-s-1329970-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufträge bekommen
+*** en-s-1329970-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Annahme von Bestellungen und Aufträgen
+** Ukrainian glosses
+
+* Sense s-1329970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8497b795ccefc274ebbba6581cb163b4b90489cc6fca600a58bfeece87444545
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329970-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) принятие заказа
+*** en-s-1329970-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} принимать заказ
+*** en-s-1329970-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) [принятый, полученный] заказ
+** Ukrainian glosses
+
+* Sense s-1329970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 598e07305a48dc66d5341692f7746d5849995bc6300da207cf1dacc7f83e3535
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329970-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recepción de un pedido
+*** en-s-1329970-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recepción de un encargo
+** Ukrainian glosses

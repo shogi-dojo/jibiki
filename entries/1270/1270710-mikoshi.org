@@ -1,0 +1,535 @@
+#+TITLE: 神輿
+#+JMDICT_ID: 1270710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みこし
+#+ROMAJI: mikoshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1270710-001
+:PROPERTIES:
+:TEXT: 神輿
+:END:
+*** Priorities
+- spec2
+** Written form wf-1270710-002
+:PROPERTIES:
+:TEXT: 御輿
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf42
+** Written form wf-1270710-003
+:PROPERTIES:
+:TEXT: 神興
+:END:
+*** Information
+- sK
+** Reading rd-1270710-001
+:PROPERTIES:
+:TEXT: みこし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf42
+- spec2
+** Reading rd-1270710-002
+:PROPERTIES:
+:TEXT: しんよ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 神輿
+
+* Sense s-1270710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 264c75c79b22986f7dcb2c4b4a7f44bdd7c7f0e9cce10123cde103fd0ca76415
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mikoshi
+*** en-s-1270710-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: portable Shinto shrine carried through the streets during festivals
+** Ukrainian glosses
+*** uk-s-1270710-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мікосі; переносне синтоїстське святилище
+** Learner notes
+*** note-s-1270710-001-001
+:PROPERTIES:
+:END:
+- UK :: 神輿 — ритуальне переносне святилище, яке несуть під час свят; типові 神輿を担ぐ та 神輿が通る. Це не звичайний транспорт для людей: у головному значенні назва пов'язана з перенесенням святині в обряді.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1270710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 神輿を担いだ。
+- READING :: みこしをかついだ。
+- UK :: Несли мікосі на плечах.
+- EN :: We carried the mikoshi.
+- FOCUS :: 神輿
+*** ex-1270710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祭りの神輿が通りを進んだ。
+- READING :: まつりのみこしがとおりをすすんだ。
+- UK :: Святковий мікосі рухався вулицею.
+- EN :: The festival mikoshi moved along the street.
+- FOCUS :: 神輿
+*** ex-1270710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 神輿を担ぐ人々の掛け声が、商店街に響いていた。
+- READING :: みこしをかつぐひとびとのかけごえが、しょうてんがいにひびいていた。
+- UK :: Торговельною вулицею лунали вигуки людей, що несли мікосі.
+- EN :: The calls of people carrying the mikoshi echoed through the shopping street.
+- FOCUS :: 神輿
+
+* Sense s-1270710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff8333c1b295efdfe1d6ea88cd795c6b90df039f803905c829fd5dc7e1110ebe
+:END:
+** Applies to forms
+*** Written forms
+- 御輿
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hon
+*** Cross-references
+- 輿・1
+** English glosses
+- palanquin
+- litter
+** Ukrainian glosses
+*** uk-s-1270710-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: паланкін; ноші для перевезення людини (шанобливе)
+** Learner notes
+*** note-s-1270710-002-001
+:PROPERTIES:
+:END:
+- UK :: Цей сенс джерело обмежує написанням 御輿: шаноблива назва паланкіна або нош, зазвичай у старому чи спеціальному контексті. Це значення слід відрізняти від сучасного святкового мікосі; звичайні ноші в медичному описі — 担架.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1270710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8cf353701555d1d0385004ec7d7acd55772bfca81b291da812e7dc94bbd580a1
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- みこし
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Sense information
+- esp. as 〜を上げる, 〜を据える, etc.
+*** Cross-references
+- みこしを据える
+- 腰・1
+** English glosses
+- lower back
+- waist
+- hips
+** Ukrainian glosses
+*** uk-s-1270710-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поперек; сідниці; місце сидіння в усталених виразах
+** Learner notes
+*** note-s-1270710-003-001
+:PROPERTIES:
+:END:
+- UK :: Усталене みこしを上げる означає підвестися або нарешті почати діяти, а みこしを据える — влаштуватися надовго. Це образне значення часто пишуть каною; воно не означає буквального підняття ритуального святилища в такій сполуці.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1270710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ba2162f290a5169c68cd55987e0acf545d138acf2a393e1eaf410517bf9e2e33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {rel.} shintoïstisch draagschrijn
+*** en-s-1270710-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± ark
+** Ukrainian glosses
+
+* Sense s-1270710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2f57b0d465ac3045dbd801e78a1eccf4719553ed7be0e787b04168e25f2c2709
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keizerlijke draagstoel
+*** en-s-1270710-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palankijn
+** Ukrainian glosses
+
+* Sense s-1270710-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 215c284b538143dd86f95975a5870c52eb767289d3aef5e71ff5400f8c75844d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keizerlijke draagstoel
+*** en-s-1270710-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palankijn
+** Ukrainian glosses
+
+* Sense s-1270710-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3420fb67125664a660dcac29d8667c931e3106ee34f1ac26397bb00cf7c37009
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {rel.} shintoïstisch draagschrijn
+*** en-s-1270710-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± ark
+** Ukrainian glosses
+
+* Sense s-1270710-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4481601d6ae7802964a95c2d6b3c0afa3f5a7f50a929362ebec3945d00b34935
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lende
+*** en-s-1270710-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heup
+** Ukrainian glosses
+
+* Sense s-1270710-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 011347aac3f6fc71f9963ae09fe84884b7871b477f903b4cb6fa269382fdc3ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sancutaire porté par des personnes
+** Ukrainian glosses
+
+* Sense s-1270710-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 12bd4019a9828e66c2dbd3a106177338e763aaf03c46ee1cd501dbace8a13c08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mikoshi
+*** en-s-1270710-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tragbarer sänftenartiger Schrein
+*** en-s-1270710-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mikoshi
+*** en-s-1270710-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tragbarer sänftenartiger Schrein
+** Ukrainian glosses
+
+* Sense s-1270710-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 894fc96102744fb0f2b6d341e64fac79f4aed8af762b5879cbf3717f70d8e11d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sänfte
+*** en-s-1270710-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaiserliche Sänfte
+** Ukrainian glosses
+
+* Sense s-1270710-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 3f44c84ce7bd455a230df85dc54510635c8b78c6aa15c9e103c1141be041a3c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Taille
+*** en-s-1270710-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hüfte
+*** en-s-1270710-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreuz
+*** en-s-1270710-012-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mikoshi
+** Ukrainian glosses
+
+* Sense s-1270710-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 5d8b2446433ba2de61f156c9feb6b846085411967d05c93fc8e2e083dd79d342
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (синт.) священный паланкин; переносный ковчег
+** Ukrainian glosses
+
+* Sense s-1270710-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: f6e67b7767dea19d77e4cccf772ee7ffb53051fe4e13371b9c857fe2cc0a1dd2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-014-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prenosna skrinja
+*** en-s-1270710-014-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relikvarij
+*** en-s-1270710-014-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oltar
+*** en-s-1270710-014-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: svetišče
+** Ukrainian glosses
+
+* Sense s-1270710-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: a4646677abf35179b30f770056b0e7e8293f0587ee4a4dd680cafa0c23a0d0f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1270710-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: altar (cargado en hombros)
+** Ukrainian glosses

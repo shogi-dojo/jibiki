@@ -1,0 +1,408 @@
+#+TITLE: 鉄筋
+#+JMDICT_ID: 1437830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てっきん
+#+ROMAJI: tekkin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1437830-001
+:PROPERTIES:
+:TEXT: 鉄筋
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Reading rd-1437830-001
+:PROPERTIES:
+:TEXT: てっきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1437830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6fc873b4a3c74348e348d74cf1c6d9ec7a1f7f8f4d9cda844fb39d08706abac1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rebar
+- (iron) reinforcing bar
+- reinforcing steel
+** Ukrainian glosses
+*** uk-s-1437830-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: арматура; сталевий арматурний стрижень
+** Learner notes
+*** note-s-1437830-001-001
+:PROPERTIES:
+:END:
+- UK :: 鉄筋 — стрижні, якими зміцнюють бетон; природні 鉄筋を入れる та 鉄筋を組む. На відміну від 鉄骨, зазвичай працює всередині бетонної конструкції й не називає великих сталевих балок каркаса.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1437830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鉄筋を並べた。
+- READING :: てっきんをならべた。
+- UK :: Розклали арматурні стрижні.
+- EN :: We laid out the reinforcing bars.
+- FOCUS :: 鉄筋
+*** ex-1437830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: コンクリートの中に鉄筋を入れる。
+- READING :: コンクリートのなかにてっきんをいれる。
+- UK :: У бетон укладають арматуру.
+- EN :: Reinforcing bars are placed inside the concrete.
+- FOCUS :: 鉄筋
+*** ex-1437830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 図面に従って鉄筋を組んでから、コンクリートを流し込んだ。
+- READING :: ずめんにしたがっててっきんをくんでから、コンクリートをながしこんだ。
+- UK :: Спочатку склали арматуру за кресленням, а потім залили бетон.
+- EN :: We assembled the reinforcing bars according to the plan before pouring the concrete.
+- FOCUS :: 鉄筋
+
+* Sense s-1437830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a3841faee115f4c7676634f0b70d77a14bb97881787265d01a16effce8ef7eb7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 鉄筋コンクリート
+** English glosses
+- reinforced concrete
+** Ukrainian glosses
+*** uk-s-1437830-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: залізобетон; залізобетонна конструкція
+** Learner notes
+*** note-s-1437830-002-001
+:PROPERTIES:
+:END:
+- UK :: 鉄筋 також є скороченим позначенням 鉄筋コンクリート, особливо в описах будівель чи житла. У виразі 鉄筋の建物 йдеться про спосіб будівництва загалом, а не просто про наявність окремих арматурних стрижнів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1437830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 709db78ae51b8aa8a0ca0d3c110ed78a525f1786af0951bf676546e6c912d6ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ijzeren streng
+*** en-s-1437830-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {oneig.} ijzeren balk
+*** en-s-1437830-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstevigingsbalk van ijzer
+** Ukrainian glosses
+
+* Sense s-1437830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f963e1ad294720f1e890ef5791f133f54affc9a0b081b38ab8268b102d8894f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: armature (de béton armé)
+*** en-s-1437830-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barre d'acier (pour béton armé)
+** Ukrainian glosses
+
+* Sense s-1437830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ad47e8558dc6e1a8bc283e1069c506add2566a1de5b5fccfc281c5ba2de9d2bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rundstahl
+*** en-s-1437830-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rundstahlbewehrung
+** Ukrainian glosses
+
+* Sense s-1437830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1df69c80f8f7064e712d955eae8b978554decd49d45a5a254152042ed690eab7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Armierungsstahl
+*** en-s-1437830-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Armierungseisen
+*** en-s-1437830-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bewehrungsstahl
+*** en-s-1437830-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bewehrungseisen
+*** en-s-1437830-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bewehrungsstab
+** Ukrainian glosses
+
+* Sense s-1437830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 58c3b3c025d1fb0189e206ff6b4a93f314428755cb93613020ef776ad0f569d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drahtgeflecht
+*** en-s-1437830-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisengeflecht
+*** en-s-1437830-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenverstärkung
+*** en-s-1437830-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stahleinlage
+*** en-s-1437830-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stahlverstrebung
+** Ukrainian glosses
+
+* Sense s-1437830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: fcfb69b78e5bebb3fbc7396e93a88c73628ef9105760fb4574ec48a6569c3989
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stahlbeton
+*** en-s-1437830-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewehrter Beton
+*** en-s-1437830-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: armierter Beton
+*** en-s-1437830-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenbeton (Abk.)
+** Ukrainian glosses
+
+* Sense s-1437830-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a01e7d907b6e7e86c30c280e6e467f6f7ca2cc6082334da170cce900e0eb0597
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: железная балка, железная ферма, железный остов
+** Ukrainian glosses
+
+* Sense s-1437830-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b3689dcd7599ce79d741c8342537e87f1e258dde5d5be4b19961e054b05ec376
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: železna armatura
+** Ukrainian glosses
+
+* Sense s-1437830-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 41f39c20bcd9040d77b8fe0f5d1af82896a785fb732b6badc49fbd980a0910cc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437830-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: armazón de acero
+** Ukrainian glosses

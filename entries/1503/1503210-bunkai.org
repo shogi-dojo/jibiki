@@ -1,0 +1,916 @@
+#+TITLE: 分解
+#+JMDICT_ID: 1503210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんかい
+#+ROMAJI: bunkai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1503210-001
+:PROPERTIES:
+:TEXT: 分解
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf15
+** Reading rd-1503210-001
+:PROPERTIES:
+:TEXT: ぶんかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf15
+
+* Sense s-1503210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9378ef2c981ace5d7ea9f399bf8c0a1c788315ce2a44c0595815ac0bab796bf1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- disassembly
+- dismantling
+- disaggregating
+- taking apart
+- breaking up
+- analysis
+- parsing
+** Ukrainian glosses
+*** uk-s-1503210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розбирання
+*** uk-s-1503210-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: демонтаж
+*** uk-s-1503210-001-003
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розбір (на частини)
+** Learner notes
+*** note-s-1503210-001-001
+:PROPERTIES:
+:END:
+- UK :: Позначає розбирання приладів, машин або механізмів на окремі частини для чищення, ремонту чи перевірки («時計を分解する», «分解掃除»). Також може позначати граматичний аналіз або розбір цілого на складові.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1503210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 時計[とけい]を分解[ぶんかい]して修理[しゅうり]しました。
+- READING :: とけいをぶんかいしてしゅうりしました。
+- UK :: Я розібрав годинник і відремонтував його.
+- EN :: I disassembled the watch and repaired it.
+- FOCUS :: 分解[ぶんかい]
+*** ex-1503210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 機械[きかい]の構造[こうぞう]を知[し]るために、丁寧[ていねい]に部品[ぶひん]を分解[ぶんかい]した。
+- READING :: きかいのこうぞうをしるために、ていねいにぶひんをぶんかいした。
+- UK :: Щоб зрозуміти будову механізму, ми обережно розібрали його на деталі.
+- EN :: To understand the machine's structure, we carefully disassembled its parts.
+- FOCUS :: 分解[ぶんかい]
+*** ex-1503210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古[ふる]いパソコンを分解[ぶんかい]してみたら、内部[ないぶ]にたくさんのホコリがたまっていた。
+- READING :: ふるいパソコンをぶんかいしてみたら、ないぶにたくさんのホコリがたまっていた。
+- UK :: Коли я розібрав старий комп'ютер, виявилося, що всередині накопичилося багато пилу.
+- EN :: When I took the old computer apart, I found a lot of dust had accumulated inside.
+- FOCUS :: 分解[ぶんかい]
+
+* Sense s-1503210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2cedab51589a3072bb8d25d295ef14ab9fa72bf88eb77ebde8f1a3bcf8cea80a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- chem
+** English glosses
+- decomposition
+- resolution
+- disintegration
+- degradation
+** Ukrainian glosses
+*** uk-s-1503210-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розкладання (хімічне або біологічне)
+*** uk-s-1503210-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розпад
+*** uk-s-1503210-002-003
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: деградація
+** Learner notes
+*** note-s-1503210-002-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний або біологічний розклад складних речовин на простіші компоненти під дією тепла, світла, мікроорганізмів тощо («水を電気分解する» — електроліз води, «微生物による分解»).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1503210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2a25b98f045d2c654695c45e904f72a4422236084ef1db919360d07943aa4314
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- math
+** English glosses
+- factorization
+** Ukrainian glosses
+*** uk-s-1503210-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: факторизація
+*** uk-s-1503210-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розкладання (на множники)
+** Learner notes
+*** note-s-1503210-003-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін: розкладання математичного виразу, многочлена чи числа на множники («因数分解» — розклад на множники).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1503210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 41c7298296dda1bb6acd249470c95183f1eec22a7af843c21ef19e48be11457f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontbinding
+*** en-s-1503210-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontleding
+*** en-s-1503210-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decompositie
+*** en-s-1503210-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplossing
+*** en-s-1503210-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitsplitsing
+*** en-s-1503210-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} afbraak
+*** en-s-1503210-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} dissociatie
+*** en-s-1503210-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} analyse
+*** en-s-1503210-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} kraking
+** Ukrainian glosses
+
+* Sense s-1503210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 71769eb5d58708da03e57d13c3f4ac28278cb30d2c2ef850fdbcd7de00cbd54a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontmanteling
+*** en-s-1503210-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: demontage
+*** en-s-1503210-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desintegratie
+** Ukrainian glosses
+
+* Sense s-1503210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 577f4ee760ba4ae8780d92f2cb5938d60dfff5babe9609cf6c8b74bc657dba03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontbinden
+*** en-s-1503210-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontleden
+*** en-s-1503210-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplossen
+*** en-s-1503210-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dissolveren
+*** en-s-1503210-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resolveren
+*** en-s-1503210-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitsplitsen
+*** en-s-1503210-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} afbreken
+*** en-s-1503210-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} analyseren
+*** en-s-1503210-006-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} kraken
+** Ukrainian glosses
+
+* Sense s-1503210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c5aea6509ae37f495fe7b2134016349d02d4ea9766b608069d38bd40b27ef071
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontmantelen
+*** en-s-1503210-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uit elkaar halen
+*** en-s-1503210-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: demonteren
+*** en-s-1503210-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uit elkaar nemen
+** Ukrainian glosses
+
+* Sense s-1503210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 39b199b7219446c4cf5ede7c1b3fdda355e790fb0ff16150adb9a803e8980f0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desintegreren
+*** en-s-1503210-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uiteenvallen
+*** en-s-1503210-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uit elkaar vallen
+** Ukrainian glosses
+
+* Sense s-1503210-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: fd914d2f32c719ff322d2a99bee62a3812892b56c73369a97909781a409104ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analyse
+*** en-s-1503210-009-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décomposition
+*** en-s-1503210-009-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: démontage
+*** en-s-1503210-009-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: désassemblage
+** Ukrainian glosses
+
+* Sense s-1503210-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 047a20152d3e02cb5e93b7272c8abe6de1161125abd419a39b2455b6b8d82de6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zerlegung
+*** en-s-1503210-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Demontage
+*** en-s-1503210-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auseinandernehmen
+*** en-s-1503210-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Analyse
+** Ukrainian glosses
+
+* Sense s-1503210-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 6850289513cc0d4f1fcfa54dfd34720753e57a401a96a9612f1255f6150d4bc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Analyse
+*** en-s-1503210-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufspaltung
+** Ukrainian glosses
+
+* Sense s-1503210-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ed48afc9643155de042a0ddb6b1bb29e5c26e7b1bab5ed4f422718d60ce59927
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Cracken
+*** en-s-1503210-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kracken
+** Ukrainian glosses
+
+* Sense s-1503210-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 908c947cab00492777c53b2e935a999ae74f745c69ed86ce61c1cb2e25adf479
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Partition
+** Ukrainian glosses
+
+* Sense s-1503210-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: a02caba1a8e0386184a2d2cb81bfa2a89c9861f27beb109774c01e452448120e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auseinander nehmen
+*** en-s-1503210-014-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: demontieren
+*** en-s-1503210-014-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zerlegen
+** Ukrainian glosses
+
+* Sense s-1503210-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 5312ece5d5e375a268531bcd612a151ad3b70b1769280a60b72c03edbd868f63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: analysieren
+*** en-s-1503210-015-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufspalten
+** Ukrainian glosses
+
+* Sense s-1503210-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 531fa10dbe0abbca9f76d6128fa3c3b75275fa762d7b471649de9b940dc22367
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-016-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cracken
+** Ukrainian glosses
+
+* Sense s-1503210-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: e34a20e92f9330f7565fbdd505e787d152e5c4a8deab9b773af0cce09e5d3495
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-017-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partitionieren
+** Ukrainian glosses
+
+* Sense s-1503210-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: f5be4ee48434a89bdc25f866343149d583f38bb1366abf9ea54ce9393873ad0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-018-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lebontás
+*** en-s-1503210-018-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétbontás
+*** en-s-1503210-018-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszerelés
+*** en-s-1503210-018-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszerel
+*** en-s-1503210-018-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszed
+** Ukrainian glosses
+
+* Sense s-1503210-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: f1ea4b9a7941498fec4c2a18371af102a085c4372b3b580738bbc0503175be7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-019-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) разложение на [составные] части; расчленение; расщепление; разборка (машины, оружия и т. п.); демонтаж
+*** en-s-1503210-019-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} разлагать[ся], распадаться; расчленять, разнимать; разбирать, демонтировать
+*** en-s-1503210-019-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) разбор, анализ (напр. предложения)
+*** en-s-1503210-019-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} разбирать, анализировать
+** Ukrainian glosses
+
+* Sense s-1503210-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 9945307601fe62451cc89e40d889c29aa5d184955f6c552722225d724e5bb603
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-020-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razstaviti
+*** en-s-1503210-020-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razstaviti
+*** en-s-1503210-020-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razstaviti na dele
+*** en-s-1503210-020-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komponente
+*** en-s-1503210-020-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resolucija
+*** en-s-1503210-020-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raztopina
+*** en-s-1503210-020-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razkosanje
+** Ukrainian glosses
+
+* Sense s-1503210-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 1935e5186a66ef13f9b46cdb1e6aa6a07dcd3669a11427916d12bfc2d656eebc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503210-021-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desintegración
+*** en-s-1503210-021-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desmontaje
+** Ukrainian glosses

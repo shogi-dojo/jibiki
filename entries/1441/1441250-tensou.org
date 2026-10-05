@@ -1,0 +1,473 @@
+#+TITLE: 転送
+#+JMDICT_ID: 1441250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんそう
+#+ROMAJI: tensou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1441250-001
+:PROPERTIES:
+:TEXT: 転送
+:END:
+*** Priorities
+- news2
+- nf25
+- spec1
+** Written form wf-1441250-002
+:PROPERTIES:
+:TEXT: 轉送
+:END:
+*** Information
+- sK
+** Reading rd-1441250-001
+:PROPERTIES:
+:TEXT: てんそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+- spec1
+
+* Sense s-1441250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3d68c411fa751a71d69a1f7489f1fc698e7b91497cafd67977ee52e4a48a1edb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- transfer (of a call, patient, etc.)
+- forwarding (a letter, email, etc.)
+- redirection
+** Ukrainian glosses
+*** uk-s-1441250-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пересилання; перенаправлення; переведення
+** Learner notes
+*** note-s-1441250-001-001
+:PROPERTIES:
+:END:
+- UK :: =メールを転送する= — переслати лист, =電話を転送する= — переадресувати дзвінок. Також передавання пацієнта за контекстом установ. =送る= загальна відправка, тут подальше спрямування вже отриманого або переданого.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1441250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: メールを友人に転送した。
+- READING :: めーるをゆうじんにてんそうした。
+- UK :: Я переслав лист другові.
+- EN :: I forwarded the email to a friend.
+- FOCUS :: 転送した
+*** ex-1441250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電話を担当者に転送してもらった。
+- READING :: でんわをたんとうしゃにてんそうしてもらった。
+- UK :: Мій дзвінок переадресували відповідальному працівникові.
+- EN :: My call was transferred to the person in charge.
+- FOCUS :: 転送して
+*** ex-1441250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 転送する前に宛先を確認し、相手に必要な内容だけを送った。
+- READING :: てんそうするまえにあてさきをかくにんし、あいてにひつようなないようだけをおくった。
+- UK :: Перед пересиланням я перевірив адресу й надіслав лише потрібний отримувачеві зміст.
+- EN :: I checked the recipient before forwarding and sent only the content they needed.
+- FOCUS :: 転送する
+
+* Sense s-1441250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c7c40204c1f37a6b680abf7ac19f130146a95178223e65cdd270687d1192ff56
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- transfer (of data)
+- transmission
+** Ukrainian glosses
+*** uk-s-1441250-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: передавання даних; перенесення інформації
+** Learner notes
+*** note-s-1441250-002-001
+:PROPERTIES:
+:END:
+- UK :: =データを転送する= — передати дані між пристроями чи системами. Не обов'язково видалити оригінал: напрям і спосіб визначає операція. =保存= зберігання, =転送= сам рух інформації.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1441250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f4afc481106a1bd26a415825665d32623700bd8e2e3cd1eefdd5cc12148fe1d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorsturen
+*** en-s-1441250-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forwarden
+*** en-s-1441250-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorzenden
+*** en-s-1441250-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overzenden
+*** en-s-1441250-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitzenden
+*** en-s-1441250-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nazenden
+*** en-s-1441250-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nasturen
+*** en-s-1441250-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: achternasturen
+*** en-s-1441250-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overseinen
+*** en-s-1441250-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorseinen
+*** en-s-1441250-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorverwijzen
+*** en-s-1441250-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorsturing
+*** en-s-1441250-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forward
+*** en-s-1441250-003-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorzending
+*** en-s-1441250-003-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overzending
+*** en-s-1441250-003-016
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nazending
+*** en-s-1441250-003-017
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nasturing
+*** en-s-1441250-003-018
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overseining
+*** en-s-1441250-003-019
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorseining
+*** en-s-1441250-003-020
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transmissie
+*** en-s-1441250-003-021
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorverwijzing
+*** en-s-1441250-003-022
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redirect
+** Ukrainian glosses
+
+* Sense s-1441250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a8f977e0a0ed1254bf95bf50cc97012579648e978dedd4e2984479b75ca30cbe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachsenden
+*** en-s-1441250-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachschicken
+*** en-s-1441250-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachsendung
+** Ukrainian glosses
+
+* Sense s-1441250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc0d750bdbefcf7b54eb48748a4eef095f5dbd1fdb2df40414486467dbd0cd24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übertragung
+** Ukrainian glosses
+
+* Sense s-1441250-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c87570176bef8bcb1e0ea4796aef3dd9e5a7bf976c0b3315fcf20a28cfd8793f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Forwarding
+*** en-s-1441250-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weiterleitung
+** Ukrainian glosses
+
+* Sense s-1441250-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a51a53ea5a7331d1724747684abc451b970e7f119a906486801f06612ac40ed8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átruházás
+*** en-s-1441250-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átvitel
+*** en-s-1441250-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erőátvitel
+** Ukrainian glosses
+
+* Sense s-1441250-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e5b6f245402a8c799d3f3ef55e204b20b114f1aa63c89c202a343d668513f70d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1441250-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) переадресовка
+*** en-s-1441250-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [御]転送を乞う прошу переадресовать
+*** en-s-1441250-008-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) передача
+*** en-s-1441250-008-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} передавать (телеграмму и т. п.)
+** Ukrainian glosses

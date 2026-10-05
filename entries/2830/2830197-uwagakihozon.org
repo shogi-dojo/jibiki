@@ -1,0 +1,90 @@
+#+TITLE: 上書き保存
+#+JMDICT_ID: 2830197
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うわがきほぞん
+#+ROMAJI: uwagakihozon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2830197-001
+:PROPERTIES:
+:TEXT: 上書き保存
+:END:
+** Reading rd-2830197-001
+:PROPERTIES:
+:TEXT: うわがきほぞん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2830197-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d2a43b2d18dcd0cd57546b832272e2d6c19972ff08d7c0c5617bf6ef5144cd1f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- n
+*** Fields
+- comp
+*** Cross-references
+- 上書き・うわがき・2
+** English glosses
+- saving changes (e.g. to a file)
+** Ukrainian glosses
+*** uk-s-2830197-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: збереження змін поверх попередньої версії
+** Learner notes
+*** note-s-2830197-001-001
+:PROPERTIES:
+:END:
+- UK :: =上書き保存する= — зберегти поточні зміни до того самого файла. =名前を付けて保存= — збереження з новою назвою за відповідного інтерфейсу. Наслідки для старої версії залежать від програми; слово не гарантує історію або можливість повернення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-2830197-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 文書を上書き保存した。
+- READING :: ぶんしょをうわがきほぞんした。
+- UK :: Я зберіг зміни в тому самому документі.
+- EN :: I saved the changes over the existing document.
+- FOCUS :: 上書き保存した
+*** ex-2830197-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 上書き保存してから、画面を閉じた。
+- READING :: うわがきほぞんしてから、がめんをとじた。
+- UK :: Після збереження змін я закрив екран.
+- EN :: I closed the screen after saving the changes.
+- FOCUS :: 上書き保存して
+*** ex-2830197-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 元の文書も残したかったので、上書き保存する前に別の名前で複製した。
+- READING :: もとのぶんしょものこしたかったので、うわがきほぞんするまえにべつのなまえでふくせいした。
+- UK :: Я хотів лишити й оригінал, тож перед збереженням поверх нього зробив копію з іншою назвою.
+- EN :: I wanted to keep the original too, so I made a copy under another name before overwriting it.
+- FOCUS :: 上書き保存する

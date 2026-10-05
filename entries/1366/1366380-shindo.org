@@ -1,0 +1,219 @@
+#+TITLE: 震度
+#+JMDICT_ID: 1366380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんど
+#+ROMAJI: shindo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1366380-001
+:PROPERTIES:
+:TEXT: 震度
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1366380-001
+:PROPERTIES:
+:TEXT: しんど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1366380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d7835fe8ed56bd954db85d7071ac5b0c8792fe505c07b7a46a98a5bbee813ba6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 震度階級
+** English glosses
+- seismic intensity
+** Ukrainian glosses
+*** uk-s-1366380-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сейсмічна інтенсивність; сила відчутних коливань у певному місці
+** Learner notes
+*** note-s-1366380-001-001
+:PROPERTIES:
+:END:
+- UK :: 震度 описує інтенсивність струсів у конкретному місці; типові 震度を観測する та 震度５. Від マグニチュード відрізняється тим, що не називає загальну величину землетрусу: для одного землетрусу різні місця можуть мати різну 震度.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1366380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 震度を確認した。
+- READING :: しんどをかくにんした。
+- UK :: Уточнили сейсмічну інтенсивність.
+- EN :: We checked the seismic intensity.
+- FOCUS :: 震度
+*** ex-1366380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域ごとの震度が地図に示された。
+- READING :: ちいきごとのしんどがちずにしめされた。
+- UK :: На карті показали інтенсивність струсів у кожному регіоні.
+- EN :: The map showed seismic intensity for each region.
+- FOCUS :: 震度
+*** ex-1366380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ地震でも、地盤の違いによって観測される震度は異なる。
+- READING :: おなじじしんでも、じばんのちがいによってかんそくされるしんどはことなる。
+- UK :: Навіть під час одного землетрусу спостережувана інтенсивність відрізняється залежно від ґрунту.
+- EN :: Even in the same earthquake, observed intensity varies with ground conditions.
+- FOCUS :: 震度
+
+* Sense s-1366380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b3f5e07a0d0de3dea9f70473d454bd433843cc08a297aa358352009e889228bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardbevingsintensiteit
+*** en-s-1366380-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seismische intensiteit
+** Ukrainian glosses
+
+* Sense s-1366380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 64c14920ee364578d7fd5f26e7c76689d87dab0c769662a7e0d5d81683d6a9d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: degré d'un tremblement de terre sur l'échelle japonaise (de 1 à 7)
+** Ukrainian glosses
+
+* Sense s-1366380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a8d90fc51f9fd323cc7664ea60af5e0146d2dd34b8dc7b9682cdee7b063bf490
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdbebenstärke
+*** en-s-1366380-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stärke eines Erdbebens (in der japanischen Skala von 0 bis 7 nach der gefühlten Erdbebenstärke; 1 = sehr leichtes Erdbeben; 2 = leichtes Erdbeben; 3 = schwaches Erdbeben; 4 = mittleres Erdbeben; 5 = heftiges Erdbeben; 6 = starkes Erdbeben; 7 = sehr starkes Erdbeben)
+** Ukrainian glosses
+
+* Sense s-1366380-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4ae6befc9cc9d1f12dcdfff3ffaff87d3803d1e5b5dad57d9354521864b0cd5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: степень силы (сила) землетрясения ((см. 1-я ) びしん(, 2-я ) けいしん【軽震】(, 3-я ) じゃくしん(, 4-я ) ちゅうしん(, 5-я ) きょうしん【強震】(, 6-я ) れっしん【烈震】(, 7-я ) げきしん【激震】)
+** Ukrainian glosses
+
+* Sense s-1366380-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 25993945e402e7aefc7db9d4e4db3e35b7a6dbcaf856f537c141f25be7a72bc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jakost potresa
+** Ukrainian glosses
+
+* Sense s-1366380-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d2b873e4fac3df211edcc3faa9657546776f06a6429d35ec056c6e332b5c24e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1366380-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grados de magnitud de un sismo
+** Ukrainian glosses

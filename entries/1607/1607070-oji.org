@@ -1,0 +1,384 @@
+#+TITLE: 叔父
+#+JMDICT_ID: 1607070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おじ
+#+ROMAJI: oji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1607070-001
+:PROPERTIES:
+:TEXT: 叔父
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf16
+** Written form wf-1607070-002
+:PROPERTIES:
+:TEXT: 伯父
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf23
+** Reading rd-1607070-001
+:PROPERTIES:
+:TEXT: おじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf16
+- nf23
+** Reading rd-1607070-002
+:PROPERTIES:
+:TEXT: はくふ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 伯父
+** Reading rd-1607070-003
+:PROPERTIES:
+:TEXT: しゅくふ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 叔父
+
+* Sense s-1607070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9d1011bcee6c893d4ffa66dfdc540ea23798fa735206870826222467826c3399
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- 伯父 or 叔父 respectively can mean older or younger than one's parent
+*** Cross-references
+- 叔母・おば
+** English glosses
+- uncle
+** Ukrainian glosses
+*** uk-s-1607070-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дядько
+** Learner notes
+*** note-s-1607070-001-001
+:PROPERTIES:
+:END:
+- UK :: =伯父= — брат когось із батьків, старший за нього; =叔父= — молодший. Обидва читаються =おじ=, а кана =おじ= не уточнює старшинства. =おじさん= може бути як родичем, так і звертанням до стороннього чоловіка; контекст важливий.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1607070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 伯父が遊びに来た。
+- READING :: おじがあそびにきた。
+- UK :: Дядько прийшов у гості.
+- EN :: My uncle came to visit.
+- FOCUS :: 伯父
+*** ex-1607070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 母の兄にあたる伯父は、近くの町に住んでいる。
+- READING :: ははのあににあたるおじは、ちかくのまちにすんでいる。
+- UK :: Мій дядько, старший брат матері, живе в сусідньому місті.
+- EN :: My uncle, my mother's older brother, lives in a nearby town.
+- FOCUS :: 伯父
+*** ex-1607070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 家族の歴史を調べるため、伯父に祖父母の若い頃の話を聞いた。
+- READING :: かぞくのれきしをしらべるため、おじにそふぼのわかいころのはなしをきいた。
+- UK :: Досліджуючи історію родини, я розпитав дядька про молодість дідуся й бабусі.
+- EN :: I asked my uncle about my grandparents' younger years while researching family history.
+- FOCUS :: 伯父
+
+* Sense s-1607070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 80b72cb8fb1d7e024004820dd80c6e70091eaf66e5a455aa8c6dd8b0aca94dba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oom {die een jongere broer van een ouder is
+*** en-s-1607070-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: of de echtgenoot van een jongere zuster van een ouder}
+** Ukrainian glosses
+
+* Sense s-1607070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ab49a9e3dbd53c84bd508a63ecc55b94079c2624e61c4f87e18d0331627ce291
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oom {die een oudere broer van een ouder is
+*** en-s-1607070-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: of de echtgenoot van een oudere zuster van een ouder}
+*** en-s-1607070-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oom
+*** en-s-1607070-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} nonkel
+*** en-s-1607070-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nonk
+*** en-s-1607070-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} onkel {oudere broer van vader
+*** en-s-1607070-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moeder of echtgenoot van oudere zuster van vader
+*** en-s-1607070-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moeder}
+** Ukrainian glosses
+
+* Sense s-1607070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8a9074ed76a165cf2d3e62ed955f643780a9708f8dac9f32c12eb926fad3517c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oncle (frère aîné du parent)
+** Ukrainian glosses
+
+* Sense s-1607070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b76be24c0126129886c459164b2a31c8a07c5409e133a9a70d2828a43657aabe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Onkel
+*** en-s-1607070-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Onkel
+*** en-s-1607070-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: älterer Bruder von Vater oder Mutter
+** Ukrainian glosses
+
+* Sense s-1607070-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a22ed0c5064e016c06945fc5416ae898bf3e3690c3cdba7aeb969801c043e185
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagybácsi
+** Ukrainian glosses
+
+* Sense s-1607070-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: fc4c7b96159631bdecc792d08531332d9a00068a4010b62662973397ff80b1a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн. см.) おじ
+*** en-s-1607070-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дядя
+*** en-s-1607070-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дядя (старше матери или отца)
+*** en-s-1607070-007-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дядя; (ср.) おじさんぶる
+** Ukrainian glosses
+
+* Sense s-1607070-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c68fe0fd0dd88feed40c1ec02ba80db8d3b5c64226eb14dd4abf3f0ce7249a9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stric
+** Ukrainian glosses
+
+* Sense s-1607070-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ecfc03c2202f6e77ffab43f5fbfc76506e3fd843176811e7db492e38156c1424
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1607070-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tío (menor que el padre de uno)
+*** en-s-1607070-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tío (menor que el padre o la madre de uno)
+*** en-s-1607070-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tío (menor que el padre de uno)
+** Ukrainian glosses

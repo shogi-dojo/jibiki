@@ -1,0 +1,505 @@
+#+TITLE: 移植
+#+JMDICT_ID: 1158310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いしょく
+#+ROMAJI: ishoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1158310-001
+:PROPERTIES:
+:TEXT: 移植
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Written form wf-1158310-002
+:PROPERTIES:
+:TEXT: 移殖
+:END:
+*** Information
+- rK
+** Reading rd-1158310-001
+:PROPERTIES:
+:TEXT: いしょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1158310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8d110c678a038e034cb485b8887dc5ee2d1b90fec8bc810bb8a648e1d3d42799
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- bot
+** English glosses
+- transplanting (a plant)
+- transplant
+- grafting
+** Ukrainian glosses
+*** uk-s-1158310-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пересаджування рослини; пересадка; прищеплення
+** Learner notes
+*** note-s-1158310-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає перенесення рослини на нове місце або відповідну операцію з рослинним матеріалом. Типові 苗を移植する; не плутати з 移動, яке просто описує рух, без спеціального контексту приживлення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1158310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 苗を畑に移植した。
+- READING :: なえをはたけにいしょくした。
+- UK :: Я пересадив розсаду в поле.
+- EN :: I transplanted the seedlings into the field.
+- FOCUS :: 移植
+*** ex-1158310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 移植した植物に水をやった。
+- READING :: いしょくしたしょくぶつにみずをやった。
+- UK :: Я полив пересаджену рослину.
+- EN :: I watered the transplanted plant.
+- FOCUS :: 移植
+*** ex-1158310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 庭の配置を変えるため、小さな木を別の場所に移植する計画を立てた。
+- READING :: にわのはいちをかえるため、ちいさなきをべつのばしょにいしょくするけいかくをたてた。
+- UK :: Щоб змінити планування саду, я запланував пересадити маленьке дерево в інше місце.
+- EN :: I planned to transplant the small tree elsewhere to change the garden's layout.
+- FOCUS :: 移植
+
+* Sense s-1158310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: be6ab277c04aebf9d90cea53e504c1f30fedc7eb12f7792c05cfea843cb1e500
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- med
+** English glosses
+- transplantation (of an organ, tissue, etc.)
+- transplant
+** Ukrainian glosses
+*** uk-s-1158310-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: трансплантація; пересадка органа чи тканини
+** Learner notes
+*** note-s-1158310-002-001
+:PROPERTIES:
+:END:
+- UK :: Медичний термін про перенесення органа або тканини. У сполуках 臓器移植 та 皮膚移植 об'єкт уточнює процедуру; слово саме не визначає придатності, результату чи умов конкретного лікування.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1158310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f1157408765fcffc8ab3c7943d13a66ea53360fb3563c6fdf14a94f912898af8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- med
+- biol
+*** Cross-references
+- 胚移植
+** English glosses
+- embryo transfer
+- embryo transplant
+** Ukrainian glosses
+*** uk-s-1158310-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: перенесення ембріона
+** Learner notes
+*** note-s-1158310-003-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальне медичне значення в сполуці 胚移植. Тут не йдеться про пересадку дорослої рослини чи готового органа; переклад потребує контексту репродуктивної медицини, без додавання неявних рекомендацій.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1158310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4dda9615f79cf99454b3a35efaa122be37e75dc38a62ed786e97982e7e9e3a5e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- comp
+** English glosses
+- porting (software)
+** Ukrainian glosses
+*** uk-s-1158310-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: портування програмного забезпечення
+** Learner notes
+*** note-s-1158310-004-001
+:PROPERTIES:
+:END:
+- UK :: У комп'ютерному контексті означає пристосування програми для іншої платформи або середовища. Не тотожне простому копіюванню файлів, бо може вимагати змін для роботи в новій системі.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1158310-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 03f91a634c8dd36bb1836519940224f408be3070f496019b7fbd4089ece355b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} transplanteren
+*** en-s-1158310-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: implanteren
+*** en-s-1158310-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} transplantatie
+*** en-s-1158310-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: implantatie
+** Ukrainian glosses
+
+* Sense s-1158310-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 17264391514c558797c03ed54793a3475e41a4f0a8036a5271db69b8d739a992
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: greffe
+*** en-s-1158310-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transplantation
+** Ukrainian glosses
+
+* Sense s-1158310-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8e833205b34982916db3c86af64a92904a56410dd70648a8ffac178c84bc9c83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpflanzen
+*** en-s-1158310-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auspflanzen
+** Ukrainian glosses
+
+* Sense s-1158310-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e357a2c94460a276a87a2cf97aa50b76b5057d1f0a65c12a32db0abce7700eb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transplantieren
+** Ukrainian glosses
+
+* Sense s-1158310-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2230941febc5c27f3cce6f35cba4e5040d151b4be4dbbbf6000bd3d686aabb0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: portieren
+** Ukrainian glosses
+
+* Sense s-1158310-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 48659c0f50439a1562eb9bd55be59d197cd7d289ec633b2c158d0d6f6782fabb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verpflanzung
+*** en-s-1158310-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auspflanzung
+** Ukrainian glosses
+
+* Sense s-1158310-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 5fc0aa39e6e33289908ff21d8335a0b2387a7c747aaf1f041409b1f6e606baf9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inkulturation
+*** en-s-1158310-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übernahme einer ausländischen Kultur
+** Ukrainian glosses
+
+* Sense s-1158310-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 3b5ef49afebbc6dfa2152268ece2e1832a067a481a17d6810c088a32a905aeeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Transplantation
+*** en-s-1158310-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Organverpflanzung
+*** en-s-1158310-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewebeverpflanzung
+** Ukrainian glosses
+
+* Sense s-1158310-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 3786175f5f4f83f2444b1f1b32da6cea717c50323b169ff5837247e89fc64943
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пересадка, трансплантация
+*** en-s-1158310-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} пересаживать (растения, живую ткань); производить трансплантацию
+** Ukrainian glosses
+
+* Sense s-1158310-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 65e1ef802c584041792121f8168c7c65d2c96fa5922a2fb66e2c04fa09a057df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-014-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: presaditev
+*** en-s-1158310-014-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transplantacija
+** Ukrainian glosses
+
+* Sense s-1158310-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: ed5a04ca232eefffd741be67e4fa3ee3510a54125b6b8008311d63ca013f7a36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1158310-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trasplante
+*** en-s-1158310-015-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: implantación
+*** en-s-1158310-015-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: injerto
+** Ukrainian glosses

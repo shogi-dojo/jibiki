@@ -1,0 +1,380 @@
+#+TITLE: 差し引く
+#+JMDICT_ID: 1291100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さしひく
+#+ROMAJI: sashihiku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291100-001
+:PROPERTIES:
+:TEXT: 差し引く
+:END:
+** Written form wf-1291100-002
+:PROPERTIES:
+:TEXT: 差引く
+:END:
+** Reading rd-1291100-001
+:PROPERTIES:
+:TEXT: さしひく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1291100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0305ed127e1d11b2cfef6e783379c0dfc6c76d207278360cec0dfa1f6f6f4328
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+** English glosses
+- to deduct
+- to take away
+- to dock
+- to discount
+** Ukrainian glosses
+*** uk-s-1291100-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: віднімати; вираховувати; утримувати суму
+** Learner notes
+*** note-s-1291100-001-001
+:PROPERTIES:
+:END:
+- UK :: =費用を差し引く= — відняти витрати, =給料から差し引く= — утримати із зарплати. Величина через =を=, джерело =から=. =引く= загальне віднімання, =差し引く= часто розрахунок кінцевого залишку.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1291100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 費用を差し引いた。
+- READING :: ひようをさしひいた。
+- UK :: Я відняв витрати.
+- EN :: I deducted the expenses.
+- FOCUS :: 差し引いた
+*** ex-1291100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 代金から送料を差し引いて計算した。
+- READING :: だいきんからそうりょうをさしひいてけいさんした。
+- UK :: Я зробив розрахунок, віднявши доставку від суми.
+- EN :: I calculated the amount after deducting shipping.
+- FOCUS :: 差し引いて
+*** ex-1291100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 支出をすべて差し引くと、手元に残る金額は思っていたより少なかった。
+- READING :: ししゅつをすべてさしひくと、てもとにのこるきんがくはおもっていたよりすくなかった。
+- UK :: Після віднімання всіх витрат залишок виявився меншим, ніж я думав.
+- EN :: After deducting all expenses, the amount remaining was smaller than I had expected.
+- FOCUS :: 差し引く
+
+* Sense s-1291100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fb88c6999e9ecf5836a0021f27fb7efd6258b6425409efb585672f739d5e532d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+** English glosses
+- to make allowances (for something)
+- to bear (something) in mind
+** Ukrainian glosses
+*** uk-s-1291100-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: враховувати поправку; робити знижку на обставини
+** Learner notes
+*** note-s-1291100-002-001
+:PROPERTIES:
+:END:
+- UK :: =事情を差し引いて考える= — оцінювати з урахуванням обставин. Переносно коригувати висновок, а не обов'язково віднімати гроші. Значення пояснює об'єкт, як-от вік, умови чи упередження.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1291100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 49a7f330c99409369e948731a9080e8cdaf12be20bfa2357e093891ba5731440
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+** English glosses
+- to ebb and flow
+** Ukrainian glosses
+*** uk-s-1291100-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: припливати й відпливати; коливатися (про воду)
+** Learner notes
+*** note-s-1291100-003-001
+:PROPERTIES:
+:END:
+- UK :: Окреме значення руху води або рівня, пов'язане з припливом і відпливом. Не фінансовий розрахунок; у сучасному однозначному описі =満ち引きする= ясніше. Потребує природного контексту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1291100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3a8120074c3d1bda6d3f56d2c187f6d4bd81650622bd89c369f2161913e6efc4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekken van
+*** en-s-1291100-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in mindering brengen op
+*** en-s-1291100-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdoen van
+*** en-s-1291100-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afhouden van
+** Ukrainian glosses
+
+* Sense s-1291100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3dba22f510788e2e25f66f70bb56ce38f8ca1c20cdc5df8ebaf694ae3f7574de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negeren
+*** en-s-1291100-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: door de vingers zien
+** Ukrainian glosses
+
+* Sense s-1291100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 80f723f0d44a7ccaba9502bc88b9beb463259f018dbccb01e8fe20c322149ff8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abziehen
+*** en-s-1291100-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abrechnen
+** Ukrainian glosses
+
+* Sense s-1291100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a9b45a5fffd73f6aed74c0a826b32fab5f6a7cde774a2740865fc8087e91a1f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beszámít
+*** en-s-1291100-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levon
+** Ukrainian glosses
+
+* Sense s-1291100-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4c819c14318eb9e3072b5287f42dae203163b714dd2d60553a2cacfe67b7c3b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вычитать, делать вычет
+** Ukrainian glosses
+
+* Sense s-1291100-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 23d3b2c98001de2a3290c6b39ffff9d91d5ba057abcc4f9aaab04b1d2b65b4e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odšteti
+*** en-s-1291100-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odbiti
+*** en-s-1291100-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtegniti
+*** en-s-1291100-009-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sklepati
+*** en-s-1291100-009-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izpeljati
+** Ukrainian glosses
+
+* Sense s-1291100-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 6dc001f7fd8710a39a70e017679ea3a903ca7f049d3060cd12003b52927d0c7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291100-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sustraer
+*** en-s-1291100-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: detraer
+*** en-s-1291100-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: restar
+*** en-s-1291100-010-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deducir
+** Ukrainian glosses

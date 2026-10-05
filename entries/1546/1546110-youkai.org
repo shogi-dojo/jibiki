@@ -1,0 +1,497 @@
+#+TITLE: 溶解
+#+JMDICT_ID: 1546110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようかい
+#+ROMAJI: youkai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1546110-001
+:PROPERTIES:
+:TEXT: 溶解
+:END:
+*** Priorities
+- news2
+- nf26
+- spec2
+** Written form wf-1546110-002
+:PROPERTIES:
+:TEXT: 熔解
+:END:
+*** Information
+- rK
+** Written form wf-1546110-003
+:PROPERTIES:
+:TEXT: 鎔解
+:END:
+*** Information
+- rK
+** Reading rd-1546110-001
+:PROPERTIES:
+:TEXT: ようかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+- spec2
+
+* Sense s-1546110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9273ad281ed53fb671be217c17951032d1fca1f9d04616d0484107c8d2bf821b
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 溶解
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- dissolution
+- dissolving
+- solution (e.g. chemical)
+** Ukrainian glosses
+*** uk-s-1546110-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розчинення; утворення розчину
+** Learner notes
+*** note-s-1546110-001-001
+:PROPERTIES:
+:END:
+- UK :: 水に溶解する — розчинитися у воді, а 物質を溶解する — розчинити речовину. У цьому значенні є розчинник і розчинена речовина; не плутайте з плавленням від нагрівання без розчинника.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1546110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 塩は水に溶解する。
+- READING :: しおはみずにようかいする。
+- UK :: Сіль розчиняється у воді.
+- EN :: Salt dissolves in water.
+- FOCUS :: 溶解する
+*** ex-1546110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 砂糖の溶解を観察した。
+- READING :: さとうのようかいをかんさつした。
+- UK :: Ми спостерігали розчинення цукру.
+- EN :: We observed the dissolution of sugar.
+- FOCUS :: 溶解
+*** ex-1546110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この実験では、物質が水に溶解する速さを比べる。
+- READING :: このじっけんでは、ぶっしつがみずにようかいするはやさをくらべる。
+- UK :: У цьому досліді порівнюють швидкість розчинення речовин у воді.
+- EN :: This experiment compares how quickly substances dissolve in water.
+- FOCUS :: 溶解する
+
+* Sense s-1546110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df2a378a73b5996b6904ba7696e94cba5cd46adc0cc8206466d9aede909eb481
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- melting
+- liquefying
+- fusion
+** Ukrainian glosses
+*** uk-s-1546110-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: плавлення; перехід у рідкий стан
+** Learner notes
+*** note-s-1546110-002-001
+:PROPERTIES:
+:END:
+- UK :: У технічному контексті 金属の溶解 може означати плавлення металу. Тут речовина стає рідиною від нагрівання; повсякденне 溶ける ширше, а 溶解 є формальною назвою процесу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1546110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 82e30a7b642e47e10b16e8f6469c66fc45989ddc1d7daaa7c85b1657773d6bd2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: smelten
+*** en-s-1546110-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versmelten
+*** en-s-1546110-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ineensmelten
+*** en-s-1546110-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samensmelten
+*** en-s-1546110-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplossen
+*** en-s-1546110-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oplosbaar zijn
+*** en-s-1546110-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vloeibaar worden
+*** en-s-1546110-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: smelting
+*** en-s-1546110-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versmelting
+*** en-s-1546110-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ineensmelting
+*** en-s-1546110-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samensmelting
+*** en-s-1546110-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het oplossen
+*** en-s-1546110-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vloeibaarwording
+*** en-s-1546110-003-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: liquefactie
+** Ukrainian glosses
+
+* Sense s-1546110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 14868aa6cf748827a7820ef7ece09f4387a7171df4dbe973df9a603cd83dea8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: solution
+** Ukrainian glosses
+
+* Sense s-1546110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 02361f204a4253ebdb50385b0ad1290451fb6e07d5486ac0dee52c9cdcbb9c76
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich lösen
+*** en-s-1546110-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich auflösen
+*** en-s-1546110-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schmelzen
+*** en-s-1546110-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auflösung
+*** en-s-1546110-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schmelzen
+** Ukrainian glosses
+
+* Sense s-1546110-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6504fa7a978e3e5a053f558a26050e77cfa365ed088bad161b632bdcd9840067
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érzelmes
+*** en-s-1546110-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olvadó
+*** en-s-1546110-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feloldás
+*** en-s-1546110-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfejtés
+*** en-s-1546110-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megoldás
+*** en-s-1546110-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldás
+*** en-s-1546110-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olvadás
+*** en-s-1546110-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldódás
+** Ukrainian glosses
+
+* Sense s-1546110-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ff615dfe4752c25d57da5c2826a6c4cae973951aa0991a0c0b4b411d67bced95
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плавление
+*** en-s-1546110-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} плавить[ся]
+*** en-s-1546110-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: растворение
+*** en-s-1546110-007-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} растворять[ся], распускать[ся]
+** Ukrainian glosses
+
+* Sense s-1546110-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f307f2dc94b02167827e7aa176a98f6669d4a3ad6057f3ad16845fe3140a5efd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derretimiento
+*** en-s-1546110-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: solución
+** Ukrainian glosses
+
+* Sense s-1546110-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: feef15951ea12a510592ba075bf435ff616632d892ffe1e6256bba42ac4d0c43
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546110-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lösning
+** Ukrainian glosses

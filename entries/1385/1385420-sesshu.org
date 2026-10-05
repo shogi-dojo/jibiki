@@ -1,0 +1,272 @@
+#+TITLE: 接種
+#+JMDICT_ID: 1385420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せっしゅ
+#+ROMAJI: sesshu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1385420-001
+:PROPERTIES:
+:TEXT: 接種
+:END:
+*** Priorities
+- news1
+- nf14
+** Written form wf-1385420-002
+:PROPERTIES:
+:TEXT: 接取
+:END:
+*** Information
+- sK
+** Reading rd-1385420-001
+:PROPERTIES:
+:TEXT: せっしゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf14
+
+* Sense s-1385420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 198785451dcb731d351ee45a2a0a8ad50b2b470d9cd2ab03fa73f638891c87ef
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- inoculation
+- vaccination
+** Ukrainian glosses
+*** uk-s-1385420-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: щеплення; вакцинація; інокуляція
+** Learner notes
+*** note-s-1385420-001-001
+:PROPERTIES:
+:END:
+- UK :: 接種 — застосування вакцини або інокуляція: 予防接種, ワクチンを接種する. Не плутайте з омонімом 摂取, «споживання, приймання», наприклад поживних речовин. Саме слово не визначає конкретного препарату, графіка чи способу введення; це уточнює контекст.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1385420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 接種の記録を確認した。
+- READING :: せっしゅのきろくをかくにんした。
+- UK :: Я перевірив запис про щеплення.
+- EN :: I checked the vaccination record.
+- FOCUS :: 接種
+*** ex-1385420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 予防接種について説明を聞いた。
+- READING :: よぼうせっしゅについてせつめいをきいた。
+- UK :: Я вислухав пояснення щодо вакцинації.
+- EN :: I listened to an explanation about vaccination.
+- FOCUS :: 接種
+*** ex-1385420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 案内に接種という言葉があったので、摂取との違いを辞書で確認した。
+- READING :: あんないにせっしゅということばがあったので、せっしゅとのちがいをじしょでかくにんした。
+- UK :: В оголошенні було слово «щеплення», тож я перевірив у словнику його відмінність від омоніма «споживання».
+- EN :: The notice contained the word vaccination, so I checked its difference from the homophone meaning intake.
+- FOCUS :: 接種
+
+* Sense s-1385420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0b833e55afd677594ab0d1068424c804f245734550623212d8a4d467aa1fc634
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} vaccinatie
+*** en-s-1385420-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaccinering
+*** en-s-1385420-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inenting
+*** en-s-1385420-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inoculatie
+** Ukrainian glosses
+
+* Sense s-1385420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3408e98f0e3e0eae8e8bc6018d885e7a942d7ace81cc58db3f49a39e6a3fdc24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impfen
+*** en-s-1385420-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Impfung
+*** en-s-1385420-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inokulation
+*** en-s-1385420-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vakzination
+** Ukrainian glosses
+
+* Sense s-1385420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7872f3dcc23d85c92cc64cbb3224eeae3344048d1224a6e82df83de40dc05ecb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oltás
+** Ukrainian glosses
+
+* Sense s-1385420-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 78a90e62c4d6cc790ecfd482f21ed448a0c5dd462c45841745f9f5ff7e1c7bd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) прививка
+*** en-s-1385420-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} делать прививку; прививать
+** Ukrainian glosses
+
+* Sense s-1385420-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 334035cd7e07ea96774325ab1d77bdf0217afc473b079c449f399d7f06b145e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inoculación
+*** en-s-1385420-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vacunación
+** Ukrainian glosses
+
+* Sense s-1385420-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d1cd831cfedaf4e5204506ab0ed113103c1a9d95ab292ae24a7ed1f1d74545e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385420-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaccination
+** Ukrainian glosses

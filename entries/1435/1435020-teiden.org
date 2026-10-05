@@ -1,0 +1,410 @@
+#+TITLE: 停電
+#+JMDICT_ID: 1435020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていでん
+#+ROMAJI: teiden
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1435020-001
+:PROPERTIES:
+:TEXT: 停電
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf12
+** Reading rd-1435020-001
+:PROPERTIES:
+:TEXT: ていでん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf12
+
+* Sense s-1435020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0f0e82c343d835d7f1ff85856c9d1c2c3be94110c47d6f9edc1bc0458127d8cc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- power outage
+- power failure
+- power cut
+- blackout
+** Ukrainian glosses
+*** uk-s-1435020-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відключення електроенергії; зникнення струму
+** Learner notes
+*** note-s-1435020-001-001
+:PROPERTIES:
+:END:
+- UK :: =停電する= — залишитися без електрики; =停電が起きる= — стається відключення. Причина може бути аварійна чи планова: саме слово її не визначає. =節電= означає економію електрики, а не її відсутність.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1435020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨夜、停電があった。
+- READING :: さくや、ていでんがあった。
+- UK :: Учора ввечері зникло світло.
+- EN :: There was a power outage last night.
+- FOCUS :: 停電
+*** ex-1435020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 停電で冷蔵庫も使えなくなった。
+- READING :: ていでんでれいぞうこもつかえなくなった。
+- UK :: Через відключення перестав працювати й холодильник.
+- EN :: The refrigerator also stopped working because of the outage.
+- FOCUS :: 停電
+*** ex-1435020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 停電が長引く可能性を考え、必要な連絡を早めに済ませた。
+- READING :: ていでんがながびくかのうせいをかんがえ、ひつようなれんらくをはやめにすませた。
+- UK :: Зважаючи на можливе тривале відключення, я завчасно зробив потрібні дзвінки.
+- EN :: Considering that the outage might last, I made the necessary calls early.
+- FOCUS :: 停電
+
+* Sense s-1435020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 069dfe28d79e7e16d264543ff29990d61bd5efba3d35f5f2dddd37ce67d682c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomuitval
+*** en-s-1435020-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektriciteitsstoring
+*** en-s-1435020-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomstoring
+*** en-s-1435020-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomonderbreking
+*** en-s-1435020-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} stroompanne
+** Ukrainian glosses
+
+* Sense s-1435020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9510a1ac8ee6e28fcb4a93ecf3b3e295d65b310e380562c5fb6d6a2730e1b66a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verduistering (door stroomuitval)
+*** en-s-1435020-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: black-out
+*** en-s-1435020-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: storing (in het lichtnet)
+*** en-s-1435020-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afschakeling
+*** en-s-1435020-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. stroom} uitvallen
+*** en-s-1435020-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geen elektriciteit
+*** en-s-1435020-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroom hebben
+** Ukrainian glosses
+
+* Sense s-1435020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 12c5e4351d2617bed4fa73fcd5291b3544878558aec50da819d7f0dea1141b14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coupure de courant
+*** en-s-1435020-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: panne d'électricité
+** Ukrainian glosses
+
+* Sense s-1435020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2a02c8c9ef4c216d6719540327e528a45754f637951566fe4e1600911697781f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromunterbrechung
+*** en-s-1435020-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromausfall
+*** en-s-1435020-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromsperre
+*** en-s-1435020-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der Strom ist gesperrt
+*** en-s-1435020-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der Strom ist unterbrochen
+*** en-s-1435020-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen Stromausfall haben
+** Ukrainian glosses
+
+* Sense s-1435020-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 54d425972584234139f937427641fed25c4e3fd754ff87430e5e7a51101f1d3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramszünet
+** Ukrainian glosses
+
+* Sense s-1435020-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 522422c7844635f559c721337426a68d46cbc89503d2740f0a355bcf8ada146a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прекращение подачи тока
+** Ukrainian glosses
+
+* Sense s-1435020-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0d0598253efbd508144bf2366210f9180a78364dc6077dabc74c5920a92b9b4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izpad električnega toka
+*** en-s-1435020-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izpad elektrike
+*** en-s-1435020-008-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prekinitev dobave elektrike
+*** en-s-1435020-008-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zmanjkati elektrike
+** Ukrainian glosses
+
+* Sense s-1435020-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d34c91d11c3e1f5189c8114d678da97e6d6f1052e3fad70458521326513f26aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435020-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corte de energía (electricidad, luz)
+*** en-s-1435020-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apagón
+*** en-s-1435020-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falla del suministro electrico
+** Ukrainian glosses

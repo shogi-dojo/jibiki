@@ -1,0 +1,463 @@
+#+TITLE: 比
+#+JMDICT_ID: 1483520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひ
+#+ROMAJI: hi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1483520-001
+:PROPERTIES:
+:TEXT: 比
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1483520-001
+:PROPERTIES:
+:TEXT: ひ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1483520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eb35facd47b53222a880f533056a1167d66745d3af063f5c2819d72c3f5eab3f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- n-suf
+** English glosses
+- ratio
+- proportion
+** Ukrainian glosses
+*** uk-s-1483520-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відношення; пропорція; співвідношення
+** Learner notes
+*** note-s-1483520-001-001
+:PROPERTIES:
+:END:
+- UK :: Числове співвідношення величин: 二つの数の比. Не просто різниця або загальна сума; потрібно знати порядок величин, бо переставлення чисел змінює відношення, навіть якщо самі числа ті самі.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1483520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの数の比を求めた。
+- READING :: ふたつのかずのひをもとめた。
+- UK :: Я визначив відношення двох чисел.
+- EN :: I found the ratio of the two numbers.
+- FOCUS :: 比
+*** ex-1483520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長さの比は二対一だ。
+- READING :: ながさのひはにたいいちだ。
+- UK :: Співвідношення довжин — два до одного.
+- EN :: The ratio of the lengths is two to one.
+- FOCUS :: 比
+*** ex-1483520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 比を計算する前に二つの長さの単位をそろえ、どちらを先に書くか確認した。
+- READING :: ひをけいさんするまえにふたつのながさのたんいをそろえ、どちらをさきにかくかかくにんした。
+- UK :: Перед обчисленням відношення я узгодив одиниці довжин і перевірив порядок запису.
+- EN :: Before calculating the ratio, I converted the two lengths to the same unit and checked which to write first.
+- FOCUS :: 比
+
+* Sense s-1483520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 91c978c5682e288601d18ee2fa8801ba8278a1f4afce1003123c2c91d52fb293
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- match
+- equal
+- equivalent
+- comparison
+** Ukrainian glosses
+*** uk-s-1483520-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: рівня; відповідник; порівняння
+** Learner notes
+*** note-s-1483520-002-001
+:PROPERTIES:
+:END:
+- UK :: У висловах на зразок 比ではない означає, що речі не рівноцінні або масштаб дуже різниться. Не обов'язково числовий запис дробу; порівнювану ознаку та оцінку показує навколишній текст.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1483520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a2b3374326ef4f4fcbba5b0d7558407f5230f41ef47a29b1d729d43510158e69
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-suf
+** English glosses
+- compared with ...
+- relative to ...
+** Ukrainian glosses
+*** uk-s-1483520-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: порівняно з; відносно
+** Learner notes
+*** note-s-1483520-003-001
+:PROPERTIES:
+:END:
+- UK :: Суфікс після опорного періоду або величини: 前年比. Не загальна згадка року без порівняння; результат може бути різницею чи темпом зміни, тому одиниці й формат показника треба перевіряти.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1483520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 49f7a55dc1b3d2a95270f8ce620c5c2bebc02677a3eaee6cf95fcf37442cac29
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 比律賓・フィリピン
+** English glosses
+- Philippines
+** Ukrainian glosses
+*** uk-s-1483520-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: Філіппіни; скорочене позначення країни
+** Learner notes
+*** note-s-1483520-004-001
+:PROPERTIES:
+:END:
+- UK :: Однокандзійне скорочення для Філіппін, збережене в JMdict. Не математична пропорція; дипломатичні або географічні сполуки й контекст країни допомагають відрізнити це значення від звичайного співвідношення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1483520-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2697a8a6bac670607dafa56066454418ca358fe1ab276f499b86cbe1a63da0fd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 六義・1
+** English glosses
+- explicit comparison (style of the Shi Jing)
+** Ukrainian glosses
+*** uk-s-1483520-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пряме порівняння як поетичний прийом у Ши цзін
+** Learner notes
+*** note-s-1483520-005-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальне літературознавче значення про явне порівняння в традиції Ши цзін. Не сучасний статистичний показник; цей зміст потребує опису поетики та способу побудови образу, а не лише двох числових величин.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1483520-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 83ada3b884225bb87e1149cbcca0a871d316770752a561627e96d0cb4a6ccbfe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhouding
+*** en-s-1483520-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ratio
+*** en-s-1483520-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} reden
+** Ukrainian glosses
+
+* Sense s-1483520-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f0b9d6f6d5321cfefad6b121cd44b0fd8992f840589608be97c2606e48494e87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gelijke
+*** en-s-1483520-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: evenknie
+*** en-s-1483520-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weerga
+*** en-s-1483520-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wederga
+*** en-s-1483520-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partuur
+** Ukrainian glosses
+
+* Sense s-1483520-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 510a89356c1ba796c97a14b736c57a30a22328d15b175e224c0eb9a9dbb9a1a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Filipijns …
+** Ukrainian glosses
+
+* Sense s-1483520-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 4c4ebd0dd5913d9c49f9d675cabd91774df19273af0e4ecba387bfc0cc323f43
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verhältnis
+** Ukrainian glosses
+
+* Sense s-1483520-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: a05b46b031a180b4b444c0c49d6011939cf2958fd20acd1d6975d369fc97c5d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vergleich
+** Ukrainian glosses
+
+* Sense s-1483520-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 28718826146105425b646677f5e164fc3b3960969d4a1a685a21e682fc3705b1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Philippinen
+** Ukrainian glosses
+
+* Sense s-1483520-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 72e6f177faa8d3c266a87b1919221dd5e74a0484606824038d85c2892ddc7743
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viszony
+** Ukrainian glosses
+
+* Sense s-1483520-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 63e6e2513b9c445502ba32720798f2dd6fd7778efff74932ff1e83187be19031
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (мат.) отношение
+*** en-s-1483520-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (кн.) сравнение; нечто равное
+*** en-s-1483520-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ср.) ひする【比する】
+** Ukrainian glosses
+
+* Sense s-1483520-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 039f9fa32188a45f97afbc5d91ff4c06d9b036c06f459c865a941194f3a7a3b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-014-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odnos
+*** en-s-1483520-014-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proporcija
+** Ukrainian glosses
+
+* Sense s-1483520-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 82978135661d1c89974b6837eac63fe0696f55e0389758cc9d08ecfe98d54946
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1483520-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: misma especie
+** Ukrainian glosses

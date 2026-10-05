@@ -1,0 +1,297 @@
+#+TITLE: 道のり
+#+JMDICT_ID: 1454110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みちのり
+#+ROMAJI: michinori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1454110-001
+:PROPERTIES:
+:TEXT: 道のり
+:END:
+*** Priorities
+- news1
+- nf15
+** Written form wf-1454110-002
+:PROPERTIES:
+:TEXT: 道程
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1454110-001
+:PROPERTIES:
+:TEXT: みちのり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+- nf24
+** Reading rd-1454110-002
+:PROPERTIES:
+:TEXT: どうてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 道程
+
+* Sense s-1454110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 660d96a6ed43ef23d10ba347b21a89fe38a8a7870891a7f665285976d7927ae5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- distance
+- journey
+- itinerary
+** Ukrainian glosses
+*** uk-s-1454110-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відстань; шлях подорожі; маршрут
+** Learner notes
+*** note-s-1454110-001-001
+:PROPERTIES:
+:END:
+- UK :: 駅までの道のり — відстань або шлях до станції. Слово може охоплювати не лише кількість кілометрів, а й саму дорогу з її етапами; 道のりが長い — шлях довгий, а не обов'язково вузький чи широкий.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1454110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家から学校までの道のりは長い。
+- READING :: いえからがっこうまでのみちのりはながい。
+- UK :: Шлях від дому до школи довгий.
+- EN :: It is a long way from home to school.
+- FOCUS :: 道のり
+*** ex-1454110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山頂までの道のりを地図で確認した。
+- READING :: さんちょうまでのみちのりをちずでかくにんした。
+- UK :: Ми перевірили на карті маршрут до вершини.
+- EN :: We checked the route to the summit on a map.
+- FOCUS :: 道のり
+*** ex-1454110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 残りの道のりは短いが、坂が急なので時間がかかる。
+- READING :: のこりのみちのりはみじかいが、さかがきゅうなのでじかんがかかる。
+- UK :: Решта шляху коротка, але через крутий підйом вона забере час.
+- EN :: The remaining distance is short, but the steep slope will take time.
+- FOCUS :: 道のり
+
+* Sense s-1454110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8c4087bdde4301647d9ddc043b406d3764a5c846325ae686ed0bcc4023002903
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- path (e.g. to one's goal)
+- way
+- process
+- route
+- road
+** Ukrainian glosses
+*** uk-s-1454110-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: шлях до мети; процес досягнення
+** Learner notes
+*** note-s-1454110-002-001
+:PROPERTIES:
+:END:
+- UK :: 成功までの道のり — послідовний шлях до успіху з труднощами й проміжними етапами. У переносному вжитку まで задає мету; це опис процесу, а не назва конкретної автомобільної дороги.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1454110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f1c87f80c72f7aebbae1be81927cabf3d6c4579dde597b724b2d633a8b259277
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454110-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entfernung
+*** en-s-1454110-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Distanz
+*** en-s-1454110-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strecke
+*** en-s-1454110-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wegstrecke
+*** en-s-1454110-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entfernung
+*** en-s-1454110-003-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strecke
+*** en-s-1454110-003-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weg
+*** en-s-1454110-003-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weite
+** Ukrainian glosses
+
+* Sense s-1454110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c5074f0ca02c3d975520e7dbde6622394c293ed55266fcd9dd278010aa7bf094
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454110-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: távolság
+*** en-s-1454110-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: útszakasz
+*** en-s-1454110-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: út
+*** en-s-1454110-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irány
+** Ukrainian glosses
+
+* Sense s-1454110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b4e7cd589a45c4cf58364b3861e316322a095122f6631cfe74330b4114b579a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454110-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.)
+*** en-s-1454110-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) расстояние, дистанция; путь
+*** en-s-1454110-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) процесс
+*** en-s-1454110-005-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: расстояние, дистанция; продолжительность пути; маршрут, переход
+** Ukrainian glosses

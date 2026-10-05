@@ -1,0 +1,416 @@
+#+TITLE: 薬品
+#+JMDICT_ID: 1538280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やくひん
+#+ROMAJI: yakuhin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1538280-001
+:PROPERTIES:
+:TEXT: 薬品
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf10
+** Reading rd-1538280-001
+:PROPERTIES:
+:TEXT: やくひん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf10
+
+* Sense s-1538280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 19587c98b8eb2be32af1f8a0f0db60e2a217e7930dcbb850b678c293ac2e638c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- medicine
+- drug
+** Ukrainian glosses
+*** uk-s-1538280-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: лікарський препарат; медикамент
+** Learner notes
+*** note-s-1538280-001-001
+:PROPERTIES:
+:END:
+- UK :: =薬品= — препарати як продукція чи матеріали: =医療用薬品=. У повсякденному «приймати ліки» частіше =薬を飲む=. Не кожен предмет із назвою =薬品= придатний до вживання: друге значення охоплює хімікати.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1538280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この工場では医療用の薬品を作っている。
+- READING :: このこうじょうではいりょうようのやくひんをつくっている。
+- UK :: На цьому заводі виробляють медичні препарати.
+- EN :: This factory makes medicinal products.
+- FOCUS :: 薬品
+*** ex-1538280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 病院で使う薬品は、種類ごとに管理されている。
+- READING :: びょういんでつかうやくひんは、しゅるいごとにかんりされている。
+- UK :: Препарати для лікарні обліковують за видами.
+- EN :: Medicines used in the hospital are managed by category.
+- FOCUS :: 薬品
+*** ex-1538280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬品の品質を保つため、保管場所の温度を記録している。
+- READING :: やくひんのひんしつをたもつため、ほかんばしょのおんどをきろくしている。
+- UK :: Щоб зберегти якість препаратів, реєструють температуру в місці зберігання.
+- EN :: The storage temperature is recorded to maintain the medicines' quality.
+- FOCUS :: 薬品
+
+* Sense s-1538280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 455d43c11a2fe0d6c41744567f1ff2c8045c742a5874bd6256ea3bf0fbf87a15
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chemical (agent)
+- chemicals
+** Ukrainian glosses
+*** uk-s-1538280-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хімічна речовина; хімікати; реагент
+** Learner notes
+*** note-s-1538280-002-001
+:PROPERTIES:
+:END:
+- UK :: =化学薬品=, =薬品を保管する= — речовини для лабораторного, виробничого чи іншого використання. Контекст лабораторії не дозволяє автоматично перекладати слово як «ліки»; =試薬= точніше називає реактив для досліду.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1538280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1874227760c79311b19dc09b2bfe1a8a3cf8544911d2cc832f484421c5125f5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicijn
+*** en-s-1538280-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geneesmiddel
+*** en-s-1538280-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicament
+*** en-s-1538280-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicatie
+*** en-s-1538280-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicinaal kruid
+*** en-s-1538280-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: artsenij
+*** en-s-1538280-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: farmacon
+*** en-s-1538280-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drug
+*** en-s-1538280-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dope
+*** en-s-1538280-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: narcoticum
+*** en-s-1538280-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drogerij
+*** en-s-1538280-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apotheek
+*** en-s-1538280-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apothekerswaar
+*** en-s-1538280-003-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: officinalia
+*** en-s-1538280-003-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Ind.N.} obat
+** Ukrainian glosses
+
+* Sense s-1538280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e3ad0d2ef5c19bdb07b8b28eca3a0af8fb00b4f43bccc1dcad4d2179c9d4e524
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: médicament
+*** en-s-1538280-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: produit pharmaceutique
+** Ukrainian glosses
+
+* Sense s-1538280-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ba5ed5fa2f593292d1070c741461906c5833cf075276e36969804ddc4db78667
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medizin
+*** en-s-1538280-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medikament
+*** en-s-1538280-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneimittel
+** Ukrainian glosses
+
+* Sense s-1538280-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5eca5553461df0990241ebdeff91b6a3fa71e0c0c61adcdbb79f1c073394c724
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chemikalie
+** Ukrainian glosses
+
+* Sense s-1538280-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3452ccfbde198f06791a74d2d4e1dab2843c387b60e7600356e489fd6da300f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belgyógyászat
+*** en-s-1538280-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvostan
+*** en-s-1538280-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvostudomány
+*** en-s-1538280-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vegyszerek
+** Ukrainian glosses
+
+* Sense s-1538280-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f864e127fab2cff5aa9f6de9f8e77403d32f646fe19c652fe85a471674cfef60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: медикаменты
+** Ukrainian glosses
+
+* Sense s-1538280-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 28912c6ce90fa73c0c0f227429019e8e798ba8859b7929cf037257ea4636d121
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538280-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicinas
+*** en-s-1538280-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fármacos
+** Ukrainian glosses

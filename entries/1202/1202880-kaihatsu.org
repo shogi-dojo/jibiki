@@ -1,0 +1,657 @@
+#+TITLE: 開発
+#+JMDICT_ID: 1202880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいはつ
+#+ROMAJI: kaihatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1202880-001
+:PROPERTIES:
+:TEXT: 開発
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1202880-001
+:PROPERTIES:
+:TEXT: かいはつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf01
+** Reading rd-1202880-002
+:PROPERTIES:
+:TEXT: かいほつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1202880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 95ca279b3a7b7c73fa2e42edf295c33ce25863aa5d3e13487b4c1850547c14f4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- development
+- cultivation
+- application
+** Ukrainian glosses
+*** uk-s-1202880-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розроблення; освоєння; розвиток; застосування
+** Learner notes
+*** note-s-1202880-001-001
+:PROPERTIES:
+:END:
+- UK :: 開発する — створювати новий продукт або освоювати територію чи можливість: 製品・地域を開発する. Це не просто щоденне користування готовим; об'єкт визначає, чи українською потрібне «розроблення», «освоєння» або «розвиток».
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1202880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい製品を開発した。
+- READING :: あたらしいせいひんをかいはつした。
+- UK :: Ми розробили новий продукт.
+- EN :: We developed a new product.
+- FOCUS :: 開発した
+*** ex-1202880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域の特徴を生かした商品の開発を進めている。
+- READING :: ちいきのとくちょうをいかしたしょうひんのかいはつをすすめている。
+- UK :: Ми просуваємо розроблення товарів, що використовують особливості регіону.
+- EN :: We are developing products that make use of the region's characteristics.
+- FOCUS :: 開発
+*** ex-1202880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 開発の初期段階から使う人の意見を聞くことで、必要な機能を明確にした。
+- READING :: かいはつのしょきだんかいからつかうひとのいけんをきくことで、ひつようなきのうをめいかくにした。
+- UK :: Слухаючи користувачів від початкового етапу розроблення, ми визначили потрібні функції.
+- EN :: Listening to users from the early stages of development clarified which functions were needed.
+- FOCUS :: 開発
+
+* Sense s-1202880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0d8e5647c6b76c6afceb040caa3953180f6688ea5a95a7a0b78fc08913b9d377
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- exploitation (of resources)
+** Ukrainian glosses
+*** uk-s-1202880-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розроблення природних ресурсів; експлуатація родовищ
+** Learner notes
+*** note-s-1202880-002-001
+:PROPERTIES:
+:END:
+- UK :: 資源の開発 означає освоєння ресурсу для його використання. Це окреме предметне застосування, відмінне від створення програми чи товару; саме слово не оцінює екологічних, економічних або правових умов конкретного проєкту.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1202880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5dab0fb4c81bad1a7d49cf9ff534fcc33fd7d9078f3aee9b722b73c3046cc10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontwikkeling
+*** en-s-1202880-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontginning
+*** en-s-1202880-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exploitatie
+*** en-s-1202880-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cultivering
+*** en-s-1202880-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontwikkelen
+*** en-s-1202880-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tot ontwikkeling brengen
+*** en-s-1202880-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {資源を} exploiteren
+*** en-s-1202880-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontginnen
+*** en-s-1202880-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {荒野を} cultiveren
+*** en-s-1202880-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} aanboren
+** Ukrainian glosses
+
+* Sense s-1202880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 80f42700638a8a5ecaa8e7834a922086a34ba0f965f0fd66192fef1715ee78e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: développement
+*** en-s-1202880-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exploitation
+** Ukrainian glosses
+
+* Sense s-1202880-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bffd8614c2e2f365c0a6db4e8cd1c0cf3ca99e2a85331eca5cbf3f5e503d231b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urbarmachung
+*** en-s-1202880-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kultivierung
+*** en-s-1202880-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kolonisation
+** Ukrainian glosses
+
+* Sense s-1202880-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1331b513e2062f8f765e04ce669e98eea6d5caddcd49cfa322262e94a265fd5d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erschließung von Bodenschätzen
+** Ukrainian glosses
+
+* Sense s-1202880-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ed6fc34cf07806165c69076c26d0ed4013280e725433c9c20d2f126ef7e1592e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entwicklung (von Fähigkeiten)
+*** en-s-1202880-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entfaltung
+*** en-s-1202880-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufklärung
+** Ukrainian glosses
+
+* Sense s-1202880-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: cc5487b74682ba37796e87f4217ec7d0313ed58faa5c619533e686ab90ad08b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entwicklung (einer neuen Sache)
+** Ukrainian glosses
+
+* Sense s-1202880-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: fd0b55a01c8e21bb282cbf39efe55af5fb24bf1b3b30a5a92fdfd7fdf2a54a1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: urbar machen
+*** en-s-1202880-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: roden
+*** en-s-1202880-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kultivieren
+*** en-s-1202880-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nutzbar machen
+*** en-s-1202880-009-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erschließen
+*** en-s-1202880-009-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kolonisieren
+** Ukrainian glosses
+
+* Sense s-1202880-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: fe72559881d232e8c2b1a1668778eb7bdadd070dd70ecfb377f235b1b1070688
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (geistige Veranlagungen) entwickeln
+*** en-s-1202880-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kultivieren
+** Ukrainian glosses
+
+* Sense s-1202880-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 7d4a2264b1bc8b44ddd04a319cf1dc30ebc26645ee71c0a43fb8438f0bad5b0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előhívás
+*** en-s-1202880-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fejlemény
+*** en-s-1202880-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifejlődés
+*** en-s-1202880-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hasznosítás
+*** en-s-1202880-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiaknázás
+*** en-s-1202880-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kihasználás
+*** en-s-1202880-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kizsákmányolás
+** Ukrainian glosses
+
+* Sense s-1202880-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 0155ad71bf451cedd19c4269774f741a5453d7dd15ea58b9a6e931197560e9e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) развитие, разработка; эксплуатация (ресурсов); освоение (напр. земель)
+*** en-s-1202880-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} развивать, разрабатывать; эксплуатировать; осваивать
+*** en-s-1202880-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) развитие (умственных способностей)
+*** en-s-1202880-012-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} развивать
+*** en-s-1202880-012-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～的} основанный на развитии учащихся, индуктивный (о методах преподавания)
+** Ukrainian glosses
+
+* Sense s-1202880-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 409fcba7e811e488826a8a3f301bb91ef20f5ab0a1e98f2108ffda3ad672fde3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razvijati
+*** en-s-1202880-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razviti
+*** en-s-1202880-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razvoj
+*** en-s-1202880-013-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izkoriščanje
+*** en-s-1202880-013-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izraba
+** Ukrainian glosses
+
+* Sense s-1202880-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 8d4f449c824c14f636bc6d19e27347d7677a85cc9e19b2be62047ec8221c63c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desarrollo
+*** en-s-1202880-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: explotación
+** Ukrainian glosses
+
+* Sense s-1202880-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 847e2bbe46922d911cfbae2777131608b7f41a1ecc6839f67549bf4c9fb20dd3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1202880-015-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: utveckling
+*** en-s-1202880-015-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exploatering
+** Ukrainian glosses

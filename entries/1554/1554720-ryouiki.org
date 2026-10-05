@@ -1,0 +1,579 @@
+#+TITLE: 領域
+#+JMDICT_ID: 1554720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょういき
+#+ROMAJI: ryouiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1554720-001
+:PROPERTIES:
+:TEXT: 領域
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1554720-001
+:PROPERTIES:
+:TEXT: りょういき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1554720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 065f846f9a4bd77a4677631d063013df86e900fbbe4d84e15d6c4bb93583201f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- territory
+- domain
+** Ukrainian glosses
+*** uk-s-1554720-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: територія; просторові межі володіння
+** Learner notes
+*** note-s-1554720-001-001
+:PROPERTIES:
+:END:
+- UK :: 国家の領域 — територіальна сфера держави, 領域を侵す — порушувати її межі. Це просторове або владне значення; воно не визначає саме по собі юридичний статус конкретної спірної території.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1554720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地図で国の領域を確認した。
+- READING :: ちずでくにのりょういきをかくにんした。
+- UK :: Ми перевірили територію країни на карті.
+- EN :: We checked the country's territory on a map.
+- FOCUS :: 領域
+*** ex-1554720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 島の周囲も調査の領域に含まれる。
+- READING :: しまのしゅういもちょうさのりょういきにふくまれる。
+- UK :: Простір навколо острова також входить до території дослідження.
+- EN :: The area around the island is also included in the survey territory.
+- FOCUS :: 領域
+*** ex-1554720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 領域の境界を示す線が、図に描かれている。
+- READING :: りょういきのきょうかいをしめすせんが、ずにえがかれている。
+- UK :: На схемі накреслено лінію межі території.
+- EN :: A line indicating the territory's boundary is drawn in the diagram.
+- FOCUS :: 領域
+
+* Sense s-1554720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3592bc46505d7e642a63015d36adfa21bf7bd9247fafbfb3ae42951e764bd22c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- field
+- area
+- domain
+- sphere
+- realm
+** Ukrainian glosses
+*** uk-s-1554720-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сфера; галузь; область діяльності
+** Learner notes
+*** note-s-1554720-002-001
+:PROPERTIES:
+:END:
+- UK :: 専門の領域 — галузь спеціалізації, 未知の領域 — незнана сфера. Слово часто описує межі знань або діяльності; це не обов'язково географічно відокремлене місце.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1554720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de649fbc5eaef51fe9d243c10398f1673d5984d4e0ba9de5cc8649353a55755a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- domain
+- region
+** Ukrainian glosses
+*** uk-s-1554720-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: область; домен у технічному або математичному описі
+** Learner notes
+*** note-s-1554720-003-001
+:PROPERTIES:
+:END:
+- UK :: У технічному контексті 領域 може називати визначену область простору, даних чи змінних. Наприклад, 記憶領域 — ділянка пам'яті; точні межі задає відповідна система, а не побутове поняття території.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1554720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5fbb1bc485961123cf0723c8d90235b75b46d0ddd110fd616093377c0b076d19
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: territorium
+*** en-s-1554720-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: territoir
+*** en-s-1554720-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: domein
+*** en-s-1554720-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grondgebied
+*** en-s-1554720-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebied
+*** en-s-1554720-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: areaal
+*** en-s-1554720-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: revier
+** Ukrainian glosses
+
+* Sense s-1554720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5b1f97bfca1034a6b59d3527d95080c611e187665982006f84d60b0f27e63e63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terrein
+*** en-s-1554720-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: domein
+*** en-s-1554720-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebied
+*** en-s-1554720-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: branche
+*** en-s-1554720-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veld
+** Ukrainian glosses
+
+* Sense s-1554720-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 739dd295e79496facf70922c42162877827917b3a93dad520ed9053f9cf4713f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: domaine
+*** en-s-1554720-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sphère (d'influence)
+*** en-s-1554720-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: territoire
+*** en-s-1554720-006-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zone (de contrôle)
+** Ukrainian glosses
+
+* Sense s-1554720-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: cad4767966005009da7b433e92b1802d5c6d92882dd67b722e8d2a4187f201b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gebiet
+*** en-s-1554720-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Territorium
+** Ukrainian glosses
+
+* Sense s-1554720-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 1b65432b36414ad079521f9a41cc5f50c2826b2362dd0a0c8db3f0704ca14bde
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gebiet
+*** en-s-1554720-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bereich
+*** en-s-1554720-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feld
+*** en-s-1554720-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sphäre
+*** en-s-1554720-008-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fachgebiet
+*** en-s-1554720-008-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spezialgebiet
+** Ukrainian glosses
+
+* Sense s-1554720-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: fccfffb0ca80ccbcd716a92e7e36ec7561b9cb821eeb621f7db91d0776d6cf0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: légtér
+*** en-s-1554720-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terep
+*** en-s-1554720-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terület
+*** en-s-1554720-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: birtok
+*** en-s-1554720-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kerület
+*** en-s-1554720-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: körzet
+*** en-s-1554720-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vidék
+*** en-s-1554720-009-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: háttér
+*** en-s-1554720-009-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mező
+*** en-s-1554720-009-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pálya
+*** en-s-1554720-009-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tér
+*** en-s-1554720-009-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezsim
+** Ukrainian glosses
+
+* Sense s-1554720-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ab12a3d81d5fde6aabeb9c6c487931b2a4f450b1b3d47b0f5e0919446a0145a3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) территория, владения; район
+*** en-s-1554720-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) область, сфера (чего-л.)
+** Ukrainian glosses
+
+* Sense s-1554720-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: ca6a1523805e5fd2fa8194763796cd99bf029fc0b8f58455b9e1d128775ea1c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1554720-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: área
+*** en-s-1554720-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dominio
+*** en-s-1554720-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: territorio
+*** en-s-1554720-011-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: campo
+*** en-s-1554720-011-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: región
+** Ukrainian glosses

@@ -1,0 +1,403 @@
+#+TITLE: 認証
+#+JMDICT_ID: 1467560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にんしょう
+#+ROMAJI: ninshou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1467560-001
+:PROPERTIES:
+:TEXT: 認証
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1467560-001
+:PROPERTIES:
+:TEXT: にんしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1467560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9a5fb29157539cf47343d4f08879a6549249f2600c2aef26ddeca6d7068cf9e2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- certification
+- attestation
+- authentication
+- confirmation
+** Ukrainian glosses
+*** uk-s-1467560-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: підтвердження; засвідчення; сертифікація; автентифікація
+** Learner notes
+*** note-s-1467560-001-001
+:PROPERTIES:
+:END:
+- UK :: Підтвердження справжності, особи або відповідності: 本人認証, 認証を受ける. Не тотожне дозволу на будь-яку дію; у комп'ютерному контексті автентифікація перевіряє особу, а обсяг прав доступу визначається окремо.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1467560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 本人の認証が必要だ。
+- READING :: ほんにんのにんしょうがひつようだ。
+- UK :: Потрібне підтвердження особи.
+- EN :: Identity authentication is required.
+- FOCUS :: 認証
+*** ex-1467560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 認証の方法を選んだ。
+- READING :: にんしょうのほうほうをえらんだ。
+- UK :: Я вибрав спосіб автентифікації.
+- EN :: I chose an authentication method.
+- FOCUS :: 認証
+*** ex-1467560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 認証が完了してもすべての画面を使えるとは限らないので、利用できる機能を確認した。
+- READING :: にんしょうがかんりょうしてもすべてのがめんをつかえるとはかぎらないので、りようできるきのうをかくにんした。
+- UK :: Завершення автентифікації не завжди дає доступ до всіх екранів, тому я перевірив доступні функції.
+- EN :: Completing authentication does not always permit use of every screen, so I checked the available features.
+- FOCUS :: 認証
+
+* Sense s-1467560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 02f0444cdc327f941ee3147d4cccb6d3ba621fce5e4e562f0b30221732832151
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- Imperial attestation
+** Ukrainian glosses
+*** uk-s-1467560-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: імператорське засвідчення
+** Learner notes
+*** note-s-1467560-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальне значення про засвідчення імператором у відповідному японському державному контексті. Не звичайний вхід до системи чи товарний сертифікат; назву процедури й предмет засвідчення треба встановлювати з конкретного опису.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1467560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: adbfa067a3c6db3b596c70a90546c61576df55d6d5edf66a7198a255c2bc6390
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevestiging
+*** en-s-1467560-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certificatie
+*** en-s-1467560-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergunning
+*** en-s-1467560-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekrachtiging
+*** en-s-1467560-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: attestatie
+*** en-s-1467560-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarmerking
+*** en-s-1467560-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: accreditatie
+*** en-s-1467560-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevestigen
+*** en-s-1467560-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certificeren
+*** en-s-1467560-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certifiëren
+*** en-s-1467560-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekrachtigen
+*** en-s-1467560-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: attesteren
+*** en-s-1467560-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarmerken
+*** en-s-1467560-003-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: accrediteren
+** Ukrainian glosses
+
+* Sense s-1467560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bd3d0833e11611a47ce1a93b87a6c316e657b7c20fdb90638d71b2b507de12d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beglaubigung
+*** en-s-1467560-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bestätigung
+*** en-s-1467560-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zertifizierung
+** Ukrainian glosses
+
+* Sense s-1467560-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 48f33703dd6350cc1ba6034e230fa59ade345598072c7414cfd2d4e193e13192
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Authentifizierung
+** Ukrainian glosses
+
+* Sense s-1467560-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5da4a5440db1e5882a1a55b73b7e6159006a5d4777a70a60e10d33d1c0ec2341
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beglaubigen
+*** en-s-1467560-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestätigen
+** Ukrainian glosses
+
+* Sense s-1467560-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6bc91621bc210f126927de19a0aa826738696c855e3b7c156dfe655cd6e42a7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: authentifizieren
+** Ukrainian glosses
+
+* Sense s-1467560-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: b7e92dbca712339fc2189c5bca472be438028296aafca065ed5e0e7e2c06eb4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: azonosítás
+*** en-s-1467560-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: igazolás
+** Ukrainian glosses
+
+* Sense s-1467560-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 488dcc31edc5b7f59b0d05f2f78eeca8146526aee89a3074d755f3456d78d5f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467560-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) удостоверение; засвидетельствование
+*** en-s-1467560-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} удостоверять; засвидетельствовать
+*** en-s-1467560-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) утверждение (императором решений кабинета)
+** Ukrainian glosses

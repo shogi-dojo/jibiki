@@ -1,0 +1,279 @@
+#+TITLE: 保険
+#+JMDICT_ID: 1513440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほけん
+#+ROMAJI: hoken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1513440-001
+:PROPERTIES:
+:TEXT: 保険
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf02
+** Reading rd-1513440-001
+:PROPERTIES:
+:TEXT: ほけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf02
+
+* Sense s-1513440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f7818fc4febc1c8c52efa39f8b484bc7edc85d94a42d8f61f89fb3be0d8a6131
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- insurance
+** Ukrainian glosses
+*** uk-s-1513440-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: страхування; страховий поліс
+** Learner notes
+*** note-s-1513440-001-001
+:PROPERTIES:
+:END:
+- UK :: Називає механізм страхового захисту або конкретний договір у контексті. Типові 保険に入る та 保険料; не тотожне гарантії будь-якого відшкодування, адже покриття й умови уточнюються окремо.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1513440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の保険に入った。
+- READING :: りょこうのほけんにはいった。
+- UK :: Я оформив страхування для подорожі.
+- EN :: I took out travel insurance.
+- FOCUS :: 保険
+*** ex-1513440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 保険の内容をよく確認した。
+- READING :: ほけんのないようをよくかくにんした。
+- UK :: Я уважно перевірив умови страхування.
+- EN :: I checked the insurance details carefully.
+- FOCUS :: 保険
+*** ex-1513440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ保険でも条件が違うため、説明を読み、分からない点を質問した。
+- READING :: おなじほけんでもじょうけんがちがうため、せつめいをよみ、わからないてんをしつもんした。
+- UK :: Умови навіть подібних страховок різняться, тому я прочитав пояснення й запитав про незрозуміле.
+- EN :: Conditions can differ even for similar insurance, so I read the explanation and asked about unclear points.
+- FOCUS :: 保険
+
+* Sense s-1513440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8c1ede8b0193591880472cba7c4552ae3217e7eb0cbee3b8f2989f207361dda2
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- guarantee
+- warranty
+** Ukrainian glosses
+*** uk-s-1513440-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гарантія; підстрахування
+** Learner notes
+*** note-s-1513440-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносно означає запасний захід на випадок невдачі, наприклад 保険をかける про резервний варіант. У цьому значенні може не бути жодного договору чи страхової компанії; це образ забезпечення надійності.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1513440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e5db3070a7a8a94bd9b25c2223b4a090970c049f659d5e4701a598cd7f4a9b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verzekering
+*** en-s-1513440-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: assurantie
+** Ukrainian glosses
+
+* Sense s-1513440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eb755af1d4a50aa21e55934554c213d0ab06c0d56c51ab59a171e4b13dfdc1ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: assurance
+** Ukrainian glosses
+
+* Sense s-1513440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f1f314aa9c47e69104e1ca0dfeb087867c71a2077ea0cda3ea5fa85c2fe6ec8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Versicherung
+*** en-s-1513440-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Assekuranz
+** Ukrainian glosses
+
+* Sense s-1513440-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1121da72dde964dcdc9e0b73dac3fca74857e3ca7dd46c24ce6169361d31bffe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biztosítás
+** Ukrainian glosses
+
+* Sense s-1513440-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 46c10df3d478cf9f1ddb5952d98ee237f2227e39254eae2dc755564d67d1c8ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) страхование
+*** en-s-1513440-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) гарантия
+** Ukrainian glosses
+
+* Sense s-1513440-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d808a3aa3efd45306282eecc096f2c7ea4b0d73c0062ec17804c6748e97ff835
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavarovanje
+** Ukrainian glosses
+
+* Sense s-1513440-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 64f6ba74ef78f32541278f34297255bd4a9dfa12f4375809f3f861934fd1683f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1513440-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seguro
+*** en-s-1513440-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: garantía
+** Ukrainian glosses

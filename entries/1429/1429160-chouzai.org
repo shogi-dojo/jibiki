@@ -1,0 +1,202 @@
+#+TITLE: 調剤
+#+JMDICT_ID: 1429160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうざい
+#+ROMAJI: chouzai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1429160-001
+:PROPERTIES:
+:TEXT: 調剤
+:END:
+*** Priorities
+- news2
+- nf40
+- spec2
+** Reading rd-1429160-001
+:PROPERTIES:
+:TEXT: ちょうざい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+- spec2
+
+* Sense s-1429160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a937bd0b688b9414ec9cfeaa65b8df7fb645c2a8cb72bba08a472116a688da33
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- making up a prescription
+- dispensing a prescription
+- preparing a medicine
+** Ukrainian glosses
+*** uk-s-1429160-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приготування ліків за рецептом; відпуск ліків за рецептом
+** Learner notes
+*** note-s-1429160-001-001
+:PROPERTIES:
+:END:
+- UK :: Фармацевтичний термін про підготовку й відпуск ліків відповідно до рецепта: 調剤する, 調剤薬局. Не призначення лікування лікарем і не саме приймання препарату; це опис професійної процедури, а не інструкція щодо її виконання.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1429160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 薬剤師が調剤した。
+- READING :: やくざいしがちょうざいした。
+- UK :: Фармацевт підготував ліки за рецептом.
+- EN :: The pharmacist dispensed the prescription.
+- FOCUS :: 調剤
+*** ex-1429160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 調剤について授業で学んだ。
+- READING :: ちょうざいについてじゅぎょうでまなんだ。
+- UK :: На занятті ми вивчали підготовку ліків за рецептом.
+- EN :: We learned about prescription dispensing in class.
+- FOCUS :: 調剤
+*** ex-1429160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬局の仕事を紹介する資料には、調剤と相談の役割が別々に説明されていた。
+- READING :: やっきょくのしごとをしょうかいするしりょうには、ちょうざいとそうだんのやくわりがべつべつにせつめいされていた。
+- UK :: У матеріалі про роботу аптеки окремо пояснювали підготовку ліків і консультації.
+- EN :: The material introducing pharmacy work explained dispensing and consultation as separate roles.
+- FOCUS :: 調剤
+
+* Sense s-1429160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7c1871cf3c31daeda796124fb131bfbc8ff229071755cc717aba369b532c66dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1429160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicijnbereiding
+*** en-s-1429160-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: artsenijbereiding
+** Ukrainian glosses
+
+* Sense s-1429160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3a65f7fd9ffb67a8682c0cb90fc5b5869e9cc1ae5e3a9311c0d8fc286c3ed40d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1429160-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: préparation d'un remède (médicament, potion ou onguent)
+** Ukrainian glosses
+
+* Sense s-1429160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6243b9916088300a8925c593b9957772404b56994c1d0fabd43f48169a4c9b86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1429160-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herstellung von Medizin
+*** en-s-1429160-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mischung von Medizin
+*** en-s-1429160-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medizin herstellen
+** Ukrainian glosses
+
+* Sense s-1429160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c091e782cb1e421af5510120af16910f598322e89eb01b533fb716a3bafd3f5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1429160-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: приготовление лекарств
+*** en-s-1429160-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} изготовлять лекарства
+** Ukrainian glosses

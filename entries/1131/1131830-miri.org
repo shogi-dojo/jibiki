@@ -1,0 +1,274 @@
+#+TITLE: ミリ
+#+JMDICT_ID: 1131830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ミリ
+#+ROMAJI: miri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1131830-001
+:PROPERTIES:
+:TEXT: ミリ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1131830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 608a5060060113ae3881d356a7f8eb9cb97005146fd37113f0dd75ba18b598a7
+:END:
+** JMdict metadata
+*** Parts of speech
+- pref
+*** Language sources
+**** Language source ls-s-1131830-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text :: milli-
+** English glosses
+- milli-
+- 10^-3
+** Ukrainian glosses
+- мілі-
+- одна тисячна (10^-3)
+** Learner notes
+*** note-s-1131830-001-001
+:PROPERTIES:
+:END:
+- UK :: Префікс метричної системи (від французького milli-). Позначає зменшення вихідної одиниці вимірювання в одну тисячу разів (10⁻³). Вживається у комбінаціях з іншими одиницями (наприклад, ミリメートル — міліметр, ミリリットル — мілілітр, ミリグラム — міліграм).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1131830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b34a859a81ba0032de745ea2ddf656a3ce3826fd27353a3278340fb95cd4f9f3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- ミリメートル
+** English glosses
+- millimetre
+- millimeter
+** Ukrainian glosses
+- міліметр
+** Learner notes
+*** note-s-1131830-002-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від ミリメートル (міліметр). У повсякденному мовленні, будівництві, шитті та кресленні майже завжди вживається саме коротка форма ミリ (наприклад, 五ミリ — п'ять міліметрів, ミリ単位 — з точністю до міліметра).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1131830-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この[線]{せん}をあと[五]{ご}ミリ[長]{なが}くしてください。
+- READING :: このせんをあとごみりながくしてください。
+- UK :: Будь ласка, продовжте цю лінію ще на п'ять міліметрів.
+- EN :: Please make this line five millimeters longer.
+- FOCUS :: ミリ
+*** ex-1131830-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: [雨]{あめ}が[降]{ふ}り[始]{はじ}め、[一時間]{いちじかん}に[十]{じゅう}ミリの[雨量]{うりょう}を[記録]{きろく}した。
+- READING :: あめがふりはじめ、いちじかんにじゅうみりのうりょうをきろくした。
+- UK :: Пішов дощ, і за одну годину було зафіксовано десять міліметрів опадів.
+- EN :: Rain began to fall, recording ten millimeters of rainfall in one hour.
+- FOCUS :: ミリ
+*** ex-1131830-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この[機械]{きかい}の[部品]{ぶひん}は[非常]{ひじょう}に[精密]{せいみつ}で、[一]{いち}ミリの[狂]{くる}いも[許]{ゆる}されない。
+- READING :: このきかいのぶひんはひじょうにせいみつで、いちみりのくるいもゆるされない。
+- UK :: Деталі цього механізму надзвичайно точні, тому навіть відхилення в один міліметр є неприпустимим.
+- EN :: The parts of this machine are extremely precise, and not even a deviation of one millimeter is permitted.
+- FOCUS :: ミリ
+
+* Sense s-1131830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3878963b71c3adc21e86045fcd86b6d67a80f8fecffdc91cf959d1dc1ac691d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: millimeter
+*** en-s-1131830-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mm
+*** en-s-1131830-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: milliliter
+*** en-s-1131830-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ml {afkorting van mirimētoru ミリメートル resp. miririttoru ミリリットル}
+** Ukrainian glosses
+
+* Sense s-1131830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 289e2d538be1458448ee2ea3c82880e5f20a0eeaeafa5ed3a93e554bf3a315a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: milli- {voorvoegsel in namen van metrieke eenheden; duidt het duizendste gedeelte aan van de in het grondwoord genoemde eenheid}
+** Ukrainian glosses
+
+* Sense s-1131830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0ee4d4f95f21fb72ebeb0e477e8642926f2612dbee488d390f7240d8e3f88279
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: milli-
+** Ukrainian glosses
+
+* Sense s-1131830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5eb88074ec297d50a089e1482a0ccbaeefa1d5c023123f59d490fec349af83e4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ((лат.) milli) 0,001
+*** en-s-1131830-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) ミリメートル
+** Ukrainian glosses
+
+* Sense s-1131830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 06da221c73795f4d658a183237220a18ca5c8d9d0326e494197137682da1d010
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (Msr) milimetrov
+*** en-s-1131830-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: milimeter
+*** en-s-1131830-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: milimetrov
+** Ukrainian glosses
+
+* Sense s-1131830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c29a832acc4fbf6bdf7a338b6e82f29bb129eccbb9909db0d180f47795220c4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1131830-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mili-
+*** en-s-1131830-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 10^-3
+** Ukrainian glosses

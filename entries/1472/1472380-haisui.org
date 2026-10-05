@@ -1,0 +1,639 @@
+#+TITLE: 排水
+#+JMDICT_ID: 1472380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいすい
+#+ROMAJI: haisui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1472380-001
+:PROPERTIES:
+:TEXT: 排水
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1472380-001
+:PROPERTIES:
+:TEXT: はいすい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf09
+
+* Sense s-1472380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9d02179db8223ee60d8874cf634a0924313a9c17b3e5ddaac32e6a5c422a08c6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- drainage
+- draining
+- pumping out (water)
+- sewerage
+** Ukrainian glosses
+*** uk-s-1472380-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дренаж; відведення води; відкачування
+** Learner notes
+*** note-s-1472380-001-001
+:PROPERTIES:
+:END:
+- UK :: 水を排水する — відкачати або відвести воду, 排水設備 — система водовідведення. Не плутайте з 排気 як виходом повітря; саме 排水 не говорить, чи вода брудна або чи проходить очищення.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1472380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地下室の水を排水した。
+- READING :: ちかしつのみずをはいすいした。
+- UK :: Ми відкачали воду з підвалу.
+- EN :: We drained the water from the basement.
+- FOCUS :: 排水した
+*** ex-1472380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 排水の設備を点検した。
+- READING :: はいすいのせつびをてんけんした。
+- UK :: Ми перевірили систему водовідведення.
+- EN :: We inspected the drainage equipment.
+- FOCUS :: 排水
+*** ex-1472380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大雨の後、排水が十分にできているか確認した。
+- READING :: おおあめのあと、はいすいがじゅうぶんにできているかかくにんした。
+- UK :: Після зливи ми перевірили, чи вода відводиться достатньо добре.
+- EN :: After the heavy rain, we checked whether drainage was adequate.
+- FOCUS :: 排水
+
+* Sense s-1472380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aefab2546f6938a09e822d5eceafc98ceb58408ea8ff8533ba0398ad3f221f4a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- displacement
+** Ukrainian glosses
+*** uk-s-1472380-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: водотоннажність; витіснення води
+** Learner notes
+*** note-s-1472380-002-001
+:PROPERTIES:
+:END:
+- UK :: У суднобудівному контексті 排水 у 排水量 пов'язане з обсягом або масою витісненої судном води. Це не вода, яку відкачують із корпусу; одиницю та конкретний показник слід визначати з технічного опису.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1472380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0067cfea3a64eb9ea82622559feb34bbd4b71037f18e82ee1194a32f948f2c7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwatering
+*** en-s-1472380-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterafvoer
+*** en-s-1472380-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afvoer
+*** en-s-1472380-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lozing
+*** en-s-1472380-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterlozing
+*** en-s-1472380-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterontlasting
+*** en-s-1472380-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.a. } ontlasting
+*** en-s-1472380-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drainering
+*** en-s-1472380-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drainage
+*** en-s-1472380-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitwatering
+*** en-s-1472380-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bemaling
+*** en-s-1472380-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: suatie
+** Ukrainian glosses
+
+* Sense s-1472380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cb86b80e7d9a6045d723b692601c4a066998df3d20001a8f53b6f2c7bad4bb45
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {scheepv.} waterverplaatsing
+** Ukrainian glosses
+
+* Sense s-1472380-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0d082cb568ea2238ad2152077d5140731bbd431fce4f1ba4781540a7da6cb96c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {scheepv.} verplaatsen
+** Ukrainian glosses
+
+* Sense s-1472380-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4a353ec8f6af467f6936b246770dc261d7c2c10af2c1be6d913b9c035ba00c4b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afvoeren
+*** en-s-1472380-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doen afvloeien
+*** en-s-1472380-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: draineren
+*** en-s-1472380-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hozen
+*** en-s-1472380-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {ポンプで} uitpompen
+** Ukrainian glosses
+
+* Sense s-1472380-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: efa4735d265f1b572c0da985585f9ba9208f448ab3829d405f31d8fcf24fc44d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-007-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: écoulement
+*** en-s-1472380-007-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: évacuation
+** Ukrainian glosses
+
+* Sense s-1472380-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 730600c56be9b543be0bc459780a6f706812162481d7cc5422a979612a038e34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entwässerung
+*** en-s-1472380-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drainage
+*** en-s-1472380-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dränage
+** Ukrainian glosses
+
+* Sense s-1472380-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a458210f15fb1b0fd22ec78c8e8e1716b85144f5e4dee212f3584c78574abe27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abwasserableitung
+** Ukrainian glosses
+
+* Sense s-1472380-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 610c5ff5332b16e91e46e322e77c6357d7cf25c93d7866e8e0cf168f462f0902
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abwasser
+** Ukrainian glosses
+
+* Sense s-1472380-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8f3fa8d61aa49abcb7af6a5f63d4af682a96c35c914781907a6a418523276744
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verdrängung
+** Ukrainian glosses
+
+* Sense s-1472380-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 70b5c506866d2d9c0c0f97fc5463dd2dd9a6678b1f49bd657cb78d5af7234f0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Guttation
+*** en-s-1472380-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tropfenförmige Wasserabgabe
+*** en-s-1472380-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entwässern
+*** en-s-1472380-012-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dränieren
+*** en-s-1472380-012-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasser ableiten
+** Ukrainian glosses
+
+* Sense s-1472380-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 08c1b3d35f9677119f484273a3712407aa1df9d8fd95890e7a383e9e1ebfbdcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alagcsövezés
+*** en-s-1472380-013-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatornahálózat
+*** en-s-1472380-013-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szennyvíz
+** Ukrainian glosses
+
+* Sense s-1472380-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 814b185602f2e6e590a91c2e682d1caa192668d1d4671a986e15f8186466ad83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) откачка (вычерпывание, отвод) воды; дренаж
+*** en-s-1472380-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} откачивать (вычерпывать, отводить) воду; дренировать, осушать
+** Ukrainian glosses
+
+* Sense s-1472380-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 7acc04b915b9285b7409e1b2d676a8f1573f6fef5013a2a8e9ae46dcd56ca98a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drenaža
+*** en-s-1472380-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sušenje
+*** en-s-1472380-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izsuševanje
+*** en-s-1472380-015-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drenirati
+*** en-s-1472380-015-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sušiti
+*** en-s-1472380-015-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izsuševati
+** Ukrainian glosses
+
+* Sense s-1472380-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: f513323a953a54030a65df7e510d2b2371310f6cb4862078f8d25a5712c8749a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drenaje
+** Ukrainian glosses
+
+* Sense s-1472380-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 4e1876659cd630a5baad65177e935c2b19670ff291f20ef066c2210212dfd98c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472380-017-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avlopp
+** Ukrainian glosses

@@ -1,0 +1,845 @@
+#+TITLE: マイナス
+#+JMDICT_ID: 1126980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: マイナス
+#+ROMAJI: mainasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-03
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1126980-001
+:PROPERTIES:
+:TEXT: マイナス
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+
+* Sense s-1126980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 58d524458ee918b6f2e5504454b663f76fa8773e7c25e6a1b6fadce0ab54b7d0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Antonyms
+- プラス・1
+** English glosses
+- minus
+- subtraction
+- taking away
+** Ukrainian glosses
+*** uk-s-1126980-001-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мінус
+*** uk-s-1126980-001-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: віднімання
+** Learner notes
+*** note-s-1126980-001-001
+:PROPERTIES:
+:END:
+- UK :: Математична дія віднімання або операція зменшення («мінус»). Вживається і як дієслово через マイナスする (віднімати, знімати бали). Антонім — プラス (плюс, додавання).
+- LEVEL :: beginner
+- REGISTER :: neutral
+** Examples
+*** ex-1126980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 十[じゅう]から三[さん]をマイナスすると七[なな]になる。
+- READING :: じゅうからさんをマイナスするとななになる。
+- UK :: Якщо від десяти відняти три, буде сім.
+- EN :: Ten minus three equals seven.
+- FOCUS :: マイナス
+*** ex-1126980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回[こんかい]のテストの点数[てんすう]は、ケアレスミスで五[ご]点[てん]マイナスされた。
+- READING :: こんかいのテストのてんすうは、ケアレスミスでごてんマイナスされた。
+- UK :: За мій результат у цьому тесті зняли п'ять балів через неуважність.
+- EN :: Five points were deducted from my test score this time due to careless mistakes.
+- FOCUS :: マイナス
+*** ex-1126980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 契約[けいやく]の更新[こうしん]にあたって、利用[りよう]頻度[ひんど]の低[ひく]いオプションをマイナスして月額[げつがく]費用[ひよう]を抑[おさ]えた。
+- READING :: けいやくのこうしんにあたって、りようひんどのひくいオプションをマイナスしてげつがくひようをおさえた。
+- UK :: Поновлюючи договір, я прибрав рідко вживані опції, щоб знизити щомісячні витрати.
+- EN :: Upon renewing the contract, I removed rarely used options to keep the monthly costs down.
+- FOCUS :: マイナス
+
+* Sense s-1126980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0f6b0ecd63d3b2219971df8cc1a57a4107bbb4294ad15773fa7e6d5b3befbfd5
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- negative (number)
+** Ukrainian glosses
+*** uk-s-1126980-002-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: від'ємне число
+*** uk-s-1126980-002-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мінусова температура
+** Learner notes
+*** note-s-1126980-002-001
+:PROPERTIES:
+:END:
+- UK :: Від'ємне число або температура нижче нуля градусів (наприклад, マイナス５度[マイナスごど] — мінус п'ять градусів).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1126980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b39f0a3d92f18568bd03168c229c7220b60c2abb91b2d917e009ea3b3131c48b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- deficit
+- loss
+** Ukrainian glosses
+*** uk-s-1126980-003-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: збиток
+*** uk-s-1126980-003-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дефіцит
+** Learner notes
+*** note-s-1126980-003-001
+:PROPERTIES:
+:END:
+- UK :: Фінансовий збиток, дефіцит бюджету або від'ємне сальдо: 収支がマイナスになる (баланс доходів і витрат іде в мінус / стає збитковим).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1126980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5c0d19d991a8d915d25fb5c2f60061e40e9351d530803cd9b21f394322f87e7a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- disadvantage
+- drawback
+- handicap
+** Ukrainian glosses
+*** uk-s-1126980-004-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: недолік
+*** uk-s-1126980-004-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мінус (негативний фактор)
+** Learner notes
+*** note-s-1126980-004-001
+:PROPERTIES:
+:END:
+- UK :: Несприятливий чинник або вада: マイナス面[マイナスめん] (негативний бік), マイナスに働く (спрацювати на шкоду / піти в мінус).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1126980-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 34701524b114c83409b091b463f289355875b8119389634e8e849c22738bd438
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- negative charge
+- cathode
+- negative terminal
+- negative pole
+** Ukrainian glosses
+*** uk-s-1126980-005-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: негативний полюс
+*** uk-s-1126980-005-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мінус (електричний)
+** Learner notes
+*** note-s-1126980-005-001
+:PROPERTIES:
+:END:
+- UK :: Електричний термін: мінусова клема батарейки чи катод (マイナス極[マイナスきょく]).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1126980-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 751e4ae444a9559be1a0943a3f6880fd7068e4bb87856e70b3a060b243466354
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- minus sign
+- negative sign
+** Ukrainian glosses
+*** uk-s-1126980-006-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: знак мінус
+** Learner notes
+*** note-s-1126980-006-001
+:PROPERTIES:
+:END:
+- UK :: Математичний символ або типографський знак «мінус» (-).
+- LEVEL :: beginner
+- REGISTER :: neutral
+
+* Sense s-1126980-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d1fa362290afeef96acc84cc5410bd021b74d744d05e51c15f2ea647a5c2e2bd
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- negative (image, effect, thinking, etc.)
+- bad
+** Ukrainian glosses
+*** uk-s-1126980-007-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: негативний (вплив, образ)
+*** uk-s-1126980-007-002
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: песимістичний
+** Learner notes
+*** note-s-1126980-007-001
+:PROPERTIES:
+:END:
+- UK :: Негативний імідж чи песимістичне сприйняття дійсності: マイナス思考[マイナスしこう] (песимістичний спосіб мислення), マイナスイメージ (негативний образ).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1126980-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4ef016634c549a4959b5bc91d6b332bcaf1d3802139c7a4918266fff44007200
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+** English glosses
+- negative (test result)
+** Ukrainian glosses
+*** uk-s-1126980-008-001
+:PROPERTIES:
+:TRANSLATOR_ID: codex
+:TRANSLATED_AT: 2026-10-03
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: негативний (результат тесту)
+** Learner notes
+*** note-s-1126980-008-001
+:PROPERTIES:
+:END:
+- UK :: Медичний контекст: негативний результат тесту чи медичного огляду (в офіційній медичній термінології частіше вживається 陰性[いんせい]).
+- LEVEL :: intermediate
+- REGISTER :: formal
+
+* Sense s-1126980-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ed530aa770ceeb9a9729e1a91f43af639a07c95629fc09aaf2c9e50af2a8a0fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} min
+*** en-s-1126980-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minus
+*** en-s-1126980-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} minteken
+*** en-s-1126980-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekking
+*** en-s-1126980-009-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} subtractie
+** Ukrainian glosses
+
+* Sense s-1126980-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 08588b379cf8f2641e0b457f32d6baff260a7465aa53768fa7ccef233e300c11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negatief
+*** en-s-1126980-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meteorologie} onder nul
+*** en-s-1126980-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onder het vriespunt
+** Ukrainian glosses
+
+* Sense s-1126980-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 04b58236e87d01864215fe425208e87386bb10913b73c3b1f5f71d1efcb590da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nadeel
+*** en-s-1126980-011-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minpunt
+*** en-s-1126980-011-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: min
+** Ukrainian glosses
+
+* Sense s-1126980-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 42816c5c16e931a39e4216f1bf5f9438e57a66e04a2e6433086121dd73d1af53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-012-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deficit
+*** en-s-1126980-012-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tekort
+*** en-s-1126980-012-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: manco
+*** en-s-1126980-012-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlies
+*** en-s-1126980-012-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: passief (saldo)
+*** en-s-1126980-012-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rode cijfers
+** Ukrainian glosses
+
+* Sense s-1126980-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 08b737d6a525551314d25a9df8443d010a1a049016a3e829c64d954454b812c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-013-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minuspool
+*** en-s-1126980-013-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minpool
+*** en-s-1126980-013-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kathode
+*** en-s-1126980-013-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektronegatief ~
+*** en-s-1126980-013-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} aftrekken (van)
+*** en-s-1126980-013-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afnemen van
+*** en-s-1126980-013-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in mindering brengen (op)
+*** en-s-1126980-013-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} subtraheren
+** Ukrainian glosses
+
+* Sense s-1126980-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 1bffd4b89a3adf38897ff142a3f54fb6083ba3aeaf129ef7ea44cf695710ff5f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-014-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: moins (soustraction, signe mathématique)
+** Ukrainian glosses
+
+* Sense s-1126980-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 67771f6da22394251606620a82b88955f3f76be6f95a889bc66410c67f6222e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-015-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Minus
+** Ukrainian glosses
+
+* Sense s-1126980-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 86d7d972aec7a0210d8048edd919b5498c60d4ab296ee29ef42b2afdc0ee9146
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-016-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negativer Pol
+** Ukrainian glosses
+
+* Sense s-1126980-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 5621d236b8db5b74e53424b539fdbfe0a8f600e3d94fd92f75056d788be3c4b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-017-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Defizit
+*** en-s-1126980-017-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Minus
+** Ukrainian glosses
+
+* Sense s-1126980-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 7448f82a6dfdf66550c04bc060a7beb8b56d0f94dfba26a5a9f05e0821a68a10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-018-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földelés
+** Ukrainian glosses
+
+* Sense s-1126980-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: 8b4d9ed9d2676fbe661403bd56875e45a2a1c8ffeca0f5f31150005b9c1c0a9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-019-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) minus)
+*** en-s-1126980-019-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) минус
+*** en-s-1126980-019-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} вычитать
+*** en-s-1126980-019-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) дефицит; недостача
+*** en-s-1126980-019-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} приводить к дефициту, быть дефицитным
+*** en-s-1126980-019-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) неудача
+** Ukrainian glosses
+
+* Sense s-1126980-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 2f190c0201dbd3575ef89f6714aa44ad2dfa5ec5d87c33a3d014920c3fd02126
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-020-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: znak minus
+*** en-s-1126980-020-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negativna količina
+*** en-s-1126980-020-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: primanjkljaj
+*** en-s-1126980-020-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odštevanje
+*** en-s-1126980-020-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odšteti
+*** en-s-1126980-020-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izguba
+** Ukrainian glosses
+
+* Sense s-1126980-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 97dcc54b557b005655199251101472f67e5f8d41194ea13d3ed6f9abd68eb9f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-021-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: minus) menos
+*** en-s-1126980-021-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: signo de menos
+** Ukrainian glosses
+
+* Sense s-1126980-022
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 22
+:SOURCE_FINGERPRINT: 568aa8f81cfe809fc0a29958a92d70a946887cb526eb2f3c484849b8792d75da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1126980-022-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minus
+** Ukrainian glosses

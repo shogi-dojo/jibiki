@@ -1,0 +1,390 @@
+#+TITLE: 発電
+#+JMDICT_ID: 1477750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はつでん
+#+ROMAJI: hatsuden
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1477750-001
+:PROPERTIES:
+:TEXT: 発電
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Written form wf-1477750-002
+:PROPERTIES:
+:TEXT: 發電
+:END:
+*** Information
+- sK
+** Reading rd-1477750-001
+:PROPERTIES:
+:TEXT: はつでん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+
+* Sense s-1477750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 50633b97c4f4857eea4036795891fcfe6d0204c8364ebc83acd3c912c2c4676b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- generation of electricity
+- power generation
+** Ukrainian glosses
+*** uk-s-1477750-001-001
+:PROPERTIES:
+:END:
+- text :: виробництво електроенергії; генерація електроенергії
+** Learner notes
+*** note-s-1477750-001-001
+:PROPERTIES:
+:END:
+- UK :: Виробництво електричного струму за допомогою різних джерел енергії (~太陽光発電~ — сонячна енергетика, ~発電所~ — електростанція). Дієслово: ~発電する~.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1477750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この工場は太陽光で発電している。
+- READING :: このこうじょうはたいようこうではつでんしている。
+- UK :: Цей завод виробляє електроенергію за допомогою сонячного світла.
+- EN :: This factory generates electricity using solar power.
+- FOCUS :: 発電している
+*** ex-1477750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地震の影響で発電所の運転が一時停止した。
+- READING :: じしんのえいきょうではつでんしょのうんてんがいちじていしした。
+- UK :: Через наслідки землетрусу роботу електростанції було тимчасово призупинено.
+- EN :: Due to the effects of the earthquake, operations at the power plant were temporarily suspended.
+- FOCUS :: 発電所
+*** ex-1477750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 風力や水力などの再生可能エネルギーを用いた発電が世界中で注目されている。
+- READING :: ふうりょくやすいりょくなどのさいせいかのうエネルギーをもちいたはつでんがせかいじゅうでちゅうもくされている。
+- UK :: Виробництво електроенергії з відновлюваних джерел, таких як вітер і вода, привертає увагу в усьому світі.
+- EN :: Power generation using renewable energy such as wind and hydro is drawing attention worldwide.
+- FOCUS :: 発電
+
+* Sense s-1477750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 09f6de41fad8c7202879eff7d770df4c018a723b73235bf9336573b6c5ef0b48
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Miscellaneous and register
+- obs
+** English glosses
+- sending a telegram
+- telegraphing
+** Ukrainian glosses
+*** uk-s-1477750-002-001
+:PROPERTIES:
+:END:
+- text :: надсилання телеграми
+** Learner notes
+*** note-s-1477750-002-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле значення: передача або відправлення повідомлення телеграфом.
+- LEVEL :: advanced
+- REGISTER :: archaic
+
+* Sense s-1477750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 89cde0a98a429c45a546def6d48b20653563baa06facf435bbf49e88c794c110
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektriciteitsproductie
+*** en-s-1477750-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektriciteitsopwekking
+*** en-s-1477750-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroomvoortbrenging
+*** en-s-1477750-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} elektriciteitsgeneratie
+*** en-s-1477750-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektriciteit produceren
+*** en-s-1477750-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektriciteit genereren
+*** en-s-1477750-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroom opwekken
+*** en-s-1477750-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroom voortbrengen
+** Ukrainian glosses
+
+* Sense s-1477750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1ab6edb555be1ada6f599d35808ebc2b41e183fb60caffbbd8f057800fa36b5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: électrogène
+*** en-s-1477750-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: génération (électrique)
+*** en-s-1477750-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: produire (de l'électricite)
+** Ukrainian glosses
+
+* Sense s-1477750-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7f9feb5fbc21c4c956a3239229ad33f0745dcb367c281de75232cc4c4921a563
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromerzeugung
+*** en-s-1477750-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strom erzeugen
+** Ukrainian glosses
+
+* Sense s-1477750-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f55d1261b438e2c4fceeae3f3b9890ca9e66167d5dd9d7893f75756ddf4f7fa2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: generáció
+*** en-s-1477750-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: generálás
+*** en-s-1477750-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nemzedék
+*** en-s-1477750-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramfejlesztés
+** Ukrainian glosses
+
+* Sense s-1477750-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 13fa7d719eb9b3140c565aeca20042a05c097a1cac068d0d2bb216bf34d4efef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) выработка электроэнергии
+*** en-s-1477750-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} давать (вырабатывать) электроэнергию
+*** en-s-1477750-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) телеграфирование, отправление телеграммы
+*** en-s-1477750-007-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} телеграфировать, давать (посылать) телеграмму
+** Ukrainian glosses
+
+* Sense s-1477750-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 46a66627b2b125c097127a2af9ddaf6bfd54eb2709ac28c7f09a67683f341693
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proizvajati elektriko
+*** en-s-1477750-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proizvodnja elektrike
+** Ukrainian glosses
+
+* Sense s-1477750-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 74fc12868990079e40b8688b44c93a42ac0c3fdf31ed5371bc90079a3730017e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1477750-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: generación (e.g. energía)
+** Ukrainian glosses

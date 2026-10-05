@@ -1,0 +1,319 @@
+#+TITLE: 蒸留
+#+JMDICT_ID: 1356970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょうりゅう
+#+ROMAJI: jouryuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1356970-001
+:PROPERTIES:
+:TEXT: 蒸留
+:END:
+** Written form wf-1356970-002
+:PROPERTIES:
+:TEXT: 蒸溜
+:END:
+** Written form wf-1356970-003
+:PROPERTIES:
+:TEXT: 蒸餾
+:END:
+*** Information
+- rK
+** Reading rd-1356970-001
+:PROPERTIES:
+:TEXT: じょうりゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1356970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 93f5a03aff09645eb6f2508471dccc8a31682c9fb363404c48a570ff850c19b1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- distillation
+** Ukrainian glosses
+*** uk-s-1356970-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дистиляція; перегонка
+** Learner notes
+*** note-s-1356970-001-001
+:PROPERTIES:
+:END:
+- UK :: 蒸留する — розділяти або очищати рідину шляхом випаровування й подальшої конденсації пари; типові 蒸留水 та 蒸留装置. Від 濾過 відрізняється принципом: тут використовують перехід у пару, а не пропускання крізь фільтр.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1356970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水を蒸留した。
+- READING :: みずをじょうりゅうした。
+- UK :: Воду дистилювали.
+- EN :: We distilled the water.
+- FOCUS :: 蒸留
+*** ex-1356970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 実験に蒸留水を使った。
+- READING :: じっけんにじょうりゅうすいをつかった。
+- UK :: Для досліду використали дистильовану воду.
+- EN :: We used distilled water in the experiment.
+- FOCUS :: 蒸留
+*** ex-1356970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 蒸留で生じた蒸気を冷やし、液体として別の容器に集めた。
+- READING :: じょうりゅうでしょうじたじょうきをひやし、えきたいとしてべつのようきにあつめた。
+- UK :: Пару, утворену під час перегонки, охолодили й зібрали як рідину в іншій посудині.
+- EN :: We cooled the vapor produced by distillation and collected it as liquid in another container.
+- FOCUS :: 蒸留
+
+* Sense s-1356970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 27c5b854160cf33652612f5bd20713bed4733da8b85f16d35a00d41a5183c74b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distilleren
+*** en-s-1356970-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: door verdamping en condensatie zuiveren
+*** en-s-1356970-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scheiden
+*** en-s-1356970-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distillatie
+*** en-s-1356970-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het distilleren
+** Ukrainian glosses
+
+* Sense s-1356970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03957c14d9181ab735fd2d22ba59f70e19e0bc6bc9b9148eaf0e4a12dbfbfe87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destillieren (v.a. in der Chemie gebraucht)
+*** en-s-1356970-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Destillation
+** Ukrainian glosses
+
+* Sense s-1356970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cb600a97e7fbc794ddfa1132bdba1348e67f92bb0f8b586d41db04866b9d7eec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desztilláció
+*** en-s-1356970-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lepárlás
+*** en-s-1356970-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lepárolás
+** Ukrainian glosses
+
+* Sense s-1356970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2ec5360071bbc8719d914570227d0052761b0ebaa6a8c55991cb2f0e9affe869
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дистилляция, перегонка
+*** en-s-1356970-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} дистиллировать; подвергать перегонке, перегонять
+** Ukrainian glosses
+
+* Sense s-1356970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 362ee680fd4b99d55efd37597c521fbe795b1f7a16ac3d87e6f283fc54a3f84f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destilacija
+*** en-s-1356970-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destilirati
+** Ukrainian glosses
+
+* Sense s-1356970-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dd0a6312fd3cc2917a86871f4b13c5e8ef51cd542fedf062efdc7c4583d5bdba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destilación
+*** en-s-1356970-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destilar
+*** en-s-1356970-007-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destilación
+** Ukrainian glosses
+
+* Sense s-1356970-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f29b622469bfd8c275c2fc85eee58af087855d1a5748dcd641ca272797933c91
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1356970-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destillation
+*** en-s-1356970-008-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destillering
+** Ukrainian glosses

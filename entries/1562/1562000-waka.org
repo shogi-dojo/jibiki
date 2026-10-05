@@ -1,0 +1,257 @@
+#+TITLE: 和歌
+#+JMDICT_ID: 1562000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わか
+#+ROMAJI: waka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1562000-001
+:PROPERTIES:
+:TEXT: 和歌
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1562000-002
+:PROPERTIES:
+:TEXT: 倭歌
+:END:
+*** Information
+- rK
+** Reading rd-1562000-001
+:PROPERTIES:
+:TEXT: わか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1562000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eb82c2a96b0d0facc18bd8d82840a1aaa97a245b06947fc0eb7472632ff79ab1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 短歌
+** English glosses
+- waka
+*** en-s-1562000-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: classic Japanese poem, esp. a tanka, often 31 morae
+** Ukrainian glosses
+*** uk-s-1562000-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вака; класична японська поезія; класичний японський вірш
+** Learner notes
+*** note-s-1562000-001-001
+:PROPERTIES:
+:END:
+- UK :: 和歌 — класична японська поезія, особливо форма танка з тридцятьма однією морою; типові 和歌を詠む та 和歌を読む. У широкому історичному значенні охоплення більше за одну форму; 漢詩 натомість пов'язане з китайськомовною поезією.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1562000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 和歌を読んだ。
+- READING :: わかをよんだ。
+- UK :: Прочитали вірш вака.
+- EN :: We read a waka poem.
+- FOCUS :: 和歌
+*** ex-1562000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 授業で春を詠んだ和歌を学んだ。
+- READING :: じゅぎょうではるをよんだわかをまなんだ。
+- UK :: На уроці вивчили вака про весну.
+- EN :: In class, we studied a waka about spring.
+- FOCUS :: 和歌
+*** ex-1562000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 和歌の言葉を調べると、現代とは異なる意味で使われていることがある。
+- READING :: わかのことばをしらべると、げんだいとはことなるいみでつかわれていることがある。
+- UK :: Досліджуючи слова вака, іноді знаходимо значення, відмінні від сучасних.
+- EN :: Studying waka vocabulary sometimes reveals meanings different from modern usage.
+- FOCUS :: 和歌
+
+* Sense s-1562000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3f4d8824df80bf2dfc921a741f3f1d3f2b799841d5523dd87c0ae983c913292e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tanka {Japanse dichtvorm die bestaat uit eenendertig lettergrepen
+*** en-s-1562000-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waarbij de eerste en derde regel vijf
+*** en-s-1562000-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: en de overige drie regels telkens zeven syllaben bevatten}
+*** en-s-1562000-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verzameln.} traditionele Japanse poëzie
+** Ukrainian glosses
+
+* Sense s-1562000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b9632edd2a4d51c2729a089853aee7f6c6cff609dfc125cb54a569418be9f708
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poème de 31 syllabes
+** Ukrainian glosses
+
+* Sense s-1562000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3909925dc609eea42c0a69cdd876373e5946d935b3331957cbbdbd1e3877a0f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Waka
+*** en-s-1562000-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japanisches Gedicht (Tanka, Naga・uta, Sedō・ka etc.)
+** Ukrainian glosses
+
+* Sense s-1562000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5d0ea17741a899c441c304dd6f7a97be7aefb0ae7809bed9aa18240f8ebe34d5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (insbes.)Tanka (das 31-silbige japanische Gedicht)
+** Ukrainian glosses
+
+* Sense s-1562000-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 464a83c57a3a358bece24554a5655cd766baded2fbdf156d18c64a1c5794d18c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) вака (классическая яп. поэзия  нагаута, танка, сэдока и др.)
+*** en-s-1562000-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) たんか【短歌】
+** Ukrainian glosses
+
+* Sense s-1562000-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dceb2e5ee207f024d67746b22a8c7003335109482c6656478fc8e6129f7700cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1562000-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waka (poema japonés de 31 sílabas)
+** Ukrainian glosses
