@@ -5106,6 +5106,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 703 | [落ち着き](entries/1548/1548590-ochitsuki.org) | おちつき | 1548590 | new / draft |
 | Open Anki N1 704 | [落葉](entries/1585/1585070-ochiba.org) | おちば | 1585070 | new / draft |
 
+| Open Anki N1 705 | [乙](entries/1182/1182940-otsu.org) | おつ | 1182940 | new / draft |
+| Open Anki N1 706 | [お使い](entries/1001/1001980-otsukai.org) | おつかい | 1001980 | new / draft |
+| Open Anki N1 708 | [お手上げ](entries/1002/1002080-oteage.org) | おてあげ | 1002080 | new / draft |
+| Open Anki N1 712 | [お供](entries/1001/1001810-otomo.org) | おとも | 1001810 | new / draft |
+| Open Anki N1 714 | [同い年](entries/1451/1451740-onaidoshi.org) | おないどし | 1451740 | new / draft |
+| Open Anki N1 715 | [自ずから](entries/1317/1317330-onozukara.org) | おのずから | 1317330 | new / draft |
+| Open Anki N1 720 | [お袋](entries/1002/1002370-ofukuro.org) | おふくろ | 1002370 | new / draft |
+| Open Anki N1 723 | [お宮](entries/1001/1001790-omiya.org) | おみや | 1001790 | new / draft |
+| Open Anki N1 725 | [思い付き](entries/1309/1309380-omoitsuki.org) | おもいつき | 1309380 | new / draft |
+| Open Anki N1 726 | [趣](entries/1328/1328960-omomuki.org) | おもむき | 1328960 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
