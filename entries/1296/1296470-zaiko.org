@@ -1,0 +1,415 @@
+#+TITLE: 在庫
+#+JMDICT_ID: 1296470
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ざいこ
+#+ROMAJI: zaiko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1296470-001
+:PROPERTIES:
+:TEXT: 在庫
+:END:
+*** Priorities
+- news1
+- nf05
+** Reading rd-1296470-001
+:PROPERTIES:
+:TEXT: ざいこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf05
+
+* Sense s-1296470-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c7b2e31808c64e48ff8ecafcb44b1f9cabdc3f8eafd80ced154f0b29119a78a8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stock
+- inventory
+** Ukrainian glosses
+*** uk-s-1296470-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запаси; складський залишок
+** Learner notes
+*** note-s-1296470-001-001
+:PROPERTIES:
+:END:
+- UK :: 在庫 — товари або матеріали, що є на складі чи в магазині: 在庫を確認する, 在庫が減る. Не просто всі активи підприємства. Загальна кількість, різновид і місце зберігання уточнюються окремо; слово може стосуватися і готових виробів, і сировини.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1296470-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 在庫を確かめた。
+- READING :: ざいこをたしかめた。
+- UK :: Я перевірив запаси.
+- EN :: I checked the inventory.
+- FOCUS :: 在庫
+*** ex-1296470-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 店の在庫が少なくなっている。
+- READING :: みせのざいこがすくなくなっている。
+- UK :: Запаси крамниці зменшуються.
+- EN :: The store's stock is running low.
+- FOCUS :: 在庫
+*** ex-1296470-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 帳簿の在庫と実際の数が合わなかったため、担当者は入荷と出荷の記録を順に調べた。
+- READING :: ちょうぼのざいことじっさいのかずがあわなかったため、たんとうしゃはにゅうかとしゅっかのきろくをじゅんにしらべた。
+- UK :: Оскільки облікові запаси не збігалися з фактичною кількістю, працівник послідовно перевірив надходження й відправлення.
+- EN :: The recorded inventory did not match the actual count, so the staff member reviewed receipts and dispatches in order.
+- FOCUS :: 在庫
+
+* Sense s-1296470-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f916de1b9a6e7b83a4cc13684b43515bcb9f3103dce82a03238dfcf95e5c7d15
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- having in stock
+- being in stock
+** Ukrainian glosses
+*** uk-s-1296470-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: наявність у запасі; бути в наявності
+** Learner notes
+*** note-s-1296470-002-001
+:PROPERTIES:
+:END:
+- UK :: У сенсі стану 在庫 означає, що товар є для постачання чи продажу: 在庫あり, 在庫している. Не гарантує негайної доставки: місце й умови можуть відрізнятися. 売り切れ протиставляє розпроданість, а 在庫なし лише відсутність потрібного запасу в конкретному місці.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1296470-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c88bacca90ca9dd46afb9980b64333c027067dd0d52295f555e0ac79220d36aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanwezige voorraad
+*** en-s-1296470-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stock
+*** en-s-1296470-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inventaris
+** Ukrainian glosses
+
+* Sense s-1296470-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0469aa2c1bd7f3f52db924c07c1caf6c4dac93e5cc71a36a20caf8395ad34d84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lager
+*** en-s-1296470-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorrat
+** Ukrainian glosses
+
+* Sense s-1296470-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cf1481c8b1bf927913bfc276b4b839346880b42794ea59f392cd453b645c9b0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktárkészlet
+*** en-s-1296470-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: árukészlet
+*** en-s-1296470-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hányó
+*** en-s-1296470-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktár
+*** en-s-1296470-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartalékkészlet
+*** en-s-1296470-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alaptőke
+*** en-s-1296470-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: államkötvény
+*** en-s-1296470-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: értékpapír
+*** en-s-1296470-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jószág
+*** en-s-1296470-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktárállomány
+*** en-s-1296470-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktári
+*** en-s-1296470-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktárkészlet
+*** en-s-1296470-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raktáron levő
+*** en-s-1296470-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sűrített húsleves
+*** en-s-1296470-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabvány-
+*** en-s-1296470-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szokványos
+*** en-s-1296470-005-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: törzsállomány
+*** en-s-1296470-005-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viola
+** Ukrainian glosses
+
+* Sense s-1296470-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f1190d6c05c8cd04f71c08fca289159493f775ea3a0464c01e66ea8724364ff5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～している} иметься в запасе (на складе)
+** Ukrainian glosses
+
+* Sense s-1296470-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6b4f7c182eb747dd824e0a28430650d37594eff9cedf0c41ed477083dfdfc750
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delnice
+*** en-s-1296470-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: državni papirji
+*** en-s-1296470-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ki kotirajo na borzi
+** Ukrainian glosses
+
+* Sense s-1296470-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 490753d3c496045937aa41e7d6aa5f86da1b53527fa31194698318266d577286
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1296470-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: las reservas (lo almacenado
+*** en-s-1296470-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: el stock)
+** Ukrainian glosses
