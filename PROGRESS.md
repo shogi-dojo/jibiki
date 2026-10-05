@@ -4691,6 +4691,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 302 | [堂々](entries/1599/1599260-doudou.org) | どうどう | 1599260 | new / draft |
 | Open Anki N1 303 | [尊ぶ](entries/1598/1598640-toutobu.org) | とうとぶ | 1598640 | new / draft |
 
+| Open Anki N1 306 | [導入](entries/1453/1453790-dounyuu.org) | どうにゅう | 1453790 | new / draft |
+| Open Anki N1 307 | [当人](entries/1449/1449120-tounin.org) | とうにん | 1449120 | new / draft |
+| Open Anki N1 308 | [同封](entries/1453/1453340-doufuu.org) | どうふう | 1453340 | new / draft |
+| Open Anki N1 309 | [逃亡](entries/1450/1450470-toubou.org) | とうぼう | 1450470 | new / draft |
+| Open Anki N1 310 | [冬眠](entries/1446/1446150-toumin.org) | とうみん | 1446150 | new / draft |
+| Open Anki N1 313 | [動力](entries/1451/1451660-douryoku.org) | どうりょく | 1451660 | new / draft |
+| Open Anki N1 315 | [討論](entries/1449/1449980-touron.org) | とうろん | 1449980 | new / draft |
+| Open Anki N1 316 | [遠ざかる](entries/1177/1177830-toozakaru.org) | とおざかる | 1177830 | new / draft |
+| Open Anki N1 317 | [遠回り](entries/1177/1177930-toomawari.org) | とおまわり | 1177930 | new / draft |
+| Open Anki N1 325 | [独裁](entries/1455/1455800-dokusai.org) | どくさい | 1455800 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
