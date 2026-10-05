@@ -1,0 +1,370 @@
+#+TITLE: 控除
+#+JMDICT_ID: 1279080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうじょ
+#+ROMAJI: koujo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1279080-001
+:PROPERTIES:
+:TEXT: 控除
+:END:
+*** Priorities
+- news1
+- nf07
+** Written form wf-1279080-002
+:PROPERTIES:
+:TEXT: 扣除
+:END:
+*** Information
+- rK
+** Reading rd-1279080-001
+:PROPERTIES:
+:TEXT: こうじょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf07
+
+* Sense s-1279080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5360036ba320ead9e873f848a13a858a01ecb0616bfa89aada8d1be16cf778d8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- subtraction
+- deduction (e.g. of tax)
+** Ukrainian glosses
+*** uk-s-1279080-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відрахування; вирахування із суми
+** Learner notes
+*** note-s-1279080-001-001
+:PROPERTIES:
+:END:
+- UK :: Віднімання визначеної суми, часто в податкових або зарплатних розрахунках. 所得控除 стосується доходу, а 税額控除 — суми податку; переклад «знижка» без контексту може приховати цю різницю.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1279080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 控除の額を確認した。
+- READING :: こうじょのがくをかくにんした。
+- UK :: Я перевірив суму відрахування.
+- EN :: I checked the deduction amount.
+- FOCUS :: 控除
+*** ex-1279080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 給与明細には控除の内訳も載っています。
+- READING :: きゅうよめいさいにはこうじょのうちわけものっています。
+- UK :: У розрахунковому листку також наведено склад відрахувань.
+- EN :: The payslip also lists the deductions.
+- FOCUS :: 控除
+*** ex-1279080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 説明会では、所得からの控除と税額からの控除の違いを学んだ。
+- READING :: せつめいかいでは、しょとくからのこうじょとぜいがくからのこうじょのちがいをまなんだ。
+- UK :: На інформаційній зустрічі ми вивчили різницю між вирахуванням із доходу та із суми податку.
+- EN :: At the briefing, we learned the difference between deductions from income and deductions from tax.
+- FOCUS :: 控除
+
+* Sense s-1279080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a582f3725c48e3ca17e7cb709c13d0e6413d991a9923fc81dda7e3d26e480d18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrek
+*** en-s-1279080-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inhouding
+*** en-s-1279080-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aftrekken
+*** en-s-1279080-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inhouden
+*** en-s-1279080-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afhouden
+** Ukrainian glosses
+
+* Sense s-1279080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0719507c9e0fabf9b028d8d5cdebedca764a962978bfb629530add08675af6c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décompte
+*** en-s-1279080-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: déduction
+*** en-s-1279080-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: remise
+*** en-s-1279080-003-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subvention
+** Ukrainian glosses
+
+* Sense s-1279080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b0d5ac61acccd48467621d4a333926cee22bb259f93ba40929d2e4b3ffe41709
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abzug
+*** en-s-1279080-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Subtraktion
+*** en-s-1279080-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abrechnung
+*** en-s-1279080-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abziehen
+*** en-s-1279080-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subtrahieren
+** Ukrainian glosses
+
+* Sense s-1279080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0c38139a348839632881e81d8549488f74bd9313863f856e4b2d65ba4e27f35a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: következtetés
+*** en-s-1279080-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levezetés
+*** en-s-1279080-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levonás
+*** en-s-1279080-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levonás (pl. bérből)
+** Ukrainian glosses
+
+* Sense s-1279080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: fbb0befc8c860f541abe06e3dbd56543900998d2ff5f1566a16ba417eeeea145
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вычитание; вычет, удержание; отчисление
+*** en-s-1279080-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} вычитать; делать вычет, удерживать; отчислять
+** Ukrainian glosses
+
+* Sense s-1279080-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2cec5ebc6dc6773bb0266c0196bd8f9ce5fea38ffd549b7d6baf7abe79bbea9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtegljaj
+*** en-s-1279080-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odbitek
+*** en-s-1279080-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odštevanje
+*** en-s-1279080-007-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olajšava
+** Ukrainian glosses
+
+* Sense s-1279080-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0e54ddc8d32249c375deeac0e959cb66caf8bf4e2b70051c174fe9f423e1dee5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279080-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deducción
+** Ukrainian glosses
