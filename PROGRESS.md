@@ -4405,10 +4405,10 @@ untracked `entries/1296/1296680-tsumi.org` and
 remain **new / draft**, pending linguistic editorial review; automated
 checks do not confer release-ready status.
 
-## Final 3100-word branch N2 continuation (2026-10-05)
+## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **50/200** additional distinct words; branch total **2950**.
+Completed **60/200** additional distinct words; branch total **2960**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4417,7 +4417,8 @@ with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
-N2-69 (佚) remains deferred and is not counted.
+N2-69 (佚) remains deferred and is not counted. The selected continuation
+uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 
 | Batch | New entries |
 | --- | ---: |
@@ -4426,6 +4427,7 @@ N2-69 (佚) remains deferred and is not counted.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4479,6 +4481,16 @@ N2-69 (佚) remains deferred and is not counted.
 | JLPTLord N2 2790 | [制定](entries/1374/1374870-seitei.org) | せいてい | 1374870 | new / draft |
 | JLPTLord N2 2794 | [渓谷](entries/1250/1250950-keikoku.org) | けいこく | 1250950 | new / draft |
 | JLPTLord N2 2795 | [断崖](entries/1419/1419580-dangai.org) | だんがい | 1419580 | new / draft |
+| JLPTLord N2 2800 | [河口](entries/1577/1577300-kakou.org) | かこう | 1577300 | new / draft |
+| JLPTLord N2 2801 | [上流](entries/1354/1354510-jouryuu.org) | じょうりゅう | 1354510 | new / draft |
+| JLPTLord N2 2802 | [下流](entries/1186/1186560-karyuu.org) | かりゅう | 1186560 | new / draft |
+| JLPTLord N2 2804 | [水源](entries/1371/1371460-suigen.org) | すいげん | 1371460 | new / draft |
+| JLPTLord N2 2814 | [暴風](entries/1519/1519540-boufuu.org) | ぼうふう | 1519540 | new / draft |
+| JLPTLord N2 2817 | [大雪](entries/1414/1414350-ooyuki.org) | おおゆき | 1414350 | new / draft |
+| JLPTLord N2 2823 | [猛暑](entries/1534/1534050-mousho.org) | もうしょ | 1534050 | new / draft |
+| JLPTLord N2 2824 | [酷暑](entries/1287/1287370-kokusho.org) | こくしょ | 1287370 | new / draft |
+| JLPTLord N2 2825 | [厳寒](entries/1262/1262580-genkan.org) | げんかん | 1262580 | new / draft |
+| JLPTLord N2 2832 | [被災](entries/1484/1484440-hisai.org) | ひさい | 1484440 | new / draft |
 
 ## Maturity workflow
 
