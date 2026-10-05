@@ -5117,6 +5117,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 725 | [思い付き](entries/1309/1309380-omoitsuki.org) | おもいつき | 1309380 | new / draft |
 | Open Anki N1 726 | [趣](entries/1328/1328960-omomuki.org) | おもむき | 1328960 | new / draft |
 
+| Open Anki N1 728 | [重んじる](entries/1335/1335940-omonjiru.org) | おもんじる | 1335940 | new / draft |
+| Open Anki N1 729 | [重んずる](entries/1335/1335950-omonzuru.org) | おもんずる | 1335950 | new / draft |
+| Open Anki N1 730 | [親父](entries/1365/1365330-oyaji.org) | おやじ | 1365330 | new / draft |
+| Open Anki N1 733 | [折](entries/1385/1385780-ori.org) | おり | 1385780 | new / draft |
+| Open Anki N1 734 | [檻](entries/1568/1568410-ori.org) | おり | 1568410 | new / draft |
+| Open Anki N1 736 | [折り返す](entries/1385/1385900-orikaesu.org) | おりかえす | 1385900 | new / draft |
+| Open Anki N1 738 | [俺](entries/1576/1576870-ore.org) | おれ | 1576870 | new / draft |
+| Open Anki N1 739 | [愚か](entries/1245/1245100-oroka.org) | おろか | 1245100 | new / draft |
+| Open Anki N1 743 | [温和](entries/1589/1589620-onwa.org) | おんわ | 1589620 | new / draft |
+| Open Anki N1 748 | [改悪](entries/1200/1200760-kaiaku.org) | かいあく | 1200760 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
