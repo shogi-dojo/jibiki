@@ -5084,6 +5084,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 665 | [応急](entries/1179/1179880-oukyuu.org) | おうきゅう | 1179880 | new / draft |
 | Open Anki N1 666 | [黄金](entries/1181/1181860-ougon.org) | おうごん | 1181860 | new / draft |
 
+| Open Anki N1 667 | [往診](entries/1179/1179710-oushin.org) | おうしん | 1179710 | new / draft |
+| Open Anki N1 670 | [大方](entries/1415/1415020-ookata.org) | おおかた | 1415020 | new / draft |
+| Open Anki N1 671 | [大柄](entries/1414/1414980-oogara.org) | おおがら | 1414980 | new / draft |
+| Open Anki N1 674 | [大空](entries/1413/1413510-oozora.org) | おおぞら | 1413510 | new / draft |
+| Open Anki N1 678 | [大水](entries/1414/1414210-oomizu.org) | おおみず | 1414210 | new / draft |
+| Open Anki N1 680 | [犯す](entries/1481/1481550-okasu.org) | おかす | 1481550 | new / draft |
+| Open Anki N1 681 | [侵す](entries/1359/1359800-okasu.org) | おかす | 1359800 | new / draft |
+| Open Anki N1 683 | [遅らす](entries/1422/1422000-okurasu.org) | おくらす | 1422000 | new / draft |
+| Open Anki N1 684 | [厳か](entries/1262/1262520-ogosoka.org) | おごそか | 1262520 | new / draft |
+| Open Anki N1 685 | [行い](entries/1589/1589050-okonai.org) | おこない | 1589050 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
