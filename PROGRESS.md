@@ -4768,6 +4768,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 433 | [生身](entries/1379/1379160-namami.org) | なまみ | 1379160 | new / draft |
 | Open Anki N1 436 | [嘗める](entries/1571/1571320-nameru.org) | なめる | 1571320 | new / draft |
 
+| Open Anki N1 437 | [悩ましい](entries/1469/1469830-nayamashii.org) | なやましい | 1469830 | new / draft |
+| Open Anki N1 438 | [悩ます](entries/1469/1469840-nayamasu.org) | なやます | 1469840 | new / draft |
+| Open Anki N1 439 | [悩み](entries/1469/1469850-nayami.org) | なやみ | 1469850 | new / draft |
+| Open Anki N1 440 | [並びに](entries/1508/1508350-narabini.org) | ならびに | 1508350 | new / draft |
+| Open Anki N1 441 | [成り立つ](entries/1375/1375600-naritatsu.org) | なりたつ | 1375600 | new / draft |
+| Open Anki N1 443 | [慣れ](entries/1212/1212660-nare.org) | なれ | 1212660 | new / draft |
+| Open Anki N1 444 | [馴々しい](entries/1459/1459780-narenareshii.org) | なれなれしい | 1459780 | new / draft |
+| Open Anki N1 450 | [荷](entries/1195/1195250-ni.org) | に | 1195250 | new / draft |
+| Open Anki N1 451 | [似通う](entries/1314/1314700-nikayou.org) | にかよう | 1314700 | new / draft |
+| Open Anki N1 453 | [賑わう](entries/1463/1463500-nigiwau.org) | にぎわう | 1463500 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
