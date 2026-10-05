@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **10/100** additional distinct words; branch total **10** (overall corpus additions **3110**).
+Completed **20/100** additional distinct words; branch total **20** (overall corpus additions **3120**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4686,6 +4686,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Batch | New entries |
 | --- | ---: |
 | 1 | 10 |
+| 2 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4699,6 +4700,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 66 | [公募](entries/1274/1274680-koubo.org) | こうぼ | 1274680 | new / draft |
 | Open Anki N1 67 | [巧妙](entries/1278/1278340-koumyou.org) | こうみょう | 1278340 | new / draft |
 | Open Anki N1 71 | [公立](entries/1275/1275000-kouritsu.org) | こうりつ | 1275000 | new / draft |
+| Open Anki N1 72 | [護衛](entries/1271/1271510-goei.org) | ごえい | 1271510 | new / draft |
+| Open Anki N1 74 | [小柄](entries/1348/1348770-kogara.org) | こがら | 1348770 | new / draft |
+| Open Anki N1 75 | [小切手](entries/1348/1348410-kogitte.org) | こぎって | 1348410 | new / draft |
+| Open Anki N1 76 | [国産](entries/1286/1286590-kokusan.org) | こくさん | 1286590 | new / draft |
+| Open Anki N1 77 | [国定](entries/1286/1286860-kokutei.org) | こくてい | 1286860 | new / draft |
+| Open Anki N1 78 | [告白](entries/1286/1286060-kokuhaku.org) | こくはく | 1286060 | new / draft |
+| Open Anki N1 79 | [国防](entries/1287/1287030-kokubou.org) | こくぼう | 1287030 | new / draft |
+| Open Anki N1 80 | [国有](entries/1287/1287170-kokuyuu.org) | こくゆう | 1287170 | new / draft |
+| Open Anki N1 83 | [焦げ茶](entries/1350/1350750-kogecha.org) | こげちゃ | 1350750 | new / draft |
+| Open Anki N1 84 | [語源](entries/1271/1271090-gogen.org) | ごげん | 1271090 | new / draft |
 
 ## Maturity workflow
 
