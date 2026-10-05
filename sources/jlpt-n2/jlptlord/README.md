@@ -72,3 +72,7 @@ The [2025 crime white paper](https://hakusyo1.moj.go.jp/jp/72/nfm/n72_2_2_3_1_0.
 explains that earlier acts remain subject to the former penalties.
 These sources support usage notes, not JLPT level classification; sentences
 are independently authored.
+
+The original 礼金 note was checked against the
+[MLIT housing guide](https://www.mlit.go.jp/common/001317843.pdf), which
+distinguishes non-returned key money from the security deposit.

@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **70/200** additional distinct words; branch total **2970**.
+Completed **80/200** additional distinct words; branch total **2980**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4429,6 +4429,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4502,6 +4503,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2851 | [醸造](entries/1357/1357090-jouzou.org) | じょうぞう | 1357090 | new / draft |
 | JLPTLord N2 2852 | [漬物](entries/1433/1433700-tsukemono.org) | つけもの | 1433700 | new / draft |
 | JLPTLord N2 2856 | [麺](entries/1533/1533610-men.org) | めん | 1533610 | new / draft |
+| JLPTLord N2 2858 | [豆腐](entries/1450/1450070-toufu.org) | とうふ | 1450070 | new / draft |
+| JLPTLord N2 2860 | [天ぷら](entries/1440/1440590-tenpura.org) | てんぷら | 1440590 | new / draft |
+| JLPTLord N2 2861 | [寿司](entries/1595/1595650-sushi.org) | すし | 1595650 | new / draft |
+| JLPTLord N2 2865 | [裾](entries/1373/1373610-suso.org) | すそ | 1373610 | new / draft |
+| JLPTLord N2 2866 | [襟](entries/1588/1588750-eri.org) | えり | 1588750 | new / draft |
+| JLPTLord N2 2870 | [仕立てる](entries/1305/1305560-shitateru.org) | したてる | 1305560 | new / draft |
+| JLPTLord N2 2880 | [礼金](entries/1557/1557500-reikin.org) | れいきん | 1557500 | new / draft |
+| JLPTLord N2 2882 | [増築](entries/1403/1403320-zouchiku.org) | ぞうちく | 1403320 | new / draft |
+| JLPTLord N2 2887 | [配管](entries/1625/1625610-haikan.org) | はいかん | 1625610 | new / draft |
+| JLPTLord N2 2891 | [梁](entries/1648/1648740-hari.org) | はり | 1648740 | new / draft |
 
 ## Maturity workflow
 
