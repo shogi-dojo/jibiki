@@ -4806,12 +4806,13 @@ commits**, recorded in **10 batches of 10**. The branch contains **100 new
 entry files versus `origin/main`** (overall authored vocabulary additions **3,200**).
 This continuation preserves every JMdict sense, form, reading, restriction and
 source fingerprint, and supplies **172 original Ukrainian glosses and usage notes**,
-plus **300 graded examples** with Japanese, kana readings, Ukrainian and English
+plus **372 examples** (300 primary-sense graded examples plus 72 secondary-sense
+examples across all 39 multisense entries) with Japanese, kana readings, Ukrainian and English
 translations.
 
 All 100 entries passed JMdict validation, Org lint and doctor **100/100**,
-with **zero errors and warnings**. The full test suite passed: **137 tests,
-22,343 assertions, zero failures, errors or skips**. Source reconciliation and
+with **zero errors and warnings**. The full test suite passed: **141 tests,
+22,365 assertions, zero failures, errors or skips**. Source reconciliation and
 commit-history checks confirm unique IDs, exact manifest matches, one entry
 per addition commit, and Ihor's Git identity. Existing committed entries were
 preserved; the two original untracked files retain their original checksums.
