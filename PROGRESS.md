@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **50/100** additional distinct words; branch total **50** (overall corpus additions **3150**).
+Completed **60/100** additional distinct words; branch total **60** (overall corpus additions **3160**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4690,6 +4690,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 3 | 10 |
 | 4 | 10 |
 | 5 | 10 |
+| 6 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4743,6 +4744,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 140 | [根底](entries/1290/1290260-kontei.org) | こんてい | 1290260 | new / draft |
 | Open Anki N1 145 | [根本](entries/2848/2848289-konpon.org) | こんぽん | 2848289 | new / draft |
 | Open Anki N1 146 | [財](entries/1296/1296770-zai.org) | ざい | 1296770 | new / draft |
+| Open Anki N1 150 | [細工](entries/1295/1295610-saiku.org) | さいく | 1295610 | new / draft |
+| Open Anki N1 151 | [採掘](entries/1294/1294750-saikutsu.org) | さいくつ | 1294750 | new / draft |
+| Open Anki N1 153 | [採決](entries/1294/1294760-saiketsu.org) | さいけつ | 1294760 | new / draft |
+| Open Anki N1 155 | [再現](entries/1292/1292640-saigen.org) | さいげん | 1292640 | new / draft |
+| Open Anki N1 162 | [最善](entries/1294/1294160-saizen.org) | さいぜん | 1294160 | new / draft |
+| Open Anki N1 163 | [採択](entries/1294/1294830-saitaku.org) | さいたく | 1294830 | new / draft |
+| Open Anki N1 165 | [再発](entries/1293/1293410-saihatsu.org) | さいはつ | 1293410 | new / draft |
+| Open Anki N1 170 | [冴える](entries/1297/1297050-saeru.org) | さえる | 1297050 | new / draft |
+| Open Anki N1 171 | [竿](entries/1214/1214060-sao.org) | さお | 1214060 | new / draft |
+| Open Anki N1 173 | [差額](entries/1291/1291370-sagaku.org) | さがく | 1291370 | new / draft |
 
 ## Maturity workflow
 
