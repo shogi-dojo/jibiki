@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **80/100** additional distinct words; branch total **80** (overall corpus additions **3180**).
+Completed **90/100** additional distinct words; branch total **90** (overall corpus additions **3190**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4693,6 +4693,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 6 | 10 |
 | 7 | 10 |
 | 8 | 10 |
+| 9 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4776,6 +4777,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 213 | [山岳](entries/1302/1302780-sangaku.org) | さんがく | 1302780 | new / draft |
 | Open Anki N1 214 | [参議院](entries/1302/1302210-sangiin.org) | さんぎいん | 1302210 | new / draft |
 | Open Anki N1 215 | [産休](entries/1303/1303760-sankyuu.org) | さんきゅう | 1303760 | new / draft |
+| Open Anki N1 217 | [残金](entries/1304/1304570-zankin.org) | ざんきん | 1304570 | new / draft |
+| Open Anki N1 218 | [産後](entries/1303/1303790-sango.org) | さんご | 1303790 | new / draft |
+| Open Anki N1 219 | [残酷](entries/1304/1304600-zankoku.org) | ざんこく | 1304600 | new / draft |
+| Open Anki N1 220 | [産出](entries/1303/1303810-sanshutsu.org) | さんしゅつ | 1303810 | new / draft |
+| Open Anki N1 221 | [参照](entries/1302/1302410-sanshou.org) | さんしょう | 1302410 | new / draft |
+| Open Anki N1 222 | [参上](entries/1302/1302440-sanjou.org) | さんじょう | 1302440 | new / draft |
+| Open Anki N1 225 | [桟橋](entries/1303/1303650-sanbashi.org) | さんばし | 1303650 | new / draft |
+| Open Anki N1 226 | [賛美](entries/1304/1304240-sanbi.org) | さんび | 1304240 | new / draft |
+| Open Anki N1 227 | [山腹](entries/1303/1303150-sanpuku.org) | さんぷく | 1303150 | new / draft |
+| Open Anki N1 228 | [産婦人科](entries/1303/1303850-sanfujinka.org) | さんふじんか | 1303850 | new / draft |
 
 ## Maturity workflow
 
