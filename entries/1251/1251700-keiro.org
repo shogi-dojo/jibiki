@@ -1,0 +1,601 @@
+#+TITLE: 経路
+#+JMDICT_ID: 1251700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいろ
+#+ROMAJI: keiro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1251700-001
+:PROPERTIES:
+:TEXT: 経路
+:END:
+*** Priorities
+- news1
+- nf12
+** Written form wf-1251700-002
+:PROPERTIES:
+:TEXT: 径路
+:END:
+*** Information
+- rK
+** Written form wf-1251700-003
+:PROPERTIES:
+:TEXT: 逕路
+:END:
+*** Information
+- rK
+** Reading rd-1251700-001
+:PROPERTIES:
+:TEXT: けいろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1251700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cc514c1f035572046ff70a2eff50785c0c0e13883dbd404695395082cb58717a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- course
+- route
+- path
+- channel
+** Ukrainian glosses
+*** uk-s-1251700-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: маршрут; шлях слідування; траєкторія; канал передачі
+** Learner notes
+*** note-s-1251700-001-001
+:PROPERTIES:
+:END:
+- UK :: Шлях або послідовність пунктів, через які здійснюється переміщення людей, транспорту чи передача інформації: 感染経路 (шлях інфікування), 避難経路 (маршрут евакуації).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1251700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地図で安全な経路を確認した。
+- READING :: ちずであんぜんなけいろをかくにんした。
+- UK :: Ми перевірили безпечний маршрут на карті.
+- EN :: We checked a safe route on the map.
+- FOCUS :: 経路
+*** ex-1251700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 台風を避けるために飛行機の経路を変更した。
+- READING :: たいふうをさけるためにひこうきのけいろをへんこうした。
+- UK :: Маршрут літака змінили, щоб оминути тайфун.
+- EN :: The airplane's route was changed to avoid the typhoon.
+- FOCUS :: 経路
+*** ex-1251700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ウイルスの感染経路を特定するために徹底した調査が進められている。
+- READING :: ういるすのかんせんけいろをとくていするためにてっていしたちょうさがすすめられている。
+- UK :: Триває ретельне розслідування для встановлення шляхів передачі вірусу.
+- EN :: A thorough investigation is underway to identify the transmission route of the virus.
+- FOCUS :: 感染経路
+
+* Sense s-1251700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 22b3da8d1104e9694f34e2a993986cf4f4ab8cc9c2ca73cb8798cee7108e492c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- process
+- stages
+** Ukrainian glosses
+*** uk-s-1251700-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: процес розвитку; етапи; хід подій
+** Learner notes
+*** note-s-1251700-002-001
+:PROPERTIES:
+:END:
+- UK :: Послідовні зміни, етапи або стадії, через які проходить певний процес, судова справа чи історичне явище до досягнення поточного стану.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1251700-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事件が解決に至るまでの複雑な経路を報告書にまとめた。
+- READING :: じけんがかいけつにいたるまでのふくざつなけいろをほうこくしょにまとめた。
+- UK :: Складний хід подій до вирішення інциденту виклали у звіті.
+- EN :: The complex process leading up to the resolution of the case was summarized in the report.
+- FOCUS :: 経路
+
+* Sense s-1251700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5a7d3fed18abc7744eb0d2cba09cc971d393607ac3a9682a665bf6deaf2cda33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: route
+*** en-s-1251700-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weg
+*** en-s-1251700-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pad
+*** en-s-1251700-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: traject
+*** en-s-1251700-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parcours
+*** en-s-1251700-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koers
+*** en-s-1251700-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kanaal
+** Ukrainian glosses
+
+* Sense s-1251700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 78ea1e1a4477c799a7ce37eb0114da2916a06c7999ecbf4043b1b808a53735d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fase
+*** en-s-1251700-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proces
+** Ukrainian glosses
+
+* Sense s-1251700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4e44bd70d47665faa883b6e2ce8f7547d330c47fc59e69d795a57edef9a731a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chemin
+*** en-s-1251700-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parcours
+*** en-s-1251700-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: route
+*** en-s-1251700-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voie
+** Ukrainian glosses
+
+* Sense s-1251700-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 501b6d74403b557e9744bdabc7b08101382743e3eadf9160a43be8126afa46f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kurs
+*** en-s-1251700-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weg
+*** en-s-1251700-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Route
+** Ukrainian glosses
+
+* Sense s-1251700-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: cf744252319a1ecb8d2802ea1d6ceff400d2229bc4737ff83c28e4b3be19a79b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hergang
+*** en-s-1251700-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verlauf
+*** en-s-1251700-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ablauf
+*** en-s-1251700-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entwicklung
+** Ukrainian glosses
+
+* Sense s-1251700-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 354c66bb9aa5a1db0e8162eb054fb37123493b077ddd7b246b14449061d874be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyalogjáró
+*** en-s-1251700-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járda
+*** en-s-1251700-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ösvény
+*** en-s-1251700-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pálya
+*** en-s-1251700-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: útvonal
+*** en-s-1251700-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járat
+*** en-s-1251700-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: útirány
+*** en-s-1251700-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eljárás
+*** en-s-1251700-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irány
+*** en-s-1251700-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: útirány
+*** en-s-1251700-008-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versenypálya
+*** en-s-1251700-008-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járat
+*** en-s-1251700-008-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: útvonal
+*** en-s-1251700-008-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatorna
+*** en-s-1251700-008-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meder
+*** en-s-1251700-008-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tengerszoros
+*** en-s-1251700-008-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: út
+*** en-s-1251700-008-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyalogjáró
+*** en-s-1251700-008-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ösvény
+*** en-s-1251700-008-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pálya
+** Ukrainian glosses
+
+* Sense s-1251700-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 91f6d96033db6506701196dce578935db60ab25a4807656ee6aab34f56702964
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: путь
+*** en-s-1251700-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: маршрут
+*** en-s-1251700-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: путь; курс, направление, маршрут; (перен.) путь; процесс
+** Ukrainian glosses
+
+* Sense s-1251700-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 54ebe4432661374cbe4781e10fedc6bd2296a24574cdceac3dd02317c0eadf5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251700-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: senda
+*** en-s-1251700-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sendero
+*** en-s-1251700-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caminito
+*** en-s-1251700-010-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruta
+** Ukrainian glosses
