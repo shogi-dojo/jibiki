@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **140/200** additional distinct words; branch total **3040**.
+Completed **150/200** additional distinct words; branch total **3050**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4436,6 +4436,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 12 | 10 |
 | 13 | 10 |
 | 14 | 10 |
+| 15 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4579,6 +4580,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 3021 | [横領](entries/1181/1181130-ouryou.org) | おうりょう | 1181130 | new / draft |
 | JLPTLord N2 3022 | [窃盗](entries/1386/1386110-settou.org) | せっとう | 1386110 | new / draft |
 | JLPTLord N2 3024 | [殺人](entries/1299/1299100-satsujin.org) | さつじん | 1299100 | new / draft |
+| JLPTLord N2 3025 | [放火](entries/1516/1516560-houka.org) | ほうか | 1516560 | new / draft |
+| JLPTLord N2 3034 | [死刑](entries/1310/1310810-shikei.org) | しけい | 1310810 | new / draft |
+| JLPTLord N2 3035 | [冤罪](entries/1564/1564270-enzai.org) | えんざい | 1564270 | new / draft |
+| JLPTLord N2 3040 | [自白](entries/1318/1318530-jihaku.org) | じはく | 1318530 | new / draft |
+| JLPTLord N2 3041 | [供述](entries/1233/1233720-kyoujutsu.org) | きょうじゅつ | 1233720 | new / draft |
+| JLPTLord N2 3042 | [弁論](entries/1513/1513170-benron.org) | べんろん | 1513170 | new / draft |
+| JLPTLord N2 3044 | [棄却](entries/1220/1220660-kikyaku.org) | ききゃく | 1220660 | new / draft |
+| JLPTLord N2 3045 | [控訴](entries/1279/1279090-kouso.org) | こうそ | 1279090 | new / draft |
+| JLPTLord N2 3046 | [上告](entries/1353/1353200-joukoku.org) | じょうこく | 1353200 | new / draft |
+| JLPTLord N2 3048 | [調停](entries/1429/1429260-choutei.org) | ちょうてい | 1429260 | new / draft |
 
 ## Maturity workflow
 
