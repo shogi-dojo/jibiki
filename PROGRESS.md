@@ -4801,6 +4801,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 483 | [寝かせる](entries/1359/1359970-nekaseru.org) | ねかせる | 1359970 | new / draft |
 | Open Anki N1 485 | [捩れる](entries/1600/1600150-nejireru.org) | ねじれる | 1600150 | new / draft |
 
+| Open Anki N1 489 | [熱湯](entries/1467/1467960-nettou.org) | ねっとう | 1467960 | new / draft |
+| Open Anki N1 490 | [熱量](entries/1468/1468010-netsuryou.org) | ねつりょう | 1468010 | new / draft |
+| Open Anki N1 491 | [粘り](entries/1469/1469670-nebari.org) | ねばり | 1469670 | new / draft |
+| Open Anki N1 492 | [粘る](entries/1469/1469700-nebaru.org) | ねばる | 1469700 | new / draft |
+| Open Anki N1 494 | [根回し](entries/1290/1290090-nemawashi.org) | ねまわし | 1290090 | new / draft |
+| Open Anki N1 495 | [眠たい](entries/1529/1529360-nemutai.org) | ねむたい | 1529360 | new / draft |
+| Open Anki N1 497 | [念](entries/1469/1469320-nen.org) | ねん | 1469320 | new / draft |
+| Open Anki N1 498 | [年賀](entries/1468/1468240-nenga.org) | ねんが | 1468240 | new / draft |
+| Open Anki N1 499 | [念願](entries/1469/1469390-nengan.org) | ねんがん | 1469390 | new / draft |
+| Open Anki N1 500 | [年号](entries/1468/1468650-nengou.org) | ねんごう | 1468650 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
