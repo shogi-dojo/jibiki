@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **60/200** additional distinct words; branch total **2960**.
+Completed **70/200** additional distinct words; branch total **2970**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4428,6 +4428,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 4 | 10 |
 | 5 | 10 |
 | 6 | 10 |
+| 7 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4491,6 +4492,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2824 | [酷暑](entries/1287/1287370-kokusho.org) | こくしょ | 1287370 | new / draft |
 | JLPTLord N2 2825 | [厳寒](entries/1262/1262580-genkan.org) | げんかん | 1262580 | new / draft |
 | JLPTLord N2 2832 | [被災](entries/1484/1484440-hisai.org) | ひさい | 1484440 | new / draft |
+| JLPTLord N2 2834 | [救援](entries/1229/1229070-kyuuen.org) | きゅうえん | 1229070 | new / draft |
+| JLPTLord N2 2839 | [調理](entries/1429/1429310-chouri.org) | ちょうり | 1429310 | new / draft |
+| JLPTLord N2 2842 | [出汁](entries/1339/1339160-dashi.org) | だし | 1339160 | new / draft |
+| JLPTLord N2 2843 | [薬味](entries/1538/1538310-yakumi.org) | やくみ | 1538310 | new / draft |
+| JLPTLord N2 2844 | [塩分](entries/1178/1178870-enbun.org) | えんぶん | 1178870 | new / draft |
+| JLPTLord N2 2845 | [糖分](entries/1449/1449650-toubun.org) | とうぶん | 1449650 | new / draft |
+| JLPTLord N2 2850 | [発酵](entries/1477/1477450-hakkou.org) | はっこう | 1477450 | new / draft |
+| JLPTLord N2 2851 | [醸造](entries/1357/1357090-jouzou.org) | じょうぞう | 1357090 | new / draft |
+| JLPTLord N2 2852 | [漬物](entries/1433/1433700-tsukemono.org) | つけもの | 1433700 | new / draft |
+| JLPTLord N2 2856 | [麺](entries/1533/1533610-men.org) | めん | 1533610 | new / draft |
 
 ## Maturity workflow
 
