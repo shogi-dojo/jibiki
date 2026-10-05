@@ -5095,6 +5095,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 684 | [厳か](entries/1262/1262520-ogosoka.org) | おごそか | 1262520 | new / draft |
 | Open Anki N1 685 | [行い](entries/1589/1589050-okonai.org) | おこない | 1589050 | new / draft |
 
+| Open Anki N1 690 | [お産](entries/1001/1001960-osan.org) | おさん | 1001960 | new / draft |
+| Open Anki N1 691 | [押し切る](entries/1180/1180270-oshikiru.org) | おしきる | 1180270 | new / draft |
+| Open Anki N1 694 | [押し寄せる](entries/1180/1180190-oshiyoseru.org) | おしよせる | 1180190 | new / draft |
+| Open Anki N1 695 | [雄](entries/1589/1589190-osu.org) | おす | 1589190 | new / draft |
+| Open Anki N1 697 | [襲う](entries/1333/1333330-osou.org) | おそう | 1333330 | new / draft |
+| Open Anki N1 698 | [遅くとも](entries/1421/1421990-osokutomo.org) | おそくとも | 1421990 | new / draft |
+| Open Anki N1 699 | [恐れ](entries/1236/1236660-osore.org) | おそれ | 1236660 | new / draft |
+| Open Anki N1 700 | [恐れ入る](entries/1236/1236680-osoreiru.org) | おそれいる | 1236680 | new / draft |
+| Open Anki N1 703 | [落ち着き](entries/1548/1548590-ochitsuki.org) | おちつき | 1548590 | new / draft |
+| Open Anki N1 704 | [落葉](entries/1585/1585070-ochiba.org) | おちば | 1585070 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
