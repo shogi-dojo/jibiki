@@ -4834,6 +4834,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 540 | [配分](entries/1473/1473200-haibun.org) | はいぶん | 1473200 | new / draft |
 | Open Anki N1 541 | [敗北](entries/1472/1472610-haiboku.org) | はいぼく | 1472610 | new / draft |
 
+| Open Anki N1 542 | [倍率](entries/1473/1473340-bairitsu.org) | ばいりつ | 1473340 | new / draft |
+| Open Anki N1 544 | [配列](entries/1473/1473220-hairetsu.org) | はいれつ | 1473220 | new / draft |
+| Open Anki N1 549 | [一同](entries/1165/1165340-ichidou.org) | いちどう | 1165340 | new / draft |
+| Open Anki N1 550 | [一部分](entries/1166/1166200-ichibubun.org) | いちぶぶん | 1166200 | new / draft |
+| Open Anki N1 551 | [一別](entries/1166/1166400-ichibetsu.org) | いちべつ | 1166400 | new / draft |
+| Open Anki N1 552 | [一面](entries/1166/1166870-ichimen.org) | いちめん | 1166870 | new / draft |
+| Open Anki N1 553 | [一目](entries/2810/2810460-ichimoku.org) | いちもく | 2810460 | new / draft |
+| Open Anki N1 554 | [一様](entries/1167/1167130-ichiyou.org) | いちよう | 1167130 | new / draft |
+| Open Anki N1 555 | [一律](entries/1167/1167250-ichiritsu.org) | いちりつ | 1167250 | new / draft |
+| Open Anki N1 556 | [一連](entries/1167/1167450-ichiren.org) | いちれん | 1167450 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
