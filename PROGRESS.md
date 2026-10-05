@@ -5040,6 +5040,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 601 | [嘘つき](entries/1172/1172460-usotsuki.org) | うそつき | 1172460 | new / draft |
 | Open Anki N1 602 | [うたた寝](entries/1663/1663100-utatane.org) | うたたね | 1663100 | new / draft |
 
+| Open Anki N1 605 | [打ち消し](entries/1588/1588200-uchikeshi.org) | うちけし | 1588200 | new / draft |
+| Open Anki N1 607 | [団扇](entries/1419/1419250-uchiwa.org) | うちわ | 1419250 | new / draft |
+| Open Anki N1 608 | [内訳](entries/1459/1459360-uchiwake.org) | うちわけ | 1459360 | new / draft |
+| Open Anki N1 609 | [写し](entries/1321/1321790-utsushi.org) | うつし | 1321790 | new / draft |
+| Open Anki N1 610 | [訴え](entries/1397/1397710-uttae.org) | うったえ | 1397710 | new / draft |
+| Open Anki N1 613 | [空ろ](entries/1588/1588340-utsuro.org) | うつろ | 1588340 | new / draft |
+| Open Anki N1 615 | [腕前](entries/1562/1562890-udemae.org) | うでまえ | 1562890 | new / draft |
+| Open Anki N1 616 | [雨天](entries/1172/1172100-uten.org) | うてん | 1172100 | new / draft |
+| Open Anki N1 619 | [生まれつき](entries/1378/1378770-umaretsuki.org) | うまれつき | 1378770 | new / draft |
+| Open Anki N1 620 | [埋め込む](entries/1524/1524520-umekomu.org) | うめこむ | 1524520 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
