@@ -1,0 +1,195 @@
+#+TITLE: 物流
+#+JMDICT_ID: 1629510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶつりゅう
+#+ROMAJI: butsuryuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1629510-001
+:PROPERTIES:
+:TEXT: 物流
+:END:
+*** Priorities
+- news1
+- nf11
+** Reading rd-1629510-001
+:PROPERTIES:
+:TEXT: ぶつりゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+
+* Sense s-1629510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 71e72589591a118facd1eb5e4472a2b11e03fd59340047e1c2d98caea5e45055
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- physical distribution
+- distribution of goods
+- logistics
+** Ukrainian glosses
+*** uk-s-1629510-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: логістика; рух і розподіл товарів
+** Learner notes
+*** note-s-1629510-001-001
+:PROPERTIES:
+:END:
+- UK :: 物流 — переміщення, зберігання та розподіл товарів між виробництвом і споживанням: 物流を支える. Не просто пасажирський транспорт. 輸送 — перевезення, тоді як 物流 ширше охоплює складські операції й узгодження потоків; 商流 стосується торговельних відносин.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1629510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 物流の仕組みを学んだ。
+- READING :: ぶつりゅうのしくみをまなんだ。
+- UK :: Я вивчив систему логістики.
+- EN :: I learned how logistics works.
+- FOCUS :: 物流
+*** ex-1629510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この倉庫は地域の物流を支えている。
+- READING :: このそうこはちいきのぶつりゅうをささえている。
+- UK :: Цей склад підтримує логістику регіону.
+- EN :: This warehouse supports the region's logistics.
+- FOCUS :: 物流
+*** ex-1629510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 物流が滞ると店の在庫にも影響するため、担当者は輸送と保管の状況を一緒に確認した。
+- READING :: ぶつりゅうがとどこおるとみせのざいこにもえいきょうするため、たんとうしゃはゆそうとほかんのじょうきょうをいっしょにかくにんした。
+- UK :: Збої логістики впливають на запаси крамниць, тож працівник разом перевірив перевезення й зберігання.
+- EN :: Logistics delays affect store inventories, so the staff member checked transport and storage together.
+- FOCUS :: 物流
+
+* Sense s-1629510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fa4e31dc53c7e8754d9e5132d0d54c5a694926298f966116049fdf07a39cb3cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1629510-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: logistiek
+** Ukrainian glosses
+
+* Sense s-1629510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 423b5f1c76d53dca42db8670f2a5210f174db60bf348cdf6815e9212bad40cd6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1629510-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Distribution
+*** en-s-1629510-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Warenverteilung
+*** en-s-1629510-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spedition
+** Ukrainian glosses
+
+* Sense s-1629510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2f28fe555c79d12dcfe1b0b912f1c3f5ab73e962423326e00b9647bc50e743a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1629510-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: disztribúció
+*** en-s-1629510-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eloszlás
+*** en-s-1629510-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eloszlatás
+*** en-s-1629510-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megoszlás
+*** en-s-1629510-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétosztás
+** Ukrainian glosses
