@@ -4790,6 +4790,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 465 | [にも関わらず](entries/1612/1612900-nimokakawarazu.org) | にもかかわらず | 1612900 | new / draft |
 | Open Anki N1 468 | [入手](entries/1466/1466290-nyuushu.org) | にゅうしゅ | 1466290 | new / draft |
 
+| Open Anki N1 469 | [入賞](entries/1466/1466330-nyuushou.org) | にゅうしょう | 1466330 | new / draft |
+| Open Anki N1 470 | [入浴](entries/1466/1466820-nyuuyoku.org) | にゅうよく | 1466820 | new / draft |
+| Open Anki N1 471 | [尿](entries/1467/1467040-nyou.org) | にょう | 1467040 | new / draft |
+| Open Anki N1 476 | [抜かす](entries/1478/1478120-nukasu.org) | ぬかす | 1478120 | new / draft |
+| Open Anki N1 477 | [抜け出す](entries/1478/1478220-nukedasu.org) | ぬけだす | 1478220 | new / draft |
+| Open Anki N1 478 | [主](entries/1324/1324960-nushi.org) | ぬし | 1324960 | new / draft |
+| Open Anki N1 479 | [沼](entries/1350/1350010-numa.org) | ぬま | 1350010 | new / draft |
+| Open Anki N1 481 | [値打ち](entries/1420/1420340-neuchi.org) | ねうち | 1420340 | new / draft |
+| Open Anki N1 483 | [寝かせる](entries/1359/1359970-nekaseru.org) | ねかせる | 1359970 | new / draft |
+| Open Anki N1 485 | [捩れる](entries/1600/1600150-nejireru.org) | ねじれる | 1600150 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
