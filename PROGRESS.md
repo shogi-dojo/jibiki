@@ -4845,6 +4845,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 555 | [一律](entries/1167/1167250-ichiritsu.org) | いちりつ | 1167250 | new / draft |
 | Open Anki N1 556 | [一連](entries/1167/1167450-ichiren.org) | いちれん | 1167450 | new / draft |
 
+| Open Anki N1 557 | [一括](entries/1161/1161470-ikkatsu.org) | いっかつ | 1161470 | new / draft |
+| Open Anki N1 558 | [一気](entries/1161/1161720-ikki.org) | いっき | 1161720 | new / draft |
+| Open Anki N1 560 | [一見](entries/1162/1162170-ikken.org) | いっけん | 1162170 | new / draft |
+| Open Anki N1 562 | [一心](entries/1163/1163580-isshin.org) | いっしん | 1163580 | new / draft |
+| Open Anki N1 566 | [営む](entries/1173/1173420-itonamu.org) | いとなむ | 1173420 | new / draft |
+| Open Anki N1 568 | [稲光](entries/1167/1167850-inabikari.org) | いなびかり | 1167850 | new / draft |
+| Open Anki N1 574 | [嫌々](entries/1587/1587620-iyaiya.org) | いやいや | 1587620 | new / draft |
+| Open Anki N1 575 | [卑しい](entries/1482/1482660-iyashii.org) | いやしい | 1482660 | new / draft |
+| Open Anki N1 579 | [威力](entries/1587/1587770-iryoku.org) | いりょく | 1587770 | new / draft |
+| Open Anki N1 581 | [異論](entries/1158/1158150-iron.org) | いろん | 1158150 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
