@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **90/100** additional distinct words; branch total **90** (overall corpus additions **3190**).
+Completed **100/100** additional distinct words; branch total **100** (overall corpus additions **3200**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4694,6 +4694,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4787,6 +4788,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 226 | [賛美](entries/1304/1304240-sanbi.org) | さんび | 1304240 | new / draft |
 | Open Anki N1 227 | [山腹](entries/1303/1303150-sanpuku.org) | さんぷく | 1303150 | new / draft |
 | Open Anki N1 228 | [産婦人科](entries/1303/1303850-sanfujinka.org) | さんふじんか | 1303850 | new / draft |
+| Open Anki N1 229 | [産物](entries/1303/1303870-sanbutsu.org) | さんぶつ | 1303870 | new / draft |
+| Open Anki N1 231 | [仕上がり](entries/1305/1305120-shiagari.org) | しあがり | 1305120 | new / draft |
+| Open Anki N1 232 | [仕上](entries/1594/1594040-shiage.org) | しあげ | 1594040 | new / draft |
+| Open Anki N1 238 | [仕入れる](entries/1305/1305310-shiireru.org) | しいれる | 1305310 | new / draft |
+| Open Anki N1 239 | [強いる](entries/1236/1236100-shiiru.org) | しいる | 1236100 | new / draft |
+| Open Anki N1 240 | [潮](entries/1428/1428620-shio.org) | しお | 1428620 | new / draft |
+| Open Anki N1 241 | [歯科](entries/1313/1313110-shika.org) | しか | 1313110 | new / draft |
+| Open Anki N1 242 | [自我](entries/1317/1317460-jiga.org) | じが | 1317460 | new / draft |
+| Open Anki N1 244 | [仕掛](entries/1594/1594100-shikake.org) | しかけ | 1594100 | new / draft |
+| Open Anki N1 245 | [仕掛ける](entries/1304/1304820-shikakeru.org) | しかける | 1304820 | new / draft |
 
 ## Maturity workflow
 
