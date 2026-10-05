@@ -1399,6 +1399,26 @@ remains uncommitted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+| 21 | 10 |
+| 22 | 10 |
+| 23 | 10 |
+| 24 | 10 |
+| 25 | 10 |
+| 26 | 10 |
+| 27 | 10 |
+| 28 | 10 |
+| 29 | 10 |
+| 30 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4647,6 +4667,159 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 50 | [公然](entries/1274/1274190-kouzen.org) | こうぜん | 1274190 | new / draft |
 | Open Anki N1 54 | [光沢](entries/1273/1273050-koutaku.org) | こうたく | 1273050 | new / draft |
 
+
+### Final audit
+
+Completed on 2026-10-05: **200 distinct additions in 200 individual word
+commits**, recorded in **20 batches of 10**. The branch contains **3,100 new
+entry files versus `origin/main`**. This continuation preserves every JMdict
+sense, form, reading, restriction and source fingerprint, and supplies
+**288 original Ukrainian glosses and usage notes**, plus **600 graded examples**
+with Japanese, kana readings, Ukrainian and English translations.
+
+All 200 entries passed JMdict validation, Org lint and doctor **100/100**,
+with **zero errors and warnings**. The full test suite passed: **137 tests,
+22,043 assertions, zero failures, errors or skips**. Source reconciliation and
+commit-history checks confirm unique IDs, exact manifest matches, one entry
+per addition commit, and Ihor's Git identity. Existing committed entries were
+preserved; the two original untracked files retain their original checksums.
+
+The source split is **170 JLPTLord N2 words and 30 Open Anki N1 words**.
+These are documented study-list assignments, not an official JLPT syllabus.
+The reconciled N2 pools have no unused candidates left; the reconciled Open
+Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
+entries with draft metadata, awaiting independent linguistic review.
+
+## 3400-word vocabulary continuation (2026-10-05)
+
+Baseline: `64241246`, with **3100** previously merged words from PR #13.
+Completed **300/300** additional distinct words; branch total **300** (overall corpus additions **3400**).
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+The selected continuation uses 300 Open Anki N1 candidates.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| Open Anki N1 55 | [公団](entries/1274/1274280-koudan.org) | こうだん | 1274280 | new / draft |
+| Open Anki N1 56 | [好調](entries/1277/1277730-kouchou.org) | こうちょう | 1277730 | new / draft |
+| Open Anki N1 58 | [講読](entries/1282/1282350-koudoku.org) | こうどく | 1282350 | new / draft |
+| Open Anki N1 59 | [購読](entries/1282/1282420-koudoku.org) | こうどく | 1282420 | new / draft |
+| Open Anki N1 61 | [公認](entries/1274/1274450-kounin.org) | こうにん | 1274450 | new / draft |
+| Open Anki N1 63 | [購買](entries/1282/1282470-koubai.org) | こうばい | 1282470 | new / draft |
+| Open Anki N1 65 | [交付](entries/1272/1272520-koufu.org) | こうふ | 1272520 | new / draft |
+| Open Anki N1 66 | [公募](entries/1274/1274680-koubo.org) | こうぼ | 1274680 | new / draft |
+| Open Anki N1 67 | [巧妙](entries/1278/1278340-koumyou.org) | こうみょう | 1278340 | new / draft |
+| Open Anki N1 71 | [公立](entries/1275/1275000-kouritsu.org) | こうりつ | 1275000 | new / draft |
+| Open Anki N1 72 | [護衛](entries/1271/1271510-goei.org) | ごえい | 1271510 | new / draft |
+| Open Anki N1 74 | [小柄](entries/1348/1348770-kogara.org) | こがら | 1348770 | new / draft |
+| Open Anki N1 75 | [小切手](entries/1348/1348410-kogitte.org) | こぎって | 1348410 | new / draft |
+| Open Anki N1 76 | [国産](entries/1286/1286590-kokusan.org) | こくさん | 1286590 | new / draft |
+| Open Anki N1 77 | [国定](entries/1286/1286860-kokutei.org) | こくてい | 1286860 | new / draft |
+| Open Anki N1 78 | [告白](entries/1286/1286060-kokuhaku.org) | こくはく | 1286060 | new / draft |
+| Open Anki N1 79 | [国防](entries/1287/1287030-kokubou.org) | こくぼう | 1287030 | new / draft |
+| Open Anki N1 80 | [国有](entries/1287/1287170-kokuyuu.org) | こくゆう | 1287170 | new / draft |
+| Open Anki N1 83 | [焦げ茶](entries/1350/1350750-kogecha.org) | こげちゃ | 1350750 | new / draft |
+| Open Anki N1 84 | [語源](entries/1271/1271090-gogen.org) | ごげん | 1271090 | new / draft |
+| Open Anki N1 85 | [心地](entries/1360/1360820-kokochi.org) | ここち | 1360820 | new / draft |
+| Open Anki N1 86 | [心得](entries/1360/1360910-kokoroe.org) | こころえ | 1360910 | new / draft |
+| Open Anki N1 87 | [心掛け](entries/1360/1360500-kokorogake.org) | こころがけ | 1360500 | new / draft |
+| Open Anki N1 88 | [心掛ける](entries/1360/1360610-kokorogakeru.org) | こころがける | 1360610 | new / draft |
+| Open Anki N1 93 | [試み](entries/1312/1312270-kokoromi.org) | こころみ | 1312270 | new / draft |
+| Open Anki N1 101 | [梢](entries/1349/1349980-kozue.org) | こずえ | 1349980 | new / draft |
+| Open Anki N1 103 | [戸籍](entries/1267/1267030-koseki.org) | こせき | 1267030 | new / draft |
+| Open Anki N1 104 | [古代](entries/1265/1265760-kodai.org) | こだい | 1265760 | new / draft |
+| Open Anki N1 107 | [誇張](entries/1267/1267820-kochou.org) | こちょう | 1267820 | new / draft |
+| Open Anki N1 109 | [滑稽](entries/1208/1208660-kokkei.org) | こっけい | 1208660 | new / draft |
+| Open Anki N1 110 | [国交](entries/1286/1286380-kokkou.org) | こっこう | 1286380 | new / draft |
+| Open Anki N1 111 | [骨董品](entries/1288/1288710-kottouhin.org) | こっとうひん | 1288710 | new / draft |
+| Open Anki N1 112 | [固定](entries/1266/1266650-kotei.org) | こてい | 1266650 | new / draft |
+| Open Anki N1 113 | [事柄](entries/1314/1314240-kotogara.org) | ことがら | 1314240 | new / draft |
+| Open Anki N1 116 | [言付け](entries/1593/1593320-kotozuke.org) | ことづけ | 1593320 | new / draft |
+| Open Anki N1 117 | [殊に](entries/1328/1328650-kotoni.org) | ことに | 1328650 | new / draft |
+| Open Anki N1 118 | [粉々](entries/1593/1593360-konagona.org) | こなごな | 1593360 | new / draft |
+| Open Anki N1 120 | [碁盤](entries/1270/1270890-goban.org) | ごばん | 1270890 | new / draft |
+| Open Anki N1 121 | [個別](entries/1265/1265000-kobetsu.org) | こべつ | 1265000 | new / draft |
+| Open Anki N1 123 | [細やか](entries/1295/1295550-komayaka.org) | こまやか | 1295550 | new / draft |
+| Open Anki N1 127 | [籠もる](entries/1593/1593430-komoru.org) | こもる | 1593430 | new / draft |
+| Open Anki N1 128 | [固有](entries/1266/1266730-koyuu.org) | こゆう | 1266730 | new / draft |
+| Open Anki N1 129 | [暦](entries/1557/1557950-koyomi.org) | こよみ | 1557950 | new / draft |
+| Open Anki N1 130 | [凝らす](entries/1239/1239010-korasu.org) | こらす | 1239010 | new / draft |
+| Open Anki N1 132 | [孤立](entries/1266/1266860-koritsu.org) | こりつ | 1266860 | new / draft |
+| Open Anki N1 133 | [懲りる](entries/1428/1428190-koriru.org) | こりる | 1428190 | new / draft |
+| Open Anki N1 137 | [混血](entries/1290/1290330-konketsu.org) | こんけつ | 1290330 | new / draft |
+| Open Anki N1 140 | [根底](entries/1290/1290260-kontei.org) | こんてい | 1290260 | new / draft |
+| Open Anki N1 145 | [根本](entries/2848/2848289-konpon.org) | こんぽん | 2848289 | new / draft |
+| Open Anki N1 146 | [財](entries/1296/1296770-zai.org) | ざい | 1296770 | new / draft |
+| Open Anki N1 150 | [細工](entries/1295/1295610-saiku.org) | さいく | 1295610 | new / draft |
+| Open Anki N1 151 | [採掘](entries/1294/1294750-saikutsu.org) | さいくつ | 1294750 | new / draft |
+| Open Anki N1 153 | [採決](entries/1294/1294760-saiketsu.org) | さいけつ | 1294760 | new / draft |
+| Open Anki N1 155 | [再現](entries/1292/1292640-saigen.org) | さいげん | 1292640 | new / draft |
+| Open Anki N1 162 | [最善](entries/1294/1294160-saizen.org) | さいぜん | 1294160 | new / draft |
+| Open Anki N1 163 | [採択](entries/1294/1294830-saitaku.org) | さいたく | 1294830 | new / draft |
+| Open Anki N1 165 | [再発](entries/1293/1293410-saihatsu.org) | さいはつ | 1293410 | new / draft |
+| Open Anki N1 170 | [冴える](entries/1297/1297050-saeru.org) | さえる | 1297050 | new / draft |
+| Open Anki N1 171 | [竿](entries/1214/1214060-sao.org) | さお | 1214060 | new / draft |
+| Open Anki N1 173 | [差額](entries/1291/1291370-sagaku.org) | さがく | 1291370 | new / draft |
+| Open Anki N1 174 | [杯](entries/1472/1472630-sakazuki.org) | さかずき | 1472630 | new / draft |
+| Open Anki N1 175 | [逆立ち](entries/1227/1227250-sakadachi.org) | さかだち | 1227250 | new / draft |
+| Open Anki N1 179 | [錯誤](entries/1298/1298420-sakugo.org) | さくご | 1298420 | new / draft |
+| Open Anki N1 180 | [作戦](entries/1297/1297800-sakusen.org) | さくせん | 1297800 | new / draft |
+| Open Anki N1 181 | [叫び](entries/1235/1235890-sakebi.org) | さけび | 1235890 | new / draft |
+| Open Anki N1 183 | [差し掛かる](entries/1291/1291140-sashikakaru.org) | さしかかる | 1291140 | new / draft |
+| Open Anki N1 184 | [指図](entries/1309/1309850-sashizu.org) | さしず | 1309850 | new / draft |
+| Open Anki N1 185 | [差し出す](entries/1291/1291230-sashidasu.org) | さしだす | 1291230 | new / draft |
+| Open Anki N1 190 | [定まる](entries/1435/1435370-sadamaru.org) | さだまる | 1435370 | new / draft |
+| Open Anki N1 191 | [定める](entries/1435/1435380-sadameru.org) | さだめる | 1435380 | new / draft |
+| Open Anki N1 192 | [座談会](entries/1291/1291920-zadankai.org) | ざだんかい | 1291920 | new / draft |
+| Open Anki N1 193 | [雑](entries/1299/1299240-zatsu.org) | ざつ | 1299240 | new / draft |
+| Open Anki N1 194 | [雑貨](entries/1299/1299290-zakka.org) | ざっか | 1299290 | new / draft |
+| Open Anki N1 197 | [雑談](entries/1299/1299480-zatsudan.org) | ざつだん | 1299480 | new / draft |
+| Open Anki N1 202 | [座標](entries/1638/1638190-zahyou.org) | ざひょう | 1638190 | new / draft |
+| Open Anki N1 211 | [障る](entries/1352/1352050-sawaru.org) | さわる | 1352050 | new / draft |
+| Open Anki N1 212 | [酸](entries/1304/1304260-san.org) | さん | 1304260 | new / draft |
+| Open Anki N1 213 | [山岳](entries/1302/1302780-sangaku.org) | さんがく | 1302780 | new / draft |
+| Open Anki N1 214 | [参議院](entries/1302/1302210-sangiin.org) | さんぎいん | 1302210 | new / draft |
+| Open Anki N1 215 | [産休](entries/1303/1303760-sankyuu.org) | さんきゅう | 1303760 | new / draft |
+| Open Anki N1 217 | [残金](entries/1304/1304570-zankin.org) | ざんきん | 1304570 | new / draft |
+| Open Anki N1 218 | [産後](entries/1303/1303790-sango.org) | さんご | 1303790 | new / draft |
+| Open Anki N1 219 | [残酷](entries/1304/1304600-zankoku.org) | ざんこく | 1304600 | new / draft |
+| Open Anki N1 220 | [産出](entries/1303/1303810-sanshutsu.org) | さんしゅつ | 1303810 | new / draft |
+| Open Anki N1 221 | [参照](entries/1302/1302410-sanshou.org) | さんしょう | 1302410 | new / draft |
+| Open Anki N1 222 | [参上](entries/1302/1302440-sanjou.org) | さんじょう | 1302440 | new / draft |
+| Open Anki N1 225 | [桟橋](entries/1303/1303650-sanbashi.org) | さんばし | 1303650 | new / draft |
+| Open Anki N1 226 | [賛美](entries/1304/1304240-sanbi.org) | さんび | 1304240 | new / draft |
+| Open Anki N1 227 | [山腹](entries/1303/1303150-sanpuku.org) | さんぷく | 1303150 | new / draft |
+| Open Anki N1 228 | [産婦人科](entries/1303/1303850-sanfujinka.org) | さんふじんか | 1303850 | new / draft |
+| Open Anki N1 229 | [産物](entries/1303/1303870-sanbutsu.org) | さんぶつ | 1303870 | new / draft |
+| Open Anki N1 231 | [仕上がり](entries/1305/1305120-shiagari.org) | しあがり | 1305120 | new / draft |
+| Open Anki N1 232 | [仕上](entries/1594/1594040-shiage.org) | しあげ | 1594040 | new / draft |
+| Open Anki N1 238 | [仕入れる](entries/1305/1305310-shiireru.org) | しいれる | 1305310 | new / draft |
+| Open Anki N1 239 | [強いる](entries/1236/1236100-shiiru.org) | しいる | 1236100 | new / draft |
+| Open Anki N1 240 | [潮](entries/1428/1428620-shio.org) | しお | 1428620 | new / draft |
+| Open Anki N1 241 | [歯科](entries/1313/1313110-shika.org) | しか | 1313110 | new / draft |
+| Open Anki N1 242 | [自我](entries/1317/1317460-jiga.org) | じが | 1317460 | new / draft |
+| Open Anki N1 244 | [仕掛](entries/1594/1594100-shikake.org) | しかけ | 1594100 | new / draft |
+| Open Anki N1 245 | [仕掛ける](entries/1304/1304820-shikakeru.org) | しかける | 1304820 | new / draft |
+
 | Open Anki N1 248 | [式場](entries/1319/1319090-shikijou.org) | しきじょう | 1319090 | new / draft |
 | Open Anki N1 252 | [経歴](entries/1251/1251690-keireki.org) | けいれき | 1251690 | new / draft |
 | Open Anki N1 253 | [経路](entries/1251/1251700-keiro.org) | けいろ | 1251700 | new / draft |
@@ -4869,177 +5042,25 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 
 ### Final audit
 
-Completed on 2026-10-05: **200 distinct additions in 200 individual word
-commits**, recorded in **20 batches of 10**. The branch contains **3,100 new
-entry files versus `origin/main`**. This continuation preserves every JMdict
-sense, form, reading, restriction and source fingerprint, and supplies
-**288 original Ukrainian glosses and usage notes**, plus **600 graded examples**
-with Japanese, kana readings, Ukrainian and English translations.
-
-All 200 entries passed JMdict validation, Org lint and doctor **100/100**,
-with **zero errors and warnings**. The full test suite passed: **137 tests,
-22,043 assertions, zero failures, errors or skips**. Source reconciliation and
-commit-history checks confirm unique IDs, exact manifest matches, one entry
-per addition commit, and Ihor's Git identity. Existing committed entries were
-preserved; the two original untracked files retain their original checksums.
-
-The source split is **170 JLPTLord N2 words and 30 Open Anki N1 words**.
-These are documented study-list assignments, not an official JLPT syllabus.
-The reconciled N2 pools have no unused candidates left; the reconciled Open
-Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
-entries with draft metadata, awaiting independent linguistic review.
-
-## 3200-word vocabulary continuation (2026-10-05)
-
-Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **100/100** additional distinct words; branch total **100** (overall corpus additions **3200**).
-Words are committed individually in batches of ten. Every English sense has
-original Ukrainian translations and nuance notes; each primary sense has
-three graded Japanese, kana, Ukrainian, and English examples.
-All completed batches passed JMdict validation, Org lint, and doctor 100/100
-with zero errors or warnings. These remain learner drafts for editorial review.
-The earlier uncommitted 罪 draft is preserved.
-
-Candidates are reconciled against pinned JMdict and existing entry IDs.
-The selected continuation uses 100 Open Anki N1 candidates.
-
-| Batch | New entries |
-| --- | ---: |
-| 1 | 10 |
-| 2 | 10 |
-| 3 | 10 |
-| 4 | 10 |
-| 5 | 10 |
-| 6 | 10 |
-| 7 | 10 |
-| 8 | 10 |
-| 9 | 10 |
-| 10 | 10 |
-
-| Source candidate | Word | Reading | JMdict ID | Status |
-| --- | --- | --- | --- | --- |
-| Open Anki N1 55 | [公団](entries/1274/1274280-koudan.org) | こうだん | 1274280 | new / draft |
-| Open Anki N1 56 | [好調](entries/1277/1277730-kouchou.org) | こうちょう | 1277730 | new / draft |
-| Open Anki N1 58 | [講読](entries/1282/1282350-koudoku.org) | こうどく | 1282350 | new / draft |
-| Open Anki N1 59 | [購読](entries/1282/1282420-koudoku.org) | こうどく | 1282420 | new / draft |
-| Open Anki N1 61 | [公認](entries/1274/1274450-kounin.org) | こうにん | 1274450 | new / draft |
-| Open Anki N1 63 | [購買](entries/1282/1282470-koubai.org) | こうばい | 1282470 | new / draft |
-| Open Anki N1 65 | [交付](entries/1272/1272520-koufu.org) | こうふ | 1272520 | new / draft |
-| Open Anki N1 66 | [公募](entries/1274/1274680-koubo.org) | こうぼ | 1274680 | new / draft |
-| Open Anki N1 67 | [巧妙](entries/1278/1278340-koumyou.org) | こうみょう | 1278340 | new / draft |
-| Open Anki N1 71 | [公立](entries/1275/1275000-kouritsu.org) | こうりつ | 1275000 | new / draft |
-| Open Anki N1 72 | [護衛](entries/1271/1271510-goei.org) | ごえい | 1271510 | new / draft |
-| Open Anki N1 74 | [小柄](entries/1348/1348770-kogara.org) | こがら | 1348770 | new / draft |
-| Open Anki N1 75 | [小切手](entries/1348/1348410-kogitte.org) | こぎって | 1348410 | new / draft |
-| Open Anki N1 76 | [国産](entries/1286/1286590-kokusan.org) | こくさん | 1286590 | new / draft |
-| Open Anki N1 77 | [国定](entries/1286/1286860-kokutei.org) | こくてい | 1286860 | new / draft |
-| Open Anki N1 78 | [告白](entries/1286/1286060-kokuhaku.org) | こくはく | 1286060 | new / draft |
-| Open Anki N1 79 | [国防](entries/1287/1287030-kokubou.org) | こくぼう | 1287030 | new / draft |
-| Open Anki N1 80 | [国有](entries/1287/1287170-kokuyuu.org) | こくゆう | 1287170 | new / draft |
-| Open Anki N1 83 | [焦げ茶](entries/1350/1350750-kogecha.org) | こげちゃ | 1350750 | new / draft |
-| Open Anki N1 84 | [語源](entries/1271/1271090-gogen.org) | ごげん | 1271090 | new / draft |
-| Open Anki N1 85 | [心地](entries/1360/1360820-kokochi.org) | ここち | 1360820 | new / draft |
-| Open Anki N1 86 | [心得](entries/1360/1360910-kokoroe.org) | こころえ | 1360910 | new / draft |
-| Open Anki N1 87 | [心掛け](entries/1360/1360500-kokorogake.org) | こころがけ | 1360500 | new / draft |
-| Open Anki N1 88 | [心掛ける](entries/1360/1360610-kokorogakeru.org) | こころがける | 1360610 | new / draft |
-| Open Anki N1 93 | [試み](entries/1312/1312270-kokoromi.org) | こころみ | 1312270 | new / draft |
-| Open Anki N1 101 | [梢](entries/1349/1349980-kozue.org) | こずえ | 1349980 | new / draft |
-| Open Anki N1 103 | [戸籍](entries/1267/1267030-koseki.org) | こせき | 1267030 | new / draft |
-| Open Anki N1 104 | [古代](entries/1265/1265760-kodai.org) | こだい | 1265760 | new / draft |
-| Open Anki N1 107 | [誇張](entries/1267/1267820-kochou.org) | こちょう | 1267820 | new / draft |
-| Open Anki N1 109 | [滑稽](entries/1208/1208660-kokkei.org) | こっけい | 1208660 | new / draft |
-| Open Anki N1 110 | [国交](entries/1286/1286380-kokkou.org) | こっこう | 1286380 | new / draft |
-| Open Anki N1 111 | [骨董品](entries/1288/1288710-kottouhin.org) | こっとうひん | 1288710 | new / draft |
-| Open Anki N1 112 | [固定](entries/1266/1266650-kotei.org) | こてい | 1266650 | new / draft |
-| Open Anki N1 113 | [事柄](entries/1314/1314240-kotogara.org) | ことがら | 1314240 | new / draft |
-| Open Anki N1 116 | [言付け](entries/1593/1593320-kotozuke.org) | ことづけ | 1593320 | new / draft |
-| Open Anki N1 117 | [殊に](entries/1328/1328650-kotoni.org) | ことに | 1328650 | new / draft |
-| Open Anki N1 118 | [粉々](entries/1593/1593360-konagona.org) | こなごな | 1593360 | new / draft |
-| Open Anki N1 120 | [碁盤](entries/1270/1270890-goban.org) | ごばん | 1270890 | new / draft |
-| Open Anki N1 121 | [個別](entries/1265/1265000-kobetsu.org) | こべつ | 1265000 | new / draft |
-| Open Anki N1 123 | [細やか](entries/1295/1295550-komayaka.org) | こまやか | 1295550 | new / draft |
-| Open Anki N1 127 | [籠もる](entries/1593/1593430-komoru.org) | こもる | 1593430 | new / draft |
-| Open Anki N1 128 | [固有](entries/1266/1266730-koyuu.org) | こゆう | 1266730 | new / draft |
-| Open Anki N1 129 | [暦](entries/1557/1557950-koyomi.org) | こよみ | 1557950 | new / draft |
-| Open Anki N1 130 | [凝らす](entries/1239/1239010-korasu.org) | こらす | 1239010 | new / draft |
-| Open Anki N1 132 | [孤立](entries/1266/1266860-koritsu.org) | こりつ | 1266860 | new / draft |
-| Open Anki N1 133 | [懲りる](entries/1428/1428190-koriru.org) | こりる | 1428190 | new / draft |
-| Open Anki N1 137 | [混血](entries/1290/1290330-konketsu.org) | こんけつ | 1290330 | new / draft |
-| Open Anki N1 140 | [根底](entries/1290/1290260-kontei.org) | こんてい | 1290260 | new / draft |
-| Open Anki N1 145 | [根本](entries/2848/2848289-konpon.org) | こんぽん | 2848289 | new / draft |
-| Open Anki N1 146 | [財](entries/1296/1296770-zai.org) | ざい | 1296770 | new / draft |
-| Open Anki N1 150 | [細工](entries/1295/1295610-saiku.org) | さいく | 1295610 | new / draft |
-| Open Anki N1 151 | [採掘](entries/1294/1294750-saikutsu.org) | さいくつ | 1294750 | new / draft |
-| Open Anki N1 153 | [採決](entries/1294/1294760-saiketsu.org) | さいけつ | 1294760 | new / draft |
-| Open Anki N1 155 | [再現](entries/1292/1292640-saigen.org) | さいげん | 1292640 | new / draft |
-| Open Anki N1 162 | [最善](entries/1294/1294160-saizen.org) | さいぜん | 1294160 | new / draft |
-| Open Anki N1 163 | [採択](entries/1294/1294830-saitaku.org) | さいたく | 1294830 | new / draft |
-| Open Anki N1 165 | [再発](entries/1293/1293410-saihatsu.org) | さいはつ | 1293410 | new / draft |
-| Open Anki N1 170 | [冴える](entries/1297/1297050-saeru.org) | さえる | 1297050 | new / draft |
-| Open Anki N1 171 | [竿](entries/1214/1214060-sao.org) | さお | 1214060 | new / draft |
-| Open Anki N1 173 | [差額](entries/1291/1291370-sagaku.org) | さがく | 1291370 | new / draft |
-| Open Anki N1 174 | [杯](entries/1472/1472630-sakazuki.org) | さかずき | 1472630 | new / draft |
-| Open Anki N1 175 | [逆立ち](entries/1227/1227250-sakadachi.org) | さかだち | 1227250 | new / draft |
-| Open Anki N1 179 | [錯誤](entries/1298/1298420-sakugo.org) | さくご | 1298420 | new / draft |
-| Open Anki N1 180 | [作戦](entries/1297/1297800-sakusen.org) | さくせん | 1297800 | new / draft |
-| Open Anki N1 181 | [叫び](entries/1235/1235890-sakebi.org) | さけび | 1235890 | new / draft |
-| Open Anki N1 183 | [差し掛かる](entries/1291/1291140-sashikakaru.org) | さしかかる | 1291140 | new / draft |
-| Open Anki N1 184 | [指図](entries/1309/1309850-sashizu.org) | さしず | 1309850 | new / draft |
-| Open Anki N1 185 | [差し出す](entries/1291/1291230-sashidasu.org) | さしだす | 1291230 | new / draft |
-| Open Anki N1 190 | [定まる](entries/1435/1435370-sadamaru.org) | さだまる | 1435370 | new / draft |
-| Open Anki N1 191 | [定める](entries/1435/1435380-sadameru.org) | さだめる | 1435380 | new / draft |
-| Open Anki N1 192 | [座談会](entries/1291/1291920-zadankai.org) | ざだんかい | 1291920 | new / draft |
-| Open Anki N1 193 | [雑](entries/1299/1299240-zatsu.org) | ざつ | 1299240 | new / draft |
-| Open Anki N1 194 | [雑貨](entries/1299/1299290-zakka.org) | ざっか | 1299290 | new / draft |
-| Open Anki N1 197 | [雑談](entries/1299/1299480-zatsudan.org) | ざつだん | 1299480 | new / draft |
-| Open Anki N1 202 | [座標](entries/1638/1638190-zahyou.org) | ざひょう | 1638190 | new / draft |
-| Open Anki N1 211 | [障る](entries/1352/1352050-sawaru.org) | さわる | 1352050 | new / draft |
-| Open Anki N1 212 | [酸](entries/1304/1304260-san.org) | さん | 1304260 | new / draft |
-| Open Anki N1 213 | [山岳](entries/1302/1302780-sangaku.org) | さんがく | 1302780 | new / draft |
-| Open Anki N1 214 | [参議院](entries/1302/1302210-sangiin.org) | さんぎいん | 1302210 | new / draft |
-| Open Anki N1 215 | [産休](entries/1303/1303760-sankyuu.org) | さんきゅう | 1303760 | new / draft |
-| Open Anki N1 217 | [残金](entries/1304/1304570-zankin.org) | ざんきん | 1304570 | new / draft |
-| Open Anki N1 218 | [産後](entries/1303/1303790-sango.org) | さんご | 1303790 | new / draft |
-| Open Anki N1 219 | [残酷](entries/1304/1304600-zankoku.org) | ざんこく | 1304600 | new / draft |
-| Open Anki N1 220 | [産出](entries/1303/1303810-sanshutsu.org) | さんしゅつ | 1303810 | new / draft |
-| Open Anki N1 221 | [参照](entries/1302/1302410-sanshou.org) | さんしょう | 1302410 | new / draft |
-| Open Anki N1 222 | [参上](entries/1302/1302440-sanjou.org) | さんじょう | 1302440 | new / draft |
-| Open Anki N1 225 | [桟橋](entries/1303/1303650-sanbashi.org) | さんばし | 1303650 | new / draft |
-| Open Anki N1 226 | [賛美](entries/1304/1304240-sanbi.org) | さんび | 1304240 | new / draft |
-| Open Anki N1 227 | [山腹](entries/1303/1303150-sanpuku.org) | さんぷく | 1303150 | new / draft |
-| Open Anki N1 228 | [産婦人科](entries/1303/1303850-sanfujinka.org) | さんふじんか | 1303850 | new / draft |
-| Open Anki N1 229 | [産物](entries/1303/1303870-sanbutsu.org) | さんぶつ | 1303870 | new / draft |
-| Open Anki N1 231 | [仕上がり](entries/1305/1305120-shiagari.org) | しあがり | 1305120 | new / draft |
-| Open Anki N1 232 | [仕上](entries/1594/1594040-shiage.org) | しあげ | 1594040 | new / draft |
-| Open Anki N1 238 | [仕入れる](entries/1305/1305310-shiireru.org) | しいれる | 1305310 | new / draft |
-| Open Anki N1 239 | [強いる](entries/1236/1236100-shiiru.org) | しいる | 1236100 | new / draft |
-| Open Anki N1 240 | [潮](entries/1428/1428620-shio.org) | しお | 1428620 | new / draft |
-| Open Anki N1 241 | [歯科](entries/1313/1313110-shika.org) | しか | 1313110 | new / draft |
-| Open Anki N1 242 | [自我](entries/1317/1317460-jiga.org) | じが | 1317460 | new / draft |
-| Open Anki N1 244 | [仕掛](entries/1594/1594100-shikake.org) | しかけ | 1594100 | new / draft |
-| Open Anki N1 245 | [仕掛ける](entries/1304/1304820-shikakeru.org) | しかける | 1304820 | new / draft |
-
-### Final audit
-
-Completed on 2026-10-05: **100 distinct additions in 100 individual word
-commits**, recorded in **10 batches of 10**. The branch contains **100 new
-entry files versus `origin/main`** (overall authored vocabulary additions **3,200**).
+Completed on 2026-10-05: **300 distinct additions in 300 individual word
+commits**, recorded in **30 batches of 10**. The branch contains **300 new
+entry files versus `origin/main`** (overall authored vocabulary additions **3,400**).
 This continuation preserves every JMdict sense, form, reading, restriction and
-source fingerprint, and supplies **172 original Ukrainian glosses and usage notes**,
-plus **372 examples** (300 primary-sense graded examples plus 72 secondary-sense
-examples across all 39 multisense entries) with Japanese, kana readings, Ukrainian and English
+source fingerprint, and supplies **531 original Ukrainian glosses and usage notes**,
+plus **1,131 examples** (900 primary-sense graded examples plus 231 secondary-sense
+examples across all 136 multisense entries) with Japanese, kana readings, Ukrainian and English
 translations.
 
-All 100 entries passed JMdict validation, Org lint and doctor **100/100**,
+All 300 entries passed JMdict validation, Org lint and doctor **100/100**,
 with **zero errors and warnings**. The full test suite passed: **141 tests,
-22,365 assertions, zero failures, errors or skips**. Source reconciliation and
+22,965 assertions, zero failures, errors or skips**. Source reconciliation and
 commit-history checks confirm unique IDs, exact manifest matches, one entry
 per addition commit, and Ihor's Git identity. Existing committed entries were
 preserved; the two original untracked files retain their original checksums.
 
-The source selection comprises **100 Open Anki N1 words** (rows 55 to 245).
+The source selection comprises **300 Open Anki N1 words** (rows 55 to 602).
 These are documented study-list assignments, not an official JLPT syllabus.
-The reconciled Open Anki N1 pool retains 1,401 unused entries. All additions
+The reconciled Open Anki N1 pool retains 1,201 unused entries. All additions
 remain `new` learner entries with draft metadata, awaiting independent
 linguistic review.
 
