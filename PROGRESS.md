@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **120/200** additional distinct words; branch total **3020**.
+Completed **130/200** additional distinct words; branch total **3030**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4434,6 +4434,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 10 | 10 |
 | 11 | 10 |
 | 12 | 10 |
+| 13 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4557,6 +4558,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2989 | [浪費](entries/1560/1560800-rouhi.org) | ろうひ | 1560800 | new / draft |
 | JLPTLord N2 2991 | [倹約](entries/1256/1256010-kenyaku.org) | けんやく | 1256010 | new / draft |
 | JLPTLord N2 2993 | [経費](entries/1251/1251640-keihi.org) | けいひ | 1251640 | new / draft |
+| JLPTLord N2 2995 | [光熱費](entries/1273/1273110-kounetsuhi.org) | こうねつひ | 1273110 | new / draft |
+| JLPTLord N2 2996 | [食費](entries/1358/1358590-shokuhi.org) | しょくひ | 1358590 | new / draft |
+| JLPTLord N2 2997 | [交通費](entries/1272/1272410-koutsuuhi.org) | こうつうひ | 1272410 | new / draft |
+| JLPTLord N2 2998 | [通信費](entries/1687/1687240-tsuushinhi.org) | つうしんひ | 1687240 | new / draft |
+| JLPTLord N2 2999 | [雑費](entries/1299/1299510-zappi.org) | ざっぴ | 1299510 | new / draft |
+| JLPTLord N2 3000 | [医療費](entries/1930/1930280-iryouhi.org) | いりょうひ | 1930280 | new / draft |
+| JLPTLord N2 3009 | [膨張](entries/1520/1520010-bouchou.org) | ぼうちょう | 1520010 | new / draft |
+| JLPTLord N2 3010 | [収縮](entries/1330/1330670-shuushuku.org) | しゅうしゅく | 1330670 | new / draft |
+| JLPTLord N2 3012 | [圧迫](entries/1153/1153310-appaku.org) | あっぱく | 1153310 | new / draft |
+| JLPTLord N2 3013 | [抑圧](entries/1547/1547270-yokuatsu.org) | よくあつ | 1547270 | new / draft |
 
 ## Maturity workflow
 
