@@ -4672,7 +4672,7 @@ entries with draft metadata, awaiting independent linguistic review.
 ## 3200-word vocabulary continuation (2026-10-05)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **70/100** additional distinct words; branch total **70** (overall corpus additions **3170**).
+Completed **80/100** additional distinct words; branch total **80** (overall corpus additions **3180**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4692,6 +4692,7 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | 5 | 10 |
 | 6 | 10 |
 | 7 | 10 |
+| 8 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4765,6 +4766,16 @@ The selected continuation uses 100 Open Anki N1 candidates.
 | Open Anki N1 185 | [差し出す](entries/1291/1291230-sashidasu.org) | さしだす | 1291230 | new / draft |
 | Open Anki N1 190 | [定まる](entries/1435/1435370-sadamaru.org) | さだまる | 1435370 | new / draft |
 | Open Anki N1 191 | [定める](entries/1435/1435380-sadameru.org) | さだめる | 1435380 | new / draft |
+| Open Anki N1 192 | [座談会](entries/1291/1291920-zadankai.org) | ざだんかい | 1291920 | new / draft |
+| Open Anki N1 193 | [雑](entries/1299/1299240-zatsu.org) | ざつ | 1299240 | new / draft |
+| Open Anki N1 194 | [雑貨](entries/1299/1299290-zakka.org) | ざっか | 1299290 | new / draft |
+| Open Anki N1 197 | [雑談](entries/1299/1299480-zatsudan.org) | ざつだん | 1299480 | new / draft |
+| Open Anki N1 202 | [座標](entries/1638/1638190-zahyou.org) | ざひょう | 1638190 | new / draft |
+| Open Anki N1 211 | [障る](entries/1352/1352050-sawaru.org) | さわる | 1352050 | new / draft |
+| Open Anki N1 212 | [酸](entries/1304/1304260-san.org) | さん | 1304260 | new / draft |
+| Open Anki N1 213 | [山岳](entries/1302/1302780-sangaku.org) | さんがく | 1302780 | new / draft |
+| Open Anki N1 214 | [参議院](entries/1302/1302210-sangiin.org) | さんぎいん | 1302210 | new / draft |
+| Open Anki N1 215 | [産休](entries/1303/1303760-sankyuu.org) | さんきゅう | 1303760 | new / draft |
 
 ## Maturity workflow
 
