@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **190/200** additional distinct words; branch total **3090**.
+Completed **200/200** additional distinct words; branch total **3100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4441,6 +4441,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 17 | 10 |
 | 18 | 10 |
 | 19 | 10 |
+| 20 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4634,6 +4635,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 27 | [合議](entries/1284/1284700-gougi.org) | ごうぎ | 1284700 | new / draft |
 | Open Anki N1 28 | [皇居](entries/1280/1280380-koukyo.org) | こうきょ | 1280380 | new / draft |
 | Open Anki N1 31 | [興業](entries/1238/1238240-kougyou.org) | こうぎょう | 1238240 | new / draft |
+| Open Anki N1 33 | [交互](entries/1271/1271940-kougo.org) | こうご | 1271940 | new / draft |
+| Open Anki N1 35 | [考古学](entries/1281/1281120-koukogaku.org) | こうこがく | 1281120 | new / draft |
+| Open Anki N1 36 | [工作](entries/1278/1278100-kousaku.org) | こうさく | 1278100 | new / draft |
+| Open Anki N1 38 | [鉱山](entries/1282/1282570-kouzan.org) | こうざん | 1282570 | new / draft |
+| Open Anki N1 40 | [口述](entries/1276/1276310-koujutsu.org) | こうじゅつ | 1276310 | new / draft |
+| Open Anki N1 43 | [高尚](entries/1283/1283610-koushou.org) | こうしょう | 1283610 | new / draft |
+| Open Anki N1 45 | [行進](entries/1281/1281980-koushin.org) | こうしん | 1281980 | new / draft |
+| Open Anki N1 46 | [香辛料](entries/1283/1283050-koushinryou.org) | こうしんりょう | 1283050 | new / draft |
+| Open Anki N1 50 | [公然](entries/1274/1274190-kouzen.org) | こうぜん | 1274190 | new / draft |
+| Open Anki N1 54 | [光沢](entries/1273/1273050-koutaku.org) | こうたく | 1273050 | new / draft |
 
 ## Maturity workflow
 
