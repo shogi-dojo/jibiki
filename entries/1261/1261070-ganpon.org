@@ -1,0 +1,244 @@
+#+TITLE: 元本
+#+JMDICT_ID: 1261070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がんぽん
+#+ROMAJI: ganpon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1261070-001
+:PROPERTIES:
+:TEXT: 元本
+:END:
+*** Priorities
+- news1
+- nf13
+** Reading rd-1261070-001
+:PROPERTIES:
+:TEXT: がんぽん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf13
+** Reading rd-1261070-002
+:PROPERTIES:
+:TEXT: げんぽん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1261070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f656773654e42aa0dce6271f227b7df8bea1ecf47f2d2ce68b89d3fb94a401f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- principal
+- capital
+** Ukrainian glosses
+*** uk-s-1261070-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: основна сума; капітал
+** Learner notes
+*** note-s-1261070-001-001
+:PROPERTIES:
+:END:
+- UK :: Первісна сума позики або вкладення, від якої відрізняють нараховані відсотки та дохід. Типові 元本を返す та 元本割れ; наявність цього слова сама по собі не означає гарантії збереження коштів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1261070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 元本を返しました。
+- READING :: がんぽんをかえしました。
+- UK :: Основну суму повернули.
+- EN :: The principal was repaid.
+- FOCUS :: 元本
+*** ex-1261070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 返済額のうち、どれだけが元本に充てられますか。
+- READING :: へんさいがくのうち、どれだけががんぽんにあてられますか。
+- UK :: Яка частина платежу спрямовується на погашення основної суми?
+- EN :: How much of the payment goes toward the principal?
+- FOCUS :: 元本
+*** ex-1261070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 資料には、運用の結果によって元本が減る可能性も記載されている。
+- READING :: しりょうには、うんようのけっかによってがんぽんがへるかのうせいもきさいされている。
+- UK :: У матеріалах також зазначено можливість зменшення основної суми залежно від результатів інвестування.
+- EN :: The materials also state that investment results may reduce the principal.
+- FOCUS :: 元本
+
+* Sense s-1261070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5296769c006f3b3ce548136ab27cc809459b7e55f90a1236379771e0970c9847
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- income-producing assets
+** Ukrainian glosses
+*** uk-s-1261070-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: майно, що приносить дохід
+** Learner notes
+*** note-s-1261070-002-001
+:PROPERTIES:
+:END:
+- UK :: У ширшому майновому значенні це актив, від якого надходять плоди чи дохід: наприклад, орендоване майно. У правових текстах протиставляється отриманому від нього доходу, а не лише відсоткам.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1261070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 593e3caa67d39b7c1c8bcdbf3860ab95e9c2963f7af00b097f40e26d551d635b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261070-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kapital (das Zinsen abwirft; wie Spareinlagen, Aktien)
+** Ukrainian glosses
+
+* Sense s-1261070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4fe63b84d427fc0d30d879c344dba18bf608dff331fdf574b53bfe1e5b74bc6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261070-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elöljáró
+*** en-s-1261070-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felettes
+*** en-s-1261070-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legfontosabb
+*** en-s-1261070-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tőke
+*** en-s-1261070-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fontos
+*** en-s-1261070-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kéménysisak
+*** en-s-1261070-004-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kéménytoldat
+*** en-s-1261070-004-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legfőbb
+** Ukrainian glosses
+
+* Sense s-1261070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 17e6c68492d8522e03c83076cd6e69acd8e8333a89744b5acc2496c963af9add
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261070-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: base
+*** en-s-1261070-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: principal (por oposición a intereses)
+** Ukrainian glosses
