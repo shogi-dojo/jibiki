@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **90/200** additional distinct words; branch total **2990**.
+Completed **100/200** additional distinct words; branch total **3000**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4431,6 +4431,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 7 | 10 |
 | 8 | 10 |
 | 9 | 10 |
+| 10 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4524,6 +4525,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2924 | [在庫](entries/1296/1296470-zaiko.org) | ざいこ | 1296470 | new / draft |
 | JLPTLord N2 2931 | [領収書](entries/1554/1554760-ryoushuusho.org) | りょうしゅうしょ | 1554760 | new / draft |
 | JLPTLord N2 2932 | [振込](entries/1602/1602960-furikomi.org) | ふりこみ | 1602960 | new / draft |
+| JLPTLord N2 2933 | [決済](entries/1254/1254260-kessai.org) | けっさい | 1254260 | new / draft |
+| JLPTLord N2 2937 | [配当](entries/1473/1473170-haitou.org) | はいとう | 1473170 | new / draft |
+| JLPTLord N2 2938 | [利回り](entries/1549/1549490-rimawari.org) | りまわり | 1549490 | new / draft |
+| JLPTLord N2 2940 | [相場](entries/1401/1401070-souba.org) | そうば | 1401070 | new / draft |
+| JLPTLord N2 2942 | [高騰](entries/1283/1283870-koutou.org) | こうとう | 1283870 | new / draft |
+| JLPTLord N2 2946 | [倒産](entries/1445/1445890-tousan.org) | とうさん | 1445890 | new / draft |
+| JLPTLord N2 2950 | [収支](entries/1330/1330640-shuushi.org) | しゅうし | 1330640 | new / draft |
+| JLPTLord N2 2951 | [歳入](entries/1294/1294970-sainyuu.org) | さいにゅう | 1294970 | new / draft |
+| JLPTLord N2 2952 | [歳出](entries/1294/1294960-saishutsu.org) | さいしゅつ | 1294960 | new / draft |
+| JLPTLord N2 2957 | [簿記](entries/1515/1515230-boki.org) | ぼき | 1515230 | new / draft |
 
 ## Maturity workflow
 
