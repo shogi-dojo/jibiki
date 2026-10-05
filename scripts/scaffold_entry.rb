@@ -199,25 +199,63 @@ if __FILE__ == $PROGRAM_NAME
     cli.on('--level LEVEL', %w[n5 n4 n3], 'Queue level (n5, n4, or n3, default: n5)') do |value|
       options[:level] = value
     end
+    cli.on('--queue-file PATH', 'Candidate queue JSON file to read metadata from') { |value| options[:queue_file] = value }
+    cli.on('--entry-index NUMBER', Integer, '0-based index in queue-file to scaffold') { |value| options[:entry_index] = value }
     cli.on('--source-order NUMBER', Integer, 'Candidate queue source_order to scaffold') { |value| options[:source_order] = value }
     cli.on('--jmdict-id ENT_SEQ', 'JMdict ent_seq to scaffold directly') { |value| options[:ent_seq] = value }
     cli.on('--romaji TEXT', 'Filename romaji (Modified Hepburn, lowercase)') { |value| options[:romaji] = value }
   end
   parser.parse!
 
-  abort 'Provide --source-order or --jmdict-id.' unless options[:source_order] || options[:ent_seq]
-  abort 'Provide only one of --source-order or --jmdict-id.' if options[:source_order] && options[:ent_seq]
-  abort 'Provide --romaji.' unless options[:romaji]
+  if options[:queue_file]
+    # queue_file mode allows --entry-index, --source-order, --jmdict-id, or a single-item queue
+  else
+    abort 'Provide --source-order or --jmdict-id.' unless options[:source_order] || options[:ent_seq]
+    abort 'Provide only one of --source-order or --jmdict-id.' if options[:source_order] && options[:ent_seq]
+    abort 'Provide --romaji.' unless options[:romaji]
+  end
 
   SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH)
 
-  level = options.fetch(:level)
   jmdict = DictionarySources::Jmdict.new(SourceCLI::JMDICT_PATH)
   matches = nil
 
-  if options[:ent_seq]
+  if options[:queue_file]
+    SourceCLI.ensure_exists!(options[:queue_file])
+    queue_data = JSON.parse(File.read(options[:queue_file]))
+    queue_records = queue_data.is_a?(Array) ? queue_data : [queue_data]
+
+    queue_record = if !options[:entry_index].nil?
+                     queue_records[options[:entry_index]] || abort("Index #{options[:entry_index]} out of bounds for #{options[:queue_file]} (size #{queue_records.length})")
+                   elsif options[:source_order]
+                     queue_records.find do |r|
+                       [r['order'], r['source_row'], r['source_order'], r[:order], r[:source_row], r[:source_order]].compact.map(&:to_i).include?(options[:source_order])
+                     end || abort("No record with source_order #{options[:source_order]} found in #{options[:queue_file]}")
+                   elsif options[:ent_seq]
+                     queue_records.find do |r|
+                       (r['jmdict_id'] || r[:jmdict_id] || r['ent_seq'] || r[:ent_seq]).to_s == options[:ent_seq].to_s
+                     end || abort("No record with jmdict_id #{options[:ent_seq]} found in #{options[:queue_file]}")
+                   elsif queue_records.length == 1
+                     queue_records.first
+                   else
+                     abort 'Provide --entry-index, --source-order, or --jmdict-id when using --queue-file with multiple items.'
+                   end
+
+    options[:romaji] ||= queue_record['romaji'] || queue_record[:romaji]
+    abort 'Provide --romaji.' unless options[:romaji]
+
+    target_ent_seq = (queue_record['jmdict_id'] || queue_record[:jmdict_id] || queue_record['ent_seq'] || queue_record[:ent_seq])&.to_s
+    if target_ent_seq && !target_ent_seq.empty?
+      matches = jmdict.lookup(ent_seq: target_ent_seq)
+    else
+      written = queue_record['written'] || queue_record['title'] || queue_record[:written] || queue_record[:title]
+      reading = queue_record['reading'] || queue_record[:reading]
+      matches = jmdict.lookup(written: written, reading: reading)
+    end
+  elsif options[:ent_seq]
     matches = jmdict.lookup(ent_seq: options[:ent_seq])
   elsif options[:source_order]
+    level = options.fetch(:level)
     queue_path = case level
                  when 'n3' then SourceCLI::N3_PATH
                  when 'n4' then SourceCLI::N4_PATH
@@ -237,11 +275,18 @@ if __FILE__ == $PROGRAM_NAME
   end
 
   abort "No JMdict match found for #{options.inspect}" if matches.nil? || matches.empty?
+  if matches.length != 1
+    abort "Resolved to #{matches.length} JMdict entries; inspect and reconcile explicitly before scaffolding."
+  end
 
   entry = matches.first
   ent_seq = entry[:ent_seq]
   primary_reading = entry[:readings].first.fetch(:text)
-  path = File.join(SourceCLI::REPO_ROOT, 'entries', (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{options[:romaji]}.org")
+  path = if options[:output]
+           File.expand_path(options[:output], SourceCLI::REPO_ROOT)
+         else
+           File.join(SourceCLI::REPO_ROOT, 'entries', (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{options[:romaji]}.org")
+         end
 
   if File.exist?(path)
     abort "#{SourceCLI.relative_path(path)} already exists; scaffold_entry.rb refuses to overwrite an existing entry."
