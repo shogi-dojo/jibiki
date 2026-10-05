@@ -4408,7 +4408,7 @@ checks do not confer release-ready status.
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
 Baseline: `5386f32f`, with **2900** new translated words on this branch.
-Completed **110/200** additional distinct words; branch total **3010**.
+Completed **120/200** additional distinct words; branch total **3020**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4433,6 +4433,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | 9 | 10 |
 | 10 | 10 |
 | 11 | 10 |
+| 12 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4546,6 +4547,16 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | JLPTLord N2 2970 | [所得](entries/1343/1343360-shotoku.org) | しょとく | 1343360 | new / draft |
 | JLPTLord N2 2971 | [収益](entries/1330/1330500-shuueki.org) | しゅうえき | 1330500 | new / draft |
 | JLPTLord N2 2976 | [慰謝料](entries/1156/1156930-isharyou.org) | いしゃりょう | 1156930 | new / draft |
+| JLPTLord N2 2980 | [退職金](entries/1661/1661130-taishokukin.org) | たいしょくきん | 1661130 | new / draft |
+| JLPTLord N2 2983 | [手取り](entries/1327/1327760-tedori.org) | てどり | 1327760 | new / draft |
+| JLPTLord N2 2984 | [源泉徴収](entries/1666/1666250-gensenchoushuu.org) | げんせんちょうしゅう | 1666250 | new / draft |
+| JLPTLord N2 2985 | [扶養](entries/1496/1496990-fuyou.org) | ふよう | 1496990 | new / draft |
+| JLPTLord N2 2986 | [生計](entries/1378/1378920-seikei.org) | せいけい | 1378920 | new / draft |
+| JLPTLord N2 2987 | [家計](entries/1191/1191910-kakei.org) | かけい | 1191910 | new / draft |
+| JLPTLord N2 2988 | [貯蓄](entries/1597/1597700-chochiku.org) | ちょちく | 1597700 | new / draft |
+| JLPTLord N2 2989 | [浪費](entries/1560/1560800-rouhi.org) | ろうひ | 1560800 | new / draft |
+| JLPTLord N2 2991 | [倹約](entries/1256/1256010-kenyaku.org) | けんやく | 1256010 | new / draft |
+| JLPTLord N2 2993 | [経費](entries/1251/1251640-keihi.org) | けいひ | 1251640 | new / draft |
 
 ## Maturity workflow
 
