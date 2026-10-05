@@ -5128,6 +5128,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 743 | [温和](entries/1589/1589620-onwa.org) | おんわ | 1589620 | new / draft |
 | Open Anki N1 748 | [改悪](entries/1200/1200760-kaiaku.org) | かいあく | 1200760 | new / draft |
 
+| Open Anki N1 749 | [海運](entries/1201/1201230-kaiun.org) | かいうん | 1201230 | new / draft |
+| Open Anki N1 750 | [外貨](entries/1203/1203410-gaika.org) | がいか | 1203410 | new / draft |
+| Open Anki N1 751 | [改革](entries/1200/1200780-kaikaku.org) | かいかく | 1200780 | new / draft |
+| Open Anki N1 752 | [貝殻](entries/1203/1203130-kaigara.org) | かいがら | 1203130 | new / draft |
+| Open Anki N1 754 | [階級](entries/1203/1203040-kaikyuu.org) | かいきゅう | 1203040 | new / draft |
+| Open Anki N1 756 | [会見](entries/1198/1198500-kaiken.org) | かいけん | 1198500 | new / draft |
+| Open Anki N1 758 | [開催](entries/1202/1202710-kaisai.org) | かいさい | 1202710 | new / draft |
+| Open Anki N1 761 | [怪獣](entries/1200/1200280-kaijuu.org) | かいじゅう | 1200280 | new / draft |
+| Open Anki N1 762 | [解除](entries/1199/1199030-kaijo.org) | かいじょ | 1199030 | new / draft |
+| Open Anki N1 763 | [外相](entries/1203/1203940-gaishou.org) | がいしょう | 1203940 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
