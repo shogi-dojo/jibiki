@@ -1,0 +1,432 @@
+#+TITLE: 縁側
+#+JMDICT_ID: 1177630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんがわ
+#+ROMAJI: engawa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1177630-001
+:PROPERTIES:
+:TEXT: 縁側
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf32
+** Written form wf-1177630-002
+:PROPERTIES:
+:TEXT: 椽側
+:END:
+*** Information
+- rK
+** Reading rd-1177630-001
+:PROPERTIES:
+:TEXT: えんがわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf32
+
+* Sense s-1177630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 051f25adb597e9c16bba6ac97b3b9f9ee4324cfa7440eb91dd45a6a15261bc42
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 縁・6
+** English glosses
+- engawa
+*** en-s-1177630-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: external corridor on the outer side of traditional Japanese houses
+** Ukrainian glosses
+*** uk-s-1177630-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: енґава; зовнішня галерея традиційного японського будинку
+** Learner notes
+*** note-s-1177630-001-001
+:PROPERTIES:
+:END:
+- UK :: 縁側 — вузький прохід або галерея вздовж краю традиційного будинку, між кімнатами й зовнішнім простором. Часто 縁側に座る. Не всякий балкон чи сучасна тераса є 縁側; конструкція й розташування відрізняються, хоча українське «веранда» іноді допомагає пояснити функцію.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1177630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖母は縁側に座った。
+- READING :: そぼはえんがわにすわった。
+- UK :: Бабуся сіла на енґаві.
+- EN :: My grandmother sat on the engawa.
+- FOCUS :: 縁側
+*** ex-1177630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 縁側から庭の花が見える。
+- READING :: えんがわからにわのはながみえる。
+- UK :: З енґави видно квіти в саду.
+- EN :: The garden flowers are visible from the engawa.
+- FOCUS :: 縁側
+*** ex-1177630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い家の縁側で話を聞きながら、学生たちは部屋と庭をつなぐ空間の役割を学んだ。
+- READING :: ふるいいえのえんがわではなしをききながら、がくせいたちはへやとにわをつなぐくうかんのやくわりをまなんだ。
+- UK :: Слухаючи розповідь на енґаві старого будинку, студенти вивчили роль простору між кімнатами й садом.
+- EN :: Listening on the old house's engawa, the students learned the role of the space connecting rooms and garden.
+- FOCUS :: 縁側
+
+* Sense s-1177630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 83ea53a888ef5ed94095624edbc2e7362914a5388c8d6de4f5330575b4cc53e0
+:END:
+** Applies to forms
+*** Written forms
+- 縁側
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 担鰭骨
+** English glosses
+- bone at the base of a fin (esp. of a flatfish)
+- meat at the base of a fin
+** Ukrainian glosses
+*** uk-s-1177630-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: м'ясо біля основи плавця, особливо камбали
+** Learner notes
+*** note-s-1177630-002-001
+:PROPERTIES:
+:END:
+- UK :: У кулінарному контексті 縁側 — частина риби біля основи плавця, особливо камбали, та відповідне м'ясо. Це окремий сенс, не галерея будинку. У меню суші слово може називати інгредієнт; вид риби й спосіб приготування уточнюються окремо.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+* Sense s-1177630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2ed1034b00f6668cbf1ee5068caec26cfd65cfb80b7ce81ab4bfa5cbeaa2d594
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veranda
+*** en-s-1177630-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waranda
+*** en-s-1177630-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zonnewaranda
+*** en-s-1177630-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Ind.N.
+*** en-s-1177630-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sur.N.} galerij
+*** en-s-1177630-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buitengalerij
+*** en-s-1177630-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± loggia
+*** en-s-1177630-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± terras
+*** en-s-1177630-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± portiek
+*** en-s-1177630-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ± bordes
+*** en-s-1177630-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {二階の} balkon
+** Ukrainian glosses
+
+* Sense s-1177630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ae9948249a6256d1532e5ca5aeff6262f30950db4739a56154f7783c8885b08b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balcon
+*** en-s-1177630-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corridor extérieur
+*** en-s-1177630-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: véranda
+** Ukrainian glosses
+
+* Sense s-1177630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5ef0aee243c349e96fa354396a9bf95d401fe8408ee8fb86bd28371d7dea99c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Veranda
+*** en-s-1177630-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorbau
+*** en-s-1177630-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Balkon
+** Ukrainian glosses
+
+* Sense s-1177630-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1c9e39239bf6320b14e5343e157d05043ca90534b3b045fc5134aa8456c1856b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gräte an der Basis einer Fischflosse
+** Ukrainian glosses
+
+* Sense s-1177630-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1720308fb6ef0a253125689f83a10fccad453cc2329492e9cd8ff477b1af2f78
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fleisch an der Basis einer Fischflosse (gilt als besonders delikat; ein Fachbegriff der Sushi-Köche)
+** Ukrainian glosses
+
+* Sense s-1177630-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 463ae4be98dfd439c835abe1209332077e67aaab01991c64c8546cc0ef73e6cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tornác
+*** en-s-1177630-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: karzat
+** Ukrainian glosses
+
+* Sense s-1177630-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 112c029a3ec639cdf0ee50b680ead674d680ed438e014f77fe641456b27cdc13
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: веранда
+*** en-s-1177630-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: открытый коридор
+*** en-s-1177630-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: энгава (открытая галерея с двух или трёх сторон яп. дома)
+*** en-s-1177630-009-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ( )
+** Ukrainian glosses
+
+* Sense s-1177630-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 8c600b79fa814e1c8acb5a2642164af08be4b172f4a76f3cb7fe2843388021d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1177630-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corredor que da al exterior en casa japonesa
+** Ukrainian glosses
