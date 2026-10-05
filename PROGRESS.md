@@ -4856,6 +4856,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 579 | [威力](entries/1587/1587770-iryoku.org) | いりょく | 1587770 | new / draft |
 | Open Anki N1 581 | [異論](entries/1158/1158150-iron.org) | いろん | 1158150 | new / draft |
 
+| Open Anki N1 582 | [印鑑](entries/1168/1168120-inkan.org) | いんかん | 1168120 | new / draft |
+| Open Anki N1 584 | [隠居](entries/1170/1170690-inkyo.org) | いんきょ | 1170690 | new / draft |
+| Open Anki N1 591 | [受かる](entries/1329/1329580-ukaru.org) | うかる | 1329580 | new / draft |
+| Open Anki N1 592 | [受け入れ](entries/1329/1329660-ukeire.org) | うけいれ | 1329660 | new / draft |
+| Open Anki N1 595 | [受け付ける](entries/1329/1329690-uketsukeru.org) | うけつける | 1329690 | new / draft |
+| Open Anki N1 597 | [受身](entries/1329/1329860-ukemi.org) | うけみ | 1329860 | new / draft |
+| Open Anki N1 598 | [受持ち](entries/1588/1588070-ukemochi.org) | うけもち | 1588070 | new / draft |
+| Open Anki N1 599 | [動き](entries/1451/1451180-ugoki.org) | うごき | 1451180 | new / draft |
+| Open Anki N1 601 | [嘘つき](entries/1172/1172460-usotsuki.org) | うそつき | 1172460 | new / draft |
+| Open Anki N1 602 | [うたた寝](entries/1663/1663100-utatane.org) | うたたね | 1663100 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
