@@ -5073,6 +5073,17 @@ The selected continuation uses 300 Open Anki N1 candidates.
 | Open Anki N1 652 | [婉曲](entries/1566/1566060-enkyoku.org) | えんきょく | 1566060 | new / draft |
 | Open Anki N1 653 | [演出](entries/1176/1176950-enshutsu.org) | えんしゅつ | 1176950 | new / draft |
 
+| Open Anki N1 655 | [演じる](entries/1176/1176780-enjiru.org) | えんじる | 1176780 | new / draft |
+| Open Anki N1 656 | [演ずる](entries/1176/1176790-enzuru.org) | えんずる | 1176790 | new / draft |
+| Open Anki N1 657 | [沿線](entries/1176/1176750-ensen.org) | えんせん | 1176750 | new / draft |
+| Open Anki N1 658 | [縁談](entries/1177/1177650-endan.org) | えんだん | 1177650 | new / draft |
+| Open Anki N1 659 | [遠方](entries/1178/1178340-enpou.org) | えんぽう | 1178340 | new / draft |
+| Open Anki N1 660 | [円満](entries/1176/1176200-enman.org) | えんまん | 1176200 | new / draft |
+| Open Anki N1 663 | [於いて](entries/1178/1178920-oite.org) | おいて | 1178920 | new / draft |
+| Open Anki N1 664 | [老いる](entries/1560/1560990-oiru.org) | おいる | 1560990 | new / draft |
+| Open Anki N1 665 | [応急](entries/1179/1179880-oukyuu.org) | おうきゅう | 1179880 | new / draft |
+| Open Anki N1 666 | [黄金](entries/1181/1181860-ougon.org) | おうごん | 1181860 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **300 distinct additions in 300 individual word
