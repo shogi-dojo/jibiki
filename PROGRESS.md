@@ -4702,6 +4702,17 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 317 | [遠回り](entries/1177/1177930-toomawari.org) | とおまわり | 1177930 | new / draft |
 | Open Anki N1 325 | [独裁](entries/1455/1455800-dokusai.org) | どくさい | 1455800 | new / draft |
 
+| Open Anki N1 326 | [特産](entries/1454/1454920-tokusan.org) | とくさん | 1454920 | new / draft |
+| Open Anki N1 327 | [独自](entries/1455/1455810-dokuji.org) | どくじ | 1455810 | new / draft |
+| Open Anki N1 328 | [特集](entries/1455/1455060-tokushuu.org) | とくしゅう | 1455060 | new / draft |
+| Open Anki N1 329 | [独占](entries/1455/1455870-dokusen.org) | どくせん | 1455870 | new / draft |
+| Open Anki N1 330 | [独創](entries/1455/1455920-dokusou.org) | どくそう | 1455920 | new / draft |
+| Open Anki N1 331 | [得点](entries/1454/1454590-tokuten.org) | とくてん | 1454590 | new / draft |
+| Open Anki N1 332 | [特派](entries/1455/1455230-tokuha.org) | とくは | 1455230 | new / draft |
+| Open Anki N1 333 | [特有](entries/1455/1455370-tokuyuu.org) | とくゆう | 1455370 | new / draft |
+| Open Anki N1 337 | [年頃](entries/1468/1468660-toshigoro.org) | としごろ | 1468660 | new / draft |
+| Open Anki N1 338 | [戸締り](entries/1267/1267060-tojimari.org) | とじまり | 1267060 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
