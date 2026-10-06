@@ -5224,6 +5224,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 840 | [固める](entries/1266/1266570-katameru.org) | かためる | 1266570 | new / draft |
 | Open Anki N1 841 | [傍ら](entries/1590/1590440-katawara.org) | かたわら | 1590440 | new / draft |
 
+| Open Anki N1 842 | [花壇](entries/1590/1590460-kadan.org) | かだん | 1590460 | new / draft |
+| Open Anki N1 851 | [勝手](entries/1346/1346190-katte.org) | かって | 1346190 | new / draft |
+| Open Anki N1 853 | [活発](entries/1208/1208410-kappatsu.org) | かっぱつ | 1208410 | new / draft |
+| Open Anki N1 856 | [叶う](entries/1208/1208870-kanau.org) | かなう | 1208870 | new / draft |
+| Open Anki N1 857 | [叶える](entries/1208/1208880-kanaeru.org) | かなえる | 1208880 | new / draft |
+| Open Anki N1 858 | [金槌](entries/1779/1779760-kanazuchi.org) | かなづち | 1779760 | new / draft |
+| Open Anki N1 861 | [予て](entries/1542/1542850-kanete.org) | かねて | 1542850 | new / draft |
+| Open Anki N1 862 | [庇う](entries/1483/1483060-kabau.org) | かばう | 1483060 | new / draft |
+| Open Anki N1 865 | [花粉](entries/1194/1194890-kafun.org) | かふん | 1194890 | new / draft |
+| Open Anki N1 866 | [貨幣](entries/1195/1195930-kahei.org) | かへい | 1195930 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
