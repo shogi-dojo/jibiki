@@ -5290,6 +5290,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 943 | [記載](entries/1223/1223230-kisai.org) | きさい | 1223230 | new / draft |
 | Open Anki N1 945 | [気質](entries/1222/1222250-kishitsu.org) | きしつ | 1222250 | new / draft |
 
+| Open Anki N1 946 | [期日](entries/1220/1220610-kijitsu.org) | きじつ | 1220610 | new / draft |
+| Open Anki N1 948 | [議事堂](entries/1226/1226090-gijidou.org) | ぎじどう | 1226090 | new / draft |
+| Open Anki N1 949 | [記述](entries/1223/1223280-kijutsu.org) | きじゅつ | 1223280 | new / draft |
+| Open Anki N1 953 | [犠牲](entries/1225/1225450-gisei.org) | ぎせい | 1225450 | new / draft |
+| Open Anki N1 954 | [汽船](entries/1222/1222730-kisen.org) | きせん | 1222730 | new / draft |
+| Open Anki N1 955 | [寄贈](entries/1577/1577730-kizou.org) | きぞう | 1577730 | new / draft |
+| Open Anki N1 956 | [偽造](entries/1224/1224580-gizou.org) | ぎぞう | 1224580 | new / draft |
+| Open Anki N1 957 | [貴族](entries/1223/1223550-kizoku.org) | きぞく | 1223550 | new / draft |
+| Open Anki N1 958 | [議題](entries/1226/1226130-gidai.org) | ぎだい | 1226130 | new / draft |
+| Open Anki N1 960 | [気立て](entries/1222/1222670-kidate.org) | きだて | 1222670 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
