@@ -5268,6 +5268,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 915 | [感無量](entries/1212/1212620-kanmuryou.org) | かんむりょう | 1212620 | new / draft |
 | Open Anki N1 917 | [関与](entries/1216/1216050-kanyo.org) | かんよ | 1216050 | new / draft |
 
+| Open Anki N1 920 | [観覧](entries/1215/1215040-kanran.org) | かんらん | 1215040 | new / draft |
+| Open Anki N1 921 | [慣例](entries/1212/1212750-kanrei.org) | かんれい | 1212750 | new / draft |
+| Open Anki N1 922 | [還暦](entries/1215/1215160-kanreki.org) | かんれき | 1215160 | new / draft |
+| Open Anki N1 923 | [貫禄](entries/1215/1215110-kanroku.org) | かんろく | 1215110 | new / draft |
+| Open Anki N1 925 | [議案](entries/1226/1226010-gian.org) | ぎあん | 1226010 | new / draft |
+| Open Anki N1 926 | [危害](entries/1218/1218440-kigai.org) | きがい | 1218440 | new / draft |
+| Open Anki N1 927 | [企画](entries/1218/1218150-kikaku.org) | きかく | 1218150 | new / draft |
+| Open Anki N1 928 | [規格](entries/1222/1222970-kikaku.org) | きかく | 1222970 | new / draft |
+| Open Anki N1 929 | [着飾る](entries/1423/1423080-kikazaru.org) | きかざる | 1423080 | new / draft |
+| Open Anki N1 930 | [気兼ね](entries/1222/1222120-kigane.org) | きがね | 1222120 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
