@@ -5213,6 +5213,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 816 | [賭](entries/1590/1590040-kake.org) | かけ | 1590040 | new / draft |
 | Open Anki N1 819 | [崖](entries/1204/1204380-gake.org) | がけ | 1204380 | new / draft |
 
+| Open Anki N1 820 | [駆け足](entries/1244/1244800-kakeashi.org) | かけあし | 1244800 | new / draft |
+| Open Anki N1 822 | [駆けっこ](entries/1244/1244710-kakekko.org) | かけっこ | 1244710 | new / draft |
+| Open Anki N1 827 | [箇条書](entries/1590/1590280-kajougaki.org) | かじょうがき | 1590280 | new / draft |
+| Open Anki N1 829 | [微か](entries/1590/1590290-kasuka.org) | かすか | 1590290 | new / draft |
+| Open Anki N1 830 | [霞む](entries/1196/1196520-kasumu.org) | かすむ | 1196520 | new / draft |
+| Open Anki N1 831 | [擦る](entries/1636/1636530-kasuru.org) | かする | 1636530 | new / draft |
+| Open Anki N1 832 | [火星](entries/1194/1194060-kasei.org) | かせい | 1194060 | new / draft |
+| Open Anki N1 838 | [片言](entries/1511/1511640-katakoto.org) | かたこと | 1511640 | new / draft |
+| Open Anki N1 840 | [固める](entries/1266/1266570-katameru.org) | かためる | 1266570 | new / draft |
+| Open Anki N1 841 | [傍ら](entries/1590/1590440-katawara.org) | かたわら | 1590440 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
