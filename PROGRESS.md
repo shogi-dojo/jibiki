@@ -4746,6 +4746,16 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | 38 | 10 |
 | 39 | 10 |
 | 40 | 10 |
+| 41 | 10 |
+| 42 | 10 |
+| 43 | 10 |
+| 44 | 10 |
+| 45 | 10 |
+| 46 | 10 |
+| 47 | 10 |
+| 48 | 10 |
+| 49 | 10 |
+| 50 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5180,6 +5190,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 775 | [街頭](entries/1204/1204640-gaitou.org) | がいとう | 1204640 | new / draft |
 | Open Anki N1 780 | [海抜](entries/1201/1201700-kaibatsu.org) | かいばつ | 1201700 | new / draft |
 | Open Anki N1 781 | [介抱](entries/1198/1198130-kaihou.org) | かいほう | 1198130 | new / draft |
+
+| Open Anki N1 782 | [解剖](entries/1199/1199270-kaibou.org) | かいぼう | 1199270 | new / draft |
+| Open Anki N1 783 | [外来](entries/1204/1204240-gairai.org) | がいらい | 1204240 | new / draft |
+| Open Anki N1 784 | [回覧](entries/1199/1199800-kairan.org) | かいらん | 1199800 | new / draft |
+| Open Anki N1 786 | [海流](entries/1201/1201820-kairyuu.org) | かいりゅう | 1201820 | new / draft |
+| Open Anki N1 787 | [改良](entries/1201/1201140-kairyou.org) | かいりょう | 1201140 | new / draft |
+| Open Anki N1 789 | [海路](entries/1201/1201830-kairo.org) | かいろ | 1201830 | new / draft |
+| Open Anki N1 791 | [顧みる](entries/1267/1267870-kaerimiru.org) | かえりみる | 1267870 | new / draft |
+| Open Anki N1 792 | [顔付き](entries/1217/1217850-kaotsuki.org) | かおつき | 1217850 | new / draft |
+| Open Anki N1 793 | [課外](entries/1195/1195750-kagai.org) | かがい | 1195750 | new / draft |
+| Open Anki N1 797 | [掻き回す](entries/1399/1399880-kakimawasu.org) | かきまわす | 1399880 | new / draft |
 
 ### Final audit
 
