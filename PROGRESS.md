@@ -5202,6 +5202,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 793 | [課外](entries/1195/1195750-kagai.org) | かがい | 1195750 | new / draft |
 | Open Anki N1 797 | [掻き回す](entries/1399/1399880-kakimawasu.org) | かきまわす | 1399880 | new / draft |
 
+| Open Anki N1 803 | [学士](entries/1206/1206760-gakushi.org) | がくし | 1206760 | new / draft |
+| Open Anki N1 804 | [各種](entries/1205/1205040-kakushu.org) | かくしゅ | 1205040 | new / draft |
+| Open Anki N1 805 | [隔週](entries/1607/1607110-kakushuu.org) | かくしゅう | 1607110 | new / draft |
+| Open Anki N1 806 | [確信](entries/1205/1205870-kakushin.org) | かくしん | 1205870 | new / draft |
+| Open Anki N1 807 | [革新](entries/1206/1206470-kakushin.org) | かくしん | 1206470 | new / draft |
+| Open Anki N1 808 | [学説](entries/1206/1206950-gakusetsu.org) | がくせつ | 1206950 | new / draft |
+| Open Anki N1 813 | [確保](entries/1205/1205920-kakuho.org) | かくほ | 1205920 | new / draft |
+| Open Anki N1 814 | [革命](entries/1206/1206500-kakumei.org) | かくめい | 1206500 | new / draft |
+| Open Anki N1 816 | [賭](entries/1590/1590040-kake.org) | かけ | 1590040 | new / draft |
+| Open Anki N1 819 | [崖](entries/1204/1204380-gake.org) | がけ | 1204380 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
