@@ -5257,6 +5257,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 900 | [感触](entries/1212/1212440-kanshoku.org) | かんしょく | 1212440 | new / draft |
 | Open Anki N1 901 | [肝心](entries/1590/1590870-kanjin.org) | かんじん | 1590870 | new / draft |
 
+| Open Anki N1 903 | [関税](entries/1215/1215930-kanzei.org) | かんぜい | 1215930 | new / draft |
+| Open Anki N1 906 | [幹線](entries/1212/1212140-kansen.org) | かんせん | 1212140 | new / draft |
+| Open Anki N1 907 | [簡素](entries/1214/1214300-kanso.org) | かんそ | 1214300 | new / draft |
+| Open Anki N1 909 | [感度](entries/1212/1212550-kando.org) | かんど | 1212550 | new / draft |
+| Open Anki N1 911 | [元年](entries/1261/1261020-gannen.org) | がんねん | 1261020 | new / draft |
+| Open Anki N1 912 | [幹部](entries/1212/1212170-kanbu.org) | かんぶ | 1212170 | new / draft |
+| Open Anki N1 913 | [完ぺき](entries/1590/1590970-kanpeki.org) | かんぺき | 1590970 | new / draft |
+| Open Anki N1 914 | [勘弁](entries/1210/1210870-kanben.org) | かんべん | 1210870 | new / draft |
+| Open Anki N1 915 | [感無量](entries/1212/1212620-kanmuryou.org) | かんむりょう | 1212620 | new / draft |
+| Open Anki N1 917 | [関与](entries/1216/1216050-kanyo.org) | かんよ | 1216050 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
