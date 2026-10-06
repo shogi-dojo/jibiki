@@ -5246,6 +5246,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 884 | [眼科](entries/1217/1217150-ganka.org) | がんか | 1217150 | new / draft |
 | Open Anki N1 885 | [眼球](entries/1217/1217180-gankyuu.org) | がんきゅう | 1217180 | new / draft |
 
+| Open Anki N1 886 | [玩具](entries/2863/2863107-gangu.org) | がんぐ | 2863107 | new / draft |
+| Open Anki N1 887 | [簡潔](entries/1214/1214290-kanketsu.org) | かんけつ | 1214290 | new / draft |
+| Open Anki N1 889 | [看護](entries/1213/1213810-kango.org) | かんご | 1213810 | new / draft |
+| Open Anki N1 890 | [漢語](entries/1213/1213150-kango.org) | かんご | 1213150 | new / draft |
+| Open Anki N1 892 | [勧告](entries/1210/1210970-kankoku.org) | かんこく | 1210970 | new / draft |
+| Open Anki N1 893 | [換算](entries/1212/1212820-kansan.org) | かんさん | 1212820 | new / draft |
+| Open Anki N1 896 | [観衆](entries/1214/1214930-kanshuu.org) | かんしゅう | 1214930 | new / draft |
+| Open Anki N1 899 | [頑丈](entries/1217/1217690-ganjou.org) | がんじょう | 1217690 | new / draft |
+| Open Anki N1 900 | [感触](entries/1212/1212440-kanshoku.org) | かんしょく | 1212440 | new / draft |
+| Open Anki N1 901 | [肝心](entries/1590/1590870-kanjin.org) | かんじん | 1590870 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
