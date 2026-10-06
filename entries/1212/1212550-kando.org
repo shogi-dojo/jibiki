@@ -1,0 +1,328 @@
+#+TITLE: 感度
+#+JMDICT_ID: 1212550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんど
+#+ROMAJI: kando
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1212550-001
+:PROPERTIES:
+:TEXT: 感度
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1212550-001
+:PROPERTIES:
+:TEXT: かんど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1212550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a984135762bbad01b19cbe70eb4a40104f9cdf08581dd79a1383b8edffdcf1f1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sensitivity (e.g. of a measuring instrument)
+- reception (radio, TV, etc.)
+** Ukrainian glosses
+*** uk-s-1212550-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чутливість (приладу), якість прийому (сигналу)
+** Learner notes
+*** note-s-1212550-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний термін на позначення здатності приймача, датчика чи антени вловлювати слабкі сигнали або зміни середовища: 受信感度 (чутливість прийому сигналу), 感度が良い (гарний прийом).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1212550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ラジオの受信感度を調整する。
+- READING :: らじおのじゅしんかんどをちょうせいする。
+- UK :: Налаштовувати якість прийому радіо.
+- EN :: Adjust the radio's reception sensitivity.
+- FOCUS :: 感度を
+*** ex-1212550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山間部に入ると電波の感度が急激に悪くなり、携帯電話が圏外になった。
+- READING :: さんかんぶにはいるとでんぱのかんどがきゅうげきにわるくなり、けいたいでんわがけんがいになった。
+- UK :: У гірській місцевості якість сигналу різко погіршилася, і мобільний телефон опинився поза зоною досяжності.
+- EN :: When entering the mountainous area, signal sensitivity deteriorated sharply and mobile phones went out of range.
+- FOCUS :: 感度が
+*** ex-1212550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 研究チームは微小な温度変化を高精度で検知できる新しいセンサーの感度向上に成功した。
+- READING :: けんきゅうちーむはびしょうなおんどへんかをこうせいどでけんちできるあたらしいせんさーのかんどこうじょうにせいこうした。
+- UK :: Дослідницька група успішно підвищила чутливість нового сенсора, здатного з високою точністю фіксувати найдрібніші зміни температури.
+- EN :: The research team succeeded in improving the sensitivity of a new sensor capable of detecting minute temperature changes with high accuracy.
+- FOCUS :: 感度向上に
+
+* Sense s-1212550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 23a25474c5690e7c6b2c8b7955c08f44763ad77c636b00cd7e3afe7ac228b824
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sensitivity (of film)
+** Ukrainian glosses
+*** uk-s-1212550-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: світлочутливість (фотоплівки або матриці, ISO)
+** Learner notes
+*** note-s-1212550-002-001
+:PROPERTIES:
+:END:
+- UK :: Фотографічний термін: ступінь чутливості емульсії плівки або цифрової матриці до світла: 高感度フィルム (високочутлива плівка), ISO感度 (чутливість ISO).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1212550-002-001
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗い室内で手ブレを防ぐため、カメラの感度を上げて撮影した。
+- READING :: くらいしつないでてぶれをふせぐため、かめらのかんどをあげてさつえいした。
+- UK :: Щоб уникнути тремтіння рук у темній кімнаті, я підняв світлочутливість камери й зробив знімок.
+- EN :: To prevent camera shake in the dark room, I raised the camera's sensitivity and took the shot.
+- FOCUS :: 感度を上げて
+
+* Sense s-1212550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a8e9d0c5e31d74202097ab4556a36ccf00d3909f75dddb3296545d4417488823
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {foto.} gevoeligheid
+*** en-s-1212550-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. radio} (kwaliteit van) ontvangst
+*** en-s-1212550-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. aardbevingen} intensiteit
+** Ukrainian glosses
+
+* Sense s-1212550-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: acfe9eb5db3328fc4820af47803562b9d4bfbe0ee9d212365c9e20da65f22d64
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Empfindlichkeit
+*** en-s-1212550-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sensibilität
+** Ukrainian glosses
+
+* Sense s-1212550-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dcd1c918c97cd4694415bd4cd163c6329fe512d5cedb3afd4498aedf65a2bc88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Empfindlichkeit (eines Films)
+** Ukrainian glosses
+
+* Sense s-1212550-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 808c8e48267088ca4fa88ec043b2c9728432e469f44282b82484612e2ca0e00f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komolyság
+*** en-s-1212550-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szigorúság
+*** en-s-1212550-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vadság
+*** en-s-1212550-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érzékenység
+** Ukrainian glosses
+
+* Sense s-1212550-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3b3a6c862964ff2f2f09d0f34c7a08dcf28205e18c976894b03ec5dc65ac0cae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чувствительность (напр. приёмника); сила (землетрясения с точки зрения переживших его)
+** Ukrainian glosses
+
+* Sense s-1212550-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 65d13c77ad07350919a2cc2ee53d18f6e001fc75126fd154d003453f1eb9e4a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: receptivnost {frekvence}
+*** en-s-1212550-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: senzibilnost
+*** en-s-1212550-008-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dovzetnost
+** Ukrainian glosses
+
+* Sense s-1212550-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7cd93c791b5297a7c51371af20a3c443896ffd83b040912cfaea06b66a961e33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212550-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sensibilidad
+*** en-s-1212550-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intensidad (terremoto)
+** Ukrainian glosses
