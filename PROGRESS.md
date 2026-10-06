@@ -5235,6 +5235,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 865 | [花粉](entries/1194/1194890-kafun.org) | かふん | 1194890 | new / draft |
 | Open Anki N1 866 | [貨幣](entries/1195/1195930-kahei.org) | かへい | 1195930 | new / draft |
 
+| Open Anki N1 867 | [構える](entries/1279/1279700-kamaeru.org) | かまえる | 1279700 | new / draft |
+| Open Anki N1 869 | [噛み切る](entries/1209/1209200-kamikiru.org) | かみきる | 1209200 | new / draft |
+| Open Anki N1 872 | [粥](entries/1209/1209350-kayu.org) | かゆ | 1209350 | new / draft |
+| Open Anki N1 873 | [体付き](entries/1409/1409680-karadatsuki.org) | からだつき | 1409680 | new / draft |
+| Open Anki N1 874 | [絡む](entries/1548/1548520-karamu.org) | からむ | 1548520 | new / draft |
+| Open Anki N1 878 | [過労](entries/1196/1196490-karou.org) | かろう | 1196490 | new / draft |
+| Open Anki N1 881 | [代る代る](entries/1590/1590830-kawarugawaru.org) | かわるがわる | 1590830 | new / draft |
+| Open Anki N1 882 | [簡易](entries/1214/1214270-kani.org) | かんい | 1214270 | new / draft |
+| Open Anki N1 884 | [眼科](entries/1217/1217150-ganka.org) | がんか | 1217150 | new / draft |
+| Open Anki N1 885 | [眼球](entries/1217/1217180-gankyuu.org) | がんきゅう | 1217180 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
