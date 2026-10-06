@@ -5279,6 +5279,17 @@ The selected continuation uses 400 Open Anki N1 candidates.
 | Open Anki N1 929 | [着飾る](entries/1423/1423080-kikazaru.org) | きかざる | 1423080 | new / draft |
 | Open Anki N1 930 | [気兼ね](entries/1222/1222120-kigane.org) | きがね | 1222120 | new / draft |
 
+| Open Anki N1 931 | [気軽](entries/1222/1222110-kigaru.org) | きがる | 1222110 | new / draft |
+| Open Anki N1 933 | [聞き取り](entries/1505/1505790-kikitori.org) | ききとり | 1505790 | new / draft |
+| Open Anki N1 934 | [効き目](entries/1591/1591070-kikime.org) | ききめ | 1591070 | new / draft |
+| Open Anki N1 935 | [帰京](entries/1221/1221310-kikyou.org) | ききょう | 1221310 | new / draft |
+| Open Anki N1 938 | [喜劇](entries/1218/1218810-kigeki.org) | きげき | 1218810 | new / draft |
+| Open Anki N1 939 | [議決](entries/1226/1226050-giketsu.org) | ぎけつ | 1226050 | new / draft |
+| Open Anki N1 940 | [棄権](entries/1220/1220670-kiken.org) | きけん | 1220670 | new / draft |
+| Open Anki N1 942 | [気障](entries/1222/1222310-kiza.org) | きざ | 1222310 | new / draft |
+| Open Anki N1 943 | [記載](entries/1223/1223230-kisai.org) | きさい | 1223230 | new / draft |
+| Open Anki N1 945 | [気質](entries/1222/1222250-kishitsu.org) | きしつ | 1222250 | new / draft |
+
 ### Final audit
 
 Completed on 2026-10-05: **400 distinct additions in 400 individual word
