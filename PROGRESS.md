@@ -4767,6 +4767,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 59 | 10 |
 | 60 | 10 |
 | 61 | 10 |
+| 62 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5432,6 +5433,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1135 | [同感](entries/1452/1452020-doukan.org) | どうかん | 1452020 | new / draft |
 | Open Anki N1 1136 | [陶器](entries/1450/1450610-touki.org) | とうき | 1450610 | new / draft |
 | Open Anki N1 1137 | [討議](entries/1449/1449960-tougi.org) | とうぎ | 1449960 | new / draft |
+
+| Open Anki N1 1139 | [等級](entries/1449/1449410-toukyuu.org) | とうきゅう | 1449410 | new / draft |
+| Open Anki N1 1140 | [同級](entries/1452/1452110-doukyuu.org) | どうきゅう | 1452110 | new / draft |
+| Open Anki N1 1141 | [同居](entries/1452/1452130-doukyo.org) | どうきょ | 1452130 | new / draft |
+| Open Anki N1 1142 | [登校](entries/1444/1444760-toukou.org) | とうこう | 1444760 | new / draft |
+| Open Anki N1 1147 | [道場](entries/1454/1454220-doujou.org) | どうじょう | 1454220 | new / draft |
+| Open Anki N1 1148 | [統制](entries/1449/1449820-tousei.org) | とうせい | 1449820 | new / draft |
+| Open Anki N1 1149 | [当選](entries/1449/1449180-tousen.org) | とうせん | 1449180 | new / draft |
+| Open Anki N1 1150 | [逃走](entries/1450/1450450-tousou.org) | とうそう | 1450450 | new / draft |
+| Open Anki N1 1151 | [統率](entries/1449/1449840-tousotsu.org) | とうそつ | 1449840 | new / draft |
+| Open Anki N1 1152 | [到達](entries/1449/1449860-toutatsu.org) | とうたつ | 1449860 | new / draft |
 
 ### Final audit
 
