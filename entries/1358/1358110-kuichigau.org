@@ -1,0 +1,551 @@
+#+TITLE: 食い違う
+#+JMDICT_ID: 1358110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くいちがう
+#+ROMAJI: kuichigau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1358110-001
+:PROPERTIES:
+:TEXT: 食い違う
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf37
+** Written form wf-1358110-002
+:PROPERTIES:
+:TEXT: 食違う
+:END:
+** Written form wf-1358110-003
+:PROPERTIES:
+:TEXT: くい違う
+:END:
+*** Information
+- sK
+** Written form wf-1358110-004
+:PROPERTIES:
+:TEXT: 食いちがう
+:END:
+*** Information
+- sK
+** Reading rd-1358110-001
+:PROPERTIES:
+:TEXT: くいちがう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf37
+
+* Sense s-1358110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ea0f69d2b632578cbaf785343a8f6d5a7d43e43f1759a7283e62d5e8896fff23
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+** English glosses
+- to not match well (e.g. at the seams)
+- to not mesh properly (of gears)
+** Ukrainian glosses
+*** uk-s-1358110-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: не сходитися; не збігатися на швах; заїдати (про зубці чи механізм)
+** Learner notes
+*** note-s-1358110-001-001
+:PROPERTIES:
+:END:
+- UK :: Буквальне розходження або нещільне прилягання фізичних деталей, зубців шестерень чи швів тканини, коли елементи не збігаються належним чином.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1358110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歯車の噛み合わせが食い違っている。
+- READING :: はぐるまのかみあわせがくいちがっている。
+- UK :: Зубці шестерень не зчіплюються як слід.
+- EN :: The meshing of the gears is out of alignment.
+- FOCUS :: 食い違っている
+*** ex-1358110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 裁断の寸法が狂っていたため、布地の縫い目が微妙に食い違ってしまった。
+- READING :: さいだんのすんぽうがくるっていたため、ぬのじのぬいめがびみょうにくいちがってしまった。
+- UK :: Через помилку в розмірах викрійки шви на тканині ледь помітно розійшлися.
+- EN :: Because the cutting dimensions were off, the fabric seams ended up slightly misaligned.
+- FOCUS :: 食い違ってしまった
+*** ex-1358110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い木造建築では、長年の湿気や乾燥により建具の接合部が食い違ってくることがある。
+- READING :: ふるいもくぞうけんちくでは、ながねんのしっきやかんそうによりたてぐのせつごうぶがくいちがってくることがある。
+- UK :: У старих дерев'яних будівлях через багаторічну вологість і всихання стики дверних і віконних рам часом перекошуються й перестають сходитися.
+- EN :: In old wooden architecture, the joints of fittings sometimes become misaligned due to years of humidity and drying.
+- FOCUS :: 食い違ってくる
+
+* Sense s-1358110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4f14530d67ab6267d9adf360d01356529303d5f0f2fdd82609a63161dc5bf151
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+** English glosses
+- to differ (e.g. of opinions)
+- to clash
+- to be in conflict (e.g. with the facts)
+- to run counter (to)
+- to be inconsistent (with)
+- to be contradictory
+** Ukrainian glosses
+*** uk-s-1358110-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розходитися (в поглядах); суперечити одне одному; не сходитися (про факти чи свідчення)
+** Learner notes
+*** note-s-1358110-002-001
+:PROPERTIES:
+:END:
+- UK :: Невідповідність між твердженнями різних людей, розбіжність думок або суперечність між словами й реальними фактами (наприклад, 証言が食い違う — свідчення не сходяться, 意見が食い違う — думки розходяться).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1358110-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二人の意見が大きく食い違った。
+- READING :: ふたりのいけんがおおきくくいちがった。
+- UK :: Думки двох людей кардинально розійшлися.
+- EN :: The opinions of the two people differed greatly.
+- FOCUS :: 食い違った
+*** ex-1358110-002-002
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 目撃者の証言と防犯カメラの映像が完全に食い違っていることが判明した。
+- READING :: もくげきしゃのしょうげんとぼうはんカメラのえいぞうがかんぜんにくいちがっていることがはんめいした。
+- UK :: З'ясувалося, що свідчення очевидця абсолютно розходяться із записом камери спостереження.
+- EN :: It was revealed that the eyewitness's testimony and the security camera footage contradicted each other completely.
+- FOCUS :: 食い違っている
+*** ex-1358110-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 労使交渉において双方が提示した要求条件が根本から食い違い、歩み寄りの糸口が見出せないまま交渉は決裂した。
+- READING :: ろうしこうしょうにおいてそうほうがていじしたようきゅうじょうけんがこんぽんからくいちがい、あゆみよりのいとぐちがみいだせないままこうしょうはけつれつした。
+- UK :: Під час переговорів між профспілкою та керівництвом висунуті обома сторонами вимоги докорінно розійшлися, і без жодної зачіпки для компромісу перемовини зірвалися.
+- EN :: In the labor-management negotiations, the demands presented by both sides fundamentally clashed, and the talks broke down without finding any clue for compromise.
+- FOCUS :: 根本から食い違い
+
+* Sense s-1358110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d4af249c201d5556ade6405503596f5ae3d654f1511154201101e9eab7c1725a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet bij elkaar passen
+*** en-s-1358110-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet corresponderen
+*** en-s-1358110-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet bij elkaar matchen
+** Ukrainian glosses
+
+* Sense s-1358110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: db9bce8373e2fd3a1b0fd58954742f714a4bad02711ae725006d41be28eecbe5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verschillen van
+*** en-s-1358110-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet overeenkomen met
+*** en-s-1358110-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet samengaan met
+*** en-s-1358110-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: botsen met
+*** en-s-1358110-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in strijd zijn met
+*** en-s-1358110-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strijden met
+*** en-s-1358110-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strijdig zijn met
+*** en-s-1358110-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: conflicteren met
+*** en-s-1358110-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: confligeren met
+*** en-s-1358110-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {話が～} langs elkaar heen praten
+** Ukrainian glosses
+
+* Sense s-1358110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fefbcaec64177b902e83edca933510d6e160c9776df77db887883f336c6cad9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: être en contradiction
+*** en-s-1358110-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: différer
+*** en-s-1358110-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diverger
+*** en-s-1358110-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: se contredire
+** Ukrainian glosses
+
+* Sense s-1358110-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 098f988423c263fc8d957163e1674418c1822a764755efcebce2b5392afa9841
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich kreuzen
+*** en-s-1358110-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ineinander greifen
+*** en-s-1358110-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: im Gegensatz stehen
+*** en-s-1358110-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nicht übereinstimmen
+*** en-s-1358110-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: im Widerspruch stehen
+*** en-s-1358110-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auseinandergehen
+** Ukrainian glosses
+
+* Sense s-1358110-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6decd1558ef7c33dd8917e8b556b2c2f53e114fc11c2b1173de52b427571cc59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: különbözik
+*** en-s-1358110-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenkezik
+*** en-s-1358110-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellentmond
+*** en-s-1358110-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összecsap
+*** en-s-1358110-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeüt
+*** en-s-1358110-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ütközik
+*** en-s-1358110-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zörög
+*** en-s-1358110-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rosszul megy
+** Ukrainian glosses
+
+* Sense s-1358110-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 66085d50a6983c1e19ea3488cd8fd065cd06f383306752bd8537f3bbb2c44fb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (тех.) скрещиваться, сцепляться
+*** en-s-1358110-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) расходиться, различаться (в чём-л.); противоречить (чему-л.); сталкиваться (с чем-л.)
+** Ukrainian glosses
+
+* Sense s-1358110-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 60c43f2cd32bad2602730946fec771042bb003de94758862b03b9e96a99663fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nasprotovati si
+*** en-s-1358110-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biti v nasprotju z
+** Ukrainian glosses
+
+* Sense s-1358110-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c27eb5cc89caa0f1ae95dccf02e6e41990ec153e5a814fd1df915f5f40a9f1c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358110-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: discrepar
+*** en-s-1358110-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estar en desacuerdo
+** Ukrainian glosses
