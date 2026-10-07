@@ -4758,6 +4758,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 50 | 10 |
 | 51 | 10 |
 | 52 | 10 |
+| 53 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5324,6 +5325,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 993 | [球根](entries/1229/1229950-kyuukon.org) | きゅうこん | 1229950 | new / draft |
 | Open Anki N1 995 | [給仕](entries/1230/1230240-kyuuji.org) | きゅうじ | 1230240 | new / draft |
 | Open Anki N1 996 | [給食](entries/1230/1230250-kyuushoku.org) | きゅうしょく | 1230250 | new / draft |
+
+| Open Anki N1 997 | [休戦](entries/1227/1227890-kyuusen.org) | きゅうせん | 1227890 | new / draft |
+| Open Anki N1 998 | [宮殿](entries/1228/1228470-kyuuden.org) | きゅうでん | 1228470 | new / draft |
+| Open Anki N1 999 | [旧知](entries/1231/1231060-kyuuchi.org) | きゅうち | 1231060 | new / draft |
+| Open Anki N1 1000 | [窮乏](entries/1230/1230120-kyuubou.org) | きゅうぼう | 1230120 | new / draft |
+| Open Anki N1 1001 | [寄与](entries/1219/1219810-kiyo.org) | きよ | 1219810 | new / draft |
+| Open Anki N1 1002 | [強](entries/2020/2020300-kyou.org) | きょう | 2020300 | new / draft |
+| Open Anki N1 1004 | [驚異](entries/1238/1238700-kyoui.org) | きょうい | 1238700 | new / draft |
+| Open Anki N1 1006 | [協会](entries/1235/1235550-kyoukai.org) | きょうかい | 1235550 | new / draft |
+| Open Anki N1 1007 | [共学](entries/1234/1234350-kyougaku.org) | きょうがく | 1234350 | new / draft |
+| Open Anki N1 1009 | [境遇](entries/1236/1236000-kyouguu.org) | きょうぐう | 1236000 | new / draft |
 
 ### Final audit
 
