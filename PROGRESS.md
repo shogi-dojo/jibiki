@@ -4766,6 +4766,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 58 | 10 |
 | 59 | 10 |
 | 60 | 10 |
+| 61 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5420,6 +5421,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1121 | [転ずる](entries/1441/1441050-tenzuru.org) | てんずる | 1441050 | new / draft |
 | Open Anki N1 1122 | [天体](entries/1439/1439740-tentai.org) | てんたい | 1439740 | new / draft |
 | Open Anki N1 1123 | [伝達](entries/1442/1442240-dentatsu.org) | でんたつ | 1442240 | new / draft |
+
+| Open Anki N1 1124 | [天地](entries/1582/1582090-tenchi.org) | てんち | 1582090 | new / draft |
+| Open Anki N1 1126 | [転任](entries/1441/1441320-tennin.org) | てんにん | 1441320 | new / draft |
+| Open Anki N1 1127 | [展望](entries/1440/1440640-tenbou.org) | てんぼう | 1440640 | new / draft |
+| Open Anki N1 1128 | [伝来](entries/1442/1442450-denrai.org) | でんらい | 1442450 | new / draft |
+| Open Anki N1 1129 | [転落](entries/1441/1441370-tenraku.org) | てんらく | 1441370 | new / draft |
+| Open Anki N1 1132 | [胴](entries/1454/1454010-dou.org) | どう | 1454010 | new / draft |
+| Open Anki N1 1133 | [同意](entries/1451/1451850-doui.org) | どうい | 1451850 | new / draft |
+| Open Anki N1 1135 | [同感](entries/1452/1452020-doukan.org) | どうかん | 1452020 | new / draft |
+| Open Anki N1 1136 | [陶器](entries/1450/1450610-touki.org) | とうき | 1450610 | new / draft |
+| Open Anki N1 1137 | [討議](entries/1449/1449960-tougi.org) | とうぎ | 1449960 | new / draft |
 
 ### Final audit
 
