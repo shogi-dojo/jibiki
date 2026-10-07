@@ -4768,6 +4768,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 60 | 10 |
 | 61 | 10 |
 | 62 | 10 |
+| 63 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5444,6 +5445,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1150 | [逃走](entries/1450/1450450-tousou.org) | とうそう | 1450450 | new / draft |
 | Open Anki N1 1151 | [統率](entries/1449/1449840-tousotsu.org) | とうそつ | 1449840 | new / draft |
 | Open Anki N1 1152 | [到達](entries/1449/1449860-toutatsu.org) | とうたつ | 1449860 | new / draft |
+
+| Open Anki N1 1153 | [統治](entries/1449/1449790-touchi.org) | とうち | 1449790 | new / draft |
+| Open Anki N1 1154 | [仕切る](entries/1305/1305180-shikiru.org) | しきる | 1305180 | new / draft |
+| Open Anki N1 1155 | [資金](entries/1312/1312700-shikin.org) | しきん | 1312700 | new / draft |
+| Open Anki N1 1156 | [軸](entries/1319/1319180-jiku.org) | じく | 1319180 | new / draft |
+| Open Anki N1 1162 | [思考](entries/1309/1309530-shikou.org) | しこう | 1309530 | new / draft |
+| Open Anki N1 1163 | [志向](entries/1309/1309110-shikou.org) | しこう | 1309110 | new / draft |
+| Open Anki N1 1164 | [嗜好](entries/1565/1565500-shikou.org) | しこう | 1565500 | new / draft |
+| Open Anki N1 1166 | [時刻表](entries/1316/1316230-jikokuhyou.org) | じこくひょう | 1316230 | new / draft |
+| Open Anki N1 1168 | [時差](entries/1316/1316240-jisa.org) | じさ | 1316240 | new / draft |
+| Open Anki N1 1169 | [自在](entries/1317/1317750-jizai.org) | じざい | 1317750 | new / draft |
 
 ### Final audit
 
