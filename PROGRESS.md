@@ -4777,6 +4777,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 69 | 10 |
 | 70 | 10 |
 | 71 | 10 |
+| 72 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5552,6 +5553,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1319 | [証言](entries/1351/1351640-shougen.org) | しょうげん | 1351640 | new / draft |
 | Open Anki N1 1321 | [照合](entries/1350/1350920-shougou.org) | しょうごう | 1350920 | new / draft |
 | Open Anki N1 1322 | [詳細](entries/1351/1351760-shousai.org) | しょうさい | 1351760 | new / draft |
+
+| Open Anki N1 1323 | [上昇](entries/1353/1353450-joushou.org) | じょうしょう | 1353450 | new / draft |
+| Open Anki N1 1326 | [情勢](entries/1356/1356320-jousei.org) | じょうせい | 1356320 | new / draft |
+| Open Anki N1 1327 | [消息](entries/1350/1350250-shousoku.org) | しょうそく | 1350250 | new / draft |
+| Open Anki N1 1328 | [承諾](entries/1349/1349470-shoudaku.org) | しょうだく | 1349470 | new / draft |
+| Open Anki N1 1331 | [象徴](entries/1351/1351900-shouchou.org) | しょうちょう | 1351900 | new / draft |
+| Open Anki N1 1332 | [小児科](entries/1348/1348200-shounika.org) | しょうにか | 1348200 | new / draft |
+| Open Anki N1 1333 | [使用人](entries/1306/1306280-shiyounin.org) | しようにん | 1306280 | new / draft |
+| Open Anki N1 1338 | [上陸](entries/1354/1354480-jouriku.org) | じょうりく | 1354480 | new / draft |
+| Open Anki N1 1340 | [奨励](entries/1347/1347550-shourei.org) | しょうれい | 1347550 | new / draft |
+| Open Anki N1 1341 | [ショー](entries/1062/1062240-shoo.org) | ショー | 1062240 | new / draft |
 
 ### Final audit
 
