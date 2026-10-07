@@ -4775,6 +4775,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 67 | 10 |
 | 68 | 10 |
 | 69 | 10 |
+| 70 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5528,6 +5529,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1279 | [意気込む](entries/1156/1156450-ikigomu.org) | いきごむ | 1156450 | new / draft |
 | Open Anki N1 1280 | [育成](entries/1587/1587150-ikusei.org) | いくせい | 1587150 | new / draft |
 | Open Anki N1 1281 | [幾多](entries/1220/1220040-ikuta.org) | いくた | 1220040 | new / draft |
+
+| Open Anki N1 1283 | [異見](entries/1157/1157640-iken.org) | いけん | 1157640 | new / draft |
+| Open Anki N1 1287 | [移住](entries/1158/1158280-ijuu.org) | いじゅう | 1158280 | new / draft |
+| Open Anki N1 1288 | [衣装](entries/1158/1158760-ishou.org) | いしょう | 1158760 | new / draft |
+| Open Anki N1 1290 | [異性](entries/1157/1157860-isei.org) | いせい | 1157860 | new / draft |
+| Open Anki N1 1296 | [出題](entries/1339/1339620-shutsudai.org) | しゅつだい | 1339620 | new / draft |
+| Open Anki N1 1297 | [出動](entries/1339/1339880-shutsudou.org) | しゅつどう | 1339880 | new / draft |
+| Open Anki N1 1299 | [出品](entries/1340/1340190-shuppin.org) | しゅっぴん | 1340190 | new / draft |
+| Open Anki N1 1301 | [主任](entries/1326/1326040-shunin.org) | しゅにん | 1326040 | new / draft |
+| Open Anki N1 1303 | [守備](entries/1327/1327180-shubi.org) | しゅび | 1327180 | new / draft |
+| Open Anki N1 1305 | [樹木](entries/1330/1330400-jumoku.org) | じゅもく | 1330400 | new / draft |
 
 ### Final audit
 
