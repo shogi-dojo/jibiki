@@ -4757,6 +4757,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 49 | 10 |
 | 50 | 10 |
 | 51 | 10 |
+| 52 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5312,6 +5313,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 973 | [気風](entries/1222/1222580-kifuu.org) | きふう | 1222580 | new / draft |
 | Open Anki N1 974 | [起伏](entries/1223/1223930-kifuku.org) | きふく | 1223930 | new / draft |
 | Open Anki N1 977 | [生真面目](entries/1379/1379150-kimajime.org) | きまじめ | 1379150 | new / draft |
+
+| Open Anki N1 978 | [期末](entries/1220/1220620-kimatsu.org) | きまつ | 1220620 | new / draft |
+| Open Anki N1 980 | [記名](entries/1223/1223430-kimei.org) | きめい | 1223430 | new / draft |
+| Open Anki N1 982 | [脚色](entries/1226/1226830-kyakushoku.org) | きゃくしょく | 1226830 | new / draft |
+| Open Anki N1 985 | [華奢](entries/1195/1195660-kyasha.org) | きゃしゃ | 1195660 | new / draft |
+| Open Anki N1 990 | [休学](entries/1227/1227660-kyuugaku.org) | きゅうがく | 1227660 | new / draft |
+| Open Anki N1 991 | [究極](entries/1230/1230040-kyuukyoku.org) | きゅうきょく | 1230040 | new / draft |
+| Open Anki N1 992 | [窮屈](entries/1230/1230080-kyuukutsu.org) | きゅうくつ | 1230080 | new / draft |
+| Open Anki N1 993 | [球根](entries/1229/1229950-kyuukon.org) | きゅうこん | 1229950 | new / draft |
+| Open Anki N1 995 | [給仕](entries/1230/1230240-kyuuji.org) | きゅうじ | 1230240 | new / draft |
+| Open Anki N1 996 | [給食](entries/1230/1230250-kyuushoku.org) | きゅうしょく | 1230250 | new / draft |
 
 ### Final audit
 
