@@ -4756,6 +4756,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 48 | 10 |
 | 49 | 10 |
 | 50 | 10 |
+| 51 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5300,6 +5301,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 957 | [貴族](entries/1223/1223550-kizoku.org) | きぞく | 1223550 | new / draft |
 | Open Anki N1 958 | [議題](entries/1226/1226130-gidai.org) | ぎだい | 1226130 | new / draft |
 | Open Anki N1 960 | [気立て](entries/1222/1222670-kidate.org) | きだて | 1222670 | new / draft |
+
+| Open Anki N1 961 | [来る](entries/1591/1591270-kitaru.org) | きたる | 1591270 | new / draft |
+| Open Anki N1 963 | [几帳面](entries/1564/1564360-kichoumen.org) | きちょうめん | 1564360 | new / draft |
+| Open Anki N1 967 | [規定](entries/1223/1223060-kitei.org) | きてい | 1223060 | new / draft |
+| Open Anki N1 968 | [起点](entries/1223/1223860-kiten.org) | きてん | 1223860 | new / draft |
+| Open Anki N1 969 | [軌道](entries/1223/1223980-kidou.org) | きどう | 1223980 | new / draft |
+| Open Anki N1 970 | [技能](entries/1225/1225230-ginou.org) | ぎのう | 1225230 | new / draft |
+| Open Anki N1 972 | [気品](entries/1222/1222540-kihin.org) | きひん | 1222540 | new / draft |
+| Open Anki N1 973 | [気風](entries/1222/1222580-kifuu.org) | きふう | 1222580 | new / draft |
+| Open Anki N1 974 | [起伏](entries/1223/1223930-kifuku.org) | きふく | 1223930 | new / draft |
+| Open Anki N1 977 | [生真面目](entries/1379/1379150-kimajime.org) | きまじめ | 1379150 | new / draft |
 
 ### Final audit
 
