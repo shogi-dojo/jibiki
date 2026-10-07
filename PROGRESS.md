@@ -4772,6 +4772,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 64 | 10 |
 | 65 | 10 |
 | 66 | 10 |
+| 67 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5492,6 +5493,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1214 | [焦る](entries/1350/1350780-aseru.org) | あせる | 1350780 | new / draft |
 | Open Anki N1 1218 | [悪化](entries/1151/1151470-akka.org) | あっか | 1151470 | new / draft |
 | Open Anki N1 1219 | [扱い](entries/1153/1153430-atsukai.org) | あつかい | 1153430 | new / draft |
+
+| Open Anki N1 1220 | [呆気ない](entries/1515/1515600-akkenai.org) | あっけない | 1515600 | new / draft |
+| Open Anki N1 1223 | [圧倒](entries/1153/1153260-attou.org) | あっとう | 1153260 | new / draft |
+| Open Anki N1 1227 | [当て](entries/1448/1448820-ate.org) | あて | 1448820 | new / draft |
+| Open Anki N1 1229 | [当て字](entries/1448/1448890-ateji.org) | あてじ | 1448890 | new / draft |
+| Open Anki N1 1230 | [跡継ぎ](entries/1383/1383690-atotsugi.org) | あとつぎ | 1383690 | new / draft |
+| Open Anki N1 1232 | [油絵](entries/1538/1538630-aburae.org) | あぶらえ | 1538630 | new / draft |
+| Open Anki N1 1236 | [雨具](entries/1171/1171940-amagu.org) | あまぐ | 1171940 | new / draft |
+| Open Anki N1 1237 | [甘口](entries/1213/1213510-amakuchi.org) | あまくち | 1213510 | new / draft |
+| Open Anki N1 1239 | [網](entries/1534/1534380-ami.org) | あみ | 1534380 | new / draft |
+| Open Anki N1 1241 | [危ぶむ](entries/1218/1218410-ayabumu.org) | あやぶむ | 1218410 | new / draft |
 
 ### Final audit
 
