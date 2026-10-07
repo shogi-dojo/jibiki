@@ -1,0 +1,374 @@
+#+TITLE: 電源
+#+JMDICT_ID: 1443220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんげん
+#+ROMAJI: dengen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443220-001
+:PROPERTIES:
+:TEXT: 電源
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Reading rd-1443220-001
+:PROPERTIES:
+:TEXT: でんげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1443220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8898a2a0597435332a93eb59be27e70065e3dc358b30e4207ea2bedd9a22dfc7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- source of electricity
+- electrical power
+** Ukrainian glosses
+*** uk-s-1443220-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: джерело живлення; електропостачання; мережа електроживлення
+** Learner notes
+*** note-s-1443220-001-001
+:PROPERTIES:
+:END:
+- UK :: Джерело отримання електричного струму (генератор, електростанція, акумулятор чи електромережа) (наприклад, 電源プラグ — вилка живлення, 電源開発 — розвиток електроенергетики).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1443220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 停電に備えて非常用電源を準備する。
+- READING :: ていでんにそなえてひじょうようでんげんをじゅんびする。
+- UK :: Підготувати аварійне джерело електроживлення на випадок відключення світла.
+- EN :: Prepare an emergency power source in preparation for power outages.
+- FOCUS :: 非常用電源
+*** ex-1443220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 再生可能エネルギーを主な電源として活用する動きが、世界各地の自治体で急速に広がっている。
+- READING :: さいせいかのうエネルギーをおもなでんげんとしてかつようするうごきが、せかいかくちのじちたいできゅうそくにひろがっている。
+- UK :: Рух за використання відновлюваних джерел енергії як основного джерела живлення стрімко поширюється серед муніципалітетів по всьому світу.
+- EN :: The movement to utilize renewable energy as the main power source is rapidly spreading across municipalities worldwide.
+- FOCUS :: 主な電源
+*** ex-1443220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 病院の集中治療室では、落雷や災害による突然の停電時にも瞬時に無停電電源装置へと切り替わる仕組みが整えられている。
+- READING :: びょういんのしゅうちゅうちりょうしつでは、らくらいやさいがいによるとつぜんのていでんじにもしゅんじにむていでんでんげんそうちへときりかわるしくみがととのえられている。
+- UK :: У відділеннях інтенсивної терапії лікарень налагоджено систему, що миттєво перемикається на блоки безперебійного живлення навіть у разі раптового знеструмлення через удар блискавки чи стихійне лихо.
+- EN :: In hospital intensive care units, a mechanism is established to instantly switch to uninterruptible power supply devices even during sudden power outages caused by lightning strikes or disasters.
+- FOCUS :: 電源装置
+
+* Sense s-1443220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c01964800fd0146bf54fb7a4f96888847dc4be5208bd781dfccb99510ab698a9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- power (button on TV, etc.)
+** Ukrainian glosses
+*** uk-s-1443220-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: кнопка живлення; перемикач увімкнення; живлення приладу
+** Learner notes
+*** note-s-1443220-002-001
+:PROPERTIES:
+:END:
+- UK :: Кнопка, вимикач або функція подачі живлення на електронному пристрої (наприклад, 電源を切る — вимкнути прилад, 電源を入れる — увімкнути живлення).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1443220-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: パソコンの電源を切る。
+- READING :: パソコンのでんげんをきる。
+- UK :: Вимкнути живлення комп'ютера.
+- EN :: Turn off the computer's power.
+- FOCUS :: 電源を切る
+*** ex-1443220-002-002
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: スマートフォンの動作が不安定になったときは、一度電源を落として再起動すると改善することがある。
+- READING :: スマートフォンのどうさがふあんていになったときは、いちどでんげんをおとしてさいきどうするとかいぜんすることがある。
+- UK :: Якщо смартфон працює зі збоями, ситуацію часто можна виправити, повністю вимкнувши живлення та перезавантаживши його.
+- EN :: When your smartphone acts up, turning off the power once and restarting it sometimes improves the issue.
+- FOCUS :: 電源を落として
+
+* Sense s-1443220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b034bdc21054d1687dd5df35370ba34585abebd80c45a676552ace4ff9df700e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} elektrische bron
+*** en-s-1443220-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bron van energie
+*** en-s-1443220-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: energiebron
+*** en-s-1443220-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krachtbron
+*** en-s-1443220-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stroombron
+*** en-s-1443220-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} stroom
+** Ukrainian glosses
+
+* Sense s-1443220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cfe78c31b0cb28bf48096be32f675deb3ea12a4543f8410130877019cb464975
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} contactdoos
+*** en-s-1443220-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stopcontact
+*** en-s-1443220-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: netvoeding
+** Ukrainian glosses
+
+* Sense s-1443220-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 07ac89c460a82606efb92deb1c092dab0355cfe674dafb287706f7d69405dd44
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marche (bouton de TV, etc)
+*** en-s-1443220-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: source d'électricité
+** Ukrainian glosses
+
+* Sense s-1443220-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 45c11ed1abcdd3bcf583b1ffa0bfc33d8fc24e7e7c8a7663447ca721b67610c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stromquelle
+*** en-s-1443220-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kraftquelle
+** Ukrainian glosses
+
+* Sense s-1443220-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6f0d88d3e31049577335d43cc033ba3ab5732619eb2ce6b0ce7bbf14b0337e50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erő
+*** en-s-1443220-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramforrás
+** Ukrainian glosses
+
+* Sense s-1443220-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 507f9d141b72d0af8d5f40d0731839d3fc10bff396e34a36e0ad2b521121301f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) источник электроэнергии (тока); (эл.) питание
+*** en-s-1443220-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) энергетические ресурсы
+** Ukrainian glosses
+
+* Sense s-1443220-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2fb15b4ed0e99acf9e9c577cabecc19b61bc2769d4941ed2c57b82186b8bff6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izvor električne energije (npr. stikalo, gumb na TV)
+** Ukrainian glosses
+
+* Sense s-1443220-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ac59cdda861a39aaff72b919c3f826410bcdd4d9f6fac45a0b775ab0c7fd0cbb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443220-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fuente de energía eléctrica
+** Ukrainian glosses
