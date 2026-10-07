@@ -4781,6 +4781,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 73 | 10 |
 | 74 | 10 |
 | 75 | 10 |
+| 76 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5600,6 +5601,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1376 | [真実](entries/1363/1363780-shinjitsu.org) | しんじつ | 1363780 | new / draft |
 | Open Anki N1 1378 | [真珠](entries/1363/1363810-shinju.org) | しんじゅ | 1363810 | new / draft |
 | Open Anki N1 1379 | [進出](entries/1366/1366080-shinshutsu.org) | しんしゅつ | 1366080 | new / draft |
+
+| Open Anki N1 1380 | [心情](entries/1360/1360720-shinjou.org) | しんじょう | 1360720 | new / draft |
+| Open Anki N1 1383 | [親善](entries/1365/1365260-shinzen.org) | しんぜん | 1365260 | new / draft |
+| Open Anki N1 1384 | [真相](entries/1364/1364110-shinsou.org) | しんそう | 1364110 | new / draft |
+| Open Anki N1 1385 | [迅速](entries/1370/1370160-jinsoku.org) | じんそく | 1370160 | new / draft |
+| Open Anki N1 1386 | [人体](entries/1368/1368670-jintai.org) | じんたい | 1368670 | new / draft |
+| Open Anki N1 1388 | [心中](entries/1360/1360840-shinjuu.org) | しんじゅう | 1360840 | new / draft |
+| Open Anki N1 1389 | [進呈](entries/1366/1366150-shintei.org) | しんてい | 1366150 | new / draft |
+| Open Anki N1 1391 | [神殿](entries/1364/1364770-shinden.org) | しんでん | 1364770 | new / draft |
+| Open Anki N1 1392 | [進度](entries/1366/1366170-shindo.org) | しんど | 1366170 | new / draft |
+| Open Anki N1 1394 | [新入生](entries/1362/1362270-shinnyuusei.org) | しんにゅうせい | 1362270 | new / draft |
 
 ### Final audit
 
