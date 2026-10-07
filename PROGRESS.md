@@ -4783,6 +4783,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 75 | 10 |
 | 76 | 10 |
 | 77 | 10 |
+| 78 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5624,6 +5625,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1406 | [水田](entries/1371/1371890-suiden.org) | すいでん | 1371890 | new / draft |
 | Open Anki N1 1407 | [推理](entries/1371/1371220-suiri.org) | すいり | 1371220 | new / draft |
 | Open Anki N1 1408 | [数詞](entries/1373/1373050-suushi.org) | すうし | 1373050 | new / draft |
+
+| Open Anki N1 1410 | [据え付ける](entries/1373/1373500-suetsukeru.org) | すえつける | 1373500 | new / draft |
+| Open Anki N1 1413 | [救い](entries/1229/1229030-sukui.org) | すくい | 1229030 | new / draft |
+| Open Anki N1 1416 | [濯ぐ](entries/1581/1581550-susugu.org) | すすぐ | 1581550 | new / draft |
+| Open Anki N1 1417 | [進み](entries/1365/1365960-susumi.org) | すすみ | 1365960 | new / draft |
+| Open Anki N1 1419 | [スタジオ](entries/1069/1069590-sutajio.org) | スタジオ | 1069590 | new / draft |
+| Open Anki N1 1420 | [スチーム](entries/1070/1070050-suchiimu.org) | スチーム | 1070050 | new / draft |
+| Open Anki N1 1421 | [ストライキ](entries/1071/1071180-sutoraiki.org) | ストライキ | 1071180 | new / draft |
+| Open Anki N1 1422 | [スト](entries/1070/1070780-suto.org) | スト | 1070780 | new / draft |
+| Open Anki N1 1423 | [ストロー](entries/1071/1071540-sutoroo.org) | ストロー | 1071540 | new / draft |
+| Open Anki N1 1424 | [ストロボ](entries/1071/1071600-sutorobo.org) | ストロボ | 1071600 | new / draft |
 
 ### Final audit
 
