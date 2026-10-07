@@ -4761,6 +4761,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 53 | 10 |
 | 54 | 10 |
 | 55 | 10 |
+| 56 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5360,6 +5361,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1033 | [極端](entries/1240/1240380-kyokutan.org) | きょくたん | 1240380 | new / draft |
 | Open Anki N1 1034 | [居住](entries/1231/1231810-kyojuu.org) | きょじゅう | 1231810 | new / draft |
 | Open Anki N1 1035 | [拒絶](entries/1232/1232390-kyozetsu.org) | きょぜつ | 1232390 | new / draft |
+
+| Open Anki N1 1036 | [漁船](entries/1233/1233050-gyosen.org) | ぎょせん | 1233050 | new / draft |
+| Open Anki N1 1037 | [漁村](entries/1233/1233060-gyoson.org) | ぎょそん | 1233060 | new / draft |
+| Open Anki N1 1039 | [許容](entries/1232/1232910-kyoyou.org) | きょよう | 1232910 | new / draft |
+| Open Anki N1 1040 | [清らか](entries/1378/1378180-kiyoraka.org) | きよらか | 1378180 | new / draft |
+| Open Anki N1 1043 | [義理](entries/1225/1225920-giri.org) | ぎり | 1225920 | new / draft |
+| Open Anki N1 1044 | [切替](entries/1591/1591760-kirikae.org) | きりかえ | 1591760 | new / draft |
+| Open Anki N1 1045 | [気流](entries/1222/1222680-kiryuu.org) | きりゅう | 1222680 | new / draft |
+| Open Anki N1 1046 | [切れ目](entries/1591/1591930-kireme.org) | きれめ | 1591930 | new / draft |
+| Open Anki N1 1047 | [疑惑](entries/1225/1225680-giwaku.org) | ぎわく | 1225680 | new / draft |
+| Open Anki N1 1049 | [近眼](entries/1242/1242220-kingan.org) | きんがん | 1242220 | new / draft |
 
 ### Final audit
 
