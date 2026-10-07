@@ -4785,6 +4785,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 77 | 10 |
 | 78 | 10 |
 | 79 | 10 |
+| 80 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5648,6 +5649,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1436 | [スラックス](entries/1073/1073780-surakkusu.org) | スラックス | 1073780 | new / draft |
 | Open Anki N1 1437 | [ずらっと](entries/1006/1006430-zuratto.org) | ずらっと | 1006430 | new / draft |
 | Open Anki N1 1438 | [ずるずる](entries/1006/1006440-zuruzuru.org) | ずるずる | 1006440 | new / draft |
+
+| Open Anki N1 1439 | [ずれ](entries/1006/1006450-zure.org) | ずれ | 1006450 | new / draft |
+| Open Anki N1 1441 | [擦れる](entries/1595/1595930-sureru.org) | すれる | 1595930 | new / draft |
+| Open Anki N1 1442 | [すんなり](entries/1006/1006320-sunnari.org) | すんなり | 1006320 | new / draft |
+| Open Anki N1 1443 | [生育](entries/1378/1378800-seiiku.org) | せいいく | 1378800 | new / draft |
+| Open Anki N1 1444 | [成育](entries/1375/1375640-seiiku.org) | せいいく | 1375640 | new / draft |
+| Open Anki N1 1446 | [正解](entries/1376/1376740-seikai.org) | せいかい | 1376740 | new / draft |
+| Open Anki N1 1449 | [政権](entries/1375/1375930-seiken.org) | せいけん | 1375930 | new / draft |
+| Open Anki N1 1450 | [星座](entries/1376/1376360-seiza.org) | せいざ | 1376360 | new / draft |
+| Open Anki N1 1451 | [制裁](entries/1374/1374800-seisai.org) | せいさい | 1374800 | new / draft |
+| Open Anki N1 1454 | [静止](entries/1381/1381870-seishi.org) | せいし | 1381870 | new / draft |
 
 ### Final audit
 
