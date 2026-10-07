@@ -4774,6 +4774,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 66 | 10 |
 | 67 | 10 |
 | 68 | 10 |
+| 69 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5516,6 +5517,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1254 | [有り様](entries/1541/1541060-arisama.org) | ありさま | 1541060 | new / draft |
 | Open Anki N1 1260 | [合わす](entries/1284/1284460-awasu.org) | あわす | 1284460 | new / draft |
 | Open Anki N1 1263 | [暗殺](entries/1154/1154520-ansatsu.org) | あんさつ | 1154520 | new / draft |
+
+| Open Anki N1 1264 | [暗算](entries/1154/1154540-anzan.org) | あんざん | 1154540 | new / draft |
+| Open Anki N1 1265 | [暗示](entries/1154/1154550-anji.org) | あんじ | 1154550 | new / draft |
+| Open Anki N1 1266 | [案じる](entries/1154/1154780-anjiru.org) | あんじる | 1154780 | new / draft |
+| Open Anki N1 1267 | [安静](entries/1153/1153910-ansei.org) | あんせい | 1153910 | new / draft |
+| Open Anki N1 1269 | [いい加減](entries/1277/1277440-iikagen.org) | いいかげん | 1277440 | new / draft |
+| Open Anki N1 1272 | [家出](entries/1192/1192030-iede.org) | いえで | 1192030 | new / draft |
+| Open Anki N1 1278 | [行き違い](entries/1578/1578800-ikichigai.org) | いきちがい | 1578800 | new / draft |
+| Open Anki N1 1279 | [意気込む](entries/1156/1156450-ikigomu.org) | いきごむ | 1156450 | new / draft |
+| Open Anki N1 1280 | [育成](entries/1587/1587150-ikusei.org) | いくせい | 1587150 | new / draft |
+| Open Anki N1 1281 | [幾多](entries/1220/1220040-ikuta.org) | いくた | 1220040 | new / draft |
 
 ### Final audit
 
