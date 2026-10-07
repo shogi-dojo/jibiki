@@ -4773,6 +4773,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 65 | 10 |
 | 66 | 10 |
 | 67 | 10 |
+| 68 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5504,6 +5505,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1237 | [甘口](entries/1213/1213510-amakuchi.org) | あまくち | 1213510 | new / draft |
 | Open Anki N1 1239 | [網](entries/1534/1534380-ami.org) | あみ | 1534380 | new / draft |
 | Open Anki N1 1241 | [危ぶむ](entries/1218/1218410-ayabumu.org) | あやぶむ | 1218410 | new / draft |
+
+| Open Anki N1 1243 | [過ち](entries/1196/1196010-ayamachi.org) | あやまち | 1196010 | new / draft |
+| Open Anki N1 1245 | [歩み](entries/1514/1514330-ayumi.org) | あゆみ | 1514330 | new / draft |
+| Open Anki N1 1246 | [歩む](entries/1514/1514360-ayumu.org) | あゆむ | 1514360 | new / draft |
+| Open Anki N1 1248 | [荒らす](entries/1281/1281480-arasu.org) | あらす | 1281480 | new / draft |
+| Open Anki N1 1249 | [争い](entries/1400/1400560-arasoi.org) | あらそい | 1400560 | new / draft |
+| Open Anki N1 1250 | [改まる](entries/1200/1200730-aratamaru.org) | あらたまる | 1200730 | new / draft |
+| Open Anki N1 1253 | [霰](entries/1574/1574100-arare.org) | あられ | 1574100 | new / draft |
+| Open Anki N1 1254 | [有り様](entries/1541/1541060-arisama.org) | ありさま | 1541060 | new / draft |
+| Open Anki N1 1260 | [合わす](entries/1284/1284460-awasu.org) | あわす | 1284460 | new / draft |
+| Open Anki N1 1263 | [暗殺](entries/1154/1154520-ansatsu.org) | あんさつ | 1154520 | new / draft |
 
 ### Final audit
 
