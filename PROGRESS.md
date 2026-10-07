@@ -4770,6 +4770,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 62 | 10 |
 | 63 | 10 |
 | 64 | 10 |
+| 65 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5468,6 +5469,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1183 | [子息](entries/1307/1307980-shisoku.org) | しそく | 1307980 | new / draft |
 | Open Anki N1 1184 | [持続](entries/1315/1315810-jizoku.org) | じぞく | 1315810 | new / draft |
 | Open Anki N1 1187 | [下心](entries/1185/1185450-shitagokoro.org) | したごころ | 1185450 | new / draft |
+
+| Open Anki N1 1188 | [下地](entries/1185/1185920-shitaji.org) | したじ | 1185920 | new / draft |
+| Open Anki N1 1189 | [親しむ](entries/1365/1365070-shitashimu.org) | したしむ | 1365070 | new / draft |
+| Open Anki N1 1190 | [下調べ](entries/1185/1185970-shitashirabe.org) | したしらべ | 1185970 | new / draft |
+| Open Anki N1 1191 | [愛想](entries/1575/1575660-aiso.org) | あいそう | 1575660 | new / draft |
+| Open Anki N1 1192 | [間柄](entries/1215/1215660-aidagara.org) | あいだがら | 1215660 | new / draft |
+| Open Anki N1 1196 | [垢](entries/1277/1277420-aka.org) | あか | 1277420 | new / draft |
+| Open Anki N1 1198 | [明かす](entries/1532/1532220-akasu.org) | あかす | 1532220 | new / draft |
+| Open Anki N1 1199 | [赤らむ](entries/1383/1383280-akaramu.org) | あからむ | 1383280 | new / draft |
+| Open Anki N1 1200 | [上がり](entries/1352/1352190-agari.org) | あがり | 1352190 | new / draft |
+| Open Anki N1 1201 | [諦め](entries/1436/1436720-akirame.org) | あきらめ | 1436720 | new / draft |
 
 ### Final audit
 
