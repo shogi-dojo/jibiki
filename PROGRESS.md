@@ -4780,6 +4780,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 72 | 10 |
 | 73 | 10 |
 | 74 | 10 |
+| 75 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5588,6 +5589,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1362 | [所有](entries/1343/1343390-shoyuu.org) | しょゆう | 1343390 | new / draft |
 | Open Anki N1 1363 | [調べ](entries/1429/1429050-shirabe.org) | しらべ | 1429050 | new / draft |
 | Open Anki N1 1365 | [記す](entries/1223/1223140-shirusu.org) | しるす | 1223140 | new / draft |
+
+| Open Anki N1 1366 | [指令](entries/1310/1310060-shirei.org) | しれい | 1310060 | new / draft |
+| Open Anki N1 1368 | [陣](entries/1956/1956490-jin.org) | じん | 1956490 | new / draft |
+| Open Anki N1 1369 | [進化](entries/1366/1366000-shinka.org) | しんか | 1366000 | new / draft |
+| Open Anki N1 1371 | [審議](entries/1360/1360360-shingi.org) | しんぎ | 1360360 | new / draft |
+| Open Anki N1 1372 | [新婚](entries/1361/1361820-shinkon.org) | しんこん | 1361820 | new / draft |
+| Open Anki N1 1373 | [審査](entries/1360/1360380-shinsa.org) | しんさ | 1360380 | new / draft |
+| Open Anki N1 1375 | [紳士](entries/1364/1364950-shinshi.org) | しんし | 1364950 | new / draft |
+| Open Anki N1 1376 | [真実](entries/1363/1363780-shinjitsu.org) | しんじつ | 1363780 | new / draft |
+| Open Anki N1 1378 | [真珠](entries/1363/1363810-shinju.org) | しんじゅ | 1363810 | new / draft |
+| Open Anki N1 1379 | [進出](entries/1366/1366080-shinshutsu.org) | しんしゅつ | 1366080 | new / draft |
 
 ### Final audit
 
