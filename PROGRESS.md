@@ -4769,6 +4769,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 61 | 10 |
 | 62 | 10 |
 | 63 | 10 |
+| 64 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5456,6 +5457,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1166 | [時刻表](entries/1316/1316230-jikokuhyou.org) | じこくひょう | 1316230 | new / draft |
 | Open Anki N1 1168 | [時差](entries/1316/1316240-jisa.org) | じさ | 1316240 | new / draft |
 | Open Anki N1 1169 | [自在](entries/1317/1317750-jizai.org) | じざい | 1317750 | new / draft |
+
+| Open Anki N1 1170 | [視察](entries/1312/1312040-shisatsu.org) | しさつ | 1312040 | new / draft |
+| Open Anki N1 1173 | [自主](entries/1317/1317860-jishu.org) | じしゅ | 1317860 | new / draft |
+| Open Anki N1 1174 | [自首](entries/1317/1317890-jishu.org) | じしゅ | 1317890 | new / draft |
+| Open Anki N1 1177 | [辞職](entries/1318/1318980-jishoku.org) | じしょく | 1318980 | new / draft |
+| Open Anki N1 1178 | [雫](entries/1437/1437210-shizuku.org) | しずく | 1437210 | new / draft |
+| Open Anki N1 1180 | [沈める](entries/1431/1431680-shizumeru.org) | しずめる | 1431680 | new / draft |
+| Open Anki N1 1182 | [事前](entries/1314/1314050-jizen.org) | じぜん | 1314050 | new / draft |
+| Open Anki N1 1183 | [子息](entries/1307/1307980-shisoku.org) | しそく | 1307980 | new / draft |
+| Open Anki N1 1184 | [持続](entries/1315/1315810-jizoku.org) | じぞく | 1315810 | new / draft |
+| Open Anki N1 1187 | [下心](entries/1185/1185450-shitagokoro.org) | したごころ | 1185450 | new / draft |
 
 ### Final audit
 
