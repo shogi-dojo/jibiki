@@ -4779,6 +4779,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 71 | 10 |
 | 72 | 10 |
 | 73 | 10 |
+| 74 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5576,6 +5577,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1350 | [所持](entries/1343/1343250-shoji.org) | しょじ | 1343250 | new / draft |
 | Open Anki N1 1351 | [所属](entries/1343/1343310-shozoku.org) | しょぞく | 1343310 | new / draft |
 | Open Anki N1 1352 | [処置](entries/1342/1342470-shochi.org) | しょち | 1342470 | new / draft |
+
+| Open Anki N1 1353 | [しょっちゅう](entries/1005/1005710-shotchuu.org) | しょっちゅう | 1005710 | new / draft |
+| Open Anki N1 1354 | [所定](entries/1343/1343350-shotei.org) | しょてい | 1343350 | new / draft |
+| Open Anki N1 1356 | [処罰](entries/1342/1342480-shobatsu.org) | しょばつ | 1342480 | new / draft |
+| Open Anki N1 1357 | [初版](entries/1343/1343030-shohan.org) | しょはん | 1343030 | new / draft |
+| Open Anki N1 1358 | [書評](entries/1344/1344140-shohyou.org) | しょひょう | 1344140 | new / draft |
+| Open Anki N1 1360 | [庶民](entries/1343/1343560-shomin.org) | しょみん | 1343560 | new / draft |
+| Open Anki N1 1361 | [庶務](entries/1343/1343590-shomu.org) | しょむ | 1343590 | new / draft |
+| Open Anki N1 1362 | [所有](entries/1343/1343390-shoyuu.org) | しょゆう | 1343390 | new / draft |
+| Open Anki N1 1363 | [調べ](entries/1429/1429050-shirabe.org) | しらべ | 1429050 | new / draft |
+| Open Anki N1 1365 | [記す](entries/1223/1223140-shirusu.org) | しるす | 1223140 | new / draft |
 
 ### Final audit
 
