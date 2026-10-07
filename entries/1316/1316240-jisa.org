@@ -1,0 +1,233 @@
+#+TITLE: 時差
+#+JMDICT_ID: 1316240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じさ
+#+ROMAJI: jisa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1316240-001
+:PROPERTIES:
+:TEXT: 時差
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1316240-001
+:PROPERTIES:
+:TEXT: じさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1316240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f3493d0c7d63096b33334df305adbd06cedc58dd0cd90aa83ab5f736cbbebd5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- time difference
+** Ukrainian glosses
+*** uk-s-1316240-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: різниця в часі; часовий розрив; зсув у часі
+** Learner notes
+*** note-s-1316240-001-001
+:PROPERTIES:
+:END:
+- UK :: Різниця в місцевому часі між різними географічними поясами, або розрив у часі початку та закінчення певних подій (наприклад, 時差ぼけ — джетлаґ, 時差出勤 — гнучкий графік приходу на роботу з метою розвантаження транспорту).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1316240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本との時差は七時間だ。
+- READING :: にほんとのじさはななじかんだ。
+- UK :: Різниця в часі з Японією становить сім годин.
+- EN :: The time difference with Japan is seven hours.
+- FOCUS :: 時差は七時間だ
+*** ex-1316240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長旅の後で激しい時差ぼけに苦しめられた。
+- READING :: ながたびのあとではげしいじさぼけにくるしめられた。
+- UK :: Після довгої подорожі я страждав від сильного джетлаґу.
+- EN :: After a long journey, I suffered from severe jet lag.
+- FOCUS :: 時差ぼけに
+*** ex-1316240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外の支社と会議を開く際は各国の時差を十分に考慮する必要がある。
+- READING :: かいがいのししゃとかいぎをひらくさいはかっこくのじさをじゅうぶんにこうりょするひつようがある。
+- UK :: Організовуючи нараду із закордонними філіями, необхідно обов'язково враховувати різницю в часі між країнами.
+- EN :: When holding a meeting with overseas branch offices, it is necessary to give full consideration to the time difference between countries.
+- FOCUS :: 各国の時差を
+
+* Sense s-1316240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1d6c3711268b75152146e2127f2a73327ff073455d6076bc6fe89de26bfbbead
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdsverschil
+*** en-s-1316240-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdverschil
+*** en-s-1316240-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uurverschil
+** Ukrainian glosses
+
+* Sense s-1316240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 146351e04e0a478fab7a46308f663a947dabcb70779810efa28f6aeebddb0dba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décalage horaire
+** Ukrainian glosses
+
+* Sense s-1316240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8d744dbd20c584bd1975554a39e7cb4cade0fac1134d3fdbe18ea42982dbc046
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeitunterschied
+*** en-s-1316240-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeitdifferenz
+** Ukrainian glosses
+
+* Sense s-1316240-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cf5a9660911ebd69636843de858aa52b89be51ca56129ef53c175bc8545b9580
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: разница во времени (по поясам)
+** Ukrainian glosses
+
+* Sense s-1316240-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 69939cba795f5aaea8350cb967a905b17783a7538b106be9dd922d97fd190118
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huso horario
+*** en-s-1316240-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diferencia horaria
+** Ukrainian glosses
+
+* Sense s-1316240-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 019ba0e84fd40c415576350fc7ec1a63989a95ea7c67df016b4bd541ca9a4958
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316240-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tidsskillnad
+** Ukrainian glosses
