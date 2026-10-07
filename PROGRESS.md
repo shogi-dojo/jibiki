@@ -4762,6 +4762,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 54 | 10 |
 | 55 | 10 |
 | 56 | 10 |
+| 57 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5372,6 +5373,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1046 | [切れ目](entries/1591/1591930-kireme.org) | きれめ | 1591930 | new / draft |
 | Open Anki N1 1047 | [疑惑](entries/1225/1225680-giwaku.org) | ぎわく | 1225680 | new / draft |
 | Open Anki N1 1049 | [近眼](entries/1242/1242220-kingan.org) | きんがん | 1242220 | new / draft |
+
+| Open Anki N1 1050 | [緊急](entries/1241/1241850-kinkyuu.org) | きんきゅう | 1241850 | new / draft |
+| Open Anki N1 1053 | [禁じる](entries/1241/1241470-kinjiru.org) | きんじる | 1241470 | new / draft |
+| Open Anki N1 1055 | [吟味](entries/1243/1243390-ginmi.org) | ぎんみ | 1243390 | new / draft |
+| Open Anki N1 1056 | [勤務](entries/1241/1241070-kinmu.org) | きんむ | 1241070 | new / draft |
+| Open Anki N1 1058 | [勤労](entries/1241/1241160-kinrou.org) | きんろう | 1241160 | new / draft |
+| Open Anki N1 1060 | [食い違う](entries/1358/1358110-kuichigau.org) | くいちがう | 1358110 | new / draft |
+| Open Anki N1 1062 | [空腹](entries/1246/1246000-kuufuku.org) | くうふく | 1246000 | new / draft |
+| Open Anki N1 1063 | [区画](entries/1592/1592110-kukaku.org) | くかく | 1592110 | new / draft |
+| Open Anki N1 1064 | [区間](entries/1244/1244120-kukan.org) | くかん | 1244120 | new / draft |
+| Open Anki N1 1065 | [茎](entries/1251/1251950-kuki.org) | くき | 1251950 | new / draft |
 
 ### Final audit
 
