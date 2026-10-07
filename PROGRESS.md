@@ -4763,6 +4763,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 55 | 10 |
 | 56 | 10 |
 | 57 | 10 |
+| 58 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5384,6 +5385,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1063 | [区画](entries/1592/1592110-kukaku.org) | くかく | 1592110 | new / draft |
 | Open Anki N1 1064 | [区間](entries/1244/1244120-kukan.org) | くかん | 1244120 | new / draft |
 | Open Anki N1 1065 | [茎](entries/1251/1251950-kuki.org) | くき | 1251950 | new / draft |
+
+| Open Anki N1 1066 | [区切り](entries/1244/1244180-kugiri.org) | くぎり | 1244180 | new / draft |
+| Open Anki N1 1071 | [愚痴](entries/1245/1245170-guchi.org) | ぐち | 1245170 | new / draft |
+| Open Anki N1 1072 | [口吟む](entries/1275/1275720-kuchizusamu.org) | くちずさむ | 1275720 | new / draft |
+| Open Anki N1 1073 | [嘴](entries/1565/1565560-kuchibashi.org) | くちばし | 1565560 | new / draft |
+| Open Anki N1 1074 | [朽ちる](entries/1229/1229310-kuchiru.org) | くちる | 1229310 | new / draft |
+| Open Anki N1 1079 | [首飾り](entries/1329/1329280-kubikazari.org) | くびかざり | 1329280 | new / draft |
+| Open Anki N1 1080 | [首輪](entries/1329/1329440-kubiwa.org) | くびわ | 1329440 | new / draft |
+| Open Anki N1 1086 | [玄人](entries/1263/1263430-kurouto.org) | くろうと | 1263430 | new / draft |
+| Open Anki N1 1088 | [軍艦](entries/1247/1247830-gunkan.org) | ぐんかん | 1247830 | new / draft |
+| Open Anki N1 1090 | [君主](entries/1247/1247290-kunshu.org) | くんしゅ | 1247290 | new / draft |
 
 ### Final audit
 
