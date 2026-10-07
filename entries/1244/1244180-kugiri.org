@@ -1,0 +1,452 @@
+#+TITLE: 区切り
+#+JMDICT_ID: 1244180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くぎり
+#+ROMAJI: kugiri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1244180-001
+:PROPERTIES:
+:TEXT: 区切り
+:END:
+*** Priorities
+- news1
+- nf12
+** Written form wf-1244180-002
+:PROPERTIES:
+:TEXT: 句切り
+:END:
+*** Information
+- rK
+** Written form wf-1244180-003
+:PROPERTIES:
+:TEXT: 区切
+:END:
+*** Information
+- sK
+** Written form wf-1244180-004
+:PROPERTIES:
+:TEXT: 句切
+:END:
+*** Information
+- sK
+** Reading rd-1244180-001
+:PROPERTIES:
+:TEXT: くぎり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1244180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 200aff23da6bb91e15edfc3633ca453af5975a43fee0df0e1efdf6e50c8b4726
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pause (in speech, writing, etc.)
+- punctuation
+** Ukrainian glosses
+*** uk-s-1244180-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розділовий знак; цезура; пауза в мовленні чи письмі
+** Learner notes
+*** note-s-1244180-001-001
+:PROPERTIES:
+:END:
+- UK :: Розділовий знак (кома, крапка), пробіл або пауза під час читання чи виступу, що членує текст чи усне мовлення на смислові уривки (наприклад, 句読点の区切り — членування пунктуацією, 区切りを付ける — розставити знаки розпинання).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1244180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 文の区切りに読点を打つ。
+- READING :: ぶんのくぎりにとうてんをうつ。
+- UK :: Поставити кому для розділення речення на смислові частини.
+- EN :: Place a comma at the break in the sentence.
+- FOCUS :: 文の区切り
+*** ex-1244180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い演説では、聞き手が理解しやすいように適切な区切りを入れて話すことが大切だ。
+- READING :: ながいえんぜつでは、ききてがりかいしやすいようにてきせつなくぎりをいれてはなすことがたいせつだ。
+- UK :: Під час довгої промови важливо робити відповідні паузи, щоб слухачам було легко сприймати думку.
+- EN :: In a long speech, it is important to speak with appropriate pauses so that the listeners can easily understand.
+- FOCUS :: 適切な区切り
+*** ex-1244180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大量の数値データを処理する際は、カンマやスペースなどの明確な区切り文字を用いて分類する必要がある。
+- READING :: たいりょうのすうちデータをしょりするさいは、カンマやスペースなどのめいかくなくぎりもじをもちいてぶんるいするひつようがある。
+- UK :: Під час обробки великих обсягів числових даних необхідно класифікувати їх за допомогою чітких розділових символів, таких як коми чи пробіли.
+- EN :: When processing large volumes of numerical data, it is necessary to classify them using clear delimiter characters such as commas and spaces.
+- FOCUS :: 区切り文字
+
+* Sense s-1244180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 658c877657517325e87da38f68f72d754fcb7adcf4720693781cafd28c4e14ba
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- break
+- end
+- (place to) stop
+- pause
+- milestone (e.g. in a project)
+** Ukrainian glosses
+*** uk-s-1244180-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: завершення етапу; рубіж; перепочинок; логічна пауза у справах
+** Learner notes
+*** note-s-1244180-002-001
+:PROPERTIES:
+:END:
+- UK :: Момент тимчасового завершення справи чи важливий проміжний рубіж у житті або роботі, після якого можна перевести подих (наприклад, 仕事に区切りをつける — підбити підсумки етапу роботи, 人生の区切り — життєвий рубіж).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1244180-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今日の仕事に区切りをつけた。
+- READING :: きょうのしごとにくぎりをつけた。
+- UK :: Я довів сьогоднішню роботу до логічної паузи.
+- EN :: I brought today's work to a stopping point.
+- FOCUS :: 区切りをつけた
+*** ex-1244180-002-002
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 卒業式は学生生活の大きな区切りであり、新たな社会人生活への第一歩となる。
+- READING :: そつぎょうしきはがくせいせいかつのおおきなくぎりであり、あらたなしゃかいじんせいかつへのだいいっぽとなる。
+- UK :: Випускна церемонія — це важливий рубіж у студентському житті та перший крок до дорослого самостійного майбутнього.
+- EN :: The graduation ceremony is a major milestone in student life, marking the first step toward new adult life.
+- FOCUS :: 大きな区切り
+
+* Sense s-1244180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cc92034116fc349aa82e9886a785de42fc919f9bca8144541d097c5f305e647d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eind
+*** en-s-1244180-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einde
+** Ukrainian glosses
+
+* Sense s-1244180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9d55fe70c19d9434a2c07e40a2fd79e645af9b5a9712c78ffb4360ccbd92cdf3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pauze
+*** en-s-1244180-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punt
+** Ukrainian glosses
+
+* Sense s-1244180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9e9e1f0d83ac136723e533a21b161ebf535ae0555e36dfb9bbe4a08ecfead2fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: interpunctie
+*** en-s-1244180-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het interpungeren
+*** en-s-1244180-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punctuatie
+** Ukrainian glosses
+
+* Sense s-1244180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: dad90c045f6e5fe230dec67db43eb5e68d3f9b97b8298a6dbcd2a081bb049dbf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {maatwoord voor pauzes}
+** Ukrainian glosses
+
+* Sense s-1244180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e2fd68845fd02a49edacc8144a202e520c5b971265b7199677f351eecd4306c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Interpunktion
+*** en-s-1244180-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Satzzeichensetzung
+*** en-s-1244180-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pause
+*** en-s-1244180-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Punkt
+*** en-s-1244180-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Periode
+*** en-s-1244180-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umbruch
+*** en-s-1244180-007-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abschnitt
+** Ukrainian glosses
+
+* Sense s-1244180-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 43390021bf23cbad20ea811d37ca6c593068fc8c71cfe932945fdd957a563876
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ende
+*** en-s-1244180-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schluss
+** Ukrainian glosses
+
+* Sense s-1244180-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 126dabc3fb6e2d437cca996d9a3b6bd20b0efd3522545f1f87a9d8a4fd019710
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szünetelés
+*** en-s-1244180-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pontozás
+** Ukrainian glosses
+
+* Sense s-1244180-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 1be0596a5169ad2f0d25a80c6d8b33ed3f3a7be448cb7370104e959aec3538a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) знак препинания; пунктуация
+*** en-s-1244180-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) прекращение, конец (работы)
+*** en-s-1244180-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) пауза
+** Ukrainian glosses
+
+* Sense s-1244180-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 44d2aa134aae2edc0ef7474337d5f280462c3bd81959c4cdc201dfe0b284847a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244180-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párrafo
+*** en-s-1244180-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corte
+*** en-s-1244180-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: final
+** Ukrainian glosses
