@@ -4760,6 +4760,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 52 | 10 |
 | 53 | 10 |
 | 54 | 10 |
+| 55 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5348,6 +5349,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1018 | [教職](entries/1237/1237220-kyoushoku.org) | きょうしょく | 1237220 | new / draft |
 | Open Anki N1 1019 | [興じる](entries/1238/1238180-kyoujiru.org) | きょうじる | 1238180 | new / draft |
 | Open Anki N1 1020 | [強制](entries/1236/1236350-kyousei.org) | きょうせい | 1236350 | new / draft |
+
+| Open Anki N1 1023 | [共存](entries/1578/1578050-kyouzon.org) | きょうぞん | 1578050 | new / draft |
+| Open Anki N1 1025 | [郷土](entries/1238/1238510-kyoudo.org) | きょうど | 1238510 | new / draft |
+| Open Anki N1 1028 | [共鳴](entries/1235/1235190-kyoumei.org) | きょうめい | 1235190 | new / draft |
+| Open Anki N1 1029 | [郷里](entries/1238/1238540-kyouri.org) | きょうり | 1238540 | new / draft |
+| Open Anki N1 1030 | [強烈](entries/1236/1236620-kyouretsu.org) | きょうれつ | 1236620 | new / draft |
+| Open Anki N1 1031 | [共和](entries/1630/1630190-kyouwa.org) | きょうわ | 1630190 | new / draft |
+| Open Anki N1 1032 | [局限](entries/1239/1239600-kyokugen.org) | きょくげん | 1239600 | new / draft |
+| Open Anki N1 1033 | [極端](entries/1240/1240380-kyokutan.org) | きょくたん | 1240380 | new / draft |
+| Open Anki N1 1034 | [居住](entries/1231/1231810-kyojuu.org) | きょじゅう | 1231810 | new / draft |
+| Open Anki N1 1035 | [拒絶](entries/1232/1232390-kyozetsu.org) | きょぜつ | 1232390 | new / draft |
 
 ### Final audit
 
