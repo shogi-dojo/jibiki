@@ -4782,6 +4782,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 74 | 10 |
 | 75 | 10 |
 | 76 | 10 |
+| 77 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5612,6 +5613,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1391 | [神殿](entries/1364/1364770-shinden.org) | しんでん | 1364770 | new / draft |
 | Open Anki N1 1392 | [進度](entries/1366/1366170-shindo.org) | しんど | 1366170 | new / draft |
 | Open Anki N1 1394 | [新入生](entries/1362/1362270-shinnyuusei.org) | しんにゅうせい | 1362270 | new / draft |
+
+| Open Anki N1 1395 | [信任](entries/1359/1359500-shinnin.org) | しんにん | 1359500 | new / draft |
+| Open Anki N1 1396 | [神秘](entries/1364/1364830-shinpi.org) | しんぴ | 1364830 | new / draft |
+| Open Anki N1 1398 | [人民](entries/1369/1369280-jinmin.org) | じんみん | 1369280 | new / draft |
+| Open Anki N1 1399 | [侵略](entries/1595/1595200-shinryaku.org) | しんりゃく | 1595200 | new / draft |
+| Open Anki N1 1400 | [診療](entries/1365/1365500-shinryou.org) | しんりょう | 1365500 | new / draft |
+| Open Anki N1 1401 | [粋](entries/2848/2848938-sui.org) | すい | 2848938 | new / draft |
+| Open Anki N1 1404 | [吹奏](entries/1370/1370790-suisou.org) | すいそう | 1370790 | new / draft |
+| Open Anki N1 1406 | [水田](entries/1371/1371890-suiden.org) | すいでん | 1371890 | new / draft |
+| Open Anki N1 1407 | [推理](entries/1371/1371220-suiri.org) | すいり | 1371220 | new / draft |
+| Open Anki N1 1408 | [数詞](entries/1373/1373050-suushi.org) | すうし | 1373050 | new / draft |
 
 ### Final audit
 
