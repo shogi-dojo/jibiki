@@ -4764,6 +4764,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 56 | 10 |
 | 57 | 10 |
 | 58 | 10 |
+| 59 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5396,6 +5397,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1086 | [玄人](entries/1263/1263430-kurouto.org) | くろうと | 1263430 | new / draft |
 | Open Anki N1 1088 | [軍艦](entries/1247/1247830-gunkan.org) | ぐんかん | 1247830 | new / draft |
 | Open Anki N1 1090 | [君主](entries/1247/1247290-kunshu.org) | くんしゅ | 1247290 | new / draft |
+
+| Open Anki N1 1091 | [群集](entries/1592/1592515-gunshuu.org) | ぐんしゅう | 1592515 | new / draft |
+| Open Anki N1 1092 | [群衆](entries/1592/1592510-gunshuu.org) | ぐんしゅう | 1592510 | new / draft |
+| Open Anki N1 1093 | [軍備](entries/1248/1248870-gunbi.org) | ぐんび | 1248870 | new / draft |
+| Open Anki N1 1094 | [軍服](entries/1248/1248970-gunpuku.org) | ぐんぷく | 1248970 | new / draft |
+| Open Anki N1 1095 | [芸](entries/1956/1956190-gei.org) | げい | 1956190 | new / draft |
+| Open Anki N1 1097 | [軽快](entries/1252/1252600-keikai.org) | けいかい | 1252600 | new / draft |
+| Open Anki N1 1098 | [警戒](entries/1252/1252310-keikai.org) | けいかい | 1252310 | new / draft |
+| Open Anki N1 1099 | [敬具](entries/1250/1250740-keigu.org) | けいぐ | 1250740 | new / draft |
+| Open Anki N1 1100 | [軽減](entries/1252/1252680-keigen.org) | けいげん | 1252680 | new / draft |
+| Open Anki N1 1102 | [傾斜](entries/1249/1249500-keisha.org) | けいしゃ | 1249500 | new / draft |
 
 ### Final audit
 
