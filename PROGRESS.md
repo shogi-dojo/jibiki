@@ -4784,6 +4784,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 76 | 10 |
 | 77 | 10 |
 | 78 | 10 |
+| 79 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5636,6 +5637,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1422 | [スト](entries/1070/1070780-suto.org) | スト | 1070780 | new / draft |
 | Open Anki N1 1423 | [ストロー](entries/1071/1071540-sutoroo.org) | ストロー | 1071540 | new / draft |
 | Open Anki N1 1424 | [ストロボ](entries/1071/1071600-sutorobo.org) | ストロボ | 1071600 | new / draft |
+
+| Open Anki N1 1425 | [すばしこい](entries/1006/1006180-subashikkoi.org) | すばしこい | 1006180 | new / draft |
+| Open Anki N1 1427 | [ずばり](entries/1006/1006400-zubari.org) | ずばり | 1006400 | new / draft |
+| Open Anki N1 1428 | [スプリング](entries/1072/1072690-supuringu.org) | スプリング | 1072690 | new / draft |
+| Open Anki N1 1429 | [スペース](entries/1072/1072810-supeesu.org) | スペース | 1072810 | new / draft |
+| Open Anki N1 1431 | [スポーツカー](entries/1073/1073250-supootsukaa.org) | スポーツカー | 1073250 | new / draft |
+| Open Anki N1 1432 | [澄ます](entries/1373/1373650-sumasu.org) | すます | 1373650 | new / draft |
+| Open Anki N1 1434 | [済ます](entries/1295/1295030-sumasu.org) | すます | 1295030 | new / draft |
+| Open Anki N1 1436 | [スラックス](entries/1073/1073780-surakkusu.org) | スラックス | 1073780 | new / draft |
+| Open Anki N1 1437 | [ずらっと](entries/1006/1006430-zuratto.org) | ずらっと | 1006430 | new / draft |
+| Open Anki N1 1438 | [ずるずる](entries/1006/1006440-zuruzuru.org) | ずるずる | 1006440 | new / draft |
 
 ### Final audit
 
