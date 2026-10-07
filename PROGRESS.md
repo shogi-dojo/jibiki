@@ -4776,6 +4776,7 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | 68 | 10 |
 | 69 | 10 |
 | 70 | 10 |
+| 71 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5540,6 +5541,17 @@ The selected continuation uses 700 Open Anki N1 candidates.
 | Open Anki N1 1301 | [主任](entries/1326/1326040-shunin.org) | しゅにん | 1326040 | new / draft |
 | Open Anki N1 1303 | [守備](entries/1327/1327180-shubi.org) | しゅび | 1327180 | new / draft |
 | Open Anki N1 1305 | [樹木](entries/1330/1330400-jumoku.org) | じゅもく | 1330400 | new / draft |
+
+| Open Anki N1 1306 | [樹立](entries/1330/1330410-juritsu.org) | じゅりつ | 1330410 | new / draft |
+| Open Anki N1 1307 | [準急](entries/1341/1341540-junkyuu.org) | じゅんきゅう | 1341540 | new / draft |
+| Open Anki N1 1308 | [準じる](entries/1341/1341510-junjiru.org) | じゅんじる | 1341510 | new / draft |
+| Open Anki N1 1313 | [上位](entries/1352/1352590-joui.org) | じょうい | 1352590 | new / draft |
+| Open Anki N1 1314 | [上演](entries/1352/1352670-jouen.org) | じょうえん | 1352670 | new / draft |
+| Open Anki N1 1315 | [城下](entries/1355/1355720-jouka.org) | じょうか | 1355720 | new / draft |
+| Open Anki N1 1317 | [上空](entries/1353/1353020-joukuu.org) | じょうくう | 1353020 | new / draft |
+| Open Anki N1 1319 | [証言](entries/1351/1351640-shougen.org) | しょうげん | 1351640 | new / draft |
+| Open Anki N1 1321 | [照合](entries/1350/1350920-shougou.org) | しょうごう | 1350920 | new / draft |
+| Open Anki N1 1322 | [詳細](entries/1351/1351760-shousai.org) | しょうさい | 1351760 | new / draft |
 
 ### Final audit
 
