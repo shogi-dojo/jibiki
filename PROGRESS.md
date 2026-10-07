@@ -4771,6 +4771,7 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | 63 | 10 |
 | 64 | 10 |
 | 65 | 10 |
+| 66 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5480,6 +5481,17 @@ The selected continuation uses 600 Open Anki N1 candidates.
 | Open Anki N1 1199 | [赤らむ](entries/1383/1383280-akaramu.org) | あからむ | 1383280 | new / draft |
 | Open Anki N1 1200 | [上がり](entries/1352/1352190-agari.org) | あがり | 1352190 | new / draft |
 | Open Anki N1 1201 | [諦め](entries/1436/1436720-akirame.org) | あきらめ | 1436720 | new / draft |
+
+| Open Anki N1 1204 | [顎](entries/1207/1207560-ago.org) | あご | 1207560 | new / draft |
+| Open Anki N1 1205 | [憧れ](entries/1453/1453800-akogare.org) | あこがれ | 1453800 | new / draft |
+| Open Anki N1 1206 | [麻](entries/1524/1524290-asa.org) | あさ | 1524290 | new / draft |
+| Open Anki N1 1208 | [浅ましい](entries/1390/1390810-asamashii.org) | あさましい | 1390810 | new / draft |
+| Open Anki N1 1211 | [嘲笑う](entries/1565/1565610-azawarau.org) | あざわらう | 1565610 | new / draft |
+| Open Anki N1 1212 | [悪しからず](entries/1151/1151300-ashikarazu.org) | あしからず | 1151300 | new / draft |
+| Open Anki N1 1213 | [味わい](entries/1527/1527000-ajiwai.org) | あじわい | 1527000 | new / draft |
+| Open Anki N1 1214 | [焦る](entries/1350/1350780-aseru.org) | あせる | 1350780 | new / draft |
+| Open Anki N1 1218 | [悪化](entries/1151/1151470-akka.org) | あっか | 1151470 | new / draft |
+| Open Anki N1 1219 | [扱い](entries/1153/1153430-atsukai.org) | あつかい | 1153430 | new / draft |
 
 ### Final audit
 
