@@ -4759,6 +4759,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 51 | 10 |
 | 52 | 10 |
 | 53 | 10 |
+| 54 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5336,6 +5337,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1006 | [協会](entries/1235/1235550-kyoukai.org) | きょうかい | 1235550 | new / draft |
 | Open Anki N1 1007 | [共学](entries/1234/1234350-kyougaku.org) | きょうがく | 1234350 | new / draft |
 | Open Anki N1 1009 | [境遇](entries/1236/1236000-kyouguu.org) | きょうぐう | 1236000 | new / draft |
+
+| Open Anki N1 1010 | [教訓](entries/1237/1237080-kyoukun.org) | きょうくん | 1237080 | new / draft |
+| Open Anki N1 1011 | [強行](entries/1236/1236270-kyoukou.org) | きょうこう | 1236270 | new / draft |
+| Open Anki N1 1012 | [強硬](entries/1236/1236250-kyoukou.org) | きょうこう | 1236250 | new / draft |
+| Open Anki N1 1013 | [教材](entries/1237/1237110-kyouzai.org) | きょうざい | 1237110 | new / draft |
+| Open Anki N1 1014 | [凶作](entries/1235/1235440-kyousaku.org) | きょうさく | 1235440 | new / draft |
+| Open Anki N1 1015 | [業者](entries/1239/1239440-gyousha.org) | ぎょうしゃ | 1239440 | new / draft |
+| Open Anki N1 1016 | [教習](entries/1237/1237170-kyoushuu.org) | きょうしゅう | 1237170 | new / draft |
+| Open Anki N1 1018 | [教職](entries/1237/1237220-kyoushoku.org) | きょうしょく | 1237220 | new / draft |
+| Open Anki N1 1019 | [興じる](entries/1238/1238180-kyoujiru.org) | きょうじる | 1238180 | new / draft |
+| Open Anki N1 1020 | [強制](entries/1236/1236350-kyousei.org) | きょうせい | 1236350 | new / draft |
 
 ### Final audit
 
