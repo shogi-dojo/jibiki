@@ -4765,6 +4765,7 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | 57 | 10 |
 | 58 | 10 |
 | 59 | 10 |
+| 60 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5408,6 +5409,17 @@ The selected continuation uses 500 Open Anki N1 candidates.
 | Open Anki N1 1099 | [敬具](entries/1250/1250740-keigu.org) | けいぐ | 1250740 | new / draft |
 | Open Anki N1 1100 | [軽減](entries/1252/1252680-keigen.org) | けいげん | 1252680 | new / draft |
 | Open Anki N1 1102 | [傾斜](entries/1249/1249500-keisha.org) | けいしゃ | 1249500 | new / draft |
+
+| Open Anki N1 1104 | [形勢](entries/1250/1250350-keisei.org) | けいせい | 1250350 | new / draft |
+| Open Anki N1 1108 | [警部](entries/1252/1252510-keibu.org) | けいぶ | 1252510 | new / draft |
+| Open Anki N1 1110 | [転居](entries/1441/1441100-tenkyo.org) | てんきょ | 1441100 | new / draft |
+| Open Anki N1 1113 | [電源](entries/1443/1443220-dengen.org) | でんげん | 1443220 | new / draft |
+| Open Anki N1 1114 | [天国](entries/1439/1439080-tengoku.org) | てんごく | 1439080 | new / draft |
+| Open Anki N1 1115 | [天才](entries/1439/1439090-tensai.org) | てんさい | 1439090 | new / draft |
+| Open Anki N1 1119 | [点線](entries/1441/1441690-tensen.org) | てんせん | 1441690 | new / draft |
+| Open Anki N1 1121 | [転ずる](entries/1441/1441050-tenzuru.org) | てんずる | 1441050 | new / draft |
+| Open Anki N1 1122 | [天体](entries/1439/1439740-tentai.org) | てんたい | 1439740 | new / draft |
+| Open Anki N1 1123 | [伝達](entries/1442/1442240-dentatsu.org) | でんたつ | 1442240 | new / draft |
 
 ### Final audit
 
