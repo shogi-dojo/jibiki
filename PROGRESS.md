@@ -4815,6 +4815,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 107 | 10 |
 | 108 | 10 |
 | 109 | 10 |
+| 110 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6008,6 +6009,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1879 | [惑星](entries/1562/1562600-wakusei.org) | わくせい | 1562600 | new / draft |
 | Open Anki N1 1883 | [渡り鳥](entries/1444/1444650-wataridori.org) | わたりどり | 1444650 | new / draft |
 | Open Anki N1 1884 | [ワット](entries/1149/1149070-watto.org) | ワット | 1149070 | new / draft |
+
+| Open Anki N1 1885 | [詫び](entries/1562/1562670-wabi.org) | わび | 1562670 | new / draft |
+| Open Anki N1 1886 | [和文](entries/1562/1562200-wabun.org) | わぶん | 1562200 | new / draft |
+| Open Anki N1 1889 | [割当](entries/1606/1606820-wariate.org) | わりあて | 1606820 | new / draft |
+| Open Anki N1 1890 | [割込む](entries/1606/1606870-warikomu.org) | わりこむ | 1606870 | new / draft |
+| Open Anki N1 1891 | [悪者](entries/1151/1151840-warumono.org) | わるもの | 1151840 | new / draft |
+| Open Anki N1 1892 | [我](entries/1196/1196670-ware.org) | われ | 1196670 | new / draft |
+| Open Anki N1 1893 | [捗る](entries/1430/1430570-hakadoru.org) | はかどる | 1430570 | new / draft |
+| Open Anki N1 1896 | [破棄](entries/1471/1471300-haki.org) | はき | 1471300 | new / draft |
+| Open Anki N1 1897 | [剥ぐ](entries/1582/1582990-hagu.org) | はぐ | 1582990 | new / draft |
+| Open Anki N1 1899 | [薄弱](entries/1475/1475590-hakujaku.org) | はくじゃく | 1475590 | new / draft |
 
 ### Final audit
 
