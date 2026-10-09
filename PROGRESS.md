@@ -4836,6 +4836,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 128 | 10 |
 | 129 | 10 |
 | 130 | 10 |
+| 131 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6260,6 +6261,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2210 | [補強](entries/1514/1514530-hokyou.org) | ほきょう | 1514530 | new / draft |
 | Open Anki N1 2211 | [募金](entries/1514/1514810-bokin.org) | ぼきん | 1514810 | new / draft |
 | Open Anki N1 2212 | [牧師](entries/1521/1521770-bokushi.org) | ぼくし | 1521770 | new / draft |
+
+| Open Anki N1 125 | [コマーシャル](entries/1050/1050720-komaasharu.org) | コマーシャル | 1050720 | new / draft |
+| Open Anki N1 143 | [コントラスト](entries/1052/1052780-kontorasuto.org) | コントラスト | 1052780 | new / draft |
+| Open Anki N1 144 | [コントロール](entries/1052/1052830-kontorooru.org) | コントロール | 1052830 | new / draft |
+| Open Anki N1 160 | [サイズ](entries/1055/1055780-saizu.org) | サイズ | 1055780 | new / draft |
+| Open Anki N1 205 | [サボる](entries/1057/1057580-saboru.org) | サボる | 1057580 | new / draft |
+| Open Anki N1 305 | [どうにか](entries/1008/1008990-dounika.org) | どうにか | 1008990 | new / draft |
+| Open Anki N1 319 | [トーン](entries/1084/1084780-toon.org) | トーン | 1084780 | new / draft |
+| Open Anki N1 368 | [ドライ](entries/1088/1088450-dorai.org) | ドライ | 1088450 | new / draft |
+| Open Anki N1 369 | [ドライクリーニング](entries/1088/1088480-doraikuriiningu.org) | ドライクリーニング | 1088480 | new / draft |
+| Open Anki N1 370 | [ドライバー](entries/1088/1088560-doraibaa.org) | ドライバー | 1088560 | new / draft |
 
 ### Final audit
 
