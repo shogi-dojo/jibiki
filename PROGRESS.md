@@ -4858,6 +4858,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 150 | 10 |
 | 151 | 10 |
 | 152 | 10 |
+| 153 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6524,6 +6525,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2479 | [優勢](entries/1539/1539340-yuusei.org) | ゆうせい | 1539340 | new / draft |
 | Open Anki N1 2480 | [優先](entries/1539/1539390-yuusen.org) | ゆうせん | 1539390 | new / draft |
 | Open Anki N1 2481 | [誘導](entries/1542/1542020-yuudou.org) | ゆうどう | 1542020 | new / draft |
+
+| Open Anki N1 2482 | [融通](entries/1584/1584900-yuuzuu.org) | ゆうずう | 1584900 | new / draft |
+| Open Anki N1 2483 | [優美](entries/1539/1539560-yuubi.org) | ゆうび | 1539560 | new / draft |
+| Open Anki N1 2484 | [有望](entries/1541/1541600-yuubou.org) | ゆうぼう | 1541600 | new / draft |
+| Open Anki N1 2485 | [遊牧](entries/1542/1542310-yuuboku.org) | ゆうぼく | 1542310 | new / draft |
+| Open Anki N1 2487 | [有力](entries/1541/1541710-yuuryoku.org) | ゆうりょく | 1541710 | new / draft |
+| Open Anki N1 2488 | [幽霊](entries/1540/1540590-yuurei.org) | ゆうれい | 1540590 | new / draft |
+| Open Anki N1 2489 | [誘惑](entries/1542/1542040-yuuwaku.org) | ゆうわく | 1542040 | new / draft |
+| Open Anki N1 2490 | [故](entries/1267/1267120-yue.org) | ゆえ | 1267120 | new / draft |
+| Open Anki N1 2492 | [揺さぶる](entries/1545/1545600-yusaburu.org) | ゆさぶる | 1545600 | new / draft |
+| Open Anki N1 2497 | [指差す](entries/1309/1309790-yubisasu.org) | ゆびさす | 1309790 | new / draft |
 
 ### Final audit
 
