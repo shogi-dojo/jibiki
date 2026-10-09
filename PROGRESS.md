@@ -4873,6 +4873,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 165 | 10 |
 | 166 | 10 |
 | 167 | 10 |
+| 168 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6704,6 +6705,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2548 | [ライス](entries/1137/1137820-raisu.org) | ライス | 1137820 | new / draft |
 | Open Anki N1 2592 | [レギュラー](entries/1144/1144790-regyuraa.org) | レギュラー | 1144790 | new / draft |
 | Open Anki N1 2593 | [レッスン](entries/1145/1145510-ressun.org) | レッスン | 1145510 | new / draft |
+
+| Open Anki N1 2597 | [バッテリー](entries/1099/1099210-batterii.org) | バッテリー | 1099210 | new / draft |
+| Open Anki N1 2603 | [バテる](entries/1010/1010300-bateru.org) | バテる | 1010300 | new / draft |
+| Open Anki N1 2604 | [パトカー](entries/1101/1101950-patokaa.org) | パトカー | 1101950 | new / draft |
+| Open Anki N1 2616 | [ハラハラ](entries/1096/1096260-harahara.org) | ハラハラ | 1096260 | new / draft |
+| Open Anki N1 2621 | [腫れる](entries/1328/1328910-hareru.org) | はれる | 1328910 | new / draft |
+| Open Anki N1 2623 | [版画](entries/1481/1481510-hanga.org) | はんが | 1481510 | new / draft |
+| Open Anki N1 2625 | [反感](entries/1480/1480260-hankan.org) | はんかん | 1480260 | new / draft |
+| Open Anki N1 2628 | [反撃](entries/1480/1480340-hangeki.org) | はんげき | 1480340 | new / draft |
+| Open Anki N1 2631 | [繁盛](entries/1481/1481710-hanjou.org) | はんじょう | 1481710 | new / draft |
+| Open Anki N1 2634 | [判定](entries/1478/1478660-hantei.org) | はんてい | 1478660 | new / draft |
 
 ### Final audit
 
