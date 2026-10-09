@@ -4849,6 +4849,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 141 | 10 |
 | 142 | 10 |
 | 143 | 10 |
+| 144 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6416,6 +6417,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2333 | [導く](entries/1453/1453680-michibiku.org) | みちびく | 1453680 | new / draft |
 | Open Anki N1 2334 | [密集](entries/1528/1528280-misshuu.org) | みっしゅう | 1528280 | new / draft |
 | Open Anki N1 2335 | [密接](entries/1528/1528290-missetsu.org) | みっせつ | 1528290 | new / draft |
+
+| Open Anki N1 2338 | [未定](entries/1527/1527830-mitei.org) | みてい | 1527830 | new / draft |
+| Open Anki N1 2341 | [源](entries/1263/1263360-minamoto.org) | みなもと | 1263360 | new / draft |
+| Open Anki N1 2343 | [身なり](entries/1365/1365570-minari.org) | みなり | 1365570 | new / draft |
+| Open Anki N1 2344 | [峰](entries/1516/1516250-mine.org) | みね | 1516250 | new / draft |
+| Open Anki N1 2345 | [身の上](entries/1365/1365600-minoue.org) | みのうえ | 1365600 | new / draft |
+| Open Anki N1 2348 | [見計らう](entries/1259/1259510-mihakarau.org) | みはからう | 1259510 | new / draft |
+| Open Anki N1 2349 | [見晴らし](entries/1259/1259770-miharashi.org) | みはらし | 1259770 | new / draft |
+| Open Anki N1 2350 | [身振り](entries/1365/1365720-miburi.org) | みぶり | 1365720 | new / draft |
+| Open Anki N1 2351 | [脈](entries/1528/1528440-myaku.org) | みゃく | 1528440 | new / draft |
+| Open Anki N1 2352 | [ミュージック](entries/1131/1131680-myuujikku.org) | ミュージック | 1131680 | new / draft |
 
 ### Final audit
 
