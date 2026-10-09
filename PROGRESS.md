@@ -4792,6 +4792,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 84 | 10 |
 | 85 | 10 |
 | 86 | 10 |
+| 87 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5732,6 +5733,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1532 | [創刊](entries/1398/1398320-soukan.org) | そうかん | 1398320 | new / draft |
 | Open Anki N1 1533 | [雑木](entries/1299/1299560-zouki.org) | ぞうき | 1299560 | new / draft |
 | Open Anki N1 1534 | [早急](entries/1581/1581270-soukyuu.org) | そうきゅう | 1581270 | new / draft |
+
+| Open Anki N1 1536 | [増強](entries/1403/1403190-zoukyou.org) | ぞうきょう | 1403190 | new / draft |
+| Open Anki N1 1537 | [送金](entries/1402/1402750-soukin.org) | そうきん | 1402750 | new / draft |
+| Open Anki N1 1538 | [走行](entries/1402/1402550-soukou.org) | そうこう | 1402550 | new / draft |
+| Open Anki N1 1539 | [総合](entries/1596/1596380-sougou.org) | そうごう | 1596380 | new / draft |
+| Open Anki N1 1541 | [蔵相](entries/1403/1403520-zoushou.org) | ぞうしょう | 1403520 | new / draft |
+| Open Anki N1 1542 | [装飾](entries/1402/1402340-soushoku.org) | そうしょく | 1402340 | new / draft |
+| Open Anki N1 1543 | [増進](entries/1403/1403270-zoushin.org) | ぞうしん | 1403270 | new / draft |
+| Open Anki N1 1544 | [相対](entries/1401/1401110-soutai.org) | そうたい | 1401110 | new / draft |
+| Open Anki N1 1546 | [騒動](entries/1403/1403080-soudou.org) | そうどう | 1403080 | new / draft |
+| Open Anki N1 1547 | [遭難](entries/1402/1402900-sounan.org) | そうなん | 1402900 | new / draft |
 
 ### Final audit
 
