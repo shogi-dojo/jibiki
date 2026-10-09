@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 8363 |
+| Canonical entry files | 8463 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
 | Canonical N2 entries | 4161 |
 | Canonical N3 entries | 1603 |
-| Canonical N1 entries (Open Anki source assignment) | 1230 |
+| Canonical N1 entries (Open Anki source assignment) | 1330 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 8326 |
+| `new` | 8426 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 8353 |
+| Entry metadata still marked `draft` | 8453 |
 | Core profile | 163 |
-| Learner profile | 8199 |
+| Learner profile | 8299 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -4690,10 +4690,10 @@ The reconciled N2 pools have no unused candidates left; the reconciled Open
 Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
 entries with draft metadata, awaiting independent linguistic review.
 
-## 4300-word vocabulary continuation (2026-10-09)
+## 4400-word vocabulary continuation (2026-10-09)
 
 Baseline: `64241246`, with **3100** previously merged words from PR #13.
-Completed **1200/1200** additional distinct words; branch total **1200** (overall corpus additions **4300**).
+Completed **1300/1300** additional distinct words; branch total **1300** (overall corpus additions **4400**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
 three graded Japanese, kana, Ukrainian, and English examples.
@@ -4702,7 +4702,7 @@ with zero errors or warnings. These remain learner drafts for editorial review.
 The earlier uncommitted 罪 draft is preserved.
 
 Candidates are reconciled against pinned JMdict and existing entry IDs.
-The selected continuation uses 1200 Open Anki N1 candidates.
+The selected continuation uses 1300 Open Anki N1 candidates.
 
 | Batch | New entries |
 | --- | ---: |
@@ -6263,25 +6263,25 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 
 ### Final audit
 
-Completed on 2026-10-09: **1,200 distinct additions in 1,200 individual word
-commits**, recorded in **120 batches of 10**. The branch contains **1,200 new
-entry files versus `origin/main`** (overall authored vocabulary additions **4,300**).
+Completed on 2026-10-09: **1,300 distinct additions in 1,300 individual word
+commits**, recorded in **130 batches of 10**. The branch contains **1,300 new
+entry files versus `origin/main`** (overall authored vocabulary additions **4,400**).
 This continuation preserves every JMdict sense, form, reading, restriction and
-source fingerprint, and supplies **2,043 original Ukrainian glosses and 2,043 usage notes**,
-plus **4,454 examples** (3,600 primary-sense graded examples plus 854 secondary-sense
-examples across all 475 multisense entries) with Japanese, kana readings, Ukrainian and English
+source fingerprint, and supplies **2,220 original Ukrainian glosses and 2,220 usage notes**,
+plus **4,831 examples** (3,900 primary-sense graded examples plus 931 secondary-sense
+examples across all 513 multisense entries) with Japanese, kana readings, Ukrainian and English
 translations.
 
-All 1,200 entries passed JMdict validation, Org lint and doctor **100/100**,
+All 1,300 entries passed JMdict validation, Org lint and doctor **100/100**,
 with **zero errors and warnings**. The full test suite passed: **154 tests,
-25,754 assertions, zero failures, errors or skips**. Source reconciliation and
+26,054 assertions, zero failures, errors or skips**. Source reconciliation and
 commit-history checks confirm unique IDs, exact manifest matches, one entry
 per addition commit, and Ihor's Git identity. Existing committed entries were
 preserved; the two original untracked files retain their original checksums.
 
-The source selection comprises **1,200 Open Anki N1 words** (rows 55 to 2050).
+The source selection comprises **1,300 Open Anki N1 words** (rows 55 to 2212).
 These are documented study-list assignments, not an official JLPT syllabus.
-The reconciled Open Anki N1 pool retains 301 unused entries. All additions
+The reconciled Open Anki N1 pool retains 201 unused entries. All additions
 remain `new` learner entries with draft metadata, awaiting independent
 linguistic review.
 
