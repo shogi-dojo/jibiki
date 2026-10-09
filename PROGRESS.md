@@ -4806,6 +4806,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 98 | 10 |
 | 99 | 10 |
 | 100 | 10 |
+| 101 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5900,6 +5901,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1747 | [直面](entries/1431/1431540-chokumen.org) | ちょくめん | 1431540 | new / draft |
 | Open Anki N1 1748 | [著書](entries/1427/1427140-chosho.org) | ちょしょ | 1427140 | new / draft |
 | Open Anki N1 1751 | [著名](entries/1427/1427150-chomei.org) | ちょめい | 1427150 | new / draft |
+
+| Open Anki N1 1752 | [ちらっと](entries/1007/1007920-chiratto.org) | ちらっと | 1007920 | new / draft |
+| Open Anki N1 1753 | [塵](entries/1369/1369910-chiri.org) | ちり | 1369910 | new / draft |
+| Open Anki N1 1754 | [塵取り](entries/1369/1369920-chiritori.org) | ちりとり | 1369920 | new / draft |
+| Open Anki N1 1757 | [沈没](entries/1431/1431800-chinbotsu.org) | ちんぼつ | 1431800 | new / draft |
+| Open Anki N1 1759 | [陳列](entries/1432/1432210-chinretsu.org) | ちんれつ | 1432210 | new / draft |
+| Open Anki N1 1760 | [追及](entries/1432/1432480-tsuikyuu.org) | ついきゅう | 1432480 | new / draft |
+| Open Anki N1 1761 | [追跡](entries/1432/1432560-tsuiseki.org) | ついせき | 1432560 | new / draft |
+| Open Anki N1 1762 | [追放](entries/1432/1432670-tsuihou.org) | ついほう | 1432670 | new / draft |
+| Open Anki N1 1764 | [墜落](entries/1432/1432240-tsuiraku.org) | ついらく | 1432240 | new / draft |
+| Open Anki N1 1765 | [痛感](entries/1432/1432760-tsuukan.org) | つうかん | 1432760 | new / draft |
 
 ### Final audit
 
