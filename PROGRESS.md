@@ -4817,6 +4817,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 109 | 10 |
 | 110 | 10 |
 | 111 | 10 |
+| 112 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6032,6 +6033,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1913 | [恥じらう](entries/1421/1421600-hajirau.org) | はじらう | 1421600 | new / draft |
 | Open Anki N1 1915 | [橋渡し](entries/1237/1237440-hashiwatashi.org) | はしわたし | 1237440 | new / draft |
 | Open Anki N1 1917 | [破損](entries/1471/1471380-hason.org) | はそん | 1471380 | new / draft |
+
+| Open Anki N1 1918 | [叩く](entries/2829/2829135-hataku.org) | はたく | 2829135 | new / draft |
+| Open Anki N1 1919 | [裸足](entries/1547/1547660-hadashi.org) | はだし | 1547660 | new / draft |
+| Open Anki N1 1921 | [蜂蜜](entries/1517/1517860-hachimitsu.org) | はちみつ | 1517860 | new / draft |
+| Open Anki N1 1922 | [パチンコ](entries/1101/1101660-pachinko.org) | パチンコ | 1101660 | new / draft |
+| Open Anki N1 1924 | [発育](entries/1477/1477140-hatsuiku.org) | はついく | 1477140 | new / draft |
+| Open Anki N1 1925 | [発芽](entries/1477/1477190-hatsuga.org) | はつが | 1477190 | new / draft |
+| Open Anki N1 1926 | [発掘](entries/1477/1477290-hakkutsu.org) | はっくつ | 1477290 | new / draft |
+| Open Anki N1 1928 | [バッジ](entries/1099/1099110-bajji.org) | バッジ | 1099110 | new / draft |
+| Open Anki N1 1931 | [下取り](entries/1185/1185180-shitadori.org) | したどり | 1185180 | new / draft |
+| Open Anki N1 1932 | [下火](entries/1184/1184580-shitabi.org) | したび | 1184580 | new / draft |
 
 ### Final audit
 
