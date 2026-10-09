@@ -4824,6 +4824,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 116 | 10 |
 | 117 | 10 |
 | 118 | 10 |
+| 119 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6116,6 +6117,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 2014 | [塾](entries/1337/1337780-juku.org) | じゅく | 1337780 | new / draft |
 | Open Anki N1 2015 | [祝賀](entries/1337/1337410-shukuga.org) | しゅくが | 1337410 | new / draft |
 | Open Anki N1 2017 | [手芸](entries/1327/1327540-shugei.org) | しゅげい | 1327540 | new / draft |
+
+| Open Anki N1 2019 | [主催](entries/1325/1325450-shusai.org) | しゅさい | 1325450 | new / draft |
+| Open Anki N1 2022 | [種々](entries/1594/1594850-shuju.org) | しゅじゅ | 1594850 | new / draft |
+| Open Anki N1 2026 | [主題](entries/1325/1325870-shudai.org) | しゅだい | 1325870 | new / draft |
+| Open Anki N1 2027 | [出演](entries/1338/1338290-shutsuen.org) | しゅつえん | 1338290 | new / draft |
+| Open Anki N1 2028 | [出血](entries/1338/1338750-shukketsu.org) | しゅっけつ | 1338750 | new / draft |
+| Open Anki N1 2029 | [出現](entries/1338/1338820-shutsugen.org) | しゅつげん | 1338820 | new / draft |
+| Open Anki N1 2031 | [出社](entries/1339/1339150-shussha.org) | しゅっしゃ | 1339150 | new / draft |
+| Open Anki N1 2032 | [出生](entries/1580/1580050-shusshou.org) | しゅっしょう | 1580050 | new / draft |
+| Open Anki N1 2034 | [微量](entries/1486/1486200-biryou.org) | びりょう | 1486200 | new / draft |
+| Open Anki N1 2035 | [昼飯](entries/1426/1426410-hirumeshi.org) | ひるめし | 1426410 | new / draft |
 
 ### Final audit
 
