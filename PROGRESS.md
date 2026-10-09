@@ -4796,6 +4796,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 88 | 10 |
 | 89 | 10 |
 | 90 | 10 |
+| 91 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5780,6 +5781,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1597 | [大衆](entries/1414/1414050-taishuu.org) | たいしゅう | 1414050 | new / draft |
 | Open Anki N1 1600 | [題する](entries/1983/1983720-daisuru.org) | だいする | 1983720 | new / draft |
 | Open Anki N1 1602 | [対談](entries/1410/1410230-taidan.org) | たいだん | 1410230 | new / draft |
+
+| Open Anki N1 1605 | [対等](entries/1410/1410250-taitou.org) | たいとう | 1410250 | new / draft |
+| Open Anki N1 1607 | [滞納](entries/1410/1410940-tainou.org) | たいのう | 1410940 | new / draft |
+| Open Anki N1 1608 | [対比](entries/1410/1410260-taihi.org) | たいひ | 1410260 | new / draft |
+| Open Anki N1 1609 | [タイピスト](entries/1075/1075920-taipisuto.org) | タイピスト | 1075920 | new / draft |
+| Open Anki N1 1610 | [大部](entries/1414/1414830-taibu.org) | たいぶ | 1414830 | new / draft |
+| Open Anki N1 1611 | [大便](entries/1415/1415010-daiben.org) | だいべん | 1415010 | new / draft |
+| Open Anki N1 1612 | [代弁](entries/1412/1412300-daiben.org) | だいべん | 1412300 | new / draft |
+| Open Anki N1 1613 | [待望](entries/1410/1410650-taibou.org) | たいぼう | 1410650 | new / draft |
+| Open Anki N1 1614 | [台本](entries/1412/1412760-daihon.org) | だいほん | 1412760 | new / draft |
+| Open Anki N1 1615 | [タイマー](entries/1075/1075990-taimaa.org) | タイマー | 1075990 | new / draft |
 
 ### Final audit
 
