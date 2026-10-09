@@ -4868,6 +4868,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 160 | 10 |
 | 161 | 10 |
 | 162 | 10 |
+| 163 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6644,6 +6645,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 577 | [嫌に](entries/1000/1000910-iyani.org) | いやに | 1000910 | new / draft |
 | Open Anki N1 578 | [嫌らしい](entries/1257/1257270-iyarashii.org) | いやらしい | 1257270 | new / draft |
 | Open Anki N1 612 | [鬱陶しい](entries/1568/1568430-uttoushii.org) | うっとうしい | 1568430 | new / draft |
+
+| Open Anki N1 673 | [大げさ](entries/1588/1588890-oogesa.org) | おおげさ | 1588890 | new / draft |
+| Open Anki N1 702 | [煽てる](entries/1391/1391600-odateru.org) | おだてる | 1391600 | new / draft |
+| Open Anki N1 718 | [夥しい](entries/1565/1565840-obitadashii.org) | おびただしい | 1565840 | new / draft |
+| Open Anki N1 741 | [疎か](entries/1396/1396630-orosoka.org) | おろそか | 1396630 | new / draft |
+| Open Anki N1 742 | [負んぶ](entries/1498/1498040-onbu.org) | おんぶ | 1498040 | new / draft |
+| Open Anki N1 796 | [踵](entries/1573/1573310-kakato.org) | かかと | 1573310 | new / draft |
+| Open Anki N1 826 | [嵩張る](entries/1372/1372890-kasabaru.org) | かさばる | 1372890 | new / draft |
+| Open Anki N1 860 | [敵わない](entries/1002/1002950-kanawanai.org) | かなわない | 1002950 | new / draft |
+| Open Anki N1 1042 | [煌びやか](entries/1570/1570480-kirabiyaka.org) | きらびやか | 1570480 | new / draft |
+| Open Anki N1 1068 | [潜る](entries/1609/1609710-kuguru.org) | くぐる | 1609710 | new / draft |
 
 ### Final audit
 
