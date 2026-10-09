@@ -4800,6 +4800,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 92 | 10 |
 | 93 | 10 |
 | 94 | 10 |
+| 95 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5828,6 +5829,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1660 | [だぶだぶ](entries/1007/1007430-dabudabu.org) | だぶだぶ | 1007430 | new / draft |
 | Open Anki N1 1662 | [多忙](entries/1408/1408040-tabou.org) | たぼう | 1408040 | new / draft |
 | Open Anki N1 1663 | [給う](entries/1230/1230220-tamau.org) | たまう | 1230220 | new / draft |
+
+| Open Anki N1 1665 | [溜まり](entries/1552/1552620-tamari.org) | たまり | 1552620 | new / draft |
+| Open Anki N1 1666 | [賜る](entries/1312/1312860-tamawaru.org) | たまわる | 1312860 | new / draft |
+| Open Anki N1 1669 | [多様](entries/1408/1408100-tayou.org) | たよう | 1408100 | new / draft |
+| Open Anki N1 1671 | [弛み](entries/1421/1421570-tarumi.org) | たるみ | 1421570 | new / draft |
+| Open Anki N1 1672 | [弛む](entries/1421/1421580-tarumu.org) | たるむ | 1421580 | new / draft |
+| Open Anki N1 1673 | [垂れる](entries/1370/1370870-tareru.org) | たれる | 1370870 | new / draft |
+| Open Anki N1 1674 | [タレント](entries/1076/1076460-tarento.org) | タレント | 1076460 | new / draft |
+| Open Anki N1 1675 | [タワー](entries/1076/1076470-tawaa.org) | タワー | 1076470 | new / draft |
+| Open Anki N1 1676 | [単一](entries/1417/1417100-tanitsu.org) | たんいつ | 1417100 | new / draft |
+| Open Anki N1 1678 | [担架](entries/1418/1418150-tanka.org) | たんか | 1418150 | new / draft |
 
 ### Final audit
 
