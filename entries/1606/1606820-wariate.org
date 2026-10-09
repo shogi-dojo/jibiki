@@ -1,0 +1,593 @@
+#+TITLE: 割り当て
+#+JMDICT_ID: 1606820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わりあて
+#+ROMAJI: wariate
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1606820-001
+:PROPERTIES:
+:TEXT: 割り当て
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1606820-002
+:PROPERTIES:
+:TEXT: 割当て
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1606820-003
+:PROPERTIES:
+:TEXT: 割当
+:END:
+** Reading rd-1606820-001
+:PROPERTIES:
+:TEXT: わりあて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1606820-002
+:PROPERTIES:
+:TEXT: かっとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 割当
+
+* Sense s-1606820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 549cbb6e114c71cf99190f08bbee0f83125a0b046a32c260e888e29f1db536a9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- allotment
+- assignment
+- allocation
+- quota
+- rationing
+** Ukrainian glosses
+*** uk-s-1606820-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розподіл; частка; квота; призначення; наділ
+** Learner notes
+*** note-s-1606820-001-001
+:PROPERTIES:
+:END:
+- UK :: Визначення частки, норми чи завдання для кожної особи, підрозділу чи регіону відповідно до загального плану (часто 割り当てを決める, 人員の割り当て, 予算の割り当て).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1606820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 仕事の割当を決める。
+- READING :: しごとのわりあてをきめる。
+- UK :: Визначити розподіл роботи.
+- EN :: Decide the work assignment.
+- FOCUS :: 割当を決める
+*** ex-1606820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プロジェクトの初期段階で、各メンバーへの作業の割当を明確にしておくことが円滑な進行の鍵となる。
+- READING :: ぷろじぇくとのしょきだんかいで、かくめんばーへのさぎょうのわりあてをめいかくにしておくことがえんかつなしんこうのかぎとなる。
+- UK :: На початковому етапі проєкту чітке визначення розподілу завдань між кожним учасником є запорукою злагодженого поступу.
+- EN :: Clearly defining the allocation of tasks to each member at the early stage of the project is the key to smooth progress.
+- FOCUS :: 作業の割当を
+*** ex-1606820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今年度の各自治体に対する補助金の割当が発表され、過疎地域のインフラ整備を重点的に支援する方針が示された。
+- READING :: こんねんどのかくじちたいにたいするほじょきんのわりあてがはっぴょうされ、かそちいきのいんふらせいびをじゅうてんてきにしえんするほうしんがしめされた。
+- UK :: Було оголошено цьогорічний розподіл державних субсидій між муніципалітетами, причому пріоритетним напрямом підтримки визначено розвиток інфраструктури малонаселених районів.
+- EN :: The allocation of subsidies to each local government for this fiscal year was announced, indicating a policy of focusing support on infrastructure development in depopulated areas.
+- FOCUS :: 補助金の割当が
+
+* Sense s-1606820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ee32482d29bc1ebb663835b438a7494b15e43eb9f9613072a81e5d94f356e35c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- allocation
+** Ukrainian glosses
+*** uk-s-1606820-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виділення ресурсів; алокація (пам'яті)
+** Learner notes
+*** note-s-1606820-002-001
+:PROPERTIES:
+:END:
+- UK :: Технічний розподіл або закріплення ресурсів комп'ютерної системи (наприклад, пам'яті чи процесорного часу; часто メモリの割り当て).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1606820-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大規模なデータを処理するプログラムでは、メモリの動的な割当と解放を適切に管理しないと速度が低下する。
+- READING :: だいきぼなでーたをしょりするぷろぐらむでは、めもりのどうてきなわりあてとかいほうをてきせつにかんりしないとそくどがていかする。
+- UK :: У програмі, що обробляє великі масиви даних, неналежне керування динамічним виділенням та звільненням пам'яті спричиняє сповільнення роботи.
+- EN :: In a program that processes large-scale data, the processing speed drops unless dynamic allocation and deallocation of memory are managed properly.
+- FOCUS :: メモリの動的な割当と
+
+* Sense s-1606820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8d45107d1aecc1e41326f333a6035b9bbefb0a488b6fb2745064ab1057b9d68f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toewijzing
+*** en-s-1606820-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toekenning
+*** en-s-1606820-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allocatie
+*** en-s-1606820-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gunning
+*** en-s-1606820-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdeling
+*** en-s-1606820-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkaveling
+*** en-s-1606820-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contingentering
+*** en-s-1606820-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rantsoenering
+** Ukrainian glosses
+
+* Sense s-1606820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8e6da8a189e7b6c8a8cb6f9fe62c0077fc3b11586f1848dc4304071757b3031d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contingent
+*** en-s-1606820-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quotum
+*** en-s-1606820-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quota
+*** en-s-1606820-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quote
+*** en-s-1606820-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rantsoen
+** Ukrainian glosses
+
+* Sense s-1606820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 476e6d1d24c5ea150e87589f38222c1e71597d7c9958e0a9c2bd2d60830ac3eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allocation
+*** en-s-1606820-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: attribution
+*** en-s-1606820-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cotisation
+*** en-s-1606820-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rationnement(?)
+** Ukrainian glosses
+
+* Sense s-1606820-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c4ed00c1d03575b3f3a587f0fe0c23b852bb6ec527f392235adb32ba8e0d2b1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anteil
+*** en-s-1606820-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beitrag
+*** en-s-1606820-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quote
+*** en-s-1606820-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuteilung
+*** en-s-1606820-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kontingent
+** Ukrainian glosses
+
+* Sense s-1606820-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9d2474094a31e5c673068041f172a8ffd50b4b9ed11146e86580950eb0a31c3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhelyezés
+*** en-s-1606820-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juttatás
+*** en-s-1606820-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiosztás
+*** en-s-1606820-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiutalás
+*** en-s-1606820-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felsorolás
+*** en-s-1606820-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kijelölés
+*** en-s-1606820-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kontingens
+*** en-s-1606820-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hozzárendelés
+*** en-s-1606820-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosítás
+*** en-s-1606820-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhelyezés
+*** en-s-1606820-007-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juttatás
+*** en-s-1606820-007-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiosztás
+*** en-s-1606820-007-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiutalás
+*** en-s-1606820-007-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felsorolás
+*** en-s-1606820-007-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kijelölés
+*** en-s-1606820-007-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kontingens
+** Ukrainian glosses
+
+* Sense s-1606820-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 70230eb9f06f3e4b2a6f958d97af4ca9d2e3de8e146e4e4e899f055864f06708
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: распределение; развёрстка; делёж
+*** en-s-1606820-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: распределение
+** Ukrainian glosses
+
+* Sense s-1606820-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 858d1efaca8f7a7aceb08f6f31a3719033ae08d9bb7bea5a52972a8679343fef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606820-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ración
+*** en-s-1606820-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: porción
+*** en-s-1606820-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuota
+*** en-s-1606820-009-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tasa
+*** en-s-1606820-009-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asignación
+*** en-s-1606820-009-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reparto
+** Ukrainian glosses
