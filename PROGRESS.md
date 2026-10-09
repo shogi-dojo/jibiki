@@ -4875,6 +4875,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 167 | 10 |
 | 168 | 10 |
 | 169 | 10 |
+| 170 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6728,6 +6729,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2643 | [美](entries/1486/1486350-bi.org) | び | 1486350 | new / draft |
 | Open Anki N1 2644 | [延いては](entries/1010/1010470-hiiteha.org) | ひいては | 1010470 | new / draft |
 | Open Anki N1 2645 | [ビールス](entries/2843/2843940-biirusu.org) | ビールス | 2843940 | new / draft |
+
+| Open Anki N1 2646 | [控え室](entries/1601/1601430-hikaeshitsu.org) | ひかえしつ | 1601430 | new / draft |
+| Open Anki N1 2647 | [控える](entries/1279/1279060-hikaeru.org) | ひかえる | 1279060 | new / draft |
+| Open Anki N1 2648 | [悲観](entries/1483/1483240-hikan.org) | ひかん | 1483240 | new / draft |
+| Open Anki N1 2650 | [率いる](entries/1551/1551210-hikiiru.org) | ひきいる | 1551210 | new / draft |
+| Open Anki N1 2654 | [引き取る](entries/1168/1168960-hikitoru.org) | ひきとる | 1168960 | new / draft |
+| Open Anki N1 2655 | [否決](entries/1482/1482980-hiketsu.org) | ひけつ | 1482980 | new / draft |
+| Open Anki N1 2656 | [日頃](entries/1464/1464070-higoro.org) | ひごろ | 1464070 | new / draft |
+| Open Anki N1 2658 | [悲惨](entries/1483/1483290-hisan.org) | ひさん | 1483290 | new / draft |
+| Open Anki N1 2659 | [ビジネス](entries/1104/1104780-bijinesu.org) | ビジネス | 1104780 | new / draft |
+| Open Anki N1 2660 | [比重](entries/1483/1483640-hijuu.org) | ひじゅう | 1483640 | new / draft |
 
 ### Final audit
 
