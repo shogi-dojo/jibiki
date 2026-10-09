@@ -4794,6 +4794,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 86 | 10 |
 | 87 | 10 |
 | 88 | 10 |
+| 89 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5756,6 +5757,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1564 | [措置](entries/1396/1396530-sochi.org) | そち | 1396530 | new / draft |
 | Open Anki N1 1565 | [ソックス](entries/1075/1075420-sokkusu.org) | ソックス | 1075420 | new / draft |
 | Open Anki N1 1566 | [素っ気無い](entries/1596/1596550-sokkenai.org) | そっけない | 1596550 | new / draft |
+
+| Open Anki N1 1567 | [外方](entries/1204/1204110-soppo.org) | そっぽ | 1204110 | new / draft |
+| Open Anki N1 1568 | [備え付ける](entries/1485/1485650-sonaetsukeru.org) | そなえつける | 1485650 | new / draft |
+| Open Anki N1 1571 | [聳える](entries/1570/1570770-sobieru.org) | そびえる | 1570770 | new / draft |
+| Open Anki N1 1578 | [反る](entries/1480/1480170-soru.org) | そる | 1480170 | new / draft |
+| Open Anki N1 1580 | [ソロ](entries/1075/1075630-soro.org) | ソロ | 1075630 | new / draft |
+| Open Anki N1 1581 | [揃い](entries/1406/1406100-soroi.org) | そろい | 1406100 | new / draft |
+| Open Anki N1 1582 | [ぞんざい](entries/1007/1007170-zonzai.org) | ぞんざい | 1007170 | new / draft |
+| Open Anki N1 1584 | [存続](entries/1406/1406190-sonzoku.org) | そんぞく | 1406190 | new / draft |
+| Open Anki N1 1585 | [ダース](entries/1076/1076650-daasu.org) | ダース | 1076650 | new / draft |
+| Open Anki N1 1587 | [大家](entries/1413/1413150-taika.org) | たいか | 1413150 | new / draft |
 
 ### Final audit
 
