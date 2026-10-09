@@ -4826,6 +4826,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 118 | 10 |
 | 119 | 10 |
 | 120 | 10 |
+| 121 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6140,6 +6141,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2047 | [ファイル](entries/1107/1107800-fairu.org) | ファイル | 1107800 | new / draft |
 | Open Anki N1 2049 | [不意](entries/1491/1491210-fui.org) | ふい | 1491210 | new / draft |
 | Open Anki N1 2050 | [フィルタ](entries/1109/1109330-firutaa.org) | フィルタ | 1109330 | new / draft |
+
+| Open Anki N1 2051 | [封](entries/1499/1499580-fuu.org) | ふう | 1499580 | new / draft |
+| Open Anki N1 2052 | [封鎖](entries/1499/1499650-fuusa.org) | ふうさ | 1499650 | new / draft |
+| Open Anki N1 2053 | [風車](entries/1583/1583710-fuusha.org) | ふうしゃ | 1583710 | new / draft |
+| Open Anki N1 2055 | [風俗](entries/1499/1499960-fuuzoku.org) | ふうぞく | 1499960 | new / draft |
+| Open Anki N1 2056 | [ブーツ](entries/1113/1113130-buutsu.org) | ブーツ | 1113130 | new / draft |
+| Open Anki N1 2057 | [風土](entries/1500/1500020-fuudo.org) | ふうど | 1500020 | new / draft |
+| Open Anki N1 2058 | [ブーム](entries/1113/1113160-buumu.org) | ブーム | 1113160 | new / draft |
+| Open Anki N1 2062 | [ぶかぶか](entries/1011/1011130-bukabuka.org) | ぶかぶか | 1011130 | new / draft |
+| Open Anki N1 2063 | [不吉](entries/1491/1491910-fukitsu.org) | ふきつ | 1491910 | new / draft |
+| Open Anki N1 2066 | [複合](entries/1501/1501320-fukugou.org) | ふくごう | 1501320 | new / draft |
 
 ### Final audit
 
