@@ -1,0 +1,622 @@
+#+TITLE: 分散
+#+JMDICT_ID: 1503580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんさん
+#+ROMAJI: bunsan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1503580-001
+:PROPERTIES:
+:TEXT: 分散
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf11
+** Reading rd-1503580-001
+:PROPERTIES:
+:TEXT: ぶんさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf11
+
+* Sense s-1503580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 16124a806c1f7feb4b0a3c14f485716e4e3808e6c84a2538e94548488a1af0c4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- dispersion
+- breakup
+- scattering
+- decentralization
+- decentralisation
+- distribution
+** Ukrainian glosses
+*** uk-s-1503580-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розосередження; диверсифікація; розподіл; розсіювання
+** Learner notes
+*** note-s-1503580-001-001
+:PROPERTIES:
+:END:
+- UK :: Розподіл людей, ризиків, функцій або навантаження по різних місцях і напрямках (часто リスク分散, 分散投資, 人混みの分散).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1503580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 投資のリスクを分散する。
+- READING :: とうしのりすくをぶんさんする。
+- UK :: Диверсифікувати інвестиційні ризики.
+- EN :: Disperse investment risks.
+- FOCUS :: リスクを分散する
+*** ex-1503580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 首都直下地震などの大規模災害に備えるため、政府は中枢機関の機能を地方都市へと分散させる国土強靭化計画を進めている。
+- READING :: しゅとちょっかじしんなどのだいきぼさいがいにそなえるため、せいふはちゅうすうきかんのきのうをちほうとしへとぶんさんさせるこくどきょうじんかけいかくをすすめている。
+- UK :: Готуючись до можливих катастроф у столиці, уряд упроваджує план децентралізації, розподіляючи державні органи по регіонах.
+- EN :: To prepare for large-scale disasters such as an earthquake directly hitting the capital, the government is advancing a national resilience plan to disperse central agency functions to regional cities.
+- FOCUS :: 地方都市へと分散させる
+*** ex-1503580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 観光地の過密化による混雑を緩和する目的で、週末に集中する旅行者の訪問時期や周遊ルートを平日に分散させる施策が効果を上げている。
+- READING :: かんこうちのかみつかによるこんざつをかんわするもくてきで、しゅうまつにしゅうちゅうするりょこうしゃのほうもんじきやしゅうゆうるーとをへいじつにぶんさんさせるしさくがこうかをあげている。
+- UK :: Щоб розвантажити туристичні локації, успішно впроваджують заходи з перенаправлення турпотоків на будні дні та альтернативні маршрути.
+- EN :: With the aim of mitigating congestion caused by overcrowding in sightseeing spots, measures to distribute the visit timing and tour routes of travelers concentrated on weekends toward weekdays are yielding results.
+- FOCUS :: 平日に分散させる施策が
+
+* Sense s-1503580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3e93dec2e6530a79059ecbd69e563929e6fdf63842fd40d4046bf1389eaf9b6f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- stat
+** English glosses
+- variance
+** Ukrainian glosses
+*** uk-s-1503580-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дисперсія (у математичній статистиці); міра розсіювання
+** Learner notes
+*** note-s-1503580-002-001
+:PROPERTIES:
+:END:
+- UK :: Статистична величина, яка показує ступінь відхилення чи розкиду значень випадкової величини навколо її середнього значення (часто 分散を求める, 標本分散).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1503580-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 統計学のデータ分析において、データのばらつき度合いを定量的に把握するために平均値と併せて分散の値を正確に計算した。
+- READING :: とうけいがくのでーたぶんせきにおいて、でーたのばらつきどあいをていりょうてきにはあくするためにへいきんちとあわせてぶんさんのあたいをせいかくにけいさんした。
+- UK :: Під час аналізу статистичних даних ми вирахували точне значення дисперсії разом із середнім, щоб кількісно оцінити рівень розсіювання вибірки.
+- EN :: In statistical data analysis, in order to quantitatively grasp the degree of variation in data, we accurately calculated the value of variance alongside the mean.
+- FOCUS :: 分散の値を正確に計算した
+
+* Sense s-1503580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: edb3c9f1bbf656bd4c095681a8ca85683c95f30d4c62016c585b3ba1e2ea4620
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- chem
+- physics
+** English glosses
+- dispersion
+** Ukrainian glosses
+*** uk-s-1503580-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дисперсія світла; розсіювання променів; колоїдний стан (хім.)
+** Learner notes
+*** note-s-1503580-003-001
+:PROPERTIES:
+:END:
+- UK :: Фізичне явище розкладання світла на спектральні кольори в призмі або рівномірне зависання дрібних часток речовини в середовищі (часто 光の分散, 分散系).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1503580-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 暗い実験室で透明なガラスプリズムに太陽光を当てると、光の分散によって鮮やかな七色の虹の帯がスクリーン上に映し出された。
+- READING :: くらいじっけんしつでとうめいながらすぷりずむにたいようこうをあてると、ひかりのぶんさんによってあざやかななないろのにじのおびがすくりーんじょうにうつしだされた。
+- UK :: Коли в темній лабораторії на скляну призму спрямували сонячний промінь, унаслідок дисперсії світла на екрані засяяла семибарвна райдуга.
+- EN :: When sunlight was directed onto a transparent glass prism in the dark laboratory, a vivid seven-colored rainbow spectrum was projected on the screen due to light dispersion.
+- FOCUS :: 光の分散によって
+
+* Sense s-1503580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ad5c2435b80730723dc2896da8fe4b1daf390703654ee9f2effb4a87ba09ea9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstrooiing
+*** en-s-1503580-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verspreiding
+*** en-s-1503580-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spreiding
+*** en-s-1503580-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decentralisatie
+*** en-s-1503580-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strooiing
+*** en-s-1503580-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versnippering
+*** en-s-1503580-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {stat.} variantie
+*** en-s-1503580-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.
+*** en-s-1503580-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chem.} dispersie
+*** en-s-1503580-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uiteengaan
+*** en-s-1503580-004-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uit elkaar gaan
+*** en-s-1503580-004-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich verspreiden
+*** en-s-1503580-004-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich verstrooien
+*** en-s-1503580-004-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versnipperen
+*** en-s-1503580-004-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstrooid raken
+** Ukrainian glosses
+
+* Sense s-1503580-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3d3b8c6907ddc19b2cc147d18f470bf2845e211f9b1848e856bc4b83290d22e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: décentralisation
+*** en-s-1503580-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dispersion
+** Ukrainian glosses
+
+* Sense s-1503580-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 8e73dc5510ce2cdb69932c2b7a405691a86311b76dbbe0dcd2467a284de48d8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auseinandergehen
+*** en-s-1503580-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dispersion
+*** en-s-1503580-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zerstreuung
+** Ukrainian glosses
+
+* Sense s-1503580-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 25e9582f481adc5b04cbe8125941b538f6f975529f872515a9d14c882741e8a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Streuung
+*** en-s-1503580-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Varianz
+*** en-s-1503580-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auseinandergehen
+** Ukrainian glosses
+
+* Sense s-1503580-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a22df667bb07b98d4f10544cfea8f1d5fbee12c18c86b458493d53e50e4f80ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diaszpóra
+*** en-s-1503580-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diszperzió
+*** en-s-1503580-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszóródás
+*** en-s-1503580-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszórtság
+*** en-s-1503580-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diszharmónia
+*** en-s-1503580-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellentmondás
+*** en-s-1503580-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viszály
+*** en-s-1503580-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eloszlás
+*** en-s-1503580-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szóródás
+*** en-s-1503580-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: variáció (statisztikában is)
+** Ukrainian glosses
+
+* Sense s-1503580-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0d6676a978a7dc191b816aff5e74fc9f14dd366193fcda5ddf181ee790b9f32c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) рассеивание; распыление; рассредоточение; распад; (физ., хим.) дисперсия
+*** en-s-1503580-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} рассеиваться; распыляться; расходиться (в разные стороны); разобщаться
+*** en-s-1503580-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～的} разобщённо
+*** en-s-1503580-009-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (уст.) банкротство
+*** en-s-1503580-009-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} обанкротиться
+** Ukrainian glosses
+
+* Sense s-1503580-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c7054b7145e6d75e8113b64459d7ce4161b3111f5fb59b34e4cdb3ba082b1829
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razpršitev
+*** en-s-1503580-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razkropitev
+*** en-s-1503580-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razhajanje
+*** en-s-1503580-010-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decentralizacija
+** Ukrainian glosses
+
+* Sense s-1503580-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 6a0501dd7f764c752dce13903762c72d4456ff85abbb22be4cdf33405ae30100
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503580-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dispersión
+*** en-s-1503580-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diseminación
+** Ukrainian glosses
