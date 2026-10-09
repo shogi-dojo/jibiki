@@ -1,0 +1,408 @@
+#+TITLE: 立体
+#+JMDICT_ID: 1551740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りったい
+#+ROMAJI: rittai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1551740-001
+:PROPERTIES:
+:TEXT: 立体
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1551740-001
+:PROPERTIES:
+:TEXT: りったい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1551740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bd72b6cbc991948bece82b3c13257a55a2463c9e6b7d23dd2d12df6d0ad1665b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- solid body
+- three-dimensional object
+** Ukrainian glosses
+*** uk-s-1551740-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: тривимірне тіло; об'ємний предмет; просторова форма
+** Learner notes
+*** note-s-1551740-001-001
+:PROPERTIES:
+:END:
+- UK :: Геометричний об'єкт чи фізичне тіло, що має довжину, ширину і висоту, тобто займає простір у трьох вимірах (часто 立体的な構造, 立体交差, 立体模型).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1551740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 平面の図面から立体を組み立てる。
+- READING :: へいめんのずめんからりったいをくみたてる。
+- UK :: Зібрати об'ємне тіло з плоского креслення.
+- EN :: To assemble a three-dimensional object from a flat drawing.
+- FOCUS :: 立体を組み立てる
+*** ex-1551740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 最新のコンピュータグラフィックス技術を用いることで、平面のスクリーン上に本物と見紛うほど精密な立体を映し出すことができる。
+- READING :: さいしんのこんぴゅーたぐらふぃっくすぎじゅつをもちいることで、へいめんのすくりーんじょうにほんものとみまがうほどせいみつなりったいをうつしだすことができる。
+- UK :: Використання найновітніших технологій комп'ютерної графіки дозволяє відтворювати на плоскому екрані тривимірні об'єкти, невідрізненні від справжніх.
+- EN :: By using the latest computer graphics technology, it is possible to project three-dimensional objects so precise that they can be mistaken for the real thing on a flat screen.
+- FOCUS :: 精密な立体を映し出す
+*** ex-1551740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複雑な分子構造の仕組みを直感的に理解させるため、理科の授業では色分けされた球体を組み合わせた精巧な立体模型が用いられた。
+- READING :: ふくざつなぶんしこうぞうのしくみをちょっかんてきにりかいさせるため、りかのじゅぎょうではいろわけされたきゅうたいをくみあわせたせいこうなりったいもけいがもちいられた。
+- UK :: Щоб учні інтуїтивно зрозуміли будову складної молекули, на уроці хімії використали детальну об'ємну модель із різнокольорових кульок.
+- EN :: In order to enable intuitive understanding of the complex molecular structure, an elaborate three-dimensional model combining color-coded spheres was used in the science class.
+- FOCUS :: 精巧な立体模型が用いられた
+
+* Sense s-1551740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b62ead7c650ededf80be05f67796f1b0e98ebd4778c32a7f5d22b5fcd63877a7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 立体駐車場・1
+** English glosses
+- multi-storey car park
+** Ukrainian glosses
+*** uk-s-1551740-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: багаторівневий паркінг; багатоярусна автостоянка (розмовне скорочення)
+** Learner notes
+*** note-s-1551740-002-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне скорочення від 立体駐車場, що позначає механізований або багатоповерховий паркінг (часто 車を立体に入れる, 立体に止める).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1551740-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 駅前の平面駐車場が満車だったため、誘導員に従って近くの立体に車を止め、エレベーターで地上に降りた。
+- READING :: えきまえのへいめんちゅうしゃじょうがまんしゃだったため、ゆうどういんにしたがってちかくのりったいにくるまをとめ、えれべーたーでちじょうにおりた。
+- UK :: Оскільки звичайний паркінг біля вокзалу був заповнений, я за вказівкою регулювальника заїхав у найближчий багатоярусний паркінг.
+- EN :: Because the flat parking lot in front of the station was full, following the attendant's guidance I parked my car in the nearby multi-storey garage and descended to ground level by elevator.
+- FOCUS :: 近くの立体に車を止め
+
+* Sense s-1551740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b9375e929ba4f05dbc0aa08560070d90bcd9c06c0154a57589f485258543abf9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruimtelijk
+*** en-s-1551740-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: driedimensionaal
+*** en-s-1551740-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tridimensionaal
+*** en-s-1551740-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stereoscopisch
+*** en-s-1551740-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruimte-
+*** en-s-1551740-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stereo-
+*** en-s-1551740-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: driedimensionaal lichaam
+*** en-s-1551740-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stereometrische figuur
+*** en-s-1551740-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruimtefiguur
+** Ukrainian glosses
+
+* Sense s-1551740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2d5d40a139880e86e750015763cdb64c68a5c6c6efc295c44217ba6231f4b497
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruimtelijk
+*** en-s-1551740-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: driedimensionaal
+*** en-s-1551740-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tridimensionaal
+*** en-s-1551740-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stereoscopisch
+*** en-s-1551740-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruimte-
+*** en-s-1551740-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stereo-
+** Ukrainian glosses
+
+* Sense s-1551740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c37b055926bd2dca7af9a45ecd602c3d94c52f4c395de68bb94e5ff1dac9b418
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corps solide
+** Ukrainian glosses
+
+* Sense s-1551740-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 62064f04642143f016df469f3dfbf1f225de239fe6f4e0bdc6c9ca19925b39ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fest
+*** en-s-1551740-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dreidimensional
+*** en-s-1551740-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fester Körper
+*** en-s-1551740-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Körper
+*** en-s-1551740-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kubus
+*** en-s-1551740-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dreidimensionale Form
+** Ukrainian glosses
+
+* Sense s-1551740-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d2203ef3440b69671d61e5205338255cda98d6deffb48d2d7da07df8985170e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szilárd test
+** Ukrainian glosses
+
+* Sense s-1551740-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d6c3fd8b22287cefd3dc14475f5c7ee6b4b95cda956ccff2c71fb44afeb1a4de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]}, {～的} трёхмерный, кубический, объёмный; стерео…
+** Ukrainian glosses
+
+* Sense s-1551740-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: aca61fbd427ef72f98cfe627d4003aa34ab41159202cf7576c79d997fb99c700
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1551740-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuerpo sólido
+** Ukrainian glosses
