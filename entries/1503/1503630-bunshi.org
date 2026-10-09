@@ -1,0 +1,513 @@
+#+TITLE: 分子
+#+JMDICT_ID: 1503630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんし
+#+ROMAJI: bunshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1503630-001
+:PROPERTIES:
+:TEXT: 分子
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1503630-001
+:PROPERTIES:
+:TEXT: ぶんし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf09
+
+* Sense s-1503630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7c4b76f2f4407bd3839bf6a8034fd167bd67497e891c6a44791df212a4280777
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+** English glosses
+- molecule
+** Ukrainian glosses
+*** uk-s-1503630-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: молекула
+** Learner notes
+*** note-s-1503630-001-001
+:PROPERTIES:
+:END:
+- UK :: Найменша частинка хімічної сполуки, що зберігає її хімічні властивості та складається з двох або більше атомів (часто 水分子, 高分子, 分子構造).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1503630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水の分子構造を調べる。
+- READING :: みずのぶんしこうぞうをしらべる。
+- UK :: Досліджувати молекулярну структуру води.
+- EN :: Examine the molecular structure of water.
+- FOCUS :: 分子構造を
+*** ex-1503630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 先端医療の研究現場では、病気の原因となる特定の分子に直接作用する新しい分子標的薬の開発が精力的に進められている。
+- READING :: せんたんいりょうのけんきゅうげんばでは、びょうきのげんいんとなるとくていのぶんしにちょくせつさようするあたらしいぶんしひょうてきやくのかいはつがせいりょくてきにすすめられている。
+- UK :: У передових медичних лабораторіях активно розробляють інноваційні препарати таргетної терапії, що впливають на специфічні молекули в клітинах.
+- EN :: At the cutting-edge medical research site, the development of new molecular targeted drugs that act directly on specific molecules causing diseases is being energetically advanced.
+- FOCUS :: 新しい分子標的薬の
+*** ex-1503630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 化学実験室で最新の電子顕微鏡を用いて有機化合物の結合状態を観察し、複雑に折りたたまれた高分子の立体構造を原子レベルで解明した。
+- READING :: かがくじっけんしつでさいしんのでんしけんびきょうをもちいてゆうきかごうぶつのけつごうじょうたいをかんさつし、ふくざつにおりたたまれたこうぶんしのりったいこうぞうをげんしれべるでかいめいした。
+- UK :: За допомогою електронного мікроскопа в хімічній лабораторії дослідили просторову структуру високомолекулярних полімерів на атомному рівні.
+- EN :: Observing the bonding state of organic compounds using the latest electron microscope in the chemistry laboratory, they unraveled the three-dimensional structure of intricately folded macromolecules at the atomic level.
+- FOCUS :: 高分子の立体構造を
+
+* Sense s-1503630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8ba8331f6867480a542d00aecc96fd426ed54e56883b3606c4d84c158bdb32cc
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- numerator
+** Ukrainian glosses
+*** uk-s-1503630-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: чисельник (дробу)
+** Learner notes
+*** note-s-1503630-002-001
+:PROPERTIES:
+:END:
+- UK :: Число, розташоване над рискою дробу, що позначає кількість взятих частин цілого (часто 分子と分母, 分子を割る).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1503630-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 分数の足し算を行うときは、まず分母を共通の数に通分した上で分子どうしを足し合わせる計算ルールを小学校で教わる。
+- READING :: ぶんすうのたしざんをおこなうときは、まずぶんぼをきょうつうのかずにつうぶんしたうえでぶんしどうしをたしあわせるけいさんるーるをしょうがっこうでおそわる。
+- UK :: При додаванні дробів у початковій школі вчать спочатку зводити дроби до спільного знаменника, а потім складати їхні чисельники.
+- EN :: When adding fractions, one is taught in elementary school the calculation rule of first reducing denominators to a common number and then adding numerators together.
+- FOCUS :: 分子どうしを足し合わせる
+
+* Sense s-1503630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e209faf7b9dc0eca09416684bd962174214f621197f510aae310c74d55969076
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- element (of a group)
+- member
+** Ukrainian glosses
+*** uk-s-1503630-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: елемент (групи); складова частина; фракція; угруповання
+** Learner notes
+*** note-s-1503630-003-001
+:PROPERTIES:
+:END:
+- UK :: Окрема людина або частина всередині соціальної групи, організації чи партії, що вирізняється певними поглядами (часто 過激派分子, 不穏分子).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1503630-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 社会の秩序と治安を脅かす不穏な過激派分子の動向を監視するため、治安当局は警戒レベルを最大限に引き上げて情報収集を強化した。
+- READING :: しゃかいのちつじょとちあんをおびやかすふおんなかげきはぶんしのどうこうをかんしするため、ちあんとうきょくはけいかいれべるをさいだいげんにひきあげてじょうほうしゅうしゅうをきょうかした。
+- UK :: Щоб контролювати дії радикальних небезпечних угруповань, які загрожують правопорядку, правоохоронці посилили розвідку й підняли рівень тривоги.
+- EN :: In order to monitor the movements of disturbing radical elements that threaten social order and security, public safety authorities raised the alert level to maximum and reinforced intelligence collection.
+- FOCUS :: 過激派分子の動向を
+
+* Sense s-1503630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b716d37e46fc316b6d4ca3e71b304cba173c5d53a958345f7fc9653a7deae14e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 微分子
+** English glosses
+- particle
+** Ukrainian glosses
+*** uk-s-1503630-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: частка (у мовознавстві); дрібна частка
+** Learner notes
+*** note-s-1503630-004-001
+:PROPERTIES:
+:END:
+- UK :: Окрема мінімальна одиниця мови (частка, суфікс) або неподільна мікрочастинка в спеціальному науковому контексті (часто 言語の分子, 構成分子).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1503630-004-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複雑な文法体系を構成する個々の機能的な言語分子を細かく分析することで、文の意味構造を理論的に解明する研究が進んでいる。
+- READING :: ふくざつなぶんぽうたいけいをこうせいするここのきのうてきなげんごぶんしをこまかくぶんせきすることで、ぶんのいみこうぞうをりろんてきにかいめいするけんきゅうがすすんでいる。
+- UK :: Завдяки ретельному аналізу окремих функціональних мовних частинок граматичної системи науковці розкривають семантичну структуру речень.
+- EN :: By finely analyzing individual functional linguistic particles constituting complex grammatical systems, research theoretically unraveling semantic structures of sentences is advancing.
+- FOCUS :: 言語分子を細かく分析することで
+
+* Sense s-1503630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 43d0500868d836a80cc077271f35152994bacc0544a9ba46e8a4d3274d920809
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.
+*** en-s-1503630-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chem.} molecule
+** Ukrainian glosses
+
+* Sense s-1503630-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: db8bb16948e9a7ad663d2dba3743755f21c3fc6a62e988c6b0dfbc2cc717eae5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} teller
+** Ukrainian glosses
+
+* Sense s-1503630-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8e655024adb1d883a7d2c72aa7cae0da05d4db80dabd238ebd0f746f8630da02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lid
+*** en-s-1503630-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: element
+*** en-s-1503630-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verzameln.} lui
+*** en-s-1503630-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lieden
+** Ukrainian glosses
+
+* Sense s-1503630-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e029fbaba2451c5ab3b4b3b8c67009b6eb7550b95f01345cd0800d530a8dcb23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: molécule
+** Ukrainian glosses
+
+* Sense s-1503630-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: cd5269c82d926852ecfeab9cce99ae9b4f50964b8062863769f0f2323e56c8d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-009-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: numérateur
+** Ukrainian glosses
+
+* Sense s-1503630-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c70acc8a32872cc2878b1eec8997f3248b454d6773db6fdb75d403e017e5e956
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Molekül
+** Ukrainian glosses
+
+* Sense s-1503630-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 23a515805fccd4ab41bc3eeff267d89b5c3abf6190a704270af69f09346f8418
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zähler (in Brüchen)
+** Ukrainian glosses
+
+* Sense s-1503630-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 5b52c54bad6e53e19373763acafe2406fc39401da480ed27ec6607025a012284
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Element
+** Ukrainian glosses
+
+* Sense s-1503630-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: aa43196acba6acf9e1059b29476852ef0ffa8ddc2e9ad0a7b33901a0ce2c297b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elem
+*** en-s-1503630-013-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: molekula (kémiában)
+*** en-s-1503630-013-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számláló (matematikában)
+** Ukrainian glosses
+
+* Sense s-1503630-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 0a9b0222a8c8c728fb1d08a71b609b0a9e448cee68858cf3d11250a1f0437d05
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) молекула
+*** en-s-1503630-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (мат.) числитель
+*** en-s-1503630-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) элемент (о ком-л.)
+** Ukrainian glosses
+
+* Sense s-1503630-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: c4693df3128eccb1d8239421679680e685e858b1b1719182d3a419344670eeb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: molekula
+*** en-s-1503630-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delček
+** Ukrainian glosses
+
+* Sense s-1503630-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: 021b8e89cbe2933069fd070f65f5086b2cf4e72700d6e5daf02f0d7e79bed5e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1503630-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: molécula
+*** en-s-1503630-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: numerador
+** Ukrainian glosses
