@@ -4829,6 +4829,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 121 | 10 |
 | 122 | 10 |
 | 123 | 10 |
+| 124 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6176,6 +6177,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2098 | [無難](entries/1530/1530750-bunan.org) | ぶなん | 1530750 | new / draft |
 | Open Anki N1 2101 | [不評](entries/1494/1494640-fuhyou.org) | ふひょう | 1494640 | new / draft |
 | Open Anki N1 2102 | [不服](entries/1494/1494700-fufuku.org) | ふふく | 1494700 | new / draft |
+
+| Open Anki N1 2103 | [普遍](entries/1602/1602820-fuhen.org) | ふへん | 1602820 | new / draft |
+| Open Anki N1 2107 | [部門](entries/1499/1499540-bumon.org) | ぶもん | 1499540 | new / draft |
+| Open Anki N1 2109 | [ふらふら](entries/1011/1011060-furafura.org) | ふらふら | 1011060 | new / draft |
+| Open Anki N1 2110 | [ぶらぶら](entries/1011/1011230-burabura.org) | ぶらぶら | 1011230 | new / draft |
+| Open Anki N1 2112 | [振り出し](entries/1602/1602990-furidashi.org) | ふりだし | 1602990 | new / draft |
+| Open Anki N1 2113 | [不良](entries/1495/1495290-furyou.org) | ふりょう | 1495290 | new / draft |
+| Open Anki N1 2114 | [浮力](entries/1497/1497580-furyoku.org) | ふりょく | 1497580 | new / draft |
+| Open Anki N1 2115 | [武力](entries/1499/1499000-buryoku.org) | ぶりょく | 1499000 | new / draft |
+| Open Anki N1 2117 | [震わせる](entries/1366/1366330-furuwaseru.org) | ふるわせる | 1366330 | new / draft |
+| Open Anki N1 2118 | [無礼](entries/1531/1531060-burei.org) | ぶれい | 1531060 | new / draft |
 
 ### Final audit
 
