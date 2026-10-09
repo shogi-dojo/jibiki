@@ -4810,6 +4810,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 102 | 10 |
 | 103 | 10 |
 | 104 | 10 |
+| 105 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5948,6 +5949,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1810 | [提携](entries/1436/1436380-teikei.org) | ていけい | 1436380 | new / draft |
 | Open Anki N1 1811 | [体裁](entries/1409/1409480-teisai.org) | ていさい | 1409480 | new / draft |
 | Open Anki N1 1812 | [提示](entries/1436/1436400-teiji.org) | ていじ | 1436400 | new / draft |
+
+| Open Anki N1 1813 | [ティシュペーパー](entries/1079/1079110-tisshupeepaa.org) | ティシュペーパー | 1079110 | new / draft |
+| Open Anki N1 1814 | [定食](entries/1435/1435650-teishoku.org) | ていしょく | 1435650 | new / draft |
+| Open Anki N1 1816 | [停滞](entries/1435/1435010-teitai.org) | ていたい | 1435010 | new / draft |
+| Open Anki N1 1817 | [邸宅](entries/1436/1436820-teitaku.org) | ていたく | 1436820 | new / draft |
+| Open Anki N1 1820 | [手遅れ](entries/1328/1328120-teokure.org) | ておくれ | 1328120 | new / draft |
+| Open Anki N1 1821 | [でかい](entries/1008/1008370-dekai.org) | でかい | 1008370 | new / draft |
+| Open Anki N1 1822 | [手掛かり](entries/1598/1598300-tegakari.org) | てがかり | 1598300 | new / draft |
+| Open Anki N1 1823 | [手掛ける](entries/1327/1327390-tegakeru.org) | てがける | 1327390 | new / draft |
+| Open Anki N1 1824 | [手数](entries/1327/1327970-tesuu.org) | てかず | 1327970 | new / draft |
+| Open Anki N1 1827 | [適宜](entries/1437/1437380-tekigi.org) | てきぎ | 1437380 | new / draft |
 
 ### Final audit
 
