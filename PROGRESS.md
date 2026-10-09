@@ -4832,6 +4832,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 124 | 10 |
 | 125 | 10 |
 | 126 | 10 |
+| 127 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6212,6 +6213,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2145 | [平方](entries/1507/1507850-heihou.org) | へいほう | 1507850 | new / draft |
 | Open Anki N1 2146 | [並列](entries/1508/1508530-heiretsu.org) | へいれつ | 1508530 | new / draft |
 | Open Anki N1 2148 | [辟易](entries/1573/1573590-hekieki.org) | へきえき | 1573590 | new / draft |
+
+| Open Anki N1 2149 | [ぺこぺこ](entries/1011/1011540-pekopeko.org) | ぺこぺこ | 1011540 | new / draft |
+| Open Anki N1 2151 | [ベストセラー](entries/1119/1119560-besutoseraa.org) | ベストセラー | 1119560 | new / draft |
+| Open Anki N1 2152 | [隔たる](entries/1206/1206340-hedataru.org) | へだたる | 1206340 | new / draft |
+| Open Anki N1 2153 | [縁](entries/2056/2056370-heri.org) | へり | 2056370 | new / draft |
+| Open Anki N1 2155 | [弁解](entries/1512/1512760-benkai.org) | べんかい | 1512760 | new / draft |
+| Open Anki N1 2156 | [変革](entries/1510/1510940-henkaku.org) | へんかく | 1510940 | new / draft |
+| Open Anki N1 2157 | [返還](entries/1512/1512170-henkan.org) | へんかん | 1512170 | new / draft |
+| Open Anki N1 2158 | [便宜](entries/1512/1512480-bengi.org) | べんぎ | 1512480 | new / draft |
+| Open Anki N1 2163 | [変遷](entries/1511/1511260-hensen.org) | へんせん | 1511260 | new / draft |
+| Open Anki N1 2164 | [返答](entries/1512/1512290-hentou.org) | へんとう | 1512290 | new / draft |
 
 ### Final audit
 
