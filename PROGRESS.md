@@ -4788,6 +4788,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 80 | 10 |
 | 81 | 10 |
 | 82 | 10 |
+| 83 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5684,6 +5685,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1479 | [セール](entries/1074/1074330-seeru.org) | セール | 1074330 | new / draft |
 | Open Anki N1 1480 | [急かす](entries/1228/1228580-sekasu.org) | せかす | 1228580 | new / draft |
 | Open Anki N1 1481 | [伜](entries/1585/1585440-segare.org) | せがれ | 1585440 | new / draft |
+
+| Open Anki N1 1482 | [責務](entries/1383/1383230-sekimu.org) | せきむ | 1383230 | new / draft |
+| Open Anki N1 1483 | [セクション](entries/1074/1074490-sekushon.org) | セクション | 1074490 | new / draft |
+| Open Anki N1 1484 | [世辞](entries/1374/1374060-seji.org) | せじ | 1374060 | new / draft |
+| Open Anki N1 1488 | [切開](entries/1384/1384980-sekkai.org) | せっかい | 1384980 | new / draft |
+| Open Anki N1 1489 | [セックス](entries/1074/1074570-sekkusu.org) | セックス | 1074570 | new / draft |
+| Open Anki N1 1490 | [切実](entries/1385/1385050-setsujitsu.org) | せつじつ | 1385050 | new / draft |
+| Open Anki N1 1492 | [接続詞](entries/1385/1385510-setsuzokushi.org) | せつぞくし | 1385510 | new / draft |
+| Open Anki N1 1493 | [設置](entries/1386/1386050-setchi.org) | せっち | 1386050 | new / draft |
+| Open Anki N1 1494 | [折衷](entries/1385/1385960-setchuu.org) | せっちゅう | 1385960 | new / draft |
+| Open Anki N1 1498 | [絶版](entries/1386/1386940-zeppan.org) | ぜっぱん | 1386940 | new / draft |
 
 ### Final audit
 
