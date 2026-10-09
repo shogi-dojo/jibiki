@@ -4844,6 +4844,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 136 | 10 |
 | 137 | 10 |
 | 138 | 10 |
+| 139 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6356,6 +6357,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2258 | [マーク](entries/1126/1126140-maaku.org) | マーク | 1126140 | new / draft |
 | Open Anki N1 2260 | [マイクロフォン](entries/1126/1126770-maikurofon.org) | マイクロフォン | 1126770 | new / draft |
 | Open Anki N1 2261 | [埋蔵](entries/1524/1524560-maizou.org) | まいぞう | 1524560 | new / draft |
+
+| Open Anki N1 2262 | [舞う](entries/1499/1499100-mau.org) | まう | 1499100 | new / draft |
+| Open Anki N1 2263 | [真上](entries/1363/1363940-maue.org) | まうえ | 1363940 | new / draft |
+| Open Anki N1 2264 | [前売](entries/1603/1603780-maeuri.org) | まえうり | 1603780 | new / draft |
+| Open Anki N1 2265 | [前置き](entries/1393/1393630-maeoki.org) | まえおき | 1393630 | new / draft |
+| Open Anki N1 2266 | [任す](entries/1467/1467130-makasu.org) | まかす | 1467130 | new / draft |
+| Open Anki N1 2267 | [負かす](entries/1497/1497950-makasu.org) | まかす | 1497950 | new / draft |
+| Open Anki N1 2270 | [紛れる](entries/1505/1505010-magireru.org) | まぎれる | 1505010 | new / draft |
+| Open Anki N1 2271 | [真心](entries/1363/1363970-magokoro.org) | まごころ | 1363970 | new / draft |
+| Open Anki N1 2273 | [誠](entries/1580/1580555-makoto.org) | まこと | 1580555 | new / draft |
+| Open Anki N1 2276 | [勝る](entries/1603/1603910-masaru.org) | まさる | 1603910 | new / draft |
 
 ### Final audit
 
