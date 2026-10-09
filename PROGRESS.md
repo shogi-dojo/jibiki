@@ -4856,6 +4856,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 148 | 10 |
 | 149 | 10 |
 | 150 | 10 |
+| 151 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6500,6 +6501,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2435 | [物好き](entries/1502/1502500-monozuki.org) | ものずき | 1502500 | new / draft |
 | Open Anki N1 2439 | [模倣](entries/1533/1533700-mohou.org) | もほう | 1533700 | new / draft |
 | Open Anki N1 2441 | [股](entries/1605/1605310-momo.org) | もも | 1605310 | new / draft |
+
+| Open Anki N1 2449 | [矢](entries/1537/1537760-ya.org) | や | 1537760 | new / draft |
+| Open Anki N1 2450 | [野外](entries/1537/1537270-yagai.org) | やがい | 1537270 | new / draft |
+| Open Anki N1 2452 | [夜具](entries/1536/1536660-yagu.org) | やぐ | 1536660 | new / draft |
+| Open Anki N1 2453 | [役職](entries/1538/1538040-yakushoku.org) | やくしょく | 1538040 | new / draft |
+| Open Anki N1 2454 | [役場](entries/1538/1538030-yakuba.org) | やくば | 1538030 | new / draft |
+| Open Anki N1 2456 | [屋敷](entries/1605/1605460-yashiki.org) | やしき | 1605460 | new / draft |
+| Open Anki N1 2458 | [野心](entries/1537/1537430-yashin.org) | やしん | 1537430 | new / draft |
+| Open Anki N1 2459 | [安っぽい](entries/1153/1153680-yasuppoi.org) | やすっぽい | 1153680 | new / draft |
+| Open Anki N1 2460 | [休める](entries/1227/1227570-yasumeru.org) | やすめる | 1227570 | new / draft |
+| Open Anki N1 2461 | [野生](entries/1537/1537470-yasei.org) | やせい | 1537470 | new / draft |
 
 ### Final audit
 
