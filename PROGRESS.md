@@ -4839,6 +4839,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 131 | 10 |
 | 132 | 10 |
 | 133 | 10 |
+| 134 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6296,6 +6297,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 777 | [ガイドブック](entries/1039/1039920-gaidobukku.org) | ガイドブック | 1039920 | new / draft |
 | Open Anki N1 811 | [カクテル](entries/1037/1037070-kakuteru.org) | カクテル | 1037070 | new / draft |
 | Open Anki N1 846 | [がっくり](entries/1003/1003190-gakkuri.org) | がっくり | 1003190 | new / draft |
+
+| Open Anki N1 848 | [がっしり](entries/1003/1003200-gasshiri.org) | がっしり | 1003200 | new / draft |
+| Open Anki N1 850 | [がっちり](entries/1003/1003210-gatchiri.org) | がっちり | 1003210 | new / draft |
+| Open Anki N1 871 | [カムバック](entries/1038/1038320-kamubakku.org) | カムバック | 1038320 | new / draft |
+| Open Anki N1 877 | [カルテ](entries/1039/1039000-karute.org) | カルテ | 1039000 | new / draft |
+| Open Anki N1 965 | [きっかり](entries/1003/1003410-kikkari.org) | きっかり | 1003410 | new / draft |
+| Open Anki N1 966 | [きっちり](entries/1003/1003420-kitchiri.org) | きっちり | 1003420 | new / draft |
+| Open Anki N1 988 | [キャッチ](entries/1041/1041530-kyatchi.org) | キャッチ | 1041530 | new / draft |
+| Open Anki N1 1077 | [くっきり](entries/1003/1003840-kukkiri.org) | くっきり | 1003840 | new / draft |
+| Open Anki N1 1085 | [グレー](entries/1047/1047480-guree.org) | グレー | 1047480 | new / draft |
+| Open Anki N1 1158 | [しくじる](entries/1005/1005500-shikujiru.org) | しくじる | 1005500 | new / draft |
 
 ### Final audit
 
