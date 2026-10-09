@@ -4852,6 +4852,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 144 | 10 |
 | 145 | 10 |
 | 146 | 10 |
+| 147 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6452,6 +6453,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2378 | [無能](entries/1530/1530780-munou.org) | むのう | 1530780 | new / draft |
 | Open Anki N1 2379 | [無闇に](entries/1529/1529590-muyamini.org) | むやみに | 1529590 | new / draft |
 | Open Anki N1 2380 | [無用](entries/1530/1530940-muyou.org) | むよう | 1530940 | new / draft |
+
+| Open Anki N1 2381 | [斑](entries/1481/1481330-mura.org) | むら | 1481330 | new / draft |
+| Open Anki N1 2382 | [群がる](entries/1247/1247500-muragaru.org) | むらがる | 1247500 | new / draft |
+| Open Anki N1 2384 | [名産](entries/1531/1531520-meisan.org) | めいさん | 1531520 | new / draft |
+| Open Anki N1 2385 | [名称](entries/1531/1531620-meishou.org) | めいしょう | 1531620 | new / draft |
+| Open Anki N1 2386 | [命中](entries/1532/1532090-meichuu.org) | めいちゅう | 1532090 | new / draft |
+| Open Anki N1 2387 | [明白](entries/1000/1000220-meihaku.org) | めいはく | 1000220 | new / draft |
+| Open Anki N1 2388 | [名簿](entries/1531/1531830-meibo.org) | めいぼ | 1531830 | new / draft |
+| Open Anki N1 2390 | [明瞭](entries/1532/1532620-meiryou.org) | めいりょう | 1532620 | new / draft |
+| Open Anki N1 2391 | [明朗](entries/1532/1532640-meirou.org) | めいろう | 1532640 | new / draft |
+| Open Anki N1 2392 | [メーカー](entries/1132/1132420-meekaa.org) | メーカー | 1132420 | new / draft |
 
 ### Final audit
 
