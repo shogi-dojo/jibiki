@@ -4814,6 +4814,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 106 | 10 |
 | 107 | 10 |
 | 108 | 10 |
+| 109 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5996,6 +5997,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1863 | [レンタカー](entries/1146/1146160-rentakaa.org) | レンタカー | 1146160 | new / draft |
 | Open Anki N1 1864 | [連中](entries/1559/1559700-renchuu.org) | れんちゅう | 1559700 | new / draft |
 | Open Anki N1 1865 | [レントゲン](entries/1146/1146230-rentogen.org) | レントゲン | 1146230 | new / draft |
+
+| Open Anki N1 1866 | [連邦](entries/1559/1559790-renpou.org) | れんぽう | 1559790 | new / draft |
+| Open Anki N1 1869 | [朗読](entries/1560/1560730-roudoku.org) | ろうどく | 1560730 | new / draft |
+| Open Anki N1 1871 | [労力](entries/1560/1560650-rouryoku.org) | ろうりょく | 1560650 | new / draft |
+| Open Anki N1 1872 | [ロープウエイ](entries/1146/1146760-roopuwei.org) | ロープウエイ | 1146760 | new / draft |
+| Open Anki N1 1873 | [ロープ](entries/1146/1146750-roopu.org) | ロープ | 1146750 | new / draft |
+| Open Anki N1 1876 | [ロマンチック](entries/1148/1148010-romanchikku.org) | ロマンチック | 1148010 | new / draft |
+| Open Anki N1 1877 | [論議](entries/1561/1561660-rongi.org) | ろんぎ | 1561660 | new / draft |
+| Open Anki N1 1879 | [惑星](entries/1562/1562600-wakusei.org) | わくせい | 1562600 | new / draft |
+| Open Anki N1 1883 | [渡り鳥](entries/1444/1444650-wataridori.org) | わたりどり | 1444650 | new / draft |
+| Open Anki N1 1884 | [ワット](entries/1149/1149070-watto.org) | ワット | 1149070 | new / draft |
 
 ### Final audit
 
