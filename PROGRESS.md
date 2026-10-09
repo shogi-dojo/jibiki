@@ -4867,6 +4867,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 159 | 10 |
 | 160 | 10 |
 | 161 | 10 |
+| 162 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6632,6 +6633,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 320 | [兎角](entries/1444/1444050-tokaku.org) | とかく | 1444050 | new / draft |
 | Open Anki N1 321 | [咎める](entries/1565/1565100-togameru.org) | とがめる | 1565100 | new / draft |
 | Open Anki N1 323 | [途切れる](entries/1598/1598690-togireru.org) | とぎれる | 1598690 | new / draft |
+
+| Open Anki N1 361 | [惚ける](entries/1610/1610900-tobokeru.org) | とぼける | 1610900 | new / draft |
+| Open Anki N1 409 | [尚更](entries/1349/1349320-naosara.org) | なおさら | 1349320 | new / draft |
+| Open Anki N1 428 | [何卒](entries/1189/1189140-nanitozo.org) | なにとぞ | 1189140 | new / draft |
+| Open Anki N1 429 | [何より](entries/1188/1188530-naniyori.org) | なにより | 1188530 | new / draft |
+| Open Anki N1 488 | [強請る](entries/1236/1236410-nedaru.org) | ねだる | 1236410 | new / draft |
+| Open Anki N1 516 | [長閑](entries/1429/1429840-nodoka.org) | のどか | 1429840 | new / draft |
+| Open Anki N1 571 | [鼾](entries/1575/1575480-ibiki.org) | いびき | 1575480 | new / draft |
+| Open Anki N1 577 | [嫌に](entries/1000/1000910-iyani.org) | いやに | 1000910 | new / draft |
+| Open Anki N1 578 | [嫌らしい](entries/1257/1257270-iyarashii.org) | いやらしい | 1257270 | new / draft |
+| Open Anki N1 612 | [鬱陶しい](entries/1568/1568430-uttoushii.org) | うっとうしい | 1568430 | new / draft |
 
 ### Final audit
 
