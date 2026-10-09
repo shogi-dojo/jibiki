@@ -4827,6 +4827,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 119 | 10 |
 | 120 | 10 |
 | 121 | 10 |
+| 122 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6152,6 +6153,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2062 | [ぶかぶか](entries/1011/1011130-bukabuka.org) | ぶかぶか | 1011130 | new / draft |
 | Open Anki N1 2063 | [不吉](entries/1491/1491910-fukitsu.org) | ふきつ | 1491910 | new / draft |
 | Open Anki N1 2066 | [複合](entries/1501/1501320-fukugou.org) | ふくごう | 1501320 | new / draft |
+
+| Open Anki N1 2068 | [覆面](entries/1501/1501520-fukumen.org) | ふくめん | 1501520 | new / draft |
+| Open Anki N1 2070 | [不景気](entries/1492/1492120-fukeiki.org) | ふけいき | 1492120 | new / draft |
+| Open Anki N1 2071 | [耽る](entries/1419/1419010-fukeru.org) | ふける | 1419010 | new / draft |
+| Open Anki N1 2074 | [布告](entries/1496/1496860-fukoku.org) | ふこく | 1496860 | new / draft |
+| Open Anki N1 2075 | [ブザー](entries/1113/1113300-buzaa.org) | ブザー | 1113300 | new / draft |
+| Open Anki N1 2077 | [不在](entries/1492/1492460-fuzai.org) | ふざい | 1492460 | new / draft |
+| Open Anki N1 2079 | [不順](entries/1492/1492810-fujun.org) | ふじゅん | 1492810 | new / draft |
+| Open Anki N1 2082 | [不審](entries/1493/1493120-fushin.org) | ふしん | 1493120 | new / draft |
+| Open Anki N1 2083 | [不振](entries/1493/1493150-fushin.org) | ふしん | 1493150 | new / draft |
+| Open Anki N1 2084 | [武装](entries/1498/1498740-busou.org) | ぶそう | 1498740 | new / draft |
 
 ### Final audit
 
