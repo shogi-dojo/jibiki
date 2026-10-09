@@ -4795,6 +4795,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 87 | 10 |
 | 88 | 10 |
 | 89 | 10 |
+| 90 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5768,6 +5769,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1584 | [存続](entries/1406/1406190-sonzoku.org) | そんぞく | 1406190 | new / draft |
 | Open Anki N1 1585 | [ダース](entries/1076/1076650-daasu.org) | ダース | 1076650 | new / draft |
 | Open Anki N1 1587 | [大家](entries/1413/1413150-taika.org) | たいか | 1413150 | new / draft |
+
+| Open Anki N1 1588 | [退化](entries/1411/1411320-taika.org) | たいか | 1411320 | new / draft |
+| Open Anki N1 1589 | [大概](entries/1413/1413230-taigai.org) | たいがい | 1413230 | new / draft |
+| Open Anki N1 1590 | [体格](entries/1409/1409310-taikaku.org) | たいかく | 1409310 | new / draft |
+| Open Anki N1 1592 | [待遇](entries/1410/1410610-taiguu.org) | たいぐう | 1410610 | new / draft |
+| Open Anki N1 1593 | [対決](entries/1410/1410000-taiketsu.org) | たいけつ | 1410000 | new / draft |
+| Open Anki N1 1595 | [対抗](entries/1410/1410020-taikou.org) | たいこう | 1410020 | new / draft |
+| Open Anki N1 1596 | [退治](entries/1411/1411390-taiji.org) | たいじ | 1411390 | new / draft |
+| Open Anki N1 1597 | [大衆](entries/1414/1414050-taishuu.org) | たいしゅう | 1414050 | new / draft |
+| Open Anki N1 1600 | [題する](entries/1983/1983720-daisuru.org) | だいする | 1983720 | new / draft |
+| Open Anki N1 1602 | [対談](entries/1410/1410230-taidan.org) | たいだん | 1410230 | new / draft |
 
 ### Final audit
 
