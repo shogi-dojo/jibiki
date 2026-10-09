@@ -4797,6 +4797,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 89 | 10 |
 | 90 | 10 |
 | 91 | 10 |
+| 92 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5792,6 +5793,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1613 | [待望](entries/1410/1410650-taibou.org) | たいぼう | 1410650 | new / draft |
 | Open Anki N1 1614 | [台本](entries/1412/1412760-daihon.org) | だいほん | 1412760 | new / draft |
 | Open Anki N1 1615 | [タイマー](entries/1075/1075990-taimaa.org) | タイマー | 1075990 | new / draft |
+
+| Open Anki N1 1616 | [怠慢](entries/1410/1410740-taiman.org) | たいまん | 1410740 | new / draft |
+| Open Anki N1 1617 | [タイミング](entries/1076/1076000-taimingu.org) | タイミング | 1076000 | new / draft |
+| Open Anki N1 1619 | [タイムリー](entries/1076/1076090-taimurii.org) | タイムリー | 1076090 | new / draft |
+| Open Anki N1 1620 | [対面](entries/1410/1410270-taimen.org) | たいめん | 1410270 | new / draft |
+| Open Anki N1 1621 | [代用](entries/1412/1412360-daiyou.org) | だいよう | 1412360 | new / draft |
+| Open Anki N1 1623 | [タイル](entries/1076/1076130-tairu.org) | タイル | 1076130 | new / draft |
+| Open Anki N1 1624 | [対話](entries/1410/1410300-taiwa.org) | たいわ | 1410300 | new / draft |
+| Open Anki N1 1629 | [打開](entries/1408/1408850-dakai.org) | だかい | 1408850 | new / draft |
+| Open Anki N1 1630 | [焚火](entries/1504/1504680-takibi.org) | たきび | 1504680 | new / draft |
+| Open Anki N1 1635 | [打撃](entries/1408/1408870-dageki.org) | だげき | 1408870 | new / draft |
 
 ### Final audit
 
