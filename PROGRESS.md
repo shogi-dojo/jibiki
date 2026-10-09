@@ -4840,6 +4840,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 132 | 10 |
 | 133 | 10 |
 | 134 | 10 |
+| 135 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6308,6 +6309,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 1077 | [くっきり](entries/1003/1003840-kukkiri.org) | くっきり | 1003840 | new / draft |
 | Open Anki N1 1085 | [グレー](entries/1047/1047480-guree.org) | グレー | 1047480 | new / draft |
 | Open Anki N1 1158 | [しくじる](entries/1005/1005500-shikujiru.org) | しくじる | 1005500 | new / draft |
+
+| Open Anki N1 1222 | [あっさり](entries/1000/1000360-assari.org) | あっさり | 1000360 | new / draft |
+| Open Anki N1 1234 | [アプローチ](entries/1018/1018260-apuroochi.org) | アプローチ | 1018260 | new / draft |
+| Open Anki N1 1235 | [あべこべ](entries/1000/1000470-abekobe.org) | あべこべ | 1000470 | new / draft |
+| Open Anki N1 1259 | [アルミ](entries/1019/1019620-arumi.org) | アルミ | 1019620 | new / draft |
+| Open Anki N1 1586 | [ダース](entries/5048/5048739-daasu.org) | ダース | 5048739 | new / draft |
+| Open Anki N1 2213 | [捕鯨](entries/1514/1514180-hogei.org) | ほげい | 1514180 | new / draft |
+| Open Anki N1 2214 | [惚ける](entries/1288/1288490-bokeru.org) | ぼける | 1288490 | new / draft |
+| Open Anki N1 2216 | [母校](entries/1515/1515040-bokou.org) | ぼこう | 1515040 | new / draft |
+| Open Anki N1 2217 | [母国](entries/1515/1515060-bokoku.org) | ぼこく | 1515060 | new / draft |
+| Open Anki N1 2218 | [誇る](entries/1267/1267760-hokoru.org) | ほこる | 1267760 | new / draft |
 
 ### Final audit
 
