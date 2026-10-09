@@ -4853,6 +4853,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 145 | 10 |
 | 146 | 10 |
 | 147 | 10 |
+| 148 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6464,6 +6465,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2390 | [明瞭](entries/1532/1532620-meiryou.org) | めいりょう | 1532620 | new / draft |
 | Open Anki N1 2391 | [明朗](entries/1532/1532640-meirou.org) | めいろう | 1532640 | new / draft |
 | Open Anki N1 2392 | [メーカー](entries/1132/1132420-meekaa.org) | メーカー | 1132420 | new / draft |
+
+| Open Anki N1 2393 | [目方](entries/1535/1535680-mekata.org) | めかた | 1535680 | new / draft |
+| Open Anki N1 2394 | [恵み](entries/1250/1250470-megumi.org) | めぐみ | 1250470 | new / draft |
+| Open Anki N1 2395 | [恵む](entries/1250/1250480-megumu.org) | めぐむ | 1250480 | new / draft |
+| Open Anki N1 2397 | [目覚める](entries/1535/1535350-mezameru.org) | めざめる | 1535350 | new / draft |
+| Open Anki N1 2398 | [召す](entries/1346/1346450-mesu.org) | めす | 1346450 | new / draft |
+| Open Anki N1 2399 | [雌](entries/1312/1312880-mesu.org) | めす | 1312880 | new / draft |
+| Open Anki N1 2400 | [目付き](entries/1535/1535670-metsuki.org) | めつき | 1535670 | new / draft |
+| Open Anki N1 2401 | [滅亡](entries/1533/1533030-metsubou.org) | めつぼう | 1533030 | new / draft |
+| Open Anki N1 2402 | [メディア](entries/1133/1133620-media.org) | メディア | 1133620 | new / draft |
+| Open Anki N1 2403 | [目途](entries/1535/1535470-medo.org) | めど | 1535470 | new / draft |
 
 ### Final audit
 
