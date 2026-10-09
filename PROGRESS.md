@@ -4807,6 +4807,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 99 | 10 |
 | 100 | 10 |
 | 101 | 10 |
+| 102 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5912,6 +5913,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1762 | [追放](entries/1432/1432670-tsuihou.org) | ついほう | 1432670 | new / draft |
 | Open Anki N1 1764 | [墜落](entries/1432/1432240-tsuiraku.org) | ついらく | 1432240 | new / draft |
 | Open Anki N1 1765 | [痛感](entries/1432/1432760-tsuukan.org) | つうかん | 1432760 | new / draft |
+
+| Open Anki N1 1767 | [痛切](entries/1432/1432790-tsuusetsu.org) | つうせつ | 1432790 | new / draft |
+| Open Anki N1 1768 | [杖](entries/1356/1356620-tsue.org) | つえ | 1356620 | new / draft |
+| Open Anki N1 1769 | [使い道](entries/1305/1305900-tsukaimichi.org) | つかいみち | 1305900 | new / draft |
+| Open Anki N1 1771 | [司る](entries/1306/1306630-tsukasadoru.org) | つかさどる | 1306630 | new / draft |
+| Open Anki N1 1772 | [つかの間](entries/1404/1404490-tsukanoma.org) | つかのま | 1404490 | new / draft |
+| Open Anki N1 1773 | [月並](entries/1255/1255810-tsukinami.org) | つきなみ | 1255810 | new / draft |
+| Open Anki N1 1774 | [継目](entries/1251/1251860-tsugime.org) | つぎめ | 1251860 | new / draft |
+| Open Anki N1 1775 | [尽きる](entries/1370/1370070-tsukiru.org) | つきる | 1370070 | new / draft |
+| Open Anki N1 1778 | [作り](entries/1297/1297250-tsukuri.org) | つくり | 1297250 | new / draft |
+| Open Anki N1 1780 | [繕う](entries/1396/1396480-tsukurou.org) | つくろう | 1396480 | new / draft |
 
 ### Final audit
 
