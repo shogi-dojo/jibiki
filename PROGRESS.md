@@ -4863,6 +4863,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 155 | 10 |
 | 156 | 10 |
 | 157 | 10 |
+| 158 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6584,6 +6585,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2559 | [立体](entries/1551/1551740-rittai.org) | りったい | 1551740 | new / draft |
 | Open Anki N1 2560 | [立方](entries/1551/1551820-rippou.org) | りっぽう | 1551820 | new / draft |
 | Open Anki N1 2563 | [略奪](entries/1606/1606250-ryakudatsu.org) | りゃくだつ | 1606250 | new / draft |
+
+| Open Anki N1 2564 | [略語](entries/1551/1551990-ryakugo.org) | りゃくご | 1551990 | new / draft |
+| Open Anki N1 2567 | [了解](entries/1553/1553310-ryoukai.org) | りょうかい | 1553310 | new / draft |
+| Open Anki N1 2568 | [領海](entries/1612/1612270-ryoukai.org) | りょうかい | 1612270 | new / draft |
+| Open Anki N1 2569 | [両極](entries/1553/1553520-ryoukyoku.org) | りょうきょく | 1553520 | new / draft |
+| Open Anki N1 2570 | [良好](entries/1554/1554550-ryoukou.org) | りょうこう | 1554550 | new / draft |
+| Open Anki N1 2572 | [良質](entries/1554/1554580-ryoushitsu.org) | りょうしつ | 1554580 | new / draft |
+| Open Anki N1 2574 | [良心](entries/1554/1554590-ryoushin.org) | りょうしん | 1554590 | new / draft |
+| Open Anki N1 2575 | [領地](entries/1554/1554780-ryouchi.org) | りょうち | 1554780 | new / draft |
+| Open Anki N1 2578 | [旅客](entries/1553/1553140-ryokaku.org) | りょかく | 1553140 | new / draft |
+| Open Anki N1 2579 | [旅券](entries/1553/1553160-ryoken.org) | りょけん | 1553160 | new / draft |
 
 ### Final audit
 
