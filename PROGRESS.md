@@ -4835,6 +4835,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 127 | 10 |
 | 128 | 10 |
 | 129 | 10 |
+| 130 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6248,6 +6249,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2194 | [冒頭](entries/1519/1519860-boutou.org) | ぼうとう | 1519860 | new / draft |
 | Open Anki N1 2195 | [暴動](entries/1519/1519520-boudou.org) | ぼうどう | 1519520 | new / draft |
 | Open Anki N1 2196 | [褒美](entries/1518/1518050-houbi.org) | ほうび | 1518050 | new / draft |
+
+| Open Anki N1 2198 | [葬る](entries/1402/1402130-houmuru.org) | ほうむる | 1402130 | new / draft |
+| Open Anki N1 2199 | [放り込む](entries/1516/1516500-hourikomu.org) | ほうりこむ | 1516500 | new / draft |
+| Open Anki N1 2200 | [放り出す](entries/1516/1516510-houridasu.org) | ほうりだす | 1516510 | new / draft |
+| Open Anki N1 2202 | [飽和](entries/1518/1518350-houwa.org) | ほうわ | 1518350 | new / draft |
+| Open Anki N1 2206 | [保温](entries/1513/1513310-hoon.org) | ほおん | 1513310 | new / draft |
+| Open Anki N1 2207 | [捕獲](entries/1514/1514160-hokaku.org) | ほかく | 1514160 | new / draft |
+| Open Anki N1 2208 | [保管](entries/1513/1513320-hokan.org) | ほかん | 1513320 | new / draft |
+| Open Anki N1 2210 | [補強](entries/1514/1514530-hokyou.org) | ほきょう | 1514530 | new / draft |
+| Open Anki N1 2211 | [募金](entries/1514/1514810-bokin.org) | ぼきん | 1514810 | new / draft |
+| Open Anki N1 2212 | [牧師](entries/1521/1521770-bokushi.org) | ぼくし | 1521770 | new / draft |
 
 ### Final audit
 
