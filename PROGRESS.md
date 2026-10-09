@@ -4851,6 +4851,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 143 | 10 |
 | 144 | 10 |
 | 145 | 10 |
+| 146 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6440,6 +6441,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2366 | [結び](entries/1254/1254610-musubi.org) | むすび | 1254610 | new / draft |
 | Open Anki N1 2367 | [結び付き](entries/1254/1254630-musubitsuki.org) | むすびつき | 1254630 | new / draft |
 | Open Anki N1 2369 | [結び付ける](entries/1254/1254650-musubitsukeru.org) | むすびつける | 1254650 | new / draft |
+
+| Open Anki N1 2370 | [無線](entries/1530/1530380-musen.org) | むせん | 1530380 | new / draft |
+| Open Anki N1 2371 | [無駄遣い](entries/1530/1530520-mudazukai.org) | むだづかい | 1530520 | new / draft |
+| Open Anki N1 2372 | [無断](entries/1530/1530600-mudan.org) | むだん | 1530600 | new / draft |
+| Open Anki N1 2373 | [無知](entries/1530/1530630-muchi.org) | むち | 1530630 | new / draft |
+| Open Anki N1 2374 | [無茶](entries/1530/1530670-mucha.org) | むちゃ | 1530670 | new / draft |
+| Open Anki N1 2375 | [無茶苦茶](entries/1530/1530680-muchakucha.org) | むちゃくちゃ | 1530680 | new / draft |
+| Open Anki N1 2377 | [無念](entries/1530/1530770-munen.org) | むねん | 1530770 | new / draft |
+| Open Anki N1 2378 | [無能](entries/1530/1530780-munou.org) | むのう | 1530780 | new / draft |
+| Open Anki N1 2379 | [無闇に](entries/1529/1529590-muyamini.org) | むやみに | 1529590 | new / draft |
+| Open Anki N1 2380 | [無用](entries/1530/1530940-muyou.org) | むよう | 1530940 | new / draft |
 
 ### Final audit
 
