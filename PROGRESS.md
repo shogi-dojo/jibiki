@@ -4862,6 +4862,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 154 | 10 |
 | 155 | 10 |
 | 156 | 10 |
+| 157 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6572,6 +6573,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2541 | [読み上げる](entries/1456/1456260-yomiageru.org) | よみあげる | 1456260 | new / draft |
 | Open Anki N1 2543 | [寄り掛かる](entries/1606/1606110-yorikakaru.org) | よりかかる | 1606110 | new / draft |
 | Open Anki N1 2545 | [弱る](entries/1324/1324650-yowaru.org) | よわる | 1324650 | new / draft |
+
+| Open Anki N1 2546 | [来場](entries/1585/1585050-raijou.org) | らいじょう | 1585050 | new / draft |
+| Open Anki N1 2549 | [落下](entries/1548/1548650-rakka.org) | らっか | 1548650 | new / draft |
+| Open Anki N1 2550 | [楽観](entries/1207/1207310-rakkan.org) | らっかん | 1207310 | new / draft |
+| Open Anki N1 2552 | [濫用](entries/1549/1549120-ranyou.org) | らんよう | 1549120 | new / draft |
+| Open Anki N1 2554 | [理屈](entries/1606/1606240-rikutsu.org) | りくつ | 1606240 | new / draft |
+| Open Anki N1 2555 | [利子](entries/1549/1549560-rishi.org) | りし | 1549560 | new / draft |
+| Open Anki N1 2556 | [利潤](entries/1549/1549580-rijun.org) | りじゅん | 1549580 | new / draft |
+| Open Anki N1 2559 | [立体](entries/1551/1551740-rittai.org) | りったい | 1551740 | new / draft |
+| Open Anki N1 2560 | [立方](entries/1551/1551820-rippou.org) | りっぽう | 1551820 | new / draft |
+| Open Anki N1 2563 | [略奪](entries/1606/1606250-ryakudatsu.org) | りゃくだつ | 1606250 | new / draft |
 
 ### Final audit
 
