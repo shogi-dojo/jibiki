@@ -4813,6 +4813,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 105 | 10 |
 | 106 | 10 |
 | 107 | 10 |
+| 108 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5984,6 +5985,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1853 | [テレックス](entries/1080/1080460-terekkusu.org) | テレックス | 1080460 | new / draft |
 | Open Anki N1 1854 | [手分け](entries/1328/1328340-tewake.org) | てわけ | 1328340 | new / draft |
 | Open Anki N1 1855 | [天](entries/1438/1438210-ten.org) | てん | 1438210 | new / draft |
+
+| Open Anki N1 1856 | [田園](entries/1442/1442740-denen.org) | でんえん | 1442740 | new / draft |
+| Open Anki N1 1857 | [天下](entries/1438/1438470-tenka.org) | てんか | 1438470 | new / draft |
+| Open Anki N1 1858 | [転回](entries/1441/1441070-tenkai.org) | てんかい | 1441070 | new / draft |
+| Open Anki N1 1859 | [連休](entries/1559/1559380-renkyuu.org) | れんきゅう | 1559380 | new / draft |
+| Open Anki N1 1860 | [レンジ](entries/1146/1146110-renji.org) | レンジ | 1146110 | new / draft |
+| Open Anki N1 1861 | [連日](entries/1559/1559720-renjitsu.org) | れんじつ | 1559720 | new / draft |
+| Open Anki N1 1862 | [連帯](entries/1559/1559660-rentai.org) | れんたい | 1559660 | new / draft |
+| Open Anki N1 1863 | [レンタカー](entries/1146/1146160-rentakaa.org) | レンタカー | 1146160 | new / draft |
+| Open Anki N1 1864 | [連中](entries/1559/1559700-renchuu.org) | れんちゅう | 1559700 | new / draft |
+| Open Anki N1 1865 | [レントゲン](entries/1146/1146230-rentogen.org) | レントゲン | 1146230 | new / draft |
 
 ### Final audit
 
