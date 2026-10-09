@@ -4843,6 +4843,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 135 | 10 |
 | 136 | 10 |
 | 137 | 10 |
+| 138 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6344,6 +6345,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2245 | [滅ぼす](entries/1603/1603620-horobosu.org) | ほろぼす | 1603620 | new / draft |
 | Open Anki N1 2246 | [本格](entries/1522/1522310-honkaku.org) | ほんかく | 1522310 | new / draft |
 | Open Anki N1 2247 | [本館](entries/1522/1522350-honkan.org) | ほんかん | 1522350 | new / draft |
+
+| Open Anki N1 2248 | [本気](entries/1522/1522370-honki.org) | ほんき | 1522370 | new / draft |
+| Open Anki N1 2249 | [本国](entries/1522/1522530-hongoku.org) | ほんごく | 1522530 | new / draft |
+| Open Anki N1 2252 | [本音](entries/1522/1522250-honne.org) | ほんね | 1522250 | new / draft |
+| Open Anki N1 2254 | [本場](entries/1522/1522690-honba.org) | ほんば | 1522690 | new / draft |
+| Open Anki N1 2255 | [ポンプ](entries/1126/1126040-ponpu.org) | ポンプ | 1126040 | new / draft |
+| Open Anki N1 2256 | [本文](entries/1584/1584270-honbun.org) | ほんぶん | 1584270 | new / draft |
+| Open Anki N1 2257 | [本名](entries/1523/1523240-honmyou.org) | ほんみょう | 1523240 | new / draft |
+| Open Anki N1 2258 | [マーク](entries/1126/1126140-maaku.org) | マーク | 1126140 | new / draft |
+| Open Anki N1 2260 | [マイクロフォン](entries/1126/1126770-maikurofon.org) | マイクロフォン | 1126770 | new / draft |
+| Open Anki N1 2261 | [埋蔵](entries/1524/1524560-maizou.org) | まいぞう | 1524560 | new / draft |
 
 ### Final audit
 
