@@ -4842,6 +4842,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 134 | 10 |
 | 135 | 10 |
 | 136 | 10 |
+| 137 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6332,6 +6333,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2228 | [墓地](entries/1584/1584040-bochi.org) | ぼち | 1584040 | new / draft |
 | Open Anki N1 2229 | [発作](entries/1477/1477470-hossa.org) | ほっさ | 1477470 | new / draft |
 | Open Anki N1 2232 | [ポット](entries/1125/1125290-potto.org) | ポット | 1125290 | new / draft |
+
+| Open Anki N1 2234 | [ぼつぼつ](entries/1011/1011840-botsubotsu.org) | ぼつぼつ | 1011840 | new / draft |
+| Open Anki N1 2235 | [没落](entries/1522/1522040-botsuraku.org) | ぼつらく | 1522040 | new / draft |
+| Open Anki N1 2236 | [解ける](entries/1198/1198920-hodokeru.org) | ほどける | 1198920 | new / draft |
+| Open Anki N1 2239 | [ぼやく](entries/1011/1011850-boyaku.org) | ぼやく | 1011850 | new / draft |
+| Open Anki N1 2240 | [ぼやける](entries/1011/1011860-boyakeru.org) | ぼやける | 1011860 | new / draft |
+| Open Anki N1 2241 | [保養](entries/1514/1514000-hoyou.org) | ほよう | 1514000 | new / draft |
+| Open Anki N1 2242 | [捕虜](entries/1514/1514260-horyo.org) | ほりょ | 1514260 | new / draft |
+| Open Anki N1 2245 | [滅ぼす](entries/1603/1603620-horobosu.org) | ほろぼす | 1603620 | new / draft |
+| Open Anki N1 2246 | [本格](entries/1522/1522310-honkaku.org) | ほんかく | 1522310 | new / draft |
+| Open Anki N1 2247 | [本館](entries/1522/1522350-honkan.org) | ほんかん | 1522350 | new / draft |
 
 ### Final audit
 
