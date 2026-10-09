@@ -4789,6 +4789,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 81 | 10 |
 | 82 | 10 |
 | 83 | 10 |
+| 84 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5696,6 +5697,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1493 | [設置](entries/1386/1386050-setchi.org) | せっち | 1386050 | new / draft |
 | Open Anki N1 1494 | [折衷](entries/1385/1385960-setchuu.org) | せっちゅう | 1385960 | new / draft |
 | Open Anki N1 1498 | [絶版](entries/1386/1386940-zeppan.org) | ぜっぱん | 1386940 | new / draft |
+
+| Open Anki N1 1500 | [攻め](entries/1279/1279120-seme.org) | せめ | 1279120 | new / draft |
+| Open Anki N1 1501 | [ゼリー](entries/1075/1075190-zerii.org) | ゼリー | 1075190 | new / draft |
+| Open Anki N1 1502 | [セレモニー](entries/1074/1074930-seremonii.org) | セレモニー | 1074930 | new / draft |
+| Open Anki N1 1504 | [先](entries/1387/1387220-sen.org) | せん | 1387220 | new / draft |
+| Open Anki N1 1506 | [全快](entries/1394/1394940-zenkai.org) | ぜんかい | 1394940 | new / draft |
+| Open Anki N1 1507 | [宣教](entries/1389/1389660-senkyou.org) | せんきょう | 1389660 | new / draft |
+| Open Anki N1 1508 | [宣言](entries/1389/1389680-sengen.org) | せんげん | 1389680 | new / draft |
+| Open Anki N1 1509 | [戦災](entries/1390/1390230-sensai.org) | せんさい | 1390230 | new / draft |
+| Open Anki N1 1510 | [専修](entries/1389/1389790-senshuu.org) | せんしゅう | 1389790 | new / draft |
+| Open Anki N1 1511 | [戦術](entries/1390/1390280-senjutsu.org) | せんじゅつ | 1390280 | new / draft |
 
 ### Final audit
 
