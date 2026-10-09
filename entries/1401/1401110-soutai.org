@@ -1,0 +1,388 @@
+#+TITLE: 相対
+#+JMDICT_ID: 1401110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうたい
+#+ROMAJI: soutai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1401110-001
+:PROPERTIES:
+:TEXT: 相対
+:END:
+*** Priorities
+- spec1
+** Written form wf-1401110-002
+:PROPERTIES:
+:TEXT: 双対
+:END:
+** Reading rd-1401110-001
+:PROPERTIES:
+:TEXT: そうたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1401110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 86daed0c32f61f73e3b54d093ff7f3b93183a282e2f83e8e602f894fa14dcb95
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Antonyms
+- 絶対・3
+** English glosses
+- relativity
+** Ukrainian glosses
+*** uk-s-1401110-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: теорія відносності; відносність
+** Learner notes
+*** note-s-1401110-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична концепція відносності часу, простору чи руху, сформульована в теорії відносності Ейнштейна (часто 相対性理論).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1401110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: アインシュタインの相対性理論を学ぶ。
+- READING :: あいんしゅたいんのそうたいせいりろんをまなぶ。
+- UK :: Вивчати теорію відносності Ейнштейна.
+- EN :: Study Einstein's theory of relativity.
+- FOCUS :: 相対性理論を
+*** ex-1401110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 時間と空間の相対性についての講義は非常に興味深かった。
+- READING :: じかんとくうかんのそうたいせいについてのこうぎはひじょうにきょうみぶかかった。
+- UK :: Лекція про відносність часу й простору була надзвичайно захопливою.
+- EN :: The lecture on the relativity of time and space was extremely interesting.
+- FOCUS :: 相対性についての
+*** ex-1401110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現代物理学ではアインシュタインが提唱した相対の原理が根幹をなしている。
+- READING :: げんだいぶつりがくではあいんしゅたいんがていしょうしたそうたいのげんりがこんかんをなしている。
+- UK :: У сучасній фізиці принцип відносності, сформульований Ейнштейном, є наріжним каменем світогляду.
+- EN :: In modern physics, the principle of relativity advocated by Einstein forms the foundation.
+- FOCUS :: 相対の原理が
+
+* Sense s-1401110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 31c222b219a1ea0c5375f8c6245d34bc90040dc22225cc3313086701e4f7cd67
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-f
+** English glosses
+- relative
+** Ukrainian glosses
+*** uk-s-1401110-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: відносний; порівняльний; не абсолютний
+** Learner notes
+*** note-s-1401110-002-001
+:PROPERTIES:
+:END:
+- UK :: Такий, що оцінюється або існує лише у співвідношенні з іншими об'єктами (протилежне до 絶対 — абсолютний).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1401110-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 幸福の基準は絶対的なものではなく、常に相対的なものである。
+- READING :: こうふくのきじゅんはぜったいてきなものではなく、つねにそうたいてきなものである。
+- UK :: Критерії щастя не є абсолютними, вони завжди відносні й суб'єктивні.
+- EN :: The criteria for happiness are not absolute; they are always relative.
+- FOCUS :: 相対的なものである
+
+* Sense s-1401110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7f4883f9416d322d1ce5718e74eafae8df95f23facc7761e7a7536d226b36d5b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- facing (e.g. a problem)
+- confronting
+** Ukrainian glosses
+*** uk-s-1401110-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пряме зіткнення; протистояння віч-на-віч; ведення діалогу наодинці
+** Learner notes
+*** note-s-1401110-003-001
+:PROPERTIES:
+:END:
+- UK :: Безпосередня зустріч або переговори тет-а-тет двох сторін без посередників (часто 相対取引 — пряма угода).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1401110-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 金融市場を通さず、当事者同士が直接相対で取引の条件を交渉した。
+- READING :: きんゆうしじょうをとおさず、とうじしゃどうしがちょくせつそうたいでとりひきのじょうけんをこうしょうした。
+- UK :: Сторони провели прямі переговори віч-на-віч про умови угоди без посередництва біржі.
+- EN :: Without going through financial markets, the parties negotiated the transaction terms directly face to face.
+- FOCUS :: 直接相対で取引の
+
+* Sense s-1401110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: dc4f0c2563af92fa782ed17326b983c368c2e8b28765c560ab14a16d6b847b70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relatief
+*** en-s-1401110-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betrekkelijk
+** Ukrainian glosses
+
+* Sense s-1401110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a138a74203ec36a72333e796dd2f45a5c079bc9dd2b4fa56bfa3d5ae871fcc08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gegenüberliegen
+*** en-s-1401110-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gegenüberstehen
+*** en-s-1401110-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Relativität
+*** en-s-1401110-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bedingtheit
+*** en-s-1401110-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bezüglichkeit
+** Ukrainian glosses
+
+* Sense s-1401110-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9314c592e8b11cf996a61feb0627a8f0918133c76c824e52c11038744f16d020
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kettéoszlás
+*** en-s-1401110-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kettősség
+*** en-s-1401110-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kettőződés
+*** en-s-1401110-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relatív
+*** en-s-1401110-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vonatkozó
+** Ukrainian glosses
+
+* Sense s-1401110-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 38102833886145c00a8f4e690a3fbc2962b4b0267a3892b71c6b2b3bd9fa2645
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [со]относительность, релятивность
+*** en-s-1401110-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の}, {～[的]} а) [со]относительный, релятивный; б) связанный один с другим, взаимный
+** Ukrainian glosses
+
+* Sense s-1401110-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ce30967b1abbb09740760e90380ab499f42a3bb7d9d20571cf955ae726b1ec0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relativen
+*** en-s-1401110-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sorazmeren
+** Ukrainian glosses
+
+* Sense s-1401110-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7125c8acb0f55b2f5af0ee55fb9c95bf96d5ce8af0d340f0378c60d16cdd5b37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relativo
+** Ukrainian glosses
+
+* Sense s-1401110-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 85304d7d4d0b909523eaf57242be638fc2b9d7833cf7f1ec9247920dc876bc8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401110-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relativitet
+** Ukrainian glosses
