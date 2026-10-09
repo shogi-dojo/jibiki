@@ -1,0 +1,406 @@
+#+TITLE: 無念
+#+JMDICT_ID: 1530770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むねん
+#+ROMAJI: munen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1530770-001
+:PROPERTIES:
+:TEXT: 無念
+:END:
+*** Priorities
+- news1
+- nf16
+** Reading rd-1530770-001
+:PROPERTIES:
+:TEXT: むねん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf16
+
+* Sense s-1530770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5d83dc2e6b26b8f99622e2cd9684847f72b7b9560d4f32d0581ba5879092fed0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+- adj-no
+** English glosses
+- regret
+- chagrin
+- mortification
+** Ukrainian glosses
+*** uk-s-1530770-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гіркота; прикрість; досада; жаль від поразки
+** Learner notes
+*** note-s-1530770-001-001
+:PROPERTIES:
+:END:
+- UK :: Глибоке відчуття розчарування й гіркоти через нездійснену мрію, прикру поразку або незавершене покликання (часто 無念の涙, 無念を晴らす).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1530770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 試合に敗れて無念の涙を流す。
+- READING :: しあいにやぶれてむねんのなみだをながす。
+- UK :: Проливати сльози гіркоти через поразку в матчі.
+- EN :: Shed tears of chagrin after losing the match.
+- FOCUS :: 無念の涙を
+*** ex-1530770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長年の夢であった全国大会の決勝戦で惜敗したキャプテンは、悔しさを押し殺しながら無念の表情で銀メダルを受け取った。
+- READING :: ながねんのゆめであったぜんこくたいかいのけっしょうせんでせきはいしたきゃぷてんは、くやしさをおしころしながらむねんのひょうじょうでぎんめだるをうけとった。
+- UK :: Капітан команди, яка з мінімальним рахунком поступилася у фіналі всеяпонського турніру, тамуючи біль, із гіркотою на обличчі прийняв срібло.
+- EN :: The captain, narrowly defeated in the finals of the national championship that had been his long-held dream, accepted the silver medal with an expression of bitter regret while fighting back frustration.
+- FOCUS :: 無念の表情で
+*** ex-1530770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 志半ばで病に倒れた先代の無念を胸に刻み、若き後継者は困難を乗り越えて家業の再建に全力を傾けた。
+- READING :: こころざしなかばでやまいにたおれたせんだいのむねんをむねにきざみ、わかきこうけいしゃはこんなんをのりこえてかぎょうのさいけんにぜんりょくをかたむけた。
+- UK :: Бережучи в душі світлу пам'ять і нездійснені надії вчителя, що захворів на півдорозі до мети, молодий спадкоємець відродив родинну справу.
+- EN :: Bearing in mind the chagrin of the predecessor who fell to illness midway through his ambition, the young successor surmounted difficulties and devoted all his strength to rebuilding the family business.
+- FOCUS :: 先代の無念を
+
+* Sense s-1530770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f93ff416e11b9f7061c56e97fa9e1b0f55ffe560cd8bb6e187dc79353daec03d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Buddh
+*** Cross-references
+- 有念
+** English glosses
+- freedom from obstructive thoughts
+** Ukrainian glosses
+*** uk-s-1530770-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: звільнення розуму від думок; стан дзен безтурботності
+** Learner notes
+*** note-s-1530770-002-001
+:PROPERTIES:
+:END:
+- UK :: У буддійській практиці дзен та бойових мистецтвах: стан свідомості, вільний від марних думок і пристрастей (часто 無念無想 むねんむそう).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1530770-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 座禅の修行を通じて無念無想の境地に達し、日々の雑音から解き放たれて静寂な内省のひとときを過ごした。
+- READING :: ざぜんのしゅぎょうをつうじてむねんむそうのきょうちにたっし、ひびのざつおんからときはなたれてせいじゃくなないせいのひとときをすごした。
+- UK :: Завдяки медитації дзадзен чернець досяг стану спокою думок без будь-яких турбот і віддався тихій внутрішній зосередженості.
+- EN :: Through zazen ascetic practice, he reached a state of mind free from all distracting thoughts, freed from daily noises and spending a quiet moment of introspection.
+- FOCUS :: 無念無想の境地に
+
+* Sense s-1530770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dea076944baad25864e289e4c7c49dcd78ac50d09c2a59715a71819ae835c23d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spijt
+*** en-s-1530770-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verdriet
+*** en-s-1530770-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teleurstelling
+*** en-s-1530770-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: misnoegen
+*** en-s-1530770-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gekwetstheid
+*** en-s-1530770-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbitterheid
+*** en-s-1530770-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbittering
+** Ukrainian glosses
+
+* Sense s-1530770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5381e8a1482cf6f99da5c598601d65f8ac0ee0d61a387bd7ef89001bc0d8f26a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedauerlich
+*** en-s-1530770-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Trauer
+*** en-s-1530770-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gram
+*** en-s-1530770-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Groll
+*** en-s-1530770-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ärger
+*** en-s-1530770-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unmut
+*** en-s-1530770-004-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Missmut
+*** en-s-1530770-004-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bitterkeit
+*** en-s-1530770-004-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verdrießlichkeit
+** Ukrainian glosses
+
+* Sense s-1530770-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a3c0a2e4591e9fbcbc26f4857f82ecf1bc4a387b8efb96985964657423af31f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megbánás
+** Ukrainian glosses
+
+* Sense s-1530770-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a239d6fbcd893c50cb5d1b67ac2ff80a1f17ee70f0aa5eff8795aff25db0e93e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) сожаление; досада
+*** en-s-1530770-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) むねんむそう
+** Ukrainian glosses
+
+* Sense s-1530770-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ae4fba002f66c8b0c2b969eb924f1dc215e518de7f030674c3bba8015f7f363e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obžalujoč
+*** en-s-1530770-007-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nevolja
+*** en-s-1530770-007-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: srd
+*** en-s-1530770-007-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jeza
+** Ukrainian glosses
+
+* Sense s-1530770-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9afc770950ab5dbb54de126fdf3f677d98fb31a0553cd373e9e8bfe89eea8201
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530770-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pesar
+*** en-s-1530770-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dolor
+*** en-s-1530770-008-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lamento
+** Ukrainian glosses
