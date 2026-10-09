@@ -4847,6 +4847,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 139 | 10 |
 | 140 | 10 |
 | 141 | 10 |
+| 142 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6392,6 +6393,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2303 | [丸める](entries/1216/1216300-marumeru.org) | まるめる | 1216300 | new / draft |
 | Open Anki N1 2304 | [満月](entries/1526/1526770-mangetsu.org) | まんげつ | 1526770 | new / draft |
 | Open Anki N1 2305 | [満場](entries/1526/1526820-manjou.org) | まんじょう | 1526820 | new / draft |
+
+| Open Anki N1 2306 | [真ん前](entries/1363/1363350-manmae.org) | まんまえ | 1363350 | new / draft |
+| Open Anki N1 2307 | [真ん丸い](entries/1363/1363330-manmarui.org) | まんまるい | 1363330 | new / draft |
+| Open Anki N1 2310 | [見合い](entries/1259/1259550-miai.org) | みあい | 1259550 | new / draft |
+| Open Anki N1 2313 | [未開](entries/1527/1527190-mikai.org) | みかい | 1527190 | new / draft |
+| Open Anki N1 2314 | [味覚](entries/1527/1527020-mikaku.org) | みかく | 1527020 | new / draft |
+| Open Anki N1 2315 | [幹](entries/1577/1577640-miki.org) | みき | 1577640 | new / draft |
+| Open Anki N1 2318 | [未婚](entries/1527/1527480-mikon.org) | みこん | 1527480 | new / draft |
+| Open Anki N1 2319 | [未熟](entries/1527/1527560-mijuku.org) | みじゅく | 1527560 | new / draft |
+| Open Anki N1 2320 | [微塵](entries/1486/1486050-mijin.org) | みじん | 1486050 | new / draft |
+| Open Anki N1 2321 | [水気](entries/1371/1371390-mizuke.org) | みずけ | 1371390 | new / draft |
 
 ### Final audit
 
