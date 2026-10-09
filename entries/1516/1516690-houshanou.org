@@ -1,0 +1,321 @@
+#+TITLE: 放射能
+#+JMDICT_ID: 1516690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうしゃのう
+#+ROMAJI: houshanou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1516690-001
+:PROPERTIES:
+:TEXT: 放射能
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Reading rd-1516690-001
+:PROPERTIES:
+:TEXT: ほうしゃのう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+
+* Sense s-1516690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c22ace2af0b0d509effa2e7ec666bdfb16af991bedb2e3a62f0a2bdb6b512554
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- radioactivity
+** Ukrainian glosses
+*** uk-s-1516690-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: радіоактивність; радіоактивна здатність
+** Learner notes
+*** note-s-1516690-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична властивість нестабільних атомних ядер спонтанно розпадатися з випромінюванням частинок або хвиль (часто 放射能を持つ, 放射能の測定).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1516690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 放射能の強さを測る。
+- READING :: ほうしゃのうのつよさをはかる。
+- UK :: Вимірювати рівень радіоактивності.
+- EN :: Measure the strength of radioactivity.
+- FOCUS :: 放射能の強さを
+*** ex-1516690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原子力発電所の事故現場周辺において、土壌や地下水に含まれる放射能の減衰状況を専門機関が長期間にわたって観測した。
+- READING :: げんしりょくはつでんしょのじこげんばしゅうへんにおいて、どじょうやちかすいにふくまれるほうしゃのうのげんすいじょうきょうをせんもんきかんがちょうきかんにわたってかんそくした。
+- UK :: Біля місця аварії на атомній електростанції спеціалізовані служби роками відстежували спадання радіоактивності в ґрунті та водах.
+- EN :: In the vicinity of the nuclear power plant accident site, specialized organizations observed the decay situation of radioactivity contained in soil and groundwater over a long period.
+- FOCUS :: 放射能の減衰状況を
+*** ex-1516690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 放射性同位元素の半減期を利用した年代測定法は、微弱な放射能の崩壊割合を精密に分析することで数万年前の考古学的遺物の年代を特定する。
+- READING :: ほうしゃせいどういげんそのはんげんきをりようしたねんだいそくていほうは、びじゃくなほうしゃのうのほうかいわりあいをせいみつにぶんせきすることですうまんねんまえのこうこがくてきいぶつのねんだいをとくていする。
+- UK :: Радіовуглецевий аналіз на основі періоду напіврозпаду визначає вік прадавніх артефактів завдяки точному вимірюванню залишків радіоактивності.
+- EN :: The dating method utilizing the half-life of radioisotopes determines the age of archaeological relics from tens of thousands of years ago by precisely analyzing the decay ratio of faint radioactivity.
+- FOCUS :: 微弱な放射能の崩壊割合を
+
+* Sense s-1516690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 426f304db2ff8d64bf450f1a320e52e0ab3e1630c8816f7abce01c237f96caf1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+*** Cross-references
+- 放射線
+** English glosses
+- radiation
+** Ukrainian glosses
+*** uk-s-1516690-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: радіаційне випромінювання; іонізуюче випромінювання
+** Learner notes
+*** note-s-1516690-002-001
+:PROPERTIES:
+:END:
+- UK :: Шкідливе та небезпечне для живих організмів іонізуюче випромінювання високої енергії (часто 放射能を浴びる, 放射能漏れ).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1516690-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事故を起こした原子炉建屋から高濃度の放射能が外部へ漏洩する最悪の事態を防ぐため、作業員たちは決死の防護措置を講じた。
+- READING :: じこをおこしたげんしろたてやからこうのうどのほうしゃのうがいぶへろうえいするさいあくのじたいをふせぐため、さぎょういんたちはけっしのぼうごそちをこうじた。
+- UK :: Аби запобігти найгіршому сценарію витоку високих доз радіації з аварійного енергоблока, ліквідатори вжили відчайдушних захисних заходів.
+- EN :: In order to prevent the worst-case scenario of high-concentration radiation leaking to the outside from the damaged reactor building, workers implemented desperate protective measures.
+- FOCUS :: 高濃度の放射能が外部へ
+
+* Sense s-1516690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eaae222bdaa65e8321ca7c651d5a06440f50a13ad6e8907209ea940609bd923d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+*** Cross-references
+- 放射性物質
+** English glosses
+- radioactive material
+** Ukrainian glosses
+*** uk-s-1516690-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: радіоактивні речовини; радіонукліди; радіоактивне зараження
+** Learner notes
+*** note-s-1516690-003-001
+:PROPERTIES:
+:END:
+- UK :: Матеріали чи речовини, заражені радіонуклідами, або небезпечні радіоактивні відходи (часто 放射能に汚染された, 放射能物質).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1516690-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 厳重に密閉された専用の特殊容器に封入された放射能は、地下深くの強固な岩盤層に建設された最終処分場へと安全に輸送された。
+- READING :: げんじゅうにみっぺいされたせんようのとくしゅようきにふうにゅうされたほうしゃのうは、ちかふかくのきょうこながんばんそうにけんせつされたさいしゅうしょぶんじょうへとあんぜんにゆそうされた。
+- UK :: Радіоактивні матеріали, надійно запечатані у спеціальні герметичні контейнери, безпечно доставили до глибокого підземного сховища в скельних породах.
+- EN :: The radioactive material sealed in heavily airtight dedicated special containers was safely transported to a final disposal facility constructed in sturdy rock strata deep underground.
+- FOCUS :: 封入された放射能は
+
+* Sense s-1516690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bc248b470698f0cfd5c2b2594b6021a8507252884d49ef4fffe976cbab0ff6bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radioactiviteit
+*** en-s-1516690-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verk.} activiteit
+** Ukrainian glosses
+
+* Sense s-1516690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c49314765feafc6fda3508bdd67914d4181d47d376857da1b5e8719990a94c5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radioactivité
+** Ukrainian glosses
+
+* Sense s-1516690-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5b37bb71a73aa15910e029337a68698492ebde0ab134f7f4c591c85341ab4c33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Radioaktivität
+*** en-s-1516690-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strahlung
+** Ukrainian glosses
+
+* Sense s-1516690-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 44d16f848bee5922519cfde9d007f5749e531f267d9216d88af91d1993bda767
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radioaktivitás
+** Ukrainian glosses
+
+* Sense s-1516690-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 53f54533506975c595d3c88f84c1644dc1ee30c70e318b59be115c4aedf1f25e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: радиоактивность
+** Ukrainian glosses
+
+* Sense s-1516690-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2a087b6534522d99d95930e4a17690cea8a897d11ea47ae77dd634095ed20d05
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radioaktivnost
+** Ukrainian glosses
+
+* Sense s-1516690-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0755f0a9d5b3c5750cb10918ed22ae05b576c1233fe17e38b7e0925e99da564d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1516690-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radiactividad
+** Ukrainian glosses
