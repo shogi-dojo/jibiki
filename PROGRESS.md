@@ -4871,6 +4871,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 163 | 10 |
 | 164 | 10 |
 | 165 | 10 |
+| 166 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6680,6 +6681,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2154 | [謙る](entries/1603/1603220-herikudaru.org) | へりくだる | 1603220 | new / draft |
 | Open Anki N1 2233 | [頬っぺた](entries/1520/1520630-hoppeta.org) | ほっぺた | 1520630 | new / draft |
 | Open Anki N1 2238 | [辺](entries/2842/2842190-hotori.org) | ほとり | 2842190 | new / draft |
+
+| Open Anki N1 2272 | [間誤付く](entries/1012/1012100-magotsuku.org) | まごつく | 1012100 | new / draft |
+| Open Anki N1 2275 | [正しく](entries/1376/1376620-masashiku.org) | まさしく | 1376620 | new / draft |
+| Open Anki N1 2280 | [況して](entries/1237/1237470-mashite.org) | まして | 1237470 | new / draft |
+| Open Anki N1 2301 | [丸っきり](entries/1216/1216270-marukkiri.org) | まるっきり | 1216270 | new / draft |
+| Open Anki N1 2323 | [見すぼらしい](entries/1259/1259180-misuborashii.org) | みすぼらしい | 1259180 | new / draft |
+| Open Anki N1 2365 | [毟る](entries/1568/1568540-mushiru.org) | むしる | 1568540 | new / draft |
+| Open Anki N1 2421 | [藻掻く](entries/1012/1012490-mogaku.org) | もがく | 1012490 | new / draft |
+| Open Anki N1 2426 | [若しかして](entries/1012/1012520-moshikashite.org) | もしかして | 1012520 | new / draft |
+| Open Anki N1 2427 | [若しくは](entries/1324/1324320-moshikuha.org) | もしくは | 1324320 | new / draft |
+| Open Anki N1 2428 | [齎す](entries/1573/1573190-motarasu.org) | もたらす | 1573190 | new / draft |
 
 ### Final audit
 
