@@ -4801,6 +4801,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 93 | 10 |
 | 94 | 10 |
 | 95 | 10 |
+| 96 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5840,6 +5841,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1675 | [タワー](entries/1076/1076470-tawaa.org) | タワー | 1076470 | new / draft |
 | Open Anki N1 1676 | [単一](entries/1417/1417100-tanitsu.org) | たんいつ | 1417100 | new / draft |
 | Open Anki N1 1678 | [担架](entries/1418/1418150-tanka.org) | たんか | 1418150 | new / draft |
+
+| Open Anki N1 1680 | [団結](entries/1419/1419230-danketsu.org) | だんけつ | 1419230 | new / draft |
+| Open Anki N1 1681 | [探検](entries/1597/1597250-tanken.org) | たんけん | 1597250 | new / draft |
+| Open Anki N1 1682 | [断言](entries/1419/1419590-dangen.org) | だんげん | 1419590 | new / draft |
+| Open Anki N1 1683 | [短縮](entries/1418/1418740-tanshuku.org) | たんしゅく | 1418740 | new / draft |
+| Open Anki N1 1685 | [炭素](entries/1418/1418570-tanso.org) | たんそ | 1418570 | new / draft |
+| Open Anki N1 1686 | [短大](entries/1418/1418780-tandai.org) | たんだい | 1418780 | new / draft |
+| Open Anki N1 1687 | [単調](entries/1417/1417760-tanchou.org) | たんちょう | 1417760 | new / draft |
+| Open Anki N1 1688 | [単独](entries/1417/1417780-tandoku.org) | たんどく | 1417780 | new / draft |
+| Open Anki N1 1689 | [旦那](entries/1418/1418410-danna.org) | だんな | 1418410 | new / draft |
+| Open Anki N1 1690 | [短波](entries/1418/1418810-tanpa.org) | たんぱ | 1418810 | new / draft |
 
 ### Final audit
 
