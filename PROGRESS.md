@@ -4850,6 +4850,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 142 | 10 |
 | 143 | 10 |
 | 144 | 10 |
+| 145 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6428,6 +6429,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2350 | [身振り](entries/1365/1365720-miburi.org) | みぶり | 1365720 | new / draft |
 | Open Anki N1 2351 | [脈](entries/1528/1528440-myaku.org) | みゃく | 1528440 | new / draft |
 | Open Anki N1 2352 | [ミュージック](entries/1131/1131680-myuujikku.org) | ミュージック | 1131680 | new / draft |
+
+| Open Anki N1 2355 | [民宿](entries/1528/1528950-minshuku.org) | みんしゅく | 1528950 | new / draft |
+| Open Anki N1 2357 | [民俗](entries/1604/1604745-minzoku.org) | みんぞく | 1604745 | new / draft |
+| Open Anki N1 2358 | [無意味](entries/1529/1529610-muimi.org) | むいみ | 1529610 | new / draft |
+| Open Anki N1 2359 | [ムード](entries/1132/1132190-muudo.org) | ムード | 1132190 | new / draft |
+| Open Anki N1 2361 | [婿](entries/1531/1531160-muko.org) | むこ | 1531160 | new / draft |
+| Open Anki N1 2362 | [無効](entries/1529/1529930-mukou.org) | むこう | 1529930 | new / draft |
+| Open Anki N1 2363 | [無言](entries/1529/1529860-mugon.org) | むごん | 1529860 | new / draft |
+| Open Anki N1 2366 | [結び](entries/1254/1254610-musubi.org) | むすび | 1254610 | new / draft |
+| Open Anki N1 2367 | [結び付き](entries/1254/1254630-musubitsuki.org) | むすびつき | 1254630 | new / draft |
+| Open Anki N1 2369 | [結び付ける](entries/1254/1254650-musubitsukeru.org) | むすびつける | 1254650 | new / draft |
 
 ### Final audit
 
