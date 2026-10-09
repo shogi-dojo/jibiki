@@ -1,0 +1,480 @@
+#+TITLE: 並列
+#+JMDICT_ID: 1508530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へいれつ
+#+ROMAJI: heiretsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1508530-001
+:PROPERTIES:
+:TEXT: 並列
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf27
+** Reading rd-1508530-001
+:PROPERTIES:
+:TEXT: へいれつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf27
+
+* Sense s-1508530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f98e9f74bfd0e31ac7fc7dcab205838f5fb6b46863e653646e05ed338f08290
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- arranging in a line
+- standing in a row
+** Ukrainian glosses
+*** uk-s-1508530-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розташування поруч; паралельне шикування; ряд
+** Learner notes
+*** note-s-1508530-001-001
+:PROPERTIES:
+:END:
+- UK :: Розташування або пересування предметів чи людей пліч-о-пліч в одну рівну лінію або паралельний ряд (часто 並列駐車, 並列して走る).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1508530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二台の車が並列して走る。
+- READING :: にだいのくるまがへいれつしてはしる。
+- UK :: Два автомобілі їдуть поруч паралельно.
+- EN :: Two cars run side by side in parallel.
+- FOCUS :: 並列して走る
+*** ex-1508530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 狭い商店街の道路で自転車二台が並列して走行したため、後続の路線バスが追い越せずに交通渋滞が発生した。
+- READING :: せまいしょうてんがいのどうろでじてんしゃにだいがへいれつしてそうこうしたため、こうぞくのろせんばすがおいこせずにこうつうじゅうたいがはっせいした。
+- UK :: Через те, що на вузькій вуличці торгового кварталу двоє велосипедистів їхали поруч, автобус позаду не зміг їх обігнати, спричинивши затор.
+- EN :: Because two bicycles rode in parallel on the narrow shopping street road, the route bus following behind could not overtake, causing a traffic jam.
+- FOCUS :: 並列して走行したため
+*** ex-1508530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 観光地の景観に配慮した新しい駐車場では、利用者が無理なく車を止められるよう広い間隔で並列駐車の区画が美しく整備されている。
+- READING :: かんこうちのけいかんにはいりょしたあたらしいちゅうしゃじょうでは、りようしゃがむりなくくるまをとめられるようひろいかんかくでへいれつちゅうしゃのくかくがうつくしくせいびされている。
+- UK :: На новому паркінгу, гармонійно вписаному в ландшафт туристичного містечка, облаштували зручні й просторі місця для паралельного паркування.
+- EN :: In the new parking lot considering the landscape of the sightseeing spot, parallel parking sections are beautifully arranged at wide intervals so users can park cars without strain.
+- FOCUS :: 並列駐車の区画が
+
+* Sense s-1508530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c67301c5420702ec32ae07e25fec77e6b002027217a816b3e05bd4a29cf5217f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+*** Cross-references
+- 並列回路・へいれつかいろ
+- 直列・ちょくれつ・1
+** English glosses
+- parallel (electronics, computing, etc.)
+** Ukrainian glosses
+*** uk-s-1508530-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: паралельний (електричне з'єднання, комп'ютерна обробка)
+** Learner notes
+*** note-s-1508530-002-001
+:PROPERTIES:
+:END:
+- UK :: Паралельне з'єднання електричного кола або одночасне паралельне виконання кількох обчислювальних процесів процесором (часто 並列回路, 並列処理, 並列計算).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1508530-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 膨大なビッグデータを短時間で効率的に処理するため、スーパーコンピュータの多数の演算コアを用いた並列処理が活用されている。
+- READING :: ぼうだいなびっぐでーたをたんじかんでこうりつてきにしょりするため、すーぱーこんぴゅーたのたすうのえんざんこあをもちいたへいれつしょりがかつようされている。
+- UK :: Для швидкої та продуктивної обробки гігантських масивів даних використовують паралельні обчислення на численних ядрах суперкомп'ютера.
+- EN :: In order to efficiently process enormous big data in a short time, parallel processing using many computing cores of supercomputers is utilized.
+- FOCUS :: 並列処理が活用されている
+
+* Sense s-1508530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: da9130d547193bff3c0e727532e68d5b0996e1ff604c27dd4cbae15f9ae2a713
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {taalk.} aaneenschakelend
+*** en-s-1508530-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nevenschikkend
+** Ukrainian glosses
+
+* Sense s-1508530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e108c83465f540bee6157bf2bb35c00fc72b9e08df9b8551366ead95ba4412b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juxtaposition
+** Ukrainian glosses
+
+* Sense s-1508530-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4baa14ddafb2df09754b0680c306d380586f9c713f1ee835e9e042669f660766
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parallel
+*** en-s-1508530-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parallelgeschaltet
+*** en-s-1508530-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nebeneinander geschaltet
+*** en-s-1508530-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nebeneinander stehen
+*** en-s-1508530-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in einer Reihe stehen
+*** en-s-1508530-005-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebeneinanderstehen
+*** en-s-1508530-005-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parallele
+** Ukrainian glosses
+
+* Sense s-1508530-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0425294fb97c7c2bcec4f2d674be173785eab284fa6c050e40a211f5ece8ffc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parataxe
+*** en-s-1508530-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parataxis
+** Ukrainian glosses
+
+* Sense s-1508530-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 607f91dab88fcd715394c61e49c941482912d403c29a99ec07edc26980374f14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parallelschaltung
+** Ukrainian glosses
+
+* Sense s-1508530-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a4c7b7fe9057ef3729f94516e4a20cae9eb27564618685ce808aaa915f185359
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyezség
+*** en-s-1508530-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tagoltság
+*** en-s-1508530-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párhuzam
+*** en-s-1508530-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párhuzamos vonal
+*** en-s-1508530-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párhuzamos
+*** en-s-1508530-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egymás mellett
+*** en-s-1508530-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párhuzamosan
+** Ukrainian glosses
+
+* Sense s-1508530-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 86d41117d39d006601af6d21940b003dbe1e57a8e090ffafb4b3409072cfc766
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ряд
+*** en-s-1508530-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} параллельный
+*** en-s-1508530-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} стоять в ряд (в одну линию)
+** Ukrainian glosses
+
+* Sense s-1508530-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: d9c3e29eecc73b6cbaf185de84b8dadee053c2045fda9354943e0823db56afbb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vzporedno
+*** en-s-1508530-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poleg
+*** en-s-1508530-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vzporeden
+** Ukrainian glosses
+
+* Sense s-1508530-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: e774e0da559dee5f6ff9234d153b3d4e7ed6de6adf3c92c53c4d4c8554de7024
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alineación
+*** en-s-1508530-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fila
+*** en-s-1508530-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hilera
+** Ukrainian glosses
+
+* Sense s-1508530-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 836006637760a8ecc73d609dc1b6ccf8128e34f052c5b8bb17acd774dae8aaf5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508530-012-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parallell
+** Ukrainian glosses
