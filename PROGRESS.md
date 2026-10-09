@@ -4869,6 +4869,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 161 | 10 |
 | 162 | 10 |
 | 163 | 10 |
+| 164 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6656,6 +6657,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 860 | [敵わない](entries/1002/1002950-kanawanai.org) | かなわない | 1002950 | new / draft |
 | Open Anki N1 1042 | [煌びやか](entries/1570/1570480-kirabiyaka.org) | きらびやか | 1570480 | new / draft |
 | Open Anki N1 1068 | [潜る](entries/1609/1609710-kuguru.org) | くぐる | 1609710 | new / draft |
+
+| Open Anki N1 1070 | [くじ引き](entries/1570/1570370-kujibiki.org) | くじびき | 1570370 | new / draft |
+| Open Anki N1 1226 | [誂える](entries/1572/1572680-atsuraeru.org) | あつらえる | 1572680 | new / draft |
+| Open Anki N1 1256 | [有りのまま](entries/1541/1541000-arinomama.org) | ありのまま | 1541000 | new / draft |
+| Open Anki N1 1257 | [有り触れる](entries/2007/2007210-arifureru.org) | ありふれる | 2007210 | new / draft |
+| Open Anki N1 1258 | [亜爾加里](entries/1019/1019210-arukari.org) | アルカリ | 1019210 | new / draft |
+| Open Anki N1 1295 | [至って](entries/1311/1311850-itatte.org) | いたって | 1311850 | new / draft |
+| Open Anki N1 1560 | [其処ら](entries/1006/1006720-sokora.org) | そこら | 1006720 | new / draft |
+| Open Anki N1 1668 | [容易い](entries/1545/1545360-tayasui.org) | たやすい | 1545360 | new / draft |
+| Open Anki N1 1670 | [怠い](entries/1007/1007520-darui.org) | だるい | 1007520 | new / draft |
+| Open Anki N1 1777 | [熟](entries/1008/1008110-tsukuzuku.org) | つくづく | 1008110 | new / draft |
 
 ### Final audit
 
