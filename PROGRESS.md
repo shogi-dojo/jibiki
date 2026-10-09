@@ -4803,6 +4803,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 95 | 10 |
 | 96 | 10 |
 | 97 | 10 |
+| 98 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5864,6 +5865,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1700 | [畜生](entries/1422/1422200-chikushou.org) | ちくしょう | 1422200 | new / draft |
 | Open Anki N1 1702 | [地形](entries/1421/1421030-chikei.org) | ちけい | 1421030 | new / draft |
 | Open Anki N1 1704 | [乳](entries/1464/1464980-chichi.org) | ちち | 1464980 | new / draft |
+
+| Open Anki N1 1707 | [窒息](entries/1422/1422540-chissoku.org) | ちっそく | 1422540 | new / draft |
+| Open Anki N1 1708 | [知的](entries/1420/1420650-chiteki.org) | ちてき | 1420650 | new / draft |
+| Open Anki N1 1710 | [着色](entries/1423/1423090-chakushoku.org) | ちゃくしょく | 1423090 | new / draft |
+| Open Anki N1 1711 | [着席](entries/1423/1423130-chakuseki.org) | ちゃくせき | 1423130 | new / draft |
+| Open Anki N1 1712 | [着目](entries/1423/1423260-chakumoku.org) | ちゃくもく | 1423260 | new / draft |
+| Open Anki N1 1713 | [着陸](entries/1423/1423280-chakuriku.org) | ちゃくりく | 1423280 | new / draft |
+| Open Anki N1 1715 | [茶の間](entries/1422/1422600-chanoma.org) | ちゃのま | 1422600 | new / draft |
+| Open Anki N1 1716 | [茶の湯](entries/1422/1422610-chanoyu.org) | ちゃのゆ | 1422610 | new / draft |
+| Open Anki N1 1717 | [ちやほや](entries/1007/1007620-chiyahoya.org) | ちやほや | 1007620 | new / draft |
+| Open Anki N1 1718 | [チャンネル](entries/1077/1077960-channeru.org) | チャンネル | 1077960 | new / draft |
 
 ### Final audit
 
