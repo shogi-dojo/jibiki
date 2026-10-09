@@ -4855,6 +4855,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 147 | 10 |
 | 148 | 10 |
 | 149 | 10 |
+| 150 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6488,6 +6489,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2417 | [申し分](entries/1363/1363030-moushibun.org) | もうしぶん | 1363030 | new / draft |
 | Open Anki N1 2418 | [盲点](entries/1534/1534280-mouten.org) | もうてん | 1534280 | new / draft |
 | Open Anki N1 2419 | [猛烈](entries/1534/1534100-mouretsu.org) | もうれつ | 1534100 | new / draft |
+
+| Open Anki N1 2420 | [モーテル](entries/1135/1135150-mooteru.org) | モーテル | 1135150 | new / draft |
+| Open Anki N1 2422 | [目録](entries/1535/1535710-mokuroku.org) | もくろく | 1535710 | new / draft |
+| Open Anki N1 2423 | [目論見](entries/1535/1535730-mokuromi.org) | もくろみ | 1535730 | new / draft |
+| Open Anki N1 2425 | [模索](entries/1533/1533660-mosaku.org) | もさく | 1533660 | new / draft |
+| Open Anki N1 2429 | [持ち切り](entries/1315/1315630-mochikiri.org) | もちきり | 1315630 | new / draft |
+| Open Anki N1 2431 | [専ら](entries/1389/1389740-moppara.org) | もっぱら | 1389740 | new / draft |
+| Open Anki N1 2434 | [モニター](entries/1135/1135430-monitaa.org) | モニター | 1135430 | new / draft |
+| Open Anki N1 2435 | [物好き](entries/1502/1502500-monozuki.org) | ものずき | 1502500 | new / draft |
+| Open Anki N1 2439 | [模倣](entries/1533/1533700-mohou.org) | もほう | 1533700 | new / draft |
+| Open Anki N1 2441 | [股](entries/1605/1605310-momo.org) | もも | 1605310 | new / draft |
 
 ### Final audit
 
