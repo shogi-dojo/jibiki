@@ -4865,6 +4865,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 157 | 10 |
 | 158 | 10 |
 | 159 | 10 |
+| 160 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6608,6 +6609,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2598 | [発病](entries/1477/1477870-hatsubyou.org) | はつびょう | 1477870 | new / draft |
 | Open Anki N1 2599 | [初耳](entries/1342/1342770-hatsumimi.org) | はつみみ | 1342770 | new / draft |
 | Open Anki N1 2600 | [果て](entries/1192/1192860-hate.org) | はて | 1192860 | new / draft |
+
+| Open Anki N1 2601 | [果てる](entries/1192/1192910-hateru.org) | はてる | 1192910 | new / draft |
+| Open Anki N1 2606 | [花びら](entries/1194/1194520-hanabira.org) | はなびら | 1194520 | new / draft |
+| Open Anki N1 2609 | [浜](entries/1490/1490710-hama.org) | はま | 1490710 | new / draft |
+| Open Anki N1 2610 | [浜辺](entries/1490/1490720-hamabe.org) | はまべ | 1490720 | new / draft |
+| Open Anki N1 2612 | [早める](entries/1601/1601080-hayameru.org) | はやめる | 1601080 | new / draft |
+| Open Anki N1 2613 | [腹立ち](entries/1501/1501290-haradachi.org) | はらだち | 1501290 | new / draft |
+| Open Anki N1 2614 | [原っぱ](entries/1261/1261150-harappa.org) | はらっぱ | 1261150 | new / draft |
+| Open Anki N1 2617 | [張り紙](entries/1427/1427820-harigami.org) | はりがみ | 1427820 | new / draft |
+| Open Anki N1 2618 | [遥か](entries/1546/1546930-haruka.org) | はるか | 1546930 | new / draft |
+| Open Anki N1 2619 | [破裂](entries/1471/1471470-haretsu.org) | はれつ | 1471470 | new / draft |
 
 ### Final audit
 
