@@ -4822,6 +4822,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 114 | 10 |
 | 115 | 10 |
 | 116 | 10 |
+| 117 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6092,6 +6093,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1982 | [ジャンボ](entries/1065/1065880-janbo.org) | ジャンボ | 1065880 | new / draft |
 | Open Anki N1 1983 | [ジャンル](entries/1065/1065920-janru.org) | ジャンル | 1065920 | new / draft |
 | Open Anki N1 1984 | [主](entries/1324/1324950-shu.org) | しゅ | 1324950 | new / draft |
+
+| Open Anki N1 1985 | [種](entries/1328/1328810-shu.org) | しゅ | 1328810 | new / draft |
+| Open Anki N1 1986 | [私有](entries/1311/1311390-shiyuu.org) | しゆう | 1311390 | new / draft |
+| Open Anki N1 1989 | [修学](entries/1331/1331950-shuugaku.org) | しゅうがく | 1331950 | new / draft |
+| Open Anki N1 1990 | [周期](entries/1331/1331090-shuuki.org) | しゅうき | 1331090 | new / draft |
+| Open Anki N1 1991 | [衆議院](entries/1333/1333260-shuugiin.org) | しゅうぎいん | 1333260 | new / draft |
+| Open Anki N1 1992 | [就業](entries/1331/1331590-shuugyou.org) | しゅうぎょう | 1331590 | new / draft |
+| Open Anki N1 1994 | [集計](entries/1333/1333640-shuukei.org) | しゅうけい | 1333640 | new / draft |
+| Open Anki N1 1995 | [襲撃](entries/1333/1333340-shuugeki.org) | しゅうげき | 1333340 | new / draft |
+| Open Anki N1 1997 | [終始](entries/1332/1332820-shuushi.org) | しゅうし | 1332820 | new / draft |
+| Open Anki N1 1998 | [修士](entries/1332/1332020-shuushi.org) | しゅうし | 1332020 | new / draft |
 
 ### Final audit
 
