@@ -4787,6 +4787,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 79 | 10 |
 | 80 | 10 |
 | 81 | 10 |
+| 82 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5672,6 +5673,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1467 | [静的](entries/1381/1381940-seiteki.org) | せいてき | 1381940 | new / draft |
 | Open Anki N1 1468 | [製鉄](entries/1380/1380720-seitetsu.org) | せいてつ | 1380720 | new / draft |
 | Open Anki N1 1469 | [晴天](entries/1376/1376550-seiten.org) | せいてん | 1376550 | new / draft |
+
+| Open Anki N1 1471 | [制服](entries/1374/1374940-seifuku.org) | せいふく | 1374940 | new / draft |
+| Open Anki N1 1472 | [征服](entries/1375/1375230-seifuku.org) | せいふく | 1375230 | new / draft |
+| Open Anki N1 1473 | [製法](entries/1380/1380810-seihou.org) | せいほう | 1380810 | new / draft |
+| Open Anki N1 1474 | [精密](entries/1380/1380190-seimitsu.org) | せいみつ | 1380190 | new / draft |
+| Open Anki N1 1475 | [税務署](entries/1382/1382190-zeimusho.org) | ぜいむしょ | 1382190 | new / draft |
+| Open Anki N1 1477 | [勢力](entries/1375/1375150-seiryoku.org) | せいりょく | 1375150 | new / draft |
+| Open Anki N1 1478 | [整列](entries/1376/1376300-seiretsu.org) | せいれつ | 1376300 | new / draft |
+| Open Anki N1 1479 | [セール](entries/1074/1074330-seeru.org) | セール | 1074330 | new / draft |
+| Open Anki N1 1480 | [急かす](entries/1228/1228580-sekasu.org) | せかす | 1228580 | new / draft |
+| Open Anki N1 1481 | [伜](entries/1585/1585440-segare.org) | せがれ | 1585440 | new / draft |
 
 ### Final audit
 
