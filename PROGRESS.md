@@ -4866,6 +4866,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 158 | 10 |
 | 159 | 10 |
 | 160 | 10 |
+| 161 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6620,6 +6621,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2617 | [張り紙](entries/1427/1427820-harigami.org) | はりがみ | 1427820 | new / draft |
 | Open Anki N1 2618 | [遥か](entries/1546/1546930-haruka.org) | はるか | 1546930 | new / draft |
 | Open Anki N1 2619 | [破裂](entries/1471/1471470-haretsu.org) | はれつ | 1471470 | new / draft |
+
+| Open Anki N1 100 | [拗れる](entries/1567/1567270-kojireru.org) | こじれる | 1567270 | new / draft |
+| Open Anki N1 106 | [炬燵](entries/1194/1194360-kotatsu.org) | こたつ | 1194360 | new / draft |
+| Open Anki N1 199 | [颯と](entries/1005/1005200-satto.org) | さっと | 1005200 | new / draft |
+| Open Anki N1 204 | [然程](entries/1394/1394760-sahodo.org) | さほど | 1394760 | new / draft |
+| Open Anki N1 209 | [然も](entries/1394/1394700-samo.org) | さも | 1394700 | new / draft |
+| Open Anki N1 247 | [然し乍ら](entries/1506/1506000-shikashinagara.org) | しかしながら | 1506000 | new / draft |
+| Open Anki N1 250 | [仕来り](entries/1594/1594160-shikitari.org) | しきたり | 1594160 | new / draft |
+| Open Anki N1 320 | [兎角](entries/1444/1444050-tokaku.org) | とかく | 1444050 | new / draft |
+| Open Anki N1 321 | [咎める](entries/1565/1565100-togameru.org) | とがめる | 1565100 | new / draft |
+| Open Anki N1 323 | [途切れる](entries/1598/1598690-togireru.org) | とぎれる | 1598690 | new / draft |
 
 ### Final audit
 
