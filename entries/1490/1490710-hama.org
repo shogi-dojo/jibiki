@@ -1,0 +1,497 @@
+#+TITLE: 浜
+#+JMDICT_ID: 1490710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はま
+#+ROMAJI: hama
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490710-001
+:PROPERTIES:
+:TEXT: 浜
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1490710-001
+:PROPERTIES:
+:TEXT: はま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1490710-002
+:PROPERTIES:
+:TEXT: ハマ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1490710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4b83c889bbcf303f150efa3aefac84c9bb01eb3ac3db2092d9d3468f43e83fee
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- beach
+- seashore
+** Ukrainian glosses
+*** uk-s-1490710-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: морський берег; узбережжя; пляж; піщаний берег
+** Learner notes
+*** note-s-1490710-001-001
+:PROPERTIES:
+:END:
+- UK :: Прибережна смуга піску чи гальки біля моря або океану, місце прибою чи висадки рибалок (часто 白砂青松の浜, 浜辺, 浜風, 浜に打ち上げられる).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1490710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 浜で貝殻を拾う。
+- READING :: はまでかいがらをひろう。
+- UK :: Збирати мушлі на морському березі.
+- EN :: To gather seashells on the beach.
+- FOCUS :: 浜で貝殻を
+*** ex-1490710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夏の朝早くに浜を散歩すると、潮の香りを運ぶ爽やかな浜風が心地よく吹き抜けていく。
+- READING :: なつのあさはやくにはまをさんぽすると、しおのかおりをはこぶさわやかなはまかぜがここちよくふきぬけていく。
+- UK :: Під час ранкової прогулянки берегом моря влітку приємно відчувати свіжий бриз із солоним морським подихом.
+- EN :: When taking a walk on the beach early on a summer morning, a refreshing sea breeze carrying the scent of the tide pleasantly blows through.
+- FOCUS :: 浜を散歩すると
+*** ex-1490710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 台風が通過した翌朝の浜には、遠い外洋から強い波によって運ばれてきた大量の流木や珍しい漂着物が打ち上げられていた。
+- READING :: たいふうがつうかしたよくあさのはまには、とおいがいようからつよいなみによってはこばれてきたたいりょうのりゅうぼくやめずらしいひょうちゃくぶつがうちあげられていた。
+- UK :: Наступного ранку після тайфуну на берег сильними хвилями з відкритого океану винесло безліч плавника та рідкісних викинутих морем речей.
+- EN :: On the morning after the typhoon passed, huge amounts of driftwood and rare flotsam washed ashore on the beach, carried from the far open sea by strong waves.
+- FOCUS :: 翌朝の浜には
+
+* Sense s-1490710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d32073796bb7be12fb62681fbca1f7f31e7925a5355ee49c7d8e1d19d30eb6eb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+*** Miscellaneous and register
+- abbr
+- uk
+*** Cross-references
+- 揚げ浜・2
+** English glosses
+- captured pieces
+- captured stones
+** Ukrainian glosses
+*** uk-s-1490710-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: полонені фігури (у сьоґі); зняті камені (у ґо); аґехама
+** Learner notes
+*** note-s-1490710-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін у традиційних настільних іграх (сьоґі та ґо) на позначення знятих фігур супротивника (часто 駒台の浜, アゲハマ).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1490710-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 囲碁の対局では盤上の陣地だけでなく、相手から取った石である浜の数も最終的な勝敗を左右する重要な要素となる。
+- READING :: いごのたいきょくではばんじょうのじんちだけでなく、あいてからとったいしであるはまのかずもさいしゅうてきなしょうはいをさゆうするじゅうようなようそとなる。
+- UK :: У партії в ґо важливе значення має не лише територія на дошці, а й кількість знятих каменів супротивника (аґехама), що впливає на результат.
+- EN :: In a game of Go, not only the territory on the board but also the number of hama, which are stones captured from the opponent, becomes an important factor deciding the final outcome.
+- FOCUS :: 石である浜の数も
+
+* Sense s-1490710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a92c50e26c72298e20270e12595718f6b1e274840099d5fe8f10e55cf7b4712b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 横浜
+** English glosses
+- Yokohama
+** Ukrainian glosses
+*** uk-s-1490710-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: Йокогама (скорочена назва)
+** Learner notes
+*** note-s-1490710-003-001
+:PROPERTIES:
+:END:
+- UK :: Скорочена розмовна або місцева назва портового міста Йокогама в префектурі Канаґава (часто 浜っ子, 浜の風).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1490710-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 横浜で生まれ育った生粋の浜っ子は、港町の歴史と伝統に強い誇りを持っている。
+- READING :: よこはまでうまれそだったきっすいのはまっこは、みなとまちのれきしとでんとうにつよいほこりをもっている。
+- UK :: Корінні жителі Йокогами щиро пишаються історією та традиціями свого портового міста.
+- EN :: Genuine Yokohama natives born and raised in Yokohama hold strong pride in the history and traditions of the port city.
+- FOCUS :: 生粋の浜っ子は
+
+* Sense s-1490710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b567380606907d816371b66e6ea5ad1f7a333b46c3959af1e636c7090884efbf
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+*** Dialects
+- osb
+** English glosses
+- riverbank
+- riverside
+** Ukrainian glosses
+*** uk-s-1490710-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: берег річки; узбережжя озера (архаїчне значення)
+** Learner notes
+*** note-s-1490710-004-001
+:PROPERTIES:
+:END:
+- UK :: Старовинне або поетичне вживання слова для позначення піщаного чи пологого берега великої річки чи водойми (часто 川の浜, 水辺).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1490710-004-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い和歌に詠まれた大川の浜には、朝霧が立ち込める中で小舟を漕ぎ出す漁師の姿があった。
+- READING :: ふるいわかによまれたおおかわのはまには、あさぎりがたちこめるなかでこぶねをこぎだすりょうしのすがたがあった。
+- UK :: На піщаному березі великої річки, оспіваній у давніх піснях, у ранковому тумані виднівся рибалка, який відпливав на човні.
+- EN :: On the shore of the great river celebrated in old waka poetry, there was the figure of a fisherman rowing out a small boat amid the morning mist.
+- FOCUS :: 大川の浜には
+
+* Sense s-1490710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2637e1929331c8ecc2e539311a724524535295faa323157e2a4003b66ac3d493
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strand
+*** en-s-1490710-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kust
+*** en-s-1490710-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oever
+** Ukrainian glosses
+
+* Sense s-1490710-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: af1b56aed3fdda4bf8370c37ff4bc706d8fc8b068196b525b7779477c9a180b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bord de mer
+*** en-s-1490710-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plage
+** Ukrainian glosses
+
+* Sense s-1490710-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3bf591b67a2795f00328e68226ee2f207a84cae5156487aa52b0c89cee6c1fcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hama
+*** en-s-1490710-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strand
+** Ukrainian glosses
+
+* Sense s-1490710-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4e7183f1e00cdf8f9a29525a09fd56212ddfa7619eb0cca769c257cdab2fb62c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eingekreister und vom Feld genommener Spielstein (Abk. für agehama揚げ浜)
+** Ukrainian glosses
+
+* Sense s-1490710-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: ac897cd2ae1bfc2b5386339f250d92c0c7cf473a217327ecc6d2d3c5a103d21e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Yokohama (Abk. für Yokohama横浜)
+** Ukrainian glosses
+
+* Sense s-1490710-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9c5221ff3bb9275d116f0cf0fbb9cf531302a5110992729cd9d0230a6313bb9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (obsol.)Flussufer (in Õsaka während der Edo-Zeit verwendet)
+** Ukrainian glosses
+
+* Sense s-1490710-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3eb4b4557cd1cb3fd98a8e5e92893c376eeeb04e005633c2ab33952f7d886c66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Meeressaline (Abk. für shiohama塩浜)
+** Ukrainian glosses
+
+* Sense s-1490710-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 8368375291f0628efc26d3f7e4aa474524bab5220f031b686fec7aee953138c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: part
+*** en-s-1490710-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strand
+*** en-s-1490710-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tópart
+** Ukrainian glosses
+
+* Sense s-1490710-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 9629cffb3fc877bf5a05e9d6415bade2d75dafe0182cd0fd11774b157694db50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) песчаное побережье, песчаный берег
+*** en-s-1490710-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) берег моря, морской берег
+*** en-s-1490710-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) рыбачья деревушка, рыбацкий посёлок
+** Ukrainian glosses
+
+* Sense s-1490710-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 84ea25e3f314a77e0faa981035fd1231feb92fed0ef81b56ef21f373e763d225
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: playa
+** Ukrainian glosses
+
+* Sense s-1490710-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: dd7f5eeab946530cab5eaa9256cf2f707c52ae7430a80a38af27f37e8c48984d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490710-015-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: havsstrand
+** Ukrainian glosses
