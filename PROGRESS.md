@@ -4812,6 +4812,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 104 | 10 |
 | 105 | 10 |
 | 106 | 10 |
+| 107 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5972,6 +5973,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1839 | [デッサン](entries/1083/1083290-dessan.org) | デッサン | 1083290 | new / draft |
 | Open Anki N1 1842 | [鉄棒](entries/1438/1438030-tetsubou.org) | てつぼう | 1438030 | new / draft |
 | Open Anki N1 1843 | [出直し](entries/1339/1339740-denaoshi.org) | でなおし | 1339740 | new / draft |
+
+| Open Anki N1 1844 | [掌](entries/1580/1580300-tenohira.org) | てのひら | 1580300 | new / draft |
+| Open Anki N1 1846 | [手筈](entries/1328/1328290-tehazu.org) | てはず | 1328290 | new / draft |
+| Open Anki N1 1847 | [手引](entries/1598/1598410-tebiki.org) | てびき | 1598410 | new / draft |
+| Open Anki N1 1849 | [手回し](entries/1327/1327380-temawashi.org) | てまわし | 1327380 | new / draft |
+| Open Anki N1 1850 | [手元](entries/1327/1327560-temoto.org) | てもと | 1327560 | new / draft |
+| Open Anki N1 1851 | [デモンストレーション](entries/1084/1084080-demonsutoreeshon.org) | デモンストレーション | 1084080 | new / draft |
+| Open Anki N1 1852 | [照り返す](entries/1350/1350850-terikaesu.org) | てりかえす | 1350850 | new / draft |
+| Open Anki N1 1853 | [テレックス](entries/1080/1080460-terekkusu.org) | テレックス | 1080460 | new / draft |
+| Open Anki N1 1854 | [手分け](entries/1328/1328340-tewake.org) | てわけ | 1328340 | new / draft |
+| Open Anki N1 1855 | [天](entries/1438/1438210-ten.org) | てん | 1438210 | new / draft |
 
 ### Final audit
 
