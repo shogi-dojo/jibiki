@@ -4860,6 +4860,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 152 | 10 |
 | 153 | 10 |
 | 154 | 10 |
+| 155 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6548,6 +6549,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2513 | [洋風](entries/1546/1546010-youfuu.org) | ようふう | 1546010 | new / draft |
 | Open Anki N1 2514 | [用法](entries/1546/1546410-youhou.org) | ようほう | 1546410 | new / draft |
 | Open Anki N1 2515 | [要望](entries/1546/1546830-youbou.org) | ようぼう | 1546830 | new / draft |
+
+| Open Anki N1 2516 | [余暇](entries/1543/1543980-yoka.org) | よか | 1543980 | new / draft |
+| Open Anki N1 2518 | [余興](entries/1544/1544040-yokyou.org) | よきょう | 1544040 | new / draft |
+| Open Anki N1 2519 | [預金](entries/1545/1545020-yokin.org) | よきん | 1545020 | new / draft |
+| Open Anki N1 2520 | [欲](entries/1547/1547320-yoku.org) | よく | 1547320 | new / draft |
+| Open Anki N1 2522 | [浴室](entries/1547/1547460-yokushitsu.org) | よくしつ | 1547460 | new / draft |
+| Open Anki N1 2523 | [抑制](entries/1547/1547290-yokusei.org) | よくせい | 1547290 | new / draft |
+| Open Anki N1 2524 | [欲深い](entries/1547/1547380-yokubukai.org) | よくぶかい | 1547380 | new / draft |
+| Open Anki N1 2527 | [予言](entries/1584/1584920-yogen.org) | よげん | 1584920 | new / draft |
+| Open Anki N1 2528 | [横綱](entries/1180/1180740-yokozuna.org) | よこづな | 1180740 | new / draft |
+| Open Anki N1 2529 | [汚れ](entries/1612/1612200-yogore.org) | よごれ | 1612200 | new / draft |
 
 ### Final audit
 
