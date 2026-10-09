@@ -4790,6 +4790,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 82 | 10 |
 | 83 | 10 |
 | 84 | 10 |
+| 85 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5708,6 +5709,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1509 | [戦災](entries/1390/1390230-sensai.org) | せんさい | 1390230 | new / draft |
 | Open Anki N1 1510 | [専修](entries/1389/1389790-senshuu.org) | せんしゅう | 1389790 | new / draft |
 | Open Anki N1 1511 | [戦術](entries/1390/1390280-senjutsu.org) | せんじゅつ | 1390280 | new / draft |
+
+| Open Anki N1 1512 | [センス](entries/1075/1075000-sensu.org) | センス | 1075000 | new / draft |
+| Open Anki N1 1513 | [潜水](entries/1391/1391330-sensui.org) | せんすい | 1391330 | new / draft |
+| Open Anki N1 1514 | [全盛](entries/1395/1395560-zensei.org) | ぜんせい | 1395560 | new / draft |
+| Open Anki N1 1515 | [先代](entries/1388/1388080-sendai.org) | せんだい | 1388080 | new / draft |
+| Open Anki N1 1516 | [先だって](entries/1388/1388100-sendatte.org) | せんだって | 1388100 | new / draft |
+| Open Anki N1 1517 | [先着](entries/1388/1388150-senchaku.org) | せんちゃく | 1388150 | new / draft |
+| Open Anki N1 1519 | [先天的](entries/1388/1388200-sententeki.org) | せんてんてき | 1388200 | new / draft |
+| Open Anki N1 1520 | [前途](entries/1393/1393750-zento.org) | ぜんと | 1393750 | new / draft |
+| Open Anki N1 1522 | [潜入](entries/1391/1391360-sennyuu.org) | せんにゅう | 1391360 | new / draft |
+| Open Anki N1 1523 | [船舶](entries/1392/1392080-senpaku.org) | せんぱく | 1392080 | new / draft |
 
 ### Final audit
 
