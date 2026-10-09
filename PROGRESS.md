@@ -4838,6 +4838,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 130 | 10 |
 | 131 | 10 |
 | 132 | 10 |
+| 133 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6284,6 +6285,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 564 | [いっそ](entries/2613/2613280-isso.org) | いっそ | 2613280 | new / draft |
 | Open Anki N1 586 | [インターチェンジ](entries/1022/1022840-intaachenji.org) | インターチェンジ | 1022840 | new / draft |
 | Open Anki N1 587 | [インターナショナル](entries/1022/1022850-intaanashonaru.org) | インターナショナル | 1022850 | new / draft |
+
+| Open Anki N1 588 | [インターフォン](entries/1022/1022990-intaahon.org) | インターフォン | 1022990 | new / draft |
+| Open Anki N1 589 | [インテリ](entries/1023/1023410-interi.org) | インテリ | 1023410 | new / draft |
+| Open Anki N1 590 | [インフォメーション](entries/1024/1024190-infomeeshon.org) | インフォメーション | 1024190 | new / draft |
+| Open Anki N1 639 | [エアメール](entries/1027/1027510-eameeru.org) | エアメール | 1027510 | new / draft |
+| Open Anki N1 676 | [オートマチック](entries/1032/1032100-ootomachikku.org) | オートマチック | 1032100 | new / draft |
+| Open Anki N1 710 | [おどおど](entries/1001/1001400-odoodo.org) | おどおど | 1001400 | new / draft |
+| Open Anki N1 746 | [カーペット](entries/1036/1036580-kaapetto.org) | カーペット | 1036580 | new / draft |
+| Open Anki N1 777 | [ガイドブック](entries/1039/1039920-gaidobukku.org) | ガイドブック | 1039920 | new / draft |
+| Open Anki N1 811 | [カクテル](entries/1037/1037070-kakuteru.org) | カクテル | 1037070 | new / draft |
+| Open Anki N1 846 | [がっくり](entries/1003/1003190-gakkuri.org) | がっくり | 1003190 | new / draft |
 
 ### Final audit
 
