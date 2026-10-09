@@ -1,0 +1,729 @@
+#+TITLE: 破棄
+#+JMDICT_ID: 1471300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はき
+#+ROMAJI: haki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1471300-001
+:PROPERTIES:
+:TEXT: 破棄
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf21
+** Written form wf-1471300-002
+:PROPERTIES:
+:TEXT: 破毀
+:END:
+*** Information
+- rK
+** Reading rd-1471300-001
+:PROPERTIES:
+:TEXT: はき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf21
+
+* Sense s-1471300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ba89383519dbb9c2c68ed4733ab941c679851866ac489fce103e356e209ac578
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- tearing up and discarding (e.g. documents)
+- destruction
+** Ukrainian glosses
+*** uk-s-1471300-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: знищення (документів); розірвання та викидання; утилізація
+** Learner notes
+*** note-s-1471300-001-001
+:PROPERTIES:
+:END:
+- UK :: Розірвання на шматки, подрібнення або знищення паперів, документів чи застарілого обладнання (часто 書類の破棄, 機密文書を破棄する).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1471300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 機密書類を破棄する。
+- READING :: きみつしょるいをはきする。
+- UK :: Знищувати конфіденційні документи.
+- EN :: Discard and destroy confidential documents.
+- FOCUS :: 破棄
+*** ex-1471300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 個人情報漏洩を防ぐため、保存期間が過ぎた顧客データはシュレッダーで裁断して完全に破棄しなければならない。
+- READING :: こじんじょうほうろうえいをふせぐため、ほぞんきかんがすぎたこきゃくでーたはしゅれっだーでさいだんしてかんぜんにはきしなければならない。
+- UK :: Щоб запобігти витоку персональних даних, дані клієнтів із вичерпаним терміном зберігання слід подрібнити в шредері й цілковито знищити.
+- EN :: To prevent personal information leaks, customer data past the retention period must be shredded and completely destroyed.
+- FOCUS :: 完全に破棄しなければ
+*** ex-1471300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 企業内の不正発覚を恐れた幹部が、証拠となり得る内部報告書をシュレッダーで急いで破棄したことが警察の捜査で判明した。
+- READING :: きぎょうないのふせいはっかくをおそれたかんぶが、しょうことなりえるないぶほうこくしょをしゅれっだーでいそいではきしたことがけいさつのそうさではんめいした。
+- UK :: Під час поліцейського розслідування з'ясувалося, що керівник, побоюючись викриття корпоративних махінацій, поспіхом знищив у шредері внутрішній звіт, який міг слугувати доказом.
+- EN :: Police investigations revealed that an executive, fearing the discovery of corporate fraud, had hurriedly shredded and destroyed an internal report that could serve as evidence.
+- FOCUS :: 急いで破棄したことが
+
+* Sense s-1471300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64cad752af60f7f81dfdf2a96586fdf1c4caf6be48269d4a48202ed26c7574c7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- annulment
+- cancellation
+- abrogation
+- voiding
+- breaking (e.g. a treaty)
+** Ukrainian glosses
+*** uk-s-1471300-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: розірвання (угоди); скасування; денонсація; анулювання
+** Learner notes
+*** note-s-1471300-002-001
+:PROPERTIES:
+:END:
+- UK :: Одностороннє припинення дії, скасування чи невиконання міжнародного договору, комерційної угоди або домовленості (часто 条約の破棄, 契約を破棄する).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1471300-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 相手企業が事前の合意事項を守らなかったため、当社は業務提携契約の一方的な破棄を通告した。
+- READING :: あいてきぎょうがじぜんのごういじこうをまもらなかったため、とうしゃはぎょうむていけいけいやくのいっぽうてきなはきをつうこくした。
+- UK :: Оскільки компанія-партнер не виконала попередньо узгоджених умов, наше підприємство повідомило про одностороннє розірвання договору про співпрацю.
+- EN :: Because the partner firm failed to uphold prior agreed matters, our company notified them of the unilateral cancellation of the business alliance contract.
+- FOCUS :: 一方的な破棄を通告した
+
+* Sense s-1471300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5839a61c21658956cdb035988bd88d2d381be0a47331fceb718acf622c1c8b2e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- reversal (of an original ruling on appeal)
+- quashing
+** Ukrainian glosses
+*** uk-s-1471300-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: скасування судового рішення; анулювання вироку (вищою інстанцією)
+** Learner notes
+*** note-s-1471300-003-001
+:PROPERTIES:
+:END:
+- UK :: Юридичне скасування вироку чи рішення суду нижчої інстанції апеляційним чи верховним судом (часто 原判決の破棄, 破棄差戻し).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1471300-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最高裁判所は審理が不十分であったと認め、高等裁判所が下した原判決を破棄して審理のやり直しを命じた。
+- READING :: さいこうさいばんしょはしんりがふじゅうぶんであったとみとめ、こうとうさいばんしょがくだしたげんはんけつをはきしてしんりのやりなおしをめいじた。
+- UK :: Верховний суд визнав розгляд справи недостатнім, скасував попереднє рішення високого суду та постановив направити справу на новий розгляд.
+- EN :: The Supreme Court recognized that the trial was insufficient, quashed the original judgment handed down by the High Court, and ordered a retrial.
+- FOCUS :: 原判決を破棄して
+
+* Sense s-1471300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aefc2f7f24e4f18b603a09908c4202bbd1ca2ab4439f84fa29affb7df7286b26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernielen
+*** en-s-1471300-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernietigen
+*** en-s-1471300-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afbreken
+*** en-s-1471300-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destrueren
+** Ukrainian glosses
+
+* Sense s-1471300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c75aa6b9f6ca910a61529f7538476d5f7b42f9f1d1a57cd3853fc228f73cfe63
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} vernietigen
+*** en-s-1471300-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nietig verklaren
+*** en-s-1471300-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nietig maken
+*** en-s-1471300-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tenietdoen
+*** en-s-1471300-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: annuleren
+*** en-s-1471300-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: casseren
+*** en-s-1471300-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: annihileren
+*** en-s-1471300-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opheffen
+** Ukrainian glosses
+
+* Sense s-1471300-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1995f95c2639889d764c106e52cbd4481f2f44c52405df36686afa6b20691620
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernieling
+*** en-s-1471300-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernietiging
+*** en-s-1471300-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destructie
+*** en-s-1471300-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afbraak
+** Ukrainian glosses
+
+* Sense s-1471300-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 685cbcfb1c10b16d847c68de4e37a29a4f0702c65208e22506be8b65e63fafa4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} vernietiging
+*** en-s-1471300-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nietigverklaring
+*** en-s-1471300-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cassatie
+*** en-s-1471300-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tenietdoening
+*** en-s-1471300-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: annihilatie
+*** en-s-1471300-007-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: annulering
+*** en-s-1471300-007-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opheffing
+*** en-s-1471300-007-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.
+*** en-s-1471300-007-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veroud.} verbreking
+** Ukrainian glosses
+
+* Sense s-1471300-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a6b88a82948d33c8b637324ed8e5127883ac5f5e3873cf11403e1c151a1454ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abrogation
+*** en-s-1471300-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: révocation
+*** en-s-1471300-008-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rupture (d'une promesse)
+** Ukrainian glosses
+
+* Sense s-1471300-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 41bc4881e06e0dbf9dd98a0e359f850ba9f63046289948c4c5d559be47c34131
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vernichten
+*** en-s-1471300-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brechen
+*** en-s-1471300-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: widerrufen
+*** en-s-1471300-009-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufheben
+*** en-s-1471300-009-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zerstören
+*** en-s-1471300-009-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zerstörung
+*** en-s-1471300-009-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vernichtung
+*** en-s-1471300-009-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufhebung
+*** en-s-1471300-009-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bruch
+*** en-s-1471300-009-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Widerruf
+** Ukrainian glosses
+
+* Sense s-1471300-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 3f7ce2df57ac0017ecac8b63acaf4cd0e14cd61e230e954e5bae37cab48065ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszavonás
+*** en-s-1471300-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: érvénytelenítés
+*** en-s-1471300-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megszüntetés
+** Ukrainian glosses
+
+* Sense s-1471300-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 23ea0252441019a094d06d7622ad21a1aa61ce261268fbe62232eba4e2955cba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) отмена; кассация; расторжение; аннулирование; нарушение (обещания)
+*** en-s-1471300-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} отменять; кассировать; расторгать; аннулировать; нарушать
+*** en-s-1471300-011-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) はき【破棄】
+*** en-s-1471300-011-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) разрушение; уничтожение
+*** en-s-1471300-011-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} разрушать; ломать; рвать; уничтожать
+*** en-s-1471300-011-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) はき【破毀】
+** Ukrainian glosses
+
+* Sense s-1471300-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 9f8dbbc085941c612997985aae05d3b608d3af90a16d754d62c722b737e81986
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-012-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: preklic {pogodbe, zaroke}
+*** en-s-1471300-012-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ukinitev
+*** en-s-1471300-012-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razveljavitev {zakona, odločbe}
+*** en-s-1471300-012-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: preklicati {pogodbo, zaroko}
+*** en-s-1471300-012-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ukiniti
+*** en-s-1471300-012-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razveljaviti {zakon, odločbo}
+** Ukrainian glosses
+
+* Sense s-1471300-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: aa1de1019e0a40a98bfa9342bd8afdc2492f6c5991f2fd5744edb493dde1730a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1471300-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derogación
+*** en-s-1471300-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cancelación
+** Ukrainian glosses
