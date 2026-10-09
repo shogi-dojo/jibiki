@@ -1,0 +1,247 @@
+#+TITLE: 分母
+#+JMDICT_ID: 1504310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶんぼ
+#+ROMAJI: bunbo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1504310-001
+:PROPERTIES:
+:TEXT: 分母
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf40
+** Reading rd-1504310-001
+:PROPERTIES:
+:TEXT: ぶんぼ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf40
+
+* Sense s-1504310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6e363b2e73cdd3ff5f44aa4b2233a0f55b2568357733a7c2b685ce899f2ac21c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- denominator
+** Ukrainian glosses
+*** uk-s-1504310-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: знаменник (дробу); базова сукупність (стат.)
+** Learner notes
+*** note-s-1504310-001-001
+:PROPERTIES:
+:END:
+- UK :: Число під рискою дробу, що показує, на скільки рівних частин поділено ціле, або загальна база розрахунку (часто 分子と分母, 分母を揃える, 分母を払う).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1504310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 分数の分母を揃える。
+- READING :: ぶんすうのぶんぼをそろえる。
+- UK :: Зводити знаменники дробів до спільного значення.
+- EN :: Make the denominators of fractions uniform.
+- FOCUS :: 分母を揃える
+*** ex-1504310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 分数の引き算を正確に計算するには、最小公倍数を見つけて通分し分母の値を一致させることが基本である。
+- READING :: ぶんすうのひきざんをせいかくにけいさんするには、さいしょうこうばいすうをみつけてつうぶんしぶんぼのあたいをいっちさせることがきほんである。
+- UK :: Для правильного віднімання дробів базовим кроком є пошук найменшого спільного кратного та приведення знаменників до єдиного числа.
+- EN :: To accurately calculate the subtraction of fractions, finding the least common multiple to reduce fractions to a common denominator and matching denominator values is fundamental.
+- FOCUS :: 分母の値を一致させる
+*** ex-1504310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 統計調査で算出される各種比率を正しく評価するためには、分子だけでなく母集団の規模を示す分母の大きさを慎重に吟味しなければならない。
+- READING :: とうけいちょうさでさんしゅつされるかくしゅひりつをただしくひょうかするためには、ぶんしだけでなくぼしゅうだんのきぼをしめすぶんぼのおおきさをしんちょうにぎんみしなければならない。
+- UK :: Щоб правильно тлумачити коефіцієнти в статистичних звітах, необхідно ретельно вивчати не лише чисельник, але й обсяг знаменника як генеральної сукупності.
+- EN :: In order to correctly evaluate various ratios calculated in statistical surveys, one must carefully examine not only the numerator but also the size of the denominator representing the population scale.
+- FOCUS :: 分母の大きさを慎重に
+
+* Sense s-1504310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7a4af30d84f2eb1149273d40dfd6c3dcf15995bcb9f6cfd1e5584d9ef93d9e29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} noemer
+*** en-s-1504310-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deler
+** Ukrainian glosses
+
+* Sense s-1504310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4c282ef5f48bf87817f6012b0c323ae8c7694c0ab150f3cf7adc73a9ee8e6e36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dénominateur (en mathématiques)
+** Ukrainian glosses
+
+* Sense s-1504310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: efe3cd99e09cc5152241898c8f80ffb707fa1f67749cc26eeac879ee76c3f012
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nenner
+** Ukrainian glosses
+
+* Sense s-1504310-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7f8e68f707d393a44a6ecd21c6136edc219350c8c94513c6bf6cfb4f5d2c9052
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nevező
+** Ukrainian glosses
+
+* Sense s-1504310-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d19d9000eabd01f722168b552b7ec6e8c4de78564b8562a8a2d8c460086b7d77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) знаменатель
+** Ukrainian glosses
+
+* Sense s-1504310-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c96419b868ccc168790bd52b592973fb92f121265c1289dee855b7b21657c963
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: imenovalec
+** Ukrainian glosses
+
+* Sense s-1504310-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 657154f06281614aeeffaacf0946187437ea43a43f16da5a03d6ba6d9e6ec1ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: denominador (matemáticas)
+** Ukrainian glosses
+
+* Sense s-1504310-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 9ee70fa075a959b8d8692f860da8d223d243a9efb0d3fff6946e784e6045f3ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1504310-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nämnare
+** Ukrainian glosses
