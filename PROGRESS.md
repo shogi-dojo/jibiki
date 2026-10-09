@@ -4818,6 +4818,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 110 | 10 |
 | 111 | 10 |
 | 112 | 10 |
+| 113 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6044,6 +6045,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1928 | [バッジ](entries/1099/1099110-bajji.org) | バッジ | 1099110 | new / draft |
 | Open Anki N1 1931 | [下取り](entries/1185/1185180-shitadori.org) | したどり | 1185180 | new / draft |
 | Open Anki N1 1932 | [下火](entries/1184/1184580-shitabi.org) | したび | 1184580 | new / draft |
+
+| Open Anki N1 1933 | [実](entries/1320/1320800-jitsu.org) | じつ | 1320800 | new / draft |
+| Open Anki N1 1934 | [実家](entries/1320/1320900-jikka.org) | じっか | 1320900 | new / draft |
+| Open Anki N1 1935 | [失格](entries/1319/1319820-shikkaku.org) | しっかく | 1319820 | new / draft |
+| Open Anki N1 1936 | [質疑](entries/1320/1320680-shitsugi.org) | しつぎ | 1320680 | new / draft |
+| Open Anki N1 1937 | [失脚](entries/1319/1319850-shikkyaku.org) | しっきゃく | 1319850 | new / draft |
+| Open Anki N1 1938 | [実業家](entries/1320/1320950-jitsugyouka.org) | じつぎょうか | 1320950 | new / draft |
+| Open Anki N1 1940 | [じっくり](entries/1005/1005860-jikkuri.org) | じっくり | 1005860 | new / draft |
+| Open Anki N1 1941 | [躾](entries/1573/1573410-shitsuke.org) | しつけ | 1573410 | new / draft |
+| Open Anki N1 1942 | [躾ける](entries/1573/1573420-shitsukeru.org) | しつける | 1573420 | new / draft |
+| Open Anki N1 1943 | [実践](entries/1321/1321260-jissen.org) | じっせん | 1321260 | new / draft |
 
 ### Final audit
 
