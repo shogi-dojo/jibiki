@@ -4848,6 +4848,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 140 | 10 |
 | 141 | 10 |
 | 142 | 10 |
+| 143 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6404,6 +6405,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2319 | [未熟](entries/1527/1527560-mijuku.org) | みじゅく | 1527560 | new / draft |
 | Open Anki N1 2320 | [微塵](entries/1486/1486050-mijin.org) | みじん | 1486050 | new / draft |
 | Open Anki N1 2321 | [水気](entries/1371/1371390-mizuke.org) | みずけ | 1371390 | new / draft |
+
+| Open Anki N1 2322 | [ミスプリント](entries/1130/1130830-misupurinto.org) | ミスプリント | 1130830 | new / draft |
+| Open Anki N1 2324 | [ミセス](entries/1130/1130880-misesu.org) | ミセス | 1130880 | new / draft |
+| Open Anki N1 2325 | [見せびらかす](entries/1259/1259200-misebirakasu.org) | みせびらかす | 1259200 | new / draft |
+| Open Anki N1 2326 | [見せ物](entries/1259/1259240-misemono.org) | みせもの | 1259240 | new / draft |
+| Open Anki N1 2328 | [満たす](entries/1526/1526670-mitasu.org) | みたす | 1526670 | new / draft |
+| Open Anki N1 2329 | [乱す](entries/1548/1548930-midasu.org) | みだす | 1548930 | new / draft |
+| Open Anki N1 2331 | [未知](entries/1527/1527770-michi.org) | みち | 1527770 | new / draft |
+| Open Anki N1 2333 | [導く](entries/1453/1453680-michibiku.org) | みちびく | 1453680 | new / draft |
+| Open Anki N1 2334 | [密集](entries/1528/1528280-misshuu.org) | みっしゅう | 1528280 | new / draft |
+| Open Anki N1 2335 | [密接](entries/1528/1528290-missetsu.org) | みっせつ | 1528290 | new / draft |
 
 ### Final audit
 
