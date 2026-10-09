@@ -4823,6 +4823,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 115 | 10 |
 | 116 | 10 |
 | 117 | 10 |
+| 118 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6104,6 +6105,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1995 | [襲撃](entries/1333/1333340-shuugeki.org) | しゅうげき | 1333340 | new / draft |
 | Open Anki N1 1997 | [終始](entries/1332/1332820-shuushi.org) | しゅうし | 1332820 | new / draft |
 | Open Anki N1 1998 | [修士](entries/1332/1332020-shuushi.org) | しゅうし | 1332020 | new / draft |
+
+| Open Anki N1 1999 | [従事](entries/1335/1335320-juuji.org) | じゅうじ | 1335320 | new / draft |
+| Open Anki N1 2000 | [終日](entries/1332/1332980-shuujitsu.org) | しゅうじつ | 1332980 | new / draft |
+| Open Anki N1 2003 | [十字路](entries/1334/1334750-juujiro.org) | じゅうじろ | 1334750 | new / draft |
+| Open Anki N1 2006 | [柔軟](entries/1335/1335480-juunan.org) | じゅうなん | 1335480 | new / draft |
+| Open Anki N1 2008 | [収容](entries/1330/1330880-shuuyou.org) | しゅうよう | 1330880 | new / draft |
+| Open Anki N1 2010 | [守衛](entries/1327/1327130-shuei.org) | しゅえい | 1327130 | new / draft |
+| Open Anki N1 2011 | [主演](entries/1325/1325050-shuen.org) | しゅえん | 1325050 | new / draft |
+| Open Anki N1 2014 | [塾](entries/1337/1337780-juku.org) | じゅく | 1337780 | new / draft |
+| Open Anki N1 2015 | [祝賀](entries/1337/1337410-shukuga.org) | しゅくが | 1337410 | new / draft |
+| Open Anki N1 2017 | [手芸](entries/1327/1327540-shugei.org) | しゅげい | 1327540 | new / draft |
 
 ### Final audit
 
