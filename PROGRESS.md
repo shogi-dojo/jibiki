@@ -4864,6 +4864,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 156 | 10 |
 | 157 | 10 |
 | 158 | 10 |
+| 159 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6596,6 +6597,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2575 | [領地](entries/1554/1554780-ryouchi.org) | りょうち | 1554780 | new / draft |
 | Open Anki N1 2578 | [旅客](entries/1553/1553140-ryokaku.org) | りょかく | 1553140 | new / draft |
 | Open Anki N1 2579 | [旅券](entries/1553/1553160-ryoken.org) | りょけん | 1553160 | new / draft |
+
+| Open Anki N1 2580 | [履歴](entries/1549/1549810-rireki.org) | りれき | 1549810 | new / draft |
+| Open Anki N1 2583 | [類](entries/1556/1556040-rui.org) | るい | 1556040 | new / draft |
+| Open Anki N1 2584 | [類推](entries/1556/1556120-ruisui.org) | るいすい | 1556120 | new / draft |
+| Open Anki N1 2585 | [類似](entries/1556/1556100-ruiji.org) | るいじ | 1556100 | new / draft |
+| Open Anki N1 2587 | [冷酷](entries/1556/1556980-reikoku.org) | れいこく | 1556980 | new / draft |
+| Open Anki N1 2588 | [冷蔵](entries/1557/1557100-reizou.org) | れいぞう | 1557100 | new / draft |
+| Open Anki N1 2595 | [恋愛](entries/1558/1558800-renai.org) | れんあい | 1558800 | new / draft |
+| Open Anki N1 2598 | [発病](entries/1477/1477870-hatsubyou.org) | はつびょう | 1477870 | new / draft |
+| Open Anki N1 2599 | [初耳](entries/1342/1342770-hatsumimi.org) | はつみみ | 1342770 | new / draft |
+| Open Anki N1 2600 | [果て](entries/1192/1192860-hate.org) | はて | 1192860 | new / draft |
 
 ### Final audit
 
