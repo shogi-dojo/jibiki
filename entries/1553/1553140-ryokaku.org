@@ -1,0 +1,297 @@
+#+TITLE: 旅客
+#+JMDICT_ID: 1553140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょかく
+#+ROMAJI: ryokaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1553140-001
+:PROPERTIES:
+:TEXT: 旅客
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1553140-001
+:PROPERTIES:
+:TEXT: りょかく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1553140-002
+:PROPERTIES:
+:TEXT: りょきゃく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1553140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 35f5c498455fc5fb0ee230bbf9ff531c77f331ed83c7847afcf5b8f289b068fa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- passenger
+** Ukrainian glosses
+*** uk-s-1553140-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: пасажир; пасажири (на літаку, потягу чи судні)
+** Learner notes
+*** note-s-1553140-001-001
+:PROPERTIES:
+:END:
+- UK :: Люди, які здійснюють поїздку на транспортних засобах за проїзними квитками (часто 旅客機, 旅客鉄道, 旅客輸送, 旅客定員).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1553140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅客機に搭乗する。
+- READING :: りょかくきにとうじょうする。
+- UK :: Сідати на пасажирський літак.
+- EN :: To board a passenger aircraft.
+- FOCUS :: 旅客機に
+*** ex-1553140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国際線の大型旅客機が羽田空港の滑走路に無事着陸すると、機内にいた何百人もの旅客から安堵の拍手が自然と沸き起こった。
+- READING :: こくさいせんのおおがたりょかくきがはねだくうこうのかっそうろにぶじちゃくりくすると、きないにいたなんびゃくにんものりょかくからあんどのはくしゅがしぜんとわきおこった。
+- UK :: Коли великий міжнародний пасажирський літак благополучно приземлився в аеропорту Ханеда, сотні пасажирів на борту полегшено заплескали.
+- EN :: When the large passenger plane on an international flight safely landed on the runway of Haneda Airport, applause of relief naturally broke out from hundreds of passengers inside the aircraft.
+- FOCUS :: 何百人もの旅客から
+*** ex-1553140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 観光シーズンを迎えた主要駅の改札口は、大きなスーツケースを抱えて目的地へ急ぐ大勢の旅客で終日ごった返していた。
+- READING :: かんこうしーずんをむかえたしゅようえきのかいさつぐちは、おおきなすーつけーすをかかえてもくてきちへいそぐおおぜいのりょかくでしゅうじつごったがえしていた。
+- UK :: У розпал туристичного сезону турнікети центрального вокзалу весь день кишіли юрбами пасажирів із великими валізами, що поспішали до потягів.
+- EN :: The ticket gates of the main station welcoming the tourist season were crowded all day long with numerous passengers carrying large suitcases and hurrying toward their destinations.
+- FOCUS :: 大勢の旅客で終日
+
+* Sense s-1553140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ce5341410fa6af68223669836fdcb9f37493a0fa54ded878267cde7a89cecb9b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- traveller
+- traveler
+- tourist
+** Ukrainian glosses
+*** uk-s-1553140-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мандрівник; подорожній; турист (літературне)
+** Learner notes
+*** note-s-1553140-002-001
+:PROPERTIES:
+:END:
+- UK :: Людина, яка перебуває в далекій подорожі або відвідує чужі краї заради пізнання (часто 旅客の安全, 疲れた旅客).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1553140-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 峠の古い茶屋の主人は、険しい山道を歩き疲れて立ち寄った旅客に温かい湯茶を差し出して優しく労った。
+- READING :: とうげのふるいちゃやのあるじは、けわしいやまみちをあるきつかれてたちよったりょかくにあたたかいゆちゃをさしだしてやさしくねぎらった。
+- UK :: Господар старої чайної на перевалі пригостив гарячим чаєм стомленого мандрівника, який подолав круті гірські стежки.
+- EN :: The master of the old tea house on the mountain pass served warm tea and kindly consoled the traveler who had grown tired from walking the steep mountain road and stopped by.
+- FOCUS :: 立ち寄った旅客に
+
+* Sense s-1553140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1350e810cfd166bcbf66e63109c119218dfdc54b84f87bdc971ffb376c3183b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reiziger
+*** en-s-1553140-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: passagier
+** Ukrainian glosses
+
+* Sense s-1553140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e1727ff219688a5cd73f2c571216b2e95596a6f83728b9ec26fbbe23717c4d0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: passager
+*** en-s-1553140-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voyageur
+** Ukrainian glosses
+
+* Sense s-1553140-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9291a6af4b93fbb4caedb330b58692e25dcceb3eedfa62e72617616e590b6073
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Passagier
+*** en-s-1553140-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrgast
+*** en-s-1553140-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fluggast
+*** en-s-1553140-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reisender
+** Ukrainian glosses
+
+* Sense s-1553140-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ef9462567d2deeef92658b1828481cc7884cf85d886552a45ff350c54cc817b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: utas
+** Ukrainian glosses
+
+* Sense s-1553140-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7cdcf15134241babe80edcd973fbc04a709f45392c53022ca02821b6992b44ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пассажир; путешественник
+*** en-s-1553140-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) りょかく
+** Ukrainian glosses
+
+* Sense s-1553140-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 39e46aef1131766e8313ba90264b4df7acfb48a736d6a5024aab506c98ad6272
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553140-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pasajero
+** Ukrainian glosses
