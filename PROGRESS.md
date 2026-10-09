@@ -4837,6 +4837,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 129 | 10 |
 | 130 | 10 |
 | 131 | 10 |
+| 132 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6272,6 +6273,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 368 | [ドライ](entries/1088/1088450-dorai.org) | ドライ | 1088450 | new / draft |
 | Open Anki N1 369 | [ドライクリーニング](entries/1088/1088480-doraikuriiningu.org) | ドライクリーニング | 1088480 | new / draft |
 | Open Anki N1 370 | [ドライバー](entries/1088/1088560-doraibaa.org) | ドライバー | 1088560 | new / draft |
+
+| Open Anki N1 371 | [ドライブイン](entries/1088/1088590-doraibuin.org) | ドライブイン | 1088590 | new / draft |
+| Open Anki N1 372 | [トラブル](entries/1085/1085920-toraburu.org) | トラブル | 1085920 | new / draft |
+| Open Anki N1 373 | [トランジスター](entries/1086/1086180-toranjisuta.org) | トランジスター | 1086180 | new / draft |
+| Open Anki N1 392 | [ドリル](entries/1089/1089070-doriru.org) | ドリル | 1089070 | new / draft |
+| Open Anki N1 447 | [ナンセンス](entries/1090/1090840-nansensu.org) | ナンセンス | 1090840 | new / draft |
+| Open Anki N1 467 | [ニュアンス](entries/1092/1092110-nyuansu.org) | ニュアンス | 1092110 | new / draft |
+| Open Anki N1 523 | [バー](entries/1096/1096970-baa.org) | バー | 1096970 | new / draft |
+| Open Anki N1 564 | [いっそ](entries/2613/2613280-isso.org) | いっそ | 2613280 | new / draft |
+| Open Anki N1 586 | [インターチェンジ](entries/1022/1022840-intaachenji.org) | インターチェンジ | 1022840 | new / draft |
+| Open Anki N1 587 | [インターナショナル](entries/1022/1022850-intaanashonaru.org) | インターナショナル | 1022850 | new / draft |
 
 ### Final audit
 
