@@ -4831,6 +4831,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 123 | 10 |
 | 124 | 10 |
 | 125 | 10 |
+| 126 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6200,6 +6201,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2128 | [噴出](entries/1504/1504600-funshutsu.org) | ふんしゅつ | 1504600 | new / draft |
 | Open Anki N1 2131 | [ふんだん](entries/1011/1011100-fundan.org) | ふんだん | 1011100 | new / draft |
 | Open Anki N1 2132 | [分担](entries/1503/1503950-buntan.org) | ぶんたん | 1503950 | new / draft |
+
+| Open Anki N1 2133 | [奮闘](entries/1504/1504750-funtou.org) | ふんとう | 1504750 | new / draft |
+| Open Anki N1 2135 | [分母](entries/1504/1504310-bunbo.org) | ぶんぼ | 1504310 | new / draft |
+| Open Anki N1 2137 | [分離](entries/1504/1504370-bunri.org) | ぶんり | 1504370 | new / draft |
+| Open Anki N1 2138 | [分裂](entries/1504/1504510-bunretsu.org) | ぶんれつ | 1504510 | new / draft |
+| Open Anki N1 2142 | [閉鎖](entries/1508/1508670-heisa.org) | へいさ | 1508670 | new / draft |
+| Open Anki N1 2143 | [兵士](entries/1506/1506420-heishi.org) | へいし | 1506420 | new / draft |
+| Open Anki N1 2144 | [平常](entries/1507/1507420-heijou.org) | へいじょう | 1507420 | new / draft |
+| Open Anki N1 2145 | [平方](entries/1507/1507850-heihou.org) | へいほう | 1507850 | new / draft |
+| Open Anki N1 2146 | [並列](entries/1508/1508530-heiretsu.org) | へいれつ | 1508530 | new / draft |
+| Open Anki N1 2148 | [辟易](entries/1573/1573590-hekieki.org) | へきえき | 1573590 | new / draft |
 
 ### Final audit
 
