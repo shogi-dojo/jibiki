@@ -1,0 +1,361 @@
+#+TITLE: 両極
+#+JMDICT_ID: 1553520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょうきょく
+#+ROMAJI: ryoukyoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1553520-001
+:PROPERTIES:
+:TEXT: 両極
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1553520-001
+:PROPERTIES:
+:TEXT: りょうきょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1553520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 97b1f50cb60ce72f64bba6b8c1d7a9d522e2bd5174708cf34fd331feb9cf48de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 両極端
+** English glosses
+- both extremities
+** Ukrainian glosses
+*** uk-s-1553520-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: крайнощі; протилежні полюси (у поглядах, позиціях чи думках)
+** Learner notes
+*** note-s-1553520-001-001
+:PROPERTIES:
+:END:
+- UK :: Дві абсолютно несумісні протилежні позиції, думки чи крайнощі у суперечці або оцінці (часто 両極端に分かれる, 両極の対立, 議論の両極).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1553520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 意見が両極に分かれる。
+- READING :: いけんがりょうきょくにわかれる。
+- UK :: Думки розділилися на два протилежні полюси.
+- EN :: Opinions divide into both extremes.
+- FOCUS :: 両極に分かれる
+*** ex-1553520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 増税を巡る国民的議論では、財政再建を最優先とする立場と景気への悪影響を懸念する立場が激しく対立し、世論は両極に二分された。
+- READING :: ぞうぜいをめぐるこくみんてきぎろんでは、ざいせいさいけんをさいゆうせんとするたちばとけいきへのあくえいきょうをけねんするたちばがはげしくたいりつし、せろんはりょうきょくににぶんされた。
+- UK :: Під час національних дебатів щодо підвищення податків зіткнулися прихильники оздоровлення бюджету та ті, хто боїться удару по економіці, розділивши суспільство на два табори.
+- EN :: In the national debate over tax increases, positions giving top priority to fiscal reconstruction and positions fearing adverse effects on the economy clashed fiercely, and public opinion was split into both poles.
+- FOCUS :: 世論は両極に二分された
+*** ex-1553520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急速な富の集中と格差の拡大によって、極端な富裕層と貧困層という社会の両極の溝がかつてないほど深まっている。
+- READING :: きゅうそくなとみのしゅうちゅうとかくさのかくだいによって、きょくたんなふゆうそうとひんこんそうというしゃかいのりょうきょくのみぞがかつてないほどふかまっている。
+- UK :: Через стрімку концентрацію багатств і зростання нерівності прірва між двома суспільними полюсами — ультрабагатими та бідними — стала глибшою, ніж будь-коли.
+- EN :: Through rapid concentration of wealth and widening disparities, the gulf between the two poles of society, namely extreme wealthy and impoverished classes, is deepening more than ever before.
+- FOCUS :: 社会の両極の溝が
+
+* Sense s-1553520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eda349642eb5473531cd7a1a2754e9cb403afb4f1af648a053c8c1d5aeddcffe
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- North and South Poles
+** Ukrainian glosses
+*** uk-s-1553520-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: Північний і Південний полюси Землі; полярні шапки
+** Learner notes
+*** note-s-1553520-002-001
+:PROPERTIES:
+:END:
+- UK :: Два крайні географічні пункти на осі обертання планети — Арктика та Антарктика (часто 地球の両極, 両極地方, 両極の氷).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1553520-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地球温暖化の影響によって両極地方の巨大な氷床が急速に融解し、世界的な海面上昇を引き起こす要因となっている。
+- READING :: ちきゅうおんだんかのえいきょうによってりょうきょくちほうのきょだいなひょうしょうがきゅうそくにゆうかいし、せかいてきなかいめんじょうしょうをひきおこすよういんとなっている。
+- UK :: Під впливом глобального потепління крижані щити обох полюсів стрімко тануть, що веде до підвищення рівня Світового океану.
+- EN :: Due to the effects of global warming, the gigantic ice sheets of both polar regions are melting rapidly, becoming a factor causing worldwide sea level rise.
+- FOCUS :: 両極地方の巨大な氷床が
+
+* Sense s-1553520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2313ae9feaadc509f2f6747202fc88d498ef320d5de446a2fc3b1bd4cc0cb5eb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- positive and negative poles
+** Ukrainian glosses
+*** uk-s-1553520-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: позитивний і негативний полюси (джерела струму або магніту)
+** Learner notes
+*** note-s-1553520-003-001
+:PROPERTIES:
+:END:
+- UK :: Два протилежні електричні полюси батареї (плюс і мінус) або магнітні полюси (північ і південь) (часто 電池の両極, 磁石の両極).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1553520-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 乾電池の両極に導線を正しく接続することで、豆電球に電流が流れてパッと明かりが灯った。
+- READING :: かんでんちのりょうきょくにどうせんをただしくせつぞくすることで、まめでんきゅうにでんりゅうがながれてぱっとあかりがともった。
+- UK :: Правильно під'єднавши дроти до обох полюсів батарейки, ми пустили струм через лампочку, і вона яскраво засвітилася.
+- EN :: By properly connecting wires to both poles of the dry cell battery, an electric current flowed through the miniature bulb and the light turned on brightly.
+- FOCUS :: 乾電池の両極に導線を
+
+* Sense s-1553520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 876072f1ca7ebbfe5a1c9d228fde088cebbcdc3aeeaba33f6c38dadd4dc04521
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beide uiteinden
+*** en-s-1553520-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitersten
+*** en-s-1553520-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extremen
+** Ukrainian glosses
+
+* Sense s-1553520-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8c566367b41c2c0e9dd6a6b987b411ca1e7df64ea21e9574e8df0429beeb8795
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beide polen
+** Ukrainian glosses
+
+* Sense s-1553520-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f2d290cb602a2328536e2d90d491ab5d82013f8e5f125e72d615c8129ad57091
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nord- und Südpol
+*** en-s-1553520-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die beiden Pole
+** Ukrainian glosses
+
+* Sense s-1553520-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3174a1338f591b1c0ef7d2eae60537fcbb58d1d743a1fe3975cf53421c446850
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Plus- und Minuspol
+*** en-s-1553520-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die beiden elektronischen Pole
+** Ukrainian glosses
+
+* Sense s-1553520-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d528626c4b90259fbcbe8e069d8a3ceb39105ca74618963ddea9ad2200abefb3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zwei Extreme
+*** en-s-1553520-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die zwei äußersten Enden
+** Ukrainian glosses
+
+* Sense s-1553520-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: f02881f44c90a9c9beeb9464c50e318a4c14f658c8c509241b7bc89846e08641
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (геогр.) оба полюса
+*** en-s-1553520-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (эл.) анод и катод
+*** en-s-1553520-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (см.) りょうきょくたん
+** Ukrainian glosses
+
+* Sense s-1553520-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9cce200c229d1e1a21fb43f04361cd79d30245eb6d9268e6a58a47acb44744b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553520-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ambos polos
+*** en-s-1553520-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extremos opuestos
+** Ukrainian glosses
