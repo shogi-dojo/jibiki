@@ -4791,6 +4791,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 83 | 10 |
 | 84 | 10 |
 | 85 | 10 |
+| 86 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5720,6 +5721,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1520 | [前途](entries/1393/1393750-zento.org) | ぜんと | 1393750 | new / draft |
 | Open Anki N1 1522 | [潜入](entries/1391/1391360-sennyuu.org) | せんにゅう | 1391360 | new / draft |
 | Open Anki N1 1523 | [船舶](entries/1392/1392080-senpaku.org) | せんぱく | 1392080 | new / draft |
+
+| Open Anki N1 1524 | [全滅](entries/1396/1396240-zenmetsu.org) | ぜんめつ | 1396240 | new / draft |
+| Open Anki N1 1525 | [専用](entries/1596/1596240-senyou.org) | せんよう | 1596240 | new / draft |
+| Open Anki N1 1526 | [占領](entries/1389/1389610-senryou.org) | せんりょう | 1389610 | new / draft |
+| Open Anki N1 1527 | [善良](entries/1394/1394560-zenryou.org) | ぜんりょう | 1394560 | new / draft |
+| Open Anki N1 1528 | [戦力](entries/1390/1390660-senryoku.org) | せんりょく | 1390660 | new / draft |
+| Open Anki N1 1529 | [前例](entries/1394/1394190-zenrei.org) | ぜんれい | 1394190 | new / draft |
+| Open Anki N1 1530 | [相応](entries/1400/1400840-souou.org) | そうおう | 1400840 | new / draft |
+| Open Anki N1 1532 | [創刊](entries/1398/1398320-soukan.org) | そうかん | 1398320 | new / draft |
+| Open Anki N1 1533 | [雑木](entries/1299/1299560-zouki.org) | ぞうき | 1299560 | new / draft |
+| Open Anki N1 1534 | [早急](entries/1581/1581270-soukyuu.org) | そうきゅう | 1581270 | new / draft |
 
 ### Final audit
 
