@@ -4846,6 +4846,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 138 | 10 |
 | 139 | 10 |
 | 140 | 10 |
+| 141 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6380,6 +6381,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2288 | [末期](entries/1604/1604040-makki.org) | まっき | 1604040 | new / draft |
 | Open Anki N1 2289 | [真っ二つ](entries/1363/1363280-mapputatsu.org) | まっぷたつ | 1363280 | new / draft |
 | Open Anki N1 2291 | [纏まり](entries/1440/1440910-matomari.org) | まとまり | 1440910 | new / draft |
+
+| Open Anki N1 2292 | [纏め](entries/1440/1440920-matome.org) | まとめ | 1440920 | new / draft |
+| Open Anki N1 2294 | [招き](entries/1349/1349570-maneki.org) | まねき | 1349570 | new / draft |
+| Open Anki N1 2295 | [瞬き](entries/1580/1580190-mabataki.org) | まばたき | 1580190 | new / draft |
+| Open Anki N1 2296 | [麻痺](entries/1604/1604160-mahi.org) | まひ | 1604160 | new / draft |
+| Open Anki N1 2298 | [眉](entries/1486/1486270-mayu.org) | まゆ | 1486270 | new / draft |
+| Open Anki N1 2299 | [鞠](entries/1226/1226280-mari.org) | まり | 1226280 | new / draft |
+| Open Anki N1 2302 | [丸々](entries/1604/1604260-marumaru.org) | まるまる | 1604260 | new / draft |
+| Open Anki N1 2303 | [丸める](entries/1216/1216300-marumeru.org) | まるめる | 1216300 | new / draft |
+| Open Anki N1 2304 | [満月](entries/1526/1526770-mangetsu.org) | まんげつ | 1526770 | new / draft |
+| Open Anki N1 2305 | [満場](entries/1526/1526820-manjou.org) | まんじょう | 1526820 | new / draft |
 
 ### Final audit
 
