@@ -4833,6 +4833,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 125 | 10 |
 | 126 | 10 |
 | 127 | 10 |
+| 128 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6224,6 +6225,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2158 | [便宜](entries/1512/1512480-bengi.org) | べんぎ | 1512480 | new / draft |
 | Open Anki N1 2163 | [変遷](entries/1511/1511260-hensen.org) | へんせん | 1511260 | new / draft |
 | Open Anki N1 2164 | [返答](entries/1512/1512290-hentou.org) | へんとう | 1512290 | new / draft |
+
+| Open Anki N1 2165 | [変動](entries/1511/1511450-hendou.org) | へんどう | 1511450 | new / draft |
+| Open Anki N1 2167 | [穂](entries/1514/1514780-ho.org) | ほ | 1514780 | new / draft |
+| Open Anki N1 2169 | [ボイコット](entries/1123/1123670-boikotto.org) | ボイコット | 1123670 | new / draft |
+| Open Anki N1 2170 | [ポイント](entries/1124/1124860-pointo.org) | ポイント | 1124860 | new / draft |
+| Open Anki N1 2173 | [防火](entries/1520/1520260-bouka.org) | ぼうか | 1520260 | new / draft |
+| Open Anki N1 2177 | [封建](entries/1499/1499620-houken.org) | ほうけん | 1499620 | new / draft |
+| Open Anki N1 2178 | [豊作](entries/1518/1518150-housaku.org) | ほうさく | 1518150 | new / draft |
+| Open Anki N1 2180 | [奉仕](entries/1515/1515950-houshi.org) | ほうし | 1515950 | new / draft |
+| Open Anki N1 2181 | [方式](entries/1517/1517030-houshiki.org) | ほうしき | 1517030 | new / draft |
+| Open Anki N1 2182 | [放射](entries/1516/1516600-housha.org) | ほうしゃ | 1516600 | new / draft |
 
 ### Final audit
 
