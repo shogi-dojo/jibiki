@@ -4854,6 +4854,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 146 | 10 |
 | 147 | 10 |
 | 148 | 10 |
+| 149 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6476,6 +6477,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2401 | [滅亡](entries/1533/1533030-metsubou.org) | めつぼう | 1533030 | new / draft |
 | Open Anki N1 2402 | [メディア](entries/1133/1133620-media.org) | メディア | 1133620 | new / draft |
 | Open Anki N1 2403 | [目途](entries/1535/1535470-medo.org) | めど | 1535470 | new / draft |
+
+| Open Anki N1 2404 | [目盛](entries/1605/1605030-memori.org) | めもり | 1605030 | new / draft |
+| Open Anki N1 2405 | [メロディー](entries/1134/1134150-merodii.org) | メロディー | 1134150 | new / draft |
+| Open Anki N1 2406 | [面会](entries/1533/1533440-menkai.org) | めんかい | 1533440 | new / draft |
+| Open Anki N1 2407 | [免除](entries/1533/1533200-menjo.org) | めんじょ | 1533200 | new / draft |
+| Open Anki N1 2413 | [申し入れる](entries/1363/1363010-moushiireru.org) | もうしいれる | 1363010 | new / draft |
+| Open Anki N1 2414 | [申込](entries/1605/1605140-moushikomi.org) | もうしこみ | 1605140 | new / draft |
+| Open Anki N1 2415 | [申出](entries/1362/1362920-moushide.org) | もうしで | 1362920 | new / draft |
+| Open Anki N1 2417 | [申し分](entries/1363/1363030-moushibun.org) | もうしぶん | 1363030 | new / draft |
+| Open Anki N1 2418 | [盲点](entries/1534/1534280-mouten.org) | もうてん | 1534280 | new / draft |
+| Open Anki N1 2419 | [猛烈](entries/1534/1534100-mouretsu.org) | もうれつ | 1534100 | new / draft |
 
 ### Final audit
 
