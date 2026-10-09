@@ -20,9 +20,9 @@ examples are independently authored.
 | [N1 lexical CSV](https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/main/src/n1.csv) | `120911636c019899552aa6d7bd64b036ecef4bedfe272a744f75735c46aae5cd` |
 | [N2 lexical CSV](https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/main/src/n2.csv) | `2d0f1ddd6222881cd9fc2ca701db74300af99b3f1f84d5ac3c18411c20f0c055` |
 
-Completed 2026-10-07: all 830 selected N1 entries were authored and individually
-committed in 83 batches of ten (3 on main, 80 on this continuation branch).
-They supply 1,395 original Ukrainian usage notes and 3,057 examples (including 2,490
+Completed 2026-10-09: all 930 selected N1 entries were authored and individually
+committed in 93 batches of ten (3 on main, 90 on this continuation branch).
+They supply 1,545 original Ukrainian usage notes and 3,407 examples (including 2,790
 primary-sense graded examples), and passed validation, Org lint and doctor
-100/100 with no errors or warnings. The reconciled pool retains 701 unused
+100/100 with no errors or warnings. The reconciled pool retains 601 unused
 N1 entries. These remain learner drafts awaiting independent linguistic review.
