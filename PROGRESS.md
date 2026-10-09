@@ -4828,6 +4828,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 120 | 10 |
 | 121 | 10 |
 | 122 | 10 |
+| 123 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6164,6 +6165,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2082 | [不審](entries/1493/1493120-fushin.org) | ふしん | 1493120 | new / draft |
 | Open Anki N1 2083 | [不振](entries/1493/1493150-fushin.org) | ふしん | 1493150 | new / draft |
 | Open Anki N1 2084 | [武装](entries/1498/1498740-busou.org) | ぶそう | 1498740 | new / draft |
+
+| Open Anki N1 2085 | [札](entries/1298/1298970-fuda.org) | ふだ | 1298970 | new / draft |
+| Open Anki N1 2088 | [復活](entries/1500/1500700-fukkatsu.org) | ふっかつ | 1500700 | new / draft |
+| Open Anki N1 2089 | [物議](entries/1502/1502450-butsugi.org) | ぶつぎ | 1502450 | new / draft |
+| Open Anki N1 2092 | [物資](entries/1502/1502540-busshi.org) | ぶっし | 1502540 | new / draft |
+| Open Anki N1 2094 | [物体](entries/1502/1502680-buttai.org) | ぶったい | 1502680 | new / draft |
+| Open Anki N1 2096 | [不当](entries/1494/1494120-futou.org) | ふとう | 1494120 | new / draft |
+| Open Anki N1 2097 | [不動産](entries/1494/1494220-fudousan.org) | ふどうさん | 1494220 | new / draft |
+| Open Anki N1 2098 | [無難](entries/1530/1530750-bunan.org) | ぶなん | 1530750 | new / draft |
+| Open Anki N1 2101 | [不評](entries/1494/1494640-fuhyou.org) | ふひょう | 1494640 | new / draft |
+| Open Anki N1 2102 | [不服](entries/1494/1494700-fufuku.org) | ふふく | 1494700 | new / draft |
 
 ### Final audit
 
