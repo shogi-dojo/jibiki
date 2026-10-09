@@ -1,0 +1,434 @@
+#+TITLE: 齎す
+#+JMDICT_ID: 1573190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もたらす
+#+ROMAJI: motarasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1573190-001
+:PROPERTIES:
+:TEXT: 齎す
+:END:
+*** Information
+- rK
+** Written form wf-1573190-002
+:PROPERTIES:
+:TEXT: 齎らす
+:END:
+*** Information
+- sK
+** Written form wf-1573190-003
+:PROPERTIES:
+:TEXT: 持たらす
+:END:
+*** Information
+- sK
+** Reading rd-1573190-001
+:PROPERTIES:
+:TEXT: もたらす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-1573190-002
+:PROPERTIES:
+:TEXT: もらたす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1573190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7f5cb7e06d6b7f85435a9a0580ae6f714a1ace452ac988185e6b2cf4f37d51d2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Miscellaneous and register
+- uk
+** English glosses
+- to bring (news, knowledge, etc.)
+- to introduce
+** Ukrainian glosses
+*** uk-s-1573190-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: приносити (звістку, знання); доносити; передавати
+** Learner notes
+*** note-s-1573190-001-001
+:PROPERTIES:
+:END:
+- UK :: Донесення важливих новин, цінних знань або чуток з іншого місця чи від іншої особи (часто 朗報をもたらす, 新たな情報をもたらす).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1573190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朗報を齎す。
+- READING :: ろうほうをもたらす。
+- UK :: Принести радісну звістку.
+- EN :: To bring good news.
+- FOCUS :: 朗報を齎す
+*** ex-1573190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 遠征先から無事に帰還した使者がもたらした勝利の知らせに、城内は歓喜の声で沸き返った。
+- READING :: えんせいさきからぶじにきかんしたししゃがもたらしたしょうりのしらせに、じょうないはかんきのこえでわきかえった。
+- UK :: Звістка про перемогу, яку приніс посланець, щасливо повернувшись із походу, сколихнула всю фортецю радісними вигуками.
+- EN :: At the news of victory brought by the messenger who returned safely from the expedition, the castle erupted in cheers of joy.
+- FOCUS :: もたらした勝利の知らせ
+*** ex-1573190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最新の宇宙探査機が地球に齎した観測データは、太陽系の起源を解き明かすための貴重な手がかりとなった。
+- READING :: さいしんのうちゅうたんさきがちきゅうにもたらしたかんそくでーたは、たいようけいのきげんをときあかすためのきちょうなてがかりとなった。
+- UK :: Спостережні дані, які найновіший космічний зонд передав на Землю, стали безцінною підказкою для розгадки походження Сонячної системи.
+- EN :: The observational data that the latest space probe brought to Earth became a valuable clue for unraveling the origins of the solar system.
+- FOCUS :: 地球に齎した観測データ
+
+* Sense s-1573190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d1b05c17601bd8417fbe2b031d79bbd1391685575850f127bfdfb11b229eb557
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Miscellaneous and register
+- uk
+** English glosses
+- to bring about
+- to cause
+- to produce (e.g. results)
+** Ukrainian glosses
+*** uk-s-1573190-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: спричиняти; приносити (наслідки, плоди); породжувати; зумовлювати
+** Learner notes
+*** note-s-1573190-002-001
+:PROPERTIES:
+:END:
+- UK :: Спричинення значних наслідків, змін, шкоди або користі в результаті певної події чи явища (часто 被害をもたらす, 繁栄をもたらす).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1573190-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大型の台風が上陸して記録的な豪雨を降らせ、各地に甚大な土砂崩れ被害を齎した。
+- READING :: おおがたのたいふうがじょうりくしてきろくてきなごううをふらせ、かくちにじんだいなどしゃくずれひがいをもたらした。
+- UK :: Потужний тайфун вийшов на узбережжя, приніс рекордні зливи й спричинив велетенські зсуви ґрунту в різних регіонах.
+- EN :: The large typhoon made landfall bringing record torrential rain and causing tremendous landslide damage in various places.
+- FOCUS :: 土砂崩れ被害を齎した
+
+* Sense s-1573190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 93b489c90d5a27dafd6ffaa6914a8bff4a99fef43015ccd327d134da989c1c5f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brengen
+*** en-s-1573190-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanbrengen
+*** en-s-1573190-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meebrengen
+*** en-s-1573190-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opleveren
+*** en-s-1573190-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanrichten
+*** en-s-1573190-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aandoen
+** Ukrainian glosses
+
+* Sense s-1573190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9df94e77913cc286a2440681dea77b92b3e01a4557549eb2007d58fb9032e3c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apporter
+*** en-s-1573190-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: conduire à
+*** en-s-1573190-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: provoquer (événement)
+** Ukrainian glosses
+
+* Sense s-1573190-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b9a4832513de908054cc832e674a9bdf5110db1e18e0c1133fec6602c5a21717
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mit sich bringen
+*** en-s-1573190-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bringen
+*** en-s-1573190-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: überbringen
+** Ukrainian glosses
+
+* Sense s-1573190-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7b6ced743460d33d01f22f4e2ff4734bc2d30e021a8774e8e04b242ebe3cab4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herbeiführen
+*** en-s-1573190-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hervorbringen
+*** en-s-1573190-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verursachen
+*** en-s-1573190-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zur Folge haben
+*** en-s-1573190-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zu etw. führen
+** Ukrainian glosses
+
+* Sense s-1573190-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6c24cb45c9cddd0bc1f6b9e5308398d66b1b741ce75dd7a261f53b22daa02358
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoz
+*** en-s-1573190-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forgalmaz
+*** en-s-1573190-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hatalmába kerít
+*** en-s-1573190-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tart
+*** en-s-1573190-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vesz
+*** en-s-1573190-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visz
+*** en-s-1573190-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előidéz
+*** en-s-1573190-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: véghezvisz
+** Ukrainian glosses
+
+* Sense s-1573190-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8ea5ffbe31bd7a677b28b6680ff64871f01abf3aed4e8c541b0c5272a13f6dec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573190-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) влечь за собой, вызывать, приносить (что-л.), приводить (к чему-л.)
+*** en-s-1573190-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) уносить
+** Ukrainian glosses
