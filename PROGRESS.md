@@ -4793,6 +4793,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 85 | 10 |
 | 86 | 10 |
 | 87 | 10 |
+| 88 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5744,6 +5745,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1544 | [相対](entries/1401/1401110-soutai.org) | そうたい | 1401110 | new / draft |
 | Open Anki N1 1546 | [騒動](entries/1403/1403080-soudou.org) | そうどう | 1403080 | new / draft |
 | Open Anki N1 1547 | [遭難](entries/1402/1402900-sounan.org) | そうなん | 1402900 | new / draft |
+
+| Open Anki N1 1549 | [装備](entries/1402/1402400-soubi.org) | そうび | 1402400 | new / draft |
+| Open Anki N1 1550 | [創立](entries/1398/1398640-souritsu.org) | そうりつ | 1398640 | new / draft |
+| Open Anki N1 1553 | [即座に](entries/1404/1404190-sokuzani.org) | そくざに | 1404190 | new / draft |
+| Open Anki N1 1555 | [即する](entries/1404/1404090-sokusuru.org) | そくする | 1404090 | new / draft |
+| Open Anki N1 1557 | [側面](entries/1404/1404040-sokumen.org) | そくめん | 1404040 | new / draft |
+| Open Anki N1 1561 | [阻止](entries/1397/1397820-soshi.org) | そし | 1397820 | new / draft |
+| Open Anki N1 1563 | [育ち](entries/1160/1160520-sodachi.org) | そだち | 1160520 | new / draft |
+| Open Anki N1 1564 | [措置](entries/1396/1396530-sochi.org) | そち | 1396530 | new / draft |
+| Open Anki N1 1565 | [ソックス](entries/1075/1075420-sokkusu.org) | ソックス | 1075420 | new / draft |
+| Open Anki N1 1566 | [素っ気無い](entries/1596/1596550-sokkenai.org) | そっけない | 1596550 | new / draft |
 
 ### Final audit
 
