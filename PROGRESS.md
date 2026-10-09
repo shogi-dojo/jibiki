@@ -4870,6 +4870,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 162 | 10 |
 | 163 | 10 |
 | 164 | 10 |
+| 165 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6668,6 +6669,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 1668 | [容易い](entries/1545/1545360-tayasui.org) | たやすい | 1545360 | new / draft |
 | Open Anki N1 1670 | [怠い](entries/1007/1007520-darui.org) | だるい | 1007520 | new / draft |
 | Open Anki N1 1777 | [熟](entries/1008/1008110-tsukuzuku.org) | つくづく | 1008110 | new / draft |
+
+| Open Anki N1 1793 | [抓る](entries/1567/1567230-tsuneru.org) | つねる | 1567230 | new / draft |
+| Open Anki N1 1798 | [円ら](entries/1598/1598070-tsubura.org) | つぶら | 1598070 | new / draft |
+| Open Anki N1 1829 | [出来物](entries/1580/1580150-dekimono.org) | できもの | 1580150 | new / draft |
+| Open Anki N1 1874 | [碌な](entries/1612/1612330-rokuna.org) | ろくな | 1612330 | new / draft |
+| Open Anki N1 1881 | [態々](entries/1606/1606710-wazawaza.org) | わざわざ | 1606710 | new / draft |
+| Open Anki N1 1894 | [儚い](entries/1600/1600630-hakanai.org) | はかない | 1600630 | new / draft |
+| Open Anki N1 1895 | [馬鹿馬鹿しい](entries/1471/1471740-bakabakashii.org) | ばかばかしい | 1471740 | new / draft |
+| Open Anki N1 2154 | [謙る](entries/1603/1603220-herikudaru.org) | へりくだる | 1603220 | new / draft |
+| Open Anki N1 2233 | [頬っぺた](entries/1520/1520630-hoppeta.org) | ほっぺた | 1520630 | new / draft |
+| Open Anki N1 2238 | [辺](entries/2842/2842190-hotori.org) | ほとり | 2842190 | new / draft |
 
 ### Final audit
 
