@@ -4857,6 +4857,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 149 | 10 |
 | 150 | 10 |
 | 151 | 10 |
+| 152 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6512,6 +6513,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2459 | [安っぽい](entries/1153/1153680-yasuppoi.org) | やすっぽい | 1153680 | new / draft |
 | Open Anki N1 2460 | [休める](entries/1227/1227570-yasumeru.org) | やすめる | 1227570 | new / draft |
 | Open Anki N1 2461 | [野生](entries/1537/1537470-yasei.org) | やせい | 1537470 | new / draft |
+
+| Open Anki N1 2462 | [奴](entries/1445/1445640-yatsu.org) | やつ | 1445640 | new / draft |
+| Open Anki N1 2463 | [闇](entries/1154/1154910-yami.org) | やみ | 1154910 | new / draft |
+| Open Anki N1 2468 | [和らげる](entries/1561/1561960-yawarageru.org) | やわらげる | 1561960 | new / draft |
+| Open Anki N1 2471 | [優位](entries/1539/1539100-yuui.org) | ゆうい | 1539100 | new / draft |
+| Open Anki N1 2473 | [有益](entries/1541/1541120-yuueki.org) | ゆうえき | 1541120 | new / draft |
+| Open Anki N1 2474 | [優越](entries/1539/1539120-yuuetsu.org) | ゆうえつ | 1539120 | new / draft |
+| Open Anki N1 2476 | [夕暮れ](entries/1542/1542770-yuugure.org) | ゆうぐれ | 1542770 | new / draft |
+| Open Anki N1 2479 | [優勢](entries/1539/1539340-yuusei.org) | ゆうせい | 1539340 | new / draft |
+| Open Anki N1 2480 | [優先](entries/1539/1539390-yuusen.org) | ゆうせん | 1539390 | new / draft |
+| Open Anki N1 2481 | [誘導](entries/1542/1542020-yuudou.org) | ゆうどう | 1542020 | new / draft |
 
 ### Final audit
 
