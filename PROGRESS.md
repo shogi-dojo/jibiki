@@ -4805,6 +4805,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 97 | 10 |
 | 98 | 10 |
 | 99 | 10 |
+| 100 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5888,6 +5889,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1732 | [蝶](entries/1429/1429010-chou.org) | ちょう | 1429010 | new / draft |
 | Open Anki N1 1734 | [調印](entries/1429/1429080-chouin.org) | ちょういん | 1429080 | new / draft |
 | Open Anki N1 1735 | [聴覚](entries/1428/1428880-choukaku.org) | ちょうかく | 1428880 | new / draft |
+
+| Open Anki N1 1736 | [長官](entries/1429/1429820-choukan.org) | ちょうかん | 1429820 | new / draft |
+| Open Anki N1 1737 | [聴講](entries/1428/1428890-choukou.org) | ちょうこう | 1428890 | new / draft |
+| Open Anki N1 1739 | [聴診器](entries/1428/1428920-choushinki.org) | ちょうしんき | 1428920 | new / draft |
+| Open Anki N1 1741 | [重複](entries/1579/1579980-choufuku.org) | ちょうふく | 1579980 | new / draft |
+| Open Anki N1 1742 | [長編](entries/1430/1430110-chouhen.org) | ちょうへん | 1430110 | new / draft |
+| Open Anki N1 1743 | [重宝](entries/1579/1579990-chouhou.org) | ちょうほう | 1579990 | new / draft |
+| Open Anki N1 1746 | [ちょくちょく](entries/1007/1007790-chokuchoku.org) | ちょくちょく | 1007790 | new / draft |
+| Open Anki N1 1747 | [直面](entries/1431/1431540-chokumen.org) | ちょくめん | 1431540 | new / draft |
+| Open Anki N1 1748 | [著書](entries/1427/1427140-chosho.org) | ちょしょ | 1427140 | new / draft |
+| Open Anki N1 1751 | [著名](entries/1427/1427150-chomei.org) | ちょめい | 1427150 | new / draft |
 
 ### Final audit
 
