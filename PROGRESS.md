@@ -4821,6 +4821,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 113 | 10 |
 | 114 | 10 |
 | 115 | 10 |
+| 116 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6080,6 +6081,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1970 | [弱](entries/1324/1324510-jaku.org) | じゃく | 1324510 | new / draft |
 | Open Anki N1 1971 | [社交](entries/1322/1322860-shakou.org) | しゃこう | 1322860 | new / draft |
 | Open Anki N1 1972 | [ジャズ](entries/1065/1065290-jazu.org) | ジャズ | 1065290 | new / draft |
+
+| Open Anki N1 1973 | [謝絶](entries/1323/1323050-shazetsu.org) | しゃぜつ | 1323050 | new / draft |
+| Open Anki N1 1974 | [社宅](entries/1322/1322900-shataku.org) | しゃたく | 1322900 | new / draft |
+| Open Anki N1 1977 | [斜面](entries/1322/1322470-shamen.org) | しゃめん | 1322470 | new / draft |
+| Open Anki N1 1978 | [砂利](entries/1291/1291660-jari.org) | じゃり | 1291660 | new / draft |
+| Open Anki N1 1979 | [洒落る](entries/1568/1568670-shareru.org) | しゃれる | 1568670 | new / draft |
+| Open Anki N1 1980 | [ジャンパー](entries/1065/1065840-janpaa.org) | ジャンパー | 1065840 | new / draft |
+| Open Anki N1 1981 | [ジャンプ](entries/1065/1065860-janpu.org) | ジャンプ | 1065860 | new / draft |
+| Open Anki N1 1982 | [ジャンボ](entries/1065/1065880-janbo.org) | ジャンボ | 1065880 | new / draft |
+| Open Anki N1 1983 | [ジャンル](entries/1065/1065920-janru.org) | ジャンル | 1065920 | new / draft |
+| Open Anki N1 1984 | [主](entries/1324/1324950-shu.org) | しゅ | 1324950 | new / draft |
 
 ### Final audit
 
