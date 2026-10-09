@@ -4861,6 +4861,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 153 | 10 |
 | 154 | 10 |
 | 155 | 10 |
+| 156 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6560,6 +6561,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2527 | [予言](entries/1584/1584920-yogen.org) | よげん | 1584920 | new / draft |
 | Open Anki N1 2528 | [横綱](entries/1180/1180740-yokozuna.org) | よこづな | 1180740 | new / draft |
 | Open Anki N1 2529 | [汚れ](entries/1612/1612200-yogore.org) | よごれ | 1612200 | new / draft |
+
+| Open Anki N1 2531 | [良し](entries/1394/1394280-yoshi.org) | よし | 1394280 | new / draft |
+| Open Anki N1 2532 | [善し悪し](entries/1581/1581170-yoshiashi.org) | よしあし | 1581170 | new / draft |
+| Open Anki N1 2533 | [余所見](entries/1544/1544190-yosomi.org) | よそみ | 1544190 | new / draft |
+| Open Anki N1 2534 | [余地](entries/1544/1544380-yochi.org) | よち | 1544380 | new / draft |
+| Open Anki N1 2538 | [夜更し](entries/1606/1606000-yofukashi.org) | よふかし | 1606000 | new / draft |
+| Open Anki N1 2539 | [夜更け](entries/1606/1606010-yofuke.org) | よふけ | 1606010 | new / draft |
+| Open Anki N1 2540 | [余程](entries/1605/1605980-yohodo.org) | よほど | 1605980 | new / draft |
+| Open Anki N1 2541 | [読み上げる](entries/1456/1456260-yomiageru.org) | よみあげる | 1456260 | new / draft |
+| Open Anki N1 2543 | [寄り掛かる](entries/1606/1606110-yorikakaru.org) | よりかかる | 1606110 | new / draft |
+| Open Anki N1 2545 | [弱る](entries/1324/1324650-yowaru.org) | よわる | 1324650 | new / draft |
 
 ### Final audit
 
