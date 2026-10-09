@@ -4820,6 +4820,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 112 | 10 |
 | 113 | 10 |
 | 114 | 10 |
+| 115 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6068,6 +6069,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1955 | [しなやか](entries/1566/1566110-shinayaka.org) | しなやか | 1566110 | new / draft |
 | Open Anki N1 1956 | [屎尿](entries/1566/1566370-shinyou.org) | しにょう | 1566370 | new / draft |
 | Open Anki N1 1957 | [地主](entries/1421/1421150-jinushi.org) | じぬし | 1421150 | new / draft |
+
+| Open Anki N1 1959 | [芝](entries/1321/1321610-shiba.org) | しば | 1321610 | new / draft |
+| Open Anki N1 1960 | [始発](entries/1307/1307610-shihatsu.org) | しはつ | 1307610 | new / draft |
+| Open Anki N1 1961 | [耳鼻科](entries/1317/1317310-jibika.org) | じびか | 1317310 | new / draft |
+| Open Anki N1 1962 | [私物](entries/1311/1311380-shibutsu.org) | しぶつ | 1311380 | new / draft |
+| Open Anki N1 1963 | [しぶとい](entries/1005/1005590-shibutoi.org) | しぶとい | 1005590 | new / draft |
+| Open Anki N1 1965 | [始末](entries/1307/1307620-shimatsu.org) | しまつ | 1307620 | new / draft |
+| Open Anki N1 1966 | [染みる](entries/1391/1391120-shimiru.org) | しみる | 1391120 | new / draft |
+| Open Anki N1 1970 | [弱](entries/1324/1324510-jaku.org) | じゃく | 1324510 | new / draft |
+| Open Anki N1 1971 | [社交](entries/1322/1322860-shakou.org) | しゃこう | 1322860 | new / draft |
+| Open Anki N1 1972 | [ジャズ](entries/1065/1065290-jazu.org) | ジャズ | 1065290 | new / draft |
 
 ### Final audit
 
