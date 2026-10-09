@@ -4798,6 +4798,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 90 | 10 |
 | 91 | 10 |
 | 92 | 10 |
+| 93 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5804,6 +5805,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1629 | [打開](entries/1408/1408850-dakai.org) | だかい | 1408850 | new / draft |
 | Open Anki N1 1630 | [焚火](entries/1504/1504680-takibi.org) | たきび | 1504680 | new / draft |
 | Open Anki N1 1635 | [打撃](entries/1408/1408870-dageki.org) | だげき | 1408870 | new / draft |
+
+| Open Anki N1 1636 | [妥結](entries/1408/1408530-daketsu.org) | だけつ | 1408530 | new / draft |
+| Open Anki N1 1637 | [駄作](entries/1409/1409040-dasaku.org) | ださく | 1409040 | new / draft |
+| Open Anki N1 1638 | [足し算](entries/1404/1404680-tashizan.org) | たしざん | 1404680 | new / draft |
+| Open Anki N1 1639 | [多数決](entries/1407/1407870-tasuuketsu.org) | たすうけつ | 1407870 | new / draft |
+| Open Anki N1 1640 | [助け](entries/1344/1344390-tasuke.org) | たすけ | 1344390 | new / draft |
+| Open Anki N1 1643 | [立ち去る](entries/1551/1551310-tachisaru.org) | たちさる | 1551310 | new / draft |
+| Open Anki N1 1645 | [抱っこ](entries/1516/1516410-dakko.org) | だっこ | 1516410 | new / draft |
+| Open Anki N1 1646 | [達者](entries/1416/1416240-tassha.org) | たっしゃ | 1416240 | new / draft |
+| Open Anki N1 1647 | [脱出](entries/1416/1416520-dasshutsu.org) | だっしゅつ | 1416520 | new / draft |
+| Open Anki N1 1648 | [脱する](entries/1416/1416420-dassuru.org) | だっする | 1416420 | new / draft |
 
 ### Final audit
 
