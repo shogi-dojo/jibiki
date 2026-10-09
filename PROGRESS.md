@@ -4804,6 +4804,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 96 | 10 |
 | 97 | 10 |
 | 98 | 10 |
+| 99 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5876,6 +5877,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1716 | [茶の湯](entries/1422/1422610-chanoyu.org) | ちゃのゆ | 1422610 | new / draft |
 | Open Anki N1 1717 | [ちやほや](entries/1007/1007620-chiyahoya.org) | ちやほや | 1007620 | new / draft |
 | Open Anki N1 1718 | [チャンネル](entries/1077/1077960-channeru.org) | チャンネル | 1077960 | new / draft |
+
+| Open Anki N1 1719 | [宙返り](entries/1426/1426110-chuugaeri.org) | ちゅうがえり | 1426110 | new / draft |
+| Open Anki N1 1723 | [中枢](entries/1424/1424660-chuusuu.org) | ちゅうすう | 1424660 | new / draft |
+| Open Anki N1 1726 | [中毒](entries/1425/1425160-chuudoku.org) | ちゅうどく | 1425160 | new / draft |
+| Open Anki N1 1727 | [中腹](entries/1425/1425440-chuufuku.org) | ちゅうふく | 1425440 | new / draft |
+| Open Anki N1 1728 | [中立](entries/1425/1425540-chuuritsu.org) | ちゅうりつ | 1425540 | new / draft |
+| Open Anki N1 1729 | [中和](entries/1425/1425670-chuuwa.org) | ちゅうわ | 1425670 | new / draft |
+| Open Anki N1 1731 | [腸](entries/1428/1428960-chou.org) | ちょう | 1428960 | new / draft |
+| Open Anki N1 1732 | [蝶](entries/1429/1429010-chou.org) | ちょう | 1429010 | new / draft |
+| Open Anki N1 1734 | [調印](entries/1429/1429080-chouin.org) | ちょういん | 1429080 | new / draft |
+| Open Anki N1 1735 | [聴覚](entries/1428/1428880-choukaku.org) | ちょうかく | 1428880 | new / draft |
 
 ### Final audit
 
