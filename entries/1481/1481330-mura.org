@@ -1,0 +1,546 @@
+#+TITLE: 斑
+#+JMDICT_ID: 1481330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むら
+#+ROMAJI: mura
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1481330-001
+:PROPERTIES:
+:TEXT: 斑
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1481330-001
+:PROPERTIES:
+:TEXT: むら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+** Reading rd-1481330-002
+:PROPERTIES:
+:TEXT: ムラ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1481330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e82b099067304ebee7615ce69a5c347ccd3a5e77c0fd71035273435dd7c908d6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+*** Miscellaneous and register
+- uk
+** English glosses
+- unevenness (of colour, paint, etc.)
+- irregularity
+- nonuniformity
+- blotchiness
+** Ukrainian glosses
+*** uk-s-1481330-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: нерівномірність; плямистість; неоднорідність (кольору, фарби чи покриття)
+** Learner notes
+*** note-s-1481330-001-001
+:PROPERTIES:
+:END:
+- UK :: Нерівномірність забарвлення, шару лаку чи фарби або нагрівання поверхні, коли колір або текстура лягають плямами (часто 色の斑, 塗り斑がないように).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1481330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 壁のペンキに斑がある。
+- READING :: かべのぺんきにむらがある。
+- UK :: У фарбі на стіні є нерівномірності.
+- EN :: There is unevenness in the paint on the wall.
+- FOCUS :: 斑がある
+*** ex-1481330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ペンキを塗る時は、色の斑ができないように薄く均一に重ね塗りするのが上手に仕上げるコツだ。
+- READING :: ぺんきをぬるときは、いろのむらができないようにうすくきんいつにかさねぬりするのがじょうずにしあげるこつだ。
+- UK :: Під час фарбування фарбою секрет успіху полягає в тому, щоб наносити її тонкими рівномірними шарами, аби не виникало кольорових плям.
+- EN :: When applying paint, the trick to a neat finish is to apply thin, even coats so that color unevenness does not occur.
+- FOCUS :: 色の斑ができないように
+*** ex-1481330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電子レンジで厚みのある冷凍食品を一気に温めると加熱に斑が生じやすいため、途中で裏返す工夫が求められる。
+- READING :: でんしれんじであつみのあるれいとうしょくひんをいっきにあたためるとかねつにむらがしょうじやすいため、とちゅうでうらがえすくふうがもとめられる。
+- UK :: Якщо розігрівати товсті заморожені продукти в мікрохвильовці за один раз, легко виникає нерівномірність прогріву, тому бажано перевертати їх посередині процесу.
+- EN :: If you heat thick frozen food in a microwave all at once, heating unevenness easily occurs, so the ingenuity of flipping it halfway through is required.
+- FOCUS :: 加熱に斑が生じやすいため
+
+* Sense s-1481330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f78a8491132258f2be992862f3e33d0e6a262405911d81c8f997b875176b6ec1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+*** Miscellaneous and register
+- uk
+** English glosses
+- unevenness (of quality, results, behaviour, etc.)
+- inconsistency
+- instability
+** Ukrainian glosses
+*** uk-s-1481330-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мінливість; нестабільність; перепади; нерівномірність (якості, оцінок, настрою)
+** Learner notes
+*** note-s-1481330-002-001
+:PROPERTIES:
+:END:
+- UK :: Коливання в якості роботи, успішності, результатах тренувань або поведінці людини, коли відсутня сталість (часто 成績に斑がある, 気分の斑).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1481330-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その投手は球速こそ抜群だが投球の制球力に斑があり、好不調の波が激しいことが長年の課題となっている。
+- READING :: そのとうしゅはきゅうそくこそばつぐんだがとうきゅうのせいきゅうりょくにむらがあり、こうふちょうのなみがはげしいことがながねんのかだいとなっている。
+- UK :: Хоча швидкість подачі цього пітчера виняткова, його контроль м'яча нестабільний, і різкі коливання форми є його багаторічною проблемою.
+- EN :: Although that pitcher's ball speed is exceptional, there is inconsistency in his pitching control, and severe swings between good and bad condition have been a longstanding challenge.
+- FOCUS :: 制球力に斑があり
+
+* Sense s-1481330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f0d318d9d4b5841ec21855a110699877a1b9d9c9ce28313255020e95ede5ebe7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+*** Miscellaneous and register
+- uk
+** English glosses
+- fickleness
+- capriciousness
+- fitfulness
+** Ukrainian glosses
+*** uk-s-1481330-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вередливість; непостійність; капризність (характеру)
+** Learner notes
+*** note-s-1481330-003-001
+:PROPERTIES:
+:END:
+- UK :: Схильність діяти за раптовим поривом або настроєм, через що такій людині важко довіряти постійні завдання (часто 斑気, 斑のある性格).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1481330-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼は気分に斑があるため、機嫌が良い日には愛想よく接してくれるが悪い日には一言も口を利かない。
+- READING :: かれはきぶんにむらがあるため、きげんがよいひにはあいそよくせっしてくれるがわるいひにはひとこともくちをきかない。
+- UK :: У нього мінливий настрій, тому в добрі дні він поводиться привітно, а в погані — і слова не мовить.
+- EN :: Because he has capriciousness in his mood, he treats others pleasantly on good days, but does not speak a single word on bad days.
+- FOCUS :: 気分に斑があるため
+
+* Sense s-1481330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1f9e21aa06257032320591cef4a72576a09209cb8d11a4a4864cbee8e7420741
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ongelijkmatigheid
+*** en-s-1481330-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oneffenheid
+*** en-s-1481330-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijking
+*** en-s-1481330-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ongelijkheid
+*** en-s-1481330-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onregelmatigheid
+*** en-s-1481330-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: disuniformiteit
+** Ukrainian glosses
+
+* Sense s-1481330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bbe0931bcf8b4e436420682dd3f862dbdb4be304d1f00764db331b9557015f7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vlek
+*** en-s-1481330-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plek
+** Ukrainian glosses
+
+* Sense s-1481330-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6afab6cf9a3d3c32f90216702e723fa7bd001db7e7b8386bf498110eacd2d1c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grilligheid
+*** en-s-1481330-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wispelturigheid
+*** en-s-1481330-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wisselvalligheid
+*** en-s-1481330-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veranderlijkheid
+*** en-s-1481330-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: versatiliteit
+** Ukrainian glosses
+
+* Sense s-1481330-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 77bddc69efa7a79dc2bc702acc62b532e64ef8ad334fd9701b84aa8ba441e054
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Striche und Flecken
+*** en-s-1481330-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unregelmäßigkeiten
+** Ukrainian glosses
+
+* Sense s-1481330-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d802acd517e25bb3cdec90c51a8ecee75844d84d95e02a2027fbc4524c4ccdcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unbeständigkeit
+*** en-s-1481330-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unregelmäßigkeit
+*** en-s-1481330-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schwankungen
+** Ukrainian glosses
+
+* Sense s-1481330-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: fec0234c80717f452aac1252b99e40bd4f46e62c27627bb814c25c9f27bede00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenetlenség
+*** en-s-1481330-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folt
+*** en-s-1481330-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: foltosodás
+** Ukrainian glosses
+
+* Sense s-1481330-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: d53d259994d210c79148efc693c021c4f102c294cf595d0f9531746852e6c477
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) неровность, неравномерность
+*** en-s-1481330-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～のある} неровный, неравномерный
+*** en-s-1481330-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) пятна
+*** en-s-1481330-010-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～のある} а) в пятнах; б) пятнистый; крапчатый
+*** en-s-1481330-010-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) непостоянство; капризы
+*** en-s-1481330-010-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～のある} непостоянный; капризный, неуравновешенный
+** Ukrainian glosses
+
+* Sense s-1481330-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 72c61002386d8d74193fe41d666b1ee7dbf216f4caccec17f364b3148b818fcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: protislovje
+*** en-s-1481330-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neskladnost
+** Ukrainian glosses
+
+* Sense s-1481330-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 584858fc1363dbf9d422af198a414ca2a77ba0c4b3172524bb899fb1e4e061a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1481330-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aldea
+*** en-s-1481330-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pueblo
+*** en-s-1481330-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caserío
+*** en-s-1481330-012-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poblacho
+** Ukrainian glosses
