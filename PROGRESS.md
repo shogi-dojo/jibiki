@@ -4799,6 +4799,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 91 | 10 |
 | 92 | 10 |
 | 93 | 10 |
+| 94 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5816,6 +5817,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1646 | [達者](entries/1416/1416240-tassha.org) | たっしゃ | 1416240 | new / draft |
 | Open Anki N1 1647 | [脱出](entries/1416/1416520-dasshutsu.org) | だっしゅつ | 1416520 | new / draft |
 | Open Anki N1 1648 | [脱する](entries/1416/1416420-dassuru.org) | だっする | 1416420 | new / draft |
+
+| Open Anki N1 1650 | [脱退](entries/1416/1416570-dattai.org) | だったい | 1416570 | new / draft |
+| Open Anki N1 1651 | [だったら](entries/1007/1007400-dattara.org) | だったら | 1007400 | new / draft |
+| Open Anki N1 1653 | [建前](entries/1597/1597110-tatemae.org) | たてまえ | 1597110 | new / draft |
+| Open Anki N1 1654 | [奉る](entries/1584/1584070-tatematsuru.org) | たてまつる | 1584070 | new / draft |
+| Open Anki N1 1656 | [他動詞](entries/1407/1407290-tadoushi.org) | たどうし | 1407290 | new / draft |
+| Open Anki N1 1657 | [辿り着く](entries/1416/1416680-tadoritsuku.org) | たどりつく | 1416680 | new / draft |
+| Open Anki N1 1658 | [辿る](entries/1416/1416690-tadoru.org) | たどる | 1416690 | new / draft |
+| Open Anki N1 1660 | [だぶだぶ](entries/1007/1007430-dabudabu.org) | だぶだぶ | 1007430 | new / draft |
+| Open Anki N1 1662 | [多忙](entries/1408/1408040-tabou.org) | たぼう | 1408040 | new / draft |
+| Open Anki N1 1663 | [給う](entries/1230/1230220-tamau.org) | たまう | 1230220 | new / draft |
 
 ### Final audit
 
