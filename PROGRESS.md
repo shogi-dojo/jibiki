@@ -4816,6 +4816,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 108 | 10 |
 | 109 | 10 |
 | 110 | 10 |
+| 111 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6020,6 +6021,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1896 | [破棄](entries/1471/1471300-haki.org) | はき | 1471300 | new / draft |
 | Open Anki N1 1897 | [剥ぐ](entries/1582/1582990-hagu.org) | はぐ | 1582990 | new / draft |
 | Open Anki N1 1899 | [薄弱](entries/1475/1475590-hakujaku.org) | はくじゃく | 1475590 | new / draft |
+
+| Open Anki N1 1900 | [白状](entries/1475/1475230-hakujou.org) | はくじょう | 1475230 | new / draft |
+| Open Anki N1 1902 | [爆弾](entries/1475/1475870-bakudan.org) | ばくだん | 1475870 | new / draft |
+| Open Anki N1 1903 | [爆破](entries/1475/1475900-bakuha.org) | ばくは | 1475900 | new / draft |
+| Open Anki N1 1904 | [暴露](entries/1601/1601280-bakuro.org) | ばくろ | 1601280 | new / draft |
+| Open Anki N1 1907 | [剥げる](entries/1474/1474390-hageru.org) | はげる | 1474390 | new / draft |
+| Open Anki N1 1908 | [化ける](entries/1186/1186710-bakeru.org) | ばける | 1186710 | new / draft |
+| Open Anki N1 1912 | [パジャマ](entries/1101/1101430-pajama.org) | パジャマ | 1101430 | new / draft |
+| Open Anki N1 1913 | [恥じらう](entries/1421/1421600-hajirau.org) | はじらう | 1421600 | new / draft |
+| Open Anki N1 1915 | [橋渡し](entries/1237/1237440-hashiwatashi.org) | はしわたし | 1237440 | new / draft |
+| Open Anki N1 1917 | [破損](entries/1471/1471380-hason.org) | はそん | 1471380 | new / draft |
 
 ### Final audit
 
