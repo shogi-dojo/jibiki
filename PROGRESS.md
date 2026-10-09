@@ -4834,6 +4834,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 126 | 10 |
 | 127 | 10 |
 | 128 | 10 |
+| 129 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6236,6 +6237,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2180 | [奉仕](entries/1515/1515950-houshi.org) | ほうし | 1515950 | new / draft |
 | Open Anki N1 2181 | [方式](entries/1517/1517030-houshiki.org) | ほうしき | 1517030 | new / draft |
 | Open Anki N1 2182 | [放射](entries/1516/1516600-housha.org) | ほうしゃ | 1516600 | new / draft |
+
+| Open Anki N1 2183 | [放射能](entries/1516/1516690-houshanou.org) | ほうしゃのう | 1516690 | new / draft |
+| Open Anki N1 2185 | [放出](entries/1516/1516710-houshutsu.org) | ほうしゅつ | 1516710 | new / draft |
+| Open Anki N1 2186 | [報じる](entries/1515/1515650-houjiru.org) | ほうじる | 1515650 | new / draft |
+| Open Anki N1 2187 | [報ずる](entries/1515/1515660-houzuru.org) | ほうずる | 1515660 | new / draft |
+| Open Anki N1 2188 | [紡績](entries/1519/1519930-bouseki.org) | ぼうせき | 1519930 | new / draft |
+| Open Anki N1 2189 | [呆然](entries/1515/1515610-bouzen.org) | ぼうぜん | 1515610 | new / draft |
+| Open Anki N1 2190 | [放置](entries/1516/1516780-houchi.org) | ほうち | 1516780 | new / draft |
+| Open Anki N1 2194 | [冒頭](entries/1519/1519860-boutou.org) | ぼうとう | 1519860 | new / draft |
+| Open Anki N1 2195 | [暴動](entries/1519/1519520-boudou.org) | ぼうどう | 1519520 | new / draft |
+| Open Anki N1 2196 | [褒美](entries/1518/1518050-houbi.org) | ほうび | 1518050 | new / draft |
 
 ### Final audit
 
