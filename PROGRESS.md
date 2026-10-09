@@ -4876,6 +4876,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 168 | 10 |
 | 169 | 10 |
 | 170 | 10 |
+| 171 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6740,6 +6741,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2658 | [悲惨](entries/1483/1483290-hisan.org) | ひさん | 1483290 | new / draft |
 | Open Anki N1 2659 | [ビジネス](entries/1104/1104780-bijinesu.org) | ビジネス | 1104780 | new / draft |
 | Open Anki N1 2660 | [比重](entries/1483/1483640-hijuu.org) | ひじゅう | 1483640 | new / draft |
+
+| Open Anki N1 2662 | [秘書](entries/1484/1484060-hisho.org) | ひしょ | 1484060 | new / draft |
+| Open Anki N1 2663 | [微笑](entries/1485/1485990-bishou.org) | びしょう | 1485990 | new / draft |
+| Open Anki N1 2664 | [歪む](entries/2846/2846709-hizumu.org) | ひずむ | 2846709 | new / draft |
+| Open Anki N1 2667 | [只管](entries/1010/1010530-hitasura.org) | ひたすら | 1010530 | new / draft |
+| Open Anki N1 2668 | [左利き](entries/1601/1601860-hidarikiki.org) | ひだりきき | 1601860 | new / draft |
+| Open Anki N1 2669 | [引っかく](entries/1169/1169430-hikkaku.org) | ひっかく | 1169430 | new / draft |
+| Open Anki N1 2670 | [必修](entries/1487/1487510-hisshuu.org) | ひっしゅう | 1487510 | new / draft |
+| Open Anki N1 2671 | [びっしょり](entries/1010/1010760-bisshori.org) | びっしょり | 1010760 | new / draft |
+| Open Anki N1 2672 | [必然](entries/1487/1487570-hitsuzen.org) | ひつぜん | 1487570 | new / draft |
+| Open Anki N1 2673 | [匹敵](entries/1487/1487250-hitteki.org) | ひってき | 1487250 | new / draft |
 
 ### Final audit
 
