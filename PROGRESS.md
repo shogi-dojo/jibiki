@@ -4819,6 +4819,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 111 | 10 |
 | 112 | 10 |
 | 113 | 10 |
+| 114 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6056,6 +6057,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 1941 | [躾](entries/1573/1573410-shitsuke.org) | しつけ | 1573410 | new / draft |
 | Open Anki N1 1942 | [躾ける](entries/1573/1573420-shitsukeru.org) | しつける | 1573420 | new / draft |
 | Open Anki N1 1943 | [実践](entries/1321/1321260-jissen.org) | じっせん | 1321260 | new / draft |
+
+| Open Anki N1 1946 | [失調](entries/1320/1320080-shitchou.org) | しっちょう | 1320080 | new / draft |
+| Open Anki N1 1948 | [実費](entries/1321/1321410-jippi.org) | じっぴ | 1321410 | new / draft |
+| Open Anki N1 1950 | [自転](entries/1318/1318270-jiten.org) | じてん | 1318270 | new / draft |
+| Open Anki N1 1951 | [助動詞](entries/1344/1344750-jodoushi.org) | じょどうし | 1344750 | new / draft |
+| Open Anki N1 1952 | [淑やか](entries/1337/1337340-shitoyaka.org) | しとやか | 1337340 | new / draft |
+| Open Anki N1 1953 | [萎びる](entries/1158/1158680-shinabiru.org) | しなびる | 1158680 | new / draft |
+| Open Anki N1 1954 | [シナリオ](entries/1060/1060830-shinario.org) | シナリオ | 1060830 | new / draft |
+| Open Anki N1 1955 | [しなやか](entries/1566/1566110-shinayaka.org) | しなやか | 1566110 | new / draft |
+| Open Anki N1 1956 | [屎尿](entries/1566/1566370-shinyou.org) | しにょう | 1566370 | new / draft |
+| Open Anki N1 1957 | [地主](entries/1421/1421150-jinushi.org) | じぬし | 1421150 | new / draft |
 
 ### Final audit
 
