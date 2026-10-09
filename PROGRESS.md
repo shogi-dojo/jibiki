@@ -4830,6 +4830,7 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | 122 | 10 |
 | 123 | 10 |
 | 124 | 10 |
+| 125 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6188,6 +6189,17 @@ The selected continuation uses 1200 Open Anki N1 candidates.
 | Open Anki N1 2115 | [武力](entries/1499/1499000-buryoku.org) | ぶりょく | 1499000 | new / draft |
 | Open Anki N1 2117 | [震わせる](entries/1366/1366330-furuwaseru.org) | ふるわせる | 1366330 | new / draft |
 | Open Anki N1 2118 | [無礼](entries/1531/1531060-burei.org) | ぶれい | 1531060 | new / draft |
+
+| Open Anki N1 2119 | [付録](entries/1603/1603100-furoku.org) | ふろく | 1603100 | new / draft |
+| Open Anki N1 2120 | [フロント](entries/1112/1112990-furonto.org) | フロント | 1112990 | new / draft |
+| Open Anki N1 2123 | [分業](entries/1503/1503390-bungyou.org) | ぶんぎょう | 1503390 | new / draft |
+| Open Anki N1 2124 | [文語](entries/1505/1505370-bungo.org) | ぶんご | 1505370 | new / draft |
+| Open Anki N1 2125 | [分散](entries/1503/1503580-bunsan.org) | ぶんさん | 1503580 | new / draft |
+| Open Anki N1 2126 | [分子](entries/1503/1503630-bunshi.org) | ぶんし | 1503630 | new / draft |
+| Open Anki N1 2127 | [紛失](entries/1505/1505050-funshitsu.org) | ふんしつ | 1505050 | new / draft |
+| Open Anki N1 2128 | [噴出](entries/1504/1504600-funshutsu.org) | ふんしゅつ | 1504600 | new / draft |
+| Open Anki N1 2131 | [ふんだん](entries/1011/1011100-fundan.org) | ふんだん | 1011100 | new / draft |
+| Open Anki N1 2132 | [分担](entries/1503/1503950-buntan.org) | ぶんたん | 1503950 | new / draft |
 
 ### Final audit
 
