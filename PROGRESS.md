@@ -4811,6 +4811,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 103 | 10 |
 | 104 | 10 |
 | 105 | 10 |
+| 106 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5960,6 +5961,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1823 | [手掛ける](entries/1327/1327390-tegakeru.org) | てがける | 1327390 | new / draft |
 | Open Anki N1 1824 | [手数](entries/1327/1327970-tesuu.org) | てかず | 1327970 | new / draft |
 | Open Anki N1 1827 | [適宜](entries/1437/1437380-tekigi.org) | てきぎ | 1437380 | new / draft |
+
+| Open Anki N1 1828 | [適性](entries/1437/1437410-tekisei.org) | てきせい | 1437410 | new / draft |
+| Open Anki N1 1830 | [手際](entries/1327/1327690-tegiwa.org) | てぎわ | 1327690 | new / draft |
+| Open Anki N1 1833 | [手錠](entries/1327/1327900-tejou.org) | てじょう | 1327900 | new / draft |
+| Open Anki N1 1835 | [デコレーション](entries/1082/1082810-dekoreeshon.org) | デコレーション | 1082810 | new / draft |
+| Open Anki N1 1836 | [手近](entries/1327/1327490-tejika.org) | てぢか | 1327490 | new / draft |
+| Open Anki N1 1837 | [てっきり](entries/1008/1008290-tekkiri.org) | てっきり | 1008290 | new / draft |
+| Open Anki N1 1838 | [鉄鋼](entries/1437/1437880-tekkou.org) | てっこう | 1437880 | new / draft |
+| Open Anki N1 1839 | [デッサン](entries/1083/1083290-dessan.org) | デッサン | 1083290 | new / draft |
+| Open Anki N1 1842 | [鉄棒](entries/1438/1438030-tetsubou.org) | てつぼう | 1438030 | new / draft |
+| Open Anki N1 1843 | [出直し](entries/1339/1339740-denaoshi.org) | でなおし | 1339740 | new / draft |
 
 ### Final audit
 
