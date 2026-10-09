@@ -4786,6 +4786,7 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | 78 | 10 |
 | 79 | 10 |
 | 80 | 10 |
+| 81 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5660,6 +5661,17 @@ The selected continuation uses 800 Open Anki N1 candidates.
 | Open Anki N1 1450 | [星座](entries/1376/1376360-seiza.org) | せいざ | 1376360 | new / draft |
 | Open Anki N1 1451 | [制裁](entries/1374/1374800-seisai.org) | せいさい | 1374800 | new / draft |
 | Open Anki N1 1454 | [静止](entries/1381/1381870-seishi.org) | せいし | 1381870 | new / draft |
+
+| Open Anki N1 1458 | [清純](entries/1378/1378230-seijun.org) | せいじゅん | 1378230 | new / draft |
+| Open Anki N1 1460 | [正常](entries/1377/1377390-seijou.org) | せいじょう | 1377390 | new / draft |
+| Open Anki N1 1461 | [制する](entries/1374/1374630-seisuru.org) | せいする | 1374630 | new / draft |
+| Open Anki N1 1462 | [整然](entries/1376/1376200-seizen.org) | せいぜん | 1376200 | new / draft |
+| Open Anki N1 1463 | [盛装](entries/1379/1379810-seisou.org) | せいそう | 1379810 | new / draft |
+| Open Anki N1 1464 | [盛大](entries/1379/1379820-seidai.org) | せいだい | 1379820 | new / draft |
+| Open Anki N1 1465 | [清濁](entries/1378/1378350-seidaku.org) | せいだく | 1378350 | new / draft |
+| Open Anki N1 1467 | [静的](entries/1381/1381940-seiteki.org) | せいてき | 1381940 | new / draft |
+| Open Anki N1 1468 | [製鉄](entries/1380/1380720-seitetsu.org) | せいてつ | 1380720 | new / draft |
+| Open Anki N1 1469 | [晴天](entries/1376/1376550-seiten.org) | せいてん | 1376550 | new / draft |
 
 ### Final audit
 
