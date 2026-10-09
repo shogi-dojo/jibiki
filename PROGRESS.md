@@ -4825,6 +4825,7 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | 117 | 10 |
 | 118 | 10 |
 | 119 | 10 |
+| 120 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6128,6 +6129,17 @@ The selected continuation uses 1100 Open Anki N1 candidates.
 | Open Anki N1 2032 | [出生](entries/1580/1580050-shusshou.org) | しゅっしょう | 1580050 | new / draft |
 | Open Anki N1 2034 | [微量](entries/1486/1486200-biryou.org) | びりょう | 1486200 | new / draft |
 | Open Anki N1 2035 | [昼飯](entries/1426/1426410-hirumeshi.org) | ひるめし | 1426410 | new / draft |
+
+| Open Anki N1 2036 | [比例](entries/1483/1483700-hirei.org) | ひれい | 1483700 | new / draft |
+| Open Anki N1 2038 | [敏感](entries/1491/1491070-binkan.org) | びんかん | 1491070 | new / draft |
+| Open Anki N1 2041 | [貧弱](entries/1490/1490850-hinjaku.org) | ひんじゃく | 1490850 | new / draft |
+| Open Anki N1 2043 | [ヒント](entries/1104/1104300-hinto.org) | ヒント | 1104300 | new / draft |
+| Open Anki N1 2044 | [頻繁](entries/1491/1491050-hinpan.org) | ひんぱん | 1491050 | new / draft |
+| Open Anki N1 2045 | [貧乏](entries/1490/1490900-binbou.org) | びんぼう | 1490900 | new / draft |
+| Open Anki N1 2046 | [ファイト](entries/1107/1107700-faito.org) | ファイト | 1107700 | new / draft |
+| Open Anki N1 2047 | [ファイル](entries/1107/1107800-fairu.org) | ファイル | 1107800 | new / draft |
+| Open Anki N1 2049 | [不意](entries/1491/1491210-fui.org) | ふい | 1491210 | new / draft |
+| Open Anki N1 2050 | [フィルタ](entries/1109/1109330-firutaa.org) | フィルタ | 1109330 | new / draft |
 
 ### Final audit
 
