@@ -1,0 +1,605 @@
+#+TITLE: 手がかり
+#+JMDICT_ID: 1598300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てがかり
+#+ROMAJI: tegakari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1598300-001
+:PROPERTIES:
+:TEXT: 手がかり
+:END:
+*** Priorities
+- spec1
+** Written form wf-1598300-002
+:PROPERTIES:
+:TEXT: 手掛かり
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf12
+** Written form wf-1598300-003
+:PROPERTIES:
+:TEXT: 手懸かり
+:END:
+*** Information
+- rK
+** Written form wf-1598300-004
+:PROPERTIES:
+:TEXT: 手掛り
+:END:
+*** Information
+- sK
+** Written form wf-1598300-005
+:PROPERTIES:
+:TEXT: 手懸り
+:END:
+*** Information
+- sK
+** Reading rd-1598300-001
+:PROPERTIES:
+:TEXT: てがかり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf12
+- spec1
+
+* Sense s-1598300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 96c7c12307226ff11e1f704fd659d7fac4286acecf3909468ab57b988f856ec5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- clue
+- lead
+- key
+- trail
+- scent
+- track
+** Ukrainian glosses
+*** uk-s-1598300-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зачіпка; нитка слідства; ключ до розгадки; слід
+** Learner notes
+*** note-s-1598300-001-001
+:PROPERTIES:
+:END:
+- UK :: Підказка, слід або факт, що дає змогу розкрити таємницю, злочин чи вирішити складне наукове питання (часто 事件の手掛かり, 手掛かりを掴む).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1598300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 事件の手掛かりを探す。
+- READING :: じけんのてがかりをさがす。
+- UK :: Шукати зачіпку у справі.
+- EN :: Search for a clue in the case.
+- FOCUS :: 手掛かり
+*** ex-1598300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 警察は現場に残された足跡を手掛かりにして、逃走した犯人の行方を追跡した。
+- READING :: けいさつはげんばにのこされたあしあとをてがかりにして、とうそうしたはんにんのゆくえをついせきした。
+- UK :: Поліція використала залишені на місці події відбитки ніг як зачіпку й вистежила втікача.
+- EN :: Using footprints left at the scene as a clue, the police tracked down the whereabouts of the runaway criminal.
+- FOCUS :: 足跡を手掛かりにして
+*** ex-1598300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 難解な古代文字を解読するため、研究者たちは新しく発掘された石碑の断片を手掛かりとして地道な分析を進めた。
+- READING :: なんかいなこだいもじをかいどくするため、けんきゅうしゃたちはあたらしくはっくつされたせきひのだんぺんをてがかりとしてじみちなぶんせきをすすめた。
+- UK :: Аби розшифрувати незрозумілі стародавні письмена, вчені взяли за основу фрагменти нещодавно розкопаної стели й ретельно їх аналізували.
+- EN :: To decipher the difficult ancient script, researchers steadily advanced their analysis using fragments of the newly excavated stone monument as clues.
+- FOCUS :: 石碑の断片を手掛かりとして
+
+* Sense s-1598300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a0f98630c579cd886f6804ceb67123f8d3103c0848393353bf87775846d75532
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- handhold
+- hold
+** Ukrainian glosses
+*** uk-s-1598300-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: опора для рук; виступ; зачіп (у скелелазінні)
+** Learner notes
+*** note-s-1598300-002-001
+:PROPERTIES:
+:END:
+- UK :: Виступ скелі чи заглибина в стіні, за яку можна вхопитися руками під час підйому (часто 岩の手掛かり, 手掛かりにする).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1598300-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急な岩場を登る登山者は、わずかな岩の割れ目を手掛かりにして慎重に身体を引き上げた。
+- READING :: きゅうないわばをのぼるとざんしゃは、わずかないわのわれめをてがかりにしてしんちょうにからだをひきあげた。
+- UK :: Альпініст, піднімаючись крутою скелею, обережно підтягнув тіло, схопившись за ледь помітну тріщину в камені.
+- EN :: Climbing the steep rock face, the mountaineer carefully pulled his body up using a slight crevice in the rock as a handhold.
+- FOCUS :: 割れ目を手掛かりにして
+
+* Sense s-1598300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9a58daf6582a01f84bc063e1c19f5d04fd849f3fdc4ab8a0bc91dd110b41b037
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: houvast
+** Ukrainian glosses
+
+* Sense s-1598300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0f1cec783b63de676690cef73828f6baf3be5f510a705701ac5271dcee7b752f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanwijzing
+*** en-s-1598300-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spoor
+*** en-s-1598300-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hint
+*** en-s-1598300-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanknopingspunt
+*** en-s-1598300-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sleutel
+*** en-s-1598300-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} ingang
+** Ukrainian glosses
+
+* Sense s-1598300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 37fc4dc603708c7c8d43d65d2a1d04c7b244bd82b5f2cedc021ac87144807421
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: clef
+*** en-s-1598300-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indice
+*** en-s-1598300-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: piste
+*** en-s-1598300-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prise (escalade)
+** Ukrainian glosses
+
+* Sense s-1598300-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d5e1bef568f30e804618f66e93dc5f30f0951a6e815590a55cfed3ab84bddeaf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Griff
+*** en-s-1598300-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stütze
+*** en-s-1598300-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Halt
+** Ukrainian glosses
+
+* Sense s-1598300-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 546426b641102262bfa1cade5d0771a1c7297aa8629c4d8220045d355d7ea46a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anhaltspunkt
+*** en-s-1598300-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hinweis
+*** en-s-1598300-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spur
+*** en-s-1598300-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlüssel
+*** en-s-1598300-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fährte
+** Ukrainian glosses
+
+* Sense s-1598300-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f6fba4aeff941b0fd9fa69cbb0c5a9428090d6ae6a18557c5f4d2943512d54db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyom
+*** en-s-1598300-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsoló
+*** en-s-1598300-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: villanykapcsoló
+*** en-s-1598300-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csapás
+*** en-s-1598300-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ösvény
+*** en-s-1598300-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uszály
+*** en-s-1598300-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölni
+*** en-s-1598300-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lábnyom
+*** en-s-1598300-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyomdok
+*** en-s-1598300-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyomtáv
+*** en-s-1598300-008-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sáv
+*** en-s-1598300-008-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sín
+*** en-s-1598300-008-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vágány
+*** en-s-1598300-008-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogódzó
+** Ukrainian glosses
+
+* Sense s-1598300-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b5e7b7ab835d5d3a4965d237c90f45ecdfc6270f5d9bb761667bbedafe7f15b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (связ.:) 手掛かりもない не за что ухватиться (напр. взбираясь на что-л.)
+*** en-s-1598300-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) путеводная нить; след
+*** en-s-1598300-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3): {～の} на руках, на обязанности (и т. п.)
+** Ukrainian glosses
+
+* Sense s-1598300-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: ced865b18abdb2304d9d4db90022be9feb0435421aad89c0c7e66fcf34519860
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opora
+*** en-s-1598300-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ključ
+*** en-s-1598300-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sled
+*** en-s-1598300-010-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sredstvo
+** Ukrainian glosses
+
+* Sense s-1598300-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: cd2f519c9090850be028e09d6eb47bafd26212abc45974bb709ef72ddb3d7c16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1598300-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: agarradera
+*** en-s-1598300-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asa
+*** en-s-1598300-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mango
+*** en-s-1598300-011-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asidero
+** Ukrainian glosses
