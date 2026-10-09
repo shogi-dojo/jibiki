@@ -4872,6 +4872,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 164 | 10 |
 | 165 | 10 |
 | 166 | 10 |
+| 167 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6692,6 +6693,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2426 | [若しかして](entries/1012/1012520-moshikashite.org) | もしかして | 1012520 | new / draft |
 | Open Anki N1 2427 | [若しくは](entries/1324/1324320-moshikuha.org) | もしくは | 1324320 | new / draft |
 | Open Anki N1 2428 | [齎す](entries/1573/1573190-motarasu.org) | もたらす | 1573190 | new / draft |
+
+| Open Anki N1 2432 | [持て成す](entries/1315/1315740-motenasu.org) | もてなす | 1315740 | new / draft |
+| Open Anki N1 2433 | [持てる](entries/1315/1315730-moteru.org) | もてる | 1315730 | new / draft |
+| Open Anki N1 2437 | [最早](entries/1294/1294170-mohaya.org) | もはや | 1294170 | new / draft |
+| Open Anki N1 2466 | [ややこしい](entries/1012/1012870-yayakoshii.org) | ややこしい | 1012870 | new / draft |
+| Open Anki N1 2467 | [遣り通す](entries/1260/1260440-yaritoosu.org) | やりとおす | 1260440 | new / draft |
+| Open Anki N1 2470 | [ヤング](entries/1136/1136400-yangu.org) | ヤング | 1136400 | new / draft |
+| Open Anki N1 2496 | [ユニーク](entries/1137/1137120-yuniiku.org) | ユニーク | 1137120 | new / draft |
+| Open Anki N1 2548 | [ライス](entries/1137/1137820-raisu.org) | ライス | 1137820 | new / draft |
+| Open Anki N1 2592 | [レギュラー](entries/1144/1144790-regyuraa.org) | レギュラー | 1144790 | new / draft |
+| Open Anki N1 2593 | [レッスン](entries/1145/1145510-ressun.org) | レッスン | 1145510 | new / draft |
 
 ### Final audit
 
