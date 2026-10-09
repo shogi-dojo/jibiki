@@ -4809,6 +4809,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 101 | 10 |
 | 102 | 10 |
 | 103 | 10 |
+| 104 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5936,6 +5937,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1790 | [勤め先](entries/1240/1240910-tsutomesaki.org) | つとめさき | 1240910 | new / draft |
 | Open Anki N1 1791 | [努めて](entries/1445/1445110-tsutomete.org) | つとめて | 1445110 | new / draft |
 | Open Anki N1 1796 | [唾](entries/1408/1408410-tsuba.org) | つば | 1408410 | new / draft |
+
+| Open Anki N1 1800 | [壷](entries/1433/1433870-tsubo.org) | つぼ | 1433870 | new / draft |
+| Open Anki N1 1801 | [蕾](entries/1571/1571800-tsubomi.org) | つぼみ | 1571800 | new / draft |
+| Open Anki N1 1802 | [連なる](entries/1559/1559240-tsuranaru.org) | つらなる | 1559240 | new / draft |
+| Open Anki N1 1803 | [貫く](entries/1215/1215070-tsuranuku.org) | つらぬく | 1215070 | new / draft |
+| Open Anki N1 1804 | [連ねる](entries/1559/1559250-tsuraneru.org) | つらねる | 1559250 | new / draft |
+| Open Anki N1 1805 | [釣り鐘](entries/1434/1434090-tsurigane.org) | つりがね | 1434090 | new / draft |
+| Open Anki N1 1806 | [吊り革](entries/1773/1773770-tsurikawa.org) | つりかわ | 1773770 | new / draft |
+| Open Anki N1 1810 | [提携](entries/1436/1436380-teikei.org) | ていけい | 1436380 | new / draft |
+| Open Anki N1 1811 | [体裁](entries/1409/1409480-teisai.org) | ていさい | 1409480 | new / draft |
+| Open Anki N1 1812 | [提示](entries/1436/1436400-teiji.org) | ていじ | 1436400 | new / draft |
 
 ### Final audit
 
