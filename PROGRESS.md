@@ -4841,6 +4841,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 133 | 10 |
 | 134 | 10 |
 | 135 | 10 |
+| 136 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6320,6 +6321,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2216 | [母校](entries/1515/1515040-bokou.org) | ぼこう | 1515040 | new / draft |
 | Open Anki N1 2217 | [母国](entries/1515/1515060-bokoku.org) | ぼこく | 1515060 | new / draft |
 | Open Anki N1 2218 | [誇る](entries/1267/1267760-hokoru.org) | ほこる | 1267760 | new / draft |
+
+| Open Anki N1 2219 | [綻びる](entries/1419/1419000-hokorobiru.org) | ほころびる | 1419000 | new / draft |
+| Open Anki N1 2221 | [ポジション](entries/1125/1125060-pojishon.org) | ポジション | 1125060 | new / draft |
+| Open Anki N1 2222 | [干し物](entries/1210/1210150-hoshimono.org) | ほしもの | 1210150 | new / draft |
+| Open Anki N1 2223 | [保守](entries/1513/1513750-hoshu.org) | ほしゅ | 1513750 | new / draft |
+| Open Anki N1 2224 | [補充](entries/1514/1514580-hojuu.org) | ほじゅう | 1514580 | new / draft |
+| Open Anki N1 2225 | [補助](entries/1514/1514590-hojo.org) | ほじょ | 1514590 | new / draft |
+| Open Anki N1 2227 | [補足](entries/1514/1514700-hosoku.org) | ほそく | 1514700 | new / draft |
+| Open Anki N1 2228 | [墓地](entries/1584/1584040-bochi.org) | ぼち | 1584040 | new / draft |
+| Open Anki N1 2229 | [発作](entries/1477/1477470-hossa.org) | ほっさ | 1477470 | new / draft |
+| Open Anki N1 2232 | [ポット](entries/1125/1125290-potto.org) | ポット | 1125290 | new / draft |
 
 ### Final audit
 
