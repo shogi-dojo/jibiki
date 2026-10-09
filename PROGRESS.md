@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 8663 |
+| Canonical entry files | 8763 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
 | Canonical N2 entries | 4161 |
 | Canonical N3 entries | 1603 |
-| Canonical N1 entries (Open Anki source assignment) | 1530 |
+| Canonical N1 entries (Open Anki source assignment) | 1630 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 8626 |
+| `new` | 8726 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 8653 |
+| Entry metadata still marked `draft` | 8753 |
 | Core profile | 163 |
-| Learner profile | 8499 |
+| Learner profile | 8599 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -6623,25 +6623,25 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 
 ### Final audit
 
-Completed on 2026-10-09: **1,500 distinct additions in 1,500 individual word
-commits**, recorded in **150 batches of 10**. The branch contains **1,500 new
-entry files versus `origin/main`** (overall authored vocabulary additions **4,600**).
+Completed on 2026-10-09: **1,600 distinct additions in 1,600 individual word
+commits**, recorded in **160 batches of 10**. The branch contains **1,600 new
+entry files versus `origin/main`** (overall authored vocabulary additions **4,700**).
 This continuation preserves every JMdict sense, form, reading, restriction and
-source fingerprint, and supplies **2,573 original Ukrainian glosses and 2,573 usage notes**,
-plus **5,584 examples** (4,500 primary-sense graded examples plus 1,084 secondary-sense
-examples across all 601 multisense entries) with Japanese, kana readings, Ukrainian and English
+source fingerprint, and supplies **2,733 original Ukrainian glosses and 2,733 usage notes**,
+plus **5,944 examples** (4,800 primary-sense graded examples plus 1,144 secondary-sense
+examples across all 641 multisense entries) with Japanese, kana readings, Ukrainian and English
 translations.
 
-All 1,500 entries passed JMdict validation, Org lint and doctor **100/100**,
+All 1,600 entries passed JMdict validation, Org lint and doctor **100/100**,
 with **zero errors and warnings**. The full test suite passed: **154 tests,
-26,654 assertions, zero failures, errors or skips**. Source reconciliation and
+26,954 assertions, zero failures, errors or skips**. Source reconciliation and
 commit-history checks confirm unique IDs, exact manifest matches, one entry
 per addition commit, and Ihor's Git identity. Existing committed entries were
 preserved; the two original untracked files retain their original checksums.
 
-The source selection comprises **1,500 Open Anki N1 words** (rows 55 to 2441).
+The source selection comprises **1,600 Open Anki N1 words** (rows 55 to 2619).
 These are documented study-list assignments, not an official JLPT syllabus.
-The reconciled Open Anki N1 pool retains 1 unused entry. All additions
+The reconciled Open Anki N1 pool retains 49 candidate entries in reserve. All additions
 remain `new` learner entries with draft metadata, awaiting independent
 linguistic review.
 
