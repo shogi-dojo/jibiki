@@ -4859,6 +4859,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 151 | 10 |
 | 152 | 10 |
 | 153 | 10 |
+| 154 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6536,6 +6537,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2490 | [故](entries/1267/1267120-yue.org) | ゆえ | 1267120 | new / draft |
 | Open Anki N1 2492 | [揺さぶる](entries/1545/1545600-yusaburu.org) | ゆさぶる | 1545600 | new / draft |
 | Open Anki N1 2497 | [指差す](entries/1309/1309790-yubisasu.org) | ゆびさす | 1309790 | new / draft |
+
+| Open Anki N1 2498 | [弓](entries/1228/1228490-yumi.org) | ゆみ | 1228490 | new / draft |
+| Open Anki N1 2499 | [揺らぐ](entries/1545/1545630-yuragu.org) | ゆらぐ | 1545630 | new / draft |
+| Open Anki N1 2500 | [緩む](entries/1214/1214430-yurumu.org) | ゆるむ | 1214430 | new / draft |
+| Open Anki N1 2501 | [緩める](entries/1214/1214440-yurumeru.org) | ゆるめる | 1214440 | new / draft |
+| Open Anki N1 2505 | [用件](entries/1546/1546250-youken.org) | ようけん | 1546250 | new / draft |
+| Open Anki N1 2511 | [様相](entries/1545/1545840-yousou.org) | ようそう | 1545840 | new / draft |
+| Open Anki N1 2512 | [用品](entries/1546/1546400-youhin.org) | ようひん | 1546400 | new / draft |
+| Open Anki N1 2513 | [洋風](entries/1546/1546010-youfuu.org) | ようふう | 1546010 | new / draft |
+| Open Anki N1 2514 | [用法](entries/1546/1546410-youhou.org) | ようほう | 1546410 | new / draft |
+| Open Anki N1 2515 | [要望](entries/1546/1546830-youbou.org) | ようぼう | 1546830 | new / draft |
 
 ### Final audit
 
