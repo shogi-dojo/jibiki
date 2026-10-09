@@ -4802,6 +4802,7 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | 94 | 10 |
 | 95 | 10 |
 | 96 | 10 |
+| 97 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5852,6 +5853,17 @@ The selected continuation uses 900 Open Anki N1 candidates.
 | Open Anki N1 1688 | [単独](entries/1417/1417780-tandoku.org) | たんどく | 1417780 | new / draft |
 | Open Anki N1 1689 | [旦那](entries/1418/1418410-danna.org) | だんな | 1418410 | new / draft |
 | Open Anki N1 1690 | [短波](entries/1418/1418810-tanpa.org) | たんぱ | 1418810 | new / draft |
+
+| Open Anki N1 1691 | [蛋白質](entries/1419/1419070-tanpakushitsu.org) | たんぱくしつ | 1419070 | new / draft |
+| Open Anki N1 1692 | [ダンプ](entries/1077/1077290-danpu.org) | ダンプ | 1077290 | new / draft |
+| Open Anki N1 1694 | [弾力](entries/1419/1419530-danryoku.org) | だんりょく | 1419530 | new / draft |
+| Open Anki N1 1695 | [治安](entries/1316/1316840-chian.org) | ちあん | 1316840 | new / draft |
+| Open Anki N1 1696 | [チームワーク](entries/1077/1077370-chiimuwaaku.org) | チームワーク | 1077370 | new / draft |
+| Open Anki N1 1697 | [チェンジ](entries/1077/1077650-chenji.org) | チェンジ | 1077650 | new / draft |
+| Open Anki N1 1698 | [違える](entries/1158/1158890-chigaeru.org) | ちがえる | 1158890 | new / draft |
+| Open Anki N1 1700 | [畜生](entries/1422/1422200-chikushou.org) | ちくしょう | 1422200 | new / draft |
+| Open Anki N1 1702 | [地形](entries/1421/1421030-chikei.org) | ちけい | 1421030 | new / draft |
+| Open Anki N1 1704 | [乳](entries/1464/1464980-chichi.org) | ちち | 1464980 | new / draft |
 
 ### Final audit
 
