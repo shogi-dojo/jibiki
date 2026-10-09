@@ -4808,6 +4808,7 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | 100 | 10 |
 | 101 | 10 |
 | 102 | 10 |
+| 103 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -5924,6 +5925,17 @@ The selected continuation uses 1000 Open Anki N1 candidates.
 | Open Anki N1 1775 | [尽きる](entries/1370/1370070-tsukiru.org) | つきる | 1370070 | new / draft |
 | Open Anki N1 1778 | [作り](entries/1297/1297250-tsukuri.org) | つくり | 1297250 | new / draft |
 | Open Anki N1 1780 | [繕う](entries/1396/1396480-tsukurou.org) | つくろう | 1396480 | new / draft |
+
+| Open Anki N1 1781 | [付け加える](entries/1495/1495790-tsukekuwaeru.org) | つけくわえる | 1495790 | new / draft |
+| Open Anki N1 1784 | [筒](entries/1449/1449590-tsutsu.org) | つつ | 1449590 | new / draft |
+| Open Anki N1 1785 | [突く](entries/1456/1456895-tsutsuku.org) | つつく | 1456895 | new / draft |
+| Open Anki N1 1786 | [突っ突く](entries/1456/1456960-tsuttsuku.org) | つっつく | 1456960 | new / draft |
+| Open Anki N1 1787 | [謹む](entries/1598/1598000-tsutsushimu.org) | つつしむ | 1598000 | new / draft |
+| Open Anki N1 1788 | [突っ張る](entries/1610/1610410-tsupparu.org) | つっぱる | 1610410 | new / draft |
+| Open Anki N1 1789 | [務まる](entries/1240/1240800-tsutomaru.org) | つとまる | 1240800 | new / draft |
+| Open Anki N1 1790 | [勤め先](entries/1240/1240910-tsutomesaki.org) | つとめさき | 1240910 | new / draft |
+| Open Anki N1 1791 | [努めて](entries/1445/1445110-tsutomete.org) | つとめて | 1445110 | new / draft |
+| Open Anki N1 1796 | [唾](entries/1408/1408410-tsuba.org) | つば | 1408410 | new / draft |
 
 ### Final audit
 
