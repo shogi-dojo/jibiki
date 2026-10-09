@@ -4874,6 +4874,7 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | 166 | 10 |
 | 167 | 10 |
 | 168 | 10 |
+| 169 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6716,6 +6717,17 @@ The selected continuation uses 1400 Open Anki N1 candidates.
 | Open Anki N1 2628 | [反撃](entries/1480/1480340-hangeki.org) | はんげき | 1480340 | new / draft |
 | Open Anki N1 2631 | [繁盛](entries/1481/1481710-hanjou.org) | はんじょう | 1481710 | new / draft |
 | Open Anki N1 2634 | [判定](entries/1478/1478660-hantei.org) | はんてい | 1478660 | new / draft |
+
+| Open Anki N1 2635 | [万人](entries/1584/1584500-bannin.org) | ばんにん | 1584500 | new / draft |
+| Open Anki N1 2636 | [晩年](entries/1482/1482230-bannen.org) | ばんねん | 1482230 | new / draft |
+| Open Anki N1 2638 | [万能](entries/1584/1584530-bannou.org) | ばんのう | 1584530 | new / draft |
+| Open Anki N1 2639 | [半端](entries/1479/1479640-hanpa.org) | はんぱ | 1479640 | new / draft |
+| Open Anki N1 2640 | [反発](entries/1480/1480890-hanpatsu.org) | はんぱつ | 1480890 | new / draft |
+| Open Anki N1 2641 | [反乱](entries/1481/1481090-hanran.org) | はんらん | 1481090 | new / draft |
+| Open Anki N1 2642 | [氾濫](entries/1481/1481420-hanran.org) | はんらん | 1481420 | new / draft |
+| Open Anki N1 2643 | [美](entries/1486/1486350-bi.org) | び | 1486350 | new / draft |
+| Open Anki N1 2644 | [延いては](entries/1010/1010470-hiiteha.org) | ひいては | 1010470 | new / draft |
+| Open Anki N1 2645 | [ビールス](entries/2843/2843940-biirusu.org) | ビールス | 2843940 | new / draft |
 
 ### Final audit
 
