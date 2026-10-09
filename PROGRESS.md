@@ -4845,6 +4845,7 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | 137 | 10 |
 | 138 | 10 |
 | 139 | 10 |
+| 140 | 10 |
 
 
 | Source candidate | Word | Reading | JMdict ID | Status |
@@ -6368,6 +6369,17 @@ The selected continuation uses 1300 Open Anki N1 candidates.
 | Open Anki N1 2271 | [真心](entries/1363/1363970-magokoro.org) | まごころ | 1363970 | new / draft |
 | Open Anki N1 2273 | [誠](entries/1580/1580555-makoto.org) | まこと | 1580555 | new / draft |
 | Open Anki N1 2276 | [勝る](entries/1603/1603910-masaru.org) | まさる | 1603910 | new / draft |
+
+| Open Anki N1 2278 | [交える](entries/1271/1271660-majieru.org) | まじえる | 1271660 | new / draft |
+| Open Anki N1 2279 | [真下](entries/1363/1363460-mashita.org) | ました | 1363460 | new / draft |
+| Open Anki N1 2281 | [交わる](entries/1271/1271700-majiwaru.org) | まじわる | 1271700 | new / draft |
+| Open Anki N1 2282 | [麻酔](entries/1603/1603940-masui.org) | ますい | 1603940 | new / draft |
+| Open Anki N1 2284 | [待ち合わせ](entries/1410/1410510-machiawase.org) | まちあわせ | 1410510 | new / draft |
+| Open Anki N1 2285 | [待ち遠しい](entries/1410/1410480-machidooshii.org) | まちどおしい | 1410480 | new / draft |
+| Open Anki N1 2286 | [待ち望む](entries/1410/1410580-machinozomu.org) | まちのぞむ | 1410580 | new / draft |
+| Open Anki N1 2288 | [末期](entries/1604/1604040-makki.org) | まっき | 1604040 | new / draft |
+| Open Anki N1 2289 | [真っ二つ](entries/1363/1363280-mapputatsu.org) | まっぷたつ | 1363280 | new / draft |
+| Open Anki N1 2291 | [纏まり](entries/1440/1440910-matomari.org) | まとまり | 1440910 | new / draft |
 
 ### Final audit
 
