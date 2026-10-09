@@ -1,0 +1,230 @@
+#+TITLE: トランジスタ
+#+JMDICT_ID: 1086180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: トランジスタ
+#+ROMAJI: toranjisuta
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1086180-001
+:PROPERTIES:
+:TEXT: トランジスタ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1086180-002
+:PROPERTIES:
+:TEXT: トランジスター
+:NO_KANJI: false
+:END:
+
+* Sense s-1086180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a30ee7bf3d4d07e290d63deb5087a0688fbc1a532c5638824b9435e7851b1340
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- electr
+** English glosses
+- transistor
+** Ukrainian glosses
+*** uk-s-1086180-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: транзистор; напівпровідниковий прилад; транзисторний приймач
+** Learner notes
+*** note-s-1086180-001-001
+:PROPERTIES:
+:END:
+- UK :: Напівпровідниковий електронний компонент для підсилення, комутації й генерації електричних сигналів (часто トランジスターラジオ, 電界効果トランジスター).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1086180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: トランジスターラジオを聴く。
+- READING :: とらんじすたーらじおをきく。
+- UK :: Слухати транзисторний радіоприймач.
+- EN :: Listen to a transistor radio.
+- FOCUS :: トランジスターラジオを
+*** ex-1086180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 真空管に代わってトランジスターが実用化されたことで、電子機器の小型化と省電力化が一気に加速した。
+- READING :: しんくうかんにかわってとらんじすたーがじつようかされたことで、でんしききのこがたかとしょうでんりょくかがいっきにかそくした。
+- UK :: Завдяки впровадженню транзисторів замість вакуумних ламп стрімко прискорилася мініатюризація та енергоефективність електроніки.
+- EN :: With transistors being put into practical use in place of vacuum tubes, the miniaturization and power-saving of electronic devices accelerated rapidly.
+- FOCUS :: トランジスターが実用化されたことで
+*** ex-1086180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最先端の半導体集積回路には微細なナノメートル単位のトランジスターが数十億個も高密度に配置されている。
+- READING :: さいせんたんのはんどうたいしゅうせきかいろにはびさいななのめーとるたんいのとらんじすたーがすうじゅうおくこもこうみつどにはいちされている。
+- UK :: У передових інтегральних мікросхемах напівпровідників із високою щільністю розташовані мільярди мікроскопічних нанометрових транзисторів.
+- EN :: In cutting-edge semiconductor integrated circuits, billions of microscopic nanometer-scale transistors are arranged at high density.
+- FOCUS :: トランジスターが数十億個も
+
+* Sense s-1086180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 47ccd90846580e3c2935a4a34d0dc38e5e9d0a26239d9aa0029289d037caa808
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transistor
+** Ukrainian glosses
+
+* Sense s-1086180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: db70624fd532733fe2e439aa45dc6e2c911986460cb0aef47557f47f67ee7b0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Transistor
+** Ukrainian glosses
+
+* Sense s-1086180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 72430d851c3e925bac97db1f97fe1b42acfa60a586e45c1a3aedbc8420c38db4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tranzisztor
+*** en-s-1086180-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tranzisztoros rádió
+*** en-s-1086180-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tranzisztoros
+** Ukrainian glosses
+
+* Sense s-1086180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 087268301e1a0098d87795cb4a5cf81e71538564917e1ffdde23f332bf138b7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) transistor) (эл.) транзистор, полупроводниковый триод
+** Ukrainian glosses
+
+* Sense s-1086180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 965d269dd72037b0e6c3634ef3a3c0fd7eb53007d5b232110f3c284e4f563931
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tranzistor
+** Ukrainian glosses
+
+* Sense s-1086180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 780a3501a3aaf344b7baa7f91aa5800ddaeeaf887fc1a9dd9428bb051c31ff53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transistor eléctrico (eng: transistor)
+** Ukrainian glosses
+
+* Sense s-1086180-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: dd34fdfd231a21e0db5bba373f0eeb464054d1bad2a10d36adaef2224210bf46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1086180-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transistor
+** Ukrainian glosses
