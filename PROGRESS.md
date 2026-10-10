@@ -11528,17 +11528,17 @@ untracked files remain outside this work.
 
 The expanded goal adds **500 further N1 study-list entries** after the original
 200-word PR checkpoint `f3ab2428c0d6de7c5975c1ce56152707bfbae72e`.
-**150/500 are committed in 15 batches of ten; 350 remain.**
+**250/500 are committed in 25 batches of ten; 250 remain.**
 Each addition commit contains exactly one entry. The branch currently has
-**350 new entry files** relative to the PR base.
+**450 new entry files** relative to the PR base.
 
-These 150 entries contain **289 Ukrainian gloss blocks**, **289 usage notes**,
-and **450 distinct original Japanese examples** with kana readings and Ukrainian
+These 250 entries contain **425 Ukrainian gloss blocks**, **425 usage notes**,
+and **750 distinct original Japanese examples** with kana readings and Ukrainian
 translations. Every word has three graded examples, including a contextual
-sentence of at least 56 Japanese characters (mean 64.2).
+sentence of at least 56 Japanese characters (mean 64.4).
 Entries remain `learner` / `draft` pending independent linguistic review.
 
-All 150 entries pass validation, Org lint, and doctor (zero errors or warnings,
+All 250 entries pass validation, Org lint, and doctor (zero errors or warnings,
 mean health score 100/100). A canonical metadata audit verifies preservation of
 JMdict forms, readings, senses, restrictions, and glosses. The selected 500 IDs
 are distinct; all 500 lexical source rows match their archived TodayJLPT N1
