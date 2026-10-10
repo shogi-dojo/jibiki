@@ -11495,3 +11495,56 @@ counts are separate from the final validation scope described above.
 | 29 | Wiktionary N1 1834 | [等](entries/1582/1582305-tou.org) | とう | 1582305 | new / draft |
 | 29 | Wiktionary N1 1835 | [棟](entries/1448/1448340-tou.org) | とう | 1448340 | new / draft |
 | 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |
+
+
+## N1 PR #15 — 200 new entries (2026-10-10)
+
+PR #14 was merged with commit `0b2ea952813eed34943c526784e81b4d4ae33e37`.
+Branch `codex/add-200-n1-words` adds **200 distinct N1 study-list entries**
+from that merged `main`, in **20 batches of ten**, with one entry per addition
+commit. A separate correction commit refines a ノイローゼ example.
+
+The entries contain **284 Ukrainian gloss blocks**, **284 usage notes**, and
+**600 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Each selected primary sense has three graded examples,
+including a long contextual sentence (at least 53 Japanese characters; mean 61.4).
+Entries remain `learner` / `draft` pending independent linguistic review.
+
+All 200 entries pass validation, Org lint, and doctor (zero errors or warnings,
+mean health score 100/100). The final audit verifies unique entry IDs, unique
+examples, one-entry addition commits, and preservation of canonical JMdict
+forms, readings, senses, restrictions, and glosses. The repository test suite
+passes with 154 tests and no failures or errors.
+
+The exact source rows, URLs, checksums, entry paths, and addition commits are
+recorded in [`docs/n1-200-2026-10-10.tsv`](docs/n1-200-2026-10-10.tsv).
+Sources are Open Anki N1 and TodayJLPT N1 lexical lists; the levels are
+study-list assignments rather than an official JLPT syllabus. Ukrainian
+content and examples are independently authored. The two pre-existing
+untracked files remain outside this work.
+
+
+## N1 PR #15 — additional 500-word continuation (2026-10-10)
+
+The expanded goal adds **500 further N1 study-list entries** after the original
+200-word PR checkpoint `f3ab2428c0d6de7c5975c1ce56152707bfbae72e`.
+**250/500 are committed in 25 batches of ten; 250 remain.**
+Each addition commit contains exactly one entry. The branch currently has
+**450 new entry files** relative to the PR base.
+
+These 250 entries contain **425 Ukrainian gloss blocks**, **425 usage notes**,
+and **750 distinct original Japanese examples** with kana readings and Ukrainian
+translations. Every word has three graded examples, including a contextual
+sentence of at least 56 Japanese characters (mean 64.4).
+Entries remain `learner` / `draft` pending independent linguistic review.
+
+All 250 entries pass validation, Org lint, and doctor (zero errors or warnings,
+mean health score 100/100). A canonical metadata audit verifies preservation of
+JMdict forms, readings, senses, restrictions, and glosses. The selected 500 IDs
+are distinct; all 500 lexical source rows match their archived TodayJLPT N1
+pages and SHA-256 checksums. Level labels are study-list assignments.
+
+The committed entries, source rows, URLs, checksums, and one-entry addition
+commits are recorded in [docs/n1-next500-2026-10-10.tsv](docs/n1-next500-2026-10-10.tsv).
+The full repository test suite will run again when the 500-word addition is complete.
+The two pre-existing untracked files remain outside this work.

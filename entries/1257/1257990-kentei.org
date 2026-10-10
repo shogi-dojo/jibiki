@@ -1,0 +1,568 @@
+#+TITLE: 検定
+#+JMDICT_ID: 1257990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんてい
+#+ROMAJI: kentei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1257990-001
+:PROPERTIES:
+:TEXT: 検定
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf07
+** Reading rd-1257990-001
+:PROPERTIES:
+:TEXT: けんてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf07
+
+* Sense s-1257990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3887d72c479e4705d2ce68b09f8d6400dd923474f3a219e98116a86a30bbe82e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- official certification
+- official approval
+- inspection
+- verification
+- examination
+** Ukrainian glosses
+*** uk-s-1257990-001-001
+:PROPERTIES:
+:END:
+- text :: офіційна перевірка; сертифікація; затвердження
+** Learner notes
+*** note-s-1257990-001-001
+:PROPERTIES:
+:END:
+- UK :: Про перевірку відповідності вимогам і офіційне визнання результату.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1257990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eb6cd5e9c394b5b705115ec6ff9f29a1f47c8ebc2aba534d8873a4ea7baf5741
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 検定試験
+** English glosses
+- certification examination
+- licensing examination
+- proficiency test
+** Ukrainian glosses
+*** uk-s-1257990-002-001
+:PROPERTIES:
+:END:
+- text :: кваліфікаційний іспит; тест на рівень володіння
+** Learner notes
+*** note-s-1257990-002-001
+:PROPERTIES:
+:END:
+- UK :: У назвах іспитів, зокрема 漢字検定; конкретні вимоги залежать від іспиту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1257990-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 漢字の検定を受けた。
+- READING :: かんじのけんていをうけた。
+- UK :: Я складав іспит зі знання канджі.
+- FOCUS :: 検定
+*** ex-1257990-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 検定の結果を待ちながら次の勉強を始めた。
+- READING :: けんていのけっかをまちながらつぎのべんきょうをはじめた。
+- UK :: Чекаючи результату іспиту, я почав готуватися далі.
+- FOCUS :: 検定
+*** ex-1257990-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 検定のために覚えた漢字が祖父の手紙にも使われていることに気づいた学生は、点数だけでなく、読める文章が増える喜びも感じるようになった。
+- READING :: けんていのためにおぼえたかんじがそふのてがみにもつかわれていることにきづいたがくせいは、てんすうだけでなく、よめるぶんしょうがふえるよろこびもかんじるようになった。
+- UK :: Помітивши, що канджі, вивчені для іспиту, трапляються і в дідусевих листах, студент почав радіти не лише балам, а й тому, що може читати більше текстів.
+- FOCUS :: 検定
+
+* Sense s-1257990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd4aad547f55e4b159d92dd5a5a6d12eeb94096efddb57aa7684824c296d4d41
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 仮説検定
+** English glosses
+- hypothesis testing
+** Ukrainian glosses
+*** uk-s-1257990-003-001
+:PROPERTIES:
+:END:
+- text :: перевірка статистичної гіпотези
+** Learner notes
+*** note-s-1257990-003-001
+:PROPERTIES:
+:END:
+- UK :: Статистичний термін для перевірки припущення на основі даних.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1257990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eb8911b66513ca0d6d5b28773e522ad517ef4da2ba2d44211207f7eff2feac34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: homologatie
+*** en-s-1257990-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sanctie
+*** en-s-1257990-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erkenning
+*** en-s-1257990-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: autorisatie
+*** en-s-1257990-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goedkeuring
+*** en-s-1257990-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certificatie
+*** en-s-1257990-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certificering
+*** en-s-1257990-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.
+*** en-s-1257990-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: m.b.t. onderwijs} aggregatie
+** Ukrainian glosses
+
+* Sense s-1257990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e91594420f91dae5e449bb8f2e694f7b24ea0808b9965bec4963e4984fb55fe0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inspectie
+*** en-s-1257990-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onderzoek
+*** en-s-1257990-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keuring
+*** en-s-1257990-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: test
+*** en-s-1257990-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toets
+*** en-s-1257990-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proef
+*** en-s-1257990-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: toetsing
+*** en-s-1257990-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: controle
+*** en-s-1257990-005-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verificatie
+** Ukrainian glosses
+
+* Sense s-1257990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5debf996e2789128736b6c6f03b24d714ba4588a48f464cef4d8dc25feda52ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: certification officielle
+** Ukrainian glosses
+
+* Sense s-1257990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: bc12672d7c04b395659a0f6ea4200855158731d9504911aade8e8cd87d425693
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amtlich genehmigen
+*** en-s-1257990-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amtlich prüfen
+*** en-s-1257990-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gutheißen
+*** en-s-1257990-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Genehmigung
+*** en-s-1257990-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gutheißung
+*** en-s-1257990-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Untersuchung
+*** en-s-1257990-007-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prüfung
+** Ukrainian glosses
+
+* Sense s-1257990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: e91cc2c212979817bc6c9baaf6d37479d19744038d14cec16431ad8745da7e86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Examen für eine staatliche Lizenz
+*** en-s-1257990-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Staatsexamen
+** Ukrainian glosses
+
+* Sense s-1257990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 9f3414537ceadf02570487c3eab54c7d07db551f085590dd656a35124b1ee3e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hypothesentest
+*** en-s-1257990-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überprüfung einer Hypothese
+** Ukrainian glosses
+
+* Sense s-1257990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f983c3b3ba85ec6212c9440e667736b7e4ac6cdd55c2ad1ff5131cf24ba5322f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megtekintés
+*** en-s-1257990-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tesztelni
+*** en-s-1257990-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vizsgálni
+** Ukrainian glosses
+
+* Sense s-1257990-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 462ca2dfa28f16c61461434267eb75a51447e3121cb22655566667194c0ef295
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) официальное утверждение (одобрение)
+*** en-s-1257990-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} официально утверждать (одобрять), санкционировать
+*** en-s-1257990-011-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) испытание, проверка (в целях утверждения), просмотр
+** Ukrainian glosses
+
+* Sense s-1257990-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 0c2b17160ed7ef0761fe424414e073570dffc6d5191f3d89af4e5a99212c6760
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-012-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uradna potrditev
+*** en-s-1257990-012-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avtorizacija
+** Ukrainian glosses
+
+* Sense s-1257990-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 30b51d20bbcd8f70d45a9a6160d62006ec881d638df7f5978cb3ef61cf326ded
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257990-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prueba
+*** en-s-1257990-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: examen
+** Ukrainian glosses
