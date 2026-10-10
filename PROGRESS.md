@@ -11590,3 +11590,34 @@ The full 200-word selection is recorded in
 All 200 addition commits are recorded. All source identities and archived N1
 page checksums are verified. The goal is complete; the two pre-existing
 untracked files remain untouched.
+
+
+## New Anki N1 selection (2026-10-11)
+
+Baseline: `69b208485b259589355d0b941e4f15d3b9337598`. **100 new entries are committed in 10 batches of ten**,
+with one addition commit per word. The first 100 run from 頻発 through 対戦
+and are recorded in [docs/n1-goal100-2026-10-11.tsv](docs/n1-goal100-2026-10-11.tsv).
+They contain 100 Ukrainian gloss blocks and usage notes, plus 300 distinct
+original Japanese examples with kana readings and Ukrainian translations.
+The contextual examples have at least 56 Japanese characters. Entries remain
+`learner` / `draft` pending independent linguistic review.
+
+Selection uses the N1 section of
+[Egg rolls JLPT10k](https://github.com/5mdld/anki-jlpt-decks), a community
+study list rather than an official JLPT vocabulary specification. Only vocabulary
+identities, readings, and level tags are used from the deck; Ukrainian text and
+examples are authored independently from canonical JMdict senses. Exact source
+rows, GUIDs, tags, and the archived CSV SHA-256 are recorded in the ledger.
+Canonical JMdict forms, readings, senses, restrictions, and glosses are preserved.
+
+All 100 entries pass JMdict validation, Org lint, doctor (100/100, no errors or
+warnings), and the derived metadata audit. The repository suite passes with
+154 tests and zero failures or errors.
+
+The active larger 500-word goal has **100 completed entries and 400 remaining**.
+The full selection is in
+[docs/n1-goal500-2026-10-11.tsv](docs/n1-goal500-2026-10-11.tsv); empty commit
+fields denote pending entries. All 500 source rows and checksums are verified.
+Continue with batch 11, beginning with 退会. Local helper files and canonical
+source data are retained under ignored `tmp/n1-goal500-*`. The two pre-existing
+untracked files remain untouched.
