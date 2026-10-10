@@ -1,0 +1,231 @@
+#+TITLE: 基板
+#+JMDICT_ID: 1219160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きばん
+#+ROMAJI: kiban
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-11
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1219160-001
+:PROPERTIES:
+:TEXT: 基板
+:END:
+*** Priorities
+- news2
+- nf28
+** Written form wf-1219160-002
+:PROPERTIES:
+:TEXT: 基盤
+:END:
+*** Information
+- iK
+** Reading rd-1219160-001
+:PROPERTIES:
+:TEXT: きばん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1219160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6526a07e2f8cf56a5b37692b72eae4639c3a5cc303c54ec6ebb0a8c710a6158c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- electr
+** English glosses
+- (circuit) board
+- substrate
+** Ukrainian glosses
+*** uk-s-1219160-001-001
+:PROPERTIES:
+:END:
+- text :: плата; підкладка електронної схеми
+** Learner notes
+*** note-s-1219160-001-001
+:PROPERTIES:
+:END:
+- UK :: У цій статті — електронна плата, варіант написання 基板; не загальне значення основи.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1219160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 基盤を交換した。
+- READING :: きばんをこうかんした。
+- UK :: Я замінив плату.
+- FOCUS :: 基盤
+*** ex-1219160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い基盤を慎重に外した。
+- READING :: ふるいきばんをしんちょうにはずした。
+- UK :: Я обережно вийняв стару плату.
+- FOCUS :: 基盤
+*** ex-1219160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 故障した機器の基盤を調べる担当者は、電源を切ってから部品の位置を写真に記録し、交換後に接続を間違えないように準備した。
+- READING :: こしょうしたききのきばんをしらべるたんとうしゃは、でんげんをきってからぶひんのいちをしゃしんにきろくし、こうかんごにせつぞくをまちがえないようにじゅんびした。
+- UK :: Фахівець вимкнув живлення несправного приладу й сфотографував компоненти плати, щоб правильно під’єднати їх після заміни.
+- FOCUS :: 基盤
+
+* Sense s-1219160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c8c96e1562bdd19c0a90abe78d29ffde9f927329675d1232dcc7f477489e8c9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1219160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} moederbord
+*** en-s-1219160-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.} lamina basalis
+** Ukrainian glosses
+
+* Sense s-1219160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 75490bd4244cd9147b056f0a0380373ba5a90f07f7cebde9f1a74890ad000df4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1219160-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Platine (für gedruckte Schaltungen)
+** Ukrainian glosses
+
+* Sense s-1219160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6d0f4fca7f77d7c9920d7c4c3417b28d85ebbf25273308d3f0a0046e891e550e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1219160-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wafer
+*** en-s-1219160-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Substrat (für integrierte Schaltungen)
+** Ukrainian glosses
+
+* Sense s-1219160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8585b8be4739e81905c21d9b8cbce554c1eaab986acdafc493534856fb5e81c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1219160-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alap
+*** en-s-1219160-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anyag
+*** en-s-1219160-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integrált áramkör alaplemeze
+*** en-s-1219160-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áramkör hordozólapja
+** Ukrainian glosses
+
+* Sense s-1219160-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 35b5120373d30ccc87cb6ff86b0beefb7a8f1de16f244d2b9ac5891415ff01c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1219160-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: основа, база, фундамент
+*** en-s-1219160-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…を～とする} базироваться, основываться (на чём-л.)
+** Ukrainian glosses
