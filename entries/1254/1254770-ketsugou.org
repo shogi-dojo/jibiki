@@ -1,0 +1,768 @@
+#+TITLE: 結合
+#+JMDICT_ID: 1254770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けつごう
+#+ROMAJI: ketsugou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1254770-001
+:PROPERTIES:
+:TEXT: 結合
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf17
+** Reading rd-1254770-001
+:PROPERTIES:
+:TEXT: けつごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf17
+
+* Sense s-1254770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7f26ed8d491bca5f3d56a3ab3943f00977c89e6db8b2a255c7cce749f6180d7a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- combination
+- union
+- joining
+- linking
+- coupling
+** Ukrainian glosses
+*** uk-s-1254770-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поєднання; об'єднання; зв'язування; зчеплення
+** Learner notes
+*** note-s-1254770-001-001
+:PROPERTIES:
+:END:
+- UK :: Процес з'єднання або інтеграції двох чи більше елементів, систем або деталей в єдине функціональне ціле: 緊密な結合 (тісне об'єднання), 技術の結合.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1254770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの金属部品を強く結合させた。
+- READING :: ふたつのきんぞくぶひんをつよくけつごうさせた。
+- UK :: Дві металеві деталі міцно з'єднали між собою.
+- EN :: The two metal parts were strongly joined together.
+- FOCUS :: 結合
+*** ex-1254770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 伝統の技と最新技術が結合して新しい製品が生まれた。
+- READING :: でんとうのわざとさいしんぎじゅつがけつごうしてあたらしいせいひんがうまれた。
+- UK :: Завдяки поєднанню традиційної майстерності й новітніх технологій народився новий продукт.
+- EN :: Traditional craftsmanship and cutting-edge technology combined to create a new product.
+- FOCUS :: 結合
+*** ex-1254770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 異なる企業文化が有機的に結合することで強力な相乗効果が生まれた。
+- READING :: ことなるきぎょうぶんかがゆうきてきにけつごうすることできょうりょくなそうじょうこうかがうまれた。
+- UK :: Органічне поєднання відмінних корпоративних культур створило потужний синергетичний ефект.
+- EN :: The organic union of different corporate cultures produced a powerful synergistic effect.
+- FOCUS :: 結合
+
+* Sense s-1254770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 83a4964f8964119715ef95f6bb5244d65dfb153b2c4392cf9bc8e8d8824eb476
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Fields
+- chem
+** English glosses
+- bond
+** Ukrainian glosses
+*** uk-s-1254770-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хімічний зв'язок; молекулярне сполучення
+** Learner notes
+*** note-s-1254770-002-001
+:PROPERTIES:
+:END:
+- UK :: Взаємодія між атомами або молекулами, що зумовлює утворення стійкої хімічної сполуки: 共有結合 (ковалентний зв'язок), 水素結合 (водневий зв'язок).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1254770-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 水分子は水素と酸素が共有結合によって結びついている。
+- READING :: みずぶんしはすいそとさんそがきょうゆうけつごうによってむすびついている。
+- UK :: Молекула води утворена зв'язуванням водню й кисню через ковалентний зв'язок.
+- EN :: Water molecules are formed by hydrogen and oxygen linked through covalent bonds.
+- FOCUS :: 結合
+
+* Sense s-1254770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9bb23ff4ca11b71be045f4af815724031c898e7ef36477642da789fb32fd2ba1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- join (in relational algebra)
+** Ukrainian glosses
+*** uk-s-1254770-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: операція з'єднання (в реляційній алгебрі та базах даних: join)
+** Learner notes
+*** note-s-1254770-003-001
+:PROPERTIES:
+:END:
+- UK :: Операція в системах управління базами даних, що об'єднує кортежі з двох або більше таблиць за відповідними значеннями спільних атрибутів (SQL JOIN).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1254770-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: データベースで二つのテーブルをキー列で結合して検索した。
+- READING :: でーたべーすでふたつのてーぶるをきーれつでけつごうしてけんさくした。
+- UK :: У базі даних дві таблиці з'єднали за ключовим стовпцем для виконання пошуку.
+- EN :: In the database, two tables were joined on a key column to perform the query.
+- FOCUS :: 結合
+
+* Sense s-1254770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4fcdb264a88aa9300cec0482f0cdd533983aad2aca9ae61aad4a78924dbc9333
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich verenigen
+*** en-s-1254770-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samengaan
+*** en-s-1254770-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich bij elkaar aansluiten
+*** en-s-1254770-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich aaneensluiten
+** Ukrainian glosses
+
+* Sense s-1254770-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f10e6e362e78999e560f145e01c738084e6f2ff7faa28c2bee7f92aff43063e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combineren
+*** en-s-1254770-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verenigen
+*** en-s-1254770-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbinden
+*** en-s-1254770-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koppelen
+*** en-s-1254770-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneenkoppelen
+*** en-s-1254770-005-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenvoegen
+*** en-s-1254770-005-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneenvoegen
+*** en-s-1254770-005-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneenknopen
+*** en-s-1254770-005-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} verknopen
+*** en-s-1254770-005-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combinatie
+*** en-s-1254770-005-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereniging
+*** en-s-1254770-005-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbinding
+*** en-s-1254770-005-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koppeling
+*** en-s-1254770-005-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneensluiting
+*** en-s-1254770-005-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: samenvoeging
+*** en-s-1254770-005-016
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneenvoeging
+** Ukrainian glosses
+
+* Sense s-1254770-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: afdadb0693451477f5e69c3c15cb03715a7ce9eb871a8dec1d1e4e83285c7176
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: union
+** Ukrainian glosses
+
+* Sense s-1254770-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: e2339f81b878605e4768cb70bc7e3cd52838601090b281c18aaf59dc97986fdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbinden
+*** en-s-1254770-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereinigen
+*** en-s-1254770-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenfügen
+*** en-s-1254770-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenschließen
+*** en-s-1254770-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbindung
+*** en-s-1254770-007-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vereinigung
+*** en-s-1254770-007-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zusammenschluss
+** Ukrainian glosses
+
+* Sense s-1254770-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0130bbb1b70a217b50d9e36e770e808879dc3f559625eb6beeba1caea7cd6f24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bindung
+** Ukrainian glosses
+
+* Sense s-1254770-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 899198d6caf64f83340a374ceca28b6716be39391ac330d41c1cf002651631b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kötés
+*** en-s-1254770-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatolás
+*** en-s-1254770-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatolószerkezet
+*** en-s-1254770-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: együttemlítés
+*** en-s-1254770-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolás
+*** en-s-1254770-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolatba hozás
+*** en-s-1254770-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolókarmantyú
+*** en-s-1254770-009-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolómű
+*** en-s-1254770-009-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolóműhely
+*** en-s-1254770-009-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapcsolószerkezet
+*** en-s-1254770-009-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyélbeillesztés
+*** en-s-1254770-009-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összepárosítás
+*** en-s-1254770-009-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosával való befogás
+*** en-s-1254770-009-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosával való összeállítás
+*** en-s-1254770-009-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosával való összecsatolás
+*** en-s-1254770-009-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosával való összekapcsolás
+*** en-s-1254770-009-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosával való összekötés
+*** en-s-1254770-009-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: párosítás
+*** en-s-1254770-009-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pároztatás
+*** en-s-1254770-009-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ráakasztás
+*** en-s-1254770-009-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tengelykötés
+** Ukrainian glosses
+
+* Sense s-1254770-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: e5acec99a79fc2d7dbaeedec1e2528b23efda83aa31c14852fb1b0ee81dfddd1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) соединение; сборка; сцепление
+*** en-s-1254770-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} соединяться; смыкаться
+*** en-s-1254770-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) объединение, сплочённость, консолидация
+*** en-s-1254770-010-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} объединяться, сливаться
+** Ukrainian glosses
+
+* Sense s-1254770-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 50c3b12388cd0c4776bdc9a7762180459cb6b1bd6098a508e22f3327e2089b19
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kombinacija
+*** en-s-1254770-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sestava
+*** en-s-1254770-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zveza
+*** en-s-1254770-011-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sindikat
+*** en-s-1254770-011-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unija
+** Ukrainian glosses
+
+* Sense s-1254770-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ff6641ee84b88df159b1e93bdaa6d8fe18b541e5834dae378e234402f608ba38
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1254770-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combinación
+*** en-s-1254770-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aleación
+*** en-s-1254770-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fusión
+** Ukrainian glosses

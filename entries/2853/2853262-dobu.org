@@ -1,0 +1,408 @@
+#+TITLE: 溝
+#+JMDICT_ID: 2853262
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どぶ
+#+ROMAJI: dobu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2853262-001
+:PROPERTIES:
+:TEXT: 溝
+:END:
+** Reading rd-2853262-001
+:PROPERTIES:
+:TEXT: どぶ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+** Reading rd-2853262-002
+:PROPERTIES:
+:TEXT: ドブ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-2853262-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 560583e64ecc5891ff715036aed34122f9b8d8c0d30ca71093ea01b84adafa2b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- ditch
+- drain
+- gutter
+- trench
+** Ukrainian glosses
+*** uk-s-2853262-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: стічна канава; стічний рівчак; вуличний водостік; каналізаційний жолоб
+** Learner notes
+*** note-s-2853262-001-001
+:PROPERTIES:
+:END:
+- UK :: Неглибока відкрита канава вздовж дороги або між будинками для стікання брудної води та дощових опадів: 溝に落ちる (упасти в стічну канаву), 溝の掃除 (чищення стічного рівчака).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-2853262-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 道路の脇に深い溝がある。
+- READING :: どうろのわきにふかいどぶがある。
+- UK :: Збоку дороги є глибока стічна канава.
+- EN :: There is a deep ditch beside the road.
+- FOCUS :: 溝
+*** ex-2853262-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ボールが転がって汚れた溝の中に落ちてしまった。
+- READING :: ぼーるがころがってよごれたどぶのなかにおちてしまった。
+- UK :: М'яч покотився й упав у брудну стічну канаву.
+- EN :: The ball rolled and fell into the dirty ditch.
+- FOCUS :: 溝
+*** ex-2853262-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大雨のたびに溝から水が溢れて道路冠水を引き起こすため、町内会で清掃活動を行った。
+- READING :: おおあめのたびにどぶからみずがあふれてどうろかんすいをひきおこすため、ちょうないかいでせいそうかつどうをおこなった。
+- UK :: Оскільки під час кожної сильної зливи вода переливається зі стічної канави й затоплює дорогу, місцева громада провела суботник із прибирання.
+- EN :: Because water overflows from the ditch causing road flooding every time there is heavy rain, the neighborhood association conducted cleaning activities.
+- FOCUS :: 溝
+
+* Sense s-2853262-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 55874f7838f0ec2299709170005a5e3e337153d69238cae61f58515dca50fb22
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ドブ
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- gap (between cutting guides)
+** Ukrainian glosses
+*** uk-s-2853262-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: поле під обрізування; проміжок між мітками різання (у поліграфії)
+** Learner notes
+*** note-s-2853262-002-001
+:PROPERTIES:
+:END:
+- UK :: Поліграфічний термін ドブ: додаткове поле за межами готового формату, яке зрізають під час обрізування. Тло продовжують у це поле, щоб зміщення різу не залишило білу смугу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-2853262-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 断裁のずれで白い縁が出ないよう、ドブまで背景の色を伸ばした。
+- READING :: だんさいのずれでしろいふちがでないよう、どぶまではいけいのいろをのばした。
+- UK :: Колір тла продовжили в поле під обрізування, щоб через зміщення різу не з’явився білий край.
+- EN :: The background color was extended into the bleed area so that a shift in trimming would not leave a white edge.
+- FOCUS :: ドブ
+
+* Sense s-2853262-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 55637e25e3000f4d187cb3fc9c1d4308cd4f7a5397153e0755feda717f65f828
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sloot
+*** en-s-2853262-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: greppel
+*** en-s-2853262-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gracht
+*** en-s-2853262-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: watergang
+** Ukrainian glosses
+
+* Sense s-2853262-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 67544c6d4817291ff3f4d51364f4632209ed91f2cd8b3e67c6d9e6b10488a032
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwateringssloot
+*** en-s-2853262-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wetering
+*** en-s-2853262-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: watering
+*** en-s-2853262-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afvoerkanaal
+*** en-s-2853262-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geul
+*** en-s-2853262-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: watervoor
+*** en-s-2853262-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goot
+*** en-s-2853262-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: riool
+** Ukrainian glosses
+
+* Sense s-2853262-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1a782e5ea91efbeca4d97bb6c646bf688310b0dfc3e28cf9d1bf7e84b6e06434
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abflussgraben
+*** en-s-2853262-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abwassergraben
+*** en-s-2853262-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Graben
+** Ukrainian glosses
+
+* Sense s-2853262-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ecdf3adced18769f368182c14ffc91fd5ce7092a41cb1cb8595d07f3dba1c6be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rinne
+** Ukrainian glosses
+
+* Sense s-2853262-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d8426d99fd8831edcad3f89a0b39049105608e71fc9e983222406703b028bbd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csatorna
+*** en-s-2853262-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folyóka
+*** en-s-2853262-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vájat
+** Ukrainian glosses
+
+* Sense s-2853262-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4703168533381b62b3c2b001335ce82e782edd0236ef085305b07c0c1ad2026a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [водосточная, дренажная] канава
+** Ukrainian glosses
+
+* Sense s-2853262-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 19ea478007ad7fcbd6418695e1029d000e79915f52a35090e20691046248d50f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2853262-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rov (za vodo)
+*** en-s-2853262-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtočni kanal
+*** en-s-2853262-009-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odtok
+*** en-s-2853262-009-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kanalizacija
+** Ukrainian glosses

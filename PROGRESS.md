@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-10-05**.
+Last reconciled with the tracked entry tree: **2026-10-10**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -33,25 +33,25 @@ defective example was replaced in the process: 開く(あく) sense 3 carried
 
 | Metric | Current |
 | --- | ---: |
-| Canonical entry files | 7163 |
+| Canonical entry files | 8863 |
 | Canonical N5 entries | 656 |
 | N5 queue rows covered | 667 / 667 (100.0%) |
 | Canonical N4 entries | 712 |
 | N4 queue rows covered | 724 / 724 (100.0%) |
 | Canonical N2 entries | 4161 |
 | Canonical N3 entries | 1603 |
-| Canonical N1 entries (Open Anki source assignment) | 30 |
+| Canonical N1 entries (Open Anki source assignment) | 1730 |
 | N2 queue rows covered | 1634 / 1635 (99.9%) |
 | N3 queue rows covered | 1675 / 1677 (99.9%) |
 | Extra seed entries | 1 (`日本語`) |
-| `new` | 7126 |
+| `new` | 8826 |
 | `changes-requested` | 0 |
 | `reviewed` | 9 |
 | `confirmed` | 28 |
 | `solid` | 0 |
-| Entry metadata still marked `draft` | 7153 |
+| Entry metadata still marked `draft` | 8853 |
 | Core profile | 163 |
-| Learner profile | 6999 |
+| Learner profile | 8699 |
 | Enriched profile | 1 |
 
 All 667 N5 queue rows and all 724 N4 queue rows are represented. JLPT N3 queue has 1675 rows covered (1671 distinct tracked files, including entries shared with other levels) out of 1677.
@@ -1399,6 +1399,26 @@ remains uncommitted.
 | 8 | 10 |
 | 9 | 10 |
 | 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+| 21 | 10 |
+| 22 | 10 |
+| 23 | 10 |
+| 24 | 10 |
+| 25 | 10 |
+| 26 | 10 |
+| 27 | 10 |
+| 28 | 10 |
+| 29 | 10 |
+| 30 | 10 |
 
 | Source candidate | Word | Reading | JMdict ID | Status |
 | --- | --- | --- | --- | --- |
@@ -4647,6 +4667,7 @@ uses 170 remaining JLPTLord N2 candidates and 30 Open Anki N1 candidates.
 | Open Anki N1 50 | [公然](entries/1274/1274190-kouzen.org) | こうぜん | 1274190 | new / draft |
 | Open Anki N1 54 | [光沢](entries/1273/1273050-koutaku.org) | こうたく | 1273050 | new / draft |
 
+
 ### Final audit
 
 Completed on 2026-10-05: **200 distinct additions in 200 individual word
@@ -4668,6 +4689,2127 @@ These are documented study-list assignments, not an official JLPT syllabus.
 The reconciled N2 pools have no unused candidates left; the reconciled Open
 Anki N1 pool retains 1,501 unused entries. All additions remain `new` learner
 entries with draft metadata, awaiting independent linguistic review.
+
+## 4500-word vocabulary continuation (2026-10-09)
+
+Baseline: `64241246`, with **3100** previously merged words from PR #13.
+Completed **1400/1400** additional distinct words; branch total **1400** (overall corpus additions **4500**).
+Words are committed individually in batches of ten. Every English sense has
+original Ukrainian translations and nuance notes; each primary sense has
+three graded Japanese, kana, Ukrainian, and English examples.
+All completed batches passed JMdict validation, Org lint, and doctor 100/100
+with zero errors or warnings. These remain learner drafts for editorial review.
+The earlier uncommitted 罪 draft is preserved.
+
+Candidates are reconciled against pinned JMdict and existing entry IDs.
+The selected continuation uses 1400 Open Anki N1 candidates.
+
+| Batch | New entries |
+| --- | ---: |
+| 1 | 10 |
+| 2 | 10 |
+| 3 | 10 |
+| 4 | 10 |
+| 5 | 10 |
+| 6 | 10 |
+| 7 | 10 |
+| 8 | 10 |
+| 9 | 10 |
+| 10 | 10 |
+| 11 | 10 |
+| 12 | 10 |
+| 13 | 10 |
+| 14 | 10 |
+| 15 | 10 |
+| 16 | 10 |
+| 17 | 10 |
+| 18 | 10 |
+| 19 | 10 |
+| 20 | 10 |
+| 21 | 10 |
+| 22 | 10 |
+| 23 | 10 |
+| 24 | 10 |
+| 25 | 10 |
+| 26 | 10 |
+| 27 | 10 |
+| 28 | 10 |
+| 29 | 10 |
+| 30 | 10 |
+| 31 | 10 |
+| 32 | 10 |
+| 33 | 10 |
+| 34 | 10 |
+| 35 | 10 |
+| 36 | 10 |
+| 37 | 10 |
+| 38 | 10 |
+| 39 | 10 |
+| 40 | 10 |
+| 41 | 10 |
+| 42 | 10 |
+| 43 | 10 |
+| 44 | 10 |
+| 45 | 10 |
+| 46 | 10 |
+| 47 | 10 |
+| 48 | 10 |
+| 49 | 10 |
+| 50 | 10 |
+| 51 | 10 |
+| 52 | 10 |
+| 53 | 10 |
+| 54 | 10 |
+| 55 | 10 |
+| 56 | 10 |
+| 57 | 10 |
+| 58 | 10 |
+| 59 | 10 |
+| 60 | 10 |
+| 61 | 10 |
+| 62 | 10 |
+| 63 | 10 |
+| 64 | 10 |
+| 65 | 10 |
+| 66 | 10 |
+| 67 | 10 |
+| 68 | 10 |
+| 69 | 10 |
+| 70 | 10 |
+| 71 | 10 |
+| 72 | 10 |
+| 73 | 10 |
+| 74 | 10 |
+| 75 | 10 |
+| 76 | 10 |
+| 77 | 10 |
+| 78 | 10 |
+| 79 | 10 |
+| 80 | 10 |
+| 81 | 10 |
+| 82 | 10 |
+| 83 | 10 |
+| 84 | 10 |
+| 85 | 10 |
+| 86 | 10 |
+| 87 | 10 |
+| 88 | 10 |
+| 89 | 10 |
+| 90 | 10 |
+| 91 | 10 |
+| 92 | 10 |
+| 93 | 10 |
+| 94 | 10 |
+| 95 | 10 |
+| 96 | 10 |
+| 97 | 10 |
+| 98 | 10 |
+| 99 | 10 |
+| 100 | 10 |
+| 101 | 10 |
+| 102 | 10 |
+| 103 | 10 |
+| 104 | 10 |
+| 105 | 10 |
+| 106 | 10 |
+| 107 | 10 |
+| 108 | 10 |
+| 109 | 10 |
+| 110 | 10 |
+| 111 | 10 |
+| 112 | 10 |
+| 113 | 10 |
+| 114 | 10 |
+| 115 | 10 |
+| 116 | 10 |
+| 117 | 10 |
+| 118 | 10 |
+| 119 | 10 |
+| 120 | 10 |
+| 121 | 10 |
+| 122 | 10 |
+| 123 | 10 |
+| 124 | 10 |
+| 125 | 10 |
+| 126 | 10 |
+| 127 | 10 |
+| 128 | 10 |
+| 129 | 10 |
+| 130 | 10 |
+| 131 | 10 |
+| 132 | 10 |
+| 133 | 10 |
+| 134 | 10 |
+| 135 | 10 |
+| 136 | 10 |
+| 137 | 10 |
+| 138 | 10 |
+| 139 | 10 |
+| 140 | 10 |
+| 141 | 10 |
+| 142 | 10 |
+| 143 | 10 |
+| 144 | 10 |
+| 145 | 10 |
+| 146 | 10 |
+| 147 | 10 |
+| 148 | 10 |
+| 149 | 10 |
+| 150 | 10 |
+| 151 | 10 |
+| 152 | 10 |
+| 153 | 10 |
+| 154 | 10 |
+| 155 | 10 |
+| 156 | 10 |
+| 157 | 10 |
+| 158 | 10 |
+| 159 | 10 |
+| 160 | 10 |
+| 161 | 10 |
+| 162 | 10 |
+| 163 | 10 |
+| 164 | 10 |
+| 165 | 10 |
+| 166 | 10 |
+| 167 | 10 |
+| 168 | 10 |
+| 169 | 10 |
+| 170 | 10 |
+| 171 | 10 |
+
+
+| Source candidate | Word | Reading | JMdict ID | Status |
+| --- | --- | --- | --- | --- |
+| Open Anki N1 55 | [公団](entries/1274/1274280-koudan.org) | こうだん | 1274280 | new / draft |
+| Open Anki N1 56 | [好調](entries/1277/1277730-kouchou.org) | こうちょう | 1277730 | new / draft |
+| Open Anki N1 58 | [講読](entries/1282/1282350-koudoku.org) | こうどく | 1282350 | new / draft |
+| Open Anki N1 59 | [購読](entries/1282/1282420-koudoku.org) | こうどく | 1282420 | new / draft |
+| Open Anki N1 61 | [公認](entries/1274/1274450-kounin.org) | こうにん | 1274450 | new / draft |
+| Open Anki N1 63 | [購買](entries/1282/1282470-koubai.org) | こうばい | 1282470 | new / draft |
+| Open Anki N1 65 | [交付](entries/1272/1272520-koufu.org) | こうふ | 1272520 | new / draft |
+| Open Anki N1 66 | [公募](entries/1274/1274680-koubo.org) | こうぼ | 1274680 | new / draft |
+| Open Anki N1 67 | [巧妙](entries/1278/1278340-koumyou.org) | こうみょう | 1278340 | new / draft |
+| Open Anki N1 71 | [公立](entries/1275/1275000-kouritsu.org) | こうりつ | 1275000 | new / draft |
+| Open Anki N1 72 | [護衛](entries/1271/1271510-goei.org) | ごえい | 1271510 | new / draft |
+| Open Anki N1 74 | [小柄](entries/1348/1348770-kogara.org) | こがら | 1348770 | new / draft |
+| Open Anki N1 75 | [小切手](entries/1348/1348410-kogitte.org) | こぎって | 1348410 | new / draft |
+| Open Anki N1 76 | [国産](entries/1286/1286590-kokusan.org) | こくさん | 1286590 | new / draft |
+| Open Anki N1 77 | [国定](entries/1286/1286860-kokutei.org) | こくてい | 1286860 | new / draft |
+| Open Anki N1 78 | [告白](entries/1286/1286060-kokuhaku.org) | こくはく | 1286060 | new / draft |
+| Open Anki N1 79 | [国防](entries/1287/1287030-kokubou.org) | こくぼう | 1287030 | new / draft |
+| Open Anki N1 80 | [国有](entries/1287/1287170-kokuyuu.org) | こくゆう | 1287170 | new / draft |
+| Open Anki N1 83 | [焦げ茶](entries/1350/1350750-kogecha.org) | こげちゃ | 1350750 | new / draft |
+| Open Anki N1 84 | [語源](entries/1271/1271090-gogen.org) | ごげん | 1271090 | new / draft |
+| Open Anki N1 85 | [心地](entries/1360/1360820-kokochi.org) | ここち | 1360820 | new / draft |
+| Open Anki N1 86 | [心得](entries/1360/1360910-kokoroe.org) | こころえ | 1360910 | new / draft |
+| Open Anki N1 87 | [心掛け](entries/1360/1360500-kokorogake.org) | こころがけ | 1360500 | new / draft |
+| Open Anki N1 88 | [心掛ける](entries/1360/1360610-kokorogakeru.org) | こころがける | 1360610 | new / draft |
+| Open Anki N1 93 | [試み](entries/1312/1312270-kokoromi.org) | こころみ | 1312270 | new / draft |
+| Open Anki N1 101 | [梢](entries/1349/1349980-kozue.org) | こずえ | 1349980 | new / draft |
+| Open Anki N1 103 | [戸籍](entries/1267/1267030-koseki.org) | こせき | 1267030 | new / draft |
+| Open Anki N1 104 | [古代](entries/1265/1265760-kodai.org) | こだい | 1265760 | new / draft |
+| Open Anki N1 107 | [誇張](entries/1267/1267820-kochou.org) | こちょう | 1267820 | new / draft |
+| Open Anki N1 109 | [滑稽](entries/1208/1208660-kokkei.org) | こっけい | 1208660 | new / draft |
+| Open Anki N1 110 | [国交](entries/1286/1286380-kokkou.org) | こっこう | 1286380 | new / draft |
+| Open Anki N1 111 | [骨董品](entries/1288/1288710-kottouhin.org) | こっとうひん | 1288710 | new / draft |
+| Open Anki N1 112 | [固定](entries/1266/1266650-kotei.org) | こてい | 1266650 | new / draft |
+| Open Anki N1 113 | [事柄](entries/1314/1314240-kotogara.org) | ことがら | 1314240 | new / draft |
+| Open Anki N1 116 | [言付け](entries/1593/1593320-kotozuke.org) | ことづけ | 1593320 | new / draft |
+| Open Anki N1 117 | [殊に](entries/1328/1328650-kotoni.org) | ことに | 1328650 | new / draft |
+| Open Anki N1 118 | [粉々](entries/1593/1593360-konagona.org) | こなごな | 1593360 | new / draft |
+| Open Anki N1 120 | [碁盤](entries/1270/1270890-goban.org) | ごばん | 1270890 | new / draft |
+| Open Anki N1 121 | [個別](entries/1265/1265000-kobetsu.org) | こべつ | 1265000 | new / draft |
+| Open Anki N1 123 | [細やか](entries/1295/1295550-komayaka.org) | こまやか | 1295550 | new / draft |
+| Open Anki N1 127 | [籠もる](entries/1593/1593430-komoru.org) | こもる | 1593430 | new / draft |
+| Open Anki N1 128 | [固有](entries/1266/1266730-koyuu.org) | こゆう | 1266730 | new / draft |
+| Open Anki N1 129 | [暦](entries/1557/1557950-koyomi.org) | こよみ | 1557950 | new / draft |
+| Open Anki N1 130 | [凝らす](entries/1239/1239010-korasu.org) | こらす | 1239010 | new / draft |
+| Open Anki N1 132 | [孤立](entries/1266/1266860-koritsu.org) | こりつ | 1266860 | new / draft |
+| Open Anki N1 133 | [懲りる](entries/1428/1428190-koriru.org) | こりる | 1428190 | new / draft |
+| Open Anki N1 137 | [混血](entries/1290/1290330-konketsu.org) | こんけつ | 1290330 | new / draft |
+| Open Anki N1 140 | [根底](entries/1290/1290260-kontei.org) | こんてい | 1290260 | new / draft |
+| Open Anki N1 145 | [根本](entries/2848/2848289-konpon.org) | こんぽん | 2848289 | new / draft |
+| Open Anki N1 146 | [財](entries/1296/1296770-zai.org) | ざい | 1296770 | new / draft |
+| Open Anki N1 150 | [細工](entries/1295/1295610-saiku.org) | さいく | 1295610 | new / draft |
+| Open Anki N1 151 | [採掘](entries/1294/1294750-saikutsu.org) | さいくつ | 1294750 | new / draft |
+| Open Anki N1 153 | [採決](entries/1294/1294760-saiketsu.org) | さいけつ | 1294760 | new / draft |
+| Open Anki N1 155 | [再現](entries/1292/1292640-saigen.org) | さいげん | 1292640 | new / draft |
+| Open Anki N1 162 | [最善](entries/1294/1294160-saizen.org) | さいぜん | 1294160 | new / draft |
+| Open Anki N1 163 | [採択](entries/1294/1294830-saitaku.org) | さいたく | 1294830 | new / draft |
+| Open Anki N1 165 | [再発](entries/1293/1293410-saihatsu.org) | さいはつ | 1293410 | new / draft |
+| Open Anki N1 170 | [冴える](entries/1297/1297050-saeru.org) | さえる | 1297050 | new / draft |
+| Open Anki N1 171 | [竿](entries/1214/1214060-sao.org) | さお | 1214060 | new / draft |
+| Open Anki N1 173 | [差額](entries/1291/1291370-sagaku.org) | さがく | 1291370 | new / draft |
+| Open Anki N1 174 | [杯](entries/1472/1472630-sakazuki.org) | さかずき | 1472630 | new / draft |
+| Open Anki N1 175 | [逆立ち](entries/1227/1227250-sakadachi.org) | さかだち | 1227250 | new / draft |
+| Open Anki N1 179 | [錯誤](entries/1298/1298420-sakugo.org) | さくご | 1298420 | new / draft |
+| Open Anki N1 180 | [作戦](entries/1297/1297800-sakusen.org) | さくせん | 1297800 | new / draft |
+| Open Anki N1 181 | [叫び](entries/1235/1235890-sakebi.org) | さけび | 1235890 | new / draft |
+| Open Anki N1 183 | [差し掛かる](entries/1291/1291140-sashikakaru.org) | さしかかる | 1291140 | new / draft |
+| Open Anki N1 184 | [指図](entries/1309/1309850-sashizu.org) | さしず | 1309850 | new / draft |
+| Open Anki N1 185 | [差し出す](entries/1291/1291230-sashidasu.org) | さしだす | 1291230 | new / draft |
+| Open Anki N1 190 | [定まる](entries/1435/1435370-sadamaru.org) | さだまる | 1435370 | new / draft |
+| Open Anki N1 191 | [定める](entries/1435/1435380-sadameru.org) | さだめる | 1435380 | new / draft |
+| Open Anki N1 192 | [座談会](entries/1291/1291920-zadankai.org) | ざだんかい | 1291920 | new / draft |
+| Open Anki N1 193 | [雑](entries/1299/1299240-zatsu.org) | ざつ | 1299240 | new / draft |
+| Open Anki N1 194 | [雑貨](entries/1299/1299290-zakka.org) | ざっか | 1299290 | new / draft |
+| Open Anki N1 197 | [雑談](entries/1299/1299480-zatsudan.org) | ざつだん | 1299480 | new / draft |
+| Open Anki N1 202 | [座標](entries/1638/1638190-zahyou.org) | ざひょう | 1638190 | new / draft |
+| Open Anki N1 211 | [障る](entries/1352/1352050-sawaru.org) | さわる | 1352050 | new / draft |
+| Open Anki N1 212 | [酸](entries/1304/1304260-san.org) | さん | 1304260 | new / draft |
+| Open Anki N1 213 | [山岳](entries/1302/1302780-sangaku.org) | さんがく | 1302780 | new / draft |
+| Open Anki N1 214 | [参議院](entries/1302/1302210-sangiin.org) | さんぎいん | 1302210 | new / draft |
+| Open Anki N1 215 | [産休](entries/1303/1303760-sankyuu.org) | さんきゅう | 1303760 | new / draft |
+| Open Anki N1 217 | [残金](entries/1304/1304570-zankin.org) | ざんきん | 1304570 | new / draft |
+| Open Anki N1 218 | [産後](entries/1303/1303790-sango.org) | さんご | 1303790 | new / draft |
+| Open Anki N1 219 | [残酷](entries/1304/1304600-zankoku.org) | ざんこく | 1304600 | new / draft |
+| Open Anki N1 220 | [産出](entries/1303/1303810-sanshutsu.org) | さんしゅつ | 1303810 | new / draft |
+| Open Anki N1 221 | [参照](entries/1302/1302410-sanshou.org) | さんしょう | 1302410 | new / draft |
+| Open Anki N1 222 | [参上](entries/1302/1302440-sanjou.org) | さんじょう | 1302440 | new / draft |
+| Open Anki N1 225 | [桟橋](entries/1303/1303650-sanbashi.org) | さんばし | 1303650 | new / draft |
+| Open Anki N1 226 | [賛美](entries/1304/1304240-sanbi.org) | さんび | 1304240 | new / draft |
+| Open Anki N1 227 | [山腹](entries/1303/1303150-sanpuku.org) | さんぷく | 1303150 | new / draft |
+| Open Anki N1 228 | [産婦人科](entries/1303/1303850-sanfujinka.org) | さんふじんか | 1303850 | new / draft |
+| Open Anki N1 229 | [産物](entries/1303/1303870-sanbutsu.org) | さんぶつ | 1303870 | new / draft |
+| Open Anki N1 231 | [仕上がり](entries/1305/1305120-shiagari.org) | しあがり | 1305120 | new / draft |
+| Open Anki N1 232 | [仕上](entries/1594/1594040-shiage.org) | しあげ | 1594040 | new / draft |
+| Open Anki N1 238 | [仕入れる](entries/1305/1305310-shiireru.org) | しいれる | 1305310 | new / draft |
+| Open Anki N1 239 | [強いる](entries/1236/1236100-shiiru.org) | しいる | 1236100 | new / draft |
+| Open Anki N1 240 | [潮](entries/1428/1428620-shio.org) | しお | 1428620 | new / draft |
+| Open Anki N1 241 | [歯科](entries/1313/1313110-shika.org) | しか | 1313110 | new / draft |
+| Open Anki N1 242 | [自我](entries/1317/1317460-jiga.org) | じが | 1317460 | new / draft |
+| Open Anki N1 244 | [仕掛](entries/1594/1594100-shikake.org) | しかけ | 1594100 | new / draft |
+| Open Anki N1 245 | [仕掛ける](entries/1304/1304820-shikakeru.org) | しかける | 1304820 | new / draft |
+
+| Open Anki N1 248 | [式場](entries/1319/1319090-shikijou.org) | しきじょう | 1319090 | new / draft |
+| Open Anki N1 252 | [経歴](entries/1251/1251690-keireki.org) | けいれき | 1251690 | new / draft |
+| Open Anki N1 253 | [経路](entries/1251/1251700-keiro.org) | けいろ | 1251700 | new / draft |
+| Open Anki N1 255 | [劇団](entries/1253/1253450-gekidan.org) | げきだん | 1253450 | new / draft |
+| Open Anki N1 256 | [激励](entries/1253/1253760-gekirei.org) | げきれい | 1253760 | new / draft |
+| Open Anki N1 258 | [獣](entries/1335/1335590-kemono.org) | けだもの | 1335590 | new / draft |
+| Open Anki N1 259 | [決](entries/1956/1956210-ketsu.org) | けつ | 1956210 | new / draft |
+| Open Anki N1 261 | [結核](entries/1254/1254710-kekkaku.org) | けっかく | 1254710 | new / draft |
+| Open Anki N1 262 | [決議](entries/1254/1254240-ketsugi.org) | けつぎ | 1254240 | new / draft |
+| Open Anki N1 263 | [結合](entries/1254/1254770-ketsugou.org) | けつごう | 1254770 | new / draft |
+
+| Open Anki N1 265 | [月謝](entries/1255/1255690-gessha.org) | げっしゃ | 1255690 | new / draft |
+| Open Anki N1 266 | [決勝](entries/1254/1254320-kesshou.org) | けっしょう | 1254320 | new / draft |
+| Open Anki N1 268 | [結成](entries/1254/1254900-kessei.org) | けっせい | 1254900 | new / draft |
+| Open Anki N1 269 | [結束](entries/1254/1254930-kessoku.org) | けっそく | 1254930 | new / draft |
+| Open Anki N1 271 | [決断](entries/1254/1254370-ketsudan.org) | けつだん | 1254370 | new / draft |
+| Open Anki N1 272 | [月賦](entries/1255/1255800-geppu.org) | げっぷ | 1255800 | new / draft |
+| Open Anki N1 273 | [欠乏](entries/1254/1254100-ketsubou.org) | けつぼう | 1254100 | new / draft |
+| Open Anki N1 274 | [蹴飛ばす](entries/1333/1333440-ketobasu.org) | けとばす | 1333440 | new / draft |
+| Open Anki N1 276 | [煙たい](entries/1177/1177200-kemutai.org) | けむたい | 1177200 | new / draft |
+| Open Anki N1 277 | [煙る](entries/1177/1177220-kemuru.org) | けむる | 1177220 | new / draft |
+
+| Open Anki N1 279 | [家来](entries/1192/1192530-kerai.org) | けらい | 1192530 | new / draft |
+| Open Anki N1 280 | [下痢](entries/1186/1186540-geri.org) | げり | 1186540 | new / draft |
+| Open Anki N1 281 | [権威](entries/1258/1258090-keni.org) | けんい | 1258090 | new / draft |
+| Open Anki N1 282 | [兼業](entries/1578/1578300-kengyou.org) | けんぎょう | 1578300 | new / draft |
+| Open Anki N1 283 | [原形](entries/1261/1261310-genkei.org) | げんけい | 1261310 | new / draft |
+| Open Anki N1 284 | [原型](entries/1261/1261300-genkei.org) | げんけい | 1261300 | new / draft |
+| Open Anki N1 285 | [権限](entries/1258/1258130-kengen.org) | けんげん | 1258130 | new / draft |
+| Open Anki N1 287 | [健在](entries/1256/1256300-kenzai.org) | けんざい | 1256300 | new / draft |
+| Open Anki N1 288 | [原作](entries/1261/1261450-gensaku.org) | げんさく | 1261450 | new / draft |
+| Open Anki N1 291 | [元首](entries/1260/1260870-genshu.org) | げんしゅ | 1260870 | new / draft |
+
+| Open Anki N1 292 | [原書](entries/1261/1261850-gensho.org) | げんしょ | 1261850 | new / draft |
+| Open Anki N1 293 | [懸賞](entries/1257/1257690-kenshou.org) | けんしょう | 1257690 | new / draft |
+| Open Anki N1 294 | [健全](entries/1256/1256360-kenzen.org) | けんぜん | 1256360 | new / draft |
+| Open Anki N1 295 | [元素](entries/1592/1592840-genso.org) | げんそ | 1592840 | new / draft |
+| Open Anki N1 296 | [同調](entries/1453/1453120-douchou.org) | どうちょう | 1453120 | new / draft |
+| Open Anki N1 298 | [動的](entries/1451/1451440-douteki.org) | どうてき | 1451440 | new / draft |
+| Open Anki N1 299 | [尊い](entries/1598/1598620-toutoi.org) | とうとい | 1598620 | new / draft |
+| Open Anki N1 301 | [同等](entries/1453/1453190-doutou.org) | どうとう | 1453190 | new / draft |
+| Open Anki N1 302 | [堂々](entries/1599/1599260-doudou.org) | どうどう | 1599260 | new / draft |
+| Open Anki N1 303 | [尊ぶ](entries/1598/1598640-toutobu.org) | とうとぶ | 1598640 | new / draft |
+
+| Open Anki N1 306 | [導入](entries/1453/1453790-dounyuu.org) | どうにゅう | 1453790 | new / draft |
+| Open Anki N1 307 | [当人](entries/1449/1449120-tounin.org) | とうにん | 1449120 | new / draft |
+| Open Anki N1 308 | [同封](entries/1453/1453340-doufuu.org) | どうふう | 1453340 | new / draft |
+| Open Anki N1 309 | [逃亡](entries/1450/1450470-toubou.org) | とうぼう | 1450470 | new / draft |
+| Open Anki N1 310 | [冬眠](entries/1446/1446150-toumin.org) | とうみん | 1446150 | new / draft |
+| Open Anki N1 313 | [動力](entries/1451/1451660-douryoku.org) | どうりょく | 1451660 | new / draft |
+| Open Anki N1 315 | [討論](entries/1449/1449980-touron.org) | とうろん | 1449980 | new / draft |
+| Open Anki N1 316 | [遠ざかる](entries/1177/1177830-toozakaru.org) | とおざかる | 1177830 | new / draft |
+| Open Anki N1 317 | [遠回り](entries/1177/1177930-toomawari.org) | とおまわり | 1177930 | new / draft |
+| Open Anki N1 325 | [独裁](entries/1455/1455800-dokusai.org) | どくさい | 1455800 | new / draft |
+
+| Open Anki N1 326 | [特産](entries/1454/1454920-tokusan.org) | とくさん | 1454920 | new / draft |
+| Open Anki N1 327 | [独自](entries/1455/1455810-dokuji.org) | どくじ | 1455810 | new / draft |
+| Open Anki N1 328 | [特集](entries/1455/1455060-tokushuu.org) | とくしゅう | 1455060 | new / draft |
+| Open Anki N1 329 | [独占](entries/1455/1455870-dokusen.org) | どくせん | 1455870 | new / draft |
+| Open Anki N1 330 | [独創](entries/1455/1455920-dokusou.org) | どくそう | 1455920 | new / draft |
+| Open Anki N1 331 | [得点](entries/1454/1454590-tokuten.org) | とくてん | 1454590 | new / draft |
+| Open Anki N1 332 | [特派](entries/1455/1455230-tokuha.org) | とくは | 1455230 | new / draft |
+| Open Anki N1 333 | [特有](entries/1455/1455370-tokuyuu.org) | とくゆう | 1455370 | new / draft |
+| Open Anki N1 337 | [年頃](entries/1468/1468660-toshigoro.org) | としごろ | 1468660 | new / draft |
+| Open Anki N1 338 | [戸締り](entries/1267/1267060-tojimari.org) | とじまり | 1267060 | new / draft |
+
+| Open Anki N1 339 | [途上](entries/1444/1444870-tojou.org) | とじょう | 1444870 | new / draft |
+| Open Anki N1 341 | [途絶える](entries/1444/1444900-todaeru.org) | とだえる | 1444900 | new / draft |
+| Open Anki N1 343 | [特権](entries/1454/1454870-tokken.org) | とっけん | 1454870 | new / draft |
+| Open Anki N1 345 | [突如](entries/1457/1457090-totsujo.org) | とつじょ | 1457090 | new / draft |
+| Open Anki N1 347 | [突破](entries/1457/1457100-toppa.org) | とっぱ | 1457100 | new / draft |
+| Open Anki N1 348 | [土手](entries/1445/1445370-dote.org) | どて | 1445370 | new / draft |
+| Open Anki N1 349 | [届](entries/1598/1598810-todoke.org) | とどけ | 1598810 | new / draft |
+| Open Anki N1 354 | [殿様](entries/1442/1442650-tonosama.org) | とのさま | 1442650 | new / draft |
+| Open Anki N1 355 | [土俵](entries/1445/1445550-dohyou.org) | どひょう | 1445550 | new / draft |
+| Open Anki N1 356 | [扉](entries/1483/1483380-tobira.org) | とびら | 1483380 | new / draft |
+
+| Open Anki N1 357 | [溝](entries/2853/2853262-dobu.org) | どぶ | 2853262 | new / draft |
+| Open Anki N1 358 | [徒歩](entries/1444/1444510-toho.org) | とほ | 1444510 | new / draft |
+| Open Anki N1 359 | [土木](entries/1445/1445570-doboku.org) | どぼく | 1445570 | new / draft |
+| Open Anki N1 362 | [富](entries/1496/1496730-tomi.org) | とみ | 1496730 | new / draft |
+| Open Anki N1 363 | [富む](entries/1496/1496740-tomu.org) | とむ | 1496740 | new / draft |
+| Open Anki N1 364 | [共稼ぎ](entries/1234/1234340-tomokasegi.org) | ともかせぎ | 1234340 | new / draft |
+| Open Anki N1 366 | [共働き](entries/1234/1234760-tomobataraki.org) | ともばたらき | 1234760 | new / draft |
+| Open Anki N1 374 | [取扱](entries/1598/1598990-toriatsukai.org) | とりあつかい | 1598990 | new / draft |
+| Open Anki N1 377 | [取り替え](entries/1599/1599020-torikae.org) | とりかえ | 1599020 | new / draft |
+| Open Anki N1 381 | [取り調べる](entries/1326/1326840-torishiraberu.org) | とりしらべる | 1326840 | new / draft |
+
+| Open Anki N1 382 | [取り立てる](entries/1326/1326960-toritateru.org) | とりたてる | 1326960 | new / draft |
+| Open Anki N1 383 | [取り次ぐ](entries/1326/1326760-toritsugu.org) | とりつぐ | 1326760 | new / draft |
+| Open Anki N1 384 | [取り付ける](entries/1326/1326910-toritsukeru.org) | とりつける | 1326910 | new / draft |
+| Open Anki N1 387 | [取り巻く](entries/1326/1326610-torimaku.org) | とりまく | 1326610 | new / draft |
+| Open Anki N1 388 | [取り混ぜる](entries/1326/1326730-torimazeru.org) | とりまぜる | 1326730 | new / draft |
+| Open Anki N1 394 | [鈍感](entries/1457/1457600-donkan.org) | どんかん | 1457600 | new / draft |
+| Open Anki N1 396 | [度忘れ](entries/1445/1445240-dowasure.org) | どわすれ | 1445240 | new / draft |
+| Open Anki N1 397 | [問屋](entries/1584/1584790-tonya.org) | とんや | 1584790 | new / draft |
+| Open Anki N1 399 | [乃至](entries/1469/1469810-naishi.org) | ないし | 1469810 | new / draft |
+| Open Anki N1 400 | [内緒](entries/1458/1458510-naisho.org) | ないしょ | 1458510 | new / draft |
+
+| Open Anki N1 401 | [内心](entries/1458/1458550-naishin.org) | ないしん | 1458550 | new / draft |
+| Open Anki N1 402 | [内蔵](entries/1458/1458750-naizou.org) | ないぞう | 1458750 | new / draft |
+| Open Anki N1 404 | [内部](entries/1459/1459030-naibu.org) | ないぶ | 1459030 | new / draft |
+| Open Anki N1 405 | [内乱](entries/1459/1459460-nairan.org) | ないらん | 1459460 | new / draft |
+| Open Anki N1 407 | [苗](entries/1490/1490470-nae.org) | なえ | 1490470 | new / draft |
+| Open Anki N1 410 | [長々](entries/1599/1599440-naganaga.org) | ながなが | 1599440 | new / draft |
+| Open Anki N1 411 | [中程](entries/1424/1424990-nakahodo.org) | なかほど | 1424990 | new / draft |
+| Open Anki N1 412 | [渚](entries/1343/1343540-nagisa.org) | なぎさ | 1343540 | new / draft |
+| Open Anki N1 414 | [投げ出す](entries/1447/1447040-nagedasu.org) | なげだす | 1447040 | new / draft |
+| Open Anki N1 415 | [仲人](entries/1425/1425960-nakoudo.org) | なこうど | 1425960 | new / draft |
+
+| Open Anki N1 417 | [名残](entries/1531/1531530-nagori.org) | なごり | 1531530 | new / draft |
+| Open Anki N1 418 | [情け](entries/1356/1356220-nasake.org) | なさけ | 1356220 | new / draft |
+| Open Anki N1 420 | [情深い](entries/1599/1599490-nasakebukai.org) | なさけぶかい | 1599490 | new / draft |
+| Open Anki N1 422 | [名高い](entries/1531/1531490-nadakai.org) | なだかい | 1531490 | new / draft |
+| Open Anki N1 423 | [雪崩](entries/1386/1386690-nadare.org) | なだれ | 1386690 | new / draft |
+| Open Anki N1 425 | [名付ける](entries/1531/1531790-nazukeru.org) | なづける | 1531790 | new / draft |
+| Open Anki N1 430 | [名札](entries/1531/1531510-nafuda.org) | なふだ | 1531510 | new / draft |
+| Open Anki N1 432 | [生温い](entries/1378/1378810-namanurui.org) | なまぬるい | 1378810 | new / draft |
+| Open Anki N1 433 | [生身](entries/1379/1379160-namami.org) | なまみ | 1379160 | new / draft |
+| Open Anki N1 436 | [嘗める](entries/1571/1571320-nameru.org) | なめる | 1571320 | new / draft |
+
+| Open Anki N1 437 | [悩ましい](entries/1469/1469830-nayamashii.org) | なやましい | 1469830 | new / draft |
+| Open Anki N1 438 | [悩ます](entries/1469/1469840-nayamasu.org) | なやます | 1469840 | new / draft |
+| Open Anki N1 439 | [悩み](entries/1469/1469850-nayami.org) | なやみ | 1469850 | new / draft |
+| Open Anki N1 440 | [並びに](entries/1508/1508350-narabini.org) | ならびに | 1508350 | new / draft |
+| Open Anki N1 441 | [成り立つ](entries/1375/1375600-naritatsu.org) | なりたつ | 1375600 | new / draft |
+| Open Anki N1 443 | [慣れ](entries/1212/1212660-nare.org) | なれ | 1212660 | new / draft |
+| Open Anki N1 444 | [馴々しい](entries/1459/1459780-narenareshii.org) | なれなれしい | 1459780 | new / draft |
+| Open Anki N1 450 | [荷](entries/1195/1195250-ni.org) | に | 1195250 | new / draft |
+| Open Anki N1 451 | [似通う](entries/1314/1314700-nikayou.org) | にかよう | 1314700 | new / draft |
+| Open Anki N1 453 | [賑わう](entries/1463/1463500-nigiwau.org) | にぎわう | 1463500 | new / draft |
+
+| Open Anki N1 455 | [肉親](entries/1463/1463640-nikushin.org) | にくしん | 1463640 | new / draft |
+| Open Anki N1 456 | [肉体](entries/1463/1463650-nikutai.org) | にくたい | 1463650 | new / draft |
+| Open Anki N1 457 | [逃げ出す](entries/1450/1450390-nigedasu.org) | にげだす | 1450390 | new / draft |
+| Open Anki N1 458 | [西日](entries/1381/1381010-nishibi.org) | にしび | 1381010 | new / draft |
+| Open Anki N1 460 | [にせ物](entries/1577/1577800-nisemono.org) | にせもの | 1577800 | new / draft |
+| Open Anki N1 461 | [日夜](entries/1464/1464870-nichiya.org) | にちや | 1464870 | new / draft |
+| Open Anki N1 462 | [荷造り](entries/1195/1195270-nizukuri.org) | にづくり | 1195270 | new / draft |
+| Open Anki N1 464 | [鈍る](entries/1582/1582440-niburu.org) | にぶる | 1582440 | new / draft |
+| Open Anki N1 465 | [にも関わらず](entries/1612/1612900-nimokakawarazu.org) | にもかかわらず | 1612900 | new / draft |
+| Open Anki N1 468 | [入手](entries/1466/1466290-nyuushu.org) | にゅうしゅ | 1466290 | new / draft |
+
+| Open Anki N1 469 | [入賞](entries/1466/1466330-nyuushou.org) | にゅうしょう | 1466330 | new / draft |
+| Open Anki N1 470 | [入浴](entries/1466/1466820-nyuuyoku.org) | にゅうよく | 1466820 | new / draft |
+| Open Anki N1 471 | [尿](entries/1467/1467040-nyou.org) | にょう | 1467040 | new / draft |
+| Open Anki N1 476 | [抜かす](entries/1478/1478120-nukasu.org) | ぬかす | 1478120 | new / draft |
+| Open Anki N1 477 | [抜け出す](entries/1478/1478220-nukedasu.org) | ぬけだす | 1478220 | new / draft |
+| Open Anki N1 478 | [主](entries/1324/1324960-nushi.org) | ぬし | 1324960 | new / draft |
+| Open Anki N1 479 | [沼](entries/1350/1350010-numa.org) | ぬま | 1350010 | new / draft |
+| Open Anki N1 481 | [値打ち](entries/1420/1420340-neuchi.org) | ねうち | 1420340 | new / draft |
+| Open Anki N1 483 | [寝かせる](entries/1359/1359970-nekaseru.org) | ねかせる | 1359970 | new / draft |
+| Open Anki N1 485 | [捩れる](entries/1600/1600150-nejireru.org) | ねじれる | 1600150 | new / draft |
+
+| Open Anki N1 489 | [熱湯](entries/1467/1467960-nettou.org) | ねっとう | 1467960 | new / draft |
+| Open Anki N1 490 | [熱量](entries/1468/1468010-netsuryou.org) | ねつりょう | 1468010 | new / draft |
+| Open Anki N1 491 | [粘り](entries/1469/1469670-nebari.org) | ねばり | 1469670 | new / draft |
+| Open Anki N1 492 | [粘る](entries/1469/1469700-nebaru.org) | ねばる | 1469700 | new / draft |
+| Open Anki N1 494 | [根回し](entries/1290/1290090-nemawashi.org) | ねまわし | 1290090 | new / draft |
+| Open Anki N1 495 | [眠たい](entries/1529/1529360-nemutai.org) | ねむたい | 1529360 | new / draft |
+| Open Anki N1 497 | [念](entries/1469/1469320-nen.org) | ねん | 1469320 | new / draft |
+| Open Anki N1 498 | [年賀](entries/1468/1468240-nenga.org) | ねんが | 1468240 | new / draft |
+| Open Anki N1 499 | [念願](entries/1469/1469390-nengan.org) | ねんがん | 1469390 | new / draft |
+| Open Anki N1 500 | [年号](entries/1468/1468650-nengou.org) | ねんごう | 1468650 | new / draft |
+
+| Open Anki N1 501 | [燃焼](entries/1469/1469640-nenshou.org) | ねんしょう | 1469640 | new / draft |
+| Open Anki N1 502 | [年長](entries/1469/1469030-nenchou.org) | ねんちょう | 1469030 | new / draft |
+| Open Anki N1 504 | [年輪](entries/1469/1469260-nenrin.org) | ねんりん | 1469260 | new / draft |
+| Open Anki N1 506 | [農耕](entries/1470/1470680-noukou.org) | のうこう | 1470680 | new / draft |
+| Open Anki N1 507 | [農場](entries/1470/1470720-noujou.org) | のうじょう | 1470720 | new / draft |
+| Open Anki N1 508 | [農地](entries/1470/1470740-nouchi.org) | のうち | 1470740 | new / draft |
+| Open Anki N1 512 | [軒並](entries/1260/1260380-nokinami.org) | のきなみ | 1260380 | new / draft |
+| Open Anki N1 517 | [延べ](entries/1176/1176380-nobe.org) | のべ | 1176380 | new / draft |
+| Open Anki N1 518 | [飲み込む](entries/1600/1600400-nomikomu.org) | のみこむ | 1600400 | new / draft |
+| Open Anki N1 520 | [刃](entries/1369/1369820-ha.org) | は | 1369820 | new / draft |
+
+| Open Anki N1 526 | [配給](entries/1473/1473030-haikyuu.org) | はいきゅう | 1473030 | new / draft |
+| Open Anki N1 527 | [ばい菌](entries/1575/1575400-baikin.org) | ばいきん | 1575400 | new / draft |
+| Open Anki N1 528 | [配偶者](entries/1473/1473060-haiguusha.org) | はいぐうしゃ | 1473060 | new / draft |
+| Open Anki N1 529 | [拝啓](entries/1472/1472260-haikei.org) | はいけい | 1472260 | new / draft |
+| Open Anki N1 531 | [背後](entries/1472/1472730-haigo.org) | はいご | 1472730 | new / draft |
+| Open Anki N1 533 | [拝借](entries/1472/1472280-haishaku.org) | はいしゃく | 1472280 | new / draft |
+| Open Anki N1 537 | [敗戦](entries/1472/1472560-haisen.org) | はいせん | 1472560 | new / draft |
+| Open Anki N1 538 | [配置](entries/1473/1473150-haichi.org) | はいち | 1473150 | new / draft |
+| Open Anki N1 540 | [配分](entries/1473/1473200-haibun.org) | はいぶん | 1473200 | new / draft |
+| Open Anki N1 541 | [敗北](entries/1472/1472610-haiboku.org) | はいぼく | 1472610 | new / draft |
+
+| Open Anki N1 542 | [倍率](entries/1473/1473340-bairitsu.org) | ばいりつ | 1473340 | new / draft |
+| Open Anki N1 544 | [配列](entries/1473/1473220-hairetsu.org) | はいれつ | 1473220 | new / draft |
+| Open Anki N1 549 | [一同](entries/1165/1165340-ichidou.org) | いちどう | 1165340 | new / draft |
+| Open Anki N1 550 | [一部分](entries/1166/1166200-ichibubun.org) | いちぶぶん | 1166200 | new / draft |
+| Open Anki N1 551 | [一別](entries/1166/1166400-ichibetsu.org) | いちべつ | 1166400 | new / draft |
+| Open Anki N1 552 | [一面](entries/1166/1166870-ichimen.org) | いちめん | 1166870 | new / draft |
+| Open Anki N1 553 | [一目](entries/2810/2810460-ichimoku.org) | いちもく | 2810460 | new / draft |
+| Open Anki N1 554 | [一様](entries/1167/1167130-ichiyou.org) | いちよう | 1167130 | new / draft |
+| Open Anki N1 555 | [一律](entries/1167/1167250-ichiritsu.org) | いちりつ | 1167250 | new / draft |
+| Open Anki N1 556 | [一連](entries/1167/1167450-ichiren.org) | いちれん | 1167450 | new / draft |
+
+| Open Anki N1 557 | [一括](entries/1161/1161470-ikkatsu.org) | いっかつ | 1161470 | new / draft |
+| Open Anki N1 558 | [一気](entries/1161/1161720-ikki.org) | いっき | 1161720 | new / draft |
+| Open Anki N1 560 | [一見](entries/1162/1162170-ikken.org) | いっけん | 1162170 | new / draft |
+| Open Anki N1 562 | [一心](entries/1163/1163580-isshin.org) | いっしん | 1163580 | new / draft |
+| Open Anki N1 566 | [営む](entries/1173/1173420-itonamu.org) | いとなむ | 1173420 | new / draft |
+| Open Anki N1 568 | [稲光](entries/1167/1167850-inabikari.org) | いなびかり | 1167850 | new / draft |
+| Open Anki N1 574 | [嫌々](entries/1587/1587620-iyaiya.org) | いやいや | 1587620 | new / draft |
+| Open Anki N1 575 | [卑しい](entries/1482/1482660-iyashii.org) | いやしい | 1482660 | new / draft |
+| Open Anki N1 579 | [威力](entries/1587/1587770-iryoku.org) | いりょく | 1587770 | new / draft |
+| Open Anki N1 581 | [異論](entries/1158/1158150-iron.org) | いろん | 1158150 | new / draft |
+
+| Open Anki N1 582 | [印鑑](entries/1168/1168120-inkan.org) | いんかん | 1168120 | new / draft |
+| Open Anki N1 584 | [隠居](entries/1170/1170690-inkyo.org) | いんきょ | 1170690 | new / draft |
+| Open Anki N1 591 | [受かる](entries/1329/1329580-ukaru.org) | うかる | 1329580 | new / draft |
+| Open Anki N1 592 | [受け入れ](entries/1329/1329660-ukeire.org) | うけいれ | 1329660 | new / draft |
+| Open Anki N1 595 | [受け付ける](entries/1329/1329690-uketsukeru.org) | うけつける | 1329690 | new / draft |
+| Open Anki N1 597 | [受身](entries/1329/1329860-ukemi.org) | うけみ | 1329860 | new / draft |
+| Open Anki N1 598 | [受持ち](entries/1588/1588070-ukemochi.org) | うけもち | 1588070 | new / draft |
+| Open Anki N1 599 | [動き](entries/1451/1451180-ugoki.org) | うごき | 1451180 | new / draft |
+| Open Anki N1 601 | [嘘つき](entries/1172/1172460-usotsuki.org) | うそつき | 1172460 | new / draft |
+| Open Anki N1 602 | [うたた寝](entries/1663/1663100-utatane.org) | うたたね | 1663100 | new / draft |
+
+| Open Anki N1 605 | [打ち消し](entries/1588/1588200-uchikeshi.org) | うちけし | 1588200 | new / draft |
+| Open Anki N1 607 | [団扇](entries/1419/1419250-uchiwa.org) | うちわ | 1419250 | new / draft |
+| Open Anki N1 608 | [内訳](entries/1459/1459360-uchiwake.org) | うちわけ | 1459360 | new / draft |
+| Open Anki N1 609 | [写し](entries/1321/1321790-utsushi.org) | うつし | 1321790 | new / draft |
+| Open Anki N1 610 | [訴え](entries/1397/1397710-uttae.org) | うったえ | 1397710 | new / draft |
+| Open Anki N1 613 | [空ろ](entries/1588/1588340-utsuro.org) | うつろ | 1588340 | new / draft |
+| Open Anki N1 615 | [腕前](entries/1562/1562890-udemae.org) | うでまえ | 1562890 | new / draft |
+| Open Anki N1 616 | [雨天](entries/1172/1172100-uten.org) | うてん | 1172100 | new / draft |
+| Open Anki N1 619 | [生まれつき](entries/1378/1378770-umaretsuki.org) | うまれつき | 1378770 | new / draft |
+| Open Anki N1 620 | [埋め込む](entries/1524/1524520-umekomu.org) | うめこむ | 1524520 | new / draft |
+
+| Open Anki N1 621 | [梅干し](entries/1473/1473500-umeboshi.org) | うめぼし | 1473500 | new / draft |
+| Open Anki N1 622 | [裏返し](entries/1550/1550620-uragaeshi.org) | うらがえし | 1550620 | new / draft |
+| Open Anki N1 623 | [売り出し](entries/1588/1588530-uridashi.org) | うりだし | 1588530 | new / draft |
+| Open Anki N1 626 | [浮気](entries/1497/1497450-uwaki.org) | うわき | 1497450 | new / draft |
+| Open Anki N1 628 | [植わる](entries/1357/1357260-uwaru.org) | うわる | 1357260 | new / draft |
+| Open Anki N1 631 | [運送](entries/1588/1588620-unsou.org) | うんそう | 1588620 | new / draft |
+| Open Anki N1 633 | [云々](entries/1588/1588630-unnun.org) | うんぬん | 1588630 | new / draft |
+| Open Anki N1 634 | [運搬](entries/1173/1173010-unpan.org) | うんぱん | 1173010 | new / draft |
+| Open Anki N1 636 | [運輸](entries/1173/1173050-unyu.org) | うんゆ | 1173050 | new / draft |
+| Open Anki N1 637 | [運用](entries/1173/1173090-unyou.org) | うんよう | 1173090 | new / draft |
+
+| Open Anki N1 640 | [英字](entries/1174/1174530-eiji.org) | えいじ | 1174530 | new / draft |
+| Open Anki N1 641 | [映写](entries/1173/1173780-eisha.org) | えいしゃ | 1173780 | new / draft |
+| Open Anki N1 642 | [映像](entries/1173/1173800-eizou.org) | えいぞう | 1173800 | new / draft |
+| Open Anki N1 643 | [英雄](entries/1174/1174680-eiyuu.org) | えいゆう | 1174680 | new / draft |
+| Open Anki N1 644 | [液](entries/1174/1174970-eki.org) | えき | 1174970 | new / draft |
+| Open Anki N1 645 | [閲覧](entries/1175/1175380-etsuran.org) | えつらん | 1175380 | new / draft |
+| Open Anki N1 646 | [獲物](entries/1205/1205760-emono.org) | えもの | 1205760 | new / draft |
+| Open Anki N1 649 | [円滑](entries/1576/1576570-enkatsu.org) | えんかつ | 1576570 | new / draft |
+| Open Anki N1 652 | [婉曲](entries/1566/1566060-enkyoku.org) | えんきょく | 1566060 | new / draft |
+| Open Anki N1 653 | [演出](entries/1176/1176950-enshutsu.org) | えんしゅつ | 1176950 | new / draft |
+
+| Open Anki N1 655 | [演じる](entries/1176/1176780-enjiru.org) | えんじる | 1176780 | new / draft |
+| Open Anki N1 656 | [演ずる](entries/1176/1176790-enzuru.org) | えんずる | 1176790 | new / draft |
+| Open Anki N1 657 | [沿線](entries/1176/1176750-ensen.org) | えんせん | 1176750 | new / draft |
+| Open Anki N1 658 | [縁談](entries/1177/1177650-endan.org) | えんだん | 1177650 | new / draft |
+| Open Anki N1 659 | [遠方](entries/1178/1178340-enpou.org) | えんぽう | 1178340 | new / draft |
+| Open Anki N1 660 | [円満](entries/1176/1176200-enman.org) | えんまん | 1176200 | new / draft |
+| Open Anki N1 663 | [於いて](entries/1178/1178920-oite.org) | おいて | 1178920 | new / draft |
+| Open Anki N1 664 | [老いる](entries/1560/1560990-oiru.org) | おいる | 1560990 | new / draft |
+| Open Anki N1 665 | [応急](entries/1179/1179880-oukyuu.org) | おうきゅう | 1179880 | new / draft |
+| Open Anki N1 666 | [黄金](entries/1181/1181860-ougon.org) | おうごん | 1181860 | new / draft |
+
+| Open Anki N1 667 | [往診](entries/1179/1179710-oushin.org) | おうしん | 1179710 | new / draft |
+| Open Anki N1 670 | [大方](entries/1415/1415020-ookata.org) | おおかた | 1415020 | new / draft |
+| Open Anki N1 671 | [大柄](entries/1414/1414980-oogara.org) | おおがら | 1414980 | new / draft |
+| Open Anki N1 674 | [大空](entries/1413/1413510-oozora.org) | おおぞら | 1413510 | new / draft |
+| Open Anki N1 678 | [大水](entries/1414/1414210-oomizu.org) | おおみず | 1414210 | new / draft |
+| Open Anki N1 680 | [犯す](entries/1481/1481550-okasu.org) | おかす | 1481550 | new / draft |
+| Open Anki N1 681 | [侵す](entries/1359/1359800-okasu.org) | おかす | 1359800 | new / draft |
+| Open Anki N1 683 | [遅らす](entries/1422/1422000-okurasu.org) | おくらす | 1422000 | new / draft |
+| Open Anki N1 684 | [厳か](entries/1262/1262520-ogosoka.org) | おごそか | 1262520 | new / draft |
+| Open Anki N1 685 | [行い](entries/1589/1589050-okonai.org) | おこない | 1589050 | new / draft |
+
+| Open Anki N1 690 | [お産](entries/1001/1001960-osan.org) | おさん | 1001960 | new / draft |
+| Open Anki N1 691 | [押し切る](entries/1180/1180270-oshikiru.org) | おしきる | 1180270 | new / draft |
+| Open Anki N1 694 | [押し寄せる](entries/1180/1180190-oshiyoseru.org) | おしよせる | 1180190 | new / draft |
+| Open Anki N1 695 | [雄](entries/1589/1589190-osu.org) | おす | 1589190 | new / draft |
+| Open Anki N1 697 | [襲う](entries/1333/1333330-osou.org) | おそう | 1333330 | new / draft |
+| Open Anki N1 698 | [遅くとも](entries/1421/1421990-osokutomo.org) | おそくとも | 1421990 | new / draft |
+| Open Anki N1 699 | [恐れ](entries/1236/1236660-osore.org) | おそれ | 1236660 | new / draft |
+| Open Anki N1 700 | [恐れ入る](entries/1236/1236680-osoreiru.org) | おそれいる | 1236680 | new / draft |
+| Open Anki N1 703 | [落ち着き](entries/1548/1548590-ochitsuki.org) | おちつき | 1548590 | new / draft |
+| Open Anki N1 704 | [落葉](entries/1585/1585070-ochiba.org) | おちば | 1585070 | new / draft |
+
+| Open Anki N1 705 | [乙](entries/1182/1182940-otsu.org) | おつ | 1182940 | new / draft |
+| Open Anki N1 706 | [お使い](entries/1001/1001980-otsukai.org) | おつかい | 1001980 | new / draft |
+| Open Anki N1 708 | [お手上げ](entries/1002/1002080-oteage.org) | おてあげ | 1002080 | new / draft |
+| Open Anki N1 712 | [お供](entries/1001/1001810-otomo.org) | おとも | 1001810 | new / draft |
+| Open Anki N1 714 | [同い年](entries/1451/1451740-onaidoshi.org) | おないどし | 1451740 | new / draft |
+| Open Anki N1 715 | [自ずから](entries/1317/1317330-onozukara.org) | おのずから | 1317330 | new / draft |
+| Open Anki N1 720 | [お袋](entries/1002/1002370-ofukuro.org) | おふくろ | 1002370 | new / draft |
+| Open Anki N1 723 | [お宮](entries/1001/1001790-omiya.org) | おみや | 1001790 | new / draft |
+| Open Anki N1 725 | [思い付き](entries/1309/1309380-omoitsuki.org) | おもいつき | 1309380 | new / draft |
+| Open Anki N1 726 | [趣](entries/1328/1328960-omomuki.org) | おもむき | 1328960 | new / draft |
+
+| Open Anki N1 728 | [重んじる](entries/1335/1335940-omonjiru.org) | おもんじる | 1335940 | new / draft |
+| Open Anki N1 729 | [重んずる](entries/1335/1335950-omonzuru.org) | おもんずる | 1335950 | new / draft |
+| Open Anki N1 730 | [親父](entries/1365/1365330-oyaji.org) | おやじ | 1365330 | new / draft |
+| Open Anki N1 733 | [折](entries/1385/1385780-ori.org) | おり | 1385780 | new / draft |
+| Open Anki N1 734 | [檻](entries/1568/1568410-ori.org) | おり | 1568410 | new / draft |
+| Open Anki N1 736 | [折り返す](entries/1385/1385900-orikaesu.org) | おりかえす | 1385900 | new / draft |
+| Open Anki N1 738 | [俺](entries/1576/1576870-ore.org) | おれ | 1576870 | new / draft |
+| Open Anki N1 739 | [愚か](entries/1245/1245100-oroka.org) | おろか | 1245100 | new / draft |
+| Open Anki N1 743 | [温和](entries/1589/1589620-onwa.org) | おんわ | 1589620 | new / draft |
+| Open Anki N1 748 | [改悪](entries/1200/1200760-kaiaku.org) | かいあく | 1200760 | new / draft |
+
+| Open Anki N1 749 | [海運](entries/1201/1201230-kaiun.org) | かいうん | 1201230 | new / draft |
+| Open Anki N1 750 | [外貨](entries/1203/1203410-gaika.org) | がいか | 1203410 | new / draft |
+| Open Anki N1 751 | [改革](entries/1200/1200780-kaikaku.org) | かいかく | 1200780 | new / draft |
+| Open Anki N1 752 | [貝殻](entries/1203/1203130-kaigara.org) | かいがら | 1203130 | new / draft |
+| Open Anki N1 754 | [階級](entries/1203/1203040-kaikyuu.org) | かいきゅう | 1203040 | new / draft |
+| Open Anki N1 756 | [会見](entries/1198/1198500-kaiken.org) | かいけん | 1198500 | new / draft |
+| Open Anki N1 758 | [開催](entries/1202/1202710-kaisai.org) | かいさい | 1202710 | new / draft |
+| Open Anki N1 761 | [怪獣](entries/1200/1200280-kaijuu.org) | かいじゅう | 1200280 | new / draft |
+| Open Anki N1 762 | [解除](entries/1199/1199030-kaijo.org) | かいじょ | 1199030 | new / draft |
+| Open Anki N1 763 | [外相](entries/1203/1203940-gaishou.org) | がいしょう | 1203940 | new / draft |
+
+| Open Anki N1 764 | [害する](entries/1609/1609490-gaisuru.org) | がいする | 1609490 | new / draft |
+| Open Anki N1 765 | [概説](entries/1204/1204470-gaisetsu.org) | がいせつ | 1204470 | new / draft |
+| Open Anki N1 766 | [回送](entries/1199/1199610-kaisou.org) | かいそう | 1199610 | new / draft |
+| Open Anki N1 767 | [階層](entries/1203/1203080-kaisou.org) | かいそう | 1203080 | new / draft |
+| Open Anki N1 770 | [改定](entries/1201/1201040-kaitei.org) | かいてい | 1201040 | new / draft |
+| Open Anki N1 771 | [改訂](entries/1201/1201060-kaitei.org) | かいてい | 1201060 | new / draft |
+| Open Anki N1 773 | [街道](entries/1204/1204650-kaidou.org) | かいどう | 1204650 | new / draft |
+| Open Anki N1 775 | [街頭](entries/1204/1204640-gaitou.org) | がいとう | 1204640 | new / draft |
+| Open Anki N1 780 | [海抜](entries/1201/1201700-kaibatsu.org) | かいばつ | 1201700 | new / draft |
+| Open Anki N1 781 | [介抱](entries/1198/1198130-kaihou.org) | かいほう | 1198130 | new / draft |
+
+| Open Anki N1 782 | [解剖](entries/1199/1199270-kaibou.org) | かいぼう | 1199270 | new / draft |
+| Open Anki N1 783 | [外来](entries/1204/1204240-gairai.org) | がいらい | 1204240 | new / draft |
+| Open Anki N1 784 | [回覧](entries/1199/1199800-kairan.org) | かいらん | 1199800 | new / draft |
+| Open Anki N1 786 | [海流](entries/1201/1201820-kairyuu.org) | かいりゅう | 1201820 | new / draft |
+| Open Anki N1 787 | [改良](entries/1201/1201140-kairyou.org) | かいりょう | 1201140 | new / draft |
+| Open Anki N1 789 | [海路](entries/1201/1201830-kairo.org) | かいろ | 1201830 | new / draft |
+| Open Anki N1 791 | [顧みる](entries/1267/1267870-kaerimiru.org) | かえりみる | 1267870 | new / draft |
+| Open Anki N1 792 | [顔付き](entries/1217/1217850-kaotsuki.org) | かおつき | 1217850 | new / draft |
+| Open Anki N1 793 | [課外](entries/1195/1195750-kagai.org) | かがい | 1195750 | new / draft |
+| Open Anki N1 797 | [掻き回す](entries/1399/1399880-kakimawasu.org) | かきまわす | 1399880 | new / draft |
+
+| Open Anki N1 803 | [学士](entries/1206/1206760-gakushi.org) | がくし | 1206760 | new / draft |
+| Open Anki N1 804 | [各種](entries/1205/1205040-kakushu.org) | かくしゅ | 1205040 | new / draft |
+| Open Anki N1 805 | [隔週](entries/1607/1607110-kakushuu.org) | かくしゅう | 1607110 | new / draft |
+| Open Anki N1 806 | [確信](entries/1205/1205870-kakushin.org) | かくしん | 1205870 | new / draft |
+| Open Anki N1 807 | [革新](entries/1206/1206470-kakushin.org) | かくしん | 1206470 | new / draft |
+| Open Anki N1 808 | [学説](entries/1206/1206950-gakusetsu.org) | がくせつ | 1206950 | new / draft |
+| Open Anki N1 813 | [確保](entries/1205/1205920-kakuho.org) | かくほ | 1205920 | new / draft |
+| Open Anki N1 814 | [革命](entries/1206/1206500-kakumei.org) | かくめい | 1206500 | new / draft |
+| Open Anki N1 816 | [賭](entries/1590/1590040-kake.org) | かけ | 1590040 | new / draft |
+| Open Anki N1 819 | [崖](entries/1204/1204380-gake.org) | がけ | 1204380 | new / draft |
+
+| Open Anki N1 820 | [駆け足](entries/1244/1244800-kakeashi.org) | かけあし | 1244800 | new / draft |
+| Open Anki N1 822 | [駆けっこ](entries/1244/1244710-kakekko.org) | かけっこ | 1244710 | new / draft |
+| Open Anki N1 827 | [箇条書](entries/1590/1590280-kajougaki.org) | かじょうがき | 1590280 | new / draft |
+| Open Anki N1 829 | [微か](entries/1590/1590290-kasuka.org) | かすか | 1590290 | new / draft |
+| Open Anki N1 830 | [霞む](entries/1196/1196520-kasumu.org) | かすむ | 1196520 | new / draft |
+| Open Anki N1 831 | [擦る](entries/1636/1636530-kasuru.org) | かする | 1636530 | new / draft |
+| Open Anki N1 832 | [火星](entries/1194/1194060-kasei.org) | かせい | 1194060 | new / draft |
+| Open Anki N1 838 | [片言](entries/1511/1511640-katakoto.org) | かたこと | 1511640 | new / draft |
+| Open Anki N1 840 | [固める](entries/1266/1266570-katameru.org) | かためる | 1266570 | new / draft |
+| Open Anki N1 841 | [傍ら](entries/1590/1590440-katawara.org) | かたわら | 1590440 | new / draft |
+
+| Open Anki N1 842 | [花壇](entries/1590/1590460-kadan.org) | かだん | 1590460 | new / draft |
+| Open Anki N1 851 | [勝手](entries/1346/1346190-katte.org) | かって | 1346190 | new / draft |
+| Open Anki N1 853 | [活発](entries/1208/1208410-kappatsu.org) | かっぱつ | 1208410 | new / draft |
+| Open Anki N1 856 | [叶う](entries/1208/1208870-kanau.org) | かなう | 1208870 | new / draft |
+| Open Anki N1 857 | [叶える](entries/1208/1208880-kanaeru.org) | かなえる | 1208880 | new / draft |
+| Open Anki N1 858 | [金槌](entries/1779/1779760-kanazuchi.org) | かなづち | 1779760 | new / draft |
+| Open Anki N1 861 | [予て](entries/1542/1542850-kanete.org) | かねて | 1542850 | new / draft |
+| Open Anki N1 862 | [庇う](entries/1483/1483060-kabau.org) | かばう | 1483060 | new / draft |
+| Open Anki N1 865 | [花粉](entries/1194/1194890-kafun.org) | かふん | 1194890 | new / draft |
+| Open Anki N1 866 | [貨幣](entries/1195/1195930-kahei.org) | かへい | 1195930 | new / draft |
+
+| Open Anki N1 867 | [構える](entries/1279/1279700-kamaeru.org) | かまえる | 1279700 | new / draft |
+| Open Anki N1 869 | [噛み切る](entries/1209/1209200-kamikiru.org) | かみきる | 1209200 | new / draft |
+| Open Anki N1 872 | [粥](entries/1209/1209350-kayu.org) | かゆ | 1209350 | new / draft |
+| Open Anki N1 873 | [体付き](entries/1409/1409680-karadatsuki.org) | からだつき | 1409680 | new / draft |
+| Open Anki N1 874 | [絡む](entries/1548/1548520-karamu.org) | からむ | 1548520 | new / draft |
+| Open Anki N1 878 | [過労](entries/1196/1196490-karou.org) | かろう | 1196490 | new / draft |
+| Open Anki N1 881 | [代る代る](entries/1590/1590830-kawarugawaru.org) | かわるがわる | 1590830 | new / draft |
+| Open Anki N1 882 | [簡易](entries/1214/1214270-kani.org) | かんい | 1214270 | new / draft |
+| Open Anki N1 884 | [眼科](entries/1217/1217150-ganka.org) | がんか | 1217150 | new / draft |
+| Open Anki N1 885 | [眼球](entries/1217/1217180-gankyuu.org) | がんきゅう | 1217180 | new / draft |
+
+| Open Anki N1 886 | [玩具](entries/2863/2863107-gangu.org) | がんぐ | 2863107 | new / draft |
+| Open Anki N1 887 | [簡潔](entries/1214/1214290-kanketsu.org) | かんけつ | 1214290 | new / draft |
+| Open Anki N1 889 | [看護](entries/1213/1213810-kango.org) | かんご | 1213810 | new / draft |
+| Open Anki N1 890 | [漢語](entries/1213/1213150-kango.org) | かんご | 1213150 | new / draft |
+| Open Anki N1 892 | [勧告](entries/1210/1210970-kankoku.org) | かんこく | 1210970 | new / draft |
+| Open Anki N1 893 | [換算](entries/1212/1212820-kansan.org) | かんさん | 1212820 | new / draft |
+| Open Anki N1 896 | [観衆](entries/1214/1214930-kanshuu.org) | かんしゅう | 1214930 | new / draft |
+| Open Anki N1 899 | [頑丈](entries/1217/1217690-ganjou.org) | がんじょう | 1217690 | new / draft |
+| Open Anki N1 900 | [感触](entries/1212/1212440-kanshoku.org) | かんしょく | 1212440 | new / draft |
+| Open Anki N1 901 | [肝心](entries/1590/1590870-kanjin.org) | かんじん | 1590870 | new / draft |
+
+| Open Anki N1 903 | [関税](entries/1215/1215930-kanzei.org) | かんぜい | 1215930 | new / draft |
+| Open Anki N1 906 | [幹線](entries/1212/1212140-kansen.org) | かんせん | 1212140 | new / draft |
+| Open Anki N1 907 | [簡素](entries/1214/1214300-kanso.org) | かんそ | 1214300 | new / draft |
+| Open Anki N1 909 | [感度](entries/1212/1212550-kando.org) | かんど | 1212550 | new / draft |
+| Open Anki N1 911 | [元年](entries/1261/1261020-gannen.org) | がんねん | 1261020 | new / draft |
+| Open Anki N1 912 | [幹部](entries/1212/1212170-kanbu.org) | かんぶ | 1212170 | new / draft |
+| Open Anki N1 913 | [完ぺき](entries/1590/1590970-kanpeki.org) | かんぺき | 1590970 | new / draft |
+| Open Anki N1 914 | [勘弁](entries/1210/1210870-kanben.org) | かんべん | 1210870 | new / draft |
+| Open Anki N1 915 | [感無量](entries/1212/1212620-kanmuryou.org) | かんむりょう | 1212620 | new / draft |
+| Open Anki N1 917 | [関与](entries/1216/1216050-kanyo.org) | かんよ | 1216050 | new / draft |
+
+| Open Anki N1 920 | [観覧](entries/1215/1215040-kanran.org) | かんらん | 1215040 | new / draft |
+| Open Anki N1 921 | [慣例](entries/1212/1212750-kanrei.org) | かんれい | 1212750 | new / draft |
+| Open Anki N1 922 | [還暦](entries/1215/1215160-kanreki.org) | かんれき | 1215160 | new / draft |
+| Open Anki N1 923 | [貫禄](entries/1215/1215110-kanroku.org) | かんろく | 1215110 | new / draft |
+| Open Anki N1 925 | [議案](entries/1226/1226010-gian.org) | ぎあん | 1226010 | new / draft |
+| Open Anki N1 926 | [危害](entries/1218/1218440-kigai.org) | きがい | 1218440 | new / draft |
+| Open Anki N1 927 | [企画](entries/1218/1218150-kikaku.org) | きかく | 1218150 | new / draft |
+| Open Anki N1 928 | [規格](entries/1222/1222970-kikaku.org) | きかく | 1222970 | new / draft |
+| Open Anki N1 929 | [着飾る](entries/1423/1423080-kikazaru.org) | きかざる | 1423080 | new / draft |
+| Open Anki N1 930 | [気兼ね](entries/1222/1222120-kigane.org) | きがね | 1222120 | new / draft |
+
+| Open Anki N1 931 | [気軽](entries/1222/1222110-kigaru.org) | きがる | 1222110 | new / draft |
+| Open Anki N1 933 | [聞き取り](entries/1505/1505790-kikitori.org) | ききとり | 1505790 | new / draft |
+| Open Anki N1 934 | [効き目](entries/1591/1591070-kikime.org) | ききめ | 1591070 | new / draft |
+| Open Anki N1 935 | [帰京](entries/1221/1221310-kikyou.org) | ききょう | 1221310 | new / draft |
+| Open Anki N1 938 | [喜劇](entries/1218/1218810-kigeki.org) | きげき | 1218810 | new / draft |
+| Open Anki N1 939 | [議決](entries/1226/1226050-giketsu.org) | ぎけつ | 1226050 | new / draft |
+| Open Anki N1 940 | [棄権](entries/1220/1220670-kiken.org) | きけん | 1220670 | new / draft |
+| Open Anki N1 942 | [気障](entries/1222/1222310-kiza.org) | きざ | 1222310 | new / draft |
+| Open Anki N1 943 | [記載](entries/1223/1223230-kisai.org) | きさい | 1223230 | new / draft |
+| Open Anki N1 945 | [気質](entries/1222/1222250-kishitsu.org) | きしつ | 1222250 | new / draft |
+
+| Open Anki N1 946 | [期日](entries/1220/1220610-kijitsu.org) | きじつ | 1220610 | new / draft |
+| Open Anki N1 948 | [議事堂](entries/1226/1226090-gijidou.org) | ぎじどう | 1226090 | new / draft |
+| Open Anki N1 949 | [記述](entries/1223/1223280-kijutsu.org) | きじゅつ | 1223280 | new / draft |
+| Open Anki N1 953 | [犠牲](entries/1225/1225450-gisei.org) | ぎせい | 1225450 | new / draft |
+| Open Anki N1 954 | [汽船](entries/1222/1222730-kisen.org) | きせん | 1222730 | new / draft |
+| Open Anki N1 955 | [寄贈](entries/1577/1577730-kizou.org) | きぞう | 1577730 | new / draft |
+| Open Anki N1 956 | [偽造](entries/1224/1224580-gizou.org) | ぎぞう | 1224580 | new / draft |
+| Open Anki N1 957 | [貴族](entries/1223/1223550-kizoku.org) | きぞく | 1223550 | new / draft |
+| Open Anki N1 958 | [議題](entries/1226/1226130-gidai.org) | ぎだい | 1226130 | new / draft |
+| Open Anki N1 960 | [気立て](entries/1222/1222670-kidate.org) | きだて | 1222670 | new / draft |
+
+| Open Anki N1 961 | [来る](entries/1591/1591270-kitaru.org) | きたる | 1591270 | new / draft |
+| Open Anki N1 963 | [几帳面](entries/1564/1564360-kichoumen.org) | きちょうめん | 1564360 | new / draft |
+| Open Anki N1 967 | [規定](entries/1223/1223060-kitei.org) | きてい | 1223060 | new / draft |
+| Open Anki N1 968 | [起点](entries/1223/1223860-kiten.org) | きてん | 1223860 | new / draft |
+| Open Anki N1 969 | [軌道](entries/1223/1223980-kidou.org) | きどう | 1223980 | new / draft |
+| Open Anki N1 970 | [技能](entries/1225/1225230-ginou.org) | ぎのう | 1225230 | new / draft |
+| Open Anki N1 972 | [気品](entries/1222/1222540-kihin.org) | きひん | 1222540 | new / draft |
+| Open Anki N1 973 | [気風](entries/1222/1222580-kifuu.org) | きふう | 1222580 | new / draft |
+| Open Anki N1 974 | [起伏](entries/1223/1223930-kifuku.org) | きふく | 1223930 | new / draft |
+| Open Anki N1 977 | [生真面目](entries/1379/1379150-kimajime.org) | きまじめ | 1379150 | new / draft |
+
+| Open Anki N1 978 | [期末](entries/1220/1220620-kimatsu.org) | きまつ | 1220620 | new / draft |
+| Open Anki N1 980 | [記名](entries/1223/1223430-kimei.org) | きめい | 1223430 | new / draft |
+| Open Anki N1 982 | [脚色](entries/1226/1226830-kyakushoku.org) | きゃくしょく | 1226830 | new / draft |
+| Open Anki N1 985 | [華奢](entries/1195/1195660-kyasha.org) | きゃしゃ | 1195660 | new / draft |
+| Open Anki N1 990 | [休学](entries/1227/1227660-kyuugaku.org) | きゅうがく | 1227660 | new / draft |
+| Open Anki N1 991 | [究極](entries/1230/1230040-kyuukyoku.org) | きゅうきょく | 1230040 | new / draft |
+| Open Anki N1 992 | [窮屈](entries/1230/1230080-kyuukutsu.org) | きゅうくつ | 1230080 | new / draft |
+| Open Anki N1 993 | [球根](entries/1229/1229950-kyuukon.org) | きゅうこん | 1229950 | new / draft |
+| Open Anki N1 995 | [給仕](entries/1230/1230240-kyuuji.org) | きゅうじ | 1230240 | new / draft |
+| Open Anki N1 996 | [給食](entries/1230/1230250-kyuushoku.org) | きゅうしょく | 1230250 | new / draft |
+
+| Open Anki N1 997 | [休戦](entries/1227/1227890-kyuusen.org) | きゅうせん | 1227890 | new / draft |
+| Open Anki N1 998 | [宮殿](entries/1228/1228470-kyuuden.org) | きゅうでん | 1228470 | new / draft |
+| Open Anki N1 999 | [旧知](entries/1231/1231060-kyuuchi.org) | きゅうち | 1231060 | new / draft |
+| Open Anki N1 1000 | [窮乏](entries/1230/1230120-kyuubou.org) | きゅうぼう | 1230120 | new / draft |
+| Open Anki N1 1001 | [寄与](entries/1219/1219810-kiyo.org) | きよ | 1219810 | new / draft |
+| Open Anki N1 1002 | [強](entries/2020/2020300-kyou.org) | きょう | 2020300 | new / draft |
+| Open Anki N1 1004 | [驚異](entries/1238/1238700-kyoui.org) | きょうい | 1238700 | new / draft |
+| Open Anki N1 1006 | [協会](entries/1235/1235550-kyoukai.org) | きょうかい | 1235550 | new / draft |
+| Open Anki N1 1007 | [共学](entries/1234/1234350-kyougaku.org) | きょうがく | 1234350 | new / draft |
+| Open Anki N1 1009 | [境遇](entries/1236/1236000-kyouguu.org) | きょうぐう | 1236000 | new / draft |
+
+| Open Anki N1 1010 | [教訓](entries/1237/1237080-kyoukun.org) | きょうくん | 1237080 | new / draft |
+| Open Anki N1 1011 | [強行](entries/1236/1236270-kyoukou.org) | きょうこう | 1236270 | new / draft |
+| Open Anki N1 1012 | [強硬](entries/1236/1236250-kyoukou.org) | きょうこう | 1236250 | new / draft |
+| Open Anki N1 1013 | [教材](entries/1237/1237110-kyouzai.org) | きょうざい | 1237110 | new / draft |
+| Open Anki N1 1014 | [凶作](entries/1235/1235440-kyousaku.org) | きょうさく | 1235440 | new / draft |
+| Open Anki N1 1015 | [業者](entries/1239/1239440-gyousha.org) | ぎょうしゃ | 1239440 | new / draft |
+| Open Anki N1 1016 | [教習](entries/1237/1237170-kyoushuu.org) | きょうしゅう | 1237170 | new / draft |
+| Open Anki N1 1018 | [教職](entries/1237/1237220-kyoushoku.org) | きょうしょく | 1237220 | new / draft |
+| Open Anki N1 1019 | [興じる](entries/1238/1238180-kyoujiru.org) | きょうじる | 1238180 | new / draft |
+| Open Anki N1 1020 | [強制](entries/1236/1236350-kyousei.org) | きょうせい | 1236350 | new / draft |
+
+| Open Anki N1 1023 | [共存](entries/1578/1578050-kyouzon.org) | きょうぞん | 1578050 | new / draft |
+| Open Anki N1 1025 | [郷土](entries/1238/1238510-kyoudo.org) | きょうど | 1238510 | new / draft |
+| Open Anki N1 1028 | [共鳴](entries/1235/1235190-kyoumei.org) | きょうめい | 1235190 | new / draft |
+| Open Anki N1 1029 | [郷里](entries/1238/1238540-kyouri.org) | きょうり | 1238540 | new / draft |
+| Open Anki N1 1030 | [強烈](entries/1236/1236620-kyouretsu.org) | きょうれつ | 1236620 | new / draft |
+| Open Anki N1 1031 | [共和](entries/1630/1630190-kyouwa.org) | きょうわ | 1630190 | new / draft |
+| Open Anki N1 1032 | [局限](entries/1239/1239600-kyokugen.org) | きょくげん | 1239600 | new / draft |
+| Open Anki N1 1033 | [極端](entries/1240/1240380-kyokutan.org) | きょくたん | 1240380 | new / draft |
+| Open Anki N1 1034 | [居住](entries/1231/1231810-kyojuu.org) | きょじゅう | 1231810 | new / draft |
+| Open Anki N1 1035 | [拒絶](entries/1232/1232390-kyozetsu.org) | きょぜつ | 1232390 | new / draft |
+
+| Open Anki N1 1036 | [漁船](entries/1233/1233050-gyosen.org) | ぎょせん | 1233050 | new / draft |
+| Open Anki N1 1037 | [漁村](entries/1233/1233060-gyoson.org) | ぎょそん | 1233060 | new / draft |
+| Open Anki N1 1039 | [許容](entries/1232/1232910-kyoyou.org) | きょよう | 1232910 | new / draft |
+| Open Anki N1 1040 | [清らか](entries/1378/1378180-kiyoraka.org) | きよらか | 1378180 | new / draft |
+| Open Anki N1 1043 | [義理](entries/1225/1225920-giri.org) | ぎり | 1225920 | new / draft |
+| Open Anki N1 1044 | [切替](entries/1591/1591760-kirikae.org) | きりかえ | 1591760 | new / draft |
+| Open Anki N1 1045 | [気流](entries/1222/1222680-kiryuu.org) | きりゅう | 1222680 | new / draft |
+| Open Anki N1 1046 | [切れ目](entries/1591/1591930-kireme.org) | きれめ | 1591930 | new / draft |
+| Open Anki N1 1047 | [疑惑](entries/1225/1225680-giwaku.org) | ぎわく | 1225680 | new / draft |
+| Open Anki N1 1049 | [近眼](entries/1242/1242220-kingan.org) | きんがん | 1242220 | new / draft |
+
+| Open Anki N1 1050 | [緊急](entries/1241/1241850-kinkyuu.org) | きんきゅう | 1241850 | new / draft |
+| Open Anki N1 1053 | [禁じる](entries/1241/1241470-kinjiru.org) | きんじる | 1241470 | new / draft |
+| Open Anki N1 1055 | [吟味](entries/1243/1243390-ginmi.org) | ぎんみ | 1243390 | new / draft |
+| Open Anki N1 1056 | [勤務](entries/1241/1241070-kinmu.org) | きんむ | 1241070 | new / draft |
+| Open Anki N1 1058 | [勤労](entries/1241/1241160-kinrou.org) | きんろう | 1241160 | new / draft |
+| Open Anki N1 1060 | [食い違う](entries/1358/1358110-kuichigau.org) | くいちがう | 1358110 | new / draft |
+| Open Anki N1 1062 | [空腹](entries/1246/1246000-kuufuku.org) | くうふく | 1246000 | new / draft |
+| Open Anki N1 1063 | [区画](entries/1592/1592110-kukaku.org) | くかく | 1592110 | new / draft |
+| Open Anki N1 1064 | [区間](entries/1244/1244120-kukan.org) | くかん | 1244120 | new / draft |
+| Open Anki N1 1065 | [茎](entries/1251/1251950-kuki.org) | くき | 1251950 | new / draft |
+
+| Open Anki N1 1066 | [区切り](entries/1244/1244180-kugiri.org) | くぎり | 1244180 | new / draft |
+| Open Anki N1 1071 | [愚痴](entries/1245/1245170-guchi.org) | ぐち | 1245170 | new / draft |
+| Open Anki N1 1072 | [口吟む](entries/1275/1275720-kuchizusamu.org) | くちずさむ | 1275720 | new / draft |
+| Open Anki N1 1073 | [嘴](entries/1565/1565560-kuchibashi.org) | くちばし | 1565560 | new / draft |
+| Open Anki N1 1074 | [朽ちる](entries/1229/1229310-kuchiru.org) | くちる | 1229310 | new / draft |
+| Open Anki N1 1079 | [首飾り](entries/1329/1329280-kubikazari.org) | くびかざり | 1329280 | new / draft |
+| Open Anki N1 1080 | [首輪](entries/1329/1329440-kubiwa.org) | くびわ | 1329440 | new / draft |
+| Open Anki N1 1086 | [玄人](entries/1263/1263430-kurouto.org) | くろうと | 1263430 | new / draft |
+| Open Anki N1 1088 | [軍艦](entries/1247/1247830-gunkan.org) | ぐんかん | 1247830 | new / draft |
+| Open Anki N1 1090 | [君主](entries/1247/1247290-kunshu.org) | くんしゅ | 1247290 | new / draft |
+
+| Open Anki N1 1091 | [群集](entries/1592/1592515-gunshuu.org) | ぐんしゅう | 1592515 | new / draft |
+| Open Anki N1 1092 | [群衆](entries/1592/1592510-gunshuu.org) | ぐんしゅう | 1592510 | new / draft |
+| Open Anki N1 1093 | [軍備](entries/1248/1248870-gunbi.org) | ぐんび | 1248870 | new / draft |
+| Open Anki N1 1094 | [軍服](entries/1248/1248970-gunpuku.org) | ぐんぷく | 1248970 | new / draft |
+| Open Anki N1 1095 | [芸](entries/1956/1956190-gei.org) | げい | 1956190 | new / draft |
+| Open Anki N1 1097 | [軽快](entries/1252/1252600-keikai.org) | けいかい | 1252600 | new / draft |
+| Open Anki N1 1098 | [警戒](entries/1252/1252310-keikai.org) | けいかい | 1252310 | new / draft |
+| Open Anki N1 1099 | [敬具](entries/1250/1250740-keigu.org) | けいぐ | 1250740 | new / draft |
+| Open Anki N1 1100 | [軽減](entries/1252/1252680-keigen.org) | けいげん | 1252680 | new / draft |
+| Open Anki N1 1102 | [傾斜](entries/1249/1249500-keisha.org) | けいしゃ | 1249500 | new / draft |
+
+| Open Anki N1 1104 | [形勢](entries/1250/1250350-keisei.org) | けいせい | 1250350 | new / draft |
+| Open Anki N1 1108 | [警部](entries/1252/1252510-keibu.org) | けいぶ | 1252510 | new / draft |
+| Open Anki N1 1110 | [転居](entries/1441/1441100-tenkyo.org) | てんきょ | 1441100 | new / draft |
+| Open Anki N1 1113 | [電源](entries/1443/1443220-dengen.org) | でんげん | 1443220 | new / draft |
+| Open Anki N1 1114 | [天国](entries/1439/1439080-tengoku.org) | てんごく | 1439080 | new / draft |
+| Open Anki N1 1115 | [天才](entries/1439/1439090-tensai.org) | てんさい | 1439090 | new / draft |
+| Open Anki N1 1119 | [点線](entries/1441/1441690-tensen.org) | てんせん | 1441690 | new / draft |
+| Open Anki N1 1121 | [転ずる](entries/1441/1441050-tenzuru.org) | てんずる | 1441050 | new / draft |
+| Open Anki N1 1122 | [天体](entries/1439/1439740-tentai.org) | てんたい | 1439740 | new / draft |
+| Open Anki N1 1123 | [伝達](entries/1442/1442240-dentatsu.org) | でんたつ | 1442240 | new / draft |
+
+| Open Anki N1 1124 | [天地](entries/1582/1582090-tenchi.org) | てんち | 1582090 | new / draft |
+| Open Anki N1 1126 | [転任](entries/1441/1441320-tennin.org) | てんにん | 1441320 | new / draft |
+| Open Anki N1 1127 | [展望](entries/1440/1440640-tenbou.org) | てんぼう | 1440640 | new / draft |
+| Open Anki N1 1128 | [伝来](entries/1442/1442450-denrai.org) | でんらい | 1442450 | new / draft |
+| Open Anki N1 1129 | [転落](entries/1441/1441370-tenraku.org) | てんらく | 1441370 | new / draft |
+| Open Anki N1 1132 | [胴](entries/1454/1454010-dou.org) | どう | 1454010 | new / draft |
+| Open Anki N1 1133 | [同意](entries/1451/1451850-doui.org) | どうい | 1451850 | new / draft |
+| Open Anki N1 1135 | [同感](entries/1452/1452020-doukan.org) | どうかん | 1452020 | new / draft |
+| Open Anki N1 1136 | [陶器](entries/1450/1450610-touki.org) | とうき | 1450610 | new / draft |
+| Open Anki N1 1137 | [討議](entries/1449/1449960-tougi.org) | とうぎ | 1449960 | new / draft |
+
+| Open Anki N1 1139 | [等級](entries/1449/1449410-toukyuu.org) | とうきゅう | 1449410 | new / draft |
+| Open Anki N1 1140 | [同級](entries/1452/1452110-doukyuu.org) | どうきゅう | 1452110 | new / draft |
+| Open Anki N1 1141 | [同居](entries/1452/1452130-doukyo.org) | どうきょ | 1452130 | new / draft |
+| Open Anki N1 1142 | [登校](entries/1444/1444760-toukou.org) | とうこう | 1444760 | new / draft |
+| Open Anki N1 1147 | [道場](entries/1454/1454220-doujou.org) | どうじょう | 1454220 | new / draft |
+| Open Anki N1 1148 | [統制](entries/1449/1449820-tousei.org) | とうせい | 1449820 | new / draft |
+| Open Anki N1 1149 | [当選](entries/1449/1449180-tousen.org) | とうせん | 1449180 | new / draft |
+| Open Anki N1 1150 | [逃走](entries/1450/1450450-tousou.org) | とうそう | 1450450 | new / draft |
+| Open Anki N1 1151 | [統率](entries/1449/1449840-tousotsu.org) | とうそつ | 1449840 | new / draft |
+| Open Anki N1 1152 | [到達](entries/1449/1449860-toutatsu.org) | とうたつ | 1449860 | new / draft |
+
+| Open Anki N1 1153 | [統治](entries/1449/1449790-touchi.org) | とうち | 1449790 | new / draft |
+| Open Anki N1 1154 | [仕切る](entries/1305/1305180-shikiru.org) | しきる | 1305180 | new / draft |
+| Open Anki N1 1155 | [資金](entries/1312/1312700-shikin.org) | しきん | 1312700 | new / draft |
+| Open Anki N1 1156 | [軸](entries/1319/1319180-jiku.org) | じく | 1319180 | new / draft |
+| Open Anki N1 1162 | [思考](entries/1309/1309530-shikou.org) | しこう | 1309530 | new / draft |
+| Open Anki N1 1163 | [志向](entries/1309/1309110-shikou.org) | しこう | 1309110 | new / draft |
+| Open Anki N1 1164 | [嗜好](entries/1565/1565500-shikou.org) | しこう | 1565500 | new / draft |
+| Open Anki N1 1166 | [時刻表](entries/1316/1316230-jikokuhyou.org) | じこくひょう | 1316230 | new / draft |
+| Open Anki N1 1168 | [時差](entries/1316/1316240-jisa.org) | じさ | 1316240 | new / draft |
+| Open Anki N1 1169 | [自在](entries/1317/1317750-jizai.org) | じざい | 1317750 | new / draft |
+
+| Open Anki N1 1170 | [視察](entries/1312/1312040-shisatsu.org) | しさつ | 1312040 | new / draft |
+| Open Anki N1 1173 | [自主](entries/1317/1317860-jishu.org) | じしゅ | 1317860 | new / draft |
+| Open Anki N1 1174 | [自首](entries/1317/1317890-jishu.org) | じしゅ | 1317890 | new / draft |
+| Open Anki N1 1177 | [辞職](entries/1318/1318980-jishoku.org) | じしょく | 1318980 | new / draft |
+| Open Anki N1 1178 | [雫](entries/1437/1437210-shizuku.org) | しずく | 1437210 | new / draft |
+| Open Anki N1 1180 | [沈める](entries/1431/1431680-shizumeru.org) | しずめる | 1431680 | new / draft |
+| Open Anki N1 1182 | [事前](entries/1314/1314050-jizen.org) | じぜん | 1314050 | new / draft |
+| Open Anki N1 1183 | [子息](entries/1307/1307980-shisoku.org) | しそく | 1307980 | new / draft |
+| Open Anki N1 1184 | [持続](entries/1315/1315810-jizoku.org) | じぞく | 1315810 | new / draft |
+| Open Anki N1 1187 | [下心](entries/1185/1185450-shitagokoro.org) | したごころ | 1185450 | new / draft |
+
+| Open Anki N1 1188 | [下地](entries/1185/1185920-shitaji.org) | したじ | 1185920 | new / draft |
+| Open Anki N1 1189 | [親しむ](entries/1365/1365070-shitashimu.org) | したしむ | 1365070 | new / draft |
+| Open Anki N1 1190 | [下調べ](entries/1185/1185970-shitashirabe.org) | したしらべ | 1185970 | new / draft |
+| Open Anki N1 1191 | [愛想](entries/1575/1575660-aiso.org) | あいそう | 1575660 | new / draft |
+| Open Anki N1 1192 | [間柄](entries/1215/1215660-aidagara.org) | あいだがら | 1215660 | new / draft |
+| Open Anki N1 1196 | [垢](entries/1277/1277420-aka.org) | あか | 1277420 | new / draft |
+| Open Anki N1 1198 | [明かす](entries/1532/1532220-akasu.org) | あかす | 1532220 | new / draft |
+| Open Anki N1 1199 | [赤らむ](entries/1383/1383280-akaramu.org) | あからむ | 1383280 | new / draft |
+| Open Anki N1 1200 | [上がり](entries/1352/1352190-agari.org) | あがり | 1352190 | new / draft |
+| Open Anki N1 1201 | [諦め](entries/1436/1436720-akirame.org) | あきらめ | 1436720 | new / draft |
+
+| Open Anki N1 1204 | [顎](entries/1207/1207560-ago.org) | あご | 1207560 | new / draft |
+| Open Anki N1 1205 | [憧れ](entries/1453/1453800-akogare.org) | あこがれ | 1453800 | new / draft |
+| Open Anki N1 1206 | [麻](entries/1524/1524290-asa.org) | あさ | 1524290 | new / draft |
+| Open Anki N1 1208 | [浅ましい](entries/1390/1390810-asamashii.org) | あさましい | 1390810 | new / draft |
+| Open Anki N1 1211 | [嘲笑う](entries/1565/1565610-azawarau.org) | あざわらう | 1565610 | new / draft |
+| Open Anki N1 1212 | [悪しからず](entries/1151/1151300-ashikarazu.org) | あしからず | 1151300 | new / draft |
+| Open Anki N1 1213 | [味わい](entries/1527/1527000-ajiwai.org) | あじわい | 1527000 | new / draft |
+| Open Anki N1 1214 | [焦る](entries/1350/1350780-aseru.org) | あせる | 1350780 | new / draft |
+| Open Anki N1 1218 | [悪化](entries/1151/1151470-akka.org) | あっか | 1151470 | new / draft |
+| Open Anki N1 1219 | [扱い](entries/1153/1153430-atsukai.org) | あつかい | 1153430 | new / draft |
+
+| Open Anki N1 1220 | [呆気ない](entries/1515/1515600-akkenai.org) | あっけない | 1515600 | new / draft |
+| Open Anki N1 1223 | [圧倒](entries/1153/1153260-attou.org) | あっとう | 1153260 | new / draft |
+| Open Anki N1 1227 | [当て](entries/1448/1448820-ate.org) | あて | 1448820 | new / draft |
+| Open Anki N1 1229 | [当て字](entries/1448/1448890-ateji.org) | あてじ | 1448890 | new / draft |
+| Open Anki N1 1230 | [跡継ぎ](entries/1383/1383690-atotsugi.org) | あとつぎ | 1383690 | new / draft |
+| Open Anki N1 1232 | [油絵](entries/1538/1538630-aburae.org) | あぶらえ | 1538630 | new / draft |
+| Open Anki N1 1236 | [雨具](entries/1171/1171940-amagu.org) | あまぐ | 1171940 | new / draft |
+| Open Anki N1 1237 | [甘口](entries/1213/1213510-amakuchi.org) | あまくち | 1213510 | new / draft |
+| Open Anki N1 1239 | [網](entries/1534/1534380-ami.org) | あみ | 1534380 | new / draft |
+| Open Anki N1 1241 | [危ぶむ](entries/1218/1218410-ayabumu.org) | あやぶむ | 1218410 | new / draft |
+
+| Open Anki N1 1243 | [過ち](entries/1196/1196010-ayamachi.org) | あやまち | 1196010 | new / draft |
+| Open Anki N1 1245 | [歩み](entries/1514/1514330-ayumi.org) | あゆみ | 1514330 | new / draft |
+| Open Anki N1 1246 | [歩む](entries/1514/1514360-ayumu.org) | あゆむ | 1514360 | new / draft |
+| Open Anki N1 1248 | [荒らす](entries/1281/1281480-arasu.org) | あらす | 1281480 | new / draft |
+| Open Anki N1 1249 | [争い](entries/1400/1400560-arasoi.org) | あらそい | 1400560 | new / draft |
+| Open Anki N1 1250 | [改まる](entries/1200/1200730-aratamaru.org) | あらたまる | 1200730 | new / draft |
+| Open Anki N1 1253 | [霰](entries/1574/1574100-arare.org) | あられ | 1574100 | new / draft |
+| Open Anki N1 1254 | [有り様](entries/1541/1541060-arisama.org) | ありさま | 1541060 | new / draft |
+| Open Anki N1 1260 | [合わす](entries/1284/1284460-awasu.org) | あわす | 1284460 | new / draft |
+| Open Anki N1 1263 | [暗殺](entries/1154/1154520-ansatsu.org) | あんさつ | 1154520 | new / draft |
+
+| Open Anki N1 1264 | [暗算](entries/1154/1154540-anzan.org) | あんざん | 1154540 | new / draft |
+| Open Anki N1 1265 | [暗示](entries/1154/1154550-anji.org) | あんじ | 1154550 | new / draft |
+| Open Anki N1 1266 | [案じる](entries/1154/1154780-anjiru.org) | あんじる | 1154780 | new / draft |
+| Open Anki N1 1267 | [安静](entries/1153/1153910-ansei.org) | あんせい | 1153910 | new / draft |
+| Open Anki N1 1269 | [いい加減](entries/1277/1277440-iikagen.org) | いいかげん | 1277440 | new / draft |
+| Open Anki N1 1272 | [家出](entries/1192/1192030-iede.org) | いえで | 1192030 | new / draft |
+| Open Anki N1 1278 | [行き違い](entries/1578/1578800-ikichigai.org) | いきちがい | 1578800 | new / draft |
+| Open Anki N1 1279 | [意気込む](entries/1156/1156450-ikigomu.org) | いきごむ | 1156450 | new / draft |
+| Open Anki N1 1280 | [育成](entries/1587/1587150-ikusei.org) | いくせい | 1587150 | new / draft |
+| Open Anki N1 1281 | [幾多](entries/1220/1220040-ikuta.org) | いくた | 1220040 | new / draft |
+
+| Open Anki N1 1283 | [異見](entries/1157/1157640-iken.org) | いけん | 1157640 | new / draft |
+| Open Anki N1 1287 | [移住](entries/1158/1158280-ijuu.org) | いじゅう | 1158280 | new / draft |
+| Open Anki N1 1288 | [衣装](entries/1158/1158760-ishou.org) | いしょう | 1158760 | new / draft |
+| Open Anki N1 1290 | [異性](entries/1157/1157860-isei.org) | いせい | 1157860 | new / draft |
+| Open Anki N1 1296 | [出題](entries/1339/1339620-shutsudai.org) | しゅつだい | 1339620 | new / draft |
+| Open Anki N1 1297 | [出動](entries/1339/1339880-shutsudou.org) | しゅつどう | 1339880 | new / draft |
+| Open Anki N1 1299 | [出品](entries/1340/1340190-shuppin.org) | しゅっぴん | 1340190 | new / draft |
+| Open Anki N1 1301 | [主任](entries/1326/1326040-shunin.org) | しゅにん | 1326040 | new / draft |
+| Open Anki N1 1303 | [守備](entries/1327/1327180-shubi.org) | しゅび | 1327180 | new / draft |
+| Open Anki N1 1305 | [樹木](entries/1330/1330400-jumoku.org) | じゅもく | 1330400 | new / draft |
+
+| Open Anki N1 1306 | [樹立](entries/1330/1330410-juritsu.org) | じゅりつ | 1330410 | new / draft |
+| Open Anki N1 1307 | [準急](entries/1341/1341540-junkyuu.org) | じゅんきゅう | 1341540 | new / draft |
+| Open Anki N1 1308 | [準じる](entries/1341/1341510-junjiru.org) | じゅんじる | 1341510 | new / draft |
+| Open Anki N1 1313 | [上位](entries/1352/1352590-joui.org) | じょうい | 1352590 | new / draft |
+| Open Anki N1 1314 | [上演](entries/1352/1352670-jouen.org) | じょうえん | 1352670 | new / draft |
+| Open Anki N1 1315 | [城下](entries/1355/1355720-jouka.org) | じょうか | 1355720 | new / draft |
+| Open Anki N1 1317 | [上空](entries/1353/1353020-joukuu.org) | じょうくう | 1353020 | new / draft |
+| Open Anki N1 1319 | [証言](entries/1351/1351640-shougen.org) | しょうげん | 1351640 | new / draft |
+| Open Anki N1 1321 | [照合](entries/1350/1350920-shougou.org) | しょうごう | 1350920 | new / draft |
+| Open Anki N1 1322 | [詳細](entries/1351/1351760-shousai.org) | しょうさい | 1351760 | new / draft |
+
+| Open Anki N1 1323 | [上昇](entries/1353/1353450-joushou.org) | じょうしょう | 1353450 | new / draft |
+| Open Anki N1 1326 | [情勢](entries/1356/1356320-jousei.org) | じょうせい | 1356320 | new / draft |
+| Open Anki N1 1327 | [消息](entries/1350/1350250-shousoku.org) | しょうそく | 1350250 | new / draft |
+| Open Anki N1 1328 | [承諾](entries/1349/1349470-shoudaku.org) | しょうだく | 1349470 | new / draft |
+| Open Anki N1 1331 | [象徴](entries/1351/1351900-shouchou.org) | しょうちょう | 1351900 | new / draft |
+| Open Anki N1 1332 | [小児科](entries/1348/1348200-shounika.org) | しょうにか | 1348200 | new / draft |
+| Open Anki N1 1333 | [使用人](entries/1306/1306280-shiyounin.org) | しようにん | 1306280 | new / draft |
+| Open Anki N1 1338 | [上陸](entries/1354/1354480-jouriku.org) | じょうりく | 1354480 | new / draft |
+| Open Anki N1 1340 | [奨励](entries/1347/1347550-shourei.org) | しょうれい | 1347550 | new / draft |
+| Open Anki N1 1341 | [ショー](entries/1062/1062240-shoo.org) | ショー | 1062240 | new / draft |
+
+| Open Anki N1 1342 | [除外](entries/1345/1345650-jogai.org) | じょがい | 1345650 | new / draft |
+| Open Anki N1 1343 | [職員](entries/1357/1357490-shokuin.org) | しょくいん | 1357490 | new / draft |
+| Open Anki N1 1344 | [植民地](entries/1357/1357350-shokuminchi.org) | しょくみんち | 1357350 | new / draft |
+| Open Anki N1 1346 | [諸君](entries/1344/1344230-shokun.org) | しょくん | 1344230 | new / draft |
+| Open Anki N1 1347 | [助言](entries/1580/1580230-jogen.org) | じょげん | 1580230 | new / draft |
+| Open Anki N1 1348 | [徐行](entries/1345/1345590-jokou.org) | じょこう | 1345590 | new / draft |
+| Open Anki N1 1349 | [所在](entries/1343/1343210-shozai.org) | しょざい | 1343210 | new / draft |
+| Open Anki N1 1350 | [所持](entries/1343/1343250-shoji.org) | しょじ | 1343250 | new / draft |
+| Open Anki N1 1351 | [所属](entries/1343/1343310-shozoku.org) | しょぞく | 1343310 | new / draft |
+| Open Anki N1 1352 | [処置](entries/1342/1342470-shochi.org) | しょち | 1342470 | new / draft |
+
+| Open Anki N1 1353 | [しょっちゅう](entries/1005/1005710-shotchuu.org) | しょっちゅう | 1005710 | new / draft |
+| Open Anki N1 1354 | [所定](entries/1343/1343350-shotei.org) | しょてい | 1343350 | new / draft |
+| Open Anki N1 1356 | [処罰](entries/1342/1342480-shobatsu.org) | しょばつ | 1342480 | new / draft |
+| Open Anki N1 1357 | [初版](entries/1343/1343030-shohan.org) | しょはん | 1343030 | new / draft |
+| Open Anki N1 1358 | [書評](entries/1344/1344140-shohyou.org) | しょひょう | 1344140 | new / draft |
+| Open Anki N1 1360 | [庶民](entries/1343/1343560-shomin.org) | しょみん | 1343560 | new / draft |
+| Open Anki N1 1361 | [庶務](entries/1343/1343590-shomu.org) | しょむ | 1343590 | new / draft |
+| Open Anki N1 1362 | [所有](entries/1343/1343390-shoyuu.org) | しょゆう | 1343390 | new / draft |
+| Open Anki N1 1363 | [調べ](entries/1429/1429050-shirabe.org) | しらべ | 1429050 | new / draft |
+| Open Anki N1 1365 | [記す](entries/1223/1223140-shirusu.org) | しるす | 1223140 | new / draft |
+
+| Open Anki N1 1366 | [指令](entries/1310/1310060-shirei.org) | しれい | 1310060 | new / draft |
+| Open Anki N1 1368 | [陣](entries/1956/1956490-jin.org) | じん | 1956490 | new / draft |
+| Open Anki N1 1369 | [進化](entries/1366/1366000-shinka.org) | しんか | 1366000 | new / draft |
+| Open Anki N1 1371 | [審議](entries/1360/1360360-shingi.org) | しんぎ | 1360360 | new / draft |
+| Open Anki N1 1372 | [新婚](entries/1361/1361820-shinkon.org) | しんこん | 1361820 | new / draft |
+| Open Anki N1 1373 | [審査](entries/1360/1360380-shinsa.org) | しんさ | 1360380 | new / draft |
+| Open Anki N1 1375 | [紳士](entries/1364/1364950-shinshi.org) | しんし | 1364950 | new / draft |
+| Open Anki N1 1376 | [真実](entries/1363/1363780-shinjitsu.org) | しんじつ | 1363780 | new / draft |
+| Open Anki N1 1378 | [真珠](entries/1363/1363810-shinju.org) | しんじゅ | 1363810 | new / draft |
+| Open Anki N1 1379 | [進出](entries/1366/1366080-shinshutsu.org) | しんしゅつ | 1366080 | new / draft |
+
+| Open Anki N1 1380 | [心情](entries/1360/1360720-shinjou.org) | しんじょう | 1360720 | new / draft |
+| Open Anki N1 1383 | [親善](entries/1365/1365260-shinzen.org) | しんぜん | 1365260 | new / draft |
+| Open Anki N1 1384 | [真相](entries/1364/1364110-shinsou.org) | しんそう | 1364110 | new / draft |
+| Open Anki N1 1385 | [迅速](entries/1370/1370160-jinsoku.org) | じんそく | 1370160 | new / draft |
+| Open Anki N1 1386 | [人体](entries/1368/1368670-jintai.org) | じんたい | 1368670 | new / draft |
+| Open Anki N1 1388 | [心中](entries/1360/1360840-shinjuu.org) | しんじゅう | 1360840 | new / draft |
+| Open Anki N1 1389 | [進呈](entries/1366/1366150-shintei.org) | しんてい | 1366150 | new / draft |
+| Open Anki N1 1391 | [神殿](entries/1364/1364770-shinden.org) | しんでん | 1364770 | new / draft |
+| Open Anki N1 1392 | [進度](entries/1366/1366170-shindo.org) | しんど | 1366170 | new / draft |
+| Open Anki N1 1394 | [新入生](entries/1362/1362270-shinnyuusei.org) | しんにゅうせい | 1362270 | new / draft |
+
+| Open Anki N1 1395 | [信任](entries/1359/1359500-shinnin.org) | しんにん | 1359500 | new / draft |
+| Open Anki N1 1396 | [神秘](entries/1364/1364830-shinpi.org) | しんぴ | 1364830 | new / draft |
+| Open Anki N1 1398 | [人民](entries/1369/1369280-jinmin.org) | じんみん | 1369280 | new / draft |
+| Open Anki N1 1399 | [侵略](entries/1595/1595200-shinryaku.org) | しんりゃく | 1595200 | new / draft |
+| Open Anki N1 1400 | [診療](entries/1365/1365500-shinryou.org) | しんりょう | 1365500 | new / draft |
+| Open Anki N1 1401 | [粋](entries/2848/2848938-sui.org) | すい | 2848938 | new / draft |
+| Open Anki N1 1404 | [吹奏](entries/1370/1370790-suisou.org) | すいそう | 1370790 | new / draft |
+| Open Anki N1 1406 | [水田](entries/1371/1371890-suiden.org) | すいでん | 1371890 | new / draft |
+| Open Anki N1 1407 | [推理](entries/1371/1371220-suiri.org) | すいり | 1371220 | new / draft |
+| Open Anki N1 1408 | [数詞](entries/1373/1373050-suushi.org) | すうし | 1373050 | new / draft |
+
+| Open Anki N1 1410 | [据え付ける](entries/1373/1373500-suetsukeru.org) | すえつける | 1373500 | new / draft |
+| Open Anki N1 1413 | [救い](entries/1229/1229030-sukui.org) | すくい | 1229030 | new / draft |
+| Open Anki N1 1416 | [濯ぐ](entries/1581/1581550-susugu.org) | すすぐ | 1581550 | new / draft |
+| Open Anki N1 1417 | [進み](entries/1365/1365960-susumi.org) | すすみ | 1365960 | new / draft |
+| Open Anki N1 1419 | [スタジオ](entries/1069/1069590-sutajio.org) | スタジオ | 1069590 | new / draft |
+| Open Anki N1 1420 | [スチーム](entries/1070/1070050-suchiimu.org) | スチーム | 1070050 | new / draft |
+| Open Anki N1 1421 | [ストライキ](entries/1071/1071180-sutoraiki.org) | ストライキ | 1071180 | new / draft |
+| Open Anki N1 1422 | [スト](entries/1070/1070780-suto.org) | スト | 1070780 | new / draft |
+| Open Anki N1 1423 | [ストロー](entries/1071/1071540-sutoroo.org) | ストロー | 1071540 | new / draft |
+| Open Anki N1 1424 | [ストロボ](entries/1071/1071600-sutorobo.org) | ストロボ | 1071600 | new / draft |
+
+| Open Anki N1 1425 | [すばしこい](entries/1006/1006180-subashikkoi.org) | すばしこい | 1006180 | new / draft |
+| Open Anki N1 1427 | [ずばり](entries/1006/1006400-zubari.org) | ずばり | 1006400 | new / draft |
+| Open Anki N1 1428 | [スプリング](entries/1072/1072690-supuringu.org) | スプリング | 1072690 | new / draft |
+| Open Anki N1 1429 | [スペース](entries/1072/1072810-supeesu.org) | スペース | 1072810 | new / draft |
+| Open Anki N1 1431 | [スポーツカー](entries/1073/1073250-supootsukaa.org) | スポーツカー | 1073250 | new / draft |
+| Open Anki N1 1432 | [澄ます](entries/1373/1373650-sumasu.org) | すます | 1373650 | new / draft |
+| Open Anki N1 1434 | [済ます](entries/1295/1295030-sumasu.org) | すます | 1295030 | new / draft |
+| Open Anki N1 1436 | [スラックス](entries/1073/1073780-surakkusu.org) | スラックス | 1073780 | new / draft |
+| Open Anki N1 1437 | [ずらっと](entries/1006/1006430-zuratto.org) | ずらっと | 1006430 | new / draft |
+| Open Anki N1 1438 | [ずるずる](entries/1006/1006440-zuruzuru.org) | ずるずる | 1006440 | new / draft |
+
+| Open Anki N1 1439 | [ずれ](entries/1006/1006450-zure.org) | ずれ | 1006450 | new / draft |
+| Open Anki N1 1441 | [擦れる](entries/1595/1595930-sureru.org) | すれる | 1595930 | new / draft |
+| Open Anki N1 1442 | [すんなり](entries/1006/1006320-sunnari.org) | すんなり | 1006320 | new / draft |
+| Open Anki N1 1443 | [生育](entries/1378/1378800-seiiku.org) | せいいく | 1378800 | new / draft |
+| Open Anki N1 1444 | [成育](entries/1375/1375640-seiiku.org) | せいいく | 1375640 | new / draft |
+| Open Anki N1 1446 | [正解](entries/1376/1376740-seikai.org) | せいかい | 1376740 | new / draft |
+| Open Anki N1 1449 | [政権](entries/1375/1375930-seiken.org) | せいけん | 1375930 | new / draft |
+| Open Anki N1 1450 | [星座](entries/1376/1376360-seiza.org) | せいざ | 1376360 | new / draft |
+| Open Anki N1 1451 | [制裁](entries/1374/1374800-seisai.org) | せいさい | 1374800 | new / draft |
+| Open Anki N1 1454 | [静止](entries/1381/1381870-seishi.org) | せいし | 1381870 | new / draft |
+
+| Open Anki N1 1458 | [清純](entries/1378/1378230-seijun.org) | せいじゅん | 1378230 | new / draft |
+| Open Anki N1 1460 | [正常](entries/1377/1377390-seijou.org) | せいじょう | 1377390 | new / draft |
+| Open Anki N1 1461 | [制する](entries/1374/1374630-seisuru.org) | せいする | 1374630 | new / draft |
+| Open Anki N1 1462 | [整然](entries/1376/1376200-seizen.org) | せいぜん | 1376200 | new / draft |
+| Open Anki N1 1463 | [盛装](entries/1379/1379810-seisou.org) | せいそう | 1379810 | new / draft |
+| Open Anki N1 1464 | [盛大](entries/1379/1379820-seidai.org) | せいだい | 1379820 | new / draft |
+| Open Anki N1 1465 | [清濁](entries/1378/1378350-seidaku.org) | せいだく | 1378350 | new / draft |
+| Open Anki N1 1467 | [静的](entries/1381/1381940-seiteki.org) | せいてき | 1381940 | new / draft |
+| Open Anki N1 1468 | [製鉄](entries/1380/1380720-seitetsu.org) | せいてつ | 1380720 | new / draft |
+| Open Anki N1 1469 | [晴天](entries/1376/1376550-seiten.org) | せいてん | 1376550 | new / draft |
+
+| Open Anki N1 1471 | [制服](entries/1374/1374940-seifuku.org) | せいふく | 1374940 | new / draft |
+| Open Anki N1 1472 | [征服](entries/1375/1375230-seifuku.org) | せいふく | 1375230 | new / draft |
+| Open Anki N1 1473 | [製法](entries/1380/1380810-seihou.org) | せいほう | 1380810 | new / draft |
+| Open Anki N1 1474 | [精密](entries/1380/1380190-seimitsu.org) | せいみつ | 1380190 | new / draft |
+| Open Anki N1 1475 | [税務署](entries/1382/1382190-zeimusho.org) | ぜいむしょ | 1382190 | new / draft |
+| Open Anki N1 1477 | [勢力](entries/1375/1375150-seiryoku.org) | せいりょく | 1375150 | new / draft |
+| Open Anki N1 1478 | [整列](entries/1376/1376300-seiretsu.org) | せいれつ | 1376300 | new / draft |
+| Open Anki N1 1479 | [セール](entries/1074/1074330-seeru.org) | セール | 1074330 | new / draft |
+| Open Anki N1 1480 | [急かす](entries/1228/1228580-sekasu.org) | せかす | 1228580 | new / draft |
+| Open Anki N1 1481 | [伜](entries/1585/1585440-segare.org) | せがれ | 1585440 | new / draft |
+
+| Open Anki N1 1482 | [責務](entries/1383/1383230-sekimu.org) | せきむ | 1383230 | new / draft |
+| Open Anki N1 1483 | [セクション](entries/1074/1074490-sekushon.org) | セクション | 1074490 | new / draft |
+| Open Anki N1 1484 | [世辞](entries/1374/1374060-seji.org) | せじ | 1374060 | new / draft |
+| Open Anki N1 1488 | [切開](entries/1384/1384980-sekkai.org) | せっかい | 1384980 | new / draft |
+| Open Anki N1 1489 | [セックス](entries/1074/1074570-sekkusu.org) | セックス | 1074570 | new / draft |
+| Open Anki N1 1490 | [切実](entries/1385/1385050-setsujitsu.org) | せつじつ | 1385050 | new / draft |
+| Open Anki N1 1492 | [接続詞](entries/1385/1385510-setsuzokushi.org) | せつぞくし | 1385510 | new / draft |
+| Open Anki N1 1493 | [設置](entries/1386/1386050-setchi.org) | せっち | 1386050 | new / draft |
+| Open Anki N1 1494 | [折衷](entries/1385/1385960-setchuu.org) | せっちゅう | 1385960 | new / draft |
+| Open Anki N1 1498 | [絶版](entries/1386/1386940-zeppan.org) | ぜっぱん | 1386940 | new / draft |
+
+| Open Anki N1 1500 | [攻め](entries/1279/1279120-seme.org) | せめ | 1279120 | new / draft |
+| Open Anki N1 1501 | [ゼリー](entries/1075/1075190-zerii.org) | ゼリー | 1075190 | new / draft |
+| Open Anki N1 1502 | [セレモニー](entries/1074/1074930-seremonii.org) | セレモニー | 1074930 | new / draft |
+| Open Anki N1 1504 | [先](entries/1387/1387220-sen.org) | せん | 1387220 | new / draft |
+| Open Anki N1 1506 | [全快](entries/1394/1394940-zenkai.org) | ぜんかい | 1394940 | new / draft |
+| Open Anki N1 1507 | [宣教](entries/1389/1389660-senkyou.org) | せんきょう | 1389660 | new / draft |
+| Open Anki N1 1508 | [宣言](entries/1389/1389680-sengen.org) | せんげん | 1389680 | new / draft |
+| Open Anki N1 1509 | [戦災](entries/1390/1390230-sensai.org) | せんさい | 1390230 | new / draft |
+| Open Anki N1 1510 | [専修](entries/1389/1389790-senshuu.org) | せんしゅう | 1389790 | new / draft |
+| Open Anki N1 1511 | [戦術](entries/1390/1390280-senjutsu.org) | せんじゅつ | 1390280 | new / draft |
+
+| Open Anki N1 1512 | [センス](entries/1075/1075000-sensu.org) | センス | 1075000 | new / draft |
+| Open Anki N1 1513 | [潜水](entries/1391/1391330-sensui.org) | せんすい | 1391330 | new / draft |
+| Open Anki N1 1514 | [全盛](entries/1395/1395560-zensei.org) | ぜんせい | 1395560 | new / draft |
+| Open Anki N1 1515 | [先代](entries/1388/1388080-sendai.org) | せんだい | 1388080 | new / draft |
+| Open Anki N1 1516 | [先だって](entries/1388/1388100-sendatte.org) | せんだって | 1388100 | new / draft |
+| Open Anki N1 1517 | [先着](entries/1388/1388150-senchaku.org) | せんちゃく | 1388150 | new / draft |
+| Open Anki N1 1519 | [先天的](entries/1388/1388200-sententeki.org) | せんてんてき | 1388200 | new / draft |
+| Open Anki N1 1520 | [前途](entries/1393/1393750-zento.org) | ぜんと | 1393750 | new / draft |
+| Open Anki N1 1522 | [潜入](entries/1391/1391360-sennyuu.org) | せんにゅう | 1391360 | new / draft |
+| Open Anki N1 1523 | [船舶](entries/1392/1392080-senpaku.org) | せんぱく | 1392080 | new / draft |
+
+| Open Anki N1 1524 | [全滅](entries/1396/1396240-zenmetsu.org) | ぜんめつ | 1396240 | new / draft |
+| Open Anki N1 1525 | [専用](entries/1596/1596240-senyou.org) | せんよう | 1596240 | new / draft |
+| Open Anki N1 1526 | [占領](entries/1389/1389610-senryou.org) | せんりょう | 1389610 | new / draft |
+| Open Anki N1 1527 | [善良](entries/1394/1394560-zenryou.org) | ぜんりょう | 1394560 | new / draft |
+| Open Anki N1 1528 | [戦力](entries/1390/1390660-senryoku.org) | せんりょく | 1390660 | new / draft |
+| Open Anki N1 1529 | [前例](entries/1394/1394190-zenrei.org) | ぜんれい | 1394190 | new / draft |
+| Open Anki N1 1530 | [相応](entries/1400/1400840-souou.org) | そうおう | 1400840 | new / draft |
+| Open Anki N1 1532 | [創刊](entries/1398/1398320-soukan.org) | そうかん | 1398320 | new / draft |
+| Open Anki N1 1533 | [雑木](entries/1299/1299560-zouki.org) | ぞうき | 1299560 | new / draft |
+| Open Anki N1 1534 | [早急](entries/1581/1581270-soukyuu.org) | そうきゅう | 1581270 | new / draft |
+
+| Open Anki N1 1536 | [増強](entries/1403/1403190-zoukyou.org) | ぞうきょう | 1403190 | new / draft |
+| Open Anki N1 1537 | [送金](entries/1402/1402750-soukin.org) | そうきん | 1402750 | new / draft |
+| Open Anki N1 1538 | [走行](entries/1402/1402550-soukou.org) | そうこう | 1402550 | new / draft |
+| Open Anki N1 1539 | [総合](entries/1596/1596380-sougou.org) | そうごう | 1596380 | new / draft |
+| Open Anki N1 1541 | [蔵相](entries/1403/1403520-zoushou.org) | ぞうしょう | 1403520 | new / draft |
+| Open Anki N1 1542 | [装飾](entries/1402/1402340-soushoku.org) | そうしょく | 1402340 | new / draft |
+| Open Anki N1 1543 | [増進](entries/1403/1403270-zoushin.org) | ぞうしん | 1403270 | new / draft |
+| Open Anki N1 1544 | [相対](entries/1401/1401110-soutai.org) | そうたい | 1401110 | new / draft |
+| Open Anki N1 1546 | [騒動](entries/1403/1403080-soudou.org) | そうどう | 1403080 | new / draft |
+| Open Anki N1 1547 | [遭難](entries/1402/1402900-sounan.org) | そうなん | 1402900 | new / draft |
+
+| Open Anki N1 1549 | [装備](entries/1402/1402400-soubi.org) | そうび | 1402400 | new / draft |
+| Open Anki N1 1550 | [創立](entries/1398/1398640-souritsu.org) | そうりつ | 1398640 | new / draft |
+| Open Anki N1 1553 | [即座に](entries/1404/1404190-sokuzani.org) | そくざに | 1404190 | new / draft |
+| Open Anki N1 1555 | [即する](entries/1404/1404090-sokusuru.org) | そくする | 1404090 | new / draft |
+| Open Anki N1 1557 | [側面](entries/1404/1404040-sokumen.org) | そくめん | 1404040 | new / draft |
+| Open Anki N1 1561 | [阻止](entries/1397/1397820-soshi.org) | そし | 1397820 | new / draft |
+| Open Anki N1 1563 | [育ち](entries/1160/1160520-sodachi.org) | そだち | 1160520 | new / draft |
+| Open Anki N1 1564 | [措置](entries/1396/1396530-sochi.org) | そち | 1396530 | new / draft |
+| Open Anki N1 1565 | [ソックス](entries/1075/1075420-sokkusu.org) | ソックス | 1075420 | new / draft |
+| Open Anki N1 1566 | [素っ気無い](entries/1596/1596550-sokkenai.org) | そっけない | 1596550 | new / draft |
+
+| Open Anki N1 1567 | [外方](entries/1204/1204110-soppo.org) | そっぽ | 1204110 | new / draft |
+| Open Anki N1 1568 | [備え付ける](entries/1485/1485650-sonaetsukeru.org) | そなえつける | 1485650 | new / draft |
+| Open Anki N1 1571 | [聳える](entries/1570/1570770-sobieru.org) | そびえる | 1570770 | new / draft |
+| Open Anki N1 1578 | [反る](entries/1480/1480170-soru.org) | そる | 1480170 | new / draft |
+| Open Anki N1 1580 | [ソロ](entries/1075/1075630-soro.org) | ソロ | 1075630 | new / draft |
+| Open Anki N1 1581 | [揃い](entries/1406/1406100-soroi.org) | そろい | 1406100 | new / draft |
+| Open Anki N1 1582 | [ぞんざい](entries/1007/1007170-zonzai.org) | ぞんざい | 1007170 | new / draft |
+| Open Anki N1 1584 | [存続](entries/1406/1406190-sonzoku.org) | そんぞく | 1406190 | new / draft |
+| Open Anki N1 1585 | [ダース](entries/1076/1076650-daasu.org) | ダース | 1076650 | new / draft |
+| Open Anki N1 1587 | [大家](entries/1413/1413150-taika.org) | たいか | 1413150 | new / draft |
+
+| Open Anki N1 1588 | [退化](entries/1411/1411320-taika.org) | たいか | 1411320 | new / draft |
+| Open Anki N1 1589 | [大概](entries/1413/1413230-taigai.org) | たいがい | 1413230 | new / draft |
+| Open Anki N1 1590 | [体格](entries/1409/1409310-taikaku.org) | たいかく | 1409310 | new / draft |
+| Open Anki N1 1592 | [待遇](entries/1410/1410610-taiguu.org) | たいぐう | 1410610 | new / draft |
+| Open Anki N1 1593 | [対決](entries/1410/1410000-taiketsu.org) | たいけつ | 1410000 | new / draft |
+| Open Anki N1 1595 | [対抗](entries/1410/1410020-taikou.org) | たいこう | 1410020 | new / draft |
+| Open Anki N1 1596 | [退治](entries/1411/1411390-taiji.org) | たいじ | 1411390 | new / draft |
+| Open Anki N1 1597 | [大衆](entries/1414/1414050-taishuu.org) | たいしゅう | 1414050 | new / draft |
+| Open Anki N1 1600 | [題する](entries/1983/1983720-daisuru.org) | だいする | 1983720 | new / draft |
+| Open Anki N1 1602 | [対談](entries/1410/1410230-taidan.org) | たいだん | 1410230 | new / draft |
+
+| Open Anki N1 1605 | [対等](entries/1410/1410250-taitou.org) | たいとう | 1410250 | new / draft |
+| Open Anki N1 1607 | [滞納](entries/1410/1410940-tainou.org) | たいのう | 1410940 | new / draft |
+| Open Anki N1 1608 | [対比](entries/1410/1410260-taihi.org) | たいひ | 1410260 | new / draft |
+| Open Anki N1 1609 | [タイピスト](entries/1075/1075920-taipisuto.org) | タイピスト | 1075920 | new / draft |
+| Open Anki N1 1610 | [大部](entries/1414/1414830-taibu.org) | たいぶ | 1414830 | new / draft |
+| Open Anki N1 1611 | [大便](entries/1415/1415010-daiben.org) | だいべん | 1415010 | new / draft |
+| Open Anki N1 1612 | [代弁](entries/1412/1412300-daiben.org) | だいべん | 1412300 | new / draft |
+| Open Anki N1 1613 | [待望](entries/1410/1410650-taibou.org) | たいぼう | 1410650 | new / draft |
+| Open Anki N1 1614 | [台本](entries/1412/1412760-daihon.org) | だいほん | 1412760 | new / draft |
+| Open Anki N1 1615 | [タイマー](entries/1075/1075990-taimaa.org) | タイマー | 1075990 | new / draft |
+
+| Open Anki N1 1616 | [怠慢](entries/1410/1410740-taiman.org) | たいまん | 1410740 | new / draft |
+| Open Anki N1 1617 | [タイミング](entries/1076/1076000-taimingu.org) | タイミング | 1076000 | new / draft |
+| Open Anki N1 1619 | [タイムリー](entries/1076/1076090-taimurii.org) | タイムリー | 1076090 | new / draft |
+| Open Anki N1 1620 | [対面](entries/1410/1410270-taimen.org) | たいめん | 1410270 | new / draft |
+| Open Anki N1 1621 | [代用](entries/1412/1412360-daiyou.org) | だいよう | 1412360 | new / draft |
+| Open Anki N1 1623 | [タイル](entries/1076/1076130-tairu.org) | タイル | 1076130 | new / draft |
+| Open Anki N1 1624 | [対話](entries/1410/1410300-taiwa.org) | たいわ | 1410300 | new / draft |
+| Open Anki N1 1629 | [打開](entries/1408/1408850-dakai.org) | だかい | 1408850 | new / draft |
+| Open Anki N1 1630 | [焚火](entries/1504/1504680-takibi.org) | たきび | 1504680 | new / draft |
+| Open Anki N1 1635 | [打撃](entries/1408/1408870-dageki.org) | だげき | 1408870 | new / draft |
+
+| Open Anki N1 1636 | [妥結](entries/1408/1408530-daketsu.org) | だけつ | 1408530 | new / draft |
+| Open Anki N1 1637 | [駄作](entries/1409/1409040-dasaku.org) | ださく | 1409040 | new / draft |
+| Open Anki N1 1638 | [足し算](entries/1404/1404680-tashizan.org) | たしざん | 1404680 | new / draft |
+| Open Anki N1 1639 | [多数決](entries/1407/1407870-tasuuketsu.org) | たすうけつ | 1407870 | new / draft |
+| Open Anki N1 1640 | [助け](entries/1344/1344390-tasuke.org) | たすけ | 1344390 | new / draft |
+| Open Anki N1 1643 | [立ち去る](entries/1551/1551310-tachisaru.org) | たちさる | 1551310 | new / draft |
+| Open Anki N1 1645 | [抱っこ](entries/1516/1516410-dakko.org) | だっこ | 1516410 | new / draft |
+| Open Anki N1 1646 | [達者](entries/1416/1416240-tassha.org) | たっしゃ | 1416240 | new / draft |
+| Open Anki N1 1647 | [脱出](entries/1416/1416520-dasshutsu.org) | だっしゅつ | 1416520 | new / draft |
+| Open Anki N1 1648 | [脱する](entries/1416/1416420-dassuru.org) | だっする | 1416420 | new / draft |
+
+| Open Anki N1 1650 | [脱退](entries/1416/1416570-dattai.org) | だったい | 1416570 | new / draft |
+| Open Anki N1 1651 | [だったら](entries/1007/1007400-dattara.org) | だったら | 1007400 | new / draft |
+| Open Anki N1 1653 | [建前](entries/1597/1597110-tatemae.org) | たてまえ | 1597110 | new / draft |
+| Open Anki N1 1654 | [奉る](entries/1584/1584070-tatematsuru.org) | たてまつる | 1584070 | new / draft |
+| Open Anki N1 1656 | [他動詞](entries/1407/1407290-tadoushi.org) | たどうし | 1407290 | new / draft |
+| Open Anki N1 1657 | [辿り着く](entries/1416/1416680-tadoritsuku.org) | たどりつく | 1416680 | new / draft |
+| Open Anki N1 1658 | [辿る](entries/1416/1416690-tadoru.org) | たどる | 1416690 | new / draft |
+| Open Anki N1 1660 | [だぶだぶ](entries/1007/1007430-dabudabu.org) | だぶだぶ | 1007430 | new / draft |
+| Open Anki N1 1662 | [多忙](entries/1408/1408040-tabou.org) | たぼう | 1408040 | new / draft |
+| Open Anki N1 1663 | [給う](entries/1230/1230220-tamau.org) | たまう | 1230220 | new / draft |
+
+| Open Anki N1 1665 | [溜まり](entries/1552/1552620-tamari.org) | たまり | 1552620 | new / draft |
+| Open Anki N1 1666 | [賜る](entries/1312/1312860-tamawaru.org) | たまわる | 1312860 | new / draft |
+| Open Anki N1 1669 | [多様](entries/1408/1408100-tayou.org) | たよう | 1408100 | new / draft |
+| Open Anki N1 1671 | [弛み](entries/1421/1421570-tarumi.org) | たるみ | 1421570 | new / draft |
+| Open Anki N1 1672 | [弛む](entries/1421/1421580-tarumu.org) | たるむ | 1421580 | new / draft |
+| Open Anki N1 1673 | [垂れる](entries/1370/1370870-tareru.org) | たれる | 1370870 | new / draft |
+| Open Anki N1 1674 | [タレント](entries/1076/1076460-tarento.org) | タレント | 1076460 | new / draft |
+| Open Anki N1 1675 | [タワー](entries/1076/1076470-tawaa.org) | タワー | 1076470 | new / draft |
+| Open Anki N1 1676 | [単一](entries/1417/1417100-tanitsu.org) | たんいつ | 1417100 | new / draft |
+| Open Anki N1 1678 | [担架](entries/1418/1418150-tanka.org) | たんか | 1418150 | new / draft |
+
+| Open Anki N1 1680 | [団結](entries/1419/1419230-danketsu.org) | だんけつ | 1419230 | new / draft |
+| Open Anki N1 1681 | [探検](entries/1597/1597250-tanken.org) | たんけん | 1597250 | new / draft |
+| Open Anki N1 1682 | [断言](entries/1419/1419590-dangen.org) | だんげん | 1419590 | new / draft |
+| Open Anki N1 1683 | [短縮](entries/1418/1418740-tanshuku.org) | たんしゅく | 1418740 | new / draft |
+| Open Anki N1 1685 | [炭素](entries/1418/1418570-tanso.org) | たんそ | 1418570 | new / draft |
+| Open Anki N1 1686 | [短大](entries/1418/1418780-tandai.org) | たんだい | 1418780 | new / draft |
+| Open Anki N1 1687 | [単調](entries/1417/1417760-tanchou.org) | たんちょう | 1417760 | new / draft |
+| Open Anki N1 1688 | [単独](entries/1417/1417780-tandoku.org) | たんどく | 1417780 | new / draft |
+| Open Anki N1 1689 | [旦那](entries/1418/1418410-danna.org) | だんな | 1418410 | new / draft |
+| Open Anki N1 1690 | [短波](entries/1418/1418810-tanpa.org) | たんぱ | 1418810 | new / draft |
+
+| Open Anki N1 1691 | [蛋白質](entries/1419/1419070-tanpakushitsu.org) | たんぱくしつ | 1419070 | new / draft |
+| Open Anki N1 1692 | [ダンプ](entries/1077/1077290-danpu.org) | ダンプ | 1077290 | new / draft |
+| Open Anki N1 1694 | [弾力](entries/1419/1419530-danryoku.org) | だんりょく | 1419530 | new / draft |
+| Open Anki N1 1695 | [治安](entries/1316/1316840-chian.org) | ちあん | 1316840 | new / draft |
+| Open Anki N1 1696 | [チームワーク](entries/1077/1077370-chiimuwaaku.org) | チームワーク | 1077370 | new / draft |
+| Open Anki N1 1697 | [チェンジ](entries/1077/1077650-chenji.org) | チェンジ | 1077650 | new / draft |
+| Open Anki N1 1698 | [違える](entries/1158/1158890-chigaeru.org) | ちがえる | 1158890 | new / draft |
+| Open Anki N1 1700 | [畜生](entries/1422/1422200-chikushou.org) | ちくしょう | 1422200 | new / draft |
+| Open Anki N1 1702 | [地形](entries/1421/1421030-chikei.org) | ちけい | 1421030 | new / draft |
+| Open Anki N1 1704 | [乳](entries/1464/1464980-chichi.org) | ちち | 1464980 | new / draft |
+
+| Open Anki N1 1707 | [窒息](entries/1422/1422540-chissoku.org) | ちっそく | 1422540 | new / draft |
+| Open Anki N1 1708 | [知的](entries/1420/1420650-chiteki.org) | ちてき | 1420650 | new / draft |
+| Open Anki N1 1710 | [着色](entries/1423/1423090-chakushoku.org) | ちゃくしょく | 1423090 | new / draft |
+| Open Anki N1 1711 | [着席](entries/1423/1423130-chakuseki.org) | ちゃくせき | 1423130 | new / draft |
+| Open Anki N1 1712 | [着目](entries/1423/1423260-chakumoku.org) | ちゃくもく | 1423260 | new / draft |
+| Open Anki N1 1713 | [着陸](entries/1423/1423280-chakuriku.org) | ちゃくりく | 1423280 | new / draft |
+| Open Anki N1 1715 | [茶の間](entries/1422/1422600-chanoma.org) | ちゃのま | 1422600 | new / draft |
+| Open Anki N1 1716 | [茶の湯](entries/1422/1422610-chanoyu.org) | ちゃのゆ | 1422610 | new / draft |
+| Open Anki N1 1717 | [ちやほや](entries/1007/1007620-chiyahoya.org) | ちやほや | 1007620 | new / draft |
+| Open Anki N1 1718 | [チャンネル](entries/1077/1077960-channeru.org) | チャンネル | 1077960 | new / draft |
+
+| Open Anki N1 1719 | [宙返り](entries/1426/1426110-chuugaeri.org) | ちゅうがえり | 1426110 | new / draft |
+| Open Anki N1 1723 | [中枢](entries/1424/1424660-chuusuu.org) | ちゅうすう | 1424660 | new / draft |
+| Open Anki N1 1726 | [中毒](entries/1425/1425160-chuudoku.org) | ちゅうどく | 1425160 | new / draft |
+| Open Anki N1 1727 | [中腹](entries/1425/1425440-chuufuku.org) | ちゅうふく | 1425440 | new / draft |
+| Open Anki N1 1728 | [中立](entries/1425/1425540-chuuritsu.org) | ちゅうりつ | 1425540 | new / draft |
+| Open Anki N1 1729 | [中和](entries/1425/1425670-chuuwa.org) | ちゅうわ | 1425670 | new / draft |
+| Open Anki N1 1731 | [腸](entries/1428/1428960-chou.org) | ちょう | 1428960 | new / draft |
+| Open Anki N1 1732 | [蝶](entries/1429/1429010-chou.org) | ちょう | 1429010 | new / draft |
+| Open Anki N1 1734 | [調印](entries/1429/1429080-chouin.org) | ちょういん | 1429080 | new / draft |
+| Open Anki N1 1735 | [聴覚](entries/1428/1428880-choukaku.org) | ちょうかく | 1428880 | new / draft |
+
+| Open Anki N1 1736 | [長官](entries/1429/1429820-choukan.org) | ちょうかん | 1429820 | new / draft |
+| Open Anki N1 1737 | [聴講](entries/1428/1428890-choukou.org) | ちょうこう | 1428890 | new / draft |
+| Open Anki N1 1739 | [聴診器](entries/1428/1428920-choushinki.org) | ちょうしんき | 1428920 | new / draft |
+| Open Anki N1 1741 | [重複](entries/1579/1579980-choufuku.org) | ちょうふく | 1579980 | new / draft |
+| Open Anki N1 1742 | [長編](entries/1430/1430110-chouhen.org) | ちょうへん | 1430110 | new / draft |
+| Open Anki N1 1743 | [重宝](entries/1579/1579990-chouhou.org) | ちょうほう | 1579990 | new / draft |
+| Open Anki N1 1746 | [ちょくちょく](entries/1007/1007790-chokuchoku.org) | ちょくちょく | 1007790 | new / draft |
+| Open Anki N1 1747 | [直面](entries/1431/1431540-chokumen.org) | ちょくめん | 1431540 | new / draft |
+| Open Anki N1 1748 | [著書](entries/1427/1427140-chosho.org) | ちょしょ | 1427140 | new / draft |
+| Open Anki N1 1751 | [著名](entries/1427/1427150-chomei.org) | ちょめい | 1427150 | new / draft |
+
+| Open Anki N1 1752 | [ちらっと](entries/1007/1007920-chiratto.org) | ちらっと | 1007920 | new / draft |
+| Open Anki N1 1753 | [塵](entries/1369/1369910-chiri.org) | ちり | 1369910 | new / draft |
+| Open Anki N1 1754 | [塵取り](entries/1369/1369920-chiritori.org) | ちりとり | 1369920 | new / draft |
+| Open Anki N1 1757 | [沈没](entries/1431/1431800-chinbotsu.org) | ちんぼつ | 1431800 | new / draft |
+| Open Anki N1 1759 | [陳列](entries/1432/1432210-chinretsu.org) | ちんれつ | 1432210 | new / draft |
+| Open Anki N1 1760 | [追及](entries/1432/1432480-tsuikyuu.org) | ついきゅう | 1432480 | new / draft |
+| Open Anki N1 1761 | [追跡](entries/1432/1432560-tsuiseki.org) | ついせき | 1432560 | new / draft |
+| Open Anki N1 1762 | [追放](entries/1432/1432670-tsuihou.org) | ついほう | 1432670 | new / draft |
+| Open Anki N1 1764 | [墜落](entries/1432/1432240-tsuiraku.org) | ついらく | 1432240 | new / draft |
+| Open Anki N1 1765 | [痛感](entries/1432/1432760-tsuukan.org) | つうかん | 1432760 | new / draft |
+
+| Open Anki N1 1767 | [痛切](entries/1432/1432790-tsuusetsu.org) | つうせつ | 1432790 | new / draft |
+| Open Anki N1 1768 | [杖](entries/1356/1356620-tsue.org) | つえ | 1356620 | new / draft |
+| Open Anki N1 1769 | [使い道](entries/1305/1305900-tsukaimichi.org) | つかいみち | 1305900 | new / draft |
+| Open Anki N1 1771 | [司る](entries/1306/1306630-tsukasadoru.org) | つかさどる | 1306630 | new / draft |
+| Open Anki N1 1772 | [つかの間](entries/1404/1404490-tsukanoma.org) | つかのま | 1404490 | new / draft |
+| Open Anki N1 1773 | [月並](entries/1255/1255810-tsukinami.org) | つきなみ | 1255810 | new / draft |
+| Open Anki N1 1774 | [継目](entries/1251/1251860-tsugime.org) | つぎめ | 1251860 | new / draft |
+| Open Anki N1 1775 | [尽きる](entries/1370/1370070-tsukiru.org) | つきる | 1370070 | new / draft |
+| Open Anki N1 1778 | [作り](entries/1297/1297250-tsukuri.org) | つくり | 1297250 | new / draft |
+| Open Anki N1 1780 | [繕う](entries/1396/1396480-tsukurou.org) | つくろう | 1396480 | new / draft |
+
+| Open Anki N1 1781 | [付け加える](entries/1495/1495790-tsukekuwaeru.org) | つけくわえる | 1495790 | new / draft |
+| Open Anki N1 1784 | [筒](entries/1449/1449590-tsutsu.org) | つつ | 1449590 | new / draft |
+| Open Anki N1 1785 | [突く](entries/1456/1456895-tsutsuku.org) | つつく | 1456895 | new / draft |
+| Open Anki N1 1786 | [突っ突く](entries/1456/1456960-tsuttsuku.org) | つっつく | 1456960 | new / draft |
+| Open Anki N1 1787 | [謹む](entries/1598/1598000-tsutsushimu.org) | つつしむ | 1598000 | new / draft |
+| Open Anki N1 1788 | [突っ張る](entries/1610/1610410-tsupparu.org) | つっぱる | 1610410 | new / draft |
+| Open Anki N1 1789 | [務まる](entries/1240/1240800-tsutomaru.org) | つとまる | 1240800 | new / draft |
+| Open Anki N1 1790 | [勤め先](entries/1240/1240910-tsutomesaki.org) | つとめさき | 1240910 | new / draft |
+| Open Anki N1 1791 | [努めて](entries/1445/1445110-tsutomete.org) | つとめて | 1445110 | new / draft |
+| Open Anki N1 1796 | [唾](entries/1408/1408410-tsuba.org) | つば | 1408410 | new / draft |
+
+| Open Anki N1 1800 | [壷](entries/1433/1433870-tsubo.org) | つぼ | 1433870 | new / draft |
+| Open Anki N1 1801 | [蕾](entries/1571/1571800-tsubomi.org) | つぼみ | 1571800 | new / draft |
+| Open Anki N1 1802 | [連なる](entries/1559/1559240-tsuranaru.org) | つらなる | 1559240 | new / draft |
+| Open Anki N1 1803 | [貫く](entries/1215/1215070-tsuranuku.org) | つらぬく | 1215070 | new / draft |
+| Open Anki N1 1804 | [連ねる](entries/1559/1559250-tsuraneru.org) | つらねる | 1559250 | new / draft |
+| Open Anki N1 1805 | [釣り鐘](entries/1434/1434090-tsurigane.org) | つりがね | 1434090 | new / draft |
+| Open Anki N1 1806 | [吊り革](entries/1773/1773770-tsurikawa.org) | つりかわ | 1773770 | new / draft |
+| Open Anki N1 1810 | [提携](entries/1436/1436380-teikei.org) | ていけい | 1436380 | new / draft |
+| Open Anki N1 1811 | [体裁](entries/1409/1409480-teisai.org) | ていさい | 1409480 | new / draft |
+| Open Anki N1 1812 | [提示](entries/1436/1436400-teiji.org) | ていじ | 1436400 | new / draft |
+
+| Open Anki N1 1813 | [ティシュペーパー](entries/1079/1079110-tisshupeepaa.org) | ティシュペーパー | 1079110 | new / draft |
+| Open Anki N1 1814 | [定食](entries/1435/1435650-teishoku.org) | ていしょく | 1435650 | new / draft |
+| Open Anki N1 1816 | [停滞](entries/1435/1435010-teitai.org) | ていたい | 1435010 | new / draft |
+| Open Anki N1 1817 | [邸宅](entries/1436/1436820-teitaku.org) | ていたく | 1436820 | new / draft |
+| Open Anki N1 1820 | [手遅れ](entries/1328/1328120-teokure.org) | ておくれ | 1328120 | new / draft |
+| Open Anki N1 1821 | [でかい](entries/1008/1008370-dekai.org) | でかい | 1008370 | new / draft |
+| Open Anki N1 1822 | [手掛かり](entries/1598/1598300-tegakari.org) | てがかり | 1598300 | new / draft |
+| Open Anki N1 1823 | [手掛ける](entries/1327/1327390-tegakeru.org) | てがける | 1327390 | new / draft |
+| Open Anki N1 1824 | [手数](entries/1327/1327970-tesuu.org) | てかず | 1327970 | new / draft |
+| Open Anki N1 1827 | [適宜](entries/1437/1437380-tekigi.org) | てきぎ | 1437380 | new / draft |
+
+| Open Anki N1 1828 | [適性](entries/1437/1437410-tekisei.org) | てきせい | 1437410 | new / draft |
+| Open Anki N1 1830 | [手際](entries/1327/1327690-tegiwa.org) | てぎわ | 1327690 | new / draft |
+| Open Anki N1 1833 | [手錠](entries/1327/1327900-tejou.org) | てじょう | 1327900 | new / draft |
+| Open Anki N1 1835 | [デコレーション](entries/1082/1082810-dekoreeshon.org) | デコレーション | 1082810 | new / draft |
+| Open Anki N1 1836 | [手近](entries/1327/1327490-tejika.org) | てぢか | 1327490 | new / draft |
+| Open Anki N1 1837 | [てっきり](entries/1008/1008290-tekkiri.org) | てっきり | 1008290 | new / draft |
+| Open Anki N1 1838 | [鉄鋼](entries/1437/1437880-tekkou.org) | てっこう | 1437880 | new / draft |
+| Open Anki N1 1839 | [デッサン](entries/1083/1083290-dessan.org) | デッサン | 1083290 | new / draft |
+| Open Anki N1 1842 | [鉄棒](entries/1438/1438030-tetsubou.org) | てつぼう | 1438030 | new / draft |
+| Open Anki N1 1843 | [出直し](entries/1339/1339740-denaoshi.org) | でなおし | 1339740 | new / draft |
+
+| Open Anki N1 1844 | [掌](entries/1580/1580300-tenohira.org) | てのひら | 1580300 | new / draft |
+| Open Anki N1 1846 | [手筈](entries/1328/1328290-tehazu.org) | てはず | 1328290 | new / draft |
+| Open Anki N1 1847 | [手引](entries/1598/1598410-tebiki.org) | てびき | 1598410 | new / draft |
+| Open Anki N1 1849 | [手回し](entries/1327/1327380-temawashi.org) | てまわし | 1327380 | new / draft |
+| Open Anki N1 1850 | [手元](entries/1327/1327560-temoto.org) | てもと | 1327560 | new / draft |
+| Open Anki N1 1851 | [デモンストレーション](entries/1084/1084080-demonsutoreeshon.org) | デモンストレーション | 1084080 | new / draft |
+| Open Anki N1 1852 | [照り返す](entries/1350/1350850-terikaesu.org) | てりかえす | 1350850 | new / draft |
+| Open Anki N1 1853 | [テレックス](entries/1080/1080460-terekkusu.org) | テレックス | 1080460 | new / draft |
+| Open Anki N1 1854 | [手分け](entries/1328/1328340-tewake.org) | てわけ | 1328340 | new / draft |
+| Open Anki N1 1855 | [天](entries/1438/1438210-ten.org) | てん | 1438210 | new / draft |
+
+| Open Anki N1 1856 | [田園](entries/1442/1442740-denen.org) | でんえん | 1442740 | new / draft |
+| Open Anki N1 1857 | [天下](entries/1438/1438470-tenka.org) | てんか | 1438470 | new / draft |
+| Open Anki N1 1858 | [転回](entries/1441/1441070-tenkai.org) | てんかい | 1441070 | new / draft |
+| Open Anki N1 1859 | [連休](entries/1559/1559380-renkyuu.org) | れんきゅう | 1559380 | new / draft |
+| Open Anki N1 1860 | [レンジ](entries/1146/1146110-renji.org) | レンジ | 1146110 | new / draft |
+| Open Anki N1 1861 | [連日](entries/1559/1559720-renjitsu.org) | れんじつ | 1559720 | new / draft |
+| Open Anki N1 1862 | [連帯](entries/1559/1559660-rentai.org) | れんたい | 1559660 | new / draft |
+| Open Anki N1 1863 | [レンタカー](entries/1146/1146160-rentakaa.org) | レンタカー | 1146160 | new / draft |
+| Open Anki N1 1864 | [連中](entries/1559/1559700-renchuu.org) | れんちゅう | 1559700 | new / draft |
+| Open Anki N1 1865 | [レントゲン](entries/1146/1146230-rentogen.org) | レントゲン | 1146230 | new / draft |
+
+| Open Anki N1 1866 | [連邦](entries/1559/1559790-renpou.org) | れんぽう | 1559790 | new / draft |
+| Open Anki N1 1869 | [朗読](entries/1560/1560730-roudoku.org) | ろうどく | 1560730 | new / draft |
+| Open Anki N1 1871 | [労力](entries/1560/1560650-rouryoku.org) | ろうりょく | 1560650 | new / draft |
+| Open Anki N1 1872 | [ロープウエイ](entries/1146/1146760-roopuwei.org) | ロープウエイ | 1146760 | new / draft |
+| Open Anki N1 1873 | [ロープ](entries/1146/1146750-roopu.org) | ロープ | 1146750 | new / draft |
+| Open Anki N1 1876 | [ロマンチック](entries/1148/1148010-romanchikku.org) | ロマンチック | 1148010 | new / draft |
+| Open Anki N1 1877 | [論議](entries/1561/1561660-rongi.org) | ろんぎ | 1561660 | new / draft |
+| Open Anki N1 1879 | [惑星](entries/1562/1562600-wakusei.org) | わくせい | 1562600 | new / draft |
+| Open Anki N1 1883 | [渡り鳥](entries/1444/1444650-wataridori.org) | わたりどり | 1444650 | new / draft |
+| Open Anki N1 1884 | [ワット](entries/1149/1149070-watto.org) | ワット | 1149070 | new / draft |
+
+| Open Anki N1 1885 | [詫び](entries/1562/1562670-wabi.org) | わび | 1562670 | new / draft |
+| Open Anki N1 1886 | [和文](entries/1562/1562200-wabun.org) | わぶん | 1562200 | new / draft |
+| Open Anki N1 1889 | [割当](entries/1606/1606820-wariate.org) | わりあて | 1606820 | new / draft |
+| Open Anki N1 1890 | [割込む](entries/1606/1606870-warikomu.org) | わりこむ | 1606870 | new / draft |
+| Open Anki N1 1891 | [悪者](entries/1151/1151840-warumono.org) | わるもの | 1151840 | new / draft |
+| Open Anki N1 1892 | [我](entries/1196/1196670-ware.org) | われ | 1196670 | new / draft |
+| Open Anki N1 1893 | [捗る](entries/1430/1430570-hakadoru.org) | はかどる | 1430570 | new / draft |
+| Open Anki N1 1896 | [破棄](entries/1471/1471300-haki.org) | はき | 1471300 | new / draft |
+| Open Anki N1 1897 | [剥ぐ](entries/1582/1582990-hagu.org) | はぐ | 1582990 | new / draft |
+| Open Anki N1 1899 | [薄弱](entries/1475/1475590-hakujaku.org) | はくじゃく | 1475590 | new / draft |
+
+| Open Anki N1 1900 | [白状](entries/1475/1475230-hakujou.org) | はくじょう | 1475230 | new / draft |
+| Open Anki N1 1902 | [爆弾](entries/1475/1475870-bakudan.org) | ばくだん | 1475870 | new / draft |
+| Open Anki N1 1903 | [爆破](entries/1475/1475900-bakuha.org) | ばくは | 1475900 | new / draft |
+| Open Anki N1 1904 | [暴露](entries/1601/1601280-bakuro.org) | ばくろ | 1601280 | new / draft |
+| Open Anki N1 1907 | [剥げる](entries/1474/1474390-hageru.org) | はげる | 1474390 | new / draft |
+| Open Anki N1 1908 | [化ける](entries/1186/1186710-bakeru.org) | ばける | 1186710 | new / draft |
+| Open Anki N1 1912 | [パジャマ](entries/1101/1101430-pajama.org) | パジャマ | 1101430 | new / draft |
+| Open Anki N1 1913 | [恥じらう](entries/1421/1421600-hajirau.org) | はじらう | 1421600 | new / draft |
+| Open Anki N1 1915 | [橋渡し](entries/1237/1237440-hashiwatashi.org) | はしわたし | 1237440 | new / draft |
+| Open Anki N1 1917 | [破損](entries/1471/1471380-hason.org) | はそん | 1471380 | new / draft |
+
+| Open Anki N1 1918 | [叩く](entries/2829/2829135-hataku.org) | はたく | 2829135 | new / draft |
+| Open Anki N1 1919 | [裸足](entries/1547/1547660-hadashi.org) | はだし | 1547660 | new / draft |
+| Open Anki N1 1921 | [蜂蜜](entries/1517/1517860-hachimitsu.org) | はちみつ | 1517860 | new / draft |
+| Open Anki N1 1922 | [パチンコ](entries/1101/1101660-pachinko.org) | パチンコ | 1101660 | new / draft |
+| Open Anki N1 1924 | [発育](entries/1477/1477140-hatsuiku.org) | はついく | 1477140 | new / draft |
+| Open Anki N1 1925 | [発芽](entries/1477/1477190-hatsuga.org) | はつが | 1477190 | new / draft |
+| Open Anki N1 1926 | [発掘](entries/1477/1477290-hakkutsu.org) | はっくつ | 1477290 | new / draft |
+| Open Anki N1 1928 | [バッジ](entries/1099/1099110-bajji.org) | バッジ | 1099110 | new / draft |
+| Open Anki N1 1931 | [下取り](entries/1185/1185180-shitadori.org) | したどり | 1185180 | new / draft |
+| Open Anki N1 1932 | [下火](entries/1184/1184580-shitabi.org) | したび | 1184580 | new / draft |
+
+| Open Anki N1 1933 | [実](entries/1320/1320800-jitsu.org) | じつ | 1320800 | new / draft |
+| Open Anki N1 1934 | [実家](entries/1320/1320900-jikka.org) | じっか | 1320900 | new / draft |
+| Open Anki N1 1935 | [失格](entries/1319/1319820-shikkaku.org) | しっかく | 1319820 | new / draft |
+| Open Anki N1 1936 | [質疑](entries/1320/1320680-shitsugi.org) | しつぎ | 1320680 | new / draft |
+| Open Anki N1 1937 | [失脚](entries/1319/1319850-shikkyaku.org) | しっきゃく | 1319850 | new / draft |
+| Open Anki N1 1938 | [実業家](entries/1320/1320950-jitsugyouka.org) | じつぎょうか | 1320950 | new / draft |
+| Open Anki N1 1940 | [じっくり](entries/1005/1005860-jikkuri.org) | じっくり | 1005860 | new / draft |
+| Open Anki N1 1941 | [躾](entries/1573/1573410-shitsuke.org) | しつけ | 1573410 | new / draft |
+| Open Anki N1 1942 | [躾ける](entries/1573/1573420-shitsukeru.org) | しつける | 1573420 | new / draft |
+| Open Anki N1 1943 | [実践](entries/1321/1321260-jissen.org) | じっせん | 1321260 | new / draft |
+
+| Open Anki N1 1946 | [失調](entries/1320/1320080-shitchou.org) | しっちょう | 1320080 | new / draft |
+| Open Anki N1 1948 | [実費](entries/1321/1321410-jippi.org) | じっぴ | 1321410 | new / draft |
+| Open Anki N1 1950 | [自転](entries/1318/1318270-jiten.org) | じてん | 1318270 | new / draft |
+| Open Anki N1 1951 | [助動詞](entries/1344/1344750-jodoushi.org) | じょどうし | 1344750 | new / draft |
+| Open Anki N1 1952 | [淑やか](entries/1337/1337340-shitoyaka.org) | しとやか | 1337340 | new / draft |
+| Open Anki N1 1953 | [萎びる](entries/1158/1158680-shinabiru.org) | しなびる | 1158680 | new / draft |
+| Open Anki N1 1954 | [シナリオ](entries/1060/1060830-shinario.org) | シナリオ | 1060830 | new / draft |
+| Open Anki N1 1955 | [しなやか](entries/1566/1566110-shinayaka.org) | しなやか | 1566110 | new / draft |
+| Open Anki N1 1956 | [屎尿](entries/1566/1566370-shinyou.org) | しにょう | 1566370 | new / draft |
+| Open Anki N1 1957 | [地主](entries/1421/1421150-jinushi.org) | じぬし | 1421150 | new / draft |
+
+| Open Anki N1 1959 | [芝](entries/1321/1321610-shiba.org) | しば | 1321610 | new / draft |
+| Open Anki N1 1960 | [始発](entries/1307/1307610-shihatsu.org) | しはつ | 1307610 | new / draft |
+| Open Anki N1 1961 | [耳鼻科](entries/1317/1317310-jibika.org) | じびか | 1317310 | new / draft |
+| Open Anki N1 1962 | [私物](entries/1311/1311380-shibutsu.org) | しぶつ | 1311380 | new / draft |
+| Open Anki N1 1963 | [しぶとい](entries/1005/1005590-shibutoi.org) | しぶとい | 1005590 | new / draft |
+| Open Anki N1 1965 | [始末](entries/1307/1307620-shimatsu.org) | しまつ | 1307620 | new / draft |
+| Open Anki N1 1966 | [染みる](entries/1391/1391120-shimiru.org) | しみる | 1391120 | new / draft |
+| Open Anki N1 1970 | [弱](entries/1324/1324510-jaku.org) | じゃく | 1324510 | new / draft |
+| Open Anki N1 1971 | [社交](entries/1322/1322860-shakou.org) | しゃこう | 1322860 | new / draft |
+| Open Anki N1 1972 | [ジャズ](entries/1065/1065290-jazu.org) | ジャズ | 1065290 | new / draft |
+
+| Open Anki N1 1973 | [謝絶](entries/1323/1323050-shazetsu.org) | しゃぜつ | 1323050 | new / draft |
+| Open Anki N1 1974 | [社宅](entries/1322/1322900-shataku.org) | しゃたく | 1322900 | new / draft |
+| Open Anki N1 1977 | [斜面](entries/1322/1322470-shamen.org) | しゃめん | 1322470 | new / draft |
+| Open Anki N1 1978 | [砂利](entries/1291/1291660-jari.org) | じゃり | 1291660 | new / draft |
+| Open Anki N1 1979 | [洒落る](entries/1568/1568670-shareru.org) | しゃれる | 1568670 | new / draft |
+| Open Anki N1 1980 | [ジャンパー](entries/1065/1065840-janpaa.org) | ジャンパー | 1065840 | new / draft |
+| Open Anki N1 1981 | [ジャンプ](entries/1065/1065860-janpu.org) | ジャンプ | 1065860 | new / draft |
+| Open Anki N1 1982 | [ジャンボ](entries/1065/1065880-janbo.org) | ジャンボ | 1065880 | new / draft |
+| Open Anki N1 1983 | [ジャンル](entries/1065/1065920-janru.org) | ジャンル | 1065920 | new / draft |
+| Open Anki N1 1984 | [主](entries/1324/1324950-shu.org) | しゅ | 1324950 | new / draft |
+
+| Open Anki N1 1985 | [種](entries/1328/1328810-shu.org) | しゅ | 1328810 | new / draft |
+| Open Anki N1 1986 | [私有](entries/1311/1311390-shiyuu.org) | しゆう | 1311390 | new / draft |
+| Open Anki N1 1989 | [修学](entries/1331/1331950-shuugaku.org) | しゅうがく | 1331950 | new / draft |
+| Open Anki N1 1990 | [周期](entries/1331/1331090-shuuki.org) | しゅうき | 1331090 | new / draft |
+| Open Anki N1 1991 | [衆議院](entries/1333/1333260-shuugiin.org) | しゅうぎいん | 1333260 | new / draft |
+| Open Anki N1 1992 | [就業](entries/1331/1331590-shuugyou.org) | しゅうぎょう | 1331590 | new / draft |
+| Open Anki N1 1994 | [集計](entries/1333/1333640-shuukei.org) | しゅうけい | 1333640 | new / draft |
+| Open Anki N1 1995 | [襲撃](entries/1333/1333340-shuugeki.org) | しゅうげき | 1333340 | new / draft |
+| Open Anki N1 1997 | [終始](entries/1332/1332820-shuushi.org) | しゅうし | 1332820 | new / draft |
+| Open Anki N1 1998 | [修士](entries/1332/1332020-shuushi.org) | しゅうし | 1332020 | new / draft |
+
+| Open Anki N1 1999 | [従事](entries/1335/1335320-juuji.org) | じゅうじ | 1335320 | new / draft |
+| Open Anki N1 2000 | [終日](entries/1332/1332980-shuujitsu.org) | しゅうじつ | 1332980 | new / draft |
+| Open Anki N1 2003 | [十字路](entries/1334/1334750-juujiro.org) | じゅうじろ | 1334750 | new / draft |
+| Open Anki N1 2006 | [柔軟](entries/1335/1335480-juunan.org) | じゅうなん | 1335480 | new / draft |
+| Open Anki N1 2008 | [収容](entries/1330/1330880-shuuyou.org) | しゅうよう | 1330880 | new / draft |
+| Open Anki N1 2010 | [守衛](entries/1327/1327130-shuei.org) | しゅえい | 1327130 | new / draft |
+| Open Anki N1 2011 | [主演](entries/1325/1325050-shuen.org) | しゅえん | 1325050 | new / draft |
+| Open Anki N1 2014 | [塾](entries/1337/1337780-juku.org) | じゅく | 1337780 | new / draft |
+| Open Anki N1 2015 | [祝賀](entries/1337/1337410-shukuga.org) | しゅくが | 1337410 | new / draft |
+| Open Anki N1 2017 | [手芸](entries/1327/1327540-shugei.org) | しゅげい | 1327540 | new / draft |
+
+| Open Anki N1 2019 | [主催](entries/1325/1325450-shusai.org) | しゅさい | 1325450 | new / draft |
+| Open Anki N1 2022 | [種々](entries/1594/1594850-shuju.org) | しゅじゅ | 1594850 | new / draft |
+| Open Anki N1 2026 | [主題](entries/1325/1325870-shudai.org) | しゅだい | 1325870 | new / draft |
+| Open Anki N1 2027 | [出演](entries/1338/1338290-shutsuen.org) | しゅつえん | 1338290 | new / draft |
+| Open Anki N1 2028 | [出血](entries/1338/1338750-shukketsu.org) | しゅっけつ | 1338750 | new / draft |
+| Open Anki N1 2029 | [出現](entries/1338/1338820-shutsugen.org) | しゅつげん | 1338820 | new / draft |
+| Open Anki N1 2031 | [出社](entries/1339/1339150-shussha.org) | しゅっしゃ | 1339150 | new / draft |
+| Open Anki N1 2032 | [出生](entries/1580/1580050-shusshou.org) | しゅっしょう | 1580050 | new / draft |
+| Open Anki N1 2034 | [微量](entries/1486/1486200-biryou.org) | びりょう | 1486200 | new / draft |
+| Open Anki N1 2035 | [昼飯](entries/1426/1426410-hirumeshi.org) | ひるめし | 1426410 | new / draft |
+
+| Open Anki N1 2036 | [比例](entries/1483/1483700-hirei.org) | ひれい | 1483700 | new / draft |
+| Open Anki N1 2038 | [敏感](entries/1491/1491070-binkan.org) | びんかん | 1491070 | new / draft |
+| Open Anki N1 2041 | [貧弱](entries/1490/1490850-hinjaku.org) | ひんじゃく | 1490850 | new / draft |
+| Open Anki N1 2043 | [ヒント](entries/1104/1104300-hinto.org) | ヒント | 1104300 | new / draft |
+| Open Anki N1 2044 | [頻繁](entries/1491/1491050-hinpan.org) | ひんぱん | 1491050 | new / draft |
+| Open Anki N1 2045 | [貧乏](entries/1490/1490900-binbou.org) | びんぼう | 1490900 | new / draft |
+| Open Anki N1 2046 | [ファイト](entries/1107/1107700-faito.org) | ファイト | 1107700 | new / draft |
+| Open Anki N1 2047 | [ファイル](entries/1107/1107800-fairu.org) | ファイル | 1107800 | new / draft |
+| Open Anki N1 2049 | [不意](entries/1491/1491210-fui.org) | ふい | 1491210 | new / draft |
+| Open Anki N1 2050 | [フィルタ](entries/1109/1109330-firutaa.org) | フィルタ | 1109330 | new / draft |
+
+| Open Anki N1 2051 | [封](entries/1499/1499580-fuu.org) | ふう | 1499580 | new / draft |
+| Open Anki N1 2052 | [封鎖](entries/1499/1499650-fuusa.org) | ふうさ | 1499650 | new / draft |
+| Open Anki N1 2053 | [風車](entries/1583/1583710-fuusha.org) | ふうしゃ | 1583710 | new / draft |
+| Open Anki N1 2055 | [風俗](entries/1499/1499960-fuuzoku.org) | ふうぞく | 1499960 | new / draft |
+| Open Anki N1 2056 | [ブーツ](entries/1113/1113130-buutsu.org) | ブーツ | 1113130 | new / draft |
+| Open Anki N1 2057 | [風土](entries/1500/1500020-fuudo.org) | ふうど | 1500020 | new / draft |
+| Open Anki N1 2058 | [ブーム](entries/1113/1113160-buumu.org) | ブーム | 1113160 | new / draft |
+| Open Anki N1 2062 | [ぶかぶか](entries/1011/1011130-bukabuka.org) | ぶかぶか | 1011130 | new / draft |
+| Open Anki N1 2063 | [不吉](entries/1491/1491910-fukitsu.org) | ふきつ | 1491910 | new / draft |
+| Open Anki N1 2066 | [複合](entries/1501/1501320-fukugou.org) | ふくごう | 1501320 | new / draft |
+
+| Open Anki N1 2068 | [覆面](entries/1501/1501520-fukumen.org) | ふくめん | 1501520 | new / draft |
+| Open Anki N1 2070 | [不景気](entries/1492/1492120-fukeiki.org) | ふけいき | 1492120 | new / draft |
+| Open Anki N1 2071 | [耽る](entries/1419/1419010-fukeru.org) | ふける | 1419010 | new / draft |
+| Open Anki N1 2074 | [布告](entries/1496/1496860-fukoku.org) | ふこく | 1496860 | new / draft |
+| Open Anki N1 2075 | [ブザー](entries/1113/1113300-buzaa.org) | ブザー | 1113300 | new / draft |
+| Open Anki N1 2077 | [不在](entries/1492/1492460-fuzai.org) | ふざい | 1492460 | new / draft |
+| Open Anki N1 2079 | [不順](entries/1492/1492810-fujun.org) | ふじゅん | 1492810 | new / draft |
+| Open Anki N1 2082 | [不審](entries/1493/1493120-fushin.org) | ふしん | 1493120 | new / draft |
+| Open Anki N1 2083 | [不振](entries/1493/1493150-fushin.org) | ふしん | 1493150 | new / draft |
+| Open Anki N1 2084 | [武装](entries/1498/1498740-busou.org) | ぶそう | 1498740 | new / draft |
+
+| Open Anki N1 2085 | [札](entries/1298/1298970-fuda.org) | ふだ | 1298970 | new / draft |
+| Open Anki N1 2088 | [復活](entries/1500/1500700-fukkatsu.org) | ふっかつ | 1500700 | new / draft |
+| Open Anki N1 2089 | [物議](entries/1502/1502450-butsugi.org) | ぶつぎ | 1502450 | new / draft |
+| Open Anki N1 2092 | [物資](entries/1502/1502540-busshi.org) | ぶっし | 1502540 | new / draft |
+| Open Anki N1 2094 | [物体](entries/1502/1502680-buttai.org) | ぶったい | 1502680 | new / draft |
+| Open Anki N1 2096 | [不当](entries/1494/1494120-futou.org) | ふとう | 1494120 | new / draft |
+| Open Anki N1 2097 | [不動産](entries/1494/1494220-fudousan.org) | ふどうさん | 1494220 | new / draft |
+| Open Anki N1 2098 | [無難](entries/1530/1530750-bunan.org) | ぶなん | 1530750 | new / draft |
+| Open Anki N1 2101 | [不評](entries/1494/1494640-fuhyou.org) | ふひょう | 1494640 | new / draft |
+| Open Anki N1 2102 | [不服](entries/1494/1494700-fufuku.org) | ふふく | 1494700 | new / draft |
+
+| Open Anki N1 2103 | [普遍](entries/1602/1602820-fuhen.org) | ふへん | 1602820 | new / draft |
+| Open Anki N1 2107 | [部門](entries/1499/1499540-bumon.org) | ぶもん | 1499540 | new / draft |
+| Open Anki N1 2109 | [ふらふら](entries/1011/1011060-furafura.org) | ふらふら | 1011060 | new / draft |
+| Open Anki N1 2110 | [ぶらぶら](entries/1011/1011230-burabura.org) | ぶらぶら | 1011230 | new / draft |
+| Open Anki N1 2112 | [振り出し](entries/1602/1602990-furidashi.org) | ふりだし | 1602990 | new / draft |
+| Open Anki N1 2113 | [不良](entries/1495/1495290-furyou.org) | ふりょう | 1495290 | new / draft |
+| Open Anki N1 2114 | [浮力](entries/1497/1497580-furyoku.org) | ふりょく | 1497580 | new / draft |
+| Open Anki N1 2115 | [武力](entries/1499/1499000-buryoku.org) | ぶりょく | 1499000 | new / draft |
+| Open Anki N1 2117 | [震わせる](entries/1366/1366330-furuwaseru.org) | ふるわせる | 1366330 | new / draft |
+| Open Anki N1 2118 | [無礼](entries/1531/1531060-burei.org) | ぶれい | 1531060 | new / draft |
+
+| Open Anki N1 2119 | [付録](entries/1603/1603100-furoku.org) | ふろく | 1603100 | new / draft |
+| Open Anki N1 2120 | [フロント](entries/1112/1112990-furonto.org) | フロント | 1112990 | new / draft |
+| Open Anki N1 2123 | [分業](entries/1503/1503390-bungyou.org) | ぶんぎょう | 1503390 | new / draft |
+| Open Anki N1 2124 | [文語](entries/1505/1505370-bungo.org) | ぶんご | 1505370 | new / draft |
+| Open Anki N1 2125 | [分散](entries/1503/1503580-bunsan.org) | ぶんさん | 1503580 | new / draft |
+| Open Anki N1 2126 | [分子](entries/1503/1503630-bunshi.org) | ぶんし | 1503630 | new / draft |
+| Open Anki N1 2127 | [紛失](entries/1505/1505050-funshitsu.org) | ふんしつ | 1505050 | new / draft |
+| Open Anki N1 2128 | [噴出](entries/1504/1504600-funshutsu.org) | ふんしゅつ | 1504600 | new / draft |
+| Open Anki N1 2131 | [ふんだん](entries/1011/1011100-fundan.org) | ふんだん | 1011100 | new / draft |
+| Open Anki N1 2132 | [分担](entries/1503/1503950-buntan.org) | ぶんたん | 1503950 | new / draft |
+
+| Open Anki N1 2133 | [奮闘](entries/1504/1504750-funtou.org) | ふんとう | 1504750 | new / draft |
+| Open Anki N1 2135 | [分母](entries/1504/1504310-bunbo.org) | ぶんぼ | 1504310 | new / draft |
+| Open Anki N1 2137 | [分離](entries/1504/1504370-bunri.org) | ぶんり | 1504370 | new / draft |
+| Open Anki N1 2138 | [分裂](entries/1504/1504510-bunretsu.org) | ぶんれつ | 1504510 | new / draft |
+| Open Anki N1 2142 | [閉鎖](entries/1508/1508670-heisa.org) | へいさ | 1508670 | new / draft |
+| Open Anki N1 2143 | [兵士](entries/1506/1506420-heishi.org) | へいし | 1506420 | new / draft |
+| Open Anki N1 2144 | [平常](entries/1507/1507420-heijou.org) | へいじょう | 1507420 | new / draft |
+| Open Anki N1 2145 | [平方](entries/1507/1507850-heihou.org) | へいほう | 1507850 | new / draft |
+| Open Anki N1 2146 | [並列](entries/1508/1508530-heiretsu.org) | へいれつ | 1508530 | new / draft |
+| Open Anki N1 2148 | [辟易](entries/1573/1573590-hekieki.org) | へきえき | 1573590 | new / draft |
+
+| Open Anki N1 2149 | [ぺこぺこ](entries/1011/1011540-pekopeko.org) | ぺこぺこ | 1011540 | new / draft |
+| Open Anki N1 2151 | [ベストセラー](entries/1119/1119560-besutoseraa.org) | ベストセラー | 1119560 | new / draft |
+| Open Anki N1 2152 | [隔たる](entries/1206/1206340-hedataru.org) | へだたる | 1206340 | new / draft |
+| Open Anki N1 2153 | [縁](entries/2056/2056370-heri.org) | へり | 2056370 | new / draft |
+| Open Anki N1 2155 | [弁解](entries/1512/1512760-benkai.org) | べんかい | 1512760 | new / draft |
+| Open Anki N1 2156 | [変革](entries/1510/1510940-henkaku.org) | へんかく | 1510940 | new / draft |
+| Open Anki N1 2157 | [返還](entries/1512/1512170-henkan.org) | へんかん | 1512170 | new / draft |
+| Open Anki N1 2158 | [便宜](entries/1512/1512480-bengi.org) | べんぎ | 1512480 | new / draft |
+| Open Anki N1 2163 | [変遷](entries/1511/1511260-hensen.org) | へんせん | 1511260 | new / draft |
+| Open Anki N1 2164 | [返答](entries/1512/1512290-hentou.org) | へんとう | 1512290 | new / draft |
+
+| Open Anki N1 2165 | [変動](entries/1511/1511450-hendou.org) | へんどう | 1511450 | new / draft |
+| Open Anki N1 2167 | [穂](entries/1514/1514780-ho.org) | ほ | 1514780 | new / draft |
+| Open Anki N1 2169 | [ボイコット](entries/1123/1123670-boikotto.org) | ボイコット | 1123670 | new / draft |
+| Open Anki N1 2170 | [ポイント](entries/1124/1124860-pointo.org) | ポイント | 1124860 | new / draft |
+| Open Anki N1 2173 | [防火](entries/1520/1520260-bouka.org) | ぼうか | 1520260 | new / draft |
+| Open Anki N1 2177 | [封建](entries/1499/1499620-houken.org) | ほうけん | 1499620 | new / draft |
+| Open Anki N1 2178 | [豊作](entries/1518/1518150-housaku.org) | ほうさく | 1518150 | new / draft |
+| Open Anki N1 2180 | [奉仕](entries/1515/1515950-houshi.org) | ほうし | 1515950 | new / draft |
+| Open Anki N1 2181 | [方式](entries/1517/1517030-houshiki.org) | ほうしき | 1517030 | new / draft |
+| Open Anki N1 2182 | [放射](entries/1516/1516600-housha.org) | ほうしゃ | 1516600 | new / draft |
+
+| Open Anki N1 2183 | [放射能](entries/1516/1516690-houshanou.org) | ほうしゃのう | 1516690 | new / draft |
+| Open Anki N1 2185 | [放出](entries/1516/1516710-houshutsu.org) | ほうしゅつ | 1516710 | new / draft |
+| Open Anki N1 2186 | [報じる](entries/1515/1515650-houjiru.org) | ほうじる | 1515650 | new / draft |
+| Open Anki N1 2187 | [報ずる](entries/1515/1515660-houzuru.org) | ほうずる | 1515660 | new / draft |
+| Open Anki N1 2188 | [紡績](entries/1519/1519930-bouseki.org) | ぼうせき | 1519930 | new / draft |
+| Open Anki N1 2189 | [呆然](entries/1515/1515610-bouzen.org) | ぼうぜん | 1515610 | new / draft |
+| Open Anki N1 2190 | [放置](entries/1516/1516780-houchi.org) | ほうち | 1516780 | new / draft |
+| Open Anki N1 2194 | [冒頭](entries/1519/1519860-boutou.org) | ぼうとう | 1519860 | new / draft |
+| Open Anki N1 2195 | [暴動](entries/1519/1519520-boudou.org) | ぼうどう | 1519520 | new / draft |
+| Open Anki N1 2196 | [褒美](entries/1518/1518050-houbi.org) | ほうび | 1518050 | new / draft |
+
+| Open Anki N1 2198 | [葬る](entries/1402/1402130-houmuru.org) | ほうむる | 1402130 | new / draft |
+| Open Anki N1 2199 | [放り込む](entries/1516/1516500-hourikomu.org) | ほうりこむ | 1516500 | new / draft |
+| Open Anki N1 2200 | [放り出す](entries/1516/1516510-houridasu.org) | ほうりだす | 1516510 | new / draft |
+| Open Anki N1 2202 | [飽和](entries/1518/1518350-houwa.org) | ほうわ | 1518350 | new / draft |
+| Open Anki N1 2206 | [保温](entries/1513/1513310-hoon.org) | ほおん | 1513310 | new / draft |
+| Open Anki N1 2207 | [捕獲](entries/1514/1514160-hokaku.org) | ほかく | 1514160 | new / draft |
+| Open Anki N1 2208 | [保管](entries/1513/1513320-hokan.org) | ほかん | 1513320 | new / draft |
+| Open Anki N1 2210 | [補強](entries/1514/1514530-hokyou.org) | ほきょう | 1514530 | new / draft |
+| Open Anki N1 2211 | [募金](entries/1514/1514810-bokin.org) | ぼきん | 1514810 | new / draft |
+| Open Anki N1 2212 | [牧師](entries/1521/1521770-bokushi.org) | ぼくし | 1521770 | new / draft |
+
+| Open Anki N1 125 | [コマーシャル](entries/1050/1050720-komaasharu.org) | コマーシャル | 1050720 | new / draft |
+| Open Anki N1 143 | [コントラスト](entries/1052/1052780-kontorasuto.org) | コントラスト | 1052780 | new / draft |
+| Open Anki N1 144 | [コントロール](entries/1052/1052830-kontorooru.org) | コントロール | 1052830 | new / draft |
+| Open Anki N1 160 | [サイズ](entries/1055/1055780-saizu.org) | サイズ | 1055780 | new / draft |
+| Open Anki N1 205 | [サボる](entries/1057/1057580-saboru.org) | サボる | 1057580 | new / draft |
+| Open Anki N1 305 | [どうにか](entries/1008/1008990-dounika.org) | どうにか | 1008990 | new / draft |
+| Open Anki N1 319 | [トーン](entries/1084/1084780-toon.org) | トーン | 1084780 | new / draft |
+| Open Anki N1 368 | [ドライ](entries/1088/1088450-dorai.org) | ドライ | 1088450 | new / draft |
+| Open Anki N1 369 | [ドライクリーニング](entries/1088/1088480-doraikuriiningu.org) | ドライクリーニング | 1088480 | new / draft |
+| Open Anki N1 370 | [ドライバー](entries/1088/1088560-doraibaa.org) | ドライバー | 1088560 | new / draft |
+
+| Open Anki N1 371 | [ドライブイン](entries/1088/1088590-doraibuin.org) | ドライブイン | 1088590 | new / draft |
+| Open Anki N1 372 | [トラブル](entries/1085/1085920-toraburu.org) | トラブル | 1085920 | new / draft |
+| Open Anki N1 373 | [トランジスター](entries/1086/1086180-toranjisuta.org) | トランジスター | 1086180 | new / draft |
+| Open Anki N1 392 | [ドリル](entries/1089/1089070-doriru.org) | ドリル | 1089070 | new / draft |
+| Open Anki N1 447 | [ナンセンス](entries/1090/1090840-nansensu.org) | ナンセンス | 1090840 | new / draft |
+| Open Anki N1 467 | [ニュアンス](entries/1092/1092110-nyuansu.org) | ニュアンス | 1092110 | new / draft |
+| Open Anki N1 523 | [バー](entries/1096/1096970-baa.org) | バー | 1096970 | new / draft |
+| Open Anki N1 564 | [いっそ](entries/2613/2613280-isso.org) | いっそ | 2613280 | new / draft |
+| Open Anki N1 586 | [インターチェンジ](entries/1022/1022840-intaachenji.org) | インターチェンジ | 1022840 | new / draft |
+| Open Anki N1 587 | [インターナショナル](entries/1022/1022850-intaanashonaru.org) | インターナショナル | 1022850 | new / draft |
+
+| Open Anki N1 588 | [インターフォン](entries/1022/1022990-intaahon.org) | インターフォン | 1022990 | new / draft |
+| Open Anki N1 589 | [インテリ](entries/1023/1023410-interi.org) | インテリ | 1023410 | new / draft |
+| Open Anki N1 590 | [インフォメーション](entries/1024/1024190-infomeeshon.org) | インフォメーション | 1024190 | new / draft |
+| Open Anki N1 639 | [エアメール](entries/1027/1027510-eameeru.org) | エアメール | 1027510 | new / draft |
+| Open Anki N1 676 | [オートマチック](entries/1032/1032100-ootomachikku.org) | オートマチック | 1032100 | new / draft |
+| Open Anki N1 710 | [おどおど](entries/1001/1001400-odoodo.org) | おどおど | 1001400 | new / draft |
+| Open Anki N1 746 | [カーペット](entries/1036/1036580-kaapetto.org) | カーペット | 1036580 | new / draft |
+| Open Anki N1 777 | [ガイドブック](entries/1039/1039920-gaidobukku.org) | ガイドブック | 1039920 | new / draft |
+| Open Anki N1 811 | [カクテル](entries/1037/1037070-kakuteru.org) | カクテル | 1037070 | new / draft |
+| Open Anki N1 846 | [がっくり](entries/1003/1003190-gakkuri.org) | がっくり | 1003190 | new / draft |
+
+| Open Anki N1 848 | [がっしり](entries/1003/1003200-gasshiri.org) | がっしり | 1003200 | new / draft |
+| Open Anki N1 850 | [がっちり](entries/1003/1003210-gatchiri.org) | がっちり | 1003210 | new / draft |
+| Open Anki N1 871 | [カムバック](entries/1038/1038320-kamubakku.org) | カムバック | 1038320 | new / draft |
+| Open Anki N1 877 | [カルテ](entries/1039/1039000-karute.org) | カルテ | 1039000 | new / draft |
+| Open Anki N1 965 | [きっかり](entries/1003/1003410-kikkari.org) | きっかり | 1003410 | new / draft |
+| Open Anki N1 966 | [きっちり](entries/1003/1003420-kitchiri.org) | きっちり | 1003420 | new / draft |
+| Open Anki N1 988 | [キャッチ](entries/1041/1041530-kyatchi.org) | キャッチ | 1041530 | new / draft |
+| Open Anki N1 1077 | [くっきり](entries/1003/1003840-kukkiri.org) | くっきり | 1003840 | new / draft |
+| Open Anki N1 1085 | [グレー](entries/1047/1047480-guree.org) | グレー | 1047480 | new / draft |
+| Open Anki N1 1158 | [しくじる](entries/1005/1005500-shikujiru.org) | しくじる | 1005500 | new / draft |
+
+| Open Anki N1 1222 | [あっさり](entries/1000/1000360-assari.org) | あっさり | 1000360 | new / draft |
+| Open Anki N1 1234 | [アプローチ](entries/1018/1018260-apuroochi.org) | アプローチ | 1018260 | new / draft |
+| Open Anki N1 1235 | [あべこべ](entries/1000/1000470-abekobe.org) | あべこべ | 1000470 | new / draft |
+| Open Anki N1 1259 | [アルミ](entries/1019/1019620-arumi.org) | アルミ | 1019620 | new / draft |
+| Open Anki N1 1586 | [ダース](entries/5048/5048739-daasu.org) | ダース | 5048739 | new / draft |
+| Open Anki N1 2213 | [捕鯨](entries/1514/1514180-hogei.org) | ほげい | 1514180 | new / draft |
+| Open Anki N1 2214 | [惚ける](entries/1288/1288490-bokeru.org) | ぼける | 1288490 | new / draft |
+| Open Anki N1 2216 | [母校](entries/1515/1515040-bokou.org) | ぼこう | 1515040 | new / draft |
+| Open Anki N1 2217 | [母国](entries/1515/1515060-bokoku.org) | ぼこく | 1515060 | new / draft |
+| Open Anki N1 2218 | [誇る](entries/1267/1267760-hokoru.org) | ほこる | 1267760 | new / draft |
+
+| Open Anki N1 2219 | [綻びる](entries/1419/1419000-hokorobiru.org) | ほころびる | 1419000 | new / draft |
+| Open Anki N1 2221 | [ポジション](entries/1125/1125060-pojishon.org) | ポジション | 1125060 | new / draft |
+| Open Anki N1 2222 | [干し物](entries/1210/1210150-hoshimono.org) | ほしもの | 1210150 | new / draft |
+| Open Anki N1 2223 | [保守](entries/1513/1513750-hoshu.org) | ほしゅ | 1513750 | new / draft |
+| Open Anki N1 2224 | [補充](entries/1514/1514580-hojuu.org) | ほじゅう | 1514580 | new / draft |
+| Open Anki N1 2225 | [補助](entries/1514/1514590-hojo.org) | ほじょ | 1514590 | new / draft |
+| Open Anki N1 2227 | [補足](entries/1514/1514700-hosoku.org) | ほそく | 1514700 | new / draft |
+| Open Anki N1 2228 | [墓地](entries/1584/1584040-bochi.org) | ぼち | 1584040 | new / draft |
+| Open Anki N1 2229 | [発作](entries/1477/1477470-hossa.org) | ほっさ | 1477470 | new / draft |
+| Open Anki N1 2232 | [ポット](entries/1125/1125290-potto.org) | ポット | 1125290 | new / draft |
+
+| Open Anki N1 2234 | [ぼつぼつ](entries/1011/1011840-botsubotsu.org) | ぼつぼつ | 1011840 | new / draft |
+| Open Anki N1 2235 | [没落](entries/1522/1522040-botsuraku.org) | ぼつらく | 1522040 | new / draft |
+| Open Anki N1 2236 | [解ける](entries/1198/1198920-hodokeru.org) | ほどける | 1198920 | new / draft |
+| Open Anki N1 2239 | [ぼやく](entries/1011/1011850-boyaku.org) | ぼやく | 1011850 | new / draft |
+| Open Anki N1 2240 | [ぼやける](entries/1011/1011860-boyakeru.org) | ぼやける | 1011860 | new / draft |
+| Open Anki N1 2241 | [保養](entries/1514/1514000-hoyou.org) | ほよう | 1514000 | new / draft |
+| Open Anki N1 2242 | [捕虜](entries/1514/1514260-horyo.org) | ほりょ | 1514260 | new / draft |
+| Open Anki N1 2245 | [滅ぼす](entries/1603/1603620-horobosu.org) | ほろぼす | 1603620 | new / draft |
+| Open Anki N1 2246 | [本格](entries/1522/1522310-honkaku.org) | ほんかく | 1522310 | new / draft |
+| Open Anki N1 2247 | [本館](entries/1522/1522350-honkan.org) | ほんかん | 1522350 | new / draft |
+
+| Open Anki N1 2248 | [本気](entries/1522/1522370-honki.org) | ほんき | 1522370 | new / draft |
+| Open Anki N1 2249 | [本国](entries/1522/1522530-hongoku.org) | ほんごく | 1522530 | new / draft |
+| Open Anki N1 2252 | [本音](entries/1522/1522250-honne.org) | ほんね | 1522250 | new / draft |
+| Open Anki N1 2254 | [本場](entries/1522/1522690-honba.org) | ほんば | 1522690 | new / draft |
+| Open Anki N1 2255 | [ポンプ](entries/1126/1126040-ponpu.org) | ポンプ | 1126040 | new / draft |
+| Open Anki N1 2256 | [本文](entries/1584/1584270-honbun.org) | ほんぶん | 1584270 | new / draft |
+| Open Anki N1 2257 | [本名](entries/1523/1523240-honmyou.org) | ほんみょう | 1523240 | new / draft |
+| Open Anki N1 2258 | [マーク](entries/1126/1126140-maaku.org) | マーク | 1126140 | new / draft |
+| Open Anki N1 2260 | [マイクロフォン](entries/1126/1126770-maikurofon.org) | マイクロフォン | 1126770 | new / draft |
+| Open Anki N1 2261 | [埋蔵](entries/1524/1524560-maizou.org) | まいぞう | 1524560 | new / draft |
+
+| Open Anki N1 2262 | [舞う](entries/1499/1499100-mau.org) | まう | 1499100 | new / draft |
+| Open Anki N1 2263 | [真上](entries/1363/1363940-maue.org) | まうえ | 1363940 | new / draft |
+| Open Anki N1 2264 | [前売](entries/1603/1603780-maeuri.org) | まえうり | 1603780 | new / draft |
+| Open Anki N1 2265 | [前置き](entries/1393/1393630-maeoki.org) | まえおき | 1393630 | new / draft |
+| Open Anki N1 2266 | [任す](entries/1467/1467130-makasu.org) | まかす | 1467130 | new / draft |
+| Open Anki N1 2267 | [負かす](entries/1497/1497950-makasu.org) | まかす | 1497950 | new / draft |
+| Open Anki N1 2270 | [紛れる](entries/1505/1505010-magireru.org) | まぎれる | 1505010 | new / draft |
+| Open Anki N1 2271 | [真心](entries/1363/1363970-magokoro.org) | まごころ | 1363970 | new / draft |
+| Open Anki N1 2273 | [誠](entries/1580/1580555-makoto.org) | まこと | 1580555 | new / draft |
+| Open Anki N1 2276 | [勝る](entries/1603/1603910-masaru.org) | まさる | 1603910 | new / draft |
+
+| Open Anki N1 2278 | [交える](entries/1271/1271660-majieru.org) | まじえる | 1271660 | new / draft |
+| Open Anki N1 2279 | [真下](entries/1363/1363460-mashita.org) | ました | 1363460 | new / draft |
+| Open Anki N1 2281 | [交わる](entries/1271/1271700-majiwaru.org) | まじわる | 1271700 | new / draft |
+| Open Anki N1 2282 | [麻酔](entries/1603/1603940-masui.org) | ますい | 1603940 | new / draft |
+| Open Anki N1 2284 | [待ち合わせ](entries/1410/1410510-machiawase.org) | まちあわせ | 1410510 | new / draft |
+| Open Anki N1 2285 | [待ち遠しい](entries/1410/1410480-machidooshii.org) | まちどおしい | 1410480 | new / draft |
+| Open Anki N1 2286 | [待ち望む](entries/1410/1410580-machinozomu.org) | まちのぞむ | 1410580 | new / draft |
+| Open Anki N1 2288 | [末期](entries/1604/1604040-makki.org) | まっき | 1604040 | new / draft |
+| Open Anki N1 2289 | [真っ二つ](entries/1363/1363280-mapputatsu.org) | まっぷたつ | 1363280 | new / draft |
+| Open Anki N1 2291 | [纏まり](entries/1440/1440910-matomari.org) | まとまり | 1440910 | new / draft |
+
+| Open Anki N1 2292 | [纏め](entries/1440/1440920-matome.org) | まとめ | 1440920 | new / draft |
+| Open Anki N1 2294 | [招き](entries/1349/1349570-maneki.org) | まねき | 1349570 | new / draft |
+| Open Anki N1 2295 | [瞬き](entries/1580/1580190-mabataki.org) | まばたき | 1580190 | new / draft |
+| Open Anki N1 2296 | [麻痺](entries/1604/1604160-mahi.org) | まひ | 1604160 | new / draft |
+| Open Anki N1 2298 | [眉](entries/1486/1486270-mayu.org) | まゆ | 1486270 | new / draft |
+| Open Anki N1 2299 | [鞠](entries/1226/1226280-mari.org) | まり | 1226280 | new / draft |
+| Open Anki N1 2302 | [丸々](entries/1604/1604260-marumaru.org) | まるまる | 1604260 | new / draft |
+| Open Anki N1 2303 | [丸める](entries/1216/1216300-marumeru.org) | まるめる | 1216300 | new / draft |
+| Open Anki N1 2304 | [満月](entries/1526/1526770-mangetsu.org) | まんげつ | 1526770 | new / draft |
+| Open Anki N1 2305 | [満場](entries/1526/1526820-manjou.org) | まんじょう | 1526820 | new / draft |
+
+| Open Anki N1 2306 | [真ん前](entries/1363/1363350-manmae.org) | まんまえ | 1363350 | new / draft |
+| Open Anki N1 2307 | [真ん丸い](entries/1363/1363330-manmarui.org) | まんまるい | 1363330 | new / draft |
+| Open Anki N1 2310 | [見合い](entries/1259/1259550-miai.org) | みあい | 1259550 | new / draft |
+| Open Anki N1 2313 | [未開](entries/1527/1527190-mikai.org) | みかい | 1527190 | new / draft |
+| Open Anki N1 2314 | [味覚](entries/1527/1527020-mikaku.org) | みかく | 1527020 | new / draft |
+| Open Anki N1 2315 | [幹](entries/1577/1577640-miki.org) | みき | 1577640 | new / draft |
+| Open Anki N1 2318 | [未婚](entries/1527/1527480-mikon.org) | みこん | 1527480 | new / draft |
+| Open Anki N1 2319 | [未熟](entries/1527/1527560-mijuku.org) | みじゅく | 1527560 | new / draft |
+| Open Anki N1 2320 | [微塵](entries/1486/1486050-mijin.org) | みじん | 1486050 | new / draft |
+| Open Anki N1 2321 | [水気](entries/1371/1371390-mizuke.org) | みずけ | 1371390 | new / draft |
+
+| Open Anki N1 2322 | [ミスプリント](entries/1130/1130830-misupurinto.org) | ミスプリント | 1130830 | new / draft |
+| Open Anki N1 2324 | [ミセス](entries/1130/1130880-misesu.org) | ミセス | 1130880 | new / draft |
+| Open Anki N1 2325 | [見せびらかす](entries/1259/1259200-misebirakasu.org) | みせびらかす | 1259200 | new / draft |
+| Open Anki N1 2326 | [見せ物](entries/1259/1259240-misemono.org) | みせもの | 1259240 | new / draft |
+| Open Anki N1 2328 | [満たす](entries/1526/1526670-mitasu.org) | みたす | 1526670 | new / draft |
+| Open Anki N1 2329 | [乱す](entries/1548/1548930-midasu.org) | みだす | 1548930 | new / draft |
+| Open Anki N1 2331 | [未知](entries/1527/1527770-michi.org) | みち | 1527770 | new / draft |
+| Open Anki N1 2333 | [導く](entries/1453/1453680-michibiku.org) | みちびく | 1453680 | new / draft |
+| Open Anki N1 2334 | [密集](entries/1528/1528280-misshuu.org) | みっしゅう | 1528280 | new / draft |
+| Open Anki N1 2335 | [密接](entries/1528/1528290-missetsu.org) | みっせつ | 1528290 | new / draft |
+
+| Open Anki N1 2338 | [未定](entries/1527/1527830-mitei.org) | みてい | 1527830 | new / draft |
+| Open Anki N1 2341 | [源](entries/1263/1263360-minamoto.org) | みなもと | 1263360 | new / draft |
+| Open Anki N1 2343 | [身なり](entries/1365/1365570-minari.org) | みなり | 1365570 | new / draft |
+| Open Anki N1 2344 | [峰](entries/1516/1516250-mine.org) | みね | 1516250 | new / draft |
+| Open Anki N1 2345 | [身の上](entries/1365/1365600-minoue.org) | みのうえ | 1365600 | new / draft |
+| Open Anki N1 2348 | [見計らう](entries/1259/1259510-mihakarau.org) | みはからう | 1259510 | new / draft |
+| Open Anki N1 2349 | [見晴らし](entries/1259/1259770-miharashi.org) | みはらし | 1259770 | new / draft |
+| Open Anki N1 2350 | [身振り](entries/1365/1365720-miburi.org) | みぶり | 1365720 | new / draft |
+| Open Anki N1 2351 | [脈](entries/1528/1528440-myaku.org) | みゃく | 1528440 | new / draft |
+| Open Anki N1 2352 | [ミュージック](entries/1131/1131680-myuujikku.org) | ミュージック | 1131680 | new / draft |
+
+| Open Anki N1 2355 | [民宿](entries/1528/1528950-minshuku.org) | みんしゅく | 1528950 | new / draft |
+| Open Anki N1 2357 | [民俗](entries/1604/1604745-minzoku.org) | みんぞく | 1604745 | new / draft |
+| Open Anki N1 2358 | [無意味](entries/1529/1529610-muimi.org) | むいみ | 1529610 | new / draft |
+| Open Anki N1 2359 | [ムード](entries/1132/1132190-muudo.org) | ムード | 1132190 | new / draft |
+| Open Anki N1 2361 | [婿](entries/1531/1531160-muko.org) | むこ | 1531160 | new / draft |
+| Open Anki N1 2362 | [無効](entries/1529/1529930-mukou.org) | むこう | 1529930 | new / draft |
+| Open Anki N1 2363 | [無言](entries/1529/1529860-mugon.org) | むごん | 1529860 | new / draft |
+| Open Anki N1 2366 | [結び](entries/1254/1254610-musubi.org) | むすび | 1254610 | new / draft |
+| Open Anki N1 2367 | [結び付き](entries/1254/1254630-musubitsuki.org) | むすびつき | 1254630 | new / draft |
+| Open Anki N1 2369 | [結び付ける](entries/1254/1254650-musubitsukeru.org) | むすびつける | 1254650 | new / draft |
+
+| Open Anki N1 2370 | [無線](entries/1530/1530380-musen.org) | むせん | 1530380 | new / draft |
+| Open Anki N1 2371 | [無駄遣い](entries/1530/1530520-mudazukai.org) | むだづかい | 1530520 | new / draft |
+| Open Anki N1 2372 | [無断](entries/1530/1530600-mudan.org) | むだん | 1530600 | new / draft |
+| Open Anki N1 2373 | [無知](entries/1530/1530630-muchi.org) | むち | 1530630 | new / draft |
+| Open Anki N1 2374 | [無茶](entries/1530/1530670-mucha.org) | むちゃ | 1530670 | new / draft |
+| Open Anki N1 2375 | [無茶苦茶](entries/1530/1530680-muchakucha.org) | むちゃくちゃ | 1530680 | new / draft |
+| Open Anki N1 2377 | [無念](entries/1530/1530770-munen.org) | むねん | 1530770 | new / draft |
+| Open Anki N1 2378 | [無能](entries/1530/1530780-munou.org) | むのう | 1530780 | new / draft |
+| Open Anki N1 2379 | [無闇に](entries/1529/1529590-muyamini.org) | むやみに | 1529590 | new / draft |
+| Open Anki N1 2380 | [無用](entries/1530/1530940-muyou.org) | むよう | 1530940 | new / draft |
+
+| Open Anki N1 2381 | [斑](entries/1481/1481330-mura.org) | むら | 1481330 | new / draft |
+| Open Anki N1 2382 | [群がる](entries/1247/1247500-muragaru.org) | むらがる | 1247500 | new / draft |
+| Open Anki N1 2384 | [名産](entries/1531/1531520-meisan.org) | めいさん | 1531520 | new / draft |
+| Open Anki N1 2385 | [名称](entries/1531/1531620-meishou.org) | めいしょう | 1531620 | new / draft |
+| Open Anki N1 2386 | [命中](entries/1532/1532090-meichuu.org) | めいちゅう | 1532090 | new / draft |
+| Open Anki N1 2387 | [明白](entries/1000/1000220-meihaku.org) | めいはく | 1000220 | new / draft |
+| Open Anki N1 2388 | [名簿](entries/1531/1531830-meibo.org) | めいぼ | 1531830 | new / draft |
+| Open Anki N1 2390 | [明瞭](entries/1532/1532620-meiryou.org) | めいりょう | 1532620 | new / draft |
+| Open Anki N1 2391 | [明朗](entries/1532/1532640-meirou.org) | めいろう | 1532640 | new / draft |
+| Open Anki N1 2392 | [メーカー](entries/1132/1132420-meekaa.org) | メーカー | 1132420 | new / draft |
+
+| Open Anki N1 2393 | [目方](entries/1535/1535680-mekata.org) | めかた | 1535680 | new / draft |
+| Open Anki N1 2394 | [恵み](entries/1250/1250470-megumi.org) | めぐみ | 1250470 | new / draft |
+| Open Anki N1 2395 | [恵む](entries/1250/1250480-megumu.org) | めぐむ | 1250480 | new / draft |
+| Open Anki N1 2397 | [目覚める](entries/1535/1535350-mezameru.org) | めざめる | 1535350 | new / draft |
+| Open Anki N1 2398 | [召す](entries/1346/1346450-mesu.org) | めす | 1346450 | new / draft |
+| Open Anki N1 2399 | [雌](entries/1312/1312880-mesu.org) | めす | 1312880 | new / draft |
+| Open Anki N1 2400 | [目付き](entries/1535/1535670-metsuki.org) | めつき | 1535670 | new / draft |
+| Open Anki N1 2401 | [滅亡](entries/1533/1533030-metsubou.org) | めつぼう | 1533030 | new / draft |
+| Open Anki N1 2402 | [メディア](entries/1133/1133620-media.org) | メディア | 1133620 | new / draft |
+| Open Anki N1 2403 | [目途](entries/1535/1535470-medo.org) | めど | 1535470 | new / draft |
+
+| Open Anki N1 2404 | [目盛](entries/1605/1605030-memori.org) | めもり | 1605030 | new / draft |
+| Open Anki N1 2405 | [メロディー](entries/1134/1134150-merodii.org) | メロディー | 1134150 | new / draft |
+| Open Anki N1 2406 | [面会](entries/1533/1533440-menkai.org) | めんかい | 1533440 | new / draft |
+| Open Anki N1 2407 | [免除](entries/1533/1533200-menjo.org) | めんじょ | 1533200 | new / draft |
+| Open Anki N1 2413 | [申し入れる](entries/1363/1363010-moushiireru.org) | もうしいれる | 1363010 | new / draft |
+| Open Anki N1 2414 | [申込](entries/1605/1605140-moushikomi.org) | もうしこみ | 1605140 | new / draft |
+| Open Anki N1 2415 | [申出](entries/1362/1362920-moushide.org) | もうしで | 1362920 | new / draft |
+| Open Anki N1 2417 | [申し分](entries/1363/1363030-moushibun.org) | もうしぶん | 1363030 | new / draft |
+| Open Anki N1 2418 | [盲点](entries/1534/1534280-mouten.org) | もうてん | 1534280 | new / draft |
+| Open Anki N1 2419 | [猛烈](entries/1534/1534100-mouretsu.org) | もうれつ | 1534100 | new / draft |
+
+| Open Anki N1 2420 | [モーテル](entries/1135/1135150-mooteru.org) | モーテル | 1135150 | new / draft |
+| Open Anki N1 2422 | [目録](entries/1535/1535710-mokuroku.org) | もくろく | 1535710 | new / draft |
+| Open Anki N1 2423 | [目論見](entries/1535/1535730-mokuromi.org) | もくろみ | 1535730 | new / draft |
+| Open Anki N1 2425 | [模索](entries/1533/1533660-mosaku.org) | もさく | 1533660 | new / draft |
+| Open Anki N1 2429 | [持ち切り](entries/1315/1315630-mochikiri.org) | もちきり | 1315630 | new / draft |
+| Open Anki N1 2431 | [専ら](entries/1389/1389740-moppara.org) | もっぱら | 1389740 | new / draft |
+| Open Anki N1 2434 | [モニター](entries/1135/1135430-monitaa.org) | モニター | 1135430 | new / draft |
+| Open Anki N1 2435 | [物好き](entries/1502/1502500-monozuki.org) | ものずき | 1502500 | new / draft |
+| Open Anki N1 2439 | [模倣](entries/1533/1533700-mohou.org) | もほう | 1533700 | new / draft |
+| Open Anki N1 2441 | [股](entries/1605/1605310-momo.org) | もも | 1605310 | new / draft |
+
+| Open Anki N1 2449 | [矢](entries/1537/1537760-ya.org) | や | 1537760 | new / draft |
+| Open Anki N1 2450 | [野外](entries/1537/1537270-yagai.org) | やがい | 1537270 | new / draft |
+| Open Anki N1 2452 | [夜具](entries/1536/1536660-yagu.org) | やぐ | 1536660 | new / draft |
+| Open Anki N1 2453 | [役職](entries/1538/1538040-yakushoku.org) | やくしょく | 1538040 | new / draft |
+| Open Anki N1 2454 | [役場](entries/1538/1538030-yakuba.org) | やくば | 1538030 | new / draft |
+| Open Anki N1 2456 | [屋敷](entries/1605/1605460-yashiki.org) | やしき | 1605460 | new / draft |
+| Open Anki N1 2458 | [野心](entries/1537/1537430-yashin.org) | やしん | 1537430 | new / draft |
+| Open Anki N1 2459 | [安っぽい](entries/1153/1153680-yasuppoi.org) | やすっぽい | 1153680 | new / draft |
+| Open Anki N1 2460 | [休める](entries/1227/1227570-yasumeru.org) | やすめる | 1227570 | new / draft |
+| Open Anki N1 2461 | [野生](entries/1537/1537470-yasei.org) | やせい | 1537470 | new / draft |
+
+| Open Anki N1 2462 | [奴](entries/1445/1445640-yatsu.org) | やつ | 1445640 | new / draft |
+| Open Anki N1 2463 | [闇](entries/1154/1154910-yami.org) | やみ | 1154910 | new / draft |
+| Open Anki N1 2468 | [和らげる](entries/1561/1561960-yawarageru.org) | やわらげる | 1561960 | new / draft |
+| Open Anki N1 2471 | [優位](entries/1539/1539100-yuui.org) | ゆうい | 1539100 | new / draft |
+| Open Anki N1 2473 | [有益](entries/1541/1541120-yuueki.org) | ゆうえき | 1541120 | new / draft |
+| Open Anki N1 2474 | [優越](entries/1539/1539120-yuuetsu.org) | ゆうえつ | 1539120 | new / draft |
+| Open Anki N1 2476 | [夕暮れ](entries/1542/1542770-yuugure.org) | ゆうぐれ | 1542770 | new / draft |
+| Open Anki N1 2479 | [優勢](entries/1539/1539340-yuusei.org) | ゆうせい | 1539340 | new / draft |
+| Open Anki N1 2480 | [優先](entries/1539/1539390-yuusen.org) | ゆうせん | 1539390 | new / draft |
+| Open Anki N1 2481 | [誘導](entries/1542/1542020-yuudou.org) | ゆうどう | 1542020 | new / draft |
+
+| Open Anki N1 2482 | [融通](entries/1584/1584900-yuuzuu.org) | ゆうずう | 1584900 | new / draft |
+| Open Anki N1 2483 | [優美](entries/1539/1539560-yuubi.org) | ゆうび | 1539560 | new / draft |
+| Open Anki N1 2484 | [有望](entries/1541/1541600-yuubou.org) | ゆうぼう | 1541600 | new / draft |
+| Open Anki N1 2485 | [遊牧](entries/1542/1542310-yuuboku.org) | ゆうぼく | 1542310 | new / draft |
+| Open Anki N1 2487 | [有力](entries/1541/1541710-yuuryoku.org) | ゆうりょく | 1541710 | new / draft |
+| Open Anki N1 2488 | [幽霊](entries/1540/1540590-yuurei.org) | ゆうれい | 1540590 | new / draft |
+| Open Anki N1 2489 | [誘惑](entries/1542/1542040-yuuwaku.org) | ゆうわく | 1542040 | new / draft |
+| Open Anki N1 2490 | [故](entries/1267/1267120-yue.org) | ゆえ | 1267120 | new / draft |
+| Open Anki N1 2492 | [揺さぶる](entries/1545/1545600-yusaburu.org) | ゆさぶる | 1545600 | new / draft |
+| Open Anki N1 2497 | [指差す](entries/1309/1309790-yubisasu.org) | ゆびさす | 1309790 | new / draft |
+
+| Open Anki N1 2498 | [弓](entries/1228/1228490-yumi.org) | ゆみ | 1228490 | new / draft |
+| Open Anki N1 2499 | [揺らぐ](entries/1545/1545630-yuragu.org) | ゆらぐ | 1545630 | new / draft |
+| Open Anki N1 2500 | [緩む](entries/1214/1214430-yurumu.org) | ゆるむ | 1214430 | new / draft |
+| Open Anki N1 2501 | [緩める](entries/1214/1214440-yurumeru.org) | ゆるめる | 1214440 | new / draft |
+| Open Anki N1 2505 | [用件](entries/1546/1546250-youken.org) | ようけん | 1546250 | new / draft |
+| Open Anki N1 2511 | [様相](entries/1545/1545840-yousou.org) | ようそう | 1545840 | new / draft |
+| Open Anki N1 2512 | [用品](entries/1546/1546400-youhin.org) | ようひん | 1546400 | new / draft |
+| Open Anki N1 2513 | [洋風](entries/1546/1546010-youfuu.org) | ようふう | 1546010 | new / draft |
+| Open Anki N1 2514 | [用法](entries/1546/1546410-youhou.org) | ようほう | 1546410 | new / draft |
+| Open Anki N1 2515 | [要望](entries/1546/1546830-youbou.org) | ようぼう | 1546830 | new / draft |
+
+| Open Anki N1 2516 | [余暇](entries/1543/1543980-yoka.org) | よか | 1543980 | new / draft |
+| Open Anki N1 2518 | [余興](entries/1544/1544040-yokyou.org) | よきょう | 1544040 | new / draft |
+| Open Anki N1 2519 | [預金](entries/1545/1545020-yokin.org) | よきん | 1545020 | new / draft |
+| Open Anki N1 2520 | [欲](entries/1547/1547320-yoku.org) | よく | 1547320 | new / draft |
+| Open Anki N1 2522 | [浴室](entries/1547/1547460-yokushitsu.org) | よくしつ | 1547460 | new / draft |
+| Open Anki N1 2523 | [抑制](entries/1547/1547290-yokusei.org) | よくせい | 1547290 | new / draft |
+| Open Anki N1 2524 | [欲深い](entries/1547/1547380-yokubukai.org) | よくぶかい | 1547380 | new / draft |
+| Open Anki N1 2527 | [予言](entries/1584/1584920-yogen.org) | よげん | 1584920 | new / draft |
+| Open Anki N1 2528 | [横綱](entries/1180/1180740-yokozuna.org) | よこづな | 1180740 | new / draft |
+| Open Anki N1 2529 | [汚れ](entries/1612/1612200-yogore.org) | よごれ | 1612200 | new / draft |
+
+| Open Anki N1 2531 | [良し](entries/1394/1394280-yoshi.org) | よし | 1394280 | new / draft |
+| Open Anki N1 2532 | [善し悪し](entries/1581/1581170-yoshiashi.org) | よしあし | 1581170 | new / draft |
+| Open Anki N1 2533 | [余所見](entries/1544/1544190-yosomi.org) | よそみ | 1544190 | new / draft |
+| Open Anki N1 2534 | [余地](entries/1544/1544380-yochi.org) | よち | 1544380 | new / draft |
+| Open Anki N1 2538 | [夜更し](entries/1606/1606000-yofukashi.org) | よふかし | 1606000 | new / draft |
+| Open Anki N1 2539 | [夜更け](entries/1606/1606010-yofuke.org) | よふけ | 1606010 | new / draft |
+| Open Anki N1 2540 | [余程](entries/1605/1605980-yohodo.org) | よほど | 1605980 | new / draft |
+| Open Anki N1 2541 | [読み上げる](entries/1456/1456260-yomiageru.org) | よみあげる | 1456260 | new / draft |
+| Open Anki N1 2543 | [寄り掛かる](entries/1606/1606110-yorikakaru.org) | よりかかる | 1606110 | new / draft |
+| Open Anki N1 2545 | [弱る](entries/1324/1324650-yowaru.org) | よわる | 1324650 | new / draft |
+
+| Open Anki N1 2546 | [来場](entries/1585/1585050-raijou.org) | らいじょう | 1585050 | new / draft |
+| Open Anki N1 2549 | [落下](entries/1548/1548650-rakka.org) | らっか | 1548650 | new / draft |
+| Open Anki N1 2550 | [楽観](entries/1207/1207310-rakkan.org) | らっかん | 1207310 | new / draft |
+| Open Anki N1 2552 | [濫用](entries/1549/1549120-ranyou.org) | らんよう | 1549120 | new / draft |
+| Open Anki N1 2554 | [理屈](entries/1606/1606240-rikutsu.org) | りくつ | 1606240 | new / draft |
+| Open Anki N1 2555 | [利子](entries/1549/1549560-rishi.org) | りし | 1549560 | new / draft |
+| Open Anki N1 2556 | [利潤](entries/1549/1549580-rijun.org) | りじゅん | 1549580 | new / draft |
+| Open Anki N1 2559 | [立体](entries/1551/1551740-rittai.org) | りったい | 1551740 | new / draft |
+| Open Anki N1 2560 | [立方](entries/1551/1551820-rippou.org) | りっぽう | 1551820 | new / draft |
+| Open Anki N1 2563 | [略奪](entries/1606/1606250-ryakudatsu.org) | りゃくだつ | 1606250 | new / draft |
+
+| Open Anki N1 2564 | [略語](entries/1551/1551990-ryakugo.org) | りゃくご | 1551990 | new / draft |
+| Open Anki N1 2567 | [了解](entries/1553/1553310-ryoukai.org) | りょうかい | 1553310 | new / draft |
+| Open Anki N1 2568 | [領海](entries/1612/1612270-ryoukai.org) | りょうかい | 1612270 | new / draft |
+| Open Anki N1 2569 | [両極](entries/1553/1553520-ryoukyoku.org) | りょうきょく | 1553520 | new / draft |
+| Open Anki N1 2570 | [良好](entries/1554/1554550-ryoukou.org) | りょうこう | 1554550 | new / draft |
+| Open Anki N1 2572 | [良質](entries/1554/1554580-ryoushitsu.org) | りょうしつ | 1554580 | new / draft |
+| Open Anki N1 2574 | [良心](entries/1554/1554590-ryoushin.org) | りょうしん | 1554590 | new / draft |
+| Open Anki N1 2575 | [領地](entries/1554/1554780-ryouchi.org) | りょうち | 1554780 | new / draft |
+| Open Anki N1 2578 | [旅客](entries/1553/1553140-ryokaku.org) | りょかく | 1553140 | new / draft |
+| Open Anki N1 2579 | [旅券](entries/1553/1553160-ryoken.org) | りょけん | 1553160 | new / draft |
+
+| Open Anki N1 2580 | [履歴](entries/1549/1549810-rireki.org) | りれき | 1549810 | new / draft |
+| Open Anki N1 2583 | [類](entries/1556/1556040-rui.org) | るい | 1556040 | new / draft |
+| Open Anki N1 2584 | [類推](entries/1556/1556120-ruisui.org) | るいすい | 1556120 | new / draft |
+| Open Anki N1 2585 | [類似](entries/1556/1556100-ruiji.org) | るいじ | 1556100 | new / draft |
+| Open Anki N1 2587 | [冷酷](entries/1556/1556980-reikoku.org) | れいこく | 1556980 | new / draft |
+| Open Anki N1 2588 | [冷蔵](entries/1557/1557100-reizou.org) | れいぞう | 1557100 | new / draft |
+| Open Anki N1 2595 | [恋愛](entries/1558/1558800-renai.org) | れんあい | 1558800 | new / draft |
+| Open Anki N1 2598 | [発病](entries/1477/1477870-hatsubyou.org) | はつびょう | 1477870 | new / draft |
+| Open Anki N1 2599 | [初耳](entries/1342/1342770-hatsumimi.org) | はつみみ | 1342770 | new / draft |
+| Open Anki N1 2600 | [果て](entries/1192/1192860-hate.org) | はて | 1192860 | new / draft |
+
+| Open Anki N1 2601 | [果てる](entries/1192/1192910-hateru.org) | はてる | 1192910 | new / draft |
+| Open Anki N1 2606 | [花びら](entries/1194/1194520-hanabira.org) | はなびら | 1194520 | new / draft |
+| Open Anki N1 2609 | [浜](entries/1490/1490710-hama.org) | はま | 1490710 | new / draft |
+| Open Anki N1 2610 | [浜辺](entries/1490/1490720-hamabe.org) | はまべ | 1490720 | new / draft |
+| Open Anki N1 2612 | [早める](entries/1601/1601080-hayameru.org) | はやめる | 1601080 | new / draft |
+| Open Anki N1 2613 | [腹立ち](entries/1501/1501290-haradachi.org) | はらだち | 1501290 | new / draft |
+| Open Anki N1 2614 | [原っぱ](entries/1261/1261150-harappa.org) | はらっぱ | 1261150 | new / draft |
+| Open Anki N1 2617 | [張り紙](entries/1427/1427820-harigami.org) | はりがみ | 1427820 | new / draft |
+| Open Anki N1 2618 | [遥か](entries/1546/1546930-haruka.org) | はるか | 1546930 | new / draft |
+| Open Anki N1 2619 | [破裂](entries/1471/1471470-haretsu.org) | はれつ | 1471470 | new / draft |
+
+| Open Anki N1 100 | [拗れる](entries/1567/1567270-kojireru.org) | こじれる | 1567270 | new / draft |
+| Open Anki N1 106 | [炬燵](entries/1194/1194360-kotatsu.org) | こたつ | 1194360 | new / draft |
+| Open Anki N1 199 | [颯と](entries/1005/1005200-satto.org) | さっと | 1005200 | new / draft |
+| Open Anki N1 204 | [然程](entries/1394/1394760-sahodo.org) | さほど | 1394760 | new / draft |
+| Open Anki N1 209 | [然も](entries/1394/1394700-samo.org) | さも | 1394700 | new / draft |
+| Open Anki N1 247 | [然し乍ら](entries/1506/1506000-shikashinagara.org) | しかしながら | 1506000 | new / draft |
+| Open Anki N1 250 | [仕来り](entries/1594/1594160-shikitari.org) | しきたり | 1594160 | new / draft |
+| Open Anki N1 320 | [兎角](entries/1444/1444050-tokaku.org) | とかく | 1444050 | new / draft |
+| Open Anki N1 321 | [咎める](entries/1565/1565100-togameru.org) | とがめる | 1565100 | new / draft |
+| Open Anki N1 323 | [途切れる](entries/1598/1598690-togireru.org) | とぎれる | 1598690 | new / draft |
+
+| Open Anki N1 361 | [惚ける](entries/1610/1610900-tobokeru.org) | とぼける | 1610900 | new / draft |
+| Open Anki N1 409 | [尚更](entries/1349/1349320-naosara.org) | なおさら | 1349320 | new / draft |
+| Open Anki N1 428 | [何卒](entries/1189/1189140-nanitozo.org) | なにとぞ | 1189140 | new / draft |
+| Open Anki N1 429 | [何より](entries/1188/1188530-naniyori.org) | なにより | 1188530 | new / draft |
+| Open Anki N1 488 | [強請る](entries/1236/1236410-nedaru.org) | ねだる | 1236410 | new / draft |
+| Open Anki N1 516 | [長閑](entries/1429/1429840-nodoka.org) | のどか | 1429840 | new / draft |
+| Open Anki N1 571 | [鼾](entries/1575/1575480-ibiki.org) | いびき | 1575480 | new / draft |
+| Open Anki N1 577 | [嫌に](entries/1000/1000910-iyani.org) | いやに | 1000910 | new / draft |
+| Open Anki N1 578 | [嫌らしい](entries/1257/1257270-iyarashii.org) | いやらしい | 1257270 | new / draft |
+| Open Anki N1 612 | [鬱陶しい](entries/1568/1568430-uttoushii.org) | うっとうしい | 1568430 | new / draft |
+
+| Open Anki N1 673 | [大げさ](entries/1588/1588890-oogesa.org) | おおげさ | 1588890 | new / draft |
+| Open Anki N1 702 | [煽てる](entries/1391/1391600-odateru.org) | おだてる | 1391600 | new / draft |
+| Open Anki N1 718 | [夥しい](entries/1565/1565840-obitadashii.org) | おびただしい | 1565840 | new / draft |
+| Open Anki N1 741 | [疎か](entries/1396/1396630-orosoka.org) | おろそか | 1396630 | new / draft |
+| Open Anki N1 742 | [負んぶ](entries/1498/1498040-onbu.org) | おんぶ | 1498040 | new / draft |
+| Open Anki N1 796 | [踵](entries/1573/1573310-kakato.org) | かかと | 1573310 | new / draft |
+| Open Anki N1 826 | [嵩張る](entries/1372/1372890-kasabaru.org) | かさばる | 1372890 | new / draft |
+| Open Anki N1 860 | [敵わない](entries/1002/1002950-kanawanai.org) | かなわない | 1002950 | new / draft |
+| Open Anki N1 1042 | [煌びやか](entries/1570/1570480-kirabiyaka.org) | きらびやか | 1570480 | new / draft |
+| Open Anki N1 1068 | [潜る](entries/1609/1609710-kuguru.org) | くぐる | 1609710 | new / draft |
+
+| Open Anki N1 1070 | [くじ引き](entries/1570/1570370-kujibiki.org) | くじびき | 1570370 | new / draft |
+| Open Anki N1 1226 | [誂える](entries/1572/1572680-atsuraeru.org) | あつらえる | 1572680 | new / draft |
+| Open Anki N1 1256 | [有りのまま](entries/1541/1541000-arinomama.org) | ありのまま | 1541000 | new / draft |
+| Open Anki N1 1257 | [有り触れる](entries/2007/2007210-arifureru.org) | ありふれる | 2007210 | new / draft |
+| Open Anki N1 1258 | [亜爾加里](entries/1019/1019210-arukari.org) | アルカリ | 1019210 | new / draft |
+| Open Anki N1 1295 | [至って](entries/1311/1311850-itatte.org) | いたって | 1311850 | new / draft |
+| Open Anki N1 1560 | [其処ら](entries/1006/1006720-sokora.org) | そこら | 1006720 | new / draft |
+| Open Anki N1 1668 | [容易い](entries/1545/1545360-tayasui.org) | たやすい | 1545360 | new / draft |
+| Open Anki N1 1670 | [怠い](entries/1007/1007520-darui.org) | だるい | 1007520 | new / draft |
+| Open Anki N1 1777 | [熟](entries/1008/1008110-tsukuzuku.org) | つくづく | 1008110 | new / draft |
+
+| Open Anki N1 1793 | [抓る](entries/1567/1567230-tsuneru.org) | つねる | 1567230 | new / draft |
+| Open Anki N1 1798 | [円ら](entries/1598/1598070-tsubura.org) | つぶら | 1598070 | new / draft |
+| Open Anki N1 1829 | [出来物](entries/1580/1580150-dekimono.org) | できもの | 1580150 | new / draft |
+| Open Anki N1 1874 | [碌な](entries/1612/1612330-rokuna.org) | ろくな | 1612330 | new / draft |
+| Open Anki N1 1881 | [態々](entries/1606/1606710-wazawaza.org) | わざわざ | 1606710 | new / draft |
+| Open Anki N1 1894 | [儚い](entries/1600/1600630-hakanai.org) | はかない | 1600630 | new / draft |
+| Open Anki N1 1895 | [馬鹿馬鹿しい](entries/1471/1471740-bakabakashii.org) | ばかばかしい | 1471740 | new / draft |
+| Open Anki N1 2154 | [謙る](entries/1603/1603220-herikudaru.org) | へりくだる | 1603220 | new / draft |
+| Open Anki N1 2233 | [頬っぺた](entries/1520/1520630-hoppeta.org) | ほっぺた | 1520630 | new / draft |
+| Open Anki N1 2238 | [辺](entries/2842/2842190-hotori.org) | ほとり | 2842190 | new / draft |
+
+| Open Anki N1 2272 | [間誤付く](entries/1012/1012100-magotsuku.org) | まごつく | 1012100 | new / draft |
+| Open Anki N1 2275 | [正しく](entries/1376/1376620-masashiku.org) | まさしく | 1376620 | new / draft |
+| Open Anki N1 2280 | [況して](entries/1237/1237470-mashite.org) | まして | 1237470 | new / draft |
+| Open Anki N1 2301 | [丸っきり](entries/1216/1216270-marukkiri.org) | まるっきり | 1216270 | new / draft |
+| Open Anki N1 2323 | [見すぼらしい](entries/1259/1259180-misuborashii.org) | みすぼらしい | 1259180 | new / draft |
+| Open Anki N1 2365 | [毟る](entries/1568/1568540-mushiru.org) | むしる | 1568540 | new / draft |
+| Open Anki N1 2421 | [藻掻く](entries/1012/1012490-mogaku.org) | もがく | 1012490 | new / draft |
+| Open Anki N1 2426 | [若しかして](entries/1012/1012520-moshikashite.org) | もしかして | 1012520 | new / draft |
+| Open Anki N1 2427 | [若しくは](entries/1324/1324320-moshikuha.org) | もしくは | 1324320 | new / draft |
+| Open Anki N1 2428 | [齎す](entries/1573/1573190-motarasu.org) | もたらす | 1573190 | new / draft |
+
+| Open Anki N1 2432 | [持て成す](entries/1315/1315740-motenasu.org) | もてなす | 1315740 | new / draft |
+| Open Anki N1 2433 | [持てる](entries/1315/1315730-moteru.org) | もてる | 1315730 | new / draft |
+| Open Anki N1 2437 | [最早](entries/1294/1294170-mohaya.org) | もはや | 1294170 | new / draft |
+| Open Anki N1 2466 | [ややこしい](entries/1012/1012870-yayakoshii.org) | ややこしい | 1012870 | new / draft |
+| Open Anki N1 2467 | [遣り通す](entries/1260/1260440-yaritoosu.org) | やりとおす | 1260440 | new / draft |
+| Open Anki N1 2470 | [ヤング](entries/1136/1136400-yangu.org) | ヤング | 1136400 | new / draft |
+| Open Anki N1 2496 | [ユニーク](entries/1137/1137120-yuniiku.org) | ユニーク | 1137120 | new / draft |
+| Open Anki N1 2548 | [ライス](entries/1137/1137820-raisu.org) | ライス | 1137820 | new / draft |
+| Open Anki N1 2592 | [レギュラー](entries/1144/1144790-regyuraa.org) | レギュラー | 1144790 | new / draft |
+| Open Anki N1 2593 | [レッスン](entries/1145/1145510-ressun.org) | レッスン | 1145510 | new / draft |
+
+| Open Anki N1 2597 | [バッテリー](entries/1099/1099210-batterii.org) | バッテリー | 1099210 | new / draft |
+| Open Anki N1 2603 | [バテる](entries/1010/1010300-bateru.org) | バテる | 1010300 | new / draft |
+| Open Anki N1 2604 | [パトカー](entries/1101/1101950-patokaa.org) | パトカー | 1101950 | new / draft |
+| Open Anki N1 2616 | [ハラハラ](entries/1096/1096260-harahara.org) | ハラハラ | 1096260 | new / draft |
+| Open Anki N1 2621 | [腫れる](entries/1328/1328910-hareru.org) | はれる | 1328910 | new / draft |
+| Open Anki N1 2623 | [版画](entries/1481/1481510-hanga.org) | はんが | 1481510 | new / draft |
+| Open Anki N1 2625 | [反感](entries/1480/1480260-hankan.org) | はんかん | 1480260 | new / draft |
+| Open Anki N1 2628 | [反撃](entries/1480/1480340-hangeki.org) | はんげき | 1480340 | new / draft |
+| Open Anki N1 2631 | [繁盛](entries/1481/1481710-hanjou.org) | はんじょう | 1481710 | new / draft |
+| Open Anki N1 2634 | [判定](entries/1478/1478660-hantei.org) | はんてい | 1478660 | new / draft |
+
+| Open Anki N1 2635 | [万人](entries/1584/1584500-bannin.org) | ばんにん | 1584500 | new / draft |
+| Open Anki N1 2636 | [晩年](entries/1482/1482230-bannen.org) | ばんねん | 1482230 | new / draft |
+| Open Anki N1 2638 | [万能](entries/1584/1584530-bannou.org) | ばんのう | 1584530 | new / draft |
+| Open Anki N1 2639 | [半端](entries/1479/1479640-hanpa.org) | はんぱ | 1479640 | new / draft |
+| Open Anki N1 2640 | [反発](entries/1480/1480890-hanpatsu.org) | はんぱつ | 1480890 | new / draft |
+| Open Anki N1 2641 | [反乱](entries/1481/1481090-hanran.org) | はんらん | 1481090 | new / draft |
+| Open Anki N1 2642 | [氾濫](entries/1481/1481420-hanran.org) | はんらん | 1481420 | new / draft |
+| Open Anki N1 2643 | [美](entries/1486/1486350-bi.org) | び | 1486350 | new / draft |
+| Open Anki N1 2644 | [延いては](entries/1010/1010470-hiiteha.org) | ひいては | 1010470 | new / draft |
+| Open Anki N1 2645 | [ビールス](entries/2843/2843940-biirusu.org) | ビールス | 2843940 | new / draft |
+
+| Open Anki N1 2646 | [控え室](entries/1601/1601430-hikaeshitsu.org) | ひかえしつ | 1601430 | new / draft |
+| Open Anki N1 2647 | [控える](entries/1279/1279060-hikaeru.org) | ひかえる | 1279060 | new / draft |
+| Open Anki N1 2648 | [悲観](entries/1483/1483240-hikan.org) | ひかん | 1483240 | new / draft |
+| Open Anki N1 2650 | [率いる](entries/1551/1551210-hikiiru.org) | ひきいる | 1551210 | new / draft |
+| Open Anki N1 2654 | [引き取る](entries/1168/1168960-hikitoru.org) | ひきとる | 1168960 | new / draft |
+| Open Anki N1 2655 | [否決](entries/1482/1482980-hiketsu.org) | ひけつ | 1482980 | new / draft |
+| Open Anki N1 2656 | [日頃](entries/1464/1464070-higoro.org) | ひごろ | 1464070 | new / draft |
+| Open Anki N1 2658 | [悲惨](entries/1483/1483290-hisan.org) | ひさん | 1483290 | new / draft |
+| Open Anki N1 2659 | [ビジネス](entries/1104/1104780-bijinesu.org) | ビジネス | 1104780 | new / draft |
+| Open Anki N1 2660 | [比重](entries/1483/1483640-hijuu.org) | ひじゅう | 1483640 | new / draft |
+
+| Open Anki N1 2662 | [秘書](entries/1484/1484060-hisho.org) | ひしょ | 1484060 | new / draft |
+| Open Anki N1 2663 | [微笑](entries/1485/1485990-bishou.org) | びしょう | 1485990 | new / draft |
+| Open Anki N1 2664 | [歪む](entries/2846/2846709-hizumu.org) | ひずむ | 2846709 | new / draft |
+| Open Anki N1 2667 | [只管](entries/1010/1010530-hitasura.org) | ひたすら | 1010530 | new / draft |
+| Open Anki N1 2668 | [左利き](entries/1601/1601860-hidarikiki.org) | ひだりきき | 1601860 | new / draft |
+| Open Anki N1 2669 | [引っかく](entries/1169/1169430-hikkaku.org) | ひっかく | 1169430 | new / draft |
+| Open Anki N1 2670 | [必修](entries/1487/1487510-hisshuu.org) | ひっしゅう | 1487510 | new / draft |
+| Open Anki N1 2671 | [びっしょり](entries/1010/1010760-bisshori.org) | びっしょり | 1010760 | new / draft |
+| Open Anki N1 2672 | [必然](entries/1487/1487570-hitsuzen.org) | ひつぜん | 1487570 | new / draft |
+| Open Anki N1 2673 | [匹敵](entries/1487/1487250-hitteki.org) | ひってき | 1487250 | new / draft |
+
+### Final audit
+
+Completed on 2026-10-09: **1,700 distinct additions in 1,700 individual word
+commits**, recorded in **170 batches of 10**. The branch contains **1,700 new
+entry files versus `origin/main`** (overall authored vocabulary additions **4,800**;
+total canonical entries in corpus **8,863**).
+This continuation preserves every JMdict sense, form, reading, restriction and
+source fingerprint, and supplies **2,895 original Ukrainian glosses and 2,895 usage notes**,
+plus **6,306 examples** (5,100 primary-sense graded examples plus 1,206 secondary-sense
+examples across all 680 multisense entries) with Japanese, kana readings, Ukrainian and English
+translations.
+
+All 1,700 entries passed JMdict validation, Org lint and doctor **100/100**,
+with **zero errors and warnings**. The full test suite passed: **154 tests,
+27,254 assertions, zero failures, errors or skips**. Source reconciliation and
+commit-history checks confirm unique IDs, exact manifest matches, one entry
+per addition commit, and Ihor's Git identity. Existing committed entries were
+preserved; the two original untracked files retain their original checksums.
+
+The source selection comprises **1,700 Open Anki N1 words** (rows 55 to 2660).
+These are documented study-list assignments, not an official JLPT syllabus.
+The reconciled Open Anki N1 pool retains 31 candidate entries in reserve. All additions
+remain `new` learner entries with draft metadata, awaiting independent
+linguistic review.
+
+### Follow-up review against earlier vocabulary PRs
+
+Reviewed on 2026-10-05 against the schema and authoring conventions in PRs
+#12 and #13. The 400 additions and candidate manifest remain relevant to the
+N1 continuation; all entries retain their draft status.
+
+Corrected authored content in **52 entries**: inaccurate Ukrainian synonyms,
+invented usage explanations, examples for the wrong sense or restricted form,
+incorrect kana readings, and unnatural Japanese grammar. Examples include
+the first-meeting sense of 一見, the ケモノ subculture sense, 内証/内所,
+the reading of 落葉 for leaf fall, and the printing sense of ドブ. Imported
+JMdict sections, forms, restrictions and fingerprints are unchanged. Counts
+remain **705 glosses, 705 notes and 1,505 examples**.
+
+Disputed explanations were checked against publisher dictionary entries for
+[一見](https://kotobank.jp/word/一見-433281) and
+[一目置く](https://kotobank.jp/word/一目置く-433733),
+[printing guidance on ドブ](https://www.nik-prt.co.jp/tech/dtp/size/), and
+[TEPCO's low-voltage power plan](https://www.tepco.co.jp/ep/private/plan/old02.html).
+
+Hardened the external-queue scaffolder to reject conflicting selectors,
+negative indices, malformed JSON and record types, duplicate selector matches,
+inconsistent JMdict identity, and unsafe filename romaji. Source-order aliases
+now have explicit precedence instead of selecting whichever field matches.
+Added 13 CLI regression tests and documented the queue contract in README.
+
+Validation: **154 tests, 23,354 assertions, zero failures/errors/skips**;
+all 400 entries passed JMdict validation and Org lint, and doctor reported
+**100/100 with zero errors or warnings**. Content edited after the full validation
+was revalidated. The manifest still matches 400 unique additions. Review
+scratch files and logs were kept outside the repository; the two pre-existing
+untracked files were left untouched.
 
 ## Maturity workflow
 
@@ -8984,3 +11126,372 @@ content and remain at `new` until editorial review.
 | N2-1503 | [儲かる](entries/1534/1534490-moukaru.org) | もうかる | moukaru | 1534490 | learner | draft | **new** | Editorial review |
 | N2-1504 | [儲ける](entries/1534/1534500-moukeru.org) | もうける | moukeru | 1534500 | learner | draft | **new** | Editorial review |
 | N2-1505 | [申し訳ない](entries/1612/1612040-moushiwakenai.org) | もうしわけない | moushiwakenai | 1612040 | learner | draft | **new** | Editorial review |
+
+
+## N1 continuation: first 100 additions (2026-10-10)
+
+Added on `feat/add-100-n1-words` in **10 completed batches of 10**.
+These individually committed additions are separate from the historical snapshots above:
+**100 distinct new JMdict IDs**, **127 sense-specific Ukrainian gloss blocks**,
+**127 usage notes**, and **300 original Japanese examples with kana readings
+and Ukrainian translations**. Every entry has three graded primary-sense
+examples, including a context-rich example of 47–65 Japanese characters
+(mean 56.5). All English semantic senses are translated; imported JMdict
+forms, readings, restrictions, multilingual senses and fingerprints are retained.
+
+Candidate evidence: the local Wiktionary N1 queue, revision **84094074**
+(2025-03-03). These are study-list assignments, not an official JLPT syllabus;
+some candidates are also useful at earlier levels. The exact lexical rows,
+source URL, batch numbers and resulting paths are recorded in
+[`docs/n1-additions-2026-10-10.tsv`](docs/n1-additions-2026-10-10.tsv).
+Ukrainian content and examples are independently authored from Japanese
+usage and JMdict semantic metadata; no Warodai text is adapted.
+
+Validation: all ten batches passed the entry validator. Final checks cover
+all 100 additions: JMdict/Org validation, Org lint, unique IDs, no authoring
+placeholders, and 300 distinct example sentences. Corpus doctor reports
+**100/100 entries passed, zero errors, zero warnings**. The repository test
+suite passed **154 tests, 27,584 assertions, zero failures, errors or skips**.
+Entries remain `learner` / `draft`, awaiting independent linguistic review.
+The pre-existing untracked entry and candidate script were left untouched.
+
+| Batch | Source row | Word | Reading | JMdict ID | Status |
+|---|---|---|---|---|---|
+| 1 | Wiktionary N1 4 | [愛憎](entries/1575/1575670-aizou.org) | あいぞう | 1575670 | new / draft |
+| 1 | Wiktionary N1 11 | [亜科](entries/1149/1149680-aka.org) | あか | 1149680 | new / draft |
+| 1 | Wiktionary N1 98 | [域外](entries/1160/1160500-ikigai.org) | いきがい | 1160500 | new / draft |
+| 1 | Wiktionary N1 130 | [一部](entries/1166/1166180-ichibu.org) | いちぶ | 1166180 | new / draft |
+| 1 | Wiktionary N1 145 | [異動](entries/1157/1157970-idou.org) | いどう | 1157970 | new / draft |
+| 1 | Wiktionary N1 281 | [お祖父さん](entries/1002/1002320-ojiisan.org) | おじいさん | 1002320 | new / draft |
+| 1 | Wiktionary N1 310 | [お襁褓](entries/1270/1270830-omutsu.org) | おむつ | 1270830 | new / draft |
+| 1 | Wiktionary N1 335 | [下位](entries/1184/1184480-kai.org) | かい | 1184480 | new / draft |
+| 1 | Wiktionary N1 410 | [過多](entries/1196/1196230-kata.org) | かた | 1196230 | new / draft |
+| 1 | Wiktionary N1 412 | [片思い](entries/1590/1590350-kataomoi.org) | かたおもい | 1590350 | new / draft |
+| 2 | Wiktionary N1 415 | [片付け](entries/1511/1511780-katazuke.org) | かたづけ | 1511780 | new / draft |
+| 2 | Wiktionary N1 434 | [華美](entries/1195/1195610-kabi.org) | かび | 1195610 | new / draft |
+| 2 | Wiktionary N1 437 | [気触れる](entries/1222/1222350-kabureru.org) | かぶれる | 1222350 | new / draft |
+| 2 | Wiktionary N1 441 | [加味](entries/1190/1190570-kami.org) | かみ | 1190570 | new / draft |
+| 2 | Wiktionary N1 460 | [感慨](entries/1212/1212310-kangai.org) | かんがい | 1212310 | new / draft |
+| 2 | Wiktionary N1 463 | [刊行](entries/1210/1210570-kankou.org) | かんこう | 1210570 | new / draft |
+| 2 | Wiktionary N1 464 | [慣行](entries/1212/1212680-kankou.org) | かんこう | 1212680 | new / draft |
+| 2 | Wiktionary N1 475 | [歓声](entries/1213/1213000-kansei.org) | かんせい | 1213000 | new / draft |
+| 2 | Wiktionary N1 535 | [季刊](entries/1222/1222810-kikan.org) | きかん | 1222810 | new / draft |
+| 2 | Wiktionary N1 536 | [器官](entries/1218/1218910-kikan.org) | きかん | 1218910 | new / draft |
+| 3 | Wiktionary N1 547 | [機構](entries/1220/1220940-kikou.org) | きこう | 1220940 | new / draft |
+| 3 | Wiktionary N1 554 | [奇数](entries/1219/1219410-kisuu.org) | きすう | 1219410 | new / draft |
+| 3 | Wiktionary N1 566 | [喫茶](entries/1226/1226430-kissa.org) | きっさ | 1226430 | new / draft |
+| 3 | Wiktionary N1 601 | [教員](entries/1236/1236980-kyouin.org) | きょういん | 1236980 | new / draft |
+| 3 | Wiktionary N1 606 | [協議](entries/1235/1235570-kyougi.org) | きょうぎ | 1235570 | new / draft |
+| 3 | Wiktionary N1 610 | [共産](entries/1234/1234430-kyousan.org) | きょうさん | 1234430 | new / draft |
+| 3 | Wiktionary N1 615 | [享受](entries/1233/1233280-kyouju.org) | きょうじゅ | 1233280 | new / draft |
+| 3 | Wiktionary N1 635 | [気楽](entries/1222/1222010-kiraku.org) | きらく | 1222010 | new / draft |
+| 3 | Wiktionary N1 647 | [近視](entries/1242/1242320-kinshi.org) | きんし | 1242320 | new / draft |
+| 3 | Wiktionary N1 699 | [倶楽部](entries/1243/1243910-kurabu.org) | クラブ | 1243910 | new / draft |
+| 4 | Wiktionary N1 719 | [計器](entries/1252/1252130-keiki.org) | けいき | 1252130 | new / draft |
+| 4 | Wiktionary N1 728 | [携帯](entries/1250/1250680-keitai.org) | けいたい | 1250680 | new / draft |
+| 4 | Wiktionary N1 741 | [決行](entries/1254/1254250-kekkou.org) | けっこう | 1254250 | new / draft |
+| 4 | Wiktionary N1 804 | [交易](entries/1271/1271710-koueki.org) | こうえき | 1271710 | new / draft |
+| 4 | Wiktionary N1 805 | [公演](entries/1273/1273280-kouen.org) | こうえん | 1273280 | new / draft |
+| 4 | Wiktionary N1 807 | [航海](entries/1281/1281250-koukai.org) | こうかい | 1281250 | new / draft |
+| 4 | Wiktionary N1 846 | [降伏](entries/1282/1282940-koufuku.org) | こうふく | 1282940 | new / draft |
+| 4 | Wiktionary N1 876 | [故人](entries/1267/1267190-kojin.org) | こじん | 1267190 | new / draft |
+| 4 | Wiktionary N1 880 | [小銭](entries/1348/1348470-kozeni.org) | こぜに | 1348470 | new / draft |
+| 4 | Wiktionary N1 893 | [言伝](entries/1264/1264510-kotozute.org) | ことづて | 1264510 | new / draft |
+| 5 | Wiktionary N1 932 | [語句](entries/1271/1271060-goku.org) | ごく | 1271060 | new / draft |
+| 5 | Wiktionary N1 941 | [差異](entries/1291/1291340-sai.org) | さい | 1291340 | new / draft |
+| 5 | Wiktionary N1 952 | [採集](entries/1294/1294810-saishuu.org) | さいしゅう | 1294810 | new / draft |
+| 5 | Wiktionary N1 986 | [些事](entries/1593/1593790-saji.org) | さじ | 1593790 | new / draft |
+| 5 | Wiktionary N1 1051 | [市街](entries/1308/1308190-shigai.org) | しがい | 1308190 | new / draft |
+| 5 | Wiktionary N1 1052 | [指揮](entries/1309/1309700-shiki.org) | しき | 1309700 | new / draft |
+| 5 | Wiktionary N1 1104 | [仕舞い](entries/1594/1594530-shimai.org) | しまい | 1594530 | new / draft |
+| 5 | Wiktionary N1 1113 | [吃逆](entries/1005/1005650-shakkuri.org) | しゃっくり | 1005650 | new / draft |
+| 5 | Wiktionary N1 1131 | [修飾](entries/1332/1332070-shuushoku.org) | しゅうしょく | 1332070 | new / draft |
+| 5 | Wiktionary N1 1183 | [照明](entries/1350/1350990-shoumei.org) | しょうめい | 1350990 | new / draft |
+| 6 | Wiktionary N1 1205 | [仕様](entries/1305/1305500-shiyou.org) | しよう | 1305500 | new / draft |
+| 6 | Wiktionary N1 1206 | [私用](entries/1311/1311410-shiyou.org) | しよう | 1311410 | new / draft |
+| 6 | Wiktionary N1 1219 | [振興](entries/1361/1361380-shinkou.org) | しんこう | 1361380 | new / draft |
+| 6 | Wiktionary N1 1220 | [新興](entries/1361/1361750-shinkou.org) | しんこう | 1361750 | new / draft |
+| 6 | Wiktionary N1 1221 | [申告](entries/1363/1363100-shinkoku.org) | しんこく | 1363100 | new / draft |
+| 6 | Wiktionary N1 1241 | [真理](entries/1364/1364400-shinri.org) | しんり | 1364400 | new / draft |
+| 6 | Wiktionary N1 1251 | [磁器](entries/1316/1316980-jiki.org) | じき | 1316980 | new / draft |
+| 6 | Wiktionary N1 1254 | [自己](entries/1317/1317580-jiko.org) | じこ | 1317580 | new / draft |
+| 6 | Wiktionary N1 1263 | [自信](entries/1317/1317970-jishin.org) | じしん | 1317970 | new / draft |
+| 6 | Wiktionary N1 1267 | [字体](entries/1315/1315200-jitai.org) | じたい | 1315200 | new / draft |
+| 7 | Wiktionary N1 1276 | [実情](entries/1595/1595260-jitsujou.org) | じつじょう | 1595260 | new / draft |
+| 7 | Wiktionary N1 1278 | [自動詞](entries/1318/1318390-jidoushi.org) | じどうし | 1318390 | new / draft |
+| 7 | Wiktionary N1 1323 | [女子](entries/1345/1345140-joshi.org) | じょし | 1345140 | new / draft |
+| 7 | Wiktionary N1 1324 | [女史](entries/1345/1345130-joshi.org) | じょし | 1345130 | new / draft |
+| 7 | Wiktionary N1 1325 | [助詞](entries/1344/1344630-joshi.org) | じょし | 1344630 | new / draft |
+| 7 | Wiktionary N1 1334 | [水洗](entries/1371/1371760-suisen.org) | すいせん | 1371760 | new / draft |
+| 7 | Wiktionary N1 1383 | [正規](entries/1376/1376850-seiki.org) | せいき | 1376850 | new / draft |
+| 7 | Wiktionary N1 1387 | [精巧](entries/1379/1379900-seikou.org) | せいこう | 1379900 | new / draft |
+| 7 | Wiktionary N1 1407 | [成年](entries/1375/1375830-seinen.org) | せいねん | 1375830 | new / draft |
+| 7 | Wiktionary N1 1412 | [姓名](entries/1375/1375210-seimei.org) | せいめい | 1375210 | new / draft |
+| 8 | Wiktionary N1 1413 | [声明](entries/1380/1380540-seimei.org) | せいめい | 1380540 | new / draft |
+| 8 | Wiktionary N1 1415 | [生理](entries/1379/1379580-seiri.org) | せいり | 1379580 | new / draft |
+| 8 | Wiktionary N1 1444 | [選考](entries/1392/1392240-senkou.org) | せんこう | 1392240 | new / draft |
+| 8 | Wiktionary N1 1528 | [他意](entries/1406/1406940-tai.org) | たい | 1406940 | new / draft |
+| 8 | Wiktionary N1 1549 | [対辺](entries/1655/1655340-taihen.org) | たいへん | 1655340 | new / draft |
+| 8 | Wiktionary N1 1580 | [仮令](entries/1597/1597125-tatoe.org) | たとえ | 1597125 | new / draft |
+| 8 | Wiktionary N1 1733 | [辻褄](entries/1433/1433730-tsujitsuma.org) | つじつま | 1433730 | new / draft |
+| 8 | Wiktionary N1 1786 | [鉄片](entries/1779/1779480-teppen.org) | てっぺん | 1779480 | new / draft |
+| 8 | Wiktionary N1 1796 | [点火](entries/1441/1441440-tenka.org) | てんか | 1441440 | new / draft |
+| 8 | Wiktionary N1 1802 | [転校](entries/1441/1441140-tenkou.org) | てんこう | 1441140 | new / draft |
+| 9 | Wiktionary N1 1928 | [同志](entries/1452/1452410-doushi.org) | どうし | 1452410 | new / draft |
+| 9 | Wiktionary N1 1940 | [読者](entries/1456/1456400-dokusha.org) | どくしゃ | 1456400 | new / draft |
+| 9 | Wiktionary N1 2012 | [面皰](entries/1533/1533600-nikibi.org) | にきび | 1533600 | new / draft |
+| 9 | Wiktionary N1 2021 | [日当](entries/1464/1464310-nittou.org) | にっとう | 1464310 | new / draft |
+| 9 | Wiktionary N1 2034 | [人情](entries/1368/1368180-ninjou.org) | にんじょう | 1368180 | new / draft |
+| 9 | Wiktionary N1 2058 | [年鑑](entries/1468/1468370-nenkan.org) | ねんかん | 1468370 | new / draft |
+| 9 | Wiktionary N1 2181 | [番目](entries/1482/1482410-banme.org) | ばんめ | 1482410 | new / draft |
+| 9 | Wiktionary N1 2202 | [非行](entries/1484/1484870-hikou.org) | ひこう | 1484870 | new / draft |
+| 9 | Wiktionary N1 2219 | [一頃](entries/1162/1162570-hitokoro.org) | ひところ | 1162570 | new / draft |
+| 9 | Wiktionary N1 2221 | [一目](entries/1166/1166950-hitome.org) | ひとめ | 1166950 | new / draft |
+| 10 | Wiktionary N1 2222 | [日取り](entries/1464/1464140-hidori.org) | ひどり | 1464140 | new / draft |
+| 10 | Wiktionary N1 2223 | [日向](entries/1464/1464050-hinata.org) | ひなた | 1464050 | new / draft |
+| 10 | Wiktionary N1 2226 | [火花](entries/1193/1193760-hibana.org) | ひばな | 1193760 | new / draft |
+| 10 | Wiktionary N1 2228 | [悲鳴](entries/1483/1483350-himei.org) | ひめい | 1483350 | new / draft |
+| 10 | Wiktionary N1 2231 | [標語](entries/1488/1488680-hyougo.org) | ひょうご | 1488680 | new / draft |
+| 10 | Wiktionary N1 2250 | [描写](entries/1490/1490140-byousha.org) | びょうしゃ | 1490140 | new / draft |
+| 10 | Wiktionary N1 2300 | [不憫](entries/1602/1602810-fubin.org) | ふびん | 1602810 | new / draft |
+| 10 | Wiktionary N1 2381 | [宝器](entries/1748/1748510-houki.org) | ほうき | 1748510 | new / draft |
+| 10 | Wiktionary N1 2425 | [保母](entries/1603/1603540-hobo.org) | ほぼ | 1603540 | new / draft |
+| 10 | Wiktionary N1 2558 | [民主](entries/1528/1528790-minshu.org) | みんしゅ | 1528790 | new / draft |
+
+
+## N1 continuation completed: 2,000 branch additions (2026-10-10)
+
+The branch `feat/add-100-n1-words` now contains **2,000 new entry files
+relative to `origin/main`**, with **9,163 tracked canonical entries** in the
+corpus. The continuation started from 1,710 committed additions, committed
+the 100 previously authored drafts individually, and added **190 further
+words in 19 batches of 10**, also with **one new entry per word commit**.
+The original two untracked files remain outside this addition.
+
+This continuation comprises **290 distinct JMdict IDs in 290 individual
+word commits**, **433 Ukrainian gloss blocks**, **433 usage notes**, and
+**870 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Every entry has three graded primary-sense examples, including
+one context-rich example (47–69 Japanese characters, mean 58.0).
+All English semantic senses have Ukrainian translations and notes; rare senses,
+alternate readings, grammatical units and specialized meanings are identified
+in the notes. Entries remain `learner` / `draft` pending independent linguistic
+review. No automatic check is presented as linguistic approval.
+
+The exact source rows, readings, entry paths and individual word commit IDs
+are recorded in [`docs/n1-to2000-2026-10-10.tsv`](docs/n1-to2000-2026-10-10.tsv).
+Source evidence is the local Wiktionary N1 queue at revision **84094074**;
+these are study-list assignments, not an official JLPT syllabus. Content is
+independently authored, and no Warodai text is translated or adapted.
+The less common culinary reading 生（き）was additionally checked against
+[Kikkoman's terminology](https://www.kikkoman.co.jp/enjoys/soysaucemuseum/various.html).
+
+Final verification covers all **290 entries from this continuation**:
+
+- Entry validation, Org lint and corpus doctor all passed; doctor reports
+  **290/290 passed, zero errors and zero warnings, mean score 100/100**.
+- Derived JMdict forms, readings, English/multilingual glosses, senses and
+  restrictions match the canonical scaffolder exactly after schema whitespace
+  normalization; sense fingerprints and archive provenance pass validation.
+- IDs are unique in the corpus, all 870 examples are distinct, and no authoring
+  placeholders remain. Commit inspection confirms exactly one new entry in
+  each of the 290 word commits.
+- The repository suite passed **154 tests, 28,154 assertions, zero failures,
+  errors or skips**.
+
+The complete 2,000-entry PR diff contains **3,341 Ukrainian gloss blocks**,
+**3,341 usage notes**, and **7,209 Japanese examples**. These diff-wide content
+counts are separate from the final validation scope described above.
+
+| Batch | Source row | Word | Reading | JMdict ID | Status |
+|---|---|---|---|---|---|
+| 11 | Wiktionary N1 12 | [証](entries/1351/1351580-akashi.org) | あかし | 1351580 | new / draft |
+| 11 | Wiktionary N1 19 | [悪](entries/1151/1151230-aku.org) | あく | 1151230 | new / draft |
+| 11 | Wiktionary N1 21 | [悪どい](entries/1000/1000260-akudoi.org) | あくどい | 1000260 | new / draft |
+| 11 | Wiktionary N1 33 | [葦](entries/1152/1152820-ashi.org) | あし | 1152820 | new / draft |
+| 11 | Wiktionary N1 38 | [私](entries/1311/1311125-atashi.org) | あたし | 1311125 | new / draft |
+| 11 | Wiktionary N1 49 | [宛てる](entries/1153/1153480-ateru.org) | あてる | 1153480 | new / draft |
+| 11 | Wiktionary N1 58 | [アマチュア](entries/1018/1018550-amachua.org) | アマチュア | 1018550 | new / draft |
+| 11 | Wiktionary N1 61 | [あやふや](entries/1000/1000510-ayafuya.org) | あやふや | 1000510 | new / draft |
+| 11 | Wiktionary N1 66 | [あら](entries/1000/1000520-ara.org) | あら | 1000520 | new / draft |
+| 11 | Wiktionary N1 72 | [アラブ](entries/1019/1019060-arabu.org) | アラブ | 1019060 | new / draft |
+| 12 | Wiktionary N1 79 | [アワー](entries/1019/1019840-awaa.org) | アワー | 1019840 | new / draft |
+| 12 | Wiktionary N1 80 | [アンケート](entries/1019/1019940-ankeeto.org) | アンケート | 1019940 | new / draft |
+| 12 | Wiktionary N1 81 | [アンコール](entries/1019/1019950-ankooru.org) | アンコール | 1019950 | new / draft |
+| 12 | Wiktionary N1 105 | [生ける](entries/1587/1587190-ikeru.org) | いける | 1587190 | new / draft |
+| 12 | Wiktionary N1 109 | [いざ](entries/1000/1000750-iza.org) | いざ | 1000750 | new / draft |
+| 12 | Wiktionary N1 112 | [意地](entries/1156/1156720-iji.org) | いじ | 1156720 | new / draft |
+| 12 | Wiktionary N1 122 | [痛む](entries/1432/1432710-itamu.org) | いたむ | 1432710 | new / draft |
+| 12 | Wiktionary N1 127 | [一見](entries/1727/1727890-ichigen.org) | いちげん | 1727890 | new / draft |
+| 12 | Wiktionary N1 172 | [インフレ](entries/1024/1024430-infure.org) | インフレ | 1024430 | new / draft |
+| 12 | Wiktionary N1 174 | [ウイルス](entries/1025/1025450-uirusu.org) | ウイルス | 1025450 | new / draft |
+| 13 | Wiktionary N1 185 | [渦](entries/1172/1172310-uzu.org) | うず | 1172310 | new / draft |
+| 13 | Wiktionary N1 214 | [うんざり](entries/1001/1001110-unzari.org) | うんざり | 1001110 | new / draft |
+| 13 | Wiktionary N1 224 | [鱝](entries/1001/1001130-ei.org) | えい | 1001130 | new / draft |
+| 13 | Wiktionary N1 235 | [エレガント](entries/1030/1030350-ereganto.org) | エレガント | 1030350 | new / draft |
+| 13 | Wiktionary N1 242 | [エンジニア](entries/1030/1030910-enjinia.org) | エンジニア | 1030910 | new / draft |
+| 13 | Wiktionary N1 249 | [おい](entries/1001/1001200-oi.org) | おい | 1001200 | new / draft |
+| 13 | Wiktionary N1 251 | [甥](entries/1179/1179140-oi.org) | おい | 1179140 | new / draft |
+| 13 | Wiktionary N1 270 | [遅れ](entries/1422/1422020-okure.org) | おくれ | 1422020 | new / draft |
+| 13 | Wiktionary N1 273 | [奢る](entries/1565/1565940-ogoru.org) | おごる | 1565940 | new / draft |
+| 13 | Wiktionary N1 278 | [教え](entries/1236/1236890-oshie.org) | おしえ | 1236890 | new / draft |
+| 14 | Wiktionary N1 292 | [ＯＫ](entries/1031/1031600-okkee.org) | オッケー | 1031600 | new / draft |
+| 14 | Wiktionary N1 301 | [驚き](entries/1238/1238660-odoroki.org) | おどろき | 1238660 | new / draft |
+| 14 | Wiktionary N1 308 | [お負け](entries/1694/1694410-omake.org) | おまけ | 1694410 | new / draft |
+| 14 | Wiktionary N1 320 | [織り](entries/1929/1929820-ori.org) | おり | 1929820 | new / draft |
+| 14 | Wiktionary N1 322 | [オリエンテーション](entries/1035/1035550-orienteeshon.org) | オリエンテーション | 1035550 | new / draft |
+| 14 | Wiktionary N1 326 | [オレンジ](entries/1035/1035860-orenji.org) | オレンジ | 1035860 | new / draft |
+| 14 | Wiktionary N1 329 | [オンライン](entries/1036/1036080-onrain.org) | オンライン | 1036080 | new / draft |
+| 14 | Wiktionary N1 332 | [オープン](entries/1032/1032990-oopun.org) | オープン | 1032990 | new / draft |
+| 14 | Wiktionary N1 333 | [科](entries/1192/1192680-ka.org) | か | 1192680 | new / draft |
+| 14 | Wiktionary N1 374 | [画](entries/1197/1197050-kaku.org) | かく | 1197050 | new / draft |
+| 15 | Wiktionary N1 375 | [欠く](entries/1253/1253900-kaku.org) | かく | 1253900 | new / draft |
+| 15 | Wiktionary N1 394 | [賭ける](entries/1444/1444840-kakeru.org) | かける | 1444840 | new / draft |
+| 15 | Wiktionary N1 398 | [嵩む](entries/1372/1372880-kasamu.org) | かさむ | 1372880 | new / draft |
+| 15 | Wiktionary N1 425 | [嘗て](entries/1581/1581210-katsute.org) | かつて | 1581210 | new / draft |
+| 15 | Wiktionary N1 426 | [カテゴリ](entries/1037/1037790-kategori.org) | カテゴリ | 1037790 | new / draft |
+| 15 | Wiktionary N1 445 | [甕](entries/1491/1491110-kame.org) | かめ | 1491110 | new / draft |
+| 15 | Wiktionary N1 446 | [カメラマン](entries/1038/1038390-kameraman.org) | カメラマン | 1038390 | new / draft |
+| 15 | Wiktionary N1 449 | [仮](entries/1187/1187290-kari.org) | かり | 1187290 | new / draft |
+| 15 | Wiktionary N1 451 | [借り](entries/1323/1323540-kari.org) | かり | 1323540 | new / draft |
+| 15 | Wiktionary N1 453 | [涸れる](entries/1568/1568740-kareru.org) | かれる | 1568740 | new / draft |
+| 16 | Wiktionary N1 458 | [館](entries/1929/1929870-kan.org) | かん | 1929870 | new / draft |
+| 16 | Wiktionary N1 481 | [カンニング](entries/1039/1039490-kanningu.org) | カンニング | 1039490 | new / draft |
+| 16 | Wiktionary N1 495 | [街](entries/1204/1204570-gai.org) | がい | 1204570 | new / draft |
+| 16 | Wiktionary N1 500 | [ガイド](entries/1039/1039900-gaido.org) | ガイド | 1039900 | new / draft |
+| 16 | Wiktionary N1 519 | [がる](entries/1631/1631750-garu.org) | がる | 1631750 | new / draft |
+| 16 | Wiktionary N1 520 | [ガレージ](entries/1040/1040530-gareeji.org) | ガレージ | 1040530 | new / draft |
+| 16 | Wiktionary N1 521 | [側](entries/1581/1581310-gawa.org) | がわ | 1581310 | new / draft |
+| 16 | Wiktionary N1 522 | [癌](entries/1217/1217110-gan.org) | がん | 1217110 | new / draft |
+| 16 | Wiktionary N1 530 | [生](entries/1378/1378440-ki.org) | き | 1378440 | new / draft |
+| 16 | Wiktionary N1 550 | [兆し](entries/1591/1591160-kizashi.org) | きざし | 1591160 | new / draft |
+| 17 | Wiktionary N1 552 | [軋む](entries/1573/1573440-kishimu.org) | きしむ | 1573440 | new / draft |
+| 17 | Wiktionary N1 564 | [きちっと](entries/1003/1003390-kichitto.org) | きちっと | 1003390 | new / draft |
+| 17 | Wiktionary N1 568 | [きっぱり](entries/1003/1003440-kippari.org) | きっぱり | 1003440 | new / draft |
+| 17 | Wiktionary N1 571 | [甲](entries/2397/2397580-kinoe.org) | きのえ | 2397580 | new / draft |
+| 17 | Wiktionary N1 580 | [きまり悪い](entries/1254/1254160-kimariwarui.org) | きまりわるい | 1254160 | new / draft |
+| 17 | Wiktionary N1 617 | [供する](entries/1233/1233550-kyousuru.org) | きょうする | 1233550 | new / draft |
+| 17 | Wiktionary N1 627 | [曲](entries/1239/1239700-kyoku.org) | きょく | 1239700 | new / draft |
+| 17 | Wiktionary N1 632 | [距離](entries/1232/1232920-kyori.org) | きょり | 1232920 | new / draft |
+| 17 | Wiktionary N1 638 | [桐](entries/1240/1240710-kiri.org) | きり | 1240710 | new / draft |
+| 17 | Wiktionary N1 642 | [際](entries/1296/1296290-kiwa.org) | きわ | 1296290 | new / draft |
+| 18 | Wiktionary N1 649 | [禁ずる](entries/1241/1241480-kinzuru.org) | きんずる | 1241480 | new / draft |
+| 18 | Wiktionary N1 674 | [クイズ](entries/1043/1043470-kuizu.org) | クイズ | 1043470 | new / draft |
+| 18 | Wiktionary N1 683 | [擽ったい](entries/1003/1003730-kusuguttai.org) | くすぐったい | 1003730 | new / draft |
+| 18 | Wiktionary N1 684 | [件](entries/1255/1255930-kudan.org) | くだん | 1255930 | new / draft |
+| 18 | Wiktionary N1 691 | [諄い](entries/1572/1572760-kudoi.org) | くどい | 1572760 | new / draft |
+| 18 | Wiktionary N1 698 | [クラブ](entries/2846/2846405-kurabu.org) | クラブ | 2846405 | new / draft |
+| 18 | Wiktionary N1 701 | [クレーン](entries/1045/1045280-kureen.org) | クレーン | 1045280 | new / draft |
+| 18 | Wiktionary N1 706 | [グラフ](entries/1046/1046610-gurafu.org) | グラフ | 1046610 | new / draft |
+| 18 | Wiktionary N1 708 | [群](entries/1247/1247490-gun.org) | ぐん | 1247490 | new / draft |
+| 18 | Wiktionary N1 714 | [刑](entries/1249/1249610-kei.org) | けい | 1249610 | new / draft |
+| 19 | Wiktionary N1 2239 | [広まる](entries/1278/1278450-hiromaru.org) | ひろまる | 1278450 | new / draft |
+| 19 | Wiktionary N1 736 | [汚らわしい](entries/1178/1178980-kegarawashii.org) | けがらわしい | 1178980 | new / draft |
+| 19 | Wiktionary N1 737 | [汚れ](entries/1178/1178990-kegare.org) | けがれ | 1178990 | new / draft |
+| 19 | Wiktionary N1 752 | [貶す](entries/1573/1573120-kenasu.org) | けなす | 1573120 | new / draft |
+| 19 | Wiktionary N1 758 | [圏](entries/1257/1257080-ken.org) | けん | 1257080 | new / draft |
+| 19 | Wiktionary N1 759 | [権](entries/1258/1258080-ken.org) | けん | 1258080 | new / draft |
+| 19 | Wiktionary N1 774 | [ゲスト](entries/1048/1048550-gesuto.org) | ゲスト | 1048550 | new / draft |
+| 19 | Wiktionary N1 776 | [げっそり](entries/1004/1004250-gessori.org) | げっそり | 1004250 | new / draft |
+| 19 | Wiktionary N1 796 | [戸](entries/1659/1659920-ko.org) | こ | 1659920 | new / draft |
+| 19 | Wiktionary N1 797 | [故](entries/1267/1267110-ko.org) | こ | 1267110 | new / draft |
+| 20 | Wiktionary N1 799 | [校](entries/2259/2259610-kou.org) | こう | 2259610 | new / draft |
+| 20 | Wiktionary N1 2270 | [深める](entries/1362/1362680-fukameru.org) | ふかめる | 1362680 | new / draft |
+| 20 | Wiktionary N1 815 | [煌々](entries/1569/1569020-koukou.org) | こうこう | 1569020 | new / draft |
+| 20 | Wiktionary N1 862 | [個々](entries/1593/1593190-koko.org) | ここ | 1593190 | new / draft |
+| 20 | Wiktionary N1 2359 | [経る](entries/1251/1251110-heru.org) | へる | 1251110 | new / draft |
+| 20 | Wiktionary N1 2487 | [マスコミ](entries/1127/1127900-masukomi.org) | マスコミ | 1127900 | new / draft |
+| 20 | Wiktionary N1 889 | [骨](entries/1288/1288540-kotsu.org) | こつ | 1288540 | new / draft |
+| 20 | Wiktionary N1 892 | [悉く](entries/1004/1004570-kotogotoku.org) | ことごとく | 1004570 | new / draft |
+| 20 | Wiktionary N1 895 | [事によると](entries/2773/2773660-kotoniyoruto.org) | ことによると | 2773660 | new / draft |
+| 20 | Wiktionary N1 901 | [コミュニケーション](entries/1050/1050980-komyunikeeshon.org) | コミュニケーション | 1050980 | new / draft |
+| 21 | Wiktionary N1 903 | [コメント](entries/1051/1051230-komento.org) | コメント | 1051230 | new / draft |
+| 21 | Wiktionary N1 2490 | [跨る](entries/1603/1603970-matagaru.org) | またがる | 1603970 | new / draft |
+| 21 | Wiktionary N1 914 | [コンタクト](entries/1052/1052410-kontakuto.org) | コンタクト | 1052410 | new / draft |
+| 21 | Wiktionary N1 917 | [コンテスト](entries/1052/1052590-kontesuto.org) | コンテスト | 1052590 | new / draft |
+| 21 | Wiktionary N1 921 | [コンパス](entries/1053/1053130-konpasu.org) | コンパス | 1053130 | new / draft |
+| 21 | Wiktionary N1 922 | [コーナー](entries/1049/1049110-koonaa.org) | コーナー | 1049110 | new / draft |
+| 21 | Wiktionary N1 925 | [業](entries/1239/1239320-gou.org) | ごう | 1239320 | new / draft |
+| 21 | Wiktionary N1 926 | [壕](entries/1956/1956270-gou.org) | ごう | 1956270 | new / draft |
+| 21 | Wiktionary N1 936 | [毎](entries/1524/1524640-goto.org) | ごと | 1524640 | new / draft |
+| 21 | Wiktionary N1 939 | [ご覧なさい](entries/1270/1270770-gorannasai.org) | ごらんなさい | 1270770 | new / draft |
+| 22 | Wiktionary N1 947 | [サイクル](entries/1055/1055520-saikuru.org) | サイクル | 1055520 | new / draft |
+| 22 | Wiktionary N1 961 | [囀る](entries/1565/1565710-saezuru.org) | さえずる | 1565710 | new / draft |
+| 22 | Wiktionary N1 2495 | [区々](entries/1604/1604010-machimachi.org) | まちまち | 1604010 | new / draft |
+| 22 | Wiktionary N1 969 | [先に](entries/1387/1387280-sakini.org) | さきに | 1387280 | new / draft |
+| 22 | Wiktionary N1 971 | [作](entries/1297/1297240-saku.org) | さく | 1297240 | new / draft |
+| 22 | Wiktionary N1 973 | [策](entries/1298/1298260-saku.org) | さく | 1298260 | new / draft |
+| 22 | Wiktionary N1 979 | [裂ける](entries/1558/1558610-sakeru.org) | さける | 1558610 | new / draft |
+| 22 | Wiktionary N1 988 | [嘸](entries/1565/1565620-sazo.org) | さぞ | 1565620 | new / draft |
+| 22 | Wiktionary N1 993 | [冊](entries/1298/1298520-satsu.org) | さつ | 1298520 | new / draft |
+| 22 | Wiktionary N1 996 | [裁く](entries/1295/1295940-sabaku.org) | さばく | 1295940 | new / draft |
+| 23 | Wiktionary N1 1004 | [さん](entries/1005/1005340-san.org) | さん | 1005340 | new / draft |
+| 23 | Wiktionary N1 1010 | [サンキュー](entries/1058/1058250-sankyuu.org) | サンキュー | 1058250 | new / draft |
+| 23 | Wiktionary N1 1016 | [サンタクロース](entries/1058/1058420-santakuroosu.org) | サンタクロース | 1058420 | new / draft |
+| 23 | Wiktionary N1 2522 | [見かける](entries/1604/1604430-mikakeru.org) | みかける | 1604430 | new / draft |
+| 23 | Wiktionary N1 1069 | [システム](entries/1060/1060300-shisutemu.org) | システム | 1060300 | new / draft |
+| 23 | Wiktionary N1 1078 | [認める](entries/1467/1467520-shitatameru.org) | したためる | 1467520 | new / draft |
+| 23 | Wiktionary N1 2543 | [見っともない](entries/1259/1259250-mittomonai.org) | みっともない | 1259250 | new / draft |
+| 23 | Wiktionary N1 1120 | [周](entries/1331/1331020-shuu.org) | しゅう | 1331020 | new / draft |
+| 23 | Wiktionary N1 1121 | [衆](entries/1333/1333240-shuu.org) | しゅう | 1333240 | new / draft |
+| 23 | Wiktionary N1 1167 | [症](entries/1351/1351000-shou.org) | しょう | 1351000 | new / draft |
+| 24 | Wiktionary N1 2648 | [役立つ](entries/1538/1538090-yakudatsu.org) | やくだつ | 1538090 | new / draft |
+| 24 | Wiktionary N1 1213 | [皺](entries/1569/1569740-shiwa.org) | しわ | 1569740 | new / draft |
+| 24 | Wiktionary N1 1216 | [殿](entries/1442/1442480-shingari.org) | しんがり | 1442480 | new / draft |
+| 24 | Wiktionary N1 1246 | [次](entries/1579/1579580-ji.org) | じ | 1579580 | new / draft |
+| 24 | Wiktionary N1 2695 | [ゆとり](entries/1013/1013070-yutori.org) | ゆとり | 1013070 | new / draft |
+| 24 | Wiktionary N1 1301 | [準ずる](entries/1341/1341520-junzuru.org) | じゅんずる | 1341520 | new / draft |
+| 24 | Wiktionary N1 2696 | [ユニフォーム](entries/1137/1137430-yunifoomu.org) | ユニフォーム | 1137430 | new / draft |
+| 24 | Wiktionary N1 1303 | [状](entries/1356/1356690-jou.org) | じょう | 1356690 | new / draft |
+| 24 | Wiktionary N1 1327 | [人](entries/1366/1366410-jin.org) | じん | 1366410 | new / draft |
+| 24 | Wiktionary N1 1343 | [清々しい](entries/1595/1595560-sugasugashii.org) | すがすがしい | 1595560 | new / draft |
+| 25 | Wiktionary N1 1344 | [過ぎ](entries/1195/1195960-sugi.org) | すぎ | 1195960 | new / draft |
+| 25 | Wiktionary N1 1346 | [掬う](entries/1226/1226200-sukuu.org) | すくう | 1226200 | new / draft |
+| 25 | Wiktionary N1 1351 | [勧め](entries/1210/1210900-susume.org) | すすめ | 1210900 | new / draft |
+| 25 | Wiktionary N1 1357 | [ストレス](entries/1071/1071490-sutoresu.org) | ストレス | 1071490 | new / draft |
+| 25 | Wiktionary N1 1362 | [スピード](entries/1072/1072310-supiido.org) | スピード | 1072310 | new / draft |
+| 25 | Wiktionary N1 1369 | [刷り](entries/1657/1657910-suri.org) | すり | 1657910 | new / draft |
+| 25 | Wiktionary N1 1370 | [すれ違い](entries/1298/1298930-surechigai.org) | すれちがい | 1298930 | new / draft |
+| 25 | Wiktionary N1 1374 | [ずぶ濡れ](entries/1006/1006410-zubunure.org) | ずぶぬれ | 1006410 | new / draft |
+| 25 | Wiktionary N1 1378 | [ずれる](entries/1006/1006460-zureru.org) | ずれる | 1006460 | new / draft |
+| 25 | Wiktionary N1 1389 | [清算](entries/1378/1378210-seisan.org) | せいさん | 1378210 | new / draft |
+| 26 | Wiktionary N1 2737 | [弱まる](entries/1324/1324580-yowamaru.org) | よわまる | 1324580 | new / draft |
+| 26 | Wiktionary N1 1466 | [禅](entries/1396/1396420-zen.org) | ぜん | 1396420 | new / draft |
+| 26 | Wiktionary N1 1474 | [沿う](entries/1176/1176700-sou.org) | そう | 1176700 | new / draft |
+| 26 | Wiktionary N1 1476 | [僧](entries/1398/1398030-sou.org) | そう | 1398030 | new / draft |
+| 26 | Wiktionary N1 1509 | [園](entries/1176/1176240-sono.org) | その | 1176240 | new / draft |
+| 26 | Wiktionary N1 1515 | [逸らす](entries/1167/1167650-sorasu.org) | そらす | 1167650 | new / draft |
+| 26 | Wiktionary N1 1516 | [反り](entries/1480/1480110-sori.org) | そり | 1480110 | new / draft |
+| 26 | Wiktionary N1 1517 | [それ故](entries/1406/1406080-soreyue.org) | それゆえ | 1406080 | new / draft |
+| 26 | Wiktionary N1 1522 | [沿い](entries/1610/1610080-zoi.org) | ぞい | 1610080 | new / draft |
+| 26 | Wiktionary N1 1523 | [像](entries/1403/1403110-zou.org) | ぞう | 1403110 | new / draft |
+| 27 | Wiktionary N1 1532 | [退学](entries/1411/1411340-taigaku.org) | たいがく | 1411340 | new / draft |
+| 27 | Wiktionary N1 1537 | [対して](entries/1409/1409820-taishite.org) | たいして | 1409820 | new / draft |
+| 27 | Wiktionary N1 1544 | [タイトル](entries/1075/1075900-taitoru.org) | タイトル | 1075900 | new / draft |
+| 27 | Wiktionary N1 1562 | [高](entries/1633/1633260-taka.org) | たか | 1633260 | new / draft |
+| 27 | Wiktionary N1 1563 | [高まる](entries/1283/1283220-takamaru.org) | たかまる | 1283220 | new / draft |
+| 27 | Wiktionary N1 1567 | [類い](entries/1596/1596870-tagui.org) | たぐい | 1596870 | new / draft |
+| 27 | Wiktionary N1 1577 | [断つ](entries/1597/1597030-tatsu.org) | たつ | 1597030 | new / draft |
+| 27 | Wiktionary N1 1584 | [頼み](entries/1610/1610270-tanomi.org) | たのみ | 1610270 | new / draft |
+| 27 | Wiktionary N1 1589 | [例](entries/2713/2713240-tameshi.org) | ためし | 2713240 | new / draft |
+| 27 | Wiktionary N1 2738 | [弱める](entries/1324/1324590-yowameru.org) | よわめる | 1324590 | new / draft |
+| 28 | Wiktionary N1 2744 | [ラベル](entries/1139/1139720-raberu.org) | ラベル | 1139720 | new / draft |
+| 28 | Wiktionary N1 1612 | [第](entries/1415/1415260-dai.org) | だい | 1415260 | new / draft |
+| 28 | Wiktionary N1 1621 | [丈](entries/1007/1007340-dake.org) | だけ | 1007340 | new / draft |
+| 28 | Wiktionary N1 1630 | [だらけ](entries/1007/1007480-darake.org) | だらけ | 1007480 | new / draft |
+| 28 | Wiktionary N1 1644 | [近づく](entries/1242/1242170-chikazuku.org) | ちかづく | 1242170 | new / draft |
+| 28 | Wiktionary N1 1646 | [契る](entries/1250/1250160-chigiru.org) | ちぎる | 1250160 | new / draft |
+| 28 | Wiktionary N1 1656 | [チャイム](entries/1077/1077890-chaimu.org) | チャイム | 1077890 | new / draft |
+| 28 | Wiktionary N1 1675 | [庁](entries/1427/1427590-chou.org) | ちょう | 1427590 | new / draft |
+| 28 | Wiktionary N1 2799 | [碌に](entries/1570/1570040-rokuni.org) | ろくに | 1570040 | new / draft |
+| 28 | Wiktionary N1 1730 | [接ぐ](entries/1385/1385340-tsugu.org) | つぐ | 1385340 | new / draft |
+| 29 | Wiktionary N1 1747 | [瞑る](entries/1585/1585820-tsuburu.org) | つぶる | 1585820 | new / draft |
+| 29 | Wiktionary N1 1752 | [強まる](entries/1236/1236130-tsuyomaru.org) | つよまる | 1236130 | new / draft |
+| 29 | Wiktionary N1 1753 | [強める](entries/1236/1236150-tsuyomeru.org) | つよめる | 1236150 | new / draft |
+| 29 | Wiktionary N1 2598 | [メッセージ](entries/1133/1133570-messeeji.org) | メッセージ | 1133570 | new / draft |
+| 29 | Wiktionary N1 1811 | [てんで](entries/1008/1008320-tende.org) | てんで | 1008320 | new / draft |
+| 29 | Wiktionary N1 1820 | [デザイン](entries/1082/1082900-dezain.org) | デザイン | 1082900 | new / draft |
+| 29 | Wiktionary N1 1831 | [データ](entries/1081/1081190-deeta.org) | データ | 1081190 | new / draft |
+| 29 | Wiktionary N1 1834 | [等](entries/1582/1582305-tou.org) | とう | 1582305 | new / draft |
+| 29 | Wiktionary N1 1835 | [棟](entries/1448/1448340-tou.org) | とう | 1448340 | new / draft |
+| 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |

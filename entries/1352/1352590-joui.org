@@ -1,0 +1,424 @@
+#+TITLE: 上位
+#+JMDICT_ID: 1352590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょうい
+#+ROMAJI: joui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1352590-001
+:PROPERTIES:
+:TEXT: 上位
+:END:
+*** Priorities
+- news1
+- nf03
+** Reading rd-1352590-001
+:PROPERTIES:
+:TEXT: じょうい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf03
+
+* Sense s-1352590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b10b0ec473a46a39ce3d5816f9440a0d05d3e7596ec35d78a742fdf149162fce
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- superior (in rank)
+- top
+- ranking
+** Ukrainian glosses
+*** uk-s-1352590-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вище становище; вищий ранг; передові позиції
+** Learner notes
+*** note-s-1352590-001-001
+:PROPERTIES:
+:END:
+- UK :: Провідне місце, високий ступінь або верхня частина ієрархічної структури чи рейтингу (наприклад, 上位入賞 — здобуття призового місця, 上位クラス).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1352590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は大会で上位に入った。
+- READING :: かれはたいかいでじょういにはいった。
+- UK :: Він посів високе місце на змаганнях.
+- EN :: He finished in the top ranks at the tournament.
+- FOCUS :: 上位に入った
+*** ex-1352590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 検索結果の上位に表示されるよう、サイトの構成を改善した。
+- READING :: けんさくけっかのじょういにひょうじされるよう、サイトのこうせいをかいぜんした。
+- UK :: Ми вдосконалили структуру сайту, щоб він відображався на перших позиціях у результатах пошуку.
+- EN :: We improved the site structure so that it appears at the top of the search results.
+- FOCUS :: 上位に表示される
+*** ex-1352590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国内屈指の難関大学に進学するため、学年の成績で上位を維持する。
+- READING :: こくないくっしのなんかんだいがくにしんがくするため、がくねんのせいせきでじょういをいじする。
+- UK :: Щоб вступити до провідного вишу країни, він підтримує високу успішність у навчанні серед свого курсу.
+- EN :: To enter one of the country's leading universities, he maintains top grades in his academic year.
+- FOCUS :: 上位を維持する
+
+* Sense s-1352590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 465a5e1cd01e0ecf85be5b40f12ef5220c721f2a9348a69304b367b1629524da
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- higher order (e.g. byte)
+** Ukrainian glosses
+*** uk-s-1352590-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: старший розряд; вищий порядок (числа, даних)
+** Learner notes
+*** note-s-1352590-002-001
+:PROPERTIES:
+:END:
+- UK :: Позиція цифри або біта в числі, що відповідає більшій вазі чи значенню (в обчислювальній техніці: 上位ビット — старший біт, 上位バイト).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1352590-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 計算結果の上位の桁を確認する。
+- READING :: けいさんけっかのじょういのけたをかくにんする。
+- UK :: Перевірити старші розряди результату обчислення.
+- EN :: Check the higher-order digits of the calculation result.
+- FOCUS :: 上位の桁
+
+* Sense s-1352590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dca9d5531cae74c5b63396854d94ec02fa0192322ef05d49964d53daab68b9b9
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- host computer (of connected device)
+** Ukrainian glosses
+*** uk-s-1352590-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: головна система; хост-комп'ютер; вищий вузол
+** Learner notes
+*** note-s-1352590-003-001
+:PROPERTIES:
+:END:
+- UK :: Керівний комп'ютер чи центральний сервер вищого рівня, з яким взаємодіють підлеглі термінали чи контролери мережі.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1352590-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 端末から上位のシステムへデータを転送した。
+- READING :: たんまつからじょういのシステムへデータをてんそうした。
+- UK :: З термінала передали дані до головної системи вищого рівня.
+- EN :: Transferred data from the terminal to the higher-level system.
+- FOCUS :: 上位のシステム
+
+* Sense s-1352590-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eb96922f012f96566930aa2ab3ccb43707002071f269eab088f324fd31ada4f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoog (in rang)
+*** en-s-1352590-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hooggeplaatst
+*** en-s-1352590-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voorrang
+*** en-s-1352590-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prioriteit
+** Ukrainian glosses
+
+* Sense s-1352590-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6b2f55327d93476452e5aa9569e8da2d1e3486ab41326ced75cdef8d4d017757
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoge rang
+*** en-s-1352590-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoge positie
+** Ukrainian glosses
+
+* Sense s-1352590-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3992ef744b625a5c42b80b58cebba8242f843e3734b6efe07480129a4f8c1bf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (octet de) poids fort
+*** en-s-1352590-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: primauté
+*** en-s-1352590-006-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: supérieur (rang)
+*** en-s-1352590-006-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unité centrale (à laquelle se connecte un périphérique)
+** Ukrainian glosses
+
+* Sense s-1352590-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7aa002be413f0e18fcf9627958745bff09d7daa3cd0be0495c14dd97d9bb104b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorrang
+*** en-s-1352590-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: höhere Stellung
+*** en-s-1352590-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: höherer Rang
+*** en-s-1352590-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spitzenstellung
+** Ukrainian glosses
+
+* Sense s-1352590-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a9a2764f478641b4ab91cfd34524b9ff939e399ba909af9ce6d4143558548d58
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Epistasis
+*** en-s-1352590-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Epistasie
+** Ukrainian glosses
+
+* Sense s-1352590-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c831c980dabbf0cfbceef2f3b15d052ef5e7f0986923953ce1c27252e150db79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gőgös
+** Ukrainian glosses
+
+* Sense s-1352590-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9c2808b15bc8ad559f3444e64960614ce723f3c9444cb160ef9e4c6b0279cfc7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: более высокое звание, более высокий ранг; высшее положение
+** Ukrainian glosses
+
+* Sense s-1352590-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 6d0181b67d0eba60fd7bb2f0acd27824288b5f1be42883bc7c9bcce5de51b235
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: višje mesto
+** Ukrainian glosses
+
+* Sense s-1352590-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: fffc4d8d4c6b36ab8e9dc334bdb12b01b99364352f8882dc71a6c64cb7997769
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352590-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rango elevado
+** Ukrainian glosses

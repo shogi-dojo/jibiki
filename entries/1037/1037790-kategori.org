@@ -1,0 +1,270 @@
+#+TITLE: カテゴリ
+#+JMDICT_ID: 1037790
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カテゴリ
+#+ROMAJI: kategori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1037790-001
+:PROPERTIES:
+:TEXT: カテゴリ
+:NO_KANJI: false
+:END:
+*** Priorities
+- spec1
+** Reading rd-1037790-002
+:PROPERTIES:
+:TEXT: カテゴリー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1037790-003
+:PROPERTIES:
+:TEXT: カテゴリィ
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1037790-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 09458b73b9ccc0507b33badfe95b4612caba93a0ab58397888596135f22d90bc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1037790-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Kategorie
+** English glosses
+- category
+** Ukrainian glosses
+*** uk-s-1037790-001-001
+:PROPERTIES:
+:END:
+- text :: категорія; клас; група
+** Learner notes
+*** note-s-1037790-001-001
+:PROPERTIES:
+:END:
+- UK :: カテゴリに分ける — поділити на категорії. Також カテゴリー; часто в класифікації та інтерфейсах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1037790-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 本を、内容ごとのカテゴリに分けました。
+- READING :: ほんを、ないようごとのかてごりにわけました。
+- UK :: Ми поділили книжки на категорії за змістом.
+- FOCUS :: カテゴリ
+*** ex-1037790-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 一つのカテゴリに収まらない作品も、別の棚に置いた。
+- READING :: ひとつのかてごりにおさまらないさくひんも、べつのたなにおいた。
+- UK :: Твори, які не вкладалися в одну категорію, розмістили на окремій полиці.
+- FOCUS :: カテゴリ
+*** ex-1037790-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 写真を整理するためにカテゴリを作ったが、場所だけで分けると家族の思い出が散らばるので、出来事を基準にする方法も試した。
+- READING :: しゃしんをせいりするためにかてごりをつくったが、ばしょだけでわけるとかぞくのおもいでがちらばるので、できごとをきじゅんにするほうほうもためした。
+- UK :: Я створив категорії для впорядкування фотографій, але поділ лише за місцем розпорошував родинні спогади, тож спробував також групувати за подіями.
+- FOCUS :: カテゴリ
+
+* Sense s-1037790-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8246a5ead56577520a364021944dda669c67e98d036cf5f06e431a6b256cfc00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: categorie
+*** en-s-1037790-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klasse
+*** en-s-1037790-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdeling
+*** en-s-1037790-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: groep
+** Ukrainian glosses
+
+* Sense s-1037790-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a8bde2bba3dbd4e48e0ee5521e62495b46c62517027e568097cbe6a6b851e5fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kategorie
+** Ukrainian glosses
+
+* Sense s-1037790-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 338fb373d43938b27af73f67cdda25d3d6b0b48b9dc0729a5892218fb7b53526
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogalomkör
+** Ukrainian glosses
+
+* Sense s-1037790-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0c37727588b2dda183bdc9c20f2246d628011026b4a5c2e96d5b85064f6c2b50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: категория
+** Ukrainian glosses
+
+* Sense s-1037790-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d3ddaa001a02c00a2ab1f416a5d93037eb987f40218fd079c38e13740c96feef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kategorija
+*** en-s-1037790-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vrsta
+*** en-s-1037790-006-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razred
+** Ukrainian glosses
+
+* Sense s-1037790-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7a7cb7806015f94170612600c7c7325dd1349b42a9a44d416e81daafafc09fd6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: categoría
+*** en-s-1037790-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: categoría (ger: Kategorie)
+** Ukrainian glosses
+
+* Sense s-1037790-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8eaa549ccda0dececada45f43a075f0efe3168062e889afdb5b070237e1c255a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1037790-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kategori
+** Ukrainian glosses

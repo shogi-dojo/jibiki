@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Canonical schema v2 entry scaffolder: reads the N5/N4 candidate queues or a
+# Canonical schema v2 entry scaffolder: reads a candidate queue or a
 # direct JMdict ID and emits a complete Org entry with every derived
 # section (forms, senses, POS, English glosses, ru-ref, fingerprints) filled
 # in, and every authored slot (Ukrainian gloss, learner note, example) marked
@@ -195,29 +195,86 @@ end
 
 if __FILE__ == $PROGRAM_NAME
   options = { level: 'n5' }
-  parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb [options] --romaji ROMAJI') do |cli|
+  parser = SourceCLI.common_parser(options, banner: 'Usage: scaffold_entry.rb [options]') do |cli|
     cli.on('--level LEVEL', %w[n5 n4 n3], 'Queue level (n5, n4, or n3, default: n5)') do |value|
       options[:level] = value
     end
+    cli.on('--output PATH', 'Write the Org scaffold to PATH') { |value| options[:output] = value }
+    cli.on('--queue-file PATH', 'Candidate queue JSON file to read metadata from') { |value| options[:queue_file] = value }
+    cli.on('--entry-index NUMBER', Integer, '0-based index in queue-file to scaffold') { |value| options[:entry_index] = value }
     cli.on('--source-order NUMBER', Integer, 'Candidate queue source_order to scaffold') { |value| options[:source_order] = value }
     cli.on('--jmdict-id ENT_SEQ', 'JMdict ent_seq to scaffold directly') { |value| options[:ent_seq] = value }
     cli.on('--romaji TEXT', 'Filename romaji (Modified Hepburn, lowercase)') { |value| options[:romaji] = value }
   end
   parser.parse!
 
-  abort 'Provide --source-order or --jmdict-id.' unless options[:source_order] || options[:ent_seq]
-  abort 'Provide only one of --source-order or --jmdict-id.' if options[:source_order] && options[:ent_seq]
-  abort 'Provide --romaji.' unless options[:romaji]
+  selectors = %i[entry_index source_order ent_seq].select { |key| !options[key].nil? }
+  abort 'Provide only one of --entry-index, --source-order, or --jmdict-id.' if selectors.length > 1
+  abort '--entry-index requires --queue-file.' if options[:entry_index] && !options[:queue_file]
+  unless options[:queue_file]
+    abort 'Provide --source-order or --jmdict-id.' if selectors.empty?
+    abort 'Provide --romaji.' unless options[:romaji]
+  end
 
   SourceCLI.ensure_exists!(SourceCLI::JMDICT_PATH)
 
-  level = options.fetch(:level)
   jmdict = DictionarySources::Jmdict.new(SourceCLI::JMDICT_PATH)
   matches = nil
 
-  if options[:ent_seq]
+  if options[:queue_file]
+    SourceCLI.ensure_exists!(options[:queue_file])
+    begin
+      queue_data = JSON.parse(File.read(options[:queue_file], encoding: Encoding::UTF_8))
+    rescue JSON::ParserError => error
+      abort "Invalid queue JSON: #{error.message}"
+    end
+    queue_records = queue_data.is_a?(Array) ? queue_data : [queue_data]
+    abort 'Queue must contain JSON objects.' unless queue_records.all? { |record| record.is_a?(Hash) }
+
+    queue_record = if !options[:entry_index].nil?
+                     index = options[:entry_index]
+                     unless index >= 0 && index < queue_records.length
+                       abort "Index #{index} out of bounds for #{options[:queue_file]} (size #{queue_records.length})"
+                     end
+                     queue_records[index]
+                   elsif options[:source_order] || options[:ent_seq]
+                     selected = queue_records.select do |record|
+                       if options[:source_order]
+                         order = record['source_order'] || record['order'] || record['source_row']
+                         order.to_s == options[:source_order].to_s
+                       else
+                         (record['jmdict_id'] || record['ent_seq']).to_s == options[:ent_seq]
+                       end
+                     end
+                     abort "Queue selector resolved to #{selected.length} records; expected exactly one." unless selected.length == 1
+                     selected.first
+                   elsif queue_records.length == 1
+                     queue_records.first
+                   else
+                     abort 'Provide --entry-index, --source-order, or --jmdict-id when using --queue-file with multiple items.'
+                   end
+
+    %w[romaji jmdict_id ent_seq written title reading].each do |key|
+      value = queue_record[key]
+      valid = value.nil? || (value.is_a?(String) && !value.strip.empty?)
+      valid ||= %w[jmdict_id ent_seq].include?(key) && value.is_a?(Integer) && value.positive?
+      abort "Queue field #{key} must be nonempty text#{%w[jmdict_id ent_seq].include?(key) ? ' or a positive integer' : ''}." unless valid
+    end
+    options[:romaji] ||= queue_record['romaji']
+    abort 'Provide --romaji.' unless options[:romaji]
+
+    target_ent_seq = (queue_record['jmdict_id'] || queue_record['ent_seq'])&.to_s
+    written = queue_record['written'] || queue_record['title']
+    reading = queue_record['reading']
+    abort 'Queue record must provide jmdict_id, ent_seq, written, title, or reading.' unless target_ent_seq || written || reading
+    # Resolve the whole identity, so a stale ID cannot silently select a
+    # different word from the queue's spelling and reading.
+    written = nil if written == reading
+    matches = jmdict.lookup(ent_seq: target_ent_seq, written: written, reading: reading)
+  elsif options[:ent_seq]
     matches = jmdict.lookup(ent_seq: options[:ent_seq])
   elsif options[:source_order]
+    level = options.fetch(:level)
     queue_path = case level
                  when 'n3' then SourceCLI::N3_PATH
                  when 'n4' then SourceCLI::N4_PATH
@@ -237,11 +294,20 @@ if __FILE__ == $PROGRAM_NAME
   end
 
   abort "No JMdict match found for #{options.inspect}" if matches.nil? || matches.empty?
+  if matches.length != 1
+    abort "Resolved to #{matches.length} JMdict entries; inspect and reconcile explicitly before scaffolding."
+  end
+
+  abort 'Filename romaji must use lowercase ASCII letters and optional digits.' unless options[:romaji].match?(/\A[a-z]+[0-9]*\z/)
 
   entry = matches.first
   ent_seq = entry[:ent_seq]
   primary_reading = entry[:readings].first.fetch(:text)
-  path = File.join(SourceCLI::REPO_ROOT, 'entries', (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{options[:romaji]}.org")
+  path = if options[:output]
+           File.expand_path(options[:output], SourceCLI::REPO_ROOT)
+         else
+           File.join(SourceCLI::REPO_ROOT, 'entries', (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{options[:romaji]}.org")
+         end
 
   if File.exist?(path)
     abort "#{SourceCLI.relative_path(path)} already exists; scaffold_entry.rb refuses to overwrite an existing entry."

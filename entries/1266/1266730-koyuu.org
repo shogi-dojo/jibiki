@@ -1,0 +1,583 @@
+#+TITLE: 固有
+#+JMDICT_ID: 1266730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こゆう
+#+ROMAJI: koyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1266730-001
+:PROPERTIES:
+:TEXT: 固有
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf09
+** Reading rd-1266730-001
+:PROPERTIES:
+:TEXT: こゆう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf09
+
+* Sense s-1266730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e08363b55ffed13a128859c5a0ed40660f02984c6387588fe3391392b0038867
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- adj-na
+** English glosses
+- characteristic (of)
+- peculiar (to)
+- inherent (in)
+- endemic
+- unique (to)
+- native (to)
+- intrinsic
+** Ukrainian glosses
+*** uk-s-1266730-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: притаманний; властивий; унікальний; ендемічний
+** Learner notes
+*** note-s-1266730-001-001
+:PROPERTIES:
+:END:
+- UK :: Якість або біологічна риса, яка споконвіку властива лише певному об'єкту, культурі, народу чи природному ареалу: 日本固有の文化 (культура, притаманна лише Японії), 固有種 (ендемічний вид).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1266730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: これは日本固有の植物だ。
+- READING :: これはにほんこゆうのしょくぶつだ。
+- UK :: Це рослина, притаманна виключно Японії.
+- EN :: This is a plant endemic to Japan.
+- FOCUS :: 固有
+*** ex-1266730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 各地域には固有の文化がある。
+- READING :: かくちいきにはこゆうのぶんかがある。
+- UK :: Кожен регіон має свою унікальну культуру.
+- EN :: Each region has its own unique culture.
+- FOCUS :: 固有
+*** ex-1266730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その孤島には本土では見られない固有の生態系が残されており、学者たちの貴重な研究対象となっている。
+- READING :: そのことうにはほんどではみられないこゆうのせいたいけいがのこされており、がくしゃたちのきちょうなけんきゅうたいしょうとなっている。
+- UK :: На цьому віддаленому острові збереглася унікальна екосистема, якої немає на материку, і вона є цінним об'єктом досліджень для науковців.
+- EN :: On that isolated island, an endemic ecosystem not seen on the mainland remains, serving as a valuable subject of research for scholars.
+- FOCUS :: 固有
+
+* Sense s-1266730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bc9843897451bda3d098b71b16b21bc4e3691baf60ac89d55a48a78707a51b9c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n-pref
+*** Fields
+- math
+- physics
+** English glosses
+- eigen-
+** Ukrainian glosses
+*** uk-s-1266730-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: власний (математичний або фізичний термін: eigen-)
+** Learner notes
+*** note-s-1266730-002-001
+:PROPERTIES:
+:END:
+- UK :: Науковий префікс у лінійній алгебрі та квантовій механіці для позначення інваріантних величин операторів: 固有値 (власне значення, eigenvalue), 固有ベクトル (власний вектор), 固有空間.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1266730-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 行列の固有値を計算して性質を調べた。
+- READING :: ぎょうれつのこゆうちをけいさんしてせいしつをしらべた。
+- UK :: Властивості матриці дослідили, обчисливши її власні значення.
+- EN :: We calculated the eigenvalues of the matrix to examine its properties.
+- FOCUS :: 固有値
+
+* Sense s-1266730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f9f93c690b796b345ecfd1c780408961a39a03e8ddeb2001dd9a80ca58a63def
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigen
+*** en-s-1266730-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: specifiek
+*** en-s-1266730-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: typisch
+*** en-s-1266730-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: karakteristiek
+*** en-s-1266730-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kenmerkend
+*** en-s-1266730-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kenschetsend
+*** en-s-1266730-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inherentie
+** Ukrainian glosses
+
+* Sense s-1266730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7b12cfb9ed12203012572d564935311b93b3d061f60c00b3654ecdb998ce2277
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het eigene
+*** en-s-1266730-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het karakteristieke
+*** en-s-1266730-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: iets karakteristieks
+** Ukrainian glosses
+
+* Sense s-1266730-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c4da2b22a2d1673200d1a081fed82a45f9c168327b5a700d3b125e69cbef106f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caractéristique (de)
+*** en-s-1266730-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: propre (à)
+** Ukrainian glosses
+
+* Sense s-1266730-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3cb1644b523041f1d785d5d34761030ddeede4aa8486caf119f0d689b2ca7596
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigen
+*** en-s-1266730-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: charakteristisch
+*** en-s-1266730-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angeboren
+*** en-s-1266730-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eingeboren
+*** en-s-1266730-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: typisch
+*** en-s-1266730-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spezifisch
+*** en-s-1266730-006-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigentümlich
+*** en-s-1266730-006-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kennzeichnend
+*** en-s-1266730-006-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wesentlich
+*** en-s-1266730-006-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inhärenz
+*** en-s-1266730-006-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. einer Sache schon immer Innewohnendes
+** Ukrainian glosses
+
+* Sense s-1266730-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: fa31abf0148a0a590868c26996a193b40df28043ac5779a3d20ff0c6a7ff2ed8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eigentümlichkeit
+*** en-s-1266730-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Charakteristikum
+** Ukrainian glosses
+
+* Sense s-1266730-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2dd465060ac0176c542103a34cc8eeaafae3556303da823435936e9ef6e2dcb0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ismertetőjel
+*** en-s-1266730-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tulajdon
+*** en-s-1266730-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benne rejlő
+** Ukrainian glosses
+
+* Sense s-1266730-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a4c221dcfa1a9886128e41bc15aa36d1288ff794befd9453a18f75519bafe89d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} свойственный, присущий (кому-чему-л.), характерный, типичный, специфический
+** Ukrainian glosses
+
+* Sense s-1266730-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 4b54eea8012e1777d1126267c944d651a1991dfac7ad106a2b997de87b65d278
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: značaj
+*** en-s-1266730-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: značilnost
+*** en-s-1266730-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: posebnost
+*** en-s-1266730-010-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: karakteristika
+*** en-s-1266730-010-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pravi
+*** en-s-1266730-010-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: primeren
+*** en-s-1266730-010-007
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dostojen
+*** en-s-1266730-010-008
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neoporečen
+*** en-s-1266730-010-009
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: svojski
+*** en-s-1266730-010-010
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: točen
+*** en-s-1266730-010-011
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eksakten
+*** en-s-1266730-010-012
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: natančen
+** Ukrainian glosses
+
+* Sense s-1266730-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 3e87b6df4667fe30e6432c22370317f502f7ef364f9ed2724d61f2363f8a2dcb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1266730-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: propio
+*** en-s-1266730-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: individual
+*** en-s-1266730-011-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inherente
+** Ukrainian glosses

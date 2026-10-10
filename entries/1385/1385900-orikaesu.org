@@ -1,0 +1,633 @@
+#+TITLE: 折り返す
+#+JMDICT_ID: 1385900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おりかえす
+#+ROMAJI: orikaesu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1385900-001
+:PROPERTIES:
+:TEXT: 折り返す
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf30
+** Written form wf-1385900-002
+:PROPERTIES:
+:TEXT: 折返す
+:END:
+*** Information
+- sK
+** Written form wf-1385900-003
+:PROPERTIES:
+:TEXT: 折りかえす
+:END:
+*** Information
+- sK
+** Written form wf-1385900-004
+:PROPERTIES:
+:TEXT: おり返す
+:END:
+*** Information
+- sK
+** Reading rd-1385900-001
+:PROPERTIES:
+:TEXT: おりかえす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf30
+
+* Sense s-1385900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4894c49173b8dd4016b1d741acf22aee903d6efcadbca731302cf07ffeb6150c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to turn up (hem, sleeves, etc.)
+- to fold back (e.g. page)
+** Ukrainian glosses
+*** uk-s-1385900-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: підвертати (рукави, штанини); загинати назад (сторінки)
+** Learner notes
+*** note-s-1385900-001-001
+:PROPERTIES:
+:END:
+- UK :: Означає фізичну дію загинання краю тканини, манжета рукава, коміра сорочки або кутика сторінки книжки чи документа у зворотний бік.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1385900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 袖を折り返す。
+- READING :: そでをおりかえす。
+- UK :: Підвернути рукави.
+- EN :: To roll up one's sleeves.
+- FOCUS :: 折り返す
+*** ex-1385900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ズボンの丈が少し長かったので、裾を二回ほど折り返して履くことにした。
+- READING :: ずぼんのたけがすこしながかったので、すそをにかいほどおりかえしてはくことにした。
+- UK :: Оскільки штани були дещо довгими, я двічі підвернув штанини й так їх надів.
+- EN :: Because the pants were a bit long, I decided to wear them with the hems rolled up about twice.
+- FOCUS :: 折り返して
+*** ex-1385900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大切な箇所を後からすぐに見返せるよう、参考書のページの端を少しだけ折り返しておいた。
+- READING :: たいせつなかしょをあとからすぐにみかえせるよう、さんこうしょのぺーじのはしをすこしだけおりかえしておいた。
+- UK :: Щоб пізніше швидко переглянути важливе місце, я злегка загнув кутик сторінки довідника.
+- EN :: I turned down the edge of the reference book's page slightly so that I could immediately review the important section later.
+- FOCUS :: 折り返して
+
+* Sense s-1385900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 93a9538d77e823549755fdf1ce9306eea6e5319d9ac89b4e115b2c963db8eecc
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to turn back
+- to double back
+- to return
+** Ukrainian glosses
+*** uk-s-1385900-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: повертати назад; розвертатися; передзвонювати
+** Learner notes
+*** note-s-1385900-002-001
+:PROPERTIES:
+:END:
+- UK :: Означає розворот і рух у зворотному напрямку на півдорозі, а також негайну повторну відповідь (наприклад повторний дзвінок по телефону).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1385900-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 後ほど折り返しお電話いたします。
+- READING :: のちほどおりかえしおでんわいたします。
+- UK :: Я передзвоню вам трішки пізніше.
+- EN :: I will call you back shortly.
+- FOCUS :: 折り返し
+
+* Sense s-1385900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f28001106c16a6505c7e06bd3c4ffbf0e2423a311e79c3f50e1ffe15545aacca
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Fields
+- comp
+** English glosses
+- to loopback (a signal, message, etc.)
+** Ukrainian glosses
+*** uk-s-1385900-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: зациклювати (сигнал); робити петльовий тест (у мережах)
+** Learner notes
+*** note-s-1385900-003-001
+:PROPERTIES:
+:END:
+- UK :: Технічний термін у галузі телекомунікацій та комп'ютерних мереж на позначення повернення сигналу або пакета назад до відправника для перевірки каналу.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1385900-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 通信回線の疎通を確認するため受信側で信号を折り返す。
+- READING :: つうしんかいせんのそつうをかくにんするためじゅしんがわでしんごうをおりかえす。
+- UK :: Для перевірки прохідності каналу зв'язку на приймальній стороні сигнал загортають у петлю.
+- EN :: The signal is looped back on the receiving side to verify communications link reachability.
+- FOCUS :: 折り返す
+
+* Sense s-1385900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0aac8d2079e43e424bd0bf3cf8c26035f82fada49ae63bada219364e701c3d36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omslaan
+*** en-s-1385900-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omvouwen
+*** en-s-1385900-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omkeren
+*** en-s-1385900-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opzetten
+*** en-s-1385900-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naar boven draaien
+*** en-s-1385900-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keren
+*** en-s-1385900-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zetten
+*** en-s-1385900-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {そでを} opstropen
+** Ukrainian glosses
+
+* Sense s-1385900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 68c96c9a85421f3de67f8ce947d5a70daa075497de36d7da5ed1de6cac776a1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terugkeren
+** Ukrainian glosses
+
+* Sense s-1385900-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 262ff89a8768c9439f5a75d53b176196ebea1d2e39a6704a66b922a0b27fc5be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-006-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: repartir en sens contraire
+*** en-s-1385900-006-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retrousser
+** Ukrainian glosses
+
+* Sense s-1385900-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b0bffd38a7273ba06eb703f9e8d3bfd321e9ba319eea19010218515ac5895d3f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umschlagen
+*** en-s-1385900-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umkrempeln
+*** en-s-1385900-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umklappen
+*** en-s-1385900-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wenden
+*** en-s-1385900-007-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: knicken
+** Ukrainian glosses
+
+* Sense s-1385900-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9af8272911871c8ab80495ac4ac372f3d9a87af05b515d7f9ca25f0771492c7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zurückkehren
+*** en-s-1385900-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wenden
+*** en-s-1385900-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: denselben Weg zurückgehen
+** Ukrainian glosses
+
+* Sense s-1385900-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 60cc00045b99df62ed3560669adef48438824f5f043873f900604885c43b403b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wiederholen (einen Vers)
+** Ukrainian glosses
+
+* Sense s-1385900-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: dcc48f76e004dbec498790b881d50d2dc0cfb98a419b5895a8aed0833eecee47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: umgehend antworten
+** Ukrainian glosses
+
+* Sense s-1385900-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 00083c071e5f2a26f42f4d944754982570ddccae649a7db1f5e5a88f9e4cf80b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előkerül
+*** en-s-1385900-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felfelé fordít
+*** en-s-1385900-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhajlik
+*** en-s-1385900-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhajt
+*** en-s-1385900-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: behajt
+*** en-s-1385900-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszahajlik
+*** en-s-1385900-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszahajt
+*** en-s-1385900-011-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: visszahajt
+** Ukrainian glosses
+
+* Sense s-1385900-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 8aeaa72456d02dad7bad5a3083a6130e27fce5b46ebf0d948489b856d7881b16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) отворачивать, загибать
+*** en-s-1385900-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) повторять; (ср.) おりかえして
+*** en-s-1385900-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) сразу же отправляться обратно (напр. о пригородных поездах, автобусах и т. п.)
+** Ukrainian glosses
+
+* Sense s-1385900-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 1779a6bb582a2aae1185c9b494ca9bc215373f46b34e84d527d4ab9834b08b03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: obrniti navzgor
+*** en-s-1385900-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dvigniti (kvišku)
+*** en-s-1385900-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavihati
+*** en-s-1385900-013-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zložiti
+*** en-s-1385900-013-005
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: preganiti
+*** en-s-1385900-013-006
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zgibati
+** Ukrainian glosses
+
+* Sense s-1385900-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 9975984293f3f9bc21b6bf61c2c52b4d16a852adf18406c93370ef8a7f2381c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385900-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doblar
+*** en-s-1385900-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retornar
+*** en-s-1385900-014-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regresar
+** Ukrainian glosses

@@ -1,0 +1,217 @@
+#+TITLE: 座標
+#+JMDICT_ID: 1638190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ざひょう
+#+ROMAJI: zahyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-05
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1638190-001
+:PROPERTIES:
+:TEXT: 座標
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1638190-001
+:PROPERTIES:
+:TEXT: ざひょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1638190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85623753d77ba111368605e3d433a8cb702b9561c1a808bfeb415a1d8aae7129
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- coordinate
+- coordinates
+** Ukrainian glosses
+*** uk-s-1638190-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: координати; система координат; координатна точка
+** Learner notes
+*** note-s-1638190-001-001
+:PROPERTIES:
+:END:
+- UK :: Числові значення або точка на графіку, що визначають точне положення об'єкта на площині чи в просторі: 座標軸 (вісь координат), 座標平面 (координатна площина), 経緯度の座標 (географічні координати широти й довготи).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1638190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: グラフ上で点の座標を求めた。
+- READING :: グラフじょうでてんのざひょうをもとめた。
+- UK :: Я знайшов координати точки на графіку.
+- EN :: I determined the coordinates of the point on the graph.
+- FOCUS :: 座標
+*** ex-1638190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 画面上のマウスの座標を記録する。
+- READING :: がめんじょうのマウスのざひょうをきろくする。
+- UK :: Записати координати миші на екрані.
+- EN :: To record the mouse coordinates on the screen.
+- FOCUS :: 座標
+*** ex-1638190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 衛星測位システムから送られてくる正確な座標データを分析することで、移動する車両の現在地をリアルタイムで追跡できる。
+- READING :: えいせいそくいシステムからおくられてくるせいかくなざひょうデータをぶんせきすることで、いどうするしゃりょうのげんざいちをリアルタイムでついせきできる。
+- UK :: Аналізуючи точні координатні дані із системи супутникового позиціонування, можна в реальному часі відстежувати розташування рухомого транспорту.
+- EN :: By analyzing accurate coordinate data sent from the satellite positioning system, one can track the location of moving vehicles in real time.
+- FOCUS :: 座標
+
+* Sense s-1638190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 94615e8e222d59e380f4bba199f60bf5788996943c5f20edbc8ce0654157dc12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coördinaten
+** Ukrainian glosses
+
+* Sense s-1638190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0e123849b4b2bd2b6f1223356c793841963ca29b22559995d24187e7b8b506ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Koordinate
+** Ukrainian glosses
+
+* Sense s-1638190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c22082be69ec8d530f422544c70f4e7cdebbcf71ec2174b99955eb542f7ed209
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koordináta
+** Ukrainian glosses
+
+* Sense s-1638190-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 514487566bafee698bfdc3f68691b8d3d63edc4bf7fb71abcccf61c380acfe39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) координаты
+** Ukrainian glosses
+
+* Sense s-1638190-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4d854ddfbbd404685b43fd203f791f447a903108511b6a867cccadc426aa1c33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vzporediti
+*** en-s-1638190-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vzporeden
+*** en-s-1638190-006-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prireden
+** Ukrainian glosses
+
+* Sense s-1638190-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: dd99a010582285e3449c85a50f1f83ea646bc9133541bfbd4ca5ca2076e8506c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1638190-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coordenadas
+** Ukrainian glosses

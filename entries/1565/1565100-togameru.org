@@ -1,0 +1,813 @@
+#+TITLE: 咎める
+#+JMDICT_ID: 1565100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とがめる
+#+ROMAJI: togameru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1565100-001
+:PROPERTIES:
+:TEXT: 咎める
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1565100-002
+:PROPERTIES:
+:TEXT: 尤める
+:END:
+*** Information
+- sK
+** Reading rd-1565100-001
+:PROPERTIES:
+:TEXT: とがめる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1565100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85e1c646180d5894641892f9478d1ff17c025338221cfd2f32964722433dc6b7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to blame
+- to reproach
+- to censure
+- to rebuke
+- to reprove
+- to find fault
+- to take to task
+- to criticize
+- to criticise
+** Ukrainian glosses
+*** uk-s-1565100-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: докоряти; звинувачувати; засуджувати; картати
+** Learner notes
+*** note-s-1565100-001-001
+:PROPERTIES:
+:END:
+- UK :: Висловлення осуду, докору або критики на адресу чиєїсь помилки чи неналежної поведінки (часто 過ちを咎める, 失敗を咎める, 強く咎める).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1565100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友人の遅刻を咎める。
+- READING :: ゆうじんのちこくをとがめる。
+- UK :: Докоряти другові за запізнення.
+- EN :: To reproach a friend for being late.
+- FOCUS :: 遅刻を咎める
+*** ex-1565100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 部下が業務上の初歩的なミスを報告してきたが、上司は感情的に咎めることなく冷静に対策を指示した。
+- READING :: ぶかがぎょうむじょうのしょほてきなみすをほうこくしてきたが、じょうしはかんじょうてきにとがめることなくれいせいにたいさくをしじした。
+- UK :: Підлеглий повідомив про елементарну робочу помилку, проте начальник не став емоційно його картати, а спокійно вказав заходи для виправлення.
+- EN :: Although the subordinate reported a rudimentary mistake in business, the supervisor calmly instructed countermeasures without reproachfully censuring him.
+- FOCUS :: 感情的に咎めることなく
+*** ex-1565100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: チームの連帯責任を理由にして特定の同僚の過失を一方的に咎める行為は、組織内の信頼関係を著しく損なう原因となる。
+- READING :: ちーむのれんたいせきにんをりゆうにしてとくていのどうりょうのかしつをいっぽうてきにとがめるこういは、そしきないのしんらいかんけいをいちじるしくそこなうげんいんとなる。
+- UK :: Одностороннє цькування конкретного колеги під приводом командної відповідальності вкрай руйнівно впливає на довіру в колективі.
+- EN :: The act of unilaterally blaming a specific colleague's fault under the pretext of team joint responsibility becomes a cause that markedly impairs trust within the organization.
+- FOCUS :: 一方的に咎める行為は
+
+* Sense s-1565100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ab64edfe51766ed34cc19f7b56d80a6a4163716c82ecc40a330004f85fd118e7
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to question (a suspect)
+- to challenge
+** Ukrainian glosses
+*** uk-s-1565100-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: допитувати; зупиняти для перевірки; окликати; підозрювати
+** Learner notes
+*** note-s-1565100-002-001
+:PROPERTIES:
+:END:
+- UK :: Зупинка або опитування підозрілої особи охоронцем чи поліцейським для з'ясування особи (часто 警官に咎められる, 怪しまれて咎める).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1565100-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 深夜の住宅街をうろついていた不審な男は、巡回中の警察官に怪しまれて咎められ、職務質問を受けることになった。
+- READING :: しんやのじゅうたくがいをうろついていたふしんなおとこは、じゅんかいちゅうのけいさつかんにあやしまれてとがめられ、しょくむしつもんをうけることになった。
+- UK :: Підозрілого чоловіка, який блукав житловим кварталом пізньої ночі, помітив і зупинив для перевірки патрульний поліцейський.
+- EN :: A suspicious man wandering through a residential area late at night was challenged suspiciously by a patrolling police officer and came to undergo questioning.
+- FOCUS :: 警察官に怪しまれて咎められ
+
+* Sense s-1565100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8f93d8c3a8cfa747967ba0e1eb57ddba8328bd6ceec9960c2b865e4df13e2f81
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to aggravate (an injury)
+- to be aggravated
+- to get inflamed
+** Ukrainian glosses
+*** uk-s-1565100-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: запалюватися; загострюватися (про рану чи виразку); ятритися
+** Learner notes
+*** note-s-1565100-003-001
+:PROPERTIES:
+:END:
+- UK :: Погіршення або сильне запалення стану рани, порізу чи травми через проникнення інфекції або подразнення (часто 傷口が咎める, 腫れが咎める).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1565100-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 転んだ際にできた膝の擦り傷を消毒せずに放っておいたため、傷口が咎めて赤く腫れ上がり激しい痛みを伴うようになった。
+- READING :: ころんださいにできたひざのすりきずをしょうどくせずにほうっておいたため、きずぐちがとがめてあかくはれあがりはげしいたみをともなうようになった。
+- UK :: Оскільки подряпину на коліні після падіння не продезінфікували, рана роз'ятрилася, почервоніла й почала сильно боліти.
+- EN :: Because the graze on the knee from falling was left untreated without disinfection, the wound became inflamed and swelled red, accompanied by severe pain.
+- FOCUS :: 傷口が咎めて赤く
+
+* Sense s-1565100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 06265650a0e0535fd84c9bd11d2856ffc8cd9da754d6d78d1f6d0e35625e1731
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Cross-references
+- 気が咎める
+** English glosses
+- to prick (one's conscience)
+** Ukrainian glosses
+*** uk-s-1565100-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: мучити (про сумління); гризти; терзати совість
+** Learner notes
+*** note-s-1565100-004-001
+:PROPERTIES:
+:END:
+- UK :: Внутрішнє відчуття тяжкої провини або докорів сумління через нечесний вчинок, обман чи приховану брехню (часто 良心が咎める, 心が咎める).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1565100-004-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 小さな嘘をついて友人を騙してしまった後、家に帰ってからも良心が咎めて夜も眠れないほど苦しんだ。
+- READING :: ちいさなうそをついてゆうじんをだましてしまったあと、いえにかえってからもりょうしんがとがめてよるもねむれないほどくるしんだ。
+- UK :: Збрехавши другові через дрібницю, я навіть повернувшись додому страждав від докорів сумління й не міг заснути.
+- EN :: After deceiving a friend by telling a small lie, even after returning home my conscience pricked me so painfully that I could not sleep at night.
+- FOCUS :: 良心が咎めて夜も
+
+* Sense s-1565100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f5a771f8a4d620aaa3ab0aa2f41867234b02354706dda83b5fff9790cb3a5925
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een schuldgevoel hebben
+*** en-s-1565100-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich schuldig voelen
+*** en-s-1565100-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wroeging hebben
+** Ukrainian glosses
+
+* Sense s-1565100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6f7c43f865f8a13bc6d8d4675eecfa999a7ca49e9fe8265695e470fdaed33672
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: berispen
+*** en-s-1565100-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: laken
+*** en-s-1565100-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blameren
+*** en-s-1565100-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekritiseren
+*** en-s-1565100-006-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afkeuren
+*** en-s-1565100-006-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwijten
+*** en-s-1565100-006-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanmerkingen maken op
+*** en-s-1565100-006-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: op de vingers tikken
+*** en-s-1565100-006-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een uitbrander
+*** en-s-1565100-006-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: standje geven
+** Ukrainian glosses
+
+* Sense s-1565100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 97da0bd59f7445dc178d4a1b3b8df8e60054ae9763c34683a08cb3fe2bc8fa68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ondervragen
+*** en-s-1565100-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aan de tand voelen
+*** en-s-1565100-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in verhoor nemen
+*** en-s-1565100-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verhoren
+** Ukrainian glosses
+
+* Sense s-1565100-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f4b1c061b1a603cd36c8cbb2e91c74d68522a9b2056675ce32e24450249a98df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-008-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aggraver (une blessure)
+*** en-s-1565100-008-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blâmer
+*** en-s-1565100-008-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: envenimer (une blessure)
+*** en-s-1565100-008-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faire des reproches
+*** en-s-1565100-008-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prendre à partie
+*** en-s-1565100-008-006
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trouver à redire
+** Ukrainian glosses
+
+* Sense s-1565100-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c7b7b73b6ad367b1de1ef71419fa137cdaaa5be3f6e0f55761d8b709b1ad88a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tadeln
+*** en-s-1565100-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdm. etw. vorwerfen
+*** en-s-1565100-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorwürfe machen
+** Ukrainian glosses
+
+* Sense s-1565100-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: b23f2fd0558bd7c1376cbb33fa290927db70afbca961b670d1e239588732e570
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich schuldig fühlen
+** Ukrainian glosses
+
+* Sense s-1565100-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8b928f331ad2b1d820255e85b522f2fc8028c81358142baa122cad0056c659ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ausgefragt werden
+** Ukrainian glosses
+
+* Sense s-1565100-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 3c847d3d44bf52777f74a545b4ebd601fcbc0229cc8fcd51a15ba39dd05196ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich entzünden
+*** en-s-1565100-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich verschlimmern
+** Ukrainian glosses
+
+* Sense s-1565100-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 16d8f530e9fc65040277045de39207a9486902477cf2fbd5abf0c5c8d8ec5706
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hibáztat
+*** en-s-1565100-013-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okol
+*** en-s-1565100-013-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dacol
+*** en-s-1565100-013-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenszegül
+*** en-s-1565100-013-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: igényt tart
+*** en-s-1565100-013-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kérdőre von
+*** en-s-1565100-013-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kétségbe von
+*** en-s-1565100-013-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifogásol
+*** en-s-1565100-013-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kivált
+*** en-s-1565100-013-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: provokál
+*** en-s-1565100-013-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vitat
+*** en-s-1565100-013-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fenyeget
+*** en-s-1565100-013-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elmérgesít
+*** en-s-1565100-013-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltúloz
+*** en-s-1565100-013-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kétségbe ejt
+*** en-s-1565100-013-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megnehezít
+*** en-s-1565100-013-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: súlyosabbá tesz
+** Ukrainian glosses
+
+* Sense s-1565100-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: ec60eb69355b65fab14c5a10ea219449297eb9b0726765ed6d44c26ebfdba672
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) укорять, упрекать; порицать
+*** en-s-1565100-014-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) окликать (о часовом)
+*** en-s-1565100-014-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) воспаляться (напр. о ране)
+** Ukrainian glosses
+
+* Sense s-1565100-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: bbfe4198105e133a1001a0e457b6f81c3a5a0a3deb71095fe3e2392f700dbb08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-015-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grajati
+*** en-s-1565100-015-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kriviti
+*** en-s-1565100-015-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opomniti
+*** en-s-1565100-015-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opominjati
+** Ukrainian glosses
+
+* Sense s-1565100-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: dd40bdba883b61798f2a7460e2aff185e4df6c0f3142734414861f3770678a0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565100-016-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reprobar
+*** en-s-1565100-016-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: censurar
+*** en-s-1565100-016-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regañar
+*** en-s-1565100-016-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reprender
+** Ukrainian glosses

@@ -1,0 +1,388 @@
+#+TITLE: 照合
+#+JMDICT_ID: 1350920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうごう
+#+ROMAJI: shougou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1350920-001
+:PROPERTIES:
+:TEXT: 照合
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1350920-001
+:PROPERTIES:
+:TEXT: しょうごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1350920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 79d833f8b61ef0361f781d2ecf2c60064e54237e341732bc74f6e98ebf871ebe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- check (against)
+- collation (with)
+- comparison
+- verification
+** Ukrainian glosses
+*** uk-s-1350920-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: звірка; зіставлення; порівняння даних
+** Learner notes
+*** note-s-1350920-001-001
+:PROPERTIES:
+:END:
+- UK :: Порівняння двох або кількох списків, документів, підписів чи комп'ютерних файлів для підтвердження їхньої тотожності або виявлення розбіжностей.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1350920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 名簿と身分証明書を照合する。
+- READING :: めいぼとみぶんしょうめいしょをしょうごうする。
+- UK :: Звірити список із посвідченням особи.
+- EN :: Collate the roster with the identification cards.
+- FOCUS :: 照合する
+*** ex-1350920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 現場で見つかった指紋をデータベースの記録と照合して犯人を特定した。
+- READING :: げんばでみつかったしもんをデータベースのきろくとしょうごうしてはんにんをとくていした。
+- UK :: Звіривши знайдені на місці відбитки пальців із базою даних, встановили злочинця.
+- EN :: They identified the culprit by comparing the fingerprints found at the scene with database records.
+- FOCUS :: 記録と照合して
+*** ex-1350920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会計監査では、請求書に記載された金額と実際の銀行口座の出入金記録を一字一句厳密に照合した。
+- READING :: かいけいかんさでは、せいきゅうしょにきさいされたきんがくとじっさいのぎんこうこうざのしゅつにゅうきんきろくをいちじいっくげんみつにしょうごうした。
+- UK :: Під час аудиту суми в рахунках-фактурах достеменно звірили з банківськими виписками про рух коштів на рахунку.
+- EN :: During the accounting audit, the amounts stated on the invoices were strictly collated word for word against the actual bank transaction records.
+- FOCUS :: 厳密に照合した
+
+* Sense s-1350920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 898dcc38770ee233be52b22dbe13dac8a1bcf8d4bb009632fe1cf59591025de1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergelijken
+*** en-s-1350920-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collationeren
+*** en-s-1350920-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verifiëren
+*** en-s-1350920-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afchecken
+*** en-s-1350920-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {勘定を} accorderen
+*** en-s-1350920-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergelijking
+*** en-s-1350920-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collationering
+*** en-s-1350920-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collatie
+*** en-s-1350920-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verificatie
+** Ukrainian glosses
+
+* Sense s-1350920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 544fabd7fb1282ca97e85508e57b22ec4ca242315c953d9425b3d7c185a99994
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collation
+*** en-s-1350920-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: collationnement
+*** en-s-1350920-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comparaison
+** Ukrainian glosses
+
+* Sense s-1350920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3ea39fb0b2acda822399185e890ced6d93aa4c1519af73a057e69bbb41c4237b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergleichen
+*** en-s-1350920-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abgleichen
+*** en-s-1350920-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergleichend kontrollieren
+*** en-s-1350920-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kollationieren
+*** en-s-1350920-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vergleich
+*** en-s-1350920-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vergleichung
+*** en-s-1350920-004-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abgleich
+*** en-s-1350920-004-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kollation
+** Ukrainian glosses
+
+* Sense s-1350920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5c32806189268542e9b9a1282c6096ef02c3cb582968b35cfe43ea918a63731c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egybevetés
+*** en-s-1350920-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könnyű étkezés
+*** en-s-1350920-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeolvasás
+*** en-s-1350920-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összevetés
+*** en-s-1350920-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összehasonlítás
+*** en-s-1350920-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyeztetés
+** Ukrainian glosses
+
+* Sense s-1350920-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d386e76a4503680af537d36b48bcf6367061911fcb5ebcb075b0056848895078
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сопоставление, сличение, сверка
+*** en-s-1350920-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} сопоставлять, сличать, сверять
+** Ukrainian glosses
+
+* Sense s-1350920-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0504ceaa611740688ff3a74a28bf724a7d298e00351382f48662ac7386889968
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350920-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cotejo
+** Ukrainian glosses

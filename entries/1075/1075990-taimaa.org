@@ -1,0 +1,566 @@
+#+TITLE: タイマー
+#+JMDICT_ID: 1075990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: タイマー
+#+ROMAJI: taimaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1075990-001
+:PROPERTIES:
+:TEXT: タイマー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1075990-002
+:PROPERTIES:
+:TEXT: タイマ
+:NO_KANJI: false
+:END:
+
+* Sense s-1075990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1c48940fdf970a9553f7d4d20091b369b1f4d02a728a6ae9ca62ca95a5a5ed75
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- timer
+- time switch
+** Ukrainian glosses
+*** uk-s-1075990-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: таймер; реле часу; програвач вимкнення
+** Learner notes
+*** note-s-1075990-001-001
+:PROPERTIES:
+:END:
+- UK :: Прилад або електронний лічильник для автоматичного відліку зворотного часу в кухонній чи побутовій техніці (часто タイマーを五分にセットする).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1075990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: タイマーを三分にセットする。
+- READING :: たいまーをさんぷんにせっとする。
+- UK :: Встановити таймер на три хвилини.
+- EN :: Set the timer for three minutes.
+- FOCUS :: タイマーを三分にセットする
+*** ex-1075990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 料理が焦げないように、鍋を火にかけると同時にタイマーをセットした。
+- READING :: りょうりがこげないように、なべをひにかけるとどうじにたいまーをせっとした。
+- UK :: Щоб страва не підгоріла, одночасно з тим, як поставив каструлю на вогонь, я завів таймер.
+- EN :: So the food wouldn't burn, I set the timer at the same time I put the pot on the heat.
+- FOCUS :: タイマーをセットした
+*** ex-1075990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 朝起きる時間に合わせて暖房のタイマーを設定しておいたので部屋が暖かい。
+- READING :: あさおきるじかんにあわせてだんぼうのたいまーをせっていしておいたのでへやがあたたかい。
+- UK :: Оскільки я налаштував таймер увімкнення опалення під час ранкового підйому, у кімнаті тепло.
+- EN :: Because I set the heating timer to match the time I wake up in the morning, the room is warm.
+- FOCUS :: タイマーを設定しておいた
+
+* Sense s-1075990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ed6bdb1445666fa1e95ce4fe03f364322ce612577ad7c1958d99378861b6bd03
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stopwatch
+** Ukrainian glosses
+*** uk-s-1075990-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: секундомір (у спорті)
+** Learner notes
+*** note-s-1075990-002-001
+:PROPERTIES:
+:END:
+- UK :: Електронний або механічний пристрій для точного фіксування часу проходження дистанції в спортивних змаганнях (часто 手持ちのタイマー).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1075990-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: コーチは手に持ったタイマーで選手の走るタイムを正確に計測した。
+- READING :: こーちはてにもったたいまーでせんしゅのはしるたいむをせいかくにけいそくした。
+- UK :: Тренер за допомогою секундоміра в руках точно зафіксував час бігу спортсмена.
+- EN :: The coach accurately measured the athlete's running time with the timer held in hand.
+- FOCUS :: 手に持ったタイマーで
+
+* Sense s-1075990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 81149c477c700b538d7d206ffbd973fa7916c4e3e7db00d2504a113c84426a67
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- time keeper
+** Ukrainian glosses
+*** uk-s-1075990-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: хронометрист; суддя-секундометрист
+** Learner notes
+*** note-s-1075990-003-001
+:PROPERTIES:
+:END:
+- UK :: Особа або службовець на змаганнях чи телешоу, яка офіційно відповідає за відлік і дотримання регламенту часу (часто 公式タイマー).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1075990-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 試合の進行を厳密に管理するため、公式のタイマーが配置された。
+- READING :: しあいのしんこうをげんみつにかんりするため、こうしきのたいまーがはいちされた。
+- UK :: Для суворого дотримання регламенту матчу призначили офіційного хронометриста.
+- EN :: An official timekeeper was placed to strictly manage the match's progress.
+- FOCUS :: 公式のタイマーが配置された
+
+* Sense s-1075990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bf121fb28d3aa87b92bdf497c06ee085310bddbba439e84aced704f7c29d2945
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- photo
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- セルフタイマー
+** English glosses
+- self-timer
+- (delay) timer
+** Ukrainian glosses
+*** uk-s-1075990-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: автоспуск (фотоапарата)
+** Learner notes
+*** note-s-1075990-004-001
+:PROPERTIES:
+:END:
+- UK :: Функція фотокамери або смартфона для затримки спуску затвора на кілька секунд для групового знімка (часто カメラのタイマー).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1075990-004-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全員で記念写真を撮るためにカメラのタイマーを使って撮影した。
+- READING :: ぜんいんできねんしゃしんをとるためにかめらのたいまーをつかってさつえいした。
+- UK :: Щоб зробити пам'ятне спільне фото всіма разом, ми скористалися автоспуском фотоапарата.
+- EN :: To take a commemorative photo with everyone, we shot using the camera's timer.
+- FOCUS :: カメラのタイマーを使って
+
+* Sense s-1075990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 18c19f76ac926d622cc1b6845fe5542c09ec424f7249e14371a219b0cf9efd2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdopnemer
+** Ukrainian glosses
+
+* Sense s-1075990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a10a0f3b7bba79927231752af17260f3f90a40d116a20cde3589f8e9c5b71d05
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdwaarnemer
+** Ukrainian glosses
+
+* Sense s-1075990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1eacded14e93bfa64ed83ab2c831ead128681e66cf8cc6705183e5df080fcefb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdmechanisme
+*** en-s-1075990-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tijdontsteker
+** Ukrainian glosses
+
+* Sense s-1075990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0fcce79a35133e539f72470f8bfa89e0d093d7d0a7f860ae8a34271ab28254ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {foto.} zelfontspanner
+** Ukrainian glosses
+
+* Sense s-1075990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: c00e55a373f30d4f8b94e40d449cadcaf1a433e0cef86fc58c7ff75e9a46de2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deeltijder
+*** en-s-1075990-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deeltijdwerker
+*** en-s-1075990-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parttimer
+** Ukrainian glosses
+
+* Sense s-1075990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 799d2bc36f938f76fb9502116bdc279b7328619f5bc38f41b10231535a66cf42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeitschaltuhr
+** Ukrainian glosses
+
+* Sense s-1075990-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 22ce7648c0c425e1c12a733a96187fcc59e29c5c8ef0cb43b3f136c905aaf0b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenőrzőóra
+*** en-s-1075990-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyújtási elosztó
+*** en-s-1075990-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyújtásidőzítő
+*** en-s-1075990-011-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyújtásszabályozó
+*** en-s-1075990-011-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időre dolgozó
+*** en-s-1075990-011-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időrelé
+*** en-s-1075990-011-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időtartam-kapcsoló
+*** en-s-1075990-011-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időzítő
+*** en-s-1075990-011-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: művelet időtartamát önműködően szabályozó készülék
+*** en-s-1075990-011-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időzítő
+*** en-s-1075990-011-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: munkaidő-ellenőr
+*** en-s-1075990-011-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stopper
+** Ukrainian glosses
+
+* Sense s-1075990-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: bfe30ee29fe37e90a6c706dc83e529fc0d5dedb514c5519e792e5f9cafda2a28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) timer)
+*** en-s-1075990-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (тех.) автоматический прибор, регулирующий продолжительность операции
+*** en-s-1075990-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) хронометрист
+** Ukrainian glosses
+
+* Sense s-1075990-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 40f1292786cf945cb8c433a015aa2d59e562e27ed2b2c837f645786ad10fd7bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-013-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kronometer
+*** en-s-1075990-013-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: merilec časa
+*** en-s-1075990-013-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: štoparica
+** Ukrainian glosses
+
+* Sense s-1075990-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 9581b84998e95ee20826f776962d3cd1b839dfbabaab4946567c4c4780f5e3ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-014-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: timer) cronómetro
+*** en-s-1075990-014-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reloj
+** Ukrainian glosses
+
+* Sense s-1075990-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 8a19cf1a81b1617950c2f0cf48b2ac5f2732a00dece15836d56a20380b58bbf7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075990-015-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tidur
+*** en-s-1075990-015-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: timer
+** Ukrainian glosses

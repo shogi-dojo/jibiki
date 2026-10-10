@@ -1,0 +1,411 @@
+#+TITLE: 仕様
+#+JMDICT_ID: 1305500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しよう
+#+ROMAJI: shiyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1305500-001
+:PROPERTIES:
+:TEXT: 仕様
+:END:
+*** Priorities
+- news1
+- nf11
+** Written form wf-1305500-002
+:PROPERTIES:
+:TEXT: 仕樣
+:END:
+*** Information
+- oK
+** Reading rd-1305500-001
+:PROPERTIES:
+:TEXT: しよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+
+* Sense s-1305500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0c108f867aa21caf9a84bf31359b409afef6cf809a2f9dd99c6b59595f5198bf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- way
+- method
+- means
+- resource
+- remedy
+** Ukrainian glosses
+*** uk-s-1305500-001-001
+:PROPERTIES:
+:END:
+- text :: спосіб; засіб; можливість щось зробити
+** Learner notes
+*** note-s-1305500-001-001
+:PROPERTIES:
+:END:
+- UK :: しようがない — нічого не вдієш; どうしようもない — немає способу зарадити. Для цього значення звичайний запис しよう.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1305500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鍵が見つからず、家に入ろうにもしようがありません。
+- READING :: かぎがみつからず、いえにはいろうにもしようがありません。
+- UK :: Ключа не знайти, тож увійти до будинку ніяк не можна.
+- FOCUS :: しよう
+*** ex-1305500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 資料が残っていないので、詳しく調べようにもしようがない。
+- READING :: しりょうがのこっていないので、くわしくしらべようにもしようがない。
+- UK :: Оскільки матеріали не збереглися, докладно дослідити це неможливо.
+- FOCUS :: しよう
+*** ex-1305500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 連絡先を聞かないまま別れてしまったので、お礼を伝えようにもしようがなく、私はいつか再会できることを願って同じ市場を訪ねた。
+- READING :: れんらくさきをきかないままわかれてしまったので、おれいをつたえようにもしようがなく、わたしはいつかさいかいできることをねがっておなじいちばをたずねた。
+- UK :: Ми розійшлися, не обмінявшись контактами, тож я ніяк не міг подякувати й знову відвідав той самий ринок, сподіваючись колись зустріти цю людину.
+- FOCUS :: しよう
+
+* Sense s-1305500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 18687251b53dd0b3759f1be4659c1b958e0c87e5dcafe8d8a9fbeec481498a6a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (technical) specification
+** Ukrainian glosses
+*** uk-s-1305500-002-001
+:PROPERTIES:
+:END:
+- text :: специфікація; технічні характеристики; виконання
+** Learner notes
+*** note-s-1305500-002-001
+:PROPERTIES:
+:END:
+- UK :: 製品の仕様 — характеристики виробу; 仕様書 — документ із технічними вимогами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1305500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cf42be00c1be2469f76db4d56a4af9ebfd122a03e336e8863b909018c156547c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: manier
+*** en-s-1305500-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wijze
+*** en-s-1305500-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: methode
+** Ukrainian glosses
+
+* Sense s-1305500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ccaec09f9490507d3899f31e545e173e41b5dfda1bca3490759a48c15a617cd7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebruiksaanwijzing
+*** en-s-1305500-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: handleiding
+*** en-s-1305500-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gedetailleerde beschrijving
+*** en-s-1305500-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestek
+** Ukrainian glosses
+
+* Sense s-1305500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 93c238112097a3e5298da95c22cb82cca538b1f818e56e68e3aae938af78ce51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Art und Weise
+*** en-s-1305500-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Methode
+*** en-s-1305500-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verfahren
+*** en-s-1305500-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Behandlungsweise
+*** en-s-1305500-005-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spezifikation
+** Ukrainian glosses
+
+* Sense s-1305500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c09335210cc161eb01039b4f3ccd8a0c575a3f4cb56c3bc829c082087e445aa6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenszer
+*** en-s-1305500-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszer
+*** en-s-1305500-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jogorvoslat
+*** en-s-1305500-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvoslás
+*** en-s-1305500-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: specifikáció
+*** en-s-1305500-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenszer
+*** en-s-1305500-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszer
+*** en-s-1305500-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jogorvoslat
+*** en-s-1305500-006-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvoslás
+** Ukrainian glosses
+
+* Sense s-1305500-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 150e1be7e07597f4cd5272a010b6bdcc564f013e7ad87898b3caecf9ee77eb3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: способ, средство
+*** en-s-1305500-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～がない} (см.) しかた 2 (仕方がない)
+*** en-s-1305500-007-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～のない} безнадёжный; бестолковый; негодный
+** Ukrainian glosses
+
+* Sense s-1305500-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: a98e57bc60b8140828f554c10db8fd094e63392c59ba58492053d441c148182c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-008-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: način
+*** en-s-1305500-008-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metoda
+** Ukrainian glosses
+
+* Sense s-1305500-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: e3a92f92d25a4edaf7e8e409787afd7605cbc2d618af3a407384ea4cc7fa5573
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305500-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: manera
+*** en-s-1305500-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forma de hacer
+** Ukrainian glosses

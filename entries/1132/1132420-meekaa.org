@@ -1,0 +1,416 @@
+#+TITLE: メーカー
+#+JMDICT_ID: 1132420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: メーカー
+#+ROMAJI: meekaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1132420-001
+:PROPERTIES:
+:TEXT: メーカー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-1132420-002
+:PROPERTIES:
+:TEXT: メーカ
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+** Reading rd-1132420-003
+:PROPERTIES:
+:TEXT: メイカー
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1132420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 71463e346f7a16c1b698ca834fee928a35a8682b77b150ae5bd52c57e5fd9ca8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- manufacturer (esp. a major company)
+- producer
+- maker
+** Ukrainian glosses
+*** uk-s-1132420-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: виробник; завод-виробник; фірма-виробник; виробнича компанія
+** Learner notes
+*** note-s-1132420-001-001
+:PROPERTIES:
+:END:
+- UK :: Підприємство або корпорація, що безпосередньо займається серійним виробництвом промислових товарів, електроніки, автомобілів тощо (часто 大手自動車メーカー, 電機メーカー).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1132420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 車を日本のメーカーから買う。
+- READING :: くるまをにほんのめーかーからかう。
+- UK :: Купувати авто в японського виробника.
+- EN :: Buy a car from a Japanese manufacturer.
+- FOCUS :: メーカーから買う
+*** ex-1132420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国内の大手電機メーカーは、省エネルギー性能を高めた革新的な新型冷蔵庫の開発に巨額の資金を投入している。
+- READING :: こくないのおおてでんきめーかーは、しょうえねるぎーせいのうをたかめたかくしんてきなしんがたれいぞうこのかいはつにきょがくのしきんをとうにゅうしている。
+- UK :: Провідний вітчизняний виробник електротехніки інвестує колосальні кошти в розробку інноваційного холодильника з підвищеною енергоефективністю.
+- EN :: A major domestic electronics manufacturer is investing massive funds into the development of an innovative new refrigerator with enhanced energy-saving performance.
+- FOCUS :: 電機メーカーは
+*** ex-1132420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 不具合の原因を徹底的に究明するため、部品を納入した複数のメーカーに対して詳細な安全検証データの提出が求められた。
+- READING :: ふぐあいのげんいんをてっていてきにきゅうめいするため、ぶひんをのうにゅうしたふくすうのめーかーにたいしてしょうさいなあんぜんけんしょうでーたのていしゅつがもとめられた。
+- UK :: Аби досконально з'ясувати причину несправності, від кількох компаній-виробників, які постачали деталі, зажадали надати докладні дані перевірки безпеки.
+- EN :: To thoroughly investigate the cause of the defect, the submission of detailed safety verification data was requested from multiple manufacturers that supplied parts.
+- FOCUS :: 複数のメーカーに対して
+
+* Sense s-1132420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f28b6fc2a0986f5c4bb1abac911876e04757e3b2be26837dbf405db4eb97ddec
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- in compounds
+*** Cross-references
+- コーヒーメーカー
+- チャンスメーカー
+** English glosses
+- maker (person or device that makes something)
+** Ukrainian glosses
+*** uk-s-1132420-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: прилад для приготування; творець; генератор (пристрій або роль людини)
+** Learner notes
+*** note-s-1132420-002-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий прилад для виготовлення продукту (наприклад, кавоварка чи хлібопічка) або людина, що створює атмосферу чи неприємності (часто コーヒーメーカー, ムードメーカー, トラブルメーカー).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1132420-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 職場のチームで彼は常に周囲を和ませるムードメーカーとして親しまれており、彼がいるだけで会議の緊張がほぐれる。
+- READING :: しょくばのちーむでかれはつねにしゅういをなごませるむーどめーかーとしてしたしまれており、かれがいるだけでかいぎのきんちょうがほぐれる。
+- UK :: У робочій команді його люблять як людину, що створює чудовий настрій і завжди розряджає атмосферу; від самої його присутності напруга на нарадах спадає.
+- EN :: In the workplace team, he is well-liked as a mood maker who always puts those around him at ease, and just having him there relieves tension in meetings.
+- FOCUS :: ムードメーカーとして
+
+* Sense s-1132420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 01431dcd4c33a6a332afe55ca13a9ffb3ea9b257f3360f57996b0222db5e819d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maker
+*** en-s-1132420-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabrikant
+*** en-s-1132420-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: producent
+** Ukrainian glosses
+
+* Sense s-1132420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cd4931edc2889cbd18cc1467e5fbed44d477ac4576c77c6511fa788c63b2340b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabricant
+*** en-s-1132420-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabricant
+** Ukrainian glosses
+
+* Sense s-1132420-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 23bf19b84d7e9169a28eeb1e78a90f3d14e5118ae46fdc23ce84c8b97423945e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hersteller
+*** en-s-1132420-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erzeuger
+** Ukrainian glosses
+
+* Sense s-1132420-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f17419cbb400477a8652b1a13ea2e6e936b2329d83d59cac9f7aeb462f1ec0bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Markenhersteller
+** Ukrainian glosses
+
+* Sense s-1132420-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4ef77b1fb95f311c0be3cfaecbdef6cbde638cb5033bd87885d65418f1b63bc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Macher
+*** en-s-1132420-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verfertiger
+** Ukrainian glosses
+
+* Sense s-1132420-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4bca821879574a3f427c3c894e6125acc2be994fd6b8f218a30e177d55ebd2a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alkotó
+*** en-s-1132420-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: készítő
+*** en-s-1132420-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyártó
+*** en-s-1132420-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alkotó
+*** en-s-1132420-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: készítő
+** Ukrainian glosses
+
+* Sense s-1132420-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 34a2ca372c866b771e05dc27f426757e6f5ea900aa14937947a17f025cd1f6d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) maker)
+*** en-s-1132420-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) производитель, изготовитель; фабрикант
+*** en-s-1132420-009-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) работник (какой-л. области)
+** Ukrainian glosses
+
+* Sense s-1132420-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 98b4f066800f82b236496f4739f3890d3b294c07824ee16929f0247e9c82de24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: proizvajalec
+*** en-s-1132420-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izdelovalec
+*** en-s-1132420-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tovarnar
+*** en-s-1132420-010-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: izdajatelj (zadolžnice) (jur.)
+** Ukrainian glosses
+
+* Sense s-1132420-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 61155f8e0471e422562c58a1998252732b913463445711aa55728d164b50e2cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1132420-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: maker) fabricante (eng: lit hacedor)
+** Ukrainian glosses

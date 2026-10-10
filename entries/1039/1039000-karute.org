@@ -1,0 +1,291 @@
+#+TITLE: カルテ
+#+JMDICT_ID: 1039000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カルテ
+#+ROMAJI: karute
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1039000-001
+:PROPERTIES:
+:TEXT: カルテ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1039000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: de3e297f21cdc3b2bec9dbea000280d6c5015de84d9f0bda30fa7a7faf59af3b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1039000-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Karte
+** English glosses
+- patient's chart
+- clinical records
+** Ukrainian glosses
+*** uk-s-1039000-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: медична картка; історія хвороби; лікарняна картка
+** Learner notes
+*** note-s-1039000-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційна медична картка пацієнта, куди лікар записує анамнез, скарги, діагноз і призначене лікування (від німецького Karte, часто 電子カルテ).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1039000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師がカルテに記入する。
+- READING :: いしがかるてにきにゅうする。
+- UK :: Лікар записує дані в медичну картку.
+- EN :: The doctor writes in the patient's chart.
+- FOCUS :: カルテに記入する
+*** ex-1039000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 病院の業務効率化と情報共有を図るため、紙の記録から電子カルテシステムへの移行が進められている。
+- READING :: びょういんのぎょうむこうりつかとじょうほうきょうゆうをはかるため、かみのきろくからでんしかるてしすてむへのいこうがすすめられている。
+- UK :: Задля оптимізації роботи та спільного доступу до інформації лікарні активно переходять із паперових карток на електронні системи.
+- EN :: To improve hospital operational efficiency and information sharing, the transition from paper records to electronic chart systems is underway.
+- FOCUS :: 電子カルテシステムへの
+*** ex-1039000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 担当医は患者の過去の病歴やアレルギー情報をカルテで入念に照合した上で、副作用の少ない最適な処方薬を選択した。
+- READING :: たんとういはかんじゃのかこのびょうれきやあれるぎーじょうほうをかるてでにゅうねんにしょうごうしたうえで、ふくさようのすくないさいてきなしょほうやくをせんたくした。
+- UK :: Лікар ретельно звірив за медичною карткою історію хвороб та алергії пацієнта, після чого підібрав оптимальні ліки з мінімумом побічних дій.
+- EN :: The attending physician carefully checked the patient's past medical history and allergy information against the clinical record, then selected optimal prescription drugs with few side effects.
+- FOCUS :: カルテで入念に照合した上で
+
+* Sense s-1039000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0c207831c773bdcbb5676951c2a9c042a1538cb6bf17a900adcae6680d58f5ca
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- record (e.g. student, equipment maintenance, etc.)
+** Ukrainian glosses
+*** uk-s-1039000-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: реєстраційна картка; формуляр; облікова картка
+** Learner notes
+*** note-s-1039000-002-001
+:PROPERTIES:
+:END:
+- UK :: Облікова чи технічна картка для ведення історії клієнта, технічного стану обладнання чи успішності учня (часто 車のカルテ, 美容カルテ).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1039000-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 美容室では顧客の髪質や過去のカラー履歴を専用のカルテに記録し、次回以降の施術に役立てている。
+- READING :: びようしつではこきゃくのかみしつやかこのからーりれきをせんようのかるてにきろくし、じかいいこうのせじゅつにやくだてている。
+- UK :: У салоні краси тип волосся та історію фарбування клієнта фіксують у спеціальній картці для врахування під час наступних візитів.
+- EN :: At the beauty salon, client hair quality and past coloring history are recorded in a dedicated chart to assist in subsequent treatments.
+- FOCUS :: 専用のカルテに記録し
+
+* Sense s-1039000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 18dddad76bbc021f583fc53fb85d59051ab4b864065d65ede4717da7292350f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039000-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} patiëntenkaart
+*** en-s-1039000-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: status
+*** en-s-1039000-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: patiëntendossier
+*** en-s-1039000-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medisch dossier
+*** en-s-1039000-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gezondheidsdossier
+** Ukrainian glosses
+
+* Sense s-1039000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 353f763c8585e4e70b616b980898a2707be10bfd561dc20468fb3216bbd42dec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039000-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krankenkarte
+*** en-s-1039000-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Behandlungskarte
+** Ukrainian glosses
+
+* Sense s-1039000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e3516ef948ac92dcceb6fc38412b1949a539080903268aae869f5ef668103cfe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039000-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((нем.) Karte) (мед.) история болезни
+** Ukrainian glosses
+
+* Sense s-1039000-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6f375fcc3922190f3676c0dc39fc5c1f01fae717c525f9551aa1e348a9724db1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039000-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zdravstveni arhiv
+*** en-s-1039000-006-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zdravstvena mapa
+*** en-s-1039000-006-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zdravstvena kartoteka
+*** en-s-1039000-006-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zdravniški izvidi
+** Ukrainian glosses
+
+* Sense s-1039000-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 604e4c2fee79d1d2dea7ceb0474bc4b22cfdad5720a70670a6c1b13d31e32c99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039000-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: del francés carte) regístro médico
+*** en-s-1039000-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: historial médico
+** Ukrainian glosses

@@ -1,0 +1,1095 @@
+#+TITLE: 札
+#+JMDICT_ID: 1298970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふだ
+#+ROMAJI: fuda
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1298970-001
+:PROPERTIES:
+:TEXT: 札
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Written form wf-1298970-002
+:PROPERTIES:
+:TEXT: 簡
+:END:
+** Reading rd-1298970-001
+:PROPERTIES:
+:TEXT: ふだ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf05
+** Reading rd-1298970-002
+:PROPERTIES:
+:TEXT: ふみた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1298970-003
+:PROPERTIES:
+:TEXT: ふんだ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1298970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4e9d61a564e1fc9abc9724d0e0585e9ed99f96bade7afb9df6de22fa9ec7fc5f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ticket
+- token
+- check
+- receipt
+** Ukrainian glosses
+*** uk-s-1298970-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: жетон; номерок; квиток; розписка; талон
+** Learner notes
+*** note-s-1298970-001-001
+:PROPERTIES:
+:END:
+- UK :: Невеликий дерев'яний, металевий або паперовий знак, що слугує підтвердженням замовлення, номерком у гардеробі чи квитком (часто 荷札, 下足札, 番号札).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1298970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 番号の札を受け取る。
+- READING :: ばんごうのふだをうけとる。
+- UK :: Отримувати талончик із номером.
+- EN :: Receive a numbered ticket.
+- FOCUS :: 札を受け取る
+*** ex-1298970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 劇場のクロークでコートを預けた際、引き換え用の番号札を失くさないように財布へ入れた。
+- READING :: げきじょうのくろーくでこーとをあずけたさい、ひきかえようのばんごうふだをなくさないようにさいふへいれた。
+- UK :: Коли я здав пальто в гардероб театру, то поклав номерок для отримання в гаманець, аби не загубити його.
+- EN :: When I checked my coat at the theater cloakroom, I put the numbered claim tag into my wallet so as not to lose it.
+- FOCUS :: 引き換え用の番号札を
+*** ex-1298970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 混雑する総合病院の受付窓口では、呼び出しの順番を明確に管理するために来院者全員に整理番号が印字された札を配布している。
+- READING :: こんざつするそうごうびょういんのうけつけまどぐちでは、よびだしのじゅんばんをめいかくにかんりするためにらいいんしゃぜんいんにせいりばんごうがいんじされたふだをはいふしている。
+- UK :: У реєстратурі переповненої лікарні всім відвідувачам видають номерні талончики для чіткого регулювання черги на прийом.
+- EN :: At the reception desk of the crowded general hospital, tickets printed with sequence numbers are distributed to all visitors in order to clearly manage the calling order.
+- FOCUS :: 印字された札を配布している
+
+* Sense s-1298970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a7af711cf7a4e21a0e65a32d09522fb3081766860e709fbd8e204cb57eb943a3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- label
+- tag
+** Ukrainian glosses
+*** uk-s-1298970-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: бирка; ярлик; етикетка; маркування
+** Learner notes
+*** note-s-1298970-002-001
+:PROPERTIES:
+:END:
+- UK :: Прикріплена до товару чи багажу табличка або паперовий ярлик із зазначенням імені, ціни чи адреси (часто 値札, 荷札, 名札).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1298970-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 百貨店のバーゲンセール会場で、洋服に付けられた値札の割引率を慎重に確かめながら買い物を楽しんだ。
+- READING :: ひゃっかてんのばーげんせーるかいじょうで、ようふくにつけられたねふだのわりびきりつをしんちょうにたしかめながらかいものをたのしんだ。
+- UK :: На розпродажі в універмазі я насолоджувався покупками, уважно перевіряючи відсоток знижки на цінниках одягу.
+- EN :: At the department store bargain sale venue, I enjoyed shopping while carefully checking the discount rate on the price tags attached to the clothes.
+- FOCUS :: 付けられた値札の割引率を
+
+* Sense s-1298970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de6b9ec2d0e3fe3bfa6d7c1e6702b2e7a93a5c5ae60fc647173ef09e63923577
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sign
+- card
+- plate
+** Ukrainian glosses
+*** uk-s-1298970-003-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: табличка; вивіска; дощечка; покажчик
+** Learner notes
+*** note-s-1298970-003-001
+:PROPERTIES:
+:END:
+- UK :: Дощечка або табличка з написом чи попередженням, встановлена біля дверей, на паркані або стовпі (часто 立て札, 門札, 禁煙の札).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1298970-003-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史的な庭園の入り口には、芝生の保護と環境保全を呼びかける木製の立て札が丁寧に設置されていた。
+- READING :: れきしてきなていえんのいりぐちには、しばふのほごとかんきょうほぜんをよびかけるもくせいのたてふだがていねいにせっちされていた。
+- UK :: Біля входу до старовинного саду акуратно встановили дерев'яну табличку із закликом берегти газон і природу.
+- EN :: At the entrance to the historic garden, a wooden sign board urging grass protection and environmental preservation was neatly installed.
+- FOCUS :: 木製の立て札が
+
+* Sense s-1298970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ea723ec18c99ec7d0011ac3229bad8051f3f00391721d1384f1a54f75709a77d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- playing card
+** Ukrainian glosses
+*** uk-s-1298970-004-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: гральна карта; карта (у грі)
+** Learner notes
+*** note-s-1298970-004-001
+:PROPERTIES:
+:END:
+- UK :: Гральна карта або прямокутна картка для традиційних японських чи класичних картярських ігор (часто 花札, かるたの札, 百人一首の札).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1298970-004-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 正月の伝統的な行事として家族一同が集まり、百人一首のかるたの札を素早く取り合って白熱した勝負を繰り広げた。
+- READING :: しょうがつのでんとうてきなぎょうじとしてかぞくいちどうがあつまり、ひゃくにんいっしゅのかるたのふだをすばやくとりあってはくねつしたしょうぶをくりひろげた。
+- UK :: Як традиційну новорічну розвагу вся родина зібралася разом і вела запекле змагання, наввипередки хапаючи картки гри «Хякунін іссю».
+- EN :: As a traditional New Year event, the whole family gathered and unfolded a heated contest, swiftly competing to grab the cards of the Hyakunin Isshu poetry game.
+- FOCUS :: かるたの札を素早く取り合って
+
+* Sense s-1298970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 668aa5ee4975dfbbf3e9341bc2c9bb7c9ac6b4c5f638b380c2ebbe0306547c48
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 守り札
+** English glosses
+- charm
+- talisman
+** Ukrainian glosses
+*** uk-s-1298970-005-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: амулет; оберіг; талісман (синтоїстський або буддійський)
+** Learner notes
+*** note-s-1298970-005-001
+:PROPERTIES:
+:END:
+- UK :: Священний оберіг або паперова смужка з молитвами й печаткою, отримана в синтоїстському чи буддійському храмі (часто お札, 厄除けの札, 守り札).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1298970-005-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 年の初めに有名な神社へ初詣に訪れ、家族の無病息災と交通安全を祈願した厄除けのお札を授かって神棚に祀った。
+- READING :: としのはじめにゆうめいなじんじゃへはつもうでにおとずれ、かぞくのむびょうそくさいとこうつうあんぜんをきがんしたやくよけのおふだをさずかってかみだなにまつった。
+- UK :: На початку року під час першого відвідування святилища ми отримали захисний амулет із молитвою за здоров'я й безпеку сім'ї та поставили його на домашній вівтар.
+- EN :: Visiting a famous shrine for the first shrine visit of the year, we received a protective talisman praying for our family's health and traffic safety and enshrined it on the household altar.
+- FOCUS :: 厄除けのお札を授かって
+
+* Sense s-1298970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0b57fc0ca97ae5849afe76e907bf93f55e825a3e677fab83d674e0384f563984
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- slip of paper posted on shrine pillars by pilgrims
+** Ukrainian glosses
+*** uk-s-1298970-006-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сенджафуда; паперова наліпка паломника (на воротах або колонах храмів)
+** Learner notes
+*** note-s-1298970-006-001
+:PROPERTIES:
+:END:
+- UK :: Паперова смужка з іменем паломника чи девізом, яку традиційно наклеюють на колони та брами храмів під час паломництва (часто 千社札, 札所).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1298970-006-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い寺院の山門の柱には、全国を行脚した巡礼者たちが参拝の記念として貼り付けた無数の千社札が今も残されている。
+- READING :: ふるいじいんのさんもんのはしらには、ぜんこくをあんぎゃしたじゅんれいしゃたちがさんぱいのきねんとしてはりつけたむすうのせんじゃふだがいまものこされている。
+- UK :: На колонах головної брами стародавнього храму й досі збереглися незліченні паперові наліпки паломників, наклеєні на згадку про прощу.
+- EN :: On the pillars of the main gate of the old temple, countless pilgrim stickers posted as mementos of worship by pilgrims who traveled throughout the country still remain today.
+- FOCUS :: 無数の千社札が今も
+
+* Sense s-1298970-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a2bd1fa970f13f76a75c88225af2fa6e93c8afc570a8634117145290354a855f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tablet
+*** en-s-1298970-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaat
+*** en-s-1298970-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: briefje
+*** en-s-1298970-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaart
+*** en-s-1298970-007-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fiche
+** Ukrainian glosses
+
+* Sense s-1298970-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 39aafd3e054bbb4fa6b21b3199108421cc4b57f4b0fbb3f6b9c82c99b46123e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: loonbriefje
+*** en-s-1298970-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} loonfiche
+** Ukrainian glosses
+
+* Sense s-1298970-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b06832f8195e02aba7668f23c5e163515907c080a1b49de369657391741e0e9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plakkaat
+** Ukrainian glosses
+
+* Sense s-1298970-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: eb2c7aa7ec12cb7c17d3217d5001e74579073d8a84eeca4ab3b0d4c61ca53f88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amulet
+*** en-s-1298970-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: talisman
+** Ukrainian glosses
+
+* Sense s-1298970-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 4c7f7fe92047130b534678da7592ff4592480d16567c7a7287aeda8d75d90364
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-011-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pandbewijs
+*** en-s-1298970-011-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lommerdbriefje
+** Ukrainian glosses
+
+* Sense s-1298970-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 662dea19b34bde130ede2ef4afecab0622fa242d9ed33107acb5e74eb2b92c93
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-012-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaartje
+*** en-s-1298970-012-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biljet
+*** en-s-1298970-012-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ticket
+** Ukrainian glosses
+
+* Sense s-1298970-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 6edd49316b76830a65f2c5bcfd45d7da898ddf12a1b5abc4390becc7d34ba6ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-013-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergunning
+*** en-s-1298970-013-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vignet
+*** en-s-1298970-013-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wissel
+** Ukrainian glosses
+
+* Sense s-1298970-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 4c5fb6010842991afb5ee19bf24767ca56dbd55fae65d95c081e8652e6238c16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-014-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strooibiljet
+*** en-s-1298970-014-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: circulaire
+** Ukrainian glosses
+
+* Sense s-1298970-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 3dccf2aa9af866e918fdf76f0293b82623afb640bc178b43550907708bbb661d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-015-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaart
+*** en-s-1298970-015-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: speelkaart
+** Ukrainian glosses
+
+* Sense s-1298970-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: a13107249ac2960711f34eec0410a5b0c20864b3881659196afd087a4a3df8aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-016-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: votiefplaat
+*** en-s-1298970-016-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedebriefje
+** Ukrainian glosses
+
+* Sense s-1298970-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 18cd805fc0713cec65085e01aea7dc74d87110d6a7427a05fa3ff620abc37bfa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-017-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aan een theehuis of impresariaat bevestigd naambord van een geisha
+** Ukrainian glosses
+
+* Sense s-1298970-018
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 18
+:SOURCE_FINGERPRINT: 8bf973f08aaee9ee31f3b3c64742aa36d51e885d4d45bdf5561894796d25ed9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-018-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offerte
+*** en-s-1298970-018-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bod
+** Ukrainian glosses
+
+* Sense s-1298970-019
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 19
+:SOURCE_FINGERPRINT: d867f377ba1cec45f52066cae5c953e841d2e06dc544d7c7cfab7dfec3bae4d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-019-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: étiquette
+*** en-s-1298970-019-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: label
+** Ukrainian glosses
+
+* Sense s-1298970-020
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 20
+:SOURCE_FINGERPRINT: 7e6b546f36edeb16116c6b63d2e166e6e96a0ce1dd3b38782023ff0d4d8ec72e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-020-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: billet
+*** en-s-1298970-020-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carte
+*** en-s-1298970-020-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ticket
+** Ukrainian glosses
+
+* Sense s-1298970-021
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 21
+:SOURCE_FINGERPRINT: 9597edc6c9b744da70f6e793f6ce55db2583030f5a3dadab7f3be04556e7807e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-021-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amulette
+*** en-s-1298970-021-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: talisman
+** Ukrainian glosses
+
+* Sense s-1298970-022
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 22
+:SOURCE_FINGERPRINT: 73599d50336d401eedac1f4c3390ac8271aeea640bc5ad2a5b3bc17d3200b0e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-022-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zettel
+*** en-s-1298970-022-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anschlagtafel
+*** en-s-1298970-022-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Namensschild
+*** en-s-1298970-022-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Marke
+*** en-s-1298970-022-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Etikett
+*** en-s-1298970-022-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schild
+** Ukrainian glosses
+
+* Sense s-1298970-023
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 23
+:SOURCE_FINGERPRINT: ec97d65c04211748b4db918bcda2711abfd696c09751ca5f2c843a5e0ab28db1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-023-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karte
+** Ukrainian glosses
+
+* Sense s-1298970-024
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 24
+:SOURCE_FINGERPRINT: b1b203277a69e8c017a71ae76e7b4ac69252531b8f07da16afcdd43270766af3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-024-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amulett
+*** en-s-1298970-024-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Talisman
+** Ukrainian glosses
+
+* Sense s-1298970-025
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 25
+:SOURCE_FINGERPRINT: a87e653f729d01e833d960ba2780a5e3033f5a2040aa9d0e60641b24c8e82d11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-025-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jel
+*** en-s-1298970-025-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelképes
+*** en-s-1298970-025-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelzés
+*** en-s-1298970-025-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fickó
+*** en-s-1298970-025-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bűbáj
+*** en-s-1298970-025-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dal
+*** en-s-1298970-025-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dallam
+*** en-s-1298970-025-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varázs
+*** en-s-1298970-025-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varázslat
+** Ukrainian glosses
+
+* Sense s-1298970-026
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 26
+:SOURCE_FINGERPRINT: 828b7b1fad4f1128fc4d88b8ef70cb39be1d1ad246c37af3121a05aa3768a6de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-026-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) ярлык; этикетка; бирка; табличка; карточка
+*** en-s-1298970-026-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) талон; номерок; билет, контрамарка
+*** en-s-1298970-026-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) плакат, афиша; рекламный листок
+*** en-s-1298970-026-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) (см.) たてふだ
+*** en-s-1298970-026-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 5) карта (игральная)
+*** en-s-1298970-026-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 6) заявка (на торгах)
+*** en-s-1298970-026-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 7) (см.) おふだ
+** Ukrainian glosses
+
+* Sense s-1298970-027
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 27
+:SOURCE_FINGERPRINT: 93450be9cdd534218fec0b2e13e34157dda9deba17d384fd0870a40215da61dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-027-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tablica, kartonček, etiketa, naslovna tablica, znamenje, znak; (igralna) karta; karta, vozovnica, vstopnica; talisman; bankovec
+** Ukrainian glosses
+
+* Sense s-1298970-028
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 28
+:SOURCE_FINGERPRINT: c4c1a796cbdbc26003971d1121af14484d3ec863d2d7486db90dd466bab0769f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-028-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ficha
+*** en-s-1298970-028-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etiqueta
+** Ukrainian glosses
+
+* Sense s-1298970-029
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 29
+:SOURCE_FINGERPRINT: 3aca7449a9d1490d24c8a9b9bd04d569029e04d1dfd1cd4f4042932a9a4eed64
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-029-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boleto
+*** en-s-1298970-029-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ticket
+*** en-s-1298970-029-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tarjeta
+** Ukrainian glosses
+
+* Sense s-1298970-030
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 30
+:SOURCE_FINGERPRINT: 0428dbfe2e81b73570e6634e1e76b84ee9c0ec2448b4fd500ce66b8dcf427c8d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1298970-030-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amuleto
+*** en-s-1298970-030-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: talisman
+** Ukrainian glosses

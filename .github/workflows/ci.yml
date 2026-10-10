@@ -1,10 +1,8 @@
 name: CI
 
 on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  # Run deliberately to conserve the GitHub Actions quota.
+  workflow_dispatch:
 
 env:
   # Build the sqlite3 gem against the distro libsqlite3: the gem's vendored

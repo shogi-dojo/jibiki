@@ -1,0 +1,572 @@
+#+TITLE: ダンプ
+#+JMDICT_ID: 1077290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ダンプ
+#+ROMAJI: danpu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1077290-001
+:PROPERTIES:
+:TEXT: ダンプ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1077290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1ad1ef9554ed3f46b163f5a4ebd4150e44b298deb75bbd70cc3952159d00615f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- dump
+** Ukrainian glosses
+*** uk-s-1077290-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: дамп; вивантаження даних; скидання відходів
+** Learner notes
+*** note-s-1077290-001-001
+:PROPERTIES:
+:END:
+- UK :: Вивантаження або скидання великого обсягу даних пам'яті комп'ютера чи відходів (комп'ютерний дамп пам'яті, звалище).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1077290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: メモリーのダンプを取る。
+- READING :: めもりーのだんぷをとる。
+- UK :: Зробити дамп пам'яті.
+- EN :: Take a memory dump.
+- FOCUS :: ダンプを取る
+*** ex-1077290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: システムが異常終了したため、原因を突き止めるためにクラッシュダンプを詳細に解析した。
+- READING :: しすてむがいじょうしゅうりょうしたため、げんいんをつきとめるためにくらっしゅだんぷをしょうさいにかいせきした。
+- UK :: Оскільки система аварійно завершила роботу, детально проаналізували дамп збою, щоб з'ясувати причину.
+- EN :: Because the system terminated abnormally, we analyzed the crash dump in detail to determine the cause.
+- FOCUS :: クラッシュダンプを詳細に
+*** ex-1077290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 不具合の再現が極めて困難だったため、技術者はカーネルダンプを慎重に調査してバグの特定に成功した。
+- READING :: ふぐあいのさいげんがきわめてこんなんだったため、ぎじゅつしゃはかーねるだんぷをしんちょうにちょうさしてばぐのとくていにせいこうした。
+- UK :: Оскільки відтворити неполадку було вкрай складно, інженери ретельно дослідили дамп ядра та успішно локалізували помилку.
+- EN :: Because reproducing the glitch was extremely difficult, engineers carefully inspected the kernel dump and succeeded in pinpointing the bug.
+- FOCUS :: カーネルダンプを慎重に
+
+* Sense s-1077290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 051523cf16b1ae36d4cbbedbeb2c61f553ec2a80830f6600562dc9fedd960741
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- ダンプカー
+** English glosses
+- dump truck
+** Ukrainian glosses
+*** uk-s-1077290-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: самоскид (скорочено від ダンプカー)
+** Learner notes
+*** note-s-1077290-002-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від ダンプカー (самоскид) — вантажний автомобіль із механізмом для самостійного вивантаження сипучих матеріалів.
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1077290-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工事現場では大型のダンプが大量の土砂を次々と運んでいた。
+- READING :: こうじげんばではおおがたのだんぷがたいりょうのどしゃをつぎつぎとはこんでいた。
+- UK :: На будівельному майданчику великі самоскиди один за одним перевозили величезні обсяги ґрунту.
+- EN :: At the construction site, large dump trucks were hauling large amounts of soil one after another.
+- FOCUS :: 大型のダンプが
+
+* Sense s-1077290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f11539c1d3312dd89068bd7a446da890617be06b649e903c49e4499edc5da878
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stortkar
+*** en-s-1077290-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiepkar
+*** en-s-1077290-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiepauto
+*** en-s-1077290-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiepwagen
+*** en-s-1077290-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kieper
+*** en-s-1077290-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: motordumper
+*** en-s-1077290-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lorrie
+** Ukrainian glosses
+
+* Sense s-1077290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3b02b8976b8667ab34faa04e31aacbf49404ab9bbfd26803f60ecec0c6e7be4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} gedumpte informatie
+** Ukrainian glosses
+
+* Sense s-1077290-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: bab68e688a3a0ceb6af8075197c0587663ef97b1fd6f91789cec4d1fa449d469
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dump
+** Ukrainian glosses
+
+* Sense s-1077290-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ee5f2e85bdb2886d9adf51dc3061ff03fa6d88f864dd30578edf7f10cf597c5d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kipper
+*** en-s-1077290-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kipplaster
+** Ukrainian glosses
+
+* Sense s-1077290-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: de21122d82c52dda814716022482f4eb42ddf8cf305528ff98ce24361bba9a39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dump
+*** en-s-1077290-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Speicherauszug
+** Ukrainian glosses
+
+* Sense s-1077290-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: bc71ef0f4f274a2c3ad05a877e4017140dcb648438d8bfc24c9e6755fa5852df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anyagraktár
+*** en-s-1077290-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bánatos dallam
+*** en-s-1077290-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bánatosság
+*** en-s-1077290-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csillebuktató szerkezet
+*** en-s-1077290-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dobókorong
+*** en-s-1077290-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dömping
+*** en-s-1077290-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: éjjeli menedékhely
+*** en-s-1077290-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabatka
+*** en-s-1077290-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fitying
+*** en-s-1077290-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: golyó alakú bonbon
+*** en-s-1077290-008-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katonai raktár
+*** en-s-1077290-008-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifőzés
+*** en-s-1077290-008-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kocsibuktató szerkezet
+*** en-s-1077290-008-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kövér ember
+*** en-s-1077290-008-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lerakodóhely
+*** en-s-1077290-008-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lerakóhely
+*** en-s-1077290-008-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagy szög
+*** en-s-1077290-008-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyomott hangulat
+*** en-s-1077290-008-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: régi tánc
+*** en-s-1077290-008-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sötét hangulat
+*** en-s-1077290-008-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szemétlerakó telep
+*** en-s-1077290-008-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szemétrakás
+*** en-s-1077290-008-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szemétszállító jármű
+*** en-s-1077290-008-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szeméttelep
+*** en-s-1077290-008-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétdobott szedés helye
+*** en-s-1077290-008-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétdobott szedés raktára
+*** en-s-1077290-008-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szomorúság
+*** en-s-1077290-008-028
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: testes ember
+*** en-s-1077290-008-029
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vendéglő
+** Ukrainian glosses
+
+* Sense s-1077290-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 21afcfb5d4b6c869b0bb47c208e08477e51d8bfcf5e99ef9ed53330ce5fcf759
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-009-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: odlagališče (za smeti)
+*** en-s-1077290-009-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: smetišče
+** Ukrainian glosses
+
+* Sense s-1077290-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 7201842abf047df86e1852d8dee4d2d4609c38f73ff9813f39fbb28d1bbcaf6d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1077290-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: dump) descarga
+*** en-s-1077290-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: descarte
+** Ukrainian glosses

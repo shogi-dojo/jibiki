@@ -1,0 +1,496 @@
+#+TITLE: 距離
+#+JMDICT_ID: 1232920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょり
+#+ROMAJI: kyori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1232920-001
+:PROPERTIES:
+:TEXT: 距離
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1232920-001
+:PROPERTIES:
+:TEXT: きょり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1232920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 150857df26ebcb1282b00517557fa47a3cc18134b4ba2906ffb4fdd20b0cb12d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- distance
+- range
+- interval
+** Ukrainian glosses
+*** uk-s-1232920-001-001
+:PROPERTIES:
+:END:
+- text :: відстань; проміжок
+** Learner notes
+*** note-s-1232920-001-001
+:PROPERTIES:
+:END:
+- UK :: 駅までの距離 — відстань до вокзалу; 距離を測る — вимірювати відстань.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1232920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家から学校までの距離を、地図で調べました。
+- READING :: いえからがっこうまでのきょりを、ちずでしらべました。
+- UK :: Я визначив за картою відстань від дому до школи.
+- FOCUS :: 距離
+*** ex-1232920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 同じ距離でも、坂が多い道は長く感じられた。
+- READING :: おなじきょりでも、さかがおおいみちはながくかんじられた。
+- UK :: Навіть за однакової відстані дорога з багатьма схилами здавалася довшою.
+- FOCUS :: 距離
+*** ex-1232920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地図では近く見えた二つの集落だったが、川を渡れる橋が遠くにしかなく、実際に歩く距離は予想よりずっと長かった。
+- READING :: ちずではちかくみえたふたつのしゅうらくだったが、かわをわたれるはしがとおくにしかなく、じっさいにあるくきょりはよそうよりずっとながかった。
+- UK :: Два селища на карті здавалися близькими, але міст через річку був лише далеко звідти, тому реальна відстань пішки виявилася значно більшою, ніж очікували.
+- FOCUS :: 距離
+
+* Sense s-1232920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 67329d01419e9691b7668680f487d1572ac1412cbe5237cd5093534f7d978deb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- difference (e.g. in opinion)
+- gap
+- distance
+** Ukrainian glosses
+*** uk-s-1232920-002-001
+:PROPERTIES:
+:END:
+- text :: віддаленість; розбіжність; дистанція у стосунках
+** Learner notes
+*** note-s-1232920-002-001
+:PROPERTIES:
+:END:
+- UK :: 相手と距離を置く — тримати дистанцію; 考えの距離 — розбіжність між поглядами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1232920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2866f11cf9c7a7b3e348c999a609f6dd1897507d964213dfb39cf290d45bef36
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- metric
+** Ukrainian glosses
+*** uk-s-1232920-003-001
+:PROPERTIES:
+:END:
+- text :: метрика
+** Learner notes
+*** note-s-1232920-003-001
+:PROPERTIES:
+:END:
+- UK :: Математична функція, що визначає відстань між елементами; спеціальний термін.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1232920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e552e588c5bbc0d67a7d142d3c4430c7b881ed0d3171c28288d90ebfa5f89847
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afstand
+** Ukrainian glosses
+
+* Sense s-1232920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d698ea35f06ec409e4ec8d7bd049fe63caadee5ef2b3fd829c23141ea36ae076
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distance
+*** en-s-1232920-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intervalle
+*** en-s-1232920-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: portée
+** Ukrainian glosses
+
+* Sense s-1232920-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1dc423bd0213964f6f98b48ceb63dac2d6613215cb3274481ef589410e020fb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entfernung
+*** en-s-1232920-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abstand
+*** en-s-1232920-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Distanz
+*** en-s-1232920-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zwischenraum
+*** en-s-1232920-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kluft
+** Ukrainian glosses
+
+* Sense s-1232920-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b6aca2d3b3612d78b3251f137414b4d676ccc6044cd7a878f1cfea1579f2953c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unterschied
+*** en-s-1232920-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differenz
+** Ukrainian glosses
+
+* Sense s-1232920-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c29d7f446708adea551e20d0aba7282209b0a769d88c028dbcb6192e9e6d04e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (psychologische)Distanz
+** Ukrainian glosses
+
+* Sense s-1232920-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: dcbd593e2506611551d1704b4622a0d594b98080db7e77e168fa34816fdaf2e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Differenz
+*** en-s-1232920-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Distanz
+*** en-s-1232920-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abstand
+** Ukrainian glosses
+
+* Sense s-1232920-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 94bd3867d3eb285f7633b849519ac9e0c9bd7b871700ab6e0dca898f51910843
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: távolság
+*** en-s-1232920-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapacitás
+*** en-s-1232920-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kerület
+*** en-s-1232920-010-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kör
+*** en-s-1232920-010-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: körzet
+*** en-s-1232920-010-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lőtávolság
+*** en-s-1232920-010-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sorozat
+*** en-s-1232920-010-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartomány
+*** en-s-1232920-010-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tér
+*** en-s-1232920-010-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: térség
+** Ukrainian glosses
+
+* Sense s-1232920-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: dd7ac1aa77b48ede893daef518a7965753779438bb38ffa6279f27d266268c23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: расстояние, дистанция; дальность; промежуток, интервал
+*** en-s-1232920-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～がある} быть на некотором расстоянии
+** Ukrainian glosses
+
+* Sense s-1232920-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 459f169d2e8b16bcc794d9de5fca4f9bb498dd0a3ef1f24cc975333edd369783
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-012-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razdalja
+** Ukrainian glosses
+
+* Sense s-1232920-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: dc6b6e269496726223bd86422db100258070f513f2db681c3e26cd77155eccf2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distancia
+*** en-s-1232920-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alcance
+** Ukrainian glosses
+
+* Sense s-1232920-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: caf393f6ae0be5985ff60511bebec33736b70871e3fae571e6cec4ccd51a44ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1232920-014-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avstånd
+** Ukrainian glosses

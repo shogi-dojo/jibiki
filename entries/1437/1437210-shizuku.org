@@ -1,0 +1,328 @@
+#+TITLE: 滴
+#+JMDICT_ID: 1437210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しずく
+#+ROMAJI: shizuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1437210-001
+:PROPERTIES:
+:TEXT: 滴
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf41
+** Written form wf-1437210-002
+:PROPERTIES:
+:TEXT: 雫
+:END:
+** Reading rd-1437210-001
+:PROPERTIES:
+:TEXT: しずく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf41
+
+* Sense s-1437210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 10a19be88351cda9b192dd370847e68450bc0ff8294239f7e186371faa61524a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- drop (e.g. of water)
+- drip
+** Ukrainian glosses
+*** uk-s-1437210-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: крапля; краплина; стікаюча роса
+** Learner notes
+*** note-s-1437210-001-001
+:PROPERTIES:
+:END:
+- UK :: Окрема краплина рідини (води, дощу чи роси), що звисає, падає або стікає з рослини, даху чи предмету (наприклад, 雨の雫 — краплі дощу, 露の雫 — краплини роси, 雫が垂れる — краплі капають).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1437210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雨の雫が落ちる。
+- READING :: あめのしずくがおちる。
+- UK :: Падають краплі дощу.
+- EN :: Raindrops fall.
+- FOCUS :: 雫が落ちる
+*** ex-1437210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝露の雫がみずみずしい葉の先で光っている。
+- READING :: あさつゆのしずくがみずみずしいはのさきでひかっている。
+- UK :: Краплини ранкової роси виблискують на кінчиках свіжого листя.
+- EN :: Drops of morning dew shine at the tips of fresh leaves.
+- FOCUS :: 朝露の雫が
+*** ex-1437210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 傘を閉じると冷たい雨の雫が舗道の上にぽたぽたと音を立てて滴り落ちた。
+- READING :: かさをとじるとつめたいあめのしずくがほどうのうえにぽたぽたとおとをたててしたたりおちた。
+- UK :: Коли я закрив парасольку, холодні краплі дощу дзвінко закапали на тротуар.
+- EN :: When I closed the umbrella, cold raindrops dripped onto the pavement making a splashing sound.
+- FOCUS :: 雨の雫が
+
+* Sense s-1437210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a257e018434c0db0409572e43f1e2ad645ca5d4d2c64f90d1aa48f00866b8e60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: druppel
+** Ukrainian glosses
+
+* Sense s-1437210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2d2b347d01a7d3a868ec18b4f3f917622710323116e05b1fe3631831151e5e8f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: goutte
+** Ukrainian glosses
+
+* Sense s-1437210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ed5f2d6a850381fb0fc6510218780baa230cb1a42def0e47c64cfc85378b099a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tropfen
+** Ukrainian glosses
+
+* Sense s-1437210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5c6091ed78bfcd8f5264edd4348470d1e7740619a8e1cf0886abd40228880556
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csapóajtó
+*** en-s-1437210-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepp
+*** en-s-1437210-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csöpp
+*** en-s-1437210-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esés
+*** en-s-1437210-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leesés
+*** en-s-1437210-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepegés
+*** en-s-1437210-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepp
+*** en-s-1437210-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csapóajtó
+*** en-s-1437210-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepp
+*** en-s-1437210-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csöpp
+*** en-s-1437210-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esés
+*** en-s-1437210-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leesés
+*** en-s-1437210-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csepegés
+** Ukrainian glosses
+
+* Sense s-1437210-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f4a3d9d5d114082828472976449278413fbe064b3b06c7e9c7601402bb818b3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: капля; брызги воды
+** Ukrainian glosses
+
+* Sense s-1437210-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 96c1d8d282c97ced2db077995463e5af1ee1154a77905828ba863ac881d6360e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kaplja
+** Ukrainian glosses
+
+* Sense s-1437210-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 377ca66f79d749eee84c175abf9021db031a08805fb492adc8b9dd57f9e69893
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437210-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gota (de agua)
+*** en-s-1437210-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gota
+** Ukrainian glosses

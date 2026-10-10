@@ -1,0 +1,420 @@
+#+TITLE: 盲点
+#+JMDICT_ID: 1534280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もうてん
+#+ROMAJI: mouten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1534280-001
+:PROPERTIES:
+:TEXT: 盲点
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf28
+** Reading rd-1534280-001
+:PROPERTIES:
+:TEXT: もうてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf28
+
+* Sense s-1534280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7ce609784f007619676b59b5093607e6d65927a74cffd7ecb802b545535a3276
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- blind spot (on the retina)
+** Ukrainian glosses
+*** uk-s-1534280-001-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: сліпа пляма (на сітківці ока; анатомічне)
+** Learner notes
+*** note-s-1534280-001-001
+:PROPERTIES:
+:END:
+- UK :: Ділянка на сітківці ока в місці виходу зорового нерва, де відсутні світлочутливі клітини і зір відсутній (часто 網膜の盲点, 盲点の実験).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+** Examples
+*** ex-1534280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 目の網膜にある盲点。
+- READING :: めのもうまくにあるもうてん。
+- UK :: Сліпа пляма на сітківці ока.
+- EN :: The blind spot on the eye's retina.
+- FOCUS :: にある盲点
+*** ex-1534280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 理科の授業で黒い点を片目で凝視しながら紙を近づけると、網膜の盲点に入った瞬間に像が完全に消える不思議な現象を確かめた。
+- READING :: りかのじゅぎょうでくろいてんをかためでぎょうしながらかみをちかづけると、もうまくのもうてんにはいったしゅんかんにぞうがかんぜんにきえるふしぎなげんしょうをたしかめた。
+- UK :: На уроці природознавства учні спостерігали дивовижне явище: якщо дивитися одним оком на чорну крапку й наближати аркуш, у момент потрапляння на сліпу пляму сітківки зображення повністю зникає.
+- EN :: In science class, when approaching a paper while staring at a black dot with one eye, students confirmed the wondrous phenomenon where the image completely disappears the moment it enters the retina's blind spot.
+- FOCUS :: 網膜の盲点に入った瞬間に
+*** ex-1534280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 眼科検診において視野計を用いた精密検査を実施し、網膜の病変が盲点の拡大を引き起こしていないかどうかを詳しく調べた。
+- READING :: がんかけんしんにおいてしやけいをもちいたせいみつけんさをじっしし、もうまくのびょうへんがもうてんのかくだいをひきおこしていないかどうかをくわしくしらべた。
+- UK :: Під час офтальмологічного огляду лікарі провели точне обстеження на периметрі, щоб детально перевірити, чи не спричинили зміни на сітківці патологічне розширення сліпої плями.
+- EN :: In the ophthalmological examination, a detailed check using a perimeter was conducted to investigate thoroughly whether retinal lesions were causing an enlargement of the blind spot.
+- FOCUS :: 盲点の拡大を引き起こして
+
+* Sense s-1534280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 61b963c87ae2e5ef40455416c0a3df48dd2ae1edaf7003d574f0e553544d8b11
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- blind spot
+- weak point
+- loophole
+** Ukrainian glosses
+*** uk-s-1534280-002-001
+:PROPERTIES:
+:TRANSLATOR_ID:
+:TRANSLATED_AT:
+:REVIEWER_ID:
+:REVIEWED_AT:
+:END:
+- text :: вразливе місце; неврахована деталь; прогалина; мертва зона (в системі)
+** Learner notes
+*** note-s-1534280-002-001
+:PROPERTIES:
+:END:
+- UK :: Непомічена вада в плані, системі безпеки чи правилах, на яку ніхто не звернув уваги через неуважність (часто セキュリティの盲点, 盲点を突く).
+- LEVEL :: intermediate
+- REGISTER :: neutral
+
+** Examples
+*** ex-1534280-002-001
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 防犯カメラの死角というシステムの盲点を突いて店内に侵入した巧妙な手口から、犯人は内部事情に詳しい人物だと推測された。
+- READING :: ぼうはんかめらのしかくというしすてむのもうてんをついててんないにしんにゅうしたこうみょうなてぐちから、はんにんはないぶじじょうにくわしいじんぶつだとすいそくされた。
+- UK :: Через витончений спосіб проникнення до крамниці через мертву зону камер спостереження — невраховану прогалину в системі безпеки — слідчі припустили, що злочинець добре знав внутрішній устрій закладу.
+- EN :: From the ingenious method of breaking into the store by exploiting the blind spot of the security camera as a loophole in the system, it was inferred that the culprit was a person familiar with internal circumstances.
+- FOCUS :: システムの盲点を突いて
+
+* Sense s-1534280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f17e92f7df44192a3eb27731e91290526d15445685a35b040d14536570aa0bc9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.} blinde vlek
+*** en-s-1534280-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scotoom
+*** en-s-1534280-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} zenuwvezelschijf
+** Ukrainian glosses
+
+* Sense s-1534280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2ae44050736ce4f1def5b039f7a39514fa76b21d4f1fe80127c143e47313a049
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} blinde vlek
+*** en-s-1534280-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plek
+*** en-s-1534280-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zwakke plek
+*** en-s-1534280-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {法の} lacune
+*** en-s-1534280-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leemte
+*** en-s-1534280-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mazen
+** Ukrainian glosses
+
+* Sense s-1534280-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 71a6501511d0ac3d281c106091d51de379255c2c84e9a9b47384f8237bc3bee5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: angle mort
+** Ukrainian glosses
+
+* Sense s-1534280-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9f6f8f06416f3f796af9cbdd0f464f0f6a2f89369fadc3c133d60a66fcf72a79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blinder Fleck
+** Ukrainian glosses
+
+* Sense s-1534280-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8e66549ebd85e745637f8e9f43e237ee112572f89781ac7744de7303bf4f3d5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Skotom
+*** en-s-1534280-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gesichtsfelddefekt
+** Ukrainian glosses
+
+* Sense s-1534280-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2bec8fbb4c6979c48b51e7b68b17124af47a289e2077968cd60cf5ebb01a1307
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lücke
+*** en-s-1534280-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schwachstelle
+** Ukrainian glosses
+
+* Sense s-1534280-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 191cd6bee686260d2e3b56d29d86ee688c4805ab32dc61a8dfbbaf0d67d1c38b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vakfolt
+** Ukrainian glosses
+
+* Sense s-1534280-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: abdde07558c984a32ec89c25c53f33515322571d55553dd44494f041cdcac3ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (анат.) слепое пятно (в сетчатке глаза)
+*** en-s-1534280-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) непонятный пункт, тёмное место
+** Ukrainian glosses
+
+* Sense s-1534280-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 6e3f209640bae0305a30947428dd0f1bb024456240f03cf3277da56291e1e386
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mrtva
+*** en-s-1534280-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: slepa točka
+** Ukrainian glosses
+
+* Sense s-1534280-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 81f489ab1099be40a46d8bbbe4f1c958882a68462897128a39306c06436487c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punto ciego
+** Ukrainian glosses
+
+* Sense s-1534280-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 028f7f7d2b6b8947ec5dc0c363030e950b8258d8ed895f002694c2943e576b6d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534280-013-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: död vinkel
+** Ukrainian glosses
