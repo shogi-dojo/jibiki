@@ -1,0 +1,228 @@
+#+TITLE: 地価
+#+JMDICT_ID: 1420930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちか
+#+ROMAJI: chika
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1420930-001
+:PROPERTIES:
+:TEXT: 地価
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf03
+** Reading rd-1420930-001
+:PROPERTIES:
+:TEXT: ちか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf03
+
+* Sense s-1420930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ed52944c9af07fa83a146834dcef64dcccad14b12981cb86f3cdb35a3fb19425
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- the price of land
+** Ukrainian glosses
+*** uk-s-1420930-001-001
+:PROPERTIES:
+:END:
+- text :: ціна землі; вартість земельної ділянки
+** Learner notes
+*** note-s-1420930-001-001
+:PROPERTIES:
+:END:
+- UK :: 地価が上がる — ціна землі зростає; не орендна плата.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1420930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の近くで地価が上がった。
+- READING :: えきのちかくでちかがあがった。
+- UK :: Біля станції ціна землі зросла.
+- FOCUS :: 地価
+*** ex-1420930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域ごとの地価を地図で比べた。
+- READING :: ちいきごとのちかをちずでくらべた。
+- UK :: Ми порівняли ціни землі в різних районах на карті.
+- FOCUS :: 地価
+*** ex-1420930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい駅ができた町の地価を調べた学生は、交通の便利さだけでなく周囲の店や公園の変化も記録し、地域の暮らしとの関係を考えた。
+- READING :: あたらしいえきができたまちのちかをしらべたがくせいは、こうつうのべんりさだけでなくしゅういのみせやこうえんのへんかもきろくし、ちいきのくらしとのかんけいをかんがえた。
+- UK :: Студент досліджував ціни землі в місті з новою станцією, записував також зміни крамниць і парків та обмірковував їхній зв’язок із місцевим життям.
+- FOCUS :: 地価
+
+* Sense s-1420930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b943f61656007ec462b9cd11d0ead106a7da6797760e25aa3d143816dcee0d9e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grondprijs
+*** en-s-1420930-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prijs van grond
+** Ukrainian glosses
+
+* Sense s-1420930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0f9d938a5b9a2f38d5a34fe13e16f0b4f4ba6b5646560e78652edbffb7bf30df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} ± kadastraal inkomen
+** Ukrainian glosses
+
+* Sense s-1420930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fe0c275bfc848ec56c1efc8404e6a31a9c0a27ce06bf829fb7d710478db25b5f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix du terrain
+** Ukrainian glosses
+
+* Sense s-1420930-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3ef9f1daf075d6326c5ed5468acc0bc2f08127e492ba8b3a5d69c54a3b175551
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bodenpreis
+*** en-s-1420930-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grundstückspreis
+** Ukrainian glosses
+
+* Sense s-1420930-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0a8ba337803e1611bace82bdd050c5993b90c4e37536abc4c5031fc699a5a288
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: цены на землю; стоимость земли (земельного участка)
+** Ukrainian glosses
+
+* Sense s-1420930-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 91466800c1c40189f46f5507fae35dac65c1391e29f314fd3077c02baf7c4de8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-007-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cena zemlje
+** Ukrainian glosses
+
+* Sense s-1420930-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 0964cdd51b283a1586f5636b3d7e7d0979a1192bd4ebca6ab00c86fe235d4e9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1420930-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valor de la tierra
+** Ukrainian glosses
