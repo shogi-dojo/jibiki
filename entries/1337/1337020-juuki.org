@@ -1,0 +1,206 @@
+#+TITLE: 銃器
+#+JMDICT_ID: 1337020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅうき
+#+ROMAJI: juuki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1337020-001
+:PROPERTIES:
+:TEXT: 銃器
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1337020-001
+:PROPERTIES:
+:TEXT: じゅうき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1337020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f8ed3d77fd10375e95442304010eb824daad457720b9317b963299ba764501c8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- small arms
+** Ukrainian glosses
+*** uk-s-1337020-001-001
+:PROPERTIES:
+:END:
+- text :: стрілецька зброя
+** Learner notes
+*** note-s-1337020-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальна назва невеликої вогнепальної зброї, зокрема рушниць і пістолетів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1337020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 本には銃器の歴史が書かれている。
+- READING :: ほんにはじゅうきのれきしがかかれている。
+- UK :: У книжці описано історію стрілецької зброї.
+- FOCUS :: 銃器
+*** ex-1337020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 展示には銃器の模型も置かれていた。
+- READING :: てんじにはじゅうきのもけいもおかれていた。
+- UK :: На виставці були також моделі стрілецької зброї.
+- FOCUS :: 銃器
+*** ex-1337020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 銃器の歴史を扱う展示を見た学生は、形の変化だけではなく、同じ時代に作られた生活道具にも目を向け、技術が社会と結びつく様子を考えた。
+- READING :: じゅうきのれきしをあつかうてんじをみたがくせいは、かたちのへんかだけではなく、おなじじだいにつくられたせいかつどうぐにもめをむけ、ぎじゅつがしゃかいとむすびつくようすをかんがえた。
+- UK :: Студент оглянув виставку про історію стрілецької зброї, звернув увагу не лише на зміни форми, а й на побутові інструменти тієї самої епохи та замислився над зв’язком техніки із суспільством.
+- FOCUS :: 銃器
+
+* Sense s-1337020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 92c305e935d9ed9d54f1b08f29f741c9039a7b5d4cf76aa8319dbe54650747ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1337020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vuurwapen
+*** en-s-1337020-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verzameln.} handvuurwapens
+*** en-s-1337020-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wapens
+*** en-s-1337020-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {inform.} schietijzers
+** Ukrainian glosses
+
+* Sense s-1337020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f2fc1081e43c768aae6743540007e4fdbbd4e276eca2c2ef40bd033554f804fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1337020-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arme à feu
+** Ukrainian glosses
+
+* Sense s-1337020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f76156f46af7d45a94e6f618f66b9f0619db6c229c86a7c09d1d577ff8a03fc0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1337020-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schusswaffe
+*** en-s-1337020-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handfeuerwaffe
+** Ukrainian glosses
+
+* Sense s-1337020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 92aae7f29fabff9df8114975fdf651e00c6dfdab3fbe0a95b280ff37d1be034d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1337020-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kézi lőfegyver
+** Ukrainian glosses
+
+* Sense s-1337020-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 42fd24c4073f6b2a8d90ac87d4621ec75b3407e499fbc4f156dc6ba29e050ded
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1337020-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: стрелковое оружие, [малое] огнестрельное оружие
+** Ukrainian glosses
