@@ -1,0 +1,227 @@
+#+TITLE: 干満
+#+JMDICT_ID: 1212100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんまん
+#+ROMAJI: kanman
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1212100-001
+:PROPERTIES:
+:TEXT: 干満
+:END:
+*** Priorities
+- news2
+- nf38
+- spec2
+** Reading rd-1212100-001
+:PROPERTIES:
+:TEXT: かんまん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+- spec2
+
+* Sense s-1212100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a26db55c4ca9b54b9e858d5803ec86c6dd329d0bd937650fdec10bd4607b6c1b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- ebb and flow
+** Ukrainian glosses
+*** uk-s-1212100-001-001
+:PROPERTIES:
+:END:
+- text :: приплив і відплив
+** Learner notes
+*** note-s-1212100-001-001
+:PROPERTIES:
+:END:
+- UK :: Про періодичне підняття й спадання рівня моря; 干満の差 — різниця цих рівнів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1212100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この湾は干満の差が大きい。
+- READING :: このわんはかんまんのさがおおきい。
+- UK :: У цій затоці велика різниця між рівнями припливу й відпливу.
+- FOCUS :: 干満
+*** ex-1212100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 出発前に潮の干満を調べた。
+- READING :: しゅっぱつまえにしおのかんまんをしらべた。
+- UK :: Перед виходом ми перевірили припливи й відпливи.
+- FOCUS :: 干満
+*** ex-1212100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海辺の観察会では、干満によって同じ場所の景色が変わることを確かめるため、朝と夕方に写真を撮り、現れた岩や水の高さを比べた。
+- READING :: うみべのかんさつかいでは、かんまんによっておなじばしょのけしきがかわることをたしかめるため、あさとゆうがたにしゃしんをとり、あらわれたいわやみずのたかさをくらべた。
+- UK :: Під час спостережень на узбережжі ми зробили світлини вранці й надвечір та порівняли оголені скелі й рівень води, щоб перевірити, як приплив і відплив змінюють вигляд того самого місця.
+- FOCUS :: 干満
+
+* Sense s-1212100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4c995318be27080c95cdcfcd3c96732b8f1de10597dc24b6996b12d1deffe197
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eb en vloed
+*** en-s-1212100-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoog- en laagwater
+*** en-s-1212100-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het opkomen en het vallen van het getijde
+** Ukrainian glosses
+
+* Sense s-1212100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7149f6c1ebc9d051995f2d1b2d59443824f41d6c1034c062fc14cb5a92c3238a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marée basse et marée haute
+*** en-s-1212100-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marées
+** Ukrainian glosses
+
+* Sense s-1212100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d76c122051bf4c81bffad67e25530931e21208369c1728f0575dd3cee62762dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ebbe und Flut
+*** en-s-1212100-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gezeiten
+** Ukrainian glosses
+
+* Sense s-1212100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8850246c6b4a7322e8a2c4aa8be42fbc5ea5b6e241b8a3d487fe55108704b2ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apály és dagály
+** Ukrainian glosses
+
+* Sense s-1212100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6f6dd6f62841a83880e3c4108c53fd767760a675044cce7d646c673a706c803b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отлив и прилив; (перен.) уровень воды во время прилива и отлива
+** Ukrainian glosses
+
+* Sense s-1212100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 611137d72b32dc5fc86318afe13578287a77c43e7369b8ae1d767c9322c88c78
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212100-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ebb
+** Ukrainian glosses
