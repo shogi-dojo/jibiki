@@ -11528,17 +11528,17 @@ untracked files remain outside this work.
 
 The expanded goal adds **500 further N1 study-list entries** after the original
 200-word PR checkpoint `f3ab2428c0d6de7c5975c1ce56152707bfbae72e`.
-**250/500 are committed in 25 batches of ten; 250 remain.**
+**460/500 are committed in 46 batches of ten; 40 remain.**
 Each addition commit contains exactly one entry. The branch currently has
-**450 new entry files** relative to the PR base.
+**660 new entry files** relative to the PR base.
 
-These 250 entries contain **425 Ukrainian gloss blocks**, **425 usage notes**,
-and **750 distinct original Japanese examples** with kana readings and Ukrainian
+These 460 entries contain **729 Ukrainian gloss blocks**, **729 usage notes**,
+and **1380 distinct original Japanese examples** with kana readings and Ukrainian
 translations. Every word has three graded examples, including a contextual
-sentence of at least 56 Japanese characters (mean 64.4).
+sentence of at least 56 Japanese characters (mean 63.7).
 Entries remain `learner` / `draft` pending independent linguistic review.
 
-All 250 entries pass validation, Org lint, and doctor (zero errors or warnings,
+All 460 entries pass validation, Org lint, and doctor (zero errors or warnings,
 mean health score 100/100). A canonical metadata audit verifies preservation of
 JMdict forms, readings, senses, restrictions, and glosses. The selected 500 IDs
 are distinct; all 500 lexical source rows match their archived TodayJLPT N1
@@ -11546,5 +11546,24 @@ pages and SHA-256 checksums. Level labels are study-list assignments.
 
 The committed entries, source rows, URLs, checksums, and one-entry addition
 commits are recorded in [docs/n1-next500-2026-10-10.tsv](docs/n1-next500-2026-10-10.tsv).
-The full repository test suite will run again when the 500-word addition is complete.
+The repository test suite passed at the 460-word checkpoint: 154 tests,
+30,134 assertions, zero failures or errors.
 The two pre-existing untracked files remain outside this work.
+
+
+## New 100-word N1 goal (2026-10-10)
+
+Added **100 new N1 study-list entries in ten batches of ten**, continuing after
+`ee588e64` (充当), from 終盤 through 砂浜. Each word has its own addition commit.
+The batch ledger is [docs/n1-goal100-2026-10-10.tsv](docs/n1-goal100-2026-10-10.tsv).
+
+These entries contain **150 Ukrainian gloss blocks and usage notes**, and
+**300 unique original Japanese examples**, each with a kana reading and
+Ukrainian translation. Every entry has three graded examples; contextual
+examples have at least 56 Japanese characters. JMdict validation, Org lint,
+and doctor pass for all 100 entries with zero errors or warnings and a
+100/100 mean health score. Canonical derived JMdict metadata is preserved.
+The entries remain `learner` / `draft` pending linguistic review.
+
+Repository tests pass: **154 tests, 30,134 assertions, zero failures or errors**.
+The two pre-existing untracked files were preserved outside this goal.
