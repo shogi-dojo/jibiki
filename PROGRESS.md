@@ -11567,3 +11567,28 @@ The entries remain `learner` / `draft` pending linguistic review.
 
 Repository tests pass: **154 tests, 30,134 assertions, zero failures or errors**.
 The two pre-existing untracked files were preserved outside this goal.
+
+
+## New 200-word N1 goal (2026-10-10)
+
+Goal baseline: `bf448e416e129d85fe777b7dc51c5533f9dde2fe`. Add **200 new N1 study-list entries** in
+**twenty batches of ten**, with one addition commit per word.
+**150/200 entries are committed in 15 batches; 50 remain.**
+
+Completed entries run from 寸前 through 端末. They contain **211 Ukrainian
+gloss blocks and usage notes**, and **450 distinct original Japanese examples**
+with kana readings and Ukrainian translations. Each entry has three graded
+examples, including a contextual sentence of at least 54 Japanese characters.
+Canonical JMdict metadata is preserved. Entries remain `learner` / `draft`
+pending independent linguistic review.
+
+All 150 completed entries pass JMdict validation, Org lint, and doctor, with
+zero errors or warnings and a 100/100 mean doctor score. The repository test
+suite passes (154 tests, zero failures or errors).
+
+The full 200-word selection is recorded in
+[docs/n1-goal200-2026-10-10.tsv](docs/n1-goal200-2026-10-10.tsv).
+Rows with empty addition commits are pending. All 200 source identities and
+archived N1 page checksums are verified, and the pending IDs remain unused.
+Continue with **batch 16**, beginning with 暖流. The two pre-existing untracked
+files remain untouched.
