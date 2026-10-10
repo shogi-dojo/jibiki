@@ -5,7 +5,7 @@ what has actually been reviewed, and what may be described as release-ready.
 It must not be used to infer linguistic approval merely because an entry passes
 the automated JMdict and Org checks.
 
-Last reconciled with the tracked entry tree: **2026-10-09**.
+Last reconciled with the tracked entry tree: **2026-10-10**.
 Uncommitted drafts are excluded from the snapshot.
 
 ## Schema flag day (2026-07-17)
@@ -11126,3 +11126,372 @@ content and remain at `new` until editorial review.
 | N2-1503 | [儲かる](entries/1534/1534490-moukaru.org) | もうかる | moukaru | 1534490 | learner | draft | **new** | Editorial review |
 | N2-1504 | [儲ける](entries/1534/1534500-moukeru.org) | もうける | moukeru | 1534500 | learner | draft | **new** | Editorial review |
 | N2-1505 | [申し訳ない](entries/1612/1612040-moushiwakenai.org) | もうしわけない | moushiwakenai | 1612040 | learner | draft | **new** | Editorial review |
+
+
+## N1 continuation: first 100 additions (2026-10-10)
+
+Added on `feat/add-100-n1-words` in **10 completed batches of 10**.
+These individually committed additions are separate from the historical snapshots above:
+**100 distinct new JMdict IDs**, **127 sense-specific Ukrainian gloss blocks**,
+**127 usage notes**, and **300 original Japanese examples with kana readings
+and Ukrainian translations**. Every entry has three graded primary-sense
+examples, including a context-rich example of 47–65 Japanese characters
+(mean 56.5). All English semantic senses are translated; imported JMdict
+forms, readings, restrictions, multilingual senses and fingerprints are retained.
+
+Candidate evidence: the local Wiktionary N1 queue, revision **84094074**
+(2025-03-03). These are study-list assignments, not an official JLPT syllabus;
+some candidates are also useful at earlier levels. The exact lexical rows,
+source URL, batch numbers and resulting paths are recorded in
+[`docs/n1-additions-2026-10-10.tsv`](docs/n1-additions-2026-10-10.tsv).
+Ukrainian content and examples are independently authored from Japanese
+usage and JMdict semantic metadata; no Warodai text is adapted.
+
+Validation: all ten batches passed the entry validator. Final checks cover
+all 100 additions: JMdict/Org validation, Org lint, unique IDs, no authoring
+placeholders, and 300 distinct example sentences. Corpus doctor reports
+**100/100 entries passed, zero errors, zero warnings**. The repository test
+suite passed **154 tests, 27,584 assertions, zero failures, errors or skips**.
+Entries remain `learner` / `draft`, awaiting independent linguistic review.
+The pre-existing untracked entry and candidate script were left untouched.
+
+| Batch | Source row | Word | Reading | JMdict ID | Status |
+|---|---|---|---|---|---|
+| 1 | Wiktionary N1 4 | [愛憎](entries/1575/1575670-aizou.org) | あいぞう | 1575670 | new / draft |
+| 1 | Wiktionary N1 11 | [亜科](entries/1149/1149680-aka.org) | あか | 1149680 | new / draft |
+| 1 | Wiktionary N1 98 | [域外](entries/1160/1160500-ikigai.org) | いきがい | 1160500 | new / draft |
+| 1 | Wiktionary N1 130 | [一部](entries/1166/1166180-ichibu.org) | いちぶ | 1166180 | new / draft |
+| 1 | Wiktionary N1 145 | [異動](entries/1157/1157970-idou.org) | いどう | 1157970 | new / draft |
+| 1 | Wiktionary N1 281 | [お祖父さん](entries/1002/1002320-ojiisan.org) | おじいさん | 1002320 | new / draft |
+| 1 | Wiktionary N1 310 | [お襁褓](entries/1270/1270830-omutsu.org) | おむつ | 1270830 | new / draft |
+| 1 | Wiktionary N1 335 | [下位](entries/1184/1184480-kai.org) | かい | 1184480 | new / draft |
+| 1 | Wiktionary N1 410 | [過多](entries/1196/1196230-kata.org) | かた | 1196230 | new / draft |
+| 1 | Wiktionary N1 412 | [片思い](entries/1590/1590350-kataomoi.org) | かたおもい | 1590350 | new / draft |
+| 2 | Wiktionary N1 415 | [片付け](entries/1511/1511780-katazuke.org) | かたづけ | 1511780 | new / draft |
+| 2 | Wiktionary N1 434 | [華美](entries/1195/1195610-kabi.org) | かび | 1195610 | new / draft |
+| 2 | Wiktionary N1 437 | [気触れる](entries/1222/1222350-kabureru.org) | かぶれる | 1222350 | new / draft |
+| 2 | Wiktionary N1 441 | [加味](entries/1190/1190570-kami.org) | かみ | 1190570 | new / draft |
+| 2 | Wiktionary N1 460 | [感慨](entries/1212/1212310-kangai.org) | かんがい | 1212310 | new / draft |
+| 2 | Wiktionary N1 463 | [刊行](entries/1210/1210570-kankou.org) | かんこう | 1210570 | new / draft |
+| 2 | Wiktionary N1 464 | [慣行](entries/1212/1212680-kankou.org) | かんこう | 1212680 | new / draft |
+| 2 | Wiktionary N1 475 | [歓声](entries/1213/1213000-kansei.org) | かんせい | 1213000 | new / draft |
+| 2 | Wiktionary N1 535 | [季刊](entries/1222/1222810-kikan.org) | きかん | 1222810 | new / draft |
+| 2 | Wiktionary N1 536 | [器官](entries/1218/1218910-kikan.org) | きかん | 1218910 | new / draft |
+| 3 | Wiktionary N1 547 | [機構](entries/1220/1220940-kikou.org) | きこう | 1220940 | new / draft |
+| 3 | Wiktionary N1 554 | [奇数](entries/1219/1219410-kisuu.org) | きすう | 1219410 | new / draft |
+| 3 | Wiktionary N1 566 | [喫茶](entries/1226/1226430-kissa.org) | きっさ | 1226430 | new / draft |
+| 3 | Wiktionary N1 601 | [教員](entries/1236/1236980-kyouin.org) | きょういん | 1236980 | new / draft |
+| 3 | Wiktionary N1 606 | [協議](entries/1235/1235570-kyougi.org) | きょうぎ | 1235570 | new / draft |
+| 3 | Wiktionary N1 610 | [共産](entries/1234/1234430-kyousan.org) | きょうさん | 1234430 | new / draft |
+| 3 | Wiktionary N1 615 | [享受](entries/1233/1233280-kyouju.org) | きょうじゅ | 1233280 | new / draft |
+| 3 | Wiktionary N1 635 | [気楽](entries/1222/1222010-kiraku.org) | きらく | 1222010 | new / draft |
+| 3 | Wiktionary N1 647 | [近視](entries/1242/1242320-kinshi.org) | きんし | 1242320 | new / draft |
+| 3 | Wiktionary N1 699 | [倶楽部](entries/1243/1243910-kurabu.org) | クラブ | 1243910 | new / draft |
+| 4 | Wiktionary N1 719 | [計器](entries/1252/1252130-keiki.org) | けいき | 1252130 | new / draft |
+| 4 | Wiktionary N1 728 | [携帯](entries/1250/1250680-keitai.org) | けいたい | 1250680 | new / draft |
+| 4 | Wiktionary N1 741 | [決行](entries/1254/1254250-kekkou.org) | けっこう | 1254250 | new / draft |
+| 4 | Wiktionary N1 804 | [交易](entries/1271/1271710-koueki.org) | こうえき | 1271710 | new / draft |
+| 4 | Wiktionary N1 805 | [公演](entries/1273/1273280-kouen.org) | こうえん | 1273280 | new / draft |
+| 4 | Wiktionary N1 807 | [航海](entries/1281/1281250-koukai.org) | こうかい | 1281250 | new / draft |
+| 4 | Wiktionary N1 846 | [降伏](entries/1282/1282940-koufuku.org) | こうふく | 1282940 | new / draft |
+| 4 | Wiktionary N1 876 | [故人](entries/1267/1267190-kojin.org) | こじん | 1267190 | new / draft |
+| 4 | Wiktionary N1 880 | [小銭](entries/1348/1348470-kozeni.org) | こぜに | 1348470 | new / draft |
+| 4 | Wiktionary N1 893 | [言伝](entries/1264/1264510-kotozute.org) | ことづて | 1264510 | new / draft |
+| 5 | Wiktionary N1 932 | [語句](entries/1271/1271060-goku.org) | ごく | 1271060 | new / draft |
+| 5 | Wiktionary N1 941 | [差異](entries/1291/1291340-sai.org) | さい | 1291340 | new / draft |
+| 5 | Wiktionary N1 952 | [採集](entries/1294/1294810-saishuu.org) | さいしゅう | 1294810 | new / draft |
+| 5 | Wiktionary N1 986 | [些事](entries/1593/1593790-saji.org) | さじ | 1593790 | new / draft |
+| 5 | Wiktionary N1 1051 | [市街](entries/1308/1308190-shigai.org) | しがい | 1308190 | new / draft |
+| 5 | Wiktionary N1 1052 | [指揮](entries/1309/1309700-shiki.org) | しき | 1309700 | new / draft |
+| 5 | Wiktionary N1 1104 | [仕舞い](entries/1594/1594530-shimai.org) | しまい | 1594530 | new / draft |
+| 5 | Wiktionary N1 1113 | [吃逆](entries/1005/1005650-shakkuri.org) | しゃっくり | 1005650 | new / draft |
+| 5 | Wiktionary N1 1131 | [修飾](entries/1332/1332070-shuushoku.org) | しゅうしょく | 1332070 | new / draft |
+| 5 | Wiktionary N1 1183 | [照明](entries/1350/1350990-shoumei.org) | しょうめい | 1350990 | new / draft |
+| 6 | Wiktionary N1 1205 | [仕様](entries/1305/1305500-shiyou.org) | しよう | 1305500 | new / draft |
+| 6 | Wiktionary N1 1206 | [私用](entries/1311/1311410-shiyou.org) | しよう | 1311410 | new / draft |
+| 6 | Wiktionary N1 1219 | [振興](entries/1361/1361380-shinkou.org) | しんこう | 1361380 | new / draft |
+| 6 | Wiktionary N1 1220 | [新興](entries/1361/1361750-shinkou.org) | しんこう | 1361750 | new / draft |
+| 6 | Wiktionary N1 1221 | [申告](entries/1363/1363100-shinkoku.org) | しんこく | 1363100 | new / draft |
+| 6 | Wiktionary N1 1241 | [真理](entries/1364/1364400-shinri.org) | しんり | 1364400 | new / draft |
+| 6 | Wiktionary N1 1251 | [磁器](entries/1316/1316980-jiki.org) | じき | 1316980 | new / draft |
+| 6 | Wiktionary N1 1254 | [自己](entries/1317/1317580-jiko.org) | じこ | 1317580 | new / draft |
+| 6 | Wiktionary N1 1263 | [自信](entries/1317/1317970-jishin.org) | じしん | 1317970 | new / draft |
+| 6 | Wiktionary N1 1267 | [字体](entries/1315/1315200-jitai.org) | じたい | 1315200 | new / draft |
+| 7 | Wiktionary N1 1276 | [実情](entries/1595/1595260-jitsujou.org) | じつじょう | 1595260 | new / draft |
+| 7 | Wiktionary N1 1278 | [自動詞](entries/1318/1318390-jidoushi.org) | じどうし | 1318390 | new / draft |
+| 7 | Wiktionary N1 1323 | [女子](entries/1345/1345140-joshi.org) | じょし | 1345140 | new / draft |
+| 7 | Wiktionary N1 1324 | [女史](entries/1345/1345130-joshi.org) | じょし | 1345130 | new / draft |
+| 7 | Wiktionary N1 1325 | [助詞](entries/1344/1344630-joshi.org) | じょし | 1344630 | new / draft |
+| 7 | Wiktionary N1 1334 | [水洗](entries/1371/1371760-suisen.org) | すいせん | 1371760 | new / draft |
+| 7 | Wiktionary N1 1383 | [正規](entries/1376/1376850-seiki.org) | せいき | 1376850 | new / draft |
+| 7 | Wiktionary N1 1387 | [精巧](entries/1379/1379900-seikou.org) | せいこう | 1379900 | new / draft |
+| 7 | Wiktionary N1 1407 | [成年](entries/1375/1375830-seinen.org) | せいねん | 1375830 | new / draft |
+| 7 | Wiktionary N1 1412 | [姓名](entries/1375/1375210-seimei.org) | せいめい | 1375210 | new / draft |
+| 8 | Wiktionary N1 1413 | [声明](entries/1380/1380540-seimei.org) | せいめい | 1380540 | new / draft |
+| 8 | Wiktionary N1 1415 | [生理](entries/1379/1379580-seiri.org) | せいり | 1379580 | new / draft |
+| 8 | Wiktionary N1 1444 | [選考](entries/1392/1392240-senkou.org) | せんこう | 1392240 | new / draft |
+| 8 | Wiktionary N1 1528 | [他意](entries/1406/1406940-tai.org) | たい | 1406940 | new / draft |
+| 8 | Wiktionary N1 1549 | [対辺](entries/1655/1655340-taihen.org) | たいへん | 1655340 | new / draft |
+| 8 | Wiktionary N1 1580 | [仮令](entries/1597/1597125-tatoe.org) | たとえ | 1597125 | new / draft |
+| 8 | Wiktionary N1 1733 | [辻褄](entries/1433/1433730-tsujitsuma.org) | つじつま | 1433730 | new / draft |
+| 8 | Wiktionary N1 1786 | [鉄片](entries/1779/1779480-teppen.org) | てっぺん | 1779480 | new / draft |
+| 8 | Wiktionary N1 1796 | [点火](entries/1441/1441440-tenka.org) | てんか | 1441440 | new / draft |
+| 8 | Wiktionary N1 1802 | [転校](entries/1441/1441140-tenkou.org) | てんこう | 1441140 | new / draft |
+| 9 | Wiktionary N1 1928 | [同志](entries/1452/1452410-doushi.org) | どうし | 1452410 | new / draft |
+| 9 | Wiktionary N1 1940 | [読者](entries/1456/1456400-dokusha.org) | どくしゃ | 1456400 | new / draft |
+| 9 | Wiktionary N1 2012 | [面皰](entries/1533/1533600-nikibi.org) | にきび | 1533600 | new / draft |
+| 9 | Wiktionary N1 2021 | [日当](entries/1464/1464310-nittou.org) | にっとう | 1464310 | new / draft |
+| 9 | Wiktionary N1 2034 | [人情](entries/1368/1368180-ninjou.org) | にんじょう | 1368180 | new / draft |
+| 9 | Wiktionary N1 2058 | [年鑑](entries/1468/1468370-nenkan.org) | ねんかん | 1468370 | new / draft |
+| 9 | Wiktionary N1 2181 | [番目](entries/1482/1482410-banme.org) | ばんめ | 1482410 | new / draft |
+| 9 | Wiktionary N1 2202 | [非行](entries/1484/1484870-hikou.org) | ひこう | 1484870 | new / draft |
+| 9 | Wiktionary N1 2219 | [一頃](entries/1162/1162570-hitokoro.org) | ひところ | 1162570 | new / draft |
+| 9 | Wiktionary N1 2221 | [一目](entries/1166/1166950-hitome.org) | ひとめ | 1166950 | new / draft |
+| 10 | Wiktionary N1 2222 | [日取り](entries/1464/1464140-hidori.org) | ひどり | 1464140 | new / draft |
+| 10 | Wiktionary N1 2223 | [日向](entries/1464/1464050-hinata.org) | ひなた | 1464050 | new / draft |
+| 10 | Wiktionary N1 2226 | [火花](entries/1193/1193760-hibana.org) | ひばな | 1193760 | new / draft |
+| 10 | Wiktionary N1 2228 | [悲鳴](entries/1483/1483350-himei.org) | ひめい | 1483350 | new / draft |
+| 10 | Wiktionary N1 2231 | [標語](entries/1488/1488680-hyougo.org) | ひょうご | 1488680 | new / draft |
+| 10 | Wiktionary N1 2250 | [描写](entries/1490/1490140-byousha.org) | びょうしゃ | 1490140 | new / draft |
+| 10 | Wiktionary N1 2300 | [不憫](entries/1602/1602810-fubin.org) | ふびん | 1602810 | new / draft |
+| 10 | Wiktionary N1 2381 | [宝器](entries/1748/1748510-houki.org) | ほうき | 1748510 | new / draft |
+| 10 | Wiktionary N1 2425 | [保母](entries/1603/1603540-hobo.org) | ほぼ | 1603540 | new / draft |
+| 10 | Wiktionary N1 2558 | [民主](entries/1528/1528790-minshu.org) | みんしゅ | 1528790 | new / draft |
+
+
+## N1 continuation completed: 2,000 branch additions (2026-10-10)
+
+The branch `feat/add-100-n1-words` now contains **2,000 new entry files
+relative to `origin/main`**, with **9,163 tracked canonical entries** in the
+corpus. The continuation started from 1,710 committed additions, committed
+the 100 previously authored drafts individually, and added **190 further
+words in 19 batches of 10**, also with **one new entry per word commit**.
+The original two untracked files remain outside this addition.
+
+This continuation comprises **290 distinct JMdict IDs in 290 individual
+word commits**, **433 Ukrainian gloss blocks**, **433 usage notes**, and
+**870 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Every entry has three graded primary-sense examples, including
+one context-rich example (47–69 Japanese characters, mean 58.0).
+All English semantic senses have Ukrainian translations and notes; rare senses,
+alternate readings, grammatical units and specialized meanings are identified
+in the notes. Entries remain `learner` / `draft` pending independent linguistic
+review. No automatic check is presented as linguistic approval.
+
+The exact source rows, readings, entry paths and individual word commit IDs
+are recorded in [`docs/n1-to2000-2026-10-10.tsv`](docs/n1-to2000-2026-10-10.tsv).
+Source evidence is the local Wiktionary N1 queue at revision **84094074**;
+these are study-list assignments, not an official JLPT syllabus. Content is
+independently authored, and no Warodai text is translated or adapted.
+The less common culinary reading 生（き）was additionally checked against
+[Kikkoman's terminology](https://www.kikkoman.co.jp/enjoys/soysaucemuseum/various.html).
+
+Final verification covers all **290 entries from this continuation**:
+
+- Entry validation, Org lint and corpus doctor all passed; doctor reports
+  **290/290 passed, zero errors and zero warnings, mean score 100/100**.
+- Derived JMdict forms, readings, English/multilingual glosses, senses and
+  restrictions match the canonical scaffolder exactly after schema whitespace
+  normalization; sense fingerprints and archive provenance pass validation.
+- IDs are unique in the corpus, all 870 examples are distinct, and no authoring
+  placeholders remain. Commit inspection confirms exactly one new entry in
+  each of the 290 word commits.
+- The repository suite passed **154 tests, 28,154 assertions, zero failures,
+  errors or skips**.
+
+The complete 2,000-entry PR diff contains **3,341 Ukrainian gloss blocks**,
+**3,341 usage notes**, and **7,209 Japanese examples**. These diff-wide content
+counts are separate from the final validation scope described above.
+
+| Batch | Source row | Word | Reading | JMdict ID | Status |
+|---|---|---|---|---|---|
+| 11 | Wiktionary N1 12 | [証](entries/1351/1351580-akashi.org) | あかし | 1351580 | new / draft |
+| 11 | Wiktionary N1 19 | [悪](entries/1151/1151230-aku.org) | あく | 1151230 | new / draft |
+| 11 | Wiktionary N1 21 | [悪どい](entries/1000/1000260-akudoi.org) | あくどい | 1000260 | new / draft |
+| 11 | Wiktionary N1 33 | [葦](entries/1152/1152820-ashi.org) | あし | 1152820 | new / draft |
+| 11 | Wiktionary N1 38 | [私](entries/1311/1311125-atashi.org) | あたし | 1311125 | new / draft |
+| 11 | Wiktionary N1 49 | [宛てる](entries/1153/1153480-ateru.org) | あてる | 1153480 | new / draft |
+| 11 | Wiktionary N1 58 | [アマチュア](entries/1018/1018550-amachua.org) | アマチュア | 1018550 | new / draft |
+| 11 | Wiktionary N1 61 | [あやふや](entries/1000/1000510-ayafuya.org) | あやふや | 1000510 | new / draft |
+| 11 | Wiktionary N1 66 | [あら](entries/1000/1000520-ara.org) | あら | 1000520 | new / draft |
+| 11 | Wiktionary N1 72 | [アラブ](entries/1019/1019060-arabu.org) | アラブ | 1019060 | new / draft |
+| 12 | Wiktionary N1 79 | [アワー](entries/1019/1019840-awaa.org) | アワー | 1019840 | new / draft |
+| 12 | Wiktionary N1 80 | [アンケート](entries/1019/1019940-ankeeto.org) | アンケート | 1019940 | new / draft |
+| 12 | Wiktionary N1 81 | [アンコール](entries/1019/1019950-ankooru.org) | アンコール | 1019950 | new / draft |
+| 12 | Wiktionary N1 105 | [生ける](entries/1587/1587190-ikeru.org) | いける | 1587190 | new / draft |
+| 12 | Wiktionary N1 109 | [いざ](entries/1000/1000750-iza.org) | いざ | 1000750 | new / draft |
+| 12 | Wiktionary N1 112 | [意地](entries/1156/1156720-iji.org) | いじ | 1156720 | new / draft |
+| 12 | Wiktionary N1 122 | [痛む](entries/1432/1432710-itamu.org) | いたむ | 1432710 | new / draft |
+| 12 | Wiktionary N1 127 | [一見](entries/1727/1727890-ichigen.org) | いちげん | 1727890 | new / draft |
+| 12 | Wiktionary N1 172 | [インフレ](entries/1024/1024430-infure.org) | インフレ | 1024430 | new / draft |
+| 12 | Wiktionary N1 174 | [ウイルス](entries/1025/1025450-uirusu.org) | ウイルス | 1025450 | new / draft |
+| 13 | Wiktionary N1 185 | [渦](entries/1172/1172310-uzu.org) | うず | 1172310 | new / draft |
+| 13 | Wiktionary N1 214 | [うんざり](entries/1001/1001110-unzari.org) | うんざり | 1001110 | new / draft |
+| 13 | Wiktionary N1 224 | [鱝](entries/1001/1001130-ei.org) | えい | 1001130 | new / draft |
+| 13 | Wiktionary N1 235 | [エレガント](entries/1030/1030350-ereganto.org) | エレガント | 1030350 | new / draft |
+| 13 | Wiktionary N1 242 | [エンジニア](entries/1030/1030910-enjinia.org) | エンジニア | 1030910 | new / draft |
+| 13 | Wiktionary N1 249 | [おい](entries/1001/1001200-oi.org) | おい | 1001200 | new / draft |
+| 13 | Wiktionary N1 251 | [甥](entries/1179/1179140-oi.org) | おい | 1179140 | new / draft |
+| 13 | Wiktionary N1 270 | [遅れ](entries/1422/1422020-okure.org) | おくれ | 1422020 | new / draft |
+| 13 | Wiktionary N1 273 | [奢る](entries/1565/1565940-ogoru.org) | おごる | 1565940 | new / draft |
+| 13 | Wiktionary N1 278 | [教え](entries/1236/1236890-oshie.org) | おしえ | 1236890 | new / draft |
+| 14 | Wiktionary N1 292 | [ＯＫ](entries/1031/1031600-okkee.org) | オッケー | 1031600 | new / draft |
+| 14 | Wiktionary N1 301 | [驚き](entries/1238/1238660-odoroki.org) | おどろき | 1238660 | new / draft |
+| 14 | Wiktionary N1 308 | [お負け](entries/1694/1694410-omake.org) | おまけ | 1694410 | new / draft |
+| 14 | Wiktionary N1 320 | [織り](entries/1929/1929820-ori.org) | おり | 1929820 | new / draft |
+| 14 | Wiktionary N1 322 | [オリエンテーション](entries/1035/1035550-orienteeshon.org) | オリエンテーション | 1035550 | new / draft |
+| 14 | Wiktionary N1 326 | [オレンジ](entries/1035/1035860-orenji.org) | オレンジ | 1035860 | new / draft |
+| 14 | Wiktionary N1 329 | [オンライン](entries/1036/1036080-onrain.org) | オンライン | 1036080 | new / draft |
+| 14 | Wiktionary N1 332 | [オープン](entries/1032/1032990-oopun.org) | オープン | 1032990 | new / draft |
+| 14 | Wiktionary N1 333 | [科](entries/1192/1192680-ka.org) | か | 1192680 | new / draft |
+| 14 | Wiktionary N1 374 | [画](entries/1197/1197050-kaku.org) | かく | 1197050 | new / draft |
+| 15 | Wiktionary N1 375 | [欠く](entries/1253/1253900-kaku.org) | かく | 1253900 | new / draft |
+| 15 | Wiktionary N1 394 | [賭ける](entries/1444/1444840-kakeru.org) | かける | 1444840 | new / draft |
+| 15 | Wiktionary N1 398 | [嵩む](entries/1372/1372880-kasamu.org) | かさむ | 1372880 | new / draft |
+| 15 | Wiktionary N1 425 | [嘗て](entries/1581/1581210-katsute.org) | かつて | 1581210 | new / draft |
+| 15 | Wiktionary N1 426 | [カテゴリ](entries/1037/1037790-kategori.org) | カテゴリ | 1037790 | new / draft |
+| 15 | Wiktionary N1 445 | [甕](entries/1491/1491110-kame.org) | かめ | 1491110 | new / draft |
+| 15 | Wiktionary N1 446 | [カメラマン](entries/1038/1038390-kameraman.org) | カメラマン | 1038390 | new / draft |
+| 15 | Wiktionary N1 449 | [仮](entries/1187/1187290-kari.org) | かり | 1187290 | new / draft |
+| 15 | Wiktionary N1 451 | [借り](entries/1323/1323540-kari.org) | かり | 1323540 | new / draft |
+| 15 | Wiktionary N1 453 | [涸れる](entries/1568/1568740-kareru.org) | かれる | 1568740 | new / draft |
+| 16 | Wiktionary N1 458 | [館](entries/1929/1929870-kan.org) | かん | 1929870 | new / draft |
+| 16 | Wiktionary N1 481 | [カンニング](entries/1039/1039490-kanningu.org) | カンニング | 1039490 | new / draft |
+| 16 | Wiktionary N1 495 | [街](entries/1204/1204570-gai.org) | がい | 1204570 | new / draft |
+| 16 | Wiktionary N1 500 | [ガイド](entries/1039/1039900-gaido.org) | ガイド | 1039900 | new / draft |
+| 16 | Wiktionary N1 519 | [がる](entries/1631/1631750-garu.org) | がる | 1631750 | new / draft |
+| 16 | Wiktionary N1 520 | [ガレージ](entries/1040/1040530-gareeji.org) | ガレージ | 1040530 | new / draft |
+| 16 | Wiktionary N1 521 | [側](entries/1581/1581310-gawa.org) | がわ | 1581310 | new / draft |
+| 16 | Wiktionary N1 522 | [癌](entries/1217/1217110-gan.org) | がん | 1217110 | new / draft |
+| 16 | Wiktionary N1 530 | [生](entries/1378/1378440-ki.org) | き | 1378440 | new / draft |
+| 16 | Wiktionary N1 550 | [兆し](entries/1591/1591160-kizashi.org) | きざし | 1591160 | new / draft |
+| 17 | Wiktionary N1 552 | [軋む](entries/1573/1573440-kishimu.org) | きしむ | 1573440 | new / draft |
+| 17 | Wiktionary N1 564 | [きちっと](entries/1003/1003390-kichitto.org) | きちっと | 1003390 | new / draft |
+| 17 | Wiktionary N1 568 | [きっぱり](entries/1003/1003440-kippari.org) | きっぱり | 1003440 | new / draft |
+| 17 | Wiktionary N1 571 | [甲](entries/2397/2397580-kinoe.org) | きのえ | 2397580 | new / draft |
+| 17 | Wiktionary N1 580 | [きまり悪い](entries/1254/1254160-kimariwarui.org) | きまりわるい | 1254160 | new / draft |
+| 17 | Wiktionary N1 617 | [供する](entries/1233/1233550-kyousuru.org) | きょうする | 1233550 | new / draft |
+| 17 | Wiktionary N1 627 | [曲](entries/1239/1239700-kyoku.org) | きょく | 1239700 | new / draft |
+| 17 | Wiktionary N1 632 | [距離](entries/1232/1232920-kyori.org) | きょり | 1232920 | new / draft |
+| 17 | Wiktionary N1 638 | [桐](entries/1240/1240710-kiri.org) | きり | 1240710 | new / draft |
+| 17 | Wiktionary N1 642 | [際](entries/1296/1296290-kiwa.org) | きわ | 1296290 | new / draft |
+| 18 | Wiktionary N1 649 | [禁ずる](entries/1241/1241480-kinzuru.org) | きんずる | 1241480 | new / draft |
+| 18 | Wiktionary N1 674 | [クイズ](entries/1043/1043470-kuizu.org) | クイズ | 1043470 | new / draft |
+| 18 | Wiktionary N1 683 | [擽ったい](entries/1003/1003730-kusuguttai.org) | くすぐったい | 1003730 | new / draft |
+| 18 | Wiktionary N1 684 | [件](entries/1255/1255930-kudan.org) | くだん | 1255930 | new / draft |
+| 18 | Wiktionary N1 691 | [諄い](entries/1572/1572760-kudoi.org) | くどい | 1572760 | new / draft |
+| 18 | Wiktionary N1 698 | [クラブ](entries/2846/2846405-kurabu.org) | クラブ | 2846405 | new / draft |
+| 18 | Wiktionary N1 701 | [クレーン](entries/1045/1045280-kureen.org) | クレーン | 1045280 | new / draft |
+| 18 | Wiktionary N1 706 | [グラフ](entries/1046/1046610-gurafu.org) | グラフ | 1046610 | new / draft |
+| 18 | Wiktionary N1 708 | [群](entries/1247/1247490-gun.org) | ぐん | 1247490 | new / draft |
+| 18 | Wiktionary N1 714 | [刑](entries/1249/1249610-kei.org) | けい | 1249610 | new / draft |
+| 19 | Wiktionary N1 2239 | [広まる](entries/1278/1278450-hiromaru.org) | ひろまる | 1278450 | new / draft |
+| 19 | Wiktionary N1 736 | [汚らわしい](entries/1178/1178980-kegarawashii.org) | けがらわしい | 1178980 | new / draft |
+| 19 | Wiktionary N1 737 | [汚れ](entries/1178/1178990-kegare.org) | けがれ | 1178990 | new / draft |
+| 19 | Wiktionary N1 752 | [貶す](entries/1573/1573120-kenasu.org) | けなす | 1573120 | new / draft |
+| 19 | Wiktionary N1 758 | [圏](entries/1257/1257080-ken.org) | けん | 1257080 | new / draft |
+| 19 | Wiktionary N1 759 | [権](entries/1258/1258080-ken.org) | けん | 1258080 | new / draft |
+| 19 | Wiktionary N1 774 | [ゲスト](entries/1048/1048550-gesuto.org) | ゲスト | 1048550 | new / draft |
+| 19 | Wiktionary N1 776 | [げっそり](entries/1004/1004250-gessori.org) | げっそり | 1004250 | new / draft |
+| 19 | Wiktionary N1 796 | [戸](entries/1659/1659920-ko.org) | こ | 1659920 | new / draft |
+| 19 | Wiktionary N1 797 | [故](entries/1267/1267110-ko.org) | こ | 1267110 | new / draft |
+| 20 | Wiktionary N1 799 | [校](entries/2259/2259610-kou.org) | こう | 2259610 | new / draft |
+| 20 | Wiktionary N1 2270 | [深める](entries/1362/1362680-fukameru.org) | ふかめる | 1362680 | new / draft |
+| 20 | Wiktionary N1 815 | [煌々](entries/1569/1569020-koukou.org) | こうこう | 1569020 | new / draft |
+| 20 | Wiktionary N1 862 | [個々](entries/1593/1593190-koko.org) | ここ | 1593190 | new / draft |
+| 20 | Wiktionary N1 2359 | [経る](entries/1251/1251110-heru.org) | へる | 1251110 | new / draft |
+| 20 | Wiktionary N1 2487 | [マスコミ](entries/1127/1127900-masukomi.org) | マスコミ | 1127900 | new / draft |
+| 20 | Wiktionary N1 889 | [骨](entries/1288/1288540-kotsu.org) | こつ | 1288540 | new / draft |
+| 20 | Wiktionary N1 892 | [悉く](entries/1004/1004570-kotogotoku.org) | ことごとく | 1004570 | new / draft |
+| 20 | Wiktionary N1 895 | [事によると](entries/2773/2773660-kotoniyoruto.org) | ことによると | 2773660 | new / draft |
+| 20 | Wiktionary N1 901 | [コミュニケーション](entries/1050/1050980-komyunikeeshon.org) | コミュニケーション | 1050980 | new / draft |
+| 21 | Wiktionary N1 903 | [コメント](entries/1051/1051230-komento.org) | コメント | 1051230 | new / draft |
+| 21 | Wiktionary N1 2490 | [跨る](entries/1603/1603970-matagaru.org) | またがる | 1603970 | new / draft |
+| 21 | Wiktionary N1 914 | [コンタクト](entries/1052/1052410-kontakuto.org) | コンタクト | 1052410 | new / draft |
+| 21 | Wiktionary N1 917 | [コンテスト](entries/1052/1052590-kontesuto.org) | コンテスト | 1052590 | new / draft |
+| 21 | Wiktionary N1 921 | [コンパス](entries/1053/1053130-konpasu.org) | コンパス | 1053130 | new / draft |
+| 21 | Wiktionary N1 922 | [コーナー](entries/1049/1049110-koonaa.org) | コーナー | 1049110 | new / draft |
+| 21 | Wiktionary N1 925 | [業](entries/1239/1239320-gou.org) | ごう | 1239320 | new / draft |
+| 21 | Wiktionary N1 926 | [壕](entries/1956/1956270-gou.org) | ごう | 1956270 | new / draft |
+| 21 | Wiktionary N1 936 | [毎](entries/1524/1524640-goto.org) | ごと | 1524640 | new / draft |
+| 21 | Wiktionary N1 939 | [ご覧なさい](entries/1270/1270770-gorannasai.org) | ごらんなさい | 1270770 | new / draft |
+| 22 | Wiktionary N1 947 | [サイクル](entries/1055/1055520-saikuru.org) | サイクル | 1055520 | new / draft |
+| 22 | Wiktionary N1 961 | [囀る](entries/1565/1565710-saezuru.org) | さえずる | 1565710 | new / draft |
+| 22 | Wiktionary N1 2495 | [区々](entries/1604/1604010-machimachi.org) | まちまち | 1604010 | new / draft |
+| 22 | Wiktionary N1 969 | [先に](entries/1387/1387280-sakini.org) | さきに | 1387280 | new / draft |
+| 22 | Wiktionary N1 971 | [作](entries/1297/1297240-saku.org) | さく | 1297240 | new / draft |
+| 22 | Wiktionary N1 973 | [策](entries/1298/1298260-saku.org) | さく | 1298260 | new / draft |
+| 22 | Wiktionary N1 979 | [裂ける](entries/1558/1558610-sakeru.org) | さける | 1558610 | new / draft |
+| 22 | Wiktionary N1 988 | [嘸](entries/1565/1565620-sazo.org) | さぞ | 1565620 | new / draft |
+| 22 | Wiktionary N1 993 | [冊](entries/1298/1298520-satsu.org) | さつ | 1298520 | new / draft |
+| 22 | Wiktionary N1 996 | [裁く](entries/1295/1295940-sabaku.org) | さばく | 1295940 | new / draft |
+| 23 | Wiktionary N1 1004 | [さん](entries/1005/1005340-san.org) | さん | 1005340 | new / draft |
+| 23 | Wiktionary N1 1010 | [サンキュー](entries/1058/1058250-sankyuu.org) | サンキュー | 1058250 | new / draft |
+| 23 | Wiktionary N1 1016 | [サンタクロース](entries/1058/1058420-santakuroosu.org) | サンタクロース | 1058420 | new / draft |
+| 23 | Wiktionary N1 2522 | [見かける](entries/1604/1604430-mikakeru.org) | みかける | 1604430 | new / draft |
+| 23 | Wiktionary N1 1069 | [システム](entries/1060/1060300-shisutemu.org) | システム | 1060300 | new / draft |
+| 23 | Wiktionary N1 1078 | [認める](entries/1467/1467520-shitatameru.org) | したためる | 1467520 | new / draft |
+| 23 | Wiktionary N1 2543 | [見っともない](entries/1259/1259250-mittomonai.org) | みっともない | 1259250 | new / draft |
+| 23 | Wiktionary N1 1120 | [周](entries/1331/1331020-shuu.org) | しゅう | 1331020 | new / draft |
+| 23 | Wiktionary N1 1121 | [衆](entries/1333/1333240-shuu.org) | しゅう | 1333240 | new / draft |
+| 23 | Wiktionary N1 1167 | [症](entries/1351/1351000-shou.org) | しょう | 1351000 | new / draft |
+| 24 | Wiktionary N1 2648 | [役立つ](entries/1538/1538090-yakudatsu.org) | やくだつ | 1538090 | new / draft |
+| 24 | Wiktionary N1 1213 | [皺](entries/1569/1569740-shiwa.org) | しわ | 1569740 | new / draft |
+| 24 | Wiktionary N1 1216 | [殿](entries/1442/1442480-shingari.org) | しんがり | 1442480 | new / draft |
+| 24 | Wiktionary N1 1246 | [次](entries/1579/1579580-ji.org) | じ | 1579580 | new / draft |
+| 24 | Wiktionary N1 2695 | [ゆとり](entries/1013/1013070-yutori.org) | ゆとり | 1013070 | new / draft |
+| 24 | Wiktionary N1 1301 | [準ずる](entries/1341/1341520-junzuru.org) | じゅんずる | 1341520 | new / draft |
+| 24 | Wiktionary N1 2696 | [ユニフォーム](entries/1137/1137430-yunifoomu.org) | ユニフォーム | 1137430 | new / draft |
+| 24 | Wiktionary N1 1303 | [状](entries/1356/1356690-jou.org) | じょう | 1356690 | new / draft |
+| 24 | Wiktionary N1 1327 | [人](entries/1366/1366410-jin.org) | じん | 1366410 | new / draft |
+| 24 | Wiktionary N1 1343 | [清々しい](entries/1595/1595560-sugasugashii.org) | すがすがしい | 1595560 | new / draft |
+| 25 | Wiktionary N1 1344 | [過ぎ](entries/1195/1195960-sugi.org) | すぎ | 1195960 | new / draft |
+| 25 | Wiktionary N1 1346 | [掬う](entries/1226/1226200-sukuu.org) | すくう | 1226200 | new / draft |
+| 25 | Wiktionary N1 1351 | [勧め](entries/1210/1210900-susume.org) | すすめ | 1210900 | new / draft |
+| 25 | Wiktionary N1 1357 | [ストレス](entries/1071/1071490-sutoresu.org) | ストレス | 1071490 | new / draft |
+| 25 | Wiktionary N1 1362 | [スピード](entries/1072/1072310-supiido.org) | スピード | 1072310 | new / draft |
+| 25 | Wiktionary N1 1369 | [刷り](entries/1657/1657910-suri.org) | すり | 1657910 | new / draft |
+| 25 | Wiktionary N1 1370 | [すれ違い](entries/1298/1298930-surechigai.org) | すれちがい | 1298930 | new / draft |
+| 25 | Wiktionary N1 1374 | [ずぶ濡れ](entries/1006/1006410-zubunure.org) | ずぶぬれ | 1006410 | new / draft |
+| 25 | Wiktionary N1 1378 | [ずれる](entries/1006/1006460-zureru.org) | ずれる | 1006460 | new / draft |
+| 25 | Wiktionary N1 1389 | [清算](entries/1378/1378210-seisan.org) | せいさん | 1378210 | new / draft |
+| 26 | Wiktionary N1 2737 | [弱まる](entries/1324/1324580-yowamaru.org) | よわまる | 1324580 | new / draft |
+| 26 | Wiktionary N1 1466 | [禅](entries/1396/1396420-zen.org) | ぜん | 1396420 | new / draft |
+| 26 | Wiktionary N1 1474 | [沿う](entries/1176/1176700-sou.org) | そう | 1176700 | new / draft |
+| 26 | Wiktionary N1 1476 | [僧](entries/1398/1398030-sou.org) | そう | 1398030 | new / draft |
+| 26 | Wiktionary N1 1509 | [園](entries/1176/1176240-sono.org) | その | 1176240 | new / draft |
+| 26 | Wiktionary N1 1515 | [逸らす](entries/1167/1167650-sorasu.org) | そらす | 1167650 | new / draft |
+| 26 | Wiktionary N1 1516 | [反り](entries/1480/1480110-sori.org) | そり | 1480110 | new / draft |
+| 26 | Wiktionary N1 1517 | [それ故](entries/1406/1406080-soreyue.org) | それゆえ | 1406080 | new / draft |
+| 26 | Wiktionary N1 1522 | [沿い](entries/1610/1610080-zoi.org) | ぞい | 1610080 | new / draft |
+| 26 | Wiktionary N1 1523 | [像](entries/1403/1403110-zou.org) | ぞう | 1403110 | new / draft |
+| 27 | Wiktionary N1 1532 | [退学](entries/1411/1411340-taigaku.org) | たいがく | 1411340 | new / draft |
+| 27 | Wiktionary N1 1537 | [対して](entries/1409/1409820-taishite.org) | たいして | 1409820 | new / draft |
+| 27 | Wiktionary N1 1544 | [タイトル](entries/1075/1075900-taitoru.org) | タイトル | 1075900 | new / draft |
+| 27 | Wiktionary N1 1562 | [高](entries/1633/1633260-taka.org) | たか | 1633260 | new / draft |
+| 27 | Wiktionary N1 1563 | [高まる](entries/1283/1283220-takamaru.org) | たかまる | 1283220 | new / draft |
+| 27 | Wiktionary N1 1567 | [類い](entries/1596/1596870-tagui.org) | たぐい | 1596870 | new / draft |
+| 27 | Wiktionary N1 1577 | [断つ](entries/1597/1597030-tatsu.org) | たつ | 1597030 | new / draft |
+| 27 | Wiktionary N1 1584 | [頼み](entries/1610/1610270-tanomi.org) | たのみ | 1610270 | new / draft |
+| 27 | Wiktionary N1 1589 | [例](entries/2713/2713240-tameshi.org) | ためし | 2713240 | new / draft |
+| 27 | Wiktionary N1 2738 | [弱める](entries/1324/1324590-yowameru.org) | よわめる | 1324590 | new / draft |
+| 28 | Wiktionary N1 2744 | [ラベル](entries/1139/1139720-raberu.org) | ラベル | 1139720 | new / draft |
+| 28 | Wiktionary N1 1612 | [第](entries/1415/1415260-dai.org) | だい | 1415260 | new / draft |
+| 28 | Wiktionary N1 1621 | [丈](entries/1007/1007340-dake.org) | だけ | 1007340 | new / draft |
+| 28 | Wiktionary N1 1630 | [だらけ](entries/1007/1007480-darake.org) | だらけ | 1007480 | new / draft |
+| 28 | Wiktionary N1 1644 | [近づく](entries/1242/1242170-chikazuku.org) | ちかづく | 1242170 | new / draft |
+| 28 | Wiktionary N1 1646 | [契る](entries/1250/1250160-chigiru.org) | ちぎる | 1250160 | new / draft |
+| 28 | Wiktionary N1 1656 | [チャイム](entries/1077/1077890-chaimu.org) | チャイム | 1077890 | new / draft |
+| 28 | Wiktionary N1 1675 | [庁](entries/1427/1427590-chou.org) | ちょう | 1427590 | new / draft |
+| 28 | Wiktionary N1 2799 | [碌に](entries/1570/1570040-rokuni.org) | ろくに | 1570040 | new / draft |
+| 28 | Wiktionary N1 1730 | [接ぐ](entries/1385/1385340-tsugu.org) | つぐ | 1385340 | new / draft |
+| 29 | Wiktionary N1 1747 | [瞑る](entries/1585/1585820-tsuburu.org) | つぶる | 1585820 | new / draft |
+| 29 | Wiktionary N1 1752 | [強まる](entries/1236/1236130-tsuyomaru.org) | つよまる | 1236130 | new / draft |
+| 29 | Wiktionary N1 1753 | [強める](entries/1236/1236150-tsuyomeru.org) | つよめる | 1236150 | new / draft |
+| 29 | Wiktionary N1 2598 | [メッセージ](entries/1133/1133570-messeeji.org) | メッセージ | 1133570 | new / draft |
+| 29 | Wiktionary N1 1811 | [てんで](entries/1008/1008320-tende.org) | てんで | 1008320 | new / draft |
+| 29 | Wiktionary N1 1820 | [デザイン](entries/1082/1082900-dezain.org) | デザイン | 1082900 | new / draft |
+| 29 | Wiktionary N1 1831 | [データ](entries/1081/1081190-deeta.org) | データ | 1081190 | new / draft |
+| 29 | Wiktionary N1 1834 | [等](entries/1582/1582305-tou.org) | とう | 1582305 | new / draft |
+| 29 | Wiktionary N1 1835 | [棟](entries/1448/1448340-tou.org) | とう | 1448340 | new / draft |
+| 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |
