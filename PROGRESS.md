@@ -11594,10 +11594,10 @@ untracked files remain untouched.
 
 ## New Anki N1 selection (2026-10-11)
 
-Baseline: `69b208485b259589355d0b941e4f15d3b9337598`. **400/500 new entries are committed in 40 batches of ten**,
+Baseline: `69b208485b259589355d0b941e4f15d3b9337598`. **500/500 new entries are committed in 50 batches of ten**,
 with one addition commit per word. Completed entries run from 頻発 through
-埋め合わせる. They contain **400 Ukrainian gloss blocks and usage notes**,
-plus **1200 distinct original Japanese examples** with kana readings and
+起用. They contain **500 Ukrainian gloss blocks and usage notes**,
+plus **1500 distinct original Japanese examples** with kana readings and
 Ukrainian translations. The contextual examples have at least 53
 Japanese characters. Entries remain `learner` / `draft` pending independent
 linguistic review. The first 100 are also recorded in
@@ -11611,14 +11611,15 @@ examples are authored independently from canonical JMdict senses. Exact source
 rows, GUIDs, tags, and the archived CSV SHA-256 are recorded in the ledger.
 Canonical JMdict forms, readings, senses, restrictions, and glosses are preserved.
 
-All 400 completed entries pass JMdict validation, Org lint, doctor (100/100,
+All 500 completed entries pass JMdict validation, Org lint, doctor (100/100,
 no errors or warnings), and the derived metadata audit. The repository suite
-passes with 154 tests and zero failures or errors.
+passes with 154 tests, 32,234 assertions, and zero failures or errors.
 
-The 500-word goal has **400 completed entries and 100 remaining**.
+The 500-word goal is **complete: 500 entries, fifty batches, zero remaining**.
 The full selection is in
-[docs/n1-goal500-2026-10-11.tsv](docs/n1-goal500-2026-10-11.tsv); empty commit
-fields denote pending entries. All 500 source rows and checksums are verified.
-Continue with batch 41, beginning with 万事.
+[docs/n1-goal500-2026-10-11.tsv](docs/n1-goal500-2026-10-11.tsv). All 500 addition
+commits, source rows, and archived source checksums are verified. Every selected
+JMdict ID was absent at the goal baseline.
+All fifty batches are complete.
 Local helper files and canonical source data are retained under ignored
 `tmp/n1-goal500-*`. The two pre-existing untracked files remain untouched.
