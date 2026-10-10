@@ -11495,3 +11495,29 @@ counts are separate from the final validation scope described above.
 | 29 | Wiktionary N1 1834 | [等](entries/1582/1582305-tou.org) | とう | 1582305 | new / draft |
 | 29 | Wiktionary N1 1835 | [棟](entries/1448/1448340-tou.org) | とう | 1448340 | new / draft |
 | 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |
+
+
+## N1 PR #15 continuation — in progress (2026-10-10)
+
+PR #14 was merged with commit `0b2ea952813eed34943c526784e81b4d4ae33e37`.
+The new branch `codex/add-200-n1-words` starts from that merged `main` and
+adds distinct N1 study-list entries toward a **200-word goal**.
+
+Current checkpoint: **70 committed new entries in seven batches of ten**,
+with one entry per addition commit. One separate single-entry correction
+refines the wording of the ノイローゼ example. **130 words remain**; this
+section does not claim the 200-word goal is complete.
+
+The 70 entries contain **117 Ukrainian gloss blocks**, **117 usage notes**,
+and **210 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Each primary sense has three graded examples, including a long
+contextual sentence. Entries remain `learner` / `draft`.
+
+All seven batches pass entry validation; doctor reports **70/70 passed,
+zero errors and warnings, mean score 100/100**. The exact candidate rows,
+source URLs, source checksums, entry paths and addition commits are recorded
+in [`docs/n1-200-2026-10-10.tsv`](docs/n1-200-2026-10-10.tsv).
+Sources are Open Anki N1 and TodayJLPT N1 lexical lists; the labels are study-list
+assignments rather than an official JLPT syllabus. Ukrainian content and
+examples are independently authored. The two pre-existing untracked files
+remain outside this work.
