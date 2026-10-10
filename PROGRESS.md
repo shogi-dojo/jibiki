@@ -11526,28 +11526,27 @@ untracked files remain outside this work.
 
 ## N1 PR #15 — additional 500-word continuation (2026-10-10)
 
-The expanded goal adds **500 further N1 study-list entries** after the original
-200-word PR checkpoint `f3ab2428c0d6de7c5975c1ce56152707bfbae72e`.
-**460/500 are committed in 46 batches of ten; 40 remain.**
-Each addition commit contains exactly one entry. The branch currently has
-**660 new entry files** relative to the PR base.
+The earlier 500-word continuation after checkpoint
+`f3ab2428c0d6de7c5975c1ce56152707bfbae72e` is now complete:
+**500/500 committed entries in 50 batches of ten**. The first four batches
+of the new 200-word goal below completed its remaining 40 entries.
+Each addition commit contains exactly one entry.
 
-These 460 entries contain **729 Ukrainian gloss blocks**, **729 usage notes**,
-and **1380 distinct original Japanese examples** with kana readings and Ukrainian
-translations. Every word has three graded examples, including a contextual
-sentence of at least 56 Japanese characters (mean 63.7).
+These 500 entries contain **785 Ukrainian gloss blocks and usage notes**,
+and **1500 distinct original Japanese examples** with kana readings and
+Ukrainian translations. Each entry has three graded examples, including a
+contextual sentence of at least 54 Japanese characters (mean 63.4).
 Entries remain `learner` / `draft` pending independent linguistic review.
 
-All 460 entries pass validation, Org lint, and doctor (zero errors or warnings,
-mean health score 100/100). A canonical metadata audit verifies preservation of
-JMdict forms, readings, senses, restrictions, and glosses. The selected 500 IDs
-are distinct; all 500 lexical source rows match their archived TodayJLPT N1
-pages and SHA-256 checksums. Level labels are study-list assignments.
+All 500 entries pass validation, Org lint, and doctor with zero errors or
+warnings and a 100/100 mean doctor score. Canonical JMdict metadata and
+archived lexical source identities are preserved. The complete entry paths,
+source URLs, checksums, and addition commits are recorded in
+[docs/n1-next500-2026-10-10.tsv](docs/n1-next500-2026-10-10.tsv).
+N1 labels are study-list assignments.
 
-The committed entries, source rows, URLs, checksums, and one-entry addition
-commits are recorded in [docs/n1-next500-2026-10-10.tsv](docs/n1-next500-2026-10-10.tsv).
-The repository test suite passed at the 460-word checkpoint: 154 tests,
-30,134 assertions, zero failures or errors.
+The repository test suite passed after the new 200-word goal completed:
+154 tests, 30,734 assertions, zero failures or errors.
 The two pre-existing untracked files remain outside this work.
 
 
@@ -11571,24 +11570,23 @@ The two pre-existing untracked files were preserved outside this goal.
 
 ## New 200-word N1 goal (2026-10-10)
 
-Goal baseline: `bf448e416e129d85fe777b7dc51c5533f9dde2fe`. Add **200 new N1 study-list entries** in
+Goal baseline: `bf448e416e129d85fe777b7dc51c5533f9dde2fe`. Added **200 new N1 study-list entries** in
 **twenty batches of ten**, with one addition commit per word.
-**150/200 entries are committed in 15 batches; 50 remain.**
+**200/200 entries are committed in 20 batches; 0 remain.**
 
-Completed entries run from 寸前 through 端末. They contain **211 Ukrainian
-gloss blocks and usage notes**, and **450 distinct original Japanese examples**
+Completed entries run from 寸前 through 提唱. They contain **297 Ukrainian
+gloss blocks and usage notes**, and **600 distinct original Japanese examples**
 with kana readings and Ukrainian translations. Each entry has three graded
 examples, including a contextual sentence of at least 54 Japanese characters.
 Canonical JMdict metadata is preserved. Entries remain `learner` / `draft`
 pending independent linguistic review.
 
-All 150 completed entries pass JMdict validation, Org lint, and doctor, with
+All 200 completed entries pass JMdict validation, Org lint, and doctor, with
 zero errors or warnings and a 100/100 mean doctor score. The repository test
-suite passes (154 tests, zero failures or errors).
+suite passes (154 tests, 30,734 assertions, zero failures or errors).
 
 The full 200-word selection is recorded in
 [docs/n1-goal200-2026-10-10.tsv](docs/n1-goal200-2026-10-10.tsv).
-Rows with empty addition commits are pending. All 200 source identities and
-archived N1 page checksums are verified, and the pending IDs remain unused.
-Continue with **batch 16**, beginning with 暖流. The two pre-existing untracked
-files remain untouched.
+All 200 addition commits are recorded. All source identities and archived N1
+page checksums are verified. The goal is complete; the two pre-existing
+untracked files remain untouched.
