@@ -11497,27 +11497,28 @@ counts are separate from the final validation scope described above.
 | 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |
 
 
-## N1 PR #15 continuation — in progress (2026-10-10)
+## N1 PR #15 — 200 new entries (2026-10-10)
 
 PR #14 was merged with commit `0b2ea952813eed34943c526784e81b4d4ae33e37`.
-The new branch `codex/add-200-n1-words` starts from that merged `main` and
-adds distinct N1 study-list entries toward a **200-word goal**.
+Branch `codex/add-200-n1-words` adds **200 distinct N1 study-list entries**
+from that merged `main`, in **20 batches of ten**, with one entry per addition
+commit. A separate correction commit refines a ノイローゼ example.
 
-Current checkpoint: **70 committed new entries in seven batches of ten**,
-with one entry per addition commit. One separate single-entry correction
-refines the wording of the ノイローゼ example. **130 words remain**; this
-section does not claim the 200-word goal is complete.
+The entries contain **284 Ukrainian gloss blocks**, **284 usage notes**, and
+**600 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Each selected primary sense has three graded examples,
+including a long contextual sentence (at least 53 Japanese characters; mean 61.4).
+Entries remain `learner` / `draft` pending independent linguistic review.
 
-The 70 entries contain **117 Ukrainian gloss blocks**, **117 usage notes**,
-and **210 distinct original Japanese examples with kana readings and Ukrainian
-translations**. Each primary sense has three graded examples, including a long
-contextual sentence. Entries remain `learner` / `draft`.
+All 200 entries pass validation, Org lint, and doctor (zero errors or warnings,
+mean health score 100/100). The final audit verifies unique entry IDs, unique
+examples, one-entry addition commits, and preservation of canonical JMdict
+forms, readings, senses, restrictions, and glosses. The repository test suite
+passes with 154 tests and no failures or errors.
 
-All seven batches pass entry validation; doctor reports **70/70 passed,
-zero errors and warnings, mean score 100/100**. The exact candidate rows,
-source URLs, source checksums, entry paths and addition commits are recorded
-in [`docs/n1-200-2026-10-10.tsv`](docs/n1-200-2026-10-10.tsv).
-Sources are Open Anki N1 and TodayJLPT N1 lexical lists; the labels are study-list
-assignments rather than an official JLPT syllabus. Ukrainian content and
-examples are independently authored. The two pre-existing untracked files
-remain outside this work.
+The exact source rows, URLs, checksums, entry paths, and addition commits are
+recorded in [`docs/n1-200-2026-10-10.tsv`](docs/n1-200-2026-10-10.tsv).
+Sources are Open Anki N1 and TodayJLPT N1 lexical lists; the levels are
+study-list assignments rather than an official JLPT syllabus. Ukrainian
+content and examples are independently authored. The two pre-existing
+untracked files remain outside this work.
