@@ -11623,3 +11623,35 @@ JMdict ID was absent at the goal baseline.
 All fifty batches are complete.
 Local helper files and canonical source data are retained under ignored
 `tmp/n1-goal500-*`. The two pre-existing untracked files remain untouched.
+
+
+## New 1000-word N1 goal (2026-10-11)
+
+Goal baseline: `6a973e0f1beb5d0d8daed77e702e10994d2f99a3`. Add **1000 additional N1 study-list entries** in
+**one hundred batches of ten**, with one addition commit per word.
+**50/1000 entries are committed in 5 batches; 950 remain.**
+
+Completed entries run from 班 through 勝ち抜く. They contain
+**124 Ukrainian gloss blocks and usage notes**, covering every English
+JMdict sense, and **150 distinct original Japanese examples** with kana
+readings and Ukrainian translations. Each entry has three graded examples,
+including a contextual sentence of at least 54 Japanese characters.
+Canonical JMdict metadata is preserved. Entries retain the `learner` quality
+profile and `draft` status pending independent linguistic review.
+
+All 50 completed entries pass JMdict validation, Org lint, doctor (100/100,
+no errors or warnings), and the derived metadata audit. The repository suite
+passes with 154 tests and zero failures or errors.
+
+Selection uses the N1 section of
+[Egg rolls JLPT10k](https://github.com/5mdld/anki-jlpt-decks). This is a
+community study-list classification. Only vocabulary identities, readings, and
+level tags are used from the deck; Ukrainian text and examples are independently
+authored from canonical JMdict senses. The full selection is recorded in
+[docs/n1-goal1000-2026-10-11.tsv](docs/n1-goal1000-2026-10-11.tsv).
+All 1000 selected IDs were absent at the new baseline; no completed 500-word
+goal entries are counted again. Every source row, GUID, tag, and archived
+CSV checksum is verified. Empty addition-commit fields denote pending entries.
+Continue with batch 6, beginning with 乗り切る.
+Helper files and canonical source data are retained under ignored
+`tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.
