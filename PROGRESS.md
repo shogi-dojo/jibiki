@@ -11629,17 +11629,17 @@ Local helper files and canonical source data are retained under ignored
 
 Goal baseline: `6a973e0f1beb5d0d8daed77e702e10994d2f99a3`. Add **1000 additional N1 study-list entries** in
 **one hundred batches of ten**, with one addition commit per word.
-**350/1000 entries are committed in 35 batches; 650 remain.**
+**360/1000 entries are committed in 36 batches; 640 remain.**
 
-Completed entries run from 班 through 遊歩道. They contain
-**798 Ukrainian gloss blocks and usage notes**, covering every English
-JMdict sense, and **1050 distinct original Japanese examples** with kana
+Completed entries run from 班 through 劣勢. They contain
+**813 Ukrainian gloss blocks and usage notes**, covering every English
+JMdict sense, and **1080 distinct original Japanese examples** with kana
 readings and Ukrainian translations. Each entry has three graded examples,
 including a contextual sentence of at least 53 Japanese characters.
 Canonical JMdict metadata is preserved. Entries retain the `learner` quality
 profile and `draft` status pending independent linguistic review.
 
-All 350 completed entries pass JMdict validation, Org lint, doctor (100/100,
+All 360 completed entries pass JMdict validation, Org lint, doctor (100/100,
 no errors or warnings), and the derived metadata audit. The repository suite
 passes with 154 tests and zero failures or errors.
 
@@ -11656,6 +11656,6 @@ selected interjection はいはい was removed and replaced with 上辺; pending
 さらす was replaced with 手荷物. Neither existing correct homonym is counted.
 Every source row, GUID, tag, and archived
 CSV checksum is verified. Empty addition-commit fields denote pending entries.
-Continue with batch 36, beginning with 知名度.
+Continue with batch 37, beginning with 激流.
 Helper files and canonical source data are retained under ignored
 `tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.
