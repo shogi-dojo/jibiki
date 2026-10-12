@@ -11629,17 +11629,17 @@ Local helper files and canonical source data are retained under ignored
 
 Goal baseline: `6a973e0f1beb5d0d8daed77e702e10994d2f99a3`. Add **1000 additional N1 study-list entries** in
 **one hundred batches of ten**, with one addition commit per word.
-**140/1000 entries are committed in 14 batches; 860 remain.**
+**150/1000 entries are committed in 15 batches; 850 remain.**
 
-Completed entries run from 班 through 局面. They contain
-**362 Ukrainian gloss blocks and usage notes**, covering every English
-JMdict sense, and **420 distinct original Japanese examples** with kana
+Completed entries run from 班 through 工面. They contain
+**383 Ukrainian gloss blocks and usage notes**, covering every English
+JMdict sense, and **450 distinct original Japanese examples** with kana
 readings and Ukrainian translations. Each entry has three graded examples,
 including a contextual sentence of at least 53 Japanese characters.
 Canonical JMdict metadata is preserved. Entries retain the `learner` quality
 profile and `draft` status pending independent linguistic review.
 
-All 140 completed entries pass JMdict validation, Org lint, doctor (100/100,
+All 150 completed entries pass JMdict validation, Org lint, doctor (100/100,
 no errors or warnings), and the derived metadata audit. The repository suite
 passes with 154 tests and zero failures or errors.
 
@@ -11652,6 +11652,6 @@ authored from canonical JMdict senses. The full selection is recorded in
 All 1000 selected IDs were absent at the new baseline; no completed 500-word
 goal entries are counted again. Every source row, GUID, tag, and archived
 CSV checksum is verified. Empty addition-commit fields denote pending entries.
-Continue with batch 15, beginning with 串.
+Continue with batch 16, beginning with 更生.
 Helper files and canonical source data are retained under ignored
 `tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.
