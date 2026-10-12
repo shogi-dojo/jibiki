@@ -11629,17 +11629,17 @@ Local helper files and canonical source data are retained under ignored
 
 Goal baseline: `6a973e0f1beb5d0d8daed77e702e10994d2f99a3`. Add **1000 additional N1 study-list entries** in
 **one hundred batches of ten**, with one addition commit per word.
-**150/1000 entries are committed in 15 batches; 850 remain.**
+**160/1000 entries are committed in 16 batches; 840 remain.**
 
-Completed entries run from 班 through 工面. They contain
-**383 Ukrainian gloss blocks and usage notes**, covering every English
-JMdict sense, and **450 distinct original Japanese examples** with kana
+Completed entries run from 班 through 思い入れ. They contain
+**405 Ukrainian gloss blocks and usage notes**, covering every English
+JMdict sense, and **480 distinct original Japanese examples** with kana
 readings and Ukrainian translations. Each entry has three graded examples,
 including a contextual sentence of at least 53 Japanese characters.
 Canonical JMdict metadata is preserved. Entries retain the `learner` quality
 profile and `draft` status pending independent linguistic review.
 
-All 150 completed entries pass JMdict validation, Org lint, doctor (100/100,
+All 160 completed entries pass JMdict validation, Org lint, doctor (100/100,
 no errors or warnings), and the derived metadata audit. The repository suite
 passes with 154 tests and zero failures or errors.
 
@@ -11650,8 +11650,12 @@ level tags are used from the deck; Ukrainian text and examples are independently
 authored from canonical JMdict senses. The full selection is recorded in
 [docs/n1-goal1000-2026-10-11.tsv](docs/n1-goal1000-2026-10-11.tsv).
 All 1000 selected IDs were absent at the new baseline; no completed 500-word
-goal entries are counted again. Every source row, GUID, tag, and archived
+goal entries are counted again. Two homonym mismatches were corrected; see
+[identity corrections](docs/n1-goal1000-identity-corrections.json). The incorrectly
+selected interjection はいはい was removed and replaced with 上辺; pending
+さらす was replaced with 手荷物. Neither existing correct homonym is counted.
+Every source row, GUID, tag, and archived
 CSV checksum is verified. Empty addition-commit fields denote pending entries.
-Continue with batch 16, beginning with 更生.
+Continue with batch 17, beginning with 指向.
 Helper files and canonical source data are retained under ignored
 `tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.
