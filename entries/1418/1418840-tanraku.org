@@ -1,0 +1,411 @@
+#+TITLE: 短絡
+#+JMDICT_ID: 1418840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たんらく
+#+ROMAJI: tanraku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1418840-001
+:PROPERTIES:
+:TEXT: 短絡
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1418840-001
+:PROPERTIES:
+:TEXT: たんらく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1418840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e45ea6dd560105a5158d621341aeae92d5c90deebbb210e7e820ec904994588f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- elec
+*** Cross-references
+- ショート・3
+** English glosses
+- short circuit
+- short
+** Ukrainian glosses
+*** uk-s-1418840-001-001
+:PROPERTIES:
+:END:
+- text :: коротке замикання
+** Learner notes
+*** note-s-1418840-001-001
+:PROPERTIES:
+:END:
+- UK :: Електротехнічне значення: з’єднання з дуже малим опором, яке створює неналежний шлях струму; 短絡する.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1418840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7180357f9243d5c63b7db9ffaca718311e413e295c1b3a94e300e4561beb0bcd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- illogical jump
+- drawing a hasty inference (between two events)
+- jumping to conclusions
+- acting rashly
+** Ukrainian glosses
+*** uk-s-1418840-002-001
+:PROPERTIES:
+:END:
+- text :: поспішний висновок; необґрунтоване пов’язування; необдумана дія
+** Learner notes
+*** note-s-1418840-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносно про міркування, у якому пропускають потрібні ланки або одразу роблять висновок; часто 短絡的な.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1418840-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 回路の短絡が見つかりました。
+- READING :: かいろのたんらくがみつかりました。
+- UK :: У колі виявили коротке замикання.
+- FOCUS :: 短絡
+*** ex-1418840-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 一度の失敗で判断するのは、短絡的です。
+- READING :: いちどのしっぱいではんだんするのは、たんらくてきです。
+- UK :: Робити висновок на підставі однієї невдачі — поспішно.
+- FOCUS :: 短絡
+*** ex-1418840-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 売上が減った原因を天気だけに結び付けるのは短絡的なので、店長は商品の並べ方や客の動きも調べてから対策を考えることにした。
+- READING :: うりあげがへったげんいんをてんきだけにむすびつけるのはたんらくてきなので、てんちょうはしょうひんのならべかたやきゃくのうごきもしらべてからたいさくをかんがえることにした。
+- UK :: Пов’язувати падіння продажів лише з погодою — поспішний висновок, тому керівник крамниці вирішив також дослідити розміщення товарів і поведінку покупців, перш ніж шукати рішення.
+- FOCUS :: 短絡
+
+* Sense s-1418840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 75d26a2ba3e8f4d041b965ee7dc2d2bf820169f20ac547f366f285e4d3b7aefd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} kortsluiting
+** Ukrainian glosses
+
+* Sense s-1418840-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ea47ed0280543a25df1e366f5a3f30ed6a3f68209812ae84cc91014472e4daf3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} bypass
+** Ukrainian glosses
+
+* Sense s-1418840-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8e3b00ca21edf9a8345b25a281cb2d7cab8eda0decff26ec20b5935042c98506
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {log.} overhaaste gevolgtrekking
+*** en-s-1418840-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: conclusie
+*** en-s-1418840-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het niet-logisch-zijn
+** Ukrainian glosses
+
+* Sense s-1418840-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f8ead1093de436e76e7f8545dbac9ce2ee3c31663ca61cb1999e29c674f095ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} kortsluiten
+** Ukrainian glosses
+
+* Sense s-1418840-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0e7868e958e91709d0456922a05fc6e0a20f85c3b48a209f9d495e793a7d0507
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} bypassen
+** Ukrainian glosses
+
+* Sense s-1418840-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 1b953256002c2573328eded48ff8601eadf8ca0cb1977bfbb317bc4920751e37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {log.} overhaaste gevolgtrekkingen maken
+*** en-s-1418840-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overhaaste conclusies trekken
+*** en-s-1418840-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet-logisch
+*** en-s-1418840-008-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: simplistisch zijn
+*** en-s-1418840-008-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich een overhaast oordeel vormen
+** Ukrainian glosses
+
+* Sense s-1418840-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: e4791e05ee2cc66c20e3949b57cb7fbb4e6bb1182b5623c505fc9b3692c8c035
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kurzschluss
+** Ukrainian glosses
+
+* Sense s-1418840-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: d5bb8a0359a223d44ea8437986dc82b750c0a6c337b44aa7164e7fd6422b3f8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voreiliger Schluss
+** Ukrainian glosses
+
+* Sense s-1418840-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 7e44ada7e6754d476e7114599a7490b19bbc404a5167180cbdfb2d914a866550
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen Kurzschluss haben
+** Ukrainian glosses
+
+* Sense s-1418840-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 1b787c7a042f7fe124f5f91e12e7210da6fb4a01d8174f0c141c11024dcb093c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voreilig schließen
+*** en-s-1418840-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voreilige Schlüsse ziehen
+** Ukrainian glosses
+
+* Sense s-1418840-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: fa022000da6ae0c51675a2687e93ed3c50a9cea51dd8c6e66a825c5b4c5e628f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-013-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rövidzárlat
+** Ukrainian glosses
+
+* Sense s-1418840-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 306c4ab7877c5ae6593f61d622aa52efaf8e24d3176d4d5811a19d1c4b60ca5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-014-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) короткая цепь; короткое замыкание
+** Ukrainian glosses
+
+* Sense s-1418840-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: dfd68d14137d9bf40325b70e222471c3c5193c3190f9d85ba8cfa91e6f636a72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418840-015-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cortocircuito
+** Ukrainian glosses
