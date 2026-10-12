@@ -1,0 +1,289 @@
+#+TITLE: 原価
+#+JMDICT_ID: 1592820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんか
+#+ROMAJI: genka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1592820-001
+:PROPERTIES:
+:TEXT: 原価
+:END:
+*** Priorities
+- news1
+- nf18
+** Written form wf-1592820-002
+:PROPERTIES:
+:TEXT: 元価
+:END:
+*** Information
+- rK
+** Reading rd-1592820-001
+:PROPERTIES:
+:TEXT: げんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1592820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1ba61e473bc6c2605ce28b71f79c0646ac6a5007c5eeaa097379fef4d21461af
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cost price
+- purchase price
+- cost
+** Ukrainian glosses
+*** uk-s-1592820-001-001
+:PROPERTIES:
+:END:
+- text :: закупівельна ціна; вартість придбання
+** Learner notes
+*** note-s-1592820-001-001
+:PROPERTIES:
+:END:
+- UK :: Про витрати на придбання товару або матеріалу; відрізняється від ціни, за якою його продають клієнтові.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1592820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 45589429bd8428a06c62ccf0b475889023b9ea740d544271e71f763a45e0b337
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- production cost
+- manufacturing cost
+- prime cost
+** Ukrainian glosses
+*** uk-s-1592820-002-001
+:PROPERTIES:
+:END:
+- text :: собівартість; виробничі витрати
+** Learner notes
+*** note-s-1592820-002-001
+:PROPERTIES:
+:END:
+- UK :: Про витрати на виготовлення продукції; 原価を計算する — розрахувати собівартість.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1592820-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 商品の原価を調べます。
+- READING :: しょうひんのげんかをしらべます。
+- UK :: Ми з’ясуємо закупівельну вартість товару.
+- FOCUS :: 原価
+*** ex-1592820-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 材料費が上がり、原価も高くなりました。
+- READING :: ざいりょうひがあがり、げんかもたかくなりました。
+- UK :: Вартість матеріалів зросла, і собівартість теж підвищилася.
+- FOCUS :: 原価
+*** ex-1592820-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい商品の値段を決める前に、担当者は材料だけでなく作業にかかる時間も含めて原価を計算し、無理なく作り続けられるかを確かめた。
+- READING :: あたらしいしょうひんのねだんをきめるまえに、たんとうしゃはざいりょうだけでなくさぎょうにかかるじかんもふくめてげんかをけいさんし、むりなくつくりつづけられるかをたしかめた。
+- UK :: Перш ніж визначити ціну нового товару, відповідальний працівник розрахував собівартість з урахуванням не лише матеріалів, а й часу роботи та перевірив, чи можна буде стабільно продовжувати виробництво.
+- FOCUS :: 原価
+
+* Sense s-1592820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8fcf6679e6dd65e2431f4be5ce12c86932779291cae59c0d1849887951fa7eca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kostprijs
+*** en-s-1592820-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabrieksprijs
+*** en-s-1592820-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kostende prijs
+*** en-s-1592820-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kosten
+** Ukrainian glosses
+
+* Sense s-1592820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0a6053f3a29624b6d20f650b9f147b9ff96d4d05f7331246e99ea31c11f4cd8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kosten
+*** en-s-1592820-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Selbstkostenpreis
+*** en-s-1592820-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einkaufspreis
+*** en-s-1592820-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herstellungspreis
+** Ukrainian glosses
+
+* Sense s-1592820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9e32cb2c94129937790d91cbe807959beb0c42a2318a3436da805eb8025f78a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+** Ukrainian glosses
+
+* Sense s-1592820-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 575afea91f2635f3778a4ca4ee69d3e201c586ff2c34814a0692a27373f4342d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: себестоимость
+*** en-s-1592820-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} по себестоимости
+** Ukrainian glosses
+
+* Sense s-1592820-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 0cadbbe2d994e2ff058d5a2c3975f46b03cabe7e40e74a5881dc84d20c53fa83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio de coste
+** Ukrainian glosses
+
+* Sense s-1592820-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ac0c101aa8fe34e2c4fd83ccef2cc2f5f1565ce56767cfbaf2918d3fbc6a61b1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592820-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pris
+*** en-s-1592820-008-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: självkostnadspris
+** Ukrainian glosses
