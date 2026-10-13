@@ -12,6 +12,14 @@ class ValidateEntryCliTest < Minitest::Test
   SCRIPT = File.expand_path('../scripts/validate_entry.rb', __dir__)
   RUBY = RbConfig.ruby
 
+  def test_romanizes_small_e_after_i_for_ascii_entry_filenames
+    assert_equal 'yesu', to_romaji('イェス')
+    assert_equal 'yesu', to_romaji('いぇす')
+    assert romaji_matches?('イェス', 'yesu')
+    refute romaji_matches?('イェス', 'iesu')
+    assert_equal 'iesu', to_romaji('イエス')
+  end
+
   def test_validates_a_single_entry
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory)
