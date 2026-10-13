@@ -1,0 +1,423 @@
+#+TITLE: 指数
+#+JMDICT_ID: 1309860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しすう
+#+ROMAJI: shisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1309860-001
+:PROPERTIES:
+:TEXT: 指数
+:END:
+*** Priorities
+- news1
+- nf05
+** Reading rd-1309860-001
+:PROPERTIES:
+:TEXT: しすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf05
+
+* Sense s-1309860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e37970b3d3c2b8fc030f8fb9cb375f1363ee5eda91d37b7cac89f87f0f553bee
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- index
+- index number
+- indicator
+** Ukrainian glosses
+*** uk-s-1309860-001-001
+:PROPERTIES:
+:END:
+- text :: індекс; показник
+** Learner notes
+*** note-s-1309860-001-001
+:PROPERTIES:
+:END:
+- UK :: Числовий показник, який характеризує стан або зміну явища; часто в економіці, наприклад 物価指数 — індекс цін.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1309860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 物価指数が上がりました。
+- READING :: ぶっかしすうがあがりました。
+- UK :: Індекс цін зріс.
+- FOCUS :: 指数
+*** ex-1309860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この式では、右上の数字が指数です。
+- READING :: このしきでは、みぎうえのすうじがしすうです。
+- UK :: У цій формулі число вгорі праворуч є показником степеня.
+- FOCUS :: 指数
+*** ex-1309860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新聞に載っている物価指数だけでは自分の暮らしへの影響が分からないので、毎月買っている食品の値段も記録して比べることにした。
+- READING :: しんぶんにのっているぶっかしすうだけではじぶんのくらしへのえいきょうがわからないので、まいつきかっているしょくひんのねだんもきろくしてくらべることにした。
+- UK :: Самого індексу цін у газеті недостатньо, щоб зрозуміти вплив на моє життя, тому я вирішив також записувати й порівнювати ціни на продукти, які купую щомісяця.
+- FOCUS :: 指数
+
+* Sense s-1309860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fafc344bbb0bac1c2a84c54601ba9a319e69cede3e09f4172f2e0484b9a73013
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- exponent
+** Ukrainian glosses
+*** uk-s-1309860-002-001
+:PROPERTIES:
+:END:
+- text :: показник степеня
+** Learner notes
+*** note-s-1309860-002-001
+:PROPERTIES:
+:END:
+- UK :: У математиці число, яке вказує, до якого степеня підносять основу; не плутати з економічним індексом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1309860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: af88e469fc247b48c117dc6dfc0893745119acb15b75fb1c77bb299ac4abac92
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} index
+*** en-s-1309860-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indexcijfer
+** Ukrainian glosses
+
+* Sense s-1309860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5d53f65117c111b84718dff729418b9ec834569ef92799e573e77d76d59779a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} exponent
+** Ukrainian glosses
+
+* Sense s-1309860-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 98ba2368eacc7262e10da03bca22dc6ffaf17413493babad26ededeff674430c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {知能の} quotiënt
+** Ukrainian glosses
+
+* Sense s-1309860-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a9523af7aa9abe6cd92f4cade93a34147b244203c077c174060ae523490f2781
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Index
+*** en-s-1309860-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Exponent
+*** en-s-1309860-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hochzahl
+** Ukrainian glosses
+
+* Sense s-1309860-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 673440009232321d1b677ae7f4f09ca3b4d8bbd6cf232014c0a8fe688062a4d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Index
+** Ukrainian glosses
+
+* Sense s-1309860-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 709f290fcad4737be24c7a7f56486aea31371023c13d292c30121237b5f190ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betűrendes mutató
+*** en-s-1309860-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indexszám
+*** en-s-1309860-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelzőkar
+*** en-s-1309860-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelzőszám
+*** en-s-1309860-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kitevő
+*** en-s-1309860-008-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kompasz
+*** en-s-1309860-008-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérlegpálca
+*** en-s-1309860-008-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérőszám
+*** en-s-1309860-008-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutató
+*** en-s-1309860-008-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutatószám
+*** en-s-1309860-008-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutatóujj
+*** en-s-1309860-008-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: névmutató
+*** en-s-1309860-008-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabályozó kar
+*** en-s-1309860-008-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tárgymutató
+*** en-s-1309860-008-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartalommutató
+*** en-s-1309860-008-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tiltott könyvek jegyzéke
+*** en-s-1309860-008-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mutatószám
+*** en-s-1309860-008-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: index
+** Ukrainian glosses
+
+* Sense s-1309860-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 25d5804d9581af150a7d352a9cce87655982551c5a76ef5789765e8745ee67fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: индекс; (мат.) показатель степени; коэффициент
+** Ukrainian glosses
+
+* Sense s-1309860-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: e3689bc676bd27e9af556d624658acd9cac6a3958aa045470fd5557ba887b8e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1309860-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indicador
+*** en-s-1309860-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: índice
+** Ukrainian glosses

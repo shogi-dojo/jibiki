@@ -1,0 +1,418 @@
+#+TITLE: 継承
+#+JMDICT_ID: 1251780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいしょう
+#+ROMAJI: keishou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1251780-001
+:PROPERTIES:
+:TEXT: 継承
+:END:
+*** Priorities
+- news1
+- nf09
+** Reading rd-1251780-001
+:PROPERTIES:
+:TEXT: けいしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf09
+
+* Sense s-1251780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cb7d90944ce4052a46d7fc1a705b00e9613649df343308af31d8a5d7849328de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- inheritance
+- succession
+- accession
+** Ukrainian glosses
+*** uk-s-1251780-001-001
+:PROPERTIES:
+:END:
+- text :: успадкування; наступництво; перейняття; вступ у спадкову роль
+** Learner notes
+*** note-s-1251780-001-001
+:PROPERTIES:
+:END:
+- UK :: Про майно, посаду, традицію або справу, які переходять до наступника.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1251780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 弟子が師の技を継承した。
+- READING :: でしがしのわざをけいしょうした。
+- UK :: Учень перейняв майстерність учителя.
+- FOCUS :: 継承
+*** ex-1251780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域の祭りを次の世代へ継承したい。
+- READING :: ちいきのまつりをつぎのせだいへけいしょうしたい。
+- UK :: Ми хочемо передати місцеве свято наступному поколінню.
+- FOCUS :: 継承
+*** ex-1251780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 伝統の継承は形をそのまま残すことだけではないと考えた若者たちは、古い歌を教わりながら、今の暮らしの中で歌える新しい場も探していた。
+- READING :: でんとうのけいしょうはかたちをそのままのこすことだけではないとかんがえたわかものたちは、ふるいうたをおそわりながら、いまのくらしのなかでうたえるあたらしいばもさがしていた。
+- UK :: Молоді люди, які вважали, що передавання традиції не зводиться до незмінного збереження форми, вивчали давні пісні й водночас шукали нові нагоди співати їх у сучасному житті.
+- FOCUS :: 継承
+
+* Sense s-1251780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d5c211e5f2b43ccaf281394c67ba5575485b7528d39bd24ae8b28c6bc3f0eb50
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- law
+** English glosses
+- share-alike
+** Ukrainian glosses
+*** uk-s-1251780-002-001
+:PROPERTIES:
+:END:
+- text :: поширення на тих самих умовах
+** Learner notes
+*** note-s-1251780-002-001
+:PROPERTIES:
+:END:
+- UK :: У назвах ліцензій вимога зберігати ті самі умови при поширенні похідних творів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1251780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d28fa4539b414d66c15cf0288d7ec3751b7aad895e347068d3fc210c694a94d7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- comp
+** English glosses
+- inheritance
+** Ukrainian glosses
+*** uk-s-1251780-003-001
+:PROPERTIES:
+:END:
+- text :: успадкування (у програмуванні)
+** Learner notes
+*** note-s-1251780-003-001
+:PROPERTIES:
+:END:
+- UK :: Механізм, за якого клас переймає властивості або поведінку іншого класу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1251780-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 195c7de58a40f719e67239330779b6181a0fcd6aaffdc395cd04b0e71490d0bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opvolging
+*** en-s-1251780-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: successie
+*** en-s-1251780-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erfopvolging
+*** en-s-1251780-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {王位の} aanvaarding
+*** en-s-1251780-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opvolgen
+*** en-s-1251780-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erven
+*** en-s-1251780-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: succederen
+*** en-s-1251780-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overerven
+*** en-s-1251780-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {王位を} aanvaarden
+** Ukrainian glosses
+
+* Sense s-1251780-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 102ad32a642067a0f39a7726bcc3895731284f3b01f60871b4517e837f8aec52
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: accession
+*** en-s-1251780-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: héritage
+*** en-s-1251780-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: succession
+** Ukrainian glosses
+
+* Sense s-1251780-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5168edd9a9a66e3ee99e64a40f67462c7c872d763782c9a2816b89af8611adc2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachfolge (in Bezug auf Rang, Recht, Pflicht etc.)
+** Ukrainian glosses
+
+* Sense s-1251780-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8830afccb25019016f3aa34346c4031318f2ebf5d693077356e2369010b85eb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vererbung (in objektorientierten Programmiersprachen)
+*** en-s-1251780-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nachfolgen
+*** en-s-1251780-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf den Thron folgen
+*** en-s-1251780-007-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erben
+** Ukrainian glosses
+
+* Sense s-1251780-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ea018d1353548c7782a341540d2eac00b65435fc70f6755868d01813a551c493
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: követés
+*** en-s-1251780-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öröklés
+*** en-s-1251780-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sorrend
+*** en-s-1251780-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyarapodás
+** Ukrainian glosses
+
+* Sense s-1251780-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 3f5f705a73979053f84b9c474f4b11dc525bb95b8d9d58e19d9a0e5c6c859a08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: наследование
+*** en-s-1251780-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} получать в наследство, наследовать
+** Ukrainian glosses
+
+* Sense s-1251780-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: c8513ce6ebe80b71bb259c57a53667742c42742822f4d93fb078c7f48e5741d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1251780-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herencia
+*** en-s-1251780-010-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sucesión
+*** en-s-1251780-010-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ascenso (al trono)
+** Ukrainian glosses

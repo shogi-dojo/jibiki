@@ -1,0 +1,495 @@
+#+TITLE: 先手
+#+JMDICT_ID: 1387830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんて
+#+ROMAJI: sente
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1387830-001
+:PROPERTIES:
+:TEXT: 先手
+:END:
+*** Priorities
+- news1
+- nf12
+** Reading rd-1387830-001
+:PROPERTIES:
+:TEXT: せんて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1387830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2d3b3e3430bb8c984a386b8351ad3cb130516337c674aced64070de76ae8644a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- moving first
+- person with the first move
+** Ukrainian glosses
+*** uk-s-1387830-001-001
+:PROPERTIES:
+:END:
+- text :: перший хід; гравець, який ходить першим
+** Learner notes
+*** note-s-1387830-001-001
+:PROPERTIES:
+:END:
+- UK :: Про черговість у настільній грі, зокрема сьоґі або ґо; 先手を取る.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1387830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a6558af4c30bb38f6fafc02404c50debf2cad2492e06c1d49a6e8ce59ec0ddbf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 後手・1
+** English glosses
+- forestalling
+- (seizing the) initiative
+** Ukrainian glosses
+*** uk-s-1387830-002-001
+:PROPERTIES:
+:END:
+- text :: ініціатива; випереджальна дія
+** Learner notes
+*** note-s-1387830-002-001
+:PROPERTIES:
+:END:
+- UK :: Про дію раніше за іншого або завчасне реагування; 先手を打つ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1387830-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は私が先手です。
+- READING :: きょうはわたしがせんてです。
+- UK :: Сьогодні я ходжу першим.
+- FOCUS :: 先手
+*** ex-1387830-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 問題が起きる前に先手を打ちます。
+- READING :: もんだいがおきるまえにせんてをうちます。
+- UK :: Ми діятимемо на випередження, поки не виникла проблема.
+- FOCUS :: 先手
+*** ex-1387830-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 混雑する前に先手を打って案内を用意した私たちは、初めて来る人の動きを考え、受付の場所と待つ場所を分けて分かりやすく表示した。
+- READING :: こんざつするまえにせんてをうってあんないをよういしたわたしたちは、はじめてくるひとのうごきをかんがえ、うけつけのばしょとまつばしょをわけてわかりやすくひょうじした。
+- UK :: Завчасно підготувавши навігацію до напливу людей, ми врахували рух нових відвідувачів, розділили прийом і очікування та зрозуміло позначили їх.
+- FOCUS :: 先手
+
+* Sense s-1387830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7df70c1ea4f0bc8b985e27e39a448095f07a54b07ce703baa7cf2cbfeec52a97
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+- shogi
+*** Cross-references
+- 後手・3
+** English glosses
+- sente
+*** en-s-1387830-003-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: move that forces a response from the opponent, allowing the player to retain the initiative
+** Ukrainian glosses
+*** uk-s-1387830-003-001
+:PROPERTIES:
+:END:
+- text :: сенте; хід, що змушує суперника відповісти
+** Learner notes
+*** note-s-1387830-003-001
+:PROPERTIES:
+:END:
+- UK :: Термін ґо: хід, який зберігає ініціативу завдяки необхідній відповіді суперника.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1387830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b43513a9eea211d7c68b0b6cb7adce9d56a53bdf03a390b3809202a15ad25a62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {go
+*** en-s-1387830-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: shōgi} speler die aan de voorhand is
+*** en-s-1387830-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zit
+*** en-s-1387830-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: degene die het eerst moet uitspelen
+*** en-s-1387830-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} openingszet
+*** en-s-1387830-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eerste zet
+*** en-s-1387830-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanzet
+*** en-s-1387830-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {biljart} acquit
+** Ukrainian glosses
+
+* Sense s-1387830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b3e7da7513e40540a1978934aed71c201a37d1bb711afa27bb062cab3b742bd0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: initiatief
+*** en-s-1387830-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het vóór zijn
+*** en-s-1387830-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voortouw
+*** en-s-1387830-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lead
+** Ukrainian glosses
+
+* Sense s-1387830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 975c3e24c664d027c13dae66b4aa6a94059be3b8b71f5116d617e2ddacef026a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anticipatie
+*** en-s-1387830-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het vooruitlopen
+** Ukrainian glosses
+
+* Sense s-1387830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 98edb9380b7ad7466990e4780c750d1623317934ebfef6fa4fcf52a0dbff66ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {mil.} voorhoede
+*** en-s-1387830-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spits
+*** en-s-1387830-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avant-garde
+** Ukrainian glosses
+
+* Sense s-1387830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c1da0228ccdaa45981c515a223a550543a7badd2f9c37ec6ccfe916f2c199773
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Initiative
+*** en-s-1387830-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuvorkommen
+** Ukrainian glosses
+
+* Sense s-1387830-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 392135f61079bb5ae8101d920c0effb6f517636d56cad24c619d4e493373bff6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erster Zug
+*** en-s-1387830-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anzug
+** Ukrainian glosses
+
+* Sense s-1387830-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 53cf425b700d5102622226f7fae3ddbef8a73b333f95c0e077e47f7d6447d0e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anziehender
+** Ukrainian glosses
+
+* Sense s-1387830-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 8dedcab4e87410765e38500a805a4465c5302a8bccd929ac50ead146ae678c73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevezető
+*** en-s-1387830-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kezdeti
+** Ukrainian glosses
+
+* Sense s-1387830-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ae9fb30f0a629dd2ef7a3a77796ca7c6f19bf4b92bb3ff9b3b0cfaef2a945827
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первый ход (в го, шахматах и т. п.)
+** Ukrainian glosses
+
+* Sense s-1387830-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 1e3e268272fdf0f3b498256404da4066d09136b7651517668a8a1b096f349802
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1387830-013-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anticipación
+*** en-s-1387830-013-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: iniciativa
+*** en-s-1387830-013-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vanguardia de un ejército
+*** en-s-1387830-013-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mano (cartas)
+*** en-s-1387830-013-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: persona que abre una partida
+*** en-s-1387830-013-006
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jugador que sale primero (ajedrez, damas, shogi)
+** Ukrainian glosses

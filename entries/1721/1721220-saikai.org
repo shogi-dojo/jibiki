@@ -1,0 +1,192 @@
+#+TITLE: 最下位
+#+JMDICT_ID: 1721220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいかい
+#+ROMAJI: saikai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1721220-001
+:PROPERTIES:
+:TEXT: 最下位
+:END:
+** Reading rd-1721220-001
+:PROPERTIES:
+:TEXT: さいかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1721220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 590f023b66e0e52ce0678d54d2c708db5126de27f41ae421f63104a6d4f38f54
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- last place
+- lowest position
+- lowest rank
+** Ukrainian glosses
+*** uk-s-1721220-001-001
+:PROPERTIES:
+:END:
+- text :: останнє місце; найнижча позиція; найнижчий ранг
+** Learner notes
+*** note-s-1721220-001-001
+:PROPERTIES:
+:END:
+- UK :: Про позицію в рейтингу або змаганні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1721220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: チームは最下位でした。
+- READING :: ちーむはさいかいでした。
+- UK :: Команда посіла останнє місце.
+- FOCUS :: 最下位
+*** ex-1721220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 授業で最下位ビットを確認しました。
+- READING :: じゅぎょうでさいかいびっとをかくにんしました。
+- UK :: На уроці ми перевірили найменш значущий біт.
+- FOCUS :: 最下位
+*** ex-1721220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最下位という結果に落ち込んだ私たちは、順位だけで練習の価値を決めず、前よりできるようになった点を確かめて次の目標を相談した。
+- READING :: さいかいというけっかにおちこんだわたしたちは、じゅんいだけでれんしゅうのかちをきめず、まえよりできるようになったてんをたしかめてつぎのもくひょうをそうだんした。
+- UK :: Засмутившись останнім місцем, ми не оцінили вправи лише за рейтингом, перевірили поступ і обговорили наступну мету.
+- FOCUS :: 最下位
+
+* Sense s-1721220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 29188a93853db69520ec2baf79875195e4a63a79a9033cd95569c5e5ab00419a
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+*** Fields
+- comp
+** English glosses
+- least significant (bit)
+- lowest order
+** Ukrainian glosses
+*** uk-s-1721220-002-001
+:PROPERTIES:
+:END:
+- text :: наймолодший розряд; найменш значущий біт
+** Learner notes
+*** note-s-1721220-002-001
+:PROPERTIES:
+:END:
+- UK :: Технічне значення в обчисленнях; 最下位ビット.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1721220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c4e2f3f2fe77fdab764bbc685443c4c0d3d6c3763416c143af1782907f9b3796
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1721220-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niedrigste Stellung
+*** en-s-1721220-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niedrigster Rang
+*** en-s-1721220-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: letzte Position
+** Ukrainian glosses
+
+* Sense s-1721220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 60bcc5e24fe8cfcace16c06165ca48dff2151aebbba357019653f6d83b6d675e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1721220-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alapzat
+*** en-s-1721220-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legutolsó
+** Ukrainian glosses
+
+* Sense s-1721220-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 93934cea209120f691fc3df9b8b2956e4941762b7e26042c48ee37c0c0c3113a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1721220-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: самый низший разряд; последнее место
+*** en-s-1721220-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～である} занять последнее место (напр. в соревнованиях)
+** Ukrainian glosses

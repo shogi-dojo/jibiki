@@ -1,0 +1,254 @@
+#+TITLE: 医院
+#+JMDICT_ID: 1159730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いいん
+#+ROMAJI: iin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-11
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1159730-001
+:PROPERTIES:
+:TEXT: 医院
+:END:
+*** Priorities
+- news1
+- nf12
+** Written form wf-1159730-002
+:PROPERTIES:
+:TEXT: 醫院
+:END:
+*** Information
+- sK
+** Reading rd-1159730-001
+:PROPERTIES:
+:TEXT: いいん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1159730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3ba954b4772285e32b15636f7760de67f17b3acb1b2f2948e9568e435fb9edc3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- doctor's office
+- doctor's surgery
+- clinic
+** Ukrainian glosses
+*** uk-s-1159730-001-001
+:PROPERTIES:
+:END:
+- text :: лікарський кабінет; невелика клініка
+** Learner notes
+*** note-s-1159730-001-001
+:PROPERTIES:
+:END:
+- UK :: Невеликий медичний заклад, часто приватна лікарська практика.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1159730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 近くの医院へ行った。
+- READING :: ちかくのいいんへいった。
+- UK :: Я пішов до найближчої клініки.
+- FOCUS :: 医院
+*** ex-1159730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医院の受付で名前を伝えた。
+- READING :: いいんのうけつけでなまえをつたえた。
+- UK :: Я назвав ім’я в реєстратурі клініки.
+- FOCUS :: 医院
+*** ex-1159730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初めて近所の医院を訪ねる女性は、診療の時間と予約の必要があるかを電話で確かめ、持っていく書類を前日にまとめておいた。
+- READING :: はじめてきんじょのいいんをたずねるじょせいは、しんりょうのじかんとよやくのひつようがあるかをでんわでたしかめ、もっていくしょるいをぜんじつにまとめておいた。
+- UK :: Перед першим візитом до місцевої клініки жінка уточнила години й потребу в записі та підготувала документи.
+- FOCUS :: 医院
+
+* Sense s-1159730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 333c642c758bc031f3391bd7093d9d94c879b4abc69c2536b98a15457456ddc3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159730-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dokterspraktijk
+*** en-s-1159730-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: praktijk
+*** en-s-1159730-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kliniek
+*** en-s-1159730-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} dokterskabinet
+*** en-s-1159730-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} kabinet
+** Ukrainian glosses
+
+* Sense s-1159730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03cddadcae0a9406cdf1aebeb4516d131bed35f2a2f3a4cc09ed91806a94ca4b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159730-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Privatklinik
+*** en-s-1159730-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Privatpraxis
+*** en-s-1159730-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Praxis eines niedergelassenen Arztes
+*** en-s-1159730-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arztpraxis
+** Ukrainian glosses
+
+* Sense s-1159730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f2cc6c7de59be8fb6072987b5df55428f00240c2a88fb3c9bb52c1b02292c332
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159730-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszertár
+** Ukrainian glosses
+
+* Sense s-1159730-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 07b8561d41ada219a3962af1292d148fcc8dd2ededf2e70da3a8e430ca1a547d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159730-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: амбулатория
+** Ukrainian glosses
+
+* Sense s-1159730-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 81f3d196e0adf5760296c08e93d77376a6cd94743854d6381271a5048fc49d94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1159730-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oficina del doctor (cirugía)
+*** en-s-1159730-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: clínica
+*** en-s-1159730-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dispensario
+** Ukrainian glosses

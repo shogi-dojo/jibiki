@@ -1,0 +1,290 @@
+#+TITLE: 仕分け
+#+JMDICT_ID: 1595100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しわけ
+#+ROMAJI: shiwake
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1595100-001
+:PROPERTIES:
+:TEXT: 仕分け
+:END:
+*** Priorities
+- news2
+- nf29
+** Written form wf-1595100-002
+:PROPERTIES:
+:TEXT: 仕訳
+:END:
+** Written form wf-1595100-003
+:PROPERTIES:
+:TEXT: 仕分
+:END:
+** Reading rd-1595100-001
+:PROPERTIES:
+:TEXT: しわけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf29
+
+* Sense s-1595100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e31dde4f48228f1a93f9296f6d825a598fe79f5fe618b92ac6dcf7183d99ea22
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- classification
+- sorting (out)
+- grouping
+- assortment
+** Ukrainian glosses
+*** uk-s-1595100-001-001
+:PROPERTIES:
+:END:
+- text :: сортування; розподіл за категоріями
+** Learner notes
+*** note-s-1595100-001-001
+:PROPERTIES:
+:END:
+- UK :: Уживається про розподіл речей, документів або інших об’єктів на групи за визначеною ознакою; 仕分けする — сортувати.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1595100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 荷物の仕分けを手伝います。
+- READING :: にもつのしわけをてつだいます。
+- UK :: Я допоможу сортувати вантажі.
+- FOCUS :: 仕分け
+*** ex-1595100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この機械は、郵便物の仕分けに使います。
+- READING :: このきかいは、ゆうびんぶつのしわけにつかいます。
+- UK :: Цю машину використовують для сортування пошти.
+- FOCUS :: 仕分け
+*** ex-1595100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 配達先を間違えないように、倉庫では荷物の仕分けを二人で確認し、住所が読みにくいものは別の場所に集めて調べることにした。
+- READING :: はいたつさきをまちがえないように、そうこではにもつのしわけをふたりでかくにんし、じゅうしょがよみにくいものはべつのばしょにあつめてしらべることにした。
+- UK :: Щоб не помилятися з адресами доставки, на складі вирішили перевіряти сортування вдвох, а пакунки з нерозбірливими адресами збирати окремо й додатково перевіряти.
+- FOCUS :: 仕分け
+
+* Sense s-1595100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d51276719f37be85c92dc33bb9c2568357252d54febca24d0569b4c0ff01a273
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- assortment journalizing (in bookkeeping)
+** Ukrainian glosses
+*** uk-s-1595100-002-001
+:PROPERTIES:
+:END:
+- text :: рознесення операцій у бухгалтерському журналі
+** Learner notes
+*** note-s-1595100-002-001
+:PROPERTIES:
+:END:
+- UK :: У бухгалтерії означає класифікацію й запис господарських операцій за рахунками; у цьому значенні поширене написання 仕訳.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1595100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3f5dec0b99bfe7cc0eeccee627c0e66f0ea343bf175b83285e85dd8a5d878b02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1595100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einteilung
+*** en-s-1595100-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Klassifikation
+*** en-s-1595100-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sortieren
+*** en-s-1595100-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sortierung
+*** en-s-1595100-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuteilung
+** Ukrainian glosses
+
+* Sense s-1595100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1b81043ad44d2832a024436cbfa1f585b118f3124d5ca60460696635b99d9bea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1595100-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eintragung in das Journal
+*** en-s-1595100-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einteilen
+*** en-s-1595100-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klassifizieren
+*** en-s-1595100-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eintragen
+*** en-s-1595100-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sortieren
+*** en-s-1595100-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zuteilen
+** Ukrainian glosses
+
+* Sense s-1595100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a6bdc19934dde751c66fb5f37b1aeed77914ae327a15358e41ed9ad18e235f55
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1595100-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: besorolás
+** Ukrainian glosses
+
+* Sense s-1595100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f639398e66dd0a937e81b48de8e633e670f1b58a0460f648d0b5a8d41a35bc02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1595100-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) сортировка; классификация
+*** en-s-1595100-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} сортировать, классифицировать
+*** en-s-1595100-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (бухг.) внесение (в журнал, книгу)
+*** en-s-1595100-006-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} заносить
+** Ukrainian glosses

@@ -1,0 +1,253 @@
+#+TITLE: 書庫
+#+JMDICT_ID: 1344020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょこ
+#+ROMAJI: shoko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1344020-001
+:PROPERTIES:
+:TEXT: 書庫
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1344020-001
+:PROPERTIES:
+:TEXT: しょこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1344020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 25204985c7c4894fc5a3eadb4ff19460056d600dddf2308bbe664a6668a86dff
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- library
+- book storage
+- stack room
+** Ukrainian glosses
+*** uk-s-1344020-001-001
+:PROPERTIES:
+:END:
+- text :: книгосховище; приміщення для зберігання книжок
+** Learner notes
+*** note-s-1344020-001-001
+:PROPERTIES:
+:END:
+- UK :: Про місце, де зберігають книжки, зокрема закритий фонд бібліотеки; відрізняється від читальної зали.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1344020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い本は書庫にあります。
+- READING :: ふるいほんはしょこにあります。
+- UK :: Старі книжки зберігаються в книгосховищі.
+- FOCUS :: 書庫
+*** ex-1344020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 必要な資料を、書庫から出してもらいました。
+- READING :: ひつようなしりょうを、しょこからだしてもらいました。
+- UK :: Мені принесли потрібні матеріали з книгосховища.
+- FOCUS :: 書庫
+*** ex-1344020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 図書館の書庫には地元の歴史を記録した本が多く保管されており、職員に相談すると、調べたい年代に合う資料を探してもらえた。
+- READING :: としょかんのしょこにはじもとのれきしをきろくしたほんがおおくほかんされており、しょくいんにそうだんすると、しらべたいねんだいにあうしりょうをさがしてもらえた。
+- UK :: У книгосховищі бібліотеки зберігається багато книжок про місцеву історію, і після звернення до працівника мені допомогли знайти матеріали про потрібний період.
+- FOCUS :: 書庫
+
+* Sense s-1344020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3c0e05aaba2f2f2ee746406e849ac95a844ca319a5335eb633dda46ddcf5b56d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+*** Cross-references
+- アーカイブ
+** English glosses
+- archive (file)
+** Ukrainian glosses
+*** uk-s-1344020-002-001
+:PROPERTIES:
+:END:
+- text :: архівний файл; архів
+** Learner notes
+*** note-s-1344020-002-001
+:PROPERTIES:
+:END:
+- UK :: У комп’ютерному контексті — файл, який містить упаковані файли; часто стиснений архів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1344020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cb95aee572d5e43b0db066047c91661b7e816a9362af97cf79a64da30031388b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bibliotheek
+*** en-s-1344020-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boekendepot
+*** en-s-1344020-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boekenmagazijn
+** Ukrainian glosses
+
+* Sense s-1344020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ea2a5ba6938a1f346da5a4d8cc6a851a7ca0620d2d98e15d8ce8e117cc9eaf70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} archief
+** Ukrainian glosses
+
+* Sense s-1344020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e7b30b875a444195096f2c6bd684e18a1c42873a6238715a1944d044f8c5e86a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bibliothek
+*** en-s-1344020-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bücherraum
+*** en-s-1344020-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Büchermagazin
+** Ukrainian glosses
+
+* Sense s-1344020-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1cd1fbbd280d99b69e0c55de6215094529e13563853b01376a69241117efa240
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Archiv
+** Ukrainian glosses
+
+* Sense s-1344020-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b2544ef425d0003f915556d2186e0a66b36d90a33de81cde805db0fb7c563689
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: библиотека; книгохранилище
+** Ukrainian glosses
+
+* Sense s-1344020-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 3b825b853adbaad3862755bbcdbd744f1380a24ca75e2f759a6a6904d2105280
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1344020-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: archivo (fichero)
+** Ukrainian glosses

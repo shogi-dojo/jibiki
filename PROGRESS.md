@@ -11495,3 +11495,168 @@ counts are separate from the final validation scope described above.
 | 29 | Wiktionary N1 1834 | [等](entries/1582/1582305-tou.org) | とう | 1582305 | new / draft |
 | 29 | Wiktionary N1 1835 | [棟](entries/1448/1448340-tou.org) | とう | 1448340 | new / draft |
 | 29 | Wiktionary N1 1862 | [説く](entries/1386/1386420-toku.org) | とく | 1386420 | new / draft |
+
+
+## N1 PR #15 — 200 new entries (2026-10-10)
+
+PR #14 was merged with commit `0b2ea952813eed34943c526784e81b4d4ae33e37`.
+Branch `codex/add-200-n1-words` adds **200 distinct N1 study-list entries**
+from that merged `main`, in **20 batches of ten**, with one entry per addition
+commit. A separate correction commit refines a ノイローゼ example.
+
+The entries contain **284 Ukrainian gloss blocks**, **284 usage notes**, and
+**600 distinct original Japanese examples with kana readings and Ukrainian
+translations**. Each selected primary sense has three graded examples,
+including a long contextual sentence (at least 53 Japanese characters; mean 61.4).
+Entries remain `learner` / `draft` pending independent linguistic review.
+
+All 200 entries pass validation, Org lint, and doctor (zero errors or warnings,
+mean health score 100/100). The final audit verifies unique entry IDs, unique
+examples, one-entry addition commits, and preservation of canonical JMdict
+forms, readings, senses, restrictions, and glosses. The repository test suite
+passes with 154 tests and no failures or errors.
+
+The exact source rows, URLs, checksums, entry paths, and addition commits are
+recorded in [`docs/n1-200-2026-10-10.tsv`](docs/n1-200-2026-10-10.tsv).
+Sources are Open Anki N1 and TodayJLPT N1 lexical lists; the levels are
+study-list assignments rather than an official JLPT syllabus. Ukrainian
+content and examples are independently authored. The two pre-existing
+untracked files remain outside this work.
+
+
+## N1 PR #15 — additional 500-word continuation (2026-10-10)
+
+The earlier 500-word continuation after checkpoint
+`f3ab2428c0d6de7c5975c1ce56152707bfbae72e` is now complete:
+**500/500 committed entries in 50 batches of ten**. The first four batches
+of the new 200-word goal below completed its remaining 40 entries.
+Each addition commit contains exactly one entry.
+
+These 500 entries contain **785 Ukrainian gloss blocks and usage notes**,
+and **1500 distinct original Japanese examples** with kana readings and
+Ukrainian translations. Each entry has three graded examples, including a
+contextual sentence of at least 54 Japanese characters (mean 63.4).
+Entries remain `learner` / `draft` pending independent linguistic review.
+
+All 500 entries pass validation, Org lint, and doctor with zero errors or
+warnings and a 100/100 mean doctor score. Canonical JMdict metadata and
+archived lexical source identities are preserved. The complete entry paths,
+source URLs, checksums, and addition commits are recorded in
+[docs/n1-next500-2026-10-10.tsv](docs/n1-next500-2026-10-10.tsv).
+N1 labels are study-list assignments.
+
+The repository test suite passed after the new 200-word goal completed:
+154 tests, 30,734 assertions, zero failures or errors.
+The two pre-existing untracked files remain outside this work.
+
+
+## New 100-word N1 goal (2026-10-10)
+
+Added **100 new N1 study-list entries in ten batches of ten**, continuing after
+`ee588e64` (充当), from 終盤 through 砂浜. Each word has its own addition commit.
+The batch ledger is [docs/n1-goal100-2026-10-10.tsv](docs/n1-goal100-2026-10-10.tsv).
+
+These entries contain **150 Ukrainian gloss blocks and usage notes**, and
+**300 unique original Japanese examples**, each with a kana reading and
+Ukrainian translation. Every entry has three graded examples; contextual
+examples have at least 56 Japanese characters. JMdict validation, Org lint,
+and doctor pass for all 100 entries with zero errors or warnings and a
+100/100 mean health score. Canonical derived JMdict metadata is preserved.
+The entries remain `learner` / `draft` pending linguistic review.
+
+Repository tests pass: **154 tests, 30,134 assertions, zero failures or errors**.
+The two pre-existing untracked files were preserved outside this goal.
+
+
+## New 200-word N1 goal (2026-10-10)
+
+Goal baseline: `bf448e416e129d85fe777b7dc51c5533f9dde2fe`. Added **200 new N1 study-list entries** in
+**twenty batches of ten**, with one addition commit per word.
+**200/200 entries are committed in 20 batches; 0 remain.**
+
+Completed entries run from 寸前 through 提唱. They contain **297 Ukrainian
+gloss blocks and usage notes**, and **600 distinct original Japanese examples**
+with kana readings and Ukrainian translations. Each entry has three graded
+examples, including a contextual sentence of at least 54 Japanese characters.
+Canonical JMdict metadata is preserved. Entries remain `learner` / `draft`
+pending independent linguistic review.
+
+All 200 completed entries pass JMdict validation, Org lint, and doctor, with
+zero errors or warnings and a 100/100 mean doctor score. The repository test
+suite passes (154 tests, 30,734 assertions, zero failures or errors).
+
+The full 200-word selection is recorded in
+[docs/n1-goal200-2026-10-10.tsv](docs/n1-goal200-2026-10-10.tsv).
+All 200 addition commits are recorded. All source identities and archived N1
+page checksums are verified. The goal is complete; the two pre-existing
+untracked files remain untouched.
+
+
+## New Anki N1 selection (2026-10-11)
+
+Baseline: `69b208485b259589355d0b941e4f15d3b9337598`. **500/500 new entries are committed in 50 batches of ten**,
+with one addition commit per word. Completed entries run from 頻発 through
+起用. They contain **500 Ukrainian gloss blocks and usage notes**,
+plus **1500 distinct original Japanese examples** with kana readings and
+Ukrainian translations. The contextual examples have at least 53
+Japanese characters. Entries remain `learner` / `draft` pending independent
+linguistic review. The first 100 are also recorded in
+[docs/n1-goal100-2026-10-11.tsv](docs/n1-goal100-2026-10-11.tsv).
+
+Selection uses the N1 section of
+[Egg rolls JLPT10k](https://github.com/5mdld/anki-jlpt-decks), a community
+study list rather than an official JLPT vocabulary specification. Only vocabulary
+identities, readings, and level tags are used from the deck; Ukrainian text and
+examples are authored independently from canonical JMdict senses. Exact source
+rows, GUIDs, tags, and the archived CSV SHA-256 are recorded in the ledger.
+Canonical JMdict forms, readings, senses, restrictions, and glosses are preserved.
+
+All 500 completed entries pass JMdict validation, Org lint, doctor (100/100,
+no errors or warnings), and the derived metadata audit. The repository suite
+passes with 154 tests, 32,234 assertions, and zero failures or errors.
+
+The 500-word goal is **complete: 500 entries, fifty batches, zero remaining**.
+The full selection is in
+[docs/n1-goal500-2026-10-11.tsv](docs/n1-goal500-2026-10-11.tsv). All 500 addition
+commits, source rows, and archived source checksums are verified. Every selected
+JMdict ID was absent at the goal baseline.
+All fifty batches are complete.
+Local helper files and canonical source data are retained under ignored
+`tmp/n1-goal500-*`. The two pre-existing untracked files remain untouched.
+
+
+## New 1000-word N1 goal (2026-10-11)
+
+Goal baseline: `6a973e0f1beb5d0d8daed77e702e10994d2f99a3`. Add **1000 additional N1 study-list entries** in
+**one hundred batches of ten**, with one addition commit per word.
+**1000/1000 entries are committed in 100 batches; 0 remain.**
+
+Completed entries run from 班 through 及び腰. They contain
+**1738 Ukrainian gloss blocks and usage notes**, covering every English
+JMdict sense, and **3000 distinct original Japanese examples** with kana
+readings and Ukrainian translations. Each entry has three graded examples,
+including a contextual sentence of at least 53 Japanese characters.
+Canonical JMdict metadata is preserved. Entries retain the `learner` quality
+profile and `draft` status pending independent linguistic review.
+
+All 1000 completed entries pass JMdict validation, Org lint, doctor (100/100,
+no errors or warnings), and the derived metadata audit. The repository suite
+passes with 154 tests and zero failures or errors.
+
+Selection uses the N1 section of
+[Egg rolls JLPT10k](https://github.com/5mdld/anki-jlpt-decks). This is a
+community study-list classification. Only vocabulary identities, readings, and
+level tags are used from the deck; Ukrainian text and examples are independently
+authored from canonical JMdict senses. The full selection is recorded in
+[docs/n1-goal1000-2026-10-11.tsv](docs/n1-goal1000-2026-10-11.tsv).
+All 1000 selected IDs were absent at the new baseline; no completed 500-word
+goal entries are counted again. Two homonym mismatches were corrected; see
+[identity corrections](docs/n1-goal1000-identity-corrections.json). The incorrectly
+selected interjection はいはい was removed and replaced with 上辺; pending
+さらす was replaced with 手荷物. Neither existing correct homonym is counted.
+Every source row, GUID, tag, and archived
+CSV checksum is verified. Empty addition-commit fields denote pending entries.
+All one hundred batches are complete. The full 1000-entry validation and
+[completion audit](docs/n1-goal1000-completion-audit.md) verify the final scope.
+Helper files and canonical source data are retained under ignored
+`tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.

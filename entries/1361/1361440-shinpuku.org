@@ -1,0 +1,271 @@
+#+TITLE: 振幅
+#+JMDICT_ID: 1361440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんぷく
+#+ROMAJI: shinpuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1361440-001
+:PROPERTIES:
+:TEXT: 振幅
+:END:
+*** Priorities
+- news2
+- nf30
+- spec2
+** Written form wf-1361440-002
+:PROPERTIES:
+:TEXT: 振り幅
+:END:
+** Reading rd-1361440-001
+:PROPERTIES:
+:TEXT: しんぷく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 振幅
+*** Priorities
+- news2
+- nf30
+- spec2
+** Reading rd-1361440-002
+:PROPERTIES:
+:TEXT: ふりはば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1361440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 93b4edcd2b44d3126aee6e2ec5a78dc8f2398bd09ad6ab7875e631205dabb072
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- amplitude (of vibration)
+** Ukrainian glosses
+*** uk-s-1361440-001-001
+:PROPERTIES:
+:END:
+- text :: амплітуда коливання
+** Learner notes
+*** note-s-1361440-001-001
+:PROPERTIES:
+:END:
+- UK :: 振幅が大きい — амплітуда велика; відхилення від положення рівноваги.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1361440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 振幅を測定した。
+- READING :: しんぷくをそくていした。
+- UK :: Ми виміряли амплітуду.
+- FOCUS :: 振幅
+*** ex-1361440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 振幅が小さくなる様子を観察した。
+- READING :: しんぷくがちいさくなるようすをかんさつした。
+- UK :: Ми спостерігали зменшення амплітуди.
+- FOCUS :: 振幅
+*** ex-1361440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 振り子の振幅が次第に小さくなる実験で、学生たちは一定の時間ごとに位置を記録し、揺れが弱まる過程をグラフに表して比較した。
+- READING :: ふりこのしんぷくがしだいにちいさくなるじっけんで、がくせいたちはいっていのじかんごとにいちをきろくし、ゆれがよわまるかていをぐらふにあらわしてひかくした。
+- UK :: В експерименті з поступовим зменшенням амплітуди маятника студенти через рівні проміжки часу записували положення й порівнювали графіки послаблення коливань.
+- FOCUS :: 振幅
+
+* Sense s-1361440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b6aab1ec974aad2c5850e42f6c707e496713b203ece86b1a48db2bda12f5fbde
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- ふりはば
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 振れ幅・2
+** English glosses
+- (degree of) instability
+- volatility
+- fluctuation
+- variation
+- swing
+** Ukrainian glosses
+*** uk-s-1361440-002-001
+:PROPERTIES:
+:END:
+- text :: розмах коливань; мінливість; нестабільність
+** Learner notes
+*** note-s-1361440-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносне значення змін ціни, настрою або інших показників.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1361440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 71331125a21349971a3a03ced55e3abb7bd22684dd8dea03d287b4b81b5697ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361440-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} slingerwijdte
+*** en-s-1361440-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amplitude
+*** en-s-1361440-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} amplitude
+*** en-s-1361440-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: slingerwijdte
+** Ukrainian glosses
+
+* Sense s-1361440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b3023e8d51ccadc7322ef6c783165d442179cb5a45de0f6ae3a3ab3567d70462
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361440-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amplitude (d'une oscillation, d'un pendule)
+** Ukrainian glosses
+
+* Sense s-1361440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2ea706576fcaa6bd7ed2654c0f8fe5ad025dc7725180e3643578310cd715aa7c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361440-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amplitude
+*** en-s-1361440-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schwingungsweite
+** Ukrainian glosses
+
+* Sense s-1361440-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2269fe9e564fe7d944cc76d48c612e0aae59a37ae24953a3cb6c940bf1d583c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361440-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: amplitúdó
+*** en-s-1361440-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bőség
+*** en-s-1361440-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagyság
+** Ukrainian glosses
+
+* Sense s-1361440-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c183b65eec7ea0f774271b055af1d413767966126282116f7707ba00480b642f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1361440-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) амплитуда [колебаний]
+** Ukrainian glosses

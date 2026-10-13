@@ -1,0 +1,249 @@
+#+TITLE: 海豚
+#+JMDICT_ID: 1201670
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いるか
+#+ROMAJI: iruka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-10
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1201670-001
+:PROPERTIES:
+:TEXT: 海豚
+:END:
+*** Information
+- rK
+** Reading rd-1201670-001
+:PROPERTIES:
+:TEXT: いるか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+*** Priorities
+- spec1
+** Reading rd-1201670-002
+:PROPERTIES:
+:TEXT: イルカ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1201670-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6b8077ee5afd9b20fea02510ff3e7e343549055edd024f6747224e96f3caad03
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- dolphin (or other small toothed whales, incl. porpoises, belugas, etc.)
+** Ukrainian glosses
+*** uk-s-1201670-001-001
+:PROPERTIES:
+:END:
+- text :: дельфін; невеликий зубатий кит
+** Learner notes
+*** note-s-1201670-001-001
+:PROPERTIES:
+:END:
+- UK :: Звичайний запис イルカ; 海豚 — ієрогліфічний варіант. Японська назва може охоплювати й деяких інших невеликих зубатих китів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1201670-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 船から、遠くを泳ぐイルカが見えました。
+- READING :: ふねから、とおくをおよぐいるかがみえました。
+- UK :: Із судна було видно дельфінів, які пливли далеко.
+- FOCUS :: イルカ
+*** ex-1201670-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: イルカの絵を見て、子供が体の形を比べていた。
+- READING :: いるかのえをみて、こどもがからだのかたちをくらべていた。
+- UK :: Розглядаючи зображення дельфінів, дитина порівнювала форму тіла.
+- FOCUS :: イルカ
+*** ex-1201670-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海の生き物を紹介する展示でイルカの模型を見た学生は、同じ海に暮らしていても体の形や動き方が違うことに興味を持った。
+- READING :: うみのいきものをしょうかいするてんじでいるかのもけいをみたがくせいは、おなじうみにくらしていてもからだのかたちやうごきかたがちがうことにきょうみをもった。
+- UK :: На виставці морських істот студент побачив модель дельфіна й зацікавився різними формами тіла та рухами навіть у мешканців того самого моря.
+- FOCUS :: イルカ
+
+* Sense s-1201670-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0668428fe4b858d1bbf414e1ac86a55d41167fb4171069657cad49acefa00aa3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201670-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} dolfijn
+*** en-s-1201670-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: flipper
+*** en-s-1201670-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Delphinus delphis
+** Ukrainian glosses
+
+* Sense s-1201670-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 045d93ee92856780906c461df364de292a0458e9b5df2d76abf7d9698e2d646f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201670-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Delphin
+** Ukrainian glosses
+
+* Sense s-1201670-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b8db5f23641d1dc42ea1123f48523d81c7c2c8684ea890a95881ec571362b4e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201670-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ágyúcsőfogantyú
+*** en-s-1201670-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arany makrahal
+*** en-s-1201670-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delfin hajókikötőbak
+*** en-s-1201670-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delfin kikötőbak
+*** en-s-1201670-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delfin
+*** en-s-1201670-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kikötőbója
+** Ukrainian glosses
+
+* Sense s-1201670-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3392170173419a8c2abca1863b72335a7687d68bc736e29b8f9a2b7bc1712e68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201670-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) дельфины
+*** en-s-1201670-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) дельфин Дюссюмьера, Delphinus dussumieri (Blanford.)
+** Ukrainian glosses
+
+* Sense s-1201670-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0d98d432fa7a79d1c7594159771748ac8f6e6f5e88474a9948a413a97833f15e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201670-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delfín
+** Ukrainian glosses

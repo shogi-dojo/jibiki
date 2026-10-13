@@ -1,0 +1,753 @@
+#+TITLE: 摘出
+#+JMDICT_ID: 1437070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てきしゅつ
+#+ROMAJI: tekishutsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1437070-001
+:PROPERTIES:
+:TEXT: 摘出
+:END:
+*** Priorities
+- news1
+- nf13
+** Written form wf-1437070-002
+:PROPERTIES:
+:TEXT: 剔出
+:END:
+*** Information
+- rK
+** Reading rd-1437070-001
+:PROPERTIES:
+:TEXT: てきしゅつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf13
+
+* Sense s-1437070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 756d6fe7184208d811f0df0c2d370d657f6cad141b1e3db975b26807d66e7889
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- picking out
+- taking out
+- (surgical) removal
+** Ukrainian glosses
+*** uk-s-1437070-001-001
+:PROPERTIES:
+:END:
+- text :: видалення; виймання; хірургічне видалення
+** Learner notes
+*** note-s-1437070-001-001
+:PROPERTIES:
+:END:
+- UK :: Про вилучення певної частини або об’єкта; у медицині — видалення тканини, органа чи утворення під час операції.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1437070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師は摘出した組織を調べました。
+- READING :: いしはてきしゅつしたそしきをしらべました。
+- UK :: Лікар дослідив видалену тканину.
+- FOCUS :: 摘出
+*** ex-1437070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 摘出した部品を、別の箱に入れてください。
+- READING :: てきしゅつしたぶひんを、べつのはこにいれてください。
+- UK :: Покладіть вийняті деталі в іншу коробку.
+- FOCUS :: 摘出
+*** ex-1437070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 手術の前に、医師は摘出する部分とその理由を図で説明し、患者が納得して質問できるように、難しい言葉を避けて丁寧に話した。
+- READING :: しゅじゅつのまえに、いしはてきしゅつするぶぶんとそのりゆうをずでせつめいし、かんじゃがなっとくしてしつもんできるように、むずかしいことばをさけてていねいにはなした。
+- UK :: Перед операцією лікар за допомогою схеми пояснив, яку частину видалятимуть і чому, та уважно говорив без складних термінів, щоб пацієнт міг зрозуміти й поставити запитання.
+- FOCUS :: 摘出
+
+* Sense s-1437070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 40e7fe648cd1f401ed458a580bb554034a28cdc55ea6088d59733ef7f27a00ed
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- exposure
+** Ukrainian glosses
+*** uk-s-1437070-002-001
+:PROPERTIES:
+:END:
+- text :: викриття; виявлення
+** Learner notes
+*** note-s-1437070-002-001
+:PROPERTIES:
+:END:
+- UK :: Про виявлення прихованого недоліку, порушення або факту; слід відрізняти від фізичного видалення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1437070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cdac4f91cf7e83ac23959cfbe6e18b8f6810f73d990e4df155f4a03f07ec5f76
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitpikking
+*** en-s-1437070-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitkiezing
+*** en-s-1437070-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: selectie
+** Ukrainian glosses
+
+* Sense s-1437070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e38898b17700ca510188e80a0d394376b83371fc7b69bdff53c4273fc82d06ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.
+*** en-s-1437070-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chir.} (operatieve) verwijdering
+*** en-s-1437070-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extractie
+*** en-s-1437070-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegsnijding
+*** en-s-1437070-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitsnijding
+*** en-s-1437070-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegneming
+*** en-s-1437070-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitpelling
+*** en-s-1437070-004-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: excisie
+*** en-s-1437070-004-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resectie
+*** en-s-1437070-004-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extirpatie
+*** en-s-1437070-004-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ablatie
+*** en-s-1437070-004-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: avulsie
+*** en-s-1437070-004-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enucleatie
+*** en-s-1437070-004-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: -ectomie
+** Ukrainian glosses
+
+* Sense s-1437070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 16aa98f12d2b1c0819f3b679af377230e5228ba97eda9130233f1d487ee698ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onthulling
+*** en-s-1437070-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekendmaking
+*** en-s-1437070-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het aan het licht brengen
+*** en-s-1437070-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blootlegging
+*** en-s-1437070-005-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbaring
+** Ukrainian glosses
+
+* Sense s-1437070-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 011dee62a75741d3f5e1fc50bba579083fa9462c6585b0196e31efcfcd1758f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extractie
+*** en-s-1437070-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het excerperen
+*** en-s-1437070-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uithaling
+*** en-s-1437070-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitknipping
+** Ukrainian glosses
+
+* Sense s-1437070-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 666455c6a86733399cd252ff6961bc5a9881dae86d53d2815b17531b15a523a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitpikken
+*** en-s-1437070-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitkiezen
+*** en-s-1437070-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: selecteren
+** Ukrainian glosses
+
+* Sense s-1437070-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 39669824228aee6fce01f10139900bd04ff1ab473ad66b68d2e6b7ea4642232f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.
+*** en-s-1437070-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chir.} (operatief) verwijderen
+*** en-s-1437070-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extraheren
+*** en-s-1437070-008-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegsnijden
+*** en-s-1437070-008-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitsnijden
+*** en-s-1437070-008-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegnemen
+*** en-s-1437070-008-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitpellen
+*** en-s-1437070-008-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: excideren
+*** en-s-1437070-008-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reseceren
+*** en-s-1437070-008-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extirperen
+*** en-s-1437070-008-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enucleëren
+** Ukrainian glosses
+
+* Sense s-1437070-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d8afe97846ff05c32a2bec1194e6af994b5a9edb61ca7041dfa14d4fd4ecbf59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-009-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onthullen
+*** en-s-1437070-009-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekendmaken
+*** en-s-1437070-009-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aan het licht brengen
+*** en-s-1437070-009-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blootleggen
+*** en-s-1437070-009-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbaren
+** Ukrainian glosses
+
+* Sense s-1437070-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 2cada526f199351cb7af7d379da26e920155488ddb6971812b0239723f66638d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-010-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extraheren
+*** en-s-1437070-010-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: excerperen
+*** en-s-1437070-010-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uithalen
+*** en-s-1437070-010-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitknippen
+** Ukrainian glosses
+
+* Sense s-1437070-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: d519e103a0bba2e2b5cabab4c3f61e370a9ecd90480737f83d6868d1adf99587
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-011-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extirpation(?)
+*** en-s-1437070-011-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: extraction
+** Ukrainian glosses
+
+* Sense s-1437070-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 95724789fe02f115920358089f166a9e6c2ffe01d9d6047eded686e334901dd3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Extirpation
+*** en-s-1437070-012-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: völlige Entfernung
+*** en-s-1437070-012-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herausschneiden
+** Ukrainian glosses
+
+* Sense s-1437070-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: dc6ca41718e91fa8be8752b7504d635b7a59915df7e5758ad6dc4854577f9f12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Enukleation
+*** en-s-1437070-013-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herausnehmen
+*** en-s-1437070-013-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entfernen
+** Ukrainian glosses
+
+* Sense s-1437070-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: a55d85f232dcaabbbd3580d4e982b8005ff2bdf91c16581f60473d6196d3dbdc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-014-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiváltás
+*** en-s-1437070-014-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kivétel
+** Ukrainian glosses
+
+* Sense s-1437070-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 27223e1aa16729ae8dce9fa567593f06133b5c2ee756c4c4aeed8307dd72627e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1437070-015-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1): {～する} извлекать, вытаскивать
+*** en-s-1437070-015-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) выборки, извлечения; выписка, выдержка
+*** en-s-1437070-015-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} делать выборку, выписывать
+*** en-s-1437070-015-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3): {～する} открыто указывать, обличать
+** Ukrainian glosses

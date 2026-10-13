@@ -1,0 +1,434 @@
+#+TITLE: 校正
+#+JMDICT_ID: 1279560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうせい
+#+ROMAJI: kousei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-12
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1279560-001
+:PROPERTIES:
+:TEXT: 校正
+:END:
+*** Priorities
+- news2
+- nf35
+- spec2
+** Written form wf-1279560-002
+:PROPERTIES:
+:TEXT: 較正
+:END:
+** Reading rd-1279560-001
+:PROPERTIES:
+:TEXT: こうせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+- spec2
+
+* Sense s-1279560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 74e848512212e79cc3bd10530d1ba17a482a5326d529a5400767d9621f905731
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 校正
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- proofreading
+** Ukrainian glosses
+*** uk-s-1279560-001-001
+:PROPERTIES:
+:END:
+- text :: коректура; вичитування тексту
+** Learner notes
+*** note-s-1279560-001-001
+:PROPERTIES:
+:END:
+- UK :: Перевірка тексту перед публікацією для усунення друкарських, орфографічних та інших помилок; 校正する — вичитувати.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1279560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 原稿の校正が終わりました。
+- READING :: げんこうのこうせいがおわりました。
+- UK :: Коректуру рукопису завершено.
+- FOCUS :: 校正
+*** ex-1279560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 印刷する前に、もう一度校正をお願いします。
+- READING :: いんさつするまえに、もういちどこうせいをおねがいします。
+- UK :: Будь ласка, ще раз вичитайте текст перед друком.
+- FOCUS :: 校正
+*** ex-1279560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明日の朝までに冊子を印刷する予定ですが、数字や人名に間違いがないか、担当者とは別の人にも最後の校正をお願いしました。
+- READING :: あしたのあさまでにさっしをいんさつするよていですが、すうじやじんめいにまちがいがないか、たんとうしゃとはべつのひとにもさいごのこうせいをおねがいしました。
+- UK :: Брошуру планують надрукувати до завтрашнього ранку, але я попросив ще когось, крім відповідального працівника, востаннє перевірити числа й імена.
+- FOCUS :: 校正
+
+* Sense s-1279560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: af5488ad0f9c0f92fafe9043d8fc80af8254c71555401e895f4900ff62243979
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- calibration
+** Ukrainian glosses
+*** uk-s-1279560-002-001
+:PROPERTIES:
+:END:
+- text :: калібрування
+** Learner notes
+*** note-s-1279560-002-001
+:PROPERTIES:
+:END:
+- UK :: У технічному контексті означає перевірку показів вимірювального приладу за еталоном; не плутати з коректурою тексту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1279560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 705a13a864a62ae18c1ca327312e9ff5cf19e082842c4b5845e68ba769d3e4d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {drukw.} correctie
+*** en-s-1279560-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbetering
+*** en-s-1279560-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nalezing
+*** en-s-1279560-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het proeflezen
+*** en-s-1279560-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {drukw.} proeflezen
+*** en-s-1279560-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corrigeren
+*** en-s-1279560-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbeteren
+*** en-s-1279560-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nalezen
+*** en-s-1279560-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: persklaar maken
+** Ukrainian glosses
+
+* Sense s-1279560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 60e9b7a207f549cef0aeadf0eedd2ff6f5c08e6d1e8a14be089a52f1efaf59ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corriger des épreuves
+*** en-s-1279560-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relire
+** Ukrainian glosses
+
+* Sense s-1279560-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc6fe6763aa79041f689cb6861393cea3da2224b3a72182d61d3704b0b6b29a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korrigieren
+*** en-s-1279560-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Korrektur lesen
+*** en-s-1279560-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Korrektur
+*** en-s-1279560-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Korrekturlesen
+** Ukrainian glosses
+
+* Sense s-1279560-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7e45091b9030f3fc0779acf4cb5bdaf9e7362ac26de80c87c6052114bb0c25f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kalibration
+*** en-s-1279560-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kalibrierung
+** Ukrainian glosses
+
+* Sense s-1279560-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9e00a5d421e42ee3612f37690653c6424c841284a29f1666a5f9595fdfedf83b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beosztás
+*** en-s-1279560-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelesítés
+*** en-s-1279560-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalibrálás
+*** en-s-1279560-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelesítés
+*** en-s-1279560-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalibráció
+*** en-s-1279560-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelesítés
+** Ukrainian glosses
+
+* Sense s-1279560-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c8121ee6214f2f7f32c6b8ef90057b208e981914f5a934a15edc36fa2b3760bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: корректура
+*** en-s-1279560-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} держать корректуру
+** Ukrainian glosses
+
+* Sense s-1279560-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 5fad9a287f32945fa686e2f1413cdd544157af68fce706db2cbcdb79b68a032b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calibración
+*** en-s-1279560-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calibrado
+*** en-s-1279560-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calibrar
+** Ukrainian glosses
+
+* Sense s-1279560-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 71fe505a89c0288effb95c6c47ff5f95d7d63416a76451c29a2d079b9fb020b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1279560-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalibrering
+** Ukrainian glosses
