@@ -1,0 +1,190 @@
+#+TITLE: 抽象化
+#+JMDICT_ID: 1942580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうしょうか
+#+ROMAJI: chuushouka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1942580-001
+:PROPERTIES:
+:TEXT: 抽象化
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1942580-001
+:PROPERTIES:
+:TEXT: ちゅうしょうか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1942580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 322b16e385f468c96343a6f7cc6749e025322fc2f115f7c0c54cd92b943c8baa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- abstraction
+** Ukrainian glosses
+*** uk-s-1942580-001-001
+:PROPERTIES:
+:END:
+- text :: абстрагування; перехід до абстрактного опису
+** Learner notes
+*** note-s-1942580-001-001
+:PROPERTIES:
+:END:
+- UK :: 抽象化する — виділити загальні властивості, відходячи від конкретних подробиць. Часто у теорії, моделюванні та програмуванні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1942580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 共通する形を抽象化します。
+- READING :: きょうつうするかたちをちゅうしょうかします。
+- UK :: Ми виділимо спільну форму в абстрактному вигляді.
+- FOCUS :: 抽象化
+*** ex-1942580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 具体例を抽象化して、仕組みを図にした。
+- READING :: ぐたいれいをちゅうしょうかして、しくみをずにした。
+- UK :: Ми абстрагували конкретні приклади й показали механізм на схемі.
+- FOCUS :: 抽象化
+*** ex-1942580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: いくつかの作業を抽象化して共通の手順にまとめた担当者は、説明が分かりにくくならないように、図の横に実際の例も置いて、元の作業との関係を示した。
+- READING :: いくつかのさぎょうをちゅうしょうかしてきょうつうのてじゅんにまとめたたんとうしゃは、せつめいがわかりにくくならないように、ずのよこにじっさいのれいもおいて、もとのさぎょうとのかんけいをしめした。
+- UK :: Узагальнивши кілька робіт у спільний порядок дій, відповідальний розмістив біля схеми реальні приклади, щоб пояснення залишалося зрозумілим і був видимий зв’язок із початковими роботами.
+- FOCUS :: 抽象化
+
+* Sense s-1942580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d5c8c67287e911cef57e84cc8f214afec35aeccb6a19c310d0a5fb63bf42d74f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942580-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abstraheren
+*** en-s-1942580-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abstractie
+*** en-s-1942580-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abstrahering
+** Ukrainian glosses
+
+* Sense s-1942580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9d0019b8a04f11b425224e208cc66887289c0be6e70df7c16c5b77b9b6eb830a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942580-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abstraktion
+** Ukrainian glosses
+
+* Sense s-1942580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 30f0e21f8b48d235ed073b41e24b872082188711987c0e7bf78e48199afc4842
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942580-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absztrakció
+*** en-s-1942580-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elvont fogalom
+*** en-s-1942580-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elvontság
+** Ukrainian glosses
+
+* Sense s-1942580-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6aa08ab1914349dbe3d2545fb4594ba87a1a9cb2a793f6b0abd59b13b46c1ddd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942580-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abstraktion
+** Ukrainian glosses
