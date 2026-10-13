@@ -11660,3 +11660,21 @@ All one hundred batches are complete. The full 1000-entry validation and
 [completion audit](docs/n1-goal1000-completion-audit.md) verify the final scope.
 Helper files and canonical source data are retained under ignored
 `tmp/n1-goal1000-*`. The two pre-existing untracked files remain untouched.
+
+
+## Next 1000-word vocabulary goal (2026-10-13)
+
+Baseline: `16ac8d34675fd5a7b0ee7006e4d69fd271906cfa`. Target: 100 batches of 10, with a separate addition commit for each word.
+**10/1000 committed; 990 remain.**
+
+N1 study-list candidates are prioritized. The user authorized other useful vocabulary
+from JLPT10k or other sources because the remaining N1 pool was insufficient.
+The ledger records the actual source and deck level; supplemental words are not
+relabeled as N1. Only identities, readings, and level tags are taken from Anki.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n1-next1000-2026-10-13.tsv).
+Completed batch 1 has 30 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 2.
+Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files are preserved.
