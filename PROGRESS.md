@@ -11665,7 +11665,7 @@ Helper files and canonical source data are retained under ignored
 ## Next 1000-word vocabulary goal (2026-10-13)
 
 Baseline: `16ac8d34675fd5a7b0ee7006e4d69fd271906cfa`. Target: 100 batches of 10, with a separate addition commit for each word.
-**180/1000 committed; 820 remain.**
+**200/1000 committed; 800 remain.**
 
 N1 study-list candidates are prioritized. The user authorized other useful vocabulary
 from JLPT10k or other sources because the remaining N1 pool was insufficient.
@@ -11675,6 +11675,6 @@ Ukrainian glosses, notes, and Japanese examples are independently authored from 
 Entries remain learner-profile drafts pending independent linguistic review.
 
 [Selection and commit ledger](docs/n1-next1000-2026-10-13.tsv).
-Completed 18 batches have 540 original examples and passed JMdict validation, Org lint,
-and doctor checks. Continue with batch 19.
+Completed 20 batches have 600 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 21.
 Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files are preserved.
