@@ -1,0 +1,190 @@
+#+TITLE: 押印
+#+JMDICT_ID: 1180480
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おういん
+#+ROMAJI: ouin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180480-001
+:PROPERTIES:
+:TEXT: 押印
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1180480-001
+:PROPERTIES:
+:TEXT: おういん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1180480-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f8b705a05fd42ffb3f3f6d186619758315e69c41e81f501f766327a8284e2abf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- affixing a seal (to)
+- putting one's seal (on)
+** Ukrainian glosses
+*** uk-s-1180480-001-001
+:PROPERTIES:
+:END:
+- text :: проставлення печатки; засвідчення печаткою
+** Learner notes
+*** note-s-1180480-001-001
+:PROPERTIES:
+:END:
+- UK :: 押印する — поставити печатку на документі. Не назва друкування тексту чи фотографії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1180480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 書類に押印しました。
+- READING :: しょるいにおういんしました。
+- UK :: Я поставив печатку на документі.
+- FOCUS :: 押印
+*** ex-1180480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 押印する欄を、担当者に確認した。
+- READING :: おういんするらんを、たんとうしゃにかくにんした。
+- UK :: Я уточнив у відповідального поле для печатки.
+- FOCUS :: 押印
+*** ex-1180480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 書類を整える担当者は、押印する場所と記入する場所を見本で示し、初めて手続きをする人が同じ説明を何度も聞かなくてよいように案内を作った。
+- READING :: しょるいをととのえるたんとうしゃは、おういんするばしょときにゅうするばしょをみほんでしめし、はじめててつづきをするひとがおなじせつめいをなんどもきかなくてよいようにあんないをつくった。
+- UK :: Відповідальний за документи показав на зразку місця заповнення й печатки та підготував пояснення, щоб людина, яка вперше проходить процедуру, не мусила перепитувати те саме.
+- FOCUS :: 押印
+
+* Sense s-1180480-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 07048a42438b84c70d7095caec33e1f2fdeefdceb67f357ab51114f45e1a89aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180480-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afstempeling
+*** en-s-1180480-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdruk
+** Ukrainian glosses
+
+* Sense s-1180480-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4d7ec9f5e0c289f231cbe851d031d814d24ef2b2cce1240cb912c6461a141dbd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180480-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Siegeln
+*** en-s-1180480-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stempeln
+*** en-s-1180480-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: siegeln
+*** en-s-1180480-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stempeln
+*** en-s-1180480-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mit einem Siegel versehen
+** Ukrainian glosses
+
+* Sense s-1180480-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f0a784697239ff3d840c1934951a2242a8fa25a6d3c023cfcc22989492af3705
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180480-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: приложение печати (штампа)
+*** en-s-1180480-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} ставить (прилагать) печать, ставить штамп
+** Ukrainian glosses
