@@ -1,0 +1,402 @@
+#+TITLE: 受信
+#+JMDICT_ID: 1329810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅしん
+#+ROMAJI: jushin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1329810-001
+:PROPERTIES:
+:TEXT: 受信
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf08
+** Reading rd-1329810-001
+:PROPERTIES:
+:TEXT: じゅしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf08
+
+* Sense s-1329810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 55d2474c442e25624a312ac168104e003be110baa41bbd9deeb9998f10f86227
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 発信・1
+- 送信
+** English glosses
+- receiving (a message, letter, email, etc.)
+- reception (radio, TV, etc.)
+** Ukrainian glosses
+*** uk-s-1329810-001-001
+:PROPERTIES:
+:END:
+- text :: отримання повідомлення; приймання сигналу
+** Learner notes
+*** note-s-1329810-001-001
+:PROPERTIES:
+:END:
+- UK :: 受信する — отримувати листи, повідомлення або радіо- чи телевізійний сигнал.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1329810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: メールを受信しました。
+- READING :: めーるをじゅしんしました。
+- UK :: Я отримав електронного листа.
+- FOCUS :: 受信
+*** ex-1329810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 受信した内容を確認します。
+- READING :: じゅしんしたないようをかくにんします。
+- UK :: Перевіряю отримане повідомлення.
+- FOCUS :: 受信
+*** ex-1329810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会議の案内を受信したので、日時と場所を手帳に書き込みました。添付された地図も開いて入口を確かめ、初めて行く建物でも迷わないように準備しました。
+- READING :: かいぎのあんないをじゅしんしたので、にちじとばしょをてちょうにかきこみました。てんぷされたちずもひらいていりぐちをたしかめ、はじめていくたてものでもまよわないようにじゅんびしました。
+- UK :: Отримавши запрошення на нараду, я записав час і місце в щоденник. Також відкрив додану карту, перевірив вхід і підготувався, щоб не заблукати в незнайомій будівлі.
+- FOCUS :: 受信
+
+* Sense s-1329810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c5fcb0124ef77e2c9d99b35745429455669f34f2278a8fb9017136c484c000a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontvangst (van een boodschap)
+*** en-s-1329810-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: receptie
+*** en-s-1329810-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ontvangen
+*** en-s-1329810-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doorkrijgen
+** Ukrainian glosses
+
+* Sense s-1329810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0b62df8859b07f1013f76e8d33d0c403b894a69b07e785bc5cc205643ede4ffa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réception (ex: radio)
+** Ukrainian glosses
+
+* Sense s-1329810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7351863ef040dc5ae54d9d900fd161232ffd7a4850d8e341daf30f519201f33e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Empfang
+** Ukrainian glosses
+
+* Sense s-1329810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e1241b3fb5264f851d31b8b54f0acac061ede4c1f358c3ac2ae1cbf207b221c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erhalt
+*** en-s-1329810-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eingang
+** Ukrainian glosses
+
+* Sense s-1329810-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5ca75ef07d5cf5630a3a9e6b08c2aa42f5445b474f70e2bc90cf264d8451ceb8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krediterhalt
+** Ukrainian glosses
+
+* Sense s-1329810-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: cff71712bfa361369fc30baa4164e6dc260f24284ecce3b3578e34aa0c3838e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: empfangen
+** Ukrainian glosses
+
+* Sense s-1329810-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2c3bc7d8beb727a947a179d429883eeefa7f99a7f69ac05b7775a1a19241b6e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erhalten
+*** en-s-1329810-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eingehen
+*** en-s-1329810-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bekommen
+** Ukrainian glosses
+
+* Sense s-1329810-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 83b5348cc06114f963a8b3c4457a12da5eac3adbea4d931bd82eb5dc1e2c7a30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kredit erhalten
+** Ukrainian glosses
+
+* Sense s-1329810-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f76af1565c406054f92c8adeb3370c39abb3527d8be2f422b97dc70cc877b3f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vétel (pl. rádiójelet)
+*** en-s-1329810-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átvétel
+*** en-s-1329810-010-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blokk
+*** en-s-1329810-010-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyugta
+** Ukrainian glosses
+
+* Sense s-1329810-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: d26f32948ab1d9b718ff61b8d6e96e7cf5f17f7d099b9a19782d0d703135e706
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) получение известия
+*** en-s-1329810-011-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} получать известие
+*** en-s-1329810-011-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) [радио]приём
+*** en-s-1329810-011-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} принять (услышать) по радио, принять по телеграфу
+** Ukrainian glosses
+
+* Sense s-1329810-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: c25933581c2ebdaca62e6c235c76bffbf7982091a31242fb80c243db0319f7ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1329810-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recepción (emisora de radio)
+*** en-s-1329810-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recibir (mensajes, información, ondas)
+*** en-s-1329810-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: captar
+** Ukrainian glosses
