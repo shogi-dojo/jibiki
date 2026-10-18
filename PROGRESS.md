@@ -11685,7 +11685,7 @@ Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files 
 ## Next 100-word vocabulary goal (2026-10-18)
 
 Baseline: `afc2936cbf2f46ea6afd1eba508c1eb975fda36e`. Target: 10 batches of 10, with a separate addition commit for each word.
-**90/100 committed; 10 remain.**
+**100/100 committed; 0 remain.**
 
 Vocabulary selected from the Egg rolls JLPT10k deck as requested.
 The ledger records the actual source and deck level.
@@ -11694,6 +11694,6 @@ Ukrainian glosses, notes, and Japanese examples are independently authored from 
 Entries remain learner-profile drafts pending independent linguistic review.
 
 [Selection and commit ledger](docs/n10k-next100-2026-10-18.tsv).
-Completed 9 batches have 270 original examples and passed JMdict validation, Org lint,
-and doctor checks. Continue with batch 10.
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-next100-*`; the two pre-existing untracked files are preserved.
