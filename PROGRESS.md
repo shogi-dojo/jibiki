@@ -11675,6 +11675,9 @@ Ukrainian glosses, notes, and Japanese examples are independently authored from 
 Entries remain learner-profile drafts pending independent linguistic review.
 
 [Selection and commit ledger](docs/n1-next1000-2026-10-13.tsv).
+All one hundred batches are complete. The full 1000-entry validation and
+[completion audit](docs/n1-next1000-completion-audit.md) verify the final scope.
 Completed 100 batches have 3000 original examples and passed JMdict validation, Org lint,
-and doctor checks. Continue with batch 101.
+and doctor checks.
 Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files are preserved.
+
