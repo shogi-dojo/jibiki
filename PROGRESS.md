@@ -11682,10 +11682,9 @@ and doctor checks.
 Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files are preserved.
 
 
-
 ## Next 100-word vocabulary goal (2026-10-18)
 
-Baseline: `a7ca6b5234b5420ed7db21d41e26dfab806718ea`. Target: 10 batches of 10, with a separate addition commit for each word.
+Baseline: `39e69ed4a69488eb6a95550cd22a0068a87f3c74`. Target: 10 batches of 10, with a separate addition commit for each word.
 **0/100 committed; 100 remain.**
 
 Vocabulary selected from the Egg rolls JLPT10k deck as requested.
