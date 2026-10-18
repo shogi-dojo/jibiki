@@ -145,7 +145,7 @@ warnings. Entries remain drafts pending editorial review.
 
 ## Completed current-branch 100-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **100/100 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 on this branch in batches of ten, each word committed separately under Ihor.
 Final audit verified 100 unique new JMdict entries, 100 individual word commits,
 278 English senses with Ukrainian glosses and notes, and 300 graded examples.
@@ -175,7 +175,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Completed current-branch 200-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **200/200 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 on this branch in twenty batches of ten, with 200 separate word commits under Ihor.
 The completion audit verified 200 distinct JMdict IDs, Ukrainian glosses and usage
 notes for all 515 English semantic senses, and 600 graded examples. Content author
@@ -209,7 +209,7 @@ as new entries. Editorial review remains pending.
 
 ## Completed current-branch 300-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **300/300 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 on this branch in thirty batches of ten, with 300 separate word commits under Ihor.
 The completion audit verified 300 distinct new JMdict IDs, Ukrainian glosses and usage
 notes for all 794 English semantic senses, and 900 graded examples. Content author
@@ -253,7 +253,7 @@ as new entries. Editorial review remains pending.
 
 ## Completed current-branch 400-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **400/400 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 on this branch in batches of ten, each word committed separately under Ihor.
 Content author is `codex`; every new English sense has an independently authored
 Ukrainian gloss and usage note, and each entry has three graded examples.
@@ -309,7 +309,7 @@ as new entries. Editorial review remains pending.
 
 ## Completed current-branch 500-word continuation (2026-09-30)
 
-Baseline: `f94d38a2` (merged PR #10). Completed **500/500 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -379,7 +379,7 @@ N2-67 and N2-68 are aliases of existing entries and are not counted as new.
 
 ## Completed current-branch 100-word N2 continuation (2026-09-30)
 
-Baseline: `8014141b` (merged PR #11). Completed **100/100 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 in ten batches, with one commit per word under Ihor and content author `codex`.
 All 190 English semantic senses have independently authored Ukrainian glosses
 and usage notes, and each entry has three graded examples (300 in total).
@@ -408,7 +408,7 @@ All new entries remain `new` / `draft`, pending editorial review.
 
 ## Completed current-branch 200-word N2 continuation (2026-09-30)
 
-Baseline: `8014141b` (merged PR #11). Completed **200/200 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 in twenty batches of ten, with one commit per word under Ihor and content
 author `codex`. All 366 English semantic senses have independently authored
 Ukrainian glosses and usage notes. The entries include 600 graded examples,
@@ -469,7 +469,7 @@ All added entries remain `new` / `draft`, pending editorial review.
 
 ## Completed current-branch 400-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11). Completed **400/400 new words**
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 in batches of ten, one commit per word under Ihor. Content author is `codex`.
 Each English semantic sense has an original Ukrainian gloss and usage note;
 each entry has three graded examples. All added entries passed validation,
@@ -528,7 +528,7 @@ at this checkpoint is N2-500 (紺). The subsequent 500-word completion is record
 
 ## Completed current-branch 500-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **500/500 new words** in 50 batches of ten, one commit per word
 under Ihor. Content author is `codex`. All 500 are distinct new N2 candidate
 entries from the pinned Wiktionary queue; the five existing aliases are
@@ -603,7 +603,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Completed current-branch 600-word N2 continuation (2026-09-30)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **600/600 new words** in 60 batches of ten, one commit per word
 under Ihor. Content author is `codex`. All 600 are distinct new N2 candidate
 entries from the pinned Wiktionary queue; the five existing aliases are
@@ -688,7 +688,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Completed current-branch 700-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **700/700 new words** in 70 batches of ten, one commit per word
 under Ihor. Content author is `codex`. All 700 are distinct new N2 candidate
 entries from the pinned Wiktionary queue; the five existing aliases are
@@ -783,7 +783,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Completed current-branch 900-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **900/900 new words** in 90 batches of ten, one commit per word
 under Ihor. Content author is `codex`. All 900 are distinct new N2 candidate
 entries from the pinned Wiktionary queue; the six existing aliases are
@@ -898,7 +898,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Completed current-branch 1000-word N2 continuation (2026-10-01)
 
-Baseline: `8014141bbfd7fb45edfaf0a1b4172d3f55961b50` (merged PR #11).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **1000/1000 new words** in 100 batches of ten, one commit per word
 under Ihor. Content author is `codex`. All 1000 are distinct new N2 candidate
 entries from the pinned Wiktionary queue; the seven queue aliases are
@@ -1023,7 +1023,7 @@ The previous agent's uncommitted N3-1084 draft (罪) remains preserved.
 
 ## Current-branch 400-word N2 continuation (2026-10-03)
 
-Baseline: `610b4e8b0b6b19ccd0b408cfd3c09cd4a5b21fac` (merged PR #12).
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **400/400 new words** in batches of ten, one commit per word
 under Ihor. Content author is `codex`. All are distinct new N2 candidate
 entries from the pinned queue. N2-1144 (憎い), N2-1233 (バック), and N2-1423
@@ -1225,7 +1225,7 @@ of its three JMdict matches and is excluded from the new-word count.
 
 ## Further 100-word N2 continuation (2026-10-04)
 
-Baseline: `9a46c7b4`, with **500** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **100/100** further distinct words; branch total **600**.
 Words are committed individually in batches of ten under Ihor’s Git identity;
 original content is attributed to `codex`. Every English sense is translated
@@ -1366,7 +1366,7 @@ N2-69 (佚) remains deferred for standalone-usage review; it is not counted.
 
 ## Additional supplementary 100-word N2 continuation (2026-10-04)
 
-Baseline: `1f6b5bcf`, with **600** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **100/100** additional distinct words; branch total **700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -1525,7 +1525,7 @@ remains uncommitted.
 
 ## Next JTest 100-word N2 continuation (2026-10-04)
 
-Baseline: `91af692d`, with **700** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **100/100** additional distinct words; branch total **800**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -1665,7 +1665,7 @@ uncommitted 罪 draft remains. Entries are learner drafts pending editorial revi
 
 ## Final 900-word branch N2 continuation (2026-10-04)
 
-Baseline: `0ffefe81`, with **800** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **100/100** additional distinct words; branch total **900**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -1805,7 +1805,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 
 ## Final 1100-word branch N2 continuation (2026-10-04)
 
-Baseline: `945bbe61`, with **900** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **1100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -2058,7 +2058,7 @@ The preserved uncommitted 罪 draft is excluded from these counts.
 
 ## Final 1300-word branch N2 continuation (2026-10-04)
 
-Baseline: `eb8e85f2`, with **1100** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **1300**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -2315,7 +2315,7 @@ N2-69 (佚) remains deferred and is not counted.
 
 ## Final 1500-word branch N2 continuation (2026-10-04)
 
-Baseline: `ae93afdd`, with **1300** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **1500**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -2572,7 +2572,7 @@ N2-69 (佚) remains deferred and is not counted.
 
 ## Final 1700-word branch N2 continuation (2026-10-04)
 
-Baseline: `f0d52112`, with **1500** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **1700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -2835,7 +2835,7 @@ N2-69 (佚) remains deferred and is not counted.
 
 ## Final 1900-word branch N2 continuation (2026-10-04)
 
-Baseline: `f1b16094`, with **1700** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **1900**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -3090,7 +3090,7 @@ validation, and individual commit requirements.
 
 ## Final 2100-word branch N2 continuation (2026-10-04)
 
-Baseline: `737ad0ea`, with **1900** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **2100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -3351,7 +3351,7 @@ All additions remain `new` / `draft` learner entries pending editorial review.
 
 ## Final 2300-word branch N2 continuation (2026-10-04)
 
-Baseline: `5ad66293`, with **2100** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **2300**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -3619,7 +3619,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 
 ## Final 2500-word branch N2 continuation (2026-10-04)
 
-Baseline: `6e08ae44`, with **2300** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **2500**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -3889,7 +3889,7 @@ learner entries marked `new` / `draft`, pending editorial review.
 
 ## Final 2700-word branch N2 continuation (2026-10-04)
 
-Baseline: `06b11efc`, with **2500** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **2700**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -4160,7 +4160,7 @@ remain learner entries marked `new` / `draft`, pending editorial review.
 
 ## Final 2900-word branch N2 continuation (2026-10-04)
 
-Baseline: `be5dc401`, with **2700** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **2900**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -4428,7 +4428,7 @@ checks do not confer release-ready status.
 
 ## Final 3100-word branch vocabulary continuation (2026-10-05)
 
-Baseline: `5386f32f`, with **2900** new translated words on this branch.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **200/200** additional distinct words; branch total **3100**.
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -4692,7 +4692,7 @@ entries with draft metadata, awaiting independent linguistic review.
 
 ## 4500-word vocabulary continuation (2026-10-09)
 
-Baseline: `64241246`, with **3100** previously merged words from PR #13.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 Completed **1400/1400** additional distinct words; branch total **1400** (overall corpus additions **4500**).
 Words are committed individually in batches of ten. Every English sense has
 original Ukrainian translations and nuance notes; each primary sense has
@@ -11594,7 +11594,7 @@ untracked files remain untouched.
 
 ## New Anki N1 selection (2026-10-11)
 
-Baseline: `69b208485b259589355d0b941e4f15d3b9337598`. **500/500 new entries are committed in 50 batches of ten**,
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 with one addition commit per word. Completed entries run from 頻発 through
 起用. They contain **500 Ukrainian gloss blocks and usage notes**,
 plus **1500 distinct original Japanese examples** with kana readings and
@@ -11664,7 +11664,7 @@ Helper files and canonical source data are retained under ignored
 
 ## Next 1000-word vocabulary goal (2026-10-13)
 
-Baseline: `16ac8d34675fd5a7b0ee7006e4d69fd271906cfa`. Target: 100 batches of 10, with a separate addition commit for each word.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 **1000/1000 committed; 0 remain.**
 
 N1 study-list candidates are prioritized. The user authorized other useful vocabulary
@@ -11684,7 +11684,7 @@ Ignored helper files: `tmp/n1-next1000-*`; the two pre-existing untracked files 
 
 ## Next 100-word vocabulary goal (2026-10-18)
 
-Baseline: `39e69ed4a69488eb6a95550cd22a0068a87f3c74`. Target: 10 batches of 10, with a separate addition commit for each word.
+Baseline: `97fe17e137b64014f72fd6ccec4f2415ce31cc72`. Target: 10 batches of 10, with a separate addition commit for each word.
 **0/100 committed; 100 remain.**
 
 Vocabulary selected from the Egg rolls JLPT10k deck as requested.
