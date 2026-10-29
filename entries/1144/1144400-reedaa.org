@@ -1,0 +1,203 @@
+#+TITLE: レーダー
+#+JMDICT_ID: 1144400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: レーダー
+#+ROMAJI: reedaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1144400-001
+:PROPERTIES:
+:TEXT: レーダー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1144400-002
+:PROPERTIES:
+:TEXT: レーダ
+:NO_KANJI: false
+:END:
+
+* Sense s-1144400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a96a0e19be3adedd5df8c080264f5d78a0f2502f1a5180b374d46d43753203be
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- radar
+** Ukrainian glosses
+*** uk-s-1144400-001-001
+:PROPERTIES:
+:END:
+- text :: радар; радіолокатор; радіолокаційна станція
+** Learner notes
+*** note-s-1144400-001-001
+:PROPERTIES:
+:END:
+- UK :: Радіотехнічна система або прилад, що за допомогою відбитих радіохвиль виявляє точне місцезнаходження, напрямок та швидкість літаків чи кораблів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1144400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: レーダーで敵機を捉える。
+- READING :: れーだーでてっきをとらえる。
+- UK :: Зафіксувати ворожий літак на радарі.
+- FOCUS :: レーダー
+*** ex-1144400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 濃霧で視界が完全に遮られた夜間の航海中であっても、高性能な船舶用レーダーのおかげで周囲の暗礁や他船を避けて安全に進むことができた。
+- READING :: のうむでしかいがかんぜんにさえぎられたやかんのこうかいちゅうであっても、こうせいのうなせんぱくようれーだーのおかげでしゅういのあんしょうやたせんをさけてあんぜんにすすむことができた。
+- UK :: Навіть уночі під час густого туману завдяки судновому радару корабель міг безпечно обходити підводні скелі та інші судна.
+- FOCUS :: レーダー
+*** ex-1144400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 空港の管制塔では最新鋭の気象レーダーを常時監視し、局地的な豪雨や突風などの危険な乱気流の発生をいち早く探知して航空機に警告を発している。
+- READING :: くうこうのかんせいとうではさいしんえいのきしょうれーだーをじょうじかんしし、きょくちてきなごううやとっぷうなどのきけんならんきりゅうのはっせいをいちはやくたんちしてこうくうきにけいこくをはっしている。
+- UK :: У диспетчерській вишці аеропорту постійно стежать за метеорологічним радаром, вчасно фіксуючи небезпечні грози та попереджаючи екіпажі літаків.
+- FOCUS :: レーダー
+
+* Sense s-1144400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ad4543219408a42e077ac0065805cb79f1f0dd42a8368c6d20fe4799e236304c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radar
+** Ukrainian glosses
+
+* Sense s-1144400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03e832663aa9e2014432779640f1207341e9bb5ee418615d16576f81a997c5c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Radar
+** Ukrainian glosses
+
+* Sense s-1144400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ffc9bb89ee9d83ea7f7a6742f0010002df217695ad9aca4764ed76378927af8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lokátor
+*** en-s-1144400-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radar
+*** en-s-1144400-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radar
+** Ukrainian glosses
+
+* Sense s-1144400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 42b42670d4daa46803ba9a731da01ae631b3eed360309799478f34c84d2a0f26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) radar) радиолокатор, радар; радиолокационная станция; радиолокация
+** Ukrainian glosses
+
+* Sense s-1144400-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ebf221030dd49c422317713607d0333ef4e360eb1fda3e679dac126632206a71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radar
+** Ukrainian glosses
+
+* Sense s-1144400-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4ad856eea100bf53f7cea431e62b1e8cbffb297e4fbc4f0fce1c48eae1272071
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1144400-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radar
+** Ukrainian glosses
