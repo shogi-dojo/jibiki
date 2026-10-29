@@ -1,0 +1,269 @@
+#+TITLE: 編纂
+#+JMDICT_ID: 1511980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へんさん
+#+ROMAJI: hensan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511980-001
+:PROPERTIES:
+:TEXT: 編纂
+:END:
+*** Priorities
+- news2
+- nf31
+** Written form wf-1511980-002
+:PROPERTIES:
+:TEXT: 編さん
+:END:
+** Reading rd-1511980-001
+:PROPERTIES:
+:TEXT: へんさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1511980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c34f697e0e7f576862f608774e5f66d4ec60a8f39c2d4dec1daebcadeb0fa680
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 編集
+** English glosses
+- compilation (esp. dictionary, history, law code)
+- editing
+** Ukrainian glosses
+*** uk-s-1511980-001-001
+:PROPERTIES:
+:END:
+- text :: укладання; компіляція; редагування (словника, хроніки, зводу законів)
+** Learner notes
+*** note-s-1511980-001-001
+:PROPERTIES:
+:END:
+- UK :: Наукова чи літературна діяльність зі збирання, систематизації та редагування матеріалів для створення словника, енциклопедії, історії чи кодексу законів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1511980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい国語辞典を編纂する。
+- READING :: あたらしいこくごじてんをへんさんする。
+- UK :: Укладати новий тлумачний словник.
+- FOCUS :: 編纂
+*** ex-1511980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大学の研究チームが総力を結集し、十年の歳月を費やして地方の歴史的資料を網羅した記念誌を編纂した。
+- READING :: だいがくのけんきゅうちーむがそうりょくをけっしゅうし、じゅうねんのさいげつをついやしてちほうのれきしてきしりょうをもうらしたきねんしをへんさんした。
+- UK :: Об'єднавши зусилля, університетська команда науковців витратила десять років на укладання ювілейного видання з історією регіону.
+- FOCUS :: 編纂
+*** ex-1511980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 膨大な古文書の解読と綿密な時代考証を地道に積み重ねることによって、古代から現代に至る包括的な市史を編纂する大事業が完成を迎えた。
+- READING :: ぼうだいなこもんじょのかいどくとめんみつなじだいこうしょうをじみちにつみかさねることによって、こだいからげんだいにいたるほうかつてきなししをへんさんするだいじぎょうがかんせいをむかえた。
+- UK :: Завдяки копіткій розшифровці стародавніх документів та історичній критиці завершилася велика праця з укладання всеосяжної історії міста від давнини до сьогодення.
+- FOCUS :: 編纂
+
+* Sense s-1511980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 73d3166a31b5d0e9244ea004c640086d2b0a7b4ac3d3d2f4c9dc77decd7aad1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511980-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compileren
+*** en-s-1511980-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redigeren
+*** en-s-1511980-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: compilatie
+*** en-s-1511980-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redactie
+** Ukrainian glosses
+
+* Sense s-1511980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cf8795e16b09c884ad26bd581343071fb94e6f37060ee75663f0b668cb3426be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511980-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herausgeben
+*** en-s-1511980-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kompilieren
+*** en-s-1511980-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redigieren
+*** en-s-1511980-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammentragen
+*** en-s-1511980-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herausgabe
+*** en-s-1511980-003-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kompilation
+*** en-s-1511980-003-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Redaktion
+*** en-s-1511980-003-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schriftleitung
+** Ukrainian glosses
+
+* Sense s-1511980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 757f95d2a835ef5ece7ed21e97bd387bb29adaff03023b4416e8cfacab414c88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511980-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kompiláció
+*** en-s-1511980-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeállított gyűjtemény
+*** en-s-1511980-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeállított könyv
+** Ukrainian glosses
+
+* Sense s-1511980-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b5ca27b6725b2c14c02eab24269a166400242bc83a0b9c21bd4d531d0f7ac416
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511980-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (лит.) составление; издание
+*** en-s-1511980-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} составлять; издавать
+** Ukrainian glosses
