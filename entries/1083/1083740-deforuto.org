@@ -1,0 +1,283 @@
+#+TITLE: デフォルト
+#+JMDICT_ID: 1083740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: デフォルト
+#+ROMAJI: deforuto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1083740-001
+:PROPERTIES:
+:TEXT: デフォルト
+:NO_KANJI: false
+:END:
+** Reading rd-1083740-002
+:PROPERTIES:
+:TEXT: ディフォルト
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+** Reading rd-1083740-003
+:PROPERTIES:
+:TEXT: デフォールト
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+** Reading rd-1083740-004
+:PROPERTIES:
+:TEXT: ディフォールト
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1083740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1442131f1dad87647093792ed2763094984983d8a677e2a98a685bfc093c7f9a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- finc
+** English glosses
+- default
+** Ukrainian glosses
+*** uk-s-1083740-001-001
+:PROPERTIES:
+:END:
+- text :: дефолт; невиконання зобов'язань; неплатоспроможність
+** Learner notes
+*** note-s-1083740-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційне визнання неспроможності держави чи позичальника вчасно виплатити відсотки або повернути основну суму фінансового боргу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1083740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 001dfea986d14d8590f887a901beadfddee6a78530683e1c9f293ac280f1dfd3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+*** Fields
+- comp
+** English glosses
+- default (setting)
+** Ukrainian glosses
+*** uk-s-1083740-002-001
+:PROPERTIES:
+:END:
+- text :: за замовчуванням; стандартне налаштування
+** Learner notes
+*** note-s-1083740-002-001
+:PROPERTIES:
+:END:
+- UK :: Початкові попередньо встановлені параметри програми або комп'ютерної системи, які діють автоматично до внесення змін користувачем.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1083740-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: デフォルトの設定に戻す。
+- READING :: でふぉるとのせっていにもどす。
+- UK :: Повернути налаштування за замовчуванням.
+- FOCUS :: デフォルト
+*** ex-1083740-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: パソコンの設定を誤って変更してしまいインターネットに接続できなくなったため、一度すべての設定をデフォルトに戻した。
+- READING :: ぱそこんのせっていをあやまってへんこうしてしまいいんたーねっとにせつぞくできなくなったため、いちどすべてのせっていをでふぉるとにもどした。
+- UK :: Збивши налаштування мережі й утративши доступ до інтернету, я просто скинув усі параметри системи до заводських за замовчуванням.
+- FOCUS :: デフォルト
+*** ex-1083740-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しいスマートフォンを購入した直後は、セキュリティを高めるためにデフォルトのパスワードを自分専用の強固な文字列へすぐに変更した。
+- READING :: あたらしいすまーとふぉんをこうにゅうしたちょくごは、せきゅりてぃをたかめるためにでふぉるとのぱすわーどをじぶんせんようのきょうこなもじれつへすぐにへんこうした。
+- UK :: Купивши новий смартфон, я з міркувань безпеки одразу ж змінив пароль за замовчуванням на власний надійний код.
+- FOCUS :: デフォルト
+
+* Sense s-1083740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5abb43e022835d5fddc5c662eb2d8b7ba4ba60ce7e194943349d69ea295cb2b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1083740-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} default
+*** en-s-1083740-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: defaultwaarde
+*** en-s-1083740-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: standaardwaarde
+** Ukrainian glosses
+
+* Sense s-1083740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 160968c325942297c1bf14d456a46ac5e7c036705d6e8491c6acd5686f907871
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1083740-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} verzuim
+*** en-s-1083740-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niet-nakoming
+*** en-s-1083740-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} wanbetaling
+** Ukrainian glosses
+
+* Sense s-1083740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5943521b647209960b37a363ab68c380e2e8d5ebf557aecd4aaafdeb72887d87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1083740-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Voreinstellung
+*** en-s-1083740-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voreingestellt
+*** en-s-1083740-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Standard…
+*** en-s-1083740-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Voreinstellung
+** Ukrainian glosses
+
+* Sense s-1083740-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b6baba57cb7d2fe1b5f3e92e7bbbe0c4c87b09d81df3db385d78fa00cc7c93a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1083740-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreditausfall
+*** en-s-1083740-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nichterfüllung
+** Ukrainian glosses
+
+* Sense s-1083740-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: bd9f2273931af6db40970f7c125ed06bff0c6414792c8d5d58416786a854067e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1083740-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nem teljesítés
+*** en-s-1083740-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: teljesítés elmaradása
+** Ukrainian glosses
