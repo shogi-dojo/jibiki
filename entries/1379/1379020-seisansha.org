@@ -1,0 +1,234 @@
+#+TITLE: 生産者
+#+JMDICT_ID: 1379020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいさんしゃ
+#+ROMAJI: seisansha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1379020-001
+:PROPERTIES:
+:TEXT: 生産者
+:END:
+*** Priorities
+- spec1
+** Reading rd-1379020-001
+:PROPERTIES:
+:TEXT: せいさんしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1379020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 24e5e1fe132ffb425087fcd0e1cbf93fb362a133a422bdbf27e9d0da0155255a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- bus
+** English glosses
+- producer
+- grower
+- maker
+- manufacturer
+** Ukrainian glosses
+*** uk-s-1379020-001-001
+:PROPERTIES:
+:END:
+- text :: виробник; аграрій; фермер; творець продукції
+** Learner notes
+*** note-s-1379020-001-001
+:PROPERTIES:
+:END:
+- UK :: Людина, сільськогосподарське фермерське господарство або виробниче підприємство, яке безпосередньо вирощує чи виготовляє якісні споживчі товари для людей.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1379020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 生産者の顔が見える野菜を買う。
+- READING :: せいさんしゃのかおがみえるやさいをかう。
+- UK :: Купувати овочі, знаючи в обличчя їхнього безпосереднього виробника.
+- FOCUS :: 生産者
+*** ex-1379020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 農協が運営する直売所では、地元の生産者が朝一番に収穫した新鮮で安全な農産物が手頃な価格で販売されている。
+- READING :: のうきょうがうんえいするちょくばいじょでは、じもとのせいさんしゃがあさいちばんにしゅうかくしたしんせんであんぜんなのうさんぶつがてごろなかかくではんばいされている。
+- UK :: У фірмовому магазині фермерського кооперативу за доступними цінами продаються свіжі й безпечні продукти, зібрані місцевими аграріями на світанку.
+- FOCUS :: 生産者
+*** ex-1379020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 消費者の安心と信頼を確保するため、農作物の栽培履歴や生産者の情報を二次元コードで瞬時に確認できる仕組みが広く導入されている。
+- READING :: しょうひしゃのあんしんとしんらいをかくほするため、のうさくぶつのさいばいりれきやせいさんしゃのじょうほうをにじげんこーどでしゅんじにかくにんできるしくみがひろくどうにゅうされている。
+- UK :: Задля спокою та довіри споживачів широко запроваджено систему швидкої перевірки історії вирощування овочів та даних про фермера через QR-код.
+- FOCUS :: 生産者
+
+* Sense s-1379020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b57d63570a04f2d03cb21ac89f3d1f87535c08347e34e7bb576c680d340a728b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- ecol
+** English glosses
+- producer (in a food chain)
+** Ukrainian glosses
+*** uk-s-1379020-002-001
+:PROPERTIES:
+:END:
+- text :: продуцент (в екології та харчовому ланцюзі)
+** Learner notes
+*** note-s-1379020-002-001
+:PROPERTIES:
+:END:
+- UK :: Екологічний термін на позначення автотрофних організмів, переважно зелених рослин, що синтезують органічні речовини з неорганічних.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1379020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8bdbe19978d5cc24f1c01e3c511de299376dfffc8e92ad799f3bc19a6f483dae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1379020-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: producent
+*** en-s-1379020-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fabrikant
+** Ukrainian glosses
+
+* Sense s-1379020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 79d759c4a311340abbd3fd426bbbd7a4b0d8db9aa933d3966114d1cc427a6408
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1379020-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Produzent
+*** en-s-1379020-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hersteller
+*** en-s-1379020-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erzeuger
+** Ukrainian glosses
+
+* Sense s-1379020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a02c43538ace1c68337ef635086b60490cf9a5690fc443da67cb4e0131d41b6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1379020-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Primärproduzent
+** Ukrainian glosses
+
+* Sense s-1379020-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0983ee27dfae72331f8218d15fa355e46ca72b979e2bddb68d76d8e5d6e6b7bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1379020-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: termelő
+** Ukrainian glosses
+
+* Sense s-1379020-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: cad1cd1a2f0c1b5607f3e0237705497959b22047cb5f86685d92ccbbbf311a09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1379020-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) производитель
+*** en-s-1379020-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) заводчик, фабрикант
+** Ukrainian glosses
