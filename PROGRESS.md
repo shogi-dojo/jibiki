@@ -11925,7 +11925,7 @@ Ignored helper files: `tmp/n10k-next100o-*`; the two pre-existing untracked file
 Baseline: `491cf51a09a269972c84c2b3e3d78210e92fa400`. Target: 10 batches of 10, with a separate addition commit for each word.
 **0/100 committed; 100 remain.**
 
-Vocabulary selected from the Egg rolls JLPT10k deck (36 N1, 22 N2, 9 N3, 1 N4, and 7 N5 words) as requested.
+Vocabulary selected from the Egg rolls JLPT10k deck (33 N1, 22 N2, 5 N3, 1 N4, and 7 N5 words) as requested.
 The ledger records the actual source and deck level.
 Only identities, readings, and level tags are taken from Anki.
 Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses.
