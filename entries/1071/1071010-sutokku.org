@@ -1,0 +1,203 @@
+#+TITLE: ストック
+#+JMDICT_ID: 1071010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ストック
+#+ROMAJI: sutokku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1071010-001
+:PROPERTIES:
+:TEXT: ストック
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1071010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c17f81d82d033f3fc353910224c47f428397f226c23d55e13ed1ebc22eef7593
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- stock
+- inventory
+** Ukrainian glosses
+*** uk-s-1071010-001-001
+:PROPERTIES:
+:END:
+- text :: запас; резерв; товарний запас
+** Learner notes
+*** note-s-1071010-001-001
+:PROPERTIES:
+:END:
+- UK :: Наявні запаси товарів, сировини чи матеріалів на складі або вдома для непередбачуваних потреб, запозичене з англійської мови (stock).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1071010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 部品のストックを調べる。
+- READING :: ぶひんのストックをしらべる。
+- UK :: Я перевіряю запас запчастин.
+- FOCUS :: ストック
+*** ex-1071010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 倉庫の棚を確認して商品の十分なストックがあることを確かめた。
+- READING :: そうこのたなをかくにんしてしょうひんのじゅうぶんなストックがあることをたしかめた。
+- UK :: Перевіривши полиці складу, я переконався у наявності достатнього запасу товарів.
+- FOCUS :: ストック
+*** ex-1071010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 自然災害による物流の停滞に備えて、非常用の飲料水や保存食のストックを定期的に点検し消費期限が近いものを新しい物と入れ替えている。
+- READING :: しぜんさいがいによるぶつりゅうのていたいにそなえて、ひじょうようのいんりょうすいやほぞんしょくのストックをていきてきにてんけんししょうひきげんがちかいものをあたらしいものといれかえている。
+- UK :: Готуючись до можливих затримок у постачанні через стихійні лиха, я регулярно перевіряю запаси аварійної питної води та консервів і замінюю ті, в яких спливає термін придатності.
+- FOCUS :: ストック
+
+* Sense s-1071010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1ad3b6a1ba9bdd4cdce50d705993bb4999e2951b8584edfb3f48498a81b74b39
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- stocking up (e.g. on food)
+** Ukrainian glosses
+*** uk-s-1071010-002-001
+:PROPERTIES:
+:END:
+- text :: робити запаси; запасатися
+** Learner notes
+*** note-s-1071010-002-001
+:PROPERTIES:
+:END:
+- UK :: Дія з накопичення або закупівлі продуктів харчування, ліків чи побутових речей про запас на випадок стихійного лиха чи дефіциту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1071010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f047187fc10c75aeb00f1fc6eb70f5d42e27b32416151d1200747a7b3f376cd0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (soup) stock
+** Ukrainian glosses
+*** uk-s-1071010-003-001
+:PROPERTIES:
+:END:
+- text :: бульйон; відвар (м'ясний, овочевий)
+** Learner notes
+*** note-s-1071010-003-001
+:PROPERTIES:
+:END:
+- UK :: Насичений кулінарний бульйон із кісток, м'яса або овочів, який слугує базовою основою для супів і соусів у західній кухні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1071010-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9389fd851dd30a0fa5b7a2714b55a6f5d75f8ab43ce525d728e4fe0ede75d41c
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- finc
+** English glosses
+- stock
+- share
+** Ukrainian glosses
+*** uk-s-1071010-004-001
+:PROPERTIES:
+:END:
+- text :: акція; частка (капіталу компанії)
+** Learner notes
+*** note-s-1071010-004-001
+:PROPERTIES:
+:END:
+- UK :: Цінний папір, що засвідчує участь у власності на капітал акціонерного товариства (наприклад, ストックオプション — опціон на акції).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1071010-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 56651eb92c9447663783a88d5649013e5e1b3215a98f0237501785fe54294810
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- econ
+*** Cross-references
+- フロー・2
+** English glosses
+- stock (point-in-time economic quantity)
+** Ukrainian glosses
+*** uk-s-1071010-005-001
+:PROPERTIES:
+:END:
+- text :: запас (економічна величина на певний момент)
+** Learner notes
+*** note-s-1071010-005-001
+:PROPERTIES:
+:END:
+- UK :: Економічний показник сукупного обсягу капіталу або ресурсів, зафіксований на конкретну дату (на відміну від потоку フロー).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1071010-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1adcce12092da1e7fbea973f3202879065ace0b8a5b26229795ceb0951215082
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- あらせいとう
+** English glosses
+- garden stock (Matthiola incana)
+- gillyflower
+** Ukrainian glosses
+*** uk-s-1071010-006-001
+:PROPERTIES:
+:END:
+- text :: матіола сива; левкой (рослина)
+** Learner notes
+*** note-s-1071010-006-001
+:PROPERTIES:
+:END:
+- UK :: Декоративна садова рослина з родини капустяних із духмяними яскравими квітами, запозичене з англійської мови (garden stock).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
