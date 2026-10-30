@@ -11901,3 +11901,20 @@ Entries remain learner-profile drafts pending independent linguistic review.
 Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
 and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-next100n-*`; the two pre-existing untracked files are preserved.
+
+
+## Fifteenth 100-word vocabulary goal (2026-10-30)
+
+Baseline: `e175f63c7c41865d610c2be95d2aed9000656c87`. Target: 10 batches of 10, with a separate addition commit for each word.
+**100/100 committed; 0 remain.**
+
+Vocabulary selected from the Egg rolls JLPT10k deck (34 N1, 22 N2, 25 N3, 9 N4, and 10 N5 words) as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-10-30b.tsv).
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
+Ignored helper files: `tmp/n10k-next100o-*`; the two pre-existing untracked files are preserved.
