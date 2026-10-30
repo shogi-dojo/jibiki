@@ -1,0 +1,101 @@
+#+TITLE: 翻
+#+JMDICT_ID: 2833260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ハン
+#+ROMAJI: han
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2833260-001
+:PROPERTIES:
+:TEXT: 翻
+:END:
+** Written form wf-2833260-002
+:PROPERTIES:
+:TEXT: 飜
+:END:
+** Reading rd-2833260-001
+:PROPERTIES:
+:TEXT: ハン
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2833260-002
+:PROPERTIES:
+:TEXT: ファン
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2833260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8228302e3e5c77f0b6672c9b39c7ab5bd235af5b2ad3521fee661b0487d8a8cb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- ctr
+*** Fields
+- mahj
+** English glosses
+- han
+- fan
+*** en-s-2833260-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unit that doubles the score of a hand
+** Ukrainian glosses
+*** uk-s-2833260-001-001
+:PROPERTIES:
+:END:
+- text :: хан (одиниця вартості руки в маджонгу)
+** Learner notes
+*** note-s-2833260-001-001
+:PROPERTIES:
+:END:
+- UK :: Базова одиниця складності комбінації в японському маджонгу, що збільшує підсумкову вартість виграшної руки вдвічі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2833260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 一翻の役を覚える。
+- READING :: イーハンのやくをおぼえる。
+- UK :: Я запам'ятовую комбінацію вартістю в один хан.
+- FOCUS :: 翻
+*** ex-2833260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この役を揃えればさらに二翻が加算される。
+- READING :: このやくをそろえればさらにリャンハンがかさんされる。
+- UK :: Якщо зібрати цю комбінацію, додасться ще два хани.
+- FOCUS :: 翻
+*** ex-2833260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 緊迫した麻雀の決勝戦で危険牌を恐れずに勝負に出て高得点の満貫に届く見事な四翻の組み合わせを冷静に完成させた。
+- READING :: きんぱくしたマージャンのけっしょうせんできけんぱいをおそれずにしょうぶにでてこうとくてんのまんがんにとどくみごとなスーハンのくみあわせをれいせいにかんせいさせた。
+- UK :: У напруженому фіналі з маджонгу гравець не побоявся скинути небезпечні кістки, сміливо пішов на ризик і спокійно зібрав бездоганну комбінацію на чотири хани, досягши мангану.
+- FOCUS :: 翻
+
