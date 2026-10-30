@@ -1,0 +1,80 @@
+#+TITLE: ウェイト
+#+JMDICT_ID: 2861660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ウェイト
+#+ROMAJI: weito
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2861660-001
+:PROPERTIES:
+:TEXT: ウェイト
+:NO_KANJI: false
+:END:
+** Reading rd-2861660-002
+:PROPERTIES:
+:TEXT: ウエイト
+:NO_KANJI: false
+:END:
+
+* Sense s-2861660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 075344dae512b85efe322e2a011bfe1a8c8453d61fc9b62f85f1d2eb40457eec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- wait (state)
+** Ukrainian glosses
+*** uk-s-2861660-001-001
+:PROPERTIES:
+:END:
+- text :: стан очікування (пауза процесора чи програми)
+** Learner notes
+*** note-s-2861660-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний стан призупинення нормальної роботи комп'ютерного процесора або програми до повного завершення повільної операції введення чи виведення даних.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2861660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ウェイトを入れる。
+- READING :: ウェイトをいれる。
+- UK :: Додавати стан очікування в алгоритм.
+- FOCUS :: ウェイト
+*** ex-2861660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ハードウェアの応答を待つためにループ処理内にウェイトを設けた。
+- READING :: ハードウェアのおうとうをまつためにループしょりないにウェイトをもうけた。
+- UK :: Щоб дочекатися відповіді від апаратного забезпечення, у тілі циклу передбачили паузу очікування.
+- FOCUS :: ウェイト
+*** ex-2861660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高速な中央処理装置と低速な外部機器との間でデータ転送を行う際に信号の衝突を防ぐため適切なウェイトを挿入した。
+- READING :: こうそくなちゅうおうしょりそうちとていそくながいぶききとのあいだでデータてんそうをおこなうさいにしんごうのしょうとつをふせぐためてきせつなウェイトをそうにゅうした。
+- UK :: Під час передачі даних між швидким центральним процесором і повільними зовнішніми пристроями було вставлено відповідні такти очікування для уникнення збоїв.
+- FOCUS :: ウェイト
+
