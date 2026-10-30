@@ -11974,7 +11974,7 @@ Ignored helper files: `tmp/n10k-next100r-*`; the two pre-existing untracked file
 ## Nineteenth 100-word vocabulary goal (2026-10-30)
 
 Baseline: `f2fd2a48d75ce19c0efd16bcbe9da2e9cac8c50e`. Target: 10 batches of 10, with a separate addition commit for each word.
-**90/100 committed; 10 remain.**
+**100/100 committed; 0 remain.**
 
 Vocabulary selected from the BCCWJ and TodayJLPT corpora as requested.
 The ledger records the actual source and deck level.
@@ -11983,6 +11983,6 @@ Ukrainian glosses, notes, and Japanese examples are independently authored from 
 Entries remain learner-profile drafts pending independent linguistic review.
 
 [Selection and commit ledger](docs/n10k-next100-2026-10-30f.tsv).
-Completed 9 batches have 270 original examples and passed JMdict validation, Org lint,
-and doctor checks. Continue with batch 10.
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-next100s-*`; the two pre-existing untracked files are preserved.
