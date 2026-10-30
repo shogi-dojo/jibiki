@@ -1,0 +1,203 @@
+#+TITLE: いくら
+#+JMDICT_ID: 1021180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いくら
+#+ROMAJI: ikura
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1021180-001
+:PROPERTIES:
+:TEXT: イクラ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1021180-002
+:PROPERTIES:
+:TEXT: いくら
+:NO_KANJI: false
+:END:
+
+* Sense s-1021180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 60c3e76386f8def8108e6edc478d335968d8d319e156c1147225aff848eaeb65
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Cross-references
+- 筋子
+*** Language sources
+**** Language source ls-s-1021180-001-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: full
+:WASEI: false
+:END:
+- text :: ikra
+** English glosses
+- salted salmon roe
+** Ukrainian glosses
+*** uk-s-1021180-001-001
+:PROPERTIES:
+:END:
+- text :: солона лососева ікра
+** Learner notes
+*** note-s-1021180-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва продукту; не плутати з питальним いくら «скільки».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1021180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: いくらを食べました。
+- READING :: いくらをたべました。
+- UK :: Я їв лососеву ікру.
+- FOCUS :: いくら
+*** ex-1021180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ご飯にいくらをのせます。
+- READING :: ごはんにいくらをのせます。
+- UK :: Кладу лососеву ікру на рис.
+- FOCUS :: いくら
+*** ex-1021180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市場で買ったいくらは少し塩味が強かったので、夕飯には味を付けていない温かいご飯に少しずつのせて、家族みんなで食べました。
+- READING :: いちばでかったいくらはすこししおあじがつよかったので、ゆうはんにはあじをつけていないあたたかいごはんにすこしずつのせて、かぞくみんなでたべました。
+- UK :: Куплена на ринку лососева ікра була трохи солонувата, тож на вечерю ми клали її потроху на теплий неприправлений рис і їли всією родиною.
+- FOCUS :: いくら
+
+* Sense s-1021180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ab21e0b92507118e9c11593534deedc5709e8ce000dfc2beb97321f9754f75fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021180-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} rode kaviaar
+*** en-s-1021180-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} zalmkaviaar
+*** en-s-1021180-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forelkaviaar
+** Ukrainian glosses
+
+* Sense s-1021180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5d9318bf45f1c8db9223dff1840e22beb27977573f598d353976c3afcecd1aef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lachslaich
+** Ukrainian glosses
+
+* Sense s-1021180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7e159ea24bfdc8e2bed9ad585734d878c20b51c34ca3aceb846d97828efa14b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021180-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((русск.) икра) красная (кетовая) икра
+** Ukrainian glosses
+
+* Sense s-1021180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f808871e5c35bff760f07f63fb1406c0e54fa520dae633cb0bb9b599558ce5e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021180-005-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koliko (denarja)
+*** en-s-1021180-005-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: koliko {denarja}
+*** en-s-1021180-005-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {+...ても} pa naj še tako...
+*** en-s-1021180-005-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {+...ても} čeprav večkrat {pred povedkom v obliki na て s členkom も}
+** Ukrainian glosses

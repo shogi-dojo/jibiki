@@ -1,0 +1,282 @@
+#+TITLE: ぶれる
+#+JMDICT_ID: 1011280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶれる
+#+ROMAJI: bureru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-18
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1011280-001
+:PROPERTIES:
+:TEXT: ぶれる
+:NO_KANJI: false
+:END:
+** Reading rd-1011280-002
+:PROPERTIES:
+:TEXT: ブレる
+:NO_KANJI: false
+:END:
+
+* Sense s-1011280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ad54eb6b856e1fef4cfd811500ad1c3376853f526d9f323eb95458f33a173984
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to be blurred (due to motion; of a photo, video, etc.)
+- to be shaken (of a camera)
+** Ukrainian glosses
+*** uk-s-1011280-001-001
+:PROPERTIES:
+:END:
+- text :: бути змазаним; тремтіти (про кадр, фотографію); розмиватися через тремтіння рук
+** Learner notes
+*** note-s-1011280-001-001
+:PROPERTIES:
+:END:
+- UK :: Розмиття фотографії або відеокадру внаслідок руху об'єкта або тремтіння камери під час зйомки.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1011280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 手元が動いて写真がぶれてしまった。
+- READING :: てもとがうごいてしゃしんがぶれてしまった。
+- UK :: Рука здригнулася, і фотографія вийшла змазаною.
+- FOCUS :: ぶれ
+*** ex-1011280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗い室内で撮影するときは、手ブレ補正を使うか三脚で固定しないと写真がぶれやすい。
+- READING :: くらいしつないでさつえいするときは、てぶれほせいをつかうかさんきゃくでこていしないとしゃしんがぶれやすい。
+- UK :: Під час зйомки в темному приміщенні кадри легко змазуються, якщо не ввімкнути стабілізацію або не закріпити камеру на штативі.
+- FOCUS :: ぶれ
+*** ex-1011280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夜景を綺麗に撮影しようとしたが三脚を持っていなかったため、シャッターを押す瞬間にわずかに手が動いて画面全体がぶれてしまった。
+- READING :: やけいをきれいにさつえいしようとしたがさんきゃくをもっていなかったため、しゃったーをおすしゅんかんにわずかにてがうごいてがめんぜんたいがぶれてしまった。
+- UK :: Я хотів гарно сфотографувати нічний краєвид міста, але штатива не мав, тому в мить натискання спуску рука трохи здригнулася, і весь знімок розмився.
+- FOCUS :: ぶれ
+
+* Sense s-1011280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1e6d1688cb3bb56a1aa4afed3a668997f3fddea7cf18e78c36b4318e0a4df176
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to waver (in one's beliefs, policy, etc.)
+** Ukrainian glosses
+*** uk-s-1011280-002-001
+:PROPERTIES:
+:END:
+- text :: хитатися; коливатися; відхилятися від принципів
+** Learner notes
+*** note-s-1011280-002-001
+:PROPERTIES:
+:END:
+- UK :: Зміна поглядів, втрата чіткої лінії поведінки або відхід від первинних цілей під зовнішнім впливом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1011280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e94d8070acb96eafcbb9e9b61f1387f0891d567c1abe73e5d98a6e7b754d54d9
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to shift (position)
+- to be slightly off
+** Ukrainian glosses
+*** uk-s-1011280-003-001
+:PROPERTIES:
+:END:
+- text :: зміщуватися; зсуватися (від правильного положення); мати люфт
+** Learner notes
+*** note-s-1011280-003-001
+:PROPERTIES:
+:END:
+- UK :: Незначне зміщення деталі, осі чи механізму від належного положення внаслідок зношення або вібрації.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1011280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0d99b09f860e28d5654e168ae4232667cf411f75f2a38013f1d84c141b2770cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1011280-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trillen
+*** en-s-1011280-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heen en weer bewegen
+*** en-s-1011280-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schommelen
+*** en-s-1011280-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wiebelen
+*** en-s-1011280-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {発言が} onstandvastig zijn
+** Ukrainian glosses
+
+* Sense s-1011280-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 17d95d6c66aea0d15dba8e93eb7489158b0605687dd7140a5448c4432e904c2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1011280-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {foto.} bewegen
+*** en-s-1011280-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onscherp zijn (door trillingen)
+** Ukrainian glosses
+
+* Sense s-1011280-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 8b43e464a92ec97f79a5b1040fb36f2dbe5cf1a347f84a66fe57b9b34fedf07e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1011280-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unscharf sein
+*** en-s-1011280-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwischen
+*** en-s-1011280-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verwackeln
+** Ukrainian glosses
+
+* Sense s-1011280-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5dda34fd90a890a4267bf5000d50cf734bb244d434b2bcb7b4bbe2d7f9da7692
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1011280-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schwanken
+*** en-s-1011280-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wanken
+** Ukrainian glosses
+
+* Sense s-1011280-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 82eb15cfe58ef3bdc5a3d578ee330851b4ad221e339edfe8e6b640bcf48e7221
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1011280-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abweichen (von einer bisher vertretenen Meinung, Linie)
+** Ukrainian glosses

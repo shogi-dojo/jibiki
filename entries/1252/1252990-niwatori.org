@@ -1,0 +1,430 @@
+#+TITLE: 鶏
+#+JMDICT_ID: 1252990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にわとり
+#+ROMAJI: niwatori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1252990-001
+:PROPERTIES:
+:TEXT: 鶏
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Written form wf-1252990-002
+:PROPERTIES:
+:TEXT: 鷄
+:END:
+*** Information
+- sK
+** Written form wf-1252990-003
+:PROPERTIES:
+:TEXT: 雞
+:END:
+*** Information
+- sK
+** Reading rd-1252990-001
+:PROPERTIES:
+:TEXT: にわとり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1252990-002
+:PROPERTIES:
+:TEXT: とり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1252990-003
+:PROPERTIES:
+:TEXT: かけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1252990-004
+:PROPERTIES:
+:TEXT: くたかけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+** Reading rd-1252990-005
+:PROPERTIES:
+:TEXT: ニワトリ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1252990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d0f891587652912c819877836ddb2f5d2d889d058f52956426f40ca62e875267
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chicken (Gallus gallus domesticus)
+- domestic chicken
+** Ukrainian glosses
+*** uk-s-1252990-001-001
+:PROPERTIES:
+:END:
+- text :: півень; курка; свійська птиця
+** Learner notes
+*** note-s-1252990-001-001
+:PROPERTIES:
+:END:
+- UK :: Домашній птах родини фазанових, який утримується заради яєць та м’яса, а також відомий ранковим співом на світанку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1252990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭で鶏を飼っています。
+- READING :: にわでにわとりをかっています。
+- UK :: У дворі ми тримаємо курей.
+- FOCUS :: 鶏
+*** ex-1252990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早くから鶏が大きな声で鳴き始めました。
+- READING :: あさはやくからにわとりがおおきなこえでなきはじめました。
+- UK :: З самого ранку півні голосно заспівали.
+- FOCUS :: 鶏
+*** ex-1252990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 祖父の田舎の農場では自然に近い環境でたくさんの鶏が放し飼いにされており、毎朝新鮮で濃厚な産みたての卵を直接集めることができます。
+- READING :: そふのいなかののうじょうではしぜんにちかいかんきょうでたくさんのにわとりがはなしがいにされており、まいあさしんせんでのうこうなうみたてのたまごをちょくせつあつめることができます。
+- UK :: На сільській фермі дідуся вільно вигулюються багато курей, і щоранку можна збирати свіжі натуральні яйця.
+- FOCUS :: 鶏
+
+* Sense s-1252990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f1b1d65883fc70aac7753f18226da8a21506fac8bee67b90653930b068701953
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 鶏肉・1
+** English glosses
+- chicken meat
+** Ukrainian glosses
+*** uk-s-1252990-002-001
+:PROPERTIES:
+:END:
+- text :: курятина; куряче м’ясо
+** Learner notes
+*** note-s-1252990-002-001
+:PROPERTIES:
+:END:
+- UK :: М’ясо курки або курчати, що використовується в кулінарії як популярне джерело білка (синонім 鶏肉).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1252990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a0048152b9c7b46c57d66ebbe0d93a1bb9b4ae110cc4fd0e50e04aa53d619915
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} kip
+*** en-s-1252990-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoen
+*** en-s-1252990-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} haan
+*** en-s-1252990-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} kip
+*** en-s-1252990-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (tamme) hoen
+*** en-s-1252990-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gallus domesticus
+** Ukrainian glosses
+
+* Sense s-1252990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 371bbcd0ba4c8e7e31d1acb35f095164f906a16edb55444fd659184c169d09ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: coq
+*** en-s-1252990-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poule
+*** en-s-1252990-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poulet
+** Ukrainian glosses
+
+* Sense s-1252990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6badd781c51ee6437ced8c3ff7404a4d59448dd913d2f10b9a7b0d3617c36c25
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Huhn
+*** en-s-1252990-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Henne
+** Ukrainian glosses
+
+* Sense s-1252990-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 706cb6b6c4913779537927c799458f22638e7ecb637a56a6b0a314ab8765e3fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hahn
+*** en-s-1252990-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gockel
+** Ukrainian glosses
+
+* Sense s-1252990-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: efac60803a75bd54a1da953a8ff189b4561435767ff3a91421f687f0e01a6055
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Küken
+*** en-s-1252990-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kücken
+*** en-s-1252990-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gallus gallus var. domesticus
+** Ukrainian glosses
+
+* Sense s-1252990-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 5232cbed1fbf537a7cb132da356894dc35f697154bf4567f5d5a69b4d9665163
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csirke
+** Ukrainian glosses
+
+* Sense s-1252990-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 3ba26dd124b5cad95f0c588553b9746da5d52ce81fb17ed0100f8859969b4082
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: курица, петух
+** Ukrainian glosses
+
+* Sense s-1252990-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 03b857369ed831ed388710f4ba2c64cc9dcee2962e3094a9a8d60ac36c25c8aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-010-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kokoš
+*** en-s-1252990-010-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: petelin
+*** en-s-1252990-010-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: piščanec
+** Ukrainian glosses
+
+* Sense s-1252990-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 316baafafdbda38a25853c5fa993c9a753b095e80e8d10cfa83229e05b054fb2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1252990-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gallina
+*** en-s-1252990-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pollo
+** Ukrainian glosses

@@ -1,0 +1,272 @@
+#+TITLE: 減衰
+#+JMDICT_ID: 1263230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんすい
+#+ROMAJI: gensui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1263230-001
+:PROPERTIES:
+:TEXT: 減衰
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1263230-001
+:PROPERTIES:
+:TEXT: げんすい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1263230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 88fbc737ad85b80acb1ac15e0cf5c5e49c79771dae0a996d181ae3eec44eea35
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- attenuation
+- damping
+- decay
+** Ukrainian glosses
+*** uk-s-1263230-001-001
+:PROPERTIES:
+:END:
+- text :: загасання; ослаблення; атенюація (сигналу, хвиль, звуку чи вібрації)
+** Learner notes
+*** note-s-1263230-001-001
+:PROPERTIES:
+:END:
+- UK :: Поступове зменшення амплітуди коливань, сили світла, звуку, електричного сигналу чи енергії з відстанню або плином часу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1263230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電波の激しい減衰を防ぐ。
+- READING :: でんぱのはげしいげんすいをふせぐ。
+- UK :: Запобігти різкому ослабленню та загасанню радіохвиль.
+- FOCUS :: 減衰
+*** ex-1263230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長距離の光ファイバー通信においては、光信号の減衰を最小限に抑えるための高性能な中継増幅器が不可欠である。
+- READING :: ちょうきょりのひかりふぁいばーつうしんにおいては、ひかりしんごうのげんすいをさいしょうげんにおさえるためのこうせいのうなちゅうけいぞうふくきがふかけつである。
+- UK :: У далекому оптоволоконному зв'язку необхідні високоефективні проміжні підсилювачі для мінімізації загасання світлового сигналу.
+- FOCUS :: 減衰
+*** ex-1263230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地震による高層ビルの激しい揺れを効果的に抑えるため、特殊なオイルダンパーを設置して振動エネルギーの速やかな減衰を図る設計が採用された。
+- READING :: じしんによるこうそうびるのはげしいゆれをこうかてきにおさえるため、とくしゅなおいるだんぱーをせっちしてしんどうえねるぎーのすみやかなげんすいをはかるせっけいがさいようされた。
+- UK :: Щоб стримати хитання хмарочоса під час землетрусів, інженери встановили масляні демпфери для швидкого загасання коливань.
+- FOCUS :: 減衰
+
+* Sense s-1263230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 06694775d75c726bc72ff928e3389fae2bbd4954067bd86efe74ea36992a200f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263230-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (geleidelijke) vermindering
+*** en-s-1263230-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afneming
+*** en-s-1263230-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afname
+*** en-s-1263230-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verzwakking
+*** en-s-1263230-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fade-out
+*** en-s-1263230-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} decrement
+*** en-s-1263230-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (geleidelijk) verminderen
+*** en-s-1263230-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afnemen
+*** en-s-1263230-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verzwakken
+** Ukrainian glosses
+
+* Sense s-1263230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f074e0a9e130e1309f4193042e53ce4f7fd40bf89abccedc15a537a2a8c79e86
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abschwächung
+*** en-s-1263230-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verdünnung
+*** en-s-1263230-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dämpfung
+*** en-s-1263230-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abgeschwächt werden
+*** en-s-1263230-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geschwächt werden
+*** en-s-1263230-003-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gedämpft werden
+** Ukrainian glosses
+
+* Sense s-1263230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 22ca74d9133d2ec6b89e298ae270193069b0405f356421fc775d6a813ff0d681
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263230-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bomlás
+*** en-s-1263230-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rothadás
+** Ukrainian glosses
+
+* Sense s-1263230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 63cd5a5f77ced6caee4d5b515c4bd990ef7da6bf0c6c2fc883a790ceb83fd95b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1263230-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) затухание; демпфирование; амортизация; декремент
+** Ukrainian glosses

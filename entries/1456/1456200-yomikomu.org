@@ -1,0 +1,252 @@
+#+TITLE: 読み込む
+#+JMDICT_ID: 1456200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よみこむ
+#+ROMAJI: yomikomu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1456200-001
+:PROPERTIES:
+:TEXT: 読み込む
+:END:
+** Written form wf-1456200-002
+:PROPERTIES:
+:TEXT: 読みこむ
+:END:
+** Written form wf-1456200-003
+:PROPERTIES:
+:TEXT: 読込む
+:END:
+** Reading rd-1456200-001
+:PROPERTIES:
+:TEXT: よみこむ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1456200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: db37b0f00a089bd58247165ce3eed72133a2308ac42806a775c28a43db08669f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+** English glosses
+- to read thoroughly
+- to read repeatedly
+** Ukrainian glosses
+*** uk-s-1456200-001-001
+:PROPERTIES:
+:END:
+- text :: глибоко вивчати; вчитуватися; перечитувати досконально
+** Learner notes
+*** note-s-1456200-001-001
+:PROPERTIES:
+:END:
+- UK :: Уважне, багаторазове читання книги, контракту або коду для повного розуміння кожного прихованого нюансу й деталі тексту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1456200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 契約書の条文を読み込む。
+- READING :: けいやくしょのじょうぶんをよみこむ。
+- UK :: Уважно вчитуватися в пункти договору.
+- FOCUS :: 読み込む
+*** ex-1456200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プレゼンテーションの本番でどんな質問が出ても即座に答えられるよう、関連する統計資料を事前に徹底的に読み込む準備を整えた。
+- READING :: ぷれぜんてーしょんのほんばんでどんなしつもんがでてもそくざにこたえられるよう、かんれんするとうけいしりょうをじぜんにてっていてきによみこむじゅんびをととのえた。
+- UK :: Щоб миттєво відповідати на будь-які запитання під час презентації, я заздалегідь ретельно й глибоко вчитався у всі статистичні матеріали.
+- FOCUS :: 読み込む
+*** ex-1456200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: プログラミングの開発現場では、巨大な画像ファイルや大量のテキストデータを高速にメモリ上へ読み込む処理の効率化が常に求められている。
+- READING :: ぷろぐらみんぐのかいはつげんばでは、きょだいながぞうふぁいるやたいりょうのてきすとでーたをこうそくにめもりじょうへよみこむしょりのこうりつかがつねにもとめられている。
+- UK :: У сучасній розробці критично важливо оптимізувати операції для надшвидкого завантаження великих масивів даних у пам'ять комп'ютера.
+- FOCUS :: 読み込む
+
+* Sense s-1456200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 91617f9f817017177957ceca3759b89c3a58294470275f1e20ba48464d6877e5
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+** English glosses
+- to read (extra meaning) into (something)
+** Ukrainian glosses
+*** uk-s-1456200-002-001
+:PROPERTIES:
+:END:
+- text :: вкладати додатковий зміст; приписувати підтекст
+** Learner notes
+*** note-s-1456200-002-001
+:PROPERTIES:
+:END:
+- UK :: Пошук або внесення додаткових підтекстів, прихованих натяків чи авторських смислів між рядками висловлювання або тексту твору.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1456200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7d0ed53c631b3e7ffb717b8ec89d613566ca4f165eef03ce3741b990f359218d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+** English glosses
+- to take (future changes) into consideration
+** Ukrainian glosses
+*** uk-s-1456200-003-001
+:PROPERTIES:
+:END:
+- text :: враховувати заздалегідь; закладати в розрахунок майбутні зміни
+** Learner notes
+*** note-s-1456200-003-001
+:PROPERTIES:
+:END:
+- UK :: Передбачення майбутніх коливань цін, ринкових ризиків або інфляції під час планування фінансового бюджету чи контракту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1456200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 57777c6e86b9d1f1b5adb89ba8f355f61d2bfa6e4c9b7293654baa3852f1281b
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vt
+*** Fields
+- comp
+** English glosses
+- to load (data)
+- to read
+- to fetch (e.g. a CPU instruction)
+** Ukrainian glosses
+*** uk-s-1456200-004-001
+:PROPERTIES:
+:END:
+- text :: завантажувати (дані); зчитувати файли в пам'ять
+** Learner notes
+*** note-s-1456200-004-001
+:PROPERTIES:
+:END:
+- UK :: Комп'ютерне зчитування або імпорт файлів, масивів даних чи інструкцій програми з диска або мережі в оперативну пам'ять.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1456200-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 119bc816c84056bc6c6ff55c6fc53961dbc96f1de62118c99a8fd471f3bec565
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456200-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. in einem Gedicht oder Lied erwähnen
+** Ukrainian glosses
+
+* Sense s-1456200-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6247055d748fb99cd1f2568baf64731d99e570662205e6f646835f8dc74c83a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456200-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gründlich lesen
+** Ukrainian glosses
+
+* Sense s-1456200-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 88f4ac5a0bb067c8ed92356fcdccb99355ca3ba0d283d5bfbd3fcef2d778efa8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456200-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: importieren
+*** en-s-1456200-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einlesen
+** Ukrainian glosses
+
+* Sense s-1456200-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 7cde8f664d09618dea06bf518ee4b8fb1334222098d63c82347c71c7a11c1127
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456200-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elragadtat
+*** en-s-1456200-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hangzik
+** Ukrainian glosses

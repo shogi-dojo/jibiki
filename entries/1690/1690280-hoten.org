@@ -1,0 +1,183 @@
+#+TITLE: 補填
+#+JMDICT_ID: 1690280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほてん
+#+ROMAJI: hoten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-13
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1690280-001
+:PROPERTIES:
+:TEXT: 補填
+:END:
+*** Priorities
+- news2
+- nf40
+** Written form wf-1690280-002
+:PROPERTIES:
+:TEXT: 補てん
+:END:
+** Written form wf-1690280-003
+:PROPERTIES:
+:TEXT: 補塡
+:END:
+*** Information
+- rK
+** Reading rd-1690280-001
+:PROPERTIES:
+:TEXT: ほてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1690280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fc913f2e785431b08aea9465f79c1994fa111ee614977df45056df71faa9ce58
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- covering (a loss, deficit, etc.)
+- making up (for)
+- compensating (for)
+- supplementation
+** Ukrainian glosses
+*** uk-s-1690280-001-001
+:PROPERTIES:
+:END:
+- text :: покриття збитку або дефіциту; компенсація; поповнення нестачі
+** Learner notes
+*** note-s-1690280-001-001
+:PROPERTIES:
+:END:
+- UK :: 赤字を補塡する — покрити дефіцит. Написання 補塡 зберігається як форма JMdict; також поширене 補填.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1690280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 不足分を補塡しました。
+- READING :: ふそくぶんをほてんしました。
+- UK :: Ми покрили нестачу.
+- FOCUS :: 補塡
+*** ex-1690280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 予備の資金で、修理費の不足を補塡した。
+- READING :: よびのしきんで、しゅうりひのふそくをほてんした。
+- UK :: Резервними коштами покрили нестачу грошей на ремонт.
+- FOCUS :: 補塡
+*** ex-1690280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 予定より修理の費用が増えたため、担当者は不足分を補塡する方法を相談し、別の活動に必要な資金まで使ってしまわないように全体の計画を確認した。
+- READING :: よていよりしゅうりのひようがふえたため、たんとうしゃはふそくぶんをほてんするほうほうをそうだんし、べつのかつどうにひつようなしきんまでつかってしまわないようにぜんたいのけいかくをかくにんした。
+- UK :: Оскільки ремонт подорожчав проти плану, відповідальний обговорив спосіб покриття нестачі й перевірив загальний план, щоб не витратити кошти, потрібні для іншої діяльності.
+- FOCUS :: 補塡
+
+* Sense s-1690280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4e040d176e4ab3ca40ab4cc1530ca8b22154793f61da2152fa1858d54b8f4dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1690280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausgleichen
+*** en-s-1690280-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kompensieren
+*** en-s-1690280-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ersetzen
+*** en-s-1690280-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ausgleichen
+*** en-s-1690280-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kompensieren
+*** en-s-1690280-002-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ersetzen
+** Ukrainian glosses
+
+* Sense s-1690280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ab27095558bdaf485eb51de9b3cd583a7699eae082f9bc80207b6de65d46005b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1690280-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) возмещение (недостающего); покрытие (напр. дефицита)
+*** en-s-1690280-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} восполнять; покрывать
+** Ukrainian glosses

@@ -1,0 +1,313 @@
+#+TITLE: 伝票
+#+JMDICT_ID: 1442410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんぴょう
+#+ROMAJI: denpyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-18
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1442410-001
+:PROPERTIES:
+:TEXT: 伝票
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1442410-001
+:PROPERTIES:
+:TEXT: でんぴょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1442410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ddd3f541367d2d1a6fcd0ed8c53c588a2fcab59f07d07ced82a2c28ea1d138fd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chit
+- slip
+- ticket
+- voucher
+** Ukrainian glosses
+*** uk-s-1442410-001-001
+:PROPERTIES:
+:END:
+- text :: квитанція; талон; накладна; чековий талон; бланк замовлення
+** Learner notes
+*** note-s-1442410-001-001
+:PROPERTIES:
+:END:
+- UK :: Паперовий або електронний документ певної форми, що фіксує господарську операцію, рахунок, надходження товару чи оплату.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1442410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会計の伝票をレジに持っていく。
+- READING :: かいけいのでんぴょうをレジにもっていく。
+- UK :: Віднести квитанцію замовлення до каси.
+- FOCUS :: 伝票
+*** ex-1442410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 経理部門では月末になると、各部署から提出された大量の経費精算伝票の確認作業に追われる。
+- READING :: けいりぶもんではげつまつになると、かくぶしょからていしゅつされたたいりょうのけいひせいさんでんぴょうのかくにんさぎょうにおわれる。
+- UK :: Наприкінці місяця відділ бухгалтерії завантажений перевіркою величезної кількості авансових звітів і квитанцій, поданих підрозділами.
+- FOCUS :: 伝票
+*** ex-1442410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 倉庫の物流担当者は納品された商品の数量と型番が入庫伝票の記載と完全に一致しているかを一点ずつ慎重に照合した。
+- READING :: そうこのぶつりゅうたんとうしゃはのうひんされたしょうひんのすうりょうとかたばんがにゅうこでんぴょうのきさいとかんぜんにいっちしているかをいってんずつしんちょうにしょうごうした。
+- UK :: Комірник ретельно, одиницю за одиницею, звірив кількість та артикули привезеного товару із записами у прибутковій накладній.
+- FOCUS :: 伝票
+
+* Sense s-1442410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 99e6c194ecdab038fce49deaafba9fdc6581bcc75449de5a7b03c9b21f13cbe2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442410-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: briefje
+*** en-s-1442410-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bewijsje
+*** en-s-1442410-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nota
+*** en-s-1442410-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bonnetje
+*** en-s-1442410-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reçu
+*** en-s-1442410-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: strookje
+*** en-s-1442410-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: voucher
+*** en-s-1442410-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {boekh.} slip
+** Ukrainian glosses
+
+* Sense s-1442410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 15b54c5491116e23652ddc7ad6fe533b2104164eb301f5faea7bfb6648a8dba1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442410-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bon (de réduction, ...)
+*** en-s-1442410-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: facture
+*** en-s-1442410-003-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fiche
+*** en-s-1442410-003-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: note
+*** en-s-1442410-003-005
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ticket
+** Ukrainian glosses
+
+* Sense s-1442410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 16829c2c7c4f2ae005f8158113345b1b9442282483b72e374c1a15a63e4265f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442410-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zettel
+*** en-s-1442410-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Slip
+*** en-s-1442410-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schein
+*** en-s-1442410-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karte
+*** en-s-1442410-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechnung
+*** en-s-1442410-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buchungsbeleg
+*** en-s-1442410-004-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lieferschein
+** Ukrainian glosses
+
+* Sense s-1442410-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 848042c6346582c9207348bf5bf70cf9609ac46526212c085a40ebb05d4e3e5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442410-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jótálló
+** Ukrainian glosses
+
+* Sense s-1442410-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: cceb605aca1b66b8b4e56c3412b40d411667028009fd40da9d3ff0c9858c0065
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442410-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: расписка; талон; накладная, требование; ордер
+** Ukrainian glosses

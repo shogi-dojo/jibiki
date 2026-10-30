@@ -1,0 +1,297 @@
+#+TITLE: 狸
+#+JMDICT_ID: 1416770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たぬき
+#+ROMAJI: tanuki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-29
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1416770-001
+:PROPERTIES:
+:TEXT: 狸
+:END:
+*** Priorities
+- news2
+- nf33
+- spec1
+** Written form wf-1416770-002
+:PROPERTIES:
+:TEXT: 貍
+:END:
+*** Information
+- rK
+** Reading rd-1416770-001
+:PROPERTIES:
+:TEXT: たぬき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+- spec1
+** Reading rd-1416770-002
+:PROPERTIES:
+:TEXT: タヌキ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1416770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dc84c9fceca6f4c6cc8cd9cefe28840b1f49f7eee505f48f6caf3c59a7cadbbc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- tanuki (Nyctereutes procyonoides)
+- raccoon dog
+** Ukrainian glosses
+*** uk-s-1416770-001-001
+:PROPERTIES:
+:END:
+- text :: танукі; єнотоподібний собака (Nyctereutes procyonoides)
+** Learner notes
+*** note-s-1416770-001-001
+:PROPERTIES:
+:END:
+- UK :: Тварина родини псових, що поширена в Японії та є популярним персонажем фольклору як добродушний або пустотливий перевертень.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1416770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夜道で野生の狸を見かけた。
+- READING :: よみちでやせいのたぬきをみかけた。
+- UK :: Побачив дикого єнотоподібного собаку танукі на нічній дорозі.
+- FOCUS :: 狸
+*** ex-1416770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 店の軒先には大きな徳利を持った信楽焼の愛らしい狸の置物が飾られており、道行く客を温かく出迎えている。
+- READING :: みせののきさきにはおおきなとっくりをもったしがらきやきのあいらしいたぬきのおきものがかざられており、みちゆくきゃくをあたたかくでむかえている。
+- UK :: Під навісом крамниці виставлено чарівну керамічну фігурку танукі з пляшкою саке, що привітно зустрічає перехожих.
+- FOCUS :: 狸
+*** ex-1416770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 取引先の社長はいつも温厚で気さくな笑顔を浮かべているが、交渉の場では抜け目のない手腕を発揮する油断のならない食えない狸である。
+- READING :: とりひきさきのしゃちょうはいつもおんこうできさくなえがおをうかべているが、こうしょうのばではぬけめのないしゅわんをはっきするゆだんのならないくえないたぬきである。
+- UK :: Президент компанії-партнера завжди щиро й лагідно всміхається, проте на переговорах є хитрим і пронозливим ділком, якого неможливо обвести навколо пальця.
+- FOCUS :: 狸
+
+* Sense s-1416770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 69157c8e7905fea73bd811cc0e975ae7f173fc72fb4351a3691b7f2eb13d34a0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- sly dog
+- sly old fox
+- sly fox
+- cunning devil
+- sly person
+** Ukrainian glosses
+*** uk-s-1416770-002-001
+:PROPERTIES:
+:END:
+- text :: хитрун; лис; хитра й підступна людина (狸親父)
+** Learner notes
+*** note-s-1416770-002-001
+:PROPERTIES:
+:END:
+- UK :: Образна назва хитрої, лукавої та досвідченої людини, яка вдає простакуватість, а насправді діє з власною прихованою вигодою.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1416770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ae43108401b92970b9a42b33c8b3546b66a9e3660bf234af6f3d8f334d38a404
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} wasbeerhond
+*** en-s-1416770-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marterhond
+*** en-s-1416770-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nyctereutes procyonoides
+*** en-s-1416770-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} Canis viverrinus
+** Ukrainian glosses
+
+* Sense s-1416770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d3ada66ff8091dfcfefd0a461f2baf869193943d7661ce43d7a2af59c9a9cf23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japanischer Marderhund
+*** en-s-1416770-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tanuki
+*** en-s-1416770-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nyctereutes procyonoides
+** Ukrainian glosses
+
+* Sense s-1416770-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: af776fac4e521ea82860bb087f2eea1d01678bdd0cf495412bf6f7bba8dcf818
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durchtriebene Person
+** Ukrainian glosses
+
+* Sense s-1416770-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9d1d724ef71252db07ba6aae090592465a17115dc6fddcadc610ea82d549f7d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tanuki (Fabelwesen, welches oft eine Sakeflasche, einen Goldsack oder Kassenbuch mit sich trägt; je nach Laune bringt die Begegnung mit einem Tanuki Glück oder Pech)
+** Ukrainian glosses
+
+* Sense s-1416770-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: bb2ddbf56137bcf7936ddebdb8f7f68859926fd1bfaad1dc9fda59cb3381ec4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) тануки, (зоол.) енотовидная собака, Nyctereutes viverrinus (Temminck) ((традиционный перевод) барсук)
+*** en-s-1416770-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) [хитрая] лиса
+** Ukrainian glosses
+
+* Sense s-1416770-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 02b68c6f5aec98cc7f92095884e07448fb285074188e575dfe0c9182de45fb68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1416770-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tanuki
+*** en-s-1416770-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mapache japonés
+** Ukrainian glosses
