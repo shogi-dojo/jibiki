@@ -1,0 +1,235 @@
+#+TITLE: 拉麺
+#+JMDICT_ID: 1137720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ラーメン
+#+ROMAJI: raamen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1137720-001
+:PROPERTIES:
+:TEXT: 拉麺
+:END:
+*** Information
+- rK
+** Written form wf-1137720-002
+:PROPERTIES:
+:TEXT: 老麺
+:END:
+*** Information
+- rK
+** Written form wf-1137720-003
+:PROPERTIES:
+:TEXT: ラー麺
+:END:
+*** Information
+- sK
+** Reading rd-1137720-001
+:PROPERTIES:
+:TEXT: ラーメン
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-1137720-002
+:PROPERTIES:
+:TEXT: らーめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ik
+** Reading rd-1137720-003
+:PROPERTIES:
+:TEXT: らあめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1137720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7817397f321abd71d450c86682ba63ce98c192e7ffa5236a7101b1a9a1de2ff9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Language sources
+**** Language source ls-s-1137720-001-001
+:PROPERTIES:
+:LANG: chi
+:TYPE: full
+:WASEI: false
+:END:
+- text :: lāmiàn
+** English glosses
+- ramen
+*** en-s-1137720-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chinese-style noodles
+** Ukrainian glosses
+*** uk-s-1137720-001-001
+:PROPERTIES:
+:END:
+- text :: рамен (японський суп із пшеничною локшиною)
+** Learner notes
+*** note-s-1137720-001-001
+:PROPERTIES:
+:END:
+- UK :: Популярна традиційна страва японської кухні, що складається з пшеничної локшини в гарячому м'ясному чи рибному бульйоні з додатками.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1137720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 熱い拉麺を食べる。
+- READING :: あついラーメンをたべる。
+- UK :: Я їм гарячий рамен.
+- FOCUS :: 拉麺
+*** ex-1137720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 行列のできる有名な店で豚骨の拉麺を注文した。
+- READING :: ぎょうれつのできるゆうめいなみせでとんこつのラーメンをちゅうもんした。
+- UK :: У відомому закладі з чергою я замовив рамен на свинячому бульйоні.
+- FOCUS :: 拉麺
+*** ex-1137720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 寒い冬の夜に仕事帰りに立ち寄った屋台で湯気が立ち上る濃厚な醤油味の拉麺をすすりながら冷えた体を芯から温めた。
+- READING :: さむいふゆのよるにしごとがえりにたちよったやたいでゆげがたちあがるのうこうなしょうゆあじのラーメンをすすりながらひえたからだをしんからあたためた。
+- UK :: Холодного зимового вечора, повертаючись з роботи, я зайшов до вуличної ятки й зігрів змерзле тіло запашним гарячим раменом у насиченому соєвому бульйоні.
+- FOCUS :: 拉麺
+
+* Sense s-1137720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dd0628ff100aef29c6f9a2166c9ab268dcc35c4387e30ad137ebc48b92dccdd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1137720-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} ramen
+*** en-s-1137720-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mi
+*** en-s-1137720-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deegsliertjes
+*** en-s-1137720-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chinese noedels
+*** en-s-1137720-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vermicelli (voor in de soep)
+** Ukrainian glosses
+
+* Sense s-1137720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 42f2c2cccc755acae39dccf4d615f3ddb3b12eb3a8166fcc66a50e4345fd5621
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1137720-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nouilles chinoises
+** Ukrainian glosses
+
+* Sense s-1137720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 36caf8ef2c2285d4cc76cc9416cad7433e8ddf10e8c4b1e4f6271f5586058bc0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1137720-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rāmen (chinesische Nudelsuppe)
+** Ukrainian glosses
+
+* Sense s-1137720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d26c683e7c150dbb2c5d41bbb8827ff2a9614a631acee3e8666d3096f1357bee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1137720-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: "ramen": tallarines chinos en sopa
+** Ukrainian glosses
