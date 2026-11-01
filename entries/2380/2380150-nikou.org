@@ -1,0 +1,108 @@
+#+TITLE: 二項
+#+JMDICT_ID: 2380150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にこう
+#+ROMAJI: nikou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2380150-001
+:PROPERTIES:
+:TEXT: 二項
+:END:
+** Reading rd-2380150-001
+:PROPERTIES:
+:TEXT: にこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2380150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3ffa20f2e006ddf7d5e6341ee36840540750832e2ef55be529bba11cb4fc546f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+*** Fields
+- math
+** English glosses
+- binomial
+- binary
+- dyadic
+** Ukrainian glosses
+*** uk-s-2380150-001-001
+:PROPERTIES:
+:END:
+- text :: двочленний (біноміальний, бінарний у математиці та логіці)
+** Learner notes
+*** note-s-2380150-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін на позначення операцій, формул чи виразів, що складаються з двох компонентів або застосовуються одночасно до двох елементів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2380150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二項定理を学ぶ。
+- READING :: にこうていりをまなぶ。
+- UK :: Вивчати біноміальну теорему (біном Ньютона).
+- FOCUS :: 二項
+*** ex-2380150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高校の数学の授業において、生徒たちは代数学の基礎となる二項定理の公式とその美しい展開の仕組みについて詳しく学んだ。
+- READING :: こうこうのすうがくのじゅぎょうにおいて、せいとたちはだいすうがくのきそとなるにこうていりのこうしきとそのうつくしいてんかいのしくみについてくわしくまなんだ。
+- UK :: На уроці математики у старшій школі учні докладно вивчили формулу бінома Ньютона та елегантний механізм його розкладу, що є основою алгебри.
+- FOCUS :: 二項
+*** ex-2380150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 統計学や確率論の分野では、コイン投げのように結果が二者択一となる試行を繰り返す現象を解析する際に二項分布が極めて有用な道具となる。
+- READING :: とうけいがくやかくりつろんのぶんやでは、こいんなげのようにけっかがにしゃたくいつとなるしこうをくりかえすげんしょうをかいせきするさいににこうぶんぷがきわめてゆうようなどうぐとなる。
+- UK :: У статистиці та теорії ймовірностей біноміальний розподіл є незамінним інструментом для аналізу експериментів із двома можливими наслідками, як-от підкидання монети.
+- FOCUS :: 二項
+
+* Sense s-2380150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 36e20679ba847be6a425884ea86525bb96cd65eda8faae9253af70dfe36c3735
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2380150-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: binomial
+*** en-s-2380150-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Binom
+** Ukrainian glosses
