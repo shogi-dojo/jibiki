@@ -1,0 +1,276 @@
+#+TITLE: 卸
+#+JMDICT_ID: 1589530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おろし
+#+ROMAJI: oroshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-10-30
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1589530-001
+:PROPERTIES:
+:TEXT: 卸
+:END:
+*** Priorities
+- news1
+- nf09
+** Written form wf-1589530-002
+:PROPERTIES:
+:TEXT: 卸し
+:END:
+** Reading rd-1589530-001
+:PROPERTIES:
+:TEXT: おろし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf09
+
+* Sense s-1589530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 40478987b2e293f7024fda2ae137d038f22e627682e356c847539d92a4d7d5ed
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wholesale
+** Ukrainian glosses
+*** uk-s-1589530-001-001
+:PROPERTIES:
+:END:
+- text :: оптова торгівля (продаж товарів великими партіями)
+** Learner notes
+*** note-s-1589530-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний комерційний термін на позначення оптового продажу товарів великими партіями посередникам або роздрібним торговцям за спеціальними гуртовими цінами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1589530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 卸の価格。
+- READING :: おろしのかかく。
+- UK :: Оптова ціна товару.
+- FOCUS :: 卸
+*** ex-1589530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 市場の卸売業者から直接仕入れることで、このスーパーは新鮮な魚介類を他店よりも格段に安く販売している。
+- READING :: しじょうのおろしうりぎょうしゃからちょくせつしいれることで、このすーぱーはしんせんなぎょかいるいをたてんよりもかくだんにやすくはんばいしている。
+- UK :: Закуповуючи рибу безпосередньо в оптовиків на ринку, супермаркет продає свіжі морепродукти значно дешевше за конкурентів.
+- FOCUS :: 卸
+*** ex-1589530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引く原材料費の高騰を受けて、製造元から中間業者への卸値が段階的に引き上げられた結果、最終的な店頭小売価格にも大きな影響が及んだ。
+- READING :: ながびくげんざいりょうひのこうとうをうけて、せいぞうもとからちゅうかんぎょうしゃへのおろしねがだんかいてきにひきあげられたけっか、さいしゅうてきなてんとうこうりかかくにもおおきなえいきょうがおよんだ。
+- UK :: Унаслідок тривалого подорожчання сировини оптові відпускні ціни поступово зросли, що врешті спричинило помітне підвищення цін на полицях крамниць.
+- FOCUS :: 卸
+
+* Sense s-1589530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 56b4a26eb1e3e3f92bd3b089e49eeab9713dcd0e58cce36ccf561737eeac0bc9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: groothandel
+*** en-s-1589530-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: en-groshandel
+*** en-s-1589530-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grossierderij
+** Ukrainian glosses
+
+* Sense s-1589530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4314e59ee12a40fb8960d7750c527841716352c01845adc436185d160a0ecc59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vente en gros
+** Ukrainian glosses
+
+* Sense s-1589530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 847e9a999fb528d7b7335db100aac1083a95cf73850a30d3a1aea1d79cdb2776
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagyban
+*** en-s-1589530-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagybani eladás
+*** en-s-1589530-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagybani
+*** en-s-1589530-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagykereskedelmi
+** Ukrainian glosses
+
+* Sense s-1589530-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e3e07d13d62f8d2baa3a26e2afc3c4189e19b432a06adc28c8dbd4541afc9eb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～で} оптом
+*** en-s-1589530-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[に]する} продавать оптом
+*** en-s-1589530-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) натирание (на тёрке); (что-л.) натёртое
+*** en-s-1589530-005-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) тёрка
+*** en-s-1589530-005-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (см.) おろしだいこん
+** Ukrainian glosses
+
+* Sense s-1589530-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 85086d2aced6e470763316a8c3869104fa74de4f06fda84a3d431eca7ba04c9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: al por mayor
+** Ukrainian glosses
+
+* Sense s-1589530-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3b5b9f65f1ccb432ff5c4b60b25869f6706657bcb40de5f9f7d96cf4aef1cc8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1589530-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partihandel
+*** en-s-1589530-007-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grossisthandel
+** Ukrainian glosses
