@@ -1,0 +1,214 @@
+#+TITLE: 辺境
+#+JMDICT_ID: 1512100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へんきょう
+#+ROMAJI: henkyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1512100-001
+:PROPERTIES:
+:TEXT: 辺境
+:END:
+*** Priorities
+- news1
+- nf22
+** Written form wf-1512100-002
+:PROPERTIES:
+:TEXT: 辺疆
+:END:
+*** Information
+- rK
+** Reading rd-1512100-001
+:PROPERTIES:
+:TEXT: へんきょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf22
+
+* Sense s-1512100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a1da0fd48702da32fe506db4fa8f3181a6f367908198441e78253d1ce088ce72
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- remote region
+- outlying district
+- border district
+- frontier
+** Ukrainian glosses
+*** uk-s-1512100-001-001
+:PROPERTIES:
+:END:
+- text :: прикордоння (глушина, віддалений прикордонний регіон, околиця)
+** Learner notes
+*** note-s-1512100-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічно віддалений від центру прикордонний край, що вирізняється суворими умовами життя та слабким зв'язком зі столицею.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1512100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 辺境の地を訪れる。
+- READING :: へんきょうのちをおとずれる。
+- UK :: Відвідати глухий прикордонний край.
+- FOCUS :: 辺境
+*** ex-1512100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国の最果てに位置する辺境の村では、古くから伝わる独自の風習や伝統行事が今なお色濃く残されている。
+- READING :: くにのさいはてにいちするへんきょうのむらでは、ふるくからつたわるどくじのふうしゅうやでんとうぎょうじがいまなおいろこくのこされている。
+- UK :: У віддаленому прикордонному селі на краю країни й досі свято бережуть самобутні давні традиції та святкові обряди.
+- FOCUS :: 辺境
+*** ex-1512100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大都市の喧騒に疲れた探検家は、文明の手が及んでいない広大な辺境の荒野を目指して一人で長い旅に出発し、厳しい自然と向き合いながら未知の風景を記録した。
+- READING :: だいとしのけんそうにつかれたたんけんかは、ぶんめいのてがおよんでいないこうだいなへんきょうのこうやをめざしてひとりでながいたびにしゅっぱつし、きびしいしぜんとむきあいながらみちのふうけいをきろくした。
+- UK :: Втомлений міською метушнею мандрівник вирушив у самотню експедицію до безкрайньої глухої пустки, щоб наодинці з дикою природою закарбувати небачені краєвиди.
+- FOCUS :: 辺境
+
+* Sense s-1512100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d476eb57c16321dce4efdf6b502bd4fbb836b9ef758d49d3a3b506bd960d2170
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1512100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grensland
+*** en-s-1512100-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grensgebied
+*** en-s-1512100-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grens
+*** en-s-1512100-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} mark
+** Ukrainian glosses
+
+* Sense s-1512100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e56292cd8032cafdbd489db9a49f34be8b284f6656a61bd952f477f651dc3a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1512100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abgelegene Gegend
+*** en-s-1512100-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grenzland
+** Ukrainian glosses
+
+* Sense s-1512100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8bf3ce2cfe529632f192182c11158f59f31b811b31cfd950e16415e83e6b7cfc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1512100-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: határ
+*** en-s-1512100-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: széle vminek
+** Ukrainian glosses
+
+* Sense s-1512100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ab185546dd35429a827d017930149d89debfcd785d1d13c6d43f4ef47563f912
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1512100-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пограничный район; удалённый район, окраина
+*** en-s-1512100-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} на границе
+** Ukrainian glosses
