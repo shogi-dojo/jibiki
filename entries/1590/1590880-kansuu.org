@@ -1,0 +1,307 @@
+#+TITLE: 関数
+#+JMDICT_ID: 1590880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんすう
+#+ROMAJI: kansuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-01
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1590880-001
+:PROPERTIES:
+:TEXT: 関数
+:END:
+** Written form wf-1590880-002
+:PROPERTIES:
+:TEXT: 函数
+:END:
+*** Information
+- rK
+** Reading rd-1590880-001
+:PROPERTIES:
+:TEXT: かんすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1590880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c39751898eb7796ce88660e57755dbfd1482fc6574493f3fc99e559c299b4eb2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- function
+** Ukrainian glosses
+*** uk-s-1590880-001-001
+:PROPERTIES:
+:END:
+- text :: функція в математиці (математична відповідність між змінними величинами)
+** Learner notes
+*** note-s-1590880-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичне правило або закон залежності, за яким кожному значенню незалежної змінної відповідає єдине визначене значення іншої змінної.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1590880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 複雑な関数を図に描いて分析する。
+- READING :: ふくざつなかんすうをずにえがいてぶんせきする。
+- UK :: Аналізувати складну математичну функцію на графіку.
+- FOCUS :: 関数
+*** ex-1590880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プログラミングにおいて同じ処理を何度も繰り返す場合は、共通の処理を関数として定義しておくことでコードの可読性と保守性が向上する。
+- READING :: ぷろぐらみんぐにおいておなじしょりをなんどもくりかえすばあいは、きょうつうのしょりをかんすうとしてていぎしておくことでこーどのかどくせいとほしゅせいがこうじょうする。
+- UK :: У програмуванні, коли одна й та сама дія повторюється багаторазово, винесення спільної логіки у функцію робить код значно чистішим та зручнішим для підтримки.
+- FOCUS :: 関数
+*** ex-1590880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高等数学の解析学においては、微分方程式を解くために特殊な性質を持つ複雑な関数を正確に定義し、その収束性を厳密に証明することが求められる。
+- READING :: こうとうすうがくのかいせきがくにおいては、びぶんほうていしきをとくためにとくしゅなせいしつをもつふくざつなかんすうをせいかくにていぎし、そのしゅうそくせいをげんみつにしょうめいすることがもとめられる。
+- UK :: У вищій математиці для розв'язання диференціальних рівнянь потрібно коректно задати складні функції з особливими властивостями та строго довести їхню збіжність.
+- FOCUS :: 関数
+
+* Sense s-1590880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3c158f64e9c69dbdc4e14b7d408549b7da46d40ac3a9af1befd24264f33daef6
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- function (programming)
+** Ukrainian glosses
+*** uk-s-1590880-002-001
+:PROPERTIES:
+:END:
+- text :: функція в програмуванні (підпрограма, іменований блок коду з параметрами)
+** Learner notes
+*** note-s-1590880-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменований блок коду в програмуванні, який приймає вхідні аргументи, виконує певні обчислення та повертає результат до основної програми.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1590880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 465d26e97568cf37be1af5d8dc86ff971fe16ba51b0563ce7832210b8f6f34a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} functie
+** Ukrainian glosses
+
+* Sense s-1590880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3ec3cd12f628d49ad9c11e7a46f62130330016708d2c96ae9fdc9f536a0917f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Funktion
+** Ukrainian glosses
+
+* Sense s-1590880-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a3f2146960db24c2ffc13661455996b2e9b75db4e11737b8179fee8b0d0e0987
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estély
+*** en-s-1590880-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: funkció
+*** en-s-1590880-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függvény
+*** en-s-1590880-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyűlés
+*** en-s-1590880-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztség
+*** en-s-1590880-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függvény
+*** en-s-1590880-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estély
+*** en-s-1590880-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: funkció
+*** en-s-1590880-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függvény
+*** en-s-1590880-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyűlés
+*** en-s-1590880-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tisztség
+*** en-s-1590880-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függvény
+** Ukrainian glosses
+
+* Sense s-1590880-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 22e005519389a137a68f896e55eac9724841529424a6ed56c96804b7d3c82fe4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) функция
+** Ukrainian glosses
+
+* Sense s-1590880-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6c0cfb5f5f8184bbbc61d54853bd061b3505b9f5301d5b264fa14eac107948a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: función matemática
+** Ukrainian glosses
+
+* Sense s-1590880-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: f5a3cad5334f084e217546b29fb96da6402c426cb0ca05f9464fbdae01fc4a01
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590880-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: funktion
+** Ukrainian glosses
