@@ -12071,3 +12071,20 @@ Entries remain learner-profile drafts pending independent linguistic review.
 Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
 and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-set24-*`; the pre-existing untracked files are preserved.
+
+
+## Twenty-fifth 100-word vocabulary goal (2026-11-02)
+
+Baseline: `1f18a8f2abf5e06e2fa53bac81d92f56f4382e92`. Target: 10 batches of 10, with a separate addition commit for each word.
+**100/100 committed; 0 remain.**
+
+Vocabulary selected from the BCCWJ corpus as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-02a.tsv).
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
+Ignored helper files: `tmp/n10k-set25-*`; the pre-existing untracked files are preserved.
