@@ -1,0 +1,138 @@
+#+TITLE: 貸借対照表
+#+JMDICT_ID: 1411200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいしゃくたいしょうひょう
+#+ROMAJI: taishakutaishouhyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-02
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1411200-001
+:PROPERTIES:
+:TEXT: 貸借対照表
+:END:
+** Reading rd-1411200-001
+:PROPERTIES:
+:TEXT: たいしゃくたいしょうひょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1411200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 420a44000bdc5abb8a423241056c81ee75957382fbf03384a88c87c074fbfd68
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- balance sheet
+** Ukrainian glosses
+*** uk-s-1411200-001-001
+:PROPERTIES:
+:END:
+- text :: бухгалтерський баланс (фінансовий звіт про активи, зобов'язання і капітал)
+** Learner notes
+*** note-s-1411200-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний фінансовий звіт підприємства на певну дату, що відображає вартість наявних активів, зобов'язань перед кредиторами та власного капіталу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1411200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 決算期末の貸借対照表を慎重に精査する。
+- READING :: けっさんきまつのたいしゃくたいしょうひょうをしんちょうにせいさする。
+- UK :: Уважно перевірити бухгалтерський баланс підприємства на кінець фінансового року.
+- FOCUS :: 貸借対照表
+*** ex-1411200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 企業の財務健全性を正確に把握するため、公認会計士は監査報告書の作成に向けて最新の貸借対照表の各科目を綿密に照合した。
+- READING :: きぎょうのざいむけんぜんせいをせいかくにはあくするため、こうにんかいけいしはかんさほうこくしょのさくせいにむけてさいしんのたいしゃくたいしょうひょうのかくかもくをめんみつにしょうごうした。
+- UK :: Аби точно оцінити фінансову стійкість фірми, аудитор ретельно звірив статті активів і пасивів в останньому балансі для звіту.
+- FOCUS :: 貸借対照表
+*** ex-1411200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 銀行の融資担当者は新規融資の可否を審査するにあたり、過去三年分の貸借対照表を詳細に分析して自己資本比率や負債の推移を厳格に評価した。
+- READING :: ぎんこうのゆうしたんとうしゃはしんきゆうしのかひをしんさするにあたり、かこさんねんぶんのたいしゃくたいしょうひょうをしょうさいにぶんせきしてじこしほんひりつやふさいのすいいをげんかくにひょうかした。
+- UK :: Перед схваленням кредиту банківський експерт проаналізував балансові звіти компанії за три роки, оцінивши частку власного капіталу.
+- FOCUS :: 貸借対照表
+
+* Sense s-1411200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bd67ae521e3b8ac4bc69e73a11c47a45eb21e15e2639baef1240b30c3ff96647
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411200-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {hand.} balans
+*** en-s-1411200-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} bilan
+*** en-s-1411200-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staat van baten en schulden
+** Ukrainian glosses
+
+* Sense s-1411200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f3ed9a146a4b3e25d94584b78adf292357f5000a4a846e59ee87206972ac5cae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411200-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bilanz
+*** en-s-1411200-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bilanzaufstellung
+** Ukrainian glosses
