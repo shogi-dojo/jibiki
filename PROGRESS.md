@@ -12105,3 +12105,83 @@ Entries remain learner-profile drafts pending independent linguistic review.
 Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
 and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-set26-*`; the pre-existing untracked files are preserved.
+
+## Twenty-seventh 100-word vocabulary goal (2026-11-04)
+
+Baseline: `265027c896b91ec42ef2cc64461f14d070ab49b3`. Target: 10 batches of 10, with a separate addition commit for each word.
+**100/100 committed; 0 remain.**
+
+Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses and Warodai references.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-04a.tsv).
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
+Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
+
+## Twenty-eighth 100-word vocabulary goal (2026-11-04)
+
+Baseline: `265027c896b91ec42ef2cc64461f14d070ab49b3`. Target: 10 batches of 10, with a separate addition commit for each word.
+**0/100 committed; 100 remain.**
+
+Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses and Warodai references.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-04b.tsv).
+Completed 0 batches have 0 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 1.
+Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
+
+## Twenty-ninth 100-word vocabulary goal (2026-11-04)
+
+Baseline: `265027c896b91ec42ef2cc64461f14d070ab49b3`. Target: 10 batches of 10, with a separate addition commit for each word.
+**0/100 committed; 100 remain.**
+
+Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses and Warodai references.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-04c.tsv).
+Completed 0 batches have 0 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 1.
+Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
+
+## Thirtieth 100-word vocabulary goal (2026-11-04)
+
+Baseline: `265027c896b91ec42ef2cc64461f14d070ab49b3`. Target: 10 batches of 10, with a separate addition commit for each word.
+**0/100 committed; 100 remain.**
+
+Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses and Warodai references.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-04d.tsv).
+Completed 0 batches have 0 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 1.
+Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
+
+## Thirty-first 100-word vocabulary goal (2026-11-04)
+
+Baseline: `265027c896b91ec42ef2cc64461f14d070ab49b3`. Target: 10 batches of 10, with a separate addition commit for each word.
+**0/100 committed; 100 remain.**
+
+Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
+The ledger records the actual source and deck level.
+Only identities, readings, and level tags are taken from Anki and source corpora.
+Ukrainian glosses, notes, and Japanese examples are independently authored from JMdict senses and Warodai references.
+Entries remain learner-profile drafts pending independent linguistic review.
+
+[Selection and commit ledger](docs/n10k-next100-2026-11-04e.tsv).
+Completed 0 batches have 0 original examples and passed JMdict validation, Org lint,
+and doctor checks. Continue with batch 1.
+Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
