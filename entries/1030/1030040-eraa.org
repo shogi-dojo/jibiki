@@ -1,0 +1,369 @@
+#+TITLE: エラー
+#+JMDICT_ID: 1030040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: エラー
+#+ROMAJI: eraa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1030040-001
+:PROPERTIES:
+:TEXT: エラー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1030040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2a5f3138189938f73d526828d1abceba6fd2090de48220392861183777697aba
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- error
+** Ukrainian glosses
+*** uk-s-1030040-001-001
+:PROPERTIES:
+:END:
+- text :: помилка, збій (системна або програмна помилка)
+** Learner notes
+*** note-s-1030040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та дієслово на する (ґайраїґо від англ. error). Помилка в роботі комп'ютерної програми, збій сервера чи неправильна дія користувача.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1030040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: プログラムの実行中にエラーが発生した。
+- READING :: プログラムのじっこうちゅうにエラーがはっせいした。
+- UK :: Під час виконання програми виникла помилка.
+- FOCUS :: エラー
+*** ex-1030040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: システムの突然のエラーによって作業中のデータが消去されてしまったため、バックアップからの復旧作業を行った。
+- READING :: システムのとつぜんのエラーによってさぎょうちゅうのデータがしょうきょされてしまったため、バックアップからのふっきゅうさぎょうをおこなった。
+- UK :: Через раптовий збій системи робочі дані було видалено, тому довелося виконувати відновлення з резервної копії.
+- FOCUS :: エラー
+*** ex-1030040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 重要なデータを送信する際には通信環境の不安定さに起因するエラーを防ぐため、事前に暗号化された安全な回線を確認することが求められる。
+- READING :: じゅうようなデータをそうしんするさいにはつうしんかんきょうのふあんていさにきいんするエラーをふせぐため、じぜんにあんごうかされたあんぜんなかいせんをかくにんすることがもとめられる。
+- UK :: Під час надсилання важливих даних задля уникнення помилок через нестабільність зв'язку необхідно заздалегідь перевірити захищене зашифроване з'єднання.
+- FOCUS :: エラー
+
+* Sense s-1030040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8bbb08895c925db967481733d82c1f938a801c89a6eb9634bec0e13f12188cbd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- baseb
+** English glosses
+- fumble that leads to failing to put out a runner
+** Ukrainian glosses
+*** uk-s-1030040-002-001
+:PROPERTIES:
+:END:
+- text :: помилка в бейсболі (промах захисника)
+** Learner notes
+*** note-s-1030040-002-001
+:PROPERTIES:
+:END:
+- UK :: Спортивний термін у бейсболі — невдала дія польового гравця захисту, через яку команда супротивника здобуває перевагу на базі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1030040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3da53d199ca10681b5a82e68cf865334b189c6eccb8b1f0f4d3785aab0ab011b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fout
+*** en-s-1030040-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergissing
+*** en-s-1030040-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abuis
+*** en-s-1030040-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dwaling
+*** en-s-1030040-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: miskleun
+** Ukrainian glosses
+
+* Sense s-1030040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2f8ffb9c84bdb4ff9e551347a049992e0f3620c7249b315cdef70ee6381c3c13
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} afwijking
+*** en-s-1030040-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fout
+** Ukrainian glosses
+
+* Sense s-1030040-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 668e8d010f9e79de6db984bce70a673986ba92cfc2f5ca6f9af4ee3a947e0317
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {honkb.} veldfout
+*** en-s-1030040-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fout
+** Ukrainian glosses
+
+* Sense s-1030040-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e49b8987166d3bf3a622dd01230befcdd711a559cc5b8f3bc6160f143601a91a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fouten maken
+*** en-s-1030040-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich vergissen
+*** en-s-1030040-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dwalen
+** Ukrainian glosses
+
+* Sense s-1030040-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d2e17ca4da2ffc2cdf6f47a2af973e67fa3a776303d9d08fbe3470ead020096a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afwijken
+** Ukrainian glosses
+
+* Sense s-1030040-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c8848ef5628dd52babf2918a192da9cfa5d87022c617d7ba762b2249d0d2ecf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: een speelfout begaan
+*** en-s-1030040-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkeerd
+*** en-s-1030040-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fout spelen
+** Ukrainian glosses
+
+* Sense s-1030040-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a8320e0778c8b1784ff171b44ce39c00df2ba98cac56f916fadcb2bb48f02f6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fehler
+** Ukrainian glosses
+
+* Sense s-1030040-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f0c38c9c19b1abe7ae891d9275dc239d7f4e3a2c518de2378c37146fbd2bc72e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-010-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltévelyedés
+*** en-s-1030040-010-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erkölcsi botlás
+** Ukrainian glosses
+
+* Sense s-1030040-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 933a0f6295224fa01c79bc88f59d26664ebfb54a87dee520ab3d0bf16907ee8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-011-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) error) ошибка
+** Ukrainian glosses
+
+* Sense s-1030040-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ef79b88551bf1b9360c42e492aa42a242d807c5d259ba50a201854c570020dba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1030040-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: error (eng:)
+** Ukrainian glosses
