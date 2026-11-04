@@ -1,0 +1,172 @@
+#+TITLE: イオン
+#+JMDICT_ID: 1021120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: イオン
+#+ROMAJI: ion
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1021120-001
+:PROPERTIES:
+:TEXT: イオン
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1021120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 19235eae365d10788e10d9968c82bffeee33750a507a32f2b7ee45196d84bd44
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+*** Language sources
+**** Language source ls-s-1021120-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Ion
+** English glosses
+- ion
+** Ukrainian glosses
+*** uk-s-1021120-001-001
+:PROPERTIES:
+:END:
+- text :: іон
+** Learner notes
+*** note-s-1021120-001-001
+:PROPERTIES:
+:END:
+- UK :: Електрично заряджена частинка (атом або молекула), яка утворилася внаслідок втрати чи приєднання одного або кількох електронів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1021120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水溶液中のイオンを測定する。
+- READING :: すいようえきちゅうのイオンをそくていする。
+- UK :: Вимірювати іони у водному розчині.
+- FOCUS :: イオン
+*** ex-1021120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 食塩を水に溶かすとナトリウムイオンと塩化物イオンに電離し、電気を通す性質を持つ電解質溶液へと変化する。
+- READING :: しょくえんをみずにとかすとナトリウムイオンとえんかぶつイオンにでんりし、でんきをとおすせいしつをもつでんかいしつようえきへとへんかする。
+- UK :: Коли кухонну сіль розчиняють у воді, вона дисоціює на іони натрію та хлорид-іони, перетворюючись на розчин електроліту, здатний проводити струм.
+- FOCUS :: イオン
+*** ex-1021120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: リチウムイオン電池は高いエネルギー密度と優れた充電効率を誇るため、スマートフォンから電気自動車に至るまで現代社会のあらゆる分野で活用されている。
+- READING :: リチウムイオンでんちはたかいエネルギーみつどとすぐれたじゅうでんこうりつをほこるため、スマートフォンからでんきじどうしゃにいたるまでげんだいしゃかいのあらゆるぶんやでかつようされている。
+- UK :: Літій-іонні акумулятори мають високу густину енергії та чудову ефективність заряджання, тому знаходять широке застосування в усіх сферах сучасного суспільства — від смартфонів до електромобілів.
+- FOCUS :: イオン
+
+* Sense s-1021120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c042dd1108ec3e707d2fb5599c4e96461ee3553021ea1ff83477a52eaa4d36c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021120-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {natuurk.
+*** en-s-1021120-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chem.} ion
+** Ukrainian glosses
+
+* Sense s-1021120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e030173724a278e5c3d3c6716a34f3ab01eaaf59020b0633388cd6d24b61dcd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021120-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ion (elektrisch geladenes Atom od. Molekül)
+** Ukrainian glosses
+
+* Sense s-1021120-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8c50ed7dcc90fbd85325fe94b6e554aefa4e2e862617d4b567b13af9ff2721f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021120-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ion
+** Ukrainian glosses
+
+* Sense s-1021120-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d8be4ced5eaedf9348434e4f18e320d9aa8186765b538fedb0f540d1f66b653c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1021120-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) ион
+*** en-s-1021120-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} ионный
+** Ukrainian glosses
