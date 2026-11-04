@@ -1,0 +1,200 @@
+#+TITLE: 喘息
+#+JMDICT_ID: 1565360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜんそく
+#+ROMAJI: zensoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1565360-001
+:PROPERTIES:
+:TEXT: 喘息
+:END:
+*** Priorities
+- news2
+- nf34
+- spec1
+** Written form wf-1565360-002
+:PROPERTIES:
+:TEXT: ぜん息
+:END:
+*** Information
+- sK
+** Reading rd-1565360-001
+:PROPERTIES:
+:TEXT: ぜんそく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+- spec1
+
+* Sense s-1565360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c9ad6bae979fa2fad49c5c2e18602ddd405bd60343bea00acba078c0e2e311de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- asthma
+** Ukrainian glosses
+*** uk-s-1565360-001-001
+:PROPERTIES:
+:END:
+- text :: астма; бронхіальна астма
+** Learner notes
+*** note-s-1565360-001-001
+:PROPERTIES:
+:END:
+- UK :: Хронічне запальне захворювання дихальних шляхів, що супроводжується періодичними нападами задухи, свистячим диханням і спазмами бронхів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1565360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 小児の喘息を治療する。
+- READING :: しょうにのぜんそくをちりょうする。
+- UK :: Лікувати дитячу астму.
+- FOCUS :: 喘息
+*** ex-1565360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 季節の変わり目で気温が急激に下がると喘息の発作が起きやすくなるため、常備薬の吸入器を欠かさず持ち歩いている。
+- READING :: きせつのかわりめできおんがきゅうげきにさがるとぜんそくのほっさがおきやすくなるため、じょうびやくのきゅうにゅうきをかかさずもちあるいている。
+- UK :: На зламі сезонів через різке похолодання частішають напади астми, тому я завжди ношу із собою інгалятор.
+- FOCUS :: 喘息
+*** ex-1565360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大気汚染の深刻化に伴って都市部で喘息に苦しむ患者が急増したため、自治体は工場の排ガス規制と緑化事業を推進した。
+- READING :: たいきおせんのしんこくかにともなってとしぶでぜんそくにくるしむかんじゃがきゅうぞうしたため、じちたいはこうじょうのはいガスきせいとみどりかじぎょうをすいしんした。
+- UK :: Через загострення забруднення повітря в містах стрімко побільшало хворих на астму, тож муніципалітет посилив обмеження на викиди та озеленення.
+- FOCUS :: 喘息
+
+* Sense s-1565360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 231f07a1dde511c42255aeee9facb96f291111f2bf746d18fa8f61194041177a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565360-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} astma
+*** en-s-1565360-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: borstbeklemming
+** Ukrainian glosses
+
+* Sense s-1565360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f291307619c37999c95795a631be8f4e2d4b6544dfb28873a14d26363029e475
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565360-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Asthma
+** Ukrainian glosses
+
+* Sense s-1565360-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0cba3b5f0fbd842fdd844a150966ff3be15237d1dde47dd7be22a47e86bc5eeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565360-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: asztma
+** Ukrainian glosses
+
+* Sense s-1565360-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 53eade313ff6fd3ff681cc28359b57a3eb548e77d48a7d8729fae6a87540be31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565360-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: астма; запал (у лошади)
+*** en-s-1565360-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} астматический
+** Ukrainian glosses
+
+* Sense s-1565360-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c76552ca042c4abf6753bcec3955fa8dd0e30a0894df786a321fbaed97454170
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565360-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: astma
+** Ukrainian glosses
