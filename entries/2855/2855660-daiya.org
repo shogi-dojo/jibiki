@@ -1,0 +1,488 @@
+#+TITLE: ダイヤ
+#+JMDICT_ID: 2855660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ダイヤ
+#+ROMAJI: daiya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2855660-001
+:PROPERTIES:
+:TEXT: ダイヤ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+- ichi1
+** Reading rd-2855660-002
+:PROPERTIES:
+:TEXT: ダイア
+:NO_KANJI: false
+:END:
+
+* Sense s-2855660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 06a05b67cc57412d13634c2d457e233950a89cdbbea86880608a813590148336
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-2855660-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: full
+:WASEI: false
+:END:
+- text :: dia(gram)
+** English glosses
+- (railway) schedule
+- timetable
+** Ukrainian glosses
+*** uk-s-2855660-001-001
+:PROPERTIES:
+:END:
+- text :: розклад руху (поїздів, транспорту); графік руху
+** Learner notes
+*** note-s-2855660-001-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від англійського diagram на позначення графіка або розкладу курсування залізничних поїздів, метро чи автобусів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2855660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大雪で電車のダイヤが乱れる。
+- READING :: おおゆきででんしゃのダイヤがみだれる。
+- UK :: Через сильний снігопад порушується графік руху поїздів.
+- FOCUS :: ダイヤ
+*** ex-2855660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春の観光シーズンに合わせて鉄道会社は大規模なダイヤの改正を実施し、主要都市を結ぶ特急列車の本数を大幅に増やした。
+- READING :: はるのかんこうシーズンにあわせててつどうがいしゃはだいきぼなダイヤのかいせいをじっしし、しゅようとしをむすぶとっきゅうれっしゃのほんすうをおおはばにふやした。
+- UK :: До весняного туристичного сезону залізнична компанія провела масштабне оновлення розкладу руху, суттєво збільшивши кількість експресів між великими містами.
+- FOCUS :: ダイヤ
+*** ex-2855660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本の鉄道網は秒単位で管理される世界屈指の正確なダイヤを誇っており、わずかな遅延であっても乗客に丁寧な案内放送が行われる。
+- READING :: にほんのてつどうもうはびょうたんいでかんりされるせかいくっしのせいかくなダイヤをほこっており、わずかなちえんであってもじょうきゃくにていねいなあんないほうそうがおこなわれる。
+- UK :: Залізнична мережа Японії славиться одним із найточніших у світі графіків руху з посекундним контролем, де навіть про мінімальну затримку ввічливо сповіщають пасажирів.
+- FOCUS :: ダイヤ
+
+* Sense s-2855660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f6b1642d8e8f425fcd161db6f8e874149d3685cddcb7ed300f4e42e41a423b9b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- ダイアグラム
+** English glosses
+- diagram
+** Ukrainian glosses
+*** uk-s-2855660-002-001
+:PROPERTIES:
+:END:
+- text :: діаграма; графічна схема
+** Learner notes
+*** note-s-2855660-002-001
+:PROPERTIES:
+:END:
+- UK :: Графічне зображення залежності між величинами або транспортної сітки.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2855660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c60d49cccb86486447b79ee9e1a39b55c9d0202dfb03658c0a3b8413b942c8bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diamant
+*** en-s-2855660-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} adamant
+** Ukrainian glosses
+
+* Sense s-2855660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 504b0ccfabdaa215e2b7e8901d9611517d83f05b1ed047f43a5ca03b85418934
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {honkb.} binnenveld
+*** en-s-2855660-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diamant
+** Ukrainian glosses
+
+* Sense s-2855660-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6bda080b3291c9d93511db24ae595338f1b7a9c2bafb1915b563280d29846ea6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {kaartsp.} ruiten
+*** en-s-2855660-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carreau
+*** en-s-2855660-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruitenkaart
+** Ukrainian glosses
+
+* Sense s-2855660-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: effb0b6c2a0a34c75102b754c03f95c12732ebcdfc945177e4f675667eb7fe8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rooster
+*** en-s-2855660-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} dienstregeling
+*** en-s-2855660-006-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} tijdschema
+*** en-s-2855660-006-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meton.} spoorboekje
+** Ukrainian glosses
+
+* Sense s-2855660-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 063bfcde64e429e5828b9f201ffa709ce60ed5552de347257d09d02768c0a44c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Diagramm
+*** en-s-2855660-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrplan
+*** en-s-2855660-007-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Diamant
+** Ukrainian glosses
+
+* Sense s-2855660-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: ba9c451d6bb540e4f99565ccff98994a38842b68ea2e8d0491a881788a736c39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karo
+*** en-s-2855660-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Raute
+*** en-s-2855660-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Diagramm
+*** en-s-2855660-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrplan
+** Ukrainian glosses
+
+* Sense s-2855660-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: b9c7944185400aa7e90f61ce21942ed304c1eb1bb3da0165d8ecd53f0365465c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kelmefestő
+*** en-s-2855660-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ruhafestő
+*** en-s-2855660-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diagram
+*** en-s-2855660-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grafikon
+*** en-s-2855660-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: táblázat
+** Ukrainian glosses
+
+* Sense s-2855660-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 54590c657558cc2b698c674fd73e193e0b95e1b0d31fdba9da027d7e5cf25bf7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр. англ.) diagram)
+*** en-s-2855660-010-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) расписание, график
+*** en-s-2855660-010-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) диаграмма
+*** en-s-2855660-010-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр. англ.) diamond) (см.) ダイヤモンド
+** Ukrainian glosses
+
+* Sense s-2855660-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 401fdd1b20e8a95526bb7cd29fd0c5ececef01dcd6213ec8ed02f783af5c8719
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diamant
+*** en-s-2855660-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vozni red 【時刻表】
+*** en-s-2855660-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: razpredelnica
+*** en-s-2855660-011-004
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diagram
+** Ukrainian glosses
+
+* Sense s-2855660-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 4612d75d8cf08ae5e7f1e3f47422a1e6e0adb9091ad554e93fcdfc2dddc44338
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2855660-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (eng: dyer
+*** en-s-2855660-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diamond) diamante
+*** en-s-2855660-012-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tintorero
+** Ukrainian glosses
