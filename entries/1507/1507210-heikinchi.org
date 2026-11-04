@@ -1,0 +1,161 @@
+#+TITLE: 平均値
+#+JMDICT_ID: 1507210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へいきんち
+#+ROMAJI: heikinchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1507210-001
+:PROPERTIES:
+:TEXT: 平均値
+:END:
+** Reading rd-1507210-001
+:PROPERTIES:
+:TEXT: へいきんち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1507210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 62ae3bdae37dfa8c3bfd3dbfe964f3a455545b72385deb3e0316df1003fd8cff
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- average value
+- mean value
+- mean
+- expectation
+** Ukrainian glosses
+*** uk-s-1507210-001-001
+:PROPERTIES:
+:END:
+- text :: середнє значення; середня величина; математичне сподівання
+** Learner notes
+*** note-s-1507210-001-001
+:PROPERTIES:
+:END:
+- UK :: Статистичний показник, обчислений шляхом ділення суми всіх числових значень у вибірці на їхню загальну кількість.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1507210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: テストの平均値を算出する。
+- READING :: テストのへいきんちをさんしゅつする。
+- UK :: Обчислити середній бал тесту.
+- FOCUS :: 平均値
+*** ex-1507210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回の全国模試における数学の平均値は前年よりも五点ほど高く、全体として好成績だった。
+- READING :: こんかいのぜんこくもしにおけるすうがくのへいきんちはぜんねんよりもごてんほどたかく、ぜんたいとしてこうせいせきだった。
+- UK :: Середній бал з математики на загальнонаціональному тестуванні цьогоріч виявився приблизно на п'ять балів вищим, ніж торік.
+- FOCUS :: 平均値
+*** ex-1507210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 過去数十年にわたる気象データを集計して各月の気温の平均値を正確に割り出すことで、地球温暖化がもたらす影響を客観的に評価できる。
+- READING :: かこすうじゅうねんにわたるきしょうデータをしゅうけいしてかくげつのきおんのへいきんちをせいかくにわりだすことで、ちきゅうおんだんかがもたらすえいきょうをきゃっかんてきにひょうかできる。
+- UK :: Точно обчисливши середні показники щомісячної температури на основі метеорологічних даних за кілька десятиліть, можна об'єктивно оцінити вплив глобального потепління.
+- FOCUS :: 平均値
+
+* Sense s-1507210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7255867199aab69d57c39cf007178c99a4208183636c703db98b5aa61f358751
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1507210-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Durchschnittswert
+** Ukrainian glosses
+
+* Sense s-1507210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5b8e7c5487be574e3e716ea573353bc3a0e6811807ad2bf2e4fd3c7faa4bc604
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1507210-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: smucig
+*** en-s-1507210-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: várakozás
+** Ukrainian glosses
+
+* Sense s-1507210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b03270965e1d8321714989034ac6f763d1fc374bb8ebfd7f58ad56757e184a6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1507210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: средняя стоимость
+** Ukrainian glosses
+
+* Sense s-1507210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 18c6a8e0c0b531b35c2d1ceb4e363204f56a823dde6033c4776c310749f73523
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1507210-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medelvärde
+** Ukrainian glosses
