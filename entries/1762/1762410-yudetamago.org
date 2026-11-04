@@ -1,0 +1,180 @@
+#+TITLE: ゆで卵
+#+JMDICT_ID: 1762410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆでたまご
+#+ROMAJI: yudetamago
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1762410-001
+:PROPERTIES:
+:TEXT: ゆで卵
+:END:
+** Written form wf-1762410-002
+:PROPERTIES:
+:TEXT: ゆで玉子
+:END:
+** Written form wf-1762410-003
+:PROPERTIES:
+:TEXT: 茹で卵
+:END:
+** Written form wf-1762410-004
+:PROPERTIES:
+:TEXT: 茹で玉子
+:END:
+** Reading rd-1762410-001
+:PROPERTIES:
+:TEXT: ゆでたまご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1762410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1886086192f39abc7c18e60375f7a0db1bdd8741a31e7b3e390ccf2b9ec87622
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- boiled egg
+** Ukrainian glosses
+*** uk-s-1762410-001-001
+:PROPERTIES:
+:END:
+- text :: варене яйце
+** Learner notes
+*** note-s-1762410-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також пишеться 茹で卵 або 茹で玉子). Позначає яйце, зварене у шкаралупі круто (固ゆで) або некруто (半熟), яке їдять окремо чи додають до салатів, рамену й одену.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1762410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ゆで卵を作る。
+- READING :: ゆでたまごをつくる。
+- UK :: Зварити яйце.
+- FOCUS :: ゆで卵
+*** ex-1762410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝食のサラダに輪切りにしたゆで卵を添えた。
+- READING :: ちょうしょくのサラダにわぎりにしたゆでたまごをそえた。
+- UK :: До ранкового салату я додала нарізане кружальцями варене яйце.
+- FOCUS :: ゆで卵
+*** ex-1762410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 沸騰したお湯に卵を入れて七分間きっちり時間を計って茹でると、黄身がとろりとした美味しい半熟のゆで卵ができる。
+- READING :: ふっとうしたおゆにたまごをいれてななふんかんきっちりじかんをはかってゆでると、きみがとろりとしたおいしいはんじゅくのゆでたまごができる。
+- UK :: Якщо покласти яйце в киплячу воду і варити рівно сім хвилин за таймером, вийде смачне некруте варене яйце з ніжним рідким жовтком.
+- FOCUS :: ゆで卵
+
+* Sense s-1762410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9a20ca4ac9eb8b8dbfbd04b1222c5630348a94e8d4cecb3f9ff4759f632a9bad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1762410-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gekookt ei
+** Ukrainian glosses
+
+* Sense s-1762410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cd14e8b4d08e3a4ddf818b6e70a1f32decece70ed7624ba1cc0145c6bb280608
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1762410-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gekochtes Ei
+** Ukrainian glosses
+
+* Sense s-1762410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ac2ef120e42a96c662b3f4c75ce78ee3df2f7221b6f2e0fd494e8fbb99b6eb72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1762410-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: főtt tojás
+** Ukrainian glosses
+
+* Sense s-1762410-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dca96a1c73431f8100ea76f466fca0c005892983b4c9db66903b027d17723b1b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1762410-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: варёное яйцо
+** Ukrainian glosses
+
+* Sense s-1762410-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 94ce5564ec29b158c65d0f3074bab185b95fbeb1ccfdc286a4c4b79ffbf08185
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1762410-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huevo duro
+** Ukrainian glosses
