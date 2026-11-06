@@ -1,0 +1,182 @@
+#+TITLE: 右辺
+#+JMDICT_ID: 1171220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うへん
+#+ROMAJI: uhen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1171220-001
+:PROPERTIES:
+:TEXT: 右辺
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1171220-001
+:PROPERTIES:
+:TEXT: うへん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1171220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 49fc815672c40e142ce91c19763a13ce4b933e93951a2761ff1547e926c976ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 左辺・1
+** English glosses
+- right side (of an equation, expression, etc.)
+- RHS
+** Ukrainian glosses
+*** uk-s-1171220-001-001
+:PROPERTIES:
+:END:
+- text :: права частина (математичного рівняння чи рівності)
+** Learner notes
+*** note-s-1171220-001-001
+:PROPERTIES:
+:END:
+- UK :: Складова частина математичної тотожності, алгебраїчного виразу або рівняння, розташована праворуч від знака рівності чи нерівності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1171220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 方程式の左辺と右辺を等しくする。
+- READING :: ほうていしきのさへんとうへんをひとしくする。
+- UK :: Зрівняти ліву та праву частини алгебраїчного рівняння.
+- FOCUS :: 右辺
+*** ex-1171220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 数学の証明問題では、左辺を変形して右辺と同じ形を導き出すことで等式が常に成り立つことを論理的に示す。
+- READING :: すうがくのしょうめいもんだいでは、さへんをへんけいしてうへんとおなじかたちをみちびきだすことでとうしきがつねになりたつことをろんりてきにしめす。
+- UK :: У задачах на доведення ліву частину перетворюють, приводячи до правої частини, щоб логічно довести справедливість тотожності.
+- FOCUS :: 右辺
+*** ex-1171220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 微分方程式の解法において、左辺の未知関数の微分項と右辺にまとめられた既知の変数項とを慎重に分離して両辺を積分することにより、物理現象を記述する重要な一般解を厳密に導き出した。
+- READING :: びぶんほうていしきのかいほうにおいて、さへんのみちかんすうのびぶんこうとうへんにまとめられたきちのへんすうこうとをしんちょうにぶんりしてりょうへんをせきぶんすることにより、ぶつりげんしょうをきじゅつするじゅうようないっぱんかいをげんみつにみちびきだした。
+- UK :: Розв'язуючи диференціальне рівняння, математик розділив похідні невідомої функції в лівій частині та змінні в правій частині й інтегруванням вивів загальний розв'язок.
+- FOCUS :: 右辺
+
+* Sense s-1171220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f45e50ea4857d5c096e12025bb72985a7ce95b0914b86b89e546edb2b3b6466
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- right side (go, chess, othello board)
+** Ukrainian glosses
+*** uk-s-1171220-002-001
+:PROPERTIES:
+:END:
+- text :: права сторона (дошки для гри в ґо або сьоґі)
+** Learner notes
+*** note-s-1171220-002-001
+:PROPERTIES:
+:END:
+- UK :: Права частина ігрового поля на дошці для сьоґі чи ґо, де розгортаються локальні тактичні сутички.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1171220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 90247db0574df3c83cc44e9b5cfb2bbbf0f57cbe6b487283c0d8eafce7c508c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1171220-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechterkant
+*** en-s-1171220-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechterzijde
+*** en-s-1171220-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} rechterlid
+** Ukrainian glosses
+
+* Sense s-1171220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e1262d54f0be489421c8d04b81a3e761b32b67c8ade375abf194f40cf9f69b7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1171220-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die rechte Seite (einer Gleichung)
+** Ukrainian glosses
+
+* Sense s-1171220-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 120839f676e7bac624e26bb9a640b38b2a1d4f5f0b0880d3f73c9044d7904158
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1171220-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: правая сторона
+** Ukrainian glosses
