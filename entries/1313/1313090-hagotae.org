@@ -1,0 +1,195 @@
+#+TITLE: 歯ごたえ
+#+JMDICT_ID: 1313090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はごたえ
+#+ROMAJI: hagotae
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1313090-001
+:PROPERTIES:
+:TEXT: 歯ごたえ
+:END:
+*** Priorities
+- spec1
+** Written form wf-1313090-002
+:PROPERTIES:
+:TEXT: 歯応え
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1313090-001
+:PROPERTIES:
+:TEXT: はごたえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+- spec1
+
+* Sense s-1313090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f3b441f4d67cd2e63cedcb1ec7ec3e85246bc581cac726c9150649230d48a186
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chewiness
+- firmness
+- feel of food while being chewed
+** Ukrainian glosses
+*** uk-s-1313090-001-001
+:PROPERTIES:
+:END:
+- text :: пружність або хрумкість їжі під час жування; приємна твердість на зуб
+** Learner notes
+*** note-s-1313090-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також записується 歯応え). Описує відчуття, яке викликає свіжа, пружна або хрумка їжа під час розжовування (歯ごたえのある麺 — пружна локшина).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1313090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 良い歯ごたえ。
+- READING :: よいはごたえ。
+- UK :: Приємна пружність (хрумкість) їжі.
+- FOCUS :: 歯ごたえ
+*** ex-1313090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このうどんはしっかりとした強い歯ごたえがあってとても美味しい。
+- READING :: このうどんはしっかりとしたつよいはごたえがあってとてもおいしい。
+- UK :: Ця локшина удон надзвичайно смачна завдяки своїй відчутній пружності.
+- FOCUS :: 歯ごたえ
+*** ex-1313090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 野菜は火を通しすぎないように短時間でさっと炒めることで、鮮やかな色とシャキシャキとした心地よい歯ごたえを残すことができる。
+- READING :: やさいはひをとおしすぎないようにたんじかんでさっといためることで、あざやかないろとシャキシャキとしたここちよいはごたえをのこすことができる。
+- UK :: Якщо обсмажити овочі швидко, не перетримуючи їх на вогні, можна зберегти їхній яскравий колір і приємну хрумкість.
+- FOCUS :: 歯ごたえ
+
+* Sense s-1313090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0cba5a59716abd61a7adcb3841689cbb2bb79eb75c216aee373a073f947eb101
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- challenge (e.g. work, book)
+- toughness
+** Ukrainian glosses
+*** uk-s-1313090-002-001
+:PROPERTIES:
+:END:
+- text :: гідний опір; складність, що вимагає серйозних зусиль і приносить задоволення від подолання
+** Learner notes
+*** note-s-1313090-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Вживається переносно про серйозне завдання, глибоку книгу чи сильного суперника (歯ごたえのある仕事 — непроста, але цікава робота).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1313090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a7ce2e9e7429fc059f4ea5e02a5fd3eeaa9955b8201ac446b55931cbebd1d8dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313090-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaugefühl
+*** en-s-1313090-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Widerstand beim Kauen
+*** en-s-1313090-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zähigkeit
+** Ukrainian glosses
+
+* Sense s-1313090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f097033b48e3cbc803d9dd2ac420a96de428660322302197e2e4ebb776ff2b4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313090-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reaktionen im Umgang mit anderen Menschen
+*** en-s-1313090-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Widerstände bei der Arbeit
+** Ukrainian glosses
+
+* Sense s-1313090-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 696ff25e822abea5ea6547ca76dc2346df1e1349b9ce9c90dbfc2171c2db2b74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1313090-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～がする} быть твёрдым (жёстким  (о пище)); (перен.) быть не по зубам
+** Ukrainian glosses
