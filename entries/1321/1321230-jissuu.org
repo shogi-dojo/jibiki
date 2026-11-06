@@ -1,0 +1,260 @@
+#+TITLE: 実数
+#+JMDICT_ID: 1321230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じっすう
+#+ROMAJI: jissuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1321230-001
+:PROPERTIES:
+:TEXT: 実数
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1321230-001
+:PROPERTIES:
+:TEXT: じっすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1321230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e7be4ab84ef7d06ac0a449511d3dadc5747b74c9876e4933c809d17fc5220218
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- real number
+** Ukrainian glosses
+*** uk-s-1321230-001-001
+:PROPERTIES:
+:END:
+- text :: дійсне число (у вищій та шкільній математиці)
+** Learner notes
+*** note-s-1321230-001-001
+:PROPERTIES:
+:END:
+- UK :: Будь-яке раціональне або ірраціональне математичне число на дійсній числовій осі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1321230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2e7fa10423e989b45f2d0df51548f4741acbdd3cea0c648d117c300f494377ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- actual number (as opposed to a speculative number)
+- true number
+** Ukrainian glosses
+*** uk-s-1321230-002-001
+:PROPERTIES:
+:END:
+- text :: фактична кількість; реальне число; точні дані
+** Learner notes
+*** note-s-1321230-002-001
+:PROPERTIES:
+:END:
+- UK :: Дійсна, фактично перевірена й підрахована кількість людей або предметів, на відміну від орієнтовних оцінок чи приблизних припущень.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1321230-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 被害者の実数を調査する。
+- READING :: ひがいしゃのじっすうをちょうさする。
+- UK :: З'ясовувати фактичну кількість постраждалих.
+- FOCUS :: 実数
+*** ex-1321230-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 推測や見込みの数値ではなく、現地で丹念に集計された正確な実数を把握することが今後の復興計画の前提条件である。
+- READING :: すいそくやみこみのすうちではなく、げんちでたんねんにしゅうけいされたせいかくなじっすうをはあくすることがこんごのふっこうけいかくのぜんていじょうけんである。
+- UK :: Усвідомлення точної фактичної кількості, зібраної на місці, а не голослівних здогадок, є передумовою для подальшого плану відновлення.
+- FOCUS :: 実数
+*** ex-1321230-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 政府が公式に発表した統計報告書では、これまでの概算見積もりを大幅に見直し、厳格な調査によって確認された被災世帯の実数を公表することで、迅速かつ公平な公的支援の支給基準を整えた。
+- READING :: せいふがこうしきにはっぴょうしたとうけいほうこくしょでは、これまでのがいさんみつもりをおおはばにみなおし、げんかくなちょうさによってかくにんされたひさいせたいのじっすうをこうひょうすることで、じんそくかつこうへいなこうてきしえんのしきゅうきじゅんをととのえた。
+- UK :: В офіційному звіті уряд суттєво переглянув попередні орієнтовні оцінки й опублікував точну фактичну кількість постраждалих домогосподарств, встановивши прозорі норми для швидкої допомоги.
+- FOCUS :: 実数
+
+* Sense s-1321230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cca9d1678e3725e843291fc26e0e71dab8ad2f3ef8aa1e074c5e306596732d65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reële cijfers
+*** en-s-1321230-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: werkelijk aantal
+*** en-s-1321230-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {兵員の} effectieve sterkte
+** Ukrainian glosses
+
+* Sense s-1321230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 69f08a15f88f82d3db9d4bf2d6efa8ff8649ddd7dfd144d81cd6d82972d12828
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} reëel getal
+** Ukrainian glosses
+
+* Sense s-1321230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 586ee057197806be912f14624606013410dca59aca7adb53ea31ec3818ae184d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tatsächliche Anzahl
+** Ukrainian glosses
+
+* Sense s-1321230-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0b5299e8be183dcef7b3470de5ac6719755de23fa8a55bbb94e7b4eea6f74ee3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reelle Zahl
+** Ukrainian glosses
+
+* Sense s-1321230-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 7a5a48d48956e53e52a9c613b379bd514a438fe3902c078ef5a3e167572fdd8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valós szám
+** Ukrainian glosses
+
+* Sense s-1321230-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 65088e925cc7e62280c84ce0c86f4ce61bdf0a212764272db94b8785da346aee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) действительное число (количество), фактическая численность
+*** en-s-1321230-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (мат.) рациональные и иррациональные числа
+** Ukrainian glosses
+
+* Sense s-1321230-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 0ba5ca0e31f78bac7cdbf8ca925535eaf1f79d45171534f8d40f0ea799d32e9d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1321230-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: número real
+** Ukrainian glosses
