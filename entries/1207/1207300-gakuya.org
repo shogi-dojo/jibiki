@@ -1,0 +1,243 @@
+#+TITLE: 楽屋
+#+JMDICT_ID: 1207300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がくや
+#+ROMAJI: gakuya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1207300-001
+:PROPERTIES:
+:TEXT: 楽屋
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1207300-001
+:PROPERTIES:
+:TEXT: がくや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1207300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2797a5f1f7f84e52320876359085e0f164aebd82ea71b7ca5551fcf4c0be72da
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dressing room
+- green room
+- backstage
+** Ukrainian glosses
+*** uk-s-1207300-001-001
+:PROPERTIES:
+:END:
+- text :: гримерна; акторська вбиральня; лаштунки
+** Learner notes
+*** note-s-1207300-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Кімната за сценою театру, концертної зали чи телестудії, де актори й музиканти перевдягаються, гримуються та відпочивають перед виходом на публіку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1207300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 劇場の楽屋。
+- READING :: げきじょうのがくや。
+- UK :: Театральна гримерна.
+- FOCUS :: 楽屋
+*** ex-1207300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 開演の一時間前に出演者たちが楽屋に集まって最後の打ち合わせをした。
+- READING :: かいえんのいちじかんまえにしゅつえんしゃたちががくやにあつまってさいごのうちあわせをした。
+- UK :: За годину до початку вистави виконавці зібралися в гримерній і провели останнє узгодження.
+- FOCUS :: 楽屋
+*** ex-1207300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 舞台の上では厳しい表情で迫真の演技を見せていた俳優も、終演後に楽屋へ戻るとほっとした笑顔でスタッフに感謝の言葉をかけた。
+- READING :: ぶたいのうえではきびしいひょうじょうではくしんのえんぎをみせていたはいゆうも、しゅうえんごにがくやへもどるとほっとしたえがおでスタッフにかんしゃのことばをかけた。
+- UK :: Актор, який на сцені із суворим обличчям демонстрував вражаючу гру, повернувшись після вистави до гримерної, з полегшеною усмішкою подякував працівникам сцени.
+- FOCUS :: 楽屋
+
+* Sense s-1207300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 39072cbe365959d088afc21c5277fac23d85c9cc3886e7ef7b28b872155bb9e0
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 楽屋裏・がくやうら・2
+** English glosses
+- behind the scenes
+- the inside
+- inside affairs
+** Ukrainian glosses
+*** uk-s-1207300-002-001
+:PROPERTIES:
+:END:
+- text :: залаштунки; внутрішня кухня справи (переносно)
+** Learner notes
+*** note-s-1207300-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Вживається переносно про внутрішні справи, не призначені для сторонніх очей (楽屋裏 — за лаштунками, 楽屋落ち — жарт, зрозумілий лише «своїм»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1207300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4efee4c4dd0f7428e432e82627823420c31b620edeb3935b83a69acba859e0a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207300-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {m.b.t. theater} kleedkamer
+*** en-s-1207300-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: artiestenfoyer
+*** en-s-1207300-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: backstage
+** Ukrainian glosses
+
+* Sense s-1207300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b9418f4cc735f8e8254dc0b75ef805bd0555602fa734f7f5e6811f5f2aeaa9d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207300-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertrouwelijke zaken
+*** en-s-1207300-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} interne keuken
+*** en-s-1207300-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: achter de schermen
+** Ukrainian glosses
+
+* Sense s-1207300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 268c5ec8e40ac4540a04c3069233e00f79679ce1a2f66eac6e26b31edad5a97e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207300-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Künstlergarderobe
+*** en-s-1207300-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Garderobe
+** Ukrainian glosses
+
+* Sense s-1207300-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 98e1a3ef68586e9f9a8c57c18bc941df0dad36b54751ad2d2b1b1b29a1fa3421
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207300-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Insidergeschichte
+** Ukrainian glosses
+
+* Sense s-1207300-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9c664a6255a6060e23895470e1457b4671b7da11beec593b6480f055526103ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207300-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: актёрская уборная; артистическое фойе; (обр.) за кулисами
+** Ukrainian glosses
