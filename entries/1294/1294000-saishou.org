@@ -1,0 +1,280 @@
+#+TITLE: 最小
+#+JMDICT_ID: 1294000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいしょう
+#+ROMAJI: saishou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1294000-001
+:PROPERTIES:
+:TEXT: 最小
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf14
+** Reading rd-1294000-001
+:PROPERTIES:
+:TEXT: さいしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf14
+
+* Sense s-1294000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2be33b5d0ff6d16e5d84532e91fb000bfc443bf7ab59ff2566ce026c11be334d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+- n
+*** Antonyms
+- 最大
+** English glosses
+- smallest (in size, degree, etc.)
+- least
+- minimum
+- minimal
+** Ukrainian glosses
+*** uk-s-1294000-001-001
+:PROPERTIES:
+:END:
+- text :: найменший; мінімальний; мінімум
+** Learner notes
+*** note-s-1294000-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та означення (の). Позначає найменшу величину за розміром, кількістю чи ступенем прояву (на противагу 最大 — найбільшому; 最小限 — мінімальна межа, 最小公倍数 — найменше спільне кратне).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1294000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 世界最小の部品。
+- READING :: せかいさいしょうのぶひん。
+- UK :: Найменша у світі деталь.
+- FOCUS :: 最小
+*** ex-1294000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 被害を最小に抑えるために早めの避難が呼びかけられた。
+- READING :: ひがいをさいしょうにおさえるためにはやめのひなんがよびかけられた。
+- UK :: Щоб звести збитки до мінімуму, мешканців закликали до завчасної евакуації.
+- FOCUS :: 最小
+*** ex-1294000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本のメーカーが高度な精密加工技術を駆使して開発した世界最小の医療用カメラが、国際的な展示会で大きな注目を集めた。
+- READING :: にほんのメーカーがこうどなせいみつかこうぎじゅつをくししてかいはつしたせかいさいしょうのいりょうようカメラが、こくさいてきなてんじかいでおおきなちゅうもくをあつめた。
+- UK :: Найменша у світі медична камера, розроблена японським виробником із застосуванням передових технологій високоточної обробки, привернула неабияку увагу на міжнародній виставці.
+- FOCUS :: 最小
+
+* Sense s-1294000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ea131acd58aec6c1d630cfa4d8ad64d8d9aab3e50c1d9ea71f71134de654928b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleinst
+*** en-s-1294000-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimum-
+*** en-s-1294000-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimaal
+*** en-s-1294000-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleinste
+*** en-s-1294000-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimum
+** Ukrainian glosses
+
+* Sense s-1294000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a957997accb9c838c6d18ba6c30c036632f423898aaf7832f6397998d45ccc2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimum
+** Ukrainian glosses
+
+* Sense s-1294000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 09e7e83205b4785cbfae4383e28e2a37d695c454cd446a657aeb3df975b3eeb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleinst
+*** en-s-1294000-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimal
+*** en-s-1294000-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wenigst
+** Ukrainian glosses
+
+* Sense s-1294000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e8dffb1d3522c0155fe1e6a380438b816c51c03fa734148f8130dfac74eaeb2f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legcsekélyebb
+*** en-s-1294000-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legjelentéktelenebb
+*** en-s-1294000-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legkevesebb
+*** en-s-1294000-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legkisebb
+** Ukrainian glosses
+
+* Sense s-1294000-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0d1e2eb3962b792cf74310c5abd8719460893da647aa9f9470b2322b10e46b9e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} самый малый, наименьший, минимальный
+** Ukrainian glosses
+
+* Sense s-1294000-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ab7de188e274cb1d5d6a4a1728974b4be69999e47a77e5376beb9ca07656344d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294000-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: más pequeño
+*** en-s-1294000-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: al mínimo
+** Ukrainian glosses
