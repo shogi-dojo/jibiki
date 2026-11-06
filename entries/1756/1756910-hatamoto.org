@@ -1,0 +1,225 @@
+#+TITLE: 旗本
+#+JMDICT_ID: 1756910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はたもと
+#+ROMAJI: hatamoto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1756910-001
+:PROPERTIES:
+:TEXT: 旗本
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1756910-001
+:PROPERTIES:
+:TEXT: はたもと
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1756910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0cd38610995126e7182f372a0b5c1fafee74d372515fc66113deb9da1203a598
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- headquarters (on the battlefield)
+** Ukrainian glosses
+*** uk-s-1756910-001-001
+:PROPERTIES:
+:END:
+- text :: ставка полководця (біля головного бойового знамена на полі битви)
+** Learner notes
+*** note-s-1756910-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. У військовій історії позначає місце біля головного прапора командувача війська та його особисту охорону.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1756910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 25801a71cfa2923992300a0fd1ed88349b7856ef7b434ab6f6ec09309cfcf51f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- direct retainer of a shogun (Edo period)
+- shogunal vassal
+- hatamoto
+** Ukrainian glosses
+*** uk-s-1756910-002-001
+:PROPERTIES:
+:END:
+- text :: хатамото (прямий васал шьоґуна Токуґава з доходом до 10 000 коку і правом особистої аудієнції)
+** Learner notes
+*** note-s-1756910-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. В історії доби Едо позначає вищий прошарок безпосередніх самурайських васалів сьоґунату Токуґава, які мали дохід менше ніж 10 000 коку рису (відрізняючись від даймьо), але користувалися правом особистої аудієнції у шьоґуна (на відміну від нижчих васалів 御家人・ごけにん).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1756910-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 徳川家の旗本。
+- READING :: とくがわけのはたもと。
+- UK :: Прямий васал (хатамото) дому Токуґава.
+- FOCUS :: 旗本
+*** ex-1756910-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 江戸の町には将軍に直属する多くの旗本の屋敷が並んでいた。
+- READING :: えどのまちにはしょうぐんにちょくぞくするおおくのはたもとのやしきがならんでいた。
+- UK :: У місті Едо стояли ряди садиб численних хатамото, які безпосередньо підпорядковувалися шьоґунові.
+- FOCUS :: 旗本
+*** ex-1756910-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の武士階級において、旗本は石高が一万石未満でありながら将軍に直接お目見えできる高い格式を持っていた。
+- READING :: えどじだいのぶしかいきゅうにおいて、はたもとはこくだかがいちまんごくみまんでありながらしょうぐんにちょくせつおめみえできるたかいかくしきをもっていた。
+- UK :: У самурайському стані доби Едо хатамото, хоч і мали дохід менше десяти тисяч коку рису, володіли високим статусом із правом особистої аудієнції у шьоґуна.
+- FOCUS :: 旗本
+
+* Sense s-1756910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 57d0b08b473a23c0a8d2e0a1b79ca889638763254b38af5dbc4fa0275e11c43e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1756910-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoofdkwartier
+** Ukrainian glosses
+
+* Sense s-1756910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: abf4562e50c94944948ebd464451b347a0560440df8363614fb4a298f46361bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1756910-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adjudant te velde
+*** en-s-1756910-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vleugeladjudant
+*** en-s-1756910-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lijfwacht van een generaal
+*** en-s-1756910-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elitevazal
+** Ukrainian glosses
+
+* Sense s-1756910-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4c77462843e2a7df3d3b75c8acb8d5c070b23c690eac9c51084c23e847d6d7bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1756910-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Jap.gesch.} baanderheer {= rechtstreekse vazal van de Tokugawa-shoguns met een domein van minder dan 10.000 koku en met recht op audiëntie bij de shogun}
+** Ukrainian glosses
+
+* Sense s-1756910-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: be0183f82b0c16e72bdcc86fedf8afbc489e3659389400d5d6650785d23a8a8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1756910-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unmittelbarer Vasall des Shōgun (vom Rang her zwischen Daimyō und Gokenin)
+** Ukrainian glosses
+
+* Sense s-1756910-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 19a0931bd305bfe2fbde805d793db845dee6e431881e02ade9211db42b97366d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1756910-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) хатамото (непосредственные вассалы сёгуна)
+** Ukrainian glosses
