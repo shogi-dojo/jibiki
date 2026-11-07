@@ -1,0 +1,165 @@
+#+TITLE: 横軸
+#+JMDICT_ID: 1180810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よこじく
+#+ROMAJI: yokojiku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180810-001
+:PROPERTIES:
+:TEXT: 横軸
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1180810-001
+:PROPERTIES:
+:TEXT: よこじく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1180810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c0a738530e11273c558585f674f205d82d6b0076aa79ebed14225c71d240fa40
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- abscissa
+- horizontal axis
+** Ukrainian glosses
+*** uk-s-1180810-001-001
+:PROPERTIES:
+:END:
+- text :: вісь абсцис; горизонтальна вісь
+** Learner notes
+*** note-s-1180810-001-001
+:PROPERTIES:
+:END:
+- UK :: Горизонтальна координатна вісь графіка чи діаграми, вздовж якої найчастіше відкладаються значення часу або незалежної змінної.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1180810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: グラフの横軸に経過時間を設定する。
+- READING :: グラフのよこじくにけいかじかんをせっていする。
+- UK :: Встановити показники часу на горизонтальній осі графіка.
+- FOCUS :: 横軸
+*** ex-1180810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 発表用のプレゼンテーション資料では、縦軸に年間売上高を、横軸に各四半期の推移を分かりやすく配置した。
+- READING :: はっぴょうようのプレゼンテーションしりょうでは、たてじくにねんかんうりあげだかを、よこじくにかくしはんきのすいいをわかりやすくはいちした。
+- UK :: У презентації на вертикальній осі позначили річний прибуток, а на горизонтальній — поквартальні зміни.
+- FOCUS :: 横軸
+*** ex-1180810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 経済学の講義で配られた統計グラフの横軸には過去半世紀にわたる各年の推移が刻まれており、学生たちは物価変動と失業率の相関関係について熱心に分析を進めた。
+- READING :: けいざいがくのこうぎでくばられたとうけいグラフのよこじくにはかこはんせいきにわたるかくねんのすいいがきざまれており、がくせいたちはぶっかへんどうとしつぎょうりつのそうかんかんけいについてねっしんにぶんせきをすすめた。
+- UK :: На осі абсцис графіка були відкладені дані за півстоліття, за якими студенти детально вивчали рівень інфляції.
+- FOCUS :: 横軸
+
+* Sense s-1180810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3144ca328fda140746a98b2cc7b1f05e82120b1bee44ff3cfa4cdcf336acb1d3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 掛け物・かけもの・1
+** English glosses
+- horizontal scroll
+** Ukrainian glosses
+*** uk-s-1180810-002-001
+:PROPERTIES:
+:END:
+- text :: горизонтальний сувій; емакімоно
+** Learner notes
+*** note-s-1180810-002-001
+:PROPERTIES:
+:END:
+- UK :: Традиційний японський сувій, що розгортається в горизонтальному напрямку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1180810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fc71367cd9f5e614205e41f43adf01c775475c8575edff4a83e8fc0565c57dce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180810-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: querliegende Achse
+** Ukrainian glosses
+
+* Sense s-1180810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 182cb5aee07d7bfb1287fedb587f857373d3815916e8368a65f106a86728aa4d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180810-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abszissenachse
+** Ukrainian glosses
+
+* Sense s-1180810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: edbd34ec71159f4799f606c52d1b4181f28e9bf291aaffee0848424666bf5f6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180810-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поперечная ось; горизонтальный вал
+** Ukrainian glosses
