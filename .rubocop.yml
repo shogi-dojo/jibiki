@@ -1,0 +1,14 @@
+AllCops:
+  TargetRubyVersion: 4.0
+  NewCops: enable
+  Exclude:
+    - entries/**/*
+    - sources/**/*
+    - tmp/**/*
+    - vendor/**/*
+
+# The CLI scripts include EntryValidator at the top level so its functions
+# stay callable without a receiver, as they were before the move to lib/.
+Style/MixinUsage:
+  Exclude:
+    - scripts/validate_entry.rb

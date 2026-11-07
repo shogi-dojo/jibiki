@@ -1,0 +1,461 @@
+# frozen_string_literal: true
+
+require 'digest'
+require 'fileutils'
+require 'tmpdir'
+require_relative 'dictionary_sources/jmdict'
+require_relative 'exporters/houhou_vocab_matcher'
+require_relative 'org_entry'
+require 'yanagi'
+
+# The entry validator behind `rake entries:validate` (docs/org-format.md §18).
+# Its functions are module functions, so library users call
+# `EntryValidator.validate_entry(path)`, and scripts may `include` it.
+module EntryValidator
+  module_function
+
+  REPO_ROOT = File.expand_path('..', __dir__)
+  JMDICT_PATH = ENV.fetch(
+    'JMDICT_PATH',
+    File.join(REPO_ROOT, 'sources', 'jmdict', 'JMdict.xml.gz')
+  )
+
+  # EDRDG regenerates JMdict daily, so `entries:scaffold` stamps whichever archive
+  # generation an entry was reconciled against and the corpus accumulates hashes
+  # faster than any single archive stays current. Entries authored against an
+  # older generation remain valid, so the recognised set is the whole history of
+  # archives the corpus has been reconciled against, newest first, plus the
+  # archive currently on disk. Append the new hash here whenever authoring pulls a
+  # fresher JMdict; never replace an existing one while entries still carry it.
+  KNOWN_JMDICT_SHA256S = [
+    'a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41',
+    '62f5fd402cfbff619e592e11b16276fa8cdb7c7524126194e9000af6019dfcf5',
+    '08cfdf99863a0859570db7f7e0c8ab49dce8dea1fd090c3b99464fc12d20c81e'
+  ].freeze
+
+  def valid_jmdict_shas
+    @valid_jmdict_shas ||= begin
+      shas = KNOWN_JMDICT_SHA256S.dup
+      shas << Digest::SHA256.file(JMDICT_PATH).hexdigest if File.exist?(JMDICT_PATH)
+      shas.uniq
+    end
+  end
+
+  STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
+
+
+  # Romaji rendering is provided by the yanagi gem, which owns the single
+  # kana->Hepburn implementation shared with the meijin repo.
+  def to_romaji(str)
+    Yanagi.romaji(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di').gsub('iぇ', 'ye')
+  end
+
+  def romaji_matches?(reading, romaji)
+    expected = to_romaji(reading)
+    return true if romaji == expected
+
+    norm_actual = romaji.gsub(/\d+$/, '').gsub(/([aeiou])-/, '\1\1').gsub('oo', 'ou').gsub('dewa', 'deha').gsub('aruiwa', 'aruiha')
+    norm_exp = expected.gsub('oo', 'ou')
+    norm_actual == norm_exp
+  end
+
+  # Exact field values the generators emit as placeholders. Matched whole,
+  # never as substrings. 'Basic word.' is the learner-note stub; 'text' is the
+  # scaffolder's Ukrainian-gloss stub; the rest are the example stub.
+  PLACEHOLDER_FIELDS = {
+    'JA' => ['例'],
+    'READING' => ['れい'],
+    'UK' => ['Приклад.', 'Basic word.'],
+    'EN' => ['Example.'],
+    'FOCUS' => ['例'],
+    'text' => ['Приклад.']
+  }.freeze
+
+  # Reading the gzipped archive dominates runtime, so keep one reader and one
+  # cache per process: validating N entries must not mean N full archive scans.
+  def jmdict
+    @jmdict ||= DictionarySources::Jmdict.new(JMDICT_PATH)
+  end
+
+  def jmdict_entry(ent_seq)
+    @jmdict_entries ||= {}
+    @jmdict_entries.fetch(ent_seq) do
+      @jmdict_entries[ent_seq] = jmdict.lookup(ent_seq:).first
+    end
+  end
+
+  # Prime the cache for many entries in a single archive pass.
+  def preload_jmdict_entries(ent_seqs)
+    ent_seqs = ent_seqs.compact.uniq
+    return if ent_seqs.length < 2
+
+    @jmdict_entries ||= {}
+    queries = ent_seqs.map { |seq| { ent_seq: seq } }
+    jmdict.lookup_many(queries).each_with_index do |matches, index|
+      @jmdict_entries[ent_seqs[index]] = matches.first
+    end
+  end
+
+  def duplicate_jmdict_id_errors(paths)
+    occurrences = Hash.new { |hash, ent_seq| hash[ent_seq] = [] }
+    paths.each do |path|
+      next unless File.exist?(path)
+
+      ent_seq = File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
+      occurrences[ent_seq] << path if ent_seq
+    end
+
+    errors = Hash.new { |hash, path| hash[path] = [] }
+    occurrences.each do |ent_seq, matching_paths|
+      next unless matching_paths.length > 1
+
+      message = "Duplicate JMDICT_ID #{ent_seq} across files: #{matching_paths.join(', ')}"
+      matching_paths.each { |path| errors[path] << message }
+    end
+    errors
+  end
+
+  # `sources: false` skips the checks that need the JMdict archive (sense
+  # fingerprints), for callers that only touch the authored layer. `log`
+  # receives progress lines; pass nil for none.
+  def validate_entry(filepath, sources: true, log: $stdout)
+    log&.puts "Validating Org entry: #{filepath}"
+    errors = []
+
+    unless File.exist?(filepath)
+      errors << "File does not exist: #{filepath}"
+      return errors
+    end
+
+    # Read file bytes
+    content_bytes = File.binread(filepath)
+
+    # Check UTF-8 validity
+    begin
+      content = content_bytes.force_encoding('UTF-8')
+      unless content.valid_encoding?
+        errors << "File content is not valid UTF-8"
+      end
+    rescue => e
+      errors << "Failed to decode UTF-8: #{e.message}"
+      return errors
+    end
+
+    begin
+      OrgEntry.load(filepath)
+    rescue OrgEntry::ParseError => e
+      errors << "Org parse error: #{e.message}"
+    end
+
+    # Check NFC normalization
+    unless content.unicode_normalized?(:nfc)
+      errors << "File content is not normalized to Unicode NFC"
+    end
+
+    # Check CRLF (carriage return)
+    if content_bytes.include?("\r")
+      errors << "File contains CRLF line endings or carriage returns"
+    end
+
+    # Check Tabs
+    if content_bytes.include?("\t")
+      errors << "File contains tabs"
+    end
+
+    # Check trailing whitespace
+    lines = content.split("\n", -1)
+    current_heading = nil
+    lines.each_with_index do |line, idx|
+      line_num = idx + 1
+      if line =~ /^\*+\s+(.*)$/
+        current_heading = $1
+      end
+
+      if line.end_with?(' ') || line.end_with?("\t")
+        errors << "Line #{line_num} has trailing whitespace"
+      end
+
+      if line.match?(/^- (?:JA|READING|FOCUS) :: .*\p{Cyrillic}/)
+        errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
+      end
+
+      if line =~ /^- READING :: (.*)$/
+        reading_val = $1
+        reading_without_ruby = reading_val.gsub(/\[.*?\]/, '')
+        if reading_without_ruby.match?(/\p{Han}/)
+          errors << "Line #{line_num} READING contains kanji: #{reading_val}"
+        end
+      end
+
+      if line =~ /^- text ::\s*$/ && current_heading&.start_with?('uk-s-')
+        errors << "Line #{line_num} has an empty 'text' field in Ukrainian gloss #{current_heading}"
+      end
+
+      # The batch generator stamped a literal 例/Приклад./Basic word. template into
+      # every entry it produced. Those pass every structural check while carrying
+      # no content, so reject them by exact match: a real sentence may legitimately
+      # contain 例 (例えば, 例文), but never as the entire field.
+      PLACEHOLDER_FIELDS.each do |field, values|
+        value = values.find { |candidate| line == "- #{field} :: #{candidate}" }
+        next unless value
+
+        errors << "Line #{line_num} is an unedited #{field} placeholder: #{value}"
+      end
+    end
+
+    # Check file-level keywords
+    required_keywords = [
+      /^#\+TITLE: (.*)$/,
+      /^#\+JMDICT_ID: (.*)$/,
+      /^#\+SCHEMA_VERSION: 2$/,
+      /^#\+PRIMARY_READING: (.*)$/,
+      /^#\+ROMAJI: (.*)$/,
+      /^#\+ENTRY_STATUS: (untranslated|draft|reviewed)$/,
+      /^#\+QUALITY_PROFILE: (core|learner|enriched|gold)$/,
+      /^#\+JMDICT_SOURCE_SHA256: ([0-9a-f]{64})$/
+    ]
+
+    kw_index = 0
+    headers = {}
+    file_defaults = {}
+    lines.take(16).each_with_index do |line, idx|
+      line_num = idx + 1
+      if line.start_with?('#+')
+        if kw_index < required_keywords.length
+          pattern = required_keywords[kw_index]
+          if line =~ pattern
+            headers[pattern] = $1 || true
+          else
+            errors << "Header line #{line_num} does not match expected pattern #{pattern.inspect}: #{line.inspect}"
+          end
+          kw_index += 1
+        elsif line =~ /^#\+CREATED_AT:\s*(.*)$/
+          headers[:created_at] = $1
+        elsif line =~ /^#\+DEFAULT_(AUTHOR_ID|LICENSE|SOURCE_TYPE|STATUS):\s?(.*)$/
+          file_defaults[$1] = $2
+        end
+      end
+    end
+
+    if kw_index < required_keywords.length
+      errors << "Missing required file-level headers at the beginning of the file"
+    end
+
+    ent_seq = headers[required_keywords[1]]
+    primary_reading = headers[required_keywords[3]]
+    romaji = headers[required_keywords[4]]
+    entry_status = headers[required_keywords[5]]
+    quality_profile = headers[required_keywords[6]]
+    sha256 = headers[required_keywords[7]]
+
+    if primary_reading && romaji && !romaji_matches?(primary_reading, romaji)
+      errors << "ROMAJI '#{romaji}' does not match PRIMARY_READING '#{primary_reading}' (recomputed: #{to_romaji(primary_reading)})"
+    end
+
+    if sha256 && !valid_jmdict_shas.include?(sha256)
+      errors << "JMDICT_SOURCE_SHA256 '#{sha256}' is not a recognised JMdict archive hash"
+    end
+
+    if quality_profile == 'gold' && entry_status != 'reviewed'
+      errors << 'QUALITY_PROFILE gold requires ENTRY_STATUS reviewed'
+    end
+
+    if quality_profile == 'gold'
+      lines.each_with_index do |line, idx|
+        next unless line.match?(/^\*{3}\s+uk-s-/)
+
+        drawer_end = lines[(idx + 1)..].index { |candidate| candidate == ':END:' }
+        unless drawer_end
+          errors << "Ukrainian gloss at line #{idx + 1} has no complete property drawer"
+          next
+        end
+
+        drawer = lines[(idx + 1)..(idx + 1 + drawer_end)]
+        status = drawer.filter_map { |candidate| candidate[/^:STATUS:\s*(\S+)$/, 1] }.first || file_defaults['STATUS']
+        errors << "Gold entry has unreviewed Ukrainian gloss at line #{idx + 1}" unless status == 'reviewed'
+      end
+    end
+
+    # Schema v2 omit-when-empty (docs/org-format.md §15): a listed subsection
+    # heading is only ever allowed to appear when it has content: leaving it
+    # empty is a v1 pattern the migration removed everywhere.
+    omit_when_empty_headings = [
+      'Information', 'Priorities', 'Fields', 'Miscellaneous and register',
+      'Dialects', 'Sense information', 'Cross-references', 'Antonyms',
+      'Language sources', 'Russian reference', 'Learner notes', 'Collocations',
+      'Constructions and derivatives', 'Related words', 'Idioms and proverbs',
+      'Examples'
+    ].freeze
+
+    lines.each_with_index do |line, idx|
+      next unless line =~ /^(\*+)\s+(.*)$/
+
+      stars, heading_title = $1, $2
+      next unless omit_when_empty_headings.include?(heading_title)
+
+      level = stars.length
+      body = []
+      offset = idx + 1
+      while lines[offset] && !(lines[offset] =~ /^(\*+)\s+/ && $1.length <= level)
+        body << lines[offset]
+        offset += 1
+      end
+
+      has_content = body.any? { |l| l.start_with?('- ') } || body.any? { |l| l =~ /^\*{#{level + 1},}\s+/ }
+      errors << "Line #{idx + 1} '#{heading_title}' is empty and must be omitted (schema v2 §15)" unless has_content
+    end
+
+    # Schema v2 provenance defaults (§5/§9): a block's drawer must omit any
+    # property whose value equals the file's matching #+DEFAULT_* keyword.
+    defaultable_provenance_keys = %w[SOURCE_TYPE AUTHOR_ID LICENSE STATUS].freeze
+    lines.each_with_index do |line, idx|
+      next unless line =~ /^\*+\s+(?:uk-s-|note-s-|col-s-|con-s-|rel-s-|idiom-s-|ex-)/
+
+      drawer_end = lines[(idx + 1)..]&.index { |candidate| candidate.strip == ':END:' }
+      next unless drawer_end && lines[idx + 1]&.strip == ':PROPERTIES:'
+
+      drawer = lines[(idx + 2)..(idx + drawer_end)]
+      drawer.each_with_index do |prop_line, offset|
+        next unless prop_line =~ /^:([^:]+):\s?(.*)$/
+
+        key = $1
+        value = $2
+        next unless defaultable_provenance_keys.include?(key) && file_defaults[key] && value == file_defaults[key]
+
+        errors << "Line #{idx + 2 + offset} property #{key} redundantly repeats the file default and must be omitted (schema v2 §9)"
+      end
+    end
+
+    # Check path agreement
+    if ent_seq
+      expected_dir = (ent_seq.to_i / 1000).to_s
+      expected_filename = "#{ent_seq}-#{romaji}.org"
+      actual_dir = File.basename(File.dirname(filepath))
+      actual_filename = File.basename(filepath)
+
+      if actual_dir != expected_dir
+        errors << "Directory name mismatch: expected #{expected_dir}, got #{actual_dir}"
+      end
+      if actual_filename != expected_filename
+        errors << "Filename mismatch: expected #{expected_filename}, got #{actual_filename}"
+      end
+    end
+
+    # Check stable IDs uniqueness and format
+    ids = {}
+    lines.each_with_index do |line, idx|
+      line_num = idx + 1
+      if line =~ /^(\*+)\s+(.*)$/
+        _stars, heading_title = $1, $2
+        if (match = heading_title.match(STABLE_ID_PATTERN))
+          node_id = match[:id]
+          if ids.key?(node_id)
+            errors << "Duplicate stable ID '#{node_id}' at lines #{ids[node_id]} and #{line_num}"
+          else
+            ids[node_id] = line_num
+          end
+        end
+      end
+    end
+
+    # Check sense fingerprints
+    senses = {}
+    sense_starts = []
+    lines.each_with_index do |line, idx|
+      if line =~ /^\*\s+Sense\s+(s-\d+-\d+)/
+        current_sense = $1
+        senses[current_sense] = {}
+        sense_starts << [current_sense, idx]
+        if lines[idx + 1]&.strip == ':PROPERTIES:'
+          offset = 2
+          while lines[idx + offset] && lines[idx + offset].strip != ':END:'
+            prop_line = lines[idx + offset].strip
+            if prop_line =~ /^:([^:]+):\s*(.*)$/
+              senses[current_sense][$1] = $2
+            end
+            offset += 1
+          end
+        end
+      end
+    end
+
+    # Schema v2 LEARNER_PRIORITY example requirement (§10/§18): a sense marked
+    # primary needs at least 3 examples with a graded LEVEL mix, replacing the
+    # old informal "3 examples per common word" guidance with a structural gate.
+    sense_starts.each_with_index do |(s_id, start_idx), sense_index|
+      next unless senses[s_id]['LEARNER_PRIORITY'] == 'primary'
+
+      end_idx = sense_starts[sense_index + 1]&.last || lines.length
+      sense_lines = lines[start_idx...end_idx]
+
+      levels = []
+      sense_lines.each_with_index do |line, offset|
+        next unless line =~ /^\*+\s+ex-/
+
+        drawer_end = sense_lines[(offset + 1)..]&.index { |candidate| candidate.strip == ':END:' }
+        level =
+          if drawer_end && sense_lines[offset + 1]&.strip == ':PROPERTIES:'
+            sense_lines[(offset + 2)..(offset + 1 + drawer_end)].filter_map { |l| l[/^:LEVEL:\s*(\S+)$/, 1] }.first
+          end
+        levels << (level || 'beginner')
+      end
+
+      if levels.length < 3
+        errors << "Sense #{s_id} is LEARNER_PRIORITY primary but has only #{levels.length} example(s); at least 3 are required"
+      elsif !levels.include?('beginner') || !(levels.include?('intermediate') || levels.include?('neutral'))
+        errors << "Sense #{s_id} is LEARNER_PRIORITY primary but its examples are not graded (need at least one beginner and one neutral/intermediate LEVEL); got #{levels.inspect}"
+      end
+    end
+
+    if senses.empty?
+      errors << "No Sense headings found in file"
+    elsif sources
+      log&.puts "Looking up entry #{ent_seq} in JMdict..."
+      source_entry = jmdict_entry(ent_seq)
+
+      if source_entry.nil?
+        errors << "JMdict entry #{ent_seq} not found in #{JMDICT_PATH}"
+      else
+        senses.each do |s_id, props|
+          source_sense_index = props['SOURCE_SENSE_INDEX']&.to_i
+
+          if source_sense_index.nil?
+            errors << "Missing SOURCE_SENSE_INDEX property under sense #{s_id}"
+            next
+          end
+
+          source_sense = source_entry[:senses][source_sense_index - 1]
+          if source_sense.nil?
+            errors << "No XML sense at index #{source_sense_index} in JMdict entry"
+            next
+          end
+
+          expected_fp = source_sense[:source_fingerprint]
+          actual_fp = props['SOURCE_FINGERPRINT']
+
+          if actual_fp != expected_fp
+            errors << "Fingerprint mismatch for #{s_id}: expected #{expected_fp}, got #{actual_fp}"
+          end
+        end
+      end
+    end
+
+    errors
+  end
+
+  # Validates entry text that is not on disk yet, such as a patched entry.
+  # The text is written to a scratch path named the way the entry's own
+  # keywords say it must be, so the path checks hold for a well-formed entry.
+  def validate_text(text, sources: false)
+    ent_seq = text[/^#\+JMDICT_ID: (\d+)$/, 1]
+    romaji = text[%r{^#\+ROMAJI: ([^\s/\\.][^\s/\\]*)$}, 1]
+    return ['Missing JMDICT_ID or ROMAJI header'] unless ent_seq && romaji
+
+    Dir.mktmpdir('jibiki-validate') do |directory|
+      path = File.join(directory, (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{romaji}.org")
+      FileUtils.mkdir_p(File.dirname(path))
+      File.write(path, text)
+      validate_entry(path, sources: sources, log: nil)
+    end
+  end
+end

@@ -9,7 +9,11 @@ require_relative 'houhou_vocab_matcher'
 
 module Exporters
   class RichSqlite
-    def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr)
+    # `search_index: false` leaves out the FTS4 `entry_search` table, for
+    # consumers that index the data themselves on an SQLite built without FTS4.
+    # `entries` may be a lazy enumerator: it is walked once, so a caller can
+    # parse files as they are exported instead of holding the whole corpus.
+    def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr, search_index: true)
       # entries.jmdict_id is the primary key; the corpus occasionally holds the
       # same JMdict entry under two files (reading aliases). Keep the first,
       # report the rest — merging them is editorial work, not export work.
@@ -32,14 +36,16 @@ module Exporters
 
       db = Sequel.sqlite(building_path)
       begin
-        RichSchema.create_tables(db)
+        RichSchema.create_tables(db, search_index: search_index)
 
         git_commit = get_git_commit
         notice_path = File.expand_path('../../NOTICE', __dir__)
         attribution = File.exist?(notice_path) ? File.read(notice_path, encoding: 'UTF-8') : ''
 
+        exported = 0
         db.transaction do
           entries.each do |entry|
+            exported += 1
             db[:entries].insert(
               jmdict_id: entry.jmdict_id,
               title: entry.title,
@@ -268,7 +274,7 @@ module Exporters
             uk_glosses = entry.senses.flat_map { |s| s.ukrainian_glosses.map(&:text) }.join(' ')
             en_glosses = entry.senses.flat_map { |s| s.english_glosses.map(&:text) }.join(' ')
 
-            db[:entry_search].insert(
+            search_index && db[:entry_search].insert(
               jmdict_id: entry.jmdict_id,
               writings: writings,
               readings: readings,
@@ -310,7 +316,7 @@ module Exporters
           db[:metadata].insert(key: 'SchemaVersion', value: '1')
           db[:metadata].insert(key: 'GeneratorCommit', value: git_commit)
           db[:metadata].insert(key: 'GeneratedAt', value: Time.now.utc.iso8601)
-          db[:metadata].insert(key: 'EntryCount', value: entries.count.to_s)
+          db[:metadata].insert(key: 'EntryCount', value: exported.to_s)
           db[:metadata].insert(key: 'License', value: 'CC-BY-SA-4.0')
           db[:metadata].insert(key: 'Attribution', value: attribution)
           db[:metadata].insert(key: 'VocabMappingBase', value: vocab_mapping_base) if vocab_mapping_base

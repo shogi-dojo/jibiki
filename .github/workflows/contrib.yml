@@ -1,0 +1,61 @@
+name: Contributions
+
+# Checks the bot PRs that carry approved web contributions (branches named
+# contrib/*). It runs on every such PR, unlike the full CI, so it stays small:
+# the unit tests plus validation of only the entries the PR changes, against
+# the pinned JMdict archive. The jibiki site merges the PR once this passes.
+on:
+  pull_request:
+    branches: [main]
+
+env:
+  # See ci.yml: the sqlite3 gem must be built with FTS3/FTS4.
+  BUNDLE_BUILD__SQLITE3: "--enable-system-libraries"
+
+jobs:
+  check:
+    if: startsWith(github.head_ref, 'contrib/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install libsqlite3 headers
+        run: sudo apt-get update && sudo apt-get install -y libsqlite3-dev pkg-config
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '4.0.7'
+          bundler-cache: true
+          cache-version: 1
+      - name: Run tests
+        run: bundle exec rake test
+      - name: List changed entries
+        id: changed
+        run: |
+          git diff --name-only --diff-filter=AMR "origin/${GITHUB_BASE_REF}...HEAD" -- 'entries/*/*.org' > changed.txt
+          echo "count=$(wc -l < changed.txt)" >> "$GITHUB_OUTPUT"
+      - name: Read JMdict pin
+        id: pin
+        if: steps.changed.outputs.count != '0'
+        run: grep -E '^JMDICT_(RELEASE_TAG|SHA256)=' .github/jmdict-pin.env >> "$GITHUB_OUTPUT"
+      - name: Cache JMdict
+        id: cache-jmdict
+        if: steps.changed.outputs.count != '0'
+        uses: actions/cache@v4
+        with:
+          path: sources/jmdict/JMdict.xml.gz
+          key: jmdict-${{ steps.pin.outputs.JMDICT_SHA256 }}
+      - name: Download pinned JMdict
+        if: steps.changed.outputs.count != '0' && steps.cache-jmdict.outputs.cache-hit != 'true'
+        env:
+          TAG: ${{ steps.pin.outputs.JMDICT_RELEASE_TAG }}
+          SHA256: ${{ steps.pin.outputs.JMDICT_SHA256 }}
+        run: |
+          mkdir -p sources/jmdict
+          curl -fL "https://github.com/${GITHUB_REPOSITORY}/releases/download/${TAG}/JMdict.xml.gz" \
+            -o sources/jmdict/JMdict.xml.gz
+          echo "${SHA256}  sources/jmdict/JMdict.xml.gz" | sha256sum -c -
+      - name: Validate changed entries
+        if: steps.changed.outputs.count != '0'
+        run: xargs --no-run-if-empty bundle exec ruby scripts/validate_entry.rb < changed.txt
