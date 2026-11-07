@@ -1,0 +1,192 @@
+#+TITLE: 契約者
+#+JMDICT_ID: 1933820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいやくしゃ
+#+ROMAJI: keiyakusha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-07
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1933820-001
+:PROPERTIES:
+:TEXT: 契約者
+:END:
+** Reading rd-1933820-001
+:PROPERTIES:
+:TEXT: けいやくしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1933820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61f48cd27ed520c1ce96a45d52d367fdb8633cb081d7030e467ade97a9f68922
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- party to a contract
+- subscriber
+- policy owner (insurance)
+** Ukrainian glosses
+*** uk-s-1933820-001-001
+:PROPERTIES:
+:END:
+- text :: сторона договору; підрядник; страхувальник
+** Learner notes
+*** note-s-1933820-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична або юридична особа, яка уклала юридично обов'язковий договір, поліс страхування чи контракт і несе передбачені ним зобов'язання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1933820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 契約者の名前を確認する。
+- READING :: けいやくしゃのなまえをかくにんする。
+- UK :: Перевіряти ім'я сторони договору.
+- FOCUS :: 契約者
+*** ex-1933820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 保険会社は契約者に対して、保障内容の変更や更新手続きに関する案内書を事前に郵送した。
+- READING :: ほけんがいしゃはけいやくしゃにたいして、ほしょうないようのへんこうやこうしんてつづきにかんするあんないしょをじぜんにゆうそうした。
+- UK :: Страхова компанія завчасно надіслала страхувальникам поштою повідомлення про зміни в умовах страхового покриття та порядок його поновлення.
+- FOCUS :: 契約者
+*** ex-1933820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 携帯電話の利用規約が改定されたことに伴い、通信事業者はすべての契約者へ重要事項の通知を電子メールで送信し、理解と同意を求める説明を行った。
+- READING :: けいたいでんわのりようきやくがかいていされたことにともない、つうしんじぎょうしゃはすべてのけいやくしゃへじゅうようじこうのつうちをでんしめーるでそうしんし、りかいとどういをもとめるせつめいをおこなった。
+- UK :: У зв'язку з оновленням правил надання послуг мобільного зв'язку оператор розіслав усім абонентам сповіщення про важливі зміни електронною поштою та надав роз'яснення для отримання згоди.
+- FOCUS :: 契約者
+
+* Sense s-1933820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 02704c6b0ec0dcf855504b76d4949e0c852e279424021b2b6c32c94649494868
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933820-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contractpartner
+*** en-s-1933820-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contractant
+*** en-s-1933820-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contracterende partij
+*** en-s-1933820-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: subject van een verbintenis
+** Ukrainian glosses
+
+* Sense s-1933820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4d57dc8102d5d80a9de0bc64bc8690843c6dbeb81d01a3912e77682f2b9b4d6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933820-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vertragspartner
+*** en-s-1933820-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vertragspartei
+** Ukrainian glosses
+
+* Sense s-1933820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 67592f120be9bfea0e3e4f75a9e49d22bb18df9de18af9a8dafab358ab1dbe11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933820-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előfizető
+*** en-s-1933820-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: részvényjegyző
+** Ukrainian glosses
+
+* Sense s-1933820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1ecd5650dd53d9dea064daf2d6ea399b3a3432db00d24f41a2ebeb8f9b4c20e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933820-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: договаривающаяся сторона; договаривающиеся стороны; участник соглашения (и т. п.)
+** Ukrainian glosses
