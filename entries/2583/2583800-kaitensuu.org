@@ -1,0 +1,143 @@
+#+TITLE: 回転数
+#+JMDICT_ID: 2583800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいてんすう
+#+ROMAJI: kaitensuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2583800-001
+:PROPERTIES:
+:TEXT: 回転数
+:END:
+** Reading rd-2583800-001
+:PROPERTIES:
+:TEXT: かいてんすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2583800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a13a9951f02aadef486d4ecfb992d2912e3f07d0950e8e1f9afd30d1b57f906f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- number of revolutions (i.e. as an engine speed)
+- number of rotations
+- speed of revolution
+- speed of rotation
+** Ukrainian glosses
+*** uk-s-2583800-001-001
+:PROPERTIES:
+:END:
+- text :: кількість обертів, частота обертання (за одиницю часу)
+** Learner notes
+*** note-s-2583800-001-001
+:PROPERTIES:
+:END:
+- UK :: Кількість повних обертів, які обертовий вал або механічний вузол двигуна здійснює за визначену одиницю часу (наприклад, за хвилину).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2583800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: エンジンの回転数を計器で常に監視する。
+- READING :: えんじんのかいてんすうをけいきでつねにかんしする。
+- UK :: Постійно контролювати частоту обертів двигуна за приладами.
+- FOCUS :: 回転数
+*** ex-2583800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: アクセルを踏み込むと瞬時に回転数が上昇した。
+- READING :: あくせるをふみこむとしゅんじにかいてんすうがじょうしょうした。
+- UK :: Щойно натиснув педаль газу, як оберти двигуна миттєво підскочили.
+- FOCUS :: 回転数
+*** ex-2583800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 整備士はテスト走行中にエンジンの異常な振動に気づき、回転数の変化と排気ガスの状態を専用の機器を使って細かく測定した。
+- READING :: せいびしはてすとそうこうちゅうにえんじんのいじょうなしんどうにきづき、かいてんすうのへんかとはいきがすのじょうたいをせんようのききをつかってこまかくそくていした。
+- UK :: Під час випробувального заїзду автомеханік помітив дивну вібрацію мотора й за допомогою приладів ретельно виміряв коливання обертів та склад вихлопних газів.
+- FOCUS :: 回転数
+
+* Sense s-2583800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0f7971bd4ac5b6cd97822eb73f20a9add55f0eee9244152b657076ff38ba46fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2583800-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drehzahl
+*** en-s-2583800-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umdrehungszahl
+** Ukrainian glosses
+
+* Sense s-2583800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 575284f783dbcfb37aa3f62917d09a0016bc0a3b79ef3207a56ca9b4ae4c6b31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2583800-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fordulatszám
+** Ukrainian glosses
+
+* Sense s-2583800-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0b32d65df221dcacb6dda9d7872c96b9b76c0d91d2feacc45f34e95f03d35c5d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2583800-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: число оборотов
+** Ukrainian glosses

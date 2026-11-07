@@ -1,0 +1,206 @@
+#+TITLE: 個数
+#+JMDICT_ID: 1593250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こすう
+#+ROMAJI: kosuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1593250-001
+:PROPERTIES:
+:TEXT: 個数
+:END:
+*** Priorities
+- news2
+- nf32
+** Written form wf-1593250-002
+:PROPERTIES:
+:TEXT: 箇数
+:END:
+*** Information
+- sK
+** Reading rd-1593250-001
+:PROPERTIES:
+:TEXT: こすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1593250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 043470649098389b31e55cf1d23eb638abd1df965ace5eb9806bb248c0e48810
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- number of articles
+- number of items
+- quantity
+** Ukrainian glosses
+*** uk-s-1593250-001-001
+:PROPERTIES:
+:END:
+- text :: кількість штук, число одиниць (предметів)
+** Learner notes
+*** note-s-1593250-001-001
+:PROPERTIES:
+:END:
+- UK :: Точна чисельність окремих штучних виробів, упаковок або товарних предметів, що піддаються обов'язковому поштучному обліку та рахунку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1593250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 倉庫に届いた荷物の個数を慎重に数える。
+- READING :: そうこにとどいたにもつのこすうをしんちょうにかぞえる。
+- UK :: Уважно перерахувати кількість штук вантажу, що надійшов на склад.
+- FOCUS :: 個数
+*** ex-1593250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 注文した商品の個数に誤りがないか確認する。
+- READING :: ちゅうもんしたしょうひんのこすうにあやまりがないかくにんする。
+- UK :: Перевірити, чи немає помилки в кількості замовлених одиниць товару.
+- FOCUS :: 個数
+*** ex-1593250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工場の出荷担当者は納品書に記載された品番と照らし合わせながら、パレットに積み上げられた段ボール箱の個数を専用の端末で一つずつ読み取った。
+- READING :: こうじょうのしゅっかたんとうしゃはのうひんしょにきさいされたひんばんとてらしあわせながら、ぱれっとにつみあげられただんぼーるばこのこすうをせんようのたんまつでひとつずつよみとった。
+- UK :: Комірник заводу звіряв маркування з накладною і за допомогою термінала поштучно фіксував кількість коробок із товаром на піддонах.
+- FOCUS :: 個数
+
+* Sense s-1593250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a0e695b8fb670a5d9bf172f26c8bfc8473227f53f6d55efcc813c9c9f38bdf05
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593250-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aantal (stuks)
+** Ukrainian glosses
+
+* Sense s-1593250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6818c468376614d424a6c0445d2e6f591c45941b92ba5041fee7a5dc0129e9ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593250-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stück
+*** en-s-1593250-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stückzahl
+*** en-s-1593250-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anzahl (von Gegenständen, Artikeln etc.)
+** Ukrainian glosses
+
+* Sense s-1593250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6cf659946117c1a0133777a0db960fb8f41a8128ba1a2eb24cf6bff8fd073a57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593250-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: darabszám
+** Ukrainian glosses
+
+* Sense s-1593250-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 439f6ac8d5bd6996719d0f723da13038625cebf4e73132160be2be9a44b94db3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593250-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: число штук
+** Ukrainian glosses
+
+* Sense s-1593250-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4aea193989021c87ab259af6936d9e1a75cf36658af8b01f1fadbcea4fadb31c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1593250-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: número de cosas
+*** en-s-1593250-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: número de personas
+** Ukrainian glosses
