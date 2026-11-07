@@ -12621,7 +12621,7 @@ Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are pre
 ## Fifty-ninth 100-word vocabulary goal (2026-11-07)
 
 Baseline: `e92ee69ebf7ed00b1d939399cb0fe90fe670a62d`. Target: 10 batches of 10, with a separate addition commit for each word.
-**0/100 committed; 100 remain.**
+**100/100 committed; 0 remain.**
 
 Vocabulary selected from the BCCWJ corpus joined with Warodai as requested.
 The ledger records the actual source and deck level.
@@ -12630,8 +12630,8 @@ Ukrainian glosses, notes, and Japanese examples are independently authored from 
 Entries remain learner-profile drafts pending independent linguistic review.
 
 [Selection and commit ledger](docs/n10k-next100-2026-11-07m.tsv).
-Completed 0 batches have 0 original examples and passed JMdict validation, Org lint,
-and doctor checks. Continue with batch 1.
+Completed 10 batches have 300 original examples and passed JMdict validation, Org lint,
+and doctor checks. All ten batches are complete.
 Ignored helper files: `tmp/n10k-500-*`; the pre-existing untracked files are preserved.
 
 ## Sixtieth 100-word vocabulary goal (2026-11-07)
