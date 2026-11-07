@@ -9,7 +9,9 @@ require_relative 'houhou_vocab_matcher'
 
 module Exporters
   class RichSqlite
-    def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr)
+    # `search_index: false` leaves out the FTS4 `entry_search` table, for
+    # consumers that index the data themselves on an SQLite built without FTS4.
+    def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr, search_index: true)
       # entries.jmdict_id is the primary key; the corpus occasionally holds the
       # same JMdict entry under two files (reading aliases). Keep the first,
       # report the rest — merging them is editorial work, not export work.
@@ -32,7 +34,7 @@ module Exporters
 
       db = Sequel.sqlite(building_path)
       begin
-        RichSchema.create_tables(db)
+        RichSchema.create_tables(db, search_index: search_index)
 
         git_commit = get_git_commit
         notice_path = File.expand_path('../../NOTICE', __dir__)
@@ -268,7 +270,7 @@ module Exporters
             uk_glosses = entry.senses.flat_map { |s| s.ukrainian_glosses.map(&:text) }.join(' ')
             en_glosses = entry.senses.flat_map { |s| s.english_glosses.map(&:text) }.join(' ')
 
-            db[:entry_search].insert(
+            search_index && db[:entry_search].insert(
               jmdict_id: entry.jmdict_id,
               writings: writings,
               readings: readings,

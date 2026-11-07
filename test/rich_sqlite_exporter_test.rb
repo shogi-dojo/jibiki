@@ -258,6 +258,19 @@ class RichSqliteExporterTest < Minitest::Test
     entry_file&.unlink
   end
 
+  def test_search_index_can_be_left_out
+    entry = OrgEntry.parse(ASOKO_ORG)
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export([entry], output, search_index: false)
+      db = Sequel.sqlite(output, readonly: true)
+      refute db.table_exists?(:entry_search)
+      assert_equal 1, db[:entries].count
+      db.disconnect
+    end
+  end
+
   def test_vocab_mapping_populated_when_base_db_matches
     entry_file = Tempfile.new(["entry", ".org"])
     entry_file.write(ASOKO_ORG)

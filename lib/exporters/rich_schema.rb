@@ -2,7 +2,7 @@
 
 module Exporters
   module RichSchema
-    def self.create_tables(db)
+    def self.create_tables(db, search_index: true)
       db.create_table?(:metadata) do
         String :key, primary_key: true
         String :value, null: false
@@ -210,7 +210,9 @@ module Exporters
         primary_key [:jmdict_id, :vocab_id]
       end
 
-      db.run "CREATE VIRTUAL TABLE IF NOT EXISTS entry_search USING fts4(jmdict_id, writings, readings, romaji, uk_glosses, en_glosses, notindexed=jmdict_id, tokenize=unicode61);"
+      if search_index
+        db.run "CREATE VIRTUAL TABLE IF NOT EXISTS entry_search USING fts4(jmdict_id, writings, readings, romaji, uk_glosses, en_glosses, notindexed=jmdict_id, tokenize=unicode61);"
+      end
 
       create_indexes(db)
     end
