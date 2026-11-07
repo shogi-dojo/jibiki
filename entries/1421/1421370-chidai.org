@@ -1,0 +1,188 @@
+#+TITLE: 地代
+#+JMDICT_ID: 1421370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちだい
+#+ROMAJI: chidai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1421370-001
+:PROPERTIES:
+:TEXT: 地代
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1421370-001
+:PROPERTIES:
+:TEXT: ちだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+** Reading rd-1421370-002
+:PROPERTIES:
+:TEXT: じだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1421370-003
+:PROPERTIES:
+:TEXT: じしろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1421370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7bb44c0a480b0334c1e106f6ef605f420813084cf0c41c680e38d35389f93bc4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- land rent
+** Ukrainian glosses
+*** uk-s-1421370-001-001
+:PROPERTIES:
+:END:
+- text :: орендна плата за землю; земельна рента
+** Learner notes
+*** note-s-1421370-001-001
+:PROPERTIES:
+:END:
+- UK :: Плата за тимчасове користування земельною ділянкою, що сплачується орендарем власнику землі за офіційним договором оренди.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1421370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎月末に地主へ地代を支払う。
+- READING :: まいげつまつにじぬしへちだいをしはらう。
+- UK :: Сплачувати власнику землі орендну плату наприкінці кожного місяця.
+- FOCUS :: 地代
+*** ex-1421370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 都市部の地価上昇に伴って土地所有者から地代の値上げを要求され、店舗の運営者は資金繰りに頭を悩ませた。
+- READING :: としぶのちかじょうしょうにともなってとちしょゆうしゃからちだいのねあげをようきゅうされ、てんぽのうんえいしゃはしきんぐりにあたまをなやませた。
+- UK :: Через зростання цін на нерухомість власник ділянки підвищив орендну плату, що створило труднощі для ресторану.
+- FOCUS :: 地代
+*** ex-1421370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 繁華街の一等地に店舗を構える老舗の料理店は、周辺地域の急速な商業開発による急激な地代の高騰に直面しながらも、長年の常連客に愛されてきた伝統の味と手頃な価格を守り抜いている。
+- READING :: はんかがいのいっとうちにてんぽをかまえるしにせのりょうりてんは、しゅうへんちいきのきゅうそくなしょうぎょうかいはつによるきゅうげきなちだいのこうとうにちょくめんしながらも、ながねんのじょうれんきゃくにあいされてきたでんとうのあじとてごろなかかくをまもりぬいている。
+- UK :: Незважаючи на різке підвищення орендної плати за землю в центрі, старовинний заклад зберігає традиційні рецепти й доступні ціни.
+- FOCUS :: 地代
+
+* Sense s-1421370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 69b0cb7e0d1c8db478065ca2db2d820f7eaeb0193240ae2857abfcf68645b3d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421370-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pachtzins
+** Ukrainian glosses
+
+* Sense s-1421370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5f740b2a75ea2496ed89cacae17437ed636b75f822e2c3dd4e2a97912454e32f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bodenpreis
+** Ukrainian glosses
+
+* Sense s-1421370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d825d01a1edf75f74e54aa1c2ff930bb19d5301bd02d45ab59f84352f994cf6d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) земельная рента
+*** en-s-1421370-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) ちか【地価】
+*** en-s-1421370-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) じだい【地代】
+** Ukrainian glosses
+
+* Sense s-1421370-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 41ec04d711fa212b9e2ca68906b7b4ff97f62ba5498f5d8f862745bf1202e1a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421370-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tierra alquilada
+** Ukrainian glosses
