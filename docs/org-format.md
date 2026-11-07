@@ -466,6 +466,10 @@ stable ID and drawer position stay predictable. Properties with real
 per-block meaning — `LEVEL`, `REGISTER`, `SOURCE_ID`, `SOURCE_URL` — are kept
 whenever they are non-empty regardless of any file default.
 
+A reviewed enrichment may also carry `REVIEWER_ID` and `REVIEWED_AT`, with the
+same meaning they have on Ukrainian glosses (§8.4): an independent reviewer and
+the review date. Web contributions record them (see `docs/web-contributions.md`).
+
 Allowed `SOURCE_TYPE` values are `original`, `licensed-corpus`, `public-domain`,
 and `external-reference`. An `external-reference` may link to information but
 must not reproduce protected text.

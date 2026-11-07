@@ -135,6 +135,14 @@ rake
 The default task runs extractor unit tests, validates all entries against the
 local JMdict archive, runs `org-lint` on entries, and runs the corpus doctor.
 
+## Web contributions
+
+Members of the Jibiki website can propose edits that moderators approve. These
+edits reach this repository as daily bot pull requests from `contrib/*` branches.
+[docs/web-contributions.md](docs/web-contributions.md) describes the flow, the
+`dojo:<handle>` contributor IDs, and the `OrgEntry::Patch` /
+`EntryValidator.validate_text` library calls behind it.
+
 ## Export
 
 The corpus can be exported to two SQLite databases and one private HTML QA page.
