@@ -1,0 +1,192 @@
+#+TITLE: 抗生物質
+#+JMDICT_ID: 1278940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうせいぶっしつ
+#+ROMAJI: kouseibusshitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1278940-001
+:PROPERTIES:
+:TEXT: 抗生物質
+:END:
+*** Priorities
+- news1
+- nf13
+** Reading rd-1278940-001
+:PROPERTIES:
+:TEXT: こうせいぶっしつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf13
+
+* Sense s-1278940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ad3429237b61b9ff2d203698fd3f68c46973c00b57bf11668fa043f923b1dc23
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- pharm
+** English glosses
+- antibiotic
+** Ukrainian glosses
+*** uk-s-1278940-001-001
+:PROPERTIES:
+:END:
+- text :: антибіотик; антибактеріальний препарат
+** Learner notes
+*** note-s-1278940-001-001
+:PROPERTIES:
+:END:
+- UK :: Лікарська речовина біологічного чи синтетичного походження, яка пригнічує розмноження або вбиває бактерії та інші патогенні мікроорганізми.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1278940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師から抗生物質を処方される。
+- READING :: いしからこうせいぶっしつをしょほうされる。
+- UK :: Отримати від лікаря рецепт на антибіотики.
+- FOCUS :: 抗生物質
+*** ex-1278940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 細菌による感染症を治療するため、処方された抗生物質を指示通りに毎日飲み続けた。
+- READING :: さいきんによるかんせんしょうをちりょうするため、しょほうされたこうせいぶっしつをしじどおりにまいにちのみつづけた。
+- UK :: Щоб вилікувати бактеріальну інфекцію, я щодня приймав призначений антибіотик згідно з інструкцією лікаря.
+- FOCUS :: 抗生物質
+*** ex-1278940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 症状が改善したからといって自己判断で抗生物質の服用を途中でやめてしまうと、耐性菌が発生する危険性があるため注意が必要だ。
+- READING :: しょうじょうがかいぜんしたからといってじこはんだんでこうせいぶっしつのふくようをとちゅうでやめてしまうと、たいせいきんがはっせいするきけんせいがあるためちゅういがひつようだ。
+- UK :: Слід бути обережним, адже якщо на власний розсуд припинити прийом антибіотиків лише тому, що симптоми полегшилися, виникає небезпека розвитку резистентних бактерій.
+- FOCUS :: 抗生物質
+
+* Sense s-1278940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f75950dc9568a0aaed6eaa447ef7e35e98bcfa908a3525e4aaecfc058e7bdfa2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278940-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} antibioticum
+*** en-s-1278940-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {verzameln.} antibiotica
+** Ukrainian glosses
+
+* Sense s-1278940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cfd30e8c330d2b45a51fba3ecc75c4c34d24c909f0379b1a2c40f2f074c3600e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278940-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antibiotische Substanz
+*** en-s-1278940-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Antibiotikum
+** Ukrainian glosses
+
+* Sense s-1278940-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fd76a62ae8d477dd1766436487ca56b99ccbc1b339cf496fe9d94711c453695f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278940-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antibiotikum
+** Ukrainian glosses
+
+* Sense s-1278940-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7857756c5e7be4257edb82da0b63b0e07aaeab798d43c170ea4936516cd5811d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278940-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: антибиотик[и]
+** Ukrainian glosses
+
+* Sense s-1278940-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a354cf7ea53297bea172b4444522a6c8eaede28397275b2d6431017bc522cf58
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1278940-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antibióticos
+** Ukrainian glosses

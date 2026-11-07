@@ -1,0 +1,460 @@
+#+TITLE: 定数
+#+JMDICT_ID: 1435660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていすう
+#+ROMAJI: teisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1435660-001
+:PROPERTIES:
+:TEXT: 定数
+:END:
+*** Priorities
+- news1
+- nf02
+** Reading rd-1435660-001
+:PROPERTIES:
+:TEXT: ていすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf02
+** Reading rd-1435660-002
+:PROPERTIES:
+:TEXT: じょうすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1435660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 782e96b924131fa82fe1ef864ab05b6116f89c9d150e89c43df64b51fa2bf6fb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fixed number
+- quorum (for an assembly)
+** Ukrainian glosses
+*** uk-s-1435660-001-001
+:PROPERTIES:
+:END:
+- text :: встановлена чисельність (депутатів, місць); норма місць; кворум
+** Learner notes
+*** note-s-1435660-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. У політиці та праві позначає закріплену законом кількість депутатських мандатів у парламенті чи виборчому окрузі (議員定数) або необхідний кворум учасників зборів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1435660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 議会の議員定数。
+- READING :: ぎかいのぎいんていすう。
+- UK :: Установлена чисельність депутатів парламенту (ради).
+- FOCUS :: 定数
+*** ex-1435660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 人口の変動に合わせて選挙区の定数を見直す議論が行われた。
+- READING :: じんこうのへんどうにあわせてせんきょくのていすうをみなおすぎろんがおこなわれた。
+- UK :: Відбулося обговорення перегляду кількості мандатів у виборчих округах відповідно до змін чисельності населення.
+- FOCUS :: 定数
+*** ex-1435660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 一票の格差を是正して民意をより正確に反映させるために、国会議員の定数をどのように配分するかが重要な政治課題となっている。
+- READING :: いっぴょうのかくさをぜせいしてみんいをよりせいかくにはんえいさせるために、こっかいぎいんのていすうをどのようにはいぶんするかがじゅうようなせいじかだいとなっている。
+- UK :: Питання про те, як розподілити кількість депутатських місць у парламенті, щоб усунути нерівність ваги голосу виборців і точніше відобразити волю народу, стало важливим політичним завданням.
+- FOCUS :: 定数
+
+* Sense s-1435660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4591760124e3f0431cd322339e4a37bbcb83ac6c0a0279d9d2c0f15876119c86
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 変数
+** English glosses
+- constant
+- invariable
+** Ukrainian glosses
+*** uk-s-1435660-002-001
+:PROPERTIES:
+:END:
+- text :: константа; стала величина (у математиці та фізиці)
+** Learner notes
+*** note-s-1435660-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також читається じょうすう). У точних науках позначає величину, значення якої не змінюється в межах розрахунку (на противагу 変数 — змінній).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1435660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 398556e2aeb578e02ddb9b08f9380cb03de67df4ea174b789c11a20912630ec1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- literal
+** Ukrainian glosses
+*** uk-s-1435660-003-001
+:PROPERTIES:
+:END:
+- text :: константа; літерал (у програмуванні)
+** Learner notes
+*** note-s-1435660-003-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. В інформатиці позначає іменоване значення в коді програми, яке не може бути змінене під час її виконання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1435660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ddaf6b246614bb580dec453e3b729edadd623ac962f4144a27470a0add2b56a4
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- dated
+** English glosses
+- fate
+** Ukrainian glosses
+*** uk-s-1435660-004-001
+:PROPERTIES:
+:END:
+- text :: доля; напередвизначеність (у класичному вжитку)
+** Learner notes
+*** note-s-1435660-004-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Книжне слово на позначення неминучого присуду долі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1435660-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3d48ba194a45e599a7788aa23e3f727d9c2cc7d85e84ea46b671323b85dc0728
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vast aantal
+*** en-s-1435660-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} quorum
+*** en-s-1435660-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vereiste getalsterkte
+** Ukrainian glosses
+
+* Sense s-1435660-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 97862d946dd1add64d62e3eb6280d061f4ff2deb7677398908714825e4ff8608
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} constante
+*** en-s-1435660-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onveranderlijke grootheid
+** Ukrainian glosses
+
+* Sense s-1435660-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3fd957b846bf0641d6ffd8ca8f232b395eac65b6c92488618da63d4eb30546d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: festgelegte Anzahl
+*** en-s-1435660-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: festgelegte Menge
+** Ukrainian glosses
+
+* Sense s-1435660-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 651dfa9b5ad558ada2de25bf95e2496e860ca84ea8c373bc1ae6196fde230995
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Konstante
+*** en-s-1435660-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unveränderliche Größe
+** Ukrainian glosses
+
+* Sense s-1435660-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2b5ada1c4ba9d7563892afeae77680904e7222c961057347feddf402ed267d73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quorum
+*** en-s-1435660-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beschlussfähige Anzahl (von Mitgliedern)
+** Ukrainian glosses
+
+* Sense s-1435660-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: f8caa17e403bdb91ff70f09c3f11810ebf767071100a699b02e4d7b64b16c223
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schicksal
+*** en-s-1435660-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschick
+*** en-s-1435660-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Los
+*** en-s-1435660-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schicksal
+*** en-s-1435660-010-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschick
+*** en-s-1435660-010-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Los (eines jeden Menschen)
+** Ukrainian glosses
+
+* Sense s-1435660-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 2b9ee93e0c55cf0cf7d3939901b73bd155e4350adfd297f7977568c54095fb56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kitartó
+*** en-s-1435660-011-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állandó
+*** en-s-1435660-011-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: konstans
+** Ukrainian glosses
+
+* Sense s-1435660-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: e5b103d99e6093b7f52d7eaec412541921db5c0fdb750fe7eba800a0123da4ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) установленное (положенное, полное) число; норма; кворум
+*** en-s-1435660-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} составлять полное число (кворум)
+*** en-s-1435660-012-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (мат.) постоянная
+*** en-s-1435660-012-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) судьба, рок
+** Ukrainian glosses
+
+* Sense s-1435660-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: 4cce3be22663406dbae8d575a846ecd4a44cf2cc846a5115ce45243d377aa7b6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435660-013-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beständig
+** Ukrainian glosses

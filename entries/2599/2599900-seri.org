@@ -1,0 +1,216 @@
+#+TITLE: 競り
+#+JMDICT_ID: 2599900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せり
+#+ROMAJI: seri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2599900-001
+:PROPERTIES:
+:TEXT: 競り
+:END:
+** Written form wf-2599900-002
+:PROPERTIES:
+:TEXT: 糶り
+:END:
+*** Information
+- rK
+** Written form wf-2599900-003
+:PROPERTIES:
+:TEXT: 競
+:END:
+*** Information
+- sK
+** Written form wf-2599900-004
+:PROPERTIES:
+:TEXT: 糶
+:END:
+*** Information
+- sK
+** Reading rd-2599900-001
+:PROPERTIES:
+:TEXT: せり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2599900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 729d5ff97bf438c444c8df790828ddbadd170fd60c68981c0d26889f93617561
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- competing
+- competition
+** Ukrainian glosses
+*** uk-s-2599900-001-001
+:PROPERTIES:
+:END:
+- text :: аукціон; публічні торги (особливо на гуртових ринках риби, овочів, квітів)
+** Learner notes
+*** note-s-2599900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (записується також 糶り). Традиційна система торгів на японських ринках, де покупці одночасно пропонують ціну за допомогою жестів пальцями та голосу (朝の競り — ранкові торги).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2599900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 市場の競り。
+- READING :: いちばのせり。
+- UK :: Аукціон (торги) на ринку.
+- FOCUS :: 競り
+*** ex-2599900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 漁港の市場ではまだ暗いうちから新鮮な魚をめぐる威勢のいい競りが始まる。
+- READING :: ぎょこうのいちばではまだくらいうちからしんせんなさかなをめぐるいせいのいいせりがはじまる。
+- UK :: На ринку в рибальському порту ще вдосвіта розпочинаються жваві торги за свіжу рибу.
+- FOCUS :: 競り
+*** ex-2599900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新年最初の取引が行われる卸売市場の朝の競りでは、最高級のまぐろが驚くような高値で取引されて毎年大きな話題になる。
+- READING :: しんねんさいしょのとりひきがおこなわれるおろしうりしじょうのあさのせりでは、さいこうきゅうのまぐろがおどろくようなたかねでとりひきされてまいとしおおきなわだいになる。
+- UK :: На ранкових торгах гуртового ринку, де проводяться перші в новому році угоди, першокласний тунець продається за разюче високою ціною і щороку стає головною темою новин.
+- FOCUS :: 競り
+
+* Sense s-2599900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2ebca0b4a95487f88c4d458b52f715159011080a3a166a864ec9659e5e53823
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 競り売り
+** English glosses
+- auction
+** Ukrainian glosses
+*** uk-s-2599900-002-001
+:PROPERTIES:
+:END:
+- text :: змагання; суперництво за першість
+** Learner notes
+*** note-s-2599900-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (похідний від дієслова 競る — змагатися, боротися пліч-о-пліч).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2599900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 555660848567089ae2b11d72e8111695f9ecfa3e07d6bdfe5db04fe8b83f4f5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2599900-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: veiling
+*** en-s-2599900-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vendutie
+*** en-s-2599900-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verkoop bij opbod
+** Ukrainian glosses
+
+* Sense s-2599900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ca2f17e9a2b46770d96003f1308f67cd3f4045eb4731bd5036b6e2011f4588ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2599900-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Versteigerung
+*** en-s-2599900-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auktion
+** Ukrainian glosses
+
+* Sense s-2599900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 115cb70ee5be7040d1bbe5e9436d6bc60b87b891306a3b49b183c00c4b6e6cd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2599900-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) состязание
+*** en-s-2599900-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) аукцион; торги
+*** en-s-2599900-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) ((тк.) 糶り) торговля вразнос
+** Ukrainian glosses

@@ -1,0 +1,176 @@
+#+TITLE: 交点
+#+JMDICT_ID: 1272460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうてん
+#+ROMAJI: kouten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1272460-001
+:PROPERTIES:
+:TEXT: 交点
+:END:
+** Reading rd-1272460-001
+:PROPERTIES:
+:TEXT: こうてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1272460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 851b8d729dbc9b407ac542eb487a2fbeb85b75fa681a86b224daf7bf07e1164f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- point of intersection
+** Ukrainian glosses
+*** uk-s-1272460-001-001
+:PROPERTIES:
+:END:
+- text :: точка перетину; перетин (геометричних ліній або кривих)
+** Learner notes
+*** note-s-1272460-001-001
+:PROPERTIES:
+:END:
+- UK :: Спільна геометрична точка в просторі чи на площині, у якій перетинаються дві чи більше прямі лінії, криві або площини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1272460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二本の直線が交わる交点の座標を求める。
+- READING :: にほんのちょくせんがまじわるこうてんのざひょうをもとめる。
+- UK :: Знаходити координати точки перетину двох пересічних прямих ліній.
+- FOCUS :: 交点
+*** ex-1272460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 連立方程式の解を視覚化するため、二つの一次関数のグラフを描いてその交点が表す数値をグラフ用紙から読み取った。
+- READING :: れんりつほうていしきのかいをしかくかするため、ふたつのいちじかんすうのグラフをえがいてそのこうてんがあらわすすうちをグラフようしからよみとった。
+- UK :: Щоб наочно подати розв'язок системи рівнянь, накреслили два лінійні графіки та визначили числове значення їхньої точки перетину.
+- FOCUS :: 交点
+*** ex-1272460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 天文学における惑星の軌道計算において、研究者たちは地球の公転軌道面と黄道傾斜角を精密に測定し、天球上における昇交点と降交点の正確な位置関係を導き出すことで、将来発生する天体の日食や月食の正確な時刻を分単位で予測した。
+- READING :: てんもんがくにおけるわくせいのきどうけいさんにおいて、けんきゅうしゃたちはちきゅうのこうてんきどうめんとこうどうけいしゃかくをせいみつにそくていし、てんきゅうじょうにおけるしょうこうてんとこうこうてんのせいかくないちかんけいをみちびきだすことで、しょうらいはっせいするてんたいのにっしょくやげっしょくのせいかくなじこくをぶんたんいでよそくした。
+- UK :: Астрономи, розраховуючи орбіти планет, визначили точки перетину орбітальних площин на небесній сфері, що дозволило точно передбачити дати затемнень.
+- FOCUS :: 交点
+
+* Sense s-1272460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e5b2e11495e847d4b404be34a3881f9e07e01d8881cf6ea29aab34a72926c290
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1272460-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} snijpunt
+** Ukrainian glosses
+
+* Sense s-1272460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eea47cb149a229e324f35bf8f5d8bf66149d13bab244ed9016231652649df525
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1272460-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {astron.} knoop
+** Ukrainian glosses
+
+* Sense s-1272460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3049c7957ca1b919e594120d0c5426d2c439d90f083bb618b8bbe1fe933977e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1272460-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schnittpunkt
+*** en-s-1272460-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreuzungspunkt
+** Ukrainian glosses
+
+* Sense s-1272460-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c6af1e473f7b3ad0abb0d6654dbe22346f8ab5199084d0d03925445b26bd0535
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1272460-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Knoten
+** Ukrainian glosses
+
+* Sense s-1272460-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 62ed56e5612acb0c79d40d7dbe3a4fbe968c5b0c7f246e4e1433b1bd10a3c6fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1272460-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: точка пересечения; (астр.) точка пересечения орбит
+** Ukrainian glosses

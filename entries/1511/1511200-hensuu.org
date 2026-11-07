@@ -1,0 +1,243 @@
+#+TITLE: 変数
+#+JMDICT_ID: 1511200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へんすう
+#+ROMAJI: hensuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511200-001
+:PROPERTIES:
+:TEXT: 変数
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1511200-001
+:PROPERTIES:
+:TEXT: へんすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1511200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c756d642a699a043f3f6b9e43647298184f2ecb392aecde82cc806239b9ba099
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+- comp
+*** Cross-references
+- 定数・2
+** English glosses
+- variable
+** Ukrainian glosses
+*** uk-s-1511200-001-001
+:PROPERTIES:
+:END:
+- text :: змінна; змінна величина
+** Learner notes
+*** note-s-1511200-001-001
+:PROPERTIES:
+:END:
+- UK :: Математична або програмістська величина, чисельне значення якої може змінюватися в процесі розрахунків чи виконання алгоритму.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1511200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: プログラムで新しい変数を宣言する。
+- READING :: プログラムであたらしいへんすうをせんげんする。
+- UK :: Оголосити нову змінну в програмі.
+- FOCUS :: 変数
+*** ex-1511200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 方程式を解くためには、未知の変数がどのような条件を満たしているのかを論理的に整理する必要がある。
+- READING :: ほうていしきをとくためには、みちのへんすうがどのようなじょうけんをみたしているのかをろんりてきにせいりするひつようがある。
+- UK :: Щоб розв'язати рівняння, необхідно логічно визначити, яким саме умовам відповідає невідома змінна.
+- FOCUS :: 変数
+*** ex-1511200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複雑なシミュレーションを行う際には数多くの変数を適切に設定し、それぞれの相互関係が全体の計算結果に与える影響を慎重に検証しなければならない。
+- READING :: ふくざつなシミュレーションをおこなうさいにはかずおおくのへんすうをてきせつにせっていし、それぞれのそうごかんけいがぜんたいのけいさんけっかにあたえるえいきょうをしんちょうにけんしょうしなければならない。
+- UK :: Під час проведення складного моделювання необхідно належним чином налаштувати численні змінні величини та ретельно перевірити, як їхній взаємозв'язок впливає на кінцеві розрахунки.
+- FOCUS :: 変数
+
+* Sense s-1511200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5a182090b88df35abf1f87aebc4d412223248f87997f700d77bd744dbcf2f87e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511200-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} variabele
+** Ukrainian glosses
+
+* Sense s-1511200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1fe32df10b5d87ca60cdf7fae218aea8c3057d5d9c78282358add6461ff306ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511200-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Variable
+*** en-s-1511200-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Veränderliche
+*** en-s-1511200-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unbestimmte
+*** en-s-1511200-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Platzhalter
+** Ukrainian glosses
+
+* Sense s-1511200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 17a30629855a28670080e579eb260a16f6bc64e472e5d3761197976c48b5eec2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511200-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Variable
+** Ukrainian glosses
+
+* Sense s-1511200-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7f6031dec6b1ca96e29dcd667984051b3ff549a06f46ed40d301f1bd9e9a4836
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511200-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: függvényváltozó
+*** en-s-1511200-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ingatag
+*** en-s-1511200-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: módosítható
+*** en-s-1511200-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: változtatható
+*** en-s-1511200-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: variálható
+*** en-s-1511200-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: változó
+** Ukrainian glosses
+
+* Sense s-1511200-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5f632427835391fdfa8060189eaf3f393fa116c74e7475cab10648074b791cd5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511200-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) へんりょう
+** Ukrainian glosses

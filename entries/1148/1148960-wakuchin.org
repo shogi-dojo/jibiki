@@ -1,0 +1,240 @@
+#+TITLE: ワクチン
+#+JMDICT_ID: 1148960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ワクチン
+#+ROMAJI: wakuchin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1148960-001
+:PROPERTIES:
+:TEXT: ワクチン
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1148960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c563a8722e0a08c18b189e027d336cb3ffb30d81ce4bba93fc6434941c530a23
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1148960-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Vakzin
+** English glosses
+- vaccine
+** Ukrainian glosses
+*** uk-s-1148960-001-001
+:PROPERTIES:
+:END:
+- text :: вакцина
+** Learner notes
+*** note-s-1148960-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (запозичення з нім. Vakzin / англ. vaccine). Медичний препарат для вироблення імунітету проти інфекційних хвороб (ワクチンを接種する — робити щеплення вакциною).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1148960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ワクチンの接種。
+- READING :: ワクチンのせっしゅ。
+- UK :: Вакцинація (щеплення вакциною).
+- FOCUS :: ワクチン
+*** ex-1148960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬の流行に備えて病院でインフルエンザのワクチンを打ってもらった。
+- READING :: ふゆのりゅうこうにそなえてびょういんでインフルエンザのワクチンをうってもらった。
+- UK :: Готуючись до зимової епідемії, я зробив у лікарні щеплення вакциною проти грипу.
+- FOCUS :: ワクチン
+*** ex-1148960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい感染症の拡大を防ぐため、世界中の研究機関が協力して安全で効果の高いワクチンをできるだけ早く開発しようと力を尽くしている。
+- READING :: あたらしいかんせんしょうのかくだいをふせぐため、せかいじゅうのけんきゅうきかんがきょうりょくしてあんぜんでこうかのたかいワクチンをできるだけはやくかいはつしようとちからをつくしている。
+- UK :: Щоб запобігти поширенню нової інфекційної хвороби, дослідницькі установи всього світу співпрацюють і докладають усіх зусиль для якнайшвидшої розробки безпечної та високоефективної вакцини.
+- FOCUS :: ワクチン
+
+* Sense s-1148960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b69e67394e2d4b9f60f8ec0f1991ebffa40b89caf4ae7290856802f8cae7be53
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+*** Cross-references
+- ウイルス対策ソフト
+- ワクチンソフト
+** English glosses
+- antivirus software
+** Ukrainian glosses
+*** uk-s-1148960-002-001
+:PROPERTIES:
+:END:
+- text :: антивірусна програма (комп'ютерна, розм.)
+** Learner notes
+*** note-s-1148960-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення програмного забезпечення для захисту від комп'ютерних вірусів (ワクチンソフト).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1148960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d180433ab1a2efb7576b2552552643f0b884daa939d40a544261e3dced5a4413
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1148960-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaccin
+*** en-s-1148960-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaccinestof
+*** en-s-1148960-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} koepokstof
+*** en-s-1148960-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entstof
+** Ukrainian glosses
+
+* Sense s-1148960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c4ddedcdbd5d447da3b3e9cd82738cd96704fcdb70f3415d852a86b8ace16eb2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1148960-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Impfstoff
+*** en-s-1148960-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vakzine
+** Ukrainian glosses
+
+* Sense s-1148960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8d67407cd770e5bb779388836d6a0ab0251ec0e0b829e1813860629f0f9ab39a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1148960-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) vaccine) вакцина
+** Ukrainian glosses
+
+* Sense s-1148960-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5fde14429b131215705f238541604d4929e566811a7669635c369a7f8a712b1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1148960-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vacuna (ger: Vakzin)
+** Ukrainian glosses
+
+* Sense s-1148960-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 19ee02f39ed1262e7a3c25444f3aee27f383e6bcb29831ff62bb0b4191734b03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1148960-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaccin
+*** en-s-1148960-007-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ympämne
+** Ukrainian glosses

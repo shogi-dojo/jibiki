@@ -1,0 +1,316 @@
+#+TITLE: 差し押さえ
+#+JMDICT_ID: 1291110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さしおさえ
+#+ROMAJI: sashiosae
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291110-001
+:PROPERTIES:
+:TEXT: 差し押さえ
+:END:
+*** Priorities
+- news2
+- nf27
+** Written form wf-1291110-002
+:PROPERTIES:
+:TEXT: 差押え
+:END:
+** Written form wf-1291110-003
+:PROPERTIES:
+:TEXT: 差押
+:END:
+*** Information
+- io
+** Written form wf-1291110-004
+:PROPERTIES:
+:TEXT: 差し押え
+:END:
+*** Information
+- sK
+** Written form wf-1291110-005
+:PROPERTIES:
+:TEXT: 差押さえ
+:END:
+*** Information
+- sK
+** Reading rd-1291110-001
+:PROPERTIES:
+:TEXT: さしおさえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1291110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e30e5eff8d3670cbee19925cfc60f6aa814de3ebd74a4c8502a2dce1cbf01956
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- law
+*** Sense information
+- 差押 usu. in compounds
+** English glosses
+- seizure
+- attachment
+- foreclosure
+** Ukrainian glosses
+*** uk-s-1291110-001-001
+:PROPERTIES:
+:END:
+- text :: арешт майна; опис і конфіскація майна (за рішенням суду або за борги)
+** Learner notes
+*** note-s-1291110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово (する; також пишеться 差押え). У праві позначає примусовий захід державного виконавця або податкового органу, що забороняє боржникові розпоряджатися своїм майном чи банківськими рахунками.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1291110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 財産の差し押さえ。
+- READING :: ざいさんのさしおさえ。
+- UK :: Арешт (опис) майна.
+- FOCUS :: 差し押さえ
+*** ex-1291110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 税金の滞納が続いたため銀行口座の差し押さえが行われた。
+- READING :: ぜいきんのたいのうがつづいたためぎんこうこうざのさしおさえがおこなわれた。
+- UK :: Через тривалу несплату податків було накладено арешт на банківський рахунок.
+- FOCUS :: 差し押さえ
+*** ex-1291110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 裁判所の判決に基づく強制執行として、借金を返済しなかった債務者の不動産に対する差し押さえの手続きが進められた。
+- READING :: さいばんしょのはんけつにもとづくきょうせいしっこうとして、しゃっきんをへんさいしなかったさいむしゃのふどうさんにたいするさしおさえのてつづきがすすめられた。
+- UK :: У межах примусового виконання судового рішення було розпочато процедуру арешту нерухомого майна боржника, який не повернув позику.
+- FOCUS :: 差し押さえ
+
+* Sense s-1291110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 44e8801847eeb887d394c09b7c2d796048dcbaa3d648c324385351257547dcf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291110-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} beslaglegging
+*** en-s-1291110-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inbeslagneming
+*** en-s-1291110-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beslag
+*** en-s-1291110-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arrestatie
+*** en-s-1291110-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arrest
+*** en-s-1291110-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benadering
+** Ukrainian glosses
+
+* Sense s-1291110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5a1f46bff7cde8be6d6001a5f42642dbeefe18a4fa7680d3766dbc404f6cbae3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291110-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beschlagnahme
+*** en-s-1291110-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfändung
+** Ukrainian glosses
+
+* Sense s-1291110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f0fd299c4e7a6e01e677f82b1a4572f86e88553d51e4c11ac7a8753007285e07
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291110-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elkobzás
+*** en-s-1291110-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elkobzott dolog
+*** en-s-1291110-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lefoglalás
+*** en-s-1291110-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lefoglalt áru
+*** en-s-1291110-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartozék
+** Ukrainian glosses
+
+* Sense s-1291110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1be70c823ec08c56be10bb1be2bbc41cd53404cacdd6d6266f5a7a13e5e6f5df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291110-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: наложение запрещения (ареста); опись (имущества); секвестр
+** Ukrainian glosses
+
+* Sense s-1291110-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6255da5c49b3c7cf5cf67fe2b38aab76f796ce42439a605145ecd25fbe0af5bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291110-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: embargo
+*** en-s-1291110-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: traba
+*** en-s-1291110-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: confiscación
+*** en-s-1291110-006-004
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: incautación
+*** en-s-1291110-006-005
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decomiso
+** Ukrainian glosses

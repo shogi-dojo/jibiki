@@ -1,0 +1,490 @@
+#+TITLE: 暗号
+#+JMDICT_ID: 1154430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あんごう
+#+ROMAJI: angou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-04
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1154430-001
+:PROPERTIES:
+:TEXT: 暗号
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1154430-001
+:PROPERTIES:
+:TEXT: あんごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1154430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 24992d372ce274e17a434c57f1102f2de38d0e480faad18c4a2efaf49ac8588d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- code
+- password
+- cipher
+** Ukrainian glosses
+*** uk-s-1154430-001-001
+:PROPERTIES:
+:END:
+- text :: шифр; криптографічний код; пароль
+** Learner notes
+*** note-s-1154430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Позначає таємну систему умовних знаків, слів чи алгоритмів для засекречення повідомлень від сторонніх (暗号を解読する — розшифрувати код, 暗号資産 — криптоактиви, 暗号化 — шифрування даних).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1154430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 暗号を解読する。
+- READING :: あんごうをかいどくする。
+- UK :: Розшифрувати код (шифр).
+- FOCUS :: 暗号
+*** ex-1154430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 通信の安全を守るためにデータを複雑な暗号に変換して送信する。
+- READING :: つうしんのあんぜんをまもるためにデータをふくざつなあんごうにへんかんしてそうしんする。
+- UK :: Для захисту безпеки зв'язку дані перед передаванням перетворюють на складний шифр.
+- FOCUS :: 暗号
+*** ex-1154430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インターネットバンキングを利用する際には、個人情報やパスワードが高度な暗号によって第三者から厳重に保護されている。
+- READING :: インターネットバンキングをりようするさいには、こじんじょうほうやパスワードがこうどなあんごうによってだいさんしゃからげんじゅうにほごされている。
+- UK :: Під час користування інтернет-банкінгом особисті дані та паролі надійно захищені від сторонніх осіб за допомогою високорівневого шифрування.
+- FOCUS :: 暗号
+
+* Sense s-1154430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cb4ea91caef7da3dac08cc3722d1670681fcd3a5e2ef93fa3b7a62a6b36ccc16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geheimschrift
+*** en-s-1154430-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: code
+*** en-s-1154430-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cijferschrift
+*** en-s-1154430-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cijfercode
+*** en-s-1154430-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geheimtaal
+*** en-s-1154430-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cryptogram
+*** en-s-1154430-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wachtwoord
+*** en-s-1154430-002-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: password
+*** en-s-1154430-002-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: consigne
+** Ukrainian glosses
+
+* Sense s-1154430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b7322b98be9c83f389eca0125b3afd646dee4c451039f3c28f627c2782b0b1b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: code
+*** en-s-1154430-003-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mot de passe
+** Ukrainian glosses
+
+* Sense s-1154430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f841175db38eb86e25638c5c64ad3351cf1bc4aeaf0a3767252b80676a42a9cb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geheimzeichen
+*** en-s-1154430-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chiffre
+*** en-s-1154430-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Code
+*** en-s-1154430-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kode
+*** en-s-1154430-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nur Eingeweihten verständliches Zeichen
+** Ukrainian glosses
+
+* Sense s-1154430-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d6d27972373f394bad8e01449cd21d7791af07ecfc70f1c9d0d0160dfffa987f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hibás együtthangzó orgonasíp
+*** en-s-1154430-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelentéktelen ember
+*** en-s-1154430-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: monogram
+*** en-s-1154430-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: név egybekapcsolt kezdőbetűi
+*** en-s-1154430-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjel
+*** en-s-1154430-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjeles jelentés
+*** en-s-1154430-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjeles levél
+*** en-s-1154430-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjeles távirat
+*** en-s-1154430-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjelezés
+*** en-s-1154430-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjelkódex
+*** en-s-1154430-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjelkulcs
+*** en-s-1154430-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rejtjeltávirat
+*** en-s-1154430-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrekódex
+*** en-s-1154430-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrekulcs
+*** en-s-1154430-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrírozás
+*** en-s-1154430-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrírozott jelentés
+*** en-s-1154430-005-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrírozott levél
+*** en-s-1154430-005-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifrírozott távirat
+*** en-s-1154430-005-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számjegy
+*** en-s-1154430-005-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szignó
+*** en-s-1154430-005-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: titkosírás
+** Ukrainian glosses
+
+* Sense s-1154430-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 348649069bb8e5d0872d5f63da5210f0f0d3177b2b8d4e7af244d80d06f5098a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) шифр, код
+*** en-s-1154430-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする}, 暗号に組む(直す, 訳する), 暗号であらわす шифровать, зашифровывать
+*** en-s-1154430-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) пароль
+** Ukrainian glosses
+
+* Sense s-1154430-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8a687147ece602ca5752d07b751a48f98b62961ff8920fb7eae162f43a532d9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1154430-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: código
+*** en-s-1154430-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contraseña
+*** en-s-1154430-007-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cifra
+** Ukrainian glosses

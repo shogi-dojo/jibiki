@@ -1,0 +1,543 @@
+#+TITLE: 勾配
+#+JMDICT_ID: 1275300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうばい
+#+ROMAJI: koubai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1275300-001
+:PROPERTIES:
+:TEXT: 勾配
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf46
+** Written form wf-1275300-002
+:PROPERTIES:
+:TEXT: こう配
+:END:
+*** Information
+- sK
+** Reading rd-1275300-001
+:PROPERTIES:
+:TEXT: こうばい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf46
+
+* Sense s-1275300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aef5e85b38251c79d68fbf4f2d7389fc5249ce6b73128b21c65874be74e383c0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- slope
+- incline
+- gradient
+- grade
+- pitch
+** Ukrainian glosses
+*** uk-s-1275300-001-001
+:PROPERTIES:
+:END:
+- text :: ухил; схил; крутизна; підйом
+** Learner notes
+*** note-s-1275300-001-001
+:PROPERTIES:
+:END:
+- UK :: Кут нахилу автомобільної дороги, покрівлі будинку, гірського схилу або залізничної колії відносно горизонтальної площини поверхні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1275300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 急な勾配の坂道を自転車で登る。
+- READING :: きゅうなこうばいのさかみちをじてんしゃでのぼる。
+- UK :: Велосипедом піднімаються на дорогу з крутим ухилом.
+- FOCUS :: 勾配
+*** ex-1275300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大雪が降ると急な勾配の道路ではトラックのスリップ事故が起きやすいため、冬用タイヤチェーンの装着が義務付けられている。
+- READING :: おおゆきがふるときゅうなこうばいのどうろではトラックのスリップじこがおきやすいため、ふゆようタイヤチェーンのそうちゃくがぎむづけられている。
+- UK :: На крутих схилах під час снігопаду обов'язково встановлюють ланцюги на колеса вантажівок для захисту від ковзання.
+- FOCUS :: 勾配
+*** ex-1275300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 険しい山岳地帯を通過する鉄道の建設工事において、列車が安全に登坂できるように連続する急な勾配を緩和するため、巨大なループ線やスイッチバック方式を組み合わせた高度な土木技術が駆使された。
+- READING :: けわしいさんがくちいきをつうかするてつどうのけんせつこうじにおいて、れっしゃがあんぜんにとうはんできるようにれんぞくするきゅうなこうばいをかんわするため、きょだいなループせんやスイッチバックほうしきをくみあわせたこうどなどぼくぎじゅつがくしされた。
+- UK :: Під час прокладання гірської залізниці застосували петльові тунелі, щоб зменшити занадто крутий підйом колії.
+- FOCUS :: 勾配
+
+* Sense s-1275300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 91f43c44c7f1fc6ce9040c3faf4ee3ae74a78b6cc9b0b7a7d8d72ab5f368b3eb
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 傾き・3
+** English glosses
+- slope (of a linear function)
+** Ukrainian glosses
+*** uk-s-1275300-002-001
+:PROPERTIES:
+:END:
+- text :: кутовий коефіцієнт прямої (в математиці)
+** Learner notes
+*** note-s-1275300-002-001
+:PROPERTIES:
+:END:
+- UK :: Тангенс кута нахилу прямої лінії в системі декартових координат.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1275300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 06d75370dd82ce03645568779bfd0a9bf243d7523d7fe09176792027125a063b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+- physics
+** English glosses
+- gradient (vector calculus)
+** Ukrainian glosses
+*** uk-s-1275300-003-001
+:PROPERTIES:
+:END:
+- text :: векторний градієнт (у математичному аналізі)
+** Learner notes
+*** note-s-1275300-003-001
+:PROPERTIES:
+:END:
+- UK :: Вектор, що вказує напрямок найшвидшого зростання скалярної функції в просторі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1275300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 58c03261912be7bd34909a1c76fd69cd1f7c944812b0beeefa07ce56042f8101
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helling
+*** en-s-1275300-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glooiing
+*** en-s-1275300-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: talud
+*** en-s-1275300-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schuinte
+*** en-s-1275300-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afloop
+*** en-s-1275300-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gradiënt
+** Ukrainian glosses
+
+* Sense s-1275300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a883af33aaba9e469b32dcb9419e516838ec0da76379d0db9aa54c69b380c065
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: degré
+*** en-s-1275300-005-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gradient
+*** en-s-1275300-005-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inclinaison
+*** en-s-1275300-005-004
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pente
+** Ukrainian glosses
+
+* Sense s-1275300-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1bc6fbaf41305406f5097ea7f4fbd2e55e12df6c18ac619d0b098ce1eccdb47a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gefälle
+*** en-s-1275300-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Neigung
+*** en-s-1275300-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Inklination
+*** en-s-1275300-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steigung
+*** en-s-1275300-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anstieg
+*** en-s-1275300-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abhang
+*** en-s-1275300-006-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Böschung
+** Ukrainian glosses
+
+* Sense s-1275300-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5fce33b5d9c78dd0519179fb22676c2a7f23674929f08d986552735ea83ac3f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steigung
+*** en-s-1275300-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gradient
+** Ukrainian glosses
+
+* Sense s-1275300-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 8710600f860f695c4b9ace739f568cd0259b9b4c8431b92c38824ef5bef7ff27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gradient
+** Ukrainian glosses
+
+* Sense s-1275300-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a2a183de9711e14f94aa76152a55a9d1c254cebd7286005cf2d2a3cfce6e6e4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dőlés
+*** en-s-1275300-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: emelkedő
+*** en-s-1275300-009-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejtés
+*** en-s-1275300-009-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejtő
+*** en-s-1275300-009-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejtősség
+*** en-s-1275300-009-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bódé
+*** en-s-1275300-009-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csúcspont
+*** en-s-1275300-009-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: duma
+*** en-s-1275300-009-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elárusítóhely
+*** en-s-1275300-009-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: magaslat
+*** en-s-1275300-009-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stand
+*** en-s-1275300-009-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lejtő
+** Ukrainian glosses
+
+* Sense s-1275300-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: eae3a8ec17577f7d32a01606a73264aafb87d554687b610fb6b112e1330543c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подъём; уклон; скат; откос
+** Ukrainian glosses
+
+* Sense s-1275300-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 86e85d0df2a00a1cdb86ffb7b27e95efc521e1e30868ac9afc70be67fead776e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-011-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poševnost
+*** en-s-1275300-011-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: naklon
+*** en-s-1275300-011-003
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klančina
+** Ukrainian glosses
+
+* Sense s-1275300-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 1d03f3961d5a0d4e76205dfe29163023ee99aab8e9fc9ab32795c5d67714ea59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275300-012-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plano inclinado
+*** en-s-1275300-012-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rampa
+** Ukrainian glosses

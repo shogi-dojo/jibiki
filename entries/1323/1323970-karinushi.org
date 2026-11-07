@@ -1,0 +1,242 @@
+#+TITLE: 借り主
+#+JMDICT_ID: 1323970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりぬし
+#+ROMAJI: karinushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1323970-001
+:PROPERTIES:
+:TEXT: 借り主
+:END:
+*** Priorities
+- news2
+- nf28
+** Written form wf-1323970-002
+:PROPERTIES:
+:TEXT: 借主
+:END:
+** Reading rd-1323970-001
+:PROPERTIES:
+:TEXT: かりぬし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1323970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7b65d7070ad641e0cc599dc7f003c9bc40c0b957d2be19ce8bb791cb50b5876c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- borrower
+- debtor
+** Ukrainian glosses
+*** uk-s-1323970-001-001
+:PROPERTIES:
+:END:
+- text :: позичальник; боржник (грошей або майна)
+** Learner notes
+*** note-s-1323970-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична або юридична особа, яка бере в борг фінансові кошти, майно чи матеріальні цінності під зобов'язання їх повернення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1323970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行からの融資を受けた借り主。
+- READING :: ぎんこうからのゆうしをうけたかりぬし。
+- UK :: Позичальник, який отримав банківський кредит.
+- FOCUS :: 借り主
+*** ex-1323970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 金融機関は資金を融資する際、借り主の信用情報や返済能力を多角的な視点から厳格に審査しなければならない。
+- READING :: きんゆうきかんはしきんをゆうしするさい、かりぬしのしんようじょうほうやへんさいのうりょくをたかくてきなしてんからげんかくにしんさしなければならない。
+- UK :: Фінансова установа при наданні грошової позики повинна ретельно перевіряти кредитну історію та платоспроможність позичальника з різних боків.
+- FOCUS :: 借り主
+*** ex-1323970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 契約書の条項に基づき、金融機関は返済期日を長期間過ぎても支払いに応じない悪質な借り主に対して正式な督促状を送付し、担保として設定されていた不動産の差し押さえ手続きに着手した。
+- READING :: けいやくしょのじょうこうにもとづき、きんゆうきかんはへんさいきじつをちょうきかんすぎてもしはらいにおうじないあくしつなかりぬしにたいしてせいしきなとくそくじょうをそうふし、たんぽとしてせっていされていたふどうさんのさしおさえてつづきにちゃくしゅした。
+- UK :: На підставі договору фінансова установа надіслала офіційну претензію недобросовісному позичальнику, який тривалий час не сплачував борг після дедлайну, і розпочала арешт заставленої нерухомості.
+- FOCUS :: 借り主
+
+* Sense s-1323970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d73bff62253db669b0f7739827fe50c938dbb95aff72e6fc71d7a2b9e011e0f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tenant
+- lessee
+- renter
+** Ukrainian glosses
+*** uk-s-1323970-002-001
+:PROPERTIES:
+:END:
+- text :: орендар; наймач квартири чи приміщення
+** Learner notes
+*** note-s-1323970-002-001
+:PROPERTIES:
+:END:
+- UK :: Особа, яка орендує нерухомість або житло у власника на підставі підписаного договору оренди.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1323970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b43bae82aa5262331f6680e1d542c8a1110f3ff0ba4698ee74c7a9913204d3df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323970-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Borger
+*** en-s-1323970-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entleiher
+*** en-s-1323970-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pächter
+*** en-s-1323970-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mieter
+*** en-s-1323970-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schuldner
+*** en-s-1323970-003-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Debitor
+** Ukrainian glosses
+
+* Sense s-1323970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 42fccbe53f59ae46b90eec0c724fc74bd857bb3b7e6bd2e50a6ab9e8416969a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323970-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lakó
+*** en-s-1323970-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haszonélvező
+** Ukrainian glosses
+
+* Sense s-1323970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 890525aaa8258562da69fcc1483c51e74c20e5774ec12158803839baae27fcc2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323970-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) かりて【借り手】
+** Ukrainian glosses
+
+* Sense s-1323970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 78be0402d1eb72d30b6f39c8bbd9816702ae3edf11a2dce97c7e625f6e0d6246
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323970-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arrendatario
+*** en-s-1323970-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prestatario
+** Ukrainian glosses

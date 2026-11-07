@@ -1,0 +1,170 @@
+#+TITLE: 税額
+#+JMDICT_ID: 1382080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜいがく
+#+ROMAJI: zeigaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1382080-001
+:PROPERTIES:
+:TEXT: 税額
+:END:
+*** Priorities
+- news1
+- nf09
+** Reading rd-1382080-001
+:PROPERTIES:
+:TEXT: ぜいがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf09
+
+* Sense s-1382080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 342b6f93f639e604734ab76e696562be3c7d76e134591f956ee31381f50b7303
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- amount of tax
+** Ukrainian glosses
+*** uk-s-1382080-001-001
+:PROPERTIES:
+:END:
+- text :: сума податку; розмір податкового зобов'язання
+** Learner notes
+*** note-s-1382080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. У фінансах та бухгалтерському обліку позначає конкретну грошову суму податку, обчислену до сплати (税額控除 — податковий кредит / вирахування із суми податку).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1382080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 税額を計算する。
+- READING :: ぜいがくをけいさんする。
+- UK :: Обчислити суму податку.
+- FOCUS :: 税額
+*** ex-1382080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 年間の所得と各種の控除をもとに最終的な税額が確定する。
+- READING :: ねんかんのしょとくと、かくしゅのこうじょをもとにさいしゅうてきなぜいがくがかくていする。
+- UK :: На основі річного доходу та різноманітних податкових знижок визначається остаточна сума податку.
+- FOCUS :: 税額
+*** ex-1382080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 住宅ローンを利用してマイホームを購入した場合には、一定の期間にわたって毎年の所得税から税額が控除される制度がある。
+- READING :: じゅうたくローンをりようしてマイホームをこうにゅうしたばあいには、いっていのきかんにわたってまいとしのしょとくぜいからぜいがくがこうじょされるせいどがある。
+- UK :: У разі придбання власного житла за допомогою іпотечного кредиту діє система, за якою протягом певного періоду сума податку щороку вираховується з прибуткового податку.
+- FOCUS :: 税額
+
+* Sense s-1382080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a12e0287815d2017b7b44efe03de113db884ebeacb0c47eb855c8f4fa0c7a6f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrag dat iem. aan belastingen te betalen heeft
+*** en-s-1382080-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belastingaanslag
+*** en-s-1382080-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belastingsom
+*** en-s-1382080-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoofdsom
+** Ukrainian glosses
+
+* Sense s-1382080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 770f589f2980db535534cbdace699ac20d04c7cb53ecf6fec8a057fb7929663a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382080-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerhöhe
+*** en-s-1382080-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerbetrag
+** Ukrainian glosses
+
+* Sense s-1382080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1a6c886b67b90ad5d72c25cf3cf0e157f59844048d3bc891ec32ab82f5255385
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382080-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сумма (размер) налога
+** Ukrainian glosses

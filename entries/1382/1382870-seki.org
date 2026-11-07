@@ -1,0 +1,219 @@
+#+TITLE: 積
+#+JMDICT_ID: 1382870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せき
+#+ROMAJI: seki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1382870-001
+:PROPERTIES:
+:TEXT: 積
+:END:
+*** Priorities
+- news1
+- nf15
+** Reading rd-1382870-001
+:PROPERTIES:
+:TEXT: せき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf15
+
+* Sense s-1382870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d1d5b1364de8e7d4acd9083e6d25feb93b9c56c800edbaca150e58a2e2d70007
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 商・1
+** English glosses
+- product
+** Ukrainian glosses
+*** uk-s-1382870-001-001
+:PROPERTIES:
+:END:
+- text :: добуток (математичний результат множення чисел)
+** Learner notes
+*** note-s-1382870-001-001
+:PROPERTIES:
+:END:
+- UK :: Кінцева математична величина або числовий результат, отриманий унаслідок перемножування двох чи більше чисел, виразів або матриць.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1382870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの正の整数の積を計算する。
+- READING :: ふたつのせいのせいすうのせきをけいさんする。
+- UK :: Обчислювати математичний добуток двох додатних цілих чисел.
+- FOCUS :: 積
+*** ex-1382870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 代数学の基礎的な定理によると、二つの実数の積がゼロであるならば、少なくとも一方の実数はゼロでなければならない。
+- READING :: だいすうがくのきそてきなていりによると、ふたつのじっすうのせきがゼロであるならば、すくなくともいっぽうのじっすうはゼロでなければならない。
+- UK :: За базовою теоремою алгебри, якщо добуток двох дійсних чисел дорівнює нулю, то принаймні одне з них обов'язково є нулем.
+- FOCUS :: 積
+*** ex-1382870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高等数学の微積分学において多次元空間の体積を求める重積分を学ぶ学生たちは、基底ベクトルの外積や行列式の絶対値を用いて座標変換に伴う微小要素の体積の積を正確に計算する難解な理論を熱心に学修した。
+- READING :: こうとうすうがくのびせきぶんがくにおいてたじげんくうかんのたいせきをもとめるじゅうせきぶんをまなぶがくせいたちは、きていベクトルのがいせきやぎょうれつしきのぜったいちをもちいてざひょうへんかんにともなうびしょうようそのたいせきのせきをせいかくにけいさんするなんかいなりろんをねっしんにがくしゅうした。
+- UK :: Студенти вищої математики опановували складну теорію кратних інтегралів, використовуючи векторний добуток для обчислення об'ємів у багатовимірному просторі.
+- FOCUS :: 積
+
+* Sense s-1382870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3b1dc3e2dd0a4582cc24fc66bbcf1c1fa6dcf5b69e6bb10451a1584dce7ef3b8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 体積
+- 面積
+** English glosses
+- volume
+- area
+** Ukrainian glosses
+*** uk-s-1382870-002-001
+:PROPERTIES:
+:END:
+- text :: площа; об'єм; місткість
+** Learner notes
+*** note-s-1382870-002-001
+:PROPERTIES:
+:END:
+- UK :: Величина поверхні або просторовий об'єм геометричного тіла чи ділянки.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1382870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 931a5e39aa5abb3f3dc6dc5d63580974b291813d157174174b0262ff51691fef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Produkt
+** Ukrainian glosses
+
+* Sense s-1382870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6cb2b11323b95ac5096efa5a92eb19b035c290684b72d0c6f22b5259006a7eaa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382870-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szorzat
+*** en-s-1382870-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szorzat
+*** en-s-1382870-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: termék
+** Ukrainian glosses
+
+* Sense s-1382870-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6f5a5ede4c25dd9e11c871b146dc47748515e858db37354541c360e58a5aef3b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382870-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) площадь (напр. земли под чем-л.)
+*** en-s-1382870-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (мат.) произведение
+** Ukrainian glosses
+
+* Sense s-1382870-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 355800852c892a335cec2c531bb5316ac259ae05b9c371612ec8a47fdeff429a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1382870-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: producto (matemáticas)
+*** en-s-1382870-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multiplicación
+** Ukrainian glosses
