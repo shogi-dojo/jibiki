@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 require 'digest'
+require 'fileutils'
+require 'tmpdir'
 require_relative 'dictionary_sources/jmdict'
 require_relative 'exporters/houhou_vocab_matcher'
 require_relative 'org_entry'
@@ -113,8 +115,11 @@ module EntryValidator
     errors
   end
 
-  def validate_entry(filepath)
-    puts "Validating Org entry: #{filepath}"
+  # `sources: false` skips the checks that need the JMdict archive (sense
+  # fingerprints), for callers that only touch the authored layer. `log`
+  # receives progress lines; pass nil for none.
+  def validate_entry(filepath, sources: true, log: $stdout)
+    log&.puts "Validating Org entry: #{filepath}"
     errors = []
 
     unless File.exist?(filepath)
@@ -404,8 +409,8 @@ module EntryValidator
 
     if senses.empty?
       errors << "No Sense headings found in file"
-    else
-      puts "Looking up entry #{ent_seq} in JMdict..."
+    elsif sources
+      log&.puts "Looking up entry #{ent_seq} in JMdict..."
       source_entry = jmdict_entry(ent_seq)
 
       if source_entry.nil?
@@ -436,5 +441,21 @@ module EntryValidator
     end
 
     errors
+  end
+
+  # Validates entry text that is not on disk yet, such as a patched entry.
+  # The text is written to a scratch path named the way the entry's own
+  # keywords say it must be, so the path checks hold for a well-formed entry.
+  def validate_text(text, sources: false)
+    ent_seq = text[/^#\+JMDICT_ID: (\d+)$/, 1]
+    romaji = text[/^#\+ROMAJI: ([a-z0-9-]+)$/, 1]
+    return ['Missing JMDICT_ID or ROMAJI header'] unless ent_seq && romaji
+
+    Dir.mktmpdir('jibiki-validate') do |directory|
+      path = File.join(directory, (ent_seq.to_i / 1000).to_s, "#{ent_seq}-#{romaji}.org")
+      FileUtils.mkdir_p(File.dirname(path))
+      File.write(path, text)
+      validate_entry(path, sources: sources, log: nil)
+    end
   end
 end
