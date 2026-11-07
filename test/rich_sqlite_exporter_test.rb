@@ -271,6 +271,24 @@ class RichSqliteExporterTest < Minitest::Test
     end
   end
 
+  def test_walks_a_lazy_enumerator_once
+    parses = 0
+    entries = [ASOKO_ORG, ASOKO_ORG].lazy.map do |text|
+      parses += 1
+      OrgEntry.parse(text)
+    end
+
+    Dir.mktmpdir do |tmpdir|
+      output = File.join(tmpdir, "jibiki.sqlite")
+      Exporters::RichSqlite.export(entries, output, warning_io: StringIO.new)
+      db = Sequel.sqlite(output, readonly: true)
+      assert_equal 1, db[:entries].count
+      assert_equal '1', db[:metadata].where(key: 'EntryCount').get(:value)
+      db.disconnect
+    end
+    assert_equal 2, parses
+  end
+
   def test_vocab_mapping_populated_when_base_db_matches
     entry_file = Tempfile.new(["entry", ".org"])
     entry_file.write(ASOKO_ORG)

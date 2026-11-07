@@ -11,6 +11,8 @@ module Exporters
   class RichSqlite
     # `search_index: false` leaves out the FTS4 `entry_search` table, for
     # consumers that index the data themselves on an SQLite built without FTS4.
+    # `entries` may be a lazy enumerator: it is walked once, so a caller can
+    # parse files as they are exported instead of holding the whole corpus.
     def self.export(entries, output_path, vocab_mapping_base: nil, warning_io: $stderr, search_index: true)
       # entries.jmdict_id is the primary key; the corpus occasionally holds the
       # same JMdict entry under two files (reading aliases). Keep the first,
@@ -40,8 +42,10 @@ module Exporters
         notice_path = File.expand_path('../../NOTICE', __dir__)
         attribution = File.exist?(notice_path) ? File.read(notice_path, encoding: 'UTF-8') : ''
 
+        exported = 0
         db.transaction do
           entries.each do |entry|
+            exported += 1
             db[:entries].insert(
               jmdict_id: entry.jmdict_id,
               title: entry.title,
@@ -312,7 +316,7 @@ module Exporters
           db[:metadata].insert(key: 'SchemaVersion', value: '1')
           db[:metadata].insert(key: 'GeneratorCommit', value: git_commit)
           db[:metadata].insert(key: 'GeneratedAt', value: Time.now.utc.iso8601)
-          db[:metadata].insert(key: 'EntryCount', value: entries.count.to_s)
+          db[:metadata].insert(key: 'EntryCount', value: exported.to_s)
           db[:metadata].insert(key: 'License', value: 'CC-BY-SA-4.0')
           db[:metadata].insert(key: 'Attribution', value: attribution)
           db[:metadata].insert(key: 'VocabMappingBase', value: vocab_mapping_base) if vocab_mapping_base
