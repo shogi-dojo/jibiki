@@ -1,0 +1,166 @@
+#+TITLE: 心電図
+#+JMDICT_ID: 1360880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんでんず
+#+ROMAJI: shindenzu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-06
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1360880-001
+:PROPERTIES:
+:TEXT: 心電図
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1360880-001
+:PROPERTIES:
+:TEXT: しんでんず
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1360880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c75de58592b96a4a2b449286b4ee4c1eca4d0f790083a37108cc92ec47cfae79
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- electrocardiogram
+- ECG
+- EKG
+** Ukrainian glosses
+*** uk-s-1360880-001-001
+:PROPERTIES:
+:END:
+- text :: електрокардіограма; ЕКГ; графік роботи серця
+** Learner notes
+*** note-s-1360880-001-001
+:PROPERTIES:
+:END:
+- UK :: Графічне зображення різниці потенціалів та електричної активності серцевого м'яза під час його скорочення, що фіксується кардіографом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1360880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 定期健康診断で心電図の検査を受ける。
+- READING :: ていきけんこうしんだんでしんでんずのけんさをうける。
+- UK :: Під час планового медогляду проходять перевірку електрокардіограми.
+- FOCUS :: 心電図
+*** ex-1360880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 胸の強い痛みを訴えて救急搬送された患者に対して、医師は直ちに心電図の波形を確認し、心筋梗塞の兆候がないか迅速に診断した。
+- READING :: むねのつよいいたみをうったえてきゅうきゅうはんそうされたかんじゃにたいして、いしはただちにしんでんずのはけいをかくにんし、しんきんこうそくのちょうこうがないかじんそくにしんだんした。
+- UK :: Пацієнту з гострим болем у грудях лікар негайно перевірив хвилі кардіограми для виявлення ознак інфаркту міокарда.
+- FOCUS :: 心電図
+*** ex-1360880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 循環器科の専門医は、二十四時間にわたって患者の日常生活中の心電図を記録するホルター心電図検査を実施し、運動時や睡眠時に不整脈が発生していないかを詳しく分析した。
+- READING :: じゅんかんきかのせんもんいは、にじゅうよじかんにわたってかんじゃのにちじょうせいかつちゅうのしんでんずをきろくするほるたーしんでんずけんさをじっしし、うんどうじやすいみんじにふせいみゃくがはっせいしていないかをくわしくぶんせきした。
+- UK :: Кардіолог провів добове холтерівське моніторування кардіограми, ретельно вивчаючи роботу серця пацієнта під час сну та фізичних навантажень.
+- FOCUS :: 心電図
+
+* Sense s-1360880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c1cc4b37e5e49b8de8ac9518263fd4f12ead191221d5730d435e32ef2c93d587
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1360880-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} elektrocardiogram
+*** en-s-1360880-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hartfilm
+*** en-s-1360880-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hartfilmpje
+*** en-s-1360880-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ecg
+** Ukrainian glosses
+
+* Sense s-1360880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03254343d25290706715aeade752480d893ec1d1343b8d36620a9640f1c90059
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1360880-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Elektrokardiogramm (Abk.: EKG)
+** Ukrainian glosses
+
+* Sense s-1360880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7ab6cbdd639f2012e1b257ba19c4f0798e49d214555a41165e3f4b89f71fd22e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1360880-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) электрокардиограмма
+** Ukrainian glosses
