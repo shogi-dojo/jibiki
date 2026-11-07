@@ -22,6 +22,14 @@ class EntryValidatorTextTest < Minitest::Test
     assert_equal ['Missing JMDICT_ID or ROMAJI header'], EntryValidator.validate_text("* Forms\n")
   end
 
+  def test_accepts_the_romaji_the_corpus_uses_in_file_names
+    path = Dir[File.join(ROOT, 'entries/2843/2843595-*.org')].first
+    skip 'entry 2843595 is not in the corpus' unless path
+
+    text = File.read(path, encoding: 'UTF-8')
+    refute_includes EntryValidator.validate_text(text), 'Missing JMDICT_ID or ROMAJI header'
+  end
+
   def test_rejects_a_romaji_header_that_is_not_a_file_name
     assert_equal ['Missing JMDICT_ID or ROMAJI header'],
                  EntryValidator.validate_text(AO.sub('#+ROMAJI: ao', '#+ROMAJI: ../ao'))
@@ -51,10 +59,12 @@ class EntryValidatorTextTest < Minitest::Test
       { 'op' => 'note.add', 'sense' => sense.id, 'values' => { 'uk' => 'Примітка.', 'level' => 'beginner' } }
     ]
     if (gloss = sense.ukrainian_glosses.first)
-      ops << { 'op' => 'gloss.edit', 'id' => gloss.id, 'values' => { 'text' => "#{gloss.text} (уточнено)" } }
+      ops << { 'op' => 'gloss.edit', 'id' => gloss.id, 'from' => OrgEntry::Patch.read(text, gloss.id).compact,
+               'values' => { 'text' => "#{gloss.text} (уточнено)" } }
     end
     if (example = sense.examples.first)
-      ops << { 'op' => 'example.edit', 'id' => example.id, 'values' => { 'en' => 'Checked.' } }
+      ops << { 'op' => 'example.edit', 'id' => example.id, 'from' => OrgEntry::Patch.read(text, example.id).compact,
+               'values' => { 'en' => 'Checked.' } }
     end
     ops
   end

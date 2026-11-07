@@ -25,7 +25,8 @@ module OrgEntry
   #
   # The same shapes exist for `note`, `example` and `collocation`. `from` holds
   # the values the author saw; when the file no longer has them the edit raises
-  # Conflict instead of overwriting someone else's change. An `add` may name
+  # Conflict instead of overwriting someone else's change; it must list every
+  # non-empty field (OrgEntry::Patch.read gives them). An `add` may name
   # an `after` ID to place the new block behind it.
   #
   # `author` is who wrote the change. `reviewer`, when given, is who approved
@@ -221,7 +222,7 @@ module OrgEntry
 
       def remove(kind, op)
         index = locate(kind, op)
-        @lines.slice!(index...block_end(index))
+        @lines.slice!(index...content_end(index))
         drop_empty_section(index)
       end
 
@@ -244,15 +245,18 @@ module OrgEntry
         index = heading_index(id)
         raise Conflict, "#{id} no longer exists" unless index
 
+        # Every field is compared (an absent one means empty), so a change to
+        # any field since the author looked is a conflict, not an overwrite.
         from = op['from']
-        raise Invalid, 'from must be an object' unless from.nil? || from.is_a?(Hash)
+        raise Invalid, 'from must be an object with the values the author saw' unless from.is_a?(Hash)
 
-        current = values(id)
-        (from || {}).each do |name, expected|
-          raise Invalid, "#{kind.name} has no field #{name.inspect}" unless kind.field(name)
-          next if normalize(expected) == current[name]
+        unknown = from.keys.reject { |name| kind.field(name) }
+        raise Invalid, "#{kind.name} has no field #{unknown.first.inspect}" unless unknown.empty?
 
-          raise Conflict, "#{id} #{name} is now #{current[name].inspect}, not #{expected.inspect}"
+        values(id).each do |name, current|
+          next if normalize(from[name]) == current
+
+          raise Conflict, "#{id} #{name} is now #{current.inspect}, not #{from[name].inspect}"
         end
         index
       end

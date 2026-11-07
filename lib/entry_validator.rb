@@ -448,7 +448,7 @@ module EntryValidator
   # keywords say it must be, so the path checks hold for a well-formed entry.
   def validate_text(text, sources: false)
     ent_seq = text[/^#\+JMDICT_ID: (\d+)$/, 1]
-    romaji = text[/^#\+ROMAJI: ([a-z0-9-]+)$/, 1]
+    romaji = text[%r{^#\+ROMAJI: ([^\s/\\.][^\s/\\]*)$}, 1]
     return ['Missing JMDICT_ID or ROMAJI header'] unless ent_seq && romaji
 
     Dir.mktmpdir('jibiki-validate') do |directory|

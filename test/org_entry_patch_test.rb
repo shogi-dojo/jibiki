@@ -89,9 +89,18 @@ class OrgEntryPatchTest < Minitest::Test
 
   CONTEXT = { author: 'dojo:olena', date: '2026-11-08' }.freeze
 
+  # Fills in `from` with the current values where a test leaves it out, as
+  # the site does from what the author saw.
   def patch(ops, text: ENTRY, **context)
+    ops = ops.map do |op|
+      next op if op.key?('from') || !op['id'] || op['op'].end_with?('.add')
+
+      op.merge('from' => seen(op['id'], text) || {})
+    end
     OrgEntry::Patch.apply(text, ops, **CONTEXT, **context)
   end
+
+  def seen(id, text = ENTRY) = OrgEntry::Patch.read(text, id)&.compact
 
   def entry(text) = OrgEntry.parse(text)
 
@@ -186,6 +195,21 @@ class OrgEntryPatchTest < Minitest::Test
     assert_includes error.message, 'синій колір'
   end
 
+  def test_a_partial_from_is_a_conflict_when_another_field_changed
+    assert_raises(OrgEntry::Patch::Conflict) do
+      patch([{ 'op' => 'gloss.edit', 'id' => 'uk-s-1381380-001-002', 'from' => { 'text' => 'блакитний колір' },
+               'values' => { 'text' => 'блакитний' } }])
+    end
+  end
+
+  def test_an_edit_needs_the_values_the_author_saw
+    error = assert_raises(OrgEntry::Patch::Invalid) do
+      OrgEntry::Patch.apply(ENTRY, [{ 'op' => 'gloss.remove', 'id' => 'uk-s-1381380-001-001' }], **CONTEXT)
+    end
+
+    assert_includes error.message, 'from'
+  end
+
   def test_an_edit_of_a_missing_gloss_is_a_conflict
     assert_raises(OrgEntry::Patch::Conflict) do
       patch([{ 'op' => 'gloss.edit', 'id' => 'uk-s-1381380-001-009', 'values' => { 'text' => 'x' } }])
@@ -276,7 +300,7 @@ class OrgEntryPatchTest < Minitest::Test
   end
 
   def test_edits_an_example_field_in_the_drawer
-    text = patch([{ 'op' => 'example.edit', 'id' => 'ex-1381380-001-001', 'from' => { 'level' => 'beginner' },
+    text = patch([{ 'op' => 'example.edit', 'id' => 'ex-1381380-001-001', 'from' => seen('ex-1381380-001-001'),
                     'values' => { 'level' => 'intermediate', 'en' => 'Blue is the colour of the sky.' } }])
 
     example = entry(text).senses.first.examples.first
@@ -289,6 +313,7 @@ class OrgEntryPatchTest < Minitest::Test
     text = patch([{ 'op' => 'example.remove', 'id' => 'ex-1381380-001-001' }])
 
     refute_includes text, '** Examples'
+    assert_includes text, "- qualifier :: про небо\n\n* Sense s-1381380-002\n"
     entry(text)
   end
 
