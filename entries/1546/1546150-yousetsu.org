@@ -1,0 +1,310 @@
+#+TITLE: 溶接
+#+JMDICT_ID: 1546150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようせつ
+#+ROMAJI: yousetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1546150-001
+:PROPERTIES:
+:TEXT: 溶接
+:END:
+*** Priorities
+- news1
+- nf20
+** Written form wf-1546150-002
+:PROPERTIES:
+:TEXT: 熔接
+:END:
+*** Information
+- rK
+** Written form wf-1546150-003
+:PROPERTIES:
+:TEXT: 鎔接
+:END:
+*** Information
+- sK
+** Reading rd-1546150-001
+:PROPERTIES:
+:TEXT: ようせつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf20
+
+* Sense s-1546150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec48ef04657da4ca1b9c4eb40e3eeb19a0841e0958dbd0f14e30640e66440d64
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- welding
+** Ukrainian glosses
+*** uk-s-1546150-001-001
+:PROPERTIES:
+:END:
+- text :: зварювання; електрозварювання; газове зварювання
+** Learner notes
+*** note-s-1546150-001-001
+:PROPERTIES:
+:END:
+- UK :: Технологічний процес отримання нероз'ємного з'єднання металевих або пластикових деталей шляхом їхнього локального нагрівання до плавлення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1546150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 作業員が鉄パイプをバーナーで溶接した。
+- READING :: さぎょういんがてつパイプをバーナーでようせつした。
+- UK :: Робітник зварив залізні труби газовим пальником.
+- FOCUS :: 溶接
+*** ex-1546150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高層ビルの建設現場では、巨大な鉄骨の継ぎ目を強固に溶接して耐震性を高める高度な専門技術が求められる。
+- READING :: こうそうビルのけんせつげんばでは、きょだいなてっこつのつぎめをきょうこにようせつしてたいしんせいをたかめるこうどなせんもんぎじゅつがもとめられる。
+- UK :: На будівельному майданчику хмарочоса потрібна висока кваліфікація для надійного зварювання стиків сталевих балок заради сейсмостійкості.
+- FOCUS :: 溶接
+*** ex-1546150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 火花が激しく飛び散る造船所の工場内では、防護マスクを装着した熟練の職人たちが大型船の厚い鋼板を狂いなく溶接していた。
+- READING :: ひばながはげしくとびちるぞうせんじょのこうじょうないでは、ぼうごマスクをそうちゃくしたじゅくれんのしょくにんたちがおおがたせんのあついこうはんをくるいなくようせつしていた。
+- UK :: У суднобудівному цеху під снопами іскор досвідчені майстри в захисних масках безпомилково зварювали товсті сталеві листи великих кораблів.
+- FOCUS :: 溶接
+
+* Sense s-1546150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b316b61124b520f45da90d4679b7d99b3ec775f8a4c24b88e28731cb4d0fb2c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lassen
+*** en-s-1546150-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneenlassen
+*** en-s-1546150-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wellen
+*** en-s-1546150-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aaneensmeden
+*** en-s-1546150-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het lassen
+*** en-s-1546150-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lassing
+*** en-s-1546150-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: las
+** Ukrainian glosses
+
+* Sense s-1546150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0797803112124a3bfbd62d2ed5605301ed9f13aa1bc61c8a91c485ba6ec33970
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schweißen
+*** en-s-1546150-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenschweißen
+*** en-s-1546150-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schweißen
+*** en-s-1546150-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schweißung
+** Ukrainian glosses
+
+* Sense s-1546150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d91c438ce2d83a1f165be0ef1f025b4e889f62a7f239ce43ba80af2011a5f389
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegesztés helye
+*** en-s-1546150-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegesztés
+** Ukrainian glosses
+
+* Sense s-1546150-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 067a519524ba28d6b2a75c58e5802d3bcdf90bb772a8d5126b4c9ef213122f6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [автогенная] сварка
+*** en-s-1546150-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} сваривать
+*** en-s-1546150-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сварка
+** Ukrainian glosses
+
+* Sense s-1546150-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 86f41b4310c7bc241a07b73c6f78f1246ee48a90e20eca704a40ff2d85c76c8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-006-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (z)variti, spojiti (kovine)
+** Ukrainian glosses
+
+* Sense s-1546150-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: fdb795997ce4ded4951bd7a0894fb925c6142af3bfb0bd8d3d95b43fc197410d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1546150-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: soldar
+*** en-s-1546150-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estañar
+** Ukrainian glosses
