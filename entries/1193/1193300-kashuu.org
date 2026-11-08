@@ -1,0 +1,300 @@
+#+TITLE: 歌集
+#+JMDICT_ID: 1193300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かしゅう
+#+ROMAJI: kashuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1193300-001
+:PROPERTIES:
+:TEXT: 歌集
+:END:
+*** Priorities
+- news1
+- nf10
+** Reading rd-1193300-001
+:PROPERTIES:
+:TEXT: かしゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf10
+
+* Sense s-1193300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0b4b6538eac43f75325b638281ce24742325dd8bf2c56e47c474cc1e0ecbd132
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 和歌
+** English glosses
+- collection of waka poems
+- anthology
+** Ukrainian glosses
+*** uk-s-1193300-001-001
+:PROPERTIES:
+:END:
+- text :: збірка поезій вака; поетична антологія; поетична збірка
+** Learner notes
+*** note-s-1193300-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжкове видання, що містить добірку класичних або сучасних японських віршів танка й вака одного автора чи багатьох видатних поетів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1193300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 万葉集は日本最古の有名な歌集である。
+- READING :: まんようしゅうはにほんさいこのゆうめいなかしゅうである。
+- UK :: «Манйосю» — найдавніша знаменита збірка японських віршів.
+- FOCUS :: 歌集
+*** ex-1193300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 若き歌人が日々の切ない想いや四季の移ろいを繊細に詠み込んだ初めての歌集は、文学界で大きな反響を呼んだ。
+- READING :: わかきかじんがひびのせつないおもいやしきのうつろいをせんさいによみこんだはじめてのかしゅうは、ぶんがくかいでおおきなはんきょうをよんだ。
+- UK :: Перша поетична збірка молодого автора, де витончено оспівані щемливі почуття та зміна пір року, викликала широкий резонанс.
+- FOCUS :: 歌集
+*** ex-1193300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い書斎の棚に並べられた革表紙の歌集を手に取ると、千年以上も前の宮廷歌人たちが紡ぎ出した美しい言葉の響きが鮮やかに蘇ってきた。
+- READING :: ふるいしょさいのたなにならべられたかわびょうしのかしゅうをてにとると、せんねんいじょうもまえのきゅうていかじんたちがつむぎだしたうつくしいことばのひびきがあざやかによみがえってきた。
+- UK :: Коли я взяв із полиці кабінету поетичну антологію в шкіряній палітурці, переді мною ожило прекрасне звучання слів придворних поетів тисячолітньої давнини.
+- FOCUS :: 歌集
+
+* Sense s-1193300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c56166d5076eeb7edec6469546df22b9c57d4f660697ae6d4300ebcff69a43a8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- songbook
+** Ukrainian glosses
+*** uk-s-1193300-002-001
+:PROPERTIES:
+:END:
+- text :: пісенник; збірка пісень
+** Learner notes
+*** note-s-1193300-002-001
+:PROPERTIES:
+:END:
+- UK :: Збірка пісенних текстів або нотних записів для співу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1193300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87f7c6b88706a58335e2bfc77eeed516d26396f052b240f338bc4d5f4a4f10ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tanka-bundel
+*** en-s-1193300-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bloemlezing
+*** en-s-1193300-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anthologie
+** Ukrainian glosses
+
+* Sense s-1193300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2f2b95b8f69330b13d038aa4225ce3f3dc536f40a3f06728743122f87450ff1a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: liedbundel
+*** en-s-1193300-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: liederenbundel
+*** en-s-1193300-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: liedboek
+*** en-s-1193300-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zangbundel
+*** en-s-1193300-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zangboek
+** Ukrainian glosses
+
+* Sense s-1193300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3ff067bf54202ca665e8a0828bd8ac05fca09fa563ab22e3adb27e80ccdd0dd2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gedichtsammlung
+*** en-s-1193300-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anthologie
+** Ukrainian glosses
+
+* Sense s-1193300-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 7287c8ff99deccd32108d0f20166e997950f29a12bfb97b7a52cb873f8521ecf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Liederbuch
+** Ukrainian glosses
+
+* Sense s-1193300-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2a7b62ea53aea12862c6c77dc152ee68046b31b48374b0c1ebfad29402a46a1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antológia
+** Ukrainian glosses
+
+* Sense s-1193300-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 3ad306e300b13a80d05a83bbc424db3ace5a4b784b0d059ec50b1a7fddc54663
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сборник стихотворений, поэтическая антология
+** Ukrainian glosses
+
+* Sense s-1193300-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 723e1d3db353b73e076ea4242f53cd0364069e9047df02f9ddb5213349abe414
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193300-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: antología
+*** en-s-1193300-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: libro de poesía
+** Ukrainian glosses
