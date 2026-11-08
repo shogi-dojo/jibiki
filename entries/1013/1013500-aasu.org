@@ -1,0 +1,387 @@
+#+TITLE: アース
+#+JMDICT_ID: 1013500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: アース
+#+ROMAJI: aasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1013500-001
+:PROPERTIES:
+:TEXT: アース
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1013500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6e3965dd96fe3c77b3e183dae3352e67392b3de4dc90012e3c74495c697d3b73
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+- vt
+*** Fields
+- elec
+*** Cross-references
+- 接地・1
+** English glosses
+- earth
+- ground
+- earthing
+- grounding
+** Ukrainian glosses
+*** uk-s-1013500-001-001
+:PROPERTIES:
+:END:
+- text :: заземлення; заземлювальний провідник
+** Learner notes
+*** note-s-1013500-001-001
+:PROPERTIES:
+:END:
+- UK :: Електротехнічний захід безпеки, що полягає в електричному з'єднанні металевих корпусів приладів із землею для запобігання ураженню струмом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1013500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 洗濯機のアース線を必ず接続する。
+- READING :: せんたくきのアースせんをかならずせつぞくする。
+- UK :: Обов'язково під'єднайте дріт заземлення пральної машини.
+- FOCUS :: アース
+*** ex-1013500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 水回りで使用する家電製品には、漏電による事故を防ぐために適切なアースを取り付けることが義務付けられている。
+- READING :: みずまわりでしようするかでんせいひんには、ろうでんによるじこをふせぐためにてきせつなアースをとりつけることがぎむづけられている。
+- UK :: Для побутових приладів, які використовуються у вологих місцях, обов'язково встановлювати належне заземлення задля уникнення аварій від витоку струму.
+- FOCUS :: アース
+*** ex-1013500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工場の大型機械を安全に稼働させるため、専門の電気技師が現場に立ち会ってアースの抵抗値を厳密に測定して確認した。
+- READING :: こうじょうのおおがたきかいをあんぜんにかどうさせるため、せんもんのでんきぎしがげんばにたちあってアースのていこうちをげんみつにそくていしてかくにんした。
+- UK :: Щоб безпечно запустити велике фабричне обладнання, кваліфікований електрик особисто прибув на місце та суворо виміряв опір заземлення для перевірки.
+- FOCUS :: アース
+
+* Sense s-1013500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d7399bc55910dc4ec273a8bd5ed5830c7ad391752d531b2bb719a0992d6c586e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- rare
+*** Cross-references
+- 地球
+** English glosses
+- Earth
+** Ukrainian glosses
+*** uk-s-1013500-002-001
+:PROPERTIES:
+:END:
+- text :: Земля; планета Земля
+** Learner notes
+*** note-s-1013500-002-001
+:PROPERTIES:
+:END:
+- UK :: Планета сонячної системи, де виникло та існує людське життя.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1013500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0ece389bd52dd9079a03c8f64217feaf0ffba5b6d10104ed7918094300b41146
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} aarding
+*** en-s-1013500-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardleiding
+*** en-s-1013500-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardgeleiding
+*** en-s-1013500-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardverbinding
+*** en-s-1013500-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aarde
+*** en-s-1013500-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aardcontact
+*** en-s-1013500-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} aarden
+*** en-s-1013500-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van een aardleiding voorzien
+*** en-s-1013500-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (geleidend) met de aarde verbinden
+** Ukrainian glosses
+
+* Sense s-1013500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: af8ff4ddcf37e06de95a86738f2b1d388b262e40b1ea73d37f544d5c27715a69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdung
+*** en-s-1013500-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erde
+*** en-s-1013500-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdschluss
+*** en-s-1013500-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdleitung
+** Ukrainian glosses
+
+* Sense s-1013500-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 040bc9f8b2b05b93e43e68c159521ece7f3eacff157def170150cb7b50bd317c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erde
+*** en-s-1013500-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Boden
+*** en-s-1013500-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erden
+** Ukrainian glosses
+
+* Sense s-1013500-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 483fd80fe2142948cfb3ddf0d96111b0683aee21a8972ef8dc52f3ee5aef25bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: föld
+*** en-s-1013500-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földelés
+*** en-s-1013500-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szárazföld
+*** en-s-1013500-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gürcöl
+*** en-s-1013500-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keményen megdolgoztat
+*** en-s-1013500-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: melózik
+*** en-s-1013500-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: talaj
+*** en-s-1013500-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terület
+*** en-s-1013500-006-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földelés
+** Ukrainian glosses
+
+* Sense s-1013500-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4cb2577f5106fc28826d6a0f132112f6c83e9c6a5d65a49c0f84c6cf757dd926
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) earth) (эл., радио) земля, заземление
+** Ukrainian glosses
+
+* Sense s-1013500-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 15ec23904487a305d9ec12dc56da9e1a1391ec296364c16b445e009ec54808a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1013500-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poner a tierra
+** Ukrainian glosses

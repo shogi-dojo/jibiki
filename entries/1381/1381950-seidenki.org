@@ -1,0 +1,156 @@
+#+TITLE: 静電気
+#+JMDICT_ID: 1381950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいでんき
+#+ROMAJI: seidenki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1381950-001
+:PROPERTIES:
+:TEXT: 静電気
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1381950-001
+:PROPERTIES:
+:TEXT: せいでんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1381950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aea2f5ce0501a1c5ceeb4c26e4c2d98093ae1edab869c1d88957d0ea4d8e695f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- static electricity
+** Ukrainian glosses
+*** uk-s-1381950-001-001
+:PROPERTIES:
+:END:
+- text :: статична електрика, електростатичний заряд
+** Learner notes
+*** note-s-1381950-001-001
+:PROPERTIES:
+:END:
+- UK :: Електричні заряди, що накопичуються в стані спокою на поверхні діелектриків або ізольованих провідників унаслідок тертя (静電気が起きる, 静電気除去).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1381950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬の乾燥したドアノブで静電気が走る。
+- READING :: ふゆのかんそうしたどあのぶでせいでんきがはしる。
+- UK :: Від сухої зимової дверної ручки проскакує іскра статичної електрики.
+- FOCUS :: 静電気
+*** ex-1381950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬場にセーターを脱ぐ瞬間にパチパチと音を立てて発生する静電気は、加湿器を設置して部屋の湿度を適切に保つことで効果的に防ぐことができる。
+- READING :: ふゆばにせーたーをぬぐしゅんかんにぱちぱちとおとをたててはっせいするせいでんきは、かしつきをせっちしてへやのしつどをてきせつにたもつことでこうかてきにふせぐことができる。
+- UK :: Тріск статичної електрики під час знімання светра взимку можна легко усунути, якщо зволожувати повітря в кімнаті до комфортного рівня.
+- FOCUS :: 静電気
+*** ex-1381950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 半導体や精密電子機器を製造するクリーンルームにおいては、微小な静電気の放電でも製品の深刻な故障につながるため、専用の除電マットや作業着の着用が厳格に徹底されている。
+- READING :: はんどうたいやせいみつでんしききをせいぞうするくりーんるーむにおいては、びしょうなせいでんきのほうでんでもせいひんのしんこくなこしょうにつながるため、せんようのじょでんまっとやさぎょうぎのちゃくようがげんかくにてっていされている。
+- UK :: У чистих цехах мікроелектроніки навіть крихітний статичний розряд загрожує поломкою деталей, тому працівники суворо дотримуються антистатичного захисту.
+- FOCUS :: 静電気
+
+* Sense s-1381950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f6323ce5347b790e18f9b60b49660046a123055e1b040ef91c2df0df58f87c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1381950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: statische Elektrizität
+** Ukrainian glosses
+
+* Sense s-1381950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b5c2d47a69d9095a7755ac2688a661aaa7caae6913c7ab19cda6abb29ccba511
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1381950-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: statikus elektromosság
+** Ukrainian glosses
+
+* Sense s-1381950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0841a80a3697f7f52720438c4a1c37f70b3b96e4ac5140b81892f5c43b3e5403
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1381950-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: статическое электричество
+** Ukrainian glosses
+
+* Sense s-1381950-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dc5b433d49a2267f43fcd2d8b288115ba2f1169874da56ff6e5e2c2d15a16d0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1381950-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: electricidad estática
+** Ukrainian glosses

@@ -1,0 +1,190 @@
+#+TITLE: 塩素
+#+JMDICT_ID: 1178750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんそ
+#+ROMAJI: enso
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1178750-001
+:PROPERTIES:
+:TEXT: 塩素
+:END:
+*** Priorities
+- news1
+- nf13
+** Reading rd-1178750-001
+:PROPERTIES:
+:TEXT: えんそ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf13
+
+* Sense s-1178750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 934be8253abe42b20fb7e93eae09e9eb49b9ff035e27a9fe0164b712ea6f6e55
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chlorine (Cl)
+** Ukrainian glosses
+*** uk-s-1178750-001-001
+:PROPERTIES:
+:END:
+- text :: хлор (Cl)
+** Learner notes
+*** note-s-1178750-001-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний термін на позначення галогенового елемента з різким запахом, сполуки якого широко застосовуються для знезараження водопровідної води та басейнів, а також для відбілювання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1178750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: プールの水を塩素で消毒する。
+- READING :: ぷーるのみずをえんそでしょうどくする。
+- UK :: Дезінфікувати воду в басейні хлором.
+- FOCUS :: 塩素
+*** ex-1178750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 日本の水道水は衛生基準に従って微量の塩素が含まれているため、そのまま安全に飲むことができる。
+- READING :: にほんのすいどうすいはえいせいきじゅんにしたがってびりょうのえんそがふくまれているため、そのままあんぜんにのむことができる。
+- UK :: Оскільки водопровідна вода в Японії містить незначну кількість хлору відповідно до санітарних норм, її можна безпечно пити просто з-під крана.
+- FOCUS :: 塩素
+*** ex-1178750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 塩素系の漂白剤と酸性の洗剤を誤って混ぜ合わせると有毒なガスが発生して大変危険なため、容器の注意書きを必ず確認しなければならない。
+- READING :: えんそけいのひょうはくざいとさんせいのせんざいをあやまってまぜあわせるとゆうどくながすがはっせいしてたいへんきけんなため、ようきのちゅういがきをかならずかくにんしなければならない。
+- UK :: Якщо помилково змішати хлорвмісний відбілювач із кислотним мийним засобом, виділяється отруйний газ, що є вкрай небезпечним, тому необхідно обов'язково читати застереження на упаковці.
+- FOCUS :: 塩素
+
+* Sense s-1178750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 501b4f4090d821a9fc405261512e163d370bb76e0e870a868a4b48ec309f16da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178750-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} chloor
+*** en-s-1178750-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Cl
+** Ukrainian glosses
+
+* Sense s-1178750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1e8fdd36cb18f26eb09b65e21ab9180312c95842a9fe320bcd1bf052126c2efa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178750-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chlor (stechend riechendes, gelbgrünes Gas; Zeichen: Cl)
+** Ukrainian glosses
+
+* Sense s-1178750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 36bd67300f1e145b94ea784c88c69f11077776895c60b8f4bd8b798a282fc68c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178750-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klór
+** Ukrainian glosses
+
+* Sense s-1178750-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0967160433cefcebda961d8865e403cbcfcc23b1cea934323c584b43900c0561
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178750-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: хлор
+*** en-s-1178750-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} хлористый; хлорноватый
+** Ukrainian glosses
+
+* Sense s-1178750-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1d1448e5a95c352fe08120ea3e9b6a9d7d6a3375c1b2de0371be83893fa6aa0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178750-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cloro (Cl)
+** Ukrainian glosses

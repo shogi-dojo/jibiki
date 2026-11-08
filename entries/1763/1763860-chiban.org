@@ -1,0 +1,114 @@
+#+TITLE: 地番
+#+JMDICT_ID: 1763860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちばん
+#+ROMAJI: chiban
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1763860-001
+:PROPERTIES:
+:TEXT: 地番
+:END:
+** Reading rd-1763860-001
+:PROPERTIES:
+:TEXT: ちばん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1763860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a9b2bb68462dfb3e951c2a150c4b53a036b7ac6a009debd17c015cf864b89be3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- lot number
+** Ukrainian glosses
+*** uk-s-1763860-001-001
+:PROPERTIES:
+:END:
+- text :: кадастровий номер; номер земельної ділянки
+** Learner notes
+*** note-s-1763860-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний реєстраційний номер, що присвоюється кожній земельній ділянці в державному реєстрі нерухомості для точного визначення її меж та прав власності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1763860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 登記簿で土地の地番を確認した。
+- READING :: とうきぼでとちのちばんをかくにんした。
+- UK :: Я перевірив кадастровий номер земельної ділянки в реєстрі.
+- FOCUS :: 地番
+*** ex-1763860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 土地の売買契約を結ぶにあたっては、登記所に記録されている正確な地番を慎重に調査しなければならない。
+- READING :: とちのばいばいけいやくをむすぶにあたっては、とうきしょにきろくされているせいかくなちばんをしんちょうにちょうさしなければならない。
+- UK :: Укладаючи договір купівлі-продажу землі, необхідно ретельно перевірити точний кадастровий номер, зафіксований у реєстраційній палаті.
+- FOCUS :: 地番
+*** ex-1763860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市街地の再開発に伴って区画整理が実施された結果、多くの土地で地番の統廃合が行われ新しい番号へと再編された。
+- READING :: しがいちのさいかいはつにともなってくかくせいりがじっしされたけっか、おおくのとちでちばんのとうはいごうがおこなわれあたらしいばんごうへとさいへんされた。
+- UK :: У результаті проведення межування під час реконструкції міських кварталів кадастрові номери багатьох ділянок було об'єднано й упорядковано за новою системою.
+- FOCUS :: 地番
+
+* Sense s-1763860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fbacb76b0a804f3fdbe98e6d3f2a9060071658daadef4588d8ccbebde49430f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parzellennummer
+** Ukrainian glosses
+
+* Sense s-1763860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f8b43fb001b8dcaf21109a0fe8248a661c2baba9335f35d3472904f0d72d852c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: номер земельного участка
+** Ukrainian glosses

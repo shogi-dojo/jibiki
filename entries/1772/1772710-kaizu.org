@@ -1,0 +1,154 @@
+#+TITLE: 海図
+#+JMDICT_ID: 1772710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいず
+#+ROMAJI: kaizu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1772710-001
+:PROPERTIES:
+:TEXT: 海図
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1772710-001
+:PROPERTIES:
+:TEXT: かいず
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1772710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 38843ed581c08b4358569e4a0cf88a70003ad137cd179126cb86227d3340f5cb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sea chart
+** Ukrainian glosses
+*** uk-s-1772710-001-001
+:PROPERTIES:
+:END:
+- text :: морська навігаційна карта
+** Learner notes
+*** note-s-1772710-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціалізована географічна карта морських просторів із позначенням глибин, фарватерів, течій, підводних рифів і маяків для безпечного плавання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1772710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 航海士は海図を広げて現在地を確認した。
+- READING :: こうかいしはかいずをひろげてげんざいちをかくにんした。
+- UK :: Штурман розгорнув морську карту та перевірив поточні координати судна.
+- FOCUS :: 海図
+*** ex-1772710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗礁の多い危険な海域を無事に通過するため、船長は古い海図を丹念に照らし合わせて進路を定めた。
+- READING :: あんしょうのおおいきけんなかいいきをぶじにつうかするため、せんちょうはふるいかいずをたんねんにてらしあわせてしんろをさだめた。
+- UK :: Щоб безпечно оминути небезпечні морські простори з численними підводними рифами, капітан ретельно звірив морську карту й проклав точний курс.
+- FOCUS :: 海図
+*** ex-1772710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現代の大型船では最新のデジタル海図が標準装備されているが、予期せぬ機器トラブルや電源喪失に備えて紙の海図も必ず艦橋に常備されている。
+- READING :: げんだいのおおがたせんではさいしんのでじたるかいずがひょうじゅんそうびされているが、よきせぬききとらぶるやでんげんそうしつにそなえてかみのかいずもかならずかんきょうにじょうびされている。
+- UK :: Хоча сучасні великі судна стандартно оснащені передовими цифровими навігаційними картами, на капітанському містку завжди тримають паперові карти на випадок збою апаратури чи знеструмлення.
+- FOCUS :: 海図
+
+* Sense s-1772710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b0b573532c63b3f4a18ee00aa3bf28f640e7754a61a1fff3064a991ae886fb56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seekarte
+*** en-s-1772710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nautische Karte (mit Verzeichnung der Untiefen, Strömungen, Strudel etc.)
+** Ukrainian glosses
+
+* Sense s-1772710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ac8bd46daac1bf14b7c09ee327ec679ee31b3282ef7926d5d1cc7dbecf456ca3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: морская карта
+** Ukrainian glosses
+
+* Sense s-1772710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5207f0796f2d5e11846dfcc7a30f7da67b7d9e598d49ffec50883c044c0becf5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772710-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carta de navegación
+*** en-s-1772710-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mapa marítimo
+** Ukrainian glosses

@@ -1,0 +1,156 @@
+#+TITLE: 左辺
+#+JMDICT_ID: 1657630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さへん
+#+ROMAJI: sahen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1657630-001
+:PROPERTIES:
+:TEXT: 左辺
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1657630-001
+:PROPERTIES:
+:TEXT: さへん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1657630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 631e712afb96ea0b339de82f48437f5c0a955a61230a4aaebddb951d75a8c54d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+*** Cross-references
+- 右辺・1
+** English glosses
+- left side (of an equation, expression, etc.)
+- LHS
+** Ukrainian glosses
+*** uk-s-1657630-001-001
+:PROPERTIES:
+:END:
+- text :: ліва частина (рівняння або нерівності); лівий бік
+** Learner notes
+*** note-s-1657630-001-001
+:PROPERTIES:
+:END:
+- UK :: Математична ліва частина рівняння або формульного виразу, розташована зліва від центрального знака рівності чи нерівності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1657630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 方程式の左辺を計算する。
+- READING :: ほうていしきのさへんをけいさんする。
+- UK :: Обчислити ліву частину рівняння.
+- FOCUS :: 左辺
+*** ex-1657630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 数学の証明問題において等式の左辺を変形して右辺と一致することを確認した。
+- READING :: すうがくのしょうめいもんだいにおいてとうしきのさへんをへんけいしてうへんといっちすることをかくにんした。
+- UK :: У математичній задачі на доведення ми перетворили ліву частину рівності й переконалися, що вона збігається з правою.
+- FOCUS :: 左辺
+*** ex-1657630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複雑な代数方程式を解くにあたって、まず左辺を展開して同類項を整理することから順序立てて計算を始める必要がある。
+- READING :: ふくざつなだいすうほうていしきをとくにあたって、まずさへんをてんかいしてどうるいこうをせいりすることからじゅんじょだててけいさんをはじめるひつようがある。
+- UK :: Розв'язуючи складне алгебраїчне рівняння, необхідно спершу послідовно розкрити дужки в лівій частині та звести подібні доданки, перш ніж рухатися далі.
+- FOCUS :: 左辺
+
+* Sense s-1657630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 982c19d324e13f06966be61effdd6052f444c9c47e00cda1adfc1a727b27a173
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- left side (go, chess, othello board)
+** Ukrainian glosses
+*** uk-s-1657630-002-001
+:PROPERTIES:
+:END:
+- text :: ліва сторона дошки (у настільних іграх)
+** Learner notes
+*** note-s-1657630-002-001
+:PROPERTIES:
+:END:
+- UK :: Ліва сторона ігрового поля чи дошки в ґо, сьоґі або шахах з боку гравця.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1657630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5f4d3a383ff6220dbb3352a50bce8e52375cec542ff0e816cb515f98ba6a911
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657630-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die linke Seite
+** Ukrainian glosses
+
+* Sense s-1657630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c01931d3942f0cbfdfa13db21b99c9f3d34e014e5dd05d6bab073749f4fb0101
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657630-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: левая сторона
+*** en-s-1657630-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～に} налево, слева
+** Ukrainian glosses

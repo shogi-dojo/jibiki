@@ -1,0 +1,177 @@
+#+TITLE: 忝い
+#+JMDICT_ID: 1566760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かたじけない
+#+ROMAJI: katajikenai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1566760-001
+:PROPERTIES:
+:TEXT: 忝い
+:END:
+** Written form wf-1566760-002
+:PROPERTIES:
+:TEXT: 辱い
+:END:
+*** Information
+- rK
+** Written form wf-1566760-003
+:PROPERTIES:
+:TEXT: 忝ない
+:END:
+*** Information
+- sK
+** Written form wf-1566760-004
+:PROPERTIES:
+:TEXT: 辱ない
+:END:
+*** Information
+- sK
+** Reading rd-1566760-001
+:PROPERTIES:
+:TEXT: かたじけない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1566760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2386b4d80f622982e8ddd2ed819f43228d09ab5e65ceae3e2bb23f6b52f151a4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+*** Miscellaneous and register
+- uk
+** English glosses
+- grateful
+- indebted
+** Ukrainian glosses
+*** uk-s-1566760-001-001
+:PROPERTIES:
+:END:
+- text :: вдячний; вельми зобов'язаний; зворушений ласкою
+** Learner notes
+*** note-s-1566760-001-001
+:PROPERTIES:
+:END:
+- UK :: Класичний та урочистий прикметник (часто вживається в історичних драмах або вишуканому листуванні), що виражає глибоку вдячність і смиренне зворушення за надану допомогу чи прихильність.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1566760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ご親切なお心遣い、誠に忝い。
+- READING :: ごしんせつなおこころづかい、まことにかたじけない。
+- UK :: Щиро вдячний вам за вашу ласкаву турботу.
+- FOCUS :: 忝い
+*** ex-1566760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 時代劇では、旅の侍が一夜の宿を貸してくれた村人に「まことに忝い」と深く頭を下げる場面がよく見られる。
+- READING :: じだいげきでは、たびのさむらいがいちやのやどをかしてくれたむらびとに「まことにかたじけない」とふかくあたまをさげるばめんがよくみられる。
+- UK :: В історичних драмах часто можна побачити сцену, де мандрівний самурай низько вклоняється селянинові, який дав йому прихисток на ніч, зі словами: «Вельми вам вдячний».
+- FOCUS :: 忝い
+*** ex-1566760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 思いがけない窮地を救っていただいたご恩義は決して忘れることなく、生涯にわたり忝い気持ちを持ち続けた。
+- READING :: おもいがけないきゅうちをすくっていただいたごおんぎはけっしてわすれることなく、しょうがいにわたりかたじけないきもちをもちつづけた。
+- UK :: Він ніколи не забував добра людини, яка врятувала його з несподіваної скрути, і протягом усього життя зберігав у серці глибоку вдячність.
+- FOCUS :: 忝い
+
+* Sense s-1566760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2c0a1f82ee10876d736fbb5d8aba4f0403568f03238c1f04d14858e971445a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1566760-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dankbar
+*** en-s-1566760-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbunden
+** Ukrainian glosses
+
+* Sense s-1566760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 06d5f526be0136cf386f81b9639a946e1c932d9930cdee2b934c3da04592b6e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1566760-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hálás
+*** en-s-1566760-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eladósodott
+*** en-s-1566760-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lekötelezett
+** Ukrainian glosses
+
+* Sense s-1566760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d4af680d632e8ef318edac0867e0099bf659855752df1d3c7ad12ffc96debd4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1566760-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: благодарный, признательный
+** Ukrainian glosses

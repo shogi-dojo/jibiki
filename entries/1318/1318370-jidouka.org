@@ -1,0 +1,240 @@
+#+TITLE: 自動化
+#+JMDICT_ID: 1318370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じどうか
+#+ROMAJI: jidouka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1318370-001
+:PROPERTIES:
+:TEXT: 自動化
+:END:
+*** Priorities
+- spec1
+** Written form wf-1318370-002
+:PROPERTIES:
+:TEXT: 自働化
+:END:
+*** Information
+- iK
+** Reading rd-1318370-001
+:PROPERTIES:
+:TEXT: じどうか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-1318370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6565f25c671ea8ee64e70a623fe455101a85fe5b3a56281181abfb7fb899bc56
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- automation
+** Ukrainian glosses
+*** uk-s-1318370-001-001
+:PROPERTIES:
+:END:
+- text :: автоматизація
+** Learner notes
+*** note-s-1318370-001-001
+:PROPERTIES:
+:END:
+- UK :: Широке впровадження автоматичних машин, комп'ютерних систем чи промислових роботів для виконання виробничих процесів без безпосередньої участі людини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1318370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工場の作業を自動化しました。
+- READING :: こうじょうのさぎょうをじどうかしました。
+- UK :: Ми автоматизували процеси на заводі.
+- FOCUS :: 自動化
+*** ex-1318370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 工場の生産ラインの自動化により作業効率が飛躍的に上がった。
+- READING :: こうじょうのせいさんらいんのじどうかによりさぎょうこうりつがひやくてきにあがった。
+- UK :: Завдяки автоматизації виробничої лінії на заводі ефективність праці стрімко зросла.
+- FOCUS :: 自動化
+*** ex-1318370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最新の人工知能技術を導入して煩雑な事務作業の自動化を進めた結果、業務の所要時間が大幅に短縮され社員の負担が大きく軽減された。
+- READING :: さいしんのじんこうちのうぎじゅつをどうにゅうしてはんざつなじむさぎょうのじどうかをすすめたけっか、ぎょうむのしょようじかんがおおはばにたんしゅくされしゃいんのふたんがおおきくけいげんされた。
+- UK :: У результаті впровадження новітніх технологій штучного інтелекту та автоматизації рутинної роботи час виконання завдань значно скоротився, що полегшило працю співробітників.
+- FOCUS :: 自動化
+
+* Sense s-1318370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cadbaa43f6650f51fb6bfc0e6aac00f04064f2950bd7dd7bfd806ec0e8125b8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: automatisering
+*** en-s-1318370-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} robotisering
+** Ukrainian glosses
+
+* Sense s-1318370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9c87620d52620e3218c8b6448d28d8156c7123431369ed6d1579571e726c7695
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Automatisierung
+** Ukrainian glosses
+
+* Sense s-1318370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 020d6b3f0949451c7b4aa357bdd14ef423e7a271b350d924db17a34b744d2bdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Intransitivierung
+** Ukrainian glosses
+
+* Sense s-1318370-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9f94be60560a1a72fc181f348d022dc18b89ea2ce4dff286dda7090c3f6363f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: automatizálás
+*** en-s-1318370-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: automatizálás
+*** en-s-1318370-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gépesítés
+** Ukrainian glosses
+
+* Sense s-1318370-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: aa0180cd4ef08a31e8ba565b23a66fa9fc1e1f0c2711d995f1d8fda91a4987a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: автоматизация
+** Ukrainian glosses
+
+* Sense s-1318370-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d3adbf00ee2cb32134b360eaad5f0fb595296d964bb66bca0c4d020eab541e3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: automatización
+** Ukrainian glosses
+
+* Sense s-1318370-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: dc914f0f805c34beb6b2318c08da82ab5ae6723a0f3a9d2ef37fcc8d8aebc638
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1318370-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: automation
+** Ukrainian glosses

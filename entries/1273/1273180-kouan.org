@@ -1,0 +1,260 @@
+#+TITLE: 公安
+#+JMDICT_ID: 1273180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうあん
+#+ROMAJI: kouan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1273180-001
+:PROPERTIES:
+:TEXT: 公安
+:END:
+*** Priorities
+- news1
+- nf08
+** Reading rd-1273180-001
+:PROPERTIES:
+:TEXT: こうあん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf08
+
+* Sense s-1273180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8824f738c836dde3870bdd1d5937dcde4f5e56803e21870df4b402c63616b67b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- public peace
+- public safety
+- public security
+- peace and order
+** Ukrainian glosses
+*** uk-s-1273180-001-001
+:PROPERTIES:
+:END:
+- text :: громадська безпека; громадський порядок; громадський спокій
+** Learner notes
+*** note-s-1273180-001-001
+:PROPERTIES:
+:END:
+- UK :: Стан стабільності, захищеності та спокою в державі й суспільстві, підтримуваний законами та спеціальними уповноваженими правоохоронними органами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1273180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国家の公安を維持するために警察が巡回する。
+- READING :: こっかのこうあんをいじするためにけいさつがじゅんかいする。
+- UK :: Поліція патрулює територію задля підтримки державної безпеки.
+- FOCUS :: 公安
+*** ex-1273180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大規模な国際サミットの開催期間中は、地域の公安を確保するために厳重な警備態勢が敷かれた。
+- READING :: だいきぼなこくさいサミットのかいさいきかんちゅうは、ちいきのこうあんをかくほするためにげんじゅうなけいびたいせいがしかれた。
+- UK :: Під час проведення масштабного міжнародного саміту було запроваджено суворий режим охорони для гарантування місцевої громадської безпеки.
+- FOCUS :: 公安
+*** ex-1273180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 社会の混乱を防ぎ市民の穏やかな生活を守る公安の責任は重大であり、法執行機関は常に高度な規律と公正さを保たなければならない。
+- READING :: しゃかいのこんらんをふせぎしみんのおだやかなせいかつをまもるこうあんのせきにんはじゅうだいであり、ほうしっこうきかんはつねにこうどなきりつとこうせいさをたもたなければならない。
+- UK :: Відповідальність за громадську безпеку, що запобігає безладдю й береже мирне життя людей, є надзвичайно вагомою, вимагаючи від правоохоронців дисципліни й справедливості.
+- FOCUS :: 公安
+
+* Sense s-1273180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d34d640c86be94f815257407386de196fe850c9c461b689b15735e178e90f206
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 公安警察
+** English glosses
+- security police
+** Ukrainian glosses
+*** uk-s-1273180-002-001
+:PROPERTIES:
+:END:
+- text :: служба громадської безпеки; поліція безпеки
+** Learner notes
+*** note-s-1273180-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціалізовані органи державної безпеки, які протидіють підривній діяльності та тероризму.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1273180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 989df99efe4116f6677cd8807b2d8bea22cba54ca91041864e9c52a045a681ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273180-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbare rust
+*** en-s-1273180-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbare vrede
+*** en-s-1273180-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbare orde
+*** en-s-1273180-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbare veiligheid
+** Ukrainian glosses
+
+* Sense s-1273180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 252d7ddf0655650b449a1cc0d6970de51d70f259aae3737eedc8c774abad7a40
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273180-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bien-être public
+*** en-s-1273180-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sécurité publique
+** Ukrainian glosses
+
+* Sense s-1273180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c8734c92ebff338a7782756de3b4448f86aa04d3918bac976f63f181f1ead416
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273180-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öffentliche Sicherheit
+*** en-s-1273180-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öffentliche Ruhe
+*** en-s-1273180-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Landfriede
+** Ukrainian glosses
+
+* Sense s-1273180-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0143c5411c3883eb15c2e7fddf862231b7331596aab0ef07cd8ccf3649bdb3ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273180-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общественное спокойствие, общественный порядок; общественная безопасность
+** Ukrainian glosses
+
+* Sense s-1273180-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 2de30d2b06d5f16b40017e545aade0b81929d876284b9f63000a2ce6f51fd9e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273180-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seguridad pública
+*** en-s-1273180-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bienestar público
+** Ukrainian glosses

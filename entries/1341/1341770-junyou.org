@@ -1,0 +1,165 @@
+#+TITLE: 準用
+#+JMDICT_ID: 1341770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅんよう
+#+ROMAJI: junyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1341770-001
+:PROPERTIES:
+:TEXT: 準用
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1341770-001
+:PROPERTIES:
+:TEXT: じゅんよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1341770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 29badd474de70f03e7af5d6537bfbd08030b98777eb8607dae8d468d4a4b3363
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- vs
+- vt
+** English glosses
+- to apply (the law) with necessary modifications
+- to apply mutatis mutandis
+- to apply correspondingly
+** Ukrainian glosses
+*** uk-s-1341770-001-001
+:PROPERTIES:
+:END:
+- text :: застосування за аналогією; застосування mutatis mutandis
+** Learner notes
+*** note-s-1341770-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичне застосування правових норм, встановлених для одних відносин, до інших подібних ситуацій із внесенням необхідних поправок і змін.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1341770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 民法の規定を会社法に準用する。
+- READING :: みんぽうのきていをかいしゃほうにじゅんようする。
+- UK :: Застосовувати норми цивільного кодексу до корпоративного права за аналогією.
+- FOCUS :: 準用
+*** ex-1341770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい法制度の施行にあたって既存の関連条文を必要な修正を加えた上でそのまま準用することが定められた。
+- READING :: あたらしいほうせいどのしこうにあたってきぞんのかんれんじょうぶんをひつようなしゅうせいをくわえたうえでそのままじゅんようすることがさだめられた。
+- UK :: Під час запровадження нової правової системи було передбачено застосування наявних статей із внесенням відповідних поправок.
+- FOCUS :: 準用
+*** ex-1341770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 契約書に明示的な定めがない事項が生じた場合には、信義誠実の原則と商慣習を考慮しながら民法第何条の規定を準用して公平に解決を図るものとする。
+- READING :: けいやくしょにめいじてきなさだめがないじこうがしょうじたばあいには、しんぎせいじつのげんそくとしょうかんしゅうをこうりょしながらみんぽうだいなんじょうのきていをじゅんようしてこうへいにかいけつをはかるものとする。
+- UK :: У разі виникнення питань, прямо не врегульованих договором, сторони зобов'язуються вирішувати їх справедливо шляхом застосування відповідних статей цивільного права за аналогією.
+- FOCUS :: 準用
+
+* Sense s-1341770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 19694d3a934de99ddf1624a6058dfbb3e7b4b62c5935890a3296fc117fa5bfe7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1341770-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entsprechend anwenden
+*** en-s-1341770-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sinngemäß anwenden
+*** en-s-1341770-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entsprechende Anwendung
+*** en-s-1341770-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sinngemäße Anwendung
+** Ukrainian glosses
+
+* Sense s-1341770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 60e670de98b748f6c473ca7bedcf0f8aeca17f6f8acee45bde9b8ac22a46bb0e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1341770-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anwendung mutatis mutandis
+** Ukrainian glosses
+
+* Sense s-1341770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7fd9617d48613dd4778947cccf2e69cb27a82a408fa6dabdbe142b60bea85238
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1341770-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} применять в соответствии (с чем-л.) (сообразно (чему-л.)); применять с соответствующими поправками (с необходимыми изменениями); приспосабливать
+** Ukrainian glosses

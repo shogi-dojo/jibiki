@@ -1,0 +1,298 @@
+#+TITLE: エントロピー
+#+JMDICT_ID: 1031190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: エントロピー
+#+ROMAJI: entoropii
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1031190-001
+:PROPERTIES:
+:TEXT: エントロピー
+:NO_KANJI: false
+:END:
+** Reading rd-1031190-002
+:PROPERTIES:
+:TEXT: エントロピ
+:NO_KANJI: false
+:END:
+
+* Sense s-1031190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3e5d4cc20de08c2c56cb249fa4b4cfbdaa6e50c395e06c9371da647e206179de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- entropy
+** Ukrainian glosses
+*** uk-s-1031190-001-001
+:PROPERTIES:
+:END:
+- text :: ентропія (міра неупорядкованості термодинамічної системи)
+** Learner notes
+*** note-s-1031190-001-001
+:PROPERTIES:
+:END:
+- UK :: Науковий термін із фізики та хімії на позначення величини, що характеризує незворотне розсіювання енергії та ступінь хаотичності стану системи.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1031190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 熱力学の授業でエントロピーの法則を学ぶ。
+- READING :: ねつりきがくのじゅぎょうでえんとろぴーのほうそくをまなぶ。
+- UK :: Вивчати закон ентропії на заняттях із термодинаміки.
+- FOCUS :: エントロピー
+*** ex-1031190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 外部から手を加えなければ、閉じた系の中のエントロピーは常に増大する方向へと変化していく。
+- READING :: がいぶからてをくわえなければ、とじたけいのなかのえんとろぴーはつねにぞうだいするほうこうへとへんかしていく。
+- UK :: Якщо не докладати зусиль ззовні, ентропія в замкненій системі завжди змінюється в бік зростання.
+- FOCUS :: エントロピー
+*** ex-1031190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 片づけを怠ると部屋が自然と散らかっていく現象は、日常の世界でエントロピーの増大を実感できる身近な例としてよく引き合いに出される。
+- READING :: かたづけをおこたるとへやがしぜんとちらかっていくげんしょうは、にちじょうのせかいでえんとろぴーのぞうだいをじっかんできるみぢかなれいとしてよくひきあいにだされる。
+- UK :: Те, як кімната сама собою захаращується, якщо не прибирати, часто наводять як наочний життєвий приклад зростання ентропії у повсякденному світі.
+- FOCUS :: エントロピー
+
+* Sense s-1031190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a7ff0670247c044e9d79b7af5718431a69d017568869e8cbd8e46589d9d8712e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- entropy (information theory)
+** Ukrainian glosses
+*** uk-s-1031190-002-001
+:PROPERTIES:
+:END:
+- text :: інформаційна ентропія (міра невизначеності повідомлення)
+** Learner notes
+*** note-s-1031190-002-001
+:PROPERTIES:
+:END:
+- UK :: Термін теорії інформації та інформатики на позначення середньої кількості інформації або ступеня непередбачуваності сигналу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1031190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fc621757d2f97540006c550a3f4f6b9ff829865a5b63f2e106ac6b8e472e227e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} entropie
+** Ukrainian glosses
+
+* Sense s-1031190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1d5593efa058749ca72962c1d3ce35765f1125d4ae200a9ba9cfac9243779c3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entropie
+** Ukrainian glosses
+
+* Sense s-1031190-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 11a909f6e9856ed7dcec69affc5812570d1f222e862a4a9f77aff642eb5b1c4d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entropie
+** Ukrainian glosses
+
+* Sense s-1031190-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f15fbbc0e81acd14969518dcc130d8d18375f09b9010563193d3c7947d3406ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entrópia
+** Ukrainian glosses
+
+* Sense s-1031190-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 92470447abd6130d24a5d42faea1f9ca1cdcafae446ffcee4d9105f7d8f51502
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) entropy) энтропия
+** Ukrainian glosses
+
+* Sense s-1031190-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 239ccbc30147b0eaeafc9d52c8c9e8d837f42f15506ceee17ff9c349970d56a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entropía
+** Ukrainian glosses
+
+* Sense s-1031190-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a9c0db39b1340919151eb02c0ef3602ba6c0dfdecd61494ef3a0477eb73b95fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: significado del contenido de la información
+*** en-s-1031190-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: promedio de información contenida
+** Ukrainian glosses
+
+* Sense s-1031190-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 0dce4754fab0fea9f030380a40b11619abfa5b9b4bf3d8559a39fdbf9618bdb8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-010-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entropía
+** Ukrainian glosses
+
+* Sense s-1031190-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 49ac52becb6cad1b32cc6957960bb1aa550bb01bb7ee766e662a702cfc1c7a20
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-011-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contenido del significado de la información
+*** en-s-1031190-011-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contenido de información promedio
+** Ukrainian glosses
+
+* Sense s-1031190-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 9913d402a49e75ca49eccba008d1e03db2aea89955ce8c8b9df264e29e21c8fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1031190-012-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: entropi
+** Ukrainian glosses

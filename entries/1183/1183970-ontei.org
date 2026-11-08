@@ -1,0 +1,237 @@
+#+TITLE: 音程
+#+JMDICT_ID: 1183970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おんてい
+#+ROMAJI: ontei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1183970-001
+:PROPERTIES:
+:TEXT: 音程
+:END:
+*** Priorities
+- news2
+- nf34
+- spec2
+** Reading rd-1183970-001
+:PROPERTIES:
+:TEXT: おんてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+- spec2
+
+* Sense s-1183970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2da0c03acba55b3ec1c69c269c010ad4ad3f2e05853e615387f2c94d283bf540
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+** English glosses
+- interval
+- step
+** Ukrainian glosses
+*** uk-s-1183970-001-001
+:PROPERTIES:
+:END:
+- text :: музичний інтервал (різниця висоти між двома звуками)
+** Learner notes
+*** note-s-1183970-001-001
+:PROPERTIES:
+:END:
+- UK :: Точний музичний термін на позначення співвідношення висоти двох тонів (наприклад, терція, квінта, октава) при їх послідовному або одночасному звучанні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1183970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼女は歌の音程がとても正確だ。
+- READING :: かのじょはうたのおんていがとてもせいかくだ。
+- UK :: Вона надзвичайно точно інтонує під час співу.
+- FOCUS :: 音程
+*** ex-1183970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高音の部分になるとどうしても音程が不安定になるので、何度も発声練習を繰り返した。
+- READING :: こうおんのぶぶんになるとどうしてもおんていがふあんていになるので、なんどもはっせいれんしゅうをくりかえした。
+- UK :: Оскільки на високих нотах інтонація неминуче ставала нестабільною, я багато разів повторював вокальні вправи.
+- FOCUS :: 音程
+*** ex-1183970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 合唱で美しいハーモニーを響かせるためには、周りの声をよく聴いて自分の音程を微調整することが欠かせない。
+- READING :: がっしょうでうつくしいはーもにーをひびかせるためには、まわりのこえをよくきいてじぶんのおんていをびちょうせいすることがかかせない。
+- UK :: Щоб у хорі лунала красива гармонія, необхідно уважно слухати голоси довкола й тонко підлаштовувати власну висоту звуку.
+- FOCUS :: 音程
+
+* Sense s-1183970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9cd249da1f2e82437c5c69e4297cbb69a9b0fb7010dc0534f68829be4cfa57c5
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+** English glosses
+- pitch
+- key
+** Ukrainian glosses
+*** uk-s-1183970-002-001
+:PROPERTIES:
+:END:
+- text :: інтонування, попадання в ноти, висота тону (під час співу чи гри)
+** Learner notes
+*** note-s-1183970-002-001
+:PROPERTIES:
+:END:
+- UK :: У розмовному та виконавському вжитку — точність відтворення висоти звуків голосом або на музичному інструменті (наприклад, 音程が合う — чисто інтонувати, 音程が外れる — фальшивити).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1183970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cca16ea75ba6e3547c944b1a3546c73526b29cbf6d20ab76935470651a526ddd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183970-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {muz.} interval
+** Ukrainian glosses
+
+* Sense s-1183970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 98a88ef8b271827e99a34e2db7baa9ec451bc0cc612d6357af500f21c32c60a3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183970-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intervalle musical
+*** en-s-1183970-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ton
+** Ukrainian glosses
+
+* Sense s-1183970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 46c944d3527a9d2a858a306dd329e38fd21d87bc2ef0669463e8344cb95c05a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183970-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Intervall
+*** en-s-1183970-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tonabstand
+** Ukrainian glosses
+
+* Sense s-1183970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c5f79ccf864603bd5b17ee06020e6fb4d0b574b2cb4f0fbc0acc6c42cfeb3662
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183970-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lépcsőfok
+*** en-s-1183970-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lépés
+** Ukrainian glosses
+
+* Sense s-1183970-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 72120a7d8d281b8d4848021821418293b26a5e43fbf88f9e8d744ad07330c054
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183970-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (муз.) интервал
+*** en-s-1183970-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (напр.) 五度音程 квинта
+** Ukrainian glosses

@@ -1,0 +1,267 @@
+#+TITLE: 請負
+#+JMDICT_ID: 1751540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うけおい
+#+ROMAJI: ukeoi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1751540-001
+:PROPERTIES:
+:TEXT: 請負
+:END:
+*** Priorities
+- news1
+- nf21
+** Written form wf-1751540-002
+:PROPERTIES:
+:TEXT: 請け負い
+:END:
+*** Information
+- io
+*** Priorities
+- news2
+- nf45
+** Reading rd-1751540-001
+:PROPERTIES:
+:TEXT: うけおい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- news2
+- nf21
+- nf45
+
+* Sense s-1751540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0387f5a72c3718c9d68e0599e06a666697b5175be9e6f10b6f28a99a87737a71
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- contract (for work)
+- contracting
+- undertaking
+** Ukrainian glosses
+*** uk-s-1751540-001-001
+:PROPERTIES:
+:END:
+- text :: підряд, договір підряду, контракт
+** Learner notes
+*** note-s-1751540-001-001
+:PROPERTIES:
+:END:
+- UK :: Цивільно-правова угода, за якою одна сторона (підрядник) бере на себе зобов'язання виконати певну роботу, а замовник — прийняти та оплатити її (請負契約, 請負業者).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1751540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工場の建設工事を一括して請負で受注した。
+- READING :: こうじょうのけんせつこうじをいっかつしてうけおいでじゅちゅうした。
+- UK :: Будівельні роботи на заводі взяли на себе за комплексним договором підряду.
+- FOCUS :: 請負
+*** ex-1751540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大規模なインフラ整備事業において、元請け企業から工事の請負を依頼された地元の中小建設会社が責任を持って施工を担当した。
+- READING :: だいきぼなインフラせいびじぎょうにおいて、もとうけきぎょうからこうじのうけおいをいらいされたじもとのちゅうしょうけんせつがいしゃがせきにんをもってせこうをたんとうした。
+- UK :: У масштабному інфраструктурному проєкті місцева будівельна компанія, отримавши підряд від генерального підрядника, відповідально виконала всі роботи.
+- FOCUS :: 請負
+*** ex-1751540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 情報通信システムの開発プロジェクトでは、仕様書の策定から納品後の保守運用に至るまでを明確な請負契約に基づいて円滑に進めることが成功の鍵となる。
+- READING :: じょうほうつうしんシステムのかいはつプロジェクトでは、しようしょのさくていからのうひんごのほしゅうんようにいたるまでをめいかくなうけおいけいやくにもとづいてえんかつにすすめることがせいこうのかぎとなる。
+- UK :: У сфері розробки систем зв'язку чіткий договір підряду на всі етапи — від складання специфікацій до подальшого обслуговування — є запорукою успіху проєкту.
+- FOCUS :: 請負
+
+* Sense s-1751540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b578c0d70dcbc3a11136de5141f65ba82b56b979aea2b7f10faa1ae514943be3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751540-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanneming
+** Ukrainian glosses
+
+* Sense s-1751540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a6260646d8c3baad4ffa4d1fcfbd7ca67c3fd00c4b83d3b71332fb1a798e1df7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Akkord
+*** en-s-1751540-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auftrag
+*** en-s-1751540-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vertrag
+*** en-s-1751540-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kontrakt
+** Ukrainian glosses
+
+* Sense s-1751540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b81653c59700228cda57d7a7952d4a03aff8481c942f9c45dd5fa7407e580a4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751540-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eljegyzés
+*** en-s-1751540-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szerződő
+*** en-s-1751540-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ígéret
+*** en-s-1751540-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kötelezettség
+*** en-s-1751540-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vállalkozás
+** Ukrainian glosses
+
+* Sense s-1751540-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9a26240519fbb85170865cfb7b486a8b426995bb92608d809fe7d6c1736faf66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751540-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подряд, контракт
+*** en-s-1751540-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} по порядку, аккордно
+** Ukrainian glosses
+
+* Sense s-1751540-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 120dbb9bb3553a17f62c4e3a2225bcd4a4309468fc913e4c9657085e7766af08
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1751540-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arrendamiento de obra
+*** en-s-1751540-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contrata
+*** en-s-1751540-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: encargo
+** Ukrainian glosses
