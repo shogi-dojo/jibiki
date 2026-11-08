@@ -1,0 +1,173 @@
+#+TITLE: 聴聞
+#+JMDICT_ID: 1800580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうもん
+#+ROMAJI: choumon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1800580-001
+:PROPERTIES:
+:TEXT: 聴聞
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1800580-001
+:PROPERTIES:
+:TEXT: ちょうもん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1800580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: babf41b6ab968000b1e2baafaff43ea9d3fa446a417bc74414e70f491a62c774
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- listening
+- hearing
+** Ukrainian glosses
+*** uk-s-1800580-001-001
+:PROPERTIES:
+:END:
+- text :: заслуховування; слухання (адміністративне); уважне вислуховування
+** Learner notes
+*** note-s-1800580-001-001
+:PROPERTIES:
+:END:
+- UK :: Уважне офіційне вислуховування пояснень або правова процедура надання зацікавленій стороні права висловитися перед ухваленням рішення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1800580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 営業停止処分に先立って聴聞を行う。
+- READING :: えいぎょうていししょぶんにさきだってちょうもんをおこなう。
+- UK :: Провести адміністративне заслуховування сторін перед призупиненням дії ліцензії.
+- FOCUS :: 聴聞
+*** ex-1800580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 行政庁が不利益な処分を下す際には、当事者に対して事前に弁明の機会を与える適正な聴聞の手続きを厳格に経なければならない。
+- READING :: ぎょうせいちょうがふりえきなしょぶんをくだすさいには、とうじしゃにたいしてじぜんにべんめいのきかいをあたえるてきせいなちょうもんのてつづきをげんかくにへなければならない。
+- UK :: Ухвалюючи санкційне рішення, орган влади зобов'язаний суворо дотриматися законної процедури заслуховування пояснень відповідача.
+- FOCUS :: 聴聞
+*** ex-1800580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 開発計画を巡って利害が対立する地域住民の声を公平に反映させるため、市役所の講堂で公開の聴聞会が丸一日にわたって開催された。
+- READING :: かいはつけいかくをめぐってりがいがたいりつするちいきじゅうみんのこえをこうへいにはんえいさせるため、しやくしょのこうどうでこうかいのちょうもんかいがまるいちにちにわたってかいさいされた。
+- UK :: Щоб справедливо врахувати інтереси мешканців щодо забудови, в мерії провели відкриті громадські слухання тривалістю в цілий день.
+- FOCUS :: 聴聞
+
+* Sense s-1800580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e6e11aea7f0ce347e4e43df69fb9623aa659bc4acc91d277af8e9a2e2b27d692
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1800580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anhören
+*** en-s-1800580-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anhörung
+** Ukrainian glosses
+
+* Sense s-1800580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 556b333789b1063a01f4d8c9dc0de5636902b1e4c6b76c63157ff22b4d076794
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1800580-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hallás
+*** en-s-1800580-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kihallgatás
+*** en-s-1800580-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meghallgatás
+** Ukrainian glosses
+
+* Sense s-1800580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 11c0e5cbaec96d72aa7cc5703de8f9689dc1e49b93375d42e06483e59a263432
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1800580-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) выслушивание
+*** en-s-1800580-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} слушать, внимать
+** Ukrainian glosses
