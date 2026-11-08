@@ -1,0 +1,343 @@
+#+TITLE: 切り下げる
+#+JMDICT_ID: 1383850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きりさげる
+#+ROMAJI: kirisageru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1383850-001
+:PROPERTIES:
+:TEXT: 切り下げる
+:END:
+*** Priorities
+- news2
+- nf42
+** Written form wf-1383850-002
+:PROPERTIES:
+:TEXT: 斬り下げる
+:END:
+*** Information
+- rK
+** Written form wf-1383850-003
+:PROPERTIES:
+:TEXT: きり下げる
+:END:
+*** Information
+- sK
+** Written form wf-1383850-004
+:PROPERTIES:
+:TEXT: 切りさげる
+:END:
+*** Information
+- sK
+** Reading rd-1383850-001
+:PROPERTIES:
+:TEXT: きりさげる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1383850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 646e1a482d2a3cee681cf64b438d0b062b1003639b73bd73d7c12401c4f95b9b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to cut down
+- to prune
+- to reduce
+- to cut and hang down
+- to cut shorter
+** Ukrainian glosses
+*** uk-s-1383850-001-001
+:PROPERTIES:
+:END:
+- text :: знижувати, скорочувати (ціни); девальвувати
+** Learner notes
+*** note-s-1383850-001-001
+:PROPERTIES:
+:END:
+- UK :: Зменшувати, зрізати або знижувати встановлені ціни, курс національної валюти, виробничі витрати або довжину матеріалу чи волосся.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1383850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 計算の最後に端数を切り下げる。
+- READING :: けいさんのさいごにはすうをきりさげる。
+- UK :: Наприкінці розрахунків дробовий залишок округлюють у менший бік.
+- FOCUS :: 切り下げる
+*** ex-1383850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 経済危機に直面した政府は輸出競争力を高めるため、自国通貨の公定レートを大幅に切り下げる断行に踏み切った。
+- READING :: けいざいききにちょくめんしたせいふはゆしゅつきょうそうりょくをたかめるため、じこくつうかのこうていれーとをおおはばにきりさげるだんこうにふみきった。
+- UK :: Уряд, що зіткнувся з кризою, наважився суттєво девальвувати офіційний курс валюти задля підтримки конкурентоспроможності експорту.
+- FOCUS :: 切り下げる
+*** ex-1383850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: スーパーの店長は消費者の節約志向に応えるため、賞味期限が近づいた生鮮食品の価格を一律に二割ほど切り下げる方針を打ち出し食品ロスの削減を図った。
+- READING :: すーぱーのてんちょうはしょうひしゃのせつやくしこうにこたえるため、しょうみきげんがちかづいたせいせんしょくひんのかかくをいちりつににわりほどきりさげるほうしんをうちだししょくひんろすのさくげんをはかった。
+- UK :: Директор супермаркету, аби задовольнити прагнення покупців заощаджувати, вирішив знизити ціни на товари короткого строку зберігання на 20%, скорочуючи списання.
+- FOCUS :: 切り下げる
+
+* Sense s-1383850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 511f9dc2f11b9475685e4a3951d4133e3cf693a4619299dc41d73e1beac29743
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to round down (e.g. fraction)
+** Ukrainian glosses
+*** uk-s-1383850-002-001
+:PROPERTIES:
+:END:
+- text :: округлювати в менший бік (дроби)
+** Learner notes
+*** note-s-1383850-002-001
+:PROPERTIES:
+:END:
+- UK :: Математична дія точного округлення дробових числових значень шляхом відкидання останніх цифр виключно в менший бік.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1383850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d04cc6777975cbbaa11caf4926c0b2ddfb555704aadd1ab949bdb51674246551
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abwerten (eine Währung)
+** Ukrainian glosses
+
+* Sense s-1383850-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 49c5c574ccafc59970644e855ab8b76c1e87347bb262966086204a38ceffd0b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erniedrigen
+*** en-s-1383850-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reduzieren
+*** en-s-1383850-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kürzen
+** Ukrainian glosses
+
+* Sense s-1383850-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 06f2613b846bce8938e2c5422408fbb5997bd01875c5cac0565f8d107b3049ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abschneiden
+** Ukrainian glosses
+
+* Sense s-1383850-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: bd987a3b025a80cfb9610db1bcbfcabed0f899d67a0f24e1d260f50809018f99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abwärts schneiden
+** Ukrainian glosses
+
+* Sense s-1383850-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5a649b18e76ba212aa2c4b8e02ce4586b2fe234f64e9497525783f3fbb1a4d87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csökkent
+*** en-s-1383850-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ledönt
+*** en-s-1383850-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lefarag
+*** en-s-1383850-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lerövidít
+*** en-s-1383850-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leszállít
+*** en-s-1383850-007-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levág
+*** en-s-1383850-007-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meghúz
+*** en-s-1383850-007-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megrövidít
+*** en-s-1383850-007-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csökken
+*** en-s-1383850-007-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redukál
+** Ukrainian glosses
+
+* Sense s-1383850-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d5eb0678d085ca95f6f3570c2475360f6a5caa9d861871e9b60c4534df07a186
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383850-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (см.) きりおろす
+*** en-s-1383850-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) сокращать, урезывать; снижать (цены и т. п.); девальвировать
+*** en-s-1383850-008-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) подрезать и носить спущенными (волосы)
+** Ukrainian glosses
