@@ -1,0 +1,158 @@
+#+TITLE: 線分
+#+JMDICT_ID: 1391860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せんぶん
+#+ROMAJI: senbun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1391860-001
+:PROPERTIES:
+:TEXT: 線分
+:END:
+** Reading rd-1391860-001
+:PROPERTIES:
+:TEXT: せんぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1391860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ee565e3b8c032cb1333960bb2b4b7339a32020b938231e4ef4f697fdd463c39c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- line segment
+** Ukrainian glosses
+*** uk-s-1391860-001-001
+:PROPERTIES:
+:END:
+- text :: відрізок прямої, відрізок (геометричний термін)
+** Learner notes
+*** note-s-1391860-001-001
+:PROPERTIES:
+:END:
+- UK :: Частина прямої лінії між двома точками (кінцями відрізка), включно з цими точками; позначається як 線分AB.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1391860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 定規を使って紙の上に線分を引く。
+- READING :: じょうぎをつかってかみのうえにせんぶんをひく。
+- UK :: За допомогою лінійки проводжу відрізок на папері.
+- FOCUS :: 線分
+*** ex-1391860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 幾何学の授業で、二つの点を結ぶ最短の線分を求めてその長さを正確に計算した。
+- READING :: きかがくのじゅぎょうで、ふたつのてんをむすぶさいたんのせんぶんをもとめてそのながさをせいかくにけいさんした。
+- UK :: На уроці геометрії ми знайшли найкоротший відрізок, що сполучає дві точки, і точно вирахували його довжину.
+- FOCUS :: 線分
+*** ex-1391860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 三角形の各頂点から対辺の中点へと引いた三本の線分は、重心と呼ばれるただ一つの点で必ず交わるという興味深い性質を持っている。
+- READING :: さんかくけいのかくちょうてんからたいへんのちゅうてんへとひいたさんぼんのせんぶんは、じゅうしんとよばれるただひとつのてんでかならずまじわるというきょうみぶかいせいしつをもっている。
+- UK :: Три відрізки-медіани, проведені з кожної вершини трикутника до середини протилежних сторін, мають цікаву властивість завжди перетинатися в одній спільній точці — центроїді.
+- FOCUS :: 線分
+
+* Sense s-1391860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4b6b6a7ce1531396d5e21135a3c90674feaa213e8404351771c210484d6057c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391860-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} lijnstuk
+*** en-s-1391860-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lijnsegment
+** Ukrainian glosses
+
+* Sense s-1391860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 30a912fb0a08c662da37f7c9c34739d52ec3448613b5582092e521e566bd3296
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391860-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strecke
+*** en-s-1391860-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilstrecke
+*** en-s-1391860-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Linienabschnitt
+** Ukrainian glosses
+
+* Sense s-1391860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b84fd7ae63a28ed0b1101a803b77766eb28127fd4e705de33a80d86221020dbd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1391860-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отрезок линии
+** Ukrainian glosses
