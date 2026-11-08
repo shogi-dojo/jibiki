@@ -1,0 +1,344 @@
+#+TITLE: 端子
+#+JMDICT_ID: 1418880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たんし
+#+ROMAJI: tanshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1418880-001
+:PROPERTIES:
+:TEXT: 端子
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1418880-001
+:PROPERTIES:
+:TEXT: たんし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1418880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e4a5aea2351ecc60a411ee980b7e429f29a789519989b4e12f5e91349b7fd816
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- elec
+** English glosses
+- terminal
+** Ukrainian glosses
+*** uk-s-1418880-001-001
+:PROPERTIES:
+:END:
+- text :: клема; контактний вивід (в електротехніці)
+** Learner notes
+*** note-s-1418880-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний термін на позначення металевого наконечника або затискача на кінці електричного кола чи акумулятора для приєднання проводів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1418880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: テレビの裏側にある端子にケーブルを差し込む。
+- READING :: てれびのうらがわにあるたんしにけーぶるをさしこむ。
+- UK :: Вставити кабель у роз'єм на задній панелі телевізора.
+- FOCUS :: 端子
+*** ex-1418880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電池がうまく作動しないときは、接触不良を起こしている端子の汚れを乾いた布で拭き取るとよい。
+- READING :: でんちがうまくさどうしないときは、せっしょくふりょうをおこしているたんしのよごれをかわいたぬのでふきとるとよい。
+- UK :: Коли батарейка працює з перебоями, варто протерти сухою тканиною забруднені клеми, через які виник поганий контакт.
+- FOCUS :: 端子
+*** ex-1418880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最新の薄型ノートパソコンでは本体の厚みを抑えるため、従来の大きな接続端子が廃止されて小型で汎用性の高い規格に統一されつつある。
+- READING :: さいしんのうすがたのーとぱそこんではほんたいのあつみをおさえるため、じゅうらいのおおきなせつぞくたんしがはいしされてこがたではんようせいのたかいきかくにとういつされつつある。
+- UK :: У новітніх тонких ноутбуках задля зменшення товщини корпусу відмовляються від колишніх великих роз'ємів і переходять на єдиний компактний та універсальний стандарт.
+- FOCUS :: 端子
+
+* Sense s-1418880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8454cb37b23c3229698fc9212e994dfb47f235507229510b5fdb7934c84a88ba
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- elec
+** English glosses
+- pin (on a semiconductor or microcontroller)
+** Ukrainian glosses
+*** uk-s-1418880-002-001
+:PROPERTIES:
+:END:
+- text :: ніжка; контактний вивід (мікросхеми, напівпровідникового приладу)
+** Learner notes
+*** note-s-1418880-002-001
+:PROPERTIES:
+:END:
+- UK :: У мікроелектроніці позначає металевий штир або контактну площадку на корпусі мікросхеми.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1418880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0f412846a88a690cd40b4622a7a6bd386e815d8e3928baeebb04d96f2f7c613b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- port (e.g. LAN port)
+** Ukrainian glosses
+*** uk-s-1418880-003-001
+:PROPERTIES:
+:END:
+- text :: порт; роз'єм (на комп'ютері, телевізорі чи іншому пристрої)
+** Learner notes
+*** note-s-1418880-003-001
+:PROPERTIES:
+:END:
+- UK :: У побутовій електроніці позначає гніздо для підключення кабелів передачі звуку, зображення, живлення або мережевого з'єднання (напр. 接続端子, イヤホン端子).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1418880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 41bb74eb9a673907082038264ac85d028cff4b0f29ba0da6946b8161a4a559bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418880-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.
+*** en-s-1418880-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: techn.} klem
+*** en-s-1418880-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: contactklem
+*** en-s-1418880-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aansluitklem
+*** en-s-1418880-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sluitklem
+*** en-s-1418880-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: poolklem
+** Ukrainian glosses
+
+* Sense s-1418880-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dd79ea90ef424f8b738333a2ea662239a23bf3d95f715be8c48ca916988255aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418880-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Polklemme
+*** en-s-1418880-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anschluss
+** Ukrainian glosses
+
+* Sense s-1418880-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 28c3f14bcdfbf1ed867bf46dbb8bf293164c7d18b7a60808f84b0d42a132f121
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418880-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: időszaki
+*** en-s-1418880-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kapocs
+*** en-s-1418880-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: záróvizsga
+*** en-s-1418880-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bejárat
+*** en-s-1418880-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beömlőnyílás
+*** en-s-1418880-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járás
+*** en-s-1418880-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kikötő
+*** en-s-1418880-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lőrés
+*** en-s-1418880-006-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rév
+*** en-s-1418880-006-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sorkapocs
+*** en-s-1418880-006-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csoki
+** Ukrainian glosses
+
+* Sense s-1418880-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3546edcbe2f556a88f6708427c10444c3b933b1ce4e58f7b4cd2d4fd29fdb9df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1418880-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (эл.) вывод, ввод; клемма
+*** en-s-1418880-007-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) конец (напр. троса)
+** Ukrainian glosses
