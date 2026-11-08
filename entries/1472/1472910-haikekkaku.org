@@ -1,0 +1,168 @@
+#+TITLE: 肺結核
+#+JMDICT_ID: 1472910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいけっかく
+#+ROMAJI: haikekkaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-08
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1472910-001
+:PROPERTIES:
+:TEXT: 肺結核
+:END:
+*** Priorities
+- news2
+- nf35
+- spec2
+** Reading rd-1472910-001
+:PROPERTIES:
+:TEXT: はいけっかく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+- spec2
+
+* Sense s-1472910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 12609f077f63b9b0b98753afc5bca50cd4a40b6fef3eba3088abd37de41cbb84
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- pulmonary tuberculosis
+** Ukrainian glosses
+*** uk-s-1472910-001-001
+:PROPERTIES:
+:END:
+- text :: туберкульоз легень (інфекційне захворювання легеневої тканини)
+** Learner notes
+*** note-s-1472910-001-001
+:PROPERTIES:
+:END:
+- UK :: Хронічне інфекційне захворювання, спричинене мікобактерією туберкульозу (паличкою Коха), що уражає легені й проявляється кашлем, кровохарканням, лихоманкою та виснаженням.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1472910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 病院の検査で肺結核の感染が判明した。
+- READING :: びょういんのけんさではいけっかくのかんせんがはんめいした。
+- UK :: Під час лікарняного обстеження виявили зараження туберкульозом легень.
+- FOCUS :: 肺結核
+*** ex-1472910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: かつては不治の病と恐れられた肺結核も、抗生物質の開発と医療の進歩によって早期治療が可能な病気となった。
+- READING :: かつてはふじのやまいとおそれられたはいけっかくも、こうせいぶっしつのかいはつといりょうのしんぽによってそうきちりょうがかのうなびょうきとなった。
+- UK :: Хоча колись туберкульоз легень вважався невиліковною хворобою, розвиток антибіотиків і прогрес медицини зробили його виліковним на ранніх стадіях.
+- FOCUS :: 肺結核
+*** ex-1472910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 集団感染を未然に防ぐため、学校や企業では定期的な胸部レントゲン検査を実施して肺結核の早期発見に努めている。
+- READING :: しゅうだんかんせんをみぜんにふせぐため、がっこうやきぎょうではていきてきなきょうぶれんとげんけんさをじっししてはいけっかくのそうきはっけんにつとめている。
+- UK :: Щоб запобігти масовому зараженню, у школах та на підприємствах проводять планову рентгенографію грудної клітки для раннього виявлення легеневого туберкульозу.
+- FOCUS :: 肺結核
+
+* Sense s-1472910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 60bb41ae9d55d0a4ecd483417beb0c3997bf996c8d7e17c1169e100f606b6678
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472910-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tuberculose
+** Ukrainian glosses
+
+* Sense s-1472910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f0e76b0d597130436f5855162572980f3ad6ec50b473758113e233dcb8fdb595
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472910-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lungentuberkulose
+*** en-s-1472910-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tuberkulose
+** Ukrainian glosses
+
+* Sense s-1472910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 078c818eeb04d2fb41f5f2d946e61efd43c665b9b330bf8f507768a9fcbeb00d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472910-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tüdővész
+** Ukrainian glosses
+
+* Sense s-1472910-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e0079b10e2e61a813f501c097b42731382d073793081e0c048881ec70dabd912
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1472910-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: туберкулёз лёгких
+** Ukrainian glosses
