@@ -1,0 +1,255 @@
+#+TITLE: 受精
+#+JMDICT_ID: 1635910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅせい
+#+ROMAJI: jusei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1635910-001
+:PROPERTIES:
+:TEXT: 受精
+:END:
+*** Priorities
+- news1
+- nf24
+** Written form wf-1635910-002
+:PROPERTIES:
+:TEXT: 授精
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1635910-001
+:PROPERTIES:
+:TEXT: じゅせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- news2
+- nf24
+- nf28
+
+* Sense s-1635910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 173cd3661cd4dc11b78174b434c99b3716536693104063045b6fc6514c53c081
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Sense information
+- 授精 often used for artificial insemination
+** English glosses
+- fertilization
+- fertilisation
+- impregnation
+- pollination
+- insemination
+** Ukrainian glosses
+*** uk-s-1635910-001-001
+:PROPERTIES:
+:END:
+- text :: запліднення, зачаття
+** Learner notes
+*** note-s-1635910-001-001
+:PROPERTIES:
+:END:
+- UK :: Біологічний процес злиття чоловічої та жіночої статевих клітин, що веде до утворення зиготи та розвитку нового живого організму.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1635910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 卵子と精子が結合して正常に受精が行われた。
+- READING :: らんしとせいしがけつごうしてせいじょうにじゅせいがおこなわれた。
+- UK :: Сперматозоїд злився з яйцеклітиною, і відбулося нормальне запліднення.
+- FOCUS :: 受精
+*** ex-1635910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 植物の生殖において風や昆虫によって運ばれた花粉がめしべの柱頭に付着し、花粉管を伸ばして胚珠の中で無事に受精が完了する。
+- READING :: しょくぶつのせいしょくにおいてかぜやこんちゅうによってはこばれたかふんがめしべのちゅうとうにふちゃくし、かふんかんをのばしてはいしゅのなかでぶじにじゅせいがかんりょうする。
+- UK :: Під час розмноження рослин пилок від вітру чи комах потрапляє на маточку, проростає пилковою трубкою і запліднює насінний зачаток.
+- FOCUS :: 受精
+*** ex-1635910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 不妊治療の現場では高度な医療技術を用いた体外受精が普及しており、顕微鏡下で受精させた受精卵を子宮内へ移植することで多くの命が誕生している。
+- READING :: ふにんちりょうのげんばではこうどないりょうぎじゅつをもちいたたいがいじゅせいがふきゅうしており、けんびきょうかでじゅせいさせたいじゅせいらんをしきゅうないへいしょくすることでおおくのいのちがたんじょうしている。
+- UK :: У репродуктивній медицині екстракорпоральне запліднення дає змогу запліднити яйцеклітину під мікроскопом і перенести ембріон до утроби матері.
+- FOCUS :: 受精
+
+* Sense s-1635910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ac870bd9c3707edafdd45acd5031689057c48fe81e446af8d56f6cb7a660d1e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635910-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bevruchting
+*** en-s-1635910-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inseminatie
+*** en-s-1635910-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fertilisatie
+*** en-s-1635910-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fecundatie
+** Ukrainian glosses
+
+* Sense s-1635910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95e632857170ad9d658d071b3dd53e5f0086ed67cfc2dd267971117d59bd2e69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635910-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Befruchtung
+*** en-s-1635910-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: befruchtet werden
+*** en-s-1635910-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: empfangen
+** Ukrainian glosses
+
+* Sense s-1635910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0c9742dcca446582f7d387fd3abbd73e0ba6d208dd9038e6a347c98418434265
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635910-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: befruchten
+*** en-s-1635910-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: besamen
+** Ukrainian glosses
+
+* Sense s-1635910-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a78b024fa9abe279555b0156bc65dcc9d2f5615852fe2df9902f6ac63cc349f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635910-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: оплодотворение
+** Ukrainian glosses
+
+* Sense s-1635910-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6067c344bd1b4d511377e033da02ed07f75a5a166dca649cb963e3d5959de62d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635910-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fecundación
+*** en-s-1635910-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fertilización
+*** en-s-1635910-006-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: polinización
+** Ukrainian glosses
