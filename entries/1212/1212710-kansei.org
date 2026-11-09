@@ -1,0 +1,218 @@
+#+TITLE: 慣性
+#+JMDICT_ID: 1212710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんせい
+#+ROMAJI: kansei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1212710-001
+:PROPERTIES:
+:TEXT: 慣性
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1212710-001
+:PROPERTIES:
+:TEXT: かんせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1212710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 46c2717567bdc8969b4d657a90c05e29b650932380cc32e325f0784f3866240e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- inertia
+** Ukrainian glosses
+*** uk-s-1212710-001-001
+:PROPERTIES:
+:END:
+- text :: інерція (у фізиці), інертність
+** Learner notes
+*** note-s-1212710-001-001
+:PROPERTIES:
+:END:
+- UK :: Властивість тіла зберігати свій стан спокою або рівномірного прямолінійного руху, доки на нього не подіє зовнішня сила.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1212710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 急ブレーキをかけると慣性で体が前へ倒れる。
+- READING :: きゅうぶれーきをかけるとかんせいでからだがまえへたおれる。
+- UK :: При різкому гальмуванні тіло за інерцією подається вперед.
+- FOCUS :: 慣性
+*** ex-1212710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 物理の授業で慣性の法則を学ぶため、台車にボールを載せて斜面を滑らせる実験をクラス全員で行った。
+- READING :: ぶつりのじゅぎょうでかんせいのほうそくをまなぶため、だいしゃにぼーるをのせてしゃめんをすべらせるじっけんをくらすぜんいんでおこなった。
+- UK :: Щоб вивчити закон інерції на уроці фізики, усім класом провели дослід із візком і кулькою, що котилася по похилій площині.
+- FOCUS :: 慣性
+*** ex-1212710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高速で走行する大型トラックは重い積載物のせいで極めて強い慣性が働くため、危険を察知して急ブレーキを踏んでもすぐには止まれない。
+- READING :: こうそくでそうこうするおおがたとらっくはおもいせきさいぶつのせいできわめてつよいかんせいがはたらくため、きけんをさっちしてきゅうぶれーきをふんでもすぐにはとまれない。
+- UK :: На важку вантажівку, що мчить швидкісним шосе, через велику масу вантажу діє потужна сила інерції, тому навіть екстрене гальмування не зупинить її миттєво.
+- FOCUS :: 慣性
+
+* Sense s-1212710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a4aa6deb0010c065c8c20c174544a5ff4df7316b3f7b3cf6ab5c16ea7726a528
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} inertie
+*** en-s-1212710-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: traagheid
+** Ukrainian glosses
+
+* Sense s-1212710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 51c02d9425981c11bcbd29f23b3856583c6b027e930615243be0ec8ce1f8d932
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Trägheit
+*** en-s-1212710-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beharrungsvermögen
+** Ukrainian glosses
+
+* Sense s-1212710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 977aa9c44d26962e6511a1ef3675b63b51bcf7192f14c23d442d17fceee340c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élettelenség
+*** en-s-1212710-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tunyaság
+** Ukrainian glosses
+
+* Sense s-1212710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7edfc05de1d4c58e459567a9389038e61fbb3bb409b5c4df7c7b09444439d64a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: инерция
+** Ukrainian glosses
+
+* Sense s-1212710-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ac87c9cffe6c3a5d14783fe04d3442b605e1beac3af089024fc9cbe79f7908ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inercia
+** Ukrainian glosses
+
+* Sense s-1212710-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: ff753b944f519eea548754bcb8d0ed1b59cedb65c76fb602e12fb88bb028766f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1212710-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tröghet
+** Ukrainian glosses
