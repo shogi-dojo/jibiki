@@ -1,0 +1,170 @@
+#+TITLE: ロジック
+#+JMDICT_ID: 1147410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ロジック
+#+ROMAJI: rojikku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1147410-001
+:PROPERTIES:
+:TEXT: ロジック
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1147410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 77650776b588ab9ebca55ef1997d943d65a8dc29e329a0109a4661d2e07f3d03
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- logic
+** Ukrainian glosses
+*** uk-s-1147410-001-001
+:PROPERTIES:
+:END:
+- text :: логіка, алгоритм, послідовність міркувань
+** Learner notes
+*** note-s-1147410-001-001
+:PROPERTIES:
+:END:
+- UK :: Послідовний і раціональний хід думок, обґрунтування аргументів або програмний алгоритм обробки даних у комп'ютерній системі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1147410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼の説明は論理的で明確なロジックに基づいている。
+- READING :: かれのせつめいはろんりてきでめいかくなろじっくにもとづいている。
+- UK :: Його пояснення послідовне й спирається на чітку логіку.
+- FOCUS :: ロジック
+*** ex-1147410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい業務システムの開発にあたって、複雑な料金計算を自動で行うための処理ロジックを設計書に詳しく定義した。
+- READING :: あたらしいぎょうむしすてむのかいはつにあたって、ふくざつなりょうきんけいさんをじどうでおこなうためのしょりろじっくをせっけいしょにくわしくていぎした。
+- UK :: Під час розробки корпоративної системи фахівці докладно описали логіку автоматичного розрахунку тарифів у технічній документації.
+- FOCUS :: ロジック
+*** ex-1147410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ビジネスの現場で相手を納得させるためには、感情論に頼るのではなく客観的なデータと首尾一貫した明快なロジックを提示することが不可欠である。
+- READING :: びじねすのげんばであいてをなっとくさせるためには、かんじょうろんにたよるのではなくきゃっかんてきなでーたとしゅびいっかんしためいかいなろじっくをていじすることがふかけつである。
+- UK :: У діловому спілкуванні для переконання партнера необхідно спиратися не на емоції, а на об'єктивні дані та послідовну зрозумілу логіку.
+- FOCUS :: ロジック
+
+* Sense s-1147410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: be90490b67a4cbfdb5e60d6a2335858f0054567a5ef38eb6736684cf77d068ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1147410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Logik
+** Ukrainian glosses
+
+* Sense s-1147410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9372c29b0a6141f5169df39c231fb6b36a62b397aee4c0d68e58f6824ada3b25
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1147410-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: logika
+*** en-s-1147410-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: logikai hálózat
+*** en-s-1147410-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: logikai
+** Ukrainian glosses
+
+* Sense s-1147410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4190b5f7e199e30e516de1d02af929a24bc183a744b0948dd4351c25f7048d2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1147410-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) logic) логика
+** Ukrainian glosses
+
+* Sense s-1147410-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2adcb091ad1e38ff3f0754dc8c574d4fe6f59b3d77cb8cc4dac1e132a9e2898a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1147410-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: följdriktighet
+*** en-s-1147410-005-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: logik
+** Ukrainian glosses
