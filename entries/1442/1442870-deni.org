@@ -1,0 +1,222 @@
+#+TITLE: 電位
+#+JMDICT_ID: 1442870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんい
+#+ROMAJI: deni
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1442870-001
+:PROPERTIES:
+:TEXT: 電位
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1442870-001
+:PROPERTIES:
+:TEXT: でんい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1442870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f1ad0c5d17a279cb17563f8d582684212b6354f4ae572e825b936644e0f63c19
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- electric potential
+** Ukrainian glosses
+*** uk-s-1442870-001-001
+:PROPERTIES:
+:END:
+- text :: електричний потенціал
+** Learner notes
+*** note-s-1442870-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізична скалярна величина, що характеризує потенціальну енергію одиничного електричного заряду в певній точці електростатичного поля.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1442870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二点間の電位の差によって電流が流れる。
+- READING :: にてんかんのでんいのさによってでんりゅうがながれる。
+- UK :: Завдяки різниці електричних потенціалів між двома точками виникає струм.
+- FOCUS :: 電位
+*** ex-1442870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 物理実験室において高精度の電圧計を用い、回路上の各測定点における電位を細かく記録して理論値と比較した。
+- READING :: ぶつりじっけんしつにおいてこうせいどのでんあつけいをもちい、かいろじょうのかくそくていてんにおけるでんいをこまかくきろくしてりろんちとひかくした。
+- UK :: У фізичній лабораторії за допомогою точного вольтметра детально зафіксували електричний потенціал у кожній точці схеми й порівняли його з теорією.
+- FOCUS :: 電位
+*** ex-1442870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 神経細胞の活動を解明するため、研究者たちは微小な電極を細胞膜に刺して刺激に対する電位の微細な変化をミリ秒単位で測定した。
+- READING :: しんけいさいぼうのかつどうをかいめいするため、けんきゅうしゃたちはびしょうなでんきょくをさいぼうまくにさしてしげきにたいするでんいのびさいなへんかをみりびょうたんいでそくていした。
+- UK :: Щоб дослідити роботу нейронів, вчені ввели мікроелектрод у клітинну мембрану й виміряли мікроскопічні коливання електричного потенціалу у відповідь на подразники.
+- FOCUS :: 電位
+
+* Sense s-1442870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b98eb5e54dea675282d96172a0048b20fb49df1467fe6bc3d281243b1eec804
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} spanning
+*** en-s-1442870-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: potentiaal
+** Ukrainian glosses
+
+* Sense s-1442870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9697be7a6efd101ede845cd4d934110068996fc0381f9776ed7f11bf21cffadb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrisches Potential
+** Ukrainian glosses
+
+* Sense s-1442870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0c3aedc8fe22adc9473203e860fe3fb45eb8775c38370f781da5c95379a8e337
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442870-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektromos feszültség
+*** en-s-1442870-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helyzeti
+*** en-s-1442870-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lappangó
+*** en-s-1442870-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lehetőség
+*** en-s-1442870-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: potenciális
+*** en-s-1442870-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektromos potenciál
+** Ukrainian glosses
+
+* Sense s-1442870-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 416e374ab5988f21329b7aa6bffc30b8dcffcdff8be53c2f8a6ffcca685e10ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442870-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) потенциал
+** Ukrainian glosses
+
+* Sense s-1442870-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3150b87594b71e19e495cfa2fe7c8c185c3765ff7d8f5aed24893b2cad61f065
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442870-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: potencial eléctrico
+** Ukrainian glosses
