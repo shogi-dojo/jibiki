@@ -1,0 +1,132 @@
+#+TITLE: 質権
+#+JMDICT_ID: 1706540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しちけん
+#+ROMAJI: shichiken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1706540-001
+:PROPERTIES:
+:TEXT: 質権
+:END:
+** Reading rd-1706540-001
+:PROPERTIES:
+:TEXT: しちけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1706540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 977a35be61f195560770c184d914f83f8e54d2df605f818081cc0fb6cfa7e1fd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- right of pledge
+** Ukrainian glosses
+*** uk-s-1706540-001-001
+:PROPERTIES:
+:END:
+- text :: заставне право, право застави (на майно)
+** Learner notes
+*** note-s-1706540-001-001
+:PROPERTIES:
+:END:
+- UK :: Речове право кредитора на утримання переданого йому майна боржника та першочергове задоволення вимог у разі неповернення боргу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1706540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 借入金の担保に時計の質権を設定する。
+- READING :: かりいれきんのたんぽにとけいのしちけんをせっていする。
+- UK :: Встановити право застави на годинник як забезпечення позики.
+- FOCUS :: 質権
+*** ex-1706540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 銀行からの融資を受けるため、会社が保有する定期預金債権に対して質権を設定する契約を締結した。
+- READING :: ぎんこうからのゆうしをうけるため、かいしゃがほゆうするていきよきんさいけんにたいしてしちけんをせっていするけいやくをていけつした。
+- UK :: Для отримання банківського кредиту компанія уклала договір про заставне право на свої строкові депозити.
+- FOCUS :: 質権
+*** ex-1706540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 金融機関は、貸付金の焦げ付きリスクを最小限に抑えるため、債務者が所有する価値の高い株式や不動産担保に対して第一順位の質権を設定し、万が一のデフォルト時には優先的に弁済を受ける法的権利を確保した。
+- READING :: きんゆうきかんは、かしつけきんのこげつきりすくをさいしょうげんにおさえるため、さいむしゃがしょゆうするかちのたかいかぶしきやふどうさんたんぽにたいしてだいいちじゅんいのしちけんをせっていし、まんがいちのでふぉるとじにはゆうせんてきにべんさいをうけるほうてきけんりをかくほした。
+- UK :: Банк оформив першочергове заставне право на цінні акції позичальника для пріоритетного повернення коштів у разі дефолту.
+- FOCUS :: 質権
+
+* Sense s-1706540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4530ee46a961169ff9206dd0d7017ba63a09481258679251b706c74bd9a22862
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706540-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} pandrecht
+** Ukrainian glosses
+
+* Sense s-1706540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e139a36065271055c2a62733cf69e45a353faa340c8a53d97f66a4bea5781f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfandrecht
+** Ukrainian glosses
+
+* Sense s-1706540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cac6db956640c6fd2e0dbfb79c731cd95597ea34a834c8abb9a322e7ffd283d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: право заклада (залога)
+** Ukrainian glosses
