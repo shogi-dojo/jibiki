@@ -458,7 +458,8 @@ module EntryValidator
   # The command-line run shared by scripts/validate_entry.rb and `jb validate`:
   # validates every path, prints the progress and verdict lines (or, with
   # json, one JSON document) to io, and returns the exit code: 2 when any entry
-  # failed, 0 otherwise.
+  # failed, 0 otherwise. Results are written as each entry finishes and only
+  # counters are kept, so memory does not grow with the number of paths.
   def run(paths, io: $stdout, json: false)
     preload_jmdict_entries(paths.filter_map do |path|
       next unless File.exist?(path)
@@ -467,21 +468,22 @@ module EntryValidator
     end)
     duplicate_errors = duplicate_jmdict_id_errors(paths)
 
-    results = paths.map do |path|
-      errors = validate_entry(path, log: json ? nil : io) + duplicate_errors[path]
-      unless json
-        if errors.empty?
-          io.puts 'Validation PASSED successfully!'
-        else
-          io.puts "Validation FAILED with #{errors.length} errors:"
-          errors.each { |err| io.puts "- #{err}" }
-        end
+    failed = 0
+    io.print '{"entries":[' if json
+    paths.each_with_index do |path, index|
+      errors = validate_entry(path, log: json ? nil : io) + duplicate_errors.fetch(path, [])
+      failed += 1 unless errors.empty?
+      if json
+        io.print ',' if index.positive?
+        io.print JSON.generate({ 'path' => path, 'errors' => errors })
+      elsif errors.empty?
+        io.puts 'Validation PASSED successfully!'
+      else
+        io.puts "Validation FAILED with #{errors.length} errors:"
+        errors.each { |err| io.puts "- #{err}" }
       end
-      { 'path' => path, 'errors' => errors }
     end
-
-    failed = results.count { |result| !result['errors'].empty? }
-    io.puts JSON.pretty_generate({ 'total_entries' => results.length, 'failed_entries' => failed, 'entries' => results }) if json
+    io.puts "],\"total_entries\":#{paths.length},\"failed_entries\":#{failed}}" if json
     failed.positive? ? 2 : 0
   end
 

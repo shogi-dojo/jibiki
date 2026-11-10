@@ -83,7 +83,6 @@ module DictionarySources
     def initialize(path, sha256)
       @path = path
       @sha256 = sha256
-      @entries = {}
       File.open(path, 'rb') do |io|
         header = io.gets.to_s
         raise ArgumentError, "#{path} is not a #{HEADER} file" unless header.start_with?("# #{HEADER} ")
@@ -94,13 +93,12 @@ module DictionarySources
     end
 
     # The entry with this ent_seq, shaped like the parts of
-    # Jmdict#parse_entry the validator and doctor read, or nil.
+    # Jmdict#parse_entry the validator and doctor read, or nil. Nothing is
+    # memoised: a lookup is a few seeks, and a corpus-wide run must not keep
+    # every entry it has seen alive.
     def entry(ent_seq)
-      key = ent_seq.to_s
-      return @entries[key] if @entries.key?(key)
-
-      line = find_line(key.to_i)
-      @entries[key] = line ? parse_line(line) : nil
+      line = find_line(ent_seq.to_s.to_i)
+      line ? parse_line(line) : nil
     end
 
     private

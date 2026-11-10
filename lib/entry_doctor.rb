@@ -7,11 +7,23 @@ require_relative 'generated/unicode_scripts'
 module EntryDoctor
   Finding = Struct.new(:check, :severity, :sense_id, :item_id, :line, :detail, keyword_init: true)
 
+  # The entry's identity and status, all a report shows of it. Reports keep
+  # this rather than the parsed entry, so a corpus-wide run holds a few
+  # strings per entry instead of every parsed document.
+  EntryHeader = Data.define(:jmdict_id, :title, :primary_reading, :romaji, :quality_profile, :entry_status,
+                            :created_at) do
+    def self.of(entry)
+      new(jmdict_id: entry.jmdict_id, title: entry.title, primary_reading: entry.primary_reading,
+          romaji: entry.romaji, quality_profile: entry.quality_profile, entry_status: entry.entry_status,
+          created_at: entry.created_at)
+    end
+  end
+
   class EntryReport
     attr_reader :entry, :path, :findings, :health_score, :stats
 
     def initialize(entry:, path: nil, findings: [], health_score: 100, stats: {})
-      @entry = entry
+      @entry = EntryHeader.of(entry)
       @path = path
       @findings = findings
       @health_score = health_score
