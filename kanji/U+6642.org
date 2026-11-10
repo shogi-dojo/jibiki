@@ -2,6 +2,8 @@
 #+CODEPOINT: U+6642
 #+SCHEMA_VERSION: 1
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DRAFT_ORIGIN: codex
+#+DRAFT_SOURCE_FINGERPRINT: 4f8feeef377569da280e6d26a77deaf8be7f3c320d25efcfc93f0b62ba4fcc26
 
 * Source
 :PROPERTIES:
@@ -20,3 +22,8 @@
 - hour
 
 * Ukrainian meanings
+** uk-U+6642-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- text :: час; година

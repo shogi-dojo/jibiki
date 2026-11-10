@@ -2,6 +2,8 @@
 #+CODEPOINT: U+8859
 #+SCHEMA_VERSION: 1
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DRAFT_ORIGIN: codex
+#+DRAFT_SOURCE_FINGERPRINT: f8414b49e43aa1365ffafa9299d484366ea05fdd7996e78729d4653babfd2326
 
 * Source
 :PROPERTIES:
@@ -16,3 +18,8 @@
 - government office
 
 * Ukrainian meanings
+** uk-U+8859-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- text :: урядова установа

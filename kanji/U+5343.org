@@ -2,6 +2,8 @@
 #+CODEPOINT: U+5343
 #+SCHEMA_VERSION: 1
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DRAFT_ORIGIN: codex
+#+DRAFT_SOURCE_FINGERPRINT: ec5c96cfb0bd64dac5bfc06a0e48a628510834fa823c8eb9c3e2997c9fd0297c
 
 * Source
 :PROPERTIES:
@@ -18,3 +20,8 @@
 - thousand
 
 * Ukrainian meanings
+** uk-U+5343-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- text :: тисяча

@@ -2,6 +2,8 @@
 #+CODEPOINT: U+9801
 #+SCHEMA_VERSION: 1
 #+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DRAFT_ORIGIN: codex
+#+DRAFT_SOURCE_FINGERPRINT: 4a80d9a0f1ea1d509b5b1b28f5006e2aa5457902d178b45d9d93dcc54551cff9
 
 * Source
 :PROPERTIES:
@@ -20,3 +22,8 @@
 - leaf
 
 * Ukrainian meanings
+** uk-U+9801-001
+:PROPERTIES:
+:STATUS: draft
+:END:
+- text :: сторінка; аркуш
