@@ -1,0 +1,171 @@
+#+TITLE: 総和
+#+JMDICT_ID: 1401890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうわ
+#+ROMAJI: souwa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1401890-001
+:PROPERTIES:
+:TEXT: 総和
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1401890-001
+:PROPERTIES:
+:TEXT: そうわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1401890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ce888b26a6017fc0801daa6a6dda3dd4b4d95e51386dc2f1e167def30df73e1a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sum total
+** Ukrainian glosses
+*** uk-s-1401890-001-001
+:PROPERTIES:
+:END:
+- text :: загальна сума, повний підсумок
+** Learner notes
+*** note-s-1401890-001-001
+:PROPERTIES:
+:END:
+- UK :: Загальна кількість або сукупність усіх окремих елементів, величин чи показників, об'єднаних разом у єдине ціле.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1401890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 各項目の数値を足して全体の総和を求める。
+- READING :: かくこうもくのすうちをたしてぜんたいのそうわをもとめる。
+- UK :: Склавши значення кожного пункту, знаходять загальну суму.
+- FOCUS :: 総和
+*** ex-1401890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 数学の数列においてすべての項の総和を計算する公式を学び、複雑な応用問題の演習に取り組んだ。
+- READING :: すうがくのすうれつにおいてすべてのこうのそうわをけいさんするこうしきをまなび、ふくざつなおうようもんだいのえんしゅうにとりくんだ。
+- UK :: Вивчивши формулу обчислення загальної суми членів послідовності в математиці, ми взялися за розв'язування складних прикладних задач.
+- FOCUS :: 総和
+*** ex-1401890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 社会の幸福度とは個人の富の単純な総和ではなく、人々の安心感や人間関係の豊かさなど多様な要素が調和して成り立っている。
+- READING :: しゃかいのこうふくどとはこじんのとみのたんじゅんなそうわではなく、ひとびとのあんしんかんやにんげんかんけいのゆたかさなどたようなようそがちょうわしてなりたっている。
+- UK :: Рівень суспільного щастя полягає не просто в механічній сумі особистого багатства кожного, а у гармонійному поєднанні спокою та людських взаємин.
+- FOCUS :: 総和
+
+* Sense s-1401890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cce6eeaf837d7920c0396f9e047555eadf80dc044f449f0fb6870243cf2a4c0b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- summation
+** Ukrainian glosses
+*** uk-s-1401890-002-001
+:PROPERTIES:
+:END:
+- text :: підсумовування, операція додавання
+** Learner notes
+*** note-s-1401890-002-001
+:PROPERTIES:
+:END:
+- UK :: Математична операція послідовного додавання значень ряду чи числової послідовності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1401890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6f46a542c3aca8b04a263ba3f21899da14815fd444bf30f3347a204b7fb80435
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401890-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Summierung
+** Ukrainian glosses
+
+* Sense s-1401890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d746c21478220d785fe83e57ded6f3c823ca54dc761329276d317a32b7524d71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401890-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Summe
+*** en-s-1401890-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gesamtsumme
+** Ukrainian glosses
+
+* Sense s-1401890-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 70bf3bf14fd457928c07766bce76308a6e716df567ee9c6701bc65a4b5159274
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401890-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общая сумма; общий итог
+** Ukrainian glosses

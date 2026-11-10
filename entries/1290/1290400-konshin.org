@@ -1,0 +1,190 @@
+#+TITLE: 混信
+#+JMDICT_ID: 1290400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こんしん
+#+ROMAJI: konshin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1290400-001
+:PROPERTIES:
+:TEXT: 混信
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1290400-001
+:PROPERTIES:
+:TEXT: こんしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1290400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b263a56054e084ba9251bc6acbfd59eef0b6cf56bcf3351f8acbf55e09564415
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- jamming
+- interference
+- cross talk
+** Ukrainian glosses
+*** uk-s-1290400-001-001
+:PROPERTIES:
+:END:
+- text :: радіоперешкоди, накладання сигналів
+** Learner notes
+*** note-s-1290400-001-001
+:PROPERTIES:
+:END:
+- UK :: Явище накладання декількох радіосигналів або хвиль однакової частоти, що спричиняє спотворення звуку чи втрату зв'язку в радіоефірі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1290400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 同じ周波数の電波が重なって激しい混信が起きる。
+- READING :: おなじしゅうはすうのでんぱがかさなってはげしいこんしんがおきる。
+- UK :: Через накладання сигналів однакової частоти виникають сильні радіоперешкоди.
+- FOCUS :: 混信
+*** ex-1290400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山間部を走行中の車のラジオが隣国の強力な放送電波と混信し、心地よい音楽が激しい雑音にかき消されてしまった。
+- READING :: さんかんぶをそうこうちゅうのくるまのらじおがりんごくのきょうりょくなほうそうでんぱとこんしんし、ここちよいおんがくがはげしいざつおんにかきけされてしまった。
+- UK :: Автомобільний приймач у горах зазнав перешкод від потужної радіостанції сусідньої країни, і музику заглушив шум.
+- FOCUS :: 混信
+*** ex-1290400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海上を航行する船舶同士の緊急無線通信において、近隣の違法無線局からの不用意な電波が原因で致命的な混信が発生したため、遭難救助隊との交信が一時的に途絶え、沿岸警備隊が直ちに電波の発信源を特定して摘発に乗り出した。
+- READING :: かいじょうをこうこうするせんぱくどうしのきんきゅうむせんつうしんにおいて、きんりんのいほうむせんきょくからのふよういなでんぱがげんいんでちめいてきなこんしんがはっせいしたため、そうなんきゅうじょたいとのこうしんがいちじてきにとだえ、えんがんけいびたいがただちにでんぱのはっしんげんをとくていしててきはつにのりだした。
+- UK :: Через перешкоди від нелегального передавача зв'язок рятувальників із кораблем тимчасово обірвався, тож берегова охорона провела рейд.
+- FOCUS :: 混信
+
+* Sense s-1290400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d5d93082c9091e166367d56ac4623c9ba750f630542b3f1eec4b0ace68302ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Interferenz
+*** en-s-1290400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überlagerung (von Signalen auf der selben elektromagnetischen Frequenz)
+** Ukrainian glosses
+
+* Sense s-1290400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7a44e003f1ae9069d6c196bee60a8af6632aad72cb366352fa49c85ea957ff6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290400-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beavatkozás
+*** en-s-1290400-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egymásra hatás
+*** en-s-1290400-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogaskerekek megakadása
+*** en-s-1290400-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hullámmozgások összetevődése
+*** en-s-1290400-003-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavaró áthallás
+*** en-s-1290400-003-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavaró hatás
+** Ukrainian glosses
+
+* Sense s-1290400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2d85904bb5641c781c579584ea6b766af49149f2f38cf50b765165f62fff2ab7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (радио) помехи
+** Ukrainian glosses

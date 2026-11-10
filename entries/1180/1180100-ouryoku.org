@@ -1,0 +1,237 @@
+#+TITLE: 応力
+#+JMDICT_ID: 1180100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おうりょく
+#+ROMAJI: ouryoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1180100-001
+:PROPERTIES:
+:TEXT: 応力
+:END:
+** Reading rd-1180100-001
+:PROPERTIES:
+:TEXT: おうりょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1180100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dbc60ba14af344dbaca06cb49ce710ebe3858c29aa32ea694118220cb1cb105e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+- engr
+** English glosses
+- stress
+** Ukrainian glosses
+*** uk-s-1180100-001-001
+:PROPERTIES:
+:END:
+- text :: механічне напруження, напруга (у матеріалі)
+** Learner notes
+*** note-s-1180100-001-001
+:PROPERTIES:
+:END:
+- UK :: Внутрішні сили опору, що виникають в одиниці перерізу пружного матеріалу під дією зовнішнього навантаження чи деформації.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1180100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 構造材にかかる内部の応力を計算する。
+- READING :: こうぞうざいにかかるないぶのおうりょくをけいさんする。
+- UK :: Розраховувати внутрішнє механічне напруження в конструкції.
+- FOCUS :: 応力
+*** ex-1180100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 巨大な橋梁の設計においては、風や地震によって生じる複雑な応力の分布をコンピューター解析で正確に予測する。
+- READING :: きょだいなきょうりょうのせっけいにおいては、かぜやじしんによってしょうじるふくざつなおうりょくのぶんぷをこんぴゅーたーかいせきでせいかくによそくする。
+- UK :: Під час проєктування мостів комп'ютерний аналіз дозволяє точно розрахувати розподіл напружень від вітру й землетрусів.
+- FOCUS :: 応力
+*** ex-1180100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 航空機の翼に用いられる炭素繊維強化複合材料は、激しい気流の乱れによって瞬間的に集中する極限の応力に耐えうる優れた強度と軽量性を兼ね備えており、現代の航空宇宙産業に不可欠な素材である。
+- READING :: こうくうきのつばさにもちいられるたんそせんいきょうかふくごうざいりょうは、はげしいきりゅうのみだれによってしゅんかんてきにしゅうちゅうするきょくげんのおうりょくにたえうるすぐれたきょうどとけいりょうせいをかねそなえており、げんだいのこうくううちゅうさんぎょうにふかけつなそざいである。
+- UK :: Вуглецеві композити для крил літаків витримують екстремальні навантаження та напруження від турбулентності, поєднуючи міцність і легкість.
+- FOCUS :: 応力
+
+* Sense s-1180100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e7d49558fed4a9f85bbc16bb418f928a773d647a08c132dc8b70a9970794d934
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {techn.} spanning
+** Ukrainian glosses
+
+* Sense s-1180100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 92fc4aee2c2d68454afb0342ce72e1162c67676899edc25253a4c4352da9d006
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Belastung
+*** en-s-1180100-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spannung
+*** en-s-1180100-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Festigkeit
+** Ukrainian glosses
+
+* Sense s-1180100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b39e67f7307c98e5b5400e1f92dd2acb5f84eedce1c572bee303a9ff758983ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erőfeszítés
+*** en-s-1180100-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megpróbáltatás
+*** en-s-1180100-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyomaték
+*** en-s-1180100-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stressz
+*** en-s-1180100-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: feszültség
+** Ukrainian glosses
+
+* Sense s-1180100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4fa6fff8eff209931cc18c31ad4daae555ae56daa1f47d25c451d4c0d4b71774
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (тех.) напряжение; нажим
+** Ukrainian glosses
+
+* Sense s-1180100-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a0a65b7c498af4dae8f0a9b2da573165385c8f437b44fecccfafff2b908097bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estrés
+** Ukrainian glosses
+
+* Sense s-1180100-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b383883622fdf7d49003be205690a4ee3dcac327b5e7367ef1817cb3a6154cb0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1180100-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tryck
+** Ukrainian glosses

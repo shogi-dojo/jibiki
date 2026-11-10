@@ -1,0 +1,240 @@
+#+TITLE: 倍数
+#+JMDICT_ID: 1473290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばいすう
+#+ROMAJI: baisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1473290-001
+:PROPERTIES:
+:TEXT: 倍数
+:END:
+** Reading rd-1473290-001
+:PROPERTIES:
+:TEXT: ばいすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1473290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7bd8f640932dbe769c732bdb88a1a856da15a6e1a18dff54a7f58d6d1c9173ee
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- multiple
+** Ukrainian glosses
+*** uk-s-1473290-001-001
+:PROPERTIES:
+:END:
+- text :: кратне число, кратне
+** Learner notes
+*** note-s-1473290-001-001
+:PROPERTIES:
+:END:
+- UK :: Число, яке ділиться на інше число без залишку в математиці, або ціле числове збільшення певної вихідної величини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1473290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 数論において六は二と三の公倍数である。
+- READING :: すうろんにおいてろくはにとさんのこうばいすうである。
+- UK :: У теорії чисел шість є спільним кратним для двох і трьох.
+- FOCUS :: 倍数
+*** ex-1473290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 小学校の算数の授業で子供たちは、二つの異なる整数の倍数を書き並べて最小公倍数を求める計算方法を熱心に学んだ。
+- READING :: しょうがっこうのさんすうのじゅぎょうでこどもたちは、ふたつのことなるせいすうのばいすうをかきならべてさいしょうこうばいすうをもとめるけいさんほうほうをねっしんにまなんだ。
+- UK :: На уроці арифметики в молодшій школі діти старанно вивчали, як знаходити найменше спільне кратне, виписуючи кратні числа для двох цілих чисел.
+- FOCUS :: 倍数
+*** ex-1473290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: コンピューターのデータ処理においては、メモリのアクセス効率を最大化するためにデータ構造のサイズを特定のバイト数の倍数に整列させる設計が広く採用されている。
+- READING :: こんぴゅーたーのでーたしょりにおいては、めもりのあくせすこうりつをさいだいかするためにでーたこうぞうのさいずをとくていのばいとすうのばいすうにせいれつさせるせっけいがひろくさいようされている。
+- UK :: В обробці даних для максимальної ефективності доступу до пам'яті розмір структур вирівнюють за числом, кратним кількості байтів.
+- FOCUS :: 倍数
+
+* Sense s-1473290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 72561a850599862f410a6ff19d276de8d2e42c8cd97d8f5f0d60d612df9d0e90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473290-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vielfaches
+*** en-s-1473290-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zähler (in Brüchen)
+** Ukrainian glosses
+
+* Sense s-1473290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2dae9ccfb2460e0bc29294381eeecdabcdfb437925605ea5f1515b1d932a5498
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473290-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: többszörös
+*** en-s-1473290-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összetett
+*** en-s-1473290-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sokrétű
+*** en-s-1473290-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sokszoros
+*** en-s-1473290-003-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: többszörös
+** Ukrainian glosses
+
+* Sense s-1473290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e345860937f40c7abd089116908d4cb1c5cd7d29bca457418abbe7b4cc6d3cff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473290-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) кратное число
+*** en-s-1473290-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) удвоенное число
+*** en-s-1473290-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 8
+*** en-s-1473290-004-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ハチ
+*** en-s-1473290-004-005
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: の倍数は16
+*** en-s-1473290-004-006
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ジュウロク
+*** en-s-1473290-004-007
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  дважды восемь  шестнадцать
+** Ukrainian glosses
+
+* Sense s-1473290-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e682825040ffd2a673c838250ced86f2427205229ead06160cb06096ae8183b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473290-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multipel
+** Ukrainian glosses

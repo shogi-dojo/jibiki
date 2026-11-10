@@ -1,0 +1,220 @@
+#+TITLE: ブランチ
+#+JMDICT_ID: 1114070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ブランチ
+#+ROMAJI: buranchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1114070-001
+:PROPERTIES:
+:TEXT: ブランチ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1114070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 38bf492c85113ff81c2d978ee3e338246325446018740ddb1d89a6422e025400
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- branch
+** Ukrainian glosses
+*** uk-s-1114070-001-001
+:PROPERTIES:
+:END:
+- text :: відділення, філія, підрозділ; гілка програми
+** Learner notes
+*** note-s-1114070-001-001
+:PROPERTIES:
+:END:
+- UK :: Окремий підрозділ установи, банку чи корпорації в іншому місті або незалежна лінія розробки вихідного коду в системі контролю версій.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1114070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 来月オープンする新しいブランチの責任者に任命された。
+- READING :: らいげつおーぷんするあたらしいぶらんちのせきにんしゃににんめいされた。
+- UK :: Мене призначили керівником нової філії, що відкривається наступного місяця.
+- FOCUS :: ブランチ
+*** ex-1114070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ソフトウェアの共同開発においては、新機能ごとに作業用のブランチを作成し、テストが完了した後にメインのコードへと安全に統合する運用が一般的である。
+- READING :: そふとうぇあのきょうどうかいはつにおいては、しんきのうごとにさぎょうようのぶらんちをさくせいし、てすとがかんりょうしたのちにめいんのこーどへとあんぜんにとうごうするうんようがいっぱんてきである。
+- UK :: Під час командної розробки програмного забезпечення для кожної нової функції зазвичай створюють робочу гілку, яку після успішного тестування безпечно зливають з основним кодом.
+- FOCUS :: ブランチ
+*** ex-1114070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 外資系金融機関の東京ブランチは、アジア市場における重要な取引拠点として機能しており、世界中の投資家に向けて高度な金融サービスを提供している。
+- READING :: がいしけいきんゆうきかんのとうきょうぶらんちは、あじあしじょうにおけるじゅうようなとりひききょてんとしてきのうしており、せかいじゅうのとうしかにむけてこうどなきんゆうさーびすをていきょうしている。
+- UK :: Токійська філія міжнародної фінансової установи функціонує як ключовий торговельний центр на ринку Азії та надає високоякісні фінансові послуги інвесторам з усього світу.
+- FOCUS :: ブランチ
+
+* Sense s-1114070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ac27043c78495d54295ba9fc3740f47a5f799cdbe1aa389d9d89bdb2d82fe7a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114070-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brunch
+** Ukrainian glosses
+
+* Sense s-1114070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 864203f68863e81151bd3267f7cd65eda17bd015dfbc6c24c24d5e973d918117
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114070-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} branch
+*** en-s-1114070-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertakking
+** Ukrainian glosses
+
+* Sense s-1114070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0d694e44cf70bf0ccdc9281d35eab0255833e9541532d67f3119cace454e98a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114070-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brunch (das Mittagessen ersetzendes Frühstück)
+*** en-s-1114070-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zweig
+*** en-s-1114070-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abteilung
+*** en-s-1114070-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sektion
+** Ukrainian glosses
+
+* Sense s-1114070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b02ae57d987d0aa50392544551f745d61e8c2fa5c281dd4e16232737729f4284
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114070-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ág
+*** en-s-1114070-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: villásreggeli
+** Ukrainian glosses
+
+* Sense s-1114070-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 04d8d4579ce5d58a1bc11a329f69142f4a7694e5ba10117a343ebca79fe523da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114070-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) branch)
+*** en-s-1114070-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) отделение, филиал
+*** en-s-1114070-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) отвод (телефона)
+** Ukrainian glosses

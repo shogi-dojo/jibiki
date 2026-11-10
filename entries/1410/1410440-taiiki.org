@@ -1,0 +1,475 @@
+#+TITLE: 帯域
+#+JMDICT_ID: 1410440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいいき
+#+ROMAJI: taiiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-09
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1410440-001
+:PROPERTIES:
+:TEXT: 帯域
+:END:
+** Reading rd-1410440-001
+:PROPERTIES:
+:TEXT: たいいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1410440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 36061085cdfbff9499fef15716ddfeeaf4a22c8fb8d2502d451ddb781d201c74
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- band
+- zone
+- range
+** Ukrainian glosses
+*** uk-s-1410440-001-001
+:PROPERTIES:
+:END:
+- text :: діапазон частот, смуга частот, зона
+** Learner notes
+*** note-s-1410440-001-001
+:PROPERTIES:
+:END:
+- UK :: Певний діапазон радіочастот, спектральних довжин хвиль або оптичного випромінювання, призначений для стабільного передавання сигналів чи наукових досліджень.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1410440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 通信技術の進歩で利用可能な帯域が拡大した。
+- READING :: つうしんぎじゅつのしんぽでりようかのうなたいいきがかくだいした。
+- UK :: Завдяки розвитку технологій зв'язку доступний діапазон частот значно розширився.
+- FOCUS :: 帯域
+*** ex-1410440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高画質の動画配信サービスを途切れずに視聴するためには、高速で安定したネットワーク帯域を十分に確保することが不可欠である。
+- READING :: こうがしつのどうがはいしんさーびすをとぎれずにしちょうするためには、こうそくであんていしたねっとわーくたいいきをじゅうぶんにかくほすることがふかけつである。
+- UK :: Щоб безперешкодно дивитися відео високої чіткості, вкрай необхідно мати стабільну й широку смугу пропускання мережі.
+- FOCUS :: 帯域
+*** ex-1410440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 宇宙観測衛星は、電波から可視光線やガンマ線に至るまで極めて幅広い電磁波の帯域を捉える精密センサーを搭載して宇宙の深部を探索している。
+- READING :: うちゅうかんそくえいせいは、でんぱからかしこうせんやがんませんにいたるまできわめてはばひろいでんじはのたいいきをとらえるせいみつせんさーをとうさいしてうちゅうのしんぶをたんさくしている。
+- UK :: Астрономічний супутник оснащений прецизійними сенсорами, що вловлюють надзвичайно широкий діапазон електромагнітних хвиль — від радіохвиль до гамма-променів.
+- FOCUS :: 帯域
+
+* Sense s-1410440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f9b1c05296ded17a9b0c386ceb9032db71959c23065dbe90aa78ace7acb9554
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 帯域幅
+** English glosses
+- bandwidth
+** Ukrainian glosses
+*** uk-s-1410440-002-001
+:PROPERTIES:
+:END:
+- text :: пропускна здатність, смуга пропускання каналу зв'язку
+** Learner notes
+*** note-s-1410440-002-001
+:PROPERTIES:
+:END:
+- UK :: Ширина каналу передачі даних або максимальний обсяг цифрової інформації, переданий за одиницю часу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1410440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4e377c4b21fbdc389d12374d7b6ebf270daa85272d5624c34e31919da4b5ac7d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410440-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: band
+*** en-s-1410440-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {周波数の} frequentieband
+** Ukrainian glosses
+
+* Sense s-1410440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8e159dca408aa6ec1963742bfaf43cd5df26e00bead2c4de29e01fc5e4f8676f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410440-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Band
+*** en-s-1410440-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zone
+*** en-s-1410440-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bereich
+** Ukrainian glosses
+
+* Sense s-1410440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cb2a2b57a3f3d2d52caeda1acfb7ac7f8e91f96fd8c84291654edc3aa31bfb81
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410440-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: éghajlati öv
+*** en-s-1410440-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: égöv
+*** en-s-1410440-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földöv
+*** en-s-1410440-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abroncs
+*** en-s-1410440-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aknamerevítő abroncs
+*** en-s-1410440-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: banda
+*** en-s-1410440-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beágyazódás
+*** en-s-1410440-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csík
+*** en-s-1410440-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyesület
+*** en-s-1410440-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egykomponens-sáv
+*** en-s-1410440-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: földrajzi övezet
+*** en-s-1410440-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: futószalag
+*** en-s-1410440-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gézpólya
+*** en-s-1410440-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajszalag
+*** en-s-1410440-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajtószíj
+*** en-s-1410440-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hullámsáv
+*** en-s-1410440-005-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: katonazenekar
+*** en-s-1410440-005-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közbetelepülés
+*** en-s-1410440-005-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közbetelepült vékony réteg
+*** en-s-1410440-005-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mérőszalag
+*** en-s-1410440-005-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összekötő heveder
+*** en-s-1410440-005-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összekötő pánt
+*** en-s-1410440-005-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pad
+*** en-s-1410440-005-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pamutzsinór
+*** en-s-1410440-005-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szállítószalag
+*** en-s-1410440-005-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tánczenekar
+*** en-s-1410440-005-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vasalás
+*** en-s-1410440-005-028
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaskarika
+*** en-s-1410440-005-029
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vaspánt
+*** en-s-1410440-005-030
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vászonpólya
+*** en-s-1410440-005-031
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vékony érczsinór
+*** en-s-1410440-005-032
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vékony érccsík
+*** en-s-1410440-005-033
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vékony rétegben lerakódott agyag
+*** en-s-1410440-005-034
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zárvány
+*** en-s-1410440-005-035
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenekar
+** Ukrainian glosses
+
+* Sense s-1410440-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 56b81d11738352f17b46fade513a70c928b5c22efa68b783561bb1e6a51c5b45
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1410440-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) зона
+** Ukrainian glosses
