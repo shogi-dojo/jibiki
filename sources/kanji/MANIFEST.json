@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "name": "KANJIDIC2",
+      "file": "kanjidic2.xml.gz",
+      "url": "http://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+      "file_version": "4",
+      "database_version": "2026-314",
+      "date_of_creation": "2026-11-10",
+      "sha256": "624edb951655f2195d98c43702d534099fac9fcade6011d5af9e2ae1ef719dcf",
+      "licence": "CC BY-SA 4.0",
+      "licence_url": "https://www.edrdg.org/edrdg/licence.html",
+      "attribution": "KANJIDIC2 © Electronic Dictionary Research and Development Group (EDRDG), used under CC BY-SA 4.0."
+    },
+    {
+      "name": "KanjiVG",
+      "file": "kanjivg-20260714.xml.gz",
+      "url": "https://github.com/KanjiVG/kanjivg/releases/download/r20260714/kanjivg-20260714.xml.gz",
+      "release": "r20260714",
+      "sha256": "d4a8e5e11533fe6a5d81a158b2c153964322641d2982c90a919461f3c06dca6b",
+      "licence": "CC BY-SA 3.0",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "KanjiVG © Ulrich Apel, used under CC BY-SA 3.0. https://kanjivg.tagaini.net"
+    }
+  ]
+}
