@@ -29,6 +29,8 @@ rake jb:test             # CRuby checks, then `spin test`: each test compiled an
 tools/jb/install/install.sh   # native binary to ~/.local/bin/jb, or a CRuby shim without spin
 ```
 
+`rake jb:build` and the installer delete the old binary first: `spin build` only checks `tools/jb` for changes, so after an edit to `lib/` a plain `spin build jb` reports "up to date" and keeps the stale binary. Rake tasks also refuse a binary older than any source and fall back to CRuby.
+
 Always build the `jb` target by name. A bare `spin build` also compiles `bin/test.rb`, and a binary called `test` on PATH shadows the shell builtin.
 
 ## Keeping lib/ compilable

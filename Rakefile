@@ -251,6 +251,9 @@ namespace :jb do
 
   desc 'Compile the jb CLI with Spinel into tools/jb/build/bin/jb (needs spin on PATH)'
   task :build do
+    # spin judges staleness by tools/jb alone and would keep a binary that
+    # predates an edit to lib/, so always rebuild from scratch.
+    rm_f File.join(JB_DIR, 'build', 'bin', 'jb')
     Dir.chdir(JB_DIR) { sh 'spin', 'build', 'jb' }
   end
 

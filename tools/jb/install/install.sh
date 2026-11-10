@@ -54,6 +54,8 @@ if [ "$mode" = native ]; then
   echo "Building jb with Spinel..."
   # Name the target: a bare build would also compile bin/test.rb, and a binary
   # called `test` on PATH shadows the shell builtin.
+  # Always rebuild: spin checks only tools/jb for changes, not the lib/ it compiles.
+  rm -f "$pkg/build/bin/jb"
   ( cd "$pkg" && spin build jb ) || fail "spin build failed"
   cp "$pkg/build/bin/jb" "$tmp/jb"
   chmod 755 "$tmp/jb"
