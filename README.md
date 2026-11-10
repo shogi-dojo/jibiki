@@ -121,43 +121,14 @@ rake "fingerprints:refresh[entries/1381/1381380-ao.org]" # or one entry
 This rewrites only `SOURCE_FINGERPRINT` and the archive-hash header. The derived
 sections are left alone, so review any entry it reports against JMdict.
 
-Validate one entry with:
+Validate, lint, or check entries with:
 
 ```sh
-rake "entries:validate[entries/1381/1381380-ao.org]"
-rake "entries:lint[entries/1381/1381380-ao.org]"
+rake "entries:validate[entries/1381/1381380-ao.org]"     # several paths: space-separated in the brackets
+rake "entries:lint[entries/1381/1381380-ao.org]"         # jb's native org-lint checkers
+rake "entries:check[entries/1381/1381380-ao.org]"        # validate + doctor + lint (YANAGI=1, EMACS=1 add more)
+rake "doctor:entry[entries/1381/1381380-ao.org]"         # health score and findings for one entry
 ```
-
-### Fast loop for batches
-
-`tools/jb` runs the per-batch steps in one process: plain Ruby with no gems,
-compiled into a native binary when Spinel is installed. Set it up once per
-JMdict archive:
-
-```sh
-rake jmdict:index               # ~1.5 min on all cores; the validator and jb read JMdict through it
-tools/jb/install/install.sh     # ~/.local/bin/jb: native with Spinel, else a CRuby shim
-```
-
-Then, for each batch of ~10 authored entries:
-
-```sh
-jb check --yanagi entries/…/a.org entries/…/b.org …   # validate + doctor + lint in one process
-jb commit entries/…/a.org entries/…/b.org …           # one "feat: add <word> vocabulary entry" commit each
-jb checkpoint --sources tmp/<set>-sources.json --baseline tmp/<set>-baseline \
-  --ledger docs/<ledger-1>.tsv --ledger docs/<ledger-2>.tsv … --set-names First,Second … --date YYYY-MM-DD
-rake test:fast                                        # everything but the two corpus-wide tests
-```
-
-`jb lint` restates the org-lint checkers that can fire on entries, so the loop
-skips Emacs. `jb check --emacs` adds Emacs as well, and `rake org:lint` (part of
-`rake`) remains the authoritative full-corpus check. Run the full `rake test`
-before opening a PR. After a JMdict refresh, rerun `rake jmdict:index`;
-`scripts/validate_entry.rb` falls back to scanning the archive (seconds per run)
-until the index exists, while `jb` stops and asks for it.
-
-`scripts/bench_loop.sh <label>` measures every loop step (wall time, CPU,
-peak memory) into `build/bench/`.
 
 Run the full local quality gate with:
 
@@ -165,8 +136,86 @@ Run the full local quality gate with:
 rake
 ```
 
-The default task runs extractor unit tests, validates all entries against the
-local JMdict archive, runs `org-lint` on entries, and runs the corpus doctor.
+The default task runs the tests, validates all entries against the local JMdict
+archive, runs Emacs `org-lint` on every entry, runs the corpus doctor, and
+checks the transliteration gold set.
+
+## The jb loop CLI
+
+`jb` (`tools/jb`) runs the per-batch steps of adding words in one process. It
+is plain Ruby with no gems, so it runs under CRuby as `ruby tools/jb/bin/jb.rb`
+and compiles with [Spinel](https://github.com/matz/spinel) into a native binary
+that starts in milliseconds. `jb --help` prints the overview, and
+`jb help <command>` (or `jb <command> --help`) prints the full reference for one
+command: its options, output, exit codes, and an example.
+
+### Setup
+
+```sh
+rake jmdict:index              # once per JMdict archive: ~1.5 min on all cores, writes tmp/cache/
+tools/jb/install/install.sh    # ~/.local/bin/jb: native if `spin` is on PATH, else a CRuby shim
+```
+
+The index holds each JMdict sense's fingerprint and gloss languages, which is
+everything the validator and doctor read from JMdict. It is named after the
+archive's SHA-256, so rerun `rake jmdict:index` after downloading a new
+archive. Without an index, `jb` exits 3 and says so, and
+`scripts/validate_entry.rb` falls back to scanning the archive, which takes
+seconds per run. To build the native binary, see `tools/jb/DEVELOPING.md`
+(Spinel is built from source; `rake jb:build`, `rake jb:test`). Without
+Spinel, everything works the same through CRuby, just more slowly.
+
+### Per batch (~10 authored entries)
+
+Run these from the repository root, with the batch's entry paths in place of
+`<paths>`:
+
+1. `jb check --yanagi <paths>` runs validate, doctor and lint, plus the yanagi
+   transliteration audit. Fix what it reports and rerun until it exits 0. Each
+   failing step's full output follows the summary lines.
+2. `jb commit <paths>` makes one commit per entry, in the order given, titled
+   `feat: add <#+TITLE> vocabulary entry`. It refuses to start if anything is
+   already staged. Run it only after `jb check` passes.
+3. `jb checkpoint --sources tmp/<set>-sources.json --baseline tmp/<set>-baseline --ledger docs/<set-ledger>.tsv [--ledger ...] --set-names <Name>,... --date <YYYY-MM-DD>`
+   fills each ledger's `add_commit` column, rewrites the set's PROGRESS.md
+   section, and writes the state file. It finds the commits with one `git log`.
+4. `rake test:fast` runs everything except the two corpus-wide tests (about
+   20 s, against about 80 s for the full suite).
+
+Before opening a pull request, run the full `rake test`. Running `rake` also
+covers Emacs org-lint and the whole corpus.
+
+### Commands
+
+| command | what it does | fails (exit 2) when |
+|---|---|---|
+| `jb check [--yanagi] [--emacs] <paths>` | validate + doctor + lint; `--yanagi` adds the transliteration audit, `--emacs` adds Emacs org-lint | any step fails |
+| `jb validate [--json] <paths>` | the validator, same output as `scripts/validate_entry.rb` | any entry is invalid |
+| `jb doctor [--json] [--with-jmdict] <paths>` | health scores and editorial findings | any finding is an error |
+| `jb lint [--json] <paths>` | org-lint's checkers for entry files, same names, lines and messages as Emacs | any finding |
+| `jb commit [--dry-run] [--template T] <paths>` | one commit per entry | something is staged, or git refuses |
+| `jb checkpoint --sources F --baseline B --ledger P...` | ledgers, PROGRESS.md section, state file | the commits don't match the selection order |
+| `jb jmdict <ids>` | the indexed senses (fingerprints) of JMdict entries, as JSON | an id is unknown |
+
+Every command exits 0 on success, 1 on a usage error, 2 when it found problems,
+and 3 when the JMdict index is missing (run `rake jmdict:index`).
+
+### Rake tasks on jb
+
+The common rake tasks run `jb`:
+
+- `entries:validate`, `entries:lint`, `entries:check`, `entries:commit`
+- `doctor`, `doctor:entry`
+- `jmdict:lookup`
+
+They use `tools/jb/build/bin/jb` when it is newer than every source file, and
+fall back to CRuby otherwise. `JB=/path/to/jb` picks a binary explicitly.
+Corpus-wide runs pass the entries to `jb` in batches of `JB_BATCH` paths (1000
+by default), one process per batch, so peak memory stays around 30 MB however
+large the corpus grows. `rake org:lint` still runs Emacs over every entry.
+
+`scripts/bench_loop.sh <label>` measures every loop step (wall time, CPU, peak
+memory, page faults) into `build/bench/<label>-<date>.md`.
 
 ## Web contributions
 
@@ -235,10 +284,14 @@ See [`docs/export-formats.md`](docs/export-formats.md) for full schema documenta
 - `entries/` — canonical authored Org dictionary entries
 - `lib/dictionary_sources/` — reusable source readers and parsers
 - `scripts/` — command-line extraction and validation tools
+- `tools/jb/` — the `jb` loop CLI (Spinel-compilable; see `tools/jb/DEVELOPING.md`)
+- `rakelib/` — rake tasks that run `jb`
+- `lib/generated/` — tables generated from yanagi and Ruby's Unicode data (`scripts/gen_*.rb`)
 - `docs/` — durable schema, export, integration, and transliteration policies
 - `assets/` — ignored locally generated media and manifests
 - `sources/` — ignored upstream inputs
 - `tmp/source-extracts/` — ignored private source dossiers
+- `tmp/cache/` — ignored JMdict index built by `rake jmdict:index`
 
 ## Licensing
 
