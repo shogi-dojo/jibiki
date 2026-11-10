@@ -4,7 +4,6 @@ require 'digest'
 require 'fileutils'
 require 'tmpdir'
 require_relative 'dictionary_sources/jmdict'
-require_relative 'exporters/houhou_vocab_matcher'
 require_relative 'org_entry'
 require 'yanagi'
 

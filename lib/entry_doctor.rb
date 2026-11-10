@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative 'org_entry'
-require_relative 'exporters/houhou_vocab_matcher'
+require_relative 'kana'
 require_relative 'dictionary_sources/jmdict'
 
 module EntryDoctor
@@ -64,8 +64,8 @@ module EntryDoctor
     def kana_skeleton(str)
       return [] if str.nil?
 
-      normalized = Exporters::HouhouVocabMatcher.nfkc(str.to_s).gsub(/[ヶヵゖゕ]/, 'か')
-      hira = Exporters::HouhouVocabMatcher.to_hiragana(normalized)
+      normalized = Kana.nfkc(str.to_s).gsub(/[ヶヵゖゕ]/, 'か')
+      hira = Kana.to_hiragana(normalized)
       hira.chars.select do |ch|
         cp = ch.ord
         cp >= 0x3041 && cp <= 0x3096 && ch != 'ー' && ch != 'っ'
