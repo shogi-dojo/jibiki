@@ -228,3 +228,9 @@ Upstream sources in `sources/` are third-party works, are excluded from this
 repository, and are not licensed here. Warodai in particular is CC BY-NC-ND
 3.0: no Warodai text is present in this repository, and its content must not
 be copied, translated, or published as part of this project.
+
+## Kanji records
+
+Character metadata, stroke sources and Ukrainian draft meanings are described in
+[docs/kanji.md](docs/kanji.md). Run `bundle exec rake kanji:validate` and
+`ruby scripts/kanji_drafts.rb coverage` to validate the corpus and distinguish drafts from source gaps.

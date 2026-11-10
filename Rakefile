@@ -239,3 +239,10 @@ end
 
 desc 'Test extractors, validate entries, Org-lint files, and check transliteration'
 task default: [:test, 'entries:validate', 'org:lint', :doctor, 'translit:gold']
+
+namespace :kanji do
+  desc 'Validate canonical kanji records and source fingerprints'
+  task :validate do
+    sh RUBY, 'scripts/validate_kanji.rb'
+  end
+end
