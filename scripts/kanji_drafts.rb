@@ -14,7 +14,7 @@
 require 'fileutils'
 require_relative '../lib/kanji'
 
-ROOT = File.expand_path('..', __dir__)
+ROOT = ENV.fetch('KANJI_DRAFT_ROOT', File.expand_path('..', __dir__))
 RECORDS = File.join(ROOT, 'kanji')
 BATCHES = File.join(ROOT, 'drafts', 'kanji')
 
@@ -22,8 +22,8 @@ def records
   Dir[File.join(RECORDS, 'U+*.org')].sort.map { |path| Kanji::Record.load(path) }
 end
 
-# Characters with an English meaning in the source are translated by hand, in batches; the rest get
-# a placeholder that says the source gives no meaning (see placeholders).
+# Only characters with source meanings receive translation drafts. The placeholder TSV is an
+# inventory of source gaps, never translation content and never applied to records.
 def with_meanings
   records.select { |record| record.source.meanings.any? }
 end
@@ -49,10 +49,14 @@ def placeholders
 end
 
 def batch_drafts
-  Dir[File.join(BATCHES, '*.tsv')].sort.each_with_object({}) do |path, drafts|
+  Dir[File.join(BATCHES, 'batch-*.tsv')].sort.each_with_object({}) do |path, drafts|
     File.foreach(path, encoding: 'UTF-8') do |line|
       code, text = line.chomp.split("\t", 2)
       next if code.nil? || text.nil? || text.strip.empty?
+
+      raise "duplicate draft #{code} in #{path}" if drafts.key?(code)
+      raise "invalid codepoint #{code.inspect}" unless code.match?(Kanji::Record::CODEPOINT_FORMAT)
+      raise "invalid draft text for #{code}" if text.match?(/[\t\r\n]/)
 
       drafts[code] = text.strip
     end
@@ -65,13 +69,17 @@ def apply
   skipped = 0
   drafts.each do |codepoint, text|
     path = File.join(RECORDS, "#{codepoint}.org")
-    next skipped += 1 unless File.exist?(path)
+    raise "unknown character #{codepoint}" unless File.exist?(path)
 
     record = Kanji::Record.load(path)
+    raise "no English source meanings for #{codepoint}" if record.source.meanings.empty?
+    raise Kanji::Validator.call(record).join('; ') unless Kanji::Validator.call(record).empty?
+    next skipped += 1 if record.translations.any? { |translation| translation.status == 'reviewed' }
+
     translations = record.translations.dup
     existing = translations.find { |translation| translation.status == 'draft' && translation.reviewed_by.nil? }
     if existing
-      next skipped += 1 if existing.text == text
+      next skipped += 1 if existing.text == text && record.keywords['DRAFT_ORIGIN'] == 'codex'
 
       translations[translations.index(existing)] = existing.with(text: text)
     elsif translations.none? { |translation| translation.status == 'reviewed' }
@@ -81,7 +89,9 @@ def apply
     else
       next skipped += 1 # a reviewed translation already stands; the draft is not needed
     end
-    File.write(path, Kanji::Writer.render(keywords: record.keywords, source: record.source, translations: translations),
+    keywords = record.keywords.merge('DRAFT_ORIGIN' => 'codex',
+                                    'DRAFT_SOURCE_FINGERPRINT' => record.computed_fingerprint)
+    File.write(path, Kanji::Writer.render(keywords: keywords, source: record.source, translations: translations),
                encoding: 'UTF-8')
     written += 1
   end
@@ -92,7 +102,8 @@ def coverage
   counts = Hash.new(0)
   records.each do |record|
     statuses = record.translations.map(&:status)
-    key = if statuses.include?('reviewed') then 'reviewed'
+    key = if record.source.meanings.empty? then 'source_meaning_unavailable'
+          elsif statuses.include?('reviewed') then 'reviewed'
           elsif statuses.include?('draft') then 'draft'
           else 'missing'
           end
@@ -106,5 +117,14 @@ when 'dump' then dump(Integer(ARGV[1]), Integer(ARGV[2]))
 when 'apply' then apply
 when 'placeholders' then placeholders
 when 'coverage' then coverage
+when 'validate'
+  problems = records.flat_map do |record|
+    Kanji::Validator.call(record, filename: "#{record.codepoint}.org").map { |problem| "#{record.codepoint}: #{problem}" }
+  end
+  abort problems.first(20).join("\n") unless problems.empty?
+  drafts = batch_drafts
+  missing = with_meanings.reject { |record| drafts.key?(record.codepoint) || record.translations.any? { |t| t.status == 'reviewed' } }
+  abort "missing batches for #{missing.map(&:codepoint).join(', ')}" unless missing.empty?
+  coverage
 else abort 'usage: kanji_drafts.rb dump START COUNT | apply | coverage'
 end
