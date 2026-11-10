@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
+require 'json'
 require 'minitest/autorun'
+require 'stringio'
 require_relative '../lib/entry_validator'
 require_relative '../lib/org_entry/patch'
 
@@ -16,6 +18,16 @@ class EntryValidatorTextTest < Minitest::Test
     errors = EntryValidator.validate_text(AO.sub("- text :: синій колір\n", "- text :: синій колір \n"))
 
     assert(errors.any? { |error| error.include?('trailing whitespace') })
+  end
+
+  def test_run_reports_json_and_fails_the_batch
+    io = StringIO.new
+    code = EntryValidator.run([File.join(ROOT, 'entries/does-not-exist.org')], io: io, json: true)
+    report = JSON.parse(io.string)
+
+    assert_equal 2, code
+    assert_equal 1, report['failed_entries']
+    assert_includes report['entries'].first['errors'].first, 'File does not exist'
   end
 
   def test_rejects_text_without_identity_headers

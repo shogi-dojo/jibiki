@@ -1,0 +1,4 @@
+# Spinel package manifest. `spin build jb` compiles bin/jb.rb into ./build/bin/jb.
+# Verified with spinel 719eae49 on macOS arm64: see DEVELOPING.md.
+name = "jb"
+version = "0.1.0"

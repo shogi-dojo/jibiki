@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "sequel"
-require "yanagi"
+require_relative "../kana"
 
 module Exporters
   # Builds a lookup table from the Houhou KanjiDatabase VocabSet table so that
@@ -17,21 +17,15 @@ module Exporters
   #   # => [{vocab_id: 12345, is_main: true}, ...]
   #   matcher.close
   class HouhouVocabMatcher
-    # Katakana codepoint range: ァ (U+30A1) .. ヶ (U+30F6).
-    # Shift by −0x60 converts each to the corresponding hiragana.
-    KATA_START = 0x30A1
-    KATA_END   = 0x30F6
-    KATA_SHIFT = 0x60
-
-    # Kana normalisation is provided by the yanagi gem, which owns the single
-    # implementation shared with the meijin repo. Kept as delegating wrappers
-    # so existing callers and tests keep their current entry point.
+    # Kana normalisation lives in lib/kana.rb (a gem-free restatement of
+    # Yanagi::Normalize). Kept as delegating wrappers so existing callers and
+    # tests keep their current entry point.
     def self.to_hiragana(str)
-      Yanagi::Normalize.to_hiragana(str)
+      Kana.to_hiragana(str)
     end
 
     def self.nfkc(str)
-      Yanagi::Normalize.nfkc(str)
+      Kana.nfkc(str)
     end
 
     # Compute the lookup key used for matching.

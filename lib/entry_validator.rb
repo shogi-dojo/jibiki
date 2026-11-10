@@ -1,12 +1,13 @@
 # frozen_string_literal: true
 
 require 'digest'
+require 'json'
 require 'fileutils'
 require 'tmpdir'
-require_relative 'dictionary_sources/jmdict'
-require_relative 'exporters/houhou_vocab_matcher'
+require_relative 'dictionary_sources/jmdict_index'
 require_relative 'org_entry'
-require 'yanagi'
+require_relative 'romaji'
+require_relative 'generated/unicode_scripts'
 
 # The entry validator behind `rake entries:validate` (docs/org-format.md §18).
 # Its functions are module functions, so library users call
@@ -36,7 +37,7 @@ module EntryValidator
   def valid_jmdict_shas
     @valid_jmdict_shas ||= begin
       shas = KNOWN_JMDICT_SHA256S.dup
-      shas << Digest::SHA256.file(JMDICT_PATH).hexdigest if File.exist?(JMDICT_PATH)
+      shas << DictionarySources::JmdictIndex.archive_sha256(JMDICT_PATH) if File.exist?(JMDICT_PATH)
       shas.uniq
     end
   end
@@ -44,10 +45,11 @@ module EntryValidator
   STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
 
-  # Romaji rendering is provided by the yanagi gem, which owns the single
-  # kana->Hepburn implementation shared with the meijin repo.
+  # Romaji rendering follows the yanagi gem, which owns the kana->Hepburn
+  # rules shared with the meijin repo; lib/romaji.rb restates it without the
+  # gem so the validator compiles under Spinel.
   def to_romaji(str)
-    Yanagi.romaji(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di').gsub('iぇ', 'ye')
+    Romaji.call(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di').gsub('iぇ', 'ye')
   end
 
   def romaji_matches?(reading, romaji)
@@ -71,29 +73,39 @@ module EntryValidator
     'text' => ['Приклад.']
   }.freeze
 
-  # Reading the gzipped archive dominates runtime, so keep one reader and one
-  # cache per process: validating N entries must not mean N full archive scans.
-  def jmdict
-    @jmdict ||= DictionarySources::Jmdict.new(JMDICT_PATH)
+  # Raised when an entry needs JMdict but there is neither an index nor an
+  # archive reader to answer from (the compiled `jb`, before `rake jmdict:index`).
+  class MissingJmdictIndex < StandardError; end
+
+  # Readers that answer from the gzipped archive itself, used when no index
+  # has been built. lib/entry_validator/archive_fallback.rb registers the
+  # REXML one for CRuby callers; the Spinel build registers none, so a missing
+  # index is an error there instead of a silent full-archive scan.
+  ARCHIVE_READERS = []
+
+  # Where JMdict entries come from: the index when it is built for the archive
+  # on disk, otherwise an archive reader. Either answers #entry(ent_seq).
+  def jmdict_source
+    @jmdict_source ||= DictionarySources::JmdictIndex.open(JMDICT_PATH) || archive_reader
+  end
+
+  def archive_reader
+    if ARCHIVE_READERS.empty?
+      raise MissingJmdictIndex, "no JMdict index for #{JMDICT_PATH}: run `rake jmdict:index`"
+    end
+
+    ARCHIVE_READERS.first.call(JMDICT_PATH)
   end
 
   def jmdict_entry(ent_seq)
-    @jmdict_entries ||= {}
-    @jmdict_entries.fetch(ent_seq) do
-      @jmdict_entries[ent_seq] = jmdict.lookup(ent_seq:).first
-    end
+    jmdict_source.entry(ent_seq)
   end
 
-  # Prime the cache for many entries in a single archive pass.
+  # Lets an archive reader answer many entries in one pass. The index needs
+  # no warming: each lookup is a few seeks.
   def preload_jmdict_entries(ent_seqs)
-    ent_seqs = ent_seqs.compact.uniq
-    return if ent_seqs.length < 2
-
-    @jmdict_entries ||= {}
-    queries = ent_seqs.map { |seq| { ent_seq: seq } }
-    jmdict.lookup_many(queries).each_with_index do |matches, index|
-      @jmdict_entries[ent_seqs[index]] = matches.first
-    end
+    source = jmdict_source
+    source.preload(ent_seqs.compact.uniq) if source.respond_to?(:preload)
   end
 
   def duplicate_jmdict_id_errors(paths)
@@ -175,14 +187,14 @@ module EntryValidator
         errors << "Line #{line_num} has trailing whitespace"
       end
 
-      if line.match?(/^- (?:JA|READING|FOCUS) :: .*\p{Cyrillic}/)
+      if line.match?(/^- (?:JA|READING|FOCUS) :: /) && UnicodeScripts::CYRILLIC.match?(line)
         errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
       end
 
       if line =~ /^- READING :: (.*)$/
         reading_val = $1
         reading_without_ruby = reading_val.gsub(/\[.*?\]/, '')
-        if reading_without_ruby.match?(/\p{Han}/)
+        if UnicodeScripts::HAN.match?(reading_without_ruby)
           errors << "Line #{line_num} READING contains kanji: #{reading_val}"
         end
       end
@@ -441,6 +453,38 @@ module EntryValidator
     end
 
     errors
+  end
+
+  # The command-line run shared by scripts/validate_entry.rb and `jb validate`:
+  # validates every path, prints the progress and verdict lines (or, with
+  # json, one JSON document) to io, and returns the exit code: 2 when any entry
+  # failed, 0 otherwise. Results are written as each entry finishes and only
+  # counters are kept, so memory does not grow with the number of paths.
+  def run(paths, io: $stdout, json: false)
+    preload_jmdict_entries(paths.filter_map do |path|
+      next unless File.exist?(path)
+
+      File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
+    end)
+    duplicate_errors = duplicate_jmdict_id_errors(paths)
+
+    failed = 0
+    io.print '{"entries":[' if json
+    paths.each_with_index do |path, index|
+      errors = validate_entry(path, log: json ? nil : io) + duplicate_errors.fetch(path, [])
+      failed += 1 unless errors.empty?
+      if json
+        io.print ',' if index.positive?
+        io.print JSON.generate({ 'path' => path, 'errors' => errors })
+      elsif errors.empty?
+        io.puts 'Validation PASSED successfully!'
+      else
+        io.puts "Validation FAILED with #{errors.length} errors:"
+        errors.each { |err| io.puts "- #{err}" }
+      end
+    end
+    io.puts "],\"total_entries\":#{paths.length},\"failed_entries\":#{failed}}" if json
+    failed.positive? ? 2 : 0
   end
 
   # Validates entry text that is not on disk yet, such as a patched entry.
