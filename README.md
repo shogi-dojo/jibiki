@@ -13,6 +13,8 @@ used under CC BY-SA 4.0.
 
 - Ruby with Bundler (run `bundle install` to install dependencies)
 - Emacs for the `org-lint` task
+- optionally [Spinel](https://github.com/matz/spinel), to compile the `jb` loop
+  CLI into a native binary (see `tools/jb/DEVELOPING.md`)
 - ignored local sources described in `sources/README.md`:
   - `sources/jmdict/JMdict.xml.gz`
   - `sources/warodai/`
@@ -125,6 +127,37 @@ Validate one entry with:
 rake "entries:validate[entries/1381/1381380-ao.org]"
 rake "entries:lint[entries/1381/1381380-ao.org]"
 ```
+
+### Fast loop for batches
+
+`tools/jb` runs the per-batch steps in one process: plain Ruby with no gems,
+compiled into a native binary when Spinel is installed. Set it up once per
+JMdict archive:
+
+```sh
+rake jmdict:index               # ~1.5 min on all cores; the validator and jb read JMdict through it
+tools/jb/install/install.sh     # ~/.local/bin/jb: native with Spinel, else a CRuby shim
+```
+
+Then, for each batch of ~10 authored entries:
+
+```sh
+jb check --yanagi entries/…/a.org entries/…/b.org …   # validate + doctor + lint in one process
+jb commit entries/…/a.org entries/…/b.org …           # one "feat: add <word> vocabulary entry" commit each
+jb checkpoint --sources tmp/<set>-sources.json --baseline tmp/<set>-baseline \
+  --ledger docs/<ledger-1>.tsv --ledger docs/<ledger-2>.tsv … --set-names First,Second … --date YYYY-MM-DD
+rake test:fast                                        # everything but the two corpus-wide tests
+```
+
+`jb lint` restates the org-lint checkers that can fire on entries, so the loop
+skips Emacs. `jb check --emacs` adds Emacs as well, and `rake org:lint` (part of
+`rake`) remains the authoritative full-corpus check. Run the full `rake test`
+before opening a PR. After a JMdict refresh, rerun `rake jmdict:index`;
+`scripts/validate_entry.rb` falls back to scanning the archive (seconds per run)
+until the index exists, while `jb` stops and asks for it.
+
+`scripts/bench_loop.sh <label>` measures every loop step (wall time, CPU,
+peak memory) into `build/bench/`.
 
 Run the full local quality gate with:
 
