@@ -51,13 +51,18 @@ end
 
 jmdict_entries = {}
 if options[:with_jmdict] && File.exist?(JMDICT_PATH)
-  jmdict = DictionarySources::Jmdict.new(JMDICT_PATH)
   ent_seqs = paths.filter_map do |path|
     File.binread(path).force_encoding('UTF-8')[/^#\+JMDICT_ID: (.*)$/, 1]
   end.uniq
-  queries = ent_seqs.map { |seq| { ent_seq: seq } }
-  jmdict.lookup_many(queries).each_with_index do |matches, index|
-    jmdict_entries[ent_seqs[index]] = matches.first
+  index = DictionarySources::JmdictIndex.open(JMDICT_PATH)
+  if index
+    ent_seqs.each { |seq| jmdict_entries[seq] = index.entry(seq) }
+  else
+    jmdict = DictionarySources::Jmdict.new(JMDICT_PATH)
+    queries = ent_seqs.map { |seq| { ent_seq: seq } }
+    jmdict.lookup_many(queries).each_with_index do |matches, index_in_batch|
+      jmdict_entries[ent_seqs[index_in_batch]] = matches.first
+    end
   end
 end
 

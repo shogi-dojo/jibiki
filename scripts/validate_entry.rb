@@ -4,7 +4,7 @@
 # Validates entry files: ruby scripts/validate_entry.rb <path> [<path> ...]
 # The checks live in lib/entry_validator.rb; including the module keeps the
 # functions callable without a receiver for scripts and tests.
-require_relative '../lib/entry_validator'
+require_relative '../lib/entry_validator/archive_fallback'
 
 include EntryValidator
 

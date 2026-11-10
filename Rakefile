@@ -239,3 +239,19 @@ end
 
 desc 'Test extractors, validate entries, Org-lint files, and check transliteration'
 task default: [:test, 'entries:validate', 'org:lint', :doctor, 'translit:gold']
+
+namespace :jmdict do
+  desc 'Build the JMdict lookup index for sources/jmdict/JMdict.xml.gz (once per archive; minutes, all cores)'
+  task :index do
+    require_relative 'lib/dictionary_sources/jmdict'
+    archive = ENV.fetch('JMDICT_PATH', File.join(__dir__, 'sources', 'jmdict', 'JMdict.xml.gz'))
+    existing = DictionarySources::JmdictIndex.open(archive)
+    if existing && !ENV['FORCE']
+      puts "JMdict index is current: #{existing.path}"
+    else
+      started = Process.clock_gettime(Process::CLOCK_MONOTONIC)
+      path = DictionarySources::Jmdict.new(archive).write_index
+      puts format('Wrote %<path>s in %<secs>.1fs', path: path, secs: Process.clock_gettime(Process::CLOCK_MONOTONIC) - started)
+    end
+  end
+end

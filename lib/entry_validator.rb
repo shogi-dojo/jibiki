@@ -3,7 +3,7 @@
 require 'digest'
 require 'fileutils'
 require 'tmpdir'
-require_relative 'dictionary_sources/jmdict'
+require_relative 'dictionary_sources/jmdict_index'
 require_relative 'org_entry'
 require_relative 'romaji'
 require_relative 'generated/unicode_scripts'
@@ -36,7 +36,7 @@ module EntryValidator
   def valid_jmdict_shas
     @valid_jmdict_shas ||= begin
       shas = KNOWN_JMDICT_SHA256S.dup
-      shas << Digest::SHA256.file(JMDICT_PATH).hexdigest if File.exist?(JMDICT_PATH)
+      shas << DictionarySources::JmdictIndex.archive_sha256(JMDICT_PATH) if File.exist?(JMDICT_PATH)
       shas.uniq
     end
   end
@@ -72,29 +72,39 @@ module EntryValidator
     'text' => ['Приклад.']
   }.freeze
 
-  # Reading the gzipped archive dominates runtime, so keep one reader and one
-  # cache per process: validating N entries must not mean N full archive scans.
-  def jmdict
-    @jmdict ||= DictionarySources::Jmdict.new(JMDICT_PATH)
+  # Raised when an entry needs JMdict but there is neither an index nor an
+  # archive reader to answer from (the compiled `jb`, before `rake jmdict:index`).
+  class MissingJmdictIndex < StandardError; end
+
+  # Readers that answer from the gzipped archive itself, used when no index
+  # has been built. lib/entry_validator/archive_fallback.rb registers the
+  # REXML one for CRuby callers; the Spinel build registers none, so a missing
+  # index is an error there instead of a silent full-archive scan.
+  ARCHIVE_READERS = []
+
+  # Where JMdict entries come from: the index when it is built for the archive
+  # on disk, otherwise an archive reader. Either answers #entry(ent_seq).
+  def jmdict_source
+    @jmdict_source ||= DictionarySources::JmdictIndex.open(JMDICT_PATH) || archive_reader
+  end
+
+  def archive_reader
+    if ARCHIVE_READERS.empty?
+      raise MissingJmdictIndex, "no JMdict index for #{JMDICT_PATH}: run `rake jmdict:index`"
+    end
+
+    ARCHIVE_READERS.first.call(JMDICT_PATH)
   end
 
   def jmdict_entry(ent_seq)
-    @jmdict_entries ||= {}
-    @jmdict_entries.fetch(ent_seq) do
-      @jmdict_entries[ent_seq] = jmdict.lookup(ent_seq:).first
-    end
+    jmdict_source.entry(ent_seq)
   end
 
-  # Prime the cache for many entries in a single archive pass.
+  # Lets an archive reader answer many entries in one pass. The index needs
+  # no warming: each lookup is a few seeks.
   def preload_jmdict_entries(ent_seqs)
-    ent_seqs = ent_seqs.compact.uniq
-    return if ent_seqs.length < 2
-
-    @jmdict_entries ||= {}
-    queries = ent_seqs.map { |seq| { ent_seq: seq } }
-    jmdict.lookup_many(queries).each_with_index do |matches, index|
-      @jmdict_entries[ent_seqs[index]] = matches.first
-    end
+    source = jmdict_source
+    source.preload(ent_seqs.compact.uniq) if source.respond_to?(:preload)
   end
 
   def duplicate_jmdict_id_errors(paths)

@@ -3,7 +3,6 @@
 require_relative 'org_entry'
 require_relative 'kana'
 require_relative 'generated/unicode_scripts'
-require_relative 'dictionary_sources/jmdict'
 
 module EntryDoctor
   Finding = Struct.new(:check, :severity, :sense_id, :item_id, :line, :detail, keyword_init: true)

@@ -252,7 +252,8 @@ class ScaffoldEntryCliTest < Minitest::Test
 
   def run_cli(paths, *arguments)
     environment = {
-      'JMDICT_PATH' => paths.fetch(:jmdict)
+      'JMDICT_PATH' => paths.fetch(:jmdict),
+      'JIBIKI_CACHE_DIR' => File.join(File.dirname(paths.fetch(:jmdict)), 'cache')
     }
     Open3.capture3(environment, RbConfig.ruby, SCRIPT, *arguments)
   end

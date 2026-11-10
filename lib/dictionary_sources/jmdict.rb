@@ -1,9 +1,12 @@
 # frozen_string_literal: true
 
 require 'digest'
+require 'etc'
+require 'fileutils'
 require 'json'
 require 'rexml/document'
 require 'zlib'
+require_relative 'jmdict_index'
 
 module DictionarySources
   class Jmdict
@@ -68,6 +71,39 @@ module DictionarySources
 
     def archive_sha256
       Digest::SHA256.file(path).hexdigest
+    end
+
+    # Builds the JmdictIndex for this archive and returns its path. Parsing
+    # every entry with REXML takes about 12 CPU-minutes, so the entries are
+    # dealt out to forked workers and their lines merged in ent_seq order.
+    def write_index(cache_root: JmdictIndex.cache_root, workers: Etc.nprocessors)
+      sha = JmdictIndex.archive_sha256(path, cache_root)
+      target = JmdictIndex.index_path(sha, cache_root)
+      FileUtils.mkdir_p(cache_root)
+      xmls = each_entry_xml.to_a
+      entities # parsed once here, inherited by every worker
+      parts = Array.new(workers) { |worker| "#{target}.part#{worker}" }
+      pids = parts.each_with_index.map do |part, worker|
+        fork do
+          File.open(part, 'w:UTF-8') do |out|
+            worker.step(xmls.length - 1, workers) { |i| out.puts(JmdictIndex.line_for(parse_entry(xmls[i]))) }
+          end
+          exit!(0)
+        end
+      end
+      failed = pids.reject { |pid| Process.wait2(pid).last.success? }
+      raise "JMdict index: #{failed.length} worker(s) failed" unless failed.empty?
+
+      lines = parts.flat_map { |part| File.readlines(part, chomp: true, encoding: 'UTF-8') }
+      lines.sort_by! { |line| line.split("\t", 2)[0].to_i }
+      File.open("#{target}.tmp", 'w:UTF-8') do |out|
+        out.puts("# #{JmdictIndex::HEADER} sha256=#{sha}")
+        lines.each { |line| out.puts(line) }
+      end
+      File.rename("#{target}.tmp", target)
+      target
+    ensure
+      parts&.each { |part| FileUtils.rm_f(part) }
     end
 
     private
