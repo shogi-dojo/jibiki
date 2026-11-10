@@ -2,6 +2,7 @@
 
 require_relative 'org_entry'
 require_relative 'kana'
+require_relative 'generated/unicode_scripts'
 require_relative 'dictionary_sources/jmdict'
 
 module EntryDoctor
@@ -201,7 +202,7 @@ module EntryDoctor
 
           # Strip ruby brackets first: [furigana]
           without_ruby = rd.gsub(/\[.*?\]/, '')
-          if without_ruby.match?(/\p{Han}/)
+          if UnicodeScripts::HAN.match?(without_ruby)
             findings << Finding.new(
               check: :reading_kana_only,
               severity: :error,
@@ -241,7 +242,7 @@ module EntryDoctor
     def check_focus_no_cyrillic(entry, findings)
       entry.senses.each do |sense|
         sense.examples.each do |ex|
-          if ex.focus&.match?(/\p{Cyrillic}/)
+          if ex.focus && UnicodeScripts::CYRILLIC.match?(ex.focus)
             findings << Finding.new(
               check: :focus_no_cyrillic,
               severity: :error,

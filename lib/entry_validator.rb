@@ -6,6 +6,7 @@ require 'tmpdir'
 require_relative 'dictionary_sources/jmdict'
 require_relative 'org_entry'
 require_relative 'romaji'
+require_relative 'generated/unicode_scripts'
 
 # The entry validator behind `rake entries:validate` (docs/org-format.md §18).
 # Its functions are module functions, so library users call
@@ -175,14 +176,14 @@ module EntryValidator
         errors << "Line #{line_num} has trailing whitespace"
       end
 
-      if line.match?(/^- (?:JA|READING|FOCUS) :: .*\p{Cyrillic}/)
+      if line.match?(/^- (?:JA|READING|FOCUS) :: /) && UnicodeScripts::CYRILLIC.match?(line)
         errors << "Line #{line_num} contains Cyrillic text in a Japanese field"
       end
 
       if line =~ /^- READING :: (.*)$/
         reading_val = $1
         reading_without_ruby = reading_val.gsub(/\[.*?\]/, '')
-        if reading_without_ruby.match?(/\p{Han}/)
+        if UnicodeScripts::HAN.match?(reading_without_ruby)
           errors << "Line #{line_num} READING contains kanji: #{reading_val}"
         end
       end
