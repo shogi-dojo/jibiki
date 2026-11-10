@@ -255,3 +255,22 @@ namespace :jmdict do
     end
   end
 end
+
+namespace :jb do
+  JB_DIR = File.join(__dir__, 'tools', 'jb')
+
+  desc 'Compile the jb CLI with Spinel into tools/jb/build/bin/jb (needs spin on PATH)'
+  task :build do
+    Dir.chdir(JB_DIR) { sh 'spin', 'build', 'jb' }
+  end
+
+  desc "Run jb's checks under CRuby, then (when spin is on PATH) the compiled parity gate"
+  task :test do
+    sh RUBY, '-w', File.join(JB_DIR, 'bin', 'test.rb')
+    if system('command -v spin >/dev/null 2>&1')
+      Dir.chdir(JB_DIR) { sh 'spin', 'test' }
+    else
+      puts 'spin is not on PATH: skipped the compiled parity gate'
+    end
+  end
+end
