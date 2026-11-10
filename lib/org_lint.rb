@@ -210,10 +210,13 @@ module OrgLint
   end
 
   def links(lines, in_block, dir, findings)
-    text = lines.join("\n")
+    text = nil
     lines.each_with_index do |line, i|
       next if in_block[i]
 
+      next unless line.include?('[[')
+
+      text ||= lines.join("\n")
       line.to_enum(:scan, LINK).map { Regexp.last_match }.each do |match|
         target = match[1]
         if line[match.end(0)] == ']'
@@ -254,6 +257,8 @@ module OrgLint
     lines.each_with_index do |line, i|
       next if in_block[i]
 
+      next unless line.include?('[fn:')
+
       definition = line[/\A\[fn:([-\w]+)\]/, 1]
       definitions[definition] ||= i + 1 if definition
       body = definition ? line.sub(/\A\[fn:[-\w]+\]/, '') : line
@@ -278,6 +283,8 @@ module OrgLint
   def timestamps(lines, in_block, findings)
     lines.each_with_index do |line, i|
       next if in_block[i]
+
+      next unless line.include?('<') || line.include?('[')
 
       line.to_enum(:scan, TIMESTAMP).map { Regexp.last_match }.each do |match|
         next if valid_time?(match[1].to_i, match[2].to_i, match[3].to_i, match[4], match[5])

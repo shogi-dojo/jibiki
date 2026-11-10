@@ -261,6 +261,10 @@ namespace :jb do
   task :test do
     sh RUBY, '-w', File.join(JB_DIR, 'bin', 'test.rb')
     if system('command -v spin >/dev/null 2>&1')
+      # Spinel also caches test executables without noticing edits to lib/.
+      Dir.glob(File.join(JB_DIR, 'build', 'test', '*')).each do |path|
+        rm_f path if File.file?(path) && File.executable?(path)
+      end
       Dir.chdir(JB_DIR) { sh 'spin', 'test' }
     else
       puts 'spin is not on PATH: skipped the compiled parity gate'
