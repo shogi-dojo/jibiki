@@ -101,6 +101,34 @@ class KanjiImportTest < Minitest::Test
     end
   end
 
+  def test_canonical_equivalent_meanings_keep_local_metadata_and_reviewed_translations
+    source = Kanji::Import::Kanjidic2.parse(KANJIDIC).first.source
+    canonical = Kanji::Import::Kanjidic2::Entry.new(codepoint: 'U+96E3', character: '難', source: source.with(meanings: ['difficult']))
+    raw = source.with(stroke_count: 19, on_readings: ['ナン'], meanings: [])
+    equivalent = Kanji::Import::Kanjidic2::Entry.new(codepoint: 'U+FA68', character: '難', source: raw)
+    lookup = { '難' => canonical }
+    text = Kanji::Importer.render_entry(equivalent, nil, lookup)
+    record = Kanji::Record.parse(text)
+    assert_equal ['difficult'], record.source.meanings
+    assert_equal 19, record.source.stroke_count
+    assert_equal ['ナン'], record.source.on_readings
+    assert_equal 'U+96E3', record.keywords['SOURCE_MEANINGS_REFERENCE']
+    assert_equal raw.fingerprint, record.keywords['KANJIDIC2_SOURCE_FINGERPRINT']
+    keywords = record.keywords.merge('DRAFT_ORIGIN' => 'codex')
+    after_draft = Kanji::Writer.render(keywords: keywords, source: record.source)
+    assert_equal after_draft, Kanji::Importer.render_entry(equivalent, Kanji::Record.parse(after_draft), lookup)
+    assert_empty Kanji::Validator.call(record)
+    reviewed = Kanji::Translation.new(id: 'uk-U+FA68-001', text: 'складний', status: 'reviewed', reviewed_by: 'human')
+    record = Kanji::Record.parse(Kanji::Writer.render(keywords: record.keywords, source: record.source, translations: [reviewed]))
+    assert_equal [reviewed], Kanji::Record.parse(Kanji::Importer.render_entry(equivalent, record, lookup)).translations
+    supplied = equivalent.with(source: raw.with(meanings: ['own upstream meaning']))
+    own = Kanji::Record.parse(Kanji::Importer.render_entry(supplied, record, lookup))
+    assert_equal ['own upstream meaning'], own.source.meanings
+    assert_nil own.keywords['SOURCE_MEANINGS_REFERENCE']
+    unrelated = equivalent.with(character: '南', codepoint: 'U+5357')
+    assert_empty Kanji::Record.parse(Kanji::Importer.render_entry(unrelated, nil, lookup)).source.meanings
+  end
+
   def test_missing_strokes_are_reported_not_fatal
     Dir.mktmpdir do |root|
       kanjidic = File.join(root, 'kanjidic2.xml')

@@ -17,6 +17,7 @@ module Kanji
 
     def run(kanjidic:, kanjivg:, records_dir:)
       entries = Import::Kanjidic2.parse_file(kanjidic)
+      by_character = entries.to_h { |entry| [entry.character, entry] }
       strokes = Import::KanjiVG.parse_file(kanjivg)
       FileUtils.mkdir_p(records_dir)
 
@@ -24,7 +25,7 @@ module Kanji
       entries.each do |entry|
         path = File.join(records_dir, "#{entry.codepoint}.org")
         existing = File.exist?(path) ? Record.load(path) : nil
-        text = existing ? Writer.patch_source(existing, entry.source) : fresh(entry)
+        text = render_entry(entry, existing, by_character)
         counts[:new_records] += 1 unless existing
         note_strokes(counts, entry, strokes)
         if existing && File.read(path, encoding: 'UTF-8') == text
@@ -37,9 +38,23 @@ module Kanji
       Report.new(**counts)
     end
 
-    def fresh(entry)
-      Writer.render(keywords: { 'TITLE' => entry.character, 'CODEPOINT' => entry.codepoint },
-                    source: entry.source)
+    # Unicode canonical equivalents are the same abstract character. Reuse only the pinned
+    # counterpart's meanings (never a shape/similarity guess or an NFKC compatibility fold).
+    # Keep this character's readings/strokes and the raw KANJIDIC2 fingerprint for provenance.
+    def render_entry(entry, existing, by_character)
+      keywords = existing ? existing.keywords.dup : { 'TITLE' => entry.character, 'CODEPOINT' => entry.codepoint }
+      source = entry.source
+      normalized = entry.character.unicode_normalize(:nfc)
+      reference = by_character[normalized] if normalized != entry.character
+      if source.meanings.empty? && reference && reference.source.meanings.any?
+        keywords['SOURCE_MEANINGS_REFERENCE'] = reference.codepoint
+        keywords['KANJIDIC2_SOURCE_FINGERPRINT'] = source.fingerprint
+        source = source.with(meanings: reference.source.meanings)
+      else
+        keywords.delete('SOURCE_MEANINGS_REFERENCE')
+        keywords.delete('KANJIDIC2_SOURCE_FINGERPRINT')
+      end
+      Writer.render(keywords: keywords, source: source, translations: existing&.translations || [])
     end
 
     def note_strokes(counts, entry, strokes)
