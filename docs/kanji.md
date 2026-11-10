@@ -44,3 +44,7 @@ A confirmation request is pending until an authorized moderator approves it; onl
 reviewer written. Approved changes are immediately overlaid in the app, then synced back to the
 canonical Org file through the existing contribution PR process. The Contributions check validates
 changed kanji records as well as word records.
+
+## Faster local iteration
+
+Reuse `rake test:fast` from the [jb performance work (PR #39)](https://github.com/shogi-dojo/jibiki/pull/39) for focused edits. It excludes only the two word-corpus round-trip tests; `rake test` remains the release gate and includes all kanji tests. The native jb CLI remains in that independent PR: it currently handles word records, not canonical kanji records, and its binary is specific to the checkout where it was built. Do not copy a binary from another checkout.

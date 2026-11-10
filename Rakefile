@@ -195,6 +195,19 @@ Rake::TestTask.new(:test) do |task|
   task.pattern = 'test/**/*_test.rb'
 end
 
+# The two tests that parse every entry take about a minute and grow with the
+# corpus. The per-batch loop runs `test:fast`; `rake test` (CI, before a PR)
+# still runs everything.
+CORPUS_TESTS = %w[test/org_entry_corpus_smoke_test.rb test/org_entry_patch_corpus_test.rb].freeze
+
+namespace :test do
+  Rake::TestTask.new(:fast) do |task|
+    task.description = 'Run the test suite without the corpus-wide tests'
+    task.libs << 'test'
+    task.test_files = FileList['test/**/*_test.rb'].exclude(*CORPUS_TESTS)
+  end
+end
+
 namespace :translit do
   # The yanagi gem ships transliteration policy only. Corpus-derived data (the
   # lexicon, which carries each term's language of origin) is generated from
