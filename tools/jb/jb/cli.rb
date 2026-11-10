@@ -5,9 +5,11 @@ require_relative 'version'
 require_relative 'errors'
 require_relative '../../../lib/entry_validator'
 require_relative '../../../lib/entry_doctor/runner'
+require_relative '../../../lib/org_lint'
 require_relative 'commands/validate'
 require_relative 'commands/doctor'
 require_relative 'commands/jmdict'
+require_relative 'commands/lint'
 
 module JB
   # The `jb` entry point: one word picks the command, the rest is its
@@ -22,6 +24,7 @@ module JB
 
         validate [--json] <path>...                 the entry validator (docs/org-format.md §18)
         doctor [--json] [--with-jmdict] <path>...   entry health report
+        lint [--json] <path>...                     org-lint's entry checkers, without Emacs
         jmdict <ent_seq>...                         indexed JMdict senses, as JSON
         version                                     print the version
 
@@ -41,6 +44,7 @@ module JB
       when 'validate' then Commands::Validate.run(args, stdout)
       when 'doctor' then Commands::Doctor.run(args, stdout)
       when 'jmdict' then Commands::Jmdict.run(args, stdout)
+      when 'lint' then Commands::Lint.run(args, stdout)
       else raise UsageError, "unknown command: #{command} (see jb --help)"
       end
     rescue UsageError => e
