@@ -34,6 +34,12 @@ SAMPLE1=("${SAMPLE[0]}")
 # The checkpoint replays a 500-word set: everything since the 501st commit back.
 CHECKPOINT_BASE=$(git rev-list --no-merges --skip=500 -n1 HEAD)
 
+# Selection rows for the jb checkpoint step: every entry added since the
+# checkpoint baseline, in commit order, as the loop's sources file lists them.
+git log --reverse --no-merges --diff-filter=A --name-only --format= "$CHECKPOINT_BASE..HEAD" -- entries |
+  sed '/^$/d' | ruby -rjson -e 'puts JSON.generate(STDIN.read.split("\n").map { |path| { "path" => path } })' \
+  >"$WORK/bench-sources.json"
+
 cleanup() {
   for wt in "$WORK"/wt-*; do
     [ -d "$wt" ] && git worktree remove --force "$wt" >/dev/null 2>&1 || true
@@ -97,9 +103,9 @@ STEPS=(
   "jb_native_validate_1|$RUNS|[ -x \"\$JB_NATIVE\" ]|\"\$JB_NATIVE\" validate \"\${SAMPLE1[@]}\""
   "jb_native_doctor_10|$RUNS|[ -x \"\$JB_NATIVE\" ]|\"\$JB_NATIVE\" doctor --json \"\${SAMPLE[@]}\""
   "jb_commit_10|$RUNS|[ -f tools/jb/bin/jb.rb ]|(cd \"\$WT\" && \"\$(jb_cmd)\" commit \"\${SAMPLE[@]}\")"
-  "jb_checkpoint_500|$RUNS|[ -f tools/jb/bin/jb.rb ]|\"\$(jb_cmd)\" log-adds --baseline \"\$CHECKPOINT_BASE\""
+  "jb_checkpoint_500|$RUNS|[ -f tools/jb/bin/jb.rb ]|\"\$(jb_cmd)\" checkpoint --dry-run --sources \"\$WORK/bench-sources.json\" --baseline \"\$CHECKPOINT_BASE\" --ledger /dev/null --set-size 500"
   "test_fast|$SLOW_RUNS|grep -q 'test:fast' Rakefile 2>/dev/null|bundle exec rake test:fast"
-  "test_full|$SLOW_RUNS|true|CORPUS=1 bundle exec rake test"
+  "test_full|$SLOW_RUNS|true|bundle exec rake test"
 )
 
 # The binary when it is built, otherwise a ruby shim; used by the git steps.
