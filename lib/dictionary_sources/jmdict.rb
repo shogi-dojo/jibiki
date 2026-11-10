@@ -22,14 +22,18 @@ module DictionarySources
       ent_seq = ent_seq.to_s unless ent_seq.nil?
       raise ArgumentError, 'provide written, reading, or ent_seq' if [written, reading, ent_seq].all?(&:nil?)
 
-      each_entry_xml.filter_map do |xml|
+      results = []
+      each_entry_xml do |xml|
         next unless candidate_xml?(xml, written:, reading:, ent_seq:)
 
         entry = parse_entry(xml)
         next unless exact_match?(entry, written:, reading:, ent_seq:)
 
-        entry
+        results << entry
+        # ent_seq is unique in JMdict: the first match is the only one.
+        break if ent_seq
       end
+      results
     end
 
     # Resolves many queries in a single pass over the archive. Takes an array
@@ -48,12 +52,14 @@ module DictionarySources
       end
 
       results = Array.new(queries.length) { [] }
+      by_key = candidate_index(queries)
       each_entry_xml do |xml|
-        candidates = queries.each_index.select { |i| candidate_xml?(xml, **queries[i]) }
+        candidates = entry_keys(xml).flat_map { |key| by_key.fetch(key, []) }.uniq
+        candidates.select! { |i| candidate_xml?(xml, **queries[i]) }
         next if candidates.empty?
 
         entry = parse_entry(xml)
-        candidates.each do |i|
+        candidates.sort.each do |i|
           results[i] << entry if exact_match?(entry, **queries[i])
         end
       end
@@ -95,12 +101,43 @@ module DictionarySources
       end
     end
 
+    # Maps each query's most selective key, as it appears in the raw XML, to
+    # the indexes of the queries that need it. An entry can only satisfy a
+    # query whose key it carries, so each archive entry is checked against a
+    # handful of queries instead of all of them.
+    def candidate_index(queries)
+      by_key = Hash.new { |hash, key| hash[key] = [] }
+      queries.each_with_index do |query, index|
+        key =
+          if query[:ent_seq] then "s:#{query[:ent_seq]}"
+          elsif query[:written] then "k:#{xml_escape(query[:written])}"
+          else "r:#{xml_escape(query[:reading])}"
+          end
+        by_key[key] << index
+      end
+      by_key
+    end
+
+    # The candidate keys one raw entry carries: its ent_seq, kebs and rebs.
+    def entry_keys(xml)
+      keys = ["s:#{xml[%r{<ent_seq>([^<]*)</ent_seq>}, 1]}"]
+      xml.scan(%r{<keb>([^<]*)</keb>}) { |(text)| keys << "k:#{text}" }
+      xml.scan(%r{<reb>([^<]*)</reb>}) { |(text)| keys << "r:#{text}" }
+      keys
+    end
+
     def candidate_xml?(xml, written:, reading:, ent_seq:)
       return false if ent_seq && !xml.include?("<ent_seq>#{ent_seq}</ent_seq>")
-      return false if written && !xml.include?("<keb>#{REXML::Text.normalize(written)}</keb>")
-      return false if reading && !xml.include?("<reb>#{REXML::Text.normalize(reading)}</reb>")
+      return false if written && !xml.include?("<keb>#{xml_escape(written)}</keb>")
+      return false if reading && !xml.include?("<reb>#{xml_escape(reading)}</reb>")
 
       true
+    end
+
+    # Escapes text as REXML::Text.normalize does, so a query matches the
+    # element text exactly as the archive spells it.
+    def xml_escape(text)
+      text.gsub('&', '&amp;').gsub('<', '&lt;').gsub('>', '&gt;').gsub('"', '&quot;').gsub("'", '&apos;')
     end
 
     def exact_match?(entry, written:, reading:, ent_seq:)
