@@ -1,36 +1,67 @@
 # frozen_string_literal: true
 
-require 'rexml/document'
+require 'rexml/parsers/streamparser'
+require 'rexml/streamlistener'
+require 'stringio'
 require 'zlib'
 
 module Kanji
   module Import
-    # Reads KanjiVG (CC BY-SA 3.0): the stroke paths of each character, in drawing order. The
-    # stroke numbering is the document order of the <path> elements under the character's <kanji>.
+    # KanjiVG (CC BY-SA 3.0), read in document order without retaining its XML tree.
+    # A full DOM exceeded the application's 768 MB sync-job limit with the word corpus loaded.
     module KanjiVG
-      module_function
-
       Stroke = Data.define(:position, :kind, :path)
 
-      # codepoint (U+4E00) => [Stroke, ...], for every character that has strokes.
-      def parse_file(path)
-        xml = path.end_with?('.gz') ? Zlib::GzipReader.open(path, &:read) : File.read(path, encoding: 'UTF-8')
-        parse(xml)
-      end
+      class Collector
+        include REXML::StreamListener
+        attr_reader :strokes
 
-      def parse(xml)
-        REXML::Document.new(xml).get_elements('//kanji').each_with_object({}) do |kanji, strokes|
-          hex = kanji.attributes['id'].to_s[/kanji_([0-9a-f]{4,6})\z/, 1]
-          next unless hex
+        def initialize
+          @strokes = {}
+          @codepoint = nil
+          @drawing = nil
+        end
 
-          paths = kanji.get_elements('.//path')
-          next if paths.empty?
+        def tag_start(name, attributes)
+          case name
+          when 'kanji'
+            hex = attributes['id'].to_s[/kanji_([0-9a-f]{4,6})\z/, 1]
+            @codepoint = hex && format('U+%04X', hex.to_i(16))
+            @drawing = []
+          when 'path'
+            return unless @codepoint
 
-          strokes[format('U+%04X', hex.to_i(16))] = paths.each_with_index.map do |path, index|
-            Stroke.new(position: index + 1, kind: path.attributes['kvg:type'].to_s, path: path.attributes['d'].to_s)
+            @drawing << Stroke.new(position: @drawing.size + 1, kind: attributes['kvg:type'].to_s,
+                                    path: attributes['d'].to_s)
           end
         end
+
+        def tag_end(name)
+          return unless name == 'kanji'
+
+          @strokes[@codepoint] = @drawing if @codepoint && @drawing.any?
+          @codepoint = nil
+          @drawing = nil
+        end
       end
+
+      module_function
+
+      def parse_file(path)
+        File.open(path, 'rb') do |file|
+          input = path.end_with?('.gz') ? Zlib::GzipReader.new(file) : file
+          parse_io(input)
+        end
+      end
+
+      def parse(xml) = parse_io(StringIO.new(xml))
+
+      def parse_io(input)
+        collector = Collector.new
+        REXML::Parsers::StreamParser.new(input, collector).parse
+        collector.strokes
+      end
+      private_class_method :parse_io
     end
   end
 end
