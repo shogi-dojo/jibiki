@@ -1,17 +1,29 @@
 # frozen_string_literal: true
 
 require_relative 'org_entry'
-require_relative 'exporters/houhou_vocab_matcher'
-require_relative 'dictionary_sources/jmdict'
+require_relative 'kana'
+require_relative 'generated/unicode_scripts'
 
 module EntryDoctor
   Finding = Struct.new(:check, :severity, :sense_id, :item_id, :line, :detail, keyword_init: true)
+
+  # The entry's identity and status, all a report shows of it. Reports keep
+  # this rather than the parsed entry, so a corpus-wide run holds a few
+  # strings per entry instead of every parsed document.
+  EntryHeader = Data.define(:jmdict_id, :title, :primary_reading, :romaji, :quality_profile, :entry_status,
+                            :created_at) do
+    def self.of(entry)
+      new(jmdict_id: entry.jmdict_id, title: entry.title, primary_reading: entry.primary_reading,
+          romaji: entry.romaji, quality_profile: entry.quality_profile, entry_status: entry.entry_status,
+          created_at: entry.created_at)
+    end
+  end
 
   class EntryReport
     attr_reader :entry, :path, :findings, :health_score, :stats
 
     def initialize(entry:, path: nil, findings: [], health_score: 100, stats: {})
-      @entry = entry
+      @entry = EntryHeader.of(entry)
       @path = path
       @findings = findings
       @health_score = health_score
@@ -64,8 +76,8 @@ module EntryDoctor
     def kana_skeleton(str)
       return [] if str.nil?
 
-      normalized = Exporters::HouhouVocabMatcher.nfkc(str.to_s).gsub(/[ヶヵゖゕ]/, 'か')
-      hira = Exporters::HouhouVocabMatcher.to_hiragana(normalized)
+      normalized = Kana.nfkc(str.to_s).gsub(/[ヶヵゖゕ]/, 'か')
+      hira = Kana.to_hiragana(normalized)
       hira.chars.select do |ch|
         cp = ch.ord
         cp >= 0x3041 && cp <= 0x3096 && ch != 'ー' && ch != 'っ'
@@ -201,7 +213,7 @@ module EntryDoctor
 
           # Strip ruby brackets first: [furigana]
           without_ruby = rd.gsub(/\[.*?\]/, '')
-          if without_ruby.match?(/\p{Han}/)
+          if UnicodeScripts::HAN.match?(without_ruby)
             findings << Finding.new(
               check: :reading_kana_only,
               severity: :error,
@@ -241,7 +253,7 @@ module EntryDoctor
     def check_focus_no_cyrillic(entry, findings)
       entry.senses.each do |sense|
         sense.examples.each do |ex|
-          if ex.focus&.match?(/\p{Cyrillic}/)
+          if ex.focus && UnicodeScripts::CYRILLIC.match?(ex.focus)
             findings << Finding.new(
               check: :focus_no_cyrillic,
               severity: :error,

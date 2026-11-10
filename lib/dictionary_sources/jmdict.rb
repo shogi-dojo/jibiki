@@ -1,9 +1,12 @@
 # frozen_string_literal: true
 
 require 'digest'
+require 'etc'
+require 'fileutils'
 require 'json'
 require 'rexml/document'
 require 'zlib'
+require_relative 'jmdict_index'
 
 module DictionarySources
   class Jmdict
@@ -22,14 +25,18 @@ module DictionarySources
       ent_seq = ent_seq.to_s unless ent_seq.nil?
       raise ArgumentError, 'provide written, reading, or ent_seq' if [written, reading, ent_seq].all?(&:nil?)
 
-      each_entry_xml.filter_map do |xml|
+      results = []
+      each_entry_xml do |xml|
         next unless candidate_xml?(xml, written:, reading:, ent_seq:)
 
         entry = parse_entry(xml)
         next unless exact_match?(entry, written:, reading:, ent_seq:)
 
-        entry
+        results << entry
+        # ent_seq is unique in JMdict: the first match is the only one.
+        break if ent_seq
       end
+      results
     end
 
     # Resolves many queries in a single pass over the archive. Takes an array
@@ -48,12 +55,14 @@ module DictionarySources
       end
 
       results = Array.new(queries.length) { [] }
+      by_key = candidate_index(queries)
       each_entry_xml do |xml|
-        candidates = queries.each_index.select { |i| candidate_xml?(xml, **queries[i]) }
+        candidates = entry_keys(xml).flat_map { |key| by_key.fetch(key, []) }.uniq
+        candidates.select! { |i| candidate_xml?(xml, **queries[i]) }
         next if candidates.empty?
 
         entry = parse_entry(xml)
-        candidates.each do |i|
+        candidates.sort.each do |i|
           results[i] << entry if exact_match?(entry, **queries[i])
         end
       end
@@ -62,6 +71,39 @@ module DictionarySources
 
     def archive_sha256
       Digest::SHA256.file(path).hexdigest
+    end
+
+    # Builds the JmdictIndex for this archive and returns its path. Parsing
+    # every entry with REXML takes about 12 CPU-minutes, so the entries are
+    # dealt out to forked workers and their lines merged in ent_seq order.
+    def write_index(cache_root: JmdictIndex.cache_root, workers: Etc.nprocessors)
+      sha = JmdictIndex.archive_sha256(path, cache_root)
+      target = JmdictIndex.index_path(sha, cache_root)
+      FileUtils.mkdir_p(cache_root)
+      xmls = each_entry_xml.to_a
+      entities # parsed once here, inherited by every worker
+      parts = Array.new(workers) { |worker| "#{target}.part#{worker}" }
+      pids = parts.each_with_index.map do |part, worker|
+        fork do
+          File.open(part, 'w:UTF-8') do |out|
+            worker.step(xmls.length - 1, workers) { |i| out.puts(JmdictIndex.line_for(parse_entry(xmls[i]))) }
+          end
+          exit!(0)
+        end
+      end
+      failed = pids.reject { |pid| Process.wait2(pid).last.success? }
+      raise "JMdict index: #{failed.length} worker(s) failed" unless failed.empty?
+
+      lines = parts.flat_map { |part| File.readlines(part, chomp: true, encoding: 'UTF-8') }
+      lines.sort_by! { |line| line.split("\t", 2)[0].to_i }
+      File.open("#{target}.tmp", 'w:UTF-8') do |out|
+        out.puts("# #{JmdictIndex::HEADER} sha256=#{sha}")
+        lines.each { |line| out.puts(line) }
+      end
+      File.rename("#{target}.tmp", target)
+      target
+    ensure
+      parts&.each { |part| FileUtils.rm_f(part) }
     end
 
     private
@@ -95,12 +137,43 @@ module DictionarySources
       end
     end
 
+    # Maps each query's most selective key, as it appears in the raw XML, to
+    # the indexes of the queries that need it. An entry can only satisfy a
+    # query whose key it carries, so each archive entry is checked against a
+    # handful of queries instead of all of them.
+    def candidate_index(queries)
+      by_key = Hash.new { |hash, key| hash[key] = [] }
+      queries.each_with_index do |query, index|
+        key =
+          if query[:ent_seq] then "s:#{query[:ent_seq]}"
+          elsif query[:written] then "k:#{xml_escape(query[:written])}"
+          else "r:#{xml_escape(query[:reading])}"
+          end
+        by_key[key] << index
+      end
+      by_key
+    end
+
+    # The candidate keys one raw entry carries: its ent_seq, kebs and rebs.
+    def entry_keys(xml)
+      keys = ["s:#{xml[%r{<ent_seq>([^<]*)</ent_seq>}, 1]}"]
+      xml.scan(%r{<keb>([^<]*)</keb>}) { |(text)| keys << "k:#{text}" }
+      xml.scan(%r{<reb>([^<]*)</reb>}) { |(text)| keys << "r:#{text}" }
+      keys
+    end
+
     def candidate_xml?(xml, written:, reading:, ent_seq:)
       return false if ent_seq && !xml.include?("<ent_seq>#{ent_seq}</ent_seq>")
-      return false if written && !xml.include?("<keb>#{REXML::Text.normalize(written)}</keb>")
-      return false if reading && !xml.include?("<reb>#{REXML::Text.normalize(reading)}</reb>")
+      return false if written && !xml.include?("<keb>#{xml_escape(written)}</keb>")
+      return false if reading && !xml.include?("<reb>#{xml_escape(reading)}</reb>")
 
       true
+    end
+
+    # Escapes text as REXML::Text.normalize does, so a query matches the
+    # element text exactly as the archive spells it.
+    def xml_escape(text)
+      text.gsub('&', '&amp;').gsub('<', '&lt;').gsub('>', '&gt;').gsub('"', '&quot;').gsub("'", '&apos;')
     end
 
     def exact_match?(entry, written:, reading:, ent_seq:)

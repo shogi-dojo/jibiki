@@ -357,6 +357,23 @@ class ValidateEntryCliTest < Minitest::Test
   # older hash the corpus still carries has to be accepted on the strength of
   # KNOWN_JMDICT_SHA256S alone. This is the case CI hits after EDRDG rotates
   # the download out from under already-merged entries.
+  def test_index_and_archive_scan_give_identical_reports
+    Dir.mktmpdir do |directory|
+      jmdict = build_jmdict(directory, ent_seqs: %w[1381380 1381390])
+      good = write_entry(directory, ent_seq: '1381380', jmdict: jmdict)
+      bad = write_entry(directory, ent_seq: '1381390', jmdict: jmdict, fingerprint: 'f' * 64)
+      missing = write_entry(directory, ent_seq: '1381400', jmdict: jmdict, fingerprint: 'a' * 64)
+      scanned = run_cli(jmdict, good, bad, missing)
+
+      DictionarySources::Jmdict.new(jmdict).write_index(cache_root: File.join(directory, 'cache'), workers: 2)
+      indexed = run_cli(jmdict, good, bad, missing)
+
+      assert_equal scanned[0], indexed[0]
+      assert_equal scanned[2].exitstatus, indexed[2].exitstatus
+      assert_includes indexed[0], 'Fingerprint mismatch for s-1381390-001'
+    end
+  end
+
   def test_accepts_known_archive_hashes_that_are_not_the_archive_on_disk
     Dir.mktmpdir do |directory|
       jmdict = build_jmdict(directory)
@@ -374,8 +391,10 @@ class ValidateEntryCliTest < Minitest::Test
 
   private
 
+  # The cache sits beside the fixture archive so runs never touch tmp/cache.
   def run_cli(jmdict, *paths)
-    Open3.capture3({ 'JMDICT_PATH' => jmdict }, RUBY, SCRIPT, *paths)
+    environment = { 'JMDICT_PATH' => jmdict, 'JIBIKI_CACHE_DIR' => File.join(File.dirname(jmdict), 'cache') }
+    Open3.capture3(environment, RUBY, SCRIPT, *paths)
   end
 
   def build_jmdict(directory, ent_seqs: %w[1381380])

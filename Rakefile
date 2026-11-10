@@ -88,18 +88,6 @@ namespace :sources do
 end
 
 namespace :entries do
-  desc 'Validate one entry path, or all entries when PATH is omitted'
-  task :validate, [:path] do |_task, args|
-    paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
-    sh RUBY, 'scripts/validate_entry.rb', *paths
-  end
-
-  desc 'Run Emacs org-lint on one entry path, or all entries when PATH is omitted'
-  task :lint, [:path] do |_task, args|
-    paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
-    lint_org_files(paths)
-  end
-
   desc 'Migrate one entry path, or all entries when PATH is omitted, from schema v1 to v2'
   task :migrate_v2, [:path] do |_task, args|
     paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
@@ -171,18 +159,7 @@ namespace :export do
   end
 end
 
-desc 'Score corpus health and check for editorial defects across all entries'
-task :doctor do
-  sh RUBY, 'scripts/doctor.rb'
-end
-
 namespace :doctor do
-  desc 'Score health and show verbose findings for one entry: rake "doctor:entry[entries/1464/1464530-nihongo.org]"'
-  task :entry, [:path] do |_task, args|
-    abort 'Provide an entry path: rake "doctor:entry[entries/1464/1464530-nihongo.org]"' unless args[:path]
-    sh RUBY, 'scripts/doctor.rb', args[:path]
-  end
-
   desc 'Generate HTML doctor report: rake "doctor:report[build/doctor_report.html]"'
   task :report, [:output] do |_task, args|
     args.with_defaults(output: 'build/doctor_report.html')
@@ -252,6 +229,48 @@ end
 
 desc 'Test extractors, validate entries, Org-lint files, and check transliteration'
 task default: [:test, 'entries:validate', 'org:lint', :doctor, 'translit:gold']
+
+namespace :jmdict do
+  desc 'Build the JMdict lookup index for sources/jmdict/JMdict.xml.gz (once per archive; minutes, all cores)'
+  task :index do
+    require_relative 'lib/dictionary_sources/jmdict'
+    archive = ENV.fetch('JMDICT_PATH', File.join(__dir__, 'sources', 'jmdict', 'JMdict.xml.gz'))
+    existing = DictionarySources::JmdictIndex.open(archive)
+    if existing && !ENV['FORCE']
+      puts "JMdict index is current: #{existing.path}"
+    else
+      started = Process.clock_gettime(Process::CLOCK_MONOTONIC)
+      path = DictionarySources::Jmdict.new(archive).write_index
+      puts format('Wrote %<path>s in %<secs>.1fs', path: path, secs: Process.clock_gettime(Process::CLOCK_MONOTONIC) - started)
+    end
+  end
+end
+
+namespace :jb do
+  JB_DIR = File.join(__dir__, 'tools', 'jb')
+
+  desc 'Compile the jb CLI with Spinel into tools/jb/build/bin/jb (needs spin on PATH)'
+  task :build do
+    # spin judges staleness by tools/jb alone and would keep a binary that
+    # predates an edit to lib/, so always rebuild from scratch.
+    rm_f File.join(JB_DIR, 'build', 'bin', 'jb')
+    Dir.chdir(JB_DIR) { sh 'spin', 'build', 'jb' }
+  end
+
+  desc "Run jb's checks under CRuby, then (when spin is on PATH) the compiled parity gate"
+  task :test do
+    sh RUBY, '-w', File.join(JB_DIR, 'bin', 'test.rb')
+    if system('command -v spin >/dev/null 2>&1')
+      # Spinel also caches test executables without noticing edits to lib/.
+      Dir.glob(File.join(JB_DIR, 'build', 'test', '*')).each do |path|
+        rm_f path if File.file?(path) && File.executable?(path)
+      end
+      Dir.chdir(JB_DIR) { sh 'spin', 'test' }
+    else
+      puts 'spin is not on PATH: skipped the compiled parity gate'
+    end
+  end
+end
 
 namespace :kanji do
   desc 'Validate canonical kanji records and source fingerprints'

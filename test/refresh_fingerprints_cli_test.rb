@@ -104,7 +104,7 @@ class RefreshFingerprintsCliTest < Minitest::Test
   end
 
   def run_cli(jmdict, *args)
-    Open3.capture3({ 'JMDICT_PATH' => jmdict }, RUBY, SCRIPT, *args)
+    Open3.capture3({ 'JMDICT_PATH' => jmdict, 'JIBIKI_CACHE_DIR' => File.join(File.dirname(jmdict), 'cache') }, RUBY, SCRIPT, *args)
   end
 
   def expected_fingerprint(jmdict_path)
