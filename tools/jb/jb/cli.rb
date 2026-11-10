@@ -4,6 +4,7 @@ require 'json'
 require 'stringio'
 require_relative 'version'
 require_relative 'errors'
+require_relative 'git'
 require_relative '../../../lib/entry_validator'
 require_relative '../../../lib/entry_doctor/runner'
 require_relative '../../../lib/org_lint'
@@ -12,6 +13,7 @@ require_relative 'commands/doctor'
 require_relative 'commands/jmdict'
 require_relative 'commands/lint'
 require_relative 'commands/check'
+require_relative 'commands/commit'
 
 module JB
   # The `jb` entry point: one word picks the command, the rest is its
@@ -29,6 +31,7 @@ module JB
         doctor [--json] [--with-jmdict] <path>...   entry health report
         lint [--json] <path>...                     org-lint's entry checkers, without Emacs
         jmdict <ent_seq>...                         indexed JMdict senses, as JSON
+        commit [--dry-run] [--template T] <path>... one commit per entry, titled from #+TITLE
         version                                     print the version
 
       JMdict is read from the index `rake jmdict:index` builds.
@@ -49,6 +52,7 @@ module JB
       when 'doctor' then Commands::Doctor.run(args, stdout)
       when 'jmdict' then Commands::Jmdict.run(args, stdout)
       when 'lint' then Commands::Lint.run(args, stdout)
+      when 'commit' then Commands::Commit.run(args, stdout)
       else raise UsageError, "unknown command: #{command} (see jb --help)"
       end
     rescue UsageError => e
@@ -57,6 +61,9 @@ module JB
     rescue EntryValidator::MissingJmdictIndex => e
       stderr.puts "jb: #{e.message}"
       EXIT_NO_INDEX
+    rescue Failed => e
+      stderr.puts "jb: #{e.message}"
+      EXIT_FAILED
     end
   end
 end

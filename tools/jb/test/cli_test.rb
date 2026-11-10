@@ -14,7 +14,7 @@ code, _out, err = JB::Check.run('frobnicate')
 JB::Check.equal('unknown command is a usage error', JB::EXIT_USAGE, code)
 JB::Check.includes('unknown command is named', err, 'unknown command: frobnicate')
 
-%w[validate doctor jmdict lint].each do |command|
+%w[validate doctor jmdict lint commit].each do |command|
   code, _out, err = JB::Check.run(command)
   JB::Check.equal("#{command} without arguments is a usage error", JB::EXIT_USAGE, code)
   JB::Check.includes("#{command} prints its usage", err, "usage: jb #{command}")

@@ -9,4 +9,7 @@ module JB
   EXIT_NO_INDEX = 3
 
   class UsageError < StandardError; end
+
+  # A command could not do its job (exit 2), e.g. git refused a commit.
+  class Failed < StandardError; end
 end
