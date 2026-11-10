@@ -30,7 +30,7 @@ end
 
 def dump(start, count)
   with_meanings[start, count].each_with_index do |record, offset|
-    meanings = record.source.meanings.first(4).join('; ')
+    meanings = record.source.meanings.join('; ')
     readings = (record.source.on_readings + record.source.kun_readings).first(3).join('、')
     puts [start + offset, record.codepoint, record.character, meanings, readings].join("\t")
   end

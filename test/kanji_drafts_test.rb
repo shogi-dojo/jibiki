@@ -49,6 +49,15 @@ class KanjiDraftsTest < Minitest::Test
     assert_equal applied, File.read(@path)
   end
 
+  def test_dump_keeps_every_source_meaning_for_editorial_review
+    record = Kanji::Record.load(@path)
+    meanings = %w[one two three four fifth]
+    File.write(@path, Kanji::Writer.render(keywords: record.keywords, source: record.source.with(meanings: meanings)))
+    output, error, status = Open3.capture3({ 'KANJI_DRAFT_ROOT' => @root }, RbConfig.ruby, SCRIPT, 'dump', '0', '1')
+    assert status.success?, error
+    assert_includes output, 'one; two; three; four; fifth'
+  end
+
   def test_rejects_duplicate_batches_before_applying_anything
     original = File.read(@path)
     File.write(@batch, "U+4E00\tодин\nU+4E00\tдва\n")
