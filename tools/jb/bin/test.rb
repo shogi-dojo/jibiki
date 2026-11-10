@@ -13,5 +13,6 @@ require_relative '../test/doctor_test'
 require_relative '../test/lint_test'
 require_relative '../test/check_test'
 require_relative '../test/commit_test'
+require_relative '../test/checkpoint_test'
 
 exit(JB::Check.failures.zero? ? 0 : 1)

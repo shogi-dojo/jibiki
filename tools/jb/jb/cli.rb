@@ -14,6 +14,7 @@ require_relative 'commands/jmdict'
 require_relative 'commands/lint'
 require_relative 'commands/check'
 require_relative 'commands/commit'
+require_relative 'commands/checkpoint'
 
 module JB
   # The `jb` entry point: one word picks the command, the rest is its
@@ -32,6 +33,7 @@ module JB
         lint [--json] <path>...                     org-lint's entry checkers, without Emacs
         jmdict <ent_seq>...                         indexed JMdict senses, as JSON
         commit [--dry-run] [--template T] <path>... one commit per entry, titled from #+TITLE
+        checkpoint --sources F --baseline B --ledger P...  ledgers, PROGRESS.md and state from git
         version                                     print the version
 
       JMdict is read from the index `rake jmdict:index` builds.
@@ -53,6 +55,7 @@ module JB
       when 'jmdict' then Commands::Jmdict.run(args, stdout)
       when 'lint' then Commands::Lint.run(args, stdout)
       when 'commit' then Commands::Commit.run(args, stdout)
+      when 'checkpoint' then Commands::Checkpoint.run(args, stdout)
       else raise UsageError, "unknown command: #{command} (see jb --help)"
       end
     rescue UsageError => e
