@@ -5,6 +5,7 @@ require 'stringio'
 require_relative 'version'
 require_relative 'errors'
 require_relative 'git'
+require_relative 'help'
 require_relative '../../../lib/entry_validator'
 require_relative '../../../lib/entry_doctor/runner'
 require_relative '../../../lib/org_lint'
@@ -22,29 +23,15 @@ module JB
   module CLI
     module_function
 
-    USAGE = <<~TEXT
-      jb #{VERSION}: the jibiki word-adding loop in one process
-
-      usage: jb <command> [args]
-
-        check [--yanagi] [--emacs] <path>...        validate + doctor + lint: the per-batch gate
-        validate [--json] <path>...                 the entry validator (docs/org-format.md §18)
-        doctor [--json] [--with-jmdict] <path>...   entry health report
-        lint [--json] <path>...                     org-lint's entry checkers, without Emacs
-        jmdict <ent_seq>...                         indexed JMdict senses, as JSON
-        commit [--dry-run] [--template T] <path>... one commit per entry, titled from #+TITLE
-        checkpoint --sources F --baseline B --ledger P...  ledgers, PROGRESS.md and state from git
-        version                                     print the version
-
-      JMdict is read from the index `rake jmdict:index` builds.
-    TEXT
-
     def main(argv, stdout: $stdout, stderr: $stderr)
       args = argv.dup
       command = args.shift
+      return help(args.first, stdout) if command == 'help'
+      return help(command, stdout) if Help.for(command.to_s) && (args.include?('--help') || args.include?('-h'))
+
       case command
-      when nil, 'help', '-h', '--help'
-        stdout.puts USAGE
+      when nil, '-h', '--help'
+        stdout.puts Help::OVERVIEW
         EXIT_OK
       when 'version', '--version'
         stdout.puts "jb #{VERSION}"
@@ -60,6 +47,7 @@ module JB
       end
     rescue UsageError => e
       stderr.puts "jb: #{e.message}"
+      stderr.puts "see: jb help #{command}" if Help.for(command.to_s)
       EXIT_USAGE
     rescue EntryValidator::MissingJmdictIndex => e
       stderr.puts "jb: #{e.message}"
@@ -67,6 +55,18 @@ module JB
     rescue Failed => e
       stderr.puts "jb: #{e.message}"
       EXIT_FAILED
+    end
+
+    def help(command, out)
+      if command.nil?
+        out.puts Help::OVERVIEW
+        return EXIT_OK
+      end
+      text = Help.for(command)
+      raise UsageError, "no such command: #{command} (see jb --help)" unless text
+
+      out.puts text
+      EXIT_OK
     end
   end
 end
