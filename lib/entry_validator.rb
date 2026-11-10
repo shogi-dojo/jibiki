@@ -5,7 +5,7 @@ require 'fileutils'
 require 'tmpdir'
 require_relative 'dictionary_sources/jmdict'
 require_relative 'org_entry'
-require 'yanagi'
+require_relative 'romaji'
 
 # The entry validator behind `rake entries:validate` (docs/org-format.md §18).
 # Its functions are module functions, so library users call
@@ -43,10 +43,11 @@ module EntryValidator
   STABLE_ID_PATTERN = /(?:\A|\s)(?<id>(?:(?:wf|rd|s|ru-ref)-\d+-\d{3}|(?:en-s|uk-s|note-s|col-s|con-s|rel-s|idiom-s|ex|accent-rd|audio-rd)-\d+-\d{3}-\d{3}))\z/
 
 
-  # Romaji rendering is provided by the yanagi gem, which owns the single
-  # kana->Hepburn implementation shared with the meijin repo.
+  # Romaji rendering follows the yanagi gem, which owns the kana->Hepburn
+  # rules shared with the meijin repo; lib/romaji.rb restates it without the
+  # gem so the validator compiles under Spinel.
   def to_romaji(str)
-    Yanagi.romaji(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di').gsub('iぇ', 'ye')
+    Romaji.call(str).gsub('jiぇ', 'je').gsub('cheぇ', 'che').gsub('sheぇ', 'she').gsub('tiぃ', 'ti').gsub('diぃ', 'di').gsub('iぇ', 'ye')
   end
 
   def romaji_matches?(reading, romaji)
