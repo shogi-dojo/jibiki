@@ -28,4 +28,5 @@ Dir.mktmpdir do |directory|
 end
 
 code, _out, err = JB::Check.run('lint')
-JB::Check.equal('lint without arguments is a usage error', [JB::EXIT_USAGE, true], [code, err.include?('usage: jb lint')])
+JB::Check.equal('lint without arguments is a usage error', [JB::EXIT_USAGE, true],
+                [code, err.include?('usage: jb lint')])

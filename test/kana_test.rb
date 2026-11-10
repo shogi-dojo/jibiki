@@ -8,7 +8,7 @@ require_relative '../lib/kana'
 class KanaTest < Minitest::Test
   SAMPLES = [
     '', 'わかる', 'ワカル', 'ｶﾀｶﾅ', 'ヴァイオリン', 'ヶ月', 'ヵ', 'ー', 'ﾊﾟﾝ', '漢字かなカナ',
-    'Ｒｕｂｙ１２３', 'がっこう', 'ヷヸ', "ヶヷ", 'ABC abc'
+    'Ｒｕｂｙ１２３', 'がっこう', 'ヷヸ', 'ヶヷ', 'ABC abc'
   ].freeze
 
   def test_to_hiragana_matches_yanagi

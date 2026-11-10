@@ -37,7 +37,9 @@ end
 if __FILE__ == $PROGRAM_NAME
   if ARGV.include?('--check')
     current = File.exist?(YanagiTables::TARGET) ? File.read(YanagiTables::TARGET, encoding: 'UTF-8') : ''
-    abort "#{YanagiTables::TARGET} is out of date: rerun scripts/gen_yanagi_tables.rb" unless current == YanagiTables.source
+    unless current == YanagiTables.source
+      abort "#{YanagiTables::TARGET} is out of date: rerun scripts/gen_yanagi_tables.rb"
+    end
     puts 'romaji table is current'
   else
     File.write(YanagiTables::TARGET, YanagiTables.source)

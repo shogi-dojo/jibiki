@@ -48,7 +48,7 @@ module Romaji
     moras.each_with_index do |mora, idx|
       case mora.kind
       when :sokuon
-        following = moras[(idx + 1)..].find { |m| m.kind == :syllable || m.kind == :moraic_n }
+        following = moras[(idx + 1)..].find { |m| %i[syllable moraic_n].include?(m.kind) }
         if following
           next_rom = TABLE.fetch(following.kana, following.kana)
           consonant = next_rom.start_with?('ch') ? 't' : next_rom[0]

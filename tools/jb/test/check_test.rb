@@ -20,7 +20,7 @@ Dir.mktmpdir do |directory|
 
   code, out, = JB::Check.run('check', bad)
   JB::Check.equal('a broken entry fails the gate', JB::EXIT_FAILED, code)
-  JB::Check.includes('the lint step fails', out, "lint      FAIL")
+  JB::Check.includes('the lint step fails', out, 'lint      FAIL')
   JB::Check.includes("the failing step's output follows", out, "--- lint\n#{bad}:")
   JB::Check.includes('an unparsable entry fails the doctor step', out, 'doctor    FAIL')
   JB::Check.includes('the parse error is reported', out, "unreadable: #{bad}: Line 19:")

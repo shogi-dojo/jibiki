@@ -51,7 +51,7 @@ Dir.mktmpdir do |directory|
     JB::Check.includes('older sections are kept', progress, "## Older goal\n\nKept.\n")
     JB::Check.includes('a finished set says so', progress, '**2/2 committed; 0 remain.**')
     JB::Check.includes('finished set status', progress, 'All two batches are complete.')
-    JB::Check.includes('a running set says where to continue', progress, "**1/2 committed; 1 remain.**")
+    JB::Check.includes('a running set says where to continue', progress, '**1/2 committed; 1 remain.**')
     JB::Check.includes('running set status', progress, 'Continue with batch 2.')
 
     add_entry(rows[3]['path'])

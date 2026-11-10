@@ -142,7 +142,7 @@ module JB
           lines << [(index / batch_size) + 1, row['source_name'], row['source_order'], row['written'], row['reading'],
                     row['jmdict_id'], row['path'], commits.fetch(row['path'], ''), row['source_url'],
                     row['source_page_sha256'], row['source_guid'], row['source_tags']].map { |v| tsv_field(v) }
-                                                                                       .join("\t")
+                                                                                      .join("\t")
         end
         "#{lines.join("\n")}\n"
       end

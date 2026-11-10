@@ -75,15 +75,15 @@ class JmdictLookupTest < Minitest::Test
     with_archive do |jmdict|
       expected = QUERIES.map { |query| seqs(jmdict.lookup(**query)) }
 
-      assert_equal expected, jmdict.lookup_many(QUERIES).map { |matches| seqs(matches) }
+      assert_equal(expected, jmdict.lookup_many(QUERIES).map { |matches| seqs(matches) })
     end
   end
 
   def test_expected_matches
     with_archive do |jmdict|
-      assert_equal [%w[1000030], %w[1000020 1000030], %w[1000020 1000030], %w[1000030], [], %w[1000040],
+      assert_equal([%w[1000030], %w[1000020 1000030], %w[1000020 1000030], %w[1000030], [], %w[1000040],
                     %w[1000040], %w[1000010], [], %w[1000020 1000030]],
-                   jmdict.lookup_many(QUERIES).map { |matches| seqs(matches) }
+                   jmdict.lookup_many(QUERIES).map { |matches| seqs(matches) })
     end
   end
 

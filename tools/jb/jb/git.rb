@@ -10,7 +10,10 @@ module JB
 
     def run(*args)
       stdout, stderr, status = Open3.capture3('git', *args)
-      raise Failed, "git #{args.first} failed: #{stderr.strip.empty? ? stdout.strip : stderr.strip}" unless status.success?
+      unless status.success?
+        raise Failed,
+              "git #{args.first} failed: #{stderr.strip.empty? ? stdout.strip : stderr.strip}"
+      end
 
       stdout
     end

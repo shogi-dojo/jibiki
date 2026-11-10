@@ -90,14 +90,18 @@ module JbTasks
     by_check = findings.group_by { |f| [f['check'], f['severity']] }
     unless by_check.empty?
       puts 'Findings by Check:'
-      by_check.sort_by { |(_c, sev), items| [%w[error warn info].index(sev), -items.length] }.each do |(check, sev), items|
+      by_check.sort_by do |(_c, sev), items|
+        [%w[error warn info].index(sev), -items.length]
+      end.each do |(check, sev), items|
         puts format('  %-8s %s: %d occurrence(s)', "[#{sev.upcase}]", check, items.length)
       end
       puts '-' * 56
     end
     failed.first(10).each do |r|
       puts "  - #{File.basename(r['path'].to_s)} (score: #{r['health_score']})"
-      r['findings'].select { |f| f['severity'] == 'error' }.first(3).each { |f| puts "      * #{f['check']}: #{f['detail']}" }
+      r['findings'].select do |f|
+        f['severity'] == 'error'
+      end.first(3).each { |f| puts "      * #{f['check']}: #{f['detail']}" }
     end
     puts "  ... and #{failed.length - 10} more" if failed.length > 10
     abort "Result: FAILED (#{errors} errors found)" if errors.positive?

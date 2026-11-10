@@ -6,6 +6,8 @@ AllCops:
     - sources/**/*
     - tmp/**/*
     - vendor/**/*
+    # Written by scripts/gen_*.rb; regenerate rather than edit.
+    - lib/generated/**/*
 
 # The CLI scripts include EntryValidator at the top level so its functions
 # stay callable without a receiver, as they were before the move to lib/.

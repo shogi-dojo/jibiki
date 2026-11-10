@@ -27,7 +27,9 @@ class JmdictIndexTest < Minitest::Test
         indexed = index.entry(seq)
 
         assert_equal seq, indexed[:ent_seq]
-        assert_equal(parsed[:senses].map { |s| s[:source_fingerprint] }, indexed[:senses].map { |s| s[:source_fingerprint] })
+        assert_equal(parsed[:senses].map { |s| s[:source_fingerprint] }, indexed[:senses].map do |s|
+          s[:source_fingerprint]
+        end)
         assert_equal(parsed[:senses].map { |s| s[:index] }, indexed[:senses].map { |s| s[:index] })
         assert_equal(parsed[:senses].map { |s| s[:glosses].map { |g| g[:lang] }.uniq },
                      indexed[:senses].map { |s| s[:glosses].map { |g| g[:lang] } })
@@ -40,7 +42,7 @@ class JmdictIndexTest < Minitest::Test
       lines = File.readlines(index.path, chomp: true)
 
       assert_equal "# #{DictionarySources::JmdictIndex::HEADER} sha256=#{jmdict.archive_sha256}", lines.first
-      assert_equal %w[1000010 1000020 1000030 1000040], lines.drop(1).map { |line| line.split("\t").first }
+      assert_equal(%w[1000010 1000020 1000030 1000040], lines.drop(1).map { |line| line.split("\t").first })
     end
   end
 

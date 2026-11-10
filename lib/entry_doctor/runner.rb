@@ -45,14 +45,14 @@ module EntryDoctor
       total_infos = reports.sum { |r| r.infos.length }
       avg_score = reports.empty? ? 0 : (reports.sum(&:health_score).to_f / reports.length).round(1)
 
-      io.puts "========================================================"
-      io.puts "  JIBIKI ENTRY DOCTOR REPORT"
-      io.puts "========================================================"
+      io.puts '========================================================'
+      io.puts '  JIBIKI ENTRY DOCTOR REPORT'
+      io.puts '========================================================'
       io.puts "Analyzed entries: #{reports.length}"
       io.puts "Average health score: #{avg_score}/100"
       io.puts "Passed: #{reports.count(&:passed?)} | Failed: #{reports.count { |r| !r.passed? }}"
       io.puts "Total findings: #{total_errors} errors, #{total_warnings} warnings, #{total_infos} infos"
-      io.puts "--------------------------------------------------------"
+      io.puts '--------------------------------------------------------'
 
       # Group findings by check
       all_findings = reports.flat_map do |r|
@@ -62,8 +62,14 @@ module EntryDoctor
       grouped_by_check = all_findings.group_by { |item| [item[:finding].check, item[:finding].severity] }
 
       if grouped_by_check.any?
-        io.puts "Findings by Check:"
-        grouped_by_check.sort_by { |(check, sev), items| [sev == :error ? 0 : (sev == :warn ? 1 : 2), -items.length] }.each do |(check, sev), items|
+        io.puts 'Findings by Check:'
+        grouped_by_check.sort_by do |(_check, sev), items|
+          [if sev == :error
+             0
+           else
+             (sev == :warn ? 1 : 2)
+           end, -items.length]
+        end.each do |(check, sev), items|
           badge = case sev
                   when :error then '[ERROR]'
                   when :warn then '[WARN] '
@@ -71,7 +77,7 @@ module EntryDoctor
                   end
           io.puts "  #{badge} #{check}: #{items.length} occurrence(s)"
         end
-        io.puts "--------------------------------------------------------"
+        io.puts '--------------------------------------------------------'
       end
 
       if reports.length == 1
@@ -82,13 +88,13 @@ module EntryDoctor
         io.puts "  Senses: #{report.stats[:total_senses]} (English: #{report.stats[:eng_senses_count]}, Covered: #{report.stats[:covered_eng_senses]})"
         io.puts "  Examples: #{report.stats[:total_examples]}"
         if report.findings.any?
-          io.puts "  Findings:"
+          io.puts '  Findings:'
           report.findings.each do |f|
             io.puts "    - [#{f.severity.upcase}] #{f.check} (#{f.sense_id || 'entry'}): #{f.detail}"
           end
         end
       elsif total_errors.positive?
-        io.puts "Failed Entries (showing first 10):"
+        io.puts 'Failed Entries (showing first 10):'
         reports.reject(&:passed?).take(10).each do |r|
           io.puts "  - #{File.basename(r.path || r.entry.romaji)} (score: #{r.health_score}): #{r.errors.length} error(s)"
           r.errors.take(3).each do |err|
@@ -96,14 +102,14 @@ module EntryDoctor
           end
         end
         io.puts "  ... and #{reports.count { |r| !r.passed? } - 10} more" if reports.count { |r| !r.passed? } > 10
-        io.puts "--------------------------------------------------------"
+        io.puts '--------------------------------------------------------'
       end
 
       if total_errors.positive?
         io.puts "Result: FAILED (#{total_errors} errors found)"
         2
       else
-        io.puts "Result: PASSED (0 errors found)"
+        io.puts 'Result: PASSED (0 errors found)'
         0
       end
     end

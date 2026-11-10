@@ -79,7 +79,10 @@ class OrgLintTest < Minitest::Test
       ELISP
       stdout, stderr, status = Open3.capture3('emacs', '--batch', '--eval', elisp, *paths)
       assert status.success?, stderr
-      emacs = stdout.lines.map { |line| name, n, checker = line.chomp.split("\t"); [name, n.to_i, checker] }.sort
+      emacs = stdout.lines.map do |line|
+        name, n, checker = line.chomp.split("\t")
+        [name, n.to_i, checker]
+      end.sort
 
       assert_equal emacs, native(paths)
     end
