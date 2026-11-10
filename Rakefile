@@ -88,18 +88,6 @@ namespace :sources do
 end
 
 namespace :entries do
-  desc 'Validate one entry path, or all entries when PATH is omitted'
-  task :validate, [:path] do |_task, args|
-    paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
-    sh RUBY, 'scripts/validate_entry.rb', *paths
-  end
-
-  desc 'Run Emacs org-lint on one entry path, or all entries when PATH is omitted'
-  task :lint, [:path] do |_task, args|
-    paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
-    lint_org_files(paths)
-  end
-
   desc 'Migrate one entry path, or all entries when PATH is omitted, from schema v1 to v2'
   task :migrate_v2, [:path] do |_task, args|
     paths = args[:path] ? [args[:path]] : Dir['entries/*/*.org'].sort
@@ -171,18 +159,7 @@ namespace :export do
   end
 end
 
-desc 'Score corpus health and check for editorial defects across all entries'
-task :doctor do
-  sh RUBY, 'scripts/doctor.rb'
-end
-
 namespace :doctor do
-  desc 'Score health and show verbose findings for one entry: rake "doctor:entry[entries/1464/1464530-nihongo.org]"'
-  task :entry, [:path] do |_task, args|
-    abort 'Provide an entry path: rake "doctor:entry[entries/1464/1464530-nihongo.org]"' unless args[:path]
-    sh RUBY, 'scripts/doctor.rb', args[:path]
-  end
-
   desc 'Generate HTML doctor report: rake "doctor:report[build/doctor_report.html]"'
   task :report, [:output] do |_task, args|
     args.with_defaults(output: 'build/doctor_report.html')
