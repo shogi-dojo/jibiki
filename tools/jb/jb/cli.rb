@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'json'
+require 'stringio'
 require_relative 'version'
 require_relative 'errors'
 require_relative '../../../lib/entry_validator'
@@ -10,6 +11,7 @@ require_relative 'commands/validate'
 require_relative 'commands/doctor'
 require_relative 'commands/jmdict'
 require_relative 'commands/lint'
+require_relative 'commands/check'
 
 module JB
   # The `jb` entry point: one word picks the command, the rest is its
@@ -22,6 +24,7 @@ module JB
 
       usage: jb <command> [args]
 
+        check [--yanagi] [--emacs] <path>...        validate + doctor + lint: the per-batch gate
         validate [--json] <path>...                 the entry validator (docs/org-format.md §18)
         doctor [--json] [--with-jmdict] <path>...   entry health report
         lint [--json] <path>...                     org-lint's entry checkers, without Emacs
@@ -41,6 +44,7 @@ module JB
       when 'version', '--version'
         stdout.puts "jb #{VERSION}"
         EXIT_OK
+      when 'check' then Commands::Check.run(args, stdout)
       when 'validate' then Commands::Validate.run(args, stdout)
       when 'doctor' then Commands::Doctor.run(args, stdout)
       when 'jmdict' then Commands::Jmdict.run(args, stdout)
