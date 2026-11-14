@@ -1,0 +1,149 @@
+#+TITLE: 回診
+#+JMDICT_ID: 1199500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいしん
+#+ROMAJI: kaishin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1199500-001
+:PROPERTIES:
+:TEXT: 回診
+:END:
+** Reading rd-1199500-001
+:PROPERTIES:
+:TEXT: かいしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1199500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aed0107522047de9b4c0f3706eaab6596299dd8e99bfa6e4acc7cf132193d474
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- doctor's rounds (in a hospital)
+** Ukrainian glosses
+*** uk-s-1199500-001-001
+:PROPERTIES:
+:END:
+- text :: лікарський обхід (у стаціонарі)
+** Learner notes
+*** note-s-1199500-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний термін, що позначає регулярний обхід пацієнтів лікарем чи групою лікарів у лікарняних палатах. Вживається як іменник і як дієслово з する, зокрема у висловах 朝の回診 (ранковий обхід) або 病室を回診する (робити обхід палат).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1199500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝九時に先生の回診がある。
+- READING :: あさくじにせんせいのかいしんがある。
+- UK :: О дев'ятій ранку відбувається лікарський обхід.
+- FOCUS :: 回診
+*** ex-1199500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 看護師と医師が一緒に病室を回り、丁寧な回診を行っている。
+- READING :: かんごしといしがいっしょにびょうしつをまわり、ていねいなかいしんをおこなっている。
+- UK :: Медсестра та лікар разом обходять палати й уважно оглядають пацієнтів під час обходу.
+- FOCUS :: 回診
+*** ex-1199500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 手術後の経過を確認するため、主治医は休日であっても毎日病棟の回診を欠かさなかった。
+- READING :: しゅじゅつごのけいかをかくにんするため、しゅじいはきゅうじつであってもまいにちびょうとうのかいしんをかかさなかった。
+- UK :: Щоб стежити за відновленням після операції, лікуючий лікар не пропускав щоденного обходу відділення навіть у вихідні.
+- FOCUS :: 回診
+
+* Sense s-1199500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3a74649756024f61351822f699734ed6a4c7ad911cfc3b1b38d3615edef31467
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199500-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Visite
+*** en-s-1199500-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arztvisite
+*** en-s-1199500-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krankenbesuch des Arztes
+*** en-s-1199500-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Visite machen
+** Ukrainian glosses
+
+* Sense s-1199500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8fecb9505bd7b63a0227317f5d5816c70a643cbddf073d027eb5ac7b2096d4c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1199500-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обход больных (врачом)
+*** en-s-1199500-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} совершать обход больных
+** Ukrainian glosses
