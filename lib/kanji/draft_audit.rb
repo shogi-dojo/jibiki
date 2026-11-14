@@ -28,6 +28,9 @@ module Kanji
       { yanagi_version: Yanagi::VERSION, records: records.size,
         translated_records: records.count { |record| record.translations.any? },
         source_gaps: records.count { |record| record.source.meanings.empty? },
+        untranslated_source_gaps: records.count do |record|
+          record.source.meanings.empty? && record.translations.empty?
+        end,
         reviewed_records: records.count { |record| record.translations.any? { |t| t.status == 'reviewed' } },
         missing_drafts: empty, metadata_only_drafts: metadata_only,
         foreign_script_drafts: records.select { |record| record.translations.any? { |t| t.text.match?(/[ыэъё]/i) } }.map(&:codepoint),
