@@ -1,0 +1,23 @@
+{
+  "description": "Japanese editorial terms from the kanji sources. Ordinary Ukrainian words are explicit caller-supplied exceptions, not changes to Yanagi mora rules. Findings remain advisory.",
+  "anchors": [
+    {"kana":"こくじ","kanji":"国字","origin":"KANJIDIC2 kokuji label"},
+    {"kana":"しゃく","kanji":"尺","origin":"Japanese unit in source meanings"},
+    {"kana":"もんめ","kanji":"匁","origin":"Japanese unit in source meanings"},
+    {"kana":"しんとう","kanji":"神道","origin":"Shinto in source meanings"},
+    {"kana":"しょうぎ","kanji":"将棋","origin":"Japanese chess in source meanings"},
+    {"kana":"ふじ","kanji":"富士","origin":"Mt Fuji in source meanings"},
+    {"kana":"ぎょうざ","kanji":"餃子","origin":"gyoza in source meanings"},
+    {"kana":"めいぼくせんだいはぎ","origin":"play title in source meanings"}
+  ],
+  "ukrainian_words": {
+    "того":"Inflected Ukrainian demonstrative, not the Japanese name Togo.",
+    "дзьоб":"Ukrainian for beak, not a Japanese transliteration.",
+    "дзьоби":"Plural of Ukrainian beak.",
+    "зачіска":"Ukrainian for hairstyle.",
+    "затишшя":"Ukrainian for lull.",
+    "чаші":"Inflected Ukrainian word for bowl.",
+    "чіплятися":"Ukrainian verb, not Japanese.",
+    "зачісувати":"Ukrainian verb, not Japanese."
+  }
+}

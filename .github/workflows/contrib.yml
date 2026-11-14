@@ -59,3 +59,7 @@ jobs:
       - name: Validate changed entries
         if: steps.changed.outputs.count != '0'
         run: xargs --no-run-if-empty bundle exec ruby scripts/validate_entry.rb < changed.txt
+      - name: Validate changed kanji records
+        run: |
+          git diff --name-only --diff-filter=AMR "origin/${GITHUB_BASE_REF}...HEAD" -- 'kanji/U+*.org' > changed-kanji.txt
+          xargs --no-run-if-empty bundle exec ruby scripts/validate_kanji.rb < changed-kanji.txt

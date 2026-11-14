@@ -271,3 +271,15 @@ namespace :jb do
     end
   end
 end
+
+namespace :kanji do
+  desc 'Audit kanji draft transliteration and coverage with Yanagi (advisory JSON)'
+  task :audit do
+    sh RUBY, 'scripts/audit_kanji_drafts.rb'
+  end
+
+  desc 'Validate canonical kanji records and source fingerprints'
+  task :validate do
+    sh RUBY, 'scripts/validate_kanji.rb'
+  end
+end

@@ -13,4 +13,4 @@ gem 'csv'
 # Japanese->Ukrainian transliteration policy engine, shared with the meijin
 # repo. Ships transliteration policy only; corpus-derived data (lexicon,
 # native-Ukrainian allowlist) is supplied via YANAGI_DATA_DIR.
-gem 'yanagi', '~> 0.1'
+gem 'yanagi', '~> 0.3.2', git: 'https://github.com/shogi-dojo/yanagi.git', ref: 'ed2226111babf742195bb4b6c2c2f85bd6961ae2'
