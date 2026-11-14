@@ -72,7 +72,6 @@ def apply
     raise "unknown character #{codepoint}" unless File.exist?(path)
 
     record = Kanji::Record.load(path)
-    raise "no English source meanings for #{codepoint}" if record.source.meanings.empty?
     raise Kanji::Validator.call(record).join('; ') unless Kanji::Validator.call(record).empty?
     next skipped += 1 if record.translations.any? { |translation| translation.status == 'reviewed' }
 
@@ -102,9 +101,9 @@ def coverage
   counts = Hash.new(0)
   records.each do |record|
     statuses = record.translations.map(&:status)
-    key = if record.source.meanings.empty? then 'source_meaning_unavailable'
-          elsif statuses.include?('reviewed') then 'reviewed'
+    key = if statuses.include?('reviewed') then 'reviewed'
           elsif statuses.include?('draft') then 'draft'
+          elsif record.source.meanings.empty? then 'source_meaning_unavailable'
           else 'missing'
           end
     counts[key] += 1

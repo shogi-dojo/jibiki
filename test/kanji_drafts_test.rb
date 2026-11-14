@@ -74,4 +74,35 @@ class KanjiDraftsTest < Minitest::Test
     assert status.success?, error
     assert_equal original, File.read(@path)
   end
+
+  def test_applies_and_counts_batch_draft_when_source_meanings_are_empty
+    gap_source = Kanji::Source.new(stroke_count: 6, grade: nil, frequency: nil,
+                                   on_readings: [], kun_readings: [], meanings: [])
+    gap_path = File.join(@root, 'kanji/U+20509.org')
+    File.write(gap_path, <<~ORG)
+      #+TITLE: 𠔉
+      #+CODEPOINT: U+20509
+      #+SCHEMA_VERSION: 1
+      #+DEFAULT_LICENSE: CC-BY-SA-4.0
+
+      * Source
+      :PROPERTIES:
+      :SOURCE_FINGERPRINT: #{gap_source.fingerprint}
+      :STROKE_COUNT: 6
+      :END:
+
+      * Ukrainian meanings
+    ORG
+    File.write(@batch, "U+20509\tсувій\n")
+
+    _, error, status = run_script('apply')
+    assert status.success?, error
+    record = Kanji::Record.load(gap_path)
+    assert_equal ['сувій'], record.translations.map(&:text)
+
+    out, err, cov_status = run_script('coverage')
+    assert cov_status.success?, err
+    assert_includes out, '"draft": 1'
+    assert_includes out, '"reviewed": 1'
+  end
 end

@@ -105,3 +105,12 @@ r20260714, see `sources/kanji/MANIFEST.json`).
 - Copyright: Ulrich Apel
 - Licence: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0),
   per https://creativecommons.org/licenses/by-sa/3.0/
+
+## Unicode Character Database (Unihan, consulted for source-gap kanji)
+
+- Source: Unicode Character Database (Unihan), Unicode Consortium
+- URL: https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip
+- Licence: Unicode License v3 (https://www.unicode.org/license.txt)
+- Use in repository: Consulted together with JMdict for semantic attestation when authoring
+  original Ukrainian draft translations for KANJIDIC2 English source-gap kanji in
+  `drafts/kanji/batch-036..042.tsv`; raw Unihan text is not redistributed.

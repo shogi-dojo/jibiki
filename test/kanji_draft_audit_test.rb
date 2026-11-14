@@ -41,4 +41,24 @@ class KanjiDraftAuditTest < Minitest::Test
     assert_equal original, entry.translations
     assert_equal 1, report[:reviewed_records]
   end
+
+  def test_tracks_untranslated_source_gaps_separately_from_source_gaps
+    empty_source = Kanji::Source.new(stroke_count: 2, grade: nil, frequency: nil,
+                                     on_readings: [], kun_readings: [], meanings: [])
+    gap_only = Kanji::Record.new(
+      keywords: { 'TITLE' => '𠂉', 'CODEPOINT' => 'U+20089', 'SCHEMA_VERSION' => '1',
+                  'DEFAULT_LICENSE' => 'CC-BY-SA-4.0' },
+      source: empty_source, translations: [], stored_fingerprint: empty_source.fingerprint
+    )
+    translated_gap = Kanji::Record.new(
+      keywords: gap_only.keywords, source: empty_source,
+      translations: [Kanji::Translation.new(id: 'uk-U+20089-001', text: 'сувій', status: 'draft',
+                                            reviewed_by: nil)],
+      stored_fingerprint: empty_source.fingerprint
+    )
+    report = Kanji::DraftAudit.call([gap_only, translated_gap], POLICY)
+    assert_equal 2, report[:source_gaps]
+    assert_equal 1, report[:untranslated_source_gaps]
+    assert_equal 1, report[:translated_records]
+  end
 end
