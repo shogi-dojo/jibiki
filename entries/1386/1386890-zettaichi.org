@@ -1,0 +1,132 @@
+#+TITLE: 絶対値
+#+JMDICT_ID: 1386890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜったいち
+#+ROMAJI: zettaichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1386890-001
+:PROPERTIES:
+:TEXT: 絶対値
+:END:
+** Reading rd-1386890-001
+:PROPERTIES:
+:TEXT: ぜったいち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1386890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 42d7e97e3bed131735f45b2649511b70f55f3bce8bc02fd1233ab8c2f1ebae78
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- absolute value
+** Ukrainian glosses
+*** uk-s-1386890-001-001
+:PROPERTIES:
+:END:
+- text :: абсолютна величина, модуль (числа)
+** Learner notes
+*** note-s-1386890-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін на позначення невід'ємного значення числа незалежно від його знака (наприклад, модулі чисел 5 і -5 дорівнюють 5).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1386890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: マイナスの数でも絶対値は正の数になる。
+- READING :: まいなすのかずでもぜったいちはせいのかずになる。
+- UK :: Навіть у від'ємного числа модуль є додатним числом.
+- FOCUS :: 絶対値
+*** ex-1386890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 数直線上で原点からの距離を表すのが絶対値であり、符号を取り除いて大きさを比べる際に使う。
+- READING :: すうちょくせんじょうでげんてんからのきょりをあらわすのがぜったいちであり、ふごうをとりのぞいておおきさをくらべるさいにつかう。
+- UK :: Модуль показує відстань від початку координат на числовій прямій і використовується, коли потрібно порівняти величини без урахування знака.
+- FOCUS :: 絶対値
+*** ex-1386890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 測定データの誤差を評価するときには、プラスとマイナスが相殺されないよう各偏差の絶対値を足し合わせて平均を取ることがある。
+- READING :: そくていでーたのごさをひょうかするときには、ぷらすとまいなすがそうさいされないようかくへんさのぜったいちをたしあわせてへいきんをとることがある。
+- UK :: Оцінюючи похибку вимірювань, інколи додають модулі всіх відхилень і знаходять середнє, щоб плюсові та мінусові значення не компенсували одне одного.
+- FOCUS :: 絶対値
+
+* Sense s-1386890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3904ff6346e533ec7bcf21d444be93328ff5566fb30b658eb3fea31309b0f36e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386890-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Betrag
+*** en-s-1386890-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absoluter Wert
+*** en-s-1386890-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Absolutwert
+** Ukrainian glosses
+
+* Sense s-1386890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ec664073266e9881fdd0a7070ec62d2e8969fc90c2f7fc55d7970b7a2107ce66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1386890-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) абсолютная величина
+** Ukrainian glosses

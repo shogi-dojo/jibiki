@@ -1,0 +1,239 @@
+#+TITLE: 蕁麻疹
+#+JMDICT_ID: 1571740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じんましん
+#+ROMAJI: jinmashin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1571740-001
+:PROPERTIES:
+:TEXT: 蕁麻疹
+:END:
+** Written form wf-1571740-002
+:PROPERTIES:
+:TEXT: じん麻疹
+:END:
+** Reading rd-1571740-001
+:PROPERTIES:
+:TEXT: じんましん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1571740-002
+:PROPERTIES:
+:TEXT: ジンマシン
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1571740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dd37a38a2e8ebbb29f1fabf97cfb6e714cea61e93446249726840415a4c5d32a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+*** Miscellaneous and register
+- uk
+** English glosses
+- hives
+- nettle rash
+- urticaria
+** Ukrainian glosses
+*** uk-s-1571740-001-001
+:PROPERTIES:
+:END:
+- text :: кропив'янка
+** Learner notes
+*** note-s-1571740-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний і побутовий термін на позначення гострого шкірного висипу з пухирцями та свербежем, схожого на опік кропивою. Попри складне ієрогліфічне написання (蕁麻疹), зазвичай пишеться хіраґаною або катаканою.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1571740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 急に腕にじんましんが出た。
+- READING :: きゅうにうでにじんましんがでた。
+- UK :: На руці раптово з'явилася кропив'янка.
+- FOCUS :: じんましん
+*** ex-1571740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 慣れない甲殻類を食べたせいか、夜になって全身にかゆみを伴うじんましんが広がった。
+- READING :: なれないこうかくるいをたべたせいか、よるになってぜんしんにかゆみをともなうじんましんがひろがった。
+- UK :: Мабуть, через незвичних ракоподібних увечері по всьому тілу поширилася свербляча кропив'янка.
+- FOCUS :: じんましん
+*** ex-1571740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ストレスや寒暖差が引き金となってじんましんを繰り返す人も多く、早めに専門医を受診することが勧められる。
+- READING :: すとれすやかんだんさがひきがねとなってじんましんをくりかえすひともおおく、はやめにせんもんいをじゅしんすることがすすめられる。
+- UK :: Багато людей регулярно стикаються з кропив'янкою через стрес або різкі перепади температури, тому в таких випадках радять вчасно звернутися до профільного лікаря.
+- FOCUS :: じんましん
+
+* Sense s-1571740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: afbdba5c27a91e7faa80b690978cd3acf3830fb3b9f212c7edf55eae04bcd7f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1571740-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} netelroos
+*** en-s-1571740-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: netelkoorts
+*** en-s-1571740-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: netelzucht
+*** en-s-1571740-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: galbulten
+*** en-s-1571740-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: urticaria
+*** en-s-1571740-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} tengelkoorts
+*** en-s-1571740-002-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} windbuilen
+** Ukrainian glosses
+
+* Sense s-1571740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 92aea054a678328e6ba395a4b6574f9a6184cb2d260fb74ddcebd10bc05a1003
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1571740-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nesselsucht
+*** en-s-1571740-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nesselausschlag
+*** en-s-1571740-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nesselfieber
+*** en-s-1571740-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urtikaria
+** Ukrainian glosses
+
+* Sense s-1571740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 74cf5951183ae966a7f2d193fda5418df413aa710dc0dbbf0f25587ac8c3eef7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1571740-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csalánkiütés
+** Ukrainian glosses
+
+* Sense s-1571740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 70fa8e5cc764d035d0ef4b3c7d5255d17ec2dfc25c760c2725e8fabb3439e17d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1571740-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) крапивница, крапивная лихорадка
+** Ukrainian glosses

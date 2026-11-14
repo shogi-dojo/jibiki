@@ -1,0 +1,131 @@
+#+TITLE: 抵当権者
+#+JMDICT_ID: 2118350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていとうけんしゃ
+#+ROMAJI: teitoukensha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2118350-001
+:PROPERTIES:
+:TEXT: 抵当権者
+:END:
+** Reading rd-2118350-001
+:PROPERTIES:
+:TEXT: ていとうけんしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2118350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 54e5b5d9b6e1e0f72384c8df47192f61c85b47268324ba01331e2662625fa0ea
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mortgagee
+- loan holder
+** Ukrainian glosses
+*** uk-s-2118350-001-001
+:PROPERTIES:
+:END:
+- text :: іпотекодержатель, заставодержатель, кредитор за іпотекою
+** Learner notes
+*** note-s-2118350-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін: банк, фінансова установа або особа, яка має право застави (抵当権) на нерухоме майно боржника для забезпечення повернення позики (протиставляється 抵当権設定者 — заставодавець).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2118350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行が抵当権者になっている。
+- READING :: ぎんこうがていとうけんしゃになっている。
+- UK :: Банк виступає заставодержателем.
+- FOCUS :: 抵当権者
+*** ex-2118350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 住宅ローンを完済すると、抵当権者から抹消登記に必要な書類が届く。
+- READING :: じゅうたくろーんをかんさいすると、ていとうけんしゃからまっしょうとうきにひつようなしょるいがとどく。
+- UK :: Після повної сплати іпотечного кредиту від заставодержателя надходять документи, потрібні для зняття обтяження в реєстрі.
+- FOCUS :: 抵当権者
+*** ex-2118350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 返済が長期間滞った場合、抵当権者は裁判所を通じて担保不動産の競売を申し立てることができる。
+- READING :: へんさいがちょうきかんとどこおったばあい、ていとうけんしゃはさいばんしょをつうじてたんぽふどうさんのきょうばいをもうしたてることができる。
+- UK :: У разі тривалої прострочки виплат заставодержатель має право через суд подати заяву про продаж заставленої нерухомості на торгах.
+- FOCUS :: 抵当権者
+
+* Sense s-2118350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c3fd5c0e14dc4a7a14c36e4345b5eb68ab9a67d3f3ba84e6fa03761cdd2735d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2118350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hypothekengläubiger
+*** en-s-2118350-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hypothekar
+*** en-s-2118350-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfandgläubiger
+** Ukrainian glosses
+
+* Sense s-2118350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 14ca2dcdc04dfb3f0780e23bf15e084805ae6c051301c89569f7c69ee4b45944
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2118350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кредитор по закладной
+** Ukrainian glosses

@@ -1,0 +1,170 @@
+#+TITLE: 緑内障
+#+JMDICT_ID: 1820090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょくないしょう
+#+ROMAJI: ryokunaishou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1820090-001
+:PROPERTIES:
+:TEXT: 緑内障
+:END:
+*** Priorities
+- news2
+- nf32
+** Written form wf-1820090-002
+:PROPERTIES:
+:TEXT: 縁内障
+:END:
+*** Information
+- sK
+** Reading rd-1820090-001
+:PROPERTIES:
+:TEXT: りょくないしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1820090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d3260f05244832b519633de4d663d7f532a9efd3d0f68fa8ff05cd23c59e677d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- glaucoma
+** Ukrainian glosses
+*** uk-s-1820090-001-001
+:PROPERTIES:
+:END:
+- text :: глаукома
+** Learner notes
+*** note-s-1820090-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний термін на позначення захворювання очей, за якого пошкодження зорового нерва призводить до звуження поля зору. В японській офтальмології часто згадується поруч із катарактою 「白内障」.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1820090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は緑内障の治療を受けている。
+- READING :: そふはりょくないしょうのちりょうをうけている。
+- UK :: Мій дідусь проходить лікування від глаукоми.
+- FOCUS :: 緑内障
+*** ex-1820090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 緑内障は初期症状に気づきにくいため、定期的な眼科検診が勧められている。
+- READING :: りょくないしょうはしょきしょうじょうにきづきにくいため、ていきてきながんかけんしんがすすめられている。
+- UK :: Глаукому важко помітити на ранній стадії, тому лікарі радять регулярно проходити огляд в офтальмолога.
+- FOCUS :: 緑内障
+*** ex-1820090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 視野の一部が欠けているように感じて受診したところ、早期の緑内障と診断され点眼薬が処方された。
+- READING :: しやのいちぶがかけているようにかんじてじゅしんしたところ、そうきのりょくないしょうとしんだんされてんがんやくがしょほうされた。
+- UK :: Коли я звернувся до лікаря через відчуття випадіння ділянки поля зору, мені діагностували ранню стадію глаукоми та призначили очні краплі.
+- FOCUS :: 緑内障
+
+* Sense s-1820090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d3397754ce04df4775dd7d3da06db3a99ef1951961f075a021c52bc91176d834
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820090-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Glaukom
+*** en-s-1820090-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Glaucoma
+*** en-s-1820090-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grüner Star (durch erhöhten Innendruck des Auges verursachte Augenkrankheit)
+** Ukrainian glosses
+
+* Sense s-1820090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dd3235571d875bb3f18d384a3f876941b9c0db6d679965a5596aa14b6f1dcfbb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820090-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: глаукома
+** Ukrainian glosses
+
+* Sense s-1820090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ac8262e06c5d15164c5dc562927e6be04e3857d054fa09095327777b5e5f03c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820090-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: glaukom
+*** en-s-1820090-004-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grön starr
+** Ukrainian glosses
