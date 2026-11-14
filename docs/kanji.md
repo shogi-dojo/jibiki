@@ -14,11 +14,14 @@ KANJIDIC2 data is CC BY-SA 4.0; KanjiVG paths are CC BY-SA 3.0. See NOTICE.
 ## Ukrainian drafts and coverage
 
 The snapshot contains 13,108 records. The 10,423 characters with direct or canonically referenced English source meanings have
-Ukrainian drafts, with `DRAFT_ORIGIN: codex` and the original `DRAFT_SOURCE_FINGERPRINT` recorded.
-No generated draft is reviewed. The remaining 2,685 characters have no English source meaning;
-the source-gap inventory in `drafts/kanji/placeholders.tsv` is never applied as translation text.
-These characters remain available with their readings and other metadata. They may receive human
-translations through proposals, but source gaps are not counted as translated characters.
+Ukrainian drafts (`batch-000..035.tsv`), with `DRAFT_ORIGIN: codex` and the original `DRAFT_SOURCE_FINGERPRINT` recorded.
+An additional 1,963 characters with empty KANJIDIC2 English meanings but reliable semantic attestation (Unicode Unihan
+definitions, JMdict compound readings, Kangxi radical/variant cross-references, and dictionary cross-checks) carry
+independently authored Ukrainian drafts (`batch-036..042.tsv`), bringing total draft coverage to 12,386 characters.
+No generated draft is reviewed. The 2,685 characters without English source meanings are tracked in the source-gap inventory
+in `drafts/kanji/placeholders.tsv`, which is never applied as translation text. The remaining 722 unattested or ambiguous
+characters remain explicitly untranslated with their readings and metadata preserved; they may receive human translations
+through proposals, and untranslated source gaps are not counted as translated characters.
 
 ```sh
 bundle exec rake test
@@ -72,4 +75,21 @@ character's readings/strokes, and records `SOURCE_MEANINGS_REFERENCE` plus the r
 `KANJIDIC2_SOURCE_FINGERPRINT`. Its effective source fingerprint includes the referenced meanings.
 An upstream meaning takes precedence if supplied later; source refreshes keep reviewed translations.
 This uses canonical equivalence, never a shape guess or an NFKC fold. These 39 records have drafts
-in `batch-035.tsv`. The remaining 2,685 source gaps are explicitly untranslated.
+in `batch-035.tsv`. Of the 2,685 KANJIDIC2 source gaps, 1,963 attested records carry Ukrainian
+drafts in `batch-036.tsv` through `batch-042.tsv`; the remaining 722 unattested or ambiguous
+characters are explicitly untranslated.
+
+## Editorial verification (2026-11-14)
+
+A full line-by-line review audited all 10,423 existing draft translations in `batch-000..035.tsv`
+against KANJIDIC2 English glosses, Kun-yomi readings, Unihan/JMdict references, Yanagi 0.3.2
+transliteration rules, Ukrainian gender/number agreement, and the complete multi-gloss source list.
+The resulting 3,899 draft updates are recorded in `drafts/kanji/reviews/2026-11-14-corrections.json`.
+
+For the 2,685 characters lacking KANJIDIC2 English meanings, 1,963 attested records received
+original Ukrainian draft translations authored in `batch-036..042.tsv` using Unicode Unihan
+definitions, JMdict compound usage, Kangxi radical/variant links, and consult-only reference checks.
+Twelve verified native Ukrainian words were added to `drafts/kanji/audit-policy.json`. Running
+`bundle exec ruby scripts/audit_kanji_drafts.rb` yields 0 Yanagi findings, 0 missing drafts for
+source-bearing records, 0 metadata-only drafts, and 0 foreign-script drafts across 12,386 translated
+records; the complete result is recorded in `drafts/kanji/reviews/2026-11-14-audit.json`.
