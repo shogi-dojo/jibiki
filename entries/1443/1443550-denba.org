@@ -1,0 +1,121 @@
+#+TITLE: 電場
+#+JMDICT_ID: 1443550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんば
+#+ROMAJI: denba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-14
+#+DEFAULT_AUTHOR_ID: codex
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443550-001
+:PROPERTIES:
+:TEXT: 電場
+:END:
+** Reading rd-1443550-001
+:PROPERTIES:
+:TEXT: でんば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1443550-002
+:PROPERTIES:
+:TEXT: でんじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1443550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7df75f907059ebfe7b0b0e2228a0d5fa6b6a8456ef5ce1a065cb39156dab0775
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- electric field
+** Ukrainian glosses
+*** uk-s-1443550-001-001
+:PROPERTIES:
+:END:
+- text :: електричне поле
+** Learner notes
+*** note-s-1443550-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичне поняття для силового поля, що оточує електричні заряди й діє на інші заряджені частинки; в інженерних науках поряд із ним часто вживається синонім 電界.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1443550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 帯電した物体の周囲には電場が生じる。
+- READING :: たいでんしたぶったいのしゅういにはでんばがしょうじる。
+- UK :: Навколо зарядженого тіла утворюється електричне поле.
+- FOCUS :: 電場
+*** ex-1443550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高校の物理の授業で、金属板の間にできる一様な電場の強さを計算した。
+- READING :: こうこうのぶつりのじゅぎょうで、きんぞくばんのあいだにできるいちようなでんばのつよさをけいさんした。
+- UK :: На уроці фізики в старшій школі ми обчислювали напруженість однорідного електричного поля між металевими пластинами.
+- FOCUS :: 電場
+*** ex-1443550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電磁波の性質を理解するには、時間とともに変化する電場と磁場が互いに作用し合う仕組みを押さえることが大切だ。
+- READING :: でんじはのせいしつをりかいするには、じかんとともにへんかするでんばとじばがたがいにさようしあうしくみをおさえることがたいせつだ。
+- UK :: Щоб збагнути природу електромагнітних хвиль, важливо розуміти, як електричне й магнітне поля, змінюючись у часі, взаємодіють одне з одним.
+- FOCUS :: 電場
+
+* Sense s-1443550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 82265ab571396eb7ddf2939fd8ee861698a5400579c0adb4ed8d974e5f8e97d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443550-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elektrisches Feld
+** Ukrainian glosses
+
+* Sense s-1443550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ffb800337f0c4481101b91f52670e73b4e9f4a245011595ff4e5256191ff1b9a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443550-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: электрическое поле
+** Ukrainian glosses
