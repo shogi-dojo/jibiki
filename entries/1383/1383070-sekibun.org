@@ -1,0 +1,292 @@
+#+TITLE: 積分
+#+JMDICT_ID: 1383070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せきぶん
+#+ROMAJI: sekibun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1383070-001
+:PROPERTIES:
+:TEXT: 積分
+:END:
+** Reading rd-1383070-001
+:PROPERTIES:
+:TEXT: せきぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1383070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2119c1a407f85b7fbfb5704bc643a24c9964500017082027d14ca2fb75b65500
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+*** Fields
+- math
+** English glosses
+- integration
+** Ukrainian glosses
+*** uk-s-1383070-001-001
+:PROPERTIES:
+:END:
+- text :: інтегрування, обчислення інтеграла
+** Learner notes
+*** note-s-1383070-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (протилежний до 微分 — диференціювання). У поєднанні з する утворює перехідне й неперехідне дієслово 積分する («інтегрувати, брати інтеграл»); разом обидва поняття відомі як 微分積分 (диференціальне й інтегральне числення).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1383070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 高校の数学で、今日から積分を習い始めた。
+- READING :: こうこうのすうがくで、きょうからせきぶんをならいはじめた。
+- UK :: На уроках математики в старшій школі ми сьогодні почали вивчати інтегрування.
+- FOCUS :: 積分
+*** ex-1383070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この関数をゼロから一まで積分すると、曲線の下の面積が求められる。
+- READING :: このかんすうをぜろからいちまでせきぶんすると、きょくせんのしたのめんせきがもとめられる。
+- UK :: Якщо проінтегрувати цю функцію на проміжку від нуля до одиниці, можна обчислити площу під кривою.
+- FOCUS :: 積分
+*** ex-1383070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 物理学では、刻々と変化する力の積分を求めることで、物体に加えられた仕事の総量が計算できる。
+- READING :: ぶつりがくでは、こっこくとへんかするちからのせきぶんをもとめることで、ぶったいにくわえられたしごとのそうりょうがけいさんできる。
+- UK :: У фізиці, обчисливши інтеграл сили, що постійно змінюється, можна визначити загальну виконану над тілом роботу.
+- FOCUS :: 積分
+
+* Sense s-1383070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 83edcfc4eebfa657f073add1974bc20ced9b087846e55328e9757b6d859c6687
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- integral
+** Ukrainian glosses
+*** uk-s-1383070-002-001
+:PROPERTIES:
+:END:
+- text :: інтеграл
+** Learner notes
+*** note-s-1383070-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення самого математичного об'єкта чи результату інтегрування; розрізняють 定積分 («визначений інтеграл») та 不定積分 («невизначений інтеграл»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1383070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7bedff6410ff390fd9ca61d873f5d068f605bdc9002dffb480ceb8cd08958990
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383070-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} integreren
+*** en-s-1383070-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integraal berekenen van
+*** en-s-1383070-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} integraalrekening
+** Ukrainian glosses
+
+* Sense s-1383070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3ce76488c24307648f9f8e1d02119d961970c32f1f5a3a7124d7628e39bab5a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383070-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integrieren
+*** en-s-1383070-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Integralrechnung
+*** en-s-1383070-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Integral
+** Ukrainian glosses
+
+* Sense s-1383070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 18d7d1992a17c12aec1f45dd4a43c431b56cd6f8355ee9e3d0f7150293c58db4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383070-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egész számú
+*** en-s-1383070-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egybeépített
+*** en-s-1383070-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egységet alkotó
+*** en-s-1383070-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integrál
+*** en-s-1383070-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összeépített
+*** en-s-1383070-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szervesen hozzátartozó
+*** en-s-1383070-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integrál
+** Ukrainian glosses
+
+* Sense s-1383070-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2242f67c1a539fc03d739b12a977460a97517de92e00c51030f95fcee92a2126
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383070-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: интегральное исчисление
+*** en-s-1383070-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} интегрировать
+*** en-s-1383070-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[の]} интегральный
+** Ukrainian glosses
+
+* Sense s-1383070-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 8cece0250fff26d5fd59174085c35296f3b946b95041a4e5fe27d97d3b73c214
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383070-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: integral
+** Ukrainian glosses
