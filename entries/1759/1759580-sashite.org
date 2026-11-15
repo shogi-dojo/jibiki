@@ -1,0 +1,189 @@
+#+TITLE: 指し手
+#+JMDICT_ID: 1759580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さして
+#+ROMAJI: sashite
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1759580-001
+:PROPERTIES:
+:TEXT: 指し手
+:END:
+*** Priorities
+- news2
+- nf30
+** Written form wf-1759580-002
+:PROPERTIES:
+:TEXT: 指手
+:END:
+*** Information
+- sK
+** Reading rd-1759580-001
+:PROPERTIES:
+:TEXT: さして
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1759580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 02a5a98eecf1be931b697557a3b463adab1352a618742cc2a3f7f04f759961e6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- shogi
+** English glosses
+- move
+** Ukrainian glosses
+*** uk-s-1759580-001-001
+:PROPERTIES:
+:END:
+- text :: хід (у шьоґі)
+** Learner notes
+*** note-s-1759580-001-001
+:PROPERTIES:
+:END:
+- UK :: Термін гри шьоґі (іменник від дієслова 指す — «робити хід у шьоґі»). Позначає конкретний хід гравця або варіант продовження на дошці (напр., 最善の指し手 — найкращий хід, 思い切った指し手 — сміливий хід).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1759580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 次の指し手をじっくり考えた。
+- READING :: つぎのさしてをじっくりかんがえた。
+- UK :: Я уважно обдумав наступний хід у шьоґі.
+- FOCUS :: 指し手
+*** ex-1759580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 解説者はプロ棋士の意外な指し手に思わず声を上げた。
+- READING :: かいせつしゃはぷろきしのいがいなさしてにおもわずこえをあげた。
+- UK :: Коментатор мимоволі вигукнув від несподіваного ходу професійного гравця в шьоґі.
+- FOCUS :: 指し手
+*** ex-1759580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 終盤の緊迫した局面で、名人はまるで盤面の未来を見通しているかのような鋭い指し手を連発した。
+- READING :: しゅうばんのきんぱくしたきょくめんで、めいじんはまるでばんめんのみらいをみとおしているかのようなするどいさしてをれんぱつした。
+- UK :: У напруженому ендшпілі Мейджін раз по раз робив настільки гострі ходи, немов бачив майбутнє на дошці.
+- FOCUS :: 指し手
+
+* Sense s-1759580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aa510452ea520c21461a52e3d5a6c5ca6bddbb04c5f066103c32e393542f31d5
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- shogi
+** English glosses
+- (skilled) shogi player
+** Ukrainian glosses
+*** uk-s-1759580-002-001
+:PROPERTIES:
+:END:
+- text :: гравець у шьоґі; майстерний гравець у шьоґі
+** Learner notes
+*** note-s-1759580-002-001
+:PROPERTIES:
+:END:
+- UK :: Залежно від контексту позначає того, хто робить хід, або сильного, вправного гравця в шьоґі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1759580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4a4a138881eeab8a5f0453d127fdb226ee1876bd166f6c56105fd0ca4fb0c9c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1759580-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {将棋の} zet
+** Ukrainian glosses
+
+* Sense s-1759580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d1737a762827c4db6a1422f6e98322b3ad62d25baf690ef46b1cb6b8b94fed6d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1759580-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Zug
+** Ukrainian glosses
+
+* Sense s-1759580-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 62ffa430fc46ef92b1aabe7ab1ce61b6d067503f83d2e29eaf714380724aede9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1759580-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ausgezeichneter)Shōgi-Spieler
+** Ukrainian glosses
+
+* Sense s-1759580-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a4a9e20069683bc3e52650b826ec4a16d9f65aa33c12ab37fc86f624583ce3e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1759580-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ход (в шахматах)
+** Ukrainian glosses
