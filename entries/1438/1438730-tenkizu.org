@@ -1,0 +1,146 @@
+#+TITLE: 天気図
+#+JMDICT_ID: 1438730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんきず
+#+ROMAJI: tenkizu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1438730-001
+:PROPERTIES:
+:TEXT: 天気図
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1438730-001
+:PROPERTIES:
+:TEXT: てんきず
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1438730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 79b5e24d8d64aaefa779d88a9e28103fe151e60412d41e77fbab2fe9b84e411b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- weather map
+** Ukrainian glosses
+*** uk-s-1438730-001-001
+:PROPERTIES:
+:END:
+- text :: синоптична карта, карта погоди
+** Learner notes
+*** note-s-1438730-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 天気 (погода) і 図 (схема, карта). Позначає метеорологічну карту з ізобарами, атмосферними фронтами та областями високого й низького тиску; часто трапляється в прогнозах погоди та посібниках із туризму чи мореплавства (наприклад, 予想天気図).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1438730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: テレビで明日の天気図を見た。
+- READING :: てれびであしたのてんきずをみた。
+- UK :: По телевізору я подивився карту погоди на завтра.
+- FOCUS :: 天気図
+*** ex-1438730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 登山に出かける前に、最新の天気図を確認して前線の動きを調べた。
+- READING :: とざんにでかけるまえに、さいしんのてんきずをかくにんしてぜんせんのうごきをしらべた。
+- UK :: Перед тим як вирушити в похід у гори, я переглянув найсвіжішу синоптичну карту й перевірив рух атмосферного фронту.
+- FOCUS :: 天気図
+*** ex-1438730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 等圧線の間隔が狭く描かれた冬の天気図を見ると、強い北西の季節風が吹き荒れる気配がはっきりと読み取れる。
+- READING :: とうあつせんのかんかくがせまくえがかれたふゆのてんきずをみると、つよいほくせいのきせつふうがふきあれるけはいがはっきりとよみとれる。
+- UK :: Дивлячись на зимову синоптичну карту з густо накресленими ізобарами, можна виразно розпізнати наближення сильного північно-західного мусону.
+- FOCUS :: 天気図
+
+* Sense s-1438730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e0ce7353f501e376ca50afbd80ada13adfb59e9c0b6933b9f465028824378543
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1438730-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {meteo.} weerkaart
+*** en-s-1438730-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weertafel
+** Ukrainian glosses
+
+* Sense s-1438730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5c94da810ba5b2bbdeee7406d698d312c8ac4398a68699838d961e3df4dff11d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1438730-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wetterkarte
+** Ukrainian glosses
+
+* Sense s-1438730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 542300f00f4bd2cecdaff9af1e0c46ebc69c80d2d76b3a3cd428a8a8362a22e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1438730-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: синоптическая карта
+** Ukrainian glosses
