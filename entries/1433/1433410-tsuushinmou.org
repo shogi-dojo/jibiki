@@ -1,0 +1,154 @@
+#+TITLE: 通信網
+#+JMDICT_ID: 1433410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つうしんもう
+#+ROMAJI: tsuushinmou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1433410-001
+:PROPERTIES:
+:TEXT: 通信網
+:END:
+*** Priorities
+- news1
+- nf12
+** Reading rd-1433410-001
+:PROPERTIES:
+:TEXT: つうしんもう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+
+* Sense s-1433410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8f5c4e14b6397a272f560fbc216ee0ceb4eae448e9b571f5e7ad65308070182a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- communications network
+** Ukrainian glosses
+*** uk-s-1433410-001-001
+:PROPERTIES:
+:END:
+- text :: мережа зв'язку, комунікаційна мережа
+** Learner notes
+*** note-s-1433410-001-001
+:PROPERTIES:
+:END:
+- UK :: Складений іменник (通信 «зв'язок» + 網 «мережа»). Означає інфраструктуру передавання інформації — телефонну, інтернетну, супутникову чи радіомережу. Часто сполучається з дієсловами 整備する («розбудовувати, налагоджувати»), 構築する («створювати») та 途絶える («перериватися»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1433410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 台風の影響で島の通信網が止まった。
+- READING :: たいふうのえいきょうでしまのつうしんもうがとまった。
+- UK :: Через тайфун на острові перестала працювати мережа зв'язку.
+- FOCUS :: 通信網
+*** ex-1433410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山間部でも携帯電話が使えるように、全国で高速通信網の整備が進められている。
+- READING :: さんかんぶでもけいたいでんわがつかえるように、ぜんこくでこうそくつうしんもうのせいびがすすめられている。
+- UK :: По всій країні розбудовують високошвидкісні мережі зв'язку, щоб мобільний сигнал був доступний навіть у гірських районах.
+- FOCUS :: 通信網
+*** ex-1433410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大規模な災害が起きた際にも連絡手段を確保できるよう、衛星を利用した代替通信網の構築が急がれている。
+- READING :: だいきぼなさいがいがおきたさいにもれんらくしゅだんをかくほできるよう、えいせいをりようしただいたいつうしんもうのこうちくがいそがれている。
+- UK :: Щоб зберегти можливість зв'язку навіть у разі масштабних стихійних лих, поспішають створити резервну комунікаційну мережу на базі супутників.
+- FOCUS :: 通信網
+
+* Sense s-1433410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 811ac5f5bbb079fa1501a2fd95a962c3e19161f400f094558ad61eb4612f40a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nachrichtennetz
+*** en-s-1433410-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kommunikationsnetz
+*** en-s-1433410-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Postnetz
+** Ukrainian glosses
+
+* Sense s-1433410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c1b01ee8d5f26ee27a804912b848ec58e226b8557ebf908670f91d5dc9ddf8be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433410-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сеть связи; система информации
+** Ukrainian glosses
+
+* Sense s-1433410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6a18428bd5116cca461e0162e4936a928866ab1e2fbeda0f15614d19971e31e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1433410-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: red de comunicaciones
+** Ukrainian glosses
