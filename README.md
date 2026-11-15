@@ -108,6 +108,17 @@ pass, rather than generating many entries up front and backfilling debt
 later. Batch size guidance is therefore ~10 words authored to completion
 rather than 20 scaffolded with placeholders left in.
 
+For BCCWJ batches, `scripts/select_bccwj.rb` selects candidates against the
+indexed JMdict/Warodai caches (writing `sources.json` and optional transient
+batch dossiers under `tmp/`), and `scripts/render_batch.rb` renders one
+authored JSON batch payload through `scaffold_entry.rb`'s canonical schema v2
+formatter before running `jb check` / `jb commit`:
+
+```sh
+ruby scripts/select_bccwj.rb --min-rank 41697 --limit 100 --output tmp/bccwj-sources.json --dossier-dir tmp/bccwj-dossiers
+ruby scripts/render_batch.rb --sources tmp/bccwj-sources.json --batch 1 --payload tmp/bccwj-batch-01.json
+```
+
 When EDRDG revises a sense, the stored fingerprints for that entry stop
 matching. Re-derive them from the archive on disk rather than copying hashes out
 of a CI log:
