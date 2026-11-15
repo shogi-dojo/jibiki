@@ -1,0 +1,220 @@
+#+TITLE: カレント
+#+JMDICT_ID: 1039230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カレント
+#+ROMAJI: karento
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1039230-001
+:PROPERTIES:
+:TEXT: カレント
+:NO_KANJI: false
+:END:
+
+* Sense s-1039230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9a1b7960ee54cdbf95aef7ae5f63747dd91d751963307009fe7978a990ea430a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- current
+** Ukrainian glosses
+*** uk-s-1039230-001-001
+:PROPERTIES:
+:END:
+- text :: поточний, теперішній, актуальний (про стан, каталог, версію тощо)
+** Learner notes
+*** note-s-1039230-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської (current), записане катаканою. Трапляється переважно в ІТ-термінології та діловому вжитку як означення або частина складних слів: カレントディレクトリ («поточний каталог»), カレントのファイル («поточний файл»), рідше як な-прикметник.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1039230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: まず、端末でカレントディレクトリを確認してください。
+- READING :: まず、たんまつでかれんとでぃれくとりをかくにんしてください。
+- UK :: Спочатку перевірте в терміналі поточний каталог.
+- FOCUS :: カレント
+*** ex-1039230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 作業を始める前に、カレントのファイルが最新の状態か確かめておこう。
+- READING :: さぎょうをはじめるまえに、かれんとのふぁいるがさいしんのじょうたいかたしかめておこう。
+- UK :: Перш ніж почати роботу, перевірмо, чи перебуває поточний файл в актуальному стані.
+- FOCUS :: カレント
+*** ex-1039230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 設定ファイルを変更したあとは、プログラムを再起動してカレントの環境変数に新しい値が反映されているか検証する必要がある。
+- READING :: せっていふぁいるをへんこうしたあとは、ぷろぐらむをさいきどうしてかれんとのかんきょうへんすうにあたらしいあたいがはんえいされているかけんしょうするひつようがある。
+- UK :: Після зміни конфігураційного файлу потрібно перезапустити програму й перевірити, чи відобразилися нові значення в поточних змінних середовища.
+- FOCUS :: カレント
+
+* Sense s-1039230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f6cf31b4e922154951b9277674914dab2b5d01640f311eb73c20add4278aed4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aktualität
+** Ukrainian glosses
+
+* Sense s-1039230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8600f90daf8c4de017d8695580751d3c8d5f388cc2dbd4fa41fbee2e72b7bbb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strömung
+** Ukrainian glosses
+
+* Sense s-1039230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 15f307e318db37baae5222f6d8763cdef668c4221083da59e2e29a36f4023907
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strom
+** Ukrainian glosses
+
+* Sense s-1039230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a75a07307727d709ef4a07f51e3971a4014fc83e07de9c9300d4cdde69b7f3cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ár
+*** en-s-1039230-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elterjedt
+*** en-s-1039230-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folyó-
+*** en-s-1039230-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forgalomban levő
+*** en-s-1039230-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közhasználatú
+*** en-s-1039230-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: villamos áram
+** Ukrainian glosses
+
+* Sense s-1039230-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0105e559da461b47cc242c53fca6faefe55801aab5d57dc7ca12b1958c72a654
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) current): {～な} нынешний, текущий
+** Ukrainian glosses
+
+* Sense s-1039230-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: cc144216fc2f5b483c52c617cb4c6233a23d4d4ba6cd348e30d7d52659bc2e01
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1039230-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gängse
+** Ukrainian glosses
