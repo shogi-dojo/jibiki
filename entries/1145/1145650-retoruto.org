@@ -1,0 +1,229 @@
+#+TITLE: レトルト
+#+JMDICT_ID: 1145650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: レトルト
+#+ROMAJI: retoruto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1145650-001
+:PROPERTIES:
+:TEXT: レトルト
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1145650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b96b3d9f0fc8acb35157be21bcd074849f048342168fa12c29c1e22fb80b8114
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+*** Language sources
+**** Language source ls-s-1145650-001-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- retort (vessel used for distillation)
+** Ukrainian glosses
+*** uk-s-1145650-001-001
+:PROPERTIES:
+:END:
+- text :: реторта (лабораторна посудина для перегонки речовин)
+** Learner notes
+*** note-s-1145650-001-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний термін, запозичений із нідерландської мови (retort). Позначає скляну або металеву колбу з довгим вигнутим відводом, яку використовують у хімії та металургії для дистиляції й прожарювання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1145650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ecb98303a849e41fc888737b2fd2de66608c90acd520ef6e7c6aaa61c67caef4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- レトルト食品
+** English glosses
+- retort (airtight vessel used to heat and sterilize canned or retort-pouch food)
+** Ukrainian glosses
+*** uk-s-1145650-002-001
+:PROPERTIES:
+:END:
+- text :: стерилізаційний автоклав, реторта для теплової обробки харчових продуктів; страва в реторт-пакеті
+** Learner notes
+*** note-s-1145650-002-001
+:PROPERTIES:
+:END:
+- UK :: Запозичений іменник на позначення герметичної камери, де під тиском стерилізують консерви та їжу в м'яких пакетах. У сучасній японській мові слово нерідко вживається як скорочення від レトルト食品 («готові страви в реторт-пакетах»), наприклад レトルトのカレー.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1145650-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 忙しい日はレトルトのカレーをよく食べる。
+- READING :: いそがしいひはれとるとのかれーをよくたべる。
+- UK :: У завантажені дні я часто їм готове карі з реторт-пакета.
+- FOCUS :: レトルト
+*** ex-1145650-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: レトルトの食品は常温で長く保存できるので、非常食としても重宝されている。
+- READING :: れとるとのしょくひんはじょうおんでながくほぞんできるので、ひじょうしょくとしてもちょうほうされている。
+- UK :: Продукти в реторт-пакетах можна довго зберігати за кімнатної температури, тому їх дуже цінують і як аварійний запас їжі.
+- FOCUS :: レトルト
+*** ex-1145650-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高温高圧のレトルトで殺菌された惣菜は、保存料を使わなくても風味を損なわず長期間の流通が可能になった。
+- READING :: こうおんこうあつのれとるとでさっきんされたそうざいは、ほぞんりょうをつかわなくてもふうみをそこなわずちょうきかんのりゅうつうがかのうになった。
+- UK :: Готові страви, простерилізовані у високотемпературному автоклаві під тиском, набули здатності до тривалої реалізації без втрати смаку й без додавання консервантів.
+- FOCUS :: レトルト
+
+* Sense s-1145650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dbea5211aa17a50144579de8e70b660b6e57522b239f9b052f73344068780f27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1145650-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} retort
+*** en-s-1145650-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distilleerkolf
+*** en-s-1145650-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kromhals
+*** en-s-1145650-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} alambiek
+*** en-s-1145650-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alembiek
+*** en-s-1145650-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} overhaalglas
+** Ukrainian glosses
+
+* Sense s-1145650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 64636949571828bc71225fe53b137fb70df683cd3b1dc8f1254ac0dc18181948
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1145650-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Retorte
+** Ukrainian glosses
+
+* Sense s-1145650-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2b2dc2e7cd4ccae33559c2566518b69312dc17cd5ab9756c1424e1843032f5f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1145650-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: retorta
+*** en-s-1145650-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: találó felelet
+** Ukrainian glosses
+
+* Sense s-1145650-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0ad7a3f4fd1403ce5633a8ff8a0805fdf63968b46ba942d7d02e351422f7c11a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1145650-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((голл.) retort) реторта
+** Ukrainian glosses

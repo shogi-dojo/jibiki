@@ -28,9 +28,9 @@ parser = OptionParser.new do |cli|
   cli.on('--jmdict-cache PATH', "JMdict SQLite cache (default: #{options[:jmdict_cache]})") { |v| options[:jmdict_cache] = v }
   cli.on('--warodai-cache PATH', "Warodai SQLite cache (default: #{options[:warodai_cache]})") { |v| options[:warodai_cache] = v }
   cli.on('--entries-dir DIR', "Entries root to skip existing IDs (default: #{options[:entries_dir]})") { |v| options[:entries_dir] = v }
-  cli.on('--min-rank N', Integer, 'Minimum BCCWJ rank (inclusive, default: 1)') { |v| options[:min_rank] = v }
-  cli.on('--limit N', Integer, 'Maximum candidates to select (default: 500)') { |v| options[:limit] = v }
-  cli.on('--batch-size N', Integer, 'Entries per dossier batch (default: 10)') { |v| options[:batch_size] = v }
+  cli.on('--min-rank N', String, 'Minimum BCCWJ rank (inclusive, default: 1)') { |v| options[:min_rank] = Integer(v, 10) }
+  cli.on('--limit N', String, 'Maximum candidates to select (default: 500)') { |v| options[:limit] = Integer(v, 10) }
+  cli.on('--batch-size N', String, 'Entries per dossier batch (default: 10)') { |v| options[:batch_size] = Integer(v, 10) }
   cli.on('--exclude WORDS', 'Comma-separated lemmas to skip') { |v| options[:exclude].concat(v.split(',')) }
   cli.on('--exclude-file PATH', 'File of lemmas to skip (one per line)') do |v|
     SourceCLI.ensure_exists!(v)

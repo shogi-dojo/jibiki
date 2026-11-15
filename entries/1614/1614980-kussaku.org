@@ -1,0 +1,269 @@
+#+TITLE: 掘削
+#+JMDICT_ID: 1614980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くっさく
+#+ROMAJI: kussaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1614980-001
+:PROPERTIES:
+:TEXT: 掘削
+:END:
+*** Priorities
+- news1
+- nf14
+** Written form wf-1614980-002
+:PROPERTIES:
+:TEXT: 掘鑿
+:END:
+*** Information
+- rK
+** Written form wf-1614980-003
+:PROPERTIES:
+:TEXT: 掘さく
+:END:
+*** Information
+- sK
+** Reading rd-1614980-001
+:PROPERTIES:
+:TEXT: くっさく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf14
+
+* Sense s-1614980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e4d9868f22b67c2ddddf167e82d107e5b00951b47dacc02e0d110750c7bae6e5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- digging out
+- excavation
+** Ukrainian glosses
+*** uk-s-1614980-001-001
+:PROPERTIES:
+:END:
+- text :: розкопування, риття ґрунту; буріння, проходка, земляні та екскаваторні роботи
+** Learner notes
+*** note-s-1614980-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що утворює перехідне する-дієслово 掘削する («рити, розкопувати, бурити»). Складається з ієрогліфів 掘 («копати») та 削 («зіскоблювати, витісувати»), уживається переважно в технічній, будівельній, гірничій і археологічній лексиці (наприклад, トンネルの掘削 — прокладання тунелю).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1614980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の前で道路の掘削が始まった。
+- READING :: えきのまえでどうろのくっさくがはじまった。
+- UK :: Перед станцією почалися земляні роботи на дорозі.
+- FOCUS :: 掘削
+*** ex-1614980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 遺跡の正確な範囲を調べるため、専門家が慎重に地面を掘削している。
+- READING :: いせきのせいかくなはんいをしらべるため、せんもんかがしんちょうにじめんをくっさくしている。
+- UK :: Щоб визначити точні межі пам'ятки, фахівці обережно розкопують ґрунт.
+- FOCUS :: 掘削
+*** ex-1614980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地下鉄の新線整備に伴い、市街地の地下深くで大型の機械を用いた大規模な掘削作業が昼夜を問わず進められている。
+- READING :: ちかてつのしんせんせいびにともない、しがいちのちかふかくでおおがたのきかいをもちいただいきぼなくっさくさぎょうがちゅうやをとわずすすめられている。
+- UK :: У зв'язку зі спорудженням нової лінії метро глибоко під центром міста за допомогою великогабаритної техніки цілодобово тривають масштабні прохідницькі роботи.
+- FOCUS :: 掘削
+
+* Sense s-1614980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b847726bca7c606555a3770b999d6855e3c34eef5deb7554f44f71c2103c3383
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614980-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delven
+*** en-s-1614980-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boren
+*** en-s-1614980-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitgraven
+*** en-s-1614980-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delving
+*** en-s-1614980-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boring
+*** en-s-1614980-002-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitgraving
+** Ukrainian glosses
+
+* Sense s-1614980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95ec5f817d75a6b01a8162d9a094b391a87db01eb36b4b06e6716b8758a6b154
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614980-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ausgraben
+*** en-s-1614980-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bohren nach etw
+*** en-s-1614980-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausgrabung
+*** en-s-1614980-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bohrung
+** Ukrainian glosses
+
+* Sense s-1614980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e5b1c0122f60a8a3de753503e1d15e84439b5b6ff1e0c3a3e015713b7cc8c893
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614980-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ásatás
+*** en-s-1614980-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiásás
+** Ukrainian glosses
+
+* Sense s-1614980-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c3f8b674868e29da2ccf67c5a94bf18cfda747d757e36872253f1e2374059249
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614980-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: копание, рытьё; выемка грунта; экскаваторная разработка; бурение
+*** en-s-1614980-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} копать, рыть; производить выемку грунта; бурить
+** Ukrainian glosses
+
+* Sense s-1614980-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 6482840baabe70f489b032a9628ac79f6d602c39a709806b23ed56324a7ab7f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614980-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: excavación
+** Ukrainian glosses
