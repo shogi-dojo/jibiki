@@ -1,0 +1,159 @@
+#+TITLE: 検地
+#+JMDICT_ID: 1814510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんち
+#+ROMAJI: kenchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1814510-001
+:PROPERTIES:
+:TEXT: 検地
+:END:
+** Reading rd-1814510-001
+:PROPERTIES:
+:TEXT: けんち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1814510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4918323ccb6b73556172f1aa2747699686e12f673c3a4587a6586924e89aeee2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- land survey
+- cadastral survey
+** Ukrainian glosses
+*** uk-s-1814510-001-001
+:PROPERTIES:
+:END:
+- text :: кадастрове обстеження, обмір земельних наділів
+** Learner notes
+*** note-s-1814510-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та перехідне する-дієслово (検地する — «проводити обмір землі»). Найчастіше трапляється в історичному контексті щодо державного обліку й оцінки родючості сільськогосподарських угідь для оподаткування (зокрема 太閤検地 — кадастрової реформи Тойотомі Хідейоші).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1814510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で太閤検地について習った。
+- READING :: れきしのじゅぎょうでたいこうけんちについてならった。
+- UK :: На уроці історії ми вивчали кадастрову реформу тайко (Тойотомі Хідейоші).
+- FOCUS :: 検地
+*** ex-1814510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 領主は年貢を正確に定めるため、村の田畑を詳しく検地した。
+- READING :: りょうしゅはねんぐをせいかくにさだめるため、むらのたはたをくわしくけんちした。
+- UK :: Щоб точно визначити земельний податок, феодал провів детальний обмір сільських полів і угідь.
+- FOCUS :: 検地
+*** ex-1814510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全国規模で行われた検地によって土地の面積と石高が統一基準で把握され、近世の支配体制が確立された。
+- READING :: ぜんこくきぼでおこなわれたけんちによってとちのめんせきとこくだかがとういつきじゅんではあくされ、きんせいのしはいたいせいがかくりつされた。
+- UK :: Завдяки загальнонаціональному кадастровому обміру земель площі наділів і їхню врожайність у коку облікували за єдиним стандартом, що зміцнило систему управління ранньомодерної доби.
+- FOCUS :: 検地
+
+* Sense s-1814510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f63acfcdbdffcdca0f94ca4015420a5a6614dcfb831aef2a5256e7059522e73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1814510-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Jap.gesch.} landmeting
+*** en-s-1814510-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kadastrale opmeting
+** Ukrainian glosses
+
+* Sense s-1814510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a3f7619b0d2c83defe74a667f9adf48d16a535d930b474f3f1c84f3e2ea1a633
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1814510-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Landvermessung (in Bezug auf Fläche, Grenzen und Ertrag)
+** Ukrainian glosses
+
+* Sense s-1814510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cfb6b57f9daaecd9e64791dea4c04336d91c5bc136070d1ef3d79701233f8a3b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1814510-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) землемерная съёмка
+*** en-s-1814510-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} производить землемерную съёмку
+*** en-s-1814510-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (ист.) обмер полей (для определения нормы получаемого урожая)
+** Ukrainian glosses
