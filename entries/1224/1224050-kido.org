@@ -1,0 +1,241 @@
+#+TITLE: 輝度
+#+JMDICT_ID: 1224050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きど
+#+ROMAJI: kido
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1224050-001
+:PROPERTIES:
+:TEXT: 輝度
+:END:
+*** Priorities
+- news2
+- nf44
+- spec2
+** Reading rd-1224050-001
+:PROPERTIES:
+:TEXT: きど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+- spec2
+
+* Sense s-1224050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4b4d608ff63563c11ecbc6f8765faf68802d9988539716ba9c3dffbbe8fcb20b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- brightness
+- luminance
+** Ukrainian glosses
+*** uk-s-1224050-001-001
+:PROPERTIES:
+:END:
+- text :: яскравість (світіння), яскравість екрана або поверхні
+** Learner notes
+*** note-s-1224050-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний і технічний термін (на відміну від побутового 明るさ); вживається щодо оптичних приладів, моніторів, телевізорів і світлодіодного освітлення (高輝度 — «висока яскравість», 輝度を調整する — «регулювати яскравість»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1224050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 画面の輝度を少し下げた。
+- READING :: がめんのきどをすこしさげた。
+- UK :: Я трохи зменшив яскравість екрана.
+- FOCUS :: 輝度
+*** ex-1224050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗い部屋でスマートフォンを使うときは、目の負担を減らすために輝度を調整したほうがいい。
+- READING :: くらいへやですまーとふぉんをつかうときは、めのふたんをへらすためにきどをちょうせいしたほうがいい。
+- UK :: Користуючись смартфоном у темній кімнаті, варто налаштувати яскравість, щоб зменшити навантаження на очі.
+- FOCUS :: 輝度
+*** ex-1224050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しく発売された液晶モニターは最大輝度が大幅に向上しており、日差しの強い屋外でも表示内容を鮮明に確認できる。
+- READING :: あたらしくはつばいされたえきしょうもにたーはさいだいきどがおおはばにこうじょうしており、ひざしのつよいおくがいでもひょうじないようをせんめいにかくにんできる。
+- UK :: У нового рідкокристалічного монітора значно зросла максимальна яскравість, тому зображення чітко видно навіть надворі під яскравим сонцем.
+- FOCUS :: 輝度
+
+* Sense s-1224050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6462438dbb547a766cba6fdc1c00e7987832635809eedc2b390cfd32fa94320d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1224050-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: clarté
+*** en-s-1224050-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luminosité
+** Ukrainian glosses
+
+* Sense s-1224050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2b411444a5d4335a5849feeffbc493e7847746622c007c0cfc4deec137481f69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1224050-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leuchtstärke
+*** en-s-1224050-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leuchtdichte
+*** en-s-1224050-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Luminanz (gemessen in Candela pro m²)
+** Ukrainian glosses
+
+* Sense s-1224050-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e4366b6c547a073a39d16a2c295e8c3ce89bc18a6bb8967d2f32b2e122386710
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1224050-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Helligkeit
+*** en-s-1224050-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leuchtdichte
+*** en-s-1224050-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Luminanz (z.B. einer braunschen Röhre)
+** Ukrainian glosses
+
+* Sense s-1224050-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: eec19a3e5974d1b9abfbcca91929842cf086a778e561940fd244e42fdedc527d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1224050-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derű
+*** en-s-1224050-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fényesség
+*** en-s-1224050-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okosság
+*** en-s-1224050-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ragyogás
+** Ukrainian glosses
+
+* Sense s-1224050-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: eaa38cc5fe9939978cceca3bc2812513c2baf27825ea1bb6dbfb6a5e9faef6f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1224050-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) яркость
+** Ukrainian glosses
