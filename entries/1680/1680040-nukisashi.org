@@ -1,0 +1,228 @@
+#+TITLE: 抜き差し
+#+JMDICT_ID: 1680040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぬきさし
+#+ROMAJI: nukisashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-15
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1680040-001
+:PROPERTIES:
+:TEXT: 抜き差し
+:END:
+** Written form wf-1680040-002
+:PROPERTIES:
+:TEXT: 抜き挿し
+:END:
+*** Information
+- sK
+** Written form wf-1680040-003
+:PROPERTIES:
+:TEXT: 抜差し
+:END:
+*** Information
+- sK
+** Written form wf-1680040-004
+:PROPERTIES:
+:TEXT: 抜きさし
+:END:
+*** Information
+- sK
+** Written form wf-1680040-005
+:PROPERTIES:
+:TEXT: ぬき差し
+:END:
+*** Information
+- sK
+** Written form wf-1680040-006
+:PROPERTIES:
+:TEXT: ぬき挿し
+:END:
+*** Information
+- sK
+** Reading rd-1680040-001
+:PROPERTIES:
+:TEXT: ぬきさし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1680040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e8ac772b710f2bfb18101352ae08fb60d0367eca8abc37719a78e6d67fa9f591
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- addition and deletion
+** Ukrainian glosses
+*** uk-s-1680040-001-001
+:PROPERTIES:
+:END:
+- text :: додавання й вилучення, внесення змін (до списку, тексту)
+** Learner notes
+*** note-s-1680040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する, утворене від 抜く (виймати) та 差す (вставляти). Позначає оновлення складу чи змісту — додавання нових позицій або виключення наявних у переліку, картотеці чи документі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1680040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 32c51f6b3ebbfe102d5a4ed389ad9155800b156a2a07736132ea3f45ac696344
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- taking out and putting in
+- plugging and unplugging
+** Ukrainian glosses
+*** uk-s-1680040-002-001
+:PROPERTIES:
+:END:
+- text :: виймання та вставляння; під'єднання й вимикання (роз'єму, кабелю)
+** Learner notes
+*** note-s-1680040-002-001
+:PROPERTIES:
+:END:
+- UK :: Конкретне предметне значення пари 抜く і 差す: багаторазове витягування й уставляння предмета — наприклад, штекерів, кабелів, карт пам'яті або аркушів у теці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1680040-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電源コードの抜き差しに気をつける。
+- READING :: でんげんこーどのぬきさしにきをつける。
+- UK :: Я обережно вмикаю й вимикаю кабель живлення з розетки.
+- FOCUS :: 抜き差し
+*** ex-1680040-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 充電ケーブルを何度も抜き差ししているうちに、差し込み口が少し緩んできたようだ。
+- READING :: じゅうでんけーぶるをなんどもぬきさししているうちに、さしこみぐちがすこしゆるんできたようだ。
+- UK :: Після багаторазового під'єднання й вимикання зарядного кабелю гніздо роз'єму, здається, трохи розхиталося.
+- FOCUS :: 抜き差し
+*** ex-1680040-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: このファイルは金具をワンタッチで開けられる構造になっており、必要な書類の抜き差しを片手でも手早く行える。
+- READING :: このふぁいるはかなぐをわんたっちであけられるこうぞうになっており、ひつようなしょるいのぬきさしをかたてでもてばやくおこなえる。
+- UK :: Ця тека має механізм, який відкривається одним натисканням, тож потрібні документи можна швидко виймати й вставляти навіть однією рукою.
+- FOCUS :: 抜き差し
+
+* Sense s-1680040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3b1d4166965dde061a639803f4ca914e767de0c759b90cc7032c47f9aab1414b
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 抜き差しならない
+- 抜き差しならぬ
+** English glosses
+- making do
+- getting by
+- managing
+** Ukrainian glosses
+*** uk-s-1680040-003-001
+:PROPERTIES:
+:END:
+- text :: давання собі ради, перебивання, викручування зі скрути
+** Learner notes
+*** note-s-1680040-003-001
+:PROPERTIES:
+:END:
+- UK :: Переносне розмовне значення: уміння якось упоратися зі справами чи звести кінці з кінцями; із цим же образом пов'язаний сталий вислів 抜き差しならない («безвихідний, такий, що ні туди ні сюди»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1680040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ccc0cfa603ea2a143ba5620ca1bcaadc4f74c31950e934309f66a4f0c2baffeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680040-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herausziehen und Hineinstecken
+** Ukrainian glosses
+
+* Sense s-1680040-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c7585d73d4e6ffc5db77b858ab83ba387c507bbd563b78c355bc5e7f1e2f81de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680040-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Körperbewegung (häufig in der Wendung nukisashi naranu = in die Klemme geratenin der Patsche steckennicht mehr ein noch aus wissen)
+** Ukrainian glosses
+
+* Sense s-1680040-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e379e8623a60bdce0a69979ff694dd7b6ea5ab25d730c0aa9a3af5aa2ee4f6ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680040-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) вынимание (извлечение) и вкладывание (напр. фотографий из альбома и в альбом); исключение и включение; изменение (состава чего-л.)
+*** en-s-1680040-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (связ.:)
+** Ukrainian glosses
