@@ -41,7 +41,9 @@ module BccwjBatch
   def open_bccwj_io(path, zip_entry: DEFAULT_BCCWJ_ENTRY, &block)
     if File.extname(path) == '.zip'
       IO.popen(['unzip', '-p', path, zip_entry], 'r:UTF-8', &block).tap do
-        raise "unzip failed for #{path} (#{zip_entry})" unless $CHILD_STATUS&.success?
+        sigpipe = Signal.list['PIPE']
+        ok = $CHILD_STATUS&.success? || ($CHILD_STATUS&.signaled? && $CHILD_STATUS.termsig == sigpipe)
+        raise "unzip failed for #{path} (#{zip_entry})" unless ok
       end
     else
       File.open(path, 'r:UTF-8', &block)
