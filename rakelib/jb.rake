@@ -30,12 +30,27 @@ module JbTasks
 
   # `spin build` judges staleness by tools/jb alone, so a binary can predate
   # an edit to lib/. Only a binary newer than every source it compiles is used.
+  def compiled_sources(entry = SOURCE)
+    seen = {}
+    queue = [File.expand_path(entry)]
+    until queue.empty?
+      file = queue.shift
+      next if seen[file] || !File.exist?(file)
+
+      seen[file] = true
+      dir = File.dirname(file)
+      File.read(file, encoding: 'UTF-8').scan(/^\s*require_relative\s+['"]([^'"]+)['"]/) do |rel,|
+        queue << File.expand_path("#{rel}.rb", dir)
+      end
+    end
+    seen.keys.sort
+  end
+
   def native_current?
     return false unless File.executable?(NATIVE)
 
     built = File.mtime(NATIVE)
-    sources = Dir[File.join(ROOT, 'lib', '**', '*.rb')] + Dir[File.join(ROOT, 'tools', 'jb', '**', '*.rb')]
-    stale = sources.find { |path| File.mtime(path) > built }
+    stale = compiled_sources.find { |path| File.mtime(path) > built }
     warn "jb: #{NATIVE} is older than #{stale}; using CRuby (rake jb:build to refresh)" if stale
     stale.nil?
   end

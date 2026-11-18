@@ -2,8 +2,10 @@
 
 require 'minitest/autorun'
 require 'open3'
+require 'rake'
 require 'rbconfig'
 require_relative '../lib/dictionary_sources/jmdict_index'
+load File.expand_path('../rakelib/jb.rake', __dir__)
 
 # Runs tools/jb's print-and-diff tests under CRuby so `rake test` covers the
 # CLI. (`spin test` in tools/jb runs the same files compiled, diffing each
@@ -20,5 +22,16 @@ class JbCliTest < Minitest::Test
 
     assert status.success?, "#{stdout.lines.grep(/^FAIL/).join}#{stderr}"
     assert_empty stderr
+  end
+
+  def test_compiled_sources_tracks_transitive_jb_requires_only
+    sources = JbTasks.compiled_sources
+
+    assert_includes sources, File.join(ROOT, 'tools/jb/bin/jb.rb')
+    assert_includes sources, File.join(ROOT, 'lib/entry_validator.rb')
+    assert_includes sources, File.join(ROOT, 'lib/entry_doctor.rb')
+    assert_includes sources, File.join(ROOT, 'lib/org_lint.rb')
+    refute_includes sources, File.join(ROOT, 'lib/bccwj_batch.rb')
+    refute_includes sources, File.join(ROOT, 'lib/kanji.rb')
   end
 end
