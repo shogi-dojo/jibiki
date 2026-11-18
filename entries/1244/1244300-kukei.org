@@ -1,0 +1,198 @@
+#+TITLE: 矩形
+#+JMDICT_ID: 1244300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くけい
+#+ROMAJI: kukei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1244300-001
+:PROPERTIES:
+:TEXT: 矩形
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1244300-001
+:PROPERTIES:
+:TEXT: くけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+** Reading rd-1244300-002
+:PROPERTIES:
+:TEXT: さしがた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1244300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 422a94c40e789e82a7aae2008a4a1bc2a21921d49ff4cf42e1b411d45edb7223
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+*** Cross-references
+- 長方形
+** English glosses
+- rectangle
+** Ukrainian glosses
+*** uk-s-1244300-001-001
+:PROPERTIES:
+:END:
+- text :: прямокутник
+** Learner notes
+*** note-s-1244300-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і технічний термін із математики, архітектури та програмування (на відміну від повсякденного 長方形). Утворюється з 矩 (косинець, прямий кут) та 形 (форма); із часткою の вживається як означення «прямокутний», наприклад 矩形の部屋 (прямокутна кімната) або 矩形波 (прямокутна хвиля).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1244300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 紙の上に小さな矩形を描きました。
+- READING :: かみのうえにちいさなくけいをかきました。
+- UK :: На папері я намалював маленький прямокутник.
+- FOCUS :: 矩形
+*** ex-1244300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 画面上に矩形の枠を描いて、切り取る範囲を指定する。
+- READING :: がめんじょうにくけいのわくをえがいて、きりとるはんいをしていする。
+- UK :: На екрані окреслюють прямокутну рамку, щоб задати ділянку для обрізання.
+- FOCUS :: 矩形
+*** ex-1244300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 発掘調査の結果、この遺跡には矩形の住居跡がいくつも並んでいたことが分かった。
+- READING :: はっくつちょうさのけっか、このいせきにはくけいのじゅうきょあとがいくつもならんでいたことがわかった。
+- UK :: За результатами розкопок з'ясувалося, що на цьому городищі було розташовано ряд прямокутних залишків жител.
+- FOCUS :: 矩形
+
+* Sense s-1244300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 125a5638f72765ae64b52b67d0bb6a644b65c185124db810360374879dcdca73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechteck
+*** en-s-1244300-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oblong
+*** en-s-1244300-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oblongum
+*** en-s-1244300-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechteckig
+** Ukrainian glosses
+
+* Sense s-1244300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1035ab5da67c8a80e61497dd5ed2532ba8ee25cddc78b95b7ad43357fb5d7199
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244300-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: téglalap
+** Ukrainian glosses
+
+* Sense s-1244300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d5714c08da17ffbef29daa2d7df163d55f44b67d5ca578c39e30d38fcecfb1f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244300-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прямоугольник
+*** en-s-1244300-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} прямоугольный
+** Ukrainian glosses
+
+* Sense s-1244300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0e29b31dcfe399bfefc432d6084c34bfd54cd140d11bbb2a52dc8fd70f975477
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1244300-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rektangel
+** Ukrainian glosses
