@@ -1,0 +1,309 @@
+#+TITLE: 番兵
+#+JMDICT_ID: 1732530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばんぺい
+#+ROMAJI: banpei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1732530-001
+:PROPERTIES:
+:TEXT: 番兵
+:END:
+** Reading rd-1732530-001
+:PROPERTIES:
+:TEXT: ばんぺい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1732530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 965473b133c1ffbdc1e250a839272403c25763ae1616ed0806e3aa2ab3d17c0e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sentry
+- guard
+** Ukrainian glosses
+*** uk-s-1732530-001-001
+:PROPERTIES:
+:END:
+- text :: вартовий; чатовий; караульний солдат
+** Learner notes
+*** note-s-1732530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 番 («варта, чергування») та 兵 («солдат»). Позначає військовослужбовця, який несе вартову службу на посту (у сталих зворотах 番兵に立つ — «стати на варту», 番兵を置く — «виставити варту»); у програмуванні цим словом також називають сигнальне значення («сторож») для завершення циклу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1732530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 城の門の前に番兵が立っている。
+- READING :: しろのもんのまえにばんぺいがたっている。
+- UK :: Перед брамою замку стоїть вартовий.
+- FOCUS :: 番兵
+*** ex-1732530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜になっても、基地の入り口では番兵が警戒を続けていた。
+- READING :: よるになっても、きちのいりぐちではばんぺいがけいかいをつづけていた。
+- UK :: Навіть уночі біля входу на базу чатові продовжували пильнувати.
+- FOCUS :: 番兵
+*** ex-1732530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 侵入を許さないよう、施設の外周には何人もの番兵が交代で配置されていた。
+- READING :: しんにゅうをゆるさないよう、しせつのがいしゅうにはなんにんものばんぺいがこうたいではいちされていた。
+- UK :: Щоб не допустити проникнення, по периметру об'єкта позмінно розставили чимало вартових.
+- FOCUS :: 番兵
+
+* Sense s-1732530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bf61387290a099b8f6d39b3c4d3a90ed3b1d84e41178a40dcde2314b8f43cc81
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1732530-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wachposten
+** Ukrainian glosses
+
+* Sense s-1732530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bb7a03f92f56172bfb75c86f4560dabff0146d4b8f9f24e089d2a86488a9d308
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1732530-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: őr
+*** en-s-1732530-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: betétszalag
+*** en-s-1732530-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: biztosító berendezés
+*** en-s-1732530-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: börtönőr
+*** en-s-1732530-003-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elővigyázat
+*** en-s-1732530-003-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elővigyázatosság
+*** en-s-1732530-003-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falcolás
+*** en-s-1732530-003-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fegyházőr
+*** en-s-1732530-003-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fegyőr
+*** en-s-1732530-003-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogházőr
+*** en-s-1732530-003-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forgalmista
+*** en-s-1732530-003-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: főkalauz
+*** en-s-1732530-003-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gyógyszeríz-javító vivőanyag
+*** en-s-1732530-003-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kandallórács
+*** en-s-1732530-003-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: markolatkosár
+*** en-s-1732530-003-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: óvókerítés
+*** en-s-1732530-003-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: számoló
+*** en-s-1732530-003-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: védekező állás
+*** en-s-1732530-003-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: védekező testtartás
+*** en-s-1732530-003-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: védőrács
+*** en-s-1732530-003-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: védőszerkezet
+*** en-s-1732530-003-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vonatkísérő
+*** en-s-1732530-003-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vonatvezető
+** Ukrainian glosses
+
+* Sense s-1732530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e0c1053dac2398bd5e48e76e98966f319b8661e7740768852e9c72f11537aa1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1732530-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: часовой, караульный
+** Ukrainian glosses
