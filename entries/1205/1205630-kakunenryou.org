@@ -1,0 +1,182 @@
+#+TITLE: 核燃料
+#+JMDICT_ID: 1205630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かくねんりょう
+#+ROMAJI: kakunenryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1205630-001
+:PROPERTIES:
+:TEXT: 核燃料
+:END:
+*** Priorities
+- news1
+- nf07
+** Reading rd-1205630-001
+:PROPERTIES:
+:TEXT: かくねんりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf07
+
+* Sense s-1205630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cecbda27a246390b4c5834e05a2360edda684b748d7819af303306a8916e1c75
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- nuclear fuel
+** Ukrainian glosses
+*** uk-s-1205630-001-001
+:PROPERTIES:
+:END:
+- text :: ядерне паливо
+** Learner notes
+*** note-s-1205630-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник (核 «ядро, ядерний» + 燃料 «паливо»). Позначає радіоактивні матеріали, як-от уран чи плутоній, що використовуються для отримання енергії в ядерних реакторах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1205630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 発電所で核燃料を使う。
+- READING :: はつでんしょでかくねんりょうをつかう。
+- UK :: На електростанції використовують ядерне паливо.
+- FOCUS :: 核燃料
+*** ex-1205630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 使い終えた核燃料の安全な保管方法について議論が続いている。
+- READING :: つかいおえたかくねんりょうのあんぜんなほかんほうほうについてぎろんがつづいている。
+- UK :: Тривають обговорення щодо безпечних способів зберігання відпрацьованого ядерного палива.
+- FOCUS :: 核燃料
+*** ex-1205630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 使用済みの核燃料を再処理して再び発電に利用する取り組みは、技術的・経済的な課題も多い。
+- READING :: しようずみのかくねんりょうをさいしょりしてふたたびはつでんにりようするとりくみは、ぎじゅつてき・けいざいてきなかだいもおおい。
+- UK :: Спроби переробляти відпрацьоване ядерне паливо для повторного використання у виробництві електроенергії пов'язані з багатьма технічними та економічними труднощами.
+- FOCUS :: 核燃料
+
+* Sense s-1205630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 19dfae08669c02e76203caa7e4aca5f3d68a8a163bce71a05e31beb0542949e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205630-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combustible nucléaire
+** Ukrainian glosses
+
+* Sense s-1205630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e2bf16db0adb8d951be4efd3a838cd6665f3890bab3e920c6a1056ef612f2836
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205630-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kernbrennstoff
+*** en-s-1205630-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: atomarer Brennstoff
+** Ukrainian glosses
+
+* Sense s-1205630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0776dd069b6059424b907d9227d43b2d7137a3bfe81157bc7c41cbc903c53adf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205630-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nukleáris fűtőanyag
+** Ukrainian glosses
+
+* Sense s-1205630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d86b11dc1dfb5b1aea215a0ea23ca563ff60ed7972aa2a50c4c876dab508ac16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205630-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ядерное горючее
+** Ukrainian glosses
+
+* Sense s-1205630-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 050936d633c746a4bf5272d25b69cd56c4e0e9bfe39ef6d24b89d5d9d482d137
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1205630-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: combustible nuclear
+** Ukrainian glosses
