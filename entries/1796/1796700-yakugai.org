@@ -1,0 +1,128 @@
+#+TITLE: 薬害
+#+JMDICT_ID: 1796700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やくがい
+#+ROMAJI: yakugai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1796700-001
+:PROPERTIES:
+:TEXT: 薬害
+:END:
+*** Priorities
+- news1
+- nf20
+** Reading rd-1796700-001
+:PROPERTIES:
+:TEXT: やくがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf20
+
+* Sense s-1796700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 187f2806ce0c0b0ed6354c65117cc70e1092437388ea64263b8fa3bc5a7898fd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- harmful side effects of a medicine or drug
+** Ukrainian glosses
+*** uk-s-1796700-001-001
+:PROPERTIES:
+:END:
+- text :: шкода від ліків; побічна уражаюча дія медикаментів
+** Learner notes
+*** note-s-1796700-001-001
+:PROPERTIES:
+:END:
+- UK :: Медико-суспільний іменник, складений із 薬 (ліки, препарат) і 害 (шкода, збиток). Означає серйозні небажані наслідки або масові отруєння, спричинені лікарськими препаратами чи агрохімікатами; у Японії слово нерідко вживається в поєднанні 薬害訴訟 (судові позови щодо шкоди від ліків) і 薬害を防ぐ (запобігати шкоді від препаратів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1796700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい薬の薬害について調べました。
+- READING :: あたらしいくすりのやくがいについてしらべました。
+- UK :: Я дослідив питання шкідливого впливу нових ліків.
+- FOCUS :: 薬害
+*** ex-1796700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 過去には安全確認が不十分なまま販売され、大きな薬害を引き起こした薬もある。
+- READING :: かこにはあんぜんかくにんがふじゅうぶんなままはんばいされ、おおきなやくがいをひきおこしたくすりもある。
+- UK :: У минулому траплялися препарати, які випускали в продаж без належної перевірки безпеки, що спричиняло тяжку шкоду від ліків.
+- FOCUS :: 薬害
+*** ex-1796700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二度と深刻な薬害を繰り返さないよう、新薬の承認審査や市販後の監視体制が厳しく見直された。
+- READING :: にどとしんこくなやくがいをくりかえさないよう、しんやくのしょうにんしんさやしはんごのかんしたいせいがきびしくみなおされた。
+- UK :: Щоб ніколи більше не повторилася серйозна шкода від медикаментів, процедуру схвалення нових ліків і післяреєстраційний нагляд суворо переглянули.
+- FOCUS :: 薬害
+
+* Sense s-1796700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b1e7502b1290e07c4400e01dbb0183f8c6f3537711113e22ad8a56cde1fce0f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medikamentenschaden
+*** en-s-1796700-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pestizidschaden
+** Ukrainian glosses
+
+* Sense s-1796700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d623c83e6785acc0051bfcb542ae41a4e43e3f31db5f2b656f2921416a8bd2c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вред от лекарства; вред, приносимый химикалиями
+** Ukrainian glosses
