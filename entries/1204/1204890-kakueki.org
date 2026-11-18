@@ -1,0 +1,235 @@
+#+TITLE: 各駅
+#+JMDICT_ID: 1204890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かくえき
+#+ROMAJI: kakueki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1204890-001
+:PROPERTIES:
+:TEXT: 各駅
+:END:
+** Reading rd-1204890-001
+:PROPERTIES:
+:TEXT: かくえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1204890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ce63dadb0e9b1fcdd4e2f93eb56fc20602288555580405871a1aa0caf40c1d67
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- every station
+** Ukrainian glosses
+*** uk-s-1204890-001-001
+:PROPERTIES:
+:END:
+- text :: кожна станція; усі станції
+** Learner notes
+*** note-s-1204890-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від префікса 各 («кожен») та 駅 («залізнична станція, вокзал»). Часто вживається в оголошеннях та інформаційних матеріалах залізниці чи метро.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1204890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この電車は各駅に止まる。
+- READING :: このでんしゃはかくえきにとまる。
+- UK :: Цей поїзд зупиняється на кожній станції.
+- FOCUS :: 各駅
+*** ex-1204890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 急行を逃したので、各駅に乗ってゆっくり帰ることにした。
+- READING :: きゅうこうをのがしたので、かくえきにのってゆっくりかえることにした。
+- UK :: Оскільки я пропустив експрес, то вирішив сісти на звичайний поїзд, що стає на всіх станціях, і неспішно поїхати додому.
+- FOCUS :: 各駅
+*** ex-1204890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 路線図の案内板には、各駅の乗り換え路線や周辺の主な施設が分かりやすく示されている。
+- READING :: ろせんずのあんないばんには、かくえきののりかえろせんやしゅうへんのおもなしせつがわかりやすくしめされている。
+- UK :: На інформаційному табло зі схемою лінії зрозуміло показано пересадкові маршрути на кожній станції та головні об'єкти поблизу.
+- FOCUS :: 各駅
+
+* Sense s-1204890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5b3bc2909ed7f83c6a467757e0c127ec8bde296584c49d85a0700f42a9d418d3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- col
+- abbr
+*** Cross-references
+- 各駅停車
+** English glosses
+- local train
+- train that stops at every station
+** Ukrainian glosses
+*** uk-s-1204890-002-001
+:PROPERTIES:
+:END:
+- text :: поїзд, що зупиняється на кожній станції; звичайний приміський поїзд
+** Learner notes
+*** note-s-1204890-002-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне скорочення від 各駅停車 (かくえきていしゃ), яке протиставляється швидкісним поїздам 急行 («експрес») або 快速 («швидкий поїзд»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1204890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e0ccaae38fdd5939546438ad09072e6a035cbfb60203c805118ebc69ee76d582
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204890-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elk
+*** en-s-1204890-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ieder station
+*** en-s-1204890-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alle stations
+** Ukrainian glosses
+
+* Sense s-1204890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2c0641487ef7d6e315047321a8e8066d7439a78803cf4d062ad910eb5efa77e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204890-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stoptrein
+*** en-s-1204890-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boemeltrein
+*** en-s-1204890-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boemeltje
+*** en-s-1204890-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lokaaltrein
+*** en-s-1204890-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lokaaltje
+** Ukrainian glosses
+
+* Sense s-1204890-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 32f634e4c846733b695aa11e40b5cdd08aa5918e0aee3f902d23d560cc96f202
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204890-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jeder Bahnhof
+*** en-s-1204890-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jede Station
+** Ukrainian glosses
+
+* Sense s-1204890-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e3716e1647615acbcbdef37f3f9ec813cbb0229577fe162ac797289987aedc74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204890-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: каждая станция, каждый вокзал, все станции, все вокзалы
+** Ukrainian glosses
