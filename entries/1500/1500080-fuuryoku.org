@@ -1,0 +1,269 @@
+#+TITLE: 風力
+#+JMDICT_ID: 1500080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふうりょく
+#+ROMAJI: fuuryoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1500080-001
+:PROPERTIES:
+:TEXT: 風力
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf21
+** Reading rd-1500080-001
+:PROPERTIES:
+:TEXT: ふうりょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf21
+
+* Sense s-1500080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fb07ff50dac7321b09f1e5281cd85c602463f63418c335626c8fca14ce1635d3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wind power
+** Ukrainian glosses
+*** uk-s-1500080-001-001
+:PROPERTIES:
+:END:
+- text :: сила вітру; енергія вітру
+** Learner notes
+*** note-s-1500080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 風 (вітер) і 力 (сила). Уживається як у значенні фізичної сили чи швидкості вітру (風力が強まる — вітер посилюється), так і щодо відновлюваної вітрової енергетики, зокрема у складених термінах на зразок 風力発電 (вітрова електроенергетика).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1500080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この町では風力で電気を作っています。
+- READING :: このまちではふうりょくででんきをつくっています。
+- UK :: У цьому місті електроенергію виробляють за допомогою сили вітру.
+- FOCUS :: 風力
+*** ex-1500080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 島の丘の上に大きな風力発電機が並んでいる。
+- READING :: しまのおかのうえにおおきなふうりょくはつでんきがならんでいる。
+- UK :: На пагорбі острова стоять у ряд великі вітрові електрогенератори.
+- FOCUS :: 風力
+*** ex-1500080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 午後に向かって次第に風力が増してきたため、ヨットの帆を小さく畳むことにした。
+- READING :: ごごにむかってしだいにふうりょくがましてきたため、よっとのほをちいさくたたむことにした。
+- UK :: Оскільки ближче до пообідньої пори сила вітру поступово зростала, ми вирішили згорнути вітрило яхти.
+- FOCUS :: 風力
+
+* Sense s-1500080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dd2b533f684bcd4484542ff0662ea4c432ab34302b79e15d10443c10addd9a27
+:END:
+** JMdict metadata
+*** Parts of speech
+- pref
+** English glosses
+- force (level on the Beaufort wind speed scale)
+** Ukrainian glosses
+*** uk-s-1500080-002-001
+:PROPERTIES:
+:END:
+- text :: бал (за шкалою Бофорта — сила вітру)
+** Learner notes
+*** note-s-1500080-002-001
+:PROPERTIES:
+:END:
+- UK :: Префіксоїд у метеорології та мореплавстві, що передує числівникові (від нуля до дванадцяти) для позначення сили вітру за шкалою Бофорта, наприклад: 風力五 (вітер силою п'ять балів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1500080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6344e8bc4b3a95807fd05c6d2efef875cbc61a39699564e4d43973234407d315
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: windkracht
+*** en-s-1500080-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: windsterkte
+** Ukrainian glosses
+
+* Sense s-1500080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 570f1b00f0c7e2669758d0140fe0d3550291339c854c4113392a44f558f15c88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: windenergie
+** Ukrainian glosses
+
+* Sense s-1500080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e9156dce774d47253051c427e63dfc3bb943a1e0566b77c5f551f05d13cb2e68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: énergie éolienne
+** Ukrainian glosses
+
+* Sense s-1500080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 2b09e21881907e7a768e874b6306799aaa3d3b82553e6a9bed1ce44977fa18f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Windstärke
+*** en-s-1500080-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Windgeschwindigkeit
+** Ukrainian glosses
+
+* Sense s-1500080-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 9f7dd6878d9b08600a8ad11a5941c3e36aafe0bab3421adc30fabd2e1952a180
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Windkraft
+** Ukrainian glosses
+
+* Sense s-1500080-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2666842bfccc39b86ed8fa43bb68de0071697c3084bf0ac37986e2d4a9f6940a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сила ветра
+** Ukrainian glosses
+
+* Sense s-1500080-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d508893bc6b8312598822b1cfeb9740eb1909acf571b16de62b7471afe3b969c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: energía eólica
+** Ukrainian glosses
+
+* Sense s-1500080-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 02c9caa70ffebf462ef9f8ff6afb3bc3e5bad9c91961f3aba261991de421308c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500080-010-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vindkraft
+** Ukrainian glosses
