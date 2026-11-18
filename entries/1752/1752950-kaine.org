@@ -1,0 +1,154 @@
+#+TITLE: 買値
+#+JMDICT_ID: 1752950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいね
+#+ROMAJI: kaine
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1752950-001
+:PROPERTIES:
+:TEXT: 買値
+:END:
+** Written form wf-1752950-002
+:PROPERTIES:
+:TEXT: 買い値
+:END:
+** Reading rd-1752950-001
+:PROPERTIES:
+:TEXT: かいね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1752950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 05b8963491ff1c608ce72001c26c5663915f6fd38739eef12b0b9fae59d8a868
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- buying price
+- cost price
+- purchase price
+** Ukrainian glosses
+*** uk-s-1752950-001-001
+:PROPERTIES:
+:END:
+- text :: ціна купівлі; закупівельна ціна; курс покупця (на біржі)
+** Learner notes
+*** note-s-1752950-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник торгової та фінансової лексики, що позначає ціну, за якою товар чи активи купують (протиставляється 売値 — ціна продажу). На біржі також означає запропоновану покупцем ціну (курс попиту).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1752950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この株は買値より高く売れた。
+- READING :: このかぶはかいねよりたかくうれた。
+- UK :: Ці акції вдалося продати дорожче за ціну купівлі.
+- FOCUS :: 買値
+*** ex-1752950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 中古車を買値とほぼ同じ金額で売却できたので満足している。
+- READING :: ちゅうこしゃをかいねとほぼおなじきんがくでばいきゃくできたのでまんぞくしている。
+- UK :: Я задоволений тим, що зміг продати вживаний автомобіль майже за ту саму ціну, за яку купував.
+- FOCUS :: 買値
+*** ex-1752950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 為替相場の変動が激しいため、輸入品の買値を安定させることが企業にとって大きな課題となっている。
+- READING :: かわせそうばのへんどうがはげしいため、ゆにゅうひんのかいねをあんていさせることがきぎょうにとっておおきなかだいとなっている。
+- UK :: Через різкі коливання валютного курсу стабілізація закупівельних цін на імпортні товари стала серйозним викликом для підприємств.
+- FOCUS :: 買値
+
+* Sense s-1752950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9b1a95e7d2f326efeda11c9d32345f30b19e287c2eacc28d3bd68cea1d851752
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einkaufspreis
+*** en-s-1752950-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaufpreis
+** Ukrainian glosses
+
+* Sense s-1752950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3a4843d64efc3bed5f5e654fe6678b0ab5adfc0cf4b4054df3d5311fe100ba85
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752950-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ком.) покупная цена; (бирж.) цена, предлагаемая покупателем, курс покупателей
+** Ukrainian glosses
+
+* Sense s-1752950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 46d2453026496c8117287244d6280ab4626624ed0e72ca26f2bf7121de312ab9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1752950-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio de compra
+*** en-s-1752950-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: valor en compra
+** Ukrainian glosses
