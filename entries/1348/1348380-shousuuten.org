@@ -1,0 +1,235 @@
+#+TITLE: 小数点
+#+JMDICT_ID: 1348380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうすうてん
+#+ROMAJI: shousuuten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1348380-001
+:PROPERTIES:
+:TEXT: 小数点
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf39
+** Written form wf-1348380-002
+:PROPERTIES:
+:TEXT: 少数点
+:END:
+*** Information
+- iK
+** Reading rd-1348380-001
+:PROPERTIES:
+:TEXT: しょうすうてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf39
+
+* Sense s-1348380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d4663886761a2376d620f07cb4c378886bbeef95e5dedd74c8d0e2cf120125e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- decimal point
+- radix point
+** Ukrainian glosses
+*** uk-s-1348380-001-001
+:PROPERTIES:
+:END:
+- text :: десяткова крапка (кома); роздільник у десятковому дробі
+** Learner notes
+*** note-s-1348380-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний іменник, утворений із 小数（しょうすう, «десятковий дріб»） та 点（てん, «крапка»）. В японському записі десяткових дробів використовується крапка (наприклад, 3.14 — さんてんいちよん), на відміну від коми в українській орфографії. Уживається в сталих висловах на зразок 小数点以下（しょうすうてんいか, «після коми / дробова частина»） та 小数点以下を切り捨てる（きりすてる, «відкидати дробову частину»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1348380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 小数点の位置を間違えました。
+- READING :: しょうすうてんのいちをまちがえました。
+- UK :: Я помилився з місцем десяткової коми.
+- FOCUS :: 小数点
+*** ex-1348380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この計算では、小数点以下第二位まで求めてください。
+- READING :: このけいさんでは、しょうすうてんいかだいにいまでもとめてください。
+- UK :: У цьому обчисленні знайдіть значення з точністю до другого знака після коми.
+- FOCUS :: 小数点
+*** ex-1348380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 統計データの処理中に小数点が一つずれただけで、結果が大きく変わってしまう。
+- READING :: とうけいでーたのしょりちゅうにしょうすうてんがひとつずれただけで、けっかがおおきくかわってしまう。
+- UK :: Варто десятковій комі під час обробки статистичних даних зсунутися лише на один розряд, і результат суттєво зміниться.
+- FOCUS :: 小数点
+
+* Sense s-1348380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f8a894912d15e9a0ca4b26009cff4ae7869a3683094b33294d5d6eacd7af6aa0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} decimaalpunt
+*** en-s-1348380-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decimaalteken
+*** en-s-1348380-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komma
+** Ukrainian glosses
+
+* Sense s-1348380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 022616e79071cb7913ab98cdd29d10d8b29f94435f1257172c86aa2681a8e702
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: virgule décimale
+** Ukrainian glosses
+
+* Sense s-1348380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e954f3940261380142d7a909f1bda73686c99f9c0ef969783444956c6916c884
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dezimalpunkt
+** Ukrainian glosses
+
+* Sense s-1348380-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 78f707239cf2dfc87ad0a38d1974155877d2021869f8d0290fd3e24d4f4865c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tizedespont
+** Ukrainian glosses
+
+* Sense s-1348380-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 07af079e8152ec974132661e7805789847e0d8cab4d07a29e17be47f5954cdcf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: запятая, точка (в десятичной дроби)
+** Ukrainian glosses
+
+* Sense s-1348380-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: a9fb3682be3b78b98b2d28511574d68dce65e376208119346638f5b18cd9e33a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: punto decimal
+** Ukrainian glosses
+
+* Sense s-1348380-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: aada2f7b9b74ced02aa41385244c09b3648d72904f21c0a7a039c6a17712c99a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1348380-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: decimalkomma
+** Ukrainian glosses
