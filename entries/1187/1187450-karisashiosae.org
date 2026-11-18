@@ -1,0 +1,160 @@
+#+TITLE: 仮差押え
+#+JMDICT_ID: 1187450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりさしおさえ
+#+ROMAJI: karisashiosae
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1187450-001
+:PROPERTIES:
+:TEXT: 仮差押え
+:END:
+** Written form wf-1187450-002
+:PROPERTIES:
+:TEXT: 仮差し押さえ
+:END:
+*** Priorities
+- news2
+- nf37
+** Written form wf-1187450-003
+:PROPERTIES:
+:TEXT: 仮差し押え
+:END:
+** Written form wf-1187450-004
+:PROPERTIES:
+:TEXT: 仮差押
+:END:
+** Reading rd-1187450-001
+:PROPERTIES:
+:TEXT: かりさしおさえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1187450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d84e9c5146b29495a10d9df2cf92abb57cbb15cca19a802892cee2d3c9f79cdd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- provisional seizure
+- provisional attachment
+- provisional garnishment
+** Ukrainian glosses
+*** uk-s-1187450-001-001
+:PROPERTIES:
+:END:
+- text :: тимчасовий арешт майна; попереднє накладення арешту
+** Learner notes
+*** note-s-1187450-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін, утворений із префікса 仮 (тимчасовий, попередній) та іменника 差押え (опис і арешт майна). Позначає забезпечувальний захід суду, що забороняє боржникові відчужувати майно або кошти до винесення остаточного рішення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1187450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 裁判所が土地の仮差押えを決めました。
+- READING :: さいばんしょがとちのかりさしおさえをきめました。
+- UK :: Суд ухвалив рішення про тимчасовий арешт земельної ділянки.
+- FOCUS :: 仮差押え
+*** ex-1187450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 債権者は相手が財産を隠すのを防ぐため、銀行口座の仮差押えを申し立てた。
+- READING :: さいけんしゃはあいてがざいさんをかくすのをふせぐため、ぎんこうこうざのかりさしおさえをもうしたてた。
+- UK :: Щоб завадити іншій стороні приховати активи, кредитор подав заяву про тимчасовий арешт банківського рахунку.
+- FOCUS :: 仮差押え
+*** ex-1187450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 民事保全法に基づく仮差押えの命令が下されると、債務者は対象となる不動産を自由に処分できなくなる。
+- READING :: みんじほぜんほうにもとづくかりさしおさえのめいれいがくだされると、さいむしゃはたいしょうとなるふどうさんをじゆうにしょぶんできなくなる。
+- UK :: Щойно винесено ухвалу про попередній арешт на підставі Закону про забезпечення цивільних позовів, боржник утрачає право вільно розпоряджатися відповідною нерухомістю.
+- FOCUS :: 仮差押え
+
+* Sense s-1187450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f376cb43d06014e527512bb0a2fd884a6993543b87b09fd6ce2a148b6e34261e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1187450-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} conservatoir beslag
+** Ukrainian glosses
+
+* Sense s-1187450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6637517220a35c5ce121f4a0fc9a069ce7d4943b9ba3dbc6043f4158a5893871
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1187450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: provisorische Beschlagnahme
+*** en-s-1187450-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arrest
+** Ukrainian glosses
+
+* Sense s-1187450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0768bef02bd3023a2379c6328c57e22de21774ca8684da0bf07af9a2d2b534f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1187450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: временное (условное) наложение ареста
+** Ukrainian glosses
