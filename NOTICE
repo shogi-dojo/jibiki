@@ -36,6 +36,29 @@ acknowledgement. EDRDG asks that no one claim copyright over the JMdict
 material; no copyright over JMdict material is claimed here. EDRDG places no
 restriction on commercial use provided its conditions are met.
 
+## Kanjium pitch accents (used, and redistributed in derived form)
+
+The Tokyo pitch-accent records in entry `* Pronunciation` sections whose
+`:SOURCE_ID:` is `kanjium` are derived from Kanjium's `accents.txt` (drop
+positions per written form and reading). Each record carries the Kanjium
+commit, source URL and licence. The pitch notation is Kanjium's; mora counts,
+pattern names and H/L summaries are computed from it by
+`scripts/import_kanjium_accents.rb`.
+
+- Source: Kanjium, https://github.com/mifunetoshiro/kanjium
+  (`data/source_files/raw/accents.txt`)
+- Copyright: mifunetoshiro and Kanjium contributors
+- Licence: Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0), per the Kanjium repository
+- Commit used: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+- SHA-256 of `accents.txt`:
+  8bd0dd127dab32ceec94cb03ab1ba6b68858ea73421dfa1731af2f373deb4f20
+
+Kanjium asks that the pitch-accent data be credited when used. Downstream
+applications displaying these accents must carry this attribution and the
+ShareAlike notice. The raw file is a local, ignored input
+(`sources/kanjium/accents.txt`) and is not vendored here.
+
 ## Open JTalk audio (generated locally; NOT redistributed)
 
 Generated pronunciation audio is synthesised locally with Open JTalk using the

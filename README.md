@@ -7,7 +7,9 @@ lookup, extraction, fingerprinting, validation, and Org linting reproducible.
 
 This dictionary uses the JMdict dictionary file, copyright James William Breen
 and The [Electronic Dictionary Research and Development Group](https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project),
-used under CC BY-SA 4.0.
+used under CC BY-SA 4.0. Tokyo pitch accents come from
+[Kanjium](https://github.com/mifunetoshiro/kanjium) (CC BY-SA 4.0); see
+`NOTICE`.
 
 ## Requirements
 
@@ -19,6 +21,7 @@ used under CC BY-SA 4.0.
   - `sources/jmdict/JMdict.xml.gz`
   - `sources/warodai/`
   - `sources/jlpt-n5/wiktionary-n5.tsv`
+  - `sources/kanjium/accents.txt` (only for `rake entries:import_accents`)
 
 Run `rake -T` to list the supported workflow.
 
