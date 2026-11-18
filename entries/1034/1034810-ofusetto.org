@@ -1,0 +1,413 @@
+#+TITLE: オフセット
+#+JMDICT_ID: 1034810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: オフセット
+#+ROMAJI: ofusetto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1034810-001
+:PROPERTIES:
+:TEXT: オフセット
+:NO_KANJI: false
+:END:
+
+* Sense s-1034810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4f52c402981722752ccdc0e07562ee4e8489b463616f7080f8fd17edf6bf672e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- offset
+** Ukrainian glosses
+*** uk-s-1034810-001-001
+:PROPERTIES:
+:END:
+- text :: зміщення, зсув; компенсація, взаємозалік
+** Learner notes
+*** note-s-1034810-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (offset). У техніці, інформатиці й економіці позначає зміщення координат чи адрес (зсув), а також компенсацію або зрівноваження витрат чи викидів, наприклад カーボンオフセット (вуглецева компенсація).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1034810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この雑誌はオフセットで印刷されました。
+- READING :: このざっしはおふせっとでいんさつされました。
+- UK :: Цей журнал надруковано офсетним способом.
+- FOCUS :: オフセット
+*** ex-1034810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プログラムの中で、データの開始位置を示すオフセットを設定します。
+- READING :: ぷろぐらむのなかで、でーたのかいしいちをしめすおふせっとをせっていします。
+- UK :: У програмі задають зсув, що вказує на початкову позицію даних.
+- FOCUS :: オフセット
+*** ex-1034810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近年では、印刷品質が安定しているオフセットと小部数向けのデジタル印刷を使い分ける会社が多い。
+- READING :: きんねんでは、いんさつひんしつがあんていしているおふせっととしょうぶすうむけのでじたるいんさつをつかいわけるかいしゃがおおい。
+- UK :: Останніми роками багато компаній поєднують офсетний друк зі стабільною якістю та цифровий друк для невеликих накладів.
+- FOCUS :: オフセット
+
+* Sense s-1034810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 620f9d288a03393aeebffea6905c7961f6d1e5ec505ace8e29c30bd39689b62f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- print
+*** Cross-references
+- オフセット印刷
+** English glosses
+- offset printing
+** Ukrainian glosses
+*** uk-s-1034810-002-001
+:PROPERTIES:
+:END:
+- text :: офсетний друк, офсет
+** Learner notes
+*** note-s-1034810-002-001
+:PROPERTIES:
+:END:
+- UK :: У поліграфії скорочення від オフセット印刷 (офсетний друк) — поширений спосіб плоского друку, за якого фарба переноситься з друкарської форми на папір через проміжний гумовий циліндр.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1034810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3d7de011d543e0d695dee66c04a85bd8ba1d5aceb6d18f6c8f784b7f9147b414
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034810-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {drukw.} offset
+** Ukrainian glosses
+
+* Sense s-1034810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1427a37b0b9071b782abe3925c2a9452b71fb05d8c58e94da6af99fdb406c8e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034810-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Offset
+*** en-s-1034810-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Offsetdruck
+*** en-s-1034810-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Offset-Druck
+** Ukrainian glosses
+
+* Sense s-1034810-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 22c9c786a917527481a1acc4cd413677a45ffd1eddd170d041cc7661f99da465
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034810-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beugró rész
+*** en-s-1034810-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dupla könyök
+*** en-s-1034810-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenestől merőleges irányban mért távolság
+*** en-s-1034810-005-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenérték
+*** en-s-1034810-005-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenkövetelés
+*** en-s-1034810-005-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellentétel
+*** en-s-1034810-005-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellentételezés
+*** en-s-1034810-005-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltérés
+*** en-s-1034810-005-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltolódott
+*** en-s-1034810-005-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eltolt
+*** en-s-1034810-005-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falpillér
+*** en-s-1034810-005-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kárpótlás
+*** en-s-1034810-005-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kártérítés
+*** en-s-1034810-005-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kihajlított
+*** en-s-1034810-005-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: legömbölyített perem
+*** en-s-1034810-005-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lehúzódás
+*** en-s-1034810-005-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lekerekített perem
+*** en-s-1034810-005-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mellékág
+*** en-s-1034810-005-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyílt tenger felé irányuló áramlás
+*** en-s-1034810-005-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ordináta
+*** en-s-1034810-005-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: peremhegység
+*** en-s-1034810-005-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sarjadás
+*** en-s-1034810-005-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: támaszkör
+*** en-s-1034810-005-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: üzemszünetelés
+*** en-s-1034810-005-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viszonzás
+*** en-s-1034810-005-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offszet
+*** en-s-1034810-005-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beállított eltérés
+** Ukrainian glosses
+
+* Sense s-1034810-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: d1df9df58e45983dfd0e8f73f4b4df5a8462017927d6402e92815befe973845a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034810-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) offset) (полигр.) офсет, офсетный способ печати
+** Ukrainian glosses
+
+* Sense s-1034810-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: d471cba999380d4fd12d8f74fc07e9cd838182fd99f8508d789ff975d4f35ef8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034810-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offset
+** Ukrainian glosses

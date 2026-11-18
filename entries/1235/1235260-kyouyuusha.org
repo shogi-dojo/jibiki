@@ -1,0 +1,157 @@
+#+TITLE: 共有者
+#+JMDICT_ID: 1235260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうゆうしゃ
+#+ROMAJI: kyouyuusha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1235260-001
+:PROPERTIES:
+:TEXT: 共有者
+:END:
+** Reading rd-1235260-001
+:PROPERTIES:
+:TEXT: きょうゆうしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1235260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 48295fb603830d09b773166a8666488515aa94031fe1d7e91d8337ae4068f946
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- joint owners
+- part owners
+** Ukrainian glosses
+*** uk-s-1235260-001-001
+:PROPERTIES:
+:END:
+- text :: співвласник
+** Learner notes
+*** note-s-1235260-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 共有 (спільне володіння або користування) за допомогою суфікса 者 (особа). Переважно вживається у юридичних, майнових і фінансових текстах щодо осіб, які спільно володіють нерухомістю, землею або правами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1235260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この家の共有者は二人います。
+- READING :: このいえのきょうゆうしゃはふたりいます。
+- UK :: У цього будинку є двоє співвласників.
+- FOCUS :: 共有者
+*** ex-1235260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 土地を売却するには、すべての共有者の同意を得なければならない。
+- READING :: とちをばいきゃくするには、すべてのきょうゆうしゃのどういをえなければならない。
+- UK :: Щоб продати земельну ділянку, потрібно отримати згоду всіх співвласників.
+- FOCUS :: 共有者
+*** ex-1235260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 相続によって不動産の共有者が増えると、将来の管理や修繕の方針を決めるのが難しくなることがある。
+- READING :: そうぞくによってふどうさんのきょうゆうしゃがふえると、しょうらいのかんりやしゅうぜんのほうしんをきめるのがむずかしくなることがある。
+- UK :: Коли через спадкування кількість співвласників нерухомості зростає, визначати подальший порядок управління та ремонту може стати складно.
+- FOCUS :: 共有者
+
+* Sense s-1235260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2d08a5543410d24c43fe2aa83f193c1e1a687e5f28715931717db33d383397c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1235260-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mitbesitzer
+*** en-s-1235260-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Miteigentümer
+** Ukrainian glosses
+
+* Sense s-1235260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 16e2ab39b3c252e480152a95d9e577ca7ba280759904898a296235e3b31d8dc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1235260-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: совладелец
+** Ukrainian glosses
+
+* Sense s-1235260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a54cb98d088b2e8b61649a5ddf88914c8e355e9b63a11d15028738a2f4d0f91d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1235260-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: copropietario
+*** en-s-1235260-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: condómino
+*** en-s-1235260-004-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comunero
+** Ukrainian glosses

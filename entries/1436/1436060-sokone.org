@@ -1,0 +1,180 @@
+#+TITLE: 底値
+#+JMDICT_ID: 1436060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そこね
+#+ROMAJI: sokone
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1436060-001
+:PROPERTIES:
+:TEXT: 底値
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1436060-001
+:PROPERTIES:
+:TEXT: そこね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+
+* Sense s-1436060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0fa3053e8a5fe7548a6db3d6e0d151536797ce5c8f942dd9590fb3f179958079
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bottom price
+** Ukrainian glosses
+*** uk-s-1436060-001-001
+:PROPERTIES:
+:END:
+- text :: найнижча ціна, цінове дно
+** Learner notes
+*** note-s-1436060-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і торговельний іменник (底 «дно» + 値 «ціна»). Позначає мінімальний рівень цін на фондовому ринку чи в роздрібній торгівлі; часто вживається у зворотах 底値を打つ («досягти цінового дна») і 底値を探る («шукати нижню межу»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1436060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この商品の価格は今が底値だ。
+- READING :: このしょうひんのかかくはいまがそこねだ。
+- UK :: Зараз на цей товар найнижча ціна.
+- FOCUS :: 底値
+*** ex-1436060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 株価が底値を打ってから、少しずつ回復に向かっている。
+- READING :: かぶかがそこねをうってから、すこしずつかいふくにむかっている。
+- UK :: Після того як курс акцій досяг дна, він поступово рухається до відновлення.
+- FOCUS :: 底値
+*** ex-1436060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市場の動向を慎重に見極め、底値で買おうと機会をうかがっている投資家が多い。
+- READING :: しじょうのどうこうをしんちょうにみきわめ、そこねでかおうときかいをうかがっているとうしかがおおい。
+- UK :: Багато інвесторів уважно стежать за тенденціями ринку, вичікуючи слушного моменту для купівлі на мінімальній ціні.
+- FOCUS :: 底値
+
+* Sense s-1436060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a663e78c263901214fedaf244b54840b295a73c8d7defff906d94232b23fc18b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1436060-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {hand.} bodemprijs
+*** en-s-1436060-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bodemkoers
+*** en-s-1436060-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimumprijs
+** Ukrainian glosses
+
+* Sense s-1436060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0a2f3437d346133a462452f6d1e5537e015698070598fc958d75197fcedc293f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1436060-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix plancher
+** Ukrainian glosses
+
+* Sense s-1436060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 682718e581d46c587399604fb1044ad69c46d745c12026f94985efbdd827f158
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1436060-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niedrigster Preis
+*** en-s-1436060-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Preistiefststand
+** Ukrainian glosses
+
+* Sense s-1436060-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b6ce439a7d28373348369c88961dd2ac89d3f8e0eeed2b1d8de4c9e840c617fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1436060-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: самая низкая цена
+** Ukrainian glosses

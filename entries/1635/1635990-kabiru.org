@@ -1,0 +1,214 @@
+#+TITLE: 黴びる
+#+JMDICT_ID: 1635990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かびる
+#+ROMAJI: kabiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1635990-001
+:PROPERTIES:
+:TEXT: 黴びる
+:END:
+** Written form wf-1635990-002
+:PROPERTIES:
+:TEXT: 黴る
+:END:
+** Reading rd-1635990-001
+:PROPERTIES:
+:TEXT: かびる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1635990-002
+:PROPERTIES:
+:TEXT: カビる
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1635990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0b50da3016decd80e4596e9f1f0202498025beedd093dca35dbd33e4322108b2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to get moldy (mouldy)
+- to get musty
+- to develop mildew
+** Ukrainian glosses
+*** uk-s-1635990-001-001
+:PROPERTIES:
+:END:
+- text :: пліснявіти; вкриватися цвіллю
+** Learner notes
+*** note-s-1635990-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першої дієвідміни (ічідан), що зазвичай записується каною (かびる або カビる; канджі-запис 黴びる уживається рідко). Позначає появу плісняви на харчах, одязі чи стінах через вологість.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1635990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: パンがかびてしまった。
+- READING :: ぱんがかびてしまった。
+- UK :: Хліб запліснявів.
+- FOCUS :: かびて
+*** ex-1635990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 梅雨の時期は湿気が多く、押入れの中の布団がかびることがある。
+- READING :: つゆのじきはしっけがおおく、おしいれのなかのふとんがかびることがある。
+- UK :: У сезон дощів дуже волого, тож футони в шафі можуть вкритися цвіллю.
+- FOCUS :: かびる
+*** ex-1635990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 風通しの悪い地下室に長い間放置されていた革靴は、表面がすっかりかびていた。
+- READING :: かぜとおしのわるいちかしつにながいあいだほうちされていたかわぐつは、ひょうめんがすっかりかびていた。
+- UK :: Шкіряні черевики, які довгий час пролежали в погано провітрюваному підвалі, зверху зовсім укрилися пліснявою.
+- FOCUS :: かびて
+
+* Sense s-1635990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64b12d92f97c860fae69881399cbb89214bdeb518cee5c1e849f83bceb34baf5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635990-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beschimmelen
+*** en-s-1635990-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schimmelen
+*** en-s-1635990-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schimmelig worden
+*** en-s-1635990-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beslaan
+*** en-s-1635990-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {gew.} aanslaan
+** Ukrainian glosses
+
+* Sense s-1635990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a51fe8dc343de29f455555e4e4120d1767ec7fa84798ada4d704b4c415eec365
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635990-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schimmeln
+*** en-s-1635990-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schimmelig werden
+*** en-s-1635990-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schimmlig werden
+** Ukrainian glosses
+
+* Sense s-1635990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ca77ae20eced0434d37b63e8e278e34ae09efc3f3dab4d15a16747340e164112
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635990-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плесневеть
+** Ukrainian glosses
+
+* Sense s-1635990-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7bf4f0db908ed6934b3f37240ba235c85df2b59ff4c7ee34d4a5effb9892d549
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1635990-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enmohecerse
+** Ukrainian glosses

@@ -1,0 +1,217 @@
+#+TITLE: 球面
+#+JMDICT_ID: 1577920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうめん
+#+ROMAJI: kyuumen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1577920-001
+:PROPERTIES:
+:TEXT: 球面
+:END:
+** Reading rd-1577920-001
+:PROPERTIES:
+:TEXT: きゅうめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1577920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 06cba73ec78edb2efab9daa4123af22308de7c9b2bdb2db285f7134adaa09868
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- spherical surface
+** Ukrainian glosses
+*** uk-s-1577920-001-001
+:PROPERTIES:
+:END:
+- text :: сферична поверхня; поверхня кулі
+** Learner notes
+*** note-s-1577920-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник фізико-технічної та геометричної лексики, утворений із 球 (куля, сфера) та 面 (поверхня). Позначає криволінійну поверхню у формі кулі або її частини — наприклад, 球面レンズ (сферична лінза) чи 球面鏡 (сферичне дзеркало).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1577920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この鏡は美しい球面をしています。
+- READING :: このかがみはうつくしいきゅうめんをしています。
+- UK :: Це дзеркало має гарну сферичну поверхню.
+- FOCUS :: 球面
+*** ex-1577920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地図を作るには、地球の球面を平面に描き直す工夫が必要だ。
+- READING :: ちずをつくるには、ちきゅうのきゅうめんをへいめんにかきなおすくふうがひつようだ。
+- UK :: Щоб створити карту, потрібно знайти спосіб перенести сферичну поверхню Землі на площину.
+- FOCUS :: 球面
+*** ex-1577920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 数学の授業では、球面上の最短距離を表す大円の性質について詳しく学んだ。
+- READING :: すうがくのじゅぎょうでは、きゅうめんじょうのさいたんきょりをあらわすだいえんのせいしつについてくわしくまなんだ。
+- UK :: На уроці математики ми докладно вивчали властивості великого кола, що визначає найкоротшу відстань на поверхні сфери.
+- FOCUS :: 球面
+
+* Sense s-1577920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 640af3fef0f9e1c922d175eae9fac76bcfe82a8fea922f6ef3138bbd42551be1
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- sphere
+** Ukrainian glosses
+*** uk-s-1577920-002-001
+:PROPERTIES:
+:END:
+- text :: сфера (у математиці)
+** Learner notes
+*** note-s-1577920-002-001
+:PROPERTIES:
+:END:
+- UK :: У математиці позначає сферу як геометричне місце точок у просторі, рівновіддалених від центру — на відміну від 球 (куля як тривимірне тіло). Входить до термінів на кшталт 球面幾何学 (сферична геометрія).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1577920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5bb2379460a71b47e2a33fddf3af3fafe1fd879a73e2ba27e98f507750efeb3b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577920-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} boloppervlak
+*** en-s-1577920-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bolvlak
+** Ukrainian glosses
+
+* Sense s-1577920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4b7c03c43a021b5fbdbbfd6fe36614f8379d23dc48736d832c7f981bb409365a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577920-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kugelfläche
+*** en-s-1577920-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sphäre
+** Ukrainian glosses
+
+* Sense s-1577920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 163d580252f8ad8470298c0d794bc444bf8e032586af983fa0559bd70fe67f51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577920-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gömbfelulet
+** Ukrainian glosses
+
+* Sense s-1577920-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 12225ed64d6e002288c5e3a9da32c9ebe13efbe0e90d9ce032fa19edebb8fc67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577920-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сферическая поверхность
+** Ukrainian glosses
+
+* Sense s-1577920-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 694f0c22dcab9fa3e8f3dc5a18b0a5b20d070840f33f4705e811d9037c05671a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1577920-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esfera
+*** en-s-1577920-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: superficie de una esfera
+** Ukrainian glosses

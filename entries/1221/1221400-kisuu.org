@@ -1,0 +1,416 @@
+#+TITLE: 帰趨
+#+JMDICT_ID: 1221400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きすう
+#+ROMAJI: kisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1221400-001
+:PROPERTIES:
+:TEXT: 帰趨
+:END:
+** Written form wf-1221400-002
+:PROPERTIES:
+:TEXT: 帰趣
+:END:
+** Written form wf-1221400-003
+:PROPERTIES:
+:TEXT: 帰すう
+:END:
+*** Information
+- sK
+** Reading rd-1221400-001
+:PROPERTIES:
+:TEXT: きすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 帰趨
+** Reading rd-1221400-002
+:PROPERTIES:
+:TEXT: きしゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1221400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6316302cb1b58b8fc1fe07c5bd96155cd49090679c943f90c7a0c642d3b0a940
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- outcome (of a course of events)
+- consequence
+- tendency
+- trend
+** Ukrainian glosses
+*** uk-s-1221400-001-001
+:PROPERTIES:
+:END:
+- text :: результат, розв'язка; подальший хід подій, тенденція
+** Learner notes
+*** note-s-1221400-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і публіцистичний іменник (рідше неперехідне する-дієслово), складений із 帰 (повертатися, зводитися до) та 趨 (прямувати, схилятися). Позначає те, до чого зрештою прийде ситуація, переговори чи суперечка; часто вживається у звороті 帰趨を見守る (стежити за перебігом подій) або 帰趨を決める.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1221400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: みんなで話し合いの帰趨を見守っています。
+- READING :: みんなではなしあいのきすうをみまもっています。
+- UK :: Усі стежать за тим, чим завершаться переговори.
+- FOCUS :: 帰趨
+*** ex-1221400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回の選挙結果は、今後の政治の帰趨を大きく左右することになるだろう。
+- READING :: こんかいのせんきょけっかは、こんごのせいじのきすうをおおきくさゆうすることになるだろう。
+- UK :: Результати цих виборів, імовірно, суттєво вплинуть на подальший розвиток політичної ситуації.
+- FOCUS :: 帰趨
+*** ex-1221400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市場関係者は、中央銀行の金融政策をめぐる議論の帰趨を注意深く見極めようとしている。
+- READING :: しじょうかんけいしゃは、ちゅうおうぎんこうのきんゆうせいさくをめぐるぎろんのきすうをちゅういぶかくみきわめようとしている。
+- UK :: Учасники ринку намагаються уважно визначити, чим завершиться дискусія щодо монетарної політики центрального банку.
+- FOCUS :: 帰趨
+
+* Sense s-1221400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aa1f122ce6915a78937b04fb9ff4fe1bfd380d97a0ffd00a0be96d07b23253a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tendenz
+*** en-s-1221400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ergebnis
+*** en-s-1221400-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Folge
+** Ukrainian glosses
+
+* Sense s-1221400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5b1268bb4f4847c1f837df313930c0861eaa7c43a6223768666b3be152943d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221400-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bíró útmutató magyarázata
+*** en-s-1221400-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: címirat
+*** en-s-1221400-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: címzés
+*** en-s-1221400-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tempójelzés
+*** en-s-1221400-003-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ügyvitel
+*** en-s-1221400-003-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vállalatvezetőség
+*** en-s-1221400-003-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vezetőség
+*** en-s-1221400-003-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajlam
+*** en-s-1221400-003-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irányzat
+*** en-s-1221400-003-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tendencia
+*** en-s-1221400-003-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: irány
+*** en-s-1221400-003-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cél
+*** en-s-1221400-003-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csap
+*** en-s-1221400-003-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felhő
+*** en-s-1221400-003-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: förgeteg
+*** en-s-1221400-003-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajtás
+*** en-s-1221400-003-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hajtóerő
+*** en-s-1221400-003-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hordalék
+*** en-s-1221400-003-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lendítőerő
+*** en-s-1221400-003-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mozgás
+*** en-s-1221400-003-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oldalgás
+*** en-s-1221400-003-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sodródás
+*** en-s-1221400-003-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vetődés
+** Ukrainian glosses
+
+* Sense s-1221400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1ba565e4f3182c942d2a539fb80fe4bfd0bcc8ebdddf56510495ebd99ce182cb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) стремление, тенденция
+** Ukrainian glosses
+
+* Sense s-1221400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ff60938e98fe255fcb233b66eb2ac7b2d877f064084814705cb06ef62021bd3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221400-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: desenlace
+*** en-s-1221400-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resultado
+*** en-s-1221400-005-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: conclusión
+** Ukrainian glosses
+
+* Sense s-1221400-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 72acbc59a2a121250516b657a9a6aefc13c0cfb05944313ad766f7fb669ad82f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1221400-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: riktning
+*** en-s-1221400-006-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tendens
+*** en-s-1221400-006-003
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trend
+** Ukrainian glosses

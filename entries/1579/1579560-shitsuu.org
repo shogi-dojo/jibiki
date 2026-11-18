@@ -1,0 +1,162 @@
+#+TITLE: 歯痛
+#+JMDICT_ID: 1579560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しつう
+#+ROMAJI: shitsuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1579560-001
+:PROPERTIES:
+:TEXT: 歯痛
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1579560-001
+:PROPERTIES:
+:TEXT: しつう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+** Reading rd-1579560-002
+:PROPERTIES:
+:TEXT: はいた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1579560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dff7b72fd504dcf6e6b674d5e3b86e13b9219c6e2e2c8ea4d99458586c64d0d6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- toothache
+** Ukrainian glosses
+*** uk-s-1579560-001-001
+:PROPERTIES:
+:END:
+- text :: зубний біль
+** Learner notes
+*** note-s-1579560-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (歯 «зуб» + 痛 «біль»), що переважно вживається у письмовому мовленні та медицині; у повсякденній розмові частіше кажуть 歯が痛い («болить зуб»). Має також рідкісніше читання はいた.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1579560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ひどい歯痛に悩んでいる。
+- READING :: ひどいしつうになやんでいる。
+- UK :: Я страждаю від сильного зубного болю.
+- FOCUS :: 歯痛
+*** ex-1579560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昨夜から急な歯痛が始まり、今朝すぐに歯科医院を予約した。
+- READING :: さくやからきゅうなしつうがはじまり、けさすぐにしかいいんをよやくした。
+- UK :: Із минулої ночі почався раптовий зубний біль, тож сьогодні вранці я одразу записався до стоматологічної клініки.
+- FOCUS :: 歯痛
+*** ex-1579560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市販の痛み止めで一時的に歯痛を和らげることはできても、根本的な治療には歯医者の診察が必要だ。
+- READING :: しはんのいたみどめでいちじてきにしつうをやわらげることはできても、こんぽんてきなちりょうにははいしゃのしんさつがひつようだ。
+- UK :: Навіть якщо аптечне знеболювальне може тимчасово втамувати зубний біль, для повноцінного лікування потрібен огляд стоматолога.
+- FOCUS :: 歯痛
+
+* Sense s-1579560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0c1fd9c051ea97dddd73c6ca4adb78bc8a94746608554f7f2e91e15e0e2bba1b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1579560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahnschmerzen
+** Ukrainian glosses
+
+* Sense s-1579560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4340a42862589cae0f33bfc9d06e3d4e5bceeba4371ce717e0c390494c52bda0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1579560-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fogfájás
+** Ukrainian glosses
+
+* Sense s-1579560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 71982eec9ec699b44e8be2722f133ecdb1e65398442353dd997224a02bc52a17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1579560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зубная боль
+*** en-s-1579560-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зубная боль
+*** en-s-1579560-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～がする} страдать от зубной боли
+** Ukrainian glosses
