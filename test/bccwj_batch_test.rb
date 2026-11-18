@@ -82,6 +82,7 @@ class BccwjBatchTest < Minitest::Test
       assert_equal 1, dossier_paths.size
       dossier = File.read(dossier_paths.first, encoding: 'UTF-8')
       assert_includes dossier, '## 1. 青 [あお] (JMdict:1381380, rank:42, romaji:ao)'
+      assert_includes dossier, 'Forms: 青 | Readings: あお'
       assert_includes dossier, 'Senses count: 2'
       assert_includes dossier, 'Warodai(consult-only): 005-14-12:'
 
@@ -258,14 +259,15 @@ class BccwjBatchTest < Minitest::Test
         }
       ]
     }
-    aoi_entry = sample_jmdict_entry.merge('written_forms' => [{ 'text' => '青い', 'information' => [], 'priorities' => [] }],
+    aoi_entry = sample_jmdict_entry.merge('written_forms' => [{ 'text' => '青い', 'information' => [], 'priorities' => [] },
+                                                              { 'text' => '蒼い', 'information' => [], 'priorities' => [] }],
                                           'readings' => [{ 'text' => 'あおい', 'no_kanji' => false, 'applies_to_written_forms' => [], 'information' => [], 'priorities' => [] }])
 
     seed = [
       [1050560, 'コバルト', 'こばると', 'kobaruto', cobalt_entry, '004-01-01', nil],
       [9999999, '既存', 'きぞん', 'kizon', cobalt_entry, '004-01-02', '既存'],
       [8888888, 'ワロナシ', 'わろなし', 'waronashi', cobalt_entry, nil, nil],
-      [1000010, '青い', 'あおい', 'aoi', aoi_entry, '001-01-01', '青い']
+      [1000010, '青い', 'あおい', 'aoi', aoi_entry, '001-01-01', '蒼い']
     ]
     seed.each do |id, w, r, rom, ent, card_id, form_w|
       jmdict_db.execute('INSERT INTO entries VALUES (?, ?, ?, ?, ?)', [id, w, r, rom, JSON.generate(ent)])

@@ -148,7 +148,8 @@ module BccwjBatch
     end
 
     def find_warodai_cards(written, reading, entry)
-      forms = ([written] + (entry['kanji'] || []).map { |k| k['text'] }).compact.uniq
+      written_forms = entry['written_forms'] || entry['kanji'] || []
+      forms = ([written] + written_forms.map { |k| k['text'] }).compact.uniq
       rows = forms.flat_map do |form|
         @warodai_db.execute(
           'SELECT c.card_id, c.written_raw, c.kana_raw, c.body FROM forms f ' \
@@ -217,7 +218,8 @@ module BccwjBatch
 
     def format_item(item_num, row)
       entry = row.fetch('entry')
-      forms = (entry['kanji'] || []).map { |k| k['text'] }
+      written_forms = entry['written_forms'] || entry['kanji'] || []
+      forms = written_forms.map { |k| k['text'] }
       readings = (entry['readings'] || []).map { |r| r['text'] }
       eng_senses = (entry['senses'] || []).select { |s| (s['glosses'] || []).any? { |g| g['lang'] == 'eng' } }
 
