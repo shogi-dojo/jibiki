@@ -1,0 +1,175 @@
+#+TITLE: 照度
+#+JMDICT_ID: 1350970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうど
+#+ROMAJI: shoudo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1350970-001
+:PROPERTIES:
+:TEXT: 照度
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1350970-001
+:PROPERTIES:
+:TEXT: しょうど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1350970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 36a601a886a639b8dba8ad891e60eb6af78626a0eea7a216b0a1618c1f27943f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (intensity of) illumination
+- illuminance
+** Ukrainian glosses
+*** uk-s-1350970-001-001
+:PROPERTIES:
+:END:
+- text :: освітленість; інтенсивність освітлення
+** Learner notes
+*** note-s-1350970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (照 «освітлювати» + 度 «ступінь, міра»). Фізична та світлотехнічна величина, що характеризує кількість світлового потоку на одиницю площі (вимірюється в люксах); уживається в архітектурі, фотографії та охороні праці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1350970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 部屋の照度を測る。
+- READING :: へやのしょうどをはかる。
+- UK :: Виміряти освітленість у кімнаті.
+- FOCUS :: 照度
+*** ex-1350970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 読書をするには、机の上の照度を十分に確保することが大切だ。
+- READING :: どくしょをするには、つくえのうえのしょうどをじゅうぶんにかくほすることがたいせつだ。
+- UK :: Для читання важливо забезпечити достатню освітленість поверхні стола.
+- FOCUS :: 照度
+*** ex-1350970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 美術館の展示室では、貴重な絵画の退色を防ぐために照明の照度が厳密に管理されている。
+- READING :: びじゅつかんのてんじしつでは、きちょうなかいがのたいしょくをふせぐためにしょうめいのしょうどがげんみつにかんりされている。
+- UK :: У виставкових залах художнього музею інтенсивність освітлення суворо контролюють, щоб запобігти вицвітанню цінних картин.
+- FOCUS :: 照度
+
+* Sense s-1350970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5d1985e4fd27455b0a774524c804ea3429126eb7b61d0a53ad6e5a48b0ce2363
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350970-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} verlichtingssterkte
+** Ukrainian glosses
+
+* Sense s-1350970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: efe49be1ed7ed3019790ddd26604ad5c9fd46998e0000c1e24544c474ad91563
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350970-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Beleuchtungsstärke (gemessen in Lux; Zeichen: lx)
+** Ukrainian glosses
+
+* Sense s-1350970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c26919a9453c0c31a7a3b198bc6be53566c9cfe43b989e56b3233a9ff38345fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350970-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megvilágítás erőssége
+** Ukrainian glosses
+
+* Sense s-1350970-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5fd621d106eed6f04aacf3117ad3f52ee9c9512b57ddd24d8b586281050e703c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350970-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: освещённость, освещение
+** Ukrainian glosses
+
+* Sense s-1350970-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ea825c37c3eaa0bc806b8594609548e0ed8097e43b712b9c62e935286d767df6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350970-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: iluminación (intensidad de) medido en lux
+** Ukrainian glosses
