@@ -13,13 +13,15 @@ Dir.mktmpdir do |directory|
   bad = File.join(directory, 'bad.org')
   lines = File.read(good, encoding: 'UTF-8').split("\n")
   lines.delete_at(lines.index(':END:'))
-  lines.push('1. one', '3. three', '[[nowhere]]')
+  # The paragraph keeps the numbered list from joining the entry's last list,
+  # so only the misnumbered `3.` is reported.
+  lines.push('Numbered:', '1. one', '3. three', '[[nowhere]]')
   File.write(bad, lines.join("\n"))
 
   code, out, = JB::Check.run('lint', bad)
   JB::Check.equal('a broken entry fails', JB::EXIT_FAILED, code)
   JB::Check.equal('findings name the checkers in line order',
-                  %w[incomplete-drawer item-number item-number invalid-fuzzy-link],
+                  %w[incomplete-drawer item-number invalid-fuzzy-link],
                   out.lines.map { |line| line.split(': ')[1] })
 
   code, out, = JB::Check.run('lint', '--json', bad, File.join(directory, 'missing.org'))

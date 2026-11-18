@@ -26,7 +26,9 @@ class OrgLintTest < Minitest::Test
     'bad_priority' => ->(l) { l[HEADING] = l[HEADING].sub('* ', '* [#Z1] ') },
     'empty_prop_key' => ->(l) { l.insert(PROPS + 1, ':: empty') },
     'unclosed_block' => ->(l) { l << '#+BEGIN_SRC' },
-    'item_number' => ->(l) { l.push('1. one', '3. three') },
+    # The paragraph keeps the numbered list from joining whatever list the
+    # entry closes with, so only the misnumbered `3.` is reported.
+    'item_number' => ->(l) { l.push('Numbered:', '1. one', '3. three') },
     'special_prop' => ->(l) { l.insert(PROPS + 1, ':TODO: x') },
     'effort' => ->(l) { l.insert(PROPS + 1, ':EFFORT: abc') },
     'local_file' => ->(l) { l << '- see [[file:nope.org]]' },
@@ -94,7 +96,7 @@ class OrgLintTest < Minitest::Test
 
       assert_equal %w[incomplete-drawer], found['missing_end']
       assert_equal %w[obsolete-properties-drawer], found['blank_before_drawer']
-      assert_equal %w[item-number item-number], found['item_number']
+      assert_equal %w[item-number], found['item_number']
       assert_equal %w[invalid-keyword-syntax], found['keyword_no_colon']
       assert_nil found['nested_list']
       assert_nil found['url_link']
