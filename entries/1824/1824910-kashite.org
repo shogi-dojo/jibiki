@@ -1,0 +1,198 @@
+#+TITLE: 貸し手
+#+JMDICT_ID: 1824910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かして
+#+ROMAJI: kashite
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1824910-001
+:PROPERTIES:
+:TEXT: 貸し手
+:END:
+*** Priorities
+- news2
+- nf47
+** Written form wf-1824910-002
+:PROPERTIES:
+:TEXT: 貸手
+:END:
+** Reading rd-1824910-001
+:PROPERTIES:
+:TEXT: かして
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1824910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 16762f622ee31db22ad1984a0c03c867a3a7956c1abfcdac716dcb3081d85767
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- lender
+** Ukrainian glosses
+*** uk-s-1824910-001-001
+:PROPERTIES:
+:END:
+- text :: позикодавець; кредитор; орендодавець
+** Learner notes
+*** note-s-1824910-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 貸す (позичати, здавати в оренду) та суфікса -手 (виконавець дії). Позначає того, хто надає гроші в борг або майно в тимчасове користування; антонім — 借り手 (позичальник, орендар).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1824910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お金の貸し手がなかなか見つからない。
+- READING :: おかねのかしてがなかなかみつからない。
+- UK :: Ніяк не вдається знайти того, хто позичить гроші.
+- FOCUS :: 貸し手
+*** ex-1824910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 銀行は資金の貸し手として、企業の事業拡大を金融面から支えている。
+- READING :: ぎんこうはしきんのかしてとして、きぎょうのじぎょうかくだいをきんゆうめんからささえている。
+- UK :: Як кредитор, банк фінансово підтримує розширення діяльності підприємств.
+- FOCUS :: 貸し手
+*** ex-1824910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 貸し手と借り手の双方が契約条件に納得したうえでなければ、安定した賃貸関係は築けない。
+- READING :: かしてとかりてのそうほうがけいやくじょうけんになっとくしたうえでなければ、あんていしたちんたいかんけいはきずけない。
+- UK :: Стабільні орендні відносини неможливо вибудувати, якщо й орендодавець, і орендар не погодяться з умовами договору.
+- FOCUS :: 貸し手
+
+* Sense s-1824910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 687a4d628ae696b4cbb45a29b06514e59514bb9231bbbafff8b48b1630b87a62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1824910-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreditgeber
+*** en-s-1824910-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gläubiger
+*** en-s-1824910-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verleiher
+*** en-s-1824910-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vermieter
+** Ukrainian glosses
+
+* Sense s-1824910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f19ce588f191bafced39a1a7edaab369a54ed5d3657967eec11ba8339d46910c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1824910-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölcsönadó
+*** en-s-1824910-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölcsönző
+*** en-s-1824910-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérbeadó
+*** en-s-1824910-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölcsönadó
+** Ukrainian glosses
+
+* Sense s-1824910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e6d8a45b6c9f917b9a3747b13a9b15ae8731496e0ce9734174660fbb5831f4b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1824910-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) кредитор
+*** en-s-1824910-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) владелец (чего-л.) сданного в аренду (внаём, напрокат)
+** Ukrainian glosses
