@@ -1,0 +1,214 @@
+#+TITLE: 流体
+#+JMDICT_ID: 1552400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りゅうたい
+#+ROMAJI: ryuutai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1552400-001
+:PROPERTIES:
+:TEXT: 流体
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1552400-001
+:PROPERTIES:
+:TEXT: りゅうたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1552400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0e91dc8e3c36d1adfc6be24037d4e99ea8c46751e5daceabf4954f50429ae149
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fluid
+** Ukrainian glosses
+*** uk-s-1552400-001-001
+:PROPERTIES:
+:END:
+- text :: плинне середовище (рідина або газ); текуче тіло
+** Learner notes
+*** note-s-1552400-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний термін, утворений із 流 («текти») та 体 («тіло, речовина»). У фізиці та інженерії об'єднує рідини (液体) та гази (気体), здатні змінювати форму й текти (напр., 流体力学 — гідроаеромеханіка).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1552400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水や空気は流体だ。
+- READING :: みずやくうきはりゅうたいだ。
+- UK :: Вода і повітря — це плинні середовища.
+- FOCUS :: 流体
+*** ex-1552400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: パイプの中を流れる流体の速度を測定した。
+- READING :: ぱいぷのなかをながれるりゅうたいのそくどをそくていした。
+- UK :: Ми виміряли швидкість плину середовища, що тече всередині труби.
+- FOCUS :: 流体
+*** ex-1552400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 航空機の設計には、流体の動きを正確に計算する技術が欠かせない。
+- READING :: こうくうきのせっけいには、りゅうたいのうごきをせいかくにけいさんするぎじゅつがかかせない。
+- UK :: Для проєктування літальних апаратів незамінна технологія точного розрахунку руху потоків рідин і газів.
+- FOCUS :: 流体
+
+* Sense s-1552400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 94e76477356cb93c45834fb8d38487e592fe38cb7809167dabe8ddd5ed9fcf30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552400-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} fluïdum
+*** en-s-1552400-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fluïde
+** Ukrainian glosses
+
+* Sense s-1552400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dd9e21fe5aba88ab4b12e72055af7368e60cebff1aa880409019b541c69ee765
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flüssigkeiten und Gase
+*** en-s-1552400-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fluid
+** Ukrainian glosses
+
+* Sense s-1552400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e03e89977f649684b08854fd6357a062f7f386b876e05af7ee0e6e38a2c5d380
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552400-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cseppfolyós közeg
+*** en-s-1552400-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cseppfolyós
+*** en-s-1552400-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lyukfolyadék
+** Ukrainian glosses
+
+* Sense s-1552400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5028f2f2d3b3cefed660981fe159568f001a4ae6cf2dab8615736c00164da85b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552400-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (физ.) жидкости и газы
+*** en-s-1552400-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) жидкость
+** Ukrainian glosses
+
+* Sense s-1552400-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: af15e7e97896c6379c03a332e525abcbdd4bc60d942b634510e270c6cbc86007
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1552400-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fluidum
+** Ukrainian glosses

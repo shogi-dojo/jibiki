@@ -1,0 +1,156 @@
+#+TITLE: 誘電体
+#+JMDICT_ID: 1542000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆうでんたい
+#+ROMAJI: yuudentai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1542000-001
+:PROPERTIES:
+:TEXT: 誘電体
+:END:
+** Reading rd-1542000-001
+:PROPERTIES:
+:TEXT: ゆうでんたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1542000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3ca196ad8da9b6012e11e239d9ae04ff3975128c5dea762faa25ac8b5b4fb9b1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dielectric
+** Ukrainian glosses
+*** uk-s-1542000-001-001
+:PROPERTIES:
+:END:
+- text :: діелектрик
+** Learner notes
+*** note-s-1542000-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний та електротехнічний термін (誘電 — «діелектрична поляризація, індукція», 体 — «тіло, речовина»). Позначає речовину, яка майже не проводить електричний струм, але здатна поляризуватися в електричному полі (наприклад, у конденсаторах). Коли основний акцент робиться на здатності перешкоджати проходженню струму, ту саму речовину називають 絶縁体 («ізолятор»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1542000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ガラスやゴムは代表的な誘電体だ。
+- READING :: がらすやごむはだいひょうてきなゆうでんたいだ。
+- UK :: Скло та гума — це типові діелектрики.
+- FOCUS :: 誘電体
+*** ex-1542000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二枚の金属板の間に誘電体を挟んで電気を蓄える。
+- READING :: にまいのきんぞくばんのあいだにゆうでんたいをはさんででんきをたくわえる。
+- UK :: Між двома металевими пластинами вміщують діелектрик, щоб накопичувати електричний заряд.
+- FOCUS :: 誘電体
+*** ex-1542000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 誘電体に強い電界を加えると、内部で電荷の偏りが生じる。
+- READING :: ゆうでんたいにつよいでんかいをくわえると、ないぶででんかのかたよりがしょうじる。
+- UK :: Коли до діелектрика прикладають сильне електричне поле, усередині нього виникає зміщення електричних зарядів.
+- FOCUS :: 誘電体
+
+* Sense s-1542000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 33893c13c167c4e7d5065a990cde62de780ecfea52ec9098b162b2884c4508f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1542000-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nichtleiter
+*** en-s-1542000-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dielektrikum
+** Ukrainian glosses
+
+* Sense s-1542000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e3954d5f7825b85fe220a0b28e5b5340a3ee8b0285540b4e643d7dfc9d65117b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1542000-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: delektrikum
+*** en-s-1542000-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dielektromos
+*** en-s-1542000-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szigetelőanyag
+** Ukrainian glosses
+
+* Sense s-1542000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3e8138de7e08d91359dfa9d419b30bad2daf1adf1cfef46545e87ef9d8bde86e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1542000-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) диэлектрик
+** Ukrainian glosses

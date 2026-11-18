@@ -1,0 +1,179 @@
+#+TITLE: 航続距離
+#+JMDICT_ID: 1685720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうぞくきょり
+#+ROMAJI: kouzokukyori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1685720-001
+:PROPERTIES:
+:TEXT: 航続距離
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1685720-001
+:PROPERTIES:
+:TEXT: こうぞくきょり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1685720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 50b33948129bbd411f7f7d3cbc69f398e818d35162acd5b8ca21486b42afc5e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cruising range
+- flying range
+** Ukrainian glosses
+*** uk-s-1685720-001-001
+:PROPERTIES:
+:END:
+- text :: дальність польоту або плавання; запас ходу (літака, судна, електромобіля без дозаправлення чи підзаряджання)
+** Learner notes
+*** note-s-1685720-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний термін із 航続 (тривале курсування) та 距離 (відстань). Спочатку вживався щодо літаків і кораблів, а сьогодні дуже поширений також для характеристики запасу ходу електромобілів на одному заряді акумулятора (航続距離を伸ばす — збільшувати запас ходу).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1685720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この飛行機は航続距離が長い。
+- READING :: このひこうきはこうぞくきょりがながい。
+- UK :: Цей літак має велику дальність польоту.
+- FOCUS :: 航続距離
+*** ex-1685720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい電池の開発によって電気自動車の航続距離が大幅に伸びた。
+- READING :: あたらしいでんちのかいはつによってでんきじどうしゃのこうぞくきょりがおおはばにのびた。
+- UK :: Завдяки розробці нової батареї запас ходу електромобіля значно зріс.
+- FOCUS :: 航続距離
+*** ex-1685720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 冬の寒い時期には暖房を使うため、実際の航続距離が普段より短くなることがある。
+- READING :: ふゆのさむいじきにはだんぼうをつかうため、じっさいのこうぞくきょりがふだんよりみじかくなることがある。
+- UK :: У холодну зимову пору через використання обігрівача реальний запас ходу може ставати меншим, ніж зазвичай.
+- FOCUS :: 航続距離
+
+* Sense s-1685720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4de0c1b51258f735b4a62b0b3874a5fb08837a35d78b156a606405df4d8c9b6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1685720-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: actieradius
+*** en-s-1685720-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {航空機の} vliegbereik
+*** en-s-1685720-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vlieglengte
+*** en-s-1685720-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {船の} vaarbereik
+** Ukrainian glosses
+
+* Sense s-1685720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bfc6a6bdfda94fdd3d868d095b1f9c636a22b10a9ea05c02e6a54d573ddfb6bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1685720-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reichweite
+*** en-s-1685720-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aktionsradius (eines Flugzeugs od. Schiffes)
+** Ukrainian glosses
+
+* Sense s-1685720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 15699443584536bad10aae342c790ae2bc60b66e44896f46cd3d81e355292793
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1685720-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) дальность плавания (полёта)
+*** en-s-1685720-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) こうぞくりょく
+** Ukrainian glosses

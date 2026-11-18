@@ -1,0 +1,152 @@
+#+TITLE: 等式
+#+JMDICT_ID: 1733560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうしき
+#+ROMAJI: toushiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1733560-001
+:PROPERTIES:
+:TEXT: 等式
+:END:
+** Reading rd-1733560-001
+:PROPERTIES:
+:TEXT: とうしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1733560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 43f85f4daa09bb941801b1f5709ce0f543577de45d843dfd976ddbf8c4f73b92
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- equality
+** Ukrainian glosses
+*** uk-s-1733560-001-001
+:PROPERTIES:
+:END:
+- text :: рівність (математичний вираз зі знаком дорівнює)
+** Learner notes
+*** note-s-1733560-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін із 等 (рівний) та 式 (формула, вираз), протилежний до 不等式 (нерівність). Позначає запис двох виразів, з'єднаних знаком рівності, і поділяється на 恒等式 (тотожність) та 方程式 (рівняння).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1733560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この二つの式は等式で結ばれている。
+- READING :: このふたつのしきはとうしきでむすばれている。
+- UK :: Ці два вирази поєднані у рівність.
+- FOCUS :: 等式
+*** ex-1733560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 等式の両辺に同じ数を足しても、関係は変わらない。
+- READING :: とうしきのりょうへんにおなじかずをたしても、かんけいはかわらない。
+- UK :: Навіть якщо до обох частин рівності додати одне й те саме число, співвідношення не зміниться.
+- FOCUS :: 等式
+*** ex-1733560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 数学の試験で、与えられた等式がどのような値に対しても成り立つことを証明する問題が出た。
+- READING :: すうがくのしけんで、あたえられたとうしきがどのようなあたいにたいしてもなりたつことをしょうめいするもんだいがでた。
+- UK :: На іспиті з математики трапилася задача, де треба було довести, що задана рівність справджується для будь-яких значень.
+- FOCUS :: 等式
+
+* Sense s-1733560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 15339b22993c894f449834e4bf898d55c8dffb4e1fccc4fd7ca44a275f556d1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gleichung
+** Ukrainian glosses
+
+* Sense s-1733560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 01f7acf0387dd26d4a6c8756f7b2f6661969f98f5a337407b2e1d89d810bee59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733560-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenlőség
+** Ukrainian glosses
+
+* Sense s-1733560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 64c4625594c1f3afb3eb1ca9b094832ffb7ea0ebbe4db03630d1b48213a9ba22
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) равенство
+** Ukrainian glosses
+
+* Sense s-1733560-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3b41a0b2b51d4920311d9ea1883216426366d42d1f27db21e0ba598808104bc4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1733560-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: likhet
+** Ukrainian glosses
