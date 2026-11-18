@@ -1,0 +1,254 @@
+#+TITLE: 臨界
+#+JMDICT_ID: 1555570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りんかい
+#+ROMAJI: rinkai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1555570-001
+:PROPERTIES:
+:TEXT: 臨界
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1555570-001
+:PROPERTIES:
+:TEXT: りんかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1555570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2f37543fd80bf159ab2d4ef7fda8fd67ad504460e42deea4dc221bc76446d151
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- boundary
+** Ukrainian glosses
+*** uk-s-1555570-001-001
+:PROPERTIES:
+:END:
+- text :: межа; рубіж; границя
+** Learner notes
+*** note-s-1555570-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне значення, що випливає з буквального складу ієрогліфів 臨 (наближатися, підходити впритул) і 界 (межа, кордон). У сучасній мові окремо в цьому значенні вживається рідко, поступаючись слову 境界.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1555570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e8e6320924849de4b16448730fc00bb0fa9e4624dfa575dce947904289a90e56
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- (nuclear) criticality
+** Ukrainian glosses
+*** uk-s-1555570-002-001
+:PROPERTIES:
+:END:
+- text :: критичність; критичний стан (у ядерній фізиці)
+** Learner notes
+*** note-s-1555570-002-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний термін на позначення стану ядерного реактора чи системи, у якому підтримується самостійна ланцюгова реакція поділу. Характерні сполучення: 臨界に達する (досягти критичності), 臨界事故 (інцидент із виходом у критичний стан).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1555570-002-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 原子炉の中で臨界が起きました。
+- READING :: げんしろのなかでりんかいがおきました。
+- UK :: Усередині ядерного реактора настав критичний стан.
+- FOCUS :: 臨界
+*** ex-1555570-002-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 核燃料の量が一定を超えると、連鎖反応が続く臨界の状態に達する。
+- READING :: かくねんりょうのりょうがいっていをこえると、れんさはんのうがつづくりんかいのじょうたいにたっする。
+- UK :: Коли кількість ядерного палива перевищує певний поріг, система досягає критичного стану, за якого триває ланцюгова реакція.
+- FOCUS :: 臨界
+*** ex-1555570-002-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 安全管理の基準では、核物質が意図せず臨界に達しないよう厳重な監視が義務づけられている。
+- READING :: あんぜんかんりのきじゅんでは、かくぶっしつがいとせずりんかいにたっしないようげんじゅうなかんしがぎむづけられている。
+- UK :: За стандартами безпеки вимагається суворий контроль, щоб ядерні матеріали не перейшли в критичний стан неконтрольовано.
+- FOCUS :: 臨界
+
+* Sense s-1555570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 693cd123a2796680d80e91c0fe2cb5b64f2a93b7bf680eeb85f63ac490fa1a69
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-f
+** English glosses
+- critical (mass, pressure, temperature, state, point, etc.)
+** Ukrainian glosses
+*** uk-s-1555570-003-001
+:PROPERTIES:
+:END:
+- text :: критичний (про точку, температуру, тиск, масу тощо)
+** Learner notes
+*** note-s-1555570-003-001
+:PROPERTIES:
+:END:
+- UK :: У функції означення перед іменниками (переважно в наукових і технічних термінах) вказує на граничне значення, за якого відбувається фазовий перехід або якісна зміна стану: 臨界点 (критична точка), 臨界温度 (критична температура), 臨界質量 (критична маса).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1555570-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 08b42470a89dd6e5ab9a9946639beab7e29287b462ccaf733f3437fbdac78b0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555570-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} kritikaliteit
+** Ukrainian glosses
+
+* Sense s-1555570-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dd98ca7a2c6b91f068846f2caed569152fd33223e9054ab6f9dc43f9c58127fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555570-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kritikalität (Zustand eines Kernreaktors, bei dem die zur fortgesetzten Kernspaltung notwendige Kettenreaktion nicht mehr von selbst erlischt)
+** Ukrainian glosses
+
+* Sense s-1555570-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 23eecdc83efdd3c97bc64b9d8c43925164a4be314ea3156349d178293feb8777
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555570-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boncolgató
+*** en-s-1555570-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kritikai
+*** en-s-1555570-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kritikus
+*** en-s-1555570-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: válságos
+*** en-s-1555570-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vizsgálódó
+** Ukrainian glosses
+
+* Sense s-1555570-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c399eec3cc85cd53ad3c933cfab73cc5e42ce23e50dab1ec85b396231ed15438
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555570-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} критический (о температуре, давлении, высоте и т. п.)
+** Ukrainian glosses
+
+* Sense s-1555570-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 767782f2b88fe68d04a224a7d8a3140d12cc46b93070bd9e5566bb1573bc718b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555570-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: crítico (presión, temperatura, estado, punto)
+** Ukrainian glosses
