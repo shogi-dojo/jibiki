@@ -1,0 +1,156 @@
+#+TITLE: メタノール
+#+JMDICT_ID: 1133280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: メタノール
+#+ROMAJI: metanooru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1133280-001
+:PROPERTIES:
+:TEXT: メタノール
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1133280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2dcc607f5145c1be8d57c9c9df8c7a0ea7ba907f0d7e54e40f3bbe133e3207b3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- chem
+*** Language sources
+**** Language source ls-s-1133280-001-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: full
+:WASEI: false
+:END:
+- text :: Methanol
+** English glosses
+- methanol
+- methyl alcohol
+- methylated spirits
+** Ukrainian glosses
+*** uk-s-1133280-001-001
+:PROPERTIES:
+:END:
+- text :: метанол; метиловий спирт
+** Learner notes
+*** note-s-1133280-001-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний термін (іменник), запозичений з німецької мови (Methanol). Найпростіший одноатомний спирт, дуже отруйний при вживанні всередину; у промисловості використовується як розчинник і паливо.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1133280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 実験室でメタノールを使う。
+- READING :: じっけんしつでめたのーるをつかう。
+- UK :: Використовувати метанол у лабораторії.
+- FOCUS :: メタノール
+*** ex-1133280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: メタノールは引火性が高いため、火気のない場所で保管しなければならない。
+- READING :: めたのーるはいんかせいがたかいため、かきのないばしょでほかんしなければならない。
+- UK :: Оскільки метанол легко займається, його потрібно зберігати в місці без відкритого вогню.
+- FOCUS :: メタノール
+*** ex-1133280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 燃料電池の研究では、水素の代わりにメタノールを直接利用する方式も開発されている。
+- READING :: ねんりょうでんちのけんきゅうでは、すいそのかわりにめたのーるをちょくせつりようするほうしきもかいはつされている。
+- UK :: У дослідженнях паливних елементів розробляють також методи, що використовують метанол безпосередньо замість водню.
+- FOCUS :: メタノール
+
+* Sense s-1133280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3e69a89942a660bb92ef7d749abcefa290c2da8b4aad435fbb9f5777dec998bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Methanol
+*** en-s-1133280-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Methylalkohol (einfachster Alkohol; CH₃OH)
+** Ukrainian glosses
+
+* Sense s-1133280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d161b01875691f956cfed36c953d612c4846e1127ec33f836052e0f8e361f2ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133280-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metanol
+*** en-s-1133280-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metil-alkohol
+** Ukrainian glosses
+
+* Sense s-1133280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b799e35f3ffe745ae6785142b824e63277657774522621a7baae8212546a7488
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1133280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) methanol) метиловый спирт
+** Ukrainian glosses
