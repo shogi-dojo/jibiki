@@ -1,0 +1,175 @@
+#+TITLE: 訓読
+#+JMDICT_ID: 1247440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くんどく
+#+ROMAJI: kundoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1247440-001
+:PROPERTIES:
+:TEXT: 訓読
+:END:
+** Reading rd-1247440-001
+:PROPERTIES:
+:TEXT: くんどく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1247440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f77da5a69ff448d98b2e000bd5b4f58224b01a1f358eae7c854442b6ce6449a9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- kun'yomi (native Japanese reading of a kanji)
+** Ukrainian glosses
+*** uk-s-1247440-001-001
+:PROPERTIES:
+:END:
+- text :: читання ієрогліфа за куном; японське читання ієрогліфа
+** Learner notes
+*** note-s-1247440-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово на する (перехідне). Позначає читання ієрогліфа питомим японським словом за значенням (на противагу запозиченому китайському читанню 音読); у граматиці часто вживається поряд із 訓読み.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1247440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この漢字の訓読を覚えました。
+- READING :: このかんじのくんどくをおぼえました。
+- UK :: Я запам'ятав японське читання цього ієрогліфа.
+- FOCUS :: 訓読
+*** ex-1247440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 授業で古い漢文を訓読する練習をした。
+- READING :: じゅぎょうでふるいかんぶんをくんどくするれんしゅうをした。
+- UK :: На занятті ми тренувалися читати давній класичний китайський текст по-японськи.
+- FOCUS :: 訓読
+*** ex-1247440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本語では同じ漢字でも音読と訓読を使い分ける必要がある。
+- READING :: にほんごではおなじかんじでもおんどくとくんどくをつかいわけるひつようがある。
+- UK :: У японській мові навіть для того самого ієрогліфа потрібно розрізняти китайське та японське читання.
+- FOCUS :: 訓読
+
+* Sense s-1247440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 74df002630357d050ffe5188855e6cec192fc074537facae361340c4224a6281
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- reading a Chinese text (kanbun) in Japanese
+** Ukrainian glosses
+*** uk-s-1247440-002-001
+:PROPERTIES:
+:END:
+- text :: читання класичного китайського тексту (漢文) по-японськи
+** Learner notes
+*** note-s-1247440-002-001
+:PROPERTIES:
+:END:
+- UK :: Традиційний спосіб прочитання класичних китайських текстів (漢文) японською мовою із переставлянням порядку слів та додаванням японських граматичних часток і закінчень (送り仮名); у цьому значенні також часто вживають дієслово 訓読する.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1247440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5c06721d116903c9c51b0e4ec47393136e41d43e5b9cbbf3bd37779051206eb2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247440-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: japanische Lesung eines Kanji
+** Ukrainian glosses
+
+* Sense s-1247440-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e119e1ad45c7d6e2da6a31d0924efb3e071ac00d81872518595cf39eeb7ae0a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247440-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lesen eines chin. bzw. Kanbun-Textes auf Japanisch
+** Ukrainian glosses
+
+* Sense s-1247440-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e674f60332f3cff4933d4402ef6bc7bae4e54463de153c81971abc14fed292bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247440-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) кун (яп. слово, являющееся чтением иероглифа и пишущееся этим иероглифом)
+*** en-s-1247440-005-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) чтение по куну
+*** en-s-1247440-005-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} читать по куну (иероглиф)
+** Ukrainian glosses
