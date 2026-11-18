@@ -1,0 +1,296 @@
+#+TITLE: 貸借
+#+JMDICT_ID: 1411190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいしゃく
+#+ROMAJI: taishaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-18
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1411190-001
+:PROPERTIES:
+:TEXT: 貸借
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf25
+** Reading rd-1411190-001
+:PROPERTIES:
+:TEXT: たいしゃく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf25
+
+* Sense s-1411190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5cdfc3cb47886c9236515e19d42aafeb3a4d2f57a27b4b11287eb6013a4d0296
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- loan
+- debit and credit
+- lending and borrowing
+** Ukrainian glosses
+*** uk-s-1411190-001-001
+:PROPERTIES:
+:END:
+- text :: позичання й боргування; позика та оренда; дебет і кредит
+** Learner notes
+*** note-s-1411190-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний, юридичний і фінансовий термін, утворений зі знаків 貸 («давати в борг, здавати в оренду») та 借 («позичати, брати в борг»). Широко вживається в бухгалтерському обліку та праві (напр., 貸借対照表 — «бухгалтерський баланс», 金銭の貸借 — «грошові позики», 貸借関係 — «кредитно-боргові або орендні відносини»). Має також питомо японське парне читання 貸し借り (かしかり), уживане в повсякденній мові.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1411190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友人とお金の貸借はしない。
+- READING :: ゆうじんとおかねのたいしゃくはしない。
+- UK :: Я не позичаю грошей друзям і не беру в них у борг.
+- FOCUS :: 貸借
+*** ex-1411190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 土地や建物の貸借には正式な契約書が必要だ。
+- READING :: とちやたてもののたいしゃくにはせいしきなけいやくしょがひつようだ。
+- UK :: Для оренди землі чи будівлі потрібен офіційний договір.
+- FOCUS :: 貸借
+*** ex-1411190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 企業の財務状態を知るには、まず貸借対照表の数字を確認することが大切である。
+- READING :: きぎょうのざいむじょうたいをしるには、まずたいしゃくたいしょうひょうのすうじをかくにんすることがたいせつである。
+- UK :: Щоб дізнатися про фінансовий стан підприємства, передусім важливо перевірити показники бухгалтерського балансу.
+- FOCUS :: 貸借
+
+* Sense s-1411190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 80b53985b8d2ff253694bfbad178dda41ee5ab2f8492aefd6f433796705fbf65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitlening en ontlening
+*** en-s-1411190-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huur en verhuur
+** Ukrainian glosses
+
+* Sense s-1411190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ccc0d0f72d6363f387a2e72fff01dc005735904080ea60a08806ae4ebe34ceaf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {boekh.} debet en credit
+*** en-s-1411190-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: actief en passief
+*** en-s-1411190-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: activa en passiva
+*** en-s-1411190-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: baten en lasten
+** Ukrainian glosses
+
+* Sense s-1411190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 41126a10de64ec49d4f34a65ab6c004b170cad9ba4235a7e14a4eeadb8eeb591
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: crédit
+*** en-s-1411190-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: emprunter
+*** en-s-1411190-004-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prêt
+** Ukrainian glosses
+
+* Sense s-1411190-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 58d13741b0d92ac8ae3cc160589f95a8883e9f19e43bc63f54693ec4ae71d6ac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verleihen und borgen
+*** en-s-1411190-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soll und Haben
+*** en-s-1411190-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leihen und Verleihen
+** Ukrainian glosses
+
+* Sense s-1411190-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ebfbf73212915ba1df8fa99d57b65f8108ea400d233068149856046a4bd56f28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kölcsön
+*** en-s-1411190-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartozik és követel
+** Ukrainian glosses
+
+* Sense s-1411190-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 973519e738c44709416cc70084e122f19b7cd619c85d50c617ba96c302cd39b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дебет и кредит; ссуда и заём
+** Ukrainian glosses
+
+* Sense s-1411190-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 26a20d6329545e1f16fa2bd6b96921421b5acd5b140b10359d4966806c3f1654
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411190-008-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: crédito
+*** en-s-1411190-008-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: balance
+** Ukrainian glosses
