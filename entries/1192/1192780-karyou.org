@@ -1,0 +1,166 @@
+#+TITLE: 科料
+#+JMDICT_ID: 1192780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりょう
+#+ROMAJI: karyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1192780-001
+:PROPERTIES:
+:TEXT: 科料
+:END:
+** Reading rd-1192780-001
+:PROPERTIES:
+:TEXT: かりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1192780-002
+:PROPERTIES:
+:TEXT: とがりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1192780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9fe66443bcfc26907a316afa5b887d52a890584ad5b1003d864055eb0dd2987e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fine (for a minor offence)
+** Ukrainian glosses
+*** uk-s-1192780-001-001
+:PROPERTIES:
+:END:
+- text :: штраф (за дрібне правопорушення); грошове стягнення
+** Learner notes
+*** note-s-1192780-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний іменник, що позначає невеликий кримінальний штраф за незначне правопорушення (у японському праві — від однієї до десяти тисяч єн, на відміну від більшого 罰金 та адміністративного 過料, що читається так само). Часто вживається у звороті 科料を科す («накладати штраф»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1192780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 軽い違反で科料を払いました。
+- READING :: かるいいはんでかりょうをはらいました。
+- UK :: Я сплатив штраф за незначне порушення.
+- FOCUS :: 科料
+*** ex-1192780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 裁判所は被告に数千円の科料を科す判決を下した。
+- READING :: さいばんしょはひこくにすうせんえんのかりょうをかすはんけつをくだした。
+- UK :: Суд ухвалив рішення накласти на підсудного штраф у кілька тисяч єн.
+- FOCUS :: 科料
+*** ex-1192780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 条例に違反した行為に対し、警察からの通告に従って所定の科料を納付することになった。
+- READING :: じょうれいにいはんしたこういにたいし、けいさつからのつうこくにしたがってしょていのかりょうをのうふすることになった。
+- UK :: За порушення місцевого розпорядження довелося сплатити встановлений штраф згідно з повідомленням поліції.
+- FOCUS :: 科料
+
+* Sense s-1192780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7e2af1085244667e10c14cd956b68d7275bb2ded2f0b9d43ce6bdd4d2aeddd68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1192780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldstrafe (abgrenzende Lesung zu karyō過料)
+*** en-s-1192780-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldstrafe
+** Ukrainian glosses
+
+* Sense s-1192780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7e3a465cb89919169e30f54f74cf13ea0e11c7a88e5608d05cbbe1c148f7d35e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1192780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: штраф
+** Ukrainian glosses
+
+* Sense s-1192780-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 771427906647045868fd45b31e79d991a53bfae7c9de1171ff3e7f6f76f69276
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1192780-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: multa menor
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1192780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1192780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かりょう

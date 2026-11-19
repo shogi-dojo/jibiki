@@ -1,0 +1,173 @@
+#+TITLE: 腋毛
+#+JMDICT_ID: 1570900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わきげ
+#+ROMAJI: wakige
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1570900-001
+:PROPERTIES:
+:TEXT: 腋毛
+:END:
+** Written form wf-1570900-002
+:PROPERTIES:
+:TEXT: 脇毛
+:END:
+** Reading rd-1570900-001
+:PROPERTIES:
+:TEXT: わきげ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1570900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9b1515cf9b0e1992ea5e3ddecdeb305dce829faf23b91680dc15be2b011c7afc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- underarm hair
+- armpit hair
+** Ukrainian glosses
+*** uk-s-1570900-001-001
+:PROPERTIES:
+:END:
+- text :: волосся під пахвами; пахвове волосся
+** Learner notes
+*** note-s-1570900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 腋 («пахва»; у повсякденному письмі часто також пишеться як 脇毛) та 毛 («волосся»). Позначає волосяний покрив у пахвовій западині.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1570900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夏は腋毛の処理をする人が多いです。
+- READING :: なつはわきげのしょりをするひとがおおいです。
+- UK :: Улітку багато людей видаляють волосся під пахвами.
+- FOCUS :: 腋毛
+*** ex-1570900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 思春期になると、男女ともに腋毛が生え始める。
+- READING :: ししゅんきになると、だんじょともにわきげがはえはじめる。
+- UK :: У підлітковому віці і в хлопців, і в дівчат починає рости волосся під пахвами.
+- FOCUS :: 腋毛
+*** ex-1570900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 半袖や水着を着る季節を前に、腋毛のセルフケア用品がよく売れるようになる。
+- READING :: はんそでやみずぎをきるきせつをまえに、わきげのせるふけあようひんがよくうれるようになる。
+- UK :: Напередодні сезону футболок із коротким рукавом і купальників засоби для домашнього догляду за зоною пахв починають краще продаватися.
+- FOCUS :: 腋毛
+
+* Sense s-1570900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7f6b9408a5a056e8ddcf3591326329cadb5895eab02e82b89af02031b7efa678
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1570900-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: okselhaar
+** Ukrainian glosses
+
+* Sense s-1570900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95750b18c48c2e10e3242bd602344492071780ea01c971b9a16b8434603a721b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1570900-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Achselhaar
+** Ukrainian glosses
+
+* Sense s-1570900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 55b8037bb109fd9567b88cdd9f316377da29bc9917dd345125330639fa3fbff7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1570900-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: волосы под мышкой
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1570900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1570900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: わきげ
+** Accent accent-rd-1570900-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1570900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: わきげ

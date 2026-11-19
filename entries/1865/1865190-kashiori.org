@@ -1,0 +1,158 @@
+#+TITLE: 菓子折り
+#+JMDICT_ID: 1865190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かしおり
+#+ROMAJI: kashiori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1865190-001
+:PROPERTIES:
+:TEXT: 菓子折り
+:END:
+** Written form wf-1865190-002
+:PROPERTIES:
+:TEXT: 菓子折
+:END:
+*** Information
+- sK
+** Reading rd-1865190-001
+:PROPERTIES:
+:TEXT: かしおり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1865190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b316d2b0cc338836839c521b833b049b83dd0b57d99602e91ed132e98185072d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 折り箱
+** English glosses
+- box of sweets (usu. given as a gift)
+** Ukrainian glosses
+*** uk-s-1865190-001-001
+:PROPERTIES:
+:END:
+- text :: коробка солодощів (зазвичай подарункова)
+** Learner notes
+*** note-s-1865190-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 菓子 («солодощі») та 折 («складана коробочка»). Позначає охайно запаковану коробку тістечок, печива чи традиційних солодощів, яку прийнято приносити під час візитів, знайомства, подяки чи офіційного вибачення (наприклад, 菓子折りを持参する).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1865190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生のお宅を訪ねる前に、駅で菓子折りを買った。
+- READING :: せんせいのおたくをたずねるまえに、えきでかしおりをかった。
+- UK :: Перш ніж завітати до вчителя додому, я купив на станції коробку солодощів.
+- FOCUS :: 菓子折り
+*** ex-1865190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引っ越しの挨拶として、近所の家に菓子折りを持って回った。
+- READING :: ひっこしのあいさつとして、きんじょのいえにかしおりをもってまわった。
+- UK :: Після переїзду я обійшов сусідні будинки з подарунковими коробками солодощів, щоб привітатися.
+- FOCUS :: 菓子折り
+*** ex-1865190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 担当者は手違いを謝罪するため、菓子折りを携えて取引先の会社を訪問した。
+- READING :: たんとうしゃはてちがいをしゃざいするため、かしおりをたずさえてとりひきさきのかいしゃをほうもんした。
+- UK :: Відповідальний працівник узяв із собою подарункову коробку солодощів і відвідав компанію-партнера, щоб перепросити за помилку.
+- FOCUS :: 菓子折り
+
+* Sense s-1865190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 227c34ddc6a710b208c7d88108058ccfe51e1e8b9a626254619eeb7bc16b2da3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1865190-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schachtel mit Kuchen
+** Ukrainian glosses
+
+* Sense s-1865190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1da68defccc4bf98a51c8d9fd7ca25f6d20602a063447a863955faa130d10c19
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1865190-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: коробка конфет (печенья (и т. п.))
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1865190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1865190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かしおり
+** Accent accent-rd-1865190-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1865190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かしおり

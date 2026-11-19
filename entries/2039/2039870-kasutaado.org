@@ -1,0 +1,179 @@
+#+TITLE: カスタード
+#+JMDICT_ID: 2039870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カスタード
+#+ROMAJI: kasutaado
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2039870-001
+:PROPERTIES:
+:TEXT: カスタード
+:NO_KANJI: false
+:END:
+
+* Sense s-2039870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d88440b86cc2afbf165eae89a0f3553014f04d4d23c36d897fd025ead4d49aa2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- custard
+** Ukrainian glosses
+*** uk-s-2039870-001-001
+:PROPERTIES:
+:END:
+- text :: заварний крем, кастард
+** Learner notes
+*** note-s-2039870-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (custard). Позначає густий солодкий крем на основі молока, яєчних жовтків і цукру, особливо популярний у японській випічці — зокрема як начинка для булочок クリームパン і тістечок シュークリーム.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2039870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: カスタードが入ったパンが好きだ。
+- READING :: かすたーどがはいったぱんがすきだ。
+- UK :: Я люблю булочки із заварним кремом.
+- FOCUS :: カスタード
+*** ex-2039870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このケーキは、甘いカスタードと新鮮ないちごの相性が抜群だ。
+- READING :: このけーきは、あまいかすたーどとしんせんないちごのあいしょうがばつぐんだ。
+- UK :: У цьому торті солодкий заварний крем чудово поєднується зі свіжою полуницею.
+- FOCUS :: カスタード
+*** ex-2039870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 卵黄と牛乳を焦がさないように弱火で混ぜ続けると、なめらかなカスタードが出来上がる。
+- READING :: らんおうとぎゅうにゅうをこがさないようによわびでまぜつづけると、なめらかなかすたーどができあがる。
+- UK :: Якщо безперервно помішувати жовтки з молоком на слабкому вогні, щоб не пригоріли, виходить ніжний заварний крем.
+- FOCUS :: カスタード
+
+* Sense s-2039870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 718914ea1053e2e8dcdee3eda7cf6ae9c341f4a44c2b12eff7424a9829e810f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vanillepudding
+*** en-s-2039870-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vanillesoße (Süßspeise, Füllung für Kuchen etc.)
+** Ukrainian glosses
+
+* Sense s-2039870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b7b036f239b936f835c0db9f22e5213afaf1a6a84ae6f10b41a16122bf0e8f77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039870-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sodó
+*** en-s-2039870-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tejsodó
+** Ukrainian glosses
+
+* Sense s-2039870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 28d0a45c462df083f59ef58c2a20db9730619a563ecc7c6b430a01efdc6259a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) custard) (род дрочёны.)
+** Ukrainian glosses
+
+* Sense s-2039870-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8007aaa0e1e631dd30192b21c9842ddb83adb6f7ffc242107b1042e3c2236089
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039870-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: flan
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2039870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2039870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: カスタード

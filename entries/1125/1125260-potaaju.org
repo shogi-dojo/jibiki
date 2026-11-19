@@ -1,0 +1,187 @@
+#+TITLE: ポタージュ
+#+JMDICT_ID: 1125260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ポタージュ
+#+ROMAJI: potaaju
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1125260-001
+:PROPERTIES:
+:TEXT: ポタージュ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1125260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2548627ca7179dfd94bd61d82cf1c2f8df4305adeed731f7b59e179cab9a061c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1125260-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- potage (thick soup)
+** Ukrainian glosses
+*** uk-s-1125260-001-001
+:PROPERTIES:
+:END:
+- text :: суп-пюре; густий крем-суп
+** Learner notes
+*** note-s-1125260-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з французької мови (potage). У Японії позначає передусім густий однорідний овочевий або вершковий суп-пюре, зокрема популярний кукурудзяний コーンポタージュ чи гарбузовий かぼちゃのポタージュ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1125260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 温かいポタージュを飲んだ。
+- READING :: あたたかいぽたーじゅをのんだ。
+- UK :: Я випив теплого супу-пюре.
+- FOCUS :: ポタージュ
+*** ex-1125260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 風邪気味のときは、消化に良いかぼちゃのポタージュを作ることが多い。
+- READING :: かぜぎみのときは、しょうかによいかぼちゃのぽたーじゅをつくることがおおい。
+- UK :: Коли відчуваю легку застуду, часто готую легкий для травлення гарбузовий крем-суп.
+- FOCUS :: ポタージュ
+*** ex-1125260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 丁寧に裏ごししたじゃがいものポタージュにクルトンを添えると、見た目も上品な前菜になる。
+- READING :: ていねいにうらごししたじゃがいものぽたーじゅにくるとんをそえると、みためもじょうひんなぜんさいになる。
+- UK :: Якщо до ретельно протертого картопляного супу-пюре додати грінки, вийде вишукана на вигляд закуска.
+- FOCUS :: ポタージュ
+
+* Sense s-1125260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4fda4360254104287fcfa6596db5175359b3afba1340968c06e4ed2adcb616cb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1125260-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dicke Suppe
+*** en-s-1125260-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Potage
+** Ukrainian glosses
+
+* Sense s-1125260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d73ebfa8ecf5c9c5d60a7636d1ae79b2d8bae15373160540ef40cc642982302
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1125260-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leves
+*** en-s-1125260-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lóerő
+*** en-s-1125260-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nitroglicerin
+*** en-s-1125260-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: repülőbenzin
+** Ukrainian glosses
+
+* Sense s-1125260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 36e072be3818c498c7df95eb4ae3637b3ea183a4906b95907a37a6f170a6bb7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1125260-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((фр.) potage) суп-пюре
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1125260-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1125260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ポタージュ

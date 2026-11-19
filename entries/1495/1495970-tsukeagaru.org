@@ -1,0 +1,176 @@
+#+TITLE: 付け上がる
+#+JMDICT_ID: 1495970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つけあがる
+#+ROMAJI: tsukeagaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1495970-001
+:PROPERTIES:
+:TEXT: 付け上がる
+:END:
+** Written form wf-1495970-002
+:PROPERTIES:
+:TEXT: つけ上がる
+:END:
+** Written form wf-1495970-003
+:PROPERTIES:
+:TEXT: 付け上る
+:END:
+** Written form wf-1495970-004
+:PROPERTIES:
+:TEXT: 付上がる
+:END:
+** Reading rd-1495970-001
+:PROPERTIES:
+:TEXT: つけあがる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1495970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 34c51013f95e78d212989f83edf6c5c257458e4bf72bef5d292ee60e4d7d4726
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to take advantage of someone's kindness or patience
+- to get carried away
+- to be elated
+- to get puffed up (with pride)
+- to push one's luck
+- to get cocky
+** Ukrainian glosses
+*** uk-s-1495970-001-001
+:PROPERTIES:
+:END:
+- text :: нахабніти; зазнаватися; зловживати чиєюсь добротою; розперезатися
+** Learner notes
+*** note-s-1495970-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першої дієвідміни (ґодан на -る). Складне дієслово від 付ける і 上がる. Зазвичай має несхвальний відтінок: описує поведінку людини, яка через чиюсь м'якість, похвалу чи поблажливість починає нахабніти, задирати носа або дозволяти собі забагато (наприклад, 調子に乗って付け上がる — розійшовшись, почати нахабніти).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1495970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 少し褒めると、彼はすぐ付け上がる。
+- READING :: すこしほめると、かれはすぐつけあがる。
+- UK :: Варто його трохи похвалити, як він одразу зазнається.
+- FOCUS :: 付け上がる
+*** ex-1495970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 優しく甘やかしてばかりいると、子どもは付け上がって言うことを聞かなくなる。
+- READING :: やさしくあまやかしてばかりいると、こどもはつけあがっていうことをきかなくなる。
+- UK :: Якщо лише м'яко потурати дитині, вона розбеститься й перестане слухатися.
+- FOCUS :: 付け上がって
+*** ex-1495970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 周囲が寛大に許しているからといって付け上がっていては、いつか信頼をすべて失うことになる。
+- READING :: しゅういがかんだいにゆるしているからといってつけあがっていては、いつかしんらいをすべてうしなうことになる。
+- UK :: Якщо нахабніти лише тому, що оточення поблажливо все прощає, колись можна втратити будь-яку довіру.
+- FOCUS :: 付け上がって
+
+* Sense s-1495970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c6b3d3cf02c3fe166a9d75b187b88133f859978007c98690caa00ac18b9ed3dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1495970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frech werden
+*** en-s-1495970-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anmaßend sein
+** Ukrainian glosses
+
+* Sense s-1495970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0b272fd1506f574a891b46e2733d844702d09bf5043e554531bd8cd8ab2d89cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1495970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (разг.) зазнаваться; наглеть
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1495970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1495970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: つけあがる
+** Accent accent-rd-1495970-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1495970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: つけあがる

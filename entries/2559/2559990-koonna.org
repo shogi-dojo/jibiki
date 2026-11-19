@@ -1,0 +1,176 @@
+#+TITLE: 小女
+#+JMDICT_ID: 2559990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こおんな
+#+ROMAJI: koonna
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2559990-001
+:PROPERTIES:
+:TEXT: 小女
+:END:
+** Reading rd-2559990-001
+:PROPERTIES:
+:TEXT: こおんな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2559990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c95bd2aabf7e1ad293dd7e2ec7e3e6cb18b5fe89ee95471343be1eb9f09d9f80
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+** English glosses
+- small woman
+** Ukrainian glosses
+*** uk-s-2559990-001-001
+:PROPERTIES:
+:END:
+- text :: невисока жінка; мініатюрна жінка
+** Learner notes
+*** note-s-2559990-001-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий іменник, що буквально складається зі 小 (малий) і 女 (жінка). Позначає жінку невисокого зросту або тендітної статури; у сучасній мові майже не вживається, трапляється переважно в історичних чи літературних текстах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2559990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 物語の中に小女が出てくる。
+- READING :: ものがたりのなかにこおんながでてくる。
+- UK :: У цій оповіді з'являється молода дівчина.
+- FOCUS :: 小女
+*** ex-2559990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い小説には、着物を着た小女が描かれている。
+- READING :: ふるいしょうせつには、きものをきたこおんながえがかれている。
+- UK :: У старому романі описано невисоку жінку в кімоно.
+- FOCUS :: 小女
+*** ex-2559990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の記録を読むと、商家で働く小女の暮らしがわかる。
+- READING :: えどじだいのきろくをよむと、しょうかではたらくこおんなのくらしがわかる。
+- UK :: Читаючи записи періоду Едо, можна зрозуміти побут юних служниць, які працювали в купецьких домах.
+- FOCUS :: 小女
+
+* Sense s-2559990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9ee59875219ddc406f2a4fe79668ff0e36cd3a9c21de65c574ac6e228d520df2
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+** English glosses
+- young woman
+** Ukrainian glosses
+*** uk-s-2559990-002-001
+:PROPERTIES:
+:END:
+- text :: молода жінка; дівчина
+** Learner notes
+*** note-s-2559990-002-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле значення, що вказує на юну жінку або дівчину-підлітка. У літературі минулих епох часто передавало відтінок молодості й тендітності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2559990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5246ce63b031bb8c6b365f51fd7fa928fdc43e59778eee12853051f0b4a00033
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+- sens
+** English glosses
+- young maid
+** Ukrainian glosses
+*** uk-s-2559990-003-001
+:PROPERTIES:
+:END:
+- text :: юна служниця; молода покоївка
+** Learner notes
+*** note-s-2559990-003-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле й соціально чутливе слово, яким у давнину називали молоду найману прислугу в домі або крамниці. У сучасному вжитку сприймається як архаїзм із принизливим соціальним відтінком, тому в нейтральному мовленні його уникають.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2559990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e2fa1fbcbfae20162bfafb84ce00cbdc89beabdc9d81095df315fc39d7f27f2f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2559990-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) девочка
+*** en-s-2559990-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (эпист. уст.) я (женщина о себе)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2559990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2559990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こおんな

@@ -1,0 +1,189 @@
+#+TITLE: 海馬
+#+JMDICT_ID: 1201690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とど
+#+ROMAJI: todo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1201690-001
+:PROPERTIES:
+:TEXT: 海馬
+:END:
+** Written form wf-1201690-002
+:PROPERTIES:
+:TEXT: 胡獱
+:END:
+*** Information
+- rK
+** Written form wf-1201690-003
+:PROPERTIES:
+:TEXT: 魹
+:END:
+*** Information
+- rK
+** Reading rd-1201690-001
+:PROPERTIES:
+:TEXT: とど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1201690-002
+:PROPERTIES:
+:TEXT: トド
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1201690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 670db2e2aaf117b1d501aeccaea2fb99b76b383da8dbe87e6174a3b334835637
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Steller sea lion (Eumetopias jubatus)
+- northern sea lion
+** Ukrainian glosses
+*** uk-s-1201690-001-001
+:PROPERTIES:
+:END:
+- text :: сивуч; північний морський лев
+** Learner notes
+*** note-s-1201690-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва великого морського ссавця родини вухатих тюленів, яку на письмі зазвичай передають каною (トド або とど). Ієрогліфічний запис 海馬 трапляється рідко й збігається з назвою морського коника (タツノオトシゴ) чи анатомічного терміна гіпокамп (かいば).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1201690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水族館で大きなトドを見た。
+- READING :: すいぞくかんでおおきなとどをみた。
+- UK :: В океанаріумі ми бачили великого сивуча.
+- FOCUS :: トド
+*** ex-1201690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬になると、北海道の沿岸に野生のトドがやって来る。
+- READING :: ふゆになると、ほっかいどうのえんがんにやせいのとどがやってくる。
+- UK :: Узимку до узбережжя Хоккайдо припливають дикі сивучі.
+- FOCUS :: トド
+*** ex-1201690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 岩場で群れをつくって休むトドの姿を、観察船から間近に眺めた。
+- READING :: いわばでむれをつくってやすむとどのすがたを、かんさつせんからまぢかにながめた。
+- UK :: З оглядового судна ми зблизька спостерігали за сивучами, що відпочивали зграєю на скелях.
+- FOCUS :: トド
+
+* Sense s-1201690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7f663f87583168fbe3f00c01e4b796e77883b5a369fce1c6f952a7eb3f87e253
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201690-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} Stellerzeeleeuw
+*** en-s-1201690-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eumetopias jubatus
+** Ukrainian glosses
+
+* Sense s-1201690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b29691f74c921cbf590935bc40ce8e7964a5ff1ceec5ded5156affec31cc6b4b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201690-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seelöwe
+*** en-s-1201690-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eumetopias jubatus
+** Ukrainian glosses
+
+* Sense s-1201690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2fdf8bb15e04d8d31b40b2d12a1e2ba187e7fc924f1125ffbb34dc7086a7c96c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1201690-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сивуч, Eumetopias jubatus (Schreber.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1201690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1201690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: とど

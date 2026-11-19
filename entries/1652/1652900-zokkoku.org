@@ -1,0 +1,177 @@
+#+TITLE: 属国
+#+JMDICT_ID: 1652900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぞっこく
+#+ROMAJI: zokkoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1652900-001
+:PROPERTIES:
+:TEXT: 属国
+:END:
+** Reading rd-1652900-001
+:PROPERTIES:
+:TEXT: ぞっこく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1652900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d9cd16d9ff4b9162ed9b86f3b7fdf8b8f4b6a68c0a0db4f0a5bce1f70f2ae867
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- vassal state
+- vassal nation
+- dependency
+** Ukrainian glosses
+*** uk-s-1652900-001-001
+:PROPERTIES:
+:END:
+- text :: васальна держава, залежна країна; протекторат
+** Learner notes
+*** note-s-1652900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник історико-політичної лексики, утворений із 属 (підпорядковуватися, належати) та 国 (країна). Позначає державу, що перебуває в політичній чи економічній залежності від сильнішої імперії, часто у сполуці ～の属国となる.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1652900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その国は大国の属国になった。
+- READING :: そのくにはたいこくのぞっこくになった。
+- UK :: Та країна стала васальною державою великої імперії.
+- FOCUS :: 属国
+*** ex-1652900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い戦争に敗れた結果、小国は隣の帝国の属国として扱われた。
+- READING :: ながいせんそうにやぶれたけっか、しょうこくはとなりのていこくのぞっこくとしてあつかわれた。
+- UK :: Після поразки в тривалій війні маленьку державу почали трактувати як васала сусідньої імперії.
+- FOCUS :: 属国
+*** ex-1652900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては属国として従属を強いられていた地域も、時代とともに独立運動を強めていった。
+- READING :: かつてはぞっこくとしてじゅうぞくをしいられていたちいきも、じだいとともにどくりつうんどうをつよめていった。
+- UK :: Регіони, які колись були змушені коритися як залежні держави, з часом посилювали рух за незалежність.
+- FOCUS :: 属国
+
+* Sense s-1652900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 23de611e064f98f9cb61c86570279e3a23d548279123adc22129b815762eac5e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1652900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abhängiger Staat
+*** en-s-1652900-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vasallenstaat
+*** en-s-1652900-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Satellitenstaat
+** Ukrainian glosses
+
+* Sense s-1652900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 21b3e1ca16dd560540359b052f1f3a2cf12412b3e94a64247ec6627147a9578a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1652900-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartozék
+** Ukrainian glosses
+
+* Sense s-1652900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4e04c844b9f7020f477818ee18456edde59e037d1eba57ca47301ee43221ce7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1652900-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зависимая страна, зависимое государство
+*** en-s-1652900-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {…の～となる} попасть в зависимость от… (о стране)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1652900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1652900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ぞっこく

@@ -1,0 +1,184 @@
+#+TITLE: 寒暖
+#+JMDICT_ID: 1714830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんだん
+#+ROMAJI: kandan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1714830-001
+:PROPERTIES:
+:TEXT: 寒暖
+:END:
+*** Priorities
+- news2
+- nf34
+** Reading rd-1714830-001
+:PROPERTIES:
+:TEXT: かんだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+
+* Sense s-1714830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 10272e724cff8411608380495a4b7cee9a351c8d6b8fd71784ebfa3243ec6c6d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cold and heat
+- (degree of) temperature
+** Ukrainian glosses
+*** uk-s-1714830-001-001
+:PROPERTIES:
+:END:
+- text :: холод і тепло; температура (повітря)
+** Learner notes
+*** note-s-1714830-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений поєднанням антонімічних ієрогліфів 寒 (мороз, прохолода) і 暖 (теплий). Найчастіше трапляється в описах клімату й погоди, зокрема у сполученні 寒暖の差 (перепад температур) або назвах приладів на кшталт 寒暖計 (термометр).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1714830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 春は昼と夜の寒暖の差が大きいです。
+- READING :: はるはひるとよるのかんだんのさがおおきいです。
+- UK :: Навесні різниця температур між днем і вночі велика.
+- FOCUS :: 寒暖
+*** ex-1714830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地域は一年を通して寒暖の変化が少なく、とても過ごしやすい。
+- READING :: このちいきはいちねんをとおしてかんだんのへんかがすくなく、とてもすごしやすい。
+- UK :: У цьому регіоні протягом усього року мало перепадів температур, тож жити тут дуже комфортно.
+- FOCUS :: 寒暖
+*** ex-1714830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 季節の変わり目には寒暖の差が激しくなるため、体調管理にいっそう気を配る必要がある。
+- READING :: きせつのかわりめにはかんだんのさがはげしくなるため、たいちょうかんりにいっそうきをくばるひつようがある。
+- UK :: На зміні сезонів температурні коливання стають різкими, тому потрібно особливо дбати про самопочуття.
+- FOCUS :: 寒暖
+
+* Sense s-1714830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0e2faf6d47afaba43198dce50f2b76ba1aff69e844f3e6d22d22a9fc5cac64f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kälte und Wärme
+*** en-s-1714830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Temperatur
+** Ukrainian glosses
+
+* Sense s-1714830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dea475c81f0bc46eaf585ef9a2a3fef95ecb841ee07f45d4f2d36ec4efdbfc31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714830-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hőmérséklet
+** Ukrainian glosses
+
+* Sense s-1714830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b3903058fad332218494d0fc18f4b10b0102d12c4d4a4ec769f82f6d262a8b98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714830-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) холод и тепло; температура
+** Ukrainian glosses
+
+* Sense s-1714830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cae174f4c5f3ca1740992d8ad993e9763c37b5ba3e1cd27548f442e59fd35dc4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714830-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frío y calor
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1714830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1714830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かんだん

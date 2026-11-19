@@ -1,0 +1,156 @@
+#+TITLE: 人当たり
+#+JMDICT_ID: 1368870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひとあたり
+#+ROMAJI: hitoatari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1368870-001
+:PROPERTIES:
+:TEXT: 人当たり
+:END:
+*** Priorities
+- news2
+- nf47
+** Written form wf-1368870-002
+:PROPERTIES:
+:TEXT: 人あたり
+:END:
+** Written form wf-1368870-003
+:PROPERTIES:
+:TEXT: 人当り
+:END:
+** Reading rd-1368870-001
+:PROPERTIES:
+:TEXT: ひとあたり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1368870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 707ed5910a112afc39fa1e2afa25f024047686adb128e5a16c5060edcc05b539
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- manner (with others)
+- attitude
+** Ukrainian glosses
+*** uk-s-1368870-001-001
+:PROPERTIES:
+:END:
+- text :: манера спілкування (з людьми); ставлення до інших; привітність (у поводженні)
+** Learner notes
+*** note-s-1368870-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує 人 (людина) і 当たり (зіткнення, ставлення). Найчастіше вживається зі словами いい / よい або 柔らかい у значенні «приємний у спілкуванні, привітний, тактовний», а також з 悪い / きつい («різкий, непривітний»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1368870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい先生はとても人当たりがいいです。
+- READING :: あたらしいせんせいはとてもひとあたりがいいです。
+- UK :: Новий учитель дуже приємний у спілкуванні.
+- FOCUS :: 人当たり
+*** ex-1368870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼女は人当たりが柔らかく、誰とでもすぐに打ち解ける。
+- READING :: かのじょはひとあたりがやわらかく、だれとでもすぐにうちとける。
+- UK :: У неї м'яка манера спілкування, тож вона швидко знаходить спільну мову з будь-ким.
+- FOCUS :: 人当たり
+*** ex-1368870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 接客業では専門知識だけでなく、初対面の顧客に対する人当たりの良さも求められる。
+- READING :: せっきゃくぎょうではせんもんちしきだけでなく、しょたいめんのこきゃくにたいするひとあたりのよさももとめられる。
+- UK :: У сфері обслуговування цінуються не лише фахові знання, а й уміння привітно поводитися з новими клієнтами.
+- FOCUS :: 人当たり
+
+* Sense s-1368870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e31bb2f198644499bf762ae563dd012822022164460d08d3a4377fad3cf16c4d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1368870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eindruck
+*** en-s-1368870-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verhalten
+** Ukrainian glosses
+
+* Sense s-1368870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1557122e1796626548b5b2d194cd25827fc5f791dcede88e18b77a16d9e01d73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1368870-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обращение (с людьми)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1368870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1368870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひとあたり

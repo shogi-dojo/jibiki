@@ -1,0 +1,147 @@
+#+TITLE: 大店
+#+JMDICT_ID: 1862050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おおだな
+#+ROMAJI: oodana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1862050-001
+:PROPERTIES:
+:TEXT: 大店
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1862050-001
+:PROPERTIES:
+:TEXT: おおだな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1862050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4d0e532185efa87075005344ace25437f2fa8ba9205dce4a4990ca8011d2fc71
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- large store
+** Ukrainian glosses
+*** uk-s-1862050-001-001
+:PROPERTIES:
+:END:
+- text :: великий купецький дім; велика крамниця
+** Learner notes
+*** note-s-1862050-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також у сучасній мові може читатися おおみせ, але саме おおだな позначає велику, заможну торгову лавку або купецький дім доби Едо чи початку сучасності з багатьма прикажчиками й філіями).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1862050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 通りに古い大店が並んでいる。
+- READING :: とおりにふるいおおだながならんでいる。
+- UK :: Уздовж вулиці вишикувалися старі купецькі доми.
+- FOCUS :: 大店
+*** ex-1862050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 若いころ、彼は日本橋の大店で奉公していたそうだ。
+- READING :: わかいころ、かれはにほんばしのおおだなでほうこうしていたそうだ。
+- UK :: Кажуть, замолоду він служив прикажчиком у великому торговому домі в Ніхомбаші.
+- FOCUS :: 大店
+*** ex-1862050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 代々続く呉服の大店が、時代の変化に合わせて新しい事業を始めた。
+- READING :: だいだいつづくごふくのおおだなが、じだいのへんかにあわせてあたらしいじぎょうをはじめた。
+- UK :: Великий дім торгівлі тканинами для кімоно, що існує з покоління в покоління, започаткував нову справу відповідно до вимог часу.
+- FOCUS :: 大店
+
+* Sense s-1862050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f86831bdbcc4e604f4ac35264c232a93e3aac454ab826476b7aa470560e993b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1862050-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: großes Geschäft
+*** en-s-1862050-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: großer Laden
+** Ukrainian glosses
+
+* Sense s-1862050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03f2aeab0731acbb2517ce1363d073b06c3a17eb667afc0d5cf6448f413854d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1862050-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: большой магазин
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1862050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1862050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おおだな

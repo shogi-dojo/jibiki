@@ -1,0 +1,153 @@
+#+TITLE: 手づかみ
+#+JMDICT_ID: 1699350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てづかみ
+#+ROMAJI: tezukami
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1699350-001
+:PROPERTIES:
+:TEXT: 手づかみ
+:END:
+** Written form wf-1699350-002
+:PROPERTIES:
+:TEXT: 手掴み
+:END:
+** Written form wf-1699350-003
+:PROPERTIES:
+:TEXT: 手捉み
+:END:
+** Reading rd-1699350-001
+:PROPERTIES:
+:TEXT: てづかみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1699350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b70d07f9aed13eac53f45336255f91172c5531d67b56ab169b82148e25d5b59d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- grasping (with one's bare hands)
+- holding
+- grabbing
+- seizing
+- catching
+** Ukrainian glosses
+*** uk-s-1699350-001-001
+:PROPERTIES:
+:END:
+- text :: хапання (тримання, їжа) голими руками; ловля голіруч
+** Learner notes
+*** note-s-1699350-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 手 (рука) та іменникової форми дієслова 掴む (хапати). Зазвичай уживається з часткою で (手づかみで — руками, без приборів чи знарядь), коли йдеться про їжу без паличок і виделки або про ловлю чогось голими руками.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1699350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもがおにぎりを手づかみで食べる。
+- READING :: こどもがおにぎりをてづかみでたべる。
+- UK :: Дитина їсть оніґірі руками.
+- FOCUS :: 手づかみ
+*** ex-1699350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 川で泳いでいる魚を手づかみで捕まえるのは思ったより難しい。
+- READING :: かわでおよいでいるさかなをてづかみでつかまえるのはおもったよりむずかしい。
+- UK :: Зловити голіруч рибу, що пливе в річці, складніше, ніж здається.
+- FOCUS :: 手づかみ
+*** ex-1699350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 食事のマナーに厳しい家庭で育ったため、大人になってからも食べ物を手づかみで口に運ぶことには抵抗がある。
+- READING :: しょくじのまなーにきびしいかていでそだったため、おとなになってからもたべものをてづかみでくちにはこぶことにはていこうがある。
+- UK :: Оскільки він виріс у родині із суворими правилами застільного етикету, навіть ставши дорослим, почувається ніяково, коли бере їжу руками.
+- FOCUS :: 手づかみ
+
+* Sense s-1699350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3acba271b991a293a306910e3f51f8c2881eb4ebdef32f27a8bc3064b4b3151b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1699350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Greifen (mit der Hand)
+** Ukrainian glosses
+
+* Sense s-1699350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 37cc37f98e930fc0f6c07de1d87a8f39965a427e0205a21799d297eefbcac200
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1699350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～にする} взять пальцами (руками)
+*** en-s-1699350-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} пальцами, рукой (напр. брать, есть)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1699350-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1699350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: てづかみ

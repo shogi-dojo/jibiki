@@ -1,0 +1,165 @@
+#+TITLE: 神域
+#+JMDICT_ID: 1765280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんいき
+#+ROMAJI: shiniki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1765280-001
+:PROPERTIES:
+:TEXT: 神域
+:END:
+** Reading rd-1765280-001
+:PROPERTIES:
+:TEXT: しんいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1765280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 64ef20d1b42d7a07d20f6cbf3a0aedb2be2a8d9e3151553c3c579f2ffb742ea7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Shinto shrine precincts
+** Ukrainian glosses
+*** uk-s-1765280-001-001
+:PROPERTIES:
+:END:
+- text :: священна територія святилища шінто
+** Learner notes
+*** note-s-1765280-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 神 (божество, камі) та 域 (межі, територія). Позначає недоторканні землі шінтоського святилища за межами воріт 鳥居, де зберігається чистота й тиша; часто вживається у вислові 神域に足を踏み入れる (ступити на священну територію святилища).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1765280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この森は神社の神域です。
+- READING :: このもりはじんじゃのしんいきです。
+- UK :: Цей ліс є священною територією святилища.
+- FOCUS :: 神域
+*** ex-1765280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 鳥居をくぐると、そこからは静かな神域が広がっている。
+- READING :: とりいをくぐると、そこからはしずかなしんいきがひろがっている。
+- UK :: Коли проходиш крізь браму 鳥居, далі простягається тиха священна територія.
+- FOCUS :: 神域
+*** ex-1765280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古くから地元の人々が立ち入りを控えてきた山頂の森林は、手つかずの自然が残る神域として守られている。
+- READING :: ふるくからじもとのひとびとがたちいりをひかえてきたさんちょうのしんりんは、てつかずのしぜんがのこるしんいきとしてまもられている。
+- UK :: Гірський ліс на вершині, куди місцеві жителі здавна утримувалися заходити, оберігають як священну територію з недоторканою природою.
+- FOCUS :: 神域
+
+* Sense s-1765280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8466c6c814306d52dbf3ce8d7918f12b1618251443d937c267c8e2832961f501
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- holy precincts
+- sanctuary
+** Ukrainian glosses
+*** uk-s-1765280-002-001
+:PROPERTIES:
+:END:
+- text :: священне місце; святиня; недоторканна царина
+** Learner notes
+*** note-s-1765280-002-001
+:PROPERTIES:
+:END:
+- UK :: Розширене та переносне значення для будь-якої сакральної землі або сфери, куди не заведено втручатися стороннім, — наприклад, про заповідну гірську вершину чи недосяжну майстерність, як у вислові 芸術の神域 (царина високого мистецтва).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1765280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 653a4e0c3db58238f54f3d6c0618ff7362d8e97021f24928887ee4be3bcb1fab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765280-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schreinbezirk
+*** en-s-1765280-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heiliger Bezirk
+** Ukrainian glosses
+
+* Sense s-1765280-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 77efbc5226ed5097b30737081189d0a20555c15ee9ce56f1ed7c9ae9f8c6e2aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765280-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (синт.) территория храма
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1765280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1765280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しんいき

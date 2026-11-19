@@ -1,0 +1,142 @@
+#+TITLE: 総説
+#+JMDICT_ID: 1401680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうせつ
+#+ROMAJI: sousetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1401680-001
+:PROPERTIES:
+:TEXT: 総説
+:END:
+** Written form wf-1401680-002
+:PROPERTIES:
+:TEXT: 綜説
+:END:
+*** Information
+- rK
+** Reading rd-1401680-001
+:PROPERTIES:
+:TEXT: そうせつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1401680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f8649699fc40ef7f1b8bd623aa05258e501a126197186c2c802da23deb12dbfe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- review article
+- general remarks
+** Ukrainian glosses
+*** uk-s-1401680-001-001
+:PROPERTIES:
+:END:
+- text :: оглядова стаття; загальний вступ; загальний огляд
+** Learner notes
+*** note-s-1401680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する (vs, vt), поширений переважно в академічних, юридичних та наукових текстах. Позначає узагальнений вступний розділ праці, огляд певної галузі знань або виклад загальних положень перед детальним аналізом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1401680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: まず本の総説を読みます。
+- READING :: まずほんのそうせつをよみます。
+- UK :: Спочатку я прочитаю загальний огляд у книзі.
+- FOCUS :: 総説
+*** ex-1401680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この論文の冒頭には研究史の総説がある。
+- READING :: このろんぶんのぼうとうにはけんきゅうしのそうせつがある。
+- UK :: На початку цієї наукової статті міститься огляд історії досліджень.
+- FOCUS :: 総説
+*** ex-1401680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 教授は最新の医学的知見をまとめた総説を学会誌に発表した。
+- READING :: きょうじゅはさいしんのいがくてきちけんをまとめたそうせつをがっかいしにはっぴょうした。
+- UK :: Професор опублікував у науковому журналі оглядову статтю, що підсумовує найновіші медичні дані.
+- FOCUS :: 総説
+
+* Sense s-1401680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 49198389a743c78107d8df86f0f103f41101d272cb25f4bf002fea964a2e57ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allgemeine Einführung
+** Ukrainian glosses
+
+* Sense s-1401680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3be291a3216705fc70fc82f1a14d334826d7aa6187ef9129f93f65ac89bfe168
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1401680-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) そうろん【総論】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1401680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1401680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: そうせつ

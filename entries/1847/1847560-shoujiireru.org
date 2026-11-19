@@ -1,0 +1,164 @@
+#+TITLE: 招じ入れる
+#+JMDICT_ID: 1847560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうじいれる
+#+ROMAJI: shoujiireru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1847560-001
+:PROPERTIES:
+:TEXT: 招じ入れる
+:END:
+** Written form wf-1847560-002
+:PROPERTIES:
+:TEXT: 請じ入れる
+:END:
+** Reading rd-1847560-001
+:PROPERTIES:
+:TEXT: しょうじいれる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1847560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ffcd825f1b911bd9d9ed2b038225f39ae0050dcd395f845887ec5159d40e8684
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to invite in
+- to usher in
+** Ukrainian glosses
+*** uk-s-1847560-001-001
+:PROPERTIES:
+:END:
+- text :: запрошувати ввійти; вводити до приміщення; проводити всередину (гостя)
+** Learner notes
+*** note-s-1847560-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово другої дієвідміни (ічідан). Має ввічливий, дещо книжний або традиційний відтінок і означає чемне запрошення гостя всередину дому чи кімнати. Утворюється з дієслова 招ずる (しょうずる — запрошувати, кликати) та 入れる (いれる — впускати, вводити); також трапляється написання 請じ入れる.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1847560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大切なお客さんを部屋に招じ入れる。
+- READING :: たいせつなおきゃくさんをへやにしょうじいれる。
+- UK :: Я запрошую поважного гостя ввійти до кімнати.
+- FOCUS :: 招じ入れる
+*** ex-1847560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 玄関で迎えた客を、応接室へと丁寧に招じ入れた。
+- READING :: げんかんでむかえたきゃくを、おうせつしつへとていねいにしょうじいれた。
+- UK :: Гостя, якого зустріли в передпокої, ввічливо провели до вітальні.
+- FOCUS :: 招じ入れた
+*** ex-1847560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長旅を終えて訪ねてきた旧友を奥の座敷に招じ入れ、温かいお茶を差し出した。
+- READING :: ながたびをおえてたずねてきたきゅうゆうをおくのざしきにしょうじいれ、あたたかいおちゃをさしだした。
+- UK :: Запросивши давнього друга, який завітав після довгої подорожі, до дальньої кімнати з татамі, господар подав йому гарячого чаю.
+- FOCUS :: 招じ入れ
+
+* Sense s-1847560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e4bad5bd3596c032fa3c3b47e6349ea2f35c0e2ce9a3ac15859ced10faa88d17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1847560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. hereinbitten
+*** en-s-1847560-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. hineinführen
+** Ukrainian glosses
+
+* Sense s-1847560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 40a227b247451faf2555f6de98c037dea82de77e4dfc3c60046a94407e0d2b33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1847560-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пригласить войти, проводить (в дом, комнату)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1847560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1847560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しょうじいれる
+** Accent accent-rd-1847560-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1847560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しょうじいれる

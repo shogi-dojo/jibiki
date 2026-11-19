@@ -1,0 +1,134 @@
+#+TITLE: 斬り合い
+#+JMDICT_ID: 1384120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きりあい
+#+ROMAJI: kiriai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1384120-001
+:PROPERTIES:
+:TEXT: 斬り合い
+:END:
+** Written form wf-1384120-002
+:PROPERTIES:
+:TEXT: 切り合い
+:END:
+** Written form wf-1384120-003
+:PROPERTIES:
+:TEXT: 切合い
+:END:
+*** Information
+- sK
+** Written form wf-1384120-004
+:PROPERTIES:
+:TEXT: 斬合い
+:END:
+*** Information
+- sK
+** Reading rd-1384120-001
+:PROPERTIES:
+:TEXT: きりあい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1384120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 945960a7c18710e6b8265d393f935dbadeca5677547a6752ef4db7411dc5d5fa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- crossing swords
+- fighting with swords
+- cutting each other (in fighting)
+** Ukrainian glosses
+*** uk-s-1384120-001-001
+:PROPERTIES:
+:END:
+- text :: бій на мечах; фехтувальний поєдинок; сутичка холодною зброєю
+** Learner notes
+*** note-s-1384120-001-001
+:PROPERTIES:
+:END:
+- UK :: Віддієслівний іменник, що також уживається як суру-дієслово (斬り合いする), від дієслова 斬り合う («рубати один одного»). Трапляється переважно в історичних романах, історичних драмах (時代劇) та описах самурайських поєдинків.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1384120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 映画の中で侍たちの斬り合いを見た。
+- READING :: えいがのなかでさむらいたちのきりあいをみた。
+- UK :: У фільмі я бачив бій самураїв на мечах.
+- FOCUS :: 斬り合い
+*** ex-1384120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 深夜の路地で、二人の剣士による激しい斬り合いが始まった。
+- READING :: しんやのろじで、ふたりのけんしによるはげしいきりあいがはじまった。
+- UK :: У нічному провулку між двома мечниками розпочалася запекла сутичка на мечах.
+- FOCUS :: 斬り合い
+*** ex-1384120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 時代劇の撮影では、俳優たちが安全に配慮しながら迫力ある斬り合いを演じている。
+- READING :: じだいげきのさつえいでは、はいゆうたちがあんぜんにはいりょしながらはくりょくあるきりあいをえんじている。
+- UK :: Під час зйомок історичних драм актори, дбаючи про безпеку, розігрують видовищні бої на мечах.
+- FOCUS :: 斬り合い
+
+* Sense s-1384120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d8551582f6bd05d43bd0c5eb3dc22adf58a47dcc2ee2fd8cfa0f0bbcda6bcc70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1384120-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} скрещивать мечи, биться на мечах
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1384120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1384120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: きりあい

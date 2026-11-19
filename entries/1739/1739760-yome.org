@@ -1,0 +1,178 @@
+#+TITLE: 夜目
+#+JMDICT_ID: 1739760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よめ
+#+ROMAJI: yome
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1739760-001
+:PROPERTIES:
+:TEXT: 夜目
+:END:
+** Written form wf-1739760-002
+:PROPERTIES:
+:TEXT: 夜眼
+:END:
+*** Information
+- rK
+** Reading rd-1739760-001
+:PROPERTIES:
+:TEXT: よめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1739760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: de0f980a8d7a5490408c0c7c79f258ca3ff61090e8ca24c3ca079460a9594c4a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 夜目が利く
+** English glosses
+- seeing in the dark
+- night vision
+** Ukrainian glosses
+*** uk-s-1739760-001-001
+:PROPERTIES:
+:END:
+- text :: нічний зір; здатність бачити в темряві
+** Learner notes
+*** note-s-1739760-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 夜 («ніч») та 目 («око, зір»). Уживається у виразах 夜目が利く («добре бачити вночі») та 夜目にもはっきり («виразно видно навіть у темряві»); також входить до відомої приказки 夜目遠目傘の内 («уночі, здалеку чи під парасолькою все здається привабливішим»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1739760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 猫は夜目がとてもよく利く動物だ。
+- READING :: ねこはよめがとてもよくきくどうぶつだ。
+- UK :: Кіт — тварина, яка дуже добре бачить у темряві.
+- FOCUS :: 夜目
+*** ex-1739760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 満月の明かりのおかげで、夜目にも遠くの山の輪郭がくっきりと見えた。
+- READING :: まんげつのあかりのおかげで、よめにもとおくのやまのりんかくがくっきりとみえた。
+- UK :: Завдяки світлу повного місяця навіть уночі було виразно видно обриси далеких гір.
+- FOCUS :: 夜目
+*** ex-1739760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 街灯のない森の小道では、いくら夜目が利く人でも足元を照らす懐中電灯が欠かせない。
+- READING :: がいとうのないもりのこみちでは、いくらよめがきくひとでもあしもとをてらすかいちゅうでんとうがかかせない。
+- UK :: На лісовій стежці без ліхтарів навіть людині з гострим нічним зором не обійтися без ліхтарика під ноги.
+- FOCUS :: 夜目
+
+* Sense s-1739760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 43e68b240f467a2ecc9aa820602bb981d74a4ff89397cc81c4e982112bdc47e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739760-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sehen bei Dunkelheit
+** Ukrainian glosses
+
+* Sense s-1739760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: df4fb79e41f4b4b99fc0edb0975e8d945c8db575ac1b67071f7ba29940d959f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739760-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bei Dunkelheit sehendes Auge
+** Ukrainian glosses
+
+* Sense s-1739760-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 52711bcce67b2de2c1a96d04c90941dd9efdb09b1d50c5ff829b8d2c8b48178d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739760-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:)
+** Ukrainian glosses
+
+* Sense s-1739760-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d8d3fe06ff99224800305cd75ace6db5de202794755a9f97ff919c481b109b27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739760-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: en la oscuridad
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1739760-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1739760-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: よめ

@@ -1,0 +1,190 @@
+#+TITLE: 利き手
+#+JMDICT_ID: 1758180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ききて
+#+ROMAJI: kikite
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1758180-001
+:PROPERTIES:
+:TEXT: 利き手
+:END:
+** Written form wf-1758180-002
+:PROPERTIES:
+:TEXT: 利手
+:END:
+*** Information
+- sK
+** Reading rd-1758180-001
+:PROPERTIES:
+:TEXT: ききて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1758180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a99137e886b18db3be0414bfae06f2617a2f2c403b8ddf3ad6e0b1ac1e440987
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's dominant hand
+** Ukrainian glosses
+*** uk-s-1758180-001-001
+:PROPERTIES:
+:END:
+- text :: робоча (провідна, домінантна) рука; провідна кисть
+** Learner notes
+*** note-s-1758180-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 利き (вправний) та 手 (рука, кисть). Позначає руку, якою людині зручніше писати, тримати палички чи ножиці (на відміну від 利き腕, акцентує увагу саме на кисті).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1758180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 妹の利き手は左です。
+- READING :: いもうとのききてはひだりです。
+- UK :: У моєї молодшої сестри провідна рука — ліва.
+- FOCUS :: 利き手
+*** ex-1758180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 最近は利き手に関係なく使えるはさみも増えている。
+- READING :: さいきんはききてにかんけいなくつかえるはさみもふえている。
+- UK :: Останнім часом побільшало ножиць, якими можна користуватися незалежно від того, яка рука провідна.
+- FOCUS :: 利き手
+*** ex-1758180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 怪我で利き手が使えない間は、音声入力に頼って原稿を書き上げた。
+- READING :: けができきてがつかえないあいだは、おんせいにゅうりょくにたよってげんこうをかきあげた。
+- UK :: Поки через травму я не міг користуватися робочою рукою, доводилося покладатися на голосове введення, щоб дописати рукопис.
+- FOCUS :: 利き手
+
+* Sense s-1758180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 69dc4a5dce8a5b2bf3382b6cea6d0ad63bb18c3951e93f81b7ce0af0b218d722
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- person of ability
+- skilled person
+- master-hand
+** Ukrainian glosses
+*** uk-s-1758180-002-001
+:PROPERTIES:
+:END:
+- text :: майстер своєї справи; умілець; здібна людина
+** Learner notes
+*** note-s-1758180-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносний або застарілий ужиток, що позначає досвідченого, спритного фахівця чи майстра в певній галузі (подібно до 腕利き).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1758180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 83bc6a544bb1628ea6f3fd0da548c2a954bf71f8d89443c11e2a577e42723431
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dominante Hand
+*** en-s-1758180-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die Hand, mit der man am geschicktesten ist
+** Ukrainian glosses
+
+* Sense s-1758180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c6326b10473aa79ef47a6b89cba4514ccbd4938465abb5cd5ad25dc3b2fde77b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758180-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechter Arm
+** Ukrainian glosses
+
+* Sense s-1758180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 89e98a452a463bbb109286207b641345b0fb9777120fc98b32760f325217df77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758180-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: правая рука
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1758180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1758180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ききて

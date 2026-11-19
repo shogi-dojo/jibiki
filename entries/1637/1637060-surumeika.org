@@ -1,0 +1,167 @@
+#+TITLE: 鯣烏賊
+#+JMDICT_ID: 1637060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: するめいか
+#+ROMAJI: surumeika
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1637060-001
+:PROPERTIES:
+:TEXT: 鯣烏賊
+:END:
+** Reading rd-1637060-001
+:PROPERTIES:
+:TEXT: するめいか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1637060-002
+:PROPERTIES:
+:TEXT: スルメイカ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1637060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 33ba51c89cacf1a228b3608ae5ddd7465f7c2cd55d98a79c5559c25b87be336c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Japanese common squid
+- Pacific flying squid (Todarodes pacificus)
+** Ukrainian glosses
+*** uk-s-1637060-001-001
+:PROPERTIES:
+:END:
+- text :: тихоокеанський кальмар (Todarodes pacificus); кальмар суруме
+** Learner notes
+*** note-s-1637060-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва найпоширенішого в Японії промислового виду кальмарів, якого традиційно сушать для виготовлення закуски するめ (звідки й походить назва). Як і більшість назв морських тварин, зазвичай пишеться катаканою (スルメイカ), рідше — хіраґаною (するめいか); ієрогліфічний запис 鯣烏賊 у повсякденні майже не трапляється.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1637060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: スーパーで新鮮なスルメイカを買った。
+- READING :: すーぱーでしんせんなするめいかをかった。
+- UK :: У супермаркеті я купив свіжого тихоокеанського кальмара.
+- FOCUS :: スルメイカ
+*** ex-1637060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋から冬にかけて捕れるスルメイカは身が厚く、刺身や焼き物にするとおいしい。
+- READING :: あきからふゆにかけてとれるするめいかはみがあつく、さしみややきものにするとおいしい。
+- UK :: Кальмар суруме, виловлений восени та взимку, має щільне м'ясо і смакує як у сашімі, так і в запеченому вигляді.
+- FOCUS :: スルメイカ
+*** ex-1637060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海水温の変化や漁獲量の減少により、近年は国内の市場でスルメイカの価格が高騰する傾向にある。
+- READING :: かいすいおんのへんかやぎょかくりょうのげんしょうにより、きんねんはこくないのしじょうでするめいかのかかくがこうとうするけいこうにある。
+- UK :: Через зміну температури морської води та зменшення вилову останніми роками на внутрішньому ринку ціни на тихоокеанського кальмара мають тенденцію до зростання.
+- FOCUS :: スルメイカ
+
+* Sense s-1637060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fee3eac1a55505d3b8ba8dfe3aeaa6f4011c61dd30c406d7b56bf6393bd6b704
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1637060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Japanischer Flugkalmar
+*** en-s-1637060-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewöhnlicher Japanischer Kalmar
+*** en-s-1637060-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pazifischer Flugkalmar
+*** en-s-1637060-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Todarodes pacificus
+** Ukrainian glosses
+
+* Sense s-1637060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9f5d2e51bc321d8420059e17a7c16979fb3c9b9d9a388270bb189f8905e85788
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1637060-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кальмар, Ommatostrephes sloani pacificus (Steenstrup.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1637060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1637060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: するめいか

@@ -1,0 +1,379 @@
+#+TITLE: 伝送
+#+JMDICT_ID: 1442160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんそう
+#+ROMAJI: densou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1442160-001
+:PROPERTIES:
+:TEXT: 伝送
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1442160-001
+:PROPERTIES:
+:TEXT: でんそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1442160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c1ff3164a76462e113344ba1da73374efa1d06775120513604582ddcc944f281
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- transmission
+- communication
+- circulation
+- dissemination
+- diffusion
+- propagation
+- delivery
+** Ukrainian glosses
+*** uk-s-1442160-001-001
+:PROPERTIES:
+:END:
+- text :: передавання (даних, сигналу); трансляція; поширення
+** Learner notes
+*** note-s-1442160-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний і діловий іменник та перехідне дієслово з する, утворене з 伝 (передавати) і 送 (надсилати). Нині найчастіше вживається в телекомунікаціях та інформатиці щодо передавання сигналів, даних, зображень чи енергії каналами зв’язку (напр., データ伝送 — передавання даних, 光伝送 — оптична передача).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1442160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このケーブルでデータを伝送します。
+- READING :: このけーぶるででーたをでんそうします。
+- UK :: Цим кабелем передають дані.
+- FOCUS :: 伝送
+*** ex-1442160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 無線技術の進歩により、高画質の映像を高速で伝送できるようになった。
+- READING :: むせんぎじゅつのしんぽにより、こうがしつのえいぞうをこうそくででんそうできるようになった。
+- UK :: Завдяки розвитку бездротових технологій стало можливо передавати зображення високої чіткості на великій швидкості.
+- FOCUS :: 伝送
+*** ex-1442160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遠隔地へ電力を効率よく伝送するためには、送電時のエネルギー損失を最小限に抑える工夫が欠かせない。
+- READING :: えんかくちへでんりょくをこうりつよくでんそうするためには、そうでんじのえねるぎーそんしつをさいしょうげんにおさえるくふうがかかせない。
+- UK :: Для ефективного передавання електроенергії на великі відстані необхідно звести до мінімуму втрати енергії під час транспортування.
+- FOCUS :: 伝送
+
+* Sense s-1442160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f355ec12e6d09022608a4dedf276f14a01337360debd27d2aae56ce3bcd20bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overdracht
+** Ukrainian glosses
+
+* Sense s-1442160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 937e99f36b4547f449a68bd778413511494a5ff9e10beb6de6749005173f30aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} transmissie
+** Ukrainian glosses
+
+* Sense s-1442160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2d92d9273f379e5bb8af8dbfca9be2f1395503909d20793dcb7b4b8d63ca1f11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verzending van colli van poststation tot poststation
+** Ukrainian glosses
+
+* Sense s-1442160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3b31b312e902aed72239ff836a63a5b35a2cd84b0ef8b77751a6dc291965a6d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: senden
+*** en-s-1442160-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: übertragen
+*** en-s-1442160-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: übermitteln
+*** en-s-1442160-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übertragung
+** Ukrainian glosses
+
+* Sense s-1442160-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b94811e8c4b514b26e1c88cb15973b2e663afe78b033a30a821e0854b9510820
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adás
+*** en-s-1442160-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áttétel
+*** en-s-1442160-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sebességváltó
+*** en-s-1442160-006-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elterjesztés
+*** en-s-1442160-006-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bediffundáltatás
+*** en-s-1442160-006-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diffundálás
+*** en-s-1442160-006-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diffúzió
+*** en-s-1442160-006-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: műsorközlés
+*** en-s-1442160-006-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: műsorszórás
+*** en-s-1442160-006-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétszóródás
+*** en-s-1442160-006-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szétterjedés
+*** en-s-1442160-006-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szórás
+*** en-s-1442160-006-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: népszerűsítés
+*** en-s-1442160-006-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: propagálás
+*** en-s-1442160-006-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szaporítás
+*** en-s-1442160-006-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: terjesztés
+*** en-s-1442160-006-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előadásmód
+*** en-s-1442160-006-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: felszabadítás
+** Ukrainian glosses
+
+* Sense s-1442160-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: b5980e6e73ecc45694c4fc7389f90db2dde90a978046da196b6775b809166046
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1442160-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) でんたつ【伝達】 (и) でんぱ【伝播】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1442160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1442160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: でんそう

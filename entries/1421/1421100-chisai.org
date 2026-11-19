@@ -1,0 +1,161 @@
+#+TITLE: 地裁
+#+JMDICT_ID: 1421100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちさい
+#+ROMAJI: chisai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1421100-001
+:PROPERTIES:
+:TEXT: 地裁
+:END:
+*** Priorities
+- news1
+- nf02
+** Reading rd-1421100-001
+:PROPERTIES:
+:TEXT: ちさい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf02
+
+* Sense s-1421100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: be2bdf743ecdbfda42c409f245904f8dc766542eeaf87c6c53d68b2d907e3c98
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 地方裁判所
+** English glosses
+- district court
+** Ukrainian glosses
+*** uk-s-1421100-001-001
+:PROPERTIES:
+:END:
+- text :: окружний суд
+** Learner notes
+*** note-s-1421100-001-001
+:PROPERTIES:
+:END:
+- UK :: Поширене в новинах та юридичній публіцистиці скорочення від 地方裁判所 (місцевий / окружний суд першої інстанції в Японії). Зазвичай поєднується з назвою міста чи префектури, як-от 東京地裁 (Токійський окружний суд) чи 大阪地裁 (Осакський окружний суд).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1421100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日、地裁で判決が出た。
+- READING :: きょう、ちさいではんけつがでた。
+- UK :: Сьогодні в окружному суді винесли вирок.
+- FOCUS :: 地裁
+*** ex-1421100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原告側は東京地裁に新しい訴訟を起こした。
+- READING :: げんこくがわはとうきょうちさいにあたらしいそしょうをおこした。
+- UK :: Сторона позивача подала новий позов до Токійського окружного суду.
+- FOCUS :: 地裁
+*** ex-1421100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地裁の判断を不服として、弁護団はただちに高等裁判所へ控訴する方針を固めた。
+- READING :: ちさいのはんだんをふふくとして、べんごだんはただちにこうとうさいばんしょへこうそするほうしんをかためた。
+- UK :: Не погодившись із рішенням окружного суду, команда адвокатів вирішила негайно подати апеляцію до вищого суду.
+- FOCUS :: 地裁
+
+* Sense s-1421100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f7d0fda12a96b913d71b68470adff91b0a07ca412fa27f75e5d043aa1b7bfed2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} arrondissementsrechtbank
+** Ukrainian glosses
+
+* Sense s-1421100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5b72c208d55bd1696577fd070973672469b5443af1c644b752c0842fad2bc8b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Landgericht
+** Ukrainian glosses
+
+* Sense s-1421100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 789ba70981d2ae839db3574dd820b3580498769a1d9bd1c45b7b330d54b995c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1421100-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр.) 地方裁判所) окружной суд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1421100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1421100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ちさい

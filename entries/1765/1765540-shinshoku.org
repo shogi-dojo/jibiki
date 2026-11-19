@@ -1,0 +1,140 @@
+#+TITLE: 神職
+#+JMDICT_ID: 1765540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんしょく
+#+ROMAJI: shinshoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1765540-001
+:PROPERTIES:
+:TEXT: 神職
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1765540-001
+:PROPERTIES:
+:TEXT: しんしょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1765540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a9519e1567ed45c620c4f40e4346d07dbdf43e2f9ca1abcaa29294a6d01eea9d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Shinto priest
+- Shinto priesthood
+** Ukrainian glosses
+*** uk-s-1765540-001-001
+:PROPERTIES:
+:END:
+- text :: священнослужитель шінто; духовенство шінто
+** Learner notes
+*** note-s-1765540-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний термін для священнослужителя традиційної японської релігії шінто (від 神 — «божество камі» та 職 — «посада, служіння»). Порівняно з побутовим словом 神主 (かんぬし), назва 神職 має більш формальний і узагальнений характер, охоплюючи різні ранги служителів святилищ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1765540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 神社で白い服の神職を見ました。
+- READING :: じんじゃでしろいふくのしんしょくをみました。
+- UK :: У святилищі я бачив священнослужителя шінто в білому вбранні.
+- FOCUS :: 神職
+*** ex-1765540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝の境内では、神職が静かに落ち葉を掃き清めていた。
+- READING :: あさのけいだいでは、しんしょくがしずかにおちばをはききよめていた。
+- UK :: Уранці на території святилища священнослужитель тихо підмітав і прибирав опале листя.
+- FOCUS :: 神職
+*** ex-1765540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この地域では何世代にもわたり、同じ一族が神職として古い神社の祭祀を守り続けている。
+- READING :: このちいきではなんせだいにもわたり、おなじいちぞくがしんしょくとしてふるいじんじゃのさいしをまもりつづけている。
+- UK :: У цій місцевості вже багато поколінь поспіль одна й та сама родина як служителі шінто підтримує обряди давнього святилища.
+- FOCUS :: 神職
+
+* Sense s-1765540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 21fd7e16081d8bb9a22e8399f0c24351439c225c5838624bd1619e2e55a9ef46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: shintōistischer Priester
+** Ukrainian glosses
+
+* Sense s-1765540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4c9f006515583b0839c2bea36742dbbfb2ceaa506d1170f64d2413ec88b6d76c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765540-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: синтоистский священник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1765540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1765540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しんしょく

@@ -1,0 +1,187 @@
+#+TITLE: 干潮
+#+JMDICT_ID: 2657680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんちょう
+#+ROMAJI: kanchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2657680-001
+:PROPERTIES:
+:TEXT: 干潮
+:END:
+** Reading rd-2657680-001
+:PROPERTIES:
+:TEXT: かんちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2657680-002
+:PROPERTIES:
+:TEXT: ひしお
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2657680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7fe3db98917c3f4e67c65436a6a394908acdb67e4da0e169272633b18c2e4583
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 満潮・まんちょう
+** English glosses
+- low tide
+- low water
+- ebb
+** Ukrainian glosses
+*** uk-s-2657680-001-001
+:PROPERTIES:
+:END:
+- text :: відплив; найнижчий рівень води під час відпливу
+** Learner notes
+*** note-s-2657680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 干 (висихати, спадати) та 潮 (приплив, морська течія); антонім — 満潮 (приплив). Позначає момент або стан максимального спаду морської води, коли оголюється прибережна смуга; поширені сполучення — 干潮時 (час спаду води) та 干潮を迎える.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2657680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 干潮の時間になると、海辺を歩けます。
+- READING :: かんちょうのじかんになると、うみべをあるけます。
+- UK :: Коли настає час відпливу, можна гуляти берегом моря.
+- FOCUS :: 干潮
+*** ex-2657680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今日の干潮は午後三時ごろなので、その前に貝を拾いに行こう。
+- READING :: きょうのかんちょうはごごさんじごろなので、そのまえにかいをひろいにいこう。
+- UK :: Сьогодні відплив буде близько третьої години дня, тож ходімо збирати мушлі раніше.
+- FOCUS :: 干潮
+*** ex-2657680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 干潮のときだけ現れる砂の道を渡って、多くの観光客が小さな島を訪れる。
+- READING :: かんちょうのときだけあらわれるすなのみちをわたって、おおくのかんこうきゃくがちいさなしまをおとずれる。
+- UK :: Багато туристів відвідують маленький острів, переходячи піщаною косою, що з'являється лише під час відпливу.
+- FOCUS :: 干潮
+
+* Sense s-2657680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ed733055d50fb18607a5af61745592eb2835afab5360c4f63137a4d21d50b806
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2657680-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: marée basse
+** Ukrainian glosses
+
+* Sense s-2657680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f5de737c89eec6815df28d28d6d17570974d8dce6898b6c714a8d57cfe9c0f03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2657680-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ebbe
+** Ukrainian glosses
+
+* Sense s-2657680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0147132f75947e47cc93ba69646a985aa3e794713e994d97e3becaf3810613c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2657680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [морской] отлив
+*** en-s-2657680-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: морской отлив
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2657680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2657680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かんちょう
+** Accent accent-rd-2657680-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2657680-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひしお

@@ -1,0 +1,137 @@
+#+TITLE: 割り木
+#+JMDICT_ID: 1207950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わりき
+#+ROMAJI: wariki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1207950-001
+:PROPERTIES:
+:TEXT: 割り木
+:END:
+** Written form wf-1207950-002
+:PROPERTIES:
+:TEXT: 割木
+:END:
+** Reading rd-1207950-001
+:PROPERTIES:
+:TEXT: わりき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1207950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: adb9f183fad699868d546697e8d7a745e44ece160e05bee755cb7a6cbc4419fd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- split firewood
+** Ukrainian glosses
+*** uk-s-1207950-001-001
+:PROPERTIES:
+:END:
+- text :: колоті дрова; поліна
+** Learner notes
+*** note-s-1207950-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від дієслова 割る (колоти, розщеплювати) та 木 (дерево). Означає вже нарубану й розколоту на поліна деревину, готову для печі, каміна чи багаття (синонімічне поняття до 薪 — дрова).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1207950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬のために割り木を準備する。
+- READING :: ふゆのためにわりきをじゅんびする。
+- UK :: Готую колоті дрова на зиму.
+- FOCUS :: 割り木
+*** ex-1207950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 納屋の隅にはよく乾いた割り木が山積みになっている。
+- READING :: なやのすみにはよくかわいたわりきがやまづみになっている。
+- UK :: У кутку сарая горою складені добре висушені поліна.
+- FOCUS :: 割り木
+*** ex-1207950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 暖炉の火が弱まってきたので、新しい割り木を二本ほどくべた。
+- READING :: だんろのひがよわまってきたので、あたらしいわりきをにほんほどくべた。
+- UK :: Оскільки вогонь у каміні почав згасати, я підкинув туди зо два нових поліна.
+- FOCUS :: 割り木
+
+* Sense s-1207950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 399372ad0c90af27b1fa6d3cae4697bf78ac40beba21d6acb5e3191c2481c206
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (klein gemachtes)Feuerholz
+** Ukrainian glosses
+
+* Sense s-1207950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2ebfab6bd84ba7e170a4a8cdda5b5e1e8595b6f2a5608feb8686dd33c08953c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1207950-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: наколотые дрова
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1207950-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1207950-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: わりき

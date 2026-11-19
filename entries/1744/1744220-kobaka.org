@@ -1,0 +1,198 @@
+#+TITLE: 小馬鹿
+#+JMDICT_ID: 1744220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こばか
+#+ROMAJI: kobaka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1744220-001
+:PROPERTIES:
+:TEXT: 小馬鹿
+:END:
+** Written form wf-1744220-002
+:PROPERTIES:
+:TEXT: 小ばか
+:END:
+** Written form wf-1744220-003
+:PROPERTIES:
+:TEXT: 小莫迦
+:END:
+*** Information
+- rK
+** Written form wf-1744220-004
+:PROPERTIES:
+:TEXT: 小バカ
+:END:
+*** Information
+- sK
+** Reading rd-1744220-001
+:PROPERTIES:
+:TEXT: こばか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1744220-002
+:PROPERTIES:
+:TEXT: コバカ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1744220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3f980118738a54506fe75098b6f99c9bff21641aef70ebffc94b9bfa7173d265
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- as 〜にする
+*** Cross-references
+- 小馬鹿にする
+** English glosses
+- fool
+- person beneath one's contempt
+** Ukrainian glosses
+*** uk-s-1744220-001-001
+:PROPERTIES:
+:END:
+- text :: дурник; нікчема (у виразі 小馬鹿にする — ставитися зверхньо, кепкувати)
+** Learner notes
+*** note-s-1744220-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із применшувально-зневажливим префіксом 小- та 馬鹿 («дурень»). Самостійно вживається рідко; майже завжди трапляється у звороті 小馬鹿にする («тримати когось за дурника, глузувати, ставитися зверхньо»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1744220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 人の失敗を小馬鹿にしてはいけない。
+- READING :: ひとのしっぱいをこばかにしてはいけない。
+- UK :: Не можна кепкувати з чужих невдач.
+- FOCUS :: 小馬鹿
+*** ex-1744220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 年下だからといって後輩を小馬鹿にする態度は、職場の雰囲気を悪くする。
+- READING :: とししただからといってこうはいをこばかにするたいどは、しょくばのふんいきをわるくする。
+- UK :: Зверхнє ставлення до молодших колег лише через їхній вік псує атмосферу в колективі.
+- FOCUS :: 小馬鹿
+*** ex-1744220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最初は彼の提案を小馬鹿にしていた周囲の人々も、見事な成果を見て考えを改めた。
+- READING :: さいしょはかれのていあんをこばかにしていたしゅういのひとびとも、みごとなせいかをみてかんがえをあらためた。
+- UK :: Ті, хто спершу зверхньо посміювався з його пропозиції, побачивши блискучий результат, змінили свою думку.
+- FOCUS :: 小馬鹿
+
+* Sense s-1744220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7bff306c22f26735ff3af64706b23086bca910a21a6301088e055bd5fa999a57
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewisse Dummheit
+** Ukrainian glosses
+
+* Sense s-1744220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b49ee401516f3cb591de21c5cba74eb5c17f42afb52546ba512db6e8edad05ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744220-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～にする} считать за дурачка; третировать
+** Ukrainian glosses
+
+* Sense s-1744220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 783dc034da419445b409eb1211395b7df3503463a35028c18e16e7bfb4f09036
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744220-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: narr
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1744220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1744220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こばか
+** Accent accent-rd-1744220-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1744220-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: コバカ

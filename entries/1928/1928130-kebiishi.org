@@ -1,0 +1,149 @@
+#+TITLE: 検非違使
+#+JMDICT_ID: 1928130
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けびいし
+#+ROMAJI: kebiishi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1928130-001
+:PROPERTIES:
+:TEXT: 検非違使
+:END:
+** Reading rd-1928130-001
+:PROPERTIES:
+:TEXT: けびいし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1928130-002
+:PROPERTIES:
+:TEXT: けんびいし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1928130-003
+:PROPERTIES:
+:TEXT: けいびいし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1928130-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d82754f3881f282533c7a62446fee13e8ff542bbda8aec17ae12639d7330d21b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- police and judicial chief (Heian and Kamakura periods)
+** Ukrainian glosses
+*** uk-s-1928130-001-001
+:PROPERTIES:
+:END:
+- text :: кебііші (імператорський урядовець із поліцейсько-судовими повноваженнями в епохи Хейан і Камакура)
+** Learner notes
+*** note-s-1928130-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін (іменник). Посадовець відомства 検非違使庁, заснованого в епоху Хейан для підтримання порядку в столиці Кіото, розслідування злочинів та судочинства; в епоху Камакура повноваження відомства поступово звузилися. Зазвичай читається けびいし (рідше けんびいし).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1928130-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 平安時代には検非違使が都の治安を守っていた。
+- READING :: へいあんじだいにはけびいしがみやこのちあんをまもっていた。
+- UK :: У період Хейан громадський порядок у столиці охороняли урядовці кебііші.
+- FOCUS :: 検非違使
+*** ex-1928130-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史小説の中で、事件の捜査に当たる検非違使の姿が描かれている。
+- READING :: れきししょうせつのなかで、じけんのそうさにあたるけびいしのすがたがえがかれている。
+- UK :: В історичному романі змальовано образ урядовця кебііші, який розслідує злочин.
+- FOCUS :: 検非違使
+*** ex-1928130-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平安時代中期の京都では、盗賊の取り締まりから裁判まで幅広い権限を持つ検非違使の働きが不可欠だった。
+- READING :: へいあんじだいちゅうきのきょうとでは、とうぞくのとりしまりからさいばんまではばひろいけんげんをもつけびいしのはたらきがふかけつだった。
+- UK :: У Кіото середини епохи Хейан діяльність урядовців кебііші, які мали широкі повноваження від переслідування розбійників до судочинства, була вкрай необхідною.
+- FOCUS :: 検非違使
+
+* Sense s-1928130-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d72b26051a27ea1b14ce299e370e8a08083b773378258405d418c97e6062aab8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1928130-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amt für die Untersuchung von Rechtswidrigkeiten (zu Beginn der Heian-Zeit; vereinte die Funktion von Richter und Polizist)
+** Ukrainian glosses
+
+* Sense s-1928130-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bb5ed52f34135dbcc1dbc4bc6031195d51082dfa56beee0c88c408b311f9011b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1928130-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) полицейский чиновник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1928130-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1928130-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: けびいし

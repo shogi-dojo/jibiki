@@ -1,0 +1,155 @@
+#+TITLE: 真皮
+#+JMDICT_ID: 1952810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんぴ
+#+ROMAJI: shinpi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1952810-001
+:PROPERTIES:
+:TEXT: 真皮
+:END:
+** Reading rd-1952810-001
+:PROPERTIES:
+:TEXT: しんぴ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1952810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 78d6d850d3e70384532d99546a48b59178859d0f64c883d8f3c67f66f50e220e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- anat
+- zool
+** English glosses
+- dermis
+- corium
+- cutis
+- true skin
+** Ukrainian glosses
+*** uk-s-1952810-001-001
+:PROPERTIES:
+:END:
+- text :: дерма; власне шкіра
+** Learner notes
+*** note-s-1952810-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічний і зоологічний термін, утворений із 真 («справжній») та 皮 («шкіра»). Позначає середній шар шкіри хребетних, розташований між зовнішнім шаром (表皮 — «епідерміс») і підшкірною клітковиною (皮下組織); саме тут містяться колагенові волокна, кровоносні судини й нервові закінчення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1952810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 真皮は表皮の下にあります。
+- READING :: しんぴはひょうひのしたにあります。
+- UK :: Дерма розташована під епідермісом.
+- FOCUS :: 真皮
+*** ex-1952810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 紫外線が真皮まで届くと、肌のハリを保つ組織が傷つく。
+- READING :: しがいせんがしんぴまでとどくと、はだのはりをたもつそしきがきずつく。
+- UK :: Коли ультрафіолетові промені досягають дерми, ушкоджуються тканини, що підтримують пружність шкіри.
+- FOCUS :: 真皮
+*** ex-1952810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 真皮にはコラーゲンやエラスチンなどの成分が豊富に含まれており、皮膚の弾力性を支えている。
+- READING :: しんぴにはこらーげんやえらすちんなどのせいぶんがほうふにふくまれており、ひふのだんりょくせいをささえている。
+- UK :: У дермі міститься багато колагену, еластину та інших компонентів, які забезпечують еластичність шкіри.
+- FOCUS :: 真皮
+
+* Sense s-1952810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b1b21767365a211e98d9b905d0ac87b1a165e225320836df4fc1258c1bf0ead
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1952810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lederhaut
+*** en-s-1952810-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Corium
+** Ukrainian glosses
+
+* Sense s-1952810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e4e34ce73bffde89275ef997f67589674cd6b3789114b9e5808aeb88942d231
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1952810-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: настоящая кожа (не искусственная)
+*** en-s-1952810-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} кожаный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1952810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1952810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しんぴ

@@ -1,0 +1,141 @@
+#+TITLE: 笑い顔
+#+JMDICT_ID: 1744820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わらいがお
+#+ROMAJI: waraigao
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1744820-001
+:PROPERTIES:
+:TEXT: 笑い顔
+:END:
+** Reading rd-1744820-001
+:PROPERTIES:
+:TEXT: わらいがお
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1744820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a7a0838e219d13f0ce0722e40b3e1ba7e8bdeee0222e0cf5330d46e85352b606
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- smiling face
+** Ukrainian glosses
+*** uk-s-1744820-001-001
+:PROPERTIES:
+:END:
+- text :: усміхнене обличчя; усмішка
+** Learner notes
+*** note-s-1744820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням основи дієслова 笑う (сміятися, усміхатися) та 顔 (обличчя) з одзвінченням початкового приголосного в другій частині (рендаку). На відміну від 笑顔 (привітна усмішка, щасливе обличчя), 笑い顔 частіше підкреслює сам вираз сміху або радісної усмішки, наприклад у звороті 笑い顔を見せる (показати усміхнене обличчя).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1744820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤ちゃんの笑い顔がとてもかわいいです。
+- READING :: あかちゃんのわらいがおがとてもかわいいです。
+- UK :: Усміхнене личко немовляти дуже миле.
+- FOCUS :: 笑い顔
+*** ex-1744820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 久しぶりに会った友人は、昔と変わらない笑い顔を見せてくれた。
+- READING :: ひさしぶりにあったゆうじんは、むかしとかわらないわらいがおをみせてくれた。
+- UK :: Друг, із яким давно не бачилися, зустрів мене такою самою щирою усмішкою, як і колись.
+- FOCUS :: 笑い顔
+*** ex-1744820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: いつも厳しい顔をしている監督が、優勝が決まった瞬間にだけは子どものような笑い顔を浮かべた。
+- READING :: いつもきびしいかおをしているかんとくが、ゆうしょうがきまったしゅんかんにだけはこどものようなわらいがおをうかべた。
+- UK :: Тренер, який завжди має суворий вираз обличчя, у мить перемоги засяяв по-дитячому радісною усмішкою.
+- FOCUS :: 笑い顔
+
+* Sense s-1744820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2d1f8cf0572b9641e491ab6f05551c619f79e73f335a5278748aa95bdfee90e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744820-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lächelndes Gesicht
+** Ukrainian glosses
+
+* Sense s-1744820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 97531fe55a522467713f34f822933b27436760c8f34dfae75817c626a5abe80d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744820-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: смеющееся (улыбающееся) лицо
+*** en-s-1744820-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をして} улыбаясь, с улыбкой
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1744820-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1744820-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: わらいがお

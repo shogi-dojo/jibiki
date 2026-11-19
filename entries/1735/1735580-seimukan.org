@@ -1,0 +1,133 @@
+#+TITLE: 政務官
+#+JMDICT_ID: 1735580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいむかん
+#+ROMAJI: seimukan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1735580-001
+:PROPERTIES:
+:TEXT: 政務官
+:END:
+** Reading rd-1735580-001
+:PROPERTIES:
+:TEXT: せいむかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1735580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 689ccefb7668adbfee0e056707d675a5805f0d3b5c75522a0d6a4429803c4d07
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- parliamentary official
+** Ukrainian glosses
+*** uk-s-1735580-001-001
+:PROPERTIES:
+:END:
+- text :: парламентський секретар міністерства; політичний посадовець; парламентський віцеміністр
+** Learner notes
+*** note-s-1735580-001-001
+:PROPERTIES:
+:END:
+- UK :: Політико-адміністративний іменник (政務 — державні справи + 官 — урядовець). В Японії зазвичай є скороченням від 大臣政務官 — посади парламентського секретаря, який допомагає міністру та заступнику міністра у формуванні політики й роботі з парламентом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1735580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 若い議員が外務省の政務官に選ばれた。
+- READING :: わかいぎいんががいむしょうのせいむかんにえらばれた。
+- UK :: Молодого депутата призначили парламентським секретарем Міністерства закордонних справ.
+- FOCUS :: 政務官
+*** ex-1735580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新任の政務官は記者会見で、今後の政策課題について説明した。
+- READING :: しんにんのせいむかんはきしゃかいけんで、こんごのせいさくかだいについてせつめいした。
+- UK :: Новопризначений парламентський секретар на пресконференції розповів про майбутні політичні завдання.
+- FOCUS :: 政務官
+*** ex-1735580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大臣を補佐する政務官は、省庁内の調整だけでなく国会での答弁や各党との折衝も担っている。
+- READING :: だいじんをほさするせいむかんは、しょうちょうないのちょうせいだけでなくこっかいでのとうべんやかくとうとのせっしょうもになっている。
+- UK :: Парламентський секретар, який допомагає міністру, відповідає не лише за координацію всередині відомства, а й за виступи в парламенті та переговори з партіями.
+- FOCUS :: 政務官
+
+* Sense s-1735580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5a158f644bf615012f2332fdc43be317a9ef5fe261f468bfe1ce8166a7f6c125
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parlamentarischer Staatssekretär
+** Ukrainian glosses
+
+* Sense s-1735580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0294080d56f4dad32cf07a728fb155250648205896f3e812ad4fdec95cb17bef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735580-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чиновник по административным делам
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1735580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1735580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: せいむかん

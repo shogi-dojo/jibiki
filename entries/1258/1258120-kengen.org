@@ -1,0 +1,141 @@
+#+TITLE: 権原
+#+JMDICT_ID: 1258120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんげん
+#+ROMAJI: kengen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1258120-001
+:PROPERTIES:
+:TEXT: 権原
+:END:
+** Reading rd-1258120-001
+:PROPERTIES:
+:TEXT: けんげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1258120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0f5d566412605d71a73a4b1dabb4655dbdb723f8856a2b1f623b1b5bb472a64b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- origin of rights
+** Ukrainian glosses
+*** uk-s-1258120-001-001
+:PROPERTIES:
+:END:
+- text :: правова підстава; джерело права, правовий титул
+** Learner notes
+*** note-s-1258120-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (іменник). Позначає юридичний факт або акт, на якому ґрунтується законність певного права, зокрема права власності чи володіння. На відміну від омофона 権限 (повноваження), слово 権原 стосується саме першоджерела права.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1258120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 土地の権原を確認する。
+- READING :: とちのけんげんをかくにんする。
+- UK :: Перевірити правову підставу на земельну ділянку.
+- FOCUS :: 権原
+*** ex-1258120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 契約書は所有権の権原を証明する大切な書類だ。
+- READING :: けいやくしょはしょゆうけんのけんげんをしょうめいするたいせつなしょるいだ。
+- UK :: Договір є важливим документом, що засвідчує правову підставу на право власності.
+- FOCUS :: 権原
+*** ex-1258120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 裁判では、被告が正当な権原に基づいてその建物を占有していたかどうかが争点となった。
+- READING :: さいばんでは、ひこくがせいとうなけんげんにもとづいてそのたてものをせんゆうしていたかどうかがそうてんとなった。
+- UK :: У суді предметом спору стало те, чи володів відповідач тією будівлею на законній правовій підставі.
+- FOCUS :: 権原
+
+* Sense s-1258120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a1e36006cc6457628f913f53f3122f351c0bfee82e61d9b812b888b4ca03133
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1258120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechtstitel
+*** en-s-1258120-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rechtsgrund
+** Ukrainian glosses
+
+* Sense s-1258120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b33d2a881ead310396d3db94460b1b095b6a7c1e6bf027c267d571542e10f995
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1258120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) правоосновы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1258120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1258120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: けんげん

@@ -1,0 +1,141 @@
+#+TITLE: 露頭
+#+JMDICT_ID: 1775970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろとう
+#+ROMAJI: rotou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1775970-001
+:PROPERTIES:
+:TEXT: 露頭
+:END:
+** Reading rd-1775970-001
+:PROPERTIES:
+:TEXT: ろとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1775970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ce9bb088447c11dcad8f3789528b9771d51da5f5520bf27187bd4c89a0443a8d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rocky outcrop
+** Ukrainian glosses
+*** uk-s-1775970-001-001
+:PROPERTIES:
+:END:
+- text :: відслонення (гірських порід); вихід породи на поверхню
+** Learner notes
+*** note-s-1775970-001-001
+:PROPERTIES:
+:END:
+- UK :: Геологічний і книжний іменник, утворений із 露 («оголюватися, виходити назовні») та 頭 («верхівка, початок»). Позначає ділянку земної поверхні, де гірські породи або рудні жили виходять з-під ґрунту назовні без рослинного покриву.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1775970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山の斜面に岩の露頭が見えます。
+- READING :: やまのしゃめんにいわのろとうがみえます。
+- UK :: На схилі гори видно скельне відслонення.
+- FOCUS :: 露頭
+*** ex-1775970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地質調査のチームは、川岸にある地層の露頭を詳しく観察した。
+- READING :: ちしつちょうさのちーむは、かわぎしにあるちそうのろとうをくわしくかんさつした。
+- UK :: Геологічна експедиція детально дослідила відслонення земних шарів на березі річки.
+- FOCUS :: 露頭
+*** ex-1775970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 断層の動きを直接確かめられる貴重な露頭として、その崖は国の天然記念物に指定されている。
+- READING :: だんそうのうごきをちょくせつたしかめられるきちょうなろとうとして、そのがけはくにのてんねんきねんぶつにしていされている。
+- UK :: Як цінне відслонення, де можна безпосередньо спостерігати рух тектонічного розлому, ця скеля внесена до національних пам’яток природи.
+- FOCUS :: 露頭
+
+* Sense s-1775970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 46b6c2b2b3cba812d02e8a9f9b33b03bb45b4d3747fdd94f80398335616b0e73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1775970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zutageliegen (von Erd- oder Gesteinsschichten)
+** Ukrainian glosses
+
+* Sense s-1775970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 45dc158db1c1f69cc5dca0fe48aaf30aa5cbb57062a21e7aa9c7888a7839e5fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1775970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) (геол.) обнажение пород, выход пластов на поверхность
+*** en-s-1775970-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (кн.) непокрытая (обнажённая) голова
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1775970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1775970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ろとう

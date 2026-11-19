@@ -1,0 +1,134 @@
+#+TITLE: 紙数
+#+JMDICT_ID: 1763080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しすう
+#+ROMAJI: shisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1763080-001
+:PROPERTIES:
+:TEXT: 紙数
+:END:
+** Reading rd-1763080-001
+:PROPERTIES:
+:TEXT: しすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1763080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3f437725f58cd5e4f6fb4725c6291a7796b38e05c676e44bb2a1b0341372efca
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- number of pages
+- page space
+** Ukrainian glosses
+*** uk-s-1763080-001-001
+:PROPERTIES:
+:END:
+- text :: кількість сторінок; обсяг сторінок (у виданні)
+** Learner notes
+*** note-s-1763080-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що поєднує 紙 (папір, сторінка) та 数 (число, кількість). Найчастіше трапляється в наукових працях, редакційних передмовах і статтях, коли автор пояснює стислість викладу обмеженим обсягом друкованого місця, наприклад у сталому вислові 紙数の都合で (через брак місця на сторінках).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1763080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この本は紙数があまり多くありません。
+- READING :: このほんはしすうがあまりおおくありません。
+- UK :: У цій книжці не дуже багато сторінок.
+- FOCUS :: 紙数
+*** ex-1763080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 紙数に限りがあるため、詳しい説明は省略します。
+- READING :: しすうにかぎりがあるため、くわしいせつめいはしょうりゃくします。
+- UK :: Через обмежену кількість сторінок докладні пояснення опускаємо.
+- FOCUS :: 紙数
+*** ex-1763080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 当初の予定よりも論点が広がった結果、論文の紙数が大幅に増えてしまった。
+- READING :: とうしょのよていよりもろんてんがひろがったけっか、ろんぶんのしすうがおおはばにふえてしまった。
+- UK :: Унаслідок того, що коло питань розширилося порівняно з початковим планом, обсяг статті значно зріс.
+- FOCUS :: 紙数
+
+* Sense s-1763080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cae04b0466b5e168388b73e5d8f41f7be14e236a8aa6870cec72b34961a965a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seitenzahl
+** Ukrainian glosses
+
+* Sense s-1763080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7a75ccf5cf20ad399f89020a29de1e55b13f20a6fa944d679c55e69ac3f52ee4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763080-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: число страниц
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1763080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1763080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しすう

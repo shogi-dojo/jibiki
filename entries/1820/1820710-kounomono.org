@@ -1,0 +1,170 @@
+#+TITLE: 香の物
+#+JMDICT_ID: 1820710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうのもの
+#+ROMAJI: kounomono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1820710-001
+:PROPERTIES:
+:TEXT: 香の物
+:END:
+** Written form wf-1820710-002
+:PROPERTIES:
+:TEXT: 香物
+:END:
+*** Information
+- io
+** Written form wf-1820710-003
+:PROPERTIES:
+:TEXT: 香のもの
+:END:
+** Reading rd-1820710-001
+:PROPERTIES:
+:TEXT: こうのもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1820710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8a4506fe8188bd739633a8778bfa5ccb8dc6d4891190631c761edaf8ca186247
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+** English glosses
+- pickled vegetables
+** Ukrainian glosses
+*** uk-s-1820710-001-001
+:PROPERTIES:
+:END:
+- text :: японські квашені або мариновані овочі; цукемоно
+** Learner notes
+*** note-s-1820710-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний іменник, що буквально означає «ароматна річ» (香 «аромат» + の + 物 «річ»). Ввічлива й дещо традиційна назва маринованих чи квашених овочів, які подають до рису (у побуті частіше вживається слово 漬物 «цукемоно»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1820710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝ごはんに熱い味噌汁と香の物を食べた。
+- READING :: あさごはんにあついみそしるとこうのものをたべた。
+- UK :: На сніданок я з'їв гарячого місо-супу та маринованих овочів.
+- FOCUS :: 香の物
+*** ex-1820710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この定食屋では、季節ごとに違った種類の香の物が出される。
+- READING :: このていしょくやでは、きせつごとにちがったしゅるいのこうのものがだされる。
+- UK :: У цій їдальні комплексних обідів щосезону подають інші види квашених овочів.
+- FOCUS :: 香の物
+*** ex-1820710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 丁寧に作られた懐石料理の締めくくりには、炊きたての白米とともに上品な香の物が添えられていた。
+- READING :: ていねいにつくられたかいせきりょうりのしめくくりには、たきたてのはくまいとともにじょうひんなこうのものがそえられていた。
+- UK :: Наприкінці вишуканої трапези кайсекі до свіжозвареного білого рису подали делікатно замариновані овочі.
+- FOCUS :: 香の物
+
+* Sense s-1820710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a18bed440ce5bff00bac8e3ed04359fcff242a570c21c692a6531ad46358d727
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eingelegtes Gemüse
+*** en-s-1820710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pickles
+** Ukrainian glosses
+
+* Sense s-1820710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c8df1c1ddb969b34b8e5b17909972e0643fbb42dfb8bf7c06b36162597df41b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: маринованные овощи, пикули
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1820710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1820710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 5
+:PATTERN: odaka
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こうのもの
+** Accent accent-rd-1820710-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1820710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こうのもの

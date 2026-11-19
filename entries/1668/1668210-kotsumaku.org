@@ -1,0 +1,177 @@
+#+TITLE: 骨膜
+#+JMDICT_ID: 1668210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こつまく
+#+ROMAJI: kotsumaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1668210-001
+:PROPERTIES:
+:TEXT: 骨膜
+:END:
+** Reading rd-1668210-001
+:PROPERTIES:
+:TEXT: こつまく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1668210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a002436195db6968cbeaee304eae4ab8808ecbaeb8e418a1f7399ebc1c65a548
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- anat
+** English glosses
+- periosteum
+** Ukrainian glosses
+*** uk-s-1668210-001-001
+:PROPERTIES:
+:END:
+- text :: окістя
+** Learner notes
+*** note-s-1668210-001-001
+:PROPERTIES:
+:END:
+- UK :: Анатомічний та медичний термін (іменник), утворений з 骨 (кістка) і 膜 (оболонка, перетинка). Позначає тонку сполучнотканинну оболонку, що вкриває кістку ззовні та бере участь у її живленні й рості; поширене словосполучення — 骨膜炎 (періостит, запалення окістя).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1668210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師が骨膜の状態を確認する。
+- READING :: いしがこつまくのじょうたいをかくにんする。
+- UK :: Лікар перевіряє стан окістя.
+- FOCUS :: 骨膜
+*** ex-1668210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 激しい運動を続けたせいで、すねの骨膜に炎症が起きた。
+- READING :: はげしいうんどうをつづけたせいで、すねのこつまくにえんしょうがおきた。
+- UK :: Через постійні інтенсивні навантаження виникло запалення окістя гомілки.
+- FOCUS :: 骨膜
+*** ex-1668210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 骨の表面を覆う骨膜には多くの神経や血管が通っており、傷つくと強い痛みを感じる。
+- READING :: ほねのひょうめんをおおうこつまくにはおおくのしんけいやけっかんがとおっており、きずつくとつよいいたみをかんじる。
+- UK :: Крізь окістя, що вкриває поверхню кістки, проходить багато нервів і судин, тому при його ушкодженні відчувається сильний біль.
+- FOCUS :: 骨膜
+
+* Sense s-1668210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c28c863be927dd0c62823821658e6947861b9ac1a888a57c5a19734ea9375457
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1668210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {anat.} beenvlies
+*** en-s-1668210-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: periost
+** Ukrainian glosses
+
+* Sense s-1668210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0f7997f224cb07578e8c6181d8f25269081e7c8de38edfbe260231a554766083
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1668210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Knochenhaut
+*** en-s-1668210-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Periost
+*** en-s-1668210-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Periosteum
+** Ukrainian glosses
+
+* Sense s-1668210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a70285656dcc690a2d92ec85ec48b4c3b9160133460c8b8fcc10ef5296d29143
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1668210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: надкостница
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1668210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1668210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こつまく

@@ -1,0 +1,169 @@
+#+TITLE: 電離層
+#+JMDICT_ID: 1443780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんりそう
+#+ROMAJI: denrisou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443780-001
+:PROPERTIES:
+:TEXT: 電離層
+:END:
+** Reading rd-1443780-001
+:PROPERTIES:
+:TEXT: でんりそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1443780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 75053a5c915ceb2d50d60affda40b5d4a7b6a7edba880884d6532fa70a1c640a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ionosphere
+** Ukrainian glosses
+*** uk-s-1443780-001-001
+:PROPERTIES:
+:END:
+- text :: іоносфера
+** Learner notes
+*** note-s-1443780-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізико-географічний термін (іменник), утворений із 電離 (іонізація) та 層 (шар). Позначає верхній шар атмосфери Землі (на висоті приблизно від шістдесяти до тисячі кілометрів), насичений вільними електронами й іонами, що відбиває радіохвилі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1443780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電離層は地球の上空にあります。
+- READING :: でんりそうはちきゅうのじょうくうにあります。
+- UK :: Іоносфера розташована високо над Землею.
+- FOCUS :: 電離層
+*** ex-1443780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 短波放送の電波は、電離層に反射して遠くまで届く。
+- READING :: たんぱほうそうのでんぱは、でんりそうにはんしゃしてとおくまでとどく。
+- UK :: Радіохвилі короткохвильового мовлення відбиваються від іоносфери й долають великі відстані.
+- FOCUS :: 電離層
+*** ex-1443780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 太陽フレアが発生すると電離層の状態が乱れ、衛星通信や航空機の無線に障害が生じることがある。
+- READING :: たいようふれあがはっせいするとでんりそうのじょうたいがみだれ、えいせいつうしんやこうくうきのむせんにしょうがいがしょうじることがある。
+- UK :: Коли стається сонячний спалах, стан іоносфери порушується, що може спричинити перебої в супутниковому зв’язку та авіаційному радіо.
+- FOCUS :: 電離層
+
+* Sense s-1443780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3edd4d177efe67764be88150aea3ad2eb169dc0d108b37c5f02771dc5d78f8d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ionosphäre
+** Ukrainian glosses
+
+* Sense s-1443780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b7a7c4c0d014d7c7eaf54cb47350cba404c4e627af7183087ec1d149fa589f58
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443780-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ionoszféra
+** Ukrainian glosses
+
+* Sense s-1443780-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fbcc3b094c7c05fcc6639f848f21726e1f70eb027d90a17a7e81811a38fca07e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443780-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ионизированный слой, ионосфера
+** Ukrainian glosses
+
+* Sense s-1443780-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 41c4cc3969bf1a3b7b812d0aeeee6a2fc50ef37ac72ee6799babdcc8ce57bd52
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443780-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jonosfär
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1443780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1443780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: でんりそう

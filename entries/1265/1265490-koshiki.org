@@ -1,0 +1,165 @@
+#+TITLE: 古式
+#+JMDICT_ID: 1265490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こしき
+#+ROMAJI: koshiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1265490-001
+:PROPERTIES:
+:TEXT: 古式
+:END:
+*** Priorities
+- news2
+- nf34
+** Reading rd-1265490-001
+:PROPERTIES:
+:TEXT: こしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+
+* Sense s-1265490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 646f2be0cf4cd81e22c7145843522862239af680aeacedcbe2a5167b9a21a8ab
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- old style
+- ancient rites
+** Ukrainian glosses
+*** uk-s-1265490-001-001
+:PROPERTIES:
+:END:
+- text :: старовинний обряд; давній ритуал; давній звичай
+** Learner notes
+*** note-s-1265490-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 古 («давній, старий») та 式 («обряд, стиль, церемонія»). Позначає традиційний лад проведення обрядів, свят або змагань, збережений із давніх часів; часті сполуки — 古式に則る («згідно з давнім обрядом») та 古式ゆかしい («овіяний сивою давниною»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1265490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この神社では古式の祭りが行われる。
+- READING :: このじんじゃではこしきのまつりがおこなわれる。
+- UK :: У цьому святилищі проводять старовинне обрядове свято.
+- FOCUS :: 古式
+*** ex-1265490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新年の行事では、古式にのっとった衣装を着た人たちが参道を歩いた。
+- READING :: しんねんのぎょうじでは、こしきにのっとったいしょうをきたひとたちがさんどうをあるいた。
+- UK :: Під час новорічної церемонії люди в убранні за давнім звичаєм пройшли дорогою до святилища.
+- FOCUS :: 古式
+*** ex-1265490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何百年もの歴史を持つその儀式は、現代でも古式を守りながら厳かに執り行われている。
+- READING :: なんびゃくねんものれきしをもつそのぎしきは、げんだいでもこしきをまもりながらおごそかにとりおこなわれている。
+- UK :: Цей обряд із багатовіковою історією й досі урочисто проводять із дотриманням усіх давніх приписів.
+- FOCUS :: 古式
+
+* Sense s-1265490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c504d11380579b5fa9b5675bcba0f46ab59231f7fd0492e8cd3fa3c48e5dda24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alte Riten
+*** en-s-1265490-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: altes Zeremoniell
+** Ukrainian glosses
+
+* Sense s-1265490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 21a42495674ac50cef5b1e48f6e88724eb00dfa87eda6df4fe4b0903f238e9cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265490-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: древний обряд (ритуал)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1265490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1265490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こしき
+** Accent accent-rd-1265490-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1265490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こしき

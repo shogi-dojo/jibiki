@@ -1,0 +1,162 @@
+#+TITLE: 下屋敷
+#+JMDICT_ID: 1184560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しもやしき
+#+ROMAJI: shimoyashiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1184560-001
+:PROPERTIES:
+:TEXT: 下屋敷
+:END:
+** Reading rd-1184560-001
+:PROPERTIES:
+:TEXT: しもやしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1184560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa7caf37c369c9490d97dc745a9db9eb059df9de65649b4c3ade79304e513e2b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- daimyo's residence on the outskirts of Edo
+- daimyo villa
+** Ukrainian glosses
+*** uk-s-1184560-001-001
+:PROPERTIES:
+:END:
+- text :: заміська садиба даймьо (на околиці Едо); запасна резиденція феодала (іст.)
+** Learner notes
+*** note-s-1184560-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін періоду Едо: приміська чи заміська садиба феодального володаря даймьо в Едо, що слугувала місцем відпочинку та прихистком на випадок пожежі в головній резиденції (на відміну від парадної садиби 上屋敷 поблизу замку та середньої 中屋敷).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1184560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この公園は昔、大名の下屋敷でした。
+- READING :: このこうえんはむかし、だいみょうのしもやしきでした。
+- UK :: Цей парк колись був заміською садибою даймьо.
+- FOCUS :: 下屋敷
+*** ex-1184560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 広大な池のある庭園は、かつてこの地にあった下屋敷の名残である。
+- READING :: こうだいないけのあるていえんは、かつてこのちにあったしもやしきのなごりである。
+- UK :: Сад із великим ставком — це спадок від заміської садиби даймьо, що колись стояла тут.
+- FOCUS :: 下屋敷
+*** ex-1184560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の藩主たちは、火事の際の避難先や静養の場として郊外に下屋敷を構えていた。
+- READING :: えどじだいのはんしゅたちは、かじのさいのひなんさきやせいようのばとしてこうがいにしもやしきをかまえていた。
+- UK :: У період Едо володарі уділів облаштовували заміські садиби на околицях як місце для відпочинку та притулок на випадок пожежі.
+- FOCUS :: 下屋敷
+
+* Sense s-1184560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cd6f35ecc55e6155f7b38866b342f63341c7cc09984647ecf9a03450be952797
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebenresidenz (eines Daimyō; in der Edo-Zeit)
+** Ukrainian glosses
+
+* Sense s-1184560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2b14954cdec18c2a49d5b616a755690418cd81537b2c1c483309b6193ce3c3ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184560-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: családi ház
+*** en-s-1184560-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezidencia
+** Ukrainian glosses
+
+* Sense s-1184560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6b345612dbee31df87996918ccbe1a2ab1f9a38178fdb9b7d7ca66342779d2e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) загородная усадьба (даймё в Эдо)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1184560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1184560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しもやしき

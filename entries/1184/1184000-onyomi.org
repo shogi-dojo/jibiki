@@ -1,0 +1,202 @@
+#+TITLE: 音読み
+#+JMDICT_ID: 1184000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おんよみ
+#+ROMAJI: onyomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1184000-001
+:PROPERTIES:
+:TEXT: 音読み
+:END:
+*** Priorities
+- ichi1
+** Reading rd-1184000-001
+:PROPERTIES:
+:TEXT: おんよみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+
+* Sense s-1184000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9eca874bbca0feec1528c713b36a093486d65ebb1747ccec3da00cdfadd928ac
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 訓読み
+** English glosses
+- on reading
+- on'yomi
+*** en-s-1184000-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chinese-derived reading of a kanji
+** Ukrainian glosses
+*** uk-s-1184000-001-001
+:PROPERTIES:
+:END:
+- text :: онйомі; китаїзоване (онне) читання ієрогліфа
+** Learner notes
+*** note-s-1184000-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово із する (мовознавчий термін: 音 «звук» + 読み «читання»). Позначає запозичене з давньокитайської мови читання ієрогліфа, яке зазвичай уживається у складних словах (熟語), на противагу власнояпонському 訓読み (кунному читанню).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1184000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この漢字の音読みを辞書で調べた。
+- READING :: このかんじのおんよみをじしょでしらべた。
+- UK :: Я перевірив онне читання цього ієрогліфа у словнику.
+- FOCUS :: 音読み
+*** ex-1184000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 熟語を覚えるときは、音読みと訓読みの違いに注意するとよい。
+- READING :: じゅくごをおぼえるときは、おんよみとくんよみのちがいにちゅういするとよい。
+- UK :: Коли вивчаєш складні ієрогліфічні слова, варто звертати увагу на різницю між онним і кунним читаннями.
+- FOCUS :: 音読み
+*** ex-1184000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ漢字でも伝来した時代や地域によって複数の音読みが存在することがある。
+- READING :: おなじかんじでもでんらいしたじだいやちいきによってふくすうのおんよみがそんざいすることがある。
+- UK :: Навіть один і той самий ієрогліф може мати кілька онних читань залежно від епохи та регіону запозичення.
+- FOCUS :: 音読み
+
+* Sense s-1184000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ee705dedb27d4b9d0e42b3c7ac697db656924598ce27e6a3b4e70feb488d7028
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184000-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lecture on (chinoise) d'un kanji
+** Ukrainian glosses
+
+* Sense s-1184000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd6758c93231326c3670b3831128ca8171283bdf501a4c02be567932842b7e6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184000-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sinojapanische Lesung eines Kanji
+*** en-s-1184000-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (Kanji) in ihrer sinojapanischen Lesung lesen
+** Ukrainian glosses
+
+* Sense s-1184000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e2ebe3b97e1d5d4d1a7549b9bc9651b0d7bb07e92212f1bf52abd96d452f8e4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184000-004-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sino-japonska izgovarjava kitajskih pismenk
+*** en-s-1184000-004-002
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raba kitajskih pismenk za zapis kitajskih tujk
+** Ukrainian glosses
+
+* Sense s-1184000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d6701263ef0773647db2bbf1225270e41f19274ce43c55d7a72cfc872c718023
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184000-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lectura china del kanji
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1184000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1184000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おんよみ

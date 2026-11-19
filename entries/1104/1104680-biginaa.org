@@ -1,0 +1,173 @@
+#+TITLE: ビギナー
+#+JMDICT_ID: 1104680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ビギナー
+#+ROMAJI: biginaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1104680-001
+:PROPERTIES:
+:TEXT: ビギナー
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1104680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e159b49ef82ef4ed236938b4014cc4332839c8118f40283861c225f8139f38bc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- beginner
+** Ukrainian glosses
+*** uk-s-1104680-001-001
+:PROPERTIES:
+:END:
+- text :: початківець, новачок
+** Learner notes
+*** note-s-1104680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від англійського beginner), що записується катаканою. Уживається переважно у сфері спорту, хобі, ігор та навчальних курсів (наприклад, ビギナー向け — для початківців, ビギナーズラック — щастя новачка).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1104680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この教室はビギナーにとても優しい。
+- READING :: このきょうしつはびぎなーにとてもやさしい。
+- UK :: Ця студія дуже привітна до початківців.
+- FOCUS :: ビギナー
+*** ex-1104680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 週末にビギナー向けのテニス体験レッスンに参加する予定だ。
+- READING :: しゅうまつにびぎなーむけのてにすたいけんれっすんにさんかするよていだ。
+- UK :: На вихідних планую відвідати пробне заняття з тенісу для початківців.
+- FOCUS :: ビギナー
+*** ex-1104680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 登山を始めるビギナーは、最初から高い山に登るのではなく、安全に歩ける低い山から慣れるべきだ。
+- READING :: とざんをはじめるびぎなーは、さいしょからたかいやまにのぼるのではなく、あんぜんにあるけるひくいやまからなれるべきだ。
+- UK :: Початківцям, які тільки беруться за гірський туризм, варто не підніматися одразу на високі вершини, а спершу звикати на безпечних невисоких горах.
+- FOCUS :: ビギナー
+
+* Sense s-1104680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 377ac4d12650574c7b4bb8ded40751bdc73b3130c0f8cf891821d78a15179953
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1104680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anfänger
+** Ukrainian glosses
+
+* Sense s-1104680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 209f32191cf10748d573468a3c823c3b04fcc16cc3e49b46a59e151d99b505ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1104680-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kezdő
+** Ukrainian glosses
+
+* Sense s-1104680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 42c4f737b2a894162584f13168d229e89452bcbef295fc378ff060b8ece90c24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1104680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) beginner) (сущ.) начинающий
+** Ukrainian glosses
+
+* Sense s-1104680-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 21894ab5ec5ccff65a6d3b35d3b2964eef0b3d9985a31253c4cc4d0d09e692e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1104680-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: principiante (eng: beginner)
+*** en-s-1104680-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: novato
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1104680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1104680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ビギナー

@@ -1,0 +1,161 @@
+#+TITLE: 朴
+#+JMDICT_ID: 2250030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほお
+#+ROMAJI: hoo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2250030-001
+:PROPERTIES:
+:TEXT: 朴
+:END:
+** Written form wf-2250030-002
+:PROPERTIES:
+:TEXT: 厚朴
+:END:
+** Written form wf-2250030-003
+:PROPERTIES:
+:TEXT: 朴柏
+:END:
+** Reading rd-2250030-001
+:PROPERTIES:
+:TEXT: ほお
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 朴
+- 厚朴
+** Reading rd-2250030-002
+:PROPERTIES:
+:TEXT: ほおがしわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-2250030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c752d8bf5cba535bc1f5704e12f047e130110d59c73231c9a3bb4c330c69a695
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 朴の木
+** English glosses
+- Japanese bigleaf magnolia (Magnolia obovata)
+** Ukrainian glosses
+*** uk-s-2250030-001-001
+:PROPERTIES:
+:END:
+- text :: магнолія оберненояйцеподібна (Magnolia obovata); деревина хонокі
+** Learner notes
+*** note-s-2250030-001-001
+:PROPERTIES:
+:END:
+- UK :: Ботанічний іменник (повна назва — 朴の木, ほおのき). Велике листя 朴の葉 використовують у традиційній кухні для загортання їжі, зокрема в страві 朴葉味噌, а м'яка деревина цінується для виготовлення піхов мечів, дощок ґета й різьблення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2250030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に大きな朴の木がある。
+- READING :: にわにおおきなほおのきがある。
+- UK :: У саду росте велика японська магнолія.
+- FOCUS :: 朴
+*** ex-2250030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋の山道で広い朴の葉を拾った。
+- READING :: あきのやまみちでひろいほおのはをひろった。
+- UK :: На осінній гірській стежці я підібрав широкий листок магнолії.
+- FOCUS :: 朴
+*** ex-2250030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 朴の木材は加工しやすく、古くから刃物のさやなどに使われてきた。
+- READING :: ほおのもくざいはかこうしやすく、ふるくからはもののさやなどにつかわれてきた。
+- UK :: Деревина магнолії легко піддається обробці, тож здавна використовується для виготовлення піхов до клинків.
+- FOCUS :: 朴
+
+* Sense s-2250030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df1f9ee39bf12b1f9217829d259fe8557da78788b418c616e11eeec3f4576473
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2250030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weißgraue Magnolie
+*** en-s-2250030-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Magnolia obovata
+** Ukrainian glosses
+
+* Sense s-2250030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 155b110474cb88aa2686b253059e671d215f39c446008c90237c4679272c32d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2250030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ほおのき
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2250030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2250030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ほお

@@ -1,0 +1,162 @@
+#+TITLE: 水底
+#+JMDICT_ID: 2869136
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みなそこ
+#+ROMAJI: minasoko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2869136-001
+:PROPERTIES:
+:TEXT: 水底
+:END:
+** Reading rd-2869136-001
+:PROPERTIES:
+:TEXT: みなそこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2869136-002
+:PROPERTIES:
+:TEXT: みなぞこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+
+* Sense s-2869136-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 386d06ef3dc4602ef7f29445f7f7a38cc2ca143583f02ab01764ad440b858631
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- poet
+** English glosses
+- bottom of the water
+- bottom of the sea
+- river bottom
+** Ukrainian glosses
+*** uk-s-2869136-001-001
+:PROPERTIES:
+:END:
+- text :: дно водойми; морське чи річкове дно; глибінь вод
+** Learner notes
+*** note-s-2869136-001-001
+:PROPERTIES:
+:END:
+- UK :: Поетичний і книжний іменник, утворений із давнього сполучного елемента 水 (みな, «вода») та 底 (дно); також трапляється читання з озвонченням みなぞこ. На відміну від технічного омографа 水底 (すいてい), слово みなそこ має образний, літературний відтінок.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2869136-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 透き通った水底が見える。
+- READING :: すきとおったみなそこがみえる。
+- UK :: Крізь прозору воду видно дно.
+- FOCUS :: 水底
+*** ex-2869136-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夕暮れの湖では、水底に沈んだ小石までくっきりと見渡せた。
+- READING :: ゆうぐれのみずうみでは、みなそこにしずんだこいしまでくっきりとみわたせた。
+- UK :: Надвечір на озері було чітко видно навіть камінці, що лежали на дні.
+- FOCUS :: 水底
+*** ex-2869136-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長い年月を経て、かつての村はダム湖の深い水底に静かに眠っている。
+- READING :: ながいとしつきをへて、かつてのむらはだむこのふかいみなそこにしずかにねむっている。
+- UK :: Минули довгі роки, і колишнє село тепер тихо спочиває на глибокому дні водосховища.
+- FOCUS :: 水底
+
+* Sense s-2869136-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2b6e5c50ed66b6d08df9ea41e044b83fb85e26d25d89773414a6b135f79d72cb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2869136-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flussgrund
+*** en-s-2869136-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seegrund
+*** en-s-2869136-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Meeresgrund
+** Ukrainian glosses
+
+* Sense s-2869136-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3abd6882349249ac49b370a22e889541528afc220bb0b80e5a0817c739642456
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2869136-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дно (реки и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2869136-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2869136-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: みなそこ

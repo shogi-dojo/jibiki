@@ -1,0 +1,133 @@
+#+TITLE: 関守
+#+JMDICT_ID: 1811750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せきもり
+#+ROMAJI: sekimori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1811750-001
+:PROPERTIES:
+:TEXT: 関守
+:END:
+** Reading rd-1811750-001
+:PROPERTIES:
+:TEXT: せきもり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1811750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 875780165d1413afd792e64a85f9047f475a82312fba0701cc6083c7ffdfc9b1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- barrier keeper
+** Ukrainian glosses
+*** uk-s-1811750-001-001
+:PROPERTIES:
+:END:
+- text :: сторож застави; наглядач прикордонного пункту
+** Learner notes
+*** note-s-1811750-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник, утворений від 関 («застава, прикордонний пункт», 関所) та 守 («охоронець, сторож»). Позначає посадовця або вартового, який у давній Японії перевіряв подорожніх на дорожніх заставах; входить також до приказки 月日に関守なし («плин часу не спинить жодна застава»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1811750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昔の旅人は関守に手形を見せた。
+- READING :: むかしのたびびとはせきもりにてがたをみせた。
+- UK :: У давнину мандрівники показували сторожеві застави подорожню грамоту.
+- FOCUS :: 関守
+*** ex-1811750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の関所では、関守が通行人の荷物や身分を厳しく調べていた。
+- READING :: えどじだいのせきしょでは、せきもりがつうこうにんのにもつやみぶんをきびしくしらべていた。
+- UK :: На заставах доби Едо вартові суворо перевіряли багаж і документи перехожих.
+- FOCUS :: 関守
+*** ex-1811750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史資料館に復元された関所の前では、当時の衣装をまとった職員が関守役として観光客を迎えている。
+- READING :: れきししりょうかんにふくげんされたせきしょのまえでは、とうじのいしょうをまとったしょくいんがせきもりやくとしてかんこうきゃくをむかえている。
+- UK :: Перед відтвореною заставою при історичному музеї працівник у тогочасному вбранні в ролі вартового застави зустрічає туристів.
+- FOCUS :: 関守
+
+* Sense s-1811750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: be235af30465e1c3919843d2fae09342f19cbcce205d18a31fe098bca1f772b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811750-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grenzwächter
+** Ukrainian glosses
+
+* Sense s-1811750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fa5d548f97511594950bff4226d87bcb7b61ff42c8a7174dbedb6cd21caef5ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811750-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) страж заставы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1811750-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1811750-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: せきもり

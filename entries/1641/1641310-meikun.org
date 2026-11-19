@@ -1,0 +1,202 @@
+#+TITLE: 名君
+#+JMDICT_ID: 1641310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: めいくん
+#+ROMAJI: meikun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1641310-001
+:PROPERTIES:
+:TEXT: 名君
+:END:
+*** Priorities
+- news2
+- nf46
+** Written form wf-1641310-002
+:PROPERTIES:
+:TEXT: 明君
+:END:
+** Reading rd-1641310-001
+:PROPERTIES:
+:TEXT: めいくん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1641310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 70f2bee82bfefa2050a27e6ea9223fc28dc8a2612e21af745dbdafddd68ec210
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- wise ruler
+- enlightened monarch
+- benevolent lord
+** Ukrainian glosses
+*** uk-s-1641310-001-001
+:PROPERTIES:
+:END:
+- text :: мудрий правитель; освічений володар; прославлений государ
+** Learner notes
+*** note-s-1641310-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний та історичний іменник, де 名 означає «славетний, видатний» (пор. варіант написання 明君 — «світлий, мудрий»), а 君 — «володар». Позначає правителя, який дбає про добробут народу і вміло керує державою; антонім — 暗君 (нездатний правитель).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1641310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は民に愛された名君だった。
+- READING :: かれはたみにあいされためいくんだった。
+- UK :: Він був мудрим правителем, якого любив народ.
+- FOCUS :: 名君
+*** ex-1641310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史上、多くの名君が国を栄えさせた。
+- READING :: れきしじょう、おおくのめいくんがくにをさかえさせた。
+- UK :: Протягом історії багато мудрих володарів привели свої країни до розквіту.
+- FOCUS :: 名君
+*** ex-1641310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 飢饉の折に倉を開いて民を救った殿様は、後世まで名君と称えられた。
+- READING :: ききんのおりにくらをひらいてたみをすくったとのさまは、こうせいまでめいくんとたたえられた。
+- UK :: Володар, який під час голоду відкрив комори й урятував людей, уславився для нащадків як мудрий правитель.
+- FOCUS :: 名君
+
+* Sense s-1641310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c07dc76c430a6f8d7a5e3a29f81a3ad6c1f267e8689c2051b0917d326c74ebf4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1641310-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiser Fürst
+*** en-s-1641310-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: guter König
+*** en-s-1641310-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiser Herrscher
+*** en-s-1641310-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiser Herrscher
+*** en-s-1641310-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiser Fürst
+** Ukrainian glosses
+
+* Sense s-1641310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9ced9f67d80dcd9a74829120f9c7bcb6b2fc4a44169d18f5334370c49db6ac34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1641310-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) знаменитый монарх (правитель)
+*** en-s-1641310-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) мудрый монарх (правитель)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1641310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1641310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: めいくん
+** Accent accent-rd-1641310-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1641310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: めいくん

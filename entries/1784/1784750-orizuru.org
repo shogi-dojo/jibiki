@@ -1,0 +1,208 @@
+#+TITLE: 折り鶴
+#+JMDICT_ID: 1784750
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おりづる
+#+ROMAJI: orizuru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1784750-001
+:PROPERTIES:
+:TEXT: 折り鶴
+:END:
+** Written form wf-1784750-002
+:PROPERTIES:
+:TEXT: 折鶴
+:END:
+** Reading rd-1784750-001
+:PROPERTIES:
+:TEXT: おりづる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1784750-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bcc0cd7b6eba8c519114b4d91d41e0e3f29175fc01ee281fd3d566226321678d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- paper crane
+- origami crane
+** Ukrainian glosses
+*** uk-s-1784750-001-001
+:PROPERTIES:
+:END:
+- text :: паперовий журавлик; журавлик оріґамі
+** Learner notes
+*** note-s-1784750-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, складне слово від 折る («складати») та 鶴 («журавель», з одзвінченням на づる). Традиційна фігурка з паперу, що символізує мир, довголіття й надію на одужання; гірлянда з тисячі таких журавликів називається 千羽鶴 (せんばづる).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1784750-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 妹と一緒に赤い紙で折り鶴を折った。
+- READING :: いもうとといっしょにあかいかみでおりづるをおった。
+- UK :: Разом із молодшою сестрою ми склали з червоного паперу журавлика.
+- FOCUS :: 折り鶴
+*** ex-1784750-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 入院中の友人が早く元気になるように、毎日折り鶴を作っている。
+- READING :: にゅういんちゅうのゆうじんがはやくげんきになるように、まいにちおりづるをつくっている。
+- UK :: Щоб друг, який лежить у лікарні, швидше одужав, я щодня складаю паперових журавликів.
+- FOCUS :: 折り鶴
+*** ex-1784750-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平和記念公園には、国内外から届けられた色とりどりの折り鶴が捧げられている。
+- READING :: へいわきねんこうえんには、こくないがいからとどけられたいろとりどりのおりづるがささげられている。
+- UK :: У Парку миру покладено різнобарвних паперових журавликів, надісланих із країни та з-за кордону.
+- FOCUS :: 折り鶴
+
+* Sense s-1784750-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: effd76d4b1d36093e7fa234e9f3b3e95a0251b40762df82577599652d293af17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1784750-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: origami-kraanvogel
+** Ukrainian glosses
+
+* Sense s-1784750-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d9ac35f2549a57c6278a7945a587d7472e6c7aed46e52dd1b5f5127fcaccdbdb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1784750-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Jap.herald.} gestileerde origami-kraanvogel
+** Ukrainian glosses
+
+* Sense s-1784750-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3de744d38f68028f9c01ccd1b596ca15736ad1f2ce021bc39490c5fcef423b53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1784750-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gefalteter Papierkranich (als Symbol für langes Leben)
+** Ukrainian glosses
+
+* Sense s-1784750-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 98f6ad97814ad1d739b209cf9025d9e0a8cbc37525d4ca88ddd63f7d329559f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1784750-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бумажный журавль
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1784750-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1784750-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おりづる
+** Accent accent-rd-1784750-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1784750-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おりづる
+** Accent accent-rd-1784750-001-003
+:PROPERTIES:
+:TARGET_ID: rd-1784750-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おりづる

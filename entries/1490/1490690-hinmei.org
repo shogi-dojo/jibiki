@@ -1,0 +1,196 @@
+#+TITLE: 品名
+#+JMDICT_ID: 1490690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひんめい
+#+ROMAJI: hinmei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490690-001
+:PROPERTIES:
+:TEXT: 品名
+:END:
+*** Priorities
+- ichi1
+- news2
+- nf25
+** Reading rd-1490690-001
+:PROPERTIES:
+:TEXT: ひんめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf25
+
+* Sense s-1490690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d7f4c7b8ae8999cf2e446fff7c94f96a86b31a4b237a4889edf8fd6c69356100
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- product name
+- name of an article
+** Ukrainian glosses
+*** uk-s-1490690-001-001
+:PROPERTIES:
+:END:
+- text :: найменування товару; назва виробу
+** Learner notes
+*** note-s-1490690-001-001
+:PROPERTIES:
+:END:
+- UK :: Діловий і торговельний іменник, утворений із 品 («товар, виріб») та 名 («назва, ім’я»). Уживається в накладних, каталогах, чеках, поштових бланках і митних деклараціях для зазначення точної назви товару чи предмета.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1490690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 送り状に品名を書いてください。
+- READING :: おくりじょうにひんめいをかいてください。
+- UK :: Будь ласка, напишіть назву товару в накладній.
+- FOCUS :: 品名
+*** ex-1490690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 領収書には購入日と品名、金額が記載されている。
+- READING :: りょうしゅうしょにはこうにゅうびとひんめい、きんがくがきさいされている。
+- UK :: У квитанції зазначено дату купівлі, найменування товару та суму.
+- FOCUS :: 品名
+*** ex-1490690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外へ荷物を発送する際は、税関で止められないよう正確な品名を英語で記入する必要がある。
+- READING :: かいがいへにもつをはっそうするさいは、ぜいかんでとめられないようせいかくなひんめいをえいごできにゅうするひつようがある。
+- UK :: Відправляючи посилку за кордон, потрібно зазначити точну назву товару англійською мовою, щоб відправлення не затримали на митниці.
+- FOCUS :: 品名
+
+* Sense s-1490690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 66fee36807da4876a18e376e9088193cdfd113090aba4b3129cfd59c4c9e461a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490690-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nom de produit
+** Ukrainian glosses
+
+* Sense s-1490690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bf914d0f2cfe106a8eb2ed434723bc43e35678fd453d10d15edbf0166fdaa254
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490690-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Produktname
+** Ukrainian glosses
+
+* Sense s-1490690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 267073fe6f5ad2239c31e3cd924737715501bd863cf6f2528ea32ddf7696fc88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490690-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: наименование [товара]
+** Ukrainian glosses
+
+* Sense s-1490690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5301f2e3154360a7bbe97dc22d6d278c68dcf6611d80f7caf3b07a1377e55a4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490690-005-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ime izdelka
+** Ukrainian glosses
+
+* Sense s-1490690-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 4f8e4a431f65d359f2227cc372199fde4d2b1e8cb045ed944a65d037baf30561
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490690-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre de un producto
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1490690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1490690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひんめい

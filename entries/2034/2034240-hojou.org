@@ -1,0 +1,153 @@
+#+TITLE: 圃場
+#+JMDICT_ID: 2034240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほじょう
+#+ROMAJI: hojou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2034240-001
+:PROPERTIES:
+:TEXT: 圃場
+:END:
+** Written form wf-2034240-002
+:PROPERTIES:
+:TEXT: ほ場
+:END:
+** Reading rd-2034240-001
+:PROPERTIES:
+:TEXT: ほじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2034240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2bb7867c775481aa658cbbc94aec74a3280367ce4c4741c8f3bbd9aaf059b58a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cultivated land (field, garden, orchard, etc.)
+** Ukrainian glosses
+*** uk-s-2034240-001-001
+:PROPERTIES:
+:END:
+- text :: сільськогосподарські угіддя; орне поле; оброблена ділянка
+** Learner notes
+*** note-s-2034240-001-001
+:PROPERTIES:
+:END:
+- UK :: Аграрний і офіційний термін, утворений із 圃 (город, садова ділянка) і 場 (місце, поле); через відсутність ієрогліфа 圃 у базовому списку 常用漢字 у документах і новинах часто пишуть ほ場. Позначає поля, городи, теплиці чи дослідні ділянки для вирощування культур.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2034240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 広い圃場で野菜を育てている。
+- READING :: ひろいほじょうでやさいをそだてている。
+- UK :: На великих сільськогосподарських угіддях вирощують овочі.
+- FOCUS :: 圃場
+*** ex-2034240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 農業試験場の圃場で、新しい品種の栽培調査が進められている。
+- READING :: のうぎょうしけんじょうのほじょうで、あたらしいひんしゅのさいばいちょうさがすすめられている。
+- UK :: На дослідних полях сільськогосподарської станції тривають випробування з вирощування нового сорту.
+- FOCUS :: 圃場
+*** ex-2034240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 効率的な農業を実現するため、水はけを改善する圃場整備事業が地域全体で実施された。
+- READING :: こうりつてきなのうぎょうをじつげんするため、みずはけをかいぜんするほじょうせいびじぎょうがちいきぜんたいでじっしされた。
+- UK :: Щоб зробити сільське господарство ефективнішим, у всьому регіоні провели роботи з облаштування угідь для поліпшення дренажу.
+- FOCUS :: 圃場
+
+* Sense s-2034240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 030f27729ed6d989a07aedad140d623b6c9d66e74cee02e88b549778272d1945
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2034240-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Acker
+*** en-s-2034240-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feld
+*** en-s-2034240-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ackerfeld
+** Ukrainian glosses
+
+* Sense s-2034240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d0dbeb83b89646e25d3886a874a110d72434fccbe314d7389aca3e26e938f73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2034240-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: огород
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2034240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2034240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ほじょう

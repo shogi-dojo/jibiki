@@ -1,0 +1,182 @@
+#+TITLE: シフォン
+#+JMDICT_ID: 1061090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: シフォン
+#+ROMAJI: shifon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1061090-001
+:PROPERTIES:
+:TEXT: シフォン
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1061090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ce583294a73177d12cbafb0eda2e7a1f9908e94d973d9e7e0b2da7ffc7b7d7de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+*** Language sources
+**** Language source ls-s-1061090-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- chiffon
+** Ukrainian glosses
+*** uk-s-1061090-001-001
+:PROPERTIES:
+:END:
+- text :: шифон (тканина); шифоновий; бісквіт «шифон»
+** Learner notes
+*** note-s-1061090-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і но-прикметник, запозичений із французького chiffon («тонка прозора тканина»). Передусім позначає легку напівпрозору шовкову або синтетичну тканину (напр., シフォンのブラウス — «шифонова блузка»), а в кулінарії також уживається як скорочення від シフォンケーキ («шифоновий бісквіт»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1061090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 母はシフォンのスカーフを買いました。
+- READING :: はははしふぉんのすかーふをかいました。
+- UK :: Мама купила шифоновий шарф.
+- FOCUS :: シフォン
+*** ex-1061090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春らしい淡い色のシフォンで作られたワンピースがよく似合っている。
+- READING :: はるらしいあわいいろのしふぉんでつくられたわんぴーすがよくにあっている。
+- UK :: Тобі дуже пасує сукня з ніжного весняного шифону пастельного відтінку.
+- FOCUS :: シフォン
+*** ex-1061090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 風を受けるとふわりと揺れるシフォンのスカートは、夏の装いに軽やかな印象を与えてくれる。
+- READING :: かぜをうけるとふわりとゆれるしふぉんのすかーとは、なつのよそおいにかろやかないんしょうをあたえてくれる。
+- UK :: Шифонова спідниця, яка легко майорить на вітрі, додає літньому вбранню повітряної легкості.
+- FOCUS :: シフォン
+
+* Sense s-1061090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3b6dfcab35d8c39f3f1d6fcee8763c8dafdcd79e7cb4e241c9c741563038cb2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1061090-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chiffon
+** Ukrainian glosses
+
+* Sense s-1061090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 74a51c49389b453c709697128730507e0e9c064d2303aecf87f6d96b9b1c150b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1061090-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fehéráru
+*** en-s-1061090-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sifon
+** Ukrainian glosses
+
+* Sense s-1061090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9a6fa3795fe74af5a619d19f1de4a1a414d5cfabb7cf8580980f6a0d4e9c80f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1061090-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((фр.) chiffon) шифон (ткань)
+** Ukrainian glosses
+
+* Sense s-1061090-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e095890234e328fcf08a4efe69080ac6b0493234dff5a8a6b7d77ba93da15cac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1061090-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chiffong
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1061090-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1061090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: シフォン

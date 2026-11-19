@@ -1,0 +1,140 @@
+#+TITLE: 鉄道網
+#+JMDICT_ID: 1661560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てつどうもう
+#+ROMAJI: tetsudoumou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1661560-001
+:PROPERTIES:
+:TEXT: 鉄道網
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1661560-001
+:PROPERTIES:
+:TEXT: てつどうもう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1661560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 07f10f49122639e9a27e62acbb1d653a5d37cef1793cc9962dc39fbc0ecb0f5b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- railroad network
+- railroad system
+** Ukrainian glosses
+*** uk-s-1661560-001-001
+:PROPERTIES:
+:END:
+- text :: залізнична мережа; система залізниць
+** Learner notes
+*** note-s-1661560-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Позначає розгалужену систему залізничних ліній, що охоплює певне місто, регіон або всю країну. Утворюється з 鉄道 (залізниця) та продуктивного суфікса 網 (～もう — сітка, мережа, як у 道路網 — дорожня мережа чи 通信網 — телекомунікаційна мережа).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1661560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 東京の鉄道網はとても発達しています。
+- READING :: とうきょうのてつどうもうはとてもはったつしています。
+- UK :: Залізнична мережа Токіо дуже розвинена.
+- FOCUS :: 鉄道網
+*** ex-1661560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地域では高速道路だけでなく鉄道網の整備も着実に進んでいる。
+- READING :: このちいきではこうそくどうろだけでなくてつどうもうのせいびもちゃくじつにすすんでいる。
+- UK :: У цьому регіоні неухильно розвивається не лише мережа швидкісних автодоріг, а й залізнична мережа.
+- FOCUS :: 鉄道網
+*** ex-1661560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全国に張り巡らされた緻密な鉄道網は、日本の高度経済成長を物流と通勤の両面から支えた。
+- READING :: ぜんこくにはりめぐらされたちみつなてつどうもうは、にほんのこうどけいざいせいちょうをぶつりゅうとつうきんのりょうめんからささえた。
+- UK :: Щільна залізнична мережа, розкинута по всій країні, підтримувала стрімке економічне зростання Японії як у сфері перевезення вантажів, так і для щоденних поїздок на роботу.
+- FOCUS :: 鉄道網
+
+* Sense s-1661560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b7a036a3bd9a5261fbe8e5798d3c1ba71112361da1a518fd4fd134ee6061038c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1661560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenbahnnetz
+** Ukrainian glosses
+
+* Sense s-1661560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1116d0e732741133f376adeb764fcb1d6d73e71b0a19c22f670855e8c4f437af
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1661560-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: железнодорожная сеть
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1661560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1661560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: てつどうもう

@@ -1,0 +1,152 @@
+#+TITLE: 反対給付
+#+JMDICT_ID: 1680220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんたいきゅうふ
+#+ROMAJI: hantaikyuufu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1680220-001
+:PROPERTIES:
+:TEXT: 反対給付
+:END:
+** Reading rd-1680220-001
+:PROPERTIES:
+:TEXT: はんたいきゅうふ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1680220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: de8b56e3f51648d54c36b73a1e309bd040c6f5a9bbabc321af63e1356539af8c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- performance in return
+- quid pro quo
+** Ukrainian glosses
+*** uk-s-1680220-001-001
+:PROPERTIES:
+:END:
+- text :: зустрічне надання; зустрічне зобов'язання; еквівалентна компенсація
+** Learner notes
+*** note-s-1680220-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний та економічний термін, утворений із 反対 (протилежний, зустрічний) та 給付 (надання, виконання). Позначає товар, послугу або платіж, які одна сторона договору надає у відповідь на виконання зобов'язань іншою стороною.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1680220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 売買契約では、代金の支払いが反対給付にあたります。
+- READING :: ばいばいけいやくでは、だいきんのしはらいがはんたいきゅうふにあたります。
+- UK :: У договорі купівлі-продажу оплата вартості товару є зустрічним наданням.
+- FOCUS :: 反対給付
+*** ex-1680220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 相手からの十分な反対給付がなければ、この取引は成立しない。
+- READING :: あいてからのじゅうぶんなはんたいきゅうふがなければ、このとりひきはせいりつしない。
+- UK :: Без належного зустрічного надання з боку контрагента ця угода не відбудеться.
+- FOCUS :: 反対給付
+*** ex-1680220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 双務契約においては、双方の給付と反対給付が均衡を保つことが重要視される。
+- READING :: そうむけいやくにおいては、そうほうのきゅうふとはんたいきゅうふがきんこうをたもつことがじゅうようしされる。
+- UK :: У двосторонніх договорах важливе значення надається рівновазі між виконанням зобов'язання та зустрічним наданням обох сторін.
+- FOCUS :: 反対給付
+
+* Sense s-1680220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a487bf6c3a1904dc35239e0d128d5d95401fa1b80a48aba9a2a77b1b402c089a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gegenleistung
+** Ukrainian glosses
+
+* Sense s-1680220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 57372ea39e2e28b75231c32a8f91e8ebc58c3efe6badf4dc7e0cd0ad97326665
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680220-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ellenszolgáltatás
+** Ukrainian glosses
+
+* Sense s-1680220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 604b452dbd55a5cbdb5a8671164c14ddffd360e3c9d3d011be9c8e4a31a609a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680220-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эк.) встречное предоставление
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1680220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1680220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はんたいきゅうふ

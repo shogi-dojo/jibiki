@@ -1,0 +1,173 @@
+#+TITLE: ギルド
+#+JMDICT_ID: 1043230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ギルド
+#+ROMAJI: girudo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1043230-001
+:PROPERTIES:
+:TEXT: ギルド
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1043230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a96fd83d04a9a0cce42ce955387ce0800b536f22cbe15bcc3468e6c74b527bd9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- guild
+** Ukrainian glosses
+*** uk-s-1043230-001-001
+:PROPERTIES:
+:END:
+- text :: гільдія; цехове об'єднання
+** Learner notes
+*** note-s-1043230-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, запозичений з англійської мови (guild). Позначає середньовічне професійне чи купецьке об'єднання в Європі (наприклад, 商人ギルド — купецька гільдія), а в сучасній культурі — угруповання або спілку гравців у рольових та онлайн-іграх.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1043230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 姉はオンラインゲームで新しいギルドに入りました。
+- READING :: あねはおんらいんげーむであたらしいぎるどにはいりました。
+- UK :: Старша сестра вступила до нової гільдії в онлайн-грі.
+- FOCUS :: ギルド
+*** ex-1043230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 中世ヨーロッパの都市では、職人のギルドが強い力を持っていた。
+- READING :: ちゅうせいよーろっぱのとしでは、しょくにんのぎるどがつよいちからをもっていた。
+- UK :: У середньовічних європейських містах гільдії ремісників мали великий вплив.
+- FOCUS :: ギルド
+*** ex-1043230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつての商業都市では、同業者の利益や技術の秘密を守るため、ギルドへの加入が厳格に管理されていた。
+- READING :: かつてのしょうぎょうとしでは、どうぎょうしゃのりえきやぎじゅつのひみつをまもるため、ぎるどへのかにゅうがげんかくにかんりされていた。
+- UK :: У давніх торговельних містах вступ до гільдій суворо регулювався, щоб захистити інтереси представників однієї справи та зберегти фахові секрети.
+- FOCUS :: ギルド
+
+* Sense s-1043230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e10149e91eaa552dfaf5c0f585585d14ef8c1ed5aca1930b0e2691c52e570470
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1043230-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gilde
+** Ukrainian glosses
+
+* Sense s-1043230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 175fdca7173b26de6ffb346e1ee32cc282088eb04a0f0837768318d67b53850d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1043230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gilde
+*** en-s-1043230-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zunft
+** Ukrainian glosses
+
+* Sense s-1043230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 616046f9bbb1193d798a2ae23b6eead1360b1f2c63238deeb0cc79f6c6de6081
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1043230-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: céh
+** Ukrainian glosses
+
+* Sense s-1043230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 78994546707e549829e01af673cda67e08dd21a19e37d622055b6986323e6f93
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1043230-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) guild) гильдия
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1043230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1043230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ギルド

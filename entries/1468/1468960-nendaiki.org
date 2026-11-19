@@ -1,0 +1,153 @@
+#+TITLE: 年代記
+#+JMDICT_ID: 1468960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねんだいき
+#+ROMAJI: nendaiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1468960-001
+:PROPERTIES:
+:TEXT: 年代記
+:END:
+** Reading rd-1468960-001
+:PROPERTIES:
+:TEXT: ねんだいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1468960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 86b89f8f13bde466baa1df2c6f7222cc401ed506c0dd3a0e843e86213a95ae72
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- annals
+- chronicle
+- chronology
+** Ukrainian glosses
+*** uk-s-1468960-001-001
+:PROPERTIES:
+:END:
+- text :: літопис, хроніка, аннали
+** Learner notes
+*** note-s-1468960-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник від 年代 («епоха, роки») та 記 («запис, хроніка»), що позначає історичний виклад подій у хронологічній послідовності. Вживається як щодо давніх історичних джерел, так і в назвах масштабних художніх циклів на кшталт «хронік».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1468960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 図書館で古い年代記を読みました。
+- READING :: としょかんでふるいねんだいきをよみました。
+- UK :: У бібліотеці я читав старий літопис.
+- FOCUS :: 年代記
+*** ex-1468960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この年代記には、王国の興亡が年ごとに詳しく記されている。
+- READING :: このねんだいきには、おうこくのこうぼうがとしごとにくわしくしるされている。
+- UK :: У цій хроніці по роках докладно описано піднесення й занепад королівства.
+- FOCUS :: 年代記
+*** ex-1468960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 発掘された文書と中世の年代記を照合することで、当時の正確な日付が判明した。
+- READING :: はっくつされたぶんしょとちゅうせいのねんだいきをしょうごうすることで、とうじのせいかくなひづけがはんめいした。
+- UK :: Зіставивши віднайдені документи із середньовічним літописом, вдалося встановити точні дати тих подій.
+- FOCUS :: 年代記
+
+* Sense s-1468960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0007750c72d818df1ebea520beafead28cae9417ec7f74418bf7d5f0274c8871
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chronik
+** Ukrainian glosses
+
+* Sense s-1468960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 170ea8d8f4778374a1b4e9b1a30ed85948f1d9f9e6287f7999ecaead6806a150
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468960-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: évkönyvek
+** Ukrainian glosses
+
+* Sense s-1468960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 63e7714bc1efc7ec65f97544a7c5942c790630ec9796d6917bd99681b5d767be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468960-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: летопись, хроника, анналы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1468960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1468960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ねんだいき

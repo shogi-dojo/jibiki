@@ -1,0 +1,161 @@
+#+TITLE: 普通列車
+#+JMDICT_ID: 1497290
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふつうれっしゃ
+#+ROMAJI: futsuuressha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1497290-001
+:PROPERTIES:
+:TEXT: 普通列車
+:END:
+** Reading rd-1497290-001
+:PROPERTIES:
+:TEXT: ふつうれっしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1497290-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0385e2c3e7883feea90181877f103a1b9c6356fd5bc9ad76f0820649999c0058
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- regular train
+- local train
+- train that stops at every station
+** Ukrainian glosses
+*** uk-s-1497290-001-001
+:PROPERTIES:
+:END:
+- text :: звичайний поїзд; приміський поїзд (зі зупинками на кожній станції)
+** Learner notes
+*** note-s-1497290-001-001
+:PROPERTIES:
+:END:
+- UK :: Залізничний термін, утворений із 普通 («звичайний») та 列車 («поїзд»). Позначає потяг, який зупиняється на всіх станціях маршруту без додаткової доплати, на відміну від швидких і експрес-поїздів (快速, 急行, 特急); у розмовній мові часто вживають також 各駅停車 або скорочено 普通.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1497290-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この駅には普通列車だけが止まります。
+- READING :: このえきにはふつうれっしゃだけがとまります。
+- UK :: На цій станції зупиняються лише звичайні поїзди.
+- FOCUS :: 普通列車
+*** ex-1497290-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 急いでいなかったので、のんびり普通列車に乗って景色を楽しんだ。
+- READING :: いそいでいなかったので、のんびりふつうれっしゃにのってけしきをたのしんだ。
+- UK :: Оскільки я не поспішав, то сів на звичайний поїзд і неквапливо милувався краєвидами.
+- FOCUS :: 普通列車
+*** ex-1497290-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 乗り換え案内で調べたところ、次の普通列車を使えば待ち時間なしで目的地に着けることが分かった。
+- READING :: のりかえあんないでしらべたところ、つぎのふつうれっしゃをつかえばまちじかんなしでもくてきちにつけることがわかった。
+- UK :: Коли я перевірив розклад пересадок, то виявилося, що наступним звичайним поїздом можна дістатися місця призначення без жодного очікування.
+- FOCUS :: 普通列車
+
+* Sense s-1497290-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ef728a9655bf027fa7c3c2e53adcdae4bff5d0ab73303c3043d5345c1397dac3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1497290-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Personenzug
+*** en-s-1497290-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nahverkehrszug (mit Halt an jeder Station)
+** Ukrainian glosses
+
+* Sense s-1497290-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 092b082b721e2e44d8b1dc74c48d2eeafa60ffc3b31a3c9dbfa5cf74b5c47634
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1497290-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: normaler, nach Fahrplan verkehrender Zug
+** Ukrainian glosses
+
+* Sense s-1497290-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c5d3100cbfa9381803a109060e542ba7f484f83bb0bb37c05f572b8afea82076
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1497290-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пассажирский поезд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1497290-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1497290-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ふつうれっしゃ

@@ -1,0 +1,256 @@
+#+TITLE: 星雲
+#+JMDICT_ID: 1376320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいうん
+#+ROMAJI: seiun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1376320-001
+:PROPERTIES:
+:TEXT: 星雲
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1376320-001
+:PROPERTIES:
+:TEXT: せいうん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1376320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ebb3c82f1ed87d33f07806d0c4d92340acea2fbcc48dc8eb063bb6b988ecc1ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- astron
+** English glosses
+- nebula
+** Ukrainian glosses
+*** uk-s-1376320-001-001
+:PROPERTIES:
+:END:
+- text :: туманність
+** Learner notes
+*** note-s-1376320-001-001
+:PROPERTIES:
+:END:
+- UK :: Астрономічний термін, утворений з ієрогліфів 星 (зірка) та 雲 (хмара), що позначає скупчення міжзоряного газу й пилу. У науково-популярних текстах трапляються назви на зразок オリオン大星雲 (Велика туманність Оріона) чи 散光星雲 (дифузна туманність).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1376320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 望遠鏡で美しい星雲を見た。
+- READING :: ぼうえんきょうでうつくしいせいうんをみた。
+- UK :: Я побачив у телескоп красиву туманність.
+- FOCUS :: 星雲
+*** ex-1376320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい宇宙望遠鏡が遠い星雲の写真を撮影した。
+- READING :: あたらしいうちゅうぼうえんきょうがとおいせいうんのしゃしんをさつえいした。
+- UK :: Новий космічний телескоп зробив знімок далекої туманності.
+- FOCUS :: 星雲
+*** ex-1376320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては星雲と呼ばれていた天体の中に、実は独立した銀河が含まれていた。
+- READING :: かつてはせいうんとよばれていたてんたいのなかに、じつはどくりつしたぎんががふくまれていた。
+- UK :: Серед небесних тіл, які колись називали туманностями, насправді були й окремі галактики.
+- FOCUS :: 星雲
+
+* Sense s-1376320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df8179c9e8de2af61c30a64f3cb60616582e2098ebce4509fd4a31bc800ab146
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- astron
+*** Miscellaneous and register
+- obs
+*** Cross-references
+- 銀河・2
+** English glosses
+- galaxy
+** Ukrainian glosses
+*** uk-s-1376320-002-001
+:PROPERTIES:
+:END:
+- text :: галактика
+** Learner notes
+*** note-s-1376320-002-001
+:PROPERTIES:
+:END:
+- UK :: Застаріле астрономічне вживання з часів, коли далекі зоряні системи ще не відрізняли від туманностей (наприклад, давніша назва アンドロメダ星雲 для сучасної アンドロメダ銀河 — галактики Андромеди). У сучасній науці для цього використовують слово 銀河.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1376320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a79440f501303d4d19c6a036af7b13bea36ba5c11a1f82b5900fa29d49c6de5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1376320-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {astron.} nevel
+** Ukrainian glosses
+
+* Sense s-1376320-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 549f66d73d4d165d2bfcb2f3486a6aeb741e91a2eb213ac52e5d9e757e8d7a78
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1376320-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebel
+*** en-s-1376320-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Galaxie
+** Ukrainian glosses
+
+* Sense s-1376320-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5ee0a388c67b349b7babfeff7e236d0649dd2725669ae915174d14e31f7db61d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1376320-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csillagköd
+*** en-s-1376320-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ködfátyol
+*** en-s-1376320-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ködfolt
+** Ukrainian glosses
+
+* Sense s-1376320-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 3774e7b0a767bc844cbc15d46e124927ba43ca1bec8afbeffcce962e23e30656
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1376320-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (астр.) туманность
+** Ukrainian glosses
+
+* Sense s-1376320-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 96bfe26fcd9580fc63a494f46a22ae25c38fc3d1e3208ded75267087105e9d8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1376320-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nebulosa
+*** en-s-1376320-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: galaxia
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1376320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1376320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: せいうん

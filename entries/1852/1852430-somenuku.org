@@ -1,0 +1,168 @@
+#+TITLE: 染め抜く
+#+JMDICT_ID: 1852430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そめぬく
+#+ROMAJI: somenuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1852430-001
+:PROPERTIES:
+:TEXT: 染め抜く
+:END:
+** Reading rd-1852430-001
+:PROPERTIES:
+:TEXT: そめぬく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1852430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a9f0e75b9f9cf72d98b5f5e2d746a596daa10ed59fc4f37e9ff20511dcf3ca4e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+** English glosses
+- to leave undyed
+- to dye partly (leaving some base colour)
+** Ukrainian glosses
+*** uk-s-1852430-001-001
+:PROPERTIES:
+:END:
+- text :: залишати незафарбованим (візерунок), вибірково фарбувати
+** Learner notes
+*** note-s-1852430-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятої відміни (五段); у текстильній справі означає техніку фарбування тканини так, щоб певні мотиви (наприклад, родинний герб 家紋 або літери) залишалися білими чи фоновими на кольоровому тлі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1852430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 職人が布をきれいに染め抜く。
+- READING :: しょくにんがぬのをきれいにそめぬく。
+- UK :: Майстер гарно фарбує тканину.
+- FOCUS :: 染め抜く
+*** ex-1852430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家紋を白く染め抜いた着物は、とても品がある。
+- READING :: かもんをしろくそめぬいたきものは、とてもひんがある。
+- UK :: Кімоно з білим незафарбованим родинним гербом має дуже шляхетний вигляд.
+- FOCUS :: 染め抜いた
+*** ex-1852430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 藍で糸の芯まで染め抜けば、何度洗っても深い色合いが保たれる。
+- READING :: あいでいとのしんまでそめぬけば、なんどあらってもふかいいろあいがたもたれる。
+- UK :: Якщо глибоко профарбувати нитки індиго до самої серцевини, навіть після багаторазового прання збережеться насичений відтінок.
+- FOCUS :: 染め抜けば
+
+* Sense s-1852430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c29780f5db13e34ed022a6d800dbbd232d682e6c5598231cdb5d6e87b692f3d5
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+** English glosses
+- to heavily and completely dye
+- to dye fast
+** Ukrainian glosses
+*** uk-s-1852430-002-001
+:PROPERTIES:
+:END:
+- text :: густо й стійко фарбувати, глибоко профарбовувати
+** Learner notes
+*** note-s-1852430-002-001
+:PROPERTIES:
+:END:
+- UK :: Складне дієслово з основою 染める і допоміжним 抜く (довести дію до кінця); підкреслює повне, рівномірне й тривке просочення тканини або ниток фарбою.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1852430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7b6cab6e209923299907052308e1f1b7114d4c3ee7c50355dace59187cecc6b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1852430-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: batiken
+*** en-s-1852430-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Muster einfärben
+** Ukrainian glosses
+
+* Sense s-1852430-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8ac637a99325e86789e2b4e01b670a8321d30f85a2e279aef0ec15aeba94d572
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1852430-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: окрашивать в пряже; прочно пропитывать краской
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1852430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1852430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: そめぬく

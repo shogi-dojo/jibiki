@@ -1,0 +1,144 @@
+#+TITLE: 代休
+#+JMDICT_ID: 1411780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: だいきゅう
+#+ROMAJI: daikyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1411780-001
+:PROPERTIES:
+:TEXT: 代休
+:END:
+** Reading rd-1411780-001
+:PROPERTIES:
+:TEXT: だいきゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1411780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f1658b7489dc215a561ad81f921569838688655b49befe31926d8df32ff63071
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+** English glosses
+- compensatory holiday (for working on a day off)
+- time in lieu
+** Ukrainian glosses
+*** uk-s-1411780-001-001
+:PROPERTIES:
+:END:
+- text :: відгул, додатковий вихідний (за роботу у вихідний чи святковий день)
+** Learner notes
+*** note-s-1411780-001-001
+:PROPERTIES:
+:END:
+- UK :: Скорочений іменник від 代償休日 або 代替休暇, широко вживаний у діловому та повсякденному мовленні. Позначає вихідний день, який працівник бере на заміну роботи у вихідний, зазвичай у виразах 代休を取る («взяти відгул») чи 代休を申請する.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1411780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先週の日曜日に働いたので、明日代休を取ります。
+- READING :: せんしゅうのにちようびにはたらいたので、あしただいきゅうをとります。
+- UK :: Оскільки я працював минулої неділі, завтра візьму відгул.
+- FOCUS :: 代休
+*** ex-1411780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 忙しい時期が続いており、なかなか代休を取ることができない。
+- READING :: いそがしいじきがつづいており、なかなかだいきゅうをとることができない。
+- UK :: Напружений період триває, і ніяк не вдається взяти відгул.
+- FOCUS :: 代休
+*** ex-1411780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 休日出勤をした社員には、原則として同じ月内に代休を取得するよう会社が推奨している。
+- READING :: きゅうじつしゅっきんをしたしゃいんには、げんそくとしておなじつきないにだいきゅうをしゅとくするようかいしゃがすいしょうしている。
+- UK :: Працівникам, які виходили на роботу у вихідний день, компанія зазвичай рекомендує використати відгул у межах того самого місяця.
+- FOCUS :: 代休
+
+* Sense s-1411780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d393957c0a650f28f6dcddfdda0eafa195ff3661f6950320be3765688eb904de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ersatzruhetag
+*** en-s-1411780-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausgleichstag für Arbeit an Ruhetagen
+** Ukrainian glosses
+
+* Sense s-1411780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 187188e86bbcd67e44a94da2d7455a9c123a8908ed3eaa0732978d9fc0e97b41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отгул
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1411780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1411780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: だいきゅう

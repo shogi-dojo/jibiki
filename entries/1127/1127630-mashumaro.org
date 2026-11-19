@@ -1,0 +1,185 @@
+#+TITLE: マシュマロ
+#+JMDICT_ID: 1127630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: マシュマロ
+#+ROMAJI: mashumaro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1127630-001
+:PROPERTIES:
+:TEXT: マシュマロ
+:NO_KANJI: false
+:END:
+** Reading rd-1127630-002
+:PROPERTIES:
+:TEXT: マシマロ
+:NO_KANJI: false
+:END:
+*** Information
+- rk
+
+* Sense s-1127630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 79cff63be3e24207f44d633c373449b0660111ae873407ab31e960095da004c8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- marshmallow
+** Ukrainian glosses
+*** uk-s-1127630-001-001
+:PROPERTIES:
+:END:
+- text :: маршмелоу; повітряний зефір
+** Learner notes
+*** note-s-1127630-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, запозичення з англійської (marshmallow); інколи трапляється старіший варіант マシマロ. В Японії підсмажений маршмелоу часто їдять біля вогнища під час кемпінгу, а також додають у гарячий шоколад або використовують у кондитерських виробах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1127630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ココアにマシュマロを浮かべる。
+- READING :: ここあにましゅまろをうかべる。
+- UK :: Покласти маршмелоу в какао.
+- FOCUS :: マシュマロ
+*** ex-1127630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 焚き火で焼いたマシュマロは外がカリッとしておいしい。
+- READING :: たきびでやいたましゅまろはそとがかりっとしておいしい。
+- UK :: Підсмажений на багатті маршмелоу хрусткий зовні й дуже смачний.
+- FOCUS :: マシュマロ
+*** ex-1127630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 子どもたちはキャンプの夜に串へ刺したマシュマロをあぶって楽しんだ。
+- READING :: こどもたちはきゃんぷのよるにくしへさしたましゅまろをあぶってたのしんだ。
+- UK :: Увечері під час кемпінгу діти із задоволенням підсмажували на паличках маршмелоу.
+- FOCUS :: マシュマロ
+
+* Sense s-1127630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6ce66bc4624429f7c1c8773f6b95d5a21d8e5b1b2fed7e3d6ee95a621c90ab2a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1127630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Marshmallow (weiche Süßigkeit aus Zucker, Eiweiß, Gelatine u.a.)
+** Ukrainian glosses
+
+* Sense s-1127630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a23acf93aeb8a6824d67e4244008eeffc927225caa0a1ff552f22419720d49ad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1127630-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fehérmályva
+*** en-s-1127630-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mályvacukor
+*** en-s-1127630-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: orvosi ziliz
+** Ukrainian glosses
+
+* Sense s-1127630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 438fa090a84797802dd17c92ef292160f16eb8d74eafce6a47fa1cbcf82c268e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1127630-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) marshmallow) (вид пастилы.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1127630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1127630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: マシュマロ
+** Accent accent-rd-1127630-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1127630-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: マシマロ

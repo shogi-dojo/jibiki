@@ -1,0 +1,174 @@
+#+TITLE: 任地
+#+JMDICT_ID: 1467240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にんち
+#+ROMAJI: ninchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1467240-001
+:PROPERTIES:
+:TEXT: 任地
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1467240-001
+:PROPERTIES:
+:TEXT: にんち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1467240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b29020b8cf7c4d426b56dfd8b31a30be5746cc41e27ad5515b9801fcf251cd17
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's place of appointment
+- one's post
+** Ukrainian glosses
+*** uk-s-1467240-001-001
+:PROPERTIES:
+:END:
+- text :: місце призначення, місце служби; посада
+** Learner notes
+*** note-s-1467240-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник утворено з 任 («призначення, обов'язок») та 地 («місце, земля»). Позначає місто, регіон або установу, куди працівника, службовця чи дипломата направили на роботу, і часто вживається у зворотах на кшталт 任地に赴く («вирушити до місця служби»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1467240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 来月、新しい任地へ行きます。
+- READING :: らいげつ、あたらしいにんちへいきます。
+- UK :: Наступного місяця я їду до нового місця служби.
+- FOCUS :: 任地
+*** ex-1467240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 父は転勤のため、家族と離れて単身で任地に赴いた。
+- READING :: ちちはてんきんのため、かぞくとはなれてたんしんでにんちにおもむいた。
+- UK :: Через переведення по службі батько вирушив до місця призначення сам, окремо від родини.
+- FOCUS :: 任地
+*** ex-1467240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 見知らぬ土地であっても、新しい任地に早く慣れて地域の人々と打ち解けたい。
+- READING :: みしらぬとちであっても、あたらしいにんちにはやくなれてちいきのひとびととうちとけたい。
+- UK :: Хоч це й незнайомий край, я хочу якнайшвидше звикнути до нового місця служби та зблизитися з місцевими жителями.
+- FOCUS :: 任地
+
+* Sense s-1467240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1f6a2b8d39ea44f0fe5a9d61a4fc6b334e8db816e05e88615a132f50c071b9e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467240-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Posten
+*** en-s-1467240-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amt
+** Ukrainian glosses
+
+* Sense s-1467240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9a4ba42fac7135cb2f525b3e17507ad7c6be668384e55699c2927dd549b12199
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467240-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megbeszélés
+*** en-s-1467240-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megbeszélt időpont
+** Ukrainian glosses
+
+* Sense s-1467240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 51ad250e6c3ced3b6fa13eee4d409fcca4ead66349e4801e76dc9aa595a7b8ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467240-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: место службы (назначения)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1467240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1467240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: にんち

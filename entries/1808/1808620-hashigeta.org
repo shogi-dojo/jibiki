@@ -1,0 +1,163 @@
+#+TITLE: 橋桁
+#+JMDICT_ID: 1808620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はしげた
+#+ROMAJI: hashigeta
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1808620-001
+:PROPERTIES:
+:TEXT: 橋桁
+:END:
+** Written form wf-1808620-002
+:PROPERTIES:
+:TEXT: 橋げた
+:END:
+** Reading rd-1808620-001
+:PROPERTIES:
+:TEXT: はしげた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1808620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 676c6516b4bb834c63794c0d29d1495387dd8979b714ca00276cd152a488bac7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bridge girder
+** Ukrainian glosses
+*** uk-s-1808620-001-001
+:PROPERTIES:
+:END:
+- text :: прогінна балка мосту; мостова балка
+** Learner notes
+*** note-s-1808620-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник з інженерно-будівельної лексики, утворений від 橋 (міст) та 桁 (балка, перекладина). Позначає горизонтальну несну конструкцію мосту, що спирається на опори (橋脚) і тримає проїзну частину.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1808620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大きな橋桁が見える。
+- READING :: おおきなはしげたがみえる。
+- UK :: Видно велику мостову балку.
+- FOCUS :: 橋桁
+*** ex-1808620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 作業員が古い橋桁の点検を行っている。
+- READING :: さぎょういんがふるいはしげたのてんけんをおこなっている。
+- UK :: Робітники проводять огляд старої мостової балки.
+- FOCUS :: 橋桁
+*** ex-1808620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい増水で川の橋桁が流されないか心配されている。
+- READING :: はげしいぞうすいでかわのはしげたがながされないかしんぱいされている。
+- UK :: Є побоювання, що через сильне підняття води балку річкового мосту може знести.
+- FOCUS :: 橋桁
+
+* Sense s-1808620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 306ce6c50831a03d49faa9f79ddba6921eeb50ba6670d9d18f3731a916375eec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1808620-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brugbalk
+*** en-s-1808620-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brugligger
+** Ukrainian glosses
+
+* Sense s-1808620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 99f94a6131435f88aa5c5580643ce60243dfe037e56ba990fa1c9ad872292098
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1808620-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brückenträger
+** Ukrainian glosses
+
+* Sense s-1808620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 80aac0fbead65cb8e4180cdad9283452b90e94ad38d5165a52e918852b5341bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1808620-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: мостовая ферма (балка)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1808620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1808620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はしげた

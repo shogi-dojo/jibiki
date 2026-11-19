@@ -1,0 +1,174 @@
+#+TITLE: 美声
+#+JMDICT_ID: 1724890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: びせい
+#+ROMAJI: bisei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1724890-001
+:PROPERTIES:
+:TEXT: 美声
+:END:
+*** Priorities
+- news2
+- nf30
+** Reading rd-1724890-001
+:PROPERTIES:
+:TEXT: びせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1724890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d4133365eba2290ee0f4bca66eefa083398914f2ae2c5d99d621feef05369f88
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- beautiful voice
+** Ukrainian glosses
+*** uk-s-1724890-001-001
+:PROPERTIES:
+:END:
+- text :: гарний голос, милозвучний голос
+** Learner notes
+*** note-s-1724890-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (може також уживатися як но-прикметник), утворений із 美 (красивий) та 声 (голос). Характеризує приємний, чистий і мелодійний тембр у співі чи мовленні, часто у звороті 美声を響かせる (дарувати звучання прекрасного голосу).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1724890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あの歌手は本当に美声ですね。
+- READING :: あのかしゅはほんとうにびせいですね。
+- UK :: У того співака справді гарний голос.
+- FOCUS :: 美声
+*** ex-1724890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会場に響き渡る彼女の美声に、観客はうっとりと聞き入った。
+- READING :: かいじょうにひびきわたるかのじょのびせいに、かんきゃくはうっとりとききいった。
+- UK :: Глядачі зачаровано заслухалися її чарівним голосом, що лунав по всьому залу.
+- FOCUS :: 美声
+*** ex-1724890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 年齢を重ねても衰えない見事な美声を保つため、彼は毎日の発声練習を欠かさない。
+- READING :: ねんれいをかさねてもおとろえないみごとなびせいをたもつため、かれはまいにちのはっせいれんしゅうをかかさない。
+- UK :: Щоб зберегти чудовий, непідвладний віку голос, він щодня не пропускає вокальних вправ.
+- FOCUS :: 美声
+
+* Sense s-1724890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 20692316e8445de894fb91b969d5edffe427b92c83a51ef47b009d9d3f638302
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724890-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schöne Stimme
+*** en-s-1724890-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: süße Stimme
+*** en-s-1724890-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: melodische Stimme
+** Ukrainian glosses
+
+* Sense s-1724890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: afec3966bb8c89d8e1eec2d428a8cf2074e655ba191863586c01a31707e0498f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724890-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: красивый голос
+** Ukrainian glosses
+
+* Sense s-1724890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 37f7936d05888be84317022b18869c10b34ba57cbf9171cfaa690354b37d7c16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1724890-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hermosa voz
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1724890-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1724890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: びせい

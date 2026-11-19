@@ -1,0 +1,186 @@
+#+TITLE: 咎め
+#+JMDICT_ID: 1955370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とがめ
+#+ROMAJI: togame
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1955370-001
+:PROPERTIES:
+:TEXT: 咎め
+:END:
+** Reading rd-1955370-001
+:PROPERTIES:
+:TEXT: とがめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1955370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8e3484b5a31067fc91d28663c2d4e72d1c457cf5b3d71cd6bb7409649858a3b4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- blame
+- censure
+- rebuke
+- reproof
+** Ukrainian glosses
+*** uk-s-1955370-001-001
+:PROPERTIES:
+:END:
+- text :: докір; осуд; догана; кара
+** Learner notes
+*** note-s-1955370-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник від основи дієслова 咎める («дорікати, осуджувати»). У сучасній мові найчастіше вживається у сталому вислові 良心の咎め («докори сумління»), а також у висловах на кшталт 神の咎め («божа кара») або 人のお咎め («суспільний чи офіційний осуд» — часто з префіксом ввічливості お).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1955370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 嘘をついて良心の咎めを感じた。
+- READING :: うそをついてりょうしんのとがめをかんじた。
+- UK :: Збрехавши, я відчув докори сумління.
+- FOCUS :: 咎め
+*** ex-1955370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ルールに違反したため、厳しい咎めを受けることになった。
+- READING :: るーるにいはんしたため、きびしいとがめをうけることになった。
+- UK :: Через порушення правил довелося зазнати суворої догани.
+- FOCUS :: 咎め
+*** ex-1955370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 誰にも知られずに済んだとはいえ、心の奥底に残る良心の咎めだけは簡単に消えなかった。
+- READING :: だれにもしられずにすんだとはいえ、こころのおくそこにのこるりょうしんのとがめだけはかんたんにきえなかった。
+- UK :: Хоча ніхто про це так і не дізнався, докори сумління, що залишилися в глибині душі, не зникали так просто.
+- FOCUS :: 咎め
+
+* Sense s-1955370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 98e62c8be3b0cc483e464f8ada0f1bb063a24b8a14f2eaedac6baf95c2af8e15
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955370-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strafe
+*** en-s-1955370-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tadel
+*** en-s-1955370-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verweis
+** Ukrainian glosses
+
+* Sense s-1955370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f96a38bb685b223932e48b7e7bbc1e0df34b71a21205caaff87295245cca1501
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955370-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szemrehányás
+*** en-s-1955370-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bírálat
+*** en-s-1955370-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifogás
+** Ukrainian glosses
+
+* Sense s-1955370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 84c3a10876caac7c6f18907a3e1b4ae809e6a78b66f3d4f8b9121bdeedc787c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1955370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: укор; порицание
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1955370-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1955370-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: とがめ

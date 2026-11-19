@@ -1,0 +1,264 @@
+#+TITLE: 貸方
+#+JMDICT_ID: 1411230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かしかた
+#+ROMAJI: kashikata
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1411230-001
+:PROPERTIES:
+:TEXT: 貸方
+:END:
+** Written form wf-1411230-002
+:PROPERTIES:
+:TEXT: 貸し方
+:END:
+** Reading rd-1411230-001
+:PROPERTIES:
+:TEXT: かしかた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1411230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4314058163c81b40dad8366a1176d904da17b43b70f5fc2ca3c8a9f6c105ec36
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 借り方・1
+** English glosses
+- creditor
+- lender
+- credit side (of the ledger)
+** Ukrainian glosses
+*** uk-s-1411230-001-001
+:PROPERTIES:
+:END:
+- text :: кредит (у бухгалтерії); кредитор, позикодавець
+** Learner notes
+*** note-s-1411230-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 貸す (позичати) та 方 (сторона). У бухгалтерському обліку позначає праву колонку рахунку — кредит (на противагу дебету 借方), а в ширшому значенні — сторону, що надає кошти в борг.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1411230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 帳簿の貸方に金額を書いた。
+- READING :: ちょうぼのかしかたにきんがくをかいた。
+- UK :: Я записав суму у графу кредиту бухгалтерської книги.
+- FOCUS :: 貸方
+*** ex-1411230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 簿記の授業では、借方と貸方の違いをしっかり覚える必要がある。
+- READING :: ぼきのじゅぎょうでは、かりかたとかしかたのちがいをしっかりおぼえるひつようがある。
+- UK :: На заняттях із бухгалтерії потрібно добре запам'ятати різницю між дебетом і кредитом.
+- FOCUS :: 貸方
+*** ex-1411230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現金で商品を購入した場合、仕訳では貸方に現金勘定を記入するのが基本である。
+- READING :: げんきんでしょうひんをこうにゅうしたばあい、しわけではかしかたにげんきんかんじょうをきにゅうするのがきほんである。
+- UK :: Якщо товар придбано за готівку, у бухгалтерській проводці за правилами в кредит заносять рахунок готівки.
+- FOCUS :: 貸方
+
+* Sense s-1411230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3e50e87b729ea5a2bbcfbe7a6257849eda189f37183e923614bfccc0c4880ed3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- method of lending
+** Ukrainian glosses
+*** uk-s-1411230-002-001
+:PROPERTIES:
+:END:
+- text :: спосіб надання в борг, порядок позичання
+** Learner notes
+*** note-s-1411230-002-001
+:PROPERTIES:
+:END:
+- UK :: Друге значення утворюється за продуктивною моделлю основа дієслова + 方 («спосіб дії») і позначає манеру або правила видачі позик чи оренди; у цьому вжитку нерідко пишеться як 貸し方.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1411230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3990683b2dc3fc79a042e7cf0389d87588afea88263699fc4b37658237b92b35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kredit
+*** en-s-1411230-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreditseite
+*** en-s-1411230-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Guthaben
+*** en-s-1411230-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haben
+*** en-s-1411230-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gutschrift
+** Ukrainian glosses
+
+* Sense s-1411230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d1460490176cce25dee35520678c3341e5fe9f8cea1d24892260086534ca5f41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411230-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreditgeber
+*** en-s-1411230-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verleiher
+** Ukrainian glosses
+
+* Sense s-1411230-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3afa67ca2f92f4d93745a08b0611f76237e51f8ab656bd79b17cf1e6e36f57bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411230-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hitelező
+*** en-s-1411230-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: követel oldal
+** Ukrainian glosses
+
+* Sense s-1411230-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 471bd60a9770c397da0937d807f15fa5c4ac8fa1fbefb8b555296a3c1bfbe484
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1411230-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) кредитор
+*** en-s-1411230-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) как [надо] давать в кредит (взаймы)
+*** en-s-1411230-006-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) (бухг.) кредит; актив
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1411230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1411230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かしかた

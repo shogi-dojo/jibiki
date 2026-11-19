@@ -1,0 +1,175 @@
+#+TITLE: 真弓
+#+JMDICT_ID: 2067060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まゆみ
+#+ROMAJI: mayumi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2067060-001
+:PROPERTIES:
+:TEXT: 真弓
+:END:
+** Reading rd-2067060-001
+:PROPERTIES:
+:TEXT: まゆみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2067060-002
+:PROPERTIES:
+:TEXT: マユミ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2067060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 213eed5416818bc978cb0efa7e3d7b985d5abab64642fd9055e5a1d3d5f2da72
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Japanese spindle tree (Euonymus sieboldianus)
+** Ukrainian glosses
+*** uk-s-2067060-001-001
+:PROPERTIES:
+:END:
+- text :: бересклет Зібольда; японський бересклет (Euonymus sieboldianus)
+** Learner notes
+*** note-s-2067060-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва листопадного куща або невисокого дерева родини бруслинових, поширеного в Японії та Східній Азії. Написання 真弓 походить від того, що з його гнучкої та міцної деревини колись виготовляли луки (弓), однак у ботанічних і сучасних текстах це слово часто записують каною — まゆみ або マユミ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2067060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に真弓の木が植えてあります。
+- READING :: にわにまゆみのきがうえてあります。
+- UK :: У саду посаджене дерево бересклета Зібольда.
+- FOCUS :: 真弓
+*** ex-2067060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋になると、真弓の赤い実が割れて種が見える。
+- READING :: あきになると、まゆみのあかいみがわれてたねがみえる。
+- UK :: Коли настає осінь, червоні плоди бересклета Зібольда розтріскуються, і стає видно насіння.
+- FOCUS :: 真弓
+*** ex-2067060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 山あいの林では、落葉した真弓の枝に鮮やかな紅色の実が残り、冬の訪れを告げていた。
+- READING :: やまあいのはやしでは、らくようしたまゆみのえだにあざやかなべにいろのみがのこり、ふゆのおとずれをつげていた。
+- UK :: У гірському гаю на облетілих гілках бересклета Зібольда залишалися яскраво-багряні плоди, сповіщаючи про наближення зими.
+- FOCUS :: 真弓
+
+* Sense s-2067060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 984158e79706c669bf9045051031130f823ea802099984dcd3b7198d14fd3ea5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2067060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mayumi
+*** en-s-2067060-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bogen aus Spindelbaum-Holz
+*** en-s-2067060-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spindelbaum-Bogen
+** Ukrainian glosses
+
+* Sense s-2067060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e4d1363215c33d0f82456c63b127f449026560ecdef59300efe815d622024726
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2067060-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) бересклет Зибольда, Euonymus sieboldianus (Blume)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2067060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2067060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: まゆみ
+** Accent accent-rd-2067060-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2067060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: まゆみ

@@ -1,0 +1,153 @@
+#+TITLE: 矢面
+#+JMDICT_ID: 1537790
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やおもて
+#+ROMAJI: yaomote
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1537790-001
+:PROPERTIES:
+:TEXT: 矢面
+:END:
+*** Priorities
+- news2
+- nf25
+** Written form wf-1537790-002
+:PROPERTIES:
+:TEXT: 矢表
+:END:
+** Reading rd-1537790-001
+:PROPERTIES:
+:TEXT: やおもて
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1537790-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b814b790595bd13bdd42d4dbaf94e94b794c2a2c9818bb7a57d04b2a55205782
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 矢面に立つ
+** English glosses
+- firing line
+- position where one is subject to questioning, criticism, etc.
+** Ukrainian glosses
+*** uk-s-1537790-001-001
+:PROPERTIES:
+:END:
+- text :: лінія вогню; центр критики (нападок, запитань)
+** Learner notes
+*** note-s-1537790-001-001
+:PROPERTIES:
+:END:
+- UK :: Найпоширеніше переносне значення іменника 矢面. Означає становище людини, яка приймає на себе основний удар критики, звинувачень чи допитів; зазвичай уживається у виразі 矢面に立つ («стати під удар критики, опинитися на лінії вогню»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1537790-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 部長がみんなの批判の矢面に立ちました。
+- READING :: ぶちょうがみんなのひはんのやおもてにたちました。
+- UK :: Начальник відділу прийняв на себе всю критику.
+- FOCUS :: 矢面
+*** ex-1537790-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 記者会見で、広報担当者は厳しい質問の矢面に立たされた。
+- READING :: きしゃかいけんで、こうほうたんとうしゃはきびしいしつもんのやおもてにたたされた。
+- UK :: На пресконференції прессекретар опинився під шквалом гострих запитань.
+- FOCUS :: 矢面
+*** ex-1537790-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 改革を進める以上、既得権益層からの反発の矢面に立つ覚悟が不可欠だ。
+- READING :: かいかくをすすめるいじょう、きとくけんえきそうからのはんぱつのやおもてにたつかくごがふかけつだ。
+- UK :: Якщо вже впроваджувати реформи, необхідно бути готовим стати під удар спротиву з боку привілейованих груп.
+- FOCUS :: 矢面
+
+* Sense s-1537790-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8e5e3371c5310e647723cf8277605e1019f7bfd3db72e4b4fefdaa924ca42eb3
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- orig. meaning
+** English glosses
+- in front of a flying arrow (fired by the enemy)
+** Ukrainian glosses
+*** uk-s-1537790-002-001
+:PROPERTIES:
+:END:
+- text :: передова лінія під обстрілом стріл; напрямок польоту ворожих стріл
+** Learner notes
+*** note-s-1537790-002-001
+:PROPERTIES:
+:END:
+- UK :: Буквальне та історичне військове значення, утворене з 矢 (стріла) та 面 (передній бік, напрямок): місце безпосередньо перед летячими стрілами ворога.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1537790-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bc2481dd837e13be0755dad2e49a18447d258313ab9db311a953f9a38946f191
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1537790-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seite, die beschossen wird
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1537790-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1537790-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: やおもて

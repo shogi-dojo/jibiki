@@ -1,0 +1,163 @@
+#+TITLE: 鍼灸
+#+JMDICT_ID: 1573850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんきゅう
+#+ROMAJI: shinkyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1573850-001
+:PROPERTIES:
+:TEXT: 鍼灸
+:END:
+*** Priorities
+- news2
+- nf28
+- spec1
+** Written form wf-1573850-002
+:PROPERTIES:
+:TEXT: 針灸
+:END:
+** Reading rd-1573850-001
+:PROPERTIES:
+:TEXT: しんきゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+- spec1
+
+* Sense s-1573850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 02aab8bcfdf00b2e8bc3c4d9a569674d77a03cb4fe1ce121bc86f4176f5156ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- acupuncture and moxibustion
+** Ukrainian glosses
+*** uk-s-1573850-001-001
+:PROPERTIES:
+:END:
+- text :: акупунктура й моксоприпікання; голкотерапія і припікання полиновими конусами
+** Learner notes
+*** note-s-1573850-001-001
+:PROPERTIES:
+:END:
+- UK :: Термін східної медицини, утворений поєднанням 鍼 («голка для акупунктури») та 灸 («моксоприпікання», прогрівання активних точок полиновими конусами). У сучасній Японії спеціалісти проходять державне ліцензування в цій галузі та працюють у клініках 鍼灸院.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1573850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 肩こりのため鍼灸に通っています。
+- READING :: かたこりのためしんきゅうにかよっています。
+- UK :: Через скутість у плечах я ходжу на сеанси голковколювання та припікання.
+- FOCUS :: 鍼灸
+*** ex-1573850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 東洋医学に関心を持ち、近所の鍼灸院で初めて施術を受けてみた。
+- READING :: とうよういがくにかんしんをもち、きんじょのしんきゅういんではじめてせじゅつをうけてみた。
+- UK :: Зацікавившись східною медициною, я вперше спробував процедуру в сусідній клініці акупунктури й припікання.
+- FOCUS :: 鍼灸
+*** ex-1573850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬に頼るだけでなく、体質改善を目指して鍼灸による治療を取り入れる患者も増えている。
+- READING :: くすりにたよるだけでなく、たいしつかいぜんをめざしてしんきゅうによるちりょうをとりいれるかんじゃもふえている。
+- UK :: Дедалі більше пацієнтів не обмежуються ліками, а й додають лікування акупунктурою та прогріванням задля зміцнення організму.
+- FOCUS :: 鍼灸
+
+* Sense s-1573850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4950a3ad1fec53e4e1eb0a0dd0c4780af366e97b73a1488fc5fed44014ef9306
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573850-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Akupunktur und Moxibustion
+** Ukrainian glosses
+
+* Sense s-1573850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d0d231ab5e05e0ec3e3d696d0cb5b819b39714f9469d4a147af7a6a9efbc2bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573850-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) иглоукалывание и прижигание (моксой)
+** Ukrainian glosses
+
+* Sense s-1573850-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8929141c6816b82b9414ce806b97385ed86e12fd1a11ae16c3562cc806c5a3b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573850-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: acupuntura y moxibustión
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1573850-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1573850-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しんきゅう

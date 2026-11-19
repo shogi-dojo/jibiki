@@ -1,0 +1,162 @@
+#+TITLE: 外戚
+#+JMDICT_ID: 1203890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がいせき
+#+ROMAJI: gaiseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1203890-001
+:PROPERTIES:
+:TEXT: 外戚
+:END:
+** Reading rd-1203890-001
+:PROPERTIES:
+:TEXT: がいせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1203890-002
+:PROPERTIES:
+:TEXT: げしゃく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+** Reading rd-1203890-003
+:PROPERTIES:
+:TEXT: げさく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+
+* Sense s-1203890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fcd7e9177ea1aa1807f217fe516e0190262ad4af68627f803319eaf1ad0f9858
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 内戚
+** English glosses
+- maternal relative
+- relative on one's mother's side
+** Ukrainian glosses
+*** uk-s-1203890-001-001
+:PROPERTIES:
+:END:
+- text :: родич із материнського боку; рідня по матері
+** Learner notes
+*** note-s-1203890-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний та історичний іменник, утворений із 外 («зовнішній») та 戚 («родич»). Позначає родичів по лінії матері (або дружини імператора чи правителя); часто трапляється в працях з історії Японії та Китаю, де родичі з материнського боку нерідко зосереджували в своїх руках реальну владу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1203890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は王室の外戚にあたります。
+- READING :: かれはおうしつのがいせきにあたります。
+- UK :: Він є родичем королівської родини з материнського боку.
+- FOCUS :: 外戚
+*** ex-1203890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 平安時代には、天皇の外戚として権力を握る貴族がいた。
+- READING :: へいあんじだいには、てんのうのがいせきとしてけんりょくをにぎるきぞくがいた。
+- UK :: У період Хейан були аристократи, які тримали владу як родичі імператора по матері.
+- FOCUS :: 外戚
+*** ex-1203890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で、有力な外戚が幼い君主の後見人となり政治を動かした例を学んだ。
+- READING :: れきしのじゅぎょうで、ゆうりょくながいせきがおさないくんしゅのこうけんにんとなりせいじをうごかしたれいをまなんだ。
+- UK :: На уроці історії ми вивчали приклади того, як впливові родичі з материнського боку ставали опікунами малолітнього правителя й керували державою.
+- FOCUS :: 外戚
+
+* Sense s-1203890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2b4dbd5224d9575b29e870d44dfca4ceb07e96e5b2f5d79f14f6487184a09f81
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1203890-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mütterliche Verwandte
+*** en-s-1203890-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verwandte mütterlicherseits
+** Ukrainian glosses
+
+* Sense s-1203890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bcc16f65436a2d8de533b056dd5d8ca69f3acfba7569ea4398812f285d576710
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1203890-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: родственник (родня) с материнской стороны
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1203890-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1203890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: がいせき

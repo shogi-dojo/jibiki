@@ -1,0 +1,168 @@
+#+TITLE: 不参加
+#+JMDICT_ID: 1492540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふさんか
+#+ROMAJI: fusanka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1492540-001
+:PROPERTIES:
+:TEXT: 不参加
+:END:
+** Reading rd-1492540-001
+:PROPERTIES:
+:TEXT: ふさんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1492540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7607c1f0731d44d2d25c22cbc788f485c6c8ece59fb127f4343aae4216a6849a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- nonparticipation
+- nonattendance
+** Ukrainian glosses
+*** uk-s-1492540-001-001
+:PROPERTIES:
+:END:
+- text :: неучасть, неприбуття; відмова від участі
+** Learner notes
+*** note-s-1492540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із заперечним префіксом 不 («не-») та 参加 («участь»). Уживається в офіційній і повсякденній мові для позначення неучасті в заході, нараді, виборах чи змаганнях (наприклад, 不参加を決める — «вирішити не брати участі», 不参加を表明する — «оголосити про неучасть»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1492540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今回の大会は不参加にします。
+- READING :: こんかいのたいかいはふさんかにします。
+- UK :: Цього разу я не братиму участі у змаганнях.
+- FOCUS :: 不参加
+*** ex-1492540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 体調不良のため、明日の会議は不参加とさせていただきます。
+- READING :: たいちょうふりょうのため、あしたのかいぎはふさんかとさせていただきます。
+- UK :: Через погане самопочуття дозвольте мені не бути присутнім на завтрашній нараді.
+- FOCUS :: 不参加
+*** ex-1492540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複数の国がボイコットを理由に不参加を表明したことで、国際会議の意義が問われた。
+- READING :: ふくすうのくにがぼいこっとをりゆうにふさんかをひょうめいしたことで、こくさいかいぎのいぎがとわれた。
+- UK :: Коли кілька країн оголосили про неучасть на знак бойкоту, значення міжнародної конференції опинилося під сумнівом.
+- FOCUS :: 不参加
+
+* Sense s-1492540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 76397819fe56201f242eee99568c606265f86f45971d59e045c2c8dbcbe917a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1492540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nichtteilnahme
+*** en-s-1492540-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abwesenheit
+*** en-s-1492540-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fernbleiben
+** Ukrainian glosses
+
+* Sense s-1492540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3d3280dd5c535356cf7c8ac674a44cc1ae55be01ac68e1874df7baf7c3edb039
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1492540-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartózkodás
+** Ukrainian glosses
+
+* Sense s-1492540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fe381a43cdaf1754b6c2167bf26c3fc8548d49149f0777d10bcbe7b96a4fb291
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1492540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: неучастие
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1492540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1492540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ふさんか

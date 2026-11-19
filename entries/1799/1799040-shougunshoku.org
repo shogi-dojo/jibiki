@@ -1,0 +1,149 @@
+#+TITLE: 将軍職
+#+JMDICT_ID: 1799040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうぐんしょく
+#+ROMAJI: shougunshoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1799040-001
+:PROPERTIES:
+:TEXT: 将軍職
+:END:
+** Reading rd-1799040-001
+:PROPERTIES:
+:TEXT: しょうぐんしょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1799040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2ccbfb17330b05b9df8fa102c114047f15d7bb5b841c6441fcfbbd8f568f778b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- the shogunate
+** Ukrainian glosses
+*** uk-s-1799040-001-001
+:PROPERTIES:
+:END:
+- text :: посада шьоґуна; шьоґунат
+** Learner notes
+*** note-s-1799040-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник від 将軍 («шьоґун, головнокомандувач») та 職 («посада, служба»). Позначає найвищу військово-політичну посаду шьоґуна (очільника військового уряду бакуфу в Японії доби середньовіччя та періоду Едо) або владу й інститут шьоґунату загалом.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1799040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は若い頃に将軍職を継いだ。
+- READING :: かれはわかいころにしょうぐんしょくをついだ。
+- UK :: Він успадкував посаду шьоґуна в молодому віці.
+- FOCUS :: 将軍職
+*** ex-1799040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 病気を理由に、老いた将軍は息子に将軍職を譲ることにした。
+- READING :: びょうきをりゆうに、おいたしょうぐんはむすこにしょうぐんしょくをゆずることにした。
+- UK :: Посилаючись на хворобу, старий шьоґун вирішив передати посаду шьоґуна своєму синові.
+- FOCUS :: 将軍職
+*** ex-1799040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 後継者争いを経て将軍職に就いた人物は、幕府の改革に乗り出した。
+- READING :: こうけいしゃあらそいをへてしょうぐんしょくについたじんぶつは、ばくふのかいかくにのりだした。
+- UK :: Особа, яка обійняла посаду шьоґуна після боротьби за спадщину, взялася за реформування уряду бакуфу.
+- FOCUS :: 将軍職
+
+* Sense s-1799040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b36c1ec132904d3131afd485f5a9a7efde23c468504de0aeae99e0acb725a0f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799040-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der Rang des Shōguns
+*** en-s-1799040-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der Titel des Shōguns
+*** en-s-1799040-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das Shōgunat
+** Ukrainian glosses
+
+* Sense s-1799040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2c54043c9ce86b50b33f844d2ac09d5610c701c4b00ab29a9d2d20927a87ab5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пост сёгуна
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1799040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1799040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しょうぐんしょく
