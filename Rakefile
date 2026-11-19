@@ -102,6 +102,16 @@ namespace :entries do
 
     sh RUBY, 'scripts/scaffold_entry.rb', '--level', args[:level], '--source-order', args[:source_order], '--romaji', args[:romaji]
   end
+
+  desc 'Import Kanjium pitch accents into every entry (KANJIUM_ACCENTS_PATH overrides sources/kanjium/accents.txt)'
+  task :import_accents do
+    sh RUBY, 'scripts/import_kanjium_accents.rb'
+  end
+
+  desc 'Report entries whose Kanjium accents are out of date, without writing'
+  task :check_accents do
+    sh RUBY, 'scripts/import_kanjium_accents.rb', '--check'
+  end
 end
 
 namespace :fingerprints do

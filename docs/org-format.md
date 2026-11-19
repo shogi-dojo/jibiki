@@ -618,6 +618,17 @@ provisional record must be checked against an accent source before promotion.
 | [NINJAL UniDic](https://clrd.ninjal.ac.jp/unidic/en/download_en.html) | Independent structured cross-check, including accent type and pronunciation fields | Contemporary Written/Spoken Japanese releases are GPL/LGPL/New BSD triple-licensed; record the exact edition and version |
 | [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) | Manual learner/editor check for Tokyo accent, conjugation, and example audio | Education and academic research only; do not copy its database or audio into public releases |
 
+`rake entries:import_accents` (`scripts/import_kanjium_accents.rb`) writes
+these records from Kanjium at commit `8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6`.
+A row joins an entry reading on written form plus reading; a kana-only row
+joins on the reading alone, and is skipped when homophones leave more than one
+kana entry. A drop list such as `2,0` becomes one record per distinct drop,
+numbered `-001`, `-002`, … in source order; part-of-speech prefixes such as
+`(名)` are dropped because the schema has no field for them. The importer owns
+only Kanjium blocks still `STATUS: imported` whose sole item is `- reading ::`;
+editing one (adding `explanation-uk`, promoting its status) hands it to people,
+and re-runs then keep it and skip its drop.
+
 Kanjium's README identifies `accents.txt` as pitch locations for 124,137
 words and requests attribution for the pitch notation. UniDic represents an
 accent type by the mora count before the drop, with `0` for heiban. OJAD is

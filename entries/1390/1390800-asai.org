@@ -162,3 +162,39 @@
 - UK :: Позначає нетривалий проміжок часу або малий досвід (経験が浅い - мало досвіду, 日本に来てまだ日が浅い - нещодавно приїхав до Японії).
 - LEVEL :: beginner
 - REGISTER :: neutral
+
+* Pronunciation
+** Accent accent-rd-1390800-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1390800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: あさい
+** Accent accent-rd-1390800-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1390800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: あさい
