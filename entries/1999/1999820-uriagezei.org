@@ -1,0 +1,172 @@
+#+TITLE: 売上税
+#+JMDICT_ID: 1999820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うりあげぜい
+#+ROMAJI: uriagezei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1999820-001
+:PROPERTIES:
+:TEXT: 売上税
+:END:
+** Written form wf-1999820-002
+:PROPERTIES:
+:TEXT: 売り上げ税
+:END:
+** Reading rd-1999820-001
+:PROPERTIES:
+:TEXT: うりあげぜい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1999820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a74d396849ecbee9a10920fa90a5e13a4844df572b15c105608097fb3ec375ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sales tax
+** Ukrainian glosses
+*** uk-s-1999820-001-001
+:PROPERTIES:
+:END:
+- text :: податок із продажу, податок із обороту
+** Learner notes
+*** note-s-1999820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (名詞), економічний та податковий термін. Складається з 売上 (виручка, продажі) та 税 (податок); позначає непрямий податок, що стягується при продажу товарів чи наданні послуг (у Японії наприкінці 1980-х років передував запровадженню 消費税).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1999820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 商品の値段に売上税がかかる。
+- READING :: しょうひんのねだんにうりあげぜいがかかる。
+- UK :: До ціни товару додається податок із продажу.
+- FOCUS :: 売上税
+*** ex-1999820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅行先の州によって売上税の税率が異なるので注意が必要だ。
+- READING :: りょこうさきのしゅうによってうりあげぜいのぜいりつがことなるのでちゅういがひつようだ。
+- UK :: Варто зважати на те, що залежно від штату під час подорожі ставка податку з продажу відрізняється.
+- FOCUS :: 売上税
+*** ex-1999820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: レジで支払う金額には本体価格に加えて売上税が上乗せされるため、表示より高くなる。
+- READING :: れじでしはらうきんがくにはほんたいかかくにくわえてうりあげぜいがうわのせされるため、ひょうじよりたかくなる。
+- UK :: Оскільки на касі до базової ціни додається податок із продажу, сума до сплати виявляється вищою за вказану на ціннику.
+- FOCUS :: 売上税
+
+* Sense s-1999820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d399c1aa9d612b4a1f697e0207194d873bcb44ff50437affacb15a558b2036f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1999820-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omzetbelasting
+** Ukrainian glosses
+
+* Sense s-1999820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e810da4d0da1df31a29aafad8dfebc64302279d236ccf356bd49eb8bf6ee07a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1999820-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umsatzsteuer
+** Ukrainian glosses
+
+* Sense s-1999820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4c54e3f8c738c5c90a18601d133fac1bbe1d90ad24301c5785ea31d39e8cda45
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1999820-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: forgalmi adó
+** Ukrainian glosses
+
+* Sense s-1999820-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d334902ded7ed4cf149bf96bcd8d6caf8237fea612346760843b9ba174a567a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1999820-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: налог с выручки
+** Ukrainian glosses
+
+* Sense s-1999820-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 332e6ae9fa116b8d5fcfc46fe49e85690c8af881f51c2481c36afeecd6c4d8c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1999820-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: varuskatt
+** Ukrainian glosses
