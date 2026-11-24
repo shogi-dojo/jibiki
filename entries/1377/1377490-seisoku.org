@@ -1,0 +1,668 @@
+#+TITLE: 正則
+#+JMDICT_ID: 1377490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいそく
+#+ROMAJI: seisoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1377490-001
+:PROPERTIES:
+:TEXT: 正則
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1377490-001
+:PROPERTIES:
+:TEXT: せいそく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+
+* Sense s-1377490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 225939e6d187f44d6fa0c9b2317529178608c1644570946d7f2152900acaef7e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- adj-no
+- n
+** English glosses
+- correct
+- proper
+- formal
+- regular
+- systematic
+- normal
+** Ukrainian glosses
+*** uk-s-1377490-001-001
+:PROPERTIES:
+:END:
+- text :: правильний, зразковий; регулярний, систематичний; нормативний
+** Learner notes
+*** note-s-1377490-001-001
+:PROPERTIES:
+:END:
+- UK :: Предикативний прикметник на な, означення з の та іменник. Означає відповідність усталеним правилам, нормам чи послідовному порядку, наприклад у навчанні (正則の課程 — стандартний курс) або граматиці (регулярне відмінювання слів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1377490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 正則な手順で手続きを進める。
+- READING :: せいそくなてじゅんでてつづきをすすめる。
+- UK :: Проводити оформлення за встановленою процедурою.
+- FOCUS :: 正則
+*** ex-1377490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この言語では、多くの動詞が正則な変化をする。
+- READING :: このげんごでは、おおくのどうしがせいそくなへんかをする。
+- UK :: У цій мові більшість дієслів відмінюється за правильним зразком.
+- FOCUS :: 正則
+*** ex-1377490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 線形代数の授業で、正則な行列が持つ性質と逆行列の求め方を学んだ。
+- READING :: せんけいだいすうのじゅぎょうで、せいそくなぎょうれつがもつせいしつとぎゃくぎょうれつのもとめかたをまなんだ。
+- UK :: На занятті з лінійної алгебри ми вивчили властивості невироджених матриць і способи знаходження оберненої матриці.
+- FOCUS :: 正則
+
+* Sense s-1377490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2a8ebce7f1a0e05e2718f1e98f9bafe4f2aefe1cec40036432af9dab4459509d
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- adj-no
+*** Fields
+- math
+** English glosses
+- invertible (matrix)
+- holomorphic
+** Ukrainian glosses
+*** uk-s-1377490-002-001
+:PROPERTIES:
+:END:
+- text :: невироджений, оборотний (про матрицю); голоморфний, регулярний (у математиці)
+** Learner notes
+*** note-s-1377490-002-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (вживається з な або の). У лінійній алгебрі описує квадратну матрицю, що має обернену (正則行列), а в комплексному аналізі — функцію, диференційовну в кожній точці області (正則関数).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1377490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 503eb213befa04155bbacaef9001828d340527c7f5a3cee8c731042ccc48f04f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: juiste regel
+** Ukrainian glosses
+
+* Sense s-1377490-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5197c4c3c78ad4185b0739395d5aa2a8b259a5be29ead82ab362d982ff5c686a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reguliere talenstudie (met aandacht voor betekenis en uitspraak)
+** Ukrainian glosses
+
+* Sense s-1377490-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 441a8c48a2b2e4cd6302a5738086ddc9a4aa0af15769bbccd4202b2293649271
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regulier
+*** en-s-1377490-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regelmatig
+** Ukrainian glosses
+
+* Sense s-1377490-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b6288c265072ce8f5d494845ab544a69af87275c49e6ff4abbbaf56328f315bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} differentieerbaar
+** Ukrainian glosses
+
+* Sense s-1377490-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 82a27818fbbdc20b5a5bb72a88a9d031d38e8efd62c407e50ba018eadb9c779b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} holomorf
+*** en-s-1377490-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regulier
+** Ukrainian glosses
+
+* Sense s-1377490-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 463a810e6088df6d384e8c60f94de91fbe8c36dd5f233eee0853daf934943c80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regelrecht
+*** en-s-1377490-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regulär
+*** en-s-1377490-008-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ordentlich
+*** en-s-1377490-008-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ordnungsgemäß
+*** en-s-1377490-008-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: systematisch
+** Ukrainian glosses
+
+* Sense s-1377490-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 688580b74b2c92434ff67882230dfabadb5856a4a901a73d903aade5e062c079
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: normal
+*** en-s-1377490-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korrekt
+*** en-s-1377490-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: richtig
+** Ukrainian glosses
+
+* Sense s-1377490-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 76e742d76ff376f009c6fb28ab0e0878e4da2b6fe8fb41ff0336d0f04074750e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ordnungsmäßigkeit
+*** en-s-1377490-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regelrechtigkeit
+*** en-s-1377490-010-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Korrektheit
+*** en-s-1377490-010-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Richtigkeit
+** Ukrainian glosses
+
+* Sense s-1377490-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 36b260e9c342660ccda1d08cb7254add325561135c0921ae86c8fb7b42160a52
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regularität
+** Ukrainian glosses
+
+* Sense s-1377490-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: e05bad5e0f61e652c340d30608b33e1d3de6f6093ab012cb043aee9d9adde793
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helyes
+*** en-s-1377490-012-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hibátlan
+*** en-s-1377490-012-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifogástalan
+*** en-s-1377490-012-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megfelelő
+*** en-s-1377490-012-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pontos
+*** en-s-1377490-012-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alkalmas
+*** en-s-1377490-012-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csinos
+*** en-s-1377490-012-008
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: finomkodó
+*** en-s-1377490-012-009
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: helyénvaló
+*** en-s-1377490-012-010
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: igazi
+*** en-s-1377490-012-011
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ildomos
+*** en-s-1377490-012-012
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illedelmes
+*** en-s-1377490-012-013
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illendő
+*** en-s-1377490-012-014
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illő
+*** en-s-1377490-012-015
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jelleg
+*** en-s-1377490-012-016
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jellegzetesség
+*** en-s-1377490-012-017
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komplett
+*** en-s-1377490-012-018
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rendes
+*** en-s-1377490-012-019
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabályszerű
+*** en-s-1377490-012-020
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szép szál
+*** en-s-1377490-012-021
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szűkebb értelemben vett
+*** en-s-1377490-012-022
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: természetes színekben ábrázolt
+*** en-s-1377490-012-023
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állandó vevő
+*** en-s-1377490-012-024
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: állandó
+*** en-s-1377490-012-025
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: megszokott
+*** en-s-1377490-012-026
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rendszeres
+*** en-s-1377490-012-027
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabályos
+*** en-s-1377490-012-028
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szerzetes
+*** en-s-1377490-012-029
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szokásos
+*** en-s-1377490-012-030
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tökéletes
+*** en-s-1377490-012-031
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: merőleges vonal
+*** en-s-1377490-012-032
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: normál
+*** en-s-1377490-012-033
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szabványos
+*** en-s-1377490-012-034
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: természetszerű
+** Ukrainian glosses
+
+* Sense s-1377490-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: d35508d160d21f0f5be96afd5cedbf3dec0a89c8cc4e12837072d256cded3983
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1377490-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～な} подлинный, настоящий; правильный; систематический, регулярный
+** Ukrainian glosses
