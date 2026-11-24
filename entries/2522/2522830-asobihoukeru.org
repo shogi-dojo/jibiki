@@ -1,0 +1,132 @@
+#+TITLE: 遊びほうける
+#+JMDICT_ID: 2522830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あそびほうける
+#+ROMAJI: asobihoukeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2522830-001
+:PROPERTIES:
+:TEXT: 遊びほうける
+:END:
+** Written form wf-2522830-002
+:PROPERTIES:
+:TEXT: 遊び呆ける
+:END:
+** Written form wf-2522830-003
+:PROPERTIES:
+:TEXT: 遊び惚ける
+:END:
+** Reading rd-2522830-001
+:PROPERTIES:
+:TEXT: あそびほうける
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2522830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ebff384572c204a67ee613f43d69c0be6954980e20ce50b610363b14a6a6a629
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to spend all of one's time in idle amusement
+** Ukrainian glosses
+*** uk-s-2522830-001-001
+:PROPERTIES:
+:END:
+- text :: цілковито віддаватися розвагам; бездумно марнувати час на гуляння; гуляти до нестями
+** Learner notes
+*** note-s-2522830-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне складене дієслово (一段), утворене від 遊ぶ (розважатися, гуляти) та ほうける (呆ける — втрачати голову, забуватися). Має осудливий відтінок і позначає людину, яка занедбує роботу чи навчання, поринаючи в нескінченні розваги.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2522830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は毎日遊びほうけている。
+- READING :: かれはまいにちあそびほうけている。
+- UK :: Він щодня тільки те й робить, що розважається.
+- FOCUS :: 遊びほうけて
+*** ex-2522830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 試験前なのに、弟は外で遊びほうけてばかりいる。
+- READING :: しけんまえなのに、おとうとはそとであそびほうけてばかりいる。
+- UK :: Хоча скоро іспити, молодший брат тільки й знає, що гуляти надворі.
+- FOCUS :: 遊びほうけて
+*** ex-2522830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大学に入ってから授業にも出ずに遊びほうける生活を送っていたら、単位を落としてしまった。
+- READING :: だいがくにはいってからじゅぎょうにもでずにあそびほうけるせいかつをおくっていたら、たんいをおとしてしまった。
+- UK :: Відколи я вступив до університету, то не ходив на пари й марнував час на розваги, через що не набрав потрібних кредитів.
+- FOCUS :: 遊びほうける
+
+* Sense s-2522830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 95e7846eb3cdf402c684fa1cd0cf0ad54f1319f6b05312d2782bd49ed44bac61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2522830-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opgaan in het spel
+*** en-s-2522830-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zich aan het amusement overgeven
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2522830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2522830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 6
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: あそびほうける

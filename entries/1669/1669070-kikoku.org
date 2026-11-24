@@ -1,0 +1,152 @@
+#+TITLE: 貴国
+#+JMDICT_ID: 1669070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きこく
+#+ROMAJI: kikoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1669070-001
+:PROPERTIES:
+:TEXT: 貴国
+:END:
+** Reading rd-1669070-001
+:PROPERTIES:
+:TEXT: きこく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1669070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e21f3e46bbcb7edd38b552ff43583b52fa01560dd5db98afdfc8b80964213174
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hon
+** English glosses
+- your country
+** Ukrainian glosses
+*** uk-s-1669070-001-001
+:PROPERTIES:
+:END:
+- text :: ваша країна
+** Learner notes
+*** note-s-1669070-001-001
+:PROPERTIES:
+:END:
+- UK :: Поважний іменник (сонкейґо) письмового та дипломатичного стилю. Префікс 貴 (шанований, високий) у поєднанні з 国 (країна) виражає повагу до держави співрозмовника або адресата в офіційних промовах, переговорах та діловому листуванні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1669070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 貴国を訪問できてうれしいです。
+- READING :: きこくをほうもんできてうれしいです。
+- UK :: Я радий, що зміг відвідати вашу країну.
+- FOCUS :: 貴国
+*** ex-1669070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 貴国のさらなる発展と繁栄を心よりお祈り申し上げます。
+- READING :: きこくのさらなるはってんとはんえいをこころよりおいのりもうしあげます。
+- UK :: Щиро бажаємо вашій країні подальшого розвитку та процвітання.
+- FOCUS :: 貴国
+*** ex-1669070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 両国の文化交流を深めるため、来月貴国から代表団をお迎えする予定です。
+- READING :: りょうごくのぶんかこうりゅうをふかめるため、らいげつきこくからだいひょうだんをおむかえするよていです。
+- UK :: Щоб поглибити культурний обмін між нашими державами, наступного місяця ми плануємо прийняти делегацію з вашої країни.
+- FOCUS :: 貴国
+
+* Sense s-1669070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b2a8fb699f89ddd2633ab9e592ef62b8fc0b6321e5a533adfbc76212965d9a1d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1669070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ihr Land (höfliche Bezeichnung für das Land eines anderen)
+** Ukrainian glosses
+
+* Sense s-1669070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: afe6a1f9cda6a696e9429e9cd1345c96488c66e2c3d49258b8779b71bd075daa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1669070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эпист.) Ваша страна
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1669070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1669070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きこく
+** Accent accent-rd-1669070-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1669070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きこく

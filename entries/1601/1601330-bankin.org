@@ -1,0 +1,346 @@
+#+TITLE: 板金
+#+JMDICT_ID: 1601330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばんきん
+#+ROMAJI: bankin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1601330-001
+:PROPERTIES:
+:TEXT: 板金
+:END:
+*** Priorities
+- news2
+- nf37
+** Written form wf-1601330-002
+:PROPERTIES:
+:TEXT: 鈑金
+:END:
+** Written form wf-1601330-003
+:PROPERTIES:
+:TEXT: 板銀
+:END:
+** Reading rd-1601330-001
+:PROPERTIES:
+:TEXT: ばんきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 板金
+- 鈑金
+** Reading rd-1601330-002
+:PROPERTIES:
+:TEXT: いたがね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 板金
+- 板銀
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1601330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b77543579bd9bad102505d31c41f29afc5f448b02dbde0fb983351a788886ae6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sheet metal
+- metal plate
+** Ukrainian glosses
+*** uk-s-1601330-001-001
+:PROPERTIES:
+:END:
+- text :: листовий метал; металевий лист
+** Learner notes
+*** note-s-1601330-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний і виробничий іменник, що позначає тонкий метал у листах або вироби з нього. Поєднує ієрогліфи 板 (дошка, лист) і 金 (метал); на практиці часто трапляється у словосполученнях 板金加工 (обробка листового металу) та 板金塗装 (рихтування й фарбування кузова).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1601330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工場で薄い板金を切っている。
+- READING :: こうじょうでうすいばんきんをきっている。
+- UK :: На заводі ріжуть тонкий листовий метал.
+- FOCUS :: 板金
+*** ex-1601330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 屋根の修理には丈夫な板金が使われる。
+- READING :: やねのしゅうりにはじょうぶなばんきんがつかわれる。
+- UK :: Для ремонту даху використовують міцні металеві листи.
+- FOCUS :: 板金
+*** ex-1601330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 職人が図面を見ながら、一枚の板金を曲げて機械のカバーを作った。
+- READING :: しょくにんがずめんをみながら、いちまいのばんきんをまげてきかいのかばーをつくった。
+- UK :: Майстер, дивлячись на креслення, зігнув один металевий лист і виготовив кожух для верстата.
+- FOCUS :: 板金
+
+* Sense s-1601330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a8f8d68713a1b5c525ec8dbf9fcbc9c6c9f27f1100f6824228b3b7d0c5677e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaatmetaal
+*** en-s-1601330-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bladmetaal
+** Ukrainian glosses
+
+* Sense s-1601330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4ab1a63958ded9905d42cbae778ca12871de264fb759973d1b4aed826047f784
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metaalplaat
+** Ukrainian glosses
+
+* Sense s-1601330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b7e61cf8e35d87c811479d3284366c7ef3113f9c96b85cbd8f14df5021a13612
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaatmetaalbewerking
+*** en-s-1601330-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaatwerkerij
+** Ukrainian glosses
+
+* Sense s-1601330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c3d696dc347f614d7eafa92e99e1bd801745ab68251c42ff3b9bbcdcbd6b51d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaatmetaal
+*** en-s-1601330-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: metaalplaat
+** Ukrainian glosses
+
+* Sense s-1601330-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e7cf11b11b9c45059ce12cb88e81714dc7ceb3aaabf33b0cbd78592eb7feebc0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blech
+*** en-s-1601330-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metallplatte
+** Ukrainian glosses
+
+* Sense s-1601330-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: f0fdea5335cc2b5e6a758a157f7c1d94ce18a1efd2f35ca5338a7920a3fcdb48
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lemezelt fém
+*** en-s-1601330-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  fémlemez
+** Ukrainian glosses
+
+* Sense s-1601330-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 4580a6d2a832d635bfabda93f6bf754a244e46ff4e43f1355cdeca101bf19b91
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: тонкий листовой металл
+*** en-s-1601330-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: листовое железо; металлическая пластина
+** Ukrainian glosses
+
+* Sense s-1601330-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 2a54bfc3fcd17f82470522ffcc1889566a9f6641cf06b5a6ce616f3e9c2ae0dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1601330-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chapa
+*** en-s-1601330-009-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lámina metálica
+*** en-s-1601330-009-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plancha metálica
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1601330-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1601330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ばんきん
+** Accent accent-rd-1601330-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1601330-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: いたがね

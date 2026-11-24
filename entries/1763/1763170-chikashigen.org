@@ -1,0 +1,165 @@
+#+TITLE: 地下資源
+#+JMDICT_ID: 1763170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちかしげん
+#+ROMAJI: chikashigen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1763170-001
+:PROPERTIES:
+:TEXT: 地下資源
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1763170-001
+:PROPERTIES:
+:TEXT: ちかしげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1763170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 18fed04970749973bd8756a4d20bc73042f6d2fe442109c178a6cadc2fa581e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- underground resources
+** Ukrainian glosses
+*** uk-s-1763170-001-001
+:PROPERTIES:
+:END:
+- text :: підземні ресурси; корисні копалини
+** Learner notes
+*** note-s-1763170-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник економічного та географічного регістру (地下 «під землею» + 資源 «ресурси»). Позначає поклади нафти, газу, вугілля, руд та інших мінеральних багатств у надрах землі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1763170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本は地下資源が少ない。
+- READING :: にほんはちかしげんがすくない。
+- UK :: У Японії мало корисних копалин.
+- FOCUS :: 地下資源
+*** ex-1763170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地域には豊富な地下資源が眠っている。
+- READING :: このちいきにはほうふなちかしげんがねむっている。
+- UK :: У надрах цього регіону залягають багаті підземні ресурси.
+- FOCUS :: 地下資源
+*** ex-1763170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 限られた地下資源を大切に使いながら、再生可能エネルギーへの転換を進める必要がある。
+- READING :: かぎられたちかしげんをたいせつにつかいながら、さいせいかのうえねるぎーへのてんかんをすすめるひつようがある。
+- UK :: Дбайливо використовуючи обмежені корисні копалини, потрібно водночас просувати перехід на відновлювану енергетику.
+- FOCUS :: 地下資源
+
+* Sense s-1763170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fa693d43b44c692fcb7a9e7dd0a3dbbe60fe7c741e246979062fb094f5fb48ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763170-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ondergrondse hulpbronnen
+*** en-s-1763170-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijkdommen
+** Ukrainian glosses
+
+* Sense s-1763170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b856c6e1be587d618882409fd846e962aeabf2ba57799b088f8cb4fe177b1ee8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763170-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bodenschätze
+** Ukrainian glosses
+
+* Sense s-1763170-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7dca1a6c171255e286d77845823ef91a0d1adeede93127ebeb83f7acff0ec3ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1763170-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: залежи полезных ископаемых
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1763170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1763170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちかしげん

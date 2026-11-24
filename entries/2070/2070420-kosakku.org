@@ -1,0 +1,145 @@
+#+TITLE: コサック
+#+JMDICT_ID: 2070420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: コサック
+#+ROMAJI: kosakku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2070420-001
+:PROPERTIES:
+:TEXT: コサック
+:NO_KANJI: false
+:END:
+
+* Sense s-2070420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7ba18ed203e1a621408986f3767bf45462824910694999c03f9a3a66032cc8e6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Cossack
+** Ukrainian glosses
+*** uk-s-2070420-001-001
+:PROPERTIES:
+:END:
+- text :: козак; козацький
+** Learner notes
+*** note-s-2070420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (через англ. Cossack). Уживається в історичному та культурному контекстах — для позначення козаків і козацьких військ, а також у назвах народних танців (コサックダンス) чи елементів одягу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2070420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 舞台でコサックの踊りを見ました。
+- READING :: ぶたいでこさっくのおどりをみました。
+- UK :: На сцені я бачив козацький танець.
+- FOCUS :: コサック
+*** ex-2070420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 図書館でコサックの歴史に関する本を借りました。
+- READING :: としょかんでこさっくのれきしにかんするほんをかりました。
+- UK :: У бібліотеці я взяв книжку з історії козацтва.
+- FOCUS :: コサック
+*** ex-2070420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 自由を重んじたコサックの文化や歌は、今でも多くの人々に語り継がれている。
+- READING :: じゆうをおもんじたこさっくのぶんかやうたは、いまでもおおくのひとびとにかたりつがれている。
+- UK :: Культура й пісні козаків, які високо цінували свободу, і сьогодні передаються з покоління в покоління.
+- FOCUS :: コサック
+
+* Sense s-2070420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e943189192e9346532348e63c6085a9bbe918240a81c2c48f03ed56f8c9834c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2070420-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kozak
+** Ukrainian glosses
+
+* Sense s-2070420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aedf5817f2a8611babc8c9a7a7c634e04878c81d83d82d6b7789630b92de1672
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2070420-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) cossack) казак
+** Ukrainian glosses
+
+* Sense s-2070420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fab4f70b0ffcbadaf089bda6d173d44a3a2fa954eef906502d46a5a8e34e5eef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2070420-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cosaco
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2070420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2070420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: コサック

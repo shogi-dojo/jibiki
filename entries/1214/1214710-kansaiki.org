@@ -1,0 +1,168 @@
+#+TITLE: 艦載機
+#+JMDICT_ID: 1214710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんさいき
+#+ROMAJI: kansaiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1214710-001
+:PROPERTIES:
+:TEXT: 艦載機
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1214710-001
+:PROPERTIES:
+:TEXT: かんさいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1214710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 950c10c7674f2fb45e030d67c95d3d3631305a341f952774734072da005c7906
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- mil
+** English glosses
+- carrier-based aircraft
+- ship-borne aircraft (e.g. helicopters)
+** Ukrainian glosses
+*** uk-s-1214710-001-001
+:PROPERTIES:
+:END:
+- text :: палубний літальний апарат (літак, гелікоптер корабельного базування)
+** Learner notes
+*** note-s-1214710-001-001
+:PROPERTIES:
+:END:
+- UK :: Військовий термін (іменник: 艦 — військовий корабель + 載 — розміщений на борту + 機 — літальний апарат). Позначає літаки й гелікоптери, які базуються на авіаносцях або інших бойових кораблях і пристосовані до зльоту та посадки на палубу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1214710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 空母から艦載機が飛び立つ。
+- READING :: くうぼからかんさいきがとびたつ。
+- UK :: З авіаносця злітає палубний літак.
+- FOCUS :: 艦載機
+*** ex-1214710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 激しい波に揺れる甲板の上へ、艦載機が慎重に着艦した。
+- READING :: はげしいなみにゆれるかんぱんのうえへ、かんさいきがしんちょうにちゃっかんした。
+- UK :: На палубу, що гойдалася на високих хвилях, обережно приземлився корабельний літак.
+- FOCUS :: 艦載機
+*** ex-1214710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遠洋での長期間にわたる任務に備え、整備士たちは格納庫で艦載機の点検を夜通し続けた。
+- READING :: えんようでのちょうきかんにわたるにんむにそなえ、せいびしたちはかくのうこでかんさいきのてんけんをよどおしつづけた。
+- UK :: Готуючись до тривалого завдання у відкритому океані, техніки всю ніч перевіряли палубні літаки в ангарі.
+- FOCUS :: 艦載機
+
+* Sense s-1214710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e6a0d0fa5f050af596804a648742151e5b7ce1a505977c792efce34239dc8feb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1214710-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {mil.} boordvliegtuig
+*** en-s-1214710-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: carriervliegtuig
+** Ukrainian glosses
+
+* Sense s-1214710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1b70e2b3804ce8724a41ccc8b7f91a524df2d1be17e1c4cec7ba2fb8d929300d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1214710-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bordflugzeug
+** Ukrainian glosses
+
+* Sense s-1214710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e201478e8d5a10dcb529c18f1760d96dd380a969a6b5632a8a7e32080bb9ca04
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1214710-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бортовой (палубный, корабельный) самолёт, самолёт, базирующийся на корабль
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1214710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1214710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かんさいき

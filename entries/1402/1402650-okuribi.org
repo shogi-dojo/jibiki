@@ -1,0 +1,150 @@
+#+TITLE: 送り火
+#+JMDICT_ID: 1402650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おくりび
+#+ROMAJI: okuribi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1402650-001
+:PROPERTIES:
+:TEXT: 送り火
+:END:
+** Reading rd-1402650-001
+:PROPERTIES:
+:TEXT: おくりび
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1402650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6b6586576b4b9a409fda13bcb660bc1ad73f1dc82be7bfb802f3c734a912f22b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ceremonial bonfire (seeing off the spirits on the final night of Obon)
+** Ukrainian glosses
+*** uk-s-1402650-001-001
+:PROPERTIES:
+:END:
+- text :: прощальне багаття (під час свята Обон); обрядовий вогонь проводів духів предків
+** Learner notes
+*** note-s-1402650-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, пов'язаний із традиційним поминальним святом Обон (お盆). Позначає ритуальний вогонь, який запалюють перед входом до будинку або на схилах гір (як-от відоме дійство 五山の送り火 в Кьото) наприкінці свята, щоб провести душі предків назад у потойбіччя (на противагу 迎え火 — вітальному вогню).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1402650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お盆の終わりに送り火を焚く。
+- READING :: おぼんのおわりにおくりびをたく。
+- UK :: Наприкінці свята Обон запалюють прощальний вогонь.
+- FOCUS :: 送り火
+*** ex-1402650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖先の霊を見送るため、家の玄関先で静かに送り火を見守った。
+- READING :: そせんのれいをみおくるため、いえのげんかんさきでしずかにおくりびをみまもった。
+- UK :: Щоб провести душі предків, ми тихо спостерігали за прощальним вогнем перед входом у дім.
+- FOCUS :: 送り火
+*** ex-1402650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 京都の夏の風物詩である五山の送り火を見るために、毎年多くの観光客が訪れる。
+- READING :: きょうとのなつのふうぶつしであるござんのおくりびをみるために、まいとしおおくのかんこうきゃくがおとずれる。
+- UK :: Щороку багато туристів приїжджають до Кьото, щоб побачити знамените літнє дійство — прощальні вогні на п'яти горах.
+- FOCUS :: 送り火
+
+* Sense s-1402650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d71d7b84cdc143cd2a1bbbd98bf037b61c845e79b53d7dd55cc41f6930188ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feuer, das zum Ende des Bonfestes entzündet wird, um die Seelen der Verstorbenen zu verabschieden
+** Ukrainian glosses
+
+* Sense s-1402650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: edb578278df3009bc361255d303225c8dd314318b6099e7790e3d06102a6fcc3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1402650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прощальные огни ((зажигаемые перед входом в дом в последний день праздника бон, см.) うらぼん; (ср.) むかえび)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1402650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1402650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おくりび
+** Accent accent-rd-1402650-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1402650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おくりび

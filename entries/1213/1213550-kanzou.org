@@ -1,0 +1,185 @@
+#+TITLE: 甘草
+#+JMDICT_ID: 1213550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんぞう
+#+ROMAJI: kanzou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1213550-001
+:PROPERTIES:
+:TEXT: 甘草
+:END:
+** Reading rd-1213550-001
+:PROPERTIES:
+:TEXT: かんぞう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1213550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5da7c4496f7313cdf23f768da75cab19ea9fd673a8703bc5742285912ffe3dd2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- liquorice
+- licorice
+** Ukrainian glosses
+*** uk-s-1213550-001-001
+:PROPERTIES:
+:END:
+- text :: солодка (рослина); лакриця
+** Learner notes
+*** note-s-1213550-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 甘 (солодкий) та 草 (трава), що позначає багаторічну рослину солодку голу (Glycyrrhiza glabra) та її корінь. У східній медицині кампо (漢方) корінь солодки є одним із найпоширеніших складників лікарських зборів, а в харчовій промисловості з нього виготовляють натуральний підсолоджувач і лакричні вироби.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1213550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この漢方薬には甘草が入っています。
+- READING :: このかんぽうやくにはかんぞうがはいっています。
+- UK :: До складу цих традиційних ліків входить корінь солодки.
+- FOCUS :: 甘草
+*** ex-1213550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 甘草の根には強い甘みがあり、昔から薬や調味料に使われてきた。
+- READING :: かんぞうのねにはつよいあまみがあり、むかしからくすりやちょうみりょうにつかわれてきた。
+- UK :: Корінь солодки має виразну солодкість, тому його здавна використовують у ліках та приправах.
+- FOCUS :: 甘草
+*** ex-1213550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: しょうゆや漬け物の甘味料として使われることもある甘草は、漢方処方でも重要な役割を果たしている。
+- READING :: しょうゆやつけもののかんみりょうとしてつかわれることもあるかんぞうは、かんぽうしょほうでもじゅうようなやくわりをはたしている。
+- UK :: Солодка, яку іноді застосовують як підсолоджувач для соєвого соусу й солінь, відіграє важливу роль і в рецептурі традиційної медицини кампо.
+- FOCUS :: 甘草
+
+* Sense s-1213550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 38d36d45d92d1b2a2361020b38f2d9a620f153429758530e7d20e40d8104fad9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1213550-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Süßholz
+*** en-s-1213550-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lakritze
+** Ukrainian glosses
+
+* Sense s-1213550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 81aeeced263dd543d48f4a3a0df268b96f5233fc63928da9bc72fd21601c3507
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1213550-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: édesgyökér
+*** en-s-1213550-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medvecukor
+** Ukrainian glosses
+
+* Sense s-1213550-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6b1a2c1abf32898871d9da79e770b034741b47787a4bff43c9a6483829f08c82
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1213550-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) лакричник, солодка гладкая, Glycyrrhiza glabra (L.) var. glandulifera
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1213550-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1213550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かんぞう
+** Accent accent-rd-1213550-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1213550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かんぞう

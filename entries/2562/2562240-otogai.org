@@ -1,0 +1,179 @@
+#+TITLE: 頤
+#+JMDICT_ID: 2562240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おとがい
+#+ROMAJI: otogai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2562240-001
+:PROPERTIES:
+:TEXT: 頤
+:END:
+** Reading rd-2562240-001
+:PROPERTIES:
+:TEXT: おとがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2562240-002
+:PROPERTIES:
+:TEXT: オトガイ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2562240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d0c7263aab5948982c9fe40877ed025d2ab6128fb687542ad55eecb81aa38f58
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- anat
+*** Miscellaneous and register
+- uk
+** English glosses
+- (lower) jaw
+- chin
+- mentum
+** Ukrainian glosses
+*** uk-s-2562240-001-001
+:PROPERTIES:
+:END:
+- text :: підборіддя; нижня щелепа
+** Learner notes
+*** note-s-2562240-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний або анатомічний термін, що переважно записується каною (おとがい або オトガイ), хоча ієрогліф 頤 також трапляється в художній літературі. Входить до сталих виразів на кшталт おとがいを解く («розреготатися, розпливтися в усмішці»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2562240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は指でおとがいを軽く触りました。
+- READING :: かれはゆびでおとがいをかるくさわりました。
+- UK :: Він легенько торкнувся пальцями підборіддя.
+- FOCUS :: おとがい
+*** ex-2562240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: そのおどけた話に、会場の誰もが思わずおとがいを解いた。
+- READING :: そのおどけたはなしに、かいじょうのだれもがおもわずおとがいをといた。
+- UK :: Від тієї кумедної історії всі присутні в залі мимоволі розсміялися.
+- FOCUS :: おとがい
+*** ex-2562240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医学生は骨格標本を観察しながら、おとがいの骨の形について議論した。
+- READING :: いがくせいはこっかくひょうほんをかんさつしながら、おとがいのほねのかたちについてぎろんした。
+- UK :: Студенти-медики, оглядаючи анатомічний скелет, обговорювали форму кістки нижньої щелепи.
+- FOCUS :: おとがい
+
+* Sense s-2562240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9bf2a03c52e9ef8d707c02b07fd13f507c22549c00ae886f658d6ac5fcfc215a
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- chatterbox
+** Ukrainian glosses
+*** uk-s-2562240-002-001
+:PROPERTIES:
+:END:
+- text :: базікало, балакун
+** Learner notes
+*** note-s-2562240-002-001
+:PROPERTIES:
+:END:
+- UK :: Рідкісне переносне значення, що походить від руху нижньої щелепи під час безупинної балачки; пов'язане з фразеологізмом 頤を叩く («молоти язиком, без угаву теревенити»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2562240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aef351fd57bc25e49f50ad499989cfcfff83f0e3167e4279d4ca0d1e3bab8c99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2562240-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kinn
+*** en-s-2562240-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unterkiefer
+** Ukrainian glosses
+
+* Sense s-2562240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 545e9853c3e72530c76e888b9373af1aa6519fed81868df97434891fdb1f616d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2562240-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подбородок
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2562240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2562240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おとがい

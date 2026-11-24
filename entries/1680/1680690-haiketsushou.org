@@ -1,0 +1,182 @@
+#+TITLE: 敗血症
+#+JMDICT_ID: 1680690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はいけつしょう
+#+ROMAJI: haiketsushou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1680690-001
+:PROPERTIES:
+:TEXT: 敗血症
+:END:
+*** Priorities
+- news2
+- nf27
+** Written form wf-1680690-002
+:PROPERTIES:
+:TEXT: 肺血症
+:END:
+*** Information
+- sK
+** Reading rd-1680690-001
+:PROPERTIES:
+:TEXT: はいけつしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1680690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cde1737091cbb98aa32559bc84f0c9d4877918696bbc395322bb6beec3d9cd16
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- sepsis
+- septicemia
+- blood poisoning
+** Ukrainian glosses
+*** uk-s-1680690-001-001
+:PROPERTIES:
+:END:
+- text :: сепсис; зараження крові
+** Learner notes
+*** note-s-1680690-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний термін (іменник), утворений з 敗 (псування, руйнування), 血 (кров) та 症 (хворобливий стан). Позначає тяжкий загальний запальний процес, спричинений потраплянням інфекції в кровотік; потребує невідкладного лікування.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1680690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 敗血症は危険な病気だ。
+- READING :: はいけつしょうはきけんなびょうきだ。
+- UK :: Сепсис — це небезпечна хвороба.
+- FOCUS :: 敗血症
+*** ex-1680690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 傷口の細菌感染が原因で敗血症になることがある。
+- READING :: きずぐちのさいきんかんせんがげんいんではいけつしょうになることがある。
+- UK :: Через бактеріальну інфекцію рани може розвинутися сепсис.
+- FOCUS :: 敗血症
+*** ex-1680690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医師は敗血症の悪化を防ぐため、直ちに抗生物質の投与を開始した。
+- READING :: いしははいけつしょうのあっかをふせぐため、ただちにこうせいぶっしつのとうよをかいしした。
+- UK :: Лікар негайно розпочав введення антибіотиків, щоб запобігти погіршенню сепсису.
+- FOCUS :: 敗血症
+
+* Sense s-1680690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 16e46d7d82cf67e66b3d38e75eb8feb8b4d13034394ea1a65ac4d3d5c0becb23
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blutvergiftung
+*** en-s-1680690-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sepsis
+*** en-s-1680690-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Septikämie
+** Ukrainian glosses
+
+* Sense s-1680690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 67d176203903fbff8638fdff168c36e1bc90e06d1f9c0c80aa7cbb1d49e4ac35
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сепсис, заражение крови
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1680690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1680690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はいけつしょう
+** Accent accent-rd-1680690-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1680690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はいけつしょう

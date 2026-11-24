@@ -1,0 +1,159 @@
+#+TITLE: 公準
+#+JMDICT_ID: 1273990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうじゅん
+#+ROMAJI: koujun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1273990-001
+:PROPERTIES:
+:TEXT: 公準
+:END:
+** Reading rd-1273990-001
+:PROPERTIES:
+:TEXT: こうじゅん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1273990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85b82f825303c37b5e7a2ed8250bef99998c9f6210bd8fc892c3d86ba4b96951
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- postulate (in math, logic, etc.)
+** Ukrainian glosses
+*** uk-s-1273990-001-001
+:PROPERTIES:
+:END:
+- text :: постулат (у математиці, логіці тощо)
+** Learner notes
+*** note-s-1273990-001-001
+:PROPERTIES:
+:END:
+- UK :: Науковий і філософський термін-іменник (公 — загальноприйнятий, 準 — мірило, норма). Позначає вихідне положення теорії, прийняте без доведення; у геометрії відомі, зокрема, Евклідові постулати (ユークリッドの公準).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1273990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 幾何学で有名な公準を学びました。
+- READING :: きかがくでゆうめいなこうじゅんをまなびました。
+- UK :: На геометрії ми вивчали відомий постулат.
+- FOCUS :: 公準
+*** ex-1273990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この理論は、いくつかの基本的な公準から組み立てられています。
+- READING :: このりろんは、いくつかのきほんてきなこうじゅんからくみたてられています。
+- UK :: Ця теорія побудована на кількох базових постулатах.
+- FOCUS :: 公準
+*** ex-1273990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平行線に関する第五公準を疑うことから、非ユークリッド幾何学という新しい分野が生まれた。
+- READING :: へいこうせんにかんするだいごこうじゅんをうたがうことから、ひゆーくりっどきかがくというあたらしいぶんやがうまれた。
+- UK :: Із сумніву щодо п'ятого постулату про паралельні прямі народилася нова галузь — неевклідова геометрія.
+- FOCUS :: 公準
+
+* Sense s-1273990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2a32d160ca6a921fff8dadaa507413583e320555b69df0eef47d6e5b4a5c2b0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273990-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Postulat
+** Ukrainian glosses
+
+* Sense s-1273990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aad790ab180ab99572c48993524736caad2e72eea920b43c5c251ea1b56cf362
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273990-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: követelmény
+*** en-s-1273990-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: posztulátum
+** Ukrainian glosses
+
+* Sense s-1273990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cbd8b15a1a5d3bbfd78cbdbb5a56c4d71701b9679162e6334c2dc28f95391e8b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273990-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат., лог.) постулат
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1273990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1273990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうじゅん

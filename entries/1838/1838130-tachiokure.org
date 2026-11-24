@@ -1,0 +1,169 @@
+#+TITLE: 立ち後れ
+#+JMDICT_ID: 1838130
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たちおくれ
+#+ROMAJI: tachiokure
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1838130-001
+:PROPERTIES:
+:TEXT: 立ち後れ
+:END:
+** Written form wf-1838130-002
+:PROPERTIES:
+:TEXT: 立ち遅れ
+:END:
+*** Priorities
+- news2
+- nf27
+** Reading rd-1838130-001
+:PROPERTIES:
+:TEXT: たちおくれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1838130-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f3ea535ac699b4b90a2e7dd925b53206fc185532127f86e7c34cb5298093da28
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- slow start
+** Ukrainian glosses
+*** uk-s-1838130-001-001
+:PROPERTIES:
+:END:
+- text :: запізнілий старт; відставання на початку; зволікання з початком
+** Learner notes
+*** note-s-1838130-001-001
+:PROPERTIES:
+:END:
+- UK :: Віддієслівний іменник від 立ち後れる (також пишеться 立ち遅れ; сполучення 立ち «ставати, рушати» + 後れる «відставати, спізнюватися»). Позначає невдалий або запізнілий старт у змаганнях (сумо, перегонах) чи відставання у впровадженні нововведень, модернізації та реагуванні на зміни (наприклад, 対応の立ち後れ — «запізніла реакція»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1838130-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: レースの立ち後れが最後までひびきました。
+- READING :: れーすのたちおくれがさいごまでひびきました。
+- UK :: Невдалий старт у забігу давався взнаки до самого кінця.
+- FOCUS :: 立ち後れ
+*** ex-1838130-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: デジタル化への立ち後れを取り戻すため、企業は新しい投資を始めた。
+- READING :: でじたるかへのたちおくれをとりもどすため、きぎょうはあたらしいとうしをはじめた。
+- UK :: Щоб надолужити відставання в цифровізації, компанії розпочали нові інвестиції.
+- FOCUS :: 立ち後れ
+*** ex-1838130-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インフラ整備の立ち後れが指摘される中、政府は地方の交通網を拡充する計画を打ち出した。
+- READING :: いんふらせいびのたちおくれがしてきされるなか、せいふはちほうのこうつうもうをかくじゅうするけいかくをうちだした。
+- UK :: На тлі зауважень щодо відставання в розбудові інфраструктури уряд висунув план розширення регіональної транспортної мережі.
+- FOCUS :: 立ち後れ
+
+* Sense s-1838130-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f074b61c4967b3039e3af35fca6e1eed38b567d68010434b55fddb4bdaa7cfa1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1838130-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rückstand
+*** en-s-1838130-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verspätung
+** Ukrainian glosses
+
+* Sense s-1838130-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7cabd3b13448ae0bc71869e465970adcbb81c5c98155e7491eb97159353c780c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1838130-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zurückgebliebensein
+** Ukrainian glosses
+
+* Sense s-1838130-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 55ab02e335081145b4001d3af5785c47a986739a77a3a4459f5e39c1c4e361ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1838130-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: запоздание; отставание
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1838130-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1838130-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たちおくれ

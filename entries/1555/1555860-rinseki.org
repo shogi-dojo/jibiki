@@ -1,0 +1,149 @@
+#+TITLE: 隣席
+#+JMDICT_ID: 1555860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りんせき
+#+ROMAJI: rinseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1555860-001
+:PROPERTIES:
+:TEXT: 隣席
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1555860-001
+:PROPERTIES:
+:TEXT: りんせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1555860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e68c65561509a02fbb77c12cb4f21a702ae1b23cac6519006276efbbb792b2b6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- next seat
+- adjacent seat
+** Ukrainian glosses
+*** uk-s-1555860-001-001
+:PROPERTIES:
+:END:
+- text :: сусіднє місце; місце поруч
+** Learner notes
+*** note-s-1555860-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник (може виступати означенням із часткою の), утворений зі знаків 隣 (сусідній) та 席 (місце). Позначає місце, розташоване безпосередньо поруч за столом, у залі чи транспорті (часто 隣席の人 — сусід по місцю, 隣席に着く — зайняти місце поруч).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1555860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 隣席の男性に道を尋ねた。
+- READING :: りんせきのだんせいにみちをたずねた。
+- UK :: Я запитав дорогу в чоловіка на сусідньому місці.
+- FOCUS :: 隣席
+*** ex-1555860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 飛行機の中で、隣席の乗客と旅の話で盛り上がった。
+- READING :: ひこうきのなかで、りんせきのじょうきゃくとたびのはなしでもりあがった。
+- UK :: У літаку я жваво розговорився про подорожі з пасажиром на сусідньому сидінні.
+- FOCUS :: 隣席
+*** ex-1555860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 晩餐会では偶然にも有名な建築家が私の隣席に座り、貴重な話を聞くことができた。
+- READING :: ばんさんかいではぐうぜんにもゆうめいなけんちくかがわたしのりんせきにすわり、きちょうなはなしをきくことができた。
+- UK :: На урочистій вечері відомий архітектор випадково сів поруч зі мною, і я зміг почути від нього багато цінного.
+- FOCUS :: 隣席
+
+* Sense s-1555860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fa678c46afab7a2b59382f453fe1872c30fb52a527b0b53f7862ba6591e5ea89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benachbarter Sitzplatz
+*** en-s-1555860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nächster Sitzplatz
+** Ukrainian glosses
+
+* Sense s-1555860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7f59a344901a578accebe20bbad10a26cfb2c8f2f8eb1f8d7241cebd4ebe3fcf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1555860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) соседнее место
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1555860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1555860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りんせき

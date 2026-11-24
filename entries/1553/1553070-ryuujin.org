@@ -1,0 +1,163 @@
+#+TITLE: 竜神
+#+JMDICT_ID: 1553070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りゅうじん
+#+ROMAJI: ryuujin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1553070-001
+:PROPERTIES:
+:TEXT: 竜神
+:END:
+** Written form wf-1553070-002
+:PROPERTIES:
+:TEXT: 龍神
+:END:
+** Reading rd-1553070-001
+:PROPERTIES:
+:TEXT: りゅうじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1553070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ae54c1c8192190d8f1c2339dbc29c7330504e3b40b4f64962ca50bf38f4d5d01
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dragon god
+- dragon king
+** Ukrainian glosses
+*** uk-s-1553070-001-001
+:PROPERTIES:
+:END:
+- text :: бог-дракон, дух дракона; володар вод
+** Learner notes
+*** note-s-1553070-001-001
+:PROPERTIES:
+:END:
+- UK :: Міфологічний іменник, складений із 竜 (дракон; також пишеться старішим ієрогліфом 龍) та 神 (божество, камі). У японських народних віруваннях 竜神 вважається покровителем морів, озер, річок і дощу, тому йому присвячено багато святилищ біля водойм.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1553070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この湖には竜神が住むと言われている。
+- READING :: このみずうみにはりゅうじんがすむといわれている。
+- UK :: Кажуть, у цьому озері живе бог-дракон.
+- FOCUS :: 竜神
+*** ex-1553070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 漁師たちは大漁と航海の安全を祈って、毎年海岸の社で竜神をまつる。
+- READING :: りょうしたちはたいりょうとこうかいのあんぜんをいのって、まいとしかいがんのやしろでりゅうじんをまつる。
+- UK :: Молячись про багатий улов і безпечне плавання, рибалки щороку вшановують бога-дракона в прибережному святилищі.
+- FOCUS :: 竜神
+*** ex-1553070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日照りが続いた村では、雨乞いの儀式を通じて山の奥に鎮座する竜神に恵みの雨を願った。
+- READING :: ひでりがつづいたむらでは、あまごいのぎしきをつうじてやまのおくにちんざするりゅうじんにめぐみのあめをねがった。
+- UK :: У селі, де тривала посуха, під час обряду викликання дощу благали благодатного дощу в бога-дракона, що спочиває в глибині гір.
+- FOCUS :: 竜神
+
+* Sense s-1553070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 49e61ca0aa7354fb51aaf076af4b2befd2a14ddd549243abba3e92a25bd29615
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Buddh
+** English glosses
+- naga
+** Ukrainian glosses
+*** uk-s-1553070-002-001
+:PROPERTIES:
+:END:
+- text :: наґа (міфічна змієподібна істота в буддизмі)
+** Learner notes
+*** note-s-1553070-002-001
+:PROPERTIES:
+:END:
+- UK :: У буддійських текстах цим словом перекладають санскритське nāga — могутню напівбожественну істоту, пов'язану з водами, яка в японській традиції злилася з образом дракона та стала охоронцем буддійського вчення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1553070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 826eb4e818e3b02ff9c387b3df8f43028e815d467a7946bfa875845dd5b7c0dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553070-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drachengott (der Regen und Wasser beherrscht und von den Fischern als Meeresgott verehrt wird)
+** Ukrainian glosses
+
+* Sense s-1553070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 81183e2ea5785baf9d8fd9630156a26bff65cde1c528d116e3eb7d02b7a7fb00
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1553070-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (миф.) морской дракон
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1553070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1553070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りゅうじん

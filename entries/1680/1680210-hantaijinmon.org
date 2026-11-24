@@ -1,0 +1,163 @@
+#+TITLE: 反対尋問
+#+JMDICT_ID: 1680210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんたいじんもん
+#+ROMAJI: hantaijinmon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1680210-001
+:PROPERTIES:
+:TEXT: 反対尋問
+:END:
+** Written form wf-1680210-002
+:PROPERTIES:
+:TEXT: 反対訊問
+:END:
+** Reading rd-1680210-001
+:PROPERTIES:
+:TEXT: はんたいじんもん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1680210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 83d338fe131243d95cf78896ca479fc4d7102ef0aeba2049851e062254c99523
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cross-examination
+** Ukrainian glosses
+*** uk-s-1680210-001-001
+:PROPERTIES:
+:END:
+- text :: перехресний допит
+** Learner notes
+*** note-s-1680210-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (іменник), утворений із 反対 («протилежний; зустрічний») та 尋問 («допит»), уживаний також у написанні 反対訊問. Позначає допит свідка або підсудного стороною, яка не викликала його до суду (зазвичай із дієсловом する: 反対尋問をする — «проводити перехресний допит»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1680210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 弁護士が証人に反対尋問をしました。
+- READING :: べんごしがしょうにんにはんたいじんもんをしました。
+- UK :: Адвокат провів перехресний допит свідка.
+- FOCUS :: 反対尋問
+*** ex-1680210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 厳しい反対尋問の末、証人の話に矛盾が見つかった。
+- READING :: きびしいはんたいじんもんのすえ、しょうにんのはなしにむじゅんがみつかった。
+- UK :: Після суворого перехресного допиту в свідченнях свідка виявили суперечності.
+- FOCUS :: 反対尋問
+*** ex-1680210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 検察側の主尋問が終わると、すかさず弁護側が鋭い質問を繰り出す反対尋問に移った。
+- READING :: けんさつがわのしゅじんもんがおわると、すかさずべんごがわがするどいしつもんをくりだすはんたいじんもんにうつった。
+- UK :: Щойно закінчився основний допит сторони обвинувачення, сторона захисту одразу перейшла до перехресного допиту, ставлячи гострі запитання.
+- FOCUS :: 反対尋問
+
+* Sense s-1680210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fd2e2f691161682eae2936b3adcea096a86bdc3770e33fa93afed7139579e39e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680210-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreuzverhör
+** Ukrainian glosses
+
+* Sense s-1680210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 934b5b2e3e221bb142870923b763f33f9ae052fb0a2b69df8753d39f6dc35b66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680210-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) перекрёстный допрос
+*** en-s-1680210-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} подвергать (кого-л.) перекрёстному допросу
+** Ukrainian glosses
+
+* Sense s-1680210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d13f4e5b3c0011e01d2d7b824915b5db5167c60c91bfa1b098642c07d7680b49
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680210-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: korsförhör
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1680210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1680210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はんたいじんもん

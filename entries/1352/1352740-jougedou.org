@@ -1,0 +1,139 @@
+#+TITLE: 上下動
+#+JMDICT_ID: 1352740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょうげどう
+#+ROMAJI: jougedou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1352740-001
+:PROPERTIES:
+:TEXT: 上下動
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1352740-001
+:PROPERTIES:
+:TEXT: じょうげどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1352740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d4e8848a9bd36db98a7f92476722b50070c904d5bfc70073912c9593cd8ff6c8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- vertical motion (in earthquakes)
+** Ukrainian glosses
+*** uk-s-1352740-001-001
+:PROPERTIES:
+:END:
+- text :: вертикальний рух, вертикальні коливання (під час землетрусу)
+** Learner notes
+*** note-s-1352740-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 上下 (вгору та вниз) і 動 (рух), що вживається переважно в сейсмології та прогнозах землетрусів на позначення вертикальних поштовхів (на противагу горизонтальним коливанням — 横揺れ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1352740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地震で強い上下動がありました。
+- READING :: じしんでつよいじょうげどうがありました。
+- UK :: Під час землетрусу відчувалися сильні вертикальні поштовхи.
+- FOCUS :: 上下動
+*** ex-1352740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 最初の上下動のあと、大きな横揺れがやって来ました。
+- READING :: さいしょのじょうげどうのあと、おおきなよこゆれがやってきました。
+- UK :: Після першого вертикального поштовху почалися сильні горизонтальні коливання.
+- FOCUS :: 上下動
+*** ex-1352740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 震源が浅い直下型地震では、激しい上下動が建物に大きな被害を与えやすくなります。
+- READING :: しんげんがあさいちょっかがたじしんでは、はげしいじょうげどうがたてものにおおきなひがいをあたえやすくなります。
+- UK :: При неглибоких землетрусах із епіцентром просто під містом різкі вертикальні коливання часто завдають будівлям значних пошкоджень.
+- FOCUS :: 上下動
+
+* Sense s-1352740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1f92f9cccd849c56e9c7651540c5afb39a422a7a716f4769339d9674c8e46fef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352740-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vertikale Bewegung (z.B. bei einem Erdbeben)
+** Ukrainian glosses
+
+* Sense s-1352740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7b5fa722ad61bcf2784551393103bec8258f7ec86a7ba606fc5f74dd5ef53cc7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352740-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вертикальный толчок (при землетрясении)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1352740-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1352740-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じょうげどう

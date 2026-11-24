@@ -1,0 +1,152 @@
+#+TITLE: ひき殺す
+#+JMDICT_ID: 1573530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひきころす
+#+ROMAJI: hikikorosu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1573530-001
+:PROPERTIES:
+:TEXT: ひき殺す
+:END:
+** Written form wf-1573530-002
+:PROPERTIES:
+:TEXT: 轢き殺す
+:END:
+** Written form wf-1573530-003
+:PROPERTIES:
+:TEXT: 轢殺す
+:END:
+*** Information
+- sK
+** Reading rd-1573530-001
+:PROPERTIES:
+:TEXT: ひきころす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1573530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f1f12019c281521ea0db6aa6fcc4e535c91c8c17e3fadf4ad138d269fee234da
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to kill by running over
+** Ukrainian glosses
+*** uk-s-1573530-001-001
+:PROPERTIES:
+:END:
+- text :: переїхати на смерть; задавити (транспортом)
+** Learner notes
+*** note-s-1573530-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово першої дієвідміни (ґодан на -す). Позначає спричинення загибелі людини чи тварини внаслідок наїзду автомобіля, поїзда або іншого транспортного засобу; оскільки ієрогліф 轢 не входить до переліку джьойо-канджі, у сучасних текстах переважає написання ひき殺す.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1573530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: スピードを出した車が小動物をひき殺してしまった。
+- READING :: すぴーどをだしたくるまがしょうどうぶつをひきころしてしまった。
+- UK :: Автомобіль, що їхав на великій швидкості, на смерть переїхав звірятко.
+- FOCUS :: ひき殺し
+*** ex-1573530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 居眠り運転のトラックが歩行者をひき殺すという痛ましい事故が起きた。
+- READING :: いねむりうんてんのとらっくがほこうしゃをひきころすといういたましいじこがおきた。
+- UK :: Сталася трагічна аварія: вантажівка, водій якої заснув за кермом, на смерть збила пішохода.
+- FOCUS :: ひき殺す
+*** ex-1573530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 深夜の交差点で通行人をひき殺したまま逃走した運転手は、防犯カメラの映像から翌朝に逮捕された。
+- READING :: しんやのこうさてんでつうこうにんをひきころしたままとうそうしたうんてんしゅは、ぼうはんかめらのえいぞうからよくあさにたいほされた。
+- UK :: Водія, який пізно вночі на перехресті на смерть переїхав перехожого й утік із місця події, наступного ранку затримали за записами камер спостереження.
+- FOCUS :: ひき殺した
+
+* Sense s-1573530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eb98539a661fc6fa6b22b17f586842acaa408b80707c1eb2eca03019199d7a44
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573530-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tödlich überfahren
+*** en-s-1573530-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: totfahren
+** Ukrainian glosses
+
+* Sense s-1573530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c3457030c615dcca559dee8a01120143fb2041d5d3b4e8d4b00921c8aaeeffa3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1573530-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: переехать, задавить [насмерть]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1573530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1573530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひきころす

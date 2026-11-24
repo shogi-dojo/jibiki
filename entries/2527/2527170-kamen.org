@@ -1,0 +1,145 @@
+#+TITLE: 下面
+#+JMDICT_ID: 2527170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かめん
+#+ROMAJI: kamen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2527170-001
+:PROPERTIES:
+:TEXT: 下面
+:END:
+** Reading rd-2527170-001
+:PROPERTIES:
+:TEXT: かめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2527170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 258b89b429b9cd27f9ac4bad0d14ffa03dde2ec8f72c4ae0f05790e82b18e560
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 上面
+** English glosses
+- underside
+- undersurface
+- inferior surface
+** Ukrainian glosses
+*** uk-s-2527170-001-001
+:PROPERTIES:
+:END:
+- text :: нижня поверхня; спідній бік; низ
+** Learner notes
+*** note-s-2527170-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; технічний, архітектурний та анатомічний термін (із 下 «низ» та 面 «поверхня, площина»; антонім — 上面 «верхня поверхня»). Позначає нижню площину деталі, конструкції, пластини або органу. Типові сполучення: 下面に接する (прилягати до нижньої поверхні), 下面を掃除する (очистити спідню поверхню).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2527170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 箱の下面に名前を書いた。
+- READING :: はこのかめんになまえをかいた。
+- UK :: Я написав ім'я на нижній поверхні коробки.
+- FOCUS :: 下面
+*** ex-2527170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 机の下面に隠れた傷を見つけた。
+- READING :: つくえのかめんにかくれたきずをみつけた。
+- UK :: Я знайшов приховану подряпину на спідній поверхні столу.
+- FOCUS :: 下面
+*** ex-2527170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 橋の下面の劣化を調べるため、専門の機材で定期点検が行われた。
+- READING :: はしのかめんのれっかをしらべるため、せんもんのきざいでていきてんけんがおこなわれた。
+- UK :: Щоб перевірити зношеність нижньої поверхні мосту, фахівці провели плановий огляд зі спеціальним обладнанням.
+- FOCUS :: 下面
+
+* Sense s-2527170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 74e135dd1beec4500a0fada4bcfce0314a95d6fe20551e78c5e680043292ca87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2527170-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unterseite
+*** en-s-2527170-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Boden
+** Ukrainian glosses
+
+* Sense s-2527170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: adfbf4cbb82feaa8b5a309cf6b7f6c9e97dac4859ca4d32e7eb1d2e79d2dbe79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2527170-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: нижняя поверхность
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2527170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2527170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かめん

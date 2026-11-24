@@ -1,0 +1,157 @@
+#+TITLE: 葉桜
+#+JMDICT_ID: 1838690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はざくら
+#+ROMAJI: hazakura
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1838690-001
+:PROPERTIES:
+:TEXT: 葉桜
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1838690-001
+:PROPERTIES:
+:TEXT: はざくら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1838690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0d1737aa1e8002375f7a5c1bdbcf0d094bab0c86fc979bdd7c3b3a500be6e5cd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cherry tree in leaf
+- cherry tree whose blossoms have fallen, revealing the young leaves
+** Ukrainian glosses
+*** uk-s-1838690-001-001
+:PROPERTIES:
+:END:
+- text :: сакура в листі (після відцвітання); зелене листя сакури
+** Learner notes
+*** note-s-1838690-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 葉 («листя») та 桜 («сакура»). Позначає вишневе дерево в той період пізньої весни, коли квіти вже опали, а на гілках з’явилося свіже молоде листя; поетичне слово-сезонник (季語) раннього літа.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1838690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 公園の桜が葉桜になった。
+- READING :: こうえんのさくらがはざくらになった。
+- UK :: Сакура в парку вже вкрилася листям.
+- FOCUS :: 葉桜
+*** ex-1838690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 花が散った後の葉桜の下を歩くのも気持ちがいい。
+- READING :: はながちったあとのはざくらのしたをあるくのもきもちがいい。
+- UK :: Прогулюватися під сакурою, що вже вкрилася молодим листям після опадання цвіту, теж дуже приємно.
+- FOCUS :: 葉桜
+*** ex-1838690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 入学式から数週間が過ぎ、校庭の並木もすっかり涼しげな葉桜へと姿を変えた。
+- READING :: にゅうがくしきからすうしゅうかんがすぎ、こうていのなみきもすっかりすずしげなはざくらへとすがたをかえた。
+- UK :: Минуло кілька тижнів після вступної церемонії, і алея сакур на шкільному подвір’ї вже перетворилася на свіжо-зелені дерева в листі.
+- FOCUS :: 葉桜
+
+* Sense s-1838690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 76ba579d0b5a8ee4c3409c0fbd0d1bf80b128719224bf8c4aff236476f42bece
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1838690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belaubter Kirschbaum
+** Ukrainian glosses
+
+* Sense s-1838690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f513b9c9d1b4356f19ab045e2395e04549a3e7750c648f1f8a7d78bdbdf99e21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1838690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: листва вишен после цветения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1838690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1838690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はざくら
+** Accent accent-rd-1838690-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1838690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はざくら

@@ -1,0 +1,150 @@
+#+TITLE: 怒鳴り込む
+#+JMDICT_ID: 1848800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どなりこむ
+#+ROMAJI: donarikomu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1848800-001
+:PROPERTIES:
+:TEXT: 怒鳴り込む
+:END:
+*** Priorities
+- news1
+- nf23
+** Written form wf-1848800-002
+:PROPERTIES:
+:TEXT: 呶鳴り込む
+:END:
+** Written form wf-1848800-003
+:PROPERTIES:
+:TEXT: どなり込む
+:END:
+*** Information
+- sK
+** Reading rd-1848800-001
+:PROPERTIES:
+:TEXT: どなりこむ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1848800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fb768761ae0f49d36ffb27658730148eb1acbdecacd6258ecdce0bfde63102d2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5m
+- vi
+** English glosses
+- to storm in with a yell
+** Ukrainian glosses
+*** uk-s-1848800-001-001
+:PROPERTIES:
+:END:
+- text :: увірватися з криком; вдертися, лаючись
+** Learner notes
+*** note-s-1848800-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово 5-го класу (ґодан на -む), складене з 怒鳴る («кричати, репетувати») та 込む («входити всередину»). Описує розлючений вхід у приміщення зі скаргами чи погрозами; напрямок позначається часткою に або へ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1848800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 怒った客が店に怒鳴り込んできました。
+- READING :: おこったきゃくがみせにどなりこんできました。
+- UK :: Розлючений клієнт увірвався з криком до крамниці.
+- FOCUS :: 怒鳴り込んで
+*** ex-1848800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 深夜の騒音に我慢できなくなった隣人が、玄関先まで怒鳴り込む騒ぎになった。
+- READING :: しんやのそうおんにがまんできなくなったりんじんが、げんかんさきまでどなりこむさわぎになった。
+- UK :: Сусід, якому урвався терпець через нічний галас, влаштував скандал, увірвавшись із криком аж до порога.
+- FOCUS :: 怒鳴り込む
+*** ex-1848800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工事の責任者に何度連絡しても改善されないため、住民たちはついに事務所へ怒鳴り込んだ。
+- READING :: こうじのせきにんしゃになんどれんらくしてもかいぜんされないため、じゅうみんたちはついにじむしょへどなりこんだ。
+- UK :: Оскільки попри численні звернення до керівника будівництва нічого не змінювалося, мешканці врешті вдерлися з криком до офісу.
+- FOCUS :: 怒鳴り込んだ
+
+* Sense s-1848800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c1444c3cf04f18cf757498b580f6ca1611ebaca9965b1bdafc6d8ed4b975d828
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848800-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brüllend hereinstürmen
+** Ukrainian glosses
+
+* Sense s-1848800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 19f192b1dd3ec3e0ee7a1eadefec6e889239028866dfab1ecc5079918ac1b0f4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848800-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ворваться с криком (куда-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1848800-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1848800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どなりこむ

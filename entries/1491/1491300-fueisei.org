@@ -1,0 +1,167 @@
+#+TITLE: 不衛生
+#+JMDICT_ID: 1491300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふえいせい
+#+ROMAJI: fueisei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1491300-001
+:PROPERTIES:
+:TEXT: 不衛生
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1491300-001
+:PROPERTIES:
+:TEXT: ふえいせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1491300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 10321c67413c32bbfa4f03d4b1bdaf4f2ff1b951529a1bc7e3b4642ad068637f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- unsanitary condition
+- lack of hygienic care
+- inattention to hygiene
+- unhygienic conditions
+** Ukrainian glosses
+*** uk-s-1491300-001-001
+:PROPERTIES:
+:END:
+- text :: антисанітарія; негігієнічний, антисанітарний
+** Learner notes
+*** note-s-1491300-001-001
+:PROPERTIES:
+:END:
+- UK :: Напівпредикативний прикметник на -な та іменник, утворений за допомогою заперечного префікса 不 (не-) та слова 衛生 (гігієна, санітарія). Описує брудний або небезпечний для здоров'я стан приміщень, харчів чи звичок, наприклад у вислові 不衛生な環境 (антисанітарні умови).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1491300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 汚れた手で食べるのは不衛生だ。
+- READING :: よごれたてでたべるのはふえいせいだ。
+- UK :: Їсти брудними руками негігієнічно.
+- FOCUS :: 不衛生
+*** ex-1491300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ゴミが放置されたままの公園は、とても不衛生に見える。
+- READING :: ごみがほうちされたままのこうえんは、とてもふえいせいにみえる。
+- UK :: Парк, у якому сміття залишається неприбраним, має дуже антисанітарний вигляд.
+- FOCUS :: 不衛生
+*** ex-1491300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 災害後の避難所では、不衛生な環境による感染症の広がりを防ぐ対策が急がれた。
+- READING :: さいがいごのひなんじょでは、ふえいせいなかんきょうによるかんせんしょうのひろがりをふせぐたいさくがいそがれた。
+- UK :: У притулках після стихійного лиха терміново вживали заходів, щоб запобігти поширенню інфекцій через антисанітарні умови.
+- FOCUS :: 不衛生
+
+* Sense s-1491300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a1cd93bef69be7b2b37e46fb751475872ac15aea702f959c865f72671616d674
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1491300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unhygienisch
+*** en-s-1491300-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mangelnde Hygiene
+*** en-s-1491300-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unhygienischer Zustand
+** Ukrainian glosses
+
+* Sense s-1491300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c5a861cacefc1b8ab0b60a28a47d11b2141b5901c78fefb5deab85fb755edab8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1491300-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: антисанитария
+*** en-s-1491300-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～な} антисанитарный, негигиеничный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1491300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1491300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふえいせい

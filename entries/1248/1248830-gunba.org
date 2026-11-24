@@ -1,0 +1,164 @@
+#+TITLE: 軍馬
+#+JMDICT_ID: 1248830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんば
+#+ROMAJI: gunba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1248830-001
+:PROPERTIES:
+:TEXT: 軍馬
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1248830-001
+:PROPERTIES:
+:TEXT: ぐんば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1248830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 812d7b0013cce18eaaaf7ddbab49b7b60a3d1ca7a4cbd635042d2774f168d696
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- warhorse
+- army horse
+** Ukrainian glosses
+*** uk-s-1248830-001-001
+:PROPERTIES:
+:END:
+- text :: бойовий кінь; стройовий кінь
+** Learner notes
+*** note-s-1248830-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 軍 («армія, військо») та 馬 («кінь»). Позначає спеціально навченого коня, якого використовують у війську для кавалерії, перевезення вантажів і артилерії; у сучасних текстах уживається переважно в історичному контексті.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1248830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兵士が軍馬の世話をしている。
+- READING :: へいしがぐんばのせわをしている。
+- UK :: Солдат доглядає за бойовим конем.
+- FOCUS :: 軍馬
+*** ex-1248830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 広い草原で、何頭もの軍馬が訓練を受けていた。
+- READING :: ひろいそうげんで、なんとうものぐんばがくんれんをうけていた。
+- UK :: На широкій рівнині кілька стройових коней проходили вишкіл.
+- FOCUS :: 軍馬
+*** ex-1248830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 機械化が進むまで、軍馬は物資の輸送や戦場での移動に欠かせない存在だった。
+- READING :: きかいかがすすむまで、ぐんばはぶっしのゆそうやせんじょうでのいどうにかかせないそんざいだった。
+- UK :: Доки не поширилася механізація, бойові коні були незамінними для перевезення припасів і пересування на полі бою.
+- FOCUS :: 軍馬
+
+* Sense s-1248830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 828472e575524d8be24b4275075b687c23066c8594372b3e7087ef21d7028651
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1248830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kriegspferd
+*** en-s-1248830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Militärpferd
+*** en-s-1248830-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlachtross
+*** en-s-1248830-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Streitross
+** Ukrainian glosses
+
+* Sense s-1248830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8eb4c5d2f899efe60c12e92fa334e16fcd76aaee7b915a04d9b98fb09c4e9011
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1248830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: строевая лошадь, боевой конь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1248830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1248830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぐんば

@@ -1,0 +1,160 @@
+#+TITLE: 中心線
+#+JMDICT_ID: 2610150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうしんせん
+#+ROMAJI: chuushinsen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2610150-001
+:PROPERTIES:
+:TEXT: 中心線
+:END:
+** Reading rd-2610150-001
+:PROPERTIES:
+:TEXT: ちゅうしんせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2610150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1dd08ad3f46f8781720e5f4c6b9552e0bf6aa6d1282c9f02552efa8224ed4d8a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- centre line
+- center line
+- central line
+** Ukrainian glosses
+*** uk-s-2610150-001-001
+:PROPERTIES:
+:END:
+- text :: центральна лінія, вісь симетрії, осьова лінія
+** Learner notes
+*** note-s-2610150-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із 中心 («центр, середина») та 線 («лінія»). Уживається в геометрії, кресленні, анатомії, а також у дорожньому русі для позначення осьової лінії проїзної частини або розділової лінії посередині.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2610150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 紙の真ん中に中心線を引きました。
+- READING :: かみのまんなかにちゅうしんせんをひきました。
+- UK :: Я провів центральну лінію посередині аркуша.
+- FOCUS :: 中心線
+*** ex-2610150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この図形は、縦の中心線を軸にして左右対称になっている。
+- READING :: このずけいは、たてのちゅうしんせんをじくにしてさゆうたいしょうになっている。
+- UK :: Ця фігура симетрична ліворуч і праворуч відносно вертикальної осі симетрії.
+- FOCUS :: 中心線
+*** ex-2610150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 見通しの悪いカーブでは、車の事故を防ぐために中心線をまたいで追い越すことが禁止されている。
+- READING :: みとおしのわるいかーぶでは、くるまのじこをふせぐためにちゅうしんせんをまたいでおいこすことがきんしされている。
+- UK :: На поворотах із поганою видимістю заборонено перетинати осьову лінію для обгону, щоб запобігти аваріям.
+- FOCUS :: 中心線
+
+* Sense s-2610150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d36b893d9beb151bc8b7827873499fba2bbf356b633a6149a923b304e5852ea0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2610150-002-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: középvonal
+*** en-s-2610150-002-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: középpont jel
+** Ukrainian glosses
+
+* Sense s-2610150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e03edaeeaf019eac8df7bf1e160c53fe58490f98b93f516b286d05f7f0f21a2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2610150-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: центральная линия; средняя линия
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2610150-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2610150-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゅうしんせん
+** Accent accent-rd-2610150-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2610150-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゅうしんせん

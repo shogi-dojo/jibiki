@@ -1,0 +1,168 @@
+#+TITLE: 無駄足
+#+JMDICT_ID: 1530540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むだあし
+#+ROMAJI: mudaashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1530540-001
+:PROPERTIES:
+:TEXT: 無駄足
+:END:
+** Written form wf-1530540-002
+:PROPERTIES:
+:TEXT: ムダ足
+:END:
+** Written form wf-1530540-003
+:PROPERTIES:
+:TEXT: 徒足
+:END:
+*** Information
+- rK
+** Written form wf-1530540-004
+:PROPERTIES:
+:TEXT: むだ足
+:END:
+*** Information
+- sK
+** Reading rd-1530540-001
+:PROPERTIES:
+:TEXT: むだあし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1530540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a91ed07ef1acf58733c7ff5d7db88ca1cfea5f2402eb4f6e21e1b9c5bacbddc1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- visit for no reason
+- going on a fool's errand
+** Ukrainian glosses
+*** uk-s-1530540-001-001
+:PROPERTIES:
+:END:
+- text :: даремний похід, марна ходьба
+** Learner notes
+*** note-s-1530540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне する-дієслово, складене з 無駄 (марний, даремний) і 足 (ноги, кроки). Позначає ситуацію, коли людина пішла кудись марно, не досягнувши мети; уживається у зворотах 無駄足になる («виявитися марним походом») та 無駄足を踏む («ходити даремно»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1530540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 店が休みで、無駄足になった。
+- READING :: みせがやすみで、むだあしになった。
+- UK :: Крамниця виявилася зачиненою, тож я сходив даремно.
+- FOCUS :: 無駄足
+*** ex-1530540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 事前に電話で確認すれば、無駄足を踏まずにすむ。
+- READING :: じぜんにでんわでかくにんすれば、むだあしをふまずにすむ。
+- UK :: Якщо заздалегідь уточнити телефоном, не доведеться ходити даремно.
+- FOCUS :: 無駄足
+*** ex-1530540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: せっかく遠くの役所まで行ったのに、必要な書類を忘れて無駄足になってしまった。
+- READING :: せっかくとおくのやくしょまでいったのに、ひつようなしょるいをわすれてむだあしになってしまった。
+- UK :: Хоч я й дістався такої далекої установи, та забув потрібні документи, тож похід виявився марним.
+- FOCUS :: 無駄足
+
+* Sense s-1530540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9d8d7db67ddfab750a70122fb21f4aa66a430b5c851942ed81bf0fc0f8ae2d7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erfolgloser Besuch
+*** en-s-1530540-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergeblicher Gang
+*** en-s-1530540-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Metzgergang
+** Ukrainian glosses
+
+* Sense s-1530540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 396a8cf25842b2e9f462b8f8a5104fce255c8af228e286512e6962bc68845333
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1530540-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} ходить напрасно (куда-л.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1530540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1530540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: むだあし

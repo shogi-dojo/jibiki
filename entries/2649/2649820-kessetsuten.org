@@ -1,0 +1,143 @@
+#+TITLE: 結節点
+#+JMDICT_ID: 2649820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けっせつてん
+#+ROMAJI: kessetsuten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2649820-001
+:PROPERTIES:
+:TEXT: 結節点
+:END:
+** Reading rd-2649820-001
+:PROPERTIES:
+:TEXT: けっせつてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2649820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 94245cf39e8b656eb27aab4c8b9f753e7c9e14aa4f6d2cf75ed08cfbe410d46c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- focal point
+- nodal point
+- node
+** Ukrainian glosses
+*** uk-s-2649820-001-001
+:PROPERTIES:
+:END:
+- text :: вузлова точка; вузол; ключовий пункт перетину
+** Learner notes
+*** note-s-2649820-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного й науково-аналітичного стилю, утворений із 結節 (вузол, з'єднання) і 点 (точка). Вживається в математиці, фізиці й техніці для позначення вузлів мережі чи перетину, а в публіцистиці — про ключове місце перетину інтересів, шляхів чи проблем.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2649820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この駅は交通の結節点だ。
+- READING :: このえきはこうつうのけっせつてんだ。
+- UK :: Ця станція є транспортним вузлом.
+- FOCUS :: 結節点
+*** ex-2649820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史を振り返ると、この条約が大きな結節点になっている。
+- READING :: れきしをふりかえると、このじょうやくがおおきなけっせつてんになっている。
+- UK :: Якщо озирнутися на історію, цей договір став важливою вузловою точкою.
+- FOCUS :: 結節点
+*** ex-2649820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複数の路線と商業施設が集まるこの地区は、都市計画における重要な結節点とみなされている。
+- READING :: ふくすうのろせんとしょうぎょうしせつがあつまるこのちくは、としけいかくにおけるじゅうようなけっせつてんとみなされている。
+- UK :: Цей район, де сходяться кілька маршрутів і торговельні заклади, вважається важливим вузловим пунктом у міському плануванні.
+- FOCUS :: 結節点
+
+* Sense s-2649820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bd0acce7f67cda23c97f8741e2c60aa3dc6e75df681c0198705057aac21709c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2649820-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Knoten
+*** en-s-2649820-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Knotenpunkt
+** Ukrainian glosses
+
+* Sense s-2649820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2ea876fcb0936eb653dea74e8f5005c17c03a612a08920f9b5b3acc4bf83995d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2649820-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат., астр.) точка пересечения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2649820-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2649820-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: けっせつてん

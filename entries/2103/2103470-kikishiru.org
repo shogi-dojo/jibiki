@@ -1,0 +1,154 @@
+#+TITLE: 聞き知る
+#+JMDICT_ID: 2103470
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ききしる
+#+ROMAJI: kikishiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2103470-001
+:PROPERTIES:
+:TEXT: 聞き知る
+:END:
+** Written form wf-2103470-002
+:PROPERTIES:
+:TEXT: 聞知る
+:END:
+** Reading rd-2103470-001
+:PROPERTIES:
+:TEXT: ききしる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2103470-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 07a16be240abc30a9bf4668021c81c0f8e985356995c7817b0123e8e80904e89
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vt
+** English glosses
+- to learn something through hearing
+** Ukrainian glosses
+*** uk-s-2103470-001-001
+:PROPERTIES:
+:END:
+- text :: дізнатися з чуток (зі слів інших); почути й узяти до відома
+** Learner notes
+*** note-s-2103470-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжне перехідне дієслово першої дієвідміни (ґодан на -る), утворене з 聞く («чути, слухати») та 知る («знати, дізнаватися»). Підкреслює отримання відомостей опосередковано — зі слів інших людей, а не з власного досвіду; у сучасній мові частіше трапляється у формі 聞き知った або в письмовій прозі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2103470-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生からその話を聞き知りました。
+- READING :: せんせいからそのはなしをききしりました。
+- UK :: Я дізнався про цю історію зі слів учителя.
+- FOCUS :: 聞き知り
+*** ex-2103470-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 父は知人から彼の活躍を聞き知っていたようです。
+- READING :: ちちはちじんからかれのかつやくをききしっていたようです。
+- UK :: Схоже, батько вже чув про його успіхи від знайомих.
+- FOCUS :: 聞き知って
+*** ex-2103470-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 名高い職人の腕前を人づてに聞き知るにつけ、一度工房を訪ねてみたくなった。
+- READING :: なだかいしょくにんのうでまえをひとづてにききしるにつけ、いちどこうぼうをたずねてみたくなった。
+- UK :: Що більше я чув від людей про майстерність цього славетного ремісника, то дужче хотів бодай раз відвідати його майстерню.
+- FOCUS :: 聞き知る
+
+* Sense s-2103470-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e224855482589bdc4c2951ffccf1859286098ca0607c401abb0413ba4222d809
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2103470-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durch hören verstehen
+*** en-s-2103470-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wissen
+*** en-s-2103470-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kennen
+** Ukrainian glosses
+
+* Sense s-2103470-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2371eba9db7a7b96a6d3a68ff94553055906919a31f5dd7cda28a0365d240cd3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2103470-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: узнавать, услышать; пронюхать
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2103470-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2103470-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ききしる

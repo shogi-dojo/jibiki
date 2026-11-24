@@ -1,0 +1,139 @@
+#+TITLE: 適地
+#+JMDICT_ID: 1734920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てきち
+#+ROMAJI: tekichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1734920-001
+:PROPERTIES:
+:TEXT: 適地
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1734920-001
+:PROPERTIES:
+:TEXT: てきち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1734920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b9235ad3ee0fd63631f6bac510c113082a2a62861b38b8fddb3caf8b4055ec1a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- suitable place
+** Ukrainian glosses
+*** uk-s-1734920-001-001
+:PROPERTIES:
+:END:
+- text :: відповідне місце; сприятлива місцевість; придатна ділянка
+** Learner notes
+*** note-s-1734920-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, часто вживається у сільському господарстві, містобудуванні, бізнесі й туризмі. Позначає місцевість або ділянку, що за своїми природними чи технічними умовами найкраще підходить для певної мети (наприклад, 栽培の適地 — сприятливе місце для вирощування культури, 建設適地 — придатна для будівництва ділянка). Складається з 適 (відповідний) та 地 (місце, земля).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1734920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このあたりはみかんの栽培の適地です。
+- READING :: このあたりはみかんのさいばいのてきちです。
+- UK :: Ця місцевість добре підходить для вирощування мандаринів.
+- FOCUS :: 適地
+*** ex-1734920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 専門家の調査により、新しい発電所の建設に向けた適地がいくつか選ばれた。
+- READING :: せんもんかのちょうさにより、あたらしいはつでんしょのけんせつにむけたてきちがいくつかえらばれた。
+- UK :: За підсумками дослідження фахівців було обрано кілька придатних ділянок для будівництва нової електростанції.
+- FOCUS :: 適地
+*** ex-1734920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 気候変動の影響で従来の産地が変わりつつあり、新たな適地を探す動きが広がっている。
+- READING :: きこうへんどうのえいきょうでじゅうらいのさんちがかわりつつあり、あらたなてきちをさがすうごきがひろがっている。
+- UK :: Через вплив зміни клімату традиційні райони вирощування поступово змінюються, і шириться пошук нових сприятливих місцевостей.
+- FOCUS :: 適地
+
+* Sense s-1734920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 45d90c50f88bc7d94ce37ab2a0916c231327346ce2a6d0ea2790cbdda5264ebb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734920-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (für einen bestimmten Zweck) geeignetes Land
+** Ukrainian glosses
+
+* Sense s-1734920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7c5178dce9d9e3647d6998480bb3426491e8556cdb46f3132517f842c5248acd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734920-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) удобная (благоприятная, подходящая) местность
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1734920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1734920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: てきち

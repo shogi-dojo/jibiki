@@ -1,0 +1,179 @@
+#+TITLE: 除雪車
+#+JMDICT_ID: 1345720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょせつしゃ
+#+ROMAJI: josetsusha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1345720-001
+:PROPERTIES:
+:TEXT: 除雪車
+:END:
+** Reading rd-1345720-001
+:PROPERTIES:
+:TEXT: じょせつしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1345720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8aa64e09cfc5380edf54f2d7c06d1988654b4c7874c6db40c92ddff0a2658efd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- snowplow
+- snowplough
+- snow plow
+- snow plough
+** Ukrainian glosses
+*** uk-s-1345720-001-001
+:PROPERTIES:
+:END:
+- text :: снігоприбиральна машина; снігоочисник
+** Learner notes
+*** note-s-1345720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 除雪 (прибирання снігу) і 車 (машина, транспорт). Позначає спеціалізований автомобіль або залізничну техніку для розчищення доріг і колій від снігу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1345720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝から除雪車が道路を走っている。
+- READING :: あさからじょせつしゃがどうろをはしっている。
+- UK :: Із самого ранку дорогою їздить снігоприбиральна машина.
+- FOCUS :: 除雪車
+*** ex-1345720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大雪の日は、夜のうちに除雪車が雪をかいてくれる。
+- READING :: おおゆきのひは、よるのうちにじょせつしゃがゆきをかいてくれる。
+- UK :: У дні сильних снігопадів снігоочисник розчищає сніг ще вночі.
+- FOCUS :: 除雪車
+*** ex-1345720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 峠道が通行止めにならないよう、深夜から何台もの除雪車が作業を続けていた。
+- READING :: とうげみちがつうこうどめにならないよう、しんやからなんだいものじょせつしゃがさぎょうをつづけていた。
+- UK :: Щоб гірський перевал не перекрили для руху, від глибокої ночі безперервно працювали кілька снігоприбиральних машин.
+- FOCUS :: 除雪車
+
+* Sense s-1345720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4b4dea39086ab32c26b8fabfb87376beb4b3eba0ad60993e4982b887dfc5e81f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345720-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneepflug
+** Ukrainian glosses
+
+* Sense s-1345720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 649087aaff52f36391dbb8dbe2b6fb5256367428f8fa3f661c250b0f264f7a39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345720-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: снегоочиститель (автомашина)
+** Ukrainian glosses
+
+* Sense s-1345720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6691143ebcc772a0ea398dbb9f91e5aefe5144077e6abc8f9ea2f90c2c7fb8fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345720-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quita-nieve
+*** en-s-1345720-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barredora de nieve
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1345720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1345720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: じょせつしゃ
+** Accent accent-rd-1345720-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1345720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: じょせつしゃ

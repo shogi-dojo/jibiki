@@ -1,0 +1,175 @@
+#+TITLE: 海運業
+#+JMDICT_ID: 1772980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいうんぎょう
+#+ROMAJI: kaiungyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1772980-001
+:PROPERTIES:
+:TEXT: 海運業
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1772980-001
+:PROPERTIES:
+:TEXT: かいうんぎょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1772980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6c0401311677a2cbbbb712dd36f547730e5d5c21823d5a45e4cc392b99e5f48f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- shipping industry
+- shipping business
+- marine transportation business
+** Ukrainian glosses
+*** uk-s-1772980-001-001
+:PROPERTIES:
+:END:
+- text :: морське судноплавство; галузь морських перевезень
+** Learner notes
+*** note-s-1772980-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний іменник, утворений із 海運 («морські перевезення») та суфікса -業 («галузь, промисел, бізнес»). Позначає діяльність із перевезення вантажів і пасажирів морським транспортом, що відіграє ключову роль в економіці острівної Японії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1772980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は若い頃、海運業で働いていました。
+- READING :: そふはわかいころ、かいうんぎょうではたらいていました。
+- UK :: У молодості дідусь працював у сфері морських перевезень.
+- FOCUS :: 海運業
+*** ex-1772980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 海に囲まれた日本では、古くから海運業が経済を支えてきた。
+- READING :: うみにかこまれたにほんでは、ふるくからかいうんぎょうがけいざいをささえてきた。
+- UK :: У Японії, оточеній морем, галузь морських перевезень здавна підтримує економіку.
+- FOCUS :: 海運業
+*** ex-1772980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国際情勢の変化による燃料費の高騰は、世界中の海運業の収益に大きな影響を与えている。
+- READING :: こくさいじょうせいのへんかによるねんりょうひのこうとうは、せかいじゅうのかいうんぎょうのしゅうえきにおおきなえいきょうをあたえている。
+- UK :: Здорожчання пального через зміни міжнародної ситуації суттєво впливає на прибутки компаній морського судноплавства в усьому світі.
+- FOCUS :: 海運業
+
+* Sense s-1772980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff7f3171394ad8cb3aeb274d20fd89031940c5bfb4b5945a921b895734e5ae47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772980-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schiffsspedition
+*** en-s-1772980-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schiffsagentur
+** Ukrainian glosses
+
+* Sense s-1772980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 09a3c977ab6c24b053b04f2af32b822738d3791316926ff01d468d36c4410bb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772980-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: предприятие (агентство, контора) морских перевозок
+** Ukrainian glosses
+
+* Sense s-1772980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d68aeac96b4b9b6fe815b8793a360803be82c84842479831fd0fdd12a26fb9b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1772980-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: servicio de transportes maritimos
+*** en-s-1772980-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comercio marítimo
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1772980-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1772980-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かいうんぎょう

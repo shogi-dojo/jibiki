@@ -1,0 +1,117 @@
+#+TITLE: 社債券
+#+JMDICT_ID: 2822810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゃさいけん
+#+ROMAJI: shasaiken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2822810-001
+:PROPERTIES:
+:TEXT: 社債券
+:END:
+** Reading rd-2822810-001
+:PROPERTIES:
+:TEXT: しゃさいけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2822810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41513107c847007cb4d024850ed975ec7e7ca5a1be66e51c35b6ddf199a77b85
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- finc
+** English glosses
+- debenture
+- bond
+** Ukrainian glosses
+*** uk-s-2822810-001-001
+:PROPERTIES:
+:END:
+- text :: корпоративна облігація, сертифікат облігації компанії
+** Learner notes
+*** note-s-2822810-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансово-юридичний термін, утворений від 社債 («корпоративна облігація») та 券 («цінний папір, сертифікат»). Позначає власне документ або цінний папір, що засвідчує право власника облігації, випущеної акціонерним товариством (для самого боргового зобов'язання частіше вживають коротше слово 社債).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2822810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その企業は新しい社債券を発行した。
+- READING :: そのきぎょうはあたらしいしゃさいけんをはっこうした。
+- UK :: Те підприємство випустило нові корпоративні облігації.
+- FOCUS :: 社債券
+*** ex-2822810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会社法では、社債券に記載すべき項目が細かく定められている。
+- READING :: かいしゃほうでは、しゃさいけんにきさいすべきこうもくがこまかくさだめられている。
+- UK :: У Законі про компанії детально визначено реквізити, які мають бути зазначені в сертифікаті корпоративної облігації.
+- FOCUS :: 社債券
+*** ex-2822810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現在では証券の電子化が進み、紙の社債券を発行しない社債が一般的になっている。
+- READING :: げんざいではしょうけんのでんしかがすすみ、かみのしゃさいけんをはっこうしないしゃさいがいっぱんてきになっている。
+- UK :: Нині дедалі поширенішою стає цифровізація цінних паперів, тож корпоративні облігації без випуску паперового сертифіката стали нормою.
+- FOCUS :: 社債券
+
+* Sense s-2822810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 233948558f1df8044180e62847fef2531da2419c70d37ded73ec5b212bfe294d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2822810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schuldverschreibungszertifikat
+** Ukrainian glosses
+
+* Sense s-2822810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b8bf40fb813e5190e2dde19341f91b9c1cedf74237b6ede7ad5a01f48029c2a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2822810-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: облигации акционерного общества (акционерной компании)
+** Ukrainian glosses

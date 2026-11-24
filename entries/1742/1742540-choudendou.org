@@ -1,0 +1,209 @@
+#+TITLE: 超伝導
+#+JMDICT_ID: 1742540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうでんどう
+#+ROMAJI: choudendou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1742540-001
+:PROPERTIES:
+:TEXT: 超伝導
+:END:
+*** Priorities
+- spec1
+** Written form wf-1742540-002
+:PROPERTIES:
+:TEXT: 超電導
+:END:
+*** Priorities
+- news1
+- nf12
+** Reading rd-1742540-001
+:PROPERTIES:
+:TEXT: ちょうでんどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf12
+- spec1
+
+* Sense s-1742540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f3a9c28e52ba4519e0200500eca3eadec3fa1f8e058324ca1f25d112d78d24e6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- superconductivity
+- super-conductivity
+** Ukrainian glosses
+*** uk-s-1742540-001-001
+:PROPERTIES:
+:END:
+- text :: надпровідність
+** Learner notes
+*** note-s-1742540-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний і технічний термін, утворений із 超 («над-») та 伝導 («провідність»); трапляється також написання 超電導. Позначає явище повного зникнення електричного опору в деяких матеріалах за низьких температур (зокрема 超伝導磁石 — «надпровідний магніт»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1742540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 科学館で超伝導の実験を見ました。
+- READING :: かがくかんでちょうでんどうのじっけんをみました。
+- UK :: У музеї науки я бачив дослід із надпровідності.
+- FOCUS :: 超伝導
+*** ex-1742540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この列車は超伝導の仕組みを利用して、レールからわずかに浮いて走る。
+- READING :: このれっしゃはちょうでんどうのしくみをりようして、れーるからわずかにういてはしる。
+- UK :: Цей поїзд використовує явище надпровідності й рухається, злегка левітуючи над колією.
+- FOCUS :: 超伝導
+*** ex-1742540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 常温に近い環境で超伝導を実現できれば、送電時のエネルギー損失を大幅に減らせると期待されている。
+- READING :: じょうおんにちかいかんきょうでちょうでんどうをじつげんできれば、そうでんじのえねるぎーそんしつをおおはばにへらせるときたいされている。
+- UK :: Очікується, що якщо вдасться досягти надпровідності за умов, близьких до кімнатної температури, втрати енергії під час передавання струму суттєво зменшаться.
+- FOCUS :: 超伝導
+
+* Sense s-1742540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 998c7b9daa44a9fdbf19b716a790dc3f7c1efa99c6cfc70b6031f791c6db2065
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1742540-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} supergeleiding
+** Ukrainian glosses
+
+* Sense s-1742540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4eb4671f04e9f1f1740824461aafe16811fdc4d550c5d82943c2b715d8a4182c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1742540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Supraleitung
+*** en-s-1742540-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Supraleitfähigkeit (völlig widerstandslose Leitung von Strom)
+** Ukrainian glosses
+
+* Sense s-1742540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cd1303023a0c6e2d8c14ab11075bc724db8f19b39db08052d7ffcbc052e63792
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1742540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) сверхпроводимость
+** Ukrainian glosses
+
+* Sense s-1742540-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 840daca8e53d9c14d4648426ad24c66fc126cd21e920588bc2538c149d12b0d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1742540-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: superconductividad
+** Ukrainian glosses
+
+* Sense s-1742540-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 1fb7b2dbad2ea6221bc82d6e89daf463a2a4b066452fe37995ab38aa3f2324d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1742540-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: supraledning
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1742540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1742540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちょうでんどう

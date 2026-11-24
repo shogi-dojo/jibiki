@@ -1,0 +1,159 @@
+#+TITLE: 主犯
+#+JMDICT_ID: 1326110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅはん
+#+ROMAJI: shuhan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1326110-001
+:PROPERTIES:
+:TEXT: 主犯
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1326110-001
+:PROPERTIES:
+:TEXT: しゅはん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1326110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 57f61045d4609c918bd99c6d50c7028547c24a7ebd6eaaa4c7e97163160bf039
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- law
+** English glosses
+- principal offence
+- principal offense
+- principal offender
+** Ukrainian glosses
+*** uk-s-1326110-001-001
+:PROPERTIES:
+:END:
+- text :: головний злочинець; організатор злочину; основне правопорушення (юр.)
+** Learner notes
+*** note-s-1326110-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін, що означає головного виконавця чи ініціатора злочину, вчиненого групою осіб (на противагу співучасникам — 共犯 або 従犯), а також саме основне правопорушення. Щодо особи нерідко вживається форма 主犯格.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1326110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 警察はその事件の主犯を逮捕しました。
+- READING :: けいさつはそのじけんのしゅはんをたいほしました。
+- UK :: Поліція заарештувала головного виконавця того злочину.
+- FOCUS :: 主犯
+*** ex-1326110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 共犯者たちの証言によって、主犯の計画が明らかになりました。
+- READING :: きょうはんしゃたちのしょうげんによって、しゅはんのけいかくがあきらかになりました。
+- UK :: Завдяки свідченням співучасників розкрився задум головного злочинця.
+- FOCUS :: 主犯
+*** ex-1326110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 裁判では、誰が主犯の役割を担っていたかが量刑を決める大きな焦点となった。
+- READING :: さいばんでは、だれがしゅはんのやくわりをになっていたかがりょうけいをきめるおおきなしょうてんとなった。
+- UK :: На суді головним питанням під час визначення міри покарання стало те, хто виконував роль організатора злочину.
+- FOCUS :: 主犯
+
+* Sense s-1326110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 174a06fe05ff8718a46f8cfc72b83ce417f24b097a9163aa329cbb6d5dbf9320
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1326110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haupttäter
+*** en-s-1326110-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rädelsführer
+** Ukrainian glosses
+
+* Sense s-1326110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 05ca0b7017bc0b522a290ff70f05799c3fb7c5196e424d2fd4d66795421df633
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1326110-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) главное (основное) преступление
+*** en-s-1326110-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (см.) しゅはんしゃ
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1326110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1326110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゅはん

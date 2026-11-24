@@ -1,0 +1,185 @@
+#+TITLE: 三原色
+#+JMDICT_ID: 1300300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんげんしょく
+#+ROMAJI: sangenshoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1300300-001
+:PROPERTIES:
+:TEXT: 三原色
+:END:
+** Reading rd-1300300-001
+:PROPERTIES:
+:TEXT: さんげんしょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1300300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c0c0d0aa865cc610b59b0fb7c9ca53f7c5c6094d569b0763382b1d747bb1d6eb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- three primary colors (colours)
+** Ukrainian glosses
+*** uk-s-1300300-001-001
+:PROPERTIES:
+:END:
+- text :: три основні кольори
+** Learner notes
+*** note-s-1300300-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує 三 (три) і 原色 (основний колір). Вживається в оптиці, живописі та поліграфії: розрізняють адитивні кольори світла (光の三原色) і субтрактивні кольори фарб (色の三原色).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1300300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤と青と黄色は絵の具の三原色としてよく知られています。
+- READING :: あかとあおときいろはえのぐのさんげんしょくとしてよくしられています。
+- UK :: Червоний, синій і жовтий добре відомі як три основні кольори фарб.
+- FOCUS :: 三原色
+*** ex-1300300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 光の三原色をすべて同じ強さで混ぜると、白い光になる。
+- READING :: ひかりのさんげんしょくをすべておなじつよさでまぜると、しろいひかりになる。
+- UK :: Якщо змішати три основні кольори світла однакової яскравості, вийде біле світло.
+- FOCUS :: 三原色
+*** ex-1300300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: カラー印刷では、色の三原色に黒を加えた四色のインクを使って多様な色調を表現する。
+- READING :: からーいんさつでは、いろのさんげんしょくにくろをくわえたよんしょくのいんくをつかってたようなしきちょうをひょうげんする。
+- UK :: У кольоровому друці для відтворення розмаїтих відтінків використовують чотири фарби: три основні кольори та чорний.
+- FOCUS :: 三原色
+
+* Sense s-1300300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2348927abdd1db386b1fc3ddcc89a8dd7d453b1dec62f908602e7a7de77545c3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die drei Grundfarben
+*** en-s-1300300-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die drei Primärfarben
+** Ukrainian glosses
+
+* Sense s-1300300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b57420b51552c78ee81ba1df560fec6eb08cd8558ec18f1d5a450cd645226319
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300300-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rot, Gelb und Blau
+*** en-s-1300300-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gelb, Cyan und Magenta (bei subtraktiver Farbmischung)
+** Ukrainian glosses
+
+* Sense s-1300300-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 505b5477804b607d729c8693ecb0fd9388912de95e299dd2543c55c31ce78721
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300300-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grün, Rot und Gelb (bei additiver Farbmischung)
+** Ukrainian glosses
+
+* Sense s-1300300-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e37653427fcc27e4d0ca0bf0484d34013587c7969d214ba5c8315ef632c6f1cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300300-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: три основных цвета (красный, жёлтый, синий)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1300300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1300300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: さんげんしょく

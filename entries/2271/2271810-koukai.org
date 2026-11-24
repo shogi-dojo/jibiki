@@ -1,0 +1,194 @@
+#+TITLE: 降灰
+#+JMDICT_ID: 2271810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうかい
+#+ROMAJI: koukai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2271810-001
+:PROPERTIES:
+:TEXT: 降灰
+:END:
+** Reading rd-2271810-001
+:PROPERTIES:
+:TEXT: こうかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2271810-002
+:PROPERTIES:
+:TEXT: こうはい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2271810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8a3bab2da068381acdc60c41f8115a851dbc75b4fbbbe9c581303bfe215dc5c3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- fall of (volcanic) ash
+- falling ash
+** Ukrainian glosses
+*** uk-s-2271810-001-001
+:PROPERTIES:
+:END:
+- text :: випадання вулканічного попелу; попелопад
+** Learner notes
+*** note-s-2271810-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне する-дієслово, утворене з 降 («падати, випадати про опади») та 灰 («попіл»). Переважно вживається в прогнозах погоди й повідомленнях про вулканічну активність (наприклад, 降灰に注意する — «стерегтися випадання попелу»); має також варіант читання こうはい.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2271810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 火山の近くで降灰がありました。
+- READING :: かざんのちかくでこうかいがありました。
+- UK :: Поблизу вулкана випав попіл.
+- FOCUS :: 降灰
+*** ex-2271810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 噴火に伴い、風下の地域ではしばらく降灰が続く見込みだ。
+- READING :: ふんかにともない、かざしものちいきではしばらくこうかいがつづくみこみだ。
+- UK :: Унаслідок виверження в районах із підвітряного боку деякий час триватиме випадання попелу.
+- FOCUS :: 降灰
+*** ex-2271810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい降灰によって視界が悪くなったため、農作物への影響や交通の乱れが心配されている。
+- READING :: はげしいこうかいによってしかいがわるくなったため、のうさくぶつへのえいきょうやこうつうのみだれがしんぱいされている。
+- UK :: Через сильне випадання вулканічного попелу погіршилася видимість, тож існують побоювання щодо впливу на врожай та перебоїв у транспорті.
+- FOCUS :: 降灰
+
+* Sense s-2271810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 949fd56cd49eda61d8ccf5c9e318d4cd9414854c128840be68ff85fa671f0cf7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2271810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fallende Asche
+*** en-s-2271810-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Niedergehen von Asche
+*** en-s-2271810-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aschenregen (insbes. Vulkanasche)
+** Ukrainian glosses
+
+* Sense s-2271810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f9107d2dc61cf1e24f926806b739b679eec003945bc5e6c8f87048e2a93652b4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2271810-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: оседание пепла (напр. при извержении вулкана)
+** Ukrainian glosses
+
+* Sense s-2271810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f9bafde02ee7a9a8d37a343cdf2c2a18479dd8a4d447677deeb65b88caa7a40e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2271810-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ceniza volcánica
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2271810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2271810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: こうかい
+** Accent accent-rd-2271810-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2271810-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: こうはい

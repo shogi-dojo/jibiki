@@ -1,0 +1,141 @@
+#+TITLE: 機影
+#+JMDICT_ID: 1220780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きえい
+#+ROMAJI: kiei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1220780-001
+:PROPERTIES:
+:TEXT: 機影
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1220780-001
+:PROPERTIES:
+:TEXT: きえい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1220780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b5aa1a59238af35d8d59fa5729c9faab0655350ca0301364989f8db086713689
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- image of an airplane (in the sky)
+- sight of an airplane
+- shadow of an airplane
+** Ukrainian glosses
+*** uk-s-1220780-001-001
+:PROPERTIES:
+:END:
+- text :: силует літака (у небі); тінь літака
+** Learner notes
+*** note-s-1220780-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і журналістський іменник, утворений із 機 («літальний апарат») та 影 («тінь, обрис»). Описує видимий у небі чи на радарі силует літака, а також його тінь; поширений у репортажах та літературі (наприклад, 機影を現す — «з'явитися в небі», 機影を消す — «зникнути з поля зору»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1220780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雲のあいだから小さな機影が見えました。
+- READING :: くものあいだからちいさなきえいがみえました。
+- UK :: Крізь просвіт між хмарами показався маленький силует літака.
+- FOCUS :: 機影
+*** ex-1220780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夕暮れの空に旅客機の機影が浮かんでいます。
+- READING :: ゆうぐれのそらにりょかくきのきえいがうかんでいます。
+- UK :: На вечірньому небі чітко вирізняється силует пасажирського літака.
+- FOCUS :: 機影
+*** ex-1220780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 霧が晴れると、遠くの海上に救助ヘリの機影がようやく現れた。
+- READING :: きりがはれると、とおくのかいじょうにきゅうじょへりのきえいがようやくあらわれた。
+- UK :: Коли туман розсіявся, удалині над морем нарешті з'явився силует рятувального гелікоптера.
+- FOCUS :: 機影
+
+* Sense s-1220780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 65e95b7ab4fbf3cfef77f5e4c3bd8a57058f658fe570bb2c56c07677a002197f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sicht eines Flugzeuges
+** Ukrainian glosses
+
+* Sense s-1220780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: efd55a67dcccc488bde3d224ee6097a73d8428c7f3c906789e622a5920f1070a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1220780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1220780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1220780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きえい

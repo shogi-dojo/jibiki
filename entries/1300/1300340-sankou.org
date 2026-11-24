@@ -1,0 +1,165 @@
+#+TITLE: 三校
+#+JMDICT_ID: 1300340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんこう
+#+ROMAJI: sankou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1300340-001
+:PROPERTIES:
+:TEXT: 三校
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1300340-001
+:PROPERTIES:
+:TEXT: さんこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1300340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0914a24fa2f8d288d960155646340ed78c90c8cf0be3f9ae73f211abdd31f276
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- third proof
+** Ukrainian glosses
+*** uk-s-1300340-001-001
+:PROPERTIES:
+:END:
+- text :: третя коректура, третій коректурний відбиток
+** Learner notes
+*** note-s-1300340-001-001
+:PROPERTIES:
+:END:
+- UK :: Видавничий і друкарський термін (іменник), утворений із 三 (три) та 校 (перевірка, коректура). Позначає третій етап вичитування верстки після 初校 (перша коректура) і 再校 (друга коректура), зазвичай уже перед остаточним підписанням видання до друку (校了).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1300340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日中に本の三校を終わらせる。
+- READING :: きょうじゅうにほんのさんこうをおわらせる。
+- UK :: Сьогодні я завершу третю коректуру книжки.
+- FOCUS :: 三校
+*** ex-1300340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 編集者は三校の段階で細かい誤字をすべて修正した。
+- READING :: へんしゅうしゃはさんこうのだんかいでこまかいごじをすべてしゅうせいした。
+- UK :: Редактор на етапі третьої коректури виправив усі дрібні друкарські помилки.
+- FOCUS :: 三校
+*** ex-1300340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 三校のゲラが印刷所から届き、著者と編集部が最終的な図版の配置を確認して校了へ向かった。
+- READING :: さんこうのげらがいんさつじょからとどき、ちょしゃとへんしゅうぶがさいしゅうてきなずはんのはいちをかくにんしてこうりょうへむかった。
+- UK :: З друкарні надійшов відбиток третьої коректури, і автор разом із редакцією перевірили остаточне розташування ілюстрацій перед затвердженням до друку.
+- FOCUS :: 三校
+
+* Sense s-1300340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 574d043d17932c10764313a15dde7d119931db5bce8532395c0e82732c3c955f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300340-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Drittkorrektur
+*** en-s-1300340-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drittes Korrekturlesen
+** Ukrainian glosses
+
+* Sense s-1300340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 16189e9fd18bd9cee2fba170a26a3b82326359475acb13affdc5dc4882f44377
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300340-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dritte Korrekturfahne
+** Ukrainian glosses
+
+* Sense s-1300340-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 18a616a11e62fb8da3e25777616d5d552ce09a05840a5d2a709e709eda7d652f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1300340-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: третья корректура
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1300340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1300340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さんこう

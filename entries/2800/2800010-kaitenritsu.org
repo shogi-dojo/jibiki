@@ -1,0 +1,203 @@
+#+TITLE: 回転率
+#+JMDICT_ID: 2800010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいてんりつ
+#+ROMAJI: kaitenritsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2800010-001
+:PROPERTIES:
+:TEXT: 回転率
+:END:
+** Reading rd-2800010-001
+:PROPERTIES:
+:TEXT: かいてんりつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2800010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4095cb3acc4bad53bc5ca1fee4cddc2a0d4b2dcca37fce69828c914a1df31d07
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- bus
+** English glosses
+- turnover rate (merchandise, capital)
+** Ukrainian glosses
+*** uk-s-2800010-001-001
+:PROPERTIES:
+:END:
+- text :: коефіцієнт оборотності (капіталу, товарів); швидкість обслуговування (відвідувачів)
+** Learner notes
+*** note-s-2800010-001-001
+:PROPERTIES:
+:END:
+- UK :: Діловий та економічний термін (回転 — «обертання, оборот» + 率 — «коефіцієнт, показник»). Описує, наскільки швидко обертаються товарні запаси чи кошти (在庫回転率, 資本回転率), а в ресторанному бізнесі — як швидко змінюються відвідувачі за столиками (客の回転率).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2800010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この店は客の回転率が高いです。
+- READING :: このみせはきゃくのかいてんりつがたかいです。
+- UK :: У цьому закладі висока оборотність відвідувачів.
+- FOCUS :: 回転率
+*** ex-2800010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 在庫の回転率を上げるために、商品の陳列方法を見直した。
+- READING :: ざいこのかいてんりつをあげるために、しょうひんのちんれつほうほうをみなおした。
+- UK :: Щоб підвищити оборотність складських запасів, ми переглянули спосіб викладки товарів.
+- FOCUS :: 回転率
+*** ex-2800010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 立ち食いそば屋は一食あたりの単価が低い分、回転率を高めることで十分な利益を確保している。
+- READING :: たちぐいそばやはいっしょくあたりのたんかがひくいぶん、かいてんりつをたかめることでじゅうぶんなりえきをかくほしている。
+- UK :: Оскільки в забігайлівках із локшиною стоячи середня вартість порції невисока, достатній прибуток там забезпечують завдяки високій швидкості обслуговування клієнтів.
+- FOCUS :: 回転率
+
+* Sense s-2800010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4c4a83a98016dc287fd185dd7ec4ec0e4739de1dbe5bf6c1bbb4f5c5ba1c4fe2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2800010-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {econ.} omzetratio
+*** en-s-2800010-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omzetcijfer
+*** en-s-2800010-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: omloopsnelheid
+** Ukrainian glosses
+
+* Sense s-2800010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 09da8b39e6a3459f18e72d4b959be7e41cd2437c3438cf5a9ce88a39670464a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2800010-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umsatzquote
+*** en-s-2800010-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umsatz
+** Ukrainian glosses
+
+* Sense s-2800010-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1262d3fcf86f20c0547e228f83bd6d75f10b37540c4386a1687a00ec2d8a0504
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2800010-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umsatzrate
+*** en-s-2800010-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umsatzgeschwindigkeit (von Biomasse)
+** Ukrainian glosses
+
+* Sense s-2800010-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7e00c5d9b45a14cbfe5d1a7aa823d154a22328b1492e46aced983f119a579737
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2800010-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: скорость оборота; оборачиваемость (капитала и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2800010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2800010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かいてんりつ

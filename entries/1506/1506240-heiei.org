@@ -1,0 +1,165 @@
+#+TITLE: 兵営
+#+JMDICT_ID: 1506240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へいえい
+#+ROMAJI: heiei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1506240-001
+:PROPERTIES:
+:TEXT: 兵営
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1506240-001
+:PROPERTIES:
+:TEXT: へいえい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1506240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 973f7f564370e7b7e41ad49e317713c4aaf42a38e7f1654794fd226e3f722005
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- barracks
+** Ukrainian glosses
+*** uk-s-1506240-001-001
+:PROPERTIES:
+:END:
+- text :: казарма, військовий табір
+** Learner notes
+*** note-s-1506240-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 兵 (солдат, військо) та 営 (табір, укріплення). Позначає житлове приміщення або комплекс будівель для розміщення військовослужбовців; найчастіше трапляється в історичних чи воєнних текстах (у сучасних Силах самооборони Японії частіше вживається 隊舎).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1506240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い兵営の跡を見学した。
+- READING :: ふるいへいえいのあとをけんがくした。
+- UK :: Я оглянув залишки старої казарми.
+- FOCUS :: 兵営
+*** ex-1506240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 毎朝決まった時間に、兵営の中からラッパの音が聞こえてきた。
+- READING :: まいあさきまったじかんに、へいえいのなかかららっぱのおとがきこえてきた。
+- UK :: Щоранку о визначеній годині з казарми лунав звук сурми.
+- FOCUS :: 兵営
+*** ex-1506240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明治時代に建てられたレンガ造りの兵営は、現在では地域の歴史を伝える博物館として公開されている。
+- READING :: めいじじだいにたてられたれんがづくりのへいえいは、げんざいではちいきのれきしをつたえるはくぶつかんとしてこうかいされている。
+- UK :: Цегляні казарми, зведені в епоху Мейджі, нині відкриті для відвідувачів як музей місцевої історії.
+- FOCUS :: 兵営
+
+* Sense s-1506240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4402942eb376f1a7bfbb5208c44a3196ca05950e6c59dff16844fc246628f1b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1506240-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaserne
+** Ukrainian glosses
+
+* Sense s-1506240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b5560ff3003939b4424ee0468fc21ee397d5aee8cdf2560f895b1f85f29829af
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1506240-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: казарма
+** Ukrainian glosses
+
+* Sense s-1506240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1c16376afd9dc1564af4095229f05f0a8a2bac8205be3f847f475f91e6722cf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1506240-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuartel
+*** en-s-1506240-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: barracones
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1506240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1506240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: へいえい

@@ -1,0 +1,162 @@
+#+TITLE: 媒質
+#+JMDICT_ID: 1473400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばいしつ
+#+ROMAJI: baishitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1473400-001
+:PROPERTIES:
+:TEXT: 媒質
+:END:
+** Reading rd-1473400-001
+:PROPERTIES:
+:TEXT: ばいしつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1473400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cacc7d73964e5052193b7e546fc43ae8d8da925f36ab2cdc8a9ec7d4ca0abbc5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- medium (for carrying energy waves)
+- transmission medium
+** Ukrainian glosses
+*** uk-s-1473400-001-001
+:PROPERTIES:
+:END:
+- text :: середовище (поширення хвиль, енергії)
+** Learner notes
+*** note-s-1473400-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний термін (媒 — посередник + 質 — матерія, речовина). Означає матеріальне середовище (повітря, воду, скло тощо), у якому поширюються механічні чи електромагнітні хвилі, звук або тепло.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1473400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 音は空気や水などの媒質を通って伝わる。
+- READING :: おとはくうきやみずなどのばいしつをとおってつたわる。
+- UK :: Звук поширюється через таке середовище, як повітря чи вода.
+- FOCUS :: 媒質
+*** ex-1473400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 光はガラスのような透明な媒質に入ると、進む向きが少し曲がる。
+- READING :: ひかりはがらすのようなとうめいなばいしつにはいると、すすむむきがすこしまがる。
+- UK :: Коли світло потрапляє в прозоре середовище на кшталт скла, напрямок його руху дещо заломлюється.
+- FOCUS :: 媒質
+*** ex-1473400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 音波の伝わる速さは媒質の密度や温度によって変化し、気体よりも液体や固体の中の方が速い。
+- READING :: おんぱのつたわるはやさはばいしつのみつどやおんどによってへんかし、きたいよりもえきたいやこたいのなかのほうがはやい。
+- UK :: Швидкість поширення звукових хвиль залежить від густини й температури середовища та є вищою в рідинах і твердих тілах, ніж у газах.
+- FOCUS :: 媒質
+
+* Sense s-1473400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eb9a59112398f1ab7c2e930b5d0b258243333b4f2cb5eb040ad85d77c6ac5353
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medium (Träger bestimmter physikalischer od. chemischer Vorgänge)
+** Ukrainian glosses
+
+* Sense s-1473400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2a2248f070c6b09218599ddfbbdf08906b4d833e19fc09504715517d0ffb7b4b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473400-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közepes
+*** en-s-1473400-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közvetítő eszköz
+** Ukrainian glosses
+
+* Sense s-1473400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0789d283f01894e70f96b8838c3f4eb98bb6b4629458250028fd414101e7e21f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) среда
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1473400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1473400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ばいしつ

@@ -1,0 +1,151 @@
+#+TITLE: 川筋
+#+JMDICT_ID: 1636690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわすじ
+#+ROMAJI: kawasuji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1636690-001
+:PROPERTIES:
+:TEXT: 川筋
+:END:
+** Reading rd-1636690-001
+:PROPERTIES:
+:TEXT: かわすじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1636690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a519e1eaa2eb938992df261d3cbc89397c97bb1d59454f8cb3da48d5a31c5a9b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- course of a river
+- land along a river
+** Ukrainian glosses
+*** uk-s-1636690-001-001
+:PROPERTIES:
+:END:
+- text :: течія річки; річище; прибережна смуга вздовж річки
+** Learner notes
+*** note-s-1636690-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 川 («річка») та 筋 («лінія, смуга, напрямок»). Позначає як саме русло й напрямок течії, так і місцевість, що простягається вздовж берегів річки; часте сполучення — 川筋に沿って («вздовж русла річки»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1636690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川筋に沿って歩いた。
+- READING :: かわすじにそってあるいた。
+- UK :: Я йшов уздовж течії річки.
+- FOCUS :: 川筋
+*** ex-1636690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大雨が降るたびに、この川筋は水害の危険にさらされる。
+- READING :: おおあめがふるたびに、このかわすじはすいがいのきけんにさらされる。
+- UK :: Щоразу, коли йде сильна злива, ця місцевість уздовж річки опиняється під загрозою повені.
+- FOCUS :: 川筋
+*** ex-1636690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては川筋に多くの問屋が並び、舟運による交易で栄えていたという。
+- READING :: かつてはかわすじにおおくのといやがならび、しゅううんによるこうえきでさかえていたという。
+- UK :: Кажуть, колись уздовж річки тягнулися численні гуртові крамниці, а сама околиця процвітала завдяки річковій торгівлі.
+- FOCUS :: 川筋
+
+* Sense s-1636690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1ccd104d66e291ddb1940141cf9fe4078b1cf0eb19954e3c57bb37a64f09cc0f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flusslauf
+** Ukrainian glosses
+
+* Sense s-1636690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 46ac728547f4337b0e51dc652f4a946647a4a8616dcc617a61ad34b99e31e76d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: течение реки
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1636690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1636690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かわすじ
+** Accent accent-rd-1636690-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1636690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かわすじ

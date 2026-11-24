@@ -1,0 +1,133 @@
+#+TITLE: 少年鑑別所
+#+JMDICT_ID: 1796420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうねんかんべつしょ
+#+ROMAJI: shounenkanbetsusho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1796420-001
+:PROPERTIES:
+:TEXT: 少年鑑別所
+:END:
+** Reading rd-1796420-001
+:PROPERTIES:
+:TEXT: しょうねんかんべつしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1796420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 92516f566f701f47f62e90d276f2f147ecdff1db706335d7708f71fd84ee04c7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- juvenile classification home
+- juvenile detention facility
+** Ukrainian glosses
+*** uk-s-1796420-001-001
+:PROPERTIES:
+:END:
+- text :: центр діагностики та тимчасового утримання неповнолітніх правопорушників
+** Learner notes
+*** note-s-1796420-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний юридичний іменник японської системи правосуддя, що позначає державний заклад при Міністерстві юстиції, куди тимчасово направляють неповнолітніх на час розгляду справи в сімейному суді. На відміну від виправної установи (少年院), тут насамперед проводять психологічну та соціальну оцінку (鑑別).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1796420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 少年鑑別所では専門家が子どもと面談します。
+- READING :: しょうねんかんべつしょではせんもんかがこどもとめんだんします。
+- UK :: У центрі тимчасового утримання неповнолітніх фахівці проводять співбесіди з підлітками.
+- FOCUS :: 少年鑑別所
+*** ex-1796420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その非行少年は家庭裁判所の決定により少年鑑別所へ送られました。
+- READING :: そのひこうしょうねんはかていさいばんしょのけっていによりしょうねんかんべつしょへおくられました。
+- UK :: Того неповнолітнього правопорушника за рішенням сімейного суду направили до центру діагностики та тимчасового утримання.
+- FOCUS :: 少年鑑別所
+*** ex-1796420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 少年鑑別所での調査結果は、その後の保護処分を決める重要な資料として活用される。
+- READING :: しょうねんかんべつしょでのちょうさけっかは、そのごのほごしょぶんをきめるじゅうようなしりょうとしてかつようされる。
+- UK :: Результати обстеження в центрі діагностики неповнолітніх використовують як важливий матеріал для визначення подальших виховних заходів.
+- FOCUS :: 少年鑑別所
+
+* Sense s-1796420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 21ed330eb75da8926b6672e7b95625dd18b2fba408bd3c414b68cff8cac1b676
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796420-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дом предварительного заключения для малолетних преступников
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1796420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1796420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 9
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しょうねんかんべつしょ
+** Accent accent-rd-1796420-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1796420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 9
+:DROP_AFTER: 9
+:PATTERN: odaka
+:MORA_PATTERN: LHHHHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しょうねんかんべつしょ

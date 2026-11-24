@@ -1,0 +1,241 @@
+#+TITLE: コンソール
+#+JMDICT_ID: 1052380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: コンソール
+#+ROMAJI: konsooru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1052380-001
+:PROPERTIES:
+:TEXT: コンソール
+:NO_KANJI: false
+:END:
+
+* Sense s-1052380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0188544334b2cac7b2b035e0d3e94dcee7c8faf37f655c9308f9ca03631151ba
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- console
+** Ukrainian glosses
+*** uk-s-1052380-001-001
+:PROPERTIES:
+:END:
+- text :: консоль; пульт керування
+** Learner notes
+*** note-s-1052380-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичений технічний та комп’ютерний термін (від англ. console). В ІТ позначає текстовий інтерфейс командного рядка або панель розробника (напр., ブラウザのコンソール — консоль браузера), а також ігрову приставку (ゲームコンソール) чи центральну панель керування в автомобілі або студії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1052380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 画面の下にコンソールを開きました。
+- READING :: がめんのしたにこんそーるをひらきました。
+- UK :: Я відкрив консоль у нижній частині екрана.
+- FOCUS :: コンソール
+*** ex-1052380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: プログラムのエラーを確認するため、開発者用のコンソールを起動する。
+- READING :: ぷろぐらむのえらーをかくにんするため、かいはつしゃようのこんそーるをきどうする。
+- UK :: Щоб перевірити помилки в програмі, запускають консоль розробника.
+- FOCUS :: コンソール
+*** ex-1052380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: システムの不具合を調査する際には、まずコンソールに出力されたログを詳しく読むことが基本だ。
+- READING :: しすてむのふぐあいをちょうさするさいには、まずこんそーるにしゅつりょくされたろぐをくわしくよむことがきほんだ。
+- UK :: Під час розслідування збоїв у системі передусім слід уважно прочитати журнал подій, виведений у консоль.
+- FOCUS :: コンソール
+
+* Sense s-1052380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 68dcb90a2c525da2ff2a1554eff6e451444d9abbec63065834918dbf72df2862
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} console
+*** en-s-1052380-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedieningspaneel
+*** en-s-1052380-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: controlebord
+*** en-s-1052380-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schakelbord
+** Ukrainian glosses
+
+* Sense s-1052380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 47fa0660a0039e218ff1c1c9cb0412e8f7eb5029337eee863cdd16a45dee53a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: radiomeubel
+*** en-s-1052380-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: televisiemeubel
+*** en-s-1052380-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grammofoonmeubel
+** Ukrainian glosses
+
+* Sense s-1052380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d3671407fa878246944bfa67413326ae06ecf13cf3ae7dff829cef1f8262bb46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Konsole
+** Ukrainian glosses
+
+* Sense s-1052380-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1164f305f3a6b369123f40377f68b10a823fad17ff8e4e98580a9418d39ead39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Terminal
+** Ukrainian glosses
+
+* Sense s-1052380-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: eb0c2e1584366b2aa4b37e145df8193343c21de5df54d0b81190d69b1cc43991
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) console) консоль, кронштейн
+** Ukrainian glosses
+
+* Sense s-1052380-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: c243545e982926192def2f03249e919e751d9ca421fefe7bfee49940e47c7611
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1052380-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: consola
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1052380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1052380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: コンソール

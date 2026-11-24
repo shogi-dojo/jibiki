@@ -1,0 +1,164 @@
+#+TITLE: 重税
+#+JMDICT_ID: 1336410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅうぜい
+#+ROMAJI: juuzei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1336410-001
+:PROPERTIES:
+:TEXT: 重税
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1336410-001
+:PROPERTIES:
+:TEXT: じゅうぜい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1336410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7d6b329c8382f1e252b125cb322650dade8d748f9f40d484d5bb8f6797d67d26
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- heavy taxation
+** Ukrainian glosses
+*** uk-s-1336410-001-001
+:PROPERTIES:
+:END:
+- text :: важкий податок, високе оподаткування, податковий тягар
+** Learner notes
+*** note-s-1336410-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (та означення з часткою の), що позначає надмірно високий податок або обтяжливу податкову політику. Складається з ієрогліфів 重 (важкий) і 税 (податок); часто вживається в історичних чи економічних контекстах у сполуках 重税を課す (обкладати важкими податками) та 重税に苦しむ (страждати від непосильних податків).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1336410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 住民は重税に苦しんでいた。
+- READING :: じゅうみんはじゅうぜいにくるしんでいた。
+- UK :: Мешканці потерпали від важких податків.
+- FOCUS :: 重税
+*** ex-1336410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 政府が重税を課したため、商店の経営は厳しくなった。
+- READING :: せいふがじゅうぜいをかしたため、しょうてんのけいえいはきびしくなった。
+- UK :: Через те що уряд запровадив високі податки, вести справи крамницям стало складно.
+- FOCUS :: 重税
+*** ex-1336410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 相次ぐ戦費を賄うための重税が民衆の生活を圧迫し、やがて各地で一揆が起こる引き金となった。
+- READING :: あいつぐせんぴをまかなうためのじゅうぜいがみんしゅうのせいかつをあっぱくし、やがてかくちでいっきがおこるひきがねとなった。
+- UK :: Важкі податки на покриття безперервних воєнних витрат тиснули на життя народу й зрештою спричинили повстання в різних краях.
+- FOCUS :: 重税
+
+* Sense s-1336410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3457d031379f3afd377fc378d09d82baeb09293dda601788f75241e15900e7a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1336410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hohe Steuern
+*** en-s-1336410-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: drückende Steuern
+*** en-s-1336410-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unerträgliche Steuern
+*** en-s-1336410-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: harte Steuern
+** Ukrainian glosses
+
+* Sense s-1336410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 283721c4c658b2eaabd3ade9ef7d02f253bdf3af1617aa6ee9c0fee0885564c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1336410-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: высокий (тяжёлый) налог
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1336410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1336410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じゅうぜい

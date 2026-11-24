@@ -1,0 +1,176 @@
+#+TITLE: 着脱
+#+JMDICT_ID: 1701180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゃくだつ
+#+ROMAJI: chakudatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1701180-001
+:PROPERTIES:
+:TEXT: 着脱
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1701180-001
+:PROPERTIES:
+:TEXT: ちゃくだつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1701180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9550ade327d8bb04e448315c1b72c3bbe13c300e3d939d8209a945c00c64ccd3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- attaching and detaching
+- putting on and removing
+** Ukrainian glosses
+*** uk-s-1701180-001-001
+:PROPERTIES:
+:END:
+- text :: прикріплення та знімання; надягання і зняття
+** Learner notes
+*** note-s-1701180-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово із する (着脱する), утворене поєднанням антонімічних морфем 着 («надягати, прикріплювати») і 脱 («знімати, від'єднувати»). Часто вживається в інструкціях до техніки, одягу або аксесуарів, зокрема у сполученні 着脱可能 («знімний»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1701180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このカバーは簡単に着脱できます。
+- READING :: このかばーはかんたんにちゃくだつできます。
+- UK :: Цей чохол легко надягати й знімати.
+- FOCUS :: 着脱
+*** ex-1701180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬用のコートは、内側のライナーが着脱できる仕組みになっています。
+- READING :: ふゆようのこーとは、うちがわのらいなーがちゃくだつできるしくみになっています。
+- UK :: Зимове пальто сконструйоване так, що внутрішню підкладку можна пристібати й відстібати.
+- FOCUS :: 着脱
+*** ex-1701180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 安全を確保するため、部品の着脱作業は必ず電源を切ってから行ってください。
+- READING :: あんぜんをかくほするため、ぶひんのちゃくだつさぎょうはかならずでんげんをきってからおこなってください。
+- UK :: Для гарантування безпеки встановлення та зняття деталей обов'язково виконуйте лише після вимкнення живлення.
+- FOCUS :: 着脱
+
+* Sense s-1701180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7badb058ca77f69e1ae50caf3fa33aba4878a0effb80935414e274d9cda8fd7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701180-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: An- und Ausziehen
+** Ukrainian glosses
+
+* Sense s-1701180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0cd5902f5777d90757c6150c75c3796a54d50190799bb60a4b6bcd83a970929e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: An- und Abmachen
+** Ukrainian glosses
+
+* Sense s-1701180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5fb3d9643013330073fb3ce30c867c30cac44ac82941d92ac7174eace7c1a3dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701180-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : ～する
+*** en-s-1701180-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) надевать и снимать
+*** en-s-1701180-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) примкнуть и отомкнуть (штык)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1701180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1701180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゃくだつ

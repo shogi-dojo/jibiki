@@ -1,0 +1,183 @@
+#+TITLE: 朝貢
+#+JMDICT_ID: 1616620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうこう
+#+ROMAJI: choukou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1616620-001
+:PROPERTIES:
+:TEXT: 朝貢
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1616620-001
+:PROPERTIES:
+:TEXT: ちょうこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1616620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ca08fe761793d9e9aeca3b7a449addbd03ed20d28426ec7fa9b126475e384eef
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- bringing tribute
+** Ukrainian glosses
+*** uk-s-1616620-001-001
+:PROPERTIES:
+:END:
+- text :: принесення данини; сплата данини
+** Learner notes
+*** note-s-1616620-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін: іменник і неперехідне дієслово з する, складений з ієрогліфів 朝 (імператорський двір) та 貢 (данина, приношення). Позначає традиційну в Східній Азії дипломатичну практику, за якої васальна чи іноземна держава надсилала посольство з дарами до сильнішого двору на знак визнання зверхності й для ведення торгівлі (наприклад, 朝貢貿易 — данницька торгівля).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1616620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 周辺の国々が皇帝に朝貢した。
+- READING :: しゅうへんのくにぐにがこうていにちょうこうした。
+- UK :: Сусідні держави принесли данину імператорові.
+- FOCUS :: 朝貢
+*** ex-1616620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で、東アジアにおける朝貢貿易の仕組みについて学んだ。
+- READING :: れきしのじゅぎょうで、ひがしあじあにおけるちょうこうぼうえきのしくみについてまなんだ。
+- UK :: На уроці історії ми вивчали механізм данницької торгівлі у Східній Азії.
+- FOCUS :: 朝貢
+*** ex-1616620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 使節団は珍しい織物や香木を携えて都を訪れ、王室への朝貢を正式に行った。
+- READING :: しせつだんはめずらしいおりものやこうぼくをたずさえてみやこをおとずれ、おうしつへのちょうこうをせいしきにおこなった。
+- UK :: Посольство прибуло до столиці з рідкісними тканинами й пахучою деревиною та офіційно склало данину королівському двору.
+- FOCUS :: 朝貢
+
+* Sense s-1616620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 389615f0661edb12c01180087e4f3663e31eb9a21334204c4a2436a51916751c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1616620-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tribuut aan het hof
+*** en-s-1616620-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tribuut aan het hof brengen
+** Ukrainian glosses
+
+* Sense s-1616620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 759ad17bcad353686d362a7a753f14cf5f849358949bd299e066cef12975521f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1616620-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tribut
+*** en-s-1616620-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tribut zahlen
+** Ukrainian glosses
+
+* Sense s-1616620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8b93d0a15f809b80b2619ca0d82d5fdad15bfae7b076ed5f50fe6a28fb4e2be8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1616620-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) принесение дани
+*** en-s-1616620-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} уплачивать дань; приносить дары
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1616620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1616620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちょうこう

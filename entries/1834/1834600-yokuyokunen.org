@@ -1,0 +1,164 @@
+#+TITLE: 翌々年
+#+JMDICT_ID: 1834600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よくよくねん
+#+ROMAJI: yokuyokunen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1834600-001
+:PROPERTIES:
+:TEXT: 翌々年
+:END:
+** Written form wf-1834600-002
+:PROPERTIES:
+:TEXT: 翌翌年
+:END:
+** Reading rd-1834600-001
+:PROPERTIES:
+:TEXT: よくよくねん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1834600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8f5a28dde135a704b197e60fb4d93ed9ab3edfb028c407bb35a87d4e6dd2cd29
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- two years later
+- year after next
+** Ukrainian glosses
+*** uk-s-1834600-001-001
+:PROPERTIES:
+:END:
+- text :: позанаступний рік; через два роки (після згаданого року)
+** Learner notes
+*** note-s-1834600-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і прислівник часу, утворений повтором 翌 («наступний») перед 年 («рік»). На відміну від 再来年 («післянаступний рік від теперішнього моменту»), 翌々年 зазвичай означає рік, що настає через два роки після певної події в минулому чи майбутньому.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1834600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 卒業の翌々年に結婚しました。
+- READING :: そつぎょうのよくよくねんにけっこんしました。
+- UK :: Я одружився через два роки після випуску.
+- FOCUS :: 翌々年
+*** ex-1834600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引っ越した翌々年に、近くの駅が新しくなりました。
+- READING :: ひっこしたよくよくねんに、ちかくのえきがあたらしくなりました。
+- UK :: Через два роки після мого переїзду сусідню станцію оновили.
+- FOCUS :: 翌々年
+*** ex-1834600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その年に始まった計画は、翌々年の春にようやく最初の成果を出しました。
+- READING :: そのとしにはじまったけいかくは、よくよくねんのはるにようやくさいしょのせいかをだしました。
+- UK :: Проєкт, що розпочався того року, нарешті дав перші результати через два роки навесні.
+- FOCUS :: 翌々年
+
+* Sense s-1834600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 052520e320eb105c90ed0af0320d6e13464c077a84fe326ea3bfbd7163e25001
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1834600-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: übernächstes Jahr
+*** en-s-1834600-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in zwei Jahren
+** Ukrainian glosses
+
+* Sense s-1834600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7ccfed2bd16c2fc5a5c64e9f6e689c648d77233c7b7ea1ba222ef0330bd8dc64
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1834600-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: через два года, на третий год
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1834600-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1834600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: よくよくねん
+** Accent accent-rd-1834600-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1834600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: よくよくねん

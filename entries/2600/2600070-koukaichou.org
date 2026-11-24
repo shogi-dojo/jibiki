@@ -1,0 +1,136 @@
+#+TITLE: 航海長
+#+JMDICT_ID: 2600070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうかいちょう
+#+ROMAJI: koukaichou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2600070-001
+:PROPERTIES:
+:TEXT: 航海長
+:END:
+** Reading rd-2600070-001
+:PROPERTIES:
+:TEXT: こうかいちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2600070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 37af5eb2941a45a5fb4b5c8f68d4a4ae724659b0af4e2586c89e9ae0d596b3e2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chief navigator
+- navigating officer
+- navigator
+- sailing master
+** Ukrainian glosses
+*** uk-s-2600070-001-001
+:PROPERTIES:
+:END:
+- text :: старший штурман; головний штурман корабля
+** Learner notes
+*** note-s-2600070-001-001
+:PROPERTIES:
+:END:
+- UK :: Морський і військово-морський термін (іменник), утворений із 航海 (мореплавання, навігація) та 長 (начальник, старший). Позначає офіцера на судні або військовому кораблі, який відповідає за прокладання курсу, навігаційне обладнання та безпеку плавання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2600070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は船の航海長を務めている。
+- READING :: かれはふねのこうかいちょうをつとめている。
+- UK :: Він служить старшим штурманом на кораблі.
+- FOCUS :: 航海長
+*** ex-2600070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 悪天候が予想されるため、航海長は海図を確認して針路を変更した。
+- READING :: あくてんこうがよそうされるため、こうかいちょうはかいずをかくにんしてしんろをへんこうした。
+- UK :: Оскільки очікувалася негода, головний штурман звірився з морською картою та змінив курс.
+- FOCUS :: 航海長
+*** ex-2600070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 複雑な海峡を通過する際、航海長は船長を補佐しながら周囲の船舶や潮流を細心の注意で監視する。
+- READING :: ふくざつなかいきょうをつうかするさい、こうかいちょうはせんちょうをほさしながらしゅういのせんぱくやちょうりゅうをさいしんのちゅういでかんしする。
+- UK :: Проходячи через складну протоку, старший штурман допомагає капітанові та з максимальною увагою стежить за навколишніми суднами й течіями.
+- FOCUS :: 航海長
+
+* Sense s-2600070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e6e4802b5c17993905b7be70ad9d9f003f767533db7eac83f1efddec3f7110a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2600070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Navigationsoffizier
+** Ukrainian glosses
+
+* Sense s-2600070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3258a9da0de4757419e1022cdda666c8895a18948ecae0626669f93c34b9654e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2600070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [старший] штурман корабля
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2600070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2600070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうかいちょう

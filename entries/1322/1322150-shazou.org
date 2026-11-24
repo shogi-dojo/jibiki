@@ -1,0 +1,226 @@
+#+TITLE: 写像
+#+JMDICT_ID: 1322150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゃぞう
+#+ROMAJI: shazou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1322150-001
+:PROPERTIES:
+:TEXT: 写像
+:END:
+** Reading rd-1322150-001
+:PROPERTIES:
+:TEXT: しゃぞう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1322150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6e5f1c3731e417ea3c4add7d485012be8db508bea4757f8d2f14ead51d4cba91
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- mapping
+- map
+- image
+- representation
+** Ukrainian glosses
+*** uk-s-1322150-001-001
+:PROPERTIES:
+:END:
+- text :: відображення; образ
+** Learner notes
+*** note-s-1322150-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний іменник, що позначає правило відповідності між елементами двох множин (зокрема функцію). Слово утворене з ієрогліфів 写 («переписувати, проєктувати») та 像 («образ, фігура»). Часто вживається у словосполученнях 単射写像 (ін'єктивне відображення) і 全射写像 (сюр'єктивне відображення).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1322150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この関数は写像の一つです。
+- READING :: このかんすうはしゃぞうのひとつです。
+- UK :: Ця функція є одним із видів відображення.
+- FOCUS :: 写像
+*** ex-1322150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 授業で集合の間の写像について学びました。
+- READING :: じゅぎょうでしゅうごうのあいだのしゃぞうについてまなびました。
+- UK :: На занятті ми вивчали відображення між множинами.
+- FOCUS :: 写像
+*** ex-1322150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二つの空間を結ぶ連続な写像の性質を証明する。
+- READING :: ふたつのくうかんをむすぶれんぞくなしゃぞうのせいしつをしょうめいする。
+- UK :: Доводити властивості неперервного відображення, що пов'язує два простори.
+- FOCUS :: 写像
+
+* Sense s-1322150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f21d4dbe637129ba7f0f4caedba9e6cb00832d82d9d6cda113207124a1ee978e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} afbeelding
+** Ukrainian glosses
+
+* Sense s-1322150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9e7e93b4ec2be52510f2d2cee7df8ea6f34846c2355916e2557a5267736e87a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} beeldvorming
+** Ukrainian glosses
+
+* Sense s-1322150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3d2b78886fe339cf8fcb1f7cdd606671de5b66d158bcf54a32ab0ab5e0df841d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {stijll.} beeld
+** Ukrainian glosses
+
+* Sense s-1322150-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: cd4daff8f5c248856fea3d8b450b92af4d579a73fe1fdeb6756cd736ffc2e9d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abbildung
+** Ukrainian glosses
+
+* Sense s-1322150-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ecf3b6bac6713cc2cee671dddddd9a7dcdd246eba5d2f8400a2581ee8c1c9919
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-006-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: arcmás
+*** en-s-1322150-006-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: összkép
+*** en-s-1322150-006-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: térkép
+** Ukrainian glosses
+
+* Sense s-1322150-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1448681ad265dada805f836e4402751f2a30b8fd465e60557b6bcc0d264808a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1322150-007-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) изображение; отображение
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1322150-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1322150-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゃぞう

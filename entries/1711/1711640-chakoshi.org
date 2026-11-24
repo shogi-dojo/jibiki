@@ -1,0 +1,172 @@
+#+TITLE: 茶こし
+#+JMDICT_ID: 1711640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゃこし
+#+ROMAJI: chakoshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1711640-001
+:PROPERTIES:
+:TEXT: 茶こし
+:END:
+** Written form wf-1711640-002
+:PROPERTIES:
+:TEXT: 茶漉し
+:END:
+** Reading rd-1711640-001
+:PROPERTIES:
+:TEXT: ちゃこし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1711640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6e390248ae947dbb7b97151a7ba55341cc5bda9641a94862acbca2258242e987
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tea strainer
+** Ukrainian glosses
+*** uk-s-1711640-001-001
+:PROPERTIES:
+:END:
+- text :: ситечко для заварювання чаю; чайне ситечко
+** Learner notes
+*** note-s-1711640-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; побутовий кухонний термін (із 茶 «чай» та こし, іменникової форми дієслова 漉す «проціджувати»). Позначає дрібне ситечко, що ставиться поверх чашки чи вставляється в чайник для відокремлення чайного листя під час наливання (див. також 急須).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1711640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 茶こしを使って紅茶を入れた。
+- READING :: ちゃこしをつかってこうちゃをいれた。
+- UK :: Я заварила чорний чай, скориставшись ситечком.
+- FOCUS :: 茶こし
+*** ex-1711640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 細かい茶葉が落ちないように、目の細かい茶こしを選んだ。
+- READING :: こまかいちゃばがおちないように、めのこまかいちゃこしをえらんだ。
+- UK :: Щоб дрібні чаїнки не просочувалися, я обрав ситечко з дрібною сіткою.
+- FOCUS :: 茶こし
+*** ex-1711640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急須に内蔵された茶こしを取り外して洗うと、渋みが残りにくい。
+- READING :: きゅうすにないぞうされたちゃこしをとりはずしてあらうと、しぶみがのこりにくい。
+- UK :: Якщо виймати та мити вбудоване в заварник ситечко, гірчинка менше накопичується.
+- FOCUS :: 茶こし
+
+* Sense s-1711640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9e9d5b7f79f17e8aa66156a0c004c5e0449621a03b4e4cfa6c0080ad876869f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1711640-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: theezeef
+** Ukrainian glosses
+
+* Sense s-1711640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f7155c82fa7b6fb4cb45ba9202a6b3c428e632082c6068aab13a4da2648fc3c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1711640-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teesieb
+** Ukrainian glosses
+
+* Sense s-1711640-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8d82fbf8ed8de580d2addf4a405514acf2758623473f98f7c5ee94ff334b89c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1711640-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: чайное ситечко
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1711640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1711640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゃこし
+** Accent accent-rd-1711640-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1711640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゃこし

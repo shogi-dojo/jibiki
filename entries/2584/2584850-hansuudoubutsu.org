@@ -1,0 +1,137 @@
+#+TITLE: 反芻動物
+#+JMDICT_ID: 2584850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんすうどうぶつ
+#+ROMAJI: hansuudoubutsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2584850-001
+:PROPERTIES:
+:TEXT: 反芻動物
+:END:
+** Written form wf-2584850-002
+:PROPERTIES:
+:TEXT: 反すう動物
+:END:
+** Reading rd-2584850-001
+:PROPERTIES:
+:TEXT: はんすうどうぶつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2584850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7ba472e7283f535905ac8c382f60d4990e46779f2b3095efeb48ee8706e9ff68
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ruminant
+** Ukrainian glosses
+*** uk-s-2584850-001-001
+:PROPERTIES:
+:END:
+- text :: жуйна тварина
+** Learner notes
+*** note-s-2584850-001-001
+:PROPERTIES:
+:END:
+- UK :: Біологічний термін, утворений із 反芻 («пережовування жуйки») та 動物 («тварина»). Позначає травоїдних ссавців (корів, овець, кіз, оленів тощо) із багатокамерним шлунком, які відригують і повторно пережовують їжу; через рідкісний ієрогліф 芻 також трапляється запис 反すう動物.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2584850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 牛は代表的な反芻動物だ。
+- READING :: うしはだいひょうてきなはんすうどうぶつだ。
+- UK :: Корова — типовий представник жуйних тварин.
+- FOCUS :: 反芻動物
+*** ex-2584850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 羊やヤギも草を食べる反芻動物に含まれる。
+- READING :: ひつじややぎもくさをたべるはんすうどうぶつにふくまれる。
+- UK :: Вівці й кози також належать до травоїдних жуйних тварин.
+- FOCUS :: 反芻動物
+*** ex-2584850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 反芻動物は複数の胃を持ち、硬い植物の繊維を時間をかけて効率よく消化することができる。
+- READING :: はんすうどうぶつはふくすうのいをもち、かたいしょくぶつのせんいをじかんをかけてこうりつよくしょうかすることができる。
+- UK :: Жуйні тварини мають кілька відділів шлунка, що дає їм змогу поступово й ефективно перетравлювати жорсткі рослинні волокна.
+- FOCUS :: 反芻動物
+
+* Sense s-2584850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 86d868d29161c566a67b9c46a2852045e772c42f7ade69015b0fa81089dc8bd2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2584850-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wiederkäuer
+** Ukrainian glosses
+
+* Sense s-2584850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 07d041f3828b37f77fd00ade59c858e638a085ec9c0f4b59ac98ad2d5e90a44d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2584850-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: жвачное животное
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2584850-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2584850-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はんすうどうぶつ

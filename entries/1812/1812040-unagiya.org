@@ -1,0 +1,163 @@
+#+TITLE: 鰻屋
+#+JMDICT_ID: 1812040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うなぎや
+#+ROMAJI: unagiya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1812040-001
+:PROPERTIES:
+:TEXT: 鰻屋
+:END:
+** Written form wf-1812040-002
+:PROPERTIES:
+:TEXT: うなぎ屋
+:END:
+** Reading rd-1812040-001
+:PROPERTIES:
+:TEXT: うなぎや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1812040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fa3b2a4e71c31f01bb3ed2bfff75ad9e2bb8128a05687ff41bec437e300d6484
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- eel restaurant
+** Ukrainian glosses
+*** uk-s-1812040-001-001
+:PROPERTIES:
+:END:
+- text :: ресторан страв із вугра; заклад, де готують вугра
+** Learner notes
+*** note-s-1812040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; також часто пишеться як うなぎ屋. Позначає спеціалізований японський ресторан чи харчівню, де подають страви з річкового вугра, насамперед 蒲焼き (запечений у соусі вугор) та 鰻重 (вугор на рисі в лакованій коробці).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1812040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の近くに鰻屋がある。
+- READING :: えきのちかくにうなぎやがある。
+- UK :: Неподалік від станції є ресторан страв із вугра.
+- FOCUS :: 鰻屋
+*** ex-1812040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 土曜日は老舗の鰻屋に行列ができる。
+- READING :: どようびはしにせのうなぎやにぎょうれつができる。
+- UK :: У суботу до давнього ресторану вугра вишиковується черга.
+- FOCUS :: 鰻屋
+*** ex-1812040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夏の暑い日に栄養をつけようと、地元の人々が評判の鰻屋に集まった。
+- READING :: なつのあついひにえいようをつけようと、じもとのひとびとがひょうばんのうなぎやにあつまった。
+- UK :: Спекотного літнього дня місцеві жителі зібралися у відомому ресторані страв із вугра, щоб набратися сил.
+- FOCUS :: 鰻屋
+
+* Sense s-1812040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 79fcdd3a3c7c9595eb060f22e94fcf90157a8b1de788ce9818bb592fad1045c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1812040-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {cul.} palingrestaurant
+*** en-s-1812040-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palinghuis
+** Ukrainian glosses
+
+* Sense s-1812040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 31039d65f0fb2638e28054d2d313c04e6ae51e42c357146ed6cf7b8b7fd43805
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1812040-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aalrestaurant
+** Ukrainian glosses
+
+* Sense s-1812040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d9da2f25fef9522be4e08ac41aec2f230b8f76978abb516e59ee525c1277aa84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1812040-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: закусочная, где подают блюда из угрей
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1812040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1812040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: うなぎや

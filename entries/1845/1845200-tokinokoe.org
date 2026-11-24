@@ -1,0 +1,155 @@
+#+TITLE: 鬨の声
+#+JMDICT_ID: 1845200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ときのこえ
+#+ROMAJI: tokinokoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1845200-001
+:PROPERTIES:
+:TEXT: 鬨の声
+:END:
+** Written form wf-1845200-002
+:PROPERTIES:
+:TEXT: ときの声
+:END:
+** Reading rd-1845200-001
+:PROPERTIES:
+:TEXT: ときのこえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1845200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8067f410f412ad950e2ceef0ba22b43289cf6fe352ad06b3dfbce4a01f5fca12
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- exp
+- n
+** English glosses
+- battle cry
+- war cry
+** Ukrainian glosses
+*** uk-s-1845200-001-001
+:PROPERTIES:
+:END:
+- text :: бойовий клич; військовий вигук
+** Learner notes
+*** note-s-1845200-001-001
+:PROPERTIES:
+:END:
+- UK :: Сталий вислів, що позначає гучний спільний крик війська перед початком битви або наступу. Зазвичай вживається з дієсловом 上げる (鬨の声を上げる — «підняти бойовий клич»), а в переносному значенні — для підбадьорення команди.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1845200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兵士たちが鬨の声を上げた。
+- READING :: へいしたちがときのこえをあげた。
+- UK :: Воїни підняли бойовий клич.
+- FOCUS :: 鬨の声
+*** ex-1845200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 合図と同時に、城を囲んでいた軍勢から鬨の声がわき起こった。
+- READING :: あいずとどうじに、しろをかこんでいたぐんぜいからときのこえがわきおこった。
+- UK :: Одночасно із сигналом з лав війська, що оточило замок, пролунав бойовий клич.
+- FOCUS :: 鬨の声
+*** ex-1845200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 試合開始の直前、選手たちは円陣を組んで気合いの入った鬨の声を上げた。
+- READING :: しあいかいしのちょくぜん、せんしゅたちはえんじんをくんできあいのはいったときのこえをあげた。
+- UK :: Перед самим початком матчу гравці стали в коло й вигукнули бадьорий бойовий клич.
+- FOCUS :: 鬨の声
+
+* Sense s-1845200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b21b00d32ce09a666e7ca2a74332157f736192e24d65873a60c8448be3594412
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1845200-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kampfruf
+*** en-s-1845200-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kriegsgeschrei
+*** en-s-1845200-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlachtruf
+** Ukrainian glosses
+
+* Sense s-1845200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d6ec2fe493bb369bc3e7039a67b0ee53aff167a6784c60acf1f018a797932325
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1845200-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: боевой (воинственный) клич
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1845200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1845200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ときのこえ

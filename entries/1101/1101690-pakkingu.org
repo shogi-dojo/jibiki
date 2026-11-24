@@ -1,0 +1,630 @@
+#+TITLE: パッキング
+#+JMDICT_ID: 1101690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: パッキング
+#+ROMAJI: pakkingu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1101690-001
+:PROPERTIES:
+:TEXT: パッキング
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1101690-002
+:PROPERTIES:
+:TEXT: パッキン
+:NO_KANJI: false
+:END:
+
+* Sense s-1101690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7905aa986c21f1bd8132dc8257344284e8db26a780a6d124679e206167aec0a4
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- パッキング
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- packing (items in a suitcase, etc.)
+** Ukrainian glosses
+*** uk-s-1101690-001-001
+:PROPERTIES:
+:END:
+- text :: пакування; збирання речей (до валізи тощо)
+** Learner notes
+*** note-s-1101690-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійського packing. Уживається як іменник і перехідне дієслово на -する, зокрема коли йдеться про складання багажу в подорож або впорядковане пакування товарів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1101690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の前日にパッキングを始めました。
+- READING :: りょこうのぜんじつにぱっきんぐをはじめました。
+- UK :: Я почав пакувати речі напередодні поїздки.
+- FOCUS :: パッキング
+*** ex-1101690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 割れ物を送るときは、箱のすき間に十分なパッキングを詰める必要がある。
+- READING :: われものをおくるときは、はこのすきまにじゅうぶんなぱっきんぐをつめるひつようがある。
+- UK :: Відправляючи крихкі речі, потрібно заповнити порожнечі в коробці достатньою кількістю пакувального матеріалу.
+- FOCUS :: パッキング
+*** ex-1101690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 水筒の蓋から水が漏れるのは、内側のゴム製パッキングが劣化したからだろう。
+- READING :: すいとうのふたからみずがもれるのは、うちがわのごむせいぱっきんぐがれっかしたからだろう。
+- UK :: Вода підтікає з-під кришки термоса, мабуть, через те, що зносилася внутрішня гумова прокладка.
+- FOCUS :: パッキング
+
+* Sense s-1101690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 28a477aed851e48d093253346406d9740c283ee83129f1e292e65338137b770e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- packing (material for protecting packed goods)
+** Ukrainian glosses
+*** uk-s-1101690-002-001
+:PROPERTIES:
+:END:
+- text :: пакувальний матеріал; ущільнювач (для захисту вантажу)
+** Learner notes
+*** note-s-1101690-002-001
+:PROPERTIES:
+:END:
+- UK :: Позначає папір, пінопласт або інші матеріали, якими заповнюють порожнини в коробці, щоб крихкі предмети не пошкодилися під час перевезення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1101690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 66fa767dea3c8f1b2d4b0c0001f286391d4f080539ffa8f27b5e855c07b04d46
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- packing (material for sealing a joint)
+- gasket
+** Ukrainian glosses
+*** uk-s-1101690-003-001
+:PROPERTIES:
+:END:
+- text :: прокладка; ущільнювальне кільце; сальник
+** Learner notes
+*** note-s-1101690-003-001
+:PROPERTIES:
+:END:
+- UK :: У техніці та побуті (часто також у скороченій формі パッキン) означає гумову чи силіконову прокладку для герметизації з'єднань у трубах, кришках термосів, контейнерах тощо.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1101690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2b092ce26be45d201e2255839016cc1602332109ffbe77a33d50d548945b4395
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het inpakken
+*** en-s-1101690-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het pakken
+*** en-s-1101690-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het verpakken
+*** en-s-1101690-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pakking
+*** en-s-1101690-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpakking
+** Ukrainian glosses
+
+* Sense s-1101690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e5a489979a519f5d3d560a0c7dd23c4272680216afbbe3294e5d37f191ddd7bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pakking
+*** en-s-1101690-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dichtingsmiddel
+*** en-s-1101690-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: opvulsel
+*** en-s-1101690-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vulling
+** Ukrainian glosses
+
+* Sense s-1101690-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 79b0c9f044c34937657e5f8b686c3178e8426a56ae39aa0fe722387e8a224a13
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het inblikken
+*** en-s-1101690-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het inmaken
+** Ukrainian glosses
+
+* Sense s-1101690-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6d93c90368d84069162dfe8a3a46e660df0ab35ca9c07bbd8f5c9d8daabe544a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pakken
+*** en-s-1101690-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inpakken
+*** en-s-1101690-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verpakken
+** Ukrainian glosses
+
+* Sense s-1101690-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: c12808ac696e8e9fcc67a2da70fb652e908be63ab26e7357023be1fd2d9656e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inblikken
+*** en-s-1101690-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inmaken
+** Ukrainian glosses
+
+* Sense s-1101690-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 89127c81118413466d73e2ce3d6e64500a746d8b4ff20bfbe6f521a24186967a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Packen
+*** en-s-1101690-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verpacken
+** Ukrainian glosses
+
+* Sense s-1101690-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 9bb4d8eb72f96d5e56658e801a9ff08e46846aacf7a54028223d2eda44548607
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Packung
+*** en-s-1101690-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verpackung
+** Ukrainian glosses
+
+* Sense s-1101690-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 00cf5cde488b8f36b3c9510b2f0d06263b600361a256741a4222549d17da7e8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abdichtung
+*** en-s-1101690-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Packung
+** Ukrainian glosses
+
+* Sense s-1101690-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: ef786b20ee19e808dbcaf004eb5a8a9e2aa0d52e40416f0ffb362680e30be68a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dichtung
+** Ukrainian glosses
+
+* Sense s-1101690-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: eb8ebb8beb864fc26ea9f21668b4e3f7b52021a0d09cfb01b530d5944b406dc1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-013-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dichtungsmaterial
+** Ukrainian glosses
+
+* Sense s-1101690-014
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 14
+:SOURCE_FINGERPRINT: 40c869f826fbddaaba5a89366a4b8572ad49fb93c07e8d86042fa3fd112d0b75
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-014-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Füllmaterial
+*** en-s-1101690-014-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Füllung
+** Ukrainian glosses
+
+* Sense s-1101690-015
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 15
+:SOURCE_FINGERPRINT: 173e3dc3dc8e417f01b3979e55ea7ac419f889ffb11a227e51eae0efb8278018
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-015-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csomagolás
+*** en-s-1101690-015-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csomagolópapír
+*** en-s-1101690-015-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tömítés
+*** en-s-1101690-015-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tömítés
+*** en-s-1101690-015-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csomagolás
+*** en-s-1101690-015-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csomagolópapír
+*** en-s-1101690-015-007
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tömítés
+** Ukrainian glosses
+
+* Sense s-1101690-016
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 16
+:SOURCE_FINGERPRINT: fe1c73686d22af81e7f2918f60bc150ecba81f2c9d4753064104d5a91188c6a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-016-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) packing)
+*** en-s-1101690-016-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) упаковка
+*** en-s-1101690-016-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} упаковывать
+*** en-s-1101690-016-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) упаковочный материал
+** Ukrainian glosses
+
+* Sense s-1101690-017
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 17
+:SOURCE_FINGERPRINT: 5d5b873372ef95de43a87aa53c9c4273e071b6c9e0ea90d646ffd2a6c6a19db3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1101690-017-001
+:PROPERTIES:
+:LANG: slv
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ovitek
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1101690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1101690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: パッキング
+** Accent accent-rd-1101690-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1101690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: パッキング
+** Accent accent-rd-1101690-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1101690-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: パッキン

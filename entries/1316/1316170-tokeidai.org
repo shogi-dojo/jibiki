@@ -1,0 +1,151 @@
+#+TITLE: 時計台
+#+JMDICT_ID: 1316170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とけいだい
+#+ROMAJI: tokeidai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1316170-001
+:PROPERTIES:
+:TEXT: 時計台
+:END:
+** Reading rd-1316170-001
+:PROPERTIES:
+:TEXT: とけいだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1316170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 67dd7d4fc625cc09347fb1c7261ae739b2b1f253ceab484e6a0b083dc144e7c1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- clock tower
+** Ukrainian glosses
+*** uk-s-1316170-001-001
+:PROPERTIES:
+:END:
+- text :: вежа з годинником, годинникова вежа
+** Learner notes
+*** note-s-1316170-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 時計 (годинник) і 台 (підставка, вежа). Позначає архітектурну споруду з великим публічним годинником; в Японії найвідомішим прикладом є історична годинникова вежа в Саппоро (札幌時計台).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1316170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 公園の近くに古い時計台がある。
+- READING :: こうえんのちかくにふるいとけいだいがある。
+- UK :: Неподалік парку стоїть стара годинникова вежа.
+- FOCUS :: 時計台
+*** ex-1316170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 札幌の時計台の前では、多くの観光客が記念写真を撮っている。
+- READING :: さっぽろのとけいだいのまえでは、おおくのかんこうきゃくがきねんしゃしんをとっている。
+- UK :: Перед годинниковою вежею в Саппоро багато туристів роблять пам'ятні фотографії.
+- FOCUS :: 時計台
+*** ex-1316170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 町の象徴として親しまれてきた時計台は、来月から大規模な保存修理工事に入る予定だ。
+- READING :: まちのしょうちょうとしてしたしまれてきたとけいだいは、らいげつからだいきぼなほぞんしゅうりこうじにはいるよていだ。
+- UK :: Годинникова вежа, яку мешканці люблять як символ міста, із наступного місяця має піти на масштабну реставрацію.
+- FOCUS :: 時計台
+
+* Sense s-1316170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 02437d4b33719b067bfad9b3773609aa3f95cdf7dae8193630791db759f4762a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316170-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klokkentoren
+** Ukrainian glosses
+
+* Sense s-1316170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f170d31fa56f78fd6576d5d682e0e8a23bd0332076b5ebe6d67a07220d9aaae6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316170-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Uhrenturm
+** Ukrainian glosses
+
+* Sense s-1316170-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 745e9b7ce22c3ff8b9cfd80e7eb5be848c4ca781f75e87c31fd7a359eef83721
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316170-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подставка для часов; башня для больших часов (на здании)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1316170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1316170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: とけいだい

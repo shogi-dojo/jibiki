@@ -1,0 +1,178 @@
+#+TITLE: 音波
+#+JMDICT_ID: 1184010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おんぱ
+#+ROMAJI: onpa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1184010-001
+:PROPERTIES:
+:TEXT: 音波
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1184010-001
+:PROPERTIES:
+:TEXT: おんぱ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1184010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b9c19b2379603f941986dd3fba492d24992d5006132e39e6da1fafd780d8f7af
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+** English glosses
+- sound wave
+- acoustic wave
+** Ukrainian glosses
+*** uk-s-1184010-001-001
+:PROPERTIES:
+:END:
+- text :: звукова хвиля; акустична хвиля
+** Learner notes
+*** note-s-1184010-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний термін із 音 (звук) і 波 (хвиля). Описує пружні коливання, що поширюються в повітрі, воді або твердому середовищі; входить до термінів 超音波 (ультразвук) і 衝撃音波 (ударна звукова хвиля).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1184010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 音波が空気を伝わる。
+- READING :: おんぱがくうきをつたわる。
+- UK :: Звукові хвилі поширюються повітрям.
+- FOCUS :: 音波
+*** ex-1184010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: イルカは水中で音波を出して周囲の様子を探る。
+- READING :: いるかはすいちゅうでおんぱをだしてしゅういのようすをさぐる。
+- UK :: Дельфіни видають під водою звукові хвилі, щоб досліджувати навколишній простір.
+- FOCUS :: 音波
+*** ex-1184010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 防音壁は外部から届く音波を吸収したり反射したりして騒音を減らす仕組みになっている。
+- READING :: ぼうおんへきはがいぶからとどくおんぱをきゅうしゅうしたりはんしゃしたりしてそうおんをへらすしくみになっている。
+- UK :: Шумозахисний екран влаштований так, щоб поглинати або відбивати звукові хвилі ззовні й зменшувати рівень шуму.
+- FOCUS :: 音波
+
+* Sense s-1184010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 805a9112d0851f5e6d359a1e9ba5635d2b8d3fcbd70325faabebe22e33351834
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184010-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geluidsgolf
+** Ukrainian glosses
+
+* Sense s-1184010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f67c3c4bfaa578792e27c49a17a724b2f91e6db7c813be932a3a2918658ef4f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184010-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schallwelle
+** Ukrainian glosses
+
+* Sense s-1184010-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 790bc94941862e5f5bc0103267c7e22184a0bcd62cbc1578cfa6321d123eb954
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184010-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: звуковая волна
+** Ukrainian glosses
+
+* Sense s-1184010-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 28772ef378d042433fab6f72c8101617ab289d2ab5094c44bdb7f82381dda2a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1184010-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: onda sonora
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1184010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1184010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: おんぱ

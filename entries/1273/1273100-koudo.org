@@ -1,0 +1,185 @@
+#+TITLE: 光度
+#+JMDICT_ID: 1273100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうど
+#+ROMAJI: koudo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1273100-001
+:PROPERTIES:
+:TEXT: 光度
+:END:
+** Reading rd-1273100-001
+:PROPERTIES:
+:TEXT: こうど
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1273100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e173d9d768a36e5e66baad3572081857d9526c9cf78d4a449f28b5afa0a397ae
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- intensity of light
+** Ukrainian glosses
+*** uk-s-1273100-001-001
+:PROPERTIES:
+:END:
+- text :: сила світла, світність, яскравість
+** Learner notes
+*** note-s-1273100-001-001
+:PROPERTIES:
+:END:
+- UK :: Науково-технічний іменник, утворений із 光 (світло) та 度 (ступінь, міра). У фізиці та астрономії позначає силу світла джерела (вимірюється в канделах) або видиму яскравість небесних тіл (наприклад, 星の光度 — «світність зорі»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1273100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電球の光度を調べる。
+- READING :: でんきゅうのこうどをしらべる。
+- UK :: Перевіряю силу світла лампочки.
+- FOCUS :: 光度
+*** ex-1273100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このライトは用途に合わせて光度を三段階に調節できる。
+- READING :: このらいとはようとにあわせてこうどをさんだんかいにちょうせつできる。
+- UK :: Яскравість цього ліхтаря можна регулювати на трьох рівнях залежно від потреби.
+- FOCUS :: 光度
+*** ex-1273100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 天文学者たちは遠くの星が放つ光度の変化を観測し、その星の大きさを推定している。
+- READING :: てんもんがくしゃたちはとおくのほしがはなつこうどのへんかをかんそくし、そのほしのおおきさをすいていしている。
+- UK :: Астрономи спостерігають за змінами світності далеких зір і на основі цього оцінюють їхні розміри.
+- FOCUS :: 光度
+
+* Sense s-1273100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e793dc1ea4b778acbd46671275ac46d60708326545e793f9064ba0c601f6d8ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273100-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lichtsterkte
+*** en-s-1273100-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lichtintensiteit
+*** en-s-1273100-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: luminositeit
+** Ukrainian glosses
+
+* Sense s-1273100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: db0fa143b3eb40306348358cdd2e1e9ee7b4daa77f69e99e9415f1cc4ad9976a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lichtstärke
+** Ukrainian glosses
+
+* Sense s-1273100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4d4b2c37ad0d8acecafc610fa2dda0d9672086ecd4f5cefe2841490f253ace85
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273100-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leuchtkraft
+** Ukrainian glosses
+
+* Sense s-1273100-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ec5bbb3407e59c6a53a4398d9041501118243ba7711f37d8c2095ddc79a6907a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273100-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сила света; яркость; освещённость
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1273100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1273100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうど

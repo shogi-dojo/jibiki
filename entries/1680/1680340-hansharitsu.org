@@ -1,0 +1,157 @@
+#+TITLE: 反射率
+#+JMDICT_ID: 1680340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんしゃりつ
+#+ROMAJI: hansharitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1680340-001
+:PROPERTIES:
+:TEXT: 反射率
+:END:
+** Reading rd-1680340-001
+:PROPERTIES:
+:TEXT: はんしゃりつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1680340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7d2f328e07cc5de3a44ed784719d152e1d777426e6299dc33908bb9951d48e0d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- reflectance
+** Ukrainian glosses
+*** uk-s-1680340-001-001
+:PROPERTIES:
+:END:
+- text :: коефіцієнт відбиття; відбивна здатність
+** Learner notes
+*** note-s-1680340-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний і технічний термін (іменник), утворений від 反射 (відбиття світла, хвиль) та 率 (коефіцієнт, частка). Позначає відношення кількості світла або іншого випромінювання, відбитого поверхнею, до загальної кількості випромінювання, що на неї падає (зокрема в оптиці, астрономії та кліматології).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1680340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雪は光の反射率が高い。
+- READING :: ゆきはひかりのはんしゃりつがたかい。
+- UK :: Сніг має високий коефіцієнт відбиття світла.
+- FOCUS :: 反射率
+*** ex-1680340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 白い壁は暗い色の壁に比べて反射率が高く、部屋が明るく見える。
+- READING :: しろいかべはくらいいろのかべにくらべてはんしゃりつがたかく、へやがあかるくみえる。
+- UK :: Білі стіни мають вищу відбивну здатність, ніж темні, тому кімната здається світлішою.
+- FOCUS :: 反射率
+*** ex-1680340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地球の氷河が減ると太陽光の反射率が下がり、温暖化がさらに加速する恐れがある。
+- READING :: ちきゅうのひょうががへるとたいようこうのはんしゃりつがさがり、おんだんかがさらにかそくするおそれがある。
+- UK :: Зі зменшенням льодовиків на Землі знижується коефіцієнт відбиття сонячного світла, що може ще більше прискорити потепління.
+- FOCUS :: 反射率
+
+* Sense s-1680340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 902acaddc3fcd2ccf4976a9b0c3b837228a90a9e5563793b3cfe0eec702b2161
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680340-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reflexionsgrad
+*** en-s-1680340-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reflexionsvermögen
+*** en-s-1680340-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rückstrahlvermögen
+*** en-s-1680340-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Remission
+** Ukrainian glosses
+
+* Sense s-1680340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 361b7033ddc8bd7f907366fbe00ff08899c05c5b27243b2a53ad0fbb44f2d9e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1680340-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) отражаемость; коэффициент отражения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1680340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1680340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はんしゃりつ

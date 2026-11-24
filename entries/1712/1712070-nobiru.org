@@ -1,0 +1,193 @@
+#+TITLE: 野蒜
+#+JMDICT_ID: 1712070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のびる
+#+ROMAJI: nobiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1712070-001
+:PROPERTIES:
+:TEXT: 野蒜
+:END:
+** Reading rd-1712070-001
+:PROPERTIES:
+:TEXT: のびる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1712070-002
+:PROPERTIES:
+:TEXT: ノビル
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1712070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 468c83735edba83cb63319a78824928d94ea7b14c9da3c63dae2654b6751170d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- wild rocambole (Allium grayi)
+** Ukrainian glosses
+*** uk-s-1712070-001-001
+:PROPERTIES:
+:END:
+- text :: дикий японський часник (Allium grayi); нобіру
+** Learner notes
+*** note-s-1712070-001-001
+:PROPERTIES:
+:END:
+- UK :: Багаторічна дикоросла рослина родини цибулевих, поширена в Японії на луках, узбіччях доріг і берегах річок. Зазвичай записується каною (ノビル або のびる); молоді цибулини та листя навесні вживають у їжу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1712070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 春に野原でノビルを摘む。
+- READING :: はるにのはらでのびるをつむ。
+- UK :: Навесні збирати на луці дикий японський часник.
+- FOCUS :: ノビル
+*** ex-1712070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 採れたてのノビルをみそにつけて食べた。
+- READING :: とれたてののびるをみそにつけてたべた。
+- UK :: Я їв щойно зібраний нобіру, вмочуючи його в пасту місо.
+- FOCUS :: ノビル
+*** ex-1712070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 川の土手を歩いていると、あちこちにノビルが生えているのが見つかる。
+- READING :: かわのどてをあるいていると、あちこちにのびるがはえているのがみつかる。
+- UK :: Якщо прогулятися береговим насипом річки, то тут і там можна натрапити на зарості нобіру.
+- FOCUS :: ノビル
+
+* Sense s-1712070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8c6712a36fd1e3e02d2950fb6e4a8cdc3c9a5aaee10df49754e9b764404ac5d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712070-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} Allium nipponicum
+*** en-s-1712070-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Allium grayi {= soort van look}
+** Ukrainian glosses
+
+* Sense s-1712070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cef6fc89cc4ba30203b73edaac03418599a34c6810c8019e73870b2b2c4d9faa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712070-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lauch
+*** en-s-1712070-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Allium grayi
+** Ukrainian glosses
+
+* Sense s-1712070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fcd90f0fb4c7c56abfc8c179ffff80e816ff6d6b288e79bc6853ef99ba290049
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712070-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лук японский, Allium nipponicum (Franch et Sav.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1712070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1712070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のびる
+** Accent accent-rd-1712070-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1712070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のびる

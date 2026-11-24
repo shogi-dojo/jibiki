@@ -1,0 +1,150 @@
+#+TITLE: 翻車魚
+#+JMDICT_ID: 1523390
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まんぼう
+#+ROMAJI: manbou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1523390-001
+:PROPERTIES:
+:TEXT: 翻車魚
+:END:
+** Reading rd-1523390-001
+:PROPERTIES:
+:TEXT: まんぼう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1523390-002
+:PROPERTIES:
+:TEXT: マンボウ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1523390-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d1284e5e5b5ed06d50ae4a25db352652fb2e349d2d8447e87009f351fffdd1d9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- ocean sunfish (Mola mola)
+** Ukrainian glosses
+*** uk-s-1523390-001-001
+:PROPERTIES:
+:END:
+- text :: риба-місяць (Mola mola)
+** Learner notes
+*** note-s-1523390-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, назва великої океанічної риби з плоским круглим тілом без хвостового плавця. Хоча існує рідкісне ієрогліфічне написання 翻車魚 (атеджі), у сучасній японській мові слово майже завжди пишуть катаканою як マンボウ (або хіраґаною まんぼう).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1523390-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 水族館で大きなマンボウを見た。
+- READING :: すいぞくかんでおおきなまんぼうをみた。
+- UK :: В океанаріумі я бачив велику рибу-місяць.
+- FOCUS :: マンボウ
+*** ex-1523390-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: マンボウは丸くて平たい体をしており、海面近くに浮かんで日光浴をすることがある。
+- READING :: まんぼうはまるくてひらたいからだをしており、かいめんちかくにうかんでにっこうよくをすることがある。
+- UK :: Риба-місяць має округле пласке тіло й іноді спливає до самої поверхні моря, щоб погрітися на сонці.
+- FOCUS :: マンボウ
+*** ex-1523390-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 深海へ潜って餌を探すマンボウは、体温を回復させるために温かい表層へ戻ってくる。
+- READING :: しんかいへもぐってえさをさがすまんぼうは、たいおんをかいふくさせるためにあたたかいひょうそうへもどってくる。
+- UK :: Пірнаючи в морські глибини в пошуках їжі, риба-місяць повертається до теплого поверхневого шару води, щоб відновити температуру тіла.
+- FOCUS :: マンボウ
+
+* Sense s-1523390-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4ad5f42deb10c90a2c1cb57ed50c5ebb9c3e662803782d2b68dd261a3910b494
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523390-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mondfisch
+*** en-s-1523390-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mola mola
+** Ukrainian glosses
+
+* Sense s-1523390-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2f36e8a5ad195aea49ba06be591e4d9b6a302656d27f7218d42e8b6843a68f98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523390-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: луна-рыба, Mola mola (L.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1523390-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1523390-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: まんぼう

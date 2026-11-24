@@ -1,0 +1,151 @@
+#+TITLE: 電車賃
+#+JMDICT_ID: 1443540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんしゃちん
+#+ROMAJI: denshachin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1443540-001
+:PROPERTIES:
+:TEXT: 電車賃
+:END:
+** Reading rd-1443540-001
+:PROPERTIES:
+:TEXT: でんしゃちん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1443540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dfa841614537b1505b9febf3c10b60f633e91cac1b8d96eaf616e28f4fe6d497
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- train fare
+** Ukrainian glosses
+*** uk-s-1443540-001-001
+:PROPERTIES:
+:END:
+- text :: вартість проїзду поїздом; плата за квиток на електричку або трамвай
+** Learner notes
+*** note-s-1443540-001-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий іменник, що поєднує 電車 (електричка, трамвай) і 賃 (плата, тариф). Позначає гроші, потрібні на поїздку міським або приміським рейковим транспортом, і часто вживається в розмовному мовленні поруч із 交通費 (транспортні витрати) та バス代 (плата за автобус).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1443540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 隣の駅までの電車賃は二百円です。
+- READING :: となりのえきまでのでんしゃちんはにひゃくえんです。
+- UK :: Вартість проїзду поїздом до сусідньої станції становить двісті єн.
+- FOCUS :: 電車賃
+*** ex-1443540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 財布を忘れてしまい、友達に電車賃を借りて帰った。
+- READING :: さいふをわすれてしまい、ともだちにでんしゃちんをかりてかえった。
+- UK :: Я забув гаманець, тож позичив у друга гроші на квиток на поїзд і поїхав додому.
+- FOCUS :: 電車賃
+*** ex-1443540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 出張で立て替えた電車賃は、月末に領収書を添えて経理部へ請求する仕組みになっている。
+- READING :: しゅっちょうでたてかえたでんしゃちんは、げつまつにりょうしゅうしょをそえてけいりぶへせいきゅうするしくみになっている。
+- UK :: За встановленим порядком витрати на проїзд поїздом, оплачені під час відрядження з власної кишені, наприкінці місяця відшкодовуються через бухгалтерію за наявності квитанцій.
+- FOCUS :: 電車賃
+
+* Sense s-1443540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8629c0544aff1aebe3e4073e5e3d1374abb00a0ccec92b8fedb14520c6ef687a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443540-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prix du billet de train
+** Ukrainian glosses
+
+* Sense s-1443540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e954c2ea09413af04c1d5c32d8bbb65faec11c56a60f2e00082d10ea2a1a5d6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrgeld (für die S-Bahn)
+** Ukrainian glosses
+
+* Sense s-1443540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7b769ad9e83dd04a8a1e76c410cf51d8e432b73db2851e9adb35b1448d838839
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1443540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: стоимость проезда на трамвае, стоимость трамвайного билета
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1443540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1443540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: でんしゃちん

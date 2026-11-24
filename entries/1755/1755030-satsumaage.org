@@ -1,0 +1,165 @@
+#+TITLE: さつま揚げ
+#+JMDICT_ID: 1755030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さつまあげ
+#+ROMAJI: satsumaage
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1755030-001
+:PROPERTIES:
+:TEXT: さつま揚げ
+:END:
+** Written form wf-1755030-002
+:PROPERTIES:
+:TEXT: 薩摩揚げ
+:END:
+** Reading rd-1755030-001
+:PROPERTIES:
+:TEXT: さつまあげ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1755030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 384876d9ecc37e425f5c4fbfc5193d2ea60e4951e60a59df5ee7fdfdb20c55e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+** English glosses
+- satsuma-age
+*** en-s-1755030-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deep-fried ball of fish paste
+** Ukrainian glosses
+*** uk-s-1755030-001-001
+:PROPERTIES:
+:END:
+- text :: сацума-аґе (смажені у фритюрі котлетки або кульки з рибного фаршу)
+** Learner notes
+*** note-s-1755030-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний іменник: традиційна японська страва з перетертого рибного фаршу сурімі (すり身), змішаного з приправами й обсмаженого у фритюрі. Назва походить від історичної провінції Сацума (сучасна префектура Каґошіма); у регіоні 関西 цю страву частіше називають 天ぷら.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1755030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: おでんにさつま揚げを入れます。
+- READING :: おでんにさつまあげをいれます。
+- UK :: Я кладу сацума-аґе до одену.
+- FOCUS :: さつま揚げ
+*** ex-1755030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 商店街の店で買った揚げたてのさつま揚げはとても香ばしい。
+- READING :: しょうてんがいのみせでかったあげたてのさつまあげはとてもこうばしい。
+- UK :: Щойно посмажені рибні котлетки сацума-аґе, куплені в крамниці на торговій вулиці, мають дуже апетитний аромат.
+- FOCUS :: さつま揚げ
+*** ex-1755030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 鹿児島の郷土料理として知られるさつま揚げは、中に野菜やチーズを入れたものも人気がある。
+- READING :: かごしまのきょうどりょうりとしてしられるさつまあげは、なかにやさいやちーずをいれたものもにんきがある。
+- UK :: Сацума-аґе, відомі як традиційна страва Каґошіми, також популярні з начинкою з овочів або сиру.
+- FOCUS :: さつま揚げ
+
+* Sense s-1755030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 59e11e1899557cccd0df6c541be6204fd5ca8ba18d6d1674299f4b04f83ed33d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755030-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Jap.cul.} Satsuma-viskroket
+** Ukrainian glosses
+
+* Sense s-1755030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 83aac8040282596609a358d8b6aa9a4e28bd3aadbb2df8929dcacc0efbf24bed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755030-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frittierte Fischbällchen
+** Ukrainian glosses
+
+* Sense s-1755030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6bf4038b24044ad9864611a51c13226a7f5bc1257f969422b120d6a802a9236b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755030-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сацумаагэ (рыбные крокеты, жаренные на кунжутном масле)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1755030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1755030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さつまあげ

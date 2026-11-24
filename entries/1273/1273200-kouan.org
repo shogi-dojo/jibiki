@@ -1,0 +1,155 @@
+#+TITLE: 公案
+#+JMDICT_ID: 1273200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうあん
+#+ROMAJI: kouan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1273200-001
+:PROPERTIES:
+:TEXT: 公案
+:END:
+** Reading rd-1273200-001
+:PROPERTIES:
+:TEXT: こうあん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1273200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04d97020e5813ecf00f301d17f2ae9f263a9e888ab915a8e70b5722efdbc3185
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Buddh
+** English glosses
+- koan
+- kōan
+- Zen question for meditation (e.g. the sound of one hand clapping)
+** Ukrainian glosses
+*** uk-s-1273200-001-001
+:PROPERTIES:
+:END:
+- text :: коан; дзенська загадка для медитації
+** Learner notes
+*** note-s-1273200-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійський термін (іменник) на позначення парадоксального питання або вислову наставника в традиції 禅 (дзен), що спонукає учня вийти за межі логічного мислення. Класичними прикладами є задачі про звук плескоту однієї долоні (隻手の声) чи про природу будди (無字).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1273200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺で禅の公案について聞いた。
+- READING :: おてらでぜんのこうあんについてきいた。
+- UK :: У храмі я почув про дзенські коани.
+- FOCUS :: 公案
+*** ex-1273200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 修行僧は毎日座禅を組みながら公案と向き合う。
+- READING :: しゅぎょうそうはまいにちざぜんをくみながらこうあんとむきあう。
+- UK :: Монах-послушник щодня зосереджується над коаном під час медитації дзадзен.
+- FOCUS :: 公案
+*** ex-1273200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 論理だけでは解けない公案を通じて、弟子の悟りを導くのが師家の役目だ。
+- READING :: ろんりだけではとけないこうあんをつうじて、でしのさとりをみちびくのがしけのやくめだ。
+- UK :: Роль наставника полягає в тому, щоб через загадки, які неможливо розв'язати самою лише логікою, привести учня до просвітлення.
+- FOCUS :: 公案
+
+* Sense s-1273200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e28b63a22ab1ac289b092094a2856e331895064cad532f092a6f3aefd72486d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273200-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {boeddh.} koan
+** Ukrainian glosses
+
+* Sense s-1273200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1071227f00cb79a85c69674ac0c45e7b2f7f4a511c1bd691eafaea041528dd9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273200-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kōan (logisch nicht zu lösende Frage, über die man meditiert; insbes. im Rinzai-Zen)
+** Ukrainian glosses
+
+* Sense s-1273200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7005ffe0d9af5860741fb1dea118ef6a7045300b83075502bb5cce9c4015cb99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273200-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (буд.) катехизис (секты Дзэн)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1273200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1273200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうあん

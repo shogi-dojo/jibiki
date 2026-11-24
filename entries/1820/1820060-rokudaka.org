@@ -1,0 +1,159 @@
+#+TITLE: 禄高
+#+JMDICT_ID: 1820060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろくだか
+#+ROMAJI: rokudaka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1820060-001
+:PROPERTIES:
+:TEXT: 禄高
+:END:
+** Reading rd-1820060-001
+:PROPERTIES:
+:TEXT: ろくだか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1820060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dc2f9a1d6c12b478cad4843ccb5a50e2feb15e0f93c6c11327ef9c15b803367c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (amount of a samurai's) stipend
+** Ukrainian glosses
+*** uk-s-1820060-001-001
+:PROPERTIES:
+:END:
+- text :: розмір платні (самурайського жалування)
+** Learner notes
+*** note-s-1820060-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник, утворений із 禄 («жалування васала») та 高 («обсяг, сума»). У добу самураїв обчислювався переважно в мірах рису (коку) й визначав не лише матеріальний статок воїна, а й його службовий ранг.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1820060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この武士は高い禄高をもらっていた。
+- READING :: このぶしはたかいろくだかをもらっていた。
+- UK :: Цей самурай отримував велике жалування.
+- FOCUS :: 禄高
+*** ex-1820060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 戦での手柄によって、家臣の禄高が大幅に増えた。
+- READING :: いくさでのてがらによって、かしんのろくだかがおおはばにふえた。
+- UK :: Завдяки подвигам на війні розмір жалування васала значно зріс.
+- FOCUS :: 禄高
+*** ex-1820060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の資料を見ると、家の格式と禄高が細かく定められていたことがわかる。
+- READING :: えどじだいのしりょうをみると、いえのかくしきとろくだかがこまかくさだめられていたことがわかる。
+- UK :: Якщо поглянути на документи доби Едо, видно, що статус роду й розмір жалування були чітко регламентовані.
+- FOCUS :: 禄高
+
+* Sense s-1820060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: afa14789aaa1148fd5f57f5920e98d927eeb8f4fb0ff72f61d294fdb31f10392
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sold
+*** en-s-1820060-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Höhe des (in Reis gezahlten) Soldes eines Samurai
+** Ukrainian glosses
+
+* Sense s-1820060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e4b42f1ce664214de826b6e783f1dfa1fd4dc6f470c7eabe830bc653f7645165
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820060-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fizetés
+** Ukrainian glosses
+
+* Sense s-1820060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3b5a457816eecb8406000a165ef7f575c07377bbf759a5a02dbdefa1456fa9e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1820060-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) размер жалованья (пайка)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1820060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1820060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ろくだか

@@ -1,0 +1,159 @@
+#+TITLE: 法例
+#+JMDICT_ID: 1805150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうれい
+#+ROMAJI: hourei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1805150-001
+:PROPERTIES:
+:TEXT: 法例
+:END:
+** Reading rd-1805150-001
+:PROPERTIES:
+:TEXT: ほうれい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1805150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 154eb35f254250655472981615d01f3183c20845308e206fe7614981b69c26ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- rules concerning application of laws
+** Ukrainian glosses
+*** uk-s-1805150-001-001
+:PROPERTIES:
+:END:
+- text :: правила застосування законів; правові норми про чинність законів
+** Learner notes
+*** note-s-1805150-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний іменник, що позначає правила щодо чинності та застосування правових норм, зокрема в питаннях міжнародного приватного права. В історії японського права вживався також як назва відповідного закону кінця дев'ятнадцятого століття, нині заміненого законом 通則法.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1805150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大学で法例の基礎を学んだ。
+- READING :: だいがくでほうれいのきそをまなんだ。
+- UK :: В університеті вивчали основи правил застосування законів.
+- FOCUS :: 法例
+*** ex-1805150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 明治時代に制定された法例は、国際的な民事事件においてどの国の法律を適用するかを定めていた。
+- READING :: めいじじだいにせいていされたほうれいは、こくさいてきなみんじじけんにおいてどのくにのほうりつをてきようするかをさだめていた。
+- UK :: Ухвалений у добу Мейджі Закон про загальні правила застосування законів визначав, право якої держави слід застосовувати в міжнародних цивільних справах.
+- FOCUS :: 法例
+*** ex-1805150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現在の法制度を理解するためには、かつての法例がどのように改正され、新しい法律へと引き継がれていったのかを知る必要がある。
+- READING :: げんざいのほうせいどをりかいするためには、かつてのほうれいがどのようにかいせいされ、あたらしいほうりつへとひきつがれていったのかをしるひつようがある。
+- UK :: Щоб зрозуміти сучасну правову систему, необхідно знати, як переглядалися колишні правила застосування законів і як вони перейшли до нового законодавства.
+- FOCUS :: 法例
+
+* Sense s-1805150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6c9810cb820a374b7e0aa34d95722322bab292b4a5ddf1bef053b847e0b96a67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1805150-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: regels met betrekking tot de wetstoepassing
+*** en-s-1805150-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wetstoepassing
+** Ukrainian glosses
+
+* Sense s-1805150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a135dcae5728ba73a7caa73801c713dca8829d245e3ee64c37f9d4b238efe73b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1805150-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gesetz und Verordnung
+** Ukrainian glosses
+
+* Sense s-1805150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9410d8ac44479bd54e43ca9532ea89414fc9803d69db5927654dedcfe779301e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1805150-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) законоположения; правила применения законов
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1805150-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1805150-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ほうれい

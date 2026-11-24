@@ -1,0 +1,149 @@
+#+TITLE: 片手間
+#+JMDICT_ID: 1511700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かたてま
+#+ROMAJI: katatema
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511700-001
+:PROPERTIES:
+:TEXT: 片手間
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1511700-001
+:PROPERTIES:
+:TEXT: かたてま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1511700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1fcc3b7dee298bc17acbb3b5b0b52d96d376c74756854b7b65c48fb85a35cc3c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- spare time
+- free time
+- leisure time
+** Ukrainian glosses
+*** uk-s-1511700-001-001
+:PROPERTIES:
+:END:
+- text :: вільний час (поміж основною справою); побіжна справа
+** Learner notes
+*** note-s-1511700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що буквально означає «вільні руки» (片 «один, неповний» + 手間 «час і зусилля»). Зазвичай уживається з часткою に у висловах на кшталт 仕事の片手間に — «поміж роботою, принагідно, у вільну хвилину», нерідко з відтінком несерйозного або неповного занурення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1511700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家事の片手間に本を読む。
+- READING :: かじのかたてまにほんをよむ。
+- UK :: У перервах між хатніми справами я читаю книжку.
+- FOCUS :: 片手間
+*** ex-1511700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 父は仕事の片手間に庭で野菜を育てている。
+- READING :: ちちはしごとのかたてまににわでやさいをそだてている。
+- UK :: Батько у вільний від роботи час вирощує овочі в саду.
+- FOCUS :: 片手間
+*** ex-1511700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 語学の習得は片手間にできるほど甘いものではなく、毎日の積み重ねが欠かせない。
+- READING :: ごがくのしゅうとくはかたてまにできるほどあまいものではなく、まいにちのつみかさねがかかせない。
+- UK :: Вивчення мови — не така легка справа, щоб займатися нею мимохідь; тут необхідна щоденна праця.
+- FOCUS :: 片手間
+
+* Sense s-1511700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b6af8608d68c26e1d0f1f298fa6004cbbce92bc82acf7b6a26745132d3004560
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: freie Zeit
+*** en-s-1511700-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeit neben der eigentlichen Arbeit
+** Ukrainian glosses
+
+* Sense s-1511700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 02275b26b77181de4b735ec5d62278d425fe20be7f7ae62474506cee8d86b522
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: свободное время
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1511700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1511700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かたてま

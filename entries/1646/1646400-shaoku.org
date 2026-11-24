@@ -1,0 +1,198 @@
+#+TITLE: 社屋
+#+JMDICT_ID: 1646400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゃおく
+#+ROMAJI: shaoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1646400-001
+:PROPERTIES:
+:TEXT: 社屋
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1646400-001
+:PROPERTIES:
+:TEXT: しゃおく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+
+* Sense s-1646400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0194ef2aa6b12cca52be104ad2713f093ed45addd76e460e52ec3029d6ad1699
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- company office building
+** Ukrainian glosses
+*** uk-s-1646400-001-001
+:PROPERTIES:
+:END:
+- text :: будівля компанії, офісний корпус фірми
+** Learner notes
+*** note-s-1646400-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний іменник, складений із 社 (компанія, фірма) і 屋 (будівля, приміщення). Позначає окрему споруду, що належить певній компанії чи медіаорганізації; часто трапляється у словосполученнях 本社社屋 («головна будівля компанії») або 新社屋 («нова будівля компанії»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1646400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会社の新しい社屋が完成した。
+- READING :: かいしゃのあたらしいしゃおくがかんせいした。
+- UK :: Будівництво нової будівлі компанії завершено.
+- FOCUS :: 社屋
+*** ex-1646400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 来月、駅前へ移転する予定の新社屋を見学してきた。
+- READING :: らいげつ、えきまえへいてんするよていのしんしゃおくをけんがくしてきた。
+- UK :: Я оглянув нову будівлю компанії біля станції, куди наступного місяця планується переїзд.
+- FOCUS :: 社屋
+*** ex-1646400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 創業百年を機に建て替えられたガラス張りの社屋は、街の新たなランドマークとなっている。
+- READING :: そうぎょうひゃくねんをきにたてかえられたがらすばりのしゃおくは、まちのあらたならんどまーくとなっている。
+- UK :: Засклена будівля компанії, перебудована з нагоди сторіччя з дня заснування, стала новою візитівкою міста.
+- FOCUS :: 社屋
+
+* Sense s-1646400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1426f249a08331cdfdadc127d78eb419c798c1f6ce2f5ceeb122fee13d5ca4d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1646400-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrijfsgebouw
+*** en-s-1646400-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bedrijfspand
+*** en-s-1646400-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zakengebouw
+*** en-s-1646400-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kantoorgebouw
+** Ukrainian glosses
+
+* Sense s-1646400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0697e93cee3ccd3276bfdccfc0fc6cc8c8c1fe5cc90d531fd5699a9ae61ba407
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1646400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Firmengebäude
+** Ukrainian glosses
+
+* Sense s-1646400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eee706ca553ec17c9b88714d69ede286de26c585ff687a8448e314109c23d832
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1646400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: здание (помещение, строение) компании (фирмы (и т. п.), (ср.) しゃ【社】)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1646400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1646400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゃおく
+** Accent accent-rd-1646400-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1646400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゃおく

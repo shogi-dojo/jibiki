@@ -1,0 +1,187 @@
+#+TITLE: 互選
+#+JMDICT_ID: 1268920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごせん
+#+ROMAJI: gosen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1268920-001
+:PROPERTIES:
+:TEXT: 互選
+:END:
+*** Priorities
+- news2
+- nf34
+- spec2
+** Reading rd-1268920-001
+:PROPERTIES:
+:TEXT: ごせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+- spec2
+
+* Sense s-1268920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 990dbab57718d2f122886916fd484cd0adb16b0337b2c4a7a240922ce6cf72e3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- election by mutual vote
+- election from within a committee (party, etc.)
+- internal vote
+** Ukrainian glosses
+*** uk-s-1268920-001-001
+:PROPERTIES:
+:END:
+- text :: внутрішні вибори, вибори зі свого середовища; взаємне обрання
+** Learner notes
+*** note-s-1268920-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний іменник і перехідне дієслово з する, утворений із 互 (взаємно) та 選 (обирати). Означає процедуру голосування в межах певної групи (комітету, ради, зборів), коли кожен учасник має право обирати інших і сам може бути обраним.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1268920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 委員の中から会長を互選する。
+- READING :: いいんのなかからかいちょうをごせんする。
+- UK :: Голову обирають внутрішнім голосуванням з-поміж членів комітету.
+- FOCUS :: 互選
+*** ex-1268920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい議長は、議員たちの互選によって正式に決まった。
+- READING :: あたらしいぎちょうは、ぎいんたちのごせんによってせいしきにきまった。
+- UK :: Нового спікера офіційно визначили шляхом внутрішніх виборів серед депутатів.
+- FOCUS :: 互選
+*** ex-1268920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 規約に基づき、理事会のメンバーが互選で選出した代表者が来年度の運営を担うことになった。
+- READING :: きやくにもとづき、りじかいのめんばーがごせんでせんしゅつしただいひょうしゃがらいねんどのうんえいをになうことになった。
+- UK :: Згідно зі статутом, представник, обраний членами правління шляхом взаємного голосування, очолить управління в наступному році.
+- FOCUS :: 互選
+
+* Sense s-1268920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: aae316f3ab31cf820e0c0fe6bccf9793790f30b3d956c2bf0e9d3e137decab72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1268920-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élection interne
+*** en-s-1268920-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: élire parmi ses membres
+** Ukrainian glosses
+
+* Sense s-1268920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f991acffff6bea65ec09c4318110617532ed00a17f069f889bffd7e15d42831e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1268920-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahl aus den eigenen Reihen
+*** en-s-1268920-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahl aus der eigenen Gruppe
+*** en-s-1268920-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aus den eigenen Reihen wählen
+** Ukrainian glosses
+
+* Sense s-1268920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 367e694324dd8b9e515352ce3411d20e6b696ced0cf9eaee405a73f7a99389b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1268920-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: выборы [из своей среды] (а) о выборах в ограниченной среде; б) о выборах, при которых каждый имеет право как избирать, так и быть избранным)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1268920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1268920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ごせん

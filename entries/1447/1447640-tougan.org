@@ -1,0 +1,142 @@
+#+TITLE: 東岸
+#+JMDICT_ID: 1447640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうがん
+#+ROMAJI: tougan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1447640-001
+:PROPERTIES:
+:TEXT: 東岸
+:END:
+** Reading rd-1447640-001
+:PROPERTIES:
+:TEXT: とうがん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1447640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f17b8b2a2674dc3e9c828e1e9de8a68e7f512767252f8d50ed1a7f1fa9e41bbe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- eastern coast
+- east bank
+** Ukrainian glosses
+*** uk-s-1447640-001-001
+:PROPERTIES:
+:END:
+- text :: східний берег; східне узбережжя
+** Learner notes
+*** note-s-1447640-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічний іменник, утворений із 東 (схід) та 岸 (берег), антонім до 西岸 (західний берег). Вживається щодо східного берега річки, озера, моря або східного узбережжя материка чи країни (напр., アメリカ東岸 — східне узбережжя США).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1447640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川の東岸に新しい公園ができました。
+- READING :: かわのとうがんにあたらしいこうえんができました。
+- UK :: На східному березі річки облаштували новий парк.
+- FOCUS :: 東岸
+*** ex-1447640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この湖の東岸からは、夕日が水に沈む美しい景色が見られる。
+- READING :: このみずうみのとうがんからは、ゆうひがみずにしずむうつくしいけしきがみられる。
+- UK :: Зі східного берега цього озера відкривається гарний краєвид на захід сонця, що сідає у воду.
+- FOCUS :: 東岸
+*** ex-1447640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史的に見て、大西洋に面した北米大陸の東岸はヨーロッパとの貿易の玄関口として発展してきた。
+- READING :: れきしてきにみて、たいせいようにめんしたほくべいたいりくのとうがんはよーろっぱとのぼうえきのげんかんぐちとしてはってんしてきた。
+- UK :: Історично склалося так, що східне узбережжя Північної Америки, яке виходить до Атлантичного океану, розвивалося як торгові ворота з Європою.
+- FOCUS :: 東岸
+
+* Sense s-1447640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2e4a3e6b4ced1d83fb81e4ba9907410435374be107693404feaf9a4c5515ac4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447640-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ostküste
+*** en-s-1447640-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ostufer
+** Ukrainian glosses
+
+* Sense s-1447640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 99ed4ce86defb22cd2729e4906e363045a703f5a1c9c2fd090fa2fdadc842ad9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1447640-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: восточный берег
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1447640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1447640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: とうがん

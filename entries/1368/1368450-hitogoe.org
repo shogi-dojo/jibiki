@@ -1,0 +1,160 @@
+#+TITLE: 人声
+#+JMDICT_ID: 1368450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひとごえ
+#+ROMAJI: hitogoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1368450-001
+:PROPERTIES:
+:TEXT: 人声
+:END:
+** Reading rd-1368450-001
+:PROPERTIES:
+:TEXT: ひとごえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1368450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b12634bf65213eb5a630d952ead7a8956476179056e7c672c7c40976930c8ec8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- human voice
+- cry
+** Ukrainian glosses
+*** uk-s-1368450-001-001
+:PROPERTIES:
+:END:
+- text :: людський голос; голоси людей; вигук
+** Learner notes
+*** note-s-1368450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 人 («людина») та 声 («голос») з одзвінченням на ごえ. Позначає звучання людського голосу або гомін розмов, особливо коли мовців не видно — у темряві, за стіною, у лісі чи здалеку (типовий зворот — 人声が聞こえる «чути чийсь голос»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1368450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 暗い道で遠くから人声が聞こえた。
+- READING :: くらいみちでとおくからひとごえがきこえた。
+- UK :: На темній дорозі здалеку почувся людський голос.
+- FOCUS :: 人声
+*** ex-1368450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 静かな山小屋の周りで、夜明け前に登山客の明るい人声が響き始めた。
+- READING :: しずかなやまごやのまわりで、よあけまえにとざんきゃくのあかるいひとごえがひびきはじめた。
+- UK :: Навколо тихої гірської хатини ще до світанку залунали бадьорі голоси альпіністів.
+- FOCUS :: 人声
+*** ex-1368450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 人通りの絶えた深夜の路地裏に、どこからともなく慌ただしい人声が聞こえてきた。
+- READING :: ひとどおりのとだえたしんやのろじうらに、どこからともなくあわただしいひとごえがきこえてきた。
+- UK :: У безлюдному опівнічному провулку невідь-звідки долинули стривожені людські голоси.
+- FOCUS :: 人声
+
+* Sense s-1368450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 12ab084d5b79e83ef487840d5412d109f6ba07c75961827d0ce3d962e5095cf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1368450-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: menschliche Stimme
+*** en-s-1368450-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Klang einer Stimme
+** Ukrainian glosses
+
+* Sense s-1368450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7f24a7c1697f940e26f07ed3cc401f0257c2dc3a7e075e2c6305b9d0bf0ec7bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1368450-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sírás
+** Ukrainian glosses
+
+* Sense s-1368450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9fb856d3edab996ad3d2651323e43d573b5c5710177097afa43ec7a7bf57e4d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1368450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: голос (слышащийся)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1368450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1368450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひとごえ

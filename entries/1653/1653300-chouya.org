@@ -1,0 +1,143 @@
+#+TITLE: 朝野
+#+JMDICT_ID: 1653300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうや
+#+ROMAJI: chouya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1653300-001
+:PROPERTIES:
+:TEXT: 朝野
+:END:
+** Reading rd-1653300-001
+:PROPERTIES:
+:TEXT: ちょうや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1653300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d78b2b1478c79ef1f5770d7e777d59eda4bf8ecc249f4a8c12dfd849dd5c5e8e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- government and people
+- those in and out of the court or government
+- the entire nation
+** Ukrainian glosses
+*** uk-s-1653300-001-001
+:PROPERTIES:
+:END:
+- text :: влада й народ, урядові кола та громадськість; уся країна
+** Learner notes
+*** note-s-1653300-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що поєднує 朝 (імператорський двір, влада) та 野 (народ, неурядові кола). Уживається у формальному стилі, коли йдеться про єдність, спокій або дискусію в межах усього суспільства.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1653300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その知らせは朝野に大きな驚きを与えた。
+- READING :: そのしらせはちょうやにおおきなおどろきをあたえた。
+- UK :: Та звістка викликала велике здивування як при владі, так і серед народу.
+- FOCUS :: 朝野
+*** ex-1653300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝野を挙げて新しい時代の到来を祝った。
+- READING :: ちょうやをあげてあたらしいじだいのとうらいをいわった。
+- UK :: Уся країна — і уряд, і громадяни — святкувала настання нової епохи.
+- FOCUS :: 朝野
+*** ex-1653300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 改革の進め方をめぐって、朝野の間で活発な議論が交わされた。
+- READING :: かいかくのすすめかたをめぐって、ちょうやのあいだでかっぱつなぎろんがかわされた。
+- UK :: Щодо шляхів проведення реформ між урядовими та громадськими колами точилися жваві дискусії.
+- FOCUS :: 朝野
+
+* Sense s-1653300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dd163dde62b6cc43d984fc4c8d613fb142131413bdd734cae672ea249e0202aa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1653300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regierung und Volk
+*** en-s-1653300-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nation
+** Ukrainian glosses
+
+* Sense s-1653300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a301fa591b6cf73118a0970b9ece39b8780dcc969a44af130bcb6f7cac72b8d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1653300-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) правительство и народ; (обр.) вся нация
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1653300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1653300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ちょうや

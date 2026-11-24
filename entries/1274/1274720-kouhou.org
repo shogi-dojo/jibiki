@@ -1,0 +1,176 @@
+#+TITLE: 公法
+#+JMDICT_ID: 1274720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうほう
+#+ROMAJI: kouhou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1274720-001
+:PROPERTIES:
+:TEXT: 公法
+:END:
+** Reading rd-1274720-001
+:PROPERTIES:
+:TEXT: こうほう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1274720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f6f6ea980e964b3d1a7e66aeefacfa660f73eefe9e93cd1449152c6a59d025da
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- public law
+** Ukrainian glosses
+*** uk-s-1274720-001-001
+:PROPERTIES:
+:END:
+- text :: публічне право
+** Learner notes
+*** note-s-1274720-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін на позначення галузей права, що регулюють відносини між державою (органами влади) та громадянами або між самими державними органами — зокрема конституційне, адміністративне й кримінальне право. Уживається на противагу поняттю 私法 («приватне право»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1274720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大学で公法と私法の違いを学んだ。
+- READING :: だいがくでこうほうとしほうのちがいをまなんだ。
+- UK :: В університеті ми вивчали різницю між публічним і приватним правом.
+- FOCUS :: 公法
+*** ex-1274720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 憲法や行政法は、代表的な公法の分野に含まれる。
+- READING :: けんぽうやぎょうせいほうは、だいひょうてきなこうほうのぶんやにふくまれる。
+- UK :: Конституційне та адміністративне право належать до основних галузей публічного права.
+- FOCUS :: 公法
+*** ex-1274720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 現代社会では、公法と私法の境界が以前ほど明確ではなくなってきている。
+- READING :: げんだいしゃかいでは、こうほうとしほうのきょうかいがいぜんほどめいかくではなくなってきている。
+- UK :: У сучасному суспільстві межа між публічним і приватним правом стає не такою чіткою, як раніше.
+- FOCUS :: 公法
+
+* Sense s-1274720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4168a2a9f07fa666d05f398e3c33081d5c8420755883fbc51845a5b34deca294
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1274720-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: le droit public
+** Ukrainian glosses
+
+* Sense s-1274720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0cb7b733e7435efb5380c4f21f44e5864c443498e0ec65135c93c2d5ff85e1a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1274720-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öffentliches Recht
+*** en-s-1274720-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (lat.)Ius publicum
+** Ukrainian glosses
+
+* Sense s-1274720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b887b14d2e3b63d4723c6a485447ae49e5dfe09364a36301f9f49a767fa7b3c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1274720-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) публичное право
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1274720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1274720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうほう
+** Accent accent-rd-1274720-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1274720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうほう

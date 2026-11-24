@@ -1,0 +1,184 @@
+#+TITLE: 番える
+#+JMDICT_ID: 2552270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つがえる
+#+ROMAJI: tsugaeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2552270-001
+:PROPERTIES:
+:TEXT: 番える
+:END:
+** Written form wf-2552270-002
+:PROPERTIES:
+:TEXT: 番る
+:END:
+*** Information
+- io
+** Reading rd-2552270-001
+:PROPERTIES:
+:TEXT: つがえる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2552270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 588027811c83d62bed7fc4d50140f3e39528a02e29b78fcd04e19f41c600612d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to nock (an arrow)
+- to fix an arrow to the string
+** Ukrainian glosses
+*** uk-s-2552270-001-001
+:PROPERTIES:
+:END:
+- text :: накласти (стрілу на тятиву); з’єднати
+** Learner notes
+*** note-s-2552270-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово 1-ї групи (一段), поєднане з іменником 番 (пара, поєднання). Найчастіше вживається у стійкому словосполученні 矢を番える (накласти стрілу на тятиву лука), а також у книжному звороті 言葉を番える (дати тверду обіцянку, обмінятися словом).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2552270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 弓道場で矢を番えました。
+- READING :: きゅうどうじょうでやをつがえました。
+- UK :: У залі для стрільби з лука кюдо я наклав стрілу на тятиву.
+- FOCUS :: 番えました
+*** ex-2552270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 選手は深く息を吸い、静かに弓に矢を番えた。
+- READING :: せんしゅはふかくいきをすい、しずかにゆみにやをつがえた。
+- UK :: Спортсмен глибоко вдихнув і спокійно наклав стрілу на тятиву лука.
+- FOCUS :: 番えた
+*** ex-2552270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 的をじっと見据えながら矢を番える所作には、長年の鍛錬による落ち着きが表れていた。
+- READING :: まとをじっとみすえながらやをつがえるしょさには、ながねんのたんれんによるおちつきがあらわれていた。
+- UK :: У рухах, якими він, не зводячи погляду з мішені, закладав стрілу, відчувався спокій, здобутий роками тренувань.
+- FOCUS :: 番える
+
+* Sense s-2552270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5c1a7e70f6e8daed1479cea9a7f99ac593a1cbeeb46c56f51a771eb2dfd0e57f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2552270-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: paaren (Tiere)
+** Ukrainian glosses
+
+* Sense s-2552270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 34eefbfdccca9c76c3e0821d03d6dd25238b8c0091bd168ace304f45a431da96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2552270-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (einen Pfeil) anlegen
+*** en-s-2552270-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (einen Pfeil) auf die Sehne legen
+** Ukrainian glosses
+
+* Sense s-2552270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f144258a9afbd0481479b4df4311998219076a770a473bc0f30e3ae2f0cc0cba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2552270-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: соединять одно с другим
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2552270-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2552270-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: つがえる
+** Accent accent-rd-2552270-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2552270-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: つがえる

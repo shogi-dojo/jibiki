@@ -1,0 +1,159 @@
+#+TITLE: 胸痛
+#+JMDICT_ID: 1677930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうつう
+#+ROMAJI: kyoutsuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1677930-001
+:PROPERTIES:
+:TEXT: 胸痛
+:END:
+** Reading rd-1677930-001
+:PROPERTIES:
+:TEXT: きょうつう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1677930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1a797e5a110919d5aac6eb6d03f3a72c142afd3b10b4d0481a9d34c2ec77fc89
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chest pain
+** Ukrainian glosses
+*** uk-s-1677930-001-001
+:PROPERTIES:
+:END:
+- text :: біль у грудях
+** Learner notes
+*** note-s-1677930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, медичний термін. Позначає будь-який больовий симптом у ділянці грудної клітки (наприклад, при серцевих, легеневих чи м'язових захворюваннях). Складається з 胸 (груди) та 痛 (біль), за тим самим зразком, що й 頭痛 (головний біль) або 腹痛 (біль у животі).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1677930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昨夜から軽い胸痛があります。
+- READING :: さくやからかるいきょうつうがあります。
+- UK :: Із минулого вечора в мене легкий біль у грудях.
+- FOCUS :: 胸痛
+*** ex-1677930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 突然の激しい胸痛を訴えたため、すぐに救急車を呼んで病院へ運んだ。
+- READING :: とつぜんのはげしいきょうつうをうったえたため、すぐにきゅうきゅうしゃをよんでびょういんへはこんだ。
+- UK :: Оскільки він поскаржився на раптовий сильний біль у грудях, одразу викликали швидку допомогу й доправили його до лікарні.
+- FOCUS :: 胸痛
+*** ex-1677930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 階段を上るたびに胸痛や息切れが生じる場合は、心臓の病気が隠れている可能性もある。
+- READING :: かいだんをのぼるたびにきょうつうやいきぎれがしょうじるばあいは、しんぞうのびょうきがかくれているかのうせいもある。
+- UK :: Якщо щоразу під час підйому сходами виникає біль у грудях або задишка, за цим може ховатися серцеве захворювання.
+- FOCUS :: 胸痛
+
+* Sense s-1677930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e78a765c0645ba11c27e277edd4bdd1df5987304b725d951eaf6dac63a0f2c5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1677930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brustschmerz
+*** en-s-1677930-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pektoralgie
+** Ukrainian glosses
+
+* Sense s-1677930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2cd1b2c991d1092e123b1ff2f7540544330be6c6183ccdfbaa270d4cd429a7d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1677930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: боли в груди
+** Ukrainian glosses
+
+* Sense s-1677930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9e14ace799380ea29968cd4baf33402ded0b8fa5a3b382a25288f070c50d0b4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1677930-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dolor de pecho
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1677930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1677930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: きょうつう

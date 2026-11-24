@@ -1,0 +1,143 @@
+#+TITLE: 値幅
+#+JMDICT_ID: 1600170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねはば
+#+ROMAJI: nehaba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1600170-001
+:PROPERTIES:
+:TEXT: 値幅
+:END:
+*** Priorities
+- news2
+- nf27
+** Written form wf-1600170-002
+:PROPERTIES:
+:TEXT: 値巾
+:END:
+** Reading rd-1600170-001
+:PROPERTIES:
+:TEXT: ねはば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1600170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d2fccc230b7348cebede90e549870fe8614d366f399de56339eb2031b080ad6e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- price range or fluctuation
+** Ukrainian glosses
+*** uk-s-1600170-001-001
+:PROPERTIES:
+:END:
+- text :: діапазон цін; розмах коливання цін
+** Learner notes
+*** note-s-1600170-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і біржовий іменник із 値 («ціна») та 幅 («ширина, діапазон»). Описує різницю між найвищою та найнижчою ціною товару, акцій чи валюти за певний період (наприклад, 値幅制限 «обмеження коливання курсу», 値幅が広い).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1600170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日は野菜の値幅があまり大きくない。
+- READING :: きょうはやさいのねはばがあまりおおきくない。
+- UK :: Сьогодні коливання цін на овочі не дуже велике.
+- FOCUS :: 値幅
+*** ex-1600170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今週は為替の値幅が激しく、企業も対応に追われている。
+- READING :: こんしゅうはかわせのねはばがはげしく、きぎょうもたいおうにおわれている。
+- UK :: Цього тижня діапазон коливань валютного курсу дуже різкий, тож компанії ледь встигають реагувати.
+- FOCUS :: 値幅
+*** ex-1600170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 株式市場では、急激な暴落や高騰を防ぐために一日の値幅制限が設けられている。
+- READING :: かぶしきしじょうでは、きゅうげきなぼうらくやこうとうをふせぐためにいちにちのねはばせいげんがもうけられている。
+- UK :: На фондовому ринку встановлено добове обмеження коливання цін, щоб запобігти різким обвалам чи стрибкам.
+- FOCUS :: 値幅
+
+* Sense s-1600170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a19a91cf48cafe05457deb5f40cc944b68e3bb636c4bf1fc60f8f0aabd6b8fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600170-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Preisunterschied
+** Ukrainian glosses
+
+* Sense s-1600170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6026a79232f2e2dc1f14bc68497a796dff16227fd8c425e31ed3680263be5865
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1600170-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: колебания цен
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1600170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1600170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ねはば

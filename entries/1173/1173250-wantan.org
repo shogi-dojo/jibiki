@@ -1,0 +1,187 @@
+#+TITLE: 雲呑
+#+JMDICT_ID: 1173250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ワンタン
+#+ROMAJI: wantan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1173250-001
+:PROPERTIES:
+:TEXT: 雲呑
+:END:
+** Written form wf-1173250-002
+:PROPERTIES:
+:TEXT: 饂飩
+:END:
+** Reading rd-1173250-001
+:PROPERTIES:
+:TEXT: ワンタン
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1173250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d71c36f1338b8cd6bd077f6d6bad2886c4974cb320065d386b890a18926fe4a9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Miscellaneous and register
+- uk
+*** Language sources
+**** Language source ls-s-1173250-001-001
+:PROPERTIES:
+:LANG: chi
+:TYPE: full
+:WASEI: false
+:END:
+- text :: wantan
+** English glosses
+- wonton (Chinese dumpling)
+- won ton
+- wantan
+- wanton
+- wuntun
+** Ukrainian glosses
+*** uk-s-1173250-001-001
+:PROPERTIES:
+:END:
+- text :: вонтон; китайські пельмені з тонкого тіста
+** Learner notes
+*** note-s-1173250-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний іменник китайського походження, що зазвичай пишеться катаканою (ワンタン). Позначає варені пельмені з тонкої оболонки з м'ясною або креветковою начинкою, які часто подають у супі (ワンタンスープ) чи з локшиною (ワンタンメン).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1173250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昼ご飯にワンタンを食べた。
+- READING :: ひるごはんにわんたんをたべた。
+- UK :: На обід я з'їв вонтони.
+- FOCUS :: ワンタン
+*** ex-1173250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 熱々のワンタンスープは寒い日にぴったりだ。
+- READING :: あつあつのわんたんすーぷはさむいひにぴったりだ。
+- UK :: Гарячий суп із вонтонами ідеально підходить для холодного дня.
+- FOCUS :: ワンタン
+*** ex-1173250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 皮がもちもちした手作りのワンタンに、黒酢を少し垂らしていただいた。
+- READING :: かわがもちもちしたてづくりのわんたんに、くろずをすこしたらしていただいた。
+- UK :: До домашніх вонтонів із пружним тістом я додав трохи чорного оцту й із задоволенням з'їв.
+- FOCUS :: ワンタン
+
+* Sense s-1173250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3f3a7bc99342aa16a71985124290a8e133cf27bdaad0c4d56587598bb3ce39e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173250-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wan-Tan
+*** en-s-1173250-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wantan
+*** en-s-1173250-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Won-On (chin. Teigtaschen mit Fleischfüllung in Suppen)
+** Ukrainian glosses
+
+* Sense s-1173250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f97beb01761d8e487cdafa534a52887c8be8a8ada7d4aca1dff8417d14d35e06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173250-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: пельмени со свининой (китайское кушанье)
+** Ukrainian glosses
+
+* Sense s-1173250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2b914627143b84f409d5e005e69d40bd45ae32860396a043d38b40f600b4218d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173250-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: "wang-tung" (raviolis chinos en sopa)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1173250-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1173250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ワンタン

@@ -1,0 +1,157 @@
+#+TITLE: 政庁
+#+JMDICT_ID: 1735370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいちょう
+#+ROMAJI: seichou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1735370-001
+:PROPERTIES:
+:TEXT: 政庁
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1735370-001
+:PROPERTIES:
+:TEXT: せいちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1735370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ad8276b738b011f0b24b07d8474d0d134a49ee52f9d84ef72aad2780dc0db719
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- government office
+** Ukrainian glosses
+*** uk-s-1735370-001-001
+:PROPERTIES:
+:END:
+- text :: урядова установа; адміністративний центр влади; резиденція уряду
+** Learner notes
+*** note-s-1735370-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного й історичного стилю (від 政 «політика, управління» + 庁 «урядова установа»). Позначає головне адміністративне відомство держави чи краю, зокрема в історичних назвах на кшталт 大宰府政庁 (адміністративний комплекс Дадзайфу).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1735370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い政庁の跡を見学しました。
+- READING :: ふるいせいちょうのあとをけんがくしました。
+- UK :: Я оглянув руїни давньої урядової резиденції.
+- FOCUS :: 政庁
+*** ex-1735370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 発掘調査により、奈良時代の地方政庁の配置が明らかになった。
+- READING :: はっくつちょうさにより、ならじだいのちほうせいちょうのはいちがあきらかになった。
+- UK :: Завдяки археологічним розкопкам стало зрозумілим планування провінційної адміністрації доби Нара.
+- FOCUS :: 政庁
+*** ex-1735370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 当時の政庁は、政治や行政の中心であるだけでなく、外交使節を迎える場でもあった。
+- READING :: とうじのせいちょうは、せいじやぎょうせいのちゅうしんであるだけでなく、がいこうしせつをむかえるばでもあった。
+- UK :: Тогочасний адміністративний комплекс влади був не лише осередком політики й управління, а й місцем приймання іноземних посольств.
+- FOCUS :: 政庁
+
+* Sense s-1735370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8ff810bbd52c49f70651cb00f0f3d6b16c7a1154c14a440ad6e72c5994fd1423
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735370-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regierungsgebäude
+** Ukrainian glosses
+
+* Sense s-1735370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 77b9b05365dcec9615f7a840ff8c0889cc326ff54099ac9ceefc1cf7836eba87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735370-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: управление, ведомство
+** Ukrainian glosses
+
+* Sense s-1735370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bd80122c4af6fc481a4f50e7cb85fd06ef6a12a0845577a4f4014d3e0689b622
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735370-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oficina de gobierno
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1735370-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1735370-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せいちょう

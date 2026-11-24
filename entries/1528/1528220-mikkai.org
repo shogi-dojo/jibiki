@@ -1,0 +1,198 @@
+#+TITLE: 密会
+#+JMDICT_ID: 1528220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みっかい
+#+ROMAJI: mikkai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1528220-001
+:PROPERTIES:
+:TEXT: 密会
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1528220-001
+:PROPERTIES:
+:TEXT: みっかい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1528220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 88eb3f67c0c2d278abe8e57e2c8b910f1ce5b415be12f08870e49159cf52d78e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- secret meeting
+- clandestine meeting
+** Ukrainian glosses
+*** uk-s-1528220-001-001
+:PROPERTIES:
+:END:
+- text :: таємна зустріч, таємне побачення; таємна нарада
+** Learner notes
+*** note-s-1528220-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне дієслово з する (密会する — таємно зустрічатися). Поєднує 密 (таємний, прихований) і 会 (зустріч); уживається як щодо таємних політичних чи ділових перемовин, так і щодо таємних романтичних побачень.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1528220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二人は夜遅くに密会しました。
+- READING :: ふたりはよるおそくにみっかいしました。
+- UK :: Вони таємно зустрілися пізно вночі.
+- FOCUS :: 密会
+*** ex-1528220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 週刊誌に有名な俳優の密会が報じられました。
+- READING :: しゅうかんしにゆうめいなはいゆうのみっかいがほうじられました。
+- UK :: Тижневик повідомив про таємне побачення відомого актора.
+- FOCUS :: 密会
+*** ex-1528220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 両社の幹部が人目を避けて密会を重ねていたことが、のちに明らかになった。
+- READING :: りょうしゃのかんぶがひとめをさけてみっかいをかさねていたことが、のちにあきらかになった。
+- UK :: Згодом з'ясувалося, що керівники обох компаній неодноразово проводили таємні зустрічі, уникаючи зайвих очей.
+- FOCUS :: 密会
+
+* Sense s-1528220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 77a41eb301fea48ed3ba38800b8677a900ce4ac35dff71374d960501fac19954
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1528220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich heimlich treffen
+*** en-s-1528220-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heimlich zusammenkommen
+*** en-s-1528220-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich ein Stelldichein geben
+*** en-s-1528220-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geheime Zusammenkunft
+*** en-s-1528220-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heimliches Zusammentreffen
+*** en-s-1528220-002-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stelldichein
+*** en-s-1528220-002-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rendezvous
+** Ukrainian glosses
+
+* Sense s-1528220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 85d8f4203c5702097915e01da59cba97ae5c02a666ea7f7c4e294e8be36e53a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1528220-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: тайное свидание; тайная встреча; тайное собрание
+*** en-s-1528220-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} тайно встречаться, иметь тайное свидание; тайно собираться
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1528220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1528220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: みっかい

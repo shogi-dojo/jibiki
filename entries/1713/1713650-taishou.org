@@ -1,0 +1,177 @@
+#+TITLE: 隊商
+#+JMDICT_ID: 1713650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいしょう
+#+ROMAJI: taishou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1713650-001
+:PROPERTIES:
+:TEXT: 隊商
+:END:
+** Reading rd-1713650-001
+:PROPERTIES:
+:TEXT: たいしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1713650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f757f3e63da5ac3e4246e8072a659b8031389ed040d099ccf6f61651a469f194
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- caravan (of merchants)
+** Ukrainian glosses
+*** uk-s-1713650-001-001
+:PROPERTIES:
+:END:
+- text :: караван; торговий караван
+** Learner notes
+*** note-s-1713650-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 隊 «загін, група» та 商 «торгівля, купець»), що позначає групу мандрівних купців із в’ючними тваринами (переважно верблюдами чи кіньми), які разом перевозять товари пустелею або далекими торговельними шляхами. Вживається в історичних, географічних та художніх текстах (наприклад, 隊商を組む — «спорядити караван», 隊商路 — «караванний шлях»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1713650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 砂漠を隊商がゆっくり進みます。
+- READING :: さばくをたいしょうがゆっくりすすみます。
+- UK :: Пустелею повільно рухається торговий караван.
+- FOCUS :: 隊商
+*** ex-1713650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: かつて多くの隊商が、このオアシスの町で水と食料を補給した。
+- READING :: かつておおくのたいしょうが、このおあしすのまちでみずとしょくりょうをほきゅうした。
+- UK :: Колись багато торгових караванів поповнювали запаси води та харчів у цьому місті-оазі.
+- FOCUS :: 隊商
+*** ex-1713650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: シルクロードの隊商は、絹や香辛料だけでなく各地の文化や技術も東西へ運んだ。
+- READING :: しるくろーどのたいしょうは、きぬやこうしんりょうだけでなくかくちのぶんかやぎじゅつもとうざいへはこんだ。
+- UK :: Каравани Шовкового шляху перевозили між Сходом і Заходом не лише шовк і прянощі, а й культуру та технології різних регіонів.
+- FOCUS :: 隊商
+
+* Sense s-1713650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9d4540eb7dd15731bf1f9ac870d3777c75a3753c5dc6ba1a1a83984ea6b06085
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1713650-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: karavaan
+** Ukrainian glosses
+
+* Sense s-1713650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9ebf1ac625f513234f17e0e80c0c340e26d900d85c724ab545b91265b34bb00a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1713650-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karawane
+** Ukrainian glosses
+
+* Sense s-1713650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2bb352f70a8f598461d5dcf5c3dd418a673a90fdfec3185cdcfea1bd5fbee955
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1713650-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: торговый караван
+** Ukrainian glosses
+
+* Sense s-1713650-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3e9ee7cec174e2e4fcd747515d77f8f05f85f91150b50ada70789424603efd90
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1713650-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caravana
+*** en-s-1713650-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: convoy de comerciantes
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1713650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1713650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たいしょう

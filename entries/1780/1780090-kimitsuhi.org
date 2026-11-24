@@ -1,0 +1,147 @@
+#+TITLE: 機密費
+#+JMDICT_ID: 1780090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きみつひ
+#+ROMAJI: kimitsuhi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1780090-001
+:PROPERTIES:
+:TEXT: 機密費
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1780090-001
+:PROPERTIES:
+:TEXT: きみつひ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1780090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4b6a5bb5166aa4819ab84e4713b3bf51e669e61479ef6ecbbf7e8eba2c7e2acf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- secret funds
+** Ukrainian glosses
+*** uk-s-1780090-001-001
+:PROPERTIES:
+:END:
+- text :: таємні видатки, секретний фонд
+** Learner notes
+*** note-s-1780090-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення конфіденційних коштів, які державні установи чи посадовці витрачають без публічного звітування (наприклад, 外交機密費 або 官房機密費). Складається з 機密 (державна чи службова таємниця) та 費 (витрати).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1780090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 政府の機密費がニュースになりました。
+- READING :: せいふのきみつひがにゅーすになりました。
+- UK :: Таємні видатки уряду потрапили в новини.
+- FOCUS :: 機密費
+*** ex-1780090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その機密費の使い道について、記者から厳しい質問が出ました。
+- READING :: そのきみつひのつかいみちについて、きしゃからきびしいしつもんがでました。
+- UK :: Щодо витрачання тих таємних коштів журналісти поставили гострі запитання.
+- FOCUS :: 機密費
+*** ex-1780090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国会では、機密費の透明性を高めるために監査制度を見直すべきだという意見が上がった。
+- READING :: こっかいでは、きみつひのとうめいせいをたかめるためにかんさせいどをみなおすべきだといういけんがあがった。
+- UK :: У парламенті пролунала думка, що для підвищення прозорості секретних фондів варто переглянути систему аудиту.
+- FOCUS :: 機密費
+
+* Sense s-1780090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 396b719791c1ebe9543f2599a42dc737318794c3a3d46f5d0f884cd8c3ad7a24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1780090-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geheimer Fonds
+*** en-s-1780090-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dispositionsfonds
+** Ukrainian glosses
+
+* Sense s-1780090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 733328df3f8294e0be37b68615d898aec06eee17b1bcc7940f01753d4779ddfd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1780090-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: секретные расходы; секретный фонд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1780090-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1780090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きみつひ

@@ -1,0 +1,177 @@
+#+TITLE: 皮疹
+#+JMDICT_ID: 2129050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひしん
+#+ROMAJI: hishin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2129050-001
+:PROPERTIES:
+:TEXT: 皮疹
+:END:
+** Written form wf-2129050-002
+:PROPERTIES:
+:TEXT: 皮しん
+:END:
+*** Information
+- sK
+** Reading rd-2129050-001
+:PROPERTIES:
+:TEXT: ひしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2129050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8852f0384284038ca36e02bfe714473edca5f501816e264492ed783b476da1ad
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- rash
+- eruption
+- efflorescence
+** Ukrainian glosses
+*** uk-s-2129050-001-001
+:PROPERTIES:
+:END:
+- text :: шкірний висип; екзантема
+** Learner notes
+*** note-s-2129050-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник, складений із 皮 («шкіра») та 疹 («висип, кір»). Позначає будь-які видимі зміни чи висипання на шкірі, спричинені інфекцією, алергією або побічною дією ліків; у повсякденному мовленні частіше кажуть 発疹 або ぶつぶつ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2129050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 腕に赤い皮疹が出ている。
+- READING :: うでにあかいひしんがでている。
+- UK :: На руці з'явився червоний висип.
+- FOCUS :: 皮疹
+*** ex-2129050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 薬を飲んだあと、全身に細かい皮疹が現れた。
+- READING :: くすりをのんだあと、ぜんしんにこまかいひしんがあらわれた。
+- UK :: Після прийому ліків по всьому тілу з'явився дрібний шкірний висип.
+- FOCUS :: 皮疹
+*** ex-2129050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医師は患者の皮膚に現れた皮疹の形や広がり方から、原因となる疾患を診断した。
+- READING :: いしはかんじゃのひふにあらわれたひしんのかたちやひろがりかたから、げんいんとなるしっかんをしんだんした。
+- UK :: За формою та характером поширення висипу на шкірі пацієнта лікар діагностував захворювання, що його спричинило.
+- FOCUS :: 皮疹
+
+* Sense s-2129050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4eef5a4d575f5ca2cec20963a4e08f2b209064bbfccc89c9b6bdcdb9a93bf642
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2129050-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} huiduitslag
+*** en-s-2129050-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: exantheem
+*** en-s-2129050-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: efflorescentie
+** Ukrainian glosses
+
+* Sense s-2129050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9e9281357c00c2c8e5bb5a3516650f7a95d748b4f1987cfd2365fb3d97527e42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2129050-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausschlag
+** Ukrainian glosses
+
+* Sense s-2129050-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 429916642625c943c72e3a214840ce57bc00261fd859332b109f2496bf0a2d98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2129050-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мед.) сыпь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2129050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2129050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ひしん

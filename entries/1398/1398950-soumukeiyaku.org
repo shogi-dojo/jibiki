@@ -1,0 +1,149 @@
+#+TITLE: 双務契約
+#+JMDICT_ID: 1398950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうむけいやく
+#+ROMAJI: soumukeiyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1398950-001
+:PROPERTIES:
+:TEXT: 双務契約
+:END:
+** Reading rd-1398950-001
+:PROPERTIES:
+:TEXT: そうむけいやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1398950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6cf9aa5d17facf8ae48644ee7d2e96f6411eb4502ac99eb6a43e986f94483c00
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bilateral agreement
+** Ukrainian glosses
+*** uk-s-1398950-001-001
+:PROPERTIES:
+:END:
+- text :: двосторонній договір; взаємозобов'язальний договір
+** Learner notes
+*** note-s-1398950-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (іменник), утворений із 双務 («взаємні обов'язки») і 契約 («договір»). Позначає угоду, за якою обидві сторони мають взаємні обов'язки одна перед одною (як-от купівля-продаж чи оренда), на відміну від 片務契約 (одностороннього договору).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1398950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 売買は典型的な双務契約です。
+- READING :: ばいばいはてんけいてきなそうむけいやくです。
+- UK :: Купівля-продаж — це типовий двосторонній договір.
+- FOCUS :: 双務契約
+*** ex-1398950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 双務契約では、売主と買主の双方がそれぞれ義務を負うことになる。
+- READING :: そうむけいやくでは、うりぬしとかいぬしのそうほうがそれぞれぎむをおうことになる。
+- UK :: За двостороннім договором і продавець, і покупець беруть на себе відповідні зобов'язання.
+- FOCUS :: 双務契約
+*** ex-1398950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 民法の講義で、片務契約と双務契約の法的な違いについて詳しく学んだ。
+- READING :: みんぽうのこうぎで、へんむけいやくとそうむけいやくのほうてきなちがいについてくわしくまなんだ。
+- UK :: На лекції з цивільного права ми докладно розглянули юридичну відмінність між одностороннім і двостороннім договором.
+- FOCUS :: 双務契約
+
+* Sense s-1398950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 505f99d29ceaaa41418681ab5e7371bc397e5bfcef403cada0bc7a74778d322f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1398950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gegenseitiger Vertrag
+*** en-s-1398950-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zweiseitiger Vertrag
+*** en-s-1398950-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bilateraler Vertrag
+** Ukrainian glosses
+
+* Sense s-1398950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4b24bd28b73f55d70dd3b6afde0e5fb880bf960d7bc287b6238d7e83a91cea26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1398950-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: двустороннее соглашение; соглашение на основе взаимности
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1398950-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1398950-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: そうむけいやく

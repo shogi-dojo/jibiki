@@ -1,0 +1,184 @@
+#+TITLE: 離着陸
+#+JMDICT_ID: 1821660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りちゃくりく
+#+ROMAJI: richakuriku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1821660-001
+:PROPERTIES:
+:TEXT: 離着陸
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1821660-001
+:PROPERTIES:
+:TEXT: りちゃくりく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1821660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 81aeec7f000fe73bca42fe82d1e0315188221c3193fbc907c58e72efb3cb6b7d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- takeoff and landing
+** Ukrainian glosses
+*** uk-s-1821660-001-001
+:PROPERTIES:
+:END:
+- text :: зліт і посадка
+** Learner notes
+*** note-s-1821660-001-001
+:PROPERTIES:
+:END:
+- UK :: Скорочене поєднання двох слів: 離陸 (зліт, відрив від землі) і 着陸 (посадка, приземлення). Уживається як іменник і неперехідне дієслово з する щодо літаків, гелікоптерів чи дронів; часто трапляється в новинах авіації та правилах безпеки польотів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1821660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 飛行機が安全に離着陸する。
+- READING :: ひこうきがあんぜんにりちゃくりくする。
+- UK :: Літак безпечно злітає та сідає.
+- FOCUS :: 離着陸
+*** ex-1821660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 強い横風が吹いていたため、空港では飛行機の離着陸が次々と見合わされた。
+- READING :: つよいよこかぜがふいていたため、くうこうではひこうきのりちゃくりくがつぎつぎとみあわされた。
+- UK :: Через сильний бічний вітер в аеропорту один за одним відкладали зліт і посадку літаків.
+- FOCUS :: 離着陸
+*** ex-1821660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市街地に近く騒音問題が懸念される空港では、夜間における航空機の離着陸が厳しく制限されている。
+- READING :: しがいちにちかくそうおんもんだいがけねんされるくうこうでは、やかんにおけるこうくうきのりちゃくりくがきびしくせいげんされている。
+- UK :: В аеропорту поблизу житлових кварталів, де існує проблема шуму, нічні злети та посадки повітряних суден суворо обмежено.
+- FOCUS :: 離着陸
+
+* Sense s-1821660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1fd0061c652d0006e1fba2445ace75e13bee9fa603282c5f6e016986a2c6bca7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821660-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {luchtv.} opstijgen en landen
+** Ukrainian glosses
+
+* Sense s-1821660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 66d0548261803fb0ba3db53959dcceac922305e33420707fbc80ccc0cf6991c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821660-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Starten und Landen
+*** en-s-1821660-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ankunft und Abflug
+** Ukrainian glosses
+
+* Sense s-1821660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 335b72d9b6f7840595abcb4340b053f824a115e0bbe77e51b6f63702a83753f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821660-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: взлёт и приземление (самолёта)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1821660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1821660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りちゃくりく
+** Accent accent-rd-1821660-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1821660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りちゃくりく

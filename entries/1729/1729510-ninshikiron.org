@@ -1,0 +1,169 @@
+#+TITLE: 認識論
+#+JMDICT_ID: 1729510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にんしきろん
+#+ROMAJI: ninshikiron
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1729510-001
+:PROPERTIES:
+:TEXT: 認識論
+:END:
+** Reading rd-1729510-001
+:PROPERTIES:
+:TEXT: にんしきろん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1729510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 75f45e91017827a27dabaf271f3c7818e223fddad1a9113749db845420a03861
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- phil
+** English glosses
+- epistemology
+** Ukrainian glosses
+*** uk-s-1729510-001-001
+:PROPERTIES:
+:END:
+- text :: епістемологія; теорія пізнання; гносеологія
+** Learner notes
+*** note-s-1729510-001-001
+:PROPERTIES:
+:END:
+- UK :: Філософський термін, утворений поєднанням 認識 («пізнання, усвідомлення») та 論 («вчення, теорія»). Позначає розділ філософії, що досліджує природу, джерела, методи та межі людського знання.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1729510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大学で認識論を学ぶ。
+- READING :: だいがくでにんしきろんをまなぶ。
+- UK :: Вивчати епістемологію в університеті.
+- FOCUS :: 認識論
+*** ex-1729510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼は近代哲学の認識論に関心を持っている。
+- READING :: かれはきんだいてつがくのにんしきろんにかんしんをもっている。
+- UK :: Він цікавиться теорією пізнання у філософії Нового часу.
+- FOCUS :: 認識論
+*** ex-1729510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この論文は、経験と理性の関係を認識論の立場から論じている。
+- READING :: このろんぶんは、けいけんとりせいのかんけいをにんしきろんのたちばからろんじている。
+- UK :: У цій статті зв’язок між досвідом і розумом розглядається з позиції епістемології.
+- FOCUS :: 認識論
+
+* Sense s-1729510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b6864e3b9e608b49f595991f6014cb903166c236910c6d77ecb60bd59d5ef4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1729510-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fil.} kennisleer
+*** en-s-1729510-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kennistheorie
+** Ukrainian glosses
+
+* Sense s-1729510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7eabdae8501ca67e5ea379b7a2834ba3e0ba0c41181d715484ab3e83e21d4c20
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1729510-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erkenntnistheorie
+*** en-s-1729510-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Epistemologie
+** Ukrainian glosses
+
+* Sense s-1729510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 619cdfd3f5ff176d90dd23db0e301ea9587184f7f7eec737fea089dc205e1fe0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1729510-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (филос.) теория познания
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1729510-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1729510-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にんしきろん

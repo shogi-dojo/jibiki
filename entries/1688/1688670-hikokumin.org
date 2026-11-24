@@ -1,0 +1,173 @@
+#+TITLE: 非国民
+#+JMDICT_ID: 1688670
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひこくみん
+#+ROMAJI: hikokumin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1688670-001
+:PROPERTIES:
+:TEXT: 非国民
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1688670-001
+:PROPERTIES:
+:TEXT: ひこくみん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+
+* Sense s-1688670-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 18ac74ec21882f2ec0089e381e69a2c750e96ed98091795b605e8500854583b7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- unpatriotic person
+- traitor (to one's country)
+** Ukrainian glosses
+*** uk-s-1688670-001-001
+:PROPERTIES:
+:END:
+- text :: непатріот; зрадник батьківщини; негідний громадянин
+** Learner notes
+*** note-s-1688670-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із префіксом заперечення 非 («не-») та 国民 («громадянин, підданий»). Історично цей різкий політичний ярлик широко вживався в Японії під час Другої світової війни для таврування незгодних із державною політикою; у сучасній мові трапляється в історичному контексті або з іронією.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1688670-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 戦時中、彼は非国民と呼ばれた。
+- READING :: せんじちゅう、かれはひこくみんとよばれた。
+- UK :: Під час війни його називали зрадником батьківщини.
+- FOCUS :: 非国民
+*** ex-1688670-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で、当時は政府を批判すると非国民とみなされたと学んだ。
+- READING :: れきしのじゅぎょうで、とうじはせいふをひはんするとひこくみんとみなされたとまなんだ。
+- UK :: На уроці історії ми дізналися, що в ті часи критику уряду розцінювали як зраду держави.
+- FOCUS :: 非国民
+*** ex-1688670-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同調圧力が強まった社会では、周囲と異なる意見を持つだけで非国民扱いされる危険があった。
+- READING :: どうちょうあつりょくがつよまったしゃかいでは、しゅういとことなるいけんをもつだけでひこくみんあつかいされるきけんがあった。
+- UK :: У суспільстві з посиленим тиском конформізму існував ризик бути затаврованим як непатріот лише через думку, відмінну від загальної.
+- FOCUS :: 非国民
+
+* Sense s-1688670-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 52aef136f31e4ea2eaef3026b31ffb7c8a51df7c6d4accaa734c582725d17e4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688670-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verräter
+*** en-s-1688670-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Volksverräter
+*** en-s-1688670-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unpatriotischer Mensch
+** Ukrainian glosses
+
+* Sense s-1688670-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 10a44d4f65026e2d7c12f56540bc6139a27dc4fb96e1bf5f1acd5707a509f7ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688670-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: непатриот
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1688670-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1688670-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひこくみん
+** Accent accent-rd-1688670-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1688670-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひこくみん

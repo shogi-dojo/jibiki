@@ -1,0 +1,171 @@
+#+TITLE: カラメル
+#+JMDICT_ID: 2845652
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カラメル
+#+ROMAJI: karameru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2845652-001
+:PROPERTIES:
+:TEXT: カラメル
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-2845652-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c74b2ae06c9aab1fae03678408f37cbed88ed454b702a2c3d78c276e04848f86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-2845652-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- caramel (browned sugar used as flavouring)
+** Ukrainian glosses
+*** uk-s-2845652-001-001
+:PROPERTIES:
+:END:
+- text :: карамель; палений цукор (для десертів і соусів)
+** Learner notes
+*** note-s-2845652-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від фр. caramel або порт. caramelo), що зазвичай позначає розтоплений підрум'янений цукор чи рідку карамельну поливку. На відміну від キャラメル (м'яких карамельних цукерок), слово カラメル найчастіше вживається щодо соусу для пудингу (プリンのカラメル) та барвника у випічці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2845652-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このプリンには甘いカラメルがかかっています。
+- READING :: このぷりんにはあまいからめるがかかっています。
+- UK :: Цей пудинг политий солодкою карамеллю.
+- FOCUS :: カラメル
+*** ex-2845652-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 母は鍋で砂糖を熱して、ほろ苦いカラメルを作った。
+- READING :: はははなべでさとうをねっして、ほろにがいからめるをつくった。
+- UK :: Мама нагріла цукор у каструлі й приготувала трохи гіркувату карамель.
+- FOCUS :: カラメル
+*** ex-2845652-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 香ばしいカラメルの風味を引き出すために、砂糖が濃い茶色になるまで焦がすのがコツだ。
+- READING :: こうばしいからめるのふうみをひきだすために、さとうがこいちゃいろになるまでこがすのがこつだ。
+- UK :: Щоб розкрити ароматний присмак карамелі, секрет полягає в тому, щоб підрум'янити цукор до темно-коричневого кольору.
+- FOCUS :: カラメル
+
+* Sense s-2845652-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d58779b311a687d42d1718ee40b674f33bbcf950cdad938b7e88a0ef06145979
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2845652-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: caramel
+*** en-s-2845652-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gebrande suiker
+** Ukrainian glosses
+
+* Sense s-2845652-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd98aa9ad4a798c337585862634915f16c55df8fee249824015a347a9b1fd91f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2845652-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karamell
+*** en-s-2845652-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Karamellen
+** Ukrainian glosses
+
+* Sense s-2845652-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8485cec7a5085ffe34cc91e49d2befd3da723c6b9cc6a03ed301ad0ab94407e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2845652-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((португ.) caramelo) карамель
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2845652-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2845652-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: カラメル

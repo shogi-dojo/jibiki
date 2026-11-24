@@ -1,0 +1,156 @@
+#+TITLE: ふんふん
+#+JMDICT_ID: 2719260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふんふん
+#+ROMAJI: funfun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2719260-001
+:PROPERTIES:
+:TEXT: ふんふん
+:NO_KANJI: false
+:END:
+** Reading rd-2719260-002
+:PROPERTIES:
+:TEXT: フンフン
+:NO_KANJI: false
+:END:
+
+* Sense s-2719260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 21538fe561cdf0348ef825cb43869047726e9389fb7d77a49e54f502382b093e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+** English glosses
+- uh-huh
+** Ukrainian glosses
+*** uk-s-2719260-001-001
+:PROPERTIES:
+:END:
+- text :: угу; ага; гм (підтакування під час слухання)
+** Learner notes
+*** note-s-2719260-001-001
+:PROPERTIES:
+:END:
+- UK :: Розмовний вигук, що передає стримане або задумливе підтакування співрозмовнику (часто з легким кивком), показуючи, що слухач уважно сприймає розповідь.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2719260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は「ふんふん」とうなずきながら話を聞いています。
+- READING :: かれは「ふんふん」とうなずきながらはなしをきいています。
+- UK :: Він слухає розповідь, киваючи та підтакуючи: «угу».
+- FOCUS :: ふんふん
+*** ex-2719260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 犬が庭の隅で鼻をふんふん鳴らして匂いを嗅いでいる。
+- READING :: いぬがにわのすみではなをふんふんならしてにおいをかいでいる。
+- UK :: Собака в кутку саду принюхується, шумно втягуючи повітря носом.
+- FOCUS :: ふんふん
+*** ex-2719260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 祖父は私の相談を「ふんふん、なるほど」と落ち着いて聞きながら、静かに考えていた。
+- READING :: そふはわたしのそうだんを「ふんふん、なるほど」とおちついてききながら、しずかにかんがえていた。
+- UK :: Дідусь спокійно слухав мою розповідь, примовляючи «ага, ось як», і тихо обмірковував пораду.
+- FOCUS :: ふんふん
+
+* Sense s-2719260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e20ba4951cee434ea9ec60f7213e6488dea138db1953759f17a41b0a905224be
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- on-mim
+** English glosses
+- sniff-sniff
+** Ukrainian glosses
+*** uk-s-2719260-002-001
+:PROPERTIES:
+:END:
+- text :: принюхуючись; шморгаючи; пирхаючи носом
+** Learner notes
+*** note-s-2719260-002-001
+:PROPERTIES:
+:END:
+- UK :: Ономатопеїчний прислівник, що описує часте сопіння чи принюхування носом — наприклад, у собаки, що обнюхує слід, або в людини, яка відчула запах чи сердито пирхає.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2719260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1f7722b9f09db8b5957b971a4fa9f86add2b3c2114e806d84863d6a7cc87c7d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2719260-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ономат.:)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2719260-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2719260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ふんふん
+** Accent accent-rd-2719260-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2719260-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: フンフン

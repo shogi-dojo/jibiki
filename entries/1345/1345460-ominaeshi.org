@@ -1,0 +1,172 @@
+#+TITLE: 女郎花
+#+JMDICT_ID: 1345460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おみなえし
+#+ROMAJI: ominaeshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1345460-001
+:PROPERTIES:
+:TEXT: 女郎花
+:END:
+** Reading rd-1345460-001
+:PROPERTIES:
+:TEXT: おみなえし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+** Reading rd-1345460-002
+:PROPERTIES:
+:TEXT: オミナエシ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1345460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f2ba69a9660dc75a8cdc18877462e75bf2ff59dfa73bb287c40d236dd9b3a927
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- golden lace (Patrinia scabiosifolia)
+- scabious patrinia
+- yellow patrinia
+** Ukrainian glosses
+*** uk-s-1345460-001-001
+:PROPERTIES:
+:END:
+- text :: патринія скабіозолиста
+** Learner notes
+*** note-s-1345460-001-001
+:PROPERTIES:
+:END:
+- UK :: Ботанічна назва багаторічної трави з дрібними жовтими квітками (Patrinia scabiosifolia), що зазвичай записується каною (おみなえし або オミナエシ). Входить до класичної сімки осінніх трав (秋の七草) і здавна оспівується в японській поезії 和歌.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1345460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に黄色いおみなえしが咲いています。
+- READING :: にわにきいろいおみなえしがさいています。
+- UK :: У саду цвіте жовта патринія.
+- FOCUS :: おみなえし
+*** ex-1345460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋になると、野原で揺れるおみなえしの姿がよく見られます。
+- READING :: あきになると、のはらでゆれるおみなえしのすがたがよくみられます。
+- UK :: Восени на луках часто можна побачити, як колишеться на вітрі патринія.
+- FOCUS :: おみなえし
+*** ex-1345460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 秋の七草のひとつに数えられるおみなえしは、古くから多くの和歌に詠まれてきた。
+- READING :: あきのななくさのひとつにかぞえられるおみなえしは、ふるくからおおくのわかによまれてきた。
+- UK :: Патринію, яку відносять до семи осінніх трав, здавна оспівували в багатьох класичних віршах.
+- FOCUS :: おみなえし
+
+* Sense s-1345460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 236503ec6f6ab6dd23c498ae9f0265c995c2bdcfad5bb247c52e9774b4f8b556
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Goldbaldrian
+*** en-s-1345460-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Patrinia scabiosaefolia
+** Ukrainian glosses
+
+* Sense s-1345460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9ddbcec8ad35a4caef382b8929d8f9f5b1c015d33a86ea29fdb066f52e99dd28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) патриния, Patrinia scabiosaefolia (Link.)
+** Ukrainian glosses
+
+* Sense s-1345460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 54fe433662a24b74999c48f1eaf8d7c43f62fca340e3e21ace531d379712727e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1345460-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: patrinia (nombre de flor)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1345460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1345460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おみなえし

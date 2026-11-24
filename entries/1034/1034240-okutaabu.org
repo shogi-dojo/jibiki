@@ -1,0 +1,180 @@
+#+TITLE: オクターブ
+#+JMDICT_ID: 1034240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: オクターブ
+#+ROMAJI: okutaabu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1034240-001
+:PROPERTIES:
+:TEXT: オクターブ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1034240-002
+:PROPERTIES:
+:TEXT: オクターヴ
+:NO_KANJI: false
+:END:
+
+* Sense s-1034240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e16b6bcea50ad95001d7b12868aa057bccc258411acc86fd4df66a7e2f3dc64d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+*** Language sources
+**** Language source ls-s-1034240-001-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: full
+:WASEI: false
+:END:
+- text ::
+** English glosses
+- octave
+** Ukrainian glosses
+*** uk-s-1034240-001-001
+:PROPERTIES:
+:END:
+- text :: октава
+** Learner notes
+*** note-s-1034240-001-001
+:PROPERTIES:
+:END:
+- UK :: Музичний термін, запозичений із французької мови (octave). Позначає музичний інтервал між двома звуками, частоти яких відносяться як один до двох, або групу з восьми ступенів звукоряду (наприклад, 一オクターブ上げる — «підняти на одну октаву»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1034240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この歌は一オクターブ高く歌う。
+- READING :: このうたはいちおくたーぶたかくうたう。
+- UK :: Цю пісню співають на октаву вище.
+- FOCUS :: オクターブ
+*** ex-1034240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ピアノの練習で、二オクターブの音階を何度も弾いた。
+- READING :: ぴあののれんしゅうで、におくたーぶのおんかいをなんどもひいた。
+- UK :: Під час занять на фортепіано я багато разів грав гаму в дві октави.
+- FOCUS :: オクターブ
+*** ex-1034240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼女は驚くほど音域が広く、三オクターブにわたるメロディーを軽々と歌いこなす。
+- READING :: かのじょはおどろくほどおんいきがひろく、さんおくたーぶにわたるめろでぃーをかるがるとうたいこなす。
+- UK :: Вона має напрочуд широкий діапазон голосу й із легкістю виконує мелодію завширшки в три октави.
+- FOCUS :: オクターブ
+
+* Sense s-1034240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0328aa19c9ecb813b4ff4b306b2638204e97f0c400fb2717e32547fbb17ee31f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034240-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {muz.} octaaf
+** Ukrainian glosses
+
+* Sense s-1034240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95bd9f2ab344c974641f2e0c56cd422b93945c489815ad2e7315113ad075ccdf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034240-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oktave
+** Ukrainian glosses
+
+* Sense s-1034240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c6841fd32db61b0af5d06d94c46c961f08d09e10d60aaacfa5d61d88c058d7b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034240-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) octave) (муз.) октава
+** Ukrainian glosses
+
+* Sense s-1034240-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 308d2af74e6156b494adff9275941bf52fc67718cb7941a09555245a4b331820
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1034240-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: oktav
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1034240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1034240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: オクターブ

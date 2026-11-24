@@ -1,0 +1,141 @@
+#+TITLE: 細則
+#+JMDICT_ID: 1768400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいそく
+#+ROMAJI: saisoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1768400-001
+:PROPERTIES:
+:TEXT: 細則
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1768400-001
+:PROPERTIES:
+:TEXT: さいそく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1768400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 92f1484f1d7a6a7b3635c4c11b6a2940a8b8551e886e2269a59b7e525936dc63
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bylaws
+- by-laws
+- detailed regulations
+** Ukrainian glosses
+*** uk-s-1768400-001-001
+:PROPERTIES:
+:END:
+- text :: детальні правила; підзаконні положення; регламент; статутні правила
+** Learner notes
+*** note-s-1768400-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник офіційно-ділового та юридичного стилю, складений із 細 (дрібний, докладний) та 則 (правило, норма). Позначає конкретні положення чи інструкції, які деталізують загальний закон, статут або договір (施行細則 — правила застосування, 細則を定める).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1768400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: サークルの細則を確認した。
+- READING :: さーくるのさいそくをかくにんした。
+- UK :: Я перевірив детальні правила гуртка.
+- FOCUS :: 細則
+*** ex-1768400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい制度の運用にあたって、細則を明確に定める必要がある。
+- READING :: あたらしいせいどのうんようにあたって、さいそくをめいかくにさだめるひつようがある。
+- UK :: Для впровадження нової системи необхідно чітко встановити детальні правила її застосування.
+- FOCUS :: 細則
+*** ex-1768400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 総会での承認を経て、改正された規約とそれに伴う細則が来月から施行されることになった。
+- READING :: そうかいでのしょうにんをへて、かいせいされたきやくとそれにともなうさいそくがらいげつからしこうされることになった。
+- UK :: Після затвердження на загальних зборах оновлений статут і пов'язані з ним детальні положення набудуть чинності з наступного місяця.
+- FOCUS :: 細則
+
+* Sense s-1768400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7d358aaab1ed856c93cd7a9ccae1744a1de49ac150c07567996f537f8a502aed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1768400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nähere Bestimmungen
+** Ukrainian glosses
+
+* Sense s-1768400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 97cc64850bbaa62699e776bccaea84a220622a546679ab367cc6ce75c59219a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1768400-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подробные правила, уточнения [правил]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1768400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1768400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さいそく

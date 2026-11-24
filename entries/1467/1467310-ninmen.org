@@ -1,0 +1,191 @@
+#+TITLE: 任免
+#+JMDICT_ID: 1467310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にんめん
+#+ROMAJI: ninmen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1467310-001
+:PROPERTIES:
+:TEXT: 任免
+:END:
+*** Priorities
+- news2
+- nf36
+** Reading rd-1467310-001
+:PROPERTIES:
+:TEXT: にんめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf36
+
+* Sense s-1467310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7d319a94ab1eff92ad8c1a21a025aec41544bab90422c4c2063c348fa34a1eb1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- appointments and dismissal
+** Ukrainian glosses
+*** uk-s-1467310-001-001
+:PROPERTIES:
+:END:
+- text :: призначення на посаду та звільнення; кадрові призначення й усунення
+** Learner notes
+*** note-s-1467310-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційно-діловий іменник і перехідне дієслово з する, утворене з 任命 («призначення») та 免職 («звільнення»). Часто трапляється в юридичних і державних текстах у виразах на кшталт 任免権 («право призначати й звільняти»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1467310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大臣を任免するのは首相の権限だ。
+- READING :: だいじんをにんめんするのはしゅしょうのけんげんだ。
+- UK :: Призначати та звільняти міністрів — це повноваження прем'єр-міністра.
+- FOCUS :: 任免
+*** ex-1467310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この委員会では、重要な役職の任免について話し合われる。
+- READING :: このいいんかいでは、じゅうようなやくしょくのにんめんについてはなしあわれる。
+- UK :: У цьому комітеті обговорюють призначення та звільнення на відповідальні посади.
+- FOCUS :: 任免
+*** ex-1467310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい規則では、組織の透明性を高めるために幹部職員の任免手続きが明確化された。
+- READING :: あたらしいきそくでは、そしきのとうめいせいをたかめるためにかんぶしょくいんのにんめんてつづきがめいかくかされた。
+- UK :: У новому регламенті для підвищення прозорості організації чітко прописали процедуру призначення та звільнення керівного складу.
+- FOCUS :: 任免
+
+* Sense s-1467310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 682be0031dddce97aef93fd65566b3fb53c2800fe9cee27b1c682bf74be711e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467310-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benoemen en ontslaan
+*** en-s-1467310-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: benoeming en ontslag
+*** en-s-1467310-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aanstelling en demissie
+*** en-s-1467310-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het benoemen en ontslaan
+** Ukrainian glosses
+
+* Sense s-1467310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: deecf355cb412308977dfa3d3edaa5e227195b984f7bf7319595b70cbdf1168d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467310-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ernennungen und Entlassungen
+** Ukrainian glosses
+
+* Sense s-1467310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 92c8e5b7bea53fa247414b29cbc542c77f567f47cf945e637b569e8b9ffa4e2b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1467310-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: назначение и снятие (увольнение)
+*** en-s-1467310-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} назначать и смещать; обновлять кадры
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1467310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1467310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: にんめん

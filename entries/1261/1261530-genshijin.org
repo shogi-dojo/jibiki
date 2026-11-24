@@ -1,0 +1,183 @@
+#+TITLE: 原始人
+#+JMDICT_ID: 1261530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんしじん
+#+ROMAJI: genshijin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1261530-001
+:PROPERTIES:
+:TEXT: 原始人
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1261530-001
+:PROPERTIES:
+:TEXT: げんしじん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1261530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ade5e6cc97906bb8cbbe24b2a47b0e7e0b8b0a7b510966908d50bbeb00015a3c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- primitive man
+** Ukrainian glosses
+*** uk-s-1261530-001-001
+:PROPERTIES:
+:END:
+- text :: первісна людина
+** Learner notes
+*** note-s-1261530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 原始 («первісність, першопочаток») та 人 («людина»). Вживається як у науково-популярних текстах про доісторичну епоху, так і в переносному або жартівливому значенні щодо нецивілізованої поведінки.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1261530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 博物館で原始人の暮らしを見た。
+- READING :: はくぶつかんでげんしじんのくらしをみた。
+- UK :: У музеї я побачив експозицію про побут первісних людей.
+- FOCUS :: 原始人
+*** ex-1261530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原始人は火を使って肉を焼いたり、寒さをしのいだりしていた。
+- READING :: げんしじんはひをつかってにくをやいたり、さむさをしのいだりしていた。
+- UK :: Первісні люди використовували вогонь, щоб смажити м'ясо та рятуватися від холоду.
+- FOCUS :: 原始人
+*** ex-1261530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 最新の考古学調査により、当時の原始人が想像以上に高度な道具を作っていたことが分かった。
+- READING :: さいしんのこうこがくちょうさにより、とうじのげんしじんがそうぞういじょうにこうどなどうぐをつくっていたことがわかった。
+- UK :: Завдяки новітнім археологічним дослідженням з'ясувалося, що тогочасні первісні люди виготовляли набагато складніші знаряддя, ніж вважалося раніше.
+- FOCUS :: 原始人
+
+* Sense s-1261530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d40a10b3e96ba5ec72ea16dcc041e815158433ec981204b354c46c03f5b899c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261530-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Urmensch
+*** en-s-1261530-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der primitive Mensch
+** Ukrainian glosses
+
+* Sense s-1261530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 372c1550cf935348992382156a710cf2bf89ce91a89141a2e751d17063264e21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261530-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первобытный человек
+** Ukrainian glosses
+
+* Sense s-1261530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: acda9b52f33746e12c4b3b34684dc00b97a7e1b99c179af0c8a8d8c6359c0bb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261530-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hombre primitivo
+** Ukrainian glosses
+
+* Sense s-1261530-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 26c3a3e92ed6c35a770ac625e7c2437bb91f6f949a48e413c6c3f793740e94f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261530-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: urmänniska
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1261530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1261530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: げんしじん

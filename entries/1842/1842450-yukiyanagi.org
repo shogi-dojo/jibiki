@@ -1,0 +1,176 @@
+#+TITLE: 雪柳
+#+JMDICT_ID: 1842450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆきやなぎ
+#+ROMAJI: yukiyanagi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1842450-001
+:PROPERTIES:
+:TEXT: 雪柳
+:END:
+** Reading rd-1842450-001
+:PROPERTIES:
+:TEXT: ゆきやなぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1842450-002
+:PROPERTIES:
+:TEXT: ユキヤナギ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1842450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3cde12fa2fce81483a63127081f296008fd7ffb06e2dcf21cf70a5e4c28d3ff8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Thunberg spirea (Spiraea thunbergii)
+** Ukrainian glosses
+*** uk-s-1842450-001-001
+:PROPERTIES:
+:END:
+- text :: таволга Тунберґа; спірея Тунберґа
+** Learner notes
+*** note-s-1842450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, назва рослини (часто пишеться каною як ユキヤナギ або ゆきやなぎ). Навесні цей декоративний кущ густо вкривається дрібними білими квітами на довгих пониклих гілках, що нагадують вербові гілки під снігом — звідси поєднання 雪 (сніг) і 柳 (верба).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1842450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に雪柳が咲いている。
+- READING :: にわにゆきやなぎがさいている。
+- UK :: У саду цвіте таволга Тунберґа.
+- FOCUS :: 雪柳
+*** ex-1842450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春になると白い雪柳の枝が風に揺れる。
+- READING :: はるになるとしろいゆきやなぎのえだがかぜにゆれる。
+- UK :: Навесні білі гілки спіреї Тунберґа гойдаються на вітрі.
+- FOCUS :: 雪柳
+*** ex-1842450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 川沿いの遊歩道では、まるで雪が積もったように満開の雪柳が連なっていた。
+- READING :: かわぞいのゆうほどうでは、まるでゆきがつもったようにまんかいのゆきやなぎがつらなっていた。
+- UK :: Уздовж набережної алеї рядами тягнулися квітучі кущі спіреї Тунберґа, немов укриті снігом.
+- FOCUS :: 雪柳
+
+* Sense s-1842450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 72abe551134fdd155e84b7b7f5f27900d7803bf10b398e646ce2b2e1e0cd635c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842450-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} rotswilg
+*** en-s-1842450-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spiraea thunbergii
+** Ukrainian glosses
+
+* Sense s-1842450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 739620cf5e82302bb5750789ca0da1e9ee7309168d77b713f758bafd6864cc53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spierstrauch
+*** en-s-1842450-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spiraea thunbergii
+** Ukrainian glosses
+
+* Sense s-1842450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9f1c7dbe0dd86cded9433877519fffd6e6c8af714423223eaca3f3a8fe608a98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) こごめばな
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1842450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1842450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ゆきやなぎ

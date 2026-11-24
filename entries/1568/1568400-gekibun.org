@@ -1,0 +1,169 @@
+#+TITLE: 檄文
+#+JMDICT_ID: 1568400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げきぶん
+#+ROMAJI: gekibun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1568400-001
+:PROPERTIES:
+:TEXT: 檄文
+:END:
+** Reading rd-1568400-001
+:PROPERTIES:
+:TEXT: げきぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1568400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 876c3e5dd662b632c82344bf0ec1df7ee794ac39640003be958c8e76059b1092
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- written appeal
+- manifesto
+- declaration
+** Ukrainian glosses
+*** uk-s-1568400-001-001
+:PROPERTIES:
+:END:
+- text :: відозва; маніфест; палкий заклик (письмовий)
+** Learner notes
+*** note-s-1568400-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжно-публіцистичний іменник від 檄 (письмовий заклик до дії) та 文 (текст). Історично означав наказ чи прокламацію про збір війська, а в сучасній мові — рішуче звернення, маніфест або заклик до однодумців (часто у вислові 檄文を飛ばす — розіслати палку відозву).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1568400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 仲間に檄文を送った。
+- READING :: なかまにげきぶんをおくった。
+- UK :: Надіслав товаришам палку відозву.
+- FOCUS :: 檄文
+*** ex-1568400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 市民団体は政府の方針に反対する檄文を発表した。
+- READING :: しみんだんたいはせいふのほうしんにはんたいするげきぶんをはっぴょうした。
+- UK :: Громадська організація оприлюднила маніфест проти курсу уряду.
+- FOCUS :: 檄文
+*** ex-1568400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 改革を訴える青年たちが各地に檄文を飛ばしたことで、多くの賛同者が集まり始めた。
+- READING :: かいかくをうったえるせいねんたちがかくちにげきぶんをとばしたことで、おおくのさんどうしゃがあつまりはじめた。
+- UK :: Після того як молоді реформатори розіслали відозви по різних регіонах, навколо них почали гуртуватися численні прихильники.
+- FOCUS :: 檄文
+
+* Sense s-1568400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ddf71e58bc1b06bcc152fcc12ad7b00a9ba52e55cbabc4f3ddf620ca17bf7df8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Manifest
+*** en-s-1568400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pamphlet
+*** en-s-1568400-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flugschrift
+** Ukrainian glosses
+
+* Sense s-1568400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2d6da653dc5c310c0a396b451a655a4d5247eb75e2dea1f26c41411091df1313
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568400-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyilatkozat
+** Ukrainian glosses
+
+* Sense s-1568400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d4023c34885587c9ae37109ba8967f8e71162cd9416ce1ac5a8073cb47a3eeee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) げき【檄】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1568400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1568400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: げきぶん

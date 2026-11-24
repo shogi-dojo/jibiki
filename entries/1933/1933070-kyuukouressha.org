@@ -1,0 +1,177 @@
+#+TITLE: 急行列車
+#+JMDICT_ID: 1933070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうこうれっしゃ
+#+ROMAJI: kyuukouressha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1933070-001
+:PROPERTIES:
+:TEXT: 急行列車
+:END:
+** Reading rd-1933070-001
+:PROPERTIES:
+:TEXT: きゅうこうれっしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1933070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dfa0fabf2cd72a5133638adce3f6b9433d718ed4192a6993f1e4616e312e539f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- express train
+** Ukrainian glosses
+*** uk-s-1933070-001-001
+:PROPERTIES:
+:END:
+- text :: швидкий потяг; експрес
+** Learner notes
+*** note-s-1933070-001-001
+:PROPERTIES:
+:END:
+- UK :: Транспортний термін (іменник), складений із 急行 (експрес, швидкий рух) та 列車 (поїзд, потяг). Позначає пасажирський потяг, який пропускає дрібні станції й зупиняється лише на основних (швидший за звичайний 普通列車, але повільніший за обмежений експрес 特急列車).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1933070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 急行列車に乗って東京へ行く。
+- READING :: きゅうこうれっしゃにのってとうきょうへいく。
+- UK :: Їду до Токіо швидким потягом.
+- FOCUS :: 急行列車
+*** ex-1933070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この駅には各駅停車しか停まらず、急行列車は通過する。
+- READING :: このえきにはかくえきていしゃしかとまらず、きゅうこうれっしゃはつうかする。
+- UK :: На цій станції зупиняються лише потяги з усіма зупинками, а експреси проходять повз.
+- FOCUS :: 急行列車
+*** ex-1933070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地方都市を結ぶ急行列車は、通勤客や観光客にとって欠かせない移動手段となっている。
+- READING :: ちほうとしをむすぶきゅうこうれっしゃは、つうきんきゃくやかんこうきゃくにとってかかせないいどうしゅだんとなっている。
+- UK :: Швидкі потяги, що сполучають регіональні міста, стали незамінним видом транспорту для пасажирів, які їздять на роботу, і туристів.
+- FOCUS :: 急行列車
+
+* Sense s-1933070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c04fd07d281e95fdfd47925510bc4096197e9589c45acff1fcd105e55a39f49a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schnellzug
+*** en-s-1933070-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eilzug
+** Ukrainian glosses
+
+* Sense s-1933070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 505e832566194f6a5c9a315e5a948b361da0873840974695abdca1cb224195c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933070-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expresszvonat
+** Ukrainian glosses
+
+* Sense s-1933070-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e77b938ce351be9f5447249bad0a1a869d8f0f617b23a8dd2b7eb019b14f7cc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933070-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: скорый (курьерский) поезд; экспресс
+** Ukrainian glosses
+
+* Sense s-1933070-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dc70ef842f49e607ff093bfbaac9de63264abaf9582ca235aebb3994e371ecfb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1933070-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expresståg
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1933070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1933070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きゅうこうれっしゃ

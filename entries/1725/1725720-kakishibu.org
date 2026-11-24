@@ -1,0 +1,141 @@
+#+TITLE: 柿渋
+#+JMDICT_ID: 1725720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かきしぶ
+#+ROMAJI: kakishibu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1725720-001
+:PROPERTIES:
+:TEXT: 柿渋
+:END:
+** Reading rd-1725720-001
+:PROPERTIES:
+:TEXT: かきしぶ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1725720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ef18e047c15fddfa12cfc020e6b23a1543da1a551580a474cd2fe7a024a21f8e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- kakishibu
+*** en-s-1725720-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: astringent persimmon juice used as a dye or to treat wood, paper, etc.
+** Ukrainian glosses
+*** uk-s-1725720-001-001
+:PROPERTIES:
+:END:
+- text :: терпкий сік зеленої хурми; природний лак і барвник із хурми
+** Learner notes
+*** note-s-1725720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 柿 (хурма) і 渋 (в'язкий сік). Традиційна японська речовина, яку отримують шляхом зброджування соку недостиглої терпкої хурми; завдяки вмісту танінів вона надає водостійкості, міцності та глибокого коричневого відтінку дереву, паперу ваші, тканинам і рибальським сіткам.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1725720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この和紙には柿渋が塗ってあります。
+- READING :: このわしにはかきしぶがぬってあります。
+- UK :: Цей папір ваші вкритий соком терпкої хурми.
+- FOCUS :: 柿渋
+*** ex-1725720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 柿渋で染めた布は、使い込むほどに落ち着いた茶色に変わっていく。
+- READING :: かきしぶでそめたぬのは、つかいこむほどにおちついたちゃいろにかわっていく。
+- UK :: Тканина, пофарбована соком хурми, з часом набуває дедалі глибшого, спокійного коричневого відтінку.
+- FOCUS :: 柿渋
+*** ex-1725720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古民家の柱に柿渋を塗ることで、防虫や防腐の効果を高めて長持ちさせることができる。
+- READING :: こみんかのはしらにかきしぶをぬることで、ぼうちゅうやぼうふのこうかをたかめてながもちさせることができる。
+- UK :: Покриття дерев'яних стовпів старої сільської хати соком терпкої хурми посилює захист від комах і гниття та продовжує термін служби будівлі.
+- FOCUS :: 柿渋
+
+* Sense s-1725720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e7829513f5103be293c89f3a6f4f9d6cf7d2a3ac0d3bf37b33f961567dac4d68
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1725720-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kakitannin
+** Ukrainian glosses
+
+* Sense s-1725720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bb315ca9f9766c7cd2285ad48cb9b8297e6500aa94163007feb9b43ee301ba56
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1725720-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [вяжущий] сок хурмы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1725720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1725720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かきしぶ

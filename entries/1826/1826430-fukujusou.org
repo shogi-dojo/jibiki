@@ -1,0 +1,150 @@
+#+TITLE: 福寿草
+#+JMDICT_ID: 1826430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふくじゅそう
+#+ROMAJI: fukujusou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1826430-001
+:PROPERTIES:
+:TEXT: 福寿草
+:END:
+** Reading rd-1826430-001
+:PROPERTIES:
+:TEXT: ふくじゅそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1826430-002
+:PROPERTIES:
+:TEXT: フクジュソウ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1826430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0db03d29f6b3d05df64c6364dde0307cb0cc5ca7de9685c470dc9f42f7d1469c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- pheasant's eye (species of buttercup, Adonis ramosa)
+** Ukrainian glosses
+*** uk-s-1826430-001-001
+:PROPERTIES:
+:END:
+- text :: горицвіт амурський; адоніс гіллястий (Adonis ramosa)
+** Learner notes
+*** note-s-1826430-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (назва рослини родини жовтецевих), що часто пишеться ієрогліфами 福寿草 (від 福 «щастя», 寿 «довголіття», 草 «трава») або катаканою フクジュソウ. Цвіте яскраво-жовтими квітами наприкінці зими та ранньою весною, тому в Японії вважається символом благополуччя та приходу нового року (також має народну назву 元日草).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1826430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に福寿草が咲いた。
+- READING :: にわにふくじゅそうがさいた。
+- UK :: У саду зацвів горицвіт амурський.
+- FOCUS :: 福寿草
+*** ex-1826430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雪の間から顔を出した黄色い福寿草が、春の訪れを告げている。
+- READING :: ゆきのあいだからかおをだしたきいろいふくじゅそうが、はるのおとずれをつげている。
+- UK :: Жовтий горицвіт амурський, що виглянув з-під снігу, сповіщає про прихід весни.
+- FOCUS :: 福寿草
+*** ex-1826430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 福寿草は縁起の良い花として正月飾りに使われる一方、根などに毒を含むため取り扱いには注意が必要だ。
+- READING :: ふくじゅそうはえんぎのよいはなとしてしょうがつかざりにつかわれるいっぽう、ねなどにどくをふくむためとりあつかいにはちゅういがひつようだ。
+- UK :: Горицвіт амурський використовують у новорічних композиціях як щасливу квітку, проте його коріння та інші частини містять отруту, тож поводитися з ним слід обережно.
+- FOCUS :: 福寿草
+
+* Sense s-1826430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5582ecc4785856f3b95d0f23111b9dec4e5cc9cdb7f64f0042df5b0bb46d85b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1826430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amur-Adonis-Röschen (findet Verwendung in Neujahrsgestecken)
+*** en-s-1826430-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Adonis amurensis
+** Ukrainian glosses
+
+* Sense s-1826430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: beb21e61668af4fd81b74fbd5aea21d9f057716ce589e54039b6aecabd2f0c9d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1826430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: адонис амурский, Adonis amurensis (Regel et Radd. (декоративный многолетник)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1826430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1826430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふくじゅそう

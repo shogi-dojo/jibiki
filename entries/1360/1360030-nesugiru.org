@@ -1,0 +1,154 @@
+#+TITLE: 寝すぎる
+#+JMDICT_ID: 1360030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねすぎる
+#+ROMAJI: nesugiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1360030-001
+:PROPERTIES:
+:TEXT: 寝すぎる
+:END:
+** Written form wf-1360030-002
+:PROPERTIES:
+:TEXT: 寝過ぎる
+:END:
+** Reading rd-1360030-001
+:PROPERTIES:
+:TEXT: ねすぎる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1360030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3e28d8545d3d7043bdaaf0fb563631ecc58db8cf604bcb81df5b8647ae4b06a5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to oversleep
+** Ukrainian glosses
+*** uk-s-1360030-001-001
+:PROPERTIES:
+:END:
+- text :: проспати; спати занадто довго
+** Learner notes
+*** note-s-1360030-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне ічідан-дієслово, утворене з 寝る («спати») та допоміжного дієслова -すぎる («робити надмірно»). На відміну від 寝過ごす («проспати потрібний час, запізнитися»), частіше підкреслює сам факт занадто тривалого сну, через який потім відчувається млявість.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1360030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 休日に寝すぎて頭が重い。
+- READING :: きゅうじつにねすぎてあたまがおもい。
+- UK :: На вихідних я переспав, і тепер голова важка.
+- FOCUS :: 寝すぎ
+*** ex-1360030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 疲れていたせいか、うっかり寝すぎて約束の時間に遅れそうになった。
+- READING :: つかれていたせいか、うっかりねすぎてやくそくのじかんにおくれそうになった。
+- UK :: Мабуть, через утому я ненароком спав занадто довго й ледь не запізнився на зустріч.
+- FOCUS :: 寝すぎ
+*** ex-1360030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 普段より長く寝すぎると、かえって体がだるくなって一日中調子が出ないことがある。
+- READING :: ふだんよりながくねすぎると、かえってからだがだるくなっていちにちじゅうちょうしがでないことがある。
+- UK :: Якщо спати довше, ніж зазвичай, тіло може навпаки обважніти, і весь день не буде бадьорості.
+- FOCUS :: 寝すぎる
+
+* Sense s-1360030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b04dd8b4f1f7d3ecfea1f475756b78618bb4d75fdb2aa6e4c15b2835e47080c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1360030-002-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elalussza az időt
+*** en-s-1360030-002-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: későn ébred
+*** en-s-1360030-002-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: túl későn ébred
+** Ukrainian glosses
+
+* Sense s-1360030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a72f6448bff4ade6ac2d4a054e5676588a869332b7f693d085b576ee71d55793
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1360030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ねすごす
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1360030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1360030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ねすぎる

@@ -1,0 +1,154 @@
+#+TITLE: 夜陰
+#+JMDICT_ID: 1536410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やいん
+#+ROMAJI: yain
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1536410-001
+:PROPERTIES:
+:TEXT: 夜陰
+:END:
+** Reading rd-1536410-001
+:PROPERTIES:
+:TEXT: やいん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1536410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a54e1f08c36afda48871bd334505e0a36293edaf72ff12d79a3bd75dd2eb6ed2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 夜陰に乗じて
+** English glosses
+- shades of evening
+- dead of night
+** Ukrainian glosses
+*** uk-s-1536410-001-001
+:PROPERTIES:
+:END:
+- text :: сутінки ночі, нічна темрява; пізня глуха ніч
+** Learner notes
+*** note-s-1536410-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, складений із 夜 (ніч) та 陰 (тінь, темрява). Найчастіше трапляється у сталому вислові 夜陰に乗じて («під покровом ночі», «скориставшись нічною темрявою»), особливо в історичних оповідях чи детективах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1536410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夜陰にまぎれて男は姿を消した。
+- READING :: やいんにまぎれておとこはすがたをけした。
+- UK :: Сховавшись у нічній темряві, чоловік зник.
+- FOCUS :: 夜陰
+*** ex-1536410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 盗賊たちは夜陰に乗じて城門の近くまで忍び寄った。
+- READING :: とうぞくたちはやいんにじょうじてしろもんのちかくまでしのびよった。
+- UK :: Розбійники під покровом ночі підкралися аж до замкової брами.
+- FOCUS :: 夜陰
+*** ex-1536410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 街灯の少ない古い路地は夜陰が深まるにつれて静まり返り、足音だけが響いた。
+- READING :: がいとうのすくないふるいろじはやいんがふかまるにつれてしずまりかえり、あしおとだけがひびいた。
+- UK :: У старому провулку з малою кількістю ліхтарів із настанням глухої ночі запала тиша, і лунали лише кроки.
+- FOCUS :: 夜陰
+
+* Sense s-1536410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cfedff643c81179968daa616514707c153418d6943603690e7423d981455751d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1536410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dunkelheit der Nacht
+** Ukrainian glosses
+
+* Sense s-1536410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d5ef29f4e2ed5d597e76ccbc17174fcdf929fcd2dbd9f11e48bc0e7a7a23d229
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1536410-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szürkület
+** Ukrainian glosses
+
+* Sense s-1536410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 547f4dee3688e20f2fe2bd490c6025082b82654e3b2565194694c152a97c0154
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1536410-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) глухая ночь; ночная тьма
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1536410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1536410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: やいん

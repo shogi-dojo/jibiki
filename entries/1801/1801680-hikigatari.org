@@ -1,0 +1,144 @@
+#+TITLE: 弾き語り
+#+JMDICT_ID: 1801680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひきがたり
+#+ROMAJI: hikigatari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1801680-001
+:PROPERTIES:
+:TEXT: 弾き語り
+:END:
+*** Priorities
+- news2
+- nf32
+** Written form wf-1801680-002
+:PROPERTIES:
+:TEXT: 弾語り
+:END:
+** Reading rd-1801680-001
+:PROPERTIES:
+:TEXT: ひきがたり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1801680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: accf102909534af9fd0c235130111b029f727daba8cc15da9442b2e196111dc7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- singing to one's own accompaniment
+- reciting while playing the shamisen, biwa, etc.
+** Ukrainian glosses
+*** uk-s-1801680-001-001
+:PROPERTIES:
+:END:
+- text :: спів під власний акомпанемент; декламація під гру на шямісені, біва тощо
+** Learner notes
+*** note-s-1801680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує основи дієслів 弾く («грати на струнному чи клавішному інструменті») і 語る («оповідати, декламувати»). Спершу позначав традиційний оповідний спів під шямісен або біва, а сьогодні широко вживається й щодо сольного співу під власний супровід на гітарі чи фортепіано.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1801680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼はギターの弾き語りが得意だ。
+- READING :: かれはぎたーのひきがたりがとくいだ。
+- UK :: Він чудово співає під власний акомпанемент на гітарі.
+- FOCUS :: 弾き語り
+*** ex-1801680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 公園のベンチで、若い男性がアコースティックギターで弾き語りをしていた。
+- READING :: こうえんのべんちで、わかいだんせいがあこーすてぃっくぎたーでひきがたりをしていた。
+- UK :: На лавці в парку молодий чоловік співав, акомпануючи собі на акустичній гітарі.
+- FOCUS :: 弾き語り
+*** ex-1801680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 伝統芸能の舞台では、三味線の繊細な音色に乗せた弾き語りが観客を魅了した。
+- READING :: でんとうげいのうのぶたいでは、しゃみせんのせんさいなねいろにのせたひきがたりがかんきゃくをみりょうした。
+- UK :: На сцені традиційного мистецтва сольний спів під витончене звучання шямісена зачарував глядачів.
+- FOCUS :: 弾き語り
+
+* Sense s-1801680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 41b899f902e3d2a1b3251a44419206d061f7c62aa41bb848b4a11a023c18fac9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rezitation zur eigenen Musikbegleitung
+** Ukrainian glosses
+
+* Sense s-1801680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0d1ad52e854b421a28d57c5c987d61e24d6fd5c6c774b36a66de1e922ed3a6db
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1801680-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сказ под аккомпанемент сямисэна (или другого щипкового инструмента)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1801680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1801680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひきがたり

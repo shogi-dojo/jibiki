@@ -1,0 +1,164 @@
+#+TITLE: 切り下ろす
+#+JMDICT_ID: 1383860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きりおろす
+#+ROMAJI: kiriorosu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1383860-001
+:PROPERTIES:
+:TEXT: 切り下ろす
+:END:
+** Written form wf-1383860-002
+:PROPERTIES:
+:TEXT: 斬り下ろす
+:END:
+** Written form wf-1383860-003
+:PROPERTIES:
+:TEXT: 切りおろす
+:END:
+** Written form wf-1383860-004
+:PROPERTIES:
+:TEXT: 切下ろす
+:END:
+** Reading rd-1383860-001
+:PROPERTIES:
+:TEXT: きりおろす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1383860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f4d09bd31bbd75e6b000029edd59d1e8f0720b20064622703197a594de608437
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to cut downward
+- to slash downward
+** Ukrainian glosses
+*** uk-s-1383860-001-001
+:PROPERTIES:
+:END:
+- text :: рубати згори вниз, розтинати ударом зверху вниз
+** Learner notes
+*** note-s-1383860-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово 1-ї дієвідміни (五段 на -す). Складене дієслово від 切る (різати, рубати) та 下ろす (опускати вниз); уживається щодо руху мечем, ножем або сокирою згори донизу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1383860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 武士が刀をまっすぐ切り下ろした。
+- READING :: ぶしがかたなをまっすぐきりおろした。
+- UK :: Самурай рубанув мечем прямо зверху вниз.
+- FOCUS :: 切り下ろした
+*** ex-1383860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 剣道では竹刀を頭上から垂直に切り下ろすのが基本だ。
+- READING :: けんどうではしないをずじょうからすいちょくにきりおろすのがきほんだ。
+- UK :: У кендо базовим рухом є вертикальний удар бамбуковим мечем згори вниз над головою.
+- FOCUS :: 切り下ろす
+*** ex-1383860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 時代劇の場面で、侍が相手の肩を狙って刀を鋭く切り下ろした。
+- READING :: じだいげきのばめんで、さむらいがあいてのかたをねらってかたなをするどくきりおろした。
+- UK :: У сцені історичної драми самурай різко завдав удару мечем зверху вниз, цілячись у плече супротивника.
+- FOCUS :: 切り下ろした
+
+* Sense s-1383860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8d523c649792fe8cd287d20dcd57c80974b914526fe0feae72796f422b9e3edc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: von oben nach unten durchschneiden
+** Ukrainian glosses
+
+* Sense s-1383860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fe02fa2632b16cea1ad73a2204546be6c91a651bbd07638b125c94104c16b86e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: срубить, снести прочь (клинком)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1383860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1383860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きりおろす
+** Accent accent-rd-1383860-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1383860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きりおろす

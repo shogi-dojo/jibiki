@@ -1,0 +1,176 @@
+#+TITLE: 失明
+#+JMDICT_ID: 1320210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しつめい
+#+ROMAJI: shitsumei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1320210-001
+:PROPERTIES:
+:TEXT: 失明
+:END:
+*** Priorities
+- news1
+- nf24
+** Reading rd-1320210-001
+:PROPERTIES:
+:TEXT: しつめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+
+* Sense s-1320210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 28ebbff5fe439ec39f5956a4239b25fb31f7650ac0ac120f19c84a3e48aacc30
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- loss of eyesight
+- loss of sight
+- going blind
+- blindness
+** Ukrainian glosses
+*** uk-s-1320210-001-001
+:PROPERTIES:
+:END:
+- text :: втрата зору; осліплення; сліпота
+** Learner notes
+*** note-s-1320210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне дієслово з する (失明する — осліпнути, втратити зір). Позначає повну або часткову втрату здатності бачити внаслідок хвороби чи травми. Складається з ієрогліфів 失 (втрачати) та 明 (зір, ясність).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1320210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は病気で失明しました。
+- READING :: そふはびょうきでしつめいしました。
+- UK :: Дідусь втратив зір через хворобу.
+- FOCUS :: 失明
+*** ex-1320210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 事故で片目が失明する恐れがあった。
+- READING :: じこでかためがしつめいするおそれがあった。
+- UK :: Через нещасний випадок була загроза осліпнути на одне око.
+- FOCUS :: 失明
+*** ex-1320210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 治療が遅れれば失明に至る危険があるため、早めの受診が勧められている。
+- READING :: ちりょうがおくれればしつめいにいたるきけんがあるため、はやめのじゅしんがすすめられている。
+- UK :: Оскільки затримка з лікуванням загрожує втратою зору, рекомендують звертатися до лікаря якнайшвидше.
+- FOCUS :: 失明
+
+* Sense s-1320210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 46be80b804280978858b060d008f93ad57f469f9c375653600421a68c8bae009
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320210-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erblinden
+*** en-s-1320210-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das Augenlicht verlieren
+*** en-s-1320210-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erblindung
+*** en-s-1320210-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verlust des Augenlichts
+** Ukrainian glosses
+
+* Sense s-1320210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9f95993c8b6dac4ba6699cdc48424afc3c7693d214bba791008a384c2928519a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320210-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: потеря зрения
+*** en-s-1320210-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} потерять зрение, ослепнуть
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1320210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1320210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しつめい

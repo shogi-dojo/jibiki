@@ -1,0 +1,165 @@
+#+TITLE: 定率
+#+JMDICT_ID: 1777160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていりつ
+#+ROMAJI: teiritsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1777160-001
+:PROPERTIES:
+:TEXT: 定率
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1777160-001
+:PROPERTIES:
+:TEXT: ていりつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1777160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e24d2028f979ace39eee02978a9733f1b1fe8141f2b9ebb29d62f36d63d82333
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- fixed rate
+** Ukrainian glosses
+*** uk-s-1777160-001-001
+:PROPERTIES:
+:END:
+- text :: фіксована ставка; сталий коефіцієнт; фіксований тариф
+** Learner notes
+*** note-s-1777160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 定 (фіксувати, встановлювати) та 率 (ставка, частка, коефіцієнт). Уживається в економіці, фінансах і бухгалтерії для позначення незмінної процентної ставки або норми, зокрема в поєднаннях 定率法 (метод зменшуваного залишку при амортизації) чи 定率課税 (пропорційне оподаткування за фіксованою ставкою).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1777160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この手数料は定率で決まっています。
+- READING :: このてすうりょうはていりつできまっています。
+- UK :: Ця комісія встановлена за фіксованою ставкою.
+- FOCUS :: 定率
+*** ex-1777160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 政府は来年から定率の減税を行う予定だ。
+- READING :: せいふはらいねんからていりつのげんぜいをおこなうよていだ。
+- UK :: З наступного року уряд планує запровадити зниження податків за фіксованою ставкою.
+- FOCUS :: 定率
+*** ex-1777160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 物価の変動が激しい時期には、定率の積立制度だけでは資産の価値を守りにくいと言われる。
+- READING :: ぶっかのへんどうがはげしいじきには、ていりつのつみたてせいどだけではしさんのかちをまもりにくいといわれる。
+- UK :: Кажуть, що в періоди різких коливань цін важко зберегти вартість активів лише за допомогою системи накопичень із фіксованою ставкою.
+- FOCUS :: 定率
+
+* Sense s-1777160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a1b3ad0894ea360d0cf41064d89016d6775f469c0f50df1a11eb3787037d3ff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1777160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vast percentage
+*** en-s-1777160-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vast tarief
+** Ukrainian glosses
+
+* Sense s-1777160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3bdad0db2e984ee08618b6af6e0ecc70adb0947640ba2749e95016ab787209a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1777160-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fester Prozentsatz
+** Ukrainian glosses
+
+* Sense s-1777160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 110c340129ec4cdc17547d8481ab3f70cc929a9073602aa0a7ee68992ee108e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1777160-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: определённый тариф (коэффициент, процент)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1777160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1777160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ていりつ

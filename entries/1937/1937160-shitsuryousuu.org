@@ -1,0 +1,136 @@
+#+TITLE: 質量数
+#+JMDICT_ID: 1937160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しつりょうすう
+#+ROMAJI: shitsuryousuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1937160-001
+:PROPERTIES:
+:TEXT: 質量数
+:END:
+** Reading rd-1937160-001
+:PROPERTIES:
+:TEXT: しつりょうすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1937160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2a395bb8c7c15f7b6b9a2bfb233ebbf5cef1c26b3453d5e430eb9f7cf316e49f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- physics
+- chem
+** English glosses
+- mass number
+** Ukrainian glosses
+*** uk-s-1937160-001-001
+:PROPERTIES:
+:END:
+- text :: масове число
+** Learner notes
+*** note-s-1937160-001-001
+:PROPERTIES:
+:END:
+- UK :: Науковий термін у фізиці та хімії, що позначає сумарну кількість протонів (陽子) і нейтронів (中性子) у ядрі атома. Наприклад, у вуглецю-12 (炭素12) масове число дорівнює дванадцяти.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1937160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 理科の授業で原子の質量数を習った。
+- READING :: りかのじゅぎょうでげんしのしつりょうすうをならった。
+- UK :: На уроці природознавства ми вивчали масове число атома.
+- FOCUS :: 質量数
+*** ex-1937160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 質量数は、原子核に含まれる陽子の数と中性子の数の合計で表される。
+- READING :: しつりょうすうは、げんしかくにふくまれるようしのかずとちゅうせいしのかずのごうけいであらわされる。
+- UK :: Масове число визначається сумою кількості протонів і нейтронів в атомному ядрі.
+- FOCUS :: 質量数
+*** ex-1937160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じ元素であっても中性子の数が異なるため、質量数の違う同位体が存在する。
+- READING :: おなじげんそであってもちゅうせいしのかずがことなるため、しつりょうすうのちがうどういたいがそんざいする。
+- UK :: Навіть у межах одного хімічного елемента через різну кількість нейтронів існують ізотопи з різним масовим числом.
+- FOCUS :: 質量数
+
+* Sense s-1937160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2c6ddb1aec343090295235f77cea16b09ae5f4701d2435a148600a14d51e3383
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1937160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Massenzahl (eine Atoms)
+** Ukrainian glosses
+
+* Sense s-1937160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9e8adeab2ef1ee329b1d8b284a8dce5291c022a8d0818f7a7cd64d0a0e6c381c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1937160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) массовое число
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1937160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1937160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しつりょうすう

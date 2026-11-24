@@ -1,0 +1,133 @@
+#+TITLE: 着丈
+#+JMDICT_ID: 1423070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きたけ
+#+ROMAJI: kitake
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1423070-001
+:PROPERTIES:
+:TEXT: 着丈
+:END:
+** Reading rd-1423070-001
+:PROPERTIES:
+:TEXT: きたけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1423070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1834d55f6ad69bf44b671c35da1cac49d3ac38efbd725abc26b9c2c9a0460bde
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dress length
+** Ukrainian glosses
+*** uk-s-1423070-001-001
+:PROPERTIES:
+:END:
+- text :: довжина виробу (одягу); довжина сукні або пальта
+** Learner notes
+*** note-s-1423070-001-001
+:PROPERTIES:
+:END:
+- UK :: Швейний і торговельний термін від 着 (носити, одяг) та 丈 (довжина, міра). Позначає вертикальну довжину верхнього одягу, сукні, пальта, светра чи кімоно від основи коміра ззаду до нижнього краю подолу; один із ключових параметрів розмірної сітки в інтернет-магазинах одягу (поряд із 身幅 — шириною виробу та 袖丈 — довжиною рукава).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1423070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このコートは着丈が少し長いです。
+- READING :: このこーとはきたけがすこしながいです。
+- UK :: Це пальто має трохи велику довжину.
+- FOCUS :: 着丈
+*** ex-1423070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ネット通販で服を買うときは、必ず着丈や肩幅のサイズを確認するようにしている。
+- READING :: ねっとつうはんでふくをかうときは、かならずきたけやかたはばのさいずをかくにんするようにしている。
+- UK :: Купуючи одяг в інтернет-магазинах, я обов'язково перевіряю довжину виробу та ширину в плечах.
+- FOCUS :: 着丈
+*** ex-1423070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 同じサイズのワンピースでも、着丈が数センチ違うだけで全体の印象が大きく変わる。
+- READING :: おなじさいずのわんぴーすでも、きたけがすうせんちちがうだけでぜんたいのいんしょうがおおきくかわる。
+- UK :: Навіть у суконь одного розміру різниця в довжині виробу всього на кілька сантиметрів помітно змінює загальний вигляд.
+- FOCUS :: 着丈
+
+* Sense s-1423070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a1a5740fa67582399e99d002a90ecaac30b1790ea3673481972bb9060ca512ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1423070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kleiderlänge
+** Ukrainian glosses
+
+* Sense s-1423070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8b0cfdc48165e3b48b80bd7f4e9cd679bae1be5d94b5966eb6532687fb750869
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1423070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: длина платья (одежды)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1423070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1423070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: きたけ

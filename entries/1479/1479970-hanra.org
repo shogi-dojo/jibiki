@@ -1,0 +1,150 @@
+#+TITLE: 半裸
+#+JMDICT_ID: 1479970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんら
+#+ROMAJI: hanra
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1479970-001
+:PROPERTIES:
+:TEXT: 半裸
+:END:
+** Reading rd-1479970-001
+:PROPERTIES:
+:TEXT: はんら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1479970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fec36fc995cf059fca8144e22d4d471dfb5fcc618756f3e6307e0912181f2fbb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- half-nakedness
+** Ukrainian glosses
+*** uk-s-1479970-001-001
+:PROPERTIES:
+:END:
+- text :: напівоголеність; напівоголений вигляд
+** Learner notes
+*** note-s-1479970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений зі знаків 半 (половина) та 裸 (оголений). Означає стан, коли людина частково роздягнена, зазвичай оголена до пояса; у реченні часто виступає означенням із часткою の (半裸の男性) або обставиною стану з часткою で чи まま (半裸で, 半裸のまま).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1479970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は半裸で外に出た。
+- READING :: かれははんらでそとにでた。
+- UK :: Він вийшов надвір напівоголеним.
+- FOCUS :: 半裸
+*** ex-1479970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 真夏の海辺では半裸の若者たちがバレーボールをしていた。
+- READING :: まなつのうみべでははんらのわかものたちがばれーぼーるをしていた。
+- UK :: На узбережжі в розпалі літа напівоголена молодь грала у волейбол.
+- FOCUS :: 半裸
+*** ex-1479970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 火事の知らせを受けて、住民たちは半裸のまま慌てて建物の外へ避難した。
+- READING :: かじのしらせをうけて、じゅうみんたちははんらのままあわててたてもののそとへひなんした。
+- UK :: Почувши повідомлення про пожежу, мешканці напівоголені поспіхом вибігли з будівлі.
+- FOCUS :: 半裸
+
+* Sense s-1479970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b25c6bd7251ddd19ac7138eff53b2671388811f5939c85f02ccc68cae08eb7e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Halbenacktheit
+** Ukrainian glosses
+
+* Sense s-1479970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0b6383102a8c1f89063653f0aca116464bc378403b8cd3cf7655105d142262d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) はんらたい
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1479970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1479970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はんら
+** Accent accent-rd-1479970-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1479970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はんら

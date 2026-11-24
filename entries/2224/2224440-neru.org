@@ -1,0 +1,131 @@
+#+TITLE: ネル
+#+JMDICT_ID: 2224440
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ネル
+#+ROMAJI: neru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2224440-001
+:PROPERTIES:
+:TEXT: ネル
+:NO_KANJI: false
+:END:
+
+* Sense s-2224440-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dde52e669643ee05d21c807aa8bd860c7b91b09f58fadd533eec375ea01728e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- フランネル
+** English glosses
+- flannel
+** Ukrainian glosses
+*** uk-s-2224440-001-001
+:PROPERTIES:
+:END:
+- text :: фланель; байка
+** Learner notes
+*** note-s-2224440-001-001
+:PROPERTIES:
+:END:
+- UK :: Скорочення від запозиченого слова フランネル (flannel). Позначає м'яку ворсисту бавовняну або вовняну тканину, з якої шиють теплі сорочки (ネルシャツ), піжами й постільну білизну, а також роблять тканинні фільтри для кави (ネルドリップ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2224440-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬はネルのパジャマを着ます。
+- READING :: ふゆはねるのぱじゃまをきます。
+- UK :: Узимку я ношу фланелеву піжаму.
+- FOCUS :: ネル
+*** ex-2224440-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 肌ざわりのいいネルのシャツは、秋から春先まで重宝する。
+- READING :: はだざわりのいいねるのしゃつは、あきからはるさきまでちょうほうする。
+- UK :: Приємна на дотик фланелева сорочка стає в пригоді від осені до ранньої весни.
+- FOCUS :: ネル
+*** ex-2224440-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この喫茶店では、紙ではなくネルのフィルターを使って丁寧にコーヒーを淹れている。
+- READING :: このきっさてんでは、かみではなくねるのふぃるたーをつかってていねいにこーひーをいれている。
+- UK :: У цій кав'ярні каву дбайливо заварюють не через паперовий, а через фланелевий фільтр.
+- FOCUS :: ネル
+
+* Sense s-2224440-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 91ca10f7a08fd94c488a7cd6e213bc9ff4e93857ea04e6f7fb4b516fa2028552
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2224440-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flanell (Abk.)
+** Ukrainian glosses
+
+* Sense s-2224440-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 27a49ff1f4d42dac03a43aa56ebb31366e69f0fc0019d91063e1d3c83b8abee4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2224440-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) フランネル
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2224440-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2224440-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ネル

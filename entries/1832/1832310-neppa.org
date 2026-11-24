@@ -1,0 +1,139 @@
+#+TITLE: 熱波
+#+JMDICT_ID: 1832310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねっぱ
+#+ROMAJI: neppa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1832310-001
+:PROPERTIES:
+:TEXT: 熱波
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1832310-001
+:PROPERTIES:
+:TEXT: ねっぱ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1832310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ebcfc8e232181c7cc14141981fea1ffcf9c9aa2ba623b8fabe20fec8401a6f55
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- heat wave
+** Ukrainian glosses
+*** uk-s-1832310-001-001
+:PROPERTIES:
+:END:
+- text :: хвиля спеки, сильна спека; гарячий потік повітря
+** Learner notes
+*** note-s-1832310-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 熱 («спека, жар») та 波 («хвиля»). Позначає як тривалий період аномально високих температур у метеорології (часто у фразах 熱波が襲う — «накрила хвиля спеки» або 熱波に見舞われる — «потерпати від хвилі спеки»), так і потік гарячого повітря від вогню, печі чи пустельного вітру.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1832310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今週は厳しい熱波が続いている。
+- READING :: こんしゅうはきびしいねっぱがつづいている。
+- UK :: Цього тижня триває нестерпна хвиля спеки.
+- FOCUS :: 熱波
+*** ex-1832310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ヨーロッパ各地が記録的な熱波に見舞われ、節電が呼びかけられている。
+- READING :: よーろっぱかくちがきろくてきなねっぱにみまわれ、せつでんがよびかけられている。
+- UK :: Різні регіони Європи накрила рекордна хвиля спеки, тож влада закликає до економії електроенергії.
+- FOCUS :: 熱波
+*** ex-1832310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 製鉄所の炉の扉が開くと、作業員の顔めがけて強烈な熱波が押し寄せた。
+- READING :: せいてつじょのろのとびらがひらくと、さぎょういんのかおめがけてきょうれつなねっぱがおしよせた。
+- UK :: Щойно відчинилися дверцята печі на сталеливарному заводі, в обличчя робітникам хлинув потужний потік розпеченого повітря.
+- FOCUS :: 熱波
+
+* Sense s-1832310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5c29438d38c7b2b8b9c08a65ccc494854ef4ef37cb136a00e5bffa5891a73cca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1832310-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hitzewelle
+** Ukrainian glosses
+
+* Sense s-1832310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e3bdb55c9da389d168aa8d95e20774d681e9350ce38c2a25e07486aa199a40b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1832310-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: горячая волна
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1832310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1832310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ねっぱ

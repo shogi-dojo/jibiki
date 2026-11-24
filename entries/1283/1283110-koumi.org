@@ -1,0 +1,202 @@
+#+TITLE: 香味
+#+JMDICT_ID: 1283110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうみ
+#+ROMAJI: koumi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1283110-001
+:PROPERTIES:
+:TEXT: 香味
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1283110-001
+:PROPERTIES:
+:TEXT: こうみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1283110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ceadc2dfcc203e3b6ac89097abd5a32a9a7fa6c5e27ddc231b98378dc3e67222
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- smell and taste
+- flavour
+- flavor
+** Ukrainian glosses
+*** uk-s-1283110-001-001
+:PROPERTIES:
+:END:
+- text :: аромат і смак; букет; приємний запах
+** Learner notes
+*** note-s-1283110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений зі знаків 香 (запах, аромат) та 味 (смак). Вживається в кулінарії та дегустації для опису поєднання пахощів і смаку страв чи напоїв, а також входить до слів на кшталт 香味野菜 (ароматні овочі й зелень).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1283110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このお茶は香味が高い。
+- READING :: このおちゃはこうみがたかい。
+- UK :: Цей чай має насичений аромат і смак.
+- FOCUS :: 香味
+*** ex-1283110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: スープに香味を加えるため、しょうがとにんにくを使った。
+- READING :: すーぷにこうみをくわえるため、しょうがとにんにくをつかった。
+- UK :: Щоб надати супу аромату й смаку, я використав імбир і часник.
+- FOCUS :: 香味
+*** ex-1283110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 焙煎したばかりのコーヒー豆は、豊かな香味を楽しむことができる。
+- READING :: ばいせんしたばかりのこーひーまめは、ゆたかなこうみをたのしむことができる。
+- UK :: Щойно обсмажені кавові зерна дають змогу насолодитися багатим букетом аромату й смаку.
+- FOCUS :: 香味
+
+* Sense s-1283110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a4556f19ee6e11c6ccc5aa697f81c71f34b0374b153bb315606655b54aca497
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aroma
+*** en-s-1283110-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Duft
+** Ukrainian glosses
+
+* Sense s-1283110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5623695a74d75c96fda62e31c80872f7a03b2e11ed09e7818d6d832677d370ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283110-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fűszer
+** Ukrainian glosses
+
+* Sense s-1283110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0c57f15b3e202c593a6fc4324011f63f178560739b61e9f2d65dfdbf00769fcc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283110-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: аромат, букет (вина); приятный запах и хороший вкус
+** Ukrainian glosses
+
+* Sense s-1283110-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e19f125528f73f16c2344f2f014546ab72fdb74fcf5046b6fd08d033caf1cb67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283110-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krydda
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1283110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1283110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうみ
+** Accent accent-rd-1283110-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1283110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうみ

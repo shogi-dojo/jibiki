@@ -1,0 +1,169 @@
+#+TITLE: 官僚主義
+#+JMDICT_ID: 1211880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんりょうしゅぎ
+#+ROMAJI: kanryoushugi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1211880-001
+:PROPERTIES:
+:TEXT: 官僚主義
+:END:
+** Reading rd-1211880-001
+:PROPERTIES:
+:TEXT: かんりょうしゅぎ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1211880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4a55599b0221b6da552aba9116fcd0cffbc9d60710cf6946ec0ff8045284aaa7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bureaucracy
+** Ukrainian glosses
+*** uk-s-1211880-001-001
+:PROPERTIES:
+:END:
+- text :: бюрократизм, бюрократія
+** Learner notes
+*** note-s-1211880-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням 官僚 («чиновник, бюрократ») і суфікса -主義 («принцип, система»). На відміну від 官僚制 («бюрократичний апарат» як інституція), зазвичай несе критичний відтінок надмірного формалізму, тяганини й жорсткої ієрархії (наприклад, 官僚主義に陥る — «погрузнути в бюрократизмі»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1211880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この会社には官僚主義が残っています。
+- READING :: このかいしゃにはかんりょうしゅぎがのこっています。
+- UK :: У цій компанії досі зберігся бюрократизм.
+- FOCUS :: 官僚主義
+*** ex-1211880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 手続きが遅すぎるのは、組織の官僚主義が原因だと言われている。
+- READING :: てつづきがおそすぎるのは、そしきのかんりょうしゅぎがげんいんだといわれている。
+- UK :: Кажуть, що надмірна повільність процедур спричинена бюрократизмом в організації.
+- FOCUS :: 官僚主義
+*** ex-1211880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新しい事業を迅速に進めるため、長年続いてきた官僚主義を改め、現場に権限を委譲する改革が始まった。
+- READING :: あたらしいじぎょうをじんそくにすすめるため、ながねんつづいてきたかんりょうしゅぎをあらため、げんばにけんげんをいじょうするかいかくがはじまった。
+- UK :: Щоб швидше просувати нові проєкти, розпочалася реформа для подолання багаторічного бюрократизму та передання повноважень на місця.
+- FOCUS :: 官僚主義
+
+* Sense s-1211880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 51167ff4fa15025cd097201413347886b360a30d442817a4771abc5017156f28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211880-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bureaucratie
+** Ukrainian glosses
+
+* Sense s-1211880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bcd063b69d07c198f7acea38fdf27e6b1c88e46f6ac66f9f0f3f134fcff38ece
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211880-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bürokratismus
+** Ukrainian glosses
+
+* Sense s-1211880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 79d4b8512421cefe882b61f8d7eb4b2a63d9967725324656978a94c8484cd67f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211880-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бюрократизм (как принцип)
+** Ukrainian glosses
+
+* Sense s-1211880-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d561e184d7c74afcfb96eb6eaa443d692ca1aff66d5721c01000680a539d1e88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211880-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: burocracia
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1211880-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1211880-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんりょうしゅぎ

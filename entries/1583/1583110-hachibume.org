@@ -1,0 +1,197 @@
+#+TITLE: 八分目
+#+JMDICT_ID: 1583110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はちぶめ
+#+ROMAJI: hachibume
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1583110-001
+:PROPERTIES:
+:TEXT: 八分目
+:END:
+** Written form wf-1583110-002
+:PROPERTIES:
+:TEXT: 八分め
+:END:
+*** Information
+- sK
+** Reading rd-1583110-001
+:PROPERTIES:
+:TEXT: はちぶめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1583110-002
+:PROPERTIES:
+:TEXT: はちぶんめ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1583110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5ef11fc32a579456564a2f8595a79a60f9323b0dc07d90b15116b0ea4273c0fe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- eight-tenths
+** Ukrainian glosses
+*** uk-s-1583110-001-001
+:PROPERTIES:
+:END:
+- text :: вісім десятих; неповне заповнення (близько вісімдесяти відсотків)
+** Learner notes
+*** note-s-1583110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає міру приблизно у вісімдесят відсотків від повної ємності (поряд із варіантом читання はちぶんめ). Найчастіше вживається у сталому виразі 腹八分目 — «наїдатися не до відвалу, залишатися трохи голодним».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1583110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 健康のために腹八分目を心がけている。
+- READING :: けんこうのためにはらはちぶめをこころがけている。
+- UK :: Заради здоров'я я намагаюся не переїдати і вставати з-за столу трохи голодним.
+- FOCUS :: 八分目
+*** ex-1583110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お湯は鍋の八分目まで入れてください。
+- READING :: おゆはなべのはちぶめまでいれてください。
+- UK :: Налийте, будь ласка, гарячої води приблизно на вісім десятих каструлі.
+- FOCUS :: 八分目
+*** ex-1583110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 「腹八分目に医者いらず」ということわざの通り、食べ過ぎを控えることが長寿の秘訣とされる。
+- READING :: 「はらはちぶめにいしゃいらず」ということわざのとおり、たべすぎをひかえることがちょうじゅのひけつとされる。
+- UK :: Як каже прислів'я «хто їсть не до відвалу, тому й лікар не потрібен», стриманість у їжі вважається запорукою довголіття.
+- FOCUS :: 八分目
+
+* Sense s-1583110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 55986d05ccb347456286c90da26c4283de42f61bf17ff1b20354773f89e604d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Achtelnote
+*** en-s-1583110-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Achtel
+** Ukrainian glosses
+
+* Sense s-1583110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 20073060a78f40bc2229e3ee935dd3af74930940f07df38f74e021b8f9f50c74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583110-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nicht ganz voll
+** Ukrainian glosses
+
+* Sense s-1583110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 849d88d8a10f7bca40628fefdeb1a471a3d783c469be4ed5f8ef7ee203baf95f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1583110-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) はちぶんめ
+*** en-s-1583110-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: восемь десятых; (перен.) неполный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1583110-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1583110-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 5
+:PATTERN: odaka
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はちぶんめ
+** Accent accent-rd-1583110-002-002
+:PROPERTIES:
+:TARGET_ID: rd-1583110-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はちぶんめ

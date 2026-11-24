@@ -1,0 +1,187 @@
+#+TITLE: のめる
+#+JMDICT_ID: 1010020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のめる
+#+ROMAJI: nomeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1010020-001
+:PROPERTIES:
+:TEXT: のめる
+:NO_KANJI: false
+:END:
+
+* Sense s-1010020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fddcf1d3ccda1a90c1462b5870adbc1c679ff13a607d00a29d7c440470253c18
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to fall forward (of a person)
+- to tumble forward
+** Ukrainian glosses
+*** uk-s-1010020-001-001
+:PROPERTIES:
+:END:
+- text :: падати вперед; падати ниць; хилитися вперед
+** Learner notes
+*** note-s-1010020-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне ґодан-дієслово на -る, що зазвичай записується каною. Означає різке падіння або похил людини обличчям чи корпусом уперед від спотикання, поштовху або втрати рівноваги (часто з уточненням 前に або 前のほうへ).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1010020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 石につまずいて前にのめる。
+- READING :: いしにつまずいてまえにのめる。
+- UK :: Спіткнутися об камінь і впасти вперед.
+- FOCUS :: のめる
+*** ex-1010020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電車が急に止まり、乗客たちが一斉に前のほうへのめった。
+- READING :: でんしゃがきゅうにとまり、じょうきゃくたちがいっせいにまえのほうへのめった。
+- UK :: Коли потяг різко зупинився, пасажири разом подалися вперед.
+- FOCUS :: のめった
+*** ex-1010020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 暗い夜道で段差に気づかず、彼女は荷物を抱えたまま地面にのめってしまった。
+- READING :: くらいよみちでだんさにきづかず、かのじょはにもつをかかえたままじめんにのめってしまった。
+- UK :: Не помітивши сходинки на темній нічній вулиці, вона впала ниць на землю, так і тримаючи речі в руках.
+- FOCUS :: のめって
+
+* Sense s-1010020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 885bde0c9fb8a7c60cde9cc89493f821cbeec0b95c9f3b2a9d705f3127e36d12
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1010020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vornüberfallen
+*** en-s-1010020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stolpern
+** Ukrainian glosses
+
+* Sense s-1010020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1bc249f026d431359b95dee5f7aa9133ec73ba13dfabe03fa77604b4ab2ce6a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1010020-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: beomlik
+*** en-s-1010020-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elbukik
+*** en-s-1010020-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lehull
+*** en-s-1010020-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vmilyen állapotba kerül
+** Ukrainian glosses
+
+* Sense s-1010020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3692614a526a2eb7db32646f9c3834030aada3831f2409a34031970ed1ea5dd1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1010020-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) падать ничком
+*** en-s-1010020-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) наклоняться вперёд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1010020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1010020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のめる

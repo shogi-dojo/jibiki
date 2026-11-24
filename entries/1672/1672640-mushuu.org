@@ -1,0 +1,184 @@
+#+TITLE: 無臭
+#+JMDICT_ID: 1672640
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むしゅう
+#+ROMAJI: mushuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1672640-001
+:PROPERTIES:
+:TEXT: 無臭
+:END:
+*** Priorities
+- news2
+- nf31
+** Reading rd-1672640-001
+:PROPERTIES:
+:TEXT: むしゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf31
+
+* Sense s-1672640-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 090c9f22ffd23284d1d2d86b2a4f207d32e77ab53026cef6893e307da688059f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- odorless
+- odourless
+- unscented
+** Ukrainian glosses
+*** uk-s-1672640-001-001
+:PROPERTIES:
+:END:
+- text :: без запаху; непахучий, без ароматизаторів
+** Learner notes
+*** note-s-1672640-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і означальне слово з часткою の (無臭の). Утворюється з заперечного префікса 無 (відсутність) та 臭 (запах). У науковому описі позначає речовини чи гази без запаху (наприклад, 無色無臭 — безбарвний і без запаху), а в побуті — товари без парфумерних віддушок.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1672640-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この洗剤は無臭だ。
+- READING :: このせんざいはむしゅうだ。
+- UK :: Цей мийний засіб не має запаху.
+- FOCUS :: 無臭
+*** ex-1672640-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二酸化炭素は無色無臭の気体である。
+- READING :: にさんかたんそはむしょくむしゅうのきたいである。
+- UK :: Вуглекислий газ — це безбарвний газ без запаху.
+- FOCUS :: 無臭
+*** ex-1672640-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 香りに敏感な人のために、無臭タイプの消臭剤や化粧品が幅広く販売されている。
+- READING :: かおりにびんかんなひとのために、むしゅうたいぷのしょうしゅうざいやけしょうひんがはばひろくはんばいされている。
+- UK :: Для людей, чутливих до ароматів, у продажу є широкий вибір дезодораторів та косметики без запаху.
+- FOCUS :: 無臭
+
+* Sense s-1672640-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b68b711574ea055d04d2ce48feab935da8b2573becdcedf3920771ec8f1dea89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1672640-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geruchlos
+*** en-s-1672640-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ohne Geruch
+*** en-s-1672640-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geruchlosigkeit
+** Ukrainian glosses
+
+* Sense s-1672640-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ffb6fc104d8a2057b5d82a58cf569c4a942f4ab89aa4a24dc47f76666c8feba1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1672640-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～の} без запаха, непахнущий
+** Ukrainian glosses
+
+* Sense s-1672640-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9d4f65c5ae9b3bc48fdcc82b30e6817f38615213ad09aff0ca2bb769f2b91f6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1672640-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sin olor
+*** en-s-1672640-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inodoro
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1672640-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1672640-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: むしゅう

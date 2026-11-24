@@ -1,0 +1,187 @@
+#+TITLE: 着古す
+#+JMDICT_ID: 1701060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きふるす
+#+ROMAJI: kifurusu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1701060-001
+:PROPERTIES:
+:TEXT: 着古す
+:END:
+** Reading rd-1701060-001
+:PROPERTIES:
+:TEXT: きふるす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1701060-002
+:PROPERTIES:
+:TEXT: きぶるす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1701060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5d605b49b7394feeb7e8a9c3e6fc7aa166387c4c9b0a607051f0077f261f77f9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+*** Cross-references
+- 着古し
+** English glosses
+- to wear out (clothing)
+** Ukrainian glosses
+*** uk-s-1701060-001-001
+:PROPERTIES:
+:END:
+- text :: зношувати; заношувати (одяг)
+** Learner notes
+*** note-s-1701060-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятиступеневої дієвідміни на -す (ґодан). Складається з кореня дієслова 着る (носити одяг) і компонента 古す (робити старим); часто вживається у пасивному або означувальному звороті 着古した щодо улюбленої, але вже поношеної речі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1701060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄はよくジーンズを着古す。
+- READING :: あにはよくじーんずをきふるす。
+- UK :: Старший брат часто заношує джинси.
+- FOCUS :: 着古す
+*** ex-1701060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 着古したセーターは肌になじんで、家の中で着るのにちょうどいい。
+- READING :: きふるしたせーたーははだになじんで、いえのなかできるのにちょうどいい。
+- UK :: Заношений светр приємно прилягає до тіла і якраз підходить для носіння вдома.
+- FOCUS :: 着古した
+*** ex-1701060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何年も着古して色あせたジャケットにも、彼にとっては手放せない思い出が詰まっている。
+- READING :: なんねんもきふるしていろあせたじゃけっとにも、かれにとってはてばなせないおもいでがつまっている。
+- UK :: Навіть у вицвілій за багато років носіння куртці для нього зберігаються спогади, з якими неможливо розлучитися.
+- FOCUS :: 着古して
+
+* Sense s-1701060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 759fc1c408b60c4f8b81e69dc99f389cc70eb20498c80c0cab8f07c76a0360f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701060-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afdragen
+*** en-s-1701060-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verslijten
+** Ukrainian glosses
+
+* Sense s-1701060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4794a8786da9a9d95c440ce96aa70134b7fc61d72cc2849eba2f698d47273f77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701060-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abtragen
+** Ukrainian glosses
+
+* Sense s-1701060-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9105515c844d4e9e67eb5a7d56383888dffb71f1948693d0f6001e8f78d4b5ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701060-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elhasználódik
+** Ukrainian glosses
+
+* Sense s-1701060-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 58aa4e8efcb93fb8e827a0b5fae7968f31a608da79113321de960e21ddea48e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1701060-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: изнашивать (одежду)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1701060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1701060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きふるす

@@ -1,0 +1,149 @@
+#+TITLE: 通用門
+#+JMDICT_ID: 1652540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つうようもん
+#+ROMAJI: tsuuyoumon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1652540-001
+:PROPERTIES:
+:TEXT: 通用門
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1652540-001
+:PROPERTIES:
+:TEXT: つうようもん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1652540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d1c43d736d7788e639fdef356919155c6607756350342f96b83cd31248cee170
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- side gate
+- side door
+- service entrance
+** Ukrainian glosses
+*** uk-s-1652540-001-001
+:PROPERTIES:
+:END:
+- text :: бічна брама; службовий вхід
+** Learner notes
+*** note-s-1652540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 通用 («повсякденне користування, прохід») та 門 («ворота, брама»). Позначає невеликі бічні ворота чи двері на території установи, школи, фабрики або храму, якими щодня користуються працівники, учні чи постачальники на відміну від парадного входу（正門）.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1652540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 社員は通用門から入ります。
+- READING :: しゃいんはつうようもんからはいります。
+- UK :: Працівники заходять через службовий вхід.
+- FOCUS :: 通用門
+*** ex-1652540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 放課後は正門が閉まるため、生徒は通用門を使って下校する。
+- READING :: ほうかごはせいもんがしまるため、せいとはつうようもんをつかってげこうする。
+- UK :: Оскільки після занять головні ворота зачиняються, учні повертаються додому через бічну хвіртку.
+- FOCUS :: 通用門
+*** ex-1652540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夜間の防犯対策として、病院の通用門には職員証をかざして解錠する装置が設置された。
+- READING :: やかんのぼうはんたいさくとして、びょういんのつうようもんにはしょくいんしょうをかざしてかいじょうするそうちがせっちされた。
+- UK :: Для безпеки в нічний час на службовому вході лікарні встановили пристрій, який відмикає двері прикладанням посвідчення працівника.
+- FOCUS :: 通用門
+
+* Sense s-1652540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bf2a24a4893472f3e17c2e93107c733bbefba23a098d65fe3529598fd78b3b4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1652540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Seitenpforte
+*** en-s-1652540-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebeneingang
+** Ukrainian glosses
+
+* Sense s-1652540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bf515c6ac7447dde88c71baf52ffd0f922eb7f7e19bcce673db0be3009210e94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1652540-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: боковые ворота, боковая дверь; служебный вход
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1652540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1652540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: つうようもん

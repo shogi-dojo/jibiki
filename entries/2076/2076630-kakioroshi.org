@@ -1,0 +1,155 @@
+#+TITLE: 書き下ろし
+#+JMDICT_ID: 2076630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かきおろし
+#+ROMAJI: kakioroshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2076630-001
+:PROPERTIES:
+:TEXT: 書き下ろし
+:END:
+** Written form wf-2076630-002
+:PROPERTIES:
+:TEXT: 書下ろし
+:END:
+** Written form wf-2076630-003
+:PROPERTIES:
+:TEXT: 書きおろし
+:END:
+*** Information
+- sK
+** Reading rd-2076630-001
+:PROPERTIES:
+:TEXT: かきおろし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2076630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c6c48c98895a36da565bd316b9455e795ec444a5f3dd5d86c4a05b9a04478af1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- original (written) work (i.e. a new novel, play, music, etc.)
+- newly written work
+- specially written work
+- writing (a new work) specially (for a publication, film, exhibition, etc.)
+** Ukrainian glosses
+*** uk-s-2076630-001-001
+:PROPERTIES:
+:END:
+- text :: новий оригінальний твір; твір, написаний спеціально на замовлення
+** Learner notes
+*** note-s-2076630-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і означальний модифікатор із часткою の (書き下ろしの小説 — «новий спеціально написаний роман»), утворений від дієслова 書き下ろす. Позначає роман, п'єсу, сценарій чи музичний твір, створені вперше без попередньої публікації в журналах або спеціально для певного проєкту.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2076630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 好きな作家の書き下ろしを買いました。
+- READING :: すきなさっかのかきおろしをかいました。
+- UK :: Я купив новий, спеціально виданий твір улюбленого письменника.
+- FOCUS :: 書き下ろし
+*** ex-2076630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 来月、その小説家による書き下ろしの長編が出版される予定です。
+- READING :: らいげつ、そのしょうせつかによるかきおろしのちょうへんがしゅっぱんされるよていです。
+- UK :: Наступного місяця планують видати новий великий роман цього письменника, написаний одразу окремою книжкою.
+- FOCUS :: 書き下ろし
+*** ex-2076630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この舞台は人気劇作家の完全書き下ろしで、初日から満席が続いている。
+- READING :: このぶたいはにんきげきさっかのかんぜんかきおろしで、しょにちからまんせきがつづいている。
+- UK :: Ця вистава — цілковито нова оригінальна п'єса популярного драматурга, і з першого дня в залі триває аншлаг.
+- FOCUS :: 書き下ろし
+
+* Sense s-2076630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4f10f374683f26de7b0d77384bbdc19a58b533ce6cb7c917a0ca5387acd69b50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2076630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neugeschriebenes Stück
+*** en-s-2076630-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: neugeschriebener Roman
+** Ukrainian glosses
+
+* Sense s-2076630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5f78bde769b4aaa00ea83eda809efc722c287036cf1377240f6ef14c8d8bad3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2076630-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: новая пьеса (повесть (и т. п.)), новинка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2076630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2076630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かきおろし

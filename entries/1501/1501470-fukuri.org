@@ -1,0 +1,196 @@
+#+TITLE: 複利
+#+JMDICT_ID: 1501470
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふくり
+#+ROMAJI: fukuri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1501470-001
+:PROPERTIES:
+:TEXT: 複利
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1501470-001
+:PROPERTIES:
+:TEXT: ふくり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1501470-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 80979cc55715d2c410a1fe9d9eaeb62c0ca2fa85bd6c50376c9e7978cc9aeb8c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- finc
+*** Cross-references
+- 単利
+** English glosses
+- compound interest
+** Ukrainian glosses
+*** uk-s-1501470-001-001
+:PROPERTIES:
+:END:
+- text :: складні відсотки
+** Learner notes
+*** note-s-1501470-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансовий термін на позначення нарахування відсотків не лише на початкову суму, а й на вже накопичені раніше відсотки (протилежність — 単利 «прості відсотки»). Часто вживається в поєднаннях 複利計算 («розрахунок складних відсотків») та 複利運用 («інвестування з капіталізацією відсотків»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1501470-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この預金は複利で増えます。
+- READING :: このよきんはふくりでふえます。
+- UK :: Цей депозит зростає завдяки складним відсоткам.
+- FOCUS :: 複利
+*** ex-1501470-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 銀行の窓口で、単利と複利の違いについて説明を受けた。
+- READING :: ぎんこうのまどぐちで、たんりとふくりのちがいについてせつめいをうけた。
+- UK :: У віконці банку мені пояснили різницю між простими та складними відсотками.
+- FOCUS :: 複利
+*** ex-1501470-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長期的な資産形成においては、得られた利益を再投資することで複利の効果を最大限に活かすことができる。
+- READING :: ちょうきてきなしさんけいせいにおいては、えられたりえきをさいとうしすることでふくりのこうかをさいだいげんにいかすことができる。
+- UK :: У довгостроковому формуванні капіталу можна максимально використати ефект складних відсотків, реінвестуючи отриманий прибуток.
+- FOCUS :: 複利
+
+* Sense s-1501470-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f0d092cb96fe1b4151e1d0a8ffe838d8f75a6f145001d0c18f66f71d4464928f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1501470-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zinseszins
+** Ukrainian glosses
+
+* Sense s-1501470-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 621a8ec26a1ed58eb0fcc82f31892bc5ab2f8e7e3a5468081b3a450fb1854e69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1501470-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kamatos kamat
+** Ukrainian glosses
+
+* Sense s-1501470-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fa0fb533143eca45d476d19dc26ca8f3fe8097dc0fd30ea76eec0c45d4b71db1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1501470-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сложные проценты
+** Ukrainian glosses
+
+* Sense s-1501470-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0de0ba654f4c9c2b3b4bd01c7bc3a5bfad85614e33b4055177d919c2d298240f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1501470-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: interés compuesto
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1501470-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1501470-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふくり
+** Accent accent-rd-1501470-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1501470-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふくり

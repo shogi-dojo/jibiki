@@ -1,0 +1,157 @@
+#+TITLE: 砂礫
+#+JMDICT_ID: 1291680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: されき
+#+ROMAJI: sareki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1291680-001
+:PROPERTIES:
+:TEXT: 砂礫
+:END:
+** Reading rd-1291680-001
+:PROPERTIES:
+:TEXT: されき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1291680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bc42f4a5d5c1f29569629499a77761216f62c93b574b5dd94be9c0d92192ad69
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pebbles
+** Ukrainian glosses
+*** uk-s-1291680-001-001
+:PROPERTIES:
+:END:
+- text :: галька; гравій; жорства, дрібне каміння
+** Learner notes
+*** note-s-1291680-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного й геологічного регістру, що поєднує 砂 (пісок) та 礫 (дрібне каміння, щебінь). Описує суміш грубого піску, гальки й щебеню на берегах річок, у горах чи на пустельних рівнинах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1291680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川原は砂礫で覆われている。
+- READING :: かわらはされきでおおわれている。
+- UK :: Річковий берег вкритий галькою та піском.
+- FOCUS :: 砂礫
+*** ex-1291680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 急な斜面では足元の砂礫が滑りやすく、登山の際は注意が必要だ。
+- READING :: きゅうなしゃめんではあしもとのされきがすべりやすく、とざんのさいはちゅういがひつようだ。
+- UK :: На крутому схилі дрібне каміння під ногами легко осипається, тож під час сходження треба бути обережним.
+- FOCUS :: 砂礫
+*** ex-1291680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 上流から運ばれた砂礫が河口付近に長い年月をかけて堆積し、広大な扇状地が形成された。
+- READING :: じょうりゅうからはこばれたされきがかこうふきんにながいねんげつをかけてたいせきし、こうだいなせんじょうちがけいせいされた。
+- UK :: Гравій і пісок, принесені течією з верхів'їв, упродовж довгих століть накопичувалися поблизу гирла, утворивши широкий конус виносу.
+- FOCUS :: 砂礫
+
+* Sense s-1291680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 50c4a7467f13121d99ae701ccec2aec4c4bccd5b673b1932f4e3c9000acd0308
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kies
+*** en-s-1291680-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sand und Kleingestein
+*** en-s-1291680-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grieß
+*** en-s-1291680-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schutt
+** Ukrainian glosses
+
+* Sense s-1291680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 332a5efc49b8656c5490f8639c2515d633a8b3c7d5126cc0339ed4b225f3454f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1291680-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: гравий, щебень
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1291680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1291680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: されき

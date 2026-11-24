@@ -1,0 +1,139 @@
+#+TITLE: 墓前
+#+JMDICT_ID: 1670680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぼぜん
+#+ROMAJI: bozen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1670680-001
+:PROPERTIES:
+:TEXT: 墓前
+:END:
+*** Priorities
+- news2
+- nf29
+** Reading rd-1670680-001
+:PROPERTIES:
+:TEXT: ぼぜん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf29
+
+* Sense s-1670680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 67016ba356c187efb7d19d23a8b680bf854a531e679ca5a958e8bab1d59bfa25
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- in front of a grave
+** Ukrainian glosses
+*** uk-s-1670680-001-001
+:PROPERTIES:
+:END:
+- text :: місце перед могилою; біля могили
+** Learner notes
+*** note-s-1670680-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що вказує на простір перед могилою або надгробком (утворене з 墓 — «могила» і 前 — «перед»). Зазвичай вживається з просторовою часткою に або へ (墓前に花を手向ける — «покласти квіти на могилу»; 墓前に報告する — «повідомити перед могилою померлого»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1670680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家族で墓前に花を供えました。
+- READING :: かぞくでぼぜんにはなをそなえました。
+- UK :: Разом із родиною ми поклали квіти перед могилою.
+- FOCUS :: 墓前
+*** ex-1670680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 命日に、みんなでおじいさんの墓前に集まりました。
+- READING :: めいにちに、みんなでおじいさんのぼぜんにあつまりました。
+- UK :: У роковини смерті всі зібралися біля дідусевої могили.
+- FOCUS :: 墓前
+*** ex-1670680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大会での優勝を果たした選手は、恩師の墓前にメダルを捧げて感謝を伝えた。
+- READING :: たいかいでのゆうしょうをはたしたせんしゅは、おんしのぼぜんにめだるをささげてかんしゃをつたえた。
+- UK :: Спортсмен, який здобув перемогу на турнірі, поклав медаль перед могилою свого наставника та висловив вдячність.
+- FOCUS :: 墓前
+
+* Sense s-1670680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2db7d1c129d252db068e27d5cf6692a0f13e7faaafdb34cbd3efa751816441df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670680-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (Bereich) vor dem Grab
+** Ukrainian glosses
+
+* Sense s-1670680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e9be717d7a22cdbde2e6055151da34d4d76d242ed6feda5d4c31f7f599370333
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670680-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～に} у могилы, перед могилой
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1670680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1670680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぼぜん

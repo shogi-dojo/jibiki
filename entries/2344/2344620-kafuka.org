@@ -1,0 +1,193 @@
+#+TITLE: 過負荷
+#+JMDICT_ID: 2344620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かふか
+#+ROMAJI: kafuka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2344620-001
+:PROPERTIES:
+:TEXT: 過負荷
+:END:
+** Reading rd-2344620-001
+:PROPERTIES:
+:TEXT: かふか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2344620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 83e8dc1aa62a2292a1237dc597cffacd2aa408668c337c5409db76a5dcc7611e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- overload
+** Ukrainian glosses
+*** uk-s-2344620-001-001
+:PROPERTIES:
+:END:
+- text :: перевантаження; надмірне навантаження
+** Learner notes
+*** note-s-2344620-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний іменник, утворений із префікса 過 (надмірний) та 負荷 (навантаження). Позначає перевищення допустимого навантаження на електромережу, двигун, сервери (системне перевантаження) або на організм під час тренувань.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2344620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: サーバーに過負荷がかかっている。
+- READING :: さーばーにかふかがかかっている。
+- UK :: Сервер зазнає перевантаження.
+- FOCUS :: 過負荷
+*** ex-2344620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電気製品を同時に使いすぎると、回路に過負荷が生じてブレーカーが落ちる。
+- READING :: でんきせいひんをどうじにつかいすぎると、かいろにかふかがしょうじてぶれーかーがおちる。
+- UK :: Якщо ввімкнути забагато електроприладів одночасно, у мережі виникає перевантаження й вибиває автомат.
+- FOCUS :: 過負荷
+*** ex-2344620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 急激なアクセス集中によるシステムへの過負荷を防ぐため、あらかじめ通信容量を増強しておいた。
+- READING :: きゅうげきなあくせすしゅうちゅうによるしすてむへのかふかをふせぐため、あらかじめつうしんようりょうをぞうきょうしておいた。
+- UK :: Щоб запобігти перевантаженню системи через різкий наплив запитів, пропускну здатність заздалегідь збільшили.
+- FOCUS :: 過負荷
+
+* Sense s-2344620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 615ba45cabcd606e7d44d6ecea708b17b94651b7b4b18e8fd516fec7335a8500
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2344620-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overbelasting
+*** en-s-2344620-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overlading
+*** en-s-2344620-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: overload
+** Ukrainian glosses
+
+* Sense s-2344620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 705cbd64537439c432d01a184cc707867ff1700e3c4fd5ab115fd6feb6ca2095
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2344620-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überlastung
+*** en-s-2344620-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überlast
+** Ukrainian glosses
+
+* Sense s-2344620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ffa81f563a29fde602e30bb622dec6ffb758da8df255a1081d83fc0c59ed87fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2344620-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: túlterhelés
+** Ukrainian glosses
+
+* Sense s-2344620-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4defca966ab710d4e5e17c53f95a085632c3983706bd5dc72d13699de7db8c4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2344620-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) перегрузка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2344620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2344620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かふか

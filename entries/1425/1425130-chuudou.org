@@ -1,0 +1,133 @@
+#+TITLE: 中堂
+#+JMDICT_ID: 1425130
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうどう
+#+ROMAJI: chuudou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1425130-001
+:PROPERTIES:
+:TEXT: 中堂
+:END:
+** Reading rd-1425130-001
+:PROPERTIES:
+:TEXT: ちゅうどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1425130-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f93bc9ceda01627f7b74e0ea8c7b316c28dc6fecf077692f17a4a43befc50eff
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- main temple building
+** Ukrainian glosses
+*** uk-s-1425130-001-001
+:PROPERTIES:
+:END:
+- text :: головна будівля храму; центральна зала храму
+** Learner notes
+*** note-s-1425130-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійський архітектурний іменник із 中 («середина») та 堂 («зала, павільйон»). Позначає центральний корпус храмового комплексу, де зазвичай розміщують головну святиню, наприклад 根本中堂 у храмах школи 天台宗.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1425130-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い寺の中堂を見学した。
+- READING :: ふるいてらのちゅうどうをけんがくした。
+- UK :: Я оглянув головну будівлю старого храму.
+- FOCUS :: 中堂
+*** ex-1425130-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早く中堂の前で手を合わせた。
+- READING :: あさはやくちゅうどうのまえでてをあわせた。
+- UK :: Рано-вранці я склав долоні в молитві перед центральною залою храму.
+- FOCUS :: 中堂
+*** ex-1425130-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 石段を上りきると、木立の奥に重厚な屋根を持つ中堂が姿を現した。
+- READING :: いしだんをのぼりきると、こだちのおくにじゅうこうなやねをもつちゅうどうがすがたをあらわした。
+- UK :: Коли ми подолали кам'яні сходи, у глибині гаю показалася головна храмова будівля з масивним дахом.
+- FOCUS :: 中堂
+
+* Sense s-1425130-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 88ea673a00ef3b3ad2eb77da4e8edf2b3bfc2b64f22ca5d452037457a8cfdf2c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1425130-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hauptgebäude eines Tempels
+** Ukrainian glosses
+
+* Sense s-1425130-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 594b6f78107335c254906cec37f3aafac33752ff9a5e5d4ae4582e977965a3d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1425130-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: главное здание храма
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1425130-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1425130-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゅうどう

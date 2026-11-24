@@ -1,0 +1,244 @@
+#+TITLE: カ氏
+#+JMDICT_ID: 2039850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: カし
+#+ROMAJI: kashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2039850-001
+:PROPERTIES:
+:TEXT: カ氏
+:END:
+** Written form wf-2039850-002
+:PROPERTIES:
+:TEXT: 華氏
+:END:
+** Reading rd-2039850-001
+:PROPERTIES:
+:TEXT: カし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- カ氏
+** Reading rd-2039850-002
+:PROPERTIES:
+:TEXT: かし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 華氏
+
+* Sense s-2039850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2193201fc2d8788e79042495f92194b743d199a0824a2e3f13d301a6999fe969
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- カ氏温度
+- セ氏
+** English glosses
+- Fahrenheit
+** Ukrainian glosses
+*** uk-s-2039850-001-001
+:PROPERTIES:
+:END:
+- text :: шкала Фаренгейта; градус Фаренгейта
+** Learner notes
+*** note-s-2039850-001-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий або рідковживаний варіант запису слова 華氏 (かし), де перший ієрогліф 華 (запозичений із китайської фонетичної передачі прізвища Фаренгейта) замінено катаканою カ. Зазвичай уживається перед значенням температури, наприклад カ氏八十度 («вісімдесят градусів за Фаренгейтом»), або в поєднанні カ氏温度 («температура за шкалою Фаренгейта»); у сучасних текстах частіше трапляється написання 華氏 або ファーレンハイト.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2039850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: アメリカでは温度をカ氏で表します。
+- READING :: あめりかではおんどをかしであらわします。
+- UK :: У США температуру позначають за шкалою Фаренгейта.
+- FOCUS :: カ氏
+*** ex-2039850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い海外の料理本には、オーブンの温度がカ氏で書かれていることがある。
+- READING :: ふるいかいがいのりょうりぼんには、おーぶんのおんどがかしでかかれていることがある。
+- UK :: У старих закордонних кулінарних книжках температура духовки іноді вказана за Фаренгейтом.
+- FOCUS :: カ氏
+*** ex-2039850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦前の新聞記事を読むと、真夏の気温がカ氏九十度を超える日があったと記されている。
+- READING :: せんぜんのしんぶんきじをよむと、まなつのきおんがかしくじゅうどをこえるひがあったとしるされている。
+- UK :: У довоєнних газетних статтях трапляються згадки про дні, коли літня температура перевищувала дев’яносто градусів за Фаренгейтом.
+- FOCUS :: カ氏
+
+* Sense s-2039850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 51229475cc9facc233f22a7ccd9790cc35f08a074f08f5a13a8cb2ca58f224a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039850-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {nat.} Fahrenheit
+*** en-s-2039850-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {afk.} F
+** Ukrainian glosses
+
+* Sense s-2039850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3460968ef3620f83e4a6328b14878937646483306c2a2cf0fef5ab81c5d7b74d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039850-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrenheit (eine Temperaturmaßeinheit; Zeichen: F; 32° F = 0° C; 112° F = 100° C; benannt nach dem dtsch. Physiker G. D. Fahrenheit, 1686-1736)
+** Ukrainian glosses
+
+* Sense s-2039850-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: effa3935cabf23157b0b0a58e3e488820a2549decccec0a09dccebceec6d0c5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039850-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) 華氏
+*** en-s-2039850-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:)
+** Ukrainian glosses
+
+* Sense s-2039850-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0f55f2ff4e2c8d3a39c260f2f87c7e81560c59889680a4607bab4c93d4d240e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039850-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrenheit
+*** en-s-2039850-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fahrenheit (unidad para medir la temperatura)
+** Ukrainian glosses
+
+* Sense s-2039850-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 679ebbc109396125d686f38b5e5d7cf105fe3ffd085a5dbffb83a6f4b5102ba9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2039850-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fahrenheit
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2039850-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2039850-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: カし
+** Accent accent-rd-2039850-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2039850-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かし

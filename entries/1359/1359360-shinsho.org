@@ -1,0 +1,186 @@
+#+TITLE: 信書
+#+JMDICT_ID: 1359360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんしょ
+#+ROMAJI: shinsho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1359360-001
+:PROPERTIES:
+:TEXT: 信書
+:END:
+** Reading rd-1359360-001
+:PROPERTIES:
+:TEXT: しんしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1359360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: de8e6ef96caaa05b1771697ae18a5a4e7dd92020cfb98969640e25fda8d95102
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- letter
+- personal correspondence
+** Ukrainian glosses
+*** uk-s-1359360-001-001
+:PROPERTIES:
+:END:
+- text :: лист; особисте послання; кореспонденція
+** Learner notes
+*** note-s-1359360-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний та офіційно-діловий іменник, утворений із 信 (довіра, звістка) і 書 (письмо, документ). У японському законодавстві про поштовий зв’язок (郵便法) позначає конфіденційні листи чи документи, адресовані конкретній особі, пересилання яких суворо регламентується.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1359360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この封筒の中は大切な信書です。
+- READING :: このふうとうのなかはたいせつなしんしょです。
+- UK :: У цьому конверті лежить важливий лист.
+- FOCUS :: 信書
+*** ex-1359360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 法律上、信書は通常の宅配便では送れないことになっている。
+- READING :: ほうりつじょう、しんしょはつうじょうのたくはいびんではおくれないことになっている。
+- UK :: За законом особисту кореспонденцію заборонено пересилати звичайною кур’єрською службою.
+- FOCUS :: 信書
+*** ex-1359360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 荷物を発送する際には、同封する書類が信書に該当するかどうかを事前に確認する必要がある。
+- READING :: にもつをはっそうするさいには、どうふうするしょるいがしんしょにがいとうするかどうかをじぜんにかくにんするひつようがある。
+- UK :: Під час відправлення посилки необхідно заздалегідь перевірити, чи не належать вкладені документи до категорії особистої кореспонденції.
+- FOCUS :: 信書
+
+* Sense s-1359360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6b39fe2bc46c3b1fa05bf8ff72226306b7f522cf73174885f2b26ea608784433
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1359360-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: brief
+*** en-s-1359360-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: correspondentie
+** Ukrainian glosses
+
+* Sense s-1359360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 82d408537ae2d56173f633883f97d8a367fe3736d5255c7c367efd1ec7c6a1ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1359360-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brief
+*** en-s-1359360-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schreiben
+** Ukrainian glosses
+
+* Sense s-1359360-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6a473c20c682fb6151bcaeb9222179c3ed5dd80ece01cc7241c48976efc21846
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1359360-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: levél
+** Ukrainian glosses
+
+* Sense s-1359360-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8029591ceb587a576a3da33f89f452065cc0df602e7def90b2f25a5346ddeb99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1359360-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) письмо; переписка; корреспонденция
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1359360-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1359360-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しんしょ

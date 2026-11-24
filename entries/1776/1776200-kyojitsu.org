@@ -1,0 +1,205 @@
+#+TITLE: 虚実
+#+JMDICT_ID: 1776200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょじつ
+#+ROMAJI: kyojitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1776200-001
+:PROPERTIES:
+:TEXT: 虚実
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1776200-001
+:PROPERTIES:
+:TEXT: きょじつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1776200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b646af0529115d5922f6ab0938784acb4ffab2254650e063f85f4bf099fbee02
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- falsehood and truth
+- fiction and fact
+** Ukrainian glosses
+*** uk-s-1776200-001-001
+:PROPERTIES:
+:END:
+- text :: вигадка і правда; неправда й істина; достовірність
+** Learner notes
+*** note-s-1776200-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений із двох антонімів: 虚 (порожнеча, вигадка, обман) і 実 (правда, реальність). Означає переплетення правди й вимислу або ступінь достовірності відомостей (наприклад, 虚実を確かめる — перевірити правдивість).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1776200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: そのうわさの虚実を調べました。
+- READING :: そのうわさのきょじつをしらべました。
+- UK :: Я перевірив, що в тих чутках правда, а що вигадка.
+- FOCUS :: 虚実
+*** ex-1776200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古い伝記には、歴史上の虚実が織り交ぜられていることが多い。
+- READING :: ふるいでんきには、れきしじょうのきょじつがおりまぜられていることがおおい。
+- UK :: У давніх життєписах історична правда нерідко переплітається з вигадкою.
+- FOCUS :: 虚実
+*** ex-1776200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 情報が瞬時に拡散する現代では、発信された内容の虚実を見極める力が欠かせない。
+- READING :: じょうほうがしゅんじにかくさんするげんだいでは、はっしんされたないようのきょじつをみきわめるちからがかかせない。
+- UK :: У сучасну добу миттєвого поширення інформації вміння розрізняти правду й вигадку в повідомленнях є життєво необхідним.
+- FOCUS :: 虚実
+
+* Sense s-1776200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ff62882894c179db82e8b263f0dbdcd13442860b266d8d9ccd456febf8c4eaa7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1776200-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sein und Schein
+*** en-s-1776200-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sein und Nichtsein
+*** en-s-1776200-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahrheit und Falschheit
+*** en-s-1776200-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahrheit
+** Ukrainian glosses
+
+* Sense s-1776200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e4b73e988bd2665016ec53a63d99aa7137fcb07b79e886f3a856e7cce42f9a1f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1776200-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) истинность [или ложность]
+*** en-s-1776200-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) правда и ложь
+*** en-s-1776200-003-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 3) действительность и вымысел
+*** en-s-1776200-003-004
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 4) слабые и сильные стороны; уязвимые и неуязвимые пункты
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1776200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1776200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きょじつ
+** Accent accent-rd-1776200-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1776200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きょじつ

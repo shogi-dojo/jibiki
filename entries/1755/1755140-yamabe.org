@@ -1,0 +1,189 @@
+#+TITLE: 山辺
+#+JMDICT_ID: 1755140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やまべ
+#+ROMAJI: yamabe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1755140-001
+:PROPERTIES:
+:TEXT: 山辺
+:END:
+** Written form wf-1755140-002
+:PROPERTIES:
+:TEXT: 山べ
+:END:
+** Reading rd-1755140-001
+:PROPERTIES:
+:TEXT: やまべ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1755140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a72b5cb267a5e326501945f6ca8e434d970b792fbe6363c5fa04d07848f7be2a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mountain
+- vicinity of a mountain
+** Ukrainian glosses
+*** uk-s-1755140-001-001
+:PROPERTIES:
+:END:
+- text :: гірська околиця; підніжжя гори; гориста місцевість
+** Learner notes
+*** note-s-1755140-001-001
+:PROPERTIES:
+:END:
+- UK :: Поетичний і дещо книжний іменник, утворений із 山 («гора») і 辺 («край, околиця»). Позначає місцевість біля гори або самі гірські схили (за будовою подібне до 海辺 — «морське узбережжя»); часто трапляється в класичній поезії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1755140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 静かな山辺の村に住んでいます。
+- READING :: しずかなやまべのむらにすんでいます。
+- UK :: Я живу в тихому селі біля гір.
+- FOCUS :: 山辺
+*** ex-1755140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋になると、山辺の木々が赤や黄色に美しく色づく。
+- READING :: あきになると、やまべのきぎがあかやきいろにうつくしくいろづく。
+- UK :: Коли настає осінь, дерева в гірській околиці красиво забарвлюються в червоний і жовтий кольори.
+- FOCUS :: 山辺
+*** ex-1755140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い和歌には、春の霞に包まれた山辺の風景を詠んだ作品が数多く残っている。
+- READING :: ふるいわかには、はるのかすみにつつまれたやまべのふうけいをよんださくひんがかずおおくのこっている。
+- UK :: У стародавній поезії вака збереглося чимало віршів, що оспівують гірські схили, оповиті весняним серпанком.
+- FOCUS :: 山辺
+
+* Sense s-1755140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 71916fe806b9a92d235afa11b1544620b313b4623b0a7cf4c5124cb469c9d027
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berggebiet
+*** en-s-1755140-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Umgebung eines Berges
+** Ukrainian glosses
+
+* Sense s-1755140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: deccbe28a2a307cf79f58d49b47a43e04bf61cafcffbfae47f6ad441c5e83b70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755140-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hegy
+*** en-s-1755140-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagy tömeg
+** Ukrainian glosses
+
+* Sense s-1755140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b66153d811a16dfeaf2836132ce4a69621f6506bc79bc590c323651a4bc9b58d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1755140-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: горная местность; окрестности горы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1755140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1755140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: やまべ
+** Accent accent-rd-1755140-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1755140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: やまべ

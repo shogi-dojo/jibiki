@@ -1,0 +1,168 @@
+#+TITLE: 目深
+#+JMDICT_ID: 1363990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まぶか
+#+ROMAJI: mabuka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1363990-001
+:PROPERTIES:
+:TEXT: 目深
+:END:
+** Written form wf-1363990-002
+:PROPERTIES:
+:TEXT: 眼深
+:END:
+** Written form wf-1363990-003
+:PROPERTIES:
+:TEXT: 真深
+:END:
+*** Information
+- iK
+** Reading rd-1363990-001
+:PROPERTIES:
+:TEXT: まぶか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1363990-002
+:PROPERTIES:
+:TEXT: めぶか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 目深
+- 眼深
+
+* Sense s-1363990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c68cad52869b1cd0845a25b092d6cff7ed3db53ae057a916fe28a56fe1f4c747
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+** English glosses
+- (wearing) low over one's eyes
+** Ukrainian glosses
+*** uk-s-1363990-001-001
+:PROPERTIES:
+:END:
+- text :: глибоко насунутий на очі (про капелюх, каптур)
+** Learner notes
+*** note-s-1363990-001-001
+:PROPERTIES:
+:END:
+- UK :: На-прикметник (також має запис 眼深 і рідкісне читання めぶか), що майже завжди вживається у прислівниковій формі 目深に разом із дієсловом かぶる (надягати головний убір). Стійкий зворот 帽子を目深にかぶる означає «насунути капелюх глибоко на очі».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1363990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 帽子を目深にかぶる。
+- READING :: ぼうしをまぶかにかぶる。
+- UK :: Насунути капелюх глибоко на очі.
+- FOCUS :: 目深
+*** ex-1363990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 強い日差しを避けるため、つばの広い帽子を目深にかぶった。
+- READING :: つよいひざしをさけるため、つばのひろいぼうしをまぶかにかぶった。
+- UK :: Щоб сховатися від яскравого сонця, я глибоко насунув на очі капелюх із широкими крисами.
+- FOCUS :: 目深
+*** ex-1363990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その人物は周囲に顔を見られないよう、フードを目深にかぶって足早に立ち去った。
+- READING :: そのじんぶつはしゅういにかおをみられないよう、ふーどをまぶかにかぶってあしばやにたちさった。
+- UK :: Щоб ніхто довкола не побачив обличчя, та людина глибоко насунула каптур на очі й квапливо пішла геть.
+- FOCUS :: 目深
+
+* Sense s-1363990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 93abfd8eda3c1e3d7ee2efb04bddec3110b6e2dd6607c101e8c177c8b6843fc7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363990-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ins Gesicht gezogen
+** Ukrainian glosses
+
+* Sense s-1363990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c9a1f1b6ab9ea47162589b92d2905735ef0b22a8d9e8dc4f4bcede3f41cd14d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1363990-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 帽子を目深に被る надвинуть шляпу на глаза
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1363990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1363990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: まぶか
+** Accent accent-rd-1363990-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1363990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: まぶか

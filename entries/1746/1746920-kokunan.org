@@ -1,0 +1,167 @@
+#+TITLE: 国難
+#+JMDICT_ID: 1746920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こくなん
+#+ROMAJI: kokunan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1746920-001
+:PROPERTIES:
+:TEXT: 国難
+:END:
+** Reading rd-1746920-001
+:PROPERTIES:
+:TEXT: こくなん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1746920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1259fd138b666ebcc5a76dddf8a6ebd6b4bebc65ab47782212d272d571edebc7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- national crisis
+- national disaster
+** Ukrainian glosses
+*** uk-s-1746920-001-001
+:PROPERTIES:
+:END:
+- text :: національна криза; загальнодержавне лихо
+** Learner notes
+*** note-s-1746920-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений поєднанням 国 (країна, держава) та 難 (лихо, скрута). Позначає масштабну політичну, економічну, воєнну або стихійну кризу, що загрожує всій державі; часто трапляється в публіцистиці та історичних текстах у висловах 国難を乗り越える (подолати загальнодержавну кризу) чи 国難に立ち向かう (протистояти національному лиху).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1746920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国民は力を合わせて国難を乗り越えた。
+- READING :: こくみんはちからをあわせてこくなんをのりこえた。
+- UK :: Народ об'єднав зусилля та подолав національну кризу.
+- FOCUS :: 国難
+*** ex-1746920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 未曽有の国難に直面し、政府は緊急の経済対策を発表した。
+- READING :: みぞうのこくなんにちょくめんし、せいふはきんきゅうのけいざいたいさくをはっぴょうした。
+- UK :: Зіткнувшись із небаченою національною кризою, уряд оголосив екстрені економічні заходи.
+- FOCUS :: 国難
+*** ex-1746920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史を振り返れば、幾度もの国難を乗り越えるたびに社会全体の連帯意識が試されてきた。
+- READING :: れきしをふりかえれば、いくどものこくなんをのりこえるたびにしゃかいぜんたいのれんたいいしきがためされてきた。
+- UK :: Якщо озирнутися на історію, щоразу під час подолання чергової загальнодержавної кризи випробовувалося почуття єдності всього суспільства.
+- FOCUS :: 国難
+
+* Sense s-1746920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ed689fa41c8cf6e5613ec856b4fd7ff3beb771644ee325c918557df37e8701f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746920-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Staatskrise
+*** en-s-1746920-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gefährdung des Staates
+*** en-s-1746920-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verfassungsnotstand
+** Ukrainian glosses
+
+* Sense s-1746920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5090128c271ff2df49c1d1d9a0af290812ed4c6fa6c65eace389be84f633fe98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746920-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: национальное бедствие; национальный кризис
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1746920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1746920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こくなん
+** Accent accent-rd-1746920-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1746920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こくなん

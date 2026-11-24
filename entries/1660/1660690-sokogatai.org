@@ -1,0 +1,139 @@
+#+TITLE: 底堅い
+#+JMDICT_ID: 1660690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そこがたい
+#+ROMAJI: sokogatai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1660690-001
+:PROPERTIES:
+:TEXT: 底堅い
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1660690-001
+:PROPERTIES:
+:TEXT: そこがたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1660690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6ff9816e78032dc723731fdc522aa9ff9e1e92150104007337d50b2f5dc75477
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-i
+** English glosses
+- stable (market) after having bottomed out
+** Ukrainian glosses
+*** uk-s-1660690-001-001
+:PROPERTIES:
+:END:
+- text :: стійкий; міцний; такий, що впевнено тримається (після спаду)
+** Learner notes
+*** note-s-1660690-001-001
+:PROPERTIES:
+:END:
+- UK :: І-прикметник економічної лексики (від 底 «дно» і 堅い «міцний, надійний»), що описує ринок, курс валют, попит чи ціни, які не опускаються нижче певного рівня та зберігають стабільність. Часто вживається у прислівниковій формі 底堅く або в іменнику 底堅さ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1660690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今年の住宅市場は思ったより底堅いです。
+- READING :: ことしのじゅうたくしじょうはおもったよりそこがたいです。
+- UK :: Цьогорічний ринок житла виявився стійкішим, ніж очікувалося.
+- FOCUS :: 底堅い
+*** ex-1660690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 景気への不安が残るなかでも、生活必需品の需要は依然として底堅い動きを見せている。
+- READING :: けいきへのふあんがのこるなかでも、せいかつひつじゅひんのじゅようはいぜんとしてそこがたいうごきをみせている。
+- UK :: Попри занепокоєння щодо стану економіки, попит на товари першої потреби й далі демонструє стійкість.
+- FOCUS :: 底堅い
+*** ex-1660690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 一時的な下落を経験したものの、業績の安定した企業の株価は底堅く推移している。
+- READING :: いちじてきなげらくをけいけんしたものの、ぎょうせきのあんていしたきぎょうのかぶかはそこがたくすいいしている。
+- UK :: Хоча акції компаній зі стабільними показниками зазнали тимчасового падіння, їхній курс упевнено тримається на стабільному рівні.
+- FOCUS :: 底堅く
+
+* Sense s-1660690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9ac800191126b1f9918b1c1d7d1ab88da9057158908f8a6aca21be5973d8fcfd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1660690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stabil (nach einem Tief; v.a. gebraucht f. einen stabilen Geschäftsmarkt nach einem Börsentief)
+** Ukrainian glosses
+
+* Sense s-1660690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a10f50c653ca519f75f8dd4cff08357e8ec893edb0b743e6c7b8e8193802bfc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1660690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бирж.) быть устойчивым, держаться устойчиво (на одном уровне)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1660690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1660690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: そこがたい

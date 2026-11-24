@@ -1,0 +1,139 @@
+#+TITLE: 血糊
+#+JMDICT_ID: 1670210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちのり
+#+ROMAJI: chinori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1670210-001
+:PROPERTIES:
+:TEXT: 血糊
+:END:
+** Written form wf-1670210-002
+:PROPERTIES:
+:TEXT: 血のり
+:END:
+** Reading rd-1670210-001
+:PROPERTIES:
+:TEXT: ちのり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1670210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7c24144f74bd43d30892524b6434b72798ab3fa820fee0562a5bd2fb79ba86c2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- clotted blood
+- gore
+- sticky clots of blood
+** Ukrainian glosses
+*** uk-s-1670210-001-001
+:PROPERTIES:
+:END:
+- text :: запечена кров; згустки крові; липка кров
+** Learner notes
+*** note-s-1670210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного або сценічного вжитку (血 «кров» + 糊 «клей, клейстер»). Позначає густу кров, що згортається й налипає на зброю чи одяг, а також бутафорську кров у театрі та кіно.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1670210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 刀に血糊がついていた。
+- READING :: かたなにちのりがついていた。
+- UK :: На мечі була запечена кров.
+- FOCUS :: 血糊
+*** ex-1670210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 俳優の衣装にリアルな血糊のメイクが施された。
+- READING :: はいゆうのいしょうにりあるなちのりのめいくがほどこされた。
+- UK :: На костюм актора нанесли реалістичний грим зі згустками бутафорської крові.
+- FOCUS :: 血糊
+*** ex-1670210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦いのあと、武士は静かに布を取り出して刀身の血糊を拭き取った。
+- READING :: たたかいのあと、ぶしはしずかにぬのをとりだしてとうしんのちのりをふきとった。
+- UK :: Після бою самурай спокійно дістав тканину й витер із клинка запечену кров.
+- FOCUS :: 血糊
+
+* Sense s-1670210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0a791f19a1ffe28af5e7c2eef0779562e6fd05b2ba79b8bf5b759e2cbe547d02
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670210-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blutklumpen
+** Ukrainian glosses
+
+* Sense s-1670210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e831ba2959183939993bb36782adbfebc72c332cbe08f433b8ec5c22cbeb6e9f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670210-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: застывающая кровь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1670210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1670210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちのり

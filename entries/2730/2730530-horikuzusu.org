@@ -1,0 +1,169 @@
+#+TITLE: 掘り崩す
+#+JMDICT_ID: 2730530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほりくずす
+#+ROMAJI: horikuzusu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2730530-001
+:PROPERTIES:
+:TEXT: 掘り崩す
+:END:
+** Reading rd-2730530-001
+:PROPERTIES:
+:TEXT: ほりくずす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2730530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ae9549d0c5a76565d591d14cb15723e478e3a2fb53f8d41417a96c829574a1dd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to undermine
+- to sap
+- to dig away
+** Ukrainian glosses
+*** uk-s-2730530-001-001
+:PROPERTIES:
+:END:
+- text :: підкопувати; розкопувати; підривати (основу)
+** Learner notes
+*** note-s-2730530-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятиступеневої дієвідміни на す, утворене поєднанням 掘る («копати») та 崩す («руйнувати, обвалювати»). Означає як фізичне руйнування ґрунту чи насипу шляхом підкопування, так і переносний підрив чиєїсь довіри або порядку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2730530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 重機で古い土手を掘り崩す。
+- READING :: じゅうきでふるいどてをほりくずす。
+- UK :: Важкою технікою зривають старий земляний насип.
+- FOCUS :: 掘り崩す
+*** ex-2730530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 激しい雨が崖の下部を少しずつ掘り崩し、やがて大きな土砂崩れを引き起こした。
+- READING :: はげしいあめががけのかぶをすこしずつほりくずし、やがておおきなどしゃくずれをひきおこした。
+- UK :: Злива поступово підмивала нижню частину урвища, що зрештою спричинило великий зсув ґрунту.
+- FOCUS :: 掘り崩し
+*** ex-2730530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 組織の内部に蔓延した不正は、長年築き上げてきた社会からの信頼を根底から掘り崩してしまった。
+- READING :: そしきのないぶにまんえんしたふせいは、ながねんきずきあげてきたしゃかいからのしんらいをこんていからほりくずしてしまった。
+- UK :: Зловживання, що поширилися всередині організації, дощенту підірвали довіру суспільства, яку вибудовували багато років.
+- FOCUS :: 掘り崩して
+
+* Sense s-2730530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3ca444897695443331bf2675d46825addf3d1e2f33e059f6a0e4f6bb290971a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2730530-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: untergraben
+*** en-s-2730530-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unterhöhlen
+*** en-s-2730530-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unterminieren
+** Ukrainian glosses
+
+* Sense s-2730530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8b2673f8b203207a82922efccf474a8c01c2d005594daa3c383747000e23e592
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2730530-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: срывать, сравнивать с землёй
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2730530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2730530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ほりくずす
+** Accent accent-rd-2730530-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2730530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ほりくずす

@@ -1,0 +1,139 @@
+#+TITLE: 完全雇用
+#+JMDICT_ID: 1665280
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんぜんこよう
+#+ROMAJI: kanzenkoyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1665280-001
+:PROPERTIES:
+:TEXT: 完全雇用
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1665280-001
+:PROPERTIES:
+:TEXT: かんぜんこよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1665280-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: addb9e99d34f25f4e9d7ab3f65246b745ee3e4f97be014677bd2d2e2bed20a2d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- full employment
+** Ukrainian glosses
+*** uk-s-1665280-001-001
+:PROPERTIES:
+:END:
+- text :: повна зайнятість
+** Learner notes
+*** note-s-1665280-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний термін, утворений із 完全 («повний, досконалий») та 雇用 («найм, зайнятість»). Позначає стан ринку праці, за якого всі працездатні люди, що шукають роботу за поточної заробітної плати, можуть її знайти (допускається лише природне фрикційне безробіття).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1665280-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 政府は完全雇用を目指しています。
+- READING :: せいふはかんぜんこようをめざしています。
+- UK :: Уряд прагне досягти повної зайнятості.
+- FOCUS :: 完全雇用
+*** ex-1665280-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 好景気のおかげで、この地域はほぼ完全雇用の状態です。
+- READING :: こうけいきのおかげで、このちいきはほぼかんぜんこようのじょうたいです。
+- UK :: Завдяки економічному піднесенню в цьому регіоні фактично досягнуто повної зайнятості.
+- FOCUS :: 完全雇用
+*** ex-1665280-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 金融政策と財政出動を組み合わせることで、完全雇用を実現できるかが議論されている。
+- READING :: きんゆうせいさくとざいせいしゅつどうをくみあわせることで、かんぜんこようをじつげんできるかがぎろんされている。
+- UK :: Тривають дискусії щодо того, чи вдасться досягти повної зайнятості шляхом поєднання монетарної політики та фіскального стимулювання.
+- FOCUS :: 完全雇用
+
+* Sense s-1665280-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: eaac0589b8e9d5a76924c030ba2d1ace04c290c9934f77608d7c856cd7b3d0df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1665280-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vollbeschäftigung
+** Ukrainian glosses
+
+* Sense s-1665280-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ce8226319c7d4c20d92b4a5a4fc26356ee35b55f270345cf04ae383ac1b8f56f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1665280-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эк.) полная занятость
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1665280-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1665280-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんぜんこよう

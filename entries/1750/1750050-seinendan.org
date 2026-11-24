@@ -1,0 +1,139 @@
+#+TITLE: 青年団
+#+JMDICT_ID: 1750050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいねんだん
+#+ROMAJI: seinendan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1750050-001
+:PROPERTIES:
+:TEXT: 青年団
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1750050-001
+:PROPERTIES:
+:TEXT: せいねんだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1750050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 944381473a7c7f44b5c69737a47ba45238f2f47ec1c4e5899db0cc0e8ce74fa3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- young persons' association
+** Ukrainian glosses
+*** uk-s-1750050-001-001
+:PROPERTIES:
+:END:
+- text :: молодіжна асоціація; молодіжна організація; спілка молоді
+** Learner notes
+*** note-s-1750050-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 青年 «молодь, юнацтво» + 団 «група, об’єднання»). Позначає місцеву громадську спілку молоді в японських містах і селах, яка бере участь у проведенні свят, громадських заходах та взаємодопомозі під час надзвичайних ситуацій.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1750050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は地域の青年団に入っています。
+- READING :: あにはちいきのせいねんだんにはいっています。
+- UK :: Мій старший брат входить до місцевої молодіжної організації.
+- FOCUS :: 青年団
+*** ex-1750050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夏祭りの準備では、地元の青年団が中心となって活動している。
+- READING :: なつまつりのじゅんびでは、じもとのせいねんだんがちゅうしんとなってかつどうしている。
+- UK :: У підготовці до літнього свята головну роль відіграє місцева спілка молоді.
+- FOCUS :: 青年団
+*** ex-1750050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 人口減少が進む地域でも、青年団の活動を通じて住民同士のつながりが保たれている。
+- READING :: じんこうげんしょうがすすむちいきでも、せいねんだんのかつどうをつうじてじゅうみんどうしのつながりがたもたれている。
+- UK :: Навіть у регіонах, де скорочується населення, завдяки діяльності молодіжної асоціації зберігаються зв’язки між мешканцями.
+- FOCUS :: 青年団
+
+* Sense s-1750050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b32fb79d41505c8ab726194c0f94ae77b79b31f37ab8e48f5435d79ee82abb84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1750050-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Jugendorganisation
+** Ukrainian glosses
+
+* Sense s-1750050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 215c04958c1501af7d79a71ae6e6a6973ba0d34bfdc261d2cba834211cde42b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1750050-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: молодёжная организация
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1750050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1750050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せいねんだん

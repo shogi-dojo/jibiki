@@ -1,0 +1,175 @@
+#+TITLE: 米俵
+#+JMDICT_ID: 1509020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こめだわら
+#+ROMAJI: komedawara
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1509020-001
+:PROPERTIES:
+:TEXT: 米俵
+:END:
+** Written form wf-1509020-002
+:PROPERTIES:
+:TEXT: 米苞
+:END:
+*** Information
+- rK
+** Reading rd-1509020-001
+:PROPERTIES:
+:TEXT: こめだわら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1509020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 31963f4b43ec274222caf372b38871db512ac8ccd06d730fd39a5a650b45c5db
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bag of rice
+** Ukrainian glosses
+*** uk-s-1509020-001-001
+:PROPERTIES:
+:END:
+- text :: солом'яний мішок (лантух) із рисом
+** Learner notes
+*** note-s-1509020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 米 («рис») та 俵 («солом'яний куль, мішок», у складних словах через рендаку звучить як だわら). Традиційний японський мішок із рисової соломи, в якому зберігали й перевозили обмолочений рис (зазвичай місткістю 1 俵 — близько 60 кг).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1509020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 倉庫の中に米俵が並んでいる。
+- READING :: そうこのなかにこめだわらがならんでいる。
+- UK :: У коморі стоять у ряд солом'яні мішки з рисом.
+- FOCUS :: 米俵
+*** ex-1509020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お祭りの力比べでは、重い米俵を持ち上げる競技がある。
+- READING :: おまつりのちからくらべでは、おもいこめだわらをもちあげるきょうぎがある。
+- UK :: На святкових змаганнях із сили є випробування, де підіймають важкі солом'яні мішки з рисом.
+- FOCUS :: 米俵
+*** ex-1509020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつての農村では、秋に収穫した米を丁寧に編んだ米俵に詰めて保存するのが一般的だった。
+- READING :: かつてののうそんでは、あきにしゅうかくしたこめをていねいにあんだこめだわらにつめてほぞんするのがいっぱんてきだった。
+- UK :: У давніх селах восени зібраний рис зазвичай пакували на зберігання в ретельно сплетені солом'яні мішки.
+- FOCUS :: 米俵
+
+* Sense s-1509020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6586208e8e31ab9f2922c6c7aa8b8b5bc73d77e17344e0a24190c7fb6ebb90ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1509020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijstbaal
+** Ukrainian glosses
+
+* Sense s-1509020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 43c4a7bfb2696827be2f19c945df0f68fcce7030566b2cfa3aa6c7dda1b562a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1509020-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sac de riz
+** Ukrainian glosses
+
+* Sense s-1509020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9c5d656d6afb7b91b0361f9d03aeea19d8d9b4c715aacda26fc7d1a8b090dcb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1509020-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reissack
+** Ukrainian glosses
+
+* Sense s-1509020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: c8bd50d5feb19a008ec1c8f8f4d8b26bf687aec36b54324aa523299310047a89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1509020-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: куль (рогожный мешок) для риса
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1509020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1509020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こめだわら

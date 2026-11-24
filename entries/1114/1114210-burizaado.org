@@ -1,0 +1,153 @@
+#+TITLE: ブリザード
+#+JMDICT_ID: 1114210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ブリザード
+#+ROMAJI: burizaado
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1114210-001
+:PROPERTIES:
+:TEXT: ブリザード
+:NO_KANJI: false
+:END:
+
+* Sense s-1114210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 172d5dc4560816dbf369bbc9377e3b8e3d4cab773875a8c2270733c1789b5e25
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- blizzard
+** Ukrainian glosses
+*** uk-s-1114210-001-001
+:PROPERTIES:
+:END:
+- text :: снігова буря; хуртовина; завірюха
+** Learner notes
+*** note-s-1114210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від англ. blizzard). Позначає надзвичайно сильний холодний вітер зі снігом і різким погіршенням видимості, особливо в полярних регіонах або високогір'ї; у японських художніх творах та іграх також позначає магічні чи природні крижані шторми.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1114210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 外は激しいブリザードです。
+- READING :: そとははげしいぶりざーどです。
+- UK :: Надворі лютує сильна снігова буря.
+- FOCUS :: ブリザード
+*** ex-1114210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 南極観測隊はブリザードが収まるまで基地の中で待機した。
+- READING :: なんきょくかんそくたいはぶりざーどがおさまるまできちのなかでたいきした。
+- UK :: Антарктична експедиція перечікувала на базі, доки не вщухне хуртовина.
+- FOCUS :: ブリザード
+*** ex-1114210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 突然のブリザードに視界を奪われた登山隊は、安全のためただちにビバークすることを決断した。
+- READING :: とつぜんのぶりざーどにしかいをうばわれたとざんたいは、あんぜんのためただちにびばーくすることをけつだんした。
+- UK :: Група альпіністів, утративши видимість через раптову завірюху, заради безпеки вирішила негайно облаштувати тимчасовий бівуак.
+- FOCUS :: ブリザード
+
+* Sense s-1114210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 78faf474f4900d0b535ab53004a07e0a7c2d1d50bf4168ec59a645a4d88b4bae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114210-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneesturm
+*** en-s-1114210-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Blizzard
+** Ukrainian glosses
+
+* Sense s-1114210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 38846f432c1ecaf318b7e0c3bc0eb9f7704c3bb64b3ea476952c5b050f0cdcbc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114210-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hóvihar
+** Ukrainian glosses
+
+* Sense s-1114210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1944ff9d8be03b6a858c28b76611a5829299b2d29079ca02a822f6db892292e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) blizzard) буран, снежная буря
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1114210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1114210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ブリザード

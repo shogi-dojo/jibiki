@@ -1,0 +1,167 @@
+#+TITLE: 米寿
+#+JMDICT_ID: 1508960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: べいじゅ
+#+ROMAJI: beiju
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1508960-001
+:PROPERTIES:
+:TEXT: 米寿
+:END:
+*** Priorities
+- news2
+- nf29
+** Reading rd-1508960-001
+:PROPERTIES:
+:TEXT: べいじゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf29
+
+* Sense s-1508960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 73852eaf48b4aab117834f9d27a7c400bd5b835d7fefa50c58680905d50e0c59
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- 米 is composed of 八十八
+** English glosses
+- 88th birthday
+** Ukrainian glosses
+*** uk-s-1508960-001-001
+:PROPERTIES:
+:END:
+- text :: вісімдесятивосьмиріччя; вісімдесят восьма річниця народження
+** Learner notes
+*** note-s-1508960-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; традиційне позначення поважного ювілею (із 米 «рис» і 寿 «довголіття»). Назва походить від того, що ієрогліф 米 у розкладі на складові нагадує поєднання знаків 八, 十 та 八 («вісімдесят вісім»). У родині заведено влаштовувати святкування 米寿のお祝い і дарувати жовтий або золотистий одяг.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1508960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今年、祖母は米寿を迎えた。
+- READING :: ことし、そぼはべいじゅをむかえた。
+- UK :: Цього року бабусі виповнилося вісімдесят вісім років.
+- FOCUS :: 米寿
+*** ex-1508960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家族みんなで集まって、祖父の米寿のお祝いをした。
+- READING :: かぞくみんなであつまって、そふのべいじゅのおいわいをした。
+- UK :: Уся родина зібралася разом, щоб відсвяткувати вісімдесятивосьмиріччя дідуся.
+- FOCUS :: 米寿
+*** ex-1508960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 米寿という呼び名は、米の字を分解すると八十八になることに由来する。
+- READING :: べいじゅというよびなは、こめのじをぶんかいするとはちじゅうはちになることにゆらいする。
+- UK :: Назва цього ювілею походить від того, що ієрогліф 米 при розкладанні дає складові для числа вісімдесят вісім.
+- FOCUS :: 米寿
+
+* Sense s-1508960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 928f01206757b642d87cc8a91edc678faaab2117699aa7ef5c10d01b8ad0f973
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 88 Jahre
+*** en-s-1508960-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 88 Jahre alt
+** Ukrainian glosses
+
+* Sense s-1508960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0e4ff9004cc20d4d1d2e11daed15eead7db54a5c398ed90fc0f6b73a1a8b92f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508960-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 88. Geburtstag
+** Ukrainian glosses
+
+* Sense s-1508960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e7cf015c64d0894ef10c88dcdbe6fb80196c4a16838513d9cc89f2192c26af47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1508960-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: восьмидесятивосьмилетие
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1508960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1508960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: べいじゅ

@@ -1,0 +1,184 @@
+#+TITLE: 博奕
+#+JMDICT_ID: 2843638
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばくえき
+#+ROMAJI: bakueki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2843638-001
+:PROPERTIES:
+:TEXT: 博奕
+:END:
+** Written form wf-2843638-002
+:PROPERTIES:
+:TEXT: 博弈
+:END:
+*** Information
+- rK
+** Reading rd-2843638-001
+:PROPERTIES:
+:TEXT: ばくえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2843638-002
+:PROPERTIES:
+:TEXT: ばくよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-2843638-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61dd829444dbbe3ed66ef072ce8ee44de36ca4e22886ca4e060cdbdafe503a3d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 博打・ばくち・1
+** English glosses
+- gambling
+** Ukrainian glosses
+*** uk-s-2843638-001-001
+:PROPERTIES:
+:END:
+- text :: азартна гра; гра на гроші
+** Learner notes
+*** note-s-2843638-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що також може писатися як 博弈 і має рідкісне читання ばくよう (а в розмовній мові за цими ж ієрогліфами часто читається ばくち). Позначає азартні ігри зі ставками або, ширше, ризиковану авантюру.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2843638-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は博奕に手を出した。
+- READING :: かれはばくえきにてをだした。
+- UK :: Він пристав до азартних ігор.
+- FOCUS :: 博奕
+*** ex-2843638-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 法律によって、許可のない博奕は厳しく禁じられている。
+- READING :: ほうりつによって、きょかのないばくえきはきびしくきんじられている。
+- UK :: Закон суворо забороняє нелегальні азартні ігри.
+- FOCUS :: 博奕
+*** ex-2843638-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全財産を失いかねない無謀な博奕に頼るべきではないと、友人は彼を諭した。
+- READING :: ぜんざいさんをうしないかねないむぼうなばくえきにたよるべきではないと、ゆうじんはかれをさとした。
+- UK :: Друг переконував його не покладатися на безрозсудні азартні ігри, у яких можна втратити все майно.
+- FOCUS :: 博奕
+
+* Sense s-2843638-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f2d731714aba285068ff6ec60f045c3cb43b07e7b13ce56f69e4578b0e7e76a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2843638-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spielen
+*** en-s-2843638-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Glücksspiel
+** Ukrainian glosses
+
+* Sense s-2843638-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4d6b6c3c48eba8226c9321e1e2cc2eee5c6e8a059c0de7d564e8128f66b3da74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2843638-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hazárdjáték
+** Ukrainian glosses
+
+* Sense s-2843638-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c9b0e4d24beb9098f8b6882e5d506ca14c2dc31be434d1b0ad896bab0dd25b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2843638-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ばくち【博奕】
+*** en-s-2843638-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: азартная игра
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2843638-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2843638-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ばくえき

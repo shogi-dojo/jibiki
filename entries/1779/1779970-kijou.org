@@ -1,0 +1,147 @@
+#+TITLE: 機上
+#+JMDICT_ID: 1779970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きじょう
+#+ROMAJI: kijou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1779970-001
+:PROPERTIES:
+:TEXT: 機上
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1779970-001
+:PROPERTIES:
+:TEXT: きじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1779970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8523e8d9c1789084288bad0c6970039590baec108ebb5f3f99b37b702dabf31a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- aboard an aeroplane (airplane)
+** Ukrainian glosses
+*** uk-s-1779970-001-001
+:PROPERTIES:
+:END:
+- text :: на борту літака
+** Learner notes
+*** note-s-1779970-001-001
+:PROPERTIES:
+:END:
+- UK :: Писемний і журналістський іменник, утворений із 機 («літак, апарат») та 上 («на, зверху»). Уживається з частками に, で, から чи の для позначення подій, розмов або повідомлень на борту повітряного судна (наприклад, 機上の人となる — «сісти в літак і вирушити в політ»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1779970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 機上で温かいお茶をいただきました。
+- READING :: きじょうであたたかいおちゃをいただきました。
+- UK :: На борту літака мені подали гарячий чай.
+- FOCUS :: 機上
+*** ex-1779970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長いフライトの間、機上で映画を見て過ごしました。
+- READING :: ながいふらいとのあいだ、きじょうでえいがをみてすごしました。
+- UK :: Під час тривалого перельоту я провів час на борту за переглядом фільмів.
+- FOCUS :: 機上
+*** ex-1779970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 首相は外遊へ向かう特別機の機上から、記者団の取材に応じた。
+- READING :: しゅしょうはがいゆうへむかうとくべつきのきじょうから、きしゃだんのしゅざいにおうじた。
+- UK :: Прем'єр-міністр дав інтерв'ю журналістам просто з борту спеціального літака, що прямував у закордонний візит.
+- FOCUS :: 機上
+
+* Sense s-1779970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b3ad489e86b7d5edf79a9e9a28c77ea05d1490664f113c7cf78385af4d7bed5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (an)Bord eines Flugzeuges
+** Ukrainian glosses
+
+* Sense s-1779970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ffa9d60f8e490c2627f6bb659cfe77cef61540a6a4a916748207e9ffc326a262
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: на борту самолёта
+*** en-s-1779970-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～から} с борта самолёта
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1779970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1779970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きじょう

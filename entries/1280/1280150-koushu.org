@@ -1,0 +1,194 @@
+#+TITLE: 甲種
+#+JMDICT_ID: 1280150
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうしゅ
+#+ROMAJI: koushu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1280150-001
+:PROPERTIES:
+:TEXT: 甲種
+:END:
+*** Priorities
+- news2
+- nf47
+- spec2
+** Reading rd-1280150-001
+:PROPERTIES:
+:TEXT: こうしゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+- spec2
+
+* Sense s-1280150-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fb95898d203fba195cf3318734f86d15885f98fc692ccec8e6ff008a0c2cbc6f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 甲乙丙・こうおつへい
+** English glosses
+- A-grade
+- first-class
+** Ukrainian glosses
+*** uk-s-1280150-001-001
+:PROPERTIES:
+:END:
+- text :: перший розряд; перша категорія; клас A
+** Learner notes
+*** note-s-1280150-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, складений із 甲 (перший у традиційному переліку 十干: 甲・乙・丙) та 種 (вид, категорія). Уживається в класифікації ліцензій, кваліфікацій або виробів вищого рівня, наприклад 甲種危険物取扱者.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1280150-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は甲種の資格を取った。
+- READING :: あにはこうしゅのしかくをとった。
+- UK :: Старший брат здобув кваліфікацію першого розряду.
+- FOCUS :: 甲種
+*** ex-1280150-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この工場で働くには、甲種に分類される国家資格が必要になる。
+- READING :: このこうじょうではたらくには、こうしゅにぶんるいされるこっかしかくがひつようになる。
+- UK :: Щоб працювати на цьому заводі, потрібна державна ліцензія першої категорії.
+- FOCUS :: 甲種
+*** ex-1280150-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 受験資格を得るため、実務経験を積んだうえで難関の甲種試験に挑戦した。
+- READING :: じゅけんしかくをえるため、じつむけいけんをつんだうえでなんかんのこうしゅしけんにちょうせんした。
+- UK :: Щоб здобути право складати іспит, він набрався практичного досвіду й спробував сили на складному екзамені першого розряду.
+- FOCUS :: 甲種
+
+* Sense s-1280150-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 006854376add47db678a2c72967d47b44ae7ef758ab19d24ae1b7711fb41a7ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280150-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niveau a
+*** en-s-1280150-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: première classe
+*** en-s-1280150-002-003
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: premier choix
+** Ukrainian glosses
+
+* Sense s-1280150-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c12ecd2c3d7968cd73ca4be8d6ac839718509638c90593ac97a8f224d8d0c5f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280150-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Klasse A
+*** en-s-1280150-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erste Klasse
+*** en-s-1280150-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erste Wahl
+** Ukrainian glosses
+
+* Sense s-1280150-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2e4aefaaf118668b7ca0b0c809c7a90b49f233bedef3c097c671bdee3a0e62b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280150-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} первого разряда
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1280150-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1280150-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうしゅ

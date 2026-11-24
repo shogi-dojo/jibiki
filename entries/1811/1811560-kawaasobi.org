@@ -1,0 +1,163 @@
+#+TITLE: 川遊び
+#+JMDICT_ID: 1811560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわあそび
+#+ROMAJI: kawaasobi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1811560-001
+:PROPERTIES:
+:TEXT: 川遊び
+:END:
+** Written form wf-1811560-002
+:PROPERTIES:
+:TEXT: 川あそび
+:END:
+*** Information
+- sK
+** Written form wf-1811560-003
+:PROPERTIES:
+:TEXT: かわ遊び
+:END:
+*** Information
+- sK
+** Reading rd-1811560-001
+:PROPERTIES:
+:TEXT: かわあそび
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1811560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: affa7e310b7520a3ae6aa15aeaf94b4a159726bb3b79a9e9985d5ef648e99ea9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- enjoying oneself on a river (e.g. boating, swimming, fishing)
+** Ukrainian glosses
+*** uk-s-1811560-001-001
+:PROPERTIES:
+:END:
+- text :: відпочинок на річці; розваги на річці (купання, катання на човні, риболовля)
+** Learner notes
+*** note-s-1811560-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне дієслово з する, складені з 川 («річка») і 遊び («розвага; гра»). Уживається в загальному та розмовному мовленні для позначення літнього дозвілля біля річки або на воді, зокрема серед дітей і родин.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1811560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夏休みに家族で川遊びをしました。
+- READING :: なつやすみにかぞくでかわあそびをしました。
+- UK :: На літніх канікулах ми всією родиною відпочивали на річці.
+- FOCUS :: 川遊び
+*** ex-1811560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 水の澄んだ上流で川遊びをするのが、子どもたちの楽しみだ。
+- READING :: みずのすんだじょうりゅうでかわあそびをするのが、こどもたちのたのしみだ。
+- UK :: Розваги на річці у верхів'ї з прозорою водою — улюблене дозвілля дітей.
+- FOCUS :: 川遊び
+*** ex-1811560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 川遊びは楽しい反面、急な増水や流れの速さに十分注意しなければならない。
+- READING :: かわあそびはたのしいはんめん、きゅうなぞうすいやながれのはやさにじゅうぶんちゅういしなければならない。
+- UK :: Хоча відпочинок на річці приносить багато радості, слід бути дуже обережним через раптове підняття рівня води та сильну течію.
+- FOCUS :: 川遊び
+
+* Sense s-1811560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 65b37494106d0f6c62867d63d8db414caf3150f34f242a602697bf3ab886e01c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausflug zum Fluss
+*** en-s-1811560-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lustfahrt auf dem Fluss
+*** en-s-1811560-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bootspartie
+** Ukrainian glosses
+
+* Sense s-1811560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f2f15ada9cac790c44935a4f99a32683ef57d967e8f3a655f6c19a20ceb643e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811560-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: катание на лодке по реке; поездка по реке (увеселительная)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1811560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1811560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かわあそび

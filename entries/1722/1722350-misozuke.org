@@ -1,0 +1,170 @@
+#+TITLE: 味噌漬け
+#+JMDICT_ID: 1722350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みそづけ
+#+ROMAJI: misozuke
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1722350-001
+:PROPERTIES:
+:TEXT: 味噌漬け
+:END:
+** Written form wf-1722350-002
+:PROPERTIES:
+:TEXT: みそ漬け
+:END:
+** Written form wf-1722350-003
+:PROPERTIES:
+:TEXT: 味噌づけ
+:END:
+*** Information
+- sK
+** Written form wf-1722350-004
+:PROPERTIES:
+:TEXT: 味噌付け
+:END:
+*** Information
+- sK
+** Reading rd-1722350-001
+:PROPERTIES:
+:TEXT: みそづけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1722350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 76e456d521cd35e5fa6252c26556abb863d73ded66fc792ab4b319efd4695acd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Cross-references
+- 味噌・1
+** English glosses
+- meat, fish or vegetables preserved in miso
+- preserving in miso
+** Ukrainian glosses
+*** uk-s-1722350-001-001
+:PROPERTIES:
+:END:
+- text :: продукти, мариновані в місо; маринування в пасті місо
+** Learner notes
+*** note-s-1722350-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний термін (іменник), утворений від 味噌 («соєва паста місо») і 漬け («засолювання, маринування»). Означає як самий спосіб тривалого збереження чи надання смаку овочам, рибі або м'ясу в пасті місо, так і готову страву.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1722350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この大根の味噌漬けはおいしいです。
+- READING :: このだいこんのみそづけはおいしいです。
+- UK :: Ця редька дайкон, маринована в місо, дуже смачна.
+- FOCUS :: 味噌漬け
+*** ex-1722350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖母が作ったきゅうりの味噌漬けは、ご飯によく合う。
+- READING :: そぼがつくったきゅうりのみそづけは、ごはんによくあう。
+- UK :: Огірки в пасті місо, які приготувала бабуся, чудово смакують із рисом.
+- FOCUS :: 味噌漬け
+*** ex-1722350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 旬の魚を味噌漬けにしておくと、旨味が増すだけでなく日持ちも良くなる。
+- READING :: しゅんのさかなをみそづけにしておくと、うまみがますだけでなくひもちもよくなる。
+- UK :: Якщо замаринувати сезонну рибу в пасті місо, вона не лише набуде насиченішого смаку, а й довше зберігатиметься.
+- FOCUS :: 味噌漬け
+
+* Sense s-1722350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: da203133a01368c9c48f8f5bafb0b24adc56dcca903b420070ff31f8aef321ce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in Miso Eingelegtes (Fleisch, Gemüse etc.)
+** Ukrainian glosses
+
+* Sense s-1722350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 54ad5ede060d633f42370f66c54a1421de23535b5f257967c2c817103923ad09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) маринование в мисо
+*** en-s-1722350-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} мариновать в мисо
+*** en-s-1722350-003-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) овощи, рыба, мясо, маринованные в мисо
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1722350-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1722350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: みそづけ

@@ -1,0 +1,413 @@
+#+TITLE: 割り込み
+#+JMDICT_ID: 1606860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わりこみ
+#+ROMAJI: warikomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1606860-001
+:PROPERTIES:
+:TEXT: 割り込み
+:END:
+*** Priorities
+- news1
+- nf22
+** Written form wf-1606860-002
+:PROPERTIES:
+:TEXT: 割込み
+:END:
+** Written form wf-1606860-003
+:PROPERTIES:
+:TEXT: 割込
+:END:
+*** Information
+- io
+** Reading rd-1606860-001
+:PROPERTIES:
+:TEXT: わりこみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf22
+** Reading rd-1606860-002
+:PROPERTIES:
+:TEXT: ワリコミ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1606860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fc14a2430fb67f123fd4d3e57b416a4050778bb1750969e2470b0cb4fa2b5e15
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- queue jumping
+- breaking into a line
+- muscling in on
+- wedging oneself in
+- interruption
+- sharing a theater box (theatre)
+** Ukrainian glosses
+*** uk-s-1606860-001-001
+:PROPERTIES:
+:END:
+- text :: вклинювання; пролізання без черги; втручання; підсаджування в спільну ложу
+** Learner notes
+*** note-s-1606860-001-001
+:PROPERTIES:
+:END:
+- UK :: Віддієслівний іменник від 割り込む («вклинюватися, лізти без черги»). Позначає втискання поперед інших у черзі чи між автомобілями на дорозі, втручання в розмову, а в традиційному театрі — розміщення незнайомих глядачів в одній ложі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1606860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 列への割り込みはやめてください。
+- READING :: れつへのわりこみはやめてください。
+- UK :: Будь ласка, не вклинюйтеся в чергу.
+- FOCUS :: 割り込み
+*** ex-1606860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高速道路で急な割り込みがあって、少し驚きました。
+- READING :: こうそくどうろできゅうなわりこみがあって、すこしおどろきました。
+- UK :: На швидкісній трасі хтось різко вклинився переді мною, і я трохи злякався.
+- FOCUS :: 割り込み
+*** ex-1606860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 人気店の前では混雑を防ぐため、割り込みを禁止する案内が出ています。
+- READING :: にんきてんのまえではこんざつをふせぐため、わりこみをきんしするあんないがでています。
+- UK :: Перед популярним закладом вивішено оголошення про заборону лізти без черги, щоб уникнути штовханини.
+- FOCUS :: 割り込み
+
+* Sense s-1606860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8d93889afd24ba5319d0f0716ba593283638327e8ff75bf7dd3fc8838bc05b2d
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- interrupt
+** Ukrainian glosses
+*** uk-s-1606860-002-001
+:PROPERTIES:
+:END:
+- text :: переривання (в інформатиці)
+** Learner notes
+*** note-s-1606860-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін інформатики (відповідник англ. interrupt). Позначає сигнал від пристрою чи програми, який призупиняє поточне завдання процесора, щоб негайно виконати важливішу операцію (наприклад, 割り込み処理 «обробка переривань»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1606860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 971c51957c7160798e70cce4b16bcb63e3f9009fd6a83e67b2d52e1965ae2299
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- go
+*** Miscellaneous and register
+- uk
+*** Sense information
+- usu. ワリコミ
+** English glosses
+- wedge
+** Ukrainian glosses
+*** uk-s-1606860-003-001
+:PROPERTIES:
+:END:
+- text :: варікомі, вклинювання (у ґо)
+** Learner notes
+*** note-s-1606860-003-001
+:PROPERTIES:
+:END:
+- UK :: Термін настільної гри ґо, що зазвичай записується каною (ワリコミ або わりこみ). Позначає хід, коли гравець ставить камінь у проміжок між двома каменями суперника, щоб розрізати їхній зв'язок.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1606860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9fbfae718e8a1bf1a0b7db86f5a3c7ea7e75cf7e7d6f41c250d879d095ef9399
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: indringing
+*** en-s-1606860-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: binnendringing
+*** en-s-1606860-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: inmenging
+*** en-s-1606860-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intrusie
+*** en-s-1606860-004-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {列への} het voordringen
+*** en-s-1606860-004-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het voorkruipen
+*** en-s-1606860-004-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Belg.N.} het voorsteken
+** Ukrainian glosses
+
+* Sense s-1606860-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b067a4d0e2740c1f058372a398b8d8ba86561505a6116ba7a210953151117d07
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {枡席への}  het delen van een logeplaats met vreemden
+** Ukrainian glosses
+
+* Sense s-1606860-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0fe4dd90a62b70972db197667e0df896a45c4ce8539c7cd7ce78c4b513c2876b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {comp.} onderbreking
+*** en-s-1606860-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: programmaonderbreking
+** Ukrainian glosses
+
+* Sense s-1606860-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 089732441b7fc2c68084a832db6056d6ba2a03b1b8b5f61952b3d8f93555b253
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dazwischendrängeln
+** Ukrainian glosses
+
+* Sense s-1606860-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 361ada35f2cf7d1da1a18e9d89839c818769e541d48bbd2ea02a93fba20ecd4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilen einer Theaterloge mit Fremden
+** Ukrainian glosses
+
+* Sense s-1606860-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 11037ce349dcd4ffc711f4d9b5e35ee395fe16f713f8cb3d7c8644c38dea3d4f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mit Fremden geteilte Theaterloge
+** Ukrainian glosses
+
+* Sense s-1606860-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 34f95b21590d39a9096527b224278f0c764f948462aaacc384557bd5691799a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unterbrechung
+*** en-s-1606860-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Interrupt
+** Ukrainian glosses
+
+* Sense s-1606860-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 68a012f81f5ca7cdda10fe5c44c119c018bd420451c91fab86a7412deefffd55
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-011-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zavarás
+** Ukrainian glosses
+
+* Sense s-1606860-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 09a9f72d1d5b3f72bd284a35ceba65033eeac3e727ca1d58ce1f8ca38cd18a60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1606860-012-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) пребывание в ложе вместе с кем-либо незнакомым
+*** en-s-1606860-012-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) место в ложе, где есть незнакомые
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1606860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1606860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: わりこみ

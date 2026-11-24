@@ -1,0 +1,183 @@
+#+TITLE: 号外
+#+JMDICT_ID: 1284230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごうがい
+#+ROMAJI: gougai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1284230-001
+:PROPERTIES:
+:TEXT: 号外
+:END:
+*** Priorities
+- news2
+- nf28
+- spec2
+** Reading rd-1284230-001
+:PROPERTIES:
+:TEXT: ごうがい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+- spec2
+
+* Sense s-1284230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04cdc4dfc10848817e2a96c23d2c9aaa538a63f3f0c7860e95c403e4e33d71a2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- newspaper extra
+** Ukrainian glosses
+*** uk-s-1284230-001-001
+:PROPERTIES:
+:END:
+- text :: екстрений випуск (газети); спецвипуск
+** Learner notes
+*** note-s-1284230-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 号 («номер випуску») і 外 («поза»). Позначає позачерговий випуск газети, який друкують і роздають на вулицях у разі надзвичайно важливої чи сенсаційної події.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1284230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅の前で新聞の号外をもらいました。
+- READING :: えきのまえでしんぶんのごうがいをもらいました。
+- UK :: Перед станцією я отримав екстрений випуск газети.
+- FOCUS :: 号外
+*** ex-1284230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 歴史的な大ニュースが報じられると、街角で号外が配られた。
+- READING :: れきしてきなだいにゅーすがほうじられると、まちかどでごうがいがくばられた。
+- UK :: Щойно повідомили про історичну новину, на перехрестях почали роздавати екстрені випуски газет.
+- FOCUS :: 号外
+*** ex-1284230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本代表が決勝で優勝を決めた瞬間、都心の駅前では多くの人が号外を求めて集まった。
+- READING :: にほんだいひょうがけっしょうでゆうしょうをきめたしゅんかん、としんのえきまえではおおくのひとがごうがいをもとめてあつまった。
+- UK :: Щойно збірна Японії здобула перемогу у фіналі, перед станціями в центрі міста зібралося багато людей по спецвипуск газети.
+- FOCUS :: 号外
+
+* Sense s-1284230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fe4ba002391efe784ebf8e8aa52a109458dd8c04755d2ad2d01a9e9424fe541d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1284230-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: supplément (d'un journal)
+** Ukrainian glosses
+
+* Sense s-1284230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4b296d21fce1a5bbdca9562e8d556234b46a143de76c5495b0bdc01582c8b2fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1284230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Extrablatt
+*** en-s-1284230-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Extraausgabe
+*** en-s-1284230-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sondernummer
+*** en-s-1284230-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sonderblatt
+** Ukrainian glosses
+
+* Sense s-1284230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6a64c5f8705042b3c2bf4a7ddcba50e467d1a28c634e88b34538394f4fd1901a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1284230-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: экстренный выпуск (газеты)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1284230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1284230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ごうがい

@@ -1,0 +1,172 @@
+#+TITLE: 取り澄ます
+#+JMDICT_ID: 1707940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とりすます
+#+ROMAJI: torisumasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1707940-001
+:PROPERTIES:
+:TEXT: 取り澄ます
+:END:
+** Written form wf-1707940-002
+:PROPERTIES:
+:TEXT: 取澄ます
+:END:
+** Reading rd-1707940-001
+:PROPERTIES:
+:TEXT: とりすます
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1707940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ed89e2d49db505d3fabe6b7f164e0530292cbb98b74424920ebd985dab8fd445
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vi
+** English glosses
+- to look unconcerned
+- to assume a composed look
+** Ukrainian glosses
+*** uk-s-1707940-001-001
+:PROPERTIES:
+:END:
+- text :: прибирати байдужого (незворушного) вигляду; триматися манірно й поважно
+** Learner notes
+*** note-s-1707940-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першої дієвідміни (ґодан на -す), утворене з префікса 取り та 澄ます («прояснювати; робити серйозне обличчя»). Часто вживається у формі 取り澄ました (як означення: 取り澄ました顔 — «незворушне, бундючне обличчя») для опису награної байдужості або манірної поважності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1707940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼女はいつも取り澄ましています。
+- READING :: かのじょはいつもとりすましています。
+- UK :: Вона завжди тримається підкреслено незворушно.
+- FOCUS :: 取り澄まし
+*** ex-1707940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 失敗したのに、彼は取り澄ました顔で座っていました。
+- READING :: しっぱいしたのに、かれはとりすましたかおですわっていました。
+- UK :: Хоча він схибив, сидів із незворушним виглядом, наче нічого не сталося.
+- FOCUS :: 取り澄ました
+*** ex-1707940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 普段は気さくな友人だが、人前では急に態度を変えて取り澄ますことがある。
+- READING :: ふだんはきさくなゆうじんだが、ひとまえではきゅうにたいどをかえてとりすますことがある。
+- UK :: У звичайному спілкуванні мій друг привітний, але на людях він інколи раптом змінює поведінку й удає холодну поважність.
+- FOCUS :: 取り澄ます
+
+* Sense s-1707940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ba2c83b28fa10baf271be4c8779b2f0f17845339e40292ce1db3f4e8ca3f9244
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1707940-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich zieren
+*** en-s-1707940-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: affektiert sein
+*** en-s-1707940-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gleichgültig dreinschauen
+** Ukrainian glosses
+
+* Sense s-1707940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 964bc3c8539bc0e6e813bcbef017314dd29aff3f36a7b3ee76d68f0df63f07d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1707940-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: напустить на себя важность, держаться высокомерно
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1707940-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1707940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とりすます
+** Accent accent-rd-1707940-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1707940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とりすます

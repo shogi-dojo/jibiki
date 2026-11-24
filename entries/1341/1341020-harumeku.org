@@ -1,0 +1,149 @@
+#+TITLE: 春めく
+#+JMDICT_ID: 1341020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はるめく
+#+ROMAJI: harumeku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1341020-001
+:PROPERTIES:
+:TEXT: 春めく
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1341020-001
+:PROPERTIES:
+:TEXT: はるめく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1341020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2e29755ce6ce118bd67719030847fe045ec1d469df88f579827b0bfa9fd86d23
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+** English glosses
+- to become spring-like
+- to show signs of spring
+** Ukrainian glosses
+*** uk-s-1341020-001-001
+:PROPERTIES:
+:END:
+- text :: ставати весняним; дихати весною; нагадувати весну
+** Learner notes
+*** note-s-1341020-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне п’ятиступеневе дієслово на -く (五段活用), утворене від іменника 春 («весна») та суфікса -めく («набувати ознак, скидатися на»). Описує погоду, світло або настрій довкілля, у яких уже відчувається наближення весни (часто у формі 春めいてくる).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1341020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日差しが少しずつ春めく。
+- READING :: ひざしがすこしずつはるめく。
+- UK :: Сонячне світло потроху стає весняним.
+- FOCUS :: 春めく
+*** ex-1341020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二月の終わりごろから、風が急に春めいてきた。
+- READING :: にがつのおわりごろから、かぜがきゅうにはるめいてきた。
+- UK :: Із кінця лютого вітер раптом став по-весняному теплим.
+- FOCUS :: 春めいてきた
+*** ex-1341020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: まだ雪が残っているものの、やわらかな光と鳥の声にどこか春めいた気配が感じられる。
+- READING :: まだゆきがのこっているものの、やわらかなひかりととりのこえにどこかはるめいたけはいがかんじられる。
+- UK :: Хоча сніг ще лежить, у м’якому світлі та співі птахів уже відчувається весняний подих.
+- FOCUS :: 春めいた
+
+* Sense s-1341020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2e3b8bec03af6e3a73f553557f15b3e3116d327739894e58ca20c5e61fc5b9c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1341020-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anzeichen für den Frühling zeigen
+*** en-s-1341020-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frühlingshaft werden
+** Ukrainian glosses
+
+* Sense s-1341020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4113d2b2a2a2884b707b633d4d0e05581c1d9a5056bf51d98df850997ccf7c3d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1341020-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: походить на весну (о погоде)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1341020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1341020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はるめく

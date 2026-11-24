@@ -1,0 +1,226 @@
+#+TITLE: 不渡り
+#+JMDICT_ID: 1494000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふわたり
+#+ROMAJI: fuwatari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1494000-001
+:PROPERTIES:
+:TEXT: 不渡り
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1494000-001
+:PROPERTIES:
+:TEXT: ふわたり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+
+* Sense s-1494000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f0c19748298da7027e1e6d9b4bcf2cd217412365e704c92ab4fff7ab4ceda6ac
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dishonouring (a bill)
+- dishonoring
+- bouncing (a cheque, check)
+- non-payment
+** Ukrainian glosses
+*** uk-s-1494000-001-001
+:PROPERTIES:
+:END:
+- text :: неоплата векселя чи чека, відмова в оплаті (через брак коштів)
+** Learner notes
+*** note-s-1494000-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансово-економічний іменник, утворений від 不 («не») та 渡る («переходити, виплачуватися»). Позначає ситуацію, коли банк відмовляє в оплаті чека або векселя в установлений строк (найчастіше через нестачу коштів на рахунку). Уживається у сталих сполученнях 不渡りを出す («допустити неоплату чека або векселя») і 不渡り手形 («опротестований вексель»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1494000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その会社は手形の不渡りを出した。
+- READING :: そのかいしゃはてがたのふわたりをだした。
+- UK :: Та компанія допустила несплату за векселем.
+- FOCUS :: 不渡り
+*** ex-1494000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 取引先の小切手が不渡りになり、経理部が慌てて対応した。
+- READING :: とりひきさきのこぎってがふわたりになり、けいりぶがあわててたいおうした。
+- UK :: Чек ділового партнера виявився незабезпеченим, і бухгалтерія поспішно почала реагувати.
+- FOCUS :: 不渡り
+*** ex-1494000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 半年以内に二度目の不渡りを出すと銀行取引が停止され、事実上の倒産状態に陥る。
+- READING :: はんとしいないににどめのふわたりをだすとぎんこうとりひきがていしされ、じじつじょうのとうさんじょうたいにおちいる。
+- UK :: Якщо протягом пів року компанія вдруге допустить несплату за векселем, банківські операції припиняються, і вона фактично опиняється на межі банкрутства.
+- FOCUS :: 不渡り
+
+* Sense s-1494000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e3e654b869b384db5bea3fe90c173fe283959053342b469e90a0520be5ea5fa4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494000-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fin.} weigering van wissel
+*** en-s-1494000-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cheque
+*** en-s-1494000-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: het niet-honoreren
+** Ukrainian glosses
+
+* Sense s-1494000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d347728756ce633cd186e70b1a1baf24c40c81d762ad91147c3b4f40d48247a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494000-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nichtbezahlung
+*** en-s-1494000-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nichthonorierung (eines Wechsels)
+** Ukrainian glosses
+
+* Sense s-1494000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 553b9184a90779196e09ed4c581da6d5730c1d29cd6d3b18f7369ede5fdbd55f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494000-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: неуплата
+*** en-s-1494000-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} не платить; не акцептировать (чек, вексель)
+*** en-s-1494000-004-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} получить отказ в акцепте
+** Ukrainian glosses
+
+* Sense s-1494000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 33106612f04e655e9f0b14e4807c975635bf3e5a9e7bf0ba25a60becdeb1ab54
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1494000-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: descubierto
+*** en-s-1494000-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: devolución de efecto impagado
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1494000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1494000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふわたり

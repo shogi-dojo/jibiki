@@ -1,0 +1,112 @@
+#+TITLE: ブリーチ
+#+JMDICT_ID: 1114140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ブリーチ
+#+ROMAJI: buriichi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1114140-001
+:PROPERTIES:
+:TEXT: ブリーチ
+:NO_KANJI: false
+:END:
+
+* Sense s-1114140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a1e7181b05067b88220092baf1e68da7563e3879fbade2060bfebaccc03ad5d7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- bleach
+- bleaching
+** Ukrainian glosses
+*** uk-s-1114140-001-001
+:PROPERTIES:
+:END:
+- text :: відбілювання; знебарвлення; вибілювач
+** Learner notes
+*** note-s-1114140-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне суру-дієслово (від англійського bleach). Найчастіше вживається у перукарстві для позначення освітлення чи знебарвлення волосся перед фарбуванням (髪をブリーチする — знебарвити волосся), а також щодо відбілювання тканин або паперу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1114140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 美容院で髪をブリーチした。
+- READING :: びよういんでかみをぶりーちした。
+- UK :: У перукарні я знебарвила волосся.
+- FOCUS :: ブリーチ
+*** ex-1114140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 明るい色を入れる前に、まずブリーチが必要だ。
+- READING :: あかるいいろをいれるまえに、まずぶりーちがひつようだ。
+- UK :: Перед тим як наносити світлу фарбу, спершу потрібне освітлення волосся.
+- FOCUS :: ブリーチ
+*** ex-1114140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何度もブリーチを繰り返すと、髪が傷みやすくなるので注意が要る。
+- READING :: なんどもぶりーちをくりかえすと、かみがいたみやすくなるのでちゅういがいる。
+- UK :: Якщо багаторазово повторювати знебарвлення, волосся стає ламким, тому варто бути обережним.
+- FOCUS :: ブリーチ
+
+* Sense s-1114140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f79e6869794dc7235edaed49015d8a5bc12b39e2d3cb31b658316df784bdbe9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1114140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bleichen
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1114140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1114140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ブリーチ

@@ -1,0 +1,138 @@
+#+TITLE: 村はずれ
+#+JMDICT_ID: 2086590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むらはずれ
+#+ROMAJI: murahazure
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2086590-001
+:PROPERTIES:
+:TEXT: 村はずれ
+:END:
+** Written form wf-2086590-002
+:PROPERTIES:
+:TEXT: 村外れ
+:END:
+** Reading rd-2086590-001
+:PROPERTIES:
+:TEXT: むらはずれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2086590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0387e7c8136f18f03203faf11f8c00e3944e9b0f6464fc09b5f5dfc4ee322d47
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- edge of town
+- outskirts of a village
+** Ukrainian glosses
+*** uk-s-2086590-001-001
+:PROPERTIES:
+:END:
+- text :: околиця села; край села
+** Learner notes
+*** note-s-2086590-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням 村 («село») і はずれ («край, межа, віддалена окраїна»). Позначає край села, де житлова забудова переходить у поля, ліс або дорогу до сусіднього поселення; часто записується також як 村外れ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2086590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 村はずれに小さな神社があります。
+- READING :: むらはずれにちいさなじんじゃがあります。
+- UK :: На околиці села стоїть невеличке святилище.
+- FOCUS :: 村はずれ
+*** ex-2086590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 村はずれの道を通って、駅まで歩きました。
+- READING :: むらはずれのみちをとおって、えきまであるきました。
+- UK :: Я пройшов дорогою на краю села аж до станції.
+- FOCUS :: 村はずれ
+*** ex-2086590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては静かな村はずれだった場所にも、今では新しい住宅が建ち並んでいる。
+- READING :: かつてはしずかなむらはずれだったばしょにも、いまではあたらしいじゅうたくがたちならんでいる。
+- UK :: Там, де колись була тиха сільська околиця, нині вже стоять ряди нових житлових будинків.
+- FOCUS :: 村はずれ
+
+* Sense s-2086590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 82890ff734538f843b9df970d331fb93ebbea176675042f963d5ea30b380d1ef
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2086590-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dorfrand
+** Ukrainian glosses
+
+* Sense s-2086590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7d1d69822c2c1f91e0d738f8f165b15b827c4544d97c3346c0f4fe5eb3d38ffd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2086590-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: окраина деревни (села), околица
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2086590-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2086590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: むらはずれ

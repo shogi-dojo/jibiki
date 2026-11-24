@@ -1,0 +1,183 @@
+#+TITLE: 国法
+#+JMDICT_ID: 1746480
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こくほう
+#+ROMAJI: kokuhou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1746480-001
+:PROPERTIES:
+:TEXT: 国法
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1746480-001
+:PROPERTIES:
+:TEXT: こくほう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1746480-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2939322dc86d564df4d62834740f838e9b86fcb8ece96a4c6a2642ffb1590ae8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- national law
+** Ukrainian glosses
+*** uk-s-1746480-001-001
+:PROPERTIES:
+:END:
+- text :: державний закон, законодавство країни
+** Learner notes
+*** note-s-1746480-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і юридичний іменник, утворений із 国 (країна, держава) та 法 (закон, право). Позначає сукупність правових норм і законів, установлених державою; зазвичай трапляється в офіційних, історичних або літературних текстах (у побуті частіше кажуть 国の法律).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1746480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国民は国法を守らなければならない。
+- READING :: こくみんはこくほうをまもらなければならない。
+- UK :: Громадяни повинні дотримуватися державних законів.
+- FOCUS :: 国法
+*** ex-1746480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: たとえ王であっても、国の定めた国法を無視することは許されない。
+- READING :: たとえおうであっても、くにのさだめたこくほうをむしすることはゆるされない。
+- UK :: Навіть королю не дозволено нехтувати законами, установленими державою.
+- FOCUS :: 国法
+*** ex-1746480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国際条約を批准したのち、国内での実効性を確保するため関連する国法の整備が行われた。
+- READING :: こくさいじょうやくをひじゅんしたのち、こくないでのじっこうせいをかくほするためかんれんするこくほうのせいびがおこなわれた。
+- UK :: Після ратифікації міжнародного договору було впорядковано відповідне національне законодавство, щоб забезпечити його дієвість усередині країни.
+- FOCUS :: 国法
+
+* Sense s-1746480-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a8bcf793065471b2845483f5b31fb1fb17afa4c03b1d8725639a1065045357fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746480-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rijkswet
+** Ukrainian glosses
+
+* Sense s-1746480-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 76d5af537623c378e8797436a6a4082b48739810219194a8dba714413b58880e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746480-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: staatsrecht
+** Ukrainian glosses
+
+* Sense s-1746480-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b8908362a5663405fb731adec0af8ef86d1dbc59fd6b7b3cdb35bd0532ee7b40
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746480-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Staatsrecht
+*** en-s-1746480-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Staatsgesetz
+** Ukrainian glosses
+
+* Sense s-1746480-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ffed96863c8fbcd87fec73836738ab570e1ee8cda4312dff36bf96ee29c54de6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746480-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: государственные законы, законы страны
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1746480-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1746480-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こくほう

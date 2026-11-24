@@ -1,0 +1,170 @@
+#+TITLE: 座頭鯨
+#+JMDICT_ID: 1842880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ざとうくじら
+#+ROMAJI: zatoukujira
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1842880-001
+:PROPERTIES:
+:TEXT: 座頭鯨
+:END:
+*** Information
+- rK
+** Reading rd-1842880-001
+:PROPERTIES:
+:TEXT: ざとうくじら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1842880-002
+:PROPERTIES:
+:TEXT: ザトウクジラ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1842880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: adef713da80573681025c53cb81538922e52da0d68d1c685a08f2b747c7356a1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- humpback whale (Megaptera novaeangliae)
+** Ukrainian glosses
+*** uk-s-1842880-001-001
+:PROPERTIES:
+:END:
+- text :: горбатий кит; кит-горбач
+** Learner notes
+*** note-s-1842880-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, назва морського ссавця (зазвичай пишеться каною як ザトウクジラ). Ієрогліфічний запис пов'язаний зі словом 座頭 (сліпий музикант із лютнею біва на спині — вигин спини кита під час пірнання нагадував такий силует).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1842880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 海で座頭鯨を見た。
+- READING :: うみでざとうくじらをみた。
+- UK :: Я бачив у морі горбатого кита.
+- FOCUS :: 座頭鯨
+*** ex-1842880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬になると座頭鯨が暖かい海に現れる。
+- READING :: ふゆになるとざとうくじらがあたたかいうみにあらわれる。
+- UK :: Узимку горбаті кити з'являються в теплих морях.
+- FOCUS :: 座頭鯨
+*** ex-1842880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 沖縄の周辺海域は、子育てのために回遊してくる座頭鯨の観察スポットとして知られている。
+- READING :: おきなわのしゅうへんかいいきは、こそだてのためにかいゆうしてくるざとうくじらのかんさつすぽっととしてしられている。
+- UK :: Води навколо Окінави відомі як місце спостереження за горбатими китами, які припливають сюди для виведення потомства.
+- FOCUS :: 座頭鯨
+
+* Sense s-1842880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0af412f51d25a20af6e9c893460806f03bc4613681687f4dc460b935f754df82
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842880-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buckelwal
+*** en-s-1842880-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Megaptera novaeangliae
+** Ukrainian glosses
+
+* Sense s-1842880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b6a9e3ab3f69b8a24b13d8854ac7cf9c8057edd3e31a1b030a53042c27c11f18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842880-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: горбатый кит, кит-горбач, Megaptera nodosa (Bonn.)
+** Ukrainian glosses
+
+* Sense s-1842880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6edd2a48d0662f44a7174ed8ffca71bf821afc653324175ea0492f9c51a9a11c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1842880-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: knölval
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1842880-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1842880-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ざとうくじら

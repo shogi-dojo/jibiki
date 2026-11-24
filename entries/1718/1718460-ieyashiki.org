@@ -1,0 +1,186 @@
+#+TITLE: 家屋敷
+#+JMDICT_ID: 1718460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いえやしき
+#+ROMAJI: ieyashiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1718460-001
+:PROPERTIES:
+:TEXT: 家屋敷
+:END:
+** Reading rd-1718460-001
+:PROPERTIES:
+:TEXT: いえやしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1718460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ed073c51464bb5f047319bc9b5616e8b703dce9d5b90a4807c38fb4d7b58bf6e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- estate
+- homestead
+- house and land (it stands on)
+- messuage
+** Ukrainian glosses
+*** uk-s-1718460-001-001
+:PROPERTIES:
+:END:
+- text :: садиба; будинок із прилеглою ділянкою
+** Learner notes
+*** note-s-1718460-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений поєднанням слів 家 (дім) та 屋敷 (садиба, обійстя). Позначає нерухомість у сукупності — житловий будинок разом із землею та господарськими будівлями довкола нього.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1718460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父から家屋敷を受け継いだ。
+- READING :: そふからいえやしきをうけついだ。
+- UK :: Я успадкував садибу від дідуся.
+- FOCUS :: 家屋敷
+*** ex-1718460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 借金を返すために、代々守ってきた家屋敷を手放すことになった。
+- READING :: しゃっきんをかえすために、だいだいまもってきたいえやしきをてばなすことになった。
+- UK :: Щоб сплатити борги, довелося продати садибу, яку берегли з покоління в покоління.
+- FOCUS :: 家屋敷
+*** ex-1718460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 田舎の広い家屋敷を維持していくには、想像以上の手間と費用がかかるものだ。
+- READING :: いなかのひろいいえやしきをいじしていくには、そうぞういじょうのてまとひようがかかるものだ。
+- UK :: Утримання великої сільської садиби потребує набагато більше зусиль і витрат, ніж можна уявити.
+- FOCUS :: 家屋敷
+
+* Sense s-1718460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a05d9f5004e21b814ca9d8ee07894f7a849b4f45669fa6772d2c13130ba3bb41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1718460-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huis met erf en bijgebouwen
+*** en-s-1718460-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: huis met aanhorigheden
+*** en-s-1718460-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grond met opstallen
+** Ukrainian glosses
+
+* Sense s-1718460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4e7f4f1df0fc842d64f0262f6f632ff488fc50e0d72b557787db5100b3039993
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1718460-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anwesen
+*** en-s-1718460-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haus und Hof
+*** en-s-1718460-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haus und das dazugehörige Grundstück
+** Ukrainian glosses
+
+* Sense s-1718460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e19392e39224f951f1be3c42e2935d223e7f9b606a4b67f7cc1d15e16a677492
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1718460-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: усадьба
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1718460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1718460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: いえやしき

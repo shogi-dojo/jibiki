@@ -1,0 +1,133 @@
+#+TITLE: 幕政
+#+JMDICT_ID: 1670770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばくせい
+#+ROMAJI: bakusei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1670770-001
+:PROPERTIES:
+:TEXT: 幕政
+:END:
+** Reading rd-1670770-001
+:PROPERTIES:
+:TEXT: ばくせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1670770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a93859ca2de18bcf72546864034354b9558630fa02a7aa3e5b315faa647ddc86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- the shogunate (administration)
+** Ukrainian glosses
+*** uk-s-1670770-001-001
+:PROPERTIES:
+:END:
+- text :: правління шьоґунату; адміністрація бакуфу
+** Learner notes
+*** note-s-1670770-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник, складений із 幕 (від 幕府 — бакуфу, військовий уряд) та 政 (політика, управління). Позначає політичний устрій або державне управління в добу шьоґунатів Камакура, Муромачі та Едо, зокрема у терміні 幕政改革 (реформи шьоґунату).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1670770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代の幕政について学んだ。
+- READING :: えどじだいのばくせいについてまなんだ。
+- UK :: Ми вивчали правління шьоґунату доби Едо.
+- FOCUS :: 幕政
+*** ex-1670770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 財政を立て直すため、江戸中期には大規模な幕政改革が何度か行われた。
+- READING :: ざいせいをたてなおすため、えどちゅうきにはだいきぼなばくせいかいかくがなんどかおこなわれた。
+- UK :: Щоб оздоровити фінанси, у середині доби Едо кілька разів проводилися масштабні реформи правління шьоґунату.
+- FOCUS :: 幕政
+*** ex-1670770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 幕末に近づくにつれて幕政への不満が高まり、各地で新たな時代を求める動きが広がった。
+- READING :: ばくまつにちかづくにつれてばくせいへのふまんがたかまり、かくちであらたなじだいをもとめるうごきがひろがった。
+- UK :: З наближенням кінця доби Едо невдоволення політикою шьоґунату зростало, і по всій країні ширилися прагнення до нової епохи.
+- FOCUS :: 幕政
+
+* Sense s-1670770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f1f707c2542bd90d6bbadca52244836af128bd167472b7e7b7afc113fddddc62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670770-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Shōgunatspolitik
+** Ukrainian glosses
+
+* Sense s-1670770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 323cce413a600bb101069f52dd157ae3e63fb7866cac4c077459b7dd72dbe3e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670770-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) сёгунат, правление сёгунов; режим сёгуната
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1670770-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1670770-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ばくせい

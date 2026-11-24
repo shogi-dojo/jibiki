@@ -1,0 +1,179 @@
+#+TITLE: オーライ
+#+JMDICT_ID: 1033390
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: オーライ
+#+ROMAJI: oorai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1033390-001
+:PROPERTIES:
+:TEXT: オーライ
+:NO_KANJI: false
+:END:
+** Reading rd-1033390-002
+:PROPERTIES:
+:TEXT: オライ
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1033390-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e20b4688f130fe3f1465f1c9e43f7af388bf067215432fdfd6dbc1f18cd003a6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- int
+** English glosses
+- all right (e.g. when guiding a driver)
+- keep coming
+- OK
+- I've got it
+** Ukrainian glosses
+*** uk-s-1033390-001-001
+:PROPERTIES:
+:END:
+- text :: добре, гаразд, можна (команда при керуванні рухом); усе в порядку
+** Learner notes
+*** note-s-1033390-001-001
+:PROPERTIES:
+:END:
+- UK :: Вигук, запозичений з англійської мови (all right). Найчастіше використовується, коли хтось допомагає водієві паркуватися або здавати назад («давай, усе чисто, можна їхати!» — наприклад, バック、オーライ «назад, усе гаразд!»), а також у розмовному вислові 準備オーライ («усе готово»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1033390-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 「そのまま下がって、オーライ！」と声をかけた。
+- READING :: 「そのままさがって、おーらい！」とこえをかけた。
+- UK :: «Здавай назад так само, усе чисто!» — гукнув я.
+- FOCUS :: オーライ
+*** ex-1033390-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 狭い駐車場で、妻が後ろを見ながら「もう少し、オーライ」と誘導してくれた。
+- READING :: せまいちゅうしゃじょうで、つまがうしろをみながら「もうすこし、おーらい」とゆうどうしてくれた。
+- UK :: На тісній парковці дружина, дивлячись позаду, скеровувала мене: «Ще трохи, можна!»
+- FOCUS :: オーライ
+*** ex-1033390-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: トラックが安全にバックできるよう、警備員が笛を吹きながら大きな声でオーライと合図を出した。
+- READING :: とらっくがあんぜんにばっくできるよう、けいびいんがふえをふきながらおおきなこえでおーらいとあいずをだした。
+- UK :: Щоб вантажівка могла безпечно здати назад, охоронець свистів у свисток і голосно подавав сигнал, що шлях вільний.
+- FOCUS :: オーライ
+
+* Sense s-1033390-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5e5d992a064ca4aa06125531e954d162487b5573056ca527e492abe1c46a1032
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1033390-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: OK
+*** en-s-1033390-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in Ordnung
+*** en-s-1033390-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Jawohl!
+*** en-s-1033390-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fertig!
+** Ukrainian glosses
+
+* Sense s-1033390-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bf25a389b7ff55cf3162a1a1b66885d9089ac85b0bddd1f1c11b00092575d7a3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1033390-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) all right) ладно, хорошо; можно
+** Ukrainian glosses
+
+* Sense s-1033390-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 390e05bfb9efd7c8faf9e6af6cfdb4ec8c8a493526b5938b958ce24bd11907c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1033390-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nåväl
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1033390-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1033390-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: オーライ

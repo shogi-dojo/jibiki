@@ -1,0 +1,201 @@
+#+TITLE: 二十世紀
+#+JMDICT_ID: 1462040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にじっせいき
+#+ROMAJI: nijisseiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1462040-001
+:PROPERTIES:
+:TEXT: 二十世紀
+:END:
+*** Priorities
+- news1
+- nf11
+** Written form wf-1462040-002
+:PROPERTIES:
+:TEXT: ２０世紀
+:END:
+** Reading rd-1462040-001
+:PROPERTIES:
+:TEXT: にじっせいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+** Reading rd-1462040-002
+:PROPERTIES:
+:TEXT: にじゅっせいき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1462040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 120d9238ebe16d717d4e64def1aaa82b67f0a4505b7335e97a9602d56e1e0cb9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- twentieth century
+** Ukrainian glosses
+*** uk-s-1462040-001-001
+:PROPERTIES:
+:END:
+- text :: двадцяте століття; XX століття
+** Learner notes
+*** note-s-1462040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає історичний період від тисяча дев’ятсот першого до двохтисячного року. Традиційно вимовляється як にじっせいき, хоча в сучасному мовленні також поширений варіант にじゅっせいき.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1462040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二十世紀は科学が大きく進んだ。
+- READING :: にじっせいきはかがくがおおきくすすんだ。
+- UK :: У двадцятому столітті наука зробила великий крок уперед.
+- FOCUS :: 二十世紀
+*** ex-1462040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 二十世紀には多くの技術が生まれた。
+- READING :: にじっせいきにはおおくのぎじゅつがうまれた。
+- UK :: У двадцятому столітті виникло багато технологій.
+- FOCUS :: 二十世紀
+*** ex-1462040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この美術館では二十世紀の代表的な絵画を展示している。
+- READING :: このびじゅつかんではにじっせいきのだいひょうてきなかいがをてんじしている。
+- UK :: У цьому художньому музеї експонуються визначні картини двадцятого століття.
+- FOCUS :: 二十世紀
+
+* Sense s-1462040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ae0656ff5fc50cfb2db9975a1d2ee41511d1e593d1d3693c6bc283f479563765
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 梨
+** English glosses
+- Nijisseiki pear (variety of nashi)
+- Nijusseiki pear
+** Ukrainian glosses
+*** uk-s-1462040-002-001
+:PROPERTIES:
+:END:
+- text :: груша сорту «Ніджіссейкі» (різновид японської груші наші)
+** Learner notes
+*** note-s-1462040-002-001
+:PROPERTIES:
+:END:
+- UK :: Популярний в Японії сорт соковитої груші зі світло-зеленою шкіркою, виведений наприкінці дев’ятнадцятого століття в префектурі Чіба. Основним регіоном її вирощування нині є префектура Тотторі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1462040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9339b3aae979a31874b17e8365ae7f4018fce3fa9c6ba89caa097b38254e0086
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1462040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: двадцатый век
+** Ukrainian glosses
+
+* Sense s-1462040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c40490582702a116091a97bc733a69ff2636b3bb6fbeb1ccde701df727ac4381
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1462040-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: siglo veinte
+*** en-s-1462040-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: siglo XX
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1462040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1462040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にじっせいき
+** Accent accent-rd-1462040-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1462040-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にじゅっせいき

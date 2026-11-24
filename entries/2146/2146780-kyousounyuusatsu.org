@@ -1,0 +1,137 @@
+#+TITLE: 競争入札
+#+JMDICT_ID: 2146780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうそうにゅうさつ
+#+ROMAJI: kyousounyuusatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2146780-001
+:PROPERTIES:
+:TEXT: 競争入札
+:END:
+*** Priorities
+- spec1
+** Reading rd-2146780-001
+:PROPERTIES:
+:TEXT: きょうそうにゅうさつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- spec1
+
+* Sense s-2146780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0a9774998529fa7e2d0b8fc9671fa9af2b0c1113f564df073a6179014ef8bf22
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- competitive bidding (esp. for government contracts)
+** Ukrainian glosses
+*** uk-s-2146780-001-001
+:PROPERTIES:
+:END:
+- text :: конкурсні торги; тендер
+** Learner notes
+*** note-s-2146780-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і адміністративний термін, складений із 競争 («конкуренція») та 入札 («подання заявки на торгах»). Означає спосіб укладання державних чи корпоративних контрактів через змагання пропозицій учасників, зокрема 一般競争入札 («відкритий тендер»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2146780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 市は競争入札を行った。
+- READING :: しはきょうそうにゅうさつをおこなった。
+- UK :: Місто провело конкурсні торги.
+- FOCUS :: 競争入札
+*** ex-2146780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい橋の建設工事は競争入札で業者が決まった。
+- READING :: あたらしいはしのけんせつこうじはきょうそうにゅうさつでぎょうしゃがきまった。
+- UK :: Підрядника для будівництва нового мосту визначили через тендер.
+- FOCUS :: 競争入札
+*** ex-2146780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 公共事業の透明性を高めるため、原則として一般競争入札が導入されている。
+- READING :: こうきょうじぎょうのとうめいせいをたかめるため、げんそくとしていっぱんきょうそうにゅうさつがどうにゅうされている。
+- UK :: Щоб підвищити прозорість державних закупівель, як загальне правило запроваджено відкриті конкурсні торги.
+- FOCUS :: 競争入札
+
+* Sense s-2146780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: daf029ed5eb770939c53e716a533610042f5cdc59ee1816bbdbfba793611f4ec
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2146780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wettbewerbsausschreibung
+** Ukrainian glosses
+
+* Sense s-2146780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: df50827757ba2c3b2b1a1285ae92f5473b350c22608abcd089b595cb690705a4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2146780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} подавать запечатанную заявку на торгах
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2146780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2146780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きょうそうにゅうさつ

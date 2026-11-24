@@ -1,0 +1,133 @@
+#+TITLE: 古戦場
+#+JMDICT_ID: 1265690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こせんじょう
+#+ROMAJI: kosenjou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1265690-001
+:PROPERTIES:
+:TEXT: 古戦場
+:END:
+** Reading rd-1265690-001
+:PROPERTIES:
+:TEXT: こせんじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1265690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2977e87ef3e845daee97576fdb9f3ca6aea1264ac8a24a72f2ed1f55a5470ac9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ancient battlefield
+** Ukrainian glosses
+*** uk-s-1265690-001-001
+:PROPERTIES:
+:END:
+- text :: місце давньої битви, історичне поле бою
+** Learner notes
+*** note-s-1265690-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 古 (давній, стародавній) та 戦場 (поле бою). Позначає історичну місцевість, де в минулі епохи відбулася відома битва; в Японії такі місця часто є пам'ятками історії та туристичними об'єктами (наприклад, 関ヶ原の古戦場 — «поле битви при Секіґахарі»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1265690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 休みに古戦場を訪れました。
+- READING :: やすみにこせんじょうをおとずれました。
+- UK :: На вихідних я відвідав поле давньої битви.
+- FOCUS :: 古戦場
+*** ex-1265690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この静かな丘は、かつて激しい戦いが繰り広げられた古戦場だ。
+- READING :: このしずかなおかは、かつてはげしいたたかいがくりひろげられたこせんじょうだ。
+- UK :: Цей тихий пагорб — колишнє поле бою, де колись точилася запекла битва.
+- FOCUS :: 古戦場
+*** ex-1265690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史ファンに人気のその古戦場跡には、当時の武将をしのぶ石碑が点在している。
+- READING :: れきしふぁんににんきのそのこせんじょうあとには、とうじのぶしょうをしのぶせきひがてんざいしている。
+- UK :: На території того історичного поля бою, популярного серед шанувальників історії, розкидані кам'яні стели на згадку про тогочасних полководців.
+- FOCUS :: 古戦場
+
+* Sense s-1265690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cddcb0cfeebc4773d890b76968be0a8e1d5b9af285ebc5779029ae0c780e1c48
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: historisches Schlachtfeld
+** Ukrainian glosses
+
+* Sense s-1265690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 098026b54943419c3f0cf737e70fd70a60e846d167c947bc38b4163a41f295f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поле давней битвы, поля былых сражений
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1265690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1265690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こせんじょう

@@ -1,0 +1,220 @@
+#+TITLE: 薬代
+#+JMDICT_ID: 1796570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くすりだい
+#+ROMAJI: kusuridai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1796570-001
+:PROPERTIES:
+:TEXT: 薬代
+:END:
+*** Priorities
+- news2
+- nf43
+** Reading rd-1796570-001
+:PROPERTIES:
+:TEXT: くすりだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf43
+** Reading rd-1796570-002
+:PROPERTIES:
+:TEXT: やくだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1796570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b3cee358c65870a640164cadc2b7d47d3c5620fc1f3a4c7116bde91dd680efbe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- charge for medicine
+** Ukrainian glosses
+*** uk-s-1796570-001-001
+:PROPERTIES:
+:END:
+- text :: вартість ліків; плата за ліки
+** Learner notes
+*** note-s-1796570-001-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий іменник, утворений приєднанням суфікса ～代 («плата, вартість») до слова 薬 («ліки»). Основне читання — くすりだい, а форма やくだい звучить більш офіційно або книжно.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1796570-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 薬局で薬代を払った。
+- READING :: やっきょくでくすりだいをはらった。
+- UK :: Я заплатив за ліки в аптеці.
+- FOCUS :: 薬代
+*** ex-1796570-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 保険証を出したので、思ったより薬代が安かった。
+- READING :: ほけんしょうをだしたので、おもったよりくすりだいがやすかった。
+- UK :: Я показав страховий поліс, тож вартість ліків виявилася меншою, ніж я очікував.
+- FOCUS :: 薬代
+*** ex-1796570-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 毎月の診察費と薬代が家計を圧迫しているため、ジェネリック医薬品への切り替えを検討している。
+- READING :: まいつきのしんさつひとくすりだいがかけいをあっぱくしているため、じぇねりっくいやくひんへのきりかえをけんとうしている。
+- UK :: Оскільки щомісячні витрати на прийом у лікаря та ліки обтяжують сімейний бюджет, я розглядаю перехід на генерики.
+- FOCUS :: 薬代
+
+* Sense s-1796570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b17018dc65f222e8f65faab78369186a86b0fd0d34bf3f064e7b389657849895
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796570-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geneesmiddelenprijs
+*** en-s-1796570-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medicijnkosten
+*** en-s-1796570-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: apothekersrekening
+*** en-s-1796570-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: doktersrekening
+*** en-s-1796570-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: honorarium
+** Ukrainian glosses
+
+* Sense s-1796570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3ee52435998a3d1eafe9b2e7407312aea546f7167b51a7e70862650d0916cbfe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796570-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneikosten
+*** en-s-1796570-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneirechnung
+*** en-s-1796570-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Behandlungshonorar
+** Ukrainian glosses
+
+* Sense s-1796570-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 15d61e065989b10cb3e5b121a1451d09e86c8c89ebe18446fad068edc2c2b857
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796570-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за лекарство; стоимость лекарства
+*** en-s-1796570-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за лекарство
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1796570-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1796570-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くすりだい

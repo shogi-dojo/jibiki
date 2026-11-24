@@ -1,0 +1,135 @@
+#+TITLE: 元寇
+#+JMDICT_ID: 1261120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんこう
+#+ROMAJI: genkou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1261120-001
+:PROPERTIES:
+:TEXT: 元寇
+:END:
+** Reading rd-1261120-001
+:PROPERTIES:
+:TEXT: げんこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1261120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cece53901533120b597296a88a1ba38bafc9ff8dd1e1a2c97606ef7252ba7a5a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- Mongol invasions of Japan (1274, 1281)
+** Ukrainian glosses
+*** uk-s-1261120-001-001
+:PROPERTIES:
+:END:
+- text :: монгольські вторгнення до Японії (1274 і 1281 рр.); монгольська навала
+** Learner notes
+*** note-s-1261120-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник, утворений від назви династії 元 (Юань) та ієрогліфа 寇 («напад», «загарбник»). Позначає два невдалі походи монгольсько-корейського флоту на Кюшю за часів шьоґунату Камакура, відомі також як 文永の役 і 弘安の役.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1261120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で元寇について学びました。
+- READING :: れきしのじゅぎょうでげんこうについてまなびました。
+- UK :: На уроці історії ми вивчали монгольські вторгнення до Японії.
+- FOCUS :: 元寇
+*** ex-1261120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 元寇のあと、幕府は九州の守りを強めた。
+- READING :: げんこうのあと、ばくふはきゅうしゅうのまもりをつよめた。
+- UK :: Після монгольських вторгнень шьоґунат посилив оборону Кюшю.
+- FOCUS :: 元寇
+*** ex-1261120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 元寇を描いた絵巻物は、当時の戦いの様子を今に伝えている。
+- READING :: げんこうをえがいたえまきものは、とうじのたたかいのようすをいまにつたえている。
+- UK :: Сувої із зображеннями монгольських вторгнень доносять до нас картину тогочасних битв.
+- FOCUS :: 元寇
+
+* Sense s-1261120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f7cdf3e1984e9e094c2b701f22925bee03d92aeafb957bc8a010fe6f94b8c27f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mongoleninvasionen in Japan (von 1274 und 1281)
+** Ukrainian glosses
+
+* Sense s-1261120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 50ef4439927720f04a1da6c21f2605c399131453624e1cd6d63821f7cba10087
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1261120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) монгольское нашествие
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1261120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1261120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: げんこう

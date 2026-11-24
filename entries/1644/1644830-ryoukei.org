@@ -1,0 +1,184 @@
+#+TITLE: 量刑
+#+JMDICT_ID: 1644830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょうけい
+#+ROMAJI: ryoukei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1644830-001
+:PROPERTIES:
+:TEXT: 量刑
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1644830-001
+:PROPERTIES:
+:TEXT: りょうけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1644830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8584d230a65fe8b74311d9e46d944add5b7dbc63e05bcba7e579bd5db7e03f33
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- judge's sentence
+- assessment of a case
+** Ukrainian glosses
+*** uk-s-1644830-001-001
+:PROPERTIES:
+:END:
+- text :: визначення міри покарання; призначення покарання (судом)
+** Learner notes
+*** note-s-1644830-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (іменник і неперехідне дієслово із する — 量刑する), що позначає оцінювання суддею обставин справи й обрання відповідної міри покарання для підсудного. Утворюється з 量 («зважувати, вимірювати») та 刑 («покарання»); типові сполучення — 量刑が重い («суворе покарання») та 量刑の判断.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1644830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 裁判官が被告の量刑を決めました。
+- READING :: さいばんかんがひこくのりょうけいをきめました。
+- UK :: Суддя визначив міру покарання для підсудного.
+- FOCUS :: 量刑
+*** ex-1644830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今回の事件では、反省の態度が量刑に影響を与えるかどうかが注目されています。
+- READING :: こんかいのじけんでは、はんせいのたいどがりょうけいにえいきょうをあたえるかどうかがちゅうもくされています。
+- UK :: У цій справі увага прикута до того, чи вплине щире каяття на міру покарання.
+- FOCUS :: 量刑
+*** ex-1644830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 過去の類似した判例と照らし合わせながら、裁判所は慎重に量刑の重さを検討した。
+- READING :: かこのるいじしたはんれいとてらしあわせながら、さいばんしょはしんちょうにりょうけいのおもさをけんとうした。
+- UK :: Зіставляючи справу з подібними попередніми прецедентами, суд ретельно зважив суворість покарання.
+- FOCUS :: 量刑
+
+* Sense s-1644830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8818a9ed086911a209239fcd5285176089bd31bdc96c4bc712816335221f3fc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1644830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Strafzumessung
+*** en-s-1644830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Festsetzung des Strafmaßes
+** Ukrainian glosses
+
+* Sense s-1644830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 92859ba8f56663f80f712cc138e348d3ec36546ead1275fcff145f16b6719dc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1644830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: взвешивание (определение тяжести) проступка
+** Ukrainian glosses
+
+* Sense s-1644830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: acb87c3169cb7970158b63de12a6eb414dcb1f2f426e88a8e3b810247a2039a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1644830-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fijación de la pena
+*** en-s-1644830-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: determinación de la pena
+*** en-s-1644830-004-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gradación de la pena
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1644830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1644830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りょうけい

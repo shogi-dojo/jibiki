@@ -1,0 +1,156 @@
+#+TITLE: ドッジボール
+#+JMDICT_ID: 1088310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ドッジボール
+#+ROMAJI: dojjibooru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1088310-001
+:PROPERTIES:
+:TEXT: ドッジボール
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1088310-002
+:PROPERTIES:
+:TEXT: ドッヂボール
+:NO_KANJI: false
+:END:
+** Reading rd-1088310-003
+:PROPERTIES:
+:TEXT: ドッチボール
+:NO_KANJI: false
+:END:
+
+* Sense s-1088310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6f7fb40e1da26f293b4adcc6cd6d044e104bae894da35a508f420495625666f5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- dodgeball
+** Ukrainian glosses
+*** uk-s-1088310-001-001
+:PROPERTIES:
+:END:
+- text :: вибивний (гра в м'яч), доджбол
+** Learner notes
+*** note-s-1088310-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (dodgeball). Надзвичайно популярна командна гра з м'ячем у японських початкових школах, де гравці намагаються вибити суперників кидком м'яча або ухилитися від нього.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1088310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 昼休みに校庭でドッジボールをした。
+- READING :: ひるやすみにこうていでどっじぼーるをした。
+- UK :: На обідній перерві ми грали у вибивного на шкільному подвір'ї.
+- FOCUS :: ドッジボール
+*** ex-1088310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 小学生のころは、体育の時間のドッジボールが一番の楽しみだった。
+- READING :: しょうがくせいのころは、たいいくのじかんのどっじぼーるがいちばんのたのしみだった。
+- UK :: У молодших класах гра у вибивного на уроці фізкультури була найбільшою радістю.
+- FOCUS :: ドッジボール
+*** ex-1088310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 相手の鋭いボールをぎりぎりでよけながら戦うドッジボールは、反射神経を鍛えるのにちょうどいい。
+- READING :: あいてのするどいぼーるをぎりぎりでよけながらたたかうどっじぼーるは、はんしゃしんけいをきたえるのにちょうどいい。
+- UK :: Доджбол, у якому доводиться в останню мить ухилятися від сильних кидків суперника, чудово тренує швидкість реакції.
+- FOCUS :: ドッジボール
+
+* Sense s-1088310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f504715ea15985ed45f9832e9fe3c80b37231ddf4e8f4d2c7c67afc2072d691e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1088310-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dodge Ball (Spiel, bei dem eine im Kreis stehende Mannschaft eine innerhalb des Kreis stehende Mannschaft mit einem Ball abzuwerfen versucht)
+** Ukrainian glosses
+
+* Sense s-1088310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 663e1a42143fabd5faf8afeddd0d23a11fb3752e8d2743017d6bcb9ddf5fa110
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1088310-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((амер.) dodge ball) (спорт.) доджбол
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1088310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1088310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ドッジボール
+** Accent accent-rd-1088310-003-001
+:PROPERTIES:
+:TARGET_ID: rd-1088310-003
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ドッチボール

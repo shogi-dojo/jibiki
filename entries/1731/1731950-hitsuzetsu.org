@@ -1,0 +1,160 @@
+#+TITLE: 筆舌
+#+JMDICT_ID: 1731950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひつぜつ
+#+ROMAJI: hitsuzetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1731950-001
+:PROPERTIES:
+:TEXT: 筆舌
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1731950-001
+:PROPERTIES:
+:TEXT: ひつぜつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1731950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a191311cde0982dd9ad80248c8f786d97c41ddcaf7525911e5e653018761a100
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 筆舌に尽くしがたい
+** English glosses
+- written and spoken words
+- description
+** Ukrainian glosses
+*** uk-s-1731950-001-001
+:PROPERTIES:
+:END:
+- text :: письмо й усна мова; словесний опис (досл. пензель і язик)
+** Learner notes
+*** note-s-1731950-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений із 筆 («пензель для письма») та 舌 («язик, мовлення»). У сучасній мові майже виключно вживається у сталих заперечних зворотах 筆舌に尽くしがたい або 筆舌も及ばない («ні пером описати, ні словами передати; невимовний»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1731950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その景色の美しさは筆舌に尽くしがたい。
+- READING :: そのけしきのうつくしさはひつぜつにつくしがたい。
+- UK :: Красу того краєвиду неможливо передати словами.
+- FOCUS :: 筆舌
+*** ex-1731950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 震災を経験した人々の苦労は、筆舌では表せないほど大きかった。
+- READING :: しんさいをけいけんしたひとびとのくろうは、ひつぜつではあらわせないほどおおきかった。
+- UK :: Страждання людей, які пережили землетрус, були настільки великими, що їх не описати жодними словами.
+- FOCUS :: 筆舌
+*** ex-1731950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長年にわたる苦難を乗り越えて勝利をつかんだ選手の喜びは、まさに筆舌に尽くしがたいものだった。
+- READING :: ながねんにわたるくなんをのりこえてしょうりをつかんだせんしゅのよろこびは、まさにひつぜつにつくしがたいものだった。
+- UK :: Радість спортсмена, який після багаторічних труднощів здобув перемогу, була справді невимовною.
+- FOCUS :: 筆舌
+
+* Sense s-1731950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 80e761cc535303f80a72d0c29ceb3c606d9e20beda903d00977a5ebb995fcf09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1731950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schrift und Wort
+** Ukrainian glosses
+
+* Sense s-1731950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6a782c60f1d630919fc7d11184e33026c92a43aada5e2631e1186df07428db46
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1731950-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leírás
+** Ukrainian glosses
+
+* Sense s-1731950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7744e6ca65d342a93107d849751e8caa2a2e4969f589aea4f28f0d87cc835990
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1731950-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) письмо и речь ((букв.) кисть и язык)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1731950-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1731950-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひつぜつ

@@ -1,0 +1,153 @@
+#+TITLE: くし形
+#+JMDICT_ID: 2560670
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くしがた
+#+ROMAJI: kushigata
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2560670-001
+:PROPERTIES:
+:TEXT: くし形
+:END:
+** Written form wf-2560670-002
+:PROPERTIES:
+:TEXT: 櫛形
+:END:
+** Reading rd-2560670-001
+:PROPERTIES:
+:TEXT: くしがた
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2560670-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f23c189f0a41cf7030e309fd6756eaef25dbee4d16495ef6d88a4a2b956f2935
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-no
+** English glosses
+- comb-shaped
+** Ukrainian glosses
+*** uk-s-2560670-001-001
+:PROPERTIES:
+:END:
+- text :: гребенеподібний; у формі гребеня; серпоподібний; часточками (у кулінарії)
+** Learner notes
+*** note-s-2560670-001-001
+:PROPERTIES:
+:END:
+- UK :: の-прикметник, утворений від 櫛 (традиційний японський напівкруглий гребінь) і 形 (форма). У побуті й кулінарії часто позначає спосіб нарізання овочів чи цитрусових часточками (くし形切り), а в архітектурі — плавну дугоподібну форму на кшталт старовинного гребеня.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2560670-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: トマトをくし形に切りました。
+- READING :: とまとをくしがたにきりました。
+- UK :: Я нарізав помідор часточками.
+- FOCUS :: くし形
+*** ex-2560670-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: くし形のレモンを料理の横に添えると彩りがよくなる。
+- READING :: くしがたのれもんをりょうりのよこにそえるといろどりがよくなる。
+- UK :: Якщо покласти збоку до страви часточку лимона в формі півмісяця, вона матиме яскравіший вигляд.
+- FOCUS :: くし形
+*** ex-2560670-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この寺院の古い建物には、くし形の美しい窓が残されている。
+- READING :: このじいんのふるいたてものには、くしがたのうつくしいまどがのこされている。
+- UK :: У старій будівлі цього храму збереглося гарне вікно дугоподібної форми, схожої на гребінь.
+- FOCUS :: くし形
+
+* Sense s-2560670-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3023ffea61cc09bd7ea1a63137e382a8d6fcc8ed7a3a732c09600294ca98a91e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2560670-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kammform
+*** en-s-2560670-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kammförmig
+** Ukrainian glosses
+
+* Sense s-2560670-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 913054a741ed22fd8150a7ae92e1e1a41c3c7769efc6e819e1937816f20e20bf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2560670-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1): {～の} аркообразный
+*** en-s-2560670-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) решётчатое окно (очень широкое и низкое с дугообразным верхом)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2560670-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2560670-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くしがた

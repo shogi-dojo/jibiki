@@ -1,0 +1,228 @@
+#+TITLE: 送り状
+#+JMDICT_ID: 1709660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おくりじょう
+#+ROMAJI: okurijou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1709660-001
+:PROPERTIES:
+:TEXT: 送り状
+:END:
+** Reading rd-1709660-001
+:PROPERTIES:
+:TEXT: おくりじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1709660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b850b3e557f65852953a2596ec3143dd50c1e451743202d43331365a979cda18
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 仕切り書
+** English glosses
+- invoice
+** Ukrainian glosses
+*** uk-s-1709660-001-001
+:PROPERTIES:
+:END:
+- text :: рахунок-фактура; товарна накладна
+** Learner notes
+*** note-s-1709660-001-001
+:PROPERTIES:
+:END:
+- UK :: Діловий іменник, утворений від 送る (відправляти) і 状 (лист, документ). У торгівлі позначає супровідний фінансово-товарний документ із переліком відправленого товару, його кількістю та вартістю.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1709660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 荷物と一緒に送り状を送りました。
+- READING :: にもつといっしょにおくりじょうをおくりました。
+- UK :: Я надіслав накладну разом із вантажем.
+- FOCUS :: 送り状
+*** ex-1709660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 経理担当者は届いた商品の数と送り状の内容を照合した。
+- READING :: けいりたんとうしゃはとどいたしょうひんのかずとおくりじょうのないようをしょうごうした。
+- UK :: Бухгалтер звірив кількість доставленого товару з даними в рахунку-фактурі.
+- FOCUS :: 送り状
+*** ex-1709660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外へ製品を輸出する際には、税関手続きのために正確な送り状を作成しなければならない。
+- READING :: かいがいへせいひんをゆしゅつするさいには、ぜいかんてつづきのためにせいかくなおくりじょうをさくせいしなければならない。
+- UK :: Під час експорту продукції за кордон необхідно оформити точний рахунок-фактуру для проходження митниці.
+- FOCUS :: 送り状
+
+* Sense s-1709660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4fa046ba7bfa3129263fe2ff438cf0c83f499fa4965c3fe036ad81303c844f7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- consignment note
+- sender's copy
+- receipt of shipment
+** Ukrainian glosses
+*** uk-s-1709660-002-001
+:PROPERTIES:
+:END:
+- text :: транспортна накладна; поштовий ярлик відправлення; квитанція відправника
+** Learner notes
+*** note-s-1709660-002-001
+:PROPERTIES:
+:END:
+- UK :: У службах доставки та поштових перевезеннях так називають бланк або наліпку з адресами відправника й отримувача, а також відривний корінець, що залишається у відправника як підтвердження.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1709660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0e6d7541f5fbbb8022d831135f0cd6fa24489fc3cb7878450cf47bb79de26843
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709660-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: factuur
+*** en-s-1709660-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: invoice
+** Ukrainian glosses
+
+* Sense s-1709660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a8ef53034747dc692c2326912674a8ce2aeb569f5efd5358363277ca640aa1a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709660-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Frachtbrief
+*** en-s-1709660-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Faktur
+*** en-s-1709660-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lieferschein
+** Ukrainian glosses
+
+* Sense s-1709660-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0d7ceca246dbc58a2e507a544aa84b07b16270d2f49a1052965b39b68598fc1a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709660-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: накладная, фактура
+** Ukrainian glosses
+
+* Sense s-1709660-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 5507b34515316b301a6af612b12ecd4b2e233bb1f0a3c5d4c3f08fb14a2e1d4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709660-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nota de envío
+*** en-s-1709660-006-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: albarán
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1709660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1709660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おくりじょう

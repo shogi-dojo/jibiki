@@ -1,0 +1,143 @@
+#+TITLE: 皇紀
+#+JMDICT_ID: 1280360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうき
+#+ROMAJI: kouki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1280360-001
+:PROPERTIES:
+:TEXT: 皇紀
+:END:
+** Reading rd-1280360-001
+:PROPERTIES:
+:TEXT: こうき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1280360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9bac90f7ba9c757927a0022c95ff90a7520c6e66c0b331c2a707bf00dd1792be
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 神武
+** English glosses
+- Imperial era
+*** en-s-1280360-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: system of counting years from the start of Emperor Jimmu's reign in 660 BCE
+** Ukrainian glosses
+*** uk-s-1280360-001-001
+:PROPERTIES:
+:END:
+- text :: Імператорська ера, японське традиційне літочислення (від 660 р. до н. е.)
+** Learner notes
+*** note-s-1280360-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін (також відомий як 神武天皇即位紀元), за яким першим роком вважається сходження на престол легендарного імператора 神武 (660 р. до н. е.), тобто григоріанський рік плюс 660. Активно використовувався в офіційних документах до 1945 року (наприклад, 皇紀二千六百年 — 1940 рік).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1280360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本の古い資料には皇紀が使われている。
+- READING :: にほんのふるいしりょうにはこうきがつかわれている。
+- UK :: У старих японських матеріалах використовується Імператорська ера.
+- FOCUS :: 皇紀
+*** ex-1280360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 皇紀は西暦に六百六十年を足して計算する。
+- READING :: こうきはせいれきにろっぴゃくろくじゅうねんをたしてけいさんする。
+- UK :: Рік за Імператорською ерою обчислюють, додаючи 660 до року за григоріанським календарем.
+- FOCUS :: 皇紀
+*** ex-1280360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昭和十五年は皇紀二千六百年にあたり、全国各地で大規模な祝賀行事が行われた。
+- READING :: しょうわじゅうごねんはこうきにせんろっぴゃくねんにあたり、ぜんこくかくちでだいきぼなしゅくがぎょうじがおこなわれた。
+- UK :: П'ятнадцятий рік ери Шьова (1940) припадав на 2600 рік Імператорської ери, і по всій країні відбулися масштабні святкові заходи.
+- FOCUS :: 皇紀
+
+* Sense s-1280360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 431f9663908d59566c1d39e02e40119f0798ad57956692a0bc24fd7c5c9ff3d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280360-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mythisches Gründungsjahr des japanischen Reiches (660 v.Chr.)
+** Ukrainian glosses
+
+* Sense s-1280360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b6fcbce47749847f907d93eae39c76b5069e4b20e63ca05a8f919a51c21623eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280360-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: японское летосчисление (с 660 г. до н. э.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1280360-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1280360-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうき

@@ -1,0 +1,174 @@
+#+TITLE: 頭頂
+#+JMDICT_ID: 1653010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうちょう
+#+ROMAJI: touchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1653010-001
+:PROPERTIES:
+:TEXT: 頭頂
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1653010-001
+:PROPERTIES:
+:TEXT: とうちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1653010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3a870ec68686f240158415020cb4c1fe1e803e851a2a4eab321522adfa8282e4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- anat
+*** Sense information
+- usu. as 頭頂部
+*** Cross-references
+- 頭頂部
+** English glosses
+- top of the head
+- crown of the head
+- vertex
+- (the) parietal
+** Ukrainian glosses
+*** uk-s-1653010-001-001
+:PROPERTIES:
+:END:
+- text :: тім'я; маківка; тім'яна ділянка
+** Learner notes
+*** note-s-1653010-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного й анатомічного стилю, утворений із кандзі 頭 («голова») та 頂 («верхівка»). У медичних і біологічних текстах часто входить до складу термінів, як-от 頭頂葉 («тім'яна частка мозку») чи 頭頂骨 («тім'яна кістка»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1653010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤ちゃんの頭頂はとてもやわらかい。
+- READING :: あかちゃんのとうちょうはとてもやわらかい。
+- UK :: У немовляти тім'я дуже м'яке.
+- FOCUS :: 頭頂
+*** ex-1653010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 帽子のせいか、頭頂のあたりが少し蒸れる。
+- READING :: ぼうしのせいか、とうちょうのあたりがすこしむれる。
+- UK :: Мабуть, через шапку в ділянці маківки трохи парить.
+- FOCUS :: 頭頂
+*** ex-1653010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ヘルメットは落下物から頭頂を守るために不可欠だ。
+- READING :: へるめっとはらっかぶつからとうちょうをまもるためにふかけつだ。
+- UK :: Захисний шолом необхідний, щоб уберегти маківку від предметів, що падають згори.
+- FOCUS :: 頭頂
+
+* Sense s-1653010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ae3c111247b228939b677aea4517ac817ef7894a86c3f254ad8c60ad6bd9cd30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1653010-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Scheitel
+** Ukrainian glosses
+
+* Sense s-1653010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cdf1e664c68b68c5370e2cd34f0897fc4d89f358fa44f05f7b01a73cf4c10b29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1653010-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fejbúb
+*** en-s-1653010-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zenit
+** Ukrainian glosses
+
+* Sense s-1653010-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f1b0cc91014f4c58931e1099e1b48e13fbd719e0024cbeca8a35c95badddaebc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1653010-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: темя
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1653010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1653010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とうちょう

@@ -1,0 +1,197 @@
+#+TITLE: 荏胡麻
+#+JMDICT_ID: 1173310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えごま
+#+ROMAJI: egoma
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1173310-001
+:PROPERTIES:
+:TEXT: 荏胡麻
+:END:
+** Reading rd-1173310-001
+:PROPERTIES:
+:TEXT: えごま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1173310-002
+:PROPERTIES:
+:TEXT: エゴマ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1173310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 98e4a053666fc8376974b1f757d714445eef122a01d43a040e9d38fe9f73967b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- 紫蘇
+** English glosses
+- wild sesame (Perilla frutescens var. frutescens)
+- oilseed perilla
+- egoma
+** Ukrainian glosses
+*** uk-s-1173310-001-001
+:PROPERTIES:
+:END:
+- text :: перила олійна (рослина й насіння); еґома
+** Learner notes
+*** note-s-1173310-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, ботанічна назва рослини Perilla frutescens; у сучасному письмі слово зазвичай записують каною (えごま або エゴマ). На відміну від звичайного кунжуту (胡麻), це окрема олійна культура, насіння, олія й листя якої широко використовуються в японській та корейській кухнях.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1173310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: えごまの葉をサラダに入れる。
+- READING :: えごまのはをさらだにいれる。
+- UK :: До салату додають листя перили.
+- FOCUS :: えごま
+*** ex-1173310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 最近は健康のためにえごま油を毎日摂る人が増えている。
+- READING :: さいきんはけんこうのためにえごまあぶらをまいにちとるひとがふえている。
+- UK :: Останнім часом зростає кількість людей, які щодня вживають олію з насіння еґоми задля здоров’я.
+- FOCUS :: えごま
+*** ex-1173310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 東北地方では古くからえごまをすりつぶして餅に塗る郷土料理が親しまれている。
+- READING :: とうほくちほうではふるくからえごまをすりつぶしてもちにぬるきょうどりょうりがしたしまれている。
+- UK :: У регіоні Тохоку здавна люблять традиційну страву, де мочі змащують розтертим насінням перили.
+- FOCUS :: えごま
+
+* Sense s-1173310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 08f13aefc9c0df485d3d19923cae8cd8bcd03857d3b4313d500b808add3e6382
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173310-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {plantk.} Japanse zwartenetel
+*** en-s-1173310-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Perilla frutescens var. japonica
+** Ukrainian glosses
+
+* Sense s-1173310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6c38af9a83b8bf640d73e71ba93eb566641ff76ea7c051bf7f992c0ade38292e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173310-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: E・goma (eine Schwarznessel)
+*** en-s-1173310-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Perilla frutescens
+** Ukrainian glosses
+
+* Sense s-1173310-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7a87ba02b634771e4a4ad34367fa04d3ac9d4269b5f4848e215a8413a6f45a41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1173310-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: перилла, Perilla frutescens (Britton) var. japonica (Hara (декоративное растение)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1173310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1173310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: えごま
+** Accent accent-rd-1173310-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1173310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: えごま

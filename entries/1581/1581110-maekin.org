@@ -1,0 +1,184 @@
+#+TITLE: 前金
+#+JMDICT_ID: 1581110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まえきん
+#+ROMAJI: maekin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1581110-001
+:PROPERTIES:
+:TEXT: 前金
+:END:
+** Reading rd-1581110-001
+:PROPERTIES:
+:TEXT: まえきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1581110-002
+:PROPERTIES:
+:TEXT: ぜんきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1581110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 274ee8e89fcfc1b051ce368fe81354e84034086417ef188bb28565cebe49e9ef
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- advance payment
+- money paid in advance
+** Ukrainian glosses
+*** uk-s-1581110-001-001
+:PROPERTIES:
+:END:
+- text :: передоплата; аванс; завдаток
+** Learner notes
+*** note-s-1581110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 前 «наперед» і 金 «гроші»). Позначає суму, яку сплачують заздалегідь перед отриманням товару або виконанням послуги (наприклад, 前金で払う «платити наперед»); поряд із основним читанням まえきん існує також варіант ぜんきん.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1581110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の代金を前金で払いました。
+- READING :: りょこうのだいきんをまえきんではらいました。
+- UK :: Я сплатив вартість подорожі передоплатою.
+- FOCUS :: 前金
+*** ex-1581110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 特注の家具を作る場合は、注文時に半額を前金として納める必要がある。
+- READING :: とくちゅうのかぐをつくるばあいは、ちゅうもんじにはんがくをまえきんとしておさめるひつようがある。
+- UK :: У разі виготовлення меблів на замовлення під час оформлення потрібно внести половину суми як аванс.
+- FOCUS :: 前金
+*** ex-1581110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初めて取引する業者だったため、先方から全額の前金を求められた。
+- READING :: はじめてとりひきするぎょうしゃだったため、せんぽうからぜんがくのまえきんをもとめられた。
+- UK :: Оскільки ми вперше співпрацювали з цим підрядником, інша сторона попросила внести повну передоплату.
+- FOCUS :: 前金
+
+* Sense s-1581110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 725aa3fda207a8f8172ec085a19f862b5f798e3893c65abc0a621aca62e83b72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorauszahlung
+** Ukrainian glosses
+
+* Sense s-1581110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 570e66176153b8d7e6fa7b8f3a45efa6701b1284215c11a3c4bb609fcdbb8186
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581110-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: előleg
+** Ukrainian glosses
+
+* Sense s-1581110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4df1575078d5702ec2ba6ff71e932e4c2cc619f9af524f1257be53d4499b590d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1581110-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: аванс
+*** en-s-1581110-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ぜんきん【前金】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1581110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1581110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: まえきん
+** Accent accent-rd-1581110-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1581110-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぜんきん

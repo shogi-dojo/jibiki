@@ -1,0 +1,187 @@
+#+TITLE: 恋敵
+#+JMDICT_ID: 1592870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こいがたき
+#+ROMAJI: koigataki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1592870-001
+:PROPERTIES:
+:TEXT: 恋敵
+:END:
+** Written form wf-1592870-002
+:PROPERTIES:
+:TEXT: 恋仇
+:END:
+*** Information
+- rK
+** Written form wf-1592870-003
+:PROPERTIES:
+:TEXT: 恋がたき
+:END:
+*** Information
+- sK
+** Reading rd-1592870-001
+:PROPERTIES:
+:TEXT: こいがたき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1592870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a6e9653fe31933be6738da545f22099b3378b0f9ebd0684b541e2f3ee84685d9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's rival in love
+** Ukrainian glosses
+*** uk-s-1592870-001-001
+:PROPERTIES:
+:END:
+- text :: суперник у коханні, суперниця в коханні
+** Learner notes
+*** note-s-1592870-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 恋 («кохання») та 敵 («ворог, суперник» з озвонченням рендаку: かたき → がたき). Позначає людину, яка змагається за прихильність того самого об'єкта почуттів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1592870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 親友が恋敵になってしまった。
+- READING :: しんゆうがこいがたきになってしまった。
+- UK :: Мій найкращий друг став моїм суперником у коханні.
+- FOCUS :: 恋敵
+*** ex-1592870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 物語の中で、二人の主人公は同じ人を好きになり、恋敵として向き合う。
+- READING :: ものがたりのなかで、ふたりのしゅじんこうはおなじひとをすきになり、こいがたきとしてむきあう。
+- UK :: У цій історії двоє героїв закохуються в одну й ту саму людину й постають одне перед одним як суперники в коханні.
+- FOCUS :: 恋敵
+*** ex-1592870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつては激しい恋敵だったにもかかわらず、今では何でも話せる良き友人になっている。
+- READING :: かつてははげしいこいがたきだったにもかかわらず、いまではなんでもはなせるよきゆうじんになっている。
+- UK :: Попри те що колись вони були затятими суперниками в коханні, тепер стали добрими друзями, які можуть поговорити про все на світі.
+- FOCUS :: 恋敵
+
+* Sense s-1592870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b1b23ad9842550ec6dadc9241b3cfbb7127adcd1ba58efe04b4ed6542154cfc4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: liefdesrivaal
+*** en-s-1592870-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rivaal
+*** en-s-1592870-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: medeminnaar
+** Ukrainian glosses
+
+* Sense s-1592870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e2e9e93da21707bcb09f77070a67b1a95e64f82548ee51da958951498c6663f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rivale
+*** en-s-1592870-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nebenbuhler
+** Ukrainian glosses
+
+* Sense s-1592870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 54a6ba64b34320cdb4557db17e627bca0d4520fe12ea353486e0ed3f0c0d98a1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1592870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (разг.) соперник (в любви)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1592870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1592870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こいがたき

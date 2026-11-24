@@ -1,0 +1,166 @@
+#+TITLE: 元肥
+#+JMDICT_ID: 2848960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もとごえ
+#+ROMAJI: motogoe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2848960-001
+:PROPERTIES:
+:TEXT: 元肥
+:END:
+** Written form wf-2848960-002
+:PROPERTIES:
+:TEXT: 基肥
+:END:
+** Written form wf-2848960-003
+:PROPERTIES:
+:TEXT: 元肥え
+:END:
+** Reading rd-2848960-001
+:PROPERTIES:
+:TEXT: もとごえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2848960-002
+:PROPERTIES:
+:TEXT: きひ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 基肥
+
+* Sense s-2848960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 083036be926a9ca365e96633f640a94c9b0e182b933c2cecd0bbe8cc19936aa3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- basal fertilizer
+- basal dressing
+- manure given at the time of planting
+** Ukrainian glosses
+*** uk-s-2848960-001-001
+:PROPERTIES:
+:END:
+- text :: основне добриво (перед посівом або посадкою)
+** Learner notes
+*** note-s-2848960-001-001
+:PROPERTIES:
+:END:
+- UK :: Сільськогосподарський термін (іменник), утворений із 元 («основа, початок») і 肥 («добриво»). Позначає добриво, яке заздалегідь вносять у ґрунт перед посівом чи посадкою (на відміну від 追肥 — підживлення під час росту); у науковій літературі також читається きひ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2848960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 種をまく前に土に元肥を入れます。
+- READING :: たねをまくまえにつちにもとごえをいれます。
+- UK :: Перед тим як сіяти насіння, у ґрунт вносять основне добриво.
+- FOCUS :: 元肥
+*** ex-2848960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 野菜を元気に育てるためには、植え付けのときにしっかり元肥を混ぜ込むことが大切だ。
+- READING :: やさいをげんきにそだてるためには、うえつけのときにしっかりもとごえをまぜこむことがたいせつだ。
+- UK :: Щоб овочі росли здоровими, важливо під час посадки добре перемішати ґрунт з основним добривом.
+- FOCUS :: 元肥
+*** ex-2848960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 春の畑仕事では、まず土を深く耕してから堆肥を元肥として均等に施す。
+- READING :: はるのはたけしごとでは、まずつちをふかくたがやしてからたいひをもとごえとしてきんとうにほどこす。
+- UK :: Під час весняних робіт на городі спершу глибоко скопують землю, а потім рівномірно вносять компост як основне добриво.
+- FOCUS :: 元肥
+
+* Sense s-2848960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e56a2f161613af3e990b76adfacf6fc013e099846d09838e864a5919adabc6ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2848960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grunddünger
+*** en-s-2848960-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Basisdünger
+** Ukrainian glosses
+
+* Sense s-2848960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0821e2a5c161933da52c55c5a812b63cb7fd24f4173a3c4b3f9d6902f5252798
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2848960-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: первое удобрение (перед посевом)
+*** en-s-2848960-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) もとごえ
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2848960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2848960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: もとごえ

@@ -1,0 +1,122 @@
+#+TITLE: トランス
+#+JMDICT_ID: 1086220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: トランス
+#+ROMAJI: toransu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1086220-001
+:PROPERTIES:
+:TEXT: トランス
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1086220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d0f863459f225293081f3b8e8c31d12a80cabe70a6b121de97c01c27eb459d77
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- elec
+*** Cross-references
+- 変圧器・1
+*** Language sources
+**** Language source ls-s-1086220-001-001
+:PROPERTIES:
+:LANG: eng
+:TYPE: full
+:WASEI: false
+:END:
+- text :: trans(former)
+** English glosses
+- transformer
+** Ukrainian glosses
+*** uk-s-1086220-001-001
+:PROPERTIES:
+:END:
+- text :: трансформатор
+** Learner notes
+*** note-s-1086220-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, скорочення від англійського «transformer». Вживається в електротехніці для позначення пристрою перетворення напруги (зазвичай на зразок 変圧器); слово транскрибують катаканою й часто поєднують у термінах на кшталт 電源トランス (силовий трансформатор) чи トランス音 (гудіння трансформатора).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1086220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このトランスはとても大きいです。
+- READING :: このとらんすはとてもおおきいです。
+- UK :: Цей трансформатор дуже великий.
+- FOCUS :: トランス
+*** ex-1086220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古いラジオの中から小さなトランスを取り出した。
+- READING :: ふるいらじおのなかからちいさなとらんすをとりだした。
+- UK :: Зі старого радіоприймача витягли маленький трансформатор.
+- FOCUS :: トランス
+*** ex-1086220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 電柱の上に取り付けられたトランスが雨の日に低くうなっている。
+- READING :: でんちゅうのうえにとりつけられたとらんすがあめのひにひくくうなっている。
+- UK :: Встановлений на електричному стовпі трансформатор у дощовий день тихо гуде.
+- FOCUS :: トランス
+
+* Pronunciation
+** Accent accent-rd-1086220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1086220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: トランス
+** Accent accent-rd-1086220-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1086220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: トランス

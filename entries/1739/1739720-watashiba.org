@@ -1,0 +1,158 @@
+#+TITLE: 渡し場
+#+JMDICT_ID: 1739720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: わたしば
+#+ROMAJI: watashiba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1739720-001
+:PROPERTIES:
+:TEXT: 渡し場
+:END:
+** Written form wf-1739720-002
+:PROPERTIES:
+:TEXT: 渡場
+:END:
+*** Information
+- io
+** Reading rd-1739720-001
+:PROPERTIES:
+:TEXT: わたしば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1739720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2ab4f6521cb2f969575e51c862d4da5130ea0d3b8f530a82213e9becfa9f9d4b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 渡船場
+** English glosses
+- ferry landing
+- point of departure or arrival for ferries
+** Ukrainian glosses
+*** uk-s-1739720-001-001
+:PROPERTIES:
+:END:
+- text :: пристань порома; місце переправи
+** Learner notes
+*** note-s-1739720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 渡す («переправляти») та 場 («місце»). Позначає берегову ділянку або причал, звідки відходять і куди прибувають поромні човни через річку чи протоку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1739720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川の向こうに小さな渡し場が見える。
+- READING :: かわのむこうにちいさなわたしばがみえる。
+- UK :: На тому боці річки видно маленьку поромну пристань.
+- FOCUS :: 渡し場
+*** ex-1739720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝早く渡し場に着くと、すでに船を待つ人が並んでいた。
+- READING :: あさはやくわたしばにつくと、すでにふねをまつひとがならんでいた。
+- UK :: Коли я рано-вранці прийшов на переправу, там уже стояли люди в черзі на човен.
+- FOCUS :: 渡し場
+*** ex-1739720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて交通の要所だったこの渡し場も、立派な橋が架かってからは静かになった。
+- READING :: かつてこうつうのようしょだったこのわたしばも、りっぱなはしがかかってからはしずかになった。
+- UK :: Ця переправа, що колись була важливим транспортним вузлом, затихла після того, як побудували великий міст.
+- FOCUS :: 渡し場
+
+* Sense s-1739720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c5e6093a867eb7524ed1cafea51243c9b384a746b66a7738fd2e14665ca4d838
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739720-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fährstelle
+*** en-s-1739720-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anlegestelle für Fähren
+*** en-s-1739720-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Watashiba
+** Ukrainian glosses
+
+* Sense s-1739720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4f4a7a903c0e00cd17302295bf34bdd9ab3b745adb0171ad9c26b4c32aedd66b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1739720-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: переправа
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1739720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1739720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: わたしば

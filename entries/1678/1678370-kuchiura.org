@@ -1,0 +1,177 @@
+#+TITLE: 口裏
+#+JMDICT_ID: 1678370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くちうら
+#+ROMAJI: kuchiura
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1678370-001
+:PROPERTIES:
+:TEXT: 口裏
+:END:
+*** Priorities
+- news2
+- nf35
+** Written form wf-1678370-002
+:PROPERTIES:
+:TEXT: 口占
+:END:
+** Written form wf-1678370-003
+:PROPERTIES:
+:TEXT: 口うら
+:END:
+** Reading rd-1678370-001
+:PROPERTIES:
+:TEXT: くちうら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1678370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a215d870a2e587b3fde817ad3d92a4b5f89225f7d6030cabda74dcc660f0ad86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- esp. 口裏
+** English glosses
+- determining a speaker's true or hidden meaning
+- determining a speaker's intentions from his manner of speech
+** Ukrainian glosses
+*** uk-s-1678370-001-001
+:PROPERTIES:
+:END:
+- text :: прихований намір у словах; узгодженість свідчень
+** Learner notes
+*** note-s-1678370-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; складається з 口 (рот, мова) та 裏 (зворотний бік, підтекст). Означає справжні наміри співрозмовника, вгадувані з його манери говорити; найчастіше вживається у сталому виразі 口裏を合わせる (попередньо домовитися про однакову версію, узгодити свідчення) та 口裏を引く (вивідувати намір).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1678370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二人は同じ説明をするように口裏を合わせました。
+- READING :: ふたりはおなじせつめいをするようにくちうらをあわせました。
+- UK :: Вони домовилися давати однакове пояснення.
+- FOCUS :: 口裏
+*** ex-1678370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼の話には矛盾があり、誰かと口裏を合わせているように見えた。
+- READING :: かれのはなしにはむじゅんがあり、だれかとくちうらをあわせているようにみえた。
+- UK :: У його розповіді були суперечності, і здавалося, ніби він із кимось узгодив версію.
+- FOCUS :: 口裏
+*** ex-1678370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古くは街角で耳にした他人の言葉から吉凶を占うことを口裏と呼んでいた。
+- READING :: ふるくはまちかどでみみにしたたにんのことばからきっきょうをうらなうことをくちうらとよんでいた。
+- UK :: У давнину ворожіння про щастя чи нещастя за словами сторонніх людей, почутими на розі вулиці, називали кучіура.
+- FOCUS :: 口裏
+
+* Sense s-1678370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 766ba3ece5da0b472d761da834dd991e6095edd5115fd2063a72597a1ce8cc78
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- arch
+*** Sense information
+- esp. 口占
+** English glosses
+- divining good or bad luck from listening to someone
+** Ukrainian glosses
+*** uk-s-1678370-002-001
+:PROPERTIES:
+:END:
+- text :: ворожіння за почутими словами (застаріле)
+** Learner notes
+*** note-s-1678370-002-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий звичай (також записувався як 口占): у давнину — передбачення удачі чи нещастя за першими випадково почутими словами перехожих.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1678370-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 165a711e1942fae7f0cc8d135c64b081c7390953cb7f8e08fc43ebda6d5a9088
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678370-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schluss aus jmds. Worten
+** Ukrainian glosses
+
+* Sense s-1678370-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1ad66944838de2841fe87988e67da4d42d44bc856ba5d7990cee4ea574b07eb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1678370-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1678370-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1678370-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くちうら

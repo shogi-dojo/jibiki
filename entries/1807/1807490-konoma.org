@@ -1,0 +1,166 @@
+#+TITLE: 木の間
+#+JMDICT_ID: 1807490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: このま
+#+ROMAJI: konoma
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1807490-001
+:PROPERTIES:
+:TEXT: 木の間
+:END:
+** Reading rd-1807490-001
+:PROPERTIES:
+:TEXT: このま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1807490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 628aa0c23965b232ae73a9b0ffab832f3f48fa2c9624b3d3d3817b2646e6596e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- in the trees
+** Ukrainian glosses
+*** uk-s-1807490-001-001
+:PROPERTIES:
+:END:
+- text :: проміжки між деревами; крізь дерева (між гіллям)
+** Learner notes
+*** note-s-1807490-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник поетичного та літературного відтінку, складений із 木 («дерево», тут у давньому читанні こ) та 間 («проміжок, простір»). Часто вживається у сполученнях на кшталт 木の間隠れ («схований за деревами») або описує світло, що пробивається крізь крони.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1807490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 木の間から光が差す。
+- READING :: このまからひかりがさす。
+- UK :: Крізь дерева пробивається світло.
+- FOCUS :: 木の間
+*** ex-1807490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 木の間を抜ける風が心地よい。
+- READING :: このまをぬけるかぜがここちよい。
+- UK :: Вітер, що віє поміж деревами, приємно освіжає.
+- FOCUS :: 木の間
+*** ex-1807490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 森の小道を歩いていると、木の間から古い神社の屋根が見えてきた。
+- READING :: もりのこみちをあるいていると、このまからふるいじんじゃのやねがみえてきた。
+- UK :: Коли ми йшли лісовою стежкою, між деревами показався дах старовинного святилища.
+- FOCUS :: 木の間
+
+* Sense s-1807490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d9a3f40f4601edf0bdef8d12eee2f8e61b79afc243416727b7a36cf870e72163
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1807490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zwischen den Bäumen
+*** en-s-1807490-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in den Bäumen
+*** en-s-1807490-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durch die Zweige
+** Ukrainian glosses
+
+* Sense s-1807490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bbe0ad2da2f78a4a087549558d8e7818e0636d6180d843fa1108f045b27f28e4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1807490-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: между (за) деревьями; сквозь деревья
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1807490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1807490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: このま
+** Accent accent-rd-1807490-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1807490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: このま

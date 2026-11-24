@@ -1,0 +1,163 @@
+#+TITLE: 晒し者
+#+JMDICT_ID: 1664930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さらしもの
+#+ROMAJI: sarashimono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1664930-001
+:PROPERTIES:
+:TEXT: 晒し者
+:END:
+** Written form wf-1664930-002
+:PROPERTIES:
+:TEXT: さらし者
+:END:
+** Written form wf-1664930-003
+:PROPERTIES:
+:TEXT: 晒しもの
+:END:
+** Written form wf-1664930-004
+:PROPERTIES:
+:TEXT: 晒者
+:END:
+*** Information
+- io
+** Written form wf-1664930-005
+:PROPERTIES:
+:TEXT: 曝し者
+:END:
+*** Information
+- oK
+** Reading rd-1664930-001
+:PROPERTIES:
+:TEXT: さらしもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1664930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d25c4857fb61108f4fe9bff406e605c77b6f3d7b04da094c9843f3f4542ed0c0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pilloried criminal exposed to public view
+- public scorn or humiliation
+- person shamed in front of others
+** Ukrainian glosses
+*** uk-s-1664930-001-001
+:PROPERTIES:
+:END:
+- text :: людина, виставлена на загальний глум; об'єкт публічної ганьби; злочинець біля ганебного стовпа
+** Learner notes
+*** note-s-1664930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 晒す (виставляти напоказ) та 者 (людина). Історично позначав засудженого біля ганебного стовпа в добу Едо, а в сучасній мові зазвичай вживається переносно у звороті 晒し者にする / 晒し者になる — виставити чи стати об'єктом загального осуду й посміховиська.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1664930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 皆の前で晒し者になった。
+- READING :: みんなのまえでさらしものになった。
+- UK :: Став посміховиськом перед усіма.
+- FOCUS :: 晒し者
+*** ex-1664930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 些細な失敗でネット上の晒し者にされるのは恐ろしい。
+- READING :: ささいなしっぱいでねっとじょうのさらしものにされるのはおそろしい。
+- UK :: Страшно, коли через дрібну помилку людину виставляють на загальне цькування в мережі.
+- FOCUS :: 晒し者
+*** ex-1664930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 事実関係を十分に確かめぬまま、特定の人物を晒し者にするような報道は厳しく批判されるべきだ。
+- READING :: じじつかんけいをじゅうぶんにたしかめぬまま、とくていのじんぶつをさらしものにするようなほうどうはきびしくひはんされるべきだ。
+- UK :: Публікації, що виставляють конкретну людину на загальну ганьбу без належної перевірки фактів, заслуговують на суворий осуд.
+- FOCUS :: 晒し者
+
+* Sense s-1664930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b88e14a34b33d78118e6ab901e8fc92f4a05a4509a56d9d25672e725513dae05
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1664930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Angeprangerter
+** Ukrainian glosses
+
+* Sense s-1664930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2236f3d9ba60b0e31dce55076c78832fd5a7327b29fbb62c67bb0669230ecdd8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1664930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: преступник у позорного столба
+*** en-s-1664930-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} быть выставленным на позор; (перен.) быть выставленным [на всеобщее обозрение]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1664930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1664930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さらしもの

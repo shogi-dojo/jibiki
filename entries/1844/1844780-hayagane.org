@@ -1,0 +1,149 @@
+#+TITLE: 早鐘
+#+JMDICT_ID: 1844780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はやがね
+#+ROMAJI: hayagane
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1844780-001
+:PROPERTIES:
+:TEXT: 早鐘
+:END:
+** Reading rd-1844780-001
+:PROPERTIES:
+:TEXT: はやがね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1844780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b702823ffd687d75597020571edce5b947c3f93a11eb229330d92971a200f5e9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- alarm bell
+** Ukrainian glosses
+*** uk-s-1844780-001-001
+:PROPERTIES:
+:END:
+- text :: тривожний дзвін; набат
+** Learner notes
+*** note-s-1844780-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 早 («швидкий») та 鐘 («дзвін») з одзвінченням на がね. Первісно позначав часте биття у дзвін під час пожежі чи лиха (早鐘を撞く / 打つ); у сучасній мові особливо часто трапляється в образному вислові 心臓が早鐘を打つ («серце шалено калатає, наче б'є набат»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1844780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 発表の前、緊張で胸が早鐘のように鳴った。
+- READING :: はっぴょうのまえ、きんちょうでむねがはやがねのようになった。
+- UK :: Перед виступом від хвилювання серце закалатало, мов дзвін.
+- FOCUS :: 早鐘
+*** ex-1844780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜中に火事を知らせる早鐘の音が遠くから響いてきた。
+- READING :: よなかにかじをしらせるはやがねのおとがとおくからひびいてきた。
+- UK :: Серед ночі здалеку долинули звуки тривожного дзвону, що сповіщав про пожежу.
+- FOCUS :: 早鐘
+*** ex-1844780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 予想もしなかった知らせを聞いた瞬間、彼の心臓は激しく早鐘を打ち始めた。
+- READING :: よそうもしなかったしらせをきいたしゅんかん、かれのしんぞうははげしくはやがねをうちはじめた。
+- UK :: У мить, коли він почув несподівану звістку, його серце шалено закалатало, наче в набат.
+- FOCUS :: 早鐘
+
+* Sense s-1844780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: acc5561b6185bd1819e28bc1c0958324ae5e12b8214ff744f48f1bf80a352fae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1844780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sturmglocke
+*** en-s-1844780-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feuerglocke
+*** en-s-1844780-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Alarmglocke
+** Ukrainian glosses
+
+* Sense s-1844780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5c6e937027dfb4f9890a41ec0c8cd1cfca059eeae25a90564ec52bc89e187fc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1844780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: набат
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1844780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1844780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はやがね

@@ -1,0 +1,169 @@
+#+TITLE: 雷鳥
+#+JMDICT_ID: 1548450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: らいちょう
+#+ROMAJI: raichou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1548450-001
+:PROPERTIES:
+:TEXT: 雷鳥
+:END:
+** Reading rd-1548450-001
+:PROPERTIES:
+:TEXT: らいちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1548450-002
+:PROPERTIES:
+:TEXT: ライチョウ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1548450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 296c8ce4435046519d37573fa03605664f150cd7578d5a71025f3060e4af7452
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- ptarmigan (Lagopus muta, esp. the Japanese ptarmigan, Lagopus muta japonica)
+- grouse
+** Ukrainian glosses
+*** uk-s-1548450-001-001
+:PROPERTIES:
+:END:
+- text :: куріпка тундрова, біла гірська куріпка
+** Learner notes
+*** note-s-1548450-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення високогірного птаха родини фазанових (зокрема японського підвиду, що живе в альпійській зоні та змінює оперення на біле взимку). На письмі часто трапляється катаканою як ライチョウ; назва буквально означає «громовий птах».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1548450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 高い山で初めて雷鳥を見ました。
+- READING :: たかいやまではじめてらいちょうをみました。
+- UK :: У високих горах я вперше побачив тундрову куріпку.
+- FOCUS :: 雷鳥
+*** ex-1548450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雷鳥は冬になると羽の色が真っ白に変わります。
+- READING :: らいちょうはふゆになるとはねのいろがまっしろにかわります。
+- UK :: Узимку пір'я тундрової куріпки стає сніжно-білим.
+- FOCUS :: 雷鳥
+*** ex-1548450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国の特別天然記念物に指定されている雷鳥を守るため、登山道周辺で保護活動が行われている。
+- READING :: くにのとくべつてんねんきねんぶつにしていされているらいちょうをまもるため、とざんどうしゅうへんでほごかつどうがおこなわれている。
+- UK :: Щоб зберегти тундрову куріпку, оголошену особливою природною пам'яткою держави, біля гірських стежок проводять природоохоронні заходи.
+- FOCUS :: 雷鳥
+
+* Sense s-1548450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6389481dee6159dbaa1d55f066d303acefcea9c47ec84d567095d4d1a59f3f38
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1548450-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schneehuhn
+*** en-s-1548450-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lagopus mutus
+** Ukrainian glosses
+
+* Sense s-1548450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0bfbfcf7842d11a84d475b81204eec4bd0eb045035fc92066b1d64fa36f65966
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1548450-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hófajd
+** Ukrainian glosses
+
+* Sense s-1548450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b5495831e0cbf129a10932d8d1016ecc8564298f0fb459497563f5b1fd415c7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1548450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: японская тундреная куропатка, Lagopus minus japonicus (Clam.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1548450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1548450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: らいちょう

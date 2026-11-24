@@ -1,0 +1,193 @@
+#+TITLE: 山刀
+#+JMDICT_ID: 1303080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やまがたな
+#+ROMAJI: yamagatana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1303080-001
+:PROPERTIES:
+:TEXT: 山刀
+:END:
+** Reading rd-1303080-001
+:PROPERTIES:
+:TEXT: やまがたな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1303080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4fc053ddfd7f12140fdc1ed07be318dc1aa31dc56376a6c11ab684acdf595cd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- woodman's hatchet
+** Ukrainian glosses
+*** uk-s-1303080-001-001
+:PROPERTIES:
+:END:
+- text :: лісорубний ніж; мачете; сокира-тесак
+** Learner notes
+*** note-s-1303080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає міцний широкий ніж або тесак із коротким руків'ям для роботи в лісі чи горах — розчищення чагарнику, обрубування гілок і заготівлі деревини. Складається з коренів 山 («гора, ліс») і 刀 («клинок, ніж»); у побуті близький за призначенням до 鉈 (тесак для дерева).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1303080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父は山刀を持っています。
+- READING :: ちちはやまがたなをもっています。
+- UK :: У мого батька є лісорубний тесак.
+- FOCUS :: 山刀
+*** ex-1303080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 森に入る前に、山刀の刃をしっかり研ぎました。
+- READING :: もりにはいるまえに、やまがたなのはをしっかりとぎました。
+- UK :: Перш ніж піти до лісу, я добре нагострив лезо тесака.
+- FOCUS :: 山刀
+*** ex-1303080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 登山道の草が伸びていたため、案内人は山刀で枝を切り払いながら進んだ。
+- READING :: とざんどうのくさがのびていたため、あんないにんはやまがたなでえだをきりはらいながらすすんだ。
+- UK :: Оскільки стежка в горах заросла травою, провідник ішов уперед, розрубуючи гілки лісорубним ножем.
+- FOCUS :: 山刀
+
+* Sense s-1303080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 968fb834d2c60ace3abc063118cc1eff9f2c9e95935c453b9ba888ddc697a913
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1303080-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: couteau de chasse(?)
+*** en-s-1303080-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hachette de bûcheron
+** Ukrainian glosses
+
+* Sense s-1303080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bd85ba64228b61e452b8fa20da38d2d3a27d53905831dca6d9724b5cbca48f4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1303080-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Buschmesser
+*** en-s-1303080-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Jagdmesser
+** Ukrainian glosses
+
+* Sense s-1303080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8f6f468853f7253e4890e7975b487e7c37c1f87df1074aee39aa31bd5847f36a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1303080-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: топор (для рубки деревьев)
+** Ukrainian glosses
+
+* Sense s-1303080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f61e9cad9a2dad04ff22090f9469b41ab8ec7c343060431546b03ada1e7efe6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1303080-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: machete
+*** en-s-1303080-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuchillo de montaña
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1303080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1303080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: やまがたな

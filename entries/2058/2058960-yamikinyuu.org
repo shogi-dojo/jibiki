@@ -1,0 +1,179 @@
+#+TITLE: 闇金融
+#+JMDICT_ID: 2058960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やみきんゆう
+#+ROMAJI: yamikinyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2058960-001
+:PROPERTIES:
+:TEXT: 闇金融
+:END:
+** Written form wf-2058960-002
+:PROPERTIES:
+:TEXT: ヤミ金融
+:END:
+** Reading rd-2058960-001
+:PROPERTIES:
+:TEXT: やみきんゆう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 闇金融
+** Reading rd-2058960-002
+:PROPERTIES:
+:TEXT: ヤミきんゆう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- ヤミ金融
+
+* Sense s-2058960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa7d7a8f451aca042d123ea4c58c062294ce2f01b0094970d760425f5099e840
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- black-market lending
+- illegal loan
+** Ukrainian glosses
+*** uk-s-2058960-001-001
+:PROPERTIES:
+:END:
+- text :: підпільне кредитування, нелегальна позика
+** Learner notes
+*** note-s-2058960-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає незаконне надання позик під надвисокі відсотки без відповідної ліцензії або осіб чи контори, які цим займаються. Складається з 闇 (тіньовий, нелегальний) і 金融 (фінанси, кредитування); часто скорочується до 闇金.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2058960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 闇金融からお金を借りてはいけません。
+- READING :: やみきんゆうからおかねをかりてはいけません。
+- UK :: Не можна позичати гроші в нелегальних кредиторів.
+- FOCUS :: 闇金融
+*** ex-2058960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 高い利息を請求する闇金融の被害が増えています。
+- READING :: たかいりそくをせいきゅうするやみきんゆうのひがいがふえています。
+- UK :: Зростає кількість постраждалих від підпільних кредиторів, які вимагають захмарні відсотки.
+- FOCUS :: 闇金融
+*** ex-2058960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 警察は違法な取り立てを行っていた闇金融のグループを全国規模で摘発した。
+- READING :: けいさつはいほうなとりたてをおこなっていたやみきんゆうのぐるーぷをぜんこくきぼでてきはつした。
+- UK :: Поліція провела загальнонаціональне викриття угруповання нелегальних позикодавців, які займалися незаконним вибиванням боргів.
+- FOCUS :: 闇金融
+
+* Sense s-2058960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 444cc81fde3a70e420654190c640b3c318c47366c3f62bad2922081a6f49ec4b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2058960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illegales Darlehen
+*** en-s-2058960-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: illegaler Geldverleih
+** Ukrainian glosses
+
+* Sense s-2058960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8dc7ed01ca83a96f8d6f2f561c747d6ebb6fe47855c73fe4557b4c425073ed8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2058960-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: незаконный заём
+** Ukrainian glosses
+
+* Sense s-2058960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 489a1ca8189dcfd376c452ccc0bb4b34cf9bea098c0cae99324b74842383b960
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2058960-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: préstamo del mercado negro
+*** en-s-2058960-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: préstamo ilegal
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2058960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2058960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: やみきんゆう

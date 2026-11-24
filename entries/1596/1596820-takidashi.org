@@ -1,0 +1,174 @@
+#+TITLE: 炊き出し
+#+JMDICT_ID: 1596820
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たきだし
+#+ROMAJI: takidashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1596820-001
+:PROPERTIES:
+:TEXT: 炊き出し
+:END:
+*** Priorities
+- news2
+- nf40
+- spec1
+** Written form wf-1596820-002
+:PROPERTIES:
+:TEXT: 炊出し
+:END:
+*** Priorities
+- ichi1
+** Written form wf-1596820-003
+:PROPERTIES:
+:TEXT: 焚き出し
+:END:
+** Written form wf-1596820-004
+:PROPERTIES:
+:TEXT: 焚出し
+:END:
+** Reading rd-1596820-001
+:PROPERTIES:
+:TEXT: たきだし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news2
+- nf40
+- spec1
+
+* Sense s-1596820-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 706845710463a31adaeafde2dc9d6f1e03c716900529d65255b350d28511fc20
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- food distribution (esp. cooked rice)
+** Ukrainian glosses
+*** uk-s-1596820-001-001
+:PROPERTIES:
+:END:
+- text :: роздача гарячої їжі (особливо вареного рису); польова кухня
+** Learner notes
+*** note-s-1596820-001-001
+:PROPERTIES:
+:END:
+- UK :: Віддієслівний іменник від 炊き出す («наварити рису великою партією і роздати»; також уживається з дієсловом する). Позначає організовану роздачу гарячої їжі — насамперед рису, місо-супу чи каші — постраждалим від стихійних лих в евакуаційних пунктах, бездомним або учасникам масових заходів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1596820-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 公園でボランティアが炊き出しをしています。
+- READING :: こうえんでぼらんてぃあがたきだしをしています。
+- UK :: У парку волонтери роздають гарячу їжу.
+- FOCUS :: 炊き出し
+*** ex-1596820-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地震のあと、避難所の庭で温かい豚汁の炊き出しが行われた。
+- READING :: じしんのあと、ひなんじょのにわであたたかいとんじるのたきだしがおこなわれた。
+- UK :: Після землетрусу на подвір’ї пункту евакуації організували роздачу гарячого супу тонджіру.
+- FOCUS :: 炊き出し
+*** ex-1596820-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域の自治会は災害時に備え、住民が協力して炊き出しを運営できるよう毎年訓練を行っている。
+- READING :: ちいきのじちかいはさいがいじにそなえ、じゅうみんがきょうりょくしてたきだしをうんえいできるようまいとしくんれんをおこなっている。
+- UK :: Місцева громада щороку проводить навчання на випадок стихійного лиха, щоб мешканці могли спільно організувати польову кухню.
+- FOCUS :: 炊き出し
+
+* Sense s-1596820-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1ae211819830b175f548a945655b362471062348407df08d0e65cfb997ece3a6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596820-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: distribution de rations alimentaires de secours
+** Ukrainian glosses
+
+* Sense s-1596820-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3d890c43cb788d7fd928c70312ee3a1f50a2c67c5275932df21d45987f4ecbbe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596820-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Austeilung von Lebensmitteln (insbes. gekochten Reis; in einer Notsituation)
+** Ukrainian glosses
+
+* Sense s-1596820-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 62931dc985b4c6fb48132fc222b4e4b5d3ad4bf8ca2c256c2ffb9177787d2634
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1596820-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: раздача варёного риса (пострадавшим)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1596820-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1596820-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たきだし

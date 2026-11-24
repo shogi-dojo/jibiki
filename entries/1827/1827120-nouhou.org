@@ -1,0 +1,139 @@
+#+TITLE: 農法
+#+JMDICT_ID: 1827120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のうほう
+#+ROMAJI: nouhou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1827120-001
+:PROPERTIES:
+:TEXT: 農法
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1827120-001
+:PROPERTIES:
+:TEXT: のうほう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1827120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61daf8e1fe7534e739f08023af61ad7374988609aebc1443cbe73a27ba331b68
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- farming methods
+** Ukrainian glosses
+*** uk-s-1827120-001-001
+:PROPERTIES:
+:END:
+- text :: метод землеробства; спосіб ведення сільського господарства; агротехніка
+** Learner notes
+*** note-s-1827120-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, складений із 農 («сільське господарство») та 法 («метод, спосіб»). Часто вживається у словосполученнях на кшталт 有機農法 («органічне землеробство») або 自然農法 («природне землеробство»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1827120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい農法を試す。
+- READING :: あたらしいのうほうをためす。
+- UK :: Спробувати новий метод землеробства.
+- FOCUS :: 農法
+*** ex-1827120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 農薬を使わない農法が注目されている。
+- READING :: のうやくをつかわないのうほうがちゅうもくされている。
+- UK :: Спосіб землеробства без використання пестицидів привертає дедалі більше уваги.
+- FOCUS :: 農法
+*** ex-1827120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 伝統的な農法を受け継ぎながら、環境に優しい農業を目指す農家が増えている。
+- READING :: でんとうてきなのうほうをうけつぎながら、かんきょうにやさしいのうぎょうをめざすのうかがふえている。
+- UK :: Зростає кількість фермерів, які, зберігаючи традиційні методи землеробства, прагнуть екологічного господарювання.
+- FOCUS :: 農法
+
+* Sense s-1827120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a7a123583fd037dcffcc56b79062216132591250a5a70d65ded9aa158cf5f976
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1827120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anbaumethode
+** Ukrainian glosses
+
+* Sense s-1827120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3b432d9fe96de466f5d314ba70e54d474863889dd3a76478cab82c801c6202be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1827120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: агротехника, агротехнические приёмы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1827120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1827120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のうほう

@@ -1,0 +1,154 @@
+#+TITLE: すくみ上がる
+#+JMDICT_ID: 2248930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すくみあがる
+#+ROMAJI: sukumiagaru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2248930-001
+:PROPERTIES:
+:TEXT: すくみ上がる
+:END:
+** Written form wf-2248930-002
+:PROPERTIES:
+:TEXT: 竦み上がる
+:END:
+** Written form wf-2248930-003
+:PROPERTIES:
+:TEXT: 竦みあがる
+:END:
+*** Information
+- sK
+** Reading rd-2248930-001
+:PROPERTIES:
+:TEXT: すくみあがる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2248930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9f76ad6939d6943f34403e7367ddf588db3a6cde15d3a616cd5e8c060a7766a9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vi
+** English glosses
+- to cringe with fear
+- to cower with fright
+- to be terribly afraid
+** Ukrainian glosses
+*** uk-s-2248930-001-001
+:PROPERTIES:
+:END:
+- text :: ціпеніти від страху; зіщулитися від жаху; не мати сили поворухнутися зі страху
+** Learner notes
+*** note-s-2248930-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне ґодан-дієслово на -る, утворене від すくむ (стискатися, заклякати) та 上がる (підсилення повноти дії). Описує стан сильного переляку, коли від страху тіло мимоволі стискається або ціпеніє (часто в поєднанні 恐怖ですくみ上がる).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2248930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雷の音にすくみ上がる。
+- READING :: かみなりのおとにすくみあがる。
+- UK :: Зіщулитися від звуку грому.
+- FOCUS :: すくみ上がる
+*** ex-2248930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 暗闇から大きな犬が飛び出してきて、足がすくみ上がった。
+- READING :: くらやみからおおきないぬがとびだしてきて、あしがすくみあがった。
+- UK :: Коли з темряви вискочив великий собака, ноги в мене підкосилися від страху.
+- FOCUS :: すくみ上がった
+*** ex-2248930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 不気味な物音を聞いた瞬間、子どもたちは恐怖ですくみ上がって声も出せなかった。
+- READING :: ぶきみなものおとをきいたしゅんかん、こどもたちはきょうふですくみあがってこえもだせなかった。
+- UK :: У ту мить, коли почувся моторошний звук, діти так заціпеніли від жаху, що не могли видати ані звука.
+- FOCUS :: すくみ上がって
+
+* Sense s-2248930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b6062cb21f554d9f34fd8445c3742cba3b179234cdcd714af11df6552f60fe36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2248930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenzucken
+*** en-s-2248930-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wie gelähmt werden
+** Ukrainian glosses
+
+* Sense s-2248930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fb12c0e5fbdac4aa7ea97a419a01c4540494afb4be9a72b6ab59f4e6dc1b9140
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2248930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: съёживаться (сжиматься) от страха
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2248930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2248930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: すくみあがる

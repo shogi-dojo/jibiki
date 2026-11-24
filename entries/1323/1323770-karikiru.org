@@ -1,0 +1,172 @@
+#+TITLE: 借り切る
+#+JMDICT_ID: 1323770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりきる
+#+ROMAJI: karikiru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1323770-001
+:PROPERTIES:
+:TEXT: 借り切る
+:END:
+*** Priorities
+- news2
+- nf40
+** Written form wf-1323770-002
+:PROPERTIES:
+:TEXT: 借切る
+:END:
+** Reading rd-1323770-001
+:PROPERTIES:
+:TEXT: かりきる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1323770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 20509c99f30041b0394f9b3ad9e2d2b562b7acce0cc68f13c167394b8c7d0ca5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5r
+- vt
+** English glosses
+- to hire for exclusive use
+- to reserve
+- to charter
+** Ukrainian glosses
+*** uk-s-1323770-001-001
+:PROPERTIES:
+:END:
+- text :: винайняти повністю; зафрахтувати; забронювати цілком
+** Learner notes
+*** note-s-1323770-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятиступеневої дієвідміни на -る (складне дієслово з 借りる «позичати, орендувати» та 切る «довести до кінця, повністю»). Означає оренду всього приміщення, транспорту чи закладу для виняткового користування (наприклад, バスを借り切る «замовити цілий автобус», 店を借り切る «винайняти весь заклад»). Іменникова форма — 貸切 / 借り切り.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1323770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行のためにバスを一台借り切った。
+- READING :: りょこうのためにばすをいちだいかりきった。
+- UK :: Для подорожі ми повністю замовили один автобус.
+- FOCUS :: 借り切った
+*** ex-1323770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 結婚式の二次会で、駅前のレストランを丸ごと借り切ってパーティーを開いた。
+- READING :: けっこんしきのにじかいで、えきまえのれすとらんをまるごとかりきってぱーてぃーをひらいた。
+- UK :: Для весільної афтепаті ми повністю винайняли ресторан біля станції та влаштували вечірку.
+- FOCUS :: 借り切って
+*** ex-1323770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大人数で移動する場合は、電車より大型バスを借り切るほうがかえって安く済むことがある。
+- READING :: おおにんずうでいどうするばあいは、でんしゃよりおおがたばすをかりきるほうがかえってやすくすむことがある。
+- UK :: Коли пересувається велика група людей, зафрахтувати великий автобус іноді виходить навіть дешевше, ніж їхати потягом.
+- FOCUS :: 借り切る
+
+* Sense s-1323770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 304e5dcb509459716152d12888f0c93cc0cb6ea2687ccc0831d9808cebfdba59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323770-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reservieren (Bus etc.)
+** Ukrainian glosses
+
+* Sense s-1323770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 93e051230dd6b30cb2b4237f57ed39f14ddd15e213d31cdc92f99381296d0784
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323770-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: félretétet
+*** en-s-1323770-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tartogat
+** Ukrainian glosses
+
+* Sense s-1323770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2d1a21c00dc2dcf4d68f8eaa7c995ace51a2366576986cb9c6186891a9faa328
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1323770-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: снимать весь (напр. дом); заказывать (автобус и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1323770-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1323770-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かりきる

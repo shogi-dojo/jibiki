@@ -1,0 +1,167 @@
+#+TITLE: 及第点
+#+JMDICT_ID: 1228210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうだいてん
+#+ROMAJI: kyuudaiten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1228210-001
+:PROPERTIES:
+:TEXT: 及第点
+:END:
+** Reading rd-1228210-001
+:PROPERTIES:
+:TEXT: きゅうだいてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1228210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f8144065c21cc979e4b568716920d8a76af1c6c023d8ea8616222e10312f3be4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- passing mark
+** Ukrainian glosses
+*** uk-s-1228210-001-001
+:PROPERTIES:
+:END:
+- text :: прохідний бал; задовільна оцінка; прийнятний рівень
+** Learner notes
+*** note-s-1228210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 及第 («скласти іспит, пройти відбір») та 点 («бал, оцінка»). Позначає мінімальний бал для складання іспиту, а також у широкому значенні — достатній, прийнятний результат роботи чи якості (наприклад, 及第点をあげる — «поставити задовільну оцінку»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1228210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: なんとかテストで及第点を取りました。
+- READING :: なんとかてすとできゅうだいてんをとりました。
+- UK :: Я ледве-ледве набрав прохідний бал на тесті.
+- FOCUS :: 及第点
+*** ex-1228210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 完璧とは言えないが、今回の発表は十分に及第点に達している。
+- READING :: かんぺきとはいえないが、こんかいのはっぴょうはじゅうぶんにきゅうだいてんにたっしている。
+- UK :: Хоч презентацію не назвеш ідеальною, цього разу вона цілком заслуговує на задовільну оцінку.
+- FOCUS :: 及第点
+*** ex-1228210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 厳しい批評家たちからも、新人監督のデビュー作にはまずまずの及第点が与えられた。
+- READING :: きびしいひひょうかたちからも、しんじんかんとくのでびゅーさくにはまずまずのきゅうだいてんがあたえられた。
+- UK :: Навіть суворі критики поставили дебютній стрічці молодого режисера цілком прийнятну оцінку.
+- FOCUS :: 及第点
+
+* Sense s-1228210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 22854655e20a76f21b8b07fb6d4188c4c0b29842d97c9844020a6cf3893987d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1228210-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: note minimale requise (pour avoir un examen)
+*** en-s-1228210-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: note qualificative
+** Ukrainian glosses
+
+* Sense s-1228210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ad0424283d9ed56c66e67eb072f939a7328755c8ff9e28432d80979af47cd17f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1228210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mindestpunktzahl
+*** en-s-1228210-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zum Bestehen ausreichende Punktzahl
+** Ukrainian glosses
+
+* Sense s-1228210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3fef10ee62301dbb342f5937c3831d4297f3318fc08509a6a5aef61a3bcf183b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1228210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: проходная отметка, проходной балл
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1228210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1228210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きゅうだいてん

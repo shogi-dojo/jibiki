@@ -1,0 +1,141 @@
+#+TITLE: 僧衣
+#+JMDICT_ID: 1398070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうい
+#+ROMAJI: soui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1398070-001
+:PROPERTIES:
+:TEXT: 僧衣
+:END:
+** Reading rd-1398070-001
+:PROPERTIES:
+:TEXT: そうい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1398070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fc21097930fa44fb62da398518a43ba7315aad49ba9a81188722a55a4fafd179
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- priest's garb
+** Ukrainian glosses
+*** uk-s-1398070-001-001
+:PROPERTIES:
+:END:
+- text :: чернече вбрання; одяг буддійського священника
+** Learner notes
+*** note-s-1398070-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 僧 («буддійський чернець») і 衣 («одяг»). Позначає традиційне вбрання буддійських ченців і настоятелів; трапляється як у релігійному контексті, так і в історичних описах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1398070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺で僧衣を着た人を見ました。
+- READING :: おてらでそういをきたひとをみました。
+- UK :: У храмі я бачив людину в чернечому вбранні.
+- FOCUS :: 僧衣
+*** ex-1398070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 黒い僧衣に身を包んだ修行僧たちが、朝の境内で掃除をしている。
+- READING :: くろいそういにみをつつんだしゅぎょうそうたちが、あさのけいだいでそうじをしている。
+- UK :: Послушники в чорному чернечому вбранні вранці прибирають територію храму.
+- FOCUS :: 僧衣
+*** ex-1398070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて武士だった人物が戦を離れ、僧衣をまとって静かな山寺で余生を送ったという。
+- READING :: かつてぶしだったじんぶつがいくさをはなれ、そういをまとってしずかなやまでらでよせいをおくったという。
+- UK :: Кажуть, що колишній воїн полишив війни, надягнув чернече вбрання і провів решту життя в тихому гірському храмі.
+- FOCUS :: 僧衣
+
+* Sense s-1398070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 93d2eb3abaed3772279e7fbb8c0be4ffbb99c12b924d6cc1a9c7c5e88abcb435
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1398070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mönchsrobe
+*** en-s-1398070-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mönchskutte
+** Ukrainian glosses
+
+* Sense s-1398070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0731f8ecc43f2494278434f5fa976f3ee5c021456481e500e9470e8d7da3799b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1398070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (буд.) облачение, ряса
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1398070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1398070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: そうい

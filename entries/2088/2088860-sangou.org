@@ -1,0 +1,158 @@
+#+TITLE: 山号
+#+JMDICT_ID: 2088860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんごう
+#+ROMAJI: sangou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2088860-001
+:PROPERTIES:
+:TEXT: 山号
+:END:
+** Reading rd-2088860-001
+:PROPERTIES:
+:TEXT: さんごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2088860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41160c8ab734d9c13d33c6017a66b6f8245ab6aa66d25b1c965e5930960b345e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- honorific mountain name prefixed to a temple's name
+** Ukrainian glosses
+*** uk-s-2088860-001-001
+:PROPERTIES:
+:END:
+- text :: почесна «гірська» назва буддійського храму; санґо
+** Learner notes
+*** note-s-2088860-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційний почесний титул буддійського храму в Японії (та Східній Азії), що передує його основній назві й закінчується на 山 (гора) — наприклад, 金龍山浅草寺 (Кінрюдзан Сенсоджі). Назва походить від давньої традиції зводити монастирі в гірській місцевості.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2088860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このお寺の山号は何ですか。
+- READING :: このおてらのさんごうはなんですか。
+- UK :: Яка почесна гірська назва у цього храму?
+- FOCUS :: 山号
+*** ex-2088860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 浅草寺の山号は「金龍山」といい、入口の提灯にも書かれている。
+- READING :: せんそうじのさんごうは「きんりゅうざん」といい、いりぐちのちょうちんにもかかれている。
+- UK :: Почесна назва храму Сенсоджі — Кінрюдзан, і її навіть написано на великому ліхтарі біля входу.
+- FOCUS :: 山号
+*** ex-2088860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平地に建てられた寺院であっても、仏教の伝統にならって山号を冠するのが日本の慣習である。
+- READING :: へいちにたてられたじいんであっても、ぶっきょうのでんとうにならってさんごうをかんするのがにほんのかんしゅうである。
+- UK :: Навіть якщо буддійський храм збудовано на рівнині, у Японії заведено давати йому традиційну «гірську» назву.
+- FOCUS :: 山号
+
+* Sense s-2088860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4b00b94be0f15bbe1b39618fa541c7539c1798223f24f3d8bc796b1ea773d135
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2088860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergname
+*** en-s-2088860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergtitel (erster Namensbestandteil buddh. Tempel; urspr. der Berg auf dem der Tempel errichtet wurde; seit der Kamakura-Zeit auch für Tempel im Flachland verwendet)
+** Ukrainian glosses
+
+* Sense s-2088860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8f4326d10f0ad9d7ca8216347e41073c9ad0fbdd35df805e0ec188a5c86459c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2088860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (буд.) название монастыря
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2088860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2088860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さんごう
+** Accent accent-rd-2088860-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2088860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さんごう

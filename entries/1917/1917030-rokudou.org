@@ -1,0 +1,142 @@
+#+TITLE: 六道
+#+JMDICT_ID: 1917030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろくどう
+#+ROMAJI: rokudou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1917030-001
+:PROPERTIES:
+:TEXT: 六道
+:END:
+** Reading rd-1917030-001
+:PROPERTIES:
+:TEXT: ろくどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1917030-002
+:PROPERTIES:
+:TEXT: りくどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1917030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5cf689d913f043d3453d682539935e124e6051be18b02feaa2abb5c9d5873c32
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- Buddh
+** English glosses
+- the six realms (Deva realm, Asura realm, Human realm, Animal realm, Hungry Ghost realm, Naraka realm)
+** Ukrainian glosses
+*** uk-s-1917030-001-001
+:PROPERTIES:
+:END:
+- text :: шість світів перероджень (у буддизмі); шість сфер сансари
+** Learner notes
+*** note-s-1917030-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійський термін (іменник; у традиційних контекстах також читається りくどう). Позначає шість світів циклу перероджень, якими блукають істоти залежно від своєї карми: світи богів (天道), людей (人間道), асур (修羅道), тварин (畜生道), голодних духів (餓鬼道) і пекла (地獄道).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1917030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 仏教では六道という考え方がある。
+- READING :: ぶっきょうではろくどうというかんがえかたがある。
+- UK :: У буддизмі існує вчення про шість світів перероджень.
+- FOCUS :: 六道
+*** ex-1917030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お寺の境内には、六道を守護するとされる六体の地蔵が並んでいる。
+- READING :: おてらのけいだいには、ろくどうをしゅごするとされるろくたいのじぞうがならんでいる。
+- UK :: На території храму стоять у ряд шість статуй бодхісаттви Джідзо, які вважаються охоронцями шести світів.
+- FOCUS :: 六道
+*** ex-1917030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古くからの絵巻物には、人々が自らの行いに応じて六道を輪廻する姿が描かれている。
+- READING :: ふるくからのえまきものには、ひとびとがみずからのおこないにおうじてろくどうをりんねするすがたがえがかれている。
+- UK :: На давніх сувоях зображено, як душі перероджуються в шести світах відповідно до своїх земних вчинків.
+- FOCUS :: 六道
+
+* Sense s-1917030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 71d20469810969b4c1edc183e79d32daee7240c83948ed21a30e2516e0325dab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1917030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: die sechs Welten (in denen Lebewesen mit schlechtem Karma wiedergeboren werden)
+** Ukrainian glosses
+
+* Sense s-1917030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a5d23d475d5a0a211d164d64ef2f21a8a1a6a27b2f7f980bee8ad14b5f247441
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1917030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (буд.) шесть кругов человеческого существования ((см.) てんじょう【天上】, にんげんかい, しゅらかい, ちくしょうどう, がきどう, じごく【地獄】)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1917030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1917030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ろくどう

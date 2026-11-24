@@ -1,0 +1,151 @@
+#+TITLE: 受験料
+#+JMDICT_ID: 1697900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅけんりょう
+#+ROMAJI: jukenryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1697900-001
+:PROPERTIES:
+:TEXT: 受験料
+:END:
+** Reading rd-1697900-001
+:PROPERTIES:
+:TEXT: じゅけんりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1697900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a896a70304f48ce9a7f9d3af51f8ae08c67b89e841fdfbd21d916a47360e8321
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- examination fees
+** Ukrainian glosses
+*** uk-s-1697900-001-001
+:PROPERTIES:
+:END:
+- text :: екзаменаційний збір; плата за складання іспиту
+** Learner notes
+*** note-s-1697900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 受験 (складання іспиту) і суфікса 料 (плата, збір). Позначає реєстраційний внесок за участь у вступному чи кваліфікаційному іспиті.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1697900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行で大学の受験料を振り込んだ。
+- READING :: ぎんこうでだいがくのじゅけんりょうをふりこんだ。
+- UK :: У банку я сплатив екзаменаційний збір до університету.
+- FOCUS :: 受験料
+*** ex-1697900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この資格試験の受験料は去年より高くなった。
+- READING :: このしかくしけんのじゅけんりょうはきょねんよりたかくなった。
+- UK :: Плата за складання цього кваліфікаційного іспиту стала вищою, ніж торік.
+- FOCUS :: 受験料
+*** ex-1697900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 期限内に受験料を納めないと、願書を提出しても試験を受けることができない。
+- READING :: きげんないにじゅけんりょうをおさめないと、がんしょをていしゅつしてもしけんをうけることができない。
+- UK :: Якщо не сплатити екзаменаційний збір у встановлений строк, скласти іспит не вдасться, навіть подавши заяву.
+- FOCUS :: 受験料
+
+* Sense s-1697900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d2d26648a7187bb04642197c2db137bb847166c66ed721f568f44663a5148de9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1697900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prüfungsgebühren
+** Ukrainian glosses
+
+* Sense s-1697900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b799291ee7994ed8e382c55b5e403500cae8e1541fe060467a14297c4a5d15fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1697900-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за [допуск на] экзамен
+** Ukrainian glosses
+
+* Sense s-1697900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 57199679018dd0b12ce0f532b9f9bd5263bb8df8c3a80f2813852db9099fac34
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1697900-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tasas de examen
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1697900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1697900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: じゅけんりょう

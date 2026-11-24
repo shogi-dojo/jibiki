@@ -1,0 +1,152 @@
+#+TITLE: 消し飛ぶ
+#+JMDICT_ID: 1350100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けしとぶ
+#+ROMAJI: keshitobu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1350100-001
+:PROPERTIES:
+:TEXT: 消し飛ぶ
+:END:
+** Written form wf-1350100-002
+:PROPERTIES:
+:TEXT: 消しとぶ
+:END:
+*** Information
+- sK
+** Reading rd-1350100-001
+:PROPERTIES:
+:TEXT: けしとぶ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1350100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5285ce1e297a01585aab57e3bf15974ca218a12faa613001292f2614c9332218
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5b
+- vi
+** English glosses
+- to scatter away
+- to fly away
+- to blow away
+- to be removed without trace
+- to vanish
+** Ukrainian glosses
+*** uk-s-1350100-001-001
+:PROPERTIES:
+:END:
+- text :: відлітати, розлітатися; безслідно зникати, розвіюватися
+** Learner notes
+*** note-s-1350100-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першої дієвідміни (ґодан на -ぶ), утворене поєднанням 消す (гасити, стирати) та 飛ぶ (летіти); перехідна пара — 消し飛ばす. У переносному значенні часто описує миттєве зникнення втоми, тривоги чи сумнівів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1350100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 強い風で帽子が消し飛びました。
+- READING :: つよいかぜでぼうしがけしとびました。
+- UK :: Сильним вітром капелюх здуло геть.
+- FOCUS :: 消し飛びました
+*** ex-1350100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼女の明るい笑顔を見た瞬間、これまでの不安が一気に消し飛んだ。
+- READING :: かのじょのあかるいえがおをみたしゅんかん、これまでのふあんがいっきにけしとんだ。
+- UK :: Щойно я побачив її світлу усмішку, усі попередні тривоги миттю розвіялися.
+- FOCUS :: 消し飛んだ
+*** ex-1350100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 温泉にゆっくり浸かると、長旅の疲れがまるで嘘のように消し飛ぶ。
+- READING :: おんせんにゆっくりつかると、ながたびのつかれがまるでうそのようにけしとぶ。
+- UK :: Коли неквапливо занурюєшся в гаряче джерело, утома від довгої подорожі зникає, немов її й не було.
+- FOCUS :: 消し飛ぶ
+
+* Sense s-1350100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2f4d9579b226bb065bdb91b95ff291e0d685ba159d755ee8d6e253abb580ebf3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350100-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verfliegen
+*** en-s-1350100-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich zerstreuen
+** Ukrainian glosses
+
+* Sense s-1350100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f17bc92d739c5b5faaa3d8cceefb530cc7b9e488d4055c1e898101d4eb6c2414
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1350100-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отскочить, отлететь, вылететь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1350100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1350100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: けしとぶ

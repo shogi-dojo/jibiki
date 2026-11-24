@@ -1,0 +1,205 @@
+#+TITLE: 坑口
+#+JMDICT_ID: 1277380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうこう
+#+ROMAJI: koukou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1277380-001
+:PROPERTIES:
+:TEXT: 坑口
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1277380-001
+:PROPERTIES:
+:TEXT: こうこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+** Reading rd-1277380-002
+:PROPERTIES:
+:TEXT: こうぐち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1277380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e90602e5cf6e48bc40a017430f9d5a3dd57ca56ac6e1ade4b889404891c284d0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- pithead
+- minehead
+** Ukrainian glosses
+*** uk-s-1277380-001-001
+:PROPERTIES:
+:END:
+- text :: устя шахти; вхід до штольні (тунелю)
+** Learner notes
+*** note-s-1277380-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний і гірничий термін, утворений із 坑 («шахта, підземний хід») та 口 («вхід, отвір»). Означає вихід на поверхню вугільної чи рудної шахти, а також вхідний портал гірського тунелю; уживаються обидва читання — こうこう та こうぐち.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1277380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 作業員が坑口に集まる。
+- READING :: さぎょういんがこうこうにあつまる。
+- UK :: Робітники збираються біля входу в шахту.
+- FOCUS :: 坑口
+*** ex-1277380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昔の炭鉱の坑口が今も残っている。
+- READING :: むかしのたんこうのこうこうがいまものこっている。
+- UK :: Устя колишньої вугільної шахти збереглося й досі.
+- FOCUS :: 坑口
+*** ex-1277380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: トンネルの安全点検を行うため、作業チームが朝から坑口の周辺で準備を進めた。
+- READING :: とんねるのあんぜんてんけんをおこなうため、さぎょうちーむがあさからこうこうのしゅうへんでじゅんびをすすめた。
+- UK :: Щоб провести перевірку безпеки тунелю, робоча бригада з ранку готувалася біля входу в штольню.
+- FOCUS :: 坑口
+
+* Sense s-1277380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 63d6fd1701046e60dd676d1cc2d96149b2d9c815749bc8bc80b5343285d0737d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1277380-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {mijnb.} mijningang
+*** en-s-1277380-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schachtmond
+** Ukrainian glosses
+
+* Sense s-1277380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 02caccdc78f2c7898b4880e84a3e0d243c2de4418b8bcf9796497c7c2c914379
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1277380-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grubeneingang
+*** en-s-1277380-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schachteingang
+*** en-s-1277380-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stolleneingang
+*** en-s-1277380-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grubeneingang
+*** en-s-1277380-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stolleneingang
+** Ukrainian glosses
+
+* Sense s-1277380-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e08840d9eb38ab1dc901c880b7fb942290f489cdaff65e78c278d299713c79c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1277380-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: устье шахты, вход в шахту
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1277380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1277380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうこう

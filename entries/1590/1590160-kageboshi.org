@@ -1,0 +1,185 @@
+#+TITLE: 陰乾し
+#+JMDICT_ID: 1590160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かげぼし
+#+ROMAJI: kageboshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1590160-001
+:PROPERTIES:
+:TEXT: 陰乾し
+:END:
+** Written form wf-1590160-002
+:PROPERTIES:
+:TEXT: 陰干し
+:END:
+** Written form wf-1590160-003
+:PROPERTIES:
+:TEXT: 陰干
+:END:
+*** Information
+- io
+** Written form wf-1590160-004
+:PROPERTIES:
+:TEXT: 陰乾
+:END:
+*** Information
+- io
+** Reading rd-1590160-001
+:PROPERTIES:
+:TEXT: かげぼし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1590160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e8fd8fb810824dcf3bd5509d79805910c03398c3e6c12734321e8ca9fb2d66e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- drying in the shade
+** Ukrainian glosses
+*** uk-s-1590160-001-001
+:PROPERTIES:
+:END:
+- text :: сушіння в затінку
+** Learner notes
+*** note-s-1590160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне する-дієслово, утворене від 陰 («тінь, затінок») та 干す («сушити»). Позначає спосіб висушування делікатного одягу, трав, грибів чи виробів без прямого сонячного проміння, щоб уникнути вицвітання або псування; уживається як 陰乾しにする або 陰乾しする.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1590160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このセーターは陰乾しにしてください。
+- READING :: このせーたーはかげぼしにしてください。
+- UK :: Цей светр сушіть, будь ласка, у затінку.
+- FOCUS :: 陰乾し
+*** ex-1590160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 日焼けによる色あせを防ぐため、洗った着物は風通しのよい所で陰乾しする。
+- READING :: ひやけによるいろあせをふせぐため、あらったきものはかぜとおしのよいところでかげぼしする。
+- UK :: Щоб тканина не вигоріла на сонці, випране кімоно сушать у добре провітрюваному затінку.
+- FOCUS :: 陰乾し
+*** ex-1590160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 秋に摘んだ薬草を丁寧に洗ってから、軒下に吊るしてじっくりと陰乾しにした。
+- READING :: あきにつんだやくそうをていねいにあらってから、のきしたにつるしてじっくりとかげぼしにした。
+- UK :: Восени зібрані цілющі трави ретельно промили, а потім розвісили під стріхою повільно сушитися в затінку.
+- FOCUS :: 陰乾し
+
+* Sense s-1590160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 28ef65a70ae4f0c96178cdadb62058db039179e64605a4a12130ee3071723480
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: im Schatten trocknen
+*** en-s-1590160-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Trocknen im Schatten
+** Ukrainian glosses
+
+* Sense s-1590160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ee7e2b4986cd2582192903d4bf19890102048fd232c1263c8887f239285b650e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сушка в тени
+*** en-s-1590160-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～にする} сушить в тени
+** Ukrainian glosses
+
+* Sense s-1590160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cfc8ddb868a76aac61244f168f9bfb4644a0c10453fd85f7841e13b0eccb97f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590160-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: secarse en la sombra
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1590160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1590160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かげぼし

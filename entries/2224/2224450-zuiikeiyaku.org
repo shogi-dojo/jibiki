@@ -1,0 +1,161 @@
+#+TITLE: 随意契約
+#+JMDICT_ID: 2224450
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ずいいけいやく
+#+ROMAJI: zuiikeiyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2224450-001
+:PROPERTIES:
+:TEXT: 随意契約
+:END:
+** Reading rd-2224450-001
+:PROPERTIES:
+:TEXT: ずいいけいやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2224450-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 37adf608688ab7dcf07007b824a151da25c731664b271dc109e1d068e3e0d331
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- private contract
+- negotiated contract
+- limited tender contract
+** Ukrainian glosses
+*** uk-s-2224450-001-001
+:PROPERTIES:
+:END:
+- text :: договір без конкурсу; пряма угода (за домовленістю)
+** Learner notes
+*** note-s-2224450-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційно-діловий і юридичний іменник для позначення контракту, який державні чи муніципальні органи укладають без відкритих торгів із конкретним виконавцем. Складається з основ 随意 (на власний розсуд) та 契約 (договір) і часто протиставляється 一般競争入札 (відкритим торгам).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2224450-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 市はその会社と随意契約を結んだ。
+- READING :: しはそのかいしゃとずいいけいやくをむすんだ。
+- UK :: Місто уклало з тією компанією прямий договір.
+- FOCUS :: 随意契約
+*** ex-2224450-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 緊急の災害復旧工事のため、入札ではなく随意契約が選ばれた。
+- READING :: きんきゅうのさいがいふっきゅうこうじのため、にゅうさつではなくずいいけいやくがえらばれた。
+- UK :: Через термінові роботи з ліквідації наслідків стихійного лиха замість тендеру обрали договір без конкурсу.
+- FOCUS :: 随意契約
+*** ex-2224450-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 透明性を高める観点から、随意契約を適用する条件が厳しく見直されている。
+- READING :: とうめいせいをたかめるかんてんから、ずいいけいやくをてきようするじょうけんがきびしくみなおされている。
+- UK :: Із метою підвищення прозорості умови застосування прямих угод суворо переглядають.
+- FOCUS :: 随意契約
+
+* Sense s-2224450-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bfc6a4dcc48e47cc1831b64f8c7705551b71103bb6dbfc3dcdcef94116603664
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2224450-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: freihändige Vergabe
+** Ukrainian glosses
+
+* Sense s-2224450-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6f6b8afe75cea36b24b26b201b3b05f2c997a9c9501f243d68d7b578a483908b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2224450-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: freihändig vergebener Vertrag
+*** en-s-2224450-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unter der Hand vergebener Vertrag
+** Ukrainian glosses
+
+* Sense s-2224450-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 24813ce85be168ab73508d16aee43c250328354428cafaee401f7c4284a1bb80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2224450-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: частное соглашение (официально не засвидетельствованное)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2224450-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2224450-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ずいいけいやく

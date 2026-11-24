@@ -1,0 +1,159 @@
+#+TITLE: 直筆
+#+JMDICT_ID: 1431500
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じきひつ
+#+ROMAJI: jikihitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1431500-001
+:PROPERTIES:
+:TEXT: 直筆
+:END:
+*** Priorities
+- news2
+- nf27
+** Reading rd-1431500-001
+:PROPERTIES:
+:TEXT: じきひつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf27
+
+* Sense s-1431500-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8ab34630e9477f5ebaf7b6ae20b426d4e28fa6394b83b2da5db8359628190f89
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- one's own handwriting
+- autograph
+** Ukrainian glosses
+*** uk-s-1431500-001-001
+:PROPERTIES:
+:END:
+- text :: власноручний почерк; власноручний запис; автограф
+** Learner notes
+*** note-s-1431500-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та означення з часткою の, утворене від 直 («прямий, безпосередній») і 筆 («пензель, письмо»). Вказує на текст, лист або підпис, написаний власною рукою автора без посередників (наприклад, 直筆の手紙 «власноруч написаний лист», 直筆サイン «власноручний автограф»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1431500-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: これは先生の直筆です。
+- READING :: これはせんせいのじきひつです。
+- UK :: Це написано рукою самого вчителя.
+- FOCUS :: 直筆
+*** ex-1431500-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 博物館に有名な作家の直筆の手紙が飾られています。
+- READING :: はくぶつかんにゆうめいなさっかのじきひつのてがみがかざられています。
+- UK :: У музеї виставлено лист, написаний власноруч відомим письменником.
+- FOCUS :: 直筆
+*** ex-1431500-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 当選者には、選手たちの直筆メッセージが入った色紙が贈られる予定です。
+- READING :: とうせんしゃには、せんしゅたちのじきひつめっせーじがはいったしきしがおくられるよていです。
+- UK :: Переможцям розіграшу планують подарувати пам'ятні картки шікіші з власноручними побажаннями від спортсменів.
+- FOCUS :: 直筆
+
+* Sense s-1431500-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 946f2c613d82726576cda3ef15338f2b836e8e1cdf8ffd3257c8766dd0033a03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431500-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigenhändige Schrift
+** Ukrainian glosses
+
+* Sense s-1431500-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fc61ea76416fedf761cb7a34ccce1728632cccb0a045689ae71fa9fdbe8948c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431500-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schreiben an jmdn. persönlich
+** Ukrainian glosses
+
+* Sense s-1431500-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0e962c1a48f9fd2845fa9cbf90999429ea846049082703c032710de81e627c0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431500-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: автограф, написанное собственноручно
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1431500-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1431500-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じきひつ

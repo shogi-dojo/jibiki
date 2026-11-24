@@ -1,0 +1,160 @@
+#+TITLE: 同人雑誌
+#+JMDICT_ID: 1452800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どうじんざっし
+#+ROMAJI: doujinzasshi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1452800-001
+:PROPERTIES:
+:TEXT: 同人雑誌
+:END:
+** Reading rd-1452800-001
+:PROPERTIES:
+:TEXT: どうじんざっし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1452800-002
+:PROPERTIES:
+:TEXT: どうにんざっし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1452800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 56a3bb3bf3820fcc0b6a066f52a4a7a1b360c82adf038c7912e0e13b8ec0f26c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 同人誌
+** English glosses
+- magazine published by like-minded people
+- fanzine
+- zine
+** Ukrainian glosses
+*** uk-s-1452800-001-001
+:PROPERTIES:
+:END:
+- text :: журнал однодумців (літературного чи творчого гуртка); самвидавний журнал, зін, фензін
+** Learner notes
+*** note-s-1452800-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (скорочено також 同人誌). Позначає видання, яке група однодумців чи авторів випускає власним коштом без комерційного видавництва: в історії японської літератури такі журнали часто ставали стартовим майданчиком для відомих письменників, а сьогодні це поняття охоплює й аматорські зіни.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1452800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友人と一緒に同人雑誌を作った。
+- READING :: ゆうじんといっしょにどうじんざっしをつくった。
+- UK :: Разом із друзями ми створили журнал нашого творчого гуртка.
+- FOCUS :: 同人雑誌
+*** ex-1452800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この有名な作家は、学生時代の同人雑誌に最初の小説を発表した。
+- READING :: このゆうめいなさっかは、がくせいじだいのどうじんざっしにさいしょのしょうせつをはっぴょうした。
+- UK :: Цей відомий письменник опублікував своє перше оповідання в студентському самвидавному журналі.
+- FOCUS :: 同人雑誌
+*** ex-1452800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 文学の世界では、商業誌には載らない実験的な作品が同人雑誌から生まれることも多い。
+- READING :: ぶんがくのせかいでは、しょうぎょうしにはのらないじっけんてきなさくひんがどうじんざっしからうまれることもおおい。
+- UK :: У світі літератури експериментальні твори, які не потрапляють до комерційних видань, нерідко народжуються саме в журналах однодумців.
+- FOCUS :: 同人雑誌
+
+* Sense s-1452800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7027fb3fb0ba4dd135ebe5a9bb40335fb55f65478b1f08179b9296b4e1892019
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452800-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Privatzeitschrift
+*** en-s-1452800-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zeitschrift einer literarischen Gruppe
+** Ukrainian glosses
+
+* Sense s-1452800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5ebe41f96b547f42ca8cf30a50a71f5b0c5dbc4790c360ca04022d12955c56bb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452800-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: журнал литературной группы (не коммерческий)
+*** en-s-1452800-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) どうにんざっし
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1452800-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1452800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どうじんざっし

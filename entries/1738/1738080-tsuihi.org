@@ -1,0 +1,157 @@
+#+TITLE: 追肥
+#+JMDICT_ID: 1738080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ついひ
+#+ROMAJI: tsuihi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1738080-001
+:PROPERTIES:
+:TEXT: 追肥
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1738080-001
+:PROPERTIES:
+:TEXT: ついひ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1738080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1f54b670c68a9f0a7c85ea9093e5d084d8d9b1148c193453318ece2f32b8f575
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (adding) extra fertilizer or manure (fertiliser)
+** Ukrainian glosses
+*** uk-s-1738080-001-001
+:PROPERTIES:
+:END:
+- text :: підживлення (рослин); додаткове добриво
+** Learner notes
+*** note-s-1738080-001-001
+:PROPERTIES:
+:END:
+- UK :: Сільськогосподарський термін із 追 («додавати вслід») та 肥 («добриво»). Означає внесення додаткової порції добрив у період росту культури після основного удобрення перед посівом（元肥 — もとごえ）.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1738080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 野菜に追肥をした。
+- READING :: やさいについひをした。
+- UK :: Я підживив овочі додатковим добривом.
+- FOCUS :: 追肥
+*** ex-1738080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: トマトの実が大きくなる時期に合わせて追肥を行う。
+- READING :: とまとのみがおおきくなるじきにあわせてついひをおこなう。
+- UK :: Підживлення проводять саме тоді, коли плоди помідорів починають рости.
+- FOCUS :: 追肥
+*** ex-1738080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 苗を植えてから数週間後に適切な追肥を施すことで、収穫量を安定させることができる。
+- READING :: なえをうえてからすうしゅうかんごにてきせつなついひをほどこすことで、しゅうかくりょうをあんていさせることができる。
+- UK :: Внесення належного підживлення за кілька тижнів після висаджування розсади допомагає стабілізувати врожайність.
+- FOCUS :: 追肥
+
+* Sense s-1738080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 345630b9f0d74f7860323df6a95f72564029526c1743bfc7c95b2764c0c84e6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1738080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kopfdünger
+** Ukrainian glosses
+
+* Sense s-1738080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6668f7bc8f742040a82ddc1060cb4ed2b890419cfe1cd8605eaacacac3a00f70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1738080-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kopfdüngung
+** Ukrainian glosses
+
+* Sense s-1738080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1b3a4bfc104b925504a35f767f7b263b5a451f296f8b7f560845915f95c63bda
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1738080-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (с.-х.) дополнительное удобрение; подкормка (растений)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1738080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1738080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ついひ

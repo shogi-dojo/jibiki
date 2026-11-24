@@ -1,0 +1,158 @@
+#+TITLE: 上り列車
+#+JMDICT_ID: 1352560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のぼりれっしゃ
+#+ROMAJI: noboriressha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1352560-001
+:PROPERTIES:
+:TEXT: 上り列車
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1352560-001
+:PROPERTIES:
+:TEXT: のぼりれっしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1352560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bfc8a80ac59c2ba77638571d5df6f7148ba00f37e246c8ef9230e4e4e9842d28
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- up-train
+- train heading toward the starting point of its route
+** Ukrainian glosses
+*** uk-s-1352560-001-001
+:PROPERTIES:
+:END:
+- text :: потяг у напрямку столиці; потяг до початкової станції маршруту
+** Learner notes
+*** note-s-1352560-001-001
+:PROPERTIES:
+:END:
+- UK :: Залізничний термін, утворений із 上り («рух до центру, вгору») та 列車 («потяг»). У Японії так називають потяг, що прямує до початкової станції лінії — на загальнонаціональних маршрутах це зазвичай напрямок у бік Токіо; протилежний напрямок називають 下り列車.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1352560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 東京行きの上り列車が駅に着いた。
+- READING :: とうきょうゆきののぼりれっしゃがえきについた。
+- UK :: На станцію прибув потяг у бік Токіо.
+- FOCUS :: 上り列車
+*** ex-1352560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 休日の夕方は、都心へ戻る上り列車が混雑しやすい。
+- READING :: きゅうじつのゆうがたは、としんへもどるのぼりれっしゃがこんざつしやすい。
+- UK :: Увечері у вихідні потяги, що повертаються до центру міста, зазвичай переповнені.
+- FOCUS :: 上り列車
+*** ex-1352560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大雪の影響で下り線は遅れていたが、上り列車はほぼ時刻表どおりに運行していた。
+- READING :: おおゆきのえいきょうでくだりせんはおくれていたが、のぼりれっしゃはほぼじこくひょうどおりにうんこうしていた。
+- UK :: Через сильний снігопад потяги в напрямку зі столиці затримувалися, проте потяги до центру курсували майже за розкладом.
+- FOCUS :: 上り列車
+
+* Sense s-1352560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6ee0c4028fd4af2be1775492c61ef6dc54367fd2e201c0064c87c75cd2086680
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zug, der in die Stadt (insbes. nach Tōkyō) fährt
+** Ukrainian glosses
+
+* Sense s-1352560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 742f9671cf9459eee74f3741a3b0706ca44d33628ac232c5249eeaa20324ade8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352560-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: főváros felé menő vonat
+** Ukrainian glosses
+
+* Sense s-1352560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e1430b29ec369e53c598d7f7a737b898ebfaac751a32b02e184ef0645820037a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поезд, идущий в столицу (центр), чётный поезд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1352560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1352560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のぼりれっしゃ

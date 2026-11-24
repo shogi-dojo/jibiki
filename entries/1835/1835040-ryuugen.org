@@ -1,0 +1,133 @@
+#+TITLE: 流言
+#+JMDICT_ID: 1835040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りゅうげん
+#+ROMAJI: ryuugen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1835040-001
+:PROPERTIES:
+:TEXT: 流言
+:END:
+** Reading rd-1835040-001
+:PROPERTIES:
+:TEXT: りゅうげん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1835040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6af3dbf7cde1c8d39777ef27a131c96d4f5688546c1437a5514fb099d0dba64d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- groundless rumor (rumour)
+** Ukrainian glosses
+*** uk-s-1835040-001-001
+:PROPERTIES:
+:END:
+- text :: безпідставні чутки; поговір; наклепницькі плітки
+** Learner notes
+*** note-s-1835040-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що позначає неперевірені, вигадані або шкідливі чутки, які швидко ширяться серед людей (від 流 — «текти, поширюватися» та 言 — «слово»). Часто вживається у виразах 流言を放つ, 流言を飛ばす («розпускати плітки») та у фразеологізмі 流言飛語.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1835040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 根拠のない流言を信じてはいけません。
+- READING :: こんきょのないりゅうげんをしんじてはいけません。
+- UK :: Не варто вірити безпідставним чуткам.
+- FOCUS :: 流言
+*** ex-1835040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 災害のあとには、不安をあおる流言が広がりやすいので注意が必要です。
+- READING :: さいがいのあとには、ふあんをあおるりゅうげんがひろがりやすいのでちゅういがひつようです。
+- UK :: Після стихійних лих легко ширяться чутки, що сіють тривогу, тому треба бути обачними.
+- FOCUS :: 流言
+*** ex-1835040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 悪意のある流言に惑わされず、確かな情報源を自分の目で確かめることが大切だ。
+- READING :: あくいのあるりゅうげんにまどわされず、たしかなじょうほうげんをじぶんのめでたしかめることがたいせつだ。
+- UK :: Важливо не піддаватися зловмисним чуткам і власноруч перевіряти надійність джерел інформації.
+- FOCUS :: 流言
+
+* Sense s-1835040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 632547a84221ae4ef9f56877717fa2411f31fadb7bea1c03bcc8b712f94dc505
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1835040-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haltloses Gerücht
+** Ukrainian glosses
+
+* Sense s-1835040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 077a4fd545d02d334809aa063e7b716fd908e81c7ad9dca331ac2841387ccd4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1835040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: толки, сплетни; ложный слух, утка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1835040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1835040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りゅうげん

@@ -1,0 +1,199 @@
+#+TITLE: 強がり
+#+JMDICT_ID: 1236110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つよがり
+#+ROMAJI: tsuyogari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1236110-001
+:PROPERTIES:
+:TEXT: 強がり
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1236110-001
+:PROPERTIES:
+:TEXT: つよがり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1236110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8048c8cca598747f7e2ea89e39d8624ded2facb414371225ad5505929ce7811c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- show of courage
+- bluff
+** Ukrainian glosses
+*** uk-s-1236110-001-001
+:PROPERTIES:
+:END:
+- text :: напускна сміливість; бравада; удавана впевненість
+** Learner notes
+*** note-s-1236110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від дієслова 強がる (удавати з себе сильного, хоробритися). Описує слова або поведінку людини, яка приховує справжній страх, слабкість чи біль за удаваною бадьорістю; типові сполуки — 強がりを言う (говорити з напускною хоробрістю) та 強がりを見せる (демонструвати удавану стійкість).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1236110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: それはただの強がりですよ。
+- READING :: それはただのつよがりですよ。
+- UK :: Це лише напускна сміливість.
+- FOCUS :: 強がり
+*** ex-1236110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 本当は寂しいくせに、彼はいつも強がりを言って弱音を見せない。
+- READING :: ほんとうはさびしいくせに、かれはいつもつよがりをいってよわねをみせない。
+- UK :: Хоча насправді йому самотньо, він завжди хизується удаваною впевненістю й не показує слабкості.
+- FOCUS :: 強がり
+*** ex-1236110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 試験に落ちても平気な顔をしていたが、あとになってあの態度は精一杯の強がりだったと打ち明けた。
+- READING :: しけんにおちてもへいきなかおをしていたが、あとになってあのたいどはせいいっぱいのつよがりだったとうちあけた。
+- UK :: Він робив незворушний вигляд, навіть проваливши іспит, та згодом зізнався, що та поведінка була лише відчайдушною бравадою.
+- FOCUS :: 強がり
+
+* Sense s-1236110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 579bca1158a0aab2235f4b52ccf18cda92bec7a9abff16294d873f5163268900
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1236110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bluff
+** Ukrainian glosses
+
+* Sense s-1236110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a0472ee53dc497871cc0c163a8ca0fedc436f416750224be6c166f398c7c4cf0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1236110-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: blöff
+*** en-s-1236110-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meredek
+*** en-s-1236110-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyers modorú
+*** en-s-1236110-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: partmeredély
+** Ukrainian glosses
+
+* Sense s-1236110-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 09230763852c5c1415b39c8f2562a2d80d98ca6ddf1f7e193f2d3743a07080c2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1236110-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: хвастовство своей силой; блеф
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1236110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1236110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: つよがり
+** Accent accent-rd-1236110-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1236110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: つよがり

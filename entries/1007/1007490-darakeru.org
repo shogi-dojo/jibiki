@@ -1,0 +1,206 @@
+#+TITLE: だらける
+#+JMDICT_ID: 1007490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: だらける
+#+ROMAJI: darakeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1007490-001
+:PROPERTIES:
+:TEXT: だらける
+:NO_KANJI: false
+:END:
+** Reading rd-1007490-002
+:PROPERTIES:
+:TEXT: ダラける
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1007490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 93319396ac00f09f5ce7c70fa8fb7164eb5df75536c6366acffc80c98cb7b7f2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to be lazy
+- to be slack
+- to feel dull
+- to feel languid
+- to feel listless
+** Ukrainian glosses
+*** uk-s-1007490-001-001
+:PROPERTIES:
+:END:
+- text :: розслаблятися; байдикувати; млявіти; втрачати зібраність
+** Learner notes
+*** note-s-1007490-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово першої відміни (ічідан), що описує стан фізичної чи душевної млявості, лінощів або втрати дисципліни. Часто вживається у формі だらけている («бути розслабленим, незібраним») або щодо атмосфери на зборах чи в класі, коли увага розсіюється.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1007490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 休みの日はつい家でだらけてしまいます。
+- READING :: やすみのひはついいえでだらけてしまいます。
+- UK :: У вихідні я мимоволі розслабляюся й байдикую вдома.
+- FOCUS :: だらけて
+*** ex-1007490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長時間の会議で、参加者の空気がだんだんだらけてきました。
+- READING :: ちょうじかんのかいぎで、さんかしゃのくうきがだんだんだらけてきました。
+- UK :: Через тривалу нараду настрій серед учасників поступово став млявим.
+- FOCUS :: だらけて
+*** ex-1007490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 目標を失うと生活がだらけるため、毎日決まった時間に起きるようにしている。
+- READING :: もくひょうをうしなうとせいかつがだらけるため、まいにちきまったじかんにおきるようにしている。
+- UK :: Коли втрачаєш мету, побут розладнується і втрачається зібраність, тому я намагаюся щодня прокидатися в один і той самий час.
+- FOCUS :: だらける
+
+* Sense s-1007490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5dbebfe4d1a4db96dc95389ba50f5b2db7419b908cca6c3035ced87a48a5b14a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1007490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faul sein
+*** en-s-1007490-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keinen Schwung haben
+** Ukrainian glosses
+
+* Sense s-1007490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6b610dffdecd2bf1eccbac5ffadba48f02a548a5f2bd305cada28d65d13a4824
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1007490-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) быть вялым
+*** en-s-1007490-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) быть неопрятным; (прям. и перен.) быть нечистоплотным
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1007490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1007490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: だらける
+** Accent accent-rd-1007490-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1007490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: だらける
+** Accent accent-rd-1007490-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1007490-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ダラける
+** Accent accent-rd-1007490-002-002
+:PROPERTIES:
+:TARGET_ID: rd-1007490-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ダラける

@@ -1,0 +1,153 @@
+#+TITLE: 女工
+#+JMDICT_ID: 1761920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょこう
+#+ROMAJI: jokou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1761920-001
+:PROPERTIES:
+:TEXT: 女工
+:END:
+** Reading rd-1761920-001
+:PROPERTIES:
+:TEXT: じょこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1761920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 08ebc6669995bafda04163f191c7bf396c7c132f8e5b5d60d28787e5ca43b150
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- obs
+** English glosses
+- female factory worker
+** Ukrainian glosses
+*** uk-s-1761920-001-001
+:PROPERTIES:
+:END:
+- text :: робітниця (на фабриці, заводі)
+** Learner notes
+*** note-s-1761920-001-001
+:PROPERTIES:
+:END:
+- UK :: Застарілий іменник, що позначав жінок-робітниць промислових підприємств, передусім на текстильних фабриках у період ранньої індустріалізації Японії. Складається з 女 (жінка) та 工 (робітник, ремісник); у сучасній мові замінений нейтральним словом 女性労働者.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1761920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 工場で多くの女工が働いていた。
+- READING :: こうじょうでおおくのじょこうがはたらいていた。
+- UK :: На фабриці працювало багато робітниць.
+- FOCUS :: 女工
+*** ex-1761920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 当時の小説には、過酷な環境で働く女工の姿が描かれている。
+- READING :: とうじのしょうせつには、かこくなかんきょうではたらくじょこうのすがたがかかれている。
+- UK :: У романах того часу змальовано життя фабричних робітниць, які трудилися в суворих умовах.
+- FOCUS :: 女工
+*** ex-1761920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近代史の授業では、製糸工場を支えた女工たちの労働条件や生活実態について資料をもとに学んだ。
+- READING :: きんだいしのじゅぎょうでは、せいしこうじょうをささえたじょこうたちのろうどうじょうけんやせいかつじったいについてしりょうをもとにまなんだ。
+- UK :: На занятті з нової історії ми за архівними матеріалами вивчали умови праці та побут робітниць, які тримали на собі шовкопрядильні фабрики.
+- FOCUS :: 女工
+
+* Sense s-1761920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fcdbcb6204c882f7228765995abc266232ef88e56358040e2e05af82a98cdb79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1761920-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fabrikarbeiterin
+** Ukrainian glosses
+
+* Sense s-1761920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 03fc3b54e5985bdc5a7ff2fb7522793b9e1379abfd13388478217e83e99a9798
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1761920-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: работница (на фабрике, заводе и т. п.)
+** Ukrainian glosses
+
+* Sense s-1761920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9df787d886acbba627d0c10d67a1f9acbc275e2b03f50d61ef321e96eab40bb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1761920-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: trabajadora de fábrica
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1761920-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1761920-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じょこう

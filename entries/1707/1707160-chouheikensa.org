@@ -1,0 +1,141 @@
+#+TITLE: 徴兵検査
+#+JMDICT_ID: 1707160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうへいけんさ
+#+ROMAJI: chouheikensa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1707160-001
+:PROPERTIES:
+:TEXT: 徴兵検査
+:END:
+** Reading rd-1707160-001
+:PROPERTIES:
+:TEXT: ちょうへいけんさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1707160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5dd4fcd2225be3b5609198ed91fb249dd54e696aa0eba0dfbf2986d1adc5fb3d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- physical examination (given at conscription)
+** Ukrainian glosses
+*** uk-s-1707160-001-001
+:PROPERTIES:
+:END:
+- text :: призовний медогляд; медичне обстеження призовників
+** Learner notes
+*** note-s-1707160-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний і військово-адміністративний термін від 徴兵 (призов на військову службу) та 検査 (огляд, перевірка). У довоєнній Японії кожен юнак по досягненні двадцяти років проходив такий огляд, що часто згадується в мемуарах і літературі (наприклад, 徴兵検査を受ける — проходити призовну комісію).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1707160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は若いころ徴兵検査を受けた。
+- READING :: そふはわかいころちょうへいけんさをうけた。
+- UK :: Мій дідусь замолоду проходив призовний медогляд.
+- FOCUS :: 徴兵検査
+*** ex-1707160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼は視力が悪かったため、徴兵検査で不合格となった。
+- READING :: かれはしりょくがわるかったため、ちょうへいけんさでふごうかくとなった。
+- UK :: Через поганий зір його визнали непридатним під час призовного медогляду.
+- FOCUS :: 徴兵検査
+*** ex-1707160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 当時の記録には、全国から集められた若者たちが厳しい徴兵検査に臨む様子が詳しく記されている。
+- READING :: とうじのきろくには、ぜんこくからあつめられたわかものたちがきびしいちょうへいけんさにのぞむようすがくわしくしるされている。
+- UK :: У тогочасних хроніках докладно описано, як юнаки з усієї країни проходили суворий призовний медичний огляд.
+- FOCUS :: 徴兵検査
+
+* Sense s-1707160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 18a81f4a1bb3f2e534f69064a970fd77b9d3af3d0047f65f4312eddaec8c3a73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1707160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Musterung
+*** en-s-1707160-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Untersuchung zur Feststellung der Tauglichkeit zum Militärdienst
+** Ukrainian glosses
+
+* Sense s-1707160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 84124c57b394184e2db53e11ad2a6a52a2b07a7dd1abe924fa787c63d1117d71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1707160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: медицинское освидетельствование призывников
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1707160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1707160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ちょうへいけんさ

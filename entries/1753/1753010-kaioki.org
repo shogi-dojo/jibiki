@@ -1,0 +1,181 @@
+#+TITLE: 買い置き
+#+JMDICT_ID: 1753010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいおき
+#+ROMAJI: kaioki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1753010-001
+:PROPERTIES:
+:TEXT: 買い置き
+:END:
+** Written form wf-1753010-002
+:PROPERTIES:
+:TEXT: 買置き
+:END:
+** Reading rd-1753010-001
+:PROPERTIES:
+:TEXT: かいおき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1753010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ea20934c57ea162ad2563808b272aaffcefa1894c50bd6f94d1a3fd9ed03442a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- stock (of goods)
+- reserve
+- supply
+** Ukrainian glosses
+*** uk-s-1753010-001-001
+:PROPERTIES:
+:END:
+- text :: запас (куплений про запас); закупівля наперед
+** Learner notes
+*** note-s-1753010-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する (買い置きする — «купувати про запас»). Утворено від основ дієслів 買う («купувати») та 置く («класти, залишати наперед»); означає завчасно придбані продукти чи побутові речі (наприклад, 買い置きがある — «є запас удома»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1753010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家にお米の買い置きがあります。
+- READING :: いえにおこめのかいおきがあります。
+- UK :: Удома є запас рису.
+- FOCUS :: 買い置き
+*** ex-1753010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 台風が近づいているので、水や乾電池を少し買い置きしておいた。
+- READING :: たいふうがちかづいているので、みずやかんでんちをすこしかいおきしておいた。
+- UK :: Оскільки наближається тайфун, я заздалегідь купив про запас трохи води й батарейок.
+- FOCUS :: 買い置き
+*** ex-1753010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 特売日に日用品を買い置きするのは節約になるが、保管場所を取るのが難点だ。
+- READING :: とくばいびににちようひんをかいおきするのはせつやくになるが、ほかんばしょをとるのがなんてんだ。
+- UK :: Купувати товари повсякденного вжитку про запас у дні розпродажів допомагає заощадити, але незручність у тому, що вони займають місце для зберігання.
+- FOCUS :: 買い置き
+
+* Sense s-1753010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f85b33141938496c4b76f21d900d256d8a94f4e8818927e7bdd1a3c8eb7b9eac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753010-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Vorrat
+*** en-s-1753010-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lagerbestand
+*** en-s-1753010-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einlagern
+*** en-s-1753010-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufspeichern
+*** en-s-1753010-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf Vorrat anschaffen
+*** en-s-1753010-002-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hamstern
+** Ukrainian glosses
+
+* Sense s-1753010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0bdc40ac7dac8a817d6c41b971a839a8c3ef2c0fdc126b084347d44e6a15b173
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753010-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～をする} покупать про запас (впрок)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1753010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1753010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かいおき

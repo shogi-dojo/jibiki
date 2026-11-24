@@ -1,0 +1,199 @@
+#+TITLE: ポータブル
+#+JMDICT_ID: 1124680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ポータブル
+#+ROMAJI: pootaburu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1124680-001
+:PROPERTIES:
+:TEXT: ポータブル
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1124680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 37ef7a44783420d91def7603b9a163226cc9101888150388fc24e33d7483e096
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- portable
+** Ukrainian glosses
+*** uk-s-1124680-001-001
+:PROPERTIES:
+:END:
+- text :: портативний, переносний
+** Learner notes
+*** note-s-1124680-001-001
+:PROPERTIES:
+:END:
+- UK :: Запозичення з англійської мови (portable), що функціонує як な-прикметник або іменник, але найчастіше трапляється як перша частина складних назв приладів: ポータブル電源 («портативна зарядна станція»), ポータブルオーディオ («переносний аудіоплеєр»). Синонім японського походження — 携帯用.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1124680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行にポータブルな充電器を持っていく。
+- READING :: りょこうにぽーたぶるなじゅうでんきをもっていく。
+- UK :: У подорож я беру із собою портативний зарядний пристрій.
+- FOCUS :: ポータブル
+*** ex-1124680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 停電に備えて、ポータブル電源を一台買っておいた。
+- READING :: ていでんにそなえて、ぽーたぶるでんげんをいちだいかっておいた。
+- UK :: На випадок відключення світла я завчасно купив одну портативну зарядну станцію.
+- FOCUS :: ポータブル
+*** ex-1124680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 小型で軽いポータブル機器が増えたおかげで、どこでも作業ができるようになった。
+- READING :: こがたでかるいぽーたぶるききがふえたおかげで、どこでもさぎょうができるようになった。
+- UK :: Завдяки появі великої кількості компактних і легких портативних пристроїв стало можливо працювати будь-де.
+- FOCUS :: ポータブル
+
+* Sense s-1124680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7038573ad916a1b5ca498412c8a226c028b14cd3ea3fe1d743b10207be467b42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1124680-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: draagbaar
+** Ukrainian glosses
+
+* Sense s-1124680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cb18d70c3da8d2a4d753e335a4fd6d70b538cb64124416d42837063247754a83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1124680-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tragbar
+*** en-s-1124680-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Portable
+*** en-s-1124680-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. Tragbares
+** Ukrainian glosses
+
+* Sense s-1124680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 531410039152b6a39e5dbe347a935e5288257923d9583546017b8b24a3523004
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1124680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) portable) переносный, портативный
+** Ukrainian glosses
+
+* Sense s-1124680-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 97df044c83a8096434578ceb6aaa634ea09aba0f74be29353e80677bc254ac2d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1124680-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: portátil (eng: portable)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1124680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1124680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ポータブル
+** Accent accent-rd-1124680-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1124680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ポータブル

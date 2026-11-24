@@ -1,0 +1,168 @@
+#+TITLE: 貿易商
+#+JMDICT_ID: 1836090
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぼうえきしょう
+#+ROMAJI: bouekishou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1836090-001
+:PROPERTIES:
+:TEXT: 貿易商
+:END:
+** Reading rd-1836090-001
+:PROPERTIES:
+:TEXT: ぼうえきしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1836090-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 57f2adfeaef527cde0a3a9ddd4388a571db0330bc3d62a63d49bf2245843cf46
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- trader
+** Ukrainian glosses
+*** uk-s-1836090-001-001
+:PROPERTIES:
+:END:
+- text :: комерсант; купець, що веде зовнішню торгівлю; експортер-імпортер
+** Learner notes
+*** note-s-1836090-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений з 貿易 («зовнішня торгівля») та 商 («торговець, купець»). Позначає приватного підприємця або купця, який займається міжнародною торгівлею, особливо в історичному чи літературному контексті.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1836090-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は若いころ貿易商でした。
+- READING :: そふはわかいころぼうえきしょうでした。
+- UK :: Мій дідусь у молодості був купцем, який займався міжнародною торгівлею.
+- FOCUS :: 貿易商
+*** ex-1836090-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その貿易商は海外から珍しい香辛料を輸入していた。
+- READING :: そのぼうえきしょうはかいがいからめずらしいこうしんりょうをゆにゅうしていた。
+- UK :: Той комерсант імпортував з-за кордону рідкісні прянощі.
+- FOCUS :: 貿易商
+*** ex-1836090-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 港町で財を成した貿易商は、地元の文化事業にも惜しみなく資金を提供した。
+- READING :: みなとまちでざいをなしたぼうえきしょうは、じもとのぶんかじぎょうにもおしみなくしきんをていきょうした。
+- UK :: Комерсант, який розбагатів у портовому місті, щедро фінансував і місцеві культурні проєкти.
+- FOCUS :: 貿易商
+
+* Sense s-1836090-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2090852684d6b336ed438900c0ef8e7e755912ffb98c369c6667ebd888ad15ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1836090-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Händler
+** Ukrainian glosses
+
+* Sense s-1836090-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5542a43dadecee97b4dd249bba5305aec3b8398f170123e21067bc7614ec6801
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1836090-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kereskedő
+** Ukrainian glosses
+
+* Sense s-1836090-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3d6dbf352b3f55ba2c01e083da0b6e1e4100887419894997fba88dd51b15f7b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1836090-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: купец (коммерсант), ведущий внешнюю торговлю
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1836090-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1836090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぼうえきしょう
+** Accent accent-rd-1836090-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1836090-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぼうえきしょう

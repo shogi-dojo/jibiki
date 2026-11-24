@@ -1,0 +1,147 @@
+#+TITLE: 出任せ
+#+JMDICT_ID: 1339940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でまかせ
+#+ROMAJI: demakase
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1339940-001
+:PROPERTIES:
+:TEXT: 出任せ
+:END:
+** Written form wf-1339940-002
+:PROPERTIES:
+:TEXT: 出まかせ
+:END:
+** Reading rd-1339940-001
+:PROPERTIES:
+:TEXT: でまかせ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1339940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cc723a8873c65c2d17a79aa61b4152e3297cfb841b095e96c4c89dce671ec31e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- speaking without thinking
+- words spoken without much thought
+** Ukrainian glosses
+*** uk-s-1339940-001-001
+:PROPERTIES:
+:END:
+- text :: балачки навмання; бездумні слова; вигадка на ходу
+** Learner notes
+*** note-s-1339940-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і означення з часткою の (наприклад, 出任せのうそ — «навмання вигадана брехня») з негативним відтінком. Часто трапляється у звороті 出任せを言う («ляпати що заманеться, не думаючи»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1339940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: そんな出任せを言ってはいけない。
+- READING :: そんなでまかせをいってはいけない。
+- UK :: Не можна верзти такі бездумні слова.
+- FOCUS :: 出任せ
+*** ex-1339940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼はピンチを切り抜けるために、その場しのぎの出任せを言った。
+- READING :: かれはぴんちをきりぬけるために、そのばしのぎのでまかせをいった。
+- UK :: Щоб викрутитися зі скрутного становища, він наговорив першого-ліпшого, що спало на думку.
+- FOCUS :: 出任せ
+*** ex-1339940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 根拠のない出任せばかり並べていると、やがて誰からも信用されなくなる。
+- READING :: こんきょのないでまかせばかりならべていると、やがてだれからもしんようされなくなる。
+- UK :: Якщо постійно вигадувати безпідставні нісенітниці, зрештою тобі перестануть вірити.
+- FOCUS :: 出任せ
+
+* Sense s-1339940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e81390c81e9e89a7ee6cbda50bfbc26374352a7709cd3560f2ddd502b9c7ef52
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1339940-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unverantwortliches Gerede
+** Ukrainian glosses
+
+* Sense s-1339940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1b06455a4ac66ee55a39971fdf483f38876932a59cc82fea3d66620621ebe591
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1339940-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[に]} наобум
+*** en-s-1339940-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～の} безответственный
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1339940-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1339940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: でまかせ

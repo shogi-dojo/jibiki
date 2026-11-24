@@ -1,0 +1,169 @@
+#+TITLE: 烈火
+#+JMDICT_ID: 1558560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れっか
+#+ROMAJI: rekka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1558560-001
+:PROPERTIES:
+:TEXT: 烈火
+:END:
+** Reading rd-1558560-001
+:PROPERTIES:
+:TEXT: れっか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1558560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a6fa5bc59ae4bc03172aa0a385b0b5f31379eecaa403e78b71d9dfbb3e4b3484
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- raging fire
+- conflagration
+** Ukrainian glosses
+*** uk-s-1558560-001-001
+:PROPERTIES:
+:END:
+- text :: шалене полум'я; лютий вогонь; нищівна пожежа
+** Learner notes
+*** note-s-1558560-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що складається з 烈 (лютий, несамовитий) і 火 (вогонь). Описує бурхливу стихію вогню, а в сучасному вжитку найчастіше трапляється у сталому порівнянні 烈火のごとく怒る (спалахнути несамовитим гнівом, розлютитися до нестями).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1558560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 烈火のような怒りを感じました。
+- READING :: れっかのようないかりをかんじました。
+- UK :: Я відчув лютий, наче вогонь, гнів.
+- FOCUS :: 烈火
+*** ex-1558560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: いつも穏やかな部長が、その報告を聞いて烈火のごとく怒り出した。
+- READING :: いつもおだやかなぶちょうが、そのほうこくをきいてれっかのごとくおこりだした。
+- UK :: Завжди спокійний начальник відділу, почувши цей звіт, розгнівався немов шалене полум'я.
+- FOCUS :: 烈火
+*** ex-1558560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 乾いた風が吹く中で上がった炎は、あっという間に街を飲み込む烈火へと広がった。
+- READING :: かわいたかぜがふくなかであがったほのおは、あっというまにまちをのみこむれっかへとひろがった。
+- UK :: Полум'я, що спалахнуло під сухим вітром, миттю розрослося в нищівну пожежу, яка поглинула квартал.
+- FOCUS :: 烈火
+
+* Sense s-1558560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: abbd707c6f625828d0812a0bb54d80b18224e5073b27eb7114b008b735a6f390
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1558560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: loderndes Feuer
+** Ukrainian glosses
+
+* Sense s-1558560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: df38304643a0f336c5d28d7548dcc2755088b84076bd772f0d81522f470cc035
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1558560-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tűzvész
+** Ukrainian glosses
+
+* Sense s-1558560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d9ba933377c8d1a7af1c0efffffd188590b93ef6ad4476c22f3ed31c7e562ccb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1558560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) бушующее пламя; (воен.) ожесточённый огонь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1558560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1558560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: れっか
+** Accent accent-rd-1558560-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1558560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: れっか

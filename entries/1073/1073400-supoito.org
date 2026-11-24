@@ -1,0 +1,281 @@
+#+TITLE: スポイト
+#+JMDICT_ID: 1073400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: スポイト
+#+ROMAJI: supoito
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1073400-001
+:PROPERTIES:
+:TEXT: スポイト
+:NO_KANJI: false
+:END:
+** Reading rd-1073400-002
+:PROPERTIES:
+:TEXT: スポイド
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1073400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1261d8f0edd26a3110857762bdd709e48ebb3fd25bb437bd2e15fb96b6e92a94
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Language sources
+**** Language source ls-s-1073400-001-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: full
+:WASEI: false
+:END:
+- text :: spuit
+** English glosses
+- (bulb) syringe
+- dropper
+- fountain pen filler
+** Ukrainian glosses
+*** uk-s-1073400-001-001
+:PROPERTIES:
+:END:
+- text :: піпетка; крапельниця; спринцівка
+** Learner notes
+*** note-s-1073400-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, давнє запозичення з нідерландської (spuit); у розмовній вимові також трапляється варіант スポイド. Означає скляну або пластикову трубку з гумовою грушею для набирання рідин, крапель чи чорнила.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1073400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: スポイトで薬を数滴量る。
+- READING :: すぽいとでくすりをすうてきはかる。
+- UK :: Відміряти піпеткою кілька крапель ліків.
+- FOCUS :: スポイト
+*** ex-1073400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 理科の実験では、スポイトを使って試験管に液体を移す。
+- READING :: りかのじっけんでは、すぽいとをつかってしけんかんにえきたいをうつす。
+- UK :: Під час шкільних дослідів із природничих наук рідину переносять у пробірку за допомогою піпетки.
+- FOCUS :: スポイト
+*** ex-1073400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 画像編集ソフトのスポイトを使えば、写真から正確な色を取り出せる。
+- READING :: がぞうへんしゅうそふとのすぽいとをつかえば、しゃしんからせいかくないろをとりだせる。
+- UK :: Якщо скористатися інструментом «піпетка» у графічному редакторі, можна взяти точний колір зі світлини.
+- FOCUS :: スポイト
+
+* Sense s-1073400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1125313740b8a379adbda2a0ab765763e5a904feb6aaabb82126d0165677c637
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- comp
+** English glosses
+- eyedropper
+** Ukrainian glosses
+*** uk-s-1073400-002-001
+:PROPERTIES:
+:END:
+- text :: інструмент «піпетка» (у графічних редакторах)
+** Learner notes
+*** note-s-1073400-002-001
+:PROPERTIES:
+:END:
+- UK :: Комп'ютерний термін (повніше — スポイトツール), що позначає інструмент вибору кольору з певного пікселя зображення у програмах малювання та дизайну.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1073400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 13d5a1bfb213bd23653e42736a7791c8bd8e5b69c80f16ba3a3fdabca0653c51
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spuit
+*** en-s-1073400-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: spuitje
+** Ukrainian glosses
+
+* Sense s-1073400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 15600241024bc38e12f2fbfb184bb8ce52773191f84af57e7ffd8faeae9fbc96
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {chem.} pipet
+*** en-s-1073400-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zuigbuisje
+*** en-s-1073400-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: druppelbuisje
+*** en-s-1073400-004-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: druppelaar
+** Ukrainian glosses
+
+* Sense s-1073400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ac3c739dba5d8db8054d90252d6b38c4f3c29fd05cade62c4c9c287a596b9522
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pipette
+** Ukrainian glosses
+
+* Sense s-1073400-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: c838900bb063170d773eb24616d2803486cafe3c8a519d05d23351fa9fccb36b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Füllfederhalter
+*** en-s-1073400-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Füller
+** Ukrainian glosses
+
+* Sense s-1073400-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 3802c21aa792bf41a8ad616252026fef416da52b2d785c24506954fdd3ba419e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fecskendő
+** Ukrainian glosses
+
+* Sense s-1073400-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 03ae63efce09b73dff721a125b63e99698bdf4d5233fd2adf0fcd78ac1fdd75a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1073400-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((голл.) spuit) пипетка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1073400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1073400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: スポイト

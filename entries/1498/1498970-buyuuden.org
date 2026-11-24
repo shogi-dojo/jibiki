@@ -1,0 +1,160 @@
+#+TITLE: 武勇伝
+#+JMDICT_ID: 1498970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶゆうでん
+#+ROMAJI: buyuuden
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1498970-001
+:PROPERTIES:
+:TEXT: 武勇伝
+:END:
+** Reading rd-1498970-001
+:PROPERTIES:
+:TEXT: ぶゆうでん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1498970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f962f9670532501915c549c0a9585cce481994265e5cb99184f26aba3781417e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- biography of a brave fighter
+- heroic saga
+- chivalric romance
+** Ukrainian glosses
+*** uk-s-1498970-001-001
+:PROPERTIES:
+:END:
+- text :: героїчний переказ; сказання про подвиги; лицарський роман
+** Learner notes
+*** note-s-1498970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 武勇 (воїнська доблесть, хоробрість) та 伝 (переказ, життєпис). Позначає літературні твори, легенди чи розповіді про славетні битви та звитяги воїнів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1498970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は若い頃の武勇伝をよく話す。
+- READING :: そふはわかいころのぶゆうでんをよくはなす。
+- UK :: Дідусь часто розповідає історії про свою молодечу завзятість.
+- FOCUS :: 武勇伝
+*** ex-1498970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: お酒を飲むと、彼はいつも学生時代の武勇伝を語り始める。
+- READING :: おさけをのむと、かれはいつもがくせいじだいのぶゆうでんをかたりはじめる。
+- UK :: Випивши, він щоразу починає вихвалятися своїми студентськими пригодами.
+- FOCUS :: 武勇伝
+*** ex-1498970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 中世に書かれた武将の武勇伝は、後の時代の演劇や小説に大きな影響を与えた。
+- READING :: ちゅうせいにかかれたぶしょうのぶゆうでんは、のちのじだいのえんげきやしょうせつにおおきなえいきょうをあたえた。
+- UK :: Середньовічні героїчні оповіді про воєначальників справили великий вплив на драматургію та літературу пізніших епох.
+- FOCUS :: 武勇伝
+
+* Sense s-1498970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5fc74ea53fc422cda2e649ac3ab306161e74e6cfe64988c23879ae2f16e676bd
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tale of one's heroism
+- episode of bravery
+- acts of violence
+** Ukrainian glosses
+*** uk-s-1498970-002-001
+:PROPERTIES:
+:END:
+- text :: розповідь про власні подвиги; хвалькувата історія; бешкет, буйство
+** Learner notes
+*** note-s-1498970-002-001
+:PROPERTIES:
+:END:
+- UK :: У розмовному вжитку нерідко набуває іронічного забарвлення — про молодецтво, пригоди чи бійки (часто в поєднаннях на кшталт 武勇伝を語る — хизуватися своїми пригодами, або 武勇伝を発揮する).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1498970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: aa7010b18fc615e3b170531b53132a87b9be94a297001823d6bf1e18417dbfca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498970-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Heldengeschichte
+** Ukrainian glosses
+
+* Sense s-1498970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c019a96ef0f59cb0e58b293305fe3b14471b4f6f705a13710e5a7ee1b312a10
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498970-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: героическое предание, сказание о (чьём-л.) подвиге
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1498970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1498970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぶゆうでん

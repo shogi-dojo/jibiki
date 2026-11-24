@@ -1,0 +1,160 @@
+#+TITLE: 演技者
+#+JMDICT_ID: 2252310
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: えんぎしゃ
+#+ROMAJI: engisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2252310-001
+:PROPERTIES:
+:TEXT: 演技者
+:END:
+** Reading rd-2252310-001
+:PROPERTIES:
+:TEXT: えんぎしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2252310-002
+:PROPERTIES:
+:TEXT: えんぎもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ik
+
+* Sense s-2252310-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a4495ad9d65ca2ce4afe738d520a7e35d5c55f42419ee7f7e423a7b5a74d5b1a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- performer
+- actor
+** Ukrainian glosses
+*** uk-s-2252310-001-001
+:PROPERTIES:
+:END:
+- text :: виконавець; актор; артист
+** Learner notes
+*** note-s-2252310-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 演技 (акторська гра, сценічний виступ) і суфікса 者 (особа). Позначає людину, яка виступає на сцені, у кіно чи на змаганнях із художнім виступом (наприклад, у фігурному катанні або гімнастиці); стиль нейтрально-офіційний.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2252310-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ステージの上に演技者が五人います。
+- READING :: すてーじのうえにえんぎしゃがごにんいます。
+- UK :: На сцені перебувають п'ятеро виконавців.
+- FOCUS :: 演技者
+*** ex-2252310-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 観客はすべての演技者に大きな拍手を送った。
+- READING :: かんきゃくはすべてのえんぎしゃにおおきなはくしゅをおくった。
+- UK :: Глядачі нагородили всіх виконавців гучними оплесками.
+- FOCUS :: 演技者
+*** ex-2252310-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 照明や音響の工夫によって、演技者の繊細な表情がいっそう際立っていた。
+- READING :: しょうめいやおんきょうのくふうによって、えんぎしゃのせんさいなひょうじょうがいっそうきわだっていた。
+- UK :: Завдяки продуманому освітленню та звуку тонкі зміни виразу обличчя актора вирізнялися ще яскравіше.
+- FOCUS :: 演技者
+
+* Sense s-2252310-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f27595c32d20294222e7fd590f2bb72a5349d598ea63d84a66c6fd9f81f7b6d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2252310-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schauspieler
+** Ukrainian glosses
+
+* Sense s-2252310-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8d110b9ed592853a0e3a5dd48968519d52f8c63751178c969590e84eb03f52dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2252310-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (театр.) исполнитель
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2252310-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2252310-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: えんぎしゃ
+** Accent accent-rd-2252310-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2252310-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: えんぎもの

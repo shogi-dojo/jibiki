@@ -1,0 +1,157 @@
+#+TITLE: 杜氏
+#+JMDICT_ID: 1896960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうじ
+#+ROMAJI: touji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1896960-001
+:PROPERTIES:
+:TEXT: 杜氏
+:END:
+** Reading rd-1896960-001
+:PROPERTIES:
+:TEXT: とうじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1896960-002
+:PROPERTIES:
+:TEXT: とじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1896960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: df1f7fbd4b27c2bd82ebdbe513057515cd91def66746246cb2867e4ba46495b6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chief brewer at a sake brewery
+** Ukrainian glosses
+*** uk-s-1896960-001-001
+:PROPERTIES:
+:END:
+- text :: майстер-пивовар саке; головний технолог сакеварні
+** Learner notes
+*** note-s-1896960-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційний культурно-фаховий термін на позначення головного майстра, який керує всім процесом варіння саке на броварні (酒蔵) і керує бригадою робітників 蔵人. Походить із давньокитайського слова на позначення вправного винороба; у Японії відомі регіональні школи майстрів, як-от 南部杜氏 чи 越後杜氏.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1896960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この酒蔵ではベテランの杜氏が酒を造っている。
+- READING :: このさかぐらではべてらんのとうじがさけをつくっている。
+- UK :: На цій сакеварні саке виготовляє досвідчений майстер.
+- FOCUS :: 杜氏
+*** ex-1896960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 毎年冬になると、経験豊富な杜氏が各地の蔵にやって来る。
+- READING :: まいとしふゆになると、けいけんほうふなとうじがかくちのくらにやってくる。
+- UK :: Щороку взимку досвідчені майстри-сакевари приїздять до броварень у різних регіонах.
+- FOCUS :: 杜氏
+*** ex-1896960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 気候や米のできに合わせて発酵の温度を微調整する技術に、杜氏の長年の勘が光る。
+- READING :: きこうやこめのできにあわせてはっこうのおんどをびちょうせいするぎじゅつに、とうじのながねんのかんがひかる。
+- UK :: У вмінні точно регулювати температуру бродіння залежно від погоди та врожаю рису виявляється багаторічне чуття головного майстра сакеварні.
+- FOCUS :: 杜氏
+
+* Sense s-1896960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 64e355f9fc5ca8b13fcc64e6dbb1b1f3d6a411d5456f381d69130e3f0fcc49c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1896960-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chef-Sakebrauer
+** Ukrainian glosses
+
+* Sense s-1896960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 462ad72a102cedc17937d848cbb03baf3ddf7dd1a54be9ba2745501c41626ef9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1896960-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: винокур
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1896960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1896960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とうじ
+** Accent accent-rd-1896960-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1896960-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とじ

@@ -1,0 +1,173 @@
+#+TITLE: 自著
+#+JMDICT_ID: 1726540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じちょ
+#+ROMAJI: jicho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1726540-001
+:PROPERTIES:
+:TEXT: 自著
+:END:
+*** Priorities
+- news2
+- nf30
+** Reading rd-1726540-001
+:PROPERTIES:
+:TEXT: じちょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1726540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 83e2fa491a1c8f84f054b844129286ba9aabeae7fc777542fbc090d5e256c41f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's own literary work
+** Ukrainian glosses
+*** uk-s-1726540-001-001
+:PROPERTIES:
+:END:
+- text :: власна книга; власна праця; власний твір
+** Learner notes
+*** note-s-1726540-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений поєднанням 自 (власний) та 著 (написаний твір, книга). Уживається у видавничому, академічному й медійному контекстах щодо авторської книги, яку сам письменник або дослідник цитує чи коментує (наприклад, 自著で述べる — зазначати у власній праці).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1726540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 先生は授業で自著を紹介した。
+- READING :: せんせいはじゅぎょうでじちょをしょうかいした。
+- UK :: Викладач представив на занятті власну книгу.
+- FOCUS :: 自著
+*** ex-1726540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 作家は最新の自著の中で、創作の秘密を明かしている。
+- READING :: さっかはさいしんのじちょのなかで、そうさくのひみつをあかしている。
+- UK :: У своїй новітній книзі письменник розкриває таємниці творчості.
+- FOCUS :: 自著
+*** ex-1726540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 研究者は三十年前に発表した自著を改訂し、新たな史料を加えて再出版した。
+- READING :: けんきゅうしゃはさんじゅうねんまえにはっぴょうしたじちょをかいていし、あらたなしりょうをくわえてさいしゅっぱんした。
+- UK :: Дослідник переробив свою працю, опубліковану тридцять років тому, і перевидав її, додавши нові історичні джерела.
+- FOCUS :: 自著
+
+* Sense s-1726540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 65dcb6f4a24e308a07ceda7ae703d47a02c731bd09d6784da7d0e2a629cc7e79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1726540-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigen werk
+*** en-s-1726540-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eigen boek
+** Ukrainian glosses
+
+* Sense s-1726540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 21ded1bcc1aa1d4f770cf4371f9bcb6b78efb8379daeaa5eef756d733b21bf83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1726540-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das eigene Werk
+*** en-s-1726540-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das eigen Buch
+** Ukrainian glosses
+
+* Sense s-1726540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ab33a80f74f0b171cba8a275fab31c6cb1e86dba7f5de618c47ef9238a2d5b09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1726540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) собственное сочинение, собственный труд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1726540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1726540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: じちょ

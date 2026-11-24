@@ -1,0 +1,150 @@
+#+TITLE: 宿泊料
+#+JMDICT_ID: 1734300
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅくはくりょう
+#+ROMAJI: shukuhakuryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1734300-001
+:PROPERTIES:
+:TEXT: 宿泊料
+:END:
+** Reading rd-1734300-001
+:PROPERTIES:
+:TEXT: しゅくはくりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1734300-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2d6ec739502102fd229e56680cca2b4156ce92980d0b7c5fb20c696f5bc22fd2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- accommodation charge
+- room rate
+** Ukrainian glosses
+*** uk-s-1734300-001-001
+:PROPERTIES:
+:END:
+- text :: плата за проживання; вартість ночівлі (у готелі)
+** Learner notes
+*** note-s-1734300-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 宿泊 (ночівля, проживання в готелі) та суфікса 料 (плата, тариф). Широко вживається в туризмі та сфері послуг для позначення вартості перебування в готелі, рьокані чи хостелі (часто також із суфіксом 金 — 宿泊料金).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1734300-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このホテルは宿泊料が安い。
+- READING :: このほてるはしゅくはくりょうがやすい。
+- UK :: У цьому готелі невисока плата за проживання.
+- FOCUS :: 宿泊料
+*** ex-1734300-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 観光シーズンになると、温泉街の旅館は宿泊料が上がる。
+- READING :: かんこうしーずんになると、おんせんがいのりょかんはしゅくはくりょうがあがる。
+- UK :: У туристичний сезон у традиційних готелях на термальних курортах зростає вартість проживання.
+- FOCUS :: 宿泊料
+*** ex-1734300-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 朝食付きのプランを選んだため、通常の宿泊料より少し高くなったが満足している。
+- READING :: ちょうしょくつきのぷらんをえらんだため、つうじょうのしゅくはくりょうよりすこしたかくなったがまんぞくしている。
+- UK :: Оскільки я обрав тариф зі сніданком, вартість проживання вийшла трохи вищою за звичайну, проте я задоволений.
+- FOCUS :: 宿泊料
+
+* Sense s-1734300-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e97d34d91269bf3b9f785497b4b345bf1ff7a2b1ac5e3dee448e973c3a951166
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734300-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übernachtungskosten
+*** en-s-1734300-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Unterkunftskosten
+*** en-s-1734300-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hotelrechnung
+** Ukrainian glosses
+
+* Sense s-1734300-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 58d7e7cbe6d6e1d4edc60856903d030a390183f94600f47a109989eb665c87b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1734300-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за ночлег
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1734300-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1734300-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゅくはくりょう

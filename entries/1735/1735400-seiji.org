@@ -1,0 +1,143 @@
+#+TITLE: 政事
+#+JMDICT_ID: 1735400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せいじ
+#+ROMAJI: seiji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1735400-001
+:PROPERTIES:
+:TEXT: 政事
+:END:
+** Reading rd-1735400-001
+:PROPERTIES:
+:TEXT: せいじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1735400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b429c75de9b71598e02950895855b8acc12dbe445cd4cbf07ca32e7b21f2c61d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- form
+** English glosses
+- political affairs
+** Ukrainian glosses
+*** uk-s-1735400-001-001
+:PROPERTIES:
+:END:
+- text :: державні справи; політичні справи; врядування
+** Learner notes
+*** note-s-1735400-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що означає управління державою або політичну діяльність (від 政 — політика, правління та 事 — справа). Омофон поширеного слова 政治, але 政事 має піднесене чи історичне забарвлення й нині трапляється переважно в офіційних текстах, літературі або сталих висловах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1735400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国王が政事を執り行う。
+- READING :: こくおうがせいじをとりおこなう。
+- UK :: Король здійснює державне управління.
+- FOCUS :: 政事
+*** ex-1735400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 若い宰相は誠実に政事にあたり、民衆の信頼を得た。
+- READING :: わかいさいしょうはせいじつにせいじにあたり、みんしゅうのしんらいをえた。
+- UK :: Молодий канцлер сумлінно займався державними справами й здобув довіру народу.
+- FOCUS :: 政事
+*** ex-1735400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史書には、戦乱の時代にあっても領内の政事を疎かにしなかった名君の記録が残されている。
+- READING :: れきししょには、せんらんのじだいにあってもりょうないのせいじをおろそかにしなかっためいくんのきろくがのこされている。
+- UK :: В історичних хроніках збереглися записи про мудрого правителя, який навіть у часи воєнних заворушень не занедбував справ урядування у своїх володіннях.
+- FOCUS :: 政事
+
+* Sense s-1735400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cb74ff0ea2bddd03e0a5b00c9758305d6ad84b7829d2cf2913134d7caf87270b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: politische Angelegenheiten
+*** en-s-1735400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: politische Amtsgeschäfte
+** Ukrainian glosses
+
+* Sense s-1735400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5ca5546c812f61a0ecac48c8af3e49d4d0de2346fc18159eba09b812b19f377c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1735400-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) политические (административные) дела
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1735400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1735400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せいじ

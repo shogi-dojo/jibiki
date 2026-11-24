@@ -1,0 +1,175 @@
+#+TITLE: 村役場
+#+JMDICT_ID: 1700420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: むらやくば
+#+ROMAJI: murayakuba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1700420-001
+:PROPERTIES:
+:TEXT: 村役場
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1700420-001
+:PROPERTIES:
+:TEXT: むらやくば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1700420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e64a09b38154f908dedcbb755411fb074fc2b9e5d9ae4778e2baf315d8f8582b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 町役場・まちやくば
+** English glosses
+- village office
+*** en-s-1700420-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: local administration office in a village
+** Ukrainian glosses
+*** uk-s-1700420-001-001
+:PROPERTIES:
+:END:
+- text :: сільська управа; сільська адміністрація; сільрада
+** Learner notes
+*** note-s-1700420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 村 («село») і 役場 («управа, місцева установа»). Позначає адміністративний орган або будівлю місцевого самоврядування в японському селі (на відміну від 市役所 для міста чи 町役場 для містечка).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1700420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 村役場は駅の近くにあります。
+- READING :: むらやくばはえきのちかくにあります。
+- UK :: Сільська управа розташована поблизу станції.
+- FOCUS :: 村役場
+*** ex-1700420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引っ越しの手続きをするために、朝から村役場へ行ってきた。
+- READING :: ひっこしのてつづきをするために、あさからむらやくばへいってきた。
+- UK :: Щоб оформити документи на переїзд, я зранку сходив до сільської управи.
+- FOCUS :: 村役場
+*** ex-1700420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 台風の被害状況を確認するため、村役場の職員が早朝から各地域を回った。
+- READING :: たいふうのひがいじょうきょうをかくにんするため、むらやくばのしょくいんがそうちょうからかくちいきをまわった。
+- UK :: Щоб перевірити масштаби збитків від тайфуну, працівники сільської адміністрації з раннього ранку об'їхали всі райони.
+- FOCUS :: 村役場
+
+* Sense s-1700420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 170e3ac98eadf007668ed504ce6e37b81b5e256436f51eead0cd9b333835bc21
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1700420-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dorpshuis
+*** en-s-1700420-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raadhuis
+** Ukrainian glosses
+
+* Sense s-1700420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f703874296fca0aab73a04b429ae5119c2759fe9fd6122af0f9f4afb0b561510
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1700420-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gemeindehaus
+** Ukrainian glosses
+
+* Sense s-1700420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 10d4a288e1051904f3d49a6687d621e2b4defb332053c14dd0ebe766733fe25c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1700420-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сельское управление, сельская управа
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1700420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1700420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: むらやくば

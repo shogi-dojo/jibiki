@@ -1,0 +1,134 @@
+#+TITLE: 訴訟行為
+#+JMDICT_ID: 2656430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そしょうこうい
+#+ROMAJI: soshoukoui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2656430-001
+:PROPERTIES:
+:TEXT: 訴訟行為
+:END:
+** Reading rd-2656430-001
+:PROPERTIES:
+:TEXT: そしょうこうい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2656430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 932f114fb5f442667ef5176f0b35c4fc717780106b8bbccf627db8b7d05ad80c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- act of litigation
+- act of procedure
+** Ukrainian glosses
+*** uk-s-2656430-001-001
+:PROPERTIES:
+:END:
+- text :: процесуальна дія; судовий акт (у судочинстві)
+** Learner notes
+*** note-s-2656430-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (訴訟 — «судовий процес, позов» + 行為 — «дія, вчинок»). Позначає дію суду або сторін процесу (подання позову, заявлення клопотання, оскарження тощо), що має юридичні наслідки в межах цивільного чи кримінального судочинства.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2656430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 弁護士が裁判所で訴訟行為を行います。
+- READING :: べんごしがさいばんしょでそしょうこういをおこないます。
+- UK :: Адвокат здійснює процесуальні дії в суді.
+- FOCUS :: 訴訟行為
+*** ex-2656430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 法律では、未成年者が単独で有効な訴訟行為を行うことは原則として認められていない。
+- READING :: ほうりつでは、みせいねんしゃがたんどくでゆうこうなそしょうこういをおこなうことはげんそくとしてみとめられていない。
+- UK :: За законом неповнолітнім зазвичай не дозволяється самостійно здійснювати дійсні процесуальні дії.
+- FOCUS :: 訴訟行為
+*** ex-2656430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 代理人の権限を欠いたまま行われた訴訟行為は、本人の追認がなければ効力を生じない。
+- READING :: だいりにんのけんげんをかいたままおこなわれたそしょうこういは、ほんにんのついにんがなければこうりょくをしょうじない。
+- UK :: Процесуальна дія, вчинена за відсутності належних повноважень представника, не набуває чинності без подальшого схвалення самою особою.
+- FOCUS :: 訴訟行為
+
+* Sense s-2656430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f73f62aa3305982a44a5d4819888e281c8b5665161ffd5706665bc3fd104c7b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2656430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Prozesshandlung
+** Ukrainian glosses
+
+* Sense s-2656430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f0bd411dae38dad4d20f056419188e92997929a76692a4c905d33f4f73b1b891
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2656430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) процессуальные действия, акты судебной процедуры
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2656430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2656430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: そしょうこうい

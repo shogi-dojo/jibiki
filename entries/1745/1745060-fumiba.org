@@ -1,0 +1,133 @@
+#+TITLE: 踏み場
+#+JMDICT_ID: 1745060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふみば
+#+ROMAJI: fumiba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1745060-001
+:PROPERTIES:
+:TEXT: 踏み場
+:END:
+** Reading rd-1745060-001
+:PROPERTIES:
+:TEXT: ふみば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1745060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 84d7367fac34552f4a218f1b0a210702a170de58202432b9f501f405e4c8215d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- place to stand
+** Ukrainian glosses
+*** uk-s-1745060-001-001
+:PROPERTIES:
+:END:
+- text :: місце, куди ступити; опора для ніг
+** Learner notes
+*** note-s-1745060-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 踏む («ступати») та 場 («місце»). Означає вільний простір чи місце, на яке можна стати ногою; у сучасній мові найчастіше трапляється у сталому звороті 足の踏み場もない («ніде й ноги поставити; усе захаращено»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1745060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 部屋が散らかって、足の踏み場もありません。
+- READING :: へやがちらかって、あしのふみばもありません。
+- UK :: У кімнаті такий безлад, що ніде й стати.
+- FOCUS :: 踏み場
+*** ex-1745060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 引っ越しの荷物が届き、リビングは踏み場を探すのも難しい状態だ。
+- READING :: ひっこしのにもつがとどき、りびんぐはふみばをさがすのもむずかしいじょうたいだ。
+- UK :: Привезли речі після переїзду, і у вітальні навіть важко знайти, куди ступити.
+- FOCUS :: 踏み場
+*** ex-1745060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 強風で割れたガラスや倒れた看板が歩道に散乱し、通行人が安全に歩ける踏み場がほとんど残っていなかった。
+- READING :: きょうふうでわれたがらすやたおれたかんばんがほどうにさんらんし、つうこうにんがあんぜんにあるけるふみばがほとんどのこっていなかった。
+- UK :: На тротуарі розсипалося розбите вітром скло та повалені вивіски, тож перехожим майже не залишилося безпечного місця, куди ступити.
+- FOCUS :: 踏み場
+
+* Sense s-1745060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: daa90d990a34422677151a1037a03fdfb13f667951f9052f33ab30bcaec5ec66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1745060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Platz für die Beine
+** Ukrainian glosses
+
+* Sense s-1745060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a954f95ed84e529fb7e83ba6e7fe0f0041ab47e6e183b6618fadea9a37576224
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1745060-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ふみどころ
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1745060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1745060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ふみば

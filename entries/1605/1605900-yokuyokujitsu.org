@@ -1,0 +1,209 @@
+#+TITLE: 翌々日
+#+JMDICT_ID: 1605900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よくよくじつ
+#+ROMAJI: yokuyokujitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1605900-001
+:PROPERTIES:
+:TEXT: 翌々日
+:END:
+** Written form wf-1605900-002
+:PROPERTIES:
+:TEXT: 翌翌日
+:END:
+** Reading rd-1605900-001
+:PROPERTIES:
+:TEXT: よくよくじつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1605900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7ae106c74154a8f8bf079c7d1714750bcb878a45e90a53301315bbf29dbb4ab6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- two days later
+- day after next
+- next day but one
+** Ukrainian glosses
+*** uk-s-1605900-001-001
+:PROPERTIES:
+:END:
+- text :: через два дні, наступного після завтра дня (від певної події)
+** Learner notes
+*** note-s-1605900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і прислівник часу (n, adv). Позначає день, що настає через два дні після згаданої дати чи події, на відміну від розмовного 明後日, яке відраховується лише від сьогодні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1605900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 会議の翌々日に結果が出た。
+- READING :: かいぎのよくよくじつにけっかがでた。
+- UK :: Результати з'явилися через два дні після наради.
+- FOCUS :: 翌々日
+*** ex-1605900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 荷物を送った翌々日に、相手から届いたと連絡があった。
+- READING :: にもつをおくったよくよくじつに、あいてからとどいたとれんらくがあった。
+- UK :: Через два дні після того, як я відправив посилку, отримувач повідомив, що вона дійшла.
+- FOCUS :: 翌々日
+*** ex-1605900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 台風が過ぎ去った翌々日には、交通機関もほぼ通常通りに戻った。
+- READING :: たいふうがすぎさったよくよくじつには、こうつうきかんもほぼつうじょうどおりにもどった。
+- UK :: Уже через два дні після того, як минув тайфун, робота транспорту майже повністю повернулася до звичного графіка.
+- FOCUS :: 翌々日
+
+* Sense s-1605900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0c9ebfe3fff85fc67741b2e6fc56157551058beb35eaa13fe9d50fe5c346d521
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605900-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: deux jours après
+*** en-s-1605900-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: surlendemain
+** Ukrainian glosses
+
+* Sense s-1605900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0ab907aaf715e3fddade8087eb8a3b918b02816ad77895ac44e720482e1a4cb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605900-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: übermorgen
+*** en-s-1605900-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zwei Tage später
+** Ukrainian glosses
+
+* Sense s-1605900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a6bf9e36783b157c419301c61d319f6581d5d8745d8ede8630926fe3a539e87e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605900-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: harmadnap
+** Ukrainian glosses
+
+* Sense s-1605900-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9ec1bf72987be6f21aaaab868d0582d54308027ddf628fbac84d58bee47ed0b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1605900-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: через два дня, на третий день
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1605900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1605900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: よくよくじつ
+** Accent accent-rd-1605900-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1605900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: よくよくじつ

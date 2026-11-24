@@ -1,0 +1,176 @@
+#+TITLE: 補色
+#+JMDICT_ID: 1690190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほしょく
+#+ROMAJI: hoshoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1690190-001
+:PROPERTIES:
+:TEXT: 補色
+:END:
+** Reading rd-1690190-001
+:PROPERTIES:
+:TEXT: ほしょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1690190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 929cfd48ef25dea371a402fd2078738a7f218f2ae429ad30a7cb697ce648979f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- complementary color
+- complementary colour
+** Ukrainian glosses
+*** uk-s-1690190-001-001
+:PROPERTIES:
+:END:
+- text :: додатковий колір; комплементарний колір
+** Learner notes
+*** note-s-1690190-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і термін теорії кольору (від 補 — доповнювати та 色 — колір). Позначає пару протилежних на колірному колі барв (наприклад, червоний і зелений), які при поєднанні підсилюють контраст, а при змішуванні нейтралізують одна одну.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1690190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 赤の補色は緑だ。
+- READING :: あかのほしょくはみどりだ。
+- UK :: Додатковим кольором до червоного є зелений.
+- FOCUS :: 補色
+*** ex-1690190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 美術の授業で、補色の組み合わせが与える視覚的な効果を学んだ。
+- READING :: びじゅつのじゅぎょうで、ほしょくのくみあわせがあたえるしかくてきなこうかをまなんだ。
+- UK :: На уроці малювання ми вивчали візуальний ефект від поєднання комплементарних кольорів.
+- FOCUS :: 補色
+*** ex-1690190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ポスターの文字を目立たせたいときは、背景に対して補色に近い色を選ぶと強い印象を残せる。
+- READING :: ぽすたーのもじをめだたせたいときは、はいけいにたいしてほしょくにちかいいろをえらぶとつよいいんしょうをのこせる。
+- UK :: Якщо хочеться виділити напис на плакаті, варто обрати колір, близький до додаткового щодо тла, щоб справити сильніше враження.
+- FOCUS :: 補色
+
+* Sense s-1690190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a5fabad5b3a9fffbe2b7704921dc25a43ec27f4432f8b5c4f8cc6772618c48cb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1690190-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Komplementärfarbe
+*** en-s-1690190-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gegenfarbe
+** Ukrainian glosses
+
+* Sense s-1690190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c19c8bb459fa89db11502addc71d90439f5230bc2b0ce754bbf2cf76f4523e26
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1690190-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiegészítő szín
+*** en-s-1690190-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: negatív szin
+*** en-s-1690190-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: komplementerszín
+** Ukrainian glosses
+
+* Sense s-1690190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0d7f12e976b20a89a99a91de8ce11d89d125b05269b2f5d1f1d49f9b10ec5a84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1690190-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) よしょく
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1690190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1690190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ほしょく

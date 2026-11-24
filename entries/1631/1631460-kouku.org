@@ -1,0 +1,140 @@
+#+TITLE: 鉱区
+#+JMDICT_ID: 1631460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうく
+#+ROMAJI: kouku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1631460-001
+:PROPERTIES:
+:TEXT: 鉱区
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1631460-001
+:PROPERTIES:
+:TEXT: こうく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1631460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d0e9e84df97fb6667a1b6e5c2a5215d43bde79ed74e71efa9e7f4d901e10a9d8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- mining area
+- mine lot
+** Ukrainian glosses
+*** uk-s-1631460-001-001
+:PROPERTIES:
+:END:
+- text :: гірничий відвід; ділянка видобутку корисних копалин; руднична ділянка
+** Learner notes
+*** note-s-1631460-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 鉱 (руда, копалина) та 区 (район, дільниця). Позначає офіційно визначену або відведену територію для розвідки чи видобутку корисних копалин; часто вживається у словосполученнях на кшталт 鉱区税 (податок на гірничий відвід) або 鉱区を設定する (визначати межі гірничого відводу).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1631460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この地域に広い鉱区がある。
+- READING :: このちいきにひろいこうくがある。
+- UK :: У цьому регіоні є велика ділянка видобутку корисних копалин.
+- FOCUS :: 鉱区
+*** ex-1631460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会社は新しい鉱区の調査を始めた。
+- READING :: かいしゃはあたらしいこうくのちょうさをはじめた。
+- UK :: Компанія розпочала розвідку нової рудничної ділянки.
+- FOCUS :: 鉱区
+*** ex-1631460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 環境への影響を考慮して、鉱区の境界が見直された。
+- READING :: かんきょうへのえいきょうをこうりょして、こうくのきょうかいがみなおされた。
+- UK :: З огляду на вплив на довкілля межі гірничого відводу було переглянуто.
+- FOCUS :: 鉱区
+
+* Sense s-1631460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c57ddf8e13ab4d04494dc76278894067f3f85ff1bf7f4df2ea2a986a0b37be70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1631460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bergbaugebiet
+** Ukrainian glosses
+
+* Sense s-1631460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2ad8a98c111d17b957f5ea4717817efbb7257261c7269aab01c3b8c4ba89bae7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1631460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рудник; золотые прииски
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1631460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1631460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こうく

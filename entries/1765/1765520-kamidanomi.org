@@ -1,0 +1,154 @@
+#+TITLE: 神頼み
+#+JMDICT_ID: 1765520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かみだのみ
+#+ROMAJI: kamidanomi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1765520-001
+:PROPERTIES:
+:TEXT: 神頼み
+:END:
+*** Priorities
+- news2
+- nf39
+** Written form wf-1765520-002
+:PROPERTIES:
+:TEXT: 神だのみ
+:END:
+*** Information
+- sK
+** Reading rd-1765520-001
+:PROPERTIES:
+:TEXT: かみだのみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1765520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 42c5a64c68c80d9a074cf18649603af010da4e59e6b508ca645085a51bd2543c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- entreaty to a deity
+** Ukrainian glosses
+*** uk-s-1765520-001-001
+:PROPERTIES:
+:END:
+- text :: мольба до божества; покладання на вищі сили
+** Learner notes
+*** note-s-1765520-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово з する (переважно у конструкції 神頼みをする), утворені від 神 («божество») та іменникової форми дієслова 頼む («просити; покладатися») з озвонченням початкового приголосного (連濁). Часто вживається з іронічним або розмовним відтінком у прислів'ї 苦しい時の神頼み («до бога звертаються лише у скруті»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1765520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 試験の前に神頼みをしました。
+- READING :: しけんのまえにかみだのみをしました。
+- UK :: Перед іспитом я звернувся по допомогу до богів.
+- FOCUS :: 神頼み
+*** ex-1765520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 努力もせずに神頼みばかりしていては、良い結果は得られない。
+- READING :: どりょくもせずにかみだのみばかりしていては、よいけっかはえられない。
+- UK :: Якщо не докладати зусиль і лише сподіватися на вищі сили, доброго результату не досягти.
+- FOCUS :: 神頼み
+*** ex-1765520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 普段はお参りもしないのに、困った時だけ神社へ行くのはまさに苦しい時の神頼みだ。
+- READING :: ふだんはおまいりもしないのに、こまったときだけじんじゃへいくのはまさにくるしいときのかみだのみだ。
+- UK :: Зазвичай до святилища й не навідуватися, а бігти туди лише в біді — це справжнісінька ілюстрація приказки про молитву у скрутну годину.
+- FOCUS :: 神頼み
+
+* Sense s-1765520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 20bc213032a610f34f904028e294d21360c6a599e924f37860c44fd8ebad9ffc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765520-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anrufung der Götter in der Not
+** Ukrainian glosses
+
+* Sense s-1765520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 50ad89d4d09609bfc03b7cdac3c3c14e34fd34cd7ca8374ce3438dea926194d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765520-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обращение к богу с молитвой о помощи
+*** en-s-1765520-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} молить бога о помощи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1765520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1765520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かみだのみ

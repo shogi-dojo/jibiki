@@ -1,0 +1,152 @@
+#+TITLE: 喀痰
+#+JMDICT_ID: 1565320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かくたん
+#+ROMAJI: kakutan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1565320-001
+:PROPERTIES:
+:TEXT: 喀痰
+:END:
+** Reading rd-1565320-001
+:PROPERTIES:
+:TEXT: かくたん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1565320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ec71ffc0218a9927be4a1a15048b9ee2439b8170e62f6835919f508b16f57459
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- expectoration
+- sputum
+** Ukrainian glosses
+*** uk-s-1565320-001-001
+:PROPERTIES:
+:END:
+- text :: мокротиння, харкотиння; відхаркування
+** Learner notes
+*** note-s-1565320-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний термін (іменник і неперехідне дієслово з する), що позначає як сам секрет дихальних шляхів, так і процес його відкашлювання. У клінічній практиці часто вживається у складених термінах на зразок 喀痰検査 («аналіз мокротиння»), тоді як у побуті зазвичай кажуть просто たん.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1565320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 病院で喀痰の検査を受けました。
+- READING :: びょういんでかくたんのけんさをうけました。
+- UK :: У лікарні я здав аналіз мокротиння.
+- FOCUS :: 喀痰
+*** ex-1565320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 朝になると喀痰が増えるため、医師に相談することにしました。
+- READING :: あさになるとかくたんがふえるため、いしにそうだんすることにしました。
+- UK :: Оскільки вранці кількість мокротиння збільшується, я вирішив проконсультуватися з лікарем.
+- FOCUS :: 喀痰
+*** ex-1565320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引くせきの原因を調べるため、患者から採取した喀痰を顕微鏡で確認した。
+- READING :: ながびくせきのげんいんをしらべるため、かんじゃからさいしゅしたかくたんをけんびきょうでかくにんした。
+- UK :: Щоб з'ясувати причину затяжного кашлю, узяте в пацієнта мокротиння перевірили під мікроскопом.
+- FOCUS :: 喀痰
+
+* Sense s-1565320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6a8d5de4c1aa4d1c80f0e5b01e2574f7547f92803fcc36c1da5b062fe36b49ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auswurf
+*** en-s-1565320-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sputum
+** Ukrainian glosses
+
+* Sense s-1565320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ae18cc6a26b7f3300daf16cf5cace72d847a2fd97c71286870391a183c5481dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1565320-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: мокрота
+*** en-s-1565320-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} плевать; отхаркивать мокроту
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1565320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1565320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かくたん

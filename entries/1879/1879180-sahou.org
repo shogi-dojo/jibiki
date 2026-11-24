@@ -1,0 +1,183 @@
+#+TITLE: 左方
+#+JMDICT_ID: 1879180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さほう
+#+ROMAJI: sahou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1879180-001
+:PROPERTIES:
+:TEXT: 左方
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1879180-001
+:PROPERTIES:
+:TEXT: さほう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1879180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4f7ec0ebd84d38c01846835b84ff03311a69b00a0e30b6c1dd401b86515fb63c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- left side
+** Ukrainian glosses
+*** uk-s-1879180-001-001
+:PROPERTIES:
+:END:
+- text :: лівий бік, ліва сторона
+** Learner notes
+*** note-s-1879180-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційно-книжний іменник, утворений із 左 (лівий) та 方 (бік, напрямок); у повсякденній мові частіше вживається 左側 (лівий бік). Характерний для схем, описів місцевості та інструкцій, наприклад 左方に進む (рухатися ліворуч).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1879180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 左方に大きな木が見えます。
+- READING :: さほうにおおきなきがみえます。
+- UK :: Ліворуч видніється велике дерево.
+- FOCUS :: 左方
+*** ex-1879180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 道の左方に沿ってしばらく歩くと、古い駅舎が見えてくる。
+- READING :: みちのさほうにそってしばらくあるくと、ふるいえきしゃがみえてくる。
+- UK :: Якщо пройти трохи вздовж лівого боку дороги, з'явиться стара будівля станції.
+- FOCUS :: 左方
+*** ex-1879180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 舞台の左方から登場した俳優が、静かに観客席に向かってお辞儀をした。
+- READING :: ぶたいのさほうからとうじょうしたはいゆうが、しずかにかんきゃくせきにむかっておじぎをした。
+- UK :: Актор, який вийшов із лівого боку сцени, тихо вклонився залі для глядачів.
+- FOCUS :: 左方
+
+* Sense s-1879180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df78e96b4ba0c93353fd278e720c3b0123b03da1a021823d6678c95e21a7b384
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879180-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: linke Seite
+** Ukrainian glosses
+
+* Sense s-1879180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 46c021a063bba86bfe0bc3d440b3ca6eb86b277b17b830f4c42adcbd0e67697f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879180-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sahō・komagaku (eine Richtung von Stücken der klass. Hofmusik)
+** Ukrainian glosses
+
+* Sense s-1879180-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 72c36a6bd0bf250b704350b9f733d8462b9be7725441f17ecd1e13dcc8a99d32
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879180-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: левая сторона
+*** en-s-1879180-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～に} налево, слева
+** Ukrainian glosses
+
+* Sense s-1879180-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 340c7d88d1333ae478a5190dde8c84899cb8380eb0f3f401fdf823b395cffa69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879180-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lado izquierdo
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1879180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1879180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: さほう

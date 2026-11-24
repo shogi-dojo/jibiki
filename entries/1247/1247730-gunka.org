@@ -1,0 +1,173 @@
+#+TITLE: 軍歌
+#+JMDICT_ID: 1247730
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんか
+#+ROMAJI: gunka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1247730-001
+:PROPERTIES:
+:TEXT: 軍歌
+:END:
+*** Priorities
+- news2
+- nf34
+** Reading rd-1247730-001
+:PROPERTIES:
+:TEXT: ぐんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+
+* Sense s-1247730-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 394fe74be8bba542e55bb5258423e122256f4103094b2479e226906a6cc74f0d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- war song
+** Ukrainian glosses
+*** uk-s-1247730-001-001
+:PROPERTIES:
+:END:
+- text :: військова пісня, маршова пісня
+** Learner notes
+*** note-s-1247730-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує 軍 (військо, армія) та 歌 (пісня). Позначає пісні, створені для підняття бойового духу військових або прославлення служби.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1247730-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は古い軍歌を知っています。
+- READING :: そふはふるいぐんかをしっています。
+- UK :: Мій дідусь знає старі військові пісні.
+- FOCUS :: 軍歌
+*** ex-1247730-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 映画の場面で、兵士たちが軍歌を歌いながら行進していた。
+- READING :: えいがのばめんで、へいしたちがぐんかをうたいながらこうしんしていた。
+- UK :: У сцені з фільму солдати марширували, співаючи військову пісню.
+- FOCUS :: 軍歌
+*** ex-1247730-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦時中に作られた多くの軍歌は、時代の変化とともに次第に歌われなくなっていった。
+- READING :: せんじちゅうにつくられたおおくのぐんかは、じだいのへんかとともにしだいにうたわれなくなっていった。
+- UK :: Численні військові пісні, створені в часи війни, зі зміною епох поступово перестали співати.
+- FOCUS :: 軍歌
+
+* Sense s-1247730-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c01f07edaa81d0eda920e0c4f5e70f753634b1522e6434a7ad1c626258cc5a3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247730-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: krijgslied
+** Ukrainian glosses
+
+* Sense s-1247730-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0856d2a729d3ae75cec1bb7e334380ff6478e6fab2399dc82f936268a6077f80
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247730-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kriegslied
+*** en-s-1247730-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Militärlied
+*** en-s-1247730-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soldatenlied
+** Ukrainian glosses
+
+* Sense s-1247730-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4d4bef2d06fd1f3e9725637c85f4a22a7a057211f24ae7a208100dc56e7ffeaa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247730-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: солдатская песня
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1247730-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1247730-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ぐんか

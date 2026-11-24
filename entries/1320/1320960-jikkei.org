@@ -1,0 +1,183 @@
+#+TITLE: 実兄
+#+JMDICT_ID: 1320960
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じっけい
+#+ROMAJI: jikkei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1320960-001
+:PROPERTIES:
+:TEXT: 実兄
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1320960-001
+:PROPERTIES:
+:TEXT: じっけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1320960-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8714fed0ecdcab9f5198aa94b6174509aef5aef0502d4af850887bb728e8f77b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- biological older brother
+** Ukrainian glosses
+*** uk-s-1320960-001-001
+:PROPERTIES:
+:END:
+- text :: рідний старший брат
+** Learner notes
+*** note-s-1320960-001-001
+:PROPERTIES:
+:END:
+- UK :: Формальний іменник, утворений із 実 (рідний, біологічний) та 兄 (старший брат). Вживається в письмовому мовленні, біографіях, новинах і юридичних документах, щоб підкреслити кровну спорідненість (на противагу 義兄 — зведеному чи названому братові або чоловікові сестри).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1320960-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は有名な歌手の実兄です。
+- READING :: かれはゆうめいなかしゅのじっけいです。
+- UK :: Він — рідний старший брат відомої співачки.
+- FOCUS :: 実兄
+*** ex-1320960-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 社長の実兄が新しい工場の責任者に就任した。
+- READING :: しゃちょうのじっけいがあたらしいこうじょうのせきにんしゃにしゅうにんした。
+- UK :: Рідний старший брат президента компанії обійняв посаду керівника нового заводу.
+- FOCUS :: 実兄
+*** ex-1320960-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 取材に応じたのは、容疑者ではなく長年疎遠になっていた実兄だった。
+- READING :: しゅざいにおうじたのは、ようぎしゃではなくながねんそえんになっていたじっけいだった。
+- UK :: Інтерв'ю дав не сам підозрюваний, а його рідний старший брат, із яким вони багато років не підтримували зв'язку.
+- FOCUS :: 実兄
+
+* Sense s-1320960-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dfdf758ced3937e1cf223cca1fcd50ecf3be8aac6f9fe6dd443f3a41fe1b6164
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320960-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volle oudere broer
+*** en-s-1320960-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lijfelijke oudere broer
+** Ukrainian glosses
+
+* Sense s-1320960-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ac9da662ff057fc9f281df68e909bce3ff99479681d0f592324c73a86ee64eba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320960-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: frère aîné de sang (?)
+** Ukrainian glosses
+
+* Sense s-1320960-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a58a2563f4cd1874af7f0cbf7f4b15732ab7d45ee8d68dfbd4ddd3f90948fba4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320960-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: leiblicher (älterer)Bruder
+** Ukrainian glosses
+
+* Sense s-1320960-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f550e28b75fc319d7e80bff4c35d9f8536fa84209b67d5f086da9838a896687e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1320960-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: родной [старший] брат
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1320960-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1320960-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: じっけい

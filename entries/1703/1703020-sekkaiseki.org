@@ -1,0 +1,187 @@
+#+TITLE: 石灰石
+#+JMDICT_ID: 1703020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せっかいせき
+#+ROMAJI: sekkaiseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1703020-001
+:PROPERTIES:
+:TEXT: 石灰石
+:END:
+** Reading rd-1703020-001
+:PROPERTIES:
+:TEXT: せっかいせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1703020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 986f2ef6bc1a405d474b4fefe817e2a493df797e16f452d0eaaf88b51269d2f5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- limestone
+** Ukrainian glosses
+*** uk-s-1703020-001-001
+:PROPERTIES:
+:END:
+- text :: вапняк
+** Learner notes
+*** note-s-1703020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник геологічної та промислової лексики (від 石灰 «вапно» та 石 «камінь»). Позначає осадову гірську породу, яка є важливою мінеральною сировиною для виробництва цементу, будівельних матеріалів і в металургії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1703020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この山では多くの石灰石がとれます。
+- READING :: このやまではおおくのせっかいせきがとれます。
+- UK :: У цих горах добувають багато вапняку.
+- FOCUS :: 石灰石
+*** ex-1703020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 石灰石はセメントや鉄鋼を作るうえで欠かせない原料だ。
+- READING :: せっかいせきはせめんとやてっこうをつくるうえでかかせないげんりょうだ。
+- UK :: Вапняк є незамінною сировиною для виробництва цементу та сталі.
+- FOCUS :: 石灰石
+*** ex-1703020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長年にわたる採掘によって、石灰石の山の姿が大きく変わった。
+- READING :: ながねんにわたるさいくつによって、せっかいせきのやまのすがたがおおきくかわった。
+- UK :: Через багаторічний видобуток обриси вапнякової гори помітно змінилися.
+- FOCUS :: 石灰石
+
+* Sense s-1703020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 85f775797127bc9923ea858f520b1f292dde0d5a37c41b64fb181b75865bcab0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1703020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalksteen
+** Ukrainian glosses
+
+* Sense s-1703020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4740bd12a805acfe4fde22196b3c0723d78d8ddd09c40a68865b24404d12494a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1703020-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kalkstein
+** Ukrainian glosses
+
+* Sense s-1703020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 406d49aaa79810337d5340eb8b185124b2a4e963f7e3af7446aaaed9534639e0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1703020-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mészkő
+** Ukrainian glosses
+
+* Sense s-1703020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6061e7699ac181ff4c5fd0f1d95f0a86cfcfd869237328c652e741579c5dde8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1703020-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) せっかいがん
+** Ukrainian glosses
+
+* Sense s-1703020-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 737cb64048dcccee440139c74095f41fe44ca5e621f5abc20603baea09c8a9e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1703020-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalksten
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1703020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1703020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せっかいせき

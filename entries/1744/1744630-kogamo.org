@@ -1,0 +1,176 @@
+#+TITLE: 小鴨
+#+JMDICT_ID: 1744630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こがも
+#+ROMAJI: kogamo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1744630-001
+:PROPERTIES:
+:TEXT: 小鴨
+:END:
+** Reading rd-1744630-001
+:PROPERTIES:
+:TEXT: こがも
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1744630-002
+:PROPERTIES:
+:TEXT: コガモ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1744630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dabb6d99626dca7c2215fc91b1217658407a9a7e78488a8dcaaf876b8e8eed62
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- green-winged teal (species of duck, Anas crecca)
+** Ukrainian glosses
+*** uk-s-1744630-001-001
+:PROPERTIES:
+:END:
+- text :: чирянка мала (вид качок, Anas crecca); чирок
+** Learner notes
+*** note-s-1744630-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник. Назва одного з найдрібніших видів качок (Anas crecca), що зимує в Японії; у біологічних текстах зазвичай записується катаканою як コガモ, хоча в літературі трапляється й ієрогліфічний запис 小鴨 (інколи також у значенні каченяти).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1744630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 池にコガモが泳いでいる。
+- READING :: いけにこがもがおよいでいる。
+- UK :: У ставку плаває чирянка мала.
+- FOCUS :: コガモ
+*** ex-1744630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬の川辺で、小鴨の群れが羽を休めていた。
+- READING :: ふゆのかわべで、こがものむれがはねをやすめていた。
+- UK :: На березі річки взимку зграя чирянок малих відпочивала, склавши крила.
+- FOCUS :: 小鴨
+*** ex-1744630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 渡り鳥であるコガモは、秋になるとシベリア方面から日本の湿地へ飛来する。
+- READING :: わたりどりであるこがもは、あきになるとしべりあほうめんからにほんのしっちへひらいする。
+- UK :: Перелітний птах чирянка мала восени прилітає на водно-болотні угіддя Японії з боку Сибіру.
+- FOCUS :: コガモ
+
+* Sense s-1744630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9a559b9ce6dda9421ec02ec9619dca3a963126781e47b75b3c408f2b82f1f71f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krickente
+*** en-s-1744630-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anas crecca
+** Ukrainian glosses
+
+* Sense s-1744630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 115eb820726eef5797b3a401800c968f2ca4645379f10df20148c234ea90d053
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744630-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kiskacsa alszik
+** Ukrainian glosses
+
+* Sense s-1744630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d7e2eecffed2ea9412087d3a8e3be8879fc3afa4b731368e462db841c4c4916b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744630-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) чирок, Nettion crecca crecca (L.)
+*** en-s-1744630-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) ((тж.) 仔鴨) утёнок (дикой утки)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1744630-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1744630-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こがも

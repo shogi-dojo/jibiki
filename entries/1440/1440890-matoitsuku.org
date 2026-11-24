@@ -1,0 +1,179 @@
+#+TITLE: 纏いつく
+#+JMDICT_ID: 1440890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まといつく
+#+ROMAJI: matoitsuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1440890-001
+:PROPERTIES:
+:TEXT: 纏いつく
+:END:
+** Written form wf-1440890-002
+:PROPERTIES:
+:TEXT: 纏い付く
+:END:
+** Written form wf-1440890-003
+:PROPERTIES:
+:TEXT: まとい付く
+:END:
+** Reading rd-1440890-001
+:PROPERTIES:
+:TEXT: まといつく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1440890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 25783262fc14800ac1d037a7575f43030d3ce29fa2f60169d54e4ab772fc2d5b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to entwine
+- to follow about
+** Ukrainian glosses
+*** uk-s-1440890-001-001
+:PROPERTIES:
+:END:
+- text :: обвиватися; ув'язуватися; ходити слідом
+** Learner notes
+*** note-s-1440890-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне ґодан-дієслово (五段), що зазвичай пишеться каною (まといつく). Означає обвивання навколо чогось (наприклад, про ліану чи одяг), а також невідступне переслідування чи чіпляння за когось або щось (про людей, думки, спогади).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1440890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子犬が足元にまといつく。
+- READING :: こいぬがあしもとにまといつく。
+- UK :: Цуценя в'ється коло ніг.
+- FOCUS :: まといつく
+*** ex-1440890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長いスカートが足にまといついて歩きにくい。
+- READING :: ながいすかーとがあしにまといついてあるきにくい。
+- UK :: Довга спідниця обплутує ноги, через що незручно йти.
+- FOCUS :: まといついて
+*** ex-1440890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その日の嫌な記憶がいつまでも頭にまといついて離れない。
+- READING :: そのひのいやなきおくがいつまでもあたまにまといついてはなれない。
+- UK :: Неприємний спогад про той день ніяк не відпускає й невідступно переслідує думки.
+- FOCUS :: まといついて
+
+* Sense s-1440890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2f54c6e90e699b88d50665a2b24aa836ec4930febe6ca74945ccc58beddef8c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1440890-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdm. ständig folgen
+*** en-s-1440890-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: an jmds. Fersen heften
+** Ukrainian glosses
+
+* Sense s-1440890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: af2e9e47d64b42b660f5ab85bde461d692edfb44cdbbc48dac0396f54a96a761
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1440890-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egymásba fon
+*** en-s-1440890-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: körülfon
+** Ukrainian glosses
+
+* Sense s-1440890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0d9c559821ab25b240fc6ca6f9d7dfc5eab958cffd3e4fed8852f2aebcd6533a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1440890-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) まつわる
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1440890-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1440890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: まといつく

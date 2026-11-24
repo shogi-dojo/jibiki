@@ -1,0 +1,141 @@
+#+TITLE: 貸出金
+#+JMDICT_ID: 1824930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かしだしきん
+#+ROMAJI: kashidashikin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1824930-001
+:PROPERTIES:
+:TEXT: 貸出金
+:END:
+** Written form wf-1824930-002
+:PROPERTIES:
+:TEXT: 貸し出し金
+:END:
+** Written form wf-1824930-003
+:PROPERTIES:
+:TEXT: 貸出し金
+:END:
+** Reading rd-1824930-001
+:PROPERTIES:
+:TEXT: かしだしきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1824930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fc98a514261043d59a05958928515c7b6e7da3c725178cd1fd0ff7aa32bdad84
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- money given as loan
+** Ukrainian glosses
+*** uk-s-1824930-001-001
+:PROPERTIES:
+:END:
+- text :: позичені кошти; видана позика; кредит
+** Learner notes
+*** note-s-1824930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; банківський та бухгалтерський термін (від 貸し出し «видача в борг, кредитування» і 金 «гроші»). Позначає суму коштів, наданих банком чи установою позичальникам у кредит, а в балансі фінансової установи — статтю активів за виданими позиками.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1824930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行の貸出金が去年より増えた。
+- READING :: ぎんこうのかしだしきんがきょねんよりふえた。
+- UK :: Обсяг виданих банком позик зріс порівняно з минулим роком.
+- FOCUS :: 貸出金
+*** ex-1824930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域の中小企業に対する貸出金の残高を調べた。
+- READING :: ちいきのちゅうしょうきぎょうにたいするかしだしきんのざんだかをしらべた。
+- UK :: Ми перевірили залишок коштів, наданих у кредит місцевим малим і середнім підприємствам.
+- FOCUS :: 貸出金
+*** ex-1824930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 景気の回復を受け、設備投資向けの貸出金が順調に伸びている。
+- READING :: けいきのかいふくをうけ、せつびとうしむけのかしだしきんがじゅんちょうにのびている。
+- UK :: На тлі відновлення економіки стабільно зростають обсяги позик, виданих на інвестиції в обладнання.
+- FOCUS :: 貸出金
+
+* Sense s-1824930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f4dedc441c4461b6a7b36b0f81d4e6603834a46a9edad3f71b70c96b33dda225
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1824930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geliehenes Geld
+** Ukrainian glosses
+
+* Sense s-1824930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 40677012ccb879daad5b4a9f2fb8c878dfbaa601e57288efbfb906f71c8d57e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1824930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ссуда; аванс
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1824930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1824930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かしだしきん

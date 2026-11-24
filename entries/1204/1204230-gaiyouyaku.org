@@ -1,0 +1,134 @@
+#+TITLE: 外用薬
+#+JMDICT_ID: 1204230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がいようやく
+#+ROMAJI: gaiyouyaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1204230-001
+:PROPERTIES:
+:TEXT: 外用薬
+:END:
+** Reading rd-1204230-001
+:PROPERTIES:
+:TEXT: がいようやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1204230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3a19891ec49fcad6d6fe72680c4e8927f9b8ace48fdf26f363d05890ec86888c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- medicine for external use
+- external medicine
+** Ukrainian glosses
+*** uk-s-1204230-001-001
+:PROPERTIES:
+:END:
+- text :: ліки для зовнішнього застосування, зовнішній засіб
+** Learner notes
+*** note-s-1204230-001-001
+:PROPERTIES:
+:END:
+- UK :: Медично-фармацевтичний іменник, антонім до 内服薬 («ліки для внутрішнього приймання»). Охоплює мазі, креми, пластирі, краплі та розчини, які наносять на шкіру чи слизову оболонку, а не ковтають.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1204230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 薬局で皮膚の外用薬を買いました。
+- READING :: やっきょくでひふのがいようやくをかいました。
+- UK :: Я купив в аптеці засіб для зовнішнього застосування для шкіри.
+- FOCUS :: 外用薬
+*** ex-1204230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この外用薬は飲み薬ではないので、患部に薄く塗ってください。
+- READING :: このがいようやくはのみぐすりではないので、かんぶにうすくぬってください。
+- UK :: Цей засіб не для внутрішнього приймання, тож наносьте його тонким шаром на уражену ділянку.
+- FOCUS :: 外用薬
+*** ex-1204230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 症状が改善しない場合は、処方された外用薬を使い続けず、早めに医師へ相談したほうがよい。
+- READING :: しょうじょうがかいぜんしないばあいは、しょほうされたがいようやくをつかいつづけず、はやめにいしへそうだんしたほうがよい。
+- UK :: Якщо симптоми не зникають, не варто й далі користуватися призначеними зовнішніми ліками — краще якнайшвидше звернутися до лікаря.
+- FOCUS :: 外用薬
+
+* Sense s-1204230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dd558a8acb7b6c46b9153cabc0f42082efada5fd21a3da0d945b0c02e822ce16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medizin zum äußeren Gebrauch
+** Ukrainian glosses
+
+* Sense s-1204230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0556772f3d2fc2134154e32036862fd5c8e0e16d3e9577b8b7e84aed2b1f2041
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204230-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (фарм.) наружное
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1204230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1204230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: がいようやく

@@ -1,0 +1,137 @@
+#+TITLE: 重巡
+#+JMDICT_ID: 2798030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じゅうじゅん
+#+ROMAJI: juujun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2798030-001
+:PROPERTIES:
+:TEXT: 重巡
+:END:
+** Reading rd-2798030-001
+:PROPERTIES:
+:TEXT: じゅうじゅん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2798030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 487b13e60b89dacdad53312320a9232c6238913b75246ed9e8759f541e0c298c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 重巡洋艦・じゅうじゅんようかん
+** English glosses
+- heavy cruiser
+** Ukrainian glosses
+*** uk-s-2798030-001-001
+:PROPERTIES:
+:END:
+- text :: важкий крейсер
+** Learner notes
+*** note-s-2798030-001-001
+:PROPERTIES:
+:END:
+- UK :: Військово-морське скорочення від повного терміна 重巡洋艦 («важкий крейсер»). Трапляється в історичних дослідженнях, військових хроніках та художній літературі про морські битви, на противагу 軽巡 («легкий крейсер»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2798030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 博物館で重巡の模型を見ました。
+- READING :: はくぶつかんでじゅうじゅんのもけいをみました。
+- UK :: У музеї я бачив модель важкого крейсера.
+- FOCUS :: 重巡
+*** ex-2798030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その資料館には、かつて活躍した重巡の写真が多く展示されています。
+- READING :: そのしりょうかんには、かつてかつやくしたじゅうじゅんのしゃしんがおおくてんじされています。
+- UK :: У тому меморіальному музеї виставлено чимало світлин важких крейсерів минулих часів.
+- FOCUS :: 重巡
+*** ex-2798030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海戦の歴史を調べるうちに、軽巡と重巡の設計上の違いに関心を持つようになった。
+- READING :: かいせんのれきしをしらべるうちに、けいじゅんとじゅうじゅんのせっけいじょうのちがいにかんしんをもつようになった。
+- UK :: Вивчаючи історію морських битв, я зацікавився конструктивними відмінностями між легкими та важкими крейсерами.
+- FOCUS :: 重巡
+
+* Sense s-2798030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5810e14e4918c38a3efdd634c405cbd07626c9308a645d58be5b315da78c3148
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2798030-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schwerkreuzer
+** Ukrainian glosses
+
+* Sense s-2798030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f37682032ab01160c2c7a99d99514cdb85f4b07a6387b1af8c3fd341382cd018
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2798030-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: тяжёлый крейсер
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2798030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2798030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じゅうじゅん

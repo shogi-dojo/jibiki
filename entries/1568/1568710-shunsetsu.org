@@ -1,0 +1,151 @@
+#+TITLE: 浚渫
+#+JMDICT_ID: 1568710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅんせつ
+#+ROMAJI: shunsetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1568710-001
+:PROPERTIES:
+:TEXT: 浚渫
+:END:
+** Reading rd-1568710-001
+:PROPERTIES:
+:TEXT: しゅんせつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1568710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f17c3be5a13d07b9d5fcb7e4fba6353f012ae005ca0a6df41cb74dfc14cb61e0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- dredging
+** Ukrainian glosses
+*** uk-s-1568710-001-001
+:PROPERTIES:
+:END:
+- text :: днопоглиблення; днопоглиблювальні роботи; очищення дна
+** Learner notes
+*** note-s-1568710-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний технічний іменник і перехідне суру-дієслово (浚渫する) на позначення робіт із розчищення та поглиблення дна річок, портів, каналів чи водосховищ від мулу й піску за допомогою земснарядів (浚渫船). Обидва ієрогліфи належать до рідкісних, тому в пресі слово інколи пишуть каною як しゅんせつ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1568710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 港の底を浚渫する工事が始まった。
+- READING :: みなとのそこをしゅんせつするこうじがはじまった。
+- UK :: У порту розпочалися роботи з поглиблення дна.
+- FOCUS :: 浚渫
+*** ex-1568710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大型船が安全に入港できるよう、定期的に航路の浚渫が行われている。
+- READING :: おおがたせんがあんぜんににゅうこうできるよう、ていきてきにこうろのしゅんせつがおこなわれている。
+- UK :: Щоб великі судна могли безпечно заходити до порту, регулярно проводять днопоглиблення фарватеру.
+- FOCUS :: 浚渫
+*** ex-1568710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長年の土砂の堆積で水深が浅くなった河川では、洪水対策として大規模な浚渫作業が必要となる。
+- READING :: ながねんのどしゃのたいせきですいしんがあさくなったかせんでは、こうずいたいさくとしてだいきぼなしゅんせつさぎょうがひつようとなる。
+- UK :: На річках, які обміліли через багаторічне накопичення наносів, для запобігання повеням потрібні масштабні днопоглиблювальні роботи.
+- FOCUS :: 浚渫
+
+* Sense s-1568710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 987c92a5f2107d296b3cabb5713228b0510a38bef9906d1db4857ea1ebfaeaf5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ausbaggern
+*** en-s-1568710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ausbaggern
+** Ukrainian glosses
+
+* Sense s-1568710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e722bf6bc794b53b33fc48b28557dfafe6f881aab6c8198a475ba0efb49df53
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: углубление фарватера, землечерпательные работы
+*** en-s-1568710-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} углублять фарватер, вести землечерпательные работы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1568710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1568710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しゅんせつ

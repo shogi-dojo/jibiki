@@ -1,0 +1,163 @@
+#+TITLE: 撫で上げる
+#+JMDICT_ID: 1498320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なであげる
+#+ROMAJI: nadeageru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1498320-001
+:PROPERTIES:
+:TEXT: 撫で上げる
+:END:
+** Written form wf-1498320-002
+:PROPERTIES:
+:TEXT: なで上げる
+:END:
+** Written form wf-1498320-003
+:PROPERTIES:
+:TEXT: 撫であげる
+:END:
+*** Information
+- sK
+** Reading rd-1498320-001
+:PROPERTIES:
+:TEXT: なであげる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1498320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 62b11de420230c85ce61114f6add3e0c4d66d02eaf878281817ace895f62f226
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to comb back
+- to stroke upward
+- to smooth up
+** Ukrainian glosses
+*** uk-s-1498320-001-001
+:PROPERTIES:
+:END:
+- text :: зачісувати назад або догори (рукою), пригладжувати вгору
+** Learner notes
+*** note-s-1498320-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово 2-ї дієвідміни (一段). Складене дієслово від 撫でる (гладити) та 上げる (підіймати); позначає загладжування волосся долонею чи гребінцем назад або проведення рукою знизу вгору.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1498320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は前髪を撫で上げた。
+- READING :: かれはまえがみをなであげた。
+- UK :: Він зачесав чубчик назад рукою.
+- FOCUS :: 撫で上げた
+*** ex-1498320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 鏡を見ながら、濡れた髪を手ぐしで後ろへ撫で上げる。
+- READING :: かがみをみながら、ぬれたかみをてぐしでうしろへなであげる。
+- UK :: Дивлячись у дзеркало, я загладжую пальцями вологе волосся назад.
+- FOCUS :: 撫で上げる
+*** ex-1498320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 重要な会議を始める前、社長は少し考え込むように顎のひげをゆっくりと撫で上げた。
+- READING :: じゅうようなかいぎをはじめるまえ、しゃちょうはすこしかんがえこむようにあごのひげをゆっくりとなであげた。
+- UK :: Перед початком важливої наради директор замислено провів рукою вгору по бороді.
+- FOCUS :: 撫で上げた
+
+* Sense s-1498320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 310a74949e17526f167c8d73cc54e9b03c0176e6691603db8c69d42513682b11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zurückkämmen
+** Ukrainian glosses
+
+* Sense s-1498320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 058db0d6017f13d3ee92fb8dd66d14b7237891700e499abf4d1c659166cad123
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498320-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: зачёсывать наверх (назад)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1498320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1498320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: なであげる
+** Accent accent-rd-1498320-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1498320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: なであげる

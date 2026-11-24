@@ -1,0 +1,151 @@
+#+TITLE: ポリ
+#+JMDICT_ID: 1125610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ポリ
+#+ROMAJI: pori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1125610-001
+:PROPERTIES:
+:TEXT: ポリ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1125610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 11a382671f102e78ccfbcbc6c9017fcaa56f2704079eb80028d21750591bf82a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- pref
+** English glosses
+- poly-
+** Ukrainian glosses
+*** uk-s-1125610-001-001
+:PROPERTIES:
+:END:
+- text :: полі- (багато-, численний)
+** Learner notes
+*** note-s-1125610-001-001
+:PROPERTIES:
+:END:
+- UK :: Префікс грецького походження, що позначає множинність або полімерність у науковій і технічній термінології, наприклад ポリマー (полімер) чи ポリ塩化ビニル (полівінілхлорид).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1125610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このシャツは綿とポリエステルの混紡素材で作られている。
+- READING :: このしゃつはめんとぽりえすてるのこんぼうそざいでつくられている。
+- UK :: Цю сорочку виготовлено зі змішаної тканини з бавовни та поліестеру.
+- FOCUS :: ポリ
+*** ex-1125610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: スーパーで買い物をして、丈夫なポリ袋を一つもらった。
+- READING :: すーぱーでかいものをして、じょうぶなぽりぶくろをひとつもらった。
+- UK :: Зробивши покупки в супермаркеті, я взяв один міцний поліетиленовий пакет.
+- FOCUS :: ポリ
+*** ex-1125610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この古いシンセサイザーは八音のポリに対応しており、豊かな和音を奏でられる。
+- READING :: このふるいしんせさいざーははちおんのぽりにたいおうしており、ゆたかなわおんをかなでられる。
+- UK :: Цей старий синтезатор підтримує восьмиголосну поліфонію, тож на ньому можна виконувати насичені акорди.
+- FOCUS :: ポリ
+
+* Sense s-1125610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b1be4ad2a69f302c46a70ca37d2592fddc3132bc2ffba4a9aea6bb6b4e4a9999
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Sense information
+- usu. in compounds
+*** Cross-references
+- ポリエチレン
+** English glosses
+- polyethylene
+** Ukrainian glosses
+*** uk-s-1125610-002-001
+:PROPERTIES:
+:END:
+- text :: поліетилен
+** Learner notes
+*** note-s-1125610-002-001
+:PROPERTIES:
+:END:
+- UK :: Скорочена розмовна назва поліетилену (від ポリエチレン), поширена в побуті в таких словах, як ポリ袋 (поліетиленовий пакет) і ポリタンク (пластикова каністра).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1125610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 068fe89c8b991cd1eae657de5086f6c061ecdeed2bba02bd18a45c1c4c083b47
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- ポリフォニー
+** English glosses
+- polyphony (of an electronic keyboard, etc.)
+** Ukrainian glosses
+*** uk-s-1125610-003-001
+:PROPERTIES:
+:END:
+- text :: поліфонія; багатоголосся (електронних інструментів)
+** Learner notes
+*** note-s-1125610-003-001
+:PROPERTIES:
+:END:
+- UK :: Музично-технічне скорочення від ポリフォニー. Стосується здатності синтезатора чи електронного клавішного інструмента відтворювати кілька нот одночасно.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Pronunciation
+** Accent accent-rd-1125610-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1125610-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ポリ

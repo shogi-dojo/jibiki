@@ -1,0 +1,133 @@
+#+TITLE: 経営難
+#+JMDICT_ID: 1831550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいえいなん
+#+ROMAJI: keieinan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1831550-001
+:PROPERTIES:
+:TEXT: 経営難
+:END:
+** Reading rd-1831550-001
+:PROPERTIES:
+:TEXT: けいえいなん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1831550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 85e92b7f4ee6ded1b0c9ef847419c2ab8ab8ca0a6e3daed7ab247e3165671f91
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- financial difficulties (for an organization or business)
+** Ukrainian glosses
+*** uk-s-1831550-001-001
+:PROPERTIES:
+:END:
+- text :: фінансові труднощі підприємства; господарська скрута
+** Learner notes
+*** note-s-1831550-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; складається з 経営 (управління, ведення господарства) та суфікса 難 (труднощі, криза). Означає скрутне фінансове або управлінське становище компанії чи установи; часто вживається у зворотах 経営難に陥る (потрапити у фінансову скруту) та 経営難から倒産する (збанкрутувати через скрутне становище).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1831550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その小さな店は経営難で閉まりました。
+- READING :: そのちいさなみせはけいえいなんでしまりました。
+- UK :: Та маленька крамниця зачинилася через фінансові труднощі.
+- FOCUS :: 経営難
+*** ex-1831550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 客の減少が続き、老舗の旅館が経営難に陥っている。
+- READING :: きゃくのげんしょうがつづき、しにせのりょかんがけいえいなんにおちいっている。
+- UK :: Через постійне зменшення кількості гостей старовинний рьокан опинився у фінансовій скруті.
+- FOCUS :: 経営難
+*** ex-1831550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引く不況の影響で深刻な経営難に直面し、多くの企業が見直しを迫られている。
+- READING :: ながびくふきょうのえいきょうでしんこくなけいえいなんにちょくめんし、おおくのきぎょうがみなおしをせまられている。
+- UK :: Зіткнувшись із серйозними фінансовими труднощами через затяжну рецесію, багато компаній змушені переглядати свою діяльність.
+- FOCUS :: 経営難
+
+* Sense s-1831550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f817e777263a440a7fa06d05e85fc566ee48affb05f26a5ad926a90775a23fe4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1831550-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Betriebsschwierigkeit
+** Ukrainian glosses
+
+* Sense s-1831550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 37fc379de4764a3b25a05854758e4cfb0acafe18b8cea872d7ac15e235d525b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1831550-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [финансовые] трудности (при ведении дела, руководстве каким-л. предприятием)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1831550-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1831550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: けいえいなん

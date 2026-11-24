@@ -1,0 +1,165 @@
+#+TITLE: どっかと
+#+JMDICT_ID: 2009240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どっかと
+#+ROMAJI: dokkato
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2009240-001
+:PROPERTIES:
+:TEXT: どっかと
+:NO_KANJI: false
+:END:
+
+* Sense s-2009240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 78806362a4390b6fa8aa70fe6be639e96c39f330b96aed2a42a6ac838b41b584
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adv
+*** Miscellaneous and register
+- on-mim
+** English glosses
+- with a thump
+- floppingly
+** Ukrainian glosses
+*** uk-s-2009240-001-001
+:PROPERTIES:
+:END:
+- text :: важко; розлого; з глухим стукотом (сісти, опуститися)
+** Learner notes
+*** note-s-2009240-001-001
+:PROPERTIES:
+:END:
+- UK :: Образно-звуконаслідувальний прислівник (ономатопея), близький до どっかりと чи どっしりと. Передає манеру важко, неквапливо або по-хазяйськи вмоститися чи плюхнутися на місце; найчастіше сполучається з дієсловами 座る (сідати) та 腰を下ろす (опускатися на сидіння).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2009240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父はいすにどっかと座りました。
+- READING :: ちちはいすにどっかとすわりました。
+- UK :: Батько важко вмостився на стільці.
+- FOCUS :: どっかと
+*** ex-2009240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い一日を終えて帰宅すると、彼はソファにどっかと腰を下ろした。
+- READING :: ながいいちにちをおえてきたくすると、かれはそふぁにどっかとこしをおろした。
+- UK :: Повернувшись додому після довгого дня, він важко опустився на диван.
+- FOCUS :: どっかと
+*** ex-2009240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会議室の奥にある革張りの肘掛け椅子にどっかと腰を据えた部長は、静かに資料へ目を通し始めた。
+- READING :: かいぎしつのおくにあるかわばりのひじかけいすにどっかとこしをすえたぶちょうは、しずかにしりょうへめをとおしはじめた。
+- UK :: Солідно вмостившись у шкіряному кріслі в глибині переговорної кімнати, начальник відділу мовчки почав переглядати документи.
+- FOCUS :: どっかと
+
+* Sense s-2009240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 40c8c44e4159d639fe6bb1f8cd194e2c6268d468e737d9436ee7ad8074c61847
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2009240-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich schwer hinsetzend
+** Ukrainian glosses
+
+* Sense s-2009240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 52d789ed527d3c1f3492881264423544dd4aa7f12928438ae9dc6f4c6450283e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2009240-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rumpelnd (weil etwas schweres bewegt wird)
+** Ukrainian glosses
+
+* Sense s-2009240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ed38ce026c9536a3af8d0a89fc5c3d8b672383ca4a0ab9b5470f85f5676e36c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2009240-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) どっがり
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2009240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2009240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どっかと
+** Accent accent-rd-2009240-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2009240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どっかと

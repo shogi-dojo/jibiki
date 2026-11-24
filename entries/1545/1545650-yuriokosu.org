@@ -1,0 +1,159 @@
+#+TITLE: 揺り起こす
+#+JMDICT_ID: 1545650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆりおこす
+#+ROMAJI: yuriokosu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1545650-001
+:PROPERTIES:
+:TEXT: 揺り起こす
+:END:
+** Reading rd-1545650-001
+:PROPERTIES:
+:TEXT: ゆりおこす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1545650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ced94d95ac5a7114e823b895823a4693caa46de1a085bf3df962f67cb3e7df03
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+** English glosses
+- to shake someone awake
+** Ukrainian glosses
+*** uk-s-1545650-001-001
+:PROPERTIES:
+:END:
+- text :: розбудити, струсонувши (потрясши); розштовхати
+** Learner notes
+*** note-s-1545650-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне ґодан-дієслово на -す (五段動詞), утворене з основи 揺る («трясти, гойдати») та 起こす («будити, піднімати»). Означає розбудити когось, торсаючи за плече чи струшуючи, або образно — пробудити чиюсь свідомість чи почуття.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1545650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 眠っている弟を揺り起こした。
+- READING :: ねむっているおとうとをゆりおこした。
+- UK :: Я розбудив сплячого молодшого брата, злегка потрясши його.
+- FOCUS :: 揺り起こした
+*** ex-1545650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地震が起きたので、家族をすぐに揺り起こして避難の準備をした。
+- READING :: じしんがおきたので、かぞくをすぐにゆりおこしてひなんのじゅんびをした。
+- UK :: Коли стався землетрус, я одразу розбудив рідних і почав готуватися до евакуації.
+- FOCUS :: 揺り起こして
+*** ex-1545650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 終電を乗り過ごさないように、隣で深く眠り込んでいた友人の肩をつかんで揺り起こす必要があった。
+- READING :: しゅうでんをのりすごさないように、となりでふかくねむりこんでいたゆうじんのかたをつかんでゆりおこすひつようがあった。
+- UK :: Щоб не проїхати останній поїзд, довелося взяти за плече й розштовхати друга, який міцно заснув поруч.
+- FOCUS :: 揺り起こす
+
+* Sense s-1545650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fb5396ac6cfc2d62c076c35671f4663a00cb714e4d398dcece851391f4906101
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1545650-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: réveiller quelqu'un en le secouant
+** Ukrainian glosses
+
+* Sense s-1545650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 880c91971aa3c8561fb159a0e074dc81eaca5ab8684e1da46636c5907329fe9c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1545650-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wachrütteln
+*** en-s-1545650-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufrütteln
+** Ukrainian glosses
+
+* Sense s-1545650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0dbee3ac845a9522a7f4e321c0bea7a3930b8c648ced6da55b3a0aa0c572be6d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1545650-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: растолкать (спящего)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1545650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1545650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ゆりおこす

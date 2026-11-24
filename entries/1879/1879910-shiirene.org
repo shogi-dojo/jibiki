@@ -1,0 +1,178 @@
+#+TITLE: 仕入れ値
+#+JMDICT_ID: 1879910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しいれね
+#+ROMAJI: shiirene
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1879910-001
+:PROPERTIES:
+:TEXT: 仕入れ値
+:END:
+** Reading rd-1879910-001
+:PROPERTIES:
+:TEXT: しいれね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1879910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fef598c8197a6c12c5ce11c80ea1796d073519dd3b1791ddd4d8110fd082b0d4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- cost price
+- buying price
+** Ukrainian glosses
+*** uk-s-1879910-001-001
+:PROPERTIES:
+:END:
+- text :: закупівельна ціна; собівартість закупівлі
+** Learner notes
+*** note-s-1879910-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник економічного та торговельного вжитку (від 仕入れる — закуповувати товар для перепродажу й 値 — ціна). Протиставляється роздрібній або продажній ціні (売値 — うりね) і безпосередньо визначає торговельну націнку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1879910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この野菜は仕入れ値が高い。
+- READING :: このやさいはしいれねがたかい。
+- UK :: На ці овочі висока закупівельна ціна.
+- FOCUS :: 仕入れ値
+*** ex-1879910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原材料の高騰によって仕入れ値が上がり、店の利益が減ってしまった。
+- READING :: げんざいりょうのこうとうによってしいれねがあがり、みせのりえきがへってしまった。
+- UK :: Через подорожчання сировини закупівельні ціни зросли, і прибуток крамниці зменшився.
+- FOCUS :: 仕入れ値
+*** ex-1879910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大量にまとめて発注することで一つあたりの仕入れ値を抑え、競合他社よりも安い価格で販売している。
+- READING :: たいりょうにまとめてはっちゅうすることでひとつあたりのしいれねをおさえ、きょうごうたしゃよりもやすいかかくではんばいしている。
+- UK :: Замовляючи товар великими партіями, компанія знижує закупівельну ціну за одиницю й продає дешевше за конкурентів.
+- FOCUS :: 仕入れ値
+
+* Sense s-1879910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b40641724bbb6b99c678aa88d8efdbfad8da143a8271a8cf79d1b074c97b729c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879910-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einkaufspreis
+** Ukrainian glosses
+
+* Sense s-1879910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: eb22ea08ec317780a6bdf89574becd02ca75347d57a51ca94d7bc0e536f50345
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879910-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: закупочная цена
+** Ukrainian glosses
+
+* Sense s-1879910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ea966392112a8fd1fb3fdb1687517e02f247963428118feae74e16bc231d40c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879910-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio de coste
+** Ukrainian glosses
+
+* Sense s-1879910-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: caf4000f0156e7928c6e6ad74b50d2d5801017fea8f892af7391588bf62e6d33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1879910-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pris
+*** en-s-1879910-005-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: självkostnadspris
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1879910-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1879910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しいれね

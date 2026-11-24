@@ -1,0 +1,126 @@
+#+TITLE: 尺
+#+JMDICT_ID: 2711180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さし
+#+ROMAJI: sashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2711180-001
+:PROPERTIES:
+:TEXT: 尺
+:END:
+** Written form wf-2711180-002
+:PROPERTIES:
+:TEXT: 差し
+:END:
+** Written form wf-2711180-003
+:PROPERTIES:
+:TEXT: 指し
+:END:
+** Reading rd-2711180-001
+:PROPERTIES:
+:TEXT: さし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2711180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4bd1d09602c53ac1a1fd60c7e24c4ff23a78622d3046981d53942e08e056b43f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- ものさし・1
+** English glosses
+- ruler
+- measure
+** Ukrainian glosses
+*** uk-s-2711180-001-001
+:PROPERTIES:
+:END:
+- text :: лінійка; мірило; вимірювальна планка
+** Learner notes
+*** note-s-2711180-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і скорочений або розмовний варіант слова 物差し (ものさし — лінійка), який часто вживають у побуті чи в майстернях (наприклад, у кравецтві — 鯨尺 або 竹尺). Не слід плутати з омографічним словом 尺 (しゃく — традиційна міра довжини близько тридцяти сантиметрів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2711180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 尺で布の幅を測る。
+- READING :: さしでぬののはばをはかる。
+- UK :: Виміряти ширину тканини лінійкою.
+- FOCUS :: 尺
+*** ex-2711180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖母は着物を縫うとき、いつも使い込んだ竹の尺を手にしていた。
+- READING :: そぼはきものをぬうとき、いつもつかいこんだたけのさしをてにしていた。
+- UK :: Коли бабуся шила кімоно, вона завжди тримала під рукою стару, випробувану часом бамбукову лінійку.
+- FOCUS :: 尺
+*** ex-2711180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 製図の作業では、目盛りがかすれた古い尺ではなく、正確な金属製の定規を用いるべきだ。
+- READING :: せいずのさぎょうでは、めもりがかすれたふるいさしではなく、せいかくなきんぞくせいのじょうぎをもちいるべきだ。
+- UK :: Під час креслення варто користуватися точною металевою лінійкою, а не старим мірилом зі стертими поділками.
+- FOCUS :: 尺
+
+* Sense s-2711180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e88e8bf87bade7beaba075fcb39011db73447a9f889b328c050be93b97964957
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2711180-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ものさし
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2711180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2711180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さし

@@ -1,0 +1,183 @@
+#+TITLE: 半値
+#+JMDICT_ID: 1479650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんね
+#+ROMAJI: hanne
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1479650-001
+:PROPERTIES:
+:TEXT: 半値
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1479650-001
+:PROPERTIES:
+:TEXT: はんね
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1479650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 13e16562c7b3750925bcb47b85ee12461be40efb4eb2330e0cc5d6856f19e50a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- half price
+** Ukrainian glosses
+*** uk-s-1479650-001-001
+:PROPERTIES:
+:END:
+- text :: півціни; половина вартості
+** Learner notes
+*** note-s-1479650-001-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий і торговельний іменник (半 — половина + 値 — ціна). Означає зменшення ціни на п'ятдесят відсотків від початкової вартості (також 半額); часто трапляється в конструкціях 半値で買う (купити за півціни) та 半値以下に下がる (впасти нижче половини ціни).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1479650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 閉店前のスーパーでお弁当を半値で買った。
+- READING :: へいてんまえのすーぱーでおべんとうをはんねでかった。
+- UK :: У супермаркеті перед закриттям я купив бенто за півціни.
+- FOCUS :: 半値
+*** ex-1479650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 季節外れのコートがセールで半値になっていたので、迷わず購入した。
+- READING :: きせつはずれのこーとがせーるではんねになっていたので、まよわずこうにゅうした。
+- UK :: Оскільки несезонне пальто на розпродажі коштувало півціни, я без вагань його купив.
+- FOCUS :: 半値
+*** ex-1479650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新モデルの発売に伴い、旧型の家電製品はわずか数か月で定価の半値近くまで値下がりした。
+- READING :: しんもでるのはつばいにともない、きゅうがたのかでんせいひんはわずかすうかげつでていかのはんねちかくまでねさがりした。
+- UK :: Після виходу нової моделі побутова техніка попереднього покоління всього за кілька місяців подешевшала майже до половини початкової ціни.
+- FOCUS :: 半値
+
+* Sense s-1479650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 76119f5650291d65a07793ada60661d102c054592d958d49305c03674c344397
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: halber Preis
+** Ukrainian glosses
+
+* Sense s-1479650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dc92dbeb45459d77a37605c1683fb888e5c39874ba61cc9b26c602159a92c9c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: полцены
+*** en-s-1479650-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～で} за полцены; за половину (за 50%) стоимости
+** Ukrainian glosses
+
+* Sense s-1479650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b4fa3647d8002f2aed47be7ad7ed092640882d79f39cebec6b0dbf65a51e97a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1479650-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mitad de precio
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1479650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1479650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はんね
+** Accent accent-rd-1479650-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1479650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はんね

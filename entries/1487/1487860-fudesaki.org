@@ -1,0 +1,176 @@
+#+TITLE: 筆先
+#+JMDICT_ID: 1487860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふでさき
+#+ROMAJI: fudesaki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1487860-001
+:PROPERTIES:
+:TEXT: 筆先
+:END:
+** Reading rd-1487860-001
+:PROPERTIES:
+:TEXT: ふでさき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1487860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f32e8e15faa575ce4093abde18ba37825a007c8d3c688ef6f513e456d7582136
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- tip of brush
+** Ukrainian glosses
+*** uk-s-1487860-001-001
+:PROPERTIES:
+:END:
+- text :: кінчик пензля
+** Learner notes
+*** note-s-1487860-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; складається з 筆 (пензель для письма чи малювання) та 先 (кінчик, вістря). Позначає робочий пучок волосків на кінці пензля в каліграфії та живописі; часто вживається у словосполученнях 筆先を整える (підрівняти кінчик пензля) та 筆先に墨を含ませる (набрати туші на кінчик пензля).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1487860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 書く前に、筆先に墨を少しつけます。
+- READING :: かくまえに、ふでさきにすみをすこしつけます。
+- UK :: Перед письмом на кінчик пензля набирають трохи туші.
+- FOCUS :: 筆先
+*** ex-1487860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 書道の先生は、筆先の動きを丁寧に確認しながら字を書いた。
+- READING :: しょどうのせんせいは、ふでさきのうごきをていねいにかくにんしながらじをかいた。
+- UK :: Учитель каліграфії виводив ієрогліфи, уважно стежачи за рухом кінчика пензля.
+- FOCUS :: 筆先
+*** ex-1487860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 熟練した画家は、細い筆先を巧みに操って花びらの繊細なグラデーションを表現した。
+- READING :: じゅくれんしたがかは、ほそいふでさきをたくみにあやつってはなびらのせんさいなぐらでーしょんをひょうげんした。
+- UK :: Досвідчений художник вправно керував тонким кінчиком пензля, передаючи витончені переходи кольорів на пелюстках.
+- FOCUS :: 筆先
+
+* Sense s-1487860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 263575bc80342e9577c2c8f291987ec7fde17a75d1023bde5d8b3aec7ae1ef88
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487860-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pointe du poinceau
+** Ukrainian glosses
+
+* Sense s-1487860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c2a81a0916a28a116fcc85a94a546f707d9a8b25968a498e0db6945fbdb3045f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487860-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spitze des Pinsels
+** Ukrainian glosses
+
+* Sense s-1487860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a4d7817b0f3f48d4211a937e3ddf85050c353ae7399266f99046fb667cc56131
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1487860-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) кончик пера
+*** en-s-1487860-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) перен. перо; (ср.) おふでさき
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1487860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1487860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふでさき
+** Accent accent-rd-1487860-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1487860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 4
+:PATTERN: odaka
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふでさき

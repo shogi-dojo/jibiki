@@ -1,0 +1,196 @@
+#+TITLE: 札入れ
+#+JMDICT_ID: 1645260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さついれ
+#+ROMAJI: satsuire
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1645260-001
+:PROPERTIES:
+:TEXT: 札入れ
+:END:
+** Reading rd-1645260-001
+:PROPERTIES:
+:TEXT: さついれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1645260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f7265c9113cc8e38eb06cc82eaff6344fa30e93466485732c71f17c80ed4a439
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 小銭入れ
+** English glosses
+- wallet
+- billfold
+** Ukrainian glosses
+*** uk-s-1645260-001-001
+:PROPERTIES:
+:END:
+- text :: гаманець (для купюр); бумажник
+** Learner notes
+*** note-s-1645260-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 札 (паперова купюра, банкнота) та 入れる (класти всередину). Позначає плоский гаманець для паперових грошей і карток, зазвичай без відділення для дріб'язку — на відміну від 小銭入れ (монетниці) чи загального 財布.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1645260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 父に革の札入れを贈った。
+- READING :: ちちにかわのさついれをおくった。
+- UK :: Я подарував батькові шкіряний гаманець для купюр.
+- FOCUS :: 札入れ
+*** ex-1645260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 小銭は別の袋に分け、お札とカードだけを薄い札入れに収めている。
+- READING :: こぜにはべつのふくろにわけ、おさつとかーどだけをうすいさついれにおさめている。
+- UK :: Дріб'язок я тримаю в окремому гаманці, а в тонкий бумажник кладу лише банкноти й картки.
+- FOCUS :: 札入れ
+*** ex-1645260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 内ポケットに入れても上着のシルエットが崩れないため、営業職の間ではスリムな札入れが好まれる。
+- READING :: うちぽけっとにいれてもうわぎのしるえっとがくずれないため、えいぎょうしょくのあいだではすりむなさついれがこなまれる。
+- UK :: Оскільки тонкий гаманець для купюр у внутрішній кишені не псує силует піджака, його часто обирають працівники відділів продажу.
+- FOCUS :: 札入れ
+
+* Sense s-1645260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4935f386e2aafeb165d9aac543107060eb9fe6f3bbef2244f46c16f368f55cb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1645260-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldbörse
+*** en-s-1645260-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geldbeutel
+** Ukrainian glosses
+
+* Sense s-1645260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9e5877be6a8b255c5edd3e3b830c95923e0ff2baad5e4617dce74beb61717681
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1645260-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tárca
+** Ukrainian glosses
+
+* Sense s-1645260-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bb4beb3554c939e281d2f5c222a1271a094744a070325cbcd833470b0385266f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1645260-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: бумажник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1645260-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1645260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 4
+:PATTERN: odaka
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さついれ
+** Accent accent-rd-1645260-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1645260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さついれ
+** Accent accent-rd-1645260-001-003
+:PROPERTIES:
+:TARGET_ID: rd-1645260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さついれ

@@ -1,0 +1,176 @@
+#+TITLE: ゼネスト
+#+JMDICT_ID: 1075140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゼネスト
+#+ROMAJI: zenesuto
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1075140-001
+:PROPERTIES:
+:TEXT: ゼネスト
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1075140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c43effa535517c0efde5e13eb94defc29e8e2cc5c34d35cd51264458e254dc8a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- ゼネラルストライキ
+** English glosses
+- general strike
+** Ukrainian glosses
+*** uk-s-1075140-001-001
+:PROPERTIES:
+:END:
+- text :: загальний страйк
+** Learner notes
+*** note-s-1075140-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, скорочення від запозичення ゼネラル・ストライキ (від англійського general strike). Позначає масштабний страйк, у якому беруть участь працівники багатьох галузей одночасно.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1075140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 来週、交通機関のゼネストがあります。
+- READING :: らいしゅう、こうつうきかんのぜねすとがあります。
+- UK :: Наступного тижня відбудеться загальний страйк транспорту.
+- FOCUS :: ゼネスト
+*** ex-1075140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 労働組合は要求を実現するために、大規模なゼネストを決行した。
+- READING :: ろうどうくみあいはようきゅうをじつげんするために、だいきぼなぜねすとをけっこうした。
+- UK :: Щоб домогтися виконання своїх вимог, профспілка провела масштабний загальний страйк.
+- FOCUS :: ゼネスト
+*** ex-1075140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全国規模のゼネストによって鉄道や港湾が止まり、社会全体に大きな影響が出た。
+- READING :: ぜんこくきぼのぜねすとによっててつどうやこうわんがとまり、しゃかいぜんたいにおおきなえいきょうがでた。
+- UK :: Через загальнонаціональний страйк зупинилися залізниці й порти, що сильно вплинуло на все суспільство.
+- FOCUS :: ゼネスト
+
+* Sense s-1075140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c858f3c25234c6f52186cb707c12e3ab5fe06cd7a4864e969fc5727eb36e30d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Generalstreik
+** Ukrainian glosses
+
+* Sense s-1075140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a73506b55a29a9d4d0bc7d293279a7296b55d45ddf4534a6eaadae983e54e820
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075140-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр. англ.) general strike) всеобщая забастовка
+** Ukrainian glosses
+
+* Sense s-1075140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 754b38eb0f9cb958565ed01b462e990a94c89c0aa1e209d628c19669bdbbbe30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1075140-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: generalstrejk
+*** en-s-1075140-004-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: storstrejk
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1075140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1075140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ゼネスト
+** Accent accent-rd-1075140-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1075140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ゼネスト

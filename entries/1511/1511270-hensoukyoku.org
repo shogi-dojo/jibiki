@@ -1,0 +1,167 @@
+#+TITLE: 変奏曲
+#+JMDICT_ID: 1511270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へんそうきょく
+#+ROMAJI: hensoukyoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1511270-001
+:PROPERTIES:
+:TEXT: 変奏曲
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1511270-001
+:PROPERTIES:
+:TEXT: へんそうきょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1511270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0518d8648d16b9a7347ff7dcb5b69f16cb901b925149e9ca65fa6b3db34262b2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+** English glosses
+- variation
+** Ukrainian glosses
+*** uk-s-1511270-001-001
+:PROPERTIES:
+:END:
+- text :: варіація; варіаційний цикл
+** Learner notes
+*** note-s-1511270-001-001
+:PROPERTIES:
+:END:
+- UK :: Музичний термін на позначення твору або форми, у якій основна мелодична тема багаторазово повторюється зі змінами ритму, гармонії, ладу чи фактури. Складається з 変奏 («варіювання виконання») і 曲 («музичний твір»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1511270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼女はピアノで有名な変奏曲を弾いた。
+- READING :: かのじょはぴあのでゆうめいなへんそうきょくをひいた。
+- UK :: Вона зіграла на піаніно відомі варіації.
+- FOCUS :: 変奏曲
+*** ex-1511270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: モーツァルトの変奏曲は、親しみやすい主題と華やかな技巧が見事に調和している。
+- READING :: もーつぁるとのへんそうきょくは、したしみやすいしゅだいとはなやかなぎこうがみごとにちょうわしている。
+- UK :: У варіаціях Моцарта гармонійно поєднуються легка для сприйняття тема та яскрава виконавська майстерність.
+- FOCUS :: 変奏曲
+*** ex-1511270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: コンサートの後半では、古い民謡の旋律をもとに作曲された壮大な変奏曲が演奏され、会場は大きな拍手に包まれた。
+- READING :: こんさーとのこうはんでは、ふるいみんようのせんりつをもとにさっきょくされたそうだいなへんそうきょくがえんそうされ、かいじょうはおおきなはくしゅにつつまれた。
+- UK :: У другій частині концерту виконали величні варіації, написані на основі мелодії старовинної народної пісні, і залу огорнули гучні оплески.
+- FOCUS :: 変奏曲
+
+* Sense s-1511270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1e9757291278c3f5b361dbb58876d93deefd259fbc35030a60ac42bf6ede4786
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511270-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Variation
+** Ukrainian glosses
+
+* Sense s-1511270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6fa8115097831d2725dcb7b083828fdc8e0c45eed7a086789121f72c6e1d7b32
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511270-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: változás
+*** en-s-1511270-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: variáció
+** Ukrainian glosses
+
+* Sense s-1511270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 83383e3a5f7b68443c2fb2d769a240cb3abc0450f1e90ca4fb83d35d04f8ddbd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1511270-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (муз.) вариации
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1511270-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1511270-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: へんそうきょく

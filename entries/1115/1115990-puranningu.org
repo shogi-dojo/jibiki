@@ -1,0 +1,153 @@
+#+TITLE: プランニング
+#+JMDICT_ID: 1115990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: プランニング
+#+ROMAJI: puranningu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1115990-001
+:PROPERTIES:
+:TEXT: プランニング
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+** Reading rd-1115990-002
+:PROPERTIES:
+:TEXT: プラニング
+:NO_KANJI: false
+:END:
+*** Information
+- sk
+
+* Sense s-1115990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 56c6e715119cf424bdb6d35ab95f43b2a1a8bb6e4ecef04d15f6980c6d682bf4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- planning
+** Ukrainian glosses
+*** uk-s-1115990-001-001
+:PROPERTIES:
+:END:
+- text :: планування; розроблення плану
+** Learner notes
+*** note-s-1115990-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; запозичення з англійської мови (planning), трапляється також написання プラニング. Широко вживається в діловому та проєктному середовищі — у маркетингу, містобудуванні, туризмі чи організації заходів (наприклад, イベントのプランニング — планування заходу).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1115990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行のプランニングをするのが好きです。
+- READING :: りょこうのぷらんにんぐをするのがすきです。
+- UK :: Мені подобається займатися плануванням подорожей.
+- FOCUS :: プランニング
+*** ex-1115990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい商品の販売に向けて、企画チームが綿密なプランニングを進めている。
+- READING :: あたらしいしょうひんのはんばいにむけて、きかくちーむがめんみつなぷらんにんぐをすすめている。
+- UK :: Готуючись до продажу нового товару, команда проєктування здійснює ретельне планування.
+- FOCUS :: プランニング
+*** ex-1115990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域活性化の成功は、住民の意見を丁寧に取り入れた長期的なプランニングにかかっている。
+- READING :: ちいきかっせいかのせいこうは、じゅうみんのいけんをていねいにとりいれたちょうきてきなぷらんにんぐにかかっている。
+- UK :: Успіх пожвавлення життя регіону залежить від довгострокового планування, що уважно враховує думки мешканців.
+- FOCUS :: プランニング
+
+* Sense s-1115990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a2c85ccfcb15fa227519c5fd011d14865cf79ddfb3b3e27dd7fe6bc8a11e8c6e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1115990-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Planen
+** Ukrainian glosses
+
+* Sense s-1115990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 866fb135f6185bbe0481ec194641fb216dd2f82325edf869db0ce719bc28aca0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1115990-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) planning) планирование
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1115990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1115990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: プランニング
+** Accent accent-rd-1115990-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1115990-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: プラニング

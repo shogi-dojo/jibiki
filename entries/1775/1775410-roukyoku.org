@@ -1,0 +1,150 @@
+#+TITLE: 浪曲
+#+JMDICT_ID: 1775410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろうきょく
+#+ROMAJI: roukyoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1775410-001
+:PROPERTIES:
+:TEXT: 浪曲
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1775410-001
+:PROPERTIES:
+:TEXT: ろうきょく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1775410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0e40209f36a45b47a9f7fab5380a3e5b59d88787c3fc3335d685b807ce3fbdad
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 浪花節・なにわぶし
+** English glosses
+- rōkyoku
+- naniwabushi
+*** en-s-1775410-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: recitation of stories accompanied by samisen
+** Ukrainian glosses
+*** uk-s-1775410-001-001
+:PROPERTIES:
+:END:
+- text :: рокьоку; нанівабуші (декламація оповідей під акомпанемент шямісена)
+** Learner notes
+*** note-s-1775410-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційне японське сценічне мистецтво оповіді, відоме також як 浪花節 (нанівабуші), що сформувалося на початку доби Мейджі. Виконавець-оповідач поєднує речитатив і спів, а гравець на 三味線 (шямісен) задає ритм і настрій оповіді.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1775410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父はよくラジオで浪曲を聴いていました。
+- READING :: そふはよくらじおでろうきょくをきいていました。
+- UK :: Мій дідусь часто слухав рокьоку по радіо.
+- FOCUS :: 浪曲
+*** ex-1775410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 浅草の寄席では、今もベテランの浪曲師による浪曲を楽しめる。
+- READING :: あさくさのよせでは、いまもべてらんのろうきょくしによるろうきょくをたのしめる。
+- UK :: У залах йосе в Асакусі й досі можна послухати рокьоку у виконанні досвідчених майстрів.
+- FOCUS :: 浪曲
+*** ex-1775410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 三味線の力強い音色に合わせて語られる浪曲は、庶民の義理や人情を生き生きと描き出してきた。
+- READING :: しゃみせんのちからづよいねいろにあわせてかたられるろうきょくは、しょみんのぎりやにんじょうをいきいきとえがきだしてきた。
+- UK :: Рокьоку, що виконується під виразне звучання шямісена, здавна яскраво змальовувало почуття обов'язку й людські переживання простих містян.
+- FOCUS :: 浪曲
+
+* Sense s-1775410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5c4b884cdc6216e55e252020271b6c0098273e822ea30bec28e30da5591e3f29
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1775410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Naniwabushi (zu Shamisen-Begleitung gesungene volkstümliche Balladen über kriegerische Heldentaten vergangener Zeiten o.Ä.)
+** Ukrainian glosses
+
+* Sense s-1775410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e61821f8eaef79a2ce3e5477ca0a60f42442f25877121d6d2d505f6efe3f037
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1775410-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) なにわぶし
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1775410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1775410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ろうきょく

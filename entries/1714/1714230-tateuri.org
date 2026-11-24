@@ -1,0 +1,177 @@
+#+TITLE: 建て売り
+#+JMDICT_ID: 1714230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たてうり
+#+ROMAJI: tateuri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1714230-001
+:PROPERTIES:
+:TEXT: 建て売り
+:END:
+*** Priorities
+- news2
+- nf46
+** Written form wf-1714230-002
+:PROPERTIES:
+:TEXT: 建売り
+:END:
+** Written form wf-1714230-003
+:PROPERTIES:
+:TEXT: 建売
+:END:
+*** Information
+- io
+** Reading rd-1714230-001
+:PROPERTIES:
+:TEXT: たてうり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1714230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 19d97138cb655f7f12f2ecf6a75f8408f089073eb74391a867bb42956f883108
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- constructing and selling a ready-built house
+** Ukrainian glosses
+*** uk-s-1714230-001-001
+:PROPERTIES:
+:END:
+- text :: продаж готового новозбудованого будинку; готовий будинок на продаж
+** Learner notes
+*** note-s-1714230-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する (також уживається у формах 建売り, 建売), утворене від 建てる («будувати») та 売る («продавати»). Стосується зведення типових будинків забудовником для продажу разом із ділянкою, часто в сполуці 建売住宅 (пор. 注文住宅 — «будинок за індивідуальним замовленням»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1714230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 姉は郊外の建て売りの家を買いました。
+- READING :: あねはこうがいのたてうりのいえをかいました。
+- UK :: Старша сестра купила готовий новозбудований будинок у передмісті.
+- FOCUS :: 建て売り
+*** ex-1714230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この土地に建て売りとして売り出された新築物件は、すぐに買い手がついた。
+- READING :: このとちにたてうりとしてうりだされたしんちくぶっけんは、すぐにかいてがついた。
+- UK :: На новозбудований будинок, виставлений на продаж разом із цією ділянкою, швидко знайшовся покупець.
+- FOCUS :: 建て売り
+*** ex-1714230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 間取りや設備を自由に選べる注文住宅と比べ、建売住宅は完成品を見てから購入を決められる利点がある。
+- READING :: まどりやせつびをじゆうにえらべるちゅうもんじゅうたくとくらべ、たてうりじゅうたくはかんせいひんをみてからこうにゅうをきめられるりてんがある。
+- UK :: Порівняно з будинками за індивідуальним проєктом, де можна вільно обирати планування й обладнання, готові будинки на продаж мають перевагу в тому, що рішення про купівлю ухвалюють уже після огляду завершеного житла.
+- FOCUS :: 建売
+
+* Sense s-1714230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5939f001c79d53262d97ab88575469c91b72a4733c6b2469640eaefeac81f7c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ein Haus bauen, um es zu verkaufen
+*** en-s-1714230-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verkauf eines für den Verkauf gebauten Hauses
+** Ukrainian glosses
+
+* Sense s-1714230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ddabecd49af0c3efecab6e84573fe64473008a1c9d4908c256fdda29bda91f49
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714230-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: für den Verkauf gebautes Haus
+** Ukrainian glosses
+
+* Sense s-1714230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5e1d76a0bf7bdf90217882ea58bc3b4afbbf99ff2ab7e50539c32c02cd7268fc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1714230-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} продавать только что отстроившись
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1714230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1714230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たてうり

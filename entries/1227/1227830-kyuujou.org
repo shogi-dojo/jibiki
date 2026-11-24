@@ -1,0 +1,430 @@
+#+TITLE: 休場
+#+JMDICT_ID: 1227830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうじょう
+#+ROMAJI: kyuujou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1227830-001
+:PROPERTIES:
+:TEXT: 休場
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1227830-001
+:PROPERTIES:
+:TEXT: きゅうじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1227830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4bc8e729b054848b8b223544139278d3f330e1e1c27e8f17f796115a109d2f91
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- (temporary) closure (of a theater, entertainment venue, etc.)
+** Ukrainian glosses
+*** uk-s-1227830-001-001
+:PROPERTIES:
+:END:
+- text :: тимчасове закриття (театру, розважального закладу, арени); перерва в роботі
+** Learner notes
+*** note-s-1227830-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне する-дієслово, утворені від 休 (відпочинок, перерва) і 場 (місце, арена). Означає тимчасове припинення роботи театру, концертної зали чи спортивного майданчика через ремонт або санітарні дні.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1227830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その劇場は来月休場します。
+- READING :: そのげきじょうはらいげつきゅうじょうします。
+- UK :: Той театр наступного місяця тимчасово закриється.
+- FOCUS :: 休場します
+*** ex-1227830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 設備の点検のため、このホールは三日間休場となる。
+- READING :: せつびのてんけんのため、このほーるはみっかかんきゅうじょうとなる。
+- UK :: Через технічний огляд обладнання ця зала буде зачинена на три дні.
+- FOCUS :: 休場
+*** ex-1227830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 老朽化した建物の大規模な改修工事に伴い、伝統ある劇場が一年間の休場に入った。
+- READING :: ろうきゅうかしたたてもののだいきぼなかいしゅうこうじにともない、でんとうあるげきじょうがいちねんかんのきゅうじょうにはいった。
+- UK :: У зв'язку з капітальною реконструкцією застарілої будівлі театр із давніми традиціями закрився на річну перерву.
+- FOCUS :: 休場
+
+* Sense s-1227830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 18dde52f7a8f7c98ba5725f221c432fac5be59fb62eedd565a1e5d93d0b8b341
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- absence (from a performance, match, etc.)
+- sitting out
+** Ukrainian glosses
+*** uk-s-1227830-002-001
+:PROPERTIES:
+:END:
+- text :: неучасть у виступі чи матчі; пропуск виходу на сцену (на арену)
+** Learner notes
+*** note-s-1227830-002-001
+:PROPERTIES:
+:END:
+- UK :: У театрі й спорті позначає пропуск вистави, концерту або поєдинку виконавцем чи спортсменом (наприклад, через травму); може виступати як перехідним, так і неперехідним する-дієсловом (наприклад, 舞台を休場する).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1227830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e78ba649f07d960df309cde1481009659eac14fb58bb8f7764bbd62d91b34da5
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+*** Fields
+- sumo
+** English glosses
+- absence (from a bout or tournament)
+** Ukrainian glosses
+*** uk-s-1227830-003-001
+:PROPERTIES:
+:END:
+- text :: зняття з турніру; пропуск поєдинку (у сумо)
+** Learner notes
+*** note-s-1227830-003-001
+:PROPERTIES:
+:END:
+- UK :: Поширений термін у професійному сумо (大相撲): коли борець (рікіші) через травму не виходить на дохьо або знімається з турніру, у таблиці результатів це позначають як 休場.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1227830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 22c2e77563496f01281fcf2044435cd44ca0069be18c7dba34ec111022efb079
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+*** Fields
+- stockm
+** English glosses
+- holiday
+- closure (of a stock exchange)
+** Ukrainian glosses
+*** uk-s-1227830-004-001
+:PROPERTIES:
+:END:
+- text :: вихідний день; закриття торгів (на фондовій або товарній біржі)
+** Learner notes
+*** note-s-1227830-004-001
+:PROPERTIES:
+:END:
+- UK :: Біржовий термін: день або період, коли не проводяться торги на фондовій чи товарній біржі через свята, вихідні або надзвичайні події (наприклад, 年末年始の休場).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1227830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ca14a11543506a8d546b7a08b26863bfba68fd3c94b9d53784fed6b9671c09c8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {劇場の} sluiting
+** Ukrainian glosses
+
+* Sense s-1227830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 44c3edfb20b83e2c0b5fc4382c5c9af10a36a663a74342f3b1175c48c8a039d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {選手の} afwezigheid
+*** en-s-1227830-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absentie
+** Ukrainian glosses
+
+* Sense s-1227830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 6064f4b7ead944f06dd531c7927bd86812e52c347323f3fc0e9cefff76556c09
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {場所が} gesloten zijn
+*** en-s-1227830-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sluiten
+** Ukrainian glosses
+
+* Sense s-1227830-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: d804516ee8f77a3e9b61c2f0667b8c556688ebbb6fa7367f92038096b28e2b24
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-008-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {選手が} afwezig
+*** en-s-1227830-008-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: absent zijn
+*** en-s-1227830-008-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verstek laten gaan
+** Ukrainian glosses
+
+* Sense s-1227830-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 70de5a36bdf754c692d6f6c68c9340650110a717ae909cb31d3cb41cd8c07051
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pausieren
+*** en-s-1227830-009-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nicht-Auftreten
+*** en-s-1227830-009-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Nicht-Antreten (Sportler, insbes. Rikishi, und Theaterschauspieler)
+** Ukrainian glosses
+
+* Sense s-1227830-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 37f6ad65b114ee0b42233fc23f62a7629dad4bef058893551a4c18495abdb717
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschlossensein (eines Theaters, einer Börse usw.)
+** Ukrainian glosses
+
+* Sense s-1227830-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: e762d2c9ed6f6f2cfc8572ae753acb3d1172acc2f750b16d990383f0077e7b67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pausieren
+*** en-s-1227830-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nicht auftreten
+*** en-s-1227830-011-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nicht antreten
+** Ukrainian glosses
+
+* Sense s-1227830-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: 18eeb980baa8a9a68bfa2983cbf689701a0d46ed4fafaf2ae59cd41b97f7e8df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-012-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geschlossen sein
+** Ukrainian glosses
+
+* Sense s-1227830-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: f7165d1d28f29269ee4b5a4582ee288c21afed710edc3af753a7ea9b2c813095
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1227830-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : ～する
+*** en-s-1227830-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) [временно] не выступать на сцене (на арене)
+*** en-s-1227830-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) [временно] закрывать театр
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1227830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1227830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きゅうじょう

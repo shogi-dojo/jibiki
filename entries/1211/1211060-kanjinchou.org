@@ -1,0 +1,156 @@
+#+TITLE: 勧進帳
+#+JMDICT_ID: 1211060
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんじんちょう
+#+ROMAJI: kanjinchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1211060-001
+:PROPERTIES:
+:TEXT: 勧進帳
+:END:
+*** Priorities
+- news2
+- nf34
+** Reading rd-1211060-001
+:PROPERTIES:
+:TEXT: かんじんちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf34
+
+* Sense s-1211060-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2c5c32963c7192a998b4a9a864a9d270963c8184c766b512472fc42a06010931
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- temple solicitation book
+** Ukrainian glosses
+*** uk-s-1211060-001-001
+:PROPERTIES:
+:END:
+- text :: книга пожертв; список жертводавців (на храм)
+** Learner notes
+*** note-s-1211060-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін (від 勧進 «збір пожертв на будівництво чи ремонт храму» та 帳 «реєстр, зошит»), що позначає сувій або зошит, куди записували мету збору, імена жертводавців та суми внесків. Також широко відома однойменна п’єса театру кабукі (歌舞伎), у якій Бенкей зачитує порожній сувій, видаючи його за таку книгу пожертв.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1211060-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺で古い勧進帳を見ました。
+- READING :: おてらでふるいかんじんちょうをみました。
+- UK :: У храмі я побачив давню книгу пожертв.
+- FOCUS :: 勧進帳
+*** ex-1211060-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 僧侶が全国を回り、本堂を再建するための勧進帳に人々の名前を書き記した。
+- READING :: そうりょがぜんこくをまわり、ほんどうをさいけんするためのかんじんちょうにひとびとのなまえをかきしるした。
+- UK :: Чернець обійшов усю країну, вписуючи імена жертводавців до реєстру для відбудови головного храму.
+- FOCUS :: 勧進帳
+*** ex-1211060-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歌舞伎の「勧進帳」では、関所を通過するために弁慶が白紙の巻物を堂々と読み上げる場面が最大の見どころとなっている。
+- READING :: かぶきの「かんじんちょう」では、せきしょをつうかするためにべんけいがはくしのまきものをどうどうとよみあげるばめんがさいだいのみどころとなっている。
+- UK :: У п’єсі кабукі «Канджінчьо» кульмінаційною сценою є епізод, де Бенкей, щоб пройти крізь заставу, упевнено вдає, ніби читає вголос чистий сувій.
+- FOCUS :: 勧進帳
+
+* Sense s-1211060-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2c40102a3225611112b0f49d1fe68dedae184f31b1b123ed6990b22eeef9561d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211060-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stiftungsliste
+** Ukrainian glosses
+
+* Sense s-1211060-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d84a116287e5a1c2a4d96016b4847900bd4c20aee7a20b7cea2690dc9eb930ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1211060-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лист (книга) пожертвований
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1211060-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1211060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんじんちょう
+** Accent accent-rd-1211060-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1211060-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんじんちょう

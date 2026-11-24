@@ -1,0 +1,167 @@
+#+TITLE: 軍用機
+#+JMDICT_ID: 1249080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんようき
+#+ROMAJI: gunyouki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1249080-001
+:PROPERTIES:
+:TEXT: 軍用機
+:END:
+** Reading rd-1249080-001
+:PROPERTIES:
+:TEXT: ぐんようき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1249080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2e828a15b6ba19c523e307211d576c18196ba2064e7459212cfdc611aff27dfe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- military aircraft
+** Ukrainian glosses
+*** uk-s-1249080-001-001
+:PROPERTIES:
+:END:
+- text :: військовий літак; військовий літальний апарат
+** Learner notes
+*** note-s-1249080-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник: 軍用 (військового призначення) + 機 (літальний апарат). Загальний термін для винищувачів, бомбардувальників, розвідувальних та військово-транспортних літаків на противагу цивільній авіації (民間機).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1249080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 空を軍用機が飛んでいる。
+- READING :: そらをぐんようきがとんでいる。
+- UK :: У небі летить військовий літак.
+- FOCUS :: 軍用機
+*** ex-1249080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 航空ショーでは、最新の軍用機による編隊飛行が披露された。
+- READING :: こうくうしょーでは、さいしんのぐんようきによるへんたいひこうがひろうされた。
+- UK :: На авіашоу продемонстрували груповий політ новітніх військових літаків.
+- FOCUS :: 軍用機
+*** ex-1249080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 領空付近を飛行する国籍不明の軍用機が確認されたため、自衛隊機が緊急発進した。
+- READING :: りょうくうふきんをひこうするこくせきふめいのぐんようきがかくにんされたため、じえいたいきがきんきゅうはっしんした。
+- UK :: Оскільки поблизу повітряного простору зафіксували військовий літак невстановленої належності, літаки Сил самооборони здійснили екстрений виліт.
+- FOCUS :: 軍用機
+
+* Sense s-1249080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 13b5d343c721a945130c349d5dd5deddb63bffa860c52c01d29efb1d085eaa94
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1249080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {mil.} gevechtsvliegtuig
+*** en-s-1249080-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: militair vliegtuig
+*** en-s-1249080-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: militair toestel
+** Ukrainian glosses
+
+* Sense s-1249080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1642eb562cbe8c3c714981c8a6af32b3e4002bf374c320f41b6b8ce4069e4b83
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1249080-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Militärflugzeug
+** Ukrainian glosses
+
+* Sense s-1249080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8c2d3397a1545fb66052b7398c14d6bfcc592e65e6aa253fb8f30abb89b789f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1249080-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: военный самолёт
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1249080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1249080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ぐんようき

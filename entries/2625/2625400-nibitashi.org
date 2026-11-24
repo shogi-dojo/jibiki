@@ -1,0 +1,156 @@
+#+TITLE: 煮浸し
+#+JMDICT_ID: 2625400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にびたし
+#+ROMAJI: nibitashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2625400-001
+:PROPERTIES:
+:TEXT: 煮浸し
+:END:
+** Written form wf-2625400-002
+:PROPERTIES:
+:TEXT: 煮びたし
+:END:
+** Reading rd-2625400-001
+:PROPERTIES:
+:TEXT: にびたし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2625400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c419f96ba3076e6a0aa54d309f153af5f5859913116f950b04acf42298e261cb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- type of stew, usu. fish or vegetables in a mild broth
+- fish grilled unseasoned and then simmered slowly in soy and mirin broth
+** Ukrainian glosses
+*** uk-s-2625400-001-001
+:PROPERTIES:
+:END:
+- text :: нібіташі (овочі або риба, злегка притушковані й настояні в легкому бульйоні даші)
+** Learner notes
+*** note-s-2625400-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний іменник від 煮る (варити) і 浸す (занурювати, просочувати). Позначає японську домашню страву, коли баклажани, зелень чи попередньо обсмажену рибу недовго варять у легкому бульйоні з соєвим соусом і міріном, а потім залишають настоятися, щоб інгредієнти увібрали аромат.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2625400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: なすの煮浸しが大好きです。
+- READING :: なすのにびたしがだいすきです。
+- UK :: Я дуже люблю тушковані в бульйоні баклажани нібіташі.
+- FOCUS :: 煮浸し
+*** ex-2625400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冷蔵庫でよく冷やした小松菜の煮浸しは、夏にぴったりの副菜だ。
+- READING :: れいぞうこでよくひやしたこまつなのにびたしは、なつにぴったりのふくさいだ。
+- UK :: Добре охолоджена в холодильнику зелень комацуна в бульйоні нібіташі — чудова закуска на літо.
+- FOCUS :: 煮浸し
+*** ex-2625400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 焼いた小魚を出汁と醤油のつゆでさっと煮てから冷ますと、味が染みた美味しい煮浸しになる。
+- READING :: やいたこざかなをだしとしょうゆのつゆでさっとにてからさますと、あじがしみたおいしいにびたしになる。
+- UK :: Якщо обсмажену дрібну рибу швидко проварити в бульйоні з соєвим соусом і дати їй охолонути, вийде смачна й добре просочена страва нібіташі.
+- FOCUS :: 煮浸し
+
+* Sense s-2625400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 50bd17dfc459eb9305cbc90eb44ee2aa7965d7a6c3417e98533f88cb8149ef97
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2625400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schmoren
+** Ukrainian glosses
+
+* Sense s-2625400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 85f59f183b12c16792ec43aa85111c244959f795d9c3c65120a307b57721096d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2625400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geschmortes
+** Ukrainian glosses
+
+* Sense s-2625400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6febc35d93e54fe5f360eed2d9bf8e358204aaf3ebf57880f455f200e46faee5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2625400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: нибитаси (речная рыба, тушённая в соевом соусе)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2625400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2625400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にびたし

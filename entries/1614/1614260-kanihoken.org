@@ -1,0 +1,139 @@
+#+TITLE: 簡易保険
+#+JMDICT_ID: 1614260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんいほけん
+#+ROMAJI: kanihoken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1614260-001
+:PROPERTIES:
+:TEXT: 簡易保険
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1614260-001
+:PROPERTIES:
+:TEXT: かんいほけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1614260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1d3e889cc2f111e8ddc3fa9729547bbe145358b13d70b4294d1aa982c32b1d67
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- postal life insurance
+** Ukrainian glosses
+*** uk-s-1614260-001-001
+:PROPERTIES:
+:END:
+- text :: поштове страхування життя, спрощене страхування
+** Learner notes
+*** note-s-1614260-001-001
+:PROPERTIES:
+:END:
+- UK :: Історично — державна система страхування життя в Японії, що оформлювалася через поштові відділення без попереднього медогляду та з невеликими внесками (скорочено かんぽ). Після приватизації пошти її спадкоємцем стала компанія かんぽ生命.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1614260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は昔から簡易保険に入っています。
+- READING :: そふはむかしからかんいほけんにはいっています。
+- UK :: Дідусь давно оформив поштове страхування життя.
+- FOCUS :: 簡易保険
+*** ex-1614260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 手続きがわかりやすいので、近くの郵便局で簡易保険について相談した。
+- READING :: てつづきがわかりやすいので、ちかくのゆうびんきょくでかんいほけんについてそうだんした。
+- UK :: Оскільки процедура оформлення зрозуміла, я проконсультувався щодо поштового страхування в найближчому відділенні.
+- FOCUS :: 簡易保険
+*** ex-1614260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて多くの家庭が利用していた簡易保険は、郵政民営化を経て現在の保険制度へと引き継がれた。
+- READING :: かつておおくのかていがりようしていたかんいほけんは、ゆうせいみんえいかをへてげんざいのほけんせいどへとひきつがれた。
+- UK :: Спрощене поштове страхування, яким колись користувалося багато родин, після приватизації пошти перейшло в сучасну страхову систему.
+- FOCUS :: 簡易保険
+
+* Sense s-1614260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d4211f8394027777a792caae4aa39adab22540a6d7bed3f95a6df1bc95a4a44a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614260-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einfache Lebensversicherung (staatlich garantierte Lebensversicherung nach dem Gesetz über einfache Lebensversicherungen von 1949; bis 2007 unter Verwaltung der Lebensversicherungsbehörde am Postministerium; konnte an den Postämtern ohne vorherige Gesundheitsuntersuchung abgeschlossen werden; nach der Postprivatisierung wurden die bestehenden Versicherungsverträge in einer Selbstverwaltungskörperschaft weitergeführt)
+** Ukrainian glosses
+
+* Sense s-1614260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 95594feb82e43cd4795abe3ee453336213e88e4a24cfde829707fd3c31285dd4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1614260-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: простое страхование (страхование жизни путём взносов по почте, без предварительного медицинского освидетельствования)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1614260-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1614260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんいほけん

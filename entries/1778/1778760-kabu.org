@@ -1,0 +1,141 @@
+#+TITLE: 歌舞
+#+JMDICT_ID: 1778760
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かぶ
+#+ROMAJI: kabu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1778760-001
+:PROPERTIES:
+:TEXT: 歌舞
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1778760-001
+:PROPERTIES:
+:TEXT: かぶ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1778760-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: caffd3cb034f1f82e5d3e0e66f4f5d7b352d23be7301ec3200415c929b38c1e3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- singing and dancing
+** Ukrainian glosses
+*** uk-s-1778760-001-001
+:PROPERTIES:
+:END:
+- text :: пісні й танці; спів і танок
+** Learner notes
+*** note-s-1778760-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник і неперехідне дієслово з する, складене з 歌 («пісня») та 舞 («танець»). Часто трапляється в історичних чи культурологічних текстах (наприклад, у сполуці 歌舞音曲 — «співи, танці й музика») та є основою слова 歌舞伎.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1778760-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祭りで華やかな歌舞が披露された。
+- READING :: まつりではなやかなかぶがひろうされた。
+- UK :: На святі виконали яскраві пісні й танці.
+- FOCUS :: 歌舞
+*** ex-1778760-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 宮廷の宴では夜遅くまで歌舞が続いたという。
+- READING :: きゅうていのうたげではよるおそくまでかぶがつづいたという。
+- UK :: Кажуть, на придворному бенкеті співи й танці тривали до пізньої ночі.
+- FOCUS :: 歌舞
+*** ex-1778760-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 伝統的な歌舞を現代風にアレンジした舞台が若い世代にも人気を集めている。
+- READING :: でんとうてきなかぶをげんだいふうにあれんじしたぶたいがわかいせだいにもにんきをあつめている。
+- UK :: Вистави, де традиційні співи й танці переосмислено на сучасний лад, здобувають популярність і серед молоді.
+- FOCUS :: 歌舞
+
+* Sense s-1778760-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5f37d65f0b71f1e512de0f40dab13436cf8ab7a97407aa209653ee2128de343b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1778760-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gesang und Tanz
+** Ukrainian glosses
+
+* Sense s-1778760-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bdd750358206f3f11abd07d3455030691c11c1b2c024a3157405c08f3188e644
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1778760-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: песни и танцы; увеселительные мероприятия
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1778760-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1778760-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かぶ

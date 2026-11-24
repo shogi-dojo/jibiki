@@ -1,0 +1,183 @@
+#+TITLE: 南洋
+#+JMDICT_ID: 1460690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なんよう
+#+ROMAJI: nanyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1460690-001
+:PROPERTIES:
+:TEXT: 南洋
+:END:
+*** Priorities
+- news2
+- nf33
+** Reading rd-1460690-001
+:PROPERTIES:
+:TEXT: なんよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1460690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 306c3944bea9fc8a38700b5f943c2870f7d7b39336ff14220f5207e3aa03bbfc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- South Seas
+** Ukrainian glosses
+*** uk-s-1460690-001-001
+:PROPERTIES:
+:END:
+- text :: Південні моря; південна частина Тихого океану
+** Learner notes
+*** note-s-1460690-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічний та історичний іменник, утворений із 南 («південь») та 洋 («океан»). Позначає тропічні моря й острови Океанії та Південно-Східної Азії, особливо в контексті подорожей або історії першої половини двадцятого століття.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1460690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 南洋の島は一年中あたたかいです。
+- READING :: なんようのしまはいちねんじゅうあたたかいです。
+- UK :: На островах Південних морів тепло цілий рік.
+- FOCUS :: 南洋
+*** ex-1460690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 祖父は若いころ南洋を旅したことがあります。
+- READING :: そふはわかいころなんようをたびしたことがあります。
+- UK :: У молодості мій дідусь подорожував Південними морями.
+- FOCUS :: 南洋
+*** ex-1460690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦前の文学作品には、未知の楽園として南洋の島々を描いたものが少なくない。
+- READING :: せんぜんのぶんがくさくひんには、みちのらくえんとしてなんようのしまじまをえがいたものがすくなくない。
+- UK :: У довоєнних літературних творах нерідко зображували острови Південних морів як незвіданий рай.
+- FOCUS :: 南洋
+
+* Sense s-1460690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6910a4eb2ea0ddaa37170b7e8bda0df55bbf272a977a74c97ee2d6904f316596
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1460690-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuidzee
+*** en-s-1460690-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} zuidereilanden
+** Ukrainian glosses
+
+* Sense s-1460690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a0a7d084f0fc5b70f797101e6daa74961a585d4cb51ea652b63df94f16ee524a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1460690-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zuidoost-Azië
+** Ukrainian glosses
+
+* Sense s-1460690-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a4292c588459f69556ee352fd521bd214333b6dd4925d3542ab9e5689cac00d2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1460690-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Südsee
+** Ukrainian glosses
+
+* Sense s-1460690-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7bee698179e1dc2146a28a4cb761520b82e62f041ce240e4241f32cd3d99debf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1460690-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: южная часть Тихого океана
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1460690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1460690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: なんよう

@@ -1,0 +1,211 @@
+#+TITLE: 只者
+#+JMDICT_ID: 1597000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ただもの
+#+ROMAJI: tadamono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1597000-001
+:PROPERTIES:
+:TEXT: 只者
+:END:
+** Written form wf-1597000-002
+:PROPERTIES:
+:TEXT: ただ者
+:END:
+** Written form wf-1597000-003
+:PROPERTIES:
+:TEXT: 徒者
+:END:
+*** Information
+- rK
+** Written form wf-1597000-004
+:PROPERTIES:
+:TEXT: タダ者
+:END:
+*** Information
+- sK
+** Reading rd-1597000-001
+:PROPERTIES:
+:TEXT: ただもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1597000-002
+:PROPERTIES:
+:TEXT: タダモノ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+** Reading rd-1597000-003
+:PROPERTIES:
+:TEXT: タダもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- sk
+
+* Sense s-1597000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa1adee296ff4629f7ed6d06d88bbc2934c2b03a0cc4870282e7abed6d1514eb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Sense information
+- usu. as 〜ではない, 〜じゃない, etc.
+** English glosses
+- ordinary person
+** Ukrainian glosses
+*** uk-s-1597000-001-001
+:PROPERTIES:
+:END:
+- text :: звичайна людина, пересічна особа
+** Learner notes
+*** note-s-1597000-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; найчастіше вживається в заперечних конструкціях на кшталт 只者ではない («непроста, непересічна людина»), підкреслюючи неабиякий талант, майстерність або загадковість.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1597000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: あの先生は只者ではないと思う。
+- READING :: あのせんせいはただものではないとおもう。
+- UK :: Мені здається, той учитель — зовсім не проста людина.
+- FOCUS :: 只者
+*** ex-1597000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼の落ち着いた身のこなしを見ると、只者ではないことがすぐ分かる。
+- READING :: かれのおちついたみのこなしをみると、ただものではないことがすぐわかる。
+- UK :: Дивлячись на його стриману та впевнену поставу, одразу розумієш, що він людина непересічна.
+- FOCUS :: 只者
+*** ex-1597000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: どんなに平凡な只者に見えても、長年一つの道を究めた人には独特の迫力がある。
+- READING :: どんなにへいぼんなただものにみえても、ながねんひとつのみちをきわめたひとにはどくとくのはくりょくがある。
+- UK :: Якою б звичайною не здавалася людина, у того, хто багато років удосконалювався в одній справі, відчувається особлива сила духу.
+- FOCUS :: 只者
+
+* Sense s-1597000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e30dbb695b42bbb8c4454e244a533c7922c5f6682894c429ce1ad45b28cf22cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597000-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durchschnittliche Person
+*** en-s-1597000-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gewöhnlicher Mensch
+** Ukrainian glosses
+
+* Sense s-1597000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2824baa5e8e41bd2c9dda05a876fbd4c2ac359f71ee35c588b0362bb39ff6366
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1597000-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обыкновенный человек
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1597000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1597000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ただもの
+** Accent accent-rd-1597000-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1597000-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: タダモノ
+** Accent accent-rd-1597000-003-001
+:PROPERTIES:
+:TARGET_ID: rd-1597000-003
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: タダもの

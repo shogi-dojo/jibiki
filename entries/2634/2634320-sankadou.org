@@ -1,0 +1,169 @@
+#+TITLE: 酸化銅
+#+JMDICT_ID: 2634320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さんかどう
+#+ROMAJI: sankadou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2634320-001
+:PROPERTIES:
+:TEXT: 酸化銅
+:END:
+** Reading rd-2634320-001
+:PROPERTIES:
+:TEXT: さんかどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2634320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5f8046c23f2ba3bb14ccc974dc2561f5053bb233839722630a38e23ab958f470
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- copper oxide (i.e. cuprous oxide, cupric oxide)
+** Ukrainian glosses
+*** uk-s-2634320-001-001
+:PROPERTIES:
+:END:
+- text :: оксид міді
+** Learner notes
+*** note-s-2634320-001-001
+:PROPERTIES:
+:END:
+- UK :: Хімічний термін (іменник), утворений від 酸化 («окиснення») та 銅 («мідь»). Залежно від ступеня окиснення розрізняють оксид міді(I) (酸化銅(I), червоного кольору) та оксид міді(II) (酸化銅(II), чорного кольору).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2634320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銅を熱すると黒い酸化銅になります。
+- READING :: どうをねっするとくろいさんかどうになります。
+- UK :: Якщо нагріти мідь, вона перетворюється на чорний оксид міді.
+- FOCUS :: 酸化銅
+*** ex-2634320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 理科の実験で、酸化銅から銅を取り出す方法を学んだ。
+- READING :: りかのじっけんで、さんかどうからどうをとりだすほうほうをまなんだ。
+- UK :: На уроці природознавства під час досліду ми вивчали спосіб отримання міді з оксиду міді.
+- FOCUS :: 酸化銅
+*** ex-2634320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 酸化銅と炭素の粉末を混ぜて加熱すると、還元反応が起きて二酸化炭素が発生する。
+- READING :: さんかどうとたんそのふんまつをまぜてかねつすると、かんげんはんのうがおきてにさんかたんそがはっせいする。
+- UK :: Якщо змішати оксид міді з порошком вуглецю та нагріти, відбудеться реакція відновлення й виділиться вуглекислий газ.
+- FOCUS :: 酸化銅
+
+* Sense s-2634320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df645dd16b65689275aff7653300e466b6cbde7c4c8ea297150028af0754b352
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2634320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kupferoxid
+** Ukrainian glosses
+
+* Sense s-2634320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5390078084f787aa47d7f4f02680f10a86ffd1aaaedf8680d342e9c22dba2f4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2634320-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kupfer(I)-oxid (Cu₂O)
+** Ukrainian glosses
+
+* Sense s-2634320-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8129dbd0319bbf2eaf78c3483123d5a360a7df6d72dce1420bb5180da234b6be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2634320-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kupfer(II)-oxid (CuO)
+** Ukrainian glosses
+
+* Sense s-2634320-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a2125024eaabfba7c49ea411540dd421e02ac82b536ce45d7059e54bb317d4a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2634320-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: оксидированная медь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2634320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2634320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さんかどう

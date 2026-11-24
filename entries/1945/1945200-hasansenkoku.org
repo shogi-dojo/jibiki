@@ -1,0 +1,151 @@
+#+TITLE: 破産宣告
+#+JMDICT_ID: 1945200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はさんせんこく
+#+ROMAJI: hasansenkoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1945200-001
+:PROPERTIES:
+:TEXT: 破産宣告
+:END:
+** Reading rd-1945200-001
+:PROPERTIES:
+:TEXT: はさんせんこく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1945200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2460090184d001a6863796f6ade0b1fceae60e39af2fd4612f92fef1fd95801b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- adjudication of bankruptcy
+** Ukrainian glosses
+*** uk-s-1945200-001-001
+:PROPERTIES:
+:END:
+- text :: оголошення банкрутом; судове визнання банкрутства
+** Learner notes
+*** note-s-1945200-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний і фінансовий термін, утворений поєднанням 破産 («банкрутство») та 宣告 («оголошення, постанова»). Означає офіційне судове рішення про визнання боржника банкрутом, хоча в сучасному японському законодавстві частіше вживається уточнений термін 破産手続開始決定.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1945200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その会社は破産宣告を受けました。
+- READING :: そのかいしゃははさんせんこくをうけました。
+- UK :: Ту компанію оголосили банкрутом.
+- FOCUS :: 破産宣告
+*** ex-1945200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 多額の負債を抱えた結果、ついに裁判所から破産宣告が下された。
+- READING :: たがくのふさいをかかえたけっか、ついにさいばんしょからはさんせんこくがくだされた。
+- UK :: Унаслідок величезних боргів суд зрештою виніс постанову про банкрутство.
+- FOCUS :: 破産宣告
+*** ex-1945200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 経営再建の道が閉ざされたため、代表者は破産宣告を申し立てる決断をした。
+- READING :: けいえいさいけんのみちがとざされたため、だいひょうしゃははさんせんこくをもうしたてるけつだんをした。
+- UK :: Оскільки шляхи відновлення платоспроможності було вичерпано, керівник вирішив подати заяву про визнання банкрутства.
+- FOCUS :: 破産宣告
+
+* Sense s-1945200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 83c97214051106e54174d0bd0219d86ec88f0ab81c936cb00a146904d5225678
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1945200-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Konkurserklärung
+** Ukrainian glosses
+
+* Sense s-1945200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1d72f29a43802064a9fe19e9688f021d4c3366279a5ff26feee349df7c2211da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1945200-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: csődőt jelent
+** Ukrainian glosses
+
+* Sense s-1945200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 40a4426ea12b7b74ac9278ad107e6928bbdd54a8acee7b0dbb235cdab6c69927
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1945200-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: объявление банкротом
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1945200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1945200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はさんせんこく

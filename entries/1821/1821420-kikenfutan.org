@@ -1,0 +1,167 @@
+#+TITLE: 危険負担
+#+JMDICT_ID: 1821420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きけんふたん
+#+ROMAJI: kikenfutan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1821420-001
+:PROPERTIES:
+:TEXT: 危険負担
+:END:
+** Reading rd-1821420-001
+:PROPERTIES:
+:TEXT: きけんふたん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1821420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0deddc48a31278f930dc80895ddd37c1bd2eb362f89f48637443135e331a58e1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- risk-bearing
+** Ukrainian glosses
+*** uk-s-1821420-001-001
+:PROPERTIES:
+:END:
+- text :: несення ризику; розподіл ризиків (у договорі)
+** Learner notes
+*** note-s-1821420-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний та економічний термін, що позначає правило розподілу відповідальності за випадкове знищення або пошкодження предмета договору до моменту його передання (чи приймання) без вини сторін. У японському цивільному праві часто вживається у словосполученнях 危険負担の移転 («перехід ризику») або 危険負担の原則.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1821420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 契約では、危険負担について決めておく。
+- READING :: けいやくでは、きけんふたんについてきめておく。
+- UK :: У договорі заздалегідь визначають порядок несення ризику.
+- FOCUS :: 危険負担
+*** ex-1821420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 商品が到着するまでの危険負担は、売り手側が負うことになっている。
+- READING :: しょうひんがとうちゃくするまでのきけんふたんは、うりてがわがおうことになっている。
+- UK :: Ризик до моменту прибуття товару покладено на сторону продавця.
+- FOCUS :: 危険負担
+*** ex-1821420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地震などで引き渡し前に建物が壊れた場合、危険負担をどちらが負うかが争点になる。
+- READING :: じしんなどでひきわたしまえにたてものがこわれたばあい、きけんふたんをどちらがおうかがそうてんになる。
+- UK :: Якщо будівля постраждала через землетрус чи інше лихо до передання покупцеві, предметом спору стає те, хто несе ризик.
+- FOCUS :: 危険負担
+
+* Sense s-1821420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4b830dc1dfc528845e08126b7100cd9c457a48663f65bd2f2b2f7ef72bf4bb6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gefahrtragung
+*** en-s-1821420-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tragen des Risikos
+** Ukrainian glosses
+
+* Sense s-1821420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 229b746d36e386403044ebea877aacee5cf976f635d842888b583416e7c1ec01
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821420-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kockázatviselés
+** Ukrainian glosses
+
+* Sense s-1821420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c03021ab364939e7b09dbde97350ec70825863164946cfbebda84f260eeaac74
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821420-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (юр.) размер риска покупателя и продавца в случаях форс-мажор
+*** en-s-1821420-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} брать на себя (нести) риск
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1821420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1821420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きけんふたん

@@ -1,0 +1,181 @@
+#+TITLE: ホメオパシー
+#+JMDICT_ID: 1988120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ホメオパシー
+#+ROMAJI: homeopashii
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1988120-001
+:PROPERTIES:
+:TEXT: ホメオパシー
+:NO_KANJI: false
+:END:
+** Reading rd-1988120-002
+:PROPERTIES:
+:TEXT: ホメオパチー
+:NO_KANJI: false
+:END:
+** Reading rd-1988120-003
+:PROPERTIES:
+:TEXT: ホメオパティー
+:NO_KANJI: false
+:END:
+
+* Sense s-1988120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: add5245919e4c0cbe0f878ed71a50853ec725598deaf8a21a2db3189bbb89103
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- homeopathy
+** Ukrainian glosses
+*** uk-s-1988120-001-001
+:PROPERTIES:
+:END:
+- text :: гомеопатія
+** Learner notes
+*** note-s-1988120-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник іншомовного походження (від англ. homeopathy). На письмі найчастіше трапляється форма ホメオパシー, рідше — варіанти ホメオパチー чи ホメオパティー. Вживається в контексті альтернативної медицини та фармакології.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1988120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 母はホメオパシーに関心があります。
+- READING :: はははほめおぱしーにかんしんがあります。
+- UK :: Мама цікавиться гомеопатією.
+- FOCUS :: ホメオパシー
+*** ex-1988120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: その書店には、ホメオパシーについて書かれた本が何冊か並んでいます。
+- READING :: そのしょてんには、ほめおぱしーについてかかれたほんがなんさつかならんでいます。
+- UK :: У тій книгарні стоїть кілька книжок про гомеопатію.
+- FOCUS :: ホメオパシー
+*** ex-1988120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ホメオパシーの有効性をめぐっては、医学界でもさまざまな議論が続けられています。
+- READING :: ほめおぱしーのゆうこうせいをめぐっては、いがくかいでもさまざまなぎろんがつづけられています。
+- UK :: Щодо ефективності гомеопатії в медичних колах досі тривають різноманітні дискусії.
+- FOCUS :: ホメオパシー
+
+* Sense s-1988120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 147ad3b8223f80d0cfd7e6d2c936bb2d3836a3f6977072d60fd3ba15c1c69388
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1988120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Homöopathie
+*** en-s-1988120-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Homöopathie (eine med. Heilmethode)
+** Ukrainian glosses
+
+* Sense s-1988120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f090dc80badd72a25ff96a266165104d024e4b8877af6faae8bafc08a0d1628b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1988120-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hasonszenvi gyógymód
+** Ukrainian glosses
+
+* Sense s-1988120-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9aa709af6636b8f0b740df6a6db652fb75e5e8a931bba0ff52760790134edd20
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1988120-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) homeopathy) гомеопатия
+** Ukrainian glosses
+
+* Sense s-1988120-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 631fbe4d2d8d2a6d47776b62f19154b30241b887a54f037e7b8c854003fba4ea
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1988120-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: homeopati
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1988120-002-001
+:PROPERTIES:
+:TARGET_ID: rd-1988120-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ホメオパチー

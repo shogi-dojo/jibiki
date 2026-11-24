@@ -1,0 +1,178 @@
+#+TITLE: 負け戦
+#+JMDICT_ID: 1498030
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まけいくさ
+#+ROMAJI: makeikusa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1498030-001
+:PROPERTIES:
+:TEXT: 負け戦
+:END:
+** Written form wf-1498030-002
+:PROPERTIES:
+:TEXT: 負け軍
+:END:
+** Reading rd-1498030-001
+:PROPERTIES:
+:TEXT: まけいくさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1498030-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 83b2f278615b22f313ef35edce8222e4b114d44e13076fec92655b23a03c3e38
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- losing a battle
+- lost battle
+** Ukrainian glosses
+*** uk-s-1498030-001-001
+:PROPERTIES:
+:END:
+- text :: програна битва; програний бій; поразка у війні
+** Learner notes
+*** note-s-1498030-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 負け (поразка) та 戦 (いくさ — війна, битва). Уживається в історичних або образних контекстах для позначення битви, що завершилася поразкою (також може записуватися як 負け軍).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1498030-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: それは厳しい負け戦だった。
+- READING :: それはきびしいまけいくさだった。
+- UK :: То була важка програна битва.
+- FOCUS :: 負け戦
+*** ex-1498030-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 兵力が大きく劣っていたため、その合戦は最初から負け戦だった。
+- READING :: へいりょくがおおきくおとっていたため、そのかっせんはさいしょからまけいくさだった。
+- UK :: Оскільки військо сильно поступалося чисельністю, та битва від самого початку була приречена на поразку.
+- FOCUS :: 負け戦
+*** ex-1498030-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 撤退の時期を見誤ったことで被害が拡大し、後世に語り継がれるほどの惨めな負け戦となった。
+- READING :: てったいのじきをみあやまったことでひがいがかくだいし、こうせいにかたりつがれるほどのみじめなまけいくさとなった。
+- UK :: Через хибний розрахунок часу відступу втрати зросли, і це обернулося нищівною поразкою, про яку згадували наступні покоління.
+- FOCUS :: 負け戦
+
+* Sense s-1498030-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6a7d3fa9206e424f54e03d0e8c29903ab2956bfaf31528775bad7e1876db8df8
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- battle one cannot win
+- battle one is doomed to lose
+** Ukrainian glosses
+*** uk-s-1498030-002-001
+:PROPERTIES:
+:END:
+- text :: заздалегідь програна справа; бій без шансів на перемогу
+** Learner notes
+*** note-s-1498030-002-001
+:PROPERTIES:
+:END:
+- UK :: Переносно описує змагання, вибори чи суперечку, у яких результат майже наперед визначений і перемогти неможливо (負け戦を戦う, 負け戦を覚悟する).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1498030-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e38349a71de79e3c01815b9143494ecf1d9f0120a16c6f436aeba4c81d7ab273
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498030-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Niederlage
+*** en-s-1498030-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlorene Schlacht
+*** en-s-1498030-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verlorener Krieg
+** Ukrainian glosses
+
+* Sense s-1498030-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: eac95b2e593f1ce4e36659cd962c8c8a5fe570e733d9b625bd8b4f2e664f9e79
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498030-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: поражение [в войне]; проигранная война (битва); проигранная игра
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1498030-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1498030-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: まけいくさ

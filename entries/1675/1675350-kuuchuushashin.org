@@ -1,0 +1,141 @@
+#+TITLE: 空中写真
+#+JMDICT_ID: 1675350
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くうちゅうしゃしん
+#+ROMAJI: kuuchuushashin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1675350-001
+:PROPERTIES:
+:TEXT: 空中写真
+:END:
+** Reading rd-1675350-001
+:PROPERTIES:
+:TEXT: くうちゅうしゃしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1675350-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 98a5ea6621f90d421ab4ab708dd77ca1bb2492401598b141f2398e0f86aee3d7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- aerial photograph
+** Ukrainian glosses
+*** uk-s-1675350-001-001
+:PROPERTIES:
+:END:
+- text :: аерофотознімок; аерознімок
+** Learner notes
+*** note-s-1675350-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 空中 («у повітрі») та 写真 («фотографія»). Позначає фотографію земної поверхні, зроблену з літака, гелікоптера чи дрона, яка широко використовується в картографії та містобудуванні; синонім до 航空写真.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1675350-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 地図で空中写真を見ました。
+- READING :: ちずでくうちゅうしゃしんをみました。
+- UK :: Я подивився аерофотознімок на карті.
+- FOCUS :: 空中写真
+*** ex-1675350-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昔の空中写真と比べると、町の広がりがよく分かる。
+- READING :: むかしのくうちゅうしゃしんとくらべると、まちのひろがりがよくわかる。
+- UK :: Якщо порівняти зі старими аерознімками, добре видно, як розрослося місто.
+- FOCUS :: 空中写真
+*** ex-1675350-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国土地理院が公開している空中写真を活用すれば、災害前後の地形の変化を詳しく確認できる。
+- READING :: こくどちりいんがこうかいしているくうちゅうしゃしんをかつようすれば、さいがいぜんごのちけいのへんかをくわしくかくにんできる。
+- UK :: Використовуючи аерофотознімки, які публікує Управління геопросторової інформації Японії, можна детально простежити зміни рельєфу до й після стихійного лиха.
+- FOCUS :: 空中写真
+
+* Sense s-1675350-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7b15470e9b4cd82eaf7a61b381b9f646fe5f85ac2d13c9b600bf7307748f5405
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1675350-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Luftaufnahme
+*** en-s-1675350-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Luftbild
+** Ukrainian glosses
+
+* Sense s-1675350-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8a313bb7e81d2f32033525471333fa10ff5c55a408cb717c35b14751aed7d2bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1675350-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: аэрофотосъёмка, аэрофотография
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1675350-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1675350-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くうちゅうしゃしん

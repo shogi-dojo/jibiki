@@ -1,0 +1,159 @@
+#+TITLE: 家相
+#+JMDICT_ID: 1192130
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かそう
+#+ROMAJI: kasou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1192130-001
+:PROPERTIES:
+:TEXT: 家相
+:END:
+** Reading rd-1192130-001
+:PROPERTIES:
+:TEXT: かそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1192130-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c6491914beb219662bd648dfb3a2264a1e786a71ff04abc3dee137b9de49ea69
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- aspect, position, layout, etc. of a house (determining the residents' fortune)
+- physiognomy of a house
+** Ukrainian glosses
+*** uk-s-1192130-001-001
+:PROPERTIES:
+:END:
+- text :: розташування й планування будинку (за прикметами); геомантія житла
+** Learner notes
+*** note-s-1192130-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; традиційне культурне поняття (із 家 «дім» і 相 «вигляд, прикмета», за аналогією до 手相 «хіромантія»). Позначає розташування дому, сторін світу, дверей і кімнат, за яким ворожать про добробут мешканців. Типові вирази: 家相を見る (оцінювати планування житла за прикметами), 家相が良い (вдале розташування дому).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1192130-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は家の家相を気にする。
+- READING :: そふはいえのかそうをきにする。
+- UK :: Дідусь зважає на розташування дому за прикметами.
+- FOCUS :: 家相
+*** ex-1192130-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい家を建てる前に、専門家に家相を見てもらった。
+- READING :: あたらしいいえをたてるまえに、せんもんかにかそうをみてもらった。
+- UK :: Перед будівництвом нового дому ми звернулися до фахівця, щоб він оцінив планування за прикметами.
+- FOCUS :: 家相
+*** ex-1192130-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 玄関や台所の方角は、昔から家相を考える上で重視されてきた。
+- READING :: げんかんやだいどころのほうがくは、むかしからかそうをかんがえるうえでじゅうしされてきた。
+- UK :: Орієнтація входу та кухні щодо сторін світу здавна вважалася важливою в традиційному вченні про сприятливість житла.
+- FOCUS :: 家相
+
+* Sense s-1192130-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9204beb4d1068c9a65e8dd3be94fe4cacc623789e0b39d135fab91bb13d59cbd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1192130-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lage eines Hauses
+*** en-s-1192130-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erscheinung des Hauses
+** Ukrainian glosses
+
+* Sense s-1192130-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 63cb665d7ab53b3897e23b03b46b27e70deab91b5f8a708983e4d048c49809e5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1192130-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: расположение дома
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1192130-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1192130-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かそう
+** Accent accent-rd-1192130-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1192130-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かそう

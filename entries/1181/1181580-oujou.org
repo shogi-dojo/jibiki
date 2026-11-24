@@ -1,0 +1,160 @@
+#+TITLE: 王城
+#+JMDICT_ID: 1181580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おうじょう
+#+ROMAJI: oujou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1181580-001
+:PROPERTIES:
+:TEXT: 王城
+:END:
+** Reading rd-1181580-001
+:PROPERTIES:
+:TEXT: おうじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1181580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 13562f82b5a1d33f07200dcb3497fe8a4d0f88f4d2ba7914a12a8762c3186fe5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- royal castle
+- imperial castle
+** Ukrainian glosses
+*** uk-s-1181580-001-001
+:PROPERTIES:
+:END:
+- text :: королівський замок; імператорський замок; імператорський палац
+** Learner notes
+*** note-s-1181580-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що поєднує 王 (король, монарх) і 城 (замок, фортеця). Трапляється переважно в історичних текстах, легендах, перекладах європейської літератури та фентезі для позначення укріпленої резиденції правителя.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1181580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 丘の上に古い王城があります。
+- READING :: おかのうえにふるいおうじょうがあります。
+- UK :: На пагорбі стоїть старий королівський замок.
+- FOCUS :: 王城
+*** ex-1181580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅人は遠くに見える王城を目指して歩き続けた。
+- READING :: たびびとはとおくにみえるおうじょうをめざしてあるきつづけた。
+- UK :: Мандрівник ішов далі, прямуючи до королівського замку, що виднівся вдалині.
+- FOCUS :: 王城
+*** ex-1181580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: このゲームでは、広大な王城の内部を探索して隠された宝を見つけ出すことができる。
+- READING :: このげーむでは、こうだいなおうじょうのないぶをたんさくしてかくされたたからをみつけだすことができる。
+- UK :: У цій грі можна досліджувати просторі приміщення королівського замку й відшукувати сховані скарби.
+- FOCUS :: 王城
+
+* Sense s-1181580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7686d977de0d7e86a4c31f45f0224e17ede8733ac88e53dd56c5fd77e46516be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1181580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Königsschloss
+*** en-s-1181580-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kaiserschloss
+** Ukrainian glosses
+
+* Sense s-1181580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5f620a0751fc0389234b3b4615903fc5c399d81958c636f1f0508523009cb139
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1181580-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) императорский дворец; королевский замок
+** Ukrainian glosses
+
+* Sense s-1181580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fd64e23d8d51031d8b8e07c5f86b3017f4a43540fa0d3a25ea7f317e27f5a23b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1181580-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palacio real
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1181580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1181580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おうじょう

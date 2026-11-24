@@ -1,0 +1,175 @@
+#+TITLE: 特使
+#+JMDICT_ID: 1454940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とくし
+#+ROMAJI: tokushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1454940-001
+:PROPERTIES:
+:TEXT: 特使
+:END:
+*** Priorities
+- news1
+- nf06
+** Reading rd-1454940-001
+:PROPERTIES:
+:TEXT: とくし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf06
+
+* Sense s-1454940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 350c6f0cf1c96439bc8d31db4b00dc0d9303ef4e8ed9596e8bd6f91d361daab3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- special envoy
+** Ukrainian glosses
+*** uk-s-1454940-001-001
+:PROPERTIES:
+:END:
+- text :: спеціальний посланець, спецпредставник
+** Learner notes
+*** note-s-1454940-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного та дипломатичного стилю (特 «особливий» + 使 «посол, посланець»). Позначає особу, спеціально вповноважену урядом або головою держави для виконання конкретної дипломатичної місії; часто поєднується з дієсловами 派遣する (направляти) або 立てる (відряджати).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1454940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大統領の特使が日本に来ました。
+- READING :: だいとうりょうのとくしがにほんにきました。
+- UK :: Спеціальний посланець президента прибув до Японії.
+- FOCUS :: 特使
+*** ex-1454940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 政府は平和交渉のために特使を派遣しました。
+- READING :: せいふはへいわこうしょうのためにとくしをはけんしました。
+- UK :: Уряд направив спеціального посланця для мирних переговорів.
+- FOCUS :: 特使
+*** ex-1454940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 首相の親書を携えた特使が、現地で外相と会談を行いました。
+- READING :: しゅしょうのしんしょをたずさえたとくしが、げんちでがいしょうとかいだんをおこないました。
+- UK :: Спецпредставник, який привіз особисте послання прем'єр-міністра, провів на місці переговори з міністром закордонних справ.
+- FOCUS :: 特使
+
+* Sense s-1454940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 02fbc8721b7afceb8432ced6fd965839f181cabb8c599c3562a0d71694e81c78
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454940-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: buitengewoon gezant
+** Ukrainian glosses
+
+* Sense s-1454940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3164562bbb1fbebd27062d4dc8d3f8ac5a124be0b3b19faef7bcdcf80481eba9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454940-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sondergesandter
+** Ukrainian glosses
+
+* Sense s-1454940-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 414cebb0279d5a40050f0d01c5ace17684982c0268d32daaf2204c148cb67d16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454940-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: специальный курьер (посланец)
+** Ukrainian glosses
+
+* Sense s-1454940-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2fede4e2652655c5091f24ecf13eb0aff4df6a4f3a469dc0fb2ae2721ced318a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1454940-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: enviado especial
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1454940-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1454940-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とくし

@@ -1,0 +1,160 @@
+#+TITLE: 職名
+#+JMDICT_ID: 1832700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょくめい
+#+ROMAJI: shokumei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1832700-001
+:PROPERTIES:
+:TEXT: 職名
+:END:
+** Reading rd-1832700-001
+:PROPERTIES:
+:TEXT: しょくめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1832700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c3a69abfb0079b619fa2f0f0d42f5fd9d00ac0070e0f99791aac3faff3745859
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (name of) one's occupation
+- title of one's position
+- (job) title
+- official title
+** Ukrainian glosses
+*** uk-s-1832700-001-001
+:PROPERTIES:
+:END:
+- text :: назва професії; найменування посади; посадова назва
+** Learner notes
+*** note-s-1832700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник офіційно-ділового стилю, утворений зі знаків 職 (робота, посада) та 名 (назва). Використовується в анкетах, бланках, документах та організаційних структурах на позначення назви посади або роду занять.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1832700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 申込書に職名を記入する。
+- READING :: もうしこみしょにしょくめいをきにゅうする。
+- UK :: Вписати назву посади в бланк заяви.
+- FOCUS :: 職名
+*** ex-1832700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 組織の改編に伴い、いくつかの部署と職名が新しく変更された。
+- READING :: そしきのかいへんにともない、いくつかのぶしょとしょくめいがあたらしくへんこうされた。
+- UK :: У зв'язку з реорганізацією структури назви кількох відділів і посад було змінено.
+- FOCUS :: 職名
+*** ex-1832700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外の取引先とやり取りする際は、相手の職名を正確に確認して敬称を使い分ける。
+- READING :: かいがいのとりひきさきとやりとりするさいは、あいてのしょくめいをせいかくにかくにんしてけいしょうをつかいわける。
+- UK :: Під час ділового листування із закордонними партнерами слід точно перевіряти назву посади співрозмовника й доречно добирати звертання.
+- FOCUS :: 職名
+
+* Sense s-1832700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 77c9050748053e6bf366dc7692ee4d41a4c59669b94e48d99be5e188ed07b202
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1832700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: offizieller Titel
+*** en-s-1832700-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amtstitel
+*** en-s-1832700-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Amtsbezeichnung
+*** en-s-1832700-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Berufsbezeichnung
+** Ukrainian glosses
+
+* Sense s-1832700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c8d025fa87c8faae426f0b82a3b72e8fbeb88c7133cb621ffff5750a059ff028
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1832700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: название профессии, род занятий (графа в анкете); название должности (в ведомости и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1832700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1832700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しょくめい

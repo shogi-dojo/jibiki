@@ -1,0 +1,168 @@
+#+TITLE: 尻取り
+#+JMDICT_ID: 1358780
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しりとり
+#+ROMAJI: shiritori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1358780-001
+:PROPERTIES:
+:TEXT: 尻取り
+:END:
+** Written form wf-1358780-002
+:PROPERTIES:
+:TEXT: 尻取
+:END:
+*** Information
+- io
+** Reading rd-1358780-001
+:PROPERTIES:
+:TEXT: しりとり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1358780-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6dc80961f0ac0ff4ddbd569ae8051741cd3b797b355afe06c14d4ab414eeb8ea
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- shiritori
+- word-chain game
+*** en-s-1358780-001-003
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: word game in which players must give a word starting with the last syllable of the word given by the previous player
+** Ukrainian glosses
+*** uk-s-1358780-001-001
+:PROPERTIES:
+:END:
+- text :: шіріторі (японська словесна гра в ланцюжок); гра в слова на останній склад
+** Learner notes
+*** note-s-1358780-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (буквально «підхоплювання з хвоста», від 尻 «зад, кінець» і 取り «взяття»), що позначає популярну в Японії гру: кожен наступний гравець має назвати слово, яке починається на останню мору попереднього (зазвичай програє той, хто назве слово на ん). Зазвичай пишеться каною як しりとり.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1358780-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友だちと電車の中でしりとりをしました。
+- READING :: ともだちとでんしゃのなかでしりとりをしました。
+- UK :: У поїзді ми з друзями грали в шіріторі.
+- FOCUS :: しりとり
+*** ex-1358780-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: しりとりでは、「みかん」のように最後に「ん」が付く言葉を言うと負けになる。
+- READING :: しりとりでは、「みかん」のようにさいごに「ん」がつくことばをいうとまけになる。
+- UK :: У грі шіріторі, якщо назвати слово на кшталт «мікан», яке закінчується на «н», гравець програє.
+- FOCUS :: しりとり
+*** ex-1358780-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 外国語を学ぶ子どもたちにとって、しりとりは楽しみながら語彙を増やせる身近な遊びだ。
+- READING :: がいこくごをまなぶこどもたちにとって、しりとりはたのしみながらごいをふやせるみぢかなあそびだ。
+- UK :: Для дітей, які вивчають іноземну мову, шіріторі — це доступна гра, що допомагає із задоволенням поповнювати словниковий запас.
+- FOCUS :: しりとり
+
+* Sense s-1358780-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e5e67a16512f5305cdfc4480bd8341b878a85c3e2dc7203d7a5d143045c3a920
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358780-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wortreihenspiel (japanisches Wortspiel, in dem ein Spieler ein Wort mit der selben Silbe beginnen muss, mit dem das Wort des vorherigen Spielers aufgehört hat)
+** Ukrainian glosses
+
+* Sense s-1358780-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ee6c2e010fcdf826ae5e1324025c11c62ae1f3854be55ab1e77573a3053e347a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358780-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подхватывание с конца
+** Ukrainian glosses
+
+* Sense s-1358780-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c0ca90de9a528b462fb15bf92cb2fc8048e6d73774ba92cad85c0315463eefc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1358780-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: palabras encadenadas (juego)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1358780-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1358780-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しりとり

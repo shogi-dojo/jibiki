@@ -1,0 +1,123 @@
+#+TITLE: 飛行時間
+#+JMDICT_ID: 1485510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひこうじかん
+#+ROMAJI: hikoujikan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1485510-001
+:PROPERTIES:
+:TEXT: 飛行時間
+:END:
+** Reading rd-1485510-001
+:PROPERTIES:
+:TEXT: ひこうじかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1485510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5dbcca74a25c4387863dd191225e117bcaa1f6bec8d79c19a30d3528b5fe5dc0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- flight time
+- number of flight hours
+** Ukrainian glosses
+*** uk-s-1485510-001-001
+:PROPERTIES:
+:END:
+- text :: час польоту; тривалість польоту; наліт годин
+** Learner notes
+*** note-s-1485510-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник від 飛行 (політ) та 時間 (час, тривалість). Позначає як тривалість авіарейсу від зльоту до посадки, так і загальний наліт годин пілота або тривалість роботи безпілотника на одному заряді.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1485510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 東京までの飛行時間は短い。
+- READING :: とうきょうまでのひこうじかんはみじかい。
+- UK :: Час польоту до Токіо короткий.
+- FOCUS :: 飛行時間
+*** ex-1485510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 向かい風の影響で、予定より飛行時間が一時間ほど延びた。
+- READING :: むかいかぜのえいきょうで、よていよりひこうじかんがいちじかんほどのびた。
+- UK :: Через зустрічний вітер тривалість польоту зросла приблизно на годину порівняно з планом.
+- FOCUS :: 飛行時間
+*** ex-1485510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: バッテリー技術の向上により、小型ドローンの連続飛行時間は以前に比べて飛躍的に長くなった。
+- READING :: ばってりーぎじゅつのこうじょうにより、こがたどろーんのれんぞくひこうじかんはいぜんにくらべてひやくてきにながくなった。
+- UK :: Завдяки вдосконаленню акумуляторних технологій тривалість безперервного польоту малих дронів суттєво зросла порівняно з минулим.
+- FOCUS :: 飛行時間
+
+* Sense s-1485510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9113e6394eaaf8beaed8c9bb41ca031299ce84b13443381f30b0ce7b35eb6747
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1485510-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flugzeit
+*** en-s-1485510-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flugstunden
+** Ukrainian glosses
+
+* Sense s-1485510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e03e720b02a7e0dbee63d0583e4cd70cc50178d670884eb6d3becc0e878b91a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1485510-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лётное время
+** Ukrainian glosses

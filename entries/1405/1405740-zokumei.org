@@ -1,0 +1,205 @@
+#+TITLE: 属名
+#+JMDICT_ID: 1405740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぞくめい
+#+ROMAJI: zokumei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1405740-001
+:PROPERTIES:
+:TEXT: 属名
+:END:
+** Reading rd-1405740-001
+:PROPERTIES:
+:TEXT: ぞくめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1405740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ba4c92db7b79a128034df4b089a88321b0949cb12faecd9f6fd3ce356267998c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- biol
+** English glosses
+- generic name
+- genus name
+** Ukrainian glosses
+*** uk-s-1405740-001-001
+:PROPERTIES:
+:END:
+- text :: родова назва, назва роду (у біологічній систематиці)
+** Learner notes
+*** note-s-1405740-001-001
+:PROPERTIES:
+:END:
+- UK :: Біологічний термін (іменник), що позначає першу частину латинської біномінальної назви організму, яка вказує на його рід (genus). Утворюється з ієрогліфів 属 (рід, категорія) і 名 (назва) та вживається поруч із терміном 種小名 (видовий епітет).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1405740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 図鑑には生物の属名が載っている。
+- READING :: ずかんにはせいぶつのぞくめいがのっている。
+- UK :: В атласі-визначнику наведено родові назви організмів.
+- FOCUS :: 属名
+*** ex-1405740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 学名の最初に書かれるのが属名で、頭文字を大文字にする決まりがある。
+- READING :: がくめいのさいしょにかかれるのがぞくめいで、かしらもじをおおもじにするきまりがある。
+- UK :: Першим у науковій назві пишеться родова назва, і за правилами вона починається з великої літери.
+- FOCUS :: 属名
+*** ex-1405740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 薬局では同じ成分を持つ医薬品について、特定のブランド名ではなく属名や一般名で説明を受けることがある。
+- READING :: やっきょくではおなじせいぶんをもついやくひんについて、とくていのぶらんどめいではなくぞくめいやいっぱんめいでせつめいをうけることがある。
+- UK :: В аптеці щодо препаратів із тією самою діючою речовиною іноді пояснюють не за конкретною торговою маркою, а за родовою чи загальною назвою.
+- FOCUS :: 属名
+
+* Sense s-1405740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c304fc631297051dc42621c39daf942377437b084e8c8648f4f1d58f193f0178
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- bus
+** English glosses
+- generic name
+** Ukrainian glosses
+*** uk-s-1405740-002-001
+:PROPERTIES:
+:END:
+- text :: загальна (незареєстрована) назва товару чи ліків, дженерикова назва
+** Learner notes
+*** note-s-1405740-002-001
+:PROPERTIES:
+:END:
+- UK :: Економічний, фармацевтичний та юридичний термін на позначення родової чи загальновживаної назви категорії товарів або непатентованого найменування діючої речовини на противагу торговельній марці (商品名 чи ブランド名).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1405740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d33e1ca01ec5cdb2d64f4ce7beafff1f5c917fe1ca56e8f2e1b8ad71ea67406c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1405740-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {biol.} geslachtsnaam
+*** en-s-1405740-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nomen genericum
+** Ukrainian glosses
+
+* Sense s-1405740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 182b52b536df28097d86a731876e305030e10057948a9a9a415babe42c76ad60
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1405740-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gattungsname
+** Ukrainian glosses
+
+* Sense s-1405740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7703d6a3333ee8d514ada04212a24400a59200455fbd21ded8fcf4ae46071d49
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1405740-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (биол.) название вида (рода)
+** Ukrainian glosses
+
+* Sense s-1405740-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 997235ea571b39cd1da6602ab621ab46f3d3e7b50afeebaf25dd07b60149fcc7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1405740-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nombre del género o genérico (taxonomía)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1405740-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1405740-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぞくめい

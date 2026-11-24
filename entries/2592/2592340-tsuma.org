@@ -1,0 +1,168 @@
+#+TITLE: 褄
+#+JMDICT_ID: 2592340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つま
+#+ROMAJI: tsuma
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2592340-001
+:PROPERTIES:
+:TEXT: 褄
+:END:
+** Reading rd-2592340-001
+:PROPERTIES:
+:TEXT: つま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2592340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ab4b59a345a20e4c4499d092087796e431e74ad815792b95d5e03341cdd6e693
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- skirt (of a kimono)
+- hem (of a kimono)
+** Ukrainian glosses
+*** uk-s-2592340-001-001
+:PROPERTIES:
+:END:
+- text :: поділ; пола (кімоно)
+** Learner notes
+*** note-s-2592340-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає нижні передні кути або край поли традиційного японського вбрання (кімоно). Часто трапляється у сталому вислові 褄を取る («підбирати поділ кімоно», а в переносному значенні — ставати ґейшею).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2592340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歩くときは着物の褄を持ち上げます。
+- READING :: あるくときはきもののつまをもちあげます。
+- UK :: Під час ходьби піднімають поділ кімоно.
+- FOCUS :: 褄
+*** ex-2592340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雨が降ってきたので、着物の褄が濡れないように気をつけて歩いた。
+- READING :: あめがふってきたので、きもののつまがぬれないようにきをつけてあるいた。
+- UK :: Почався дощ, тож я йшла обережно, щоб не замочити поділ кімоно.
+- FOCUS :: 褄
+*** ex-2592340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 美しい模様が施された着物の褄をそっと持ち上げ、彼女は石段を静かに上っていった。
+- READING :: うつくしいもようがほどこされたきもののつまをそっともちあげ、かのじょはいしだんをしずかにのぼっていった。
+- UK :: Акуратно піднявши край поли кімоно з витонченим візерунком, вона тихо піднялася кам'яними сходами.
+- FOCUS :: 褄
+
+* Sense s-2592340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a24a400c7a3b96ce7c4cc150b41adc8e9637ea9b15a3eaa17715289ed913f992
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2592340-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unterer Saum eines Kleidungsstückes
+** Ukrainian glosses
+
+* Sense s-2592340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b2ef938e24aa6f4ee4c94ce4a94f8417ba6fc4ae62bc77c3030cea62922aaf7d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2592340-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подол; пола (кимоно)
+** Ukrainian glosses
+
+* Sense s-2592340-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1d4a9dd073a18a44f6e1bc7078ad412b43684772bc083871cef8fd3d922d5655
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2592340-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falda
+*** en-s-2592340-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: faldón
+*** en-s-2592340-004-003
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: parte baja del kimono
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2592340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2592340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: つま

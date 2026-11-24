@@ -1,0 +1,161 @@
+#+TITLE: 拾い出す
+#+JMDICT_ID: 1332540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひろいだす
+#+ROMAJI: hiroidasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1332540-001
+:PROPERTIES:
+:TEXT: 拾い出す
+:END:
+** Reading rd-1332540-001
+:PROPERTIES:
+:TEXT: ひろいだす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1332540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d92558c97502fd04b49d14787a35f9a1e4bdfe6e9cdcfc988023203678fd5624
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to single out
+- to select
+** Ukrainian glosses
+*** uk-s-1332540-001-001
+:PROPERTIES:
+:END:
+- text :: відбирати; вибирати; виокремлювати
+** Learner notes
+*** note-s-1332540-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне складене дієслово 1-ї відміни (五段 на -す: 拾い出さない, 拾い出します, 拾い出した), утворене від 拾う («підбирати; вибирати») та 出す («виносити назовні»). Означає ретельний відбір потрібних предметів, відомостей, помилок чи прикладів із великої кількості інших.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1332540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 文章の中から間違いを拾い出しました。
+- READING :: ぶんしょうのなかからまちがいをひろいだしました。
+- UK :: Я вибрав помилки з тексту.
+- FOCUS :: 拾い出しました
+*** ex-1332540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い資料から必要なデータだけを拾い出すのに時間がかかった。
+- READING :: ながいしりょうからひつようなでーただけをひろいだすのにじかんがかかった。
+- UK :: Знадобилося чимало часу, щоб вибрати з довгого документа лише потрібні дані.
+- FOCUS :: 拾い出す
+*** ex-1332540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 過去の調査記録を一つひとつ確認し、今後の企画に役立ちそうな意見を拾い出した。
+- READING :: かこのちょうさきろくをひとつひとつかくにんし、こんごのきかくにやくだちそうないけんをひろいだした。
+- UK :: Перевіривши один за одним минулі протоколи опитувань, ми відібрали ідеї, які можуть стати в пригоді для майбутнього проєкту.
+- FOCUS :: 拾い出した
+
+* Sense s-1332540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8b79cf906db308874ff8acf73ec2b20c65787c4c432bae0788c85906e82e2189
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1332540-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aussortieren
+*** en-s-1332540-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auswählen
+** Ukrainian glosses
+
+* Sense s-1332540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 99416785eafd234328bb8d39d0ffbb8c61a81002af79b7764d6859d4d18da3d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1332540-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: válogat
+** Ukrainian glosses
+
+* Sense s-1332540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bc6ef337cf492fa1b0a7e25b3d3fba3b99cb8c85d3725f3cbdaf67de898de80f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1332540-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: выбирать (что-л. из ряда предметов и т. п.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1332540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1332540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ひろいだす

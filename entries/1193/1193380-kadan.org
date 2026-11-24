@@ -1,0 +1,164 @@
+#+TITLE: 歌壇
+#+JMDICT_ID: 1193380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かだん
+#+ROMAJI: kadan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1193380-001
+:PROPERTIES:
+:TEXT: 歌壇
+:END:
+*** Priorities
+- news2
+- nf30
+** Reading rd-1193380-001
+:PROPERTIES:
+:TEXT: かだん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1193380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 32ae801014e872c6e5826a34563ba42f1b19cd0d2f18dac74ecdb2fdc379877e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- poetry circles
+** Ukrainian glosses
+*** uk-s-1193380-001-001
+:PROPERTIES:
+:END:
+- text :: поетичні кола, світ поезії танка (вака)
+** Learner notes
+*** note-s-1193380-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 歌 («пісня, вірш») та 壇 («спільнота, трибуна»). Позначає передусім середовище японських поетів, критиків і видань, що займаються традиційною поезією 短歌 або класичною 和歌, а також відповідні поетичні рубрики в пресі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1193380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼女は日本の歌壇で有名な人です。
+- READING :: かのじょはにほんのかだんでゆうめいなひとです。
+- UK :: Вона відома постать у японських поетичних колах.
+- FOCUS :: 歌壇
+*** ex-1193380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい雑誌の創刊が、当時の歌壇に大きな話題を呼びました。
+- READING :: あたらしいざっしのそうかんが、とうじのかだんにおおきなわだいをよびました。
+- UK :: Заснування нового журналу викликало жваве обговорення в тогочасному поетичному середовищі.
+- FOCUS :: 歌壇
+*** ex-1193380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 若い歌人たちの自由な表現が、伝統を重んじてきた歌壇に新しい風を吹き込んだ。
+- READING :: わかいかじんたちのじゆうなひょうげんが、でんとうをおもんじてきたかだんにあたらしいかぜをふきこんだ。
+- UK :: Вільне самовираження молодих поетів принесло свіжий подих у поетичні кола, які традиційно трималися канонів.
+- FOCUS :: 歌壇
+
+* Sense s-1193380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5007c2d764e70b6b65471fc081a4fb45d2de778b9aaefc202996cbe370618a42
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193380-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dichterkreise
+*** en-s-1193380-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dichterwelt (insbes. Waka-Dichter)
+** Ukrainian glosses
+
+* Sense s-1193380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a920b6094466068096b54e969d1dfccb9ea61411017b361845ca64f3ef1329f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1193380-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общество поэтов жанра вака
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1193380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1193380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かだん
+** Accent accent-rd-1193380-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1193380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かだん

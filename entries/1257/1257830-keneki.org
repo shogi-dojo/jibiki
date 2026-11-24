@@ -1,0 +1,303 @@
+#+TITLE: 検疫
+#+JMDICT_ID: 1257830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんえき
+#+ROMAJI: keneki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1257830-001
+:PROPERTIES:
+:TEXT: 検疫
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1257830-001
+:PROPERTIES:
+:TEXT: けんえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1257830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 402f1e27a26d1780a656a00d5a6a1b2034478a0ddfa31ea635b60a6d6af9e712
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- quarantine
+- medical inspection
+** Ukrainian glosses
+*** uk-s-1257830-001-001
+:PROPERTIES:
+:END:
+- text :: карантинний огляд; санітарний контроль; карантин
+** Learner notes
+*** note-s-1257830-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово на -する (検疫する — проводити карантинну перевірку), утворене з 検 (перевіряти) та 疫 (пошесть, інфекційна хвороба). Позначає медичний, ветеринарний або фітосанітарний контроль людей, тварин, рослин і вантажів на кордоні, в аеропортах чи портах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1257830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 空港で検疫を受けました。
+- READING :: くうこうでけんえきをうけました。
+- UK :: В аеропорту я пройшов санітарний контроль.
+- FOCUS :: 検疫
+*** ex-1257830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 海外から動物を連れて帰るには、厳しい検疫の手続きが必要になる。
+- READING :: かいがいからどうぶつをつれてかえるには、きびしいけんえきのてつづきがひつようになる。
+- UK :: Щоб привезти тварину з-за кордону, потрібно пройти сувору процедуру карантинного контролю.
+- FOCUS :: 検疫
+*** ex-1257830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新たな感染症の流入を防ぐため、港湾や空港での検疫体制を一段と強化する措置が取られた。
+- READING :: あらたなかんせんしょうのりゅうにゅうをふせぐため、こうわんやくうこうでのけんえきたいせいをいちだんときょうかするそちがとられた。
+- UK :: Щоб запобігти занесенню нової інфекційної хвороби, було вжито заходів для подальшого посилення карантинного контролю в портах та аеропортах.
+- FOCUS :: 検疫
+
+* Sense s-1257830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cadf4af71cbe6b43bcb82ba7db3830859eca95e5a8f1d55c786f0913a958c306
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in quarantaine houden
+*** en-s-1257830-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: plaatsen
+*** en-s-1257830-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: geven
+*** en-s-1257830-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quarantaine
+** Ukrainian glosses
+
+* Sense s-1257830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a7f8f24290febee24086e20d0ee11b1b202a8477935f451aa07905e9cbdca78f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quarantaine
+** Ukrainian glosses
+
+* Sense s-1257830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 962989160b43a902301c4b697bb796f0620fa23040e427d33d120f69852256d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: unter Quarantäne stellen
+*** en-s-1257830-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in Quarantäne legen
+*** en-s-1257830-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Quarantäneuntersuchung vornehmen
+*** en-s-1257830-004-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quarantäne
+*** en-s-1257830-004-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quarantänemaßnahmen
+*** en-s-1257830-004-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quarantäneuntersuchung
+** Ukrainian glosses
+
+* Sense s-1257830-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e2768e1905460e5c0ec8d822e66fe1aa4f231fadb4c2f1bd33d8fac2717e9268
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egészségügyi zárlat
+*** en-s-1257830-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: karantén
+*** en-s-1257830-005-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vesztegzár
+** Ukrainian glosses
+
+* Sense s-1257830-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: f6f1abb746d8565cbfcaafe439d2041a83f334f9816c953da0370a4ce21e7b40
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: карантин
+*** en-s-1257830-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} подвергать карантину, изолировать
+** Ukrainian glosses
+
+* Sense s-1257830-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1ca42730d21098b9a1efdc93b6a572fff290a5c23c979eca7b46b53c258a5839
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1257830-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: cuarentena
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1257830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1257830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: けんえき

@@ -1,0 +1,167 @@
+#+TITLE: 隠れ場所
+#+JMDICT_ID: 1822410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かくればしょ
+#+ROMAJI: kakurebasho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1822410-001
+:PROPERTIES:
+:TEXT: 隠れ場所
+:END:
+** Reading rd-1822410-001
+:PROPERTIES:
+:TEXT: かくればしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1822410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa3bf1847c20cce14f24605c91337bed8a812823b1157f79c034a6e5d8ce4e22
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- hiding place
+- refuge
+** Ukrainian glosses
+*** uk-s-1822410-001-001
+:PROPERTIES:
+:END:
+- text :: схованка; притулок; укриття
+** Learner notes
+*** note-s-1822410-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 隠れる («ховатися») та 場所 («місце»). Позначає місце, де можна сховатися від небезпеки, переслідувачів або під час дитячої гри; часто вживається з дієсловами 探す чи 見つける.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1822410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子猫の隠れ場所を見つけました。
+- READING :: こねこのかくればしょをみつけました。
+- UK :: Я знайшов схованку кошеняти.
+- FOCUS :: 隠れ場所
+*** ex-1822410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: かくれんぼで、誰にも見つからないような隠れ場所を探した。
+- READING :: かくれんぼで、だれにもみつからないようなかくればしょをさがした。
+- UK :: Під час гри в хованки я шукав таке місце, де мене ніхто не знайде.
+- FOCUS :: 隠れ場所
+*** ex-1822410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい雨をしのぐため、登山者たちは岩陰に一時的な隠れ場所を確保した。
+- READING :: はげしいあめをしのぐため、とざんしゃたちはいわかげにいちじてきなかくればしょをかくほした。
+- UK :: Щоб перечекати зливу, альпіністи облаштували тимчасове укриття під навісом скелі.
+- FOCUS :: 隠れ場所
+
+* Sense s-1822410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 10daea8f2f0f42560daec17c413afe273984237932163effea66908fffe30170
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822410-002-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: járdasziget
+*** en-s-1822410-002-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mentsvár
+*** en-s-1822410-002-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: óvóhely
+** Ukrainian glosses
+
+* Sense s-1822410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 64a12926b131890cb37f253cb219bc8ed36a0facb254babfafa8a02d6c4744f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1822410-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [тайное] убежище (пристанище), укрытие
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1822410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1822410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かくればしょ
+** Accent accent-rd-1822410-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1822410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かくればしょ

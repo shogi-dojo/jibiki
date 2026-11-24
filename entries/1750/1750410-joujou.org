@@ -1,0 +1,157 @@
+#+TITLE: 情状
+#+JMDICT_ID: 1750410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょうじょう
+#+ROMAJI: joujou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1750410-001
+:PROPERTIES:
+:TEXT: 情状
+:END:
+*** Priorities
+- news2
+- nf25
+** Reading rd-1750410-001
+:PROPERTIES:
+:TEXT: じょうじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf25
+
+* Sense s-1750410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b8a8feab57990d93dd3084d19eaf8df263687e0954b20fe18dc25c84c02844a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- circumstances
+** Ukrainian glosses
+*** uk-s-1750410-001-001
+:PROPERTIES:
+:END:
+- text :: обставини (справи); умови; становище
+** Learner notes
+*** note-s-1750410-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і переважно юридичний іменник, утворений із 情 (суть справи, почуття) і 状 (стан, вигляд). Найчастіше трапляється в судово-правових висловах 情状酌量 (врахування пом’якшувальних обставин) та 情状を酌量する (брати до уваги обставини справи, щоб пом’якшити покарання).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1750410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 裁判官は被告の情状を考えました。
+- READING :: さいばんかんはひこくのじょうじょうをかんがえました。
+- UK :: Суддя врахував обставини справи підсудного.
+- FOCUS :: 情状
+*** ex-1750410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 生活に困窮していたという情状から、執行猶予が付いた。
+- READING :: せいかつにこんきゅうしていたというじょうじょうから、しっこうゆうよがついた。
+- UK :: З огляду на скрутне матеріальне становище обвинуваченого йому призначили умовне покарання.
+- FOCUS :: 情状
+*** ex-1750410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 反省の態度が認められたため、情状を酌量して刑が軽くされることになった。
+- READING :: はんせいのたいどがみとめられたため、じょうじょうをしゃくりょうしてけいがかるくされることになった。
+- UK :: Оскільки суд визнав щире каяття, було вирішено врахувати пом’якшувальні обставини та зменшити строк покарання.
+- FOCUS :: 情状
+
+* Sense s-1750410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1bfbbb11e9e0fc4298ca6b205dfc6abed2ae0f80d505fbccbd809f1b38a88bc3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1750410-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (mildernde)Umstände
+** Ukrainian glosses
+
+* Sense s-1750410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f1186294926a5600e25c9ce5c69f21f1ac2e0b72b2ae5ecf028d2e0a4f0e2659
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1750410-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anyagi viszonyok
+** Ukrainian glosses
+
+* Sense s-1750410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 536deeb3e4a76f1425a2ae9e959205304298538c58069995cba296daef32cbf8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1750410-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обстоятельства
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1750410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1750410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: じょうじょう

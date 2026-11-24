@@ -1,0 +1,176 @@
+#+TITLE: 川風
+#+JMDICT_ID: 1811510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわかぜ
+#+ROMAJI: kawakaze
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1811510-001
+:PROPERTIES:
+:TEXT: 川風
+:END:
+*** Priorities
+- news2
+- nf44
+** Written form wf-1811510-002
+:PROPERTIES:
+:TEXT: 河風
+:END:
+** Reading rd-1811510-001
+:PROPERTIES:
+:TEXT: かわかぜ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1811510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 34456ca1eef021a70a18d374ddf1a8723aaf3649f8e6d545729c8741fd86240d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- breeze off a river
+** Ukrainian glosses
+*** uk-s-1811510-001-001
+:PROPERTIES:
+:END:
+- text :: річковий вітер, вітерець із річки
+** Learner notes
+*** note-s-1811510-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 川 (річка) та 風 (вітер), без озвончення другого компонента (かわかぜ). Позначає свіжий, прохолодний вітер, що дме з річки або вздовж її русла, особливо приємний літніми вечорами.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1811510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 橋の上で涼しい川風を感じた。
+- READING :: はしのうえですずしいかわかぜをかんじた。
+- UK :: На мосту я відчув прохолодний річковий вітерець.
+- FOCUS :: 川風
+*** ex-1811510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夏の夕方、堤防を散歩しながら心地よい川風に吹かれるのが日課だ。
+- READING :: なつのゆうがた、ていぼうをさんぽしながらここちよいかわかぜにふかれるのがにっかだ。
+- UK :: Літніми вечорами моя щоденна звичка — прогулюватися дамбою під приємним річковим вітерцем.
+- FOCUS :: 川風
+*** ex-1811510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 川沿いのテラス席では、穏やかな川風が頬をなで、都会の暑さをしばし忘れさせてくれる。
+- READING :: かわぞいのてらすせきでは、おだやかなかわかぜがほおをなで、とかいのあつさをしばしわすれさせてくれる。
+- UK :: На терасі біля річки лагідний річковий вітер торкається щік і дає на мить забути про міську спеку.
+- FOCUS :: 川風
+
+* Sense s-1811510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1d022296a2cef4058a6476a5e950869417f7e470e7406afbddb1c5e9d7edf0f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811510-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flussbrise
+*** en-s-1811510-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wind, der über einen Fluss streicht
+*** en-s-1811510-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wind, der vom Fluss her weht
+** Ukrainian glosses
+
+* Sense s-1811510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 34317363f031c2ab5caad2f28cbcbb9ac7eb7bf2f263761fbf233a89205d8239
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1811510-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ветер на реке; ветер с реки
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1811510-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1811510-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かわかぜ
+** Accent accent-rd-1811510-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1811510-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かわかぜ

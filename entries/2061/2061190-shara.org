@@ -1,0 +1,171 @@
+#+TITLE: 沙羅
+#+JMDICT_ID: 2061190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゃら
+#+ROMAJI: shara
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2061190-001
+:PROPERTIES:
+:TEXT: 沙羅
+:END:
+** Written form wf-2061190-002
+:PROPERTIES:
+:TEXT: 娑羅
+:END:
+** Reading rd-2061190-001
+:PROPERTIES:
+:TEXT: しゃら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2061190-002
+:PROPERTIES:
+:TEXT: さら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2061190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e599dd3a0dcc55c7f9e78d360506069becbc09dba1d68bc8b279ea4fbe741887
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 沙羅双樹・1
+** English glosses
+- sal (tree) (Shorea robusta)
+- saul
+** Ukrainian glosses
+*** uk-s-2061190-001-001
+:PROPERTIES:
+:END:
+- text :: сал, шорея велична (Shorea robusta)
+** Learner notes
+*** note-s-2061190-001-001
+:PROPERTIES:
+:END:
+- UK :: Буддійська та ботанічна назва священного тропічного дерева з Індії (санскр. śāla), що зазвичай записується як 沙羅 або 娑羅 (часто у сполученні 沙羅双樹 — «пара дерев сал», під якими Будда увійшов у нірвану, що стало відомим символом скороминущості у «Повісті про дім Тайра»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2061190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺の庭に白い沙羅の花が咲いている。
+- READING :: おてらのにわにしろいしゃらのはながさいている。
+- UK :: У храмовому саду цвіте біла стюартія японська.
+- FOCUS :: 沙羅
+*** ex-2061190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古代インドでは、沙羅の木の下で多くの教えが語られたとされる。
+- READING :: こだいいんどでは、しゃらのきのしたでおおくのおしえがかたられたとされる。
+- UK :: У Стародавній Індії, як переповідають, під деревом сал проповідували багато вчень.
+- FOCUS :: 沙羅
+*** ex-2061190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初夏の朝に咲いて夕方には散ってしまう沙羅の花は、無常の象徴として親しまれている。
+- READING :: しょかのあさにさいてゆうがたにはちってしまうしゃらのはなは、むじょうのしょうちょうとしてしたしまれている。
+- UK :: Квітка 沙羅, що розквітає раннім літом уранці й опадає вже надвечір, шанується як символ мінливості буття.
+- FOCUS :: 沙羅
+
+* Sense s-2061190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3b382539513a15e881d41189ffd3d968f828d2754221dfccd04106f77a83cdf7
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 夏椿
+** English glosses
+- Japanese stewartia (Stewartia pseudocamellia)
+** Ukrainian glosses
+*** uk-s-2061190-002-001
+:PROPERTIES:
+:END:
+- text :: стюартія японська (Stewartia pseudocamellia), нацуцубакі
+** Learner notes
+*** note-s-2061190-002-001
+:PROPERTIES:
+:END:
+- UK :: У Японії так також називають декоративне листопадне дерево родини чайних із білими квітами, схожими на камелію (інша поширена назва — 夏椿). Його часто висаджують у храмових садах як японський відповідник священного дерева 沙羅双樹; у ботанічних текстах може також читатися さら.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2061190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5a045f438847f60f8108a96b9572325cf54db5aaf3b998e20eeeb636770888f0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2061190-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) さらじゅ
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2061190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2061190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しゃら
+** Accent accent-rd-2061190-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2061190-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さら

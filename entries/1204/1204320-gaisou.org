@@ -1,0 +1,170 @@
+#+TITLE: 咳嗽
+#+JMDICT_ID: 1204320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がいそう
+#+ROMAJI: gaisou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1204320-001
+:PROPERTIES:
+:TEXT: 咳嗽
+:END:
+** Reading rd-1204320-001
+:PROPERTIES:
+:TEXT: がいそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1204320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 21a266e73c6c8816e05d2462f0d36c00aeee7a68d28197ef589a3349f02f12fa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 咳
+** English glosses
+- cough
+- coughing
+** Ukrainian glosses
+*** uk-s-1204320-001-001
+:PROPERTIES:
+:END:
+- text :: кашель (мед.)
+** Learner notes
+*** note-s-1204320-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний медичний термін (канґо) на позначення кашлю. У побуті замість нього майже завжди вживають просте слово 咳 («кашель»), тоді як 咳嗽 трапляється в історіях хвороби, медичних довідниках та клінічних описах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1204320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 患者に強い咳嗽が見られる。
+- READING :: かんじゃにつよいがいそうがみられる。
+- UK :: У пацієнта спостерігається сильний кашель.
+- FOCUS :: 咳嗽
+*** ex-1204320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 診察記録に乾性の咳嗽と記入した。
+- READING :: しんさつきろくにかんせいのがいそうときにゅうした。
+- UK :: У медичній картці лікаря було зазначено «сухий кашель».
+- FOCUS :: 咳嗽
+*** ex-1204320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 数週間以上続く慢性的な咳嗽は、気管支や肺の疾患が原因である場合がある。
+- READING :: すうしゅうかんいじょうつづくまんせいてきながいそうは、きかんしやはいのしっかんがげんいんであるばあいがある。
+- UK :: Хронічний кашель, що триває понад кілька тижнів, інколи спричинений захворюваннями бронхів або легень.
+- FOCUS :: 咳嗽
+
+* Sense s-1204320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 775c4dfe3df42f07fb7d450c5c4c64d6c75e3fe8480b4792d0083df3d1cf54f7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Husten
+*** en-s-1204320-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tussis
+** Ukrainian glosses
+
+* Sense s-1204320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c7cb197b7eab09c11e0acd3ca6ed34d3c0ad7cb55f5488edbccbe9de03ac8033
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204320-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) кашель
+*** en-s-1204320-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} кашлять
+** Ukrainian glosses
+
+* Sense s-1204320-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 46cce664cdcebb2929a0d4a769fe041d6bdf1f9f2513523e31aed61cdeeaef61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1204320-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hosta
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1204320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1204320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: がいそう

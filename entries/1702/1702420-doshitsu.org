@@ -1,0 +1,158 @@
+#+TITLE: 土質
+#+JMDICT_ID: 1702420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どしつ
+#+ROMAJI: doshitsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1702420-001
+:PROPERTIES:
+:TEXT: 土質
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1702420-001
+:PROPERTIES:
+:TEXT: どしつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+
+* Sense s-1702420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d75ab0ba6bf197a8ea808b9653d73438fc8a226357afdfe09a51ad832ab5a3f1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- soil
+- soil quality
+** Ukrainian glosses
+*** uk-s-1702420-001-001
+:PROPERTIES:
+:END:
+- text :: властивості ґрунту, якість ґрунту; характер землі
+** Learner notes
+*** note-s-1702420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 土 «земля, ґрунт» та 質 «якість, природа»). Широко вживається в цивільному будівництві, геології та сільському господарстві для характеристики складу, щільності й вологості ґрунту (наприклад, 土質調査 «геологічне дослідження ґрунту»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1702420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家を建てる前に土質を調べた。
+- READING :: いえをたてるまえにどしつをしらべた。
+- UK :: Перед будівництвом будинку перевірили якість ґрунту.
+- FOCUS :: 土質
+*** ex-1702420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地域は土質が軟らかいため、しっかりした基礎工事が必要だ。
+- READING :: このちいきはどしつがやわらかいため、しっかりしたきそこうじがひつようだ。
+- UK :: Оскільки в цій місцевості ґрунт м'який, потрібне надійне укріплення фундаменту.
+- FOCUS :: 土質
+*** ex-1702420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 農業の専門家は、畑の土質や水はけに合わせて育てる作物の種類を選んでいる。
+- READING :: のうぎょうのせんもんかは、はたけのどしつやみずはけにあわせてそだてるさくもつのしゅるいをえらんでいる。
+- UK :: Агрономи добирають культури для вирощування відповідно до властивостей ґрунту та дренажу на полі.
+- FOCUS :: 土質
+
+* Sense s-1702420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0053f5c5768b4217ebcb2eab475322d9f1a921316c5322a74663cd442a4efb66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1702420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bodenbeschaffenheit
+** Ukrainian glosses
+
+* Sense s-1702420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 65087a3a6fd73484ca385d0acb376e743c0ed74e6ed5855f4b190f7f70456402
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1702420-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: termőföld
+** Ukrainian glosses
+
+* Sense s-1702420-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d22e2009f8cfa801f40a94abe4cd18850b9eaeffa170fcbb5d4d95151bd14a8f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1702420-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: качество почвы, почва
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1702420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1702420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どしつ

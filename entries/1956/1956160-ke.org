@@ -1,0 +1,159 @@
+#+TITLE: 卦
+#+JMDICT_ID: 1956160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: け
+#+ROMAJI: ke
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1956160-001
+:PROPERTIES:
+:TEXT: 卦
+:END:
+** Reading rd-1956160-001
+:PROPERTIES:
+:TEXT: け
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1956160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7f0945a144aecfb441f61cf9a6e75bbad64fe8f271bfcc336ebea0c4fa61bbb2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- divination sign
+** Ukrainian glosses
+*** uk-s-1956160-001-001
+:PROPERTIES:
+:END:
+- text :: гексаграма; триграма; знак ворожіння
+** Learner notes
+*** note-s-1956160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, термін традиційного китайського ворожіння за «Книгою змін» (易経). Позначає комбінацію суцільних і перерваних рисок — вісім базових триграм (八卦) або шістдесят чотири гексаграми; уживається у виразах 卦を立てる (ворожити, викладати знак) та よい卦が出る (випав добрий знак).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1956160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 占いでよい卦が出ました。
+- READING :: うらないでよいけがでました。
+- UK :: Під час ворожіння випав добрий знак.
+- FOCUS :: 卦
+*** ex-1956160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 旅に出る前に、易者に頼んで運勢の卦を立ててもらった。
+- READING :: たびにでるまえに、えきしゃにたのんでうんせいのけをたててもらった。
+- UK :: Перед тим як вирушити в подорож, я попросив віщуна викласти знак ворожіння на долю.
+- FOCUS :: 卦
+*** ex-1956160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古来の占術では、竹の棒を使って出た卦の形から未来の吉凶を読み解く。
+- READING :: こらいのせんじゅつでは、たけのぼうをつかってでたけのかたちからみらいのきっきょうをよみとく。
+- UK :: У стародавньому мистецтві ворожіння майбутнє добро чи лихо тлумачать за формою гексаграми, утвореної за допомогою бамбукових паличок.
+- FOCUS :: 卦
+
+* Sense s-1956160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3bcb08372cf70783e37b86170f31926967f92293297191b795cc6e02dc29c9d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1956160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stäbchenorakel
+** Ukrainian glosses
+
+* Sense s-1956160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 460b4b8aba0004b9864a35b22363fa99875bbf45cf297cdfe55bee82e514f490
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1956160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [ицзиновская] триграмма
+*** en-s-1956160-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ср.) はっけ
+** Ukrainian glosses
+
+* Sense s-1956160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fe433d73bb4fa921833180f7be90720396d91befefbb71c0738b45ceae3f02f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1956160-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: señal de adivinación
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1956160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1956160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 1
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: H
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: け

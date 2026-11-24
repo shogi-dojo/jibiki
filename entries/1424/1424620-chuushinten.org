@@ -1,0 +1,192 @@
+#+TITLE: 中心点
+#+JMDICT_ID: 1424620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちゅうしんてん
+#+ROMAJI: chuushinten
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1424620-001
+:PROPERTIES:
+:TEXT: 中心点
+:END:
+** Reading rd-1424620-001
+:PROPERTIES:
+:TEXT: ちゅうしんてん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1424620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2fdd12d820a799e15818897df8b778ca353d3acccdd17bf2b87ea6f176edef93
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- center
+- centre
+** Ukrainian glosses
+*** uk-s-1424620-001-001
+:PROPERTIES:
+:END:
+- text :: центральна точка; центр
+** Learner notes
+*** note-s-1424620-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 中心 («осередок, середина») та 点 («пункт»). Указує на точне геометричне осердя фігури чи простору, а також на головний вузол маршруту або події.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1424620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 円の中心点を求める。
+- READING :: えんのちゅうしんてんをもとめる。
+- UK :: Знайти центральну точку кола.
+- FOCUS :: 中心点
+*** ex-1424620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この公園は街の中心点にある。
+- READING :: このこうえんはまちのちゅうしんてんにある。
+- UK :: Цей парк розташований у самому центрі міста.
+- FOCUS :: 中心点
+*** ex-1424620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地図に赤で印を付けた場所が、今回の調査地域の中心点になる。
+- READING :: ちずにあかでしるしをつけたばしょが、こんかいのちょうさちいきのちゅうしんてんになる。
+- UK :: Місце, позначене червоним на мапі, буде центральною точкою нашої нинішньої зони дослідження.
+- FOCUS :: 中心点
+
+* Sense s-1424620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e01fe869fc5c1a3a402fa99a35deeca5e9148e377fd18ff18add90dc1d1a3291
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424620-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zentrum
+*** en-s-1424620-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mitte
+*** en-s-1424620-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zentraler Punkt
+** Ukrainian glosses
+
+* Sense s-1424620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1acea5bacb0e398237d11e8f2d739cdc533a090665e46db686516cca38932305
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424620-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: centrum
+*** en-s-1424620-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: középcsatár
+*** en-s-1424620-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: központ
+*** en-s-1424620-003-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közbülső
+** Ukrainian glosses
+
+* Sense s-1424620-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a8bec29493549e1cfc114f9e2df9943ae3b0df4a6484a56cd38147b0c22d87a2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1424620-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: центральный пункт, центральная точка; эпицентр (землетрясения)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1424620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1424620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちゅうしんてん

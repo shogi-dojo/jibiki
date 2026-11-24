@@ -1,0 +1,175 @@
+#+TITLE: 直接税
+#+JMDICT_ID: 1431220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょくせつぜい
+#+ROMAJI: chokusetsuzei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1431220-001
+:PROPERTIES:
+:TEXT: 直接税
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1431220-001
+:PROPERTIES:
+:TEXT: ちょくせつぜい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1431220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6023c87947ec9117e4901bfeb8f971fb8f2c4e39f54c43015f0de6221735c817
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- direct tax
+** Ukrainian glosses
+*** uk-s-1431220-001-001
+:PROPERTIES:
+:END:
+- text :: прямий податок
+** Learner notes
+*** note-s-1431220-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і фінансовий термін, утворений із 直接 (безпосередній) та 税 (податок); антонім — 間接税 (непрямий податок). Позначає збір, який сплачується державі безпосередньо платником із його доходів чи майна, як-от 所得税 (прибутковий податок) або податок на спадщину.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1431220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 所得税は代表的な直接税です。
+- READING :: しょとくぜいはだいひょうてきなちょくせつぜいです。
+- UK :: Податок на доходи є типовим прямим податком.
+- FOCUS :: 直接税
+*** ex-1431220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 授業で、直接税と間接税の違いについて詳しく学んだ。
+- READING :: じゅぎょうで、ちょくせつぜいとかんせつぜいのちがいについてくわしくまなんだ。
+- UK :: На занятті ми детально вивчили різницю між прямими та непрямими податками.
+- FOCUS :: 直接税
+*** ex-1431220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 景気の変動を受けやすい直接税の割合が高い国では、税収の安定を図る議論が絶えない。
+- READING :: けいきのへんどうをうけやすいちょくせつぜいのわりあいがたかいくにでは、ぜいしゅうのあんていをはかるぎろんがたえない。
+- UK :: У країнах із високою часткою прямих податків, чутливих до коливань економіки, не вщухають дискусії про стабілізацію бюджетних надходжень.
+- FOCUS :: 直接税
+
+* Sense s-1431220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6a33842884d2a6f1ea5dd47d5a94d0815e001bdecad235c7d2446bbbf197aebf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431220-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: direkte Steuer
+** Ukrainian glosses
+
+* Sense s-1431220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0851ff93ab4d9c4b779115fe8624b4e132fba9314a2f35867a7bd60232a74966
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431220-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: прямой налог
+** Ukrainian glosses
+
+* Sense s-1431220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 833149735d42b2ca5c548dbc44b729d5316333ea500bd345212a1a8732940e27
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431220-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: impuesto directo
+** Ukrainian glosses
+
+* Sense s-1431220-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e4e52b921155889517bd0dba7fd8464d4972596103bc85e2bb1778bafc6c9fb9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1431220-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: direkt skatt
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1431220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1431220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ちょくせつぜい

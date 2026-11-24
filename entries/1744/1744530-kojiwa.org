@@ -1,0 +1,173 @@
+#+TITLE: 小じわ
+#+JMDICT_ID: 1744530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こじわ
+#+ROMAJI: kojiwa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1744530-001
+:PROPERTIES:
+:TEXT: 小じわ
+:END:
+** Written form wf-1744530-002
+:PROPERTIES:
+:TEXT: 小皺
+:END:
+** Reading rd-1744530-001
+:PROPERTIES:
+:TEXT: こじわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1744530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3b52dc1533476524f0a9158c630676107dabe4eb142ea034879485e3296240c3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- fine wrinkles
+- crow's feet
+** Ukrainian glosses
+*** uk-s-1744530-001-001
+:PROPERTIES:
+:END:
+- text :: дрібні зморшки; «гусячі лапки» (біля очей)
+** Learner notes
+*** note-s-1744530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (також уживається як означення з часткою の). Складається з префікса 小 («малий, дрібний») та しわ («зморшка»). На відміну від 皺 («глибокі зморшки»), позначає саме дрібну сіточку зморшок на шкірі обличчя, зокрема навколо очей або рота.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1744530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 目元の小じわが気になる。
+- READING :: めもとのこじわがきになる。
+- UK :: Мене турбують дрібні зморшки біля очей.
+- FOCUS :: 小じわ
+*** ex-1744530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 乾燥する季節は、目のまわりに小じわができやすい。
+- READING :: かんそうするきせつは、めのまわりにこじわができやすい。
+- UK :: У суху пору року навколо очей легко з'являються дрібні зморшки.
+- FOCUS :: 小じわ
+*** ex-1744530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 保湿力の高いクリームを毎日使うことで、口元の小じわを目立たなくする効果が期待できる。
+- READING :: ほしつりょくのたかいくりーむをまいにちつかうことで、くちもとのこじわをめだたなくするこうかがきたいできる。
+- UK :: Завдяки щоденному використанню крему з високим зволожувальним ефектом можна розраховувати на зменшення помітності дрібних зморшок біля рота.
+- FOCUS :: 小じわ
+
+* Sense s-1744530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3c8aca25d6c91f437d0eb210e4457b2c10b4c86b19e8e82e17cbd7750edc96fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744530-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rimpeltjes
+*** en-s-1744530-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kreukjes
+*** en-s-1744530-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {目尻の} kraaienpootjes
+** Ukrainian glosses
+
+* Sense s-1744530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1c396693146c186dcbf62601250ae0410711758b60900adc43494c37e4dc7d5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744530-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Krähenfüße (feine Fältchen an den äußeren Augenwinkeln)
+** Ukrainian glosses
+
+* Sense s-1744530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c9494920c2f337294298879ccc93c2e97050b6b5d2887d58e8450cf8b517cad7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1744530-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: морщинки; гусиные лапки (около глаз)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1744530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1744530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こじわ

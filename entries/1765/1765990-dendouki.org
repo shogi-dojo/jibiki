@@ -1,0 +1,151 @@
+#+TITLE: 電動機
+#+JMDICT_ID: 1765990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: でんどうき
+#+ROMAJI: dendouki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1765990-001
+:PROPERTIES:
+:TEXT: 電動機
+:END:
+** Reading rd-1765990-001
+:PROPERTIES:
+:TEXT: でんどうき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1765990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5fc99da36b23c9f61c3c1a18fdcc8d97a38d9ee34d8da220d6c3fb1e2a016303
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- electric motor
+** Ukrainian glosses
+*** uk-s-1765990-001-001
+:PROPERTIES:
+:END:
+- text :: електродвигун, електромотор
+** Learner notes
+*** note-s-1765990-001-001
+:PROPERTIES:
+:END:
+- UK :: Технічний іменник зі складників 電動 («електричний привід») і 機 («машина, механізм»). Офіційний і науково-технічний відповідник до більш поширеного в побуті запозичення モーター; антонім до 発電機 («генератор»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1765990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この工場では小型の電動機を作っています。
+- READING :: このこうじょうではこがたのでんどうきをつくっています。
+- UK :: На цьому заводі виготовляють малогабаритні електродвигуни.
+- FOCUS :: 電動機
+*** ex-1765990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 電気のエネルギーを回転する力に変える装置を電動機と呼ぶ。
+- READING :: でんきのえねるぎーをかいてんするちからにかえるそうちをでんどうきとよぶ。
+- UK :: Пристрій, який перетворює електричну енергію на силу обертання, називають електродвигуном.
+- FOCUS :: 電動機
+*** ex-1765990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 省エネルギー化を進めるため、工場の古い設備をより効率の高い最新の電動機に交換した。
+- READING :: しょうえねるぎーかをすすめるため、こうじょうのふるいせつびをよりこうりつのたかいさいしんのでんどうきにこうかんした。
+- UK :: Заради енергозбереження старе обладнання на підприємстві замінили на сучасні електродвигуни з вищим коефіцієнтом корисної дії.
+- FOCUS :: 電動機
+
+* Sense s-1765990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0e388fe92a8489356d8cd1fec172027f648aed2a23e761b0f93a1aecb1b2ae65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765990-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Elektromotor
+** Ukrainian glosses
+
+* Sense s-1765990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a5647b79faa1ed6f64c7499a1dd6e9114c29c636e725d3da92a98ff381f085d6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765990-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: электромотор
+** Ukrainian glosses
+
+* Sense s-1765990-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 7b8a735258cc66764c137f82d7980a6fb0d8cf5f0bb1bf3db35dc4a92c24c912
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1765990-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: elmotor
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1765990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1765990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: でんどうき

@@ -1,0 +1,179 @@
+#+TITLE: 冥王星
+#+JMDICT_ID: 1531240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: めいおうせい
+#+ROMAJI: meiousei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1531240-001
+:PROPERTIES:
+:TEXT: 冥王星
+:END:
+** Reading rd-1531240-001
+:PROPERTIES:
+:TEXT: めいおうせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1531240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 61d1eb71b8217ea1786e68cb6a18d987fc13c86ab1bd1ae318e118f965b88a95
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- astron
+** English glosses
+- Pluto (dwarf planet)
+** Ukrainian glosses
+*** uk-s-1531240-001-001
+:PROPERTIES:
+:END:
+- text :: Плутон (карликова планета)
+** Learner notes
+*** note-s-1531240-001-001
+:PROPERTIES:
+:END:
+- UK :: Астрономічний термін, утворений із 冥王 (володар підземного царства, Плутон) і 星 (зірка, небесне тіло). Позначає карликову планету Сонячної системи, яку до 2006 року класифікували як дев'яту планету.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1531240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冥王星はとても遠い場所にある。
+- READING :: めいおうせいはとてもとおいばしょにある。
+- UK :: Плутон розташований дуже далеко.
+- FOCUS :: 冥王星
+*** ex-1531240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 太陽から離れているため、冥王星の表面は極端に冷たい。
+- READING :: たいようからはなれているため、めいおうせいのひょうめんはきょくたんにつめたい。
+- UK :: Через велику віддаленість від Сонця поверхня Плутона надзвичайно холодна.
+- FOCUS :: 冥王星
+*** ex-1531240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 探査機の観測によって、冥王星には氷の平原や山脈が存在することが明らかになった。
+- READING :: たんさきのかんそくによって、めいおうせいにはこおりのへいげんやさんみゃくがそんざいすることがあきらかになった。
+- UK :: Завдяки спостереженням космічного зонда з'ясувалося, що на Плутоні є крижані рівнини й гірські хребти.
+- FOCUS :: 冥王星
+
+* Sense s-1531240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 73161bfdcd3ee32ccee8c744643395f99fc42d1cf7a133f4cacf53ef53c71e84
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1531240-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {astron.} Pluto
+** Ukrainian glosses
+
+* Sense s-1531240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 70d35a52e9b2e8d5cc8c84e88049e676e45c7dbcea339435909973ebcf6ee7e2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1531240-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pluto (neunter Planet unseres Sonnensystems)
+** Ukrainian glosses
+
+* Sense s-1531240-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: bad4209d2cb87a1a50d5cae10466ad1a0c2f27ccf4eb9281bc0b8c6d59a89b0a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1531240-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (астр. астрол.) Плутон
+*** en-s-1531240-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (астр.) Плутон
+** Ukrainian glosses
+
+* Sense s-1531240-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 5047b427da865a94fb7a71ee4b95d5651bb15f04741c0a97b481f9c4375fa1ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1531240-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Plutón (planeta enano)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1531240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1531240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: めいおうせい

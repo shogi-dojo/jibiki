@@ -1,0 +1,155 @@
+#+TITLE: 思い合わせる
+#+JMDICT_ID: 1851360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おもいあわせる
+#+ROMAJI: omoiawaseru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1851360-001
+:PROPERTIES:
+:TEXT: 思い合わせる
+:END:
+** Written form wf-1851360-002
+:PROPERTIES:
+:TEXT: 思い合せる
+:END:
+** Reading rd-1851360-001
+:PROPERTIES:
+:TEXT: おもいあわせる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1851360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 68a24f2bad68108dc20296ec18e493686d2d065f9640c21d749fd791530558e7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vt
+** English glosses
+- to consider (all the circumstances)
+- to bear (a number of things) in mind
+** Ukrainian glosses
+*** uk-s-1851360-001-001
+:PROPERTIES:
+:END:
+- text :: зіставляти в думках; брати до уваги (усі обставини); пов'язувати одне з одним
+** Learner notes
+*** note-s-1851360-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово другої дієвідміни (一段動詞), утворене поєднанням 思う («думати») та 合わせる («зводити докупи»). Означає порівняння кількох фактів, деталей чи подій, щоб дійти певного висновку; часто вживається у формах 思い合わせてみると чи 思い合わせると.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1851360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの話を思い合わせると、理由が分かります。
+- READING :: ふたつのはなしをおもいあわせると、りゆうがわかります。
+- UK :: Якщо зіставити дві розповіді, причина стає зрозумілою.
+- FOCUS :: 思い合わせる
+*** ex-1851360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: これまでの経緯を思い合わせてみると、彼の行動にも納得がいく。
+- READING :: これまでのけいいをおもいあわせてみると、かれのこうどうにもなっとくがいく。
+- UK :: Якщо зважити на всі попередні події, його вчинок також стає зрозумілим.
+- FOCUS :: 思い合わせて
+*** ex-1851360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 目撃者の証言と現場の証拠を思い合わせれば、事件の全体像が浮かび上がってくる。
+- READING :: もくげきしゃのしょうげんとげんばのしょうこをおもいあわせれば、じけんのぜんたいぞうがうかびあがってくる。
+- UK :: Якщо зіставити свідчення очевидців і докази з місця події, вимальовується загальна картина інциденту.
+- FOCUS :: 思い合わせれば
+
+* Sense s-1851360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7bc664654c3f79735920bf23113ff98bfc2313f928ab86b0c08857ad48a34819
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1851360-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen anderen Gedanken heranziehen
+*** en-s-1851360-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abwägen
+*** en-s-1851360-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hinzudenken
+** Ukrainian glosses
+
+* Sense s-1851360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e300f1cf895c0c559c1576abffe394bec8afc5509c0c6ed3dcec584f4d3060f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1851360-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [мысленно] сопоставлять; брать в совокупности
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1851360-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1851360-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 6
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: おもいあわせる

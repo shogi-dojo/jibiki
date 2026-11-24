@@ -1,0 +1,175 @@
+#+TITLE: 貯蔵庫
+#+JMDICT_ID: 1942660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょぞうこ
+#+ROMAJI: chozouko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1942660-001
+:PROPERTIES:
+:TEXT: 貯蔵庫
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1942660-001
+:PROPERTIES:
+:TEXT: ちょぞうこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1942660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1ef6f3e3e684b1ed7415ec79166d261c00239539b898d5409e4a495b2b70b0b6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- storehouse
+- bunker
+- silo
+** Ukrainian glosses
+*** uk-s-1942660-001-001
+:PROPERTIES:
+:END:
+- text :: сховище, склад, комора; бункер, силос
+** Learner notes
+*** note-s-1942660-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник із 貯蔵 («зберігання, запас») та 庫 («сховище, склад»). Позначає спеціально обладнане приміщення чи споруду для тривалого зберігання продуктів, зерна, льоду, палива або насіння (наприклад, 種子貯蔵庫 — «банк насіння»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1942660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭の奥に小さな貯蔵庫があります。
+- READING :: にわのおくにちいさなちょぞうこがあります。
+- UK :: У глибині саду є невелике сховище.
+- FOCUS :: 貯蔵庫
+*** ex-1942660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 秋に収穫したたくさんのリンゴは、温度を保った貯蔵庫で保管される。
+- READING :: あきにしゅうかくしたたくさんのりんごは、おんどをたもったちょぞうこでほかんされる。
+- UK :: Велику кількість зібраних восени яблук зберігають у сховищі з підтримуваною температурою.
+- FOCUS :: 貯蔵庫
+*** ex-1942660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 災害時の食料不足に備えて、自治体ごとに非常食を備蓄する専用の貯蔵庫が整備されている。
+- READING :: さいがいじのしょくりょうぶそくにそなえて、じちたいごとにひじょうしょくをびちくするせんようのちょぞうこがせいびされている。
+- UK :: Готуючись до нестачі харчів у разі стихійного лиха, кожен муніципалітет облаштовує спеціальні сховища для запасів продуктів.
+- FOCUS :: 貯蔵庫
+
+* Sense s-1942660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ce3eae67492a8b551978fdf6af410c2bd14db26fe0fcfa7fc5e3a5f1e718c6de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942660-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Speicher
+*** en-s-1942660-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lagerhaus
+*** en-s-1942660-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Magazin
+** Ukrainian glosses
+
+* Sense s-1942660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87b00d84a2d855aacbe707fae7543e013726497f503cf537cecb729448bb65c9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942660-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: кладовая, хранилище, склад
+** Ukrainian glosses
+
+* Sense s-1942660-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e0f6e22e7c3714365f64c7b654fcbf6ad1bffc10f7315b04039e93c76f44d6f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942660-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: magasin
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1942660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1942660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ちょぞうこ

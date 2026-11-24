@@ -1,0 +1,149 @@
+#+TITLE: はげ山
+#+JMDICT_ID: 1688570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はげやま
+#+ROMAJI: hageyama
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1688570-001
+:PROPERTIES:
+:TEXT: はげ山
+:END:
+** Written form wf-1688570-002
+:PROPERTIES:
+:TEXT: 禿げ山
+:END:
+** Written form wf-1688570-003
+:PROPERTIES:
+:TEXT: 禿山
+:END:
+** Written form wf-1688570-004
+:PROPERTIES:
+:TEXT: ハゲ山
+:END:
+*** Information
+- sK
+** Reading rd-1688570-001
+:PROPERTIES:
+:TEXT: はげやま
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1688570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e5705995ed837d9262d6291c4f4d92d69cf0853fc65e7e78be99cd5fb0ad6160
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bald mountain
+- bare mountain
+- treeless hill
+** Ukrainian glosses
+*** uk-s-1688570-001-001
+:PROPERTIES:
+:END:
+- text :: лиса гора; оголений схил гори (без лісу)
+** Learner notes
+*** note-s-1688570-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 禿げる («лисіти, оголюватися») та 山 («гора»). Позначає гору чи пагорб, позбавлені дерев і рослинності внаслідок вирубки, лісової пожежі або ерозії ґрунту; ієрогліф 禿 зазвичай замінюють каною (はげ山).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1688570-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この辺りは昔はげ山だった。
+- READING :: このあたりはむかしはげやまだった。
+- UK :: Колись у цій місцевості була лиса гора.
+- FOCUS :: はげ山
+*** ex-1688570-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 木を切りすぎて、山がはげ山になってしまった。
+- READING :: きをきりすぎて、やまがはげやまになってしまった。
+- UK :: Через надмірну вирубку дерев гора зовсім оголилася.
+- FOCUS :: はげ山
+*** ex-1688570-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 土砂崩れを防ぐため、かつてのはげ山に再び苗木を植える活動が続けられている。
+- READING :: どしゃくずれをふせぐため、かつてのはげやまにふたたびなえぎをうえるかつどうがつづけられている。
+- UK :: Щоб запобігти зсувам, на колись оголеній горі й далі висаджують молоді саджанці.
+- FOCUS :: はげ山
+
+* Sense s-1688570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e4909de94d55d8ddc28c793fcd42148166336bcc88b096c665112044d35d6c2e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688570-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kahler Berg
+** Ukrainian glosses
+
+* Sense s-1688570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5bbb3b3ab4203cfdc14e95f778cb2fdfff9dd626379e82c51ceb760b77e85fd7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1688570-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лысая гора
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1688570-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1688570-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はげやま

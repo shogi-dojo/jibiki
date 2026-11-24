@@ -1,0 +1,183 @@
+#+TITLE: 陣屋
+#+JMDICT_ID: 1833530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じんや
+#+ROMAJI: jinya
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1833530-001
+:PROPERTIES:
+:TEXT: 陣屋
+:END:
+*** Priorities
+- news2
+- nf36
+** Reading rd-1833530-001
+:PROPERTIES:
+:TEXT: じんや
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf36
+
+* Sense s-1833530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bc92d35ce41d7377c4d8f227d8955c43b114c0ebec81059789325620738b5abb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- encampment
+** Ukrainian glosses
+*** uk-s-1833530-001-001
+:PROPERTIES:
+:END:
+- text :: військовий табір; польовий стан
+** Learner notes
+*** note-s-1833530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник від 陣 («військовий табір, стрій») та 屋 («будівля, оселя»). У прямому значенні позначає тимчасовий укріплений табір або штаб війська під час бойового походу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1833530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山のふもとに兵士たちの陣屋があります。
+- READING :: やまのふもとにへいしたちのじんやがあります。
+- UK :: Біля підніжжя гори розташований військовий табір солдатів.
+- FOCUS :: 陣屋
+*** ex-1833530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 夜になると、陣屋のまわりにかがり火がたかれました。
+- READING :: よるになると、じんやのまわりにかがりびがたかれました。
+- UK :: Коли настала ніч, навколо військового табору розпалили вогнища.
+- FOCUS :: 陣屋
+*** ex-1833530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦場へ出発する前に、武将たちは陣屋に集まって次の作戦を確認しました。
+- READING :: せんじょうへしゅっぱつするまえに、ぶしょうたちはじんやにあつまってつぎのさくせんをかくにんしました。
+- UK :: Перед виходом на поле бою воєначальники зібралися у військовому таборі, щоб узгодити наступний план дій.
+- FOCUS :: 陣屋
+
+* Sense s-1833530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2ad456f36fd753257b8886be94d67476dc0360298ecc51878db66d0a4d098252
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- official residence (of a magistrate or minor feudal lord)
+- administrative headquarters (of a minor daimyo or shogunate deputy)
+** Ukrainian glosses
+*** uk-s-1833530-002-001
+:PROPERTIES:
+:END:
+- text :: джін'я (адміністративна резиденція дрібного даймьо або намісника шьоґунату)
+** Learner notes
+*** note-s-1833530-002-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін доби Едо. Так називали адміністративно-житловий комплекс без повноцінного замку, у якому розміщувалися органи управління дрібного феодального володіння або намісника (代官) шьоґунату Токуґава.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1833530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f6d6ab8fe9b069a5da11c1b46ecddba064297435d666b17cbf069a15403ffda9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1833530-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Feldlager
+** Ukrainian glosses
+
+* Sense s-1833530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1898182b627e1e0f9a3268b0c6e2a19475084d7f4079a7e3cbaaca9f0d27ac25
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1833530-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: táborhely
+** Ukrainian glosses
+
+* Sense s-1833530-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 4dc5297d6bcc41740283f7b191682cdb7dc8af5f5b87a13180a95cbd39f97b1b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1833530-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) военный лагерь; резиденция представителя сёгуна (в эпоху Токугава)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1833530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1833530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じんや

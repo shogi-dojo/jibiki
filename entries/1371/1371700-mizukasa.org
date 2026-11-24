@@ -1,0 +1,187 @@
+#+TITLE: 水かさ
+#+JMDICT_ID: 1371700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みずかさ
+#+ROMAJI: mizukasa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1371700-001
+:PROPERTIES:
+:TEXT: 水かさ
+:END:
+*** Priorities
+- news2
+- nf46
+** Written form wf-1371700-002
+:PROPERTIES:
+:TEXT: 水嵩
+:END:
+** Reading rd-1371700-001
+:PROPERTIES:
+:TEXT: みずかさ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1371700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1cd8ed5b1c71388399ed4696578492fcfc14efc8cdc24429346bcf058c26e992
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- volume of water (in a river, pond, flood, etc.)
+** Ukrainian glosses
+*** uk-s-1371700-001-001
+:PROPERTIES:
+:END:
+- text :: об'єм води; рівень води
+** Learner notes
+*** note-s-1371700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає кількість або рівень води в річці, ставку чи під час повені. Часто трапляється у сполученні 水かさが増す («рівень води піднімається», «вода прибуває»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1371700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川の水かさが増えた。
+- READING :: かわのみずかさがふえた。
+- UK :: Рівень води в річці піднявся.
+- FOCUS :: 水かさ
+*** ex-1371700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昨日の大雨で、池の水かさがかなり増しています。
+- READING :: きのうのおおあめで、いけのみずかさがかなりましています。
+- UK :: Через учорашню зливу рівень води у ставку помітно піднявся.
+- FOCUS :: 水かさ
+*** ex-1371700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 雪解けの季節になると、山から流れる川の水かさが急激に増すことがある。
+- READING :: ゆきどけのきせつになると、やまからながれるかわのみずかさがきゅうげきにますことがある。
+- UK :: Коли настає пора танення снігу, об'єм води в гірських річках може стрімко зростати.
+- FOCUS :: 水かさ
+
+* Sense s-1371700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7bf51a7a370b224712a8f3cbe9fb6e5cbb14df641f0422186b8e2ce34f5643d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371700-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volume d'eau
+** Ukrainian glosses
+
+* Sense s-1371700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cf4f9a3b24968ca2322d9db66a56a5391667b812fd2fb0783fd743d2be92c6d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371700-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserstand
+*** en-s-1371700-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserpegel
+** Ukrainian glosses
+
+* Sense s-1371700-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 66cafa9732f3c395bc9858ca0539dab9efa67431e93dc3f261932ec1dbd9a400
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371700-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wassermenge
+** Ukrainian glosses
+
+* Sense s-1371700-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: e0c8c2a316e32f88c613594f464d5dcfb72b5c88387dbd804a03cad467eb145f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1371700-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: объём (уровень) воды
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1371700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1371700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: みずかさ

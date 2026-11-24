@@ -1,0 +1,158 @@
+#+TITLE: 品薄
+#+JMDICT_ID: 1490660
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しなうす
+#+ROMAJI: shinausu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1490660-001
+:PROPERTIES:
+:TEXT: 品薄
+:END:
+*** Priorities
+- news2
+- nf28
+** Reading rd-1490660-001
+:PROPERTIES:
+:TEXT: しなうす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf28
+
+* Sense s-1490660-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c6c11344d46e31f3275ae4cd509d0607ad7237fc06c8e1bc353905e2e2fae1b0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-na
+** English glosses
+- shortage of stock
+- scarcity of goods
+- being in short supply
+** Ukrainian glosses
+*** uk-s-1490660-001-001
+:PROPERTIES:
+:END:
+- text :: брак товару, дефіцит на складі чи в продажу
+** Learner notes
+*** note-s-1490660-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і な-прикметник, утворений від 品 («товар») та 薄 («тонкий, мізерний»). Позначає тимчасову нестачу певного товару в магазинах або на ринку через підвищений попит чи затримку постачання; типові конструкції — 品薄になる («стати дефіцитним»), 品薄状態 («дефіцит товару»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1490660-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 人気のお菓子が店で品薄になっている。
+- READING :: にんきのおかしがみせでしなうすになっている。
+- UK :: Популярних солодощів у магазині зараз бракує.
+- FOCUS :: 品薄
+*** ex-1490660-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 台風の影響で野菜の出荷が遅れ、スーパーの棚が品薄になった。
+- READING :: たいふうのえいきょうでやさいのしゅっかがおくれ、すーぱーのたながしなうすになった。
+- UK :: Через тайфун затрималося постачання овочів, і полиці супермаркету спорожніли.
+- FOCUS :: 品薄
+*** ex-1490660-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 新製品の発売直後は品薄状態が続き、予約なしではなかなか手に入らなかった。
+- READING :: しんせいひんのはつばいちょくごはしなうすじょうたいがつづき、よやくなしではなかなかてにはいらなかった。
+- UK :: Одразу після виходу новинки тривав дефіцит товару, тож без попереднього замовлення її було важко дістати.
+- FOCUS :: 品薄
+
+* Sense s-1490660-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 073d654320b5d31bf0dbc3fcd0acfb27166315b93362409e2519aa0c97f7f96f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490660-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Warenmangel
+*** en-s-1490660-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Warenknappheit
+** Ukrainian glosses
+
+* Sense s-1490660-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de40717c34612e610f5e3770dc8fa006622ab4958c48f06c63e2b047c06553ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1490660-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: недостаток (нехватка) товаров
+*** en-s-1490660-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～になる} не хватать (о товаре)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1490660-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1490660-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しなうす

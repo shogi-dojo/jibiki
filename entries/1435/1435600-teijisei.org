@@ -1,0 +1,157 @@
+#+TITLE: 定時制
+#+JMDICT_ID: 1435600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていじせい
+#+ROMAJI: teijisei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1435600-001
+:PROPERTIES:
+:TEXT: 定時制
+:END:
+*** Priorities
+- news1
+- nf18
+** Reading rd-1435600-001
+:PROPERTIES:
+:TEXT: ていじせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf18
+
+* Sense s-1435600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ac5d5b3e5c67bdc545527da6145f89f930046bf35d571751536d7c15dfc22b04
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- part time (school system)
+** Ukrainian glosses
+*** uk-s-1435600-001-001
+:PROPERTIES:
+:END:
+- text :: вечірня (позмінна) форма навчання
+** Learner notes
+*** note-s-1435600-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (часто у сполученні 定時制高校 — вечірня старша школа). Позначає систему навчання в певні встановлені години — здебільшого ввечері або за гнучким графіком — для учнів, які працюють удень; антонім — 全日制 (денна форма навчання).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1435600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 姉は定時制の高校に通っている。
+- READING :: あねはていじせいのこうこうにかよっている。
+- UK :: Моя старша сестра ходить до вечірньої старшої школи.
+- FOCUS :: 定時制
+*** ex-1435600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昼間は工場で働きながら、定時制で卒業資格を目指す若者もいる。
+- READING :: ひるまはこうじょうではたらきながら、ていじせいでそつぎょうしかくをめざすわかものもいる。
+- UK :: Є молоді люди, які вдень працюють на заводі, а ввечері навчаються на вечірній формі, щоб здобути атестат.
+- FOCUS :: 定時制
+*** ex-1435600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 全日制から定時制へ転校した彼は、自分の生活リズムに合わせて無理なく勉強を続けられるようになった。
+- READING :: ぜんにちせいからていじせいへてんこうしたかれは、じぶんのせいかつりずむにあわせてむりなくべんきょうをつづけられるようになった。
+- UK :: Перевівшись із денної школи до вечірньої, він зміг продовжити навчання без перевантаження, узгодивши його зі своїм ритмом життя.
+- FOCUS :: 定時制
+
+* Sense s-1435600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b894385a2ec98079626ac0df0c8fbc87fb707cb0973e290fc1d9ed6824bf8675
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435600-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilzeitschulsystem
+** Ukrainian glosses
+
+* Sense s-1435600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a6080ebd4c9be4b79e3569aea0cfc79cae27fb3ba70d5febda07043e3ec64b3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435600-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Teilzeitschule
+** Ukrainian glosses
+
+* Sense s-1435600-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e43f490ed4351360c374844d9f58ee17137f8684033b9f3a84d8be388dda79dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435600-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: система преподавания в особые часы (особые дни (и т. п., напр. вечерняя школа); (ант.) ぜんじつせい【全日制】)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1435600-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1435600-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ていじせい

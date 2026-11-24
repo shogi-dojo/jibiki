@@ -1,0 +1,167 @@
+#+TITLE: 機関長
+#+JMDICT_ID: 1932710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きかんちょう
+#+ROMAJI: kikanchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1932710-001
+:PROPERTIES:
+:TEXT: 機関長
+:END:
+** Reading rd-1932710-001
+:PROPERTIES:
+:TEXT: きかんちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1932710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0eb2943104e26b592ffe16a59a36133190952c58fb8b18c0b5342ab3bfd9890c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- chief engineer
+** Ukrainian glosses
+*** uk-s-1932710-001-001
+:PROPERTIES:
+:END:
+- text :: старший механік, головний інженер-механік
+** Learner notes
+*** note-s-1932710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення керівника машинної служби, насамперед на морському судні (старшого механіка, який відповідає за двигуни й технічне обладнання). Утворено від 機関 (двигун, механізм) і 長 (голова, начальник).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1932710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 兄は大きな船の機関長です。
+- READING :: あにはおおきなふねのきかんちょうです。
+- UK :: Мій старший брат — старший механік на великому судні.
+- FOCUS :: 機関長
+*** ex-1932710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: エンジンの調子について、機関長に確認しました。
+- READING :: えんじんのちょうしについて、きかんちょうにかくにんしました。
+- UK :: Я уточнив у старшого механіка щодо стану двигуна.
+- FOCUS :: 機関長
+*** ex-1932710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長い航海の間、機関長は毎日機械室を見回って異常がないか点検していた。
+- READING :: ながいこうかいのあいだ、きかんちょうはまいにちきかいしつをみまわっていじょうがないかてんけんしていた。
+- UK :: Під час тривалого плавання старший механік щодня обходив машинне відділення та перевіряв, чи немає несправностей.
+- FOCUS :: 機関長
+
+* Sense s-1932710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 071bfde4e68c732c035ffd0a748f4ee1853ac656c7a8147c045ea6ccb81a6134
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1932710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chefmaschinist
+*** en-s-1932710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Maschinenoffizier
+** Ukrainian glosses
+
+* Sense s-1932710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87eb89917f40cdd7b1fdc59656fc7260ceb48cb1906b284bcb66a852232769cf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1932710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: главный инженер-механик
+** Ukrainian glosses
+
+* Sense s-1932710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c1712fd90205cd999f16e852771f2b9daf52708b2504d2cdcca7774c7e1339b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1932710-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: maskinchef
+*** en-s-1932710-004-002
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: överingenjör
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1932710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1932710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きかんちょう

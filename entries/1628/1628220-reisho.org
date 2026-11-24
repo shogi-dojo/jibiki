@@ -1,0 +1,157 @@
+#+TITLE: 隷書
+#+JMDICT_ID: 1628220
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れいしょ
+#+ROMAJI: reisho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1628220-001
+:PROPERTIES:
+:TEXT: 隷書
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1628220-001
+:PROPERTIES:
+:TEXT: れいしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1628220-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: efdf0a1791816b7a1a0305f7e48647ceeb3e409346112321ee89d2c46e5a43aa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- clerical script (ancient, highly angular style of kanji)
+** Ukrainian glosses
+*** uk-s-1628220-001-001
+:PROPERTIES:
+:END:
+- text :: канцелярський стиль письма; рейшьо
+** Learner notes
+*** note-s-1628220-001-001
+:PROPERTIES:
+:END:
+- UK :: Каліграфічний та історичний іменник; стиль ієрогліфічного письма (隷書体), що сформувався в давньому Китаї за династій Цінь і Хань. Вирізняється горизонтальною приплюснутістю знаків і чіткими кутастими рисками.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1628220-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私は書道教室で隷書を習っている。
+- READING :: わたしはしょどうきょうしつでれいしょをならっている。
+- UK :: Я вивчаю стиль рейшьо на заняттях із каліграфії.
+- FOCUS :: 隷書
+*** ex-1628220-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 日本の紙幣の文字には、隷書の要素が取り入れられている。
+- READING :: にほんのしへいのもじには、れいしょのようそがとりいれられている。
+- UK :: У написанні ієрогліфів на японських банкнотах використано елементи стилю рейшьо.
+- FOCUS :: 隷書
+*** ex-1628220-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 漢の時代に広まった隷書は、のちに楷書が生まれる土台となった。
+- READING :: かんのじだいにひろまったれいしょは、のちにかいしょがうまれるどだいとなった。
+- UK :: Стиль рейшьо, що поширився за часів династії Хань, згодом став основою для виникнення статутного письма 楷書.
+- FOCUS :: 隷書
+
+* Sense s-1628220-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1da1307d9b76a3d9e0419608ce610cc23048b296aab44cc4836195a1976aa893
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1628220-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ancien style de kanjis
+** Ukrainian glosses
+
+* Sense s-1628220-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 488ced49b655a2ddfcb261f22b81509bd080f342f7c1199c82cbc855e447698d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1628220-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reisho (archaischer auf Siegelschrift basierender Schriftstil aus der Qing-Zeit)
+** Ukrainian glosses
+
+* Sense s-1628220-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e0a96a9bc50db2caa498a29953ce94ed27fb709b40365ab1cc76d5cf769b7d33
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1628220-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рэйсё (старинная форма иероглифического письма)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1628220-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1628220-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: れいしょ

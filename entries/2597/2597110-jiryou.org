@@ -1,0 +1,133 @@
+#+TITLE: 寺領
+#+JMDICT_ID: 2597110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じりょう
+#+ROMAJI: jiryou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2597110-001
+:PROPERTIES:
+:TEXT: 寺領
+:END:
+** Reading rd-2597110-001
+:PROPERTIES:
+:TEXT: じりょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2597110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 51f1093333f0a6d6b9f9bed05afe980b3a10bcad97c2ce40b249e37da0c356a8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- temple's territory
+- temple's estate
+** Ukrainian glosses
+*** uk-s-2597110-001-001
+:PROPERTIES:
+:END:
+- text :: храмові володіння; монастирські землі
+** Learner notes
+*** note-s-2597110-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник історичного та книжного стилю, утворений зі знаків 寺 (буддійський храм) та 領 (володіння, територія). Позначає землі та маєтки, що належали буддійському храмові в середньовічній та ранньомодерній Японії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2597110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この村はかつて寺領だった。
+- READING :: このむらはかつてじりょうだった。
+- UK :: Це село колись було храмовим володінням.
+- FOCUS :: 寺領
+*** ex-2597110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 中世には広大な寺領を治める大寺院も少なくなかった。
+- READING :: ちゅうせいにはこうだいなじりょうをおさめるだいじいんもすくなくなかった。
+- UK :: У середньовіччі було чимало великих храмів, які управляли розлогими храмовими землями.
+- FOCUS :: 寺領
+*** ex-2597110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦国時代になると、大名たちが勢力を広げる過程で周辺の寺領を次々と没収した。
+- READING :: せんごくじだいになると、だいみょうたちがせいりょくをひろげるかていでしゅうへんのじりょうをつぎつぎとぼっしゅうした。
+- UK :: У період Сенґоку даймьо, розширюючи свій вплив, одне за одним конфіскували навколишні храмові володіння.
+- FOCUS :: 寺領
+
+* Sense s-2597110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3eedfe885e44e6897fefb23f68761510f8127b50c01375aeb6ed8f144b59b516
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2597110-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: храмовые владения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2597110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2597110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じりょう
+** Accent accent-rd-2597110-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2597110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じりょう

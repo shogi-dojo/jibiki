@@ -1,0 +1,168 @@
+#+TITLE: 節回し
+#+JMDICT_ID: 1655970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふしまわし
+#+ROMAJI: fushimawashi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1655970-001
+:PROPERTIES:
+:TEXT: 節回し
+:END:
+** Reading rd-1655970-001
+:PROPERTIES:
+:TEXT: ふしまわし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1655970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 09ebca3ed1bd180bf901db7ace3c774b85d78f83865e267fbdb5d237ca350273
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- melody
+- intonation
+** Ukrainian glosses
+*** uk-s-1655970-001-001
+:PROPERTIES:
+:END:
+- text :: мелодика співу; інтонація, манера виконання
+** Learner notes
+*** note-s-1655970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 節 (мотив, мелодія) та основи дієслова 回す (варіювати, виводити). Означає характерне ведення мелодії та вокальні переливи у співі (зокрема в 民謡 чи 演歌), а також своєрідну інтонацію й ритм мовлення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1655970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この歌の節回しが好きだ。
+- READING :: このうたのふしまわしがすきだ。
+- UK :: Мені подобається мелодика цієї пісні.
+- FOCUS :: 節回し
+*** ex-1655970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ベテラン歌手の独特な節回しに客席が魅了された。
+- READING :: べてらんかしゅのどくとくなふしまわしにきゃくせきがみりょうされた。
+- UK :: Глядачів зачарувала своєрідна манера співу досвідченого співака.
+- FOCUS :: 節回し
+*** ex-1655970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地方ごとに受け継がれてきた民謡には、その土地の言葉と結びついた豊かな節回しがある。
+- READING :: ちほうごとにうけつがれてきたみんようには、そのとちのことばとむすびついたゆたかなふしまわしがある。
+- UK :: У народних піснях, які передаються з покоління в покоління в різних регіонах, є багата мелодика, тісно пов'язана з місцевою говіркою.
+- FOCUS :: 節回し
+
+* Sense s-1655970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 688a5e5d7441e5de57ee06ccb0c0b735e256670021cad0689609d8d8674ee2b3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1655970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Melodie
+*** en-s-1655970-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weise
+** Ukrainian glosses
+
+* Sense s-1655970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 622bd0a4b72791ecbfaf0f9d412ba9b1532c2e06b93453b4845253615be4262b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1655970-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intonáció
+** Ukrainian glosses
+
+* Sense s-1655970-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 1d9f1ca0d73f5b50e25ff08f92834d336f391090c75066e9e21f5304e5170668
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1655970-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) мелодия
+*** en-s-1655970-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) владение голосом (о певце)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1655970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1655970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふしまわし

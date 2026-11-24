@@ -1,0 +1,151 @@
+#+TITLE: 寝耳
+#+JMDICT_ID: 2011510
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねみみ
+#+ROMAJI: nemimi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2011510-001
+:PROPERTIES:
+:TEXT: 寝耳
+:END:
+** Reading rd-2011510-001
+:PROPERTIES:
+:TEXT: ねみみ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2011510-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f65a06cea701baf4b5d6060438d6e4ca21502154b8388ae1ef21e958a6d020a2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- something heard while sleeping
+** Ukrainian glosses
+*** uk-s-2011510-001-001
+:PROPERTIES:
+:END:
+- text :: почуте уві сні; вухо сплячого
+** Learner notes
+*** note-s-2011510-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (寝 «сон» + 耳 «вухо»), що в сучасній мові самостійно майже не вживається. Фактично трапляється у сталому фразеологізмі 寝耳に水 (буквально «вода у вухо сплячому»), який означає «як грім серед ясного неба» або «цілковита несподіванка».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2011510-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: その知らせは寝耳に水だった。
+- READING :: そのしらせはねみみにみずだった。
+- UK :: Та звістка була як грім серед ясного неба.
+- FOCUS :: 寝耳
+*** ex-2011510-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 突然の転勤の話を聞いて、まさに寝耳に水だと思った。
+- READING :: とつぜんのてんきんのはなしをきいて、まさにねみみにみずだとおもった。
+- UK :: Почувши несподівану новину про переведення на інше місце роботи, я подумав, що це справді як сніг на голову.
+- FOCUS :: 寝耳
+*** ex-2011510-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 会社が合併するという発表は、社員全員にとって寝耳に水の出来事だった。
+- READING :: かいしゃががっぺいするというはっぴょうは、しゃいんぜんいんにとってねみみにみずのできごとだった。
+- UK :: Оголошення про злиття компанії стало цілковитою несподіванкою для всіх працівників.
+- FOCUS :: 寝耳
+
+* Sense s-2011510-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9891ce139d32398b7c657bf82ebdf874764d974488c9a7862c8d8fddfe8315d9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2011510-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ohr eines Schlafenden
+** Ukrainian glosses
+
+* Sense s-2011510-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: afb81ff4e93d97e2e2af77495fbe697da35d38a3f16f2e30d8b21fa7dda5547e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2011510-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geräusche und Stimmen, die jmd. während des Schlafes hört
+** Ukrainian glosses
+
+* Sense s-2011510-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 009b85a462ee87a58aafa858410861401382846469f3de1683c6751cfdbcb78f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2011510-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 寝耳に水 как снег на голову; гром среди ясного неба ((букв.) вода в ухо спящему)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2011510-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2011510-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ねみみ

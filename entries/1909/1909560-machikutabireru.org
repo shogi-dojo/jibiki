@@ -1,0 +1,140 @@
+#+TITLE: 待ちくたびれる
+#+JMDICT_ID: 1909560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まちくたびれる
+#+ROMAJI: machikutabireru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1909560-001
+:PROPERTIES:
+:TEXT: 待ちくたびれる
+:END:
+** Written form wf-1909560-002
+:PROPERTIES:
+:TEXT: 待ち草臥れる
+:END:
+*** Information
+- rK
+** Reading rd-1909560-001
+:PROPERTIES:
+:TEXT: まちくたびれる
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1909560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a6a6070149f3fe93deb0b7f11b09baacf7a67b5613fd714a06d66ee18ae0cffc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to get tired of waiting
+** Ukrainian glosses
+*** uk-s-1909560-001-001
+:PROPERTIES:
+:END:
+- text :: втомитися чекати, знудитися від чекання
+** Learner notes
+*** note-s-1909560-001-001
+:PROPERTIES:
+:END:
+- UK :: Складене неперехідне дієслово другої відміни (一段), утворене поєднанням 待つ (чекати) і くたびれる (втомлюватися, виснажуватися). Передає фізичну чи емоційну втому від тривалого очікування; зазвичай пишеться як 待ちくたびれる, оскільки ієрогліфи 草臥れる є рідковживаним записом 当て字.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1909560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 駅で一時間も待ちくたびれた。
+- READING :: えきでいちじかんもまちくたびれた。
+- UK :: Я втомився чекати на станції цілу годину.
+- FOCUS :: 待ちくたびれた
+*** ex-1909560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 注文した料理がなかなか運ばれてこないので、客たちは待ちくたびれてしまった。
+- READING :: ちゅうもんしたりょうりがなかなかはこばれてこないので、きゃくたちはまちくたびれてしまった。
+- UK :: Оскільки замовлені страви ніяк не приносили, гості зовсім стомилися чекати.
+- FOCUS :: 待ちくたびれて
+*** ex-1909560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何度延期されても新作の発売を信じているファンは、待ちくたびれるどころか期待を膨らませている。
+- READING :: なんどえんきされてもしんさくのはつばいをしんじているふぁんは、まちくたびれるどころかきたいをふくらませている。
+- UK :: Шанувальники, які вірять у вихід новинки попри багаторазові перенесення, не тільки не втомилися чекати, а й ще більше сповнюються очікуванням.
+- FOCUS :: 待ちくたびれる
+
+* Sense s-1909560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 49b04fcdcb1e989f72d395af369a798e465a361b8f3c083a7d45be13a0cfc973
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1909560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: warten, bis man schwarz wird
+** Ukrainian glosses
+
+* Sense s-1909560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4922fd9290dfa8f1cd9d6a5e5c25bee82e3637fb3b7484d354984d3bc714eeb8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1909560-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: устать ждать
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1909560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1909560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 6
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: まちくたびれる

@@ -1,0 +1,191 @@
+#+TITLE: 競り落とす
+#+JMDICT_ID: 1850400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せりおとす
+#+ROMAJI: seriotosu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1850400-001
+:PROPERTIES:
+:TEXT: 競り落とす
+:END:
+** Written form wf-1850400-002
+:PROPERTIES:
+:TEXT: 競り落す
+:END:
+*** Information
+- sK
+** Reading rd-1850400-001
+:PROPERTIES:
+:TEXT: せりおとす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1850400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 977a0163d79c4e894a39bc2081ab58cf0be640297505cfa58fdebbbaa3a0fb05
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to make a successful bid (for an article)
+- to buy at auction
+- to outbid (someone)
+** Ukrainian glosses
+*** uk-s-1850400-001-001
+:PROPERTIES:
+:END:
+- text :: виграти на торгах, купити на аукціоні, перебити ціну
+** Learner notes
+*** note-s-1850400-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово 1-ї дієвідміни (五段 на -す). Складене дієслово від 競る (змагатися, торгуватися) та 落とす (опускати, схиляти на свій бік); позначає придбання товару чи лота на аукціоні, запропонувавши найвищу ставку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1850400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古い絵をオークションで競り落とした。
+- READING :: ふるいえをおーくしょんでせりおとした。
+- UK :: Купив старовинну картину на аукціоні.
+- FOCUS :: 競り落とした
+*** ex-1850400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 激しい入札競争の末、その希少な腕時計をようやく競り落とすことができた。
+- READING :: はげしいにゅうさつきょうそうのすえ、そのきしょうなうでどけいをようやくせりおとすことができた。
+- UK :: Після запеклої боротьби ставок мені нарешті вдалося виграти той рідкісний наручний годинник.
+- FOCUS :: 競り落とす
+*** ex-1850400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 年の初めの初競りでは、最高級の本マグロが過去最高値で競り落とされた。
+- READING :: としのはじめのはつぜりでは、さいこうきゅうのほんまぐろがかこさいたかねでせりおとされた。
+- UK :: На перших торгах нового року добірного блакитного тунця було продано з молотка за рекордно високою ціною.
+- FOCUS :: 競り落とされた
+
+* Sense s-1850400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fe67872fd3acb54e0c54720e942c1af9eff0f2628e45aeb4e4d73db9839b9d1d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to knock down (at an auction)
+** Ukrainian glosses
+*** uk-s-1850400-002-001
+:PROPERTIES:
+:END:
+- text :: оголосити проданим на аукціоні (про ліцитатора), віддати за найвищу ціну
+** Learner notes
+*** note-s-1850400-002-001
+:PROPERTIES:
+:END:
+- UK :: Дія аукціоніста, який ударом молотка закріплює лот за учасником, що запропонував найкращу ціну.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1850400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b49731cac3438b9ca79eebec6355acbb628416b8ad4a13ce6adedb91ca4d0a36
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1850400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. ersteigern
+*** en-s-1850400-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jmdn. überbieten
+** Ukrainian glosses
+
+* Sense s-1850400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ee6dc188e0658a9a39fd7284f632de98f7a0cc197a79c6d4583fb3e438bfef5c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1850400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [ударом молотка] присуждать (вещь на аукционе); заполучить (вещь на аукционе)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1850400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1850400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: せりおとす
+** Accent accent-rd-1850400-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1850400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: せりおとす

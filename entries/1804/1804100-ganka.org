@@ -1,0 +1,150 @@
+#+TITLE: 眼窩
+#+JMDICT_ID: 1804100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がんか
+#+ROMAJI: ganka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1804100-001
+:PROPERTIES:
+:TEXT: 眼窩
+:END:
+** Written form wf-1804100-002
+:PROPERTIES:
+:TEXT: 眼窠
+:END:
+*** Information
+- rK
+** Reading rd-1804100-001
+:PROPERTIES:
+:TEXT: がんか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1804100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4fde8862a25eae2dcf4675f9815524fb2578946315fb63a37561c30c572cc961
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- anat
+** English glosses
+- orbit
+- eye socket
+** Ukrainian glosses
+*** uk-s-1804100-001-001
+:PROPERTIES:
+:END:
+- text :: очниця, орбіта ока
+** Learner notes
+*** note-s-1804100-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, анатомічний і медичний термін; позначає кісткове заглиблення в черепі, у якому розташовані очне яблуко, м'язи та нерви ока. Часто трапляється в медичних текстах (наприклад, 眼窩底骨折 — перелом дна очниці) чи описах зовнішності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1804100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ボールが顔に当たり、眼窩の周りが腫れた。
+- READING :: ぼーるがかおにあたり、がんかのまわりがはれた。
+- UK :: М'яч влучив у обличчя, і навколо очниці з'явився набряк.
+- FOCUS :: 眼窩
+*** ex-1804100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師はレントゲン写真を見ながら、眼窩の骨に異常がないか確認した。
+- READING :: いしはれんとげんしゃしんをみながら、がんかのほねにいじょうがないかかくにんした。
+- UK :: Лікар, розглядаючи рентгенівський знімок, перевірив, чи немає пошкоджень кісток очниці.
+- FOCUS :: 眼窩
+*** ex-1804100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい疲労や急激な体重減少によって目の周りがくぼみ、眼窩がはっきり目立つようになった。
+- READING :: はげしいひろうやきゅうげきなたいじゅうげんしょうによってめのまわりがくぼみ、がんかがはっきりめだつようになった。
+- UK :: Через сильну втому та різке схуднення очі запали, і очниці стали помітно виразнішими.
+- FOCUS :: 眼窩
+
+* Sense s-1804100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1de819b3d857426ba726e759311830980c3e0e94925fdd72fe875941bdcbba9b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1804100-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Augenhöhle
+*** en-s-1804100-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Orbita
+** Ukrainian glosses
+
+* Sense s-1804100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 957879d4108fb45d07368f487d415f5c6bffac2267f02f155032b60c44ef2550
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1804100-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) がんこう【眼孔】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1804100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1804100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: がんか

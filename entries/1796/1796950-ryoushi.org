@@ -1,0 +1,133 @@
+#+TITLE: 料紙
+#+JMDICT_ID: 1796950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りょうし
+#+ROMAJI: ryoushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1796950-001
+:PROPERTIES:
+:TEXT: 料紙
+:END:
+** Reading rd-1796950-001
+:PROPERTIES:
+:TEXT: りょうし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1796950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 42db284f44572a7e6d2d4909acb68a17f19ca45f652e2d073d17f9b2aa04d5cf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- writing paper
+** Ukrainian glosses
+*** uk-s-1796950-001-001
+:PROPERTIES:
+:END:
+- text :: папір для письма й каліграфії
+** Learner notes
+*** note-s-1796950-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; традиційно означає спеціально підготовлений папір для письма, поезії вака, сувоїв чи каліграфії, нерідко прикрашений золотими вкрапленнями, водяними візерунками або фарбований у різні кольори (особливо в добу Хейан).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1796950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 美しい料紙に和歌を書く。
+- READING :: うつくしいりょうしにわかをかく。
+- UK :: Написати вірш вака на вишуканому папері.
+- FOCUS :: 料紙
+*** ex-1796950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 書道展には、金箔をあしらった料紙の作品が並んでいた。
+- READING :: しょどうてんには、きんぱくをあしらったりょうしのさくひんがならんでいた。
+- UK :: На виставці каліграфії були представлені твори на декоративному папері із сухозлітним золотом.
+- FOCUS :: 料紙
+*** ex-1796950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 平安時代の貴族たちは、季節や贈り主の好みに合わせて染めた料紙を選び、手紙を交わした。
+- READING :: へいあんじだいのきぞくたちは、きせつやおくりぬしのこのみにあわせてそめたりょうしをえらび、てがみをかわした。
+- UK :: Аристократи доби Хейан листувалися, добираючи тонований папір для письма відповідно до пори року й уподобань адресата.
+- FOCUS :: 料紙
+
+* Sense s-1796950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 36c49d6111cfb49e5e9149585e827af495e2f287dca85b130551284ddcde3ff5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schreibpapier
+** Ukrainian glosses
+
+* Sense s-1796950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 41af2e3c5feb80ff7adaf3c8ad604aee855f22ccb2c4d367c0d148e676c5fbb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1796950-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: писчая бумага
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1796950-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1796950-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: りょうし

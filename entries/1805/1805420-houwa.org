@@ -1,0 +1,139 @@
+#+TITLE: 法話
+#+JMDICT_ID: 1805420
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほうわ
+#+ROMAJI: houwa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1805420-001
+:PROPERTIES:
+:TEXT: 法話
+:END:
+*** Priorities
+- news2
+- nf39
+** Reading rd-1805420-001
+:PROPERTIES:
+:TEXT: ほうわ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf39
+
+* Sense s-1805420-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1513ed29a2d97ace083aec64d6288cf456fa95d1b418c6741636bf82cd37702c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Buddhist sermon
+** Ukrainian glosses
+*** uk-s-1805420-001-001
+:PROPERTIES:
+:END:
+- text :: буддійська проповідь, духовне повчання
+** Learner notes
+*** note-s-1805420-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що поєднує 法 (дхарма, буддійське вчення) та 話 (розповідь, бесіда). Позначає доступний виклад буддійського вчення для мирян у храмі; зазвичай уживається з дієсловами 聞く (слухати) або 説く (виголошувати, проповідувати).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1805420-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お寺で住職の法話を聞きました。
+- READING :: おてらでじゅうしょくのほうわをききました。
+- UK :: У храмі я послухав проповідь настоятеля.
+- FOCUS :: 法話
+*** ex-1805420-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 毎月の集まりでは、分かりやすい言葉で語られる法話が人気を集めている。
+- READING :: まいつきのあつまりでは、わかりやすいことばでかたられるほうわがにんきをあつめている。
+- UK :: На щомісячних зібраннях популярністю користуються проповіді, виголошені простою й зрозумілою мовою.
+- FOCUS :: 法話
+*** ex-1805420-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 穏やかな口調で人生の悩みについて説く僧侶の法話に、参拝客は静かに耳を傾けた。
+- READING :: おだやかなくちょうでじんせいのなやみについてとくそうりょのほうわに、さんぱいきゃくはしずかにみみをかたむけた。
+- UK :: Відвідувачі храму тихо прислухалися до проповіді монаха, який спокійним голосом говорив про життєві тривоги.
+- FOCUS :: 法話
+
+* Sense s-1805420-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bbbf4ec18221f9a03f86c12754ba0dc52232c8a969f5983451fd41b52a2d23a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1805420-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (buddhistische)Predigt
+** Ukrainian glosses
+
+* Sense s-1805420-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 73e81b3a9ce7b6ba05aa3ae5896a54e7cb7537eb4181564c52d3479782534ef3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1805420-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: проповедь, поучение
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1805420-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1805420-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ほうわ

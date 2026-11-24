@@ -1,0 +1,167 @@
+#+TITLE: 夜露
+#+JMDICT_ID: 1537230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よつゆ
+#+ROMAJI: yotsuyu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1537230-001
+:PROPERTIES:
+:TEXT: 夜露
+:END:
+** Reading rd-1537230-001
+:PROPERTIES:
+:TEXT: よつゆ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1537230-002
+:PROPERTIES:
+:TEXT: やろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1537230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a47b14de86dae80f6944413ec13f70721cce18331f8b24714a8fea6eacc81e65
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- evening dew
+- night dew
+** Ukrainian glosses
+*** uk-s-1537230-001-001
+:PROPERTIES:
+:END:
+- text :: нічна роса; вечірня роса
+** Learner notes
+*** note-s-1537230-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 夜 («ніч») та 露 («роса»). Позначає вологу, що осідає вночі на траві й предметах; у літературній мові трапляється у звороті 夜露に濡れる («змокнути від нічної роси», «ночувати просто неба»). Книжне читання やろ вживається рідко.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1537230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 草が夜露でぬれています。
+- READING :: くさがよつゆでぬれています。
+- UK :: Трава волога від нічної роси.
+- FOCUS :: 夜露
+*** ex-1537230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 外に出しておいた自転車が、夜露で冷たくなっていました。
+- READING :: そとにだしておいたじてんしゃが、よつゆでつめたくなっていました。
+- UK :: Велосипед, який залишили надворі, став холодним від нічної роси.
+- FOCUS :: 夜露
+*** ex-1537230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 早朝にキャンプ場を出発したとき、テントの表面には夜露がしっとりと光っていました。
+- READING :: そうちょうにきゃんぷじょうをしゅっぱつしたとき、てんとのひょうめんにはよつゆがしっとりとひかっていました。
+- UK :: Коли ми рано-вранці вирушали з кемпінгу, на поверхні намету волого виблискувала нічна роса.
+- FOCUS :: 夜露
+
+* Sense s-1537230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 165922b2664b6c4a1d217bc0f150c74eecc10480b52d28bb2f35137728311ccf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1537230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abendlicher Tau
+*** en-s-1537230-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nächtlicher Tau
+** Ukrainian glosses
+
+* Sense s-1537230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1149807ca93abfdf7ceb2bfc028f4609ca37472e5e953e4ccdd2a86042dead6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1537230-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ночная роса
+** Ukrainian glosses
+
+* Sense s-1537230-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e24ebd6aa6d62560722ab0bae9151a428283d880714c329bb974bee387dc102a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1537230-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: relente, sereno
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1537230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1537230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: よつゆ

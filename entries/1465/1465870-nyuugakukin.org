@@ -1,0 +1,167 @@
+#+TITLE: 入学金
+#+JMDICT_ID: 1465870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にゅうがくきん
+#+ROMAJI: nyuugakukin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1465870-001
+:PROPERTIES:
+:TEXT: 入学金
+:END:
+** Reading rd-1465870-001
+:PROPERTIES:
+:TEXT: にゅうがくきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1465870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9cef3f227db2ad626e5d2974259e1cb681801c65708c593be87a79ea8d81caa8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- matriculation fee
+** Ukrainian glosses
+*** uk-s-1465870-001-001
+:PROPERTIES:
+:END:
+- text :: вступний внесок (при вступі до навчального закладу)
+** Learner notes
+*** note-s-1465870-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений з 入学 (вступ до школи чи університету) і 金 (гроші, плата). Означає одноразову плату за зарахування до навчального закладу, на відміну від щомісячної чи семестрової плати за навчання (授業料).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1465870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大学に入学金を払いました。
+- READING :: だいがくににゅうがくきんをはらいました。
+- UK :: Я сплатив вступний внесок до університету.
+- FOCUS :: 入学金
+*** ex-1465870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 合格したら、決められた期日までに入学金を納めなければならない。
+- READING :: ごうかくしたら、きめられたきじつまでににゅうがくきんをおさめなければならない。
+- UK :: Після успішного складання іспитів потрібно сплатити вступний внесок до встановленого терміну.
+- FOCUS :: 入学金
+*** ex-1465870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 奨学金制度を利用すれば、入学金や授業料の負担を大きく減らすことができる。
+- READING :: しょうがくきんせいどをりようすれば、にゅうがくきんやじゅぎょうりょうのふたんをおおきくへらすことができる。
+- UK :: Якщо скористатися стипендіальною програмою, можна значно зменшити витрати на вступний внесок і навчання.
+- FOCUS :: 入学金
+
+* Sense s-1465870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6b96820ef2da1f8b75d0b48b3ec3671b6a4e6c78dd0dd6c84502779d38cf2b7c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1465870-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {onderw.} inschrijvingsgeld
+** Ukrainian glosses
+
+* Sense s-1465870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6a42ec28c52265102ec59cb1afb04482391adf62377865b67552a93436a6cb98
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1465870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Immatrikulationsgebühr
+*** en-s-1465870-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eintrittsgebühr
+*** en-s-1465870-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufnahmegebühr (für eine Schule oder Uni)
+** Ukrainian glosses
+
+* Sense s-1465870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 353b81a315c32964874bccd59c99e1805354a36262bb44c783d7939b2e76d7e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1465870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: вступительный взнос (при поступлении в учебное заведение)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1465870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1465870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にゅうがくきん

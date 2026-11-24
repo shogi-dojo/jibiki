@@ -1,0 +1,169 @@
+#+TITLE: 太陽暦
+#+JMDICT_ID: 1408400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たいようれき
+#+ROMAJI: taiyoureki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1408400-001
+:PROPERTIES:
+:TEXT: 太陽暦
+:END:
+** Reading rd-1408400-001
+:PROPERTIES:
+:TEXT: たいようれき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1408400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d89a765f916355513b941abaa5456dc899bc621fe6bca404d6fd3da3964f25b7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- solar calendar
+** Ukrainian glosses
+*** uk-s-1408400-001-001
+:PROPERTIES:
+:END:
+- text :: сонячний календар
+** Learner notes
+*** note-s-1408400-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 太陽 «сонце» та 暦 «календар»), що позначає календарну систему, засновану на періоді обертання Землі навколо Сонця (як-от юліанський чи григоріанський календар). Вживається в контрасті з місячним (太陰暦) та місячно-сонячним календарем (太陰太陽暦); у Японії перехід на сонячний календар відбувся в епоху Мейджі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1408400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今の日本では太陽暦が使われています。
+- READING :: いまのにほんではたいようれきがつかわれています。
+- UK :: У сучасній Японії використовують сонячний календар.
+- FOCUS :: 太陽暦
+*** ex-1408400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古代エジプトでは、ナイル川の氾濫周期をもとにした太陽暦が作られた。
+- READING :: こだいえじぷとでは、ないるがわのはんらんしゅうきをもとにしたたいようれきがつくられた。
+- UK :: У Стародавньому Єгипті створили сонячний календар, спираючись на цикли розливу Нілу.
+- FOCUS :: 太陽暦
+*** ex-1408400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 明治時代に太陽暦が採用されて以降、日本の季節行事の日付の捉え方も大きく変化した。
+- READING :: めいじじだいにたいようれきがさいようされていこう、にほんのきせつぎょうじのひづけのとらえかたもおおきくへんかした。
+- UK :: Після запровадження сонячного календаря в епоху Мейджі змінилося й сприйняття дат традиційних сезонних обрядів у Японії.
+- FOCUS :: 太陽暦
+
+* Sense s-1408400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5ed4b4e31b5c97f88b999a3c623a2d9dcb6ee1f985fb540cd848a2b6fbc565cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1408400-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zonnekalender
+** Ukrainian glosses
+
+* Sense s-1408400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f22dd66ccaccf0c56ca1e92acd5bb62e338d0640a8b3b8c7e27b30f5ef8442e8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1408400-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calendrier solaire
+** Ukrainian glosses
+
+* Sense s-1408400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 86230ebe5a5830ddfc43d757549a5d85693f39088ea6942d311c19b73bda8419
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1408400-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sonnenkalender
+** Ukrainian glosses
+
+* Sense s-1408400-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b2265b723dc9ca0ed1d473167e3e4878225572df3f5bff206651ad98e914874c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1408400-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: солнечный календарь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1408400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1408400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たいようれき

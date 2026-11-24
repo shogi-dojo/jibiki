@@ -1,0 +1,185 @@
+#+TITLE: 利益配当
+#+JMDICT_ID: 1758340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りえきはいとう
+#+ROMAJI: riekihaitou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1758340-001
+:PROPERTIES:
+:TEXT: 利益配当
+:END:
+** Reading rd-1758340-001
+:PROPERTIES:
+:TEXT: りえきはいとう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1758340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 565010f8ac9b88934f48e4690f2b049e695e986ca04fa7cc22fce2f6b40d70d4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- dividend
+- share of profits
+** Ukrainian glosses
+*** uk-s-1758340-001-001
+:PROPERTIES:
+:END:
+- text :: дивіденд; розподіл прибутку
+** Learner notes
+*** note-s-1758340-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і фінансово-економічний термін (також уживається з часткою の). Поєднує 利益 (прибуток) і 配当 (розподіл, виплата) та позначає виплату частини чистого прибутку компанії її акціонерам чи учасникам; у сучасному корпоративному праві частіше використовують термін 剰余金の配当.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1758340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今期は利益配当がある。
+- READING :: こんきはりえきはいとうがある。
+- UK :: У цьому звітному періоді буде виплата дивідендів.
+- FOCUS :: 利益配当
+*** ex-1758340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 株主は業績に応じた利益配当を受け取る。
+- READING :: かぶぬしはぎょうせきにおうじたりえきはいとうをうけとる。
+- UK :: Акціонери отримують дивіденди відповідно до фінансових результатів.
+- FOCUS :: 利益配当
+*** ex-1758340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 取締役会は、事業拡大への投資を優先するため今年の利益配当を見送る方針を決めた。
+- READING :: とりしまりやくかいは、じぎょうかくだいへのとうしをゆうせんするためことしのりえきはいとうをみおくるほうしんをきめた。
+- UK :: Рада директорів ухвалила рішення відкласти цьогорічну виплату дивідендів, щоб надати пріоритет інвестиціям у розширення бізнесу.
+- FOCUS :: 利益配当
+
+* Sense s-1758340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6c3005296042e9175f2a50f313a5c3c42ace2ea4765562decfa5dcce1ee45526
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758340-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewinnverteilung
+*** en-s-1758340-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewinnbeteiligung
+*** en-s-1758340-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gewinnanteil
+*** en-s-1758340-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dividende
+** Ukrainian glosses
+
+* Sense s-1758340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 728923afea000a218bb93fa57dcdfd7cf80280873f331b811cf18c4401f014d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758340-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: osztandó
+** Ukrainian glosses
+
+* Sense s-1758340-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 83e6abdc08a1a2ae180d94db54e1090a498202f92d14c8fd44315b60f66a089a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758340-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) распределение прибылей
+*** en-s-1758340-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) дивиденд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1758340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1758340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: りえきはいとう

@@ -1,0 +1,181 @@
+#+TITLE: 口角
+#+JMDICT_ID: 1275930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうかく
+#+ROMAJI: koukaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1275930-001
+:PROPERTIES:
+:TEXT: 口角
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1275930-001
+:PROPERTIES:
+:TEXT: こうかく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1275930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 623399d3b8fafee753f64844da03dada17ca5ea43aa53a7dc120d459254cd24c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- corners of the mouth
+** Ukrainian glosses
+*** uk-s-1275930-001-001
+:PROPERTIES:
+:END:
+- text :: кутики рота, куточки губ
+** Learner notes
+*** note-s-1275930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (口 — рот + 角 — кут). Вживається як для опису міміки (口角を上げる — підняти кутики губ, усміхнутися), так і у відомому фразеологізмі 口角泡を飛ばす («сперечатися до піни на губах», «запально дискутувати»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1275930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鏡の前で口角を上げて笑ってみる。
+- READING :: かがみのまえでこうかくをあげてわらってみる。
+- UK :: Спробувати всміхнутися перед дзеркалом, піднявши кутики губ.
+- FOCUS :: 口角
+*** ex-1275930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 彼女は少しだけ口角を上げて、静かにうなずいた。
+- READING :: かのじょはすこしだけこうかくをあげて、しずかにうなずいた。
+- UK :: Вона ледь помітно підняла кутики губ і тихо кивнула.
+- FOCUS :: 口角
+*** ex-1275930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 二人の専門家は番組の中で口角泡を飛ばして議論を戦わせたが、最後まで意見は平行線のままだった。
+- READING :: ふたりのせんもんかはばんぐみのなかでこうかくあわをとばしてぎろんをたたかわせたが、さいごまでいけんはへいこうせんのままだった。
+- UK :: У телепередачі двоє фахівців палко сперечалися, аж бризкаючи слиною, проте їхні позиції до кінця залишилися непримиренними.
+- FOCUS :: 口角
+
+* Sense s-1275930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 07f5c78dad51addb8f8fd6778e532a2112f5ed42ba1fc111d7ef8059f2206522
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mundwinkel
+*** en-s-1275930-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Angulus oris
+** Ukrainian glosses
+
+* Sense s-1275930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: cdbe60a58063dff51eb096c9307baa1ed4447f313fd56ef1d32c890bb469b718
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 口角泡
+*** en-s-1275930-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: アワ
+*** en-s-1275930-003-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: を飛ばして с пеной у рта, горячо, страстно (спорить и т. п.)
+** Ukrainian glosses
+
+* Sense s-1275930-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 89e2286dc0392077e6f6acfb22e9460d44ec875d346fe9137ecf82c3b0861eac
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1275930-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: comisuras de los labios
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1275930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1275930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こうかく

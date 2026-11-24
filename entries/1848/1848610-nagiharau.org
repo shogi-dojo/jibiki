@@ -1,0 +1,187 @@
+#+TITLE: 薙ぎ払う
+#+JMDICT_ID: 1848610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なぎはらう
+#+ROMAJI: nagiharau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1848610-001
+:PROPERTIES:
+:TEXT: 薙ぎ払う
+:END:
+** Written form wf-1848610-002
+:PROPERTIES:
+:TEXT: なぎ払う
+:END:
+** Reading rd-1848610-001
+:PROPERTIES:
+:TEXT: なぎはらう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1848610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 31322be55807ae72aa002e480a4112c1e6d816af8c22dd5250088af44e0d90c1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vt
+** English glosses
+- to mow down
+- to cut down
+- to slash (horizontally)
+- to make a clean sweep
+- to sweep away
+- to brush away
+** Ukrainian glosses
+*** uk-s-1848610-001-001
+:PROPERTIES:
+:END:
+- text :: скосити начисто; знести одним помахом; розчистити
+** Learner notes
+*** note-s-1848610-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово першої відміни (ґодан), що походить від 薙ぐ («косити, рубати горизонтальним рухом») і 払う («змітати, розганяти»). Часто описує широкий горизонтальний удар мечем чи косою або стрімкий порив вітру, хвилі, світла, який усе зносить на своєму шляху.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1848610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 農家の人が鎌で長い草を薙ぎ払った。
+- READING :: のうかのひとがかまでながいくさをなぎはらった。
+- UK :: Фермер серпом скосив високу траву.
+- FOCUS :: 薙ぎ払った
+*** ex-1848610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 強い風が雲を薙ぎ払い、青空が広がった。
+- READING :: つよいかぜがくもをなぎはらい、あおぞらがひろがった。
+- UK :: Сильний вітер розігнав хмари, і над головою розкинулося блакитне небо.
+- FOCUS :: 薙ぎ払い
+*** ex-1848610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 剣士は周囲から迫る敵を一太刀で薙ぎ払うように剣を振った。
+- READING :: けんしはしゅういからせまるてきをひとたちでなぎはらうようにけんをふった。
+- UK :: Мечник змахнув клинком так, немов хотів одним ударом знести всіх ворогів, що насувалися навколо.
+- FOCUS :: 薙ぎ払う
+
+* Sense s-1848610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: db552f451f8f22d8ec829d465f299dec3f243b418e97d8c064a0a2a0323c1e72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848610-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: niedermähen
+** Ukrainian glosses
+
+* Sense s-1848610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8c5338dc51062d2316e7fa931579ba69bd4b0572cfcc918be4a2313b8cb0dc18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848610-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abmähen
+*** en-s-1848610-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: abhauen
+** Ukrainian glosses
+
+* Sense s-1848610-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b94d7ac90e4b4aa70892e7f26e857b41771cfd671665c1ec928fdbcf04c1914b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848610-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lekaszabol
+** Ukrainian glosses
+
+* Sense s-1848610-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: b65b0ca4cc8f508208440167cd6c6e4b0e6a023d39cf54ddd2861f3eaa2116be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1848610-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: скашивать начисто
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1848610-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1848610-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: なぎはらう

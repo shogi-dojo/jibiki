@@ -1,0 +1,182 @@
+#+TITLE: 軍拡
+#+JMDICT_ID: 1247740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぐんかく
+#+ROMAJI: gunkaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1247740-001
+:PROPERTIES:
+:TEXT: 軍拡
+:END:
+*** Priorities
+- ichi1
+- news1
+- nf20
+** Reading rd-1247740-001
+:PROPERTIES:
+:TEXT: ぐんかく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- ichi1
+- news1
+- nf20
+
+* Sense s-1247740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b615a7c3f923bf7abf01d0e78d7dcd7c652351dc3081a27465833ae549614ca
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 軍備拡張
+** English glosses
+- military expansion
+- arms buildup
+** Ukrainian glosses
+*** uk-s-1247740-001-001
+:PROPERTIES:
+:END:
+- text :: нарощування озброєнь, мілітаризація, військова експансія
+** Learner notes
+*** note-s-1247740-001-001
+:PROPERTIES:
+:END:
+- UK :: Скорочений іменник від 軍備拡張 (розширення озброєнь), що широко вживається в новинах, політології та історіографії. Протистоїть поняттю 軍縮 (роззброєння) й зазвичай характеризує збільшення військової потужності держави.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1247740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ニュースで軍拡について聞いた。
+- READING :: にゅーすでぐんかくについてきいた。
+- UK :: Я чув у новинах про нарощування озброєнь.
+- FOCUS :: 軍拡
+*** ex-1247740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 周囲の国の軍拡に対して、国民の間で不安が広がっている。
+- READING :: しゅういのくにのぐんかくにたいして、こくみんのあいだでふあんがひろがっている。
+- UK :: Через нарощування озброєнь у сусідніх країнах серед населення зростає тривога.
+- FOCUS :: 軍拡
+*** ex-1247740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 各国が軍拡競争を続ければ、地域の安全保障環境がいっそう不安定になりかねない。
+- READING :: かっこくがぐんかくきょうそうをつづければ、ちいきのあんぜんほしょうかんきょうがいっそうふあんていになりかねない。
+- UK :: Якщо держави продовжать гонку озброєнь, безпекова ситуація в регіоні може стати ще менш стабільною.
+- FOCUS :: 軍拡
+
+* Sense s-1247740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: df916c5f3695a65a5a85dc684d7ff9c2e80e40cd8d0d1d8918e37ed1514dbbeb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247740-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expansion de l'armement
+** Ukrainian glosses
+
+* Sense s-1247740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: dd7c9be9b5c552be30874be2d0f428c4703639c603599edf57d932c570e337dc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247740-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufrüstung
+** Ukrainian glosses
+
+* Sense s-1247740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3c44f48769a0305bce751f818af4334c7037141d2d2b44db0e228f0d438d82f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247740-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр.) 軍備拡張) увеличение вооружений
+** Ukrainian glosses
+
+* Sense s-1247740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 173ceed9fe0d22378220ee53f9e93b7d04fb3c2c748f811b6e1fca0ec3c58925
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1247740-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: expansión armamentista
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1247740-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1247740-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ぐんかく

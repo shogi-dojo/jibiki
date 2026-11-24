@@ -1,0 +1,152 @@
+#+TITLE: 読者層
+#+JMDICT_ID: 1456410
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どくしゃそう
+#+ROMAJI: dokushasou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1456410-001
+:PROPERTIES:
+:TEXT: 読者層
+:END:
+** Reading rd-1456410-001
+:PROPERTIES:
+:TEXT: どくしゃそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1456410-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41ca99d25f08d2ae871b408dbd96e054d5528e9bfb96ee72df6766e2e7e7d0ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- readership
+- target audience (of a magazine)
+** Ukrainian glosses
+*** uk-s-1456410-001-001
+:PROPERTIES:
+:END:
+- text :: читацька аудиторія, коло читачів
+** Learner notes
+*** note-s-1456410-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 読者 («читач») та 層 («верства, категорія»). Уживається у видавничій справі, журналістиці й маркетингу для опису вікової, соціальної чи тематичної групи читачів певної книги або журналу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1456410-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この雑誌は若い読者層に人気がある。
+- READING :: このざっしはわかいどくしゃそうににんきがある。
+- UK :: Цей журнал популярний серед молодої читацької аудиторії.
+- FOCUS :: 読者層
+*** ex-1456410-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい小説は、これまでとは違う読者層にも広く受け入れられた。
+- READING :: あたらしいしょうせつは、これまでとはちがうどくしゃそうにもひろくうけいれられた。
+- UK :: Новий роман знайшов широкий відгук і серед іншої читацької аудиторії, ніж раніше.
+- FOCUS :: 読者層
+*** ex-1456410-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 出版社は読者層の変化に合わせて、電子書籍の配信や誌面の刷新を進めている。
+- READING :: しゅっぱんしゃはどくしゃそうのへんかにあわせて、でんししょせきのはいしんやしめんのさっしんをすすめている。
+- UK :: Підлаштовуючись під зміни в колі читачів, видавництва активно розвивають випуск електронних книг та оновлюють формат видань.
+- FOCUS :: 読者層
+
+* Sense s-1456410-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1e385312d2fc5aac1a425b71d6d78ca84275719f21eb00b9b7883b03696d0342
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456410-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: catégorie de lecteurs
+** Ukrainian glosses
+
+* Sense s-1456410-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ec8af18f6be62e85ce21dc76251e7aad6994a7c39b4afcf9307745a00cd8b9a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456410-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leserschicht
+** Ukrainian glosses
+
+* Sense s-1456410-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 377a604f2afded61f8defe2506433e77d7378875e2dae2b424df36f5898d8d01
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456410-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: круг читателей
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1456410-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1456410-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: どくしゃそう

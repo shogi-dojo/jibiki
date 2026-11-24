@@ -1,0 +1,157 @@
+#+TITLE: 百聞
+#+JMDICT_ID: 1488460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひゃくぶん
+#+ROMAJI: hyakubun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1488460-001
+:PROPERTIES:
+:TEXT: 百聞
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1488460-001
+:PROPERTIES:
+:TEXT: ひゃくぶん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1488460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cc4a883f0eed63e3cf741c5c6f1633fd060b7b7bc111deb3ed5ce86ec8663869
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Cross-references
+- 百聞は一見にしかず
+** English glosses
+- hearing many times
+** Ukrainian glosses
+*** uk-s-1488460-001-001
+:PROPERTIES:
+:END:
+- text :: багаторазове слухання, численні чутки
+** Learner notes
+*** note-s-1488460-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, складений із 百 (сто, багато) та 聞 (чути, слухати). У сучасній японській мові майже не вживається окремо, а функціонує у відомому прислів'ї 百聞は一見にしかず («краще один раз побачити, ніж сто разів почути»), де протиставляється слову 一見.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1488460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 百聞は一見にしかずと言う。
+- READING :: ひゃくぶんはいっけんにしかずという。
+- UK :: Кажуть, краще один раз побачити, ніж сто разів почути.
+- FOCUS :: 百聞
+*** ex-1488460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 話に聞くだけではなく、まさに百聞は一見にしかずで現地へ行ってみた。
+- READING :: はなしにきくだけではなく、まさにひゃくぶんはいっけんにしかずでげんちへいってみた。
+- UK :: Я вирішив не обмежуватися самими розповідями й поїхав туди особисто, бо справді краще раз побачити, ніж сто разів почути.
+- FOCUS :: 百聞
+*** ex-1488460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: どれほど詳しい資料を読んでも理解しきれないことがあり、現場を知るうえでは百聞に勝る直接の体験が欠かせない。
+- READING :: どれほどくわしいしりょうをよんでもりかいしきれないことがあり、げんばをしるうえではひゃくぶんにまさるちょくせつのたいけんがかかせない。
+- UK :: Хай би якими докладними були документи, не все можна збагнути з чужих слів, тож для розуміння ситуації на місці безпосередній досвід цінніший за сотні переказів.
+- FOCUS :: 百聞
+
+* Sense s-1488460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a40665288a3793f6b9c95922ac45e459eac396ffb0dbac9fe266b9a7cde073e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hundert mal hören
+** Ukrainian glosses
+
+* Sense s-1488460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6b0b8255bfd8efe9ff259f146d75630803b3ccd8aa5c5453eae4936e19d39abc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.:) 百聞一見に如
+*** en-s-1488460-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: シ
+*** en-s-1488460-003-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: かず (погов.) лучше один раз увидеть, чем сто раз услышать
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1488460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1488460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひゃくぶん

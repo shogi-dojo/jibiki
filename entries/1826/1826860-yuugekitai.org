@@ -1,0 +1,159 @@
+#+TITLE: 遊撃隊
+#+JMDICT_ID: 1826860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆうげきたい
+#+ROMAJI: yuugekitai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1826860-001
+:PROPERTIES:
+:TEXT: 遊撃隊
+:END:
+** Reading rd-1826860-001
+:PROPERTIES:
+:TEXT: ゆうげきたい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1826860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b54eb652ffaad4b2d879c43c1c9e354a54d65132fc0af2782a6c6d8c44dbaa7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- commando unit
+** Ukrainian glosses
+*** uk-s-1826860-001-001
+:PROPERTIES:
+:END:
+- text :: диверсійний загін; рейдовий (партизанський) загін
+** Learner notes
+*** note-s-1826860-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і військовий термін, утворений із 遊撃 (маневрені напади, партизанські дії) та 隊 (загін). Позначає мобільний підрозділ, що діє рейдами й засідає в тилу ворога; у японській історії відомий також однойменний загін періоду 幕末, сформований шьоґунатом Токуґави.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1826860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 遊撃隊が夜に出動した。
+- READING :: ゆうげきたいがよるにしゅつどうした。
+- UK :: Рейдовий загін вирушив уночі.
+- FOCUS :: 遊撃隊
+*** ex-1826860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 少数の遊撃隊が敵の補給線を断った。
+- READING :: しょうすうのゆうげきたいがてきのほきゅうせんをたった。
+- UK :: Невеликий диверсійний загін перерізав лінію постачання ворога.
+- FOCUS :: 遊撃隊
+*** ex-1826860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 機動力に優れた遊撃隊は、山岳地帯を移動しながら重要な拠点を次々と奇襲した。
+- READING :: きどうりょくにすぐれたゆうげきたいは、さんがくちたいをいどうしながらじゅうようなきょてんをつぎつぎときしゅうした。
+- UK :: Високомобільний рейдовий загін, пересуваючись гірською місцевістю, завдавав раптових ударів по важливих опорних пунктах один за одним.
+- FOCUS :: 遊撃隊
+
+* Sense s-1826860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cc0c3592aabf7de7496c56e6bd5f5807bb387995b09ca774c397b6c915bb101e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1826860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überfallkommando
+*** en-s-1826860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rollkommando
+** Ukrainian glosses
+
+* Sense s-1826860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3246471f8f354593885378e85bd626050e733124ab466ae5a8f5b2218401a979
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1826860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: партизанский отряд; рейдовый отряд; диверсионная группа
+** Ukrainian glosses
+
+* Sense s-1826860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6a906be8f0e3ca00ec03cd6a3ccaf76f0bcfeb35ab84d9211f86531a91567982
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1826860-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: commandotrupp
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1826860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1826860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ゆうげきたい

@@ -1,0 +1,135 @@
+#+TITLE: 航空輸送
+#+JMDICT_ID: 2668160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうくうゆそう
+#+ROMAJI: koukuuyusou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2668160-001
+:PROPERTIES:
+:TEXT: 航空輸送
+:END:
+** Reading rd-2668160-001
+:PROPERTIES:
+:TEXT: こうくうゆそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2668160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 358da6ccebaed98a19fd8aaa4f1b0c9c75ebc1e3a3187fff6b6f08b3db713fb3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- air transportation
+- air transport
+- transport by air
+** Ukrainian glosses
+*** uk-s-2668160-001-001
+:PROPERTIES:
+:END:
+- text :: авіаперевезення; повітряний транспорт; транспортування повітрям
+** Learner notes
+*** note-s-2668160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник економічного та логістичного вжитку, утворений із 航空 (авіація) та 輸送 (перевезення, транспортування). Позначає доставку пасажирів, термінових вантажів, медикаментів чи пошти літаками (часто протиставляється морським перевезенням — 海上輸送).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2668160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 荷物を航空輸送で送る。
+- READING :: にもつをこうくうゆそうでおくる。
+- UK :: Надіслати посилку авіатранспортом.
+- FOCUS :: 航空輸送
+*** ex-2668160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 生鮮食品を早く届けるため、航空輸送が利用されている。
+- READING :: せいせんしょくひんをはやくとどけるため、こうくうゆそうがりようされている。
+- UK :: Щоб швидко доставляти свіжі продукти, використовують авіаперевезення.
+- FOCUS :: 航空輸送
+*** ex-2668160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 災害時には道路が寸断されることが多く、緊急物資を被災地へ届ける手段として航空輸送が重要な役割を果たす。
+- READING :: さいがいじにはどうろがすんだんされることがおおく、きんきゅうぶっしをひさいちへとどけるしゅだんとしてこうくうゆそうがじゅうようなやくわりをはたす。
+- UK :: Під час стихійних лих дороги нерідко бувають перерізані, тому авіатранспорт відіграє вирішальну роль у доставці екстрених вантажів до постраждалих районів.
+- FOCUS :: 航空輸送
+
+* Sense s-2668160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d03c746b32cdfca0858d807a02eae4238605c3b211acaeb9fbbb8e83e46ba969
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2668160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lufttransport
+** Ukrainian glosses
+
+* Sense s-2668160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d85e13ae46d3705752795055b996bb21c61377eaac01739b3b8cfdadd88fbb47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2668160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: воздушные перевозки, авиатранспорт, перевозка по воздуху
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2668160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2668160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうくうゆそう

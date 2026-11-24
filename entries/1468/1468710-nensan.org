@@ -1,0 +1,191 @@
+#+TITLE: 年産
+#+JMDICT_ID: 1468710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ねんさん
+#+ROMAJI: nensan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1468710-001
+:PROPERTIES:
+:TEXT: 年産
+:END:
+*** Priorities
+- news1
+- nf11
+** Reading rd-1468710-001
+:PROPERTIES:
+:TEXT: ねんさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf11
+
+* Sense s-1468710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 68a8f98d1e8d1687de8f282dfa5310d310a9a859ffd1d8e5750804c284ff1f86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- annual production
+** Ukrainian glosses
+*** uk-s-1468710-001-001
+:PROPERTIES:
+:END:
+- text :: річне виробництво; річний обсяг видобутку (випуску)
+** Learner notes
+*** note-s-1468710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 年 («рік») та 産 («виробництво, видобуток»). Вживається в економічних, промислових та аграрних звітах для позначення загального обсягу продукції, виробленої за один рік.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1468710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この地方は米の年産が多い。
+- READING :: このちほうはこめのねんさんがおおい。
+- UK :: У цьому регіоні великий річний обсяг виробництва рису.
+- FOCUS :: 年産
+*** ex-1468710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい機械を導入して、年産が二倍に増えた。
+- READING :: あたらしいきかいをどうにゅうして、ねんさんがにばいにふえた。
+- UK :: Після впровадження нового обладнання річний обсяг виробництва зріс удвічі.
+- FOCUS :: 年産
+*** ex-1468710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この工場では自動車の年産が十万台を超える見込みだ。
+- READING :: このこうじょうではじどうしゃのねんさんがじゅうまんだいをこえるみこみだ。
+- UK :: Очікується, що річний випуск автомобілів на цьому заводі перевищить сто тисяч одиниць.
+- FOCUS :: 年産
+
+* Sense s-1468710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6ecb1d691caba59453d0567e58b04eefa9efc60f171cb5051eb4a1589b42aee1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Jahresproduktion
+*** en-s-1468710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jährliche Produktion
+*** en-s-1468710-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jährlicher Ausstoß
+** Ukrainian glosses
+
+* Sense s-1468710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 52775584bc66c378ed2e2e1047c369f9f9595c1e32171f120668bd4008219fb8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: годовая продукция (выработка, добыча, выдача)
+** Ukrainian glosses
+
+* Sense s-1468710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 002c8bdef5b5b4f0b330c37c7ddfd0951062f962f788d9cad36e7754ba7db7cd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468710-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: producción anual
+** Ukrainian glosses
+
+* Sense s-1468710-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc33b5c3d1861d3746a4308ed1a357dd3d820d0704bc196a24ef3fb6c42b2848
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1468710-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: årsproduktion
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1468710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1468710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ねんさん

@@ -1,0 +1,157 @@
+#+TITLE: 漢籍
+#+JMDICT_ID: 1655460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かんせき
+#+ROMAJI: kanseki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1655460-001
+:PROPERTIES:
+:TEXT: 漢籍
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1655460-001
+:PROPERTIES:
+:TEXT: かんせき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1655460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c54fc60d174eb635bc77cf0be60231f4faf42f04667b0811ec9f5155676b90d6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- Chinese book
+- Chinese classics
+** Ukrainian glosses
+*** uk-s-1655460-001-001
+:PROPERTIES:
+:END:
+- text :: китайська книга; пам'ятки класичної китайської літератури
+** Learner notes
+*** note-s-1655460-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений із 漢 («Китай, ханьський») та 籍 («книга, сувій»). Позначає традиційні твори й трактати класичною китайською мовою (漢文), на противагу японським текстам 国書 чи західним виданням 洋書.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1655460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 図書館の古い棚に漢籍が並んでいます。
+- READING :: としょかんのふるいたなにかんせきがならんでいます。
+- UK :: На старих полицях бібліотеки стоять класичні китайські книги.
+- FOCUS :: 漢籍
+*** ex-1655460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大学の授業では、江戸時代の学者が集めた貴重な漢籍を詳しく読み解く。
+- READING :: だいがくのじゅぎょうでは、えどじだいのがくしゃがあつめたきちょうなかんせきをくわしくよみとく。
+- UK :: На університетських заняттях студенти докладно вивчають цінні китайські класичні тексти, зібрані вченими доби Едо.
+- FOCUS :: 漢籍
+*** ex-1655460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この寺院の文庫には、中世から大切に受け継がれてきた多数の漢籍と仏典が所蔵されている。
+- READING :: このじいんのぶんこには、ちゅうせいからたいせつにうけつがれてきたたすうのかんせきとぶってんがしょぞうされている。
+- UK :: У книгозбірні цього храму зберігається велика кількість класичних китайських творів і буддійських текстів, дбайливо збережених із часів середньовіччя.
+- FOCUS :: 漢籍
+
+* Sense s-1655460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6da92fa001efcb2c7c245759996a2d402416af77dc2ab8210d2f77a07e4070ba
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1655460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klassisches chinesisches Buch
+** Ukrainian glosses
+
+* Sense s-1655460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7ba40ab50bf2f3f8431af5410955f942a6ab919a0ac33a0bb0447be21f674493
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1655460-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: китайская книга; китайские классики; книга на [классическом] китайском языке
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1655460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1655460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんせき
+** Accent accent-rd-1655460-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1655460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かんせき

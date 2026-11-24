@@ -1,0 +1,170 @@
+#+TITLE: 葛籠
+#+JMDICT_ID: 1778850
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つづら
+#+ROMAJI: tsuzura
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1778850-001
+:PROPERTIES:
+:TEXT: 葛籠
+:END:
+** Reading rd-1778850-001
+:PROPERTIES:
+:TEXT: つづら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- gikun
+** Reading rd-1778850-002
+:PROPERTIES:
+:TEXT: つづらこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- rk
+
+* Sense s-1778850-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c1641afe0eae331736835eb15870cbce03ff38c8dce895ad7f75cb21d945fc98
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- wicker clothes hamper
+** Ukrainian glosses
+*** uk-s-1778850-001-001
+:PROPERTIES:
+:END:
+- text :: плетена скринька або кошик для одягу
+** Learner notes
+*** note-s-1778850-001-001
+:PROPERTIES:
+:END:
+- UK :: Традиційна японська прямокутна скриня з кришкою, сплетена з бамбука чи лози й обклеєна японським папером, у якій зберігали кімоно та речі. На письмі слово зазвичай передається хіраґаною як つづら; відоме з народної казки «Горобець із відрізаним язиком».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1778850-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: おばあさんは葛籠を開けた。
+- READING :: おばあさんはつづらをあけた。
+- UK :: Бабуся відкрила плетену скриньку.
+- FOCUS :: 葛籠
+*** ex-1778850-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 押し入れの奥から古い葛籠が見つかった。
+- READING :: おしいれのおくからふるいつづらがみつかった。
+- UK :: У глибині стінної шафи знайшлася стара плетена скринька.
+- FOCUS :: 葛籠
+*** ex-1778850-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昔話では、欲張らずに小さな葛籠を選んだおじいさんが幸せになる。
+- READING :: むかしばなしでは、よくばらずにちいさなつづらをえらんだおじいさんがしあわせになる。
+- UK :: У народній казці дідусь, який не пожалкував і обрав маленьку скриньку, здобуває щастя.
+- FOCUS :: 葛籠
+
+* Sense s-1778850-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2e1e1f84765455144c40061a90dc3e44f79f9e2b910c07cc5be46cdfa69e7323
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1778850-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rieten koffer
+*** en-s-1778850-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reismand
+*** en-s-1778850-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {i.h.b.} rieten kleerkoffer
+*** en-s-1778850-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: klerenkoffer
+** Ukrainian glosses
+
+* Sense s-1778850-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 02771433e042690f47c04201f5e21f76d3b5abc50160633c2b03109c50a77aa8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1778850-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: корзина (для одежды); коробка; чемодан
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1778850-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1778850-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: つづら

@@ -1,0 +1,171 @@
+#+TITLE: 死臭
+#+JMDICT_ID: 1767650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ししゅう
+#+ROMAJI: shishuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1767650-001
+:PROPERTIES:
+:TEXT: 死臭
+:END:
+** Written form wf-1767650-002
+:PROPERTIES:
+:TEXT: 屍臭
+:END:
+** Reading rd-1767650-001
+:PROPERTIES:
+:TEXT: ししゅう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1767650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d2ba31da24728e019f4ff1d29bb065432fccf1efb08a02ea962e4d4ab9a1c198
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- putrid smell of a corpse
+** Ukrainian glosses
+*** uk-s-1767650-001-001
+:PROPERTIES:
+:END:
+- text :: трупний запах, сморід розкладання
+** Learner notes
+*** note-s-1767650-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і спеціалізований іменник, утворений від 死 («смерть», рідше варіант 屍 «труп») та 臭 («запах»). Позначає різкий сморід розкладеного тіла тварини чи людини; трапляється в судовій медицині, детективних романах, репортажах про стихійні лиха та природоохоронних текстах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1767650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 森の奥から強い死臭が漂ってきた。
+- READING :: もりのおくからつよいししゅうがただよってきた。
+- UK :: Із глибини лісу потягнуло різким трупним запахом.
+- FOCUS :: 死臭
+*** ex-1767650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 山道で倒れた動物のそばを通ったとき、ひどい死臭に気づいた。
+- READING :: やまみちでたおれたどうぶつのそばをとおったとき、ひどいししゅうにきづいた。
+- UK :: Коли я проходив гірською стежкою повз загиблу тварину, то відчув сильний трупний сморід.
+- FOCUS :: 死臭
+*** ex-1767650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 夏の猛暑の中で起きた事故現場では、捜査員がマスクをして死臭に耐えながら作業を続けた。
+- READING :: なつのもうしょのなかでおきたじこげんばでは、そうさいんがますくをしてししゅうにたえながらさぎょうをつづけた。
+- UK :: На місці події, що сталася під час літньої спеки, слідчі працювали в масках, ледь витримуючи трупний сморід.
+- FOCUS :: 死臭
+
+* Sense s-1767650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8a392ea219cf04b2610dc07a34e3541a17c8bb973aa8e54bc4201989b32ca93a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1767650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Totengeruch
+*** en-s-1767650-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leichengeruch
+** Ukrainian glosses
+
+* Sense s-1767650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9fe9b300efdd7ee6080d26caeeddd24692c7cfe6bd42b74bf313708d91ff8ca7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1767650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: трупный запах
+** Ukrainian glosses
+
+* Sense s-1767650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 829d4fa5cb4c7a2784c44b26f04643bb34efe672d24be92e709745d31a9e09b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1767650-004-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olor a muerto
+*** en-s-1767650-004-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: olor a cadáver
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1767650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1767650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ししゅう

@@ -1,0 +1,206 @@
+#+TITLE: 次数
+#+JMDICT_ID: 1316610
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じすう
+#+ROMAJI: jisuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1316610-001
+:PROPERTIES:
+:TEXT: 次数
+:END:
+** Reading rd-1316610-001
+:PROPERTIES:
+:TEXT: じすう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1316610-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3d76611c4fcc392ba5e85297527d8def1a8b983422d02f56d585fd411481c23b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- degree
+- order
+** Ukrainian glosses
+*** uk-s-1316610-001-001
+:PROPERTIES:
+:END:
+- text :: степінь (многочлена, рівняння); порядок (похідної, графа)
+** Learner notes
+*** note-s-1316610-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і математичний термін. В алгебрі позначає найбільший показник степеня змінної в многочлені чи рівнянні (наприклад, 一次 — перший степінь), а в теорії графів — кількість ребер, інцидентних вершині; поєднується з 高い (високого степеня) та 下げる (знизити степінь).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1316610-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この多項式の次数は三だ。
+- READING :: このたこうしきのじすうはさんだ。
+- UK :: Степінь цього многочлена дорівнює трьом.
+- FOCUS :: 次数
+*** ex-1316610-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: グラフの各頂点にはそれぞれ次数が定まる。
+- READING :: ぐらふのかくちょうてんにはそれぞれじすうがさだまる。
+- UK :: Для кожної вершини графа визначається свій степінь.
+- FOCUS :: 次数
+*** ex-1316610-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 方程式の次数が高くなるにつれて、解を厳密に求める計算は急激に複雑になる。
+- READING :: ほうていしきのじすうがたかくなるにつれて、かいをげんみつにもとめるけいさんはきゅうげきにふくざつになる。
+- UK :: Зі зростанням степеня рівняння обчислення для точного знаходження його розв'язків стрімко ускладнюються.
+- FOCUS :: 次数
+
+* Sense s-1316610-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7458f9e215b4d8617d0a7caacb35570e4b054965a3537555939d9f6e5fd9621d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316610-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grad
+*** en-s-1316610-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ordnung
+** Ukrainian glosses
+
+* Sense s-1316610-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e3e95d75d289ee7a6b10b2edaf8088d6823f7c76c0b5f2ab983383a672e724fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316610-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ordnung
+** Ukrainian glosses
+
+* Sense s-1316610-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 22a83f006e9db3925f0139e1b5ad231a7ed51418b65d84918032c9e2b29c93dd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316610-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diploma
+*** en-s-1316610-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fokozat
+** Ukrainian glosses
+
+* Sense s-1316610-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 3e5e7dbff12aa5ec9cdded22327a6ee2ae4a5640beb82ced305708e39e39c4ab
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316610-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) степень
+** Ukrainian glosses
+
+* Sense s-1316610-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: e27c20566fc290b30e0c7028ce01bcccadec224ee59751125e9fdc1fc63a1328
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1316610-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grad
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1316610-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1316610-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じすう

@@ -1,0 +1,167 @@
+#+TITLE: 天寿
+#+JMDICT_ID: 1439340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てんじゅ
+#+ROMAJI: tenju
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1439340-001
+:PROPERTIES:
+:TEXT: 天寿
+:END:
+*** Priorities
+- news2
+- nf45
+- spec2
+** Reading rd-1439340-001
+:PROPERTIES:
+:TEXT: てんじゅ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+- spec2
+
+* Sense s-1439340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ddffec545505e0c30eef36a70766db124ef6a612ce1f5e4067b4cf8209846a70
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- natural span of life
+** Ukrainian glosses
+*** uk-s-1439340-001-001
+:PROPERTIES:
+:END:
+- text :: природний вік, відведений небом вік (життя)
+** Learner notes
+*** note-s-1439340-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, утворений із 天 (небо, доля) та 寿 (довголіття). Позначає природну тривалість життя, призначену людині чи живій істоті, і найчастіше вживається у сталому виразі 天寿を全うする («дожити свій вік», «прожити до природної смерті»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1439340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は幸せに天寿を全うした。
+- READING :: そふはしあわせにてんじゅをまっとうした。
+- UK :: Мій дідусь щасливо дожив свого віку.
+- FOCUS :: 天寿
+*** ex-1439340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長年家族に愛された飼い犬は、老衰のため静かに天寿を全うした。
+- READING :: ながねんかぞくにあいされたかいいぬは、ろうすいのためしずかにてんじゅをまっとうした。
+- UK :: Домашній собака, якого багато років любила вся родина, тихо дожив свого природного віку від старості.
+- FOCUS :: 天寿
+*** ex-1439340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医療技術の進歩により、多くの人が大きな苦痛を伴わずに天寿を全うできる環境が整いつつある。
+- READING :: いりょうぎじゅつのしんぽにより、おおくのひとがおおきなくつうをともなわずにてんじゅをまっとうできるかんきょうがととのいつつある。
+- UK :: Завдяки розвитку медичних технологій поступово створюються умови, за яких дедалі більше людей можуть дожити відведений їм вік без сильних страждань.
+- FOCUS :: 天寿
+
+* Sense s-1439340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 92c8686521affd291f418959a477e6e3552765479cb42144d9182c5235801037
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1439340-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: durée naturelle de la vie
+*** en-s-1439340-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: longévité naturelle
+** Ukrainian glosses
+
+* Sense s-1439340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8f8aa96e2918e21b99eb728d89ec6252969c56b4e6939186070e279742cc17f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1439340-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: natürliche Lebensdauer
+** Ukrainian glosses
+
+* Sense s-1439340-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b984c141d06bfd8a17d5c39fd243091bca629cb3fa2c06a706a6da4f13f2b61d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1439340-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: естественный срок (естественная продолжительность) жизни
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1439340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1439340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: てんじゅ

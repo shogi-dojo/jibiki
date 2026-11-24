@@ -1,0 +1,168 @@
+#+TITLE: 撓う
+#+JMDICT_ID: 2097560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しなう
+#+ROMAJI: shinau
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2097560-001
+:PROPERTIES:
+:TEXT: 撓う
+:END:
+** Reading rd-2097560-001
+:PROPERTIES:
+:TEXT: しなう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2097560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3c88c96dfc259afa85f9640a84634fafba8dbd05fcb1d2a36dbd5e0a410f38f8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+*** Miscellaneous and register
+- uk
+** English glosses
+- to bend
+- to warp
+- to yield
+** Ukrainian glosses
+*** uk-s-2097560-001-001
+:PROPERTIES:
+:END:
+- text :: гнутися, прогинатися, вигинатися (не ламаючись)
+** Learner notes
+*** note-s-2097560-001-001
+:PROPERTIES:
+:END:
+- UK :: Неперехідне дієслово п'ятиступеневої дієвідміни (五段動詞 на -う), яке зазвичай записується каною (しなう, рідше ієрогліфом 撓う). Означає пружне згинання під навантаженням або вітром без зламів — наприклад, гілля дерева, бамбука чи спортивної жердини.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2097560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 強い風で竹が大きくしなう。
+- READING :: つよいかぜでたけがおおきくしなう。
+- UK :: Від сильного вітру бамбук сильно прогинається.
+- FOCUS :: しなう
+*** ex-2097560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 重い雪が積もり、庭の木の枝が地面につくほどしなっていた。
+- READING :: おもいゆきがつもり、にわのきのえだがじめんにつくほどしなっていた。
+- UK :: Налип важкий сніг, і гілки дерев у саду прогнулися мало не до самої землі.
+- FOCUS :: しなって
+*** ex-2097560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 一流の野球選手が振るバットは、インパクトの瞬間に鞭のようにしなうと言われる。
+- READING :: いちりゅうのやきゅうせんしゅがふるばっとは、いんぱくとのしゅんかんにむちのようにしなうといわれる。
+- UK :: Кажуть, що бита в руках першокласного бейсболіста в мить удару по м'ячу гнеться, мов батіг.
+- FOCUS :: しなう
+
+* Sense s-2097560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f06f6a872a0a33afa07502910f4c654550df4953e610ff570f22ae5157e83b8a
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5u
+- vi
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- しなやか・1
+** English glosses
+- to be supple (e.g. bamboo, body)
+- to be flexible
+- to be pliant
+** Ukrainian glosses
+*** uk-s-2097560-002-001
+:PROPERTIES:
+:END:
+- text :: бути гнучким, еластичним, пластичним (про тіло, матеріал)
+** Learner notes
+*** note-s-2097560-002-001
+:PROPERTIES:
+:END:
+- UK :: Властивість предмета або тіла легко та плавно згинатися, зберігаючи пружність і силу. Із цим значенням тісно пов'язаний прикметник しなやか («гнучкий, граційний, еластичний»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-2097560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de844dfaafe3d6ff69b9801e694d454ac8dff9a3a2dbd82f55f92e00dec1ea0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2097560-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sich biegen
+** Ukrainian glosses
+
+* Sense s-2097560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4ceccce083d3ea498e8f60aa761f6828654d9b7e1395c101100c64673f7f4abd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2097560-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: быть гибким, [хорошо] гнуться; прогибаться
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2097560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2097560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しなう

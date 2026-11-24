@@ -1,0 +1,182 @@
+#+TITLE: 誤診
+#+JMDICT_ID: 1271400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ごしん
+#+ROMAJI: goshin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1271400-001
+:PROPERTIES:
+:TEXT: 誤診
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1271400-001
+:PROPERTIES:
+:TEXT: ごしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1271400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3574e4c846a3fac443522034ca2137f91058966952997eeee38695bb7086d6be
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- wrong diagnosis
+- misdiagnosis
+** Ukrainian glosses
+*** uk-s-1271400-001-001
+:PROPERTIES:
+:END:
+- text :: помилковий діагноз; неправильна діагностика
+** Learner notes
+*** note-s-1271400-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник, складений із 誤 («помилятися») та 診 («оглядати, ставити діагноз»). Як перехідне дієслово зі する (誤診する) означає «поставити хибний діагноз».
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1271400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医師が病気を誤診した。
+- READING :: いしがびょうきをごしんした。
+- UK :: Лікар поставив помилковий діагноз.
+- FOCUS :: 誤診
+*** ex-1271400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 誤診を防ぐために精密検査を行う。
+- READING :: ごしんをふせぐためにせいみつけんさをおこなう。
+- UK :: Щоб уникнути помилкового діагнозу, проводять детальне обстеження.
+- FOCUS :: 誤診
+*** ex-1271400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 初期症状が一般的な風邪と似ていたため、最初の診察では誤診されやすかった。
+- READING :: しょきしょうじょうがいっぱんてきなかぜとにていたため、さいしょのしんさつではごしんされやすかった。
+- UK :: Оскільки початкові симптоми були схожі на звичайну застуду, під час першого огляду легко було поставити хибний діагноз.
+- FOCUS :: 誤診
+
+* Sense s-1271400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 50dbe46aea9d8af3e150fb55c0f28238828ee2e29d0c42e9012f649560fd1370
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Fehldiagnose leisten
+*** en-s-1271400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falsch diagnostizieren
+*** en-s-1271400-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine falsche Diagnose stellen
+*** en-s-1271400-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fehldiagnose
+*** en-s-1271400-002-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: falsche Diagnose
+** Ukrainian glosses
+
+* Sense s-1271400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b65172c7e6769febb80fccb99b3b69a63b0800d2c00835d77e45e38fbac939e6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1271400-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ошибочный (неверный) диагноз
+*** en-s-1271400-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} поставить неверный диагноз
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1271400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1271400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ごしん

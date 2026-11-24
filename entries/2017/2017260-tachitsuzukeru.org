@@ -1,0 +1,155 @@
+#+TITLE: 立ち続ける
+#+JMDICT_ID: 2017260
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たちつづける
+#+ROMAJI: tachitsuzukeru
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2017260-001
+:PROPERTIES:
+:TEXT: 立ち続ける
+:END:
+** Written form wf-2017260-002
+:PROPERTIES:
+:TEXT: 立続ける
+:END:
+** Reading rd-2017260-001
+:PROPERTIES:
+:TEXT: たちつづける
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2017260-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 30d2d5b250e57e5586e4e2c93bb278328409a26c3f6e27e801b524969e3030d6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v1
+- vi
+** English glosses
+- to keep standing
+** Ukrainian glosses
+*** uk-s-2017260-001-001
+:PROPERTIES:
+:END:
+- text :: продовжувати стояти; стояти не сідаючи
+** Learner notes
+*** note-s-2017260-001-001
+:PROPERTIES:
+:END:
+- UK :: Складене неперехідне дієслово другої дієвідміни (～る), утворене від основи 立つ (стояти) та допоміжного дієслова 続ける (продовжувати). Виражає тривале перебування на ногах без перепочинку.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2017260-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 満員電車で一時間立ち続ける。
+- READING :: まんいんでんしゃでいちじかんたちつづける。
+- UK :: Стояти годину в переповненій електричці.
+- FOCUS :: 立ち続ける
+*** ex-2017260-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 何時間も立ち続けていたので、足が棒のようになった。
+- READING :: なんじかんもたちつづけていたので、あしがぼうのようになった。
+- UK :: Оскільки я стояв багато годин поспіль, ноги геть затерпли.
+- FOCUS :: 立ち続けて
+*** ex-2017260-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 厳しい寒さのなか、警備員たちは式典が終わるまで玄関の前で静かに立ち続けた。
+- READING :: きびしいさむさのなか、けいびいんたちはしきてんがおわるまでげんかんのまえでしずかにたちつづけた。
+- UK :: Попри лютий холод охоронці мовчки простояли перед входом аж до завершення церемонії.
+- FOCUS :: 立ち続けた
+
+* Sense s-2017260-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 17bbe41c69aec802f33c3fa7be6586aa61470b15860b826af7f4a9d386131261
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2017260-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weiter stehen
+** Ukrainian glosses
+
+* Sense s-2017260-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f6c6453427c53d3649e272bdad211c0df3d13dbea46ec59cf3ac5cb60e04afd6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2017260-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) たちとおす
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2017260-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2017260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たちつづける
+** Accent accent-rd-2017260-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2017260-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: たちつづける

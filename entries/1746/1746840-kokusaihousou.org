@@ -1,0 +1,141 @@
+#+TITLE: 国際放送
+#+JMDICT_ID: 1746840
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こくさいほうそう
+#+ROMAJI: kokusaihousou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1746840-001
+:PROPERTIES:
+:TEXT: 国際放送
+:END:
+** Reading rd-1746840-001
+:PROPERTIES:
+:TEXT: こくさいほうそう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1746840-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eaf8d82b44393c6dee93c9aae46bfa03a7858d02958f2da28ae37c886a9195af
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- international broadcast(ing)
+** Ukrainian glosses
+*** uk-s-1746840-001-001
+:PROPERTIES:
+:END:
+- text :: міжнародне мовлення; іномовлення (радіо, телебачення)
+** Learner notes
+*** note-s-1746840-001-001
+:PROPERTIES:
+:END:
+- UK :: Медійний іменник, складений із 国際 (міжнародний) та 放送 (телерадіомовлення). Позначає радіо- й телепередачі, які транслюються за кордон для іноземної аудиторії або громадян, що перебувають за межами країни (наприклад, багатомовне мовлення на коротких хвилях чи через супутник).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1746840-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 外国語で国際放送を聞く。
+- READING :: がいこくごでこくさいほうそうをきく。
+- UK :: Слухати міжнародне мовлення іноземною мовою.
+- FOCUS :: 国際放送
+*** ex-1746840-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 災害時には海外に住む自国民に向けても国際放送で情報が伝えられる。
+- READING :: さいがいじにはかいがいにすむじこくみんにむけてもこくさいほうそうでじょうほうがつたえられる。
+- UK :: Під час стихійних лих інформація передається за допомогою міжнародного мовлення також і для громадян, які перебувають за кордоном.
+- FOCUS :: 国際放送
+*** ex-1746840-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: インターネットの普及に伴い、従来の短波ラジオだけでなく動画配信を通じた国際放送の役割が広がっている。
+- READING :: いんたーねっとのふきゅうにともない、じゅうらいのたんぱらじおだけでなくどうがはいしんをつうじたこくさいほうそうのやくわりがひろがっている。
+- UK :: Із поширенням інтернету роль міжнародного мовлення розширюється — воно охоплює не лише традиційне короткохвильове радіо, а й потокові відеотрансляції.
+- FOCUS :: 国際放送
+
+* Sense s-1746840-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 076e10530f962ec18fd2dd8fdc7d8c853d8ca0dac81ad69cbce50e6844b3a686
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746840-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: internationaler Rundfunk
+*** en-s-1746840-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: internationale Ausstrahlung
+** Ukrainian glosses
+
+* Sense s-1746840-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 31c5718621a61297854b47ca320a699ab67fddb80b08fb30d355fa2e735d53a8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1746840-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: международное радиовещание, международные радиопередачи
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1746840-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1746840-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こくさいほうそう

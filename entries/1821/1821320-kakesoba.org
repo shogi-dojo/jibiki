@@ -1,0 +1,174 @@
+#+TITLE: かけ蕎麦
+#+JMDICT_ID: 1821320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かけそば
+#+ROMAJI: kakesoba
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1821320-001
+:PROPERTIES:
+:TEXT: かけ蕎麦
+:END:
+** Written form wf-1821320-002
+:PROPERTIES:
+:TEXT: 掛け蕎麦
+:END:
+** Written form wf-1821320-003
+:PROPERTIES:
+:TEXT: 掛けそば
+:END:
+*** Information
+- sK
+** Written form wf-1821320-004
+:PROPERTIES:
+:TEXT: 掛蕎麦
+:END:
+*** Information
+- sK
+** Reading rd-1821320-001
+:PROPERTIES:
+:TEXT: かけそば
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1821320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4ec5127a57a1d146dc7bb9d7876504992c4ed9436ab3490d5751118034194865
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+*** Miscellaneous and register
+- uk
+*** Cross-references
+- そば・2
+** English glosses
+- soba in hot broth
+- soba without any trimmings
+** Ukrainian glosses
+*** uk-s-1821320-001-001
+:PROPERTIES:
+:END:
+- text :: каке-соба (гречана локшина в гарячому бульйоні без додатків)
+** Learner notes
+*** note-s-1821320-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний іменник, що зазвичай записується каною (かけそば). Назва походить від 掛ける (поливати): на відміну від холодної もりそば, гречану локшину подають у мисці й одразу заливають гарячим бульйоном даші з соєвим соусом, без додаткових начинок окрім дрібної зеленої цибулі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1821320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 寒い日には温かいかけそばを食べたい。
+- READING :: さむいひにはあたたかいかけそばをたべたい。
+- UK :: У холодний день хочеться з'їсти гарячої локшини каке-соба.
+- FOCUS :: かけそば
+*** ex-1821320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 駅前の立ち食いそば屋で、昼休みに急いでかけそばを一杯すすった。
+- READING :: えきまえのたちぐいそばやで、ひるやすみにいそいでかけそばをいっぱいすすった。
+- UK :: У привокзальній забігайлівці без сидячих місць я під час обідньої перерви поспіхом сьорбнув порцію каке-соби.
+- FOCUS :: かけそば
+*** ex-1821320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 天ぷらなどの具材が乗っていない分、かけそばは麺とだしの味そのものをじっくり楽しめる。
+- READING :: てんぷらなどのぐざいがのっていないぶん、かけそばはめんとだしのあじそのものをじっくりたのしめる。
+- UK :: Оскільки в каке-собі немає додаткових начинок на кшталт темпури, можна сповна насолодитися смаком самої локшини й бульйону.
+- FOCUS :: かけそば
+
+* Sense s-1821320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5deafbfebca24ad1d7ffbb48cf230964ff507c13986fb4a19069243a93d2965c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821320-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {Jap.cul.} sobasoep {= soep van bouillon met soba erin}
+** Ukrainian glosses
+
+* Sense s-1821320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5d4fde012e97cf0dad9681041ccef6835916f65da91b0086f8de37e4c361131e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821320-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Soba-Nudeln mit Tsuyu
+** Ukrainian glosses
+
+* Sense s-1821320-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b39f06b6107fdaf1007c26213a2d75f0846f8ac4918cc7463e7895342eef2e18
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1821320-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: суп с лапшой из гречневой муки
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1821320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1821320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かけそば

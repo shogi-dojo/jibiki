@@ -1,0 +1,168 @@
+#+TITLE: 投票用紙
+#+JMDICT_ID: 1692680
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とうひょうようし
+#+ROMAJI: touhyouyoushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1692680-001
+:PROPERTIES:
+:TEXT: 投票用紙
+:END:
+** Reading rd-1692680-001
+:PROPERTIES:
+:TEXT: とうひょうようし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1692680-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: de718335e6f1db736011b7f6a6e3e6a641c4b3bce7a2a772c69c9d1da65078e8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ballot paper
+- voting paper
+** Ukrainian glosses
+*** uk-s-1692680-001-001
+:PROPERTIES:
+:END:
+- text :: виборчий бюлетень
+** Learner notes
+*** note-s-1692680-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний іменник із 投票 (голосування) та 用紙 (бланк, аркуш паперу). Вживається в офіційному та повсякденному мовленні для позначення аркуша, на якому виборець зазначає свій вибір і опускає його до виборчої урни (投票箱).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1692680-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 投票用紙に名前を書きます。
+- READING :: とうひょうようしになまえをかきます。
+- UK :: На виборчому бюлетені пишуть ім'я.
+- FOCUS :: 投票用紙
+*** ex-1692680-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 受付で投票用紙を受け取りました。
+- READING :: うけつけでとうひょうようしをうけとりました。
+- UK :: Я отримав виборчий бюлетень на стійці реєстрації.
+- FOCUS :: 投票用紙
+*** ex-1692680-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 記入を間違えた場合は、係員に申し出れば新しい投票用紙と交換してもらえます。
+- READING :: きにゅうをまちがえたばあいは、かかりいんにもうしでればあたらしいとうひょうようしとこうかんしてもらえます。
+- UK :: Якщо ви помилилися під час заповнення, можна звернутися до працівника дільниці й обміняти бюлетень на новий.
+- FOCUS :: 投票用紙
+
+* Sense s-1692680-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4a94cc5d4e65605ddee4d140b7a553e4b0a7c246e5ef7337fa9229efd1d92750
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1692680-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stembiljet
+*** en-s-1692680-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stembriefje
+** Ukrainian glosses
+
+* Sense s-1692680-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 28d6d99174532a482e53a94bb26f848cc2d4ce6c2a67d409184bcd6a84fa157f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1692680-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stimmzettel
+*** en-s-1692680-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wahlzettel
+** Ukrainian glosses
+
+* Sense s-1692680-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: fe46761be54011a6673ccbb21ac81fd1a98f36103c573464f1ca1aeeea4769af
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1692680-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: избирательный бюллетень
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1692680-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1692680-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: とうひょうようし

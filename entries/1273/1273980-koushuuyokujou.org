@@ -1,0 +1,183 @@
+#+TITLE: 公衆浴場
+#+JMDICT_ID: 1273980
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうしゅうよくじょう
+#+ROMAJI: koushuuyokujou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1273980-001
+:PROPERTIES:
+:TEXT: 公衆浴場
+:END:
+** Reading rd-1273980-001
+:PROPERTIES:
+:TEXT: こうしゅうよくじょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1273980-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d5ae5f939fc012cd519052ae4bc59b8ef53c658cb43eb6eb5a7984e7cb77b6ab
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- public bathhouse
+** Ukrainian glosses
+*** uk-s-1273980-001-001
+:PROPERTIES:
+:END:
+- text :: громадська лазня
+** Learner notes
+*** note-s-1273980-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний і юридичний термін на позначення закладу з платними лазнями й купальнями для широкого загалу (у Японії це передусім традиційні 銭湯 або комерційні лазні スーパー銭湯). Поєднує 公衆 («громадський») і 浴場 («лазня, купальня»), у повсякденній мові трапляється рідше за 銭湯.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1273980-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 家の近くに古い公衆浴場がある。
+- READING :: いえのちかくにふるいこうしゅうよくじょうがある。
+- UK :: Неподалік від дому є стара громадська лазня.
+- FOCUS :: 公衆浴場
+*** ex-1273980-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地域の公衆浴場は、朝から多くの人でにぎわっている。
+- READING :: このちいきのこうしゅうよくじょうは、あさからおおくのひとでにぎわっている。
+- UK :: У місцевій громадській лазні ще з ранку багато відвідувачів.
+- FOCUS :: 公衆浴場
+*** ex-1273980-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 自治体によっては、災害時に住民が無料で公衆浴場を利用できる協定を結んでいる。
+- READING :: じちたいによっては、さいがいじにじゅうみんがむりょうでこうしゅうよくじょうをりようできるきょうていをむすんでいる。
+- UK :: Деякі муніципалітети укладають угоди, за якими в разі стихійного лиха мешканці можуть безплатно користуватися громадськими лазнями.
+- FOCUS :: 公衆浴場
+
+* Sense s-1273980-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: fc92b81872f341f47d3e135d5c402be414d84308f12b7a4404520eeb43a99ca7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273980-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: volksbadhuis
+*** en-s-1273980-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: openbare badinrichting
+*** en-s-1273980-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: publiek bad
+*** en-s-1273980-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {古代ローマの} thermen
+*** en-s-1273980-002-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: thermae
+** Ukrainian glosses
+
+* Sense s-1273980-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6638322b9679156196fc75e3a3a633ddb84bb1a0d1524b04dedfe84b3b5701ca
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273980-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: öffentliche Badeanstalt
+** Ukrainian glosses
+
+* Sense s-1273980-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 77b4df771f8ad3e54d9900f805ed05a3a8b4ce2d66394420fc8745968292c0de
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1273980-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общественные бани
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1273980-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1273980-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 8
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうしゅうよくじょう

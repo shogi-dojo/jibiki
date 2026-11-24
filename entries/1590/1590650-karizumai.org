@@ -1,0 +1,173 @@
+#+TITLE: 仮住まい
+#+JMDICT_ID: 1590650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かりずまい
+#+ROMAJI: karizumai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1590650-001
+:PROPERTIES:
+:TEXT: 仮住まい
+:END:
+*** Priorities
+- news2
+- nf33
+** Written form wf-1590650-002
+:PROPERTIES:
+:TEXT: 仮住い
+:END:
+** Written form wf-1590650-003
+:PROPERTIES:
+:TEXT: 仮住居
+:END:
+** Reading rd-1590650-001
+:PROPERTIES:
+:TEXT: かりずまい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf33
+
+* Sense s-1590650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 91d83b371fb036ca992d4533d769ec7b14813f4fbc41237d555aa4d17bf348b2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- temporary residence
+** Ukrainian glosses
+*** uk-s-1590650-001-001
+:PROPERTIES:
+:END:
+- text :: тимчасове житло; тимчасове проживання
+** Learner notes
+*** note-s-1590650-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і неперехідне дієслово з する (仮住まいする — тимчасово мешкати). Утворене від 仮 (тимчасовий) і 住まい (оселя); зазвичай описує помешкання на час ремонту, будівництва або переїзду.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1590650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今は駅の近くで仮住まいをしています。
+- READING :: いまはえきのちかくでかりずまいをしています。
+- UK :: Зараз я тимчасово мешкаю неподалік від станції.
+- FOCUS :: 仮住まい
+*** ex-1590650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 家を建て替える間、親戚の家で仮住まいすることになりました。
+- READING :: いえをたてかえるあいだ、しんせきのいえでかりずまいすることになりました。
+- UK :: Поки будинок перебудовують, ми вирішили тимчасово пожити в родичів.
+- FOCUS :: 仮住まい
+*** ex-1590650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 転勤が多い仕事なので、どの町でも仮住まいのような感覚で暮らしています。
+- READING :: てんきんがおおいしごとなので、どのまちでもかりずまいのようなかんかくでくらしています。
+- UK :: Через часті переведення по роботі в кожному місті я живу з відчуттям тимчасового помешкання.
+- FOCUS :: 仮住まい
+
+* Sense s-1590650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1988af9f1583972f4156916877aebf5a3370417f22b9002e9eb4cf9390aacae5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zeitweise wohnen
+*** en-s-1590650-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Behelfswohnung
+*** en-s-1590650-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zeitweilige Wohnung
+** Ukrainian glosses
+
+* Sense s-1590650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6197f378b99d1208a76c9bf2be068cdb24d4a4ea2f034b2fc86325fd06f4fa95
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1590650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: временное проживание
+*** en-s-1590650-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} временно жить (проживать)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1590650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1590650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かりずまい

@@ -1,0 +1,152 @@
+#+TITLE: 復路
+#+JMDICT_ID: 1500870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふくろ
+#+ROMAJI: fukuro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1500870-001
+:PROPERTIES:
+:TEXT: 復路
+:END:
+** Reading rd-1500870-001
+:PROPERTIES:
+:TEXT: ふくろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1500870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: edd16d66344b1f4d3570ca069f82ced2eb643beb1b4663a4fa794b52926a7691
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- return path (of a signal, communication)
+- return trip
+** Ukrainian glosses
+*** uk-s-1500870-001-001
+:PROPERTIES:
+:END:
+- text :: зворотний шлях; дорога назад; зворотний маршрут
+** Learner notes
+*** note-s-1500870-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник і прислівник; утворений з 復 (повернення) та 路 (шлях) як антонім до 往路 (шлях туди). Уживається щодо поїздок, перельотів, спортивних змагань (наприклад, естафети екіден) і маршрутів передачі сигналу.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1500870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の復路は新幹線に乗りました。
+- READING :: りょこうのふくろはしんかんせんにのりました。
+- UK :: На зворотному шляху з подорожі я їхав шінкансеном.
+- FOCUS :: 復路
+*** ex-1500870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 往路は混雑していたが、復路の電車は比較的すいていた。
+- READING :: おうろはこんざつしていたが、ふくろのでんしゃはひかくてきすいていた。
+- UK :: По дорозі туди було тісно, а поїзд на зворотному маршруті виявився порівняно вільним.
+- FOCUS :: 復路
+*** ex-1500870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長距離の駅伝大会では、往路でリードを奪われても復路の追い上げで逆転する展開が少なくない。
+- READING :: ちょうきょりのえきでんたいかいでは、おうろでりーどをうばわれてもふくろのおいあげでぎゃくてんするてんかいがすくなくない。
+- UK :: На змаганнях із довгої естафети екіден нерідко буває так, що команда, втративши лідерство на першому етапі, перемагає завдяки ривку на зворотному шляху.
+- FOCUS :: 復路
+
+* Sense s-1500870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 478e7b0986963960017773a20bac57f3865fb6ca9809ed5977ac74879a99bdc8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500870-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Rückweg
+** Ukrainian glosses
+
+* Sense s-1500870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9f8c6c356baebe8ab099a29e30c278722f0aad747cacc91582e93d825252917a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1500870-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) обратный путь
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1500870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1500870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふくろ
+** Accent accent-rd-1500870-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1500870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふくろ

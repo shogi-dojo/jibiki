@@ -1,0 +1,159 @@
+#+TITLE: 予備軍
+#+JMDICT_ID: 1948170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よびぐん
+#+ROMAJI: yobigun
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1948170-001
+:PROPERTIES:
+:TEXT: 予備軍
+:END:
+** Reading rd-1948170-001
+:PROPERTIES:
+:TEXT: よびぐん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1948170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b4f9f6a9e51b9b205124ae9be18e5e31613377035c704a06f7ab3366871000c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- reserves (esp. troops)
+- reserve army
+** Ukrainian glosses
+*** uk-s-1948170-001-001
+:PROPERTIES:
+:END:
+- text :: резервні війська; армія резерву
+** Learner notes
+*** note-s-1948170-001-001
+:PROPERTIES:
+:END:
+- UK :: Військовий іменник від 予備 (запас, резерв) та 軍 (армія, військо). Позначає резервну армію чи військовий резерв, який за потреби мобілізують для підсилення регулярних військ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1948170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 国は緊急時に備えて予備軍を持っています。
+- READING :: くにはきんきゅうじにそなえてよびぐんをもっています。
+- UK :: Країна утримує резервні війська на випадок надзвичайної ситуації.
+- FOCUS :: 予備軍
+*** ex-1948170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 大規模な演習では、現役部隊に加えて予備軍の隊員も招集された。
+- READING :: だいきぼなえんしゅうでは、げんえきぶたいにくわえてよびぐんのたいいんもしょうしゅうされた。
+- UK :: На масштабні навчання, окрім кадрових підрозділів, призвали також бійців резервних військ.
+- FOCUS :: 予備軍
+*** ex-1948170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 政府は防衛力を維持するため、予備軍の訓練制度を見直す方針を明らかにした。
+- READING :: せいふはぼうえいりょくをいじするため、よびぐんのくんれんせいどをみなおすほうしんをあきらかにした。
+- UK :: Уряд оприлюднив намір переглянути систему підготовки резервних військ для підтримання обороноздатності.
+- FOCUS :: 予備軍
+
+* Sense s-1948170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f03c38c615115a99a3830659fdc4320cf5e1fd66e02c644eff2188ea7d8d5099
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- potential members of some group (e.g. the elderly)
+- people at risk (e.g. of a medical condition)
+- wannabees
+** Ukrainian glosses
+*** uk-s-1948170-002-001
+:PROPERTIES:
+:END:
+- text :: група ризику; потенційні представники певної категорії; «резерв» (у переносному значенні)
+** Learner notes
+*** note-s-1948170-002-001
+:PROPERTIES:
+:END:
+- UK :: Дуже поширене в сучасній японській мові переносне значення: люди, які ще не належать до певної групи або не мають певного діагнозу, але мають високу схильність до цього. Часто утворює складні іменники на зразок 糖尿病予備軍 (група ризику діабету), メタボ予備軍 або 引きこもり予備軍.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1948170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 59e77c20c2c022b78ef4f3c3c16127da030f429d5a54965e2f521c425c4e5973
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1948170-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reservearmee
+** Ukrainian glosses
+
+* Sense s-1948170-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ba4176b67f87aef8c6c41bb023db26bc780272e413145f6ec826f321d4fcb00f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1948170-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: резервная армия, резервные войска
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1948170-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1948170-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: よびぐん

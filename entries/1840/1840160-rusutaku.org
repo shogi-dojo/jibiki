@@ -1,0 +1,133 @@
+#+TITLE: 留守宅
+#+JMDICT_ID: 1840160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: るすたく
+#+ROMAJI: rusutaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1840160-001
+:PROPERTIES:
+:TEXT: 留守宅
+:END:
+** Reading rd-1840160-001
+:PROPERTIES:
+:TEXT: るすたく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1840160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 29492b83022d73f9ce9cb39290344e5aad2634c73cf2e6d218aad60e0f33cab6
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- house where the family is out
+** Ukrainian glosses
+*** uk-s-1840160-001-001
+:PROPERTIES:
+:END:
+- text :: порожній дім (за відсутності господарів); дім, залишений без нагляду
+** Learner notes
+*** note-s-1840160-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 留守 (відсутність удома) та 宅 (дім, оселя). Позначає житло, мешканці якого тимчасово поїхали чи вийшли, або родину, що залишилася вдома на час від'їзду одного з її членів (часто 留守宅を守る — доглядати за домом під час відсутності господарів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1840160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行中の留守宅を頼む。
+- READING :: りょこうちゅうのるすたくをたのむ。
+- UK :: Попросити доглянути за домом на час подорожі.
+- FOCUS :: 留守宅
+*** ex-1840160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長期休暇の時期には、留守宅を狙った空き巣に注意が必要だ。
+- READING :: ちょうききゅうかのじきには、るすたくをねらったあきすにちゅういがひつようだ。
+- UK :: У період тривалих канікул треба остерігатися квартирних крадіїв, які полюють на спорожнілі домівки.
+- FOCUS :: 留守宅
+*** ex-1840160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海外赴任が決まった彼は、日本に残る留守宅の世話を近所の親戚にお願いした。
+- READING :: かいがいふにんがきまったかれは、にほんにのこるるすたくのせわをきんじょのしんせきにおねがいした。
+- UK :: Отримавши призначення за кордон, він попросив родичів, які жили поблизу, наглядати за домом, що залишався в Японії.
+- FOCUS :: 留守宅
+
+* Sense s-1840160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 52862f6ecb7a3a8bed5c445c6cfe0677cc8b5eb92600a0487ed192ec627aeb37
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1840160-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Haus mit abwesenden Bewohnern
+** Ukrainian glosses
+
+* Sense s-1840160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 118a4f51397d9de2806a3f200f2fbfb2bb0c48e206af5f7249decc9a7c6b60df
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1840160-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: квартира (дом) отсутствующего хозяина
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1840160-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1840160-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: るすたく

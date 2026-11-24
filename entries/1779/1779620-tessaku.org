@@ -1,0 +1,142 @@
+#+TITLE: 鉄柵
+#+JMDICT_ID: 1779620
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てっさく
+#+ROMAJI: tessaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1779620-001
+:PROPERTIES:
+:TEXT: 鉄柵
+:END:
+** Reading rd-1779620-001
+:PROPERTIES:
+:TEXT: てっさく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1779620-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a55fcd56f68f750e06c1bc8c206a6b4b807aa6f503fabbdf9498f2485710f3f5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- iron railing
+- iron fence
+** Ukrainian glosses
+*** uk-s-1779620-001-001
+:PROPERTIES:
+:END:
+- text :: залізна огорожа, металева решітка, залізні поручні
+** Learner notes
+*** note-s-1779620-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник зі складників 鉄 («залізо») та 柵 («огорожа, паркан»). Позначає міцну металеву огорожу чи ґрати довкола території, на мосту, біля залізниці або на небезпечній ділянці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1779620-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 公園の周りに古い鉄柵があります。
+- READING :: こうえんのまわりにふるいてっさくがあります。
+- UK :: Навколо парку стоїть стара залізна огорожа.
+- FOCUS :: 鉄柵
+*** ex-1779620-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 立入禁止の区域には高い鉄柵が張り巡らされていて、中には入れない。
+- READING :: たちいりきんしのくいきにはたかいてっさくがはりめぐらされていて、なかにははいれない。
+- UK :: Заборонену зону обнесено високою залізною огорожею, тож усередину зайти неможливо.
+- FOCUS :: 鉄柵
+*** ex-1779620-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 海沿いの遊歩道では、塩害でさびた鉄柵を新しいステンレス製のものに交換する工事が進んでいる。
+- READING :: うみぞいのゆうほどうでは、えんがいでさびたてっさくをあたらしいすてんれすせいのものにこうかんするこうじがすすんでいる。
+- UK :: На прибережній прогулянковій доріжці триває заміна заіржавілої від морської солі залізної огорожі на нову з неіржавної сталі.
+- FOCUS :: 鉄柵
+
+* Sense s-1779620-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ea3e81c9121ce07156b21db0745f7c7ac2eeb42b9588a5d22a11019d0cd4d7e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779620-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisengitter
+*** en-s-1779620-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenzaun
+** Ukrainian glosses
+
+* Sense s-1779620-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e75b101ce5e2be3585439a53df1134f085ba842813320284d739bd049494af81
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779620-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: железная ограда
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1779620-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1779620-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: てっさく

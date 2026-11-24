@@ -1,0 +1,173 @@
+#+TITLE: 乗り物酔い
+#+JMDICT_ID: 1706900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のりものよい
+#+ROMAJI: norimonoyoi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1706900-001
+:PROPERTIES:
+:TEXT: 乗り物酔い
+:END:
+** Written form wf-1706900-002
+:PROPERTIES:
+:TEXT: 乗物酔い
+:END:
+** Reading rd-1706900-001
+:PROPERTIES:
+:TEXT: のりものよい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1706900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 468c89c7bd6e3dbc0d2ee9b0772096938ed1004981dae489e580ae97cb05e41b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- motion sickness
+- travel sickness
+** Ukrainian glosses
+*** uk-s-1706900-001-001
+:PROPERTIES:
+:END:
+- text :: захитування; хвороба руху (морська, повітряна тощо)
+** Learner notes
+*** note-s-1706900-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово на -する, що позначає нудоту й запаморочення під час поїздки в транспорті (автобусі, поїзді, літаку або на кораблі). Складається з 乗り物 (транспортний засіб) і 酔い (сп'яніння, дурнота); часто вживається у зворотах 乗り物酔いをする або 乗り物酔い止め (засіб від захитування).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1706900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私は乗り物酔いをしやすい。
+- READING :: わたしはのりものよいをしやすい。
+- UK :: Мене легко захитує в транспорті.
+- FOCUS :: 乗り物酔い
+*** ex-1706900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: バスに長く乗ると乗り物酔いになることがある。
+- READING :: ばすにながくのるとのりものよいになることがある。
+- UK :: Коли довго їдеш автобусом, іноді виникає захитування.
+- FOCUS :: 乗り物酔い
+*** ex-1706900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 船旅の前に薬局で乗り物酔い止めを買っておいたので、波が高くても気分が悪くならずに済んだ。
+- READING :: ふなたびのまえにやっきょくでのりものよいどめをかっておいたので、なみがたかくてもきぶんがわるくならずにすんだ。
+- UK :: Оскільки перед морською подорожжю я купив в аптеці засіб від захитування, навіть за високих хвиль мені не стало зле.
+- FOCUS :: 乗り物酔い
+
+* Sense s-1706900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 11f04bc009d2b72eb297666e940ff95667ce6991a52ca2029a07db9625b009e7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kinetose
+*** en-s-1706900-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bewegungskrankheit
+*** en-s-1706900-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reisekrankheit
+** Ukrainian glosses
+
+* Sense s-1706900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b4cb7ae9e68e951ca04be21dbc882e31f018429400e9599017ced4e8a1cc6e7a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706900-003-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mareo (al montar en un vehículo)
+** Ukrainian glosses
+
+* Sense s-1706900-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c073b93870714ce3fd4b9e0c9671aae532696d7b0ab26c80ebb3133e0d4b31f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1706900-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rörelsesjuka
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1706900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1706900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のりものよい

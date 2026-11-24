@@ -1,0 +1,143 @@
+#+TITLE: 圧痛
+#+JMDICT_ID: 2412690
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: あっつう
+#+ROMAJI: attsuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2412690-001
+:PROPERTIES:
+:TEXT: 圧痛
+:END:
+** Reading rd-2412690-001
+:PROPERTIES:
+:TEXT: あっつう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2412690-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: aa26ed6fd589aacff6fe66bfcd03b2f2ec093d4736abfe8fa2adc65387e2643e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- oppressive pain
+- tenderness
+- pressure pain
+** Ukrainian glosses
+*** uk-s-2412690-001-001
+:PROPERTIES:
+:END:
+- text :: болючість при натисканні, біль від тиску; гнітючий біль
+** Learner notes
+*** note-s-2412690-001-001
+:PROPERTIES:
+:END:
+- UK :: Переважно медичний термін (іменник), що описує біль або підвищену чутливість, яка виникає при пальпації чи натисканні на певну ділянку тіла, а також відчуття важкого стискання. Утворюється з 圧 (тиск) і 痛 (біль); у клінічних описах типово вживається у зворотах 圧痛がある або 圧痛を認める.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2412690-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: お腹の右側を押すと圧痛がある。
+- READING :: おなかのみぎがわをおすとあっつうがある。
+- UK :: Якщо натиснути на правий бік живота, відчувається біль.
+- FOCUS :: 圧痛
+*** ex-2412690-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医師が患部を軽く押して、圧痛の有無を丁寧に確かめた。
+- READING :: いしがかんぶをかるくおして、あっつうのうむをていねいにたしかめた。
+- UK :: Лікар легенько натиснув на уражену ділянку й уважно перевірив наявність болючості.
+- FOCUS :: 圧痛
+*** ex-2412690-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 転んで手首を打ったあと腫れは少ないものの、骨の近くに強い圧痛が残っているため検査を受けることにした。
+- READING :: ころんでてくびをうったあとはれはすくないものの、ほねのちかくにつよいあっつうがのこっているためけんさをうけることにした。
+- UK :: Після падіння й удару зап'ястя набряк невеликий, але біля кістки зберігається сильна болючість при натисканні, тому я вирішив пройти обстеження.
+- FOCUS :: 圧痛
+
+* Sense s-2412690-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d891e08be9cc7a9ca4373fcbf5b0b5858645551e16972745cb3cb684d5f8c979
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2412690-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Druckschmerz
+*** en-s-2412690-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Druckempfindlichkeit
+** Ukrainian glosses
+
+* Sense s-2412690-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 20c148ba0038a162d1ac4502e1ffd9a33c90ede5d44dd4e13000ab67b4c85d75
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2412690-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) гнетущая боль
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2412690-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2412690-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: あっつう

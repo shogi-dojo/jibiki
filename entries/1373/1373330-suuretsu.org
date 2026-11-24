@@ -1,0 +1,307 @@
+#+TITLE: 数列
+#+JMDICT_ID: 1373330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すうれつ
+#+ROMAJI: suuretsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1373330-001
+:PROPERTIES:
+:TEXT: 数列
+:END:
+** Reading rd-1373330-001
+:PROPERTIES:
+:TEXT: すうれつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1373330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5ace51ee768ab57d515d22e80dd23d6348eff6412819a931da9a7c3cf4ece640
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- sequence
+- progression
+** Ukrainian glosses
+*** uk-s-1373330-001-001
+:PROPERTIES:
+:END:
+- text :: числова послідовність; прогресія (мат.)
+** Learner notes
+*** note-s-1373330-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін на позначення впорядкованого ряду чисел, заданого певним правилом (наприклад, 等差数列 — «арифметична прогресія», 等比数列 — «геометрична прогресія»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1373330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 数学の授業で数列の問題を解きました。
+- READING :: すうがくのじゅぎょうですうれつのもんだいをときました。
+- UK :: На уроці математики ми розв'язували задачу на числову послідовність.
+- FOCUS :: 数列
+*** ex-1373330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会場の入り口には、入場を待つ人が数列になって並んでいます。
+- READING :: かいじょうのいりぐちには、にゅうじょうをまつひとがすうれつになってならんでいます。
+- UK :: Біля входу до зали люди, які чекають на вхід, вишикувалися в кілька рядів.
+- FOCUS :: 数列
+*** ex-1373330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 規則的に並んだ数の変化を見抜くことが、数列の一般項を求める第一歩になる。
+- READING :: きそくてきにならんだかずのへんかをみぬくことが、すうれつのいっぱんこうをもとめるだいいっぽになる。
+- UK :: Уміння помітити закономірність у зміні чисел є першим кроком до знаходження загального члена числової послідовності.
+- FOCUS :: 数列
+
+* Sense s-1373330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c7fa5667194d92150b01b626f8011f3988ca63f9b15da9afbde9933f1a3967db
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- several lines
+- several rows
+** Ukrainian glosses
+*** uk-s-1373330-002-001
+:PROPERTIES:
+:END:
+- text :: кілька рядів; кілька шеренг
+** Learner notes
+*** note-s-1373330-002-001
+:PROPERTIES:
+:END:
+- UK :: Загальномовне значення, утворене з префікса 数- («кілька») та 列 («ряд, шеренга»), що позначає декілька рядків, колон або шеренг людей чи предметів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1373330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c874a4e0627bfc2a811aa0b18ca7df000bb6793c0238c34f78d1bd98d7bd4519
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} rij
+*** en-s-1373330-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: reeks
+** Ukrainian glosses
+
+* Sense s-1373330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 62074da619b0bec67f3c919687fe3e65f5a5c21a56276e8f89fc940c3ec260c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verschillende
+*** en-s-1373330-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meerdere rijen
+** Ukrainian glosses
+
+* Sense s-1373330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7ae9ac7170523bda6e223f0b5ccf41fd723317be4fca391e412b36e27bf689fb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zahlenfolge
+*** en-s-1373330-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Folge
+** Ukrainian glosses
+
+* Sense s-1373330-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: a2dda169b8f05b4a5891fe4918db486af5c9bd58564d25baa97e5d1dc174f128
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einige Reihen
+** Ukrainian glosses
+
+* Sense s-1373330-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4cf6fad24dd0749bad2641037b694c81467b29eacccb18ba916e245aa484053c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: folytatás
+*** en-s-1373330-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: matematikai sorozat
+** Ukrainian glosses
+
+* Sense s-1373330-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: be7a966c2bec80c19665c6f789e512a8ecb1dd4929c6e6c40782d321f63dd244
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) несколько рядов, несколько линий
+*** en-s-1373330-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (мат.) прогрессия
+** Ukrainian glosses
+
+* Sense s-1373330-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 7708039ffb0b3026295aa157df631635e0faa75ec66ca03c9c9d31b158d101e9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1373330-009-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: progression
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1373330-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1373330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: すうれつ
+** Accent accent-rd-1373330-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1373330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: すうれつ

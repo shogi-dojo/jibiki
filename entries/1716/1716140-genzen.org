@@ -1,0 +1,177 @@
+#+TITLE: 現前
+#+JMDICT_ID: 1716140
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げんぜん
+#+ROMAJI: genzen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1716140-001
+:PROPERTIES:
+:TEXT: 現前
+:END:
+** Reading rd-1716140-001
+:PROPERTIES:
+:TEXT: げんぜん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1716140-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0338ee5c3f87f7a1d03133c3c69081008d47d4fd6afd3ca7162523d6e421b728
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- before one's eyes
+** Ukrainian glosses
+*** uk-s-1716140-001-001
+:PROPERTIES:
+:END:
+- text :: поставання перед очима; безпосередня наявність перед кимось; теперішній (у сполуці 現前の)
+** Learner notes
+*** note-s-1716140-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник і неперехідне дієслово з する (現前する), утворений з 現 (являтися, теперішній) і 前 (перед). Означає появу або зриму присутність чогось просто перед очима, а у формі означення 現前の вказує на теперішню, наявну в цей момент реальність.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1716140-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 美しい景色が現前した。
+- READING :: うつくしいけしきがげんぜんした。
+- UK :: Перед очима постав чудовий краєвид.
+- FOCUS :: 現前
+*** ex-1716140-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長いトンネルを抜けると、雪をいただいた山々が現前した。
+- READING :: ながいとんねるをぬけると、ゆきをいただいたやまやまがげんぜんした。
+- UK :: Щойно ми виїхали з довгого тунелю, перед очима постали засніжені вершини гір.
+- FOCUS :: 現前
+*** ex-1716140-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い資料を読み解くうちに、百年前の人々の暮らしぶりが鮮やかに現前してくるようだった。
+- READING :: ふるいしりょうをよみとくうちに、ひゃくねんまえのひとびとのくらしぶりがあざやかにげんぜんしてくるようだった。
+- UK :: Коли ми розшифровували давні документи, здавалося, ніби перед очима яскраво постає побут людей столітньої давнини.
+- FOCUS :: 現前
+
+* Sense s-1716140-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3efe9c9409c37bcdc75104db67214d99ca9172048fd45847050c72bb4718ae73
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1716140-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erscheinen
+*** en-s-1716140-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auftauchen
+*** en-s-1716140-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vor jmds. Augen
+*** en-s-1716140-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vor der Nase
+** Ukrainian glosses
+
+* Sense s-1716140-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 43c7706bd7ec6261516b62838fd24d07a2ba6f5035d062a555695332db5d8e70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1716140-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erscheinen vor jmds. Augen
+** Ukrainian glosses
+
+* Sense s-1716140-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ee775b65693c61b8ec3e495869a664f380c596e7a3efa97670bb2e782ad02f61
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1716140-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} нынешний
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1716140-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1716140-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: げんぜん

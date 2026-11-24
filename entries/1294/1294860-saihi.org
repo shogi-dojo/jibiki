@@ -1,0 +1,139 @@
+#+TITLE: 採否
+#+JMDICT_ID: 1294860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいひ
+#+ROMAJI: saihi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1294860-001
+:PROPERTIES:
+:TEXT: 採否
+:END:
+*** Priorities
+- news2
+- nf46
+** Reading rd-1294860-001
+:PROPERTIES:
+:TEXT: さいひ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf46
+
+* Sense s-1294860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 868378982418d4e5313753d9ec2d1fde4854df7423555682cf815817789f97b7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- adoption or rejection
+** Ukrainian glosses
+*** uk-s-1294860-001-001
+:PROPERTIES:
+:END:
+- text :: прийняття або відхилення; рішення про схвалення чи відмову
+** Learner notes
+*** note-s-1294860-001-001
+:PROPERTIES:
+:END:
+- UK :: Парний антонімічний іменник офіційного стилю, утворений із 採 (приймати, схвалювати — від 採用) та 否 (відхиляти — від 否決). Уживається щодо результату розгляду заявки, рукопису, кандидатури чи пропозиції (採否を決定する, 採否を通知する).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1294860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 応募の採否はメールで知らせます。
+- READING :: おうぼのさいひはめーるでしらせます。
+- UK :: Про прийняття чи відхилення заявки повідомимо електронною поштою.
+- FOCUS :: 採否
+*** ex-1294860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 提出された企画案の採否について、来週の会議で話し合う。
+- READING :: ていしゅつされたきかくあんのさいひについて、らいしゅうのかいぎではなしあう。
+- UK :: Питання про схвалення або відхилення поданої проєктної пропозиції обговорять на засіданні наступного тижня.
+- FOCUS :: 採否
+*** ex-1294860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 審査委員会は数か月にわたる厳正な評価の末、各研究課題の採否を正式に決定した。
+- READING :: しんさいいんかいはすうかげつにわたるげんせいなひょうかのすえ、かくけんきゅうかだいのさいひをせいしきにけっていした。
+- UK :: Експертна комісія після багатомісячного суворого оцінювання офіційно ухвалила рішення щодо схвалення або відхилення кожної дослідницької теми.
+- FOCUS :: 採否
+
+* Sense s-1294860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d4ecafc3701f8f75040a0529ba33b6b0bd6a5d2db5138e24a44587ace29d698a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Annahme oder Ablehnung
+** Ukrainian glosses
+
+* Sense s-1294860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 3f8119164e931f61620de31ae6e63435c0557b7b4fd4be9d2f25656bc8928339
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1294860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) принятие или отклонение; отношение (к вопросу)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1294860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1294860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さいひ

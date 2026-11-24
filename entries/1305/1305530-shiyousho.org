@@ -1,0 +1,346 @@
+#+TITLE: 仕様書
+#+JMDICT_ID: 1305530
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しようしょ
+#+ROMAJI: shiyousho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1305530-001
+:PROPERTIES:
+:TEXT: 仕様書
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1305530-001
+:PROPERTIES:
+:TEXT: しようしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1305530-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6912549feb3a905883cee32ef280a090a64e55e8bf0437bbdb895a601b52eaa4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- manual
+- instructions
+- guide
+** Ukrainian glosses
+*** uk-s-1305530-001-001
+:PROPERTIES:
+:END:
+- text :: інструкція; посібник; керівництво
+** Learner notes
+*** note-s-1305530-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник технічного й ділового стилю, утворений від 仕様 (спосіб виконання, технічні умови) та 書 (документ). У цьому значенні позначає докладну інструкцію або порядок виконання робіт чи користування системою.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1305530-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい製品の仕様書を読む。
+- READING :: あたらしいせいひんのしようしょをよむ。
+- UK :: Читати специфікацію нового виробу.
+- FOCUS :: 仕様書
+*** ex-1305530-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 開発を始める前に、顧客と仕様書の内容を細かく確認した。
+- READING :: かいはつをはじめるまえに、こきゃくとしようしょのないようをこまかくかくにんした。
+- UK :: Перед початком розробки ми детально узгодили із замовником зміст технічного завдання.
+- FOCUS :: 仕様書
+*** ex-1305530-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 途中で仕様が何度も変更されたため、エンジニアたちは仕様書の書き直しに追われた。
+- READING :: とちゅうでしようがなんどもへんこうされたため、えんじにあたちはしようしょのかきなおしにおわれた。
+- UK :: Оскільки вимоги неодноразово змінювалися посеред роботи, інженерам довелося поспіхом переписувати технічну документацію.
+- FOCUS :: 仕様書
+
+* Sense s-1305530-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b7187145bca0e34a17aca9d597f968900bc05e5090781e3b7b787d9dad279267
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- specification document
+- specifications
+- blueprint
+** Ukrainian glosses
+*** uk-s-1305530-002-001
+:PROPERTIES:
+:END:
+- text :: технічне завдання; специфікація; технічні умови
+** Learner notes
+*** note-s-1305530-002-001
+:PROPERTIES:
+:END:
+- UK :: Основне сучасне вживання в інженерії, будівництві та розробці програмного забезпечення — документ із точним описом вимог, параметрів, конструкції та функцій виробу чи системи (наприклад, 設計仕様書 — проєктна специфікація).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1305530-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2120a66521108a2667a16a14ac671141b4e133ac2b0fb9d6c06ac09500028095
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: draaiboek
+*** en-s-1305530-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: scenario
+*** en-s-1305530-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schema van de te volgen werkwijze
+** Ukrainian glosses
+
+* Sense s-1305530-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 9a0e9e1b7c08bfa67014fe8f643483593f955f4e4c0d735a8dbd09e9fecc14c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bestek
+*** en-s-1305530-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: technische beschrijving
+*** en-s-1305530-004-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: specificatie
+** Ukrainian glosses
+
+* Sense s-1305530-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 2dacbc353a893e85c6b3c3864004ce2c5369beb7399de56f63b4a66121f45055
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lastenheft
+*** en-s-1305530-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pflichtenheft
+*** en-s-1305530-005-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Spezifikation
+*** en-s-1305530-005-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leistungsbeschreibung
+** Ukrainian glosses
+
+* Sense s-1305530-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b7ec9da186a96aa4581bbc08777184e00c4f9bdff4d8a78123040d31fa215a3f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kenndaten
+** Ukrainian glosses
+
+* Sense s-1305530-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 66bf5b13123731186affd400b1b185b12de7ee7dab598974de1506263d8aa222
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handbuch
+*** en-s-1305530-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Anleitung
+** Ukrainian glosses
+
+* Sense s-1305530-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 9cf25122efc99f6871a16f1eed254736034b752a04e13e5e4e0190e7920c19f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: technische Daten
+** Ukrainian glosses
+
+* Sense s-1305530-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: d9e13f79609ff0503d6fc42aeddeffca1921cf83d80cd74371687d29b02b38a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-009-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: specifikáció
+*** en-s-1305530-009-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: műszaki leírás
+** Ukrainian glosses
+
+* Sense s-1305530-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: e2abd24c12edae5979e4fbe57967a36530ab4db90c6fa929de644451f61776e1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1305530-010-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: спецификация
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1305530-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1305530-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しようしょ

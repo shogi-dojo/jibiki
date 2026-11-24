@@ -1,0 +1,176 @@
+#+TITLE: 連翹
+#+JMDICT_ID: 2083180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れんぎょう
+#+ROMAJI: rengyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2083180-001
+:PROPERTIES:
+:TEXT: 連翹
+:END:
+** Reading rd-2083180-001
+:PROPERTIES:
+:TEXT: れんぎょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2083180-002
+:PROPERTIES:
+:TEXT: レンギョウ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2083180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3b8bba0c9376f355bb953bb533feb63323ae297f885de78de2e2bbcac703ecbd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- weeping forsythia (Forsythia suspensa)
+- weeping golden bell
+** Ukrainian glosses
+*** uk-s-2083180-001-001
+:PROPERTIES:
+:END:
+- text :: форзиція повисла; форзиція
+** Learner notes
+*** note-s-2083180-001-001
+:PROPERTIES:
+:END:
+- UK :: Декоративний листопадний чагарник, що ранньої весни густо вкривається яскраво-жовтими квітами, а його плоди також застосовують у традиційній фітотерапії. Зазвичай записується каною (レンギョウ або れんぎょう), хоча в художній літературі чи ікебані трапляється й ієрогліфічне написання 連翹.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2083180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭に黄色いレンギョウが咲きました。
+- READING :: にわにきいろいれんぎょうがさきました。
+- UK :: У саду зацвіла жовта форзиція.
+- FOCUS :: レンギョウ
+*** ex-2083180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春先になると、公園の生垣にレンギョウの花が鮮やかに咲き誇る。
+- READING :: はるさきになると、こうえんのいけがきにれんぎょうのはながあざやかにさきほこる。
+- UK :: Напровесні вздовж живоплоту в парку рясно розквітає яскрава форзиція.
+- FOCUS :: レンギョウ
+*** ex-2083180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 生け花の花材としても親しまれている連翹は、細長い枝に黄金色の小花を連ねて春の訪れを告げる。
+- READING :: いけばなのかざいとしてもしたしまれているれんぎょうは、ほそながいえだにこがねいろのこばなをつらねてはるのおとずれをつげる。
+- UK :: Форзиція, яку також охоче використовують як матеріал для ікебани, рясно вкриває свої тонкі довгі гілки золотистими квітками, сповіщаючи про прихід весни.
+- FOCUS :: 連翹
+
+* Sense s-2083180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3f8adae6f197fdda8388c0c76ab1fb327af9532d4a9a5468aa6bd420437446bd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2083180-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Forsythie
+*** en-s-2083180-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Goldglöckchen
+*** en-s-2083180-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Forsythia suspensa
+** Ukrainian glosses
+
+* Sense s-2083180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9aacfec49bdd10584024cb2f736da271e61f74309f3f5471c011e5b930ebe99a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2083180-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: форзиция, Forsythia suspensa (Vahl (декоративный кустарник)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2083180-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2083180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: れんぎょう
+** Accent accent-rd-2083180-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2083180-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: れんぎょう

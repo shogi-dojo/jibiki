@@ -1,0 +1,167 @@
+#+TITLE: 口約束
+#+JMDICT_ID: 1276970
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くちやくそく
+#+ROMAJI: kuchiyakusoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1276970-001
+:PROPERTIES:
+:TEXT: 口約束
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1276970-001
+:PROPERTIES:
+:TEXT: くちやくそく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1276970-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1de03754d7eb020eaf6920808473bc9c3631bd57db09c2fb050cd2be8040b6e5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- verbal promise
+- one's word
+** Ukrainian glosses
+*** uk-s-1276970-001-001
+:PROPERTIES:
+:END:
+- text :: усна обіцянка; усна домовленість; слово
+** Learner notes
+*** note-s-1276970-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово з する (口約束する або 口約束をする — пообіцяти на словах, домовитися усно). Складається з 口 (рот, слова) та 約束 (обіцянка). Часто вживається з відтінком застереження або сумніву в надійності такої угоди, адже її не закріплено на папері (наприклад, 口約束だけでは信用できない — самій усній обіцянці довіряти не можна).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1276970-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大切なことは口約束だけにしないほうがいいです。
+- READING :: たいせつなことはくちやくそくだけにしないほうがいいです。
+- UK :: Важливі речі краще не залишати на самій усній обіцянці.
+- FOCUS :: 口約束
+*** ex-1276970-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 後でトラブルにならないよう、口約束ではなく必ず契約書を交わすことにした。
+- READING :: あとでとらぶるにならないよう、くちやくそくではなくかならずけいやくしょをかわすことにした。
+- UK :: Щоб потім не виникло непорозумінь, вирішили не обмежуватися усною домовленістю, а обов'язково укласти письмовий договір.
+- FOCUS :: 口約束
+*** ex-1276970-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつての取引先との口約束を信じて作業を進めた結果、報酬の支払いをめぐって食い違いが生じた。
+- READING :: かつてのとりひきさきとのくちやくそくをしんじてさぎょうをすすめたけっか、ほうしゅうのしはらいをめぐってくいちがいがしょうじた。
+- UK :: Унаслідок того, що роботу вели, поклавшись на усну обіцянку давнього ділового партнера, виникли розбіжності щодо оплати.
+- FOCUS :: 口約束
+
+* Sense s-1276970-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 30762ac29f296759a0c3e53480df6e2efef7521061c4f5355ed4040932961a76
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1276970-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mündliches Versprechen
+*** en-s-1276970-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mündliche Verabredung
+*** en-s-1276970-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mündlicher Vertrag
+** Ukrainian glosses
+
+* Sense s-1276970-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 52fb50eefb2a46052c4bf94e3908564f4caf0c7d4426e59d7a807b7dc23ce0a9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1276970-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: устное обещание; устная договорённость
+*** en-s-1276970-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～をする} обещать устно, давать слово
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1276970-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1276970-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: くちやくそく

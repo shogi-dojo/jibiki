@@ -1,0 +1,200 @@
+#+TITLE: 高周波
+#+JMDICT_ID: 1283580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうしゅうは
+#+ROMAJI: koushuuha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1283580-001
+:PROPERTIES:
+:TEXT: 高周波
+:END:
+*** Priorities
+- news2
+- nf29
+** Reading rd-1283580-001
+:PROPERTIES:
+:TEXT: こうしゅうは
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf29
+
+* Sense s-1283580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7c582fe9662ba1851f185b5ef25b724548353595bc35c8efc3618ecdc478096c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- high frequency
+- HF
+** Ukrainian glosses
+*** uk-s-1283580-001-001
+:PROPERTIES:
+:END:
+- text :: висока частота; високочастотний сигнал
+** Learner notes
+*** note-s-1283580-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний і технічний іменник, утворений із 高 (високий) та 周波 (частота хвиль). Позначає високочастотні електромагнітні чи електричні коливання (радіозв'язок, індукційне нагрівання, медична апаратура); у ролі означення часто вживається як 高周波の або в складених термінах на кшталт 高周波電流.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1283580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この機械は高周波を使う。
+- READING :: このきかいはこうしゅうはをつかう。
+- UK :: Цей прилад використовує високу частоту.
+- FOCUS :: 高周波
+*** ex-1283580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 無線通信では、遠くまで情報を届けるために高周波の電波が利用されている。
+- READING :: むせんつうしんでは、とおくまでじょうほうをとどけるためにこうしゅうはのでんぱがりようされている。
+- UK :: У бездротовому зв'язку для передачі інформації на далекі відстані використовують високочастотні радіохвилі.
+- FOCUS :: 高周波
+*** ex-1283580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 金属を短時間で均一に加熱する技術として、高周波を利用した誘導加熱が広く普及している。
+- READING :: きんぞくをたんじかんできんいつにかねつするぎじゅつとして、こうしゅうはをりようしたゆうどうかねつがひろくふきゅうしている。
+- UK :: Як спосіб швидкого й рівномірного нагрівання металу широко поширилося індукційне нагрівання з використанням високих частот.
+- FOCUS :: 高周波
+
+* Sense s-1283580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 89d6c4672ab84fedd17cd8b1ca9bb5658b589f60bdc3690900f90adfe2e4bf6f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283580-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hochfrequenz
+*** en-s-1283580-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: HF
+** Ukrainian glosses
+
+* Sense s-1283580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: bfb0a4f9516cbd924eb89cfb6ce74f7971662d9ebe40686f084769dee988f2c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283580-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: magas frekvencia
+*** en-s-1283580-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagyfrekvencia
+** Ukrainian glosses
+
+* Sense s-1283580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f5b8a686caeebd48d2c4e29c01be2f9fe755d294b5e7fbad28eeb5351f7c8f43
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283580-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (эл.) высокая частота
+*** en-s-1283580-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～[の]} высокочастотный
+** Ukrainian glosses
+
+* Sense s-1283580-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 56d1f2ce4d7a0b3cf4a3b4370e94999de3edbd4677295c12658528eb02d09bc2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1283580-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: högfrekvens
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1283580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1283580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうしゅうは

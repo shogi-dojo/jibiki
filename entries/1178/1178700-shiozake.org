@@ -1,0 +1,139 @@
+#+TITLE: 塩鮭
+#+JMDICT_ID: 1178700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しおざけ
+#+ROMAJI: shiozake
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1178700-001
+:PROPERTIES:
+:TEXT: 塩鮭
+:END:
+** Written form wf-1178700-002
+:PROPERTIES:
+:TEXT: 塩ざけ
+:END:
+*** Information
+- sK
+** Reading rd-1178700-001
+:PROPERTIES:
+:TEXT: しおざけ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1178700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2853c410576a70d0c0ff17bc56dbbaf63739c4922b84f096a10fcf24b9ad4ddb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- salted salmon
+** Ukrainian glosses
+*** uk-s-1178700-001-001
+:PROPERTIES:
+:END:
+- text :: солоний лосось; солона кета
+** Learner notes
+*** note-s-1178700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 塩 — сіль і 鮭 — лосось, кета, з одзвінченням 連濁: さけ → ざけ). Позначає традиційно засолене філе чи шматки лосося, які перед подачею зазвичай підсмажують на грилі (焼き鮭) до рису або кладуть у бенто й оніґірі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1178700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝ごはんに塩鮭を焼いた。
+- READING :: あさごはんにしおざけをやいた。
+- UK :: На сніданок я підсмажив солоного лосося.
+- FOCUS :: 塩鮭
+*** ex-1178700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ほぐした塩鮭は、おにぎりの具やお茶漬けの材料として定番だ。
+- READING :: ほぐしたしおざけは、おにぎりのぐやおちゃづけのざいりょうとしてていばんだ。
+- UK :: Розібраний на шматочки солоний лосось — класична начинка для оніґірі та добавка до очядзуке.
+- FOCUS :: 塩鮭
+*** ex-1178700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつて冷蔵技術が未発達だった時代には、鮮度を保つために作られた塩鮭が内陸部への貴重な保存食となっていた。
+- READING :: かつてれいぞうぎじゅつがみはったつだったじだいには、せんどをたもつためにつくられたしおざけがないりくぶへのきちょうなほぞんしょくとなっていた。
+- UK :: У часи, коли холодильні технології ще не були розвинені, засолена для збереження свіжості кета слугувала цінним продуктом тривалого зберігання для мешканців глибинки.
+- FOCUS :: 塩鮭
+
+* Sense s-1178700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e26e3c5739d05d65ff2a3eef7dba36f48dcb3571cb5c2f13c77038d0eb18fad0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gesalzener Lachs
+** Ukrainian glosses
+
+* Sense s-1178700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 87fc426b79034f469d59da815371cde7c2366a48a7ef61fc07dad6c31c7b7068
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1178700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: солёная кета
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1178700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1178700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しおざけ

@@ -1,0 +1,225 @@
+#+TITLE: 本調子
+#+JMDICT_ID: 1523000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ほんちょうし
+#+ROMAJI: honchoushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1523000-001
+:PROPERTIES:
+:TEXT: 本調子
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1523000-001
+:PROPERTIES:
+:TEXT: ほんちょうし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+** Reading rd-1523000-002
+:PROPERTIES:
+:TEXT: ほんじょうし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1523000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1ebaee1c0073a3657ebf9074e0539cc32a3b60da963d89b9cc5aa1217fa4afd8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's normal condition
+- one's usual state
+** Ukrainian glosses
+*** uk-s-1523000-001-001
+:PROPERTIES:
+:END:
+- text :: звичайна форма, нормальний стан; звичний темп
+** Learner notes
+*** note-s-1523000-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає повернення до повної працездатності або найкращої форми після паузи, хвороби чи розминки. Дуже часті звороти: 本調子になる («увійти у звичну форму»), 本調子を取り戻す («відновити колишній темп»), 本調子ではない («бути не в найкращій формі»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1523000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: やっと体が本調子に戻った。
+- READING :: やっとからだがほんちょうしにもどった。
+- UK :: Нарешті мій організм повернувся до нормального стану.
+- FOCUS :: 本調子
+*** ex-1523000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 試合の後半になって、ようやくエースの本調子が出てきた。
+- READING :: しあいのこうはんになって、ようやくえーすのほんちょうしがでてきた。
+- UK :: У другій половині матчу провідний гравець нарешті набрав своєї звичної форми.
+- FOCUS :: 本調子
+*** ex-1523000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 演奏会を始める前に、三味線の糸を本調子に合わせる。
+- READING :: えんそうかいをはじめるまえに、しゃみせんのいとをほんちょうしにあわせる。
+- UK :: Перед початком концерту струни шямісена налаштовують на основний стрій.
+- FOCUS :: 本調子
+
+* Sense s-1523000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 57df13af45c49de382bceee6c83b2b21c9053c13bb19cb0db757bcd3d198e161
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- music
+** English glosses
+- keynote (esp. shamisen)
+- proper key
+** Ukrainian glosses
+*** uk-s-1523000-002-001
+:PROPERTIES:
+:END:
+- text :: основний стрій (шямісена); правильна тональність
+** Learner notes
+*** note-s-1523000-002-001
+:PROPERTIES:
+:END:
+- UK :: Музичний термін, з якого й походить переносне значення цього слова. У грі на традиційному триструнному інструменті 三味線 («шямісен») позначає базове налаштування струн (на відміну від 二上がり та 三下がり); у ширшому сенсі — належний музичний лад або тональність.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1523000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 72238210e28f26e3349a988aad2dfdd03edf6903c1cc6472cf8b4ff088dd7e50
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523000-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Grundstimmung
+** Ukrainian glosses
+
+* Sense s-1523000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 00b3196ab61b443fea4eac096e87e2934046eaad4bce1d8c9d50251ae70b7e6a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523000-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: normaler Zustand
+** Ukrainian glosses
+
+* Sense s-1523000-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 7236bfc59f27c10d8a1fc16f1872a21f0a979ec6d686ff1f179bb875301f9d39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523000-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alapelgondolás
+*** en-s-1523000-005-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alapeszme
+** Ukrainian glosses
+
+* Sense s-1523000-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: b8dcc4a7ceae590d1f525e033a846b4e2b1d0e48ad4902a6ac67545ee6e28a16
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1523000-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) нормальный строй сямисэна
+*** en-s-1523000-006-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) (перен.) нормальный темп, нормальная форма
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1523000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1523000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ほんちょうし

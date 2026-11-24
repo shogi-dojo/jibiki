@@ -1,0 +1,231 @@
+#+TITLE: 送信機
+#+JMDICT_ID: 1709720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうしんき
+#+ROMAJI: soushinki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1709720-001
+:PROPERTIES:
+:TEXT: 送信機
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1709720-001
+:PROPERTIES:
+:TEXT: そうしんき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1709720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3f5c51c17d368dbca50ac84a5c2e1b52b444283138d9b1b20daab705b19a11ea
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- transmitter (device)
+** Ukrainian glosses
+*** uk-s-1709720-001-001
+:PROPERTIES:
+:END:
+- text :: передавач, радіопередавач
+** Learner notes
+*** note-s-1709720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (名詞). Утворений від 送信 (передавання сигналу або повідомлення) та 機 (пристрій); прилад для випромінювання радіохвиль чи передавання даних на відстань (парний термін — 受信機 «приймач»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1709720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 小さな送信機を取り付ける。
+- READING :: ちいさなそうしんきをとりつける。
+- UK :: Прикріпити маленький передавач.
+- FOCUS :: 送信機
+*** ex-1709720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 野生動物の行動を調べるため、首輪に小型の送信機を装着した。
+- READING :: やせいどうぶつのこうどうをしらべるため、くびわにこがたのそうしんきをそうちゃくした。
+- UK :: Щоб дослідити поведінку диких тварин, на нашийник встановили компактний передавач.
+- FOCUS :: 送信機
+*** ex-1709720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 遭難時に位置を知らせる緊急用の送信機は、電池が切れていないか定期的に点検すべきだ。
+- READING :: そうなんじにいちをしらせるきんきゅうようのそうしんきは、でんちがきれていないかていきてきにてんけんすべきだ。
+- UK :: Аварійний передавач, що сповіщає про місцеперебування в разі лиха, варто регулярно перевіряти на справність батареї.
+- FOCUS :: 送信機
+
+* Sense s-1709720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e3c4f15d144e21d1ede4e3eea459e483871c78b08ab598972153c5949e1a462c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709720-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zender
+*** en-s-1709720-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: transmitter
+** Ukrainian glosses
+
+* Sense s-1709720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6e0eba60bca568af8ae646a0a04af4f2306a66ec34d686e381ee907e2b72cafe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709720-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sendeanlage
+*** en-s-1709720-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sender
+** Ukrainian glosses
+
+* Sense s-1709720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d51b35ed83b958886faa4e67544161c658147b9194bdec8f2c86bfc9eb6300fd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709720-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adó
+*** en-s-1709720-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: adóállomás
+*** en-s-1709720-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átadó
+*** en-s-1709720-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: közvetítő
+*** en-s-1709720-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: távíró-adókészülék
+*** en-s-1709720-004-006
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: telefonkagyló
+** Ukrainian glosses
+
+* Sense s-1709720-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 8fb5d17c9f56bb78e277988d00b3ee518aa3f5be5a1585d8899dedcf7d0df158
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1709720-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: [радио]передатчик
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1709720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1709720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: そうしんき

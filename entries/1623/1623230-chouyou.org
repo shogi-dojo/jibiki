@@ -1,0 +1,147 @@
+#+TITLE: 長幼
+#+JMDICT_ID: 1623230
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちょうよう
+#+ROMAJI: chouyou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1623230-001
+:PROPERTIES:
+:TEXT: 長幼
+:END:
+*** Priorities
+- news2
+- nf45
+** Reading rd-1623230-001
+:PROPERTIES:
+:TEXT: ちょうよう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf45
+
+* Sense s-1623230-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dfbbe3bf28ecc7c53ba45d084b4f107ccbf32a71e9202872d0714b4fe07dec43
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- young and old
+** Ukrainian glosses
+*** uk-s-1623230-001-001
+:PROPERTIES:
+:END:
+- text :: старші й молодші; люди різного віку
+** Learner notes
+*** note-s-1623230-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що поєднує антонімічні кандзі 長 («старший») та 幼 («молодший, малий»). Найчастіше трапляється у конфуціанській максимі 長幼の序 («ієрархія між старшими й молодшими») або у звороті 長幼を問わず («незалежно від віку»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1623230-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この祭りは長幼を問わず楽しめる。
+- READING :: このまつりはちょうようをとわずたのしめる。
+- UK :: Це свято приносить радість людям будь-якого віку.
+- FOCUS :: 長幼
+*** ex-1623230-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 昔から日本では長幼の序を重んじる礼儀が大切にされてきた。
+- READING :: むかしからにほんではちょうようのじょをおもんじるれいぎがたいせつにされてきた。
+- UK :: Здавна в Японії цінували етикет, що наголошує на повазі молодших до старших.
+- FOCUS :: 長幼
+*** ex-1623230-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地域の防災訓練には、子どもから高齢者まで長幼が協力して参加する姿が見られた。
+- READING :: ちいきのぼうさいくんれんには、こどもからこうれいしゃまでちょうようがきょうりょくしてさんかするすがたがみられた。
+- UK :: На місцевих навчаннях із цивільного захисту можна було побачити, як люди різного віку — від дітей до літніх — спільно беруть участь у підготовці.
+- FOCUS :: 長幼
+
+* Sense s-1623230-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 79664064290a4259fd5ee1f7c2885449c138e8e24403a18eb7bcb4a2593c035c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1623230-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Alt und Jung
+*** en-s-1623230-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erwachsene und Kinder
+** Ukrainian glosses
+
+* Sense s-1623230-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 0859af283ffff3595873e940719163ce45c81c970c1a6a98bc6db630b560821d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1623230-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) старость и юность; стар и млад
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1623230-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1623230-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: ちょうよう

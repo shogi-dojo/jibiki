@@ -1,0 +1,170 @@
+#+TITLE: 責付く
+#+JMDICT_ID: 2069070
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せっつく
+#+ROMAJI: settsuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2069070-001
+:PROPERTIES:
+:TEXT: 責付く
+:END:
+*** Information
+- rK
+** Written form wf-2069070-002
+:PROPERTIES:
+:TEXT: 責っ付く
+:END:
+*** Information
+- rK
+** Reading rd-2069070-001
+:PROPERTIES:
+:TEXT: せっつく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2069070-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 76f374399e7aafd06950fe0271047f96919017b1e73c7b26b0f0ebe469ec7e11
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5k
+- vt
+*** Miscellaneous and register
+- uk
+- col
+** English glosses
+- to pester someone (e.g. to buy something)
+** Ukrainian glosses
+*** uk-s-2069070-001-001
+:PROPERTIES:
+:END:
+- text :: докучати; напосідати; канючити; підганяти
+** Learner notes
+*** note-s-2069070-001-001
+:PROPERTIES:
+:END:
+- UK :: Розмовне перехідне дієслово (V5k), яке зазвичай записують каною (せっつく), хоча в словниках трапляється написання 責付く. Описує нав'язливі прохання чи вимоги щось купити, зробити або поквапитися.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2069070-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子どもがおもちゃを買ってと母をせっついています。
+- READING :: こどもがおもちゃをかってとははをせっついています。
+- UK :: Дитина канючить у мами, щоб вона купила іграшку.
+- FOCUS :: せっついて
+*** ex-2069070-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 締め切りが近いので、上司に早く書類を出すようにせっつかれた。
+- READING :: しめきりがちかいので、じょうしにはやくしょるいをだすようにせっつかれた。
+- UK :: Оскільки дедлайн уже близько, начальник почав підганяти мене швидше здати документи.
+- FOCUS :: せっつかれた
+*** ex-2069070-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 何度断っても、彼は新しいゲーム機を買ってほしいと友達をせっつくのをやめなかった。
+- READING :: なんどことわっても、かれはあたらしいげーむきをかってほしいともだちをせっつくのをやめなかった。
+- UK :: Хоч скільки йому відмовляли, він не переставав докучати другові проханням купити нову ігрову консоль.
+- FOCUS :: せっつく
+
+* Sense s-2069070-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4fc323c1fa764321db066725dcd22e99f2ad720bf340278d9136cb9b009e585
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2069070-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heftig ermahnen
+*** en-s-2069070-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stark drängen
+** Ukrainian glosses
+
+* Sense s-2069070-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e5d315d3751b56b6d1b78855868da4bfac23d0eaa5f5ede01a7ed26868b2668f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2069070-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (прост.) наседать, нажимать; торопить, напоминать; требовать
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2069070-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2069070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せっつく
+** Accent accent-rd-2069070-001-002
+:PROPERTIES:
+:TARGET_ID: rd-2069070-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: せっつく

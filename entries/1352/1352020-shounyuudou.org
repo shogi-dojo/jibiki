@@ -1,0 +1,201 @@
+#+TITLE: 鍾乳洞
+#+JMDICT_ID: 1352020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうにゅうどう
+#+ROMAJI: shounyuudou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1352020-001
+:PROPERTIES:
+:TEXT: 鍾乳洞
+:END:
+*** Priorities
+- news2
+- nf42
+- spec2
+** Written form wf-1352020-002
+:PROPERTIES:
+:TEXT: 鐘乳洞
+:END:
+*** Information
+- sK
+** Reading rd-1352020-001
+:PROPERTIES:
+:TEXT: しょうにゅうどう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+- spec2
+
+* Sense s-1352020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: eab6aff5a65bcfab76c32946aef6debfdb83f94d99c7f49f2c16150f01dce6de
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- limestone cave
+- limestone cavern
+** Ukrainian glosses
+*** uk-s-1352020-001-001
+:PROPERTIES:
+:END:
+- text :: карстова печера; сталактитова печера
+** Learner notes
+*** note-s-1352020-001-001
+:PROPERTIES:
+:END:
+- UK :: Географічний термін, утворений від 鍾乳 (основи слова 鍾乳石 — «сталактит») та 洞 («печера»). Позначає природну вапнякову печеру зі сталактитами й сталагмітами, утворену внаслідок розчинення гірських порід водою.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1352020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夏休みに大きな鍾乳洞を見ました。
+- READING :: なつやすみにおおきなしょうにゅうどうをみました。
+- UK :: На літніх канікулах я бачив велику сталактитову печеру.
+- FOCUS :: 鍾乳洞
+*** ex-1352020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 鍾乳洞の中は夏でもひんやりとしていて、とても涼しい。
+- READING :: しょうにゅうどうのなかはなつでもひんやりとしていて、とてもすずしい。
+- UK :: Усередині карстової печери навіть улітку прохолодно й свіжо.
+- FOCUS :: 鍾乳洞
+*** ex-1352020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地下水によって何万年もかけて削られた鍾乳洞は、国の天然記念物に指定されている。
+- READING :: ちかすいによってなんまんねんもかけてけずられたしょうにゅうどうは、くにのてんねんきねんぶつにしていされている。
+- UK :: Сталактитова печера, яку підземні води вимивали десятки тисяч років, визнана природною пам'яткою державного значення.
+- FOCUS :: 鍾乳洞
+
+* Sense s-1352020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: dbe0873465897e0cff3a04e008dbc869126718ad70b702c20d9ca05454137616
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kalksteengrot
+** Ukrainian glosses
+
+* Sense s-1352020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c59e294db0694f6927ef71ebdc847856bb17d95a1dbd10067084903cc5ffe9f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352020-003-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: grotte calcaire
+** Ukrainian glosses
+
+* Sense s-1352020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0f6c2161404e5f8033e3662dcb7b45b69e23c5fb6d3733f798cba1354ba79ff7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352020-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Tropfsteinhöhle
+** Ukrainian glosses
+
+* Sense s-1352020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 6bc4590cbc51033e378fa3bdca2947f6228d4dbb6ee962d04c6ac8d8ee7a3dc6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1352020-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сталактитовая пещера, сталактитовый грот
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1352020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1352020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しょうにゅうどう
+** Accent accent-rd-1352020-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1352020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: しょうにゅうどう

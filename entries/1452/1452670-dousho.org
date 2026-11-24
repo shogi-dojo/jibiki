@@ -1,0 +1,180 @@
+#+TITLE: 同所
+#+JMDICT_ID: 1452670
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: どうしょ
+#+ROMAJI: dousho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1452670-001
+:PROPERTIES:
+:TEXT: 同所
+:END:
+** Written form wf-1452670-002
+:PROPERTIES:
+:TEXT: 同処
+:END:
+** Reading rd-1452670-001
+:PROPERTIES:
+:TEXT: どうしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1452670-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 195e030285c52c4b4eeb9f256d04dcd904a8d1a68b835d2cd8889925371ee7c8
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- the same place
+- the same address
+- the said place
+** Ukrainian glosses
+*** uk-s-1452670-001-001
+:PROPERTIES:
+:END:
+- text :: те саме місце; та сама адреса, зазначене місце
+** Learner notes
+*** note-s-1452670-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник формального, ділового та публіцистичного стилю (同 — той самий + 所 — місце). Вживається в документах, оголошеннях, новинних повідомленнях та офіційному листуванні, щоб уникнути повторення щойно названої адреси чи локації.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1452670-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 書類は同所へ送ってください。
+- READING :: しょるいはどうしょへおくってください。
+- UK :: Будь ласка, надішліть документи на ту саму адресу.
+- FOCUS :: 同所
+*** ex-1452670-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい博物館は旧市庁舎の跡地に建てられ、現在も同所で公開されている。
+- READING :: あたらしいはくぶつかんはきゅうしちょうしゃのあとちにたてられ、げんざいもどうしょでこうかいされている。
+- UK :: Новий музей збудували на місці колишньої мерії, і він донині відкритий для відвідувачів за тією самою адресою.
+- FOCUS :: 同所
+*** ex-1452670-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: この地域にはかつて有名な陶芸家の工房があり、現在も同所を訪れる美術愛好家が絶えない。
+- READING :: このちいきにはかつてゆうめいなとうげいかのこうぼうがあり、げんざいもどうしょをおとずれるびじゅつあいこうかがたえない。
+- UK :: У цьому районі колись містилася майстерня відомого кераміста, і поціновувачі мистецтва й нині не припиняють відвідувати це місце.
+- FOCUS :: 同所
+
+* Sense s-1452670-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d878ce36023ed157f4e0dcee0ab862870a2450608bd99f90a73f23c9bbd80af5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452670-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derselbe Ort
+*** en-s-1452670-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: der erwähnte Ort
+*** en-s-1452670-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: derselbe Ort
+** Ukrainian glosses
+
+* Sense s-1452670-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4cbcf310526ad988570f2aa4a14d1faf8093bb97e7be76e1c58f0680aa3eea5d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1452670-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) то же место; тот же адрес
+*** en-s-1452670-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) упомянутое место; [выше]указанный адрес
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1452670-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1452670-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: どうしょ
+** Accent accent-rd-1452670-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1452670-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: どうしょ

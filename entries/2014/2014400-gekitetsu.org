@@ -1,0 +1,153 @@
+#+TITLE: 撃鉄
+#+JMDICT_ID: 2014400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: げきてつ
+#+ROMAJI: gekitetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2014400-001
+:PROPERTIES:
+:TEXT: 撃鉄
+:END:
+** Reading rd-2014400-001
+:PROPERTIES:
+:TEXT: げきてつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2014400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c49d839bc348abf57218cd14751af12f5a4a3b0bc7dbee7e92f96c0941e0c261
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- percussion hammer
+- firing hammer
+- cocking piece
+** Ukrainian glosses
+*** uk-s-2014400-001-001
+:PROPERTIES:
+:END:
+- text :: курок (у вогнепальній зброї); ударник
+** Learner notes
+*** note-s-2014400-001-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін, утворений із 撃 («бити, стріляти») та 鉄 («залізо»). Позначає ударний механізм ручної вогнепальної зброї (наприклад, у сполученнях 撃鉄を起こす — «звести курок», 撃鉄が落ちる — «курок спускається»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2014400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銃の撃鉄を起こす。
+- READING :: じゅうのげきてつをおこす。
+- UK :: Звести курок рушниці.
+- FOCUS :: 撃鉄
+*** ex-2014400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 銃の撃鉄が落ちる音が、静かな部屋に響いた。
+- READING :: じゅうのげきてつがおちるおとが、しずかなへやにひびいた。
+- UK :: У тихій кімнаті пролунав звук спущеного курка.
+- FOCUS :: 撃鉄
+*** ex-2014400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 古い拳銃を調べるため、まず弾が入っていないことを確かめてから撃鉄の動きを確認した。
+- READING :: ふるいけんじゅうをしらべるため、まずたまがはいっていないことをたしかめてからげきてつのうごきをかくにんした。
+- UK :: Щоб оглянути старий револьвер, спершу переконалися, що в ньому немає набоїв, а вже потім перевірили хід курка.
+- FOCUS :: 撃鉄
+
+* Sense s-2014400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 256886229d3d34bd061668ab6ec2b5d62f8dd2d55f7dbffa3f28683fb14aa4ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2014400-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: haan
+** Ukrainian glosses
+
+* Sense s-2014400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: da6a5a75b73e0fa7b74edf9a7cf2017cdffa3a1da547a361cd3094611c9466fe
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2014400-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schlaghahn (einer Feuerwaffe)
+** Ukrainian glosses
+
+* Sense s-2014400-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: e890c2cac2ea53a10ce05b9f1e4878da45ed8fcfca252b1aedbe50fe97a20f30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2014400-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: курок
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2014400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2014400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: げきてつ

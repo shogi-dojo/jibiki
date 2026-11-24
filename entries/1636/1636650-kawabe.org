@@ -1,0 +1,202 @@
+#+TITLE: 川辺
+#+JMDICT_ID: 1636650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かわべ
+#+ROMAJI: kawabe
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1636650-001
+:PROPERTIES:
+:TEXT: 川辺
+:END:
+*** Priorities
+- news2
+- nf30
+** Written form wf-1636650-002
+:PROPERTIES:
+:TEXT: 河辺
+:END:
+** Written form wf-1636650-003
+:PROPERTIES:
+:TEXT: 川べ
+:END:
+*** Information
+- sK
+** Reading rd-1636650-001
+:PROPERTIES:
+:TEXT: かわべ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf30
+
+* Sense s-1636650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e78bab8605f86bfe694b98c1d776a70f75b57d2313bab46a554e76770045e710
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- riverside
+- riverbank
+- edge of a river
+** Ukrainian glosses
+*** uk-s-1636650-001-001
+:PROPERTIES:
+:END:
+- text :: берег річки; узбережжя річки; приріччя
+** Learner notes
+*** note-s-1636650-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 川 («річка») і 辺 («край; околиця»), вживаний у нейтральному та літературному мовленні. На відміну від близького за змістом 川岸 («річковий берег» як край суші), 川辺 часто передає загальну атмосферу прибережної зони, де ростуть дерева й прогулюються люди.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1636650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 夕方、川辺を散歩しました。
+- READING :: ゆうがた、かわべをさんぽしました。
+- UK :: Увечері я прогулявся берегом річки.
+- FOCUS :: 川辺
+*** ex-1636650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 春になると、川辺の桜並木が一斉に咲き始める。
+- READING :: はるになると、かわべのさくらなみきがいっせいにさきはじめる。
+- UK :: Навесні алея сакур уздовж берега річки розквітає вся одразу.
+- FOCUS :: 川辺
+*** ex-1636650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 穏やかな風が吹く川辺に腰を下ろし、日が沈むのを静かに眺めていた。
+- READING :: おだやかなかぜがふくかわべにこしをおろし、ひがしずむのをしずかにながめていた。
+- UK :: Присівши на березі річки, де віяв лагідний вітерець, я мовчки спостерігав за заходом сонця.
+- FOCUS :: 川辺
+
+* Sense s-1636650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b4f330a461a308b4f53135b3d723baf7b13898c79c85e5cf02b8ede1b4b2cf89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636650-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rivierkant
+*** en-s-1636650-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rivieroever
+** Ukrainian glosses
+
+* Sense s-1636650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e9428271b4cdfeb4c4912d5e141de632ddc3044f717180db69d30dad9bbb0161
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636650-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Flussufer
+*** en-s-1636650-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kawabe
+** Ukrainian glosses
+
+* Sense s-1636650-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: afa555103100255406dacbbb2df281872fc41c83bf0b58d314686130edfd8e59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636650-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) かわばた
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1636650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1636650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かわべ
+** Accent accent-rd-1636650-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1636650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: かわべ

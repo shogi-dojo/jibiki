@@ -1,0 +1,160 @@
+#+TITLE: 鍋底
+#+JMDICT_ID: 1666100
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: なべぞこ
+#+ROMAJI: nabezoko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1666100-001
+:PROPERTIES:
+:TEXT: 鍋底
+:END:
+** Reading rd-1666100-001
+:PROPERTIES:
+:TEXT: なべぞこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1666100-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3fc1f8f84984f63f3e5b7d12393e43c16d67026191c4556fdedd54acdc0b09d3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- (inner) bottom of a pot
+- lingering recession
+** Ukrainian glosses
+*** uk-s-1666100-001-001
+:PROPERTIES:
+:END:
+- text :: дно каструлі (казанка); тривалий економічний спад
+** Learner notes
+*** note-s-1666100-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 鍋 (каструля, казанок) і 底 (дно) з озвонченням (連濁: そこ → ぞこ). Окрім прямого побутового значення (внутрішнє дно посуду), в економіці описує затяжну рецесію з тривалим перебуванням показників на низькому рівні — за аналогією з пласким дном каструлі (наприклад, 鍋底景気 або 鍋底不況).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1666100-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 鍋底が少し焦げてしまいました。
+- READING :: なべぞこがすこしこげてしまいました。
+- UK :: Дно каструлі трохи пригоріло.
+- FOCUS :: 鍋底
+*** ex-1666100-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: スープを作るときは、鍋底からよく混ぜるといい。
+- READING :: すーぷをつくるときは、なべぞこからよくまぜるといい。
+- UK :: Коли готуєте суп, варто добре перемішувати його від самого дна каструлі.
+- FOCUS :: 鍋底
+*** ex-1666100-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 景気の指標が横ばいで推移しており、専門家からは鍋底の状態が続くとの見方も出ている。
+- READING :: けいきのしひょうがよこばいですいいしており、せんもんかからはなべぞこのじょうたいがつづくとのみかたもでている。
+- UK :: Економічні показники тримаються на одному низькому рівні, тому серед експертів лунають думки, що тривалий спад ще затягнеться.
+- FOCUS :: 鍋底
+
+* Sense s-1666100-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2b453ed4282da7f026d34bc56d11cc704b443d5189d0eaf96141da15121e9a7c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1666100-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Topfboden
+** Ukrainian glosses
+
+* Sense s-1666100-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 647c9dbd59d224434186cfdb167411db1647f5476429c20a061948c806459ac2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1666100-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: anhaltender Tiefstand
+*** en-s-1666100-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Talsohle
+** Ukrainian glosses
+
+* Sense s-1666100-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6def8f8af03d501118f0d3b7100648390aa8d19d7c3c6237e58bd7a575448762
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1666100-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дно сковороды (кастрюли) (внутри)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1666100-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1666100-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: なべぞこ

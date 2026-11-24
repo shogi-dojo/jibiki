@@ -1,0 +1,192 @@
+#+TITLE: 港内
+#+JMDICT_ID: 1280020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうない
+#+ROMAJI: kounai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1280020-001
+:PROPERTIES:
+:TEXT: 港内
+:END:
+*** Priorities
+- news1
+- nf22
+** Reading rd-1280020-001
+:PROPERTIES:
+:TEXT: こうない
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf22
+
+* Sense s-1280020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f6fd427678b1da77f1fe7c904104d61be2004eba2078b8966e23616365f7aca7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- inside the harbour
+- inside the harbor
+** Ukrainian glosses
+*** uk-s-1280020-001-001
+:PROPERTIES:
+:END:
+- text :: акваторія порту; внутрішня частина порту; територія гавані
+** Learner notes
+*** note-s-1280020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 港 («порт, гавань») та 内 («всередині»). Позначає водний простір і прибережну зону в межах порту, де швартуються судна; часто вживається з частками 港内で чи 港内に, а в правилах судноплавства — у виразі 港内徐行 («малий хід у гавані»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1280020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 港内に白い船が何隻も停まっている。
+- READING :: こうないにしろいふねがなんせきもとまっている。
+- UK :: У гавані стоїть чимало білих кораблів.
+- FOCUS :: 港内
+*** ex-1280020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 台風が近づいているため、漁船はすべて港内に避難した。
+- READING :: たいふうがちかづいているため、ぎょせんはすべてこうないにひなんした。
+- UK :: Оскільки наближається тайфун, усі рибальські судна сховалися в акваторії порту.
+- FOCUS :: 港内
+*** ex-1280020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大型客船は水先案内人の誘導を受けながら、狭い港内をゆっくりと進んでいった。
+- READING :: おおがたきゃくせんはみずさきあんないにんのゆうどうをうけながら、せまいこうないをゆっくりとすすんでいった。
+- UK :: Під проводом лоцмана великий пасажирський лайнер повільно рушив вузькою гаванню.
+- FOCUS :: 港内
+
+* Sense s-1280020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a912b25013f116fa33ff53d12463f03c764e959eecaf55914356857b1c1093ed
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280020-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dans le port
+** Ukrainian glosses
+
+* Sense s-1280020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8161df4cc1e83daa8133e43f40066d397ad5c109f66a39f6ea6fd179f787672b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280020-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: im Hafen
+** Ukrainian glosses
+
+* Sense s-1280020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5a3644318af8064d905b804249318519ebff123942ac9d34298f8dd460a88fe0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280020-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: внутренняя часть порта, порт [внутри]
+*** en-s-1280020-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～に} в порту; в бухте
+** Ukrainian glosses
+
+* Sense s-1280020-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 383e850e92186fe470a5af2727dd1bf5198d4d7ed1d773748e580a45cb45a325
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1280020-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dentro del puerto
+*** en-s-1280020-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: intraportuario
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1280020-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1280020-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こうない

@@ -1,0 +1,140 @@
+#+TITLE: 奇岩
+#+JMDICT_ID: 1777930
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きがん
+#+ROMAJI: kigan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1777930-001
+:PROPERTIES:
+:TEXT: 奇岩
+:END:
+** Written form wf-1777930-002
+:PROPERTIES:
+:TEXT: 奇巌
+:END:
+*** Information
+- rK
+** Reading rd-1777930-001
+:PROPERTIES:
+:TEXT: きがん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1777930-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2db0545d731e89e5c62b95c9e2ec7c68852e35765ece527f0fa6fa8e84d63ebe
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- strangely shaped large rock
+- large rock of unusual shape
+** Ukrainian glosses
+*** uk-s-1777930-001-001
+:PROPERTIES:
+:END:
+- text :: скеля химерної форми, дивовижна скеля
+** Learner notes
+*** note-s-1777930-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного або туристично-описового вжитку для позначення великої скелі незвичної, химерної форми. Поєднує ієрогліфи 奇 (дивовижний, незвичний) та 岩 (скеля, кам'яна брила); часто трапляється у виразі 奇岩が連なる.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1777930-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この海岸には美しい奇岩があります。
+- READING :: このかいがんにはうつくしいきがんがあります。
+- UK :: На цьому узбережжі є красиві скелі химерної форми.
+- FOCUS :: 奇岩
+*** ex-1777930-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 長い年月をかけて波に削られた奇岩が観光客に人気です。
+- READING :: ながいねんげつをかけてなみにけずられたきがんがかんこうきゃくににんきです。
+- UK :: Скелі химерних обрисів, виточені хвилями за довгі роки, популярні серед туристів.
+- FOCUS :: 奇岩
+*** ex-1777930-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 霧に包まれた渓谷の奥に、切り立った奇岩がそびえ立っているのが見えた。
+- READING :: きりにつつまれたけいこくのおくに、きりたったきがんがそびえたっているのがみえた。
+- UK :: У глибині затягнутої туманом ущелини виднілися стрімкі скелі дивовижної форми.
+- FOCUS :: 奇岩
+
+* Sense s-1777930-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bdbef64fd302b5cc7577018ee92eed0b337fef4c4cf0052ff03c1895bccfef8e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1777930-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: seltsam geformter Felsen
+** Ukrainian glosses
+
+* Sense s-1777930-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 47c72e4a5b4da5d0a1f6e748ddd1c83c8ebcd384d1be91f843600a8475dde9ee
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1777930-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: скала причудливой формы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1777930-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1777930-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: きがん

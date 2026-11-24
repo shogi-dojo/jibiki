@@ -1,0 +1,175 @@
+#+TITLE: 物性
+#+JMDICT_ID: 1722710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぶっせい
+#+ROMAJI: bussei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1722710-001
+:PROPERTIES:
+:TEXT: 物性
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1722710-001
+:PROPERTIES:
+:TEXT: ぶっせい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1722710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2c6b4b8699022916faf111d428984ae8c00b9a5e8b9c01e39b458f605a1ea7cd
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- physical properties
+- properties of matter
+- physicality
+** Ukrainian glosses
+*** uk-s-1722710-001-001
+:PROPERTIES:
+:END:
+- text :: фізичні властивості речовини; матеріальність
+** Learner notes
+*** note-s-1722710-001-001
+:PROPERTIES:
+:END:
+- UK :: Науково-технічний термін (від 物 «матерія, речовина» та 性 «природа, властивість»), що позначає сукупність фізичних і хімічних характеристик матеріалів або речовин. Широко використовується у фізиці твердого тіла та матеріалознавстві, зокрема в термінах 物性物理学 («фізика конденсованого стану») та 物性値 («фізичні константи матеріалу»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1722710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 研究室で新しい材料の物性を調べます。
+- READING :: けんきゅうしつであたらしいざいりょうのぶっせいをしらべます。
+- UK :: У лабораторії досліджують фізичні властивості нового матеріалу.
+- FOCUS :: 物性
+*** ex-1722710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 温度や圧力が変化すると、金属の物性も大きく変わることがある。
+- READING :: おんどやあつりょくがへんかすると、きんぞくのぶっせいもおおきくかわることがある。
+- UK :: Коли температура чи тиск змінюються, фізичні властивості металів теж можуть суттєво змінюватися.
+- FOCUS :: 物性
+*** ex-1722710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 彼女は大学で物性を専門に研究しており、現在は半導体の電気伝導性に関する論文を執筆している。
+- READING :: かのじょはだいがくでぶっせいをせんもんにけんきゅうしており、げんざいははんどうたいのでんきでんどうせいにかんするろんぶんをしっぴつしている。
+- UK :: Вона спеціалізується в університеті на дослідженні властивостей матерії та зараз пише дисертацію про електропровідність напівпровідників.
+- FOCUS :: 物性
+
+* Sense s-1722710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cfb124941c35d61f16ebb1c1d1c74a080d70351d32a8bb31ab0acdc3db8aa4bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eigenschaft der Materie
+*** en-s-1722710-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Material…
+** Ukrainian glosses
+
+* Sense s-1722710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e89c6dedcf320a4bafae27ec7356cc1353d69310c6fe5eb43e471c67840ccf7e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722710-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: az anyag fizikai tulajdonságai
+*** en-s-1722710-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: fizikai állapot
+** Ukrainian glosses
+
+* Sense s-1722710-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 3de01340a456a9a9eaefbf1015233a7d04f1e715d5dc787a0afd10f88d26dc8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1722710-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: физическая природа (вещества, явления)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1722710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1722710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぶっせい

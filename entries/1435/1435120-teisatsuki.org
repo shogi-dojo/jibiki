@@ -1,0 +1,167 @@
+#+TITLE: 偵察機
+#+JMDICT_ID: 1435120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ていさつき
+#+ROMAJI: teisatsuki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1435120-001
+:PROPERTIES:
+:TEXT: 偵察機
+:END:
+** Reading rd-1435120-001
+:PROPERTIES:
+:TEXT: ていさつき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1435120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ae055510fcf17ef440e261d3eb1a81ffc4cf9da70d86651f8f97bce9ac849d7d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- reconnaissance plane
+- spy plane
+** Ukrainian glosses
+*** uk-s-1435120-001-001
+:PROPERTIES:
+:END:
+- text :: літак-розвідник; розвідувальний літак
+** Learner notes
+*** note-s-1435120-001-001
+:PROPERTIES:
+:END:
+- UK :: Військовий і авіаційний термін, утворений із 偵察 («розвідка») та суфікса 機 («літальний апарат, літак»). Позначає пілотований або безпілотний літак（無人偵察機）, призначений для повітряного спостереження й фотографування.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1435120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 空に偵察機が飛んでいる。
+- READING :: そらにていさつきがとんでいる。
+- UK :: У небі летить літак-розвідник.
+- FOCUS :: 偵察機
+*** ex-1435120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 国境付近で他国の偵察機が確認された。
+- READING :: こっきょうふきんでたこくのていさつきがかくにんされた。
+- UK :: Поблизу кордону зафіксували розвідувальний літак іншої держави.
+- FOCUS :: 偵察機
+*** ex-1435120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 衛星技術の発達した現代でも、高高度を飛行する無人偵察機は情報収集に欠かせない。
+- READING :: えいせいぎじゅつのはったつしたげんだいでも、こうこうどをひこうするむじんていさつきはじょうほうしゅうしゅうにかかせない。
+- UK :: Навіть у наш час розвинених супутникових технологій безпілотні розвідувальні літаки, що діють на великій висоті, залишаються незамінними для збору інформації.
+- FOCUS :: 偵察機
+
+* Sense s-1435120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 1e2529d4677f55956f1de364f4c4476ad206933d8de268eccbd9637314edbbce
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufklärer
+*** en-s-1435120-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufklärungsflugzeug
+*** en-s-1435120-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erkundungsflugzeug
+** Ukrainian glosses
+
+* Sense s-1435120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 41b00f1e9c6bf9db3e02c9e46f814c4c7c4caeebf92cb82c9b2a2ba96c2b589f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1435120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: самолёт-разведчик
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1435120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1435120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 4
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ていさつき
+** Accent accent-rd-1435120-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1435120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ていさつき

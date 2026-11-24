@@ -1,0 +1,154 @@
+#+TITLE: 心音
+#+JMDICT_ID: 1793520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しんおん
+#+ROMAJI: shinon
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1793520-001
+:PROPERTIES:
+:TEXT: 心音
+:END:
+** Reading rd-1793520-001
+:PROPERTIES:
+:TEXT: しんおん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1793520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f780410371eef9d7feedfe87704b2435098cfee41df6a6d894a50da980f0a496
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- med
+** English glosses
+- heart sound
+- cardiac sound
+** Ukrainian glosses
+*** uk-s-1793520-001-001
+:PROPERTIES:
+:END:
+- text :: серцевий тон; звук серцебиття
+** Learner notes
+*** note-s-1793520-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник на позначення акустичних звуків роботи серця (тонів), які прослуховує лікар за допомогою стетоскопа. Складається з 心 («серце») і 音 («звук»). Типово вживається у поєднанні з дієсловами 聴く («прослуховувати»), 確認する («перевіряти») та 乱れる («збиватися, ставати неритмічним»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1793520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 医者が赤ちゃんの心音を聞きました。
+- READING :: いしゃがあかちゃんのしんおんをききました。
+- UK :: Лікар прослухав серцебиття немовляти.
+- FOCUS :: 心音
+*** ex-1793520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 診察室で聴診器を当てると、力強い心音が聞こえてきました。
+- READING :: しんさつしつでちょうしんきをあてると、ちからづよいしんおんがきこえてきました。
+- UK :: Коли в оглядовому кабінеті приклали стетоскоп, почулися чіткі й сильні серцеві тони.
+- FOCUS :: 心音
+*** ex-1793520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 定期健診で医師が患者の心音にわずかな異常を認め、精密検査を勧めた。
+- READING :: ていきけんしんでいしがかんじゃのしんおんにわずかないじょうをみとめ、せいみつけんさをすすめた。
+- UK :: Під час планового огляду лікар помітив незначне відхилення в серцевих тонах пацієнта й порадив пройти детальне обстеження.
+- FOCUS :: 心音
+
+* Sense s-1793520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 603596aaabc8fab74089e8fc6ebefc1b4934da989ecfa026b9e2411d1b05537a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1793520-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: harttoon
+** Ukrainian glosses
+
+* Sense s-1793520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4576222741322d089687c92aa4a0ff6977918932d8407dfb6250d35115d35e06
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1793520-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Herzton
+** Ukrainian glosses
+
+* Sense s-1793520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2f526c57d6ea99002c7f13e63ebf0bf08e8347966da563306d42cc5ec4edc251
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1793520-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: шумы в сердце
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1793520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1793520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しんおん

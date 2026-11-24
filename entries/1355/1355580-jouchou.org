@@ -1,0 +1,597 @@
+#+TITLE: 冗長
+#+JMDICT_ID: 1355580
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: じょうちょう
+#+ROMAJI: jouchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1355580-001
+:PROPERTIES:
+:TEXT: 冗長
+:END:
+** Reading rd-1355580-001
+:PROPERTIES:
+:TEXT: じょうちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1355580-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4ea533186fa4079a4cc0dcff3a1539b01254a2d61272ae56de3b233d1bbec98a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- tedious
+- verbose
+- wordy
+- lengthy
+- longwinded
+- prolix
+** Ukrainian glosses
+*** uk-s-1355580-001-001
+:PROPERTIES:
+:END:
+- text :: багатослівний, розтягнутий; багатослівність
+** Learner notes
+*** note-s-1355580-001-001
+:PROPERTIES:
+:END:
+- UK :: Напівпредикативний прикметник на -な та іменник книжного регістру для опису мовлення або тексту, обтяженого зайвими подробицями. Утворюється з ієрогліфів 冗 (зайвий) і 長 (довгий); часто вживається у словосполученнях на кшталт 冗長な表現 або 冗長な文章.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1355580-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この説明は少し冗長だ。
+- READING :: このせつめいはすこしじょうちょうだ。
+- UK :: Це пояснення трохи розтягнуте.
+- FOCUS :: 冗長
+*** ex-1355580-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 会議での発言が冗長になると、要点が伝わりにくくなる。
+- READING :: かいぎでのはつげんがじょうちょうになると、ようてんがつたわりにくくなる。
+- UK :: Коли виступи на нараді стають надто багатослівними, головну думку важко донести.
+- FOCUS :: 冗長
+*** ex-1355580-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 編集者は原稿を読み直し、冗長な表現を削って文章を引き締めた。
+- READING :: へんしゅうしゃはげんこうをよみなおし、じょうちょうなひょうげんをけずってぶんしょうをひきしめた。
+- UK :: Редактор перечитав рукопис і, скоротивши зайві звороти, зробив текст стислішим.
+- FOCUS :: 冗長
+
+* Sense s-1355580-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 97946ebc107a023c6732e500a5010cd295b2886cc14f87176f6fe3a982dc213f
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- n
+** English glosses
+- redundancy
+** Ukrainian glosses
+*** uk-s-1355580-002-001
+:PROPERTIES:
+:END:
+- text :: надмірність; резервування
+** Learner notes
+*** note-s-1355580-002-001
+:PROPERTIES:
+:END:
+- UK :: Спеціальний термін в інформатиці та інженерії на позначення дублювання даних або елементів системи для підвищення надійності. Вживається в поєднаннях на зразок 冗長性 або 冗長化.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1355580-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2e91cf4d293478482197e82d6123a0d69bc9dab7692825c0ace636ed6dd85c4e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wijdlopig
+*** en-s-1355580-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitvoerig
+*** en-s-1355580-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: langdradig
+*** en-s-1355580-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lang en breed
+*** en-s-1355580-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breed uitgemeten
+*** en-s-1355580-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gerekt
+*** en-s-1355580-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breedsprakig
+*** en-s-1355580-003-008
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breedvoerig
+*** en-s-1355580-003-009
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: van lange adem
+*** en-s-1355580-003-010
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lang van stof
+*** en-s-1355580-003-011
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {w.g.} prolix
+*** en-s-1355580-003-012
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} langwijlig
+*** en-s-1355580-003-013
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {arch.} wijdluftig
+*** en-s-1355580-003-014
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wijdlopig
+*** en-s-1355580-003-015
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: uitvoerig
+*** en-s-1355580-003-016
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: langdradig
+*** en-s-1355580-003-017
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lang en breed
+*** en-s-1355580-003-018
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breed uitgemeten
+*** en-s-1355580-003-019
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gerekt
+*** en-s-1355580-003-020
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rekkerig
+*** en-s-1355580-003-021
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breedsprakig
+*** en-s-1355580-003-022
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: breedvoerig
+*** en-s-1355580-003-023
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {veroud.} langwijlig
+*** en-s-1355580-003-024
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {arch.} wijdluftig
+** Ukrainian glosses
+
+* Sense s-1355580-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a7700941c738ee4217582edd194ee4bba31e5087033bcadb18d2d71c74480be5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-004-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: prolixité
+*** en-s-1355580-004-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: verbosité
+** Ukrainian glosses
+
+* Sense s-1355580-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: d1a15e032b8d8b7798701b517ffa4600690e649913ba008aa82416ffefcb4547
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-005-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redondant
+** Ukrainian glosses
+
+* Sense s-1355580-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 236891a2307e1bb2981921c4f81d415f72e7e274b34cafd33085bd6c9e98b98e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weitschweifigkeit
+*** en-s-1355580-006-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weitläufigkeit
+*** en-s-1355580-006-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Langatmigkeit
+*** en-s-1355580-006-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Redundanz
+*** en-s-1355580-006-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (obsol.)Prolixität
+*** en-s-1355580-006-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weitschweifig
+*** en-s-1355580-006-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: weitläufig
+*** en-s-1355580-006-008
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: langatmig
+*** en-s-1355580-006-009
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redundant
+*** en-s-1355580-006-010
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (obsol.) prolix
+*** en-s-1355580-006-011
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weitschweifigkeit
+*** en-s-1355580-006-012
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Weitläufigkeit
+*** en-s-1355580-006-013
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Langatmigkeit
+*** en-s-1355580-006-014
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Redundanz
+*** en-s-1355580-006-015
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text ::  (obsol.)Prolixität
+** Ukrainian glosses
+
+* Sense s-1355580-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 1f9bf363bda2afe331ace40bd7a5c8d2328dcb85d30a89379e9ea246ac332af9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-007-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagy bőség
+*** en-s-1355580-007-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nagy gazdagság
+*** en-s-1355580-007-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pleonazmus
+*** en-s-1355580-007-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szóhalmozás
+*** en-s-1355580-007-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redundáns
+** Ukrainian glosses
+
+* Sense s-1355580-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 51bb4787042466f4ded46646181d4ba091e5698d81a7be5f73701330f3e650b7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-008-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: многословие
+*** en-s-1355580-008-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～な} многословный
+** Ukrainian glosses
+
+* Sense s-1355580-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: 47725e3ba29809ccd6f04505a53ccddc62b0b1b05b61b40b947bcb1520f1ff6c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1355580-009-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: redundante
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1355580-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1355580-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: じょうちょう

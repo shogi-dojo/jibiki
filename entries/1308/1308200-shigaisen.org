@@ -1,0 +1,160 @@
+#+TITLE: 市街戦
+#+JMDICT_ID: 1308200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しがいせん
+#+ROMAJI: shigaisen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1308200-001
+:PROPERTIES:
+:TEXT: 市街戦
+:END:
+** Reading rd-1308200-001
+:PROPERTIES:
+:TEXT: しがいせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1308200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f2e9c67095e2af1ba7cff7274fe600a639a871a76b91a513a19bbcaabd16a0e0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- street fighting
+- urban warfare
+** Ukrainian glosses
+*** uk-s-1308200-001-001
+:PROPERTIES:
+:END:
+- text :: вуличні бої; бойові дії в міській забудові
+** Learner notes
+*** note-s-1308200-001-001
+:PROPERTIES:
+:END:
+- UK :: Складний військово-історичний і публіцистичний іменник із 市街 (міські вулиці, міський район) та 戦 (бій, війна). Позначає бойові дії безпосередньо серед міських кварталів, будинків і вулиць.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1308200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の本で市街戦について読みました。
+- READING :: れきしのほんでしがいせんについてよみました。
+- UK :: Я читав про вуличні бої в книжці з історії.
+- FOCUS :: 市街戦
+*** ex-1308200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 市街戦では一般市民への被害を避けることが極めて難しい。
+- READING :: しがいせんではいっぱんしみんへのひがいをさけることがきわめてむずかしい。
+- UK :: Під час вуличних боїв надзвичайно важко уникнути жертв серед цивільного населення.
+- FOCUS :: 市街戦
+*** ex-1308200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 建物が密集する地域での市街戦は、見通しが悪く複雑な地形のために長期化しやすい。
+- READING :: たてものがみっしゅうするちいきでのしがいせんは、みとおしがわるくふくざつなちけいのためにちょうきかしやすい。
+- UK :: Бойові дії в щільно забудованих міських районах часто затягуються через обмежену видимість і складний рельєф.
+- FOCUS :: 市街戦
+
+* Sense s-1308200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 15894d310ba89813df6ae95a3a979da1ec1d0b7f426197b6d3e7efa5879e56eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308200-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: straatgevecht
+*** en-s-1308200-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: straatoorlog
+** Ukrainian glosses
+
+* Sense s-1308200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 11874744c0b6941178af7a317990e64cde972e7d4e4c9add17104375cc6600d8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308200-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Straßenkampf
+** Ukrainian glosses
+
+* Sense s-1308200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c4d0ac461737f4c4463cd800bf69c9225ad840cae0768783f7f2f69e351a4516
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1308200-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: уличные бои
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1308200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1308200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しがいせん

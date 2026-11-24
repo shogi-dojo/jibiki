@@ -1,0 +1,175 @@
+#+TITLE: 細目
+#+JMDICT_ID: 1295810
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: さいもく
+#+ROMAJI: saimoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1295810-001
+:PROPERTIES:
+:TEXT: 細目
+:END:
+*** Priorities
+- news1
+- nf21
+** Reading rd-1295810-001
+:PROPERTIES:
+:TEXT: さいもく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf21
+
+* Sense s-1295810-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 606d4215dafa571698dc3ad68b9b55a2ddf877c6a2dcdfb426b86e42ebc67974
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- particulars
+- details
+- specified items
+** Ukrainian glosses
+*** uk-s-1295810-001-001
+:PROPERTIES:
+:END:
+- text :: подробиці, деталі; окремі пункти, специфікація
+** Learner notes
+*** note-s-1295810-001-001
+:PROPERTIES:
+:END:
+- UK :: Офіційний або книжний іменник, утворений із ієрогліфів 細 («дрібний, детальний») і 目 («пункт, стаття»). Уживається в ділових документах, правилах, звітах і бюджетах у значеннях «конкретні статті витрат» або «дрібні деталі»; не плутати з омографом ほそめ («примружені очі»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1295810-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 旅行の計画の細目を決めた。
+- READING :: りょこうのけいかくのさいもくをきめた。
+- UK :: Ми визначили деталі плану подорожі.
+- FOCUS :: 細目
+*** ex-1295810-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい規則の細目について会議で話し合った。
+- READING :: あたらしいきそくのさいもくについてかいぎではなしあった。
+- UK :: На нараді обговорили окремі пункти нових правил.
+- FOCUS :: 細目
+*** ex-1295810-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 契約書の大枠には合意したが、細目を詰めるにはまだ時間がかかる。
+- READING :: けいやくしょのおおわくにはごういしたが、さいもくをつめるにはまだじかんがかかる。
+- UK :: Загальні рамки договору ми вже погодили, але на уточнення дрібних деталей ще знадобиться час.
+- FOCUS :: 細目
+
+* Sense s-1295810-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 84a533074fd94dba301c30a09ac814c04237ae56760fee6ef58d4aed34a73075
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1295810-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Detail
+*** en-s-1295810-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einzelheit
+** Ukrainian glosses
+
+* Sense s-1295810-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 71d93523698f22aa6d57faf0c54a98a1bfdfc819ce1d2cecceaecd2175f0f1b2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1295810-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eligazításon elrendelt feladatok
+*** en-s-1295810-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eligazításon kiadott feladatok
+** Ukrainian glosses
+
+* Sense s-1295810-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: dfde676a37890ab068acb5165effa5e17c03d5c7292ed0698304211559365356
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1295810-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: детали, подробности
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1295810-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1295810-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: さいもく

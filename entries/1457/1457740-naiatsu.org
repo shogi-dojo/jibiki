@@ -1,0 +1,175 @@
+#+TITLE: 内圧
+#+JMDICT_ID: 1457740
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ないあつ
+#+ROMAJI: naiatsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1457740-001
+:PROPERTIES:
+:TEXT: 内圧
+:END:
+*** Priorities
+- news2
+- nf36
+** Reading rd-1457740-001
+:PROPERTIES:
+:TEXT: ないあつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf36
+
+* Sense s-1457740-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: cab9dd4e463cf36d0e3f3811123d96c7117dd0d9f232bb1d74992cd991d849ed
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- internal pressure
+** Ukrainian glosses
+*** uk-s-1457740-001-001
+:PROPERTIES:
+:END:
+- text :: внутрішній тиск
+** Learner notes
+*** note-s-1457740-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від 内 (внутрішній) і 圧 (тиск); антонім до 外圧 (зовнішній тиск). Уживається як у фізиці й техніці (тиск газу чи рідини всередині посудини, шини, труби), так і в переносному сенсі — щодо політичного або суспільного тиску всередині країни чи організації.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1457740-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: タイヤの内圧を調べました。
+- READING :: たいやのないあつをしらべました。
+- UK :: Я перевірив внутрішній тиск у шинах.
+- FOCUS :: 内圧
+*** ex-1457740-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この鍋は内圧が高まると自動で蒸気を逃がす仕組みになっている。
+- READING :: このなべはないあつがたかまるとじどうでじょうきをにがすしくみになっている。
+- UK :: Ця каструля влаштована так, що при підвищенні внутрішнього тиску вона автоматично випускає пару.
+- FOCUS :: 内圧
+*** ex-1457740-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 規制緩和をめぐっては、海外からの要請だけでなく国内の企業からの内圧も強まっていた。
+- READING :: きせいかんわをめぐっては、かいがいからのようせいだけでなくこくないのきぎょうからのないあつもつよまっていた。
+- UK :: Щодо дерегуляції посилювався не лише запит із-за кордону, а й внутрішній тиск з боку вітчизняних підприємств.
+- FOCUS :: 内圧
+
+* Sense s-1457740-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4d85633ca5656590672d3dd0e46c9a9ec5b1da7941f3c0da4178c09b72797d72
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1457740-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} inwendige druk
+** Ukrainian glosses
+
+* Sense s-1457740-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4f823ba29cc056c021d6973eb1a5ce5df2ec69beddf47989abbea7d108cfc693
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1457740-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: innerer Druck
+** Ukrainian glosses
+
+* Sense s-1457740-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 04ab791106ab344e6ba7e4bb54f8d4a29fec7e47d3b47294f72720320f187f65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1457740-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: belső nyomás
+** Ukrainian glosses
+
+* Sense s-1457740-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a9a50b508776ea0fc26d4fe819cdda9c76688e55ffc33a8e52c5fa0a6c14a68f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1457740-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: внутреннее давление
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1457740-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1457740-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ないあつ

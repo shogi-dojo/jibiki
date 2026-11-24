@@ -1,0 +1,159 @@
+#+TITLE: 鶏舎
+#+JMDICT_ID: 1253000
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けいしゃ
+#+ROMAJI: keisha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1253000-001
+:PROPERTIES:
+:TEXT: 鶏舎
+:END:
+** Reading rd-1253000-001
+:PROPERTIES:
+:TEXT: けいしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1253000-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 34fbedc4f932e42b0beeda9a2d1ba0b128d59b2f23fa763acd316b67ea6afb10
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- poultry house
+** Ukrainian glosses
+*** uk-s-1253000-001-001
+:PROPERTIES:
+:END:
+- text :: курник; пташник
+** Learner notes
+*** note-s-1253000-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний і сільськогосподарський термін, утворений з 鶏 (курка) та 舎 (приміщення, будівля). На відміну від побутового слова 鶏小屋, частіше позначає промислове або фермерське приміщення для утримання курей і птиці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1253000-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 朝早く鶏舎を掃除しました。
+- READING :: あさはやくけいしゃをそうじしました。
+- UK :: Рано-вранці я прибрав у курнику.
+- FOCUS :: 鶏舎
+*** ex-1253000-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 感染症を防ぐため、鶏舎の周辺では徹底した消毒が行われている。
+- READING :: かんせんしょうをふせぐため、けいしゃのしゅうへんではてっていしたしょうどくがおこなわれている。
+- UK :: Щоб запобігти інфекційним захворюванням, навколо пташника проводять ретельну дезінфекцію.
+- FOCUS :: 鶏舎
+*** ex-1253000-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 温度や換気を自動で管理できる最新の鶏舎を導入したことで、鶏の健康状態が大きく改善した。
+- READING :: おんどやかんきをじどうでかんりできるさいしんのけいしゃをどうにゅうしたことで、にわとりのけんこうじょうたいがおおきくかいぜんした。
+- UK :: Завдяки впровадженню сучасного пташника з автоматичним контролем температури та вентиляції стан здоров'я курей значно поліпшився.
+- FOCUS :: 鶏舎
+
+* Sense s-1253000-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8ecc0fd1e7edbe8987aa484bd7b7f5b502d41f5728376d2dc343b1f25a78185e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1253000-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Poulailler
+** Ukrainian glosses
+
+* Sense s-1253000-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a34de86a766f1afc2da70a3ead05518ccbc4e097e7e8401d61b40fe91bd35bc7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1253000-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hühnerstall
+*** en-s-1253000-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hühnerhaus
+** Ukrainian glosses
+
+* Sense s-1253000-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 58d66ec53cb98402dffa547a307475485593b7c06d5004b5ec2bcd458a066821
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1253000-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) курятник; птичник
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1253000-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1253000-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: けいしゃ

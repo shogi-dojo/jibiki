@@ -1,0 +1,143 @@
+#+TITLE: 内服
+#+JMDICT_ID: 1459080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ないふく
+#+ROMAJI: naifuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1459080-001
+:PROPERTIES:
+:TEXT: 内服
+:END:
+** Reading rd-1459080-001
+:PROPERTIES:
+:TEXT: ないふく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1459080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 28af63df59d8cbce068cbe16c7e90f7c06eb5e0715bf65df060a3a23d5f44baf
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- internal use
+** Ukrainian glosses
+*** uk-s-1459080-001-001
+:PROPERTIES:
+:END:
+- text :: внутрішнє застосування; вживання всередину (про ліки)
+** Learner notes
+*** note-s-1459080-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний іменник і する-дієслово, утворені від 内 (всередину) і 服 (приймати ліки); антонім до 外用 (зовнішнє застосування). Позначає приймання препарату перорально; трапляється в інструкціях і назвах на кшталт 内服薬 (ліки для внутрішнього вживання).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1459080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この薬は内服してください。
+- READING :: このくすりはないふくしてください。
+- UK :: Будь ласка, приймайте ці ліки всередину.
+- FOCUS :: 内服
+*** ex-1459080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 塗り薬だけでなく、抗生物質の内服も必要だと医師に言われた。
+- READING :: ぬりぐすりだけでなく、こうせいぶっしつのないふくもひつようだといしにいわれた。
+- UK :: Лікар сказав, що крім мазі потрібне також внутрішнє вживання антибіотиків.
+- FOCUS :: 内服
+*** ex-1459080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 症状が落ち着いたからといって自己判断で内服を中止すると、再発するおそれがある。
+- READING :: しょうじょうがおちついたからといってじこはんだんでないふくをちゅうしすると、さいはつするおそれがある。
+- UK :: Якщо самовільно припинити приймання ліків усередину лише тому, що симптоми стихли, хвороба може повернутися.
+- FOCUS :: 内服
+
+* Sense s-1459080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2b42a39d29222aa0cf06a384c4e08d133f19c499bcff8019a69c31edb9650ce8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1459080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: innere Anwendung
+*** en-s-1459080-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einnahme (von Medikamenten)
+** Ukrainian glosses
+
+* Sense s-1459080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d170a0c41709a4cfa55060e008c574f17068c7c366c943e641ef6a9772690e8c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1459080-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} принимать внутрь (лекарство)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1459080-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1459080-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ないふく

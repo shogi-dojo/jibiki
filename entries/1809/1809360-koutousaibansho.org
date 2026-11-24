@@ -1,0 +1,198 @@
+#+TITLE: 高等裁判所
+#+JMDICT_ID: 1809360
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうとうさいばんしょ
+#+ROMAJI: koutousaibansho
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1809360-001
+:PROPERTIES:
+:TEXT: 高等裁判所
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1809360-001
+:PROPERTIES:
+:TEXT: こうとうさいばんしょ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1809360-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bcf29588ad8dfb8ed73049ed4dd31a9c006b0bfe787fc5ffddcf69f880bbf2a1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- High Court
+** Ukrainian glosses
+*** uk-s-1809360-001-001
+:PROPERTIES:
+:END:
+- text :: Вищий суд (апеляційний суд другої інстанції в Японії)
+** Learner notes
+*** note-s-1809360-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний іменник, що поєднує 高等 (вищий) і 裁判所 (суд). У судовій системі Японії це суд середньої ланки (між окружними судами та Верховним судом 最高裁判所), який розглядає апеляції; скорочено називається 高裁 (こうさい).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1809360-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 事件は高等裁判所に送られた。
+- READING :: じけんはこうとうさいばんしょにおくられた。
+- UK :: Справу передали до Вищого суду.
+- FOCUS :: 高等裁判所
+*** ex-1809360-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 一審の判決を不服として、弁護側は高等裁判所に控訴することを決めた。
+- READING :: いっしんのはんけつをふふくとして、べんごがわはこうとうさいばんしょにこうそすることをきめた。
+- UK :: Не погодившись із вироком суду першої інстанції, сторона захисту вирішила подати апеляцію до Вищого суду.
+- FOCUS :: 高等裁判所
+*** ex-1809360-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 地方裁判所の判断が覆るかどうかが注目される中、高等裁判所での審理が来月から始まる。
+- READING :: ちほうさいばんしょのはんだんがくつがえるかどうかがちゅうもくされるなか、こうとうさいばんしょでのしんりがらいげつからはじまる。
+- UK :: Поки всі стежать за тим, чи буде скасовано рішення окружного суду, наступного місяця у Вищому суді розпочнеться розгляд справи.
+- FOCUS :: 高等裁判所
+
+* Sense s-1809360-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 997946f44307a08b11c2d8d723925e73cc1292c7b1fc8d29ccf160416185769d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809360-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} gerechtshof
+*** en-s-1809360-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hof
+*** en-s-1809360-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechtbank
+*** en-s-1809360-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rechtbanken van hogere rang
+** Ukrainian glosses
+
+* Sense s-1809360-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 77c54e62cc072df1836f58d6ef9e80a44634ac7a4393c48478623fcacdcb9fb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809360-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: höheres Gericht (entspricht etwa dem Oberlandesgericht)
+** Ukrainian glosses
+
+* Sense s-1809360-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 306d714dca757dcfed53f4fad2611cbf71825f16714be97d396b09cdc640f106
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809360-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: верховный суд
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1809360-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1809360-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 9
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHHHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうとうさいばんしょ
+** Accent accent-rd-1809360-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1809360-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 9
+:DROP_AFTER: 9
+:PATTERN: odaka
+:MORA_PATTERN: LHHHHHHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうとうさいばんしょ

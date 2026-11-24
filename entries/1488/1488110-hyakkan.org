@@ -1,0 +1,150 @@
+#+TITLE: 百官
+#+JMDICT_ID: 1488110
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ひゃっかん
+#+ROMAJI: hyakkan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1488110-001
+:PROPERTIES:
+:TEXT: 百官
+:END:
+** Reading rd-1488110-001
+:PROPERTIES:
+:TEXT: ひゃっかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1488110-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a087705503a4ad85daa16f9b2507cecb64d4972a7e0e07af2e172c221e25d2a2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- all the officials
+** Ukrainian glosses
+*** uk-s-1488110-001-001
+:PROPERTIES:
+:END:
+- text :: усі урядовці, усі державні сановники
+** Learner notes
+*** note-s-1488110-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний та історичний іменник, утворений із 百 (сто, безліч, усі) і 官 (чиновник, урядова посада). Позначає сукупність усіх державних службовців і придворних сановників при дворі або в уряді; трапляється переважно в історичних хроніках і класичній літературі (наприклад, 文武百官 — «усі цивільні й військові сановники»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1488110-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 百官が王の前に集まった。
+- READING :: ひゃっかんがおうのまえにあつまった。
+- UK :: Усі сановники зібралися перед королем.
+- FOCUS :: 百官
+*** ex-1488110-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新年の儀式には、都中の百官が正装して宮殿に参列した。
+- READING :: しんねんのぎしきには、みやこじゅうのひゃっかんがせいそうしてきゅうでんにさんれつした。
+- UK :: На новорічну церемонію всі урядовці столиці прибули до палацу в парадному вбранні.
+- FOCUS :: 百官
+*** ex-1488110-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史書には、新たな政権が発足した日に文武の百官を率いて祝宴を開いたと記されている。
+- READING :: れきししょには、あらたなせいけんがほっそくしたひにぶんぶのひゃっかんをひきいてしゅくえんをひらいたとしるされている。
+- UK :: В історичному літописі зазначено, що в день проголошення нової влади правитель влаштував бенкет на чолі всіх цивільних і військових сановників.
+- FOCUS :: 百官
+
+* Sense s-1488110-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 89bc462280b3d9ff104c73a72bf9d22454a1d31b1a76eaead8012025d8e748c4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488110-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: viele Regierungsbeamte
+** Ukrainian glosses
+
+* Sense s-1488110-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ea1c9c0a56ec8ec009ed9dc94855fab68235257a0f322cad3e052796b6422fb1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1488110-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) все [государственные] чиновники
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1488110-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1488110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひゃっかん
+** Accent accent-rd-1488110-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1488110-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ひゃっかん

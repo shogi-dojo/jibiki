@@ -1,0 +1,167 @@
+#+TITLE: 全国区
+#+JMDICT_ID: 1395190
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜんこくく
+#+ROMAJI: zenkokuku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1395190-001
+:PROPERTIES:
+:TEXT: 全国区
+:END:
+** Reading rd-1395190-001
+:PROPERTIES:
+:TEXT: ぜんこくく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1395190-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: afa44269153d3fd0133225c40dabff01fecc653bc3c7e9fbe789ffeeca8769ec
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- politics
+** English glosses
+- national constituency
+** Ukrainian glosses
+*** uk-s-1395190-001-001
+:PROPERTIES:
+:END:
+- text :: загальнонаціональний виборчий округ
+** Learner notes
+*** note-s-1395190-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; термін японської виборчої системи (колишній загальнодержавний округ на виборах до Палати радників 参議院, де голосували за кандидатів по всій країні, на противагу 地方区).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1395190-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は昔、全国区から立候補した。
+- READING :: そふはむかし、ぜんこくくからりっこうほした。
+- UK :: Дідусь колись балотувався від загальнонаціонального виборчого округу.
+- FOCUS :: 全国区
+*** ex-1395190-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この地方のラーメン店は、テレビで紹介されて全国区になった。
+- READING :: このちほうのらーめんてんは、てれびでしょうかいされてぜんこくくになった。
+- UK :: Ця місцева раменна стала відомою на всю країну після того, як її показали по телебаченню.
+- FOCUS :: 全国区
+*** ex-1395190-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: かつての選挙制度では、参議院の全国区から多くの著名人が当選した。
+- READING :: かつてのせんきょせいどでは、さんぎいんのぜんこくくからおおくのちょめいじんがとうせんした。
+- UK :: За колишньої виборчої системи від загальнонаціонального округу до Палати радників обиралося чимало відомих діячів.
+- FOCUS :: 全国区
+
+* Sense s-1395190-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3673d56ed3b2303af254638a9919024b2999bc457d706c6b46306c247cf26c4e
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- nationwide publicity
+- being known all over the country
+** Ukrainian glosses
+*** uk-s-1395190-002-001
+:PROPERTIES:
+:END:
+- text :: загальнонаціональна відомість, популярність по всій країні
+** Learner notes
+*** note-s-1395190-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; образне вживання для позначення людини, компанії чи явища, відомих по всій Японії (наприклад, у виразі 全国区の知名度).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1395190-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ca77811adb17f46d7bf3b2fa12cfaa7c17f9739cbe40870fda673c14f5466460
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1395190-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: das ganze Land als ein Wahlkreis
+*** en-s-1395190-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: landesweiter Wahlkreis (im Gegensatz zu regionalen Wahlkreisen)
+** Ukrainian glosses
+
+* Sense s-1395190-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5ba196bc69f06d2773ebb0e05c4edc8c31772b9bc6980141fc8c24ac1323b4f3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1395190-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: избирательный округ в масштабе всей страны
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1395190-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1395190-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: ぜんこくく

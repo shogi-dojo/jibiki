@@ -1,0 +1,167 @@
+#+TITLE: 入超
+#+JMDICT_ID: 1466550
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にゅうちょう
+#+ROMAJI: nyuuchou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1466550-001
+:PROPERTIES:
+:TEXT: 入超
+:END:
+*** Priorities
+- news2
+- nf38
+** Reading rd-1466550-001
+:PROPERTIES:
+:TEXT: にゅうちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf38
+
+* Sense s-1466550-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 515ab1f6482fc49497258ef1cc649418dfafddc9c8220ecdea7561633893be57
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- abbr
+*** Cross-references
+- 輸入超過
+** English glosses
+- excess of imports
+** Ukrainian glosses
+*** uk-s-1466550-001-001
+:PROPERTIES:
+:END:
+- text :: перевищення імпорту над експортом; пасивне торговельне сальдо
+** Learner notes
+*** note-s-1466550-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічне скорочення від 輸入超過 (перевищення ввезення); антонім до 出超 (перевищення експорту). Уживається переважно в діловій пресі та економічних звітах для опису дефіциту зовнішньоторговельного балансу (наприклад, у звороті 入超が続く).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1466550-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 去年の貿易は入超でした。
+- READING :: きょねんのぼうえきはにゅうちょうでした。
+- UK :: Торік у торгівлі імпорт перевищив експорт.
+- FOCUS :: 入超
+*** ex-1466550-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: エネルギー価格の上昇により、日本は数か月連続で入超となった。
+- READING :: えねるぎーかかくのじょうしょうにより、にほんはすうかげつれんぞくでにゅうちょうとなった。
+- UK :: Через зростання цін на енергоносії в Японії кілька місяців поспіль спостерігалося перевищення імпорту над експортом.
+- FOCUS :: 入超
+*** ex-1466550-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 輸出の伸びが鈍化する一方、輸入額が増え続けたため、貿易収支は大幅な入超に転じた。
+- READING :: ゆしゅつののびがどんかするいっぽう、ゆにゅうがくがふえつづけたため、ぼうえきしゅうしはおおはばなにゅうちょうにてんじた。
+- UK :: Оскільки зростання експорту сповільнилося, а обсяги імпорту продовжували збільшуватися, торговельний баланс перейшов у значний дефіцит.
+- FOCUS :: 入超
+
+* Sense s-1466550-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d31c7b65a4e8f3dc47cff1064e68dcd5dd101f2ec5d4f03c22e7e2abe2e916fa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1466550-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einfuhrüberschuss
+*** en-s-1466550-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Importüberschuss
+*** en-s-1466550-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handelsbilzanzdefizit
+*** en-s-1466550-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Handelsdefizit
+** Ukrainian glosses
+
+* Sense s-1466550-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 886acf4a70aa325a0844d311a64d9f08ba174329f44f88f718ab0bf4617abea2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1466550-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр.) 輸入超過) превышение импорта над экспортом, пассивный баланс внешней торговли
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1466550-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1466550-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にゅうちょう

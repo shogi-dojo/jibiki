@@ -1,0 +1,152 @@
+#+TITLE: 判決理由
+#+JMDICT_ID: 2722830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんけつりゆう
+#+ROMAJI: hanketsuriyuu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2722830-001
+:PROPERTIES:
+:TEXT: 判決理由
+:END:
+** Reading rd-2722830-001
+:PROPERTIES:
+:TEXT: はんけつりゆう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2722830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0b86f660711ecc2927fb15715c8ea1d393547ce80d50c4b5a20058e788f1bdb7
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- law
+** English glosses
+- ratio decidendi
+- reason for a verdict
+** Ukrainian glosses
+*** uk-s-2722830-001-001
+:PROPERTIES:
+:END:
+- text :: мотивувальна частина вироку, підстави судового рішення
+** Learner notes
+*** note-s-2722830-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін (名詞). Складається з 判決 (вирок, рішення суду) та 理由 (підстава, причина); позначає викладене судом обґрунтування фактів і правових норм, на яких ґрунтується ухвалений вирок або рішення.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2722830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 裁判官が判決理由を読み上げた。
+- READING :: さいばんかんがはんけつりゆうをよみあげた。
+- UK :: Суддя зачитав мотивувальну частину рішення.
+- FOCUS :: 判決理由
+*** ex-2722830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 原告側は、裁判所が示した判決理由に納得せず控訴を決めた。
+- READING :: げんこくがわは、さいばんしょがしめしたはんけつりゆうになっとくせずこうそをきめた。
+- UK :: Сторона позивача не погодилася з підставами рішення, наведеними судом, і вирішила подати апеляцію.
+- FOCUS :: 判決理由
+*** ex-2722830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 今朝の新聞には、昨日の重要な裁判で述べられた判決理由の要旨が詳しく掲載されている。
+- READING :: けさのしんぶんには、きのうのじゅうようなさいばんでのべられたはんけつりゆうのようしがくわしくけいさいされている。
+- UK :: У ранковій газеті детально опубліковано основні положення обґрунтування вироку, виголошеного на вчорашньому важливому судовому процесі.
+- FOCUS :: 判決理由
+
+* Sense s-2722830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8dd7d415d19da11ca68a267d291c6b1ade2afad15c4278aaa46d8e1de14f81c7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2722830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entscheidungsgrund
+*** en-s-2722830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gründe für ein Urteil
+*** en-s-2722830-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ratio decidendi
+** Ukrainian glosses
+
+* Sense s-2722830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ee2bf261f5705dcc00d5646768351618b51ff273de048e71808593e048fd3abc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2722830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: основания для решения [суда]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2722830-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2722830-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: はんけつりゆう

@@ -1,0 +1,147 @@
+#+TITLE: 拘束時間
+#+JMDICT_ID: 1712470
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こうそくじかん
+#+ROMAJI: kousokujikan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1712470-001
+:PROPERTIES:
+:TEXT: 拘束時間
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1712470-001
+:PROPERTIES:
+:TEXT: こうそくじかん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1712470-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 443299a94dfca1b6897e681bcf928248b3916f8155201bad9f69c8f556fc1491
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- total hours spent working
+** Ukrainian glosses
+*** uk-s-1712470-001-001
+:PROPERTIES:
+:END:
+- text :: загальний робочий час (разом із перервами); тривалість перебування на робочому місці
+** Learner notes
+*** note-s-1712470-001-001
+:PROPERTIES:
+:END:
+- UK :: Трудовий термін (іменник), складений із 拘束 (обмеження, прив'язаність) і 時間 (час). Позначає весь проміжок від початку до кінця робочої зміни, включно з перервами (на відміну від власне робочих годин 実労働時間); особливо часто вживається у сфері перевезень, торгівлі та офісної праці.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1712470-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この仕事は拘束時間が長い。
+- READING :: このしごとはこうそくじかんがながい。
+- UK :: На цій роботі доводиться проводити дуже багато годин.
+- FOCUS :: 拘束時間
+*** ex-1712470-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 実働は八時間でも、休憩を含めると拘束時間は十時間になる。
+- READING :: じつどうははちじかんでも、きゅうけいをふくめるとこうそくじかんはじゅうじかんになる。
+- UK :: Навіть якщо фактичної праці вісім годин, разом із перервами загальний час перебування на роботі сягає десяти годин.
+- FOCUS :: 拘束時間
+*** ex-1712470-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 運転手の過労を防ぐため、一日の拘束時間の上限を厳しく定める法律が改正された。
+- READING :: うんてんしゅのかろうをふせぐため、いちにちのこうそくじかんのじょうげんをきびしくさだめるほうりつがかいせいされた。
+- UK :: Щоб запобігти перевтомі водіїв, було оновлено закон, який суворо обмежує тривалість щоденного робочого часу.
+- FOCUS :: 拘束時間
+
+* Sense s-1712470-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0803c523f7e1c3a08f746c0e772e8735642b44f920571b2e85449531ca216c40
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712470-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arbeitszeit
+*** en-s-1712470-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Dienstzeit (einschließlich Pausen)
+** Ukrainian glosses
+
+* Sense s-1712470-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d635377c235d920963de874f05bbede8186b79bdc2a86be73bb8f4b7f959f5b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712470-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: обязательное рабочее время, обязательные часы службы
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1712470-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1712470-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こうそくじかん

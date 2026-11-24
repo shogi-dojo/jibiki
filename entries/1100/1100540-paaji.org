@@ -1,0 +1,304 @@
+#+TITLE: パージ
+#+JMDICT_ID: 1100540
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: パージ
+#+ROMAJI: paaji
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-1100540-001
+:PROPERTIES:
+:TEXT: パージ
+:NO_KANJI: false
+:END:
+*** Priorities
+- gai1
+
+* Sense s-1100540-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ab334c1655732748b9a958c98025a269a255d1fab80011d3a84e0c0b0aa22107
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Fields
+- comp
+** English glosses
+- purging (data)
+** Ukrainian glosses
+*** uk-s-1100540-001-001
+:PROPERTIES:
+:END:
+- text :: очищення (даних); скидання (кешу); повне видалення записів
+** Learner notes
+*** note-s-1100540-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する (パージする) — запозичення з англійської мови (purge). В інформатиці позначає примусове очищення кешу, пам'яті або остаточне видалення застарілих даних із бази чи системи.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1100540-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 古いデータをパージする。
+- READING :: ふるいでーたをぱーじする。
+- UK :: Очистити застарілі дані.
+- FOCUS :: パージ
+*** ex-1100540-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: システムの更新前にキャッシュをパージする必要がある。
+- READING :: しすてむのこうしんまえにきゃっしゅをぱーじするひつようがある。
+- UK :: Перед оновленням системи потрібно очистити кеш.
+- FOCUS :: パージ
+*** ex-1100540-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: サーバーの容量を確保するため、保存期間を過ぎたログを自動的にパージする設定にした。
+- READING :: さーばーのようりょうをかくほするため、ほぞんきかんをすぎたろぐをじどうてきにぱーじするせっていにした。
+- UK :: Щоб звільнити місце на сервері, ми налаштували автоматичне видалення журналів подій, термін зберігання яких сплив.
+- FOCUS :: パージ
+
+* Sense s-1100540-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 930f9c135e92270168af5f24c903c0044b9c0d1f6a7335c20a381419db6e9510
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+*** Cross-references
+- 公職追放
+** English glosses
+- purge (esp. of public officials)
+** Ukrainian glosses
+*** uk-s-1100540-002-001
+:PROPERTIES:
+:END:
+- text :: чистка; усунення з посади; люстрація; виключення
+** Learner notes
+*** note-s-1100540-002-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне дієслово з する у політичному чи адміністративному контексті. Означає масове усунення посадовців, службовців або партійців із посад і керівних структур (зокрема в історичному контексті післявоєнної чистки апарату).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1100540-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d1aa14666e9f9adfc13d901bd2e05b999c910c942de722a85a28ff8750604b39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {pol.} zuivering
+*** en-s-1100540-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zuiveringsactie
+*** en-s-1100540-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegzuivering
+*** en-s-1100540-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: epuratie
+*** en-s-1100540-003-005
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {pol.} zuiveren
+*** en-s-1100540-003-006
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: wegzuiveren
+*** en-s-1100540-003-007
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: epureren
+** Ukrainian glosses
+
+* Sense s-1100540-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: aad17ee8c7827c65780130a63d8fa730be219828a75101a5f32eb7fcf5307725
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Säuberung
+*** en-s-1100540-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Entlassung
+*** en-s-1100540-004-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Reform
+** Ukrainian glosses
+
+* Sense s-1100540-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a3c65643464988dc77edf7908a79685717bc6e73504659d5216949fe31337f1e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-005-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hashajtó
+** Ukrainian glosses
+
+* Sense s-1100540-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 9eb4fcb1f5d8b876595756dc064e1f8b668eebf65645652f3b4254013d58141e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-006-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) purge) (полит.) чистка
+** Ukrainian glosses
+
+* Sense s-1100540-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 145b7f4607083cd422568dd7fb23be11679fcd6af752e7614fa902748de5d534
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-007-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ostracismo
+*** en-s-1100540-007-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: destierro
+** Ukrainian glosses
+
+* Sense s-1100540-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 529f06f0ab46cbe6e626cd990bc427f321ddb1b63eb3efc61eccc579d3368ab9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1100540-008-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: purgera
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1100540-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1100540-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: パージ

@@ -1,0 +1,133 @@
+#+TITLE: 解散権
+#+JMDICT_ID: 1931480
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいさんけん
+#+ROMAJI: kaisanken
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1931480-001
+:PROPERTIES:
+:TEXT: 解散権
+:END:
+** Reading rd-1931480-001
+:PROPERTIES:
+:TEXT: かいさんけん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1931480-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: f65f72c0a2ea7119cec8cf7c497b0d00f09d0cacaad5d7f4475a74b4211f3da0
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- right to dissolve (e.g. the Diet)
+** Ukrainian glosses
+*** uk-s-1931480-001-001
+:PROPERTIES:
+:END:
+- text :: право розпуску (парламенту, організації)
+** Learner notes
+*** note-s-1931480-001-001
+:PROPERTIES:
+:END:
+- UK :: Політичний та юридичний термін, утворений від 解散 («розпуск») та суфікса 権 («право, повноваження»). У японській конституційній практиці передусім стосується повноваження розпустити Палату представників (衆議院の解散権); типове дієслово — 行使する («застосувати»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1931480-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 首相には議会の解散権があります。
+- READING :: しゅしょうにはぎかいのかいさんけんがあります。
+- UK :: Прем'єр-міністр має право розпустити парламент.
+- FOCUS :: 解散権
+*** ex-1931480-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 内閣がいつ解散権を行使するかについて、各党の関心が高まっている。
+- READING :: ないかくがいつかいさんけんをこうしするかについて、かくとうのかんしんがたかまっている。
+- UK :: Усі партії уважно стежать за тим, коли кабінет міністрів скористається правом розпуску.
+- FOCUS :: 解散権
+*** ex-1931480-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 憲法解釈をめぐっては、首相による解散権の範囲に一定の制限を設けるべきだという議論もある。
+- READING :: けんぽうかいしゃくをめぐっては、しゅしょうによるかいさんけんのはんいにいっていのせいげんをもうけるべきだというぎろんもある。
+- UK :: У дискусіях щодо тлумачення конституції також звучить думка, що повноваження прем'єр-міністра на розпуск парламенту варто обмежити певними рамками.
+- FOCUS :: 解散権
+
+* Sense s-1931480-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b2a41ad4c4f9aa7960d2ae54ba8b98e23aff7df7d45369d231bd811677895935
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1931480-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Parlamentsauflösungsrecht
+** Ukrainian glosses
+
+* Sense s-1931480-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 51f965e079704267bea598d6b56384f82ee997b89ed05099f686a5bb956af1b5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1931480-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: право роспуска (организации)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1931480-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1931480-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: かいさんけん

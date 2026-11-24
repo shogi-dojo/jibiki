@@ -1,0 +1,158 @@
+#+TITLE: 煮魚
+#+JMDICT_ID: 1828900
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にざかな
+#+ROMAJI: nizakana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1828900-001
+:PROPERTIES:
+:TEXT: 煮魚
+:END:
+** Written form wf-1828900-002
+:PROPERTIES:
+:TEXT: 煮肴
+:END:
+*** Information
+- sK
+** Reading rd-1828900-001
+:PROPERTIES:
+:TEXT: にざかな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1828900-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fa2cf0e15b7184263690dd08d9ec20af31f92b768f3a03a8f268301d5b360279
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- food
+** English glosses
+- fish simmered with soy sauce (and sugar)
+** Ukrainian glosses
+*** uk-s-1828900-001-001
+:PROPERTIES:
+:END:
+- text :: тушкована в соєвому соусі риба; варена в солодко-солоному бульйоні риба
+** Learner notes
+*** note-s-1828900-001-001
+:PROPERTIES:
+:END:
+- UK :: Кулінарний термін, утворений від 煮る (варити, тушкувати) і 魚 (риба) з озвонченням (連濁: さかな → ざかな). Позначає традиційну домашню страву японської кухні — рибу, повільно протушковану в соєвому соусі з міріном, цукром і саке, на відміну від 焼き魚 (смаженої на грилі риби).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1828900-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 母が作った煮魚はおいしいです。
+- READING :: ははがつくったにざかなはおいしいです。
+- UK :: Тушкована риба, яку приготувала мама, дуже смачна.
+- FOCUS :: 煮魚
+*** ex-1828900-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今夜の定食では、焼き魚か煮魚のどちらかを選べます。
+- READING :: こんやのていしょくでは、やきざかなかにざかなのどちらかをえらべます。
+- UK :: Сьогодні в комплексному обіді можна обрати або смажену на грилі, або тушковану в соусі рибу.
+- FOCUS :: 煮魚
+*** ex-1828900-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 落し蓋をして弱火でじっくり煮込むと、煮魚の中まで味がよく染み込む。
+- READING :: おとしぶたをしてよわびでじっくりにこむと、にざかなのなかまであじがよくしみこむ。
+- UK :: Якщо накрити внутрішньою кришкою і повільно томити на малому вогні, смак соусу добре просочить тушковану рибу до самої середини.
+- FOCUS :: 煮魚
+
+* Sense s-1828900-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6a7a74dc3f8fca7f49901f979d642437566a2b9b901771333e27c34e88174c1e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1828900-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gekochter Fisch
+** Ukrainian glosses
+
+* Sense s-1828900-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 733095b93b30e95193c07b6b87d2cf672a1c8807f1e356b3b132c92157ad7eb3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1828900-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: отварная (варёная) рыба
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1828900-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1828900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にざかな
+** Accent accent-rd-1828900-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1828900-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にざかな

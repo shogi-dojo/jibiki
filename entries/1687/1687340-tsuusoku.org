@@ -1,0 +1,143 @@
+#+TITLE: 通則
+#+JMDICT_ID: 1687340
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つうそく
+#+ROMAJI: tsuusoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1687340-001
+:PROPERTIES:
+:TEXT: 通則
+:END:
+** Reading rd-1687340-001
+:PROPERTIES:
+:TEXT: つうそく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1687340-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4d5a0fdc95d1a907155dff02fd8a54255b78c8d1cb9561b8b81052386617c2ea
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- general rule
+- common rule
+- common provisions
+** Ukrainian glosses
+*** uk-s-1687340-001-001
+:PROPERTIES:
+:END:
+- text :: загальне правило, загальні положення; універсальна норма
+** Learner notes
+*** note-s-1687340-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник офіційного, юридичного та науково-методичного стилю. Складається з 通 («загальний, наскрізний») і 則 («правило, закон»); позначає базові принципи чи норми, що поширюються на цілу низку випадків, розділів документа або сферу діяльності.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1687340-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: まず文法の通則を覚える。
+- READING :: まずぶんぽうのつうそくをおぼえる。
+- UK :: Спочатку запам’ятати загальні правила граматики.
+- FOCUS :: 通則
+*** ex-1687340-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: このマニュアルの冒頭には、全社員が守るべき通則がまとめられている。
+- READING :: このまにゅあるのぼうとうには、ぜんしゃいんがまもるべきつうそくがまとめられている。
+- UK :: На початку цього посібника викладено загальні правила, яких мають дотримуватися всі працівники.
+- FOCUS :: 通則
+*** ex-1687340-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 法令を解釈する際には、個別の規定だけでなく全体の通則を踏まえて判断する必要がある。
+- READING :: ほうれいをかいしゃくするさいには、こべつのきていだけでなくぜんたいのつうそくをふまえてはんだんするひつようがある。
+- UK :: Тлумачачи нормативно-правові акти, необхідно спиратися не лише на окремі статті, а й на загальні положення всього закону.
+- FOCUS :: 通則
+
+* Sense s-1687340-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 58b818120f898b0b5e3c09f0a0add65e2c5aa7250c349204d1b0cd6b22f4d584
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1687340-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allgemeine Bestimmung
+*** en-s-1687340-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: allgemeine Regel
+** Ukrainian glosses
+
+* Sense s-1687340-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: d04ea85a66ae85b85999c2c7f559855e2fb726f12309fa1d2375240ba0625bb7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1687340-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: общее правило, общие положения
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1687340-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1687340-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: つうそく

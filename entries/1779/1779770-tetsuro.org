@@ -1,0 +1,160 @@
+#+TITLE: 鉄路
+#+JMDICT_ID: 1779770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: てつろ
+#+ROMAJI: tetsuro
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1779770-001
+:PROPERTIES:
+:TEXT: 鉄路
+:END:
+** Reading rd-1779770-001
+:PROPERTIES:
+:TEXT: てつろ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1779770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b9350d454b8a65dd7fc804b7d0e82bb220ea0607293d6144bab5df444430073b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- railroad
+- railway
+** Ukrainian glosses
+*** uk-s-1779770-001-001
+:PROPERTIES:
+:END:
+- text :: залізниця; залізнична колія
+** Learner notes
+*** note-s-1779770-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник; книжний і публіцистичний синонім до 鉄道 чи 線路 (із 鉄 «залізо» та 路 «шлях, дорога»). Часто трапляється в ліричних, історичних і журналістських текстах, коли йдеться про подорож потягом або прокладання колій через країну: 鉄路を行く (їхати залізницею), 鉄路を守る (берегти залізничне сполучення).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1779770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雪の原野に一本の鉄路が続いている。
+- READING :: ゆきのげんやにいっぽんのてつろがつづいている。
+- UK :: Засніженою рівниною простяглася одна залізнична колія.
+- FOCUS :: 鉄路
+*** ex-1779770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: かつてこの山間部にも人々の暮らしを支える鉄路が通っていた。
+- READING :: かつてこのさんかんぶにもひとびとのくらしをささえるてつろがかよっていた。
+- UK :: Колись через цю гірську місцевість також пролягала залізниця, що підтримувала життя мешканців.
+- FOCUS :: 鉄路
+*** ex-1779770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長い鉄路をたどる旅では、車窓から移り変わる季節の風景を楽しめる。
+- READING :: ながいてつろをたどるたびでは、しゃそうからうつりかわるきせつのふうけいをたのしめる。
+- UK :: Під час довгої мандрівки залізницею можна милуватися з вікна вагона тим, як змінюються сезонні краєвиди.
+- FOCUS :: 鉄路
+
+* Sense s-1779770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 39be86e45924d3b201f79b565555e633050fed0acf2056dc075b888edf5148f8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779770-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Eisenbahn
+*** en-s-1779770-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schienenweg
+** Ukrainian glosses
+
+* Sense s-1779770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 40074ca66596d2ae6a62010971370ad49a0ee678230ff7012032df8c790481eb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779770-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vasút
+** Ukrainian glosses
+
+* Sense s-1779770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 41f02a59e58dae781deb7f5605d58c37a7a6b2863126b972e5290292dc62a446
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1779770-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) железная дорога
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1779770-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1779770-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: てつろ

@@ -1,0 +1,139 @@
+#+TITLE: 利払い
+#+JMDICT_ID: 1549650
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: りばらい
+#+ROMAJI: ribarai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1549650-001
+:PROPERTIES:
+:TEXT: 利払い
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1549650-001
+:PROPERTIES:
+:TEXT: りばらい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1549650-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 069b942765b439124bf76915687cdcad58d65e9c511183a445ac1e61e014c92b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- interest payment
+** Ukrainian glosses
+*** uk-s-1549650-001-001
+:PROPERTIES:
+:END:
+- text :: сплата відсотків; виплата процентів (за боргом, кредитом)
+** Learner notes
+*** note-s-1549650-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і фінансовий іменник, утворений від 利 («відсоток, прибуток») та 払い («оплата, виплата», від 払う із рендаку 払い → ばらい). Позначає регулярну виплату відсотків за позикою, кредитом чи державними облігаціями (наприклад, 利払い負担 — тягар відсоткових виплат).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1549650-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎月ローンの利払いをしている。
+- READING :: まいつきろーんのりばらいをしている。
+- UK :: Я щомісяця сплачую відсотки за кредитом.
+- FOCUS :: 利払い
+*** ex-1549650-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 金利が上がると、企業の借入金に対する利払いの負担が重くなる。
+- READING :: きんりがあがると、きぎょうのかりいれきんにたいするりばらいのふたんがおもくなる。
+- UK :: Коли зростають відсоткові ставки, тягар виплат відсотків за позиками для компаній стає важчим.
+- FOCUS :: 利払い
+*** ex-1549650-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 国の債務が膨らみ続ければ、将来的に国債の利払いだけで予算の多くが圧迫されかねない。
+- READING :: くにのさいむがふくらみつづければ、しょうらいてきにこくさいのりばらいだけでよさんのおおくがあっぱくされかねない。
+- UK :: Якщо державний борг і далі зростатиме, у майбутньому сама лише сплата відсотків за облігаціями може поглинути значну частину бюджету.
+- FOCUS :: 利払い
+
+* Sense s-1549650-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 880448024ae5c055ee0fb6c318a20810608a2c43939163ac04d424327f6e6a28
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1549650-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zinszahlung
+** Ukrainian glosses
+
+* Sense s-1549650-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8e89062d0e958170076d586a64c0f227ee26c9427114c2231c5968fbf95d8099
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1549650-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: уплата процентов
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1549650-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1549650-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: りばらい

@@ -1,0 +1,133 @@
+#+TITLE: 金融債
+#+JMDICT_ID: 1630380
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きんゆうさい
+#+ROMAJI: kinyuusai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1630380-001
+:PROPERTIES:
+:TEXT: 金融債
+:END:
+** Reading rd-1630380-001
+:PROPERTIES:
+:TEXT: きんゆうさい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1630380-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d6d7f92a1084a756ed2a45657767e256a989d3f7014e627dfdac492ea001ab04
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- bank debenture bond
+** Ukrainian glosses
+*** uk-s-1630380-001-001
+:PROPERTIES:
+:END:
+- text :: банківська облігація (фінансова облігація)
+** Learner notes
+*** note-s-1630380-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і фінансовий термін-іменник (скорочення від 金融機関債券). Позначає боргові цінні папери, що їх спеціалізовані фінансові установи випускають для залучення коштів на довгострокове кредитування (利付金融債, 割引金融債).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1630380-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 銀行が新しい金融債を発行しました。
+- READING :: ぎんこうがあたらしいきんゆうさいをはっこうしました。
+- UK :: Банк випустив нові фінансові облігації.
+- FOCUS :: 金融債
+*** ex-1630380-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: かつては多くの個人投資家が、貯蓄の手段として金融債を購入していました。
+- READING :: かつてはおおくのこじんとうしかが、ちょちくのしゅだんとしてきんゆうさいをこうにゅうしていました。
+- UK :: Колись багато приватних інвесторів купували банківські облігації як спосіб заощадження.
+- FOCUS :: 金融債
+*** ex-1630380-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長期的な資金を安定して調達するため、特定の金融機関にのみ金融債の発行が認められてきた。
+- READING :: ちょうきてきなしきんをあんていしてちょうたつするため、とくていのきんゆうきかんにのみきんゆうさいのはっこうがみとめられてきた。
+- UK :: Для стабільного залучення довгострокових коштів право випускати банківські облігації надавалося лише визначеним фінансовим установам.
+- FOCUS :: 金融債
+
+* Sense s-1630380-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 209178ac33cfc4568a58fb45c39ce67b458104444b663319a2969e43a9e2bb5b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630380-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Bankschuldverschreibung
+** Ukrainian glosses
+
+* Sense s-1630380-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e1604c3f831a73def5111dcf62edcd4c7cd3d2db0d3f1207b4c8ecdfb486c3a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630380-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (фин.) займы, выпускаемые эмиссионными банками
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1630380-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1630380-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きんゆうさい

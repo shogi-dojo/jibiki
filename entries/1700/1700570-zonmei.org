@@ -1,0 +1,149 @@
+#+TITLE: 存命
+#+JMDICT_ID: 1700570
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぞんめい
+#+ROMAJI: zonmei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1700570-001
+:PROPERTIES:
+:TEXT: 存命
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1700570-001
+:PROPERTIES:
+:TEXT: ぞんめい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1700570-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d1040c34c4cc2caeb8e3ce97025185e3f334a4d5a075f252651de9c2f2c4586e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- being alive
+** Ukrainian glosses
+*** uk-s-1700570-001-001
+:PROPERTIES:
+:END:
+- text :: бути живим; перебувати при житті; живий
+** Learner notes
+*** note-s-1700570-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник і неперехідне дієслово на -する, що вживається переважно щодо літніх людей або історичних осіб у значенні «досі живий». Типові конструкції: 存命している, 存命中 (за життя), ご存命 (ввічливо).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1700570-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 明治生まれの祖母はまだ存命です。
+- READING :: めいじうまれのそぼはまだぞんめいです。
+- UK :: Моя бабуся, народжена в епоху Мейджі, досі жива.
+- FOCUS :: 存命
+*** ex-1700570-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 当時の出来事を知る証人のうち、現在も存命している人はわずかだ。
+- READING :: とうじのできごとをしるしょうにんのうち、げんざいもぞんめいしているひとはわずかだ。
+- UK :: Серед свідків тих подій дотепер залишилося живими зовсім небагато людей.
+- FOCUS :: 存命
+*** ex-1700570-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: その作家は存命中にはほとんど評価されなかったが、没後に作品が高く評価された。
+- READING :: そのさっかはぞんめいちゅうにはほとんどひょうかされなかったが、ぼつごにさくひんがたかくひょうかされた。
+- UK :: За життя цього письменника майже не визнавали, проте після смерті його твори здобули високу оцінку.
+- FOCUS :: 存命
+
+* Sense s-1700570-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ea42f03b782579e6f6e771f14d9818c80b969a09c38175b77c1350d9b7feabf6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1700570-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Leben
+*** en-s-1700570-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Am-Leben-Sein
+** Ukrainian glosses
+
+* Sense s-1700570-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ce32a1a2c7a7655af24288a90fbd5b78f348da971d601edde15796603f927053
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1700570-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～する} быть ещё в живых
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1700570-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1700570-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ぞんめい

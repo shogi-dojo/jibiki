@@ -1,0 +1,182 @@
+#+TITLE: 木切れ
+#+JMDICT_ID: 1534720
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きぎれ
+#+ROMAJI: kigire
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1534720-001
+:PROPERTIES:
+:TEXT: 木切れ
+:END:
+** Written form wf-1534720-002
+:PROPERTIES:
+:TEXT: 木ぎれ
+:END:
+** Reading rd-1534720-001
+:PROPERTIES:
+:TEXT: きぎれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1534720-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 27d0fe83bc05089ed66c9377cf627d99108ae6f56cdd0c05e8cc5eaa733ddee3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- piece of wood (cut from a larger piece)
+- chip of wood
+- block of wood
+** Ukrainian glosses
+*** uk-s-1534720-001-001
+:PROPERTIES:
+:END:
+- text :: дерев'яний уламок; цурка; тріска; шматок дерева
+** Learner notes
+*** note-s-1534720-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 木 («дерево») та 切れ («шматок, обрізок», із одзвінченням ぎれ). Позначає невеликий обрізок, уламок чи шматок деревини, що залишився після обробки або валяється на землі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1534720-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 道に木切れが落ちている。
+- READING :: みちにきぎれがおちている。
+- UK :: На дорозі лежить шматок дерева.
+- FOCUS :: 木切れ
+*** ex-1534720-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 拾ってきた木切れを集めて焚き火をした。
+- READING :: ひろってきたきぎれをあつめてたきびをした。
+- UK :: Зібрали знайдені дерев'яні цурки й розпалили багаття.
+- FOCUS :: 木切れ
+*** ex-1534720-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 大工が作業場で削り出した木切れを使って、子どもたちが思い思いのおもちゃを作った。
+- READING :: だいくがさぎょうばでけずりだしたきぎれをつかって、こどもたちがおもいおもいのおもちゃをつくった。
+- UK :: Діти змайстрували собі різні іграшки з дерев'яних обрізків, які тесляр настругав у майстерні.
+- FOCUS :: 木切れ
+
+* Sense s-1534720-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e69ea4e7a36d174aa87ed98f260aff849f559169d7db5b53620da1457501b25b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534720-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Holzstück
+*** en-s-1534720-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Holzsplitter
+** Ukrainian glosses
+
+* Sense s-1534720-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b86594105f3b321ee54f3c67ab5252118008824edb6d7ffe65d4a19145b77bd9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534720-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egy darab fa
+** Ukrainian glosses
+
+* Sense s-1534720-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 570980a5b94786bea792b67c87f7bc613b413d443034745a6d98aed9b5329c0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534720-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: щепка, лучина; кусок дерева; чурка, чурбан
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1534720-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1534720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きぎれ
+** Accent accent-rd-1534720-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1534720-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 3
+:PATTERN: odaka
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きぎれ

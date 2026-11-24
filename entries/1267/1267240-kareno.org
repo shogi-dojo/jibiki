@@ -1,0 +1,162 @@
+#+TITLE: 枯れ野
+#+JMDICT_ID: 1267240
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かれの
+#+ROMAJI: kareno
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1267240-001
+:PROPERTIES:
+:TEXT: 枯れ野
+:END:
+** Written form wf-1267240-002
+:PROPERTIES:
+:TEXT: 枯野
+:END:
+** Reading rd-1267240-001
+:PROPERTIES:
+:TEXT: かれの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1267240-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3f7958ef543c441177590e8f35adff1e882eb6d10fbc747465f6f93236891930
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- desolate field
+- withered field
+** Ukrainian glosses
+*** uk-s-1267240-001-001
+:PROPERTIES:
+:END:
+- text :: сухе поле, висхлий пустир; зів'яле осінньо-зимове поле
+** Learner notes
+*** note-s-1267240-001-001
+:PROPERTIES:
+:END:
+- UK :: Поетичний іменник, утворений із 枯れる (в'янути, засихати) і 野 (поле, луг). Часто слугує зимовим сезонним словом (季語) у хайку та позначає простір, укритий пожухлою травою й безлистими рослинами, як у відомому вірші Мацуо Башьо.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1267240-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冬になると、あたりは枯れ野になる。
+- READING :: ふゆになると、あたりはかれのになる。
+- UK :: Коли настає зима, усе довкола стає висохлим полем.
+- FOCUS :: 枯れ野
+*** ex-1267240-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冷たい風が吹き抜ける枯れ野を、一羽の鳥が低く飛んでいった。
+- READING :: つめたいかぜがふきぬけるかれのを、いちわのとりがひくくとんでいった。
+- UK :: Над пустельним полем, яке продував холодний вітер, низько пролетів самотній птах.
+- FOCUS :: 枯れ野
+*** ex-1267240-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 一面に広がる茶色い枯れ野を見つめていると、厳しい冬を越えて訪れる春が待ち遠しくなる。
+- READING :: いちめんにひろがるちゃいろいかれのをみつめていると、きびしいふゆをこえておとずれるはるがまちどおしくなる。
+- UK :: Коли дивишся на буре зів'яле поле, що розкинулося навкруги, дедалі дужче чекаєш приходу весни після суворої зими.
+- FOCUS :: 枯れ野
+
+* Sense s-1267240-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9625accfa33555726010fb5addf94fc846fdcb9b9a65e036f86911541956c5da
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1267240-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dürres Feld
+*** en-s-1267240-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ödes Feld
+*** en-s-1267240-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einöde
+*** en-s-1267240-002-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wildnis
+** Ukrainian glosses
+
+* Sense s-1267240-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4fc88b01d5267f44c06a69b59f42cb4457b93b11f5c6478d8e611374632c6596
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1267240-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сухое (засохшее) поле
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1267240-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1267240-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: かれの

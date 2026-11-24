@@ -1,0 +1,163 @@
+#+TITLE: ウォーター
+#+JMDICT_ID: 2440940
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ウォーター
+#+ROMAJI: wootaa
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Reading rd-2440940-001
+:PROPERTIES:
+:TEXT: ウォーター
+:NO_KANJI: false
+:END:
+** Reading rd-2440940-002
+:PROPERTIES:
+:TEXT: ウォータ
+:NO_KANJI: false
+:END:
+** Reading rd-2440940-003
+:PROPERTIES:
+:TEXT: ウオーター
+:NO_KANJI: false
+:END:
+
+* Sense s-2440940-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9992caaa0744f11916b005d520b799d8ee392fe122ea10563ff6ec523bbd8033
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- water
+** Ukrainian glosses
+*** uk-s-2440940-001-001
+:PROPERTIES:
+:END:
+- text :: вода
+** Learner notes
+*** note-s-2440940-001-001
+:PROPERTIES:
+:END:
+- UK :: Англіцизм від слова water, який вживається рідше за питоме слово 水, переважно у складі запозичених сполучень і комерційних назв. Часто трапляється в назвах напоїв і побутових приладів, як-от ミネラルウォーター (мінеральна вода) або ウォーターサーバー (кулер для води).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2440940-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 冷蔵庫にミネラルウォーターがある。
+- READING :: れいぞうこにみねらるうぉーたーがある。
+- UK :: У холодильнику є мінеральна вода.
+- FOCUS :: ウォーター
+*** ex-2440940-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: オフィスに新しいウォーターサーバーが設置された。
+- READING :: おふぃすにあたらしいうぉーたーさーばーがせっちされた。
+- UK :: В офісі встановили новий кулер для води.
+- FOCUS :: ウォーター
+*** ex-2440940-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 運動の合間には、糖分を含まないフレーバーウォーターでこまめに水分を補給している。
+- READING :: うんどうのあいまには、とうぶんをふくまないふれーばーうぉーたーでこまめにすいぶんをほきゅうしている。
+- UK :: У перервах між тренуваннями я регулярно поповнюю водний баланс ароматизованою водою без цукру.
+- FOCUS :: ウォーター
+
+* Sense s-2440940-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 11bafb7ab5525b1f2ca782cd629d0bfa8d8c61f44c47a8e80e2ce8d715f6ead5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2440940-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: water
+** Ukrainian glosses
+
+* Sense s-2440940-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 558218a1385caf9228a0d5ef423f0dcc17e530ad3f7cbc178f750bfee0a3deb3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2440940-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasser (insbes. zum Trinken)
+*** en-s-2440940-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasser
+** Ukrainian glosses
+
+* Sense s-2440940-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: d8941519479f6c1455340df9a7ba0d439568bec0739acb5d285d0236d693c1a0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2440940-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((англ.) water) вода
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2440940-003-001
+:PROPERTIES:
+:TARGET_ID: rd-2440940-003
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ウオーター

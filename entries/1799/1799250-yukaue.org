@@ -1,0 +1,158 @@
+#+TITLE: 床上
+#+JMDICT_ID: 1799250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ゆかうえ
+#+ROMAJI: yukaue
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1799250-001
+:PROPERTIES:
+:TEXT: 床上
+:END:
+*** Priorities
+- news2
+- nf26
+** Reading rd-1799250-001
+:PROPERTIES:
+:TEXT: ゆかうえ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf26
+
+* Sense s-1799250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: ece27506821fcba37b03de06e3be2575a71960fe30a832d1b893eee063962338
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- on a floor
+- above floor level
+** Ukrainian glosses
+*** uk-s-1799250-001-001
+:PROPERTIES:
+:END:
+- text :: на підлозі; вище рівня підлоги
+** Learner notes
+*** note-s-1799250-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що буквально означає «поверх підлоги» або «вище рівня підлоги» (на відміну від 床下 — «під підлогою»). Найчастіше трапляється в повідомленнях про повені та тайфуни у сталому словосполученні 床上浸水 («затоплення житла вище рівня підлоги»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1799250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 大雨で川があふれ、床上まで水が来ました。
+- READING :: おおあめでかわがあふれ、ゆかうえまでみずがきました。
+- UK :: Через зливу річка вийшла з берегів, і вода піднялася вище рівня підлоги.
+- FOCUS :: 床上
+*** ex-1799250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 台風の被害により、地域で百軒以上が床上浸水となりました。
+- READING :: たいふうのひがいにより、ちいきでひゃっけんいじょうがゆかうえしんすいとなりました。
+- UK :: Унаслідок тайфуну в районі затопило вище рівня підлоги понад сто будинків.
+- FOCUS :: 床上
+*** ex-1799250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 床上への浸水を防ぐため、住民たちは玄関の前に土のうを積み上げた。
+- READING :: ゆかうえへのしんすいをふせぐため、じゅうみんたちはげんかんのまえにどのうをつみあげた。
+- UK :: Щоб не допустити потрапляння води вище рівня підлоги, мешканці склали перед входами мішки з піском.
+- FOCUS :: 床上
+
+* Sense s-1799250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 74d63d97ee6ec75ae98e66693f4aabd845be7b8aa249c5f27778fd205a6329b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799250-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oberfläche des Fußbodens
+** Ukrainian glosses
+
+* Sense s-1799250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 61ff5be1916be9755bf2fa1a4ee70c3b86878f383e100b1f79ec80cc9dd26b4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799250-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf dem Fußboden
+** Ukrainian glosses
+
+* Sense s-1799250-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 86c4ed7e7323865230b3961a9586d1e14f1c7101f2fff3c4ca77e6ba8ea74972
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1799250-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[に]} на полу; над полом
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1799250-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1799250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ゆかうえ

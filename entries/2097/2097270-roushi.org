@@ -1,0 +1,152 @@
+#+TITLE: 浪士
+#+JMDICT_ID: 2097270
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろうし
+#+ROMAJI: roushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2097270-001
+:PROPERTIES:
+:TEXT: 浪士
+:END:
+** Reading rd-2097270-001
+:PROPERTIES:
+:TEXT: ろうし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2097270-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e63992ec09ed59101b7a6aed8f5eef14ab6bcc18a12de3fa7c47883cb895ded5
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- ronin
+- lordless samurai
+** Ukrainian glosses
+*** uk-s-2097270-001-001
+:PROPERTIES:
+:END:
+- text :: ронін; самурай без пана
+** Learner notes
+*** note-s-2097270-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення воїна-самурая, який втратив свого феодального пана або покинув службу (синонім до 浪人). На відміну від побутового чи нейтрального 浪人, слово 浪士 часто мало піднесений відтінок і вживалося щодо учасників політичних рухів кінця доби Едо.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2097270-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 時代劇に強い浪士が出てきます。
+- READING :: じだいげきにつよいろうしがでてきます。
+- UK :: В історичній драмі з'являється сильний ронін.
+- FOCUS :: 浪士
+*** ex-2097270-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この町には、昔多くの浪士が住んでいました。
+- READING :: このまちには、むかしおおくのろうしがすんでいました。
+- UK :: Колись у цьому місті мешкало багато ронінів.
+- FOCUS :: 浪士
+*** ex-2097270-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 主君を失った浪士たちは、新しい生き方を探して各地を旅しました。
+- READING :: しゅくんをうしなったろうしたちは、あたらしいいきかたをさがしてかくちをたびしました。
+- UK :: Втративши свого пана, роніни мандрували різними краями в пошуках нового життєвого шляху.
+- FOCUS :: 浪士
+
+* Sense s-2097270-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5eb0134718946bbc49f384a9de2613d68fb51b2b315e35828b9f11712c6e30f6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2097270-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: meesterloze samoerai
+** Ukrainian glosses
+
+* Sense s-2097270-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 57a5c36754b3721fdc434a2f27c6120734e090625cde9c3aeb47216d80fcdb4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2097270-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: herrenloser Samurai
+** Ukrainian glosses
+
+* Sense s-2097270-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c64646be2ba40c376167ac08ee6d6d6e1e495473179cc11042b7f24dcf1a609d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2097270-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ろうにん
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2097270-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2097270-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ろうし

@@ -1,0 +1,156 @@
+#+TITLE: 花吹雪
+#+JMDICT_ID: 1194770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はなふぶき
+#+ROMAJI: hanafubuki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1194770-001
+:PROPERTIES:
+:TEXT: 花吹雪
+:END:
+** Written form wf-1194770-002
+:PROPERTIES:
+:TEXT: 花ふぶき
+:END:
+*** Information
+- sK
+** Reading rd-1194770-001
+:PROPERTIES:
+:TEXT: はなふぶき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1194770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 948ae83149599a789652d4362d70932d7fb502da2c6609278db1587ada42705e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- falling cherry blossoms
+- storm of falling cherry blossoms
+** Ukrainian glosses
+*** uk-s-1194770-001-001
+:PROPERTIES:
+:END:
+- text :: квіткова заметіль; вихор пелюсток сакури
+** Learner notes
+*** note-s-1194770-001-001
+:PROPERTIES:
+:END:
+- UK :: Поетичний іменник (花 — квіти, зазвичай сакури + 吹雪 — хуртовина, заметіль). Описує картину, коли від весняного вітру в повітрі масово кружляють і осипаються пелюстки цвіту сакури, немов снігопад.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1194770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 春の風が吹いて、きれいな花吹雪が舞った。
+- READING :: はるのかぜがふいて、きれいなはなふぶきがまった。
+- UK :: Подув весняний вітер, і закружляла гарна квіткова заметіль.
+- FOCUS :: 花吹雪
+*** ex-1194770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 満開を過ぎた桜並木の下を歩くと、頭上から花吹雪が降り注ぐ。
+- READING :: まんかいをすぎたさくらなみきのしたをあるくと、ずじょうからはなふぶきがふりそそぐ。
+- UK :: Коли йдеш алеєю сакур після піку цвітіння, згори сиплеться справжня заметіль із пелюсток.
+- FOCUS :: 花吹雪
+*** ex-1194770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 卒業式の日に校庭を彩った見事な花吹雪は、友人たちと過ごした青春の記憶として今も鮮やかに残っている。
+- READING :: そつぎょうしきのひにこうていをいろどったみごとなはなふぶきは、ゆうじんたちとすごしたせいしゅんのきおくとしていまもあざやかにのこっている。
+- UK :: Дивовижна квіткова заметіль, що вкрила шкільне подвір'я в день випускного, й досі яскраво живе в пам'яті як спогад про юність, проведену з друзями.
+- FOCUS :: 花吹雪
+
+* Sense s-1194770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4e8dd20db52849ebcd936ab3b03cf46079b033ee3cb509988780d0acb799000e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1194770-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Durcheinanderwirbeln fallender Kirschblütenblätter
+*** en-s-1194770-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kirschblütengestöber
+*** en-s-1194770-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kirschblütenregen
+** Ukrainian glosses
+
+* Sense s-1194770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9d61e942b6393fb5b9d7493cab5108a61e41b4f6986a4eb5d5ca87f47df0108b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1194770-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: цветочная метель (о цветах вишни, опадающих при ветре)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1194770-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1194770-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: はなふぶき

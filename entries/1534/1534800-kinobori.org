@@ -1,0 +1,188 @@
+#+TITLE: 木登り
+#+JMDICT_ID: 1534800
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きのぼり
+#+ROMAJI: kinobori
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1534800-001
+:PROPERTIES:
+:TEXT: 木登り
+:END:
+** Written form wf-1534800-002
+:PROPERTIES:
+:TEXT: 木のぼり
+:END:
+** Reading rd-1534800-001
+:PROPERTIES:
+:TEXT: きのぼり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1534800-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7a1c9ab95931aa7fe45d3d86737f44662c04a454d37d6daea652f70d54af7e8f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- tree climbing
+** Ukrainian glosses
+*** uk-s-1534800-001-001
+:PROPERTIES:
+:END:
+- text :: лазіння по деревах; видряпування на дерево
+** Learner notes
+*** note-s-1534800-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово з する (vs), утворений від 木 (дерево) та 登り (підйом, сходження; також трапляється написання 木のぼり). Позначає підіймання на дерево (наприклад, дітьми під час гри або тваринами); часто вживається в конструкціях 木登りをする чи 木登りが得意だ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1534800-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 子供たちが木登りをして遊んでいる。
+- READING :: こどもたちがきのぼりをしてあそんでいる。
+- UK :: Діти бавляться, лазячи по деревах.
+- FOCUS :: 木登り
+*** ex-1534800-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 猫が驚いて高い枝まで木登りしてしまった。
+- READING :: ねこがおどろいてたかいえだまできのぼりしてしまった。
+- UK :: Кіт злякався й видряпався високо на гілку дерева.
+- FOCUS :: 木登り
+*** ex-1534800-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 幼い頃に裏山の木登りで身につけたバランス感覚は、大人になってからも役立っている。
+- READING :: おさないころにうらやまのきのぼりでみにつけたばらんすかんかくは、おとなになってからもやくだっている。
+- UK :: Відчуття рівноваги, набуте в дитинстві під час лазіння по деревах на пагорбі за домом, стає в пригоді й у дорослому віці.
+- FOCUS :: 木登り
+
+* Sense s-1534800-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5a45989e25d0bd1da80ddffa214e00494b3259a827c81b236ee450716303cd5a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534800-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: in een boom klimmen
+*** en-s-1534800-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: boomklimmen
+** Ukrainian glosses
+
+* Sense s-1534800-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e9270961a91bc124e57e4dbff261b4d49cb6b06b4d5b4696e6ab227f45b48398
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534800-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: auf einen Baum klettern
+*** en-s-1534800-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen Baum besteigen
+*** en-s-1534800-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Auf-Bäume-Klettern
+** Ukrainian glosses
+
+* Sense s-1534800-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: de4c5405f16a14d4ae3ddc767e247d7e3a3e6bc8797017680e1a7ccc7cbc9443
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1534800-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лазанье по деревьям
+*** en-s-1534800-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} лазать по деревьям
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1534800-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1534800-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: きのぼり

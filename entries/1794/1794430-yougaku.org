@@ -1,0 +1,149 @@
+#+TITLE: 洋学
+#+JMDICT_ID: 1794430
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ようがく
+#+ROMAJI: yougaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1794430-001
+:PROPERTIES:
+:TEXT: 洋学
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1794430-001
+:PROPERTIES:
+:TEXT: ようがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1794430-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 683ab51b6e3bbff142923a533300ced054f0f546a89e9d1fa6c7fec69e2e1613
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- Western learning (introduced to Japan in the late-Edo and early-Meiji periods)
+** Ukrainian glosses
+*** uk-s-1794430-001-001
+:PROPERTIES:
+:END:
+- text :: західні науки; вивчення європейських наук (в Японії доби Едо й Мейджі)
+** Learner notes
+*** note-s-1794430-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін (іменник), що позначає сукупність європейських природничих, медичних, військових і гуманітарних знань, які поширювалися в Японії наприкінці періоду Едо та на початку доби Мейджі (ширше поняття, ніж рання «голландська наука» 蘭学).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1794430-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は若いころ洋学を学びました。
+- READING :: かれはわかいころようがくをまなびました。
+- UK :: У молодості він вивчав західні науки.
+- FOCUS :: 洋学
+*** ex-1794430-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 幕末には、多くの若者が長崎などで洋学を修めた。
+- READING :: ばくまつには、おおくのわかものがながさきなどでようがくをおさめた。
+- UK :: Наприкінці періоду шьоґунату багато молодих людей опановували західні науки в Наґасакі та інших містах.
+- FOCUS :: 洋学
+*** ex-1794430-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代後期に発展した洋学は、日本の近代化を支える大きな原動力となった。
+- READING :: えどじだいこうきにはってんしたようがくは、にほんのきんだいかをささえるおおきなげんどうりょくとなった。
+- UK :: Вивчення європейських наук, яке розвинулося наприкінці доби Едо, стало потужною рушійною силою модернізації Японії.
+- FOCUS :: 洋学
+
+* Sense s-1794430-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c0161421d05c6afa01d7f235877726b5097851fc04e1f1731db1ddfe30ecbf3e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1794430-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Yōgaku
+*** en-s-1794430-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: europäische Wissenschaften (im Gegensatz zu Kangaku und Wagaku; während der Edo-Zeit)
+** Ukrainian glosses
+
+* Sense s-1794430-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 67603df9670aaac1725b4a3ad673cc22e0fc498fcbf310002a2dc0089dc1ba49
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1794430-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) европейское образование; европейские науки; европейское направление в японской науке
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1794430-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1794430-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ようがく

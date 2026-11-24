@@ -1,0 +1,141 @@
+#+TITLE: 馬蹄
+#+JMDICT_ID: 1674320
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばてい
+#+ROMAJI: batei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1674320-001
+:PROPERTIES:
+:TEXT: 馬蹄
+:END:
+** Reading rd-1674320-001
+:PROPERTIES:
+:TEXT: ばてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1674320-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 9536d8c1221358e740f7a63c6c338f9aabe86debaf349ace2525d7389ff5241d
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- horse's hooves
+** Ukrainian glosses
+*** uk-s-1674320-001-001
+:PROPERTIES:
+:END:
+- text :: кінське копито; копита коня
+** Learner notes
+*** note-s-1674320-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник книжного або описового стилю, утворений із 馬 (кінь) та 蹄 (копито). Позначає копита коня (у повсякденній мові частіше кажуть 馬のひづめ); також слово часто вживається в описах предметів підковоподібної форми (наприклад, 馬蹄形 — підковоподібний).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1674320-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 遠くから馬蹄の音が聞こえる。
+- READING :: とおくからばていのおとがきこえる。
+- UK :: Здалеку чути стукіт кінських копит.
+- FOCUS :: 馬蹄
+*** ex-1674320-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 石畳の道を走る馬の馬蹄が軽やかに響いていた。
+- READING :: いしだたみのみちをはしるうまのばていがかろやかにひびいていた。
+- UK :: Копита коня, що мчав брукованою дорогою, лунко цокали.
+- FOCUS :: 馬蹄
+*** ex-1674320-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 朝霧に包まれた草原の向こうから、激しい馬蹄の響きが次第に近づいてきた。
+- READING :: あさぎりにつつまれたそうげんのむこうから、はげしいばていのひびきがしだいにちかづいてきた。
+- UK :: З-за вкритого ранковим туманом степу дедалі ближче долинав гучний тупіт кінських копит.
+- FOCUS :: 馬蹄
+
+* Sense s-1674320-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0e8e6c5b8d47c85de040c222205359bf8a79ce0b8f4859541004e048d1c7a1b9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1674320-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pferdehuf
+*** en-s-1674320-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hufeisen
+** Ukrainian glosses
+
+* Sense s-1674320-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e6252e08a00d2243f6f7a35424a334d10d3969f6565fd20b268954024437bd41
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1674320-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: копыто [лошади]
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1674320-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1674320-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ばてい

@@ -1,0 +1,163 @@
+#+TITLE: ろう学校
+#+JMDICT_ID: 1561200
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ろうがっこう
+#+ROMAJI: rougakkou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1561200-001
+:PROPERTIES:
+:TEXT: ろう学校
+:END:
+** Written form wf-1561200-002
+:PROPERTIES:
+:TEXT: 聾学校
+:END:
+** Reading rd-1561200-001
+:PROPERTIES:
+:TEXT: ろうがっこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1561200-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: a53aa36500e72424b4e9d870125bc02eb902052430bd6bdf7918f33949aa233c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- school for the deaf
+** Ukrainian glosses
+*** uk-s-1561200-001-001
+:PROPERTIES:
+:END:
+- text :: школа для глухих; школа для дітей із порушеннями слуху
+** Learner notes
+*** note-s-1561200-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, що позначає спеціалізований навчальний заклад для дітей із порушеннями слуху (в сучасній японській системі освіти офіційно також вживається ширша назва 聴覚特別支援学校). Зазвичай пишеться з першою частиною хіраґаною як ろう学校 (рідше ієрогліфом 聾学校).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1561200-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 姉はろう学校で手話を教えている。
+- READING :: あねはろうがっこうでしゅわをおしえている。
+- UK :: Моя старша сестра викладає жестову мову в школі для глухих.
+- FOCUS :: ろう学校
+*** ex-1561200-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 地域のろう学校では、生徒一人ひとりに合わせた丁寧な教育が行われている。
+- READING :: ちいきのろうがっこうでは、せいとひとりひとりにあわせたていねいなきょういくがおこなわれている。
+- UK :: У місцевій школі для дітей із порушеннями слуху навчання провадиться уважно й індивідуально для кожного учня.
+- FOCUS :: ろう学校
+*** ex-1561200-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ろう学校での学びを通じて、多くの子供たちが自信を持って社会へ羽ばたく力を身につけている。
+- READING :: ろうがっこうでのまなびをつうじて、おおくのこどもたちがじしんをもってしゃかいへはばたくちからをみにつけている。
+- UK :: Завдяки навчанню в школі для глухих багато дітей здобувають упевненість і навички, потрібні для самостійного життя в суспільстві.
+- FOCUS :: ろう学校
+
+* Sense s-1561200-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 42d69d1a02056725f7ee8d3466a8b78474dd4bac649ebde385a81268243f7641
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1561200-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Gehörlosenschule
+*** en-s-1561200-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schule für Gehörlose
+** Ukrainian glosses
+
+* Sense s-1561200-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b14e8eb6335087c64a9ddb46eea4243bf36dda3ec2983955cd2467c45a87a4d1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1561200-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: школа для глухих
+** Ukrainian glosses
+
+* Sense s-1561200-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: dbc36090abad5612b4eb66342acb675339fd9f19a40a91491b1a489039893d4c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1561200-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dövskola
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1561200-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1561200-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ろうがっこう

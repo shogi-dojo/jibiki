@@ -1,0 +1,168 @@
+#+TITLE: 高菜
+#+JMDICT_ID: 1809250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: たかな
+#+ROMAJI: takana
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1809250-001
+:PROPERTIES:
+:TEXT: 高菜
+:END:
+** Reading rd-1809250-001
+:PROPERTIES:
+:TEXT: たかな
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1809250-002
+:PROPERTIES:
+:TEXT: タカナ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1809250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 7e50939a9e4a84854ec634a08f1ab241bb7dc6072a1149b7bcc4e1fd00906fe3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- leaf mustard (Brassica juncea var. integrifolia)
+- mustard greens
+** Ukrainian glosses
+*** uk-s-1809250-001-001
+:PROPERTIES:
+:END:
+- text :: листова гірчиця; такана (овоч і квашена зелень)
+** Learner notes
+*** note-s-1809250-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, назва листового овочу родини капустяних (Brassica juncea); у тексті трапляється як кандзі 高菜, так і кана たかな. В Японії листя цієї рослини з легким пікантним присмаком особливо відоме в соленому чи маринованому вигляді (高菜漬け) як додаток до рису й рамену, зокрема в кухні Кюшю.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1809250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: ラーメンにたかなをのせる。
+- READING :: らーめんにたかなをのせる。
+- UK :: Класти квашену гірчицю такана на рамен.
+- FOCUS :: たかな
+*** ex-1809250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 九州旅行のお土産に、辛い味付けのたかな漬けを買った。
+- READING :: きゅうしゅうりょこうのおみやげに、からいあじつけのたかなづけをかった。
+- UK :: Як сувенір із подорожі на Кюшю я купив гостру мариновану гірчицю такана.
+- FOCUS :: たかな
+*** ex-1809250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 刻んだ高菜と卵を一緒に炒めると、香ばしくて食欲をそそるチャーハンができあがる。
+- READING :: きざんだたかなとたまごをいっしょにいためると、こうばしくてしょくよくをそそるちゃーはんができあがる。
+- UK :: Якщо обсмажити дрібно нарізану гірчицю такана разом з яйцем, вийде ароматний і дуже апетитний смажений рис.
+- FOCUS :: 高菜
+
+* Sense s-1809250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: a736cce8155d1dc042ea50f0e60affe455000f8d7fdb00a3560d52e71dcdd5c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809250-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brauner Senf
+*** en-s-1809250-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Brassica juncea var. integrifolia
+** Ukrainian glosses
+
+* Sense s-1809250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: f5a476cfa0edbd99bf78e801e1b9d125fa8020b01c14ed343ca16254fc856e0b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1809250-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) листовая горчица, Brassica juncea (Szern. et Coss.) var. integrifolia (Sinsk.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1809250-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1809250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: たかな
+** Accent accent-rd-1809250-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1809250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: たかな

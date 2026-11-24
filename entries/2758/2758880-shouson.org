@@ -1,0 +1,166 @@
+#+TITLE: 小村
+#+JMDICT_ID: 2758880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しょうそん
+#+ROMAJI: shouson
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2758880-001
+:PROPERTIES:
+:TEXT: 小村
+:END:
+** Reading rd-2758880-001
+:PROPERTIES:
+:TEXT: しょうそん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2758880-002
+:PROPERTIES:
+:TEXT: こむら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2758880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1010a3a39f6a57b06230f83dcd91756df8540f427a7030ea080856714284ee38
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- small village
+- hamlet
+** Ukrainian glosses
+*** uk-s-2758880-001-001
+:PROPERTIES:
+:END:
+- text :: маленьке село, сільце; хутір
+** Learner notes
+*** note-s-2758880-001-001
+:PROPERTIES:
+:END:
+- UK :: Книжний іменник, що складається з 小 (малий) та 村 (село) і позначає невелике сільське поселення. У повсякденній мові частіше кажуть 小さな村, тож слово 小村 трапляється переважно в літературних описах, географічних текстах і перекладах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2758880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山のふもとに静かな小村がある。
+- READING :: やまのふもとにしずかなしょうそんがある。
+- UK :: Біля підніжжя гори є тихе сільце.
+- FOCUS :: 小村
+*** ex-2758880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 冬になると、その小村は深い雪に覆われる。
+- READING :: ふゆになると、そのしょうそんはふかいゆきにおおわれる。
+- UK :: Узимку це маленьке село вкривається глибоким снігом.
+- FOCUS :: 小村
+*** ex-2758880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 川沿いに点在するいくつかの小村が、長い歴史の中で一つの町へと統合された。
+- READING :: かわぞいにてんざいするいくつかのしょうそんが、ながいれきしのなかでひとつのまちへととうごうされた。
+- UK :: Кілька маленьких сіл, розкиданих уздовж річки, з часом об'єдналися в одне містечко.
+- FOCUS :: 小村
+
+* Sense s-2758880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 9ad689bd0d770fbd03688ef05203e28425e84a79fe6e67d80cadd4334ca4ae39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2758880-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Komura
+*** en-s-2758880-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleines Dorf
+** Ukrainian glosses
+
+* Sense s-2758880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9003cc3a6644de046464fe35cecefef400c58df8f53680794c60191494bb572a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2758880-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) деревушка
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2758880-002-001
+:PROPERTIES:
+:TARGET_ID: rd-2758880-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こむら
+** Accent accent-rd-2758880-002-002
+:PROPERTIES:
+:TARGET_ID: rd-2758880-002
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: こむら

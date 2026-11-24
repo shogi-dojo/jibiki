@@ -1,0 +1,137 @@
+#+TITLE: 古銭
+#+JMDICT_ID: 1265700
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こせん
+#+ROMAJI: kosen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1265700-001
+:PROPERTIES:
+:TEXT: 古銭
+:END:
+** Written form wf-1265700-002
+:PROPERTIES:
+:TEXT: 古泉
+:END:
+** Reading rd-1265700-001
+:PROPERTIES:
+:TEXT: こせん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1265700-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2ef0a42645729faa26c3fd8006e166a8efb26c811991614f3d72f0ab0d4669aa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- old coin
+** Ukrainian glosses
+*** uk-s-1265700-001-001
+:PROPERTIES:
+:END:
+- text :: старовинна монета
+** Learner notes
+*** note-s-1265700-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 古 (давній) та 銭 (монета, гроші). Позначає монети минулих епох — наприклад, едоські 寛永通宝 чи стародавні китайські монети — як предмет колекціонування (нумізматики) або археологічних знахідок; рідше записується як 古泉.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1265700-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 祖父は日本の古銭を集めていました。
+- READING :: そふはにほんのこせんをあつめていました。
+- UK :: Мій дідусь колекціонував старовинні японські монети.
+- FOCUS :: 古銭
+*** ex-1265700-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 庭を掘っていたら、江戸時代の古銭が数枚見つかった。
+- READING :: にわをほっていたら、えどじだいのこせんがすうまいみつかった。
+- UK :: Коли копали город у дворі, знайшли кілька старовинних монет доби Едо.
+- FOCUS :: 古銭
+*** ex-1265700-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 希少価値の高い古銭は、状態が良ければオークションで高値で取引されることがある。
+- READING :: きしょうかちのたかいこせんは、じょうたいがよければおーくしょんでたかねでとりひきされることがある。
+- UK :: Рідкісні старовинні монети в доброму стані іноді продаються на аукціонах за високу ціну.
+- FOCUS :: 古銭
+
+* Sense s-1265700-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 47362e867f0f0265406ff718df637e5d68df76c91429e48c7b7740a052f31529
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265700-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: alte Münze
+** Ukrainian glosses
+
+* Sense s-1265700-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6edd63fb91b0472acbaedd0ea1fc2e136c257a267e3aca6a9765b600551095d3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1265700-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: старинная монета
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1265700-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1265700-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: こせん

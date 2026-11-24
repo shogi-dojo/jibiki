@@ -1,0 +1,183 @@
+#+TITLE: 柄物
+#+JMDICT_ID: 1868460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: がらもの
+#+ROMAJI: garamono
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1868460-001
+:PROPERTIES:
+:TEXT: 柄物
+:END:
+** Written form wf-1868460-002
+:PROPERTIES:
+:TEXT: 柄もの
+:END:
+*** Information
+- sK
+** Reading rd-1868460-001
+:PROPERTIES:
+:TEXT: がらもの
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1868460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2dfd5450842fae214e8e36807c41f2fdf8f838e7ea3ae3713145ea9fcd7ae868
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- patterned cloth
+** Ukrainian glosses
+*** uk-s-1868460-001-001
+:PROPERTIES:
+:END:
+- text :: тканина з візерунком, візерунчастий одяг
+** Learner notes
+*** note-s-1868460-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник для позначення тканин або предметів одягу з орнаментом, смужками чи малюнком на противагу однотонним речам (無地). Утворюється поєднанням 柄 (візерунок) і 物 (річ, виріб).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1868460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 私はシンプルな柄物が好きです。
+- READING :: わたしはしんぷるながらものがすきです。
+- UK :: Мені подобається одяг із простим візерунком.
+- FOCUS :: 柄物
+*** ex-1868460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 無地のシャツより、柄物のほうが合わせにくいことがあります。
+- READING :: むじのしゃつより、がらもののほうがあわせにくいことがあります。
+- UK :: Одяг із візерунком буває важче поєднувати з іншими речами, ніж однотонну сорочку.
+- FOCUS :: 柄物
+*** ex-1868460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 派手な柄物のネクタイを選ぶときは、スーツの色を落ち着いたものにするといい。
+- READING :: はでながらもののねくたいをえらぶときは、すーつのいろをおちついたものにするといい。
+- UK :: Коли обираєте краватку з яскравим візерунком, варто підбирати костюм стриманого кольору.
+- FOCUS :: 柄物
+
+* Sense s-1868460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c3da52392c4515061a671b4485c840fd09deb90526bf03eea04f395143483c81
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1868460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemusterter Stoff
+** Ukrainian glosses
+
+* Sense s-1868460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2f51da4512c1266d29cfdcc756038738691358151d06fa1a5ea70bb82de65541
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1868460-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: etw. Gemustertes
+** Ukrainian glosses
+
+* Sense s-1868460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 47916c6de5f3bca464a40978687dc78d41a016ed4421c6ea06e6ba717c59b209
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1868460-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ткань (и т. п.) с узором
+** Ukrainian glosses
+
+* Sense s-1868460-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: dd138c2b6c7995a3603436b8f17b9f25b78cc684766d760542a8a21dfe270b71
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1868460-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: con dibujos
+*** en-s-1868460-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: estampado
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1868460-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1868460-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: がらもの

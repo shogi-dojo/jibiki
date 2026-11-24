@@ -1,0 +1,133 @@
+#+TITLE: 納税額
+#+JMDICT_ID: 1792250
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のうぜいがく
+#+ROMAJI: nouzeigaku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1792250-001
+:PROPERTIES:
+:TEXT: 納税額
+:END:
+** Reading rd-1792250-001
+:PROPERTIES:
+:TEXT: のうぜいがく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1792250-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8f286187866f568a41bec9b93234fc8ee063d7febda851d1bfefde762598fe15
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- amount of tax due
+** Ukrainian glosses
+*** uk-s-1792250-001-001
+:PROPERTIES:
+:END:
+- text :: сума податку (до сплати), розмір податкових виплат
+** Learner notes
+*** note-s-1792250-001-001
+:PROPERTIES:
+:END:
+- UK :: Складений іменник фінансово-економічної лексики: 納税 («сплата податків») + 額 («сума, обсяг»). Вживається в податкових деклараціях, бухгалтерському обліку та ділових новинах; типові сполучення — 納税額を計算する («обчислити суму податку»), 納税額が減る («сума податку зменшується»), ふるさと納税額 («сума пожертви за програмою податку рідного краю»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1792250-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今年の納税額を確認した。
+- READING :: ことしののうぜいがくをかくにんした。
+- UK :: Я перевірив суму податку до сплати за цей рік.
+- FOCUS :: 納税額
+*** ex-1792250-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 各種の控除を適用すれば、最終的な納税額を抑えることができる。
+- READING :: かくしゅのこうじょをてきようすれば、さいしゅうてきなのうぜいがくをおさえることができる。
+- UK :: Якщо застосувати різні податкові вирахування, можна зменшити остаточну суму податку.
+- FOCUS :: 納税額
+*** ex-1792250-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 昨年度の業績が好調だったため、法人税を含む企業の納税額は前年を大きく上回った。
+- READING :: さくねんどのぎょうせきがこうちょうだったため、ほうじんぜいをふくむきぎょうののうぜいがくはぜんねんをおおきくうわまわった。
+- UK :: Оскільки фінансові показники минулого року були високими, сума податкових сплат компанії, включно з податком на прибуток, значно перевищила торішній рівень.
+- FOCUS :: 納税額
+
+* Sense s-1792250-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c6d0be99ddfc5c1c8557e70591bbf5f9e7871a87aaeaabcb15b188cab75d82b0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1792250-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerbetrag
+** Ukrainian glosses
+
+* Sense s-1792250-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 8ddb8677c3f31cbf6ba8c72659757e68618a072a6cb42ad9b6c2f4b44966af77
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1792250-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сумма налога
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1792250-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1792250-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 6
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: のうぜいがく

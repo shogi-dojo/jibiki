@@ -1,0 +1,139 @@
+#+TITLE: 九死
+#+JMDICT_ID: 1741710
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きゅうし
+#+ROMAJI: kyuushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1741710-001
+:PROPERTIES:
+:TEXT: 九死
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1741710-001
+:PROPERTIES:
+:TEXT: きゅうし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1741710-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 20deb7e4c832e51d5e5bcdd484f0cd532884ee9f6273997e2263ad1835267299
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- narrowly averting death
+** Ukrainian glosses
+*** uk-s-1741710-001-001
+:PROPERTIES:
+:END:
+- text :: смертельна небезпека; дивовижний порятунок від вірної загибелі
+** Learner notes
+*** note-s-1741710-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, книжне слово (буквально «дев'ять смертей» — на противагу одному порятунку). Самостійно майже не вживається; переважно трапляється у сталому вислові 九死に一生を得る (きゅうしにいっしょうをえる — ледве врятуватися від неминучої загибелі, вирватися з лабетів смерті) та спорідненому виразі 九死一生 (буття на волосину від смерті).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1741710-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 彼は事故で九死に一生を得た。
+- READING :: かれはじこできゅうしにいっしょうをえた。
+- UK :: Він дивом урятувався від смерті в аварії.
+- FOCUS :: 九死
+*** ex-1741710-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雪山で遭難した登山家は、三日後に救出されて九死に一生を得た。
+- READING :: ゆきやまでそうなんしたとざんかは、みっかごにきゅうしゅつされてきゅうしにいっしょうをえた。
+- UK :: Альпініст, який зазнав лиха в засніжених горах, був урятований через три дні й дивом уникнув смерті.
+- FOCUS :: 九死
+*** ex-1741710-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 激しい嵐の中で船が転覆したが、乗組員は全員が九死に一生を得て生還した。
+- READING :: はげしいあらしのなかでふねがてんぷくしたが、のりくみいんはぜんいんがきゅうしにいっしょうをえてせいかんした。
+- UK :: Посеред лютої бурі судно перекинулося, але весь екіпаж дивом вижив і повернувся додому.
+- FOCUS :: 九死
+
+* Sense s-1741710-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6d057f9ec90efefbdce7fde740b3ef5200386f965d958ce877902ff819505934
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1741710-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Situation, die man sehr wahrscheinlich nicht überleben wird (häufig in der Wendung kyūshi ni isshō o eru = dem Tod mit knapper Not entkommen)
+** Ukrainian glosses
+
+* Sense s-1741710-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c12c28a7f1b3044b5334575eba7dd7bacbcdec394ac13337c84d03b9290ee922
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1741710-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (связ.):
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1741710-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1741710-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: きゅうし

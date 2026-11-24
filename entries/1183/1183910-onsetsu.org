@@ -1,0 +1,229 @@
+#+TITLE: 音節
+#+JMDICT_ID: 1183910
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おんせつ
+#+ROMAJI: onsetsu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1183910-001
+:PROPERTIES:
+:TEXT: 音節
+:END:
+*** Priorities
+- news2
+- nf47
+** Reading rd-1183910-001
+:PROPERTIES:
+:TEXT: おんせつ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf47
+
+* Sense s-1183910-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 512b4c7014f1bc2abec34369f3fcecaa2beb249ef8339cd3c5ed87d10d804ab9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- ling
+** English glosses
+- syllable
+** Ukrainian glosses
+*** uk-s-1183910-001-001
+:PROPERTIES:
+:END:
+- text :: склад (фонетична одиниця)
+** Learner notes
+*** note-s-1183910-001-001
+:PROPERTIES:
+:END:
+- UK :: Лінгвістичний термін (від 音 «звук» та 節 «ланка, поділ»). У японському мовознавстві розрізняють власне 音節 («склад», наприклад きょう — один склад) та 拍 або モーラ («мора», де きょう складається з двох мор).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1183910-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この単語は三つの音節からできている。
+- READING :: このたんごはみっつのおんせつからできている。
+- UK :: Це слово складається з трьох складів.
+- FOCUS :: 音節
+*** ex-1183910-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 英語の歌を覚えるために、言葉を音節ごとに区切って発音した。
+- READING :: えいごのうたをおぼえるために、ことばをおんせつごとにくぎってはつおんした。
+- UK :: Щоб запам'ятати англійську пісню, я вимовляв слова, поділяючи їх по складах.
+- FOCUS :: 音節
+*** ex-1183910-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 日本語の音声学では、拍と音節の違いを理解することがリズムの習得につながる。
+- READING :: にほんごのおんせいがくでは、はくとおんせつのちがいをりかいすることがりずむのしゅうとくにつながる。
+- UK :: У японській фонетиці розуміння різниці між морою та складом допомагає опанувати правильний ритм мовлення.
+- FOCUS :: 音節
+
+* Sense s-1183910-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 3eaa8c558f0703f981873d59fae5c2a10b7134f45e280d849c6aabfebdd5c9f1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: lettergreep
+*** en-s-1183910-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: syllabe
+*** en-s-1183910-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: woorddeel
+** Ukrainian glosses
+
+* Sense s-1183910-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1a8ad3225f6db11eee3cddf933bea35043db88f96b2193a0a25b849a327dce7d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Silbe
+** Ukrainian glosses
+
+* Sense s-1183910-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: f1acd738c3949a16033e4e8d424a895ea5d1986057b7d8fecc5f5f73c05e7148
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: szótag
+** Ukrainian glosses
+
+* Sense s-1183910-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 687c0a2f5d9e63ca6ff0cf195c12e3d78e2e74b9939b0dcd56ae4e55420a732c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (лингв.) слог
+** Ukrainian glosses
+
+* Sense s-1183910-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: de6aee12a4abc0bd409f6e611fd19e420a1e5df109118147447ac4047748a827
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: sílaba
+** Ukrainian glosses
+
+* Sense s-1183910-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 5fc67fb8481e558fe2792fa03e5c80c4e3382ce677ceb90f769969a03de2c727
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1183910-007-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: stavelse
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1183910-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1183910-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おんせつ

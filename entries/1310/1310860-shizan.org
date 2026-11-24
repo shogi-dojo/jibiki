@@ -1,0 +1,208 @@
+#+TITLE: 死産
+#+JMDICT_ID: 1310860
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しざん
+#+ROMAJI: shizan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1310860-001
+:PROPERTIES:
+:TEXT: 死産
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1310860-001
+:PROPERTIES:
+:TEXT: しざん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+** Reading rd-1310860-002
+:PROPERTIES:
+:TEXT: しさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1310860-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e16bc55337c7f529d28e141722c332af5348947968104f987b82bededeb7dc57
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+- adj-no
+** English glosses
+- stillbirth
+** Ukrainian glosses
+*** uk-s-1310860-001-001
+:PROPERTIES:
+:END:
+- text :: мертвонародження
+** Learner notes
+*** note-s-1310860-001-001
+:PROPERTIES:
+:END:
+- UK :: Медичний і статистичний термін (іменник, дієслово з する та но-прикметник), утворений з 死 (смерть) та 産 (пологи, народження). Зазвичай читається як しざん, хоча в окремих словниках трапляється і варіант しさん; позначає народження мертвого плода, на відміну від викидня на ранньому терміні (流産).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1310860-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 統計によると、死産の数は年々減っている。
+- READING :: とうけいによると、しざんのかずはねんねんへっている。
+- UK :: За статистикою, кількість випадків мертвонародження з року в рік зменшується.
+- FOCUS :: 死産
+*** ex-1310860-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 医療技術の進歩により、かつてより死産のリスクを大きく下げることができるようになった。
+- READING :: いりょうぎじゅつのしんぽにより、かつてよりしざんのりすくをおおきくさげることができるようになった。
+- UK :: Завдяки розвитку медичних технологій ризик мертвонародження вдалося суттєво знизити порівняно з минулим.
+- FOCUS :: 死産
+*** ex-1310860-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 医師は患者に対し、感染症の予防や定期検診が死産を防ぐうえで極めて重要であると説明した。
+- READING :: いしはかんじゃにたいし、かんせんしょうのよぼうやていきけんしんがしざんをふせぐうえできわめてじゅうようであるとせつめいした。
+- UK :: Лікар пояснив пацієнтці, що профілактика інфекцій та регулярні огляди є надзвичайно важливими для запобігання мертвонародженню.
+- FOCUS :: 死産
+
+* Sense s-1310860-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 110bb8934e8ae88252b4b5563074ef4679afa02c0522b7e4392a376f2aa4434d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1310860-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Totgeburt
+*** en-s-1310860-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: totgeboren
+*** en-s-1310860-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eine Totgeburt haben
+** Ukrainian glosses
+
+* Sense s-1310860-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 4143060e9f2fc8f3b10c4578c265bb1227185ff8e8717cdd28ae31ffd1cc8698
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1310860-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: рождение мёртвого ребёнка
+*** en-s-1310860-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} родить мёртвого ребёнка
+** Ukrainian glosses
+
+* Sense s-1310860-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: a2a7007b369cbd6bd4a207cbfea325df5bac7c7ef437a4e5dd79c5354ea9660c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1310860-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: dödfödsel
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1310860-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1310860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しざん
+** Accent accent-rd-1310860-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1310860-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: しざん

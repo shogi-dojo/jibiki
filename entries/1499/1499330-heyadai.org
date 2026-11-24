@@ -1,0 +1,141 @@
+#+TITLE: 部屋代
+#+JMDICT_ID: 1499330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: へやだい
+#+ROMAJI: heyadai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1499330-001
+:PROPERTIES:
+:TEXT: 部屋代
+:END:
+** Reading rd-1499330-001
+:PROPERTIES:
+:TEXT: へやだい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1499330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 4af8d0115cca190dda3441558975dfac50e4a1d9a0319fd151bcf63ad235842f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- room rent
+** Ukrainian glosses
+*** uk-s-1499330-001-001
+:PROPERTIES:
+:END:
+- text :: плата за кімнату; орендна плата за житло (кімнату)
+** Learner notes
+*** note-s-1499330-001-001
+:PROPERTIES:
+:END:
+- UK :: Побутовий іменник, утворений із 部屋 («кімната») та суфікса 代 («плата; вартість»). Позначає оплату за оренду окремої кімнати (у гуртожитку, пансіонаті, готелі чи приватному житлі); для оренди цілої квартири чи будинку частіше вживають слово 家賃 (やちん).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1499330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 毎月五万円の部屋代を払っています。
+- READING :: まいつきごまんえんのへやだいをはらっています。
+- UK :: Щомісяця я сплачую п'ятдесят тисяч єн за кімнату.
+- FOCUS :: 部屋代
+*** ex-1499330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 駅に近いわりには部屋代が安いので、この下宿に決めた。
+- READING :: えきにちかいわりにはへやだいがやすいので、このげしゅくにきめた。
+- UK :: Як на таку близькість до станції, плата за кімнату невисока, тому я обрав це житло.
+- FOCUS :: 部屋代
+*** ex-1499330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 光熱費込みの部屋代だったため、冬場に暖房をたくさん使っても出費が大きく増えずに済んだ。
+- READING :: こうねつひこみのへやだいだったため、ふゆばにだんぼうをたくさんつかってもしゅっぴがおおきくふえずにすんだ。
+- UK :: Оскільки комунальні послуги вже входили до плати за кімнату, навіть активне користування опаленням узимку не призвело до значного зростання витрат.
+- FOCUS :: 部屋代
+
+* Sense s-1499330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ea3becb825a2ab770f9943e6618c4bb050085a81cfccfcea218bd92a92b1e06c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1499330-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zimmermiete
+*** en-s-1499330-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Miete
+** Ukrainian glosses
+
+* Sense s-1499330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6c2df72a62c6ddcc2ea5977e420cfd063c0a942d32da3deb6a6aea17675141a7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1499330-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: плата за комнату (за квартиру)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1499330-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1499330-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: へやだい

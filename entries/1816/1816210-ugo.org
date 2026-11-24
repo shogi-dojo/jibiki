@@ -1,0 +1,184 @@
+#+TITLE: 雨後
+#+JMDICT_ID: 1816210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: うご
+#+ROMAJI: ugo
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1816210-001
+:PROPERTIES:
+:TEXT: 雨後
+:END:
+*** Priorities
+- news2
+- nf37
+** Reading rd-1816210-001
+:PROPERTIES:
+:TEXT: うご
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf37
+
+* Sense s-1816210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8bc54d02f76557509334c303bd8e3ef7d5f0c6de3d3f13b65c09e2caea4f5e2f
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adv
+** English glosses
+- after rain
+** Ukrainian glosses
+*** uk-s-1816210-001-001
+:PROPERTIES:
+:END:
+- text :: час після дощу; після дощу
+** Learner notes
+*** note-s-1816210-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і прислівниковий вираз книжного стилю. Поєднує ієрогліфи 雨 (дощ) і 後 (після) та означає проміжок часу або стан природи одразу після опадів. Найчастіше трапляється в образному виразі 雨後の筍 (як гриби після дощу — про стрімку й масову появу чогось).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1816210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 雨後の空はきれいだ。
+- READING :: うごのそらはきれいだ。
+- UK :: Небо після дощу гарне.
+- FOCUS :: 雨後
+*** ex-1816210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 雨後の公園にはさわやかな風が吹いていた。
+- READING :: うごのこうえんにはさわやかなかぜがふいていた。
+- UK :: У парку після дощу віяв свіжий вітерець.
+- FOCUS :: 雨後
+*** ex-1816210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 近年、駅周辺には新しいカフェが雨後の筍のように次々と開店している。
+- READING :: きんねん、えきしゅうへんにはあたらしいかふぇがうごのたけのこのようにつぎつぎとかいてんしている。
+- UK :: Останніми роками біля станції одне за одним, немов гриби після дощу, відкриваються нові кафе.
+- FOCUS :: 雨後
+
+* Sense s-1816210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: b3e919845288ead0fa590d2fbc584d6548c7678998d6c72c30e42adef1395b39
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1816210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～に} na regen
+*** en-s-1816210-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: na regenval
+** Ukrainian glosses
+
+* Sense s-1816210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: e3029f181b426161d5729933567532c19d1e2c65767550154996acbfae759ec6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1816210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nach dem Regen
+** Ukrainian glosses
+
+* Sense s-1816210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b771d623d4bc5a10736ff0f50eb50ed2c1806f571d3e451e32d1eadf9cca2fc1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1816210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) после дождя
+** Ukrainian glosses
+
+* Sense s-1816210-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: db3fd1587ffe7fbcbf591d4be50ae4646cf1d0909d15c96bcd6ac0dbeb0da98d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1816210-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tras la lluvia, al cesar la lluvia, después de llover
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1816210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1816210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: うご

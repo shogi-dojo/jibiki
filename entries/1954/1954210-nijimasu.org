@@ -1,0 +1,176 @@
+#+TITLE: 虹鱒
+#+JMDICT_ID: 1954210
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にじます
+#+ROMAJI: nijimasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1954210-001
+:PROPERTIES:
+:TEXT: 虹鱒
+:END:
+** Reading rd-1954210-001
+:PROPERTIES:
+:TEXT: にじます
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1954210-002
+:PROPERTIES:
+:TEXT: ニジマス
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1954210-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e0b3d28537bdeaa61bcf3331a8ca65d01f8c0c03e9d9a1f239723d4eb8e78f11
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- rainbow trout (Oncorhynchus mykiss)
+** Ukrainian glosses
+*** uk-s-1954210-001-001
+:PROPERTIES:
+:END:
+- text :: райдужна форель (Oncorhynchus mykiss)
+** Learner notes
+*** note-s-1954210-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва прісноводної промислової та спортивної риби родини лососевих (зазвичай пишеться катаканою як ニジマス, рідше кандзі 虹鱒, буквально «райдужна форель» через рожево-райдужну смугу вздовж боку). У Японії її широко розводять у гірських водоймах для риболовлі та кулінарії.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1954210-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 川で大きなニジマスを釣った。
+- READING :: かわでおおきなにじますをつった。
+- UK :: Я впіймав у річці велику райдужну форель.
+- FOCUS :: ニジマス
+*** ex-1954210-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: キャンプ場では、捕まえたニジマスを塩焼きにして食べた。
+- READING :: きゃんぷじょうでは、つかまえたにじますをしおやきにしてたべた。
+- UK :: У кемпінгу ми запекли впійману райдужну форель із сіллю й з'їли її.
+- FOCUS :: ニジマス
+*** ex-1954210-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 透明度の高い山の渓流には、きれいな水を好む虹鱒が多く生息している。
+- READING :: とうめいどのたかいやまのけいりゅうには、きれいなみずをこのむにじますがおおくせいそくしている。
+- UK :: У прозорих гірських потоках водиться багато райдужної форелі, яка любить чисту воду.
+- FOCUS :: 虹鱒
+
+* Sense s-1954210-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bf6d0bb28d4670040c2c6492bc73a4335a344c3d4ee8fe316b0c2ca7dd68841e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1954210-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {dierk.} regenboogforel
+*** en-s-1954210-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oncorhynchus mykiss
+** Ukrainian glosses
+
+* Sense s-1954210-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 283572869f243dd1ab1fba23128366a2dab80bddf0d3e407e141e14cb1752e67
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1954210-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Regenbogenforelle
+*** en-s-1954210-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Salmo gairdneri
+** Ukrainian glosses
+
+* Sense s-1954210-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cf115ab5648fc12f6622d436fbfaf3611d58d15067220e360f71b1c74940dafa
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1954210-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: форель радужная, Salmo irrideus (Gibbon.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1954210-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1954210-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: にじます

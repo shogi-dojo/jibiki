@@ -1,0 +1,135 @@
+#+TITLE: 藩邸
+#+JMDICT_ID: 1651990
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: はんてい
+#+ROMAJI: hantei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1651990-001
+:PROPERTIES:
+:TEXT: 藩邸
+:END:
+** Reading rd-1651990-001
+:PROPERTIES:
+:TEXT: はんてい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1651990-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 454061fffe5a2514d75039db863c53a16b7f29bdc3c0854e47fd4e53684e000b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+** English glosses
+- residence maintained by a daimyo in Edo
+** Ukrainian glosses
+*** uk-s-1651990-001-001
+:PROPERTIES:
+:END:
+- text :: садиба даймьо в Едо; резиденція князівства
+** Learner notes
+*** note-s-1651990-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний термін періоду Едо (江戸時代), утворений із 藩 (князівство, феодальне володіння) та 邸 (садиба, резиденція). Позначає міську резиденцію, яку даймьо утримували в Едо (сучасному Токіо) для виконання обов'язкового чергування при шьоґунаті (参勤交代) та розміщення васалів свого князівства.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1651990-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: かつてここに藩邸があった。
+- READING :: かつてここにはんていがあった。
+- UK :: Колись тут була резиденція даймьо.
+- FOCUS :: 藩邸
+*** ex-1651990-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 江戸時代、各大名はこの地域に大きな藩邸を構えていた。
+- READING :: えどじだい、かくだいみょうはこのちいきにおおきなはんていをかまえていた。
+- UK :: У період Едо кожен даймьо мав у цьому районі велику резиденцію.
+- FOCUS :: 藩邸
+*** ex-1651990-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 発掘調査によって当時の藩邸の石垣や庭園の跡が見つかり、武士の暮らしぶりが明らかになった。
+- READING :: はっくつちょうさによってとうじのはんていのいしがきやていえんのあとがみつかり、ぶしのくらしぶりがあきらかになった。
+- UK :: Завдяки розкопкам було знайдено рештки кам'яних мурів і садів тогочасної садиби даймьо, що пролило світло на побут самураїв.
+- FOCUS :: 藩邸
+
+* Sense s-1651990-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d83c195ea21e1a44b207d31873be8ca733b2102b7dbc7b1a15147a26db463abd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1651990-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wohnhaus eines Feudalherren
+** Ukrainian glosses
+
+* Sense s-1651990-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ed45529f7023931dd2cc52925ad8c159e4ccd239ff9f9c3fef471780c79a4bdc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1651990-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) усадьба (дом) даймё в Эдо
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1651990-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1651990-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: はんてい

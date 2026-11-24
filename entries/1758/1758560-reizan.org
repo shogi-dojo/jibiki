@@ -1,0 +1,147 @@
+#+TITLE: 霊山
+#+JMDICT_ID: 1758560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: れいざん
+#+ROMAJI: reizan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1758560-001
+:PROPERTIES:
+:TEXT: 霊山
+:END:
+*** Priorities
+- news2
+- nf41
+** Reading rd-1758560-001
+:PROPERTIES:
+:TEXT: れいざん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1758560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: c5e664a64a78ffde37b1a53694403c0289783d48d937847d556c72faba7139f4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- sacred mountain
+** Ukrainian glosses
+*** uk-s-1758560-001-001
+:PROPERTIES:
+:END:
+- text :: священна гора; гора, шанована як оселя духів чи святиня
+** Learner notes
+*** note-s-1758560-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник (від 霊 «дух, священний» та 山 «гора»), що позначає гору, яка є об'єктом релігійного поклоніння або місцем розташування давніх храмів і святилищ. У Японії до таких належать, зокрема, 富士山 (гора Фуджі) та 高野山 (гора Коя).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1758560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この地域には昔から霊山と呼ばれる山があります。
+- READING :: このちいきにはむかしかられいざんとよばれるやまがあります。
+- UK :: У цьому краї є гора, яку здавна називають священною.
+- FOCUS :: 霊山
+*** ex-1758560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 多くの参拝者が、長い石段を登って霊山の山頂にある神社を目指す。
+- READING :: おおくのさんぱいしゃが、ながいいしだんをのぼってれいざんのさんちょうにあるじんじゃをめざす。
+- UK :: Численні паломники підіймаються довгими кам'яними сходами до святилища на вершині священної гори.
+- FOCUS :: 霊山
+*** ex-1758560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 険しい自然に畏敬の念を抱いてきた日本では、古くから霊山を神聖な修行の場として崇めてきた。
+- READING :: けわしいしぜんにいけいのねんをいだいてきたにほんでは、ふるくかられいざんをしんせいなしゅぎょうのばとしてあがめてきた。
+- UK :: У Японії, де здавна відчували благоговіння перед суворою природою, священні гори шанують як місця для духовного гарту.
+- FOCUS :: 霊山
+
+* Sense s-1758560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 51b7ad0916c1a6138f377d648efe70599c44d493e7a201fcdc36c533550f52e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758560-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: heiliger Berg
+** Ukrainian glosses
+
+* Sense s-1758560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: c18c061deb6a979ededa20d6913dd0a99abaed149ffcb4d3900d5c263f5ad949
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1758560-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) священная гора
+*** en-s-1758560-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) храмовая гора (где находится храм)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1758560-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1758560-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: れいざん

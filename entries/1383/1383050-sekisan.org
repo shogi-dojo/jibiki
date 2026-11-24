@@ -1,0 +1,441 @@
+#+TITLE: 積算
+#+JMDICT_ID: 1383050
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せきさん
+#+ROMAJI: sekisan
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1383050-001
+:PROPERTIES:
+:TEXT: 積算
+:END:
+*** Priorities
+- news1
+- nf23
+** Reading rd-1383050-001
+:PROPERTIES:
+:TEXT: せきさん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf23
+
+* Sense s-1383050-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 93e1fbf3bcab2c5a6dbe91dd739d69a8ae3367608af448f1ed47fc8da7f0cb86
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- addition
+- adding up
+** Ukrainian glosses
+*** uk-s-1383050-001-001
+:PROPERTIES:
+:END:
+- text :: підсумовування; додавання; накопичувальний підрахунок
+** Learner notes
+*** note-s-1383050-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і перехідне суру-дієслово (積 — накопичувати + 算 — рахувати). Позначає послідовне додавання величин або підрахунок сумарного значення (наприклад, 積算電力計 — лічильник електроенергії, 積算温度 — сума температур).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1383050-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 電気の使用量を積算して今月の料金を出す。
+- READING :: でんきのしようりょうをせきさんしてこんげつのりょうきんをだす。
+- UK :: Підсумовують обсяг спожитої електроенергії й розраховують оплату за цей місяць.
+- FOCUS :: 積算
+*** ex-1383050-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 建設会社は設計図をもとに、資材や人件費の正確な積算を行った。
+- READING :: けんせつがいしゃはせっけいずをもとに、しざいやじんけんひのせいかくなせきさんをおこなった。
+- UK :: Будівельна компанія на основі проєктних креслень виконала точний кошторисний розрахунок матеріалів і витрат на оплату праці.
+- FOCUS :: 積算
+*** ex-1383050-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 微小な変化を時間軸に沿って積算することで、複雑な曲線が描く面積や移動距離を導き出すことができる。
+- READING :: びしょうなへんかをじかんじくにそってせきさんすることで、ふくざつなきょくせんがえがくめんせきやいどうきょりをみちびきだすことができる。
+- UK :: Шляхом інтегрування нескінченно малих змін уздовж часової осі можна обчислити площу під складною кривою або пройдену відстань.
+- FOCUS :: 積算
+
+* Sense s-1383050-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 2cabeb521e87fe87654a3dc2c82623c404ff873f6cd111e1504cc64b3f285104
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- integration
+** Ukrainian glosses
+*** uk-s-1383050-002-001
+:PROPERTIES:
+:END:
+- text :: інтегрування
+** Learner notes
+*** note-s-1383050-002-001
+:PROPERTIES:
+:END:
+- UK :: Математичний і фізичний термін для позначення операції знаходження інтеграла або сумарного результату безперервного накопичення величини (у сучасній математиці частіше вживається 積分).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1383050-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1bf5a3573e9e25ecec053d9fdd0c938b35358c78de2b5ea60a05dc1cc7d83072
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- estimate
+- quantity survey
+** Ukrainian glosses
+*** uk-s-1383050-003-001
+:PROPERTIES:
+:END:
+- text :: складання кошторису; кошторисний розрахунок; оцінка обсягу робіт
+** Learner notes
+*** note-s-1383050-003-001
+:PROPERTIES:
+:END:
+- UK :: Будівельний та економічний термін: детальний підрахунок кількості матеріалів, трудовитрат і загальної вартості проєкту на основі креслень і специфікацій (наприклад, 工事費の積算 — кошторис будівельних робіт).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1383050-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c48f6cb364b64c2d34728be54c4a44cb326270b5f3ce196609f9299a46156ffb
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-004-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: optellen
+*** en-s-1383050-004-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: totaliseren
+** Ukrainian glosses
+
+* Sense s-1383050-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 67a134565cd77794aeca3a45244006df909b9104f55d7d1986d625e24f9a8030
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-005-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schatten
+*** en-s-1383050-005-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ramen
+*** en-s-1383050-005-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: begroten
+*** en-s-1383050-005-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calculeren
+** Ukrainian glosses
+
+* Sense s-1383050-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: ad4907147ec1d8bb7c7a87624398c6267276d3f9cc5c7bf25039e09dbc8721c0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-006-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: optelling
+*** en-s-1383050-006-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: totalisering
+** Ukrainian glosses
+
+* Sense s-1383050-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 711048cc01239482426ef143f537878494e265c1111444e8f5ee509c1e5a7b99
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-007-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schatting
+*** en-s-1383050-007-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: raming
+*** en-s-1383050-007-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: begroting
+*** en-s-1383050-007-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: calculatie
+** Ukrainian glosses
+
+* Sense s-1383050-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 2e236a7a24389730b748533badd47d6195f026375f921bf7a84d01a5c51b95bc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-008-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: addieren
+*** en-s-1383050-008-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: zusammenrechnen
+** Ukrainian glosses
+
+* Sense s-1383050-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: bc7453b558d866cf6eab0f9a8f2d73d1e96cce4cda23c638f548d8534fa6c2d4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-009-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schätzen
+** Ukrainian glosses
+
+* Sense s-1383050-010
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 10
+:SOURCE_FINGERPRINT: 250b2cd691bd7b815d7a6aee5b6b2d518bd79a989a4185f2efaa5b5450589dfd
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-010-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Addition
+*** en-s-1383050-010-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufstellung
+** Ukrainian glosses
+
+* Sense s-1383050-011
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 11
+:SOURCE_FINGERPRINT: 90a95c04893b6361bba796b42fdc8e8834b46fdc43b6cfdf90d86ede3399dacf
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-011-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Schätzung
+*** en-s-1383050-011-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überschlag
+** Ukrainian glosses
+
+* Sense s-1383050-012
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 12
+:SOURCE_FINGERPRINT: d168d9b8206f918a74c4ab83ea2b9a98ed732026529e154ab199c8fb5fb8a3d0
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-012-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: becslés
+** Ukrainian glosses
+
+* Sense s-1383050-013
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 13
+:SOURCE_FINGERPRINT: b6f7f289d656f729c1c22999fa5de290f258312d8f152a3c2fb2dca81dc568d7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1383050-013-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) подсчитывание, подсчёт; составление сметы
+*** en-s-1383050-013-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} подсчитывать в целом
+*** en-s-1383050-013-003
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) общий подсчёт, итог
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1383050-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1383050-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: せきさん

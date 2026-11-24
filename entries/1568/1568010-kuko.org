@@ -1,0 +1,169 @@
+#+TITLE: 枸杞
+#+JMDICT_ID: 1568010
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くこ
+#+ROMAJI: kuko
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1568010-001
+:PROPERTIES:
+:TEXT: 枸杞
+:END:
+** Reading rd-1568010-001
+:PROPERTIES:
+:TEXT: くこ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1568010-002
+:PROPERTIES:
+:TEXT: クコ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1568010-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5035a0ce4ad487684200e31b4e8c4a8fd18d324ead8aa918ccf676e28aac0920
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Chinese matrimony vine (Lycium chinense)
+- Chinese wolfberry
+- goji
+** Ukrainian glosses
+*** uk-s-1568010-001-001
+:PROPERTIES:
+:END:
+- text :: дереза китайська; ягоди годжі
+** Learner notes
+*** note-s-1568010-001-001
+:PROPERTIES:
+:END:
+- UK :: Назва чагарнику родини пасльонових (Lycium chinense) та його їстівних червоних плодів, популярних у традиційній медицині й кулінарії. На письмі слово зазвичай передають катаканою (クコ) або хіраґаною (くこ), значно рідше — ієрогліфами 枸杞.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1568010-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 庭にクコの木があります。
+- READING :: にわにくこのきがあります。
+- UK :: У садку росте кущ дерези китайської.
+- FOCUS :: クコ
+*** ex-1568010-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: おかゆの上に赤いクコの実をのせます。
+- READING :: おかゆのうえにあかいくこのみをのせます。
+- UK :: Зверху на рисову кашу кладуть червоні ягоди дерези.
+- FOCUS :: クコ
+*** ex-1568010-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: クコの実は漢方や薬膳料理に古くから使われてきた食材だ。
+- READING :: くこのみはかんぽうややくぜんりょうりにふるくからつかわれてきたしょくざいだ。
+- UK :: Плоди дерези китайської — це інгредієнт, який здавна використовують у традиційній медицині та лікувальній кулінарії.
+- FOCUS :: クコ
+
+* Sense s-1568010-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: c5e86856f8f3d2a2c2405d91354fcafee6f7fa5b7fea3e8bd3fc9b89a8f11bb4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568010-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: chinesischer Bocksdorn
+*** en-s-1568010-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Lycium chinense
+** Ukrainian glosses
+
+* Sense s-1568010-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7b45418685b4454141bf54b438797b3c8d60b723b24b5148a309ba720fb4c67c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1568010-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бот.) дереза, Lycium chinense (Mill. (декоративный кустарник)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1568010-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1568010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くこ
+** Accent accent-rd-1568010-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1568010-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 2
+:DROP_AFTER: 2
+:PATTERN: odaka
+:MORA_PATTERN: LH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: くこ

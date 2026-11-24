@@ -1,0 +1,146 @@
+#+TITLE: 野焼き
+#+JMDICT_ID: 1712040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: のやき
+#+ROMAJI: noyaki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-19
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1712040-001
+:PROPERTIES:
+:TEXT: 野焼き
+:END:
+** Written form wf-1712040-002
+:PROPERTIES:
+:TEXT: 野焼
+:END:
+** Reading rd-1712040-001
+:PROPERTIES:
+:TEXT: のやき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1712040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 08413dbd6523d2ddaf9dd1248084d524e11d8b49baed6c42750c9fbde6a587e4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- burning off a field (in early spring)
+** Ukrainian glosses
+*** uk-s-1712040-001-001
+:PROPERTIES:
+:END:
+- text :: випалювання сухої трави на полях (луках); весняний пал
+** Learner notes
+*** note-s-1712040-001-001
+:PROPERTIES:
+:END:
+- UK :: Дієслівний іменник із する (野 — поле, луг + 焼き — випалювання). Означає традиційне весняне випалювання торішньої сухої трави на полях і пасовищах для знищення шкідників та оновлення рослинності; також позначає випалювання кераміки на відкритому вогні без печі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1712040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 春になると草原で野焼きが行われる。
+- READING :: はるになるとそうげんでのやきがおこなわれる。
+- UK :: Коли настає весна, на луках проводять випалювання сухої трави.
+- FOCUS :: 野焼き
+*** ex-1712040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 阿蘇の草原では、景観と生態系を守るために毎年春の野焼きが続けられている。
+- READING :: あそのそうげんでは、けいかんとせいたいけいをまもるためにまいとしはるののやきがつづけられている。
+- UK :: На луках Асо щовесни продовжують випалювати суху траву, щоб зберегти ландшафт і екосистему.
+- FOCUS :: 野焼き
+*** ex-1712040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 農業の担い手が減るなか、安全に野焼きを実施するための人手や防火体制をどう維持するかが地域の課題となっている。
+- READING :: のうぎょうのにないてがへるなか、あんぜんにのやきをじっしするためのひとでやぼうかたいせいをどういじするかがちいきのかだいとなっている。
+- UK :: Поки кількість працівників у сільському господарстві зменшується, перед громадою постає завдання, як зберегти робочі руки та протипожежну безпеку для випалювання полів.
+- FOCUS :: 野焼き
+
+* Sense s-1712040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e2bb7d4a66dfdf2bda0cfa70fd64b5136fd6286966bd97151d54a31404f5cddc
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712040-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: totes Gras auf dem Feld abbrennen
+*** en-s-1712040-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abbrennen von totem Gras auf dem Feld (im Frühjahr)
+** Ukrainian glosses
+
+* Sense s-1712040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: fc65321703c64e74b94847a7458dbc10f7a79a32fe4b83f6b8ea42a63989401e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1712040-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: сжигание прошлогодней травы на поле
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1712040-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1712040-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-19
+:END:
+- reading :: のやき

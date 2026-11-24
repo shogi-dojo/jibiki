@@ -1,0 +1,150 @@
+#+TITLE: 水楢
+#+JMDICT_ID: 2067400
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: みずなら
+#+ROMAJI: mizunara
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2067400-001
+:PROPERTIES:
+:TEXT: 水楢
+:END:
+** Reading rd-2067400-001
+:PROPERTIES:
+:TEXT: みずなら
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-2067400-002
+:PROPERTIES:
+:TEXT: ミズナラ
+:NO_KANJI: true
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2067400-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 49dd70cb894783443e64338f70e051cee26c046c34dae1940ba375b32f7628bc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- uk
+** English glosses
+- Mongolian oak (Quercus mongolica)
+** Ukrainian glosses
+*** uk-s-2067400-001-001
+:PROPERTIES:
+:END:
+- text :: дуб монгольський (Quercus mongolica)
+** Learner notes
+*** note-s-2067400-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник на позначення листопадного дерева роду дуб, поширеного в прохолодних лісах півночі Японії та гірських районів. Деревина містить багато вологи (звідси 水 — «вода»), а в сучасному вжитку назву зазвичай пишуть каною (ミズナラ або みずなら); її цінують для меблів і витримки японського віскі.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2067400-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 山の森に大きな水楢の木があります。
+- READING :: やまのもりにおおきなみずならのきがあります。
+- UK :: У гірському лісі росте великий монгольський дуб.
+- FOCUS :: 水楢
+*** ex-2067400-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この家具は丈夫な水楢の木で作られています。
+- READING :: このかぐはじょうぶなみずならのきでつくられています。
+- UK :: Ці меблі виготовлено з міцної деревини монгольського дуба.
+- FOCUS :: 水楢
+*** ex-2067400-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 水楢の樽で熟成させたウイスキーは、独特の香ばしい風味を持つことで世界的に人気が高い。
+- READING :: みずならのたるでじゅくせいさせたういすきーは、どくとくのこうばしいふうみをもつことでせかいてきににんきがたかい。
+- UK :: Віскі, витриманий у діжках із монгольського дуба, користується популярністю у світі завдяки своєму неповторному ароматному смаку.
+- FOCUS :: 水楢
+
+* Sense s-2067400-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f941ca838ab9a7872cb23e21ed6a76ce1a3857c0fb7e93ec4e6a4394610b6ab5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2067400-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mongoleneiche
+*** en-s-2067400-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Quercus mongolica var. grosseserrata
+** Ukrainian glosses
+
+* Sense s-2067400-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a23e46a8110241b0826940ebd108702536b270b8aaf537b0781b8c1afcb06038
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2067400-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: дуб монгольский, Quercus crispula (Blume.)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2067400-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2067400-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: みずなら

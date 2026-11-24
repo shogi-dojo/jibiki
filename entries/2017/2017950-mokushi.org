@@ -1,0 +1,171 @@
+#+TITLE: 目視
+#+JMDICT_ID: 2017950
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: もくし
+#+ROMAJI: mokushi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2017950-001
+:PROPERTIES:
+:TEXT: 目視
+:END:
+** Reading rd-2017950-001
+:PROPERTIES:
+:TEXT: もくし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2017950-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 78fa722b288cb7dc2f2c2e3a50b0f02f2325c56a14ab221f228089999e341a48
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+** English glosses
+- seeing (with the naked eye)
+- observation
+- visual inspection
+** Ukrainian glosses
+*** uk-s-2017950-001-001
+:PROPERTIES:
+:END:
+- text :: візуальний огляд; візуальне спостереження; огляд неозброєним оком
+** Learner notes
+*** note-s-2017950-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та перехідне дієслово з する; утворене з ієрогліфів 目 («око») і 視 («дивитися»). Широко вживається в техніці, безпеці праці та перевірках (наприклад, 目視検査 — візуальний контроль, 目視で確認する — перевірити наочно без приладів).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2017950-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 橋の安全を目視で確かめる。
+- READING :: はしのあんぜんをもくしでたしかめる。
+- UK :: Безпеку мосту перевіряють візуальним оглядом.
+- FOCUS :: 目視
+*** ex-2017950-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 作業の前に、機械に傷がないか目視で点検してください。
+- READING :: さぎょうのまえに、きかいにきずがないかもくしでてんけんしてください。
+- UK :: Перед початком роботи візуально огляньте механізм на наявність пошкоджень.
+- FOCUS :: 目視
+*** ex-2017950-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 計器の数値だけでなく、現場を直接目視することも重要だ。
+- READING :: けいきのすうちだけでなく、げんばをちょくせつもくしすることもじゅうようだ。
+- UK :: Важливо не лише спиратися на показники приладів, а й безпосередньо оглядати об'єкт неозброєним оком.
+- FOCUS :: 目視
+
+* Sense s-2017950-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 019d9cb94300f2c0f15210f8895b264cadf8f4337ee537f30f7d8300819ef240
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2017950-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sehen mit den Augen
+*** en-s-2017950-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Augenscheinnahme
+*** en-s-2017950-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sichtprüfung
+** Ukrainian glosses
+
+* Sense s-2017950-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2cb3f7eba0be040c09f3fd2f0128dd749e5642a52e5a793a51060af01c9bbf59
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2017950-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: látás
+** Ukrainian glosses
+
+* Sense s-2017950-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6eccd0f40de5d9c33487bfe8dc067be146d000b8786dd9d348e46c9b9017fa3a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2017950-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (кн.) наблюдение
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-2017950-001-001
+:PROPERTIES:
+:TARGET_ID: rd-2017950-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: もくし

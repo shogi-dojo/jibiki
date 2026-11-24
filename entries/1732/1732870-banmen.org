@@ -1,0 +1,172 @@
+#+TITLE: 盤面
+#+JMDICT_ID: 1732870
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばんめん
+#+ROMAJI: banmen
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1732870-001
+:PROPERTIES:
+:TEXT: 盤面
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1732870-001
+:PROPERTIES:
+:TEXT: ばんめん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1732870-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0ce645325dd512e66b57f2b3b38eba3365a36c97138916295c3269b700725a81
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- surface of a board (shogi, go, etc.)
+- (state of) the board
+- development of a game
+** Ukrainian glosses
+*** uk-s-1732870-001-001
+:PROPERTIES:
+:END:
+- text :: поверхня ігрової дошки; позиція на дошці; перебіг партії
+** Learner notes
+*** note-s-1732870-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із 盤 (ігрова дошка) та 面 (поверхня). У настільних іграх на кшталт ґо та шьоґі позначає як саму дошку, так і поточне розташування каменів чи фігур; переносно також означає ситуацію на ділянці подій.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1732870-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二人はじっと盤面を見つめた。
+- READING :: ふたりはじっとばんめんをみつめた。
+- UK :: Вони вдвох пильно вдивлялися в дошку.
+- FOCUS :: 盤面
+*** ex-1732870-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古いレコードの盤面には、細かい傷がいくつか残っていた。
+- READING :: ふるいれこーどのばんめんには、こまかいきずがいくつかのこっていた。
+- UK :: На поверхні старої платівки залишилося кілька дрібних подряпин.
+- FOCUS :: 盤面
+*** ex-1732870-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 終盤に入り、盤面の形勢がわずかに傾いたことで、対局室の空気が一気に張り詰めた。
+- READING :: しゅうばんにはいり、ばんめんのけいせいがわずかにかたむいたことで、たいきょくしつのくうきがいっきにはりつめた。
+- UK :: Наприкінці партії становище на дошці ледь хитнулося, і повітря в ігровій залі миттєво напружилося.
+- FOCUS :: 盤面
+
+* Sense s-1732870-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 34294f5392845975a77222e7943534dc8a08a021fb982d835ee4e9ce8796dd65
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- surface of a record
+** Ukrainian glosses
+*** uk-s-1732870-002-001
+:PROPERTIES:
+:END:
+- text :: поверхня платівки; сторона диска
+** Learner notes
+*** note-s-1732870-002-001
+:PROPERTIES:
+:END:
+- UK :: Технічний або музичний ужиток слова для позначення робочої поверхні грамплатівки чи оптичного диска (CD, DVD), де записано звукову доріжку або дані.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1732870-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 34568ad46ed7a822ea9595ba1d090b4d154b9bd6fceab4afa82f99592aa252f9
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1732870-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oberfläche eines (Schach-, Go- etc.) Brettes
+** Ukrainian glosses
+
+* Sense s-1732870-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6c5cadef07320117e02db4701af22f29f42ec92bc467cfee830b962799287f11
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1732870-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) шахматная доска; (перен.) положение на шахматной доске, ход игры
+*** en-s-1732870-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) сторона пластинки (патефонной)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1732870-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1732870-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ばんめん

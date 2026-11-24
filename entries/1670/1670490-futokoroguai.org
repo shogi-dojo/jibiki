@@ -1,0 +1,147 @@
+#+TITLE: 懐具合
+#+JMDICT_ID: 1670490
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふところぐあい
+#+ROMAJI: futokoroguai
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1670490-001
+:PROPERTIES:
+:TEXT: 懐具合
+:END:
+** Written form wf-1670490-002
+:PROPERTIES:
+:TEXT: ふところ具合
+:END:
+*** Information
+- sK
+** Written form wf-1670490-003
+:PROPERTIES:
+:TEXT: 懐工合
+:END:
+*** Information
+- sK
+** Reading rd-1670490-001
+:PROPERTIES:
+:TEXT: ふところぐあい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1670490-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d30ca21b708257eafefd4035aac1c9cccd263fe3a9bc5e0f2dafc06c3c6220da
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- one's financial situation
+- one's finances
+- state of one's purse
+** Ukrainian glosses
+*** uk-s-1670490-001-001
+:PROPERTIES:
+:END:
+- text :: фінансове становище; стан гаманця
+** Learner notes
+*** note-s-1670490-001-001
+:PROPERTIES:
+:END:
+- UK :: Розмовний іменник; складається з 懐 (пазуха, перен. кишеня або грошові запаси) та 具合 (стан, обставини). Образний вислів на позначення того, скільки грошей людина має в розпорядженні; типові сполучення: 懐具合が寂しい (у кишені порожньо), 懐具合が温かい (при грошах, фінансово забезпечений).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1670490-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 給料日前なので、懐具合がさびしいです。
+- READING :: きゅうりょうびまえなので、ふところぐあいがさびしいです。
+- UK :: Перед днем зарплати в мене порожньо в гаманці.
+- FOCUS :: 懐具合
+*** ex-1670490-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: ボーナスの後なので、今月はみんなの懐具合が温かそうだ。
+- READING :: ぼーなすのあとなので、こんげつはみんなのふところぐあいがあたたかそうだ。
+- UK :: Після премії цього місяця фінансовий стан у всіх, схоже, вельми добрий.
+- FOCUS :: 懐具合
+*** ex-1670490-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 旅行の計画を立てる際には、行き先だけでなく自分の懐具合とも相談する必要がある。
+- READING :: りょこうのけいかくをたてるさいには、いきさきだけでなくじぶんのふところぐあいともそうだんするひつようがある。
+- UK :: Складаючи план подорожі, потрібно зважати не лише на напрямок, а й на власні фінансові можливості.
+- FOCUS :: 懐具合
+
+* Sense s-1670490-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: bf538807149c449092b726673be5bd04d12097cd6013b0412736ef2995c9779e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670490-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: finanzielle Lage
+** Ukrainian glosses
+
+* Sense s-1670490-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 376705f07e3e8c42d03a94b909c304470377d7d2266ef3727e76f4ad17baea47
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1670490-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (см.) ふところつごう
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1670490-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1670490-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 7
+:DROP_AFTER: 5
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ふところぐあい

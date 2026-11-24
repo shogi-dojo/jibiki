@@ -1,0 +1,178 @@
+#+TITLE: 内侍
+#+JMDICT_ID: 1582520
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ないし
+#+ROMAJI: naishi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1582520-001
+:PROPERTIES:
+:TEXT: 内侍
+:END:
+** Reading rd-1582520-001
+:PROPERTIES:
+:TEXT: ないし
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+** Reading rd-1582520-002
+:PROPERTIES:
+:TEXT: ないじ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Information
+- ok
+
+* Sense s-1582520-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: fbd43779608e848ad462c8677a3fa0f5efe3b030ec6154bf9c03bf53fc1bcb55
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- maid of honor
+- maid of honour
+- lady-in-waiting
+** Ukrainian glosses
+*** uk-s-1582520-001-001
+:PROPERTIES:
+:END:
+- text :: фрейліна; придворна дама
+** Learner notes
+*** note-s-1582520-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник на позначення придворної жіночої посади при японському імператорському дворі (первісно — служниці у внутрішніх покоях палацу 内侍司). Слово утворене з 内 («внутрішній») та 侍 («прислуговувати»); окрім основного читання ないし, у деяких контекстах можливе також ないじ.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1582520-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 内侍は宮中で働いていた。
+- READING :: ないしはきゅうちゅうではたらいていた。
+- UK :: Придворна дама працювала в імператорському палаці.
+- FOCUS :: 内侍
+*** ex-1582520-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 平安時代の日記には、天皇に仕える内侍の暮らしが描かれている。
+- READING :: へいあんじだいのにっきには、てんのうにつかえるないしのくらしがえがかれている。
+- UK :: У щоденниках доби Хейан описано побут фрейлін, які служили при імператорові.
+- FOCUS :: 内侍
+*** ex-1582520-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 歴史小説の中で、才知に優れた内侍が朝廷の政局を静かに支える姿が印象的だった。
+- READING :: れきししょうせつのなかで、さいちにすぐれたないしがちょうていのせいきょくをしずかにささえるすがたがいんしょうてきだった。
+- UK :: В історичному романі вразив образ кмітливої придворної дами, яка непомітно підтримувала політичний курс двору.
+- FOCUS :: 内侍
+
+* Sense s-1582520-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 4cac1ce01976f08d9f9bcf83a86c1367875068a567408d99188fec557670cc8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582520-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Hofdame
+** Ukrainian glosses
+
+* Sense s-1582520-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 23708630f6061927495b393e942a64ab140a691fc55099016687eae925928f30
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582520-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: menyasszony tanúja
+*** en-s-1582520-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: nyoszolyólány
+*** en-s-1582520-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: a menyasszony tanúja
+** Ukrainian glosses
+
+* Sense s-1582520-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 0487ebeba013ffb1bd5722fa62fffd4cc308707d825abf76312bd5a66d8ab166
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1582520-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (уст.) фрейлина
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1582520-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1582520-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 3
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: ないし

@@ -1,0 +1,152 @@
+#+TITLE: 特高
+#+JMDICT_ID: 1789120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: とっこう
+#+ROMAJI: tokkou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1789120-001
+:PROPERTIES:
+:TEXT: 特高
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1789120-001
+:PROPERTIES:
+:TEXT: とっこう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1789120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: dd1df467bb3d3f3f5efeacf9f860f5b494303e7cc39f25e98c3e240f55b1a4a1
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Miscellaneous and register
+- hist
+- abbr
+*** Cross-references
+- 特別高等警察
+** English glosses
+- Special Higher Police (1911-1945)
+*** en-s-1789120-001-002
+:PROPERTIES:
+:LANG: eng
+:TYPE: expl
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: police unit controlling political thought and expression
+** Ukrainian glosses
+*** uk-s-1789120-001-001
+:PROPERTIES:
+:END:
+- text :: Особлива вища поліція (Токко); політична поліція довоєнної Японії
+** Learner notes
+*** note-s-1789120-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичне скорочення від 特別高等警察 — підрозділу політичної поліції Японії (1911–1945), що контролював ідеологічні переконання, пресу та громадську діяльність. Структуру було розформовано після Другої світової війни.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1789120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 歴史の授業で特高について学んだ。
+- READING :: れきしのじゅぎょうでとっこうについてまなんだ。
+- UK :: На уроці історії вивчали про Особливу вищу поліцію.
+- FOCUS :: 特高
+*** ex-1789120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 戦前の日本では、特高による厳しい思想統制と言論の弾圧が行われていた。
+- READING :: せんぜんのにほんでは、とっこうによるきびしいしそうとうせいとげんろんのだんあつがおこなわれていた。
+- UK :: У довоєнній Японії Особлива вища поліція здійснювала суворий ідеологічний контроль і придушення свободи слова.
+- FOCUS :: 特高
+*** ex-1789120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 戦時下の文学作品や回想録を読むと、特高の監視に怯えながら創作を続けた作家たちの苦悩が伝わってくる。
+- READING :: せんじかのぶんがくさくひんやかいそうろくをよむと、とっこうのかんしにおびえながらそうさくをつづけたさっかたちのくのうがつたわってくる。
+- UK :: Читаючи літературні твори та спогади воєнного часу, відчуваєш страждання письменників, які продовжували творити під страхом нагляду Особливої вищої поліції.
+- FOCUS :: 特高
+
+* Sense s-1789120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: f7d24e055d3be50abace8a53b03fa7f6af204b9ad06c80b798c58ba9e278d006
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1789120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Geheimpolizei (Abk.)
+** Ukrainian glosses
+
+* Sense s-1789120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1ff32198e67790ac8ce0c2b863acb072390fda328452128e1c7974d861db0aa1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1789120-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ((сокр.) 特高警察) (см.) とっけい【特警】
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1789120-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1789120-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 0
+:PATTERN: heiban
+:MORA_PATTERN: LHHH
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: とっこう

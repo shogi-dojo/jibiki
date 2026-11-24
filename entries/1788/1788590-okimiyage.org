@@ -1,0 +1,179 @@
+#+TITLE: 置き土産
+#+JMDICT_ID: 1788590
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: おきみやげ
+#+ROMAJI: okimiyage
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-22
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1788590-001
+:PROPERTIES:
+:TEXT: 置き土産
+:END:
+*** Priorities
+- news2
+- nf41
+** Written form wf-1788590-002
+:PROPERTIES:
+:TEXT: 置きみやげ
+:END:
+** Reading rd-1788590-001
+:PROPERTIES:
+:TEXT: おきみやげ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf41
+
+* Sense s-1788590-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 8a89be82f482adfd0e940b2464033fb84b7369b756fe7ac962fa47fd215c0c49
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- parting gift
+- remembrance
+- aftereffect
+** Ukrainian glosses
+*** uk-s-1788590-001-001
+:PROPERTIES:
+:END:
+- text :: прощальний подарунок; пам'ятка на прощання; наслідок (слід, залишений по собі)
+** Learner notes
+*** note-s-1788590-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від дієслова 置く (залишати) та 土産 (гостинець, подарунок). Позначає подарунок, залишений на згадку перед від'їздом; у переносному чи іронічному значенні також означає проблеми, борги або наслідки, які хтось залишив по собі (наприклад, 台風の置き土産 — наслідки тайфуну).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1788590-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 友人から置き土産をもらった。
+- READING :: ゆうじんからおきみやげをもらった。
+- UK :: Я отримав від друга подарунок на прощання.
+- FOCUS :: 置き土産
+*** ex-1788590-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 転勤する同僚が、机の上に小さな置き土産を残していった。
+- READING :: てんきんするどうりょうが、つくえのうえにちいさなおきみやげをのこしていった。
+- UK :: Колега, який переводився до іншого відділення, залишив на столі маленький прощальний подарунок.
+- FOCUS :: 置き土産
+*** ex-1788590-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 前任者が残した大きな借金という置き土産のせいで、新しい社長は就任早々苦労している。
+- READING :: ぜんにんしゃがのこしたおおきなしゃっきんというおきみやげのせいで、あたらしいしゃちょうはしゅうにんそうそうくろうしている。
+- UK :: Через «прощальний подарунок» у вигляді величезного боргу, який залишив попередник, новий президент компанії має клопіт із перших днів на посаді.
+- FOCUS :: 置き土産
+
+* Sense s-1788590-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 786fe3e1aa20065e76ab4353d42a0dc4780e716e961a896cdc6ea5103b4a8e4a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1788590-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: afscheidscadeau
+*** en-s-1788590-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: souvenir
+*** en-s-1788590-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {fig.} nalatenschap
+** Ukrainian glosses
+
+* Sense s-1788590-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2bde35b6708579f4ed900e4d464c3f2dbece6440c7d4c665ee1a8d82e5615c87
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1788590-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Abschiedsgeschenk (zurückgelassenes)Andenken (zurückgelassenes)Souvenir
+** Ukrainian glosses
+
+* Sense s-1788590-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 224c4ac88e6669aa341908cb006445e3fc15b2af39c207f9a0300be32a1a29e4
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1788590-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: подарок на память
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1788590-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1788590-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 5
+:DROP_AFTER: 3
+:PATTERN: nakadaka
+:MORA_PATTERN: LHHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-22
+:END:
+- reading :: おきみやげ

@@ -1,0 +1,184 @@
+#+TITLE: まち針
+#+JMDICT_ID: 1769890
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: まちばり
+#+ROMAJI: machibari
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1769890-001
+:PROPERTIES:
+:TEXT: まち針
+:END:
+** Written form wf-1769890-002
+:PROPERTIES:
+:TEXT: 待ち針
+:END:
+** Written form wf-1769890-003
+:PROPERTIES:
+:TEXT: 待針
+:END:
+** Reading rd-1769890-001
+:PROPERTIES:
+:TEXT: まちばり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1769890-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 42f9e4348a11e6d6d090bb6ced882ed354081b3a871699ebdf1bead247b4b02a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- marking pin
+** Ukrainian glosses
+*** uk-s-1769890-001-001
+:PROPERTIES:
+:END:
+- text :: кравецька шпилька; шпилька для намічування
+** Learner notes
+*** note-s-1769890-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник зі сфери шиття та рукоділля; позначає тонку шпильку з круглою головкою для тимчасового скріплення тканини. На письмі також уживають варіанти 待ち針 й 待針.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1769890-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 母はまち針を使っています。
+- READING :: はははまちばりをつかっています。
+- UK :: Мама користується кравецькими шпильками.
+- FOCUS :: まち針
+*** ex-1769890-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 布がずれないように、まち針で仮止めをした。
+- READING :: ぬのがずれないように、まちばりでかりどめをした。
+- UK :: Щоб тканина не зсунулася, її тимчасово закріпили шпильками для намічування.
+- FOCUS :: まち針
+*** ex-1769890-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: ミシンをかける前に、まち針を抜き忘れると針が折れることがある。
+- READING :: みしんをかけるまえに、まちばりをぬきわすれるとはりがおれることがある。
+- UK :: Якщо перед шиттям на машинці забути витягнути кравецьку шпильку, голка може зламатися.
+- FOCUS :: まち針
+
+* Sense s-1769890-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 8ba664b6b071482889bc94c033b542a6e51087e47e96802480e50f56e84954b8
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1769890-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: markeerspeld
+*** en-s-1769890-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kopspeld
+** Ukrainian glosses
+
+* Sense s-1769890-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 6d82d137df6ea1512339006870393d0df80ff6dd438672c719460d67b301ec7c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1769890-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Stecknadel
+** Ukrainian glosses
+
+* Sense s-1769890-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c5d7d18c99dc48e8ef266a9dc1dc9da6c608fcc354f2459bb19644e57091448e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1769890-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: булавки для намётки (при шитье)
+** Ukrainian glosses
+
+* Pronunciation
+** Accent accent-rd-1769890-001-001
+:PROPERTIES:
+:TARGET_ID: rd-1769890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 1
+:PATTERN: atamadaka
+:MORA_PATTERN: HLLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: まちばり
+** Accent accent-rd-1769890-001-002
+:PROPERTIES:
+:TARGET_ID: rd-1769890-001
+:SYSTEM: Tokyo
+:MORA_COUNT: 4
+:DROP_AFTER: 2
+:PATTERN: nakadaka
+:MORA_PATTERN: LHLL
+:CONTEXT: lexical
+:SOURCE_ID: kanjium
+:SOURCE_VERSION: 8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6
+:SOURCE_URL: https://github.com/mifunetoshiro/kanjium/blob/8a0cdaa16d64a281a2048de2eee2ec5e3a440fa6/data/source_files/raw/accents.txt
+:LICENSE: CC-BY-SA-4.0
+:STATUS: imported
+:VERIFIED_AT: 2026-11-24
+:END:
+- reading :: まちばり
