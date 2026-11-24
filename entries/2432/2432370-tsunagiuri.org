@@ -1,0 +1,103 @@
+#+TITLE: つなぎ売り
+#+JMDICT_ID: 2432370
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: つなぎうり
+#+ROMAJI: tsunagiuri
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-24
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-2432370-001
+:PROPERTIES:
+:TEXT: つなぎ売り
+:END:
+** Written form wf-2432370-002
+:PROPERTIES:
+:TEXT: 繋ぎ売り
+:END:
+** Reading rd-2432370-001
+:PROPERTIES:
+:TEXT: つなぎうり
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-2432370-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 72d3275040ddb469f130c9477a13573cfdd016fcfbfa89cd8268dec21a7b0772
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- finc
+** English glosses
+- hedging
+- hedge selling
+** Ukrainian glosses
+*** uk-s-2432370-001-001
+:PROPERTIES:
+:END:
+- text :: хеджування (продажем); страхувальний продаж на біржі
+** Learner notes
+*** note-s-2432370-001-001
+:PROPERTIES:
+:END:
+- UK :: Біржовий та фінансовий іменник, утворений від 繋ぐ (зв'язувати, страхувати) та 売り (продаж). Позначає продаж цінних паперів або ф'ючерсів для захисту наявного портфеля від ризику падіння цін.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-2432370-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 株価の下落に備えてつなぎ売りを行う。
+- READING :: かぶかのげらくにそなえてつなぎうりをおこなう。
+- UK :: Провести хеджувальний продаж на випадок падіння курсу акцій.
+- FOCUS :: つなぎ売り
+*** ex-2432370-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この投資家はリスクを抑えるため、現物株を保有しつつ先物でつなぎ売りをしている。
+- READING :: このとうしかはりすくをおさえるため、げんぶつかぶをほゆうしつつさきものでつなぎうりをしている。
+- UK :: Щоб стримати ризики, цей інвестор тримає реальні акції й водночас хеджує позицію продажем ф'ючерсів.
+- FOCUS :: つなぎ売り
+*** ex-2432370-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 市場の先行きが不透明な局面では、利益を確定させる手段としてつなぎ売りが活用される。
+- READING :: しじょうのさきゆきがふとうめいなきょくめんでは、りえきをかくていさせるしゅだんとしてつなぎうりがかつようされる。
+- UK :: Коли перспективи ринку невизначені, хеджувальний продаж застосовують як спосіб зафіксувати прибуток.
+- FOCUS :: つなぎ売り
+
+* Sense s-2432370-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 5e96a270cc6637270ae5e094d50c74c3a841071b2f819a15a918be73f6177977
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-2432370-002-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (бирж.) хеджирование
+** Ukrainian glosses
