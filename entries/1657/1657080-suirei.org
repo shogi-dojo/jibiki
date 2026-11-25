@@ -1,0 +1,175 @@
+#+TITLE: 水冷
+#+JMDICT_ID: 1657080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: すいれい
+#+ROMAJI: suirei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-25
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1657080-001
+:PROPERTIES:
+:TEXT: 水冷
+:END:
+*** Priorities
+- news2
+- nf44
+** Reading rd-1657080-001
+:PROPERTIES:
+:TEXT: すいれい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf44
+
+* Sense s-1657080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bd8c5f65f52ef5536be46b3561f55cef1d256cbe635501949acb415b6c28412e
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- adj-no
+** English glosses
+- water cooling
+** Ukrainian glosses
+*** uk-s-1657080-001-001
+:PROPERTIES:
+:END:
+- text :: водяне охолодження, рідинне охолодження
+** Learner notes
+*** note-s-1657080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і но-прикметник (від 水 «вода» і 冷 «охолодження»; протилежне до 空冷 «повітряне охолодження»). Технічний термін, що описує систему відведення тепла від двигуна, комп'ютерного процесора чи промислового обладнання за допомогою циркуляції води.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1657080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: このエンジンは水冷式です。
+- READING :: このえんじんはすいれいしきです。
+- UK :: Цей двигун має водяне охолодження.
+- FOCUS :: 水冷
+*** ex-1657080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 静音性を重視して、水冷のパソコンを組み立てた。
+- READING :: せいおんせいをじゅうしして、すいれいのぱそこんをくみたてた。
+- UK :: Зважаючи на тиху роботу, я зібрав комп'ютер із водяним охолодженням.
+- FOCUS :: 水冷
+*** ex-1657080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 空冷に比べて水冷は冷却効率が高く、長時間の高負荷作業でも安定した性能を保ちやすい。
+- READING :: くうれいにくらべてすいれいはれいきゃくこうりつがたかく、ちょうじかんのこうふかさぎょうでもあんていしたせいのうをたもちやすい。
+- UK :: Порівняно з повітряним, водяне охолодження має вищу ефективність і дає змогу легше зберігати стабільну продуктивність навіть під тривалим високим навантаженням.
+- FOCUS :: 水冷
+
+* Sense s-1657080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6b9aea66bdfb6fb34b968b64744ac76953eddea1dad8f75fc35edc935b5cc548
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657080-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterkoeling
+** Ukrainian glosses
+
+* Sense s-1657080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 556d4341a99011d464b2601e896e7dfbd752e71c09589ae1e5999cab2b344d62
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657080-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserkühlung
+** Ukrainian glosses
+
+* Sense s-1657080-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 84eb8504740c4908b14b992dc38e2060bb2204adcdfcd099113d45109c5dda89
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657080-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vízhűtés
+** Ukrainian glosses
+
+* Sense s-1657080-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 1b2c240055825ba07362d786baac361a9626fbe00ef1079e2d9c74a680f9c405
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657080-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (тех.) водяное охлаждение
+** Ukrainian glosses
+
+* Sense s-1657080-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 335ac071d725aed2846375bb9d3e4039f31103733ed97be97f64070144364714
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1657080-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kylvatten
+** Ukrainian glosses
