@@ -1,0 +1,182 @@
+#+TITLE: 取水
+#+JMDICT_ID: 1659020
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しゅすい
+#+ROMAJI: shusui
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1659020-001
+:PROPERTIES:
+:TEXT: 取水
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1659020-001
+:PROPERTIES:
+:TEXT: しゅすい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1659020-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e5ecda4914fc22e444225cccab85d0b7694ed60e7377972466b7e4c58f68f879
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vt
+- vi
+** English glosses
+- drawing water from river or lake
+- water intake
+** Ukrainian glosses
+*** uk-s-1659020-001-001
+:PROPERTIES:
+:END:
+- text :: водозабір; забирання води (з річки, озера)
+** Learner notes
+*** note-s-1659020-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник і дієслово з する (取水する — «забирати воду»), утворене з 取 («брати») та 水 («вода»). Уживається в гідротехніці, сільському господарстві та новинах про водопостачання; похідні слова — 取水口 («водозабірний отвір») і 取水制限 («обмеження водозабору»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1659020-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この川から水道用の水を取水しています。
+- READING :: このかわからすいどうようのみずをしゅすいしています。
+- UK :: З цієї річки здійснюють водозабір для водопроводу.
+- FOCUS :: 取水
+*** ex-1659020-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 少雨が続いてダムの貯水率が下がったため、自治体による取水制限が始まった。
+- READING :: しょううがつづいてだむのちょすいりつがさがったため、じちたいによるしゅすいせいげんがはじまった。
+- UK :: Через тривалу нестачу дощів рівень води у водосховищі впав, тому місцева влада запровадила обмеження водозабору.
+- FOCUS :: 取水
+*** ex-1659020-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 浄水場の近くには川から安定した量を取り込むための大きな取水設備が設けられている。
+- READING :: じょうすいじょうのちかくにはかわからあんていしたりょうをとりこむためのおおきなしゅすいせつびがもうけられている。
+- UK :: Поблизу водоочисної станції споруджено велике водозабірне обладнання для стабільного забору води з річки.
+- FOCUS :: 取水
+
+* Sense s-1659020-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: e54dcaa71a1b04b0d284977543de4c9bc23138461029bef31f353988f317b791
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1659020-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: waterwinning
+*** en-s-1659020-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: watervang
+*** en-s-1659020-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: water winnen
+** Ukrainian glosses
+
+* Sense s-1659020-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: de21f18b19927824e02f58c5ee50bcd499a731be743b5f4c98e1f342edcf118c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1659020-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wassereinlass
+*** en-s-1659020-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasserentnahme
+*** en-s-1659020-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasser entnehmen
+*** en-s-1659020-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wasser einlassen
+** Ukrainian glosses
+
+* Sense s-1659020-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 8d7e2e8db5508e680496b9da939d778908b6b75d5a0a75357809d1fd31ad2f69
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1659020-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: забор воды
+** Ukrainian glosses
