@@ -1,0 +1,252 @@
+#+TITLE: 極小
+#+JMDICT_ID: 1240330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょくしょう
+#+ROMAJI: kyokushou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1240330-001
+:PROPERTIES:
+:TEXT: 極小
+:END:
+*** Priorities
+- news2
+- nf40
+** Reading rd-1240330-001
+:PROPERTIES:
+:TEXT: きょくしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf40
+** Reading rd-1240330-002
+:PROPERTIES:
+:TEXT: ごくしょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1240330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 1b94f576a707e0b3351000aa89066a942646ca2d1f9d60b22911eb2e44e4a95a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- adj-na
+- adj-no
+- n
+** English glosses
+- minimum
+- minuscule
+** Ukrainian glosses
+*** uk-s-1240330-001-001
+:PROPERTIES:
+:END:
+- text :: мінімальний; мізерний; крихітний
+** Learner notes
+*** note-s-1240330-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник та означення на -な або -の (від 極 — крайній, граничний та 小 — малий), що позначає надзвичайно малий розмір, кількість або ступінь чогось (антонім — 極大). Має також читання ごくしょう, поширеніше в побуті; формально-книжне слово, вживане в науці, техніці й описах мініатюрних об'єктів.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1240330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 顕微鏡で極小の生き物を観察する。
+- READING :: けんびきょうできょくしょうのいきものをかんさつする。
+- UK :: Спостерігати в мікроскоп за крихітними організмами.
+- FOCUS :: 極小
+*** ex-1240330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 実験の誤差を極小に抑えるために、温度を一定に保った。
+- READING :: じっけんのごさをきょくしょうにおさえるために、おんどをいっていにたもった。
+- UK :: Щоб звести похибку експерименту до мінімуму, температуру підтримували сталою.
+- FOCUS :: 極小
+*** ex-1240330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 関数のグラフが下に凸の谷を描くとき、その底にあたる点が極小となる。
+- READING :: かんすうのぐらふがしたにとつのたにをえがくとき、そのそこにあたるてんがきょくしょうとなる。
+- UK :: Коли графік функції утворює впадину, опуклу донизу, точка в її найнижчій частині є точкою локального мінімуму.
+- FOCUS :: 極小
+
+* Sense s-1240330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 007b5691f1b5a6a33d969e680bfb03621c13eb5928ec2b6b9ee13da05d9a3bfb
+:END:
+** Applies to forms
+*** Written forms
+- *
+*** Readings
+- きょくしょう
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- local minimum
+** Ukrainian glosses
+*** uk-s-1240330-002-001
+:PROPERTIES:
+:END:
+- text :: локальний мінімум (у математиці)
+** Learner notes
+*** note-s-1240330-002-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (математичний аналіз), що позначає значення функції, яке є найменшим у певному околі точки, на відміну від глобального мінімуму (最小値). Утворює сполучення 極小値 (значення локального мінімуму) та 極小点 (точка локального мінімуму).
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1240330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9c7ba8e4fcbd67c607925e5a5a69187f4247af580dfea89bc7e4006ab7963798
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1240330-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: minimal
+*** en-s-1240330-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kleinst
+*** en-s-1240330-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Minimal…
+*** en-s-1240330-003-004
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: infinitesimal
+*** en-s-1240330-003-005
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mikroskopisch
+*** en-s-1240330-003-006
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: winzig
+*** en-s-1240330-003-007
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Minimum
+** Ukrainian glosses
+
+* Sense s-1240330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ace54ebcde85e74967511306acbddfd40a7bb2b5fe982863cd68a0feb628e09e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1240330-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Winzigkeit
+*** en-s-1240330-004-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Winzigkeit
+** Ukrainian glosses
+
+* Sense s-1240330-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fcc7f96d9bc5daad51343a88fc5446fcd1b468bbfec4f449216c7485639edc17
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1240330-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: : {～[の]} бесконечно малый, минимальный
+** Ukrainian glosses
+
+* Sense s-1240330-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 0fb56ef6be9fccbd30009abf35d0cd93de8b9ce18eef6ecf52c7a262a983f325
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1240330-006-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mínimo
+** Ukrainian glosses
