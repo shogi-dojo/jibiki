@@ -1,0 +1,137 @@
+#+TITLE: 叢立ち
+#+JMDICT_ID: 1399080
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: そうだち
+#+ROMAJI: soudachi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1399080-001
+:PROPERTIES:
+:TEXT: 叢立ち
+:END:
+** Written form wf-1399080-002
+:PROPERTIES:
+:TEXT: 総立ち
+:END:
+*** Priorities
+- news2
+- nf29
+** Written form wf-1399080-003
+:PROPERTIES:
+:TEXT: 群立ち
+:END:
+** Reading rd-1399080-001
+:PROPERTIES:
+:TEXT: そうだち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 総立ち
+*** Priorities
+- news2
+- nf29
+** Reading rd-1399080-002
+:PROPERTIES:
+:TEXT: むらだち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 叢立ち
+- 群立ち
+
+* Sense s-1399080-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2b5ab88fe79ec7e8210ab57ad9e459bc21b567649c4d39c4a1853930056c25c2
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- standing in a group
+- standing up in unison
+** Ukrainian glosses
+*** uk-s-1399080-001-001
+:PROPERTIES:
+:END:
+- text :: одночасне вставання (усіх присутніх); згуртоване підведення з місць
+** Learner notes
+*** note-s-1399080-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений від основи дієслова 立つ (вставати); у сучасному письмі поряд із 叢立ち частіше трапляється написання 総立ち (від 総 — усі разом). Описує мить, коли вся аудиторія, глядачі чи учасники зборів одночасно підводяться зі своїх місць від захвату, обурення чи на знак пошани.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1399080-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 観客が叢立ちになりました。
+- READING :: かんきゃくがそうだちになりました。
+- UK :: Глядачі одночасно підвелися з місць.
+- FOCUS :: 叢立ち
+*** ex-1399080-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 感動的な演奏が終わると、会場の聴衆は叢立ちになって拍手を送った。
+- READING :: かんどうてきなえんそうがおわると、かいじょうのちょうしゅうはそうだちになってはくしゅをおくった。
+- UK :: Щойно закінчився зворушливий виступ, слухачі в залі одностайно підвелися й зааплодували.
+- FOCUS :: 叢立ち
+*** ex-1399080-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 試合の終了間際に逆転ゴールが決まった瞬間、応援席のファンが一斉に叢立ちとなって歓声を上げた。
+- READING :: しあいのしゅうりょうまぎわにぎゃくてんごーるがきまったしゅんかん、おうえんせきのふぁんがいっせいにそうだちとなってかんせいをあげた。
+- UK :: У ту мить, коли наприкінці матчу був забитий переможний гол, уболівальники на трибунах усі разом зірвалися на ноги й радісно закричали.
+- FOCUS :: 叢立ち
+
+* Sense s-1399080-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6633cd02e9eb8406da4f6297d0d0e3a80dd7bd18cdf382ac45fa3e3d8fa666be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1399080-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gemeinsames Aufstehen von den Sitzplätzen
+** Ukrainian glosses
+
+* Sense s-1399080-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 845d06a20bc190b9fbeb57f847514bc656284ad3f37495547b5183a86585381e
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1399080-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: одновременное вставание [всех присутствующих]
+** Ukrainian glosses
