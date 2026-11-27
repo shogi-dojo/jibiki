@@ -1,0 +1,182 @@
+#+TITLE: 二次方程式
+#+JMDICT_ID: 1461920
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: にじほうていしき
+#+ROMAJI: nijihouteishiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1461920-001
+:PROPERTIES:
+:TEXT: 二次方程式
+:END:
+** Written form wf-1461920-002
+:PROPERTIES:
+:TEXT: ２次方程式
+:END:
+*** Information
+- sK
+** Reading rd-1461920-001
+:PROPERTIES:
+:TEXT: にじほうていしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1461920-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2bdbb0f7ad64cc012a90965c03cfb94b42c343d5e15880c7f07f00a9e8c65581
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- quadratic equation
+** Ukrainian glosses
+*** uk-s-1461920-001-001
+:PROPERTIES:
+:END:
+- text :: квадратне рівняння
+** Learner notes
+*** note-s-1461920-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін, утворений із 二次 («другий степінь») та 方程式 («рівняння»). Позначає алгебраїчне рівняння другого степеня з одним або кількома невідомими, яке вивчають у середній школі (наприклад, через формулу коренів 解の公式).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1461920-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日の数学で二次方程式を習いました。
+- READING :: きょうのすうがくでにじほうていしきをならいました。
+- UK :: На сьогоднішньому уроці математики ми вивчали квадратні рівняння.
+- FOCUS :: 二次方程式
+*** ex-1461920-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 因数分解を使えば、この二次方程式は簡単に解ける。
+- READING :: いんすうぶんかいをつかえば、このにじほうていしきはかんたんにとける。
+- UK :: Якщо скористатися розкладанням на множники, це квадратне рівняння розв'язується легко.
+- FOCUS :: 二次方程式
+*** ex-1461920-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 判別式を調べることで、二次方程式がいくつの実数解を持つかがわかる。
+- READING :: はんべつしきをしらべることで、にじほうていしきがいくつのじっすうかいをもつかがわかる。
+- UK :: Дослідивши дискримінант, можна визначити, скільки дійсних коренів має квадратне рівняння.
+- FOCUS :: 二次方程式
+
+* Sense s-1461920-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: de13da345f75c0f8bd5e0733b898ba95290eb881bd15aabadbdb80d83c9ef891
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1461920-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {wisk.} kwadratische vergelijking
+*** en-s-1461920-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kwadraatsvergelijking
+*** en-s-1461920-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vierkantsvergelijking
+*** en-s-1461920-002-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: vergelijking van de tweede graad
+** Ukrainian glosses
+
+* Sense s-1461920-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a743c2363b22b9dd79d42299c61819409d3b9508c965676708ab86f61fa0e0e3
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1461920-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: quadratische Gleichung
+** Ukrainian glosses
+
+* Sense s-1461920-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 39f51a9a99262da79fc2a4753e7aa49f3303123a36c6efdf2c823c85218f0e03
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1461920-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: másodfokú egyenlet
+** Ukrainian glosses
+
+* Sense s-1461920-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a9859d30b6b88ad92be646460ba08958502b94ba7eb837abd11e2379a6b56d91
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1461920-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) квадратное уравнение, уравнение второй степени
+** Ukrainian glosses
