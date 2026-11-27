@@ -1,0 +1,142 @@
+#+TITLE: 賃借人
+#+JMDICT_ID: 1942880
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ちんしゃくにん
+#+ROMAJI: chinshakunin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1942880-001
+:PROPERTIES:
+:TEXT: 賃借人
+:END:
+** Reading rd-1942880-001
+:PROPERTIES:
+:TEXT: ちんしゃくにん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1942880-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 0b5ec0d96cc3693c859a8bbf7ca89f06ad9347236b7f45998414e02fc8fd75eb
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- hirer
+- lessee
+- leaseholder
+** Ukrainian glosses
+*** uk-s-1942880-001-001
+:PROPERTIES:
+:END:
+- text :: орендар, наймач
+** Learner notes
+*** note-s-1942880-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний та офіційно-діловий іменник, утворений із 賃借 (оренда, найм за плату) та суфікса 人 (особа). Позначає сторону договору оренди, яка бере в користування нерухомість, землю або майно за орендну плату; парне поняття для власника, що здає майно в оренду, — 賃貸人 (орендодавець).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1942880-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 契約書に賃借人の名前を書きます。
+- READING :: けいやくしょにちんしゃくにんのなまえをかきます。
+- UK :: У договір вписують ім'я орендаря.
+- FOCUS :: 賃借人
+*** ex-1942880-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この物件では、賃借人が無断で部屋を他人に貸すことは禁止されている。
+- READING :: このぶっけんでは、ちんしゃくにんがむだんでへやをたにんにかすことはきんしされている。
+- UK :: У цьому приміщенні орендареві заборонено здавати кімнату іншим особам без дозволу.
+- FOCUS :: 賃借人
+*** ex-1942880-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 法律上、賃借人には住居を適切に管理し、退去時に原状回復を行う義務がある。
+- READING :: ほうりつじょう、ちんしゃくにんにはじゅうきょをてきせつにかんりし、たいきょじにげんじょうかいふくをおこなうぎむがある。
+- UK :: За законом наймач зобов'язаний належно утримувати житло та повернути його в початковому стані після виїзду.
+- FOCUS :: 賃借人
+
+* Sense s-1942880-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 7a110b1a7be08dc764f4a82f2f4e2ca34eb6bdad36ec6bcb03443daeaafe94f5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942880-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Mieter
+*** en-s-1942880-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pächter
+** Ukrainian glosses
+
+* Sense s-1942880-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: a48a3065a6f45c8e959a7394f88f02c6afcd1cd8fc70fdefd6c92312b2e5da8a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942880-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: bérlő
+** Ukrainian glosses
+
+* Sense s-1942880-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 11ca6dca7e1e4772506e37d48ddb5dc0e695ec2f5107ec4223e11cfaa3485326
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1942880-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: арендатор (земельного участка); съёмщик (дома)
+** Ukrainian glosses
