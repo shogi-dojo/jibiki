@@ -1,0 +1,128 @@
+#+TITLE: 税目
+#+JMDICT_ID: 1802600
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ぜいもく
+#+ROMAJI: zeimoku
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1802600-001
+:PROPERTIES:
+:TEXT: 税目
+:END:
+*** Priorities
+- news2
+- nf32
+** Reading rd-1802600-001
+:PROPERTIES:
+:TEXT: ぜいもく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf32
+
+* Sense s-1802600-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: e4852dd634c9de0fae4be7b2b8c40a708e805bbcb246c563400a4afe96c410e9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- items of taxation
+** Ukrainian glosses
+*** uk-s-1802600-001-001
+:PROPERTIES:
+:END:
+- text :: вид податку; стаття оподаткування
+** Learner notes
+*** note-s-1802600-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і фінансовий термін (税 — «податок», 目 — «пункт, категорія»), що позначає окремі категорії податкових зборів (наприклад, 所得税 — податок на прибуток, 消費税 — споживчий податок). Уживається переважно в офіційних документах, податкових формах та економічних оглядах.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1802600-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 日本の税目にはいろいろな種類があります。
+- READING :: にほんのぜいもくにはいろいろなしゅるいがあります。
+- UK :: У Японії існує багато різних видів податків.
+- FOCUS :: 税目
+*** ex-1802600-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新しい法案では、いくつかの税目の統合が提案されている。
+- READING :: あたらしいほうあんでは、いくつかのぜいもくのとうごうがていあんされている。
+- UK :: У новому законопроєкті пропонується об'єднати кілька податкових категорій.
+- FOCUS :: 税目
+*** ex-1802600-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 経済状況の変化に合わせて税目を見直し、公平な税制を築くことが求められている。
+- READING :: けいざいじょうきょうのへんかにあわせてぜいもくをみなおし、こうへいなぜいせいをきずくことがもとめられている。
+- UK :: Вимагається переглянути перелік податків відповідно до змін економічної ситуації та побудувати справедливу податкову систему.
+- FOCUS :: 税目
+
+* Sense s-1802600-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 736a47e89fac3a721baf64ee595e8104d86589cb62ad411ca33f21c9a4cf9c40
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1802600-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerrubrik
+*** en-s-1802600-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Steuerposten
+** Ukrainian glosses
+
+* Sense s-1802600-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 70ada672854fa0d3a2195f4a131cf8d04dea232d75f3be8e6fbb6625697e414f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1802600-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: статья тарифа; вид налога
+** Ukrainian glosses
