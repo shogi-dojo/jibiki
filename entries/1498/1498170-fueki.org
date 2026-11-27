@@ -1,0 +1,179 @@
+#+TITLE: 賦役
+#+JMDICT_ID: 1498170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふえき
+#+ROMAJI: fueki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1498170-001
+:PROPERTIES:
+:TEXT: 賦役
+:END:
+** Written form wf-1498170-002
+:PROPERTIES:
+:TEXT: 夫役
+:END:
+** Reading rd-1498170-001
+:PROPERTIES:
+:TEXT: ふえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 賦役
+** Reading rd-1498170-002
+:PROPERTIES:
+:TEXT: ぶえき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- 夫役
+** Reading rd-1498170-003
+:PROPERTIES:
+:TEXT: ぶやく
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1498170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3bb8d07415a2464bf803d78a38dda9b42dd29b934f617b85f9f630f42b9efd35
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- slave labour
+- slave labor
+- compulsory service
+- forced labour
+- forced labor
+- exacted service
+** Ukrainian glosses
+*** uk-s-1498170-001-001
+:PROPERTIES:
+:END:
+- text :: примусова праця; трудова повинність; панщина
+** Learner notes
+*** note-s-1498170-001-001
+:PROPERTIES:
+:END:
+- UK :: Історичний іменник для позначення безоплатної праці чи робіт, до яких влада або феодали залучали населення (також вживається форма 夫役 із читаннями ぶえき чи ぶやく). Зазвичай трапляється в історичному контексті у висловах 賦役を課す (накладати трудову повинність) або 賦役に駆り出される.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1498170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 村人たちは城の工事のため、重い賦役を命じられた。
+- READING :: むらびとたちはしろのこうじのため、おもいふえきをめいじられた。
+- UK :: Селянам наказали відбувати важку трудову повинність на будівництві замку.
+- FOCUS :: 賦役
+*** ex-1498170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 古代の国家では、農民に税だけでなく道路や堤防を造る賦役も課されていた。
+- READING :: こだいのこっかでは、のうみんにぜいだけでなくどうろやていぼうをつくるふえきもかされていた。
+- UK :: У давніх державах на селян накладали не лише податки, а й повинність будувати дороги та дамби.
+- FOCUS :: 賦役
+*** ex-1498170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長引く戦乱のさなか、領主による過酷な賦役への不満が各地で高まり、ついに一揆へと発展した。
+- READING :: ながびくせんらんのさなか、りょうしゅによるかこくなふえきへのふまんがかくちでたかまり、ついにいっきへとはってんした。
+- UK :: Серед затяжних воєн невдоволення жорстокою примусовою працею від сеньйора зростало по всій окрузі й зрештою переросло в селянське повстання.
+- FOCUS :: 賦役
+
+* Sense s-1498170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: ef600df300e758a11d16825a745ef5539524c62f6b9ae046c98cf0bcbba8daff
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498170-002-001
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: corvée
+*** en-s-1498170-002-002
+:PROPERTIES:
+:LANG: fre
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: travail obligatoire
+** Ukrainian glosses
+
+* Sense s-1498170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2b4ae8e1e19223eb7bb71787d014b88ace1c0029005314ad7767bde86f23ed65
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498170-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Zwangsarbeit
+*** en-s-1498170-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Frondienst
+*** en-s-1498170-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Fronarbeit
+** Ukrainian glosses
+
+* Sense s-1498170-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: b37a6f06fd5544c8bd9785c2ad5cb31b16100be1a448adb41c384a4b46aaf1c5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1498170-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ист.) земельный налог и трудовая повинность
+** Ukrainian glosses
