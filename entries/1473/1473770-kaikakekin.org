@@ -1,0 +1,202 @@
+#+TITLE: 買掛金
+#+JMDICT_ID: 1473770
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: かいかけきん
+#+ROMAJI: kaikakekin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1473770-001
+:PROPERTIES:
+:TEXT: 買掛金
+:END:
+** Written form wf-1473770-002
+:PROPERTIES:
+:TEXT: 買い掛け金
+:END:
+** Reading rd-1473770-001
+:PROPERTIES:
+:TEXT: かいかけきん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1473770-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3de946ee0e26166dadc0e5795e24703402a090b846d469c04ebea4312b41a55a
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- accounts payable
+** Ukrainian glosses
+*** uk-s-1473770-001-001
+:PROPERTIES:
+:END:
+- text :: кредиторська заборгованість (за поставлені товари чи послуги)
+** Learner notes
+*** note-s-1473770-001-001
+:PROPERTIES:
+:END:
+- UK :: Бухгалтерсько-економічний іменник, що позначає суму, яку підприємство винне постачальникам за вже отримані в кредит товари, сировину чи послуги. Протиставляється 売掛金 (дебіторська заборгованість — кошти, які винні самому підприємству).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1473770-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今月の買掛金を支払った。
+- READING :: こんげつのかいかけきんをしはらった。
+- UK :: Цього місяця ми сплатили кредиторську заборгованість.
+- FOCUS :: 買掛金
+*** ex-1473770-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 仕入れが増えたため、期末の買掛金が大きくなった。
+- READING :: しいれがふえたため、きまつのかいかけきんがおおきくなった。
+- UK :: Через зростання закупівель наприкінці звітного періоду кредиторська заборгованість збільшилася.
+- FOCUS :: 買掛金
+*** ex-1473770-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 経理部は請求書と帳簿を照合し、買掛金の残高に誤りがないか確認している。
+- READING :: けいりぶはせいきゅうしょとちょうぼをしょうごうし、かいかけきんのざんだかにあやまりがないかかくにんしている。
+- UK :: Бухгалтерія звіряє рахунки-фактури з обліковими книгами, перевіряючи, чи немає помилок у залишку кредиторської заборгованості.
+- FOCUS :: 買掛金
+
+* Sense s-1473770-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 0d81db7101a03733d6d44d58343dad60a7e70d20e04a26a57bc9a513e8ebbf0c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473770-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: te betalen rekening
+*** en-s-1473770-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: schuld
+** Ukrainian glosses
+
+* Sense s-1473770-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: b5eaf6361662d3e33fd13527194a7f66fc316091b6f2baa1d358eb188d42434b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473770-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbindlichkeit
+*** en-s-1473770-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verbindlichkeiten aus Lieferungen und Leistungen
+*** en-s-1473770-003-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Kreditor (bei Buchführung auf der Passivseite zu führen)
+** Ukrainian glosses
+
+* Sense s-1473770-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 5f1d7ec64b800ce589fdf4f201ba5031bda15277c542b59bb0479000d606ddd1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473770-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könyvtartozás
+*** en-s-1473770-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: kifizetendő számla
+*** en-s-1473770-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: esedékes számla
+*** en-s-1473770-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: könyvtartozás
+** Ukrainian glosses
+
+* Sense s-1473770-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: f590a45a19b599e6d99fbeda450f980a75198bf3944b1de6ee62b8f7be651f7b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1473770-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (ком.) дебиторская задолженность; сумма, подлежащая уплате; долг
+** Ukrainian glosses
