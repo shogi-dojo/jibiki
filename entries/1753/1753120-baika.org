@@ -1,0 +1,156 @@
+#+TITLE: 売価
+#+JMDICT_ID: 1753120
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ばいか
+#+ROMAJI: baika
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1753120-001
+:PROPERTIES:
+:TEXT: 売価
+:END:
+*** Priorities
+- news2
+- nf35
+** Reading rd-1753120-001
+:PROPERTIES:
+:TEXT: ばいか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf35
+
+* Sense s-1753120-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: b3efbce4af1bd0f957c4dbaf06655a9a6f6483bcf0c895c13ffa974d823a86d4
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- selling price
+** Ukrainian glosses
+*** uk-s-1753120-001-001
+:PROPERTIES:
+:END:
+- text :: продажна ціна; ціна реалізації
+** Learner notes
+*** note-s-1753120-001-001
+:PROPERTIES:
+:END:
+- UK :: Комерційний та бухгалтерський термін (売 — «продавати», 価 — «ціна»), що позначає фактичну ціну, за якою товар продається покупцеві. Протиставляється таким поняттям, як 原価 («собівартість») та 仕入れ値 («закупівельна ціна»).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1753120-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この商品の売価は千円です。
+- READING :: このしょうひんのばいかはせんえんです。
+- UK :: Продажна ціна цього товару становить тисячу єн.
+- FOCUS :: 売価
+*** ex-1753120-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 仕入れ値が上がったため、来月から売価を見直さざるを得ない。
+- READING :: しいれねがあがったため、らいげつからばいかをみなおさざるをえない。
+- UK :: Оскільки закупівельна ціна зросла, з наступного місяця доведеться переглянути продажну ціну.
+- FOCUS :: 売価
+*** ex-1753120-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 原価と利益率のバランスを慎重に計算したうえで、競争力のある売価を設定することが重要だ。
+- READING :: げんかとりえきりつのばらんすをしんちょうにけいさんしたうえで、きょうそうりょくのあるばいかをせっていすることがじゅうようだ。
+- UK :: Важливо встановити конкурентоспроможну ціну продажу, ретельно вирахувавши баланс між собівартістю та нормою прибутку.
+- FOCUS :: 売価
+
+* Sense s-1753120-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f0d0f042ffdf84c183e84b6741f3c3b470342d9184c0c9d7988c09feb52da66
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753120-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Verkaufspreis
+** Ukrainian glosses
+
+* Sense s-1753120-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 9c304abb5336aa6b50a9c235e869b96a111693a094239d768312d0701cb84fc5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753120-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: eladási ár
+** Ukrainian glosses
+
+* Sense s-1753120-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: c55d6e4888b8bcc500a7bfc9d74eb52f2639420697c2b3f248d4d66b831f4007
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753120-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: продажная цена
+** Ukrainian glosses
+
+* Sense s-1753120-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: a38238dee7f69a9a3634abc893d70814c51770167c4c862cbda389fa76658c31
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1753120-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: precio de venta
+** Ukrainian glosses
