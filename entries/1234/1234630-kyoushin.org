@@ -1,0 +1,193 @@
+#+TITLE: 共振
+#+JMDICT_ID: 1234630
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: きょうしん
+#+ROMAJI: kyoushin
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1234630-001
+:PROPERTIES:
+:TEXT: 共振
+:END:
+** Reading rd-1234630-001
+:PROPERTIES:
+:TEXT: きょうしん
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1234630-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: d12e8ed55b9a59f4b4b555944f7e899e28f91beb1599d2ffbe6007f54bd18a0b
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+- vi
+** English glosses
+- resonance
+- sympathetic vibration
+** Ukrainian glosses
+*** uk-s-1234630-001-001
+:PROPERTIES:
+:END:
+- text :: резонанс; резонування; співколивання
+** Learner notes
+*** note-s-1234630-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізичний і технічний іменник та неперехідне する-дієслово (від 共 — спільний та 振 — коливатися). Позначає явище різкого зростання амплітуди коливань механічної або електричної системи за збігу частот (наприклад, 共振周波数 — резонансна частота), на відміну від акустичного чи емоційного відгуку 共鳴.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1234630-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 二つの音叉が共振する。
+- READING :: ふたつのおんさがきょうしんする。
+- UK :: Два камертони резонують один з одним.
+- FOCUS :: 共振
+*** ex-1234630-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 強い風と橋の揺れが共振して、大きな振動が起きた。
+- READING :: つよいかぜとはしのゆれがきょうしんして、おおきなしんどうがおきた。
+- UK :: Сильний вітер увійшов у резонанс із коливанням мосту, що спричинило потужну вібрацію.
+- FOCUS :: 共振
+*** ex-1234630-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 機械の安全設計では、部品の共振による破損を防ぐために固有振動数をあらかじめ調整する。
+- READING :: きかいのあんぜんせっけいでは、ぶひんのきょうしんによるはそんをふせぐためにこゆうしんどうすうをあらかじめちょうせいする。
+- UK :: Під час проєктування безпечних механізмів заздалегідь налаштовують власну частоту коливань, щоб запобігти руйнуванню деталей через резонанс.
+- FOCUS :: 共振
+
+* Sense s-1234630-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 48c6f17006a3b1911db9c94a88323e7643c9f5ade633783d560f0e3053f90f45
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234630-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: mitschwingen
+*** en-s-1234630-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Resonanz
+*** en-s-1234630-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Sympathieschwingung
+** Ukrainian glosses
+
+* Sense s-1234630-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 5be9abc7cbeb2a877dd9eaee02956ff0f6446149da2353b63ade1a0e9ed7e944
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234630-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: együttzengés
+*** en-s-1234630-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezonancia
+*** en-s-1234630-003-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: rezonancia
+** Ukrainian glosses
+
+* Sense s-1234630-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cfe90d48cfe1714a0b9ecac30bacc566cbfd14efdcc0b60011ad3e4ae55c078c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234630-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (физ.) резонанс
+*** en-s-1234630-004-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} резонировать
+** Ukrainian glosses
+
+* Sense s-1234630-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 0298853489bf244440690b8b861d2ef9f7a96d0a621d3d0e242058782e44f4a5
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1234630-005-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: resonans
+** Ukrainian glosses
