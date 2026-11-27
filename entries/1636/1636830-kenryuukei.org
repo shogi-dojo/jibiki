@@ -1,0 +1,148 @@
+#+TITLE: 検流計
+#+JMDICT_ID: 1636830
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: けんりゅうけい
+#+ROMAJI: kenryuukei
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1636830-001
+:PROPERTIES:
+:TEXT: 検流計
+:END:
+** Reading rd-1636830-001
+:PROPERTIES:
+:TEXT: けんりゅうけい
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1636830-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: bfc683fe4b52163add0cc5436dbed8f3ac844395a284e454e0e46182853a73f9
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- galvanometer
+** Ukrainian glosses
+*** uk-s-1636830-001-001
+:PROPERTIES:
+:END:
+- text :: гальванометр
+** Learner notes
+*** note-s-1636830-001-001
+:PROPERTIES:
+:END:
+- UK :: Фізико-технічний іменник (від 検 — перевіряти, 流 — струм і 計 — вимірювальний прилад) на позначення чутливого приладу для виявлення та вимірювання слабкого електричного струму. Зрідка в гідрометрії так називають і прилад для вимірювання швидкості течії води.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1636830-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 理科の実験で検流計の針を見た。
+- READING :: りかのじっけんでけんりゅうけいのはりをみた。
+- UK :: На уроці природознавства під час досліду я дивився на стрілку гальванометра.
+- FOCUS :: 検流計
+*** ex-1636830-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: コイルに磁石を近づけると、接続した検流計の針がわずかに振れた。
+- READING :: こいるにじしゃくをちかづけると、せつぞくしたけんりゅうけいのはりがわずかにふれた。
+- UK :: Коли до котушки наблизили магніт, стрілка підключеного гальванометра ледь помітно відхилилася.
+- FOCUS :: 検流計
+*** ex-1636830-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 回路に流れる微弱な電流の向きを正確に調べるため、高感度の検流計が装置に組み込まれた。
+- READING :: かいろにながれるびじゃくなでんりゅうのむきをせいかくにしらべるため、こうかんどのけんりゅうけいがそうちにくみこまれた。
+- UK :: Щоб точно визначити напрямок слабкого струму в колі, до приладу вбудували високочутливий гальванометр.
+- FOCUS :: 検流計
+
+* Sense s-1636830-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 544d5a1ce5b3ec5a2cc17229a88f9380e3bff8f36279fb01db20b046f820720a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636830-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Galvanometer
+*** en-s-1636830-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Galvanoskop
+** Ukrainian glosses
+
+* Sense s-1636830-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 163ad680947d550d8868889a8b4e4cab779007a4e34fafa5686d1074907cc226
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636830-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 1) прибор для измерения скорости течения
+*** en-s-1636830-003-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: 2) гальванометр
+** Ukrainian glosses
+
+* Sense s-1636830-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ae64c372045a7a6b306bfe65051b302c6720ce1ec7ff69271bc93a6974509f2c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1636830-004-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: galvanometer
+** Ukrainian glosses
