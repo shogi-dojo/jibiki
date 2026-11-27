@@ -1,0 +1,189 @@
+#+TITLE: 医長
+#+JMDICT_ID: 1160040
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: いちょう
+#+ROMAJI: ichou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1160040-001
+:PROPERTIES:
+:TEXT: 医長
+:END:
+*** Priorities
+- news1
+- nf17
+** Reading rd-1160040-001
+:PROPERTIES:
+:TEXT: いちょう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf17
+
+* Sense s-1160040-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 04acd4ece2949e7681f1c8fa8780295898c7f011f46c569b57a7754dc7a79daa
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- medical director
+- chief physician
+** Ukrainian glosses
+*** uk-s-1160040-001-001
+:PROPERTIES:
+:END:
+- text :: завідувач медичного відділення; провідний лікар, головний лікар відділення
+** Learner notes
+*** note-s-1160040-001-001
+:PROPERTIES:
+:END:
+- UK :: Іменник, утворений із канджі 医 (лікар, медицина) та 長 (керівник, начальник). У японських лікарнях зазвичай позначає старшого лікаря або керівника клінічного відділення (наприклад, 内科医長 — завідувач терапевтичного відділення), на відміну від керівника всієї лікарні (院長).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1160040-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 田中先生は外科の医長です。
+- READING :: たなかせんせいはげかのいちょうです。
+- UK :: Лікар Танака є завідувачем хірургічного відділення.
+- FOCUS :: 医長
+*** ex-1160040-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 新任の医長が朝の会議であいさつをした。
+- READING :: しんにんのいちょうがあさのかいぎであいさつをした。
+- UK :: Новопризначений завідувач відділення виступив із вітальним словом на ранковій нараді.
+- FOCUS :: 医長
+*** ex-1160040-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 長年にわたり救急医療に携わってきたベテラン医師が、来月から小児科の医長を務めることになった。
+- READING :: ながねんにわたりきゅうきゅういりょうにたずさわってきたべてらんいしが、らいげつからしょうにかのいちょうをつとめることになった。
+- UK :: Досвідчений лікар, який багато років працював у службі невідкладної допомоги, з наступного місяця очолить педіатричне відділення.
+- FOCUS :: 医長
+
+* Sense s-1160040-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 680163caebee9edc8651d2f923b41da97fc0cb308719a903919c8fcf40fb296a
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1160040-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {geneesk.} chef de clinique
+*** en-s-1160040-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: hoofdarts
+*** en-s-1160040-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: diensthoofd
+** Ukrainian glosses
+
+* Sense s-1160040-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2fa05099768f670cdc800b166522c3069bcb5d1e581317c886d2c35dcb445386
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1160040-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Oberarzt
+*** en-s-1160040-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Chefarzt
+** Ukrainian glosses
+
+* Sense s-1160040-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 6d8c3c7c1c138844adf974f5215d3b2a18078495b30e43853c1fee784f116274
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1160040-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: главный врач, главврач
+** Ukrainian glosses
+
+* Sense s-1160040-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: ca90ef81423d5f12469e93e0c7841d69864ce81fd17de7d8207a31f46c612068
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1160040-005-001
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: director médico
+*** en-s-1160040-005-002
+:PROPERTIES:
+:LANG: spa
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: jefe médico
+** Ukrainian glosses
