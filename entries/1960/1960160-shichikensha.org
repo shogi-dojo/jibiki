@@ -1,0 +1,158 @@
+#+TITLE: 質権者
+#+JMDICT_ID: 1960160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: しちけんしゃ
+#+ROMAJI: shichikensha
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-27
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1960160-001
+:PROPERTIES:
+:TEXT: 質権者
+:END:
+** Reading rd-1960160-001
+:PROPERTIES:
+:TEXT: しちけんしゃ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1960160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 092d3dc309dd1a307ad66c148d59b8dfb8b042623ae97e56ce1df6af09dab0fc
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- person who receives a pledge
+- pledgee
+- pawnee
+** Ukrainian glosses
+*** uk-s-1960160-001-001
+:PROPERTIES:
+:END:
+- text :: заставодержатель; особа, яка приймає заставу
+** Learner notes
+*** note-s-1960160-001-001
+:PROPERTIES:
+:END:
+- UK :: Юридичний термін із цивільного права (質権 — «право застави», 者 — «особа»). Означає кредитора, який отримує майно в заставу як забезпечення боргу (на відміну від 質権設定者 — заставодавця, який передає майно).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1960160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この契約書には、質権者の名前が書いてある。
+- READING :: このけいやくしょには、しちけんしゃのなまえがかいてある。
+- UK :: У цьому договорі вказане ім'я заставодержателя.
+- FOCUS :: 質権者
+*** ex-1960160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 返済が滞った場合、質権者は担保を処分することができる。
+- READING :: へんさいがとどこおったばあい、しちけんしゃはたんぽをしょぶんすることができる。
+- UK :: У разі прострочення виплати заставодержатель має право реалізувати заставлене майно.
+- FOCUS :: 質権者
+*** ex-1960160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 民法の規定により、質権者には預かった物を善良な管理者の注意をもって保管する義務がある。
+- READING :: みんぽうのきていにより、しちけんしゃにはあずかったものをぜんりょうなかんりしゃのちゅういをもってほかんするぎむがある。
+- UK :: Згідно з нормами цивільного права, заставодержатель зобов'язаний зберігати передане майно з належною обачністю дбайливого управителя.
+- FOCUS :: 質権者
+
+* Sense s-1960160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: cc87fd620f4afab3e5afacd8db8ed4c6e4270899b3d1c97fba9ff7afa849278d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1960160-002-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {jur.} pandhouder
+*** en-s-1960160-002-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pandbezitter
+*** en-s-1960160-002-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: pandnemer
+** Ukrainian glosses
+
+* Sense s-1960160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: ddee074a2fe329349e108b4b96370a1abe7309a1567578f3ba345c38b91c9ada
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1960160-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Pfandgläubiger
+*** en-s-1960160-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Person, der ein Pfand gegeben wurde
+** Ukrainian glosses
+
+* Sense s-1960160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: cc969f13eaab39786ee5064817bbb29c87e9e46247d64e9b0ac374c60c58eea7
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1960160-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: лицо, обладающее правом залога; закладчик
+** Ukrainian glosses
