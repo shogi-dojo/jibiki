@@ -1,0 +1,226 @@
+#+TITLE: 繰入
+#+JMDICT_ID: 1630460
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: くりいれ
+#+ROMAJI: kuriire
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1630460-001
+:PROPERTIES:
+:TEXT: 繰入
+:END:
+*** Priorities
+- spec1
+** Written form wf-1630460-002
+:PROPERTIES:
+:TEXT: 繰り入れ
+:END:
+*** Priorities
+- news1
+- nf24
+** Written form wf-1630460-003
+:PROPERTIES:
+:TEXT: 繰入れ
+:END:
+** Reading rd-1630460-001
+:PROPERTIES:
+:TEXT: くりいれ
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf24
+- spec1
+
+* Sense s-1630460-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 5c4151b1b0d7d1b03a542588fdae770475b10b4c4fb2215a610535668394b8c3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- inward transfer (of money)
+- carry over (money from previous period)
+** Ukrainian glosses
+*** uk-s-1630460-001-001
+:PROPERTIES:
+:END:
+- text :: зарахування (коштів); переказ на рахунок; перенесення залишку
+** Learner notes
+*** note-s-1630460-001-001
+:PROPERTIES:
+:END:
+- UK :: Фінансовий і бухгалтерський іменник від дієслова 繰り入れる (перераховувати до фонду чи на рахунок). Позначає зарахування коштів до резервів або іншого рахунку, а також перенесення суми з попереднього періоду; у документації часто записується як 繰入.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1630460-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 利益の一部を積立金に繰入する。
+- READING :: りえきのいちぶをつみたてきんにくりいれする。
+- UK :: Частину прибутку зараховують до резервного фонду.
+- FOCUS :: 繰入
+*** ex-1630460-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 今期の決算では、前期からの繰入が大きな割合を占めている。
+- READING :: こんきのけっさんでは、ぜんきからのくりいれがおおきなわりあいをしめている。
+- UK :: У звіті за цей період значну частку становить перенесений залишок із попереднього періоду.
+- FOCUS :: 繰入
+*** ex-1630460-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 特別会計への一般会計からの繰入については、予算委員会で慎重な審議が行われた。
+- READING :: とくべつかいけいへのいっぱんかいけいからのくりいれについては、よさんいいんかいでしんちょうなしんぎがおこなわれた。
+- UK :: Щодо переказу коштів із загального бюджету на спеціальний рахунок у бюджетному комітеті відбулися ретельні обговорення.
+- FOCUS :: 繰入
+
+* Sense s-1630460-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 86c1d65a1276bc9a18d9fb710e405fae8cd1cfd556e4da35808f431a978e86c6
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630460-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Einreihen
+** Ukrainian glosses
+
+* Sense s-1630460-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2936571acd73d41fe5c43bca28a01e7b59a4a88594e94db18a7ff66e4976db6b
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630460-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Übertragung
+*** en-s-1630460-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Überschreibung
+** Ukrainian glosses
+
+* Sense s-1630460-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: ac7ed9310e0c81bfbf6c3d589dc0c52e320996b11c2b8fa55e39fb1e0eb000b1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630460-004-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: áthelyezés
+*** en-s-1630460-004-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átigazolás
+*** en-s-1630460-004-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átszállás
+*** en-s-1630460-004-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átszállítás
+*** en-s-1630460-004-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: átutalás
+** Ukrainian glosses
+
+* Sense s-1630460-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 323d25e4fedcf2b8a8951245251022ce8034be825d61e07e9655857121357b14
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630460-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: перечисление, перевод (денег), трансфер
+** Ukrainian glosses
+
+* Sense s-1630460-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 29d7ce977c4a201dafafe7ece2f07f313b6c83d954fdfb4640724e65ca9ea7f2
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1630460-006-001
+:PROPERTIES:
+:LANG: swe
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: girera
+** Ukrainian glosses
