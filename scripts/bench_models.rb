@@ -18,6 +18,7 @@ require 'json'
 require 'optparse'
 require 'rbconfig'
 require_relative '../lib/org_entry'
+require_relative '../lib/authoring/prices'
 require_relative '../lib/authoring/prompt'
 
 ROOT = File.expand_path('..', __dir__)
@@ -66,6 +67,17 @@ def pick_varied(rows, size)
   chosen.sort_by { |r| rows.index(r) }
 end
 
+# Reported cost when the agent gives one, else a list-price estimate ("~").
+def run_cost(calls)
+  reported = calls.sum { |c| c['cost_usd'].to_f }
+  return reported.round(3).to_s if reported.positive?
+
+  estimates = calls.map do |c|
+    Authoring::Prices.estimate(c['model'], input: c['input_tokens'], cached: c['cached_read'], output: c['output_tokens'])
+  end
+  estimates.all? ? "~#{estimates.sum.round(3)}" : ''
+end
+
 def bench_dirs = Dir.glob(File.join(ROOT, 'tmp', 'bench-*')).select { |d| File.directory?(d) }.sort
 
 def tsv(path)
@@ -107,6 +119,8 @@ when 'report'
     next unless File.exist?(usage_path)
 
     calls = tsv(usage_path)
+    next if calls.empty? # run still in progress
+
     words = calls.first['words'].to_i
     sum = ->(k) { calls.sum { |c| c[k].to_f } }
     failing = Dir.glob(File.join(dir, 'failures-*.json')).sum { |f| read_json(f).size }
@@ -115,7 +129,7 @@ when 'report'
     lines << [File.basename(dir).delete_prefix('bench-'), words, calls.size, calls.first['failed'], failing,
               sum.('seconds').round, sum.('input_tokens').to_i, out_tokens.to_i, sum.('cached_read').to_i,
               (out_tokens / words).round, (sum.('chars_out') / words).round, flags,
-              sum.('cost_usd').positive? ? sum.('cost_usd').round(3) : ''].join(' | ').then { |l| "| #{l} |" }
+              run_cost(calls)].join(' | ').then { |l| "| #{l} |" }
   end
   File.write(File.join(BENCH, 'report.md'), "#{lines.join("\n")}\n")
   puts lines
