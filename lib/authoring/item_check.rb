@@ -9,7 +9,9 @@ require_relative 'prompt'
 module Authoring
   # Renders each authored item in memory and runs the same gates `jb check`
   # runs on disk (validator, doctor errors and warnings, yanagi tier 1), plus
-  # the note-length cap from the prompt. Returns { number => [messages] } for
+  # the note-length cap from the prompt and slips the on-disk gates let
+  # through (Japanese punctuation in Ukrainian, mixed-script words, spaces in
+  # readings). Returns { number => [messages] } for
   # the failing items only, so a retry can target exactly those words.
   module ItemCheck
     module_function
@@ -24,7 +26,7 @@ module Authoring
     end
 
     def check(renderer, row, data, scanner: Yanagi::Audit)
-      messages = note_length_messages(data)
+      messages = note_length_messages(data) + style_messages(data)
       text = begin
         renderer.render_text(row:, data:)
       rescue RuntimeError, KeyError, IndexError => e
@@ -42,6 +44,23 @@ module Authoring
 
         "G#{idx + 1} note is #{note.length} characters (max #{Prompt::NOTE_MAX_CHARS})"
       end
+    end
+
+    MIXED_SCRIPT = /\p{Cyrillic}\p{Latin}|\p{Latin}\p{Cyrillic}/
+    JA_PUNCT_AFTER_UK = /\p{Cyrillic}[。、]/
+
+    def style_messages(data)
+      ukrainian = Array(data['senses']).flatten + Array(data['examples']).map { |ex| ex[2] }
+      messages = ukrainian.compact.uniq.flat_map do |text|
+        found = []
+        found << "Japanese punctuation in Ukrainian text: #{text[0, 40]}" if text.match?(JA_PUNCT_AFTER_UK)
+        found << "mixed Latin and Cyrillic letters in a word: #{text[0, 40]}" if text.match?(MIXED_SCRIPT)
+        found
+      end
+      Array(data['examples']).each do |ja, reading, _|
+        messages << "reading has spaces: #{ja}" if reading.to_s.match?(/[[:space:]　]/)
+      end
+      messages
     end
 
     def doctor_messages(text)

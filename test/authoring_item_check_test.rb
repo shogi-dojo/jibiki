@@ -40,6 +40,19 @@ class AuthoringItemCheckTest < Minitest::Test
     assert(failures['4'].any? { |m| m.include?("Focus '赤' absent") }, failures['4'].inspect)
   end
 
+  def test_style_slips_the_disk_gates_miss
+    data = good_data
+    data['examples'][0][2] = 'Загорілося зелене。'
+    data['senses'][1][0] = 'зелене світло; позапланový'
+    data['examples'][1][1] = 'しんごうが あおに かわったので わたった。'
+
+    messages = Authoring::ItemCheck.check(@renderer, @row, data)
+
+    assert_includes messages, 'Japanese punctuation in Ukrainian text: Загорілося зелене。'
+    assert_includes messages, 'mixed Latin and Cyrillic letters in a word: зелене світло; позапланový'
+    assert_includes messages, 'reading has spaces: 信号が青に変わったので渡った。'
+  end
+
   def test_yanagi_findings_fail_the_item
     finding = Yanagi::Audit::Finding.new(token: 'Сіндзюку', canonical: 'Шінджюку', tier: 1, approved: true)
     scanner = Object.new
