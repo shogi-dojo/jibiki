@@ -46,8 +46,8 @@ module Authoring
         next if line.empty? || line.start_with?('```')
 
         if (m = HEADER.match(line))
+          # A repeated word is the model correcting itself: the last copy wins.
           current = { primary: m[2].to_i, senses: {}, examples: [], problems: [] }
-          current[:problems] << 'duplicated in reply' if items.key?(m[1])
           items[m[1]] = current
         elsif current.nil?
           next

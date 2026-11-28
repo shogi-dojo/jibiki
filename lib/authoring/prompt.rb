@@ -21,6 +21,7 @@ module Authoring
       E|<Japanese sentence>|<Ukrainian translation>|<focus>
       E|...
       E|...
+      Write each word once: no second, corrected copy of a word.
 
       Glosses: original, idiomatic Ukrainian equivalents (synonyms separated by "; "), matching that sense only.
       Notes: 1–2 sentences, at most #{NOTE_MAX_CHARS} characters, adding something the gloss does not say (usage, register, typical collocation, nuance vs. near-synonyms). Never repeat the gloss.
@@ -28,9 +29,13 @@ module Authoring
       Ukrainian: natural modern Ukrainian, no Russianisms or calques; keep euphony (у/в, з/із/зі, і/й); straight apostrophe '. Avoid Japanese personal and place names; if one is unavoidable, transliterate it with the NJS system (ші, чі, джі, ґ, дз, шьо — never сі, ті, дзі, г).
     RULES
 
+    EXAMPLE_LINE = "E|<Japanese sentence>|<Ukrainian translation>|<focus>\n"
     READINGS_RULE = <<~RULE
-      Also give each example's reading: append "|<reading>" to every E line, the whole sentence in hiragana with the same punctuation, kana in the sentence kept as they are (katakana written as hiragana).
+      <reading> (required on every E line, also when <focus> is empty: E|ja|uk||reading): the whole sentence in hiragana, no spaces, same punctuation, kana in the sentence kept as they are (katakana written as hiragana).
     RULE
+    # The reading field goes into the format line itself: models skim past a
+    # field that only a later rule mentions.
+    RULES_WITH_READINGS = RULES.sub(EXAMPLE_LINE, EXAMPLE_LINE.sub("\n", "|<reading>\n")) + READINGS_RULE
 
     module_function
 
@@ -48,7 +53,7 @@ module Authoring
         user << "\n"
       end
       rows.zip(numbers).each { |row, n| user << word_block(n, row) << "\n" }
-      { system: readings ? "#{RULES}#{READINGS_RULE}" : RULES, user: }
+      { system: readings ? RULES_WITH_READINGS : RULES, user: }
     end
 
     def word_block(number, row)

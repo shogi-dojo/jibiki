@@ -19,7 +19,9 @@ class AuthoringPromptTest < Minitest::Test
 
     assert_equal plain[:system], other[:system]
     refute_includes plain[:system], 'hiragana'
-    assert_includes Authoring::Prompt.build([AuthoringRows.ao], readings: true)[:system], 'hiragana'
+    with = Authoring::Prompt.build([AuthoringRows.ao], readings: true)[:system]
+    assert_includes with, 'hiragana'
+    assert_includes with, "E|<Japanese sentence>|<Ukrainian translation>|<focus>|<reading>\n"
   end
 
   def test_retry_lists_errors_and_keeps_item_numbers

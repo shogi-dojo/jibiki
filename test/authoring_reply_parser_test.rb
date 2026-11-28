@@ -55,11 +55,17 @@ class AuthoringReplyParserTest < Minitest::Test
     assert_includes errors, 'unexpected line: ну ось'
   end
 
-  def test_empty_note_and_duplicate_item
-    reply = AuthoringRows.ao_reply.sub(/\|Базова назва.*$/, '|') * 2
-    errors = parse(reply).errors['1']
+  def test_empty_note_is_an_error
+    reply = AuthoringRows.ao_reply.sub(/\|Базова назва.*$/, '|')
 
-    assert_includes errors, 'duplicated in reply'
-    assert_includes errors, 'G1 has an empty gloss or note'
+    assert_includes parse(reply).errors['1'], 'G1 has an empty gloss or note'
+  end
+
+  def test_repeated_item_keeps_the_last_copy
+    broken = AuthoringRows.ao_reply.sub(/\|Базова назва.*$/, '|')
+    result = parse(broken + AuthoringRows.ao_reply)
+
+    assert_empty result.errors
+    refute_empty result.payload['1']['senses'][0][1]
   end
 end
