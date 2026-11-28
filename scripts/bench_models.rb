@@ -40,7 +40,7 @@ end.parse!
 
 def set_path(set) = File.join(BENCH, "set#{set}-sources.json")
 def read_json(path) = JSON.parse(File.read(path, encoding: 'UTF-8'))
-def slug(*parts) = parts.compact.join('-').gsub(/[^A-Za-z0-9.]+/, '_')
+def slug(*parts) = parts.compact.join('-').gsub(/[^A-Za-z0-9.-]+/, '_')
 
 def english_senses(row) = Authoring::Prompt.english_senses(row)
 def pos(row) = english_senses(row).flat_map { |s| s['parts_of_speech'] }
