@@ -1,0 +1,323 @@
+#+TITLE: 接地
+#+JMDICT_ID: 1385560
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: せっち
+#+ROMAJI: setchi
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1385560-001
+:PROPERTIES:
+:TEXT: 接地
+:END:
+*** Priorities
+- news2
+- nf42
+** Reading rd-1385560-001
+:PROPERTIES:
+:TEXT: せっち
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news2
+- nf42
+
+* Sense s-1385560-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 6c3649b3dd31e114cf9191ae08914e64617538798016d154765e36ad4c4953b3
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+*** Fields
+- elec
+*** Cross-references
+- アース・1
+** English glosses
+- ground
+- earth
+- grounding
+- earthing
+** Ukrainian glosses
+*** uk-s-1385560-001-001
+:PROPERTIES:
+:END:
+- text :: заземлення
+** Learner notes
+*** note-s-1385560-001-001
+:PROPERTIES:
+:END:
+- UK :: Електротехнічний термін, що позначає з'єднання електроприладу чи мережі із землею для безпеки; у побуті частіше кажуть アース.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1385560-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 洗濯機を接地する。
+- READING :: せんたくきをせっちする。
+- UK :: Заземлити пральну машину.
+- FOCUS :: 接地
+*** ex-1385560-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 落雷による故障を防ぐため、この機器には確実な接地が必要だ。
+- READING :: らくらいによるこしょうをふせぐため、このききにはかくじつなせっちがひつようだ。
+- UK :: Щоб запобігти поломці через блискавку, цей пристрій потребує надійного заземлення.
+- FOCUS :: 接地
+*** ex-1385560-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 工事現場では作業員の安全を確保するため、すべての大型機材に接地工事を施している。
+- READING :: こうじげんばではさぎょういんのあんぜんをかくほするため、すべてのおおがたきざいにせっちこうじをほどこしている。
+- UK :: На будівельному майданчику для гарантування безпеки працівників усе великогабаритне обладнання обов'язково заземлюють.
+- FOCUS :: 接地
+
+* Sense s-1385560-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 926702bbc07d26fd5d9dee699c748007686b6eb98b0d9a7e6fd12e647aaa776f
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+- vs
+** English glosses
+- touching the ground
+- landing (an airplane)
+** Ukrainian glosses
+*** uk-s-1385560-002-001
+:PROPERTIES:
+:END:
+- text :: дотик до землі; приземлення
+** Learner notes
+*** note-s-1385560-002-001
+:PROPERTIES:
+:END:
+- UK :: Уживається щодо коліс літака під час посадки, стопи під час бігу або падіння м'яча на майданчик.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1385560-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 7cc87b103c5cee7eb225599260ab9c97b1d9bd3dee41ca0f1dbdf932f5808246
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-003-001
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} aardverbinding
+*** en-s-1385560-003-002
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: randaarding
+*** en-s-1385560-003-003
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aarding
+*** en-s-1385560-003-004
+:PROPERTIES:
+:LANG: dut
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {elektr.} aarden
+** Ukrainian glosses
+
+* Sense s-1385560-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 09c45a2a70f7b4dcedb2b2d0144eda72c330f6a029ab230732cc20b4720db385
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Erdung
+** Ukrainian glosses
+
+* Sense s-1385560-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: fc8f6c8e498f11bb2f2013243d6ae68a279f41bbe89c274c6e41b920b624a77f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-005-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Landung
+*** en-s-1385560-005-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Aufsetzen
+** Ukrainian glosses
+
+* Sense s-1385560-006
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 6
+:SOURCE_FINGERPRINT: 68fc9124cab0e2dda74539648656ef9e3d1f9aa17179a14babb9f680ea7681be
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-006-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: erden
+** Ukrainian glosses
+
+* Sense s-1385560-007
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 7
+:SOURCE_FINGERPRINT: 4329d0fa690e58a5e21222c629acc00106bc8cf3291f5b4a40c06b3e446f3603
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-007-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: aufsetzen
+*** en-s-1385560-007-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: landen
+** Ukrainian glosses
+
+* Sense s-1385560-008
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 8
+:SOURCE_FINGERPRINT: 281aeb6b9522693bfab8f1f57afd36a887d4a4cc356b51f59d67ce5cdcd89cad
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-008-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: gürcöl
+*** en-s-1385560-008-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: keményen megdolgoztat
+*** en-s-1385560-008-003
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: melózik
+*** en-s-1385560-008-004
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: őrölt
+*** en-s-1385560-008-005
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: tengerfenék
+** Ukrainian glosses
+
+* Sense s-1385560-009
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 9
+:SOURCE_FINGERPRINT: a4aed59c97de11c877b0a65ee4a0cc1a72478248dfa4f40be57d9b5ff8762993
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1385560-009-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: заземление
+*** en-s-1385560-009-002
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: {～する} заземлять
+** Ukrainian glosses
