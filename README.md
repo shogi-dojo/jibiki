@@ -241,7 +241,7 @@ mechanical: selection, rendering, IDs, `jb check`, one commit per word, the
 ledgers and PROGRESS.md, and the Kanjium accents.
 
 ```sh
-ruby scripts/author_cycle.rb --tag n10k-500aa --min-rank 81734 --limit 500
+ruby scripts/author_cycle.rb --tag n10k-500ab --next 500   # or --min-rank N --limit N
 ```
 
 Each batch is checked in memory before anything is written, with the same
@@ -270,7 +270,8 @@ ruby scripts/author_cycle.rb --tag … --provider claude --model sonnet --home ~
 ```
 
 `docs/authoring-model-benchmark.md` compares the models;
-`scripts/bench_models.rb` reruns that comparison.
+`scripts/bench_models.rb` reruns that comparison. `docs/adding-words.md` is the
+step-by-step guide for an agent running a cycle.
 
 ## Web contributions
 
