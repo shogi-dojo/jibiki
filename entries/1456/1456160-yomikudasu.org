@@ -1,0 +1,174 @@
+#+TITLE: 読み下す
+#+JMDICT_ID: 1456160
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: よみくだす
+#+ROMAJI: yomikudasu
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1456160-001
+:PROPERTIES:
+:TEXT: 読み下す
+:END:
+** Written form wf-1456160-002
+:PROPERTIES:
+:TEXT: 訓み下す
+:END:
+** Reading rd-1456160-001
+:PROPERTIES:
+:TEXT: よみくだす
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1456160-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 41353d66b6466229766a75ccaf7f0c9ebf1612395d4ccfcac1b9b927b5f0f662
+:LEARNER_PRIORITY: primary
+:END:
+** Applies to forms
+*** Written forms
+- 読み下す
+*** Readings
+- *
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to read (a text) from start to finish
+** Ukrainian glosses
+*** uk-s-1456160-001-001
+:PROPERTIES:
+:END:
+- text :: прочитати від початку до кінця; дочитати повністю
+** Learner notes
+*** note-s-1456160-001-001
+:PROPERTIES:
+:END:
+- UK :: Перехідне дієслово п'ятиступеневої дієвідміни (ґодан) на -す. Описує послідовне читання тексту згори донизу або від початку до самого кінця без пропусків (часто з відтінком легкості чи захвату).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1456160-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 難しい本を最後まで読み下しました。
+- READING :: むずかしいほんをさいごまでよみくだしました。
+- UK :: Я дочитав складну книгу від початку до кінця.
+- FOCUS :: 読み下し
+*** ex-1456160-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この小説は文章が自然で、最初から最後まで一気に読み下すことができる。
+- READING :: このしょうせつはぶんしょうがしぜんで、さいしょからさいごまでいっきによみくだすことができる。
+- UK :: Цей роман написаний природною мовою, тож його можна прочитати від початку до кінця на одному подиху.
+- FOCUS :: 読み下す
+*** ex-1456160-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 分厚い報告書だったが、構成が明快だったので滞りなく読み下せた。
+- READING :: ぶあついほうこくしょだったが、こうせいがめいかいだったのでとどこおりなくよみくだせた。
+- UK :: Хоча звіт був товстим, завдяки чіткій структурі його вдалося без затримок прочитати до самого кінця.
+- FOCUS :: 読み下せ
+
+* Sense s-1456160-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 93427490a8c27740589607fee57eeda34884aa9860b1e9a6af0ebb304720254d
+:END:
+** JMdict metadata
+*** Parts of speech
+- v5s
+- vt
+** English glosses
+- to transliterate classical Chinese into Japanese
+** Ukrainian glosses
+*** uk-s-1456160-002-001
+:PROPERTIES:
+:END:
+- text :: прочитати класичний китайський текст (камбун) за японською граматикою
+** Learner notes
+*** note-s-1456160-002-001
+:PROPERTIES:
+:END:
+- UK :: Філологічний термін, що означає адаптацію та читання давньокитайських текстів (漢文) японською мовою шляхом переставлення слів і додавання японських граматичних закінчень; для цього значення також використовується запис 訓み下す.
+- LEVEL :: advanced
+- REGISTER :: neutral
+
+* Sense s-1456160-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1eb8bc7b68f4256d4e64bcd6c32b74573a5655241240d45f2dff4983f1e13ada
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456160-003-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: ganz lesen
+*** en-s-1456160-003-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: insgesamt lesen
+** Ukrainian glosses
+
+* Sense s-1456160-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 4a1ae7f35e983dd8ea9af81250bcf897b25b69a0044e544ed9abef3e2af07d70
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456160-004-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: einen klassisch-chinesischen Text in japanischer Transliteration lesen
+** Ukrainian glosses
+
+* Sense s-1456160-005
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 5
+:SOURCE_FINGERPRINT: 9175e78f28a44b7a6c52f7f8a90468f677c6daf89633eae106fe8b543fdd6476
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1456160-005-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: читать всё без исключения, прочитывать без пропуска до конца
+** Ukrainian glosses
