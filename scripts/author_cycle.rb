@@ -6,8 +6,10 @@
 # for failing words) → render → jb check → one commit per word → checkpoint
 # ledgers → Kanjium accents. Resumable: rerun the same command after a stop.
 #
-#   ruby scripts/author_cycle.rb --tag n10k-500aa --min-rank 79672 --limit 500 \
-#     --provider claude --model sonnet --home ~/.claude-2
+#   ruby scripts/author_cycle.rb --tag n10k-500aa --min-rank 81734 --limit 500
+#
+# The model defaults to Gemini 4 Hydrogen (high) through Antigravity; pick
+# another with --provider/--model (scripts/acp_models.rb lists them).
 #
 # Everything lives in tmp/<tag>/: sources.json, batch-NN.json payloads, the
 # prompt and reply of every call, usage.tsv (one row per call),
@@ -25,9 +27,12 @@ require_relative '../lib/authoring/batch_author'
 require_relative '../lib/authoring/set_names'
 
 ROOT = File.expand_path('..', __dir__)
+# The default model won docs/authoring-model-benchmark.md: no retries, the
+# fastest and among the cheapest runs, and the style the corpus is written in.
+DEFAULT_MODEL = { provider: 'antigravity', model: 'gemini-4-hydrogen', effort: 'high' }.freeze
 options = {
   batch_size: 25, max_retries: 2, timeout: 1800, data_root: ROOT, date: Date.today.iso8601,
-  commit: true, checkpoint: true, provider: 'claude'
+  commit: true, checkpoint: true, provider: DEFAULT_MODEL[:provider]
 }
 OptionParser.new do |cli|
   cli.banner = 'Usage: author_cycle.rb --tag TAG (--sources FILE | --min-rank N --limit N) [options]'
@@ -35,8 +40,8 @@ OptionParser.new do |cli|
   cli.on('--sources FILE', 'Use an existing selection instead of selecting') { |v| options[:sources] = v }
   cli.on('--min-rank N', Integer, 'Selection: minimum BCCWJ rank') { |v| options[:min_rank] = v }
   cli.on('--limit N', Integer, 'Selection: number of words') { |v| options[:limit] = v }
-  cli.on('--provider NAME', "claude | codex | antigravity (default: #{options[:provider]})") { |v| options[:provider] = v }
-  cli.on('--model ID', 'Model id as scripts/acp_models.rb lists it') { |v| options[:model] = v }
+  cli.on('--provider NAME', "antigravity | claude | codex (default: #{options[:provider]})") { |v| options[:provider] = v }
+  cli.on('--model ID', "Model id as scripts/acp_models.rb lists it (default: #{DEFAULT_MODEL[:model]})") { |v| options[:model] = v }
   cli.on('--effort LEVEL', 'Reasoning effort (thought_level option)') { |v| options[:effort] = v }
   cli.on('--home DIR', 'Account config dir (CLAUDE_CONFIG_DIR / CODEX_HOME)') { |v| options[:home] = v }
   cli.on('--batch-size N', Integer, "Words per model call (default: #{options[:batch_size]})") { |v| options[:batch_size] = v }
@@ -50,6 +55,10 @@ OptionParser.new do |cli|
   cli.on('--data-root DIR', 'Checkout holding sources/ and tmp/ caches (default: this repo)') { |v| options[:data_root] = File.expand_path(v) }
 end.parse!
 abort 'Provide --tag.' unless options[:tag]
+if options[:provider] == DEFAULT_MODEL[:provider] && options[:model].nil?
+  options[:model] = DEFAULT_MODEL[:model]
+  options[:effort] ||= DEFAULT_MODEL[:effort]
+end
 
 Dir.chdir(ROOT)
 work = File.join('tmp', options[:tag])
