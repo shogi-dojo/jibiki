@@ -231,6 +231,48 @@ large the corpus grows. `rake org:lint` still runs Emacs over every entry.
 `scripts/bench_loop.sh <label>` measures every loop step (wall time, CPU, peak
 memory, page faults) into `build/bench/<label>-<date>.md`.
 
+## The authoring loop
+
+`scripts/author_cycle.rb` adds a whole set of words with no agent in the loop.
+A model writes only the content (a Ukrainian gloss and learner note per
+English sense, and three graded examples with translations and readings) in a
+compact line format, one call per batch of 25 words. Everything else is
+mechanical: selection, rendering, IDs, `jb check`, one commit per word, the
+ledgers and PROGRESS.md, and the Kanjium accents.
+
+```sh
+ruby scripts/author_cycle.rb --tag n10k-500ab --next 500   # or --min-rank N --limit N
+```
+
+Each batch is checked in memory before anything is written, with the same
+gates `jb check` runs plus a few style checks. A word that fails is asked for
+again with its error messages, up to `--max-retries` times; the words that
+passed are kept. If a word still fails, the run stops and names the payload to
+fix by hand; rerun the same command to resume. MeCab, when installed
+(`brew install mecab mecab-ipadic`), cross-checks every example reading, and
+`tmp/<tag>/reading-flags.jsonl` lists the disagreements for review.
+
+`tmp/<tag>/` keeps every prompt and reply, the payloads, and `usage.tsv` (one
+row per model call: time, tokens, cost). `--no-commit` renders into
+`tmp/<tag>/entries` and only checks; `--replay` reruns from the saved replies
+without calling the model.
+
+The model is called through ACP (`lib/acp_client.rb`) with the agent's own
+system prompt and tools turned off where the agent allows it. The default is
+Gemini 4 Hydrogen (high) through the Antigravity ACP server
+(`~/.local/share/agy-acp-server/agy_acp_server.par`, or `AGY_ACP_SERVER`).
+Claude (`npm i -g @agentclientprotocol/claude-agent-acp`) and Codex
+(`npm i -g @agentclientprotocol/codex-acp`) work too:
+
+```sh
+ruby scripts/acp_models.rb codex --home ~/.codex-multi-2   # list models and options
+ruby scripts/author_cycle.rb --tag … --provider claude --model sonnet --home ~/.claude-2
+```
+
+`docs/authoring-model-benchmark.md` compares the models;
+`scripts/bench_models.rb` reruns that comparison. `docs/adding-words.md` is the
+step-by-step guide for an agent running a cycle.
+
 ## Web contributions
 
 Members of the Jibiki website can propose edits that moderators approve. These

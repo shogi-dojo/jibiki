@@ -112,6 +112,7 @@ class BccwjBatchTest < Minitest::Test
       assert_equal [out_path], rendered
 
       content = File.read(out_path, encoding: 'UTF-8')
+      assert_equal content, renderer.render_text(row: sources.first, data: payload['1'])
       assert_includes content, '#+TITLE: 青'
       assert_includes content, ':LEARNER_PRIORITY: primary'
       assert_includes content, '- text :: синій, блакитний'

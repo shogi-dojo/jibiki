@@ -287,6 +287,16 @@ module BccwjBatch
     end
 
     def render_item(row:, data:, item_label: nil)
+      text = render_text(row:, data:, item_label:)
+      path = row.fetch('path')
+      FileUtils.mkdir_p(File.dirname(path))
+      File.write(path, text, encoding: 'UTF-8')
+      path
+    end
+
+    # Renders one authored item to Org text without touching the filesystem,
+    # so callers can validate a payload before committing it to disk.
+    def render_text(row:, data:, item_label: nil)
       entry = BccwjBatch.symbolize_keys(row.fetch('entry'))
       id = row.fetch('jmdict_id').to_s
       english_senses = entry[:senses].select { |s| english_sense?(s) }
@@ -305,11 +315,7 @@ module BccwjBatch
         created_at: @created_at
       )
 
-      updated = splice_authored_sections(text:, id:, row:, data:)
-      path = row.fetch('path')
-      FileUtils.mkdir_p(File.dirname(path))
-      File.write(path, updated, encoding: 'UTF-8')
-      path
+      splice_authored_sections(text:, id:, row:, data:)
     end
 
     private
