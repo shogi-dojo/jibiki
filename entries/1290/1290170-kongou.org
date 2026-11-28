@@ -1,0 +1,143 @@
+#+TITLE: 根号
+#+JMDICT_ID: 1290170
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: こんごう
+#+ROMAJI: kongou
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1290170-001
+:PROPERTIES:
+:TEXT: 根号
+:END:
+** Reading rd-1290170-001
+:PROPERTIES:
+:TEXT: こんごう
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1290170-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 2faca995cccc271294c1022f6bed65c3e80f555cdc6ca152a8c008c288e40749
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- radical sign
+- root sign
+** Ukrainian glosses
+*** uk-s-1290170-001-001
+:PROPERTIES:
+:END:
+- text :: знак кореня; радикал
+** Learner notes
+*** note-s-1290170-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (складне слово з 根 «корінь» та 号 «знак, символ»), що позначає символ √ (знак квадратного або n-го кореня). Часто вживається у шкільній алгебрі у зворотах 根号を外す (звільнитися від знака кореня) та 根号を含む式 (вираз зі знаком кореня).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1290170-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: この式には根号がついている。
+- READING :: このしきにはこんごうがついている。
+- UK :: У цьому виразі є знак кореня.
+- FOCUS :: 根号
+*** ex-1290170-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 平方根を表すときに使う記号を、数学では根号と呼ぶ。
+- READING :: へいほうこんをあらわすときにつかうきごうを、すうがくではこんごうとよぶ。
+- UK :: Символ, яким позначають квадратний корінь, у математиці називають знаком кореня.
+- FOCUS :: 根号
+*** ex-1290170-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 根号の中の数が平方数なら、計算して整数の形に直すことができる。
+- READING :: こんごうのなかのかずがへいほうすうなら、けいさんしてせいすうのかたちになおすことができる。
+- UK :: Якщо число під знаком кореня є повним квадратом, його можна обчислити й записати у вигляді цілого числа.
+- FOCUS :: 根号
+
+* Sense s-1290170-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d2319f9e2aa9b965a3304dc53dc7f79504b99aec7d9955b50af0efd6e88c2033
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290170-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Wurzelzeichen
+*** en-s-1290170-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: √
+** Ukrainian glosses
+
+* Sense s-1290170-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 01c1e5b8b87c02b1cb2b2bd6a1ec44f3608064ec3642d11c9e841767a54da5ae
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290170-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: négyzetgyök
+** Ukrainian glosses
+
+* Sense s-1290170-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 55be6f0d9ebc9f1ae629aa61b55929d79c629c0043be1c6ad2f2521f39be1b7f
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1290170-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) знак корня
+** Ukrainian glosses
