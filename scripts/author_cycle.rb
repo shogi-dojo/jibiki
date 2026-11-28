@@ -6,7 +6,10 @@
 # for failing words) → render → jb check → one commit per word → checkpoint
 # ledgers → Kanjium accents. Resumable: rerun the same command after a stop.
 #
-#   ruby scripts/author_cycle.rb --tag n10k-500aa --min-rank 81734 --limit 500
+#   ruby scripts/author_cycle.rb --tag n10k-500ab --next 500
+#
+# --next N selects N words from the highest BCCWJ rank the ledgers record on;
+# --min-rank/--limit pick the range by hand.
 #
 # The model defaults to Gemini 4 Hydrogen (high) through Antigravity; pick
 # another with --provider/--model (scripts/acp_models.rb lists them).
@@ -35,8 +38,9 @@ options = {
   commit: true, checkpoint: true, provider: DEFAULT_MODEL[:provider]
 }
 OptionParser.new do |cli|
-  cli.banner = 'Usage: author_cycle.rb --tag TAG (--sources FILE | --min-rank N --limit N) [options]'
+  cli.banner = 'Usage: author_cycle.rb --tag TAG (--next N | --sources FILE | --min-rank N --limit N) [options]'
   cli.on('--tag TAG', 'Work directory name under tmp/') { |v| options[:tag] = v }
+  cli.on('--next N', Integer, 'Selection: N words, continuing from the last rank in the ledgers') { |v| options[:next] = v }
   cli.on('--sources FILE', 'Use an existing selection instead of selecting') { |v| options[:sources] = v }
   cli.on('--min-rank N', Integer, 'Selection: minimum BCCWJ rank') { |v| options[:min_rank] = v }
   cli.on('--limit N', Integer, 'Selection: number of words') { |v| options[:limit] = v }
@@ -61,6 +65,10 @@ if options[:provider] == DEFAULT_MODEL[:provider] && options[:model].nil?
 end
 
 Dir.chdir(ROOT)
+if options[:next]
+  options[:min_rank] ||= Authoring::SetNames.last_bccwj_rank || abort('No BCCWJ ledger found; use --min-rank.')
+  options[:limit] ||= options[:next]
+end
 work = File.join('tmp', options[:tag])
 FileUtils.mkdir_p(work)
 data = ->(path) { File.join(options[:data_root], path) }
@@ -83,7 +91,7 @@ sources_path = options[:sources] || File.join(work, 'sources.json')
 baseline_path = File.join(work, 'baseline')
 File.write(baseline_path, `git rev-parse HEAD`) if options[:commit] && !File.exist?(baseline_path)
 unless File.exist?(sources_path)
-  abort 'Provide --sources or --min-rank and --limit.' unless options[:min_rank] && options[:limit]
+  abort 'Provide --next, --sources or --min-rank and --limit.' unless options[:min_rank] && options[:limit]
   run!(RbConfig.ruby, 'scripts/select_bccwj.rb', '--min-rank', options[:min_rank].to_s, '--limit', options[:limit].to_s,
        '--bccwj', data.(BccwjBatch::DEFAULT_BCCWJ_PATH), '--jmdict-cache', data.(BccwjBatch::DEFAULT_JMDICT_CACHE),
        '--warodai-cache', data.(BccwjBatch::DEFAULT_WARODAI_CACHE), '--output', sources_path)

@@ -35,6 +35,19 @@ module Authoring
 
     def next_set_number(root = '.') = Dir.glob(File.join(root, LEDGER_GLOB)).size + 1
 
+    # The highest BCCWJ rank any ledger records: where the next cycle's
+    # selection starts (the selector skips words that already have entries).
+    def last_bccwj_rank(root = '.')
+      Dir.glob(File.join(root, LEDGER_GLOB)).filter_map do |path|
+        lines = File.readlines(path, chomp: true, encoding: 'UTF-8')
+        header = lines.shift.to_s.split("\t")
+        source, order = header.index('source'), header.index('source_order')
+        next unless source && order
+
+        lines.map { |l| l.split("\t") }.select { |f| f[source].to_s.include?('BCCWJ') }.map { |f| f[order].to_i }.max
+      end.max
+    end
+
     # count ledger paths for date, using letters not yet taken that day.
     def ledger_paths(date, count, root = '.')
       taken = Dir.glob(File.join(root, "docs/n10k-next100-#{date}?.tsv")).map { |p| p[/(.)\.tsv\z/, 1] }
