@@ -1,0 +1,144 @@
+#+TITLE: 薬価
+#+JMDICT_ID: 1538180
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: やっか
+#+ROMAJI: yakka
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1538180-001
+:PROPERTIES:
+:TEXT: 薬価
+:END:
+*** Priorities
+- news1
+- nf19
+** Reading rd-1538180-001
+:PROPERTIES:
+:TEXT: やっか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+*** Priorities
+- news1
+- nf19
+** Reading rd-1538180-002
+:PROPERTIES:
+:TEXT: やくか
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1538180-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 19a9dda923e83a9d3ff2c00b5233420c9f708c4f09d5d984ef5347ebee327101
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+** English glosses
+- drug price
+- cost of medicine
+** Ukrainian glosses
+*** uk-s-1538180-001-001
+:PROPERTIES:
+:END:
+- text :: ціна ліків; вартість медикаментів
+** Learner notes
+*** note-s-1538180-001-001
+:PROPERTIES:
+:END:
+- UK :: Економічний і медичний термін, утворений із 薬 (ліки) та 価 (ціна, вартість). У системі охорони здоров'я Японії насамперед позначає офіційно встановлену державою ціну рецептурних препаратів (薬価基準), за якою розраховуються страхові відшкодування.
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1538180-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 新しい薬の薬価が決められた。
+- READING :: あたらしいくすりのやっかがきめられた。
+- UK :: Встановили ціну на нові ліки.
+- FOCUS :: 薬価
+*** ex-1538180-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: 政府は医療費を抑えるため、毎年薬価の見直しを行っている。
+- READING :: せいふはいりょうひをおさえるため、まいとしやっかのみなおしをおこなっている。
+- UK :: Щоб стримати витрати на медицину, уряд щороку переглядає ціни на ліки.
+- FOCUS :: 薬価
+*** ex-1538180-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 高額な新薬の登場に伴い、患者の負担軽減と薬価制度の持続可能性が議論されている。
+- READING :: こうがくなしんやくのとうじょうにともない、かんじゃのふたんけいげんとやっかせいどのじぞくかのうせいがぎろんされている。
+- UK :: З появою дорогих нових препаратів обговорюють зменшення навантаження на пацієнтів і сталість системи ціноутворення на ліки.
+- FOCUS :: 薬価
+
+* Sense s-1538180-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: d66af9f77056803f98ed5cad5abbc5f6ed01dedcc19d301ad4f9b0ef684ef0c1
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538180-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneimittelpreis
+*** en-s-1538180-002-002
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Medikamentenpreis
+*** en-s-1538180-002-003
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Arzneikosten
+** Ukrainian glosses
+
+* Sense s-1538180-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 1efaf5dac53de28d3188b8b257f1666bd9ed831d816a06e8379e03ef5c2f8d0d
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1538180-003-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: цена (стоимость) лекарства
+** Ukrainian glosses
