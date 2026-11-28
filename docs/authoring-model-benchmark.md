@@ -42,6 +42,10 @@ Set B: 無欲 迷宮入り 名句 免許皆伝 元払い 門外不出 焼き豚 
 | model | first-try fails | still failing | seconds | output tokens | ≈ $ | subscription usage | quality |
 |---|---|---|---|---|---|---|---|
 | **Gemini 4 Hydrogen (high)** | 0 | 0 | 184 | 11.4k | ~0.13 | Gemini 5h +2, week +1 | ★★★ |
+| Gemini 4 Neon (high) | 1 | 0 | 1,627 | 12.6k | ~0.33 | Gemini 5h +4, week +2 | ★★★ |
+| Gemini 4 Hydrogen (low) | 18 | 0 | 251 | 16.4k | ~0.20 | Gemini 5h +2, week +0 | ★★½ |
+| Gemini 4 Carbon (high) | 4 | 0 | 1,069 | 13.0k | ~0.23 | Gemini 5h +4, week +0 | ★★½ |
+| Gemini 4 Argon (high) | 1 | 0 | 131 | 11.3k | ~0.21 | Gemini 5h +2, week +1 | ★★ |
 | Gemini 3.8 Flash (high) | 0 (2 on a first run) | 0 | 356 (685 on a first run) | 10.8k | ~0.07 | Gemini 5h +1, week +0 | ★★ |
 | Claude Opus 5.5 | 1 | 0 | 273 | 29.0k | 0.63 | Claude session +5, week +1 | ★★★ |
 | Claude Sonnet 5.5 | 1 | 0 | 127 | 13.8k | 0.16 | Claude session about +2 | ★★½ |
@@ -62,6 +66,10 @@ Notes on the numbers:
 - Antigravity's speed varies from run to run: Flash took 685 s with two
   retries the first time and 356 s with none on a rerun with the same prompt.
   The table's Flash figures are from the rerun, whose usage could be read.
+  Neon spent 1,332 s on one 20-word call and Carbon 854 s on another; Argon
+  never took more than 74 s.
+- The Antigravity usage panel caches its numbers: press the refresh button
+  next to "Models & Usage" before reading them.
 - Sonnet's figure is its last set-A run plus set B. Two earlier set-A runs
   exposed the missing-reading bug fixed on this branch, and their usage is
   left out.
@@ -85,6 +93,11 @@ review checked:
     (春 (はる), 夜明け (よあけ)) and give typical collocations.
   - Natural Ukrainian, and no defects found.
   - It writes in the style of the existing corpus, which was written with it.
+- **Gemini 4 Neon (high).** The best Ukrainian of the Gemini runs:
+  спересердя, згарячу, на схилі літ. Accurate on every hard sense, including
+  the net-slang "baseball fan" of 焼き豚 and the historical senses of 矢場 and
+  夜鷹. No defects found. It costs twice Hydrogen's quota and its speed swings
+  widely.
 - **Claude Opus 5.5.** As accurate as Hydrogen, with concise and pointed
   notes and natural Ukrainian. No defects found. It costs five times as much.
 - **GPT-6.2 Astra.** Among the most idiomatic Ukrainian of all the runs, with
@@ -99,6 +112,17 @@ review checked:
   - a repeated gloss (відсіювати; відсіювати кандидатів);
   - 今回 translated as "this year's";
   - one misreading (だいしだいに).
+- **Gemini 4 Hydrogen (low).** Content close to Hydrogen high, with shorter
+  notes. On set B it wrote the particle は as わ in 18 readings; the kana check
+  caught them all and one retry fixed them. It saves no quota or time over
+  high.
+- **Gemini 4 Carbon (high).** Idiomatic Ukrainian (зажеврів промінь надії,
+  зопалу) and correct senses, but careless readings: 無欲 as むゆく, a kanji left
+  in a reading, and a note over the cap. Slow on set A.
+- **Gemini 4 Argon (high).** By far the fastest, about 3 s per word, at
+  Hydrogen's quota. Its glosses are sound, but it wrote Greek letters inside
+  a Ukrainian word (зоπαлу), glued a non-word (черезтинання) and misread 半分
+  as ふんぶん.
 - **Gemini 3.8 Flash.** Correct but plainer. Its notes are generic and some
   wording is stiff or overstated: велетенський for "outsize", Крикнув у стані
   гніву.
@@ -111,8 +135,8 @@ review checked:
   15 Ukrainian sentences. Several readings skipped part of the sentence.
 
 The new style checks in `lib/authoring/item_check.rb` came out of this review.
-They catch Japanese punctuation in Ukrainian text, words mixing Latin and
-Cyrillic letters, and spaces in readings, so those words get a retry.
+They catch Japanese punctuation in Ukrainian text, Latin or Greek letters
+inside Cyrillic words, and spaces in readings, so those words get a retry.
 
 MeCab's reading flags are mostly MeCab's own mistakes: 接ぐ as つぐ, 一審 as
 いちしん, 一曲 as いちきょく. Still, they also caught each real misreading
@@ -124,13 +148,16 @@ above, so they are worth a glance but are never a reason to retry.
 `scripts/author_cycle.rb`:
 
 - It is the only run with no retries on either set at the top quality tier.
-- It was the fastest, about 90 seconds per 20 words.
+- It was the fastest of the top tier, about 90 seconds per 20 words.
 - It cost about $0.13 per 40 words at list prices and about 2 points of the
   Gemini 5-hour window.
 
-At that rate a 500-word cycle takes about 40 minutes of model time. It should
-use about 25 points of one Gemini 5-hour window and 12 points of the week,
-spread over the windows the run spans.
+The first full cycle with it (`n10k-500aa`, 500 words) took 52 minutes, 47.5
+of them model time, in 23 calls with 3 retries and no word left failing. It
+used 16 points of one Gemini 5-hour window and 5 points of the week, about
+$1.60 at list prices. MeCab flagged 106 readings, of which three were real
+model slips (白い as しおろい, 食料 as しろくりょう, 年 as ねん) that the checks
+let through and were fixed by hand.
 
 Fallbacks, if the Gemini quota runs out:
 
@@ -140,6 +167,11 @@ Fallbacks, if the Gemini quota runs out:
   choice.
 - **Gemini 3.8 Flash** (`--model gemini-3.8-flash`) uses half of Hydrogen's
   Gemini quota. Its content is correct but plainer, and its speed varies.
+
+Gemini 4 Neon (high) is as good as Hydrogen or slightly better, at twice the
+quota and with unpredictable speed: use it for a hard batch. Argon is the
+fastest but slips more; Carbon and Hydrogen low bring nothing over Hydrogen
+high.
 
 Opus and Astra are as good as Hydrogen but cost four to five times as much.
 Keep them for the occasional hard batch. Haiku and Luna are not good enough
