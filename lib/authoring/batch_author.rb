@@ -37,7 +37,7 @@ module Authoring
       (@max_retries + 1).times do
         prompt = Prompt.build(pending.values, numbers: pending.keys, errors:, readings: true)
         reply = @llm.call(**prompt)
-        parsed = ReplyParser.parse(reply.text, pending)
+        parsed = ReplyParser.parse(reply.text, pending, readings: true)
         checked = ItemCheck.run(@renderer, parsed.payload.to_h { |n, data| [n, [pending[n], data]] },
                                 scanner: @scanner)
         payload.merge!(parsed.payload.reject { |n, _| checked.key?(n) })

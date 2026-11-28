@@ -28,6 +28,14 @@ class AuthoringReplyParserTest < Minitest::Test
     assert_equal 'あおになりました。', parse(reply).payload['1']['examples'][0][1]
   end
 
+  def test_missing_readings_fail_the_item_when_readings_are_requested
+    reply = AuthoringRows.ao_reply.sub('|Загорілося зелене.|', '|Загорілося зелене.||あおになりました。')
+    result = Authoring::ReplyParser.parse(reply, { '1' => AuthoringRows.ao }, readings: true)
+
+    assert_empty result.payload
+    assert_equal ['every E line needs its reading as the last field'], result.errors['1']
+  end
+
   def test_problems_are_reported_per_item_and_good_items_survive
     rows = { '1' => AuthoringRows.ao, '2' => AuthoringRows.ao, '3' => AuthoringRows.ao }
     bad = AuthoringRows.ao_reply(2).sub(/^G2\|.*\n/, '').sub(/^E\|信号.*\n/, '')

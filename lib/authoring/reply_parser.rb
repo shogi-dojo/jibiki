@@ -18,7 +18,7 @@ module Authoring
     module_function
 
     # rows_by_number: { "N" => selection row } for the items that were asked.
-    def parse(text, rows_by_number)
+    def parse(text, rows_by_number, readings: false)
       items = collect(text)
       payload = {}
       errors = Hash.new { |h, k| h[k] = [] }
@@ -31,7 +31,7 @@ module Authoring
         end
 
         errors[number].concat(item[:problems])
-        data = build_item(item, row, errors[number])
+        data = build_item(item, row, errors[number], readings:)
         payload[number] = data if errors[number].empty?
       end
 
@@ -74,7 +74,7 @@ module Authoring
       end
     end
 
-    def build_item(item, row, errors)
+    def build_item(item, row, errors, readings: false)
       sense_count = Prompt.english_senses(row).size
       expected = (1..sense_count).to_a
       got = item[:senses].keys.sort
@@ -85,6 +85,9 @@ module Authoring
       end
 
       examples = item[:examples].map { |fields| example_tuple(fields, errors) }
+      if readings && examples.any? { |ex| ex && ex[1].nil? }
+        errors << 'every E line needs its reading as the last field'
+      end
       errors << "expected #{EXAMPLE_COUNT} examples, got #{examples.size}" unless examples.size == EXAMPLE_COUNT
       return nil unless errors.empty?
 
