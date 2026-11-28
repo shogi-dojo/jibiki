@@ -1,0 +1,142 @@
+#+TITLE: 不等式
+#+JMDICT_ID: 1740330
+#+SCHEMA_VERSION: 2
+#+PRIMARY_READING: ふとうしき
+#+ROMAJI: futoushiki
+#+ENTRY_STATUS: draft
+#+QUALITY_PROFILE: learner
+#+JMDICT_SOURCE_SHA256: a4e5e9fc6634597b23f774d87b645f0317fd446907d73f66d122bb81a42eca41
+#+CREATED_AT: 2026-11-28
+#+DEFAULT_AUTHOR_ID: antigravity
+#+DEFAULT_LICENSE: CC-BY-SA-4.0
+#+DEFAULT_SOURCE_TYPE: original
+#+DEFAULT_STATUS: draft
+
+* Forms
+** Written form wf-1740330-001
+:PROPERTIES:
+:TEXT: 不等式
+:END:
+** Reading rd-1740330-001
+:PROPERTIES:
+:TEXT: ふとうしき
+:NO_KANJI: false
+:END:
+*** Applies to written forms
+- *
+
+* Sense s-1740330-001
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 1
+:SOURCE_FINGERPRINT: 3a563720c684f1670560f8b11450414fbfe6e756f4d32beba1c392bbebf1f97c
+:LEARNER_PRIORITY: primary
+:END:
+** JMdict metadata
+*** Parts of speech
+- n
+*** Fields
+- math
+** English glosses
+- inequality (expression)
+** Ukrainian glosses
+*** uk-s-1740330-001-001
+:PROPERTIES:
+:END:
+- text :: нерівність (математичний вираз)
+** Learner notes
+*** note-s-1740330-001-001
+:PROPERTIES:
+:END:
+- UK :: Математичний термін (іменник) на позначення виразу, що поєднує величини знаками порівняння (<, >, ≤, ≥) на противагу рівнянню 等式. Складається з 不等 (нерівний) і 式 (формула, вираз).
+- LEVEL :: advanced
+- REGISTER :: neutral
+** Examples
+*** ex-1740330-001-001
+:PROPERTIES:
+:LEVEL: beginner
+:REGISTER: neutral
+:END:
+- JA :: 今日の数学の授業で一次不等式を習いました。
+- READING :: きょうのすうがくのじゅぎょうでいちじふとうしきをならいました。
+- UK :: На сьогоднішньому уроці математики ми вивчали лінійні нерівності.
+- FOCUS :: 不等式
+*** ex-1740330-001-002
+:PROPERTIES:
+:LEVEL: neutral
+:REGISTER: neutral
+:END:
+- JA :: この不等式を解くためには、両辺を負の数で割る際の符号に注意が必要だ。
+- READING :: このふとうしきをとくためには、りょうへんをふのかずでわるさいのふごうにちゅういがひつようだ。
+- UK :: Щоб розв'язати цю нерівність, потрібно звернути увагу на знак під час ділення обох частин на від'ємне число.
+- FOCUS :: 不等式
+*** ex-1740330-001-003
+:PROPERTIES:
+:LEVEL: intermediate
+:REGISTER: neutral
+:END:
+- JA :: 三角形の成立条件は、三辺の長さに関するシンプルな不等式で表すことができる。
+- READING :: さんかくけいのせいりつじょうけんは、さんぺんのながさにかんするしんぷるなふとうしきであらわすことができる。
+- UK :: Умову існування трикутника можна виразити простою нерівністю для довжин трьох його сторін.
+- FOCUS :: 不等式
+
+* Sense s-1740330-002
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 2
+:SOURCE_FINGERPRINT: 6f66a092e7a5270b881afa5f229c188ea6fc00093170a170e6c49788c8e05496
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1740330-002-001
+:PROPERTIES:
+:LANG: ger
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: Ungleichung
+** Ukrainian glosses
+
+* Sense s-1740330-003
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 3
+:SOURCE_FINGERPRINT: 2d020bf255ed11ea64c8a4e792eb74026b550ef7230011503fe740fd76b2de3c
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1740330-003-001
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: egyenlőtlenség
+*** en-s-1740330-003-002
+:PROPERTIES:
+:LANG: hun
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: változékonyság
+** Ukrainian glosses
+
+* Sense s-1740330-004
+:PROPERTIES:
+:SOURCE_SENSE_INDEX: 4
+:SOURCE_FINGERPRINT: 2fb0c2c6074a39e6f03d175f0945206f6bf47c80d4f4a7fe8060ca30a1cf6759
+:END:
+** JMdict metadata
+*** Parts of speech
+** English glosses
+*** en-s-1740330-004-001
+:PROPERTIES:
+:LANG: rus
+:TYPE: plain
+:GENDER: none
+:PRIMARY: false
+:END:
+- text :: (мат.) неравенство
+** Ukrainian glosses
