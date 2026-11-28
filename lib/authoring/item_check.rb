@@ -46,7 +46,7 @@ module Authoring
       end
     end
 
-    MIXED_SCRIPT = /\p{Cyrillic}\p{Latin}|\p{Latin}\p{Cyrillic}/
+    MIXED_SCRIPT = /\p{Cyrillic}[\p{Latin}\p{Greek}]|[\p{Latin}\p{Greek}]\p{Cyrillic}/
     JA_PUNCT_AFTER_UK = /\p{Cyrillic}[。、]/
 
     def style_messages(data)
@@ -54,7 +54,7 @@ module Authoring
       messages = ukrainian.compact.uniq.flat_map do |text|
         found = []
         found << "Japanese punctuation in Ukrainian text: #{text[0, 40]}" if text.match?(JA_PUNCT_AFTER_UK)
-        found << "mixed Latin and Cyrillic letters in a word: #{text[0, 40]}" if text.match?(MIXED_SCRIPT)
+        found << "foreign letters inside a Cyrillic word: #{text[0, 40]}" if text.match?(MIXED_SCRIPT)
         found
       end
       Array(data['examples']).each do |ja, reading, _|
